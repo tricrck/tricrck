@@ -35,7 +35,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_USERNAME: ${{ github.repository_owner }}
         run: |
-          python scripts/github_scraper.py
+          python scripts/github_scrapper.py
           
       - name: 📜 Parse RSS dark scrolls
         run: |
