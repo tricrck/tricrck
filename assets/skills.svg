@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg baseProfile="full" height="500" version="1.1" width="800" xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><linearGradient id="bloodGradient"><stop offset="0" stop-color="#4A0000" /><stop offset="0.5" stop-color="#8B0000" /><stop offset="1" stop-color="#DC143C" /></linearGradient></defs><style type="text/css"><![CDATA[
+            @import url('https://fonts.googleapis.com/css2?family=Creepster&family=Metal+Mania&display=swap');
+            .skill-title { 
+                fill: #8B0000; 
+                font-family: 'Metal Mania', cursive; 
+                font-size: 24px;
+                text-shadow: 2px 2px 4px #000;
+            }
+            .skill-name { 
+                fill: #F5F5DC; 
+                font-family: 'Courier New', monospace; 
+                font-size: 14px; 
+                font-weight: bold;
+            }
+            .skill-level { 
+                fill: #DC143C; 
+                font-family: 'Courier New', monospace; 
+                font-size: 12px; 
+            }
+            .bar-bg { fill: #1a1a1a; stroke: #4A0000; stroke-width: 1; }
+            .bar-fill { 
+                fill: url(#bloodGradient); 
+                animation: pulse 2s ease-in-out infinite;
+            }
+            @keyframes pulse {
+                0%, 100% { opacity: 0.8; }
+                50% { opacity: 1; }
+            }
+            .glow {
+                filter: drop-shadow(0 0 8px #8B0000);
+            }
+        ]]></style><rect fill="#0a0a0a" height="500" width="800" x="0" y="0" /><text class="skill-title glow" text-anchor="middle" x="400.0" y="35">⚔️ DARK SKILLS GRIMOIRE ⚔️</text><text class="skill-name" x="50" y="88">JavaScript</text><rect class="bar-bg" height="25" width="500" x="200" y="70" /><rect class="bar-fill" height="25" width="40.40404040404041" x="200" y="70" /><text class="skill-level" x="710" y="88">Level 8 | 🕯️ Novice | 65.2%</text><text class="skill-name" x="50" y="133">C#</text><rect class="bar-bg" height="25" width="500" x="200" y="115" /><rect class="bar-fill" height="25" width="20.202020202020204" x="200" y="115" /><text class="skill-level" x="710" y="133">Level 4 | 🕯️ Novice | 13.9%</text><text class="skill-name" x="50" y="178">HTML</text><rect class="bar-bg" height="25" width="500" x="200" y="160" /><rect class="bar-fill" height="25" width="10.101010101010102" x="200" y="160" /><text class="skill-level" x="710" y="178">Level 2 | 🕯️ Novice | 6.6%</text><text class="skill-name" x="50" y="223">R</text><rect class="bar-bg" height="25" width="500" x="200" y="205" /><rect class="bar-fill" height="25" width="5.050505050505051" x="200" y="205" /><text class="skill-level" x="710" y="223">Level 1 | 🕯️ Novice | 3.0%</text><text class="skill-name" x="50" y="268">POV-Ray SDL</text><rect class="bar-bg" height="25" width="500" x="200" y="250" /><rect class="bar-fill" height="25" width="5.050505050505051" x="200" y="250" /><text class="skill-level" x="710" y="268">Level 1 | 🕯️ Novice | 2.6%</text><text class="skill-name" x="50" y="313">Python</text><rect class="bar-bg" height="25" width="500" x="200" y="295" /><rect class="bar-fill" height="25" width="5.050505050505051" x="200" y="295" /><text class="skill-level" x="710" y="313">Level 1 | 🕯️ Novice | 1.7%</text><text class="skill-name" x="50" y="358">CSS</text><rect class="bar-bg" height="25" width="500" x="200" y="340" /><rect class="bar-fill" height="25" width="5.050505050505051" x="200" y="340" /><text class="skill-level" x="710" y="358">Level 1 | 🕯️ Novice | 1.6%</text><text class="skill-name" x="50" y="403">C</text><rect class="bar-bg" height="25" width="500" x="200" y="385" /><rect class="bar-fill" height="25" width="5.050505050505051" x="200" y="385" /><text class="skill-level" x="710" y="403">Level 1 | 🕯️ Novice | 1.5%</text><text class="skill-level" text-anchor="middle" x="400.0" y="485">Last Ritual: 2025-10-13 17:07</text></svg>

@@ -1,0 +1,64 @@
+name: 🦇 Update Dark Profile Data
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # Every 6 hours - summon the ritual
+  workflow_dispatch:  # Manual dark invocation
+  push:
+    branches: [main]
+
+jobs:
+  summon-data:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+      - name: 🗡️ Checkout the crypt
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          
+      - name: 🐍 Awaken Python serpent
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+          
+      - name: 📦 Install dark dependencies
+        run: |
+          pip install --upgrade pip
+          pip install -r scripts/requirements.txt
+          
+      - name: 🔮 Scrape GitHub necromancy
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USERNAME: ${{ github.repository_owner }}
+        run: |
+          python scripts/github_scraper.py
+          
+      - name: 📜 Parse RSS dark scrolls
+        run: |
+          python scripts/feed_parser.py
+          
+      - name: 🎨 Generate cursed SVGs
+        run: |
+          python scripts/svg_generator.py
+          
+      - name: 📊 Update skill grimoire
+        run: |
+          python scripts/skill_calculator.py
+          
+      - name: 💀 Commit to the void
+        run: |
+          git config --local user.email "tricrck@gmail.com"
+          git config --local user.name "tricrck"
+          git add data/*.json assets/*.svg README.md
+          git diff --quiet && git diff --staged --quiet || \
+            git commit -m "🦇 Dark ritual complete - $(date +'%Y-%m-%d %H:%M:%S')"
+          
+      - name: ⚰️ Push to eternal darkness
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
