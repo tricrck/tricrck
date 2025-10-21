@@ -14,55 +14,49 @@
 
 </div>
 
+---# 📰 Latest Tech News# 📰 Latest Tech News
+# 📰 Latest Tech News
+
+## 🚨 Chaos Stories
+
+### AWS multiple services outage in us-east-1
+- **Published**: October 20, 2025
+- **Summary**: ......
+- **Keywords**: outage
+- [Read more](https://health.aws.amazon.com/health/status?ts=20251020)
+
+### Spiro raises $100M, the largest-ever investment in Africa’s e-mobility
+- **Published**: October 21, 2025
+- **Summary**: Dubai-headquartered Spiro is growing quickly with e-motorbikes and a battery swapping network designed for Africa's needs.......
+- [Read more](https://techcrunch.com/2025/10/21/spiro-raises-100m-the-largest-ever-investment-in-africas-e-mobility/)
+
 ---
 
-## 🎮 RPG Skill Grimoire
+### 🔮 Elemental Affinities
 
-### ⚔️ Combat Skills (Programming Languages)
-
-<!-- AUTO-GENERATED SKILL BARS - Updates every 6 hours -->
 <div align="center">
 
-![Skill Bars](https://raw.githubusercontent.com/tricrck/tricrck/main/assets/skills.svg)
+![Contribution Graph](https://raw.githubusercontent.com/tricrck/tricrck/main/assets/elemental_affinities.svg)
 
 </div>
+---
 
 ### 📊 Language Mastery Radar
 
 <div align="center">
 
-![Language Radar](https://raw.githubusercontent.com/tricrck/tricrck/main/assets/languages_radar.svg)
+![Language Radar](https://raw.githubusercontent.com/tricrck/tricrck/main/assets/cultivation_stats.svg)
 
 </div>
 
-### 🛡️ Defensive Arts (Infrastructure)
-
-| Dark Art | Proficiency | Rank | Level |
-|----------|-------------|------|-------|
-| **Docker** | ████████░░ 80% | Container Lord | 8 |
-| **Kubernetes** | ██████░░░░ 60% | Orchestration Reaper | 6 |
-| **AWS** | ██████░░░░ 60% | Cloud Wraith | 6 |
-| **Terraform** | ████░░░░░░ 40% | Infrastructure Lich | 4 |
-| **GitHub Actions** | █████░░░░░ 50% | Automation Necromancer | 5 |
-
 ---
+## Skill Grimoire
 
-## 📊 Dark Ritual Analytics
-
-### 🔮 Contribution Necromancy
+### ⚔️ Combat Skills (Programming Languages)
 
 <div align="center">
 
-![Contribution Graph](https://raw.githubusercontent.com/tricrck/tricrck/main/assets/contributions.svg)
+![Skill Bars](https://raw.githubusercontent.com/tricrck/tricrck/main/assets/skills.svg)
 
 </div>
-
-### 🌙 Nocturnal Coding Patterns
-
-```json
-{
-  "darkest_hour": 2,
-  "most_productive_day": "Friday",
-  "preferred_environment": "Moonlit Chamber",
-  "ritual_soundtrack": "Atmospheric Black Metal"
-}
+---# 📰 Latest Tech News

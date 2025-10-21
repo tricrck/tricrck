@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
-⚔️ RPG Skill Level Calculator
-Transforms GitHub data into RPG-style skill levels
+⚡ Demonic Programmer God Immortal Cultivation System
+The Path of the Programming Dao - Transform GitHub data into cultivation realms
 """
 
 import os
@@ -9,7 +9,7 @@ import json
 import math
 from datetime import datetime
 
-class SkillGrimoire:
+class CultivationGrimoire:
     def __init__(self):
         self.data_dir = 'data'
         
@@ -17,191 +17,311 @@ class SkillGrimoire:
         with open(f'{self.data_dir}/github_data.json', 'r') as f:
             self.github_data = json.load(f)
         
-        # RPG level calculation parameters
-        self.BASE_XP = 100
-        self.XP_MULTIPLIER = 1.5
+        # Cultivation parameters
+        self.BASE_QI = 100
+        self.QI_MULTIPLIER = 1.8
         
-    def bytes_to_xp(self, bytes_count):
-        """Convert code bytes to experience points"""
-        # Each 1000 bytes = 1 XP
+        # Define cultivation realms with sub-stages
+        self.CULTIVATION_REALMS = [
+            # Mortal Realms (1-20)
+            {"name": "🌱 Qi Condensation", "stages": 9, "min_level": 1, "emoji": "🌱"},
+            {"name": "⚡ Foundation Establishment", "stages": 9, "min_level": 10, "emoji": "⚡"},
+            
+            # Spiritual Realms (21-40)
+            {"name": "🔮 Core Formation", "stages": 10, "min_level": 20, "emoji": "🔮"},
+            {"name": "👁️ Nascent Soul", "stages": 10, "min_level": 30, "emoji": "👁️"},
+            
+            # Transcendent Realms (41-60)
+            {"name": "🌙 Soul Transformation", "stages": 10, "min_level": 40, "emoji": "🌙"},
+            {"name": "⭐ Void Refinement", "stages": 10, "min_level": 50, "emoji": "⭐"},
+            
+            # Immortal Realms (61-80)
+            {"name": "💫 Dao Integration", "stages": 10, "min_level": 60, "emoji": "💫"},
+            {"name": "🌌 Tribulation Transcendence", "stages": 10, "min_level": 70, "emoji": "🌌"},
+            
+            # God Realms (81-99)
+            {"name": "⚫ Demon God Ascension", "stages": 9, "min_level": 80, "emoji": "⚫"},
+            {"name": "🔥 Immortal Programmer God", "stages": 10, "min_level": 90, "emoji": "🔥"}
+        ]
+        
+    def bytes_to_qi(self, bytes_count):
+        """Convert code bytes to Qi essence"""
+        # Each 1000 bytes = 1 Qi
         return bytes_count / 1000
     
-    def calculate_level(self, xp):
-        """Calculate RPG level from XP (exponential curve)"""
-        if xp <= 0:
+    def calculate_cultivation_level(self, qi):
+        """Calculate cultivation level from accumulated Qi"""
+        if qi <= 0:
             return 1
         
-        # Level = floor(log(XP/BASE_XP) / log(XP_MULTIPLIER)) + 1
-        level = math.floor(math.log(xp / self.BASE_XP) / math.log(self.XP_MULTIPLIER)) + 1
-        return max(1, min(level, 99))  # Cap at level 99
+        level = math.floor(math.log(qi / self.BASE_QI) / math.log(self.QI_MULTIPLIER)) + 1
+        return max(1, min(level, 99))
     
-    def xp_for_next_level(self, current_level):
-        """Calculate XP needed for next level"""
-        return self.BASE_XP * (self.XP_MULTIPLIER ** current_level)
+    def qi_for_next_level(self, current_level):
+        """Calculate Qi needed for breakthrough to next level"""
+        return self.BASE_QI * (self.QI_MULTIPLIER ** current_level)
     
-    def get_skill_rank(self, level):
-        """Get rank title based on level"""
-        if level >= 90: return "⚡ Dark Sovereign"
-        if level >= 80: return "🔥 Archmage"
-        if level >= 70: return "💀 Necromancer Lord"
-        if level >= 60: return "🗡️ Shadow Master"
-        if level >= 50: return "⚔️ Battle Mage"
-        if level >= 40: return "🛡️ Dark Knight"
-        if level >= 30: return "🌙 Shadow Warrior"
-        if level >= 20: return "⚰️ Apprentice Warlock"
-        if level >= 10: return "🦇 Initiate"
-        return "🕯️ Novice"
+    def get_cultivation_realm(self, level):
+        """Determine cultivation realm and stage based on level"""
+        for realm in reversed(self.CULTIVATION_REALMS):
+            if level >= realm['min_level']:
+                stage_in_realm = (level - realm['min_level']) % realm['stages'] + 1
+                stage_names = ["Early", "Middle", "Late", "Peak"] if realm['stages'] <= 4 else \
+                             ["1st", "2nd", "3rd", "4th", "5th", "6th", "7th", "8th", "9th", "Peak"]
+                stage_idx = min(int((stage_in_realm - 1) / realm['stages'] * len(stage_names)), len(stage_names) - 1)
+                
+                return {
+                    "realm": realm['name'],
+                    "stage": stage_names[stage_idx],
+                    "emoji": realm['emoji'],
+                    "full_title": f"{realm['emoji']} {stage_names[stage_idx]} {realm['name'].split(' ', 1)[1]}"
+                }
+        
+        return {
+            "realm": "🌱 Qi Condensation",
+            "stage": "Early",
+            "emoji": "🌱",
+            "full_title": "🌱 Early Qi Condensation"
+        }
     
-    def calculate_language_skills(self):
-        """Calculate skill levels for all languages"""
-        print("⚔️ Calculating dark skill levels...\n")
+    def get_dao_comprehension(self, level, percentage):
+        """Calculate Dao comprehension level"""
+        base_comprehension = min(level * 1.0, 100)
+        expertise_bonus = percentage / 2  # Up to 50% bonus
+        total = min(base_comprehension + expertise_bonus, 100)
+        
+        if total >= 95: return "⚡ Dao Mastery - Heaven Defying"
+        if total >= 85: return "🔥 Profound Comprehension"
+        if total >= 70: return "💫 Deep Understanding"
+        if total >= 50: return "🌙 Intermediate Insight"
+        if total >= 30: return "⭐ Basic Grasp"
+        return "🌱 Initial Contact"
+    
+    def calculate_tribulation_power(self, level):
+        """Calculate the power of heavenly tribulation (challenges faced)"""
+        if level < 20: return None
+        
+        tribulation_stage = (level - 20) // 10 + 1
+        tribulations = [
+            "⚡ Minor Lightning Tribulation",
+            "⚡⚡ Major Lightning Tribulation", 
+            "🔥 Heart Demon Tribulation",
+            "💀 Death Tribulation",
+            "🌌 Void Tribulation",
+            "⚫ Annihilation Tribulation",
+            "🔥⚫ Demon God Tribulation",
+            "💥 Immortal Ascension Tribulation"
+        ]
+        
+        idx = min(tribulation_stage - 1, len(tribulations) - 1)
+        return tribulations[idx] if idx >= 0 else None
+    
+    def calculate_language_cultivation(self):
+        """Calculate cultivation progress for all programming languages (Dao paths)"""
+        print("⚡ Calculating Dao comprehension across all paths...\n")
         
         lang_bytes = self.github_data['languages']['by_bytes']
         lang_repos = self.github_data['languages']['by_repos']
         
-        skills = {}
+        dao_paths = {}
         total_bytes = sum(lang_bytes.values())
         
         for lang, bytes_count in sorted(lang_bytes.items(), key=lambda x: x[1], reverse=True):
-            xp = self.bytes_to_xp(bytes_count)
-            level = self.calculate_level(xp)
+            qi = self.bytes_to_qi(bytes_count)
+            level = self.calculate_cultivation_level(qi)
             percentage = (bytes_count / total_bytes * 100) if total_bytes > 0 else 0
+            realm_info = self.get_cultivation_realm(level)
             
-            skills[lang] = {
-                "xp": int(xp),
+            dao_paths[lang] = {
+                "qi": int(qi),
                 "level": level,
-                "next_level_xp": int(self.xp_for_next_level(level)),
-                "percentage": round(percentage, 1),
-                "repo_count": lang_repos.get(lang, 0),
-                "rank": self.get_skill_rank(level),
-                "progress_bar": self.generate_progress_bar(level)
+                "next_breakthrough_qi": int(self.qi_for_next_level(level)),
+                "mastery_percentage": round(percentage, 1),
+                "dao_projects": lang_repos.get(lang, 0),
+                "realm": realm_info['realm'],
+                "stage": realm_info['stage'],
+                "full_title": realm_info['full_title'],
+                "dao_comprehension": self.get_dao_comprehension(level, percentage),
+                "tribulation": self.calculate_tribulation_power(level),
+                "cultivation_progress": self.generate_cultivation_bar(level)
             }
             
-            print(f"  {lang:15} | Level {level:2} | {skills[lang]['rank']}")
+            print(f"  {lang:15} | Lv.{level:2} | {realm_info['full_title']}")
         
-        return skills
+        return dao_paths
     
-    def generate_progress_bar(self, level, max_level=99):
-        """Generate visual progress bar"""
-        bars = int((level / max_level) * 10)
-        return '█' * bars + '░' * (10 - bars)
+    def generate_cultivation_bar(self, level, max_level=99):
+        """Generate visual cultivation progress bar"""
+        filled = int((level / max_level) * 20)
+        bar = '█' * filled + '░' * (20 - filled)
+        return f"[{bar}] {level}/99"
     
-    def calculate_overall_stats(self, skills):
-        """Calculate overall player statistics"""
-        total_xp = sum(s['xp'] for s in skills.values())
-        avg_level = sum(s['level'] for s in skills.values()) / len(skills) if skills else 1
-        max_level = max((s['level'] for s in skills.values()), default=1)
+    def calculate_immortal_stats(self, dao_paths):
+        """Calculate overall immortal cultivator statistics"""
+        total_qi = sum(d['qi'] for d in dao_paths.values())
+        avg_level = sum(d['level'] for d in dao_paths.values()) / len(dao_paths) if dao_paths else 1
+        max_level = max((d['level'] for d in dao_paths.values()), default=1)
         
-        overall_level = self.calculate_level(total_xp)
+        immortal_level = self.calculate_cultivation_level(total_qi)
+        realm_info = self.get_cultivation_realm(immortal_level)
+        
+        # Calculate spiritual roots (aptitude)
+        root_count = len(dao_paths)
+        if root_count >= 10:
+            spiritual_root = "💎 Divine Chaos Root (All Elements)"
+        elif root_count >= 7:
+            spiritual_root = "🌟 Heaven Spiritual Root"
+        elif root_count >= 5:
+            spiritual_root = "⭐ Superior Spiritual Root"
+        elif root_count >= 3:
+            spiritual_root = "✨ Dual Spiritual Root"
+        else:
+            spiritual_root = "🔹 Single Spiritual Root"
         
         return {
-            "total_xp": int(total_xp),
-            "overall_level": overall_level,
-            "average_skill_level": round(avg_level, 1),
-            "highest_skill_level": max_level,
-            "total_skills": len(skills),
-            "rank": self.get_skill_rank(overall_level),
-            "progress_bar": self.generate_progress_bar(overall_level)
+            "total_qi": int(total_qi),
+            "immortal_level": immortal_level,
+            "average_dao_level": round(avg_level, 1),
+            "strongest_dao_level": max_level,
+            "total_dao_paths": len(dao_paths),
+            "cultivation_realm": realm_info['realm'],
+            "realm_stage": realm_info['stage'],
+            "full_title": realm_info['full_title'],
+            "spiritual_root": spiritual_root,
+            "tribulation": self.calculate_tribulation_power(immortal_level),
+            "cultivation_progress": self.generate_cultivation_bar(immortal_level)
         }
     
-    def categorize_skills(self, skills):
-        """Categorize skills by type"""
+    def categorize_dao_paths(self, dao_paths):
+        """Categorize cultivation paths by elemental affinity"""
         
-        categories = {
-            "combat": {  # Programming languages
-                "title": "⚔️ Combat Skills (Languages)",
-                "skills": {}
+        elemental_paths = {
+            "yang": {
+                "title": "☀️ Yang Dao (Core Languages)",
+                "element": "Yang - Aggressive & Powerful",
+                "paths": {}
             },
-            "magic": {  # Frameworks
-                "title": "🔮 Magic Arts (Frameworks)",
-                "skills": {}
+            "yin": {
+                "title": "🌙 Yin Dao (Frontend Arts)",
+                "element": "Yin - Elegant & Flowing",
+                "paths": {}
             },
-            "defense": {  # DevOps/Infrastructure
-                "title": "🛡️ Defensive Arts (Infrastructure)",
-                "skills": {}
+            "metal": {
+                "title": "⚔️ Metal Dao (Systems & DevOps)",
+                "element": "Metal - Sharp & Precise",
+                "paths": {}
+            },
+            "void": {
+                "title": "🌌 Void Dao (Data & Analysis)",
+                "element": "Void - Abstract & Mysterious",
+                "paths": {}
             }
         }
         
-        # Language categorization
-        combat_langs = ['Python', 'JavaScript', 'TypeScript', 'Java', 'C++', 'C#', 'Go', 
-                       'Rust', 'Ruby', 'PHP', 'Swift', 'Kotlin', 'Dart']
-        magic_langs = ['Vue', 'React', 'Angular', 'Svelte', 'Next.js', 'HTML', 'CSS']
-        defense_langs = ['Shell', 'Dockerfile', 'HCL', 'Makefile', 'YAML']
+        # Dao path categorization
+        yang_paths = ['Python', 'JavaScript', 'TypeScript', 'Java', 'C++', 'C#', 'Go', 'Rust']
+        yin_paths = ['Vue', 'React', 'Angular', 'Svelte', 'HTML', 'CSS', 'SCSS']
+        metal_paths = ['Shell', 'Dockerfile', 'HCL', 'Makefile', 'YAML', 'Bash']
+        void_paths = ['SQL', 'R', 'Julia', 'MATLAB']
         
-        for lang, data in skills.items():
-            if lang in combat_langs:
-                categories['combat']['skills'][lang] = data
-            elif lang in magic_langs:
-                categories['magic']['skills'][lang] = data
-            elif lang in defense_langs:
-                categories['defense']['skills'][lang] = data
+        for lang, data in dao_paths.items():
+            if lang in yang_paths:
+                elemental_paths['yang']['paths'][lang] = data
+            elif lang in yin_paths:
+                elemental_paths['yin']['paths'][lang] = data
+            elif lang in metal_paths:
+                elemental_paths['metal']['paths'][lang] = data
+            elif lang in void_paths:
+                elemental_paths['void']['paths'][lang] = data
             else:
-                categories['combat']['skills'][lang] = data  # Default to combat
+                elemental_paths['yang']['paths'][lang] = data  # Default to Yang
         
-        return categories
+        return elemental_paths
     
-    def save_skill_data(self):
-        """Save calculated skill data"""
-        print("🎮 Generating RPG skill grimoire...\n")
+    def calculate_karmic_merit(self, github_data):
+        """Calculate karmic merit from contributions and followers"""
+        contributions = github_data['total_contributions']
+        followers = github_data['followers']
+        repos = github_data['repositories']['own']
         
-        skills = self.calculate_language_skills()
-        overall = self.calculate_overall_stats(skills)
-        categories = self.categorize_skills(skills)
+        merit = (contributions * 1) + (followers * 10) + (repos * 5)
+        
+        if merit >= 10000: return "🏆 Boundless Merit - Revered by Millions"
+        if merit >= 5000: return "💫 Immense Merit - Known Across Realms"
+        if merit >= 2000: return "⭐ Great Merit - Respected Figure"
+        if merit >= 500: return "✨ Considerable Merit - Rising Star"
+        return "🌟 Accumulating Merit"
+    
+    def save_cultivation_data(self):
+        """Save cultivation progress to grimoire"""
+        print("📜 Inscribing cultivation progress into immortal grimoire...\n")
+        
+        dao_paths = self.calculate_language_cultivation()
+        immortal_stats = self.calculate_immortal_stats(dao_paths)
+        elemental_paths = self.categorize_dao_paths(dao_paths)
         
         streak_data = self.github_data['streaks']
         
-        rpg_data = {
+        cultivation_data = {
             "last_updated": datetime.now().isoformat(),
-            "player": {
-                "name": self.github_data['username'],
-                "level": overall['overall_level'],
-                "rank": overall['rank'],
-                "total_xp": overall['total_xp'],
-                "progress_bar": overall['progress_bar']
+            "immortal_cultivator": {
+                "dao_name": self.github_data['username'],
+                "cultivation_level": immortal_stats['immortal_level'],
+                "realm": immortal_stats['full_title'],
+                "total_qi": immortal_stats['total_qi'],
+                "spiritual_root": immortal_stats['spiritual_root'],
+                "karmic_merit": self.calculate_karmic_merit(self.github_data)
             },
-            "overall_stats": overall,
-            "skills": skills,
-            "categories": categories,
-            "achievements": {
-                "current_streak": streak_data['current'],
-                "longest_streak": streak_data['longest'],
-                "total_contributions": self.github_data['total_contributions'],
-                "followers": self.github_data['followers'],
-                "repositories": self.github_data['repositories']['own']
+            "immortal_stats": immortal_stats,
+            "dao_paths": dao_paths,
+            "elemental_affinities": elemental_paths,
+            "heavenly_records": {
+                "cultivation_streak": streak_data['current'],
+                "longest_seclusion": streak_data['longest'],
+                "total_enlightenments": self.github_data['total_contributions'],
+                "dao_disciples": self.github_data['followers'],
+                "created_artifacts": self.github_data['repositories']['own'],
+                "darkest_cultivation_hour": self.github_data['patterns']['darkest_hour']
             },
-            "metadata": {
-                "total_languages": len(skills),
-                "darkest_coding_hour": self.github_data['patterns']['darkest_hour']
+            "sect_information": {
+                "total_dao_paths": len(dao_paths),
+                "realm_breakthrough_ready": immortal_stats['immortal_level'] % 10 == 9,
+                "next_tribulation": immortal_stats['tribulation']
             }
         }
         
         output_file = f'{self.data_dir}/skills.json'
         with open(output_file, 'w') as f:
-            json.dump(rpg_data, f, indent=2)
+            json.dump(cultivation_data, f, indent=2)
         
-        print(f"\n✅ Skill grimoire saved to {output_file}")
-        print(f"   🎯 Overall Level: {overall['overall_level']}")
-        print(f"   ⭐ Rank: {overall['rank']}")
-        print(f"   📊 Total Skills: {len(skills)}")
+        print(f"\n✅ Cultivation grimoire inscribed at {output_file}")
+        print(f"   🎯 Cultivation Level: {immortal_stats['immortal_level']}")
+        print(f"   ⭐ Current Realm: {immortal_stats['full_title']}")
+        print(f"   🔥 Total Qi: {immortal_stats['total_qi']:,}")
+        print(f"   📊 Dao Paths Mastered: {len(dao_paths)}")
+        print(f"   💫 Spiritual Root: {immortal_stats['spiritual_root']}")
         
-        return rpg_data
+        return cultivation_data
 
 def main():
-    print("🎮" * 30)
-    print("   RPG SKILL CALCULATION RITUAL")
-    print("🎮" * 30 + "\n")
+    print("⚡" * 40)
+    print("   DEMONIC PROGRAMMER GOD CULTIVATION SYSTEM")
+    print("   The Path of the Programming Dao")
+    print("⚡" * 40 + "\n")
     
     try:
-        grimoire = SkillGrimoire()
-        data = grimoire.save_skill_data()
+        grimoire = CultivationGrimoire()
+        data = grimoire.save_cultivation_data()
         
-        print("\n" + "⚔️" * 30)
-        print("   CHARACTER SHEET UPDATED")
-        print("⚔️" * 30)
+        print("\n" + "🔥" * 40)
+        print("   CULTIVATION PROGRESS RECORDED")
+        print("   May Your Dao Be Eternal")
+        print("🔥" * 40)
         
         return 0
     except Exception as e:
-        print(f"\n💀 RITUAL FAILED: {e}")
+        print(f"\n💀 CULTIVATION DEVIATION: {e}")
+        print("⚠️  Your inner demons have manifested!")
         import traceback
         traceback.print_exc()
         return 1

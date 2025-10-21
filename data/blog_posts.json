@@ -1,154 +1,658 @@
 {
-  "last_updated": "2025-10-13T19:26:07.247490",
-  "stats": {
-    "total_feeds": 2,
-    "successful": 2,
-    "failed": 0,
-    "total_articles": 10
-  },
-  "articles": [
+  "chaos_ranked": [
     {
-      "title": "Slate Auto\u2019s electric truck: See it here first at TechCrunch Disrupt 2025",
-      "link": "https://techcrunch.com/2025/10/13/slate-autos-electric-truck-see-it-here-first-at-techcrunch-disrupt-2025/",
-      "summary": "Slate Auto CEO Chris Barman drives her new electric truck \u2014 literally \u2014 onto the Disrupt Stage at TechCrunch Disrupt 2025. Don\u2019t miss this world-first EV reveal and conversation about the future of mo...",
-      "published": "2025-10-13T15:00:00+00:00",
-      "tags": [
-        "TC",
-        "Startups",
-        "Transportation",
-        "hardware startups",
-        "electric truck",
-        "ev startup",
-        "TechCrunch Disrupt 2025",
-        "slate auto",
-        "Disrupt Stage",
-        "Chris Barman",
-        "automotive innovation",
-        "women in engineering",
-        "commercial EVs"
-      ]
+      "title": "AWS multiple services outage in us-east-1",
+      "link": "https://health.aws.amazon.com/health/status?ts=20251020",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=45640838\">Comments</a>...",
+      "published": "2025-10-20T07:22:28+00:00",
+      "domain": "health.aws.amazon.com",
+      "scores": {
+        "chaos": 28.8,
+        "anarchy": 3.0,
+        "overall": 15.9
+      },
+      "keywords": {
+        "chaos": [
+          "outage"
+        ],
+        "anarchy": []
+      }
     },
     {
-      "title": "AI and the Future of American Politics",
-      "link": "https://www.schneier.com/blog/archives/2025/10/ai-and-the-future-of-american-politics.html",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=45568955\">Comments</a>...",
-      "published": "2025-10-13T14:51:51+00:00",
-      "tags": []
+      "title": "Spiro raises $100M, the largest-ever investment in Africa\u2019s e-mobility",
+      "link": "https://techcrunch.com/2025/10/21/spiro-raises-100m-the-largest-ever-investment-in-africas-e-mobility/",
+      "summary": "Dubai-headquartered Spiro is growing quickly with e-motorbikes and a battery swapping network designed for Africa's needs....",
+      "published": "2025-10-21T09:35:22+00:00",
+      "domain": "techcrunch.com",
+      "scores": {
+        "chaos": 9.0,
+        "anarchy": 6.0,
+        "overall": 7.5
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
     },
     {
-      "title": "California becomes first state to regulate AI companion chatbots",
-      "link": "https://techcrunch.com/2025/10/13/california-becomes-first-state-to-regulate-ai-companion-chatbots/",
-      "summary": "SB 243 is designed to protect children and vulnerable users from harms associated with use of AI companion chatbots....",
-      "published": "2025-10-13T14:50:53+00:00",
-      "tags": [
-        "AI",
-        "Government & Policy",
-        "AI chatbots",
-        "ai companions",
-        "california",
-        "Gavin Newsom",
-        "sb 243"
-      ]
+      "title": "European AI rising star Nexos.ai raises \u20ac30M to unlock enterprise AI adoption",
+      "link": "https://techcrunch.com/2025/10/20/european-ai-rising-star-nexos-ai-raises-30m-to-unlock-enterprise-ai-adoption/",
+      "summary": "Nord Security co-founders have closed a \u20ac30 million Series A for their new startup, Nexos.ai, an orchestration platform aimed at helping companies adopt AI securely....",
+      "published": "2025-10-21T06:00:00+00:00",
+      "domain": "techcrunch.com",
+      "scores": {
+        "chaos": 9.0,
+        "anarchy": 6.0,
+        "overall": 7.5
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
     },
     {
-      "title": "The time is\u00a0now:\u00a0Only 5 days\u00a0remain\u00a0to book your exhibit table at TechCrunch Disrupt 2025",
-      "link": "https://techcrunch.com/2025/10/13/the-time-is-now-only-5-days-remain-to-book-your-exhibit-table-at-techcrunch-disrupt-2025/",
-      "summary": "If\u00a0you\u2019ve\u00a0been thinking about\u00a0joining 10,000+ startup and VC leaders at\u00a0TechCrunch Disrupt 2025\u00a0in San Francisco on October 27\u201329, the time to act is\u00a0now.\u00a0Lock in your place on the Expo floor,\u00a0where\u00a0i...",
-      "published": "2025-10-13T14:30:00+00:00",
-      "tags": [
-        "TC",
-        "Startups",
-        "Transportation",
-        "Space",
-        "Crypto",
-        "Climate",
-        "Fintech",
-        "Biotech & Health",
-        "Venture",
-        "Media & Entertainment",
-        "AI",
-        "Apps",
-        "Commerce",
-        "Gadgets",
-        "Fundraising",
-        "TechCrunch Disrupt 2025"
-      ]
+      "title": "YC alum Cercli, an AI-powered Rippling for MENA, raises oversubscribed $12M Series A",
+      "link": "https://techcrunch.com/2025/10/20/yc-alum-cercli-an-ai-powered-rippling-for-mena-raises-oversubscribed-12m-series-a/",
+      "summary": "In a region long defined by fragmented enterprise systems, outdated compliance tools, and HR software that rarely talks to finance, Cercli is building a unified alternative for MENA businesses with AI...",
+      "published": "2025-10-21T04:00:00+00:00",
+      "domain": "techcrunch.com",
+      "scores": {
+        "chaos": 9.0,
+        "anarchy": 6.0,
+        "overall": 7.5
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
     },
     {
-      "title": "Software update bricks some Jeep 4xe hybrids over the weekend",
-      "link": "https://arstechnica.com/cars/2025/10/software-update-bricks-some-jeep-4xe-hybrids-over-the-weekend/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=45568700\">Comments</a>...",
-      "published": "2025-10-13T14:28:25+00:00",
-      "tags": []
+      "title": "Apple will let users roll back the Liquid Glass look with new \u2018tinted\u2019 option",
+      "link": "https://techcrunch.com/2025/10/20/apple-will-let-users-roll-back-the-liquid-glass-look-with-new-tinted-option/",
+      "summary": "Apple is responding to user feedback on its new Liquid Glass design with a setting that lets users choose between Clear and Tinted appearances. Introduced in iOS 26.1 beta 4, the option gives users mo...",
+      "published": "2025-10-20T21:40:41+00:00",
+      "domain": "techcrunch.com",
+      "scores": {
+        "chaos": 9.0,
+        "anarchy": 6.0,
+        "overall": 7.5
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
     },
     {
-      "title": "Final Flash Sale: Save up to $624 on your TechCrunch Disrupt 2025 pass \u2014 Ends Oct 17",
-      "link": "https://techcrunch.com/2025/10/13/final-flash-sale-save-up-to-624-on-your-techcrunch-disrupt-2025-pass-ends-friday/",
-      "summary": "The final countdown to Disrupt 2025! Save up to $624 on your pass before prices rise Friday, October 17 at 11:59 p.m. PT. Join 10,000+ founders, investors, and operators for 200+ sessions, 250+ leader...",
-      "published": "2025-10-13T14:00:00+00:00",
-      "tags": [
-        "TC",
-        "Startups",
-        "Transportation",
-        "Space",
-        "Climate",
-        "Fintech",
-        "Biotech & Health",
-        "Venture",
-        "Media & Entertainment",
-        "AI",
-        "Apps",
-        "Robotics",
-        "Fundraising",
-        "roelof botha",
-        "Vinod Khosla",
-        "kevin scott",
-        "Startup Battlefield 200",
-        "TechCrunch Disrupt 2025",
-        "Founder Pass",
-        "Investor Pass",
-        "startup conference",
-        "Phoebe Gates",
-        "TechCrunch tickets",
-        "flash sale"
-      ]
+      "title": "Top OpenAI, Google Brain researchers set off a $300M VC frenzy for their startup Periodic Labs",
+      "link": "https://techcrunch.com/2025/10/20/top-openai-google-brain-researchers-set-off-a-300m-vc-frenzy-for-their-startup-periodic-labs/",
+      "summary": "When Liam Fedus announced he was quitting OpenAI, VCs swarmed. One even wrote a love letter. Here's how Felicis' Peter Deng won the deal....",
+      "published": "2025-10-20T21:15:24+00:00",
+      "domain": "techcrunch.com",
+      "scores": {
+        "chaos": 9.0,
+        "anarchy": 6.0,
+        "overall": 7.5
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
     },
     {
-      "title": "No Science, No Startups: The Innovation Engine We're Switching Off",
-      "link": "https://steveblank.com/2025/10/13/no-science-no-startups-the-unseen-engine-were-switching-off/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=45567877\">Comments</a>...",
-      "published": "2025-10-13T13:02:20+00:00",
-      "tags": []
+      "title": "Show HN: I'm rewriting a web server written in Rust for speed and ease of use",
+      "link": "https://ferron.sh/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=45653350\">Comments</a>...",
+      "published": "2025-10-21T07:26:57+00:00",
+      "domain": "ferron.sh",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
     },
     {
-      "title": "Show HN: SQLite Online \u2013 11 years of solo development, 11K daily users",
-      "link": "https://sqliteonline.com/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=45567770\">Comments</a>...",
-      "published": "2025-10-13T12:46:52+00:00",
-      "tags": []
+      "title": "Pasta/80 is a simple Pascal cross compiler targeting the Z80 microprocessor",
+      "link": "https://github.com/pleumann/pasta80",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=45653330\">Comments</a>...",
+      "published": "2025-10-21T07:23:09+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
     },
     {
-      "title": "Salesforce announces Agentforce 360 as enterprise AI competition heats up",
-      "link": "https://techcrunch.com/2025/10/13/salesforce-announces-agentforce-360-as-enterprise-ai-competition-heats-up/",
-      "summary": "Salesforce announces an upgraded version of its Agentforce platform designed to help enterprises build and deploy AI agents....",
-      "published": "2025-10-13T12:00:00+00:00",
-      "tags": [
-        "Enterprise",
-        "TC",
-        "AI",
-        "Dreamforce",
-        "Salesforce",
-        "AI agents",
-        "artificial intelligence",
-        "Agentforce"
-      ]
+      "title": "Language Support for Marginalia Search",
+      "link": "https://www.marginalia.nu/log/a_126_multilingual/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=45653143\">Comments</a>...",
+      "published": "2025-10-21T06:48:53+00:00",
+      "domain": "marginalia.nu",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
     },
     {
-      "title": "Spotlight on pdfly, the Swiss Army knife for PDF files",
-      "link": "https://chezsoi.org/lucas/blog/spotlight-on-pdfly.html",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=45566139\">Comments</a>...",
-      "published": "2025-10-13T08:36:33+00:00",
-      "tags": []
+      "title": "Practical Scheme",
+      "link": "https://practical-scheme.net/index.html#docs",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=45652859\">Comments</a>...",
+      "published": "2025-10-21T05:47:39+00:00",
+      "domain": "practical-scheme.net",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    }
+  ],
+  "anarchy_ranked": [
+    {
+      "title": "Spiro raises $100M, the largest-ever investment in Africa\u2019s e-mobility",
+      "link": "https://techcrunch.com/2025/10/21/spiro-raises-100m-the-largest-ever-investment-in-africas-e-mobility/",
+      "summary": "Dubai-headquartered Spiro is growing quickly with e-motorbikes and a battery swapping network designed for Africa's needs....",
+      "published": "2025-10-21T09:35:22+00:00",
+      "domain": "techcrunch.com",
+      "scores": {
+        "chaos": 9.0,
+        "anarchy": 6.0,
+        "overall": 7.5
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "European AI rising star Nexos.ai raises \u20ac30M to unlock enterprise AI adoption",
+      "link": "https://techcrunch.com/2025/10/20/european-ai-rising-star-nexos-ai-raises-30m-to-unlock-enterprise-ai-adoption/",
+      "summary": "Nord Security co-founders have closed a \u20ac30 million Series A for their new startup, Nexos.ai, an orchestration platform aimed at helping companies adopt AI securely....",
+      "published": "2025-10-21T06:00:00+00:00",
+      "domain": "techcrunch.com",
+      "scores": {
+        "chaos": 9.0,
+        "anarchy": 6.0,
+        "overall": 7.5
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "YC alum Cercli, an AI-powered Rippling for MENA, raises oversubscribed $12M Series A",
+      "link": "https://techcrunch.com/2025/10/20/yc-alum-cercli-an-ai-powered-rippling-for-mena-raises-oversubscribed-12m-series-a/",
+      "summary": "In a region long defined by fragmented enterprise systems, outdated compliance tools, and HR software that rarely talks to finance, Cercli is building a unified alternative for MENA businesses with AI...",
+      "published": "2025-10-21T04:00:00+00:00",
+      "domain": "techcrunch.com",
+      "scores": {
+        "chaos": 9.0,
+        "anarchy": 6.0,
+        "overall": 7.5
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Apple will let users roll back the Liquid Glass look with new \u2018tinted\u2019 option",
+      "link": "https://techcrunch.com/2025/10/20/apple-will-let-users-roll-back-the-liquid-glass-look-with-new-tinted-option/",
+      "summary": "Apple is responding to user feedback on its new Liquid Glass design with a setting that lets users choose between Clear and Tinted appearances. Introduced in iOS 26.1 beta 4, the option gives users mo...",
+      "published": "2025-10-20T21:40:41+00:00",
+      "domain": "techcrunch.com",
+      "scores": {
+        "chaos": 9.0,
+        "anarchy": 6.0,
+        "overall": 7.5
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Top OpenAI, Google Brain researchers set off a $300M VC frenzy for their startup Periodic Labs",
+      "link": "https://techcrunch.com/2025/10/20/top-openai-google-brain-researchers-set-off-a-300m-vc-frenzy-for-their-startup-periodic-labs/",
+      "summary": "When Liam Fedus announced he was quitting OpenAI, VCs swarmed. One even wrote a love letter. Here's how Felicis' Peter Deng won the deal....",
+      "published": "2025-10-20T21:15:24+00:00",
+      "domain": "techcrunch.com",
+      "scores": {
+        "chaos": 9.0,
+        "anarchy": 6.0,
+        "overall": 7.5
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: I'm rewriting a web server written in Rust for speed and ease of use",
+      "link": "https://ferron.sh/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=45653350\">Comments</a>...",
+      "published": "2025-10-21T07:26:57+00:00",
+      "domain": "ferron.sh",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Pasta/80 is a simple Pascal cross compiler targeting the Z80 microprocessor",
+      "link": "https://github.com/pleumann/pasta80",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=45653330\">Comments</a>...",
+      "published": "2025-10-21T07:23:09+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Language Support for Marginalia Search",
+      "link": "https://www.marginalia.nu/log/a_126_multilingual/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=45653143\">Comments</a>...",
+      "published": "2025-10-21T06:48:53+00:00",
+      "domain": "marginalia.nu",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Practical Scheme",
+      "link": "https://practical-scheme.net/index.html#docs",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=45652859\">Comments</a>...",
+      "published": "2025-10-21T05:47:39+00:00",
+      "domain": "practical-scheme.net",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "AWS multiple services outage in us-east-1",
+      "link": "https://health.aws.amazon.com/health/status?ts=20251020",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=45640838\">Comments</a>...",
+      "published": "2025-10-20T07:22:28+00:00",
+      "domain": "health.aws.amazon.com",
+      "scores": {
+        "chaos": 28.8,
+        "anarchy": 3.0,
+        "overall": 15.9
+      },
+      "keywords": {
+        "chaos": [
+          "outage"
+        ],
+        "anarchy": []
+      }
+    }
+  ],
+  "overall_ranked": [
+    {
+      "title": "AWS multiple services outage in us-east-1",
+      "link": "https://health.aws.amazon.com/health/status?ts=20251020",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=45640838\">Comments</a>...",
+      "published": "2025-10-20T07:22:28+00:00",
+      "domain": "health.aws.amazon.com",
+      "scores": {
+        "chaos": 28.8,
+        "anarchy": 3.0,
+        "overall": 15.9
+      },
+      "keywords": {
+        "chaos": [
+          "outage"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Spiro raises $100M, the largest-ever investment in Africa\u2019s e-mobility",
+      "link": "https://techcrunch.com/2025/10/21/spiro-raises-100m-the-largest-ever-investment-in-africas-e-mobility/",
+      "summary": "Dubai-headquartered Spiro is growing quickly with e-motorbikes and a battery swapping network designed for Africa's needs....",
+      "published": "2025-10-21T09:35:22+00:00",
+      "domain": "techcrunch.com",
+      "scores": {
+        "chaos": 9.0,
+        "anarchy": 6.0,
+        "overall": 7.5
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "European AI rising star Nexos.ai raises \u20ac30M to unlock enterprise AI adoption",
+      "link": "https://techcrunch.com/2025/10/20/european-ai-rising-star-nexos-ai-raises-30m-to-unlock-enterprise-ai-adoption/",
+      "summary": "Nord Security co-founders have closed a \u20ac30 million Series A for their new startup, Nexos.ai, an orchestration platform aimed at helping companies adopt AI securely....",
+      "published": "2025-10-21T06:00:00+00:00",
+      "domain": "techcrunch.com",
+      "scores": {
+        "chaos": 9.0,
+        "anarchy": 6.0,
+        "overall": 7.5
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "YC alum Cercli, an AI-powered Rippling for MENA, raises oversubscribed $12M Series A",
+      "link": "https://techcrunch.com/2025/10/20/yc-alum-cercli-an-ai-powered-rippling-for-mena-raises-oversubscribed-12m-series-a/",
+      "summary": "In a region long defined by fragmented enterprise systems, outdated compliance tools, and HR software that rarely talks to finance, Cercli is building a unified alternative for MENA businesses with AI...",
+      "published": "2025-10-21T04:00:00+00:00",
+      "domain": "techcrunch.com",
+      "scores": {
+        "chaos": 9.0,
+        "anarchy": 6.0,
+        "overall": 7.5
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Apple will let users roll back the Liquid Glass look with new \u2018tinted\u2019 option",
+      "link": "https://techcrunch.com/2025/10/20/apple-will-let-users-roll-back-the-liquid-glass-look-with-new-tinted-option/",
+      "summary": "Apple is responding to user feedback on its new Liquid Glass design with a setting that lets users choose between Clear and Tinted appearances. Introduced in iOS 26.1 beta 4, the option gives users mo...",
+      "published": "2025-10-20T21:40:41+00:00",
+      "domain": "techcrunch.com",
+      "scores": {
+        "chaos": 9.0,
+        "anarchy": 6.0,
+        "overall": 7.5
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Top OpenAI, Google Brain researchers set off a $300M VC frenzy for their startup Periodic Labs",
+      "link": "https://techcrunch.com/2025/10/20/top-openai-google-brain-researchers-set-off-a-300m-vc-frenzy-for-their-startup-periodic-labs/",
+      "summary": "When Liam Fedus announced he was quitting OpenAI, VCs swarmed. One even wrote a love letter. Here's how Felicis' Peter Deng won the deal....",
+      "published": "2025-10-20T21:15:24+00:00",
+      "domain": "techcrunch.com",
+      "scores": {
+        "chaos": 9.0,
+        "anarchy": 6.0,
+        "overall": 7.5
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: I'm rewriting a web server written in Rust for speed and ease of use",
+      "link": "https://ferron.sh/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=45653350\">Comments</a>...",
+      "published": "2025-10-21T07:26:57+00:00",
+      "domain": "ferron.sh",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Pasta/80 is a simple Pascal cross compiler targeting the Z80 microprocessor",
+      "link": "https://github.com/pleumann/pasta80",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=45653330\">Comments</a>...",
+      "published": "2025-10-21T07:23:09+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Language Support for Marginalia Search",
+      "link": "https://www.marginalia.nu/log/a_126_multilingual/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=45653143\">Comments</a>...",
+      "published": "2025-10-21T06:48:53+00:00",
+      "domain": "marginalia.nu",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Practical Scheme",
+      "link": "https://practical-scheme.net/index.html#docs",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=45652859\">Comments</a>...",
+      "published": "2025-10-21T05:47:39+00:00",
+      "domain": "practical-scheme.net",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    }
+  ],
+  "all_articles": [
+    {
+      "title": "Spiro raises $100M, the largest-ever investment in Africa\u2019s e-mobility",
+      "link": "https://techcrunch.com/2025/10/21/spiro-raises-100m-the-largest-ever-investment-in-africas-e-mobility/",
+      "summary": "Dubai-headquartered Spiro is growing quickly with e-motorbikes and a battery swapping network designed for Africa's needs....",
+      "published": "2025-10-21T09:35:22+00:00",
+      "domain": "techcrunch.com",
+      "scores": {
+        "chaos": 9.0,
+        "anarchy": 6.0,
+        "overall": 7.5
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: I'm rewriting a web server written in Rust for speed and ease of use",
+      "link": "https://ferron.sh/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=45653350\">Comments</a>...",
+      "published": "2025-10-21T07:26:57+00:00",
+      "domain": "ferron.sh",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Pasta/80 is a simple Pascal cross compiler targeting the Z80 microprocessor",
+      "link": "https://github.com/pleumann/pasta80",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=45653330\">Comments</a>...",
+      "published": "2025-10-21T07:23:09+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Language Support for Marginalia Search",
+      "link": "https://www.marginalia.nu/log/a_126_multilingual/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=45653143\">Comments</a>...",
+      "published": "2025-10-21T06:48:53+00:00",
+      "domain": "marginalia.nu",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "European AI rising star Nexos.ai raises \u20ac30M to unlock enterprise AI adoption",
+      "link": "https://techcrunch.com/2025/10/20/european-ai-rising-star-nexos-ai-raises-30m-to-unlock-enterprise-ai-adoption/",
+      "summary": "Nord Security co-founders have closed a \u20ac30 million Series A for their new startup, Nexos.ai, an orchestration platform aimed at helping companies adopt AI securely....",
+      "published": "2025-10-21T06:00:00+00:00",
+      "domain": "techcrunch.com",
+      "scores": {
+        "chaos": 9.0,
+        "anarchy": 6.0,
+        "overall": 7.5
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Practical Scheme",
+      "link": "https://practical-scheme.net/index.html#docs",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=45652859\">Comments</a>...",
+      "published": "2025-10-21T05:47:39+00:00",
+      "domain": "practical-scheme.net",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "YC alum Cercli, an AI-powered Rippling for MENA, raises oversubscribed $12M Series A",
+      "link": "https://techcrunch.com/2025/10/20/yc-alum-cercli-an-ai-powered-rippling-for-mena-raises-oversubscribed-12m-series-a/",
+      "summary": "In a region long defined by fragmented enterprise systems, outdated compliance tools, and HR software that rarely talks to finance, Cercli is building a unified alternative for MENA businesses with AI...",
+      "published": "2025-10-21T04:00:00+00:00",
+      "domain": "techcrunch.com",
+      "scores": {
+        "chaos": 9.0,
+        "anarchy": 6.0,
+        "overall": 7.5
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Apple will let users roll back the Liquid Glass look with new \u2018tinted\u2019 option",
+      "link": "https://techcrunch.com/2025/10/20/apple-will-let-users-roll-back-the-liquid-glass-look-with-new-tinted-option/",
+      "summary": "Apple is responding to user feedback on its new Liquid Glass design with a setting that lets users choose between Clear and Tinted appearances. Introduced in iOS 26.1 beta 4, the option gives users mo...",
+      "published": "2025-10-20T21:40:41+00:00",
+      "domain": "techcrunch.com",
+      "scores": {
+        "chaos": 9.0,
+        "anarchy": 6.0,
+        "overall": 7.5
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Top OpenAI, Google Brain researchers set off a $300M VC frenzy for their startup Periodic Labs",
+      "link": "https://techcrunch.com/2025/10/20/top-openai-google-brain-researchers-set-off-a-300m-vc-frenzy-for-their-startup-periodic-labs/",
+      "summary": "When Liam Fedus announced he was quitting OpenAI, VCs swarmed. One even wrote a love letter. Here's how Felicis' Peter Deng won the deal....",
+      "published": "2025-10-20T21:15:24+00:00",
+      "domain": "techcrunch.com",
+      "scores": {
+        "chaos": 9.0,
+        "anarchy": 6.0,
+        "overall": 7.5
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "AWS multiple services outage in us-east-1",
+      "link": "https://health.aws.amazon.com/health/status?ts=20251020",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=45640838\">Comments</a>...",
+      "published": "2025-10-20T07:22:28+00:00",
+      "domain": "health.aws.amazon.com",
+      "scores": {
+        "chaos": 28.8,
+        "anarchy": 3.0,
+        "overall": 15.9
+      },
+      "keywords": {
+        "chaos": [
+          "outage"
+        ],
+        "anarchy": []
+      }
     }
   ]
 }

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg baseProfile="full" height="600" version="1.1" width="1000" xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><linearGradient id="bgGradient" x1="0%" x2="0%" y1="0%" y2="100%"><stop offset="0" stop-color="#0f172a" /><stop offset="1" stop-color="#1e293b" /></linearGradient></defs><style type="text/css"><![CDATA[
+            @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
+            
+            .title { 
+                fill: #f1f5f9; 
+                font-family: 'Inter', sans-serif; 
+                font-size: 28px;
+                font-weight: 700;
+            }
+            .element-title { 
+                fill: #f1f5f9; 
+                font-family: 'Inter', sans-serif; 
+                font-size: 20px;
+                font-weight: 600;
+            }
+            .element-desc { 
+                fill: #94a3b8; 
+                font-family: 'Inter', sans-serif; 
+                font-size: 14px;
+            }
+            .language-name { 
+                fill: #f1f5f9; 
+                font-family: 'Inter', sans-serif; 
+                font-size: 14px;
+                font-weight: 600;
+            }
+            .language-meta { 
+                fill: #94a3b8; 
+                font-family: 'Inter', sans-serif; 
+                font-size: 12px;
+            }
+            .element-card {
+                fill: #1e293b;
+                rx: 12;
+                transition: all 0.3s ease;
+            }
+            .element-card:hover {
+                fill: #334155;
+                transform: translateY(-2px);
+            }
+        ]]></style><rect fill="url(#bgGradient)" height="600" width="1000" x="0" y="0" /><text class="title" x="50" y="45">Elemental Affinities</text><text class="subtitle" x="50" y="68">Programming languages grouped by elemental alignment</text><rect class="element-card" height="200" width="450" x="50" y="100" /><text class="element-title" x="70" y="135">☀️ Yang Dao (Core Languages)</text><text class="element-desc" x="70" y="155">Yang - Aggressive &amp; Powerful</text><text class="language-name" x="80" y="185">JavaScript - L6</text><text class="language-meta" x="80" y="200">65.2% mastery | 2183 Qi</text><text class="language-name" x="80" y="210">C# - L3</text><text class="language-meta" x="80" y="225">13.9% mastery | 466 Qi</text><text class="language-name" x="80" y="235">POV-Ray SDL - L1</text><text class="language-meta" x="80" y="250">2.6% mastery | 85 Qi</text><text class="language-name" x="80" y="260">Python - L1</text><text class="language-meta" x="80" y="275">1.7% mastery | 56 Qi</text><rect class="element-card" height="200" width="450" x="530" y="100" /><text class="element-title" x="550" y="135">🌙 Yin Dao (Frontend Arts)</text><text class="element-desc" x="550" y="155">Yin - Elegant &amp; Flowing</text><text class="language-name" x="560" y="185">HTML - L2</text><text class="language-meta" x="560" y="200">6.6% mastery | 221 Qi</text><text class="language-name" x="560" y="210">CSS - L1</text><text class="language-meta" x="560" y="225">1.6% mastery | 53 Qi</text><text class="language-name" x="560" y="235">SCSS - L1</text><text class="language-meta" x="560" y="250">1.0% mastery | 32 Qi</text><text class="language-name" x="560" y="260">Vue - L1</text><text class="language-meta" x="560" y="275">0.3% mastery | 10 Qi</text><rect class="element-card" height="200" width="450" x="50" y="330" /><text class="element-title" x="70" y="365">⚔️ Metal Dao (Systems &amp; DevOps)</text><text class="element-desc" x="70" y="385">Metal - Sharp &amp; Precise</text><text class="language-name" x="80" y="415">Makefile - L1</text><text class="language-meta" x="80" y="430">1.4% mastery | 46 Qi</text><text class="language-name" x="80" y="440">Dockerfile - L1</text><text class="language-meta" x="80" y="455">0.0% mastery | 0 Qi</text><text class="language-name" x="80" y="465">Shell - L1</text><text class="language-meta" x="80" y="480">0.0% mastery | 0 Qi</text><rect class="element-card" height="200" width="450" x="530" y="330" /><text class="element-title" x="550" y="365">🌌 Void Dao (Data &amp; Analysis)</text><text class="element-desc" x="550" y="385">Void - Abstract &amp; Mysterious</text><text class="language-name" x="560" y="415">R - L1</text><text class="language-meta" x="560" y="430">3.0% mastery | 101 Qi</text><text class="subtitle" text-anchor="middle" x="500.0" y="575">Total Dao Paths: 19 | Average Level: 1.4</text></svg>

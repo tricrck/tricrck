@@ -48,6 +48,9 @@ jobs:
       - name: 📊 Update skill grimoire
         run: |
           python scripts/skill_calculator.py
+      - name: 📝 Update README with dark sigils
+        run: |
+          python scripts/update_readme.py
           
       - name: 💀 Commit to the void
         run: |
