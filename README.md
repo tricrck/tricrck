@@ -12,21 +12,20 @@
 [![GitHub Nightmare](https://img.shields.io/badge/ENTER_THE_VOID-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tricrck)
 [![Dark Rituals](https://img.shields.io/badge/DARK_RITUALS-8B0000?style=for-the-badge&logo=code&logoColor=white)](https://github.com/tricrck?tab=repositories)
 
-</div>
-# 📰 Latest Tech News
+</div># 📰 Latest Tech News
 
 ## 🚨 Chaos Stories
 
-### AWS multiple services outage in us-east-1
-- **Published**: October 20, 2025
+### Fallout from the AWS Outage: Smart Mattresses Go Rogue and Ruin Sleep Worldwide
+- **Published**: October 21, 2025
 - **Summary**: ......
 - **Keywords**: outage
-- [Read more](https://health.aws.amazon.com/health/status?ts=20251020)
+- [Read more](https://quasa.io/media/the-strangest-fallout-from-the-aws-outage-smart-mattresses-go-rogue-and-ruin-sleep-worldwide)
 
-### Airbnb is becoming more social by allowing users to connect with fellow travelers
+### I spent a month living with a $430 AI pet, the Casio Moflin
 - **Published**: October 21, 2025
-- **Summary**: Airbnb is adding social features like connections and messaging to create a social network of fellow travellers.......
-- [Read more](https://techcrunch.com/2025/10/21/airbnb-is-becoming-more-social-by-allowing-users-to-connect-with-fellow-travelers/)
+- **Summary**: Casio’s Moflin, a hamster-like robot pet, uses AI to develop a personality over time.......
+- [Read more](https://techcrunch.com/2025/10/21/i-spent-a-month-living-with-a-430-ai-pet-the-casio-moflin/)
 
 ---
 
