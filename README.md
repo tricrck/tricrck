@@ -13,7 +13,6 @@
 [![Dark Rituals](https://img.shields.io/badge/DARK_RITUALS-8B0000?style=for-the-badge&logo=code&logoColor=white)](https://github.com/tricrck?tab=repositories)
 
 </div>
-
 # 📰 Latest Tech News
 
 ## 🚨 Chaos Stories
@@ -24,10 +23,10 @@
 - **Keywords**: outage
 - [Read more](https://health.aws.amazon.com/health/status?ts=20251020)
 
-### Yelp’s AI assistant can now scan restaurant menus to show you what dishes look like
+### Airbnb is becoming more social by allowing users to connect with fellow travelers
 - **Published**: October 21, 2025
-- **Summary**: Yelp will now let you scan a physical menu show redirect bubbles to Yelp app where you can see how those dishes look.......
-- [Read more](https://techcrunch.com/2025/10/21/yelps-ai-assistant-can-now-scan-restaurant-menus-to-show-you-what-dishes-look-like/)
+- **Summary**: Airbnb is adding social features like connections and messaging to create a social network of fellow travellers.......
+- [Read more](https://techcrunch.com/2025/10/21/airbnb-is-becoming-more-social-by-allowing-users-to-connect-with-fellow-travelers/)
 
 ---
 
