@@ -14,7 +14,8 @@
 
 </div>
 
----# 📰 Latest Tech News# 📰 Latest Tech News# 📰 Latest Tech News
+
+# 📰 Latest Tech News
 
 ## 🚨 Chaos Stories
 
