@@ -14,8 +14,7 @@
 
 </div>
 
----# 📰 Latest Tech News# 📰 Latest Tech News
-# 📰 Latest Tech News
+---# 📰 Latest Tech News# 📰 Latest Tech News# 📰 Latest Tech News
 
 ## 🚨 Chaos Stories
 
@@ -25,10 +24,10 @@
 - **Keywords**: outage
 - [Read more](https://health.aws.amazon.com/health/status?ts=20251020)
 
-### Spiro raises $100M, the largest-ever investment in Africa’s e-mobility
+### Yelp’s AI assistant can now scan restaurant menus to show you what dishes look like
 - **Published**: October 21, 2025
-- **Summary**: Dubai-headquartered Spiro is growing quickly with e-motorbikes and a battery swapping network designed for Africa's needs.......
-- [Read more](https://techcrunch.com/2025/10/21/spiro-raises-100m-the-largest-ever-investment-in-africas-e-mobility/)
+- **Summary**: Yelp will now let you scan a physical menu show redirect bubbles to Yelp app where you can see how those dishes look.......
+- [Read more](https://techcrunch.com/2025/10/21/yelps-ai-assistant-can-now-scan-restaurant-menus-to-show-you-what-dishes-look-like/)
 
 ---
 
