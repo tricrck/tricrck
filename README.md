@@ -12,20 +12,20 @@
 [![GitHub Nightmare](https://img.shields.io/badge/ENTER_THE_VOID-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tricrck)
 [![Dark Rituals](https://img.shields.io/badge/DARK_RITUALS-8B0000?style=for-the-badge&logo=code&logoColor=white)](https://github.com/tricrck?tab=repositories)
 
-</div># 📰 Latest Tech News# 📰 Latest Tech News
-# 📰 Latest Tech News
+</div># 📰 Latest Tech News# 📰 Latest Tech News# 📰 Latest Tech News
 
 ## 🚨 Chaos Stories
 
-### Life360 ventures into pet tech with the launch of a new GPS tracker
+### What’s Updog? Datadog’s new tool tells you which apps are down
 - **Published**: October 22, 2025
-- **Summary**: Family location safety app Life360 is venturing into pet tech with the launch of its new tracking device for cats and dogs.......
-- [Read more](https://techcrunch.com/2025/10/22/life360-ventures-into-pet-tech-with-the-launch-of-a-new-gps-tracker/)
+- **Summary**: Cloud monitoring platform Datadog launched Updog, a web dashboard that shows the live health status of various SaaS APIs.......
+- **Keywords**: down
+- [Read more](https://techcrunch.com/2025/10/22/whats-updog-datadogs-new-tool-tells-you-which-apps-are-down/)
 
-### One startup’s quest to store electricity in the ocean
+### Amazon will buy thousands of pedal-assist cargo vehicles from Rivian spinoff Also
 - **Published**: October 22, 2025
-- **Summary**: Sizable Energy has a plan to store excess renewable energy in flexible reservoirs out at sea. The startup has raised $8 million to test prototypes.......
-- [Read more](https://techcrunch.com/2025/10/22/one-startups-quest-to-store-electricity-in-the-ocean/)
+- **Summary**: The pedal-assist cargo quad vehicles are narrow delivery vans that can operate in a bike lane.......
+- [Read more](https://techcrunch.com/2025/10/22/amazon-will-buy-thousands-of-pedal-assist-cargo-vehicles-from-rivian-spinoff-also/)
 
 ---
 
