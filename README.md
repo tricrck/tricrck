@@ -13,18 +13,19 @@
 [![Dark Rituals](https://img.shields.io/badge/DARK_RITUALS-8B0000?style=for-the-badge&logo=code&logoColor=white)](https://github.com/tricrck?tab=repositories)
 
 </div># 📰 Latest Tech News# 📰 Latest Tech News
+# 📰 Latest Tech News
 
 ## 🚨 Chaos Stories
 
-### Netflix goes ‘all in’ on generative AI as entertainment industry remains divided
-- **Published**: October 21, 2025
-- **Summary**: Netflix is using AI for special effects and pre-production, but CEO Ted Sarandos that Netflix "not worried about AI replacing creativity."......
-- [Read more](https://techcrunch.com/2025/10/21/netflix-goes-all-in-on-generative-ai-as-entertainment-industry-remains-divided/)
+### Life360 ventures into pet tech with the launch of a new GPS tracker
+- **Published**: October 22, 2025
+- **Summary**: Family location safety app Life360 is venturing into pet tech with the launch of its new tracking device for cats and dogs.......
+- [Read more](https://techcrunch.com/2025/10/22/life360-ventures-into-pet-tech-with-the-launch-of-a-new-gps-tracker/)
 
-### Open source agentic startup LangChain hits $1.25B valuation
-- **Published**: October 21, 2025
-- **Summary**: As TechCrunch previously reported, the maker of a popular open source framework for building AI agents has officially become a unicorn.......
-- [Read more](https://techcrunch.com/2025/10/21/open-source-agentic-startup-langchain-hits-1-25b-valuation/)
+### One startup’s quest to store electricity in the ocean
+- **Published**: October 22, 2025
+- **Summary**: Sizable Energy has a plan to store excess renewable energy in flexible reservoirs out at sea. The startup has raised $8 million to test prototypes.......
+- [Read more](https://techcrunch.com/2025/10/22/one-startups-quest-to-store-electricity-in-the-ocean/)
 
 ---
 
