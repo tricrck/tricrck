@@ -13,19 +13,19 @@
 [![Dark Rituals](https://img.shields.io/badge/DARK_RITUALS-8B0000?style=for-the-badge&logo=code&logoColor=white)](https://github.com/tricrck?tab=repositories)
 
 </div># 📰 Latest Tech News
+# 📰 Latest Tech News
 
 ## 🚨 Chaos Stories
 
-### Fallout from the AWS Outage: Smart Mattresses Go Rogue and Ruin Sleep Worldwide
+### "Butt breathing" might soon be a real medical treatment
 - **Published**: October 21, 2025
 - **Summary**: ......
-- **Keywords**: outage
-- [Read more](https://quasa.io/media/the-strangest-fallout-from-the-aws-outage-smart-mattresses-go-rogue-and-ruin-sleep-worldwide)
+- [Read more](https://arstechnica.com/science/2025/10/butt-breathing-might-soon-be-a-real-medical-treatment/)
 
-### I spent a month living with a $430 AI pet, the Casio Moflin
+### Netflix goes ‘all in’ on generative AI as entertainment industry remains divided
 - **Published**: October 21, 2025
-- **Summary**: Casio’s Moflin, a hamster-like robot pet, uses AI to develop a personality over time.......
-- [Read more](https://techcrunch.com/2025/10/21/i-spent-a-month-living-with-a-430-ai-pet-the-casio-moflin/)
+- **Summary**: Netflix is using AI for special effects and pre-production, but CEO Ted Sarandos that Netflix "not worried about AI replacing creativity."......
+- [Read more](https://techcrunch.com/2025/10/21/netflix-goes-all-in-on-generative-ai-as-entertainment-industry-remains-divided/)
 
 ---
 
