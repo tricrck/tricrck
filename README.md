@@ -12,20 +12,19 @@
 [![GitHub Nightmare](https://img.shields.io/badge/ENTER_THE_VOID-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tricrck)
 [![Dark Rituals](https://img.shields.io/badge/DARK_RITUALS-8B0000?style=for-the-badge&logo=code&logoColor=white)](https://github.com/tricrck?tab=repositories)
 
-</div># 📰 Latest Tech News# 📰 Latest Tech News# 📰 Latest Tech News
-# 📰 Latest Tech News
+</div># 📰 Latest Tech News# 📰 Latest Tech News# 📰 Latest Tech News# 📰 Latest Tech News
 
 ## 🚨 Chaos Stories
+
+### As China’s 996 culture spreads, South Korea’s tech sector grapples with 52-hour limit
+- **Published**: October 23, 2025
+- **Summary**: South Korea's 52-hour workweek cap is stricter than the U.S. and Singapore but more flexible than much of Europe. Still deep tech founders and investo...
+- [Read more](https://techcrunch.com/2025/10/22/as-chinas-996-culture-spreads-south-koreas-tech-sector-grapples-with-52-hour-limit/)
 
 ### Elon Musk frets over controlling Tesla’s ‘robot army’ as car biz rebounds slightly
 - **Published**: October 22, 2025
 - **Summary**: Tesla's profit actually fell 37% compared to the same period last year, despite buyers rushing to take advantage of the expiring EV tax credit.......
 - [Read more](https://techcrunch.com/2025/10/22/elon-musk-frets-over-controlling-teslas-robot-army-as-car-biz-rebounds/)
-
-### Snapchat makes its first open prompt AI Lens available for free in the US
-- **Published**: October 22, 2025
-- **Summary**: Snapchat is expanding access to its AI-powered “Imagine Lens,” allowing all users to generate and edit images with custom prompts for free.......
-- [Read more](https://techcrunch.com/2025/10/22/snapchat-makes-its-first-open-prompt-ai-lens-available-for-free-in-the-us/)
 
 ---
 
