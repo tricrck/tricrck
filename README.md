@@ -13,18 +13,19 @@
 [![Dark Rituals](https://img.shields.io/badge/DARK_RITUALS-8B0000?style=for-the-badge&logo=code&logoColor=white)](https://github.com/tricrck?tab=repositories)
 
 </div># 📰 Latest Tech News# 📰 Latest Tech News# 📰 Latest Tech News# 📰 Latest Tech News
+# 📰 Latest Tech News
 
 ## 🚨 Chaos Stories
+
+### Redwood Materials raises another $350M to power up its energy storage business
+- **Published**: October 23, 2025
+- **Summary**: The round was led by Eclipse and saw participation from Nvidia's venture capital arm, NVentures.......
+- [Read more](https://techcrunch.com/2025/10/23/redwood-materials-raises-another-350-million-to-power-up-its-energy-storage-business/)
 
 ### As China’s 996 culture spreads, South Korea’s tech sector grapples with 52-hour limit
 - **Published**: October 23, 2025
 - **Summary**: South Korea's 52-hour workweek cap is stricter than the U.S. and Singapore but more flexible than much of Europe. Still deep tech founders and investo...
 - [Read more](https://techcrunch.com/2025/10/22/as-chinas-996-culture-spreads-south-koreas-tech-sector-grapples-with-52-hour-limit/)
-
-### Elon Musk frets over controlling Tesla’s ‘robot army’ as car biz rebounds slightly
-- **Published**: October 22, 2025
-- **Summary**: Tesla's profit actually fell 37% compared to the same period last year, despite buyers rushing to take advantage of the expiring EV tax credit.......
-- [Read more](https://techcrunch.com/2025/10/22/elon-musk-frets-over-controlling-teslas-robot-army-as-car-biz-rebounds/)
 
 ---
 
