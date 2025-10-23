@@ -12,20 +12,21 @@
 [![GitHub Nightmare](https://img.shields.io/badge/ENTER_THE_VOID-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tricrck)
 [![Dark Rituals](https://img.shields.io/badge/DARK_RITUALS-8B0000?style=for-the-badge&logo=code&logoColor=white)](https://github.com/tricrck?tab=repositories)
 
-</div># 📰 Latest Tech News# 📰 Latest Tech News# 📰 Latest Tech News# 📰 Latest Tech News
-# 📰 Latest Tech News
+</div># 📰 Latest Tech News# 📰 Latest Tech News# 📰 Latest Tech News# 📰 Latest Tech News# 📰 Latest Tech News
 
 ## 🚨 Chaos Stories
 
-### Redwood Materials raises another $350M to power up its energy storage business
+### San Francisco Mayor Daniel Lurie is coming to TechCrunch Disrupt 2025
 - **Published**: October 23, 2025
-- **Summary**: The round was led by Eclipse and saw participation from Nvidia's venture capital arm, NVentures.......
-- [Read more](https://techcrunch.com/2025/10/23/redwood-materials-raises-another-350-million-to-power-up-its-energy-storage-business/)
+- **Summary**: San Francisco Mayor Daniel Lurie steps onto the Disrupt Stage at TechCrunch Disrupt 2025, October 27-29 at Moscone West, in a homecoming of sorts for ...
+- **Keywords**: disrupt, disrupt, disrupt
+- [Read more](https://techcrunch.com/2025/10/23/san-francisco-mayor-daniel-lurie-is-coming-to-techcrunch-disrupt-2025/)
 
-### As China’s 996 culture spreads, South Korea’s tech sector grapples with 52-hour limit
+### Introducing Build Mode: TechCrunch’s new podcast for founders
 - **Published**: October 23, 2025
-- **Summary**: South Korea's 52-hour workweek cap is stricter than the U.S. and Singapore but more flexible than much of Europe. Still deep tech founders and investo...
-- [Read more](https://techcrunch.com/2025/10/22/as-chinas-996-culture-spreads-south-koreas-tech-sector-grapples-with-52-hour-limit/)
+- **Summary**: Build Mode is our new podcast that will be a survival guide for early-stage founders navigating the messy, high-stakes chaos of building a company fro...
+- **Keywords**: chaos
+- [Read more](https://techcrunch.com/2025/10/23/introducing-build-mode-techcrunchs-new-podcast-for-founders/)
 
 ---
 
