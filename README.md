@@ -13,19 +13,19 @@
 [![Dark Rituals](https://img.shields.io/badge/DARK_RITUALS-8B0000?style=for-the-badge&logo=code&logoColor=white)](https://github.com/tricrck?tab=repositories)
 
 </div># 📰 Latest Tech News# 📰 Latest Tech News# 📰 Latest Tech News
+# 📰 Latest Tech News
 
 ## 🚨 Chaos Stories
 
-### What’s Updog? Datadog’s new tool tells you which apps are down
+### Elon Musk frets over controlling Tesla’s ‘robot army’ as car biz rebounds slightly
 - **Published**: October 22, 2025
-- **Summary**: Cloud monitoring platform Datadog launched Updog, a web dashboard that shows the live health status of various SaaS APIs.......
-- **Keywords**: down
-- [Read more](https://techcrunch.com/2025/10/22/whats-updog-datadogs-new-tool-tells-you-which-apps-are-down/)
+- **Summary**: Tesla's profit actually fell 37% compared to the same period last year, despite buyers rushing to take advantage of the expiring EV tax credit.......
+- [Read more](https://techcrunch.com/2025/10/22/elon-musk-frets-over-controlling-teslas-robot-army-as-car-biz-rebounds/)
 
-### Amazon will buy thousands of pedal-assist cargo vehicles from Rivian spinoff Also
+### Snapchat makes its first open prompt AI Lens available for free in the US
 - **Published**: October 22, 2025
-- **Summary**: The pedal-assist cargo quad vehicles are narrow delivery vans that can operate in a bike lane.......
-- [Read more](https://techcrunch.com/2025/10/22/amazon-will-buy-thousands-of-pedal-assist-cargo-vehicles-from-rivian-spinoff-also/)
+- **Summary**: Snapchat is expanding access to its AI-powered “Imagine Lens,” allowing all users to generate and edit images with custom prompts for free.......
+- [Read more](https://techcrunch.com/2025/10/22/snapchat-makes-its-first-open-prompt-ai-lens-available-for-free-in-the-us/)
 
 ---
 
