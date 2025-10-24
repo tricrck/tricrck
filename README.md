@@ -13,20 +13,19 @@
 [![Dark Rituals](https://img.shields.io/badge/DARK_RITUALS-8B0000?style=for-the-badge&logo=code&logoColor=white)](https://github.com/tricrck?tab=repositories)
 
 </div># 📰 Latest Tech News# 📰 Latest Tech News# 📰 Latest Tech News# 📰 Latest Tech News# 📰 Latest Tech News
+# 📰 Latest Tech News
 
 ## 🚨 Chaos Stories
 
-### San Francisco Mayor Daniel Lurie is coming to TechCrunch Disrupt 2025
-- **Published**: October 23, 2025
-- **Summary**: San Francisco Mayor Daniel Lurie steps onto the Disrupt Stage at TechCrunch Disrupt 2025, October 27-29 at Moscone West, in a homecoming of sorts for ...
-- **Keywords**: disrupt, disrupt, disrupt
-- [Read more](https://techcrunch.com/2025/10/23/san-francisco-mayor-daniel-lurie-is-coming-to-techcrunch-disrupt-2025/)
+### With an Intel recovery underway, all eyes turn to its foundry business
+- **Published**: October 24, 2025
+- **Summary**: Intel added $20 billion to its balance sheet in Q3 but didn't offer many details on the progress of its floundering foundry business.......
+- [Read more](https://techcrunch.com/2025/10/23/with-an-intel-recovery-underway-all-eyes-turn-to-its-foundry-business/)
 
-### Introducing Build Mode: TechCrunch’s new podcast for founders
+### Ford isn’t going to make more F-150 Lightnings for a while
 - **Published**: October 23, 2025
-- **Summary**: Build Mode is our new podcast that will be a survival guide for early-stage founders navigating the messy, high-stakes chaos of building a company fro...
-- **Keywords**: chaos
-- [Read more](https://techcrunch.com/2025/10/23/introducing-build-mode-techcrunchs-new-podcast-for-founders/)
+- **Summary**: Ford is prioritizing its gas and hybrid F-150 trucks instead.......
+- [Read more](https://techcrunch.com/2025/10/23/ford-isnt-going-to-make-more-f-150-lightnings-for-a-while/)
 
 ---
 
