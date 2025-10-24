@@ -12,20 +12,21 @@
 [![GitHub Nightmare](https://img.shields.io/badge/ENTER_THE_VOID-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tricrck)
 [![Dark Rituals](https://img.shields.io/badge/DARK_RITUALS-8B0000?style=for-the-badge&logo=code&logoColor=white)](https://github.com/tricrck?tab=repositories)
 
-</div># 📰 Latest Tech News# 📰 Latest Tech News# 📰 Latest Tech News# 📰 Latest Tech News# 📰 Latest Tech News# 📰 Latest Tech News
-# 📰 Latest Tech News
+</div># 📰 Latest Tech News# 📰 Latest Tech News# 📰 Latest Tech News# 📰 Latest Tech News# 📰 Latest Tech News# 📰 Latest Tech News# 📰 Latest Tech News
 
 ## 🚨 Chaos Stories
 
-### Big tech is paying for Trump’s White House ballroom
+### The full breakout session agenda at TechCrunch Disrupt 2025
 - **Published**: October 24, 2025
-- **Summary**: Trump's $250 million White House ballroom will be funded in part by big tech companies like Amazon, Apple, Google, Meta, and Microsoft.......
-- [Read more](https://techcrunch.com/2025/10/23/big-tech-is-paying-for-trumps-white-house-ballroom/)
+- **Summary**: The full Disrupt 2025 breakout session agenda is now live. Join for tactical, small-group learning on AI, fundraising, M&#038;A, workflows, and more. ...
+- **Keywords**: disrupt, disrupt
+- [Read more](https://techcrunch.com/2025/10/24/techcrunch-disrupt-2025-breakout-sessions/)
 
-### With an Intel recovery underway, all eyes turn to its foundry business
+### TechCrunch Disrupt 2025 Side Events schedule:  Women in Tech, MongoDB, Silkroad Innovation Hub, and more to host
 - **Published**: October 24, 2025
-- **Summary**: Intel added $20 billion to its balance sheet in Q3 but didn't offer many details on the progress of its floundering foundry business.......
-- [Read more](https://techcrunch.com/2025/10/23/with-an-intel-recovery-underway-all-eyes-turn-to-its-foundry-business/)
+- **Summary**: With TechCrunch Disrupt 2025 right around the corner, we’re thrilled to introduce the companies hosting Side Events that will extend the buzz and exci...
+- **Keywords**: disrupt, disrupt
+- [Read more](https://techcrunch.com/2025/10/24/techcrunch-disrupt-2025-side-events-schedule-women-in-tech-mongodb-silkroad-innovation-hub-and-more-to-host/)
 
 ---
 
