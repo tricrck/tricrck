@@ -12,8 +12,7 @@
 [![GitHub Nightmare](https://img.shields.io/badge/ENTER_THE_VOID-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tricrck)
 [![Dark Rituals](https://img.shields.io/badge/DARK_RITUALS-8B0000?style=for-the-badge&logo=code&logoColor=white)](https://github.com/tricrck?tab=repositories)
 
-</div># 📰 Latest Tech News# 📰 Latest Tech News# 📰 Latest Tech News# 📰 Latest Tech News# 📰 Latest Tech News# 📰 Latest Tech News# 📰 Latest Tech News
-# 📰 Latest Tech News
+</div># 📰 Latest Tech News# 📰 Latest Tech News# 📰 Latest Tech News# 📰 Latest Tech News# 📰 Latest Tech News# 📰 Latest Tech News# 📰 Latest Tech News# 📰 Latest Tech News
 
 ## 🚨 Chaos Stories
 
