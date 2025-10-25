@@ -12,21 +12,20 @@
 [![GitHub Nightmare](https://img.shields.io/badge/ENTER_THE_VOID-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tricrck)
 [![Dark Rituals](https://img.shields.io/badge/DARK_RITUALS-8B0000?style=for-the-badge&logo=code&logoColor=white)](https://github.com/tricrck?tab=repositories)
 
-</div># 📰 Latest Tech News# 📰 Latest Tech News# 📰 Latest Tech News# 📰 Latest Tech News# 📰 Latest Tech News# 📰 Latest Tech News# 📰 Latest Tech News# 📰 Latest Tech News
-# 📰 Latest Tech News
+</div># 📰 Latest Tech News# 📰 Latest Tech News# 📰 Latest Tech News# 📰 Latest Tech News# 📰 Latest Tech News# 📰 Latest Tech News# 📰 Latest Tech News# 📰 Latest Tech News# 📰 Latest Tech News
 
 ## 🚨 Chaos Stories
 
-### A comprehensive list of 2025 tech layoffs
-- **Published**: October 24, 2025
-- **Summary**: A complete list of all the known layoffs in tech, from Big Tech to startups, broken down by month throughout 2024.......
-- **Keywords**: broken, down
-- [Read more](https://techcrunch.com/2025/10/24/tech-layoffs-2025-list/)
-
-### The glaring security risks with AI browser agents
+### TikTok robot star Rizzbot gave me the middle finger
 - **Published**: October 25, 2025
-- **Summary**: New AI browsers from OpenAI and Perplexity promise to increase user productivity, but they also come with increased security risks.......
-- [Read more](https://techcrunch.com/2025/10/25/the-glaring-security-risks-with-ai-browser-agents/)
+- **Summary**: About a week ago, I woke to a dizzying DM on Instagram — Rizzbot flipping me off. This sent me down a rabbit hole  about humanoids in society.......
+- **Keywords**: down
+- [Read more](https://techcrunch.com/2025/10/25/tiktok-robot-star-rizzbot-gave-me-the-middle-finger/)
+
+### Who are AI browsers for?
+- **Published**: October 25, 2025
+- **Summary**: OpenAI launched an AI-powered browser this week, but it feels like it offers a slight efficiency gain at best.......
+- [Read more](https://techcrunch.com/2025/10/25/who-are-ai-browsers-for/)
 
 ---
 
