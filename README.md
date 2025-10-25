@@ -13,6 +13,7 @@
 [![Dark Rituals](https://img.shields.io/badge/DARK_RITUALS-8B0000?style=for-the-badge&logo=code&logoColor=white)](https://github.com/tricrck?tab=repositories)
 
 </div># 📰 Latest Tech News# 📰 Latest Tech News# 📰 Latest Tech News# 📰 Latest Tech News# 📰 Latest Tech News# 📰 Latest Tech News# 📰 Latest Tech News# 📰 Latest Tech News
+# 📰 Latest Tech News
 
 ## 🚨 Chaos Stories
 
@@ -22,10 +23,10 @@
 - **Keywords**: broken, down
 - [Read more](https://techcrunch.com/2025/10/24/tech-layoffs-2025-list/)
 
-### How to use the new ChatGPT app integrations, including Spotify, Figma, Canva, and others
-- **Published**: October 24, 2025
-- **Summary**: Learn how to use Spotify, Canva, Figma, Expedia, and other apps directly in ChatGPT.......
-- [Read more](https://techcrunch.com/2025/10/24/how-to-use-the-new-chatgpt-app-integrations-including-spotify-figma-canva-and-others/)
+### The glaring security risks with AI browser agents
+- **Published**: October 25, 2025
+- **Summary**: New AI browsers from OpenAI and Perplexity promise to increase user productivity, but they also come with increased security risks.......
+- [Read more](https://techcrunch.com/2025/10/25/the-glaring-security-risks-with-ai-browser-agents/)
 
 ---
 
