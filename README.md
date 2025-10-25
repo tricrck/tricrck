@@ -13,20 +13,20 @@
 [![Dark Rituals](https://img.shields.io/badge/DARK_RITUALS-8B0000?style=for-the-badge&logo=code&logoColor=white)](https://github.com/tricrck?tab=repositories)
 
 </div># 📰 Latest Tech News# 📰 Latest Tech News# 📰 Latest Tech News# 📰 Latest Tech News# 📰 Latest Tech News# 📰 Latest Tech News# 📰 Latest Tech News
+# 📰 Latest Tech News
 
 ## 🚨 Chaos Stories
 
-### The full breakout session agenda at TechCrunch Disrupt 2025
+### A comprehensive list of 2025 tech layoffs
 - **Published**: October 24, 2025
-- **Summary**: The full Disrupt 2025 breakout session agenda is now live. Join for tactical, small-group learning on AI, fundraising, M&#038;A, workflows, and more. ...
-- **Keywords**: disrupt, disrupt
-- [Read more](https://techcrunch.com/2025/10/24/techcrunch-disrupt-2025-breakout-sessions/)
+- **Summary**: A complete list of all the known layoffs in tech, from Big Tech to startups, broken down by month throughout 2024.......
+- **Keywords**: broken, down
+- [Read more](https://techcrunch.com/2025/10/24/tech-layoffs-2025-list/)
 
-### TechCrunch Disrupt 2025 Side Events schedule:  Women in Tech, MongoDB, Silkroad Innovation Hub, and more to host
+### How to use the new ChatGPT app integrations, including Spotify, Figma, Canva, and others
 - **Published**: October 24, 2025
-- **Summary**: With TechCrunch Disrupt 2025 right around the corner, we’re thrilled to introduce the companies hosting Side Events that will extend the buzz and exci...
-- **Keywords**: disrupt, disrupt
-- [Read more](https://techcrunch.com/2025/10/24/techcrunch-disrupt-2025-side-events-schedule-women-in-tech-mongodb-silkroad-innovation-hub-and-more-to-host/)
+- **Summary**: Learn how to use Spotify, Canva, Figma, Expedia, and other apps directly in ChatGPT.......
+- [Read more](https://techcrunch.com/2025/10/24/how-to-use-the-new-chatgpt-app-integrations-including-spotify-figma-canva-and-others/)
 
 ---
 
