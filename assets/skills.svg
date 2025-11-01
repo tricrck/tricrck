@@ -1,46 +1,48 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<svg baseProfile="full" height="640" version="1.1" width="1280" xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><linearGradient id="skillGradient" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0" stop-color="#6366f1" /><stop offset="0.5" stop-color="#8b5cf6" /><stop offset="1" stop-color="#ec4899" /></linearGradient><linearGradient id="shineGradient" x1="0%" x2="0%" y1="0%" y2="100%"><stop offset="0" stop-color="#ffffff" stop-opacity="0.2" /><stop offset="0.5" stop-color="#ffffff" stop-opacity="0" /><stop offset="1" stop-color="#000000" stop-opacity="0.1" /></linearGradient><linearGradient id="bgGradient" x1="0%" x2="0%" y1="0%" y2="100%"><stop offset="0" stop-color="#0f172a" /><stop offset="1" stop-color="#1e293b" /></linearGradient></defs><style type="text/css"><![CDATA[
+<svg baseProfile="full" height="640" version="1.1" width="1050" xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><linearGradient id="skillGradient" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0" stop-color="#fbbf24" /><stop offset="0.5" stop-color="#f59e0b" /><stop offset="1" stop-color="#ef4444" /></linearGradient><linearGradient id="shineGradient" x1="0%" x2="0%" y1="0%" y2="100%"><stop offset="0" stop-color="#ffffff" stop-opacity="0.3" /><stop offset="0.5" stop-color="#ffffff" stop-opacity="0" /><stop offset="1" stop-color="#000000" stop-opacity="0.15" /></linearGradient><linearGradient id="bgGradient" x1="0%" x2="0%" y1="0%" y2="100%"><stop offset="0" stop-color="#0a0e27" /><stop offset="0.5" stop-color="#141b2d" /><stop offset="1" stop-color="#1a2332" /></linearGradient><filter height="200%" id="titleGlow" width="200%" x="-50%" y="-50%"><feGaussianBlur in="SourceAlpha" result="blur" stdDeviation="4" /><feMerge><feMergeNode in="blur" /><feMergeNode in="SourceGraphic" /></feMerge></filter></defs><style type="text/css"><![CDATA[
             @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
             
             .title { 
-                fill: #f1f5f9; 
+                fill: #f8fafc;  /* Near-white for maximum visibility */
                 font-family: 'Inter', sans-serif; 
-                font-size: 28px;
+                font-size: 32px;
                 font-weight: 700;
                 letter-spacing: -0.5px;
             }
             .subtitle { 
-                fill: #94a3b8; 
+                fill: #cbd5e1;  /* Light gray, easily readable */
                 font-family: 'Inter', sans-serif; 
-                font-size: 14px;
+                font-size: 15px;
                 font-weight: 400;
             }
             .skill-name { 
-                fill: #f1f5f9; 
+                fill: #f8fafc;  /* Bright white */
                 font-family: 'Inter', sans-serif; 
-                font-size: 16px; 
+                font-size: 17px; 
                 font-weight: 600;
             }
             .skill-meta { 
-                fill: #94a3b8; 
+                fill: #cbd5e1;  /* Clearly visible metadata */
                 font-family: 'Inter', sans-serif; 
-                font-size: 13px; 
-                font-weight: 400;
+                font-size: 14px; 
+                font-weight: 500;
             }
             .bar-bg { 
-                fill: #1e293b;
+                fill: #1e293b;  /* Dark card background */
+                stroke: #334155;  /* Subtle border */
+                stroke-width: 1;
                 rx: 8;
             }
             .bar-fill { 
                 fill: url(#skillGradient);
                 rx: 8;
-                animation: slideIn 1.2s cubic-bezier(0.4, 0, 0.2, 1) forwards, pulse 3s ease-in-out infinite;
+                animation: slideIn 1.2s cubic-bezier(0.4, 0, 0.2, 1) forwards, glow 3s ease-in-out infinite;
                 transform-origin: left;
             }
             .bar-shine {
                 fill: url(#shineGradient);
                 rx: 8;
-                opacity: 0.4;
+                opacity: 0.5;
             }
             @keyframes slideIn {
                 from { 
@@ -52,23 +54,22 @@
                     opacity: 1;
                 }
             }
-            @keyframes pulse {
+            @keyframes glow {
                 0%, 100% { opacity: 1; }
-                50% { opacity: 0.85; }
-            }
-            .card {
-                filter: drop-shadow(0 4px 6px rgba(0, 0, 0, 0.3));
+                50% { opacity: 0.9; }
             }
             .badge {
                 fill: #334155;
+                stroke: #fbbf24;  /* Gold border */
+                stroke-width: 2;
                 rx: 6;
             }
             .badge-text {
-                fill: #f1f5f9;
+                fill: #fbbf24;  /* Gold text */
                 font-family: 'Inter', sans-serif;
-                font-size: 11px;
-                font-weight: 600;
+                font-size: 12px;
+                font-weight: 700;
                 text-transform: uppercase;
                 letter-spacing: 0.5px;
             }
-        ]]></style><rect fill="url(#bgGradient)" height="640" width="1280" x="0" y="0" /><text class="title" x="50" y="45">Dao Paths &amp; Cultivation</text><text class="subtitle" x="50" y="68">Programming languages ranked by cultivation level</text><text class="skill-name" x="70" y="132">JavaScript</text><rect class="badge" height="20" width="40" x="170" y="119" /><text class="badge-text" text-anchor="middle" x="190" y="132">L6</text><rect class="bar-bg" height="32" width="550" x="320" y="113" /><rect class="bar-fill" height="32" style="animation-delay: 0.0s;" width="33.333333333333336" x="320" y="113" /><rect class="bar-shine" height="32" width="33.333333333333336" x="320" y="113" /><text class="skill-meta" x="890" y="134">65.2% mastery | 2183 Qi</text><text class="skill-name" x="70" y="192">C#</text><rect class="badge" height="20" width="40" x="98" y="179" /><text class="badge-text" text-anchor="middle" x="118" y="192">L3</text><rect class="bar-bg" height="32" width="550" x="320" y="173" /><rect class="bar-fill" height="32" style="animation-delay: 0.1s;" width="16.666666666666668" x="320" y="173" /><rect class="bar-shine" height="32" width="16.666666666666668" x="320" y="173" /><text class="skill-meta" x="890" y="194">13.9% mastery | 466 Qi</text><text class="skill-name" x="70" y="252">HTML</text><rect class="badge" height="20" width="40" x="116" y="239" /><text class="badge-text" text-anchor="middle" x="136" y="252">L2</text><rect class="bar-bg" height="32" width="550" x="320" y="233" /><rect class="bar-fill" height="32" style="animation-delay: 0.2s;" width="11.111111111111112" x="320" y="233" /><rect class="bar-shine" height="32" width="11.111111111111112" x="320" y="233" /><text class="skill-meta" x="890" y="254">6.6% mastery | 221 Qi</text><text class="skill-name" x="70" y="312">R</text><rect class="badge" height="20" width="40" x="89" y="299" /><text class="badge-text" text-anchor="middle" x="109" y="312">L1</text><rect class="bar-bg" height="32" width="550" x="320" y="293" /><rect class="bar-fill" height="32" style="animation-delay: 0.30000000000000004s;" width="5.555555555555556" x="320" y="293" /><rect class="bar-shine" height="32" width="5.555555555555556" x="320" y="293" /><text class="skill-meta" x="890" y="314">3.0% mastery | 101 Qi</text><text class="skill-name" x="70" y="372">POV-Ray SDL</text><rect class="badge" height="20" width="40" x="179" y="359" /><text class="badge-text" text-anchor="middle" x="199" y="372">L1</text><rect class="bar-bg" height="32" width="550" x="320" y="353" /><rect class="bar-fill" height="32" style="animation-delay: 0.4s;" width="5.555555555555556" x="320" y="353" /><rect class="bar-shine" height="32" width="5.555555555555556" x="320" y="353" /><text class="skill-meta" x="890" y="374">2.6% mastery | 85 Qi</text><text class="skill-name" x="70" y="432">Python</text><rect class="badge" height="20" width="40" x="134" y="419" /><text class="badge-text" text-anchor="middle" x="154" y="432">L1</text><rect class="bar-bg" height="32" width="550" x="320" y="413" /><rect class="bar-fill" height="32" style="animation-delay: 0.5s;" width="5.555555555555556" x="320" y="413" /><rect class="bar-shine" height="32" width="5.555555555555556" x="320" y="413" /><text class="skill-meta" x="890" y="434">1.7% mastery | 56 Qi</text><text class="skill-name" x="70" y="492">CSS</text><rect class="badge" height="20" width="40" x="107" y="479" /><text class="badge-text" text-anchor="middle" x="127" y="492">L1</text><rect class="bar-bg" height="32" width="550" x="320" y="473" /><rect class="bar-fill" height="32" style="animation-delay: 0.6000000000000001s;" width="5.555555555555556" x="320" y="473" /><rect class="bar-shine" height="32" width="5.555555555555556" x="320" y="473" /><text class="skill-meta" x="890" y="494">1.6% mastery | 53 Qi</text><text class="skill-name" x="70" y="552">C</text><rect class="badge" height="20" width="40" x="89" y="539" /><text class="badge-text" text-anchor="middle" x="109" y="552">L1</text><rect class="bar-bg" height="32" width="550" x="320" y="533" /><rect class="bar-fill" height="32" style="animation-delay: 0.7000000000000001s;" width="5.555555555555556" x="320" y="533" /><rect class="bar-shine" height="32" width="5.555555555555556" x="320" y="533" /><text class="skill-meta" x="890" y="554">1.5% mastery | 49 Qi</text><text class="subtitle" text-anchor="middle" x="640.0" y="615">Last updated: October 21, 2025 at 12:49</text></svg>
+        ]]></style><rect fill="url(#bgGradient)" height="640" width="1050" x="0" y="0" /><text class="title" filter="url(#titleGlow)" text-anchor="middle" x="525.0" y="45">Dao Paths &amp; Cultivation</text><text class="subtitle" text-anchor="middle" x="525.0" y="68">Programming languages ranked by cultivation level</text><text class="skill-name" x="70" y="132">HTML</text><rect class="badge" height="22" width="45" x="120" y="119" /><text class="badge-text" text-anchor="middle" x="142" y="133">L12</text><rect class="bar-bg" height="32" width="550" x="320" y="113" /><rect class="bar-fill" height="32" style="animation-delay: 0.0s;" width="66.66666666666667" x="320" y="113" /><rect class="bar-shine" height="32" width="66.66666666666667" x="320" y="113" /><text class="skill-meta" x="890" y="134">97.0% | 110,352 Qi</text><text class="skill-name" x="70" y="192">JavaScript</text><rect class="badge" height="22" width="45" x="180" y="179" /><text class="badge-text" text-anchor="middle" x="202" y="193">L6</text><rect class="bar-bg" height="32" width="550" x="320" y="173" /><rect class="bar-fill" height="32" style="animation-delay: 0.1s;" width="33.333333333333336" x="320" y="173" /><rect class="bar-shine" height="32" width="33.333333333333336" x="320" y="173" /><text class="skill-meta" x="890" y="194">2.1% | 2,360 Qi</text><text class="skill-name" x="70" y="252">C#</text><rect class="badge" height="22" width="45" x="100" y="239" /><text class="badge-text" text-anchor="middle" x="122" y="253">L3</text><rect class="bar-bg" height="32" width="550" x="320" y="233" /><rect class="bar-fill" height="32" style="animation-delay: 0.2s;" width="16.666666666666668" x="320" y="233" /><rect class="bar-shine" height="32" width="16.666666666666668" x="320" y="233" /><text class="skill-meta" x="890" y="254">0.4% | 466 Qi</text><text class="skill-name" x="70" y="312">Python</text><rect class="badge" height="22" width="45" x="140" y="299" /><text class="badge-text" text-anchor="middle" x="162" y="313">L1</text><rect class="bar-bg" height="32" width="550" x="320" y="293" /><rect class="bar-fill" height="32" style="animation-delay: 0.30000000000000004s;" width="5.555555555555556" x="320" y="293" /><rect class="bar-shine" height="32" width="5.555555555555556" x="320" y="293" /><text class="skill-meta" x="890" y="314">0.1% | 113 Qi</text><text class="skill-name" x="70" y="372">R</text><rect class="badge" height="22" width="45" x="90" y="359" /><text class="badge-text" text-anchor="middle" x="112" y="373">L1</text><rect class="bar-bg" height="32" width="550" x="320" y="353" /><rect class="bar-fill" height="32" style="animation-delay: 0.4s;" width="5.555555555555556" x="320" y="353" /><rect class="bar-shine" height="32" width="5.555555555555556" x="320" y="353" /><text class="skill-meta" x="890" y="374">0.1% | 101 Qi</text><text class="skill-name" x="70" y="432">POV-Ray SDL</text><rect class="badge" height="22" width="45" x="190" y="419" /><text class="badge-text" text-anchor="middle" x="212" y="433">L1</text><rect class="bar-bg" height="32" width="550" x="320" y="413" /><rect class="bar-fill" height="32" style="animation-delay: 0.5s;" width="5.555555555555556" x="320" y="413" /><rect class="bar-shine" height="32" width="5.555555555555556" x="320" y="413" /><text class="skill-meta" x="890" y="434">0.1% | 85 Qi</text><text class="skill-name" x="70" y="492">CSS</text><rect class="badge" height="22" width="45" x="110" y="479" /><text class="badge-text" text-anchor="middle" x="132" y="493">L1</text><rect class="bar-bg" height="32" width="550" x="320" y="473" /><rect class="bar-fill" height="32" style="animation-delay: 0.6000000000000001s;" width="5.555555555555556" x="320" y="473" /><rect class="bar-shine" height="32" width="5.555555555555556" x="320" y="473" /><text class="skill-meta" x="890" y="494">0.0% | 55 Qi</text><text class="skill-name" x="70" y="552">C</text><rect class="badge" height="22" width="45" x="90" y="539" /><text class="badge-text" text-anchor="middle" x="112" y="553">L1</text><rect class="bar-bg" height="32" width="550" x="320" y="533" /><rect class="bar-fill" height="32" style="animation-delay: 0.7000000000000001s;" width="5.555555555555556" x="320" y="533" /><rect class="bar-shine" height="32" width="5.555555555555556" x="320" y="533" /><text class="skill-meta" x="890" y="554">0.0% | 49 Qi</text><text class="subtitle" text-anchor="middle" x="525.0" y="615">Updated: Nov 01, 2025 • Total Cultivation: 113,712 Qi</text></svg>

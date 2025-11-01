@@ -40,14 +40,15 @@ jobs:
       - name: 📜 Parse RSS dark scrolls
         run: |
           python scripts/feed_parser.py
+      
+      - name: 📊 Update skill grimoire
+        run: |
+          python scripts/skill_calculator.py
           
       - name: 🎨 Generate cursed SVGs
         run: |
           python scripts/svg_generator.py
-          
-      - name: 📊 Update skill grimoire
-        run: |
-          python scripts/skill_calculator.py
+        
       - name: 📝 Update README with dark sigils
         run: |
           python scripts/update_readme.py

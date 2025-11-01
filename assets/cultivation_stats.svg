@@ -1,41 +1,53 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<svg baseProfile="full" height="400" version="1.1" width="800" xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><linearGradient id="bgGradient" x1="0%" x2="0%" y1="0%" y2="100%"><stop offset="0" stop-color="#0f172a" /><stop offset="1" stop-color="#1e293b" /></linearGradient><linearGradient id="progressGradient" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0" stop-color="#6366f1" /><stop offset="1" stop-color="#8b5cf6" /></linearGradient></defs><style type="text/css"><![CDATA[
+<svg baseProfile="full" height="600" version="1.1" width="1050" xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><linearGradient id="bgGradient" x1="0%" x2="0%" y1="0%" y2="100%"><stop offset="0" stop-color="#0a0e27" /><stop offset="1" stop-color="#141b2d" /></linearGradient><linearGradient id="progressGradient" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0" stop-color="#fbbf24" /><stop offset="0.5" stop-color="#f59e0b" /><stop offset="1" stop-color="#ef4444" /></linearGradient></defs><style type="text/css"><![CDATA[
             @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
             
             .title { 
-                fill: #f1f5f9; 
+                fill: #f8fafc; 
                 font-family: 'Inter', sans-serif; 
-                font-size: 28px;
+                font-size: 32px;
                 font-weight: 700;
             }
             .stat-value { 
-                fill: #6366f1; 
+                fill: #fbbf24;  /* Gold for emphasis */
                 font-family: 'Inter', sans-serif; 
-                font-size: 36px;
+                font-size: 42px;
                 font-weight: 700;
             }
             .stat-label { 
-                fill: #94a3b8; 
+                fill: #cbd5e1; 
                 font-family: 'Inter', sans-serif; 
-                font-size: 14px;
-                font-weight: 600;
+                font-size: 13px;
+                font-weight: 700;
                 text-transform: uppercase;
-                letter-spacing: 1px;
+                letter-spacing: 1.5px;
+            }
+            .stat-sublabel {
+                fill: #94a3b8;
+                font-family: 'Inter', sans-serif;
+                font-size: 12px;
+                font-weight: 500;
             }
             .stat-card {
                 fill: #1e293b;
+                stroke: #475569;
+                stroke-width: 1;
                 rx: 12;
-                transition: all 0.3s ease;
-            }
-            .stat-card:hover {
-                fill: #334155;
             }
             .progress-bg {
                 fill: #1e293b;
+                stroke: #334155;
+                stroke-width: 2;
                 rx: 10;
             }
             .progress-fill {
                 fill: url(#progressGradient);
                 rx: 10;
             }
-        ]]></style><rect fill="url(#bgGradient)" height="400" width="800" x="0" y="0" /><text class="title" x="50" y="45">Cultivation Statistics</text><rect class="stat-card" height="100" width="180" x="50" y="80" /><text class="stat-value" text-anchor="middle" x="140.0" y="125">3339</text><text class="stat-label" text-anchor="middle" x="140.0" y="150">Total Qi</text><text class="subtitle" text-anchor="middle" x="140.0" y="165">Cultivation Energy</text><rect class="stat-card" height="100" width="180" x="250" y="80" /><text class="stat-value" text-anchor="middle" x="340.0" y="125">6</text><text class="stat-label" text-anchor="middle" x="340.0" y="150">Cultivation Level</text><text class="subtitle" text-anchor="middle" x="340.0" y="165">🌱 Qi Condensation</text><rect class="stat-card" height="100" width="180" x="450" y="80" /><text class="stat-value" text-anchor="middle" x="540.0" y="125">19</text><text class="stat-label" text-anchor="middle" x="540.0" y="150">Dao Paths</text><text class="subtitle" text-anchor="middle" x="540.0" y="165">Languages Mastered</text><rect class="stat-card" height="100" width="180" x="50" y="200" /><text class="stat-value" text-anchor="middle" x="140.0" y="245">L6</text><text class="stat-label" text-anchor="middle" x="140.0" y="270">Strongest Dao</text><text class="subtitle" text-anchor="middle" x="140.0" y="285">Highest Level</text><rect class="stat-card" height="100" width="180" x="250" y="200" /><text class="stat-value" text-anchor="middle" x="340.0" y="245">28</text><text class="stat-label" text-anchor="middle" x="340.0" y="270">Enlightenments</text><text class="subtitle" text-anchor="middle" x="340.0" y="285">Total Projects</text><rect class="stat-card" height="100" width="180" x="450" y="200" /><text class="stat-value" text-anchor="middle" x="540.0" y="245">25</text><text class="stat-label" text-anchor="middle" x="540.0" y="270">Created Artifacts</text><text class="subtitle" text-anchor="middle" x="540.0" y="285">Repositories</text><rect class="progress-bg" height="20" width="700" x="50" y="350" /><rect class="progress-fill" height="20" width="42.42424242424242" x="50" y="350" /><text class="subtitle" text-anchor="middle" x="400.0" y="340">Cultivation Progress: 6/99 (6.1%)</text></svg>
+            .progress-text {
+                fill: #f8fafc;
+                font-family: 'Inter', sans-serif;
+                font-size: 16px;
+                font-weight: 600;
+            }
+        ]]></style><rect fill="url(#bgGradient)" height="600" width="1050" x="0" y="0" /><text class="title" text-anchor="middle" x="525.0" y="45">Cultivation Statistics</text><rect class="stat-card" height="120" width="300" x="50" y="100" /><text class="stat-value" text-anchor="middle" x="200.0" y="155">113,712</text><text class="stat-label" text-anchor="middle" x="200.0" y="180">Total Qi</text><text class="stat-sublabel" text-anchor="middle" x="200.0" y="200">Cultivation Energy</text><rect class="stat-card" height="120" width="300" x="370" y="100" /><text class="stat-value" text-anchor="middle" x="520.0" y="155">L12</text><text class="stat-label" text-anchor="middle" x="520.0" y="180">Cultivation</text><text class="stat-sublabel" text-anchor="middle" x="520.0" y="200">⚡ Foundation Establishment</text><rect class="stat-card" height="120" width="300" x="690" y="100" /><text class="stat-value" text-anchor="middle" x="840.0" y="155">19</text><text class="stat-label" text-anchor="middle" x="840.0" y="180">Dao Paths</text><text class="stat-sublabel" text-anchor="middle" x="840.0" y="200">Languages Mastered</text><rect class="stat-card" height="120" width="300" x="50" y="240" /><text class="stat-value" text-anchor="middle" x="200.0" y="295">L12</text><text class="stat-label" text-anchor="middle" x="200.0" y="320">Strongest</text><text class="stat-sublabel" text-anchor="middle" x="200.0" y="340">Highest Dao Level</text><rect class="stat-card" height="120" width="300" x="370" y="240" /><text class="stat-value" text-anchor="middle" x="520.0" y="295">30</text><text class="stat-label" text-anchor="middle" x="520.0" y="320">Projects</text><text class="stat-sublabel" text-anchor="middle" x="520.0" y="340">Total Enlightenments</text><rect class="stat-card" height="120" width="300" x="690" y="240" /><text class="stat-value" text-anchor="middle" x="840.0" y="295">27</text><text class="stat-label" text-anchor="middle" x="840.0" y="320">Artifacts</text><text class="stat-sublabel" text-anchor="middle" x="840.0" y="340">Repositories Created</text><text class="progress-text" text-anchor="middle" x="540.0" y="435">Cultivation Progress to Ascension</text><rect class="progress-bg" height="30" width="900" x="90" y="450" /><rect class="progress-fill" height="30" width="109.0909090909091" x="90" y="450" /><text class="stat-label" text-anchor="middle" x="540.0" y="505">12/99 (12.1%)</text></svg>

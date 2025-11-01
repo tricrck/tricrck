@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/tricrck/tricrck/main/assets/banner.gif" alt="Gothic Banner" width="100%"/>
 
-# 🖤 𝕯𝖆𝖗𝖐 𝕸𝖆𝖙𝖙𝖊𝖗 𝕯𝖊𝖛𝖊𝖑𝖔𝖕𝖊𝖗 🖤
+# 🖤 𝕯𝖊𝖛 𝕾𝖍𝖎𝖙 🖤
 
 ### *"In the abyss of code, I forge digital nightmares"*
 
@@ -14,10 +14,11 @@
 
 </div>
 
----# 📰 Latest Tech News# 📰 Latest Tech News
-# 📰 Latest Tech News
+---
 
-## 🚨 Chaos Stories
+---
+
+## 🚨 Tech Stories
 
 ### AWS multiple services outage in us-east-1
 - **Published**: October 20, 2025
@@ -31,6 +32,8 @@
 - [Read more](https://techcrunch.com/2025/10/21/spiro-raises-100m-the-largest-ever-investment-in-africas-e-mobility/)
 
 ---
+
+
 
 ### 🔮 Elemental Affinities
 
@@ -59,4 +62,3 @@
 ![Skill Bars](https://raw.githubusercontent.com/tricrck/tricrck/main/assets/skills.svg)
 
 </div>
----# 📰 Latest Tech News

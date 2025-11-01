@@ -13,8 +13,7 @@ def generate_news_section():
 
     top_stories = data['chaos_ranked'][:2]
 
-    news_section = "# 📰 Latest Tech News\n\n"
-    news_section += "## 🚨 Chaos Stories\n\n"
+    news_section = "## 🚨 Tech Stories\n\n"
 
     for story in top_stories:
         pub_date = datetime.fromisoformat(story['published'].replace('Z', '+00:00'))
@@ -48,41 +47,40 @@ def update_readme():
 
     news_section = generate_news_section()
 
-    # Remove ALL occurrences of news sections (handles duplicates)
-    # This pattern matches from "## 🚨 Chaos Stories" up to but not including "### 🔮 Elemental Affinities"
     readme_content = re.sub(
-        r"(?:^|\n)(?:# 📰 Latest Tech News\n+)?## 🚨 Chaos Stories\n+(?:.*?\n)*?---\n+",
-        "",
+        r'## 🚨 Tech Stories.*?(?=### 🔮 Elemental Affinities|$)',
+        '',
         readme_content,
-        flags=re.MULTILINE
+        flags=re.DOTALL
     )
-
-    # Also remove the "# 📰 Latest Tech News" header if it exists alone
-    readme_content = re.sub(
-        r"(?:^|\n)# 📰 Latest Tech News\n+(?=### 🔮 Elemental Affinities|\Z)",
-        "\n",
-        readme_content,
-        flags=re.MULTILINE
-    )
-
-    # Clean up multiple consecutive newlines
+    
+    # Clean up any orphaned "---" separators that might be left
+    readme_content = re.sub(r'\n---\n---\n', '\n---\n', readme_content)
+    
+    # Clean up multiple consecutive newlines (more than 2)
     readme_content = re.sub(r'\n{3,}', '\n\n', readme_content)
-
-    # Insert the new news section before "### 🔮 Elemental Affinities"
-    if "### 🔮 Elemental Affinities" in readme_content:
-        updated_content = readme_content.replace(
-            "### 🔮 Elemental Affinities",
-            news_section + "### 🔮 Elemental Affinities",
-            1  # Only replace the first occurrence
-        )
+    # Ensure there's a newline before and after the news section
+    parts = readme_content.split('---', 2)
+    
+    if len(parts) >= 3:
+        # Reassemble: header section + news section + rest
+        updated_content = parts[0] + '---' + parts[1] + '---\n\n' + news_section + parts[2]
     else:
-        updated_content = readme_content.rstrip() + "\n\n" + news_section
+        # Fallback: insert before Elemental Affinities
+        if "### 🔮 Elemental Affinities" in readme_content:
+            updated_content = readme_content.replace(
+                "### 🔮 Elemental Affinities",
+                news_section + "### 🔮 Elemental Affinities",
+                1
+            )
+        else:
+            updated_content = readme_content.rstrip() + "\n\n" + news_section
 
     with open('README.md', 'w', encoding='utf-8') as f:
         f.write(updated_content)
 
     print("✅ README updated with latest news (replaced old section).")
-
+    
 
 if __name__ == "__main__":
     update_readme()
