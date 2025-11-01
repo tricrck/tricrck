@@ -5,12 +5,8 @@
 
 ### *"In the abyss of code, I forge digital nightmares"*
 
-![GitHub followers](https://img.shields.io/github/followers/tricrck?style=for-the-badge&color=black&label=SOULS+BOUND&logo=skull)
-![Years Coding](https://img.shields.io/badge/YEARS_IN_ABYSS-7-black?style=for-the-badge&logo=clock)
-![Commit Streak](https://img.shields.io/badge/CURRENT_STREAK-42-black?style=for-the-badge&logo=fire)
-
-[![GitHub Nightmare](https://img.shields.io/badge/ENTER_THE_VOID-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tricrck)
-[![Dark Rituals](https://img.shields.io/badge/DARK_RITUALS-8B0000?style=for-the-badge&logo=code&logoColor=white)](https://github.com/tricrck?tab=repositories)
+[![GitHub Nightmare](https://img.shields.io/badge/VOID-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tricrck)
+[![Rituals](https://img.shields.io/badge/RITUALS-8B0000?style=for-the-badge&logo=code&logoColor=white)](https://github.com/tricrck?tab=repositories)
 
 </div>
 
