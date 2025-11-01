@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### AWS multiple services outage in us-east-1
-- **Published**: October 20, 2025
-- **Summary**: ......
-- **Keywords**: outage
-- [Read more](https://health.aws.amazon.com/health/status?ts=20251020)
+### Coinbase CEO Brian Armstrong trolls the prediction markets
+- **Published**: November 01, 2025
+- **Summary**: While Armstrong may have helped some Kalshi and Polymarket users make a little money, he was also illustrating how easily these markets can be manipul...
+- [Read more](https://techcrunch.com/2025/11/01/coinbase-ceo-brian-armstrong-trolls-the-prediction-markets/)
 
-### Spiro raises $100M, the largest-ever investment in Africa’s e-mobility
-- **Published**: October 21, 2025
-- **Summary**: Dubai-headquartered Spiro is growing quickly with e-motorbikes and a battery swapping network designed for Africa's needs.......
-- [Read more](https://techcrunch.com/2025/10/21/spiro-raises-100m-the-largest-ever-investment-in-africas-e-mobility/)
+### Rising energy prices put AI and data centers in the crosshairs
+- **Published**: November 01, 2025
+- **Summary**: A majority of consumers say they’re worried about data centers driving up electricity costs. Is the industry prepared for a possible backlash?......
+- [Read more](https://techcrunch.com/2025/11/01/rising-energy-prices-put-ai-and-data-centers-in-the-crosshairs/)
 
 ---
 

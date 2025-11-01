@@ -1,28 +1,10 @@
 {
   "chaos_ranked": [
     {
-      "title": "AWS multiple services outage in us-east-1",
-      "link": "https://health.aws.amazon.com/health/status?ts=20251020",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=45640838\">Comments</a>...",
-      "published": "2025-10-20T07:22:28+00:00",
-      "domain": "health.aws.amazon.com",
-      "scores": {
-        "chaos": 28.8,
-        "anarchy": 3.0,
-        "overall": 15.9
-      },
-      "keywords": {
-        "chaos": [
-          "outage"
-        ],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Spiro raises $100M, the largest-ever investment in Africa\u2019s e-mobility",
-      "link": "https://techcrunch.com/2025/10/21/spiro-raises-100m-the-largest-ever-investment-in-africas-e-mobility/",
-      "summary": "Dubai-headquartered Spiro is growing quickly with e-motorbikes and a battery swapping network designed for Africa's needs....",
-      "published": "2025-10-21T09:35:22+00:00",
+      "title": "Coinbase CEO Brian Armstrong trolls the prediction markets",
+      "link": "https://techcrunch.com/2025/11/01/coinbase-ceo-brian-armstrong-trolls-the-prediction-markets/",
+      "summary": "While Armstrong may have helped some Kalshi and Polymarket users make a little money, he was also illustrating how easily these markets can be manipulated....",
+      "published": "2025-11-01T16:59:08+00:00",
       "domain": "techcrunch.com",
       "scores": {
         "chaos": 9.0,
@@ -35,10 +17,10 @@
       }
     },
     {
-      "title": "European AI rising star Nexos.ai raises \u20ac30M to unlock enterprise AI adoption",
-      "link": "https://techcrunch.com/2025/10/20/european-ai-rising-star-nexos-ai-raises-30m-to-unlock-enterprise-ai-adoption/",
-      "summary": "Nord Security co-founders have closed a \u20ac30 million Series A for their new startup, Nexos.ai, an orchestration platform aimed at helping companies adopt AI securely....",
-      "published": "2025-10-21T06:00:00+00:00",
+      "title": "Rising energy prices put AI and data centers in the crosshairs",
+      "link": "https://techcrunch.com/2025/11/01/rising-energy-prices-put-ai-and-data-centers-in-the-crosshairs/",
+      "summary": "A majority of consumers say they\u2019re worried about data centers driving up electricity costs. Is the industry prepared for a possible backlash?...",
+      "published": "2025-11-01T16:15:00+00:00",
       "domain": "techcrunch.com",
       "scores": {
         "chaos": 9.0,
@@ -51,10 +33,10 @@
       }
     },
     {
-      "title": "YC alum Cercli, an AI-powered Rippling for MENA, raises oversubscribed $12M Series A",
-      "link": "https://techcrunch.com/2025/10/20/yc-alum-cercli-an-ai-powered-rippling-for-mena-raises-oversubscribed-12m-series-a/",
-      "summary": "In a region long defined by fragmented enterprise systems, outdated compliance tools, and HR software that rarely talks to finance, Cercli is building a unified alternative for MENA businesses with AI...",
-      "published": "2025-10-21T04:00:00+00:00",
+      "title": "AI researchers \u2019embodied\u2019 an LLM into a robot \u2013 and it started channeling Robin Williams",
+      "link": "https://techcrunch.com/2025/11/01/ai-researchers-embodied-an-llm-into-a-robot-and-it-started-channeling-robin-williams/",
+      "summary": "AI researchers at Andon Labs embedded various LLMs in a vacuum robot to test how ready they were to be embodied. And hilarity ensued....",
+      "published": "2025-11-01T15:00:00+00:00",
       "domain": "techcrunch.com",
       "scores": {
         "chaos": 9.0,
@@ -67,10 +49,10 @@
       }
     },
     {
-      "title": "Apple will let users roll back the Liquid Glass look with new \u2018tinted\u2019 option",
-      "link": "https://techcrunch.com/2025/10/20/apple-will-let-users-roll-back-the-liquid-glass-look-with-new-tinted-option/",
-      "summary": "Apple is responding to user feedback on its new Liquid Glass design with a setting that lets users choose between Clear and Tinted appearances. Introduced in iOS 26.1 beta 4, the option gives users mo...",
-      "published": "2025-10-20T21:40:41+00:00",
+      "title": "What is Bending Spoons? Everything to know about AOL\u2019s acquirer",
+      "link": "https://techcrunch.com/2025/10/31/what-is-bending-spoons-everything-to-know-about-aols-acquirer/",
+      "summary": "Bending Spoons remains largely unknown, even as its portfolio of products has served more than a billion people....",
+      "published": "2025-11-01T01:11:34+00:00",
       "domain": "techcrunch.com",
       "scores": {
         "chaos": 9.0,
@@ -83,10 +65,10 @@
       }
     },
     {
-      "title": "Top OpenAI, Google Brain researchers set off a $300M VC frenzy for their startup Periodic Labs",
-      "link": "https://techcrunch.com/2025/10/20/top-openai-google-brain-researchers-set-off-a-300m-vc-frenzy-for-their-startup-periodic-labs/",
-      "summary": "When Liam Fedus announced he was quitting OpenAI, VCs swarmed. One even wrote a love letter. Here's how Felicis' Peter Deng won the deal....",
-      "published": "2025-10-20T21:15:24+00:00",
+      "title": "Bluesky hits 40 million users, introduces \u2018dislikes\u2019 beta",
+      "link": "https://techcrunch.com/2025/10/31/bluesky-hits-40-million-users-introduces-dislikes-beta/",
+      "summary": "As users \"dislike\" posts, the system will learn what sort of content they want to see less of. This will help to inform more than just how content is ranked in feeds, but also reply rankings....",
+      "published": "2025-10-31T20:14:06+00:00",
       "domain": "techcrunch.com",
       "scores": {
         "chaos": 9.0,
@@ -99,26 +81,10 @@
       }
     },
     {
-      "title": "Show HN: I'm rewriting a web server written in Rust for speed and ease of use",
-      "link": "https://ferron.sh/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=45653350\">Comments</a>...",
-      "published": "2025-10-21T07:26:57+00:00",
-      "domain": "ferron.sh",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Pasta/80 is a simple Pascal cross compiler targeting the Z80 microprocessor",
-      "link": "https://github.com/pleumann/pasta80",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=45653330\">Comments</a>...",
-      "published": "2025-10-21T07:23:09+00:00",
+      "title": "Show HN: Why write code if the LLM can just do the thing? (web app experiment)",
+      "link": "https://github.com/samrolken/nokode",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=45783640\">Comments</a>...",
+      "published": "2025-11-01T17:45:18+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -131,11 +97,11 @@
       }
     },
     {
-      "title": "Language Support for Marginalia Search",
-      "link": "https://www.marginalia.nu/log/a_126_multilingual/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=45653143\">Comments</a>...",
-      "published": "2025-10-21T06:48:53+00:00",
-      "domain": "marginalia.nu",
+      "title": "How I Learned to Stop Worrying and Love My Shitty Life",
+      "link": "https://www.thedriftmag.com/how-i-learned-to-stop-worrying-and-love-my-shitty-life/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=45783440\">Comments</a>...",
+      "published": "2025-11-01T17:21:08+00:00",
+      "domain": "thedriftmag.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -147,11 +113,43 @@
       }
     },
     {
-      "title": "Practical Scheme",
-      "link": "https://practical-scheme.net/index.html#docs",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=45652859\">Comments</a>...",
-      "published": "2025-10-21T05:47:39+00:00",
-      "domain": "practical-scheme.net",
+      "title": "Chat Control proposal fails again after public opposition",
+      "link": "https://andreafortuna.org/2025/11/01/chat-control-proposal-fails-again-after-massive-public-opposition/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=45783114\">Comments</a>...",
+      "published": "2025-11-01T16:42:57+00:00",
+      "domain": "andreafortuna.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "GHC now runs in the browser",
+      "link": "https://discourse.haskell.org/t/ghc-now-runs-in-your-browser/13169",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=45782981\">Comments</a>...",
+      "published": "2025-11-01T16:29:23+00:00",
+      "domain": "discourse.haskell.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Updated practice for review articles and position papers in ArXiv CS category",
+      "link": "https://blog.arxiv.org/2025/10/31/attention-authors-updated-practice-for-review-articles-and-position-papers-in-arxiv-cs-category/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=45782136\">Comments</a>...",
+      "published": "2025-11-01T14:58:05+00:00",
+      "domain": "blog.arxiv.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -165,10 +163,10 @@
   ],
   "anarchy_ranked": [
     {
-      "title": "Spiro raises $100M, the largest-ever investment in Africa\u2019s e-mobility",
-      "link": "https://techcrunch.com/2025/10/21/spiro-raises-100m-the-largest-ever-investment-in-africas-e-mobility/",
-      "summary": "Dubai-headquartered Spiro is growing quickly with e-motorbikes and a battery swapping network designed for Africa's needs....",
-      "published": "2025-10-21T09:35:22+00:00",
+      "title": "Coinbase CEO Brian Armstrong trolls the prediction markets",
+      "link": "https://techcrunch.com/2025/11/01/coinbase-ceo-brian-armstrong-trolls-the-prediction-markets/",
+      "summary": "While Armstrong may have helped some Kalshi and Polymarket users make a little money, he was also illustrating how easily these markets can be manipulated....",
+      "published": "2025-11-01T16:59:08+00:00",
       "domain": "techcrunch.com",
       "scores": {
         "chaos": 9.0,
@@ -181,10 +179,10 @@
       }
     },
     {
-      "title": "European AI rising star Nexos.ai raises \u20ac30M to unlock enterprise AI adoption",
-      "link": "https://techcrunch.com/2025/10/20/european-ai-rising-star-nexos-ai-raises-30m-to-unlock-enterprise-ai-adoption/",
-      "summary": "Nord Security co-founders have closed a \u20ac30 million Series A for their new startup, Nexos.ai, an orchestration platform aimed at helping companies adopt AI securely....",
-      "published": "2025-10-21T06:00:00+00:00",
+      "title": "Rising energy prices put AI and data centers in the crosshairs",
+      "link": "https://techcrunch.com/2025/11/01/rising-energy-prices-put-ai-and-data-centers-in-the-crosshairs/",
+      "summary": "A majority of consumers say they\u2019re worried about data centers driving up electricity costs. Is the industry prepared for a possible backlash?...",
+      "published": "2025-11-01T16:15:00+00:00",
       "domain": "techcrunch.com",
       "scores": {
         "chaos": 9.0,
@@ -197,10 +195,10 @@
       }
     },
     {
-      "title": "YC alum Cercli, an AI-powered Rippling for MENA, raises oversubscribed $12M Series A",
-      "link": "https://techcrunch.com/2025/10/20/yc-alum-cercli-an-ai-powered-rippling-for-mena-raises-oversubscribed-12m-series-a/",
-      "summary": "In a region long defined by fragmented enterprise systems, outdated compliance tools, and HR software that rarely talks to finance, Cercli is building a unified alternative for MENA businesses with AI...",
-      "published": "2025-10-21T04:00:00+00:00",
+      "title": "AI researchers \u2019embodied\u2019 an LLM into a robot \u2013 and it started channeling Robin Williams",
+      "link": "https://techcrunch.com/2025/11/01/ai-researchers-embodied-an-llm-into-a-robot-and-it-started-channeling-robin-williams/",
+      "summary": "AI researchers at Andon Labs embedded various LLMs in a vacuum robot to test how ready they were to be embodied. And hilarity ensued....",
+      "published": "2025-11-01T15:00:00+00:00",
       "domain": "techcrunch.com",
       "scores": {
         "chaos": 9.0,
@@ -213,10 +211,10 @@
       }
     },
     {
-      "title": "Apple will let users roll back the Liquid Glass look with new \u2018tinted\u2019 option",
-      "link": "https://techcrunch.com/2025/10/20/apple-will-let-users-roll-back-the-liquid-glass-look-with-new-tinted-option/",
-      "summary": "Apple is responding to user feedback on its new Liquid Glass design with a setting that lets users choose between Clear and Tinted appearances. Introduced in iOS 26.1 beta 4, the option gives users mo...",
-      "published": "2025-10-20T21:40:41+00:00",
+      "title": "What is Bending Spoons? Everything to know about AOL\u2019s acquirer",
+      "link": "https://techcrunch.com/2025/10/31/what-is-bending-spoons-everything-to-know-about-aols-acquirer/",
+      "summary": "Bending Spoons remains largely unknown, even as its portfolio of products has served more than a billion people....",
+      "published": "2025-11-01T01:11:34+00:00",
       "domain": "techcrunch.com",
       "scores": {
         "chaos": 9.0,
@@ -229,10 +227,10 @@
       }
     },
     {
-      "title": "Top OpenAI, Google Brain researchers set off a $300M VC frenzy for their startup Periodic Labs",
-      "link": "https://techcrunch.com/2025/10/20/top-openai-google-brain-researchers-set-off-a-300m-vc-frenzy-for-their-startup-periodic-labs/",
-      "summary": "When Liam Fedus announced he was quitting OpenAI, VCs swarmed. One even wrote a love letter. Here's how Felicis' Peter Deng won the deal....",
-      "published": "2025-10-20T21:15:24+00:00",
+      "title": "Bluesky hits 40 million users, introduces \u2018dislikes\u2019 beta",
+      "link": "https://techcrunch.com/2025/10/31/bluesky-hits-40-million-users-introduces-dislikes-beta/",
+      "summary": "As users \"dislike\" posts, the system will learn what sort of content they want to see less of. This will help to inform more than just how content is ranked in feeds, but also reply rankings....",
+      "published": "2025-10-31T20:14:06+00:00",
       "domain": "techcrunch.com",
       "scores": {
         "chaos": 9.0,
@@ -245,26 +243,10 @@
       }
     },
     {
-      "title": "Show HN: I'm rewriting a web server written in Rust for speed and ease of use",
-      "link": "https://ferron.sh/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=45653350\">Comments</a>...",
-      "published": "2025-10-21T07:26:57+00:00",
-      "domain": "ferron.sh",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Pasta/80 is a simple Pascal cross compiler targeting the Z80 microprocessor",
-      "link": "https://github.com/pleumann/pasta80",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=45653330\">Comments</a>...",
-      "published": "2025-10-21T07:23:09+00:00",
+      "title": "Show HN: Why write code if the LLM can just do the thing? (web app experiment)",
+      "link": "https://github.com/samrolken/nokode",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=45783640\">Comments</a>...",
+      "published": "2025-11-01T17:45:18+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -277,11 +259,11 @@
       }
     },
     {
-      "title": "Language Support for Marginalia Search",
-      "link": "https://www.marginalia.nu/log/a_126_multilingual/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=45653143\">Comments</a>...",
-      "published": "2025-10-21T06:48:53+00:00",
-      "domain": "marginalia.nu",
+      "title": "How I Learned to Stop Worrying and Love My Shitty Life",
+      "link": "https://www.thedriftmag.com/how-i-learned-to-stop-worrying-and-love-my-shitty-life/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=45783440\">Comments</a>...",
+      "published": "2025-11-01T17:21:08+00:00",
+      "domain": "thedriftmag.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -293,11 +275,11 @@
       }
     },
     {
-      "title": "Practical Scheme",
-      "link": "https://practical-scheme.net/index.html#docs",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=45652859\">Comments</a>...",
-      "published": "2025-10-21T05:47:39+00:00",
-      "domain": "practical-scheme.net",
+      "title": "Chat Control proposal fails again after public opposition",
+      "link": "https://andreafortuna.org/2025/11/01/chat-control-proposal-fails-again-after-massive-public-opposition/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=45783114\">Comments</a>...",
+      "published": "2025-11-01T16:42:57+00:00",
+      "domain": "andreafortuna.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -309,48 +291,44 @@
       }
     },
     {
-      "title": "AWS multiple services outage in us-east-1",
-      "link": "https://health.aws.amazon.com/health/status?ts=20251020",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=45640838\">Comments</a>...",
-      "published": "2025-10-20T07:22:28+00:00",
-      "domain": "health.aws.amazon.com",
+      "title": "GHC now runs in the browser",
+      "link": "https://discourse.haskell.org/t/ghc-now-runs-in-your-browser/13169",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=45782981\">Comments</a>...",
+      "published": "2025-11-01T16:29:23+00:00",
+      "domain": "discourse.haskell.org",
       "scores": {
-        "chaos": 28.8,
+        "chaos": 3.0,
         "anarchy": 3.0,
-        "overall": 15.9
+        "overall": 3.0
       },
       "keywords": {
-        "chaos": [
-          "outage"
-        ],
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Updated practice for review articles and position papers in ArXiv CS category",
+      "link": "https://blog.arxiv.org/2025/10/31/attention-authors-updated-practice-for-review-articles-and-position-papers-in-arxiv-cs-category/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=45782136\">Comments</a>...",
+      "published": "2025-11-01T14:58:05+00:00",
+      "domain": "blog.arxiv.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
         "anarchy": []
       }
     }
   ],
   "overall_ranked": [
     {
-      "title": "AWS multiple services outage in us-east-1",
-      "link": "https://health.aws.amazon.com/health/status?ts=20251020",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=45640838\">Comments</a>...",
-      "published": "2025-10-20T07:22:28+00:00",
-      "domain": "health.aws.amazon.com",
-      "scores": {
-        "chaos": 28.8,
-        "anarchy": 3.0,
-        "overall": 15.9
-      },
-      "keywords": {
-        "chaos": [
-          "outage"
-        ],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Spiro raises $100M, the largest-ever investment in Africa\u2019s e-mobility",
-      "link": "https://techcrunch.com/2025/10/21/spiro-raises-100m-the-largest-ever-investment-in-africas-e-mobility/",
-      "summary": "Dubai-headquartered Spiro is growing quickly with e-motorbikes and a battery swapping network designed for Africa's needs....",
-      "published": "2025-10-21T09:35:22+00:00",
+      "title": "Coinbase CEO Brian Armstrong trolls the prediction markets",
+      "link": "https://techcrunch.com/2025/11/01/coinbase-ceo-brian-armstrong-trolls-the-prediction-markets/",
+      "summary": "While Armstrong may have helped some Kalshi and Polymarket users make a little money, he was also illustrating how easily these markets can be manipulated....",
+      "published": "2025-11-01T16:59:08+00:00",
       "domain": "techcrunch.com",
       "scores": {
         "chaos": 9.0,
@@ -363,10 +341,10 @@
       }
     },
     {
-      "title": "European AI rising star Nexos.ai raises \u20ac30M to unlock enterprise AI adoption",
-      "link": "https://techcrunch.com/2025/10/20/european-ai-rising-star-nexos-ai-raises-30m-to-unlock-enterprise-ai-adoption/",
-      "summary": "Nord Security co-founders have closed a \u20ac30 million Series A for their new startup, Nexos.ai, an orchestration platform aimed at helping companies adopt AI securely....",
-      "published": "2025-10-21T06:00:00+00:00",
+      "title": "Rising energy prices put AI and data centers in the crosshairs",
+      "link": "https://techcrunch.com/2025/11/01/rising-energy-prices-put-ai-and-data-centers-in-the-crosshairs/",
+      "summary": "A majority of consumers say they\u2019re worried about data centers driving up electricity costs. Is the industry prepared for a possible backlash?...",
+      "published": "2025-11-01T16:15:00+00:00",
       "domain": "techcrunch.com",
       "scores": {
         "chaos": 9.0,
@@ -379,10 +357,10 @@
       }
     },
     {
-      "title": "YC alum Cercli, an AI-powered Rippling for MENA, raises oversubscribed $12M Series A",
-      "link": "https://techcrunch.com/2025/10/20/yc-alum-cercli-an-ai-powered-rippling-for-mena-raises-oversubscribed-12m-series-a/",
-      "summary": "In a region long defined by fragmented enterprise systems, outdated compliance tools, and HR software that rarely talks to finance, Cercli is building a unified alternative for MENA businesses with AI...",
-      "published": "2025-10-21T04:00:00+00:00",
+      "title": "AI researchers \u2019embodied\u2019 an LLM into a robot \u2013 and it started channeling Robin Williams",
+      "link": "https://techcrunch.com/2025/11/01/ai-researchers-embodied-an-llm-into-a-robot-and-it-started-channeling-robin-williams/",
+      "summary": "AI researchers at Andon Labs embedded various LLMs in a vacuum robot to test how ready they were to be embodied. And hilarity ensued....",
+      "published": "2025-11-01T15:00:00+00:00",
       "domain": "techcrunch.com",
       "scores": {
         "chaos": 9.0,
@@ -395,10 +373,10 @@
       }
     },
     {
-      "title": "Apple will let users roll back the Liquid Glass look with new \u2018tinted\u2019 option",
-      "link": "https://techcrunch.com/2025/10/20/apple-will-let-users-roll-back-the-liquid-glass-look-with-new-tinted-option/",
-      "summary": "Apple is responding to user feedback on its new Liquid Glass design with a setting that lets users choose between Clear and Tinted appearances. Introduced in iOS 26.1 beta 4, the option gives users mo...",
-      "published": "2025-10-20T21:40:41+00:00",
+      "title": "What is Bending Spoons? Everything to know about AOL\u2019s acquirer",
+      "link": "https://techcrunch.com/2025/10/31/what-is-bending-spoons-everything-to-know-about-aols-acquirer/",
+      "summary": "Bending Spoons remains largely unknown, even as its portfolio of products has served more than a billion people....",
+      "published": "2025-11-01T01:11:34+00:00",
       "domain": "techcrunch.com",
       "scores": {
         "chaos": 9.0,
@@ -411,10 +389,10 @@
       }
     },
     {
-      "title": "Top OpenAI, Google Brain researchers set off a $300M VC frenzy for their startup Periodic Labs",
-      "link": "https://techcrunch.com/2025/10/20/top-openai-google-brain-researchers-set-off-a-300m-vc-frenzy-for-their-startup-periodic-labs/",
-      "summary": "When Liam Fedus announced he was quitting OpenAI, VCs swarmed. One even wrote a love letter. Here's how Felicis' Peter Deng won the deal....",
-      "published": "2025-10-20T21:15:24+00:00",
+      "title": "Bluesky hits 40 million users, introduces \u2018dislikes\u2019 beta",
+      "link": "https://techcrunch.com/2025/10/31/bluesky-hits-40-million-users-introduces-dislikes-beta/",
+      "summary": "As users \"dislike\" posts, the system will learn what sort of content they want to see less of. This will help to inform more than just how content is ranked in feeds, but also reply rankings....",
+      "published": "2025-10-31T20:14:06+00:00",
       "domain": "techcrunch.com",
       "scores": {
         "chaos": 9.0,
@@ -427,26 +405,10 @@
       }
     },
     {
-      "title": "Show HN: I'm rewriting a web server written in Rust for speed and ease of use",
-      "link": "https://ferron.sh/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=45653350\">Comments</a>...",
-      "published": "2025-10-21T07:26:57+00:00",
-      "domain": "ferron.sh",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Pasta/80 is a simple Pascal cross compiler targeting the Z80 microprocessor",
-      "link": "https://github.com/pleumann/pasta80",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=45653330\">Comments</a>...",
-      "published": "2025-10-21T07:23:09+00:00",
+      "title": "Show HN: Why write code if the LLM can just do the thing? (web app experiment)",
+      "link": "https://github.com/samrolken/nokode",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=45783640\">Comments</a>...",
+      "published": "2025-11-01T17:45:18+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -459,11 +421,11 @@
       }
     },
     {
-      "title": "Language Support for Marginalia Search",
-      "link": "https://www.marginalia.nu/log/a_126_multilingual/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=45653143\">Comments</a>...",
-      "published": "2025-10-21T06:48:53+00:00",
-      "domain": "marginalia.nu",
+      "title": "How I Learned to Stop Worrying and Love My Shitty Life",
+      "link": "https://www.thedriftmag.com/how-i-learned-to-stop-worrying-and-love-my-shitty-life/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=45783440\">Comments</a>...",
+      "published": "2025-11-01T17:21:08+00:00",
+      "domain": "thedriftmag.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -475,11 +437,43 @@
       }
     },
     {
-      "title": "Practical Scheme",
-      "link": "https://practical-scheme.net/index.html#docs",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=45652859\">Comments</a>...",
-      "published": "2025-10-21T05:47:39+00:00",
-      "domain": "practical-scheme.net",
+      "title": "Chat Control proposal fails again after public opposition",
+      "link": "https://andreafortuna.org/2025/11/01/chat-control-proposal-fails-again-after-massive-public-opposition/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=45783114\">Comments</a>...",
+      "published": "2025-11-01T16:42:57+00:00",
+      "domain": "andreafortuna.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "GHC now runs in the browser",
+      "link": "https://discourse.haskell.org/t/ghc-now-runs-in-your-browser/13169",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=45782981\">Comments</a>...",
+      "published": "2025-11-01T16:29:23+00:00",
+      "domain": "discourse.haskell.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Updated practice for review articles and position papers in ArXiv CS category",
+      "link": "https://blog.arxiv.org/2025/10/31/attention-authors-updated-practice-for-review-articles-and-position-papers-in-arxiv-cs-category/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=45782136\">Comments</a>...",
+      "published": "2025-11-01T14:58:05+00:00",
+      "domain": "blog.arxiv.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -493,42 +487,10 @@
   ],
   "all_articles": [
     {
-      "title": "Spiro raises $100M, the largest-ever investment in Africa\u2019s e-mobility",
-      "link": "https://techcrunch.com/2025/10/21/spiro-raises-100m-the-largest-ever-investment-in-africas-e-mobility/",
-      "summary": "Dubai-headquartered Spiro is growing quickly with e-motorbikes and a battery swapping network designed for Africa's needs....",
-      "published": "2025-10-21T09:35:22+00:00",
-      "domain": "techcrunch.com",
-      "scores": {
-        "chaos": 9.0,
-        "anarchy": 6.0,
-        "overall": 7.5
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: I'm rewriting a web server written in Rust for speed and ease of use",
-      "link": "https://ferron.sh/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=45653350\">Comments</a>...",
-      "published": "2025-10-21T07:26:57+00:00",
-      "domain": "ferron.sh",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Pasta/80 is a simple Pascal cross compiler targeting the Z80 microprocessor",
-      "link": "https://github.com/pleumann/pasta80",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=45653330\">Comments</a>...",
-      "published": "2025-10-21T07:23:09+00:00",
+      "title": "Show HN: Why write code if the LLM can just do the thing? (web app experiment)",
+      "link": "https://github.com/samrolken/nokode",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=45783640\">Comments</a>...",
+      "published": "2025-11-01T17:45:18+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -541,11 +503,11 @@
       }
     },
     {
-      "title": "Language Support for Marginalia Search",
-      "link": "https://www.marginalia.nu/log/a_126_multilingual/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=45653143\">Comments</a>...",
-      "published": "2025-10-21T06:48:53+00:00",
-      "domain": "marginalia.nu",
+      "title": "How I Learned to Stop Worrying and Love My Shitty Life",
+      "link": "https://www.thedriftmag.com/how-i-learned-to-stop-worrying-and-love-my-shitty-life/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=45783440\">Comments</a>...",
+      "published": "2025-11-01T17:21:08+00:00",
+      "domain": "thedriftmag.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -557,10 +519,10 @@
       }
     },
     {
-      "title": "European AI rising star Nexos.ai raises \u20ac30M to unlock enterprise AI adoption",
-      "link": "https://techcrunch.com/2025/10/20/european-ai-rising-star-nexos-ai-raises-30m-to-unlock-enterprise-ai-adoption/",
-      "summary": "Nord Security co-founders have closed a \u20ac30 million Series A for their new startup, Nexos.ai, an orchestration platform aimed at helping companies adopt AI securely....",
-      "published": "2025-10-21T06:00:00+00:00",
+      "title": "Coinbase CEO Brian Armstrong trolls the prediction markets",
+      "link": "https://techcrunch.com/2025/11/01/coinbase-ceo-brian-armstrong-trolls-the-prediction-markets/",
+      "summary": "While Armstrong may have helped some Kalshi and Polymarket users make a little money, he was also illustrating how easily these markets can be manipulated....",
+      "published": "2025-11-01T16:59:08+00:00",
       "domain": "techcrunch.com",
       "scores": {
         "chaos": 9.0,
@@ -573,11 +535,11 @@
       }
     },
     {
-      "title": "Practical Scheme",
-      "link": "https://practical-scheme.net/index.html#docs",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=45652859\">Comments</a>...",
-      "published": "2025-10-21T05:47:39+00:00",
-      "domain": "practical-scheme.net",
+      "title": "Chat Control proposal fails again after public opposition",
+      "link": "https://andreafortuna.org/2025/11/01/chat-control-proposal-fails-again-after-massive-public-opposition/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=45783114\">Comments</a>...",
+      "published": "2025-11-01T16:42:57+00:00",
+      "domain": "andreafortuna.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -589,68 +551,98 @@
       }
     },
     {
-      "title": "YC alum Cercli, an AI-powered Rippling for MENA, raises oversubscribed $12M Series A",
-      "link": "https://techcrunch.com/2025/10/20/yc-alum-cercli-an-ai-powered-rippling-for-mena-raises-oversubscribed-12m-series-a/",
-      "summary": "In a region long defined by fragmented enterprise systems, outdated compliance tools, and HR software that rarely talks to finance, Cercli is building a unified alternative for MENA businesses with AI...",
-      "published": "2025-10-21T04:00:00+00:00",
-      "domain": "techcrunch.com",
+      "title": "GHC now runs in the browser",
+      "link": "https://discourse.haskell.org/t/ghc-now-runs-in-your-browser/13169",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=45782981\">Comments</a>...",
+      "published": "2025-11-01T16:29:23+00:00",
+      "domain": "discourse.haskell.org",
       "scores": {
-        "chaos": 9.0,
-        "anarchy": 6.0,
-        "overall": 7.5
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Apple will let users roll back the Liquid Glass look with new \u2018tinted\u2019 option",
-      "link": "https://techcrunch.com/2025/10/20/apple-will-let-users-roll-back-the-liquid-glass-look-with-new-tinted-option/",
-      "summary": "Apple is responding to user feedback on its new Liquid Glass design with a setting that lets users choose between Clear and Tinted appearances. Introduced in iOS 26.1 beta 4, the option gives users mo...",
-      "published": "2025-10-20T21:40:41+00:00",
-      "domain": "techcrunch.com",
-      "scores": {
-        "chaos": 9.0,
-        "anarchy": 6.0,
-        "overall": 7.5
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Top OpenAI, Google Brain researchers set off a $300M VC frenzy for their startup Periodic Labs",
-      "link": "https://techcrunch.com/2025/10/20/top-openai-google-brain-researchers-set-off-a-300m-vc-frenzy-for-their-startup-periodic-labs/",
-      "summary": "When Liam Fedus announced he was quitting OpenAI, VCs swarmed. One even wrote a love letter. Here's how Felicis' Peter Deng won the deal....",
-      "published": "2025-10-20T21:15:24+00:00",
-      "domain": "techcrunch.com",
-      "scores": {
-        "chaos": 9.0,
-        "anarchy": 6.0,
-        "overall": 7.5
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "AWS multiple services outage in us-east-1",
-      "link": "https://health.aws.amazon.com/health/status?ts=20251020",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=45640838\">Comments</a>...",
-      "published": "2025-10-20T07:22:28+00:00",
-      "domain": "health.aws.amazon.com",
-      "scores": {
-        "chaos": 28.8,
+        "chaos": 3.0,
         "anarchy": 3.0,
-        "overall": 15.9
+        "overall": 3.0
       },
       "keywords": {
-        "chaos": [
-          "outage"
-        ],
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Rising energy prices put AI and data centers in the crosshairs",
+      "link": "https://techcrunch.com/2025/11/01/rising-energy-prices-put-ai-and-data-centers-in-the-crosshairs/",
+      "summary": "A majority of consumers say they\u2019re worried about data centers driving up electricity costs. Is the industry prepared for a possible backlash?...",
+      "published": "2025-11-01T16:15:00+00:00",
+      "domain": "techcrunch.com",
+      "scores": {
+        "chaos": 9.0,
+        "anarchy": 6.0,
+        "overall": 7.5
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "AI researchers \u2019embodied\u2019 an LLM into a robot \u2013 and it started channeling Robin Williams",
+      "link": "https://techcrunch.com/2025/11/01/ai-researchers-embodied-an-llm-into-a-robot-and-it-started-channeling-robin-williams/",
+      "summary": "AI researchers at Andon Labs embedded various LLMs in a vacuum robot to test how ready they were to be embodied. And hilarity ensued....",
+      "published": "2025-11-01T15:00:00+00:00",
+      "domain": "techcrunch.com",
+      "scores": {
+        "chaos": 9.0,
+        "anarchy": 6.0,
+        "overall": 7.5
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Updated practice for review articles and position papers in ArXiv CS category",
+      "link": "https://blog.arxiv.org/2025/10/31/attention-authors-updated-practice-for-review-articles-and-position-papers-in-arxiv-cs-category/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=45782136\">Comments</a>...",
+      "published": "2025-11-01T14:58:05+00:00",
+      "domain": "blog.arxiv.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "What is Bending Spoons? Everything to know about AOL\u2019s acquirer",
+      "link": "https://techcrunch.com/2025/10/31/what-is-bending-spoons-everything-to-know-about-aols-acquirer/",
+      "summary": "Bending Spoons remains largely unknown, even as its portfolio of products has served more than a billion people....",
+      "published": "2025-11-01T01:11:34+00:00",
+      "domain": "techcrunch.com",
+      "scores": {
+        "chaos": 9.0,
+        "anarchy": 6.0,
+        "overall": 7.5
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Bluesky hits 40 million users, introduces \u2018dislikes\u2019 beta",
+      "link": "https://techcrunch.com/2025/10/31/bluesky-hits-40-million-users-introduces-dislikes-beta/",
+      "summary": "As users \"dislike\" posts, the system will learn what sort of content they want to see less of. This will help to inform more than just how content is ranked in feeds, but also reply rankings....",
+      "published": "2025-10-31T20:14:06+00:00",
+      "domain": "techcrunch.com",
+      "scores": {
+        "chaos": 9.0,
+        "anarchy": 6.0,
+        "overall": 7.5
+      },
+      "keywords": {
+        "chaos": [],
         "anarchy": []
       }
     }
