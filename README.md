@@ -16,15 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Elon Musk wants you to know that Sam Altman got a refund for his Tesla Roadster
-- **Published**: November 01, 2025
-- **Summary**: Elon Musk and Sam Altman are still taking swipes at each other on Musk’s social media platform X.......
-- [Read more](https://techcrunch.com/2025/11/01/elon-musk-wants-you-to-know-that-sam-altman-got-a-refund-for-his-tesla-roadster/)
+### TechCrunch Mobility: Everything said on, and off, the stage at TechCrunch Disrupt 2025
+- **Published**: November 02, 2025
+- **Summary**: Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.......
+- **Keywords**: disrupt
+- [Read more](https://techcrunch.com/2025/11/02/techcrunch-mobility-everything-said-on-and-off-the-stage-at-techcrunch-disrupt-2025/)
 
-### Coinbase CEO Brian Armstrong trolls the prediction markets
-- **Published**: November 01, 2025
-- **Summary**: While Armstrong may have helped some Kalshi and Polymarket users make a little money, he was also illustrating how easily these markets can be manipul...
-- [Read more](https://techcrunch.com/2025/11/01/coinbase-ceo-brian-armstrong-trolls-the-prediction-markets/)
+### Sam Altman says ‘enough’ to questions about OpenAI’s revenue
+- **Published**: November 02, 2025
+- **Summary**: OpenAI CEO Sam Altman recently said that the company is doing “well more” than $13 billion in annual revenue — and he sounded a little testy when pres...
+- [Read more](https://techcrunch.com/2025/11/02/sam-altman-says-enough-to-questions-about-openais-revenue/)
 
 ---
 
