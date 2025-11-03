@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Sequoia’s Roelof Botha warns founders about chasing sky-high valuations as the firm doubles down on its selective approach
-- **Published**: November 02, 2025
-- **Summary**: At Disrupt, Botha had advice for founders who are swimming in terms sheets right now.......
-- **Keywords**: down, disrupt
-- [Read more](https://techcrunch.com/2025/11/02/sequoias-roelof-botha-warns-founders-about-chasing-sky-high-valuations-as-the-firm-doubles-down-on-its-selective-approach/)
-
-### Kevin Rose’s simple test for AI hardware — would you want to punch someone in the face who’s wearing it?
+### Facebook Groups can now go public without exposing members’ private posts
 - **Published**: November 03, 2025
-- **Summary**: "As an investor, you kind of have to not only say, okay, cool tech, sure, but emotionally, how does it make me feel? And how does it make others feel ...
-- [Read more](https://techcrunch.com/2025/11/02/kevin-roses-simple-test-for-ai-hardware-would-you-want-to-punch-someone-in-the-face-whos-wearing-it/)
+- **Summary**: Facebook is making it possible for private Groups to switch to public without compromising members' privacy.......
+- [Read more](https://techcrunch.com/2025/11/03/facebook-groups-can-now-go-public-without-exposing-members-private-posts/)
+
+### Chrome can now autofill your passport, driver’s license, and vehicle registration info
+- **Published**: November 03, 2025
+- **Summary**: Desktop users who have enhanced autofill enabled with see their passport and driver’s license number, vehicle information, like their license plate or...
+- [Read more](https://techcrunch.com/2025/11/03/chrome-can-now-autofill-your-passport-drivers-license-and-vehicle-registration-info/)
 
 ---
 
