@@ -22,11 +22,10 @@
 - **Keywords**: down, disrupt
 - [Read more](https://techcrunch.com/2025/11/02/sequoias-roelof-botha-warns-founders-about-chasing-sky-high-valuations-as-the-firm-doubles-down-on-its-selective-approach/)
 
-### TechCrunch Mobility: Everything said on, and off, the stage at TechCrunch Disrupt 2025
-- **Published**: November 02, 2025
-- **Summary**: Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.......
-- **Keywords**: disrupt
-- [Read more](https://techcrunch.com/2025/11/02/techcrunch-mobility-everything-said-on-and-off-the-stage-at-techcrunch-disrupt-2025/)
+### Kevin Rose’s simple test for AI hardware — would you want to punch someone in the face who’s wearing it?
+- **Published**: November 03, 2025
+- **Summary**: "As an investor, you kind of have to not only say, okay, cool tech, sure, but emotionally, how does it make me feel? And how does it make others feel ...
+- [Read more](https://techcrunch.com/2025/11/02/kevin-roses-simple-test-for-ai-hardware-would-you-want-to-punch-someone-in-the-face-whos-wearing-it/)
 
 ---
 
