@@ -16,15 +16,16 @@
 
 ## 🚨 Tech Stories
 
+### iOS 26.1 lets you turn down liquid glass’ transparency
+- **Published**: November 04, 2025
+- **Summary**: Apple's latest iOS update doesn't introduce major features, but it does bring one highly-requested tweak: the ability to change the transparency of th...
+- **Keywords**: down
+- [Read more](https://techcrunch.com/2025/11/04/ios-26-1-lets-you-turn-down-liquid-glass-transparency/)
+
 ### Wait, people actually use Facebook Dating?
 - **Published**: November 04, 2025
 - **Summary**: Meta said that Facebook Dating has 1.77 million daily active users in the US between ages 18-29.......
 - [Read more](https://techcrunch.com/2025/11/03/wait-people-actually-use-facebook-dating/)
-
-### a16z pauses its famed TxO Fund for underserved founders, lays off staff
-- **Published**: November 04, 2025
-- **Summary**: Andreessen Horowitz is pausing its Talent x Opportunity (TxO) fund and program, according to multiple sources.......
-- [Read more](https://techcrunch.com/2025/11/03/a16z-pauses-its-famed-txo-fund-for-underserved-founders-lays-off-staff/)
 
 ---
 
