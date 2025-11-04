@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
+### Wait, people actually use Facebook Dating?
+- **Published**: November 04, 2025
+- **Summary**: Meta said that Facebook Dating has 1.77 million daily active users in the US between ages 18-29.......
+- [Read more](https://techcrunch.com/2025/11/03/wait-people-actually-use-facebook-dating/)
+
 ### a16z pauses its famed TxO Fund for underserved founders, lays off staff
 - **Published**: November 04, 2025
 - **Summary**: Andreessen Horowitz is pausing its Talent x Opportunity (TxO) fund and program, according to multiple sources.......
 - [Read more](https://techcrunch.com/2025/11/03/a16z-pauses-its-famed-txo-fund-for-underserved-founders-lays-off-staff/)
-
-### Elad Gil on which AI markets have winners — and which are still wide open
-- **Published**: November 03, 2025
-- **Summary**: Over the last year, certain AI markets appear to be nearly sewn up by startup market leaders.......
-- [Read more](https://techcrunch.com/2025/11/03/elad-gil-on-which-ai-markets-have-winners-and-which-are-still-wide-open/)
 
 ---
 
