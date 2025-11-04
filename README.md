@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### iOS 26.1 lets you turn down liquid glass’ transparency
+### Norway’s wealth fund vote is latest blow to Musk’s $1 trillion pay package
 - **Published**: November 04, 2025
-- **Summary**: Apple's latest iOS update doesn't introduce major features, but it does bring one highly-requested tweak: the ability to change the transparency of th...
-- **Keywords**: down
-- [Read more](https://techcrunch.com/2025/11/04/ios-26-1-lets-you-turn-down-liquid-glass-transparency/)
+- **Summary**: Elon Musk is pushing for a $1 trillion performance pay package. Another major shareholder has said no.......
+- [Read more](https://techcrunch.com/2025/11/04/norways-wealth-fund-vote-is-latest-blow-to-musks-1-trillion-pay-package/)
 
-### Wait, people actually use Facebook Dating?
+### Shopify says AI traffic is up 7x since January, AI-driven orders are up 11x
 - **Published**: November 04, 2025
-- **Summary**: Meta said that Facebook Dating has 1.77 million daily active users in the US between ages 18-29.......
-- [Read more](https://techcrunch.com/2025/11/03/wait-people-actually-use-facebook-dating/)
+- **Summary**: Shopify says AI-driven traffic to its online stores is up 7x since January, and orders from AI search are up 11x.......
+- [Read more](https://techcrunch.com/2025/11/04/shopify-says-ai-traffic-is-up-7x-since-january-ai-driven-orders-are-up-11x/)
 
 ---
 
