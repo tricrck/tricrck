@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Facebook Groups can now go public without exposing members’ private posts
-- **Published**: November 03, 2025
-- **Summary**: Facebook is making it possible for private Groups to switch to public without compromising members' privacy.......
-- [Read more](https://techcrunch.com/2025/11/03/facebook-groups-can-now-go-public-without-exposing-members-private-posts/)
+### a16z pauses its famed TxO Fund for underserved founders, lays off staff
+- **Published**: November 04, 2025
+- **Summary**: Andreessen Horowitz is pausing its Talent x Opportunity (TxO) fund and program, according to multiple sources.......
+- [Read more](https://techcrunch.com/2025/11/03/a16z-pauses-its-famed-txo-fund-for-underserved-founders-lays-off-staff/)
 
-### Chrome can now autofill your passport, driver’s license, and vehicle registration info
+### Elad Gil on which AI markets have winners — and which are still wide open
 - **Published**: November 03, 2025
-- **Summary**: Desktop users who have enhanced autofill enabled with see their passport and driver’s license number, vehicle information, like their license plate or...
-- [Read more](https://techcrunch.com/2025/11/03/chrome-can-now-autofill-your-passport-drivers-license-and-vehicle-registration-info/)
+- **Summary**: Over the last year, certain AI markets appear to be nearly sewn up by startup market leaders.......
+- [Read more](https://techcrunch.com/2025/11/03/elad-gil-on-which-ai-markets-have-winners-and-which-are-still-wide-open/)
 
 ---
 
