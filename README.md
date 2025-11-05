@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Norway’s wealth fund vote is latest blow to Musk’s $1 trillion pay package
-- **Published**: November 04, 2025
-- **Summary**: Elon Musk is pushing for a $1 trillion performance pay package. Another major shareholder has said no.......
-- [Read more](https://techcrunch.com/2025/11/04/norways-wealth-fund-vote-is-latest-blow-to-musks-1-trillion-pay-package/)
+### Trump flips and re-nominates Jared Isaacman to lead NASA
+- **Published**: November 05, 2025
+- **Summary**: The reversal comes after weeks of pressure from people like Elon Musk, who accused Transportation Secretary Sean Duffy of being ill-equipped for the j...
+- [Read more](https://techcrunch.com/2025/11/04/trump-flips-and-re-nominates-jared-isaacman-to-lead-nasa/)
 
-### Shopify says AI traffic is up 7x since January, AI-driven orders are up 11x
+### Amazon sends legal threats to Perplexity over agentic browsing
 - **Published**: November 04, 2025
-- **Summary**: Shopify says AI-driven traffic to its online stores is up 7x since January, and orders from AI search are up 11x.......
-- [Read more](https://techcrunch.com/2025/11/04/shopify-says-ai-traffic-is-up-7x-since-january-ai-driven-orders-are-up-11x/)
+- **Summary**: Amazon won't allow agents on its site that don't identify themselves as such. Perplexity is not pleased.......
+- [Read more](https://techcrunch.com/2025/11/04/amazon-sends-legal-threats-to-perplexity-over-agentic-browsing/)
 
 ---
 
