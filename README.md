@@ -16,15 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Trump flips and re-nominates Jared Isaacman to lead NASA
+### Goldman Sachs doubles down on MoEngage in new round to fuel global expansion
 - **Published**: November 05, 2025
-- **Summary**: The reversal comes after weeks of pressure from people like Elon Musk, who accused Transportation Secretary Sean Duffy of being ill-equipped for the j...
-- [Read more](https://techcrunch.com/2025/11/04/trump-flips-and-re-nominates-jared-isaacman-to-lead-nasa/)
+- **Summary**: MoEngage already has customers across 75 countries, with North America being its biggest business driver.......
+- **Keywords**: down
+- [Read more](https://techcrunch.com/2025/11/04/goldman-sachs-doubles-down-on-moengage-in-100m-round-to-fuel-global-expansion/)
 
-### Amazon sends legal threats to Perplexity over agentic browsing
-- **Published**: November 04, 2025
-- **Summary**: Amazon won't allow agents on its site that don't identify themselves as such. Perplexity is not pleased.......
-- [Read more](https://techcrunch.com/2025/11/04/amazon-sends-legal-threats-to-perplexity-over-agentic-browsing/)
+### NVIDIA, Qualcomm join U.S., Indian VCs to help build India’s next deep tech startups
+- **Published**: November 05, 2025
+- **Summary**: Qualcomm Ventures has joined six Indian venture firms, collectively adding more than $850 million to boost India’s deep-tech ecosystem.......
+- [Read more](https://techcrunch.com/2025/11/04/nvidia-qualcomm-join-u-s-indian-vcs-to-help-build-indias-next-deep-tech-startups/)
 
 ---
 
