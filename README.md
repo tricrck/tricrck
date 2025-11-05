@@ -16,15 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Hypothesis: Property-Based Testing for Python
-- **Published**: November 05, 2025
+### Learning from failure to tackle hard problems
+- **Published**: October 30, 2025
 - **Summary**: ......
-- [Read more](https://hypothesis.readthedocs.io/en/latest/)
+- **Keywords**: failure
+- [Read more](https://blog.ml.cmu.edu/2025/10/27/learning-from-failure-to-tackle-extremely-hard-problems/)
 
-### Mr TIFF
-- **Published**: November 04, 2025
-- **Summary**: ......
-- [Read more](https://inventingthefuture.ghost.io/mr-tiff/)
+### Tinder to use AI to get to know users, tap into their Camera Roll photos
+- **Published**: November 05, 2025
+- **Summary**: Tinder is testing an AI feature that learns about you from your Camera Roll photos.......
+- [Read more](https://techcrunch.com/2025/11/05/tinder-to-use-ai-to-get-to-know-users-tap-into-their-camera-roll-photos/)
 
 ---
 
