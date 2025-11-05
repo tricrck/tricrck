@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Goldman Sachs doubles down on MoEngage in new round to fuel global expansion
+### Hypothesis: Property-Based Testing for Python
 - **Published**: November 05, 2025
-- **Summary**: MoEngage already has customers across 75 countries, with North America being its biggest business driver.......
-- **Keywords**: down
-- [Read more](https://techcrunch.com/2025/11/04/goldman-sachs-doubles-down-on-moengage-in-100m-round-to-fuel-global-expansion/)
+- **Summary**: ......
+- [Read more](https://hypothesis.readthedocs.io/en/latest/)
 
-### NVIDIA, Qualcomm join U.S., Indian VCs to help build India’s next deep tech startups
-- **Published**: November 05, 2025
-- **Summary**: Qualcomm Ventures has joined six Indian venture firms, collectively adding more than $850 million to boost India’s deep-tech ecosystem.......
-- [Read more](https://techcrunch.com/2025/11/04/nvidia-qualcomm-join-u-s-indian-vcs-to-help-build-indias-next-deep-tech-startups/)
+### Mr TIFF
+- **Published**: November 04, 2025
+- **Summary**: ......
+- [Read more](https://inventingthefuture.ghost.io/mr-tiff/)
 
 ---
 
