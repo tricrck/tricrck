@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Anker-backed hybrid RV startup Evotrex comes out of stealth
+### Meta brings its short-form video feed of AI slop to Europe
 - **Published**: November 06, 2025
-- **Summary**: Evotrex joins startups like Lightship, Pebble, and Grounded in trying to disrupt the RV market, which is skewing younger.......
-- **Keywords**: disrupt
-- [Read more](https://techcrunch.com/2025/11/06/anker-backed-hybrid-rv-startup-evotrex-comes-out-of-stealth/)
+- **Summary**: Meta says that since the launch of Vibes, media generation in the Meta AI app has jumped more than tenfold.......
+- [Read more](https://techcrunch.com/2025/11/06/meta-brings-its-short-form-video-feed-of-ai-slop-to-europe/)
 
-### Google Maps upgrades navigation in India with Gemini, safety alerts
+### Subtle Computing’s voice isolation models help computers understand you in noisy environments
 - **Published**: November 06, 2025
-- **Summary**: India becomes the second market after the U.S. to get Gemini-powered navigation on Google Maps.......
-- [Read more](https://techcrunch.com/2025/11/06/google-maps-upgrades-navigation-in-india-with-gemini-safety-alerts/)
+- **Summary**: Subtle Computing has raised $6M in seed funding to build voice isolation models. The startup plans to announce a hardware device next year.......
+- [Read more](https://techcrunch.com/2025/11/06/subtle-computings-voice-isolation-models-help-computers-understand-you-in-noisy-environments/)
 
 ---
 
