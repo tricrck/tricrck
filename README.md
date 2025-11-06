@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Learning from failure to tackle hard problems
-- **Published**: October 30, 2025
-- **Summary**: ......
-- **Keywords**: failure
-- [Read more](https://blog.ml.cmu.edu/2025/10/27/learning-from-failure-to-tackle-extremely-hard-problems/)
-
-### Tinder to use AI to get to know users, tap into their Camera Roll photos
+### Blue Origin plans second launch of New Glenn mega-rocket on November 9
 - **Published**: November 05, 2025
-- **Summary**: Tinder is testing an AI feature that learns about you from your Camera Roll photos.......
-- [Read more](https://techcrunch.com/2025/11/05/tinder-to-use-ai-to-get-to-know-users-tap-into-their-camera-roll-photos/)
+- **Summary**: Blue Origin's first New Glenn launch in January mostly went well, and now the long-delayed second mission is finally ready for takeoff.......
+- [Read more](https://techcrunch.com/2025/11/05/blue-origin-plans-second-launch-of-new-glenn-mega-rocket-on-november-9/)
+
+### Cluely’s Roy Lee hints that viral hype is not enough
+- **Published**: November 05, 2025
+- **Summary**: Lee declined to share Cluely's financial metrics just four months after boasting how quickly the startup is growing.......
+- [Read more](https://techcrunch.com/2025/11/05/cluelys-roy-lee-hints-that-viral-hype-is-not-enough/)
 
 ---
 
