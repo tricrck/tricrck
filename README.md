@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
+### Discord’s Family Center update now lets parents monitor weekly purchases
+- **Published**: November 06, 2025
+- **Summary**: Discord has rolled out updates to its Family Center, giving guardians more insights into their teens&#8217; usage patterns, including purchases, top i...
+- [Read more](https://techcrunch.com/2025/11/05/discords-family-center-update-now-lets-parents-monitor-weekly-purchases/)
+
 ### Blue Origin plans second launch of New Glenn mega-rocket on November 9
 - **Published**: November 05, 2025
 - **Summary**: Blue Origin's first New Glenn launch in January mostly went well, and now the long-delayed second mission is finally ready for takeoff.......
 - [Read more](https://techcrunch.com/2025/11/05/blue-origin-plans-second-launch-of-new-glenn-mega-rocket-on-november-9/)
-
-### Cluely’s Roy Lee hints that viral hype is not enough
-- **Published**: November 05, 2025
-- **Summary**: Lee declined to share Cluely's financial metrics just four months after boasting how quickly the startup is growing.......
-- [Read more](https://techcrunch.com/2025/11/05/cluelys-roy-lee-hints-that-viral-hype-is-not-enough/)
 
 ---
 
