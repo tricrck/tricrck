@@ -16,15 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Discord’s Family Center update now lets parents monitor weekly purchases
+### Anker-backed hybrid RV startup Evotrex comes out of stealth
 - **Published**: November 06, 2025
-- **Summary**: Discord has rolled out updates to its Family Center, giving guardians more insights into their teens&#8217; usage patterns, including purchases, top i...
-- [Read more](https://techcrunch.com/2025/11/05/discords-family-center-update-now-lets-parents-monitor-weekly-purchases/)
+- **Summary**: Evotrex joins startups like Lightship, Pebble, and Grounded in trying to disrupt the RV market, which is skewing younger.......
+- **Keywords**: disrupt
+- [Read more](https://techcrunch.com/2025/11/06/anker-backed-hybrid-rv-startup-evotrex-comes-out-of-stealth/)
 
-### Blue Origin plans second launch of New Glenn mega-rocket on November 9
-- **Published**: November 05, 2025
-- **Summary**: Blue Origin's first New Glenn launch in January mostly went well, and now the long-delayed second mission is finally ready for takeoff.......
-- [Read more](https://techcrunch.com/2025/11/05/blue-origin-plans-second-launch-of-new-glenn-mega-rocket-on-november-9/)
+### Google Maps upgrades navigation in India with Gemini, safety alerts
+- **Published**: November 06, 2025
+- **Summary**: India becomes the second market after the U.S. to get Gemini-powered navigation on Google Maps.......
+- [Read more](https://techcrunch.com/2025/11/06/google-maps-upgrades-navigation-in-india-with-gemini-safety-alerts/)
 
 ---
 
