@@ -22,10 +22,10 @@
 - **Keywords**: down
 - [Read more](https://techcrunch.com/2025/11/06/chris-saccas-vc-firm-is-raising-a-second-nuclear-fusion-fund/)
 
-### Tesla delays reveal of production Roadster 2 to April Fools’ Day
-- **Published**: November 06, 2025
-- **Summary**: Musk said he picked the date so he "could say I was just kidding" if it changes again. He had spent months teasing a reveal by the end of this year......
-- [Read more](https://techcrunch.com/2025/11/06/tesla-delays-reveal-of-production-roadster-2-to-april-fools-day/)
+### ‘Landfall’ spyware abused zero-day to hack Samsung Galaxy phones
+- **Published**: November 07, 2025
+- **Summary**: A newly identified Android spyware targeted Galaxy devices for close to a year, including users in the Middle East, researchers exclusively tell TechC...
+- [Read more](https://techcrunch.com/2025/11/07/landfall-spyware-abused-zero-day-to-hack-samsung-galaxy-phones/)
 
 ---
 
