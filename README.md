@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Chris Sacca’s VC firm is raising a second nuclear fusion fund
-- **Published**: November 06, 2025
-- **Summary**: With fusion advances showing real promise, Lowercarbon Capital plans to double down.......
-- **Keywords**: down
-- [Read more](https://techcrunch.com/2025/11/06/chris-saccas-vc-firm-is-raising-a-second-nuclear-fusion-fund/)
-
-### ‘Landfall’ spyware abused zero-day to hack Samsung Galaxy phones
+### TechCrunch Disrupt 2025 Startup Battlefield 200: Celebrating outstanding achievements
 - **Published**: November 07, 2025
-- **Summary**: A newly identified Android spyware targeted Galaxy devices for close to a year, including users in the Middle East, researchers exclusively tell TechC...
-- [Read more](https://techcrunch.com/2025/11/07/landfall-spyware-abused-zero-day-to-hack-samsung-galaxy-phones/)
+- **Summary**: Among the Startup Battlefield 200 at TechCrunch Disrupt 2025 were many industry-defining companies exhibiting and pitching on the Showcase Stage.......
+- **Keywords**: disrupt, disrupt
+- [Read more](https://techcrunch.com/2025/11/07/techcrunch-disrupt-2025s-startup-battlefield-200-celebrating-outstanding-achievements/)
+
+### Kim Kardashian says ChatGPT is her ‘frenemy’
+- **Published**: November 07, 2025
+- **Summary**: Kim Kardashian admitted that she has failed legal exams after blindly relying on ChatGPT's advice.......
+- [Read more](https://techcrunch.com/2025/11/07/kim-kardashian-says-chatgpt-is-her-frenemy/)
 
 ---
 
