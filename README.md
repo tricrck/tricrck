@@ -16,15 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Meta brings its short-form video feed of AI slop to Europe
+### Chris Sacca’s VC firm is raising a second nuclear fusion fund
 - **Published**: November 06, 2025
-- **Summary**: Meta says that since the launch of Vibes, media generation in the Meta AI app has jumped more than tenfold.......
-- [Read more](https://techcrunch.com/2025/11/06/meta-brings-its-short-form-video-feed-of-ai-slop-to-europe/)
+- **Summary**: With fusion advances showing real promise, Lowercarbon Capital plans to double down.......
+- **Keywords**: down
+- [Read more](https://techcrunch.com/2025/11/06/chris-saccas-vc-firm-is-raising-a-second-nuclear-fusion-fund/)
 
-### Subtle Computing’s voice isolation models help computers understand you in noisy environments
+### Tesla delays reveal of production Roadster 2 to April Fools’ Day
 - **Published**: November 06, 2025
-- **Summary**: Subtle Computing has raised $6M in seed funding to build voice isolation models. The startup plans to announce a hardware device next year.......
-- [Read more](https://techcrunch.com/2025/11/06/subtle-computings-voice-isolation-models-help-computers-understand-you-in-noisy-environments/)
+- **Summary**: Musk said he picked the date so he "could say I was just kidding" if it changes again. He had spent months teasing a reveal by the end of this year......
+- [Read more](https://techcrunch.com/2025/11/06/tesla-delays-reveal-of-production-roadster-2-to-april-fools-day/)
 
 ---
 
