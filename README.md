@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Rivian gives RJ Scaringe a new pay package worth up to $5B
-- **Published**: November 07, 2025
-- **Summary**: The company canceled a similar-sized award from 2021, when EV optimism was sky-high, due to the "unlikeliness" that the associated goals could be met....
-- [Read more](https://techcrunch.com/2025/11/07/rivian-gives-rj-scaringe-a-new-pay-package-worth-up-to-5b/)
+### OpenAI asked Trump administration to expand Chips Act tax credit to cover data centers
+- **Published**: November 08, 2025
+- **Summary**: A recent letter from OpenAI reveals more details about how the company is hoping the federal government can support the company's ambitious plans for ...
+- [Read more](https://techcrunch.com/2025/11/08/openai-asked-trump-administration-to-expand-chips-act-tax-credit-to-cover-data-centers/)
 
-### Seven more families are now suing OpenAI over ChatGPT’s role in suicides, delusions
-- **Published**: November 07, 2025
-- **Summary**: In one case, 23-year-old Zane Shamblin had a conversation with ChatGPT that lasted more than four hours.......
-- [Read more](https://techcrunch.com/2025/11/07/seven-more-families-are-now-suing-openai-over-chatgpts-role-in-suicides-delusions/)
+### How startups can lure good talent fairly without big tech bank accounts
+- **Published**: November 08, 2025
+- **Summary**: Three industry insiders walk through how startups can set up an employee equity strategy that remains fair as a company grows.......
+- [Read more](https://techcrunch.com/2025/11/08/how-startups-can-lure-good-talent-fairly-without-big-tech-bank-accounts/)
 
 ---
 
