@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### TechCrunch Disrupt 2025 Startup Battlefield 200: Celebrating outstanding achievements
+### Rivian gives RJ Scaringe a new pay package worth up to $5B
 - **Published**: November 07, 2025
-- **Summary**: Among the Startup Battlefield 200 at TechCrunch Disrupt 2025 were many industry-defining companies exhibiting and pitching on the Showcase Stage.......
-- **Keywords**: disrupt, disrupt
-- [Read more](https://techcrunch.com/2025/11/07/techcrunch-disrupt-2025s-startup-battlefield-200-celebrating-outstanding-achievements/)
+- **Summary**: The company canceled a similar-sized award from 2021, when EV optimism was sky-high, due to the "unlikeliness" that the associated goals could be met....
+- [Read more](https://techcrunch.com/2025/11/07/rivian-gives-rj-scaringe-a-new-pay-package-worth-up-to-5b/)
 
-### Kim Kardashian says ChatGPT is her ‘frenemy’
+### Seven more families are now suing OpenAI over ChatGPT’s role in suicides, delusions
 - **Published**: November 07, 2025
-- **Summary**: Kim Kardashian admitted that she has failed legal exams after blindly relying on ChatGPT's advice.......
-- [Read more](https://techcrunch.com/2025/11/07/kim-kardashian-says-chatgpt-is-her-frenemy/)
+- **Summary**: In one case, 23-year-old Zane Shamblin had a conversation with ChatGPT that lasted more than four hours.......
+- [Read more](https://techcrunch.com/2025/11/07/seven-more-families-are-now-suing-openai-over-chatgpts-role-in-suicides-delusions/)
 
 ---
 
