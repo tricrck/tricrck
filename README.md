@@ -16,15 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Is Wall Street losing faith in AI?
-- **Published**: November 08, 2025
-- **Summary**: A rough week for tech stocks might signal a loss of investor confidence in artificial intelligence.......
-- [Read more](https://techcrunch.com/2025/11/08/is-wall-street-losing-faith-in-ai/)
+### Apple reportedly plans ambitious satellite-powered iPhone features
+- **Published**: November 09, 2025
+- **Summary**: While Apple’s iPhone already supports texting, calling emergency services, and contacting roadside assistance via satellite connectivity, the company ...
+- **Keywords**: emergency
+- [Read more](https://techcrunch.com/2025/11/09/apple-reportedly-plans-ambitious-satellite-powered-iphone-features/)
 
-### ‘Breaking Bad’ creator’s new show ‘Pluribus’ was emphatically ‘made by humans,’ not AI
-- **Published**: November 08, 2025
-- **Summary**: If you watched all the way to the end of the new Apple TV show “Pluribus,” you may have noticed an unusual disclaimer in the credits: “This show was m...
-- [Read more](https://techcrunch.com/2025/11/08/breaking-bad-creators-new-show-pluribus-was-emphatically-made-by-humans-not-ai/)
+### TechCrunch Mobility: Elon Musk’s threats worked
+- **Published**: November 09, 2025
+- **Summary**: Welcome back to TechCrunch Mobility, your hub for all things “future of transportation.”......
+- [Read more](https://techcrunch.com/2025/11/09/techcrunch-mobility-elon-musks-threats-worked/)
 
 ---
 
