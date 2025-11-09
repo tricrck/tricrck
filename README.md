@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### OpenAI asked Trump administration to expand Chips Act tax credit to cover data centers
+### Is Wall Street losing faith in AI?
 - **Published**: November 08, 2025
-- **Summary**: A recent letter from OpenAI reveals more details about how the company is hoping the federal government can support the company's ambitious plans for ...
-- [Read more](https://techcrunch.com/2025/11/08/openai-asked-trump-administration-to-expand-chips-act-tax-credit-to-cover-data-centers/)
+- **Summary**: A rough week for tech stocks might signal a loss of investor confidence in artificial intelligence.......
+- [Read more](https://techcrunch.com/2025/11/08/is-wall-street-losing-faith-in-ai/)
 
-### How startups can lure good talent fairly without big tech bank accounts
+### ‘Breaking Bad’ creator’s new show ‘Pluribus’ was emphatically ‘made by humans,’ not AI
 - **Published**: November 08, 2025
-- **Summary**: Three industry insiders walk through how startups can set up an employee equity strategy that remains fair as a company grows.......
-- [Read more](https://techcrunch.com/2025/11/08/how-startups-can-lure-good-talent-fairly-without-big-tech-bank-accounts/)
+- **Summary**: If you watched all the way to the end of the new Apple TV show “Pluribus,” you may have noticed an unusual disclaimer in the credits: “This show was m...
+- [Read more](https://techcrunch.com/2025/11/08/breaking-bad-creators-new-show-pluribus-was-emphatically-made-by-humans-not-ai/)
 
 ---
 
