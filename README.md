@@ -22,10 +22,10 @@
 - **Keywords**: emergency
 - [Read more](https://techcrunch.com/2025/11/09/apple-reportedly-plans-ambitious-satellite-powered-iphone-features/)
 
-### TechCrunch Mobility: Elon Musk’s threats worked
-- **Published**: November 09, 2025
-- **Summary**: Welcome back to TechCrunch Mobility, your hub for all things “future of transportation.”......
-- [Read more](https://techcrunch.com/2025/11/09/techcrunch-mobility-elon-musks-threats-worked/)
+### Blue Origin scrubs second New Glenn launch, will try again November 12
+- **Published**: November 10, 2025
+- **Summary**: It's an important launch for Jeff Bezos' space company, which is trying to prove its rockets can be re-used while delivering its first commercial payl...
+- [Read more](https://techcrunch.com/2025/11/09/blue-origin-scrubs-second-new-glenn-launch-will-try-again-november-12/)
 
 ---
 
