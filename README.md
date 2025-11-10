@@ -22,10 +22,11 @@
 - **Keywords**: emergency
 - [Read more](https://techcrunch.com/2025/11/09/apple-reportedly-plans-ambitious-satellite-powered-iphone-features/)
 
-### Blue Origin scrubs second New Glenn launch, will try again November 12
-- **Published**: November 10, 2025
-- **Summary**: It's an important launch for Jeff Bezos' space company, which is trying to prove its rockets can be re-used while delivering its first commercial payl...
-- [Read more](https://techcrunch.com/2025/11/09/blue-origin-scrubs-second-new-glenn-launch-will-try-again-november-12/)
+### Drilling down on Uncle Sam's proposed TP-Link ban
+- **Published**: November 09, 2025
+- **Summary**: ......
+- **Keywords**: down
+- [Read more](https://krebsonsecurity.com/2025/11/drilling-down-on-uncle-sams-proposed-tp-link-ban/)
 
 ---
 
