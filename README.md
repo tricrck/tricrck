@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Lenskart recovers from tepid open to close first day slightly above IPO price
+### Consolidation begins to hit the carbon credit market
 - **Published**: November 10, 2025
-- **Summary**: Lenskart's public listing stirred debate over the nearly $8 billion valuation set in its IPO.......
-- [Read more](https://techcrunch.com/2025/11/10/lenskart-recovers-from-tepid-open-to-close-first-day-slightly-above-ipo-price/)
+- **Summary**: Carbon Direct is buying Pachama as the voluntary carbon markets enter a period of uncertainty.......
+- [Read more](https://techcrunch.com/2025/11/10/consolidation-begins-to-hit-the-carbon-credit-market/)
 
-### Blue Origin scrubs second New Glenn launch, will try again November 12
+### YouTubers aren’t relying on ad revenue anymore — here’s how some are diversifying
 - **Published**: November 10, 2025
-- **Summary**: It's an important launch for Jeff Bezos' space company, which is trying to prove its rockets can be re-used while delivering its first commercial payl...
-- [Read more](https://techcrunch.com/2025/11/09/blue-origin-scrubs-second-new-glenn-launch-will-try-again-november-12/)
+- **Summary**: YouTubers are no longer just creators, and in some cases, their side businesses are growing faster than their channels.......
+- [Read more](https://techcrunch.com/2025/11/10/youtubers-arent-relying-on-ad-revenue-anymore-heres-how-some-are-diversifying/)
 
 ---
 
