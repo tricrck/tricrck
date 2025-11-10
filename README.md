@@ -16,17 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Apple reportedly plans ambitious satellite-powered iPhone features
-- **Published**: November 09, 2025
-- **Summary**: While Apple’s iPhone already supports texting, calling emergency services, and contacting roadside assistance via satellite connectivity, the company ...
-- **Keywords**: emergency
-- [Read more](https://techcrunch.com/2025/11/09/apple-reportedly-plans-ambitious-satellite-powered-iphone-features/)
+### Lenskart recovers from tepid open to close first day slightly above IPO price
+- **Published**: November 10, 2025
+- **Summary**: Lenskart's public listing stirred debate over the nearly $8 billion valuation set in its IPO.......
+- [Read more](https://techcrunch.com/2025/11/10/lenskart-recovers-from-tepid-open-to-close-first-day-slightly-above-ipo-price/)
 
-### Drilling down on Uncle Sam's proposed TP-Link ban
-- **Published**: November 09, 2025
-- **Summary**: ......
-- **Keywords**: down
-- [Read more](https://krebsonsecurity.com/2025/11/drilling-down-on-uncle-sams-proposed-tp-link-ban/)
+### Blue Origin scrubs second New Glenn launch, will try again November 12
+- **Published**: November 10, 2025
+- **Summary**: It's an important launch for Jeff Bezos' space company, which is trying to prove its rockets can be re-used while delivering its first commercial payl...
+- [Read more](https://techcrunch.com/2025/11/09/blue-origin-scrubs-second-new-glenn-launch-will-try-again-november-12/)
 
 ---
 
