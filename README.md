@@ -16,15 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Consolidation begins to hit the carbon credit market
+### VC Jennifer Neundorfer explains how founders can stand out in a crowded AI market
 - **Published**: November 10, 2025
-- **Summary**: Carbon Direct is buying Pachama as the voluntary carbon markets enter a period of uncertainty.......
-- [Read more](https://techcrunch.com/2025/11/10/consolidation-begins-to-hit-the-carbon-credit-market/)
+- **Summary**: January Ventures co-founder Jennifer Neundorfer discussed this AI-driven funding market on the Equity podcast during TechCrunch Disrupt.......
+- **Keywords**: disrupt
+- [Read more](https://techcrunch.com/2025/11/10/vc-jennifer-neundorfer-explains-how-founders-can-stand-out-in-a-crowded-ai-market/)
 
-### YouTubers aren’t relying on ad revenue anymore — here’s how some are diversifying
+### Lovable says it’s nearing 8 million users as the year-old AI coding startup eyes more corporate employees
 - **Published**: November 10, 2025
-- **Summary**: YouTubers are no longer just creators, and in some cases, their side businesses are growing faster than their channels.......
-- [Read more](https://techcrunch.com/2025/11/10/youtubers-arent-relying-on-ad-revenue-anymore-heres-how-some-are-diversifying/)
+- **Summary**: The platform has attracted an eclectic user base. More than half of Fortune 500 companies are using Lovable to "supercharge creativity," according to ...
+- [Read more](https://techcrunch.com/2025/11/10/lovable-says-its-nearing-8-million-users-as-the-year-old-ai-coding-startup-eyes-more-corporate-employees/)
 
 ---
 
