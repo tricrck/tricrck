@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### VC Jennifer Neundorfer explains how founders can stand out in a crowded AI market
-- **Published**: November 10, 2025
-- **Summary**: January Ventures co-founder Jennifer Neundorfer discussed this AI-driven funding market on the Equity podcast during TechCrunch Disrupt.......
-- **Keywords**: disrupt
-- [Read more](https://techcrunch.com/2025/11/10/vc-jennifer-neundorfer-explains-how-founders-can-stand-out-in-a-crowded-ai-market/)
+### Threads targets podcasters with new features, aiming to become the home for show discussions
+- **Published**: November 11, 2025
+- **Summary**: Threads is targeting podcasters with new features, including dedicated links in the bio and more visible links in the feed.......
+- [Read more](https://techcrunch.com/2025/11/11/threads-targets-podcasters-with-new-features-aiming-to-become-the-place-fans-discuss-shows/)
 
-### Lovable says it’s nearing 8 million users as the year-old AI coding startup eyes more corporate employees
-- **Published**: November 10, 2025
-- **Summary**: The platform has attracted an eclectic user base. More than half of Fortune 500 companies are using Lovable to "supercharge creativity," according to ...
-- [Read more](https://techcrunch.com/2025/11/10/lovable-says-its-nearing-8-million-users-as-the-year-old-ai-coding-startup-eyes-more-corporate-employees/)
+### Immortality startup Eternos pivots to a personal AI that sounds like you
+- **Published**: November 11, 2025
+- **Summary**: Uare.ai raised $10.3 million in seed funding led by Mayfield and Boldstart Ventures.......
+- [Read more](https://techcrunch.com/2025/11/11/immortality-startup-eternos-pivots-to-a-personal-ai-that-sounds-like-you/)
 
 ---
 
