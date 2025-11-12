@@ -16,15 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Groww raises nearly $750M in IPO as India’s retail investing boom continues
+### Radio streamer TuneIn acquired for $175M
 - **Published**: November 12, 2025
-- **Summary**: The company's shares opened 12% above their issue price, at ₹112, and closed at ₹128.85, lending it a market cap of ₹795 billion (approximately $9 bil...
-- [Read more](https://techcrunch.com/2025/11/12/groww-raises-nearly-750m-in-ipo-as-indias-retail-investing-boom-continues/)
+- **Summary**: Radio streamer TuneIn sold for $175M, down from its earlier valuation of $500M.......
+- **Keywords**: down
+- [Read more](https://techcrunch.com/2025/11/12/radio-streamer-tunein-acquired-for-175m/)
 
-### Teradar raises $150M for a sensor it says beats lidar and radar
+### YouTube TV’s Disney blackout is ruining my life (I can’t watch ‘Jeopardy!’)
 - **Published**: November 12, 2025
-- **Summary**: Teradar's sensor uses the terahertz part of the electromagnetic spectrum, and combines the best traits of radar and lidar sensors without some of the ...
-- [Read more](https://techcrunch.com/2025/11/12/teradar-exits-stealth-with-an-all-weather-sensor-for-autonomy-and-150m-in-funding/)
+- **Summary**: For 12 days and counting, Disney-owned channels like ESPN and ABC have been blacked out on YouTube TV.......
+- [Read more](https://techcrunch.com/2025/11/12/youtube-tvs-disney-blackout-is-ruining-my-life-i-cant-watch-jeopardy/)
 
 ---
 
