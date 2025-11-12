@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Threads targets podcasters with new features, aiming to become the home for show discussions
+### SoftBank’s Nvidia sale rattles market, raises questions
 - **Published**: November 11, 2025
-- **Summary**: Threads is targeting podcasters with new features, including dedicated links in the bio and more visible links in the feed.......
-- [Read more](https://techcrunch.com/2025/11/11/threads-targets-podcasters-with-new-features-aiming-to-become-the-place-fans-discuss-shows/)
+- **Summary**: Wall Street can’t help but wonder: does Son see something right now that others do not?......
+- [Read more](https://techcrunch.com/2025/11/11/softbanks-nvidia-sale-rattles-market-raises-questions/)
 
-### Immortality startup Eternos pivots to a personal AI that sounds like you
+### Google Pixel update adds battery-saving maps mode, AI photo remixing, and smarter notifications
 - **Published**: November 11, 2025
-- **Summary**: Uare.ai raised $10.3 million in seed funding led by Mayfield and Boldstart Ventures.......
-- [Read more](https://techcrunch.com/2025/11/11/immortality-startup-eternos-pivots-to-a-personal-ai-that-sounds-like-you/)
+- **Summary**: Google says the new power saving mode for Google Maps can save you up to four hours of battery life......
+- [Read more](https://techcrunch.com/2025/11/11/google-pixel-update-adds-battery-saving-maps-mode-ai-photo-remixing-and-smarter-notifications/)
 
 ---
 
