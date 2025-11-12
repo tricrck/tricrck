@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Red Bull Racing’s secret weapon? An engineer who treats workflows like lap times
+### Groww raises nearly $750M in IPO as India’s retail investing boom continues
 - **Published**: November 12, 2025
-- **Summary**: Lauren Mekies spent much of his career in the engineering trenches. His approach to winning reflects that technical background, too.......
-- [Read more](https://techcrunch.com/2025/11/11/red-bull-racings-secret-weapon-an-engineer-who-treats-workflows-like-lap-times/)
+- **Summary**: The company's shares opened 12% above their issue price, at ₹112, and closed at ₹128.85, lending it a market cap of ₹795 billion (approximately $9 bil...
+- [Read more](https://techcrunch.com/2025/11/12/groww-raises-nearly-750m-in-ipo-as-indias-retail-investing-boom-continues/)
 
-### SoftBank’s Nvidia sale rattles market, raises questions
-- **Published**: November 11, 2025
-- **Summary**: Wall Street can’t help but wonder: does Son see something right now that others do not?......
-- [Read more](https://techcrunch.com/2025/11/11/softbanks-nvidia-sale-rattles-market-raises-questions/)
+### Teradar raises $150M for a sensor it says beats lidar and radar
+- **Published**: November 12, 2025
+- **Summary**: Teradar's sensor uses the terahertz part of the electromagnetic spectrum, and combines the best traits of radar and lidar sensors without some of the ...
+- [Read more](https://techcrunch.com/2025/11/12/teradar-exits-stealth-with-an-all-weather-sensor-for-autonomy-and-150m-in-funding/)
 
 ---
 
