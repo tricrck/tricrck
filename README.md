@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
+### Red Bull Racing’s secret weapon? An engineer who treats workflows like lap times
+- **Published**: November 12, 2025
+- **Summary**: Lauren Mekies spent much of his career in the engineering trenches. His approach to winning reflects that technical background, too.......
+- [Read more](https://techcrunch.com/2025/11/11/red-bull-racings-secret-weapon-an-engineer-who-treats-workflows-like-lap-times/)
+
 ### SoftBank’s Nvidia sale rattles market, raises questions
 - **Published**: November 11, 2025
 - **Summary**: Wall Street can’t help but wonder: does Son see something right now that others do not?......
 - [Read more](https://techcrunch.com/2025/11/11/softbanks-nvidia-sale-rattles-market-raises-questions/)
-
-### Google Pixel update adds battery-saving maps mode, AI photo remixing, and smarter notifications
-- **Published**: November 11, 2025
-- **Summary**: Google says the new power saving mode for Google Maps can save you up to four hours of battery life......
-- [Read more](https://techcrunch.com/2025/11/11/google-pixel-update-adds-battery-saving-maps-mode-ai-photo-remixing-and-smarter-notifications/)
 
 ---
 
