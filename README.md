@@ -16,15 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Microsoft’s plan to fix its chip problem is, partly, to let OpenAI do the heavy lifting
+### GitHub Partial Outage
 - **Published**: November 13, 2025
-- **Summary**: Microsoft is taking a page from OpenAI's playbook, literally.......
-- [Read more](https://techcrunch.com/2025/11/13/microsofts-plan-to-fix-its-chip-problem-is-partly-to-let-openai-do-the-heavy-lifting/)
+- **Summary**: ......
+- **Keywords**: outage
+- [Read more](https://www.githubstatus.com/incidents/1jw8ltnr1qrj)
 
-### Milestone raises $10M to make sure AI rhymes with ROI
+### Police take down three cybercrime operations in latest round of ‘whack-a-mole’
 - **Published**: November 13, 2025
-- **Summary**: Israeli startup Milestone raised a $10 million seed funding round to correlate AI tool usage with engineering metrics, including code quality.......
-- [Read more](https://techcrunch.com/2025/11/13/milestone-raises-10m-to-make-sure-ai-rhymes-with-roi/)
+- **Summary**: Authorities from nine countries took down three cybercrime operations, including the Rhadamantys infostealer, which allegedly had access to the crypto...
+- **Keywords**: down, down
+- [Read more](https://techcrunch.com/2025/11/13/police-take-down-three-cybercrime-operations-in-latest-round-of-whack-a-mole/)
 
 ---
 
