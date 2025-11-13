@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Radio streamer TuneIn acquired for $175M
-- **Published**: November 12, 2025
-- **Summary**: Radio streamer TuneIn sold for $175M, down from its earlier valuation of $500M.......
-- **Keywords**: down
-- [Read more](https://techcrunch.com/2025/11/12/radio-streamer-tunein-acquired-for-175m/)
+### ‘Chad: The Brainrot IDE’ is a new Y Combinator-backed product so wild, people thought it was fake
+- **Published**: November 13, 2025
+- **Summary**: Chad: The Brainrot IDE is an actual product that pairs vibe coding with brainrot activities like gambling, Tinder and games.......
+- [Read more](https://techcrunch.com/2025/11/12/chad-the-brainrot-ide-is-a-new-y-combinator-backed-product-so-wild-people-thought-it-was-fake/)
 
-### YouTube TV’s Disney blackout is ruining my life (I can’t watch ‘Jeopardy!’)
+### Cybersecurity firm Deepwatch lays off dozens, citing move to ‘accelerate’ AI investment
 - **Published**: November 12, 2025
-- **Summary**: For 12 days and counting, Disney-owned channels like ESPN and ABC have been blacked out on YouTube TV.......
-- [Read more](https://techcrunch.com/2025/11/12/youtube-tvs-disney-blackout-is-ruining-my-life-i-cant-watch-jeopardy/)
+- **Summary**: Deepwatch’s CEO told TechCrunch that the layoffs allow the company to accelerate investments in “AI and automation.”......
+- [Read more](https://techcrunch.com/2025/11/12/cybersecurity-firm-deepwatch-lays-off-dozens-citing-move-to-accelerate-ai-investment/)
 
 ---
 
