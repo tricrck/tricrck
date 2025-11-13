@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### ‘Chad: The Brainrot IDE’ is a new Y Combinator-backed product so wild, people thought it was fake
+### Kering-backed fund Mirova pours $30.5M into India’s Varaha for regenerative farming
 - **Published**: November 13, 2025
-- **Summary**: Chad: The Brainrot IDE is an actual product that pairs vibe coding with brainrot activities like gambling, Tinder and games.......
-- [Read more](https://techcrunch.com/2025/11/12/chad-the-brainrot-ide-is-a-new-y-combinator-backed-product-so-wild-people-thought-it-was-fake/)
+- **Summary**: Varaha aims to support around 337,000 farmers across 675,000 hectares in northern India through its regenerative farming project.......
+- [Read more](https://techcrunch.com/2025/11/12/kering-backed-fund-mirova-pours-30-5m-into-indias-varaha-for-regenerative-farming-push/)
 
-### Cybersecurity firm Deepwatch lays off dozens, citing move to ‘accelerate’ AI investment
-- **Published**: November 12, 2025
-- **Summary**: Deepwatch’s CEO told TechCrunch that the layoffs allow the company to accelerate investments in “AI and automation.”......
-- [Read more](https://techcrunch.com/2025/11/12/cybersecurity-firm-deepwatch-lays-off-dozens-citing-move-to-accelerate-ai-investment/)
+### Jack Dorsey funds diVine, a Vine reboot that includes Vine’s video archive
+- **Published**: November 13, 2025
+- **Summary**: Jack Dorsey backs diVine, a Vine reboot that includes Vine's video archive of six-second, looping videos. A new app called diVine will give access to ...
+- [Read more](https://techcrunch.com/2025/11/12/jack-dorsey-funds-divine-a-vine-reboot-that-includes-vines-video-archive/)
 
 ---
 
