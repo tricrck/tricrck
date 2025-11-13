@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Kering-backed fund Mirova pours $30.5M into India’s Varaha for regenerative farming
+### Microsoft’s plan to fix its chip problem is, partly, to let OpenAI do the heavy lifting
 - **Published**: November 13, 2025
-- **Summary**: Varaha aims to support around 337,000 farmers across 675,000 hectares in northern India through its regenerative farming project.......
-- [Read more](https://techcrunch.com/2025/11/12/kering-backed-fund-mirova-pours-30-5m-into-indias-varaha-for-regenerative-farming-push/)
+- **Summary**: Microsoft is taking a page from OpenAI's playbook, literally.......
+- [Read more](https://techcrunch.com/2025/11/13/microsofts-plan-to-fix-its-chip-problem-is-partly-to-let-openai-do-the-heavy-lifting/)
 
-### Jack Dorsey funds diVine, a Vine reboot that includes Vine’s video archive
+### Milestone raises $10M to make sure AI rhymes with ROI
 - **Published**: November 13, 2025
-- **Summary**: Jack Dorsey backs diVine, a Vine reboot that includes Vine's video archive of six-second, looping videos. A new app called diVine will give access to ...
-- [Read more](https://techcrunch.com/2025/11/12/jack-dorsey-funds-divine-a-vine-reboot-that-includes-vines-video-archive/)
+- **Summary**: Israeli startup Milestone raised a $10 million seed funding round to correlate AI tool usage with engineering metrics, including code quality.......
+- [Read more](https://techcrunch.com/2025/11/13/milestone-raises-10m-to-make-sure-ai-rhymes-with-roi/)
 
 ---
 
