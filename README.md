@@ -16,17 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### GitHub Partial Outage
+### Apple’s new App Review Guidelines clamp down on apps sharing personal data with ‘third-party AI’
 - **Published**: November 13, 2025
-- **Summary**: ......
-- **Keywords**: outage
-- [Read more](https://www.githubstatus.com/incidents/1jw8ltnr1qrj)
+- **Summary**: Apple updates its App Store rules to restrict apps from sharing personal data with third-party AI without disclosure and explicit permission.......
+- **Keywords**: down
+- [Read more](https://techcrunch.com/2025/11/13/apples-new-app-review-guidelines-clamp-down-on-apps-sharing-personal-data-with-third-party-ai/)
 
-### Police take down three cybercrime operations in latest round of ‘whack-a-mole’
+### Build Mode starts at the beginning: How Forethought AI found product-market fit
 - **Published**: November 13, 2025
-- **Summary**: Authorities from nine countries took down three cybercrime operations, including the Rhadamantys infostealer, which allegedly had access to the crypto...
-- **Keywords**: down, down
-- [Read more](https://techcrunch.com/2025/11/13/police-take-down-three-cybercrime-operations-in-latest-round-of-whack-a-mole/)
+- **Summary**: In the debut episode of the Build Mode podcast, we sat down with Deon Nicholas, co-founder of Forethought AI, to unpack what it really takes to build ...
+- **Keywords**: down
+- [Read more](https://techcrunch.com/2025/11/13/build-mode-starts-at-the-beginning-how-forethought-ai-found-product-market-fit/)
 
 ---
 
