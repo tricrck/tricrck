@@ -22,10 +22,10 @@
 - **Keywords**: broken, down
 - [Read more](https://techcrunch.com/2025/11/14/tech-layoffs-2025-list/)
 
-### Leaked documents shed light into how much OpenAI pays Microsoft
+### Disney and YouTube TV reach deal to end blackout
 - **Published**: November 15, 2025
-- **Summary**: Leaked documents reveal how much OpenAI paid Microsoft under a revenue-share agreement. They also indicate inference costs.......
-- [Read more](https://techcrunch.com/2025/11/14/leaked-documents-shed-light-into-how-much-openai-pays-microsoft/)
+- **Summary**: You can watch "Jeopardy!" on YouTube TV again.......
+- [Read more](https://techcrunch.com/2025/11/15/disney-and-youtube-tv-reach-deal-to-end-blackout/)
 
 ---
 
