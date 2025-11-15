@@ -16,15 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### OpenAI says it’s fixed ChatGPT’s em dash problem
+### A comprehensive list of 2025 tech layoffs
 - **Published**: November 14, 2025
-- **Summary**: OpenAI says users can now personalize ChatGPT to stop using the em dash in its output.......
-- [Read more](https://techcrunch.com/2025/11/14/openai-says-its-fixed-chatgpts-em-dash-problem/)
+- **Summary**: A complete list of all the known layoffs in tech, from Big Tech to startups, broken down by month throughout 2024.......
+- **Keywords**: broken, down
+- [Read more](https://techcrunch.com/2025/11/14/tech-layoffs-2025-list/)
 
-### Five people plead guilty to helping North Koreans infiltrate US companies as ‘remote IT workers’
-- **Published**: November 14, 2025
-- **Summary**: The U.S. Department of Justice said five people — including four U.S. nationals — "facilitated" North Korean IT workers to get jobs at American compan...
-- [Read more](https://techcrunch.com/2025/11/14/five-people-plead-guilty-to-helping-north-koreans-infiltrate-us-companies-as-remote-it-workers/)
+### Leaked documents shed light into how much OpenAI pays Microsoft
+- **Published**: November 15, 2025
+- **Summary**: Leaked documents reveal how much OpenAI paid Microsoft under a revenue-share agreement. They also indicate inference costs.......
+- [Read more](https://techcrunch.com/2025/11/14/leaked-documents-shed-light-into-how-much-openai-pays-microsoft/)
 
 ---
 
