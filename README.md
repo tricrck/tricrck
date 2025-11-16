@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### A comprehensive list of 2025 tech layoffs
-- **Published**: November 14, 2025
-- **Summary**: A complete list of all the known layoffs in tech, from Big Tech to startups, broken down by month throughout 2024.......
-- **Keywords**: broken, down
-- [Read more](https://techcrunch.com/2025/11/14/tech-layoffs-2025-list/)
-
-### Disney and YouTube TV reach deal to end blackout
+### JPMorgan doesn’t want to pay Frank founder Charlie Javice’s legal bills
 - **Published**: November 15, 2025
-- **Summary**: You can watch "Jeopardy!" on YouTube TV again.......
-- [Read more](https://techcrunch.com/2025/11/15/disney-and-youtube-tv-reach-deal-to-end-blackout/)
+- **Summary**: A lawyer representing JPMorgan said Javice’s legal team billed for expenses including luxury hotel upgrades, 24 hours of work in a single day, and cel...
+- [Read more](https://techcrunch.com/2025/11/15/jpmorgan-doesnt-want-to-pay-frank-founder-charlie-javices-legal-bills/)
+
+### Jury says Apple owes Masimo $634M for patent infringement
+- **Published**: November 15, 2025
+- **Summary**: A federal jury in California ruled Friday that Apple must pay medical device maker Masimo $634 million for infringing a patent on blood oxygen monitor...
+- [Read more](https://techcrunch.com/2025/11/15/jury-says-apple-owes-masimo-634m-for-patent-infringement/)
 
 ---
 
