@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### AWS multiple services outage in us-east-1
-- **Published**: October 20, 2025
-- **Summary**: ......
-- **Keywords**: outage
-- [Read more](https://health.aws.amazon.com/health/status?ts=20251020)
+### Meta Expands WhatsApp Security Research with New Proxy Tool and $4M in Bounties This Year
+- **Published**: November 18, 2025
+- **Summary**: Meta on Tuesday said it has made available a tool called WhatsApp Research Proxy to some of its long-time bug bounty researchers to help improve the p...
+- **Keywords**: bug
+- [Read more](https://thehackernews.com/2025/11/meta-expands-whatsapp-security-research.html)
 
-### Spiro raises $100M, the largest-ever investment in Africa’s e-mobility
-- **Published**: October 21, 2025
-- **Summary**: Dubai-headquartered Spiro is growing quickly with e-motorbikes and a battery swapping network designed for Africa's needs.......
-- [Read more](https://techcrunch.com/2025/10/21/spiro-raises-100m-the-largest-ever-investment-in-africas-e-mobility/)
+### Sneaky 2FA Phishing Kit Adds BitB Pop-ups Designed to Mimic the Browser Address Bar
+- **Published**: November 19, 2025
+- **Summary**: The malware authors associated with a Phishing-as-a-Service (PhaaS) kit known as Sneaky 2FA have incorporated Browser-in-the-Browser (BitB) functional...
+- [Read more](https://thehackernews.com/2025/11/sneaky-2fa-phishing-kit-adds-bitb-pop.html)
 
 ---
 
@@ -40,8 +40,6 @@
 </div>
 ---
 
-### 📊 Language Mastery Radar
-
 <div align="center">
 
 ![Language Radar](https://raw.githubusercontent.com/tricrck/tricrck/main/assets/cultivation_stats.svg)
@@ -49,9 +47,6 @@
 </div>
 
 ---
-## Skill Grimoire
-
-### ⚔️ Combat Skills (Programming Languages)
 
 <div align="center">
 

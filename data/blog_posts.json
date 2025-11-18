@@ -1,109 +1,29 @@
 {
   "chaos_ranked": [
     {
-      "title": "AWS multiple services outage in us-east-1",
-      "link": "https://health.aws.amazon.com/health/status?ts=20251020",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=45640838\">Comments</a>...",
-      "published": "2025-10-20T07:22:28+00:00",
-      "domain": "health.aws.amazon.com",
+      "title": "Meta Expands WhatsApp Security Research with New Proxy Tool and $4M in Bounties This Year",
+      "link": "https://thehackernews.com/2025/11/meta-expands-whatsapp-security-research.html",
+      "summary": "Meta on Tuesday said it has made available a tool called WhatsApp Research Proxy to some of its long-time bug bounty researchers to help improve the program and more effectively research the messaging...",
+      "published": "2025-11-18T21:26:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
-        "chaos": 28.8,
+        "chaos": 10.1,
         "anarchy": 3.0,
-        "overall": 15.9
+        "overall": 6.6
       },
       "keywords": {
         "chaos": [
-          "outage"
+          "bug"
         ],
         "anarchy": []
       }
     },
     {
-      "title": "Spiro raises $100M, the largest-ever investment in Africa\u2019s e-mobility",
-      "link": "https://techcrunch.com/2025/10/21/spiro-raises-100m-the-largest-ever-investment-in-africas-e-mobility/",
-      "summary": "Dubai-headquartered Spiro is growing quickly with e-motorbikes and a battery swapping network designed for Africa's needs....",
-      "published": "2025-10-21T09:35:22+00:00",
-      "domain": "techcrunch.com",
-      "scores": {
-        "chaos": 9.0,
-        "anarchy": 6.0,
-        "overall": 7.5
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "European AI rising star Nexos.ai raises \u20ac30M to unlock enterprise AI adoption",
-      "link": "https://techcrunch.com/2025/10/20/european-ai-rising-star-nexos-ai-raises-30m-to-unlock-enterprise-ai-adoption/",
-      "summary": "Nord Security co-founders have closed a \u20ac30 million Series A for their new startup, Nexos.ai, an orchestration platform aimed at helping companies adopt AI securely....",
-      "published": "2025-10-21T06:00:00+00:00",
-      "domain": "techcrunch.com",
-      "scores": {
-        "chaos": 9.0,
-        "anarchy": 6.0,
-        "overall": 7.5
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "YC alum Cercli, an AI-powered Rippling for MENA, raises oversubscribed $12M Series A",
-      "link": "https://techcrunch.com/2025/10/20/yc-alum-cercli-an-ai-powered-rippling-for-mena-raises-oversubscribed-12m-series-a/",
-      "summary": "In a region long defined by fragmented enterprise systems, outdated compliance tools, and HR software that rarely talks to finance, Cercli is building a unified alternative for MENA businesses with AI...",
-      "published": "2025-10-21T04:00:00+00:00",
-      "domain": "techcrunch.com",
-      "scores": {
-        "chaos": 9.0,
-        "anarchy": 6.0,
-        "overall": 7.5
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Apple will let users roll back the Liquid Glass look with new \u2018tinted\u2019 option",
-      "link": "https://techcrunch.com/2025/10/20/apple-will-let-users-roll-back-the-liquid-glass-look-with-new-tinted-option/",
-      "summary": "Apple is responding to user feedback on its new Liquid Glass design with a setting that lets users choose between Clear and Tinted appearances. Introduced in iOS 26.1 beta 4, the option gives users mo...",
-      "published": "2025-10-20T21:40:41+00:00",
-      "domain": "techcrunch.com",
-      "scores": {
-        "chaos": 9.0,
-        "anarchy": 6.0,
-        "overall": 7.5
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Top OpenAI, Google Brain researchers set off a $300M VC frenzy for their startup Periodic Labs",
-      "link": "https://techcrunch.com/2025/10/20/top-openai-google-brain-researchers-set-off-a-300m-vc-frenzy-for-their-startup-periodic-labs/",
-      "summary": "When Liam Fedus announced he was quitting OpenAI, VCs swarmed. One even wrote a love letter. Here's how Felicis' Peter Deng won the deal....",
-      "published": "2025-10-20T21:15:24+00:00",
-      "domain": "techcrunch.com",
-      "scores": {
-        "chaos": 9.0,
-        "anarchy": 6.0,
-        "overall": 7.5
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: I'm rewriting a web server written in Rust for speed and ease of use",
-      "link": "https://ferron.sh/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=45653350\">Comments</a>...",
-      "published": "2025-10-21T07:26:57+00:00",
-      "domain": "ferron.sh",
+      "title": "Sneaky 2FA Phishing Kit Adds BitB Pop-ups Designed to Mimic the Browser Address Bar",
+      "link": "https://thehackernews.com/2025/11/sneaky-2fa-phishing-kit-adds-bitb-pop.html",
+      "summary": "The malware authors associated with a Phishing-as-a-Service (PhaaS) kit known as Sneaky 2FA have incorporated Browser-in-the-Browser (BitB) functionality into their arsenal, underscoring the continued...",
+      "published": "2025-11-19T00:01:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -115,11 +35,11 @@
       }
     },
     {
-      "title": "Pasta/80 is a simple Pascal cross compiler targeting the Z80 microprocessor",
-      "link": "https://github.com/pleumann/pasta80",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=45653330\">Comments</a>...",
-      "published": "2025-10-21T07:23:09+00:00",
-      "domain": "github.com",
+      "title": "The Sad and Dangerous Reality Behind 'Her'",
+      "link": "https://www.nytimes.com/2025/11/17/opinion/her-film-chatbots-romance.html",
+      "summary": "<p>Article URL: <a href=\"https://www.nytimes.com/2025/11/17/opinion/her-film-chatbots-romance.html\">https://www.nytimes.com/2025/11/17/opinion/her-film-chatbots-romance.html</a></p>\n<p>Comments URL: <...",
+      "published": "2025-11-18T21:58:52+00:00",
+      "domain": "nytimes.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -131,11 +51,11 @@
       }
     },
     {
-      "title": "Language Support for Marginalia Search",
-      "link": "https://www.marginalia.nu/log/a_126_multilingual/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=45653143\">Comments</a>...",
-      "published": "2025-10-21T06:48:53+00:00",
-      "domain": "marginalia.nu",
+      "title": "Ramp Sheets",
+      "link": "https://labs.ramp.com/sheets",
+      "summary": "<p>Article URL: <a href=\"https://labs.ramp.com/sheets\">https://labs.ramp.com/sheets</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45972773\">https://news.ycombinator.com/item?i...",
+      "published": "2025-11-18T21:58:43+00:00",
+      "domain": "labs.ramp.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -147,11 +67,91 @@
       }
     },
     {
-      "title": "Practical Scheme",
-      "link": "https://practical-scheme.net/index.html#docs",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=45652859\">Comments</a>...",
-      "published": "2025-10-21T05:47:39+00:00",
-      "domain": "practical-scheme.net",
+      "title": "The AP1000 Masterclass: Return of the Big Boring Reactor [video]",
+      "link": "https://www.youtube.com/watch?v=fIqsSO8HVVY",
+      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=fIqsSO8HVVY\">https://www.youtube.com/watch?v=fIqsSO8HVVY</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45972770\">https...",
+      "published": "2025-11-18T21:58:42+00:00",
+      "domain": "youtube.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Collaboration Does Not Suck",
+      "link": "https://elijahpotter.dev/articles/re:-collaboration-sucks",
+      "summary": "<p>Article URL: <a href=\"https://elijahpotter.dev/articles/re:-collaboration-sucks\">https://elijahpotter.dev/articles/re:-collaboration-sucks</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator...",
+      "published": "2025-11-18T21:52:05+00:00",
+      "domain": "elijahpotter.dev",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Hacktron Hacks Supabase",
+      "link": "https://www.hacktron.ai/blog/supapwn",
+      "summary": "<p>Article URL: <a href=\"https://www.hacktron.ai/blog/supapwn\">https://www.hacktron.ai/blog/supapwn</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45972659\">https://news.ycombi...",
+      "published": "2025-11-18T21:48:59+00:00",
+      "domain": "hacktron.ai",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Learn How Leading Companies Secure Cloud Workloads and Infrastructure at Scale",
+      "link": "https://thehackernews.com/2025/11/learn-how-leading-companies-secure.html",
+      "summary": "You\u2019ve probably already moved some of your business to the cloud\u2014or you\u2019re planning to. That\u2019s a smart move. It helps you work faster, serve your customers better, and stay ahead.\nBut as your cloud se...",
+      "published": "2025-11-18T20:55:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "GitHub: Git operation failures",
+      "link": "https://www.githubstatus.com/incidents/5q7nmlxz30sk",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=45971726\">Comments</a>...",
+      "published": "2025-11-18T20:40:46+00:00",
+      "domain": "githubstatus.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Oracle is already underwater on its \u2018astonishing\u2019 $300bn OpenAI deal",
+      "link": "https://www.reddit.com/r/technology/comments/1p0myv7/oracle_is_already_underwater_on_its_astonishing/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1p0myv7/oracle_is_already_underwater_on_its_astonishing/\"> <img alt=\"Oracle is already underwater on its \u2018astonishing\u2019 $300bn Ope...",
+      "published": "2025-11-18T20:29:20+00:00",
+      "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -165,91 +165,11 @@
   ],
   "anarchy_ranked": [
     {
-      "title": "Spiro raises $100M, the largest-ever investment in Africa\u2019s e-mobility",
-      "link": "https://techcrunch.com/2025/10/21/spiro-raises-100m-the-largest-ever-investment-in-africas-e-mobility/",
-      "summary": "Dubai-headquartered Spiro is growing quickly with e-motorbikes and a battery swapping network designed for Africa's needs....",
-      "published": "2025-10-21T09:35:22+00:00",
-      "domain": "techcrunch.com",
-      "scores": {
-        "chaos": 9.0,
-        "anarchy": 6.0,
-        "overall": 7.5
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "European AI rising star Nexos.ai raises \u20ac30M to unlock enterprise AI adoption",
-      "link": "https://techcrunch.com/2025/10/20/european-ai-rising-star-nexos-ai-raises-30m-to-unlock-enterprise-ai-adoption/",
-      "summary": "Nord Security co-founders have closed a \u20ac30 million Series A for their new startup, Nexos.ai, an orchestration platform aimed at helping companies adopt AI securely....",
-      "published": "2025-10-21T06:00:00+00:00",
-      "domain": "techcrunch.com",
-      "scores": {
-        "chaos": 9.0,
-        "anarchy": 6.0,
-        "overall": 7.5
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "YC alum Cercli, an AI-powered Rippling for MENA, raises oversubscribed $12M Series A",
-      "link": "https://techcrunch.com/2025/10/20/yc-alum-cercli-an-ai-powered-rippling-for-mena-raises-oversubscribed-12m-series-a/",
-      "summary": "In a region long defined by fragmented enterprise systems, outdated compliance tools, and HR software that rarely talks to finance, Cercli is building a unified alternative for MENA businesses with AI...",
-      "published": "2025-10-21T04:00:00+00:00",
-      "domain": "techcrunch.com",
-      "scores": {
-        "chaos": 9.0,
-        "anarchy": 6.0,
-        "overall": 7.5
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Apple will let users roll back the Liquid Glass look with new \u2018tinted\u2019 option",
-      "link": "https://techcrunch.com/2025/10/20/apple-will-let-users-roll-back-the-liquid-glass-look-with-new-tinted-option/",
-      "summary": "Apple is responding to user feedback on its new Liquid Glass design with a setting that lets users choose between Clear and Tinted appearances. Introduced in iOS 26.1 beta 4, the option gives users mo...",
-      "published": "2025-10-20T21:40:41+00:00",
-      "domain": "techcrunch.com",
-      "scores": {
-        "chaos": 9.0,
-        "anarchy": 6.0,
-        "overall": 7.5
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Top OpenAI, Google Brain researchers set off a $300M VC frenzy for their startup Periodic Labs",
-      "link": "https://techcrunch.com/2025/10/20/top-openai-google-brain-researchers-set-off-a-300m-vc-frenzy-for-their-startup-periodic-labs/",
-      "summary": "When Liam Fedus announced he was quitting OpenAI, VCs swarmed. One even wrote a love letter. Here's how Felicis' Peter Deng won the deal....",
-      "published": "2025-10-20T21:15:24+00:00",
-      "domain": "techcrunch.com",
-      "scores": {
-        "chaos": 9.0,
-        "anarchy": 6.0,
-        "overall": 7.5
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: I'm rewriting a web server written in Rust for speed and ease of use",
-      "link": "https://ferron.sh/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=45653350\">Comments</a>...",
-      "published": "2025-10-21T07:26:57+00:00",
-      "domain": "ferron.sh",
+      "title": "Sneaky 2FA Phishing Kit Adds BitB Pop-ups Designed to Mimic the Browser Address Bar",
+      "link": "https://thehackernews.com/2025/11/sneaky-2fa-phishing-kit-adds-bitb-pop.html",
+      "summary": "The malware authors associated with a Phishing-as-a-Service (PhaaS) kit known as Sneaky 2FA have incorporated Browser-in-the-Browser (BitB) functionality into their arsenal, underscoring the continued...",
+      "published": "2025-11-19T00:01:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -261,11 +181,11 @@
       }
     },
     {
-      "title": "Pasta/80 is a simple Pascal cross compiler targeting the Z80 microprocessor",
-      "link": "https://github.com/pleumann/pasta80",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=45653330\">Comments</a>...",
-      "published": "2025-10-21T07:23:09+00:00",
-      "domain": "github.com",
+      "title": "The Sad and Dangerous Reality Behind 'Her'",
+      "link": "https://www.nytimes.com/2025/11/17/opinion/her-film-chatbots-romance.html",
+      "summary": "<p>Article URL: <a href=\"https://www.nytimes.com/2025/11/17/opinion/her-film-chatbots-romance.html\">https://www.nytimes.com/2025/11/17/opinion/her-film-chatbots-romance.html</a></p>\n<p>Comments URL: <...",
+      "published": "2025-11-18T21:58:52+00:00",
+      "domain": "nytimes.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -277,11 +197,11 @@
       }
     },
     {
-      "title": "Language Support for Marginalia Search",
-      "link": "https://www.marginalia.nu/log/a_126_multilingual/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=45653143\">Comments</a>...",
-      "published": "2025-10-21T06:48:53+00:00",
-      "domain": "marginalia.nu",
+      "title": "Ramp Sheets",
+      "link": "https://labs.ramp.com/sheets",
+      "summary": "<p>Article URL: <a href=\"https://labs.ramp.com/sheets\">https://labs.ramp.com/sheets</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45972773\">https://news.ycombinator.com/item?i...",
+      "published": "2025-11-18T21:58:43+00:00",
+      "domain": "labs.ramp.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -293,11 +213,11 @@
       }
     },
     {
-      "title": "Practical Scheme",
-      "link": "https://practical-scheme.net/index.html#docs",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=45652859\">Comments</a>...",
-      "published": "2025-10-21T05:47:39+00:00",
-      "domain": "practical-scheme.net",
+      "title": "The AP1000 Masterclass: Return of the Big Boring Reactor [video]",
+      "link": "https://www.youtube.com/watch?v=fIqsSO8HVVY",
+      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=fIqsSO8HVVY\">https://www.youtube.com/watch?v=fIqsSO8HVVY</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45972770\">https...",
+      "published": "2025-11-18T21:58:42+00:00",
+      "domain": "youtube.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -309,129 +229,129 @@
       }
     },
     {
-      "title": "AWS multiple services outage in us-east-1",
-      "link": "https://health.aws.amazon.com/health/status?ts=20251020",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=45640838\">Comments</a>...",
-      "published": "2025-10-20T07:22:28+00:00",
-      "domain": "health.aws.amazon.com",
+      "title": "Collaboration Does Not Suck",
+      "link": "https://elijahpotter.dev/articles/re:-collaboration-sucks",
+      "summary": "<p>Article URL: <a href=\"https://elijahpotter.dev/articles/re:-collaboration-sucks\">https://elijahpotter.dev/articles/re:-collaboration-sucks</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator...",
+      "published": "2025-11-18T21:52:05+00:00",
+      "domain": "elijahpotter.dev",
       "scores": {
-        "chaos": 28.8,
+        "chaos": 3.0,
         "anarchy": 3.0,
-        "overall": 15.9
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Hacktron Hacks Supabase",
+      "link": "https://www.hacktron.ai/blog/supapwn",
+      "summary": "<p>Article URL: <a href=\"https://www.hacktron.ai/blog/supapwn\">https://www.hacktron.ai/blog/supapwn</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45972659\">https://news.ycombi...",
+      "published": "2025-11-18T21:48:59+00:00",
+      "domain": "hacktron.ai",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Meta Expands WhatsApp Security Research with New Proxy Tool and $4M in Bounties This Year",
+      "link": "https://thehackernews.com/2025/11/meta-expands-whatsapp-security-research.html",
+      "summary": "Meta on Tuesday said it has made available a tool called WhatsApp Research Proxy to some of its long-time bug bounty researchers to help improve the program and more effectively research the messaging...",
+      "published": "2025-11-18T21:26:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 10.1,
+        "anarchy": 3.0,
+        "overall": 6.6
       },
       "keywords": {
         "chaos": [
-          "outage"
+          "bug"
         ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Learn How Leading Companies Secure Cloud Workloads and Infrastructure at Scale",
+      "link": "https://thehackernews.com/2025/11/learn-how-leading-companies-secure.html",
+      "summary": "You\u2019ve probably already moved some of your business to the cloud\u2014or you\u2019re planning to. That\u2019s a smart move. It helps you work faster, serve your customers better, and stay ahead.\nBut as your cloud se...",
+      "published": "2025-11-18T20:55:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "GitHub: Git operation failures",
+      "link": "https://www.githubstatus.com/incidents/5q7nmlxz30sk",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=45971726\">Comments</a>...",
+      "published": "2025-11-18T20:40:46+00:00",
+      "domain": "githubstatus.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Oracle is already underwater on its \u2018astonishing\u2019 $300bn OpenAI deal",
+      "link": "https://www.reddit.com/r/technology/comments/1p0myv7/oracle_is_already_underwater_on_its_astonishing/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1p0myv7/oracle_is_already_underwater_on_its_astonishing/\"> <img alt=\"Oracle is already underwater on its \u2018astonishing\u2019 $300bn Ope...",
+      "published": "2025-11-18T20:29:20+00:00",
+      "domain": "reddit.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
         "anarchy": []
       }
     }
   ],
   "overall_ranked": [
     {
-      "title": "AWS multiple services outage in us-east-1",
-      "link": "https://health.aws.amazon.com/health/status?ts=20251020",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=45640838\">Comments</a>...",
-      "published": "2025-10-20T07:22:28+00:00",
-      "domain": "health.aws.amazon.com",
+      "title": "Meta Expands WhatsApp Security Research with New Proxy Tool and $4M in Bounties This Year",
+      "link": "https://thehackernews.com/2025/11/meta-expands-whatsapp-security-research.html",
+      "summary": "Meta on Tuesday said it has made available a tool called WhatsApp Research Proxy to some of its long-time bug bounty researchers to help improve the program and more effectively research the messaging...",
+      "published": "2025-11-18T21:26:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
-        "chaos": 28.8,
+        "chaos": 10.1,
         "anarchy": 3.0,
-        "overall": 15.9
+        "overall": 6.6
       },
       "keywords": {
         "chaos": [
-          "outage"
+          "bug"
         ],
         "anarchy": []
       }
     },
     {
-      "title": "Spiro raises $100M, the largest-ever investment in Africa\u2019s e-mobility",
-      "link": "https://techcrunch.com/2025/10/21/spiro-raises-100m-the-largest-ever-investment-in-africas-e-mobility/",
-      "summary": "Dubai-headquartered Spiro is growing quickly with e-motorbikes and a battery swapping network designed for Africa's needs....",
-      "published": "2025-10-21T09:35:22+00:00",
-      "domain": "techcrunch.com",
-      "scores": {
-        "chaos": 9.0,
-        "anarchy": 6.0,
-        "overall": 7.5
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "European AI rising star Nexos.ai raises \u20ac30M to unlock enterprise AI adoption",
-      "link": "https://techcrunch.com/2025/10/20/european-ai-rising-star-nexos-ai-raises-30m-to-unlock-enterprise-ai-adoption/",
-      "summary": "Nord Security co-founders have closed a \u20ac30 million Series A for their new startup, Nexos.ai, an orchestration platform aimed at helping companies adopt AI securely....",
-      "published": "2025-10-21T06:00:00+00:00",
-      "domain": "techcrunch.com",
-      "scores": {
-        "chaos": 9.0,
-        "anarchy": 6.0,
-        "overall": 7.5
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "YC alum Cercli, an AI-powered Rippling for MENA, raises oversubscribed $12M Series A",
-      "link": "https://techcrunch.com/2025/10/20/yc-alum-cercli-an-ai-powered-rippling-for-mena-raises-oversubscribed-12m-series-a/",
-      "summary": "In a region long defined by fragmented enterprise systems, outdated compliance tools, and HR software that rarely talks to finance, Cercli is building a unified alternative for MENA businesses with AI...",
-      "published": "2025-10-21T04:00:00+00:00",
-      "domain": "techcrunch.com",
-      "scores": {
-        "chaos": 9.0,
-        "anarchy": 6.0,
-        "overall": 7.5
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Apple will let users roll back the Liquid Glass look with new \u2018tinted\u2019 option",
-      "link": "https://techcrunch.com/2025/10/20/apple-will-let-users-roll-back-the-liquid-glass-look-with-new-tinted-option/",
-      "summary": "Apple is responding to user feedback on its new Liquid Glass design with a setting that lets users choose between Clear and Tinted appearances. Introduced in iOS 26.1 beta 4, the option gives users mo...",
-      "published": "2025-10-20T21:40:41+00:00",
-      "domain": "techcrunch.com",
-      "scores": {
-        "chaos": 9.0,
-        "anarchy": 6.0,
-        "overall": 7.5
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Top OpenAI, Google Brain researchers set off a $300M VC frenzy for their startup Periodic Labs",
-      "link": "https://techcrunch.com/2025/10/20/top-openai-google-brain-researchers-set-off-a-300m-vc-frenzy-for-their-startup-periodic-labs/",
-      "summary": "When Liam Fedus announced he was quitting OpenAI, VCs swarmed. One even wrote a love letter. Here's how Felicis' Peter Deng won the deal....",
-      "published": "2025-10-20T21:15:24+00:00",
-      "domain": "techcrunch.com",
-      "scores": {
-        "chaos": 9.0,
-        "anarchy": 6.0,
-        "overall": 7.5
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: I'm rewriting a web server written in Rust for speed and ease of use",
-      "link": "https://ferron.sh/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=45653350\">Comments</a>...",
-      "published": "2025-10-21T07:26:57+00:00",
-      "domain": "ferron.sh",
+      "title": "Sneaky 2FA Phishing Kit Adds BitB Pop-ups Designed to Mimic the Browser Address Bar",
+      "link": "https://thehackernews.com/2025/11/sneaky-2fa-phishing-kit-adds-bitb-pop.html",
+      "summary": "The malware authors associated with a Phishing-as-a-Service (PhaaS) kit known as Sneaky 2FA have incorporated Browser-in-the-Browser (BitB) functionality into their arsenal, underscoring the continued...",
+      "published": "2025-11-19T00:01:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -443,11 +363,11 @@
       }
     },
     {
-      "title": "Pasta/80 is a simple Pascal cross compiler targeting the Z80 microprocessor",
-      "link": "https://github.com/pleumann/pasta80",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=45653330\">Comments</a>...",
-      "published": "2025-10-21T07:23:09+00:00",
-      "domain": "github.com",
+      "title": "The Sad and Dangerous Reality Behind 'Her'",
+      "link": "https://www.nytimes.com/2025/11/17/opinion/her-film-chatbots-romance.html",
+      "summary": "<p>Article URL: <a href=\"https://www.nytimes.com/2025/11/17/opinion/her-film-chatbots-romance.html\">https://www.nytimes.com/2025/11/17/opinion/her-film-chatbots-romance.html</a></p>\n<p>Comments URL: <...",
+      "published": "2025-11-18T21:58:52+00:00",
+      "domain": "nytimes.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -459,11 +379,11 @@
       }
     },
     {
-      "title": "Language Support for Marginalia Search",
-      "link": "https://www.marginalia.nu/log/a_126_multilingual/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=45653143\">Comments</a>...",
-      "published": "2025-10-21T06:48:53+00:00",
-      "domain": "marginalia.nu",
+      "title": "Ramp Sheets",
+      "link": "https://labs.ramp.com/sheets",
+      "summary": "<p>Article URL: <a href=\"https://labs.ramp.com/sheets\">https://labs.ramp.com/sheets</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45972773\">https://news.ycombinator.com/item?i...",
+      "published": "2025-11-18T21:58:43+00:00",
+      "domain": "labs.ramp.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -475,11 +395,91 @@
       }
     },
     {
-      "title": "Practical Scheme",
-      "link": "https://practical-scheme.net/index.html#docs",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=45652859\">Comments</a>...",
-      "published": "2025-10-21T05:47:39+00:00",
-      "domain": "practical-scheme.net",
+      "title": "The AP1000 Masterclass: Return of the Big Boring Reactor [video]",
+      "link": "https://www.youtube.com/watch?v=fIqsSO8HVVY",
+      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=fIqsSO8HVVY\">https://www.youtube.com/watch?v=fIqsSO8HVVY</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45972770\">https...",
+      "published": "2025-11-18T21:58:42+00:00",
+      "domain": "youtube.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Collaboration Does Not Suck",
+      "link": "https://elijahpotter.dev/articles/re:-collaboration-sucks",
+      "summary": "<p>Article URL: <a href=\"https://elijahpotter.dev/articles/re:-collaboration-sucks\">https://elijahpotter.dev/articles/re:-collaboration-sucks</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator...",
+      "published": "2025-11-18T21:52:05+00:00",
+      "domain": "elijahpotter.dev",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Hacktron Hacks Supabase",
+      "link": "https://www.hacktron.ai/blog/supapwn",
+      "summary": "<p>Article URL: <a href=\"https://www.hacktron.ai/blog/supapwn\">https://www.hacktron.ai/blog/supapwn</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45972659\">https://news.ycombi...",
+      "published": "2025-11-18T21:48:59+00:00",
+      "domain": "hacktron.ai",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Learn How Leading Companies Secure Cloud Workloads and Infrastructure at Scale",
+      "link": "https://thehackernews.com/2025/11/learn-how-leading-companies-secure.html",
+      "summary": "You\u2019ve probably already moved some of your business to the cloud\u2014or you\u2019re planning to. That\u2019s a smart move. It helps you work faster, serve your customers better, and stay ahead.\nBut as your cloud se...",
+      "published": "2025-11-18T20:55:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "GitHub: Git operation failures",
+      "link": "https://www.githubstatus.com/incidents/5q7nmlxz30sk",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=45971726\">Comments</a>...",
+      "published": "2025-11-18T20:40:46+00:00",
+      "domain": "githubstatus.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Oracle is already underwater on its \u2018astonishing\u2019 $300bn OpenAI deal",
+      "link": "https://www.reddit.com/r/technology/comments/1p0myv7/oracle_is_already_underwater_on_its_astonishing/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1p0myv7/oracle_is_already_underwater_on_its_astonishing/\"> <img alt=\"Oracle is already underwater on its \u2018astonishing\u2019 $300bn Ope...",
+      "published": "2025-11-18T20:29:20+00:00",
+      "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -493,27 +493,11 @@
   ],
   "all_articles": [
     {
-      "title": "Spiro raises $100M, the largest-ever investment in Africa\u2019s e-mobility",
-      "link": "https://techcrunch.com/2025/10/21/spiro-raises-100m-the-largest-ever-investment-in-africas-e-mobility/",
-      "summary": "Dubai-headquartered Spiro is growing quickly with e-motorbikes and a battery swapping network designed for Africa's needs....",
-      "published": "2025-10-21T09:35:22+00:00",
-      "domain": "techcrunch.com",
-      "scores": {
-        "chaos": 9.0,
-        "anarchy": 6.0,
-        "overall": 7.5
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: I'm rewriting a web server written in Rust for speed and ease of use",
-      "link": "https://ferron.sh/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=45653350\">Comments</a>...",
-      "published": "2025-10-21T07:26:57+00:00",
-      "domain": "ferron.sh",
+      "title": "Sneaky 2FA Phishing Kit Adds BitB Pop-ups Designed to Mimic the Browser Address Bar",
+      "link": "https://thehackernews.com/2025/11/sneaky-2fa-phishing-kit-adds-bitb-pop.html",
+      "summary": "The malware authors associated with a Phishing-as-a-Service (PhaaS) kit known as Sneaky 2FA have incorporated Browser-in-the-Browser (BitB) functionality into their arsenal, underscoring the continued...",
+      "published": "2025-11-19T00:01:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -525,11 +509,11 @@
       }
     },
     {
-      "title": "Pasta/80 is a simple Pascal cross compiler targeting the Z80 microprocessor",
-      "link": "https://github.com/pleumann/pasta80",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=45653330\">Comments</a>...",
-      "published": "2025-10-21T07:23:09+00:00",
-      "domain": "github.com",
+      "title": "The Sad and Dangerous Reality Behind 'Her'",
+      "link": "https://www.nytimes.com/2025/11/17/opinion/her-film-chatbots-romance.html",
+      "summary": "<p>Article URL: <a href=\"https://www.nytimes.com/2025/11/17/opinion/her-film-chatbots-romance.html\">https://www.nytimes.com/2025/11/17/opinion/her-film-chatbots-romance.html</a></p>\n<p>Comments URL: <...",
+      "published": "2025-11-18T21:58:52+00:00",
+      "domain": "nytimes.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -541,11 +525,11 @@
       }
     },
     {
-      "title": "Language Support for Marginalia Search",
-      "link": "https://www.marginalia.nu/log/a_126_multilingual/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=45653143\">Comments</a>...",
-      "published": "2025-10-21T06:48:53+00:00",
-      "domain": "marginalia.nu",
+      "title": "Ramp Sheets",
+      "link": "https://labs.ramp.com/sheets",
+      "summary": "<p>Article URL: <a href=\"https://labs.ramp.com/sheets\">https://labs.ramp.com/sheets</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45972773\">https://news.ycombinator.com/item?i...",
+      "published": "2025-11-18T21:58:43+00:00",
+      "domain": "labs.ramp.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -557,27 +541,11 @@
       }
     },
     {
-      "title": "European AI rising star Nexos.ai raises \u20ac30M to unlock enterprise AI adoption",
-      "link": "https://techcrunch.com/2025/10/20/european-ai-rising-star-nexos-ai-raises-30m-to-unlock-enterprise-ai-adoption/",
-      "summary": "Nord Security co-founders have closed a \u20ac30 million Series A for their new startup, Nexos.ai, an orchestration platform aimed at helping companies adopt AI securely....",
-      "published": "2025-10-21T06:00:00+00:00",
-      "domain": "techcrunch.com",
-      "scores": {
-        "chaos": 9.0,
-        "anarchy": 6.0,
-        "overall": 7.5
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Practical Scheme",
-      "link": "https://practical-scheme.net/index.html#docs",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=45652859\">Comments</a>...",
-      "published": "2025-10-21T05:47:39+00:00",
-      "domain": "practical-scheme.net",
+      "title": "The AP1000 Masterclass: Return of the Big Boring Reactor [video]",
+      "link": "https://www.youtube.com/watch?v=fIqsSO8HVVY",
+      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=fIqsSO8HVVY\">https://www.youtube.com/watch?v=fIqsSO8HVVY</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45972770\">https...",
+      "published": "2025-11-18T21:58:42+00:00",
+      "domain": "youtube.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -589,68 +557,100 @@
       }
     },
     {
-      "title": "YC alum Cercli, an AI-powered Rippling for MENA, raises oversubscribed $12M Series A",
-      "link": "https://techcrunch.com/2025/10/20/yc-alum-cercli-an-ai-powered-rippling-for-mena-raises-oversubscribed-12m-series-a/",
-      "summary": "In a region long defined by fragmented enterprise systems, outdated compliance tools, and HR software that rarely talks to finance, Cercli is building a unified alternative for MENA businesses with AI...",
-      "published": "2025-10-21T04:00:00+00:00",
-      "domain": "techcrunch.com",
+      "title": "Collaboration Does Not Suck",
+      "link": "https://elijahpotter.dev/articles/re:-collaboration-sucks",
+      "summary": "<p>Article URL: <a href=\"https://elijahpotter.dev/articles/re:-collaboration-sucks\">https://elijahpotter.dev/articles/re:-collaboration-sucks</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator...",
+      "published": "2025-11-18T21:52:05+00:00",
+      "domain": "elijahpotter.dev",
       "scores": {
-        "chaos": 9.0,
-        "anarchy": 6.0,
-        "overall": 7.5
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Apple will let users roll back the Liquid Glass look with new \u2018tinted\u2019 option",
-      "link": "https://techcrunch.com/2025/10/20/apple-will-let-users-roll-back-the-liquid-glass-look-with-new-tinted-option/",
-      "summary": "Apple is responding to user feedback on its new Liquid Glass design with a setting that lets users choose between Clear and Tinted appearances. Introduced in iOS 26.1 beta 4, the option gives users mo...",
-      "published": "2025-10-20T21:40:41+00:00",
-      "domain": "techcrunch.com",
-      "scores": {
-        "chaos": 9.0,
-        "anarchy": 6.0,
-        "overall": 7.5
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Top OpenAI, Google Brain researchers set off a $300M VC frenzy for their startup Periodic Labs",
-      "link": "https://techcrunch.com/2025/10/20/top-openai-google-brain-researchers-set-off-a-300m-vc-frenzy-for-their-startup-periodic-labs/",
-      "summary": "When Liam Fedus announced he was quitting OpenAI, VCs swarmed. One even wrote a love letter. Here's how Felicis' Peter Deng won the deal....",
-      "published": "2025-10-20T21:15:24+00:00",
-      "domain": "techcrunch.com",
-      "scores": {
-        "chaos": 9.0,
-        "anarchy": 6.0,
-        "overall": 7.5
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "AWS multiple services outage in us-east-1",
-      "link": "https://health.aws.amazon.com/health/status?ts=20251020",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=45640838\">Comments</a>...",
-      "published": "2025-10-20T07:22:28+00:00",
-      "domain": "health.aws.amazon.com",
-      "scores": {
-        "chaos": 28.8,
+        "chaos": 3.0,
         "anarchy": 3.0,
-        "overall": 15.9
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Hacktron Hacks Supabase",
+      "link": "https://www.hacktron.ai/blog/supapwn",
+      "summary": "<p>Article URL: <a href=\"https://www.hacktron.ai/blog/supapwn\">https://www.hacktron.ai/blog/supapwn</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45972659\">https://news.ycombi...",
+      "published": "2025-11-18T21:48:59+00:00",
+      "domain": "hacktron.ai",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Meta Expands WhatsApp Security Research with New Proxy Tool and $4M in Bounties This Year",
+      "link": "https://thehackernews.com/2025/11/meta-expands-whatsapp-security-research.html",
+      "summary": "Meta on Tuesday said it has made available a tool called WhatsApp Research Proxy to some of its long-time bug bounty researchers to help improve the program and more effectively research the messaging...",
+      "published": "2025-11-18T21:26:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 10.1,
+        "anarchy": 3.0,
+        "overall": 6.6
       },
       "keywords": {
         "chaos": [
-          "outage"
+          "bug"
         ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Learn How Leading Companies Secure Cloud Workloads and Infrastructure at Scale",
+      "link": "https://thehackernews.com/2025/11/learn-how-leading-companies-secure.html",
+      "summary": "You\u2019ve probably already moved some of your business to the cloud\u2014or you\u2019re planning to. That\u2019s a smart move. It helps you work faster, serve your customers better, and stay ahead.\nBut as your cloud se...",
+      "published": "2025-11-18T20:55:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "GitHub: Git operation failures",
+      "link": "https://www.githubstatus.com/incidents/5q7nmlxz30sk",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=45971726\">Comments</a>...",
+      "published": "2025-11-18T20:40:46+00:00",
+      "domain": "githubstatus.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Oracle is already underwater on its \u2018astonishing\u2019 $300bn OpenAI deal",
+      "link": "https://www.reddit.com/r/technology/comments/1p0myv7/oracle_is_already_underwater_on_its_astonishing/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1p0myv7/oracle_is_already_underwater_on_its_astonishing/\"> <img alt=\"Oracle is already underwater on its \u2018astonishing\u2019 $300bn Ope...",
+      "published": "2025-11-18T20:29:20+00:00",
+      "domain": "reddit.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
         "anarchy": []
       }
     }

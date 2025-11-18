@@ -156,9 +156,11 @@ class FeedNecromancer:
         
         # Add your blog/medium RSS feeds here
         self.feeds = [
-            "https://techcrunch.com/feed/",  # Your dev.to feed
+            "https://feeds.feedburner.com/TheHackersNews",  # Your dev.to feed
             "https://news.ycombinator.com/rss",  # Your Medium feed
-            # Add more feeds as needed
+            "https://hnrss.org/newest",  # Ars Technica
+            "https://blog.google/technology/ai/rss/",  # Schneier on Security
+            "https://www.reddit.com/r/technology/.rss"  # TechCrunch
         ]
     
     def parse_feed(self, feed_url):
