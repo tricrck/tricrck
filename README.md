@@ -16,16 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Meta Expands WhatsApp Security Research with New Proxy Tool and $4M in Bounties This Year
+### Cloudflare outage on November 18, 2025 post mortem
 - **Published**: November 18, 2025
-- **Summary**: Meta on Tuesday said it has made available a tool called WhatsApp Research Proxy to some of its long-time bug bounty researchers to help improve the p...
-- **Keywords**: bug
-- [Read more](https://thehackernews.com/2025/11/meta-expands-whatsapp-security-research.html)
+- **Summary**: ......
+- **Keywords**: outage
+- [Read more](https://blog.cloudflare.com/18-november-2025-outage/)
 
-### Sneaky 2FA Phishing Kit Adds BitB Pop-ups Designed to Mimic the Browser Address Bar
+### Cloudflare outage on November 18, 2025 – Caused by single .unwrap()
 - **Published**: November 19, 2025
-- **Summary**: The malware authors associated with a Phishing-as-a-Service (PhaaS) kit known as Sneaky 2FA have incorporated Browser-in-the-Browser (BitB) functional...
-- [Read more](https://thehackernews.com/2025/11/sneaky-2fa-phishing-kit-adds-bitb-pop.html)
+- **Summary**: https://old.reddit.com/r/rust/comments/1p0susm/cloudflare_outage_on_november_1......
+- **Keywords**: outage
+- [Read more](https://old.reddit.com/r/rust/comments/1p0susm/cloudflare_outage_on_november_18_2025_caused_by/)
 
 ---
 
