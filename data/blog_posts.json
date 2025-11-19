@@ -1,28 +1,46 @@
 {
   "chaos_ranked": [
     {
-      "title": "Cloudflare outage on November 18, 2025 post mortem",
-      "link": "https://blog.cloudflare.com/18-november-2025-outage/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=45973709\">Comments</a>...",
-      "published": "2025-11-18T23:31:22+00:00",
-      "domain": "blog.cloudflare.com",
+      "title": "The semantic chaos of AI coding (and a proposed classification)",
+      "link": "https://www.strategyradar.ai/blog/vibe-coding-trap/",
+      "summary": "<p>Article URL: <a href=\"https://www.strategyradar.ai/blog/vibe-coding-trap/\">https://www.strategyradar.ai/blog/vibe-coding-trap/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id...",
+      "published": "2025-11-19T12:40:34+00:00",
+      "domain": "strategyradar.ai",
       "scores": {
-        "chaos": 28.8,
+        "chaos": 17.3,
         "anarchy": 3.0,
-        "overall": 15.9
+        "overall": 10.2
       },
       "keywords": {
         "chaos": [
-          "outage"
+          "chaos"
         ],
         "anarchy": []
       }
     },
     {
-      "title": "Fortinet Warns of New FortiWeb CVE-2025-58034 Vulnerability Exploited in the Wild",
-      "link": "https://thehackernews.com/2025/11/fortinet-warns-of-new-fortiweb-cve-2025.html",
-      "summary": "Fortinet has warned of a new security flaw in FortiWeb that it said has been exploited in the wild.\nThe medium-severity vulnerability, tracked as CVE-2025-58034, carries a CVSS score of 6.7 out of a m...",
-      "published": "2025-11-19T09:50:00+05:30",
+      "title": "Application Containment: How to Use Ringfencing to Prevent the Weaponization of Trusted Software",
+      "link": "https://thehackernews.com/2025/11/application-containment-how-to-use.html",
+      "summary": "The challenge facing security leaders is monumental: Securing environments where failure is not an option. Reliance on traditional security postures, such as Endpoint Detection and Response (EDR) to c...",
+      "published": "2025-11-19T17:25:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 14.7,
+        "anarchy": 3.0,
+        "overall": 8.8
+      },
+      "keywords": {
+        "chaos": [
+          "failure"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "EdgeStepper Implant Reroutes DNS Queries to Deploy Malware via Hijacked Software Updates",
+      "link": "https://thehackernews.com/2025/11/edgestepper-implant-reroutes-dns.html",
+      "summary": "The threat actor known as PlushDaemon has been observed using a previously undocumented Go-based network backdoor codenamed EdgeStepper to facilitate adversary-in-the-middle (AitM) attacks.\nEdgeSteppe...",
+      "published": "2025-11-19T15:30:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -35,10 +53,61 @@
       }
     },
     {
-      "title": "Nomor Call Center Agoda Indonesia",
-      "link": "https://news.ycombinator.com/item?id=45976488",
-      "summary": "<p>Nomor Call Center Agoda Reschedule Silahkan Hubungi 0815.4054.505</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45976488\">https://news.ycombinator.com/item?id=45976488</...",
-      "published": "2025-11-19T06:29:42+00:00",
+      "title": "ServiceNow AI Agents Can Be Tricked Into Acting Against Each Other via Second-Order Prompts",
+      "link": "https://thehackernews.com/2025/11/servicenow-ai-agents-can-be-tricked.html",
+      "summary": "Malicious actors can exploit default configurations in ServiceNow's Now Assist generative artificial intelligence (AI) platform and leverage its agentic capabilities to conduct prompt injection attack...",
+      "published": "2025-11-19T15:29:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Expert Warns of Risks in Substance Use Reduction Apps",
+      "link": "https://www.rutgers.edu/news/unregulated-and-unsafe-expert-warns-risks-substance-use-reduction-apps",
+      "summary": "<p>Article URL: <a href=\"https://www.rutgers.edu/news/unregulated-and-unsafe-expert-warns-risks-substance-use-reduction-apps\">https://www.rutgers.edu/news/unregulated-and-unsafe-expert-warns-risks-sub...",
+      "published": "2025-11-19T12:41:33+00:00",
+      "domain": "rutgers.edu",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 26.9,
+        "overall": 15.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": [
+          "unregulated",
+          "unregulated"
+        ]
+      }
+    },
+    {
+      "title": "Flyway Meets the Unsupported: Building the Missing Pieces to Make Migrations Fly",
+      "link": "https://medium.com/att-israel/flyway-meets-the-unsupported-building-the-missing-pieces-to-make-migrations-fly-7be4f944ce4b",
+      "summary": "<p>Article URL: <a href=\"https://medium.com/att-israel/flyway-meets-the-unsupported-building-the-missing-pieces-to-make-migrations-fly-7be4f944ce4b\">https://medium.com/att-israel/flyway-meets-the-unsu...",
+      "published": "2025-11-19T12:40:12+00:00",
+      "domain": "medium.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Berapakah Nomor WhatsApp Tokopedia?",
+      "link": "https://news.ycombinator.com/item?id=45978891",
+      "summary": "<p>Tokopedia Menyediakan layanan Whatsapp? Untuk menghubungi layanan Tokopedia melalui (WA)62.O813.6034.624.kamu bisa</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45978891...",
+      "published": "2025-11-19T12:39:53+00:00",
       "domain": "news.ycombinator.com",
       "scores": {
         "chaos": 3.0,
@@ -51,11 +120,11 @@
       }
     },
     {
-      "title": "Mac Keyboard Shortcuts",
-      "link": "https://support.apple.com/en-ca/102650",
-      "summary": "<p>Article URL: <a href=\"https://support.apple.com/en-ca/102650\">https://support.apple.com/en-ca/102650</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45976479\">https://news.yc...",
-      "published": "2025-11-19T06:28:28+00:00",
-      "domain": "support.apple.com",
+      "title": "Geothermal's Time Has Come",
+      "link": "https://www.economist.com/interactive/science-and-technology/2025/11/18/geothermal-time-has-finally-come",
+      "summary": "<p>Article URL: <a href=\"https://www.economist.com/interactive/science-and-technology/2025/11/18/geothermal-time-has-finally-come\">https://www.economist.com/interactive/science-and-technology/2025/11/...",
+      "published": "2025-11-19T12:38:44+00:00",
+      "domain": "economist.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -67,58 +136,10 @@
       }
     },
     {
-      "title": "Disaster Recovery",
-      "link": "https://www.contraption.co/disaster-recovery/",
-      "summary": "<p>Article URL: <a href=\"https://www.contraption.co/disaster-recovery/\">https://www.contraption.co/disaster-recovery/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45976474\">h...",
-      "published": "2025-11-19T06:27:26+00:00",
-      "domain": "contraption.co",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: App Screenshot Kit \u2013 App Store screenshots from raw images",
-      "link": "https://app.appscreenshotkit.com/editor",
-      "summary": "<p>What it does<p>App Screenshot Kit converts raw ios screenshots into ios App Store compliant image sets. It removes the usual workflow of importing into a design tool, placing into device frames, re...",
-      "published": "2025-11-19T06:25:26+00:00",
-      "domain": "app.appscreenshotkit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "fnox \u2013 Manage secrets with encryption or cloud providers - or both",
-      "link": "https://fnox.jdx.dev/",
-      "summary": "<p>Article URL: <a href=\"https://fnox.jdx.dev/\">https://fnox.jdx.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45976463\">https://news.ycombinator.com/item?id=45976463</a>...",
-      "published": "2025-11-19T06:25:16+00:00",
-      "domain": "fnox.jdx.dev",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "CDC data confirms US is 2 months away from losing measles elimination status | Elimination status is lost if the virus spreads continuously for 12 months.",
-      "link": "https://www.reddit.com/r/technology/comments/1p0uxej/cdc_data_confirms_us_is_2_months_away_from_losing/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1p0uxej/cdc_data_confirms_us_is_2_months_away_from_losing/\"> <img alt=\"CDC data confirms US is 2 months away from losing measles ...",
-      "published": "2025-11-19T01:58:38+00:00",
+      "title": "Larry Summers resigns from OpenAI board amid Epstein revelations",
+      "link": "https://www.reddit.com/r/technology/comments/1p163bn/larry_summers_resigns_from_openai_board_amid/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1p163bn/larry_summers_resigns_from_openai_board_amid/\"> <img alt=\"Larry Summers resigns from OpenAI board amid Epstein revelation...",
+      "published": "2025-11-19T12:13:52+00:00",
       "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
@@ -131,26 +152,10 @@
       }
     },
     {
-      "title": "I just want working RCS messaging",
-      "link": "https://wt.gd/i-just-want-my-rcs-messaging-to-work",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=45974869\">Comments</a>...",
-      "published": "2025-11-19T01:41:33+00:00",
-      "domain": "wt.gd",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Sneaky 2FA Phishing Kit Adds BitB Pop-ups Designed to Mimic the Browser Address Bar",
-      "link": "https://thehackernews.com/2025/11/sneaky-2fa-phishing-kit-adds-bitb-pop.html",
-      "summary": "The malware authors associated with a Phishing-as-a-Service (PhaaS) kit known as Sneaky 2FA have incorporated Browser-in-the-Browser (BitB) functionality into their arsenal, underscoring the continued...",
-      "published": "2025-11-19T00:01:00+05:30",
+      "title": "Fortinet Warns of New FortiWeb CVE-2025-58034 Vulnerability Exploited in the Wild",
+      "link": "https://thehackernews.com/2025/11/fortinet-warns-of-new-fortiweb-cve-2025.html",
+      "summary": "Fortinet has warned of a new security flaw in FortiWeb that it said has been exploited in the wild.\nThe medium-severity vulnerability, tracked as CVE-2025-58034, carries a CVSS score of 6.7 out of a m...",
+      "published": "2025-11-19T09:50:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -165,10 +170,47 @@
   ],
   "anarchy_ranked": [
     {
-      "title": "Fortinet Warns of New FortiWeb CVE-2025-58034 Vulnerability Exploited in the Wild",
-      "link": "https://thehackernews.com/2025/11/fortinet-warns-of-new-fortiweb-cve-2025.html",
-      "summary": "Fortinet has warned of a new security flaw in FortiWeb that it said has been exploited in the wild.\nThe medium-severity vulnerability, tracked as CVE-2025-58034, carries a CVSS score of 6.7 out of a m...",
-      "published": "2025-11-19T09:50:00+05:30",
+      "title": "Expert Warns of Risks in Substance Use Reduction Apps",
+      "link": "https://www.rutgers.edu/news/unregulated-and-unsafe-expert-warns-risks-substance-use-reduction-apps",
+      "summary": "<p>Article URL: <a href=\"https://www.rutgers.edu/news/unregulated-and-unsafe-expert-warns-risks-substance-use-reduction-apps\">https://www.rutgers.edu/news/unregulated-and-unsafe-expert-warns-risks-sub...",
+      "published": "2025-11-19T12:41:33+00:00",
+      "domain": "rutgers.edu",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 26.9,
+        "overall": 15.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": [
+          "unregulated",
+          "unregulated"
+        ]
+      }
+    },
+    {
+      "title": "Application Containment: How to Use Ringfencing to Prevent the Weaponization of Trusted Software",
+      "link": "https://thehackernews.com/2025/11/application-containment-how-to-use.html",
+      "summary": "The challenge facing security leaders is monumental: Securing environments where failure is not an option. Reliance on traditional security postures, such as Endpoint Detection and Response (EDR) to c...",
+      "published": "2025-11-19T17:25:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 14.7,
+        "anarchy": 3.0,
+        "overall": 8.8
+      },
+      "keywords": {
+        "chaos": [
+          "failure"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "EdgeStepper Implant Reroutes DNS Queries to Deploy Malware via Hijacked Software Updates",
+      "link": "https://thehackernews.com/2025/11/edgestepper-implant-reroutes-dns.html",
+      "summary": "The threat actor known as PlushDaemon has been observed using a previously undocumented Go-based network backdoor codenamed EdgeStepper to facilitate adversary-in-the-middle (AitM) attacks.\nEdgeSteppe...",
+      "published": "2025-11-19T15:30:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -181,10 +223,60 @@
       }
     },
     {
-      "title": "Nomor Call Center Agoda Indonesia",
-      "link": "https://news.ycombinator.com/item?id=45976488",
-      "summary": "<p>Nomor Call Center Agoda Reschedule Silahkan Hubungi 0815.4054.505</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45976488\">https://news.ycombinator.com/item?id=45976488</...",
-      "published": "2025-11-19T06:29:42+00:00",
+      "title": "ServiceNow AI Agents Can Be Tricked Into Acting Against Each Other via Second-Order Prompts",
+      "link": "https://thehackernews.com/2025/11/servicenow-ai-agents-can-be-tricked.html",
+      "summary": "Malicious actors can exploit default configurations in ServiceNow's Now Assist generative artificial intelligence (AI) platform and leverage its agentic capabilities to conduct prompt injection attack...",
+      "published": "2025-11-19T15:29:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The semantic chaos of AI coding (and a proposed classification)",
+      "link": "https://www.strategyradar.ai/blog/vibe-coding-trap/",
+      "summary": "<p>Article URL: <a href=\"https://www.strategyradar.ai/blog/vibe-coding-trap/\">https://www.strategyradar.ai/blog/vibe-coding-trap/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id...",
+      "published": "2025-11-19T12:40:34+00:00",
+      "domain": "strategyradar.ai",
+      "scores": {
+        "chaos": 17.3,
+        "anarchy": 3.0,
+        "overall": 10.2
+      },
+      "keywords": {
+        "chaos": [
+          "chaos"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Flyway Meets the Unsupported: Building the Missing Pieces to Make Migrations Fly",
+      "link": "https://medium.com/att-israel/flyway-meets-the-unsupported-building-the-missing-pieces-to-make-migrations-fly-7be4f944ce4b",
+      "summary": "<p>Article URL: <a href=\"https://medium.com/att-israel/flyway-meets-the-unsupported-building-the-missing-pieces-to-make-migrations-fly-7be4f944ce4b\">https://medium.com/att-israel/flyway-meets-the-unsu...",
+      "published": "2025-11-19T12:40:12+00:00",
+      "domain": "medium.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Berapakah Nomor WhatsApp Tokopedia?",
+      "link": "https://news.ycombinator.com/item?id=45978891",
+      "summary": "<p>Tokopedia Menyediakan layanan Whatsapp? Untuk menghubungi layanan Tokopedia melalui (WA)62.O813.6034.624.kamu bisa</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45978891...",
+      "published": "2025-11-19T12:39:53+00:00",
       "domain": "news.ycombinator.com",
       "scores": {
         "chaos": 3.0,
@@ -197,11 +289,11 @@
       }
     },
     {
-      "title": "Mac Keyboard Shortcuts",
-      "link": "https://support.apple.com/en-ca/102650",
-      "summary": "<p>Article URL: <a href=\"https://support.apple.com/en-ca/102650\">https://support.apple.com/en-ca/102650</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45976479\">https://news.yc...",
-      "published": "2025-11-19T06:28:28+00:00",
-      "domain": "support.apple.com",
+      "title": "Geothermal's Time Has Come",
+      "link": "https://www.economist.com/interactive/science-and-technology/2025/11/18/geothermal-time-has-finally-come",
+      "summary": "<p>Article URL: <a href=\"https://www.economist.com/interactive/science-and-technology/2025/11/18/geothermal-time-has-finally-come\">https://www.economist.com/interactive/science-and-technology/2025/11/...",
+      "published": "2025-11-19T12:38:44+00:00",
+      "domain": "economist.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -213,58 +305,10 @@
       }
     },
     {
-      "title": "Disaster Recovery",
-      "link": "https://www.contraption.co/disaster-recovery/",
-      "summary": "<p>Article URL: <a href=\"https://www.contraption.co/disaster-recovery/\">https://www.contraption.co/disaster-recovery/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45976474\">h...",
-      "published": "2025-11-19T06:27:26+00:00",
-      "domain": "contraption.co",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: App Screenshot Kit \u2013 App Store screenshots from raw images",
-      "link": "https://app.appscreenshotkit.com/editor",
-      "summary": "<p>What it does<p>App Screenshot Kit converts raw ios screenshots into ios App Store compliant image sets. It removes the usual workflow of importing into a design tool, placing into device frames, re...",
-      "published": "2025-11-19T06:25:26+00:00",
-      "domain": "app.appscreenshotkit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "fnox \u2013 Manage secrets with encryption or cloud providers - or both",
-      "link": "https://fnox.jdx.dev/",
-      "summary": "<p>Article URL: <a href=\"https://fnox.jdx.dev/\">https://fnox.jdx.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45976463\">https://news.ycombinator.com/item?id=45976463</a>...",
-      "published": "2025-11-19T06:25:16+00:00",
-      "domain": "fnox.jdx.dev",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "CDC data confirms US is 2 months away from losing measles elimination status | Elimination status is lost if the virus spreads continuously for 12 months.",
-      "link": "https://www.reddit.com/r/technology/comments/1p0uxej/cdc_data_confirms_us_is_2_months_away_from_losing/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1p0uxej/cdc_data_confirms_us_is_2_months_away_from_losing/\"> <img alt=\"CDC data confirms US is 2 months away from losing measles ...",
-      "published": "2025-11-19T01:58:38+00:00",
+      "title": "Larry Summers resigns from OpenAI board amid Epstein revelations",
+      "link": "https://www.reddit.com/r/technology/comments/1p163bn/larry_summers_resigns_from_openai_board_amid/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1p163bn/larry_summers_resigns_from_openai_board_amid/\"> <img alt=\"Larry Summers resigns from OpenAI board amid Epstein revelation...",
+      "published": "2025-11-19T12:13:52+00:00",
       "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
@@ -277,26 +321,10 @@
       }
     },
     {
-      "title": "I just want working RCS messaging",
-      "link": "https://wt.gd/i-just-want-my-rcs-messaging-to-work",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=45974869\">Comments</a>...",
-      "published": "2025-11-19T01:41:33+00:00",
-      "domain": "wt.gd",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Sneaky 2FA Phishing Kit Adds BitB Pop-ups Designed to Mimic the Browser Address Bar",
-      "link": "https://thehackernews.com/2025/11/sneaky-2fa-phishing-kit-adds-bitb-pop.html",
-      "summary": "The malware authors associated with a Phishing-as-a-Service (PhaaS) kit known as Sneaky 2FA have incorporated Browser-in-the-Browser (BitB) functionality into their arsenal, underscoring the continued...",
-      "published": "2025-11-19T00:01:00+05:30",
+      "title": "Fortinet Warns of New FortiWeb CVE-2025-58034 Vulnerability Exploited in the Wild",
+      "link": "https://thehackernews.com/2025/11/fortinet-warns-of-new-fortiweb-cve-2025.html",
+      "summary": "Fortinet has warned of a new security flaw in FortiWeb that it said has been exploited in the wild.\nThe medium-severity vulnerability, tracked as CVE-2025-58034, carries a CVSS score of 6.7 out of a m...",
+      "published": "2025-11-19T09:50:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -305,52 +333,71 @@
       },
       "keywords": {
         "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Cloudflare outage on November 18, 2025 post mortem",
-      "link": "https://blog.cloudflare.com/18-november-2025-outage/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=45973709\">Comments</a>...",
-      "published": "2025-11-18T23:31:22+00:00",
-      "domain": "blog.cloudflare.com",
-      "scores": {
-        "chaos": 28.8,
-        "anarchy": 3.0,
-        "overall": 15.9
-      },
-      "keywords": {
-        "chaos": [
-          "outage"
-        ],
         "anarchy": []
       }
     }
   ],
   "overall_ranked": [
     {
-      "title": "Cloudflare outage on November 18, 2025 post mortem",
-      "link": "https://blog.cloudflare.com/18-november-2025-outage/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=45973709\">Comments</a>...",
-      "published": "2025-11-18T23:31:22+00:00",
-      "domain": "blog.cloudflare.com",
+      "title": "Expert Warns of Risks in Substance Use Reduction Apps",
+      "link": "https://www.rutgers.edu/news/unregulated-and-unsafe-expert-warns-risks-substance-use-reduction-apps",
+      "summary": "<p>Article URL: <a href=\"https://www.rutgers.edu/news/unregulated-and-unsafe-expert-warns-risks-substance-use-reduction-apps\">https://www.rutgers.edu/news/unregulated-and-unsafe-expert-warns-risks-sub...",
+      "published": "2025-11-19T12:41:33+00:00",
+      "domain": "rutgers.edu",
       "scores": {
-        "chaos": 28.8,
+        "chaos": 3.0,
+        "anarchy": 26.9,
+        "overall": 15.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": [
+          "unregulated",
+          "unregulated"
+        ]
+      }
+    },
+    {
+      "title": "The semantic chaos of AI coding (and a proposed classification)",
+      "link": "https://www.strategyradar.ai/blog/vibe-coding-trap/",
+      "summary": "<p>Article URL: <a href=\"https://www.strategyradar.ai/blog/vibe-coding-trap/\">https://www.strategyradar.ai/blog/vibe-coding-trap/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id...",
+      "published": "2025-11-19T12:40:34+00:00",
+      "domain": "strategyradar.ai",
+      "scores": {
+        "chaos": 17.3,
         "anarchy": 3.0,
-        "overall": 15.9
+        "overall": 10.2
       },
       "keywords": {
         "chaos": [
-          "outage"
+          "chaos"
         ],
         "anarchy": []
       }
     },
     {
-      "title": "Fortinet Warns of New FortiWeb CVE-2025-58034 Vulnerability Exploited in the Wild",
-      "link": "https://thehackernews.com/2025/11/fortinet-warns-of-new-fortiweb-cve-2025.html",
-      "summary": "Fortinet has warned of a new security flaw in FortiWeb that it said has been exploited in the wild.\nThe medium-severity vulnerability, tracked as CVE-2025-58034, carries a CVSS score of 6.7 out of a m...",
-      "published": "2025-11-19T09:50:00+05:30",
+      "title": "Application Containment: How to Use Ringfencing to Prevent the Weaponization of Trusted Software",
+      "link": "https://thehackernews.com/2025/11/application-containment-how-to-use.html",
+      "summary": "The challenge facing security leaders is monumental: Securing environments where failure is not an option. Reliance on traditional security postures, such as Endpoint Detection and Response (EDR) to c...",
+      "published": "2025-11-19T17:25:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 14.7,
+        "anarchy": 3.0,
+        "overall": 8.8
+      },
+      "keywords": {
+        "chaos": [
+          "failure"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "EdgeStepper Implant Reroutes DNS Queries to Deploy Malware via Hijacked Software Updates",
+      "link": "https://thehackernews.com/2025/11/edgestepper-implant-reroutes-dns.html",
+      "summary": "The threat actor known as PlushDaemon has been observed using a previously undocumented Go-based network backdoor codenamed EdgeStepper to facilitate adversary-in-the-middle (AitM) attacks.\nEdgeSteppe...",
+      "published": "2025-11-19T15:30:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -363,10 +410,42 @@
       }
     },
     {
-      "title": "Nomor Call Center Agoda Indonesia",
-      "link": "https://news.ycombinator.com/item?id=45976488",
-      "summary": "<p>Nomor Call Center Agoda Reschedule Silahkan Hubungi 0815.4054.505</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45976488\">https://news.ycombinator.com/item?id=45976488</...",
-      "published": "2025-11-19T06:29:42+00:00",
+      "title": "ServiceNow AI Agents Can Be Tricked Into Acting Against Each Other via Second-Order Prompts",
+      "link": "https://thehackernews.com/2025/11/servicenow-ai-agents-can-be-tricked.html",
+      "summary": "Malicious actors can exploit default configurations in ServiceNow's Now Assist generative artificial intelligence (AI) platform and leverage its agentic capabilities to conduct prompt injection attack...",
+      "published": "2025-11-19T15:29:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Flyway Meets the Unsupported: Building the Missing Pieces to Make Migrations Fly",
+      "link": "https://medium.com/att-israel/flyway-meets-the-unsupported-building-the-missing-pieces-to-make-migrations-fly-7be4f944ce4b",
+      "summary": "<p>Article URL: <a href=\"https://medium.com/att-israel/flyway-meets-the-unsupported-building-the-missing-pieces-to-make-migrations-fly-7be4f944ce4b\">https://medium.com/att-israel/flyway-meets-the-unsu...",
+      "published": "2025-11-19T12:40:12+00:00",
+      "domain": "medium.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Berapakah Nomor WhatsApp Tokopedia?",
+      "link": "https://news.ycombinator.com/item?id=45978891",
+      "summary": "<p>Tokopedia Menyediakan layanan Whatsapp? Untuk menghubungi layanan Tokopedia melalui (WA)62.O813.6034.624.kamu bisa</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45978891...",
+      "published": "2025-11-19T12:39:53+00:00",
       "domain": "news.ycombinator.com",
       "scores": {
         "chaos": 3.0,
@@ -379,11 +458,11 @@
       }
     },
     {
-      "title": "Mac Keyboard Shortcuts",
-      "link": "https://support.apple.com/en-ca/102650",
-      "summary": "<p>Article URL: <a href=\"https://support.apple.com/en-ca/102650\">https://support.apple.com/en-ca/102650</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45976479\">https://news.yc...",
-      "published": "2025-11-19T06:28:28+00:00",
-      "domain": "support.apple.com",
+      "title": "Geothermal's Time Has Come",
+      "link": "https://www.economist.com/interactive/science-and-technology/2025/11/18/geothermal-time-has-finally-come",
+      "summary": "<p>Article URL: <a href=\"https://www.economist.com/interactive/science-and-technology/2025/11/18/geothermal-time-has-finally-come\">https://www.economist.com/interactive/science-and-technology/2025/11/...",
+      "published": "2025-11-19T12:38:44+00:00",
+      "domain": "economist.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -395,58 +474,10 @@
       }
     },
     {
-      "title": "Disaster Recovery",
-      "link": "https://www.contraption.co/disaster-recovery/",
-      "summary": "<p>Article URL: <a href=\"https://www.contraption.co/disaster-recovery/\">https://www.contraption.co/disaster-recovery/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45976474\">h...",
-      "published": "2025-11-19T06:27:26+00:00",
-      "domain": "contraption.co",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: App Screenshot Kit \u2013 App Store screenshots from raw images",
-      "link": "https://app.appscreenshotkit.com/editor",
-      "summary": "<p>What it does<p>App Screenshot Kit converts raw ios screenshots into ios App Store compliant image sets. It removes the usual workflow of importing into a design tool, placing into device frames, re...",
-      "published": "2025-11-19T06:25:26+00:00",
-      "domain": "app.appscreenshotkit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "fnox \u2013 Manage secrets with encryption or cloud providers - or both",
-      "link": "https://fnox.jdx.dev/",
-      "summary": "<p>Article URL: <a href=\"https://fnox.jdx.dev/\">https://fnox.jdx.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45976463\">https://news.ycombinator.com/item?id=45976463</a>...",
-      "published": "2025-11-19T06:25:16+00:00",
-      "domain": "fnox.jdx.dev",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "CDC data confirms US is 2 months away from losing measles elimination status | Elimination status is lost if the virus spreads continuously for 12 months.",
-      "link": "https://www.reddit.com/r/technology/comments/1p0uxej/cdc_data_confirms_us_is_2_months_away_from_losing/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1p0uxej/cdc_data_confirms_us_is_2_months_away_from_losing/\"> <img alt=\"CDC data confirms US is 2 months away from losing measles ...",
-      "published": "2025-11-19T01:58:38+00:00",
+      "title": "Larry Summers resigns from OpenAI board amid Epstein revelations",
+      "link": "https://www.reddit.com/r/technology/comments/1p163bn/larry_summers_resigns_from_openai_board_amid/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1p163bn/larry_summers_resigns_from_openai_board_amid/\"> <img alt=\"Larry Summers resigns from OpenAI board amid Epstein revelation...",
+      "published": "2025-11-19T12:13:52+00:00",
       "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
@@ -459,26 +490,10 @@
       }
     },
     {
-      "title": "I just want working RCS messaging",
-      "link": "https://wt.gd/i-just-want-my-rcs-messaging-to-work",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=45974869\">Comments</a>...",
-      "published": "2025-11-19T01:41:33+00:00",
-      "domain": "wt.gd",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Sneaky 2FA Phishing Kit Adds BitB Pop-ups Designed to Mimic the Browser Address Bar",
-      "link": "https://thehackernews.com/2025/11/sneaky-2fa-phishing-kit-adds-bitb-pop.html",
-      "summary": "The malware authors associated with a Phishing-as-a-Service (PhaaS) kit known as Sneaky 2FA have incorporated Browser-in-the-Browser (BitB) functionality into their arsenal, underscoring the continued...",
-      "published": "2025-11-19T00:01:00+05:30",
+      "title": "Fortinet Warns of New FortiWeb CVE-2025-58034 Vulnerability Exploited in the Wild",
+      "link": "https://thehackernews.com/2025/11/fortinet-warns-of-new-fortiweb-cve-2025.html",
+      "summary": "Fortinet has warned of a new security flaw in FortiWeb that it said has been exploited in the wild.\nThe medium-severity vulnerability, tracked as CVE-2025-58034, carries a CVSS score of 6.7 out of a m...",
+      "published": "2025-11-19T09:50:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -493,10 +508,28 @@
   ],
   "all_articles": [
     {
-      "title": "Fortinet Warns of New FortiWeb CVE-2025-58034 Vulnerability Exploited in the Wild",
-      "link": "https://thehackernews.com/2025/11/fortinet-warns-of-new-fortiweb-cve-2025.html",
-      "summary": "Fortinet has warned of a new security flaw in FortiWeb that it said has been exploited in the wild.\nThe medium-severity vulnerability, tracked as CVE-2025-58034, carries a CVSS score of 6.7 out of a m...",
-      "published": "2025-11-19T09:50:00+05:30",
+      "title": "Application Containment: How to Use Ringfencing to Prevent the Weaponization of Trusted Software",
+      "link": "https://thehackernews.com/2025/11/application-containment-how-to-use.html",
+      "summary": "The challenge facing security leaders is monumental: Securing environments where failure is not an option. Reliance on traditional security postures, such as Endpoint Detection and Response (EDR) to c...",
+      "published": "2025-11-19T17:25:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 14.7,
+        "anarchy": 3.0,
+        "overall": 8.8
+      },
+      "keywords": {
+        "chaos": [
+          "failure"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "EdgeStepper Implant Reroutes DNS Queries to Deploy Malware via Hijacked Software Updates",
+      "link": "https://thehackernews.com/2025/11/edgestepper-implant-reroutes-dns.html",
+      "summary": "The threat actor known as PlushDaemon has been observed using a previously undocumented Go-based network backdoor codenamed EdgeStepper to facilitate adversary-in-the-middle (AitM) attacks.\nEdgeSteppe...",
+      "published": "2025-11-19T15:30:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -509,10 +542,79 @@
       }
     },
     {
-      "title": "Nomor Call Center Agoda Indonesia",
-      "link": "https://news.ycombinator.com/item?id=45976488",
-      "summary": "<p>Nomor Call Center Agoda Reschedule Silahkan Hubungi 0815.4054.505</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45976488\">https://news.ycombinator.com/item?id=45976488</...",
-      "published": "2025-11-19T06:29:42+00:00",
+      "title": "ServiceNow AI Agents Can Be Tricked Into Acting Against Each Other via Second-Order Prompts",
+      "link": "https://thehackernews.com/2025/11/servicenow-ai-agents-can-be-tricked.html",
+      "summary": "Malicious actors can exploit default configurations in ServiceNow's Now Assist generative artificial intelligence (AI) platform and leverage its agentic capabilities to conduct prompt injection attack...",
+      "published": "2025-11-19T15:29:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Expert Warns of Risks in Substance Use Reduction Apps",
+      "link": "https://www.rutgers.edu/news/unregulated-and-unsafe-expert-warns-risks-substance-use-reduction-apps",
+      "summary": "<p>Article URL: <a href=\"https://www.rutgers.edu/news/unregulated-and-unsafe-expert-warns-risks-substance-use-reduction-apps\">https://www.rutgers.edu/news/unregulated-and-unsafe-expert-warns-risks-sub...",
+      "published": "2025-11-19T12:41:33+00:00",
+      "domain": "rutgers.edu",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 26.9,
+        "overall": 15.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": [
+          "unregulated",
+          "unregulated"
+        ]
+      }
+    },
+    {
+      "title": "The semantic chaos of AI coding (and a proposed classification)",
+      "link": "https://www.strategyradar.ai/blog/vibe-coding-trap/",
+      "summary": "<p>Article URL: <a href=\"https://www.strategyradar.ai/blog/vibe-coding-trap/\">https://www.strategyradar.ai/blog/vibe-coding-trap/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id...",
+      "published": "2025-11-19T12:40:34+00:00",
+      "domain": "strategyradar.ai",
+      "scores": {
+        "chaos": 17.3,
+        "anarchy": 3.0,
+        "overall": 10.2
+      },
+      "keywords": {
+        "chaos": [
+          "chaos"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Flyway Meets the Unsupported: Building the Missing Pieces to Make Migrations Fly",
+      "link": "https://medium.com/att-israel/flyway-meets-the-unsupported-building-the-missing-pieces-to-make-migrations-fly-7be4f944ce4b",
+      "summary": "<p>Article URL: <a href=\"https://medium.com/att-israel/flyway-meets-the-unsupported-building-the-missing-pieces-to-make-migrations-fly-7be4f944ce4b\">https://medium.com/att-israel/flyway-meets-the-unsu...",
+      "published": "2025-11-19T12:40:12+00:00",
+      "domain": "medium.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Berapakah Nomor WhatsApp Tokopedia?",
+      "link": "https://news.ycombinator.com/item?id=45978891",
+      "summary": "<p>Tokopedia Menyediakan layanan Whatsapp? Untuk menghubungi layanan Tokopedia melalui (WA)62.O813.6034.624.kamu bisa</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45978891...",
+      "published": "2025-11-19T12:39:53+00:00",
       "domain": "news.ycombinator.com",
       "scores": {
         "chaos": 3.0,
@@ -525,11 +627,11 @@
       }
     },
     {
-      "title": "Mac Keyboard Shortcuts",
-      "link": "https://support.apple.com/en-ca/102650",
-      "summary": "<p>Article URL: <a href=\"https://support.apple.com/en-ca/102650\">https://support.apple.com/en-ca/102650</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45976479\">https://news.yc...",
-      "published": "2025-11-19T06:28:28+00:00",
-      "domain": "support.apple.com",
+      "title": "Geothermal's Time Has Come",
+      "link": "https://www.economist.com/interactive/science-and-technology/2025/11/18/geothermal-time-has-finally-come",
+      "summary": "<p>Article URL: <a href=\"https://www.economist.com/interactive/science-and-technology/2025/11/18/geothermal-time-has-finally-come\">https://www.economist.com/interactive/science-and-technology/2025/11/...",
+      "published": "2025-11-19T12:38:44+00:00",
+      "domain": "economist.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -541,58 +643,10 @@
       }
     },
     {
-      "title": "Disaster Recovery",
-      "link": "https://www.contraption.co/disaster-recovery/",
-      "summary": "<p>Article URL: <a href=\"https://www.contraption.co/disaster-recovery/\">https://www.contraption.co/disaster-recovery/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45976474\">h...",
-      "published": "2025-11-19T06:27:26+00:00",
-      "domain": "contraption.co",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: App Screenshot Kit \u2013 App Store screenshots from raw images",
-      "link": "https://app.appscreenshotkit.com/editor",
-      "summary": "<p>What it does<p>App Screenshot Kit converts raw ios screenshots into ios App Store compliant image sets. It removes the usual workflow of importing into a design tool, placing into device frames, re...",
-      "published": "2025-11-19T06:25:26+00:00",
-      "domain": "app.appscreenshotkit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "fnox \u2013 Manage secrets with encryption or cloud providers - or both",
-      "link": "https://fnox.jdx.dev/",
-      "summary": "<p>Article URL: <a href=\"https://fnox.jdx.dev/\">https://fnox.jdx.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45976463\">https://news.ycombinator.com/item?id=45976463</a>...",
-      "published": "2025-11-19T06:25:16+00:00",
-      "domain": "fnox.jdx.dev",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "CDC data confirms US is 2 months away from losing measles elimination status | Elimination status is lost if the virus spreads continuously for 12 months.",
-      "link": "https://www.reddit.com/r/technology/comments/1p0uxej/cdc_data_confirms_us_is_2_months_away_from_losing/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1p0uxej/cdc_data_confirms_us_is_2_months_away_from_losing/\"> <img alt=\"CDC data confirms US is 2 months away from losing measles ...",
-      "published": "2025-11-19T01:58:38+00:00",
+      "title": "Larry Summers resigns from OpenAI board amid Epstein revelations",
+      "link": "https://www.reddit.com/r/technology/comments/1p163bn/larry_summers_resigns_from_openai_board_amid/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1p163bn/larry_summers_resigns_from_openai_board_amid/\"> <img alt=\"Larry Summers resigns from OpenAI board amid Epstein revelation...",
+      "published": "2025-11-19T12:13:52+00:00",
       "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
@@ -605,26 +659,10 @@
       }
     },
     {
-      "title": "I just want working RCS messaging",
-      "link": "https://wt.gd/i-just-want-my-rcs-messaging-to-work",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=45974869\">Comments</a>...",
-      "published": "2025-11-19T01:41:33+00:00",
-      "domain": "wt.gd",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Sneaky 2FA Phishing Kit Adds BitB Pop-ups Designed to Mimic the Browser Address Bar",
-      "link": "https://thehackernews.com/2025/11/sneaky-2fa-phishing-kit-adds-bitb-pop.html",
-      "summary": "The malware authors associated with a Phishing-as-a-Service (PhaaS) kit known as Sneaky 2FA have incorporated Browser-in-the-Browser (BitB) functionality into their arsenal, underscoring the continued...",
-      "published": "2025-11-19T00:01:00+05:30",
+      "title": "Fortinet Warns of New FortiWeb CVE-2025-58034 Vulnerability Exploited in the Wild",
+      "link": "https://thehackernews.com/2025/11/fortinet-warns-of-new-fortiweb-cve-2025.html",
+      "summary": "Fortinet has warned of a new security flaw in FortiWeb that it said has been exploited in the wild.\nThe medium-severity vulnerability, tracked as CVE-2025-58034, carries a CVSS score of 6.7 out of a m...",
+      "published": "2025-11-19T09:50:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -633,24 +671,6 @@
       },
       "keywords": {
         "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Cloudflare outage on November 18, 2025 post mortem",
-      "link": "https://blog.cloudflare.com/18-november-2025-outage/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=45973709\">Comments</a>...",
-      "published": "2025-11-18T23:31:22+00:00",
-      "domain": "blog.cloudflare.com",
-      "scores": {
-        "chaos": 28.8,
-        "anarchy": 3.0,
-        "overall": 15.9
-      },
-      "keywords": {
-        "chaos": [
-          "outage"
-        ],
         "anarchy": []
       }
     }
