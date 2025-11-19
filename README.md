@@ -16,18 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### The semantic chaos of AI coding (and a proposed classification)
+### Hackers Actively Exploiting 7-Zip Symbolic Link–Based RCE Vulnerability (CVE-2025-11001)
 - **Published**: November 19, 2025
-- **Summary**: https://www.strategyradar.ai/blog/vibe-coding-trap/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id......
-- **Keywords**: chaos
-- [Read more](https://www.strategyradar.ai/blog/vibe-coding-trap/)
+- **Summary**: A recently disclosed security flaw impacting 7-Zip has come under active exploitation in the wild, according to an advisory issued by the U.K. NHS Eng...
+- [Read more](https://thehackernews.com/2025/11/hackers-actively-exploiting-7-zip.html)
 
-### Application Containment: How to Use Ringfencing to Prevent the Weaponization of Trusted Software
+### Python-Based WhatsApp Worm Spreads Eternidade Stealer Across Brazilian Devices
 - **Published**: November 19, 2025
-- **Summary**: The challenge facing security leaders is monumental: Securing environments where failure is not an option. Reliance on traditional security postures, ...
-- **Keywords**: failure
-- [Read more](https://thehackernews.com/2025/11/application-containment-how-to-use.html)
+- **Summary**: Cybersecurity researchers have disclosed details of a new campaign that leverages a combination of social engineering and WhatsApp hijacking to distri...
+- [Read more](https://thehackernews.com/2025/11/python-based-whatsapp-worm-spreads.html)
 
 ---
 

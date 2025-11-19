@@ -1,46 +1,10 @@
 {
   "chaos_ranked": [
     {
-      "title": "The semantic chaos of AI coding (and a proposed classification)",
-      "link": "https://www.strategyradar.ai/blog/vibe-coding-trap/",
-      "summary": "<p>Article URL: <a href=\"https://www.strategyradar.ai/blog/vibe-coding-trap/\">https://www.strategyradar.ai/blog/vibe-coding-trap/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id...",
-      "published": "2025-11-19T12:40:34+00:00",
-      "domain": "strategyradar.ai",
-      "scores": {
-        "chaos": 17.3,
-        "anarchy": 3.0,
-        "overall": 10.2
-      },
-      "keywords": {
-        "chaos": [
-          "chaos"
-        ],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Application Containment: How to Use Ringfencing to Prevent the Weaponization of Trusted Software",
-      "link": "https://thehackernews.com/2025/11/application-containment-how-to-use.html",
-      "summary": "The challenge facing security leaders is monumental: Securing environments where failure is not an option. Reliance on traditional security postures, such as Endpoint Detection and Response (EDR) to c...",
-      "published": "2025-11-19T17:25:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 14.7,
-        "anarchy": 3.0,
-        "overall": 8.8
-      },
-      "keywords": {
-        "chaos": [
-          "failure"
-        ],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "EdgeStepper Implant Reroutes DNS Queries to Deploy Malware via Hijacked Software Updates",
-      "link": "https://thehackernews.com/2025/11/edgestepper-implant-reroutes-dns.html",
-      "summary": "The threat actor known as PlushDaemon has been observed using a previously undocumented Go-based network backdoor codenamed EdgeStepper to facilitate adversary-in-the-middle (AitM) attacks.\nEdgeSteppe...",
-      "published": "2025-11-19T15:30:00+05:30",
+      "title": "Hackers Actively Exploiting 7-Zip Symbolic Link\u2013Based RCE Vulnerability (CVE-2025-11001)",
+      "link": "https://thehackernews.com/2025/11/hackers-actively-exploiting-7-zip.html",
+      "summary": "A recently disclosed security flaw impacting 7-Zip has come under active exploitation in the wild, according to an advisory issued by the U.K. NHS England Digital on Tuesday.\nThe vulnerability in ques...",
+      "published": "2025-11-19T21:57:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -53,10 +17,10 @@
       }
     },
     {
-      "title": "ServiceNow AI Agents Can Be Tricked Into Acting Against Each Other via Second-Order Prompts",
-      "link": "https://thehackernews.com/2025/11/servicenow-ai-agents-can-be-tricked.html",
-      "summary": "Malicious actors can exploit default configurations in ServiceNow's Now Assist generative artificial intelligence (AI) platform and leverage its agentic capabilities to conduct prompt injection attack...",
-      "published": "2025-11-19T15:29:00+05:30",
+      "title": "Python-Based WhatsApp Worm Spreads Eternidade Stealer Across Brazilian Devices",
+      "link": "https://thehackernews.com/2025/11/python-based-whatsapp-worm-spreads.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new campaign that leverages a combination of social engineering and WhatsApp hijacking to distribute a Delphi-based banking trojan named Eternidad...",
+      "published": "2025-11-19T21:05:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -69,94 +33,123 @@
       }
     },
     {
-      "title": "Expert Warns of Risks in Substance Use Reduction Apps",
-      "link": "https://www.rutgers.edu/news/unregulated-and-unsafe-expert-warns-risks-substance-use-reduction-apps",
-      "summary": "<p>Article URL: <a href=\"https://www.rutgers.edu/news/unregulated-and-unsafe-expert-warns-risks-substance-use-reduction-apps\">https://www.rutgers.edu/news/unregulated-and-unsafe-expert-warns-risks-sub...",
-      "published": "2025-11-19T12:41:33+00:00",
-      "domain": "rutgers.edu",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 26.9,
-        "overall": 15.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": [
-          "unregulated",
-          "unregulated"
-        ]
-      }
-    },
-    {
-      "title": "Flyway Meets the Unsupported: Building the Missing Pieces to Make Migrations Fly",
-      "link": "https://medium.com/att-israel/flyway-meets-the-unsupported-building-the-missing-pieces-to-make-migrations-fly-7be4f944ce4b",
-      "summary": "<p>Article URL: <a href=\"https://medium.com/att-israel/flyway-meets-the-unsupported-building-the-missing-pieces-to-make-migrations-fly-7be4f944ce4b\">https://medium.com/att-israel/flyway-meets-the-unsu...",
-      "published": "2025-11-19T12:40:12+00:00",
-      "domain": "medium.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Berapakah Nomor WhatsApp Tokopedia?",
-      "link": "https://news.ycombinator.com/item?id=45978891",
-      "summary": "<p>Tokopedia Menyediakan layanan Whatsapp? Untuk menghubungi layanan Tokopedia melalui (WA)62.O813.6034.624.kamu bisa</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45978891...",
-      "published": "2025-11-19T12:39:53+00:00",
-      "domain": "news.ycombinator.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Geothermal's Time Has Come",
-      "link": "https://www.economist.com/interactive/science-and-technology/2025/11/18/geothermal-time-has-finally-come",
-      "summary": "<p>Article URL: <a href=\"https://www.economist.com/interactive/science-and-technology/2025/11/18/geothermal-time-has-finally-come\">https://www.economist.com/interactive/science-and-technology/2025/11/...",
-      "published": "2025-11-19T12:38:44+00:00",
-      "domain": "economist.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Larry Summers resigns from OpenAI board amid Epstein revelations",
-      "link": "https://www.reddit.com/r/technology/comments/1p163bn/larry_summers_resigns_from_openai_board_amid/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1p163bn/larry_summers_resigns_from_openai_board_amid/\"> <img alt=\"Larry Summers resigns from OpenAI board amid Epstein revelation...",
-      "published": "2025-11-19T12:13:52+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Fortinet Warns of New FortiWeb CVE-2025-58034 Vulnerability Exploited in the Wild",
-      "link": "https://thehackernews.com/2025/11/fortinet-warns-of-new-fortiweb-cve-2025.html",
-      "summary": "Fortinet has warned of a new security flaw in FortiWeb that it said has been exploited in the wild.\nThe medium-severity vulnerability, tracked as CVE-2025-58034, carries a CVSS score of 6.7 out of a m...",
-      "published": "2025-11-19T09:50:00+05:30",
+      "title": "WrtHug Exploits Six ASUS WRT Flaws to Hijack Tens of Thousands of EoL Routers Worldwide",
+      "link": "https://thehackernews.com/2025/11/wrthug-exploits-six-asus-wrt-flaws-to.html",
+      "summary": "A newly discovered campaign has compromised tens of thousands of outdated or end-of-life (EoL) ASUS routers worldwide, predominantly in Taiwan, the U.S., and Russia, to rope them into a massive networ...",
+      "published": "2025-11-19T18:30:00+05:30",
       "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Animal Spirits: Is the AI Trade Over?",
+      "link": "https://awealthofcommonsense.com/2025/11/animal-spirits-is-the-ai-trade-over/",
+      "summary": "<p>Article URL: <a href=\"https://awealthofcommonsense.com/2025/11/animal-spirits-is-the-ai-trade-over/\">https://awealthofcommonsense.com/2025/11/animal-spirits-is-the-ai-trade-over/</a></p>\n<p>Comment...",
+      "published": "2025-11-19T18:21:03+00:00",
+      "domain": "awealthofcommonsense.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Night of Modern Art History, Night of Spectacle at Sotheby's",
+      "link": "https://www.nytimes.com/2025/11/18/arts/design/portrait-auction-record-klimt-sothebys.html",
+      "summary": "<p>Article URL: <a href=\"https://www.nytimes.com/2025/11/18/arts/design/portrait-auction-record-klimt-sothebys.html\">https://www.nytimes.com/2025/11/18/arts/design/portrait-auction-record-klimt-sotheb...",
+      "published": "2025-11-19T18:19:52+00:00",
+      "domain": "nytimes.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Is AI a Bubble? Not So Fast",
+      "link": "https://www.thefp.com/p/is-ai-a-bubble-not-so-fast",
+      "summary": "<p>Article URL: <a href=\"https://www.thefp.com/p/is-ai-a-bubble-not-so-fast\">https://www.thefp.com/p/is-ai-a-bubble-not-so-fast</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4...",
+      "published": "2025-11-19T18:19:11+00:00",
+      "domain": "thefp.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Twenty Years of Django Releases",
+      "link": "https://www.djangoproject.com/weblog/2025/nov/19/twenty-years-of-django-releases/",
+      "summary": "<p>Article URL: <a href=\"https://www.djangoproject.com/weblog/2025/nov/19/twenty-years-of-django-releases/\">https://www.djangoproject.com/weblog/2025/nov/19/twenty-years-of-django-releases/</a></p>\n<p...",
+      "published": "2025-11-19T18:19:06+00:00",
+      "domain": "djangoproject.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Honeycomb Private Cloud",
+      "link": "https://www.honeycomb.io/blog/introducing-honeycomb-private-cloud",
+      "summary": "<p>Article URL: <a href=\"https://www.honeycomb.io/blog/introducing-honeycomb-private-cloud\">https://www.honeycomb.io/blog/introducing-honeycomb-private-cloud</a></p>\n<p>Comments URL: <a href=\"https://...",
+      "published": "2025-11-19T18:18:54+00:00",
+      "domain": "honeycomb.io",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Building more with GPT-5.1-Codex-Max",
+      "link": "https://openai.com/index/gpt-5-1-codex-max/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=45982649\">Comments</a>...",
+      "published": "2025-11-19T18:01:59+00:00",
+      "domain": "openai.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "I am just sooo sick of AI prediction content, let's kill it already",
+      "link": "https://verdikapuku.com/posts/i-am-just-so-sick-of-ai-prediction-content/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=45982542\">Comments</a>...",
+      "published": "2025-11-19T17:53:58+00:00",
+      "domain": "verdikapuku.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -170,47 +163,10 @@
   ],
   "anarchy_ranked": [
     {
-      "title": "Expert Warns of Risks in Substance Use Reduction Apps",
-      "link": "https://www.rutgers.edu/news/unregulated-and-unsafe-expert-warns-risks-substance-use-reduction-apps",
-      "summary": "<p>Article URL: <a href=\"https://www.rutgers.edu/news/unregulated-and-unsafe-expert-warns-risks-substance-use-reduction-apps\">https://www.rutgers.edu/news/unregulated-and-unsafe-expert-warns-risks-sub...",
-      "published": "2025-11-19T12:41:33+00:00",
-      "domain": "rutgers.edu",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 26.9,
-        "overall": 15.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": [
-          "unregulated",
-          "unregulated"
-        ]
-      }
-    },
-    {
-      "title": "Application Containment: How to Use Ringfencing to Prevent the Weaponization of Trusted Software",
-      "link": "https://thehackernews.com/2025/11/application-containment-how-to-use.html",
-      "summary": "The challenge facing security leaders is monumental: Securing environments where failure is not an option. Reliance on traditional security postures, such as Endpoint Detection and Response (EDR) to c...",
-      "published": "2025-11-19T17:25:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 14.7,
-        "anarchy": 3.0,
-        "overall": 8.8
-      },
-      "keywords": {
-        "chaos": [
-          "failure"
-        ],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "EdgeStepper Implant Reroutes DNS Queries to Deploy Malware via Hijacked Software Updates",
-      "link": "https://thehackernews.com/2025/11/edgestepper-implant-reroutes-dns.html",
-      "summary": "The threat actor known as PlushDaemon has been observed using a previously undocumented Go-based network backdoor codenamed EdgeStepper to facilitate adversary-in-the-middle (AitM) attacks.\nEdgeSteppe...",
-      "published": "2025-11-19T15:30:00+05:30",
+      "title": "Hackers Actively Exploiting 7-Zip Symbolic Link\u2013Based RCE Vulnerability (CVE-2025-11001)",
+      "link": "https://thehackernews.com/2025/11/hackers-actively-exploiting-7-zip.html",
+      "summary": "A recently disclosed security flaw impacting 7-Zip has come under active exploitation in the wild, according to an advisory issued by the U.K. NHS England Digital on Tuesday.\nThe vulnerability in ques...",
+      "published": "2025-11-19T21:57:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -223,10 +179,10 @@
       }
     },
     {
-      "title": "ServiceNow AI Agents Can Be Tricked Into Acting Against Each Other via Second-Order Prompts",
-      "link": "https://thehackernews.com/2025/11/servicenow-ai-agents-can-be-tricked.html",
-      "summary": "Malicious actors can exploit default configurations in ServiceNow's Now Assist generative artificial intelligence (AI) platform and leverage its agentic capabilities to conduct prompt injection attack...",
-      "published": "2025-11-19T15:29:00+05:30",
+      "title": "Python-Based WhatsApp Worm Spreads Eternidade Stealer Across Brazilian Devices",
+      "link": "https://thehackernews.com/2025/11/python-based-whatsapp-worm-spreads.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new campaign that leverages a combination of social engineering and WhatsApp hijacking to distribute a Delphi-based banking trojan named Eternidad...",
+      "published": "2025-11-19T21:05:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -239,93 +195,123 @@
       }
     },
     {
-      "title": "The semantic chaos of AI coding (and a proposed classification)",
-      "link": "https://www.strategyradar.ai/blog/vibe-coding-trap/",
-      "summary": "<p>Article URL: <a href=\"https://www.strategyradar.ai/blog/vibe-coding-trap/\">https://www.strategyradar.ai/blog/vibe-coding-trap/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id...",
-      "published": "2025-11-19T12:40:34+00:00",
-      "domain": "strategyradar.ai",
-      "scores": {
-        "chaos": 17.3,
-        "anarchy": 3.0,
-        "overall": 10.2
-      },
-      "keywords": {
-        "chaos": [
-          "chaos"
-        ],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Flyway Meets the Unsupported: Building the Missing Pieces to Make Migrations Fly",
-      "link": "https://medium.com/att-israel/flyway-meets-the-unsupported-building-the-missing-pieces-to-make-migrations-fly-7be4f944ce4b",
-      "summary": "<p>Article URL: <a href=\"https://medium.com/att-israel/flyway-meets-the-unsupported-building-the-missing-pieces-to-make-migrations-fly-7be4f944ce4b\">https://medium.com/att-israel/flyway-meets-the-unsu...",
-      "published": "2025-11-19T12:40:12+00:00",
-      "domain": "medium.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Berapakah Nomor WhatsApp Tokopedia?",
-      "link": "https://news.ycombinator.com/item?id=45978891",
-      "summary": "<p>Tokopedia Menyediakan layanan Whatsapp? Untuk menghubungi layanan Tokopedia melalui (WA)62.O813.6034.624.kamu bisa</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45978891...",
-      "published": "2025-11-19T12:39:53+00:00",
-      "domain": "news.ycombinator.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Geothermal's Time Has Come",
-      "link": "https://www.economist.com/interactive/science-and-technology/2025/11/18/geothermal-time-has-finally-come",
-      "summary": "<p>Article URL: <a href=\"https://www.economist.com/interactive/science-and-technology/2025/11/18/geothermal-time-has-finally-come\">https://www.economist.com/interactive/science-and-technology/2025/11/...",
-      "published": "2025-11-19T12:38:44+00:00",
-      "domain": "economist.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Larry Summers resigns from OpenAI board amid Epstein revelations",
-      "link": "https://www.reddit.com/r/technology/comments/1p163bn/larry_summers_resigns_from_openai_board_amid/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1p163bn/larry_summers_resigns_from_openai_board_amid/\"> <img alt=\"Larry Summers resigns from OpenAI board amid Epstein revelation...",
-      "published": "2025-11-19T12:13:52+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Fortinet Warns of New FortiWeb CVE-2025-58034 Vulnerability Exploited in the Wild",
-      "link": "https://thehackernews.com/2025/11/fortinet-warns-of-new-fortiweb-cve-2025.html",
-      "summary": "Fortinet has warned of a new security flaw in FortiWeb that it said has been exploited in the wild.\nThe medium-severity vulnerability, tracked as CVE-2025-58034, carries a CVSS score of 6.7 out of a m...",
-      "published": "2025-11-19T09:50:00+05:30",
+      "title": "WrtHug Exploits Six ASUS WRT Flaws to Hijack Tens of Thousands of EoL Routers Worldwide",
+      "link": "https://thehackernews.com/2025/11/wrthug-exploits-six-asus-wrt-flaws-to.html",
+      "summary": "A newly discovered campaign has compromised tens of thousands of outdated or end-of-life (EoL) ASUS routers worldwide, predominantly in Taiwan, the U.S., and Russia, to rope them into a massive networ...",
+      "published": "2025-11-19T18:30:00+05:30",
       "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Animal Spirits: Is the AI Trade Over?",
+      "link": "https://awealthofcommonsense.com/2025/11/animal-spirits-is-the-ai-trade-over/",
+      "summary": "<p>Article URL: <a href=\"https://awealthofcommonsense.com/2025/11/animal-spirits-is-the-ai-trade-over/\">https://awealthofcommonsense.com/2025/11/animal-spirits-is-the-ai-trade-over/</a></p>\n<p>Comment...",
+      "published": "2025-11-19T18:21:03+00:00",
+      "domain": "awealthofcommonsense.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Night of Modern Art History, Night of Spectacle at Sotheby's",
+      "link": "https://www.nytimes.com/2025/11/18/arts/design/portrait-auction-record-klimt-sothebys.html",
+      "summary": "<p>Article URL: <a href=\"https://www.nytimes.com/2025/11/18/arts/design/portrait-auction-record-klimt-sothebys.html\">https://www.nytimes.com/2025/11/18/arts/design/portrait-auction-record-klimt-sotheb...",
+      "published": "2025-11-19T18:19:52+00:00",
+      "domain": "nytimes.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Is AI a Bubble? Not So Fast",
+      "link": "https://www.thefp.com/p/is-ai-a-bubble-not-so-fast",
+      "summary": "<p>Article URL: <a href=\"https://www.thefp.com/p/is-ai-a-bubble-not-so-fast\">https://www.thefp.com/p/is-ai-a-bubble-not-so-fast</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4...",
+      "published": "2025-11-19T18:19:11+00:00",
+      "domain": "thefp.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Twenty Years of Django Releases",
+      "link": "https://www.djangoproject.com/weblog/2025/nov/19/twenty-years-of-django-releases/",
+      "summary": "<p>Article URL: <a href=\"https://www.djangoproject.com/weblog/2025/nov/19/twenty-years-of-django-releases/\">https://www.djangoproject.com/weblog/2025/nov/19/twenty-years-of-django-releases/</a></p>\n<p...",
+      "published": "2025-11-19T18:19:06+00:00",
+      "domain": "djangoproject.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Honeycomb Private Cloud",
+      "link": "https://www.honeycomb.io/blog/introducing-honeycomb-private-cloud",
+      "summary": "<p>Article URL: <a href=\"https://www.honeycomb.io/blog/introducing-honeycomb-private-cloud\">https://www.honeycomb.io/blog/introducing-honeycomb-private-cloud</a></p>\n<p>Comments URL: <a href=\"https://...",
+      "published": "2025-11-19T18:18:54+00:00",
+      "domain": "honeycomb.io",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Building more with GPT-5.1-Codex-Max",
+      "link": "https://openai.com/index/gpt-5-1-codex-max/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=45982649\">Comments</a>...",
+      "published": "2025-11-19T18:01:59+00:00",
+      "domain": "openai.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "I am just sooo sick of AI prediction content, let's kill it already",
+      "link": "https://verdikapuku.com/posts/i-am-just-so-sick-of-ai-prediction-content/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=45982542\">Comments</a>...",
+      "published": "2025-11-19T17:53:58+00:00",
+      "domain": "verdikapuku.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -339,65 +325,10 @@
   ],
   "overall_ranked": [
     {
-      "title": "Expert Warns of Risks in Substance Use Reduction Apps",
-      "link": "https://www.rutgers.edu/news/unregulated-and-unsafe-expert-warns-risks-substance-use-reduction-apps",
-      "summary": "<p>Article URL: <a href=\"https://www.rutgers.edu/news/unregulated-and-unsafe-expert-warns-risks-substance-use-reduction-apps\">https://www.rutgers.edu/news/unregulated-and-unsafe-expert-warns-risks-sub...",
-      "published": "2025-11-19T12:41:33+00:00",
-      "domain": "rutgers.edu",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 26.9,
-        "overall": 15.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": [
-          "unregulated",
-          "unregulated"
-        ]
-      }
-    },
-    {
-      "title": "The semantic chaos of AI coding (and a proposed classification)",
-      "link": "https://www.strategyradar.ai/blog/vibe-coding-trap/",
-      "summary": "<p>Article URL: <a href=\"https://www.strategyradar.ai/blog/vibe-coding-trap/\">https://www.strategyradar.ai/blog/vibe-coding-trap/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id...",
-      "published": "2025-11-19T12:40:34+00:00",
-      "domain": "strategyradar.ai",
-      "scores": {
-        "chaos": 17.3,
-        "anarchy": 3.0,
-        "overall": 10.2
-      },
-      "keywords": {
-        "chaos": [
-          "chaos"
-        ],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Application Containment: How to Use Ringfencing to Prevent the Weaponization of Trusted Software",
-      "link": "https://thehackernews.com/2025/11/application-containment-how-to-use.html",
-      "summary": "The challenge facing security leaders is monumental: Securing environments where failure is not an option. Reliance on traditional security postures, such as Endpoint Detection and Response (EDR) to c...",
-      "published": "2025-11-19T17:25:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 14.7,
-        "anarchy": 3.0,
-        "overall": 8.8
-      },
-      "keywords": {
-        "chaos": [
-          "failure"
-        ],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "EdgeStepper Implant Reroutes DNS Queries to Deploy Malware via Hijacked Software Updates",
-      "link": "https://thehackernews.com/2025/11/edgestepper-implant-reroutes-dns.html",
-      "summary": "The threat actor known as PlushDaemon has been observed using a previously undocumented Go-based network backdoor codenamed EdgeStepper to facilitate adversary-in-the-middle (AitM) attacks.\nEdgeSteppe...",
-      "published": "2025-11-19T15:30:00+05:30",
+      "title": "Hackers Actively Exploiting 7-Zip Symbolic Link\u2013Based RCE Vulnerability (CVE-2025-11001)",
+      "link": "https://thehackernews.com/2025/11/hackers-actively-exploiting-7-zip.html",
+      "summary": "A recently disclosed security flaw impacting 7-Zip has come under active exploitation in the wild, according to an advisory issued by the U.K. NHS England Digital on Tuesday.\nThe vulnerability in ques...",
+      "published": "2025-11-19T21:57:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -410,10 +341,10 @@
       }
     },
     {
-      "title": "ServiceNow AI Agents Can Be Tricked Into Acting Against Each Other via Second-Order Prompts",
-      "link": "https://thehackernews.com/2025/11/servicenow-ai-agents-can-be-tricked.html",
-      "summary": "Malicious actors can exploit default configurations in ServiceNow's Now Assist generative artificial intelligence (AI) platform and leverage its agentic capabilities to conduct prompt injection attack...",
-      "published": "2025-11-19T15:29:00+05:30",
+      "title": "Python-Based WhatsApp Worm Spreads Eternidade Stealer Across Brazilian Devices",
+      "link": "https://thehackernews.com/2025/11/python-based-whatsapp-worm-spreads.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new campaign that leverages a combination of social engineering and WhatsApp hijacking to distribute a Delphi-based banking trojan named Eternidad...",
+      "published": "2025-11-19T21:05:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -426,75 +357,123 @@
       }
     },
     {
-      "title": "Flyway Meets the Unsupported: Building the Missing Pieces to Make Migrations Fly",
-      "link": "https://medium.com/att-israel/flyway-meets-the-unsupported-building-the-missing-pieces-to-make-migrations-fly-7be4f944ce4b",
-      "summary": "<p>Article URL: <a href=\"https://medium.com/att-israel/flyway-meets-the-unsupported-building-the-missing-pieces-to-make-migrations-fly-7be4f944ce4b\">https://medium.com/att-israel/flyway-meets-the-unsu...",
-      "published": "2025-11-19T12:40:12+00:00",
-      "domain": "medium.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Berapakah Nomor WhatsApp Tokopedia?",
-      "link": "https://news.ycombinator.com/item?id=45978891",
-      "summary": "<p>Tokopedia Menyediakan layanan Whatsapp? Untuk menghubungi layanan Tokopedia melalui (WA)62.O813.6034.624.kamu bisa</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45978891...",
-      "published": "2025-11-19T12:39:53+00:00",
-      "domain": "news.ycombinator.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Geothermal's Time Has Come",
-      "link": "https://www.economist.com/interactive/science-and-technology/2025/11/18/geothermal-time-has-finally-come",
-      "summary": "<p>Article URL: <a href=\"https://www.economist.com/interactive/science-and-technology/2025/11/18/geothermal-time-has-finally-come\">https://www.economist.com/interactive/science-and-technology/2025/11/...",
-      "published": "2025-11-19T12:38:44+00:00",
-      "domain": "economist.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Larry Summers resigns from OpenAI board amid Epstein revelations",
-      "link": "https://www.reddit.com/r/technology/comments/1p163bn/larry_summers_resigns_from_openai_board_amid/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1p163bn/larry_summers_resigns_from_openai_board_amid/\"> <img alt=\"Larry Summers resigns from OpenAI board amid Epstein revelation...",
-      "published": "2025-11-19T12:13:52+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Fortinet Warns of New FortiWeb CVE-2025-58034 Vulnerability Exploited in the Wild",
-      "link": "https://thehackernews.com/2025/11/fortinet-warns-of-new-fortiweb-cve-2025.html",
-      "summary": "Fortinet has warned of a new security flaw in FortiWeb that it said has been exploited in the wild.\nThe medium-severity vulnerability, tracked as CVE-2025-58034, carries a CVSS score of 6.7 out of a m...",
-      "published": "2025-11-19T09:50:00+05:30",
+      "title": "WrtHug Exploits Six ASUS WRT Flaws to Hijack Tens of Thousands of EoL Routers Worldwide",
+      "link": "https://thehackernews.com/2025/11/wrthug-exploits-six-asus-wrt-flaws-to.html",
+      "summary": "A newly discovered campaign has compromised tens of thousands of outdated or end-of-life (EoL) ASUS routers worldwide, predominantly in Taiwan, the U.S., and Russia, to rope them into a massive networ...",
+      "published": "2025-11-19T18:30:00+05:30",
       "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Animal Spirits: Is the AI Trade Over?",
+      "link": "https://awealthofcommonsense.com/2025/11/animal-spirits-is-the-ai-trade-over/",
+      "summary": "<p>Article URL: <a href=\"https://awealthofcommonsense.com/2025/11/animal-spirits-is-the-ai-trade-over/\">https://awealthofcommonsense.com/2025/11/animal-spirits-is-the-ai-trade-over/</a></p>\n<p>Comment...",
+      "published": "2025-11-19T18:21:03+00:00",
+      "domain": "awealthofcommonsense.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Night of Modern Art History, Night of Spectacle at Sotheby's",
+      "link": "https://www.nytimes.com/2025/11/18/arts/design/portrait-auction-record-klimt-sothebys.html",
+      "summary": "<p>Article URL: <a href=\"https://www.nytimes.com/2025/11/18/arts/design/portrait-auction-record-klimt-sothebys.html\">https://www.nytimes.com/2025/11/18/arts/design/portrait-auction-record-klimt-sotheb...",
+      "published": "2025-11-19T18:19:52+00:00",
+      "domain": "nytimes.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Is AI a Bubble? Not So Fast",
+      "link": "https://www.thefp.com/p/is-ai-a-bubble-not-so-fast",
+      "summary": "<p>Article URL: <a href=\"https://www.thefp.com/p/is-ai-a-bubble-not-so-fast\">https://www.thefp.com/p/is-ai-a-bubble-not-so-fast</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4...",
+      "published": "2025-11-19T18:19:11+00:00",
+      "domain": "thefp.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Twenty Years of Django Releases",
+      "link": "https://www.djangoproject.com/weblog/2025/nov/19/twenty-years-of-django-releases/",
+      "summary": "<p>Article URL: <a href=\"https://www.djangoproject.com/weblog/2025/nov/19/twenty-years-of-django-releases/\">https://www.djangoproject.com/weblog/2025/nov/19/twenty-years-of-django-releases/</a></p>\n<p...",
+      "published": "2025-11-19T18:19:06+00:00",
+      "domain": "djangoproject.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Honeycomb Private Cloud",
+      "link": "https://www.honeycomb.io/blog/introducing-honeycomb-private-cloud",
+      "summary": "<p>Article URL: <a href=\"https://www.honeycomb.io/blog/introducing-honeycomb-private-cloud\">https://www.honeycomb.io/blog/introducing-honeycomb-private-cloud</a></p>\n<p>Comments URL: <a href=\"https://...",
+      "published": "2025-11-19T18:18:54+00:00",
+      "domain": "honeycomb.io",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Building more with GPT-5.1-Codex-Max",
+      "link": "https://openai.com/index/gpt-5-1-codex-max/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=45982649\">Comments</a>...",
+      "published": "2025-11-19T18:01:59+00:00",
+      "domain": "openai.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "I am just sooo sick of AI prediction content, let's kill it already",
+      "link": "https://verdikapuku.com/posts/i-am-just-so-sick-of-ai-prediction-content/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=45982542\">Comments</a>...",
+      "published": "2025-11-19T17:53:58+00:00",
+      "domain": "verdikapuku.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -508,28 +487,10 @@
   ],
   "all_articles": [
     {
-      "title": "Application Containment: How to Use Ringfencing to Prevent the Weaponization of Trusted Software",
-      "link": "https://thehackernews.com/2025/11/application-containment-how-to-use.html",
-      "summary": "The challenge facing security leaders is monumental: Securing environments where failure is not an option. Reliance on traditional security postures, such as Endpoint Detection and Response (EDR) to c...",
-      "published": "2025-11-19T17:25:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 14.7,
-        "anarchy": 3.0,
-        "overall": 8.8
-      },
-      "keywords": {
-        "chaos": [
-          "failure"
-        ],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "EdgeStepper Implant Reroutes DNS Queries to Deploy Malware via Hijacked Software Updates",
-      "link": "https://thehackernews.com/2025/11/edgestepper-implant-reroutes-dns.html",
-      "summary": "The threat actor known as PlushDaemon has been observed using a previously undocumented Go-based network backdoor codenamed EdgeStepper to facilitate adversary-in-the-middle (AitM) attacks.\nEdgeSteppe...",
-      "published": "2025-11-19T15:30:00+05:30",
+      "title": "Hackers Actively Exploiting 7-Zip Symbolic Link\u2013Based RCE Vulnerability (CVE-2025-11001)",
+      "link": "https://thehackernews.com/2025/11/hackers-actively-exploiting-7-zip.html",
+      "summary": "A recently disclosed security flaw impacting 7-Zip has come under active exploitation in the wild, according to an advisory issued by the U.K. NHS England Digital on Tuesday.\nThe vulnerability in ques...",
+      "published": "2025-11-19T21:57:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -542,10 +503,10 @@
       }
     },
     {
-      "title": "ServiceNow AI Agents Can Be Tricked Into Acting Against Each Other via Second-Order Prompts",
-      "link": "https://thehackernews.com/2025/11/servicenow-ai-agents-can-be-tricked.html",
-      "summary": "Malicious actors can exploit default configurations in ServiceNow's Now Assist generative artificial intelligence (AI) platform and leverage its agentic capabilities to conduct prompt injection attack...",
-      "published": "2025-11-19T15:29:00+05:30",
+      "title": "Python-Based WhatsApp Worm Spreads Eternidade Stealer Across Brazilian Devices",
+      "link": "https://thehackernews.com/2025/11/python-based-whatsapp-worm-spreads.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new campaign that leverages a combination of social engineering and WhatsApp hijacking to distribute a Delphi-based banking trojan named Eternidad...",
+      "published": "2025-11-19T21:05:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -558,112 +519,123 @@
       }
     },
     {
-      "title": "Expert Warns of Risks in Substance Use Reduction Apps",
-      "link": "https://www.rutgers.edu/news/unregulated-and-unsafe-expert-warns-risks-substance-use-reduction-apps",
-      "summary": "<p>Article URL: <a href=\"https://www.rutgers.edu/news/unregulated-and-unsafe-expert-warns-risks-substance-use-reduction-apps\">https://www.rutgers.edu/news/unregulated-and-unsafe-expert-warns-risks-sub...",
-      "published": "2025-11-19T12:41:33+00:00",
-      "domain": "rutgers.edu",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 26.9,
-        "overall": 15.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": [
-          "unregulated",
-          "unregulated"
-        ]
-      }
-    },
-    {
-      "title": "The semantic chaos of AI coding (and a proposed classification)",
-      "link": "https://www.strategyradar.ai/blog/vibe-coding-trap/",
-      "summary": "<p>Article URL: <a href=\"https://www.strategyradar.ai/blog/vibe-coding-trap/\">https://www.strategyradar.ai/blog/vibe-coding-trap/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id...",
-      "published": "2025-11-19T12:40:34+00:00",
-      "domain": "strategyradar.ai",
-      "scores": {
-        "chaos": 17.3,
-        "anarchy": 3.0,
-        "overall": 10.2
-      },
-      "keywords": {
-        "chaos": [
-          "chaos"
-        ],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Flyway Meets the Unsupported: Building the Missing Pieces to Make Migrations Fly",
-      "link": "https://medium.com/att-israel/flyway-meets-the-unsupported-building-the-missing-pieces-to-make-migrations-fly-7be4f944ce4b",
-      "summary": "<p>Article URL: <a href=\"https://medium.com/att-israel/flyway-meets-the-unsupported-building-the-missing-pieces-to-make-migrations-fly-7be4f944ce4b\">https://medium.com/att-israel/flyway-meets-the-unsu...",
-      "published": "2025-11-19T12:40:12+00:00",
-      "domain": "medium.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Berapakah Nomor WhatsApp Tokopedia?",
-      "link": "https://news.ycombinator.com/item?id=45978891",
-      "summary": "<p>Tokopedia Menyediakan layanan Whatsapp? Untuk menghubungi layanan Tokopedia melalui (WA)62.O813.6034.624.kamu bisa</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45978891...",
-      "published": "2025-11-19T12:39:53+00:00",
-      "domain": "news.ycombinator.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Geothermal's Time Has Come",
-      "link": "https://www.economist.com/interactive/science-and-technology/2025/11/18/geothermal-time-has-finally-come",
-      "summary": "<p>Article URL: <a href=\"https://www.economist.com/interactive/science-and-technology/2025/11/18/geothermal-time-has-finally-come\">https://www.economist.com/interactive/science-and-technology/2025/11/...",
-      "published": "2025-11-19T12:38:44+00:00",
-      "domain": "economist.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Larry Summers resigns from OpenAI board amid Epstein revelations",
-      "link": "https://www.reddit.com/r/technology/comments/1p163bn/larry_summers_resigns_from_openai_board_amid/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1p163bn/larry_summers_resigns_from_openai_board_amid/\"> <img alt=\"Larry Summers resigns from OpenAI board amid Epstein revelation...",
-      "published": "2025-11-19T12:13:52+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Fortinet Warns of New FortiWeb CVE-2025-58034 Vulnerability Exploited in the Wild",
-      "link": "https://thehackernews.com/2025/11/fortinet-warns-of-new-fortiweb-cve-2025.html",
-      "summary": "Fortinet has warned of a new security flaw in FortiWeb that it said has been exploited in the wild.\nThe medium-severity vulnerability, tracked as CVE-2025-58034, carries a CVSS score of 6.7 out of a m...",
-      "published": "2025-11-19T09:50:00+05:30",
+      "title": "WrtHug Exploits Six ASUS WRT Flaws to Hijack Tens of Thousands of EoL Routers Worldwide",
+      "link": "https://thehackernews.com/2025/11/wrthug-exploits-six-asus-wrt-flaws-to.html",
+      "summary": "A newly discovered campaign has compromised tens of thousands of outdated or end-of-life (EoL) ASUS routers worldwide, predominantly in Taiwan, the U.S., and Russia, to rope them into a massive networ...",
+      "published": "2025-11-19T18:30:00+05:30",
       "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Animal Spirits: Is the AI Trade Over?",
+      "link": "https://awealthofcommonsense.com/2025/11/animal-spirits-is-the-ai-trade-over/",
+      "summary": "<p>Article URL: <a href=\"https://awealthofcommonsense.com/2025/11/animal-spirits-is-the-ai-trade-over/\">https://awealthofcommonsense.com/2025/11/animal-spirits-is-the-ai-trade-over/</a></p>\n<p>Comment...",
+      "published": "2025-11-19T18:21:03+00:00",
+      "domain": "awealthofcommonsense.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Night of Modern Art History, Night of Spectacle at Sotheby's",
+      "link": "https://www.nytimes.com/2025/11/18/arts/design/portrait-auction-record-klimt-sothebys.html",
+      "summary": "<p>Article URL: <a href=\"https://www.nytimes.com/2025/11/18/arts/design/portrait-auction-record-klimt-sothebys.html\">https://www.nytimes.com/2025/11/18/arts/design/portrait-auction-record-klimt-sotheb...",
+      "published": "2025-11-19T18:19:52+00:00",
+      "domain": "nytimes.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Is AI a Bubble? Not So Fast",
+      "link": "https://www.thefp.com/p/is-ai-a-bubble-not-so-fast",
+      "summary": "<p>Article URL: <a href=\"https://www.thefp.com/p/is-ai-a-bubble-not-so-fast\">https://www.thefp.com/p/is-ai-a-bubble-not-so-fast</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4...",
+      "published": "2025-11-19T18:19:11+00:00",
+      "domain": "thefp.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Twenty Years of Django Releases",
+      "link": "https://www.djangoproject.com/weblog/2025/nov/19/twenty-years-of-django-releases/",
+      "summary": "<p>Article URL: <a href=\"https://www.djangoproject.com/weblog/2025/nov/19/twenty-years-of-django-releases/\">https://www.djangoproject.com/weblog/2025/nov/19/twenty-years-of-django-releases/</a></p>\n<p...",
+      "published": "2025-11-19T18:19:06+00:00",
+      "domain": "djangoproject.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Honeycomb Private Cloud",
+      "link": "https://www.honeycomb.io/blog/introducing-honeycomb-private-cloud",
+      "summary": "<p>Article URL: <a href=\"https://www.honeycomb.io/blog/introducing-honeycomb-private-cloud\">https://www.honeycomb.io/blog/introducing-honeycomb-private-cloud</a></p>\n<p>Comments URL: <a href=\"https://...",
+      "published": "2025-11-19T18:18:54+00:00",
+      "domain": "honeycomb.io",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Building more with GPT-5.1-Codex-Max",
+      "link": "https://openai.com/index/gpt-5-1-codex-max/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=45982649\">Comments</a>...",
+      "published": "2025-11-19T18:01:59+00:00",
+      "domain": "openai.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "I am just sooo sick of AI prediction content, let's kill it already",
+      "link": "https://verdikapuku.com/posts/i-am-just-so-sick-of-ai-prediction-content/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=45982542\">Comments</a>...",
+      "published": "2025-11-19T17:53:58+00:00",
+      "domain": "verdikapuku.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
