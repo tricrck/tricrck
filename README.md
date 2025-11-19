@@ -22,11 +22,11 @@
 - **Keywords**: outage
 - [Read more](https://blog.cloudflare.com/18-november-2025-outage/)
 
-### Cloudflare outage on November 18, 2025 – Caused by single .unwrap()
+### Fortinet Warns of New FortiWeb CVE-2025-58034 Vulnerability Exploited in the Wild
 - **Published**: November 19, 2025
-- **Summary**: https://old.reddit.com/r/rust/comments/1p0susm/cloudflare_outage_on_november_1......
-- **Keywords**: outage
-- [Read more](https://old.reddit.com/r/rust/comments/1p0susm/cloudflare_outage_on_november_18_2025_caused_by/)
+- **Summary**: Fortinet has warned of a new security flaw in FortiWeb that it said has been exploited in the wild.
+The medium-severity vulnerability, tracked as CVE-...
+- [Read more](https://thehackernews.com/2025/11/fortinet-warns-of-new-fortiweb-cve-2025.html)
 
 ---
 
