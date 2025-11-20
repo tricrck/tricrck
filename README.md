@@ -16,15 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### In 1982, a physics joke gone wrong sparked the invention of the emoticon
+### NTSB Preliminary Report – Ups Boeing MD-11F Crash [pdf]
 - **Published**: November 20, 2025
-- **Summary**: https://arstechnica.com/gadgets/2025/11/in-1982-a-physics-jok......
-- [Read more](https://arstechnica.com/gadgets/2025/11/in-1982-a-physics-joke-gone-wrong-sparked-the-invention-of-the-emoticon/)
+- **Summary**: https://www.ntsb.gov/Documents/Prelimiary%20Report%20DCA26MA024.pdf</a></p>
+<p>Comments URL: <a href="http......
+- **Keywords**: crash
+- [Read more](https://www.ntsb.gov/Documents/Prelimiary%20Report%20DCA26MA024.pdf)
 
-### CTM360 Exposes a Global WhatsApp Hijacking Campaign: HackOnChat
+### ShadowRay 2.0 Exploits Unpatched Ray Flaw to Build Self-Spreading GPU Cryptomining Botnet
 - **Published**: November 20, 2025
-- **Summary**: CTM360 has identified a rapidly expanding WhatsApp account-hacking campaign targeting users worldwide via a network of deceptive authentication portal...
-- [Read more](https://thehackernews.com/2025/11/ctm360-exposes-global-whatsapp.html)
+- **Summary**: Oligo Security has warned of ongoing attacks exploiting a two-year-old security flaw in the Ray open-source artificial intelligence (AI) framework to ...
+- [Read more](https://thehackernews.com/2025/11/shadowray-20-exploits-unpatched-ray.html)
 
 ---
 
