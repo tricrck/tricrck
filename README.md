@@ -16,15 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Hackers Actively Exploiting 7-Zip Symbolic Link–Based RCE Vulnerability (CVE-2025-11001)
-- **Published**: November 19, 2025
-- **Summary**: A recently disclosed security flaw impacting 7-Zip has come under active exploitation in the wild, according to an advisory issued by the U.K. NHS Eng...
-- [Read more](https://thehackernews.com/2025/11/hackers-actively-exploiting-7-zip.html)
+### Histone acetylation and CpG methylation on nucleosomes(2012)
+- **Published**: November 20, 2025
+- **Summary**: https://www.sciencedirect.com/science/article/abs/pii/S1570963912000957</a></p>
+<p>Comments URL: <a hr......
+- [Read more](https://www.sciencedirect.com/science/article/abs/pii/S1570963912000957)
 
-### Python-Based WhatsApp Worm Spreads Eternidade Stealer Across Brazilian Devices
-- **Published**: November 19, 2025
-- **Summary**: Cybersecurity researchers have disclosed details of a new campaign that leverages a combination of social engineering and WhatsApp hijacking to distri...
-- [Read more](https://thehackernews.com/2025/11/python-based-whatsapp-worm-spreads.html)
+### Microtubules as Fractal Time Crystals: implications for life and consciousness [video]
+- **Published**: November 20, 2025
+- **Summary**: https://www.youtube.com/watch?v=YusrOYGAhqM</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45987691">https......
+- [Read more](https://www.youtube.com/watch?v=YusrOYGAhqM)
 
 ---
 
