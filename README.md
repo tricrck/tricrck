@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Histone acetylation and CpG methylation on nucleosomes(2012)
+### TamperedChef Malware Spreads via Fake Software Installers in Ongoing Global Campaign
 - **Published**: November 20, 2025
-- **Summary**: https://www.sciencedirect.com/science/article/abs/pii/S1570963912000957</a></p>
-<p>Comments URL: <a hr......
-- [Read more](https://www.sciencedirect.com/science/article/abs/pii/S1570963912000957)
+- **Summary**: Threat actors are leveraging bogus installers masquerading as popular software to trick users into installing malware as part of a global malvertising...
+- [Read more](https://thehackernews.com/2025/11/tamperedchef-malware-spreads-via-fake.html)
 
-### Microtubules as Fractal Time Crystals: implications for life and consciousness [video]
+### The Fate of Data Model Dependency
 - **Published**: November 20, 2025
-- **Summary**: https://www.youtube.com/watch?v=YusrOYGAhqM</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45987691">https......
-- [Read more](https://www.youtube.com/watch?v=YusrOYGAhqM)
+- **Summary**: https://medium.com/@HobokenDays/the-fate-of-shared-data-model-cf8a3dc88ac9</a></p>
+<p>Comments URL:......
+- [Read more](https://medium.com/@HobokenDays/the-fate-of-shared-data-model-cf8a3dc88ac9)
 
 ---
 
