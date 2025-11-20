@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### TamperedChef Malware Spreads via Fake Software Installers in Ongoing Global Campaign
+### In 1982, a physics joke gone wrong sparked the invention of the emoticon
 - **Published**: November 20, 2025
-- **Summary**: Threat actors are leveraging bogus installers masquerading as popular software to trick users into installing malware as part of a global malvertising...
-- [Read more](https://thehackernews.com/2025/11/tamperedchef-malware-spreads-via-fake.html)
+- **Summary**: https://arstechnica.com/gadgets/2025/11/in-1982-a-physics-jok......
+- [Read more](https://arstechnica.com/gadgets/2025/11/in-1982-a-physics-joke-gone-wrong-sparked-the-invention-of-the-emoticon/)
 
-### The Fate of Data Model Dependency
+### CTM360 Exposes a Global WhatsApp Hijacking Campaign: HackOnChat
 - **Published**: November 20, 2025
-- **Summary**: https://medium.com/@HobokenDays/the-fate-of-shared-data-model-cf8a3dc88ac9</a></p>
-<p>Comments URL:......
-- [Read more](https://medium.com/@HobokenDays/the-fate-of-shared-data-model-cf8a3dc88ac9)
+- **Summary**: CTM360 has identified a rapidly expanding WhatsApp account-hacking campaign targeting users worldwide via a network of deceptive authentication portal...
+- [Read more](https://thehackernews.com/2025/11/ctm360-exposes-global-whatsapp.html)
 
 ---
 
