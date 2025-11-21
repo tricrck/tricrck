@@ -23,10 +23,10 @@ Mobile devices are essential for modern wor...
 - **Keywords**: down
 - [Read more](https://thehackernews.com/2025/11/why-it-admins-choose-samsung-for-mobile.html)
 
-### APT24 Deploys BADAUDIO in Years-Long Espionage Hitting Taiwan and 1,000+ Domains
+### Grafana Patches CVSS 10.0 SCIM Flaw Enabling Impersonation and Privilege Escalation
 - **Published**: November 21, 2025
-- **Summary**: A China-nexus threat actor known as APT24 has been observed using a previously undocumented malware dubbed BADAUDIO to establish persistent remote acc...
-- [Read more](https://thehackernews.com/2025/11/apt24-deploys-badaudio-in-years-long.html)
+- **Summary**: Grafana has released security updates to address a maximum severity security flaw that could allow privilege escalation or user impersonation under ce...
+- [Read more](https://thehackernews.com/2025/11/grafana-patches-cvss-100-scim-flaw.html)
 
 ---
 
