@@ -16,17 +16,18 @@
 
 ## 🚨 Tech Stories
 
-### NTSB Preliminary Report – Ups Boeing MD-11F Crash [pdf]
-- **Published**: November 20, 2025
-- **Summary**: https://www.ntsb.gov/Documents/Prelimiary%20Report%20DCA26MA024.pdf</a></p>
-<p>Comments URL: <a href="http......
-- **Keywords**: crash
-- [Read more](https://www.ntsb.gov/Documents/Prelimiary%20Report%20DCA26MA024.pdf)
+### In Case of Death Case: Bricks your iPad when you die
+- **Published**: November 21, 2025
+- **Summary**: https://www.zugucase.com/pages/incaseofdeath</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46000188">htt......
+- **Keywords**: bricks
+- [Read more](https://www.zugucase.com/pages/incaseofdeath)
 
-### ShadowRay 2.0 Exploits Unpatched Ray Flaw to Build Self-Spreading GPU Cryptomining Botnet
-- **Published**: November 20, 2025
-- **Summary**: Oligo Security has warned of ongoing attacks exploiting a two-year-old security flaw in the Ray open-source artificial intelligence (AI) framework to ...
-- [Read more](https://thehackernews.com/2025/11/shadowray-20-exploits-unpatched-ray.html)
+### Paris court blocks auction of earliest-known calculator
+- **Published**: November 21, 2025
+- **Summary**: https://www.bbc.com/news/articles/c2kpkq90ygno</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46000205"......
+- [Read more](https://www.bbc.com/news/articles/c2kpkq90ygno)
 
 ---
 
