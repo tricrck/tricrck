@@ -16,16 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Salesforce Flags Unauthorized Data Access via Gainsight-Linked OAuth Activity
+### Why IT Admins Choose Samsung for Mobile Security
 - **Published**: November 21, 2025
-- **Summary**: Salesforce has warned of detected "unusual activity" related to Gainsight-published applications connected to the platform.
-"Our investigation indicat...
-- [Read more](https://thehackernews.com/2025/11/salesforce-flags-unauthorized-data.html)
+- **Summary**: Ever wonder how some IT teams keep corporate data safe without slowing down employees? Of course you have.
+Mobile devices are essential for modern wor...
+- **Keywords**: down
+- [Read more](https://thehackernews.com/2025/11/why-it-admins-choose-samsung-for-mobile.html)
 
-### Finding an edge against the robots needs top human expertise
+### APT24 Deploys BADAUDIO in Years-Long Espionage Hitting Taiwan and 1,000+ Domains
 - **Published**: November 21, 2025
-- **Summary**: https://www.thetimes.com/business/entrepreneu......
-- [Read more](https://www.thetimes.com/business/entrepreneurs/article/prosapient-competitive-edge-human-expertise-enterprise-network-kzlsxdjlq)
+- **Summary**: A China-nexus threat actor known as APT24 has been observed using a previously undocumented malware dubbed BADAUDIO to establish persistent remote acc...
+- [Read more](https://thehackernews.com/2025/11/apt24-deploys-badaudio-in-years-long.html)
 
 ---
 
