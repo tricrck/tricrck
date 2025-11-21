@@ -16,18 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### In Case of Death Case: Bricks your iPad when you die
+### Salesforce Flags Unauthorized Data Access via Gainsight-Linked OAuth Activity
 - **Published**: November 21, 2025
-- **Summary**: https://www.zugucase.com/pages/incaseofdeath</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46000188">htt......
-- **Keywords**: bricks
-- [Read more](https://www.zugucase.com/pages/incaseofdeath)
+- **Summary**: Salesforce has warned of detected "unusual activity" related to Gainsight-published applications connected to the platform.
+"Our investigation indicat...
+- [Read more](https://thehackernews.com/2025/11/salesforce-flags-unauthorized-data.html)
 
-### Paris court blocks auction of earliest-known calculator
+### Finding an edge against the robots needs top human expertise
 - **Published**: November 21, 2025
-- **Summary**: https://www.bbc.com/news/articles/c2kpkq90ygno</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46000205"......
-- [Read more](https://www.bbc.com/news/articles/c2kpkq90ygno)
+- **Summary**: https://www.thetimes.com/business/entrepreneu......
+- [Read more](https://www.thetimes.com/business/entrepreneurs/article/prosapient-competitive-edge-human-expertise-enterprise-network-kzlsxdjlq)
 
 ---
 
