@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Why IT Admins Choose Samsung for Mobile Security
-- **Published**: November 21, 2025
-- **Summary**: Ever wonder how some IT teams keep corporate data safe without slowing down employees? Of course you have.
-Mobile devices are essential for modern wor...
-- **Keywords**: down
-- [Read more](https://thehackernews.com/2025/11/why-it-admins-choose-samsung-for-mobile.html)
+### Cryptographers cancel election results after losing decryption key
+- **Published**: November 22, 2025
+- **Summary**: https://arstechnica.com/security/2025/11/cryptography-gr......
+- [Read more](https://arstechnica.com/security/2025/11/cryptography-group-cancels-election-results-after-official-loses-secret-key/)
 
-### Grafana Patches CVSS 10.0 SCIM Flaw Enabling Impersonation and Privilege Escalation
-- **Published**: November 21, 2025
-- **Summary**: Grafana has released security updates to address a maximum severity security flaw that could allow privilege escalation or user impersonation under ce...
-- [Read more](https://thehackernews.com/2025/11/grafana-patches-cvss-100-scim-flaw.html)
+### PatpDNS Chrome Browser Extention
+- **Published**: November 22, 2025
+- **Summary**: https://github.com/skilo83/patpDNS-Chrome-extention</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id......
+- [Read more](https://github.com/skilo83/patpDNS-Chrome-extention)
 
 ---
 
