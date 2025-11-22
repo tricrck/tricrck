@@ -16,16 +16,18 @@
 
 ## 🚨 Tech Stories
 
-### Cryptographers cancel election results after losing decryption key
+### Show HN: Nano Banana Pro – AI image generation and editing platform
 - **Published**: November 22, 2025
-- **Summary**: https://arstechnica.com/security/2025/11/cryptography-gr......
-- [Read more](https://arstechnica.com/security/2025/11/cryptography-group-cancels-election-results-after-official-loses-secret-key/)
+- **Summary**: 
+<hr />
+<p>Comments URL: <a href="https://news.ycombina......
+- [Read more](https://nanobananapro.design)
 
-### PatpDNS Chrome Browser Extention
+### Building a deep-space logistics startup
 - **Published**: November 22, 2025
-- **Summary**: https://github.com/skilo83/patpDNS-Chrome-extention</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id......
-- [Read more](https://github.com/skilo83/patpDNS-Chrome-extention)
+- **Summary**: https://ionmicrosys.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46012538">https://news.ycombinator.com/item?id=460125....
+- [Read more](https://ionmicrosys.com/)
 
 ---
 
