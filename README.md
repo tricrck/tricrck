@@ -16,18 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### PyPitfall: Dependency Chaos and Software Supply Chain Vulnerabilities in Python
+### China-Linked APT31 Launches Stealthy Cyberattacks on Russian IT Using Cloud Services
 - **Published**: November 22, 2025
-- **Summary**: https://nocomplexity.substack.com/p/pypitfall-dependency-chaos-and-software</a></p>
-<p>Comments UR......
-- **Keywords**: chaos, chaos, chaos
-- [Read more](https://nocomplexity.substack.com/p/pypitfall-dependency-chaos-and-software)
+- **Summary**: The China-linked advanced persistent threat (APT) group known as APT31 has been attributed to cyber attacks targeting the Russian information technolo...
+- [Read more](https://thehackernews.com/2025/11/china-linked-apt31-launches-stealthy.html)
 
-### US tech stocks slide as jolt of volatility hits Wall Street
+### Scientists create new bullet-proof fiber stronger and thinner than Kevlar
 - **Published**: November 22, 2025
-- **Summary**: https://www.ft.com/content/2c0bb19c-7c64-453f-95ab-c0f54a184089</a></p>
-<p>Comments URL: <a href="https://news......
-- [Read more](https://www.ft.com/content/2c0bb19c-7c64-453f-95ab-c0f54a184089)
+- **Summary**: https://phys.org/news/2025-11-scientists-bullet-proof-fiber-stronger.html</a></p>
+<p>Comments URL: <......
+- [Read more](https://phys.org/news/2025-11-scientists-bullet-proof-fiber-stronger.html)
 
 ---
 
