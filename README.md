@@ -16,18 +16,18 @@
 
 ## 🚨 Tech Stories
 
-### Show HN: Nano Banana Pro – AI image generation and editing platform
+### PyPitfall: Dependency Chaos and Software Supply Chain Vulnerabilities in Python
 - **Published**: November 22, 2025
-- **Summary**: 
-<hr />
-<p>Comments URL: <a href="https://news.ycombina......
-- [Read more](https://nanobananapro.design)
+- **Summary**: https://nocomplexity.substack.com/p/pypitfall-dependency-chaos-and-software</a></p>
+<p>Comments UR......
+- **Keywords**: chaos, chaos, chaos
+- [Read more](https://nocomplexity.substack.com/p/pypitfall-dependency-chaos-and-software)
 
-### Building a deep-space logistics startup
+### US tech stocks slide as jolt of volatility hits Wall Street
 - **Published**: November 22, 2025
-- **Summary**: https://ionmicrosys.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46012538">https://news.ycombinator.com/item?id=460125....
-- [Read more](https://ionmicrosys.com/)
+- **Summary**: https://www.ft.com/content/2c0bb19c-7c64-453f-95ab-c0f54a184089</a></p>
+<p>Comments URL: <a href="https://news......
+- [Read more](https://www.ft.com/content/2c0bb19c-7c64-453f-95ab-c0f54a184089)
 
 ---
 
