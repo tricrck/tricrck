@@ -16,16 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### SoX_ng
+### AI Ignites the Return of Bezos the Inventor
 - **Published**: November 23, 2025
-- **Summary**: https://codeberg.org/sox_ng/sox_ng</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46021231">https://news.ycombinato......
-- [Read more](https://codeberg.org/sox_ng/sox_ng)
+- **Summary**: https://www.wsj.com/tech/ai/ai-ignites-the-return-of-bezos-the-inventor-c42d0075</a></p>
+<p>C......
+- [Read more](https://www.wsj.com/tech/ai/ai-ignites-the-return-of-bezos-the-inventor-c42d0075)
 
-### "Work –> Appreciation" Cycle
+### Mind-reading devices can now predict preconscious thoughts: is it time to worry?
 - **Published**: November 23, 2025
-- **Summary**: <p>I am a 24yo trying to figure out what kind of work makes me happy. I am a currently a software engineer.<p>I love when people appreciate what I hav...
-- [Read more](https://news.ycombinator.com/item?id=46021230)
+- **Summary**: https://www.nature.com/articles/d41586-025-03714-0</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4......
+- [Read more](https://www.nature.com/articles/d41586-025-03714-0)
 
 ---
 
