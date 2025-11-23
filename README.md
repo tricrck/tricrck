@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Simple web app to teach financial responsibility to kids
+### SoX_ng
 - **Published**: November 23, 2025
-- **Summary**: https://familypay.us</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46020023">https://news.ycombinator.com/item?id=46020023</a...
-- [Read more](https://familypay.us)
+- **Summary**: https://codeberg.org/sox_ng/sox_ng</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46021231">https://news.ycombinato......
+- [Read more](https://codeberg.org/sox_ng/sox_ng)
 
-### Best AI Coding Agents – Gosu Evals
+### "Work –> Appreciation" Cycle
 - **Published**: November 23, 2025
-- **Summary**: https://gosuevals.com/agents.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46019964">https://news.ycombinator.......
-- [Read more](https://gosuevals.com/agents.html)
+- **Summary**: <p>I am a 24yo trying to figure out what kind of work makes me happy. I am a currently a software engineer.<p>I love when people appreciate what I hav...
+- [Read more](https://news.ycombinator.com/item?id=46021230)
 
 ---
 
