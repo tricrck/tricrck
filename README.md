@@ -16,17 +16,18 @@
 
 ## 🚨 Tech Stories
 
-### AI Ignites the Return of Bezos the Inventor
+### Call Center TransNusa
 - **Published**: November 23, 2025
-- **Summary**: https://www.wsj.com/tech/ai/ai-ignites-the-return-of-bezos-the-inventor-c42d0075</a></p>
-<p>C......
-- [Read more](https://www.wsj.com/tech/ai/ai-ignites-the-return-of-bezos-the-inventor-c42d0075)
+- **Summary**: 
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46......
+- [Read more](https://news.ycombinator.com/item?id=46025952)
 
-### Mind-reading devices can now predict preconscious thoughts: is it time to worry?
+### Google Chrome Developer Tools: AI Powered Suggestions
 - **Published**: November 23, 2025
-- **Summary**: https://www.nature.com/articles/d41586-025-03714-0</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4......
-- [Read more](https://www.nature.com/articles/d41586-025-03714-0)
+- **Summary**: https://developer.chrome.com/docs/devtools/settings/ai-innovations</a></p>
+<p>Comments URL: <a href="https:......
+- [Read more](https://developer.chrome.com/docs/devtools/settings/ai-innovations)
 
 ---
 
