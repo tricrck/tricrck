@@ -16,16 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### China-Linked APT31 Launches Stealthy Cyberattacks on Russian IT Using Cloud Services
-- **Published**: November 22, 2025
-- **Summary**: The China-linked advanced persistent threat (APT) group known as APT31 has been attributed to cyber attacks targeting the Russian information technolo...
-- [Read more](https://thehackernews.com/2025/11/china-linked-apt31-launches-stealthy.html)
+### Simple web app to teach financial responsibility to kids
+- **Published**: November 23, 2025
+- **Summary**: https://familypay.us</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46020023">https://news.ycombinator.com/item?id=46020023</a...
+- [Read more](https://familypay.us)
 
-### Scientists create new bullet-proof fiber stronger and thinner than Kevlar
-- **Published**: November 22, 2025
-- **Summary**: https://phys.org/news/2025-11-scientists-bullet-proof-fiber-stronger.html</a></p>
-<p>Comments URL: <......
-- [Read more](https://phys.org/news/2025-11-scientists-bullet-proof-fiber-stronger.html)
+### Best AI Coding Agents – Gosu Evals
+- **Published**: November 23, 2025
+- **Summary**: https://gosuevals.com/agents.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46019964">https://news.ycombinator.......
+- [Read more](https://gosuevals.com/agents.html)
 
 ---
 
