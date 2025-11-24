@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Chinese DeepSeek-R1 AI Generates Insecure Code When Prompts Mention Tibet or Uyghurs
+### New Fluent Bit Flaws Expose Cloud to RCE and Stealthy Infrastructure Intrusions
 - **Published**: November 24, 2025
-- **Summary**: New research from CrowdStrike has revealed that DeepSeek's artificial intelligence (AI) reasoning model DeepSeek-R1 produces more security vulnerabili...
-- [Read more](https://thehackernews.com/2025/11/chinese-ai-model-deepseek-r1-generates.html)
+- **Summary**: Cybersecurity researchers have discovered five vulnerabilities in Fluent Bit, an open-source and lightweight telemetry agent, that could be chained to...
+- [Read more](https://thehackernews.com/2025/11/new-fluent-bit-flaws-expose-cloud-to.html)
 
-### ShadowPad Malware Actively Exploits WSUS Vulnerability for Full System Access
+### Second Sha1-Hulud Wave Affects 25,000+ Repositories via npm Preinstall Credential Theft
 - **Published**: November 24, 2025
-- **Summary**: A recently patched security flaw in Microsoft Windows Server Update Services (WSUS) has been exploited by threat actors to distribute malware known as...
-- [Read more](https://thehackernews.com/2025/11/shadowpad-malware-actively-exploits.html)
+- **Summary**: Multiple security vendors are sounding the alarm about a second wave of attacks targeting the npm registry in a manner that's reminiscent of the Shai-...
+- [Read more](https://thehackernews.com/2025/11/second-sha1-hulud-wave-affects-25000.html)
 
 ---
 
