@@ -16,17 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Pabst, Pamphlets and a Petition: A Harvard-Yale Tailgate in the Trump Era
+### The Cloudflare outage was a good thing
 - **Published**: November 24, 2025
-- **Summary**: https://www.nytimes.com/2025/11/23/us/politics/yale-harvard-football-trump.html</a></p>
-<p>Com......
-- [Read more](https://www.nytimes.com/2025/11/23/us/politics/yale-harvard-football-trump.html)
+- **Summary**: ......
+- **Keywords**: outage
+- [Read more](https://gist.github.com/jbreckmckye/32587f2907e473dd06d68b0362fb0048)
 
-### Google Leapfrogged Rivals with New Gemini Rollout
+### Typography in the Wild
 - **Published**: November 24, 2025
-- **Summary**: https://www.wsj.com/tech/ai/google-gemini-3-ai-behind-scenes-e1787729</a></p>
-<p>Comments URL: <a href="......
-- [Read more](https://www.wsj.com/tech/ai/google-gemini-3-ai-behind-scenes-e1787729)
+- **Summary**: https://www.jaydip.me/blog/typography-in-the-wild</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=460......
+- [Read more](https://www.jaydip.me/blog/typography-in-the-wild)
 
 ---
 
