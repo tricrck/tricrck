@@ -16,17 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### The Cloudflare outage was a good thing
+### Chinese DeepSeek-R1 AI Generates Insecure Code When Prompts Mention Tibet or Uyghurs
 - **Published**: November 24, 2025
-- **Summary**: ......
-- **Keywords**: outage
-- [Read more](https://gist.github.com/jbreckmckye/32587f2907e473dd06d68b0362fb0048)
+- **Summary**: New research from CrowdStrike has revealed that DeepSeek's artificial intelligence (AI) reasoning model DeepSeek-R1 produces more security vulnerabili...
+- [Read more](https://thehackernews.com/2025/11/chinese-ai-model-deepseek-r1-generates.html)
 
-### Typography in the Wild
+### ShadowPad Malware Actively Exploits WSUS Vulnerability for Full System Access
 - **Published**: November 24, 2025
-- **Summary**: https://www.jaydip.me/blog/typography-in-the-wild</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=460......
-- [Read more](https://www.jaydip.me/blog/typography-in-the-wild)
+- **Summary**: A recently patched security flaw in Microsoft Windows Server Update Services (WSUS) has been exploited by threat actors to distribute malware known as...
+- [Read more](https://thehackernews.com/2025/11/shadowpad-malware-actively-exploits.html)
 
 ---
 
