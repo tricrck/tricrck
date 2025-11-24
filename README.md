@@ -16,18 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Call Center TransNusa
-- **Published**: November 23, 2025
-- **Summary**: 
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46......
-- [Read more](https://news.ycombinator.com/item?id=46025952)
+### Pabst, Pamphlets and a Petition: A Harvard-Yale Tailgate in the Trump Era
+- **Published**: November 24, 2025
+- **Summary**: https://www.nytimes.com/2025/11/23/us/politics/yale-harvard-football-trump.html</a></p>
+<p>Com......
+- [Read more](https://www.nytimes.com/2025/11/23/us/politics/yale-harvard-football-trump.html)
 
-### Google Chrome Developer Tools: AI Powered Suggestions
-- **Published**: November 23, 2025
-- **Summary**: https://developer.chrome.com/docs/devtools/settings/ai-innovations</a></p>
-<p>Comments URL: <a href="https:......
-- [Read more](https://developer.chrome.com/docs/devtools/settings/ai-innovations)
+### Google Leapfrogged Rivals with New Gemini Rollout
+- **Published**: November 24, 2025
+- **Summary**: https://www.wsj.com/tech/ai/google-gemini-3-ai-behind-scenes-e1787729</a></p>
+<p>Comments URL: <a href="......
+- [Read more](https://www.wsj.com/tech/ai/google-gemini-3-ai-behind-scenes-e1787729)
 
 ---
 
