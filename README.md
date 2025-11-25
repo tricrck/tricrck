@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### ToddyCat’s New Hacking Tools Steal Outlook Emails and Microsoft 365 Access Tokens
+### Years of JSONFormatter and CodeBeautify Leaks Expose Thousands of Passwords and API Keys
 - **Published**: November 25, 2025
-- **Summary**: The threat actor known as ToddyCat has been observed adopting new methods to obtain access to corporate email data belonging to target companies, incl...
-- [Read more](https://thehackernews.com/2025/11/toddycats-new-hacking-tools-steal.html)
+- **Summary**: New research has found that organizations in various sensitive sectors, including governments, telecoms, and critical infrastructure, are pasting pass...
+- [Read more](https://thehackernews.com/2025/11/years-of-jsonformatter-and-codebeautify.html)
 
-### 3 SOC Challenges You Need to Solve Before 2026
+### JackFix Uses Fake Windows Update Pop-Ups on Adult Sites to Deliver Multiple Stealers
 - **Published**: November 25, 2025
-- **Summary**: 2026 will mark a pivotal shift in cybersecurity. Threat actors are moving from experimenting with AI to making it their primary weapon, using it to sc...
-- [Read more](https://thehackernews.com/2025/11/3-soc-challenges-you-need-to-solve.html)
+- **Summary**: Cybersecurity researchers are calling attention to a new campaign that's leveraging a combination of ClickFix lures and fake adult websites to deceive...
+- [Read more](https://thehackernews.com/2025/11/jackfix-uses-fake-windows-update-pop.html)
 
 ---
 
