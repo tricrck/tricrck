@@ -16,17 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Markov Random Field
+### Instructions for generating AI porn posted on .gov website
 - **Published**: November 25, 2025
-- **Summary**: https://en.wikipedia.org/wiki/Markov_random_field</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=460......
-- [Read more](https://en.wikipedia.org/wiki/Markov_random_field)
+- **Summary**: https://bakersfieldnow.com/news/local/nude-ai-deepfake-instru......
+- [Read more](https://bakersfieldnow.com/news/local/nude-ai-deepfake-instructions-posted-on-local-air-quality-district-website)
 
-### Two Years of Blender VSE
+### The Tune of Things: Is Consciousness God?
 - **Published**: November 25, 2025
-- **Summary**: https://aras-p.info/blog/2025/11/23/Two-years-of-Blender-VSE/</a></p>
-<p>Comments URL: <a href="https://news.yco......
-- [Read more](https://aras-p.info/blog/2025/11/23/Two-years-of-Blender-VSE/)
+- **Summary**: https://harpers.org/archive/2025/12/the-tune-of-things-christian-wiman-consciousness......
+- [Read more](https://harpers.org/archive/2025/12/the-tune-of-things-christian-wiman-consciousness-god/)
 
 ---
 
