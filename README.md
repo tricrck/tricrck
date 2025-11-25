@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Instructions for generating AI porn posted on .gov website
+### ToddyCat’s New Hacking Tools Steal Outlook Emails and Microsoft 365 Access Tokens
 - **Published**: November 25, 2025
-- **Summary**: https://bakersfieldnow.com/news/local/nude-ai-deepfake-instru......
-- [Read more](https://bakersfieldnow.com/news/local/nude-ai-deepfake-instructions-posted-on-local-air-quality-district-website)
+- **Summary**: The threat actor known as ToddyCat has been observed adopting new methods to obtain access to corporate email data belonging to target companies, incl...
+- [Read more](https://thehackernews.com/2025/11/toddycats-new-hacking-tools-steal.html)
 
-### The Tune of Things: Is Consciousness God?
+### 3 SOC Challenges You Need to Solve Before 2026
 - **Published**: November 25, 2025
-- **Summary**: https://harpers.org/archive/2025/12/the-tune-of-things-christian-wiman-consciousness......
-- [Read more](https://harpers.org/archive/2025/12/the-tune-of-things-christian-wiman-consciousness-god/)
+- **Summary**: 2026 will mark a pivotal shift in cybersecurity. Threat actors are moving from experimenting with AI to making it their primary weapon, using it to sc...
+- [Read more](https://thehackernews.com/2025/11/3-soc-challenges-you-need-to-solve.html)
 
 ---
 
