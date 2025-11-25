@@ -16,15 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### New Fluent Bit Flaws Expose Cloud to RCE and Stealthy Infrastructure Intrusions
-- **Published**: November 24, 2025
-- **Summary**: Cybersecurity researchers have discovered five vulnerabilities in Fluent Bit, an open-source and lightweight telemetry agent, that could be chained to...
-- [Read more](https://thehackernews.com/2025/11/new-fluent-bit-flaws-expose-cloud-to.html)
+### Markov Random Field
+- **Published**: November 25, 2025
+- **Summary**: https://en.wikipedia.org/wiki/Markov_random_field</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=460......
+- [Read more](https://en.wikipedia.org/wiki/Markov_random_field)
 
-### Second Sha1-Hulud Wave Affects 25,000+ Repositories via npm Preinstall Credential Theft
-- **Published**: November 24, 2025
-- **Summary**: Multiple security vendors are sounding the alarm about a second wave of attacks targeting the npm registry in a manner that's reminiscent of the Shai-...
-- [Read more](https://thehackernews.com/2025/11/second-sha1-hulud-wave-affects-25000.html)
+### Two Years of Blender VSE
+- **Published**: November 25, 2025
+- **Summary**: https://aras-p.info/blog/2025/11/23/Two-years-of-Blender-VSE/</a></p>
+<p>Comments URL: <a href="https://news.yco......
+- [Read more](https://aras-p.info/blog/2025/11/23/Two-years-of-Blender-VSE/)
 
 ---
 
