@@ -16,15 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Years of JSONFormatter and CodeBeautify Leaks Expose Thousands of Passwords and API Keys
+### Get an in-depth look at Gemini 3 with CEO Sundar Pichai.
 - **Published**: November 25, 2025
-- **Summary**: New research has found that organizations in various sensitive sectors, including governments, telecoms, and critical infrastructure, are pasting pass...
-- [Read more](https://thehackernews.com/2025/11/years-of-jsonformatter-and-codebeautify.html)
+- **Summary**: <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Release_Notes_Sundar_Pichai_003.max-600x600.format-webp.webp" />Sundar Picha...
+- **Keywords**: down
+- [Read more](https://blog.google/technology/ai/sundar-pichai-ai-release-notes-podcast/)
 
-### JackFix Uses Fake Windows Update Pop-Ups on Adult Sites to Deliver Multiple Stealers
-- **Published**: November 25, 2025
-- **Summary**: Cybersecurity researchers are calling attention to a new campaign that's leveraging a combination of ClickFix lures and fake adult websites to deceive...
-- [Read more](https://thehackernews.com/2025/11/jackfix-uses-fake-windows-update-pop.html)
+### Scientists can now watch metal crystals grow inside liquid metal
+- **Published**: November 26, 2025
+- **Summary**: https://theconversation.com/scientists-can-now-watch-metal-crystals-grow-i......
+- [Read more](https://theconversation.com/scientists-can-now-watch-metal-crystals-grow-inside-liquid-metal-270451)
 
 ---
 
