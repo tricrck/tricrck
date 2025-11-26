@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### When Your $2M Security Detection Fails: Can your SOC Save You?
+### OpenAI says dead teen violated TOS when he used ChatGPT to plan suicide
 - **Published**: November 26, 2025
-- **Summary**: Enterprises today are expected to have at least 6-8 detection tools, as detection is considered a standard investment and the first line of defense. Y...
-- [Read more](https://thehackernews.com/2025/11/when-your-2m-security-detection-fails.html)
+- **Summary**: https://arstechnica.com/tech-policy/2025/11/openai-says-d......
+- [Read more](https://arstechnica.com/tech-policy/2025/11/openai-says-dead-teen-violated-tos-when-he-used-chatgpt-to-plan-suicide/)
 
-### Webinar: Learn to Spot Risks and Patch Safely with Community-Maintained Tools
+### Shai-Hulud v2 Campaign Spreads From npm to Maven, Exposing Thousands of Secrets
 - **Published**: November 26, 2025
-- **Summary**: If you're using community tools like Chocolatey or Winget to keep systems updated, you're not alone. These platforms are fast, flexible, and easy to w...
-- [Read more](https://thehackernews.com/2025/11/webinar-learn-to-spot-risks-and-patch.html)
+- **Summary**: The second wave of the Shai-Hulud supply chain attack has spilled over to the Maven ecosystem after compromising more than 830 packages in the npm reg...
+- [Read more](https://thehackernews.com/2025/11/shai-hulud-v2-campaign-spreads-from-npm.html)
 
 ---
 
