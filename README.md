@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Get an in-depth look at Gemini 3 with CEO Sundar Pichai.
-- **Published**: November 25, 2025
-- **Summary**: <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Release_Notes_Sundar_Pichai_003.max-600x600.format-webp.webp" />Sundar Picha...
-- **Keywords**: down
-- [Read more](https://blog.google/technology/ai/sundar-pichai-ai-release-notes-podcast/)
-
-### FBI Reports $262M in ATO Fraud as Researchers Cite Growing AI Phishing and Holiday Scams
+### When Your $2M Security Detection Fails: Can your SOC Save You?
 - **Published**: November 26, 2025
-- **Summary**: The U.S. Federal Bureau of Investigation (FBI) has warned that cybercriminals are impersonating financial institutions with an aim to steal money or s...
-- [Read more](https://thehackernews.com/2025/11/fbi-reports-262m-in-ato-fraud-as.html)
+- **Summary**: Enterprises today are expected to have at least 6-8 detection tools, as detection is considered a standard investment and the first line of defense. Y...
+- [Read more](https://thehackernews.com/2025/11/when-your-2m-security-detection-fails.html)
+
+### Webinar: Learn to Spot Risks and Patch Safely with Community-Maintained Tools
+- **Published**: November 26, 2025
+- **Summary**: If you're using community tools like Chocolatey or Winget to keep systems updated, you're not alone. These platforms are fast, flexible, and easy to w...
+- [Read more](https://thehackernews.com/2025/11/webinar-learn-to-spot-risks-and-patch.html)
 
 ---
 
