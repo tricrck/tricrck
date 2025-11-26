@@ -22,10 +22,10 @@
 - **Keywords**: down
 - [Read more](https://blog.google/technology/ai/sundar-pichai-ai-release-notes-podcast/)
 
-### Scientists can now watch metal crystals grow inside liquid metal
+### FBI Reports $262M in ATO Fraud as Researchers Cite Growing AI Phishing and Holiday Scams
 - **Published**: November 26, 2025
-- **Summary**: https://theconversation.com/scientists-can-now-watch-metal-crystals-grow-i......
-- [Read more](https://theconversation.com/scientists-can-now-watch-metal-crystals-grow-inside-liquid-metal-270451)
+- **Summary**: The U.S. Federal Bureau of Investigation (FBI) has warned that cybercriminals are impersonating financial institutions with an aim to steal money or s...
+- [Read more](https://thehackernews.com/2025/11/fbi-reports-262m-in-ato-fraud-as.html)
 
 ---
 
