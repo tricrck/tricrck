@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### OpenAI says dead teen violated TOS when he used ChatGPT to plan suicide
-- **Published**: November 26, 2025
-- **Summary**: https://arstechnica.com/tech-policy/2025/11/openai-says-d......
-- [Read more](https://arstechnica.com/tech-policy/2025/11/openai-says-dead-teen-violated-tos-when-he-used-chatgpt-to-plan-suicide/)
+### Rich and dynamic user interfaces with Flutter and generative UI
+- **Published**: November 27, 2025
+- **Summary**: https://blog.flutter.dev/rich-and-dynamic-user-interfaces-with-flutter-a......
+- [Read more](https://blog.flutter.dev/rich-and-dynamic-user-interfaces-with-flutter-and-generative-ui-178405af2455)
 
-### Shai-Hulud v2 Campaign Spreads From npm to Maven, Exposing Thousands of Secrets
-- **Published**: November 26, 2025
-- **Summary**: The second wave of the Shai-Hulud supply chain attack has spilled over to the Maven ecosystem after compromising more than 830 packages in the npm reg...
-- [Read more](https://thehackernews.com/2025/11/shai-hulud-v2-campaign-spreads-from-npm.html)
+### The 'Quiet Catastrophe' Brewing in Our Social Lives
+- **Published**: November 27, 2025
+- **Summary**: https://podcasts.apple.com/us/podcast/the-ezra-klein-show/id1548604447?i=1000738305359<......
+- [Read more](https://podcasts.apple.com/us/podcast/the-ezra-klein-show/id1548604447?i=1000738305359)
 
 ---
 
