@@ -16,15 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Tesla FSD software may not be approved by EU regulator after all
+### ThreatsDay Bulletin: AI Malware, Voice Bot Flaws, Crypto Laundering, IoT Attacks — and 20 More Stories
 - **Published**: November 27, 2025
-- **Summary**: https://techcrunch.com/2025/11/24/tesla-fsd-software-may-not-be-approved-b......
-- [Read more](https://techcrunch.com/2025/11/24/tesla-fsd-software-may-not-be-approved-by-eu-regulator-after-all/)
+- **Summary**: Hackers have been busy again this week. From fake voice calls and AI-powered malware to huge money-laundering busts and new scams, there’s a lot happe...
+- [Read more](https://thehackernews.com/2025/11/threatsday-bulletin-ai-malware-voice.html)
 
-### Artificial 'nose' tells people when certain smells are present
+### Solving the Partridge square packing problem using MiniZinc
 - **Published**: November 27, 2025
-- **Summary**: https://www.science.org/content/article/artificial-nose-tells-people-when......
-- [Read more](https://www.science.org/content/article/artificial-nose-tells-people-when-certain-smells-are-present)
+- **Summary**: https://zayenz.se/blog/post/partridge-packing/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46068731"......
+- [Read more](https://zayenz.se/blog/post/partridge-packing/)
 
 ---
 
