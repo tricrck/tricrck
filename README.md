@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Rich and dynamic user interfaces with Flutter and generative UI
+### Tesla FSD software may not be approved by EU regulator after all
 - **Published**: November 27, 2025
-- **Summary**: https://blog.flutter.dev/rich-and-dynamic-user-interfaces-with-flutter-a......
-- [Read more](https://blog.flutter.dev/rich-and-dynamic-user-interfaces-with-flutter-and-generative-ui-178405af2455)
+- **Summary**: https://techcrunch.com/2025/11/24/tesla-fsd-software-may-not-be-approved-b......
+- [Read more](https://techcrunch.com/2025/11/24/tesla-fsd-software-may-not-be-approved-by-eu-regulator-after-all/)
 
-### The 'Quiet Catastrophe' Brewing in Our Social Lives
+### Artificial 'nose' tells people when certain smells are present
 - **Published**: November 27, 2025
-- **Summary**: https://podcasts.apple.com/us/podcast/the-ezra-klein-show/id1548604447?i=1000738305359<......
-- [Read more](https://podcasts.apple.com/us/podcast/the-ezra-klein-show/id1548604447?i=1000738305359)
+- **Summary**: https://www.science.org/content/article/artificial-nose-tells-people-when......
+- [Read more](https://www.science.org/content/article/artificial-nose-tells-people-when-certain-smells-are-present)
 
 ---
 
