@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### ThreatsDay Bulletin: AI Malware, Voice Bot Flaws, Crypto Laundering, IoT Attacks — and 20 More Stories
+### Microsoft to Block Unauthorized Scripts in Entra ID Logins with 2026 CSP Update
 - **Published**: November 27, 2025
-- **Summary**: Hackers have been busy again this week. From fake voice calls and AI-powered malware to huge money-laundering busts and new scams, there’s a lot happe...
-- [Read more](https://thehackernews.com/2025/11/threatsday-bulletin-ai-malware-voice.html)
+- **Summary**: Microsoft has announced plans to improve the security of Entra ID authentication by blocking unauthorized script injection attacks starting a year fro...
+- [Read more](https://thehackernews.com/2025/11/microsoft-to-block-unauthorized-scripts.html)
 
-### Solving the Partridge square packing problem using MiniZinc
+### Webinar: Learn to Spot Risks and Patch Safely with Community-Maintained Tools
 - **Published**: November 27, 2025
-- **Summary**: https://zayenz.se/blog/post/partridge-packing/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46068731"......
-- [Read more](https://zayenz.se/blog/post/partridge-packing/)
+- **Summary**: If you're using community tools like Chocolatey or Winget to keep systems updated, you're not alone. These platforms are fast, flexible, and easy to w...
+- [Read more](https://thehackernews.com/2025/11/webinar-learn-to-spot-risks-and-patch.html)
 
 ---
 
