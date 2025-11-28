@@ -16,15 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Microsoft to Block Unauthorized Scripts in Entra ID Logins with 2026 CSP Update
-- **Published**: November 27, 2025
-- **Summary**: Microsoft has announced plans to improve the security of Entra ID authentication by blocking unauthorized script injection attacks starting a year fro...
-- [Read more](https://thehackernews.com/2025/11/microsoft-to-block-unauthorized-scripts.html)
+### Small changes to 'for you' feed on X can rapidly increase political polarisation
+- **Published**: November 28, 2025
+- **Summary**: https://www.theguardian.com/technology/2......
+- [Read more](https://www.theguardian.com/technology/2025/nov/27/partisan-x-posts-increase-political-polarisation-among-users-social-media-research)
 
-### Webinar: Learn to Spot Risks and Patch Safely with Community-Maintained Tools
-- **Published**: November 27, 2025
-- **Summary**: If you're using community tools like Chocolatey or Winget to keep systems updated, you're not alone. These platforms are fast, flexible, and easy to w...
-- [Read more](https://thehackernews.com/2025/11/webinar-learn-to-spot-risks-and-patch.html)
+### IntelliJ: Enabling Internal Mode
+- **Published**: November 28, 2025
+- **Summary**: https://plugins.jetbrains.com/docs/intellij/enabling-internal.html</a></p>
+<p>Comments URL: <a href="https:......
+- [Read more](https://plugins.jetbrains.com/docs/intellij/enabling-internal.html)
 
 ---
 
