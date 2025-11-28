@@ -16,17 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Lovable Is Down
+### Legacy Python Bootstrap Scripts Create Domain-Takeover Risk in Multiple PyPI Packages
 - **Published**: November 28, 2025
-- **Summary**: https://status.lovable.dev</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46078067">https://news.ycombinator.com/item?id=46......
-- **Keywords**: down
-- [Read more](https://status.lovable.dev)
+- **Summary**: Cybersecurity researchers have discovered vulnerable code in legacy Python packages that could potentially pave the way for a supply chain compromise ...
+- [Read more](https://thehackernews.com/2025/11/legacy-python-bootstrap-scripts-create.html)
 
-### Why Organizations Are Turning to RPAM
+### North Korean Hackers Deploy 197 npm Packages to Spread Updated OtterCookie Malware
 - **Published**: November 28, 2025
-- **Summary**: As IT environments become increasingly distributed and organizations adopt hybrid and remote work at scale, traditional perimeter-based security model...
-- [Read more](https://thehackernews.com/2025/11/why-organizations-are-turning-to-rpam.html)
+- **Summary**: The North Korean threat actors behind the Contagious Interview campaign have continued to flood the npm registry with 197 more malicious packages sinc...
+- [Read more](https://thehackernews.com/2025/11/north-korean-hackers-deploy-197-npm.html)
 
 ---
 
