@@ -16,17 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Project Cybersyn
+### Lovable Is Down
 - **Published**: November 28, 2025
-- **Summary**: https://en.wikipedia.org/wiki/Project_Cybersyn</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46076047"......
-- [Read more](https://en.wikipedia.org/wiki/Project_Cybersyn)
+- **Summary**: https://status.lovable.dev</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46078067">https://news.ycombinator.com/item?id=46......
+- **Keywords**: down
+- [Read more](https://status.lovable.dev)
 
-### AI Tools for Streamlining Customer Communication. Halper
+### Why Organizations Are Turning to RPAM
 - **Published**: November 28, 2025
-- **Summary**: https://halper.ai/blog/ai-tools-for-streamlining-customer-communication</a></p>
-<p>Comments URL: <a hr......
-- [Read more](https://halper.ai/blog/ai-tools-for-streamlining-customer-communication)
+- **Summary**: As IT environments become increasingly distributed and organizations adopt hybrid and remote work at scale, traditional perimeter-based security model...
+- [Read more](https://thehackernews.com/2025/11/why-organizations-are-turning-to-rpam.html)
 
 ---
 
