@@ -16,16 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Small changes to 'for you' feed on X can rapidly increase political polarisation
+### Project Cybersyn
 - **Published**: November 28, 2025
-- **Summary**: https://www.theguardian.com/technology/2......
-- [Read more](https://www.theguardian.com/technology/2025/nov/27/partisan-x-posts-increase-political-polarisation-among-users-social-media-research)
+- **Summary**: https://en.wikipedia.org/wiki/Project_Cybersyn</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46076047"......
+- [Read more](https://en.wikipedia.org/wiki/Project_Cybersyn)
 
-### IntelliJ: Enabling Internal Mode
+### AI Tools for Streamlining Customer Communication. Halper
 - **Published**: November 28, 2025
-- **Summary**: https://plugins.jetbrains.com/docs/intellij/enabling-internal.html</a></p>
-<p>Comments URL: <a href="https:......
-- [Read more](https://plugins.jetbrains.com/docs/intellij/enabling-internal.html)
+- **Summary**: https://halper.ai/blog/ai-tools-for-streamlining-customer-communication</a></p>
+<p>Comments URL: <a hr......
+- [Read more](https://halper.ai/blog/ai-tools-for-streamlining-customer-communication)
 
 ---
 
