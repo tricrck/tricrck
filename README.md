@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Pat Gelsinger: 'I've been called here for a purpose'– Lunch With the FT
+### What Happens When Everyone Lives in Their Own Digital Reality?
 - **Published**: November 29, 2025
-- **Summary**: https://on.ft.com/3LZnfeq</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46085532">https://news.ycombinator.com/item?id=4608.....
-- [Read more](https://on.ft.com/3LZnfeq)
+- **Summary**: https://twitter.com/SRKDAN/status/1994728281514676560</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/ite......
+- [Read more](https://twitter.com/SRKDAN/status/1994728281514676560)
 
-### UAPs as Coherent Field Entities
+### Show HN: Bookmark Bar – Browser Hub (Open Any Bookmark in Any Browser on macOS)
 - **Published**: November 29, 2025
-- **Summary**: https://abacusnoir.com/2025/11/29/field-entities-not-craft/</a></p>
-<p>Comments URL: <a href="https://news.ycombin......
-- [Read more](https://abacusnoir.com/2025/11/29/field-entities-not-craft/)
+- **Summary**: <p>Hi HN,<p>I built a small macOS menu bar utility after running into the same daily annoyance for years: bookmarks are still tied to the browser you'...
+- [Read more](https://apps.apple.com/us/app/bookmark-bar-browser-hub/id6755682496?mt=12)
 
 ---
 
