@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### What Happens When Everyone Lives in Their Own Digital Reality?
+### Lightweight Is the Right Weight
 - **Published**: November 29, 2025
-- **Summary**: https://twitter.com/SRKDAN/status/1994728281514676560</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/ite......
-- [Read more](https://twitter.com/SRKDAN/status/1994728281514676560)
+- **Summary**: https://www.tinyverse.org/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46089630">https://news.ycombinator.com/item?id=46......
+- [Read more](https://www.tinyverse.org/)
 
-### Show HN: Bookmark Bar – Browser Hub (Open Any Bookmark in Any Browser on macOS)
+### Beware of Fake uBlock Origin in Chrome Web Store
 - **Published**: November 29, 2025
-- **Summary**: <p>Hi HN,<p>I built a small macOS menu bar utility after running into the same daily annoyance for years: bookmarks are still tied to the browser you'...
-- [Read more](https://apps.apple.com/us/app/bookmark-bar-browser-hub/id6755682496?mt=12)
+- **Summary**: https://chromewebstore.google.com/detail/ublock-origin/hmnojgngbpmfaeepgokfdcdgfachcil......
+- [Read more](https://chromewebstore.google.com/detail/ublock-origin/hmnojgngbpmfaeepgokfdcdgfachcilj)
 
 ---
 
