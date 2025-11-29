@@ -16,16 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Plotting a Northrop B2 Spirit
+### Pat Gelsinger: 'I've been called here for a purpose'– Lunch With the FT
 - **Published**: November 29, 2025
-- **Summary**: https://youtu.be/TSQWZF4zdN4</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46084517">https://news.ycombinator.com/item?i......
-- [Read more](https://youtu.be/TSQWZF4zdN4)
+- **Summary**: https://on.ft.com/3LZnfeq</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46085532">https://news.ycombinator.com/item?id=4608.....
+- [Read more](https://on.ft.com/3LZnfeq)
 
-### The Risky Movement to Make America Nuclear Again
+### UAPs as Coherent Field Entities
 - **Published**: November 29, 2025
-- **Summary**: https://nuclear-news.net/2025/11/04/1-a-the-risky-movement-to-make-america-nuclear-a......
-- [Read more](https://nuclear-news.net/2025/11/04/1-a-the-risky-movement-to-make-america-nuclear-again/)
+- **Summary**: https://abacusnoir.com/2025/11/29/field-entities-not-craft/</a></p>
+<p>Comments URL: <a href="https://news.ycombin......
+- [Read more](https://abacusnoir.com/2025/11/29/field-entities-not-craft/)
 
 ---
 
