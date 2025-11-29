@@ -16,15 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Legacy Python Bootstrap Scripts Create Domain-Takeover Risk in Multiple PyPI Packages
-- **Published**: November 28, 2025
-- **Summary**: Cybersecurity researchers have discovered vulnerable code in legacy Python packages that could potentially pave the way for a supply chain compromise ...
-- [Read more](https://thehackernews.com/2025/11/legacy-python-bootstrap-scripts-create.html)
+### Plotting a Northrop B2 Spirit
+- **Published**: November 29, 2025
+- **Summary**: https://youtu.be/TSQWZF4zdN4</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46084517">https://news.ycombinator.com/item?i......
+- [Read more](https://youtu.be/TSQWZF4zdN4)
 
-### North Korean Hackers Deploy 197 npm Packages to Spread Updated OtterCookie Malware
-- **Published**: November 28, 2025
-- **Summary**: The North Korean threat actors behind the Contagious Interview campaign have continued to flood the npm registry with 197 more malicious packages sinc...
-- [Read more](https://thehackernews.com/2025/11/north-korean-hackers-deploy-197-npm.html)
+### The Risky Movement to Make America Nuclear Again
+- **Published**: November 29, 2025
+- **Summary**: https://nuclear-news.net/2025/11/04/1-a-the-risky-movement-to-make-america-nuclear-a......
+- [Read more](https://nuclear-news.net/2025/11/04/1-a-the-risky-movement-to-make-america-nuclear-again/)
 
 ---
 
