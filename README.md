@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### "Disagree and Let's See"
+### Italy's Competition Watchdog Broadens WhatsApp AI Policy Probe
 - **Published**: November 30, 2025
-- **Summary**: https://mollyg.substack.com/p/disagree-and-lets-see</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id......
-- [Read more](https://mollyg.substack.com/p/disagree-and-lets-see)
+- **Summary**: https://www.wsj.com/tech/ai/italys-competition-watchdog-broadens-whatsapp-a......
+- [Read more](https://www.wsj.com/tech/ai/italys-competition-watchdog-broadens-whatsapp-ai-policy-probe-64c904cd)
 
-### The Writing Is on the Wall for Handwriting Recognition
+### X402 – protocol for micropayments and the rise of an agentic economy
 - **Published**: November 30, 2025
-- **Summary**: https://newsletter.dancohen.org/archive/the-writing-is-on-the-wall-for-handwri......
-- [Read more](https://newsletter.dancohen.org/archive/the-writing-is-on-the-wall-for-handwriting-recognition/)
+- **Summary**: https://oasis.net/blog/x402-https-internet-native-payments</a></p>
+<p>Comments URL: <a href="https://news.ycombinat......
+- [Read more](https://oasis.net/blog/x402-https-internet-native-payments)
 
 ---
 
