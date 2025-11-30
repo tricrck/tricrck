@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Italy's Competition Watchdog Broadens WhatsApp AI Policy Probe
+### CISA Adds Actively Exploited XSS Bug CVE-2021-26829 in OpenPLC ScadaBR to KEV
 - **Published**: November 30, 2025
-- **Summary**: https://www.wsj.com/tech/ai/italys-competition-watchdog-broadens-whatsapp-a......
-- [Read more](https://www.wsj.com/tech/ai/italys-competition-watchdog-broadens-whatsapp-ai-policy-probe-64c904cd)
+- **Summary**: The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has updated its Known Exploited Vulnerabilities (KEV) catalog to include a security f...
+- **Keywords**: bug
+- [Read more](https://thehackernews.com/2025/11/cisa-adds-actively-exploited-xss-bug.html)
 
-### X402 – protocol for micropayments and the rise of an agentic economy
+### Show HN: Guide – to help me get moving and keep the momentum going
 - **Published**: November 30, 2025
-- **Summary**: https://oasis.net/blog/x402-https-internet-native-payments</a></p>
-<p>Comments URL: <a href="https://news.ycombinat......
-- [Read more](https://oasis.net/blog/x402-https-internet-native-payments)
+- **Summary**: <p>Hi HN, I built Guide (leaning almost exclusively on Gemini Pro 2.5) for myself initially to get over the blank-page-hurdle while starting on a goal...
+- [Read more](https://github.com/nextfiveinc/guide)
 
 ---
 
