@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Lightweight Is the Right Weight
-- **Published**: November 29, 2025
-- **Summary**: https://www.tinyverse.org/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46089630">https://news.ycombinator.com/item?id=46......
-- [Read more](https://www.tinyverse.org/)
+### "Disagree and Let's See"
+- **Published**: November 30, 2025
+- **Summary**: https://mollyg.substack.com/p/disagree-and-lets-see</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id......
+- [Read more](https://mollyg.substack.com/p/disagree-and-lets-see)
 
-### Beware of Fake uBlock Origin in Chrome Web Store
-- **Published**: November 29, 2025
-- **Summary**: https://chromewebstore.google.com/detail/ublock-origin/hmnojgngbpmfaeepgokfdcdgfachcil......
-- [Read more](https://chromewebstore.google.com/detail/ublock-origin/hmnojgngbpmfaeepgokfdcdgfachcilj)
+### The Writing Is on the Wall for Handwriting Recognition
+- **Published**: November 30, 2025
+- **Summary**: https://newsletter.dancohen.org/archive/the-writing-is-on-the-wall-for-handwri......
+- [Read more](https://newsletter.dancohen.org/archive/the-writing-is-on-the-wall-for-handwriting-recognition/)
 
 ---
 
