@@ -16,16 +16,18 @@
 
 ## 🚨 Tech Stories
 
+### Don't push AI down our throats
+- **Published**: November 30, 2025
+- **Summary**: https://gpt3experiments.substack.com/p/dont-push-ai-down-our-throats</a></p>
+<p>Comments URL: <a href="ht......
+- **Keywords**: down, down, down
+- [Read more](https://gpt3experiments.substack.com/p/dont-push-ai-down-our-throats)
+
 ### CISA Adds Actively Exploited XSS Bug CVE-2021-26829 in OpenPLC ScadaBR to KEV
 - **Published**: November 30, 2025
 - **Summary**: The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has updated its Known Exploited Vulnerabilities (KEV) catalog to include a security f...
 - **Keywords**: bug
 - [Read more](https://thehackernews.com/2025/11/cisa-adds-actively-exploited-xss-bug.html)
-
-### Show HN: Guide – to help me get moving and keep the momentum going
-- **Published**: November 30, 2025
-- **Summary**: <p>Hi HN, I built Guide (leaning almost exclusively on Gemini Pro 2.5) for myself initially to get over the blank-page-hurdle while starting on a goal...
-- [Read more](https://github.com/nextfiveinc/guide)
 
 ---
 
