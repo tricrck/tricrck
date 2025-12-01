@@ -16,18 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Don't push AI down our throats
-- **Published**: November 30, 2025
-- **Summary**: https://gpt3experiments.substack.com/p/dont-push-ai-down-our-throats</a></p>
-<p>Comments URL: <a href="ht......
-- **Keywords**: down, down, down
-- [Read more](https://gpt3experiments.substack.com/p/dont-push-ai-down-our-throats)
+### Building a Copying GC for the Plush Programming Language
+- **Published**: December 01, 2025
+- **Summary**: https://pointersgonewild.com/2025-11-29-building-a-copying-gc-for-the-plush-......
+- [Read more](https://pointersgonewild.com/2025-11-29-building-a-copying-gc-for-the-plush-programming-language/)
 
-### CISA Adds Actively Exploited XSS Bug CVE-2021-26829 in OpenPLC ScadaBR to KEV
-- **Published**: November 30, 2025
-- **Summary**: The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has updated its Known Exploited Vulnerabilities (KEV) catalog to include a security f...
-- **Keywords**: bug
-- [Read more](https://thehackernews.com/2025/11/cisa-adds-actively-exploited-xss-bug.html)
+### Human-Scale vs. Asymmetric Social Media
+- **Published**: December 01, 2025
+- **Summary**: https://pointersgonewild.com/2023-12-24-toxic-by-design-human-scale-vs-asymmet......
+- [Read more](https://pointersgonewild.com/2023-12-24-toxic-by-design-human-scale-vs-asymmetric-social-media/)
 
 ---
 
