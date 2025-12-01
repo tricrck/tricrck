@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Webinar: The "Agentic" Trojan Horse: Why the New AI Browsers War is a Nightmare for Security Teams
+### ⚡ Weekly Recap: Hot CVEs, npm Worm Returns, Firefox RCE, M365 Email Raid & More
 - **Published**: December 01, 2025
-- **Summary**: The AI browser wars are coming to a desktop near you, and you need to start worrying about their security challenges.
-For the last two decades, whethe...
-- [Read more](https://thehackernews.com/2025/12/webinar-agentic-trojan-horse-why-new-ai.html)
+- **Summary**: Hackers aren’t kicking down the door anymore. They just use the same tools we use every day — code packages, cloud accounts, email, chat, phones, and ...
+- **Keywords**: down
+- [Read more](https://thehackernews.com/2025/12/weekly-recap-hot-cves-npm-worm-returns.html)
 
-### New Albiriox MaaS Malware Targets 400+ Apps for On-Device Fraud and Screen Control
+### India Orders Phone Makers to Pre-Install Sanchar Saathi App to Tackle Telecom Fraud
 - **Published**: December 01, 2025
-- **Summary**: A new Android malware named Albiriox has been advertised under a malware-as-a-service (MaaS) model to offer a "full spectrum" of features to facilitat...
-- [Read more](https://thehackernews.com/2025/12/new-albiriox-maas-malware-targets-400.html)
+- **Summary**: India's telecommunications ministry has reportedly asked major mobile device manufacturers to preload a government-backed cybersecurity app named Sanc...
+- [Read more](https://thehackernews.com/2025/12/india-orders-phone-makers-to-pre.html)
 
 ---
 
