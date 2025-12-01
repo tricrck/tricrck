@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Tomiris Shifts to Public-Service Implants for Stealthier C2 in Attacks on Government Targets
+### Webinar: The "Agentic" Trojan Horse: Why the New AI Browsers War is a Nightmare for Security Teams
 - **Published**: December 01, 2025
-- **Summary**: The threat actor known as Tomiris has been attributed to attacks targeting foreign ministries, intergovernmental organizations, and government entitie...
-- [Read more](https://thehackernews.com/2025/12/tomiris-shifts-to-public-service.html)
+- **Summary**: The AI browser wars are coming to a desktop near you, and you need to start worrying about their security challenges.
+For the last two decades, whethe...
+- [Read more](https://thehackernews.com/2025/12/webinar-agentic-trojan-horse-why-new-ai.html)
 
-### Multi Repo Tool
+### New Albiriox MaaS Malware Targets 400+ Apps for On-Device Fraud and Screen Control
 - **Published**: December 01, 2025
-- **Summary**: https://github.com/njoshi22/repoflow</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46104160">https://news.ycombi......
-- [Read more](https://github.com/njoshi22/repoflow)
+- **Summary**: A new Android malware named Albiriox has been advertised under a malware-as-a-service (MaaS) model to offer a "full spectrum" of features to facilitat...
+- [Read more](https://thehackernews.com/2025/12/new-albiriox-maas-malware-targets-400.html)
 
 ---
 
