@@ -16,15 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Building a Copying GC for the Plush Programming Language
+### Tomiris Shifts to Public-Service Implants for Stealthier C2 in Attacks on Government Targets
 - **Published**: December 01, 2025
-- **Summary**: https://pointersgonewild.com/2025-11-29-building-a-copying-gc-for-the-plush-......
-- [Read more](https://pointersgonewild.com/2025-11-29-building-a-copying-gc-for-the-plush-programming-language/)
+- **Summary**: The threat actor known as Tomiris has been attributed to attacks targeting foreign ministries, intergovernmental organizations, and government entitie...
+- [Read more](https://thehackernews.com/2025/12/tomiris-shifts-to-public-service.html)
 
-### Human-Scale vs. Asymmetric Social Media
+### Multi Repo Tool
 - **Published**: December 01, 2025
-- **Summary**: https://pointersgonewild.com/2023-12-24-toxic-by-design-human-scale-vs-asymmet......
-- [Read more](https://pointersgonewild.com/2023-12-24-toxic-by-design-human-scale-vs-asymmetric-social-media/)
+- **Summary**: https://github.com/njoshi22/repoflow</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46104160">https://news.ycombi......
+- [Read more](https://github.com/njoshi22/repoflow)
 
 ---
 
