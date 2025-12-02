@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### SecAlerts Cuts Through the Noise with a Smarter, Faster Way to Track Vulnerabilities
+### Researchers Capture Lazarus APT's Remote-Worker Scheme Live on Camera
 - **Published**: December 02, 2025
-- **Summary**: Vulnerability management is a core component of every cybersecurity strategy. However, businesses often use thousands of software without realising it...
-- [Read more](https://thehackernews.com/2025/12/secalerts-cuts-through-noise-with.html)
+- **Summary**: A joint investigation led by Mauro Eldritch, founder of BCA LTD, conducted together with threat-intel initiative NorthScan and ANY.RUN, a solution for...
+- [Read more](https://thehackernews.com/2025/12/researchers-capture-lazarus-apts-remote.html)
 
-### Google Patches 107 Android Flaws, Including Two Framework Bugs Exploited in the Wild
+### GlassWorm Returns with 24 Malicious Extensions Impersonating Popular Developer Tools
 - **Published**: December 02, 2025
-- **Summary**: Google on Monday released monthly security updates for the Android operating system, including two vulnerabilities that it said have been exploited in...
-- [Read more](https://thehackernews.com/2025/12/google-patches-107-android-flaws.html)
+- **Summary**: The supply chain campaign known as GlassWorm has once again reared its head, infiltrating both Microsoft Visual Studio Marketplace and Open VSX with 2...
+- [Read more](https://thehackernews.com/2025/12/glassworm-returns-with-24-malicious.html)
 
 ---
 
