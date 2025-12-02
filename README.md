@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### ⚡ Weekly Recap: Hot CVEs, npm Worm Returns, Firefox RCE, M365 Email Raid & More
-- **Published**: December 01, 2025
-- **Summary**: Hackers aren’t kicking down the door anymore. They just use the same tools we use every day — code packages, cloud accounts, email, chat, phones, and ...
-- **Keywords**: down
-- [Read more](https://thehackernews.com/2025/12/weekly-recap-hot-cves-npm-worm-returns.html)
+### Supreme Court hears case that could trigger big crackdown on Internet piracy
+- **Published**: December 02, 2025
+- **Summary**: https://arstechnica.com/tech-policy/2025/12/supreme-court-d......
+- [Read more](https://arstechnica.com/tech-policy/2025/12/supreme-court-debates-whether-isps-must-kick-pirates-off-the-internet/)
 
-### India Orders Phone Makers to Pre-Install Sanchar Saathi App to Tackle Telecom Fraud
-- **Published**: December 01, 2025
-- **Summary**: India's telecommunications ministry has reportedly asked major mobile device manufacturers to preload a government-backed cybersecurity app named Sanc...
-- [Read more](https://thehackernews.com/2025/12/india-orders-phone-makers-to-pre.html)
+### Ask HN: Others seeing agents do remarkable things when given their own logs?
+- **Published**: December 02, 2025
+- **Summary**: <p>I just had a fairly profound experience working with what I consider to be a long-running agent which I call magent.  I've built a system, "memory ...
+- [Read more](https://news.ycombinator.com/item?id=46116193)
 
 ---
 
