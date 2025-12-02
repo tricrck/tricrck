@@ -16,15 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Supreme Court hears case that could trigger big crackdown on Internet piracy
+### Public goods provision, public finance preferences, and distributional effects
 - **Published**: December 02, 2025
-- **Summary**: https://arstechnica.com/tech-policy/2025/12/supreme-court-d......
-- [Read more](https://arstechnica.com/tech-policy/2025/12/supreme-court-debates-whether-isps-must-kick-pirates-off-the-internet/)
+- **Summary**: https://link.springer.com/article/10.1007/s42973-025-00228-2</a></p>
+<p>Comments URL: <a href="https://news.ycomb......
+- [Read more](https://link.springer.com/article/10.1007/s42973-025-00228-2)
 
-### Ask HN: Others seeing agents do remarkable things when given their own logs?
+### Working with Q – Coding Agent Protocol
 - **Published**: December 02, 2025
-- **Summary**: <p>I just had a fairly profound experience working with what I consider to be a long-running agent which I call magent.  I've built a system, "memory ...
-- [Read more](https://news.ycombinator.com/item?id=46116193)
+- **Summary**: https://gist.github.com/ctoth/d8e629209ff1d9748185b9830fa4e79f</a></p>
+<p>Comments URL: <a href="https://news.y......
+- [Read more](https://gist.github.com/ctoth/d8e629209ff1d9748185b9830fa4e79f)
 
 ---
 
