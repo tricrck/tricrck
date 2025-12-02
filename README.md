@@ -16,17 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Public goods provision, public finance preferences, and distributional effects
+### SecAlerts Cuts Through the Noise with a Smarter, Faster Way to Track Vulnerabilities
 - **Published**: December 02, 2025
-- **Summary**: https://link.springer.com/article/10.1007/s42973-025-00228-2</a></p>
-<p>Comments URL: <a href="https://news.ycomb......
-- [Read more](https://link.springer.com/article/10.1007/s42973-025-00228-2)
+- **Summary**: Vulnerability management is a core component of every cybersecurity strategy. However, businesses often use thousands of software without realising it...
+- [Read more](https://thehackernews.com/2025/12/secalerts-cuts-through-noise-with.html)
 
-### Working with Q – Coding Agent Protocol
+### Google Patches 107 Android Flaws, Including Two Framework Bugs Exploited in the Wild
 - **Published**: December 02, 2025
-- **Summary**: https://gist.github.com/ctoth/d8e629209ff1d9748185b9830fa4e79f</a></p>
-<p>Comments URL: <a href="https://news.y......
-- [Read more](https://gist.github.com/ctoth/d8e629209ff1d9748185b9830fa4e79f)
+- **Summary**: Google on Monday released monthly security updates for the Android operating system, including two vulnerabilities that it said have been exploited in...
+- [Read more](https://thehackernews.com/2025/12/google-patches-107-android-flaws.html)
 
 ---
 
