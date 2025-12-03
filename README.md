@@ -16,17 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Chopping AI Down to Size: Turning Disruptive Technology into a Strategic Advantage
+### C++ Enum Class and Error Codes
 - **Published**: December 03, 2025
-- **Summary**: Most people know the story of Paul Bunyan. A giant lumberjack, a trusted axe, and a challenge from a machine that promised to outpace him. Paul double...
-- **Keywords**: down, down
-- [Read more](https://thehackernews.com/2025/12/chopping-ai-down-to-size-turning.html)
+- **Summary**: https://mropert.github.io/2025/12/03/enum_class_error_codes_part3/</a></p>
+<p>Comments URL: <a href="https:......
+- **Keywords**: error
+- [Read more](https://mropert.github.io/2025/12/03/enum_class_error_codes_part3/)
 
-### Tell HN: Compliance is not equal to Security
+### Microsoft Silently Patches Windows LNK Flaw After Years of Active Exploitation
 - **Published**: December 03, 2025
-- **Summary**: <p>For over a decade, I’ve been doing bug bounty, security audits, and security consulting. And if there’s one thing I’ve seen repeatedly, it’s this:<...
-- **Keywords**: bug
-- [Read more](https://news.ycombinator.com/item?id=46133753)
+- **Summary**: Microsoft has silently plugged a security flaw that has been exploited by several threat actors since 2017 as part of the company's November 2025 Patc...
+- [Read more](https://thehackernews.com/2025/12/microsoft-silently-patches-windows-lnk.html)
 
 ---
 
