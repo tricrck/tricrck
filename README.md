@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Iran court fines US $22B over Woman, Life, Freedom protests
+### Glass-detect: a detector for Ray-Ban Meta glasses
 - **Published**: December 03, 2025
-- **Summary**: https://www.iranintl.com/en/202512029239</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46129234">https://new......
-- [Read more](https://www.iranintl.com/en/202512029239)
+- **Summary**: https://github.com/sh4d0wm45k/glass-detect</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46130838">https:/......
+- [Read more](https://github.com/sh4d0wm45k/glass-detect)
 
-### Reversing IDA's Lumina Protocol
+### We built a database of 290k English medieval soldiers; here's what it reveals
 - **Published**: December 03, 2025
-- **Summary**: https://stack.int.mov/reversing-idas-lumina-protocol/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/ite......
-- [Read more](https://stack.int.mov/reversing-idas-lumina-protocol/)
+- **Summary**: https://theconversation.com/we-built-a-database-of-290-000-e......
+- [Read more](https://theconversation.com/we-built-a-database-of-290-000-english-medieval-soldiers-heres-what-it-reveals-270750)
 
 ---
 
