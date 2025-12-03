@@ -16,15 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Researchers Capture Lazarus APT's Remote-Worker Scheme Live on Camera
-- **Published**: December 02, 2025
-- **Summary**: A joint investigation led by Mauro Eldritch, founder of BCA LTD, conducted together with threat-intel initiative NorthScan and ANY.RUN, a solution for...
-- [Read more](https://thehackernews.com/2025/12/researchers-capture-lazarus-apts-remote.html)
+### Iran court fines US $22B over Woman, Life, Freedom protests
+- **Published**: December 03, 2025
+- **Summary**: https://www.iranintl.com/en/202512029239</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46129234">https://new......
+- [Read more](https://www.iranintl.com/en/202512029239)
 
-### GlassWorm Returns with 24 Malicious Extensions Impersonating Popular Developer Tools
-- **Published**: December 02, 2025
-- **Summary**: The supply chain campaign known as GlassWorm has once again reared its head, infiltrating both Microsoft Visual Studio Marketplace and Open VSX with 2...
-- [Read more](https://thehackernews.com/2025/12/glassworm-returns-with-24-malicious.html)
+### Reversing IDA's Lumina Protocol
+- **Published**: December 03, 2025
+- **Summary**: https://stack.int.mov/reversing-idas-lumina-protocol/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/ite......
+- [Read more](https://stack.int.mov/reversing-idas-lumina-protocol/)
 
 ---
 
