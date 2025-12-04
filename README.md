@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### White House Proposes More Relaxed Fuel-Economy Regulations
+### Show HN: Lynkr – Claude Code-Compatible Proxy for Databricks/Azure Anthropic
 - **Published**: December 04, 2025
-- **Summary**: https://www.caranddriver.com/news/a69619920/trump-administration-r......
-- [Read more](https://www.caranddriver.com/news/a69619920/trump-administration-relaxed-fuel-economy-regulations-proposal/)
+- **Summary**: Article URL: <a href="https://github.com/vishalveerareddy123/Lynkr/wiki/Emulating-the-Claude-Code-Backend-for-LLM%27s-hosted-on-Databricks-&amp;-Azure...
+- [Read more](https://github.com/vishalveerareddy123/Lynkr/wiki/Emulating-the-Claude-Code-Backend-for-LLM%27s-hosted-on-Databricks-&-Azure-Anthropic-(with-MCP,-Git-tools,-and-prompt-caching))
 
-### Indian cricket team lost 20 consecutive tosses, a probability of 1 in million
+### Ask HN: Do you still think public blockchains/stablecoins are useless/a scam?
 - **Published**: December 04, 2025
-- **Summary**: <p>Given how we assign almost non existent probabilities to certain events but it is never 0 and can have catastrophic impacts in important events I f...
-- [Read more](https://news.ycombinator.com/item?id=46142718)
+- **Summary**: <p>Two and a half years ago I submitted "Warn HN: I've never seen the HN community so delusional about a major tech area" https://news.ycombinator.com...
+- [Read more](https://news.ycombinator.com/item?id=46144405)
 
 ---
 
