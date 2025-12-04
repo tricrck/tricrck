@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Show HN: Lynkr – Claude Code-Compatible Proxy for Databricks/Azure Anthropic
+### 5 Threats That Reshaped Web Security This Year [2025]
 - **Published**: December 04, 2025
-- **Summary**: Article URL: <a href="https://github.com/vishalveerareddy123/Lynkr/wiki/Emulating-the-Claude-Code-Backend-for-LLM%27s-hosted-on-Databricks-&amp;-Azure...
-- [Read more](https://github.com/vishalveerareddy123/Lynkr/wiki/Emulating-the-Claude-Code-Backend-for-LLM%27s-hosted-on-Databricks-&-Azure-Anthropic-(with-MCP,-Git-tools,-and-prompt-caching))
+- **Summary**: As 2025 draws to a close, security professionals face a sobering realization: the traditional playbook for web security has become dangerously obsolet...
+- [Read more](https://thehackernews.com/2025/12/5-threats-that-reshaped-web-security.html)
 
-### Ask HN: Do you still think public blockchains/stablecoins are useless/a scam?
+### GoldFactory Hits Southeast Asia with Modified Banking Apps Driving 11,000+ Infections
 - **Published**: December 04, 2025
-- **Summary**: <p>Two and a half years ago I submitted "Warn HN: I've never seen the HN community so delusional about a major tech area" https://news.ycombinator.com...
-- [Read more](https://news.ycombinator.com/item?id=46144405)
+- **Summary**: Cybercriminals associated with a financially motivated group known as GoldFactory have been observed staging a fresh round of attacks targeting mobile...
+- [Read more](https://thehackernews.com/2025/12/goldfactory-hits-southeast-asia-with.html)
 
 ---
 
