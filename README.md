@@ -16,17 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### C++ Enum Class and Error Codes
-- **Published**: December 03, 2025
-- **Summary**: https://mropert.github.io/2025/12/03/enum_class_error_codes_part3/</a></p>
-<p>Comments URL: <a href="https:......
-- **Keywords**: error
-- [Read more](https://mropert.github.io/2025/12/03/enum_class_error_codes_part3/)
+### White House Proposes More Relaxed Fuel-Economy Regulations
+- **Published**: December 04, 2025
+- **Summary**: https://www.caranddriver.com/news/a69619920/trump-administration-r......
+- [Read more](https://www.caranddriver.com/news/a69619920/trump-administration-relaxed-fuel-economy-regulations-proposal/)
 
-### Microsoft Silently Patches Windows LNK Flaw After Years of Active Exploitation
-- **Published**: December 03, 2025
-- **Summary**: Microsoft has silently plugged a security flaw that has been exploited by several threat actors since 2017 as part of the company's November 2025 Patc...
-- [Read more](https://thehackernews.com/2025/12/microsoft-silently-patches-windows-lnk.html)
+### Indian cricket team lost 20 consecutive tosses, a probability of 1 in million
+- **Published**: December 04, 2025
+- **Summary**: <p>Given how we assign almost non existent probabilities to certain events but it is never 0 and can have catastrophic impacts in important events I f...
+- [Read more](https://news.ycombinator.com/item?id=46142718)
 
 ---
 
