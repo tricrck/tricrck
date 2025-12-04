@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### 5 Threats That Reshaped Web Security This Year [2025]
+### Silver Fox Uses Fake Microsoft Teams Installer to Spread ValleyRAT Malware in China
 - **Published**: December 04, 2025
-- **Summary**: As 2025 draws to a close, security professionals face a sobering realization: the traditional playbook for web security has become dangerously obsolet...
-- [Read more](https://thehackernews.com/2025/12/5-threats-that-reshaped-web-security.html)
+- **Summary**: The threat actor known as Silver Fox has been spotted orchestrating a false flag operation to mimic a Russian threat group in attacks targeting organi...
+- [Read more](https://thehackernews.com/2025/12/silver-fox-uses-fake-microsoft-teams.html)
 
-### GoldFactory Hits Southeast Asia with Modified Banking Apps Driving 11,000+ Infections
+### A New Vision of Artificial Intelligence for the People
 - **Published**: December 04, 2025
-- **Summary**: Cybercriminals associated with a financially motivated group known as GoldFactory have been observed staging a fresh round of attacks targeting mobile...
-- [Read more](https://thehackernews.com/2025/12/goldfactory-hits-southeast-asia-with.html)
+- **Summary**: https://www.technologyreview.com/2022/04/22/1050394/artificial-intelligence-for-th......
+- [Read more](https://www.technologyreview.com/2022/04/22/1050394/artificial-intelligence-for-the-people/)
 
 ---
 
