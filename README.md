@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### JPCERT Confirms Active Command Injection Attacks on Array AG Gateways
+### Intellexa Leaks Reveal Zero-Days and Ads-Based Vector for Predator Spyware Delivery
 - **Published**: December 05, 2025
-- **Summary**: A command injection vulnerability in Array Networks AG Series secure access gateways has been exploited in the wild since August 2025, according to an...
-- [Read more](https://thehackernews.com/2025/12/jpcert-confirms-active-command.html)
+- **Summary**: A human rights lawyer from Pakistan's Balochistan province received a suspicious link on WhatsApp from an unknown number, marking the first time a civ...
+- [Read more](https://thehackernews.com/2025/12/intellexa-leaks-reveal-zero-days-and.html)
 
-### Dockge: Self-hosted – Docker compose.yaml – Stack-oriented Manager
+### "Getting to Yes": An Anti-Sales Guide for MSPs
 - **Published**: December 05, 2025
-- **Summary**: https://dockge.kuma.pet/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46157416">https://news.ycombinator.com/item?id=461574....
-- [Read more](https://dockge.kuma.pet/)
+- **Summary**: Most MSPs and MSSPs know how to deliver effective security. The challenge is helping prospects understand why it matters in business terms. Too often,...
+- [Read more](https://thehackernews.com/2025/12/getting-to-yes-anti-sales-guide-for-msps.html)
 
 ---
 
