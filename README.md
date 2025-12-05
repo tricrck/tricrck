@@ -16,15 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Intellexa Leaks Reveal Zero-Days and Ads-Based Vector for Predator Spyware Delivery
+### Critical XXE Bug CVE-2025-66516 (CVSS 10.0) Hits Apache Tika, Requires Urgent Patch
 - **Published**: December 05, 2025
-- **Summary**: A human rights lawyer from Pakistan's Balochistan province received a suspicious link on WhatsApp from an unknown number, marking the first time a civ...
-- [Read more](https://thehackernews.com/2025/12/intellexa-leaks-reveal-zero-days-and.html)
+- **Summary**: A critical security flaw has been disclosed in Apache Tika that could result in an XML external entity (XXE) injection attack.
+The vulnerability, trac...
+- **Keywords**: bug
+- [Read more](https://thehackernews.com/2025/12/critical-xxe-bug-cve-2025-66516-cvss.html)
 
-### "Getting to Yes": An Anti-Sales Guide for MSPs
+### Zero-Click Agentic Browser Attack Can Delete Entire Google Drive Using Crafted Emails
 - **Published**: December 05, 2025
-- **Summary**: Most MSPs and MSSPs know how to deliver effective security. The challenge is helping prospects understand why it matters in business terms. Too often,...
-- [Read more](https://thehackernews.com/2025/12/getting-to-yes-anti-sales-guide-for-msps.html)
+- **Summary**: A new agentic browser attack targeting Perplexity's Comet browser that's capable of turning a seemingly innocuous email into a destructive action that...
+- [Read more](https://thehackernews.com/2025/12/zero-click-agentic-browser-attack-can.html)
 
 ---
 
