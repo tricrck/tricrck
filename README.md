@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Dwarkesh Patel's Second Interview with Ilya Sutskever
+### JPCERT Confirms Active Command Injection Attacks on Array AG Gateways
 - **Published**: December 05, 2025
-- **Summary**: https://thezvi.substack.com/p/on-dwarkesh-patels-second-interview</a></p>
-<p>Comments URL: <a href="https://......
-- [Read more](https://thezvi.substack.com/p/on-dwarkesh-patels-second-interview)
+- **Summary**: A command injection vulnerability in Array Networks AG Series secure access gateways has been exploited in the wild since August 2025, according to an...
+- [Read more](https://thehackernews.com/2025/12/jpcert-confirms-active-command.html)
 
-### Brussels writes so many laws
+### Dockge: Self-hosted – Docker compose.yaml – Stack-oriented Manager
 - **Published**: December 05, 2025
-- **Summary**: https://www.siliconcontinent.com/p/how-brussels-writes-so-many-laws</a></p>
-<p>Comments URL: <a href="http......
-- [Read more](https://www.siliconcontinent.com/p/how-brussels-writes-so-many-laws)
+- **Summary**: https://dockge.kuma.pet/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46157416">https://news.ycombinator.com/item?id=461574....
+- [Read more](https://dockge.kuma.pet/)
 
 ---
 
