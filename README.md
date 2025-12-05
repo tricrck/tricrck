@@ -16,15 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Silver Fox Uses Fake Microsoft Teams Installer to Spread ValleyRAT Malware in China
-- **Published**: December 04, 2025
-- **Summary**: The threat actor known as Silver Fox has been spotted orchestrating a false flag operation to mimic a Russian threat group in attacks targeting organi...
-- [Read more](https://thehackernews.com/2025/12/silver-fox-uses-fake-microsoft-teams.html)
+### Dwarkesh Patel's Second Interview with Ilya Sutskever
+- **Published**: December 05, 2025
+- **Summary**: https://thezvi.substack.com/p/on-dwarkesh-patels-second-interview</a></p>
+<p>Comments URL: <a href="https://......
+- [Read more](https://thezvi.substack.com/p/on-dwarkesh-patels-second-interview)
 
-### A New Vision of Artificial Intelligence for the People
-- **Published**: December 04, 2025
-- **Summary**: https://www.technologyreview.com/2022/04/22/1050394/artificial-intelligence-for-th......
-- [Read more](https://www.technologyreview.com/2022/04/22/1050394/artificial-intelligence-for-the-people/)
+### Brussels writes so many laws
+- **Published**: December 05, 2025
+- **Summary**: https://www.siliconcontinent.com/p/how-brussels-writes-so-many-laws</a></p>
+<p>Comments URL: <a href="http......
+- [Read more](https://www.siliconcontinent.com/p/how-brussels-writes-so-many-laws)
 
 ---
 
