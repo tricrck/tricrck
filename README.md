@@ -16,18 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Critical XXE Bug CVE-2025-66516 (CVSS 10.0) Hits Apache Tika, Requires Urgent Patch
-- **Published**: December 05, 2025
-- **Summary**: A critical security flaw has been disclosed in Apache Tika that could result in an XML external entity (XXE) injection attack.
-The vulnerability, trac...
-- **Keywords**: bug
-- [Read more](https://thehackernews.com/2025/12/critical-xxe-bug-cve-2025-66516-cvss.html)
-
-### Meta acquires AI device startup Limitless
+### Parents say school-issued iPads are causing chaos with their kids
 - **Published**: December 06, 2025
-- **Summary**: https://techcrunch.com/2025/12/05/meta-acquires-ai-device-startup-limitless/</a></p>
-<p>Comments ......
-- [Read more](https://techcrunch.com/2025/12/05/meta-acquires-ai-device-startup-limitless/)
+- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1pfcy41/parents_say_schoolissued_ipads_are_causing_chaos/"> <img alt="Parents say school-is...
+- **Keywords**: chaos, chaos
+- [Read more](https://www.reddit.com/r/technology/comments/1pfcy41/parents_say_schoolissued_ipads_are_causing_chaos/)
+
+### Show HN: Promptv (local first prompt & .env management)
+- **Published**: December 06, 2025
+- **Summary**: <p>A comprehensive developer-first prompt management tool with git-like version control<p>- Local prompt management with version control - Markdown fo...
+- [Read more](https://github.com/thompson0012/promptv)
 
 ---
 
