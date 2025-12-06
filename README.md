@@ -16,16 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Parents say school-issued iPads are causing chaos with their kids
+### Critical React2Shell Flaw Added to CISA KEV After Confirmed Active Exploitation
 - **Published**: December 06, 2025
-- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1pfcy41/parents_say_schoolissued_ipads_are_causing_chaos/"> <img alt="Parents say school-is...
-- **Keywords**: chaos, chaos
-- [Read more](https://www.reddit.com/r/technology/comments/1pfcy41/parents_say_schoolissued_ipads_are_causing_chaos/)
+- **Summary**: The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday formally added a critical security flaw impacting React Server Components (...
+- [Read more](https://thehackernews.com/2025/12/critical-react2shell-flaw-added-to-cisa.html)
 
-### Show HN: Promptv (local first prompt & .env management)
+### Show HN: Trello Clone with Source Code
 - **Published**: December 06, 2025
-- **Summary**: <p>A comprehensive developer-first prompt management tool with git-like version control<p>- Local prompt management with version control - Markdown fo...
-- [Read more](https://github.com/thompson0012/promptv)
+- **Summary**: https://codebuy.org/asset/69341f150b7587764a8a76aa</a></p>
+<hr />
+<p>Comments URL: <a href="https://news.y......
+- [Read more](https://kanban.demo.codegres.com/)
 
 ---
 
