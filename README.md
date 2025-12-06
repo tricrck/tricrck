@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Critical React2Shell Flaw Added to CISA KEV After Confirmed Active Exploitation
+### Researchers Uncover 30+ Flaws in AI Coding Tools Enabling Data Theft and RCE Attacks
 - **Published**: December 06, 2025
-- **Summary**: The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday formally added a critical security flaw impacting React Server Components (...
-- [Read more](https://thehackernews.com/2025/12/critical-react2shell-flaw-added-to-cisa.html)
+- **Summary**: Over 30 security vulnerabilities have been disclosed in various artificial intelligence (AI)-powered Integrated Development Environments (IDEs) that c...
+- [Read more](https://thehackernews.com/2025/12/researchers-uncover-30-flaws-in-ai.html)
 
-### Show HN: Trello Clone with Source Code
+### Show HN: UISora – AI-Powered Mobile App UI Designer
 - **Published**: December 06, 2025
-- **Summary**: https://codebuy.org/asset/69341f150b7587764a8a76aa</a></p>
-<hr />
-<p>Comments URL: <a href="https://news.y......
-- [Read more](https://kanban.demo.codegres.com/)
+- **Summary**: <p>Hi HN<p>I’ve been building UISora, an AI tool that generates complete mobile UI screens from a short text prompt. 
+Instead of manually creating wir...
+- [Read more](https://uisora.com)
 
 ---
 
