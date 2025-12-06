@@ -23,10 +23,11 @@ The vulnerability, trac...
 - **Keywords**: bug
 - [Read more](https://thehackernews.com/2025/12/critical-xxe-bug-cve-2025-66516-cvss.html)
 
-### Zero-Click Agentic Browser Attack Can Delete Entire Google Drive Using Crafted Emails
-- **Published**: December 05, 2025
-- **Summary**: A new agentic browser attack targeting Perplexity's Comet browser that's capable of turning a seemingly innocuous email into a destructive action that...
-- [Read more](https://thehackernews.com/2025/12/zero-click-agentic-browser-attack-can.html)
+### Meta acquires AI device startup Limitless
+- **Published**: December 06, 2025
+- **Summary**: https://techcrunch.com/2025/12/05/meta-acquires-ai-device-startup-limitless/</a></p>
+<p>Comments ......
+- [Read more](https://techcrunch.com/2025/12/05/meta-acquires-ai-device-startup-limitless/)
 
 ---
 
