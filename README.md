@@ -16,17 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### The Anatomy of a macOS App
+### Scala 3 slowed us down?
 - **Published**: December 07, 2025
-- **Summary**: https://eclecticlight.co/2025/12/04/the-anatomy-of-a-macos-app/</a></p>
-<p>Comments URL: <a href="https://news......
-- [Read more](https://eclecticlight.co/2025/12/04/the-anatomy-of-a-macos-app/)
+- **Summary**: ......
+- **Keywords**: down
+- [Read more](https://kmaliszewski9.github.io/scala/2025/12/07/scala3-slowdown.html)
 
-### LZAV 5.7: Enhanced Compression, Speed, C++ Compliance, and Benchmark Results
+### X shuts down the European Commission's ad account the day after major fine
 - **Published**: December 07, 2025
-- **Summary**: https://github.com/avaneev/lzav</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46181240">https://news.ycombinator.com/......
-- [Read more](https://github.com/avaneev/lzav)
+- **Summary**: https://www.engadget.com/social-media/x-shuts-d......
+- **Keywords**: down, down
+- [Read more](https://www.engadget.com/social-media/x-shuts-down-the-european-commissions-ad-account-the-day-after-major-fine-173553267.html)
 
 ---
 
