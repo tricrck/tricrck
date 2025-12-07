@@ -16,17 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### How to get the launchpad back in macOS 26
+### The Anatomy of a macOS App
 - **Published**: December 07, 2025
-- **Summary**: https://www.launchie.app</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46179557">https://news.ycombinator.com/item?id=461795....
-- [Read more](https://www.launchie.app)
+- **Summary**: https://eclecticlight.co/2025/12/04/the-anatomy-of-a-macos-app/</a></p>
+<p>Comments URL: <a href="https://news......
+- [Read more](https://eclecticlight.co/2025/12/04/the-anatomy-of-a-macos-app/)
 
-### Doo – 0.2.0 Alpha Release
+### LZAV 5.7: Enhanced Compression, Speed, C++ Compliance, and Benchmark Results
 - **Published**: December 07, 2025
-- **Summary**: https://github.com/nynrathod/doolang</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46179550">https://news.ycombi......
-- [Read more](https://github.com/nynrathod/doolang)
+- **Summary**: https://github.com/avaneev/lzav</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46181240">https://news.ycombinator.com/......
+- [Read more](https://github.com/avaneev/lzav)
 
 ---
 
