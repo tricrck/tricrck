@@ -16,16 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Researchers Uncover 30+ Flaws in AI Coding Tools Enabling Data Theft and RCE Attacks
-- **Published**: December 06, 2025
-- **Summary**: Over 30 security vulnerabilities have been disclosed in various artificial intelligence (AI)-powered Integrated Development Environments (IDEs) that c...
-- [Read more](https://thehackernews.com/2025/12/researchers-uncover-30-flaws-in-ai.html)
+### Trains cancelled over fake bridge collapse image
+- **Published**: December 07, 2025
+- **Summary**: ......
+- **Keywords**: collapse
+- [Read more](https://www.bbc.com/news/articles/cwygqqll9k2o)
 
-### Show HN: UISora – AI-Powered Mobile App UI Designer
-- **Published**: December 06, 2025
-- **Summary**: <p>Hi HN<p>I’ve been building UISora, an AI tool that generates complete mobile UI screens from a short text prompt. 
-Instead of manually creating wir...
-- [Read more](https://uisora.com)
+### Maga's strange rage against Europe
+- **Published**: December 07, 2025
+- **Summary**: https://www.ft.com/content/ccbe643d-bbdf-4bc2-9635-9f7690405ec4</a></p>
+<p>Comments URL: <a href="https://news......
+- [Read more](https://www.ft.com/content/ccbe643d-bbdf-4bc2-9635-9f7690405ec4)
 
 ---
 
