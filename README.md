@@ -16,17 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Trains cancelled over fake bridge collapse image
+### How to get the launchpad back in macOS 26
 - **Published**: December 07, 2025
-- **Summary**: ......
-- **Keywords**: collapse
-- [Read more](https://www.bbc.com/news/articles/cwygqqll9k2o)
+- **Summary**: https://www.launchie.app</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46179557">https://news.ycombinator.com/item?id=461795....
+- [Read more](https://www.launchie.app)
 
-### Maga's strange rage against Europe
+### Doo – 0.2.0 Alpha Release
 - **Published**: December 07, 2025
-- **Summary**: https://www.ft.com/content/ccbe643d-bbdf-4bc2-9635-9f7690405ec4</a></p>
-<p>Comments URL: <a href="https://news......
-- [Read more](https://www.ft.com/content/ccbe643d-bbdf-4bc2-9635-9f7690405ec4)
+- **Summary**: https://github.com/nynrathod/doolang</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46179550">https://news.ycombi......
+- [Read more](https://github.com/nynrathod/doolang)
 
 ---
 
