@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Scala 3 slowed us down?
-- **Published**: December 07, 2025
-- **Summary**: ......
-- **Keywords**: down
-- [Read more](https://kmaliszewski9.github.io/scala/2025/12/07/scala3-slowdown.html)
+### Apple's chief chip architect has reportedly talked to Tim Cook about leaving
+- **Published**: December 08, 2025
+- **Summary**: https://www.tomshardware.com/te......
+- [Read more](https://www.tomshardware.com/tech-industry/apples-chief-chip-architect-for-the-last-decade-has-reportedly-talked-to-ceo-tim-cook-about-leaving)
 
-### X shuts down the European Commission's ad account the day after major fine
-- **Published**: December 07, 2025
-- **Summary**: https://www.engadget.com/social-media/x-shuts-d......
-- **Keywords**: down, down
-- [Read more](https://www.engadget.com/social-media/x-shuts-down-the-european-commissions-ad-account-the-day-after-major-fine-173553267.html)
+### Asynchronous Circuit
+- **Published**: December 08, 2025
+- **Summary**: https://en.wikipedia.org/wiki/Asynchronous_circuit</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4......
+- [Read more](https://en.wikipedia.org/wiki/Asynchronous_circuit)
 
 ---
 
