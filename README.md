@@ -16,16 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Apple's chief chip architect has reportedly talked to Tim Cook about leaving
+### Kinesis Advantage2
 - **Published**: December 08, 2025
-- **Summary**: https://www.tomshardware.com/te......
-- [Read more](https://www.tomshardware.com/tech-industry/apples-chief-chip-architect-for-the-last-decade-has-reportedly-talked-to-ceo-tim-cook-about-leaving)
+- **Summary**: https://danishpraka.sh/posts/kinesis-advantage2/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46189......
+- [Read more](https://danishpraka.sh/posts/kinesis-advantage2/)
 
-### Asynchronous Circuit
+### Show HN: Peargent – A Simple Python Framework for Building AI Agents
 - **Published**: December 08, 2025
-- **Summary**: https://en.wikipedia.org/wiki/Asynchronous_circuit</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4......
-- [Read more](https://en.wikipedia.org/wiki/Asynchronous_circuit)
+- **Summary**: https://github.com/Quanta-Naut/peargent</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46189026">https://news.......
+- [Read more](https://github.com/Quanta-Naut/peargent)
 
 ---
 
