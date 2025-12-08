@@ -16,17 +16,19 @@
 
 ## 🚨 Tech Stories
 
-### Kinesis Advantage2
+### Sneeit WordPress RCE Exploited in the Wild While ICTBroadcast Bug Fuels Frost Botnet Attacks
 - **Published**: December 08, 2025
-- **Summary**: https://danishpraka.sh/posts/kinesis-advantage2/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46189......
-- [Read more](https://danishpraka.sh/posts/kinesis-advantage2/)
+- **Summary**: A critical security flaw in the Sneeit Framework plugin for WordPress is being actively exploited in the wild, per data from Wordfence.
+The remote cod...
+- **Keywords**: bug
+- [Read more](https://thehackernews.com/2025/12/sneeit-wordpress-rce-exploited-in-wild.html)
 
-### Show HN: Peargent – A Simple Python Framework for Building AI Agents
+### Indie SaaS product GummySearch is winding down
 - **Published**: December 08, 2025
-- **Summary**: https://github.com/Quanta-Naut/peargent</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46189026">https://news.......
-- [Read more](https://github.com/Quanta-Naut/peargent)
+- **Summary**: https://newsletter.failory.com/p/when-reddit-pulls-over</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com......
+- **Keywords**: down
+- [Read more](https://newsletter.failory.com/p/when-reddit-pulls-over)
 
 ---
 
