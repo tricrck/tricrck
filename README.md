@@ -16,19 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Sneeit WordPress RCE Exploited in the Wild While ICTBroadcast Bug Fuels Frost Botnet Attacks
+### ⚡ Weekly Recap: USB Malware, React2Shell, WhatsApp Worms, AI IDE Bugs & More
 - **Published**: December 08, 2025
-- **Summary**: A critical security flaw in the Sneeit Framework plugin for WordPress is being actively exploited in the wild, per data from Wordfence.
-The remote cod...
-- **Keywords**: bug
-- [Read more](https://thehackernews.com/2025/12/sneeit-wordpress-rce-exploited-in-wild.html)
+- **Summary**: It’s been a week of chaos in code and calm in headlines. A bug that broke the internet’s favorite framework, hackers chasing AI tools, fake apps steal...
+- **Keywords**: chaos, bug
+- [Read more](https://thehackernews.com/2025/12/weekly-recap-usb-malware-react2shell.html)
 
-### Indie SaaS product GummySearch is winding down
+### Missionary Accountants
 - **Published**: December 08, 2025
-- **Summary**: https://newsletter.failory.com/p/when-reddit-pulls-over</a></p>
+- **Summary**: https://postround.substack.com/p/missionary-accountants</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com......
-- **Keywords**: down
-- [Read more](https://newsletter.failory.com/p/when-reddit-pulls-over)
+- [Read more](https://postround.substack.com/p/missionary-accountants)
 
 ---
 
