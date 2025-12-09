@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Brain activity changes throughout the day
+### How to Streamline Zero Trust Using the Shared Signals Framework
 - **Published**: December 09, 2025
-- **Summary**: https://news.umich.edu/how-brain-activity-changes-throughout-the-day/</a></p>
-<p>Comments URL: <a href="......
-- [Read more](https://news.umich.edu/how-brain-activity-changes-throughout-the-day/)
+- **Summary**: Zero Trust helps organizations shrink their attack surface and respond to threats faster, but many still struggle to implement it because their securi...
+- [Read more](https://thehackernews.com/2025/12/how-to-streamline-zero-trust-using.html)
 
-### Forkable Swaps in AI generated food images for its catering partners
+### Google Adds Layered Defenses to Chrome to Block Indirect Prompt Injection Threats
 - **Published**: December 09, 2025
-- **Summary**: https://sf.eater.com/restaurant-news/210033/forkable-ai-generated-food-photos-catering<......
-- [Read more](https://sf.eater.com/restaurant-news/210033/forkable-ai-generated-food-photos-catering)
+- **Summary**: Google on Monday announced a set of new security features in Chrome, following the company's addition of agentic artificial intelligence (AI) capabili...
+- [Read more](https://thehackernews.com/2025/12/google-adds-layered-defenses-to-chrome.html)
 
 ---
 
