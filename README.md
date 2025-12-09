@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### BRICS Gold-Backed Digital Currency: Reshaping Global Trade in 2025
+### Brain activity changes throughout the day
 - **Published**: December 09, 2025
-- **Summary**: https://discoveryalert.com.au/brics-gold-backed-digital-currency-initiative-2025/</a></p>
-<p......
-- [Read more](https://discoveryalert.com.au/brics-gold-backed-digital-currency-initiative-2025/)
+- **Summary**: https://news.umich.edu/how-brain-activity-changes-throughout-the-day/</a></p>
+<p>Comments URL: <a href="......
+- [Read more](https://news.umich.edu/how-brain-activity-changes-throughout-the-day/)
 
-### Common Performance Tuning Advice: Some Flaws
+### Forkable Swaps in AI generated food images for its catering partners
 - **Published**: December 09, 2025
-- **Summary**: https://ricomariani.medium.com/common-performance-tuning-advice-some-flaws-b2c427fad7c......
-- [Read more](https://ricomariani.medium.com/common-performance-tuning-advice-some-flaws-b2c427fad7ca)
+- **Summary**: https://sf.eater.com/restaurant-news/210033/forkable-ai-generated-food-photos-catering<......
+- [Read more](https://sf.eater.com/restaurant-news/210033/forkable-ai-generated-food-photos-catering)
 
 ---
 
