@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### ⚡ Weekly Recap: USB Malware, React2Shell, WhatsApp Worms, AI IDE Bugs & More
-- **Published**: December 08, 2025
-- **Summary**: It’s been a week of chaos in code and calm in headlines. A bug that broke the internet’s favorite framework, hackers chasing AI tools, fake apps steal...
-- **Keywords**: chaos, bug
-- [Read more](https://thehackernews.com/2025/12/weekly-recap-usb-malware-react2shell.html)
+### BRICS Gold-Backed Digital Currency: Reshaping Global Trade in 2025
+- **Published**: December 09, 2025
+- **Summary**: https://discoveryalert.com.au/brics-gold-backed-digital-currency-initiative-2025/</a></p>
+<p......
+- [Read more](https://discoveryalert.com.au/brics-gold-backed-digital-currency-initiative-2025/)
 
-### Missionary Accountants
-- **Published**: December 08, 2025
-- **Summary**: https://postround.substack.com/p/missionary-accountants</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com......
-- [Read more](https://postround.substack.com/p/missionary-accountants)
+### Common Performance Tuning Advice: Some Flaws
+- **Published**: December 09, 2025
+- **Summary**: https://ricomariani.medium.com/common-performance-tuning-advice-some-flaws-b2c427fad7c......
+- [Read more](https://ricomariani.medium.com/common-performance-tuning-advice-some-flaws-b2c427fad7ca)
 
 ---
 
