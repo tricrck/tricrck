@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Architecture Diagrams of Popular Open Source Projects Like Polar and Ghostty
+### Fortinet, Ivanti, and SAP Issue Urgent Patches for Authentication and Code Execution Flaws
 - **Published**: December 10, 2025
-- **Summary**: https://app.principal-ade.com/principal-forks</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46213089">h......
-- [Read more](https://app.principal-ade.com/principal-forks)
+- **Summary**: Fortinet, Ivanti, and SAP have moved to address critical security flaws in their products that, if successfully exploited, could result in an authenti...
+- [Read more](https://thehackernews.com/2025/12/fortinet-ivanti-and-sap-issue-urgent.html)
 
-### Debugging misaligned completions with sparse-autoencoder latent attribution
+### HuggingFace Skills: Fine-tune any LLM with one sentence for $0.30
 - **Published**: December 10, 2025
-- **Summary**: https://alignment.openai.com/sae-latent-attribution/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?......
-- [Read more](https://alignment.openai.com/sae-latent-attribution/)
+- **Summary**: https://huggingface.co/blog/hf-skills-training</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46214745"......
+- [Read more](https://huggingface.co/blog/hf-skills-training)
 
 ---
 
