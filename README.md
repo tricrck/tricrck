@@ -22,10 +22,10 @@
 - **Keywords**: down
 - [Read more](https://thehackernews.com/2025/12/webinar-how-attackers-exploit-cloud.html)
 
-### Warning: WinRAR Vulnerability CVE-2025-6218 Under Active Attack by Multiple Threat Groups
+### Three PCIe Encryption Weaknesses Expose PCIe 5.0+ Systems to Faulty Data Handling
 - **Published**: December 10, 2025
-- **Summary**: The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a security flaw impacting the WinRAR file archiver and compression u...
-- [Read more](https://thehackernews.com/2025/12/warning-winrar-vulnerability-cve-2025.html)
+- **Summary**: Three security vulnerabilities have been disclosed in the Peripheral Component Interconnect Express (PCIe) Integrity and Data Encryption (IDE) protoco...
+- [Read more](https://thehackernews.com/2025/12/three-pcie-encryption-weaknesses-expose.html)
 
 ---
 
