@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Fortinet, Ivanti, and SAP Issue Urgent Patches for Authentication and Code Execution Flaws
+### Webinar: How Attackers Exploit Cloud Misconfigurations Across AWS, AI Models, and Kubernetes
 - **Published**: December 10, 2025
-- **Summary**: Fortinet, Ivanti, and SAP have moved to address critical security flaws in their products that, if successfully exploited, could result in an authenti...
-- [Read more](https://thehackernews.com/2025/12/fortinet-ivanti-and-sap-issue-urgent.html)
+- **Summary**: Cloud security is changing. Attackers are no longer just breaking down the door; they are finding unlocked windows in your configurations, your identi...
+- **Keywords**: down
+- [Read more](https://thehackernews.com/2025/12/webinar-how-attackers-exploit-cloud.html)
 
-### HuggingFace Skills: Fine-tune any LLM with one sentence for $0.30
+### Warning: WinRAR Vulnerability CVE-2025-6218 Under Active Attack by Multiple Threat Groups
 - **Published**: December 10, 2025
-- **Summary**: https://huggingface.co/blog/hf-skills-training</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46214745"......
-- [Read more](https://huggingface.co/blog/hf-skills-training)
+- **Summary**: The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a security flaw impacting the WinRAR file archiver and compression u...
+- [Read more](https://thehackernews.com/2025/12/warning-winrar-vulnerability-cve-2025.html)
 
 ---
 
