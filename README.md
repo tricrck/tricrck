@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### U.S. Blueprint to Rewire Economies of Russia, Ukraine Sets Off Clash with Europe
+### Meta shuts down global accounts linked to abortion advice and queer content
 - **Published**: December 11, 2025
-- **Summary**: https://www.wsj.com/world/europe/u-s-blueprint-to-rew......
-- [Read more](https://www.wsj.com/world/europe/u-s-blueprint-to-rewire-economies-of-russia-ukraine-sets-off-clash-with-europe-72484515)
+- **Summary**: ......
+- **Keywords**: down
+- [Read more](https://www.theguardian.com/global-development/2025/dec/11/meta-shuts-down-global-accounts-linked-to-abortion-advice-and-queer-content)
 
-### Critique: TUI for Reviewing Git Changes
+### WIRTE Leverages AshenLoader Sideloading to Install the AshTag Espionage Backdoor
 - **Published**: December 11, 2025
-- **Summary**: https://github.com/remorses/critique</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46228248">https://news.ycombi......
-- [Read more](https://github.com/remorses/critique)
+- **Summary**: An advanced persistent threat (APT) known as WIRTE has been attributed to attacks targeting government and diplomatic entities across the Middle East ...
+- [Read more](https://thehackernews.com/2025/12/wirte-leverages-ashenloader-sideloading.html)
 
 ---
 
