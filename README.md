@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Meta shuts down global accounts linked to abortion advice and queer content
+### ThreatsDay Bulletin: Spyware Alerts, Mirai Strikes, Docker Leaks, ValleyRAT Rootkit — and 20 More Stories
 - **Published**: December 11, 2025
-- **Summary**: ......
-- **Keywords**: down
-- [Read more](https://www.theguardian.com/global-development/2025/dec/11/meta-shuts-down-global-accounts-linked-to-abortion-advice-and-queer-content)
+- **Summary**: This week’s cyber stories show how fast the online world can turn risky. Hackers are sneaking malware into movie downloads, browser add-ons, and even ...
+- [Read more](https://thehackernews.com/2025/12/threatsday-bulletin-spyware-alerts.html)
 
-### WIRTE Leverages AshenLoader Sideloading to Install the AshTag Espionage Backdoor
+### NANOREMOTE Malware Uses Google Drive API for Hidden Control on Windows Systems
 - **Published**: December 11, 2025
-- **Summary**: An advanced persistent threat (APT) known as WIRTE has been attributed to attacks targeting government and diplomatic entities across the Middle East ...
-- [Read more](https://thehackernews.com/2025/12/wirte-leverages-ashenloader-sideloading.html)
+- **Summary**: Cybersecurity researchers have disclosed details of a new fully-featured Windows backdoor called NANOREMOTE that uses the Google Drive API for command...
+- [Read more](https://thehackernews.com/2025/12/nanoremote-malware-uses-google-drive.html)
 
 ---
 
