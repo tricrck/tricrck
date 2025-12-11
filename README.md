@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### OpenAI's house of cards seems primed to collapse
-- **Published**: December 10, 2025
-- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1pjdqvt/openais_house_of_cards_seems_primed_to_collapse/"> <img alt="OpenAI's house of card...
-- **Keywords**: collapse, collapse
-- [Read more](https://www.reddit.com/r/technology/comments/1pjdqvt/openais_house_of_cards_seems_primed_to_collapse/)
-
-### React2Shell Exploitation Delivers Crypto Miners and New Malware Across Multiple Sectors
+### U.S. Blueprint to Rewire Economies of Russia, Ukraine Sets Off Clash with Europe
 - **Published**: December 11, 2025
-- **Summary**: React2Shell continues to witness heavy exploitation, with threat actors leveraging the maximum-severity security flaw in React Server Components (RSC)...
-- [Read more](https://thehackernews.com/2025/12/react2shell-exploitation-delivers.html)
+- **Summary**: https://www.wsj.com/world/europe/u-s-blueprint-to-rew......
+- [Read more](https://www.wsj.com/world/europe/u-s-blueprint-to-rewire-economies-of-russia-ukraine-sets-off-clash-with-europe-72484515)
+
+### Critique: TUI for Reviewing Git Changes
+- **Published**: December 11, 2025
+- **Summary**: https://github.com/remorses/critique</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46228248">https://news.ycombi......
+- [Read more](https://github.com/remorses/critique)
 
 ---
 
