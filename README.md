@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Webinar: How Attackers Exploit Cloud Misconfigurations Across AWS, AI Models, and Kubernetes
+### OpenAI's house of cards seems primed to collapse
 - **Published**: December 10, 2025
-- **Summary**: Cloud security is changing. Attackers are no longer just breaking down the door; they are finding unlocked windows in your configurations, your identi...
-- **Keywords**: down
-- [Read more](https://thehackernews.com/2025/12/webinar-how-attackers-exploit-cloud.html)
+- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1pjdqvt/openais_house_of_cards_seems_primed_to_collapse/"> <img alt="OpenAI's house of card...
+- **Keywords**: collapse, collapse
+- [Read more](https://www.reddit.com/r/technology/comments/1pjdqvt/openais_house_of_cards_seems_primed_to_collapse/)
 
-### Three PCIe Encryption Weaknesses Expose PCIe 5.0+ Systems to Faulty Data Handling
-- **Published**: December 10, 2025
-- **Summary**: Three security vulnerabilities have been disclosed in the Peripheral Component Interconnect Express (PCIe) Integrity and Data Encryption (IDE) protoco...
-- [Read more](https://thehackernews.com/2025/12/three-pcie-encryption-weaknesses-expose.html)
+### React2Shell Exploitation Delivers Crypto Miners and New Malware Across Multiple Sectors
+- **Published**: December 11, 2025
+- **Summary**: React2Shell continues to witness heavy exploitation, with threat actors leveraging the maximum-severity security flaw in React Server Components (RSC)...
+- [Read more](https://thehackernews.com/2025/12/react2shell-exploitation-delivers.html)
 
 ---
 
