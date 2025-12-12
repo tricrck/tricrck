@@ -16,17 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Cadmium Zinc Telluride: The wonder material few can make
+### CISA Flags Actively Exploited GeoServer XXE Flaw in Updated KEV Catalog
 - **Published**: December 12, 2025
-- **Summary**: https://www.bbc.com/news/articles/c24l223d9n7o</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46239895"......
-- [Read more](https://www.bbc.com/news/articles/c24l223d9n7o)
+- **Summary**: The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a high-severity security flaw impacting OSGeo GeoServer to its Know...
+- [Read more](https://thehackernews.com/2025/12/cisa-flags-actively-exploited-geoserver.html)
 
-### OpenAI makes $1B deal to bring Disney characters to ChatGPT and Sora
+### With Three Weeks Left, DJI Issues Last Plea for US to Start Its Mandated Audit
 - **Published**: December 12, 2025
-- **Summary**: https://www.bbc.co.uk/news/articles/c5ydp1gdqwqo</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46239......
-- [Read more](https://www.bbc.co.uk/news/articles/c5ydp1gdqwqo)
+- **Summary**: https://petapixel.com/2025/12/05/with-three-weeks-left-dji-iss......
+- [Read more](https://petapixel.com/2025/12/05/with-three-weeks-left-dji-issues-last-plea-for-us-to-start-its-mandated-audit/)
 
 ---
 
