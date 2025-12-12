@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### React2Shell Exploitation Escalates into Large-Scale Global Attacks, Forcing Emergency Mitigation
+### Home Depot GitHub token exposed for a year, granted access to internal systems
 - **Published**: December 12, 2025
-- **Summary**: The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has urged federal agencies to patch the recent React2Shell vulnerability by December ...
-- **Keywords**: emergency
-- [Read more](https://thehackernews.com/2025/12/react2shell-exploitation-escalates-into.html)
+- **Summary**: https://techcrunch.com/2025/12/12/home-depot-exposed-access-to-int......
+- [Read more](https://techcrunch.com/2025/12/12/home-depot-exposed-access-to-internal-systems-for-a-year-says-researcher/)
 
-### Securing GenAI in the Browser: Policy, Isolation, and Data Controls That Actually Work
+### New Advanced Phishing Kits Use AI and MFA Bypass Tactics to Steal Credentials at Scale
 - **Published**: December 12, 2025
-- **Summary**: The browser has become the main interface to GenAI for most enterprises: from web-based LLMs and copilots, to GenAI‑powered extensions and agentic bro...
-- [Read more](https://thehackernews.com/2025/12/securing-genai-in-browser-policy.html)
+- **Summary**: Cybersecurity researchers have documented four new phishing kits named BlackForce, GhostFrame, InboxPrime AI, and Spiderman that are capable of facili...
+- [Read more](https://thehackernews.com/2025/12/new-advanced-phishing-kits-use-ai-and.html)
 
 ---
 
