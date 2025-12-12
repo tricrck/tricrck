@@ -16,15 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### CISA Flags Actively Exploited GeoServer XXE Flaw in Updated KEV Catalog
+### React2Shell Exploitation Escalates into Large-Scale Global Attacks, Forcing Emergency Mitigation
 - **Published**: December 12, 2025
-- **Summary**: The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a high-severity security flaw impacting OSGeo GeoServer to its Know...
-- [Read more](https://thehackernews.com/2025/12/cisa-flags-actively-exploited-geoserver.html)
+- **Summary**: The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has urged federal agencies to patch the recent React2Shell vulnerability by December ...
+- **Keywords**: emergency
+- [Read more](https://thehackernews.com/2025/12/react2shell-exploitation-escalates-into.html)
 
-### With Three Weeks Left, DJI Issues Last Plea for US to Start Its Mandated Audit
+### Securing GenAI in the Browser: Policy, Isolation, and Data Controls That Actually Work
 - **Published**: December 12, 2025
-- **Summary**: https://petapixel.com/2025/12/05/with-three-weeks-left-dji-iss......
-- [Read more](https://petapixel.com/2025/12/05/with-three-weeks-left-dji-issues-last-plea-for-us-to-start-its-mandated-audit/)
+- **Summary**: The browser has become the main interface to GenAI for most enterprises: from web-based LLMs and copilots, to GenAI‑powered extensions and agentic bro...
+- [Read more](https://thehackernews.com/2025/12/securing-genai-in-browser-policy.html)
 
 ---
 
