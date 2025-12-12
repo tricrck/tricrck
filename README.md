@@ -16,15 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### ThreatsDay Bulletin: Spyware Alerts, Mirai Strikes, Docker Leaks, ValleyRAT Rootkit — and 20 More Stories
-- **Published**: December 11, 2025
-- **Summary**: This week’s cyber stories show how fast the online world can turn risky. Hackers are sneaking malware into movie downloads, browser add-ons, and even ...
-- [Read more](https://thehackernews.com/2025/12/threatsday-bulletin-spyware-alerts.html)
+### Cadmium Zinc Telluride: The wonder material few can make
+- **Published**: December 12, 2025
+- **Summary**: https://www.bbc.com/news/articles/c24l223d9n7o</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46239895"......
+- [Read more](https://www.bbc.com/news/articles/c24l223d9n7o)
 
-### NANOREMOTE Malware Uses Google Drive API for Hidden Control on Windows Systems
-- **Published**: December 11, 2025
-- **Summary**: Cybersecurity researchers have disclosed details of a new fully-featured Windows backdoor called NANOREMOTE that uses the Google Drive API for command...
-- [Read more](https://thehackernews.com/2025/12/nanoremote-malware-uses-google-drive.html)
+### OpenAI makes $1B deal to bring Disney characters to ChatGPT and Sora
+- **Published**: December 12, 2025
+- **Summary**: https://www.bbc.co.uk/news/articles/c5ydp1gdqwqo</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46239......
+- [Read more](https://www.bbc.co.uk/news/articles/c5ydp1gdqwqo)
 
 ---
 
