@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### HyperCard on the Macintosh
+### Apple Issues Security Updates After Two WebKit Flaws Found Exploited in the Wild
 - **Published**: December 13, 2025
-- **Summary**: https://stonetools.ghost.io/hypercard-mac/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46251122">https:/......
-- [Read more](https://stonetools.ghost.io/hypercard-mac/)
+- **Summary**: Apple on Friday released security updates for iOS, iPadOS, macOS, tvOS, watchOS, visionOS, and its Safari web browser to address two security flaws th...
+- [Read more](https://thehackernews.com/2025/12/apple-issues-security-updates-after-two.html)
 
-### Ask HN: Is this a sane way to expose distributed state in Rust?
+### Can't take setting up another bucket for images
 - **Published**: December 13, 2025
-- **Summary**: <p>Hi HN,<p>I’m experimenting with a Rust runtime that exposes <i>replicated, consensus-backed state</i> by advertising a *procedural macro*. Client c...
-- [Read more](https://news.ycombinator.com/item?id=46251120)
+- **Summary**: https://images.labnocturne.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46252515">https://news.ycombinator.com/......
+- [Read more](https://images.labnocturne.com/)
 
 ---
 
