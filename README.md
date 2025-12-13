@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Gemini tops leaderboard on research math problems
+### How to Watch the Radiant Geminid Meteor Shower Tonight
 - **Published**: December 13, 2025
-- **Summary**: https://epoch.ai/frontiermath</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46254112">https://news.ycombinator.com/item......
-- [Read more](https://epoch.ai/frontiermath)
+- **Summary**: https://www.smiths......
+- [Read more](https://www.smithsonianmag.com/smart-news/this-years-best-and-brightest-meteor-shower-peaks-this-weekend-heres-how-to-watch-the-radiant-geminids-180987858/)
 
-### LOL
+### Stop Blaming the "Weatherman"
 - **Published**: December 13, 2025
-- **Summary**: https://www.digitalocean.com/community/tutorials/how-to-create-a-new-......
-- [Read more](https://www.digitalocean.com/community/tutorials/how-to-create-a-new-user-and-grant-permissions-in-mysql)
+- **Summary**: https://developer.sealegs.ai/blog/stop-blaming-the-weatherman.html</a></p>
+<p>Comments URL: <a href="https:......
+- [Read more](https://developer.sealegs.ai/blog/stop-blaming-the-weatherman.html)
 
 ---
 
