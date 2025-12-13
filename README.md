@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Apple Issues Security Updates After Two WebKit Flaws Found Exploited in the Wild
+### Gemini tops leaderboard on research math problems
 - **Published**: December 13, 2025
-- **Summary**: Apple on Friday released security updates for iOS, iPadOS, macOS, tvOS, watchOS, visionOS, and its Safari web browser to address two security flaws th...
-- [Read more](https://thehackernews.com/2025/12/apple-issues-security-updates-after-two.html)
+- **Summary**: https://epoch.ai/frontiermath</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46254112">https://news.ycombinator.com/item......
+- [Read more](https://epoch.ai/frontiermath)
 
-### Can't take setting up another bucket for images
+### LOL
 - **Published**: December 13, 2025
-- **Summary**: https://images.labnocturne.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46252515">https://news.ycombinator.com/......
-- [Read more](https://images.labnocturne.com/)
+- **Summary**: https://www.digitalocean.com/community/tutorials/how-to-create-a-new-......
+- [Read more](https://www.digitalocean.com/community/tutorials/how-to-create-a-new-user-and-grant-permissions-in-mysql)
 
 ---
 
