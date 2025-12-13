@@ -16,15 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Home Depot GitHub token exposed for a year, granted access to internal systems
-- **Published**: December 12, 2025
-- **Summary**: https://techcrunch.com/2025/12/12/home-depot-exposed-access-to-int......
-- [Read more](https://techcrunch.com/2025/12/12/home-depot-exposed-access-to-internal-systems-for-a-year-says-researcher/)
+### HyperCard on the Macintosh
+- **Published**: December 13, 2025
+- **Summary**: https://stonetools.ghost.io/hypercard-mac/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46251122">https:/......
+- [Read more](https://stonetools.ghost.io/hypercard-mac/)
 
-### New Advanced Phishing Kits Use AI and MFA Bypass Tactics to Steal Credentials at Scale
-- **Published**: December 12, 2025
-- **Summary**: Cybersecurity researchers have documented four new phishing kits named BlackForce, GhostFrame, InboxPrime AI, and Spiderman that are capable of facili...
-- [Read more](https://thehackernews.com/2025/12/new-advanced-phishing-kits-use-ai-and.html)
+### Ask HN: Is this a sane way to expose distributed state in Rust?
+- **Published**: December 13, 2025
+- **Summary**: <p>Hi HN,<p>I’m experimenting with a Rust runtime that exposes <i>replicated, consensus-backed state</i> by advertising a *procedural macro*. Client c...
+- [Read more](https://news.ycombinator.com/item?id=46251120)
 
 ---
 

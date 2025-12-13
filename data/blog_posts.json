@@ -1,15 +1,15 @@
 {
   "chaos_ranked": [
     {
-      "title": "Home Depot GitHub token exposed for a year, granted access to internal systems",
-      "link": "https://techcrunch.com/2025/12/12/home-depot-exposed-access-to-internal-systems-for-a-year-says-researcher/",
-      "summary": "<p>Article URL: <a href=\"https://techcrunch.com/2025/12/12/home-depot-exposed-access-to-internal-systems-for-a-year-says-researcher/\">https://techcrunch.com/2025/12/12/home-depot-exposed-access-to-int...",
-      "published": "2025-12-12T18:23:21+00:00",
-      "domain": "techcrunch.com",
+      "title": "HyperCard on the Macintosh",
+      "link": "https://stonetools.ghost.io/hypercard-mac/",
+      "summary": "<p>Article URL: <a href=\"https://stonetools.ghost.io/hypercard-mac/\">https://stonetools.ghost.io/hypercard-mac/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46251122\">https:/...",
+      "published": "2025-12-13T01:34:08+00:00",
+      "domain": "stonetools.ghost.io",
       "scores": {
-        "chaos": 9.0,
-        "anarchy": 6.0,
-        "overall": 7.5
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
       },
       "keywords": {
         "chaos": [],
@@ -17,10 +17,74 @@
       }
     },
     {
-      "title": "New Advanced Phishing Kits Use AI and MFA Bypass Tactics to Steal Credentials at Scale",
-      "link": "https://thehackernews.com/2025/12/new-advanced-phishing-kits-use-ai-and.html",
-      "summary": "Cybersecurity researchers have documented four new phishing kits named BlackForce, GhostFrame, InboxPrime AI, and Spiderman that are capable of facilitating credential theft at scale.\nBlackForce, firs...",
-      "published": "2025-12-12T19:34:00+05:30",
+      "title": "Ask HN: Is this a sane way to expose distributed state in Rust?",
+      "link": "https://news.ycombinator.com/item?id=46251120",
+      "summary": "<p>Hi HN,<p>I\u2019m experimenting with a Rust runtime that exposes <i>replicated, consensus-backed state</i> by advertising a *procedural macro*. Client crates invoke the macro and get a typed API; the ru...",
+      "published": "2025-12-13T01:33:54+00:00",
+      "domain": "news.ycombinator.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: I made an LLM confessional booth, be a priest and forgive LLMs mistakes",
+      "link": "https://llmpriest.carsho.dev",
+      "summary": "<p>I made an simulation where you get to be a priest in a confessional booth and different LLMs will confess mistakes they made in moral situations and you get to forgive them.<p>Inspired by a comment...",
+      "published": "2025-12-13T01:32:15+00:00",
+      "domain": "llmpriest.carsho.dev",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Temporal disobedience: Intersex timescapes, chronopolitics and intersex joy",
+      "link": "https://journals.sagepub.com/doi/10.1177/14647001251389818",
+      "summary": "<p>Article URL: <a href=\"https://journals.sagepub.com/doi/10.1177/14647001251389818\">https://journals.sagepub.com/doi/10.1177/14647001251389818</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinat...",
+      "published": "2025-12-13T01:23:54+00:00",
+      "domain": "journals.sagepub.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The Data Marketing Machine",
+      "link": "https://storagemath.com/posts/vast-data-marketing-machine/",
+      "summary": "<p>Article URL: <a href=\"https://storagemath.com/posts/vast-data-marketing-machine/\">https://storagemath.com/posts/vast-data-marketing-machine/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinat...",
+      "published": "2025-12-13T01:03:13+00:00",
+      "domain": "storagemath.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Fake OSINT and GPT Utility GitHub Repos Spread PyStoreRAT Malware Payloads",
+      "link": "https://thehackernews.com/2025/12/fake-osint-and-gpt-utility-github-repos.html",
+      "summary": "Cybersecurity researchers are calling attention to a new campaign that's leveraging GitHub-hosted Python repositories to distribute a previously undocumented JavaScript-based Remote Access Trojan (RAT...",
+      "published": "2025-12-13T00:20:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -33,11 +97,11 @@
       }
     },
     {
-      "title": "OpenAI Supply Co",
-      "link": "https://supply.openai.com/",
-      "summary": "<p>Article URL: <a href=\"https://supply.openai.com/\">https://supply.openai.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46246987\">https://news.ycombinator.com/item?id=46...",
-      "published": "2025-12-12T18:22:17+00:00",
-      "domain": "supply.openai.com",
+      "title": "OpenAI are quietly adopting skills, now available in ChatGPT and Codex CLI",
+      "link": "https://simonwillison.net/2025/Dec/12/openai-skills/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46250332\">Comments</a>...",
+      "published": "2025-12-12T23:30:19+00:00",
+      "domain": "simonwillison.net",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -49,11 +113,11 @@
       }
     },
     {
-      "title": "DS-Serve: A framework for efficient, scalable neural retrieval",
-      "link": "https://berkeley-large-rag.github.io/RAG-DS-Serve/",
-      "summary": "<p>Article URL: <a href=\"https://berkeley-large-rag.github.io/RAG-DS-Serve/\">https://berkeley-large-rag.github.io/RAG-DS-Serve/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4...",
-      "published": "2025-12-12T18:22:05+00:00",
-      "domain": "berkeley-large-rag.github.io",
+      "title": "Ukrainians sue U.S chip firms for powering Russian drones, missiles | Lawsuits may force Intel, AMD, and Texas Instruments to do more to control chip supply chains.",
+      "link": "https://www.reddit.com/r/technology/comments/1pl4l3x/ukrainians_sue_us_chip_firms_for_powering_russian/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1pl4l3x/ukrainians_sue_us_chip_firms_for_powering_russian/\"> <img alt=\"Ukrainians sue U.S chip firms for powering Russian drones,...",
+      "published": "2025-12-12T22:05:17+00:00",
+      "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -65,42 +129,10 @@
       }
     },
     {
-      "title": "A look at an Android ITW DNG exploit",
-      "link": "https://googleprojectzero.blogspot.com/2025/12/a-look-at-android-itw-dng-exploit.html",
-      "summary": "<p>Article URL: <a href=\"https://googleprojectzero.blogspot.com/2025/12/a-look-at-android-itw-dng-exploit.html\">https://googleprojectzero.blogspot.com/2025/12/a-look-at-android-itw-dng-exploit.html</a...",
-      "published": "2025-12-12T18:21:30+00:00",
-      "domain": "googleprojectzero.blogspot.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: I'm building an open-source Amazon",
-      "link": "https://openship.org",
-      "summary": "<p>I'm building an open source Amazon.<p>In other words, an open source decentralized marketplace. But like Carl Sagan said, to make an apple pie from scratch, you must first invent the universe.<p>So...",
-      "published": "2025-12-12T18:19:28+00:00",
-      "domain": "openship.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: tomcp.org \u2013 Turn any URL into an MCP server",
-      "link": "https://github.com/Ami3466/tomcp",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=46246117\">Comments</a>...",
-      "published": "2025-12-12T17:10:16+00:00",
+      "title": "Show HN: Tiny VM sandbox in C with apps in Rust, C and Zig",
+      "link": "https://github.com/ringtailsoftware/uvm32",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46249538\">Comments</a>...",
+      "published": "2025-12-12T22:02:14+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -113,43 +145,11 @@
       }
     },
     {
-      "title": "You can now have more fluid and expressive conversations when you go Live with Search.",
-      "link": "https://blog.google/products/search/live-audio-gemini-model-update/",
-      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Searchlive_thumb.max-600x600.format-webp.webp\" />When you go Live with Search, you can have a back-and-forth voice conversatio...",
-      "published": "2025-12-12T17:00:00+00:00",
-      "domain": "blog.google",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Bringing state-of-the-art Gemini translation capabilities to Google Translate",
-      "link": "https://blog.google/products/search/gemini-capabilities-translation-upgrades/",
-      "summary": "An illustration of a phone shows Google Translate and icons for capabilities including text translations, speech-to-speech translations, and language praactice...",
-      "published": "2025-12-12T17:00:00+00:00",
-      "domain": "blog.google",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Async DNS",
-      "link": "https://flak.tedunangst.com/post/async-dns",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=46245923\">Comments</a>...",
-      "published": "2025-12-12T16:52:41+00:00",
-      "domain": "flak.tedunangst.com",
+      "title": "GNU Unifont",
+      "link": "https://unifoundry.com/unifont/index.html",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46248859\">Comments</a>...",
+      "published": "2025-12-12T20:57:34+00:00",
+      "domain": "unifoundry.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -163,15 +163,15 @@
   ],
   "anarchy_ranked": [
     {
-      "title": "Home Depot GitHub token exposed for a year, granted access to internal systems",
-      "link": "https://techcrunch.com/2025/12/12/home-depot-exposed-access-to-internal-systems-for-a-year-says-researcher/",
-      "summary": "<p>Article URL: <a href=\"https://techcrunch.com/2025/12/12/home-depot-exposed-access-to-internal-systems-for-a-year-says-researcher/\">https://techcrunch.com/2025/12/12/home-depot-exposed-access-to-int...",
-      "published": "2025-12-12T18:23:21+00:00",
-      "domain": "techcrunch.com",
+      "title": "HyperCard on the Macintosh",
+      "link": "https://stonetools.ghost.io/hypercard-mac/",
+      "summary": "<p>Article URL: <a href=\"https://stonetools.ghost.io/hypercard-mac/\">https://stonetools.ghost.io/hypercard-mac/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46251122\">https:/...",
+      "published": "2025-12-13T01:34:08+00:00",
+      "domain": "stonetools.ghost.io",
       "scores": {
-        "chaos": 9.0,
-        "anarchy": 6.0,
-        "overall": 7.5
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
       },
       "keywords": {
         "chaos": [],
@@ -179,10 +179,74 @@
       }
     },
     {
-      "title": "New Advanced Phishing Kits Use AI and MFA Bypass Tactics to Steal Credentials at Scale",
-      "link": "https://thehackernews.com/2025/12/new-advanced-phishing-kits-use-ai-and.html",
-      "summary": "Cybersecurity researchers have documented four new phishing kits named BlackForce, GhostFrame, InboxPrime AI, and Spiderman that are capable of facilitating credential theft at scale.\nBlackForce, firs...",
-      "published": "2025-12-12T19:34:00+05:30",
+      "title": "Ask HN: Is this a sane way to expose distributed state in Rust?",
+      "link": "https://news.ycombinator.com/item?id=46251120",
+      "summary": "<p>Hi HN,<p>I\u2019m experimenting with a Rust runtime that exposes <i>replicated, consensus-backed state</i> by advertising a *procedural macro*. Client crates invoke the macro and get a typed API; the ru...",
+      "published": "2025-12-13T01:33:54+00:00",
+      "domain": "news.ycombinator.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: I made an LLM confessional booth, be a priest and forgive LLMs mistakes",
+      "link": "https://llmpriest.carsho.dev",
+      "summary": "<p>I made an simulation where you get to be a priest in a confessional booth and different LLMs will confess mistakes they made in moral situations and you get to forgive them.<p>Inspired by a comment...",
+      "published": "2025-12-13T01:32:15+00:00",
+      "domain": "llmpriest.carsho.dev",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Temporal disobedience: Intersex timescapes, chronopolitics and intersex joy",
+      "link": "https://journals.sagepub.com/doi/10.1177/14647001251389818",
+      "summary": "<p>Article URL: <a href=\"https://journals.sagepub.com/doi/10.1177/14647001251389818\">https://journals.sagepub.com/doi/10.1177/14647001251389818</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinat...",
+      "published": "2025-12-13T01:23:54+00:00",
+      "domain": "journals.sagepub.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The Data Marketing Machine",
+      "link": "https://storagemath.com/posts/vast-data-marketing-machine/",
+      "summary": "<p>Article URL: <a href=\"https://storagemath.com/posts/vast-data-marketing-machine/\">https://storagemath.com/posts/vast-data-marketing-machine/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinat...",
+      "published": "2025-12-13T01:03:13+00:00",
+      "domain": "storagemath.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Fake OSINT and GPT Utility GitHub Repos Spread PyStoreRAT Malware Payloads",
+      "link": "https://thehackernews.com/2025/12/fake-osint-and-gpt-utility-github-repos.html",
+      "summary": "Cybersecurity researchers are calling attention to a new campaign that's leveraging GitHub-hosted Python repositories to distribute a previously undocumented JavaScript-based Remote Access Trojan (RAT...",
+      "published": "2025-12-13T00:20:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -195,11 +259,11 @@
       }
     },
     {
-      "title": "OpenAI Supply Co",
-      "link": "https://supply.openai.com/",
-      "summary": "<p>Article URL: <a href=\"https://supply.openai.com/\">https://supply.openai.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46246987\">https://news.ycombinator.com/item?id=46...",
-      "published": "2025-12-12T18:22:17+00:00",
-      "domain": "supply.openai.com",
+      "title": "OpenAI are quietly adopting skills, now available in ChatGPT and Codex CLI",
+      "link": "https://simonwillison.net/2025/Dec/12/openai-skills/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46250332\">Comments</a>...",
+      "published": "2025-12-12T23:30:19+00:00",
+      "domain": "simonwillison.net",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -211,11 +275,11 @@
       }
     },
     {
-      "title": "DS-Serve: A framework for efficient, scalable neural retrieval",
-      "link": "https://berkeley-large-rag.github.io/RAG-DS-Serve/",
-      "summary": "<p>Article URL: <a href=\"https://berkeley-large-rag.github.io/RAG-DS-Serve/\">https://berkeley-large-rag.github.io/RAG-DS-Serve/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4...",
-      "published": "2025-12-12T18:22:05+00:00",
-      "domain": "berkeley-large-rag.github.io",
+      "title": "Ukrainians sue U.S chip firms for powering Russian drones, missiles | Lawsuits may force Intel, AMD, and Texas Instruments to do more to control chip supply chains.",
+      "link": "https://www.reddit.com/r/technology/comments/1pl4l3x/ukrainians_sue_us_chip_firms_for_powering_russian/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1pl4l3x/ukrainians_sue_us_chip_firms_for_powering_russian/\"> <img alt=\"Ukrainians sue U.S chip firms for powering Russian drones,...",
+      "published": "2025-12-12T22:05:17+00:00",
+      "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -227,42 +291,10 @@
       }
     },
     {
-      "title": "A look at an Android ITW DNG exploit",
-      "link": "https://googleprojectzero.blogspot.com/2025/12/a-look-at-android-itw-dng-exploit.html",
-      "summary": "<p>Article URL: <a href=\"https://googleprojectzero.blogspot.com/2025/12/a-look-at-android-itw-dng-exploit.html\">https://googleprojectzero.blogspot.com/2025/12/a-look-at-android-itw-dng-exploit.html</a...",
-      "published": "2025-12-12T18:21:30+00:00",
-      "domain": "googleprojectzero.blogspot.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: I'm building an open-source Amazon",
-      "link": "https://openship.org",
-      "summary": "<p>I'm building an open source Amazon.<p>In other words, an open source decentralized marketplace. But like Carl Sagan said, to make an apple pie from scratch, you must first invent the universe.<p>So...",
-      "published": "2025-12-12T18:19:28+00:00",
-      "domain": "openship.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: tomcp.org \u2013 Turn any URL into an MCP server",
-      "link": "https://github.com/Ami3466/tomcp",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=46246117\">Comments</a>...",
-      "published": "2025-12-12T17:10:16+00:00",
+      "title": "Show HN: Tiny VM sandbox in C with apps in Rust, C and Zig",
+      "link": "https://github.com/ringtailsoftware/uvm32",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46249538\">Comments</a>...",
+      "published": "2025-12-12T22:02:14+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -275,43 +307,11 @@
       }
     },
     {
-      "title": "You can now have more fluid and expressive conversations when you go Live with Search.",
-      "link": "https://blog.google/products/search/live-audio-gemini-model-update/",
-      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Searchlive_thumb.max-600x600.format-webp.webp\" />When you go Live with Search, you can have a back-and-forth voice conversatio...",
-      "published": "2025-12-12T17:00:00+00:00",
-      "domain": "blog.google",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Bringing state-of-the-art Gemini translation capabilities to Google Translate",
-      "link": "https://blog.google/products/search/gemini-capabilities-translation-upgrades/",
-      "summary": "An illustration of a phone shows Google Translate and icons for capabilities including text translations, speech-to-speech translations, and language praactice...",
-      "published": "2025-12-12T17:00:00+00:00",
-      "domain": "blog.google",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Async DNS",
-      "link": "https://flak.tedunangst.com/post/async-dns",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=46245923\">Comments</a>...",
-      "published": "2025-12-12T16:52:41+00:00",
-      "domain": "flak.tedunangst.com",
+      "title": "GNU Unifont",
+      "link": "https://unifoundry.com/unifont/index.html",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46248859\">Comments</a>...",
+      "published": "2025-12-12T20:57:34+00:00",
+      "domain": "unifoundry.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -325,15 +325,15 @@
   ],
   "overall_ranked": [
     {
-      "title": "Home Depot GitHub token exposed for a year, granted access to internal systems",
-      "link": "https://techcrunch.com/2025/12/12/home-depot-exposed-access-to-internal-systems-for-a-year-says-researcher/",
-      "summary": "<p>Article URL: <a href=\"https://techcrunch.com/2025/12/12/home-depot-exposed-access-to-internal-systems-for-a-year-says-researcher/\">https://techcrunch.com/2025/12/12/home-depot-exposed-access-to-int...",
-      "published": "2025-12-12T18:23:21+00:00",
-      "domain": "techcrunch.com",
+      "title": "HyperCard on the Macintosh",
+      "link": "https://stonetools.ghost.io/hypercard-mac/",
+      "summary": "<p>Article URL: <a href=\"https://stonetools.ghost.io/hypercard-mac/\">https://stonetools.ghost.io/hypercard-mac/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46251122\">https:/...",
+      "published": "2025-12-13T01:34:08+00:00",
+      "domain": "stonetools.ghost.io",
       "scores": {
-        "chaos": 9.0,
-        "anarchy": 6.0,
-        "overall": 7.5
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
       },
       "keywords": {
         "chaos": [],
@@ -341,10 +341,74 @@
       }
     },
     {
-      "title": "New Advanced Phishing Kits Use AI and MFA Bypass Tactics to Steal Credentials at Scale",
-      "link": "https://thehackernews.com/2025/12/new-advanced-phishing-kits-use-ai-and.html",
-      "summary": "Cybersecurity researchers have documented four new phishing kits named BlackForce, GhostFrame, InboxPrime AI, and Spiderman that are capable of facilitating credential theft at scale.\nBlackForce, firs...",
-      "published": "2025-12-12T19:34:00+05:30",
+      "title": "Ask HN: Is this a sane way to expose distributed state in Rust?",
+      "link": "https://news.ycombinator.com/item?id=46251120",
+      "summary": "<p>Hi HN,<p>I\u2019m experimenting with a Rust runtime that exposes <i>replicated, consensus-backed state</i> by advertising a *procedural macro*. Client crates invoke the macro and get a typed API; the ru...",
+      "published": "2025-12-13T01:33:54+00:00",
+      "domain": "news.ycombinator.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: I made an LLM confessional booth, be a priest and forgive LLMs mistakes",
+      "link": "https://llmpriest.carsho.dev",
+      "summary": "<p>I made an simulation where you get to be a priest in a confessional booth and different LLMs will confess mistakes they made in moral situations and you get to forgive them.<p>Inspired by a comment...",
+      "published": "2025-12-13T01:32:15+00:00",
+      "domain": "llmpriest.carsho.dev",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Temporal disobedience: Intersex timescapes, chronopolitics and intersex joy",
+      "link": "https://journals.sagepub.com/doi/10.1177/14647001251389818",
+      "summary": "<p>Article URL: <a href=\"https://journals.sagepub.com/doi/10.1177/14647001251389818\">https://journals.sagepub.com/doi/10.1177/14647001251389818</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinat...",
+      "published": "2025-12-13T01:23:54+00:00",
+      "domain": "journals.sagepub.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The Data Marketing Machine",
+      "link": "https://storagemath.com/posts/vast-data-marketing-machine/",
+      "summary": "<p>Article URL: <a href=\"https://storagemath.com/posts/vast-data-marketing-machine/\">https://storagemath.com/posts/vast-data-marketing-machine/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinat...",
+      "published": "2025-12-13T01:03:13+00:00",
+      "domain": "storagemath.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Fake OSINT and GPT Utility GitHub Repos Spread PyStoreRAT Malware Payloads",
+      "link": "https://thehackernews.com/2025/12/fake-osint-and-gpt-utility-github-repos.html",
+      "summary": "Cybersecurity researchers are calling attention to a new campaign that's leveraging GitHub-hosted Python repositories to distribute a previously undocumented JavaScript-based Remote Access Trojan (RAT...",
+      "published": "2025-12-13T00:20:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -357,11 +421,11 @@
       }
     },
     {
-      "title": "OpenAI Supply Co",
-      "link": "https://supply.openai.com/",
-      "summary": "<p>Article URL: <a href=\"https://supply.openai.com/\">https://supply.openai.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46246987\">https://news.ycombinator.com/item?id=46...",
-      "published": "2025-12-12T18:22:17+00:00",
-      "domain": "supply.openai.com",
+      "title": "OpenAI are quietly adopting skills, now available in ChatGPT and Codex CLI",
+      "link": "https://simonwillison.net/2025/Dec/12/openai-skills/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46250332\">Comments</a>...",
+      "published": "2025-12-12T23:30:19+00:00",
+      "domain": "simonwillison.net",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -373,11 +437,11 @@
       }
     },
     {
-      "title": "DS-Serve: A framework for efficient, scalable neural retrieval",
-      "link": "https://berkeley-large-rag.github.io/RAG-DS-Serve/",
-      "summary": "<p>Article URL: <a href=\"https://berkeley-large-rag.github.io/RAG-DS-Serve/\">https://berkeley-large-rag.github.io/RAG-DS-Serve/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4...",
-      "published": "2025-12-12T18:22:05+00:00",
-      "domain": "berkeley-large-rag.github.io",
+      "title": "Ukrainians sue U.S chip firms for powering Russian drones, missiles | Lawsuits may force Intel, AMD, and Texas Instruments to do more to control chip supply chains.",
+      "link": "https://www.reddit.com/r/technology/comments/1pl4l3x/ukrainians_sue_us_chip_firms_for_powering_russian/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1pl4l3x/ukrainians_sue_us_chip_firms_for_powering_russian/\"> <img alt=\"Ukrainians sue U.S chip firms for powering Russian drones,...",
+      "published": "2025-12-12T22:05:17+00:00",
+      "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -389,42 +453,10 @@
       }
     },
     {
-      "title": "A look at an Android ITW DNG exploit",
-      "link": "https://googleprojectzero.blogspot.com/2025/12/a-look-at-android-itw-dng-exploit.html",
-      "summary": "<p>Article URL: <a href=\"https://googleprojectzero.blogspot.com/2025/12/a-look-at-android-itw-dng-exploit.html\">https://googleprojectzero.blogspot.com/2025/12/a-look-at-android-itw-dng-exploit.html</a...",
-      "published": "2025-12-12T18:21:30+00:00",
-      "domain": "googleprojectzero.blogspot.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: I'm building an open-source Amazon",
-      "link": "https://openship.org",
-      "summary": "<p>I'm building an open source Amazon.<p>In other words, an open source decentralized marketplace. But like Carl Sagan said, to make an apple pie from scratch, you must first invent the universe.<p>So...",
-      "published": "2025-12-12T18:19:28+00:00",
-      "domain": "openship.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: tomcp.org \u2013 Turn any URL into an MCP server",
-      "link": "https://github.com/Ami3466/tomcp",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=46246117\">Comments</a>...",
-      "published": "2025-12-12T17:10:16+00:00",
+      "title": "Show HN: Tiny VM sandbox in C with apps in Rust, C and Zig",
+      "link": "https://github.com/ringtailsoftware/uvm32",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46249538\">Comments</a>...",
+      "published": "2025-12-12T22:02:14+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -437,43 +469,11 @@
       }
     },
     {
-      "title": "You can now have more fluid and expressive conversations when you go Live with Search.",
-      "link": "https://blog.google/products/search/live-audio-gemini-model-update/",
-      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Searchlive_thumb.max-600x600.format-webp.webp\" />When you go Live with Search, you can have a back-and-forth voice conversatio...",
-      "published": "2025-12-12T17:00:00+00:00",
-      "domain": "blog.google",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Bringing state-of-the-art Gemini translation capabilities to Google Translate",
-      "link": "https://blog.google/products/search/gemini-capabilities-translation-upgrades/",
-      "summary": "An illustration of a phone shows Google Translate and icons for capabilities including text translations, speech-to-speech translations, and language praactice...",
-      "published": "2025-12-12T17:00:00+00:00",
-      "domain": "blog.google",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Async DNS",
-      "link": "https://flak.tedunangst.com/post/async-dns",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=46245923\">Comments</a>...",
-      "published": "2025-12-12T16:52:41+00:00",
-      "domain": "flak.tedunangst.com",
+      "title": "GNU Unifont",
+      "link": "https://unifoundry.com/unifont/index.html",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46248859\">Comments</a>...",
+      "published": "2025-12-12T20:57:34+00:00",
+      "domain": "unifoundry.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -487,10 +487,90 @@
   ],
   "all_articles": [
     {
-      "title": "New Advanced Phishing Kits Use AI and MFA Bypass Tactics to Steal Credentials at Scale",
-      "link": "https://thehackernews.com/2025/12/new-advanced-phishing-kits-use-ai-and.html",
-      "summary": "Cybersecurity researchers have documented four new phishing kits named BlackForce, GhostFrame, InboxPrime AI, and Spiderman that are capable of facilitating credential theft at scale.\nBlackForce, firs...",
-      "published": "2025-12-12T19:34:00+05:30",
+      "title": "HyperCard on the Macintosh",
+      "link": "https://stonetools.ghost.io/hypercard-mac/",
+      "summary": "<p>Article URL: <a href=\"https://stonetools.ghost.io/hypercard-mac/\">https://stonetools.ghost.io/hypercard-mac/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46251122\">https:/...",
+      "published": "2025-12-13T01:34:08+00:00",
+      "domain": "stonetools.ghost.io",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Ask HN: Is this a sane way to expose distributed state in Rust?",
+      "link": "https://news.ycombinator.com/item?id=46251120",
+      "summary": "<p>Hi HN,<p>I\u2019m experimenting with a Rust runtime that exposes <i>replicated, consensus-backed state</i> by advertising a *procedural macro*. Client crates invoke the macro and get a typed API; the ru...",
+      "published": "2025-12-13T01:33:54+00:00",
+      "domain": "news.ycombinator.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: I made an LLM confessional booth, be a priest and forgive LLMs mistakes",
+      "link": "https://llmpriest.carsho.dev",
+      "summary": "<p>I made an simulation where you get to be a priest in a confessional booth and different LLMs will confess mistakes they made in moral situations and you get to forgive them.<p>Inspired by a comment...",
+      "published": "2025-12-13T01:32:15+00:00",
+      "domain": "llmpriest.carsho.dev",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Temporal disobedience: Intersex timescapes, chronopolitics and intersex joy",
+      "link": "https://journals.sagepub.com/doi/10.1177/14647001251389818",
+      "summary": "<p>Article URL: <a href=\"https://journals.sagepub.com/doi/10.1177/14647001251389818\">https://journals.sagepub.com/doi/10.1177/14647001251389818</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinat...",
+      "published": "2025-12-13T01:23:54+00:00",
+      "domain": "journals.sagepub.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The Data Marketing Machine",
+      "link": "https://storagemath.com/posts/vast-data-marketing-machine/",
+      "summary": "<p>Article URL: <a href=\"https://storagemath.com/posts/vast-data-marketing-machine/\">https://storagemath.com/posts/vast-data-marketing-machine/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinat...",
+      "published": "2025-12-13T01:03:13+00:00",
+      "domain": "storagemath.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Fake OSINT and GPT Utility GitHub Repos Spread PyStoreRAT Malware Payloads",
+      "link": "https://thehackernews.com/2025/12/fake-osint-and-gpt-utility-github-repos.html",
+      "summary": "Cybersecurity researchers are calling attention to a new campaign that's leveraging GitHub-hosted Python repositories to distribute a previously undocumented JavaScript-based Remote Access Trojan (RAT...",
+      "published": "2025-12-13T00:20:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -503,27 +583,11 @@
       }
     },
     {
-      "title": "Home Depot GitHub token exposed for a year, granted access to internal systems",
-      "link": "https://techcrunch.com/2025/12/12/home-depot-exposed-access-to-internal-systems-for-a-year-says-researcher/",
-      "summary": "<p>Article URL: <a href=\"https://techcrunch.com/2025/12/12/home-depot-exposed-access-to-internal-systems-for-a-year-says-researcher/\">https://techcrunch.com/2025/12/12/home-depot-exposed-access-to-int...",
-      "published": "2025-12-12T18:23:21+00:00",
-      "domain": "techcrunch.com",
-      "scores": {
-        "chaos": 9.0,
-        "anarchy": 6.0,
-        "overall": 7.5
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "OpenAI Supply Co",
-      "link": "https://supply.openai.com/",
-      "summary": "<p>Article URL: <a href=\"https://supply.openai.com/\">https://supply.openai.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46246987\">https://news.ycombinator.com/item?id=46...",
-      "published": "2025-12-12T18:22:17+00:00",
-      "domain": "supply.openai.com",
+      "title": "OpenAI are quietly adopting skills, now available in ChatGPT and Codex CLI",
+      "link": "https://simonwillison.net/2025/Dec/12/openai-skills/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46250332\">Comments</a>...",
+      "published": "2025-12-12T23:30:19+00:00",
+      "domain": "simonwillison.net",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -535,11 +599,11 @@
       }
     },
     {
-      "title": "DS-Serve: A framework for efficient, scalable neural retrieval",
-      "link": "https://berkeley-large-rag.github.io/RAG-DS-Serve/",
-      "summary": "<p>Article URL: <a href=\"https://berkeley-large-rag.github.io/RAG-DS-Serve/\">https://berkeley-large-rag.github.io/RAG-DS-Serve/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4...",
-      "published": "2025-12-12T18:22:05+00:00",
-      "domain": "berkeley-large-rag.github.io",
+      "title": "Ukrainians sue U.S chip firms for powering Russian drones, missiles | Lawsuits may force Intel, AMD, and Texas Instruments to do more to control chip supply chains.",
+      "link": "https://www.reddit.com/r/technology/comments/1pl4l3x/ukrainians_sue_us_chip_firms_for_powering_russian/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1pl4l3x/ukrainians_sue_us_chip_firms_for_powering_russian/\"> <img alt=\"Ukrainians sue U.S chip firms for powering Russian drones,...",
+      "published": "2025-12-12T22:05:17+00:00",
+      "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -551,42 +615,10 @@
       }
     },
     {
-      "title": "A look at an Android ITW DNG exploit",
-      "link": "https://googleprojectzero.blogspot.com/2025/12/a-look-at-android-itw-dng-exploit.html",
-      "summary": "<p>Article URL: <a href=\"https://googleprojectzero.blogspot.com/2025/12/a-look-at-android-itw-dng-exploit.html\">https://googleprojectzero.blogspot.com/2025/12/a-look-at-android-itw-dng-exploit.html</a...",
-      "published": "2025-12-12T18:21:30+00:00",
-      "domain": "googleprojectzero.blogspot.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: I'm building an open-source Amazon",
-      "link": "https://openship.org",
-      "summary": "<p>I'm building an open source Amazon.<p>In other words, an open source decentralized marketplace. But like Carl Sagan said, to make an apple pie from scratch, you must first invent the universe.<p>So...",
-      "published": "2025-12-12T18:19:28+00:00",
-      "domain": "openship.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: tomcp.org \u2013 Turn any URL into an MCP server",
-      "link": "https://github.com/Ami3466/tomcp",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=46246117\">Comments</a>...",
-      "published": "2025-12-12T17:10:16+00:00",
+      "title": "Show HN: Tiny VM sandbox in C with apps in Rust, C and Zig",
+      "link": "https://github.com/ringtailsoftware/uvm32",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46249538\">Comments</a>...",
+      "published": "2025-12-12T22:02:14+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -599,43 +631,11 @@
       }
     },
     {
-      "title": "You can now have more fluid and expressive conversations when you go Live with Search.",
-      "link": "https://blog.google/products/search/live-audio-gemini-model-update/",
-      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Searchlive_thumb.max-600x600.format-webp.webp\" />When you go Live with Search, you can have a back-and-forth voice conversatio...",
-      "published": "2025-12-12T17:00:00+00:00",
-      "domain": "blog.google",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Bringing state-of-the-art Gemini translation capabilities to Google Translate",
-      "link": "https://blog.google/products/search/gemini-capabilities-translation-upgrades/",
-      "summary": "An illustration of a phone shows Google Translate and icons for capabilities including text translations, speech-to-speech translations, and language praactice...",
-      "published": "2025-12-12T17:00:00+00:00",
-      "domain": "blog.google",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Async DNS",
-      "link": "https://flak.tedunangst.com/post/async-dns",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=46245923\">Comments</a>...",
-      "published": "2025-12-12T16:52:41+00:00",
-      "domain": "flak.tedunangst.com",
+      "title": "GNU Unifont",
+      "link": "https://unifoundry.com/unifont/index.html",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46248859\">Comments</a>...",
+      "published": "2025-12-12T20:57:34+00:00",
+      "domain": "unifoundry.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
