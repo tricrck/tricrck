@@ -16,16 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### How to Watch the Radiant Geminid Meteor Shower Tonight
+### US green tech retreat echoes mistake of China’s Qing dynasty before collapse
 - **Published**: December 13, 2025
-- **Summary**: https://www.smiths......
-- [Read more](https://www.smithsonianmag.com/smart-news/this-years-best-and-brightest-meteor-shower-peaks-this-weekend-heres-how-to-watch-the-radiant-geminids-180987858/)
+- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1plv1g0/us_green_tech_retreat_echoes_mistake_of_chinas/"> <img alt="US green tech retreat e...
+- **Keywords**: collapse
+- [Read more](https://www.reddit.com/r/technology/comments/1plv1g0/us_green_tech_retreat_echoes_mistake_of_chinas/)
 
-### Stop Blaming the "Weatherman"
-- **Published**: December 13, 2025
-- **Summary**: https://developer.sealegs.ai/blog/stop-blaming-the-weatherman.html</a></p>
-<p>Comments URL: <a href="https:......
-- [Read more](https://developer.sealegs.ai/blog/stop-blaming-the-weatherman.html)
+### Lean Theorem Prover Mathlib
+- **Published**: December 14, 2025
+- **Summary**: https://github.com/leanprover-community/mathlib4</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46260......
+- [Read more](https://github.com/leanprover-community/mathlib4)
 
 ---
 
