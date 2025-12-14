@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Germany: Arrested for suspected Christmas market plot
+### Hero who disarmed one of the Bondi Beach attackers by grabbing his gun
 - **Published**: December 14, 2025
-- **Summary**: https://www.dw.com/en/germany-5-arrested-for-suspected-christmas-market-plot/a-7514807......
-- [Read more](https://www.dw.com/en/germany-5-arrested-for-suspected-christmas-market-plot/a-75148071)
+- **Summary**: https://www.dailymail.co.uk/news/artic......
+- [Read more](https://www.dailymail.co.uk/news/article-15382973/Hero-disarmed-one-Bondi-Beach-attackers-grabbing-gun-father-two-fruit-shop-owner.html)
 
-### The R.E.S.I.S.T.O.R.S.
+### Adafruit: Arduino's rules are 'incompatible with Open Source'
 - **Published**: December 14, 2025
-- **Summary**: https://www.resistors.org/index.php/Main_Page</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46262601">h......
-- [Read more](https://www.resistors.org/index.php/Main_Page)
+- **Summary**: https://thenewstack.io/adafruit-arduinos-rules-are-incompatible-with-open-source/</a></p>
+<p......
+- [Read more](https://thenewstack.io/adafruit-arduinos-rules-are-incompatible-with-open-source/)
 
 ---
 
