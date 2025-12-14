@@ -16,17 +16,19 @@
 
 ## 🚨 Tech Stories
 
-### US green tech retreat echoes mistake of China’s Qing dynasty before collapse
-- **Published**: December 13, 2025
-- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1plv1g0/us_green_tech_retreat_echoes_mistake_of_chinas/"> <img alt="US green tech retreat e...
-- **Keywords**: collapse
-- [Read more](https://www.reddit.com/r/technology/comments/1plv1g0/us_green_tech_retreat_echoes_mistake_of_chinas/)
-
-### Lean Theorem Prover Mathlib
+### Show HN: I replaced a 5-person marketing team with a swarm of autonomous agents
 - **Published**: December 14, 2025
-- **Summary**: https://github.com/leanprover-community/mathlib4</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46260......
-- [Read more](https://github.com/leanprover-community/mathlib4)
+- **Summary**: <p>Hi HN,
+I was frustrated by the standard startup advice: "Hire a VP of Marketing, Hire a Content Lead, Hire a Video Editor."
+It leads to massive bur...
+- [Read more](https://blog.vect.pro/automated-marketing-strategy-guide)
+
+### Show HN: I built an AI that scans 10k Reddit comments to find 'Blue Ocean' ideas
+- **Published**: December 14, 2025
+- **Summary**: <p>Hi HN,
+I dropped out of college 3 months ago to solve my own problem: I kept building SaaS products that nobody wanted.
+I realized I was guessing i...
+- [Read more](https://blog.vect.pro/trend-hacking-guide)
 
 ---
 
