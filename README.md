@@ -16,19 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Show HN: I replaced a 5-person marketing team with a swarm of autonomous agents
+### Germany: Arrested for suspected Christmas market plot
 - **Published**: December 14, 2025
-- **Summary**: <p>Hi HN,
-I was frustrated by the standard startup advice: "Hire a VP of Marketing, Hire a Content Lead, Hire a Video Editor."
-It leads to massive bur...
-- [Read more](https://blog.vect.pro/automated-marketing-strategy-guide)
+- **Summary**: https://www.dw.com/en/germany-5-arrested-for-suspected-christmas-market-plot/a-7514807......
+- [Read more](https://www.dw.com/en/germany-5-arrested-for-suspected-christmas-market-plot/a-75148071)
 
-### Show HN: I built an AI that scans 10k Reddit comments to find 'Blue Ocean' ideas
+### The R.E.S.I.S.T.O.R.S.
 - **Published**: December 14, 2025
-- **Summary**: <p>Hi HN,
-I dropped out of college 3 months ago to solve my own problem: I kept building SaaS products that nobody wanted.
-I realized I was guessing i...
-- [Read more](https://blog.vect.pro/trend-hacking-guide)
+- **Summary**: https://www.resistors.org/index.php/Main_Page</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46262601">h......
+- [Read more](https://www.resistors.org/index.php/Main_Page)
 
 ---
 
