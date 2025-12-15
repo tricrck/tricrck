@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Hero who disarmed one of the Bondi Beach attackers by grabbing his gun
-- **Published**: December 14, 2025
-- **Summary**: https://www.dailymail.co.uk/news/artic......
-- [Read more](https://www.dailymail.co.uk/news/article-15382973/Hero-disarmed-one-Bondi-Beach-attackers-grabbing-gun-father-two-fruit-shop-owner.html)
+### The End of Concept Nativism
+- **Published**: December 15, 2025
+- **Summary**: https://arxiv.org/abs/2505.18277</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46269355">https://news.ycombinator.co......
+- [Read more](https://arxiv.org/abs/2505.18277)
 
-### Adafruit: Arduino's rules are 'incompatible with Open Source'
-- **Published**: December 14, 2025
-- **Summary**: https://thenewstack.io/adafruit-arduinos-rules-are-incompatible-with-open-source/</a></p>
-<p......
-- [Read more](https://thenewstack.io/adafruit-arduinos-rules-are-incompatible-with-open-source/)
+### Linuxiac.com restricts access based on countries and regions
+- **Published**: December 15, 2025
+- **Summary**: https://linuxiac.com/when-linus-met-linus-insights-from-torvalds-conversation-with-ltt......
+- [Read more](https://linuxiac.com/when-linus-met-linus-insights-from-torvalds-conversation-with-ltt/)
 
 ---
 
