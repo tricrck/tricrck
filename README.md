@@ -16,15 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### ⚡ Weekly Recap: Apple 0-Days, WinRAR Exploit, LastPass Fines, .NET RCE, OAuth Scams & More
+### What the Twin Cities Tell Us About Fixing the Housing Crisis
 - **Published**: December 15, 2025
-- **Summary**: If you use a smartphone, browse the web, or unzip files on your computer, you are in the crosshairs this week. Hackers are currently exploiting critic...
-- [Read more](https://thehackernews.com/2025/12/weekly-recap-apple-0-days-winrar.html)
+- **Summary**: https://www.wsj.com/real-estate/minnesota-rent-control-regulation-prices-34221bd4</a></p>
+<p......
+- **Keywords**: crisis
+- [Read more](https://www.wsj.com/real-estate/minnesota-rent-control-regulation-prices-34221bd4)
 
-### A Browser Extension Risk Guide After the ShadyPanda Campaign
+### Featured Chrome Browser Extension Caught Intercepting Millions of Users' AI Chats
 - **Published**: December 15, 2025
-- **Summary**: In early December 2025, security researchers exposed a cybercrime campaign that had quietly hijacked popular Chrome and Edge browser extensions on a m...
-- [Read more](https://thehackernews.com/2025/12/a-browser-extension-risk-guide-after.html)
+- **Summary**: A Google Chrome extension with a "Featured" badge and six million users has been observed silently gathering every prompt entered by users into artifi...
+- [Read more](https://thehackernews.com/2025/12/featured-chrome-browser-extension.html)
 
 ---
 
