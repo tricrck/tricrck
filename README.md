@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### The End of Concept Nativism
+### VolkLocker Ransomware Exposed by Hard-Coded Master Key Allowing Free Decryption
 - **Published**: December 15, 2025
-- **Summary**: https://arxiv.org/abs/2505.18277</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46269355">https://news.ycombinator.co......
-- [Read more](https://arxiv.org/abs/2505.18277)
+- **Summary**: The pro-Russian hacktivist group known as CyberVolk (aka GLORIAMIST) has resurfaced with a new ransomware-as-a-service (RaaS) offering called VolkLock...
+- [Read more](https://thehackernews.com/2025/12/volklocker-ransomware-exposed-by-hard.html)
 
-### Linuxiac.com restricts access based on countries and regions
+### Fuzix on a Raspberry Pi Pico
 - **Published**: December 15, 2025
-- **Summary**: https://linuxiac.com/when-linus-met-linus-insights-from-torvalds-conversation-with-ltt......
-- [Read more](https://linuxiac.com/when-linus-met-linus-insights-from-torvalds-conversation-with-ltt/)
+- **Summary**: https://ewpratten.com/blog/fuzix-pi-pico</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46271115">https://new......
+- [Read more](https://ewpratten.com/blog/fuzix-pi-pico)
 
 ---
 
