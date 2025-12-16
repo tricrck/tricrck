@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### What the Twin Cities Tell Us About Fixing the Housing Crisis
-- **Published**: December 15, 2025
-- **Summary**: https://www.wsj.com/real-estate/minnesota-rent-control-regulation-prices-34221bd4</a></p>
-<p......
-- **Keywords**: crisis
-- [Read more](https://www.wsj.com/real-estate/minnesota-rent-control-regulation-prices-34221bd4)
+### I replaced every light in my apartment with addressable LED strips
+- **Published**: December 16, 2025
+- **Summary**: <p>For years I hated the overhead lights in my rental – harsh 5000K ceiling fixtures that made everything look like an office.  I finally ripped them ...
+- [Read more](https://news.ycombinator.com/item?id=46283691)
 
-### Featured Chrome Browser Extension Caught Intercepting Millions of Users' AI Chats
-- **Published**: December 15, 2025
-- **Summary**: A Google Chrome extension with a "Featured" badge and six million users has been observed silently gathering every prompt entered by users into artifi...
-- [Read more](https://thehackernews.com/2025/12/featured-chrome-browser-extension.html)
+### Earth and Sun (2019)
+- **Published**: December 16, 2025
+- **Summary**: https://ciechanow.ski/earth-and-sun/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46283674">https://news.ycombi......
+- [Read more](https://ciechanow.ski/earth-and-sun/)
 
 ---
 
