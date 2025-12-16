@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### I replaced every light in my apartment with addressable LED strips
+### Google to Shut Down Dark Web Monitoring Tool in February 2026
 - **Published**: December 16, 2025
-- **Summary**: <p>For years I hated the overhead lights in my rental – harsh 5000K ceiling fixtures that made everything look like an office.  I finally ripped them ...
-- [Read more](https://news.ycombinator.com/item?id=46283691)
+- **Summary**: Google has announced that it's discontinuing its dark web report tool in February 2026, less than two years after it was launched as a way for users t...
+- **Keywords**: down
+- [Read more](https://thehackernews.com/2025/12/google-to-shut-down-dark-web-monitoring.html)
 
-### Earth and Sun (2019)
+### Ask HN: How do you know what you're working on is worth working on?
 - **Published**: December 16, 2025
-- **Summary**: https://ciechanow.ski/earth-and-sun/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46283674">https://news.ycombi......
-- [Read more](https://ciechanow.ski/earth-and-sun/)
+- **Summary**: <p>How do you know that the idea you want to work on or are working on is worth the time, energy and money? Not talking about side projects that you w...
+- [Read more](https://news.ycombinator.com/item?id=46285470)
 
 ---
 
