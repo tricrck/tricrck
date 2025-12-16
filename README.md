@@ -22,10 +22,10 @@
 - **Keywords**: down
 - [Read more](https://thehackernews.com/2025/12/google-to-shut-down-dark-web-monitoring.html)
 
-### Ask HN: How do you know what you're working on is worth working on?
+### Why Data Security and Privacy Need to Start in Code
 - **Published**: December 16, 2025
-- **Summary**: <p>How do you know that the idea you want to work on or are working on is worth the time, energy and money? Not talking about side projects that you w...
-- [Read more](https://news.ycombinator.com/item?id=46285470)
+- **Summary**: AI-assisted coding and AI app generation platforms have created an unprecedented surge in software development. Companies are now facing rapid growth ...
+- [Read more](https://thehackernews.com/2025/12/why-data-security-and-privacy-need-to.html)
 
 ---
 
