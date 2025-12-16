@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Google to Shut Down Dark Web Monitoring Tool in February 2026
+### Compromised IAM Credentials Power a Large AWS Crypto Mining Campaign
 - **Published**: December 16, 2025
-- **Summary**: Google has announced that it's discontinuing its dark web report tool in February 2026, less than two years after it was launched as a way for users t...
-- **Keywords**: down
-- [Read more](https://thehackernews.com/2025/12/google-to-shut-down-dark-web-monitoring.html)
+- **Summary**: An ongoing campaign has been observed targeting Amazon Web Services (AWS) customers using compromised Identity and Access Management (IAM) credentials...
+- [Read more](https://thehackernews.com/2025/12/compromised-iam-credentials-power-large.html)
 
-### Why Data Security and Privacy Need to Start in Code
+### Rogue NuGet Package Poses as Tracer.Fody, Steals Cryptocurrency Wallet Data
 - **Published**: December 16, 2025
-- **Summary**: AI-assisted coding and AI app generation platforms have created an unprecedented surge in software development. Companies are now facing rapid growth ...
-- [Read more](https://thehackernews.com/2025/12/why-data-security-and-privacy-need-to.html)
+- **Summary**: Cybersecurity researchers have discovered a new malicious NuGet package that typosquats and impersonates the popular .NET tracing library and its auth...
+- [Read more](https://thehackernews.com/2025/12/rogue-nuget-package-poses-as-tracerfody.html)
 
 ---
 
