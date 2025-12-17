@@ -16,15 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Compromised IAM Credentials Power a Large AWS Crypto Mining Campaign
-- **Published**: December 16, 2025
-- **Summary**: An ongoing campaign has been observed targeting Amazon Web Services (AWS) customers using compromised Identity and Access Management (IAM) credentials...
-- [Read more](https://thehackernews.com/2025/12/compromised-iam-credentials-power-large.html)
+### Add GPIO to Your Framework Laptop with This RP2350 Expansion Card
+- **Published**: December 17, 2025
+- **Summary**: https://www.hackster.io/news/add-gpio-to-your-framework-laptop-wit......
+- [Read more](https://www.hackster.io/news/add-gpio-to-your-framework-laptop-with-this-rp2350-expansion-card-7c81e44dafe5)
 
-### Rogue NuGet Package Poses as Tracer.Fody, Steals Cryptocurrency Wallet Data
-- **Published**: December 16, 2025
-- **Summary**: Cybersecurity researchers have discovered a new malicious NuGet package that typosquats and impersonates the popular .NET tracing library and its auth...
-- [Read more](https://thehackernews.com/2025/12/rogue-nuget-package-poses-as-tracerfody.html)
+### Top six network security best practices to protect your business
+- **Published**: December 17, 2025
+- **Summary**: https://proton.me/blog/network-security-best-practices</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/i......
+- [Read more](https://proton.me/blog/network-security-best-practices)
 
 ---
 
