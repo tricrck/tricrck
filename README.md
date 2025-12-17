@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Fix SOC Blind Spots: See Threats to Your Industry & Country in Real Time
+### APT28 Targets Ukrainian UKR-net Users in Long-Running Credential Phishing Campaign
 - **Published**: December 17, 2025
-- **Summary**: Modern security teams often feel like they’re driving through fog with failing headlights. Threats accelerate, alerts multiply, and SOCs struggle to u...
-- [Read more](https://thehackernews.com/2025/12/fix-soc-blind-spots-see-threats-to-your.html)
+- **Summary**: The Russian state-sponsored threat actor known as APT28 has been attributed to what has been described as a "sustained" credential-harvesting campaign...
+- [Read more](https://thehackernews.com/2025/12/apt28-targets-ukrainian-ukr-net-users.html)
 
-### China-Linked Ink Dragon Hacks Governments Using ShadowPad and FINALDRAFT Malware
+### New ForumTroll Phishing Attacks Target Russian Scholars Using Fake eLibrary Emails
 - **Published**: December 17, 2025
-- **Summary**: The threat actor known as Jewelbug has been increasingly focusing on government targets in Europe since July 2025, even as it continues to attack enti...
-- [Read more](https://thehackernews.com/2025/12/china-linked-ink-dragon-hacks.html)
+- **Summary**: The threat actor linked to Operation ForumTroll has been attributed to a fresh set of phishing attacks targeting individuals within Russia, according ...
+- [Read more](https://thehackernews.com/2025/12/new-forumtroll-phishing-attacks-target.html)
 
 ---
 
