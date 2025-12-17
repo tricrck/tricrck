@@ -16,17 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### GitHub – The Early Days
+### Fix SOC Blind Spots: See Threats to Your Industry & Country in Real Time
 - **Published**: December 17, 2025
-- **Summary**: https://web.archive.org/web/20080514210148/http://github.com/</a></p>
-<p>Comments URL: <a href="https://news.yco......
-- [Read more](https://web.archive.org/web/20080514210148/http://github.com/)
+- **Summary**: Modern security teams often feel like they’re driving through fog with failing headlights. Threats accelerate, alerts multiply, and SOCs struggle to u...
+- [Read more](https://thehackernews.com/2025/12/fix-soc-blind-spots-see-threats-to-your.html)
 
-### Why "negative vectors" can't delete data in FAISS – but weighted kernels can
+### China-Linked Ink Dragon Hacks Governments Using ShadowPad and FINALDRAFT Malware
 - **Published**: December 17, 2025
-- **Summary**: https://github.com/nikitph/bloomin/tree/master/negative-vector-experiment</a></p>
-<p>Comments URL: <......
-- [Read more](https://github.com/nikitph/bloomin/tree/master/negative-vector-experiment)
+- **Summary**: The threat actor known as Jewelbug has been increasingly focusing on government targets in Europe since July 2025, even as it continues to attack enti...
+- [Read more](https://thehackernews.com/2025/12/china-linked-ink-dragon-hacks.html)
 
 ---
 
