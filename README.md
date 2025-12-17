@@ -16,16 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Add GPIO to Your Framework Laptop with This RP2350 Expansion Card
+### GitHub – The Early Days
 - **Published**: December 17, 2025
-- **Summary**: https://www.hackster.io/news/add-gpio-to-your-framework-laptop-wit......
-- [Read more](https://www.hackster.io/news/add-gpio-to-your-framework-laptop-with-this-rp2350-expansion-card-7c81e44dafe5)
+- **Summary**: https://web.archive.org/web/20080514210148/http://github.com/</a></p>
+<p>Comments URL: <a href="https://news.yco......
+- [Read more](https://web.archive.org/web/20080514210148/http://github.com/)
 
-### Top six network security best practices to protect your business
+### Why "negative vectors" can't delete data in FAISS – but weighted kernels can
 - **Published**: December 17, 2025
-- **Summary**: https://proton.me/blog/network-security-best-practices</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/i......
-- [Read more](https://proton.me/blog/network-security-best-practices)
+- **Summary**: https://github.com/nikitph/bloomin/tree/master/negative-vector-experiment</a></p>
+<p>Comments URL: <......
+- [Read more](https://github.com/nikitph/bloomin/tree/master/negative-vector-experiment)
 
 ---
 
