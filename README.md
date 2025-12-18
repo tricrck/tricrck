@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### CISA Flags Critical ASUS Live Update Flaw After Evidence of Active Exploitation
+### The Case for Dynamic AI-SaaS Security as Copilots Scale
 - **Published**: December 18, 2025
-- **Summary**: The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a critical flaw impacting ASUS Live Update to its Known Exploited ...
-- [Read more](https://thehackernews.com/2025/12/cisa-flags-critical-asus-live-update.html)
+- **Summary**: Within the past year, artificial intelligence copilots and agents have quietly permeated the SaaS applications businesses use every day. Tools like Zo...
+- [Read more](https://thehackernews.com/2025/12/the-case-for-dynamic-ai-saas-security.html)
 
-### Cisco Warns of Active Attacks Exploiting Unpatched 0-Day in AsyncOS Email Security Appliances
+### Kimsuky Spreads DocSwap Android Malware via QR Phishing Posing as Delivery App
 - **Published**: December 18, 2025
-- **Summary**: Cisco has alerted users to a maximum-severity zero-day flaw in Cisco AsyncOS software that has been actively exploited by a China-nexus advanced persi...
-- [Read more](https://thehackernews.com/2025/12/cisco-warns-of-active-attacks.html)
+- **Summary**: The North Korean threat actor known as Kimsuky has been linked to a new campaign that distributes a new variant of Android malware called DocSwap via ...
+- [Read more](https://thehackernews.com/2025/12/kimsuky-spreads-docswap-android-malware.html)
 
 ---
 
