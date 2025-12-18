@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Venezuela's Maduro says Trump's comments on land and oil reveal his true motives
+### CISA Flags Critical ASUS Live Update Flaw After Evidence of Active Exploitation
 - **Published**: December 18, 2025
-- **Summary**: https://www.cnn.com/2025/12/17/americas/venezuela-oil-land-trump-motives-intl-latam</a></p......
-- [Read more](https://www.cnn.com/2025/12/17/americas/venezuela-oil-land-trump-motives-intl-latam)
+- **Summary**: The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a critical flaw impacting ASUS Live Update to its Known Exploited ...
+- [Read more](https://thehackernews.com/2025/12/cisa-flags-critical-asus-live-update.html)
 
-### Langgraph – Low Level Orchestration Framework
+### Cisco Warns of Active Attacks Exploiting Unpatched 0-Day in AsyncOS Email Security Appliances
 - **Published**: December 18, 2025
-- **Summary**: https://github.com/langchain-ai/langgraph</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46307976">https://n......
-- [Read more](https://github.com/langchain-ai/langgraph)
+- **Summary**: Cisco has alerted users to a maximum-severity zero-day flaw in Cisco AsyncOS software that has been actively exploited by a China-nexus advanced persi...
+- [Read more](https://thehackernews.com/2025/12/cisco-warns-of-active-attacks.html)
 
 ---
 
