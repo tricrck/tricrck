@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### The Case for Dynamic AI-SaaS Security as Copilots Scale
+### China-Aligned Threat Group Uses Windows Group Policy to Deploy Espionage Malware
 - **Published**: December 18, 2025
-- **Summary**: Within the past year, artificial intelligence copilots and agents have quietly permeated the SaaS applications businesses use every day. Tools like Zo...
-- [Read more](https://thehackernews.com/2025/12/the-case-for-dynamic-ai-saas-security.html)
+- **Summary**: A previously undocumented China-aligned threat cluster dubbed LongNosedGoblin has been attributed to a series of cyber attacks targeting governmental ...
+- [Read more](https://thehackernews.com/2025/12/china-aligned-threat-group-uses-windows.html)
 
-### Kimsuky Spreads DocSwap Android Malware via QR Phishing Posing as Delivery App
+### HPE OneView Flaw Rated CVSS 10.0 Allows Unauthenticated Remote Code Execution
 - **Published**: December 18, 2025
-- **Summary**: The North Korean threat actor known as Kimsuky has been linked to a new campaign that distributes a new variant of Android malware called DocSwap via ...
-- [Read more](https://thehackernews.com/2025/12/kimsuky-spreads-docswap-android-malware.html)
+- **Summary**: Hewlett Packard Enterprise (HPE) has resolved a maximum-severity security flaw in OneView Software that, if successfully exploited, could result in re...
+- [Read more](https://thehackernews.com/2025/12/hpe-oneview-flaw-rated-cvss-100-allows.html)
 
 ---
 
