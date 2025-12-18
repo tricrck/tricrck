@@ -16,15 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### APT28 Targets Ukrainian UKR-net Users in Long-Running Credential Phishing Campaign
-- **Published**: December 17, 2025
-- **Summary**: The Russian state-sponsored threat actor known as APT28 has been attributed to what has been described as a "sustained" credential-harvesting campaign...
-- [Read more](https://thehackernews.com/2025/12/apt28-targets-ukrainian-ukr-net-users.html)
+### Venezuela's Maduro says Trump's comments on land and oil reveal his true motives
+- **Published**: December 18, 2025
+- **Summary**: https://www.cnn.com/2025/12/17/americas/venezuela-oil-land-trump-motives-intl-latam</a></p......
+- [Read more](https://www.cnn.com/2025/12/17/americas/venezuela-oil-land-trump-motives-intl-latam)
 
-### New ForumTroll Phishing Attacks Target Russian Scholars Using Fake eLibrary Emails
-- **Published**: December 17, 2025
-- **Summary**: The threat actor linked to Operation ForumTroll has been attributed to a fresh set of phishing attacks targeting individuals within Russia, according ...
-- [Read more](https://thehackernews.com/2025/12/new-forumtroll-phishing-attacks-target.html)
+### Langgraph – Low Level Orchestration Framework
+- **Published**: December 18, 2025
+- **Summary**: https://github.com/langchain-ai/langgraph</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46307976">https://n......
+- [Read more](https://github.com/langchain-ai/langgraph)
 
 ---
 
