@@ -16,16 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### SMB Direct – SMB3 over RDMA – The Linux Kernel Documentation
+### Ask HN: If oneday AI brain chips become a thing, would you get it?
 - **Published**: December 19, 2025
-- **Summary**: https://docs.kernel.org/filesystems/smb/smbdirect.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/i......
-- [Read more](https://docs.kernel.org/filesystems/smb/smbdirect.html)
+- **Summary**: <p>I see this as becoming part of "The Borg", I doubt I'd be down with it. But I want to know how other people feel. The idea is open to interpretatio...
+- **Keywords**: down
+- [Read more](https://news.ycombinator.com/item?id=46322827)
 
-### Estonia's police send black Christmas cards to over 800 dangerous drivers
+### The unstoppable rise of renewable energy
 - **Published**: December 19, 2025
-- **Summary**: https://news.err.ee/1609889512/estonia-s-police-send-black-christmas-......
-- [Read more](https://news.err.ee/1609889512/estonia-s-police-send-black-christmas-cards-to-over-800-dangerous-drivers)
+- **Summary**: https://www.science.org/content/article/breakthrough-2025</a></p>
+<p>Comments URL: <a href="https://news.ycombinator......
+- [Read more](https://www.science.org/content/article/breakthrough-2025)
 
 ---
 
