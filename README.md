@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Ask HN: If oneday AI brain chips become a thing, would you get it?
+### WatchGuard Warns of Active Exploitation of Critical Fireware OS VPN Vulnerability
 - **Published**: December 19, 2025
-- **Summary**: <p>I see this as becoming part of "The Borg", I doubt I'd be down with it. But I want to know how other people feel. The idea is open to interpretatio...
-- **Keywords**: down
-- [Read more](https://news.ycombinator.com/item?id=46322827)
+- **Summary**: WatchGuard has released fixes to address a critical security flaw in Fireware OS that it said has been exploited in real-world attacks.
+Tracked as CVE...
+- [Read more](https://thehackernews.com/2025/12/watchguard-warns-of-active-exploitation.html)
 
-### The unstoppable rise of renewable energy
+### Nigeria Arrests RaccoonO365 Phishing Developer Linked to Microsoft 365 Attacks
 - **Published**: December 19, 2025
-- **Summary**: https://www.science.org/content/article/breakthrough-2025</a></p>
-<p>Comments URL: <a href="https://news.ycombinator......
-- [Read more](https://www.science.org/content/article/breakthrough-2025)
+- **Summary**: Authorities in Nigeria have announced the arrest of three "high-profile internet fraud suspects" who are alleged to have been involved in phishing att...
+- [Read more](https://thehackernews.com/2025/12/nigeria-arrests-raccoono365-phishing.html)
 
 ---
 
