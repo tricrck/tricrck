@@ -16,15 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### China-Aligned Threat Group Uses Windows Group Policy to Deploy Espionage Malware
-- **Published**: December 18, 2025
-- **Summary**: A previously undocumented China-aligned threat cluster dubbed LongNosedGoblin has been attributed to a series of cyber attacks targeting governmental ...
-- [Read more](https://thehackernews.com/2025/12/china-aligned-threat-group-uses-windows.html)
+### SMB Direct – SMB3 over RDMA – The Linux Kernel Documentation
+- **Published**: December 19, 2025
+- **Summary**: https://docs.kernel.org/filesystems/smb/smbdirect.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/i......
+- [Read more](https://docs.kernel.org/filesystems/smb/smbdirect.html)
 
-### HPE OneView Flaw Rated CVSS 10.0 Allows Unauthenticated Remote Code Execution
-- **Published**: December 18, 2025
-- **Summary**: Hewlett Packard Enterprise (HPE) has resolved a maximum-severity security flaw in OneView Software that, if successfully exploited, could result in re...
-- [Read more](https://thehackernews.com/2025/12/hpe-oneview-flaw-rated-cvss-100-allows.html)
+### Estonia's police send black Christmas cards to over 800 dangerous drivers
+- **Published**: December 19, 2025
+- **Summary**: https://news.err.ee/1609889512/estonia-s-police-send-black-christmas-......
+- [Read more](https://news.err.ee/1609889512/estonia-s-police-send-black-christmas-cards-to-over-800-dangerous-drivers)
 
 ---
 
