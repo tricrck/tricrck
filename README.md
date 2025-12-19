@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### WatchGuard Warns of Active Exploitation of Critical Fireware OS VPN Vulnerability
+### We asked four AI coding agents to rebuild Minesweeper
 - **Published**: December 19, 2025
-- **Summary**: WatchGuard has released fixes to address a critical security flaw in Fireware OS that it said has been exploited in real-world attacks.
-Tracked as CVE...
-- [Read more](https://thehackernews.com/2025/12/watchguard-warns-of-active-exploitation.html)
+- **Summary**: https://arstechnica.com/ai/2025/12/the-ars-technica-ai-coding-agent-test-mineswe......
+- [Read more](https://arstechnica.com/ai/2025/12/the-ars-technica-ai-coding-agent-test-minesweeper-edition/)
 
-### Nigeria Arrests RaccoonO365 Phishing Developer Linked to Microsoft 365 Attacks
+### Cracked Software and YouTube Videos Spread CountLoader and GachiLoader Malware
 - **Published**: December 19, 2025
-- **Summary**: Authorities in Nigeria have announced the arrest of three "high-profile internet fraud suspects" who are alleged to have been involved in phishing att...
-- [Read more](https://thehackernews.com/2025/12/nigeria-arrests-raccoono365-phishing.html)
+- **Summary**: Cybersecurity researchers have disclosed details of a new campaign that has used cracked software distribution sites as a distribution vector for a ne...
+- [Read more](https://thehackernews.com/2025/12/cracked-software-and-youtube-videos.html)
 
 ---
 

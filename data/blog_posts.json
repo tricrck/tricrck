@@ -1,6 +1,102 @@
 {
   "chaos_ranked": [
     {
+      "title": "We asked four AI coding agents to rebuild Minesweeper",
+      "link": "https://arstechnica.com/ai/2025/12/the-ars-technica-ai-coding-agent-test-minesweeper-edition/",
+      "summary": "<p>Article URL: <a href=\"https://arstechnica.com/ai/2025/12/the-ars-technica-ai-coding-agent-test-minesweeper-edition/\">https://arstechnica.com/ai/2025/12/the-ars-technica-ai-coding-agent-test-mineswe...",
+      "published": "2025-12-19T18:22:21+00:00",
+      "domain": "arstechnica.com",
+      "scores": {
+        "chaos": 18.0,
+        "anarchy": 12.0,
+        "overall": 15.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Cracked Software and YouTube Videos Spread CountLoader and GachiLoader Malware",
+      "link": "https://thehackernews.com/2025/12/cracked-software-and-youtube-videos.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new campaign that has used cracked software distribution sites as a distribution vector for a new version of a modular and stealthy loader known a...",
+      "published": "2025-12-19T21:04:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Implementing a Sharia Chatbot as a Consultation Medium for Questions About Islam",
+      "link": "https://arxiv.org/abs/2512.16644",
+      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2512.16644\">https://arxiv.org/abs/2512.16644</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46329065\">https://news.ycombinator.co...",
+      "published": "2025-12-19T18:21:04+00:00",
+      "domain": "arxiv.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "OpenZFS 2.4 Released with Faster Encryption Performance, Many Other Improvements",
+      "link": "https://www.phoronix.com/news/OpenZFS-2.4-Released",
+      "summary": "<p>Article URL: <a href=\"https://www.phoronix.com/news/OpenZFS-2.4-Released\">https://www.phoronix.com/news/OpenZFS-2.4-Released</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4...",
+      "published": "2025-12-19T18:20:50+00:00",
+      "domain": "phoronix.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Open-Source Browser Use LLM (30B, A3B)",
+      "link": "https://huggingface.co/browser-use/bu-30b-a3b-preview",
+      "summary": "<p>Our first model brings SoTA Browser Use capabilities in a small and fast model that can be hosted on a single GPU. It\u2019s much much faster than anything out there and around 15x cheaper than Sonnet 4...",
+      "published": "2025-12-19T18:20:30+00:00",
+      "domain": "huggingface.co",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Revealed: How Toyota uses retro-style games and prizes to motivate workers",
+      "link": "https://www.theguardian.com/us-news/2025/dec/19/toyota-employee-lobbying",
+      "summary": "<p>Article URL: <a href=\"https://www.theguardian.com/us-news/2025/dec/19/toyota-employee-lobbying\">https://www.theguardian.com/us-news/2025/dec/19/toyota-employee-lobbying</a></p>\n<p>Comments URL: <a ...",
+      "published": "2025-12-19T18:19:54+00:00",
+      "domain": "theguardian.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "WatchGuard Warns of Active Exploitation of Critical Fireware OS VPN Vulnerability",
       "link": "https://thehackernews.com/2025/12/watchguard-warns-of-active-exploitation.html",
       "summary": "WatchGuard has released fixes to address a critical security flaw in Fireware OS that it said has been exploited in real-world attacks.\nTracked as CVE-2025-14733 (CVSS score: 9.3), the vulnerability h...",
@@ -17,122 +113,10 @@
       }
     },
     {
-      "title": "Nigeria Arrests RaccoonO365 Phishing Developer Linked to Microsoft 365 Attacks",
-      "link": "https://thehackernews.com/2025/12/nigeria-arrests-raccoono365-phishing.html",
-      "summary": "Authorities in Nigeria have announced the arrest of three \"high-profile internet fraud suspects\" who are alleged to have been involved in phishing attacks targeting major corporations, including the m...",
-      "published": "2025-12-19T15:56:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "New UEFI Flaw Enables Early-Boot DMA Attacks on ASRock, ASUS, GIGABYTE, MSI Motherboards",
-      "link": "https://thehackernews.com/2025/12/new-uefi-flaw-enables-early-boot-dma.html",
-      "summary": "Certain motherboard models from vendors like ASRock, ASUSTeK Computer, GIGABYTE, and MSI are affected by a security vulnerability that leaves them susceptible to early-boot direct memory access (DMA) ...",
-      "published": "2025-12-19T13:55:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Always-on processor magic: how \"Find My\" works while iPhone is powered off",
-      "link": "https://naehrdine.blogspot.com/2021/09/always-on-processor-magic-how-find-my.html",
-      "summary": "<p>Article URL: <a href=\"https://naehrdine.blogspot.com/2021/09/always-on-processor-magic-how-find-my.html\">https://naehrdine.blogspot.com/2021/09/always-on-processor-magic-how-find-my.html</a></p>\n<p...",
-      "published": "2025-12-19T12:42:02+00:00",
-      "domain": "naehrdine.blogspot.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "EscapeBench: Towards Advancing Creative Intelligence Of Language Model Agents",
-      "link": "https://aclanthology.org/2025.acl-long.39/",
-      "summary": "<p>Article URL: <a href=\"https://aclanthology.org/2025.acl-long.39/\">https://aclanthology.org/2025.acl-long.39/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46325172\">https:/...",
-      "published": "2025-12-19T12:39:52+00:00",
-      "domain": "aclanthology.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "US government sues US Virgin Islands & accuses officials of violating 2nd Amend.",
-      "link": "https://apnews.com/article/usvi-us-government-trump-second-amendment-guns-45189a8a28da66b1307f4da4493d2270",
-      "summary": "<p>Article URL: <a href=\"https://apnews.com/article/usvi-us-government-trump-second-amendment-guns-45189a8a28da66b1307f4da4493d2270\">https://apnews.com/article/usvi-us-government-trump-second-amendmen...",
-      "published": "2025-12-19T12:38:00+00:00",
-      "domain": "apnews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "DOMPurify, DOM-only, fast, Uber-tolerant XSS sanitizer for HTML, SVG and MathML",
-      "link": "https://cure53.de/purify",
-      "summary": "<p>Article URL: <a href=\"https://cure53.de/purify\">https://cure53.de/purify</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46325143\">https://news.ycombinator.com/item?id=463251...",
-      "published": "2025-12-19T12:36:25+00:00",
-      "domain": "cure53.de",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Vector Search for the Bible",
-      "link": "https://searchyah.app/",
-      "summary": "<p>Article URL: <a href=\"https://searchyah.app/\">https://searchyah.app/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46325142\">https://news.ycombinator.com/item?id=46325142</...",
-      "published": "2025-12-19T12:36:21+00:00",
-      "domain": "searchyah.app",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Anthropic\u2019s AI vending machine turns communist and gives everything for free",
-      "link": "https://www.reddit.com/r/technology/comments/1pqiz9x/anthropics_ai_vending_machine_turns_communist_and/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1pqiz9x/anthropics_ai_vending_machine_turns_communist_and/\"> <img alt=\"Anthropic\u2019s AI vending machine turns communist and gives e...",
-      "published": "2025-12-19T11:38:15+00:00",
+      "title": "TikTok Deal Done And It\u2019s Somehow The Shittiest Possible Outcome, Making Everything Worse",
+      "link": "https://www.reddit.com/r/technology/comments/1pqpfll/tiktok_deal_done_and_its_somehow_the_shittiest/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1pqpfll/tiktok_deal_done_and_its_somehow_the_shittiest/\"> <img alt=\"TikTok Deal Done And It\u2019s Somehow The Shittiest Possible Outc...",
+      "published": "2025-12-19T16:28:08+00:00",
       "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
@@ -145,11 +129,27 @@
       }
     },
     {
-      "title": "Show HN: I open-sourced my Go and Next B2B SaaS Starter (deploy anywhere, MIT)",
-      "link": "https://github.com/moasq/production-saas-starter",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=46324665\">Comments</a>...",
-      "published": "2025-12-19T11:34:11+00:00",
-      "domain": "github.com",
+      "title": "Cursor Acquires Graphite",
+      "link": "https://graphite.com/blog/graphite-joins-cursor",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46327325\">Comments</a>...",
+      "published": "2025-12-19T16:07:42+00:00",
+      "domain": "graphite.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "40 of our most helpful AI tips from 2025",
+      "link": "https://blog.google/technology/ai/ai-tips-2025/",
+      "summary": "The image is a dark-themed illustration depicting three people interacting with technology, surrounded by various product icons....",
+      "published": "2025-12-19T16:00:00+00:00",
+      "domain": "blog.google",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -163,6 +163,102 @@
   ],
   "anarchy_ranked": [
     {
+      "title": "We asked four AI coding agents to rebuild Minesweeper",
+      "link": "https://arstechnica.com/ai/2025/12/the-ars-technica-ai-coding-agent-test-minesweeper-edition/",
+      "summary": "<p>Article URL: <a href=\"https://arstechnica.com/ai/2025/12/the-ars-technica-ai-coding-agent-test-minesweeper-edition/\">https://arstechnica.com/ai/2025/12/the-ars-technica-ai-coding-agent-test-mineswe...",
+      "published": "2025-12-19T18:22:21+00:00",
+      "domain": "arstechnica.com",
+      "scores": {
+        "chaos": 18.0,
+        "anarchy": 12.0,
+        "overall": 15.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Cracked Software and YouTube Videos Spread CountLoader and GachiLoader Malware",
+      "link": "https://thehackernews.com/2025/12/cracked-software-and-youtube-videos.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new campaign that has used cracked software distribution sites as a distribution vector for a new version of a modular and stealthy loader known a...",
+      "published": "2025-12-19T21:04:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Implementing a Sharia Chatbot as a Consultation Medium for Questions About Islam",
+      "link": "https://arxiv.org/abs/2512.16644",
+      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2512.16644\">https://arxiv.org/abs/2512.16644</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46329065\">https://news.ycombinator.co...",
+      "published": "2025-12-19T18:21:04+00:00",
+      "domain": "arxiv.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "OpenZFS 2.4 Released with Faster Encryption Performance, Many Other Improvements",
+      "link": "https://www.phoronix.com/news/OpenZFS-2.4-Released",
+      "summary": "<p>Article URL: <a href=\"https://www.phoronix.com/news/OpenZFS-2.4-Released\">https://www.phoronix.com/news/OpenZFS-2.4-Released</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4...",
+      "published": "2025-12-19T18:20:50+00:00",
+      "domain": "phoronix.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Open-Source Browser Use LLM (30B, A3B)",
+      "link": "https://huggingface.co/browser-use/bu-30b-a3b-preview",
+      "summary": "<p>Our first model brings SoTA Browser Use capabilities in a small and fast model that can be hosted on a single GPU. It\u2019s much much faster than anything out there and around 15x cheaper than Sonnet 4...",
+      "published": "2025-12-19T18:20:30+00:00",
+      "domain": "huggingface.co",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Revealed: How Toyota uses retro-style games and prizes to motivate workers",
+      "link": "https://www.theguardian.com/us-news/2025/dec/19/toyota-employee-lobbying",
+      "summary": "<p>Article URL: <a href=\"https://www.theguardian.com/us-news/2025/dec/19/toyota-employee-lobbying\">https://www.theguardian.com/us-news/2025/dec/19/toyota-employee-lobbying</a></p>\n<p>Comments URL: <a ...",
+      "published": "2025-12-19T18:19:54+00:00",
+      "domain": "theguardian.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "WatchGuard Warns of Active Exploitation of Critical Fireware OS VPN Vulnerability",
       "link": "https://thehackernews.com/2025/12/watchguard-warns-of-active-exploitation.html",
       "summary": "WatchGuard has released fixes to address a critical security flaw in Fireware OS that it said has been exploited in real-world attacks.\nTracked as CVE-2025-14733 (CVSS score: 9.3), the vulnerability h...",
@@ -179,122 +275,10 @@
       }
     },
     {
-      "title": "Nigeria Arrests RaccoonO365 Phishing Developer Linked to Microsoft 365 Attacks",
-      "link": "https://thehackernews.com/2025/12/nigeria-arrests-raccoono365-phishing.html",
-      "summary": "Authorities in Nigeria have announced the arrest of three \"high-profile internet fraud suspects\" who are alleged to have been involved in phishing attacks targeting major corporations, including the m...",
-      "published": "2025-12-19T15:56:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "New UEFI Flaw Enables Early-Boot DMA Attacks on ASRock, ASUS, GIGABYTE, MSI Motherboards",
-      "link": "https://thehackernews.com/2025/12/new-uefi-flaw-enables-early-boot-dma.html",
-      "summary": "Certain motherboard models from vendors like ASRock, ASUSTeK Computer, GIGABYTE, and MSI are affected by a security vulnerability that leaves them susceptible to early-boot direct memory access (DMA) ...",
-      "published": "2025-12-19T13:55:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Always-on processor magic: how \"Find My\" works while iPhone is powered off",
-      "link": "https://naehrdine.blogspot.com/2021/09/always-on-processor-magic-how-find-my.html",
-      "summary": "<p>Article URL: <a href=\"https://naehrdine.blogspot.com/2021/09/always-on-processor-magic-how-find-my.html\">https://naehrdine.blogspot.com/2021/09/always-on-processor-magic-how-find-my.html</a></p>\n<p...",
-      "published": "2025-12-19T12:42:02+00:00",
-      "domain": "naehrdine.blogspot.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "EscapeBench: Towards Advancing Creative Intelligence Of Language Model Agents",
-      "link": "https://aclanthology.org/2025.acl-long.39/",
-      "summary": "<p>Article URL: <a href=\"https://aclanthology.org/2025.acl-long.39/\">https://aclanthology.org/2025.acl-long.39/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46325172\">https:/...",
-      "published": "2025-12-19T12:39:52+00:00",
-      "domain": "aclanthology.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "US government sues US Virgin Islands & accuses officials of violating 2nd Amend.",
-      "link": "https://apnews.com/article/usvi-us-government-trump-second-amendment-guns-45189a8a28da66b1307f4da4493d2270",
-      "summary": "<p>Article URL: <a href=\"https://apnews.com/article/usvi-us-government-trump-second-amendment-guns-45189a8a28da66b1307f4da4493d2270\">https://apnews.com/article/usvi-us-government-trump-second-amendmen...",
-      "published": "2025-12-19T12:38:00+00:00",
-      "domain": "apnews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "DOMPurify, DOM-only, fast, Uber-tolerant XSS sanitizer for HTML, SVG and MathML",
-      "link": "https://cure53.de/purify",
-      "summary": "<p>Article URL: <a href=\"https://cure53.de/purify\">https://cure53.de/purify</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46325143\">https://news.ycombinator.com/item?id=463251...",
-      "published": "2025-12-19T12:36:25+00:00",
-      "domain": "cure53.de",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Vector Search for the Bible",
-      "link": "https://searchyah.app/",
-      "summary": "<p>Article URL: <a href=\"https://searchyah.app/\">https://searchyah.app/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46325142\">https://news.ycombinator.com/item?id=46325142</...",
-      "published": "2025-12-19T12:36:21+00:00",
-      "domain": "searchyah.app",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Anthropic\u2019s AI vending machine turns communist and gives everything for free",
-      "link": "https://www.reddit.com/r/technology/comments/1pqiz9x/anthropics_ai_vending_machine_turns_communist_and/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1pqiz9x/anthropics_ai_vending_machine_turns_communist_and/\"> <img alt=\"Anthropic\u2019s AI vending machine turns communist and gives e...",
-      "published": "2025-12-19T11:38:15+00:00",
+      "title": "TikTok Deal Done And It\u2019s Somehow The Shittiest Possible Outcome, Making Everything Worse",
+      "link": "https://www.reddit.com/r/technology/comments/1pqpfll/tiktok_deal_done_and_its_somehow_the_shittiest/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1pqpfll/tiktok_deal_done_and_its_somehow_the_shittiest/\"> <img alt=\"TikTok Deal Done And It\u2019s Somehow The Shittiest Possible Outc...",
+      "published": "2025-12-19T16:28:08+00:00",
       "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
@@ -307,11 +291,27 @@
       }
     },
     {
-      "title": "Show HN: I open-sourced my Go and Next B2B SaaS Starter (deploy anywhere, MIT)",
-      "link": "https://github.com/moasq/production-saas-starter",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=46324665\">Comments</a>...",
-      "published": "2025-12-19T11:34:11+00:00",
-      "domain": "github.com",
+      "title": "Cursor Acquires Graphite",
+      "link": "https://graphite.com/blog/graphite-joins-cursor",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46327325\">Comments</a>...",
+      "published": "2025-12-19T16:07:42+00:00",
+      "domain": "graphite.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "40 of our most helpful AI tips from 2025",
+      "link": "https://blog.google/technology/ai/ai-tips-2025/",
+      "summary": "The image is a dark-themed illustration depicting three people interacting with technology, surrounded by various product icons....",
+      "published": "2025-12-19T16:00:00+00:00",
+      "domain": "blog.google",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -325,6 +325,102 @@
   ],
   "overall_ranked": [
     {
+      "title": "We asked four AI coding agents to rebuild Minesweeper",
+      "link": "https://arstechnica.com/ai/2025/12/the-ars-technica-ai-coding-agent-test-minesweeper-edition/",
+      "summary": "<p>Article URL: <a href=\"https://arstechnica.com/ai/2025/12/the-ars-technica-ai-coding-agent-test-minesweeper-edition/\">https://arstechnica.com/ai/2025/12/the-ars-technica-ai-coding-agent-test-mineswe...",
+      "published": "2025-12-19T18:22:21+00:00",
+      "domain": "arstechnica.com",
+      "scores": {
+        "chaos": 18.0,
+        "anarchy": 12.0,
+        "overall": 15.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Cracked Software and YouTube Videos Spread CountLoader and GachiLoader Malware",
+      "link": "https://thehackernews.com/2025/12/cracked-software-and-youtube-videos.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new campaign that has used cracked software distribution sites as a distribution vector for a new version of a modular and stealthy loader known a...",
+      "published": "2025-12-19T21:04:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Implementing a Sharia Chatbot as a Consultation Medium for Questions About Islam",
+      "link": "https://arxiv.org/abs/2512.16644",
+      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2512.16644\">https://arxiv.org/abs/2512.16644</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46329065\">https://news.ycombinator.co...",
+      "published": "2025-12-19T18:21:04+00:00",
+      "domain": "arxiv.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "OpenZFS 2.4 Released with Faster Encryption Performance, Many Other Improvements",
+      "link": "https://www.phoronix.com/news/OpenZFS-2.4-Released",
+      "summary": "<p>Article URL: <a href=\"https://www.phoronix.com/news/OpenZFS-2.4-Released\">https://www.phoronix.com/news/OpenZFS-2.4-Released</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4...",
+      "published": "2025-12-19T18:20:50+00:00",
+      "domain": "phoronix.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Open-Source Browser Use LLM (30B, A3B)",
+      "link": "https://huggingface.co/browser-use/bu-30b-a3b-preview",
+      "summary": "<p>Our first model brings SoTA Browser Use capabilities in a small and fast model that can be hosted on a single GPU. It\u2019s much much faster than anything out there and around 15x cheaper than Sonnet 4...",
+      "published": "2025-12-19T18:20:30+00:00",
+      "domain": "huggingface.co",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Revealed: How Toyota uses retro-style games and prizes to motivate workers",
+      "link": "https://www.theguardian.com/us-news/2025/dec/19/toyota-employee-lobbying",
+      "summary": "<p>Article URL: <a href=\"https://www.theguardian.com/us-news/2025/dec/19/toyota-employee-lobbying\">https://www.theguardian.com/us-news/2025/dec/19/toyota-employee-lobbying</a></p>\n<p>Comments URL: <a ...",
+      "published": "2025-12-19T18:19:54+00:00",
+      "domain": "theguardian.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "WatchGuard Warns of Active Exploitation of Critical Fireware OS VPN Vulnerability",
       "link": "https://thehackernews.com/2025/12/watchguard-warns-of-active-exploitation.html",
       "summary": "WatchGuard has released fixes to address a critical security flaw in Fireware OS that it said has been exploited in real-world attacks.\nTracked as CVE-2025-14733 (CVSS score: 9.3), the vulnerability h...",
@@ -341,122 +437,10 @@
       }
     },
     {
-      "title": "Nigeria Arrests RaccoonO365 Phishing Developer Linked to Microsoft 365 Attacks",
-      "link": "https://thehackernews.com/2025/12/nigeria-arrests-raccoono365-phishing.html",
-      "summary": "Authorities in Nigeria have announced the arrest of three \"high-profile internet fraud suspects\" who are alleged to have been involved in phishing attacks targeting major corporations, including the m...",
-      "published": "2025-12-19T15:56:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "New UEFI Flaw Enables Early-Boot DMA Attacks on ASRock, ASUS, GIGABYTE, MSI Motherboards",
-      "link": "https://thehackernews.com/2025/12/new-uefi-flaw-enables-early-boot-dma.html",
-      "summary": "Certain motherboard models from vendors like ASRock, ASUSTeK Computer, GIGABYTE, and MSI are affected by a security vulnerability that leaves them susceptible to early-boot direct memory access (DMA) ...",
-      "published": "2025-12-19T13:55:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Always-on processor magic: how \"Find My\" works while iPhone is powered off",
-      "link": "https://naehrdine.blogspot.com/2021/09/always-on-processor-magic-how-find-my.html",
-      "summary": "<p>Article URL: <a href=\"https://naehrdine.blogspot.com/2021/09/always-on-processor-magic-how-find-my.html\">https://naehrdine.blogspot.com/2021/09/always-on-processor-magic-how-find-my.html</a></p>\n<p...",
-      "published": "2025-12-19T12:42:02+00:00",
-      "domain": "naehrdine.blogspot.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "EscapeBench: Towards Advancing Creative Intelligence Of Language Model Agents",
-      "link": "https://aclanthology.org/2025.acl-long.39/",
-      "summary": "<p>Article URL: <a href=\"https://aclanthology.org/2025.acl-long.39/\">https://aclanthology.org/2025.acl-long.39/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46325172\">https:/...",
-      "published": "2025-12-19T12:39:52+00:00",
-      "domain": "aclanthology.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "US government sues US Virgin Islands & accuses officials of violating 2nd Amend.",
-      "link": "https://apnews.com/article/usvi-us-government-trump-second-amendment-guns-45189a8a28da66b1307f4da4493d2270",
-      "summary": "<p>Article URL: <a href=\"https://apnews.com/article/usvi-us-government-trump-second-amendment-guns-45189a8a28da66b1307f4da4493d2270\">https://apnews.com/article/usvi-us-government-trump-second-amendmen...",
-      "published": "2025-12-19T12:38:00+00:00",
-      "domain": "apnews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "DOMPurify, DOM-only, fast, Uber-tolerant XSS sanitizer for HTML, SVG and MathML",
-      "link": "https://cure53.de/purify",
-      "summary": "<p>Article URL: <a href=\"https://cure53.de/purify\">https://cure53.de/purify</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46325143\">https://news.ycombinator.com/item?id=463251...",
-      "published": "2025-12-19T12:36:25+00:00",
-      "domain": "cure53.de",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Vector Search for the Bible",
-      "link": "https://searchyah.app/",
-      "summary": "<p>Article URL: <a href=\"https://searchyah.app/\">https://searchyah.app/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46325142\">https://news.ycombinator.com/item?id=46325142</...",
-      "published": "2025-12-19T12:36:21+00:00",
-      "domain": "searchyah.app",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Anthropic\u2019s AI vending machine turns communist and gives everything for free",
-      "link": "https://www.reddit.com/r/technology/comments/1pqiz9x/anthropics_ai_vending_machine_turns_communist_and/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1pqiz9x/anthropics_ai_vending_machine_turns_communist_and/\"> <img alt=\"Anthropic\u2019s AI vending machine turns communist and gives e...",
-      "published": "2025-12-19T11:38:15+00:00",
+      "title": "TikTok Deal Done And It\u2019s Somehow The Shittiest Possible Outcome, Making Everything Worse",
+      "link": "https://www.reddit.com/r/technology/comments/1pqpfll/tiktok_deal_done_and_its_somehow_the_shittiest/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1pqpfll/tiktok_deal_done_and_its_somehow_the_shittiest/\"> <img alt=\"TikTok Deal Done And It\u2019s Somehow The Shittiest Possible Outc...",
+      "published": "2025-12-19T16:28:08+00:00",
       "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
@@ -469,11 +453,27 @@
       }
     },
     {
-      "title": "Show HN: I open-sourced my Go and Next B2B SaaS Starter (deploy anywhere, MIT)",
-      "link": "https://github.com/moasq/production-saas-starter",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=46324665\">Comments</a>...",
-      "published": "2025-12-19T11:34:11+00:00",
-      "domain": "github.com",
+      "title": "Cursor Acquires Graphite",
+      "link": "https://graphite.com/blog/graphite-joins-cursor",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46327325\">Comments</a>...",
+      "published": "2025-12-19T16:07:42+00:00",
+      "domain": "graphite.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "40 of our most helpful AI tips from 2025",
+      "link": "https://blog.google/technology/ai/ai-tips-2025/",
+      "summary": "The image is a dark-themed illustration depicting three people interacting with technology, surrounded by various product icons....",
+      "published": "2025-12-19T16:00:00+00:00",
+      "domain": "blog.google",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -487,6 +487,102 @@
   ],
   "all_articles": [
     {
+      "title": "Cracked Software and YouTube Videos Spread CountLoader and GachiLoader Malware",
+      "link": "https://thehackernews.com/2025/12/cracked-software-and-youtube-videos.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new campaign that has used cracked software distribution sites as a distribution vector for a new version of a modular and stealthy loader known a...",
+      "published": "2025-12-19T21:04:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "We asked four AI coding agents to rebuild Minesweeper",
+      "link": "https://arstechnica.com/ai/2025/12/the-ars-technica-ai-coding-agent-test-minesweeper-edition/",
+      "summary": "<p>Article URL: <a href=\"https://arstechnica.com/ai/2025/12/the-ars-technica-ai-coding-agent-test-minesweeper-edition/\">https://arstechnica.com/ai/2025/12/the-ars-technica-ai-coding-agent-test-mineswe...",
+      "published": "2025-12-19T18:22:21+00:00",
+      "domain": "arstechnica.com",
+      "scores": {
+        "chaos": 18.0,
+        "anarchy": 12.0,
+        "overall": 15.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Implementing a Sharia Chatbot as a Consultation Medium for Questions About Islam",
+      "link": "https://arxiv.org/abs/2512.16644",
+      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2512.16644\">https://arxiv.org/abs/2512.16644</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46329065\">https://news.ycombinator.co...",
+      "published": "2025-12-19T18:21:04+00:00",
+      "domain": "arxiv.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "OpenZFS 2.4 Released with Faster Encryption Performance, Many Other Improvements",
+      "link": "https://www.phoronix.com/news/OpenZFS-2.4-Released",
+      "summary": "<p>Article URL: <a href=\"https://www.phoronix.com/news/OpenZFS-2.4-Released\">https://www.phoronix.com/news/OpenZFS-2.4-Released</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4...",
+      "published": "2025-12-19T18:20:50+00:00",
+      "domain": "phoronix.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Open-Source Browser Use LLM (30B, A3B)",
+      "link": "https://huggingface.co/browser-use/bu-30b-a3b-preview",
+      "summary": "<p>Our first model brings SoTA Browser Use capabilities in a small and fast model that can be hosted on a single GPU. It\u2019s much much faster than anything out there and around 15x cheaper than Sonnet 4...",
+      "published": "2025-12-19T18:20:30+00:00",
+      "domain": "huggingface.co",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Revealed: How Toyota uses retro-style games and prizes to motivate workers",
+      "link": "https://www.theguardian.com/us-news/2025/dec/19/toyota-employee-lobbying",
+      "summary": "<p>Article URL: <a href=\"https://www.theguardian.com/us-news/2025/dec/19/toyota-employee-lobbying\">https://www.theguardian.com/us-news/2025/dec/19/toyota-employee-lobbying</a></p>\n<p>Comments URL: <a ...",
+      "published": "2025-12-19T18:19:54+00:00",
+      "domain": "theguardian.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "WatchGuard Warns of Active Exploitation of Critical Fireware OS VPN Vulnerability",
       "link": "https://thehackernews.com/2025/12/watchguard-warns-of-active-exploitation.html",
       "summary": "WatchGuard has released fixes to address a critical security flaw in Fireware OS that it said has been exploited in real-world attacks.\nTracked as CVE-2025-14733 (CVSS score: 9.3), the vulnerability h...",
@@ -503,122 +599,10 @@
       }
     },
     {
-      "title": "Nigeria Arrests RaccoonO365 Phishing Developer Linked to Microsoft 365 Attacks",
-      "link": "https://thehackernews.com/2025/12/nigeria-arrests-raccoono365-phishing.html",
-      "summary": "Authorities in Nigeria have announced the arrest of three \"high-profile internet fraud suspects\" who are alleged to have been involved in phishing attacks targeting major corporations, including the m...",
-      "published": "2025-12-19T15:56:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "New UEFI Flaw Enables Early-Boot DMA Attacks on ASRock, ASUS, GIGABYTE, MSI Motherboards",
-      "link": "https://thehackernews.com/2025/12/new-uefi-flaw-enables-early-boot-dma.html",
-      "summary": "Certain motherboard models from vendors like ASRock, ASUSTeK Computer, GIGABYTE, and MSI are affected by a security vulnerability that leaves them susceptible to early-boot direct memory access (DMA) ...",
-      "published": "2025-12-19T13:55:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Always-on processor magic: how \"Find My\" works while iPhone is powered off",
-      "link": "https://naehrdine.blogspot.com/2021/09/always-on-processor-magic-how-find-my.html",
-      "summary": "<p>Article URL: <a href=\"https://naehrdine.blogspot.com/2021/09/always-on-processor-magic-how-find-my.html\">https://naehrdine.blogspot.com/2021/09/always-on-processor-magic-how-find-my.html</a></p>\n<p...",
-      "published": "2025-12-19T12:42:02+00:00",
-      "domain": "naehrdine.blogspot.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "EscapeBench: Towards Advancing Creative Intelligence Of Language Model Agents",
-      "link": "https://aclanthology.org/2025.acl-long.39/",
-      "summary": "<p>Article URL: <a href=\"https://aclanthology.org/2025.acl-long.39/\">https://aclanthology.org/2025.acl-long.39/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46325172\">https:/...",
-      "published": "2025-12-19T12:39:52+00:00",
-      "domain": "aclanthology.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "US government sues US Virgin Islands & accuses officials of violating 2nd Amend.",
-      "link": "https://apnews.com/article/usvi-us-government-trump-second-amendment-guns-45189a8a28da66b1307f4da4493d2270",
-      "summary": "<p>Article URL: <a href=\"https://apnews.com/article/usvi-us-government-trump-second-amendment-guns-45189a8a28da66b1307f4da4493d2270\">https://apnews.com/article/usvi-us-government-trump-second-amendmen...",
-      "published": "2025-12-19T12:38:00+00:00",
-      "domain": "apnews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "DOMPurify, DOM-only, fast, Uber-tolerant XSS sanitizer for HTML, SVG and MathML",
-      "link": "https://cure53.de/purify",
-      "summary": "<p>Article URL: <a href=\"https://cure53.de/purify\">https://cure53.de/purify</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46325143\">https://news.ycombinator.com/item?id=463251...",
-      "published": "2025-12-19T12:36:25+00:00",
-      "domain": "cure53.de",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Vector Search for the Bible",
-      "link": "https://searchyah.app/",
-      "summary": "<p>Article URL: <a href=\"https://searchyah.app/\">https://searchyah.app/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46325142\">https://news.ycombinator.com/item?id=46325142</...",
-      "published": "2025-12-19T12:36:21+00:00",
-      "domain": "searchyah.app",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Anthropic\u2019s AI vending machine turns communist and gives everything for free",
-      "link": "https://www.reddit.com/r/technology/comments/1pqiz9x/anthropics_ai_vending_machine_turns_communist_and/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1pqiz9x/anthropics_ai_vending_machine_turns_communist_and/\"> <img alt=\"Anthropic\u2019s AI vending machine turns communist and gives e...",
-      "published": "2025-12-19T11:38:15+00:00",
+      "title": "TikTok Deal Done And It\u2019s Somehow The Shittiest Possible Outcome, Making Everything Worse",
+      "link": "https://www.reddit.com/r/technology/comments/1pqpfll/tiktok_deal_done_and_its_somehow_the_shittiest/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1pqpfll/tiktok_deal_done_and_its_somehow_the_shittiest/\"> <img alt=\"TikTok Deal Done And It\u2019s Somehow The Shittiest Possible Outc...",
+      "published": "2025-12-19T16:28:08+00:00",
       "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
@@ -631,11 +615,27 @@
       }
     },
     {
-      "title": "Show HN: I open-sourced my Go and Next B2B SaaS Starter (deploy anywhere, MIT)",
-      "link": "https://github.com/moasq/production-saas-starter",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=46324665\">Comments</a>...",
-      "published": "2025-12-19T11:34:11+00:00",
-      "domain": "github.com",
+      "title": "Cursor Acquires Graphite",
+      "link": "https://graphite.com/blog/graphite-joins-cursor",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46327325\">Comments</a>...",
+      "published": "2025-12-19T16:07:42+00:00",
+      "domain": "graphite.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "40 of our most helpful AI tips from 2025",
+      "link": "https://blog.google/technology/ai/ai-tips-2025/",
+      "summary": "The image is a dark-themed illustration depicting three people interacting with technology, surrounded by various product icons....",
+      "published": "2025-12-19T16:00:00+00:00",
+      "domain": "blog.google",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
