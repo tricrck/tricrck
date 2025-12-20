@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Privacy doesn't mean anything anymore, anonymity does
+### Amazon pulls error-filled 'Fallout' AI video recaps from Prime Video
 - **Published**: December 20, 2025
-- **Summary**: https://servury.com/blog/privacy-is-marketing-anonymity-is-architecture/</a></p>
-<p>Comments URL: <a ......
-- [Read more](https://servury.com/blog/privacy-is-marketing-anonymity-is-architecture/)
+- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1pr9q1c/amazon_pulls_errorfilled_fallout_ai_video_recaps/"> <img alt="Amazon pulls error-fi...
+- **Keywords**: error, error
+- [Read more](https://www.reddit.com/r/technology/comments/1pr9q1c/amazon_pulls_errorfilled_fallout_ai_video_recaps/)
 
-### Gaza Strip: Famine conditions offset, but situation remains critical
+### Russias Next Space Station
 - **Published**: December 20, 2025
-- **Summary**: https://www.ipcinfo.org/ipcinfo-website/countries-in-focus-archive/issue-142/en/</a></p>
-<p>C......
-- [Read more](https://www.ipcinfo.org/ipcinfo-website/countries-in-focus-archive/issue-142/en/)
+- **Summary**: https://arstechnica.com/space/2025/12/russia-is-about-to-d......
+- [Read more](https://arstechnica.com/space/2025/12/russia-is-about-to-do-the-most-russia-thing-ever-with-its-next-space-station/)
 
 ---
 
