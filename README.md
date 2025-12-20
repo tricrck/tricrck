@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Amazon pulls error-filled 'Fallout' AI video recaps from Prime Video
+### U.S. DOJ Charges 54 in ATM Jackpotting Scheme Using Ploutus Malware
 - **Published**: December 20, 2025
-- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1pr9q1c/amazon_pulls_errorfilled_fallout_ai_video_recaps/"> <img alt="Amazon pulls error-fi...
-- **Keywords**: error, error
-- [Read more](https://www.reddit.com/r/technology/comments/1pr9q1c/amazon_pulls_errorfilled_fallout_ai_video_recaps/)
+- **Summary**: The U.S. Department of Justice (DoJ) this week announced the indictment of 54 individuals in connection with a multi-million dollar ATM jackpotting sc...
+- [Read more](https://thehackernews.com/2025/12/us-doj-charges-54-in-atm-jackpotting.html)
 
-### Russias Next Space Station
+### Windows MIDI Services
 - **Published**: December 20, 2025
-- **Summary**: https://arstechnica.com/space/2025/12/russia-is-about-to-d......
-- [Read more](https://arstechnica.com/space/2025/12/russia-is-about-to-do-the-most-russia-thing-ever-with-its-next-space-station/)
+- **Summary**: https://microsoft.github.io/MIDI/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46338315">https://news.ycombinator.......
+- [Read more](https://microsoft.github.io/MIDI/)
 
 ---
 
