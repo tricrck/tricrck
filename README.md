@@ -16,15 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### We asked four AI coding agents to rebuild Minesweeper
-- **Published**: December 19, 2025
-- **Summary**: https://arstechnica.com/ai/2025/12/the-ars-technica-ai-coding-agent-test-mineswe......
-- [Read more](https://arstechnica.com/ai/2025/12/the-ars-technica-ai-coding-agent-test-minesweeper-edition/)
+### TikTok says Chinese owner will retain core US business
+- **Published**: December 20, 2025
+- **Summary**: https://www.ft.com/content/7a778d46-8bf8-4b11-af4e-5e5bd891cb9d</a></p>
+<p>Comments URL: <a href="https://news......
+- [Read more](https://www.ft.com/content/7a778d46-8bf8-4b11-af4e-5e5bd891cb9d)
 
-### Cracked Software and YouTube Videos Spread CountLoader and GachiLoader Malware
-- **Published**: December 19, 2025
-- **Summary**: Cybersecurity researchers have disclosed details of a new campaign that has used cracked software distribution sites as a distribution vector for a ne...
-- [Read more](https://thehackernews.com/2025/12/cracked-software-and-youtube-videos.html)
+### O-Day, 0-Click in iOS
+- **Published**: December 20, 2025
+- **Summary**: https://github.com/JGoyd/iOS-Attack-Chain-CVE-2025-31200-CVE-2025-31201</a></p>
+<p>Comments URL: <a hr......
+- [Read more](https://github.com/JGoyd/iOS-Attack-Chain-CVE-2025-31200-CVE-2025-31201)
 
 ---
 
