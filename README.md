@@ -16,17 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### TikTok says Chinese owner will retain core US business
+### Privacy doesn't mean anything anymore, anonymity does
 - **Published**: December 20, 2025
-- **Summary**: https://www.ft.com/content/7a778d46-8bf8-4b11-af4e-5e5bd891cb9d</a></p>
-<p>Comments URL: <a href="https://news......
-- [Read more](https://www.ft.com/content/7a778d46-8bf8-4b11-af4e-5e5bd891cb9d)
+- **Summary**: https://servury.com/blog/privacy-is-marketing-anonymity-is-architecture/</a></p>
+<p>Comments URL: <a ......
+- [Read more](https://servury.com/blog/privacy-is-marketing-anonymity-is-architecture/)
 
-### O-Day, 0-Click in iOS
+### Gaza Strip: Famine conditions offset, but situation remains critical
 - **Published**: December 20, 2025
-- **Summary**: https://github.com/JGoyd/iOS-Attack-Chain-CVE-2025-31200-CVE-2025-31201</a></p>
-<p>Comments URL: <a hr......
-- [Read more](https://github.com/JGoyd/iOS-Attack-Chain-CVE-2025-31200-CVE-2025-31201)
+- **Summary**: https://www.ipcinfo.org/ipcinfo-website/countries-in-focus-archive/issue-142/en/</a></p>
+<p>C......
+- [Read more](https://www.ipcinfo.org/ipcinfo-website/countries-in-focus-archive/issue-142/en/)
 
 ---
 
