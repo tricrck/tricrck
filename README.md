@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Iranian Infy APT Resurfaces with New Malware Activity After Years of Silence
+### Luke Howard's Essay on the Modification of Clouds (1865)
 - **Published**: December 21, 2025
-- **Summary**: Threat hunters have discerned new activity associated with an Iranian threat actor known as Infy (aka Prince of Persia), nearly five years after the h...
-- [Read more](https://thehackernews.com/2025/12/iranian-infy-apt-resurfaces-with-new.html)
+- **Summary**: https://publicdomainreview.org/collection/essay-on-the-modification-of-clouds/</a></p>
+<p>Comme......
+- [Read more](https://publicdomainreview.org/collection/essay-on-the-modification-of-clouds/)
 
-### Show HN: QoolTV – a lean, independent AVOD internet TV experiment
+### Google's Boomerang Year: 20% of 2025 AI Engineers Were Former Employees
 - **Published**: December 21, 2025
-- **Summary**: <p>Hi HN,
-I’m building QoolTV, an independent, ad-supported internet TV channel focused on short-form, extreme, bizarre, and offbeat video content — t...
-- [Read more](https://Qooltv.com)
+- **Summary**: https://www.cnbc.com/2025/12/19/google-boomerang-year-20percent-......
+- [Read more](https://www.cnbc.com/2025/12/19/google-boomerang-year-20percent-ai-software-devs-hired-2025-ex-employees.html)
 
 ---
 
