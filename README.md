@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### U.S. DOJ Charges 54 in ATM Jackpotting Scheme Using Ploutus Malware
-- **Published**: December 20, 2025
-- **Summary**: The U.S. Department of Justice (DoJ) this week announced the indictment of 54 individuals in connection with a multi-million dollar ATM jackpotting sc...
-- [Read more](https://thehackernews.com/2025/12/us-doj-charges-54-in-atm-jackpotting.html)
+### Show HN: ArkhamMirror – CIA's Analysis of Competing Hypotheses, Runs in Browser
+- **Published**: December 21, 2025
+- **Summary**: <p>After adding a fully guided, AI-assisted Analysis of Competing Hypotheses (ACH) feature to ArkhamMirror, my privacy-first open-source Investigative...
+- [Read more](https://mantisfury.github.io/ArkhamMirror/ach/)
 
-### Windows MIDI Services
-- **Published**: December 20, 2025
-- **Summary**: https://microsoft.github.io/MIDI/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46338315">https://news.ycombinator.......
-- [Read more](https://microsoft.github.io/MIDI/)
+### Configure Your Repositories with .github
+- **Published**: December 21, 2025
+- **Summary**: https://cassidoo.co/post/dot-github/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46341491">https://news.ycombi......
+- [Read more](https://cassidoo.co/post/dot-github/)
 
 ---
 
