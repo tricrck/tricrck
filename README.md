@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Show HN: ArkhamMirror – CIA's Analysis of Competing Hypotheses, Runs in Browser
+### Iranian Infy APT Resurfaces with New Malware Activity After Years of Silence
 - **Published**: December 21, 2025
-- **Summary**: <p>After adding a fully guided, AI-assisted Analysis of Competing Hypotheses (ACH) feature to ArkhamMirror, my privacy-first open-source Investigative...
-- [Read more](https://mantisfury.github.io/ArkhamMirror/ach/)
+- **Summary**: Threat hunters have discerned new activity associated with an Iranian threat actor known as Infy (aka Prince of Persia), nearly five years after the h...
+- [Read more](https://thehackernews.com/2025/12/iranian-infy-apt-resurfaces-with-new.html)
 
-### Configure Your Repositories with .github
+### Show HN: QoolTV – a lean, independent AVOD internet TV experiment
 - **Published**: December 21, 2025
-- **Summary**: https://cassidoo.co/post/dot-github/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46341491">https://news.ycombi......
-- [Read more](https://cassidoo.co/post/dot-github/)
+- **Summary**: <p>Hi HN,
+I’m building QoolTV, an independent, ad-supported internet TV channel focused on short-form, extreme, bizarre, and offbeat video content — t...
+- [Read more](https://Qooltv.com)
 
 ---
 
