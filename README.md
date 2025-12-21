@@ -16,16 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Luke Howard's Essay on the Modification of Clouds (1865)
+### ARIN Public Incident Report – 4.10 Misissuance Error
 - **Published**: December 21, 2025
-- **Summary**: https://publicdomainreview.org/collection/essay-on-the-modification-of-clouds/</a></p>
-<p>Comme......
-- [Read more](https://publicdomainreview.org/collection/essay-on-the-modification-of-clouds/)
+- **Summary**: ......
+- **Keywords**: error
+- [Read more](https://www.arin.net/announcements/20251212/)
 
-### Google's Boomerang Year: 20% of 2025 AI Engineers Were Former Employees
+### Waymo temporarily suspends service in SF amid power outage
 - **Published**: December 21, 2025
-- **Summary**: https://www.cnbc.com/2025/12/19/google-boomerang-year-20percent-......
-- [Read more](https://www.cnbc.com/2025/12/19/google-boomerang-year-20percent-ai-software-devs-hired-2025-ex-employees.html)
+- **Summary**: https://www.sfgate.com/bayarea/article/waymo-temporarily-suspends-service......
+- **Keywords**: outage
+- [Read more](https://www.sfgate.com/bayarea/article/waymo-temporarily-suspends-service-sf-amid-power-21254917.php)
 
 ---
 
