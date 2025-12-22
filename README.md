@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### ⚡ Weekly Recap: Firewall Exploits, AI Data Theft, Android Hacks, APT Attacks, Insider Leaks & More
+### Fake WhatsApp API Package on npm Steals Messages, Contacts, and Login Tokens
 - **Published**: December 22, 2025
-- **Summary**: Cyber threats last week showed how attackers no longer need big hacks to cause big damage. They’re going after the everyday tools we trust most — fire...
-- [Read more](https://thehackernews.com/2025/12/weekly-recap-firewall-exploits-ai-data.html)
+- **Summary**: Cybersecurity researchers have disclosed details of a new malicious package on the npm repository that works as a fully functional WhatsApp API, but a...
+- [Read more](https://thehackernews.com/2025/12/fake-whatsapp-api-package-on-npm-steals.html)
 
-### How to Browse the Web More Sustainably With a Green Browser
+### Freshwater and hydrogen generation using ion concentration polarization
 - **Published**: December 22, 2025
-- **Summary**: As the internet becomes an essential part of daily life, its environmental footprint continues to grow.&nbsp;
-Data centers, constant connectivity, and...
-- [Read more](https://thehackernews.com/2025/12/how-to-browse-sustainably-with-a-green-browser.html)
+- **Summary**: https://www.nature.com/articles/s43246-025-01001-z</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4......
+- [Read more](https://www.nature.com/articles/s43246-025-01001-z)
 
 ---
 
