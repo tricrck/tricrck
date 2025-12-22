@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Bedlam Cube Solved (ALL 19,186 solutions)
+### Android Malware Operations Merge Droppers, SMS Theft, and RAT Capabilities at Scale
 - **Published**: December 22, 2025
-- **Summary**: http://scottkurowski.com/BedlamCube/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46350510">https://news.ycombi......
-- [Read more](http://scottkurowski.com/BedlamCube/)
+- **Summary**: Threat actors have been observed leveraging malicious dropper apps masquerading as legitimate applications to deliver an Android SMS stealer dubbed Wo...
+- [Read more](https://thehackernews.com/2025/12/android-malware-operations-merge.html)
 
-### Google wants to study your online habits; what it wants to track
+### Claude Code added LSP tool for code intelligence features
 - **Published**: December 22, 2025
-- **Summary**: https://www.boston25news.com/news/local/google-w......
-- [Read more](https://www.boston25news.com/news/local/google-wants-study-your-online-habits-what-it-wants-track/AGSNUXVGKZAA3GM3EEUE4XQMLI/)
+- **Summary**: https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md</a></p>
+<p>Comments URL: <a href="https://ne......
+- [Read more](https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md)
 
 ---
 
