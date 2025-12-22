@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### ARIN Public Incident Report – 4.10 Misissuance Error
-- **Published**: December 21, 2025
-- **Summary**: ......
-- **Keywords**: error
-- [Read more](https://www.arin.net/announcements/20251212/)
+### Bedlam Cube Solved (ALL 19,186 solutions)
+- **Published**: December 22, 2025
+- **Summary**: http://scottkurowski.com/BedlamCube/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46350510">https://news.ycombi......
+- [Read more](http://scottkurowski.com/BedlamCube/)
 
-### Waymo temporarily suspends service in SF amid power outage
-- **Published**: December 21, 2025
-- **Summary**: https://www.sfgate.com/bayarea/article/waymo-temporarily-suspends-service......
-- **Keywords**: outage
-- [Read more](https://www.sfgate.com/bayarea/article/waymo-temporarily-suspends-service-sf-amid-power-21254917.php)
+### Google wants to study your online habits; what it wants to track
+- **Published**: December 22, 2025
+- **Summary**: https://www.boston25news.com/news/local/google-w......
+- [Read more](https://www.boston25news.com/news/local/google-wants-study-your-online-habits-what-it-wants-track/AGSNUXVGKZAA3GM3EEUE4XQMLI/)
 
 ---
 
