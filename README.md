@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Android Malware Operations Merge Droppers, SMS Theft, and RAT Capabilities at Scale
+### ⚡ Weekly Recap: Firewall Exploits, AI Data Theft, Android Hacks, APT Attacks, Insider Leaks & More
 - **Published**: December 22, 2025
-- **Summary**: Threat actors have been observed leveraging malicious dropper apps masquerading as legitimate applications to deliver an Android SMS stealer dubbed Wo...
-- [Read more](https://thehackernews.com/2025/12/android-malware-operations-merge.html)
+- **Summary**: Cyber threats last week showed how attackers no longer need big hacks to cause big damage. They’re going after the everyday tools we trust most — fire...
+- [Read more](https://thehackernews.com/2025/12/weekly-recap-firewall-exploits-ai-data.html)
 
-### Claude Code added LSP tool for code intelligence features
+### How to Browse the Web More Sustainably With a Green Browser
 - **Published**: December 22, 2025
-- **Summary**: https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md</a></p>
-<p>Comments URL: <a href="https://ne......
-- [Read more](https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md)
+- **Summary**: As the internet becomes an essential part of daily life, its environmental footprint continues to grow.&nbsp;
+Data centers, constant connectivity, and...
+- [Read more](https://thehackernews.com/2025/12/how-to-browse-sustainably-with-a-green-browser.html)
 
 ---
 
