@@ -16,16 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Show HN: Luxury Yacht, a Kubernetes management app
+### A Golang malformed HTTP POST mystery
 - **Published**: December 23, 2025
-- **Summary**: <p>Hello, all. Luxury Yacht is a desktop app for managing Kubernetes clusters that I've been working on for the past few months. It's available for ma...
-- [Read more](https://github.com/luxury-yacht/app)
+- **Summary**: https://deliveroo.engineering/2019/02/22/go-down-the-rabbit-hole.html</a></p>
+<p>Comments URL: <a href="......
+- **Keywords**: down, down
+- [Read more](https://deliveroo.engineering/2019/02/22/go-down-the-rabbit-hole.html)
 
-### FDA approves first GLP-1 weight loss pill
+### INTERPOL Arrests 574 in Africa; Ukrainian Ransomware Affiliate Pleads Guilty
 - **Published**: December 23, 2025
-- **Summary**: https://www.novonordisk.com/news-and-media/news-and-ir-materials/news-details.html</a></p>
-......
-- [Read more](https://www.novonordisk.com/news-and-media/news-and-ir-materials/news-details.html)
+- **Summary**: A law enforcement operation coordinated by INTERPOL has led to the recovery of $3 million and the arrest of 574 suspects by authorities from 19 countr...
+- [Read more](https://thehackernews.com/2025/12/interpol-arrests-574-in-africa.html)
 
 ---
 
