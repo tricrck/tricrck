@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### In stock on Framework Desktop and updates on the industry-wide silicon crunch
+### Show HN: Luxury Yacht, a Kubernetes management app
 - **Published**: December 23, 2025
-- **Summary**: https://community.frame.work/t/in-stock-on-framework-deskto......
-- [Read more](https://community.frame.work/t/in-stock-on-framework-desktop-and-updates-on-the-industry-wide-silicon-crunch/79104)
+- **Summary**: <p>Hello, all. Luxury Yacht is a desktop app for managing Kubernetes clusters that I've been working on for the past few months. It's available for ma...
+- [Read more](https://github.com/luxury-yacht/app)
 
-### Data 2025: The year in review with Mike Stonebraker and Andy Pavlo
+### FDA approves first GLP-1 weight loss pill
 - **Published**: December 23, 2025
-- **Summary**: https://www.dbos.dev/webcast-2025-in-review-with-mike-stonebraker-and-andy-pavlo</a></p>
-<p>C......
-- [Read more](https://www.dbos.dev/webcast-2025-in-review-with-mike-stonebraker-and-andy-pavlo)
+- **Summary**: https://www.novonordisk.com/news-and-media/news-and-ir-materials/news-details.html</a></p>
+......
+- [Read more](https://www.novonordisk.com/news-and-media/news-and-ir-materials/news-details.html)
 
 ---
 
