@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Fake WhatsApp API Package on npm Steals Messages, Contacts, and Login Tokens
-- **Published**: December 22, 2025
-- **Summary**: Cybersecurity researchers have disclosed details of a new malicious package on the npm repository that works as a fully functional WhatsApp API, but a...
-- [Read more](https://thehackernews.com/2025/12/fake-whatsapp-api-package-on-npm-steals.html)
+### In stock on Framework Desktop and updates on the industry-wide silicon crunch
+- **Published**: December 23, 2025
+- **Summary**: https://community.frame.work/t/in-stock-on-framework-deskto......
+- [Read more](https://community.frame.work/t/in-stock-on-framework-desktop-and-updates-on-the-industry-wide-silicon-crunch/79104)
 
-### Freshwater and hydrogen generation using ion concentration polarization
-- **Published**: December 22, 2025
-- **Summary**: https://www.nature.com/articles/s43246-025-01001-z</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4......
-- [Read more](https://www.nature.com/articles/s43246-025-01001-z)
+### Data 2025: The year in review with Mike Stonebraker and Andy Pavlo
+- **Published**: December 23, 2025
+- **Summary**: https://www.dbos.dev/webcast-2025-in-review-with-mike-stonebraker-and-andy-pavlo</a></p>
+<p>C......
+- [Read more](https://www.dbos.dev/webcast-2025-in-review-with-mike-stonebraker-and-andy-pavlo)
 
 ---
 
