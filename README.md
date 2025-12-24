@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### We asked four AI coding agents to rebuild Minesweeper–the results were explosive
+### New MacSync macOS Stealer Uses Signed App to Bypass Apple Gatekeeper
 - **Published**: December 24, 2025
-- **Summary**: https://arstechnica.com/ai/2025/12/the-ars-technica-ai-coding-agent-test-mineswe......
-- [Read more](https://arstechnica.com/ai/2025/12/the-ars-technica-ai-coding-agent-test-minesweeper-edition/)
+- **Summary**: Cybersecurity researchers have discovered a new variant of a macOS information stealer called MacSync that's delivered by means of a digitally signed,...
+- [Read more](https://thehackernews.com/2025/12/new-macsync-macos-stealer-uses-signed.html)
 
-### Attacks are Evolving: 3 Ways to Protect Your Business in 2026
+### Nomani Investment Scam Surges 62% Using AI Deepfake Ads on Social Media
 - **Published**: December 24, 2025
-- **Summary**: Every year, cybercriminals find new ways to steal money and data from businesses. Breaching a business network, extracting sensitive data, and selling...
-- [Read more](https://thehackernews.com/2025/12/attacks-are-evolving-3-ways-to-protect.html)
+- **Summary**: The fraudulent investment scheme known as Nomani has witnessed an increase by 62%, according to data from ESET, as campaigns distributing the threat h...
+- [Read more](https://thehackernews.com/2025/12/nomani-investment-scam-surges-62-using.html)
 
 ---
 
