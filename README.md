@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### How Uganda's Digital Number Plates Became Spy Tools
+### We asked four AI coding agents to rebuild Minesweeper–the results were explosive
 - **Published**: December 24, 2025
-- **Summary**: https://pulitzercenter.org/stories/analysis-how-ugandas-digital-number-plates-b......
-- [Read more](https://pulitzercenter.org/stories/analysis-how-ugandas-digital-number-plates-became-spy-tools)
+- **Summary**: https://arstechnica.com/ai/2025/12/the-ars-technica-ai-coding-agent-test-mineswe......
+- [Read more](https://arstechnica.com/ai/2025/12/the-ars-technica-ai-coding-agent-test-minesweeper-edition/)
 
-### Lynkr: Self-hosted Claude Code proxy
+### Attacks are Evolving: 3 Ways to Protect Your Business in 2026
 - **Published**: December 24, 2025
-- **Summary**: https://github.com/Fast-Editor/Lynkr</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46373033">https://news.ycombi......
-- [Read more](https://github.com/Fast-Editor/Lynkr)
+- **Summary**: Every year, cybercriminals find new ways to steal money and data from businesses. Breaching a business network, extracting sensitive data, and selling...
+- [Read more](https://thehackernews.com/2025/12/attacks-are-evolving-3-ways-to-protect.html)
 
 ---
 
