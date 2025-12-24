@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Show HN: Ragctl – document ingestion CLI for RAG (OCR, chunking, Qdrant)
+### How Uganda's Digital Number Plates Became Spy Tools
 - **Published**: December 24, 2025
-- **Summary**: <p>Hi HN — sharing ragctl, an open-source CLI for the most failure-prone part of RAG pipelines: document ingestion, OCR, parsing/cleaning, and chunkin...
-- **Keywords**: failure
-- [Read more](https://github.com/datallmhub/ragstudio)
+- **Summary**: https://pulitzercenter.org/stories/analysis-how-ugandas-digital-number-plates-b......
+- [Read more](https://pulitzercenter.org/stories/analysis-how-ugandas-digital-number-plates-became-spy-tools)
 
-### Researchers are getting organoids pregnant with human embryos
+### Lynkr: Self-hosted Claude Code proxy
 - **Published**: December 24, 2025
-- **Summary**: https://www.technologyreview.com/2025/12/23/1130415/organoid-uterus-microfluidic......
-- [Read more](https://www.technologyreview.com/2025/12/23/1130415/organoid-uterus-microfluidic-chip-embryo/)
+- **Summary**: https://github.com/Fast-Editor/Lynkr</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46373033">https://news.ycombi......
+- [Read more](https://github.com/Fast-Editor/Lynkr)
 
 ---
 
