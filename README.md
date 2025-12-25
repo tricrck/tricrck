@@ -16,15 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### New MacSync macOS Stealer Uses Signed App to Bypass Apple Gatekeeper
-- **Published**: December 24, 2025
-- **Summary**: Cybersecurity researchers have discovered a new variant of a macOS information stealer called MacSync that's delivered by means of a digitally signed,...
-- [Read more](https://thehackernews.com/2025/12/new-macsync-macos-stealer-uses-signed.html)
+### Linus - kernel copyright licence covers software, does not extend to hardware
+- **Published**: December 25, 2025
+- **Summary**: https://social.kernel.org/notice/B1aR6QFuzksLVSyBZQ</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id......
+- [Read more](https://social.kernel.org/notice/B1aR6QFuzksLVSyBZQ)
 
-### Nomani Investment Scam Surges 62% Using AI Deepfake Ads on Social Media
-- **Published**: December 24, 2025
-- **Summary**: The fraudulent investment scheme known as Nomani has witnessed an increase by 62%, according to data from ESET, as campaigns distributing the threat h...
-- [Read more](https://thehackernews.com/2025/12/nomani-investment-scam-surges-62-using.html)
+### Motor powers prototype in-wheel electric powertrain system
+- **Published**: December 25, 2025
+- **Summary**: https://www.electrichybridvehicletechnolo......
+- [Read more](https://www.electrichybridvehicletechnology.com/news/record-breaking-motor-powers-prototype-in-wheel-electric-powertrain-system.html)
 
 ---
 
