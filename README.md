@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### LimeWire re-emerges in online rush to share pulled "60 Minutes" segment
+### ThreatsDay Bulletin: Stealth Loaders, AI Chatbot Flaws AI Exploits, Docker Hack, and 15 More Stories
 - **Published**: December 25, 2025
-- **Summary**: https://arstechnica.com/tech-policy/2025/12/yo-what......
-- [Read more](https://arstechnica.com/tech-policy/2025/12/yo-what-limewire-re-emerges-in-online-rush-to-share-pulled-60-minutes-segment/)
+- **Summary**: It’s getting harder to tell where normal tech ends and malicious intent begins. Attackers are no longer just breaking in — they’re blending in, hijack...
+- [Read more](https://thehackernews.com/2025/12/threatsday-bulletin-stealth-loaders-ai.html)
 
-### Fortinet Warns of Active Exploitation of FortiOS SSL VPN 2FA Bypass Vulnerability
+### Ask HN: Dentistry, Software Engineering and Health Informatics
 - **Published**: December 25, 2025
-- **Summary**: Fortinet on Wednesday said it observed "recent abuse" of a five-year-old security flaw in FortiOS SSL VPN in the wild under certain configurations.
-Th...
-- [Read more](https://thehackernews.com/2025/12/fortinet-warns-of-active-exploitation.html)
+- **Summary**: <p>I graduated from dental school, I never wanted to study dentistry but that's a story for another time, I studied web development for sometime, look...
+- [Read more](https://news.ycombinator.com/item?id=46386148)
 
 ---
 
