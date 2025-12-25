@@ -16,16 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Linus - kernel copyright licence covers software, does not extend to hardware
+### Show HN: URL Shortener Jo4.io
 - **Published**: December 25, 2025
-- **Summary**: https://social.kernel.org/notice/B1aR6QFuzksLVSyBZQ</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id......
-- [Read more](https://social.kernel.org/notice/B1aR6QFuzksLVSyBZQ)
+- **Summary**: https://jo4.io/a/hackernews</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46382563">https://news.ycombinator.com/item?id=......
+- [Read more](https://jo4.io/a/hackernews)
 
-### Motor powers prototype in-wheel electric powertrain system
+### Show HN: NpgsqlRest Automatic PostgreSQL Web Server
 - **Published**: December 25, 2025
-- **Summary**: https://www.electrichybridvehicletechnolo......
-- [Read more](https://www.electrichybridvehicletechnology.com/news/record-breaking-motor-powers-prototype-in-wheel-electric-powertrain-system.html)
+- **Summary**: https://npgsqlrest.github.io/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46382554">https://news.ycombinator.com/item......
+- [Read more](https://npgsqlrest.github.io/)
 
 ---
 
