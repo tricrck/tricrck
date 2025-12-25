@@ -1,11 +1,27 @@
 {
   "chaos_ranked": [
     {
-      "title": "Show HN: URL Shortener Jo4.io",
-      "link": "https://jo4.io/a/hackernews",
-      "summary": "<p>Article URL: <a href=\"https://jo4.io/a/hackernews\">https://jo4.io/a/hackernews</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46382563\">https://news.ycombinator.com/item?id=...",
-      "published": "2025-12-25T06:23:28+00:00",
-      "domain": "jo4.io",
+      "title": "LimeWire re-emerges in online rush to share pulled \"60 Minutes\" segment",
+      "link": "https://arstechnica.com/tech-policy/2025/12/yo-what-limewire-re-emerges-in-online-rush-to-share-pulled-60-minutes-segment/",
+      "summary": "<p>Article URL: <a href=\"https://arstechnica.com/tech-policy/2025/12/yo-what-limewire-re-emerges-in-online-rush-to-share-pulled-60-minutes-segment/\">https://arstechnica.com/tech-policy/2025/12/yo-what...",
+      "published": "2025-12-25T12:24:23+00:00",
+      "domain": "arstechnica.com",
+      "scores": {
+        "chaos": 18.0,
+        "anarchy": 12.0,
+        "overall": 15.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Fortinet Warns of Active Exploitation of FortiOS SSL VPN 2FA Bypass Vulnerability",
+      "link": "https://thehackernews.com/2025/12/fortinet-warns-of-active-exploitation.html",
+      "summary": "Fortinet on Wednesday said it observed \"recent abuse\" of a five-year-old security flaw in FortiOS SSL VPN in the wild under certain configurations.\nThe vulnerability in question is CVE-2020-12812 (CVS...",
+      "published": "2025-12-25T13:52:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -17,11 +33,11 @@
       }
     },
     {
-      "title": "Show HN: NpgsqlRest Automatic PostgreSQL Web Server",
-      "link": "https://npgsqlrest.github.io/",
-      "summary": "<p>Article URL: <a href=\"https://npgsqlrest.github.io/\">https://npgsqlrest.github.io/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46382554\">https://news.ycombinator.com/item...",
-      "published": "2025-12-25T06:21:00+00:00",
-      "domain": "npgsqlrest.github.io",
+      "title": "CISA Flags Actively Exploited Digiever NVR Vulnerability Allowing Remote Code Execution",
+      "link": "https://thehackernews.com/2025/12/cisa-flags-actively-exploited-digiever.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added a security flaw impacting Digiever DS-2105 Pro network video recorders (NVRs) to its Known Exploited Vulnerabilities (KEV) catalo...",
+      "published": "2025-12-25T13:37:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -33,123 +49,107 @@
       }
     },
     {
-      "title": "Data Structures in Practice",
-      "link": "https://github.com/djiangtw/data-structures-in-practice-public",
-      "summary": "<p>Article URL: <a href=\"https://github.com/djiangtw/data-structures-in-practice-public\">https://github.com/djiangtw/data-structures-in-practice-public</a></p>\n<p>Comments URL: <a href=\"https://news.y...",
-      "published": "2025-12-25T06:15:34+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Minish \u2013 A Property-Based Testing Framework for Zig",
-      "link": "https://github.com/CogitatorTech/minish",
-      "summary": "<p>Article URL: <a href=\"https://github.com/CogitatorTech/minish\">https://github.com/CogitatorTech/minish</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46382535\">https://news....",
-      "published": "2025-12-25T06:15:22+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Why Your AI Agents Are Hallucinating (and How to Stop It)",
-      "link": "https://noveum.ai/en/blog/why-your-ai-agents-are-hallucinating-and-how-to-stop-it",
-      "summary": "<p>Article URL: <a href=\"https://noveum.ai/en/blog/why-your-ai-agents-are-hallucinating-and-how-to-stop-it\">https://noveum.ai/en/blog/why-your-ai-agents-are-hallucinating-and-how-to-stop-it</a></p>\n<p...",
-      "published": "2025-12-25T06:10:56+00:00",
-      "domain": "noveum.ai",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Who Watches the Waymos? I do [video]",
-      "link": "https://www.youtube.com/watch?v=oYU2hAbx_Fc",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=46380758\">Comments</a>...",
-      "published": "2025-12-25T00:10:12+00:00",
-      "domain": "youtube.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "AI Image Generators Default to the Same 12 Photo Styles, Study Finds",
-      "link": "https://www.reddit.com/r/technology/comments/1pv0rlc/ai_image_generators_default_to_the_same_12_photo/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1pv0rlc/ai_image_generators_default_to_the_same_12_photo/\"> <img alt=\"AI Image Generators Default to the Same 12 Photo Styles, St...",
-      "published": "2025-12-25T00:03:18+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Asterisk AI Voice Agent",
-      "link": "https://github.com/hkjarral/Asterisk-AI-Voice-Agent",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=46380399\">Comments</a>...",
-      "published": "2025-12-24T23:25:37+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "CEO Ali Ghodsi of a $134 billion software giant analytics firm Databricks, blasts companies with billions in funding but zero revenue: \"That's clearly a bubble, right\u2026 it's, like, insane\"",
-      "link": "https://www.reddit.com/r/technology/comments/1puzuvb/ceo_ali_ghodsi_of_a_134_billion_software_giant/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1puzuvb/ceo_ali_ghodsi_of_a_134_billion_software_giant/\"> <img alt=\"CEO Ali Ghodsi of a $134 billion software giant analytics fir...",
-      "published": "2025-12-24T23:13:44+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Tell HN: Merry Christmas",
-      "link": "https://news.ycombinator.com/item?id=46380168",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=46380168\">Comments</a>...",
-      "published": "2025-12-24T22:56:00+00:00",
+      "title": "How do you validate video pipeline changes for ML models?",
+      "link": "https://news.ycombinator.com/item?id=46384009",
+      "summary": "<p>How do people validate that a change to video data (encoding, preprocessing, annonimization etc.) won\u2019t break models later?<p>We\u2019ve seen cases where encoding was changed, psnr/ssim barely moved, vi...",
+      "published": "2025-12-25T12:28:22+00:00",
       "domain": "news.ycombinator.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Fight bad bot with SEC Fetch and Client Hints inconsistencies",
+      "link": "https://blog.sicuranext.com/sec-fetch-and-client-hints-a-powerful-tool-against-automation/",
+      "summary": "<p>Article URL: <a href=\"https://blog.sicuranext.com/sec-fetch-and-client-hints-a-powerful-tool-against-automation/\">https://blog.sicuranext.com/sec-fetch-and-client-hints-a-powerful-tool-against-auto...",
+      "published": "2025-12-25T12:24:31+00:00",
+      "domain": "blog.sicuranext.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Mostlymatter is a fork of Mattermost without users limit",
+      "link": "https://framagit.org/framasoft/framateam/mostlymatter",
+      "summary": "<p>Article URL: <a href=\"https://framagit.org/framasoft/framateam/mostlymatter\">https://framagit.org/framasoft/framateam/mostlymatter</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/ite...",
+      "published": "2025-12-25T12:17:02+00:00",
+      "domain": "framagit.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "How the world of work will change over the next 20 years",
+      "link": "https://www.wsj.com/lifestyle/workplace/future-of-work-978509bf",
+      "summary": "<p>Article URL: <a href=\"https://www.wsj.com/lifestyle/workplace/future-of-work-978509bf\">https://www.wsj.com/lifestyle/workplace/future-of-work-978509bf</a></p>\n<p>Comments URL: <a href=\"https://news...",
+      "published": "2025-12-25T12:16:30+00:00",
+      "domain": "wsj.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Mattermost restricted access to old messages after 10000 limit is reached",
+      "link": "https://github.com/mattermost/mattermost/issues/34271",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46383675\">Comments</a>...",
+      "published": "2025-12-25T11:03:59+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "We invited a man into our home at Christmas and he stayed with us for 45 years",
+      "link": "https://www.bbc.co.uk/news/articles/cdxwllqz1l0o",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46383552\">Comments</a>...",
+      "published": "2025-12-25T10:35:34+00:00",
+      "domain": "bbc.co.uk",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Self-referencing Page Tables for the x86-Architecture",
+      "link": "https://0l.de/blog/2015/01/bachelor-thesis-abstract/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46383139\">Comments</a>...",
+      "published": "2025-12-25T08:58:23+00:00",
+      "domain": "0l.de",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -163,11 +163,27 @@
   ],
   "anarchy_ranked": [
     {
-      "title": "Show HN: URL Shortener Jo4.io",
-      "link": "https://jo4.io/a/hackernews",
-      "summary": "<p>Article URL: <a href=\"https://jo4.io/a/hackernews\">https://jo4.io/a/hackernews</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46382563\">https://news.ycombinator.com/item?id=...",
-      "published": "2025-12-25T06:23:28+00:00",
-      "domain": "jo4.io",
+      "title": "LimeWire re-emerges in online rush to share pulled \"60 Minutes\" segment",
+      "link": "https://arstechnica.com/tech-policy/2025/12/yo-what-limewire-re-emerges-in-online-rush-to-share-pulled-60-minutes-segment/",
+      "summary": "<p>Article URL: <a href=\"https://arstechnica.com/tech-policy/2025/12/yo-what-limewire-re-emerges-in-online-rush-to-share-pulled-60-minutes-segment/\">https://arstechnica.com/tech-policy/2025/12/yo-what...",
+      "published": "2025-12-25T12:24:23+00:00",
+      "domain": "arstechnica.com",
+      "scores": {
+        "chaos": 18.0,
+        "anarchy": 12.0,
+        "overall": 15.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Fortinet Warns of Active Exploitation of FortiOS SSL VPN 2FA Bypass Vulnerability",
+      "link": "https://thehackernews.com/2025/12/fortinet-warns-of-active-exploitation.html",
+      "summary": "Fortinet on Wednesday said it observed \"recent abuse\" of a five-year-old security flaw in FortiOS SSL VPN in the wild under certain configurations.\nThe vulnerability in question is CVE-2020-12812 (CVS...",
+      "published": "2025-12-25T13:52:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -179,11 +195,11 @@
       }
     },
     {
-      "title": "Show HN: NpgsqlRest Automatic PostgreSQL Web Server",
-      "link": "https://npgsqlrest.github.io/",
-      "summary": "<p>Article URL: <a href=\"https://npgsqlrest.github.io/\">https://npgsqlrest.github.io/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46382554\">https://news.ycombinator.com/item...",
-      "published": "2025-12-25T06:21:00+00:00",
-      "domain": "npgsqlrest.github.io",
+      "title": "CISA Flags Actively Exploited Digiever NVR Vulnerability Allowing Remote Code Execution",
+      "link": "https://thehackernews.com/2025/12/cisa-flags-actively-exploited-digiever.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added a security flaw impacting Digiever DS-2105 Pro network video recorders (NVRs) to its Known Exploited Vulnerabilities (KEV) catalo...",
+      "published": "2025-12-25T13:37:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -195,123 +211,107 @@
       }
     },
     {
-      "title": "Data Structures in Practice",
-      "link": "https://github.com/djiangtw/data-structures-in-practice-public",
-      "summary": "<p>Article URL: <a href=\"https://github.com/djiangtw/data-structures-in-practice-public\">https://github.com/djiangtw/data-structures-in-practice-public</a></p>\n<p>Comments URL: <a href=\"https://news.y...",
-      "published": "2025-12-25T06:15:34+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Minish \u2013 A Property-Based Testing Framework for Zig",
-      "link": "https://github.com/CogitatorTech/minish",
-      "summary": "<p>Article URL: <a href=\"https://github.com/CogitatorTech/minish\">https://github.com/CogitatorTech/minish</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46382535\">https://news....",
-      "published": "2025-12-25T06:15:22+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Why Your AI Agents Are Hallucinating (and How to Stop It)",
-      "link": "https://noveum.ai/en/blog/why-your-ai-agents-are-hallucinating-and-how-to-stop-it",
-      "summary": "<p>Article URL: <a href=\"https://noveum.ai/en/blog/why-your-ai-agents-are-hallucinating-and-how-to-stop-it\">https://noveum.ai/en/blog/why-your-ai-agents-are-hallucinating-and-how-to-stop-it</a></p>\n<p...",
-      "published": "2025-12-25T06:10:56+00:00",
-      "domain": "noveum.ai",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Who Watches the Waymos? I do [video]",
-      "link": "https://www.youtube.com/watch?v=oYU2hAbx_Fc",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=46380758\">Comments</a>...",
-      "published": "2025-12-25T00:10:12+00:00",
-      "domain": "youtube.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "AI Image Generators Default to the Same 12 Photo Styles, Study Finds",
-      "link": "https://www.reddit.com/r/technology/comments/1pv0rlc/ai_image_generators_default_to_the_same_12_photo/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1pv0rlc/ai_image_generators_default_to_the_same_12_photo/\"> <img alt=\"AI Image Generators Default to the Same 12 Photo Styles, St...",
-      "published": "2025-12-25T00:03:18+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Asterisk AI Voice Agent",
-      "link": "https://github.com/hkjarral/Asterisk-AI-Voice-Agent",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=46380399\">Comments</a>...",
-      "published": "2025-12-24T23:25:37+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "CEO Ali Ghodsi of a $134 billion software giant analytics firm Databricks, blasts companies with billions in funding but zero revenue: \"That's clearly a bubble, right\u2026 it's, like, insane\"",
-      "link": "https://www.reddit.com/r/technology/comments/1puzuvb/ceo_ali_ghodsi_of_a_134_billion_software_giant/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1puzuvb/ceo_ali_ghodsi_of_a_134_billion_software_giant/\"> <img alt=\"CEO Ali Ghodsi of a $134 billion software giant analytics fir...",
-      "published": "2025-12-24T23:13:44+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Tell HN: Merry Christmas",
-      "link": "https://news.ycombinator.com/item?id=46380168",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=46380168\">Comments</a>...",
-      "published": "2025-12-24T22:56:00+00:00",
+      "title": "How do you validate video pipeline changes for ML models?",
+      "link": "https://news.ycombinator.com/item?id=46384009",
+      "summary": "<p>How do people validate that a change to video data (encoding, preprocessing, annonimization etc.) won\u2019t break models later?<p>We\u2019ve seen cases where encoding was changed, psnr/ssim barely moved, vi...",
+      "published": "2025-12-25T12:28:22+00:00",
       "domain": "news.ycombinator.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Fight bad bot with SEC Fetch and Client Hints inconsistencies",
+      "link": "https://blog.sicuranext.com/sec-fetch-and-client-hints-a-powerful-tool-against-automation/",
+      "summary": "<p>Article URL: <a href=\"https://blog.sicuranext.com/sec-fetch-and-client-hints-a-powerful-tool-against-automation/\">https://blog.sicuranext.com/sec-fetch-and-client-hints-a-powerful-tool-against-auto...",
+      "published": "2025-12-25T12:24:31+00:00",
+      "domain": "blog.sicuranext.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Mostlymatter is a fork of Mattermost without users limit",
+      "link": "https://framagit.org/framasoft/framateam/mostlymatter",
+      "summary": "<p>Article URL: <a href=\"https://framagit.org/framasoft/framateam/mostlymatter\">https://framagit.org/framasoft/framateam/mostlymatter</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/ite...",
+      "published": "2025-12-25T12:17:02+00:00",
+      "domain": "framagit.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "How the world of work will change over the next 20 years",
+      "link": "https://www.wsj.com/lifestyle/workplace/future-of-work-978509bf",
+      "summary": "<p>Article URL: <a href=\"https://www.wsj.com/lifestyle/workplace/future-of-work-978509bf\">https://www.wsj.com/lifestyle/workplace/future-of-work-978509bf</a></p>\n<p>Comments URL: <a href=\"https://news...",
+      "published": "2025-12-25T12:16:30+00:00",
+      "domain": "wsj.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Mattermost restricted access to old messages after 10000 limit is reached",
+      "link": "https://github.com/mattermost/mattermost/issues/34271",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46383675\">Comments</a>...",
+      "published": "2025-12-25T11:03:59+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "We invited a man into our home at Christmas and he stayed with us for 45 years",
+      "link": "https://www.bbc.co.uk/news/articles/cdxwllqz1l0o",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46383552\">Comments</a>...",
+      "published": "2025-12-25T10:35:34+00:00",
+      "domain": "bbc.co.uk",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Self-referencing Page Tables for the x86-Architecture",
+      "link": "https://0l.de/blog/2015/01/bachelor-thesis-abstract/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46383139\">Comments</a>...",
+      "published": "2025-12-25T08:58:23+00:00",
+      "domain": "0l.de",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -325,11 +325,27 @@
   ],
   "overall_ranked": [
     {
-      "title": "Show HN: URL Shortener Jo4.io",
-      "link": "https://jo4.io/a/hackernews",
-      "summary": "<p>Article URL: <a href=\"https://jo4.io/a/hackernews\">https://jo4.io/a/hackernews</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46382563\">https://news.ycombinator.com/item?id=...",
-      "published": "2025-12-25T06:23:28+00:00",
-      "domain": "jo4.io",
+      "title": "LimeWire re-emerges in online rush to share pulled \"60 Minutes\" segment",
+      "link": "https://arstechnica.com/tech-policy/2025/12/yo-what-limewire-re-emerges-in-online-rush-to-share-pulled-60-minutes-segment/",
+      "summary": "<p>Article URL: <a href=\"https://arstechnica.com/tech-policy/2025/12/yo-what-limewire-re-emerges-in-online-rush-to-share-pulled-60-minutes-segment/\">https://arstechnica.com/tech-policy/2025/12/yo-what...",
+      "published": "2025-12-25T12:24:23+00:00",
+      "domain": "arstechnica.com",
+      "scores": {
+        "chaos": 18.0,
+        "anarchy": 12.0,
+        "overall": 15.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Fortinet Warns of Active Exploitation of FortiOS SSL VPN 2FA Bypass Vulnerability",
+      "link": "https://thehackernews.com/2025/12/fortinet-warns-of-active-exploitation.html",
+      "summary": "Fortinet on Wednesday said it observed \"recent abuse\" of a five-year-old security flaw in FortiOS SSL VPN in the wild under certain configurations.\nThe vulnerability in question is CVE-2020-12812 (CVS...",
+      "published": "2025-12-25T13:52:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -341,11 +357,11 @@
       }
     },
     {
-      "title": "Show HN: NpgsqlRest Automatic PostgreSQL Web Server",
-      "link": "https://npgsqlrest.github.io/",
-      "summary": "<p>Article URL: <a href=\"https://npgsqlrest.github.io/\">https://npgsqlrest.github.io/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46382554\">https://news.ycombinator.com/item...",
-      "published": "2025-12-25T06:21:00+00:00",
-      "domain": "npgsqlrest.github.io",
+      "title": "CISA Flags Actively Exploited Digiever NVR Vulnerability Allowing Remote Code Execution",
+      "link": "https://thehackernews.com/2025/12/cisa-flags-actively-exploited-digiever.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added a security flaw impacting Digiever DS-2105 Pro network video recorders (NVRs) to its Known Exploited Vulnerabilities (KEV) catalo...",
+      "published": "2025-12-25T13:37:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -357,123 +373,107 @@
       }
     },
     {
-      "title": "Data Structures in Practice",
-      "link": "https://github.com/djiangtw/data-structures-in-practice-public",
-      "summary": "<p>Article URL: <a href=\"https://github.com/djiangtw/data-structures-in-practice-public\">https://github.com/djiangtw/data-structures-in-practice-public</a></p>\n<p>Comments URL: <a href=\"https://news.y...",
-      "published": "2025-12-25T06:15:34+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Minish \u2013 A Property-Based Testing Framework for Zig",
-      "link": "https://github.com/CogitatorTech/minish",
-      "summary": "<p>Article URL: <a href=\"https://github.com/CogitatorTech/minish\">https://github.com/CogitatorTech/minish</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46382535\">https://news....",
-      "published": "2025-12-25T06:15:22+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Why Your AI Agents Are Hallucinating (and How to Stop It)",
-      "link": "https://noveum.ai/en/blog/why-your-ai-agents-are-hallucinating-and-how-to-stop-it",
-      "summary": "<p>Article URL: <a href=\"https://noveum.ai/en/blog/why-your-ai-agents-are-hallucinating-and-how-to-stop-it\">https://noveum.ai/en/blog/why-your-ai-agents-are-hallucinating-and-how-to-stop-it</a></p>\n<p...",
-      "published": "2025-12-25T06:10:56+00:00",
-      "domain": "noveum.ai",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Who Watches the Waymos? I do [video]",
-      "link": "https://www.youtube.com/watch?v=oYU2hAbx_Fc",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=46380758\">Comments</a>...",
-      "published": "2025-12-25T00:10:12+00:00",
-      "domain": "youtube.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "AI Image Generators Default to the Same 12 Photo Styles, Study Finds",
-      "link": "https://www.reddit.com/r/technology/comments/1pv0rlc/ai_image_generators_default_to_the_same_12_photo/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1pv0rlc/ai_image_generators_default_to_the_same_12_photo/\"> <img alt=\"AI Image Generators Default to the Same 12 Photo Styles, St...",
-      "published": "2025-12-25T00:03:18+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Asterisk AI Voice Agent",
-      "link": "https://github.com/hkjarral/Asterisk-AI-Voice-Agent",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=46380399\">Comments</a>...",
-      "published": "2025-12-24T23:25:37+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "CEO Ali Ghodsi of a $134 billion software giant analytics firm Databricks, blasts companies with billions in funding but zero revenue: \"That's clearly a bubble, right\u2026 it's, like, insane\"",
-      "link": "https://www.reddit.com/r/technology/comments/1puzuvb/ceo_ali_ghodsi_of_a_134_billion_software_giant/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1puzuvb/ceo_ali_ghodsi_of_a_134_billion_software_giant/\"> <img alt=\"CEO Ali Ghodsi of a $134 billion software giant analytics fir...",
-      "published": "2025-12-24T23:13:44+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Tell HN: Merry Christmas",
-      "link": "https://news.ycombinator.com/item?id=46380168",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=46380168\">Comments</a>...",
-      "published": "2025-12-24T22:56:00+00:00",
+      "title": "How do you validate video pipeline changes for ML models?",
+      "link": "https://news.ycombinator.com/item?id=46384009",
+      "summary": "<p>How do people validate that a change to video data (encoding, preprocessing, annonimization etc.) won\u2019t break models later?<p>We\u2019ve seen cases where encoding was changed, psnr/ssim barely moved, vi...",
+      "published": "2025-12-25T12:28:22+00:00",
       "domain": "news.ycombinator.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Fight bad bot with SEC Fetch and Client Hints inconsistencies",
+      "link": "https://blog.sicuranext.com/sec-fetch-and-client-hints-a-powerful-tool-against-automation/",
+      "summary": "<p>Article URL: <a href=\"https://blog.sicuranext.com/sec-fetch-and-client-hints-a-powerful-tool-against-automation/\">https://blog.sicuranext.com/sec-fetch-and-client-hints-a-powerful-tool-against-auto...",
+      "published": "2025-12-25T12:24:31+00:00",
+      "domain": "blog.sicuranext.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Mostlymatter is a fork of Mattermost without users limit",
+      "link": "https://framagit.org/framasoft/framateam/mostlymatter",
+      "summary": "<p>Article URL: <a href=\"https://framagit.org/framasoft/framateam/mostlymatter\">https://framagit.org/framasoft/framateam/mostlymatter</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/ite...",
+      "published": "2025-12-25T12:17:02+00:00",
+      "domain": "framagit.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "How the world of work will change over the next 20 years",
+      "link": "https://www.wsj.com/lifestyle/workplace/future-of-work-978509bf",
+      "summary": "<p>Article URL: <a href=\"https://www.wsj.com/lifestyle/workplace/future-of-work-978509bf\">https://www.wsj.com/lifestyle/workplace/future-of-work-978509bf</a></p>\n<p>Comments URL: <a href=\"https://news...",
+      "published": "2025-12-25T12:16:30+00:00",
+      "domain": "wsj.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Mattermost restricted access to old messages after 10000 limit is reached",
+      "link": "https://github.com/mattermost/mattermost/issues/34271",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46383675\">Comments</a>...",
+      "published": "2025-12-25T11:03:59+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "We invited a man into our home at Christmas and he stayed with us for 45 years",
+      "link": "https://www.bbc.co.uk/news/articles/cdxwllqz1l0o",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46383552\">Comments</a>...",
+      "published": "2025-12-25T10:35:34+00:00",
+      "domain": "bbc.co.uk",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Self-referencing Page Tables for the x86-Architecture",
+      "link": "https://0l.de/blog/2015/01/bachelor-thesis-abstract/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46383139\">Comments</a>...",
+      "published": "2025-12-25T08:58:23+00:00",
+      "domain": "0l.de",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -487,11 +487,11 @@
   ],
   "all_articles": [
     {
-      "title": "Show HN: URL Shortener Jo4.io",
-      "link": "https://jo4.io/a/hackernews",
-      "summary": "<p>Article URL: <a href=\"https://jo4.io/a/hackernews\">https://jo4.io/a/hackernews</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46382563\">https://news.ycombinator.com/item?id=...",
-      "published": "2025-12-25T06:23:28+00:00",
-      "domain": "jo4.io",
+      "title": "Fortinet Warns of Active Exploitation of FortiOS SSL VPN 2FA Bypass Vulnerability",
+      "link": "https://thehackernews.com/2025/12/fortinet-warns-of-active-exploitation.html",
+      "summary": "Fortinet on Wednesday said it observed \"recent abuse\" of a five-year-old security flaw in FortiOS SSL VPN in the wild under certain configurations.\nThe vulnerability in question is CVE-2020-12812 (CVS...",
+      "published": "2025-12-25T13:52:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -503,11 +503,11 @@
       }
     },
     {
-      "title": "Show HN: NpgsqlRest Automatic PostgreSQL Web Server",
-      "link": "https://npgsqlrest.github.io/",
-      "summary": "<p>Article URL: <a href=\"https://npgsqlrest.github.io/\">https://npgsqlrest.github.io/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46382554\">https://news.ycombinator.com/item...",
-      "published": "2025-12-25T06:21:00+00:00",
-      "domain": "npgsqlrest.github.io",
+      "title": "CISA Flags Actively Exploited Digiever NVR Vulnerability Allowing Remote Code Execution",
+      "link": "https://thehackernews.com/2025/12/cisa-flags-actively-exploited-digiever.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added a security flaw impacting Digiever DS-2105 Pro network video recorders (NVRs) to its Known Exploited Vulnerabilities (KEV) catalo...",
+      "published": "2025-12-25T13:37:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -519,123 +519,123 @@
       }
     },
     {
-      "title": "Data Structures in Practice",
-      "link": "https://github.com/djiangtw/data-structures-in-practice-public",
-      "summary": "<p>Article URL: <a href=\"https://github.com/djiangtw/data-structures-in-practice-public\">https://github.com/djiangtw/data-structures-in-practice-public</a></p>\n<p>Comments URL: <a href=\"https://news.y...",
-      "published": "2025-12-25T06:15:34+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Minish \u2013 A Property-Based Testing Framework for Zig",
-      "link": "https://github.com/CogitatorTech/minish",
-      "summary": "<p>Article URL: <a href=\"https://github.com/CogitatorTech/minish\">https://github.com/CogitatorTech/minish</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46382535\">https://news....",
-      "published": "2025-12-25T06:15:22+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Why Your AI Agents Are Hallucinating (and How to Stop It)",
-      "link": "https://noveum.ai/en/blog/why-your-ai-agents-are-hallucinating-and-how-to-stop-it",
-      "summary": "<p>Article URL: <a href=\"https://noveum.ai/en/blog/why-your-ai-agents-are-hallucinating-and-how-to-stop-it\">https://noveum.ai/en/blog/why-your-ai-agents-are-hallucinating-and-how-to-stop-it</a></p>\n<p...",
-      "published": "2025-12-25T06:10:56+00:00",
-      "domain": "noveum.ai",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Who Watches the Waymos? I do [video]",
-      "link": "https://www.youtube.com/watch?v=oYU2hAbx_Fc",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=46380758\">Comments</a>...",
-      "published": "2025-12-25T00:10:12+00:00",
-      "domain": "youtube.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "AI Image Generators Default to the Same 12 Photo Styles, Study Finds",
-      "link": "https://www.reddit.com/r/technology/comments/1pv0rlc/ai_image_generators_default_to_the_same_12_photo/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1pv0rlc/ai_image_generators_default_to_the_same_12_photo/\"> <img alt=\"AI Image Generators Default to the Same 12 Photo Styles, St...",
-      "published": "2025-12-25T00:03:18+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Asterisk AI Voice Agent",
-      "link": "https://github.com/hkjarral/Asterisk-AI-Voice-Agent",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=46380399\">Comments</a>...",
-      "published": "2025-12-24T23:25:37+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "CEO Ali Ghodsi of a $134 billion software giant analytics firm Databricks, blasts companies with billions in funding but zero revenue: \"That's clearly a bubble, right\u2026 it's, like, insane\"",
-      "link": "https://www.reddit.com/r/technology/comments/1puzuvb/ceo_ali_ghodsi_of_a_134_billion_software_giant/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1puzuvb/ceo_ali_ghodsi_of_a_134_billion_software_giant/\"> <img alt=\"CEO Ali Ghodsi of a $134 billion software giant analytics fir...",
-      "published": "2025-12-24T23:13:44+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Tell HN: Merry Christmas",
-      "link": "https://news.ycombinator.com/item?id=46380168",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=46380168\">Comments</a>...",
-      "published": "2025-12-24T22:56:00+00:00",
+      "title": "How do you validate video pipeline changes for ML models?",
+      "link": "https://news.ycombinator.com/item?id=46384009",
+      "summary": "<p>How do people validate that a change to video data (encoding, preprocessing, annonimization etc.) won\u2019t break models later?<p>We\u2019ve seen cases where encoding was changed, psnr/ssim barely moved, vi...",
+      "published": "2025-12-25T12:28:22+00:00",
       "domain": "news.ycombinator.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Fight bad bot with SEC Fetch and Client Hints inconsistencies",
+      "link": "https://blog.sicuranext.com/sec-fetch-and-client-hints-a-powerful-tool-against-automation/",
+      "summary": "<p>Article URL: <a href=\"https://blog.sicuranext.com/sec-fetch-and-client-hints-a-powerful-tool-against-automation/\">https://blog.sicuranext.com/sec-fetch-and-client-hints-a-powerful-tool-against-auto...",
+      "published": "2025-12-25T12:24:31+00:00",
+      "domain": "blog.sicuranext.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "LimeWire re-emerges in online rush to share pulled \"60 Minutes\" segment",
+      "link": "https://arstechnica.com/tech-policy/2025/12/yo-what-limewire-re-emerges-in-online-rush-to-share-pulled-60-minutes-segment/",
+      "summary": "<p>Article URL: <a href=\"https://arstechnica.com/tech-policy/2025/12/yo-what-limewire-re-emerges-in-online-rush-to-share-pulled-60-minutes-segment/\">https://arstechnica.com/tech-policy/2025/12/yo-what...",
+      "published": "2025-12-25T12:24:23+00:00",
+      "domain": "arstechnica.com",
+      "scores": {
+        "chaos": 18.0,
+        "anarchy": 12.0,
+        "overall": 15.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Mostlymatter is a fork of Mattermost without users limit",
+      "link": "https://framagit.org/framasoft/framateam/mostlymatter",
+      "summary": "<p>Article URL: <a href=\"https://framagit.org/framasoft/framateam/mostlymatter\">https://framagit.org/framasoft/framateam/mostlymatter</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/ite...",
+      "published": "2025-12-25T12:17:02+00:00",
+      "domain": "framagit.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "How the world of work will change over the next 20 years",
+      "link": "https://www.wsj.com/lifestyle/workplace/future-of-work-978509bf",
+      "summary": "<p>Article URL: <a href=\"https://www.wsj.com/lifestyle/workplace/future-of-work-978509bf\">https://www.wsj.com/lifestyle/workplace/future-of-work-978509bf</a></p>\n<p>Comments URL: <a href=\"https://news...",
+      "published": "2025-12-25T12:16:30+00:00",
+      "domain": "wsj.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Mattermost restricted access to old messages after 10000 limit is reached",
+      "link": "https://github.com/mattermost/mattermost/issues/34271",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46383675\">Comments</a>...",
+      "published": "2025-12-25T11:03:59+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "We invited a man into our home at Christmas and he stayed with us for 45 years",
+      "link": "https://www.bbc.co.uk/news/articles/cdxwllqz1l0o",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46383552\">Comments</a>...",
+      "published": "2025-12-25T10:35:34+00:00",
+      "domain": "bbc.co.uk",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Self-referencing Page Tables for the x86-Architecture",
+      "link": "https://0l.de/blog/2015/01/bachelor-thesis-abstract/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46383139\">Comments</a>...",
+      "published": "2025-12-25T08:58:23+00:00",
+      "domain": "0l.de",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
