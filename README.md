@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Critical LangChain Core Vulnerability Exposes Secrets via Serialization Injection
+### Show HN: An authority gate for AI-generated customer communication
 - **Published**: December 26, 2025
-- **Summary**: A critical security flaw has been disclosed in LangChain Core that could be exploited by an attacker to steal sensitive secrets and even influence lar...
-- [Read more](https://thehackernews.com/2025/12/critical-langchain-core-vulnerability.html)
+- **Summary**: <p>Hi HN,<p>As more teams let AI draft or send customer-facing emails (support, billing, renewals), I’ve been noticing a quiet failure mode:<p>AI-gene...
+- **Keywords**: failure
+- [Read more](https://authority.bhaviavelayudhan.com)
 
-### ChatGPT conversations still lack timestamps after years of requests
+### Trust Wallet Chrome Extension Breach Caused $7 Million Crypto Loss via Malicious Code
 - **Published**: December 26, 2025
-- **Summary**: https://community.openai.com/t/timestamps-for-chats-in-chatgpt/440107?page=3</a></p>
-<p>Comments ......
-- [Read more](https://community.openai.com/t/timestamps-for-chats-in-chatgpt/440107?page=3)
+- **Summary**: Trust Wallet is urging users to update its Google Chrome extension to the latest version following what it described as a "security incident" that led...
+- [Read more](https://thehackernews.com/2025/12/trust-wallet-chrome-extension-bug.html)
 
 ---
 

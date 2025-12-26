@@ -1,10 +1,28 @@
 {
   "chaos_ranked": [
     {
-      "title": "Critical LangChain Core Vulnerability Exposes Secrets via Serialization Injection",
-      "link": "https://thehackernews.com/2025/12/critical-langchain-core-vulnerability.html",
-      "summary": "A critical security flaw has been disclosed in LangChain Core that could be exploited by an attacker to steal sensitive secrets and even influence large language model (LLM) responses through prompt i...",
-      "published": "2025-12-26T14:57:00+05:30",
+      "title": "Show HN: An authority gate for AI-generated customer communication",
+      "link": "https://authority.bhaviavelayudhan.com",
+      "summary": "<p>Hi HN,<p>As more teams let AI draft or send customer-facing emails (support, billing, renewals), I\u2019ve been noticing a quiet failure mode:<p>AI-generated messages making commitments no one explicitl...",
+      "published": "2025-12-26T18:17:44+00:00",
+      "domain": "authority.bhaviavelayudhan.com",
+      "scores": {
+        "chaos": 13.9,
+        "anarchy": 3.0,
+        "overall": 8.4
+      },
+      "keywords": {
+        "chaos": [
+          "failure"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Trust Wallet Chrome Extension Breach Caused $7 Million Crypto Loss via Malicious Code",
+      "link": "https://thehackernews.com/2025/12/trust-wallet-chrome-extension-bug.html",
+      "summary": "Trust Wallet is urging users to update its Google Chrome extension to the latest version following what it described as a \"security incident\" that led to the loss of approximately $7 million.\nThe issu...",
+      "published": "2025-12-26T21:01:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -17,11 +35,11 @@
       }
     },
     {
-      "title": "ChatGPT conversations still lack timestamps after years of requests",
-      "link": "https://community.openai.com/t/timestamps-for-chats-in-chatgpt/440107?page=3",
-      "summary": "<p>Article URL: <a href=\"https://community.openai.com/t/timestamps-for-chats-in-chatgpt/440107?page=3\">https://community.openai.com/t/timestamps-for-chats-in-chatgpt/440107?page=3</a></p>\n<p>Comments ...",
-      "published": "2025-12-26T12:39:32+00:00",
-      "domain": "community.openai.com",
+      "title": "China-Linked Evasive Panda Ran DNS Poisoning Campaign to Deliver MgBot Malware",
+      "link": "https://thehackernews.com/2025/12/china-linked-evasive-panda-ran-dns.html",
+      "summary": "A China-linked advanced persistent threat (APT) group has been attributed to a highly-targeted cyber espionage campaign in which the adversary poisoned Domain Name System (DNS) requests to deliver its...",
+      "published": "2025-12-26T20:14:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -33,10 +51,58 @@
       }
     },
     {
-      "title": "Reverse API Engineer",
-      "link": "https://github.com/kalil0321/reverse-api-engineer",
-      "summary": "<p>Article URL: <a href=\"https://github.com/kalil0321/reverse-api-engineer\">https://github.com/kalil0321/reverse-api-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=463...",
-      "published": "2025-12-26T12:39:13+00:00",
+      "title": "Elevator Wiki: wiki about elevators and their related topics",
+      "link": "https://elevation.fandom.com/wiki/Elevator_Wiki",
+      "summary": "<p>Article URL: <a href=\"https://elevation.fandom.com/wiki/Elevator_Wiki\">https://elevation.fandom.com/wiki/Elevator_Wiki</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4639465...",
+      "published": "2025-12-26T18:20:43+00:00",
+      "domain": "elevation.fandom.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Star Guage",
+      "link": "https://en.wikipedia.org/wiki/Star_Gauge",
+      "summary": "<p>Article URL: <a href=\"https://en.wikipedia.org/wiki/Star_Gauge\">https://en.wikipedia.org/wiki/Star_Gauge</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46394655\">https://new...",
+      "published": "2025-12-26T18:20:37+00:00",
+      "domain": "en.wikipedia.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Resolve merge conflicts with Claude Code",
+      "link": "https://raine.dev/blog/resolve-conflicts-with-claude/",
+      "summary": "<p>Article URL: <a href=\"https://raine.dev/blog/resolve-conflicts-with-claude/\">https://raine.dev/blog/resolve-conflicts-with-claude/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/ite...",
+      "published": "2025-12-26T18:20:17+00:00",
+      "domain": "raine.dev",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Tixl: Open-source realtime motion graphics",
+      "link": "https://github.com/tixl3d/tixl",
+      "summary": "<p>Article URL: <a href=\"https://github.com/tixl3d/tixl\">https://github.com/tixl3d/tixl</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46394651\">https://news.ycombinator.com/it...",
+      "published": "2025-12-26T18:20:10+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -49,90 +115,10 @@
       }
     },
     {
-      "title": "Nano Banana Pro is the best AI image generator, with caveats \u2013 Max Woolf's Blog",
-      "link": "https://minimaxir.com/2025/12/nano-banana-pro/",
-      "summary": "<p>Article URL: <a href=\"https://minimaxir.com/2025/12/nano-banana-pro/\">https://minimaxir.com/2025/12/nano-banana-pro/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46391460\"...",
-      "published": "2025-12-26T12:36:35+00:00",
-      "domain": "minimaxir.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Unix \"find\" expressions compiled to bytecode",
-      "link": "https://nullprogram.com/blog/2025/12/23/",
-      "summary": "<p>Article URL: <a href=\"https://nullprogram.com/blog/2025/12/23/\">https://nullprogram.com/blog/2025/12/23/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46391448\">https://new...",
-      "published": "2025-12-26T12:35:10+00:00",
-      "domain": "nullprogram.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Donald Knuth's Annual Christmas Lecture 2025 \u2013 Adventures with Knight's Tours",
-      "link": "https://online.stanford.edu/donald-e-knuth-lectures",
-      "summary": "<p>Article URL: <a href=\"https://online.stanford.edu/donald-e-knuth-lectures\">https://online.stanford.edu/donald-e-knuth-lectures</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id...",
-      "published": "2025-12-26T12:31:03+00:00",
-      "domain": "online.stanford.edu",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Geometric Algorithms for Translucency Sorting in Minecraft [pdf]",
-      "link": "https://douira.dev/assets/document/douira-master-thesis.pdf",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=46390667\">Comments</a>...",
-      "published": "2025-12-26T09:43:23+00:00",
-      "domain": "douira.dev",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Building an AI agent inside a 7-year-old Rails monolith",
-      "link": "https://catalinionescu.dev/ai-agent/building-ai-agent-part-1/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=46390055\">Comments</a>...",
-      "published": "2025-12-26T07:35:15+00:00",
-      "domain": "catalinionescu.dev",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "What the Linux desktop really needs to challenge Windows",
-      "link": "https://www.reddit.com/r/technology/comments/1pvudm3/what_the_linux_desktop_really_needs_to_challenge/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1pvudm3/what_the_linux_desktop_really_needs_to_challenge/\"> <img alt=\"What the Linux desktop really needs to challenge Windows\" s...",
-      "published": "2025-12-26T03:29:25+00:00",
+      "title": "Leaker Who Apple Is Suing Says 'Screw It,' Here's the Foldable iPhone Early",
+      "link": "https://www.reddit.com/r/technology/comments/1pw9thg/leaker_who_apple_is_suing_says_screw_it_heres_the/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1pw9thg/leaker_who_apple_is_suing_says_screw_it_heres_the/\"> <img alt=\"Leaker Who Apple Is Suing Says 'Screw It,' Here's the Fold...",
+      "published": "2025-12-26T17:30:28+00:00",
       "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
@@ -145,11 +131,27 @@
       }
     },
     {
-      "title": "\u2018South Park\u2019 writer Toby Morton purchases President-Kennedy Center web addresses, plans parody sites",
-      "link": "https://www.reddit.com/r/technology/comments/1pvrys1/south_park_writer_toby_morton_purchases/",
-      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/ControlCAD\"> /u/ControlCAD </a> <br /> <span><a href=\"https://www.washingtontimes.com/news/2025/dec/25/south-park-writer-controls-trump-ke...",
-      "published": "2025-12-26T01:22:38+00:00",
-      "domain": "reddit.com",
+      "title": "A Proclamation Regarding the Restoration of the Em-Dash",
+      "link": "https://blog.nawaz.org/posts/2025/Dec/a-proclamation-regarding-the-restoration-of-the-dash/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46394169\">Comments</a>...",
+      "published": "2025-12-26T17:29:31+00:00",
+      "domain": "blog.nawaz.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "C/C++ Embedded Files (2013)",
+      "link": "https://www.4rknova.com//blog/2013/01/27/cpp-embedded-files",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46393924\">Comments</a>...",
+      "published": "2025-12-26T17:06:35+00:00",
+      "domain": "4rknova.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -163,10 +165,10 @@
   ],
   "anarchy_ranked": [
     {
-      "title": "Critical LangChain Core Vulnerability Exposes Secrets via Serialization Injection",
-      "link": "https://thehackernews.com/2025/12/critical-langchain-core-vulnerability.html",
-      "summary": "A critical security flaw has been disclosed in LangChain Core that could be exploited by an attacker to steal sensitive secrets and even influence large language model (LLM) responses through prompt i...",
-      "published": "2025-12-26T14:57:00+05:30",
+      "title": "Trust Wallet Chrome Extension Breach Caused $7 Million Crypto Loss via Malicious Code",
+      "link": "https://thehackernews.com/2025/12/trust-wallet-chrome-extension-bug.html",
+      "summary": "Trust Wallet is urging users to update its Google Chrome extension to the latest version following what it described as a \"security incident\" that led to the loss of approximately $7 million.\nThe issu...",
+      "published": "2025-12-26T21:01:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -179,11 +181,11 @@
       }
     },
     {
-      "title": "ChatGPT conversations still lack timestamps after years of requests",
-      "link": "https://community.openai.com/t/timestamps-for-chats-in-chatgpt/440107?page=3",
-      "summary": "<p>Article URL: <a href=\"https://community.openai.com/t/timestamps-for-chats-in-chatgpt/440107?page=3\">https://community.openai.com/t/timestamps-for-chats-in-chatgpt/440107?page=3</a></p>\n<p>Comments ...",
-      "published": "2025-12-26T12:39:32+00:00",
-      "domain": "community.openai.com",
+      "title": "China-Linked Evasive Panda Ran DNS Poisoning Campaign to Deliver MgBot Malware",
+      "link": "https://thehackernews.com/2025/12/china-linked-evasive-panda-ran-dns.html",
+      "summary": "A China-linked advanced persistent threat (APT) group has been attributed to a highly-targeted cyber espionage campaign in which the adversary poisoned Domain Name System (DNS) requests to deliver its...",
+      "published": "2025-12-26T20:14:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -195,10 +197,58 @@
       }
     },
     {
-      "title": "Reverse API Engineer",
-      "link": "https://github.com/kalil0321/reverse-api-engineer",
-      "summary": "<p>Article URL: <a href=\"https://github.com/kalil0321/reverse-api-engineer\">https://github.com/kalil0321/reverse-api-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=463...",
-      "published": "2025-12-26T12:39:13+00:00",
+      "title": "Elevator Wiki: wiki about elevators and their related topics",
+      "link": "https://elevation.fandom.com/wiki/Elevator_Wiki",
+      "summary": "<p>Article URL: <a href=\"https://elevation.fandom.com/wiki/Elevator_Wiki\">https://elevation.fandom.com/wiki/Elevator_Wiki</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4639465...",
+      "published": "2025-12-26T18:20:43+00:00",
+      "domain": "elevation.fandom.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Star Guage",
+      "link": "https://en.wikipedia.org/wiki/Star_Gauge",
+      "summary": "<p>Article URL: <a href=\"https://en.wikipedia.org/wiki/Star_Gauge\">https://en.wikipedia.org/wiki/Star_Gauge</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46394655\">https://new...",
+      "published": "2025-12-26T18:20:37+00:00",
+      "domain": "en.wikipedia.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Resolve merge conflicts with Claude Code",
+      "link": "https://raine.dev/blog/resolve-conflicts-with-claude/",
+      "summary": "<p>Article URL: <a href=\"https://raine.dev/blog/resolve-conflicts-with-claude/\">https://raine.dev/blog/resolve-conflicts-with-claude/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/ite...",
+      "published": "2025-12-26T18:20:17+00:00",
+      "domain": "raine.dev",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Tixl: Open-source realtime motion graphics",
+      "link": "https://github.com/tixl3d/tixl",
+      "summary": "<p>Article URL: <a href=\"https://github.com/tixl3d/tixl\">https://github.com/tixl3d/tixl</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46394651\">https://news.ycombinator.com/it...",
+      "published": "2025-12-26T18:20:10+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -211,90 +261,28 @@
       }
     },
     {
-      "title": "Nano Banana Pro is the best AI image generator, with caveats \u2013 Max Woolf's Blog",
-      "link": "https://minimaxir.com/2025/12/nano-banana-pro/",
-      "summary": "<p>Article URL: <a href=\"https://minimaxir.com/2025/12/nano-banana-pro/\">https://minimaxir.com/2025/12/nano-banana-pro/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46391460\"...",
-      "published": "2025-12-26T12:36:35+00:00",
-      "domain": "minimaxir.com",
+      "title": "Show HN: An authority gate for AI-generated customer communication",
+      "link": "https://authority.bhaviavelayudhan.com",
+      "summary": "<p>Hi HN,<p>As more teams let AI draft or send customer-facing emails (support, billing, renewals), I\u2019ve been noticing a quiet failure mode:<p>AI-generated messages making commitments no one explicitl...",
+      "published": "2025-12-26T18:17:44+00:00",
+      "domain": "authority.bhaviavelayudhan.com",
       "scores": {
-        "chaos": 3.0,
+        "chaos": 13.9,
         "anarchy": 3.0,
-        "overall": 3.0
+        "overall": 8.4
       },
       "keywords": {
-        "chaos": [],
+        "chaos": [
+          "failure"
+        ],
         "anarchy": []
       }
     },
     {
-      "title": "Unix \"find\" expressions compiled to bytecode",
-      "link": "https://nullprogram.com/blog/2025/12/23/",
-      "summary": "<p>Article URL: <a href=\"https://nullprogram.com/blog/2025/12/23/\">https://nullprogram.com/blog/2025/12/23/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46391448\">https://new...",
-      "published": "2025-12-26T12:35:10+00:00",
-      "domain": "nullprogram.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Donald Knuth's Annual Christmas Lecture 2025 \u2013 Adventures with Knight's Tours",
-      "link": "https://online.stanford.edu/donald-e-knuth-lectures",
-      "summary": "<p>Article URL: <a href=\"https://online.stanford.edu/donald-e-knuth-lectures\">https://online.stanford.edu/donald-e-knuth-lectures</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id...",
-      "published": "2025-12-26T12:31:03+00:00",
-      "domain": "online.stanford.edu",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Geometric Algorithms for Translucency Sorting in Minecraft [pdf]",
-      "link": "https://douira.dev/assets/document/douira-master-thesis.pdf",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=46390667\">Comments</a>...",
-      "published": "2025-12-26T09:43:23+00:00",
-      "domain": "douira.dev",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Building an AI agent inside a 7-year-old Rails monolith",
-      "link": "https://catalinionescu.dev/ai-agent/building-ai-agent-part-1/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=46390055\">Comments</a>...",
-      "published": "2025-12-26T07:35:15+00:00",
-      "domain": "catalinionescu.dev",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "What the Linux desktop really needs to challenge Windows",
-      "link": "https://www.reddit.com/r/technology/comments/1pvudm3/what_the_linux_desktop_really_needs_to_challenge/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1pvudm3/what_the_linux_desktop_really_needs_to_challenge/\"> <img alt=\"What the Linux desktop really needs to challenge Windows\" s...",
-      "published": "2025-12-26T03:29:25+00:00",
+      "title": "Leaker Who Apple Is Suing Says 'Screw It,' Here's the Foldable iPhone Early",
+      "link": "https://www.reddit.com/r/technology/comments/1pw9thg/leaker_who_apple_is_suing_says_screw_it_heres_the/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1pw9thg/leaker_who_apple_is_suing_says_screw_it_heres_the/\"> <img alt=\"Leaker Who Apple Is Suing Says 'Screw It,' Here's the Fold...",
+      "published": "2025-12-26T17:30:28+00:00",
       "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
@@ -307,11 +295,27 @@
       }
     },
     {
-      "title": "\u2018South Park\u2019 writer Toby Morton purchases President-Kennedy Center web addresses, plans parody sites",
-      "link": "https://www.reddit.com/r/technology/comments/1pvrys1/south_park_writer_toby_morton_purchases/",
-      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/ControlCAD\"> /u/ControlCAD </a> <br /> <span><a href=\"https://www.washingtontimes.com/news/2025/dec/25/south-park-writer-controls-trump-ke...",
-      "published": "2025-12-26T01:22:38+00:00",
-      "domain": "reddit.com",
+      "title": "A Proclamation Regarding the Restoration of the Em-Dash",
+      "link": "https://blog.nawaz.org/posts/2025/Dec/a-proclamation-regarding-the-restoration-of-the-dash/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46394169\">Comments</a>...",
+      "published": "2025-12-26T17:29:31+00:00",
+      "domain": "blog.nawaz.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "C/C++ Embedded Files (2013)",
+      "link": "https://www.4rknova.com//blog/2013/01/27/cpp-embedded-files",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46393924\">Comments</a>...",
+      "published": "2025-12-26T17:06:35+00:00",
+      "domain": "4rknova.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -325,10 +329,28 @@
   ],
   "overall_ranked": [
     {
-      "title": "Critical LangChain Core Vulnerability Exposes Secrets via Serialization Injection",
-      "link": "https://thehackernews.com/2025/12/critical-langchain-core-vulnerability.html",
-      "summary": "A critical security flaw has been disclosed in LangChain Core that could be exploited by an attacker to steal sensitive secrets and even influence large language model (LLM) responses through prompt i...",
-      "published": "2025-12-26T14:57:00+05:30",
+      "title": "Show HN: An authority gate for AI-generated customer communication",
+      "link": "https://authority.bhaviavelayudhan.com",
+      "summary": "<p>Hi HN,<p>As more teams let AI draft or send customer-facing emails (support, billing, renewals), I\u2019ve been noticing a quiet failure mode:<p>AI-generated messages making commitments no one explicitl...",
+      "published": "2025-12-26T18:17:44+00:00",
+      "domain": "authority.bhaviavelayudhan.com",
+      "scores": {
+        "chaos": 13.9,
+        "anarchy": 3.0,
+        "overall": 8.4
+      },
+      "keywords": {
+        "chaos": [
+          "failure"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Trust Wallet Chrome Extension Breach Caused $7 Million Crypto Loss via Malicious Code",
+      "link": "https://thehackernews.com/2025/12/trust-wallet-chrome-extension-bug.html",
+      "summary": "Trust Wallet is urging users to update its Google Chrome extension to the latest version following what it described as a \"security incident\" that led to the loss of approximately $7 million.\nThe issu...",
+      "published": "2025-12-26T21:01:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -341,11 +363,11 @@
       }
     },
     {
-      "title": "ChatGPT conversations still lack timestamps after years of requests",
-      "link": "https://community.openai.com/t/timestamps-for-chats-in-chatgpt/440107?page=3",
-      "summary": "<p>Article URL: <a href=\"https://community.openai.com/t/timestamps-for-chats-in-chatgpt/440107?page=3\">https://community.openai.com/t/timestamps-for-chats-in-chatgpt/440107?page=3</a></p>\n<p>Comments ...",
-      "published": "2025-12-26T12:39:32+00:00",
-      "domain": "community.openai.com",
+      "title": "China-Linked Evasive Panda Ran DNS Poisoning Campaign to Deliver MgBot Malware",
+      "link": "https://thehackernews.com/2025/12/china-linked-evasive-panda-ran-dns.html",
+      "summary": "A China-linked advanced persistent threat (APT) group has been attributed to a highly-targeted cyber espionage campaign in which the adversary poisoned Domain Name System (DNS) requests to deliver its...",
+      "published": "2025-12-26T20:14:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -357,10 +379,58 @@
       }
     },
     {
-      "title": "Reverse API Engineer",
-      "link": "https://github.com/kalil0321/reverse-api-engineer",
-      "summary": "<p>Article URL: <a href=\"https://github.com/kalil0321/reverse-api-engineer\">https://github.com/kalil0321/reverse-api-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=463...",
-      "published": "2025-12-26T12:39:13+00:00",
+      "title": "Elevator Wiki: wiki about elevators and their related topics",
+      "link": "https://elevation.fandom.com/wiki/Elevator_Wiki",
+      "summary": "<p>Article URL: <a href=\"https://elevation.fandom.com/wiki/Elevator_Wiki\">https://elevation.fandom.com/wiki/Elevator_Wiki</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4639465...",
+      "published": "2025-12-26T18:20:43+00:00",
+      "domain": "elevation.fandom.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Star Guage",
+      "link": "https://en.wikipedia.org/wiki/Star_Gauge",
+      "summary": "<p>Article URL: <a href=\"https://en.wikipedia.org/wiki/Star_Gauge\">https://en.wikipedia.org/wiki/Star_Gauge</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46394655\">https://new...",
+      "published": "2025-12-26T18:20:37+00:00",
+      "domain": "en.wikipedia.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Resolve merge conflicts with Claude Code",
+      "link": "https://raine.dev/blog/resolve-conflicts-with-claude/",
+      "summary": "<p>Article URL: <a href=\"https://raine.dev/blog/resolve-conflicts-with-claude/\">https://raine.dev/blog/resolve-conflicts-with-claude/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/ite...",
+      "published": "2025-12-26T18:20:17+00:00",
+      "domain": "raine.dev",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Tixl: Open-source realtime motion graphics",
+      "link": "https://github.com/tixl3d/tixl",
+      "summary": "<p>Article URL: <a href=\"https://github.com/tixl3d/tixl\">https://github.com/tixl3d/tixl</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46394651\">https://news.ycombinator.com/it...",
+      "published": "2025-12-26T18:20:10+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -373,90 +443,10 @@
       }
     },
     {
-      "title": "Nano Banana Pro is the best AI image generator, with caveats \u2013 Max Woolf's Blog",
-      "link": "https://minimaxir.com/2025/12/nano-banana-pro/",
-      "summary": "<p>Article URL: <a href=\"https://minimaxir.com/2025/12/nano-banana-pro/\">https://minimaxir.com/2025/12/nano-banana-pro/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46391460\"...",
-      "published": "2025-12-26T12:36:35+00:00",
-      "domain": "minimaxir.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Unix \"find\" expressions compiled to bytecode",
-      "link": "https://nullprogram.com/blog/2025/12/23/",
-      "summary": "<p>Article URL: <a href=\"https://nullprogram.com/blog/2025/12/23/\">https://nullprogram.com/blog/2025/12/23/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46391448\">https://new...",
-      "published": "2025-12-26T12:35:10+00:00",
-      "domain": "nullprogram.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Donald Knuth's Annual Christmas Lecture 2025 \u2013 Adventures with Knight's Tours",
-      "link": "https://online.stanford.edu/donald-e-knuth-lectures",
-      "summary": "<p>Article URL: <a href=\"https://online.stanford.edu/donald-e-knuth-lectures\">https://online.stanford.edu/donald-e-knuth-lectures</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id...",
-      "published": "2025-12-26T12:31:03+00:00",
-      "domain": "online.stanford.edu",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Geometric Algorithms for Translucency Sorting in Minecraft [pdf]",
-      "link": "https://douira.dev/assets/document/douira-master-thesis.pdf",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=46390667\">Comments</a>...",
-      "published": "2025-12-26T09:43:23+00:00",
-      "domain": "douira.dev",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Building an AI agent inside a 7-year-old Rails monolith",
-      "link": "https://catalinionescu.dev/ai-agent/building-ai-agent-part-1/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=46390055\">Comments</a>...",
-      "published": "2025-12-26T07:35:15+00:00",
-      "domain": "catalinionescu.dev",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "What the Linux desktop really needs to challenge Windows",
-      "link": "https://www.reddit.com/r/technology/comments/1pvudm3/what_the_linux_desktop_really_needs_to_challenge/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1pvudm3/what_the_linux_desktop_really_needs_to_challenge/\"> <img alt=\"What the Linux desktop really needs to challenge Windows\" s...",
-      "published": "2025-12-26T03:29:25+00:00",
+      "title": "Leaker Who Apple Is Suing Says 'Screw It,' Here's the Foldable iPhone Early",
+      "link": "https://www.reddit.com/r/technology/comments/1pw9thg/leaker_who_apple_is_suing_says_screw_it_heres_the/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1pw9thg/leaker_who_apple_is_suing_says_screw_it_heres_the/\"> <img alt=\"Leaker Who Apple Is Suing Says 'Screw It,' Here's the Fold...",
+      "published": "2025-12-26T17:30:28+00:00",
       "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
@@ -469,11 +459,27 @@
       }
     },
     {
-      "title": "\u2018South Park\u2019 writer Toby Morton purchases President-Kennedy Center web addresses, plans parody sites",
-      "link": "https://www.reddit.com/r/technology/comments/1pvrys1/south_park_writer_toby_morton_purchases/",
-      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/ControlCAD\"> /u/ControlCAD </a> <br /> <span><a href=\"https://www.washingtontimes.com/news/2025/dec/25/south-park-writer-controls-trump-ke...",
-      "published": "2025-12-26T01:22:38+00:00",
-      "domain": "reddit.com",
+      "title": "A Proclamation Regarding the Restoration of the Em-Dash",
+      "link": "https://blog.nawaz.org/posts/2025/Dec/a-proclamation-regarding-the-restoration-of-the-dash/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46394169\">Comments</a>...",
+      "published": "2025-12-26T17:29:31+00:00",
+      "domain": "blog.nawaz.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "C/C++ Embedded Files (2013)",
+      "link": "https://www.4rknova.com//blog/2013/01/27/cpp-embedded-files",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46393924\">Comments</a>...",
+      "published": "2025-12-26T17:06:35+00:00",
+      "domain": "4rknova.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -487,10 +493,10 @@
   ],
   "all_articles": [
     {
-      "title": "Critical LangChain Core Vulnerability Exposes Secrets via Serialization Injection",
-      "link": "https://thehackernews.com/2025/12/critical-langchain-core-vulnerability.html",
-      "summary": "A critical security flaw has been disclosed in LangChain Core that could be exploited by an attacker to steal sensitive secrets and even influence large language model (LLM) responses through prompt i...",
-      "published": "2025-12-26T14:57:00+05:30",
+      "title": "Trust Wallet Chrome Extension Breach Caused $7 Million Crypto Loss via Malicious Code",
+      "link": "https://thehackernews.com/2025/12/trust-wallet-chrome-extension-bug.html",
+      "summary": "Trust Wallet is urging users to update its Google Chrome extension to the latest version following what it described as a \"security incident\" that led to the loss of approximately $7 million.\nThe issu...",
+      "published": "2025-12-26T21:01:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -503,11 +509,11 @@
       }
     },
     {
-      "title": "ChatGPT conversations still lack timestamps after years of requests",
-      "link": "https://community.openai.com/t/timestamps-for-chats-in-chatgpt/440107?page=3",
-      "summary": "<p>Article URL: <a href=\"https://community.openai.com/t/timestamps-for-chats-in-chatgpt/440107?page=3\">https://community.openai.com/t/timestamps-for-chats-in-chatgpt/440107?page=3</a></p>\n<p>Comments ...",
-      "published": "2025-12-26T12:39:32+00:00",
-      "domain": "community.openai.com",
+      "title": "China-Linked Evasive Panda Ran DNS Poisoning Campaign to Deliver MgBot Malware",
+      "link": "https://thehackernews.com/2025/12/china-linked-evasive-panda-ran-dns.html",
+      "summary": "A China-linked advanced persistent threat (APT) group has been attributed to a highly-targeted cyber espionage campaign in which the adversary poisoned Domain Name System (DNS) requests to deliver its...",
+      "published": "2025-12-26T20:14:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -519,10 +525,58 @@
       }
     },
     {
-      "title": "Reverse API Engineer",
-      "link": "https://github.com/kalil0321/reverse-api-engineer",
-      "summary": "<p>Article URL: <a href=\"https://github.com/kalil0321/reverse-api-engineer\">https://github.com/kalil0321/reverse-api-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=463...",
-      "published": "2025-12-26T12:39:13+00:00",
+      "title": "Elevator Wiki: wiki about elevators and their related topics",
+      "link": "https://elevation.fandom.com/wiki/Elevator_Wiki",
+      "summary": "<p>Article URL: <a href=\"https://elevation.fandom.com/wiki/Elevator_Wiki\">https://elevation.fandom.com/wiki/Elevator_Wiki</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4639465...",
+      "published": "2025-12-26T18:20:43+00:00",
+      "domain": "elevation.fandom.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Star Guage",
+      "link": "https://en.wikipedia.org/wiki/Star_Gauge",
+      "summary": "<p>Article URL: <a href=\"https://en.wikipedia.org/wiki/Star_Gauge\">https://en.wikipedia.org/wiki/Star_Gauge</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46394655\">https://new...",
+      "published": "2025-12-26T18:20:37+00:00",
+      "domain": "en.wikipedia.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Resolve merge conflicts with Claude Code",
+      "link": "https://raine.dev/blog/resolve-conflicts-with-claude/",
+      "summary": "<p>Article URL: <a href=\"https://raine.dev/blog/resolve-conflicts-with-claude/\">https://raine.dev/blog/resolve-conflicts-with-claude/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/ite...",
+      "published": "2025-12-26T18:20:17+00:00",
+      "domain": "raine.dev",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Tixl: Open-source realtime motion graphics",
+      "link": "https://github.com/tixl3d/tixl",
+      "summary": "<p>Article URL: <a href=\"https://github.com/tixl3d/tixl\">https://github.com/tixl3d/tixl</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46394651\">https://news.ycombinator.com/it...",
+      "published": "2025-12-26T18:20:10+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -535,90 +589,28 @@
       }
     },
     {
-      "title": "Nano Banana Pro is the best AI image generator, with caveats \u2013 Max Woolf's Blog",
-      "link": "https://minimaxir.com/2025/12/nano-banana-pro/",
-      "summary": "<p>Article URL: <a href=\"https://minimaxir.com/2025/12/nano-banana-pro/\">https://minimaxir.com/2025/12/nano-banana-pro/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46391460\"...",
-      "published": "2025-12-26T12:36:35+00:00",
-      "domain": "minimaxir.com",
+      "title": "Show HN: An authority gate for AI-generated customer communication",
+      "link": "https://authority.bhaviavelayudhan.com",
+      "summary": "<p>Hi HN,<p>As more teams let AI draft or send customer-facing emails (support, billing, renewals), I\u2019ve been noticing a quiet failure mode:<p>AI-generated messages making commitments no one explicitl...",
+      "published": "2025-12-26T18:17:44+00:00",
+      "domain": "authority.bhaviavelayudhan.com",
       "scores": {
-        "chaos": 3.0,
+        "chaos": 13.9,
         "anarchy": 3.0,
-        "overall": 3.0
+        "overall": 8.4
       },
       "keywords": {
-        "chaos": [],
+        "chaos": [
+          "failure"
+        ],
         "anarchy": []
       }
     },
     {
-      "title": "Unix \"find\" expressions compiled to bytecode",
-      "link": "https://nullprogram.com/blog/2025/12/23/",
-      "summary": "<p>Article URL: <a href=\"https://nullprogram.com/blog/2025/12/23/\">https://nullprogram.com/blog/2025/12/23/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46391448\">https://new...",
-      "published": "2025-12-26T12:35:10+00:00",
-      "domain": "nullprogram.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Donald Knuth's Annual Christmas Lecture 2025 \u2013 Adventures with Knight's Tours",
-      "link": "https://online.stanford.edu/donald-e-knuth-lectures",
-      "summary": "<p>Article URL: <a href=\"https://online.stanford.edu/donald-e-knuth-lectures\">https://online.stanford.edu/donald-e-knuth-lectures</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id...",
-      "published": "2025-12-26T12:31:03+00:00",
-      "domain": "online.stanford.edu",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Geometric Algorithms for Translucency Sorting in Minecraft [pdf]",
-      "link": "https://douira.dev/assets/document/douira-master-thesis.pdf",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=46390667\">Comments</a>...",
-      "published": "2025-12-26T09:43:23+00:00",
-      "domain": "douira.dev",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Building an AI agent inside a 7-year-old Rails monolith",
-      "link": "https://catalinionescu.dev/ai-agent/building-ai-agent-part-1/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=46390055\">Comments</a>...",
-      "published": "2025-12-26T07:35:15+00:00",
-      "domain": "catalinionescu.dev",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "What the Linux desktop really needs to challenge Windows",
-      "link": "https://www.reddit.com/r/technology/comments/1pvudm3/what_the_linux_desktop_really_needs_to_challenge/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1pvudm3/what_the_linux_desktop_really_needs_to_challenge/\"> <img alt=\"What the Linux desktop really needs to challenge Windows\" s...",
-      "published": "2025-12-26T03:29:25+00:00",
+      "title": "Leaker Who Apple Is Suing Says 'Screw It,' Here's the Foldable iPhone Early",
+      "link": "https://www.reddit.com/r/technology/comments/1pw9thg/leaker_who_apple_is_suing_says_screw_it_heres_the/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1pw9thg/leaker_who_apple_is_suing_says_screw_it_heres_the/\"> <img alt=\"Leaker Who Apple Is Suing Says 'Screw It,' Here's the Fold...",
+      "published": "2025-12-26T17:30:28+00:00",
       "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
@@ -631,11 +623,27 @@
       }
     },
     {
-      "title": "\u2018South Park\u2019 writer Toby Morton purchases President-Kennedy Center web addresses, plans parody sites",
-      "link": "https://www.reddit.com/r/technology/comments/1pvrys1/south_park_writer_toby_morton_purchases/",
-      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/ControlCAD\"> /u/ControlCAD </a> <br /> <span><a href=\"https://www.washingtontimes.com/news/2025/dec/25/south-park-writer-controls-trump-ke...",
-      "published": "2025-12-26T01:22:38+00:00",
-      "domain": "reddit.com",
+      "title": "A Proclamation Regarding the Restoration of the Em-Dash",
+      "link": "https://blog.nawaz.org/posts/2025/Dec/a-proclamation-regarding-the-restoration-of-the-dash/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46394169\">Comments</a>...",
+      "published": "2025-12-26T17:29:31+00:00",
+      "domain": "blog.nawaz.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "C/C++ Embedded Files (2013)",
+      "link": "https://www.4rknova.com//blog/2013/01/27/cpp-embedded-files",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46393924\">Comments</a>...",
+      "published": "2025-12-26T17:06:35+00:00",
+      "domain": "4rknova.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
