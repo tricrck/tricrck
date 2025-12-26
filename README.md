@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Fisher Information in Kinetic Theory
+### Critical LangChain Core Vulnerability Exposes Secrets via Serialization Injection
 - **Published**: December 26, 2025
-- **Summary**: https://arxiv.org/abs/2501.00925</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46389626">https://news.ycombinator.co......
-- [Read more](https://arxiv.org/abs/2501.00925)
+- **Summary**: A critical security flaw has been disclosed in LangChain Core that could be exploited by an attacker to steal sensitive secrets and even influence lar...
+- [Read more](https://thehackernews.com/2025/12/critical-langchain-core-vulnerability.html)
 
-### Writing an NES Emulator in Haskell
+### ChatGPT conversations still lack timestamps after years of requests
 - **Published**: December 26, 2025
-- **Summary**: https://arthi-chaud.github.io/posts/funes/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46389602">https:/......
-- [Read more](https://arthi-chaud.github.io/posts/funes/)
+- **Summary**: https://community.openai.com/t/timestamps-for-chats-in-chatgpt/440107?page=3</a></p>
+<p>Comments ......
+- [Read more](https://community.openai.com/t/timestamps-for-chats-in-chatgpt/440107?page=3)
 
 ---
 
