@@ -16,17 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Hijacking Chrome's Network Tab to Debug an Electron App
+### Fisher Information in Kinetic Theory
 - **Published**: December 26, 2025
-- **Summary**: https://seg6.space/posts/debug-proxy-ffi/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46388418">https://n......
-- [Read more](https://seg6.space/posts/debug-proxy-ffi/)
+- **Summary**: https://arxiv.org/abs/2501.00925</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46389626">https://news.ycombinator.co......
+- [Read more](https://arxiv.org/abs/2501.00925)
 
-### I opened a bookshop. It was the best, worst thing I've ever done
+### Writing an NES Emulator in Haskell
 - **Published**: December 26, 2025
-- **Summary**: https://www.ft.com/content/cc77c2c9-3415-4b96-af76-65f04d761a85</a></p>
-<p>Comments URL: <a href="https://news......
-- [Read more](https://www.ft.com/content/cc77c2c9-3415-4b96-af76-65f04d761a85)
+- **Summary**: https://arthi-chaud.github.io/posts/funes/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46389602">https:/......
+- [Read more](https://arthi-chaud.github.io/posts/funes/)
 
 ---
 
