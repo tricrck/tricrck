@@ -16,15 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### ThreatsDay Bulletin: Stealth Loaders, AI Chatbot Flaws AI Exploits, Docker Hack, and 15 More Stories
-- **Published**: December 25, 2025
-- **Summary**: It’s getting harder to tell where normal tech ends and malicious intent begins. Attackers are no longer just breaking in — they’re blending in, hijack...
-- [Read more](https://thehackernews.com/2025/12/threatsday-bulletin-stealth-loaders-ai.html)
+### Hijacking Chrome's Network Tab to Debug an Electron App
+- **Published**: December 26, 2025
+- **Summary**: https://seg6.space/posts/debug-proxy-ffi/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46388418">https://n......
+- [Read more](https://seg6.space/posts/debug-proxy-ffi/)
 
-### Ask HN: Dentistry, Software Engineering and Health Informatics
-- **Published**: December 25, 2025
-- **Summary**: <p>I graduated from dental school, I never wanted to study dentistry but that's a story for another time, I studied web development for sometime, look...
-- [Read more](https://news.ycombinator.com/item?id=46386148)
+### I opened a bookshop. It was the best, worst thing I've ever done
+- **Published**: December 26, 2025
+- **Summary**: https://www.ft.com/content/cc77c2c9-3415-4b96-af76-65f04d761a85</a></p>
+<p>Comments URL: <a href="https://news......
+- [Read more](https://www.ft.com/content/cc77c2c9-3415-4b96-af76-65f04d761a85)
 
 ---
 
