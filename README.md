@@ -16,16 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Show HN: An authority gate for AI-generated customer communication
-- **Published**: December 26, 2025
-- **Summary**: <p>Hi HN,<p>As more teams let AI draft or send customer-facing emails (support, billing, renewals), I’ve been noticing a quiet failure mode:<p>AI-gene...
-- **Keywords**: failure
-- [Read more](https://authority.bhaviavelayudhan.com)
+### Large Causal Models from Large Language Models
+- **Published**: December 27, 2025
+- **Summary**: https://arxiv.org/abs/2512.07796</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46398315">https://news.ycombinator.co......
+- [Read more](https://arxiv.org/abs/2512.07796)
 
-### Trust Wallet Chrome Extension Breach Caused $7 Million Crypto Loss via Malicious Code
-- **Published**: December 26, 2025
-- **Summary**: Trust Wallet is urging users to update its Google Chrome extension to the latest version following what it described as a "security incident" that led...
-- [Read more](https://thehackernews.com/2025/12/trust-wallet-chrome-extension-bug.html)
+### We may never be able to tell if AI becomes conscious
+- **Published**: December 27, 2025
+- **Summary**: https://techxplore.com/news/2025-12-ai-conscious-philosopher.html</a></p>
+<p>Comments URL: <a href="https://......
+- [Read more](https://techxplore.com/news/2025-12-ai-conscious-philosopher.html)
 
 ---
 
