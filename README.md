@@ -16,18 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### 2026 resolution: if Mozilla tampers with "uBlock Origin", I'm giving it up
+### New MongoDB Flaw Lets Unauthenticated Attackers Read Uninitialized Memory
 - **Published**: December 27, 2025
-- **Summary**: 
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46399609">https://news.ycombinator.com/item?id=46399609</a></p>
-<p>Points: 1</p...
-- [Read more](https://news.ycombinator.com/item?id=46399609)
+- **Summary**: A high-severity security flaw has been disclosed in MongoDB that could allow unauthenticated users to read uninitialized heap memory.
+The vulnerabilit...
+- [Read more](https://thehackernews.com/2025/12/new-mongodb-flaw-lets-unauthenticated.html)
 
-### Show HN: RustX – Help me test/architect this new Rust-based scripting language
+### VP of Sales
 - **Published**: December 27, 2025
-- **Summary**: I made a scripting lang RustX (<a href="https://github.com/GrandpaEJx/RustX" rel="nofollow">https://github.com/GrandpaEJx/RustX</a>). It’s an experime...
-- [Read more](https://github.com/GrandpaEJx/RustX)
+- **Summary**: https://unicursaltalent.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46401398">https://news.ycombinator.com/item?i......
+- [Read more](https://unicursaltalent.com/)
 
 ---
 
