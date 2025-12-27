@@ -16,17 +16,18 @@
 
 ## 🚨 Tech Stories
 
-### Large Causal Models from Large Language Models
+### 2026 resolution: if Mozilla tampers with "uBlock Origin", I'm giving it up
 - **Published**: December 27, 2025
-- **Summary**: https://arxiv.org/abs/2512.07796</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46398315">https://news.ycombinator.co......
-- [Read more](https://arxiv.org/abs/2512.07796)
+- **Summary**: 
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46399609">https://news.ycombinator.com/item?id=46399609</a></p>
+<p>Points: 1</p...
+- [Read more](https://news.ycombinator.com/item?id=46399609)
 
-### We may never be able to tell if AI becomes conscious
+### Show HN: RustX – Help me test/architect this new Rust-based scripting language
 - **Published**: December 27, 2025
-- **Summary**: https://techxplore.com/news/2025-12-ai-conscious-philosopher.html</a></p>
-<p>Comments URL: <a href="https://......
-- [Read more](https://techxplore.com/news/2025-12-ai-conscious-philosopher.html)
+- **Summary**: I made a scripting lang RustX (<a href="https://github.com/GrandpaEJx/RustX" rel="nofollow">https://github.com/GrandpaEJx/RustX</a>). It’s an experime...
+- [Read more](https://github.com/GrandpaEJx/RustX)
 
 ---
 
