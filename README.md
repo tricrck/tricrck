@@ -16,17 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Dad's Fitness May Be Packaged and Passed Down in Sperm RNA
+### Fathers’ choices may be packaged and passed down in sperm RNA
 - **Published**: December 28, 2025
-- **Summary**: https://www.quantamagazine.org/how-dads-fitness-may-be-packaged-and-pas......
-- **Keywords**: down, down
+- **Summary**: ......
+- **Keywords**: down
 - [Read more](https://www.quantamagazine.org/how-dads-fitness-may-be-packaged-and-passed-down-in-sperm-rna-20251222/)
 
-### Make Your iPhone Speak the Time
+### For Better or for Worse, the Overload
 - **Published**: December 28, 2025
-- **Summary**: https://swordandsignals.com/2025/12/27/announce-time-on-demand.html</a></p>
-<p>Comments URL: <a href="http......
-- [Read more](https://swordandsignals.com/2025/12/27/announce-time-on-demand.html)
+- **Summary**: https://consteval.ca/2024/07/25/overload/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46408920">https://n......
+- [Read more](https://consteval.ca/2024/07/25/overload/)
 
 ---
 
