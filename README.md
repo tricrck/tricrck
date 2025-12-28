@@ -16,17 +16,18 @@
 
 ## 🚨 Tech Stories
 
-### DEC – Glimpse of the Future, 1994 [video]
+### Snow-capped Mount Etna erupts as skiers glide down slopes
 - **Published**: December 28, 2025
-- **Summary**: https://www.youtube.com/watch?v=-1l6aBgX5UY</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46410631">https......
-- [Read more](https://www.youtube.com/watch?v=-1l6aBgX5UY)
+- **Summary**: https://www.bbc.com/news/videos/cz7n4px7e41o</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46413161">htt......
+- **Keywords**: down
+- [Read more](https://www.bbc.com/news/videos/cz7n4px7e41o)
 
-### Show HN: ClearAudio – Isolate sounds from audio using text prompts
+### In defense of starting with bloatware: my journey from Next.js to syscalls
 - **Published**: December 28, 2025
-- **Summary**: https://www.clearaudio.app</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46410572">https://news.ycombinator.com/item?id=46......
-- [Read more](https://www.clearaudio.app)
+- **Summary**: https://www.danielfalbo.com/weblog/bloatware-to-syscalls</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.c......
+- [Read more](https://www.danielfalbo.com/weblog/bloatware-to-syscalls)
 
 ---
 
