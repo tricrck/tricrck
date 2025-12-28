@@ -16,17 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Fathers’ choices may be packaged and passed down in sperm RNA
+### DEC – Glimpse of the Future, 1994 [video]
 - **Published**: December 28, 2025
-- **Summary**: ......
-- **Keywords**: down
-- [Read more](https://www.quantamagazine.org/how-dads-fitness-may-be-packaged-and-passed-down-in-sperm-rna-20251222/)
+- **Summary**: https://www.youtube.com/watch?v=-1l6aBgX5UY</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46410631">https......
+- [Read more](https://www.youtube.com/watch?v=-1l6aBgX5UY)
 
-### For Better or for Worse, the Overload
+### Show HN: ClearAudio – Isolate sounds from audio using text prompts
 - **Published**: December 28, 2025
-- **Summary**: https://consteval.ca/2024/07/25/overload/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46408920">https://n......
-- [Read more](https://consteval.ca/2024/07/25/overload/)
+- **Summary**: https://www.clearaudio.app</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46410572">https://news.ycombinator.com/item?id=46......
+- [Read more](https://www.clearaudio.app)
 
 ---
 
