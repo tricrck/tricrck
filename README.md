@@ -16,16 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Janet Jackson had the power to crash laptop computers (2022)
-- **Published**: December 27, 2025
-- **Summary**: ......
-- **Keywords**: crash
-- [Read more](https://devblogs.microsoft.com/oldnewthing/20220816-00/?p=106994)
+### Dad's Fitness May Be Packaged and Passed Down in Sperm RNA
+- **Published**: December 28, 2025
+- **Summary**: https://www.quantamagazine.org/how-dads-fitness-may-be-packaged-and-pas......
+- **Keywords**: down, down
+- [Read more](https://www.quantamagazine.org/how-dads-fitness-may-be-packaged-and-passed-down-in-sperm-rna-20251222/)
 
-### Tesla's Former AI Director Karpathy Sends 'Open Letter' to Software Engineers
-- **Published**: December 27, 2025
-- **Summary**: Article URL: <a href="https://timesofindia.indiatimes.com/technology/tech-news/teslas-former-ai-director-andrej-karpathy-sends-open-letter-to-software...
-- [Read more](https://timesofindia.indiatimes.com/technology/tech-news/teslas-former-ai-director-andrej-karpathy-sends-open-letter-to-software-engineers-i-never-felt-this-much-behind-as-a-programmer-profession-is/articleshow/126202051.cms)
+### Make Your iPhone Speak the Time
+- **Published**: December 28, 2025
+- **Summary**: https://swordandsignals.com/2025/12/27/announce-time-on-demand.html</a></p>
+<p>Comments URL: <a href="http......
+- [Read more](https://swordandsignals.com/2025/12/27/announce-time-on-demand.html)
 
 ---
 
