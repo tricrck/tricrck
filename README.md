@@ -16,17 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Stepping down as Mockito maintainer after 10 years
-- **Published**: December 28, 2025
-- **Summary**: ......
-- **Keywords**: down
-- [Read more](https://github.com/mockito/mockito/issues/3777)
-
-### NextDNS is my new favourite DNS service · Stan's blog
+### What I learned after collecting large-scale US business data
 - **Published**: December 29, 2025
-- **Summary**: https://stanislas.blog/2020/04/nextdns/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46416489">https://news.......
-- [Read more](https://stanislas.blog/2020/04/nextdns/)
+- **Summary**: https://rangelead.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46417981">https://news.ycombinator.com/item?id=46417981<...
+- [Read more](https://rangelead.com/)
+
+### Multidimensional Analysis: Algebras and Systems for Science and Engineering
+- **Published**: December 29, 2025
+- **Summary**: https://www.georgehart.com/research/multanal.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=464......
+- [Read more](https://www.georgehart.com/research/multanal.html)
 
 ---
 
