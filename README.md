@@ -16,17 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### What I learned after collecting large-scale US business data
+### MongoDB Vulnerability CVE-2025-14847 Under Active Exploitation Worldwide
 - **Published**: December 29, 2025
-- **Summary**: https://rangelead.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46417981">https://news.ycombinator.com/item?id=46417981<...
-- [Read more](https://rangelead.com/)
+- **Summary**: A recently disclosed security vulnerability in MongoDB has come under active exploitation in the wild, with over 87,000 potentially susceptible instan...
+- [Read more](https://thehackernews.com/2025/12/mongodb-vulnerability-cve-2025-14847.html)
 
-### Multidimensional Analysis: Algebras and Systems for Science and Engineering
+### 27 Malicious npm Packages Used as Phishing Infrastructure to Steal Login Credentials
 - **Published**: December 29, 2025
-- **Summary**: https://www.georgehart.com/research/multanal.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=464......
-- [Read more](https://www.georgehart.com/research/multanal.html)
+- **Summary**: Cybersecurity researchers have disclosed details of what has been described as a "sustained and targeted" spear-phishing campaign that has published o...
+- [Read more](https://thehackernews.com/2025/12/27-malicious-npm-packages-used-as.html)
 
 ---
 
