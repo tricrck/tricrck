@@ -16,18 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Snow-capped Mount Etna erupts as skiers glide down slopes
+### Stepping down as Mockito maintainer after 10 years
 - **Published**: December 28, 2025
-- **Summary**: https://www.bbc.com/news/videos/cz7n4px7e41o</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46413161">htt......
+- **Summary**: ......
 - **Keywords**: down
-- [Read more](https://www.bbc.com/news/videos/cz7n4px7e41o)
+- [Read more](https://github.com/mockito/mockito/issues/3777)
 
-### In defense of starting with bloatware: my journey from Next.js to syscalls
-- **Published**: December 28, 2025
-- **Summary**: https://www.danielfalbo.com/weblog/bloatware-to-syscalls</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.c......
-- [Read more](https://www.danielfalbo.com/weblog/bloatware-to-syscalls)
+### NextDNS is my new favourite DNS service · Stan's blog
+- **Published**: December 29, 2025
+- **Summary**: https://stanislas.blog/2020/04/nextdns/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46416489">https://news.......
+- [Read more](https://stanislas.blog/2020/04/nextdns/)
 
 ---
 
