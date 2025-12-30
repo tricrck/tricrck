@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Show HN: DevBox – An execution contract to end AI agent instruction fatigue
+### Silver Fox Targets Indian Users With Tax-Themed Emails Delivering ValleyRAT Malware
 - **Published**: December 30, 2025
-- **Summary**: https://github.com/danieljhkim/DevBox</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46430188">https://news.ycom......
-- [Read more](https://github.com/danieljhkim/DevBox)
+- **Summary**: The threat actor known as Silver Fox has turned its focus to India, using income tax-themed lures in phishing campaigns to distribute a modular remote...
+- [Read more](https://thehackernews.com/2025/12/silver-fox-targets-indian-users-with.html)
 
-### Ex-WSJ reporter who exposed Theranos fraud sues AI giants
+### How to Integrate AI into Modern SOC Workflows
 - **Published**: December 30, 2025
-- **Summary**: https://nypost.com/2025/12/24/business/ex-wsj-repor......
-- [Read more](https://nypost.com/2025/12/24/business/ex-wsj-reporter-who-exposed-theranos-fraud-sues-ai-giants-over-alleged-book-piracy/)
+- **Summary**: Artificial intelligence (AI) is making its way into security operations quickly, but many practitioners are still struggling to turn early experimenta...
+- [Read more](https://thehackernews.com/2025/12/how-to-integrate-ai-into-modern-soc.html)
 
 ---
 
