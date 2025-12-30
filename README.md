@@ -16,16 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Tesla's 4680 battery supply chain collapses as partner writes down deal by 99%
-- **Published**: December 29, 2025
-- **Summary**: ......
-- **Keywords**: down
-- [Read more](https://electrek.co/2025/12/29/tesla-4680-battery-supply-chain-collapses-partner-writes-down-dea/)
+### Inline RBS Type Hints for a Rubygem Codebase
+- **Published**: December 30, 2025
+- **Summary**: https://yob.id.au/2025/12/30/inline-rbs-comments.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/ite......
+- [Read more](https://yob.id.au/2025/12/30/inline-rbs-comments.html)
 
-### ⚡ Weekly Recap: MongoDB Attacks, Wallet Breaches, Android Spyware, Insider Crime & More
-- **Published**: December 29, 2025
-- **Summary**: Last week’s cyber news in 2025 was not about one big incident. It was about many small cracks opening at the same time. Tools people trust every day b...
-- [Read more](https://thehackernews.com/2025/12/weekly-recap-mongodb-attacks-wallet.html)
+### Velox is a port of Tauri to Swift
+- **Published**: December 30, 2025
+- **Summary**: https://github.com/velox-apps/velox</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46428473">https://news.ycombina......
+- [Read more](https://github.com/velox-apps/velox)
 
 ---
 
