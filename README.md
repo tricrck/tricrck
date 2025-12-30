@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Inline RBS Type Hints for a Rubygem Codebase
+### Show HN: DevBox – An execution contract to end AI agent instruction fatigue
 - **Published**: December 30, 2025
-- **Summary**: https://yob.id.au/2025/12/30/inline-rbs-comments.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/ite......
-- [Read more](https://yob.id.au/2025/12/30/inline-rbs-comments.html)
+- **Summary**: https://github.com/danieljhkim/DevBox</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46430188">https://news.ycom......
+- [Read more](https://github.com/danieljhkim/DevBox)
 
-### Velox is a port of Tauri to Swift
+### Ex-WSJ reporter who exposed Theranos fraud sues AI giants
 - **Published**: December 30, 2025
-- **Summary**: https://github.com/velox-apps/velox</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46428473">https://news.ycombina......
-- [Read more](https://github.com/velox-apps/velox)
+- **Summary**: https://nypost.com/2025/12/24/business/ex-wsj-repor......
+- [Read more](https://nypost.com/2025/12/24/business/ex-wsj-reporter-who-exposed-theranos-fraud-sues-ai-giants-over-alleged-book-piracy/)
 
 ---
 
