@@ -16,15 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Silver Fox Targets Indian Users With Tax-Themed Emails Delivering ValleyRAT Malware
+### CSA Issues Alert on Critical SmarterMail Bug Allowing Remote Code Execution
 - **Published**: December 30, 2025
-- **Summary**: The threat actor known as Silver Fox has turned its focus to India, using income tax-themed lures in phishing campaigns to distribute a modular remote...
-- [Read more](https://thehackernews.com/2025/12/silver-fox-targets-indian-users-with.html)
+- **Summary**: The Cyber Security Agency of Singapore (CSA) has issued a bulletin warning of a maximum-severity security flaw in SmarterTools SmarterMail email softw...
+- **Keywords**: bug
+- [Read more](https://thehackernews.com/2025/12/csa-issues-alert-on-critical.html)
 
-### How to Integrate AI into Modern SOC Workflows
+### Prediction markets barely make money; sportsbooks make money
 - **Published**: December 30, 2025
-- **Summary**: Artificial intelligence (AI) is making its way into security operations quickly, but many practitioners are still struggling to turn early experimenta...
-- [Read more](https://thehackernews.com/2025/12/how-to-integrate-ai-into-modern-soc.html)
+- **Summary**: https://www.ft.com/content/1ac03f57-bd5d-4196-85ff-4bd96dc69e0d</a></p>
+<p>Comments URL: <a href="https://news......
+- [Read more](https://www.ft.com/content/1ac03f57-bd5d-4196-85ff-4bd96dc69e0d)
 
 ---
 
