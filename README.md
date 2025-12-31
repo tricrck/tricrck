@@ -16,16 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### CSA Issues Alert on Critical SmarterMail Bug Allowing Remote Code Execution
-- **Published**: December 30, 2025
-- **Summary**: The Cyber Security Agency of Singapore (CSA) has issued a bulletin warning of a maximum-severity security flaw in SmarterTools SmarterMail email softw...
-- **Keywords**: bug
-- [Read more](https://thehackernews.com/2025/12/csa-issues-alert-on-critical.html)
-
-### U.S. Treasury Lifts Sanctions on Three Individuals Linked to Intellexa and Predator Spyware
+### Nvidia Groq Update: Everyone Gets Rich, Patent Warfare Begins
 - **Published**: December 31, 2025
-- **Summary**: The U.S. Department of the Treasury's Office of Foreign Assets Control (OFAC) on Tuesday removed three individuals linked to the Intellexa Consortium,...
-- [Read more](https://thehackernews.com/2025/12/us-treasury-lifts-sanctions-on-three.html)
+- **Summary**: https://ossa-ma.github.io/blog/groq-update</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46443619">https:/......
+- [Read more](https://ossa-ma.github.io/blog/groq-update)
+
+### Show HN: LoureiroGate – Differentiable Physics Guardrails for PyTorch
+- **Published**: December 31, 2025
+- **Summary**: https://github.com/Ashioya-ui/loureiro-gate</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46443586">https......
+- [Read more](https://github.com/Ashioya-ui/loureiro-gate)
 
 ---
 
