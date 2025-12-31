@@ -16,17 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Nvidia Groq Update: Everyone Gets Rich, Patent Warfare Begins
+### IBM Warns of Critical API Connect Bug Allowing Remote Authentication Bypass
 - **Published**: December 31, 2025
-- **Summary**: https://ossa-ma.github.io/blog/groq-update</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46443619">https:/......
-- [Read more](https://ossa-ma.github.io/blog/groq-update)
+- **Summary**: IBM has disclosed details of a critical security flaw in API Connect that could allow attackers to gain remote access to the application.
+The vulnerab...
+- **Keywords**: bug
+- [Read more](https://thehackernews.com/2025/12/ibm-warns-of-critical-api-connect-bug.html)
 
-### Show HN: LoureiroGate – Differentiable Physics Guardrails for PyTorch
+### Trust Wallet Chrome Extension Hack Drains $8.5M via Shai-Hulud Supply Chain Attack
 - **Published**: December 31, 2025
-- **Summary**: https://github.com/Ashioya-ui/loureiro-gate</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46443586">https......
-- [Read more](https://github.com/Ashioya-ui/loureiro-gate)
+- **Summary**: Trust Wallet on Tuesday revealed that the second iteration of the Shai-Hulud (aka Sha1-Hulud) supply chain outbreak in November 2025 was likely respon...
+- [Read more](https://thehackernews.com/2025/12/trust-wallet-chrome-extension-hack.html)
 
 ---
 
