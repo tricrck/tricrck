@@ -16,17 +16,17 @@
 
 ## 🚨 Tech Stories
 
+### Investigating and fixing a nasty clone bug
+- **Published**: December 31, 2025
+- **Summary**: https://kobzol.github.io/rust/2025/12/30/investigating-and-fixing-a-nasty-clone-bug.h......
+- **Keywords**: bug, bug, bug
+- [Read more](https://kobzol.github.io/rust/2025/12/30/investigating-and-fixing-a-nasty-clone-bug.html)
+
 ### CSA Issues Alert on Critical SmarterMail Bug Allowing Remote Code Execution
 - **Published**: December 30, 2025
 - **Summary**: The Cyber Security Agency of Singapore (CSA) has issued a bulletin warning of a maximum-severity security flaw in SmarterTools SmarterMail email softw...
 - **Keywords**: bug
 - [Read more](https://thehackernews.com/2025/12/csa-issues-alert-on-critical.html)
-
-### Prediction markets barely make money; sportsbooks make money
-- **Published**: December 30, 2025
-- **Summary**: https://www.ft.com/content/1ac03f57-bd5d-4196-85ff-4bd96dc69e0d</a></p>
-<p>Comments URL: <a href="https://news......
-- [Read more](https://www.ft.com/content/1ac03f57-bd5d-4196-85ff-4bd96dc69e0d)
 
 ---
 
