@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Investigating and fixing a nasty clone bug
-- **Published**: December 31, 2025
-- **Summary**: https://kobzol.github.io/rust/2025/12/30/investigating-and-fixing-a-nasty-clone-bug.h......
-- **Keywords**: bug, bug, bug
-- [Read more](https://kobzol.github.io/rust/2025/12/30/investigating-and-fixing-a-nasty-clone-bug.html)
-
 ### CSA Issues Alert on Critical SmarterMail Bug Allowing Remote Code Execution
 - **Published**: December 30, 2025
 - **Summary**: The Cyber Security Agency of Singapore (CSA) has issued a bulletin warning of a maximum-severity security flaw in SmarterTools SmarterMail email softw...
 - **Keywords**: bug
 - [Read more](https://thehackernews.com/2025/12/csa-issues-alert-on-critical.html)
+
+### U.S. Treasury Lifts Sanctions on Three Individuals Linked to Intellexa and Predator Spyware
+- **Published**: December 31, 2025
+- **Summary**: The U.S. Department of the Treasury's Office of Foreign Assets Control (OFAC) on Tuesday removed three individuals linked to the Intellexa Consortium,...
+- [Read more](https://thehackernews.com/2025/12/us-treasury-lifts-sanctions-on-three.html)
 
 ---
 
