@@ -16,17 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### C#-Style Property in C++
+### 'College dropout' has become the most coveted startup founder credential
 - **Published**: January 01, 2026
-- **Summary**: https://vorbrodt.blog/2025/12/05/c-style-property-in-c/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com......
-- [Read more](https://vorbrodt.blog/2025/12/05/c-style-property-in-c/)
+- **Summary**: https://techcrunch.com/2025/12/31/college-dropout-has-become-the-mos......
+- [Read more](https://techcrunch.com/2025/12/31/college-dropout-has-become-the-most-coveted-startup-founder-credential/)
 
-### Show HN: A local-first financial auditor using IBM Granite, MCP, and SQLite
+### Taxation in a Strong AI World
 - **Published**: January 01, 2026
-- **Summary**: https://github.com/simplynd/expense-ai</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46450489">https://news.yc......
-- [Read more](https://github.com/simplynd/expense-ai)
+- **Summary**: https://marginalrevolution.com/marginalrevolution/2026/01/taxation-in-a-strong-ai......
+- [Read more](https://marginalrevolution.com/marginalrevolution/2026/01/taxation-in-a-strong-ai-world.html)
 
 ---
 
