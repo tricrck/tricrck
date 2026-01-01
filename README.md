@@ -16,17 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### IBM Warns of Critical API Connect Bug Allowing Remote Authentication Bypass
-- **Published**: December 31, 2025
-- **Summary**: IBM has disclosed details of a critical security flaw in API Connect that could allow attackers to gain remote access to the application.
-The vulnerab...
-- **Keywords**: bug
-- [Read more](https://thehackernews.com/2025/12/ibm-warns-of-critical-api-connect-bug.html)
+### C#-Style Property in C++
+- **Published**: January 01, 2026
+- **Summary**: https://vorbrodt.blog/2025/12/05/c-style-property-in-c/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com......
+- [Read more](https://vorbrodt.blog/2025/12/05/c-style-property-in-c/)
 
-### Trust Wallet Chrome Extension Hack Drains $8.5M via Shai-Hulud Supply Chain Attack
-- **Published**: December 31, 2025
-- **Summary**: Trust Wallet on Tuesday revealed that the second iteration of the Shai-Hulud (aka Sha1-Hulud) supply chain outbreak in November 2025 was likely respon...
-- [Read more](https://thehackernews.com/2025/12/trust-wallet-chrome-extension-hack.html)
+### Show HN: A local-first financial auditor using IBM Granite, MCP, and SQLite
+- **Published**: January 01, 2026
+- **Summary**: https://github.com/simplynd/expense-ai</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46450489">https://news.yc......
+- [Read more](https://github.com/simplynd/expense-ai)
 
 ---
 
