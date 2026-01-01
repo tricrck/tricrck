@@ -16,15 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### 'College dropout' has become the most coveted startup founder credential
+### Meta made scam ads harder to find instead of removing them
 - **Published**: January 01, 2026
-- **Summary**: https://techcrunch.com/2025/12/31/college-dropout-has-become-the-mos......
-- [Read more](https://techcrunch.com/2025/12/31/college-dropout-has-become-the-most-coveted-startup-founder-credential/)
+- **Summary**: https://sherwood.news/tech/rather-than-fully-cracking-down-on-scam-ads......
+- **Keywords**: down, down
+- [Read more](https://sherwood.news/tech/rather-than-fully-cracking-down-on-scam-ads-meta-worked-to-make-them-harder/)
 
-### Taxation in a Strong AI World
+### RondoDox Botnet Exploits Critical React2Shell Flaw to Hijack IoT Devices and Web Servers
 - **Published**: January 01, 2026
-- **Summary**: https://marginalrevolution.com/marginalrevolution/2026/01/taxation-in-a-strong-ai......
-- [Read more](https://marginalrevolution.com/marginalrevolution/2026/01/taxation-in-a-strong-ai-world.html)
+- **Summary**: Cybersecurity researchers have disclosed details of a persistent nine-month-long campaign that has targeted Internet of Things (IoT) devices and web a...
+- [Read more](https://thehackernews.com/2026/01/rondodox-botnet-exploits-critical.html)
 
 ---
 
