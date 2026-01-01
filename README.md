@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Meta made scam ads harder to find instead of removing them
+### ThreatsDay Bulletin: GhostAd Drain, macOS Attacks, Proxy Botnets, Cloud Exploits, and 12+ Stories
 - **Published**: January 01, 2026
-- **Summary**: https://sherwood.news/tech/rather-than-fully-cracking-down-on-scam-ads......
-- **Keywords**: down, down
-- [Read more](https://sherwood.news/tech/rather-than-fully-cracking-down-on-scam-ads-meta-worked-to-make-them-harder/)
+- **Summary**: The first ThreatsDay Bulletin of 2026 lands on a day that already feels symbolic — new year, new breaches, new tricks. If the past twelve months taugh...
+- [Read more](https://thehackernews.com/2026/01/threatsday-bulletin-ghostad-drain-macos.html)
 
-### RondoDox Botnet Exploits Critical React2Shell Flaw to Hijack IoT Devices and Web Servers
+### Solid State Volumetric Display
 - **Published**: January 01, 2026
-- **Summary**: Cybersecurity researchers have disclosed details of a persistent nine-month-long campaign that has targeted Internet of Things (IoT) devices and web a...
-- [Read more](https://thehackernews.com/2026/01/rondodox-botnet-exploits-critical.html)
+- **Summary**: https://mastodon.social/@ancientjames/115648797968721973</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.c......
+- [Read more](https://mastodon.social/@ancientjames/115648797968721973)
 
 ---
 
