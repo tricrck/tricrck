@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Baidu's AI Chip Unit Kunlunxin Plans Hong Kong Listing
+### The ROI Problem in Attack Surface Management
 - **Published**: January 02, 2026
-- **Summary**: https://www.wsj.com/business/baidus-ai-chip-unit-kunlunxin-plans-hong-kong-listing......
-- [Read more](https://www.wsj.com/business/baidus-ai-chip-unit-kunlunxin-plans-hong-kong-listing-8542b599)
+- **Summary**: Attack Surface Management (ASM) tools promise reduced risk. What they usually deliver is more information.&nbsp;
+Security teams deploy ASM, asset inve...
+- [Read more](https://thehackernews.com/2026/01/the-roi-problem-in-attack-surface.html)
 
-### Kraft Heinz Lost Its Lock on Mac and Cheese–and American Shoppers
+### Cybercriminals Abuse Google Cloud Email Feature in Multi-Stage Phishing Campaign
 - **Published**: January 02, 2026
-- **Summary**: https://www.wsj.com/business/retail/kraft-heinz-mac-cheese-split-ceo-dccc9217</a></p>
-<p>Comment......
-- [Read more](https://www.wsj.com/business/retail/kraft-heinz-mac-cheese-split-ceo-dccc9217)
+- **Summary**: Cybersecurity researchers have disclosed details of a phishing campaign that involves the attackers impersonating legitimate Google-generated messages...
+- [Read more](https://thehackernews.com/2026/01/cybercriminals-abuse-google-cloud-email.html)
 
 ---
 
