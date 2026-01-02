@@ -16,16 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### ThreatsDay Bulletin: GhostAd Drain, macOS Attacks, Proxy Botnets, Cloud Exploits, and 12+ Stories
-- **Published**: January 01, 2026
-- **Summary**: The first ThreatsDay Bulletin of 2026 lands on a day that already feels symbolic — new year, new breaches, new tricks. If the past twelve months taugh...
-- [Read more](https://thehackernews.com/2026/01/threatsday-bulletin-ghostad-drain-macos.html)
+### RyOS
+- **Published**: January 02, 2026
+- **Summary**: https://github.com/ryokun6/ryos</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46460458">https://news.ycombinator.com/......
+- [Read more](https://github.com/ryokun6/ryos)
 
-### Solid State Volumetric Display
-- **Published**: January 01, 2026
-- **Summary**: https://mastodon.social/@ancientjames/115648797968721973</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.c......
-- [Read more](https://mastodon.social/@ancientjames/115648797968721973)
+### Happy Public Domain Day 2026
+- **Published**: January 02, 2026
+- **Summary**: https://publicdomainreview.org/blog/2026/01/public-domain-day-2026/</a></p>
+<p>Comments URL: <a href="http......
+- [Read more](https://publicdomainreview.org/blog/2026/01/public-domain-day-2026/)
 
 ---
 
