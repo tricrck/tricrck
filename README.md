@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### RyOS
+### Baidu's AI Chip Unit Kunlunxin Plans Hong Kong Listing
 - **Published**: January 02, 2026
-- **Summary**: https://github.com/ryokun6/ryos</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46460458">https://news.ycombinator.com/......
-- [Read more](https://github.com/ryokun6/ryos)
+- **Summary**: https://www.wsj.com/business/baidus-ai-chip-unit-kunlunxin-plans-hong-kong-listing......
+- [Read more](https://www.wsj.com/business/baidus-ai-chip-unit-kunlunxin-plans-hong-kong-listing-8542b599)
 
-### Happy Public Domain Day 2026
+### Kraft Heinz Lost Its Lock on Mac and Cheese–and American Shoppers
 - **Published**: January 02, 2026
-- **Summary**: https://publicdomainreview.org/blog/2026/01/public-domain-day-2026/</a></p>
-<p>Comments URL: <a href="http......
-- [Read more](https://publicdomainreview.org/blog/2026/01/public-domain-day-2026/)
+- **Summary**: https://www.wsj.com/business/retail/kraft-heinz-mac-cheese-split-ceo-dccc9217</a></p>
+<p>Comment......
+- [Read more](https://www.wsj.com/business/retail/kraft-heinz-mac-cheese-split-ceo-dccc9217)
 
 ---
 
