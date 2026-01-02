@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### The ROI Problem in Attack Surface Management
+### Transparent Tribe Launches New RAT Attacks Against Indian Government and Academia
 - **Published**: January 02, 2026
-- **Summary**: Attack Surface Management (ASM) tools promise reduced risk. What they usually deliver is more information.&nbsp;
-Security teams deploy ASM, asset inve...
-- [Read more](https://thehackernews.com/2026/01/the-roi-problem-in-attack-surface.html)
+- **Summary**: The threat actor known as Transparent Tribe has been attributed to a fresh set of attacks targeting Indian governmental, academic, and strategic entit...
+- [Read more](https://thehackernews.com/2026/01/transparent-tribe-launches-new-rat.html)
 
-### Cybercriminals Abuse Google Cloud Email Feature in Multi-Stage Phishing Campaign
+### The Handyman Principle: Why Your AI Forgets Everything
 - **Published**: January 02, 2026
-- **Summary**: Cybersecurity researchers have disclosed details of a phishing campaign that involves the attackers impersonating legitimate Google-generated messages...
-- [Read more](https://thehackernews.com/2026/01/cybercriminals-abuse-google-cloud-email.html)
+- **Summary**: https://vexjoy.com/posts/the-handyman-principle-why-your-ai-forgets-everything/</a></p>
+<p>Com......
+- [Read more](https://vexjoy.com/posts/the-handyman-principle-why-your-ai-forgets-everything/)
 
 ---
 
