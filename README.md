@@ -16,17 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Releasing Fjall 3.0, LSM-tree embeddable key-value storage engine
+### Jamal Bryant: The Sound of Covenant This ain't about the dress
 - **Published**: January 03, 2026
-- **Summary**: https://fjall-rs.github.io/post/fjall-3/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46475840">https://new......
-- [Read more](https://fjall-rs.github.io/post/fjall-3/)
+- **Summary**: https://blacklistedsaint.substack.com/p/jamal-bryant-the-sound-of-covenant</a></p>
+<p>Comments URL:......
+- [Read more](https://blacklistedsaint.substack.com/p/jamal-bryant-the-sound-of-covenant)
 
-### The fear of not growing due to AI
+### Plannotator
 - **Published**: January 03, 2026
-- **Summary**: https://www.raulcano.dev/posts/the-fear-of-not-growing-due-to-ai</a></p>
-<p>Comments URL: <a href="https://ne......
-- [Read more](https://www.raulcano.dev/posts/the-fear-of-not-growing-due-to-ai)
+- **Summary**: https://backnotprop.com/blog/plannotator/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46479789">https://n......
+- [Read more](https://backnotprop.com/blog/plannotator/)
 
 ---
 
