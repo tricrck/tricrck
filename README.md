@@ -16,16 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Transparent Tribe Launches New RAT Attacks Against Indian Government and Academia
-- **Published**: January 02, 2026
-- **Summary**: The threat actor known as Transparent Tribe has been attributed to a fresh set of attacks targeting Indian governmental, academic, and strategic entit...
-- [Read more](https://thehackernews.com/2026/01/transparent-tribe-launches-new-rat.html)
+### 2026 Delights and Not-So-Delightfuls
+- **Published**: January 03, 2026
+- **Summary**: https://jakesimonds.leaflet.pub/3mbi4mcd3uk2v</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46471816">h......
+- [Read more](https://jakesimonds.leaflet.pub/3mbi4mcd3uk2v)
 
-### The Handyman Principle: Why Your AI Forgets Everything
-- **Published**: January 02, 2026
-- **Summary**: https://vexjoy.com/posts/the-handyman-principle-why-your-ai-forgets-everything/</a></p>
-<p>Com......
-- [Read more](https://vexjoy.com/posts/the-handyman-principle-why-your-ai-forgets-everything/)
+### Einstein Probe detects an X-ray flare from nearby star
+- **Published**: January 03, 2026
+- **Summary**: https://phys.org/news/2025-12-einstein-probe-ray-flare-nearby.html</a></p>
+<p>Comments URL: <a href="https:......
+- [Read more](https://phys.org/news/2025-12-einstein-probe-ray-flare-nearby.html)
 
 ---
 
