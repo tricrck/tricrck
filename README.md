@@ -16,17 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Brainradio.fm
+### Releasing Fjall 3.0, LSM-tree embeddable key-value storage engine
 - **Published**: January 03, 2026
-- **Summary**: https://brainradio.fm/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46473317">https://news.ycombinator.com/item?id=46473317<...
-- [Read more](https://brainradio.fm/)
+- **Summary**: https://fjall-rs.github.io/post/fjall-3/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46475840">https://new......
+- [Read more](https://fjall-rs.github.io/post/fjall-3/)
 
-### Show HN: Underserved Directory Niches (Hand-picked for 2026)
+### The fear of not growing due to AI
 - **Published**: January 03, 2026
-- **Summary**: https://directoryideas.ai/underserved-niches</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46473270">htt......
-- [Read more](https://directoryideas.ai/underserved-niches)
+- **Summary**: https://www.raulcano.dev/posts/the-fear-of-not-growing-due-to-ai</a></p>
+<p>Comments URL: <a href="https://ne......
+- [Read more](https://www.raulcano.dev/posts/the-fear-of-not-growing-due-to-ai)
 
 ---
 
