@@ -16,17 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### 2026 Delights and Not-So-Delightfuls
+### Brainradio.fm
 - **Published**: January 03, 2026
-- **Summary**: https://jakesimonds.leaflet.pub/3mbi4mcd3uk2v</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46471816">h......
-- [Read more](https://jakesimonds.leaflet.pub/3mbi4mcd3uk2v)
+- **Summary**: https://brainradio.fm/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46473317">https://news.ycombinator.com/item?id=46473317<...
+- [Read more](https://brainradio.fm/)
 
-### Einstein Probe detects an X-ray flare from nearby star
+### Show HN: Underserved Directory Niches (Hand-picked for 2026)
 - **Published**: January 03, 2026
-- **Summary**: https://phys.org/news/2025-12-einstein-probe-ray-flare-nearby.html</a></p>
-<p>Comments URL: <a href="https:......
-- [Read more](https://phys.org/news/2025-12-einstein-probe-ray-flare-nearby.html)
+- **Summary**: https://directoryideas.ai/underserved-niches</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46473270">htt......
+- [Read more](https://directoryideas.ai/underserved-niches)
 
 ---
 
