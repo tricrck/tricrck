@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Jamal Bryant: The Sound of Covenant This ain't about the dress
-- **Published**: January 03, 2026
-- **Summary**: https://blacklistedsaint.substack.com/p/jamal-bryant-the-sound-of-covenant</a></p>
-<p>Comments URL:......
-- [Read more](https://blacklistedsaint.substack.com/p/jamal-bryant-the-sound-of-covenant)
+### KDE Plasma will no longer sleep when your controller is plugged in
+- **Published**: January 04, 2026
+- **Summary**: https://www.neowin.net/news/good-news-for-gamers-kde-plasm......
+- [Read more](https://www.neowin.net/news/good-news-for-gamers-kde-plasma-will-no-longer-sleep-when-your-controller-is-plugged-in)
 
-### Plannotator
-- **Published**: January 03, 2026
-- **Summary**: https://backnotprop.com/blog/plannotator/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46479789">https://n......
-- [Read more](https://backnotprop.com/blog/plannotator/)
+### Show HN: Open-source alternative to Cloudflare's Sandbox SDK
+- **Published**: January 04, 2026
+- **Summary**: https://github.com/system32-ai/sandboxed</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46483906">https://new......
+- [Read more](https://github.com/system32-ai/sandboxed)
 
 ---
 
