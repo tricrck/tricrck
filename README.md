@@ -16,17 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Using fewer syllables to express numbers
+### Nightshade: Make images unsuitable for model training
 - **Published**: January 04, 2026
-- **Summary**: https://thegraycuber.github.io/fast_numbers</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46485466">https......
-- [Read more](https://thegraycuber.github.io/fast_numbers)
+- **Summary**: https://nightshade.cs.uchicago.edu/whatis.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46487342"......
+- [Read more](https://nightshade.cs.uchicago.edu/whatis.html)
 
-### C++ but it has Python's dirs()
+### Welcome to Wikifunctions
 - **Published**: January 04, 2026
-- **Summary**: https://github.com/maya-undefined/CPP_BUT_WITH_PYTHONS_DIRS</a></p>
-<p>Comments URL: <a href="https://news.ycombin......
-- [Read more](https://github.com/maya-undefined/CPP_BUT_WITH_PYTHONS_DIRS)
+- **Summary**: https://www.wikifunctions.org/wiki/Wikifunctions:Main_Page</a></p>
+<p>Comments URL: <a href="https://news.ycombinat......
+- [Read more](https://www.wikifunctions.org/wiki/Wikifunctions:Main_Page)
 
 ---
 
