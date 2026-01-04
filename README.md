@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Nightshade: Make images unsuitable for model training
+### AI Contributions to Erdős Problems
 - **Published**: January 04, 2026
-- **Summary**: https://nightshade.cs.uchicago.edu/whatis.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46487342"......
-- [Read more](https://nightshade.cs.uchicago.edu/whatis.html)
+- **Summary**: https://github.com/teorth/erdosproblems/wiki/AI-contributions-to-Erd%C5%91s-problems</a><......
+- [Read more](https://github.com/teorth/erdosproblems/wiki/AI-contributions-to-Erd%C5%91s-problems)
 
-### Welcome to Wikifunctions
+### Social Invisibility: Ostracism: a toxic form of exclusion
 - **Published**: January 04, 2026
-- **Summary**: https://www.wikifunctions.org/wiki/Wikifunctions:Main_Page</a></p>
-<p>Comments URL: <a href="https://news.ycombinat......
-- [Read more](https://www.wikifunctions.org/wiki/Wikifunctions:Main_Page)
+- **Summary**: https://www.kommunikationsliebe.org/en/post/social-ostracism/</a></p>
+<p>Comments URL: <a href="https://news.yco......
+- [Read more](https://www.kommunikationsliebe.org/en/post/social-ostracism/)
 
 ---
 
