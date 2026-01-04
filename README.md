@@ -16,16 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### KDE Plasma will no longer sleep when your controller is plugged in
+### Using fewer syllables to express numbers
 - **Published**: January 04, 2026
-- **Summary**: https://www.neowin.net/news/good-news-for-gamers-kde-plasm......
-- [Read more](https://www.neowin.net/news/good-news-for-gamers-kde-plasma-will-no-longer-sleep-when-your-controller-is-plugged-in)
+- **Summary**: https://thegraycuber.github.io/fast_numbers</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46485466">https......
+- [Read more](https://thegraycuber.github.io/fast_numbers)
 
-### Show HN: Open-source alternative to Cloudflare's Sandbox SDK
+### C++ but it has Python's dirs()
 - **Published**: January 04, 2026
-- **Summary**: https://github.com/system32-ai/sandboxed</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46483906">https://new......
-- [Read more](https://github.com/system32-ai/sandboxed)
+- **Summary**: https://github.com/maya-undefined/CPP_BUT_WITH_PYTHONS_DIRS</a></p>
+<p>Comments URL: <a href="https://news.ycombin......
+- [Read more](https://github.com/maya-undefined/CPP_BUT_WITH_PYTHONS_DIRS)
 
 ---
 
