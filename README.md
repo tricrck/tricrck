@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### The Intelligent Universe: AI, ET, and the Emerging Mind of the Cosmos
+### The Closed-Loop Manifesto
 - **Published**: January 05, 2026
-- **Summary**: https://www.setileague.org/reviews/intellig.htm</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4649450......
-- [Read more](https://www.setileague.org/reviews/intellig.htm)
+- **Summary**: https://jakefeala.substack.com/p/the-closed-loop-manifesto</a></p>
+<p>Comments URL: <a href="https://news.ycombinat......
+- [Read more](https://jakefeala.substack.com/p/the-closed-loop-manifesto)
 
-### Physics of Language Models: How to Build Versatile Pretrain Playgrounds [video]
+### Show HN: Blimp – AI-Native Productivity Suite to Unify Your Tools
 - **Published**: January 05, 2026
-- **Summary**: https://www.youtube.com/watch?v=x3G8knjPDbM</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46494489">https......
-- [Read more](https://www.youtube.com/watch?v=x3G8knjPDbM)
+- **Summary**: <p>Hey HN, I'm the solo founder behind Blimp (getblimpy.cloud), an AI-native productivity suite I built to solve the pain of juggling multiple apps li...
+- [Read more](https://getblimpy.cloud)
 
 ---
 
