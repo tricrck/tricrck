@@ -16,16 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### The Closed-Loop Manifesto
+### The State of Cybersecurity in 2025: Key Segments, Insights, and Innovations
 - **Published**: January 05, 2026
-- **Summary**: https://jakefeala.substack.com/p/the-closed-loop-manifesto</a></p>
-<p>Comments URL: <a href="https://news.ycombinat......
-- [Read more](https://jakefeala.substack.com/p/the-closed-loop-manifesto)
+- **Summary**: Featuring:
 
-### Show HN: Blimp – AI-Native Productivity Suite to Unify Your Tools
+Cybersecurity is being reshaped by forces that extend beyond individual threats or tools. As organizations operate across cloud infrastruc...
+- [Read more](https://thehackernews.com/2026/01/the-state-of-cybersecurity-in-2025key.html)
+
+### Bitfinex Hack Convict Ilya Lichtenstein Released Early Under U.S. First Step Act
 - **Published**: January 05, 2026
-- **Summary**: <p>Hey HN, I'm the solo founder behind Blimp (getblimpy.cloud), an AI-native productivity suite I built to solve the pain of juggling multiple apps li...
-- [Read more](https://getblimpy.cloud)
+- **Summary**: Ilya Lichtenstein, who was sentenced to prison last year for money laundering charges in connection with his role in the massive hack of cryptocurrenc...
+- [Read more](https://thehackernews.com/2026/01/bitfinex-hack-convict-ilya-lichtenstein.html)
 
 ---
 
