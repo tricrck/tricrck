@@ -16,17 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### The State of Cybersecurity in 2025: Key Segments, Insights, and Innovations
+### Russia-Aligned Hackers Abuse Viber to Target Ukrainian Military and Government
 - **Published**: January 05, 2026
-- **Summary**: Featuring:
+- **Summary**: The Russia-aligned threat actor known as UAC-0184 has been observed targeting Ukrainian military and government entities by leveraging the Viber messa...
+- [Read more](https://thehackernews.com/2026/01/russia-aligned-hackers-abuse-viber-to.html)
 
-Cybersecurity is being reshaped by forces that extend beyond individual threats or tools. As organizations operate across cloud infrastruc...
-- [Read more](https://thehackernews.com/2026/01/the-state-of-cybersecurity-in-2025key.html)
-
-### Bitfinex Hack Convict Ilya Lichtenstein Released Early Under U.S. First Step Act
+### Kimwolf Android Botnet Infects Over 2 Million Devices via Exposed ADB and Proxy Networks
 - **Published**: January 05, 2026
-- **Summary**: Ilya Lichtenstein, who was sentenced to prison last year for money laundering charges in connection with his role in the massive hack of cryptocurrenc...
-- [Read more](https://thehackernews.com/2026/01/bitfinex-hack-convict-ilya-lichtenstein.html)
+- **Summary**: The botnet known as Kimwolf has infected more than 2 million Android devices by tunneling through residential proxy networks, according to findings fr...
+- [Read more](https://thehackernews.com/2026/01/kimwolf-android-botnet-infects-over-2.html)
 
 ---
 
