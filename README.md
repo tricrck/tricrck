@@ -16,16 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### AI Contributions to Erdős Problems
-- **Published**: January 04, 2026
-- **Summary**: https://github.com/teorth/erdosproblems/wiki/AI-contributions-to-Erd%C5%91s-problems</a><......
-- [Read more](https://github.com/teorth/erdosproblems/wiki/AI-contributions-to-Erd%C5%91s-problems)
+### The Intelligent Universe: AI, ET, and the Emerging Mind of the Cosmos
+- **Published**: January 05, 2026
+- **Summary**: https://www.setileague.org/reviews/intellig.htm</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4649450......
+- [Read more](https://www.setileague.org/reviews/intellig.htm)
 
-### Social Invisibility: Ostracism: a toxic form of exclusion
-- **Published**: January 04, 2026
-- **Summary**: https://www.kommunikationsliebe.org/en/post/social-ostracism/</a></p>
-<p>Comments URL: <a href="https://news.yco......
-- [Read more](https://www.kommunikationsliebe.org/en/post/social-ostracism/)
+### Physics of Language Models: How to Build Versatile Pretrain Playgrounds [video]
+- **Published**: January 05, 2026
+- **Summary**: https://www.youtube.com/watch?v=x3G8knjPDbM</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46494489">https......
+- [Read more](https://www.youtube.com/watch?v=x3G8knjPDbM)
 
 ---
 
