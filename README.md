@@ -16,16 +16,18 @@
 
 ## 🚨 Tech Stories
 
-### New n8n Vulnerability (9.9 CVSS) Lets Authenticated Users Execute System Commands
+### Fake Booking Emails Redirect Hotel Staff to Fake BSoD Pages Delivering DCRat
 - **Published**: January 06, 2026
-- **Summary**: A new critical security vulnerability has been disclosed in n8n, an open-source workflow automation platform, that could enable an authenticated attac...
-- [Read more](https://thehackernews.com/2026/01/new-n8n-vulnerability-99-cvss-lets.html)
+- **Summary**: Source: Securonix
+Cybersecurity researchers have disclosed details of a new campaign dubbed PHALT#BLYX that has leveraged ClickFix-style lures to disp...
+- [Read more](https://thehackernews.com/2026/01/fake-booking-emails-redirect-hotel.html)
 
-### Show HN: Doloris – A distributed system in Go that feels pain
+### What is Identity Dark Matter?
 - **Published**: January 06, 2026
-- **Summary**: https://github.com/FreeFlowLabsCL/doloris</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46509326">https://n......
-- [Read more](https://github.com/FreeFlowLabsCL/doloris)
+- **Summary**: The Invisible Half of the Identity Universe
+Identity used to live in one place - an LDAP directory, an HR system, a single IAM portal.
+Not anymore. To...
+- [Read more](https://thehackernews.com/2026/01/what-is-identity-dark-matter.html)
 
 ---
 
