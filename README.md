@@ -16,15 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### NASA's science budget won't be a train wreck after all
+### New n8n Vulnerability (9.9 CVSS) Lets Authenticated Users Execute System Commands
 - **Published**: January 06, 2026
-- **Summary**: https://arstechnica.com/space/2026/01/nasas-science-budget-wont-be-a-train-wreck-a......
-- [Read more](https://arstechnica.com/space/2026/01/nasas-science-budget-wont-be-a-train-wreck-after-all/)
+- **Summary**: A new critical security vulnerability has been disclosed in n8n, an open-source workflow automation platform, that could enable an authenticated attac...
+- [Read more](https://thehackernews.com/2026/01/new-n8n-vulnerability-99-cvss-lets.html)
 
-### Donut Lab's hub motor meets WATT's battery to create new EV skateboard
+### Show HN: Doloris – A distributed system in Go that feels pain
 - **Published**: January 06, 2026
-- **Summary**: https://arstechnica.com/cars/2025/12/donut-labs-hub-motor-meets-wat......
-- [Read more](https://arstechnica.com/cars/2025/12/donut-labs-hub-motor-meets-watts-battery-to-create-new-ev-skateboard/)
+- **Summary**: https://github.com/FreeFlowLabsCL/doloris</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46509326">https://n......
+- [Read more](https://github.com/FreeFlowLabsCL/doloris)
 
 ---
 
