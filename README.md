@@ -16,18 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Fake Booking Emails Redirect Hotel Staff to Fake BSoD Pages Delivering DCRat
+### Lego unveils tech-filled Smart Bricks
 - **Published**: January 06, 2026
-- **Summary**: Source: Securonix
-Cybersecurity researchers have disclosed details of a new campaign dubbed PHALT#BLYX that has leveraged ClickFix-style lures to disp...
-- [Read more](https://thehackernews.com/2026/01/fake-booking-emails-redirect-hotel.html)
+- **Summary**: https://www.bbc.com/news/articles/crmlnmnwzk2o</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46516423"......
+- **Keywords**: bricks
+- [Read more](https://www.bbc.com/news/articles/crmlnmnwzk2o)
 
-### What is Identity Dark Matter?
+### Two Chrome Extensions Caught Stealing ChatGPT and DeepSeek Chats from 900,000 Users
 - **Published**: January 06, 2026
-- **Summary**: The Invisible Half of the Identity Universe
-Identity used to live in one place - an LDAP directory, an HR system, a single IAM portal.
-Not anymore. To...
-- [Read more](https://thehackernews.com/2026/01/what-is-identity-dark-matter.html)
+- **Summary**: Cybersecurity researchers have discovered two new malicious extensions on the Chrome Web Store that are designed to exfiltrate OpenAI ChatGPT and Deep...
+- [Read more](https://thehackernews.com/2026/01/two-chrome-extensions-caught-stealing.html)
 
 ---
 
