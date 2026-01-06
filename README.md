@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Russia-Aligned Hackers Abuse Viber to Target Ukrainian Military and Government
-- **Published**: January 05, 2026
-- **Summary**: The Russia-aligned threat actor known as UAC-0184 has been observed targeting Ukrainian military and government entities by leveraging the Viber messa...
-- [Read more](https://thehackernews.com/2026/01/russia-aligned-hackers-abuse-viber-to.html)
+### NASA's science budget won't be a train wreck after all
+- **Published**: January 06, 2026
+- **Summary**: https://arstechnica.com/space/2026/01/nasas-science-budget-wont-be-a-train-wreck-a......
+- [Read more](https://arstechnica.com/space/2026/01/nasas-science-budget-wont-be-a-train-wreck-after-all/)
 
-### Kimwolf Android Botnet Infects Over 2 Million Devices via Exposed ADB and Proxy Networks
-- **Published**: January 05, 2026
-- **Summary**: The botnet known as Kimwolf has infected more than 2 million Android devices by tunneling through residential proxy networks, according to findings fr...
-- [Read more](https://thehackernews.com/2026/01/kimwolf-android-botnet-infects-over-2.html)
+### Donut Lab's hub motor meets WATT's battery to create new EV skateboard
+- **Published**: January 06, 2026
+- **Summary**: https://arstechnica.com/cars/2025/12/donut-labs-hub-motor-meets-wat......
+- [Read more](https://arstechnica.com/cars/2025/12/donut-labs-hub-motor-meets-watts-battery-to-create-new-ev-skateboard/)
 
 ---
 
