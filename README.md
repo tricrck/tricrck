@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Ongoing Attacks Exploiting Critical RCE Vulnerability in Legacy D-Link DSL Routers
+### Webinar: Learn How AI-Powered Zero Trust Detects Attacks with No Files or Indicators
 - **Published**: January 07, 2026
-- **Summary**: A newly discovered critical security flaw in legacy D-Link DSL gateway routers has come under active exploitation in the wild.
-The vulnerability, trac...
-- [Read more](https://thehackernews.com/2026/01/active-exploitation-hits-legacy-d-link.html)
+- **Summary**: Security teams are still catching malware. The problem is what they're not catching.
+More attacks today don't arrive as files. They don't drop binarie...
+- [Read more](https://thehackernews.com/2026/01/webinar-learn-how-ai-powered-zero-trust.html)
 
-### XMPP and Metadata
+### n8n Warns of CVSS 10.0 RCE Vulnerability Affecting Self-Hosted and Cloud Versions
 - **Published**: January 07, 2026
-- **Summary**: https://blog.mathieui.net/xmpp-and-metadata.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46523......
-- [Read more](https://blog.mathieui.net/xmpp-and-metadata.html)
+- **Summary**: Open-source workflow automation platform n8n has warned of a maximum-severity security flaw that, if successfully exploited, could result in authentic...
+- [Read more](https://thehackernews.com/2026/01/n8n-warns-of-cvss-100-rce-vulnerability.html)
 
 ---
 
