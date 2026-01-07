@@ -22,10 +22,10 @@
 More attacks today don't arrive as files. They don't drop binarie...
 - [Read more](https://thehackernews.com/2026/01/webinar-learn-how-ai-powered-zero-trust.html)
 
-### n8n Warns of CVSS 10.0 RCE Vulnerability Affecting Self-Hosted and Cloud Versions
+### Black Cat Behind SEO Poisoning Malware Campaign Targeting Popular Software Searches
 - **Published**: January 07, 2026
-- **Summary**: Open-source workflow automation platform n8n has warned of a maximum-severity security flaw that, if successfully exploited, could result in authentic...
-- [Read more](https://thehackernews.com/2026/01/n8n-warns-of-cvss-100-rce-vulnerability.html)
+- **Summary**: A cybercrime gang known as Black Cat has been attributed to a search engine optimization (SEO) poisoning campaign that employs fraudulent sites advert...
+- [Read more](https://thehackernews.com/2026/01/black-cat-behind-seo-poisoning-malware.html)
 
 ---
 
