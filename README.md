@@ -16,17 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Convex Triggers
+### Ongoing Attacks Exploiting Critical RCE Vulnerability in Legacy D-Link DSL Routers
 - **Published**: January 07, 2026
-- **Summary**: https://stack.convex.dev/triggers</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46521420">https://news.ycombinator.......
-- [Read more](https://stack.convex.dev/triggers)
+- **Summary**: A newly discovered critical security flaw in legacy D-Link DSL gateway routers has come under active exploitation in the wild.
+The vulnerability, trac...
+- [Read more](https://thehackernews.com/2026/01/active-exploitation-hits-legacy-d-link.html)
 
-### Confy, a nice config manager for nearly all x86 systems
+### XMPP and Metadata
 - **Published**: January 07, 2026
-- **Summary**: https://github.com/Phluxjr23/confy</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46521368">https://news.ycombinato......
-- [Read more](https://github.com/Phluxjr23/confy)
+- **Summary**: https://blog.mathieui.net/xmpp-and-metadata.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46523......
+- [Read more](https://blog.mathieui.net/xmpp-and-metadata.html)
 
 ---
 
