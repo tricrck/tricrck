@@ -16,17 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Lego unveils tech-filled Smart Bricks
-- **Published**: January 06, 2026
-- **Summary**: https://www.bbc.com/news/articles/crmlnmnwzk2o</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46516423"......
-- **Keywords**: bricks
-- [Read more](https://www.bbc.com/news/articles/crmlnmnwzk2o)
+### Convex Triggers
+- **Published**: January 07, 2026
+- **Summary**: https://stack.convex.dev/triggers</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46521420">https://news.ycombinator.......
+- [Read more](https://stack.convex.dev/triggers)
 
-### Two Chrome Extensions Caught Stealing ChatGPT and DeepSeek Chats from 900,000 Users
-- **Published**: January 06, 2026
-- **Summary**: Cybersecurity researchers have discovered two new malicious extensions on the Chrome Web Store that are designed to exfiltrate OpenAI ChatGPT and Deep...
-- [Read more](https://thehackernews.com/2026/01/two-chrome-extensions-caught-stealing.html)
+### Confy, a nice config manager for nearly all x86 systems
+- **Published**: January 07, 2026
+- **Summary**: https://github.com/Phluxjr23/confy</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46521368">https://news.ycombinato......
+- [Read more](https://github.com/Phluxjr23/confy)
 
 ---
 
