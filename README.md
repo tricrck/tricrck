@@ -16,16 +16,18 @@
 
 ## 🚨 Tech Stories
 
-### Webinar: Learn How AI-Powered Zero Trust Detects Attacks with No Files or Indicators
-- **Published**: January 07, 2026
-- **Summary**: Security teams are still catching malware. The problem is what they're not catching.
-More attacks today don't arrive as files. They don't drop binarie...
-- [Read more](https://thehackernews.com/2026/01/webinar-learn-how-ai-powered-zero-trust.html)
+### Pittsburgh Post-Gazette to shut down and publish final edition in May
+- **Published**: January 08, 2026
+- **Summary**: https://www.theguardian.com/us-news/2026/jan/07/pittsburgh-post-gazette-closing</a></p>
+<p>Com......
+- **Keywords**: down
+- [Read more](https://www.theguardian.com/us-news/2026/jan/07/pittsburgh-post-gazette-closing)
 
-### Black Cat Behind SEO Poisoning Malware Campaign Targeting Popular Software Searches
-- **Published**: January 07, 2026
-- **Summary**: A cybercrime gang known as Black Cat has been attributed to a search engine optimization (SEO) poisoning campaign that employs fraudulent sites advert...
-- [Read more](https://thehackernews.com/2026/01/black-cat-behind-seo-poisoning-malware.html)
+### Skip the todo – just write the prompt
+- **Published**: January 08, 2026
+- **Summary**: https://twitter.com/0thernet/status/2008956003643986157</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com......
+- [Read more](https://twitter.com/0thernet/status/2008956003643986157)
 
 ---
 
