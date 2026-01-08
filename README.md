@@ -16,16 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### The Fight over Making Data Centers Power Down to Avoid Blackouts
+### Wigner Cat Phases: Transition to Quantum Chaos
 - **Published**: January 08, 2026
-- **Summary**: https://www.wsj.com/business/energy-oil/ai-data-center-blackouts-electric-grid-1fed980......
-- **Keywords**: down
-- [Read more](https://www.wsj.com/business/energy-oil/ai-data-center-blackouts-electric-grid-1fed9803)
+- **Summary**: https://arxiv.org/abs/2512.22169</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46540361">https://news.ycombinator.co......
+- **Keywords**: chaos
+- [Read more](https://arxiv.org/abs/2512.22169)
 
-### CISA Flags Microsoft Office and HPE OneView Bugs as Actively Exploited
+### The State of Trusted Open Source
 - **Published**: January 08, 2026
-- **Summary**: The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added two security flaws impacting Microsoft Office and Hewlett Packard ...
-- [Read more](https://thehackernews.com/2026/01/cisa-flags-microsoft-office-and-hpe.html)
+- **Summary**: Chainguard, the trusted source for open source, has a unique view into how modern organizations actually consume open source software and where they r...
+- [Read more](https://thehackernews.com/2026/01/the-state-of-trusted-open-source.html)
 
 ---
 
