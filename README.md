@@ -16,18 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Pittsburgh Post-Gazette to shut down and publish final edition in May
+### The Fight over Making Data Centers Power Down to Avoid Blackouts
 - **Published**: January 08, 2026
-- **Summary**: https://www.theguardian.com/us-news/2026/jan/07/pittsburgh-post-gazette-closing</a></p>
-<p>Com......
+- **Summary**: https://www.wsj.com/business/energy-oil/ai-data-center-blackouts-electric-grid-1fed980......
 - **Keywords**: down
-- [Read more](https://www.theguardian.com/us-news/2026/jan/07/pittsburgh-post-gazette-closing)
+- [Read more](https://www.wsj.com/business/energy-oil/ai-data-center-blackouts-electric-grid-1fed9803)
 
-### Skip the todo – just write the prompt
+### CISA Flags Microsoft Office and HPE OneView Bugs as Actively Exploited
 - **Published**: January 08, 2026
-- **Summary**: https://twitter.com/0thernet/status/2008956003643986157</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com......
-- [Read more](https://twitter.com/0thernet/status/2008956003643986157)
+- **Summary**: The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added two security flaws impacting Microsoft Office and Hewlett Packard ...
+- [Read more](https://thehackernews.com/2026/01/cisa-flags-microsoft-office-and-hpe.html)
 
 ---
 
