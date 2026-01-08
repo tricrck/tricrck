@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Wigner Cat Phases: Transition to Quantum Chaos
+### A Guide to the Boston Tech "Collapse" Everyone Is Arguing About
 - **Published**: January 08, 2026
-- **Summary**: https://arxiv.org/abs/2512.22169</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46540361">https://news.ycombinator.co......
-- **Keywords**: chaos
-- [Read more](https://arxiv.org/abs/2512.22169)
+- **Summary**: https://www.siliconsnark.com/a-guide-to-the-boston-tech-collapse-everyone-is-argui......
+- **Keywords**: collapse, collapse, collapse
+- [Read more](https://www.siliconsnark.com/a-guide-to-the-boston-tech-collapse-everyone-is-arguing-about/)
 
-### The State of Trusted Open Source
+### WhatsApp Worm Spreads Astaroth Banking Trojan Across Brazil via Contact Auto-Messaging
 - **Published**: January 08, 2026
-- **Summary**: Chainguard, the trusted source for open source, has a unique view into how modern organizations actually consume open source software and where they r...
-- [Read more](https://thehackernews.com/2026/01/the-state-of-trusted-open-source.html)
+- **Summary**: Cybersecurity researchers have disclosed details of a new campaign that uses WhatsApp as a distribution vector for a Windows banking trojan called Ast...
+- [Read more](https://thehackernews.com/2026/01/whatsapp-worm-spreads-astaroth-banking.html)
 
 ---
 
