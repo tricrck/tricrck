@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### CISA Retires 10 Emergency Cybersecurity Directives Issued Between 2019 and 2024
+### Russian APT28 Runs Credential-Stealing Campaign Targeting Energy and Policy Organizations
 - **Published**: January 09, 2026
-- **Summary**: The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday said it's retiring 10 emergency directives (Eds) that were issued between...
-- **Keywords**: emergency, emergency
-- [Read more](https://thehackernews.com/2026/01/cisa-retires-10-emergency-cybersecurity.html)
+- **Summary**: Russian state-sponsored threat actors have been linked to a fresh set of credential harvesting attacks targeting individuals associated with a Turkish...
+- [Read more](https://thehackernews.com/2026/01/russian-apt28-runs-credential-stealing.html)
 
-### Trend Micro Apex Central RCE Flaw Scores 9.8 CVSS in On-Prem Windows Versions
+### Debian goes retro with a spatial desktop that time forgot
 - **Published**: January 09, 2026
-- **Summary**: Trend Micro has released security updates to address multiple security vulnerabilities impacting on-premise versions of Apex Central for Windows, incl...
-- **Keywords**: bug
-- [Read more](https://thehackernews.com/2026/01/trend-micro-apex-central-rce-flaw.html)
+- **Summary**: https://www.theregister.com/2026/01/09/desktop_classic_system/</a></p>
+<p>Comments URL: <a href="https://news.y......
+- [Read more](https://www.theregister.com/2026/01/09/desktop_classic_system/)
 
 ---
 
