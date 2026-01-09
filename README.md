@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### The Godfather – Vogue Movie Review – May 1972
+### Show HN: Swap fonts on live websites in real-time
 - **Published**: January 09, 2026
-- **Summary**: https://archive.vogue.com/article/1972/5/the-godfather</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/i......
-- [Read more](https://archive.vogue.com/article/1972/5/the-godfather)
+- **Summary**: <p>I'm a Software Engineer who loves typography.<p>I love to dig fonts but none of the services satisfied my taste.<p>I wanted a program that:<p>- has...
+- [Read more](https://www.peepfont.com/)
 
-### Nvidia CEO Jensen Huang says robots could be 'AI immigrants'
+### Show HN: Raindrip – AI-Friendly CLI for Raindrop API
 - **Published**: January 09, 2026
-- **Summary**: Article URL: <a href="https://www.tomshardware.com/tech-industry/nvidia-ceo-jensen-huang-says-robots-are-ai-immigrants-that-can-address-labor-shortage...
-- [Read more](https://www.tomshardware.com/tech-industry/nvidia-ceo-jensen-huang-says-robots-are-ai-immigrants-that-can-address-labor-shortages-can-do-the-type-of-work-that-maybe-we-decided-not-to-do-anymore)
+- **Summary**: <p>I have 1,323 bookmarks and exactly 2 tags so I created raindrip to fix my organizing skills in Raindrop.io.<p>After I threw an AI agent at the prob...
+- [Read more](https://github.com/rinvii/raindrip)
 
 ---
 
