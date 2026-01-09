@@ -16,15 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Show HN: Swap fonts on live websites in real-time
+### CISA Retires 10 Emergency Cybersecurity Directives Issued Between 2019 and 2024
 - **Published**: January 09, 2026
-- **Summary**: <p>I'm a Software Engineer who loves typography.<p>I love to dig fonts but none of the services satisfied my taste.<p>I wanted a program that:<p>- has...
-- [Read more](https://www.peepfont.com/)
+- **Summary**: The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday said it's retiring 10 emergency directives (Eds) that were issued between...
+- **Keywords**: emergency, emergency
+- [Read more](https://thehackernews.com/2026/01/cisa-retires-10-emergency-cybersecurity.html)
 
-### Show HN: Raindrip – AI-Friendly CLI for Raindrop API
+### Trend Micro Apex Central RCE Flaw Scores 9.8 CVSS in On-Prem Windows Versions
 - **Published**: January 09, 2026
-- **Summary**: <p>I have 1,323 bookmarks and exactly 2 tags so I created raindrip to fix my organizing skills in Raindrop.io.<p>After I threw an AI agent at the prob...
-- [Read more](https://github.com/rinvii/raindrip)
+- **Summary**: Trend Micro has released security updates to address multiple security vulnerabilities impacting on-premise versions of Apex Central for Windows, incl...
+- **Keywords**: bug
+- [Read more](https://thehackernews.com/2026/01/trend-micro-apex-central-rce-flaw.html)
 
 ---
 
