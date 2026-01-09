@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### A Guide to the Boston Tech "Collapse" Everyone Is Arguing About
-- **Published**: January 08, 2026
-- **Summary**: https://www.siliconsnark.com/a-guide-to-the-boston-tech-collapse-everyone-is-argui......
-- **Keywords**: collapse, collapse, collapse
-- [Read more](https://www.siliconsnark.com/a-guide-to-the-boston-tech-collapse-everyone-is-arguing-about/)
+### The Godfather – Vogue Movie Review – May 1972
+- **Published**: January 09, 2026
+- **Summary**: https://archive.vogue.com/article/1972/5/the-godfather</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/i......
+- [Read more](https://archive.vogue.com/article/1972/5/the-godfather)
 
-### WhatsApp Worm Spreads Astaroth Banking Trojan Across Brazil via Contact Auto-Messaging
-- **Published**: January 08, 2026
-- **Summary**: Cybersecurity researchers have disclosed details of a new campaign that uses WhatsApp as a distribution vector for a Windows banking trojan called Ast...
-- [Read more](https://thehackernews.com/2026/01/whatsapp-worm-spreads-astaroth-banking.html)
+### Nvidia CEO Jensen Huang says robots could be 'AI immigrants'
+- **Published**: January 09, 2026
+- **Summary**: Article URL: <a href="https://www.tomshardware.com/tech-industry/nvidia-ceo-jensen-huang-says-robots-are-ai-immigrants-that-can-address-labor-shortage...
+- [Read more](https://www.tomshardware.com/tech-industry/nvidia-ceo-jensen-huang-says-robots-are-ai-immigrants-that-can-address-labor-shortages-can-do-the-type-of-work-that-maybe-we-decided-not-to-do-anymore)
 
 ---
 
