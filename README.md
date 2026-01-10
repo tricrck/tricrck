@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Agent-native Architectures – A Technical Guide
+### MuddyWater Launches RustyWater RAT via Spear-Phishing Across Middle East Sectors
 - **Published**: January 10, 2026
-- **Summary**: https://every.to/guides/agent-native</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46563328">https://news.ycombi......
-- [Read more](https://every.to/guides/agent-native)
+- **Summary**: The Iranian threat actor known as MuddyWater has been attributed to a spear-phishing campaign targeting diplomatic, maritime, financial, and telecom e...
+- [Read more](https://thehackernews.com/2026/01/muddywater-launches-rustywater-rat-via.html)
 
-### A red pixel in the snow: How AI solved the mystery of a missing mountaineer
+### Europol Arrests 34 Black Axe Members in Spain Over €5.9M Fraud and Organized Crime
 - **Published**: January 10, 2026
-- **Summary**: https://www.bbc.com/future/article/20260108-how-ai-solved-the-mystery-of-a-miss......
-- [Read more](https://www.bbc.com/future/article/20260108-how-ai-solved-the-mystery-of-a-missing-mountaineer)
+- **Summary**: Europol on Friday announced the arrest of 34 individuals in Spain who are alleged to be part of an international criminal organization called Black Ax...
+- [Read more](https://thehackernews.com/2026/01/europol-arrests-34-black-axe-members-in.html)
 
 ---
 
