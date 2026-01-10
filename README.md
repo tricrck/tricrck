@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Show HN: Turn any topic into a 3Blue1Brown-style video
+### Agent-native Architectures – A Technical Guide
 - **Published**: January 10, 2026
-- **Summary**: <p>Hey HN! I built Topic2Manim to automate the creation of educational videos 
-like those from 3Blue1Brown.<p>The workflow is simple:<p>1. Give it any...
-- [Read more](https://github.com/mateolafalce/topic2manim)
+- **Summary**: https://every.to/guides/agent-native</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46563328">https://news.ycombi......
+- [Read more](https://every.to/guides/agent-native)
 
-### After planning, work history scatters across tools and people's heads
+### A red pixel in the snow: How AI solved the mystery of a missing mountaineer
 - **Published**: January 10, 2026
-- **Summary**: <p>right after planning tasks, when execution actually begins, work breaks into dependencies across cross-functional teams -> person x waiting on pers...
-- [Read more](https://news.ycombinator.com/item?id=46561796)
+- **Summary**: https://www.bbc.com/future/article/20260108-how-ai-solved-the-mystery-of-a-miss......
+- [Read more](https://www.bbc.com/future/article/20260108-how-ai-solved-the-mystery-of-a-missing-mountaineer)
 
 ---
 
