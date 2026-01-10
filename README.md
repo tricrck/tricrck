@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Russian APT28 Runs Credential-Stealing Campaign Targeting Energy and Policy Organizations
-- **Published**: January 09, 2026
-- **Summary**: Russian state-sponsored threat actors have been linked to a fresh set of credential harvesting attacks targeting individuals associated with a Turkish...
-- [Read more](https://thehackernews.com/2026/01/russian-apt28-runs-credential-stealing.html)
+### Show HN: Turn any topic into a 3Blue1Brown-style video
+- **Published**: January 10, 2026
+- **Summary**: <p>Hey HN! I built Topic2Manim to automate the creation of educational videos 
+like those from 3Blue1Brown.<p>The workflow is simple:<p>1. Give it any...
+- [Read more](https://github.com/mateolafalce/topic2manim)
 
-### Debian goes retro with a spatial desktop that time forgot
-- **Published**: January 09, 2026
-- **Summary**: https://www.theregister.com/2026/01/09/desktop_classic_system/</a></p>
-<p>Comments URL: <a href="https://news.y......
-- [Read more](https://www.theregister.com/2026/01/09/desktop_classic_system/)
+### After planning, work history scatters across tools and people's heads
+- **Published**: January 10, 2026
+- **Summary**: <p>right after planning tasks, when execution actually begins, work breaks into dependencies across cross-functional teams -> person x waiting on pers...
+- [Read more](https://news.ycombinator.com/item?id=46561796)
 
 ---
 
