@@ -16,15 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### MuddyWater Launches RustyWater RAT via Spear-Phishing Across Middle East Sectors
+### Open Chaos: A self-evolving open-source project
 - **Published**: January 10, 2026
-- **Summary**: The Iranian threat actor known as MuddyWater has been attributed to a spear-phishing campaign targeting diplomatic, maritime, financial, and telecom e...
-- [Read more](https://thehackernews.com/2026/01/muddywater-launches-rustywater-rat-via.html)
+- **Summary**: ......
+- **Keywords**: chaos
+- [Read more](https://www.openchaos.dev/)
 
-### Europol Arrests 34 Black Axe Members in Spain Over €5.9M Fraud and Organized Crime
+### Full Self-Driving Sounds Like Magic Until You See the Crash Numbers
 - **Published**: January 10, 2026
-- **Summary**: Europol on Friday announced the arrest of 34 individuals in Spain who are alleged to be part of an international criminal organization called Black Ax...
-- [Read more](https://thehackernews.com/2026/01/europol-arrests-34-black-axe-members-in.html)
+- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1q980me/full_selfdriving_sounds_like_magic_until_you_see/"> <img alt="Full Self-Driving Sou...
+- **Keywords**: crash, crash
+- [Read more](https://www.reddit.com/r/technology/comments/1q980me/full_selfdriving_sounds_like_magic_until_you_see/)
 
 ---
 
