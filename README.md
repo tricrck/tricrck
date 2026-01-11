@@ -16,16 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Tesla's Germany Sales Down 72% From Their Peak!
-- **Published**: January 10, 2026
-- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1q9ducx/teslas_germany_sales_down_72_from_their_peak/"> <img alt="Tesla's Germany Sales Dow...
-- **Keywords**: down, down
-- [Read more](https://www.reddit.com/r/technology/comments/1q9ducx/teslas_germany_sales_down_72_from_their_peak/)
-
-### Show HN: Ferrite – Markdown editor in Rust with native Mermaid diagram rendering
+### Obscene images: X admits its mistake and stated it would comply with Indian law
 - **Published**: January 11, 2026
-- **Summary**: <p>Ferrite: Fast Markdown/Text/Code editor in Rust with native Mermaid diagrams<p>Built a Markdown editor using Rust + egui. v0.2.1 just dropped with ...
-- [Read more](https://github.com/OlaProeis/Ferrite)
+- **Summary**: https://timesofindia.in......
+- **Keywords**: down
+- [Read more](https://timesofindia.indiatimes.com/india/obscene-image-row-x-admits-mistake-thousands-of-posts-over-600-accounts-taken-down/articleshow/126461143.cms)
+
+### Show HN: MCP for browsing, searching, exporting, backing up Cursor chat history
+- **Published**: January 11, 2026
+- **Summary**: https://github.com/S2thend/cursor-history-mcp</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46573120">h......
+- [Read more](https://github.com/S2thend/cursor-history-mcp)
 
 ---
 
