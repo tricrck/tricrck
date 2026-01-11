@@ -16,17 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Obscene images: X admits its mistake and stated it would comply with Indian law
+### Google: Don't make "bite-sized" content for LLMs
 - **Published**: January 11, 2026
-- **Summary**: https://timesofindia.in......
-- **Keywords**: down
-- [Read more](https://timesofindia.indiatimes.com/india/obscene-image-row-x-admits-mistake-thousands-of-posts-over-600-accounts-taken-down/articleshow/126461143.cms)
+- **Summary**: https://arstechnica.com/google/2026/01/google-dont-make-bit......
+- [Read more](https://arstechnica.com/google/2026/01/google-dont-make-bite-sized-content-for-llms-if-you-care-about-search-rank/)
 
-### Show HN: MCP for browsing, searching, exporting, backing up Cursor chat history
+### Ask HN: Manus.im (Meta) left me hanging for 7 days – is this normal?
 - **Published**: January 11, 2026
-- **Summary**: https://github.com/S2thend/cursor-history-mcp</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46573120">h......
-- [Read more](https://github.com/S2thend/cursor-history-mcp)
+- **Summary**: <p>I've been building a mobile app on Manus.im (recently acquired by Meta). For the past 5+ days, my backend won't publish.<p>Support timeline:
+- Days...
+- **Keywords**: bug
+- [Read more](https://news.ycombinator.com/item?id=46575192)
 
 ---
 
