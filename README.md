@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Open Chaos: A self-evolving open-source project
+### Tesla's Germany Sales Down 72% From Their Peak!
 - **Published**: January 10, 2026
-- **Summary**: ......
-- **Keywords**: chaos
-- [Read more](https://www.openchaos.dev/)
+- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1q9ducx/teslas_germany_sales_down_72_from_their_peak/"> <img alt="Tesla's Germany Sales Dow...
+- **Keywords**: down, down
+- [Read more](https://www.reddit.com/r/technology/comments/1q9ducx/teslas_germany_sales_down_72_from_their_peak/)
 
-### Full Self-Driving Sounds Like Magic Until You See the Crash Numbers
-- **Published**: January 10, 2026
-- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1q980me/full_selfdriving_sounds_like_magic_until_you_see/"> <img alt="Full Self-Driving Sou...
-- **Keywords**: crash, crash
-- [Read more](https://www.reddit.com/r/technology/comments/1q980me/full_selfdriving_sounds_like_magic_until_you_see/)
+### Show HN: Ferrite – Markdown editor in Rust with native Mermaid diagram rendering
+- **Published**: January 11, 2026
+- **Summary**: <p>Ferrite: Fast Markdown/Text/Code editor in Rust with native Mermaid diagrams<p>Built a Markdown editor using Rust + egui. v0.2.1 just dropped with ...
+- [Read more](https://github.com/OlaProeis/Ferrite)
 
 ---
 
