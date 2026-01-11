@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Google: Don't make "bite-sized" content for LLMs
+### Digital Travel App TripBFF Exposed Location Data Way Too Accurately
 - **Published**: January 11, 2026
-- **Summary**: https://arstechnica.com/google/2026/01/google-dont-make-bit......
-- [Read more](https://arstechnica.com/google/2026/01/google-dont-make-bite-sized-content-for-llms-if-you-care-about-search-rank/)
+- **Summary**: https://medium.com/bugbountywriteup/digital-travel-app-tr......
+- [Read more](https://medium.com/bugbountywriteup/digital-travel-app-tripbff-exposed-location-data-way-too-accurately-524cd0792a7d)
 
-### Ask HN: Manus.im (Meta) left me hanging for 7 days – is this normal?
+### Vibe Engineering: What I've Learned Working with AI Coding Agents
 - **Published**: January 11, 2026
-- **Summary**: <p>I've been building a mobile app on Manus.im (recently acquired by Meta). For the past 5+ days, my backend won't publish.<p>Support timeline:
-- Days...
-- **Keywords**: bug
-- [Read more](https://news.ycombinator.com/item?id=46575192)
+- **Summary**: https://twitter.com/mrexodia/status/2010157660885176767</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com......
+- [Read more](https://twitter.com/mrexodia/status/2010157660885176767)
 
 ---
 
