@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Malaysia and Indonesia block X over failure to curb deepfake smut
+### GoBruteforcer Botnet Targets Crypto Project Databases by Exploiting Weak Credentials
 - **Published**: January 12, 2026
-- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1qaj7b0/malaysia_and_indonesia_block_x_over_failure_to/"> <img alt="Malaysia and Indonesia ...
-- **Keywords**: failure, failure
-- [Read more](https://www.reddit.com/r/technology/comments/1qaj7b0/malaysia_and_indonesia_block_x_over_failure_to/)
+- **Summary**: A new wave of GoBruteforcer attacks has targeted databases of cryptocurrency and blockchain projects to co-opt them into a botnet that's capable of br...
+- [Read more](https://thehackernews.com/2026/01/gobruteforcer-botnet-targets-crypto.html)
 
-### The liquid air alternative to fossil fuels
+### Anthropic Launches Claude AI for Healthcare with Secure Health Record Access
 - **Published**: January 12, 2026
-- **Summary**: https://www.bbc.com/future/article/20251009-the-liquid-air-alternative-to-fossil-fuels<......
-- [Read more](https://www.bbc.com/future/article/20251009-the-liquid-air-alternative-to-fossil-fuels)
+- **Summary**: Anthropic has become the latest Artificial intelligence (AI) company to announce a new suite of features that allows users of its Claude platform to b...
+- [Read more](https://thehackernews.com/2026/01/anthropic-launches-claude-ai-for.html)
 
 ---
 
