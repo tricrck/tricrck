@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Digital Travel App TripBFF Exposed Location Data Way Too Accurately
-- **Published**: January 11, 2026
-- **Summary**: https://medium.com/bugbountywriteup/digital-travel-app-tr......
-- [Read more](https://medium.com/bugbountywriteup/digital-travel-app-tripbff-exposed-location-data-way-too-accurately-524cd0792a7d)
+### Uncrossy
+- **Published**: January 12, 2026
+- **Summary**: https://uncrossy.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46582762">https://news.ycombinator.com/item?id=46582762</...
+- [Read more](https://uncrossy.com/)
 
-### Vibe Engineering: What I've Learned Working with AI Coding Agents
-- **Published**: January 11, 2026
-- **Summary**: https://twitter.com/mrexodia/status/2010157660885176767</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com......
-- [Read more](https://twitter.com/mrexodia/status/2010157660885176767)
+### Show HN: Constela – Build web pages using JSON instead of JavaScript
+- **Published**: January 12, 2026
+- **Summary**: <p>Hi everyone,<p>I’ve been building a programming language called Constela.<p>Constela lets you build web pages using JSON instead of JavaScript. UI ...
+- [Read more](https://github.com/yuuichieguchi/constela)
 
 ---
 
