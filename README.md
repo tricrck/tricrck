@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Uncrossy
+### Malaysia and Indonesia block X over failure to curb deepfake smut
 - **Published**: January 12, 2026
-- **Summary**: https://uncrossy.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46582762">https://news.ycombinator.com/item?id=46582762</...
-- [Read more](https://uncrossy.com/)
+- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1qaj7b0/malaysia_and_indonesia_block_x_over_failure_to/"> <img alt="Malaysia and Indonesia ...
+- **Keywords**: failure, failure
+- [Read more](https://www.reddit.com/r/technology/comments/1qaj7b0/malaysia_and_indonesia_block_x_over_failure_to/)
 
-### Show HN: Constela – Build web pages using JSON instead of JavaScript
+### The liquid air alternative to fossil fuels
 - **Published**: January 12, 2026
-- **Summary**: <p>Hi everyone,<p>I’ve been building a programming language called Constela.<p>Constela lets you build web pages using JSON instead of JavaScript. UI ...
-- [Read more](https://github.com/yuuichieguchi/constela)
+- **Summary**: https://www.bbc.com/future/article/20251009-the-liquid-air-alternative-to-fossil-fuels<......
+- [Read more](https://www.bbc.com/future/article/20251009-the-liquid-air-alternative-to-fossil-fuels)
 
 ---
 
