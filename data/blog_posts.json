@@ -1,6 +1,118 @@
 {
   "chaos_ranked": [
     {
+      "title": "Verizon to stop automatic unlocking of phones as FCC ends 60-day unlock rule",
+      "link": "https://arstechnica.com/tech-policy/2026/01/fcc-lets-verizon-lock-phones-for-longer-making-it-harder-to-switch-carriers/",
+      "summary": "<p>Article URL: <a href=\"https://arstechnica.com/tech-policy/2026/01/fcc-lets-verizon-lock-phones-for-longer-making-it-harder-to-switch-carriers/\">https://arstechnica.com/tech-policy/2026/01/fcc-lets-...",
+      "published": "2026-01-13T18:28:42+00:00",
+      "domain": "arstechnica.com",
+      "scores": {
+        "chaos": 18.0,
+        "anarchy": 12.0,
+        "overall": 15.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Malicious Chrome Extension Steals MEXC API Keys by Masquerading as Trading Tool",
+      "link": "https://thehackernews.com/2026/01/malicious-chrome-extension-steals-mexc.html",
+      "summary": "Cybersecurity researchers have disclosed details of a malicious Google Chrome extension that's capable of stealing API keys associated with MEXC, a centralized cryptocurrency exchange (CEX) available ...",
+      "published": "2026-01-13T22:52:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "[Webinar] Securing Agentic AI: From MCPs and Tool Access to Shadow API Key Sprawl",
+      "link": "https://thehackernews.com/2026/01/webinar-t-from-mcps-and-tool-access-to.html",
+      "summary": "AI agents are no longer just writing code. They are executing it.\nTools like Copilot, Claude Code, and Codex can now build, test, and deploy software end-to-end in minutes. That speed is reshaping eng...",
+      "published": "2026-01-13T19:14:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "AI Generated Music Barred from Bandcamp",
+      "link": "https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/",
+      "summary": "<p>Article URL: <a href=\"https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/\">https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/</a></p>\n...",
+      "published": "2026-01-13T18:31:50+00:00",
+      "domain": "old.reddit.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Notre-Dame sees record number of visitors, one year on from reopening",
+      "link": "https://www.rfi.fr/en/france/20260105-notre-dame-sees-record-number-of-visitors-one-year-on-from-reopening",
+      "summary": "<p>Article URL: <a href=\"https://www.rfi.fr/en/france/20260105-notre-dame-sees-record-number-of-visitors-one-year-on-from-reopening\">https://www.rfi.fr/en/france/20260105-notre-dame-sees-record-number...",
+      "published": "2026-01-13T18:29:17+00:00",
+      "domain": "rfi.fr",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The rapid rise and slow decline of Sam Altman",
+      "link": "https://garymarcus.substack.com/p/the-rapid-rise-and-slow-decline-of",
+      "summary": "<p>Article URL: <a href=\"https://garymarcus.substack.com/p/the-rapid-rise-and-slow-decline-of\">https://garymarcus.substack.com/p/the-rapid-rise-and-slow-decline-of</a></p>\n<p>Comments URL: <a href=\"ht...",
+      "published": "2026-01-13T18:29:02+00:00",
+      "domain": "garymarcus.substack.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "DevOps'ish Returns",
+      "link": "https://buttondown.com/devopsish/archive/devopsish-returns/",
+      "summary": "<p>Article URL: <a href=\"https://buttondown.com/devopsish/archive/devopsish-returns/\">https://buttondown.com/devopsish/archive/devopsish-returns/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombin...",
+      "published": "2026-01-13T18:28:56+00:00",
+      "domain": "buttondown.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "New Advanced Linux VoidLink Malware Targets Cloud and container Environments",
       "link": "https://thehackernews.com/2026/01/new-advanced-linux-voidlink-malware.html",
       "summary": "Cybersecurity researchers have disclosed details of a previously undocumented and feature-rich malware framework codenamed VoidLink that's specifically designed for long-term, stealthy access to Linux...",
@@ -35,121 +147,9 @@
     {
       "title": "ServiceNow Patches Critical AI Platform Flaw Allowing Unauthenticated User Impersonation",
       "link": "https://thehackernews.com/2026/01/servicenow-patches-critical-ai-platform.html",
-      "summary": "ServiceNow has disclosed details of a now-patched critical security flaw impacting its ServiceNow AI Platform that could enable an unauthenticated user to impersonate another user and perform arbitrar...",
+      "summary": "ServiceNow has disclosed details of a now-patched critical security flaw impacting its ServiceNow artificial intelligence (AI) Platform that could enable an unauthenticated user to impersonate another...",
       "published": "2026-01-13T17:17:00+05:30",
       "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "New Malware Campaign Delivers Remcos RAT Through Multi-Stage Windows Attack",
-      "link": "https://thehackernews.com/2026/01/new-malware-campaign-delivers-remcos.html",
-      "summary": "Cybersecurity researchers have disclosed details of a new campaign dubbed SHADOW#REACTOR that employs an evasive multi-stage attack chain to deliver a commercially available remote administration tool...",
-      "published": "2026-01-13T14:38:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "CISA Warns of Active Exploitation of Gogs Vulnerability Enabling Code Execution",
-      "link": "https://thehackernews.com/2026/01/cisa-warns-of-active-exploitation-of.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has warned of active exploitation of a high-severity security flaw impacting Gogs by adding it to its Known Exploited Vulnerabilities (...",
-      "published": "2026-01-13T12:45:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The UK is shaping a future of Precrime and dissent management",
-      "link": "https://freedomnews.org.uk/2025/04/11/how-the-uk-is-shaping-a-future-of-precrime-and-dissent-management/",
-      "summary": "<p>Article URL: <a href=\"https://freedomnews.org.uk/2025/04/11/how-the-uk-is-shaping-a-future-of-precrime-and-dissent-management/\">https://freedomnews.org.uk/2025/04/11/how-the-uk-is-shaping-a-future-...",
-      "published": "2026-01-13T12:39:03+00:00",
-      "domain": "freedomnews.org.uk",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Fundamental skills and knowledge you must have in 2026 for SWE",
-      "link": "https://www.youtube.com/watch?v=Jr2auYrBDA4",
-      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=Jr2auYrBDA4\">https://www.youtube.com/watch?v=Jr2auYrBDA4</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46600174\">https...",
-      "published": "2026-01-13T12:36:09+00:00",
-      "domain": "youtube.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The novelists who predicted our present",
-      "link": "https://www.theguardian.com/books/2026/jan/10/mass-surveillance-the-metaverse-making-america-great-again-the-novelists-who-predicted-our-present",
-      "summary": "<p>Article URL: <a href=\"https://www.theguardian.com/books/2026/jan/10/mass-surveillance-the-metaverse-making-america-great-again-the-novelists-who-predicted-our-present\">https://www.theguardian.com/b...",
-      "published": "2026-01-13T12:36:05+00:00",
-      "domain": "theguardian.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Same-sex sexual behavior observed in dozens of primate species",
-      "link": "https://www.nbcnews.com/science/science-news/primates-same-sex-sexual-behavior-evolution-rcna252693",
-      "summary": "<p>Article URL: <a href=\"https://www.nbcnews.com/science/science-news/primates-same-sex-sexual-behavior-evolution-rcna252693\">https://www.nbcnews.com/science/science-news/primates-same-sex-sexual-beha...",
-      "published": "2026-01-13T12:36:04+00:00",
-      "domain": "nbcnews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "What is <input type=\"text\">?",
-      "link": "https://twitter.com/wycats/status/1376984460088934400",
-      "summary": "<p>Article URL: <a href=\"https://twitter.com/wycats/status/1376984460088934400\">https://twitter.com/wycats/status/1376984460088934400</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/ite...",
-      "published": "2026-01-13T12:33:41+00:00",
-      "domain": "twitter.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -163,6 +163,118 @@
   ],
   "anarchy_ranked": [
     {
+      "title": "Verizon to stop automatic unlocking of phones as FCC ends 60-day unlock rule",
+      "link": "https://arstechnica.com/tech-policy/2026/01/fcc-lets-verizon-lock-phones-for-longer-making-it-harder-to-switch-carriers/",
+      "summary": "<p>Article URL: <a href=\"https://arstechnica.com/tech-policy/2026/01/fcc-lets-verizon-lock-phones-for-longer-making-it-harder-to-switch-carriers/\">https://arstechnica.com/tech-policy/2026/01/fcc-lets-...",
+      "published": "2026-01-13T18:28:42+00:00",
+      "domain": "arstechnica.com",
+      "scores": {
+        "chaos": 18.0,
+        "anarchy": 12.0,
+        "overall": 15.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Malicious Chrome Extension Steals MEXC API Keys by Masquerading as Trading Tool",
+      "link": "https://thehackernews.com/2026/01/malicious-chrome-extension-steals-mexc.html",
+      "summary": "Cybersecurity researchers have disclosed details of a malicious Google Chrome extension that's capable of stealing API keys associated with MEXC, a centralized cryptocurrency exchange (CEX) available ...",
+      "published": "2026-01-13T22:52:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "[Webinar] Securing Agentic AI: From MCPs and Tool Access to Shadow API Key Sprawl",
+      "link": "https://thehackernews.com/2026/01/webinar-t-from-mcps-and-tool-access-to.html",
+      "summary": "AI agents are no longer just writing code. They are executing it.\nTools like Copilot, Claude Code, and Codex can now build, test, and deploy software end-to-end in minutes. That speed is reshaping eng...",
+      "published": "2026-01-13T19:14:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "AI Generated Music Barred from Bandcamp",
+      "link": "https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/",
+      "summary": "<p>Article URL: <a href=\"https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/\">https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/</a></p>\n...",
+      "published": "2026-01-13T18:31:50+00:00",
+      "domain": "old.reddit.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Notre-Dame sees record number of visitors, one year on from reopening",
+      "link": "https://www.rfi.fr/en/france/20260105-notre-dame-sees-record-number-of-visitors-one-year-on-from-reopening",
+      "summary": "<p>Article URL: <a href=\"https://www.rfi.fr/en/france/20260105-notre-dame-sees-record-number-of-visitors-one-year-on-from-reopening\">https://www.rfi.fr/en/france/20260105-notre-dame-sees-record-number...",
+      "published": "2026-01-13T18:29:17+00:00",
+      "domain": "rfi.fr",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The rapid rise and slow decline of Sam Altman",
+      "link": "https://garymarcus.substack.com/p/the-rapid-rise-and-slow-decline-of",
+      "summary": "<p>Article URL: <a href=\"https://garymarcus.substack.com/p/the-rapid-rise-and-slow-decline-of\">https://garymarcus.substack.com/p/the-rapid-rise-and-slow-decline-of</a></p>\n<p>Comments URL: <a href=\"ht...",
+      "published": "2026-01-13T18:29:02+00:00",
+      "domain": "garymarcus.substack.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "DevOps'ish Returns",
+      "link": "https://buttondown.com/devopsish/archive/devopsish-returns/",
+      "summary": "<p>Article URL: <a href=\"https://buttondown.com/devopsish/archive/devopsish-returns/\">https://buttondown.com/devopsish/archive/devopsish-returns/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombin...",
+      "published": "2026-01-13T18:28:56+00:00",
+      "domain": "buttondown.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "New Advanced Linux VoidLink Malware Targets Cloud and container Environments",
       "link": "https://thehackernews.com/2026/01/new-advanced-linux-voidlink-malware.html",
       "summary": "Cybersecurity researchers have disclosed details of a previously undocumented and feature-rich malware framework codenamed VoidLink that's specifically designed for long-term, stealthy access to Linux...",
@@ -197,121 +309,9 @@
     {
       "title": "ServiceNow Patches Critical AI Platform Flaw Allowing Unauthenticated User Impersonation",
       "link": "https://thehackernews.com/2026/01/servicenow-patches-critical-ai-platform.html",
-      "summary": "ServiceNow has disclosed details of a now-patched critical security flaw impacting its ServiceNow AI Platform that could enable an unauthenticated user to impersonate another user and perform arbitrar...",
+      "summary": "ServiceNow has disclosed details of a now-patched critical security flaw impacting its ServiceNow artificial intelligence (AI) Platform that could enable an unauthenticated user to impersonate another...",
       "published": "2026-01-13T17:17:00+05:30",
       "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "New Malware Campaign Delivers Remcos RAT Through Multi-Stage Windows Attack",
-      "link": "https://thehackernews.com/2026/01/new-malware-campaign-delivers-remcos.html",
-      "summary": "Cybersecurity researchers have disclosed details of a new campaign dubbed SHADOW#REACTOR that employs an evasive multi-stage attack chain to deliver a commercially available remote administration tool...",
-      "published": "2026-01-13T14:38:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "CISA Warns of Active Exploitation of Gogs Vulnerability Enabling Code Execution",
-      "link": "https://thehackernews.com/2026/01/cisa-warns-of-active-exploitation-of.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has warned of active exploitation of a high-severity security flaw impacting Gogs by adding it to its Known Exploited Vulnerabilities (...",
-      "published": "2026-01-13T12:45:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The UK is shaping a future of Precrime and dissent management",
-      "link": "https://freedomnews.org.uk/2025/04/11/how-the-uk-is-shaping-a-future-of-precrime-and-dissent-management/",
-      "summary": "<p>Article URL: <a href=\"https://freedomnews.org.uk/2025/04/11/how-the-uk-is-shaping-a-future-of-precrime-and-dissent-management/\">https://freedomnews.org.uk/2025/04/11/how-the-uk-is-shaping-a-future-...",
-      "published": "2026-01-13T12:39:03+00:00",
-      "domain": "freedomnews.org.uk",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Fundamental skills and knowledge you must have in 2026 for SWE",
-      "link": "https://www.youtube.com/watch?v=Jr2auYrBDA4",
-      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=Jr2auYrBDA4\">https://www.youtube.com/watch?v=Jr2auYrBDA4</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46600174\">https...",
-      "published": "2026-01-13T12:36:09+00:00",
-      "domain": "youtube.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The novelists who predicted our present",
-      "link": "https://www.theguardian.com/books/2026/jan/10/mass-surveillance-the-metaverse-making-america-great-again-the-novelists-who-predicted-our-present",
-      "summary": "<p>Article URL: <a href=\"https://www.theguardian.com/books/2026/jan/10/mass-surveillance-the-metaverse-making-america-great-again-the-novelists-who-predicted-our-present\">https://www.theguardian.com/b...",
-      "published": "2026-01-13T12:36:05+00:00",
-      "domain": "theguardian.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Same-sex sexual behavior observed in dozens of primate species",
-      "link": "https://www.nbcnews.com/science/science-news/primates-same-sex-sexual-behavior-evolution-rcna252693",
-      "summary": "<p>Article URL: <a href=\"https://www.nbcnews.com/science/science-news/primates-same-sex-sexual-behavior-evolution-rcna252693\">https://www.nbcnews.com/science/science-news/primates-same-sex-sexual-beha...",
-      "published": "2026-01-13T12:36:04+00:00",
-      "domain": "nbcnews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "What is <input type=\"text\">?",
-      "link": "https://twitter.com/wycats/status/1376984460088934400",
-      "summary": "<p>Article URL: <a href=\"https://twitter.com/wycats/status/1376984460088934400\">https://twitter.com/wycats/status/1376984460088934400</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/ite...",
-      "published": "2026-01-13T12:33:41+00:00",
-      "domain": "twitter.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -325,6 +325,118 @@
   ],
   "overall_ranked": [
     {
+      "title": "Verizon to stop automatic unlocking of phones as FCC ends 60-day unlock rule",
+      "link": "https://arstechnica.com/tech-policy/2026/01/fcc-lets-verizon-lock-phones-for-longer-making-it-harder-to-switch-carriers/",
+      "summary": "<p>Article URL: <a href=\"https://arstechnica.com/tech-policy/2026/01/fcc-lets-verizon-lock-phones-for-longer-making-it-harder-to-switch-carriers/\">https://arstechnica.com/tech-policy/2026/01/fcc-lets-...",
+      "published": "2026-01-13T18:28:42+00:00",
+      "domain": "arstechnica.com",
+      "scores": {
+        "chaos": 18.0,
+        "anarchy": 12.0,
+        "overall": 15.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Malicious Chrome Extension Steals MEXC API Keys by Masquerading as Trading Tool",
+      "link": "https://thehackernews.com/2026/01/malicious-chrome-extension-steals-mexc.html",
+      "summary": "Cybersecurity researchers have disclosed details of a malicious Google Chrome extension that's capable of stealing API keys associated with MEXC, a centralized cryptocurrency exchange (CEX) available ...",
+      "published": "2026-01-13T22:52:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "[Webinar] Securing Agentic AI: From MCPs and Tool Access to Shadow API Key Sprawl",
+      "link": "https://thehackernews.com/2026/01/webinar-t-from-mcps-and-tool-access-to.html",
+      "summary": "AI agents are no longer just writing code. They are executing it.\nTools like Copilot, Claude Code, and Codex can now build, test, and deploy software end-to-end in minutes. That speed is reshaping eng...",
+      "published": "2026-01-13T19:14:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "AI Generated Music Barred from Bandcamp",
+      "link": "https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/",
+      "summary": "<p>Article URL: <a href=\"https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/\">https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/</a></p>\n...",
+      "published": "2026-01-13T18:31:50+00:00",
+      "domain": "old.reddit.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Notre-Dame sees record number of visitors, one year on from reopening",
+      "link": "https://www.rfi.fr/en/france/20260105-notre-dame-sees-record-number-of-visitors-one-year-on-from-reopening",
+      "summary": "<p>Article URL: <a href=\"https://www.rfi.fr/en/france/20260105-notre-dame-sees-record-number-of-visitors-one-year-on-from-reopening\">https://www.rfi.fr/en/france/20260105-notre-dame-sees-record-number...",
+      "published": "2026-01-13T18:29:17+00:00",
+      "domain": "rfi.fr",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The rapid rise and slow decline of Sam Altman",
+      "link": "https://garymarcus.substack.com/p/the-rapid-rise-and-slow-decline-of",
+      "summary": "<p>Article URL: <a href=\"https://garymarcus.substack.com/p/the-rapid-rise-and-slow-decline-of\">https://garymarcus.substack.com/p/the-rapid-rise-and-slow-decline-of</a></p>\n<p>Comments URL: <a href=\"ht...",
+      "published": "2026-01-13T18:29:02+00:00",
+      "domain": "garymarcus.substack.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "DevOps'ish Returns",
+      "link": "https://buttondown.com/devopsish/archive/devopsish-returns/",
+      "summary": "<p>Article URL: <a href=\"https://buttondown.com/devopsish/archive/devopsish-returns/\">https://buttondown.com/devopsish/archive/devopsish-returns/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombin...",
+      "published": "2026-01-13T18:28:56+00:00",
+      "domain": "buttondown.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "New Advanced Linux VoidLink Malware Targets Cloud and container Environments",
       "link": "https://thehackernews.com/2026/01/new-advanced-linux-voidlink-malware.html",
       "summary": "Cybersecurity researchers have disclosed details of a previously undocumented and feature-rich malware framework codenamed VoidLink that's specifically designed for long-term, stealthy access to Linux...",
@@ -359,121 +471,9 @@
     {
       "title": "ServiceNow Patches Critical AI Platform Flaw Allowing Unauthenticated User Impersonation",
       "link": "https://thehackernews.com/2026/01/servicenow-patches-critical-ai-platform.html",
-      "summary": "ServiceNow has disclosed details of a now-patched critical security flaw impacting its ServiceNow AI Platform that could enable an unauthenticated user to impersonate another user and perform arbitrar...",
+      "summary": "ServiceNow has disclosed details of a now-patched critical security flaw impacting its ServiceNow artificial intelligence (AI) Platform that could enable an unauthenticated user to impersonate another...",
       "published": "2026-01-13T17:17:00+05:30",
       "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "New Malware Campaign Delivers Remcos RAT Through Multi-Stage Windows Attack",
-      "link": "https://thehackernews.com/2026/01/new-malware-campaign-delivers-remcos.html",
-      "summary": "Cybersecurity researchers have disclosed details of a new campaign dubbed SHADOW#REACTOR that employs an evasive multi-stage attack chain to deliver a commercially available remote administration tool...",
-      "published": "2026-01-13T14:38:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "CISA Warns of Active Exploitation of Gogs Vulnerability Enabling Code Execution",
-      "link": "https://thehackernews.com/2026/01/cisa-warns-of-active-exploitation-of.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has warned of active exploitation of a high-severity security flaw impacting Gogs by adding it to its Known Exploited Vulnerabilities (...",
-      "published": "2026-01-13T12:45:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The UK is shaping a future of Precrime and dissent management",
-      "link": "https://freedomnews.org.uk/2025/04/11/how-the-uk-is-shaping-a-future-of-precrime-and-dissent-management/",
-      "summary": "<p>Article URL: <a href=\"https://freedomnews.org.uk/2025/04/11/how-the-uk-is-shaping-a-future-of-precrime-and-dissent-management/\">https://freedomnews.org.uk/2025/04/11/how-the-uk-is-shaping-a-future-...",
-      "published": "2026-01-13T12:39:03+00:00",
-      "domain": "freedomnews.org.uk",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Fundamental skills and knowledge you must have in 2026 for SWE",
-      "link": "https://www.youtube.com/watch?v=Jr2auYrBDA4",
-      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=Jr2auYrBDA4\">https://www.youtube.com/watch?v=Jr2auYrBDA4</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46600174\">https...",
-      "published": "2026-01-13T12:36:09+00:00",
-      "domain": "youtube.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The novelists who predicted our present",
-      "link": "https://www.theguardian.com/books/2026/jan/10/mass-surveillance-the-metaverse-making-america-great-again-the-novelists-who-predicted-our-present",
-      "summary": "<p>Article URL: <a href=\"https://www.theguardian.com/books/2026/jan/10/mass-surveillance-the-metaverse-making-america-great-again-the-novelists-who-predicted-our-present\">https://www.theguardian.com/b...",
-      "published": "2026-01-13T12:36:05+00:00",
-      "domain": "theguardian.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Same-sex sexual behavior observed in dozens of primate species",
-      "link": "https://www.nbcnews.com/science/science-news/primates-same-sex-sexual-behavior-evolution-rcna252693",
-      "summary": "<p>Article URL: <a href=\"https://www.nbcnews.com/science/science-news/primates-same-sex-sexual-behavior-evolution-rcna252693\">https://www.nbcnews.com/science/science-news/primates-same-sex-sexual-beha...",
-      "published": "2026-01-13T12:36:04+00:00",
-      "domain": "nbcnews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "What is <input type=\"text\">?",
-      "link": "https://twitter.com/wycats/status/1376984460088934400",
-      "summary": "<p>Article URL: <a href=\"https://twitter.com/wycats/status/1376984460088934400\">https://twitter.com/wycats/status/1376984460088934400</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/ite...",
-      "published": "2026-01-13T12:33:41+00:00",
-      "domain": "twitter.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -487,6 +487,118 @@
   ],
   "all_articles": [
     {
+      "title": "Malicious Chrome Extension Steals MEXC API Keys by Masquerading as Trading Tool",
+      "link": "https://thehackernews.com/2026/01/malicious-chrome-extension-steals-mexc.html",
+      "summary": "Cybersecurity researchers have disclosed details of a malicious Google Chrome extension that's capable of stealing API keys associated with MEXC, a centralized cryptocurrency exchange (CEX) available ...",
+      "published": "2026-01-13T22:52:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "[Webinar] Securing Agentic AI: From MCPs and Tool Access to Shadow API Key Sprawl",
+      "link": "https://thehackernews.com/2026/01/webinar-t-from-mcps-and-tool-access-to.html",
+      "summary": "AI agents are no longer just writing code. They are executing it.\nTools like Copilot, Claude Code, and Codex can now build, test, and deploy software end-to-end in minutes. That speed is reshaping eng...",
+      "published": "2026-01-13T19:14:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "AI Generated Music Barred from Bandcamp",
+      "link": "https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/",
+      "summary": "<p>Article URL: <a href=\"https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/\">https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/</a></p>\n...",
+      "published": "2026-01-13T18:31:50+00:00",
+      "domain": "old.reddit.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Notre-Dame sees record number of visitors, one year on from reopening",
+      "link": "https://www.rfi.fr/en/france/20260105-notre-dame-sees-record-number-of-visitors-one-year-on-from-reopening",
+      "summary": "<p>Article URL: <a href=\"https://www.rfi.fr/en/france/20260105-notre-dame-sees-record-number-of-visitors-one-year-on-from-reopening\">https://www.rfi.fr/en/france/20260105-notre-dame-sees-record-number...",
+      "published": "2026-01-13T18:29:17+00:00",
+      "domain": "rfi.fr",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The rapid rise and slow decline of Sam Altman",
+      "link": "https://garymarcus.substack.com/p/the-rapid-rise-and-slow-decline-of",
+      "summary": "<p>Article URL: <a href=\"https://garymarcus.substack.com/p/the-rapid-rise-and-slow-decline-of\">https://garymarcus.substack.com/p/the-rapid-rise-and-slow-decline-of</a></p>\n<p>Comments URL: <a href=\"ht...",
+      "published": "2026-01-13T18:29:02+00:00",
+      "domain": "garymarcus.substack.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "DevOps'ish Returns",
+      "link": "https://buttondown.com/devopsish/archive/devopsish-returns/",
+      "summary": "<p>Article URL: <a href=\"https://buttondown.com/devopsish/archive/devopsish-returns/\">https://buttondown.com/devopsish/archive/devopsish-returns/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombin...",
+      "published": "2026-01-13T18:28:56+00:00",
+      "domain": "buttondown.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Verizon to stop automatic unlocking of phones as FCC ends 60-day unlock rule",
+      "link": "https://arstechnica.com/tech-policy/2026/01/fcc-lets-verizon-lock-phones-for-longer-making-it-harder-to-switch-carriers/",
+      "summary": "<p>Article URL: <a href=\"https://arstechnica.com/tech-policy/2026/01/fcc-lets-verizon-lock-phones-for-longer-making-it-harder-to-switch-carriers/\">https://arstechnica.com/tech-policy/2026/01/fcc-lets-...",
+      "published": "2026-01-13T18:28:42+00:00",
+      "domain": "arstechnica.com",
+      "scores": {
+        "chaos": 18.0,
+        "anarchy": 12.0,
+        "overall": 15.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "New Advanced Linux VoidLink Malware Targets Cloud and container Environments",
       "link": "https://thehackernews.com/2026/01/new-advanced-linux-voidlink-malware.html",
       "summary": "Cybersecurity researchers have disclosed details of a previously undocumented and feature-rich malware framework codenamed VoidLink that's specifically designed for long-term, stealthy access to Linux...",
@@ -521,121 +633,9 @@
     {
       "title": "ServiceNow Patches Critical AI Platform Flaw Allowing Unauthenticated User Impersonation",
       "link": "https://thehackernews.com/2026/01/servicenow-patches-critical-ai-platform.html",
-      "summary": "ServiceNow has disclosed details of a now-patched critical security flaw impacting its ServiceNow AI Platform that could enable an unauthenticated user to impersonate another user and perform arbitrar...",
+      "summary": "ServiceNow has disclosed details of a now-patched critical security flaw impacting its ServiceNow artificial intelligence (AI) Platform that could enable an unauthenticated user to impersonate another...",
       "published": "2026-01-13T17:17:00+05:30",
       "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "New Malware Campaign Delivers Remcos RAT Through Multi-Stage Windows Attack",
-      "link": "https://thehackernews.com/2026/01/new-malware-campaign-delivers-remcos.html",
-      "summary": "Cybersecurity researchers have disclosed details of a new campaign dubbed SHADOW#REACTOR that employs an evasive multi-stage attack chain to deliver a commercially available remote administration tool...",
-      "published": "2026-01-13T14:38:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "CISA Warns of Active Exploitation of Gogs Vulnerability Enabling Code Execution",
-      "link": "https://thehackernews.com/2026/01/cisa-warns-of-active-exploitation-of.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has warned of active exploitation of a high-severity security flaw impacting Gogs by adding it to its Known Exploited Vulnerabilities (...",
-      "published": "2026-01-13T12:45:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The UK is shaping a future of Precrime and dissent management",
-      "link": "https://freedomnews.org.uk/2025/04/11/how-the-uk-is-shaping-a-future-of-precrime-and-dissent-management/",
-      "summary": "<p>Article URL: <a href=\"https://freedomnews.org.uk/2025/04/11/how-the-uk-is-shaping-a-future-of-precrime-and-dissent-management/\">https://freedomnews.org.uk/2025/04/11/how-the-uk-is-shaping-a-future-...",
-      "published": "2026-01-13T12:39:03+00:00",
-      "domain": "freedomnews.org.uk",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Fundamental skills and knowledge you must have in 2026 for SWE",
-      "link": "https://www.youtube.com/watch?v=Jr2auYrBDA4",
-      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=Jr2auYrBDA4\">https://www.youtube.com/watch?v=Jr2auYrBDA4</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46600174\">https...",
-      "published": "2026-01-13T12:36:09+00:00",
-      "domain": "youtube.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The novelists who predicted our present",
-      "link": "https://www.theguardian.com/books/2026/jan/10/mass-surveillance-the-metaverse-making-america-great-again-the-novelists-who-predicted-our-present",
-      "summary": "<p>Article URL: <a href=\"https://www.theguardian.com/books/2026/jan/10/mass-surveillance-the-metaverse-making-america-great-again-the-novelists-who-predicted-our-present\">https://www.theguardian.com/b...",
-      "published": "2026-01-13T12:36:05+00:00",
-      "domain": "theguardian.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Same-sex sexual behavior observed in dozens of primate species",
-      "link": "https://www.nbcnews.com/science/science-news/primates-same-sex-sexual-behavior-evolution-rcna252693",
-      "summary": "<p>Article URL: <a href=\"https://www.nbcnews.com/science/science-news/primates-same-sex-sexual-behavior-evolution-rcna252693\">https://www.nbcnews.com/science/science-news/primates-same-sex-sexual-beha...",
-      "published": "2026-01-13T12:36:04+00:00",
-      "domain": "nbcnews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "What is <input type=\"text\">?",
-      "link": "https://twitter.com/wycats/status/1376984460088934400",
-      "summary": "<p>Article URL: <a href=\"https://twitter.com/wycats/status/1376984460088934400\">https://twitter.com/wycats/status/1376984460088934400</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/ite...",
-      "published": "2026-01-13T12:33:41+00:00",
-      "domain": "twitter.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,

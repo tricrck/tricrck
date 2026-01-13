@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### New Advanced Linux VoidLink Malware Targets Cloud and container Environments
+### Verizon to stop automatic unlocking of phones as FCC ends 60-day unlock rule
 - **Published**: January 13, 2026
-- **Summary**: Cybersecurity researchers have disclosed details of a previously undocumented and feature-rich malware framework codenamed VoidLink that's specificall...
-- [Read more](https://thehackernews.com/2026/01/new-advanced-linux-voidlink-malware.html)
+- **Summary**: https://arstechnica.com/tech-policy/2026/01/fcc-lets-......
+- [Read more](https://arstechnica.com/tech-policy/2026/01/fcc-lets-verizon-lock-phones-for-longer-making-it-harder-to-switch-carriers/)
 
-### What Should We Learn From How Attackers Leveraged AI in 2025?
+### Malicious Chrome Extension Steals MEXC API Keys by Masquerading as Trading Tool
 - **Published**: January 13, 2026
-- **Summary**: Old Playbook, New Scale: While defenders are chasing trends, attackers are optimizing the basics
-The security industry loves talking about "new" threa...
-- [Read more](https://thehackernews.com/2026/01/what-should-we-learn-from-how-attackers.html)
+- **Summary**: Cybersecurity researchers have disclosed details of a malicious Google Chrome extension that's capable of stealing API keys associated with MEXC, a ce...
+- [Read more](https://thehackernews.com/2026/01/malicious-chrome-extension-steals-mexc.html)
 
 ---
 
