@@ -16,15 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Meta shakes up its review system with 'stronger rewards for top performers'
+### Terminal Control Library for Odin Language
 - **Published**: January 13, 2026
-- **Summary**: https://www.businessinsider.com/meta-performance-review-system-stronger-......
-- [Read more](https://www.businessinsider.com/meta-performance-review-system-stronger-rewards-top-performers-2026-1)
+- **Summary**: https://github.com/RaphGL/TermCL</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46597852">https://news.ycombinator.co......
+- [Read more](https://github.com/RaphGL/TermCL)
 
-### Paramount Wants Warner to Show Its Work
+### Indian PSLV satellite launcher fails for the second time in a row
 - **Published**: January 13, 2026
-- **Summary**: https://www.bloomberg.com/opinion/newsletters/2026-01-12/paramount-wants-t......
-- [Read more](https://www.bloomberg.com/opinion/newsletters/2026-01-12/paramount-wants-to-warner-to-show-its-work)
+- **Summary**: https://www.space.com/space-exploration/launches-spacecraf......
+- [Read more](https://www.space.com/space-exploration/launches-spacecraft/india-eos-n1-military-satellite-15-payloads-pslv-launch)
 
 ---
 
