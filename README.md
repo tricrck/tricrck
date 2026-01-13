@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### n8n Supply Chain Attack Abuses Community Nodes to Steal OAuth Tokens
-- **Published**: January 12, 2026
-- **Summary**: Threat actors have been observed uploading a set of eight packages on the npm registry that masqueraded as integrations targeting the n8n workflow aut...
-- [Read more](https://thehackernews.com/2026/01/n8n-supply-chain-attack-abuses.html)
+### Meta shakes up its review system with 'stronger rewards for top performers'
+- **Published**: January 13, 2026
+- **Summary**: https://www.businessinsider.com/meta-performance-review-system-stronger-......
+- [Read more](https://www.businessinsider.com/meta-performance-review-system-stronger-rewards-top-performers-2026-1)
 
-### ⚡ Weekly Recap: AI Automation Exploits, Telecom Espionage, Prompt Poaching & More
-- **Published**: January 12, 2026
-- **Summary**: This week made one thing clear: small oversights can spiral fast. Tools meant to save time and reduce friction turned into easy entry points once basi...
-- [Read more](https://thehackernews.com/2026/01/weekly-recap-ai-automation-exploits.html)
+### Paramount Wants Warner to Show Its Work
+- **Published**: January 13, 2026
+- **Summary**: https://www.bloomberg.com/opinion/newsletters/2026-01-12/paramount-wants-t......
+- [Read more](https://www.bloomberg.com/opinion/newsletters/2026-01-12/paramount-wants-to-warner-to-show-its-work)
 
 ---
 
