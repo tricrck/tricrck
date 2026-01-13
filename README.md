@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Terminal Control Library for Odin Language
+### New Advanced Linux VoidLink Malware Targets Cloud and container Environments
 - **Published**: January 13, 2026
-- **Summary**: https://github.com/RaphGL/TermCL</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46597852">https://news.ycombinator.co......
-- [Read more](https://github.com/RaphGL/TermCL)
+- **Summary**: Cybersecurity researchers have disclosed details of a previously undocumented and feature-rich malware framework codenamed VoidLink that's specificall...
+- [Read more](https://thehackernews.com/2026/01/new-advanced-linux-voidlink-malware.html)
 
-### Indian PSLV satellite launcher fails for the second time in a row
+### What Should We Learn From How Attackers Leveraged AI in 2025?
 - **Published**: January 13, 2026
-- **Summary**: https://www.space.com/space-exploration/launches-spacecraf......
-- [Read more](https://www.space.com/space-exploration/launches-spacecraft/india-eos-n1-military-satellite-15-payloads-pslv-launch)
+- **Summary**: Old Playbook, New Scale: While defenders are chasing trends, attackers are optimizing the basics
+The security industry loves talking about "new" threa...
+- [Read more](https://thehackernews.com/2026/01/what-should-we-learn-from-how-attackers.html)
 
 ---
 
