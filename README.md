@@ -16,17 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### US approves sale of Nvidia's advanced H200 chips to China
+### The Joy of Not Learning: How AI Saves My Hobby Projects
 - **Published**: January 14, 2026
-- **Summary**: https://www.bbc.com/news/articles/cg4erx1n04lo</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46611302"......
-- [Read more](https://www.bbc.com/news/articles/cg4erx1n04lo)
+- **Summary**: https://harichetlur.com/blog/the-joy-of-not-learning-how-ai-saves-my-hobby-projects/</a><......
+- [Read more](https://harichetlur.com/blog/the-joy-of-not-learning-how-ai-saves-my-hobby-projects/)
 
-### QuickSend – Share Files Between Devices Without the Friction
+### China reports largest gold discovery in more than seven decades
 - **Published**: January 14, 2026
-- **Summary**: http://quicksend.chat</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46611283">https://news.ycombinator.com/item?id=46611283</...
-- [Read more](http://quicksend.chat)
+- **Summary**: https://www.euronews.com/business/2025/11/14/china-reports-larges......
+- [Read more](https://www.euronews.com/business/2025/11/14/china-reports-largest-gold-discovery-in-more-than-seven-decades)
 
 ---
 
