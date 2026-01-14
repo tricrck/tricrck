@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### The Joy of Not Learning: How AI Saves My Hobby Projects
+### Fortinet Fixes Critical FortiSIEM Flaw Allowing Unauthenticated Remote Code Execution
 - **Published**: January 14, 2026
-- **Summary**: https://harichetlur.com/blog/the-joy-of-not-learning-how-ai-saves-my-hobby-projects/</a><......
-- [Read more](https://harichetlur.com/blog/the-joy-of-not-learning-how-ai-saves-my-hobby-projects/)
+- **Summary**: Fortinet has released updates to fix a critical security flaw impacting FortiSIEM that could allow an unauthenticated attacker to achieve code executi...
+- [Read more](https://thehackernews.com/2026/01/fortinet-fixes-critical-fortisiem-flaw.html)
 
-### China reports largest gold discovery in more than seven decades
+### New Research: 64% of 3rd-Party Applications Access Sensitive Data Without Justification
 - **Published**: January 14, 2026
-- **Summary**: https://www.euronews.com/business/2025/11/14/china-reports-larges......
-- [Read more](https://www.euronews.com/business/2025/11/14/china-reports-largest-gold-discovery-in-more-than-seven-decades)
+- **Summary**: Research analyzing 4,700 leading websites reveals that 64% of third-party applications now access sensitive data without business justification, up fr...
+- [Read more](https://thehackernews.com/2026/01/new-research-64-of-3rd-party.html)
 
 ---
 
