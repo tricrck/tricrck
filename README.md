@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Fortinet Fixes Critical FortiSIEM Flaw Allowing Unauthenticated Remote Code Execution
+### AI Agents Are Becoming Privilege Escalation Paths
 - **Published**: January 14, 2026
-- **Summary**: Fortinet has released updates to fix a critical security flaw impacting FortiSIEM that could allow an unauthenticated attacker to achieve code executi...
-- [Read more](https://thehackernews.com/2026/01/fortinet-fixes-critical-fortisiem-flaw.html)
+- **Summary**: AI agents have quickly moved from experimental tools to core components of daily workflows across security, engineering, IT, and operations. What bega...
+- [Read more](https://thehackernews.com/2026/01/ai-agents-are-becoming-privilege.html)
 
-### New Research: 64% of 3rd-Party Applications Access Sensitive Data Without Justification
+### Hackers Exploit c-ares DLL Side-Loading to Bypass Security and Deploy Malware
 - **Published**: January 14, 2026
-- **Summary**: Research analyzing 4,700 leading websites reveals that 64% of third-party applications now access sensitive data without business justification, up fr...
-- [Read more](https://thehackernews.com/2026/01/new-research-64-of-3rd-party.html)
+- **Summary**: Security experts have disclosed details of an active malware campaign that's exploiting a DLL side-loading vulnerability in a legitimate binary associ...
+- [Read more](https://thehackernews.com/2026/01/hackers-exploit-c-ares-dll-side-loading.html)
 
 ---
 
