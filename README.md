@@ -16,15 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Verizon to stop automatic unlocking of phones as FCC ends 60-day unlock rule
-- **Published**: January 13, 2026
-- **Summary**: https://arstechnica.com/tech-policy/2026/01/fcc-lets-......
-- [Read more](https://arstechnica.com/tech-policy/2026/01/fcc-lets-verizon-lock-phones-for-longer-making-it-harder-to-switch-carriers/)
+### US approves sale of Nvidia's advanced H200 chips to China
+- **Published**: January 14, 2026
+- **Summary**: https://www.bbc.com/news/articles/cg4erx1n04lo</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46611302"......
+- [Read more](https://www.bbc.com/news/articles/cg4erx1n04lo)
 
-### Malicious Chrome Extension Steals MEXC API Keys by Masquerading as Trading Tool
-- **Published**: January 13, 2026
-- **Summary**: Cybersecurity researchers have disclosed details of a malicious Google Chrome extension that's capable of stealing API keys associated with MEXC, a ce...
-- [Read more](https://thehackernews.com/2026/01/malicious-chrome-extension-steals-mexc.html)
+### QuickSend – Share Files Between Devices Without the Friction
+- **Published**: January 14, 2026
+- **Summary**: http://quicksend.chat</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46611283">https://news.ycombinator.com/item?id=46611283</...
+- [Read more](http://quicksend.chat)
 
 ---
 
