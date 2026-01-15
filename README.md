@@ -16,15 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### AI Agents Are Becoming Privilege Escalation Paths
+### Website that leaked info about ICE agents is down after cyberattack.
 - **Published**: January 14, 2026
-- **Summary**: AI agents have quickly moved from experimental tools to core components of daily workflows across security, engineering, IT, and operations. What bega...
-- [Read more](https://thehackernews.com/2026/01/ai-agents-are-becoming-privilege.html)
+- **Summary**:  <br /> <span><a href="https://www.msn.com/en-us/news/us/website-that-leaked-info-about-ice-agents-is-down-......
+- **Keywords**: down, down
+- [Read more](https://www.reddit.com/r/technology/comments/1qd1tsz/website_that_leaked_info_about_ice_agents_is_down/)
 
-### Hackers Exploit c-ares DLL Side-Loading to Bypass Security and Deploy Malware
-- **Published**: January 14, 2026
-- **Summary**: Security experts have disclosed details of an active malware campaign that's exploiting a DLL side-loading vulnerability in a legitimate binary associ...
-- [Read more](https://thehackernews.com/2026/01/hackers-exploit-c-ares-dll-side-loading.html)
+### Bubblewrap: A nimble way to prevent agents from accessing your .env files
+- **Published**: January 15, 2026
+- **Summary**: https://patrickmccanna.net/a-better-way-to-limit-claude-code-and-other......
+- [Read more](https://patrickmccanna.net/a-better-way-to-limit-claude-code-and-other-coding-agents-access-to-secrets/)
 
 ---
 
