@@ -16,16 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Google Gemini Can Proactively Analyze Users' Gmail, Photos, Searches
+### Palo Alto Fixes GlobalProtect DoS Flaw That Can Crash Firewalls Without Login
 - **Published**: January 15, 2026
-- **Summary**: https://www.bloomberg.com/news/articles/2026-0......
-- [Read more](https://www.bloomberg.com/news/articles/2026-01-14/google-gemini-s-personalized-intelligence-feature-taps-gmail-searches-photos)
+- **Summary**: Palo Alto Networks has released security updates for a high-severity security flaw impacting GlobalProtect Gateway and Portal, for which it said there...
+- **Keywords**: crash
+- [Read more](https://thehackernews.com/2026/01/palo-alto-fixes-globalprotect-dos-flaw.html)
 
-### Microsoft vows to 'pay its way' as it seeks to defuse data centre backlash
+### Microsoft Legal Action Disrupts RedVDS Cybercrime Infrastructure Used for Online Fraud
 - **Published**: January 15, 2026
-- **Summary**: https://www.ft.com/content/3f392c9b-c07d-42f5-b000-0a7347ad1ec0</a></p>
-<p>Comments URL: <a href="https://news......
-- [Read more](https://www.ft.com/content/3f392c9b-c07d-42f5-b000-0a7347ad1ec0)
+- **Summary**: Microsoft on Wednesday announced that it has taken a "coordinated legal action" in the U.S. and the U.K. to disrupt a cybercrime subscription service ...
+- **Keywords**: disrupt
+- [Read more](https://thehackernews.com/2026/01/microsoft-legal-action-disrupts-redvds.html)
 
 ---
 
