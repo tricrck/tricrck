@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Palo Alto Fixes GlobalProtect DoS Flaw That Can Crash Firewalls Without Login
+### Wikimedia Foundation Announces AI Partnerships with Amazon, Meta, Microsoft
 - **Published**: January 15, 2026
-- **Summary**: Palo Alto Networks has released security updates for a high-severity security flaw impacting GlobalProtect Gateway and Portal, for which it said there...
-- **Keywords**: crash
-- [Read more](https://thehackernews.com/2026/01/palo-alto-fixes-globalprotect-dos-flaw.html)
+- **Summary**: https://techcrunch.com/2026/01/15/wikim......
+- [Read more](https://techcrunch.com/2026/01/15/wikimedia-foundation-announces-new-ai-partnerships-with-amazon-meta-microsoft-perplexity-and-others/)
 
-### Microsoft Legal Action Disrupts RedVDS Cybercrime Infrastructure Used for Online Fraud
+### Critical WordPress Modular DS Plugin Flaw Actively Exploited to Gain Admin Access
 - **Published**: January 15, 2026
-- **Summary**: Microsoft on Wednesday announced that it has taken a "coordinated legal action" in the U.S. and the U.K. to disrupt a cybercrime subscription service ...
-- **Keywords**: disrupt
-- [Read more](https://thehackernews.com/2026/01/microsoft-legal-action-disrupts-redvds.html)
+- **Summary**: A maximum-severity security flaw in a WordPress plugin called Modular DS has come under active exploitation in the wild, according to Patchstack.
+The ...
+- [Read more](https://thehackernews.com/2026/01/critical-wordpress-modular-ds-plugin.html)
 
 ---
 

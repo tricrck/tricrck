@@ -1,46 +1,26 @@
 {
   "chaos_ranked": [
     {
-      "title": "Palo Alto Fixes GlobalProtect DoS Flaw That Can Crash Firewalls Without Login",
-      "link": "https://thehackernews.com/2026/01/palo-alto-fixes-globalprotect-dos-flaw.html",
-      "summary": "Palo Alto Networks has released security updates for a high-severity security flaw impacting GlobalProtect Gateway and Portal, for which it said there exists a proof-of-concept (PoC) exploit.\nThe vuln...",
-      "published": "2026-01-15T13:48:00+05:30",
-      "domain": "thehackernews.com",
+      "title": "Wikimedia Foundation Announces AI Partnerships with Amazon, Meta, Microsoft",
+      "link": "https://techcrunch.com/2026/01/15/wikimedia-foundation-announces-new-ai-partnerships-with-amazon-meta-microsoft-perplexity-and-others/",
+      "summary": "<p>Article URL: <a href=\"https://techcrunch.com/2026/01/15/wikimedia-foundation-announces-new-ai-partnerships-with-amazon-meta-microsoft-perplexity-and-others/\">https://techcrunch.com/2026/01/15/wikim...",
+      "published": "2026-01-15T18:30:12+00:00",
+      "domain": "techcrunch.com",
       "scores": {
-        "chaos": 15.7,
-        "anarchy": 3.0,
-        "overall": 9.4
+        "chaos": 9.0,
+        "anarchy": 6.0,
+        "overall": 7.5
       },
       "keywords": {
-        "chaos": [
-          "crash"
-        ],
+        "chaos": [],
         "anarchy": []
       }
     },
     {
-      "title": "Microsoft Legal Action Disrupts RedVDS Cybercrime Infrastructure Used for Online Fraud",
-      "link": "https://thehackernews.com/2026/01/microsoft-legal-action-disrupts-redvds.html",
-      "summary": "Microsoft on Wednesday announced that it has taken a \"coordinated legal action\" in the U.S. and the U.K. to disrupt a cybercrime subscription service called RedVDS that has allegedly fueled millions i...",
-      "published": "2026-01-15T15:07:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 12.3,
-        "anarchy": 3.0,
-        "overall": 7.7
-      },
-      "keywords": {
-        "chaos": [
-          "disrupt"
-        ],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "4 Outdated Habits Destroying Your SOC's MTTR in 2026",
-      "link": "https://thehackernews.com/2026/01/4-outdated-habits-destroying-your-socs.html",
-      "summary": "It\u2019s 2026, yet many SOCs are still operating the way they did years ago, using tools and processes designed for a very different threat landscape. Given the growth in volumes and complexity of cyber t...",
-      "published": "2026-01-15T16:30:00+05:30",
+      "title": "Critical WordPress Modular DS Plugin Flaw Actively Exploited to Gain Admin Access",
+      "link": "https://thehackernews.com/2026/01/critical-wordpress-modular-ds-plugin.html",
+      "summary": "A maximum-severity security flaw in a WordPress plugin called Modular DS has come under active exploitation in the wild, according to Patchstack.\nThe vulnerability, tracked as CVE-2026-23550 (CVSS sco...",
+      "published": "2026-01-15T21:01:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -53,11 +33,11 @@
       }
     },
     {
-      "title": "Wine 11.0 Released",
-      "link": "https://gitlab.winehq.org/wine/wine/-/releases/wine-11.0",
-      "summary": "<p>Article URL: <a href=\"https://gitlab.winehq.org/wine/wine/-/releases/wine-11.0\">https://gitlab.winehq.org/wine/wine/-/releases/wine-11.0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.c...",
-      "published": "2026-01-15T12:37:37+00:00",
-      "domain": "gitlab.winehq.org",
+      "title": "Researchers Reveal Reprompt Attack Allowing Single-Click Data Exfiltration From Microsoft Copilot",
+      "link": "https://thehackernews.com/2026/01/researchers-reveal-reprompt-attack.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new attack method dubbed Reprompt that could allow bad actors to exfiltrate sensitive data from artificial intelligence (AI) chatbots like Microso...",
+      "published": "2026-01-15T20:39:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -69,11 +49,11 @@
       }
     },
     {
-      "title": "Open Wearables \u2013 Unified Health Data Platform",
-      "link": "https://www.openwearables.io/",
-      "summary": "<p>Article URL: <a href=\"https://www.openwearables.io/\">https://www.openwearables.io/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46631553\">https://news.ycombinator.com/item...",
-      "published": "2026-01-15T12:36:27+00:00",
-      "domain": "openwearables.io",
+      "title": "ThreatsDay Bulletin: AI Voice Cloning Exploit, Wi-Fi Kill Switch, PLC Vulns, and 14 More Stories",
+      "link": "https://thehackernews.com/2026/01/threatsday-bulletin-ai-voice-cloning.html",
+      "summary": "The internet never stays quiet. Every week, new hacks, scams, and security problems show up somewhere.\nThis week\u2019s stories show how fast attackers change their tricks, how small mistakes turn into big...",
+      "published": "2026-01-15T19:26:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -85,11 +65,11 @@
       }
     },
     {
-      "title": "Secret ICE Programs Revealed",
-      "link": "https://www.kenklippenstein.com/p/21-secret-ice-programs-revealed",
-      "summary": "<p>Article URL: <a href=\"https://www.kenklippenstein.com/p/21-secret-ice-programs-revealed\">https://www.kenklippenstein.com/p/21-secret-ice-programs-revealed</a></p>\n<p>Comments URL: <a href=\"https://...",
-      "published": "2026-01-15T12:35:41+00:00",
-      "domain": "kenklippenstein.com",
+      "title": "I'm launching a tool to boost engagement and grow Twitch communities",
+      "link": "https://lootforge.io/",
+      "summary": "<p>Article URL: <a href=\"https://lootforge.io/\">https://lootforge.io/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46636936\">https://news.ycombinator.com/item?id=46636936</a>...",
+      "published": "2026-01-15T18:30:38+00:00",
+      "domain": "lootforge.io",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -101,11 +81,11 @@
       }
     },
     {
-      "title": "Genetic Therapy Aims to Bring Hearing to Those Born Deaf",
-      "link": "https://hackaday.com/2026/01/14/genetic-therapy-aims-to-bring-hearing-to-those-born-deaf/",
-      "summary": "<p>Article URL: <a href=\"https://hackaday.com/2026/01/14/genetic-therapy-aims-to-bring-hearing-to-those-born-deaf/\">https://hackaday.com/2026/01/14/genetic-therapy-aims-to-bring-hearing-to-those-born-...",
-      "published": "2026-01-15T12:34:05+00:00",
-      "domain": "hackaday.com",
+      "title": "Mozilla.ai releases a platform to monitor LLM performance and costs",
+      "link": "https://blog.mozilla.ai/secure-your-keys-track-your-costs-any-llm-managed-platform-enters-open-beta/",
+      "summary": "<p>Article URL: <a href=\"https://blog.mozilla.ai/secure-your-keys-track-your-costs-any-llm-managed-platform-enters-open-beta/\">https://blog.mozilla.ai/secure-your-keys-track-your-costs-any-llm-managed...",
+      "published": "2026-01-15T18:30:14+00:00",
+      "domain": "blog.mozilla.ai",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -117,11 +97,11 @@
       }
     },
     {
-      "title": "SpaceX will attempt to reach Mars by the end of 2026",
-      "link": "https://www.msn.com/en-ie/money/other/elon-musk-surprises-everyone-spacex-will-attempt-to-reach-mars-by-the-end-of-2026/ar-AA1TZA2z",
-      "summary": "<p>Article URL: <a href=\"https://www.msn.com/en-ie/money/other/elon-musk-surprises-everyone-spacex-will-attempt-to-reach-mars-by-the-end-of-2026/ar-AA1TZA2z\">https://www.msn.com/en-ie/money/other/elon...",
-      "published": "2026-01-15T12:32:42+00:00",
-      "domain": "msn.com",
+      "title": "The grief when AI writes most of the code",
+      "link": "https://blog.pragmaticengineer.com/the-grief-when-ai-writes-most-of-the-code/",
+      "summary": "<p>Article URL: <a href=\"https://blog.pragmaticengineer.com/the-grief-when-ai-writes-most-of-the-code/\">https://blog.pragmaticengineer.com/the-grief-when-ai-writes-most-of-the-code/</a></p>\n<p>Comment...",
+      "published": "2026-01-15T18:29:58+00:00",
+      "domain": "blog.pragmaticengineer.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -133,11 +113,11 @@
       }
     },
     {
-      "title": "Learners and educators are AI\u2019s new \u201csuper users\u201d",
-      "link": "https://blog.google/products-and-platforms/products/education/our-life-with-ai-2025/",
-      "summary": "Teacher using a computer with students...",
-      "published": "2026-01-15T11:00:00+00:00",
-      "domain": "blog.google",
+      "title": "Show HN: Superhuman for LinkedIn Inbox",
+      "link": "https://www.withtact.app/",
+      "summary": "<p>Hi HN,<p>I built Tact, a keyboard-first client that sits on top of your LinkedIn inbox and makes outbound faster without turning it into AI-generated slop.<p>The goal was to help people who do targ...",
+      "published": "2026-01-15T18:29:47+00:00",
+      "domain": "withtact.app",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -149,11 +129,27 @@
       }
     },
     {
-      "title": "Raspberry Pi's New AI Hat Adds 8GB of RAM for Local LLMs",
-      "link": "https://www.jeffgeerling.com/blog/2026/raspberry-pi-ai-hat-2/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=46629682\">Comments</a>...",
-      "published": "2026-01-15T08:23:02+00:00",
-      "domain": "jeffgeerling.com",
+      "title": "CVEs Affecting the Svelte Ecosystem",
+      "link": "https://svelte.dev/blog/cves-affecting-the-svelte-ecosystem",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46636387\">Comments</a>...",
+      "published": "2026-01-15T17:51:24+00:00",
+      "domain": "svelte.dev",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Model Security Is the Wrong Frame \u2013 The Real Risk Is Workflow Security",
+      "link": "https://thehackernews.com/2026/01/model-security-is-wrong-frame-real-risk.html",
+      "summary": "As AI copilots and assistants become embedded in daily work, security teams are still focused on protecting the models themselves. But recent incidents suggest the bigger risk lies elsewhere: in the w...",
+      "published": "2026-01-15T17:25:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -167,10 +163,26 @@
   ],
   "anarchy_ranked": [
     {
-      "title": "4 Outdated Habits Destroying Your SOC's MTTR in 2026",
-      "link": "https://thehackernews.com/2026/01/4-outdated-habits-destroying-your-socs.html",
-      "summary": "It\u2019s 2026, yet many SOCs are still operating the way they did years ago, using tools and processes designed for a very different threat landscape. Given the growth in volumes and complexity of cyber t...",
-      "published": "2026-01-15T16:30:00+05:30",
+      "title": "Wikimedia Foundation Announces AI Partnerships with Amazon, Meta, Microsoft",
+      "link": "https://techcrunch.com/2026/01/15/wikimedia-foundation-announces-new-ai-partnerships-with-amazon-meta-microsoft-perplexity-and-others/",
+      "summary": "<p>Article URL: <a href=\"https://techcrunch.com/2026/01/15/wikimedia-foundation-announces-new-ai-partnerships-with-amazon-meta-microsoft-perplexity-and-others/\">https://techcrunch.com/2026/01/15/wikim...",
+      "published": "2026-01-15T18:30:12+00:00",
+      "domain": "techcrunch.com",
+      "scores": {
+        "chaos": 9.0,
+        "anarchy": 6.0,
+        "overall": 7.5
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Critical WordPress Modular DS Plugin Flaw Actively Exploited to Gain Admin Access",
+      "link": "https://thehackernews.com/2026/01/critical-wordpress-modular-ds-plugin.html",
+      "summary": "A maximum-severity security flaw in a WordPress plugin called Modular DS has come under active exploitation in the wild, according to Patchstack.\nThe vulnerability, tracked as CVE-2026-23550 (CVSS sco...",
+      "published": "2026-01-15T21:01:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -183,47 +195,43 @@
       }
     },
     {
-      "title": "Microsoft Legal Action Disrupts RedVDS Cybercrime Infrastructure Used for Online Fraud",
-      "link": "https://thehackernews.com/2026/01/microsoft-legal-action-disrupts-redvds.html",
-      "summary": "Microsoft on Wednesday announced that it has taken a \"coordinated legal action\" in the U.S. and the U.K. to disrupt a cybercrime subscription service called RedVDS that has allegedly fueled millions i...",
-      "published": "2026-01-15T15:07:00+05:30",
+      "title": "Researchers Reveal Reprompt Attack Allowing Single-Click Data Exfiltration From Microsoft Copilot",
+      "link": "https://thehackernews.com/2026/01/researchers-reveal-reprompt-attack.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new attack method dubbed Reprompt that could allow bad actors to exfiltrate sensitive data from artificial intelligence (AI) chatbots like Microso...",
+      "published": "2026-01-15T20:39:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
-        "chaos": 12.3,
+        "chaos": 3.0,
         "anarchy": 3.0,
-        "overall": 7.7
+        "overall": 3.0
       },
       "keywords": {
-        "chaos": [
-          "disrupt"
-        ],
+        "chaos": [],
         "anarchy": []
       }
     },
     {
-      "title": "Palo Alto Fixes GlobalProtect DoS Flaw That Can Crash Firewalls Without Login",
-      "link": "https://thehackernews.com/2026/01/palo-alto-fixes-globalprotect-dos-flaw.html",
-      "summary": "Palo Alto Networks has released security updates for a high-severity security flaw impacting GlobalProtect Gateway and Portal, for which it said there exists a proof-of-concept (PoC) exploit.\nThe vuln...",
-      "published": "2026-01-15T13:48:00+05:30",
+      "title": "ThreatsDay Bulletin: AI Voice Cloning Exploit, Wi-Fi Kill Switch, PLC Vulns, and 14 More Stories",
+      "link": "https://thehackernews.com/2026/01/threatsday-bulletin-ai-voice-cloning.html",
+      "summary": "The internet never stays quiet. Every week, new hacks, scams, and security problems show up somewhere.\nThis week\u2019s stories show how fast attackers change their tricks, how small mistakes turn into big...",
+      "published": "2026-01-15T19:26:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
-        "chaos": 15.7,
+        "chaos": 3.0,
         "anarchy": 3.0,
-        "overall": 9.4
+        "overall": 3.0
       },
       "keywords": {
-        "chaos": [
-          "crash"
-        ],
+        "chaos": [],
         "anarchy": []
       }
     },
     {
-      "title": "Wine 11.0 Released",
-      "link": "https://gitlab.winehq.org/wine/wine/-/releases/wine-11.0",
-      "summary": "<p>Article URL: <a href=\"https://gitlab.winehq.org/wine/wine/-/releases/wine-11.0\">https://gitlab.winehq.org/wine/wine/-/releases/wine-11.0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.c...",
-      "published": "2026-01-15T12:37:37+00:00",
-      "domain": "gitlab.winehq.org",
+      "title": "I'm launching a tool to boost engagement and grow Twitch communities",
+      "link": "https://lootforge.io/",
+      "summary": "<p>Article URL: <a href=\"https://lootforge.io/\">https://lootforge.io/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46636936\">https://news.ycombinator.com/item?id=46636936</a>...",
+      "published": "2026-01-15T18:30:38+00:00",
+      "domain": "lootforge.io",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -235,11 +243,11 @@
       }
     },
     {
-      "title": "Open Wearables \u2013 Unified Health Data Platform",
-      "link": "https://www.openwearables.io/",
-      "summary": "<p>Article URL: <a href=\"https://www.openwearables.io/\">https://www.openwearables.io/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46631553\">https://news.ycombinator.com/item...",
-      "published": "2026-01-15T12:36:27+00:00",
-      "domain": "openwearables.io",
+      "title": "Mozilla.ai releases a platform to monitor LLM performance and costs",
+      "link": "https://blog.mozilla.ai/secure-your-keys-track-your-costs-any-llm-managed-platform-enters-open-beta/",
+      "summary": "<p>Article URL: <a href=\"https://blog.mozilla.ai/secure-your-keys-track-your-costs-any-llm-managed-platform-enters-open-beta/\">https://blog.mozilla.ai/secure-your-keys-track-your-costs-any-llm-managed...",
+      "published": "2026-01-15T18:30:14+00:00",
+      "domain": "blog.mozilla.ai",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -251,11 +259,11 @@
       }
     },
     {
-      "title": "Secret ICE Programs Revealed",
-      "link": "https://www.kenklippenstein.com/p/21-secret-ice-programs-revealed",
-      "summary": "<p>Article URL: <a href=\"https://www.kenklippenstein.com/p/21-secret-ice-programs-revealed\">https://www.kenklippenstein.com/p/21-secret-ice-programs-revealed</a></p>\n<p>Comments URL: <a href=\"https://...",
-      "published": "2026-01-15T12:35:41+00:00",
-      "domain": "kenklippenstein.com",
+      "title": "The grief when AI writes most of the code",
+      "link": "https://blog.pragmaticengineer.com/the-grief-when-ai-writes-most-of-the-code/",
+      "summary": "<p>Article URL: <a href=\"https://blog.pragmaticengineer.com/the-grief-when-ai-writes-most-of-the-code/\">https://blog.pragmaticengineer.com/the-grief-when-ai-writes-most-of-the-code/</a></p>\n<p>Comment...",
+      "published": "2026-01-15T18:29:58+00:00",
+      "domain": "blog.pragmaticengineer.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -267,11 +275,11 @@
       }
     },
     {
-      "title": "Genetic Therapy Aims to Bring Hearing to Those Born Deaf",
-      "link": "https://hackaday.com/2026/01/14/genetic-therapy-aims-to-bring-hearing-to-those-born-deaf/",
-      "summary": "<p>Article URL: <a href=\"https://hackaday.com/2026/01/14/genetic-therapy-aims-to-bring-hearing-to-those-born-deaf/\">https://hackaday.com/2026/01/14/genetic-therapy-aims-to-bring-hearing-to-those-born-...",
-      "published": "2026-01-15T12:34:05+00:00",
-      "domain": "hackaday.com",
+      "title": "Show HN: Superhuman for LinkedIn Inbox",
+      "link": "https://www.withtact.app/",
+      "summary": "<p>Hi HN,<p>I built Tact, a keyboard-first client that sits on top of your LinkedIn inbox and makes outbound faster without turning it into AI-generated slop.<p>The goal was to help people who do targ...",
+      "published": "2026-01-15T18:29:47+00:00",
+      "domain": "withtact.app",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -283,11 +291,11 @@
       }
     },
     {
-      "title": "SpaceX will attempt to reach Mars by the end of 2026",
-      "link": "https://www.msn.com/en-ie/money/other/elon-musk-surprises-everyone-spacex-will-attempt-to-reach-mars-by-the-end-of-2026/ar-AA1TZA2z",
-      "summary": "<p>Article URL: <a href=\"https://www.msn.com/en-ie/money/other/elon-musk-surprises-everyone-spacex-will-attempt-to-reach-mars-by-the-end-of-2026/ar-AA1TZA2z\">https://www.msn.com/en-ie/money/other/elon...",
-      "published": "2026-01-15T12:32:42+00:00",
-      "domain": "msn.com",
+      "title": "CVEs Affecting the Svelte Ecosystem",
+      "link": "https://svelte.dev/blog/cves-affecting-the-svelte-ecosystem",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46636387\">Comments</a>...",
+      "published": "2026-01-15T17:51:24+00:00",
+      "domain": "svelte.dev",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -299,27 +307,11 @@
       }
     },
     {
-      "title": "Learners and educators are AI\u2019s new \u201csuper users\u201d",
-      "link": "https://blog.google/products-and-platforms/products/education/our-life-with-ai-2025/",
-      "summary": "Teacher using a computer with students...",
-      "published": "2026-01-15T11:00:00+00:00",
-      "domain": "blog.google",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Raspberry Pi's New AI Hat Adds 8GB of RAM for Local LLMs",
-      "link": "https://www.jeffgeerling.com/blog/2026/raspberry-pi-ai-hat-2/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=46629682\">Comments</a>...",
-      "published": "2026-01-15T08:23:02+00:00",
-      "domain": "jeffgeerling.com",
+      "title": "Model Security Is the Wrong Frame \u2013 The Real Risk Is Workflow Security",
+      "link": "https://thehackernews.com/2026/01/model-security-is-wrong-frame-real-risk.html",
+      "summary": "As AI copilots and assistants become embedded in daily work, security teams are still focused on protecting the models themselves. But recent incidents suggest the bigger risk lies elsewhere: in the w...",
+      "published": "2026-01-15T17:25:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -333,46 +325,26 @@
   ],
   "overall_ranked": [
     {
-      "title": "Palo Alto Fixes GlobalProtect DoS Flaw That Can Crash Firewalls Without Login",
-      "link": "https://thehackernews.com/2026/01/palo-alto-fixes-globalprotect-dos-flaw.html",
-      "summary": "Palo Alto Networks has released security updates for a high-severity security flaw impacting GlobalProtect Gateway and Portal, for which it said there exists a proof-of-concept (PoC) exploit.\nThe vuln...",
-      "published": "2026-01-15T13:48:00+05:30",
-      "domain": "thehackernews.com",
+      "title": "Wikimedia Foundation Announces AI Partnerships with Amazon, Meta, Microsoft",
+      "link": "https://techcrunch.com/2026/01/15/wikimedia-foundation-announces-new-ai-partnerships-with-amazon-meta-microsoft-perplexity-and-others/",
+      "summary": "<p>Article URL: <a href=\"https://techcrunch.com/2026/01/15/wikimedia-foundation-announces-new-ai-partnerships-with-amazon-meta-microsoft-perplexity-and-others/\">https://techcrunch.com/2026/01/15/wikim...",
+      "published": "2026-01-15T18:30:12+00:00",
+      "domain": "techcrunch.com",
       "scores": {
-        "chaos": 15.7,
-        "anarchy": 3.0,
-        "overall": 9.4
+        "chaos": 9.0,
+        "anarchy": 6.0,
+        "overall": 7.5
       },
       "keywords": {
-        "chaos": [
-          "crash"
-        ],
+        "chaos": [],
         "anarchy": []
       }
     },
     {
-      "title": "Microsoft Legal Action Disrupts RedVDS Cybercrime Infrastructure Used for Online Fraud",
-      "link": "https://thehackernews.com/2026/01/microsoft-legal-action-disrupts-redvds.html",
-      "summary": "Microsoft on Wednesday announced that it has taken a \"coordinated legal action\" in the U.S. and the U.K. to disrupt a cybercrime subscription service called RedVDS that has allegedly fueled millions i...",
-      "published": "2026-01-15T15:07:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 12.3,
-        "anarchy": 3.0,
-        "overall": 7.7
-      },
-      "keywords": {
-        "chaos": [
-          "disrupt"
-        ],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "4 Outdated Habits Destroying Your SOC's MTTR in 2026",
-      "link": "https://thehackernews.com/2026/01/4-outdated-habits-destroying-your-socs.html",
-      "summary": "It\u2019s 2026, yet many SOCs are still operating the way they did years ago, using tools and processes designed for a very different threat landscape. Given the growth in volumes and complexity of cyber t...",
-      "published": "2026-01-15T16:30:00+05:30",
+      "title": "Critical WordPress Modular DS Plugin Flaw Actively Exploited to Gain Admin Access",
+      "link": "https://thehackernews.com/2026/01/critical-wordpress-modular-ds-plugin.html",
+      "summary": "A maximum-severity security flaw in a WordPress plugin called Modular DS has come under active exploitation in the wild, according to Patchstack.\nThe vulnerability, tracked as CVE-2026-23550 (CVSS sco...",
+      "published": "2026-01-15T21:01:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -385,11 +357,11 @@
       }
     },
     {
-      "title": "Wine 11.0 Released",
-      "link": "https://gitlab.winehq.org/wine/wine/-/releases/wine-11.0",
-      "summary": "<p>Article URL: <a href=\"https://gitlab.winehq.org/wine/wine/-/releases/wine-11.0\">https://gitlab.winehq.org/wine/wine/-/releases/wine-11.0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.c...",
-      "published": "2026-01-15T12:37:37+00:00",
-      "domain": "gitlab.winehq.org",
+      "title": "Researchers Reveal Reprompt Attack Allowing Single-Click Data Exfiltration From Microsoft Copilot",
+      "link": "https://thehackernews.com/2026/01/researchers-reveal-reprompt-attack.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new attack method dubbed Reprompt that could allow bad actors to exfiltrate sensitive data from artificial intelligence (AI) chatbots like Microso...",
+      "published": "2026-01-15T20:39:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -401,11 +373,11 @@
       }
     },
     {
-      "title": "Open Wearables \u2013 Unified Health Data Platform",
-      "link": "https://www.openwearables.io/",
-      "summary": "<p>Article URL: <a href=\"https://www.openwearables.io/\">https://www.openwearables.io/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46631553\">https://news.ycombinator.com/item...",
-      "published": "2026-01-15T12:36:27+00:00",
-      "domain": "openwearables.io",
+      "title": "ThreatsDay Bulletin: AI Voice Cloning Exploit, Wi-Fi Kill Switch, PLC Vulns, and 14 More Stories",
+      "link": "https://thehackernews.com/2026/01/threatsday-bulletin-ai-voice-cloning.html",
+      "summary": "The internet never stays quiet. Every week, new hacks, scams, and security problems show up somewhere.\nThis week\u2019s stories show how fast attackers change their tricks, how small mistakes turn into big...",
+      "published": "2026-01-15T19:26:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -417,11 +389,11 @@
       }
     },
     {
-      "title": "Secret ICE Programs Revealed",
-      "link": "https://www.kenklippenstein.com/p/21-secret-ice-programs-revealed",
-      "summary": "<p>Article URL: <a href=\"https://www.kenklippenstein.com/p/21-secret-ice-programs-revealed\">https://www.kenklippenstein.com/p/21-secret-ice-programs-revealed</a></p>\n<p>Comments URL: <a href=\"https://...",
-      "published": "2026-01-15T12:35:41+00:00",
-      "domain": "kenklippenstein.com",
+      "title": "I'm launching a tool to boost engagement and grow Twitch communities",
+      "link": "https://lootforge.io/",
+      "summary": "<p>Article URL: <a href=\"https://lootforge.io/\">https://lootforge.io/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46636936\">https://news.ycombinator.com/item?id=46636936</a>...",
+      "published": "2026-01-15T18:30:38+00:00",
+      "domain": "lootforge.io",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -433,11 +405,11 @@
       }
     },
     {
-      "title": "Genetic Therapy Aims to Bring Hearing to Those Born Deaf",
-      "link": "https://hackaday.com/2026/01/14/genetic-therapy-aims-to-bring-hearing-to-those-born-deaf/",
-      "summary": "<p>Article URL: <a href=\"https://hackaday.com/2026/01/14/genetic-therapy-aims-to-bring-hearing-to-those-born-deaf/\">https://hackaday.com/2026/01/14/genetic-therapy-aims-to-bring-hearing-to-those-born-...",
-      "published": "2026-01-15T12:34:05+00:00",
-      "domain": "hackaday.com",
+      "title": "Mozilla.ai releases a platform to monitor LLM performance and costs",
+      "link": "https://blog.mozilla.ai/secure-your-keys-track-your-costs-any-llm-managed-platform-enters-open-beta/",
+      "summary": "<p>Article URL: <a href=\"https://blog.mozilla.ai/secure-your-keys-track-your-costs-any-llm-managed-platform-enters-open-beta/\">https://blog.mozilla.ai/secure-your-keys-track-your-costs-any-llm-managed...",
+      "published": "2026-01-15T18:30:14+00:00",
+      "domain": "blog.mozilla.ai",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -449,11 +421,11 @@
       }
     },
     {
-      "title": "SpaceX will attempt to reach Mars by the end of 2026",
-      "link": "https://www.msn.com/en-ie/money/other/elon-musk-surprises-everyone-spacex-will-attempt-to-reach-mars-by-the-end-of-2026/ar-AA1TZA2z",
-      "summary": "<p>Article URL: <a href=\"https://www.msn.com/en-ie/money/other/elon-musk-surprises-everyone-spacex-will-attempt-to-reach-mars-by-the-end-of-2026/ar-AA1TZA2z\">https://www.msn.com/en-ie/money/other/elon...",
-      "published": "2026-01-15T12:32:42+00:00",
-      "domain": "msn.com",
+      "title": "The grief when AI writes most of the code",
+      "link": "https://blog.pragmaticengineer.com/the-grief-when-ai-writes-most-of-the-code/",
+      "summary": "<p>Article URL: <a href=\"https://blog.pragmaticengineer.com/the-grief-when-ai-writes-most-of-the-code/\">https://blog.pragmaticengineer.com/the-grief-when-ai-writes-most-of-the-code/</a></p>\n<p>Comment...",
+      "published": "2026-01-15T18:29:58+00:00",
+      "domain": "blog.pragmaticengineer.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -465,11 +437,11 @@
       }
     },
     {
-      "title": "Learners and educators are AI\u2019s new \u201csuper users\u201d",
-      "link": "https://blog.google/products-and-platforms/products/education/our-life-with-ai-2025/",
-      "summary": "Teacher using a computer with students...",
-      "published": "2026-01-15T11:00:00+00:00",
-      "domain": "blog.google",
+      "title": "Show HN: Superhuman for LinkedIn Inbox",
+      "link": "https://www.withtact.app/",
+      "summary": "<p>Hi HN,<p>I built Tact, a keyboard-first client that sits on top of your LinkedIn inbox and makes outbound faster without turning it into AI-generated slop.<p>The goal was to help people who do targ...",
+      "published": "2026-01-15T18:29:47+00:00",
+      "domain": "withtact.app",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -481,11 +453,27 @@
       }
     },
     {
-      "title": "Raspberry Pi's New AI Hat Adds 8GB of RAM for Local LLMs",
-      "link": "https://www.jeffgeerling.com/blog/2026/raspberry-pi-ai-hat-2/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=46629682\">Comments</a>...",
-      "published": "2026-01-15T08:23:02+00:00",
-      "domain": "jeffgeerling.com",
+      "title": "CVEs Affecting the Svelte Ecosystem",
+      "link": "https://svelte.dev/blog/cves-affecting-the-svelte-ecosystem",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46636387\">Comments</a>...",
+      "published": "2026-01-15T17:51:24+00:00",
+      "domain": "svelte.dev",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Model Security Is the Wrong Frame \u2013 The Real Risk Is Workflow Security",
+      "link": "https://thehackernews.com/2026/01/model-security-is-wrong-frame-real-risk.html",
+      "summary": "As AI copilots and assistants become embedded in daily work, security teams are still focused on protecting the models themselves. But recent incidents suggest the bigger risk lies elsewhere: in the w...",
+      "published": "2026-01-15T17:25:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -499,10 +487,10 @@
   ],
   "all_articles": [
     {
-      "title": "4 Outdated Habits Destroying Your SOC's MTTR in 2026",
-      "link": "https://thehackernews.com/2026/01/4-outdated-habits-destroying-your-socs.html",
-      "summary": "It\u2019s 2026, yet many SOCs are still operating the way they did years ago, using tools and processes designed for a very different threat landscape. Given the growth in volumes and complexity of cyber t...",
-      "published": "2026-01-15T16:30:00+05:30",
+      "title": "Critical WordPress Modular DS Plugin Flaw Actively Exploited to Gain Admin Access",
+      "link": "https://thehackernews.com/2026/01/critical-wordpress-modular-ds-plugin.html",
+      "summary": "A maximum-severity security flaw in a WordPress plugin called Modular DS has come under active exploitation in the wild, according to Patchstack.\nThe vulnerability, tracked as CVE-2026-23550 (CVSS sco...",
+      "published": "2026-01-15T21:01:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -515,47 +503,43 @@
       }
     },
     {
-      "title": "Microsoft Legal Action Disrupts RedVDS Cybercrime Infrastructure Used for Online Fraud",
-      "link": "https://thehackernews.com/2026/01/microsoft-legal-action-disrupts-redvds.html",
-      "summary": "Microsoft on Wednesday announced that it has taken a \"coordinated legal action\" in the U.S. and the U.K. to disrupt a cybercrime subscription service called RedVDS that has allegedly fueled millions i...",
-      "published": "2026-01-15T15:07:00+05:30",
+      "title": "Researchers Reveal Reprompt Attack Allowing Single-Click Data Exfiltration From Microsoft Copilot",
+      "link": "https://thehackernews.com/2026/01/researchers-reveal-reprompt-attack.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new attack method dubbed Reprompt that could allow bad actors to exfiltrate sensitive data from artificial intelligence (AI) chatbots like Microso...",
+      "published": "2026-01-15T20:39:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
-        "chaos": 12.3,
+        "chaos": 3.0,
         "anarchy": 3.0,
-        "overall": 7.7
+        "overall": 3.0
       },
       "keywords": {
-        "chaos": [
-          "disrupt"
-        ],
+        "chaos": [],
         "anarchy": []
       }
     },
     {
-      "title": "Palo Alto Fixes GlobalProtect DoS Flaw That Can Crash Firewalls Without Login",
-      "link": "https://thehackernews.com/2026/01/palo-alto-fixes-globalprotect-dos-flaw.html",
-      "summary": "Palo Alto Networks has released security updates for a high-severity security flaw impacting GlobalProtect Gateway and Portal, for which it said there exists a proof-of-concept (PoC) exploit.\nThe vuln...",
-      "published": "2026-01-15T13:48:00+05:30",
+      "title": "ThreatsDay Bulletin: AI Voice Cloning Exploit, Wi-Fi Kill Switch, PLC Vulns, and 14 More Stories",
+      "link": "https://thehackernews.com/2026/01/threatsday-bulletin-ai-voice-cloning.html",
+      "summary": "The internet never stays quiet. Every week, new hacks, scams, and security problems show up somewhere.\nThis week\u2019s stories show how fast attackers change their tricks, how small mistakes turn into big...",
+      "published": "2026-01-15T19:26:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
-        "chaos": 15.7,
+        "chaos": 3.0,
         "anarchy": 3.0,
-        "overall": 9.4
+        "overall": 3.0
       },
       "keywords": {
-        "chaos": [
-          "crash"
-        ],
+        "chaos": [],
         "anarchy": []
       }
     },
     {
-      "title": "Wine 11.0 Released",
-      "link": "https://gitlab.winehq.org/wine/wine/-/releases/wine-11.0",
-      "summary": "<p>Article URL: <a href=\"https://gitlab.winehq.org/wine/wine/-/releases/wine-11.0\">https://gitlab.winehq.org/wine/wine/-/releases/wine-11.0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.c...",
-      "published": "2026-01-15T12:37:37+00:00",
-      "domain": "gitlab.winehq.org",
+      "title": "I'm launching a tool to boost engagement and grow Twitch communities",
+      "link": "https://lootforge.io/",
+      "summary": "<p>Article URL: <a href=\"https://lootforge.io/\">https://lootforge.io/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46636936\">https://news.ycombinator.com/item?id=46636936</a>...",
+      "published": "2026-01-15T18:30:38+00:00",
+      "domain": "lootforge.io",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -567,11 +551,11 @@
       }
     },
     {
-      "title": "Open Wearables \u2013 Unified Health Data Platform",
-      "link": "https://www.openwearables.io/",
-      "summary": "<p>Article URL: <a href=\"https://www.openwearables.io/\">https://www.openwearables.io/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46631553\">https://news.ycombinator.com/item...",
-      "published": "2026-01-15T12:36:27+00:00",
-      "domain": "openwearables.io",
+      "title": "Mozilla.ai releases a platform to monitor LLM performance and costs",
+      "link": "https://blog.mozilla.ai/secure-your-keys-track-your-costs-any-llm-managed-platform-enters-open-beta/",
+      "summary": "<p>Article URL: <a href=\"https://blog.mozilla.ai/secure-your-keys-track-your-costs-any-llm-managed-platform-enters-open-beta/\">https://blog.mozilla.ai/secure-your-keys-track-your-costs-any-llm-managed...",
+      "published": "2026-01-15T18:30:14+00:00",
+      "domain": "blog.mozilla.ai",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -583,11 +567,27 @@
       }
     },
     {
-      "title": "Secret ICE Programs Revealed",
-      "link": "https://www.kenklippenstein.com/p/21-secret-ice-programs-revealed",
-      "summary": "<p>Article URL: <a href=\"https://www.kenklippenstein.com/p/21-secret-ice-programs-revealed\">https://www.kenklippenstein.com/p/21-secret-ice-programs-revealed</a></p>\n<p>Comments URL: <a href=\"https://...",
-      "published": "2026-01-15T12:35:41+00:00",
-      "domain": "kenklippenstein.com",
+      "title": "Wikimedia Foundation Announces AI Partnerships with Amazon, Meta, Microsoft",
+      "link": "https://techcrunch.com/2026/01/15/wikimedia-foundation-announces-new-ai-partnerships-with-amazon-meta-microsoft-perplexity-and-others/",
+      "summary": "<p>Article URL: <a href=\"https://techcrunch.com/2026/01/15/wikimedia-foundation-announces-new-ai-partnerships-with-amazon-meta-microsoft-perplexity-and-others/\">https://techcrunch.com/2026/01/15/wikim...",
+      "published": "2026-01-15T18:30:12+00:00",
+      "domain": "techcrunch.com",
+      "scores": {
+        "chaos": 9.0,
+        "anarchy": 6.0,
+        "overall": 7.5
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The grief when AI writes most of the code",
+      "link": "https://blog.pragmaticengineer.com/the-grief-when-ai-writes-most-of-the-code/",
+      "summary": "<p>Article URL: <a href=\"https://blog.pragmaticengineer.com/the-grief-when-ai-writes-most-of-the-code/\">https://blog.pragmaticengineer.com/the-grief-when-ai-writes-most-of-the-code/</a></p>\n<p>Comment...",
+      "published": "2026-01-15T18:29:58+00:00",
+      "domain": "blog.pragmaticengineer.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -599,11 +599,11 @@
       }
     },
     {
-      "title": "Genetic Therapy Aims to Bring Hearing to Those Born Deaf",
-      "link": "https://hackaday.com/2026/01/14/genetic-therapy-aims-to-bring-hearing-to-those-born-deaf/",
-      "summary": "<p>Article URL: <a href=\"https://hackaday.com/2026/01/14/genetic-therapy-aims-to-bring-hearing-to-those-born-deaf/\">https://hackaday.com/2026/01/14/genetic-therapy-aims-to-bring-hearing-to-those-born-...",
-      "published": "2026-01-15T12:34:05+00:00",
-      "domain": "hackaday.com",
+      "title": "Show HN: Superhuman for LinkedIn Inbox",
+      "link": "https://www.withtact.app/",
+      "summary": "<p>Hi HN,<p>I built Tact, a keyboard-first client that sits on top of your LinkedIn inbox and makes outbound faster without turning it into AI-generated slop.<p>The goal was to help people who do targ...",
+      "published": "2026-01-15T18:29:47+00:00",
+      "domain": "withtact.app",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -615,11 +615,11 @@
       }
     },
     {
-      "title": "SpaceX will attempt to reach Mars by the end of 2026",
-      "link": "https://www.msn.com/en-ie/money/other/elon-musk-surprises-everyone-spacex-will-attempt-to-reach-mars-by-the-end-of-2026/ar-AA1TZA2z",
-      "summary": "<p>Article URL: <a href=\"https://www.msn.com/en-ie/money/other/elon-musk-surprises-everyone-spacex-will-attempt-to-reach-mars-by-the-end-of-2026/ar-AA1TZA2z\">https://www.msn.com/en-ie/money/other/elon...",
-      "published": "2026-01-15T12:32:42+00:00",
-      "domain": "msn.com",
+      "title": "CVEs Affecting the Svelte Ecosystem",
+      "link": "https://svelte.dev/blog/cves-affecting-the-svelte-ecosystem",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46636387\">Comments</a>...",
+      "published": "2026-01-15T17:51:24+00:00",
+      "domain": "svelte.dev",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -631,27 +631,11 @@
       }
     },
     {
-      "title": "Learners and educators are AI\u2019s new \u201csuper users\u201d",
-      "link": "https://blog.google/products-and-platforms/products/education/our-life-with-ai-2025/",
-      "summary": "Teacher using a computer with students...",
-      "published": "2026-01-15T11:00:00+00:00",
-      "domain": "blog.google",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Raspberry Pi's New AI Hat Adds 8GB of RAM for Local LLMs",
-      "link": "https://www.jeffgeerling.com/blog/2026/raspberry-pi-ai-hat-2/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=46629682\">Comments</a>...",
-      "published": "2026-01-15T08:23:02+00:00",
-      "domain": "jeffgeerling.com",
+      "title": "Model Security Is the Wrong Frame \u2013 The Real Risk Is Workflow Security",
+      "link": "https://thehackernews.com/2026/01/model-security-is-wrong-frame-real-risk.html",
+      "summary": "As AI copilots and assistants become embedded in daily work, security teams are still focused on protecting the models themselves. But recent incidents suggest the bigger risk lies elsewhere: in the w...",
+      "published": "2026-01-15T17:25:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
