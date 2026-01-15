@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Website that leaked info about ICE agents is down after cyberattack.
-- **Published**: January 14, 2026
-- **Summary**:  <br /> <span><a href="https://www.msn.com/en-us/news/us/website-that-leaked-info-about-ice-agents-is-down-......
-- **Keywords**: down, down
-- [Read more](https://www.reddit.com/r/technology/comments/1qd1tsz/website_that_leaked_info_about_ice_agents_is_down/)
-
-### Bubblewrap: A nimble way to prevent agents from accessing your .env files
+### Google Gemini Can Proactively Analyze Users' Gmail, Photos, Searches
 - **Published**: January 15, 2026
-- **Summary**: https://patrickmccanna.net/a-better-way-to-limit-claude-code-and-other......
-- [Read more](https://patrickmccanna.net/a-better-way-to-limit-claude-code-and-other-coding-agents-access-to-secrets/)
+- **Summary**: https://www.bloomberg.com/news/articles/2026-0......
+- [Read more](https://www.bloomberg.com/news/articles/2026-01-14/google-gemini-s-personalized-intelligence-feature-taps-gmail-searches-photos)
+
+### Microsoft vows to 'pay its way' as it seeks to defuse data centre backlash
+- **Published**: January 15, 2026
+- **Summary**: https://www.ft.com/content/3f392c9b-c07d-42f5-b000-0a7347ad1ec0</a></p>
+<p>Comments URL: <a href="https://news......
+- [Read more](https://www.ft.com/content/3f392c9b-c07d-42f5-b000-0a7347ad1ec0)
 
 ---
 
