@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Your Digital Footprint Can Lead Right to Your Front Door
+### GootLoader Malware Uses 500–1,000 Concatenated ZIP Archives to Evade Detection
 - **Published**: January 16, 2026
-- **Summary**: You lock your doors at night. You avoid sketchy phone calls. You’re careful about what you post on social media.
-But what about the information about ...
-- [Read more](https://thehackernews.com/2026/01/your-digital-footprint-can-lead-right.html)
+- **Summary**: The JavaScript (aka JScript) malware loader called GootLoader has been observed using a malformed ZIP archive that's designed to sidestep detection ef...
+- [Read more](https://thehackernews.com/2026/01/gootloader-malware-uses-5001000.html)
 
-### LOTUSLITE Backdoor Targets U.S. Policy Entities Using Venezuela-Themed Spear Phishing
+### Five Malicious Chrome Extensions Impersonate Workday and NetSuite to Hijack Accounts
 - **Published**: January 16, 2026
-- **Summary**: Security experts have disclosed details of a new campaign that has targeted U.S. government and policy entities using politically themed lures to deli...
-- [Read more](https://thehackernews.com/2026/01/lotuslite-backdoor-targets-us-policy.html)
+- **Summary**: Cybersecurity researchers have discovered five new malicious Google Chrome web browser extensions that masquerade as human resources (HR) and enterpri...
+- [Read more](https://thehackernews.com/2026/01/five-malicious-chrome-extensions.html)
 
 ---
 
