@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Let It Snow: On Rabbit Holes and Linux
+### Cisco Patches Zero-Day RCE Exploited by China-Linked APT in Secure Email Gateways
 - **Published**: January 16, 2026
-- **Summary**: https://brian.dev/articles/let-it-snow/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46641965">https://news.......
-- [Read more](https://brian.dev/articles/let-it-snow/)
+- **Summary**: Cisco on Thursday released security updates for a maximum-severity security flaw impacting Cisco AsyncOS Software for Cisco Secure Email Gateway and C...
+- [Read more](https://thehackernews.com/2026/01/cisco-patches-zero-day-rce-exploited-by.html)
 
-### Fast Client-Side Search with Rust and WebAssembly
+### Hardware‑Attested Ad Insertion for Encrypted Video
 - **Published**: January 16, 2026
-- **Summary**: https://code.visualstudio.com/blogs/2026/01/15/docfind</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/i......
-- [Read more](https://code.visualstudio.com/blogs/2026/01/15/docfind)
+- **Summary**: https://www.gojiberries.io/hardware-attested-ad-insertion-for-encrypted-video/</a></p>
+<p>Comme......
+- [Read more](https://www.gojiberries.io/hardware-attested-ad-insertion-for-encrypted-video/)
 
 ---
 
