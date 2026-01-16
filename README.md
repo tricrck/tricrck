@@ -16,16 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Wikimedia Foundation Announces AI Partnerships with Amazon, Meta, Microsoft
-- **Published**: January 15, 2026
-- **Summary**: https://techcrunch.com/2026/01/15/wikim......
-- [Read more](https://techcrunch.com/2026/01/15/wikimedia-foundation-announces-new-ai-partnerships-with-amazon-meta-microsoft-perplexity-and-others/)
+### Let It Snow: On Rabbit Holes and Linux
+- **Published**: January 16, 2026
+- **Summary**: https://brian.dev/articles/let-it-snow/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46641965">https://news.......
+- [Read more](https://brian.dev/articles/let-it-snow/)
 
-### Critical WordPress Modular DS Plugin Flaw Actively Exploited to Gain Admin Access
-- **Published**: January 15, 2026
-- **Summary**: A maximum-severity security flaw in a WordPress plugin called Modular DS has come under active exploitation in the wild, according to Patchstack.
-The ...
-- [Read more](https://thehackernews.com/2026/01/critical-wordpress-modular-ds-plugin.html)
+### Fast Client-Side Search with Rust and WebAssembly
+- **Published**: January 16, 2026
+- **Summary**: https://code.visualstudio.com/blogs/2026/01/15/docfind</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/i......
+- [Read more](https://code.visualstudio.com/blogs/2026/01/15/docfind)
 
 ---
 
