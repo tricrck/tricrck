@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Cisco Patches Zero-Day RCE Exploited by China-Linked APT in Secure Email Gateways
+### Your Digital Footprint Can Lead Right to Your Front Door
 - **Published**: January 16, 2026
-- **Summary**: Cisco on Thursday released security updates for a maximum-severity security flaw impacting Cisco AsyncOS Software for Cisco Secure Email Gateway and C...
-- [Read more](https://thehackernews.com/2026/01/cisco-patches-zero-day-rce-exploited-by.html)
+- **Summary**: You lock your doors at night. You avoid sketchy phone calls. You’re careful about what you post on social media.
+But what about the information about ...
+- [Read more](https://thehackernews.com/2026/01/your-digital-footprint-can-lead-right.html)
 
-### Hardware‑Attested Ad Insertion for Encrypted Video
+### LOTUSLITE Backdoor Targets U.S. Policy Entities Using Venezuela-Themed Spear Phishing
 - **Published**: January 16, 2026
-- **Summary**: https://www.gojiberries.io/hardware-attested-ad-insertion-for-encrypted-video/</a></p>
-<p>Comme......
-- [Read more](https://www.gojiberries.io/hardware-attested-ad-insertion-for-encrypted-video/)
+- **Summary**: Security experts have disclosed details of a new campaign that has targeted U.S. government and policy entities using politically themed lures to deli...
+- [Read more](https://thehackernews.com/2026/01/lotuslite-backdoor-targets-us-policy.html)
 
 ---
 
