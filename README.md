@@ -16,15 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### GootLoader Malware Uses 500–1,000 Concatenated ZIP Archives to Evade Detection
-- **Published**: January 16, 2026
-- **Summary**: The JavaScript (aka JScript) malware loader called GootLoader has been observed using a malformed ZIP archive that's designed to sidestep detection ef...
-- [Read more](https://thehackernews.com/2026/01/gootloader-malware-uses-5001000.html)
+### Visual Lexicon of Aztec Hieroglyphs
+- **Published**: January 17, 2026
+- **Summary**: https://aztecglyphs.wired-humanities.org/content/visual-lexicon-aztec-hieroglyphs</a></p>
+<p......
+- [Read more](https://aztecglyphs.wired-humanities.org/content/visual-lexicon-aztec-hieroglyphs)
 
-### Five Malicious Chrome Extensions Impersonate Workday and NetSuite to Hijack Accounts
-- **Published**: January 16, 2026
-- **Summary**: Cybersecurity researchers have discovered five new malicious Google Chrome web browser extensions that masquerade as human resources (HR) and enterpri...
-- [Read more](https://thehackernews.com/2026/01/five-malicious-chrome-extensions.html)
+### Why Flutter Isn't Dead
+- **Published**: January 17, 2026
+- **Summary**: https://shorebird.dev/blog/flutter-not-dead/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46654490">htt......
+- [Read more](https://shorebird.dev/blog/flutter-not-dead/)
 
 ---
 
