@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### OpenAI to Show Ads in ChatGPT for Logged-In U.S. Adults on Free and Go Plans
+### Black Basta Ransomware Leader Added to EU Most Wanted and INTERPOL Red Notice
 - **Published**: January 17, 2026
-- **Summary**: OpenAI on Friday said it would start showing ads in ChatGPT to logged-in adult U.S. users in both the free and ChatGPT Go tiers in the coming weeks, a...
-- [Read more](https://thehackernews.com/2026/01/openai-to-show-ads-in-chatgpt-for.html)
+- **Summary**: Ukrainian and German law enforcement authorities have identified two Ukrainians suspected of working for the Russia-linked ransomware-as-a-service (Ra...
+- [Read more](https://thehackernews.com/2026/01/black-basta-ransomware-hacker-leader.html)
 
-### Terminal Lucidity
+### Reverse Engineering a Biometric Attendance Machine
 - **Published**: January 17, 2026
-- **Summary**: https://my.clevelandclinic.org/health/symptoms/terminal-lucidity</a></p>
-<p>Comments URL: <a href="https://ne......
-- [Read more](https://my.clevelandclinic.org/health/symptoms/terminal-lucidity)
+- **Summary**: https://www.onlydarshan.com/posts/first_blog</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46660502">htt......
+- [Read more](https://www.onlydarshan.com/posts/first_blog)
 
 ---
 
