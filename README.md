@@ -16,18 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Tyler Cowen's AI Campus
+### OpenAI to Show Ads in ChatGPT for Logged-In U.S. Adults on Free and Go Plans
 - **Published**: January 17, 2026
-- **Summary**: https://arnoldkling.substack.com/p/tyler-cowens-ai-campus</a></p>
-<p>Comments URL: <a href="https://news.ycombinator......
-- [Read more](https://arnoldkling.substack.com/p/tyler-cowens-ai-campus)
+- **Summary**: OpenAI on Friday said it would start showing ads in ChatGPT to logged-in adult U.S. users in both the free and ChatGPT Go tiers in the coming weeks, a...
+- [Read more](https://thehackernews.com/2026/01/openai-to-show-ads-in-chatgpt-for.html)
 
-### Show HN: Local AI that knows when you're burning out
+### Terminal Lucidity
 - **Published**: January 17, 2026
-- **Summary**: https://humonos.com</a></p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46655778">https://news.ycombinator.......
-- [Read more](https://www.humonos.com/beta)
+- **Summary**: https://my.clevelandclinic.org/health/symptoms/terminal-lucidity</a></p>
+<p>Comments URL: <a href="https://ne......
+- [Read more](https://my.clevelandclinic.org/health/symptoms/terminal-lucidity)
 
 ---
 
