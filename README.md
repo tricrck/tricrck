@@ -16,17 +16,18 @@
 
 ## 🚨 Tech Stories
 
-### Visual Lexicon of Aztec Hieroglyphs
+### Tyler Cowen's AI Campus
 - **Published**: January 17, 2026
-- **Summary**: https://aztecglyphs.wired-humanities.org/content/visual-lexicon-aztec-hieroglyphs</a></p>
-<p......
-- [Read more](https://aztecglyphs.wired-humanities.org/content/visual-lexicon-aztec-hieroglyphs)
+- **Summary**: https://arnoldkling.substack.com/p/tyler-cowens-ai-campus</a></p>
+<p>Comments URL: <a href="https://news.ycombinator......
+- [Read more](https://arnoldkling.substack.com/p/tyler-cowens-ai-campus)
 
-### Why Flutter Isn't Dead
+### Show HN: Local AI that knows when you're burning out
 - **Published**: January 17, 2026
-- **Summary**: https://shorebird.dev/blog/flutter-not-dead/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46654490">htt......
-- [Read more](https://shorebird.dev/blog/flutter-not-dead/)
+- **Summary**: https://humonos.com</a></p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46655778">https://news.ycombinator.......
+- [Read more](https://www.humonos.com/beta)
 
 ---
 
