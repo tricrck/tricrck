@@ -16,17 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Gemini Introduces Personal Intelligence
+### Archaeologists find the oldest-known shell beads (2021)
 - **Published**: January 18, 2026
-- **Summary**: https://blog.google/innovation-and-ai/products/gemini-app/personal-intelligence/</a></p>
-<p>C......
-- [Read more](https://blog.google/innovation-and-ai/products/gemini-app/personal-intelligence/)
+- **Summary**: https://leakeyfoundation.org/archaeologists-find-the-oldest-known-shell-beads/</a></p>
+<p>Comme......
+- [Read more](https://leakeyfoundation.org/archaeologists-find-the-oldest-known-shell-beads/)
 
-### Forecats
+### Spirit of ThinkPad
 - **Published**: January 18, 2026
-- **Summary**: https://secondthoughts.my/posts/projects/forecats/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4......
-- [Read more](https://secondthoughts.my/posts/projects/forecats/)
+- **Summary**: https://thinknextdesign.com/home.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46665310">https://news.ycom......
+- [Read more](https://thinknextdesign.com/home.html)
 
 ---
 
