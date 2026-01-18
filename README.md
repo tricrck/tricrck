@@ -16,17 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Archaeologists find the oldest-known shell beads (2021)
+### AIVO Standard and the AI Reliance Governance Layer
 - **Published**: January 18, 2026
-- **Summary**: https://leakeyfoundation.org/archaeologists-find-the-oldest-known-shell-beads/</a></p>
-<p>Comme......
-- [Read more](https://leakeyfoundation.org/archaeologists-find-the-oldest-known-shell-beads/)
+- **Summary**: https://zenodo.org/records/18289687</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46667348">https://news.ycombina......
+- [Read more](https://zenodo.org/records/18289687)
 
-### Spirit of ThinkPad
+### Avoiding fan traps in database design and system diagrams
 - **Published**: January 18, 2026
-- **Summary**: https://thinknextdesign.com/home.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46665310">https://news.ycom......
-- [Read more](https://thinknextdesign.com/home.html)
+- **Summary**: https://www.ilograph.com/blog/posts/avoid-fan-traps-in-system-diagrams/</a></p>
+<p>Comments URL: <a hr......
+- [Read more](https://www.ilograph.com/blog/posts/avoid-fan-traps-in-system-diagrams/)
 
 ---
 
