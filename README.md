@@ -16,16 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Black Basta Ransomware Leader Added to EU Most Wanted and INTERPOL Red Notice
-- **Published**: January 17, 2026
-- **Summary**: Ukrainian and German law enforcement authorities have identified two Ukrainians suspected of working for the Russia-linked ransomware-as-a-service (Ra...
-- [Read more](https://thehackernews.com/2026/01/black-basta-ransomware-hacker-leader.html)
+### Gemini Introduces Personal Intelligence
+- **Published**: January 18, 2026
+- **Summary**: https://blog.google/innovation-and-ai/products/gemini-app/personal-intelligence/</a></p>
+<p>C......
+- [Read more](https://blog.google/innovation-and-ai/products/gemini-app/personal-intelligence/)
 
-### Reverse Engineering a Biometric Attendance Machine
-- **Published**: January 17, 2026
-- **Summary**: https://www.onlydarshan.com/posts/first_blog</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46660502">htt......
-- [Read more](https://www.onlydarshan.com/posts/first_blog)
+### Forecats
+- **Published**: January 18, 2026
+- **Summary**: https://secondthoughts.my/posts/projects/forecats/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4......
+- [Read more](https://secondthoughts.my/posts/projects/forecats/)
 
 ---
 
