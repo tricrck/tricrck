@@ -16,17 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### AIVO Standard and the AI Reliance Governance Layer
+### Help – GitHub Terminated Without Notice, No Broken Rules
 - **Published**: January 18, 2026
-- **Summary**: https://zenodo.org/records/18289687</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46667348">https://news.ycombina......
-- [Read more](https://zenodo.org/records/18289687)
+- **Summary**: https://github.com/nicoandmee/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46670542">https://news.ycombinator.com/it......
+- **Keywords**: broken
+- [Read more](https://github.com/nicoandmee/)
 
-### Avoiding fan traps in database design and system diagrams
+### America is slow-walking into a Polymarket disaster
 - **Published**: January 18, 2026
-- **Summary**: https://www.ilograph.com/blog/posts/avoid-fan-traps-in-system-diagrams/</a></p>
-<p>Comments URL: <a hr......
-- [Read more](https://www.ilograph.com/blog/posts/avoid-fan-traps-in-system-diagrams/)
+- **Summary**: https://www.msn.com/en-us/money/markets/america-is-slow-walking-into-a-......
+- [Read more](https://www.msn.com/en-us/money/markets/america-is-slow-walking-into-a-polymarket-disaster/ar-AA1Upfdb)
 
 ---
 
