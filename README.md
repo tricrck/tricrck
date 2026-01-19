@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Help – GitHub Terminated Without Notice, No Broken Rules
-- **Published**: January 18, 2026
-- **Summary**: https://github.com/nicoandmee/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46670542">https://news.ycombinator.com/it......
-- **Keywords**: broken
-- [Read more](https://github.com/nicoandmee/)
+### Privacy Engineering at Scale: Building Automated Data Retention Systems
+- **Published**: January 19, 2026
+- **Summary**: https://medium.com/@sandhyavinjam/privacy-engineering-at......
+- [Read more](https://medium.com/@sandhyavinjam/privacy-engineering-at-scale-building-automated-data-retention-systems-879778248ea9)
 
-### America is slow-walking into a Polymarket disaster
-- **Published**: January 18, 2026
-- **Summary**: https://www.msn.com/en-us/money/markets/america-is-slow-walking-into-a-......
-- [Read more](https://www.msn.com/en-us/money/markets/america-is-slow-walking-into-a-polymarket-disaster/ar-AA1Upfdb)
+### There's no corpus large enough
+- **Published**: January 19, 2026
+- **Summary**: https://www.swiftcraft.io/articles/no-corpus-large-enough</a></p>
+<p>Comments URL: <a href="https://news.ycombinator......
+- [Read more](https://www.swiftcraft.io/articles/no-corpus-large-enough)
 
 ---
 
