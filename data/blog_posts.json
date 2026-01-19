@@ -1,39 +1,114 @@
 {
   "chaos_ranked": [
     {
-      "title": "CrashFix Chrome Extension Delivers ModeloRAT Using ClickFix-Style Browser Crash Lures",
-      "link": "https://thehackernews.com/2026/01/crashfix-chrome-extension-delivers.html",
-      "summary": "Cybersecurity researchers have disclosed details of an ongoing campaign dubbed KongTuke that used a malicious Google Chrome extension masquerading as an ad blocker to deliberately crash the web browse...",
-      "published": "2026-01-19T14:39:00+05:30",
+      "title": "Google Gemini Prompt Injection Flaw Exposed Private Calendar Data via Malicious Invites",
+      "link": "https://thehackernews.com/2026/01/google-gemini-prompt-injection-flaw.html",
+      "summary": "Cybersecurity researchers have disclosed details of a security flaw that leverages indirect prompt injection targeting Google Gemini as a way to bypass authorization guardrails and use Google Calendar...",
+      "published": "2026-01-19T22:51:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
-        "chaos": 31.0,
+        "chaos": 3.0,
         "anarchy": 3.0,
-        "overall": 17.0
+        "overall": 3.0
       },
       "keywords": {
-        "chaos": [
-          "crash",
-          "crash"
-        ],
+        "chaos": [],
         "anarchy": []
       }
     },
     {
-      "title": "Security Bug in StealC Malware Panel Let Researchers Spy on Threat Actor Operations",
-      "link": "https://thehackernews.com/2026/01/security-bug-in-stealc-malware-panel.html",
-      "summary": "Cybersecurity researchers have disclosed a cross-site scripting (XSS) vulnerability in the web-based control panel used by operators of the StealC information stealer, allowing them to gather crucial ...",
-      "published": "2026-01-19T12:23:00+05:30",
+      "title": "\u26a1 Weekly Recap: Fortinet Exploits, RedLine Clipjack, NTLM Crack, Copilot Attack & More",
+      "link": "https://thehackernews.com/2026/01/weekly-recap-fortinet-exploits-redline.html",
+      "summary": "In cybersecurity, the line between a normal update and a serious incident keeps getting thinner. Systems that once felt reliable are now under pressure from constant change. New AI tools, connected de...",
+      "published": "2026-01-19T18:47:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
-        "chaos": 11.3,
+        "chaos": 3.0,
         "anarchy": 3.0,
-        "overall": 7.2
+        "overall": 3.0
       },
       "keywords": {
-        "chaos": [
-          "bug"
-        ],
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "IBM warns AI spend fails without AI literacy",
+      "link": "https://www.thedeepview.com/articles/ibm-warns-ai-spend-fails-without-ai-literacy",
+      "summary": "<p>Article URL: <a href=\"https://www.thedeepview.com/articles/ibm-warns-ai-spend-fails-without-ai-literacy\">https://www.thedeepview.com/articles/ibm-warns-ai-spend-fails-without-ai-literacy</a></p>\n<p...",
+      "published": "2026-01-19T18:20:57+00:00",
+      "domain": "thedeepview.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Two-Thirds of Ukraine's Intelligence Comes from France's Space Intelligence",
+      "link": "https://militarnyi.com/en/articles/france-s-space-intelligence-where-does-two-thirds-of-ukraine-s-intelligence-come-from/",
+      "summary": "<p>Article URL: <a href=\"https://militarnyi.com/en/articles/france-s-space-intelligence-where-does-two-thirds-of-ukraine-s-intelligence-come-from/\">https://militarnyi.com/en/articles/france-s-space-in...",
+      "published": "2026-01-19T18:20:11+00:00",
+      "domain": "militarnyi.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Ask HN: How do you run parallel agent sessions?",
+      "link": "https://news.ycombinator.com/item?id=46682551",
+      "summary": "<p>Anthropic has these docs that use git worktree: https://code.claude.com/docs/en/common-workflows#run-parallel-claude-code-sessions-with-git-worktrees<p>There are some apps like this that leverage g...",
+      "published": "2026-01-19T18:18:49+00:00",
+      "domain": "news.ycombinator.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "I explored every Harry Potter filming location [video]",
+      "link": "https://youtu.be/Tbx-AFBuDY0",
+      "summary": "<p>Article URL: <a href=\"https://youtu.be/Tbx-AFBuDY0\">https://youtu.be/Tbx-AFBuDY0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46682546\">https://news.ycombinator.com/item?i...",
+      "published": "2026-01-19T18:18:23+00:00",
+      "domain": "youtu.be",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Removing branches from the hot path: A 60% speed-up for Product Quantization",
+      "link": "https://twitter.com/etiennedi/status/2013304614183919617",
+      "summary": "<p>Article URL: <a href=\"https://twitter.com/etiennedi/status/2013304614183919617\">https://twitter.com/etiennedi/status/2013304614183919617</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.c...",
+      "published": "2026-01-19T18:17:21+00:00",
+      "domain": "twitter.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
         "anarchy": []
       }
     },
@@ -54,107 +129,27 @@
       }
     },
     {
+      "title": "What came first: the CNAME or the A record?",
+      "link": "https://blog.cloudflare.com/cname-a-record-order-dns-standards/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46681611\">Comments</a>...",
+      "published": "2026-01-19T17:13:59+00:00",
+      "domain": "blog.cloudflare.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "New StackWarp Hardware Flaw Breaks AMD SEV-SNP Protections on Zen 1\u20135 CPUs",
       "link": "https://thehackernews.com/2026/01/new-stackwarp-hardware-flaw-breaks-amd.html",
       "summary": "A team of academics from the CISPA Helmholtz Center for Information Security in Germany has disclosed the details of a new hardware vulnerability affecting AMD processors.\nThe security flaw, codenamed...",
       "published": "2026-01-19T17:01:00+05:30",
       "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Select Wat from SQL;",
-      "link": "https://scattered-thoughts.net/writing/select-wat-from-sql/",
-      "summary": "<p>Article URL: <a href=\"https://scattered-thoughts.net/writing/select-wat-from-sql/\">https://scattered-thoughts.net/writing/select-wat-from-sql/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombin...",
-      "published": "2026-01-19T12:42:02+00:00",
-      "domain": "scattered-thoughts.net",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: Enjoy \u2013 A gamified GitHub repo where contributions earn karma",
-      "link": "https://github.com/fabriziosalmi/enjoy",
-      "summary": "<p>I built a game that lives entirely inside a GitHub repository. Every contribution earns karma, unlocks achievements, and levels up the community.<p>How it works:<p>- Fork \u2192 Add a word to words/ \u2192 P...",
-      "published": "2026-01-19T12:40:01+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Static site search without JavaScript (Perl + FastCGI + SA index)",
-      "link": "https://www.asciimx.com/log/site-search/",
-      "summary": "<p>Article URL: <a href=\"https://www.asciimx.com/log/site-search/\">https://www.asciimx.com/log/site-search/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46678329\">https://new...",
-      "published": "2026-01-19T12:39:55+00:00",
-      "domain": "asciimx.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "ZeroDP: Just-in-Time Weight Offloading over NVLink for Data Parallelism",
-      "link": "https://mainlymatmul.com/blog/zerodp/",
-      "summary": "<p>Article URL: <a href=\"https://mainlymatmul.com/blog/zerodp/\">https://mainlymatmul.com/blog/zerodp/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46678316\">https://news.ycom...",
-      "published": "2026-01-19T12:37:58+00:00",
-      "domain": "mainlymatmul.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Why Young Danes Are Still Having Sex",
-      "link": "https://spectator.com/article/gen-z-as-is-well-known-is-having-significantly-less-sex-than-their-parents/",
-      "summary": "<p>Article URL: <a href=\"https://spectator.com/article/gen-z-as-is-well-known-is-having-significantly-less-sex-than-their-parents/\">https://spectator.com/article/gen-z-as-is-well-known-is-having-signi...",
-      "published": "2026-01-19T12:36:46+00:00",
-      "domain": "spectator.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Nuclear elements detected in West Philippine Sea",
-      "link": "https://www.philstar.com/headlines/2026/01/18/2501750/nuclear-elements-detected-west-philippine-sea",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=46677436\">Comments</a>...",
-      "published": "2026-01-19T10:46:54+00:00",
-      "domain": "philstar.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -168,6 +163,118 @@
   ],
   "anarchy_ranked": [
     {
+      "title": "Google Gemini Prompt Injection Flaw Exposed Private Calendar Data via Malicious Invites",
+      "link": "https://thehackernews.com/2026/01/google-gemini-prompt-injection-flaw.html",
+      "summary": "Cybersecurity researchers have disclosed details of a security flaw that leverages indirect prompt injection targeting Google Gemini as a way to bypass authorization guardrails and use Google Calendar...",
+      "published": "2026-01-19T22:51:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "\u26a1 Weekly Recap: Fortinet Exploits, RedLine Clipjack, NTLM Crack, Copilot Attack & More",
+      "link": "https://thehackernews.com/2026/01/weekly-recap-fortinet-exploits-redline.html",
+      "summary": "In cybersecurity, the line between a normal update and a serious incident keeps getting thinner. Systems that once felt reliable are now under pressure from constant change. New AI tools, connected de...",
+      "published": "2026-01-19T18:47:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "IBM warns AI spend fails without AI literacy",
+      "link": "https://www.thedeepview.com/articles/ibm-warns-ai-spend-fails-without-ai-literacy",
+      "summary": "<p>Article URL: <a href=\"https://www.thedeepview.com/articles/ibm-warns-ai-spend-fails-without-ai-literacy\">https://www.thedeepview.com/articles/ibm-warns-ai-spend-fails-without-ai-literacy</a></p>\n<p...",
+      "published": "2026-01-19T18:20:57+00:00",
+      "domain": "thedeepview.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Two-Thirds of Ukraine's Intelligence Comes from France's Space Intelligence",
+      "link": "https://militarnyi.com/en/articles/france-s-space-intelligence-where-does-two-thirds-of-ukraine-s-intelligence-come-from/",
+      "summary": "<p>Article URL: <a href=\"https://militarnyi.com/en/articles/france-s-space-intelligence-where-does-two-thirds-of-ukraine-s-intelligence-come-from/\">https://militarnyi.com/en/articles/france-s-space-in...",
+      "published": "2026-01-19T18:20:11+00:00",
+      "domain": "militarnyi.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Ask HN: How do you run parallel agent sessions?",
+      "link": "https://news.ycombinator.com/item?id=46682551",
+      "summary": "<p>Anthropic has these docs that use git worktree: https://code.claude.com/docs/en/common-workflows#run-parallel-claude-code-sessions-with-git-worktrees<p>There are some apps like this that leverage g...",
+      "published": "2026-01-19T18:18:49+00:00",
+      "domain": "news.ycombinator.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "I explored every Harry Potter filming location [video]",
+      "link": "https://youtu.be/Tbx-AFBuDY0",
+      "summary": "<p>Article URL: <a href=\"https://youtu.be/Tbx-AFBuDY0\">https://youtu.be/Tbx-AFBuDY0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46682546\">https://news.ycombinator.com/item?i...",
+      "published": "2026-01-19T18:18:23+00:00",
+      "domain": "youtu.be",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Removing branches from the hot path: A 60% speed-up for Product Quantization",
+      "link": "https://twitter.com/etiennedi/status/2013304614183919617",
+      "summary": "<p>Article URL: <a href=\"https://twitter.com/etiennedi/status/2013304614183919617\">https://twitter.com/etiennedi/status/2013304614183919617</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.c...",
+      "published": "2026-01-19T18:17:21+00:00",
+      "domain": "twitter.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "DevOps & SaaS Downtime: The High (and Hidden) Costs for Cloud-First Businesses",
       "link": "https://thehackernews.com/2026/01/high-costs-of-devops-saas-downtime.html",
       "summary": "Just a few years ago, the cloud was touted as the \u201cmagic pill\u201d for any cyber threat or performance issue. Many were lured by the \u201calways-on\u201d dream, trading granular control for the convenience of mana...",
@@ -184,144 +291,27 @@
       }
     },
     {
+      "title": "What came first: the CNAME or the A record?",
+      "link": "https://blog.cloudflare.com/cname-a-record-order-dns-standards/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46681611\">Comments</a>...",
+      "published": "2026-01-19T17:13:59+00:00",
+      "domain": "blog.cloudflare.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "New StackWarp Hardware Flaw Breaks AMD SEV-SNP Protections on Zen 1\u20135 CPUs",
       "link": "https://thehackernews.com/2026/01/new-stackwarp-hardware-flaw-breaks-amd.html",
       "summary": "A team of academics from the CISPA Helmholtz Center for Information Security in Germany has disclosed the details of a new hardware vulnerability affecting AMD processors.\nThe security flaw, codenamed...",
       "published": "2026-01-19T17:01:00+05:30",
       "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "CrashFix Chrome Extension Delivers ModeloRAT Using ClickFix-Style Browser Crash Lures",
-      "link": "https://thehackernews.com/2026/01/crashfix-chrome-extension-delivers.html",
-      "summary": "Cybersecurity researchers have disclosed details of an ongoing campaign dubbed KongTuke that used a malicious Google Chrome extension masquerading as an ad blocker to deliberately crash the web browse...",
-      "published": "2026-01-19T14:39:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 31.0,
-        "anarchy": 3.0,
-        "overall": 17.0
-      },
-      "keywords": {
-        "chaos": [
-          "crash",
-          "crash"
-        ],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Select Wat from SQL;",
-      "link": "https://scattered-thoughts.net/writing/select-wat-from-sql/",
-      "summary": "<p>Article URL: <a href=\"https://scattered-thoughts.net/writing/select-wat-from-sql/\">https://scattered-thoughts.net/writing/select-wat-from-sql/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombin...",
-      "published": "2026-01-19T12:42:02+00:00",
-      "domain": "scattered-thoughts.net",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: Enjoy \u2013 A gamified GitHub repo where contributions earn karma",
-      "link": "https://github.com/fabriziosalmi/enjoy",
-      "summary": "<p>I built a game that lives entirely inside a GitHub repository. Every contribution earns karma, unlocks achievements, and levels up the community.<p>How it works:<p>- Fork \u2192 Add a word to words/ \u2192 P...",
-      "published": "2026-01-19T12:40:01+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Static site search without JavaScript (Perl + FastCGI + SA index)",
-      "link": "https://www.asciimx.com/log/site-search/",
-      "summary": "<p>Article URL: <a href=\"https://www.asciimx.com/log/site-search/\">https://www.asciimx.com/log/site-search/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46678329\">https://new...",
-      "published": "2026-01-19T12:39:55+00:00",
-      "domain": "asciimx.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "ZeroDP: Just-in-Time Weight Offloading over NVLink for Data Parallelism",
-      "link": "https://mainlymatmul.com/blog/zerodp/",
-      "summary": "<p>Article URL: <a href=\"https://mainlymatmul.com/blog/zerodp/\">https://mainlymatmul.com/blog/zerodp/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46678316\">https://news.ycom...",
-      "published": "2026-01-19T12:37:58+00:00",
-      "domain": "mainlymatmul.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Why Young Danes Are Still Having Sex",
-      "link": "https://spectator.com/article/gen-z-as-is-well-known-is-having-significantly-less-sex-than-their-parents/",
-      "summary": "<p>Article URL: <a href=\"https://spectator.com/article/gen-z-as-is-well-known-is-having-significantly-less-sex-than-their-parents/\">https://spectator.com/article/gen-z-as-is-well-known-is-having-signi...",
-      "published": "2026-01-19T12:36:46+00:00",
-      "domain": "spectator.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Security Bug in StealC Malware Panel Let Researchers Spy on Threat Actor Operations",
-      "link": "https://thehackernews.com/2026/01/security-bug-in-stealc-malware-panel.html",
-      "summary": "Cybersecurity researchers have disclosed a cross-site scripting (XSS) vulnerability in the web-based control panel used by operators of the StealC information stealer, allowing them to gather crucial ...",
-      "published": "2026-01-19T12:23:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 11.3,
-        "anarchy": 3.0,
-        "overall": 7.2
-      },
-      "keywords": {
-        "chaos": [
-          "bug"
-        ],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Nuclear elements detected in West Philippine Sea",
-      "link": "https://www.philstar.com/headlines/2026/01/18/2501750/nuclear-elements-detected-west-philippine-sea",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=46677436\">Comments</a>...",
-      "published": "2026-01-19T10:46:54+00:00",
-      "domain": "philstar.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -335,39 +325,114 @@
   ],
   "overall_ranked": [
     {
-      "title": "CrashFix Chrome Extension Delivers ModeloRAT Using ClickFix-Style Browser Crash Lures",
-      "link": "https://thehackernews.com/2026/01/crashfix-chrome-extension-delivers.html",
-      "summary": "Cybersecurity researchers have disclosed details of an ongoing campaign dubbed KongTuke that used a malicious Google Chrome extension masquerading as an ad blocker to deliberately crash the web browse...",
-      "published": "2026-01-19T14:39:00+05:30",
+      "title": "Google Gemini Prompt Injection Flaw Exposed Private Calendar Data via Malicious Invites",
+      "link": "https://thehackernews.com/2026/01/google-gemini-prompt-injection-flaw.html",
+      "summary": "Cybersecurity researchers have disclosed details of a security flaw that leverages indirect prompt injection targeting Google Gemini as a way to bypass authorization guardrails and use Google Calendar...",
+      "published": "2026-01-19T22:51:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
-        "chaos": 31.0,
+        "chaos": 3.0,
         "anarchy": 3.0,
-        "overall": 17.0
+        "overall": 3.0
       },
       "keywords": {
-        "chaos": [
-          "crash",
-          "crash"
-        ],
+        "chaos": [],
         "anarchy": []
       }
     },
     {
-      "title": "Security Bug in StealC Malware Panel Let Researchers Spy on Threat Actor Operations",
-      "link": "https://thehackernews.com/2026/01/security-bug-in-stealc-malware-panel.html",
-      "summary": "Cybersecurity researchers have disclosed a cross-site scripting (XSS) vulnerability in the web-based control panel used by operators of the StealC information stealer, allowing them to gather crucial ...",
-      "published": "2026-01-19T12:23:00+05:30",
+      "title": "\u26a1 Weekly Recap: Fortinet Exploits, RedLine Clipjack, NTLM Crack, Copilot Attack & More",
+      "link": "https://thehackernews.com/2026/01/weekly-recap-fortinet-exploits-redline.html",
+      "summary": "In cybersecurity, the line between a normal update and a serious incident keeps getting thinner. Systems that once felt reliable are now under pressure from constant change. New AI tools, connected de...",
+      "published": "2026-01-19T18:47:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
-        "chaos": 11.3,
+        "chaos": 3.0,
         "anarchy": 3.0,
-        "overall": 7.2
+        "overall": 3.0
       },
       "keywords": {
-        "chaos": [
-          "bug"
-        ],
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "IBM warns AI spend fails without AI literacy",
+      "link": "https://www.thedeepview.com/articles/ibm-warns-ai-spend-fails-without-ai-literacy",
+      "summary": "<p>Article URL: <a href=\"https://www.thedeepview.com/articles/ibm-warns-ai-spend-fails-without-ai-literacy\">https://www.thedeepview.com/articles/ibm-warns-ai-spend-fails-without-ai-literacy</a></p>\n<p...",
+      "published": "2026-01-19T18:20:57+00:00",
+      "domain": "thedeepview.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Two-Thirds of Ukraine's Intelligence Comes from France's Space Intelligence",
+      "link": "https://militarnyi.com/en/articles/france-s-space-intelligence-where-does-two-thirds-of-ukraine-s-intelligence-come-from/",
+      "summary": "<p>Article URL: <a href=\"https://militarnyi.com/en/articles/france-s-space-intelligence-where-does-two-thirds-of-ukraine-s-intelligence-come-from/\">https://militarnyi.com/en/articles/france-s-space-in...",
+      "published": "2026-01-19T18:20:11+00:00",
+      "domain": "militarnyi.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Ask HN: How do you run parallel agent sessions?",
+      "link": "https://news.ycombinator.com/item?id=46682551",
+      "summary": "<p>Anthropic has these docs that use git worktree: https://code.claude.com/docs/en/common-workflows#run-parallel-claude-code-sessions-with-git-worktrees<p>There are some apps like this that leverage g...",
+      "published": "2026-01-19T18:18:49+00:00",
+      "domain": "news.ycombinator.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "I explored every Harry Potter filming location [video]",
+      "link": "https://youtu.be/Tbx-AFBuDY0",
+      "summary": "<p>Article URL: <a href=\"https://youtu.be/Tbx-AFBuDY0\">https://youtu.be/Tbx-AFBuDY0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46682546\">https://news.ycombinator.com/item?i...",
+      "published": "2026-01-19T18:18:23+00:00",
+      "domain": "youtu.be",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Removing branches from the hot path: A 60% speed-up for Product Quantization",
+      "link": "https://twitter.com/etiennedi/status/2013304614183919617",
+      "summary": "<p>Article URL: <a href=\"https://twitter.com/etiennedi/status/2013304614183919617\">https://twitter.com/etiennedi/status/2013304614183919617</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.c...",
+      "published": "2026-01-19T18:17:21+00:00",
+      "domain": "twitter.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
         "anarchy": []
       }
     },
@@ -388,107 +453,27 @@
       }
     },
     {
+      "title": "What came first: the CNAME or the A record?",
+      "link": "https://blog.cloudflare.com/cname-a-record-order-dns-standards/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46681611\">Comments</a>...",
+      "published": "2026-01-19T17:13:59+00:00",
+      "domain": "blog.cloudflare.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "New StackWarp Hardware Flaw Breaks AMD SEV-SNP Protections on Zen 1\u20135 CPUs",
       "link": "https://thehackernews.com/2026/01/new-stackwarp-hardware-flaw-breaks-amd.html",
       "summary": "A team of academics from the CISPA Helmholtz Center for Information Security in Germany has disclosed the details of a new hardware vulnerability affecting AMD processors.\nThe security flaw, codenamed...",
       "published": "2026-01-19T17:01:00+05:30",
       "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Select Wat from SQL;",
-      "link": "https://scattered-thoughts.net/writing/select-wat-from-sql/",
-      "summary": "<p>Article URL: <a href=\"https://scattered-thoughts.net/writing/select-wat-from-sql/\">https://scattered-thoughts.net/writing/select-wat-from-sql/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombin...",
-      "published": "2026-01-19T12:42:02+00:00",
-      "domain": "scattered-thoughts.net",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: Enjoy \u2013 A gamified GitHub repo where contributions earn karma",
-      "link": "https://github.com/fabriziosalmi/enjoy",
-      "summary": "<p>I built a game that lives entirely inside a GitHub repository. Every contribution earns karma, unlocks achievements, and levels up the community.<p>How it works:<p>- Fork \u2192 Add a word to words/ \u2192 P...",
-      "published": "2026-01-19T12:40:01+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Static site search without JavaScript (Perl + FastCGI + SA index)",
-      "link": "https://www.asciimx.com/log/site-search/",
-      "summary": "<p>Article URL: <a href=\"https://www.asciimx.com/log/site-search/\">https://www.asciimx.com/log/site-search/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46678329\">https://new...",
-      "published": "2026-01-19T12:39:55+00:00",
-      "domain": "asciimx.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "ZeroDP: Just-in-Time Weight Offloading over NVLink for Data Parallelism",
-      "link": "https://mainlymatmul.com/blog/zerodp/",
-      "summary": "<p>Article URL: <a href=\"https://mainlymatmul.com/blog/zerodp/\">https://mainlymatmul.com/blog/zerodp/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46678316\">https://news.ycom...",
-      "published": "2026-01-19T12:37:58+00:00",
-      "domain": "mainlymatmul.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Why Young Danes Are Still Having Sex",
-      "link": "https://spectator.com/article/gen-z-as-is-well-known-is-having-significantly-less-sex-than-their-parents/",
-      "summary": "<p>Article URL: <a href=\"https://spectator.com/article/gen-z-as-is-well-known-is-having-significantly-less-sex-than-their-parents/\">https://spectator.com/article/gen-z-as-is-well-known-is-having-signi...",
-      "published": "2026-01-19T12:36:46+00:00",
-      "domain": "spectator.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Nuclear elements detected in West Philippine Sea",
-      "link": "https://www.philstar.com/headlines/2026/01/18/2501750/nuclear-elements-detected-west-philippine-sea",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=46677436\">Comments</a>...",
-      "published": "2026-01-19T10:46:54+00:00",
-      "domain": "philstar.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -502,6 +487,118 @@
   ],
   "all_articles": [
     {
+      "title": "Google Gemini Prompt Injection Flaw Exposed Private Calendar Data via Malicious Invites",
+      "link": "https://thehackernews.com/2026/01/google-gemini-prompt-injection-flaw.html",
+      "summary": "Cybersecurity researchers have disclosed details of a security flaw that leverages indirect prompt injection targeting Google Gemini as a way to bypass authorization guardrails and use Google Calendar...",
+      "published": "2026-01-19T22:51:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "\u26a1 Weekly Recap: Fortinet Exploits, RedLine Clipjack, NTLM Crack, Copilot Attack & More",
+      "link": "https://thehackernews.com/2026/01/weekly-recap-fortinet-exploits-redline.html",
+      "summary": "In cybersecurity, the line between a normal update and a serious incident keeps getting thinner. Systems that once felt reliable are now under pressure from constant change. New AI tools, connected de...",
+      "published": "2026-01-19T18:47:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "IBM warns AI spend fails without AI literacy",
+      "link": "https://www.thedeepview.com/articles/ibm-warns-ai-spend-fails-without-ai-literacy",
+      "summary": "<p>Article URL: <a href=\"https://www.thedeepview.com/articles/ibm-warns-ai-spend-fails-without-ai-literacy\">https://www.thedeepview.com/articles/ibm-warns-ai-spend-fails-without-ai-literacy</a></p>\n<p...",
+      "published": "2026-01-19T18:20:57+00:00",
+      "domain": "thedeepview.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Two-Thirds of Ukraine's Intelligence Comes from France's Space Intelligence",
+      "link": "https://militarnyi.com/en/articles/france-s-space-intelligence-where-does-two-thirds-of-ukraine-s-intelligence-come-from/",
+      "summary": "<p>Article URL: <a href=\"https://militarnyi.com/en/articles/france-s-space-intelligence-where-does-two-thirds-of-ukraine-s-intelligence-come-from/\">https://militarnyi.com/en/articles/france-s-space-in...",
+      "published": "2026-01-19T18:20:11+00:00",
+      "domain": "militarnyi.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Ask HN: How do you run parallel agent sessions?",
+      "link": "https://news.ycombinator.com/item?id=46682551",
+      "summary": "<p>Anthropic has these docs that use git worktree: https://code.claude.com/docs/en/common-workflows#run-parallel-claude-code-sessions-with-git-worktrees<p>There are some apps like this that leverage g...",
+      "published": "2026-01-19T18:18:49+00:00",
+      "domain": "news.ycombinator.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "I explored every Harry Potter filming location [video]",
+      "link": "https://youtu.be/Tbx-AFBuDY0",
+      "summary": "<p>Article URL: <a href=\"https://youtu.be/Tbx-AFBuDY0\">https://youtu.be/Tbx-AFBuDY0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46682546\">https://news.ycombinator.com/item?i...",
+      "published": "2026-01-19T18:18:23+00:00",
+      "domain": "youtu.be",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Removing branches from the hot path: A 60% speed-up for Product Quantization",
+      "link": "https://twitter.com/etiennedi/status/2013304614183919617",
+      "summary": "<p>Article URL: <a href=\"https://twitter.com/etiennedi/status/2013304614183919617\">https://twitter.com/etiennedi/status/2013304614183919617</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.c...",
+      "published": "2026-01-19T18:17:21+00:00",
+      "domain": "twitter.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "DevOps & SaaS Downtime: The High (and Hidden) Costs for Cloud-First Businesses",
       "link": "https://thehackernews.com/2026/01/high-costs-of-devops-saas-downtime.html",
       "summary": "Just a few years ago, the cloud was touted as the \u201cmagic pill\u201d for any cyber threat or performance issue. Many were lured by the \u201calways-on\u201d dream, trading granular control for the convenience of mana...",
@@ -518,144 +615,27 @@
       }
     },
     {
+      "title": "What came first: the CNAME or the A record?",
+      "link": "https://blog.cloudflare.com/cname-a-record-order-dns-standards/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46681611\">Comments</a>...",
+      "published": "2026-01-19T17:13:59+00:00",
+      "domain": "blog.cloudflare.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "New StackWarp Hardware Flaw Breaks AMD SEV-SNP Protections on Zen 1\u20135 CPUs",
       "link": "https://thehackernews.com/2026/01/new-stackwarp-hardware-flaw-breaks-amd.html",
       "summary": "A team of academics from the CISPA Helmholtz Center for Information Security in Germany has disclosed the details of a new hardware vulnerability affecting AMD processors.\nThe security flaw, codenamed...",
       "published": "2026-01-19T17:01:00+05:30",
       "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "CrashFix Chrome Extension Delivers ModeloRAT Using ClickFix-Style Browser Crash Lures",
-      "link": "https://thehackernews.com/2026/01/crashfix-chrome-extension-delivers.html",
-      "summary": "Cybersecurity researchers have disclosed details of an ongoing campaign dubbed KongTuke that used a malicious Google Chrome extension masquerading as an ad blocker to deliberately crash the web browse...",
-      "published": "2026-01-19T14:39:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 31.0,
-        "anarchy": 3.0,
-        "overall": 17.0
-      },
-      "keywords": {
-        "chaos": [
-          "crash",
-          "crash"
-        ],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Select Wat from SQL;",
-      "link": "https://scattered-thoughts.net/writing/select-wat-from-sql/",
-      "summary": "<p>Article URL: <a href=\"https://scattered-thoughts.net/writing/select-wat-from-sql/\">https://scattered-thoughts.net/writing/select-wat-from-sql/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombin...",
-      "published": "2026-01-19T12:42:02+00:00",
-      "domain": "scattered-thoughts.net",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: Enjoy \u2013 A gamified GitHub repo where contributions earn karma",
-      "link": "https://github.com/fabriziosalmi/enjoy",
-      "summary": "<p>I built a game that lives entirely inside a GitHub repository. Every contribution earns karma, unlocks achievements, and levels up the community.<p>How it works:<p>- Fork \u2192 Add a word to words/ \u2192 P...",
-      "published": "2026-01-19T12:40:01+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Static site search without JavaScript (Perl + FastCGI + SA index)",
-      "link": "https://www.asciimx.com/log/site-search/",
-      "summary": "<p>Article URL: <a href=\"https://www.asciimx.com/log/site-search/\">https://www.asciimx.com/log/site-search/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46678329\">https://new...",
-      "published": "2026-01-19T12:39:55+00:00",
-      "domain": "asciimx.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "ZeroDP: Just-in-Time Weight Offloading over NVLink for Data Parallelism",
-      "link": "https://mainlymatmul.com/blog/zerodp/",
-      "summary": "<p>Article URL: <a href=\"https://mainlymatmul.com/blog/zerodp/\">https://mainlymatmul.com/blog/zerodp/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46678316\">https://news.ycom...",
-      "published": "2026-01-19T12:37:58+00:00",
-      "domain": "mainlymatmul.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Why Young Danes Are Still Having Sex",
-      "link": "https://spectator.com/article/gen-z-as-is-well-known-is-having-significantly-less-sex-than-their-parents/",
-      "summary": "<p>Article URL: <a href=\"https://spectator.com/article/gen-z-as-is-well-known-is-having-significantly-less-sex-than-their-parents/\">https://spectator.com/article/gen-z-as-is-well-known-is-having-signi...",
-      "published": "2026-01-19T12:36:46+00:00",
-      "domain": "spectator.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Security Bug in StealC Malware Panel Let Researchers Spy on Threat Actor Operations",
-      "link": "https://thehackernews.com/2026/01/security-bug-in-stealc-malware-panel.html",
-      "summary": "Cybersecurity researchers have disclosed a cross-site scripting (XSS) vulnerability in the web-based control panel used by operators of the StealC information stealer, allowing them to gather crucial ...",
-      "published": "2026-01-19T12:23:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 11.3,
-        "anarchy": 3.0,
-        "overall": 7.2
-      },
-      "keywords": {
-        "chaos": [
-          "bug"
-        ],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Nuclear elements detected in West Philippine Sea",
-      "link": "https://www.philstar.com/headlines/2026/01/18/2501750/nuclear-elements-detected-west-philippine-sea",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=46677436\">Comments</a>...",
-      "published": "2026-01-19T10:46:54+00:00",
-      "domain": "philstar.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,

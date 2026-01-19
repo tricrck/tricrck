@@ -16,17 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### CrashFix Chrome Extension Delivers ModeloRAT Using ClickFix-Style Browser Crash Lures
+### Google Gemini Prompt Injection Flaw Exposed Private Calendar Data via Malicious Invites
 - **Published**: January 19, 2026
-- **Summary**: Cybersecurity researchers have disclosed details of an ongoing campaign dubbed KongTuke that used a malicious Google Chrome extension masquerading as ...
-- **Keywords**: crash, crash
-- [Read more](https://thehackernews.com/2026/01/crashfix-chrome-extension-delivers.html)
+- **Summary**: Cybersecurity researchers have disclosed details of a security flaw that leverages indirect prompt injection targeting Google Gemini as a way to bypas...
+- [Read more](https://thehackernews.com/2026/01/google-gemini-prompt-injection-flaw.html)
 
-### Security Bug in StealC Malware Panel Let Researchers Spy on Threat Actor Operations
+### ⚡ Weekly Recap: Fortinet Exploits, RedLine Clipjack, NTLM Crack, Copilot Attack & More
 - **Published**: January 19, 2026
-- **Summary**: Cybersecurity researchers have disclosed a cross-site scripting (XSS) vulnerability in the web-based control panel used by operators of the StealC inf...
-- **Keywords**: bug
-- [Read more](https://thehackernews.com/2026/01/security-bug-in-stealc-malware-panel.html)
+- **Summary**: In cybersecurity, the line between a normal update and a serious incident keeps getting thinner. Systems that once felt reliable are now under pressur...
+- [Read more](https://thehackernews.com/2026/01/weekly-recap-fortinet-exploits-redline.html)
 
 ---
 
