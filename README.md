@@ -16,16 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Privacy Engineering at Scale: Building Automated Data Retention Systems
+### Scaling long-running autonomous coding
 - **Published**: January 19, 2026
-- **Summary**: https://medium.com/@sandhyavinjam/privacy-engineering-at......
-- [Read more](https://medium.com/@sandhyavinjam/privacy-engineering-at-scale-building-automated-data-retention-systems-879778248ea9)
+- **Summary**: https://simonwillison.net/2026/Jan/19/scaling-long-running-autonomous-coding/</a></p>
+<p>Comment......
+- [Read more](https://simonwillison.net/2026/Jan/19/scaling-long-running-autonomous-coding/)
 
-### There's no corpus large enough
+### Run AI tools like Cursor,Claude Code, Codex on your own models
 - **Published**: January 19, 2026
-- **Summary**: https://www.swiftcraft.io/articles/no-corpus-large-enough</a></p>
-<p>Comments URL: <a href="https://news.ycombinator......
-- [Read more](https://www.swiftcraft.io/articles/no-corpus-large-enough)
+- **Summary**: https://github.com/Fast-Editor/Lynkr</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46675635">https://news.ycombi......
+- [Read more](https://github.com/Fast-Editor/Lynkr)
 
 ---
 
