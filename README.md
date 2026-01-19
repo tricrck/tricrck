@@ -16,17 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Scaling long-running autonomous coding
+### CrashFix Chrome Extension Delivers ModeloRAT Using ClickFix-Style Browser Crash Lures
 - **Published**: January 19, 2026
-- **Summary**: https://simonwillison.net/2026/Jan/19/scaling-long-running-autonomous-coding/</a></p>
-<p>Comment......
-- [Read more](https://simonwillison.net/2026/Jan/19/scaling-long-running-autonomous-coding/)
+- **Summary**: Cybersecurity researchers have disclosed details of an ongoing campaign dubbed KongTuke that used a malicious Google Chrome extension masquerading as ...
+- **Keywords**: crash, crash
+- [Read more](https://thehackernews.com/2026/01/crashfix-chrome-extension-delivers.html)
 
-### Run AI tools like Cursor,Claude Code, Codex on your own models
+### Security Bug in StealC Malware Panel Let Researchers Spy on Threat Actor Operations
 - **Published**: January 19, 2026
-- **Summary**: https://github.com/Fast-Editor/Lynkr</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46675635">https://news.ycombi......
-- [Read more](https://github.com/Fast-Editor/Lynkr)
+- **Summary**: Cybersecurity researchers have disclosed a cross-site scripting (XSS) vulnerability in the web-based control panel used by operators of the StealC inf...
+- **Keywords**: bug
+- [Read more](https://thehackernews.com/2026/01/security-bug-in-stealc-malware-panel.html)
 
 ---
 

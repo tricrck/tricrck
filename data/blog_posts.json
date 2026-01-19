@@ -1,30 +1,95 @@
 {
   "chaos_ranked": [
     {
-      "title": "Scaling long-running autonomous coding",
-      "link": "https://simonwillison.net/2026/Jan/19/scaling-long-running-autonomous-coding/",
-      "summary": "<p>Article URL: <a href=\"https://simonwillison.net/2026/Jan/19/scaling-long-running-autonomous-coding/\">https://simonwillison.net/2026/Jan/19/scaling-long-running-autonomous-coding/</a></p>\n<p>Comment...",
-      "published": "2026-01-19T06:31:34+00:00",
-      "domain": "simonwillison.net",
+      "title": "CrashFix Chrome Extension Delivers ModeloRAT Using ClickFix-Style Browser Crash Lures",
+      "link": "https://thehackernews.com/2026/01/crashfix-chrome-extension-delivers.html",
+      "summary": "Cybersecurity researchers have disclosed details of an ongoing campaign dubbed KongTuke that used a malicious Google Chrome extension masquerading as an ad blocker to deliberately crash the web browse...",
+      "published": "2026-01-19T14:39:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
-        "chaos": 3.0,
-        "anarchy": 38.0,
-        "overall": 20.5
+        "chaos": 31.0,
+        "anarchy": 3.0,
+        "overall": 17.0
       },
       "keywords": {
-        "chaos": [],
-        "anarchy": [
-          "autonomous",
-          "autonomous",
-          "autonomous"
-        ]
+        "chaos": [
+          "crash",
+          "crash"
+        ],
+        "anarchy": []
       }
     },
     {
-      "title": "Run AI tools like Cursor,Claude Code, Codex on your own models",
-      "link": "https://github.com/Fast-Editor/Lynkr",
-      "summary": "<p>Article URL: <a href=\"https://github.com/Fast-Editor/Lynkr\">https://github.com/Fast-Editor/Lynkr</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46675635\">https://news.ycombi...",
-      "published": "2026-01-19T06:31:30+00:00",
+      "title": "Security Bug in StealC Malware Panel Let Researchers Spy on Threat Actor Operations",
+      "link": "https://thehackernews.com/2026/01/security-bug-in-stealc-malware-panel.html",
+      "summary": "Cybersecurity researchers have disclosed a cross-site scripting (XSS) vulnerability in the web-based control panel used by operators of the StealC information stealer, allowing them to gather crucial ...",
+      "published": "2026-01-19T12:23:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 11.3,
+        "anarchy": 3.0,
+        "overall": 7.2
+      },
+      "keywords": {
+        "chaos": [
+          "bug"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "DevOps & SaaS Downtime: The High (and Hidden) Costs for Cloud-First Businesses",
+      "link": "https://thehackernews.com/2026/01/high-costs-of-devops-saas-downtime.html",
+      "summary": "Just a few years ago, the cloud was touted as the \u201cmagic pill\u201d for any cyber threat or performance issue. Many were lured by the \u201calways-on\u201d dream, trading granular control for the convenience of mana...",
+      "published": "2026-01-19T17:25:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "New StackWarp Hardware Flaw Breaks AMD SEV-SNP Protections on Zen 1\u20135 CPUs",
+      "link": "https://thehackernews.com/2026/01/new-stackwarp-hardware-flaw-breaks-amd.html",
+      "summary": "A team of academics from the CISPA Helmholtz Center for Information Security in Germany has disclosed the details of a new hardware vulnerability affecting AMD processors.\nThe security flaw, codenamed...",
+      "published": "2026-01-19T17:01:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Select Wat from SQL;",
+      "link": "https://scattered-thoughts.net/writing/select-wat-from-sql/",
+      "summary": "<p>Article URL: <a href=\"https://scattered-thoughts.net/writing/select-wat-from-sql/\">https://scattered-thoughts.net/writing/select-wat-from-sql/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombin...",
+      "published": "2026-01-19T12:42:02+00:00",
+      "domain": "scattered-thoughts.net",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Enjoy \u2013 A gamified GitHub repo where contributions earn karma",
+      "link": "https://github.com/fabriziosalmi/enjoy",
+      "summary": "<p>I built a game that lives entirely inside a GitHub repository. Every contribution earns karma, unlocks achievements, and levels up the community.<p>How it works:<p>- Fork \u2192 Add a word to words/ \u2192 P...",
+      "published": "2026-01-19T12:40:01+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -37,11 +102,11 @@
       }
     },
     {
-      "title": "Manage Claude Code Visually",
-      "link": "https://github.com/Nearcyan/vibecraft",
-      "summary": "<p>Article URL: <a href=\"https://github.com/Nearcyan/vibecraft\">https://github.com/Nearcyan/vibecraft</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46675634\">https://news.ycom...",
-      "published": "2026-01-19T06:31:26+00:00",
-      "domain": "github.com",
+      "title": "Static site search without JavaScript (Perl + FastCGI + SA index)",
+      "link": "https://www.asciimx.com/log/site-search/",
+      "summary": "<p>Article URL: <a href=\"https://www.asciimx.com/log/site-search/\">https://www.asciimx.com/log/site-search/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46678329\">https://new...",
+      "published": "2026-01-19T12:39:55+00:00",
+      "domain": "asciimx.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -53,11 +118,11 @@
       }
     },
     {
-      "title": "Are Arrays Functions?",
-      "link": "https://futhark-lang.org/blog/2026-01-16-are-arrays-functions.html",
-      "summary": "<p>Article URL: <a href=\"https://futhark-lang.org/blog/2026-01-16-are-arrays-functions.html\">https://futhark-lang.org/blog/2026-01-16-are-arrays-functions.html</a></p>\n<p>Comments URL: <a href=\"https:...",
-      "published": "2026-01-19T06:30:49+00:00",
-      "domain": "futhark-lang.org",
+      "title": "ZeroDP: Just-in-Time Weight Offloading over NVLink for Data Parallelism",
+      "link": "https://mainlymatmul.com/blog/zerodp/",
+      "summary": "<p>Article URL: <a href=\"https://mainlymatmul.com/blog/zerodp/\">https://mainlymatmul.com/blog/zerodp/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46678316\">https://news.ycom...",
+      "published": "2026-01-19T12:37:58+00:00",
+      "domain": "mainlymatmul.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -69,11 +134,11 @@
       }
     },
     {
-      "title": "AI Coworker",
-      "link": "https://coworkai.app/",
-      "summary": "<p>Article URL: <a href=\"https://coworkai.app/\">https://coworkai.app/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46675628\">https://news.ycombinator.com/item?id=46675628</a>...",
-      "published": "2026-01-19T06:30:41+00:00",
-      "domain": "coworkai.app",
+      "title": "Why Young Danes Are Still Having Sex",
+      "link": "https://spectator.com/article/gen-z-as-is-well-known-is-having-significantly-less-sex-than-their-parents/",
+      "summary": "<p>Article URL: <a href=\"https://spectator.com/article/gen-z-as-is-well-known-is-having-significantly-less-sex-than-their-parents/\">https://spectator.com/article/gen-z-as-is-well-known-is-having-signi...",
+      "published": "2026-01-19T12:36:46+00:00",
+      "domain": "spectator.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -85,75 +150,11 @@
       }
     },
     {
-      "title": "Why the Tech World Thinks the American Dream Is Dying",
-      "link": "https://www.reddit.com/r/technology/comments/1qgt28x/why_the_tech_world_thinks_the_american_dream_is/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1qgt28x/why_the_tech_world_thinks_the_american_dream_is/\"> <img alt=\"Why the Tech World Thinks the American Dream Is Dying\" src=\"...",
-      "published": "2026-01-19T03:26:40+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Elder Scrolls loremaster says he quit Bethesda after \"waiting 11 years to be the lead on The Elder Scrolls 6\" | Designer Kurt Kuhlmann claims Bethesda reneged on a promise to make him lead designer",
-      "link": "https://www.reddit.com/r/technology/comments/1qgpg2s/elder_scrolls_loremaster_says_he_quit_bethesda/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1qgpg2s/elder_scrolls_loremaster_says_he_quit_bethesda/\"> <img alt=\"Elder Scrolls loremaster says he quit Bethesda after &quot;wa...",
-      "published": "2026-01-19T00:39:43+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Data Centers Will Consume 70 Percent Of Memory Chips made in 2026, RAM Shortage Will Last Until Until Atleast 2029 As Manafacturing Capacity For RAM In 2028 That Hasnt Even Been Made Yet Is Already being Sold",
-      "link": "https://www.reddit.com/r/technology/comments/1qgolhs/data_centers_will_consume_70_percent_of_memory/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1qgolhs/data_centers_will_consume_70_percent_of_memory/\"> <img alt=\"Data Centers Will Consume 70 Percent Of Memory Chips made in ...",
-      "published": "2026-01-19T00:03:04+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Wikipedia turns 25, still boasting zero ads and over 7 billion visitors per month despite the rise of AI and threats of government repression",
-      "link": "https://www.reddit.com/r/technology/comments/1qgk4it/wikipedia_turns_25_still_boasting_zero_ads_and/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1qgk4it/wikipedia_turns_25_still_boasting_zero_ads_and/\"> <img alt=\"Wikipedia turns 25, still boasting zero ads and over 7 billio...",
-      "published": "2026-01-18T20:58:29+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Dead Internet Theory",
-      "link": "https://kudmitry.com/articles/dead-internet-theory/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=46671731\">Comments</a>...",
-      "published": "2026-01-18T20:19:07+00:00",
-      "domain": "kudmitry.com",
+      "title": "Nuclear elements detected in West Philippine Sea",
+      "link": "https://www.philstar.com/headlines/2026/01/18/2501750/nuclear-elements-detected-west-philippine-sea",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46677436\">Comments</a>...",
+      "published": "2026-01-19T10:46:54+00:00",
+      "domain": "philstar.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -167,30 +168,77 @@
   ],
   "anarchy_ranked": [
     {
-      "title": "Scaling long-running autonomous coding",
-      "link": "https://simonwillison.net/2026/Jan/19/scaling-long-running-autonomous-coding/",
-      "summary": "<p>Article URL: <a href=\"https://simonwillison.net/2026/Jan/19/scaling-long-running-autonomous-coding/\">https://simonwillison.net/2026/Jan/19/scaling-long-running-autonomous-coding/</a></p>\n<p>Comment...",
-      "published": "2026-01-19T06:31:34+00:00",
-      "domain": "simonwillison.net",
+      "title": "DevOps & SaaS Downtime: The High (and Hidden) Costs for Cloud-First Businesses",
+      "link": "https://thehackernews.com/2026/01/high-costs-of-devops-saas-downtime.html",
+      "summary": "Just a few years ago, the cloud was touted as the \u201cmagic pill\u201d for any cyber threat or performance issue. Many were lured by the \u201calways-on\u201d dream, trading granular control for the convenience of mana...",
+      "published": "2026-01-19T17:25:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
-        "anarchy": 38.0,
-        "overall": 20.5
+        "anarchy": 3.0,
+        "overall": 3.0
       },
       "keywords": {
         "chaos": [],
-        "anarchy": [
-          "autonomous",
-          "autonomous",
-          "autonomous"
-        ]
+        "anarchy": []
       }
     },
     {
-      "title": "Run AI tools like Cursor,Claude Code, Codex on your own models",
-      "link": "https://github.com/Fast-Editor/Lynkr",
-      "summary": "<p>Article URL: <a href=\"https://github.com/Fast-Editor/Lynkr\">https://github.com/Fast-Editor/Lynkr</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46675635\">https://news.ycombi...",
-      "published": "2026-01-19T06:31:30+00:00",
+      "title": "New StackWarp Hardware Flaw Breaks AMD SEV-SNP Protections on Zen 1\u20135 CPUs",
+      "link": "https://thehackernews.com/2026/01/new-stackwarp-hardware-flaw-breaks-amd.html",
+      "summary": "A team of academics from the CISPA Helmholtz Center for Information Security in Germany has disclosed the details of a new hardware vulnerability affecting AMD processors.\nThe security flaw, codenamed...",
+      "published": "2026-01-19T17:01:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "CrashFix Chrome Extension Delivers ModeloRAT Using ClickFix-Style Browser Crash Lures",
+      "link": "https://thehackernews.com/2026/01/crashfix-chrome-extension-delivers.html",
+      "summary": "Cybersecurity researchers have disclosed details of an ongoing campaign dubbed KongTuke that used a malicious Google Chrome extension masquerading as an ad blocker to deliberately crash the web browse...",
+      "published": "2026-01-19T14:39:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 31.0,
+        "anarchy": 3.0,
+        "overall": 17.0
+      },
+      "keywords": {
+        "chaos": [
+          "crash",
+          "crash"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Select Wat from SQL;",
+      "link": "https://scattered-thoughts.net/writing/select-wat-from-sql/",
+      "summary": "<p>Article URL: <a href=\"https://scattered-thoughts.net/writing/select-wat-from-sql/\">https://scattered-thoughts.net/writing/select-wat-from-sql/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombin...",
+      "published": "2026-01-19T12:42:02+00:00",
+      "domain": "scattered-thoughts.net",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Enjoy \u2013 A gamified GitHub repo where contributions earn karma",
+      "link": "https://github.com/fabriziosalmi/enjoy",
+      "summary": "<p>I built a game that lives entirely inside a GitHub repository. Every contribution earns karma, unlocks achievements, and levels up the community.<p>How it works:<p>- Fork \u2192 Add a word to words/ \u2192 P...",
+      "published": "2026-01-19T12:40:01+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -203,11 +251,11 @@
       }
     },
     {
-      "title": "Manage Claude Code Visually",
-      "link": "https://github.com/Nearcyan/vibecraft",
-      "summary": "<p>Article URL: <a href=\"https://github.com/Nearcyan/vibecraft\">https://github.com/Nearcyan/vibecraft</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46675634\">https://news.ycom...",
-      "published": "2026-01-19T06:31:26+00:00",
-      "domain": "github.com",
+      "title": "Static site search without JavaScript (Perl + FastCGI + SA index)",
+      "link": "https://www.asciimx.com/log/site-search/",
+      "summary": "<p>Article URL: <a href=\"https://www.asciimx.com/log/site-search/\">https://www.asciimx.com/log/site-search/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46678329\">https://new...",
+      "published": "2026-01-19T12:39:55+00:00",
+      "domain": "asciimx.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -219,11 +267,11 @@
       }
     },
     {
-      "title": "Are Arrays Functions?",
-      "link": "https://futhark-lang.org/blog/2026-01-16-are-arrays-functions.html",
-      "summary": "<p>Article URL: <a href=\"https://futhark-lang.org/blog/2026-01-16-are-arrays-functions.html\">https://futhark-lang.org/blog/2026-01-16-are-arrays-functions.html</a></p>\n<p>Comments URL: <a href=\"https:...",
-      "published": "2026-01-19T06:30:49+00:00",
-      "domain": "futhark-lang.org",
+      "title": "ZeroDP: Just-in-Time Weight Offloading over NVLink for Data Parallelism",
+      "link": "https://mainlymatmul.com/blog/zerodp/",
+      "summary": "<p>Article URL: <a href=\"https://mainlymatmul.com/blog/zerodp/\">https://mainlymatmul.com/blog/zerodp/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46678316\">https://news.ycom...",
+      "published": "2026-01-19T12:37:58+00:00",
+      "domain": "mainlymatmul.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -235,11 +283,11 @@
       }
     },
     {
-      "title": "AI Coworker",
-      "link": "https://coworkai.app/",
-      "summary": "<p>Article URL: <a href=\"https://coworkai.app/\">https://coworkai.app/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46675628\">https://news.ycombinator.com/item?id=46675628</a>...",
-      "published": "2026-01-19T06:30:41+00:00",
-      "domain": "coworkai.app",
+      "title": "Why Young Danes Are Still Having Sex",
+      "link": "https://spectator.com/article/gen-z-as-is-well-known-is-having-significantly-less-sex-than-their-parents/",
+      "summary": "<p>Article URL: <a href=\"https://spectator.com/article/gen-z-as-is-well-known-is-having-significantly-less-sex-than-their-parents/\">https://spectator.com/article/gen-z-as-is-well-known-is-having-signi...",
+      "published": "2026-01-19T12:36:46+00:00",
+      "domain": "spectator.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -251,75 +299,29 @@
       }
     },
     {
-      "title": "Why the Tech World Thinks the American Dream Is Dying",
-      "link": "https://www.reddit.com/r/technology/comments/1qgt28x/why_the_tech_world_thinks_the_american_dream_is/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1qgt28x/why_the_tech_world_thinks_the_american_dream_is/\"> <img alt=\"Why the Tech World Thinks the American Dream Is Dying\" src=\"...",
-      "published": "2026-01-19T03:26:40+00:00",
-      "domain": "reddit.com",
+      "title": "Security Bug in StealC Malware Panel Let Researchers Spy on Threat Actor Operations",
+      "link": "https://thehackernews.com/2026/01/security-bug-in-stealc-malware-panel.html",
+      "summary": "Cybersecurity researchers have disclosed a cross-site scripting (XSS) vulnerability in the web-based control panel used by operators of the StealC information stealer, allowing them to gather crucial ...",
+      "published": "2026-01-19T12:23:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
-        "chaos": 3.0,
+        "chaos": 11.3,
         "anarchy": 3.0,
-        "overall": 3.0
+        "overall": 7.2
       },
       "keywords": {
-        "chaos": [],
+        "chaos": [
+          "bug"
+        ],
         "anarchy": []
       }
     },
     {
-      "title": "Elder Scrolls loremaster says he quit Bethesda after \"waiting 11 years to be the lead on The Elder Scrolls 6\" | Designer Kurt Kuhlmann claims Bethesda reneged on a promise to make him lead designer",
-      "link": "https://www.reddit.com/r/technology/comments/1qgpg2s/elder_scrolls_loremaster_says_he_quit_bethesda/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1qgpg2s/elder_scrolls_loremaster_says_he_quit_bethesda/\"> <img alt=\"Elder Scrolls loremaster says he quit Bethesda after &quot;wa...",
-      "published": "2026-01-19T00:39:43+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Data Centers Will Consume 70 Percent Of Memory Chips made in 2026, RAM Shortage Will Last Until Until Atleast 2029 As Manafacturing Capacity For RAM In 2028 That Hasnt Even Been Made Yet Is Already being Sold",
-      "link": "https://www.reddit.com/r/technology/comments/1qgolhs/data_centers_will_consume_70_percent_of_memory/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1qgolhs/data_centers_will_consume_70_percent_of_memory/\"> <img alt=\"Data Centers Will Consume 70 Percent Of Memory Chips made in ...",
-      "published": "2026-01-19T00:03:04+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Wikipedia turns 25, still boasting zero ads and over 7 billion visitors per month despite the rise of AI and threats of government repression",
-      "link": "https://www.reddit.com/r/technology/comments/1qgk4it/wikipedia_turns_25_still_boasting_zero_ads_and/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1qgk4it/wikipedia_turns_25_still_boasting_zero_ads_and/\"> <img alt=\"Wikipedia turns 25, still boasting zero ads and over 7 billio...",
-      "published": "2026-01-18T20:58:29+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Dead Internet Theory",
-      "link": "https://kudmitry.com/articles/dead-internet-theory/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=46671731\">Comments</a>...",
-      "published": "2026-01-18T20:19:07+00:00",
-      "domain": "kudmitry.com",
+      "title": "Nuclear elements detected in West Philippine Sea",
+      "link": "https://www.philstar.com/headlines/2026/01/18/2501750/nuclear-elements-detected-west-philippine-sea",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46677436\">Comments</a>...",
+      "published": "2026-01-19T10:46:54+00:00",
+      "domain": "philstar.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -333,30 +335,95 @@
   ],
   "overall_ranked": [
     {
-      "title": "Scaling long-running autonomous coding",
-      "link": "https://simonwillison.net/2026/Jan/19/scaling-long-running-autonomous-coding/",
-      "summary": "<p>Article URL: <a href=\"https://simonwillison.net/2026/Jan/19/scaling-long-running-autonomous-coding/\">https://simonwillison.net/2026/Jan/19/scaling-long-running-autonomous-coding/</a></p>\n<p>Comment...",
-      "published": "2026-01-19T06:31:34+00:00",
-      "domain": "simonwillison.net",
+      "title": "CrashFix Chrome Extension Delivers ModeloRAT Using ClickFix-Style Browser Crash Lures",
+      "link": "https://thehackernews.com/2026/01/crashfix-chrome-extension-delivers.html",
+      "summary": "Cybersecurity researchers have disclosed details of an ongoing campaign dubbed KongTuke that used a malicious Google Chrome extension masquerading as an ad blocker to deliberately crash the web browse...",
+      "published": "2026-01-19T14:39:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
-        "chaos": 3.0,
-        "anarchy": 38.0,
-        "overall": 20.5
+        "chaos": 31.0,
+        "anarchy": 3.0,
+        "overall": 17.0
       },
       "keywords": {
-        "chaos": [],
-        "anarchy": [
-          "autonomous",
-          "autonomous",
-          "autonomous"
-        ]
+        "chaos": [
+          "crash",
+          "crash"
+        ],
+        "anarchy": []
       }
     },
     {
-      "title": "Run AI tools like Cursor,Claude Code, Codex on your own models",
-      "link": "https://github.com/Fast-Editor/Lynkr",
-      "summary": "<p>Article URL: <a href=\"https://github.com/Fast-Editor/Lynkr\">https://github.com/Fast-Editor/Lynkr</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46675635\">https://news.ycombi...",
-      "published": "2026-01-19T06:31:30+00:00",
+      "title": "Security Bug in StealC Malware Panel Let Researchers Spy on Threat Actor Operations",
+      "link": "https://thehackernews.com/2026/01/security-bug-in-stealc-malware-panel.html",
+      "summary": "Cybersecurity researchers have disclosed a cross-site scripting (XSS) vulnerability in the web-based control panel used by operators of the StealC information stealer, allowing them to gather crucial ...",
+      "published": "2026-01-19T12:23:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 11.3,
+        "anarchy": 3.0,
+        "overall": 7.2
+      },
+      "keywords": {
+        "chaos": [
+          "bug"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "DevOps & SaaS Downtime: The High (and Hidden) Costs for Cloud-First Businesses",
+      "link": "https://thehackernews.com/2026/01/high-costs-of-devops-saas-downtime.html",
+      "summary": "Just a few years ago, the cloud was touted as the \u201cmagic pill\u201d for any cyber threat or performance issue. Many were lured by the \u201calways-on\u201d dream, trading granular control for the convenience of mana...",
+      "published": "2026-01-19T17:25:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "New StackWarp Hardware Flaw Breaks AMD SEV-SNP Protections on Zen 1\u20135 CPUs",
+      "link": "https://thehackernews.com/2026/01/new-stackwarp-hardware-flaw-breaks-amd.html",
+      "summary": "A team of academics from the CISPA Helmholtz Center for Information Security in Germany has disclosed the details of a new hardware vulnerability affecting AMD processors.\nThe security flaw, codenamed...",
+      "published": "2026-01-19T17:01:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Select Wat from SQL;",
+      "link": "https://scattered-thoughts.net/writing/select-wat-from-sql/",
+      "summary": "<p>Article URL: <a href=\"https://scattered-thoughts.net/writing/select-wat-from-sql/\">https://scattered-thoughts.net/writing/select-wat-from-sql/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombin...",
+      "published": "2026-01-19T12:42:02+00:00",
+      "domain": "scattered-thoughts.net",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Enjoy \u2013 A gamified GitHub repo where contributions earn karma",
+      "link": "https://github.com/fabriziosalmi/enjoy",
+      "summary": "<p>I built a game that lives entirely inside a GitHub repository. Every contribution earns karma, unlocks achievements, and levels up the community.<p>How it works:<p>- Fork \u2192 Add a word to words/ \u2192 P...",
+      "published": "2026-01-19T12:40:01+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -369,11 +436,11 @@
       }
     },
     {
-      "title": "Manage Claude Code Visually",
-      "link": "https://github.com/Nearcyan/vibecraft",
-      "summary": "<p>Article URL: <a href=\"https://github.com/Nearcyan/vibecraft\">https://github.com/Nearcyan/vibecraft</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46675634\">https://news.ycom...",
-      "published": "2026-01-19T06:31:26+00:00",
-      "domain": "github.com",
+      "title": "Static site search without JavaScript (Perl + FastCGI + SA index)",
+      "link": "https://www.asciimx.com/log/site-search/",
+      "summary": "<p>Article URL: <a href=\"https://www.asciimx.com/log/site-search/\">https://www.asciimx.com/log/site-search/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46678329\">https://new...",
+      "published": "2026-01-19T12:39:55+00:00",
+      "domain": "asciimx.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -385,11 +452,11 @@
       }
     },
     {
-      "title": "Are Arrays Functions?",
-      "link": "https://futhark-lang.org/blog/2026-01-16-are-arrays-functions.html",
-      "summary": "<p>Article URL: <a href=\"https://futhark-lang.org/blog/2026-01-16-are-arrays-functions.html\">https://futhark-lang.org/blog/2026-01-16-are-arrays-functions.html</a></p>\n<p>Comments URL: <a href=\"https:...",
-      "published": "2026-01-19T06:30:49+00:00",
-      "domain": "futhark-lang.org",
+      "title": "ZeroDP: Just-in-Time Weight Offloading over NVLink for Data Parallelism",
+      "link": "https://mainlymatmul.com/blog/zerodp/",
+      "summary": "<p>Article URL: <a href=\"https://mainlymatmul.com/blog/zerodp/\">https://mainlymatmul.com/blog/zerodp/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46678316\">https://news.ycom...",
+      "published": "2026-01-19T12:37:58+00:00",
+      "domain": "mainlymatmul.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -401,11 +468,11 @@
       }
     },
     {
-      "title": "AI Coworker",
-      "link": "https://coworkai.app/",
-      "summary": "<p>Article URL: <a href=\"https://coworkai.app/\">https://coworkai.app/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46675628\">https://news.ycombinator.com/item?id=46675628</a>...",
-      "published": "2026-01-19T06:30:41+00:00",
-      "domain": "coworkai.app",
+      "title": "Why Young Danes Are Still Having Sex",
+      "link": "https://spectator.com/article/gen-z-as-is-well-known-is-having-significantly-less-sex-than-their-parents/",
+      "summary": "<p>Article URL: <a href=\"https://spectator.com/article/gen-z-as-is-well-known-is-having-significantly-less-sex-than-their-parents/\">https://spectator.com/article/gen-z-as-is-well-known-is-having-signi...",
+      "published": "2026-01-19T12:36:46+00:00",
+      "domain": "spectator.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -417,75 +484,11 @@
       }
     },
     {
-      "title": "Why the Tech World Thinks the American Dream Is Dying",
-      "link": "https://www.reddit.com/r/technology/comments/1qgt28x/why_the_tech_world_thinks_the_american_dream_is/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1qgt28x/why_the_tech_world_thinks_the_american_dream_is/\"> <img alt=\"Why the Tech World Thinks the American Dream Is Dying\" src=\"...",
-      "published": "2026-01-19T03:26:40+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Elder Scrolls loremaster says he quit Bethesda after \"waiting 11 years to be the lead on The Elder Scrolls 6\" | Designer Kurt Kuhlmann claims Bethesda reneged on a promise to make him lead designer",
-      "link": "https://www.reddit.com/r/technology/comments/1qgpg2s/elder_scrolls_loremaster_says_he_quit_bethesda/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1qgpg2s/elder_scrolls_loremaster_says_he_quit_bethesda/\"> <img alt=\"Elder Scrolls loremaster says he quit Bethesda after &quot;wa...",
-      "published": "2026-01-19T00:39:43+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Data Centers Will Consume 70 Percent Of Memory Chips made in 2026, RAM Shortage Will Last Until Until Atleast 2029 As Manafacturing Capacity For RAM In 2028 That Hasnt Even Been Made Yet Is Already being Sold",
-      "link": "https://www.reddit.com/r/technology/comments/1qgolhs/data_centers_will_consume_70_percent_of_memory/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1qgolhs/data_centers_will_consume_70_percent_of_memory/\"> <img alt=\"Data Centers Will Consume 70 Percent Of Memory Chips made in ...",
-      "published": "2026-01-19T00:03:04+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Wikipedia turns 25, still boasting zero ads and over 7 billion visitors per month despite the rise of AI and threats of government repression",
-      "link": "https://www.reddit.com/r/technology/comments/1qgk4it/wikipedia_turns_25_still_boasting_zero_ads_and/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1qgk4it/wikipedia_turns_25_still_boasting_zero_ads_and/\"> <img alt=\"Wikipedia turns 25, still boasting zero ads and over 7 billio...",
-      "published": "2026-01-18T20:58:29+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Dead Internet Theory",
-      "link": "https://kudmitry.com/articles/dead-internet-theory/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=46671731\">Comments</a>...",
-      "published": "2026-01-18T20:19:07+00:00",
-      "domain": "kudmitry.com",
+      "title": "Nuclear elements detected in West Philippine Sea",
+      "link": "https://www.philstar.com/headlines/2026/01/18/2501750/nuclear-elements-detected-west-philippine-sea",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46677436\">Comments</a>...",
+      "published": "2026-01-19T10:46:54+00:00",
+      "domain": "philstar.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -499,30 +502,77 @@
   ],
   "all_articles": [
     {
-      "title": "Scaling long-running autonomous coding",
-      "link": "https://simonwillison.net/2026/Jan/19/scaling-long-running-autonomous-coding/",
-      "summary": "<p>Article URL: <a href=\"https://simonwillison.net/2026/Jan/19/scaling-long-running-autonomous-coding/\">https://simonwillison.net/2026/Jan/19/scaling-long-running-autonomous-coding/</a></p>\n<p>Comment...",
-      "published": "2026-01-19T06:31:34+00:00",
-      "domain": "simonwillison.net",
+      "title": "DevOps & SaaS Downtime: The High (and Hidden) Costs for Cloud-First Businesses",
+      "link": "https://thehackernews.com/2026/01/high-costs-of-devops-saas-downtime.html",
+      "summary": "Just a few years ago, the cloud was touted as the \u201cmagic pill\u201d for any cyber threat or performance issue. Many were lured by the \u201calways-on\u201d dream, trading granular control for the convenience of mana...",
+      "published": "2026-01-19T17:25:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
-        "anarchy": 38.0,
-        "overall": 20.5
+        "anarchy": 3.0,
+        "overall": 3.0
       },
       "keywords": {
         "chaos": [],
-        "anarchy": [
-          "autonomous",
-          "autonomous",
-          "autonomous"
-        ]
+        "anarchy": []
       }
     },
     {
-      "title": "Run AI tools like Cursor,Claude Code, Codex on your own models",
-      "link": "https://github.com/Fast-Editor/Lynkr",
-      "summary": "<p>Article URL: <a href=\"https://github.com/Fast-Editor/Lynkr\">https://github.com/Fast-Editor/Lynkr</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46675635\">https://news.ycombi...",
-      "published": "2026-01-19T06:31:30+00:00",
+      "title": "New StackWarp Hardware Flaw Breaks AMD SEV-SNP Protections on Zen 1\u20135 CPUs",
+      "link": "https://thehackernews.com/2026/01/new-stackwarp-hardware-flaw-breaks-amd.html",
+      "summary": "A team of academics from the CISPA Helmholtz Center for Information Security in Germany has disclosed the details of a new hardware vulnerability affecting AMD processors.\nThe security flaw, codenamed...",
+      "published": "2026-01-19T17:01:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "CrashFix Chrome Extension Delivers ModeloRAT Using ClickFix-Style Browser Crash Lures",
+      "link": "https://thehackernews.com/2026/01/crashfix-chrome-extension-delivers.html",
+      "summary": "Cybersecurity researchers have disclosed details of an ongoing campaign dubbed KongTuke that used a malicious Google Chrome extension masquerading as an ad blocker to deliberately crash the web browse...",
+      "published": "2026-01-19T14:39:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 31.0,
+        "anarchy": 3.0,
+        "overall": 17.0
+      },
+      "keywords": {
+        "chaos": [
+          "crash",
+          "crash"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Select Wat from SQL;",
+      "link": "https://scattered-thoughts.net/writing/select-wat-from-sql/",
+      "summary": "<p>Article URL: <a href=\"https://scattered-thoughts.net/writing/select-wat-from-sql/\">https://scattered-thoughts.net/writing/select-wat-from-sql/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombin...",
+      "published": "2026-01-19T12:42:02+00:00",
+      "domain": "scattered-thoughts.net",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Enjoy \u2013 A gamified GitHub repo where contributions earn karma",
+      "link": "https://github.com/fabriziosalmi/enjoy",
+      "summary": "<p>I built a game that lives entirely inside a GitHub repository. Every contribution earns karma, unlocks achievements, and levels up the community.<p>How it works:<p>- Fork \u2192 Add a word to words/ \u2192 P...",
+      "published": "2026-01-19T12:40:01+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -535,11 +585,11 @@
       }
     },
     {
-      "title": "Manage Claude Code Visually",
-      "link": "https://github.com/Nearcyan/vibecraft",
-      "summary": "<p>Article URL: <a href=\"https://github.com/Nearcyan/vibecraft\">https://github.com/Nearcyan/vibecraft</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46675634\">https://news.ycom...",
-      "published": "2026-01-19T06:31:26+00:00",
-      "domain": "github.com",
+      "title": "Static site search without JavaScript (Perl + FastCGI + SA index)",
+      "link": "https://www.asciimx.com/log/site-search/",
+      "summary": "<p>Article URL: <a href=\"https://www.asciimx.com/log/site-search/\">https://www.asciimx.com/log/site-search/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46678329\">https://new...",
+      "published": "2026-01-19T12:39:55+00:00",
+      "domain": "asciimx.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -551,11 +601,11 @@
       }
     },
     {
-      "title": "Are Arrays Functions?",
-      "link": "https://futhark-lang.org/blog/2026-01-16-are-arrays-functions.html",
-      "summary": "<p>Article URL: <a href=\"https://futhark-lang.org/blog/2026-01-16-are-arrays-functions.html\">https://futhark-lang.org/blog/2026-01-16-are-arrays-functions.html</a></p>\n<p>Comments URL: <a href=\"https:...",
-      "published": "2026-01-19T06:30:49+00:00",
-      "domain": "futhark-lang.org",
+      "title": "ZeroDP: Just-in-Time Weight Offloading over NVLink for Data Parallelism",
+      "link": "https://mainlymatmul.com/blog/zerodp/",
+      "summary": "<p>Article URL: <a href=\"https://mainlymatmul.com/blog/zerodp/\">https://mainlymatmul.com/blog/zerodp/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46678316\">https://news.ycom...",
+      "published": "2026-01-19T12:37:58+00:00",
+      "domain": "mainlymatmul.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -567,11 +617,11 @@
       }
     },
     {
-      "title": "AI Coworker",
-      "link": "https://coworkai.app/",
-      "summary": "<p>Article URL: <a href=\"https://coworkai.app/\">https://coworkai.app/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46675628\">https://news.ycombinator.com/item?id=46675628</a>...",
-      "published": "2026-01-19T06:30:41+00:00",
-      "domain": "coworkai.app",
+      "title": "Why Young Danes Are Still Having Sex",
+      "link": "https://spectator.com/article/gen-z-as-is-well-known-is-having-significantly-less-sex-than-their-parents/",
+      "summary": "<p>Article URL: <a href=\"https://spectator.com/article/gen-z-as-is-well-known-is-having-significantly-less-sex-than-their-parents/\">https://spectator.com/article/gen-z-as-is-well-known-is-having-signi...",
+      "published": "2026-01-19T12:36:46+00:00",
+      "domain": "spectator.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -583,75 +633,29 @@
       }
     },
     {
-      "title": "Why the Tech World Thinks the American Dream Is Dying",
-      "link": "https://www.reddit.com/r/technology/comments/1qgt28x/why_the_tech_world_thinks_the_american_dream_is/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1qgt28x/why_the_tech_world_thinks_the_american_dream_is/\"> <img alt=\"Why the Tech World Thinks the American Dream Is Dying\" src=\"...",
-      "published": "2026-01-19T03:26:40+00:00",
-      "domain": "reddit.com",
+      "title": "Security Bug in StealC Malware Panel Let Researchers Spy on Threat Actor Operations",
+      "link": "https://thehackernews.com/2026/01/security-bug-in-stealc-malware-panel.html",
+      "summary": "Cybersecurity researchers have disclosed a cross-site scripting (XSS) vulnerability in the web-based control panel used by operators of the StealC information stealer, allowing them to gather crucial ...",
+      "published": "2026-01-19T12:23:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
-        "chaos": 3.0,
+        "chaos": 11.3,
         "anarchy": 3.0,
-        "overall": 3.0
+        "overall": 7.2
       },
       "keywords": {
-        "chaos": [],
+        "chaos": [
+          "bug"
+        ],
         "anarchy": []
       }
     },
     {
-      "title": "Elder Scrolls loremaster says he quit Bethesda after \"waiting 11 years to be the lead on The Elder Scrolls 6\" | Designer Kurt Kuhlmann claims Bethesda reneged on a promise to make him lead designer",
-      "link": "https://www.reddit.com/r/technology/comments/1qgpg2s/elder_scrolls_loremaster_says_he_quit_bethesda/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1qgpg2s/elder_scrolls_loremaster_says_he_quit_bethesda/\"> <img alt=\"Elder Scrolls loremaster says he quit Bethesda after &quot;wa...",
-      "published": "2026-01-19T00:39:43+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Data Centers Will Consume 70 Percent Of Memory Chips made in 2026, RAM Shortage Will Last Until Until Atleast 2029 As Manafacturing Capacity For RAM In 2028 That Hasnt Even Been Made Yet Is Already being Sold",
-      "link": "https://www.reddit.com/r/technology/comments/1qgolhs/data_centers_will_consume_70_percent_of_memory/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1qgolhs/data_centers_will_consume_70_percent_of_memory/\"> <img alt=\"Data Centers Will Consume 70 Percent Of Memory Chips made in ...",
-      "published": "2026-01-19T00:03:04+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Wikipedia turns 25, still boasting zero ads and over 7 billion visitors per month despite the rise of AI and threats of government repression",
-      "link": "https://www.reddit.com/r/technology/comments/1qgk4it/wikipedia_turns_25_still_boasting_zero_ads_and/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1qgk4it/wikipedia_turns_25_still_boasting_zero_ads_and/\"> <img alt=\"Wikipedia turns 25, still boasting zero ads and over 7 billio...",
-      "published": "2026-01-18T20:58:29+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Dead Internet Theory",
-      "link": "https://kudmitry.com/articles/dead-internet-theory/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=46671731\">Comments</a>...",
-      "published": "2026-01-18T20:19:07+00:00",
-      "domain": "kudmitry.com",
+      "title": "Nuclear elements detected in West Philippine Sea",
+      "link": "https://www.philstar.com/headlines/2026/01/18/2501750/nuclear-elements-detected-west-philippine-sea",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46677436\">Comments</a>...",
+      "published": "2026-01-19T10:46:54+00:00",
+      "domain": "philstar.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
