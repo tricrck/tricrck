@@ -16,17 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Cloudflare Fixes ACME Validation Bug Allowing WAF Bypass to Origin Servers
+### Three Flaws in Anthropic MCP Git Server Enable File Access and Code Execution
 - **Published**: January 20, 2026
-- **Summary**: Cloudflare has addressed a security vulnerability impacting its Automatic Certificate Management Environment (ACME) validation logic that made it poss...
-- **Keywords**: bug
-- [Read more](https://thehackernews.com/2026/01/cloudflare-fixes-acme-validation-bug.html)
+- **Summary**: A set of three security vulnerabilities has been disclosed in mcp-server-git, the official Git Model Context Protocol (MCP) server maintained by Anthr...
+- [Read more](https://thehackernews.com/2026/01/three-flaws-in-anthropic-mcp-git-server.html)
 
-### Tudou Guarantee Marketplace Halts Telegram Transactions After Processing Over $12 Billion
+### Hackers Use LinkedIn Messages to Spread RAT Malware Through DLL Sideloading
 - **Published**: January 20, 2026
-- **Summary**: A Telegram-based guarantee marketplace known for advertising a broad range of illicit services appears to be winding down its operations, according to...
-- **Keywords**: down
-- [Read more](https://thehackernews.com/2026/01/tudou-guarantee-marketplace-halts.html)
+- **Summary**: Cybersecurity researchers have uncovered a new phishing campaign that exploits social media private messages to propagate malicious payloads, likely w...
+- [Read more](https://thehackernews.com/2026/01/hackers-use-linkedin-messages-to-spread.html)
 
 ---
 

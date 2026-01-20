@@ -1,46 +1,10 @@
 {
   "chaos_ranked": [
     {
-      "title": "Cloudflare Fixes ACME Validation Bug Allowing WAF Bypass to Origin Servers",
-      "link": "https://thehackernews.com/2026/01/cloudflare-fixes-acme-validation-bug.html",
-      "summary": "Cloudflare has addressed a security vulnerability impacting its Automatic Certificate Management Environment (ACME) validation logic that made it possible to bypass security controls and access origin...",
-      "published": "2026-01-20T16:42:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 12.5,
-        "anarchy": 3.0,
-        "overall": 7.7
-      },
-      "keywords": {
-        "chaos": [
-          "bug"
-        ],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Tudou Guarantee Marketplace Halts Telegram Transactions After Processing Over $12 Billion",
-      "link": "https://thehackernews.com/2026/01/tudou-guarantee-marketplace-halts.html",
-      "summary": "A Telegram-based guarantee marketplace known for advertising a broad range of illicit services appears to be winding down its operations, according to new findings from Elliptic.\nThe blockchain intell...",
-      "published": "2026-01-20T13:10:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 9.8,
-        "anarchy": 3.0,
-        "overall": 6.4
-      },
-      "keywords": {
-        "chaos": [
-          "down"
-        ],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Why Secrets in JavaScript Bundles are Still Being Missed",
-      "link": "https://thehackernews.com/2026/01/why-secrets-in-javascript-bundles-are.html",
-      "summary": "Leaked API keys are no longer unusual, nor are the breaches that follow. So why are sensitive tokens still being so easily exposed?\nTo find out, Intruder\u2019s research team looked at what traditional vul...",
-      "published": "2026-01-20T16:15:00+05:30",
+      "title": "Three Flaws in Anthropic MCP Git Server Enable File Access and Code Execution",
+      "link": "https://thehackernews.com/2026/01/three-flaws-in-anthropic-mcp-git-server.html",
+      "summary": "A set of three security vulnerabilities has been disclosed in mcp-server-git, the official Git Model Context Protocol (MCP) server maintained by Anthropic, that could be exploited to read or delete ar...",
+      "published": "2026-01-20T19:25:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -53,10 +17,58 @@
       }
     },
     {
-      "title": "Ask HN: Do you have any evidence that agentic coding works?",
-      "link": "https://news.ycombinator.com/item?id=46691243",
-      "summary": "<p>I've been trying to get agentic coding to work, but the dissonance between what I'm seeing online and what I'm able to achieve is doing my head in.<p>Is there real evidence, beyond hype, that agent...",
-      "published": "2026-01-20T12:45:57+00:00",
+      "title": "Hackers Use LinkedIn Messages to Spread RAT Malware Through DLL Sideloading",
+      "link": "https://thehackernews.com/2026/01/hackers-use-linkedin-messages-to-spread.html",
+      "summary": "Cybersecurity researchers have uncovered a new phishing campaign that exploits social media private messages to propagate malicious payloads, likely with the intent to deploy a remote access trojan (R...",
+      "published": "2026-01-20T19:16:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Trump shares altered map of U.S. flag covering Canada, Greenland and Venezuela",
+      "link": "https://www.ctvnews.ca/canada/article/trump-shares-altered-map-of-us-flag-covering-canada-greenland-and-venezuela/",
+      "summary": "<p>Article URL: <a href=\"https://www.ctvnews.ca/canada/article/trump-shares-altered-map-of-us-flag-covering-canada-greenland-and-venezuela/\">https://www.ctvnews.ca/canada/article/trump-shares-altered-...",
+      "published": "2026-01-20T18:36:15+00:00",
+      "domain": "ctvnews.ca",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The Path to Real-Time Worlds and Why It Matters",
+      "link": "https://over.world/blog/the-path-to-real-time-worlds-and-why-it-matters",
+      "summary": "<p>Article URL: <a href=\"https://over.world/blog/the-path-to-real-time-worlds-and-why-it-matters\">https://over.world/blog/the-path-to-real-time-worlds-and-why-it-matters</a></p>\n<p>Comments URL: <a hr...",
+      "published": "2026-01-20T18:34:31+00:00",
+      "domain": "over.world",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Ask HN: Will humans still vote after AI takes over?",
+      "link": "https://news.ycombinator.com/item?id=46695890",
+      "summary": "<p>Taxpayer money has always been central to democracy, as it allows citizens to decide how public funds are used.<p>But if AI and robots take over most labor and taxes are no longer needed, it makes ...",
+      "published": "2026-01-20T18:34:12+00:00",
       "domain": "news.ycombinator.com",
       "scores": {
         "chaos": 3.0,
@@ -69,11 +81,11 @@
       }
     },
     {
-      "title": "Show HN: E2E mobile testing with plain English. Runs on Android and iOS",
-      "link": "https://finalrun.app",
-      "summary": "<p>I\u2019ve been building mobile apps for 10+ years, many used by millions of users. One problem kept coming back at every release: mobile testing is the bottleneck.<p>Before releases I spent hours, somet...",
-      "published": "2026-01-20T12:45:53+00:00",
-      "domain": "finalrun.app",
+      "title": "Web-based video editor powered by WebGPU",
+      "link": "https://subformer.com/en-US/editor",
+      "summary": "<p>Article URL: <a href=\"https://subformer.com/en-US/editor\">https://subformer.com/en-US/editor</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46695874\">https://news.ycombinato...",
+      "published": "2026-01-20T18:33:07+00:00",
+      "domain": "subformer.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -85,11 +97,11 @@
       }
     },
     {
-      "title": "How X's \"For You\" feed works (from the source code)",
-      "link": "https://growthjoy.io/x-algorithm-summary-2026",
-      "summary": "<p>Article URL: <a href=\"https://growthjoy.io/x-algorithm-summary-2026\">https://growthjoy.io/x-algorithm-summary-2026</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46691232\">h...",
-      "published": "2026-01-20T12:44:00+00:00",
-      "domain": "growthjoy.io",
+      "title": "Hightouch built their long-running agent harness",
+      "link": "https://www.amplifypartners.com/blog-posts/how-hightouch-built-their-long-running-agent-harness",
+      "summary": "<p>Article URL: <a href=\"https://www.amplifypartners.com/blog-posts/how-hightouch-built-their-long-running-agent-harness\">https://www.amplifypartners.com/blog-posts/how-hightouch-built-their-long-runn...",
+      "published": "2026-01-20T18:31:49+00:00",
+      "domain": "amplifypartners.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -101,11 +113,11 @@
       }
     },
     {
-      "title": "Ask HN: What's an API that you wish existed?",
-      "link": "https://news.ycombinator.com/item?id=46691222",
-      "summary": "<p>Here are some APIs that I personally wish existed:<p>1. A public Google Trends API. It's currently in Beta, and I can't access it.\n2. I'd pay a pretty penny for an API for OpenAI trends (or Anthrop...",
-      "published": "2026-01-20T12:42:44+00:00",
-      "domain": "news.ycombinator.com",
+      "title": "The 26,000-Year Astronomical Monument Hidden in Plain Sight",
+      "link": "https://longnow.org/ideas/the-26000-year-astronomical-monument-hidden-in-plain-sight/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46695628\">Comments</a>...",
+      "published": "2026-01-20T18:16:09+00:00",
+      "domain": "longnow.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -117,11 +129,11 @@
       }
     },
     {
-      "title": "Anatomy of CVE-2019-5736, a runc container escape",
-      "link": "https://samuel.karp.dev/blog/2019/04/a-runc-container-escape/",
-      "summary": "<p>Article URL: <a href=\"https://samuel.karp.dev/blog/2019/04/a-runc-container-escape/\">https://samuel.karp.dev/blog/2019/04/a-runc-container-escape/</a></p>\n<p>Comments URL: <a href=\"https://news.yco...",
-      "published": "2026-01-20T12:42:02+00:00",
-      "domain": "samuel.karp.dev",
+      "title": "The Hidden Risk of Orphan Accounts",
+      "link": "https://thehackernews.com/2026/01/the-hidden-risk-of-orphan-accounts.html",
+      "summary": "The Problem: The Identities Left Behind\nAs organizations grow and evolve, employees, contractors, services, and systems come and go - but their accounts often remain. These abandoned or \u201corphan\u201d accou...",
+      "published": "2026-01-20T17:28:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -133,27 +145,11 @@
       }
     },
     {
-      "title": "Running Claude Code dangerously (safely)",
-      "link": "https://blog.emilburzo.com/2026/01/running-claude-code-dangerously-safely/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=46690907\">Comments</a>...",
-      "published": "2026-01-20T11:58:34+00:00",
-      "domain": "blog.emilburzo.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Linux kernel framework for PCIe device emulation, in userspace",
-      "link": "https://github.com/cakehonolulu/pciem",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=46689065\">Comments</a>...",
-      "published": "2026-01-20T07:51:12+00:00",
-      "domain": "github.com",
+      "title": "Evelyn Stealer Malware Abuses VS Code Extensions to Steal Developer Credentials and Crypto",
+      "link": "https://thehackernews.com/2026/01/evelyn-stealer-malware-abuses-vs-code.html",
+      "summary": "Cybersecurity researchers have disclosed details of a malware campaign that's targeting software developers with a new information stealer called Evelyn Stealer by weaponizing the Microsoft Visual Stu...",
+      "published": "2026-01-20T17:18:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -167,28 +163,10 @@
   ],
   "anarchy_ranked": [
     {
-      "title": "Cloudflare Fixes ACME Validation Bug Allowing WAF Bypass to Origin Servers",
-      "link": "https://thehackernews.com/2026/01/cloudflare-fixes-acme-validation-bug.html",
-      "summary": "Cloudflare has addressed a security vulnerability impacting its Automatic Certificate Management Environment (ACME) validation logic that made it possible to bypass security controls and access origin...",
-      "published": "2026-01-20T16:42:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 12.5,
-        "anarchy": 3.0,
-        "overall": 7.7
-      },
-      "keywords": {
-        "chaos": [
-          "bug"
-        ],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Why Secrets in JavaScript Bundles are Still Being Missed",
-      "link": "https://thehackernews.com/2026/01/why-secrets-in-javascript-bundles-are.html",
-      "summary": "Leaked API keys are no longer unusual, nor are the breaches that follow. So why are sensitive tokens still being so easily exposed?\nTo find out, Intruder\u2019s research team looked at what traditional vul...",
-      "published": "2026-01-20T16:15:00+05:30",
+      "title": "Three Flaws in Anthropic MCP Git Server Enable File Access and Code Execution",
+      "link": "https://thehackernews.com/2026/01/three-flaws-in-anthropic-mcp-git-server.html",
+      "summary": "A set of three security vulnerabilities has been disclosed in mcp-server-git, the official Git Model Context Protocol (MCP) server maintained by Anthropic, that could be exploited to read or delete ar...",
+      "published": "2026-01-20T19:25:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -201,28 +179,58 @@
       }
     },
     {
-      "title": "Tudou Guarantee Marketplace Halts Telegram Transactions After Processing Over $12 Billion",
-      "link": "https://thehackernews.com/2026/01/tudou-guarantee-marketplace-halts.html",
-      "summary": "A Telegram-based guarantee marketplace known for advertising a broad range of illicit services appears to be winding down its operations, according to new findings from Elliptic.\nThe blockchain intell...",
-      "published": "2026-01-20T13:10:00+05:30",
+      "title": "Hackers Use LinkedIn Messages to Spread RAT Malware Through DLL Sideloading",
+      "link": "https://thehackernews.com/2026/01/hackers-use-linkedin-messages-to-spread.html",
+      "summary": "Cybersecurity researchers have uncovered a new phishing campaign that exploits social media private messages to propagate malicious payloads, likely with the intent to deploy a remote access trojan (R...",
+      "published": "2026-01-20T19:16:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
-        "chaos": 9.8,
+        "chaos": 3.0,
         "anarchy": 3.0,
-        "overall": 6.4
+        "overall": 3.0
       },
       "keywords": {
-        "chaos": [
-          "down"
-        ],
+        "chaos": [],
         "anarchy": []
       }
     },
     {
-      "title": "Ask HN: Do you have any evidence that agentic coding works?",
-      "link": "https://news.ycombinator.com/item?id=46691243",
-      "summary": "<p>I've been trying to get agentic coding to work, but the dissonance between what I'm seeing online and what I'm able to achieve is doing my head in.<p>Is there real evidence, beyond hype, that agent...",
-      "published": "2026-01-20T12:45:57+00:00",
+      "title": "Trump shares altered map of U.S. flag covering Canada, Greenland and Venezuela",
+      "link": "https://www.ctvnews.ca/canada/article/trump-shares-altered-map-of-us-flag-covering-canada-greenland-and-venezuela/",
+      "summary": "<p>Article URL: <a href=\"https://www.ctvnews.ca/canada/article/trump-shares-altered-map-of-us-flag-covering-canada-greenland-and-venezuela/\">https://www.ctvnews.ca/canada/article/trump-shares-altered-...",
+      "published": "2026-01-20T18:36:15+00:00",
+      "domain": "ctvnews.ca",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The Path to Real-Time Worlds and Why It Matters",
+      "link": "https://over.world/blog/the-path-to-real-time-worlds-and-why-it-matters",
+      "summary": "<p>Article URL: <a href=\"https://over.world/blog/the-path-to-real-time-worlds-and-why-it-matters\">https://over.world/blog/the-path-to-real-time-worlds-and-why-it-matters</a></p>\n<p>Comments URL: <a hr...",
+      "published": "2026-01-20T18:34:31+00:00",
+      "domain": "over.world",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Ask HN: Will humans still vote after AI takes over?",
+      "link": "https://news.ycombinator.com/item?id=46695890",
+      "summary": "<p>Taxpayer money has always been central to democracy, as it allows citizens to decide how public funds are used.<p>But if AI and robots take over most labor and taxes are no longer needed, it makes ...",
+      "published": "2026-01-20T18:34:12+00:00",
       "domain": "news.ycombinator.com",
       "scores": {
         "chaos": 3.0,
@@ -235,11 +243,11 @@
       }
     },
     {
-      "title": "Show HN: E2E mobile testing with plain English. Runs on Android and iOS",
-      "link": "https://finalrun.app",
-      "summary": "<p>I\u2019ve been building mobile apps for 10+ years, many used by millions of users. One problem kept coming back at every release: mobile testing is the bottleneck.<p>Before releases I spent hours, somet...",
-      "published": "2026-01-20T12:45:53+00:00",
-      "domain": "finalrun.app",
+      "title": "Web-based video editor powered by WebGPU",
+      "link": "https://subformer.com/en-US/editor",
+      "summary": "<p>Article URL: <a href=\"https://subformer.com/en-US/editor\">https://subformer.com/en-US/editor</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46695874\">https://news.ycombinato...",
+      "published": "2026-01-20T18:33:07+00:00",
+      "domain": "subformer.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -251,11 +259,11 @@
       }
     },
     {
-      "title": "How X's \"For You\" feed works (from the source code)",
-      "link": "https://growthjoy.io/x-algorithm-summary-2026",
-      "summary": "<p>Article URL: <a href=\"https://growthjoy.io/x-algorithm-summary-2026\">https://growthjoy.io/x-algorithm-summary-2026</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46691232\">h...",
-      "published": "2026-01-20T12:44:00+00:00",
-      "domain": "growthjoy.io",
+      "title": "Hightouch built their long-running agent harness",
+      "link": "https://www.amplifypartners.com/blog-posts/how-hightouch-built-their-long-running-agent-harness",
+      "summary": "<p>Article URL: <a href=\"https://www.amplifypartners.com/blog-posts/how-hightouch-built-their-long-running-agent-harness\">https://www.amplifypartners.com/blog-posts/how-hightouch-built-their-long-runn...",
+      "published": "2026-01-20T18:31:49+00:00",
+      "domain": "amplifypartners.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -267,11 +275,11 @@
       }
     },
     {
-      "title": "Ask HN: What's an API that you wish existed?",
-      "link": "https://news.ycombinator.com/item?id=46691222",
-      "summary": "<p>Here are some APIs that I personally wish existed:<p>1. A public Google Trends API. It's currently in Beta, and I can't access it.\n2. I'd pay a pretty penny for an API for OpenAI trends (or Anthrop...",
-      "published": "2026-01-20T12:42:44+00:00",
-      "domain": "news.ycombinator.com",
+      "title": "The 26,000-Year Astronomical Monument Hidden in Plain Sight",
+      "link": "https://longnow.org/ideas/the-26000-year-astronomical-monument-hidden-in-plain-sight/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46695628\">Comments</a>...",
+      "published": "2026-01-20T18:16:09+00:00",
+      "domain": "longnow.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -283,11 +291,11 @@
       }
     },
     {
-      "title": "Anatomy of CVE-2019-5736, a runc container escape",
-      "link": "https://samuel.karp.dev/blog/2019/04/a-runc-container-escape/",
-      "summary": "<p>Article URL: <a href=\"https://samuel.karp.dev/blog/2019/04/a-runc-container-escape/\">https://samuel.karp.dev/blog/2019/04/a-runc-container-escape/</a></p>\n<p>Comments URL: <a href=\"https://news.yco...",
-      "published": "2026-01-20T12:42:02+00:00",
-      "domain": "samuel.karp.dev",
+      "title": "The Hidden Risk of Orphan Accounts",
+      "link": "https://thehackernews.com/2026/01/the-hidden-risk-of-orphan-accounts.html",
+      "summary": "The Problem: The Identities Left Behind\nAs organizations grow and evolve, employees, contractors, services, and systems come and go - but their accounts often remain. These abandoned or \u201corphan\u201d accou...",
+      "published": "2026-01-20T17:28:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -299,27 +307,11 @@
       }
     },
     {
-      "title": "Running Claude Code dangerously (safely)",
-      "link": "https://blog.emilburzo.com/2026/01/running-claude-code-dangerously-safely/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=46690907\">Comments</a>...",
-      "published": "2026-01-20T11:58:34+00:00",
-      "domain": "blog.emilburzo.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Linux kernel framework for PCIe device emulation, in userspace",
-      "link": "https://github.com/cakehonolulu/pciem",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=46689065\">Comments</a>...",
-      "published": "2026-01-20T07:51:12+00:00",
-      "domain": "github.com",
+      "title": "Evelyn Stealer Malware Abuses VS Code Extensions to Steal Developer Credentials and Crypto",
+      "link": "https://thehackernews.com/2026/01/evelyn-stealer-malware-abuses-vs-code.html",
+      "summary": "Cybersecurity researchers have disclosed details of a malware campaign that's targeting software developers with a new information stealer called Evelyn Stealer by weaponizing the Microsoft Visual Stu...",
+      "published": "2026-01-20T17:18:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -333,46 +325,10 @@
   ],
   "overall_ranked": [
     {
-      "title": "Cloudflare Fixes ACME Validation Bug Allowing WAF Bypass to Origin Servers",
-      "link": "https://thehackernews.com/2026/01/cloudflare-fixes-acme-validation-bug.html",
-      "summary": "Cloudflare has addressed a security vulnerability impacting its Automatic Certificate Management Environment (ACME) validation logic that made it possible to bypass security controls and access origin...",
-      "published": "2026-01-20T16:42:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 12.5,
-        "anarchy": 3.0,
-        "overall": 7.7
-      },
-      "keywords": {
-        "chaos": [
-          "bug"
-        ],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Tudou Guarantee Marketplace Halts Telegram Transactions After Processing Over $12 Billion",
-      "link": "https://thehackernews.com/2026/01/tudou-guarantee-marketplace-halts.html",
-      "summary": "A Telegram-based guarantee marketplace known for advertising a broad range of illicit services appears to be winding down its operations, according to new findings from Elliptic.\nThe blockchain intell...",
-      "published": "2026-01-20T13:10:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 9.8,
-        "anarchy": 3.0,
-        "overall": 6.4
-      },
-      "keywords": {
-        "chaos": [
-          "down"
-        ],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Why Secrets in JavaScript Bundles are Still Being Missed",
-      "link": "https://thehackernews.com/2026/01/why-secrets-in-javascript-bundles-are.html",
-      "summary": "Leaked API keys are no longer unusual, nor are the breaches that follow. So why are sensitive tokens still being so easily exposed?\nTo find out, Intruder\u2019s research team looked at what traditional vul...",
-      "published": "2026-01-20T16:15:00+05:30",
+      "title": "Three Flaws in Anthropic MCP Git Server Enable File Access and Code Execution",
+      "link": "https://thehackernews.com/2026/01/three-flaws-in-anthropic-mcp-git-server.html",
+      "summary": "A set of three security vulnerabilities has been disclosed in mcp-server-git, the official Git Model Context Protocol (MCP) server maintained by Anthropic, that could be exploited to read or delete ar...",
+      "published": "2026-01-20T19:25:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -385,10 +341,58 @@
       }
     },
     {
-      "title": "Ask HN: Do you have any evidence that agentic coding works?",
-      "link": "https://news.ycombinator.com/item?id=46691243",
-      "summary": "<p>I've been trying to get agentic coding to work, but the dissonance between what I'm seeing online and what I'm able to achieve is doing my head in.<p>Is there real evidence, beyond hype, that agent...",
-      "published": "2026-01-20T12:45:57+00:00",
+      "title": "Hackers Use LinkedIn Messages to Spread RAT Malware Through DLL Sideloading",
+      "link": "https://thehackernews.com/2026/01/hackers-use-linkedin-messages-to-spread.html",
+      "summary": "Cybersecurity researchers have uncovered a new phishing campaign that exploits social media private messages to propagate malicious payloads, likely with the intent to deploy a remote access trojan (R...",
+      "published": "2026-01-20T19:16:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Trump shares altered map of U.S. flag covering Canada, Greenland and Venezuela",
+      "link": "https://www.ctvnews.ca/canada/article/trump-shares-altered-map-of-us-flag-covering-canada-greenland-and-venezuela/",
+      "summary": "<p>Article URL: <a href=\"https://www.ctvnews.ca/canada/article/trump-shares-altered-map-of-us-flag-covering-canada-greenland-and-venezuela/\">https://www.ctvnews.ca/canada/article/trump-shares-altered-...",
+      "published": "2026-01-20T18:36:15+00:00",
+      "domain": "ctvnews.ca",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The Path to Real-Time Worlds and Why It Matters",
+      "link": "https://over.world/blog/the-path-to-real-time-worlds-and-why-it-matters",
+      "summary": "<p>Article URL: <a href=\"https://over.world/blog/the-path-to-real-time-worlds-and-why-it-matters\">https://over.world/blog/the-path-to-real-time-worlds-and-why-it-matters</a></p>\n<p>Comments URL: <a hr...",
+      "published": "2026-01-20T18:34:31+00:00",
+      "domain": "over.world",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Ask HN: Will humans still vote after AI takes over?",
+      "link": "https://news.ycombinator.com/item?id=46695890",
+      "summary": "<p>Taxpayer money has always been central to democracy, as it allows citizens to decide how public funds are used.<p>But if AI and robots take over most labor and taxes are no longer needed, it makes ...",
+      "published": "2026-01-20T18:34:12+00:00",
       "domain": "news.ycombinator.com",
       "scores": {
         "chaos": 3.0,
@@ -401,11 +405,11 @@
       }
     },
     {
-      "title": "Show HN: E2E mobile testing with plain English. Runs on Android and iOS",
-      "link": "https://finalrun.app",
-      "summary": "<p>I\u2019ve been building mobile apps for 10+ years, many used by millions of users. One problem kept coming back at every release: mobile testing is the bottleneck.<p>Before releases I spent hours, somet...",
-      "published": "2026-01-20T12:45:53+00:00",
-      "domain": "finalrun.app",
+      "title": "Web-based video editor powered by WebGPU",
+      "link": "https://subformer.com/en-US/editor",
+      "summary": "<p>Article URL: <a href=\"https://subformer.com/en-US/editor\">https://subformer.com/en-US/editor</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46695874\">https://news.ycombinato...",
+      "published": "2026-01-20T18:33:07+00:00",
+      "domain": "subformer.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -417,11 +421,11 @@
       }
     },
     {
-      "title": "How X's \"For You\" feed works (from the source code)",
-      "link": "https://growthjoy.io/x-algorithm-summary-2026",
-      "summary": "<p>Article URL: <a href=\"https://growthjoy.io/x-algorithm-summary-2026\">https://growthjoy.io/x-algorithm-summary-2026</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46691232\">h...",
-      "published": "2026-01-20T12:44:00+00:00",
-      "domain": "growthjoy.io",
+      "title": "Hightouch built their long-running agent harness",
+      "link": "https://www.amplifypartners.com/blog-posts/how-hightouch-built-their-long-running-agent-harness",
+      "summary": "<p>Article URL: <a href=\"https://www.amplifypartners.com/blog-posts/how-hightouch-built-their-long-running-agent-harness\">https://www.amplifypartners.com/blog-posts/how-hightouch-built-their-long-runn...",
+      "published": "2026-01-20T18:31:49+00:00",
+      "domain": "amplifypartners.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -433,11 +437,11 @@
       }
     },
     {
-      "title": "Ask HN: What's an API that you wish existed?",
-      "link": "https://news.ycombinator.com/item?id=46691222",
-      "summary": "<p>Here are some APIs that I personally wish existed:<p>1. A public Google Trends API. It's currently in Beta, and I can't access it.\n2. I'd pay a pretty penny for an API for OpenAI trends (or Anthrop...",
-      "published": "2026-01-20T12:42:44+00:00",
-      "domain": "news.ycombinator.com",
+      "title": "The 26,000-Year Astronomical Monument Hidden in Plain Sight",
+      "link": "https://longnow.org/ideas/the-26000-year-astronomical-monument-hidden-in-plain-sight/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46695628\">Comments</a>...",
+      "published": "2026-01-20T18:16:09+00:00",
+      "domain": "longnow.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -449,11 +453,11 @@
       }
     },
     {
-      "title": "Anatomy of CVE-2019-5736, a runc container escape",
-      "link": "https://samuel.karp.dev/blog/2019/04/a-runc-container-escape/",
-      "summary": "<p>Article URL: <a href=\"https://samuel.karp.dev/blog/2019/04/a-runc-container-escape/\">https://samuel.karp.dev/blog/2019/04/a-runc-container-escape/</a></p>\n<p>Comments URL: <a href=\"https://news.yco...",
-      "published": "2026-01-20T12:42:02+00:00",
-      "domain": "samuel.karp.dev",
+      "title": "The Hidden Risk of Orphan Accounts",
+      "link": "https://thehackernews.com/2026/01/the-hidden-risk-of-orphan-accounts.html",
+      "summary": "The Problem: The Identities Left Behind\nAs organizations grow and evolve, employees, contractors, services, and systems come and go - but their accounts often remain. These abandoned or \u201corphan\u201d accou...",
+      "published": "2026-01-20T17:28:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -465,27 +469,11 @@
       }
     },
     {
-      "title": "Running Claude Code dangerously (safely)",
-      "link": "https://blog.emilburzo.com/2026/01/running-claude-code-dangerously-safely/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=46690907\">Comments</a>...",
-      "published": "2026-01-20T11:58:34+00:00",
-      "domain": "blog.emilburzo.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Linux kernel framework for PCIe device emulation, in userspace",
-      "link": "https://github.com/cakehonolulu/pciem",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=46689065\">Comments</a>...",
-      "published": "2026-01-20T07:51:12+00:00",
-      "domain": "github.com",
+      "title": "Evelyn Stealer Malware Abuses VS Code Extensions to Steal Developer Credentials and Crypto",
+      "link": "https://thehackernews.com/2026/01/evelyn-stealer-malware-abuses-vs-code.html",
+      "summary": "Cybersecurity researchers have disclosed details of a malware campaign that's targeting software developers with a new information stealer called Evelyn Stealer by weaponizing the Microsoft Visual Stu...",
+      "published": "2026-01-20T17:18:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -499,28 +487,10 @@
   ],
   "all_articles": [
     {
-      "title": "Cloudflare Fixes ACME Validation Bug Allowing WAF Bypass to Origin Servers",
-      "link": "https://thehackernews.com/2026/01/cloudflare-fixes-acme-validation-bug.html",
-      "summary": "Cloudflare has addressed a security vulnerability impacting its Automatic Certificate Management Environment (ACME) validation logic that made it possible to bypass security controls and access origin...",
-      "published": "2026-01-20T16:42:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 12.5,
-        "anarchy": 3.0,
-        "overall": 7.7
-      },
-      "keywords": {
-        "chaos": [
-          "bug"
-        ],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Why Secrets in JavaScript Bundles are Still Being Missed",
-      "link": "https://thehackernews.com/2026/01/why-secrets-in-javascript-bundles-are.html",
-      "summary": "Leaked API keys are no longer unusual, nor are the breaches that follow. So why are sensitive tokens still being so easily exposed?\nTo find out, Intruder\u2019s research team looked at what traditional vul...",
-      "published": "2026-01-20T16:15:00+05:30",
+      "title": "Three Flaws in Anthropic MCP Git Server Enable File Access and Code Execution",
+      "link": "https://thehackernews.com/2026/01/three-flaws-in-anthropic-mcp-git-server.html",
+      "summary": "A set of three security vulnerabilities has been disclosed in mcp-server-git, the official Git Model Context Protocol (MCP) server maintained by Anthropic, that could be exploited to read or delete ar...",
+      "published": "2026-01-20T19:25:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -533,28 +503,58 @@
       }
     },
     {
-      "title": "Tudou Guarantee Marketplace Halts Telegram Transactions After Processing Over $12 Billion",
-      "link": "https://thehackernews.com/2026/01/tudou-guarantee-marketplace-halts.html",
-      "summary": "A Telegram-based guarantee marketplace known for advertising a broad range of illicit services appears to be winding down its operations, according to new findings from Elliptic.\nThe blockchain intell...",
-      "published": "2026-01-20T13:10:00+05:30",
+      "title": "Hackers Use LinkedIn Messages to Spread RAT Malware Through DLL Sideloading",
+      "link": "https://thehackernews.com/2026/01/hackers-use-linkedin-messages-to-spread.html",
+      "summary": "Cybersecurity researchers have uncovered a new phishing campaign that exploits social media private messages to propagate malicious payloads, likely with the intent to deploy a remote access trojan (R...",
+      "published": "2026-01-20T19:16:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
-        "chaos": 9.8,
+        "chaos": 3.0,
         "anarchy": 3.0,
-        "overall": 6.4
+        "overall": 3.0
       },
       "keywords": {
-        "chaos": [
-          "down"
-        ],
+        "chaos": [],
         "anarchy": []
       }
     },
     {
-      "title": "Ask HN: Do you have any evidence that agentic coding works?",
-      "link": "https://news.ycombinator.com/item?id=46691243",
-      "summary": "<p>I've been trying to get agentic coding to work, but the dissonance between what I'm seeing online and what I'm able to achieve is doing my head in.<p>Is there real evidence, beyond hype, that agent...",
-      "published": "2026-01-20T12:45:57+00:00",
+      "title": "Trump shares altered map of U.S. flag covering Canada, Greenland and Venezuela",
+      "link": "https://www.ctvnews.ca/canada/article/trump-shares-altered-map-of-us-flag-covering-canada-greenland-and-venezuela/",
+      "summary": "<p>Article URL: <a href=\"https://www.ctvnews.ca/canada/article/trump-shares-altered-map-of-us-flag-covering-canada-greenland-and-venezuela/\">https://www.ctvnews.ca/canada/article/trump-shares-altered-...",
+      "published": "2026-01-20T18:36:15+00:00",
+      "domain": "ctvnews.ca",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The Path to Real-Time Worlds and Why It Matters",
+      "link": "https://over.world/blog/the-path-to-real-time-worlds-and-why-it-matters",
+      "summary": "<p>Article URL: <a href=\"https://over.world/blog/the-path-to-real-time-worlds-and-why-it-matters\">https://over.world/blog/the-path-to-real-time-worlds-and-why-it-matters</a></p>\n<p>Comments URL: <a hr...",
+      "published": "2026-01-20T18:34:31+00:00",
+      "domain": "over.world",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Ask HN: Will humans still vote after AI takes over?",
+      "link": "https://news.ycombinator.com/item?id=46695890",
+      "summary": "<p>Taxpayer money has always been central to democracy, as it allows citizens to decide how public funds are used.<p>But if AI and robots take over most labor and taxes are no longer needed, it makes ...",
+      "published": "2026-01-20T18:34:12+00:00",
       "domain": "news.ycombinator.com",
       "scores": {
         "chaos": 3.0,
@@ -567,11 +567,11 @@
       }
     },
     {
-      "title": "Show HN: E2E mobile testing with plain English. Runs on Android and iOS",
-      "link": "https://finalrun.app",
-      "summary": "<p>I\u2019ve been building mobile apps for 10+ years, many used by millions of users. One problem kept coming back at every release: mobile testing is the bottleneck.<p>Before releases I spent hours, somet...",
-      "published": "2026-01-20T12:45:53+00:00",
-      "domain": "finalrun.app",
+      "title": "Web-based video editor powered by WebGPU",
+      "link": "https://subformer.com/en-US/editor",
+      "summary": "<p>Article URL: <a href=\"https://subformer.com/en-US/editor\">https://subformer.com/en-US/editor</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46695874\">https://news.ycombinato...",
+      "published": "2026-01-20T18:33:07+00:00",
+      "domain": "subformer.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -583,11 +583,11 @@
       }
     },
     {
-      "title": "How X's \"For You\" feed works (from the source code)",
-      "link": "https://growthjoy.io/x-algorithm-summary-2026",
-      "summary": "<p>Article URL: <a href=\"https://growthjoy.io/x-algorithm-summary-2026\">https://growthjoy.io/x-algorithm-summary-2026</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46691232\">h...",
-      "published": "2026-01-20T12:44:00+00:00",
-      "domain": "growthjoy.io",
+      "title": "Hightouch built their long-running agent harness",
+      "link": "https://www.amplifypartners.com/blog-posts/how-hightouch-built-their-long-running-agent-harness",
+      "summary": "<p>Article URL: <a href=\"https://www.amplifypartners.com/blog-posts/how-hightouch-built-their-long-running-agent-harness\">https://www.amplifypartners.com/blog-posts/how-hightouch-built-their-long-runn...",
+      "published": "2026-01-20T18:31:49+00:00",
+      "domain": "amplifypartners.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -599,11 +599,11 @@
       }
     },
     {
-      "title": "Ask HN: What's an API that you wish existed?",
-      "link": "https://news.ycombinator.com/item?id=46691222",
-      "summary": "<p>Here are some APIs that I personally wish existed:<p>1. A public Google Trends API. It's currently in Beta, and I can't access it.\n2. I'd pay a pretty penny for an API for OpenAI trends (or Anthrop...",
-      "published": "2026-01-20T12:42:44+00:00",
-      "domain": "news.ycombinator.com",
+      "title": "The 26,000-Year Astronomical Monument Hidden in Plain Sight",
+      "link": "https://longnow.org/ideas/the-26000-year-astronomical-monument-hidden-in-plain-sight/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46695628\">Comments</a>...",
+      "published": "2026-01-20T18:16:09+00:00",
+      "domain": "longnow.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -615,11 +615,11 @@
       }
     },
     {
-      "title": "Anatomy of CVE-2019-5736, a runc container escape",
-      "link": "https://samuel.karp.dev/blog/2019/04/a-runc-container-escape/",
-      "summary": "<p>Article URL: <a href=\"https://samuel.karp.dev/blog/2019/04/a-runc-container-escape/\">https://samuel.karp.dev/blog/2019/04/a-runc-container-escape/</a></p>\n<p>Comments URL: <a href=\"https://news.yco...",
-      "published": "2026-01-20T12:42:02+00:00",
-      "domain": "samuel.karp.dev",
+      "title": "The Hidden Risk of Orphan Accounts",
+      "link": "https://thehackernews.com/2026/01/the-hidden-risk-of-orphan-accounts.html",
+      "summary": "The Problem: The Identities Left Behind\nAs organizations grow and evolve, employees, contractors, services, and systems come and go - but their accounts often remain. These abandoned or \u201corphan\u201d accou...",
+      "published": "2026-01-20T17:28:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -631,27 +631,11 @@
       }
     },
     {
-      "title": "Running Claude Code dangerously (safely)",
-      "link": "https://blog.emilburzo.com/2026/01/running-claude-code-dangerously-safely/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=46690907\">Comments</a>...",
-      "published": "2026-01-20T11:58:34+00:00",
-      "domain": "blog.emilburzo.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Linux kernel framework for PCIe device emulation, in userspace",
-      "link": "https://github.com/cakehonolulu/pciem",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=46689065\">Comments</a>...",
-      "published": "2026-01-20T07:51:12+00:00",
-      "domain": "github.com",
+      "title": "Evelyn Stealer Malware Abuses VS Code Extensions to Steal Developer Credentials and Crypto",
+      "link": "https://thehackernews.com/2026/01/evelyn-stealer-malware-abuses-vs-code.html",
+      "summary": "Cybersecurity researchers have disclosed details of a malware campaign that's targeting software developers with a new information stealer called Evelyn Stealer by weaponizing the Microsoft Visual Stu...",
+      "published": "2026-01-20T17:18:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
