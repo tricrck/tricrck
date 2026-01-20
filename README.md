@@ -16,15 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Google Gemini Prompt Injection Flaw Exposed Private Calendar Data via Malicious Invites
-- **Published**: January 19, 2026
-- **Summary**: Cybersecurity researchers have disclosed details of a security flaw that leverages indirect prompt injection targeting Google Gemini as a way to bypas...
-- [Read more](https://thehackernews.com/2026/01/google-gemini-prompt-injection-flaw.html)
+### Attitude, Belief, Skill: A Hiring Priority Stack
+- **Published**: January 20, 2026
+- **Summary**: https://inferal.com/blog/abs-hiring-framework/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46686879"......
+- [Read more](https://inferal.com/blog/abs-hiring-framework/)
 
-### ⚡ Weekly Recap: Fortinet Exploits, RedLine Clipjack, NTLM Crack, Copilot Attack & More
-- **Published**: January 19, 2026
-- **Summary**: In cybersecurity, the line between a normal update and a serious incident keeps getting thinner. Systems that once felt reliable are now under pressur...
-- [Read more](https://thehackernews.com/2026/01/weekly-recap-fortinet-exploits-redline.html)
+### We replaced our sales team with 20 AI agents
+- **Published**: January 20, 2026
+- **Summary**: https://www.lennysnewsletter.com/p/we-replaced-our-sales-team-with-20-ai-agents</a></p>
+<p>Com......
+- [Read more](https://www.lennysnewsletter.com/p/we-replaced-our-sales-team-with-20-ai-agents)
 
 ---
 
