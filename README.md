@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Attitude, Belief, Skill: A Hiring Priority Stack
+### Postmortem on TreeTracker Join: Simple, Optimal, Fast
 - **Published**: January 20, 2026
-- **Summary**: https://inferal.com/blog/abs-hiring-framework/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46686879"......
-- [Read more](https://inferal.com/blog/abs-hiring-framework/)
+- **Summary**: https://zhu45.org/posts/2026/Jan/03/postmortem-on-treetracker-join-simple-optimal-fast......
+- [Read more](https://zhu45.org/posts/2026/Jan/03/postmortem-on-treetracker-join-simple-optimal-fast/)
 
-### We replaced our sales team with 20 AI agents
+### Algorithmica
 - **Published**: January 20, 2026
-- **Summary**: https://www.lennysnewsletter.com/p/we-replaced-our-sales-team-with-20-ai-agents</a></p>
-<p>Com......
-- [Read more](https://www.lennysnewsletter.com/p/we-replaced-our-sales-team-with-20-ai-agents)
+- **Summary**: https://en.algorithmica.org/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46688594">https://news.ycombinator.com/item?i......
+- [Read more](https://en.algorithmica.org/)
 
 ---
 
