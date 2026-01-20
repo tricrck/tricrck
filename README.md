@@ -16,16 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Postmortem on TreeTracker Join: Simple, Optimal, Fast
+### Cloudflare Fixes ACME Validation Bug Allowing WAF Bypass to Origin Servers
 - **Published**: January 20, 2026
-- **Summary**: https://zhu45.org/posts/2026/Jan/03/postmortem-on-treetracker-join-simple-optimal-fast......
-- [Read more](https://zhu45.org/posts/2026/Jan/03/postmortem-on-treetracker-join-simple-optimal-fast/)
+- **Summary**: Cloudflare has addressed a security vulnerability impacting its Automatic Certificate Management Environment (ACME) validation logic that made it poss...
+- **Keywords**: bug
+- [Read more](https://thehackernews.com/2026/01/cloudflare-fixes-acme-validation-bug.html)
 
-### Algorithmica
+### Tudou Guarantee Marketplace Halts Telegram Transactions After Processing Over $12 Billion
 - **Published**: January 20, 2026
-- **Summary**: https://en.algorithmica.org/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46688594">https://news.ycombinator.com/item?i......
-- [Read more](https://en.algorithmica.org/)
+- **Summary**: A Telegram-based guarantee marketplace known for advertising a broad range of illicit services appears to be winding down its operations, according to...
+- **Keywords**: down
+- [Read more](https://thehackernews.com/2026/01/tudou-guarantee-marketplace-halts.html)
 
 ---
 
