@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Verizon starts requiring 365 days of paid service before it will unlock phones
+### Amthropic CEO claims we are 1yr away where AI can do everything SWEs
 - **Published**: January 21, 2026
-- **Summary**: https://arstechnica.com/tech-policy/2026/01/verizo......
-- [Read more](https://arstechnica.com/tech-policy/2026/01/verizon-starts-requiring-365-days-of-paid-service-before-it-will-unlock-phones/)
+- **Summary**: https://twitter.com/i/status/2013682941201678804</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46701......
+- [Read more](https://twitter.com/i/status/2013682941201678804)
 
-### Pituffik Space Base
+### Trump admin sought redactions on China war game report warning
 - **Published**: January 21, 2026
-- **Summary**: https://en.wikipedia.org/wiki/Pituffik_Space_Base</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=467......
-- [Read more](https://en.wikipedia.org/wiki/Pituffik_Space_Base)
+- **Summary**: https://www.foxnews.com/politics/trump-admin-sough......
+- [Read more](https://www.foxnews.com/politics/trump-admin-sought-redactions-key-china-war-game-report-warning-us-military-readiness-gaps)
 
 ---
 
