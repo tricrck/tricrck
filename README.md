@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Amthropic CEO claims we are 1yr away where AI can do everything SWEs
+### Webinar: How Smart MSSPs Using AI to Boost Margins with Half the Staff
 - **Published**: January 21, 2026
-- **Summary**: https://twitter.com/i/status/2013682941201678804</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46701......
-- [Read more](https://twitter.com/i/status/2013682941201678804)
+- **Summary**: Every managed security provider is chasing the same problem in 2026 — too many alerts, too few analysts, and clients demanding “CISO-level protection”...
+- [Read more](https://thehackernews.com/2026/01/webinar-how-smart-mssps-using-ai-to.html)
 
-### Trump admin sought redactions on China war game report warning
+### Exposure Assessment Platforms Signal a Shift in Focus
 - **Published**: January 21, 2026
-- **Summary**: https://www.foxnews.com/politics/trump-admin-sough......
-- [Read more](https://www.foxnews.com/politics/trump-admin-sought-redactions-key-china-war-game-report-warning-us-military-readiness-gaps)
+- **Summary**: Gartner® doesn’t create new categories lightly. Generally speaking, a new acronym only emerges when the industry's collective "to-do list" has become ...
+- [Read more](https://thehackernews.com/2026/01/exposure-assessment-platforms-signal.html)
 
 ---
 
