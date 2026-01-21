@@ -16,15 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Three Flaws in Anthropic MCP Git Server Enable File Access and Code Execution
-- **Published**: January 20, 2026
-- **Summary**: A set of three security vulnerabilities has been disclosed in mcp-server-git, the official Git Model Context Protocol (MCP) server maintained by Anthr...
-- [Read more](https://thehackernews.com/2026/01/three-flaws-in-anthropic-mcp-git-server.html)
+### Verizon starts requiring 365 days of paid service before it will unlock phones
+- **Published**: January 21, 2026
+- **Summary**: https://arstechnica.com/tech-policy/2026/01/verizo......
+- [Read more](https://arstechnica.com/tech-policy/2026/01/verizon-starts-requiring-365-days-of-paid-service-before-it-will-unlock-phones/)
 
-### Hackers Use LinkedIn Messages to Spread RAT Malware Through DLL Sideloading
-- **Published**: January 20, 2026
-- **Summary**: Cybersecurity researchers have uncovered a new phishing campaign that exploits social media private messages to propagate malicious payloads, likely w...
-- [Read more](https://thehackernews.com/2026/01/hackers-use-linkedin-messages-to-spread.html)
+### Pituffik Space Base
+- **Published**: January 21, 2026
+- **Summary**: https://en.wikipedia.org/wiki/Pituffik_Space_Base</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=467......
+- [Read more](https://en.wikipedia.org/wiki/Pituffik_Space_Base)
 
 ---
 
