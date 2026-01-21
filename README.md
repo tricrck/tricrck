@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Webinar: How Smart MSSPs Using AI to Boost Margins with Half the Staff
+### North Korean PurpleBravo Campaign Targeted 3,136 IP Addresses via Fake Job Interviews
 - **Published**: January 21, 2026
-- **Summary**: Every managed security provider is chasing the same problem in 2026 — too many alerts, too few analysts, and clients demanding “CISO-level protection”...
-- [Read more](https://thehackernews.com/2026/01/webinar-how-smart-mssps-using-ai-to.html)
+- **Summary**: As many as 3,136 individual IP addresses linked to likely targets of the Contagious Interview activity have been identified, with the campaign claimin...
+- [Read more](https://thehackernews.com/2026/01/north-korean-purplebravo-campaign.html)
 
-### Exposure Assessment Platforms Signal a Shift in Focus
+### Zoom and GitLab Release Security Updates Fixing RCE, DoS, and 2FA Bypass Flaws
 - **Published**: January 21, 2026
-- **Summary**: Gartner® doesn’t create new categories lightly. Generally speaking, a new acronym only emerges when the industry's collective "to-do list" has become ...
-- [Read more](https://thehackernews.com/2026/01/exposure-assessment-platforms-signal.html)
+- **Summary**: Zoom and GitLab have released security updates to resolve a number of security vulnerabilities that could result in denial-of-service (DoS) and remote...
+- [Read more](https://thehackernews.com/2026/01/zoom-and-gitlab-release-security.html)
 
 ---
 
