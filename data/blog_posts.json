@@ -19,10 +19,10 @@
       }
     },
     {
-      "title": "Malicious PyPI Package Impersonates SymPy, Deploys XMRig Miner on Linux Hosts",
-      "link": "https://thehackernews.com/2026/01/malicious-pypi-package-impersonates.html",
-      "summary": "A new malicious package discovered in the Python Package Index (PyPI) has been found to impersonate a popular library for symbolic mathematics to deploy malicious payloads, including a cryptocurrency ...",
-      "published": "2026-01-22T15:34:00+05:30",
+      "title": "Critical GNU InetUtils telnetd Flaw Lets Attackers Bypass Login and Gain Root Access",
+      "link": "https://thehackernews.com/2026/01/critical-gnu-inetutils-telnetd-flaw.html",
+      "summary": "A critical security flaw has been disclosed in the GNU InetUtils telnet daemon (telnetd) that went unnoticed for nearly 11 years.\nThe vulnerability, tracked as CVE-2026-24061, is rated 9.8 out of 10.0...",
+      "published": "2026-01-22T22:00:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -35,10 +35,10 @@
       }
     },
     {
-      "title": "SmarterMail Auth Bypass Exploited in the Wild Two Days After Patch Release",
-      "link": "https://thehackernews.com/2026/01/smartermail-auth-bypass-exploited-in.html",
-      "summary": "A new security flaw in SmarterTools SmarterMail email software has come under active exploitation in the wild, two days after the release of a patch.\nThe vulnerability, which currently does not have a...",
-      "published": "2026-01-22T15:16:00+05:30",
+      "title": "ThreatsDay Bulletin: Pixel Zero-Click, Redis RCE, China C2s, RAT Ads, Crypto Scams & 15+ Stories",
+      "link": "https://thehackernews.com/2026/01/threatsday-bulletin-pixel-zero-click.html",
+      "summary": "Most of this week\u2019s threats didn\u2019t rely on new tricks. They relied on familiar systems behaving exactly as designed, just in the wrong hands. Ordinary files, routine services, and trusted workflows we...",
+      "published": "2026-01-22T19:53:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -51,11 +51,11 @@
       }
     },
     {
-      "title": "Show HN: Readforme.md",
-      "link": "https://promptcmd.sh/lib/#READFORME.md",
-      "summary": "<p>Exemplary tool created using my tool for turning prompts into \"native-looking\" executables:<p><pre><code>  $ READFORME.md --help\n  Usage: READFORME.md [OPTIONS] --repo  --info \n  \n  Prompt inputs:\n...",
-      "published": "2026-01-22T12:43:38+00:00",
-      "domain": "promptcmd.sh",
+      "title": "Zelenskyy says Europe 'looks lost' and living in 'Groundhog Day'",
+      "link": "https://www.euronews.com/2026/01/22/zelenskyy-says-europe-looks-lost-and-living-in-groundhog-day-in-scathing-davos-address",
+      "summary": "<p>Article URL: <a href=\"https://www.euronews.com/2026/01/22/zelenskyy-says-europe-looks-lost-and-living-in-groundhog-day-in-scathing-davos-address\">https://www.euronews.com/2026/01/22/zelenskyy-says-...",
+      "published": "2026-01-22T18:24:02+00:00",
+      "domain": "euronews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -67,10 +67,42 @@
       }
     },
     {
-      "title": "Ask HN: Do we want engineers to care less about users?",
-      "link": "https://news.ycombinator.com/item?id=46718499",
-      "summary": "<p>From a job post (posted here in the forum)<p>> Must: High Agency, Extreme AI coding experience, Loves agents more than humans<p>In a small startup I'd imagine having an engineer engaging and emphas...",
-      "published": "2026-01-22T12:43:08+00:00",
+      "title": "Show HN: Backwater Finance \u2013 A free, local-first personal finance web app",
+      "link": "https://backwater.systems/finance/",
+      "summary": "<p>For several years, I\u2019ve been tinkering on (yet another ) personal finance app \u2026 largely to practice the craft, and as a way to try out things we didn\u2019t get to use at `$DAY_JOB`. I was laid off from...",
+      "published": "2026-01-22T18:22:00+00:00",
+      "domain": "backwater.systems",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Best and worst parcel firms for customer satisfaction (UK) (2025)",
+      "link": "https://www.ofcom.org.uk/post/deliveries-and-charges/best-and-worst-parcel-firms-for-customer-satisfaction-revealed-2025",
+      "summary": "<p>Article URL: <a href=\"https://www.ofcom.org.uk/post/deliveries-and-charges/best-and-worst-parcel-firms-for-customer-satisfaction-revealed-2025\">https://www.ofcom.org.uk/post/deliveries-and-charges/...",
+      "published": "2026-01-22T18:21:32+00:00",
+      "domain": "ofcom.org.uk",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Postgres and ClickHouse as a unified data stack",
+      "link": "https://news.ycombinator.com/item?id=46723128",
+      "summary": "<p>Hello HN, this is Sai and Kaushik from ClickHouse. Today we are launching a Postgres managed service that is natively integrated with ClickHouse. It is built together with Ubicloud (YC W24).<p>TL;D...",
+      "published": "2026-01-22T18:21:13+00:00",
       "domain": "news.ycombinator.com",
       "scores": {
         "chaos": 3.0,
@@ -83,11 +115,11 @@
       }
     },
     {
-      "title": "Make Linux fast again: when you don't need sidechannel vulnerability protection",
-      "link": "https://make-linux-fast-again.com/",
-      "summary": "<p>Article URL: <a href=\"https://make-linux-fast-again.com/\">https://make-linux-fast-again.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46718489\">https://news.ycombinato...",
-      "published": "2026-01-22T12:42:02+00:00",
-      "domain": "make-linux-fast-again.com",
+      "title": "Distcc \u2013 distributed builds for C, C++ and Objective C",
+      "link": "https://github.com/distcc/distcc",
+      "summary": "<p>Article URL: <a href=\"https://github.com/distcc/distcc\">https://github.com/distcc/distcc</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46723123\">https://news.ycombinator.co...",
+      "published": "2026-01-22T18:21:01+00:00",
+      "domain": "github.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -99,11 +131,11 @@
       }
     },
     {
-      "title": "Satya Nadella: \"We need to find something useful for AI\"",
-      "link": "https://www.pcgamer.com/software/ai/microsoft-ceo-warns-that-we-must-do-something-useful-with-ai-or-theyll-lose-social-permission-to-burn-electricity-on-it/",
-      "summary": "<p>Article URL: <a href=\"https://www.pcgamer.com/software/ai/microsoft-ceo-warns-that-we-must-do-something-useful-with-ai-or-theyll-lose-social-permission-to-burn-electricity-on-it/\">https://www.pcgam...",
-      "published": "2026-01-22T12:41:49+00:00",
-      "domain": "pcgamer.com",
+      "title": "CSS Optical Illusions",
+      "link": "https://alvaromontoro.com/blog/68091/css-optical-illusions",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46722570\">Comments</a>...",
+      "published": "2026-01-22T17:41:22+00:00",
+      "domain": "alvaromontoro.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -115,43 +147,11 @@
       }
     },
     {
-      "title": "Get professional marketing growth services through Amplift",
-      "link": "https://amplift.ai/",
-      "summary": "<p>Article URL: <a href=\"https://amplift.ai/\">https://amplift.ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46718475\">https://news.ycombinator.com/item?id=46718475</a></p>...",
-      "published": "2026-01-22T12:40:49+00:00",
-      "domain": "amplift.ai",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Design Thinking Books You Must Read",
-      "link": "https://www.designorate.com/design-thinking-books/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=46718061\">Comments</a>...",
-      "published": "2026-01-22T11:51:10+00:00",
-      "domain": "designorate.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Automated FortiGate Attacks Exploit FortiCloud SSO to Alter Firewall Configurations",
-      "link": "https://thehackernews.com/2026/01/automated-fortigate-attacks-exploit.html",
-      "summary": "Cybersecurity company Arctic Wolf has warned of a \"new cluster of automated malicious activity\" that involves unauthorized firewall configuration changes on Fortinet FortiGate devices.\nThe activity, i...",
-      "published": "2026-01-22T11:25:00+05:30",
-      "domain": "thehackernews.com",
+      "title": "Show HN: isometric.nyc \u2013 giant isometric pixel art map of NYC",
+      "link": "https://cannoneyed.com/isometric-nyc/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46721802\">Comments</a>...",
+      "published": "2026-01-22T16:52:35+00:00",
+      "domain": "cannoneyed.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -164,6 +164,134 @@
     }
   ],
   "anarchy_ranked": [
+    {
+      "title": "Critical GNU InetUtils telnetd Flaw Lets Attackers Bypass Login and Gain Root Access",
+      "link": "https://thehackernews.com/2026/01/critical-gnu-inetutils-telnetd-flaw.html",
+      "summary": "A critical security flaw has been disclosed in the GNU InetUtils telnet daemon (telnetd) that went unnoticed for nearly 11 years.\nThe vulnerability, tracked as CVE-2026-24061, is rated 9.8 out of 10.0...",
+      "published": "2026-01-22T22:00:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "ThreatsDay Bulletin: Pixel Zero-Click, Redis RCE, China C2s, RAT Ads, Crypto Scams & 15+ Stories",
+      "link": "https://thehackernews.com/2026/01/threatsday-bulletin-pixel-zero-click.html",
+      "summary": "Most of this week\u2019s threats didn\u2019t rely on new tricks. They relied on familiar systems behaving exactly as designed, just in the wrong hands. Ordinary files, routine services, and trusted workflows we...",
+      "published": "2026-01-22T19:53:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Zelenskyy says Europe 'looks lost' and living in 'Groundhog Day'",
+      "link": "https://www.euronews.com/2026/01/22/zelenskyy-says-europe-looks-lost-and-living-in-groundhog-day-in-scathing-davos-address",
+      "summary": "<p>Article URL: <a href=\"https://www.euronews.com/2026/01/22/zelenskyy-says-europe-looks-lost-and-living-in-groundhog-day-in-scathing-davos-address\">https://www.euronews.com/2026/01/22/zelenskyy-says-...",
+      "published": "2026-01-22T18:24:02+00:00",
+      "domain": "euronews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Backwater Finance \u2013 A free, local-first personal finance web app",
+      "link": "https://backwater.systems/finance/",
+      "summary": "<p>For several years, I\u2019ve been tinkering on (yet another ) personal finance app \u2026 largely to practice the craft, and as a way to try out things we didn\u2019t get to use at `$DAY_JOB`. I was laid off from...",
+      "published": "2026-01-22T18:22:00+00:00",
+      "domain": "backwater.systems",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Best and worst parcel firms for customer satisfaction (UK) (2025)",
+      "link": "https://www.ofcom.org.uk/post/deliveries-and-charges/best-and-worst-parcel-firms-for-customer-satisfaction-revealed-2025",
+      "summary": "<p>Article URL: <a href=\"https://www.ofcom.org.uk/post/deliveries-and-charges/best-and-worst-parcel-firms-for-customer-satisfaction-revealed-2025\">https://www.ofcom.org.uk/post/deliveries-and-charges/...",
+      "published": "2026-01-22T18:21:32+00:00",
+      "domain": "ofcom.org.uk",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Postgres and ClickHouse as a unified data stack",
+      "link": "https://news.ycombinator.com/item?id=46723128",
+      "summary": "<p>Hello HN, this is Sai and Kaushik from ClickHouse. Today we are launching a Postgres managed service that is natively integrated with ClickHouse. It is built together with Ubicloud (YC W24).<p>TL;D...",
+      "published": "2026-01-22T18:21:13+00:00",
+      "domain": "news.ycombinator.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Distcc \u2013 distributed builds for C, C++ and Objective C",
+      "link": "https://github.com/distcc/distcc",
+      "summary": "<p>Article URL: <a href=\"https://github.com/distcc/distcc\">https://github.com/distcc/distcc</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46723123\">https://news.ycombinator.co...",
+      "published": "2026-01-22T18:21:01+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "CSS Optical Illusions",
+      "link": "https://alvaromontoro.com/blog/68091/css-optical-illusions",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46722570\">Comments</a>...",
+      "published": "2026-01-22T17:41:22+00:00",
+      "domain": "alvaromontoro.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
     {
       "title": "Filling the Most Common Gaps in Google Workspace Security",
       "link": "https://thehackernews.com/2026/01/filling-most-common-gaps-in-google.html",
@@ -183,139 +311,11 @@
       }
     },
     {
-      "title": "Malicious PyPI Package Impersonates SymPy, Deploys XMRig Miner on Linux Hosts",
-      "link": "https://thehackernews.com/2026/01/malicious-pypi-package-impersonates.html",
-      "summary": "A new malicious package discovered in the Python Package Index (PyPI) has been found to impersonate a popular library for symbolic mathematics to deploy malicious payloads, including a cryptocurrency ...",
-      "published": "2026-01-22T15:34:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "SmarterMail Auth Bypass Exploited in the Wild Two Days After Patch Release",
-      "link": "https://thehackernews.com/2026/01/smartermail-auth-bypass-exploited-in.html",
-      "summary": "A new security flaw in SmarterTools SmarterMail email software has come under active exploitation in the wild, two days after the release of a patch.\nThe vulnerability, which currently does not have a...",
-      "published": "2026-01-22T15:16:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: Readforme.md",
-      "link": "https://promptcmd.sh/lib/#READFORME.md",
-      "summary": "<p>Exemplary tool created using my tool for turning prompts into \"native-looking\" executables:<p><pre><code>  $ READFORME.md --help\n  Usage: READFORME.md [OPTIONS] --repo  --info \n  \n  Prompt inputs:\n...",
-      "published": "2026-01-22T12:43:38+00:00",
-      "domain": "promptcmd.sh",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Ask HN: Do we want engineers to care less about users?",
-      "link": "https://news.ycombinator.com/item?id=46718499",
-      "summary": "<p>From a job post (posted here in the forum)<p>> Must: High Agency, Extreme AI coding experience, Loves agents more than humans<p>In a small startup I'd imagine having an engineer engaging and emphas...",
-      "published": "2026-01-22T12:43:08+00:00",
-      "domain": "news.ycombinator.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Make Linux fast again: when you don't need sidechannel vulnerability protection",
-      "link": "https://make-linux-fast-again.com/",
-      "summary": "<p>Article URL: <a href=\"https://make-linux-fast-again.com/\">https://make-linux-fast-again.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46718489\">https://news.ycombinato...",
-      "published": "2026-01-22T12:42:02+00:00",
-      "domain": "make-linux-fast-again.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Satya Nadella: \"We need to find something useful for AI\"",
-      "link": "https://www.pcgamer.com/software/ai/microsoft-ceo-warns-that-we-must-do-something-useful-with-ai-or-theyll-lose-social-permission-to-burn-electricity-on-it/",
-      "summary": "<p>Article URL: <a href=\"https://www.pcgamer.com/software/ai/microsoft-ceo-warns-that-we-must-do-something-useful-with-ai-or-theyll-lose-social-permission-to-burn-electricity-on-it/\">https://www.pcgam...",
-      "published": "2026-01-22T12:41:49+00:00",
-      "domain": "pcgamer.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Get professional marketing growth services through Amplift",
-      "link": "https://amplift.ai/",
-      "summary": "<p>Article URL: <a href=\"https://amplift.ai/\">https://amplift.ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46718475\">https://news.ycombinator.com/item?id=46718475</a></p>...",
-      "published": "2026-01-22T12:40:49+00:00",
-      "domain": "amplift.ai",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Design Thinking Books You Must Read",
-      "link": "https://www.designorate.com/design-thinking-books/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=46718061\">Comments</a>...",
-      "published": "2026-01-22T11:51:10+00:00",
-      "domain": "designorate.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Automated FortiGate Attacks Exploit FortiCloud SSO to Alter Firewall Configurations",
-      "link": "https://thehackernews.com/2026/01/automated-fortigate-attacks-exploit.html",
-      "summary": "Cybersecurity company Arctic Wolf has warned of a \"new cluster of automated malicious activity\" that involves unauthorized firewall configuration changes on Fortinet FortiGate devices.\nThe activity, i...",
-      "published": "2026-01-22T11:25:00+05:30",
-      "domain": "thehackernews.com",
+      "title": "Show HN: isometric.nyc \u2013 giant isometric pixel art map of NYC",
+      "link": "https://cannoneyed.com/isometric-nyc/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46721802\">Comments</a>...",
+      "published": "2026-01-22T16:52:35+00:00",
+      "domain": "cannoneyed.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -347,10 +347,10 @@
       }
     },
     {
-      "title": "Malicious PyPI Package Impersonates SymPy, Deploys XMRig Miner on Linux Hosts",
-      "link": "https://thehackernews.com/2026/01/malicious-pypi-package-impersonates.html",
-      "summary": "A new malicious package discovered in the Python Package Index (PyPI) has been found to impersonate a popular library for symbolic mathematics to deploy malicious payloads, including a cryptocurrency ...",
-      "published": "2026-01-22T15:34:00+05:30",
+      "title": "Critical GNU InetUtils telnetd Flaw Lets Attackers Bypass Login and Gain Root Access",
+      "link": "https://thehackernews.com/2026/01/critical-gnu-inetutils-telnetd-flaw.html",
+      "summary": "A critical security flaw has been disclosed in the GNU InetUtils telnet daemon (telnetd) that went unnoticed for nearly 11 years.\nThe vulnerability, tracked as CVE-2026-24061, is rated 9.8 out of 10.0...",
+      "published": "2026-01-22T22:00:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -363,10 +363,10 @@
       }
     },
     {
-      "title": "SmarterMail Auth Bypass Exploited in the Wild Two Days After Patch Release",
-      "link": "https://thehackernews.com/2026/01/smartermail-auth-bypass-exploited-in.html",
-      "summary": "A new security flaw in SmarterTools SmarterMail email software has come under active exploitation in the wild, two days after the release of a patch.\nThe vulnerability, which currently does not have a...",
-      "published": "2026-01-22T15:16:00+05:30",
+      "title": "ThreatsDay Bulletin: Pixel Zero-Click, Redis RCE, China C2s, RAT Ads, Crypto Scams & 15+ Stories",
+      "link": "https://thehackernews.com/2026/01/threatsday-bulletin-pixel-zero-click.html",
+      "summary": "Most of this week\u2019s threats didn\u2019t rely on new tricks. They relied on familiar systems behaving exactly as designed, just in the wrong hands. Ordinary files, routine services, and trusted workflows we...",
+      "published": "2026-01-22T19:53:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -379,11 +379,11 @@
       }
     },
     {
-      "title": "Show HN: Readforme.md",
-      "link": "https://promptcmd.sh/lib/#READFORME.md",
-      "summary": "<p>Exemplary tool created using my tool for turning prompts into \"native-looking\" executables:<p><pre><code>  $ READFORME.md --help\n  Usage: READFORME.md [OPTIONS] --repo  --info \n  \n  Prompt inputs:\n...",
-      "published": "2026-01-22T12:43:38+00:00",
-      "domain": "promptcmd.sh",
+      "title": "Zelenskyy says Europe 'looks lost' and living in 'Groundhog Day'",
+      "link": "https://www.euronews.com/2026/01/22/zelenskyy-says-europe-looks-lost-and-living-in-groundhog-day-in-scathing-davos-address",
+      "summary": "<p>Article URL: <a href=\"https://www.euronews.com/2026/01/22/zelenskyy-says-europe-looks-lost-and-living-in-groundhog-day-in-scathing-davos-address\">https://www.euronews.com/2026/01/22/zelenskyy-says-...",
+      "published": "2026-01-22T18:24:02+00:00",
+      "domain": "euronews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -395,10 +395,42 @@
       }
     },
     {
-      "title": "Ask HN: Do we want engineers to care less about users?",
-      "link": "https://news.ycombinator.com/item?id=46718499",
-      "summary": "<p>From a job post (posted here in the forum)<p>> Must: High Agency, Extreme AI coding experience, Loves agents more than humans<p>In a small startup I'd imagine having an engineer engaging and emphas...",
-      "published": "2026-01-22T12:43:08+00:00",
+      "title": "Show HN: Backwater Finance \u2013 A free, local-first personal finance web app",
+      "link": "https://backwater.systems/finance/",
+      "summary": "<p>For several years, I\u2019ve been tinkering on (yet another ) personal finance app \u2026 largely to practice the craft, and as a way to try out things we didn\u2019t get to use at `$DAY_JOB`. I was laid off from...",
+      "published": "2026-01-22T18:22:00+00:00",
+      "domain": "backwater.systems",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Best and worst parcel firms for customer satisfaction (UK) (2025)",
+      "link": "https://www.ofcom.org.uk/post/deliveries-and-charges/best-and-worst-parcel-firms-for-customer-satisfaction-revealed-2025",
+      "summary": "<p>Article URL: <a href=\"https://www.ofcom.org.uk/post/deliveries-and-charges/best-and-worst-parcel-firms-for-customer-satisfaction-revealed-2025\">https://www.ofcom.org.uk/post/deliveries-and-charges/...",
+      "published": "2026-01-22T18:21:32+00:00",
+      "domain": "ofcom.org.uk",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Postgres and ClickHouse as a unified data stack",
+      "link": "https://news.ycombinator.com/item?id=46723128",
+      "summary": "<p>Hello HN, this is Sai and Kaushik from ClickHouse. Today we are launching a Postgres managed service that is natively integrated with ClickHouse. It is built together with Ubicloud (YC W24).<p>TL;D...",
+      "published": "2026-01-22T18:21:13+00:00",
       "domain": "news.ycombinator.com",
       "scores": {
         "chaos": 3.0,
@@ -411,11 +443,11 @@
       }
     },
     {
-      "title": "Make Linux fast again: when you don't need sidechannel vulnerability protection",
-      "link": "https://make-linux-fast-again.com/",
-      "summary": "<p>Article URL: <a href=\"https://make-linux-fast-again.com/\">https://make-linux-fast-again.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46718489\">https://news.ycombinato...",
-      "published": "2026-01-22T12:42:02+00:00",
-      "domain": "make-linux-fast-again.com",
+      "title": "Distcc \u2013 distributed builds for C, C++ and Objective C",
+      "link": "https://github.com/distcc/distcc",
+      "summary": "<p>Article URL: <a href=\"https://github.com/distcc/distcc\">https://github.com/distcc/distcc</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46723123\">https://news.ycombinator.co...",
+      "published": "2026-01-22T18:21:01+00:00",
+      "domain": "github.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -427,11 +459,11 @@
       }
     },
     {
-      "title": "Satya Nadella: \"We need to find something useful for AI\"",
-      "link": "https://www.pcgamer.com/software/ai/microsoft-ceo-warns-that-we-must-do-something-useful-with-ai-or-theyll-lose-social-permission-to-burn-electricity-on-it/",
-      "summary": "<p>Article URL: <a href=\"https://www.pcgamer.com/software/ai/microsoft-ceo-warns-that-we-must-do-something-useful-with-ai-or-theyll-lose-social-permission-to-burn-electricity-on-it/\">https://www.pcgam...",
-      "published": "2026-01-22T12:41:49+00:00",
-      "domain": "pcgamer.com",
+      "title": "CSS Optical Illusions",
+      "link": "https://alvaromontoro.com/blog/68091/css-optical-illusions",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46722570\">Comments</a>...",
+      "published": "2026-01-22T17:41:22+00:00",
+      "domain": "alvaromontoro.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -443,43 +475,11 @@
       }
     },
     {
-      "title": "Get professional marketing growth services through Amplift",
-      "link": "https://amplift.ai/",
-      "summary": "<p>Article URL: <a href=\"https://amplift.ai/\">https://amplift.ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46718475\">https://news.ycombinator.com/item?id=46718475</a></p>...",
-      "published": "2026-01-22T12:40:49+00:00",
-      "domain": "amplift.ai",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Design Thinking Books You Must Read",
-      "link": "https://www.designorate.com/design-thinking-books/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=46718061\">Comments</a>...",
-      "published": "2026-01-22T11:51:10+00:00",
-      "domain": "designorate.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Automated FortiGate Attacks Exploit FortiCloud SSO to Alter Firewall Configurations",
-      "link": "https://thehackernews.com/2026/01/automated-fortigate-attacks-exploit.html",
-      "summary": "Cybersecurity company Arctic Wolf has warned of a \"new cluster of automated malicious activity\" that involves unauthorized firewall configuration changes on Fortinet FortiGate devices.\nThe activity, i...",
-      "published": "2026-01-22T11:25:00+05:30",
-      "domain": "thehackernews.com",
+      "title": "Show HN: isometric.nyc \u2013 giant isometric pixel art map of NYC",
+      "link": "https://cannoneyed.com/isometric-nyc/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46721802\">Comments</a>...",
+      "published": "2026-01-22T16:52:35+00:00",
+      "domain": "cannoneyed.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -492,6 +492,134 @@
     }
   ],
   "all_articles": [
+    {
+      "title": "Critical GNU InetUtils telnetd Flaw Lets Attackers Bypass Login and Gain Root Access",
+      "link": "https://thehackernews.com/2026/01/critical-gnu-inetutils-telnetd-flaw.html",
+      "summary": "A critical security flaw has been disclosed in the GNU InetUtils telnet daemon (telnetd) that went unnoticed for nearly 11 years.\nThe vulnerability, tracked as CVE-2026-24061, is rated 9.8 out of 10.0...",
+      "published": "2026-01-22T22:00:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "ThreatsDay Bulletin: Pixel Zero-Click, Redis RCE, China C2s, RAT Ads, Crypto Scams & 15+ Stories",
+      "link": "https://thehackernews.com/2026/01/threatsday-bulletin-pixel-zero-click.html",
+      "summary": "Most of this week\u2019s threats didn\u2019t rely on new tricks. They relied on familiar systems behaving exactly as designed, just in the wrong hands. Ordinary files, routine services, and trusted workflows we...",
+      "published": "2026-01-22T19:53:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Zelenskyy says Europe 'looks lost' and living in 'Groundhog Day'",
+      "link": "https://www.euronews.com/2026/01/22/zelenskyy-says-europe-looks-lost-and-living-in-groundhog-day-in-scathing-davos-address",
+      "summary": "<p>Article URL: <a href=\"https://www.euronews.com/2026/01/22/zelenskyy-says-europe-looks-lost-and-living-in-groundhog-day-in-scathing-davos-address\">https://www.euronews.com/2026/01/22/zelenskyy-says-...",
+      "published": "2026-01-22T18:24:02+00:00",
+      "domain": "euronews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Backwater Finance \u2013 A free, local-first personal finance web app",
+      "link": "https://backwater.systems/finance/",
+      "summary": "<p>For several years, I\u2019ve been tinkering on (yet another ) personal finance app \u2026 largely to practice the craft, and as a way to try out things we didn\u2019t get to use at `$DAY_JOB`. I was laid off from...",
+      "published": "2026-01-22T18:22:00+00:00",
+      "domain": "backwater.systems",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Best and worst parcel firms for customer satisfaction (UK) (2025)",
+      "link": "https://www.ofcom.org.uk/post/deliveries-and-charges/best-and-worst-parcel-firms-for-customer-satisfaction-revealed-2025",
+      "summary": "<p>Article URL: <a href=\"https://www.ofcom.org.uk/post/deliveries-and-charges/best-and-worst-parcel-firms-for-customer-satisfaction-revealed-2025\">https://www.ofcom.org.uk/post/deliveries-and-charges/...",
+      "published": "2026-01-22T18:21:32+00:00",
+      "domain": "ofcom.org.uk",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Postgres and ClickHouse as a unified data stack",
+      "link": "https://news.ycombinator.com/item?id=46723128",
+      "summary": "<p>Hello HN, this is Sai and Kaushik from ClickHouse. Today we are launching a Postgres managed service that is natively integrated with ClickHouse. It is built together with Ubicloud (YC W24).<p>TL;D...",
+      "published": "2026-01-22T18:21:13+00:00",
+      "domain": "news.ycombinator.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Distcc \u2013 distributed builds for C, C++ and Objective C",
+      "link": "https://github.com/distcc/distcc",
+      "summary": "<p>Article URL: <a href=\"https://github.com/distcc/distcc\">https://github.com/distcc/distcc</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46723123\">https://news.ycombinator.co...",
+      "published": "2026-01-22T18:21:01+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "CSS Optical Illusions",
+      "link": "https://alvaromontoro.com/blog/68091/css-optical-illusions",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46722570\">Comments</a>...",
+      "published": "2026-01-22T17:41:22+00:00",
+      "domain": "alvaromontoro.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
     {
       "title": "Filling the Most Common Gaps in Google Workspace Security",
       "link": "https://thehackernews.com/2026/01/filling-most-common-gaps-in-google.html",
@@ -511,139 +639,11 @@
       }
     },
     {
-      "title": "Malicious PyPI Package Impersonates SymPy, Deploys XMRig Miner on Linux Hosts",
-      "link": "https://thehackernews.com/2026/01/malicious-pypi-package-impersonates.html",
-      "summary": "A new malicious package discovered in the Python Package Index (PyPI) has been found to impersonate a popular library for symbolic mathematics to deploy malicious payloads, including a cryptocurrency ...",
-      "published": "2026-01-22T15:34:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "SmarterMail Auth Bypass Exploited in the Wild Two Days After Patch Release",
-      "link": "https://thehackernews.com/2026/01/smartermail-auth-bypass-exploited-in.html",
-      "summary": "A new security flaw in SmarterTools SmarterMail email software has come under active exploitation in the wild, two days after the release of a patch.\nThe vulnerability, which currently does not have a...",
-      "published": "2026-01-22T15:16:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: Readforme.md",
-      "link": "https://promptcmd.sh/lib/#READFORME.md",
-      "summary": "<p>Exemplary tool created using my tool for turning prompts into \"native-looking\" executables:<p><pre><code>  $ READFORME.md --help\n  Usage: READFORME.md [OPTIONS] --repo  --info \n  \n  Prompt inputs:\n...",
-      "published": "2026-01-22T12:43:38+00:00",
-      "domain": "promptcmd.sh",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Ask HN: Do we want engineers to care less about users?",
-      "link": "https://news.ycombinator.com/item?id=46718499",
-      "summary": "<p>From a job post (posted here in the forum)<p>> Must: High Agency, Extreme AI coding experience, Loves agents more than humans<p>In a small startup I'd imagine having an engineer engaging and emphas...",
-      "published": "2026-01-22T12:43:08+00:00",
-      "domain": "news.ycombinator.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Make Linux fast again: when you don't need sidechannel vulnerability protection",
-      "link": "https://make-linux-fast-again.com/",
-      "summary": "<p>Article URL: <a href=\"https://make-linux-fast-again.com/\">https://make-linux-fast-again.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46718489\">https://news.ycombinato...",
-      "published": "2026-01-22T12:42:02+00:00",
-      "domain": "make-linux-fast-again.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Satya Nadella: \"We need to find something useful for AI\"",
-      "link": "https://www.pcgamer.com/software/ai/microsoft-ceo-warns-that-we-must-do-something-useful-with-ai-or-theyll-lose-social-permission-to-burn-electricity-on-it/",
-      "summary": "<p>Article URL: <a href=\"https://www.pcgamer.com/software/ai/microsoft-ceo-warns-that-we-must-do-something-useful-with-ai-or-theyll-lose-social-permission-to-burn-electricity-on-it/\">https://www.pcgam...",
-      "published": "2026-01-22T12:41:49+00:00",
-      "domain": "pcgamer.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Get professional marketing growth services through Amplift",
-      "link": "https://amplift.ai/",
-      "summary": "<p>Article URL: <a href=\"https://amplift.ai/\">https://amplift.ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46718475\">https://news.ycombinator.com/item?id=46718475</a></p>...",
-      "published": "2026-01-22T12:40:49+00:00",
-      "domain": "amplift.ai",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Design Thinking Books You Must Read",
-      "link": "https://www.designorate.com/design-thinking-books/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=46718061\">Comments</a>...",
-      "published": "2026-01-22T11:51:10+00:00",
-      "domain": "designorate.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Automated FortiGate Attacks Exploit FortiCloud SSO to Alter Firewall Configurations",
-      "link": "https://thehackernews.com/2026/01/automated-fortigate-attacks-exploit.html",
-      "summary": "Cybersecurity company Arctic Wolf has warned of a \"new cluster of automated malicious activity\" that involves unauthorized firewall configuration changes on Fortinet FortiGate devices.\nThe activity, i...",
-      "published": "2026-01-22T11:25:00+05:30",
-      "domain": "thehackernews.com",
+      "title": "Show HN: isometric.nyc \u2013 giant isometric pixel art map of NYC",
+      "link": "https://cannoneyed.com/isometric-nyc/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46721802\">Comments</a>...",
+      "published": "2026-01-22T16:52:35+00:00",
+      "domain": "cannoneyed.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,

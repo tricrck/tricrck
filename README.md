@@ -22,10 +22,11 @@
 - **Keywords**: down
 - [Read more](https://thehackernews.com/2026/01/filling-most-common-gaps-in-google.html)
 
-### Malicious PyPI Package Impersonates SymPy, Deploys XMRig Miner on Linux Hosts
+### Critical GNU InetUtils telnetd Flaw Lets Attackers Bypass Login and Gain Root Access
 - **Published**: January 22, 2026
-- **Summary**: A new malicious package discovered in the Python Package Index (PyPI) has been found to impersonate a popular library for symbolic mathematics to depl...
-- [Read more](https://thehackernews.com/2026/01/malicious-pypi-package-impersonates.html)
+- **Summary**: A critical security flaw has been disclosed in the GNU InetUtils telnet daemon (telnetd) that went unnoticed for nearly 11 years.
+The vulnerability, t...
+- [Read more](https://thehackernews.com/2026/01/critical-gnu-inetutils-telnetd-flaw.html)
 
 ---
 
