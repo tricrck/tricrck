@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Cisco Fixes Actively Exploited Zero-Day CVE-2026-20045 in Unified CM and Webex
+### Filling the Most Common Gaps in Google Workspace Security
 - **Published**: January 22, 2026
-- **Summary**: Cisco has released fresh patches to address what it described as a "critical" security vulnerability impacting multiple Unified Communications (CM) pr...
-- [Read more](https://thehackernews.com/2026/01/cisco-fixes-actively-exploited-zero-day.html)
+- **Summary**: Security teams at agile, fast-growing companies often have the same mandate: secure the business without slowing it down. Most teams inherit a tech st...
+- **Keywords**: down
+- [Read more](https://thehackernews.com/2026/01/filling-most-common-gaps-in-google.html)
 
-### We are updating Dokploy's Open Source license
+### Malicious PyPI Package Impersonates SymPy, Deploys XMRig Miner on Linux Hosts
 - **Published**: January 22, 2026
-- **Summary**: https://dokploy.com/blog/we-are-updating-dokploys-open-source-license</a></p>
-<p>Comments URL: <a href="......
-- [Read more](https://dokploy.com/blog/we-are-updating-dokploys-open-source-license)
+- **Summary**: A new malicious package discovered in the Python Package Index (PyPI) has been found to impersonate a popular library for symbolic mathematics to depl...
+- [Read more](https://thehackernews.com/2026/01/malicious-pypi-package-impersonates.html)
 
 ---
 
