@@ -1,140 +1,10 @@
 {
   "chaos_ranked": [
     {
-      "title": "Show HN: A fast, ad-free wiki for Where Winds Meet (built with Astro)",
-      "link": "https://wwm-db.com/en/",
-      "summary": "<p>Hi HN,<p>I built this database for the game \"Where Winds Meet\" because existing wikis were too slow and heavy.<p>It is built with Astro and Tailwind, focusing on performance and static site generat...",
-      "published": "2026-01-22T01:51:16+00:00",
-      "domain": "wwm-db.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Bluementhals letter about ICE memo justifying entry into homes without warrant [pdf]",
-      "link": "https://www.hsgac.senate.gov/wp-content/uploads/2026-01-21-Letter-from-Blumenthal-to-DHS-ICE.pdf",
-      "summary": "<p>Article URL: <a href=\"https://www.hsgac.senate.gov/wp-content/uploads/2026-01-21-Letter-from-Blumenthal-to-DHS-ICE.pdf\">https://www.hsgac.senate.gov/wp-content/uploads/2026-01-21-Letter-from-Blumen...",
-      "published": "2026-01-22T01:48:44+00:00",
-      "domain": "hsgac.senate.gov",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Ask HN: How do you audit autonomous AI agent decisions?",
-      "link": "https://news.ycombinator.com/item?id=46714180",
-      "summary": "<p>Building agents that can spend money (via AP2/payment APIs). Regulators want audit trails. Agents use tools from multiple vendors.<p>Problem: No unified way to prove <i>why</i> an agent made a deci...",
-      "published": "2026-01-22T01:47:07+00:00",
-      "domain": "news.ycombinator.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 12.1,
-        "overall": 7.6
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": [
-          "autonomous"
-        ]
-      }
-    },
-    {
-      "title": "AI Design Field Guide",
-      "link": "https://www.aidesignfieldguide.com/",
-      "summary": "<p>Article URL: <a href=\"https://www.aidesignfieldguide.com/\">https://www.aidesignfieldguide.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46714176\">https://news.ycombina...",
-      "published": "2026-01-22T01:46:52+00:00",
-      "domain": "aidesignfieldguide.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Ask HN: Anyone seeing copy/paste reliability issues in ChatGPT Web on macOS?",
-      "link": "https://news.ycombinator.com/item?id=46714164",
-      "summary": "<p>I\u2019m trying to understand whether this is a broader web UI pattern or something specific to certain environments.<p>Environment:\n- macOS (Intel-based)\n- Chromium browsers (Chrome / Edge)\n- Web app t...",
-      "published": "2026-01-22T01:44:34+00:00",
-      "domain": "news.ycombinator.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Significant US Farm Losses Persist, Despite Federal Assistance",
-      "link": "https://www.fb.org/market-intel/significant-farm-losses-persist-despite-federal-assistance",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=46713929\">Comments</a>...",
-      "published": "2026-01-22T01:11:36+00:00",
-      "domain": "fb.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Internet voting is insecure and should not be used in public elections",
-      "link": "https://blog.citp.princeton.edu/2026/01/16/internet-voting-is-insecure-and-should-not-be-used-in-public-elections/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=46713924\">Comments</a>...",
-      "published": "2026-01-22T01:11:13+00:00",
-      "domain": "blog.citp.princeton.edu",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Take potentially dangerous PDFs, and convert them to safe PDFs",
-      "link": "https://github.com/freedomofpress/dangerzone",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=46712815\">Comments</a>...",
-      "published": "2026-01-21T22:54:04+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "North Korean PurpleBravo Campaign Targeted 3,136 IP Addresses via Fake Job Interviews",
-      "link": "https://thehackernews.com/2026/01/north-korean-purplebravo-campaign.html",
-      "summary": "As many as 3,136 individual IP addresses linked to likely targets of the Contagious Interview activity have been identified, with the campaign claiming 20 potential victim organizations spanning artif...",
-      "published": "2026-01-21T22:47:00+05:30",
+      "title": "Cisco Fixes Actively Exploited Zero-Day CVE-2026-20045 in Unified CM and Webex",
+      "link": "https://thehackernews.com/2026/01/cisco-fixes-actively-exploited-zero-day.html",
+      "summary": "Cisco has released fresh patches to address what it described as a \"critical\" security vulnerability impacting multiple Unified Communications (CM) products and Webex Calling Dedicated Instance that i...",
+      "published": "2026-01-22T09:36:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -147,10 +17,138 @@
       }
     },
     {
-      "title": "Irony alert: Hallucinated citations found in papers from NeurIPS, the prestigious AI conference",
-      "link": "https://www.reddit.com/r/technology/comments/1qjch0d/irony_alert_hallucinated_citations_found_in/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1qjch0d/irony_alert_hallucinated_citations_found_in/\"> <img alt=\"Irony alert: Hallucinated citations found in papers from NeurIPS...",
-      "published": "2026-01-21T22:28:42+00:00",
+      "title": "We are updating Dokploy's Open Source license",
+      "link": "https://dokploy.com/blog/we-are-updating-dokploys-open-source-license",
+      "summary": "<p>Article URL: <a href=\"https://dokploy.com/blog/we-are-updating-dokploys-open-source-license\">https://dokploy.com/blog/we-are-updating-dokploys-open-source-license</a></p>\n<p>Comments URL: <a href=\"...",
+      "published": "2026-01-22T06:27:15+00:00",
+      "domain": "dokploy.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Scribefully is a portfolio and HN-style community for professionals",
+      "link": "https://scribefully.com/",
+      "summary": "<p>Hey HN! I'm a founder first, lawyer second. I understand code stacks well enough to explain them, but I've never been able to actually build software, and this has been a chip on my shoulder my ent...",
+      "published": "2026-01-22T06:25:39+00:00",
+      "domain": "scribefully.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "CAP theorem: Why Pick Two Misses the Point",
+      "link": "https://www.blog.ahmazin.dev/p/cap-theorem-explained",
+      "summary": "<p>Article URL: <a href=\"https://www.blog.ahmazin.dev/p/cap-theorem-explained\">https://www.blog.ahmazin.dev/p/cap-theorem-explained</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?...",
+      "published": "2026-01-22T06:23:59+00:00",
+      "domain": "blog.ahmazin.dev",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "US science after a year of Trump",
+      "link": "https://www.nature.com/immersive/d41586-026-00088-9/index.html",
+      "summary": "<p>Article URL: <a href=\"https://www.nature.com/immersive/d41586-026-00088-9/index.html\">https://www.nature.com/immersive/d41586-026-00088-9/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.y...",
+      "published": "2026-01-22T06:18:48+00:00",
+      "domain": "nature.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Blue4est Paper \u2013 BPA-Free Thermal Print Camera Compendium",
+      "link": "https://thermalprintcameras.wordpress.com/blue4est-paper/",
+      "summary": "<p>Article URL: <a href=\"https://thermalprintcameras.wordpress.com/blue4est-paper/\">https://thermalprintcameras.wordpress.com/blue4est-paper/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator...",
+      "published": "2026-01-22T06:10:51+00:00",
+      "domain": "thermalprintcameras.wordpress.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Doctors in Brazil using tilapia fish skin to treat burn victims",
+      "link": "https://www.pbs.org/newshour/health/brazilian-city-uses-tilapia-fish-skin-treat-burn-victims",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46715600\">Comments</a>...",
+      "published": "2026-01-22T05:15:46+00:00",
+      "domain": "pbs.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Job Applicants Sue to Open \u2018Black Box\u2019 of A.I. Hiring Decisions",
+      "link": "https://www.reddit.com/r/technology/comments/1qji6cy/job_applicants_sue_to_open_black_box_of_ai_hiring/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1qji6cy/job_applicants_sue_to_open_black_box_of_ai_hiring/\"> <img alt=\"Job Applicants Sue to Open \u2018Black Box\u2019 of A.I. Hiring Deci...",
+      "published": "2026-01-22T02:27:51+00:00",
+      "domain": "reddit.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "OpenAI's internal documents predict $14 billion loss in 2026 according to report",
+      "link": "https://www.reddit.com/r/technology/comments/1qjhopz/openais_internal_documents_predict_14_billion/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1qjhopz/openais_internal_documents_predict_14_billion/\"> <img alt=\"OpenAI's internal documents predict $14 billion loss in 2026 a...",
+      "published": "2026-01-22T02:06:26+00:00",
+      "domain": "reddit.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "President FCC threatens to enforce equal-time rule on late-night talk shows | FCC disputes long-standing view that the shows are exempt from equal-time rule.",
+      "link": "https://www.reddit.com/r/technology/comments/1qjh5o1/president_fcc_threatens_to_enforce_equaltime_rule/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1qjh5o1/president_fcc_threatens_to_enforce_equaltime_rule/\"> <img alt=\"President FCC threatens to enforce equal-time rule on late...",
+      "published": "2026-01-22T01:42:43+00:00",
       "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
@@ -165,140 +163,10 @@
   ],
   "anarchy_ranked": [
     {
-      "title": "Ask HN: How do you audit autonomous AI agent decisions?",
-      "link": "https://news.ycombinator.com/item?id=46714180",
-      "summary": "<p>Building agents that can spend money (via AP2/payment APIs). Regulators want audit trails. Agents use tools from multiple vendors.<p>Problem: No unified way to prove <i>why</i> an agent made a deci...",
-      "published": "2026-01-22T01:47:07+00:00",
-      "domain": "news.ycombinator.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 12.1,
-        "overall": 7.6
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": [
-          "autonomous"
-        ]
-      }
-    },
-    {
-      "title": "Show HN: A fast, ad-free wiki for Where Winds Meet (built with Astro)",
-      "link": "https://wwm-db.com/en/",
-      "summary": "<p>Hi HN,<p>I built this database for the game \"Where Winds Meet\" because existing wikis were too slow and heavy.<p>It is built with Astro and Tailwind, focusing on performance and static site generat...",
-      "published": "2026-01-22T01:51:16+00:00",
-      "domain": "wwm-db.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Bluementhals letter about ICE memo justifying entry into homes without warrant [pdf]",
-      "link": "https://www.hsgac.senate.gov/wp-content/uploads/2026-01-21-Letter-from-Blumenthal-to-DHS-ICE.pdf",
-      "summary": "<p>Article URL: <a href=\"https://www.hsgac.senate.gov/wp-content/uploads/2026-01-21-Letter-from-Blumenthal-to-DHS-ICE.pdf\">https://www.hsgac.senate.gov/wp-content/uploads/2026-01-21-Letter-from-Blumen...",
-      "published": "2026-01-22T01:48:44+00:00",
-      "domain": "hsgac.senate.gov",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "AI Design Field Guide",
-      "link": "https://www.aidesignfieldguide.com/",
-      "summary": "<p>Article URL: <a href=\"https://www.aidesignfieldguide.com/\">https://www.aidesignfieldguide.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46714176\">https://news.ycombina...",
-      "published": "2026-01-22T01:46:52+00:00",
-      "domain": "aidesignfieldguide.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Ask HN: Anyone seeing copy/paste reliability issues in ChatGPT Web on macOS?",
-      "link": "https://news.ycombinator.com/item?id=46714164",
-      "summary": "<p>I\u2019m trying to understand whether this is a broader web UI pattern or something specific to certain environments.<p>Environment:\n- macOS (Intel-based)\n- Chromium browsers (Chrome / Edge)\n- Web app t...",
-      "published": "2026-01-22T01:44:34+00:00",
-      "domain": "news.ycombinator.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Significant US Farm Losses Persist, Despite Federal Assistance",
-      "link": "https://www.fb.org/market-intel/significant-farm-losses-persist-despite-federal-assistance",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=46713929\">Comments</a>...",
-      "published": "2026-01-22T01:11:36+00:00",
-      "domain": "fb.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Internet voting is insecure and should not be used in public elections",
-      "link": "https://blog.citp.princeton.edu/2026/01/16/internet-voting-is-insecure-and-should-not-be-used-in-public-elections/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=46713924\">Comments</a>...",
-      "published": "2026-01-22T01:11:13+00:00",
-      "domain": "blog.citp.princeton.edu",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Take potentially dangerous PDFs, and convert them to safe PDFs",
-      "link": "https://github.com/freedomofpress/dangerzone",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=46712815\">Comments</a>...",
-      "published": "2026-01-21T22:54:04+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "North Korean PurpleBravo Campaign Targeted 3,136 IP Addresses via Fake Job Interviews",
-      "link": "https://thehackernews.com/2026/01/north-korean-purplebravo-campaign.html",
-      "summary": "As many as 3,136 individual IP addresses linked to likely targets of the Contagious Interview activity have been identified, with the campaign claiming 20 potential victim organizations spanning artif...",
-      "published": "2026-01-21T22:47:00+05:30",
+      "title": "Cisco Fixes Actively Exploited Zero-Day CVE-2026-20045 in Unified CM and Webex",
+      "link": "https://thehackernews.com/2026/01/cisco-fixes-actively-exploited-zero-day.html",
+      "summary": "Cisco has released fresh patches to address what it described as a \"critical\" security vulnerability impacting multiple Unified Communications (CM) products and Webex Calling Dedicated Instance that i...",
+      "published": "2026-01-22T09:36:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -311,10 +179,138 @@
       }
     },
     {
-      "title": "Irony alert: Hallucinated citations found in papers from NeurIPS, the prestigious AI conference",
-      "link": "https://www.reddit.com/r/technology/comments/1qjch0d/irony_alert_hallucinated_citations_found_in/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1qjch0d/irony_alert_hallucinated_citations_found_in/\"> <img alt=\"Irony alert: Hallucinated citations found in papers from NeurIPS...",
-      "published": "2026-01-21T22:28:42+00:00",
+      "title": "We are updating Dokploy's Open Source license",
+      "link": "https://dokploy.com/blog/we-are-updating-dokploys-open-source-license",
+      "summary": "<p>Article URL: <a href=\"https://dokploy.com/blog/we-are-updating-dokploys-open-source-license\">https://dokploy.com/blog/we-are-updating-dokploys-open-source-license</a></p>\n<p>Comments URL: <a href=\"...",
+      "published": "2026-01-22T06:27:15+00:00",
+      "domain": "dokploy.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Scribefully is a portfolio and HN-style community for professionals",
+      "link": "https://scribefully.com/",
+      "summary": "<p>Hey HN! I'm a founder first, lawyer second. I understand code stacks well enough to explain them, but I've never been able to actually build software, and this has been a chip on my shoulder my ent...",
+      "published": "2026-01-22T06:25:39+00:00",
+      "domain": "scribefully.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "CAP theorem: Why Pick Two Misses the Point",
+      "link": "https://www.blog.ahmazin.dev/p/cap-theorem-explained",
+      "summary": "<p>Article URL: <a href=\"https://www.blog.ahmazin.dev/p/cap-theorem-explained\">https://www.blog.ahmazin.dev/p/cap-theorem-explained</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?...",
+      "published": "2026-01-22T06:23:59+00:00",
+      "domain": "blog.ahmazin.dev",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "US science after a year of Trump",
+      "link": "https://www.nature.com/immersive/d41586-026-00088-9/index.html",
+      "summary": "<p>Article URL: <a href=\"https://www.nature.com/immersive/d41586-026-00088-9/index.html\">https://www.nature.com/immersive/d41586-026-00088-9/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.y...",
+      "published": "2026-01-22T06:18:48+00:00",
+      "domain": "nature.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Blue4est Paper \u2013 BPA-Free Thermal Print Camera Compendium",
+      "link": "https://thermalprintcameras.wordpress.com/blue4est-paper/",
+      "summary": "<p>Article URL: <a href=\"https://thermalprintcameras.wordpress.com/blue4est-paper/\">https://thermalprintcameras.wordpress.com/blue4est-paper/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator...",
+      "published": "2026-01-22T06:10:51+00:00",
+      "domain": "thermalprintcameras.wordpress.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Doctors in Brazil using tilapia fish skin to treat burn victims",
+      "link": "https://www.pbs.org/newshour/health/brazilian-city-uses-tilapia-fish-skin-treat-burn-victims",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46715600\">Comments</a>...",
+      "published": "2026-01-22T05:15:46+00:00",
+      "domain": "pbs.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Job Applicants Sue to Open \u2018Black Box\u2019 of A.I. Hiring Decisions",
+      "link": "https://www.reddit.com/r/technology/comments/1qji6cy/job_applicants_sue_to_open_black_box_of_ai_hiring/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1qji6cy/job_applicants_sue_to_open_black_box_of_ai_hiring/\"> <img alt=\"Job Applicants Sue to Open \u2018Black Box\u2019 of A.I. Hiring Deci...",
+      "published": "2026-01-22T02:27:51+00:00",
+      "domain": "reddit.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "OpenAI's internal documents predict $14 billion loss in 2026 according to report",
+      "link": "https://www.reddit.com/r/technology/comments/1qjhopz/openais_internal_documents_predict_14_billion/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1qjhopz/openais_internal_documents_predict_14_billion/\"> <img alt=\"OpenAI's internal documents predict $14 billion loss in 2026 a...",
+      "published": "2026-01-22T02:06:26+00:00",
+      "domain": "reddit.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "President FCC threatens to enforce equal-time rule on late-night talk shows | FCC disputes long-standing view that the shows are exempt from equal-time rule.",
+      "link": "https://www.reddit.com/r/technology/comments/1qjh5o1/president_fcc_threatens_to_enforce_equaltime_rule/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1qjh5o1/president_fcc_threatens_to_enforce_equaltime_rule/\"> <img alt=\"President FCC threatens to enforce equal-time rule on late...",
+      "published": "2026-01-22T01:42:43+00:00",
       "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
@@ -329,140 +325,10 @@
   ],
   "overall_ranked": [
     {
-      "title": "Ask HN: How do you audit autonomous AI agent decisions?",
-      "link": "https://news.ycombinator.com/item?id=46714180",
-      "summary": "<p>Building agents that can spend money (via AP2/payment APIs). Regulators want audit trails. Agents use tools from multiple vendors.<p>Problem: No unified way to prove <i>why</i> an agent made a deci...",
-      "published": "2026-01-22T01:47:07+00:00",
-      "domain": "news.ycombinator.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 12.1,
-        "overall": 7.6
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": [
-          "autonomous"
-        ]
-      }
-    },
-    {
-      "title": "Show HN: A fast, ad-free wiki for Where Winds Meet (built with Astro)",
-      "link": "https://wwm-db.com/en/",
-      "summary": "<p>Hi HN,<p>I built this database for the game \"Where Winds Meet\" because existing wikis were too slow and heavy.<p>It is built with Astro and Tailwind, focusing on performance and static site generat...",
-      "published": "2026-01-22T01:51:16+00:00",
-      "domain": "wwm-db.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Bluementhals letter about ICE memo justifying entry into homes without warrant [pdf]",
-      "link": "https://www.hsgac.senate.gov/wp-content/uploads/2026-01-21-Letter-from-Blumenthal-to-DHS-ICE.pdf",
-      "summary": "<p>Article URL: <a href=\"https://www.hsgac.senate.gov/wp-content/uploads/2026-01-21-Letter-from-Blumenthal-to-DHS-ICE.pdf\">https://www.hsgac.senate.gov/wp-content/uploads/2026-01-21-Letter-from-Blumen...",
-      "published": "2026-01-22T01:48:44+00:00",
-      "domain": "hsgac.senate.gov",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "AI Design Field Guide",
-      "link": "https://www.aidesignfieldguide.com/",
-      "summary": "<p>Article URL: <a href=\"https://www.aidesignfieldguide.com/\">https://www.aidesignfieldguide.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46714176\">https://news.ycombina...",
-      "published": "2026-01-22T01:46:52+00:00",
-      "domain": "aidesignfieldguide.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Ask HN: Anyone seeing copy/paste reliability issues in ChatGPT Web on macOS?",
-      "link": "https://news.ycombinator.com/item?id=46714164",
-      "summary": "<p>I\u2019m trying to understand whether this is a broader web UI pattern or something specific to certain environments.<p>Environment:\n- macOS (Intel-based)\n- Chromium browsers (Chrome / Edge)\n- Web app t...",
-      "published": "2026-01-22T01:44:34+00:00",
-      "domain": "news.ycombinator.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Significant US Farm Losses Persist, Despite Federal Assistance",
-      "link": "https://www.fb.org/market-intel/significant-farm-losses-persist-despite-federal-assistance",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=46713929\">Comments</a>...",
-      "published": "2026-01-22T01:11:36+00:00",
-      "domain": "fb.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Internet voting is insecure and should not be used in public elections",
-      "link": "https://blog.citp.princeton.edu/2026/01/16/internet-voting-is-insecure-and-should-not-be-used-in-public-elections/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=46713924\">Comments</a>...",
-      "published": "2026-01-22T01:11:13+00:00",
-      "domain": "blog.citp.princeton.edu",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Take potentially dangerous PDFs, and convert them to safe PDFs",
-      "link": "https://github.com/freedomofpress/dangerzone",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=46712815\">Comments</a>...",
-      "published": "2026-01-21T22:54:04+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "North Korean PurpleBravo Campaign Targeted 3,136 IP Addresses via Fake Job Interviews",
-      "link": "https://thehackernews.com/2026/01/north-korean-purplebravo-campaign.html",
-      "summary": "As many as 3,136 individual IP addresses linked to likely targets of the Contagious Interview activity have been identified, with the campaign claiming 20 potential victim organizations spanning artif...",
-      "published": "2026-01-21T22:47:00+05:30",
+      "title": "Cisco Fixes Actively Exploited Zero-Day CVE-2026-20045 in Unified CM and Webex",
+      "link": "https://thehackernews.com/2026/01/cisco-fixes-actively-exploited-zero-day.html",
+      "summary": "Cisco has released fresh patches to address what it described as a \"critical\" security vulnerability impacting multiple Unified Communications (CM) products and Webex Calling Dedicated Instance that i...",
+      "published": "2026-01-22T09:36:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -475,10 +341,138 @@
       }
     },
     {
-      "title": "Irony alert: Hallucinated citations found in papers from NeurIPS, the prestigious AI conference",
-      "link": "https://www.reddit.com/r/technology/comments/1qjch0d/irony_alert_hallucinated_citations_found_in/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1qjch0d/irony_alert_hallucinated_citations_found_in/\"> <img alt=\"Irony alert: Hallucinated citations found in papers from NeurIPS...",
-      "published": "2026-01-21T22:28:42+00:00",
+      "title": "We are updating Dokploy's Open Source license",
+      "link": "https://dokploy.com/blog/we-are-updating-dokploys-open-source-license",
+      "summary": "<p>Article URL: <a href=\"https://dokploy.com/blog/we-are-updating-dokploys-open-source-license\">https://dokploy.com/blog/we-are-updating-dokploys-open-source-license</a></p>\n<p>Comments URL: <a href=\"...",
+      "published": "2026-01-22T06:27:15+00:00",
+      "domain": "dokploy.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Scribefully is a portfolio and HN-style community for professionals",
+      "link": "https://scribefully.com/",
+      "summary": "<p>Hey HN! I'm a founder first, lawyer second. I understand code stacks well enough to explain them, but I've never been able to actually build software, and this has been a chip on my shoulder my ent...",
+      "published": "2026-01-22T06:25:39+00:00",
+      "domain": "scribefully.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "CAP theorem: Why Pick Two Misses the Point",
+      "link": "https://www.blog.ahmazin.dev/p/cap-theorem-explained",
+      "summary": "<p>Article URL: <a href=\"https://www.blog.ahmazin.dev/p/cap-theorem-explained\">https://www.blog.ahmazin.dev/p/cap-theorem-explained</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?...",
+      "published": "2026-01-22T06:23:59+00:00",
+      "domain": "blog.ahmazin.dev",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "US science after a year of Trump",
+      "link": "https://www.nature.com/immersive/d41586-026-00088-9/index.html",
+      "summary": "<p>Article URL: <a href=\"https://www.nature.com/immersive/d41586-026-00088-9/index.html\">https://www.nature.com/immersive/d41586-026-00088-9/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.y...",
+      "published": "2026-01-22T06:18:48+00:00",
+      "domain": "nature.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Blue4est Paper \u2013 BPA-Free Thermal Print Camera Compendium",
+      "link": "https://thermalprintcameras.wordpress.com/blue4est-paper/",
+      "summary": "<p>Article URL: <a href=\"https://thermalprintcameras.wordpress.com/blue4est-paper/\">https://thermalprintcameras.wordpress.com/blue4est-paper/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator...",
+      "published": "2026-01-22T06:10:51+00:00",
+      "domain": "thermalprintcameras.wordpress.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Doctors in Brazil using tilapia fish skin to treat burn victims",
+      "link": "https://www.pbs.org/newshour/health/brazilian-city-uses-tilapia-fish-skin-treat-burn-victims",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46715600\">Comments</a>...",
+      "published": "2026-01-22T05:15:46+00:00",
+      "domain": "pbs.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Job Applicants Sue to Open \u2018Black Box\u2019 of A.I. Hiring Decisions",
+      "link": "https://www.reddit.com/r/technology/comments/1qji6cy/job_applicants_sue_to_open_black_box_of_ai_hiring/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1qji6cy/job_applicants_sue_to_open_black_box_of_ai_hiring/\"> <img alt=\"Job Applicants Sue to Open \u2018Black Box\u2019 of A.I. Hiring Deci...",
+      "published": "2026-01-22T02:27:51+00:00",
+      "domain": "reddit.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "OpenAI's internal documents predict $14 billion loss in 2026 according to report",
+      "link": "https://www.reddit.com/r/technology/comments/1qjhopz/openais_internal_documents_predict_14_billion/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1qjhopz/openais_internal_documents_predict_14_billion/\"> <img alt=\"OpenAI's internal documents predict $14 billion loss in 2026 a...",
+      "published": "2026-01-22T02:06:26+00:00",
+      "domain": "reddit.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "President FCC threatens to enforce equal-time rule on late-night talk shows | FCC disputes long-standing view that the shows are exempt from equal-time rule.",
+      "link": "https://www.reddit.com/r/technology/comments/1qjh5o1/president_fcc_threatens_to_enforce_equaltime_rule/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1qjh5o1/president_fcc_threatens_to_enforce_equaltime_rule/\"> <img alt=\"President FCC threatens to enforce equal-time rule on late...",
+      "published": "2026-01-22T01:42:43+00:00",
       "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
@@ -493,140 +487,10 @@
   ],
   "all_articles": [
     {
-      "title": "Show HN: A fast, ad-free wiki for Where Winds Meet (built with Astro)",
-      "link": "https://wwm-db.com/en/",
-      "summary": "<p>Hi HN,<p>I built this database for the game \"Where Winds Meet\" because existing wikis were too slow and heavy.<p>It is built with Astro and Tailwind, focusing on performance and static site generat...",
-      "published": "2026-01-22T01:51:16+00:00",
-      "domain": "wwm-db.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Bluementhals letter about ICE memo justifying entry into homes without warrant [pdf]",
-      "link": "https://www.hsgac.senate.gov/wp-content/uploads/2026-01-21-Letter-from-Blumenthal-to-DHS-ICE.pdf",
-      "summary": "<p>Article URL: <a href=\"https://www.hsgac.senate.gov/wp-content/uploads/2026-01-21-Letter-from-Blumenthal-to-DHS-ICE.pdf\">https://www.hsgac.senate.gov/wp-content/uploads/2026-01-21-Letter-from-Blumen...",
-      "published": "2026-01-22T01:48:44+00:00",
-      "domain": "hsgac.senate.gov",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Ask HN: How do you audit autonomous AI agent decisions?",
-      "link": "https://news.ycombinator.com/item?id=46714180",
-      "summary": "<p>Building agents that can spend money (via AP2/payment APIs). Regulators want audit trails. Agents use tools from multiple vendors.<p>Problem: No unified way to prove <i>why</i> an agent made a deci...",
-      "published": "2026-01-22T01:47:07+00:00",
-      "domain": "news.ycombinator.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 12.1,
-        "overall": 7.6
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": [
-          "autonomous"
-        ]
-      }
-    },
-    {
-      "title": "AI Design Field Guide",
-      "link": "https://www.aidesignfieldguide.com/",
-      "summary": "<p>Article URL: <a href=\"https://www.aidesignfieldguide.com/\">https://www.aidesignfieldguide.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46714176\">https://news.ycombina...",
-      "published": "2026-01-22T01:46:52+00:00",
-      "domain": "aidesignfieldguide.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Ask HN: Anyone seeing copy/paste reliability issues in ChatGPT Web on macOS?",
-      "link": "https://news.ycombinator.com/item?id=46714164",
-      "summary": "<p>I\u2019m trying to understand whether this is a broader web UI pattern or something specific to certain environments.<p>Environment:\n- macOS (Intel-based)\n- Chromium browsers (Chrome / Edge)\n- Web app t...",
-      "published": "2026-01-22T01:44:34+00:00",
-      "domain": "news.ycombinator.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Significant US Farm Losses Persist, Despite Federal Assistance",
-      "link": "https://www.fb.org/market-intel/significant-farm-losses-persist-despite-federal-assistance",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=46713929\">Comments</a>...",
-      "published": "2026-01-22T01:11:36+00:00",
-      "domain": "fb.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Internet voting is insecure and should not be used in public elections",
-      "link": "https://blog.citp.princeton.edu/2026/01/16/internet-voting-is-insecure-and-should-not-be-used-in-public-elections/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=46713924\">Comments</a>...",
-      "published": "2026-01-22T01:11:13+00:00",
-      "domain": "blog.citp.princeton.edu",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Take potentially dangerous PDFs, and convert them to safe PDFs",
-      "link": "https://github.com/freedomofpress/dangerzone",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=46712815\">Comments</a>...",
-      "published": "2026-01-21T22:54:04+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "North Korean PurpleBravo Campaign Targeted 3,136 IP Addresses via Fake Job Interviews",
-      "link": "https://thehackernews.com/2026/01/north-korean-purplebravo-campaign.html",
-      "summary": "As many as 3,136 individual IP addresses linked to likely targets of the Contagious Interview activity have been identified, with the campaign claiming 20 potential victim organizations spanning artif...",
-      "published": "2026-01-21T22:47:00+05:30",
+      "title": "Cisco Fixes Actively Exploited Zero-Day CVE-2026-20045 in Unified CM and Webex",
+      "link": "https://thehackernews.com/2026/01/cisco-fixes-actively-exploited-zero-day.html",
+      "summary": "Cisco has released fresh patches to address what it described as a \"critical\" security vulnerability impacting multiple Unified Communications (CM) products and Webex Calling Dedicated Instance that i...",
+      "published": "2026-01-22T09:36:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -639,10 +503,138 @@
       }
     },
     {
-      "title": "Irony alert: Hallucinated citations found in papers from NeurIPS, the prestigious AI conference",
-      "link": "https://www.reddit.com/r/technology/comments/1qjch0d/irony_alert_hallucinated_citations_found_in/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1qjch0d/irony_alert_hallucinated_citations_found_in/\"> <img alt=\"Irony alert: Hallucinated citations found in papers from NeurIPS...",
-      "published": "2026-01-21T22:28:42+00:00",
+      "title": "We are updating Dokploy's Open Source license",
+      "link": "https://dokploy.com/blog/we-are-updating-dokploys-open-source-license",
+      "summary": "<p>Article URL: <a href=\"https://dokploy.com/blog/we-are-updating-dokploys-open-source-license\">https://dokploy.com/blog/we-are-updating-dokploys-open-source-license</a></p>\n<p>Comments URL: <a href=\"...",
+      "published": "2026-01-22T06:27:15+00:00",
+      "domain": "dokploy.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Scribefully is a portfolio and HN-style community for professionals",
+      "link": "https://scribefully.com/",
+      "summary": "<p>Hey HN! I'm a founder first, lawyer second. I understand code stacks well enough to explain them, but I've never been able to actually build software, and this has been a chip on my shoulder my ent...",
+      "published": "2026-01-22T06:25:39+00:00",
+      "domain": "scribefully.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "CAP theorem: Why Pick Two Misses the Point",
+      "link": "https://www.blog.ahmazin.dev/p/cap-theorem-explained",
+      "summary": "<p>Article URL: <a href=\"https://www.blog.ahmazin.dev/p/cap-theorem-explained\">https://www.blog.ahmazin.dev/p/cap-theorem-explained</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?...",
+      "published": "2026-01-22T06:23:59+00:00",
+      "domain": "blog.ahmazin.dev",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "US science after a year of Trump",
+      "link": "https://www.nature.com/immersive/d41586-026-00088-9/index.html",
+      "summary": "<p>Article URL: <a href=\"https://www.nature.com/immersive/d41586-026-00088-9/index.html\">https://www.nature.com/immersive/d41586-026-00088-9/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.y...",
+      "published": "2026-01-22T06:18:48+00:00",
+      "domain": "nature.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Blue4est Paper \u2013 BPA-Free Thermal Print Camera Compendium",
+      "link": "https://thermalprintcameras.wordpress.com/blue4est-paper/",
+      "summary": "<p>Article URL: <a href=\"https://thermalprintcameras.wordpress.com/blue4est-paper/\">https://thermalprintcameras.wordpress.com/blue4est-paper/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator...",
+      "published": "2026-01-22T06:10:51+00:00",
+      "domain": "thermalprintcameras.wordpress.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Doctors in Brazil using tilapia fish skin to treat burn victims",
+      "link": "https://www.pbs.org/newshour/health/brazilian-city-uses-tilapia-fish-skin-treat-burn-victims",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46715600\">Comments</a>...",
+      "published": "2026-01-22T05:15:46+00:00",
+      "domain": "pbs.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Job Applicants Sue to Open \u2018Black Box\u2019 of A.I. Hiring Decisions",
+      "link": "https://www.reddit.com/r/technology/comments/1qji6cy/job_applicants_sue_to_open_black_box_of_ai_hiring/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1qji6cy/job_applicants_sue_to_open_black_box_of_ai_hiring/\"> <img alt=\"Job Applicants Sue to Open \u2018Black Box\u2019 of A.I. Hiring Deci...",
+      "published": "2026-01-22T02:27:51+00:00",
+      "domain": "reddit.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "OpenAI's internal documents predict $14 billion loss in 2026 according to report",
+      "link": "https://www.reddit.com/r/technology/comments/1qjhopz/openais_internal_documents_predict_14_billion/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1qjhopz/openais_internal_documents_predict_14_billion/\"> <img alt=\"OpenAI's internal documents predict $14 billion loss in 2026 a...",
+      "published": "2026-01-22T02:06:26+00:00",
+      "domain": "reddit.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "President FCC threatens to enforce equal-time rule on late-night talk shows | FCC disputes long-standing view that the shows are exempt from equal-time rule.",
+      "link": "https://www.reddit.com/r/technology/comments/1qjh5o1/president_fcc_threatens_to_enforce_equaltime_rule/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1qjh5o1/president_fcc_threatens_to_enforce_equaltime_rule/\"> <img alt=\"President FCC threatens to enforce equal-time rule on late...",
+      "published": "2026-01-22T01:42:43+00:00",
       "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,

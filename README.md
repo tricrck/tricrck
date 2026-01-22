@@ -16,15 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Show HN: A fast, ad-free wiki for Where Winds Meet (built with Astro)
+### Cisco Fixes Actively Exploited Zero-Day CVE-2026-20045 in Unified CM and Webex
 - **Published**: January 22, 2026
-- **Summary**: <p>Hi HN,<p>I built this database for the game "Where Winds Meet" because existing wikis were too slow and heavy.<p>It is built with Astro and Tailwin...
-- [Read more](https://wwm-db.com/en/)
+- **Summary**: Cisco has released fresh patches to address what it described as a "critical" security vulnerability impacting multiple Unified Communications (CM) pr...
+- [Read more](https://thehackernews.com/2026/01/cisco-fixes-actively-exploited-zero-day.html)
 
-### Bluementhals letter about ICE memo justifying entry into homes without warrant [pdf]
+### We are updating Dokploy's Open Source license
 - **Published**: January 22, 2026
-- **Summary**: https://www.hsgac.senate.gov/wp-content/uploads/2026-01-21-Letter-from-Blumen......
-- [Read more](https://www.hsgac.senate.gov/wp-content/uploads/2026-01-21-Letter-from-Blumenthal-to-DHS-ICE.pdf)
+- **Summary**: https://dokploy.com/blog/we-are-updating-dokploys-open-source-license</a></p>
+<p>Comments URL: <a href="......
+- [Read more](https://dokploy.com/blog/we-are-updating-dokploys-open-source-license)
 
 ---
 
