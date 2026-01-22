@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### North Korean PurpleBravo Campaign Targeted 3,136 IP Addresses via Fake Job Interviews
-- **Published**: January 21, 2026
-- **Summary**: As many as 3,136 individual IP addresses linked to likely targets of the Contagious Interview activity have been identified, with the campaign claimin...
-- [Read more](https://thehackernews.com/2026/01/north-korean-purplebravo-campaign.html)
+### Show HN: A fast, ad-free wiki for Where Winds Meet (built with Astro)
+- **Published**: January 22, 2026
+- **Summary**: <p>Hi HN,<p>I built this database for the game "Where Winds Meet" because existing wikis were too slow and heavy.<p>It is built with Astro and Tailwin...
+- [Read more](https://wwm-db.com/en/)
 
-### Zoom and GitLab Release Security Updates Fixing RCE, DoS, and 2FA Bypass Flaws
-- **Published**: January 21, 2026
-- **Summary**: Zoom and GitLab have released security updates to resolve a number of security vulnerabilities that could result in denial-of-service (DoS) and remote...
-- [Read more](https://thehackernews.com/2026/01/zoom-and-gitlab-release-security.html)
+### Bluementhals letter about ICE memo justifying entry into homes without warrant [pdf]
+- **Published**: January 22, 2026
+- **Summary**: https://www.hsgac.senate.gov/wp-content/uploads/2026-01-21-Letter-from-Blumen......
+- [Read more](https://www.hsgac.senate.gov/wp-content/uploads/2026-01-21-Letter-from-Blumenthal-to-DHS-ICE.pdf)
 
 ---
 

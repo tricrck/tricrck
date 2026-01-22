@@ -1,6 +1,136 @@
 {
   "chaos_ranked": [
     {
+      "title": "Show HN: A fast, ad-free wiki for Where Winds Meet (built with Astro)",
+      "link": "https://wwm-db.com/en/",
+      "summary": "<p>Hi HN,<p>I built this database for the game \"Where Winds Meet\" because existing wikis were too slow and heavy.<p>It is built with Astro and Tailwind, focusing on performance and static site generat...",
+      "published": "2026-01-22T01:51:16+00:00",
+      "domain": "wwm-db.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Bluementhals letter about ICE memo justifying entry into homes without warrant [pdf]",
+      "link": "https://www.hsgac.senate.gov/wp-content/uploads/2026-01-21-Letter-from-Blumenthal-to-DHS-ICE.pdf",
+      "summary": "<p>Article URL: <a href=\"https://www.hsgac.senate.gov/wp-content/uploads/2026-01-21-Letter-from-Blumenthal-to-DHS-ICE.pdf\">https://www.hsgac.senate.gov/wp-content/uploads/2026-01-21-Letter-from-Blumen...",
+      "published": "2026-01-22T01:48:44+00:00",
+      "domain": "hsgac.senate.gov",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Ask HN: How do you audit autonomous AI agent decisions?",
+      "link": "https://news.ycombinator.com/item?id=46714180",
+      "summary": "<p>Building agents that can spend money (via AP2/payment APIs). Regulators want audit trails. Agents use tools from multiple vendors.<p>Problem: No unified way to prove <i>why</i> an agent made a deci...",
+      "published": "2026-01-22T01:47:07+00:00",
+      "domain": "news.ycombinator.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 12.1,
+        "overall": 7.6
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": [
+          "autonomous"
+        ]
+      }
+    },
+    {
+      "title": "AI Design Field Guide",
+      "link": "https://www.aidesignfieldguide.com/",
+      "summary": "<p>Article URL: <a href=\"https://www.aidesignfieldguide.com/\">https://www.aidesignfieldguide.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46714176\">https://news.ycombina...",
+      "published": "2026-01-22T01:46:52+00:00",
+      "domain": "aidesignfieldguide.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Ask HN: Anyone seeing copy/paste reliability issues in ChatGPT Web on macOS?",
+      "link": "https://news.ycombinator.com/item?id=46714164",
+      "summary": "<p>I\u2019m trying to understand whether this is a broader web UI pattern or something specific to certain environments.<p>Environment:\n- macOS (Intel-based)\n- Chromium browsers (Chrome / Edge)\n- Web app t...",
+      "published": "2026-01-22T01:44:34+00:00",
+      "domain": "news.ycombinator.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Significant US Farm Losses Persist, Despite Federal Assistance",
+      "link": "https://www.fb.org/market-intel/significant-farm-losses-persist-despite-federal-assistance",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46713929\">Comments</a>...",
+      "published": "2026-01-22T01:11:36+00:00",
+      "domain": "fb.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Internet voting is insecure and should not be used in public elections",
+      "link": "https://blog.citp.princeton.edu/2026/01/16/internet-voting-is-insecure-and-should-not-be-used-in-public-elections/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46713924\">Comments</a>...",
+      "published": "2026-01-22T01:11:13+00:00",
+      "domain": "blog.citp.princeton.edu",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Take potentially dangerous PDFs, and convert them to safe PDFs",
+      "link": "https://github.com/freedomofpress/dangerzone",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46712815\">Comments</a>...",
+      "published": "2026-01-21T22:54:04+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "North Korean PurpleBravo Campaign Targeted 3,136 IP Addresses via Fake Job Interviews",
       "link": "https://thehackernews.com/2026/01/north-korean-purplebravo-campaign.html",
       "summary": "As many as 3,136 individual IP addresses linked to likely targets of the Contagious Interview activity have been identified, with the campaign claiming 20 potential victim organizations spanning artif...",
@@ -17,139 +147,11 @@
       }
     },
     {
-      "title": "Zoom and GitLab Release Security Updates Fixing RCE, DoS, and 2FA Bypass Flaws",
-      "link": "https://thehackernews.com/2026/01/zoom-and-gitlab-release-security.html",
-      "summary": "Zoom and GitLab have released security updates to resolve a number of security vulnerabilities that could result in denial-of-service (DoS) and remote code execution.\nThe most severe of the lot is a c...",
-      "published": "2026-01-21T21:12:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Chrome plugin to show recent trends in AI/Tech instead of an empty tab",
-      "link": "https://chromewebstore.google.com/detail/ai-trends-dashboard/dpglmhdbgjekmmghclfjheficnaadine",
-      "summary": "<p>Article URL: <a href=\"https://chromewebstore.google.com/detail/ai-trends-dashboard/dpglmhdbgjekmmghclfjheficnaadine\">https://chromewebstore.google.com/detail/ai-trends-dashboard/dpglmhdbgjekmmghclf...",
-      "published": "2026-01-21T18:34:55+00:00",
-      "domain": "chromewebstore.google.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Nuxt at Scale with Daniel Roe (Podcast Episode)",
-      "link": "https://open.spotify.com/episode/5xTPxvS3WHjEkz16rSHj7I",
-      "summary": "<p>Article URL: <a href=\"https://open.spotify.com/episode/5xTPxvS3WHjEkz16rSHj7I\">https://open.spotify.com/episode/5xTPxvS3WHjEkz16rSHj7I</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com...",
-      "published": "2026-01-21T18:34:28+00:00",
-      "domain": "open.spotify.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "North Sea project promises to return carbon to where it came from",
-      "link": "https://www.japantimes.co.jp/environment/2025/12/22/climate-change/co2-denmark-north-sea/",
-      "summary": "<p>Article URL: <a href=\"https://www.japantimes.co.jp/environment/2025/12/22/climate-change/co2-denmark-north-sea/\">https://www.japantimes.co.jp/environment/2025/12/22/climate-change/co2-denmark-north...",
-      "published": "2026-01-21T18:33:58+00:00",
-      "domain": "japantimes.co.jp",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "I keep throwing away LLM generated code",
-      "link": "https://nickzaccardi.com/i-keep-throwing-away-llm-generated-code/",
-      "summary": "<p>Article URL: <a href=\"https://nickzaccardi.com/i-keep-throwing-away-llm-generated-code/\">https://nickzaccardi.com/i-keep-throwing-away-llm-generated-code/</a></p>\n<p>Comments URL: <a href=\"https://...",
-      "published": "2026-01-21T18:33:38+00:00",
-      "domain": "nickzaccardi.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "TeraWave Satellite Communications Network",
-      "link": "https://www.blueorigin.com/terawave",
-      "summary": "<p>Article URL: <a href=\"https://www.blueorigin.com/terawave\">https://www.blueorigin.com/terawave</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46709548\">https://news.ycombina...",
-      "published": "2026-01-21T18:31:58+00:00",
-      "domain": "blueorigin.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "illumos",
-      "link": "https://illumos.org/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=46708807\">Comments</a>...",
-      "published": "2026-01-21T17:39:42+00:00",
-      "domain": "illumos.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Waiting for dawn in search: Search index, Google rulings and impact on Kagi",
-      "link": "https://blog.kagi.com/waiting-dawn-search",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=46708678\">Comments</a>...",
-      "published": "2026-01-21T17:28:03+00:00",
-      "domain": "blog.kagi.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Webinar: How Smart MSSPs Using AI to Boost Margins with Half the Staff",
-      "link": "https://thehackernews.com/2026/01/webinar-how-smart-mssps-using-ai-to.html",
-      "summary": "Every managed security provider is chasing the same problem in 2026 \u2014 too many alerts, too few analysts, and clients demanding \u201cCISO-level protection\u201d at SMB budgets.\nThe truth? Most MSSPs are running...",
-      "published": "2026-01-21T17:28:00+05:30",
-      "domain": "thehackernews.com",
+      "title": "Irony alert: Hallucinated citations found in papers from NeurIPS, the prestigious AI conference",
+      "link": "https://www.reddit.com/r/technology/comments/1qjch0d/irony_alert_hallucinated_citations_found_in/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1qjch0d/irony_alert_hallucinated_citations_found_in/\"> <img alt=\"Irony alert: Hallucinated citations found in papers from NeurIPS...",
+      "published": "2026-01-21T22:28:42+00:00",
+      "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -163,6 +165,136 @@
   ],
   "anarchy_ranked": [
     {
+      "title": "Ask HN: How do you audit autonomous AI agent decisions?",
+      "link": "https://news.ycombinator.com/item?id=46714180",
+      "summary": "<p>Building agents that can spend money (via AP2/payment APIs). Regulators want audit trails. Agents use tools from multiple vendors.<p>Problem: No unified way to prove <i>why</i> an agent made a deci...",
+      "published": "2026-01-22T01:47:07+00:00",
+      "domain": "news.ycombinator.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 12.1,
+        "overall": 7.6
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": [
+          "autonomous"
+        ]
+      }
+    },
+    {
+      "title": "Show HN: A fast, ad-free wiki for Where Winds Meet (built with Astro)",
+      "link": "https://wwm-db.com/en/",
+      "summary": "<p>Hi HN,<p>I built this database for the game \"Where Winds Meet\" because existing wikis were too slow and heavy.<p>It is built with Astro and Tailwind, focusing on performance and static site generat...",
+      "published": "2026-01-22T01:51:16+00:00",
+      "domain": "wwm-db.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Bluementhals letter about ICE memo justifying entry into homes without warrant [pdf]",
+      "link": "https://www.hsgac.senate.gov/wp-content/uploads/2026-01-21-Letter-from-Blumenthal-to-DHS-ICE.pdf",
+      "summary": "<p>Article URL: <a href=\"https://www.hsgac.senate.gov/wp-content/uploads/2026-01-21-Letter-from-Blumenthal-to-DHS-ICE.pdf\">https://www.hsgac.senate.gov/wp-content/uploads/2026-01-21-Letter-from-Blumen...",
+      "published": "2026-01-22T01:48:44+00:00",
+      "domain": "hsgac.senate.gov",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "AI Design Field Guide",
+      "link": "https://www.aidesignfieldguide.com/",
+      "summary": "<p>Article URL: <a href=\"https://www.aidesignfieldguide.com/\">https://www.aidesignfieldguide.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46714176\">https://news.ycombina...",
+      "published": "2026-01-22T01:46:52+00:00",
+      "domain": "aidesignfieldguide.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Ask HN: Anyone seeing copy/paste reliability issues in ChatGPT Web on macOS?",
+      "link": "https://news.ycombinator.com/item?id=46714164",
+      "summary": "<p>I\u2019m trying to understand whether this is a broader web UI pattern or something specific to certain environments.<p>Environment:\n- macOS (Intel-based)\n- Chromium browsers (Chrome / Edge)\n- Web app t...",
+      "published": "2026-01-22T01:44:34+00:00",
+      "domain": "news.ycombinator.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Significant US Farm Losses Persist, Despite Federal Assistance",
+      "link": "https://www.fb.org/market-intel/significant-farm-losses-persist-despite-federal-assistance",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46713929\">Comments</a>...",
+      "published": "2026-01-22T01:11:36+00:00",
+      "domain": "fb.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Internet voting is insecure and should not be used in public elections",
+      "link": "https://blog.citp.princeton.edu/2026/01/16/internet-voting-is-insecure-and-should-not-be-used-in-public-elections/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46713924\">Comments</a>...",
+      "published": "2026-01-22T01:11:13+00:00",
+      "domain": "blog.citp.princeton.edu",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Take potentially dangerous PDFs, and convert them to safe PDFs",
+      "link": "https://github.com/freedomofpress/dangerzone",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46712815\">Comments</a>...",
+      "published": "2026-01-21T22:54:04+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "North Korean PurpleBravo Campaign Targeted 3,136 IP Addresses via Fake Job Interviews",
       "link": "https://thehackernews.com/2026/01/north-korean-purplebravo-campaign.html",
       "summary": "As many as 3,136 individual IP addresses linked to likely targets of the Contagious Interview activity have been identified, with the campaign claiming 20 potential victim organizations spanning artif...",
@@ -179,139 +311,11 @@
       }
     },
     {
-      "title": "Zoom and GitLab Release Security Updates Fixing RCE, DoS, and 2FA Bypass Flaws",
-      "link": "https://thehackernews.com/2026/01/zoom-and-gitlab-release-security.html",
-      "summary": "Zoom and GitLab have released security updates to resolve a number of security vulnerabilities that could result in denial-of-service (DoS) and remote code execution.\nThe most severe of the lot is a c...",
-      "published": "2026-01-21T21:12:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Chrome plugin to show recent trends in AI/Tech instead of an empty tab",
-      "link": "https://chromewebstore.google.com/detail/ai-trends-dashboard/dpglmhdbgjekmmghclfjheficnaadine",
-      "summary": "<p>Article URL: <a href=\"https://chromewebstore.google.com/detail/ai-trends-dashboard/dpglmhdbgjekmmghclfjheficnaadine\">https://chromewebstore.google.com/detail/ai-trends-dashboard/dpglmhdbgjekmmghclf...",
-      "published": "2026-01-21T18:34:55+00:00",
-      "domain": "chromewebstore.google.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Nuxt at Scale with Daniel Roe (Podcast Episode)",
-      "link": "https://open.spotify.com/episode/5xTPxvS3WHjEkz16rSHj7I",
-      "summary": "<p>Article URL: <a href=\"https://open.spotify.com/episode/5xTPxvS3WHjEkz16rSHj7I\">https://open.spotify.com/episode/5xTPxvS3WHjEkz16rSHj7I</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com...",
-      "published": "2026-01-21T18:34:28+00:00",
-      "domain": "open.spotify.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "North Sea project promises to return carbon to where it came from",
-      "link": "https://www.japantimes.co.jp/environment/2025/12/22/climate-change/co2-denmark-north-sea/",
-      "summary": "<p>Article URL: <a href=\"https://www.japantimes.co.jp/environment/2025/12/22/climate-change/co2-denmark-north-sea/\">https://www.japantimes.co.jp/environment/2025/12/22/climate-change/co2-denmark-north...",
-      "published": "2026-01-21T18:33:58+00:00",
-      "domain": "japantimes.co.jp",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "I keep throwing away LLM generated code",
-      "link": "https://nickzaccardi.com/i-keep-throwing-away-llm-generated-code/",
-      "summary": "<p>Article URL: <a href=\"https://nickzaccardi.com/i-keep-throwing-away-llm-generated-code/\">https://nickzaccardi.com/i-keep-throwing-away-llm-generated-code/</a></p>\n<p>Comments URL: <a href=\"https://...",
-      "published": "2026-01-21T18:33:38+00:00",
-      "domain": "nickzaccardi.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "TeraWave Satellite Communications Network",
-      "link": "https://www.blueorigin.com/terawave",
-      "summary": "<p>Article URL: <a href=\"https://www.blueorigin.com/terawave\">https://www.blueorigin.com/terawave</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46709548\">https://news.ycombina...",
-      "published": "2026-01-21T18:31:58+00:00",
-      "domain": "blueorigin.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "illumos",
-      "link": "https://illumos.org/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=46708807\">Comments</a>...",
-      "published": "2026-01-21T17:39:42+00:00",
-      "domain": "illumos.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Waiting for dawn in search: Search index, Google rulings and impact on Kagi",
-      "link": "https://blog.kagi.com/waiting-dawn-search",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=46708678\">Comments</a>...",
-      "published": "2026-01-21T17:28:03+00:00",
-      "domain": "blog.kagi.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Webinar: How Smart MSSPs Using AI to Boost Margins with Half the Staff",
-      "link": "https://thehackernews.com/2026/01/webinar-how-smart-mssps-using-ai-to.html",
-      "summary": "Every managed security provider is chasing the same problem in 2026 \u2014 too many alerts, too few analysts, and clients demanding \u201cCISO-level protection\u201d at SMB budgets.\nThe truth? Most MSSPs are running...",
-      "published": "2026-01-21T17:28:00+05:30",
-      "domain": "thehackernews.com",
+      "title": "Irony alert: Hallucinated citations found in papers from NeurIPS, the prestigious AI conference",
+      "link": "https://www.reddit.com/r/technology/comments/1qjch0d/irony_alert_hallucinated_citations_found_in/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1qjch0d/irony_alert_hallucinated_citations_found_in/\"> <img alt=\"Irony alert: Hallucinated citations found in papers from NeurIPS...",
+      "published": "2026-01-21T22:28:42+00:00",
+      "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -325,6 +329,136 @@
   ],
   "overall_ranked": [
     {
+      "title": "Ask HN: How do you audit autonomous AI agent decisions?",
+      "link": "https://news.ycombinator.com/item?id=46714180",
+      "summary": "<p>Building agents that can spend money (via AP2/payment APIs). Regulators want audit trails. Agents use tools from multiple vendors.<p>Problem: No unified way to prove <i>why</i> an agent made a deci...",
+      "published": "2026-01-22T01:47:07+00:00",
+      "domain": "news.ycombinator.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 12.1,
+        "overall": 7.6
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": [
+          "autonomous"
+        ]
+      }
+    },
+    {
+      "title": "Show HN: A fast, ad-free wiki for Where Winds Meet (built with Astro)",
+      "link": "https://wwm-db.com/en/",
+      "summary": "<p>Hi HN,<p>I built this database for the game \"Where Winds Meet\" because existing wikis were too slow and heavy.<p>It is built with Astro and Tailwind, focusing on performance and static site generat...",
+      "published": "2026-01-22T01:51:16+00:00",
+      "domain": "wwm-db.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Bluementhals letter about ICE memo justifying entry into homes without warrant [pdf]",
+      "link": "https://www.hsgac.senate.gov/wp-content/uploads/2026-01-21-Letter-from-Blumenthal-to-DHS-ICE.pdf",
+      "summary": "<p>Article URL: <a href=\"https://www.hsgac.senate.gov/wp-content/uploads/2026-01-21-Letter-from-Blumenthal-to-DHS-ICE.pdf\">https://www.hsgac.senate.gov/wp-content/uploads/2026-01-21-Letter-from-Blumen...",
+      "published": "2026-01-22T01:48:44+00:00",
+      "domain": "hsgac.senate.gov",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "AI Design Field Guide",
+      "link": "https://www.aidesignfieldguide.com/",
+      "summary": "<p>Article URL: <a href=\"https://www.aidesignfieldguide.com/\">https://www.aidesignfieldguide.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46714176\">https://news.ycombina...",
+      "published": "2026-01-22T01:46:52+00:00",
+      "domain": "aidesignfieldguide.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Ask HN: Anyone seeing copy/paste reliability issues in ChatGPT Web on macOS?",
+      "link": "https://news.ycombinator.com/item?id=46714164",
+      "summary": "<p>I\u2019m trying to understand whether this is a broader web UI pattern or something specific to certain environments.<p>Environment:\n- macOS (Intel-based)\n- Chromium browsers (Chrome / Edge)\n- Web app t...",
+      "published": "2026-01-22T01:44:34+00:00",
+      "domain": "news.ycombinator.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Significant US Farm Losses Persist, Despite Federal Assistance",
+      "link": "https://www.fb.org/market-intel/significant-farm-losses-persist-despite-federal-assistance",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46713929\">Comments</a>...",
+      "published": "2026-01-22T01:11:36+00:00",
+      "domain": "fb.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Internet voting is insecure and should not be used in public elections",
+      "link": "https://blog.citp.princeton.edu/2026/01/16/internet-voting-is-insecure-and-should-not-be-used-in-public-elections/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46713924\">Comments</a>...",
+      "published": "2026-01-22T01:11:13+00:00",
+      "domain": "blog.citp.princeton.edu",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Take potentially dangerous PDFs, and convert them to safe PDFs",
+      "link": "https://github.com/freedomofpress/dangerzone",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46712815\">Comments</a>...",
+      "published": "2026-01-21T22:54:04+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "North Korean PurpleBravo Campaign Targeted 3,136 IP Addresses via Fake Job Interviews",
       "link": "https://thehackernews.com/2026/01/north-korean-purplebravo-campaign.html",
       "summary": "As many as 3,136 individual IP addresses linked to likely targets of the Contagious Interview activity have been identified, with the campaign claiming 20 potential victim organizations spanning artif...",
@@ -341,139 +475,11 @@
       }
     },
     {
-      "title": "Zoom and GitLab Release Security Updates Fixing RCE, DoS, and 2FA Bypass Flaws",
-      "link": "https://thehackernews.com/2026/01/zoom-and-gitlab-release-security.html",
-      "summary": "Zoom and GitLab have released security updates to resolve a number of security vulnerabilities that could result in denial-of-service (DoS) and remote code execution.\nThe most severe of the lot is a c...",
-      "published": "2026-01-21T21:12:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Chrome plugin to show recent trends in AI/Tech instead of an empty tab",
-      "link": "https://chromewebstore.google.com/detail/ai-trends-dashboard/dpglmhdbgjekmmghclfjheficnaadine",
-      "summary": "<p>Article URL: <a href=\"https://chromewebstore.google.com/detail/ai-trends-dashboard/dpglmhdbgjekmmghclfjheficnaadine\">https://chromewebstore.google.com/detail/ai-trends-dashboard/dpglmhdbgjekmmghclf...",
-      "published": "2026-01-21T18:34:55+00:00",
-      "domain": "chromewebstore.google.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Nuxt at Scale with Daniel Roe (Podcast Episode)",
-      "link": "https://open.spotify.com/episode/5xTPxvS3WHjEkz16rSHj7I",
-      "summary": "<p>Article URL: <a href=\"https://open.spotify.com/episode/5xTPxvS3WHjEkz16rSHj7I\">https://open.spotify.com/episode/5xTPxvS3WHjEkz16rSHj7I</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com...",
-      "published": "2026-01-21T18:34:28+00:00",
-      "domain": "open.spotify.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "North Sea project promises to return carbon to where it came from",
-      "link": "https://www.japantimes.co.jp/environment/2025/12/22/climate-change/co2-denmark-north-sea/",
-      "summary": "<p>Article URL: <a href=\"https://www.japantimes.co.jp/environment/2025/12/22/climate-change/co2-denmark-north-sea/\">https://www.japantimes.co.jp/environment/2025/12/22/climate-change/co2-denmark-north...",
-      "published": "2026-01-21T18:33:58+00:00",
-      "domain": "japantimes.co.jp",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "I keep throwing away LLM generated code",
-      "link": "https://nickzaccardi.com/i-keep-throwing-away-llm-generated-code/",
-      "summary": "<p>Article URL: <a href=\"https://nickzaccardi.com/i-keep-throwing-away-llm-generated-code/\">https://nickzaccardi.com/i-keep-throwing-away-llm-generated-code/</a></p>\n<p>Comments URL: <a href=\"https://...",
-      "published": "2026-01-21T18:33:38+00:00",
-      "domain": "nickzaccardi.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "TeraWave Satellite Communications Network",
-      "link": "https://www.blueorigin.com/terawave",
-      "summary": "<p>Article URL: <a href=\"https://www.blueorigin.com/terawave\">https://www.blueorigin.com/terawave</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46709548\">https://news.ycombina...",
-      "published": "2026-01-21T18:31:58+00:00",
-      "domain": "blueorigin.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "illumos",
-      "link": "https://illumos.org/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=46708807\">Comments</a>...",
-      "published": "2026-01-21T17:39:42+00:00",
-      "domain": "illumos.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Waiting for dawn in search: Search index, Google rulings and impact on Kagi",
-      "link": "https://blog.kagi.com/waiting-dawn-search",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=46708678\">Comments</a>...",
-      "published": "2026-01-21T17:28:03+00:00",
-      "domain": "blog.kagi.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Webinar: How Smart MSSPs Using AI to Boost Margins with Half the Staff",
-      "link": "https://thehackernews.com/2026/01/webinar-how-smart-mssps-using-ai-to.html",
-      "summary": "Every managed security provider is chasing the same problem in 2026 \u2014 too many alerts, too few analysts, and clients demanding \u201cCISO-level protection\u201d at SMB budgets.\nThe truth? Most MSSPs are running...",
-      "published": "2026-01-21T17:28:00+05:30",
-      "domain": "thehackernews.com",
+      "title": "Irony alert: Hallucinated citations found in papers from NeurIPS, the prestigious AI conference",
+      "link": "https://www.reddit.com/r/technology/comments/1qjch0d/irony_alert_hallucinated_citations_found_in/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1qjch0d/irony_alert_hallucinated_citations_found_in/\"> <img alt=\"Irony alert: Hallucinated citations found in papers from NeurIPS...",
+      "published": "2026-01-21T22:28:42+00:00",
+      "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -487,6 +493,136 @@
   ],
   "all_articles": [
     {
+      "title": "Show HN: A fast, ad-free wiki for Where Winds Meet (built with Astro)",
+      "link": "https://wwm-db.com/en/",
+      "summary": "<p>Hi HN,<p>I built this database for the game \"Where Winds Meet\" because existing wikis were too slow and heavy.<p>It is built with Astro and Tailwind, focusing on performance and static site generat...",
+      "published": "2026-01-22T01:51:16+00:00",
+      "domain": "wwm-db.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Bluementhals letter about ICE memo justifying entry into homes without warrant [pdf]",
+      "link": "https://www.hsgac.senate.gov/wp-content/uploads/2026-01-21-Letter-from-Blumenthal-to-DHS-ICE.pdf",
+      "summary": "<p>Article URL: <a href=\"https://www.hsgac.senate.gov/wp-content/uploads/2026-01-21-Letter-from-Blumenthal-to-DHS-ICE.pdf\">https://www.hsgac.senate.gov/wp-content/uploads/2026-01-21-Letter-from-Blumen...",
+      "published": "2026-01-22T01:48:44+00:00",
+      "domain": "hsgac.senate.gov",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Ask HN: How do you audit autonomous AI agent decisions?",
+      "link": "https://news.ycombinator.com/item?id=46714180",
+      "summary": "<p>Building agents that can spend money (via AP2/payment APIs). Regulators want audit trails. Agents use tools from multiple vendors.<p>Problem: No unified way to prove <i>why</i> an agent made a deci...",
+      "published": "2026-01-22T01:47:07+00:00",
+      "domain": "news.ycombinator.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 12.1,
+        "overall": 7.6
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": [
+          "autonomous"
+        ]
+      }
+    },
+    {
+      "title": "AI Design Field Guide",
+      "link": "https://www.aidesignfieldguide.com/",
+      "summary": "<p>Article URL: <a href=\"https://www.aidesignfieldguide.com/\">https://www.aidesignfieldguide.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46714176\">https://news.ycombina...",
+      "published": "2026-01-22T01:46:52+00:00",
+      "domain": "aidesignfieldguide.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Ask HN: Anyone seeing copy/paste reliability issues in ChatGPT Web on macOS?",
+      "link": "https://news.ycombinator.com/item?id=46714164",
+      "summary": "<p>I\u2019m trying to understand whether this is a broader web UI pattern or something specific to certain environments.<p>Environment:\n- macOS (Intel-based)\n- Chromium browsers (Chrome / Edge)\n- Web app t...",
+      "published": "2026-01-22T01:44:34+00:00",
+      "domain": "news.ycombinator.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Significant US Farm Losses Persist, Despite Federal Assistance",
+      "link": "https://www.fb.org/market-intel/significant-farm-losses-persist-despite-federal-assistance",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46713929\">Comments</a>...",
+      "published": "2026-01-22T01:11:36+00:00",
+      "domain": "fb.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Internet voting is insecure and should not be used in public elections",
+      "link": "https://blog.citp.princeton.edu/2026/01/16/internet-voting-is-insecure-and-should-not-be-used-in-public-elections/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46713924\">Comments</a>...",
+      "published": "2026-01-22T01:11:13+00:00",
+      "domain": "blog.citp.princeton.edu",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Take potentially dangerous PDFs, and convert them to safe PDFs",
+      "link": "https://github.com/freedomofpress/dangerzone",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46712815\">Comments</a>...",
+      "published": "2026-01-21T22:54:04+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "North Korean PurpleBravo Campaign Targeted 3,136 IP Addresses via Fake Job Interviews",
       "link": "https://thehackernews.com/2026/01/north-korean-purplebravo-campaign.html",
       "summary": "As many as 3,136 individual IP addresses linked to likely targets of the Contagious Interview activity have been identified, with the campaign claiming 20 potential victim organizations spanning artif...",
@@ -503,139 +639,11 @@
       }
     },
     {
-      "title": "Zoom and GitLab Release Security Updates Fixing RCE, DoS, and 2FA Bypass Flaws",
-      "link": "https://thehackernews.com/2026/01/zoom-and-gitlab-release-security.html",
-      "summary": "Zoom and GitLab have released security updates to resolve a number of security vulnerabilities that could result in denial-of-service (DoS) and remote code execution.\nThe most severe of the lot is a c...",
-      "published": "2026-01-21T21:12:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Chrome plugin to show recent trends in AI/Tech instead of an empty tab",
-      "link": "https://chromewebstore.google.com/detail/ai-trends-dashboard/dpglmhdbgjekmmghclfjheficnaadine",
-      "summary": "<p>Article URL: <a href=\"https://chromewebstore.google.com/detail/ai-trends-dashboard/dpglmhdbgjekmmghclfjheficnaadine\">https://chromewebstore.google.com/detail/ai-trends-dashboard/dpglmhdbgjekmmghclf...",
-      "published": "2026-01-21T18:34:55+00:00",
-      "domain": "chromewebstore.google.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Nuxt at Scale with Daniel Roe (Podcast Episode)",
-      "link": "https://open.spotify.com/episode/5xTPxvS3WHjEkz16rSHj7I",
-      "summary": "<p>Article URL: <a href=\"https://open.spotify.com/episode/5xTPxvS3WHjEkz16rSHj7I\">https://open.spotify.com/episode/5xTPxvS3WHjEkz16rSHj7I</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com...",
-      "published": "2026-01-21T18:34:28+00:00",
-      "domain": "open.spotify.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "North Sea project promises to return carbon to where it came from",
-      "link": "https://www.japantimes.co.jp/environment/2025/12/22/climate-change/co2-denmark-north-sea/",
-      "summary": "<p>Article URL: <a href=\"https://www.japantimes.co.jp/environment/2025/12/22/climate-change/co2-denmark-north-sea/\">https://www.japantimes.co.jp/environment/2025/12/22/climate-change/co2-denmark-north...",
-      "published": "2026-01-21T18:33:58+00:00",
-      "domain": "japantimes.co.jp",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "I keep throwing away LLM generated code",
-      "link": "https://nickzaccardi.com/i-keep-throwing-away-llm-generated-code/",
-      "summary": "<p>Article URL: <a href=\"https://nickzaccardi.com/i-keep-throwing-away-llm-generated-code/\">https://nickzaccardi.com/i-keep-throwing-away-llm-generated-code/</a></p>\n<p>Comments URL: <a href=\"https://...",
-      "published": "2026-01-21T18:33:38+00:00",
-      "domain": "nickzaccardi.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "TeraWave Satellite Communications Network",
-      "link": "https://www.blueorigin.com/terawave",
-      "summary": "<p>Article URL: <a href=\"https://www.blueorigin.com/terawave\">https://www.blueorigin.com/terawave</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46709548\">https://news.ycombina...",
-      "published": "2026-01-21T18:31:58+00:00",
-      "domain": "blueorigin.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "illumos",
-      "link": "https://illumos.org/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=46708807\">Comments</a>...",
-      "published": "2026-01-21T17:39:42+00:00",
-      "domain": "illumos.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Waiting for dawn in search: Search index, Google rulings and impact on Kagi",
-      "link": "https://blog.kagi.com/waiting-dawn-search",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=46708678\">Comments</a>...",
-      "published": "2026-01-21T17:28:03+00:00",
-      "domain": "blog.kagi.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Webinar: How Smart MSSPs Using AI to Boost Margins with Half the Staff",
-      "link": "https://thehackernews.com/2026/01/webinar-how-smart-mssps-using-ai-to.html",
-      "summary": "Every managed security provider is chasing the same problem in 2026 \u2014 too many alerts, too few analysts, and clients demanding \u201cCISO-level protection\u201d at SMB budgets.\nThe truth? Most MSSPs are running...",
-      "published": "2026-01-21T17:28:00+05:30",
-      "domain": "thehackernews.com",
+      "title": "Irony alert: Hallucinated citations found in papers from NeurIPS, the prestigious AI conference",
+      "link": "https://www.reddit.com/r/technology/comments/1qjch0d/irony_alert_hallucinated_citations_found_in/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1qjch0d/irony_alert_hallucinated_citations_found_in/\"> <img alt=\"Irony alert: Hallucinated citations found in papers from NeurIPS...",
+      "published": "2026-01-21T22:28:42+00:00",
+      "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
