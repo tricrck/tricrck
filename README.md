@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### eBay bans illicit automated shopping amid rapid rise of AI agents
+### TikTok Forms U.S. Joint Venture to Continue Operations Under 2025 Executive Order
 - **Published**: January 23, 2026
-- **Summary**: https://arstechnica.com/information-technology/2026/......
-- [Read more](https://arstechnica.com/information-technology/2026/01/ebay-bans-illicit-automated-shopping-amid-rapid-rise-of-ai-agents/)
+- **Summary**: TikTok on Friday officially announced that it formed a joint venture that will allow the hugely popular video-sharing application to continue operatin...
+- [Read more](https://thehackernews.com/2026/01/tiktok-forms-us-joint-venture-to.html)
 
-### SSDs now cost 16x more than HDDs due to AI supply chain crisis
+### Phishing Attack Uses Stolen Credentials to Install LogMeIn RMM for Persistent Access
 - **Published**: January 23, 2026
-- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1qkfcqt/ssds_now_cost_16x_more_than_hdds_due_to_ai_supply/"> <img alt="SSDs now cost 16x mo...
-- **Keywords**: crisis
-- [Read more](https://www.reddit.com/r/technology/comments/1qkfcqt/ssds_now_cost_16x_more_than_hdds_due_to_ai_supply/)
+- **Summary**: Cybersecurity researchers have disclosed details of a new dual-vector campaign that leverages stolen credentials to deploy legitimate Remote Monitorin...
+- [Read more](https://thehackernews.com/2026/01/phishing-attack-uses-stolen-credentials.html)
 
 ---
 
