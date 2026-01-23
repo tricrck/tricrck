@@ -16,17 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Filling the Most Common Gaps in Google Workspace Security
+### White House posts digitally altered image of woman arrested after ICE protest
 - **Published**: January 22, 2026
-- **Summary**: Security teams at agile, fast-growing companies often have the same mandate: secure the business without slowing it down. Most teams inherit a tech st...
-- **Keywords**: down
-- [Read more](https://thehackernews.com/2026/01/filling-most-common-gaps-in-google.html)
+- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1qk7vlz/white_house_posts_digitally_altered_image_of/"> <img alt="White House posts digital...
+- **Keywords**: protest
+- [Read more](https://www.reddit.com/r/technology/comments/1qk7vlz/white_house_posts_digitally_altered_image_of/)
 
-### Critical GNU InetUtils telnetd Flaw Lets Attackers Bypass Login and Gain Root Access
-- **Published**: January 22, 2026
-- **Summary**: A critical security flaw has been disclosed in the GNU InetUtils telnet daemon (telnetd) that went unnoticed for nearly 11 years.
-The vulnerability, t...
-- [Read more](https://thehackernews.com/2026/01/critical-gnu-inetutils-telnetd-flaw.html)
+### How Claude Code Compaction Works
+- **Published**: January 23, 2026
+- **Summary**: https://decodeclaude.com/claude-code-compaction/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46727......
+- [Read more](https://decodeclaude.com/claude-code-compaction/)
 
 ---
 
