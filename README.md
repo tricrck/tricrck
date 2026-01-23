@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### White House posts digitally altered image of woman arrested after ICE protest
-- **Published**: January 22, 2026
-- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1qk7vlz/white_house_posts_digitally_altered_image_of/"> <img alt="White House posts digital...
-- **Keywords**: protest
-- [Read more](https://www.reddit.com/r/technology/comments/1qk7vlz/white_house_posts_digitally_altered_image_of/)
-
-### How Claude Code Compaction Works
+### eBay bans illicit automated shopping amid rapid rise of AI agents
 - **Published**: January 23, 2026
-- **Summary**: https://decodeclaude.com/claude-code-compaction/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46727......
-- [Read more](https://decodeclaude.com/claude-code-compaction/)
+- **Summary**: https://arstechnica.com/information-technology/2026/......
+- [Read more](https://arstechnica.com/information-technology/2026/01/ebay-bans-illicit-automated-shopping-amid-rapid-rise-of-ai-agents/)
+
+### SSDs now cost 16x more than HDDs due to AI supply chain crisis
+- **Published**: January 23, 2026
+- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1qkfcqt/ssds_now_cost_16x_more_than_hdds_due_to_ai_supply/"> <img alt="SSDs now cost 16x mo...
+- **Keywords**: crisis
+- [Read more](https://www.reddit.com/r/technology/comments/1qkfcqt/ssds_now_cost_16x_more_than_hdds_due_to_ai_supply/)
 
 ---
 
