@@ -16,16 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### New YC homepage
-- **Published**: January 23, 2026
-- **Summary**: ......
-- [Read more](https://www.ycombinator.com/)
-
-### The Problem of Flatness in Ancient Egypt
+### Zensical
 - **Published**: January 24, 2026
-- **Summary**: https://www.youtube.com/watch?v=vhv8fAqN1cw</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46740241">https......
-- [Read more](https://www.youtube.com/watch?v=vhv8fAqN1cw)
+- **Summary**: https://zensical.org/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46741534">https://news.ycombinator.com/item?id=46741534</...
+- [Read more](https://zensical.org/)
+
+### Packet Radio
+- **Published**: January 24, 2026
+- **Summary**: https://en.wikipedia.org/wiki/Packet_radio</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46741532">https:/......
+- [Read more](https://en.wikipedia.org/wiki/Packet_radio)
 
 ---
 
