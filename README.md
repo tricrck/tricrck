@@ -16,18 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Pushing Simulation to the Limit to Find Order in Chaos [video]
+### Windows 365 going down is a rude awakening for Microsoft's 'Cloud PC' dream
 - **Published**: January 24, 2026
-- **Summary**: https://www.youtube.com/watch?v=8jVogdTJESw</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46743080">https......
-- **Keywords**: chaos
-- [Read more](https://www.youtube.com/watch?v=8jVogdTJESw)
+- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1qlrd1x/windows_365_going_down_is_a_rude_awakening_for/"> <img alt="Windows 365 going down ...
+- **Keywords**: down, down
+- [Read more](https://www.reddit.com/r/technology/comments/1qlrd1x/windows_365_going_down_is_a_rude_awakening_for/)
 
-### Multi-Stage Phishing Campaign Targets Russia with Amnesia RAT and Ransomware
+### Show HN: Send encrypted messages to the future (Client-side Time Capsules)
 - **Published**: January 24, 2026
-- **Summary**: A new multi-stage phishing campaign has been observed targeting users in Russia with ransomware and a remote access trojan called Amnesia RAT.
-"The at...
-- [Read more](https://thehackernews.com/2026/01/multi-stage-phishing-campaign-targets.html)
+- **Summary**: <p>I've updated Encrypter.site with a new Time Capsule feature. It lets you "seal" a message that is mathematically impossible to open until a specifi...
+- [Read more](https://www.encrypter.site/)
 
 ---
 
