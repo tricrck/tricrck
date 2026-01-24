@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Microsoft gave FBI set of BitLocker encryption keys to unlock suspects' laptops
+### New YC homepage
 - **Published**: January 23, 2026
 - **Summary**: ......
-- [Read more](https://techcrunch.com/2026/01/23/microsoft-gave-fbi-a-set-of-bitlocker-encryption-keys-to-unlock-suspects-laptops-reports/)
+- [Read more](https://www.ycombinator.com/)
 
-### 'Hey, I'm dying': Decorated Marine texts family goodbye after teens gun him down during Facebook Marketplace 'ruse' to steal his iPhone and sell it at Walmart ecoATM, cops say
-- **Published**: January 23, 2026
-- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1qkwi69/hey_im_dying_decorated_marine_texts_family/"> <img alt="'Hey, I'm dying': Decorated...
-- **Keywords**: down
-- [Read more](https://www.reddit.com/r/technology/comments/1qkwi69/hey_im_dying_decorated_marine_texts_family/)
+### The Problem of Flatness in Ancient Egypt
+- **Published**: January 24, 2026
+- **Summary**: https://www.youtube.com/watch?v=vhv8fAqN1cw</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46740241">https......
+- [Read more](https://www.youtube.com/watch?v=vhv8fAqN1cw)
 
 ---
 
