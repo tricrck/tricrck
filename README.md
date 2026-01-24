@@ -16,17 +16,18 @@
 
 ## 🚨 Tech Stories
 
-### Zensical
+### Pushing Simulation to the Limit to Find Order in Chaos [video]
 - **Published**: January 24, 2026
-- **Summary**: https://zensical.org/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46741534">https://news.ycombinator.com/item?id=46741534</...
-- [Read more](https://zensical.org/)
+- **Summary**: https://www.youtube.com/watch?v=8jVogdTJESw</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46743080">https......
+- **Keywords**: chaos
+- [Read more](https://www.youtube.com/watch?v=8jVogdTJESw)
 
-### Packet Radio
+### Multi-Stage Phishing Campaign Targets Russia with Amnesia RAT and Ransomware
 - **Published**: January 24, 2026
-- **Summary**: https://en.wikipedia.org/wiki/Packet_radio</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46741532">https:/......
-- [Read more](https://en.wikipedia.org/wiki/Packet_radio)
+- **Summary**: A new multi-stage phishing campaign has been observed targeting users in Russia with ransomware and a remote access trojan called Amnesia RAT.
+"The at...
+- [Read more](https://thehackernews.com/2026/01/multi-stage-phishing-campaign-targets.html)
 
 ---
 
