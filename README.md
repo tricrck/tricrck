@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### White House Push AI-Altered Images Of Arrested ICE Protesters To Manufacture Cruelty
-- **Published**: January 24, 2026
-- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1qlxei5/white_house_push_aialtered_images_of_arrested_ice/"> <img alt="White House Push AI-...
-- **Keywords**: protest
-- [Read more](https://www.reddit.com/r/technology/comments/1qlxei5/white_house_push_aialtered_images_of_arrested_ice/)
-
-### Anthropic Economic Index: new building blocks for understanding AI use
+### Deaths and deportations of citizens by Trump administration
 - **Published**: January 25, 2026
-- **Summary**: https://www.anthropic.com/research/economic-index-primitives</a></p>
-<p>Comments URL: <a href="https://news.ycomb......
-- [Read more](https://www.anthropic.com/research/economic-index-primitives)
+- **Summary**: https://en.wikipedia.org/wiki/Deaths,_detentions_and......
+- [Read more](https://en.wikipedia.org/wiki/Deaths,_detentions_and_deportations_of_American_citizens_in_the_second_Trump_administration)
+
+### Jeffrey Way: I'm Done
+- **Published**: January 25, 2026
+- **Summary**: https://www.youtube.com/watch?v=g_Bvo0tsD9s</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46751297">https......
+- [Read more](https://www.youtube.com/watch?v=g_Bvo0tsD9s)
 
 ---
 
