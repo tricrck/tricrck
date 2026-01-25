@@ -16,16 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### SVT-AV1 4.0 Released with More Performance Optimizations
+### Microsoft issues SECOND emergency out of band update for Windows 11 to address disastrous Patch Tuesday bugs — KB5078127 released globally
 - **Published**: January 25, 2026
-- **Summary**: https://www.phoronix.com/news/SVT-AV1-4.0</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46753577">https://n......
-- [Read more](https://www.phoronix.com/news/SVT-AV1-4.0)
+- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1qmnrri/microsoft_issues_second_emergency_out_of_band/"> <img alt="Microsoft issues SECOND ...
+- **Keywords**: emergency, emergency
+- [Read more](https://www.reddit.com/r/technology/comments/1qmnrri/microsoft_issues_second_emergency_out_of_band/)
 
-### LLMs Don't Hallucinate – They Drift
+### An analogy for Machine Learning: It's like baking a cake without a recipe
 - **Published**: January 25, 2026
-- **Summary**: https://figshare.com/article......
-- [Read more](https://figshare.com/articles/conference_contribution/Measuring_Fidelity_Decay_A_Framework_for_Semantic_Drift_and_Collapse/30422107?file=58969378)
+- **Summary**: https://merqur.io/2026/01/25/what-baking-can-teach-us-about-machine-learning/</a></p>
+<p>Comment......
+- [Read more](https://merqur.io/2026/01/25/what-baking-can-teach-us-about-machine-learning/)
 
 ---
 
