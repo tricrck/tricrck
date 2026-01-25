@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Deaths and deportations of citizens by Trump administration
+### SVT-AV1 4.0 Released with More Performance Optimizations
 - **Published**: January 25, 2026
-- **Summary**: https://en.wikipedia.org/wiki/Deaths,_detentions_and......
-- [Read more](https://en.wikipedia.org/wiki/Deaths,_detentions_and_deportations_of_American_citizens_in_the_second_Trump_administration)
+- **Summary**: https://www.phoronix.com/news/SVT-AV1-4.0</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46753577">https://n......
+- [Read more](https://www.phoronix.com/news/SVT-AV1-4.0)
 
-### Jeffrey Way: I'm Done
+### LLMs Don't Hallucinate – They Drift
 - **Published**: January 25, 2026
-- **Summary**: https://www.youtube.com/watch?v=g_Bvo0tsD9s</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46751297">https......
-- [Read more](https://www.youtube.com/watch?v=g_Bvo0tsD9s)
+- **Summary**: https://figshare.com/article......
+- [Read more](https://figshare.com/articles/conference_contribution/Measuring_Fidelity_Decay_A_Framework_for_Semantic_Drift_and_Collapse/30422107?file=58969378)
 
 ---
 
