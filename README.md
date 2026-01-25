@@ -16,16 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Windows 365 going down is a rude awakening for Microsoft's 'Cloud PC' dream
+### White House Push AI-Altered Images Of Arrested ICE Protesters To Manufacture Cruelty
 - **Published**: January 24, 2026
-- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1qlrd1x/windows_365_going_down_is_a_rude_awakening_for/"> <img alt="Windows 365 going down ...
-- **Keywords**: down, down
-- [Read more](https://www.reddit.com/r/technology/comments/1qlrd1x/windows_365_going_down_is_a_rude_awakening_for/)
+- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1qlxei5/white_house_push_aialtered_images_of_arrested_ice/"> <img alt="White House Push AI-...
+- **Keywords**: protest
+- [Read more](https://www.reddit.com/r/technology/comments/1qlxei5/white_house_push_aialtered_images_of_arrested_ice/)
 
-### Show HN: Send encrypted messages to the future (Client-side Time Capsules)
-- **Published**: January 24, 2026
-- **Summary**: <p>I've updated Encrypter.site with a new Time Capsule feature. It lets you "seal" a message that is mathematically impossible to open until a specifi...
-- [Read more](https://www.encrypter.site/)
+### Anthropic Economic Index: new building blocks for understanding AI use
+- **Published**: January 25, 2026
+- **Summary**: https://www.anthropic.com/research/economic-index-primitives</a></p>
+<p>Comments URL: <a href="https://news.ycomb......
+- [Read more](https://www.anthropic.com/research/economic-index-primitives)
 
 ---
 
