@@ -16,16 +16,18 @@
 
 ## 🚨 Tech Stories
 
-### Pragtical Editor v3.8.2 Released
+### Show HN: Privacy-first JSON/YAML toolkit – 100% client-side, no server
 - **Published**: January 26, 2026
-- **Summary**: https://pragtical.dev/blog/pragtical-v382-release</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=467......
-- [Read more](https://pragtical.dev/blog/pragtical-v382-release)
+- **Summary**: https://tools.pinusx.com</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46762461">https://news.ycombinator.com/item?id=467624....
+- [Read more](https://tools.pinusx.com)
 
-### Show HN: Omiu.me – A WYSIWYG profile builder that uses blocks
+### Show HN: We ran a test–92% of local businesses don't show up in AI answers
 - **Published**: January 26, 2026
-- **Summary**: <p>I built OMIU.ME as a small indie project. Not trying to reinvent profile or link-in-bio sites, rather just approach the same idea with a more predi...
-- [Read more](https://omiu.me/)
+- **Summary**: <p>While testing Gemini, ChatGPT, and other LLMs with local, high-intent queries like:
+ • “Where should I advertise my small business in Omaha?”
+ • “B...
+- [Read more](https://getchatalyst.com/)
 
 ---
 
