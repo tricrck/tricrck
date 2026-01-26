@@ -16,18 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Show HN: Privacy-first JSON/YAML toolkit – 100% client-side, no server
+### ⚡ Weekly Recap: Firewall Flaws, AI-Built Malware, Browser Traps, Critical CVEs & More
 - **Published**: January 26, 2026
-- **Summary**: https://tools.pinusx.com</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46762461">https://news.ycombinator.com/item?id=467624....
-- [Read more](https://tools.pinusx.com)
+- **Summary**: Security failures rarely arrive loudly. They slip in through trusted tools, half-fixed problems, and habits people stop questioning. This week’s recap...
+- [Read more](https://thehackernews.com/2026/01/weekly-recap-firewall-flaws-ai-built.html)
 
-### Show HN: We ran a test–92% of local businesses don't show up in AI answers
+### Winning Against AI-Based Attacks Requires a Combined Defensive Approach
 - **Published**: January 26, 2026
-- **Summary**: <p>While testing Gemini, ChatGPT, and other LLMs with local, high-intent queries like:
- • “Where should I advertise my small business in Omaha?”
- • “B...
-- [Read more](https://getchatalyst.com/)
+- **Summary**: If there’s a constant in cybersecurity, it’s that adversaries are always innovating. The rise of offensive AI is transforming attack strategies and ma...
+- [Read more](https://thehackernews.com/2026/01/winning-against-ai-based-attacks.html)
 
 ---
 
