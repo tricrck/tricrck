@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### ⚡ Weekly Recap: Firewall Flaws, AI-Built Malware, Browser Traps, Critical CVEs & More
+### Indian Users Targeted in Tax Phishing Campaign Delivering Blackmoon Malware
 - **Published**: January 26, 2026
-- **Summary**: Security failures rarely arrive loudly. They slip in through trusted tools, half-fixed problems, and habits people stop questioning. This week’s recap...
-- [Read more](https://thehackernews.com/2026/01/weekly-recap-firewall-flaws-ai-built.html)
+- **Summary**: Cybersecurity researchers have discovered an ongoing campaign that's targeting Indian users with a multi-stage backdoor as part of a suspected cyber e...
+- [Read more](https://thehackernews.com/2026/01/indian-users-targeted-in-tax-phishing.html)
 
-### Winning Against AI-Based Attacks Requires a Combined Defensive Approach
+### Malicious VS Code AI Extensions with 1.5 Million Installs Steal Developer Source Code
 - **Published**: January 26, 2026
-- **Summary**: If there’s a constant in cybersecurity, it’s that adversaries are always innovating. The rise of offensive AI is transforming attack strategies and ma...
-- [Read more](https://thehackernews.com/2026/01/winning-against-ai-based-attacks.html)
+- **Summary**: Cybersecurity researchers have discovered two malicious Microsoft Visual Studio Code (VS Code) extensions that are advertised as artificial intelligen...
+- [Read more](https://thehackernews.com/2026/01/malicious-vs-code-ai-extensions-with-15.html)
 
 ---
 
