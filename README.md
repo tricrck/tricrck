@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Microsoft issues SECOND emergency out of band update for Windows 11 to address disastrous Patch Tuesday bugs — KB5078127 released globally
-- **Published**: January 25, 2026
-- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1qmnrri/microsoft_issues_second_emergency_out_of_band/"> <img alt="Microsoft issues SECOND ...
-- **Keywords**: emergency, emergency
-- [Read more](https://www.reddit.com/r/technology/comments/1qmnrri/microsoft_issues_second_emergency_out_of_band/)
+### Pragtical Editor v3.8.2 Released
+- **Published**: January 26, 2026
+- **Summary**: https://pragtical.dev/blog/pragtical-v382-release</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=467......
+- [Read more](https://pragtical.dev/blog/pragtical-v382-release)
 
-### An analogy for Machine Learning: It's like baking a cake without a recipe
-- **Published**: January 25, 2026
-- **Summary**: https://merqur.io/2026/01/25/what-baking-can-teach-us-about-machine-learning/</a></p>
-<p>Comment......
-- [Read more](https://merqur.io/2026/01/25/what-baking-can-teach-us-about-machine-learning/)
+### Show HN: Omiu.me – A WYSIWYG profile builder that uses blocks
+- **Published**: January 26, 2026
+- **Summary**: <p>I built OMIU.ME as a small indie project. Not trying to reinvent profile or link-in-bio sites, rather just approach the same idea with a more predi...
+- [Read more](https://omiu.me/)
 
 ---
 
