@@ -16,15 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Indian Users Targeted in Tax Phishing Campaign Delivering Blackmoon Malware
-- **Published**: January 26, 2026
-- **Summary**: Cybersecurity researchers have discovered an ongoing campaign that's targeting Indian users with a multi-stage backdoor as part of a suspected cyber e...
-- [Read more](https://thehackernews.com/2026/01/indian-users-targeted-in-tax-phishing.html)
+### Low-cost system turns smartphones into emergency radiation detectors
+- **Published**: January 27, 2026
+- **Summary**: https://www.hiroshima-u.ac.jp/en/news/95263</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46774492">https......
+- **Keywords**: emergency
+- [Read more](https://www.hiroshima-u.ac.jp/en/news/95263)
 
-### Malicious VS Code AI Extensions with 1.5 Million Installs Steal Developer Source Code
-- **Published**: January 26, 2026
-- **Summary**: Cybersecurity researchers have discovered two malicious Microsoft Visual Studio Code (VS Code) extensions that are advertised as artificial intelligen...
-- [Read more](https://thehackernews.com/2026/01/malicious-vs-code-ai-extensions-with-15.html)
+### Musk's xAI datacenter generating extra electricity illegally, regulator rules
+- **Published**: January 27, 2026
+- **Summary**: https://www.theguardian.com/technology/2026/jan/15/elon-musk-xai-datacenter-memphis</a></p......
+- [Read more](https://www.theguardian.com/technology/2026/jan/15/elon-musk-xai-datacenter-memphis)
 
 ---
 
