@@ -1,28 +1,28 @@
 {
   "chaos_ranked": [
     {
-      "title": "Microsoft Office Zero-Day (CVE-2026-21509) - Emergency Patch Issued for Active Exploitation",
-      "link": "https://thehackernews.com/2026/01/microsoft-issues-emergency-patch-for.html",
-      "summary": "Microsoft on Monday issued out-of-band security patches for a high-severity Microsoft Office zero-day vulnerability exploited in attacks.\nThe vulnerability, tracked as CVE-2026-21509, carries a CVSS s...",
-      "published": "2026-01-27T16:07:00+05:30",
-      "domain": "thehackernews.com",
+      "title": "Show HN: Fuzz testing tool for MCP servers",
+      "link": "https://github.com/Agent-Hellboy/mcp-server-fuzzer",
+      "summary": "<p>Open-source fuzzer for MCP servers. Goal: make it easy to repeatedly throw malformed/odd requests at servers and catch crashes, hangs, and bad error handling.<p>If you\u2019re building an MCP server, I\u2019...",
+      "published": "2026-01-27T18:32:47+00:00",
+      "domain": "github.com",
       "scores": {
-        "chaos": 12.3,
+        "chaos": 12.5,
         "anarchy": 3.0,
-        "overall": 7.7
+        "overall": 7.8
       },
       "keywords": {
         "chaos": [
-          "emergency"
+          "error"
         ],
         "anarchy": []
       }
     },
     {
-      "title": "CTEM in Practice: Prioritization, Validation, and Outcomes That Matter",
-      "link": "https://thehackernews.com/2026/01/ctem-in-practice-prioritization.html",
-      "summary": "Cybersecurity teams increasingly want to move beyond looking at threats and vulnerabilities in isolation. It\u2019s not only about what could go wrong (vulnerabilities) or who might attack (threats), but w...",
-      "published": "2026-01-27T17:20:00+05:30",
+      "title": "WhatsApp Rolls Out Lockdown-Style Security Mode to Protect Targeted Users From Spyware",
+      "link": "https://thehackernews.com/2026/01/whatsapp-rolls-out-lockdown-style.html",
+      "summary": "Meta on Tuesday announced it's adding Strict Account Settings on WhatsApp to secure certain users against advanced cyber attacks because of who they are and what they do.\nThe feature, similar to Lockd...",
+      "published": "2026-01-27T22:24:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -35,10 +35,10 @@
       }
     },
     {
-      "title": "Critical Grist-Core Vulnerability Allows RCE Attacks via Spreadsheet Formulas",
-      "link": "https://thehackernews.com/2026/01/critical-grist-core-vulnerability.html",
-      "summary": "A critical security flaw has been disclosed in Grist\u2011Core, an open-source, self-hosted version of the Grist relational spreadsheet-database, that could result in remote code execution.\nThe vulnerabili...",
-      "published": "2026-01-27T16:06:00+05:30",
+      "title": "Experts Detect Pakistan-Linked Cyber Campaigns Aimed at Indian Government Entities",
+      "link": "https://thehackernews.com/2026/01/experts-detect-pakistan-linked-cyber.html",
+      "summary": "Indian government entities have been targeted in two campaigns undertaken by a threat actor that operates in Pakistan using previously undocumented tradecraft.\nThe campaigns have been codenamed Gopher...",
+      "published": "2026-01-27T22:15:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -51,10 +51,10 @@
       }
     },
     {
-      "title": "China-Linked Hackers Have Used the PeckBirdy JavaScript C2 Framework Since 2023",
-      "link": "https://thehackernews.com/2026/01/china-linked-hackers-have-used.html",
-      "summary": "Cybersecurity researchers have discovered a JScript-based command-and-control (C2) framework called PeckBirdy that has been put to use by China-aligned APT actors since 2023 to target multiple environ...",
-      "published": "2026-01-27T14:31:00+05:30",
+      "title": "ClickFix Attacks Expand Using Fake CAPTCHAs, Microsoft Scripts, and Trusted Web Services",
+      "link": "https://thehackernews.com/2026/01/clickfix-attacks-expand-using-fake.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new campaign that combines ClickFix-style fake CAPTCHAs with a signed Microsoft Application Virtualization (App-V) script to distribute an informa...",
+      "published": "2026-01-27T20:08:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -67,10 +67,26 @@
       }
     },
     {
-      "title": "Show HN: Oauth2-Proxy-Injector",
-      "link": "https://github.com/spacemule/oauth2-proxy-injector",
-      "summary": "<p>A few weeks ago I could barely code in python, and I could not code a single line of go. After seeing claude handle a work project impressively, I decided to try using it to teach me to code. I ask...",
-      "published": "2026-01-27T12:48:53+00:00",
+      "title": "Google DeepMind Staffers Ask Leaders to Keep Them 'Physically Safe' from ICE",
+      "link": "https://www.wired.com/story/google-deepmind-staffers-ice-office-questions-safety/",
+      "summary": "<p>Article URL: <a href=\"https://www.wired.com/story/google-deepmind-staffers-ice-office-questions-safety/\">https://www.wired.com/story/google-deepmind-staffers-ice-office-questions-safety/</a></p>\n<p...",
+      "published": "2026-01-27T18:33:05+00:00",
+      "domain": "wired.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Mystral Native \u2013 Run JavaScript games natively with WebGPU (no browser)",
+      "link": "https://github.com/mystralengine/mystralnative",
+      "summary": "<p>Hi HN, I've been building Mystral Native \u2014 a lightweight native runtime that lets you write games in JavaScript/TypeScript using standard Web APIs (WebGPU, Canvas 2D, Web Audio, fetch) and run them...",
+      "published": "2026-01-27T18:33:05+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -83,75 +99,59 @@
       }
     },
     {
-      "title": "Addressing the Lack of Built-In Storage in UK Housing",
-      "link": "https://dreamhomestore.co.uk/collections/bedroom-furniture-sets",
-      "summary": "<p>Article URL: <a href=\"https://dreamhomestore.co.uk/collections/bedroom-furniture-sets\">https://dreamhomestore.co.uk/collections/bedroom-furniture-sets</a></p>\n<p>Comments URL: <a href=\"https://news...",
-      "published": "2026-01-27T12:48:15+00:00",
-      "domain": "dreamhomestore.co.uk",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The birth of a WATERBEAR 1000x magnification [video]",
-      "link": "https://www.youtube.com/shorts/d3jvvqwaaIE",
-      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/shorts/d3jvvqwaaIE\">https://www.youtube.com/shorts/d3jvvqwaaIE</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46779274\">https:/...",
-      "published": "2026-01-27T12:47:32+00:00",
-      "domain": "youtube.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Snowflake Koch Fractal",
-      "link": "https://xaya-e.bearblog.dev/11-xaya-advent/",
-      "summary": "<p>Article URL: <a href=\"https://xaya-e.bearblog.dev/11-xaya-advent/\">https://xaya-e.bearblog.dev/11-xaya-advent/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46779266\">https...",
-      "published": "2026-01-27T12:46:55+00:00",
-      "domain": "xaya-e.bearblog.dev",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The 80s Movies Rewind",
-      "link": "https://www.fast-rewind.com/index.html",
-      "summary": "<p>Article URL: <a href=\"https://www.fast-rewind.com/index.html\">https://www.fast-rewind.com/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46779265\">https://news.yc...",
-      "published": "2026-01-27T12:46:53+00:00",
-      "domain": "fast-rewind.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Ask HN: Books to learn 6502 ASM and the Apple II",
-      "link": "https://news.ycombinator.com/item?id=46778461",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=46778461\">Comments</a>...",
-      "published": "2026-01-27T11:12:30+00:00",
+      "title": "Ask HN: If OpenAI stops its free Web service (ChatGPT)",
+      "link": "https://news.ycombinator.com/item?id=46784213",
+      "summary": "<p>What kind of local LLM can I use to at least check my code?</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46784213\">https://news.ycombinator.com/item?id=46784213</a></p>...",
+      "published": "2026-01-27T18:32:39+00:00",
       "domain": "news.ycombinator.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "LLM-as-a-Courtroom",
+      "link": "https://falconer.com/notes/llm-as-a-courtroom/",
+      "summary": "<p>Article URL: <a href=\"https://falconer.com/notes/llm-as-a-courtroom/\">https://falconer.com/notes/llm-as-a-courtroom/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46784210\"...",
+      "published": "2026-01-27T18:32:36+00:00",
+      "domain": "falconer.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Google AI Plus is now available everywhere our AI plans are available, including the U.S.",
+      "link": "https://blog.google/products-and-platforms/products/google-one/google-ai-plus-availability/",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_AI_Plus_Hero_Visual_2096.max-600x600.format-webp_4ffr2GI.webp\" />We\u2019re launching Google AI Plus in 35 new countries and...",
+      "published": "2026-01-27T18:00:00+00:00",
+      "domain": "blog.google",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "CTEM in Practice: Prioritization, Validation, and Outcomes That Matter",
+      "link": "https://thehackernews.com/2026/01/ctem-in-practice-prioritization.html",
+      "summary": "Cybersecurity teams increasingly want to move beyond looking at threats and vulnerabilities in isolation. It\u2019s not only about what could go wrong (vulnerabilities) or who might attack (threats), but w...",
+      "published": "2026-01-27T17:20:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -165,10 +165,10 @@
   ],
   "anarchy_ranked": [
     {
-      "title": "CTEM in Practice: Prioritization, Validation, and Outcomes That Matter",
-      "link": "https://thehackernews.com/2026/01/ctem-in-practice-prioritization.html",
-      "summary": "Cybersecurity teams increasingly want to move beyond looking at threats and vulnerabilities in isolation. It\u2019s not only about what could go wrong (vulnerabilities) or who might attack (threats), but w...",
-      "published": "2026-01-27T17:20:00+05:30",
+      "title": "WhatsApp Rolls Out Lockdown-Style Security Mode to Protect Targeted Users From Spyware",
+      "link": "https://thehackernews.com/2026/01/whatsapp-rolls-out-lockdown-style.html",
+      "summary": "Meta on Tuesday announced it's adding Strict Account Settings on WhatsApp to secure certain users against advanced cyber attacks because of who they are and what they do.\nThe feature, similar to Lockd...",
+      "published": "2026-01-27T22:24:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -181,28 +181,10 @@
       }
     },
     {
-      "title": "Microsoft Office Zero-Day (CVE-2026-21509) - Emergency Patch Issued for Active Exploitation",
-      "link": "https://thehackernews.com/2026/01/microsoft-issues-emergency-patch-for.html",
-      "summary": "Microsoft on Monday issued out-of-band security patches for a high-severity Microsoft Office zero-day vulnerability exploited in attacks.\nThe vulnerability, tracked as CVE-2026-21509, carries a CVSS s...",
-      "published": "2026-01-27T16:07:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 12.3,
-        "anarchy": 3.0,
-        "overall": 7.7
-      },
-      "keywords": {
-        "chaos": [
-          "emergency"
-        ],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Critical Grist-Core Vulnerability Allows RCE Attacks via Spreadsheet Formulas",
-      "link": "https://thehackernews.com/2026/01/critical-grist-core-vulnerability.html",
-      "summary": "A critical security flaw has been disclosed in Grist\u2011Core, an open-source, self-hosted version of the Grist relational spreadsheet-database, that could result in remote code execution.\nThe vulnerabili...",
-      "published": "2026-01-27T16:06:00+05:30",
+      "title": "Experts Detect Pakistan-Linked Cyber Campaigns Aimed at Indian Government Entities",
+      "link": "https://thehackernews.com/2026/01/experts-detect-pakistan-linked-cyber.html",
+      "summary": "Indian government entities have been targeted in two campaigns undertaken by a threat actor that operates in Pakistan using previously undocumented tradecraft.\nThe campaigns have been codenamed Gopher...",
+      "published": "2026-01-27T22:15:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -215,10 +197,10 @@
       }
     },
     {
-      "title": "China-Linked Hackers Have Used the PeckBirdy JavaScript C2 Framework Since 2023",
-      "link": "https://thehackernews.com/2026/01/china-linked-hackers-have-used.html",
-      "summary": "Cybersecurity researchers have discovered a JScript-based command-and-control (C2) framework called PeckBirdy that has been put to use by China-aligned APT actors since 2023 to target multiple environ...",
-      "published": "2026-01-27T14:31:00+05:30",
+      "title": "ClickFix Attacks Expand Using Fake CAPTCHAs, Microsoft Scripts, and Trusted Web Services",
+      "link": "https://thehackernews.com/2026/01/clickfix-attacks-expand-using-fake.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new campaign that combines ClickFix-style fake CAPTCHAs with a signed Microsoft Application Virtualization (App-V) script to distribute an informa...",
+      "published": "2026-01-27T20:08:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -231,10 +213,26 @@
       }
     },
     {
-      "title": "Show HN: Oauth2-Proxy-Injector",
-      "link": "https://github.com/spacemule/oauth2-proxy-injector",
-      "summary": "<p>A few weeks ago I could barely code in python, and I could not code a single line of go. After seeing claude handle a work project impressively, I decided to try using it to teach me to code. I ask...",
-      "published": "2026-01-27T12:48:53+00:00",
+      "title": "Google DeepMind Staffers Ask Leaders to Keep Them 'Physically Safe' from ICE",
+      "link": "https://www.wired.com/story/google-deepmind-staffers-ice-office-questions-safety/",
+      "summary": "<p>Article URL: <a href=\"https://www.wired.com/story/google-deepmind-staffers-ice-office-questions-safety/\">https://www.wired.com/story/google-deepmind-staffers-ice-office-questions-safety/</a></p>\n<p...",
+      "published": "2026-01-27T18:33:05+00:00",
+      "domain": "wired.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Mystral Native \u2013 Run JavaScript games natively with WebGPU (no browser)",
+      "link": "https://github.com/mystralengine/mystralnative",
+      "summary": "<p>Hi HN, I've been building Mystral Native \u2014 a lightweight native runtime that lets you write games in JavaScript/TypeScript using standard Web APIs (WebGPU, Canvas 2D, Web Audio, fetch) and run them...",
+      "published": "2026-01-27T18:33:05+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -247,75 +245,77 @@
       }
     },
     {
-      "title": "Addressing the Lack of Built-In Storage in UK Housing",
-      "link": "https://dreamhomestore.co.uk/collections/bedroom-furniture-sets",
-      "summary": "<p>Article URL: <a href=\"https://dreamhomestore.co.uk/collections/bedroom-furniture-sets\">https://dreamhomestore.co.uk/collections/bedroom-furniture-sets</a></p>\n<p>Comments URL: <a href=\"https://news...",
-      "published": "2026-01-27T12:48:15+00:00",
-      "domain": "dreamhomestore.co.uk",
+      "title": "Show HN: Fuzz testing tool for MCP servers",
+      "link": "https://github.com/Agent-Hellboy/mcp-server-fuzzer",
+      "summary": "<p>Open-source fuzzer for MCP servers. Goal: make it easy to repeatedly throw malformed/odd requests at servers and catch crashes, hangs, and bad error handling.<p>If you\u2019re building an MCP server, I\u2019...",
+      "published": "2026-01-27T18:32:47+00:00",
+      "domain": "github.com",
       "scores": {
-        "chaos": 3.0,
+        "chaos": 12.5,
         "anarchy": 3.0,
-        "overall": 3.0
+        "overall": 7.8
       },
       "keywords": {
-        "chaos": [],
+        "chaos": [
+          "error"
+        ],
         "anarchy": []
       }
     },
     {
-      "title": "The birth of a WATERBEAR 1000x magnification [video]",
-      "link": "https://www.youtube.com/shorts/d3jvvqwaaIE",
-      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/shorts/d3jvvqwaaIE\">https://www.youtube.com/shorts/d3jvvqwaaIE</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46779274\">https:/...",
-      "published": "2026-01-27T12:47:32+00:00",
-      "domain": "youtube.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Snowflake Koch Fractal",
-      "link": "https://xaya-e.bearblog.dev/11-xaya-advent/",
-      "summary": "<p>Article URL: <a href=\"https://xaya-e.bearblog.dev/11-xaya-advent/\">https://xaya-e.bearblog.dev/11-xaya-advent/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46779266\">https...",
-      "published": "2026-01-27T12:46:55+00:00",
-      "domain": "xaya-e.bearblog.dev",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The 80s Movies Rewind",
-      "link": "https://www.fast-rewind.com/index.html",
-      "summary": "<p>Article URL: <a href=\"https://www.fast-rewind.com/index.html\">https://www.fast-rewind.com/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46779265\">https://news.yc...",
-      "published": "2026-01-27T12:46:53+00:00",
-      "domain": "fast-rewind.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Ask HN: Books to learn 6502 ASM and the Apple II",
-      "link": "https://news.ycombinator.com/item?id=46778461",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=46778461\">Comments</a>...",
-      "published": "2026-01-27T11:12:30+00:00",
+      "title": "Ask HN: If OpenAI stops its free Web service (ChatGPT)",
+      "link": "https://news.ycombinator.com/item?id=46784213",
+      "summary": "<p>What kind of local LLM can I use to at least check my code?</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46784213\">https://news.ycombinator.com/item?id=46784213</a></p>...",
+      "published": "2026-01-27T18:32:39+00:00",
       "domain": "news.ycombinator.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "LLM-as-a-Courtroom",
+      "link": "https://falconer.com/notes/llm-as-a-courtroom/",
+      "summary": "<p>Article URL: <a href=\"https://falconer.com/notes/llm-as-a-courtroom/\">https://falconer.com/notes/llm-as-a-courtroom/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46784210\"...",
+      "published": "2026-01-27T18:32:36+00:00",
+      "domain": "falconer.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Google AI Plus is now available everywhere our AI plans are available, including the U.S.",
+      "link": "https://blog.google/products-and-platforms/products/google-one/google-ai-plus-availability/",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_AI_Plus_Hero_Visual_2096.max-600x600.format-webp_4ffr2GI.webp\" />We\u2019re launching Google AI Plus in 35 new countries and...",
+      "published": "2026-01-27T18:00:00+00:00",
+      "domain": "blog.google",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "CTEM in Practice: Prioritization, Validation, and Outcomes That Matter",
+      "link": "https://thehackernews.com/2026/01/ctem-in-practice-prioritization.html",
+      "summary": "Cybersecurity teams increasingly want to move beyond looking at threats and vulnerabilities in isolation. It\u2019s not only about what could go wrong (vulnerabilities) or who might attack (threats), but w...",
+      "published": "2026-01-27T17:20:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -329,28 +329,28 @@
   ],
   "overall_ranked": [
     {
-      "title": "Microsoft Office Zero-Day (CVE-2026-21509) - Emergency Patch Issued for Active Exploitation",
-      "link": "https://thehackernews.com/2026/01/microsoft-issues-emergency-patch-for.html",
-      "summary": "Microsoft on Monday issued out-of-band security patches for a high-severity Microsoft Office zero-day vulnerability exploited in attacks.\nThe vulnerability, tracked as CVE-2026-21509, carries a CVSS s...",
-      "published": "2026-01-27T16:07:00+05:30",
-      "domain": "thehackernews.com",
+      "title": "Show HN: Fuzz testing tool for MCP servers",
+      "link": "https://github.com/Agent-Hellboy/mcp-server-fuzzer",
+      "summary": "<p>Open-source fuzzer for MCP servers. Goal: make it easy to repeatedly throw malformed/odd requests at servers and catch crashes, hangs, and bad error handling.<p>If you\u2019re building an MCP server, I\u2019...",
+      "published": "2026-01-27T18:32:47+00:00",
+      "domain": "github.com",
       "scores": {
-        "chaos": 12.3,
+        "chaos": 12.5,
         "anarchy": 3.0,
-        "overall": 7.7
+        "overall": 7.8
       },
       "keywords": {
         "chaos": [
-          "emergency"
+          "error"
         ],
         "anarchy": []
       }
     },
     {
-      "title": "CTEM in Practice: Prioritization, Validation, and Outcomes That Matter",
-      "link": "https://thehackernews.com/2026/01/ctem-in-practice-prioritization.html",
-      "summary": "Cybersecurity teams increasingly want to move beyond looking at threats and vulnerabilities in isolation. It\u2019s not only about what could go wrong (vulnerabilities) or who might attack (threats), but w...",
-      "published": "2026-01-27T17:20:00+05:30",
+      "title": "WhatsApp Rolls Out Lockdown-Style Security Mode to Protect Targeted Users From Spyware",
+      "link": "https://thehackernews.com/2026/01/whatsapp-rolls-out-lockdown-style.html",
+      "summary": "Meta on Tuesday announced it's adding Strict Account Settings on WhatsApp to secure certain users against advanced cyber attacks because of who they are and what they do.\nThe feature, similar to Lockd...",
+      "published": "2026-01-27T22:24:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -363,10 +363,10 @@
       }
     },
     {
-      "title": "Critical Grist-Core Vulnerability Allows RCE Attacks via Spreadsheet Formulas",
-      "link": "https://thehackernews.com/2026/01/critical-grist-core-vulnerability.html",
-      "summary": "A critical security flaw has been disclosed in Grist\u2011Core, an open-source, self-hosted version of the Grist relational spreadsheet-database, that could result in remote code execution.\nThe vulnerabili...",
-      "published": "2026-01-27T16:06:00+05:30",
+      "title": "Experts Detect Pakistan-Linked Cyber Campaigns Aimed at Indian Government Entities",
+      "link": "https://thehackernews.com/2026/01/experts-detect-pakistan-linked-cyber.html",
+      "summary": "Indian government entities have been targeted in two campaigns undertaken by a threat actor that operates in Pakistan using previously undocumented tradecraft.\nThe campaigns have been codenamed Gopher...",
+      "published": "2026-01-27T22:15:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -379,10 +379,10 @@
       }
     },
     {
-      "title": "China-Linked Hackers Have Used the PeckBirdy JavaScript C2 Framework Since 2023",
-      "link": "https://thehackernews.com/2026/01/china-linked-hackers-have-used.html",
-      "summary": "Cybersecurity researchers have discovered a JScript-based command-and-control (C2) framework called PeckBirdy that has been put to use by China-aligned APT actors since 2023 to target multiple environ...",
-      "published": "2026-01-27T14:31:00+05:30",
+      "title": "ClickFix Attacks Expand Using Fake CAPTCHAs, Microsoft Scripts, and Trusted Web Services",
+      "link": "https://thehackernews.com/2026/01/clickfix-attacks-expand-using-fake.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new campaign that combines ClickFix-style fake CAPTCHAs with a signed Microsoft Application Virtualization (App-V) script to distribute an informa...",
+      "published": "2026-01-27T20:08:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -395,10 +395,26 @@
       }
     },
     {
-      "title": "Show HN: Oauth2-Proxy-Injector",
-      "link": "https://github.com/spacemule/oauth2-proxy-injector",
-      "summary": "<p>A few weeks ago I could barely code in python, and I could not code a single line of go. After seeing claude handle a work project impressively, I decided to try using it to teach me to code. I ask...",
-      "published": "2026-01-27T12:48:53+00:00",
+      "title": "Google DeepMind Staffers Ask Leaders to Keep Them 'Physically Safe' from ICE",
+      "link": "https://www.wired.com/story/google-deepmind-staffers-ice-office-questions-safety/",
+      "summary": "<p>Article URL: <a href=\"https://www.wired.com/story/google-deepmind-staffers-ice-office-questions-safety/\">https://www.wired.com/story/google-deepmind-staffers-ice-office-questions-safety/</a></p>\n<p...",
+      "published": "2026-01-27T18:33:05+00:00",
+      "domain": "wired.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Mystral Native \u2013 Run JavaScript games natively with WebGPU (no browser)",
+      "link": "https://github.com/mystralengine/mystralnative",
+      "summary": "<p>Hi HN, I've been building Mystral Native \u2014 a lightweight native runtime that lets you write games in JavaScript/TypeScript using standard Web APIs (WebGPU, Canvas 2D, Web Audio, fetch) and run them...",
+      "published": "2026-01-27T18:33:05+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -411,75 +427,59 @@
       }
     },
     {
-      "title": "Addressing the Lack of Built-In Storage in UK Housing",
-      "link": "https://dreamhomestore.co.uk/collections/bedroom-furniture-sets",
-      "summary": "<p>Article URL: <a href=\"https://dreamhomestore.co.uk/collections/bedroom-furniture-sets\">https://dreamhomestore.co.uk/collections/bedroom-furniture-sets</a></p>\n<p>Comments URL: <a href=\"https://news...",
-      "published": "2026-01-27T12:48:15+00:00",
-      "domain": "dreamhomestore.co.uk",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The birth of a WATERBEAR 1000x magnification [video]",
-      "link": "https://www.youtube.com/shorts/d3jvvqwaaIE",
-      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/shorts/d3jvvqwaaIE\">https://www.youtube.com/shorts/d3jvvqwaaIE</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46779274\">https:/...",
-      "published": "2026-01-27T12:47:32+00:00",
-      "domain": "youtube.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Snowflake Koch Fractal",
-      "link": "https://xaya-e.bearblog.dev/11-xaya-advent/",
-      "summary": "<p>Article URL: <a href=\"https://xaya-e.bearblog.dev/11-xaya-advent/\">https://xaya-e.bearblog.dev/11-xaya-advent/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46779266\">https...",
-      "published": "2026-01-27T12:46:55+00:00",
-      "domain": "xaya-e.bearblog.dev",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The 80s Movies Rewind",
-      "link": "https://www.fast-rewind.com/index.html",
-      "summary": "<p>Article URL: <a href=\"https://www.fast-rewind.com/index.html\">https://www.fast-rewind.com/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46779265\">https://news.yc...",
-      "published": "2026-01-27T12:46:53+00:00",
-      "domain": "fast-rewind.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Ask HN: Books to learn 6502 ASM and the Apple II",
-      "link": "https://news.ycombinator.com/item?id=46778461",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=46778461\">Comments</a>...",
-      "published": "2026-01-27T11:12:30+00:00",
+      "title": "Ask HN: If OpenAI stops its free Web service (ChatGPT)",
+      "link": "https://news.ycombinator.com/item?id=46784213",
+      "summary": "<p>What kind of local LLM can I use to at least check my code?</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46784213\">https://news.ycombinator.com/item?id=46784213</a></p>...",
+      "published": "2026-01-27T18:32:39+00:00",
       "domain": "news.ycombinator.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "LLM-as-a-Courtroom",
+      "link": "https://falconer.com/notes/llm-as-a-courtroom/",
+      "summary": "<p>Article URL: <a href=\"https://falconer.com/notes/llm-as-a-courtroom/\">https://falconer.com/notes/llm-as-a-courtroom/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46784210\"...",
+      "published": "2026-01-27T18:32:36+00:00",
+      "domain": "falconer.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Google AI Plus is now available everywhere our AI plans are available, including the U.S.",
+      "link": "https://blog.google/products-and-platforms/products/google-one/google-ai-plus-availability/",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_AI_Plus_Hero_Visual_2096.max-600x600.format-webp_4ffr2GI.webp\" />We\u2019re launching Google AI Plus in 35 new countries and...",
+      "published": "2026-01-27T18:00:00+00:00",
+      "domain": "blog.google",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "CTEM in Practice: Prioritization, Validation, and Outcomes That Matter",
+      "link": "https://thehackernews.com/2026/01/ctem-in-practice-prioritization.html",
+      "summary": "Cybersecurity teams increasingly want to move beyond looking at threats and vulnerabilities in isolation. It\u2019s not only about what could go wrong (vulnerabilities) or who might attack (threats), but w...",
+      "published": "2026-01-27T17:20:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -493,10 +493,10 @@
   ],
   "all_articles": [
     {
-      "title": "CTEM in Practice: Prioritization, Validation, and Outcomes That Matter",
-      "link": "https://thehackernews.com/2026/01/ctem-in-practice-prioritization.html",
-      "summary": "Cybersecurity teams increasingly want to move beyond looking at threats and vulnerabilities in isolation. It\u2019s not only about what could go wrong (vulnerabilities) or who might attack (threats), but w...",
-      "published": "2026-01-27T17:20:00+05:30",
+      "title": "WhatsApp Rolls Out Lockdown-Style Security Mode to Protect Targeted Users From Spyware",
+      "link": "https://thehackernews.com/2026/01/whatsapp-rolls-out-lockdown-style.html",
+      "summary": "Meta on Tuesday announced it's adding Strict Account Settings on WhatsApp to secure certain users against advanced cyber attacks because of who they are and what they do.\nThe feature, similar to Lockd...",
+      "published": "2026-01-27T22:24:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -509,28 +509,10 @@
       }
     },
     {
-      "title": "Microsoft Office Zero-Day (CVE-2026-21509) - Emergency Patch Issued for Active Exploitation",
-      "link": "https://thehackernews.com/2026/01/microsoft-issues-emergency-patch-for.html",
-      "summary": "Microsoft on Monday issued out-of-band security patches for a high-severity Microsoft Office zero-day vulnerability exploited in attacks.\nThe vulnerability, tracked as CVE-2026-21509, carries a CVSS s...",
-      "published": "2026-01-27T16:07:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 12.3,
-        "anarchy": 3.0,
-        "overall": 7.7
-      },
-      "keywords": {
-        "chaos": [
-          "emergency"
-        ],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Critical Grist-Core Vulnerability Allows RCE Attacks via Spreadsheet Formulas",
-      "link": "https://thehackernews.com/2026/01/critical-grist-core-vulnerability.html",
-      "summary": "A critical security flaw has been disclosed in Grist\u2011Core, an open-source, self-hosted version of the Grist relational spreadsheet-database, that could result in remote code execution.\nThe vulnerabili...",
-      "published": "2026-01-27T16:06:00+05:30",
+      "title": "Experts Detect Pakistan-Linked Cyber Campaigns Aimed at Indian Government Entities",
+      "link": "https://thehackernews.com/2026/01/experts-detect-pakistan-linked-cyber.html",
+      "summary": "Indian government entities have been targeted in two campaigns undertaken by a threat actor that operates in Pakistan using previously undocumented tradecraft.\nThe campaigns have been codenamed Gopher...",
+      "published": "2026-01-27T22:15:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -543,10 +525,10 @@
       }
     },
     {
-      "title": "China-Linked Hackers Have Used the PeckBirdy JavaScript C2 Framework Since 2023",
-      "link": "https://thehackernews.com/2026/01/china-linked-hackers-have-used.html",
-      "summary": "Cybersecurity researchers have discovered a JScript-based command-and-control (C2) framework called PeckBirdy that has been put to use by China-aligned APT actors since 2023 to target multiple environ...",
-      "published": "2026-01-27T14:31:00+05:30",
+      "title": "ClickFix Attacks Expand Using Fake CAPTCHAs, Microsoft Scripts, and Trusted Web Services",
+      "link": "https://thehackernews.com/2026/01/clickfix-attacks-expand-using-fake.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new campaign that combines ClickFix-style fake CAPTCHAs with a signed Microsoft Application Virtualization (App-V) script to distribute an informa...",
+      "published": "2026-01-27T20:08:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -559,10 +541,26 @@
       }
     },
     {
-      "title": "Show HN: Oauth2-Proxy-Injector",
-      "link": "https://github.com/spacemule/oauth2-proxy-injector",
-      "summary": "<p>A few weeks ago I could barely code in python, and I could not code a single line of go. After seeing claude handle a work project impressively, I decided to try using it to teach me to code. I ask...",
-      "published": "2026-01-27T12:48:53+00:00",
+      "title": "Google DeepMind Staffers Ask Leaders to Keep Them 'Physically Safe' from ICE",
+      "link": "https://www.wired.com/story/google-deepmind-staffers-ice-office-questions-safety/",
+      "summary": "<p>Article URL: <a href=\"https://www.wired.com/story/google-deepmind-staffers-ice-office-questions-safety/\">https://www.wired.com/story/google-deepmind-staffers-ice-office-questions-safety/</a></p>\n<p...",
+      "published": "2026-01-27T18:33:05+00:00",
+      "domain": "wired.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Mystral Native \u2013 Run JavaScript games natively with WebGPU (no browser)",
+      "link": "https://github.com/mystralengine/mystralnative",
+      "summary": "<p>Hi HN, I've been building Mystral Native \u2014 a lightweight native runtime that lets you write games in JavaScript/TypeScript using standard Web APIs (WebGPU, Canvas 2D, Web Audio, fetch) and run them...",
+      "published": "2026-01-27T18:33:05+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -575,75 +573,77 @@
       }
     },
     {
-      "title": "Addressing the Lack of Built-In Storage in UK Housing",
-      "link": "https://dreamhomestore.co.uk/collections/bedroom-furniture-sets",
-      "summary": "<p>Article URL: <a href=\"https://dreamhomestore.co.uk/collections/bedroom-furniture-sets\">https://dreamhomestore.co.uk/collections/bedroom-furniture-sets</a></p>\n<p>Comments URL: <a href=\"https://news...",
-      "published": "2026-01-27T12:48:15+00:00",
-      "domain": "dreamhomestore.co.uk",
+      "title": "Show HN: Fuzz testing tool for MCP servers",
+      "link": "https://github.com/Agent-Hellboy/mcp-server-fuzzer",
+      "summary": "<p>Open-source fuzzer for MCP servers. Goal: make it easy to repeatedly throw malformed/odd requests at servers and catch crashes, hangs, and bad error handling.<p>If you\u2019re building an MCP server, I\u2019...",
+      "published": "2026-01-27T18:32:47+00:00",
+      "domain": "github.com",
       "scores": {
-        "chaos": 3.0,
+        "chaos": 12.5,
         "anarchy": 3.0,
-        "overall": 3.0
+        "overall": 7.8
       },
       "keywords": {
-        "chaos": [],
+        "chaos": [
+          "error"
+        ],
         "anarchy": []
       }
     },
     {
-      "title": "The birth of a WATERBEAR 1000x magnification [video]",
-      "link": "https://www.youtube.com/shorts/d3jvvqwaaIE",
-      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/shorts/d3jvvqwaaIE\">https://www.youtube.com/shorts/d3jvvqwaaIE</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46779274\">https:/...",
-      "published": "2026-01-27T12:47:32+00:00",
-      "domain": "youtube.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Snowflake Koch Fractal",
-      "link": "https://xaya-e.bearblog.dev/11-xaya-advent/",
-      "summary": "<p>Article URL: <a href=\"https://xaya-e.bearblog.dev/11-xaya-advent/\">https://xaya-e.bearblog.dev/11-xaya-advent/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46779266\">https...",
-      "published": "2026-01-27T12:46:55+00:00",
-      "domain": "xaya-e.bearblog.dev",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The 80s Movies Rewind",
-      "link": "https://www.fast-rewind.com/index.html",
-      "summary": "<p>Article URL: <a href=\"https://www.fast-rewind.com/index.html\">https://www.fast-rewind.com/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46779265\">https://news.yc...",
-      "published": "2026-01-27T12:46:53+00:00",
-      "domain": "fast-rewind.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Ask HN: Books to learn 6502 ASM and the Apple II",
-      "link": "https://news.ycombinator.com/item?id=46778461",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=46778461\">Comments</a>...",
-      "published": "2026-01-27T11:12:30+00:00",
+      "title": "Ask HN: If OpenAI stops its free Web service (ChatGPT)",
+      "link": "https://news.ycombinator.com/item?id=46784213",
+      "summary": "<p>What kind of local LLM can I use to at least check my code?</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46784213\">https://news.ycombinator.com/item?id=46784213</a></p>...",
+      "published": "2026-01-27T18:32:39+00:00",
       "domain": "news.ycombinator.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "LLM-as-a-Courtroom",
+      "link": "https://falconer.com/notes/llm-as-a-courtroom/",
+      "summary": "<p>Article URL: <a href=\"https://falconer.com/notes/llm-as-a-courtroom/\">https://falconer.com/notes/llm-as-a-courtroom/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46784210\"...",
+      "published": "2026-01-27T18:32:36+00:00",
+      "domain": "falconer.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Google AI Plus is now available everywhere our AI plans are available, including the U.S.",
+      "link": "https://blog.google/products-and-platforms/products/google-one/google-ai-plus-availability/",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_AI_Plus_Hero_Visual_2096.max-600x600.format-webp_4ffr2GI.webp\" />We\u2019re launching Google AI Plus in 35 new countries and...",
+      "published": "2026-01-27T18:00:00+00:00",
+      "domain": "blog.google",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "CTEM in Practice: Prioritization, Validation, and Outcomes That Matter",
+      "link": "https://thehackernews.com/2026/01/ctem-in-practice-prioritization.html",
+      "summary": "Cybersecurity teams increasingly want to move beyond looking at threats and vulnerabilities in isolation. It\u2019s not only about what could go wrong (vulnerabilities) or who might attack (threats), but w...",
+      "published": "2026-01-27T17:20:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,

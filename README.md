@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Microsoft Office Zero-Day (CVE-2026-21509) - Emergency Patch Issued for Active Exploitation
+### Show HN: Fuzz testing tool for MCP servers
 - **Published**: January 27, 2026
-- **Summary**: Microsoft on Monday issued out-of-band security patches for a high-severity Microsoft Office zero-day vulnerability exploited in attacks.
-The vulnerab...
-- **Keywords**: emergency
-- [Read more](https://thehackernews.com/2026/01/microsoft-issues-emergency-patch-for.html)
+- **Summary**: <p>Open-source fuzzer for MCP servers. Goal: make it easy to repeatedly throw malformed/odd requests at servers and catch crashes, hangs, and bad erro...
+- **Keywords**: error
+- [Read more](https://github.com/Agent-Hellboy/mcp-server-fuzzer)
 
-### CTEM in Practice: Prioritization, Validation, and Outcomes That Matter
+### WhatsApp Rolls Out Lockdown-Style Security Mode to Protect Targeted Users From Spyware
 - **Published**: January 27, 2026
-- **Summary**: Cybersecurity teams increasingly want to move beyond looking at threats and vulnerabilities in isolation. It’s not only about what could go wrong (vul...
-- [Read more](https://thehackernews.com/2026/01/ctem-in-practice-prioritization.html)
+- **Summary**: Meta on Tuesday announced it's adding Strict Account Settings on WhatsApp to secure certain users against advanced cyber attacks because of who they a...
+- [Read more](https://thehackernews.com/2026/01/whatsapp-rolls-out-lockdown-style.html)
 
 ---
 
