@@ -16,16 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### TikTok alternative Skylight soars to 380K+ users after TikTok US deal finalized
+### Microsoft Office Zero-Day (CVE-2026-21509) - Emergency Patch Issued for Active Exploitation
 - **Published**: January 27, 2026
-- **Summary**: https://techcrunch.com/2026/01/26/tiktok-alternative-skylig......
-- [Read more](https://techcrunch.com/2026/01/26/tiktok-alternative-skylight-soars-to-380k-users-after-tiktok-u-s-deal-finalized/)
+- **Summary**: Microsoft on Monday issued out-of-band security patches for a high-severity Microsoft Office zero-day vulnerability exploited in attacks.
+The vulnerab...
+- **Keywords**: emergency
+- [Read more](https://thehackernews.com/2026/01/microsoft-issues-emergency-patch-for.html)
 
-### Fire Kristi Noem into the Sun
+### CTEM in Practice: Prioritization, Validation, and Outcomes That Matter
 - **Published**: January 27, 2026
-- **Summary**: https://www.nationalreview.com/2026/01/fire-kristi-noem-into-the-sun/</a></p>
-<p>Comments URL: <a href="......
-- [Read more](https://www.nationalreview.com/2026/01/fire-kristi-noem-into-the-sun/)
+- **Summary**: Cybersecurity teams increasingly want to move beyond looking at threats and vulnerabilities in isolation. It’s not only about what could go wrong (vul...
+- [Read more](https://thehackernews.com/2026/01/ctem-in-practice-prioritization.html)
 
 ---
 
