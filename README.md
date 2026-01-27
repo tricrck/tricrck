@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Low-cost system turns smartphones into emergency radiation detectors
+### TikTok alternative Skylight soars to 380K+ users after TikTok US deal finalized
 - **Published**: January 27, 2026
-- **Summary**: https://www.hiroshima-u.ac.jp/en/news/95263</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46774492">https......
-- **Keywords**: emergency
-- [Read more](https://www.hiroshima-u.ac.jp/en/news/95263)
+- **Summary**: https://techcrunch.com/2026/01/26/tiktok-alternative-skylig......
+- [Read more](https://techcrunch.com/2026/01/26/tiktok-alternative-skylight-soars-to-380k-users-after-tiktok-u-s-deal-finalized/)
 
-### Musk's xAI datacenter generating extra electricity illegally, regulator rules
+### Fire Kristi Noem into the Sun
 - **Published**: January 27, 2026
-- **Summary**: https://www.theguardian.com/technology/2026/jan/15/elon-musk-xai-datacenter-memphis</a></p......
-- [Read more](https://www.theguardian.com/technology/2026/jan/15/elon-musk-xai-datacenter-memphis)
+- **Summary**: https://www.nationalreview.com/2026/01/fire-kristi-noem-into-the-sun/</a></p>
+<p>Comments URL: <a href="......
+- [Read more](https://www.nationalreview.com/2026/01/fire-kristi-noem-into-the-sun/)
 
 ---
 
