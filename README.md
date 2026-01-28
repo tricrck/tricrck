@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Password Reuse in Disguise: An Often-Missed Risky Workaround
+### Fake Moltbot AI Coding Assistant on VS Code Marketplace Drops Malware
 - **Published**: January 28, 2026
-- **Summary**: When security teams discuss credential-related risk, the focus typically falls on threats such as phishing, malware, or ransomware. These attack metho...
-- [Read more](https://thehackernews.com/2026/01/password-reuse-in-disguise-often-missed.html)
+- **Summary**: Cybersecurity researchers have flagged a new malicious Microsoft Visual Studio Code (VS Code) extension for Moltbot (formerly Clawdbot) on the officia...
+- [Read more](https://thehackernews.com/2026/01/fake-moltbot-ai-coding-assistant-on-vs.html)
 
-### Google Warns of Active Exploitation of WinRAR Vulnerability CVE-2025-8088
+### Russian ELECTRUM Tied to December 2025 Cyber Attack on Polish Power Grid
 - **Published**: January 28, 2026
-- **Summary**: Google on Tuesday revealed that multiple threat actors, including nation-state adversaries and financially motivated groups, are exploiting a now-patc...
-- [Read more](https://thehackernews.com/2026/01/google-warns-of-active-exploitation-of.html)
+- **Summary**: The "coordinated" cyber attack targeting multiple sites across the Polish power grid has been attributed with medium confidence to a Russian state-spo...
+- [Read more](https://thehackernews.com/2026/01/russian-electrum-tied-to-december-2025.html)
 
 ---
 
