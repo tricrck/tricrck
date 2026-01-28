@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Show HN: Fuzz testing tool for MCP servers
-- **Published**: January 27, 2026
-- **Summary**: <p>Open-source fuzzer for MCP servers. Goal: make it easy to repeatedly throw malformed/odd requests at servers and catch crashes, hangs, and bad erro...
-- **Keywords**: error
-- [Read more](https://github.com/Agent-Hellboy/mcp-server-fuzzer)
+### Super Monkey Ball ported to a website
+- **Published**: January 28, 2026
+- **Summary**: https://monkeyball-online.pages.dev/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46789961">https://news.ycombi......
+- [Read more](https://monkeyball-online.pages.dev/)
 
-### WhatsApp Rolls Out Lockdown-Style Security Mode to Protect Targeted Users From Spyware
-- **Published**: January 27, 2026
-- **Summary**: Meta on Tuesday announced it's adding Strict Account Settings on WhatsApp to secure certain users against advanced cyber attacks because of who they a...
-- [Read more](https://thehackernews.com/2026/01/whatsapp-rolls-out-lockdown-style.html)
+### Human-centred cybersecurity: the case of the Florida water plant hack
+- **Published**: January 28, 2026
+- **Summary**: https://www.emerald.com/ecam/article/32/13/547/1328000/Human-centred-cybersecu......
+- [Read more](https://www.emerald.com/ecam/article/32/13/547/1328000/Human-centred-cybersecurity-for-critical)
 
 ---
 
