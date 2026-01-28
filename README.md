@@ -16,16 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Super Monkey Ball ported to a website
+### Fortinet Patches CVE-2026-24858 After Active FortiOS SSO Exploitation Detected
 - **Published**: January 28, 2026
-- **Summary**: https://monkeyball-online.pages.dev/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46789961">https://news.ycombi......
-- [Read more](https://monkeyball-online.pages.dev/)
+- **Summary**: Fortinet has begun releasing security updates to address a critical flaw impacting FortiOS that has come under active exploitation in the wild.
+The vu...
+- [Read more](https://thehackernews.com/2026/01/fortinet-patches-cve-2026-24858-after.html)
 
-### Human-centred cybersecurity: the case of the Florida water plant hack
+### Show HN: AsyncReview – When the File System Becomes the REPL
 - **Published**: January 28, 2026
-- **Summary**: https://www.emerald.com/ecam/article/32/13/547/1328000/Human-centred-cybersecu......
-- [Read more](https://www.emerald.com/ecam/article/32/13/547/1328000/Human-centred-cybersecurity-for-critical)
+- **Summary**: https://github.com/AsyncFuncAI/AsyncReview</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46791784">https:/......
+- [Read more](https://github.com/AsyncFuncAI/AsyncReview)
 
 ---
 
