@@ -1,10 +1,10 @@
 {
   "chaos_ranked": [
     {
-      "title": "Fortinet Patches CVE-2026-24858 After Active FortiOS SSO Exploitation Detected",
-      "link": "https://thehackernews.com/2026/01/fortinet-patches-cve-2026-24858-after.html",
-      "summary": "Fortinet has begun releasing security updates to address a critical flaw impacting FortiOS that has come under active exploitation in the wild.\nThe vulnerability, assigned the CVE identifier CVE-2026-...",
-      "published": "2026-01-28T10:19:00+05:30",
+      "title": "Password Reuse in Disguise: An Often-Missed Risky Workaround",
+      "link": "https://thehackernews.com/2026/01/password-reuse-in-disguise-often-missed.html",
+      "summary": "When security teams discuss credential-related risk, the focus typically falls on threats such as phishing, malware, or ransomware. These attack methods continue to evolve and rightly command attentio...",
+      "published": "2026-01-28T16:00:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -17,11 +17,11 @@
       }
     },
     {
-      "title": "Show HN: AsyncReview \u2013 When the File System Becomes the REPL",
-      "link": "https://github.com/AsyncFuncAI/AsyncReview",
-      "summary": "<p>Article URL: <a href=\"https://github.com/AsyncFuncAI/AsyncReview\">https://github.com/AsyncFuncAI/AsyncReview</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46791784\">https:/...",
-      "published": "2026-01-28T06:27:32+00:00",
-      "domain": "github.com",
+      "title": "Google Warns of Active Exploitation of WinRAR Vulnerability CVE-2025-8088",
+      "link": "https://thehackernews.com/2026/01/google-warns-of-active-exploitation-of.html",
+      "summary": "Google on Tuesday revealed that multiple threat actors, including nation-state adversaries and financially motivated groups, are exploiting a now-patched critical security flaw in RARLAB WinRAR to est...",
+      "published": "2026-01-28T15:16:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -33,11 +33,11 @@
       }
     },
     {
-      "title": "How I Work, 2025 Edition",
-      "link": "https://jonmagic.com/posts/how-i-work-2025-edition/",
-      "summary": "<p>Article URL: <a href=\"https://jonmagic.com/posts/how-i-work-2025-edition/\">https://jonmagic.com/posts/how-i-work-2025-edition/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id...",
-      "published": "2026-01-28T06:27:19+00:00",
-      "domain": "jonmagic.com",
+      "title": "Fake Python Spellchecker Packages on PyPI Delivered Hidden Remote Access Trojan",
+      "link": "https://thehackernews.com/2026/01/fake-python-spellchecker-packages-on.html",
+      "summary": "Cybersecurity researchers have discovered two malicious packages in the Python Package Index (PyPI) repository that masquerade as spellcheckers but contain functionality to deliver a remote access tro...",
+      "published": "2026-01-28T15:00:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -49,10 +49,42 @@
       }
     },
     {
-      "title": "Fish pile up at European ports as new digital system falters",
-      "link": "https://www.ft.com/content/53a977de-ddaf-4b2c-b19a-e2e08af38e0a",
-      "summary": "<p>Article URL: <a href=\"https://www.ft.com/content/53a977de-ddaf-4b2c-b19a-e2e08af38e0a\">https://www.ft.com/content/53a977de-ddaf-4b2c-b19a-e2e08af38e0a</a></p>\n<p>Comments URL: <a href=\"https://news...",
-      "published": "2026-01-28T06:25:45+00:00",
+      "title": "The Sovereign Tech Fund Invests in Scala",
+      "link": "https://www.scala-lang.org/blog/2026/01/27/sta-invests-in-scala.html",
+      "summary": "<p>Article URL: <a href=\"https://www.scala-lang.org/blog/2026/01/27/sta-invests-in-scala.html\">https://www.scala-lang.org/blog/2026/01/27/sta-invests-in-scala.html</a></p>\n<p>Comments URL: <a href=\"ht...",
+      "published": "2026-01-28T12:46:05+00:00",
+      "domain": "scala-lang.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Office vigilante tool that might get you fired (but promotes security)",
+      "link": "https://marcusmichaels.com/stay-safe/",
+      "summary": "<p>An unattended laptop that's still logged in is usually my opportunity to play the looping laughing Gandalf video on their machine.<p>The other day I <i>allegedly</i> took it a step further by setti...",
+      "published": "2026-01-28T12:46:01+00:00",
+      "domain": "marcusmichaels.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Always Beware a Declining Superpower",
+      "link": "https://www.ft.com/content/014e85ce-b703-4ed8-8183-e6e5d1061974",
+      "summary": "<p>Article URL: <a href=\"https://www.ft.com/content/014e85ce-b703-4ed8-8183-e6e5d1061974\">https://www.ft.com/content/014e85ce-b703-4ed8-8183-e6e5d1061974</a></p>\n<p>Comments URL: <a href=\"https://news...",
+      "published": "2026-01-28T12:45:50+00:00",
       "domain": "ft.com",
       "scores": {
         "chaos": 3.0,
@@ -65,11 +97,11 @@
       }
     },
     {
-      "title": "AI's 7* 24 Hours",
-      "link": "https://lee-notion-blog-psi.vercel.app/article/2f53e9e4-833e-801a-8725-d85739311755",
-      "summary": "<p>Article URL: <a href=\"https://lee-notion-blog-psi.vercel.app/article/2f53e9e4-833e-801a-8725-d85739311755\">https://lee-notion-blog-psi.vercel.app/article/2f53e9e4-833e-801a-8725-d85739311755</a></p...",
-      "published": "2026-01-28T06:23:34+00:00",
-      "domain": "lee-notion-blog-psi.vercel.app",
+      "title": "Kimurai: AI-First Web Scraping Framework for Ruby",
+      "link": "https://github.com/vifreefly/kimuraframework",
+      "summary": "<p>Article URL: <a href=\"https://github.com/vifreefly/kimuraframework\">https://github.com/vifreefly/kimuraframework</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46794584\">htt...",
+      "published": "2026-01-28T12:43:42+00:00",
+      "domain": "github.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -81,11 +113,11 @@
       }
     },
     {
-      "title": "Crypto Chart Patterns Guide: Bull Flags, Wedges, Triangles",
-      "link": "https://chartscout.io/trading-education",
-      "summary": "<p>Article URL: <a href=\"https://chartscout.io/trading-education\">https://chartscout.io/trading-education</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46791753\">https://news....",
-      "published": "2026-01-28T06:22:18+00:00",
-      "domain": "chartscout.io",
+      "title": "Open Props: sub-atomic CSS",
+      "link": "https://open-props.style/",
+      "summary": "<p>Article URL: <a href=\"https://open-props.style/\">https://open-props.style/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46794567\">https://news.ycombinator.com/item?id=4679...",
+      "published": "2026-01-28T12:42:03+00:00",
+      "domain": "open-props.style",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -97,11 +129,11 @@
       }
     },
     {
-      "title": "TikTok users \u201cabsolutely justified\u201d for fearing MAGA makeover, experts say | TikTok\u2019s tech issues abound as censorship fears drive users to delete app.",
-      "link": "https://www.reddit.com/r/technology/comments/1qozn3p/tiktok_users_absolutely_justified_for_fearing/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1qozn3p/tiktok_users_absolutely_justified_for_fearing/\"> <img alt=\"TikTok users \u201cabsolutely justified\u201d for fearing MAGA makeover,...",
-      "published": "2026-01-28T03:08:35+00:00",
-      "domain": "reddit.com",
+      "title": "If You Tax Them, Will They Leave?",
+      "link": "https://www.theatlantic.com/economy/2026/01/california-wealth-tax-billionaire-migration/685779/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46794472\">Comments</a>...",
+      "published": "2026-01-28T12:30:02+00:00",
+      "domain": "theatlantic.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -113,43 +145,11 @@
       }
     },
     {
-      "title": "TikTok Already Getting Shittier Under The Ownership Of President's Billionaire Buddies",
-      "link": "https://www.reddit.com/r/technology/comments/1qosy1z/tiktok_already_getting_shittier_under_the/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1qosy1z/tiktok_already_getting_shittier_under_the/\"> <img alt=\"TikTok Already Getting Shittier Under The Ownership Of President's...",
-      "published": "2026-01-27T22:31:56+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "WhatsApp Rolls Out Lockdown-Style Security Mode to Protect Targeted Users From Spyware",
-      "link": "https://thehackernews.com/2026/01/whatsapp-rolls-out-lockdown-style.html",
-      "summary": "Meta on Tuesday announced it's adding Strict Account Settings on WhatsApp to secure certain users against advanced cyber attacks because of who they are and what they do.\nThe feature, similar to Lockd...",
-      "published": "2026-01-27T22:24:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Experts Detect Pakistan-Linked Cyber Campaigns Aimed at Indian Government Entities",
-      "link": "https://thehackernews.com/2026/01/experts-detect-pakistan-linked-cyber.html",
-      "summary": "Indian government entities have been targeted in two campaigns undertaken by a threat actor that operates in Pakistan using previously undocumented tradecraft.\nThe campaigns have been codenamed Gopher...",
-      "published": "2026-01-27T22:15:00+05:30",
-      "domain": "thehackernews.com",
+      "title": "ICE and Palantir: US agents using health data to hunt illegal immigrants",
+      "link": "https://www.bmj.com/content/392/bmj.s168",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46794365\">Comments</a>...",
+      "published": "2026-01-28T12:18:12+00:00",
+      "domain": "bmj.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -163,10 +163,10 @@
   ],
   "anarchy_ranked": [
     {
-      "title": "Fortinet Patches CVE-2026-24858 After Active FortiOS SSO Exploitation Detected",
-      "link": "https://thehackernews.com/2026/01/fortinet-patches-cve-2026-24858-after.html",
-      "summary": "Fortinet has begun releasing security updates to address a critical flaw impacting FortiOS that has come under active exploitation in the wild.\nThe vulnerability, assigned the CVE identifier CVE-2026-...",
-      "published": "2026-01-28T10:19:00+05:30",
+      "title": "Password Reuse in Disguise: An Often-Missed Risky Workaround",
+      "link": "https://thehackernews.com/2026/01/password-reuse-in-disguise-often-missed.html",
+      "summary": "When security teams discuss credential-related risk, the focus typically falls on threats such as phishing, malware, or ransomware. These attack methods continue to evolve and rightly command attentio...",
+      "published": "2026-01-28T16:00:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -179,11 +179,11 @@
       }
     },
     {
-      "title": "Show HN: AsyncReview \u2013 When the File System Becomes the REPL",
-      "link": "https://github.com/AsyncFuncAI/AsyncReview",
-      "summary": "<p>Article URL: <a href=\"https://github.com/AsyncFuncAI/AsyncReview\">https://github.com/AsyncFuncAI/AsyncReview</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46791784\">https:/...",
-      "published": "2026-01-28T06:27:32+00:00",
-      "domain": "github.com",
+      "title": "Google Warns of Active Exploitation of WinRAR Vulnerability CVE-2025-8088",
+      "link": "https://thehackernews.com/2026/01/google-warns-of-active-exploitation-of.html",
+      "summary": "Google on Tuesday revealed that multiple threat actors, including nation-state adversaries and financially motivated groups, are exploiting a now-patched critical security flaw in RARLAB WinRAR to est...",
+      "published": "2026-01-28T15:16:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -195,11 +195,11 @@
       }
     },
     {
-      "title": "How I Work, 2025 Edition",
-      "link": "https://jonmagic.com/posts/how-i-work-2025-edition/",
-      "summary": "<p>Article URL: <a href=\"https://jonmagic.com/posts/how-i-work-2025-edition/\">https://jonmagic.com/posts/how-i-work-2025-edition/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id...",
-      "published": "2026-01-28T06:27:19+00:00",
-      "domain": "jonmagic.com",
+      "title": "Fake Python Spellchecker Packages on PyPI Delivered Hidden Remote Access Trojan",
+      "link": "https://thehackernews.com/2026/01/fake-python-spellchecker-packages-on.html",
+      "summary": "Cybersecurity researchers have discovered two malicious packages in the Python Package Index (PyPI) repository that masquerade as spellcheckers but contain functionality to deliver a remote access tro...",
+      "published": "2026-01-28T15:00:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -211,10 +211,42 @@
       }
     },
     {
-      "title": "Fish pile up at European ports as new digital system falters",
-      "link": "https://www.ft.com/content/53a977de-ddaf-4b2c-b19a-e2e08af38e0a",
-      "summary": "<p>Article URL: <a href=\"https://www.ft.com/content/53a977de-ddaf-4b2c-b19a-e2e08af38e0a\">https://www.ft.com/content/53a977de-ddaf-4b2c-b19a-e2e08af38e0a</a></p>\n<p>Comments URL: <a href=\"https://news...",
-      "published": "2026-01-28T06:25:45+00:00",
+      "title": "The Sovereign Tech Fund Invests in Scala",
+      "link": "https://www.scala-lang.org/blog/2026/01/27/sta-invests-in-scala.html",
+      "summary": "<p>Article URL: <a href=\"https://www.scala-lang.org/blog/2026/01/27/sta-invests-in-scala.html\">https://www.scala-lang.org/blog/2026/01/27/sta-invests-in-scala.html</a></p>\n<p>Comments URL: <a href=\"ht...",
+      "published": "2026-01-28T12:46:05+00:00",
+      "domain": "scala-lang.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Office vigilante tool that might get you fired (but promotes security)",
+      "link": "https://marcusmichaels.com/stay-safe/",
+      "summary": "<p>An unattended laptop that's still logged in is usually my opportunity to play the looping laughing Gandalf video on their machine.<p>The other day I <i>allegedly</i> took it a step further by setti...",
+      "published": "2026-01-28T12:46:01+00:00",
+      "domain": "marcusmichaels.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Always Beware a Declining Superpower",
+      "link": "https://www.ft.com/content/014e85ce-b703-4ed8-8183-e6e5d1061974",
+      "summary": "<p>Article URL: <a href=\"https://www.ft.com/content/014e85ce-b703-4ed8-8183-e6e5d1061974\">https://www.ft.com/content/014e85ce-b703-4ed8-8183-e6e5d1061974</a></p>\n<p>Comments URL: <a href=\"https://news...",
+      "published": "2026-01-28T12:45:50+00:00",
       "domain": "ft.com",
       "scores": {
         "chaos": 3.0,
@@ -227,11 +259,11 @@
       }
     },
     {
-      "title": "AI's 7* 24 Hours",
-      "link": "https://lee-notion-blog-psi.vercel.app/article/2f53e9e4-833e-801a-8725-d85739311755",
-      "summary": "<p>Article URL: <a href=\"https://lee-notion-blog-psi.vercel.app/article/2f53e9e4-833e-801a-8725-d85739311755\">https://lee-notion-blog-psi.vercel.app/article/2f53e9e4-833e-801a-8725-d85739311755</a></p...",
-      "published": "2026-01-28T06:23:34+00:00",
-      "domain": "lee-notion-blog-psi.vercel.app",
+      "title": "Kimurai: AI-First Web Scraping Framework for Ruby",
+      "link": "https://github.com/vifreefly/kimuraframework",
+      "summary": "<p>Article URL: <a href=\"https://github.com/vifreefly/kimuraframework\">https://github.com/vifreefly/kimuraframework</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46794584\">htt...",
+      "published": "2026-01-28T12:43:42+00:00",
+      "domain": "github.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -243,11 +275,11 @@
       }
     },
     {
-      "title": "Crypto Chart Patterns Guide: Bull Flags, Wedges, Triangles",
-      "link": "https://chartscout.io/trading-education",
-      "summary": "<p>Article URL: <a href=\"https://chartscout.io/trading-education\">https://chartscout.io/trading-education</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46791753\">https://news....",
-      "published": "2026-01-28T06:22:18+00:00",
-      "domain": "chartscout.io",
+      "title": "Open Props: sub-atomic CSS",
+      "link": "https://open-props.style/",
+      "summary": "<p>Article URL: <a href=\"https://open-props.style/\">https://open-props.style/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46794567\">https://news.ycombinator.com/item?id=4679...",
+      "published": "2026-01-28T12:42:03+00:00",
+      "domain": "open-props.style",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -259,11 +291,11 @@
       }
     },
     {
-      "title": "TikTok users \u201cabsolutely justified\u201d for fearing MAGA makeover, experts say | TikTok\u2019s tech issues abound as censorship fears drive users to delete app.",
-      "link": "https://www.reddit.com/r/technology/comments/1qozn3p/tiktok_users_absolutely_justified_for_fearing/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1qozn3p/tiktok_users_absolutely_justified_for_fearing/\"> <img alt=\"TikTok users \u201cabsolutely justified\u201d for fearing MAGA makeover,...",
-      "published": "2026-01-28T03:08:35+00:00",
-      "domain": "reddit.com",
+      "title": "If You Tax Them, Will They Leave?",
+      "link": "https://www.theatlantic.com/economy/2026/01/california-wealth-tax-billionaire-migration/685779/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46794472\">Comments</a>...",
+      "published": "2026-01-28T12:30:02+00:00",
+      "domain": "theatlantic.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -275,43 +307,11 @@
       }
     },
     {
-      "title": "TikTok Already Getting Shittier Under The Ownership Of President's Billionaire Buddies",
-      "link": "https://www.reddit.com/r/technology/comments/1qosy1z/tiktok_already_getting_shittier_under_the/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1qosy1z/tiktok_already_getting_shittier_under_the/\"> <img alt=\"TikTok Already Getting Shittier Under The Ownership Of President's...",
-      "published": "2026-01-27T22:31:56+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "WhatsApp Rolls Out Lockdown-Style Security Mode to Protect Targeted Users From Spyware",
-      "link": "https://thehackernews.com/2026/01/whatsapp-rolls-out-lockdown-style.html",
-      "summary": "Meta on Tuesday announced it's adding Strict Account Settings on WhatsApp to secure certain users against advanced cyber attacks because of who they are and what they do.\nThe feature, similar to Lockd...",
-      "published": "2026-01-27T22:24:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Experts Detect Pakistan-Linked Cyber Campaigns Aimed at Indian Government Entities",
-      "link": "https://thehackernews.com/2026/01/experts-detect-pakistan-linked-cyber.html",
-      "summary": "Indian government entities have been targeted in two campaigns undertaken by a threat actor that operates in Pakistan using previously undocumented tradecraft.\nThe campaigns have been codenamed Gopher...",
-      "published": "2026-01-27T22:15:00+05:30",
-      "domain": "thehackernews.com",
+      "title": "ICE and Palantir: US agents using health data to hunt illegal immigrants",
+      "link": "https://www.bmj.com/content/392/bmj.s168",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46794365\">Comments</a>...",
+      "published": "2026-01-28T12:18:12+00:00",
+      "domain": "bmj.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -325,10 +325,10 @@
   ],
   "overall_ranked": [
     {
-      "title": "Fortinet Patches CVE-2026-24858 After Active FortiOS SSO Exploitation Detected",
-      "link": "https://thehackernews.com/2026/01/fortinet-patches-cve-2026-24858-after.html",
-      "summary": "Fortinet has begun releasing security updates to address a critical flaw impacting FortiOS that has come under active exploitation in the wild.\nThe vulnerability, assigned the CVE identifier CVE-2026-...",
-      "published": "2026-01-28T10:19:00+05:30",
+      "title": "Password Reuse in Disguise: An Often-Missed Risky Workaround",
+      "link": "https://thehackernews.com/2026/01/password-reuse-in-disguise-often-missed.html",
+      "summary": "When security teams discuss credential-related risk, the focus typically falls on threats such as phishing, malware, or ransomware. These attack methods continue to evolve and rightly command attentio...",
+      "published": "2026-01-28T16:00:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -341,11 +341,11 @@
       }
     },
     {
-      "title": "Show HN: AsyncReview \u2013 When the File System Becomes the REPL",
-      "link": "https://github.com/AsyncFuncAI/AsyncReview",
-      "summary": "<p>Article URL: <a href=\"https://github.com/AsyncFuncAI/AsyncReview\">https://github.com/AsyncFuncAI/AsyncReview</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46791784\">https:/...",
-      "published": "2026-01-28T06:27:32+00:00",
-      "domain": "github.com",
+      "title": "Google Warns of Active Exploitation of WinRAR Vulnerability CVE-2025-8088",
+      "link": "https://thehackernews.com/2026/01/google-warns-of-active-exploitation-of.html",
+      "summary": "Google on Tuesday revealed that multiple threat actors, including nation-state adversaries and financially motivated groups, are exploiting a now-patched critical security flaw in RARLAB WinRAR to est...",
+      "published": "2026-01-28T15:16:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -357,11 +357,11 @@
       }
     },
     {
-      "title": "How I Work, 2025 Edition",
-      "link": "https://jonmagic.com/posts/how-i-work-2025-edition/",
-      "summary": "<p>Article URL: <a href=\"https://jonmagic.com/posts/how-i-work-2025-edition/\">https://jonmagic.com/posts/how-i-work-2025-edition/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id...",
-      "published": "2026-01-28T06:27:19+00:00",
-      "domain": "jonmagic.com",
+      "title": "Fake Python Spellchecker Packages on PyPI Delivered Hidden Remote Access Trojan",
+      "link": "https://thehackernews.com/2026/01/fake-python-spellchecker-packages-on.html",
+      "summary": "Cybersecurity researchers have discovered two malicious packages in the Python Package Index (PyPI) repository that masquerade as spellcheckers but contain functionality to deliver a remote access tro...",
+      "published": "2026-01-28T15:00:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -373,10 +373,42 @@
       }
     },
     {
-      "title": "Fish pile up at European ports as new digital system falters",
-      "link": "https://www.ft.com/content/53a977de-ddaf-4b2c-b19a-e2e08af38e0a",
-      "summary": "<p>Article URL: <a href=\"https://www.ft.com/content/53a977de-ddaf-4b2c-b19a-e2e08af38e0a\">https://www.ft.com/content/53a977de-ddaf-4b2c-b19a-e2e08af38e0a</a></p>\n<p>Comments URL: <a href=\"https://news...",
-      "published": "2026-01-28T06:25:45+00:00",
+      "title": "The Sovereign Tech Fund Invests in Scala",
+      "link": "https://www.scala-lang.org/blog/2026/01/27/sta-invests-in-scala.html",
+      "summary": "<p>Article URL: <a href=\"https://www.scala-lang.org/blog/2026/01/27/sta-invests-in-scala.html\">https://www.scala-lang.org/blog/2026/01/27/sta-invests-in-scala.html</a></p>\n<p>Comments URL: <a href=\"ht...",
+      "published": "2026-01-28T12:46:05+00:00",
+      "domain": "scala-lang.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Office vigilante tool that might get you fired (but promotes security)",
+      "link": "https://marcusmichaels.com/stay-safe/",
+      "summary": "<p>An unattended laptop that's still logged in is usually my opportunity to play the looping laughing Gandalf video on their machine.<p>The other day I <i>allegedly</i> took it a step further by setti...",
+      "published": "2026-01-28T12:46:01+00:00",
+      "domain": "marcusmichaels.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Always Beware a Declining Superpower",
+      "link": "https://www.ft.com/content/014e85ce-b703-4ed8-8183-e6e5d1061974",
+      "summary": "<p>Article URL: <a href=\"https://www.ft.com/content/014e85ce-b703-4ed8-8183-e6e5d1061974\">https://www.ft.com/content/014e85ce-b703-4ed8-8183-e6e5d1061974</a></p>\n<p>Comments URL: <a href=\"https://news...",
+      "published": "2026-01-28T12:45:50+00:00",
       "domain": "ft.com",
       "scores": {
         "chaos": 3.0,
@@ -389,11 +421,11 @@
       }
     },
     {
-      "title": "AI's 7* 24 Hours",
-      "link": "https://lee-notion-blog-psi.vercel.app/article/2f53e9e4-833e-801a-8725-d85739311755",
-      "summary": "<p>Article URL: <a href=\"https://lee-notion-blog-psi.vercel.app/article/2f53e9e4-833e-801a-8725-d85739311755\">https://lee-notion-blog-psi.vercel.app/article/2f53e9e4-833e-801a-8725-d85739311755</a></p...",
-      "published": "2026-01-28T06:23:34+00:00",
-      "domain": "lee-notion-blog-psi.vercel.app",
+      "title": "Kimurai: AI-First Web Scraping Framework for Ruby",
+      "link": "https://github.com/vifreefly/kimuraframework",
+      "summary": "<p>Article URL: <a href=\"https://github.com/vifreefly/kimuraframework\">https://github.com/vifreefly/kimuraframework</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46794584\">htt...",
+      "published": "2026-01-28T12:43:42+00:00",
+      "domain": "github.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -405,11 +437,11 @@
       }
     },
     {
-      "title": "Crypto Chart Patterns Guide: Bull Flags, Wedges, Triangles",
-      "link": "https://chartscout.io/trading-education",
-      "summary": "<p>Article URL: <a href=\"https://chartscout.io/trading-education\">https://chartscout.io/trading-education</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46791753\">https://news....",
-      "published": "2026-01-28T06:22:18+00:00",
-      "domain": "chartscout.io",
+      "title": "Open Props: sub-atomic CSS",
+      "link": "https://open-props.style/",
+      "summary": "<p>Article URL: <a href=\"https://open-props.style/\">https://open-props.style/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46794567\">https://news.ycombinator.com/item?id=4679...",
+      "published": "2026-01-28T12:42:03+00:00",
+      "domain": "open-props.style",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -421,11 +453,11 @@
       }
     },
     {
-      "title": "TikTok users \u201cabsolutely justified\u201d for fearing MAGA makeover, experts say | TikTok\u2019s tech issues abound as censorship fears drive users to delete app.",
-      "link": "https://www.reddit.com/r/technology/comments/1qozn3p/tiktok_users_absolutely_justified_for_fearing/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1qozn3p/tiktok_users_absolutely_justified_for_fearing/\"> <img alt=\"TikTok users \u201cabsolutely justified\u201d for fearing MAGA makeover,...",
-      "published": "2026-01-28T03:08:35+00:00",
-      "domain": "reddit.com",
+      "title": "If You Tax Them, Will They Leave?",
+      "link": "https://www.theatlantic.com/economy/2026/01/california-wealth-tax-billionaire-migration/685779/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46794472\">Comments</a>...",
+      "published": "2026-01-28T12:30:02+00:00",
+      "domain": "theatlantic.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -437,43 +469,11 @@
       }
     },
     {
-      "title": "TikTok Already Getting Shittier Under The Ownership Of President's Billionaire Buddies",
-      "link": "https://www.reddit.com/r/technology/comments/1qosy1z/tiktok_already_getting_shittier_under_the/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1qosy1z/tiktok_already_getting_shittier_under_the/\"> <img alt=\"TikTok Already Getting Shittier Under The Ownership Of President's...",
-      "published": "2026-01-27T22:31:56+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "WhatsApp Rolls Out Lockdown-Style Security Mode to Protect Targeted Users From Spyware",
-      "link": "https://thehackernews.com/2026/01/whatsapp-rolls-out-lockdown-style.html",
-      "summary": "Meta on Tuesday announced it's adding Strict Account Settings on WhatsApp to secure certain users against advanced cyber attacks because of who they are and what they do.\nThe feature, similar to Lockd...",
-      "published": "2026-01-27T22:24:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Experts Detect Pakistan-Linked Cyber Campaigns Aimed at Indian Government Entities",
-      "link": "https://thehackernews.com/2026/01/experts-detect-pakistan-linked-cyber.html",
-      "summary": "Indian government entities have been targeted in two campaigns undertaken by a threat actor that operates in Pakistan using previously undocumented tradecraft.\nThe campaigns have been codenamed Gopher...",
-      "published": "2026-01-27T22:15:00+05:30",
-      "domain": "thehackernews.com",
+      "title": "ICE and Palantir: US agents using health data to hunt illegal immigrants",
+      "link": "https://www.bmj.com/content/392/bmj.s168",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46794365\">Comments</a>...",
+      "published": "2026-01-28T12:18:12+00:00",
+      "domain": "bmj.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -487,10 +487,10 @@
   ],
   "all_articles": [
     {
-      "title": "Fortinet Patches CVE-2026-24858 After Active FortiOS SSO Exploitation Detected",
-      "link": "https://thehackernews.com/2026/01/fortinet-patches-cve-2026-24858-after.html",
-      "summary": "Fortinet has begun releasing security updates to address a critical flaw impacting FortiOS that has come under active exploitation in the wild.\nThe vulnerability, assigned the CVE identifier CVE-2026-...",
-      "published": "2026-01-28T10:19:00+05:30",
+      "title": "Password Reuse in Disguise: An Often-Missed Risky Workaround",
+      "link": "https://thehackernews.com/2026/01/password-reuse-in-disguise-often-missed.html",
+      "summary": "When security teams discuss credential-related risk, the focus typically falls on threats such as phishing, malware, or ransomware. These attack methods continue to evolve and rightly command attentio...",
+      "published": "2026-01-28T16:00:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -503,11 +503,11 @@
       }
     },
     {
-      "title": "Show HN: AsyncReview \u2013 When the File System Becomes the REPL",
-      "link": "https://github.com/AsyncFuncAI/AsyncReview",
-      "summary": "<p>Article URL: <a href=\"https://github.com/AsyncFuncAI/AsyncReview\">https://github.com/AsyncFuncAI/AsyncReview</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46791784\">https:/...",
-      "published": "2026-01-28T06:27:32+00:00",
-      "domain": "github.com",
+      "title": "Google Warns of Active Exploitation of WinRAR Vulnerability CVE-2025-8088",
+      "link": "https://thehackernews.com/2026/01/google-warns-of-active-exploitation-of.html",
+      "summary": "Google on Tuesday revealed that multiple threat actors, including nation-state adversaries and financially motivated groups, are exploiting a now-patched critical security flaw in RARLAB WinRAR to est...",
+      "published": "2026-01-28T15:16:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -519,11 +519,11 @@
       }
     },
     {
-      "title": "How I Work, 2025 Edition",
-      "link": "https://jonmagic.com/posts/how-i-work-2025-edition/",
-      "summary": "<p>Article URL: <a href=\"https://jonmagic.com/posts/how-i-work-2025-edition/\">https://jonmagic.com/posts/how-i-work-2025-edition/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id...",
-      "published": "2026-01-28T06:27:19+00:00",
-      "domain": "jonmagic.com",
+      "title": "Fake Python Spellchecker Packages on PyPI Delivered Hidden Remote Access Trojan",
+      "link": "https://thehackernews.com/2026/01/fake-python-spellchecker-packages-on.html",
+      "summary": "Cybersecurity researchers have discovered two malicious packages in the Python Package Index (PyPI) repository that masquerade as spellcheckers but contain functionality to deliver a remote access tro...",
+      "published": "2026-01-28T15:00:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -535,10 +535,42 @@
       }
     },
     {
-      "title": "Fish pile up at European ports as new digital system falters",
-      "link": "https://www.ft.com/content/53a977de-ddaf-4b2c-b19a-e2e08af38e0a",
-      "summary": "<p>Article URL: <a href=\"https://www.ft.com/content/53a977de-ddaf-4b2c-b19a-e2e08af38e0a\">https://www.ft.com/content/53a977de-ddaf-4b2c-b19a-e2e08af38e0a</a></p>\n<p>Comments URL: <a href=\"https://news...",
-      "published": "2026-01-28T06:25:45+00:00",
+      "title": "The Sovereign Tech Fund Invests in Scala",
+      "link": "https://www.scala-lang.org/blog/2026/01/27/sta-invests-in-scala.html",
+      "summary": "<p>Article URL: <a href=\"https://www.scala-lang.org/blog/2026/01/27/sta-invests-in-scala.html\">https://www.scala-lang.org/blog/2026/01/27/sta-invests-in-scala.html</a></p>\n<p>Comments URL: <a href=\"ht...",
+      "published": "2026-01-28T12:46:05+00:00",
+      "domain": "scala-lang.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Office vigilante tool that might get you fired (but promotes security)",
+      "link": "https://marcusmichaels.com/stay-safe/",
+      "summary": "<p>An unattended laptop that's still logged in is usually my opportunity to play the looping laughing Gandalf video on their machine.<p>The other day I <i>allegedly</i> took it a step further by setti...",
+      "published": "2026-01-28T12:46:01+00:00",
+      "domain": "marcusmichaels.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Always Beware a Declining Superpower",
+      "link": "https://www.ft.com/content/014e85ce-b703-4ed8-8183-e6e5d1061974",
+      "summary": "<p>Article URL: <a href=\"https://www.ft.com/content/014e85ce-b703-4ed8-8183-e6e5d1061974\">https://www.ft.com/content/014e85ce-b703-4ed8-8183-e6e5d1061974</a></p>\n<p>Comments URL: <a href=\"https://news...",
+      "published": "2026-01-28T12:45:50+00:00",
       "domain": "ft.com",
       "scores": {
         "chaos": 3.0,
@@ -551,11 +583,11 @@
       }
     },
     {
-      "title": "AI's 7* 24 Hours",
-      "link": "https://lee-notion-blog-psi.vercel.app/article/2f53e9e4-833e-801a-8725-d85739311755",
-      "summary": "<p>Article URL: <a href=\"https://lee-notion-blog-psi.vercel.app/article/2f53e9e4-833e-801a-8725-d85739311755\">https://lee-notion-blog-psi.vercel.app/article/2f53e9e4-833e-801a-8725-d85739311755</a></p...",
-      "published": "2026-01-28T06:23:34+00:00",
-      "domain": "lee-notion-blog-psi.vercel.app",
+      "title": "Kimurai: AI-First Web Scraping Framework for Ruby",
+      "link": "https://github.com/vifreefly/kimuraframework",
+      "summary": "<p>Article URL: <a href=\"https://github.com/vifreefly/kimuraframework\">https://github.com/vifreefly/kimuraframework</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46794584\">htt...",
+      "published": "2026-01-28T12:43:42+00:00",
+      "domain": "github.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -567,11 +599,11 @@
       }
     },
     {
-      "title": "Crypto Chart Patterns Guide: Bull Flags, Wedges, Triangles",
-      "link": "https://chartscout.io/trading-education",
-      "summary": "<p>Article URL: <a href=\"https://chartscout.io/trading-education\">https://chartscout.io/trading-education</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46791753\">https://news....",
-      "published": "2026-01-28T06:22:18+00:00",
-      "domain": "chartscout.io",
+      "title": "Open Props: sub-atomic CSS",
+      "link": "https://open-props.style/",
+      "summary": "<p>Article URL: <a href=\"https://open-props.style/\">https://open-props.style/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46794567\">https://news.ycombinator.com/item?id=4679...",
+      "published": "2026-01-28T12:42:03+00:00",
+      "domain": "open-props.style",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -583,11 +615,11 @@
       }
     },
     {
-      "title": "TikTok users \u201cabsolutely justified\u201d for fearing MAGA makeover, experts say | TikTok\u2019s tech issues abound as censorship fears drive users to delete app.",
-      "link": "https://www.reddit.com/r/technology/comments/1qozn3p/tiktok_users_absolutely_justified_for_fearing/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1qozn3p/tiktok_users_absolutely_justified_for_fearing/\"> <img alt=\"TikTok users \u201cabsolutely justified\u201d for fearing MAGA makeover,...",
-      "published": "2026-01-28T03:08:35+00:00",
-      "domain": "reddit.com",
+      "title": "If You Tax Them, Will They Leave?",
+      "link": "https://www.theatlantic.com/economy/2026/01/california-wealth-tax-billionaire-migration/685779/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46794472\">Comments</a>...",
+      "published": "2026-01-28T12:30:02+00:00",
+      "domain": "theatlantic.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -599,43 +631,11 @@
       }
     },
     {
-      "title": "TikTok Already Getting Shittier Under The Ownership Of President's Billionaire Buddies",
-      "link": "https://www.reddit.com/r/technology/comments/1qosy1z/tiktok_already_getting_shittier_under_the/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1qosy1z/tiktok_already_getting_shittier_under_the/\"> <img alt=\"TikTok Already Getting Shittier Under The Ownership Of President's...",
-      "published": "2026-01-27T22:31:56+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "WhatsApp Rolls Out Lockdown-Style Security Mode to Protect Targeted Users From Spyware",
-      "link": "https://thehackernews.com/2026/01/whatsapp-rolls-out-lockdown-style.html",
-      "summary": "Meta on Tuesday announced it's adding Strict Account Settings on WhatsApp to secure certain users against advanced cyber attacks because of who they are and what they do.\nThe feature, similar to Lockd...",
-      "published": "2026-01-27T22:24:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Experts Detect Pakistan-Linked Cyber Campaigns Aimed at Indian Government Entities",
-      "link": "https://thehackernews.com/2026/01/experts-detect-pakistan-linked-cyber.html",
-      "summary": "Indian government entities have been targeted in two campaigns undertaken by a threat actor that operates in Pakistan using previously undocumented tradecraft.\nThe campaigns have been codenamed Gopher...",
-      "published": "2026-01-27T22:15:00+05:30",
-      "domain": "thehackernews.com",
+      "title": "ICE and Palantir: US agents using health data to hunt illegal immigrants",
+      "link": "https://www.bmj.com/content/392/bmj.s168",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46794365\">Comments</a>...",
+      "published": "2026-01-28T12:18:12+00:00",
+      "domain": "bmj.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,

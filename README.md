@@ -16,17 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Fortinet Patches CVE-2026-24858 After Active FortiOS SSO Exploitation Detected
+### Password Reuse in Disguise: An Often-Missed Risky Workaround
 - **Published**: January 28, 2026
-- **Summary**: Fortinet has begun releasing security updates to address a critical flaw impacting FortiOS that has come under active exploitation in the wild.
-The vu...
-- [Read more](https://thehackernews.com/2026/01/fortinet-patches-cve-2026-24858-after.html)
+- **Summary**: When security teams discuss credential-related risk, the focus typically falls on threats such as phishing, malware, or ransomware. These attack metho...
+- [Read more](https://thehackernews.com/2026/01/password-reuse-in-disguise-often-missed.html)
 
-### Show HN: AsyncReview – When the File System Becomes the REPL
+### Google Warns of Active Exploitation of WinRAR Vulnerability CVE-2025-8088
 - **Published**: January 28, 2026
-- **Summary**: https://github.com/AsyncFuncAI/AsyncReview</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46791784">https:/......
-- [Read more](https://github.com/AsyncFuncAI/AsyncReview)
+- **Summary**: Google on Tuesday revealed that multiple threat actors, including nation-state adversaries and financially motivated groups, are exploiting a now-patc...
+- [Read more](https://thehackernews.com/2026/01/google-warns-of-active-exploitation-of.html)
 
 ---
 
