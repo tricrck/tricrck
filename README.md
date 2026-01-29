@@ -16,15 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Fake Moltbot AI Coding Assistant on VS Code Marketplace Drops Malware
-- **Published**: January 28, 2026
-- **Summary**: Cybersecurity researchers have flagged a new malicious Microsoft Visual Studio Code (VS Code) extension for Moltbot (formerly Clawdbot) on the officia...
-- [Read more](https://thehackernews.com/2026/01/fake-moltbot-ai-coding-assistant-on-vs.html)
+### Flippy Planes
+- **Published**: January 29, 2026
+- **Summary**: https://flippyplanes.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46804743">https://news.ycombinator.com/item?id=4680.....
+- [Read more](https://flippyplanes.com/)
 
-### Russian ELECTRUM Tied to December 2025 Cyber Attack on Polish Power Grid
-- **Published**: January 28, 2026
-- **Summary**: The "coordinated" cyber attack targeting multiple sites across the Polish power grid has been attributed with medium confidence to a Russian state-spo...
-- [Read more](https://thehackernews.com/2026/01/russian-electrum-tied-to-december-2025.html)
+### Show HN: Building a TradingView alternative pixel by pixel
+- **Published**: January 29, 2026
+- **Summary**: https://www.aulico.com/tradespaces/new</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46804641">https://news.yc......
+- [Read more](https://www.aulico.com/tradespaces/new)
 
 ---
 
