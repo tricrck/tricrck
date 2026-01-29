@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Flippy Planes
+### Sbt and the Miners of the Wild West
 - **Published**: January 29, 2026
-- **Summary**: https://flippyplanes.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46804743">https://news.ycombinator.com/item?id=4680.....
-- [Read more](https://flippyplanes.com/)
+- **Summary**: https://eed3si9n.com/sbt-and-the-miners-of-the-wild-west/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator......
+- [Read more](https://eed3si9n.com/sbt-and-the-miners-of-the-wild-west/)
 
-### Show HN: Building a TradingView alternative pixel by pixel
+### Commission's decision to fine X [pdf]
 - **Published**: January 29, 2026
-- **Summary**: https://www.aulico.com/tradespaces/new</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46804641">https://news.yc......
-- [Read more](https://www.aulico.com/tradespaces/new)
+- **Summary**: https://judiciary.house.gov/sites/evo-subsites/republicans-judiciar......
+- [Read more](https://judiciary.house.gov/sites/evo-subsites/republicans-judiciary.house.gov/files/2026-01/ACT_part1.pdf)
 
 ---
 
