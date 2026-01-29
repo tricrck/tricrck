@@ -16,16 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Google Disrupts IPIDEA — One of the World’s Largest Residential Proxy Networks
+### Honda Has Invented an AI Heads-Up About Potholes and Road Hazards
 - **Published**: January 29, 2026
-- **Summary**: Google on Wednesday announced that it worked together with other partners to disrupt IPIDEA, which it described as one of the largest residential prox...
-- **Keywords**: disrupt
-- [Read more](https://thehackernews.com/2026/01/google-disrupts-ipidea-one-of-worlds.html)
+- **Summary**: https://www.caranddriver.com/news/a70176340/honda-ai-technology-road-hazards/</a></p>
+<p>Comment......
+- [Read more](https://www.caranddriver.com/news/a70176340/honda-ai-technology-road-hazards/)
 
-### Survey of 100+ Energy Systems Reveals Critical OT Cybersecurity Gaps
+### GNU gettext 1.0 released
 - **Published**: January 29, 2026
-- **Summary**: A study by OMICRON has revealed widespread cybersecurity gaps in the operational technology (OT) networks of substations, power plants, and control ce...
-- [Read more](https://thehackernews.com/2026/01/survey-of-100-energy-systems-reveals.html)
+- **Summary**: https://lists.gnu.org/archive/html/info-gnu/2026-01/msg00007.html</a></p>
+<p>Comments URL: <a href="https://......
+- [Read more](https://lists.gnu.org/archive/html/info-gnu/2026-01/msg00007.html)
 
 ---
 
