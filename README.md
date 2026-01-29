@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Sbt and the Miners of the Wild West
+### Google Disrupts IPIDEA — One of the World’s Largest Residential Proxy Networks
 - **Published**: January 29, 2026
-- **Summary**: https://eed3si9n.com/sbt-and-the-miners-of-the-wild-west/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator......
-- [Read more](https://eed3si9n.com/sbt-and-the-miners-of-the-wild-west/)
+- **Summary**: Google on Wednesday announced that it worked together with other partners to disrupt IPIDEA, which it described as one of the largest residential prox...
+- **Keywords**: disrupt
+- [Read more](https://thehackernews.com/2026/01/google-disrupts-ipidea-one-of-worlds.html)
 
-### Commission's decision to fine X [pdf]
+### Survey of 100+ Energy Systems Reveals Critical OT Cybersecurity Gaps
 - **Published**: January 29, 2026
-- **Summary**: https://judiciary.house.gov/sites/evo-subsites/republicans-judiciar......
-- [Read more](https://judiciary.house.gov/sites/evo-subsites/republicans-judiciary.house.gov/files/2026-01/ACT_part1.pdf)
+- **Summary**: A study by OMICRON has revealed widespread cybersecurity gaps in the operational technology (OT) networks of substations, power plants, and control ce...
+- [Read more](https://thehackernews.com/2026/01/survey-of-100-energy-systems-reveals.html)
 
 ---
 
