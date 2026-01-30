@@ -16,17 +16,18 @@
 
 ## 🚨 Tech Stories
 
-### Honda Has Invented an AI Heads-Up About Potholes and Road Hazards
-- **Published**: January 29, 2026
-- **Summary**: https://www.caranddriver.com/news/a70176340/honda-ai-technology-road-hazards/</a></p>
-<p>Comment......
-- [Read more](https://www.caranddriver.com/news/a70176340/honda-ai-technology-road-hazards/)
+### CV of Failure
+- **Published**: January 30, 2026
+- **Summary**: https://sites.google.com/view/mankikim/curriculum-vitae</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com......
+- **Keywords**: failure
+- [Read more](https://sites.google.com/view/mankikim/curriculum-vitae)
 
-### GNU gettext 1.0 released
-- **Published**: January 29, 2026
-- **Summary**: https://lists.gnu.org/archive/html/info-gnu/2026-01/msg00007.html</a></p>
-<p>Comments URL: <a href="https://......
-- [Read more](https://lists.gnu.org/archive/html/info-gnu/2026-01/msg00007.html)
+### GrindMal – An open-source 'arena' for fixing/collab projects
+- **Published**: January 30, 2026
+- **Summary**: https://grindmal.tomari.dev/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46819702">https://news.ycombinator.com/item?i......
+- [Read more](https://grindmal.tomari.dev/)
 
 ---
 
