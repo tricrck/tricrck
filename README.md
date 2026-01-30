@@ -16,15 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Badges, Bytes and Blackmail
+### Researchers Uncover Chrome Extensions Abusing Affiliate Links and Stealing ChatGPT Access
 - **Published**: January 30, 2026
-- **Summary**: Behind the scenes of law enforcement in cyber: what do we know about caught cybercriminals? What brought them in, where do they come from and what was...
-- [Read more](https://thehackernews.com/2026/01/badges-bytes-and-blackmail.html)
+- **Summary**: Cybersecurity researchers have discovered malicious Google Chrome extensions that come with capabilities to hijack affiliate links, steal data, and co...
+- [Read more](https://thehackernews.com/2026/01/researchers-uncover-chrome-extensions.html)
 
-### Ex-Google Engineer Convicted for Stealing 2,000 AI Trade Secrets for China Startup
+### Show HN: Best Weather App for iPhone
 - **Published**: January 30, 2026
-- **Summary**: A former Google engineer accused of stealing thousands of the company's confidential documents to build a startup in China has been convicted in the U...
-- [Read more](https://thehackernews.com/2026/01/ex-google-engineer-convicted-for.html)
+- **Summary**: https://brzzy.co/weather-app</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46828086">https://news.ycombinator.com/item?i......
+- [Read more](https://brzzy.co/weather-app)
 
 ---
 
