@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Two Ivanti EPMM Zero-Day RCE Flaws Actively Exploited, Security Updates Released
+### Badges, Bytes and Blackmail
 - **Published**: January 30, 2026
-- **Summary**: Ivanti has rolled out security updates to address two security flaws impacting Ivanti Endpoint Manager Mobile (EPMM) that have been exploited in zero-...
-- [Read more](https://thehackernews.com/2026/01/two-ivanti-epmm-zero-day-rce-flaws.html)
+- **Summary**: Behind the scenes of law enforcement in cyber: what do we know about caught cybercriminals? What brought them in, where do they come from and what was...
+- [Read more](https://thehackernews.com/2026/01/badges-bytes-and-blackmail.html)
 
-### One-step pixel space image generation
+### Ex-Google Engineer Convicted for Stealing 2,000 AI Trade Secrets for China Startup
 - **Published**: January 30, 2026
-- **Summary**: https://arxiv.org/abs/2601.22158</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46821241">https://news.ycombinator.co......
-- [Read more](https://arxiv.org/abs/2601.22158)
+- **Summary**: A former Google engineer accused of stealing thousands of the company's confidential documents to build a startup in China has been convicted in the U...
+- [Read more](https://thehackernews.com/2026/01/ex-google-engineer-convicted-for.html)
 
 ---
 
