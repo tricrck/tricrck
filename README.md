@@ -16,18 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### CV of Failure
+### Two Ivanti EPMM Zero-Day RCE Flaws Actively Exploited, Security Updates Released
 - **Published**: January 30, 2026
-- **Summary**: https://sites.google.com/view/mankikim/curriculum-vitae</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com......
-- **Keywords**: failure
-- [Read more](https://sites.google.com/view/mankikim/curriculum-vitae)
+- **Summary**: Ivanti has rolled out security updates to address two security flaws impacting Ivanti Endpoint Manager Mobile (EPMM) that have been exploited in zero-...
+- [Read more](https://thehackernews.com/2026/01/two-ivanti-epmm-zero-day-rce-flaws.html)
 
-### GrindMal – An open-source 'arena' for fixing/collab projects
+### One-step pixel space image generation
 - **Published**: January 30, 2026
-- **Summary**: https://grindmal.tomari.dev/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46819702">https://news.ycombinator.com/item?i......
-- [Read more](https://grindmal.tomari.dev/)
+- **Summary**: https://arxiv.org/abs/2601.22158</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46821241">https://news.ycombinator.co......
+- [Read more](https://arxiv.org/abs/2601.22158)
 
 ---
 
