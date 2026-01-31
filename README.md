@@ -16,16 +16,18 @@
 
 ## 🚨 Tech Stories
 
-### Researchers Uncover Chrome Extensions Abusing Affiliate Links and Stealing ChatGPT Access
-- **Published**: January 30, 2026
-- **Summary**: Cybersecurity researchers have discovered malicious Google Chrome extensions that come with capabilities to hijack affiliate links, steal data, and co...
-- [Read more](https://thehackernews.com/2026/01/researchers-uncover-chrome-extensions.html)
+### U.N. Says It's in Danger of Financial Collapse Because of Unpaid Dues
+- **Published**: January 31, 2026
+- **Summary**: https://www.nytimes.com/2026/01/30/world/americas/un-finances-collapse-debts.html</a></p>
+<p......
+- **Keywords**: collapse, collapse, collapse
+- [Read more](https://www.nytimes.com/2026/01/30/world/americas/un-finances-collapse-debts.html)
 
-### Show HN: Best Weather App for iPhone
-- **Published**: January 30, 2026
-- **Summary**: https://brzzy.co/weather-app</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46828086">https://news.ycombinator.com/item?i......
-- [Read more](https://brzzy.co/weather-app)
+### Takeaway coffee cups release microplastic particles
+- **Published**: January 31, 2026
+- **Summary**: https://phys.org/news/2026-01-takeaway-coffee-cups-thousands-microplastic.html</a></p>
+<p>Comme......
+- [Read more](https://phys.org/news/2026-01-takeaway-coffee-cups-thousands-microplastic.html)
 
 ---
 
