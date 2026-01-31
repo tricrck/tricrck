@@ -16,18 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### U.N. Says It's in Danger of Financial Collapse Because of Unpaid Dues
+### Scrobble-CLI: log your vinyl record listens from terminal
 - **Published**: January 31, 2026
-- **Summary**: https://www.nytimes.com/2026/01/30/world/americas/un-finances-collapse-debts.html</a></p>
-<p......
-- **Keywords**: collapse, collapse, collapse
-- [Read more](https://www.nytimes.com/2026/01/30/world/americas/un-finances-collapse-debts.html)
+- **Summary**: https://github.com/weisserj/scrobble-cli</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46834063">https://new......
+- [Read more](https://github.com/weisserj/scrobble-cli)
 
-### Takeaway coffee cups release microplastic particles
+### FOSDEM 2026 Live Streaming
 - **Published**: January 31, 2026
-- **Summary**: https://phys.org/news/2026-01-takeaway-coffee-cups-thousands-microplastic.html</a></p>
-<p>Comme......
-- [Read more](https://phys.org/news/2026-01-takeaway-coffee-cups-thousands-microplastic.html)
+- **Summary**: https://fosdem.org/2026/schedule/streaming/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46834061">https......
+- [Read more](https://fosdem.org/2026/schedule/streaming/)
 
 ---
 
