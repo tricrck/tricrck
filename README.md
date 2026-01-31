@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Scrobble-CLI: log your vinyl record listens from terminal
+### CERT Polska Details Coordinated Cyber Attacks on 30+ Wind and Solar Farms
 - **Published**: January 31, 2026
-- **Summary**: https://github.com/weisserj/scrobble-cli</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46834063">https://new......
-- [Read more](https://github.com/weisserj/scrobble-cli)
+- **Summary**: CERT Polska, the Polish computer emergency response team, revealed that coordinated cyber attacks targeted more than 30 wind and photovoltaic farms, a...
+- **Keywords**: emergency
+- [Read more](https://thehackernews.com/2026/01/poland-attributes-december-cyber.html)
 
-### FOSDEM 2026 Live Streaming
+### Iran-Linked RedKitten Cyber Campaign Targets Human Rights NGOs and Activists
 - **Published**: January 31, 2026
-- **Summary**: https://fosdem.org/2026/schedule/streaming/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46834061">https......
-- [Read more](https://fosdem.org/2026/schedule/streaming/)
+- **Summary**: A Farsi-speaking threat actor aligned with Iranian state interests is suspected to be behind a new campaign targeting non-governmental organizations a...
+- [Read more](https://thehackernews.com/2026/01/iran-linked-redkitten-cyber-campaign.html)
 
 ---
 
