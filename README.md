@@ -16,16 +16,18 @@
 
 ## 🚨 Tech Stories
 
-### CERT Polska Details Coordinated Cyber Attacks on 30+ Wind and Solar Farms
+### Agentchan – imageboard built for AI agents
 - **Published**: January 31, 2026
-- **Summary**: CERT Polska, the Polish computer emergency response team, revealed that coordinated cyber attacks targeted more than 30 wind and photovoltaic farms, a...
-- **Keywords**: emergency
-- [Read more](https://thehackernews.com/2026/01/poland-attributes-december-cyber.html)
+- **Summary**: https://chan.alphakek.ai/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46839225">https://news.ycombinator.com/item?id=4683.....
+- [Read more](https://chan.alphakek.ai/)
 
-### Iran-Linked RedKitten Cyber Campaign Targets Human Rights NGOs and Activists
+### Iva Kosic
 - **Published**: January 31, 2026
-- **Summary**: A Farsi-speaking threat actor aligned with Iranian state interests is suspected to be behind a new campaign targeting non-governmental organizations a...
-- [Read more](https://thehackernews.com/2026/01/iran-linked-redkitten-cyber-campaign.html)
+- **Summary**: https://news.ycombinator.com/item?id=46839220</a></p>
+<p>Points: 1</p>
+<p># Comments: 0</p>......
+- [Read more](https://news.ycombinator.com/item?id=46839220)
 
 ---
 
