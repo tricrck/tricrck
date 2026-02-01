@@ -16,18 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Agentchan – imageboard built for AI agents
-- **Published**: January 31, 2026
-- **Summary**: https://chan.alphakek.ai/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46839225">https://news.ycombinator.com/item?id=4683.....
-- [Read more](https://chan.alphakek.ai/)
+### Gaming market melts down after Google reveals new AI game design tool — Project Genie crashes stocks for Roblox, Nintendo, CD Projekt Red, and more
+- **Published**: February 01, 2026
+- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1qsiv67/gaming_market_melts_down_after_google_reveals_new/"> <img alt="Gaming market melts ...
+- **Keywords**: down, down
+- [Read more](https://www.reddit.com/r/technology/comments/1qsiv67/gaming_market_melts_down_after_google_reveals_new/)
 
-### Iva Kosic
-- **Published**: January 31, 2026
-- **Summary**: https://news.ycombinator.com/item?id=46839220</a></p>
-<p>Points: 1</p>
-<p># Comments: 0</p>......
-- [Read more](https://news.ycombinator.com/item?id=46839220)
+### The Disconnected Git Workflow
+- **Published**: February 01, 2026
+- **Summary**: https://ploum.net/2026-01-31-offline-git-send-email.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.c......
+- [Read more](https://ploum.net/2026-01-31-offline-git-send-email.html)
 
 ---
 
