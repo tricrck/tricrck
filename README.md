@@ -16,16 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Claude Code: connect to a local model when your quota runs out
+### Imaging the Wigner crystal state in a new type of quantum material
 - **Published**: February 01, 2026
-- **Summary**: https://boxc.net/blog/2026/claude-code-connecting-to-local-models-when-your-quota-......
-- [Read more](https://boxc.net/blog/2026/claude-code-connecting-to-local-models-when-your-quota-runs-out/)
+- **Summary**: https://phys.org/news/2026-01-imaging-wigner-crystal-state-quantum.html</a></p>
+<p>Comments URL: <a hr......
+- [Read more](https://phys.org/news/2026-01-imaging-wigner-crystal-state-quantum.html)
 
-### How I Transformed My Life in 2025
+### Why Airbnb Never Became a Trillion-Dollar Company
 - **Published**: February 01, 2026
-- **Summary**: https://bayramovanar.substack.com/p/how-i-transformed-my-life-in-2025</a></p>
-<p>Comments URL: <a href="......
-- [Read more](https://bayramovanar.substack.com/p/how-i-transformed-my-life-in-2025)
+- **Summary**: https://gilpignol.substack.com/p/why-airbnb-never-became-a-trillion</a></p>
+<p>Comments URL: <a href="http......
+- [Read more](https://gilpignol.substack.com/p/why-airbnb-never-became-a-trillion)
 
 ---
 
