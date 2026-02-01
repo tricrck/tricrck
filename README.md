@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### List animals until failure
+### Claude Code: connect to a local model when your quota runs out
 - **Published**: February 01, 2026
-- **Summary**: ......
-- **Keywords**: failure
-- [Read more](https://rose.systems/animalist/)
+- **Summary**: https://boxc.net/blog/2026/claude-code-connecting-to-local-models-when-your-quota-......
+- [Read more](https://boxc.net/blog/2026/claude-code-connecting-to-local-models-when-your-quota-runs-out/)
 
-### Florida couple claims fertility clinic error led to birth of a 'non-Caucasian child' not biologically theirs
+### How I Transformed My Life in 2025
 - **Published**: February 01, 2026
-- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1qsjg58/florida_couple_claims_fertility_clinic_error_led/"> <img alt="Florida couple claims...
-- **Keywords**: error, error
-- [Read more](https://www.reddit.com/r/technology/comments/1qsjg58/florida_couple_claims_fertility_clinic_error_led/)
+- **Summary**: https://bayramovanar.substack.com/p/how-i-transformed-my-life-in-2025</a></p>
+<p>Comments URL: <a href="......
+- [Read more](https://bayramovanar.substack.com/p/how-i-transformed-my-life-in-2025)
 
 ---
 
