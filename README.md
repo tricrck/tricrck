@@ -16,17 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Gaming market melts down after Google reveals new AI game design tool — Project Genie crashes stocks for Roblox, Nintendo, CD Projekt Red, and more
+### List animals until failure
 - **Published**: February 01, 2026
-- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1qsiv67/gaming_market_melts_down_after_google_reveals_new/"> <img alt="Gaming market melts ...
-- **Keywords**: down, down
-- [Read more](https://www.reddit.com/r/technology/comments/1qsiv67/gaming_market_melts_down_after_google_reveals_new/)
+- **Summary**: ......
+- **Keywords**: failure
+- [Read more](https://rose.systems/animalist/)
 
-### The Disconnected Git Workflow
+### Florida couple claims fertility clinic error led to birth of a 'non-Caucasian child' not biologically theirs
 - **Published**: February 01, 2026
-- **Summary**: https://ploum.net/2026-01-31-offline-git-send-email.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.c......
-- [Read more](https://ploum.net/2026-01-31-offline-git-send-email.html)
+- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1qsjg58/florida_couple_claims_fertility_clinic_error_led/"> <img alt="Florida couple claims...
+- **Keywords**: error, error
+- [Read more](https://www.reddit.com/r/technology/comments/1qsjg58/florida_couple_claims_fertility_clinic_error_led/)
 
 ---
 
