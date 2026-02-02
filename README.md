@@ -16,17 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### The LLM Revolution Is Over. The Physical AI Revolution Is Coming Fast [video]
+### eScan Antivirus Update Servers Compromised to Deliver Multi-Stage Malware
 - **Published**: February 02, 2026
-- **Summary**: https://www.youtube.com/watch?v=MWMe7yjPYpE</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46851642">https......
-- [Read more](https://www.youtube.com/watch?v=MWMe7yjPYpE)
+- **Summary**: The update infrastructure for eScan antivirus, a security solution developed by Indian cybersecurity company MicroWorld Technologies, has been comprom...
+- [Read more](https://thehackernews.com/2026/02/escan-antivirus-update-servers.html)
 
-### Agent Development Kit (ADK-Go) v0.4.0
+### Open VSX Supply Chain Attack Used Compromised Dev Account to Spread GlassWorm
 - **Published**: February 02, 2026
-- **Summary**: https://github.com/google/adk-go/releases/tag/v0.4.0</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?......
-- [Read more](https://github.com/google/adk-go/releases/tag/v0.4.0)
+- **Summary**: Cybersecurity researchers have disclosed details of a supply chain attack targeting the Open VSX Registry in which unidentified threat actors compromi...
+- [Read more](https://thehackernews.com/2026/02/open-vsx-supply-chain-attack-used.html)
 
 ---
 
