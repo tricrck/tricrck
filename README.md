@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Notepad++ Official Update Mechanism Hijacked to Deliver Malware to Select Users
+### OpenClaw Bug Enables One-Click Remote Code Execution via Malicious Link
 - **Published**: February 02, 2026
-- **Summary**: The maintainer of Notepad++ has revealed that state-sponsored attackers hijacked the utility's update mechanism to redirect update traffic to maliciou...
-- [Read more](https://thehackernews.com/2026/02/notepad-official-update-mechanism.html)
+- **Summary**: A high-severity security flaw has been disclosed in OpenClaw (formerly referred to as Clawdbot and Moltbot) that could allow remote code execution (RC...
+- **Keywords**: bug
+- [Read more](https://thehackernews.com/2026/02/openclaw-bug-enables-one-click-remote.html)
 
-### Doing Less, for Her
+### Microsoft Begins NTLM Phase-Out With Three-Stage Plan to Move Windows to Kerberos
 - **Published**: February 02, 2026
-- **Summary**: https://carlosbecker.com/posts/less/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46855494">https://news.ycombi......
-- [Read more](https://carlosbecker.com/posts/less/)
+- **Summary**: Microsoft has announced a three-phase approach to phase out New Technology LAN Manager (NTLM) as part of its efforts to shift Windows environments tow...
+- [Read more](https://thehackernews.com/2026/02/microsoft-begins-ntlm-phase-out-with.html)
 
 ---
 

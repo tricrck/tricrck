@@ -1,10 +1,28 @@
 {
   "chaos_ranked": [
     {
-      "title": "Notepad++ Official Update Mechanism Hijacked to Deliver Malware to Select Users",
-      "link": "https://thehackernews.com/2026/02/notepad-official-update-mechanism.html",
-      "summary": "The maintainer of Notepad++ has revealed that state-sponsored attackers hijacked the utility's update mechanism to redirect update traffic to malicious servers instead.\n\"The attack involved [an] infra...",
-      "published": "2026-02-02T14:25:00+05:30",
+      "title": "OpenClaw Bug Enables One-Click Remote Code Execution via Malicious Link",
+      "link": "https://thehackernews.com/2026/02/openclaw-bug-enables-one-click-remote.html",
+      "summary": "A high-severity security flaw has been disclosed in OpenClaw (formerly referred to as Clawdbot and Moltbot) that could allow remote code execution (RCE) through a crafted malicious link.\nThe issue, wh...",
+      "published": "2026-02-02T21:58:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 11.1,
+        "anarchy": 3.0,
+        "overall": 7.1
+      },
+      "keywords": {
+        "chaos": [
+          "bug"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Microsoft Begins NTLM Phase-Out With Three-Stage Plan to Move Windows to Kerberos",
+      "link": "https://thehackernews.com/2026/02/microsoft-begins-ntlm-phase-out-with.html",
+      "summary": "Microsoft has announced a three-phase approach to phase out New Technology LAN Manager (NTLM) as part of its efforts to shift Windows environments toward stronger, Kerberos-based options.\nThe developm...",
+      "published": "2026-02-02T21:29:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -17,11 +35,11 @@
       }
     },
     {
-      "title": "Doing Less, for Her",
-      "link": "https://carlosbecker.com/posts/less/",
-      "summary": "<p>Article URL: <a href=\"https://carlosbecker.com/posts/less/\">https://carlosbecker.com/posts/less/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46855494\">https://news.ycombi...",
-      "published": "2026-02-02T12:55:08+00:00",
-      "domain": "carlosbecker.com",
+      "title": "Show HN: Vibecode Together \u2013 StumbleUpon for Vibe-coded projects",
+      "link": "https://vibecodetogether.flow.club/",
+      "summary": "<p>There's no shortage of advice on how to vibe-code (or vibe engineer, if you're actually reading the code outputted by LLMs) better. We're inundated with how to write prompts, set up better context ...",
+      "published": "2026-02-02T18:37:19+00:00",
+      "domain": "vibecodetogether.flow.club",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -33,11 +51,11 @@
       }
     },
     {
-      "title": "In my Google Calendar, every event is an AI task",
-      "link": "https://kimmoihanus.com/posts/011-google-calendar-llm-orchestrator",
-      "summary": "<p>Article URL: <a href=\"https://kimmoihanus.com/posts/011-google-calendar-llm-orchestrator\">https://kimmoihanus.com/posts/011-google-calendar-llm-orchestrator</a></p>\n<p>Comments URL: <a href=\"https:...",
-      "published": "2026-02-02T12:54:55+00:00",
-      "domain": "kimmoihanus.com",
+      "title": "AI SEC startup CEO posts a job. Deepfake candidate applies, inner turmoil ensues",
+      "link": "https://www.theregister.com/2026/02/01/ai_security_startup_ceo_posts/",
+      "summary": "<p>Article URL: <a href=\"https://www.theregister.com/2026/02/01/ai_security_startup_ceo_posts/\">https://www.theregister.com/2026/02/01/ai_security_startup_ceo_posts/</a></p>\n<p>Comments URL: <a href=\"...",
+      "published": "2026-02-02T18:36:11+00:00",
+      "domain": "theregister.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -49,11 +67,11 @@
       }
     },
     {
-      "title": "Demystifying Secure NFS",
-      "link": "https://blogsystem5.substack.com/p/demystifying-secure-nfs",
-      "summary": "<p>Article URL: <a href=\"https://blogsystem5.substack.com/p/demystifying-secure-nfs\">https://blogsystem5.substack.com/p/demystifying-secure-nfs</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinat...",
-      "published": "2026-02-02T12:54:39+00:00",
-      "domain": "blogsystem5.substack.com",
+      "title": "Chaldean/Aramaic Flashcards [pdf]",
+      "link": "https://www.culturaldiversity.com.au/files/multilingual-resources/2025/01/Chaldean-Bilingual-Phrase-Cards.pdf",
+      "summary": "<p>Article URL: <a href=\"https://www.culturaldiversity.com.au/files/multilingual-resources/2025/01/Chaldean-Bilingual-Phrase-Cards.pdf\">https://www.culturaldiversity.com.au/files/multilingual-resource...",
+      "published": "2026-02-02T18:36:04+00:00",
+      "domain": "culturaldiversity.com.au",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -65,11 +83,11 @@
       }
     },
     {
-      "title": "Launching Free Clay Alternative",
-      "link": "https://bitscale.ai/",
-      "summary": "<p>Article URL: <a href=\"https://bitscale.ai/\">https://bitscale.ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46855468\">https://news.ycombinator.com/item?id=46855468</a></...",
-      "published": "2026-02-02T12:54:04+00:00",
-      "domain": "bitscale.ai",
+      "title": "Show HN: Drift FM \u2013 Ambient Mood Radio (Go, SQLite, Vanilla JavaScript)",
+      "link": "https://drift.1mb.dev",
+      "summary": "<p>Built an ambient mood radio. Pick one of 6 moods (focus, calm, late night, energize, groove, storm) and it plays continuously.<p>Tech: Go backend serving static files + API from single binary, SQLi...",
+      "published": "2026-02-02T18:35:47+00:00",
+      "domain": "drift.1mb.dev",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -81,11 +99,11 @@
       }
     },
     {
-      "title": "Convolutions and Semirings",
-      "link": "https://doisinkidney.com/posts/2017-10-13-convolutions-and-semirings.html",
-      "summary": "<p>Article URL: <a href=\"https://doisinkidney.com/posts/2017-10-13-convolutions-and-semirings.html\">https://doisinkidney.com/posts/2017-10-13-convolutions-and-semirings.html</a></p>\n<p>Comments URL: <...",
-      "published": "2026-02-02T12:53:42+00:00",
-      "domain": "doisinkidney.com",
+      "title": "What You Should Know About Facebook CEO Mark Zuckerberg's Senate Hearing",
+      "link": "https://blog.acton.org/archives/101128-explainer-what-you-should-know-about-facebook-ceo-mark-zuckerbergs-senate-hearings.html",
+      "summary": "<p>Article URL: <a href=\"https://blog.acton.org/archives/101128-explainer-what-you-should-know-about-facebook-ceo-mark-zuckerbergs-senate-hearings.html\">https://blog.acton.org/archives/101128-explaine...",
+      "published": "2026-02-02T18:35:24+00:00",
+      "domain": "blog.acton.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -97,11 +115,11 @@
       }
     },
     {
-      "title": "Claude Code is suddenly everywhere inside Microsoft",
-      "link": "https://www.theverge.com/tech/865689/microsoft-claude-code-anthropic-partnership-notepad",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=46854999\">Comments</a>...",
-      "published": "2026-02-02T11:58:58+00:00",
-      "domain": "theverge.com",
+      "title": "The Codex App",
+      "link": "https://openai.com/index/introducing-the-codex-app/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46859054\">Comments</a>...",
+      "published": "2026-02-02T18:02:48+00:00",
+      "domain": "openai.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -113,11 +131,11 @@
       }
     },
     {
-      "title": "eScan Antivirus Update Servers Compromised to Deliver Multi-Stage Malware",
-      "link": "https://thehackernews.com/2026/02/escan-antivirus-update-servers.html",
-      "summary": "The update infrastructure for eScan antivirus, a security solution developed by Indian cybersecurity company MicroWorld Technologies, has been compromised by unknown attackers to deliver a persistent ...",
-      "published": "2026-02-02T11:17:00+05:30",
-      "domain": "thehackernews.com",
+      "title": "How we\u2019re helping preserve the genetic information of endangered species with AI",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/ai-to-preserve-endangered-species/",
+      "summary": "A four-part vertical collage showing a cotton-top tamarin, an ibex, a golden lion tamarin, and a penguin....",
+      "published": "2026-02-02T18:00:00+00:00",
+      "domain": "blog.google",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -129,27 +147,11 @@
       }
     },
     {
-      "title": "Termux",
-      "link": "https://github.com/termux/termux-app",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=46854642\">Comments</a>...",
-      "published": "2026-02-02T11:03:44+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "My (very) fast zero-allocation webserver using OxCaml",
-      "link": "https://anil.recoil.org/notes/oxcaml-httpz",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=46854534\">Comments</a>...",
-      "published": "2026-02-02T10:45:44+00:00",
-      "domain": "anil.recoil.org",
+      "title": "Advancing AI Benchmarking with Game Arena",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/kaggle-game-arena-updates/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46858873\">Comments</a>...",
+      "published": "2026-02-02T17:49:07+00:00",
+      "domain": "blog.google",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -163,10 +165,28 @@
   ],
   "anarchy_ranked": [
     {
-      "title": "Notepad++ Official Update Mechanism Hijacked to Deliver Malware to Select Users",
-      "link": "https://thehackernews.com/2026/02/notepad-official-update-mechanism.html",
-      "summary": "The maintainer of Notepad++ has revealed that state-sponsored attackers hijacked the utility's update mechanism to redirect update traffic to malicious servers instead.\n\"The attack involved [an] infra...",
-      "published": "2026-02-02T14:25:00+05:30",
+      "title": "OpenClaw Bug Enables One-Click Remote Code Execution via Malicious Link",
+      "link": "https://thehackernews.com/2026/02/openclaw-bug-enables-one-click-remote.html",
+      "summary": "A high-severity security flaw has been disclosed in OpenClaw (formerly referred to as Clawdbot and Moltbot) that could allow remote code execution (RCE) through a crafted malicious link.\nThe issue, wh...",
+      "published": "2026-02-02T21:58:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 11.1,
+        "anarchy": 3.0,
+        "overall": 7.1
+      },
+      "keywords": {
+        "chaos": [
+          "bug"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Microsoft Begins NTLM Phase-Out With Three-Stage Plan to Move Windows to Kerberos",
+      "link": "https://thehackernews.com/2026/02/microsoft-begins-ntlm-phase-out-with.html",
+      "summary": "Microsoft has announced a three-phase approach to phase out New Technology LAN Manager (NTLM) as part of its efforts to shift Windows environments toward stronger, Kerberos-based options.\nThe developm...",
+      "published": "2026-02-02T21:29:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -179,11 +199,11 @@
       }
     },
     {
-      "title": "Doing Less, for Her",
-      "link": "https://carlosbecker.com/posts/less/",
-      "summary": "<p>Article URL: <a href=\"https://carlosbecker.com/posts/less/\">https://carlosbecker.com/posts/less/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46855494\">https://news.ycombi...",
-      "published": "2026-02-02T12:55:08+00:00",
-      "domain": "carlosbecker.com",
+      "title": "Show HN: Vibecode Together \u2013 StumbleUpon for Vibe-coded projects",
+      "link": "https://vibecodetogether.flow.club/",
+      "summary": "<p>There's no shortage of advice on how to vibe-code (or vibe engineer, if you're actually reading the code outputted by LLMs) better. We're inundated with how to write prompts, set up better context ...",
+      "published": "2026-02-02T18:37:19+00:00",
+      "domain": "vibecodetogether.flow.club",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -195,11 +215,11 @@
       }
     },
     {
-      "title": "In my Google Calendar, every event is an AI task",
-      "link": "https://kimmoihanus.com/posts/011-google-calendar-llm-orchestrator",
-      "summary": "<p>Article URL: <a href=\"https://kimmoihanus.com/posts/011-google-calendar-llm-orchestrator\">https://kimmoihanus.com/posts/011-google-calendar-llm-orchestrator</a></p>\n<p>Comments URL: <a href=\"https:...",
-      "published": "2026-02-02T12:54:55+00:00",
-      "domain": "kimmoihanus.com",
+      "title": "AI SEC startup CEO posts a job. Deepfake candidate applies, inner turmoil ensues",
+      "link": "https://www.theregister.com/2026/02/01/ai_security_startup_ceo_posts/",
+      "summary": "<p>Article URL: <a href=\"https://www.theregister.com/2026/02/01/ai_security_startup_ceo_posts/\">https://www.theregister.com/2026/02/01/ai_security_startup_ceo_posts/</a></p>\n<p>Comments URL: <a href=\"...",
+      "published": "2026-02-02T18:36:11+00:00",
+      "domain": "theregister.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -211,11 +231,11 @@
       }
     },
     {
-      "title": "Demystifying Secure NFS",
-      "link": "https://blogsystem5.substack.com/p/demystifying-secure-nfs",
-      "summary": "<p>Article URL: <a href=\"https://blogsystem5.substack.com/p/demystifying-secure-nfs\">https://blogsystem5.substack.com/p/demystifying-secure-nfs</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinat...",
-      "published": "2026-02-02T12:54:39+00:00",
-      "domain": "blogsystem5.substack.com",
+      "title": "Chaldean/Aramaic Flashcards [pdf]",
+      "link": "https://www.culturaldiversity.com.au/files/multilingual-resources/2025/01/Chaldean-Bilingual-Phrase-Cards.pdf",
+      "summary": "<p>Article URL: <a href=\"https://www.culturaldiversity.com.au/files/multilingual-resources/2025/01/Chaldean-Bilingual-Phrase-Cards.pdf\">https://www.culturaldiversity.com.au/files/multilingual-resource...",
+      "published": "2026-02-02T18:36:04+00:00",
+      "domain": "culturaldiversity.com.au",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -227,11 +247,11 @@
       }
     },
     {
-      "title": "Launching Free Clay Alternative",
-      "link": "https://bitscale.ai/",
-      "summary": "<p>Article URL: <a href=\"https://bitscale.ai/\">https://bitscale.ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46855468\">https://news.ycombinator.com/item?id=46855468</a></...",
-      "published": "2026-02-02T12:54:04+00:00",
-      "domain": "bitscale.ai",
+      "title": "Show HN: Drift FM \u2013 Ambient Mood Radio (Go, SQLite, Vanilla JavaScript)",
+      "link": "https://drift.1mb.dev",
+      "summary": "<p>Built an ambient mood radio. Pick one of 6 moods (focus, calm, late night, energize, groove, storm) and it plays continuously.<p>Tech: Go backend serving static files + API from single binary, SQLi...",
+      "published": "2026-02-02T18:35:47+00:00",
+      "domain": "drift.1mb.dev",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -243,11 +263,11 @@
       }
     },
     {
-      "title": "Convolutions and Semirings",
-      "link": "https://doisinkidney.com/posts/2017-10-13-convolutions-and-semirings.html",
-      "summary": "<p>Article URL: <a href=\"https://doisinkidney.com/posts/2017-10-13-convolutions-and-semirings.html\">https://doisinkidney.com/posts/2017-10-13-convolutions-and-semirings.html</a></p>\n<p>Comments URL: <...",
-      "published": "2026-02-02T12:53:42+00:00",
-      "domain": "doisinkidney.com",
+      "title": "What You Should Know About Facebook CEO Mark Zuckerberg's Senate Hearing",
+      "link": "https://blog.acton.org/archives/101128-explainer-what-you-should-know-about-facebook-ceo-mark-zuckerbergs-senate-hearings.html",
+      "summary": "<p>Article URL: <a href=\"https://blog.acton.org/archives/101128-explainer-what-you-should-know-about-facebook-ceo-mark-zuckerbergs-senate-hearings.html\">https://blog.acton.org/archives/101128-explaine...",
+      "published": "2026-02-02T18:35:24+00:00",
+      "domain": "blog.acton.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -259,11 +279,11 @@
       }
     },
     {
-      "title": "Claude Code is suddenly everywhere inside Microsoft",
-      "link": "https://www.theverge.com/tech/865689/microsoft-claude-code-anthropic-partnership-notepad",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=46854999\">Comments</a>...",
-      "published": "2026-02-02T11:58:58+00:00",
-      "domain": "theverge.com",
+      "title": "The Codex App",
+      "link": "https://openai.com/index/introducing-the-codex-app/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46859054\">Comments</a>...",
+      "published": "2026-02-02T18:02:48+00:00",
+      "domain": "openai.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -275,11 +295,11 @@
       }
     },
     {
-      "title": "eScan Antivirus Update Servers Compromised to Deliver Multi-Stage Malware",
-      "link": "https://thehackernews.com/2026/02/escan-antivirus-update-servers.html",
-      "summary": "The update infrastructure for eScan antivirus, a security solution developed by Indian cybersecurity company MicroWorld Technologies, has been compromised by unknown attackers to deliver a persistent ...",
-      "published": "2026-02-02T11:17:00+05:30",
-      "domain": "thehackernews.com",
+      "title": "How we\u2019re helping preserve the genetic information of endangered species with AI",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/ai-to-preserve-endangered-species/",
+      "summary": "A four-part vertical collage showing a cotton-top tamarin, an ibex, a golden lion tamarin, and a penguin....",
+      "published": "2026-02-02T18:00:00+00:00",
+      "domain": "blog.google",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -291,27 +311,11 @@
       }
     },
     {
-      "title": "Termux",
-      "link": "https://github.com/termux/termux-app",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=46854642\">Comments</a>...",
-      "published": "2026-02-02T11:03:44+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "My (very) fast zero-allocation webserver using OxCaml",
-      "link": "https://anil.recoil.org/notes/oxcaml-httpz",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=46854534\">Comments</a>...",
-      "published": "2026-02-02T10:45:44+00:00",
-      "domain": "anil.recoil.org",
+      "title": "Advancing AI Benchmarking with Game Arena",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/kaggle-game-arena-updates/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46858873\">Comments</a>...",
+      "published": "2026-02-02T17:49:07+00:00",
+      "domain": "blog.google",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -325,10 +329,28 @@
   ],
   "overall_ranked": [
     {
-      "title": "Notepad++ Official Update Mechanism Hijacked to Deliver Malware to Select Users",
-      "link": "https://thehackernews.com/2026/02/notepad-official-update-mechanism.html",
-      "summary": "The maintainer of Notepad++ has revealed that state-sponsored attackers hijacked the utility's update mechanism to redirect update traffic to malicious servers instead.\n\"The attack involved [an] infra...",
-      "published": "2026-02-02T14:25:00+05:30",
+      "title": "OpenClaw Bug Enables One-Click Remote Code Execution via Malicious Link",
+      "link": "https://thehackernews.com/2026/02/openclaw-bug-enables-one-click-remote.html",
+      "summary": "A high-severity security flaw has been disclosed in OpenClaw (formerly referred to as Clawdbot and Moltbot) that could allow remote code execution (RCE) through a crafted malicious link.\nThe issue, wh...",
+      "published": "2026-02-02T21:58:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 11.1,
+        "anarchy": 3.0,
+        "overall": 7.1
+      },
+      "keywords": {
+        "chaos": [
+          "bug"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Microsoft Begins NTLM Phase-Out With Three-Stage Plan to Move Windows to Kerberos",
+      "link": "https://thehackernews.com/2026/02/microsoft-begins-ntlm-phase-out-with.html",
+      "summary": "Microsoft has announced a three-phase approach to phase out New Technology LAN Manager (NTLM) as part of its efforts to shift Windows environments toward stronger, Kerberos-based options.\nThe developm...",
+      "published": "2026-02-02T21:29:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -341,11 +363,11 @@
       }
     },
     {
-      "title": "Doing Less, for Her",
-      "link": "https://carlosbecker.com/posts/less/",
-      "summary": "<p>Article URL: <a href=\"https://carlosbecker.com/posts/less/\">https://carlosbecker.com/posts/less/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46855494\">https://news.ycombi...",
-      "published": "2026-02-02T12:55:08+00:00",
-      "domain": "carlosbecker.com",
+      "title": "Show HN: Vibecode Together \u2013 StumbleUpon for Vibe-coded projects",
+      "link": "https://vibecodetogether.flow.club/",
+      "summary": "<p>There's no shortage of advice on how to vibe-code (or vibe engineer, if you're actually reading the code outputted by LLMs) better. We're inundated with how to write prompts, set up better context ...",
+      "published": "2026-02-02T18:37:19+00:00",
+      "domain": "vibecodetogether.flow.club",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -357,11 +379,11 @@
       }
     },
     {
-      "title": "In my Google Calendar, every event is an AI task",
-      "link": "https://kimmoihanus.com/posts/011-google-calendar-llm-orchestrator",
-      "summary": "<p>Article URL: <a href=\"https://kimmoihanus.com/posts/011-google-calendar-llm-orchestrator\">https://kimmoihanus.com/posts/011-google-calendar-llm-orchestrator</a></p>\n<p>Comments URL: <a href=\"https:...",
-      "published": "2026-02-02T12:54:55+00:00",
-      "domain": "kimmoihanus.com",
+      "title": "AI SEC startup CEO posts a job. Deepfake candidate applies, inner turmoil ensues",
+      "link": "https://www.theregister.com/2026/02/01/ai_security_startup_ceo_posts/",
+      "summary": "<p>Article URL: <a href=\"https://www.theregister.com/2026/02/01/ai_security_startup_ceo_posts/\">https://www.theregister.com/2026/02/01/ai_security_startup_ceo_posts/</a></p>\n<p>Comments URL: <a href=\"...",
+      "published": "2026-02-02T18:36:11+00:00",
+      "domain": "theregister.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -373,11 +395,11 @@
       }
     },
     {
-      "title": "Demystifying Secure NFS",
-      "link": "https://blogsystem5.substack.com/p/demystifying-secure-nfs",
-      "summary": "<p>Article URL: <a href=\"https://blogsystem5.substack.com/p/demystifying-secure-nfs\">https://blogsystem5.substack.com/p/demystifying-secure-nfs</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinat...",
-      "published": "2026-02-02T12:54:39+00:00",
-      "domain": "blogsystem5.substack.com",
+      "title": "Chaldean/Aramaic Flashcards [pdf]",
+      "link": "https://www.culturaldiversity.com.au/files/multilingual-resources/2025/01/Chaldean-Bilingual-Phrase-Cards.pdf",
+      "summary": "<p>Article URL: <a href=\"https://www.culturaldiversity.com.au/files/multilingual-resources/2025/01/Chaldean-Bilingual-Phrase-Cards.pdf\">https://www.culturaldiversity.com.au/files/multilingual-resource...",
+      "published": "2026-02-02T18:36:04+00:00",
+      "domain": "culturaldiversity.com.au",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -389,11 +411,11 @@
       }
     },
     {
-      "title": "Launching Free Clay Alternative",
-      "link": "https://bitscale.ai/",
-      "summary": "<p>Article URL: <a href=\"https://bitscale.ai/\">https://bitscale.ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46855468\">https://news.ycombinator.com/item?id=46855468</a></...",
-      "published": "2026-02-02T12:54:04+00:00",
-      "domain": "bitscale.ai",
+      "title": "Show HN: Drift FM \u2013 Ambient Mood Radio (Go, SQLite, Vanilla JavaScript)",
+      "link": "https://drift.1mb.dev",
+      "summary": "<p>Built an ambient mood radio. Pick one of 6 moods (focus, calm, late night, energize, groove, storm) and it plays continuously.<p>Tech: Go backend serving static files + API from single binary, SQLi...",
+      "published": "2026-02-02T18:35:47+00:00",
+      "domain": "drift.1mb.dev",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -405,11 +427,11 @@
       }
     },
     {
-      "title": "Convolutions and Semirings",
-      "link": "https://doisinkidney.com/posts/2017-10-13-convolutions-and-semirings.html",
-      "summary": "<p>Article URL: <a href=\"https://doisinkidney.com/posts/2017-10-13-convolutions-and-semirings.html\">https://doisinkidney.com/posts/2017-10-13-convolutions-and-semirings.html</a></p>\n<p>Comments URL: <...",
-      "published": "2026-02-02T12:53:42+00:00",
-      "domain": "doisinkidney.com",
+      "title": "What You Should Know About Facebook CEO Mark Zuckerberg's Senate Hearing",
+      "link": "https://blog.acton.org/archives/101128-explainer-what-you-should-know-about-facebook-ceo-mark-zuckerbergs-senate-hearings.html",
+      "summary": "<p>Article URL: <a href=\"https://blog.acton.org/archives/101128-explainer-what-you-should-know-about-facebook-ceo-mark-zuckerbergs-senate-hearings.html\">https://blog.acton.org/archives/101128-explaine...",
+      "published": "2026-02-02T18:35:24+00:00",
+      "domain": "blog.acton.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -421,11 +443,11 @@
       }
     },
     {
-      "title": "Claude Code is suddenly everywhere inside Microsoft",
-      "link": "https://www.theverge.com/tech/865689/microsoft-claude-code-anthropic-partnership-notepad",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=46854999\">Comments</a>...",
-      "published": "2026-02-02T11:58:58+00:00",
-      "domain": "theverge.com",
+      "title": "The Codex App",
+      "link": "https://openai.com/index/introducing-the-codex-app/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46859054\">Comments</a>...",
+      "published": "2026-02-02T18:02:48+00:00",
+      "domain": "openai.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -437,11 +459,11 @@
       }
     },
     {
-      "title": "eScan Antivirus Update Servers Compromised to Deliver Multi-Stage Malware",
-      "link": "https://thehackernews.com/2026/02/escan-antivirus-update-servers.html",
-      "summary": "The update infrastructure for eScan antivirus, a security solution developed by Indian cybersecurity company MicroWorld Technologies, has been compromised by unknown attackers to deliver a persistent ...",
-      "published": "2026-02-02T11:17:00+05:30",
-      "domain": "thehackernews.com",
+      "title": "How we\u2019re helping preserve the genetic information of endangered species with AI",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/ai-to-preserve-endangered-species/",
+      "summary": "A four-part vertical collage showing a cotton-top tamarin, an ibex, a golden lion tamarin, and a penguin....",
+      "published": "2026-02-02T18:00:00+00:00",
+      "domain": "blog.google",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -453,27 +475,11 @@
       }
     },
     {
-      "title": "Termux",
-      "link": "https://github.com/termux/termux-app",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=46854642\">Comments</a>...",
-      "published": "2026-02-02T11:03:44+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "My (very) fast zero-allocation webserver using OxCaml",
-      "link": "https://anil.recoil.org/notes/oxcaml-httpz",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=46854534\">Comments</a>...",
-      "published": "2026-02-02T10:45:44+00:00",
-      "domain": "anil.recoil.org",
+      "title": "Advancing AI Benchmarking with Game Arena",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/kaggle-game-arena-updates/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46858873\">Comments</a>...",
+      "published": "2026-02-02T17:49:07+00:00",
+      "domain": "blog.google",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -487,10 +493,28 @@
   ],
   "all_articles": [
     {
-      "title": "Notepad++ Official Update Mechanism Hijacked to Deliver Malware to Select Users",
-      "link": "https://thehackernews.com/2026/02/notepad-official-update-mechanism.html",
-      "summary": "The maintainer of Notepad++ has revealed that state-sponsored attackers hijacked the utility's update mechanism to redirect update traffic to malicious servers instead.\n\"The attack involved [an] infra...",
-      "published": "2026-02-02T14:25:00+05:30",
+      "title": "OpenClaw Bug Enables One-Click Remote Code Execution via Malicious Link",
+      "link": "https://thehackernews.com/2026/02/openclaw-bug-enables-one-click-remote.html",
+      "summary": "A high-severity security flaw has been disclosed in OpenClaw (formerly referred to as Clawdbot and Moltbot) that could allow remote code execution (RCE) through a crafted malicious link.\nThe issue, wh...",
+      "published": "2026-02-02T21:58:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 11.1,
+        "anarchy": 3.0,
+        "overall": 7.1
+      },
+      "keywords": {
+        "chaos": [
+          "bug"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Microsoft Begins NTLM Phase-Out With Three-Stage Plan to Move Windows to Kerberos",
+      "link": "https://thehackernews.com/2026/02/microsoft-begins-ntlm-phase-out-with.html",
+      "summary": "Microsoft has announced a three-phase approach to phase out New Technology LAN Manager (NTLM) as part of its efforts to shift Windows environments toward stronger, Kerberos-based options.\nThe developm...",
+      "published": "2026-02-02T21:29:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -503,11 +527,11 @@
       }
     },
     {
-      "title": "Doing Less, for Her",
-      "link": "https://carlosbecker.com/posts/less/",
-      "summary": "<p>Article URL: <a href=\"https://carlosbecker.com/posts/less/\">https://carlosbecker.com/posts/less/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46855494\">https://news.ycombi...",
-      "published": "2026-02-02T12:55:08+00:00",
-      "domain": "carlosbecker.com",
+      "title": "Show HN: Vibecode Together \u2013 StumbleUpon for Vibe-coded projects",
+      "link": "https://vibecodetogether.flow.club/",
+      "summary": "<p>There's no shortage of advice on how to vibe-code (or vibe engineer, if you're actually reading the code outputted by LLMs) better. We're inundated with how to write prompts, set up better context ...",
+      "published": "2026-02-02T18:37:19+00:00",
+      "domain": "vibecodetogether.flow.club",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -519,11 +543,11 @@
       }
     },
     {
-      "title": "In my Google Calendar, every event is an AI task",
-      "link": "https://kimmoihanus.com/posts/011-google-calendar-llm-orchestrator",
-      "summary": "<p>Article URL: <a href=\"https://kimmoihanus.com/posts/011-google-calendar-llm-orchestrator\">https://kimmoihanus.com/posts/011-google-calendar-llm-orchestrator</a></p>\n<p>Comments URL: <a href=\"https:...",
-      "published": "2026-02-02T12:54:55+00:00",
-      "domain": "kimmoihanus.com",
+      "title": "AI SEC startup CEO posts a job. Deepfake candidate applies, inner turmoil ensues",
+      "link": "https://www.theregister.com/2026/02/01/ai_security_startup_ceo_posts/",
+      "summary": "<p>Article URL: <a href=\"https://www.theregister.com/2026/02/01/ai_security_startup_ceo_posts/\">https://www.theregister.com/2026/02/01/ai_security_startup_ceo_posts/</a></p>\n<p>Comments URL: <a href=\"...",
+      "published": "2026-02-02T18:36:11+00:00",
+      "domain": "theregister.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -535,11 +559,11 @@
       }
     },
     {
-      "title": "Demystifying Secure NFS",
-      "link": "https://blogsystem5.substack.com/p/demystifying-secure-nfs",
-      "summary": "<p>Article URL: <a href=\"https://blogsystem5.substack.com/p/demystifying-secure-nfs\">https://blogsystem5.substack.com/p/demystifying-secure-nfs</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinat...",
-      "published": "2026-02-02T12:54:39+00:00",
-      "domain": "blogsystem5.substack.com",
+      "title": "Chaldean/Aramaic Flashcards [pdf]",
+      "link": "https://www.culturaldiversity.com.au/files/multilingual-resources/2025/01/Chaldean-Bilingual-Phrase-Cards.pdf",
+      "summary": "<p>Article URL: <a href=\"https://www.culturaldiversity.com.au/files/multilingual-resources/2025/01/Chaldean-Bilingual-Phrase-Cards.pdf\">https://www.culturaldiversity.com.au/files/multilingual-resource...",
+      "published": "2026-02-02T18:36:04+00:00",
+      "domain": "culturaldiversity.com.au",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -551,11 +575,11 @@
       }
     },
     {
-      "title": "Launching Free Clay Alternative",
-      "link": "https://bitscale.ai/",
-      "summary": "<p>Article URL: <a href=\"https://bitscale.ai/\">https://bitscale.ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46855468\">https://news.ycombinator.com/item?id=46855468</a></...",
-      "published": "2026-02-02T12:54:04+00:00",
-      "domain": "bitscale.ai",
+      "title": "Show HN: Drift FM \u2013 Ambient Mood Radio (Go, SQLite, Vanilla JavaScript)",
+      "link": "https://drift.1mb.dev",
+      "summary": "<p>Built an ambient mood radio. Pick one of 6 moods (focus, calm, late night, energize, groove, storm) and it plays continuously.<p>Tech: Go backend serving static files + API from single binary, SQLi...",
+      "published": "2026-02-02T18:35:47+00:00",
+      "domain": "drift.1mb.dev",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -567,11 +591,11 @@
       }
     },
     {
-      "title": "Convolutions and Semirings",
-      "link": "https://doisinkidney.com/posts/2017-10-13-convolutions-and-semirings.html",
-      "summary": "<p>Article URL: <a href=\"https://doisinkidney.com/posts/2017-10-13-convolutions-and-semirings.html\">https://doisinkidney.com/posts/2017-10-13-convolutions-and-semirings.html</a></p>\n<p>Comments URL: <...",
-      "published": "2026-02-02T12:53:42+00:00",
-      "domain": "doisinkidney.com",
+      "title": "What You Should Know About Facebook CEO Mark Zuckerberg's Senate Hearing",
+      "link": "https://blog.acton.org/archives/101128-explainer-what-you-should-know-about-facebook-ceo-mark-zuckerbergs-senate-hearings.html",
+      "summary": "<p>Article URL: <a href=\"https://blog.acton.org/archives/101128-explainer-what-you-should-know-about-facebook-ceo-mark-zuckerbergs-senate-hearings.html\">https://blog.acton.org/archives/101128-explaine...",
+      "published": "2026-02-02T18:35:24+00:00",
+      "domain": "blog.acton.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -583,11 +607,11 @@
       }
     },
     {
-      "title": "Claude Code is suddenly everywhere inside Microsoft",
-      "link": "https://www.theverge.com/tech/865689/microsoft-claude-code-anthropic-partnership-notepad",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=46854999\">Comments</a>...",
-      "published": "2026-02-02T11:58:58+00:00",
-      "domain": "theverge.com",
+      "title": "The Codex App",
+      "link": "https://openai.com/index/introducing-the-codex-app/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46859054\">Comments</a>...",
+      "published": "2026-02-02T18:02:48+00:00",
+      "domain": "openai.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -599,11 +623,11 @@
       }
     },
     {
-      "title": "eScan Antivirus Update Servers Compromised to Deliver Multi-Stage Malware",
-      "link": "https://thehackernews.com/2026/02/escan-antivirus-update-servers.html",
-      "summary": "The update infrastructure for eScan antivirus, a security solution developed by Indian cybersecurity company MicroWorld Technologies, has been compromised by unknown attackers to deliver a persistent ...",
-      "published": "2026-02-02T11:17:00+05:30",
-      "domain": "thehackernews.com",
+      "title": "How we\u2019re helping preserve the genetic information of endangered species with AI",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/ai-to-preserve-endangered-species/",
+      "summary": "A four-part vertical collage showing a cotton-top tamarin, an ibex, a golden lion tamarin, and a penguin....",
+      "published": "2026-02-02T18:00:00+00:00",
+      "domain": "blog.google",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -615,27 +639,11 @@
       }
     },
     {
-      "title": "Termux",
-      "link": "https://github.com/termux/termux-app",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=46854642\">Comments</a>...",
-      "published": "2026-02-02T11:03:44+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "My (very) fast zero-allocation webserver using OxCaml",
-      "link": "https://anil.recoil.org/notes/oxcaml-httpz",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=46854534\">Comments</a>...",
-      "published": "2026-02-02T10:45:44+00:00",
-      "domain": "anil.recoil.org",
+      "title": "Advancing AI Benchmarking with Game Arena",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/kaggle-game-arena-updates/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46858873\">Comments</a>...",
+      "published": "2026-02-02T17:49:07+00:00",
+      "domain": "blog.google",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
