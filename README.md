@@ -16,15 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### eScan Antivirus Update Servers Compromised to Deliver Multi-Stage Malware
+### Notepad++ Official Update Mechanism Hijacked to Deliver Malware to Select Users
 - **Published**: February 02, 2026
-- **Summary**: The update infrastructure for eScan antivirus, a security solution developed by Indian cybersecurity company MicroWorld Technologies, has been comprom...
-- [Read more](https://thehackernews.com/2026/02/escan-antivirus-update-servers.html)
+- **Summary**: The maintainer of Notepad++ has revealed that state-sponsored attackers hijacked the utility's update mechanism to redirect update traffic to maliciou...
+- [Read more](https://thehackernews.com/2026/02/notepad-official-update-mechanism.html)
 
-### Open VSX Supply Chain Attack Used Compromised Dev Account to Spread GlassWorm
+### Doing Less, for Her
 - **Published**: February 02, 2026
-- **Summary**: Cybersecurity researchers have disclosed details of a supply chain attack targeting the Open VSX Registry in which unidentified threat actors compromi...
-- [Read more](https://thehackernews.com/2026/02/open-vsx-supply-chain-attack-used.html)
+- **Summary**: https://carlosbecker.com/posts/less/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46855494">https://news.ycombi......
+- [Read more](https://carlosbecker.com/posts/less/)
 
 ---
 
