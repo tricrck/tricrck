@@ -16,17 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Imaging the Wigner crystal state in a new type of quantum material
-- **Published**: February 01, 2026
-- **Summary**: https://phys.org/news/2026-01-imaging-wigner-crystal-state-quantum.html</a></p>
-<p>Comments URL: <a hr......
-- [Read more](https://phys.org/news/2026-01-imaging-wigner-crystal-state-quantum.html)
+### The LLM Revolution Is Over. The Physical AI Revolution Is Coming Fast [video]
+- **Published**: February 02, 2026
+- **Summary**: https://www.youtube.com/watch?v=MWMe7yjPYpE</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46851642">https......
+- [Read more](https://www.youtube.com/watch?v=MWMe7yjPYpE)
 
-### Why Airbnb Never Became a Trillion-Dollar Company
-- **Published**: February 01, 2026
-- **Summary**: https://gilpignol.substack.com/p/why-airbnb-never-became-a-trillion</a></p>
-<p>Comments URL: <a href="http......
-- [Read more](https://gilpignol.substack.com/p/why-airbnb-never-became-a-trillion)
+### Agent Development Kit (ADK-Go) v0.4.0
+- **Published**: February 02, 2026
+- **Summary**: https://github.com/google/adk-go/releases/tag/v0.4.0</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?......
+- [Read more](https://github.com/google/adk-go/releases/tag/v0.4.0)
 
 ---
 
