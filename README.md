@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### OpenClaw Bug Enables One-Click Remote Code Execution via Malicious Link
-- **Published**: February 02, 2026
-- **Summary**: A high-severity security flaw has been disclosed in OpenClaw (formerly referred to as Clawdbot and Moltbot) that could allow remote code execution (RC...
-- **Keywords**: bug
-- [Read more](https://thehackernews.com/2026/02/openclaw-bug-enables-one-click-remote.html)
-
-### Omg.lol – A loveable web page and email address
+### China to ban hidden car door handles on all EVs over crash safety concerns
 - **Published**: February 03, 2026
-- **Summary**: https://home.omg.lol/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46865552">https://news.ycombinator.com/item?id=46865552</...
-- [Read more](https://home.omg.lol/)
+- **Summary**: https://www.theguardian.com/environment/2026/feb/03/china-to-ban-hidden-car-door-......
+- **Keywords**: crash
+- [Read more](https://www.theguardian.com/environment/2026/feb/03/china-to-ban-hidden-car-door-handles-evs)
+
+### Mozilla Adds One-Click Option to Disable Generative AI Features in Firefox
+- **Published**: February 03, 2026
+- **Summary**: Mozilla on Monday announced a new controls section in its Firefox desktop browser settings that allows users to completely turn off generative artific...
+- [Read more](https://thehackernews.com/2026/02/mozilla-adds-one-click-option-to.html)
 
 ---
 
