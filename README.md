@@ -22,10 +22,11 @@
 - **Keywords**: bug
 - [Read more](https://thehackernews.com/2026/02/openclaw-bug-enables-one-click-remote.html)
 
-### Microsoft Begins NTLM Phase-Out With Three-Stage Plan to Move Windows to Kerberos
-- **Published**: February 02, 2026
-- **Summary**: Microsoft has announced a three-phase approach to phase out New Technology LAN Manager (NTLM) as part of its efforts to shift Windows environments tow...
-- [Read more](https://thehackernews.com/2026/02/microsoft-begins-ntlm-phase-out-with.html)
+### Omg.lol – A loveable web page and email address
+- **Published**: February 03, 2026
+- **Summary**: https://home.omg.lol/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46865552">https://news.ycombinator.com/item?id=46865552</...
+- [Read more](https://home.omg.lol/)
 
 ---
 
