@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### When Cloud Outages Ripple Across the Internet
+### DHS is trying to force tech companies to hand over data about Trump critics
 - **Published**: February 03, 2026
-- **Summary**: Recent major cloud service outages have been hard to miss. High-profile incidents affecting providers such as AWS, Azure, and Cloudflare have disrupte...
-- **Keywords**: down
-- [Read more](https://thehackernews.com/2026/02/when-cloud-outages-ripple-across.html)
+- **Summary**: https://techcrunch.com/2026/02/03/homeland-securi......
+- [Read more](https://techcrunch.com/2026/02/03/homeland-security-is-trying-to-force-tech-companies-to-hand-over-data-about-trump-critics/)
 
-### APT28 Uses Microsoft Office CVE-2026-21509 in Espionage-Focused Malware Attacks
+### Docker Fixes Critical Ask Gordon AI Flaw Allowing Code Execution via Image Metadata
 - **Published**: February 03, 2026
-- **Summary**: The Russia-linked state-sponsored threat actor known as APT28 (aka UAC-0001) has been attributed to attacks exploiting a newly disclosed security flaw...
-- [Read more](https://thehackernews.com/2026/02/apt28-uses-microsoft-office-cve-2026.html)
+- **Summary**: Cybersecurity researchers have disclosed details of a now-patched security flaw impacting Ask Gordon, an artificial intelligence (AI) assistant built ...
+- [Read more](https://thehackernews.com/2026/02/docker-fixes-critical-ask-gordon-ai.html)
 
 ---
 
