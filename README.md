@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### China to ban hidden car door handles on all EVs over crash safety concerns
+### When Cloud Outages Ripple Across the Internet
 - **Published**: February 03, 2026
-- **Summary**: https://www.theguardian.com/environment/2026/feb/03/china-to-ban-hidden-car-door-......
-- **Keywords**: crash
-- [Read more](https://www.theguardian.com/environment/2026/feb/03/china-to-ban-hidden-car-door-handles-evs)
+- **Summary**: Recent major cloud service outages have been hard to miss. High-profile incidents affecting providers such as AWS, Azure, and Cloudflare have disrupte...
+- **Keywords**: down
+- [Read more](https://thehackernews.com/2026/02/when-cloud-outages-ripple-across.html)
 
-### Mozilla Adds One-Click Option to Disable Generative AI Features in Firefox
+### APT28 Uses Microsoft Office CVE-2026-21509 in Espionage-Focused Malware Attacks
 - **Published**: February 03, 2026
-- **Summary**: Mozilla on Monday announced a new controls section in its Firefox desktop browser settings that allows users to completely turn off generative artific...
-- [Read more](https://thehackernews.com/2026/02/mozilla-adds-one-click-option-to.html)
+- **Summary**: The Russia-linked state-sponsored threat actor known as APT28 (aka UAC-0001) has been attributed to attacks exploiting a newly disclosed security flaw...
+- [Read more](https://thehackernews.com/2026/02/apt28-uses-microsoft-office-cve-2026.html)
 
 ---
 

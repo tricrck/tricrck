@@ -1,20 +1,116 @@
 {
   "chaos_ranked": [
     {
-      "title": "China to ban hidden car door handles on all EVs over crash safety concerns",
-      "link": "https://www.theguardian.com/environment/2026/feb/03/china-to-ban-hidden-car-door-handles-evs",
-      "summary": "<p>Article URL: <a href=\"https://www.theguardian.com/environment/2026/feb/03/china-to-ban-hidden-car-door-handles-evs\">https://www.theguardian.com/environment/2026/feb/03/china-to-ban-hidden-car-door-...",
-      "published": "2026-02-03T06:42:23+00:00",
-      "domain": "theguardian.com",
+      "title": "When Cloud Outages Ripple Across the Internet",
+      "link": "https://thehackernews.com/2026/02/when-cloud-outages-ripple-across.html",
+      "summary": "Recent major cloud service outages have been hard to miss. High-profile incidents affecting providers such as AWS, Azure, and Cloudflare have disrupted large parts of the internet, taking down website...",
+      "published": "2026-02-03T16:30:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
-        "chaos": 14.4,
+        "chaos": 10.4,
         "anarchy": 3.0,
-        "overall": 8.7
+        "overall": 6.7
       },
       "keywords": {
         "chaos": [
-          "crash"
+          "down"
         ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "APT28 Uses Microsoft Office CVE-2026-21509 in Espionage-Focused Malware Attacks",
+      "link": "https://thehackernews.com/2026/02/apt28-uses-microsoft-office-cve-2026.html",
+      "summary": "The Russia-linked state-sponsored threat actor known as APT28 (aka UAC-0001) has been attributed to attacks exploiting a newly disclosed security flaw in Microsoft Office as part of a campaign codenam...",
+      "published": "2026-02-03T14:42:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "My Dead Internet \u2013 86 AI Agents Building a Shared Consciousness",
+      "link": "https://mydeadinternet.com",
+      "summary": "<p>Article URL: <a href=\"https://mydeadinternet.com\">https://mydeadinternet.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46870452\">https://news.ycombinator.com/item?id=46...",
+      "published": "2026-02-03T12:59:54+00:00",
+      "domain": "mydeadinternet.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The Making of Kanjideck: From Anki to Kickstarter",
+      "link": "https://alt-romes.github.io/posts/2026-01-30-from-side-project-to-kickstarter-a-walkthrough.html",
+      "summary": "<p>Article URL: <a href=\"https://alt-romes.github.io/posts/2026-01-30-from-side-project-to-kickstarter-a-walkthrough.html\">https://alt-romes.github.io/posts/2026-01-30-from-side-project-to-kickstarter...",
+      "published": "2026-02-03T12:54:29+00:00",
+      "domain": "alt-romes.github.io",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Building my self-hosted cloud coding agent",
+      "link": "https://stanislas.blog/2026/02/netclode-self-hosted-cloud-coding-agent/",
+      "summary": "<p>Article URL: <a href=\"https://stanislas.blog/2026/02/netclode-self-hosted-cloud-coding-agent/\">https://stanislas.blog/2026/02/netclode-self-hosted-cloud-coding-agent/</a></p>\n<p>Comments URL: <a hr...",
+      "published": "2026-02-03T12:49:47+00:00",
+      "domain": "stanislas.blog",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: 7min.ai \u2013 no-BS AI news aggregator curated by AI",
+      "link": "https://7min.ai/",
+      "summary": "<p>I built a no-BS AI news website (and newsletter) that uses AI to curate the best AI-related stories for me: 7min.ai.<p>I'm subscribed to many AI newsletters. I think they are useful, but they have ...",
+      "published": "2026-02-03T12:49:14+00:00",
+      "domain": "7min.ai",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Ask HN: Anyone have a \"sovereign\" solution for phone calls?",
+      "link": "https://news.ycombinator.com/item?id=46870336",
+      "summary": "<p>I've been working on an SMTP/email server lately, and while Google and some others imply a lot of frowny-faces and put quotation marks around tests \"passing\" for not using a corporate relay, does a...",
+      "published": "2026-02-03T12:46:05+00:00",
+      "domain": "news.ycombinator.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
         "anarchy": []
       }
     },
@@ -51,107 +147,11 @@
       }
     },
     {
-      "title": "Notepad++ update service hijacked in targeted state-linked attack",
-      "link": "https://www.theregister.com/2026/02/02/notepad_plusplus_intrusion/",
-      "summary": "<p>Article URL: <a href=\"https://www.theregister.com/2026/02/02/notepad_plusplus_intrusion/\">https://www.theregister.com/2026/02/02/notepad_plusplus_intrusion/</a></p>\n<p>Comments URL: <a href=\"https:...",
-      "published": "2026-02-03T06:49:56+00:00",
-      "domain": "theregister.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Best AI Detectors in 2026",
-      "link": "https://digg.com/ai-detection/iocMcHI/best-ai-detectors-in-2026",
-      "summary": "<p>Article URL: <a href=\"https://digg.com/ai-detection/iocMcHI/best-ai-detectors-in-2026\">https://digg.com/ai-detection/iocMcHI/best-ai-detectors-in-2026</a></p>\n<p>Comments URL: <a href=\"https://news...",
-      "published": "2026-02-03T06:46:30+00:00",
-      "domain": "digg.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "What Is Ruliology?",
-      "link": "https://writings.stephenwolfram.com/2026/01/what-is-ruliology/",
-      "summary": "<p>Article URL: <a href=\"https://writings.stephenwolfram.com/2026/01/what-is-ruliology/\">https://writings.stephenwolfram.com/2026/01/what-is-ruliology/</a></p>\n<p>Comments URL: <a href=\"https://news.y...",
-      "published": "2026-02-03T06:40:40+00:00",
-      "domain": "writings.stephenwolfram.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Gem Fellowship",
-      "link": "https://gem.coop/updates/2026-fellowship/",
-      "summary": "<p>Article URL: <a href=\"https://gem.coop/updates/2026-fellowship/\">https://gem.coop/updates/2026-fellowship/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46867348\">https://n...",
-      "published": "2026-02-03T06:38:38+00:00",
-      "domain": "gem.coop",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Floppinux \u2013 An Embedded Linux on a Single Floppy, 2025 Edition",
-      "link": "https://krzysztofjankowski.com/floppinux/floppinux-2025.html",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=46866544\">Comments</a>...",
-      "published": "2026-02-03T04:33:25+00:00",
-      "domain": "krzysztofjankowski.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Coding assistants are solving the wrong problem",
-      "link": "https://www.bicameral-ai.com/blog/introducing-bicameral",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=46866481\">Comments</a>...",
-      "published": "2026-02-03T04:25:35+00:00",
-      "domain": "bicameral-ai.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "How does misalignment scale with model intelligence and task complexity?",
-      "link": "https://alignment.anthropic.com/2026/hot-mess-of-ai/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=46864498\">Comments</a>...",
-      "published": "2026-02-03T00:28:06+00:00",
-      "domain": "alignment.anthropic.com",
+      "title": "What's up with all those equals signs anyway?",
+      "link": "https://lars.ingebrigtsen.no/2026/02/02/whats-up-with-all-those-equals-signs-anyway/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46868759\">Comments</a>...",
+      "published": "2026-02-03T09:37:40+00:00",
+      "domain": "lars.ingebrigtsen.no",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -165,6 +165,120 @@
   ],
   "anarchy_ranked": [
     {
+      "title": "When Cloud Outages Ripple Across the Internet",
+      "link": "https://thehackernews.com/2026/02/when-cloud-outages-ripple-across.html",
+      "summary": "Recent major cloud service outages have been hard to miss. High-profile incidents affecting providers such as AWS, Azure, and Cloudflare have disrupted large parts of the internet, taking down website...",
+      "published": "2026-02-03T16:30:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 10.4,
+        "anarchy": 3.0,
+        "overall": 6.7
+      },
+      "keywords": {
+        "chaos": [
+          "down"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "APT28 Uses Microsoft Office CVE-2026-21509 in Espionage-Focused Malware Attacks",
+      "link": "https://thehackernews.com/2026/02/apt28-uses-microsoft-office-cve-2026.html",
+      "summary": "The Russia-linked state-sponsored threat actor known as APT28 (aka UAC-0001) has been attributed to attacks exploiting a newly disclosed security flaw in Microsoft Office as part of a campaign codenam...",
+      "published": "2026-02-03T14:42:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "My Dead Internet \u2013 86 AI Agents Building a Shared Consciousness",
+      "link": "https://mydeadinternet.com",
+      "summary": "<p>Article URL: <a href=\"https://mydeadinternet.com\">https://mydeadinternet.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46870452\">https://news.ycombinator.com/item?id=46...",
+      "published": "2026-02-03T12:59:54+00:00",
+      "domain": "mydeadinternet.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The Making of Kanjideck: From Anki to Kickstarter",
+      "link": "https://alt-romes.github.io/posts/2026-01-30-from-side-project-to-kickstarter-a-walkthrough.html",
+      "summary": "<p>Article URL: <a href=\"https://alt-romes.github.io/posts/2026-01-30-from-side-project-to-kickstarter-a-walkthrough.html\">https://alt-romes.github.io/posts/2026-01-30-from-side-project-to-kickstarter...",
+      "published": "2026-02-03T12:54:29+00:00",
+      "domain": "alt-romes.github.io",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Building my self-hosted cloud coding agent",
+      "link": "https://stanislas.blog/2026/02/netclode-self-hosted-cloud-coding-agent/",
+      "summary": "<p>Article URL: <a href=\"https://stanislas.blog/2026/02/netclode-self-hosted-cloud-coding-agent/\">https://stanislas.blog/2026/02/netclode-self-hosted-cloud-coding-agent/</a></p>\n<p>Comments URL: <a hr...",
+      "published": "2026-02-03T12:49:47+00:00",
+      "domain": "stanislas.blog",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: 7min.ai \u2013 no-BS AI news aggregator curated by AI",
+      "link": "https://7min.ai/",
+      "summary": "<p>I built a no-BS AI news website (and newsletter) that uses AI to curate the best AI-related stories for me: 7min.ai.<p>I'm subscribed to many AI newsletters. I think they are useful, but they have ...",
+      "published": "2026-02-03T12:49:14+00:00",
+      "domain": "7min.ai",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Ask HN: Anyone have a \"sovereign\" solution for phone calls?",
+      "link": "https://news.ycombinator.com/item?id=46870336",
+      "summary": "<p>I've been working on an SMTP/email server lately, and while Google and some others imply a lot of frowny-faces and put quotation marks around tests \"passing\" for not using a corporate relay, does a...",
+      "published": "2026-02-03T12:46:05+00:00",
+      "domain": "news.ycombinator.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "Mozilla Adds One-Click Option to Disable Generative AI Features in Firefox",
       "link": "https://thehackernews.com/2026/02/mozilla-adds-one-click-option-to.html",
       "summary": "Mozilla on Monday announced a new controls section in its Firefox desktop browser settings that allows users to completely turn off generative artificial intelligence (GenAI) features.\n\"It provides a ...",
@@ -197,125 +311,11 @@
       }
     },
     {
-      "title": "Notepad++ update service hijacked in targeted state-linked attack",
-      "link": "https://www.theregister.com/2026/02/02/notepad_plusplus_intrusion/",
-      "summary": "<p>Article URL: <a href=\"https://www.theregister.com/2026/02/02/notepad_plusplus_intrusion/\">https://www.theregister.com/2026/02/02/notepad_plusplus_intrusion/</a></p>\n<p>Comments URL: <a href=\"https:...",
-      "published": "2026-02-03T06:49:56+00:00",
-      "domain": "theregister.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Best AI Detectors in 2026",
-      "link": "https://digg.com/ai-detection/iocMcHI/best-ai-detectors-in-2026",
-      "summary": "<p>Article URL: <a href=\"https://digg.com/ai-detection/iocMcHI/best-ai-detectors-in-2026\">https://digg.com/ai-detection/iocMcHI/best-ai-detectors-in-2026</a></p>\n<p>Comments URL: <a href=\"https://news...",
-      "published": "2026-02-03T06:46:30+00:00",
-      "domain": "digg.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "China to ban hidden car door handles on all EVs over crash safety concerns",
-      "link": "https://www.theguardian.com/environment/2026/feb/03/china-to-ban-hidden-car-door-handles-evs",
-      "summary": "<p>Article URL: <a href=\"https://www.theguardian.com/environment/2026/feb/03/china-to-ban-hidden-car-door-handles-evs\">https://www.theguardian.com/environment/2026/feb/03/china-to-ban-hidden-car-door-...",
-      "published": "2026-02-03T06:42:23+00:00",
-      "domain": "theguardian.com",
-      "scores": {
-        "chaos": 14.4,
-        "anarchy": 3.0,
-        "overall": 8.7
-      },
-      "keywords": {
-        "chaos": [
-          "crash"
-        ],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "What Is Ruliology?",
-      "link": "https://writings.stephenwolfram.com/2026/01/what-is-ruliology/",
-      "summary": "<p>Article URL: <a href=\"https://writings.stephenwolfram.com/2026/01/what-is-ruliology/\">https://writings.stephenwolfram.com/2026/01/what-is-ruliology/</a></p>\n<p>Comments URL: <a href=\"https://news.y...",
-      "published": "2026-02-03T06:40:40+00:00",
-      "domain": "writings.stephenwolfram.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Gem Fellowship",
-      "link": "https://gem.coop/updates/2026-fellowship/",
-      "summary": "<p>Article URL: <a href=\"https://gem.coop/updates/2026-fellowship/\">https://gem.coop/updates/2026-fellowship/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46867348\">https://n...",
-      "published": "2026-02-03T06:38:38+00:00",
-      "domain": "gem.coop",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Floppinux \u2013 An Embedded Linux on a Single Floppy, 2025 Edition",
-      "link": "https://krzysztofjankowski.com/floppinux/floppinux-2025.html",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=46866544\">Comments</a>...",
-      "published": "2026-02-03T04:33:25+00:00",
-      "domain": "krzysztofjankowski.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Coding assistants are solving the wrong problem",
-      "link": "https://www.bicameral-ai.com/blog/introducing-bicameral",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=46866481\">Comments</a>...",
-      "published": "2026-02-03T04:25:35+00:00",
-      "domain": "bicameral-ai.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "How does misalignment scale with model intelligence and task complexity?",
-      "link": "https://alignment.anthropic.com/2026/hot-mess-of-ai/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=46864498\">Comments</a>...",
-      "published": "2026-02-03T00:28:06+00:00",
-      "domain": "alignment.anthropic.com",
+      "title": "What's up with all those equals signs anyway?",
+      "link": "https://lars.ingebrigtsen.no/2026/02/02/whats-up-with-all-those-equals-signs-anyway/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46868759\">Comments</a>...",
+      "published": "2026-02-03T09:37:40+00:00",
+      "domain": "lars.ingebrigtsen.no",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -329,20 +329,116 @@
   ],
   "overall_ranked": [
     {
-      "title": "China to ban hidden car door handles on all EVs over crash safety concerns",
-      "link": "https://www.theguardian.com/environment/2026/feb/03/china-to-ban-hidden-car-door-handles-evs",
-      "summary": "<p>Article URL: <a href=\"https://www.theguardian.com/environment/2026/feb/03/china-to-ban-hidden-car-door-handles-evs\">https://www.theguardian.com/environment/2026/feb/03/china-to-ban-hidden-car-door-...",
-      "published": "2026-02-03T06:42:23+00:00",
-      "domain": "theguardian.com",
+      "title": "When Cloud Outages Ripple Across the Internet",
+      "link": "https://thehackernews.com/2026/02/when-cloud-outages-ripple-across.html",
+      "summary": "Recent major cloud service outages have been hard to miss. High-profile incidents affecting providers such as AWS, Azure, and Cloudflare have disrupted large parts of the internet, taking down website...",
+      "published": "2026-02-03T16:30:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
-        "chaos": 14.4,
+        "chaos": 10.4,
         "anarchy": 3.0,
-        "overall": 8.7
+        "overall": 6.7
       },
       "keywords": {
         "chaos": [
-          "crash"
+          "down"
         ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "APT28 Uses Microsoft Office CVE-2026-21509 in Espionage-Focused Malware Attacks",
+      "link": "https://thehackernews.com/2026/02/apt28-uses-microsoft-office-cve-2026.html",
+      "summary": "The Russia-linked state-sponsored threat actor known as APT28 (aka UAC-0001) has been attributed to attacks exploiting a newly disclosed security flaw in Microsoft Office as part of a campaign codenam...",
+      "published": "2026-02-03T14:42:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "My Dead Internet \u2013 86 AI Agents Building a Shared Consciousness",
+      "link": "https://mydeadinternet.com",
+      "summary": "<p>Article URL: <a href=\"https://mydeadinternet.com\">https://mydeadinternet.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46870452\">https://news.ycombinator.com/item?id=46...",
+      "published": "2026-02-03T12:59:54+00:00",
+      "domain": "mydeadinternet.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The Making of Kanjideck: From Anki to Kickstarter",
+      "link": "https://alt-romes.github.io/posts/2026-01-30-from-side-project-to-kickstarter-a-walkthrough.html",
+      "summary": "<p>Article URL: <a href=\"https://alt-romes.github.io/posts/2026-01-30-from-side-project-to-kickstarter-a-walkthrough.html\">https://alt-romes.github.io/posts/2026-01-30-from-side-project-to-kickstarter...",
+      "published": "2026-02-03T12:54:29+00:00",
+      "domain": "alt-romes.github.io",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Building my self-hosted cloud coding agent",
+      "link": "https://stanislas.blog/2026/02/netclode-self-hosted-cloud-coding-agent/",
+      "summary": "<p>Article URL: <a href=\"https://stanislas.blog/2026/02/netclode-self-hosted-cloud-coding-agent/\">https://stanislas.blog/2026/02/netclode-self-hosted-cloud-coding-agent/</a></p>\n<p>Comments URL: <a hr...",
+      "published": "2026-02-03T12:49:47+00:00",
+      "domain": "stanislas.blog",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: 7min.ai \u2013 no-BS AI news aggregator curated by AI",
+      "link": "https://7min.ai/",
+      "summary": "<p>I built a no-BS AI news website (and newsletter) that uses AI to curate the best AI-related stories for me: 7min.ai.<p>I'm subscribed to many AI newsletters. I think they are useful, but they have ...",
+      "published": "2026-02-03T12:49:14+00:00",
+      "domain": "7min.ai",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Ask HN: Anyone have a \"sovereign\" solution for phone calls?",
+      "link": "https://news.ycombinator.com/item?id=46870336",
+      "summary": "<p>I've been working on an SMTP/email server lately, and while Google and some others imply a lot of frowny-faces and put quotation marks around tests \"passing\" for not using a corporate relay, does a...",
+      "published": "2026-02-03T12:46:05+00:00",
+      "domain": "news.ycombinator.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
         "anarchy": []
       }
     },
@@ -379,107 +475,11 @@
       }
     },
     {
-      "title": "Notepad++ update service hijacked in targeted state-linked attack",
-      "link": "https://www.theregister.com/2026/02/02/notepad_plusplus_intrusion/",
-      "summary": "<p>Article URL: <a href=\"https://www.theregister.com/2026/02/02/notepad_plusplus_intrusion/\">https://www.theregister.com/2026/02/02/notepad_plusplus_intrusion/</a></p>\n<p>Comments URL: <a href=\"https:...",
-      "published": "2026-02-03T06:49:56+00:00",
-      "domain": "theregister.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Best AI Detectors in 2026",
-      "link": "https://digg.com/ai-detection/iocMcHI/best-ai-detectors-in-2026",
-      "summary": "<p>Article URL: <a href=\"https://digg.com/ai-detection/iocMcHI/best-ai-detectors-in-2026\">https://digg.com/ai-detection/iocMcHI/best-ai-detectors-in-2026</a></p>\n<p>Comments URL: <a href=\"https://news...",
-      "published": "2026-02-03T06:46:30+00:00",
-      "domain": "digg.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "What Is Ruliology?",
-      "link": "https://writings.stephenwolfram.com/2026/01/what-is-ruliology/",
-      "summary": "<p>Article URL: <a href=\"https://writings.stephenwolfram.com/2026/01/what-is-ruliology/\">https://writings.stephenwolfram.com/2026/01/what-is-ruliology/</a></p>\n<p>Comments URL: <a href=\"https://news.y...",
-      "published": "2026-02-03T06:40:40+00:00",
-      "domain": "writings.stephenwolfram.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Gem Fellowship",
-      "link": "https://gem.coop/updates/2026-fellowship/",
-      "summary": "<p>Article URL: <a href=\"https://gem.coop/updates/2026-fellowship/\">https://gem.coop/updates/2026-fellowship/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46867348\">https://n...",
-      "published": "2026-02-03T06:38:38+00:00",
-      "domain": "gem.coop",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Floppinux \u2013 An Embedded Linux on a Single Floppy, 2025 Edition",
-      "link": "https://krzysztofjankowski.com/floppinux/floppinux-2025.html",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=46866544\">Comments</a>...",
-      "published": "2026-02-03T04:33:25+00:00",
-      "domain": "krzysztofjankowski.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Coding assistants are solving the wrong problem",
-      "link": "https://www.bicameral-ai.com/blog/introducing-bicameral",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=46866481\">Comments</a>...",
-      "published": "2026-02-03T04:25:35+00:00",
-      "domain": "bicameral-ai.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "How does misalignment scale with model intelligence and task complexity?",
-      "link": "https://alignment.anthropic.com/2026/hot-mess-of-ai/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=46864498\">Comments</a>...",
-      "published": "2026-02-03T00:28:06+00:00",
-      "domain": "alignment.anthropic.com",
+      "title": "What's up with all those equals signs anyway?",
+      "link": "https://lars.ingebrigtsen.no/2026/02/02/whats-up-with-all-those-equals-signs-anyway/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46868759\">Comments</a>...",
+      "published": "2026-02-03T09:37:40+00:00",
+      "domain": "lars.ingebrigtsen.no",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -493,6 +493,120 @@
   ],
   "all_articles": [
     {
+      "title": "When Cloud Outages Ripple Across the Internet",
+      "link": "https://thehackernews.com/2026/02/when-cloud-outages-ripple-across.html",
+      "summary": "Recent major cloud service outages have been hard to miss. High-profile incidents affecting providers such as AWS, Azure, and Cloudflare have disrupted large parts of the internet, taking down website...",
+      "published": "2026-02-03T16:30:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 10.4,
+        "anarchy": 3.0,
+        "overall": 6.7
+      },
+      "keywords": {
+        "chaos": [
+          "down"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "APT28 Uses Microsoft Office CVE-2026-21509 in Espionage-Focused Malware Attacks",
+      "link": "https://thehackernews.com/2026/02/apt28-uses-microsoft-office-cve-2026.html",
+      "summary": "The Russia-linked state-sponsored threat actor known as APT28 (aka UAC-0001) has been attributed to attacks exploiting a newly disclosed security flaw in Microsoft Office as part of a campaign codenam...",
+      "published": "2026-02-03T14:42:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "My Dead Internet \u2013 86 AI Agents Building a Shared Consciousness",
+      "link": "https://mydeadinternet.com",
+      "summary": "<p>Article URL: <a href=\"https://mydeadinternet.com\">https://mydeadinternet.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46870452\">https://news.ycombinator.com/item?id=46...",
+      "published": "2026-02-03T12:59:54+00:00",
+      "domain": "mydeadinternet.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The Making of Kanjideck: From Anki to Kickstarter",
+      "link": "https://alt-romes.github.io/posts/2026-01-30-from-side-project-to-kickstarter-a-walkthrough.html",
+      "summary": "<p>Article URL: <a href=\"https://alt-romes.github.io/posts/2026-01-30-from-side-project-to-kickstarter-a-walkthrough.html\">https://alt-romes.github.io/posts/2026-01-30-from-side-project-to-kickstarter...",
+      "published": "2026-02-03T12:54:29+00:00",
+      "domain": "alt-romes.github.io",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Building my self-hosted cloud coding agent",
+      "link": "https://stanislas.blog/2026/02/netclode-self-hosted-cloud-coding-agent/",
+      "summary": "<p>Article URL: <a href=\"https://stanislas.blog/2026/02/netclode-self-hosted-cloud-coding-agent/\">https://stanislas.blog/2026/02/netclode-self-hosted-cloud-coding-agent/</a></p>\n<p>Comments URL: <a hr...",
+      "published": "2026-02-03T12:49:47+00:00",
+      "domain": "stanislas.blog",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: 7min.ai \u2013 no-BS AI news aggregator curated by AI",
+      "link": "https://7min.ai/",
+      "summary": "<p>I built a no-BS AI news website (and newsletter) that uses AI to curate the best AI-related stories for me: 7min.ai.<p>I'm subscribed to many AI newsletters. I think they are useful, but they have ...",
+      "published": "2026-02-03T12:49:14+00:00",
+      "domain": "7min.ai",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Ask HN: Anyone have a \"sovereign\" solution for phone calls?",
+      "link": "https://news.ycombinator.com/item?id=46870336",
+      "summary": "<p>I've been working on an SMTP/email server lately, and while Google and some others imply a lot of frowny-faces and put quotation marks around tests \"passing\" for not using a corporate relay, does a...",
+      "published": "2026-02-03T12:46:05+00:00",
+      "domain": "news.ycombinator.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "Mozilla Adds One-Click Option to Disable Generative AI Features in Firefox",
       "link": "https://thehackernews.com/2026/02/mozilla-adds-one-click-option-to.html",
       "summary": "Mozilla on Monday announced a new controls section in its Firefox desktop browser settings that allows users to completely turn off generative artificial intelligence (GenAI) features.\n\"It provides a ...",
@@ -525,125 +639,11 @@
       }
     },
     {
-      "title": "Notepad++ update service hijacked in targeted state-linked attack",
-      "link": "https://www.theregister.com/2026/02/02/notepad_plusplus_intrusion/",
-      "summary": "<p>Article URL: <a href=\"https://www.theregister.com/2026/02/02/notepad_plusplus_intrusion/\">https://www.theregister.com/2026/02/02/notepad_plusplus_intrusion/</a></p>\n<p>Comments URL: <a href=\"https:...",
-      "published": "2026-02-03T06:49:56+00:00",
-      "domain": "theregister.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Best AI Detectors in 2026",
-      "link": "https://digg.com/ai-detection/iocMcHI/best-ai-detectors-in-2026",
-      "summary": "<p>Article URL: <a href=\"https://digg.com/ai-detection/iocMcHI/best-ai-detectors-in-2026\">https://digg.com/ai-detection/iocMcHI/best-ai-detectors-in-2026</a></p>\n<p>Comments URL: <a href=\"https://news...",
-      "published": "2026-02-03T06:46:30+00:00",
-      "domain": "digg.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "China to ban hidden car door handles on all EVs over crash safety concerns",
-      "link": "https://www.theguardian.com/environment/2026/feb/03/china-to-ban-hidden-car-door-handles-evs",
-      "summary": "<p>Article URL: <a href=\"https://www.theguardian.com/environment/2026/feb/03/china-to-ban-hidden-car-door-handles-evs\">https://www.theguardian.com/environment/2026/feb/03/china-to-ban-hidden-car-door-...",
-      "published": "2026-02-03T06:42:23+00:00",
-      "domain": "theguardian.com",
-      "scores": {
-        "chaos": 14.4,
-        "anarchy": 3.0,
-        "overall": 8.7
-      },
-      "keywords": {
-        "chaos": [
-          "crash"
-        ],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "What Is Ruliology?",
-      "link": "https://writings.stephenwolfram.com/2026/01/what-is-ruliology/",
-      "summary": "<p>Article URL: <a href=\"https://writings.stephenwolfram.com/2026/01/what-is-ruliology/\">https://writings.stephenwolfram.com/2026/01/what-is-ruliology/</a></p>\n<p>Comments URL: <a href=\"https://news.y...",
-      "published": "2026-02-03T06:40:40+00:00",
-      "domain": "writings.stephenwolfram.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Gem Fellowship",
-      "link": "https://gem.coop/updates/2026-fellowship/",
-      "summary": "<p>Article URL: <a href=\"https://gem.coop/updates/2026-fellowship/\">https://gem.coop/updates/2026-fellowship/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46867348\">https://n...",
-      "published": "2026-02-03T06:38:38+00:00",
-      "domain": "gem.coop",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Floppinux \u2013 An Embedded Linux on a Single Floppy, 2025 Edition",
-      "link": "https://krzysztofjankowski.com/floppinux/floppinux-2025.html",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=46866544\">Comments</a>...",
-      "published": "2026-02-03T04:33:25+00:00",
-      "domain": "krzysztofjankowski.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Coding assistants are solving the wrong problem",
-      "link": "https://www.bicameral-ai.com/blog/introducing-bicameral",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=46866481\">Comments</a>...",
-      "published": "2026-02-03T04:25:35+00:00",
-      "domain": "bicameral-ai.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "How does misalignment scale with model intelligence and task complexity?",
-      "link": "https://alignment.anthropic.com/2026/hot-mess-of-ai/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=46864498\">Comments</a>...",
-      "published": "2026-02-03T00:28:06+00:00",
-      "domain": "alignment.anthropic.com",
+      "title": "What's up with all those equals signs anyway?",
+      "link": "https://lars.ingebrigtsen.no/2026/02/02/whats-up-with-all-those-equals-signs-anyway/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46868759\">Comments</a>...",
+      "published": "2026-02-03T09:37:40+00:00",
+      "domain": "lars.ingebrigtsen.no",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
