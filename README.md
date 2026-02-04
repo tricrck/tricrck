@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### DHS Hunts Down 67-Year-Old U.S. Citizen Who Criticized Them in Email
+### Orchid Security Introduces Continuous Identity Observability for Enterprise Applications
 - **Published**: February 04, 2026
-- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1qv9kcb/dhs_hunts_down_67yearold_us_citizen_who/"> <img alt="DHS Hunts Down 67-Year-Old U.S...
-- **Keywords**: down, down
-- [Read more](https://www.reddit.com/r/technology/comments/1qv9kcb/dhs_hunts_down_67yearold_us_citizen_who/)
+- **Summary**: An innovative approach to discovering, analyzing, and governing identity usage beyond traditional IAM controls.
+The Challenge: Identity Lives Outside ...
+- [Read more](https://thehackernews.com/2026/02/orchid-security-introduces-continuous.html)
 
-### Show HN: I'm 16 and built EU AI Act compliance software
+### The First 90 Seconds: How Early Decisions Shape Incident Response Investigations
 - **Published**: February 04, 2026
-- **Summary**: <p>Hey HN – I'm Chaitanya, a 16-year-old student. I built AuditDraft after reading through the EU AI Act and realizing most companies have no idea how...
-- [Read more](https://audit.omensystems.com)
+- **Summary**: Many incident response failures do not come from a lack of tools, intelligence, or technical skills. They come from what happens immediately after det...
+- [Read more](https://thehackernews.com/2026/02/the-first-90-seconds-how-early.html)
 
 ---
 
