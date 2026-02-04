@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Orchid Security Introduces Continuous Identity Observability for Enterprise Applications
+### Microsoft Develops Scanner to Detect Backdoors in Open-Weight Large Language Models
 - **Published**: February 04, 2026
-- **Summary**: An innovative approach to discovering, analyzing, and governing identity usage beyond traditional IAM controls.
-The Challenge: Identity Lives Outside ...
-- [Read more](https://thehackernews.com/2026/02/orchid-security-introduces-continuous.html)
+- **Summary**: Microsoft on Wednesday said it built a lightweight scanner that it said can detect backdoors in open-weight large language models (LLMs) and improve t...
+- [Read more](https://thehackernews.com/2026/02/microsoft-develops-scanner-to-detect.html)
 
-### The First 90 Seconds: How Early Decisions Shape Incident Response Investigations
+### DEAD#VAX Malware Campaign Deploys AsyncRAT via IPFS-Hosted VHD Phishing Files
 - **Published**: February 04, 2026
-- **Summary**: Many incident response failures do not come from a lack of tools, intelligence, or technical skills. They come from what happens immediately after det...
-- [Read more](https://thehackernews.com/2026/02/the-first-90-seconds-how-early.html)
+- **Summary**: Threat hunters have disclosed details of a new, stealthy malware campaign dubbed DEAD#VAX that employs a mix of "disciplined tradecraft and clever abu...
+- [Read more](https://thehackernews.com/2026/02/deadvax-malware-campaign-deploys.html)
 
 ---
 
