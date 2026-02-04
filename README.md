@@ -22,10 +22,10 @@
 - **Keywords**: down, down
 - [Read more](https://www.reddit.com/r/technology/comments/1qv9kcb/dhs_hunts_down_67yearold_us_citizen_who/)
 
-### WhatsApp surveilllance: Dawson vs. Meta Platforms, Inc. (3:26-CV-00751) [pdf]
+### Show HN: I'm 16 and built EU AI Act compliance software
 - **Published**: February 04, 2026
-- **Summary**: https://archive.org/download/gov.uscourts.cand.463150/gov.uscourts.cand.463150.1.0.pdf<......
-- [Read more](https://archive.org/download/gov.uscourts.cand.463150/gov.uscourts.cand.463150.1.0.pdf)
+- **Summary**: <p>Hey HN – I'm Chaitanya, a 16-year-old student. I built AuditDraft after reading through the EU AI Act and realizing most companies have no idea how...
+- [Read more](https://audit.omensystems.com)
 
 ---
 
