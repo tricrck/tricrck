@@ -16,15 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### DHS is trying to force tech companies to hand over data about Trump critics
-- **Published**: February 03, 2026
-- **Summary**: https://techcrunch.com/2026/02/03/homeland-securi......
-- [Read more](https://techcrunch.com/2026/02/03/homeland-security-is-trying-to-force-tech-companies-to-hand-over-data-about-trump-critics/)
+### DHS Hunts Down 67-Year-Old U.S. Citizen Who Criticized Them in Email
+- **Published**: February 04, 2026
+- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1qv9kcb/dhs_hunts_down_67yearold_us_citizen_who/"> <img alt="DHS Hunts Down 67-Year-Old U.S...
+- **Keywords**: down, down
+- [Read more](https://www.reddit.com/r/technology/comments/1qv9kcb/dhs_hunts_down_67yearold_us_citizen_who/)
 
-### Docker Fixes Critical Ask Gordon AI Flaw Allowing Code Execution via Image Metadata
-- **Published**: February 03, 2026
-- **Summary**: Cybersecurity researchers have disclosed details of a now-patched security flaw impacting Ask Gordon, an artificial intelligence (AI) assistant built ...
-- [Read more](https://thehackernews.com/2026/02/docker-fixes-critical-ask-gordon-ai.html)
+### WhatsApp surveilllance: Dawson vs. Meta Platforms, Inc. (3:26-CV-00751) [pdf]
+- **Published**: February 04, 2026
+- **Summary**: https://archive.org/download/gov.uscourts.cand.463150/gov.uscourts.cand.463150.1.0.pdf<......
+- [Read more](https://archive.org/download/gov.uscourts.cand.463150/gov.uscourts.cand.463150.1.0.pdf)
 
 ---
 
