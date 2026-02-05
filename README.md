@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Critical n8n Flaw CVE-2026-25049 Enables System Command Execution via Malicious Workflows
+### The Buyer’s Guide to AI Usage Control
 - **Published**: February 05, 2026
-- **Summary**: A new, critical security vulnerability has been disclosed in the n8n workflow automation platform that, if successfully exploited, could result in the...
-- [Read more](https://thehackernews.com/2026/02/critical-n8n-flaw-cve-2026-25049.html)
+- **Summary**: Today’s “AI everywhere” reality is woven into everyday workflows across the enterprise, embedded in SaaS platforms, browsers, copilots, extensions, an...
+- [Read more](https://thehackernews.com/2026/02/the-buyers-guide-to-ai-usage-control.html)
 
-### Malicious NGINX Configurations Enable Large-Scale Web Traffic Hijacking Campaign
+### Infy Hackers Resume Operations with New C2 Servers After Iran Internet Blackout Ends
 - **Published**: February 05, 2026
-- **Summary**: Cybersecurity researchers have disclosed details of an active web traffic hijacking campaign that has targeted NGINX installations and management pane...
-- [Read more](https://thehackernews.com/2026/02/hackers-exploit-react2shell-to-hijack.html)
+- **Summary**: The elusive Iranian threat group known as Infy (aka Prince of Persia) has evolved its tactics as part of efforts to hide its tracks, even as it readie...
+- [Read more](https://thehackernews.com/2026/02/infy-hackers-resume-operations-with-new.html)
 
 ---
 
