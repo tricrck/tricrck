@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### The Buyer’s Guide to AI Usage Control
+### AISURU/Kimwolf Botnet Launches Record-Setting 31.4 Tbps DDoS Attack
 - **Published**: February 05, 2026
-- **Summary**: Today’s “AI everywhere” reality is woven into everyday workflows across the enterprise, embedded in SaaS platforms, browsers, copilots, extensions, an...
-- [Read more](https://thehackernews.com/2026/02/the-buyers-guide-to-ai-usage-control.html)
+- **Summary**: The distributed denial-of-service (DDoS) botnet known as AISURU/Kimwolf has been attributed to a record-setting attack that peaked at 31.4 Terabits pe...
+- [Read more](https://thehackernews.com/2026/02/aisurukimwolf-botnet-launches-record.html)
 
-### Infy Hackers Resume Operations with New C2 Servers After Iran Internet Blackout Ends
+### High performance correctly rounded math libraries for 32-bit floating point
 - **Published**: February 05, 2026
-- **Summary**: The elusive Iranian threat group known as Infy (aka Prince of Persia) has evolved its tactics as part of efforts to hide its tracks, even as it readie...
-- [Read more](https://thehackernews.com/2026/02/infy-hackers-resume-operations-with-new.html)
+- **Summary**: https://blog.sigplan.org/2021/08/26/high-perf......
+- [Read more](https://blog.sigplan.org/2021/08/26/high-performance-correctly-rounded-math-libraries-for-32-bit-floating-point-representations/)
 
 ---
 
