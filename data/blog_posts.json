@@ -1,122 +1,10 @@
 {
   "chaos_ranked": [
     {
-      "title": "I let the internet control a GitHub repo for 4 weeks",
-      "link": "https://old.reddit.com/r/webdev/comments/1qrz4xj/i_let_the_internet_control_a_github_repo_for_4/",
-      "summary": "<p>Article URL: <a href=\"https://old.reddit.com/r/webdev/comments/1qrz4xj/i_let_the_internet_control_a_github_repo_for_4/\">https://old.reddit.com/r/webdev/comments/1qrz4xj/i_let_the_internet_control_a...",
-      "published": "2026-02-05T02:08:47+00:00",
-      "domain": "old.reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Bedrock, an A.I. Startup for Construction, Raises $270M",
-      "link": "https://www.nytimes.com/2026/02/04/business/dealbook/bedrock-robotics-ai-fundraise.html",
-      "summary": "<p>Article URL: <a href=\"https://www.nytimes.com/2026/02/04/business/dealbook/bedrock-robotics-ai-fundraise.html\">https://www.nytimes.com/2026/02/04/business/dealbook/bedrock-robotics-ai-fundraise.htm...",
-      "published": "2026-02-05T02:06:57+00:00",
-      "domain": "nytimes.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: A Data Interchange Format",
-      "link": "https://github.com/HyaenaTechnologies/configuration/blob/main/documentation/data-interchange.md",
-      "summary": "<p>I have designed a Data Interchange Format to replace JSON, YAML, TOML, XML, Protocol Buffers, SQL and HTTP. This was achieved by splitting the design between a Dynamically Typed Syntax and a Static...",
-      "published": "2026-02-05T02:05:08+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Novo Nordisk Warns of First Sales Drop Since Start of Ozempic",
-      "link": "https://www.nytimes.com/2026/02/04/business/novo-nordisk-wegovy-sales-earnings.html",
-      "summary": "<p>Article URL: <a href=\"https://www.nytimes.com/2026/02/04/business/novo-nordisk-wegovy-sales-earnings.html\">https://www.nytimes.com/2026/02/04/business/novo-nordisk-wegovy-sales-earnings.html</a></p...",
-      "published": "2026-02-05T02:04:46+00:00",
-      "domain": "nytimes.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Realtime Eval Guide",
-      "link": "https://developers.openai.com/cookbook/examples/realtime_eval_guide",
-      "summary": "<p>Article URL: <a href=\"https://developers.openai.com/cookbook/examples/realtime_eval_guide\">https://developers.openai.com/cookbook/examples/realtime_eval_guide</a></p>\n<p>Comments URL: <a href=\"http...",
-      "published": "2026-02-05T02:03:48+00:00",
-      "domain": "developers.openai.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "OpenClaw Is What Apple Intelligence Should Have Been",
-      "link": "https://www.jakequist.com/thoughts/openclaw-is-what-apple-intelligence-should-have-been",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=46893970\">Comments</a>...",
-      "published": "2026-02-05T00:28:06+00:00",
-      "domain": "jakequist.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "3 Teen Sisters Jump to Their Deaths from 9th Floor Apartment After Parents Remove Access to Phone: Reports",
-      "link": "https://www.reddit.com/r/technology/comments/1qw5kwf/3_teen_sisters_jump_to_their_deaths_from_9th/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1qw5kwf/3_teen_sisters_jump_to_their_deaths_from_9th/\"> <img alt=\"3 Teen Sisters Jump to Their Deaths from 9th Floor Apartment Af...",
-      "published": "2026-02-05T00:04:58+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Microsoft Develops Scanner to Detect Backdoors in Open-Weight Large Language Models",
-      "link": "https://thehackernews.com/2026/02/microsoft-develops-scanner-to-detect.html",
-      "summary": "Microsoft on Wednesday said it built a lightweight scanner that it said can detect backdoors in open-weight large language models (LLMs) and improve the overall trust in artificial intelligence (AI) s...",
-      "published": "2026-02-04T23:22:00+05:30",
+      "title": "Critical n8n Flaw CVE-2026-25049 Enables System Command Execution via Malicious Workflows",
+      "link": "https://thehackernews.com/2026/02/critical-n8n-flaw-cve-2026-25049.html",
+      "summary": "A new, critical security vulnerability has been disclosed in the n8n workflow automation platform that, if successfully exploited, could result in the execution of arbitrary system commands.\nThe flaw,...",
+      "published": "2026-02-05T11:46:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -129,11 +17,11 @@
       }
     },
     {
-      "title": "FBI stymied by Apple\u2019s Lockdown Mode after seizing journalist\u2019s iPhone",
-      "link": "https://www.reddit.com/r/technology/comments/1qw4903/fbi_stymied_by_apples_lockdown_mode_after_seizing/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1qw4903/fbi_stymied_by_apples_lockdown_mode_after_seizing/\"> <img alt=\"FBI stymied by Apple\u2019s Lockdown Mode after seizing journal...",
-      "published": "2026-02-04T23:10:28+00:00",
-      "domain": "reddit.com",
+      "title": "Malicious NGINX Configurations Enable Large-Scale Web Traffic Hijacking Campaign",
+      "link": "https://thehackernews.com/2026/02/hackers-exploit-react2shell-to-hijack.html",
+      "summary": "Cybersecurity researchers have disclosed details of an active web traffic hijacking campaign that has targeted NGINX installations and management panels like Baota (BT) in an attempt to route it throu...",
+      "published": "2026-02-05T10:26:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -145,11 +33,123 @@
       }
     },
     {
-      "title": "DEAD#VAX Malware Campaign Deploys AsyncRAT via IPFS-Hosted VHD Phishing Files",
-      "link": "https://thehackernews.com/2026/02/deadvax-malware-campaign-deploys.html",
-      "summary": "Threat hunters have disclosed details of a new, stealthy malware campaign dubbed DEAD#VAX that employs a mix of \"disciplined tradecraft and clever abuse of legitimate system features\" to bypass tradit...",
-      "published": "2026-02-04T22:54:00+05:30",
-      "domain": "thehackernews.com",
+      "title": "OpenClaw 101 \u2013 Guide to OpenClaw AI Assistant",
+      "link": "https://openclaw101.online",
+      "summary": "<p>Article URL: <a href=\"https://openclaw101.online\">https://openclaw101.online</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46896575\">https://news.ycombinator.com/item?id=46...",
+      "published": "2026-02-05T06:56:40+00:00",
+      "domain": "openclaw101.online",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Braids and Open Book Decompositions [pdf]",
+      "link": "https://www2.math.upenn.edu/grad/dissertations/ElenaPavelescuThesis.pdf",
+      "summary": "<p>Article URL: <a href=\"https://www2.math.upenn.edu/grad/dissertations/ElenaPavelescuThesis.pdf\">https://www2.math.upenn.edu/grad/dissertations/ElenaPavelescuThesis.pdf</a></p>\n<p>Comments URL: <a hr...",
+      "published": "2026-02-05T06:55:19+00:00",
+      "domain": "www2.math.upenn.edu",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "CIPS Stack \u2013 5 memory systems that give your AI agents persistent memory",
+      "link": "https://cipscorps.io/",
+      "summary": "<p>Article URL: <a href=\"https://cipscorps.io/\">https://cipscorps.io/#</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46896549\">https://news.ycombinator.com/item?id=46896549</a...",
+      "published": "2026-02-05T06:53:02+00:00",
+      "domain": "cipscorps.io",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: A system that monitors portfolio risk and warns when it gets dangerous",
+      "link": "https://news.ycombinator.com/item?id=46896523",
+      "summary": "<p>I built this after realizing how hard it is to understand portfolio risk once you have multiple brokerage accounts.<p>Most tools show returns and charts, but risk tends to creep up quietly (concent...",
+      "published": "2026-02-05T06:49:35+00:00",
+      "domain": "news.ycombinator.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Outcrop \u2013 Contextual Knowledge Base",
+      "link": "https://outcrop.app/",
+      "summary": "<p>Article URL: <a href=\"https://outcrop.app/\">https://outcrop.app/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46896478\">https://news.ycombinator.com/item?id=46896478</a></...",
+      "published": "2026-02-05T06:43:50+00:00",
+      "domain": "outcrop.app",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Don't rent the cloud, own instead",
+      "link": "https://blog.comma.ai/datacenter/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46896146\">Comments</a>...",
+      "published": "2026-02-05T05:50:01+00:00",
+      "domain": "blog.comma.ai",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "When internal hostnames are leaked to the clown",
+      "link": "https://rachelbythebay.com/w/2026/02/03/badnas/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46895972\">Comments</a>...",
+      "published": "2026-02-05T05:22:36+00:00",
+      "domain": "rachelbythebay.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "ICE seeks industry input on ad tech location data for investigative use",
+      "link": "https://www.biometricupdate.com/202602/ice-seeks-industry-input-on-ad-tech-location-data-for-investigative-use",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46895860\">Comments</a>...",
+      "published": "2026-02-05T05:02:01+00:00",
+      "domain": "biometricupdate.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -163,122 +163,10 @@
   ],
   "anarchy_ranked": [
     {
-      "title": "I let the internet control a GitHub repo for 4 weeks",
-      "link": "https://old.reddit.com/r/webdev/comments/1qrz4xj/i_let_the_internet_control_a_github_repo_for_4/",
-      "summary": "<p>Article URL: <a href=\"https://old.reddit.com/r/webdev/comments/1qrz4xj/i_let_the_internet_control_a_github_repo_for_4/\">https://old.reddit.com/r/webdev/comments/1qrz4xj/i_let_the_internet_control_a...",
-      "published": "2026-02-05T02:08:47+00:00",
-      "domain": "old.reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Bedrock, an A.I. Startup for Construction, Raises $270M",
-      "link": "https://www.nytimes.com/2026/02/04/business/dealbook/bedrock-robotics-ai-fundraise.html",
-      "summary": "<p>Article URL: <a href=\"https://www.nytimes.com/2026/02/04/business/dealbook/bedrock-robotics-ai-fundraise.html\">https://www.nytimes.com/2026/02/04/business/dealbook/bedrock-robotics-ai-fundraise.htm...",
-      "published": "2026-02-05T02:06:57+00:00",
-      "domain": "nytimes.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: A Data Interchange Format",
-      "link": "https://github.com/HyaenaTechnologies/configuration/blob/main/documentation/data-interchange.md",
-      "summary": "<p>I have designed a Data Interchange Format to replace JSON, YAML, TOML, XML, Protocol Buffers, SQL and HTTP. This was achieved by splitting the design between a Dynamically Typed Syntax and a Static...",
-      "published": "2026-02-05T02:05:08+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Novo Nordisk Warns of First Sales Drop Since Start of Ozempic",
-      "link": "https://www.nytimes.com/2026/02/04/business/novo-nordisk-wegovy-sales-earnings.html",
-      "summary": "<p>Article URL: <a href=\"https://www.nytimes.com/2026/02/04/business/novo-nordisk-wegovy-sales-earnings.html\">https://www.nytimes.com/2026/02/04/business/novo-nordisk-wegovy-sales-earnings.html</a></p...",
-      "published": "2026-02-05T02:04:46+00:00",
-      "domain": "nytimes.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Realtime Eval Guide",
-      "link": "https://developers.openai.com/cookbook/examples/realtime_eval_guide",
-      "summary": "<p>Article URL: <a href=\"https://developers.openai.com/cookbook/examples/realtime_eval_guide\">https://developers.openai.com/cookbook/examples/realtime_eval_guide</a></p>\n<p>Comments URL: <a href=\"http...",
-      "published": "2026-02-05T02:03:48+00:00",
-      "domain": "developers.openai.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "OpenClaw Is What Apple Intelligence Should Have Been",
-      "link": "https://www.jakequist.com/thoughts/openclaw-is-what-apple-intelligence-should-have-been",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=46893970\">Comments</a>...",
-      "published": "2026-02-05T00:28:06+00:00",
-      "domain": "jakequist.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "3 Teen Sisters Jump to Their Deaths from 9th Floor Apartment After Parents Remove Access to Phone: Reports",
-      "link": "https://www.reddit.com/r/technology/comments/1qw5kwf/3_teen_sisters_jump_to_their_deaths_from_9th/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1qw5kwf/3_teen_sisters_jump_to_their_deaths_from_9th/\"> <img alt=\"3 Teen Sisters Jump to Their Deaths from 9th Floor Apartment Af...",
-      "published": "2026-02-05T00:04:58+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Microsoft Develops Scanner to Detect Backdoors in Open-Weight Large Language Models",
-      "link": "https://thehackernews.com/2026/02/microsoft-develops-scanner-to-detect.html",
-      "summary": "Microsoft on Wednesday said it built a lightweight scanner that it said can detect backdoors in open-weight large language models (LLMs) and improve the overall trust in artificial intelligence (AI) s...",
-      "published": "2026-02-04T23:22:00+05:30",
+      "title": "Critical n8n Flaw CVE-2026-25049 Enables System Command Execution via Malicious Workflows",
+      "link": "https://thehackernews.com/2026/02/critical-n8n-flaw-cve-2026-25049.html",
+      "summary": "A new, critical security vulnerability has been disclosed in the n8n workflow automation platform that, if successfully exploited, could result in the execution of arbitrary system commands.\nThe flaw,...",
+      "published": "2026-02-05T11:46:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -291,11 +179,11 @@
       }
     },
     {
-      "title": "FBI stymied by Apple\u2019s Lockdown Mode after seizing journalist\u2019s iPhone",
-      "link": "https://www.reddit.com/r/technology/comments/1qw4903/fbi_stymied_by_apples_lockdown_mode_after_seizing/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1qw4903/fbi_stymied_by_apples_lockdown_mode_after_seizing/\"> <img alt=\"FBI stymied by Apple\u2019s Lockdown Mode after seizing journal...",
-      "published": "2026-02-04T23:10:28+00:00",
-      "domain": "reddit.com",
+      "title": "Malicious NGINX Configurations Enable Large-Scale Web Traffic Hijacking Campaign",
+      "link": "https://thehackernews.com/2026/02/hackers-exploit-react2shell-to-hijack.html",
+      "summary": "Cybersecurity researchers have disclosed details of an active web traffic hijacking campaign that has targeted NGINX installations and management panels like Baota (BT) in an attempt to route it throu...",
+      "published": "2026-02-05T10:26:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -307,11 +195,123 @@
       }
     },
     {
-      "title": "DEAD#VAX Malware Campaign Deploys AsyncRAT via IPFS-Hosted VHD Phishing Files",
-      "link": "https://thehackernews.com/2026/02/deadvax-malware-campaign-deploys.html",
-      "summary": "Threat hunters have disclosed details of a new, stealthy malware campaign dubbed DEAD#VAX that employs a mix of \"disciplined tradecraft and clever abuse of legitimate system features\" to bypass tradit...",
-      "published": "2026-02-04T22:54:00+05:30",
-      "domain": "thehackernews.com",
+      "title": "OpenClaw 101 \u2013 Guide to OpenClaw AI Assistant",
+      "link": "https://openclaw101.online",
+      "summary": "<p>Article URL: <a href=\"https://openclaw101.online\">https://openclaw101.online</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46896575\">https://news.ycombinator.com/item?id=46...",
+      "published": "2026-02-05T06:56:40+00:00",
+      "domain": "openclaw101.online",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Braids and Open Book Decompositions [pdf]",
+      "link": "https://www2.math.upenn.edu/grad/dissertations/ElenaPavelescuThesis.pdf",
+      "summary": "<p>Article URL: <a href=\"https://www2.math.upenn.edu/grad/dissertations/ElenaPavelescuThesis.pdf\">https://www2.math.upenn.edu/grad/dissertations/ElenaPavelescuThesis.pdf</a></p>\n<p>Comments URL: <a hr...",
+      "published": "2026-02-05T06:55:19+00:00",
+      "domain": "www2.math.upenn.edu",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "CIPS Stack \u2013 5 memory systems that give your AI agents persistent memory",
+      "link": "https://cipscorps.io/",
+      "summary": "<p>Article URL: <a href=\"https://cipscorps.io/\">https://cipscorps.io/#</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46896549\">https://news.ycombinator.com/item?id=46896549</a...",
+      "published": "2026-02-05T06:53:02+00:00",
+      "domain": "cipscorps.io",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: A system that monitors portfolio risk and warns when it gets dangerous",
+      "link": "https://news.ycombinator.com/item?id=46896523",
+      "summary": "<p>I built this after realizing how hard it is to understand portfolio risk once you have multiple brokerage accounts.<p>Most tools show returns and charts, but risk tends to creep up quietly (concent...",
+      "published": "2026-02-05T06:49:35+00:00",
+      "domain": "news.ycombinator.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Outcrop \u2013 Contextual Knowledge Base",
+      "link": "https://outcrop.app/",
+      "summary": "<p>Article URL: <a href=\"https://outcrop.app/\">https://outcrop.app/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46896478\">https://news.ycombinator.com/item?id=46896478</a></...",
+      "published": "2026-02-05T06:43:50+00:00",
+      "domain": "outcrop.app",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Don't rent the cloud, own instead",
+      "link": "https://blog.comma.ai/datacenter/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46896146\">Comments</a>...",
+      "published": "2026-02-05T05:50:01+00:00",
+      "domain": "blog.comma.ai",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "When internal hostnames are leaked to the clown",
+      "link": "https://rachelbythebay.com/w/2026/02/03/badnas/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46895972\">Comments</a>...",
+      "published": "2026-02-05T05:22:36+00:00",
+      "domain": "rachelbythebay.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "ICE seeks industry input on ad tech location data for investigative use",
+      "link": "https://www.biometricupdate.com/202602/ice-seeks-industry-input-on-ad-tech-location-data-for-investigative-use",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46895860\">Comments</a>...",
+      "published": "2026-02-05T05:02:01+00:00",
+      "domain": "biometricupdate.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -325,122 +325,10 @@
   ],
   "overall_ranked": [
     {
-      "title": "I let the internet control a GitHub repo for 4 weeks",
-      "link": "https://old.reddit.com/r/webdev/comments/1qrz4xj/i_let_the_internet_control_a_github_repo_for_4/",
-      "summary": "<p>Article URL: <a href=\"https://old.reddit.com/r/webdev/comments/1qrz4xj/i_let_the_internet_control_a_github_repo_for_4/\">https://old.reddit.com/r/webdev/comments/1qrz4xj/i_let_the_internet_control_a...",
-      "published": "2026-02-05T02:08:47+00:00",
-      "domain": "old.reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Bedrock, an A.I. Startup for Construction, Raises $270M",
-      "link": "https://www.nytimes.com/2026/02/04/business/dealbook/bedrock-robotics-ai-fundraise.html",
-      "summary": "<p>Article URL: <a href=\"https://www.nytimes.com/2026/02/04/business/dealbook/bedrock-robotics-ai-fundraise.html\">https://www.nytimes.com/2026/02/04/business/dealbook/bedrock-robotics-ai-fundraise.htm...",
-      "published": "2026-02-05T02:06:57+00:00",
-      "domain": "nytimes.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: A Data Interchange Format",
-      "link": "https://github.com/HyaenaTechnologies/configuration/blob/main/documentation/data-interchange.md",
-      "summary": "<p>I have designed a Data Interchange Format to replace JSON, YAML, TOML, XML, Protocol Buffers, SQL and HTTP. This was achieved by splitting the design between a Dynamically Typed Syntax and a Static...",
-      "published": "2026-02-05T02:05:08+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Novo Nordisk Warns of First Sales Drop Since Start of Ozempic",
-      "link": "https://www.nytimes.com/2026/02/04/business/novo-nordisk-wegovy-sales-earnings.html",
-      "summary": "<p>Article URL: <a href=\"https://www.nytimes.com/2026/02/04/business/novo-nordisk-wegovy-sales-earnings.html\">https://www.nytimes.com/2026/02/04/business/novo-nordisk-wegovy-sales-earnings.html</a></p...",
-      "published": "2026-02-05T02:04:46+00:00",
-      "domain": "nytimes.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Realtime Eval Guide",
-      "link": "https://developers.openai.com/cookbook/examples/realtime_eval_guide",
-      "summary": "<p>Article URL: <a href=\"https://developers.openai.com/cookbook/examples/realtime_eval_guide\">https://developers.openai.com/cookbook/examples/realtime_eval_guide</a></p>\n<p>Comments URL: <a href=\"http...",
-      "published": "2026-02-05T02:03:48+00:00",
-      "domain": "developers.openai.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "OpenClaw Is What Apple Intelligence Should Have Been",
-      "link": "https://www.jakequist.com/thoughts/openclaw-is-what-apple-intelligence-should-have-been",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=46893970\">Comments</a>...",
-      "published": "2026-02-05T00:28:06+00:00",
-      "domain": "jakequist.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "3 Teen Sisters Jump to Their Deaths from 9th Floor Apartment After Parents Remove Access to Phone: Reports",
-      "link": "https://www.reddit.com/r/technology/comments/1qw5kwf/3_teen_sisters_jump_to_their_deaths_from_9th/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1qw5kwf/3_teen_sisters_jump_to_their_deaths_from_9th/\"> <img alt=\"3 Teen Sisters Jump to Their Deaths from 9th Floor Apartment Af...",
-      "published": "2026-02-05T00:04:58+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Microsoft Develops Scanner to Detect Backdoors in Open-Weight Large Language Models",
-      "link": "https://thehackernews.com/2026/02/microsoft-develops-scanner-to-detect.html",
-      "summary": "Microsoft on Wednesday said it built a lightweight scanner that it said can detect backdoors in open-weight large language models (LLMs) and improve the overall trust in artificial intelligence (AI) s...",
-      "published": "2026-02-04T23:22:00+05:30",
+      "title": "Critical n8n Flaw CVE-2026-25049 Enables System Command Execution via Malicious Workflows",
+      "link": "https://thehackernews.com/2026/02/critical-n8n-flaw-cve-2026-25049.html",
+      "summary": "A new, critical security vulnerability has been disclosed in the n8n workflow automation platform that, if successfully exploited, could result in the execution of arbitrary system commands.\nThe flaw,...",
+      "published": "2026-02-05T11:46:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -453,11 +341,11 @@
       }
     },
     {
-      "title": "FBI stymied by Apple\u2019s Lockdown Mode after seizing journalist\u2019s iPhone",
-      "link": "https://www.reddit.com/r/technology/comments/1qw4903/fbi_stymied_by_apples_lockdown_mode_after_seizing/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1qw4903/fbi_stymied_by_apples_lockdown_mode_after_seizing/\"> <img alt=\"FBI stymied by Apple\u2019s Lockdown Mode after seizing journal...",
-      "published": "2026-02-04T23:10:28+00:00",
-      "domain": "reddit.com",
+      "title": "Malicious NGINX Configurations Enable Large-Scale Web Traffic Hijacking Campaign",
+      "link": "https://thehackernews.com/2026/02/hackers-exploit-react2shell-to-hijack.html",
+      "summary": "Cybersecurity researchers have disclosed details of an active web traffic hijacking campaign that has targeted NGINX installations and management panels like Baota (BT) in an attempt to route it throu...",
+      "published": "2026-02-05T10:26:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -469,11 +357,123 @@
       }
     },
     {
-      "title": "DEAD#VAX Malware Campaign Deploys AsyncRAT via IPFS-Hosted VHD Phishing Files",
-      "link": "https://thehackernews.com/2026/02/deadvax-malware-campaign-deploys.html",
-      "summary": "Threat hunters have disclosed details of a new, stealthy malware campaign dubbed DEAD#VAX that employs a mix of \"disciplined tradecraft and clever abuse of legitimate system features\" to bypass tradit...",
-      "published": "2026-02-04T22:54:00+05:30",
-      "domain": "thehackernews.com",
+      "title": "OpenClaw 101 \u2013 Guide to OpenClaw AI Assistant",
+      "link": "https://openclaw101.online",
+      "summary": "<p>Article URL: <a href=\"https://openclaw101.online\">https://openclaw101.online</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46896575\">https://news.ycombinator.com/item?id=46...",
+      "published": "2026-02-05T06:56:40+00:00",
+      "domain": "openclaw101.online",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Braids and Open Book Decompositions [pdf]",
+      "link": "https://www2.math.upenn.edu/grad/dissertations/ElenaPavelescuThesis.pdf",
+      "summary": "<p>Article URL: <a href=\"https://www2.math.upenn.edu/grad/dissertations/ElenaPavelescuThesis.pdf\">https://www2.math.upenn.edu/grad/dissertations/ElenaPavelescuThesis.pdf</a></p>\n<p>Comments URL: <a hr...",
+      "published": "2026-02-05T06:55:19+00:00",
+      "domain": "www2.math.upenn.edu",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "CIPS Stack \u2013 5 memory systems that give your AI agents persistent memory",
+      "link": "https://cipscorps.io/",
+      "summary": "<p>Article URL: <a href=\"https://cipscorps.io/\">https://cipscorps.io/#</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46896549\">https://news.ycombinator.com/item?id=46896549</a...",
+      "published": "2026-02-05T06:53:02+00:00",
+      "domain": "cipscorps.io",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: A system that monitors portfolio risk and warns when it gets dangerous",
+      "link": "https://news.ycombinator.com/item?id=46896523",
+      "summary": "<p>I built this after realizing how hard it is to understand portfolio risk once you have multiple brokerage accounts.<p>Most tools show returns and charts, but risk tends to creep up quietly (concent...",
+      "published": "2026-02-05T06:49:35+00:00",
+      "domain": "news.ycombinator.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Outcrop \u2013 Contextual Knowledge Base",
+      "link": "https://outcrop.app/",
+      "summary": "<p>Article URL: <a href=\"https://outcrop.app/\">https://outcrop.app/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46896478\">https://news.ycombinator.com/item?id=46896478</a></...",
+      "published": "2026-02-05T06:43:50+00:00",
+      "domain": "outcrop.app",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Don't rent the cloud, own instead",
+      "link": "https://blog.comma.ai/datacenter/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46896146\">Comments</a>...",
+      "published": "2026-02-05T05:50:01+00:00",
+      "domain": "blog.comma.ai",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "When internal hostnames are leaked to the clown",
+      "link": "https://rachelbythebay.com/w/2026/02/03/badnas/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46895972\">Comments</a>...",
+      "published": "2026-02-05T05:22:36+00:00",
+      "domain": "rachelbythebay.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "ICE seeks industry input on ad tech location data for investigative use",
+      "link": "https://www.biometricupdate.com/202602/ice-seeks-industry-input-on-ad-tech-location-data-for-investigative-use",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46895860\">Comments</a>...",
+      "published": "2026-02-05T05:02:01+00:00",
+      "domain": "biometricupdate.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -487,122 +487,10 @@
   ],
   "all_articles": [
     {
-      "title": "I let the internet control a GitHub repo for 4 weeks",
-      "link": "https://old.reddit.com/r/webdev/comments/1qrz4xj/i_let_the_internet_control_a_github_repo_for_4/",
-      "summary": "<p>Article URL: <a href=\"https://old.reddit.com/r/webdev/comments/1qrz4xj/i_let_the_internet_control_a_github_repo_for_4/\">https://old.reddit.com/r/webdev/comments/1qrz4xj/i_let_the_internet_control_a...",
-      "published": "2026-02-05T02:08:47+00:00",
-      "domain": "old.reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Bedrock, an A.I. Startup for Construction, Raises $270M",
-      "link": "https://www.nytimes.com/2026/02/04/business/dealbook/bedrock-robotics-ai-fundraise.html",
-      "summary": "<p>Article URL: <a href=\"https://www.nytimes.com/2026/02/04/business/dealbook/bedrock-robotics-ai-fundraise.html\">https://www.nytimes.com/2026/02/04/business/dealbook/bedrock-robotics-ai-fundraise.htm...",
-      "published": "2026-02-05T02:06:57+00:00",
-      "domain": "nytimes.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: A Data Interchange Format",
-      "link": "https://github.com/HyaenaTechnologies/configuration/blob/main/documentation/data-interchange.md",
-      "summary": "<p>I have designed a Data Interchange Format to replace JSON, YAML, TOML, XML, Protocol Buffers, SQL and HTTP. This was achieved by splitting the design between a Dynamically Typed Syntax and a Static...",
-      "published": "2026-02-05T02:05:08+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Novo Nordisk Warns of First Sales Drop Since Start of Ozempic",
-      "link": "https://www.nytimes.com/2026/02/04/business/novo-nordisk-wegovy-sales-earnings.html",
-      "summary": "<p>Article URL: <a href=\"https://www.nytimes.com/2026/02/04/business/novo-nordisk-wegovy-sales-earnings.html\">https://www.nytimes.com/2026/02/04/business/novo-nordisk-wegovy-sales-earnings.html</a></p...",
-      "published": "2026-02-05T02:04:46+00:00",
-      "domain": "nytimes.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Realtime Eval Guide",
-      "link": "https://developers.openai.com/cookbook/examples/realtime_eval_guide",
-      "summary": "<p>Article URL: <a href=\"https://developers.openai.com/cookbook/examples/realtime_eval_guide\">https://developers.openai.com/cookbook/examples/realtime_eval_guide</a></p>\n<p>Comments URL: <a href=\"http...",
-      "published": "2026-02-05T02:03:48+00:00",
-      "domain": "developers.openai.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "OpenClaw Is What Apple Intelligence Should Have Been",
-      "link": "https://www.jakequist.com/thoughts/openclaw-is-what-apple-intelligence-should-have-been",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=46893970\">Comments</a>...",
-      "published": "2026-02-05T00:28:06+00:00",
-      "domain": "jakequist.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "3 Teen Sisters Jump to Their Deaths from 9th Floor Apartment After Parents Remove Access to Phone: Reports",
-      "link": "https://www.reddit.com/r/technology/comments/1qw5kwf/3_teen_sisters_jump_to_their_deaths_from_9th/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1qw5kwf/3_teen_sisters_jump_to_their_deaths_from_9th/\"> <img alt=\"3 Teen Sisters Jump to Their Deaths from 9th Floor Apartment Af...",
-      "published": "2026-02-05T00:04:58+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Microsoft Develops Scanner to Detect Backdoors in Open-Weight Large Language Models",
-      "link": "https://thehackernews.com/2026/02/microsoft-develops-scanner-to-detect.html",
-      "summary": "Microsoft on Wednesday said it built a lightweight scanner that it said can detect backdoors in open-weight large language models (LLMs) and improve the overall trust in artificial intelligence (AI) s...",
-      "published": "2026-02-04T23:22:00+05:30",
+      "title": "Critical n8n Flaw CVE-2026-25049 Enables System Command Execution via Malicious Workflows",
+      "link": "https://thehackernews.com/2026/02/critical-n8n-flaw-cve-2026-25049.html",
+      "summary": "A new, critical security vulnerability has been disclosed in the n8n workflow automation platform that, if successfully exploited, could result in the execution of arbitrary system commands.\nThe flaw,...",
+      "published": "2026-02-05T11:46:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -615,11 +503,11 @@
       }
     },
     {
-      "title": "FBI stymied by Apple\u2019s Lockdown Mode after seizing journalist\u2019s iPhone",
-      "link": "https://www.reddit.com/r/technology/comments/1qw4903/fbi_stymied_by_apples_lockdown_mode_after_seizing/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1qw4903/fbi_stymied_by_apples_lockdown_mode_after_seizing/\"> <img alt=\"FBI stymied by Apple\u2019s Lockdown Mode after seizing journal...",
-      "published": "2026-02-04T23:10:28+00:00",
-      "domain": "reddit.com",
+      "title": "Malicious NGINX Configurations Enable Large-Scale Web Traffic Hijacking Campaign",
+      "link": "https://thehackernews.com/2026/02/hackers-exploit-react2shell-to-hijack.html",
+      "summary": "Cybersecurity researchers have disclosed details of an active web traffic hijacking campaign that has targeted NGINX installations and management panels like Baota (BT) in an attempt to route it throu...",
+      "published": "2026-02-05T10:26:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -631,11 +519,123 @@
       }
     },
     {
-      "title": "DEAD#VAX Malware Campaign Deploys AsyncRAT via IPFS-Hosted VHD Phishing Files",
-      "link": "https://thehackernews.com/2026/02/deadvax-malware-campaign-deploys.html",
-      "summary": "Threat hunters have disclosed details of a new, stealthy malware campaign dubbed DEAD#VAX that employs a mix of \"disciplined tradecraft and clever abuse of legitimate system features\" to bypass tradit...",
-      "published": "2026-02-04T22:54:00+05:30",
-      "domain": "thehackernews.com",
+      "title": "OpenClaw 101 \u2013 Guide to OpenClaw AI Assistant",
+      "link": "https://openclaw101.online",
+      "summary": "<p>Article URL: <a href=\"https://openclaw101.online\">https://openclaw101.online</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46896575\">https://news.ycombinator.com/item?id=46...",
+      "published": "2026-02-05T06:56:40+00:00",
+      "domain": "openclaw101.online",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Braids and Open Book Decompositions [pdf]",
+      "link": "https://www2.math.upenn.edu/grad/dissertations/ElenaPavelescuThesis.pdf",
+      "summary": "<p>Article URL: <a href=\"https://www2.math.upenn.edu/grad/dissertations/ElenaPavelescuThesis.pdf\">https://www2.math.upenn.edu/grad/dissertations/ElenaPavelescuThesis.pdf</a></p>\n<p>Comments URL: <a hr...",
+      "published": "2026-02-05T06:55:19+00:00",
+      "domain": "www2.math.upenn.edu",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "CIPS Stack \u2013 5 memory systems that give your AI agents persistent memory",
+      "link": "https://cipscorps.io/",
+      "summary": "<p>Article URL: <a href=\"https://cipscorps.io/\">https://cipscorps.io/#</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46896549\">https://news.ycombinator.com/item?id=46896549</a...",
+      "published": "2026-02-05T06:53:02+00:00",
+      "domain": "cipscorps.io",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: A system that monitors portfolio risk and warns when it gets dangerous",
+      "link": "https://news.ycombinator.com/item?id=46896523",
+      "summary": "<p>I built this after realizing how hard it is to understand portfolio risk once you have multiple brokerage accounts.<p>Most tools show returns and charts, but risk tends to creep up quietly (concent...",
+      "published": "2026-02-05T06:49:35+00:00",
+      "domain": "news.ycombinator.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Outcrop \u2013 Contextual Knowledge Base",
+      "link": "https://outcrop.app/",
+      "summary": "<p>Article URL: <a href=\"https://outcrop.app/\">https://outcrop.app/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46896478\">https://news.ycombinator.com/item?id=46896478</a></...",
+      "published": "2026-02-05T06:43:50+00:00",
+      "domain": "outcrop.app",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Don't rent the cloud, own instead",
+      "link": "https://blog.comma.ai/datacenter/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46896146\">Comments</a>...",
+      "published": "2026-02-05T05:50:01+00:00",
+      "domain": "blog.comma.ai",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "When internal hostnames are leaked to the clown",
+      "link": "https://rachelbythebay.com/w/2026/02/03/badnas/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46895972\">Comments</a>...",
+      "published": "2026-02-05T05:22:36+00:00",
+      "domain": "rachelbythebay.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "ICE seeks industry input on ad tech location data for investigative use",
+      "link": "https://www.biometricupdate.com/202602/ice-seeks-industry-input-on-ad-tech-location-data-for-investigative-use",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=46895860\">Comments</a>...",
+      "published": "2026-02-05T05:02:01+00:00",
+      "domain": "biometricupdate.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,

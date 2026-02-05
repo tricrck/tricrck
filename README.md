@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### I let the internet control a GitHub repo for 4 weeks
+### Critical n8n Flaw CVE-2026-25049 Enables System Command Execution via Malicious Workflows
 - **Published**: February 05, 2026
-- **Summary**: https://old.reddit.com/r/webdev/comments/1qrz4xj/i_let_the_internet_control_a......
-- [Read more](https://old.reddit.com/r/webdev/comments/1qrz4xj/i_let_the_internet_control_a_github_repo_for_4/)
+- **Summary**: A new, critical security vulnerability has been disclosed in the n8n workflow automation platform that, if successfully exploited, could result in the...
+- [Read more](https://thehackernews.com/2026/02/critical-n8n-flaw-cve-2026-25049.html)
 
-### Bedrock, an A.I. Startup for Construction, Raises $270M
+### Malicious NGINX Configurations Enable Large-Scale Web Traffic Hijacking Campaign
 - **Published**: February 05, 2026
-- **Summary**: https://www.nytimes.com/2026/02/04/business/dealbook/bedrock-robotics-ai-fundraise.htm......
-- [Read more](https://www.nytimes.com/2026/02/04/business/dealbook/bedrock-robotics-ai-fundraise.html)
+- **Summary**: Cybersecurity researchers have disclosed details of an active web traffic hijacking campaign that has targeted NGINX installations and management pane...
+- [Read more](https://thehackernews.com/2026/02/hackers-exploit-react2shell-to-hijack.html)
 
 ---
 
