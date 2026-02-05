@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Microsoft Develops Scanner to Detect Backdoors in Open-Weight Large Language Models
-- **Published**: February 04, 2026
-- **Summary**: Microsoft on Wednesday said it built a lightweight scanner that it said can detect backdoors in open-weight large language models (LLMs) and improve t...
-- [Read more](https://thehackernews.com/2026/02/microsoft-develops-scanner-to-detect.html)
+### I let the internet control a GitHub repo for 4 weeks
+- **Published**: February 05, 2026
+- **Summary**: https://old.reddit.com/r/webdev/comments/1qrz4xj/i_let_the_internet_control_a......
+- [Read more](https://old.reddit.com/r/webdev/comments/1qrz4xj/i_let_the_internet_control_a_github_repo_for_4/)
 
-### DEAD#VAX Malware Campaign Deploys AsyncRAT via IPFS-Hosted VHD Phishing Files
-- **Published**: February 04, 2026
-- **Summary**: Threat hunters have disclosed details of a new, stealthy malware campaign dubbed DEAD#VAX that employs a mix of "disciplined tradecraft and clever abu...
-- [Read more](https://thehackernews.com/2026/02/deadvax-malware-campaign-deploys.html)
+### Bedrock, an A.I. Startup for Construction, Raises $270M
+- **Published**: February 05, 2026
+- **Summary**: https://www.nytimes.com/2026/02/04/business/dealbook/bedrock-robotics-ai-fundraise.htm......
+- [Read more](https://www.nytimes.com/2026/02/04/business/dealbook/bedrock-robotics-ai-fundraise.html)
 
 ---
 
