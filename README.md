@@ -16,15 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### AISURU/Kimwolf Botnet Launches Record-Setting 31.4 Tbps DDoS Attack
-- **Published**: February 05, 2026
-- **Summary**: The distributed denial-of-service (DDoS) botnet known as AISURU/Kimwolf has been attributed to a record-setting attack that peaked at 31.4 Terabits pe...
-- [Read more](https://thehackernews.com/2026/02/aisurukimwolf-botnet-launches-record.html)
+### The End of the Beginning: Has US Dollar Decline Entered Its Terminal Phase?
+- **Published**: February 06, 2026
+- **Summary**: https://multipolaritypod.substack.com/p/the-end-of-the-beginning-has-us-dollar</a></p>
+<p>Comme......
+- [Read more](https://multipolaritypod.substack.com/p/the-end-of-the-beginning-has-us-dollar)
 
-### High performance correctly rounded math libraries for 32-bit floating point
-- **Published**: February 05, 2026
-- **Summary**: https://blog.sigplan.org/2021/08/26/high-perf......
-- [Read more](https://blog.sigplan.org/2021/08/26/high-performance-correctly-rounded-math-libraries-for-32-bit-floating-point-representations/)
+### We had sex in a Chinese hotel, then found we had been broadcast to thousands
+- **Published**: February 06, 2026
+- **Summary**: https://www.bbc.com/news/articles/c62rexy9y3no</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46908068"......
+- [Read more](https://www.bbc.com/news/articles/c62rexy9y3no)
 
 ---
 
