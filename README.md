@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Asian State-Backed Group TGR-STA-1030 Breaches 70 Government, Infrastructure Entities
+### China-Linked DKnife AitM Framework Targets Routers for Traffic Hijacking, Malware Delivery
 - **Published**: February 06, 2026
-- **Summary**: A previously undocumented cyber espionage group operating from Asia broke into the networks of at least 70 government and critical infrastructure orga...
-- [Read more](https://thehackernews.com/2026/02/asian-state-backed-group-tgr-sta-1030.html)
+- **Summary**: Cybersecurity researchers have taken the wraps off a gateway-monitoring and adversary-in-the-middle (AitM) framework dubbed DKnife that's operated by ...
+- [Read more](https://thehackernews.com/2026/02/china-linked-dknife-aitm-framework.html)
 
-### How Samsung Knox Helps Stop Your Network Security Breach
+### CISA Orders Removal of Unsupported Edge Devices to Reduce Federal Network Risk
 - **Published**: February 06, 2026
-- **Summary**: As you know, enterprise network security has undergone significant evolution over the past decade. Firewalls have become more intelligent, threat dete...
-- [Read more](https://thehackernews.com/2026/02/how-samsung-knox-helps-stop-your-network-security-breach.html)
+- **Summary**: The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has ordered Federal Civilian Executive Branch (FCEB) agencies to strengthen asset lif...
+- [Read more](https://thehackernews.com/2026/02/cisa-orders-removal-of-unsupported-edge.html)
 
 ---
 
