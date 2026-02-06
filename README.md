@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### The End of the Beginning: Has US Dollar Decline Entered Its Terminal Phase?
+### Claude Opus 4.6 Finds 500+ High-Severity Flaws Across Major Open-Source Libraries
 - **Published**: February 06, 2026
-- **Summary**: https://multipolaritypod.substack.com/p/the-end-of-the-beginning-has-us-dollar</a></p>
-<p>Comme......
-- [Read more](https://multipolaritypod.substack.com/p/the-end-of-the-beginning-has-us-dollar)
+- **Summary**: Artificial intelligence (AI) company Anthropic revealed that its latest large language model (LLM), Claude Opus 4.6, has found more than 500 previousl...
+- [Read more](https://thehackernews.com/2026/02/claude-opus-46-finds-500-high-severity.html)
 
-### We had sex in a Chinese hotel, then found we had been broadcast to thousands
+### The GitButler CLI – Butler's Log
 - **Published**: February 06, 2026
-- **Summary**: https://www.bbc.com/news/articles/c62rexy9y3no</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46908068"......
-- [Read more](https://www.bbc.com/news/articles/c62rexy9y3no)
+- **Summary**: https://blog.gitbutler.com/but-cli</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46909917">https://news.ycombinato......
+- [Read more](https://blog.gitbutler.com/but-cli)
 
 ---
 
