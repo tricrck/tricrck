@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Claude Opus 4.6 Finds 500+ High-Severity Flaws Across Major Open-Source Libraries
+### Asian State-Backed Group TGR-STA-1030 Breaches 70 Government, Infrastructure Entities
 - **Published**: February 06, 2026
-- **Summary**: Artificial intelligence (AI) company Anthropic revealed that its latest large language model (LLM), Claude Opus 4.6, has found more than 500 previousl...
-- [Read more](https://thehackernews.com/2026/02/claude-opus-46-finds-500-high-severity.html)
+- **Summary**: A previously undocumented cyber espionage group operating from Asia broke into the networks of at least 70 government and critical infrastructure orga...
+- [Read more](https://thehackernews.com/2026/02/asian-state-backed-group-tgr-sta-1030.html)
 
-### The GitButler CLI – Butler's Log
+### How Samsung Knox Helps Stop Your Network Security Breach
 - **Published**: February 06, 2026
-- **Summary**: https://blog.gitbutler.com/but-cli</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46909917">https://news.ycombinato......
-- [Read more](https://blog.gitbutler.com/but-cli)
+- **Summary**: As you know, enterprise network security has undergone significant evolution over the past decade. Firewalls have become more intelligent, threat dete...
+- [Read more](https://thehackernews.com/2026/02/how-samsung-knox-helps-stop-your-network-security-breach.html)
 
 ---
 
