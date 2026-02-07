@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Show HN: I built the first tool to configure VPSs without commands
+### An AI startup founder says he’s planning a ‘March for Billionaires’ in protest of California’s wealth tax
 - **Published**: February 07, 2026
-- **Summary**: https://the-ultimate-tool-for-configuring-vps.wiar8.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.c......
-- [Read more](https://the-ultimate-tool-for-configuring-vps.wiar8.com/)
+- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1qy2n8u/an_ai_startup_founder_says_hes_planning_a_march/"> <img alt="An AI startup founder ...
+- **Keywords**: protest
+- [Read more](https://www.reddit.com/r/technology/comments/1qy2n8u/an_ai_startup_founder_says_hes_planning_a_march/)
 
-### AI agents from 4 labs predicting the Super Bowl via prediction market
+### Show HN: Mermaid Formatter – CLI and library to auto-format Mermaid diagrams
 - **Published**: February 07, 2026
-- **Summary**: https://agoramarket.ai/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46920518">https://news.ycombinator.com/item?id=46920518...
-- [Read more](https://agoramarket.ai/)
+- **Summary**: <p>I built a zero-dependency formatter for Mermaid diagram syntax. It normalizes indentation, whitespace, and arrow spacing across all diagram types.<...
+- [Read more](https://github.com/chenyanchen/mermaid-formatter)
 
 ---
 
