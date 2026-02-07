@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### An AI startup founder says he’s planning a ‘March for Billionaires’ in protest of California’s wealth tax
+### Jim Fan calls pixels the ultimate motor controller
 - **Published**: February 07, 2026
-- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1qy2n8u/an_ai_startup_founder_says_hes_planning_a_march/"> <img alt="An AI startup founder ...
-- **Keywords**: protest
-- [Read more](https://www.reddit.com/r/technology/comments/1qy2n8u/an_ai_startup_founder_says_hes_planning_a_march/)
+- **Summary**: https://robotsandstartups.substack.com/p/humanoids-platform-urdf-kitchen-nvidias</a></p>
+<p>C......
+- [Read more](https://robotsandstartups.substack.com/p/humanoids-platform-urdf-kitchen-nvidias)
 
-### German Agencies Warn of Signal Phishing Targeting Politicians, Military, Journalists
+### Exploring a Modern SMTPE 2110 Broadcast Truck with My Dad
 - **Published**: February 07, 2026
-- **Summary**: Germany's Federal Office for the Protection of the Constitution (aka Bundesamt für Verfassungsschutz or BfV) and Federal Office for Information Securi...
-- [Read more](https://thehackernews.com/2026/02/german-agencies-warn-of-signal-phishing.html)
+- **Summary**: https://www.jeffgeerling.com/blog/2026/exploring-a-modern-smpte-2110-broadca......
+- [Read more](https://www.jeffgeerling.com/blog/2026/exploring-a-modern-smpte-2110-broadcast-truck-with-my-dad/)
 
 ---
 
