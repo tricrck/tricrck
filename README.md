@@ -16,15 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### China-Linked DKnife AitM Framework Targets Routers for Traffic Hijacking, Malware Delivery
-- **Published**: February 06, 2026
-- **Summary**: Cybersecurity researchers have taken the wraps off a gateway-monitoring and adversary-in-the-middle (AitM) framework dubbed DKnife that's operated by ...
-- [Read more](https://thehackernews.com/2026/02/china-linked-dknife-aitm-framework.html)
+### Show HN: I built the first tool to configure VPSs without commands
+- **Published**: February 07, 2026
+- **Summary**: https://the-ultimate-tool-for-configuring-vps.wiar8.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.c......
+- [Read more](https://the-ultimate-tool-for-configuring-vps.wiar8.com/)
 
-### CISA Orders Removal of Unsupported Edge Devices to Reduce Federal Network Risk
-- **Published**: February 06, 2026
-- **Summary**: The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has ordered Federal Civilian Executive Branch (FCEB) agencies to strengthen asset lif...
-- [Read more](https://thehackernews.com/2026/02/cisa-orders-removal-of-unsupported-edge.html)
+### AI agents from 4 labs predicting the Super Bowl via prediction market
+- **Published**: February 07, 2026
+- **Summary**: https://agoramarket.ai/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46920518">https://news.ycombinator.com/item?id=46920518...
+- [Read more](https://agoramarket.ai/)
 
 ---
 
