@@ -22,10 +22,10 @@
 - **Keywords**: protest
 - [Read more](https://www.reddit.com/r/technology/comments/1qy2n8u/an_ai_startup_founder_says_hes_planning_a_march/)
 
-### Show HN: Mermaid Formatter – CLI and library to auto-format Mermaid diagrams
+### German Agencies Warn of Signal Phishing Targeting Politicians, Military, Journalists
 - **Published**: February 07, 2026
-- **Summary**: <p>I built a zero-dependency formatter for Mermaid diagram syntax. It normalizes indentation, whitespace, and arrow spacing across all diagram types.<...
-- [Read more](https://github.com/chenyanchen/mermaid-formatter)
+- **Summary**: Germany's Federal Office for the Protection of the Constitution (aka Bundesamt für Verfassungsschutz or BfV) and Federal Office for Information Securi...
+- [Read more](https://thehackernews.com/2026/02/german-agencies-warn-of-signal-phishing.html)
 
 ---
 
