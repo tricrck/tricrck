@@ -16,16 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Jim Fan calls pixels the ultimate motor controller
-- **Published**: February 07, 2026
-- **Summary**: https://robotsandstartups.substack.com/p/humanoids-platform-urdf-kitchen-nvidias</a></p>
-<p>C......
-- [Read more](https://robotsandstartups.substack.com/p/humanoids-platform-urdf-kitchen-nvidias)
+### The Threads Algorithm Loves Rage Bait
+- **Published**: February 08, 2026
+- **Summary**: https://blog.popey.com/2026/02/the-threads-algorithm-loves-rage-bait/</a></p>
+<p>Comments URL: <a href="......
+- [Read more](https://blog.popey.com/2026/02/the-threads-algorithm-loves-rage-bait/)
 
-### Exploring a Modern SMTPE 2110 Broadcast Truck with My Dad
-- **Published**: February 07, 2026
-- **Summary**: https://www.jeffgeerling.com/blog/2026/exploring-a-modern-smpte-2110-broadca......
-- [Read more](https://www.jeffgeerling.com/blog/2026/exploring-a-modern-smpte-2110-broadcast-truck-with-my-dad/)
+### Search NYC open data to find building health complaints and other issues
+- **Published**: February 08, 2026
+- **Summary**: https://www.nycbuildingcheck.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46930743">https://news.ycombinator.......
+- [Read more](https://www.nycbuildingcheck.com/)
 
 ---
 
