@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Tech Bro Saga: big tech critique essay series
+### OpenClaw Integrates VirusTotal Scanning to Detect Malicious ClawHub Skills
 - **Published**: February 08, 2026
-- **Summary**: <p>Why Big Tech Turns Everything Into a Knife Fight - a noir-toned piece on how pressure, ambiguity, and internal competition turn routine decisions i...
-- [Read more](https://news.ycombinator.com/item?id=46931881)
+- **Summary**: OpenClaw (formerly Moltbot and Clawdbot) has announced that it's partnering with Google-owned VirusTotal to scan skills that are being uploaded to Cla...
+- [Read more](https://thehackernews.com/2026/02/openclaw-integrates-virustotal-scanning.html)
 
-### Show HN: A calculus course with an AI tutor watching the lectures with you
+### Former Tumblr Head Jeff D'Onofrio Steps in as Acting CEO at the Washington Post
 - **Published**: February 08, 2026
-- **Summary**: <p>We're two PhD students in mechanical engineering. We spent years digging through scattered textbooks and YouTube rabbit holes. We figured there cou...
-- [Read more](https://calculus.academa.ai/)
+- **Summary**: https://www.theverge.com/tech/875433/tumblr-jeff-donofrio-ceo-washington-post-layoffs</a......
+- [Read more](https://www.theverge.com/tech/875433/tumblr-jeff-donofrio-ceo-washington-post-layoffs)
 
 ---
 
