@@ -16,17 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### The Threads Algorithm Loves Rage Bait
+### Tech Bro Saga: big tech critique essay series
 - **Published**: February 08, 2026
-- **Summary**: https://blog.popey.com/2026/02/the-threads-algorithm-loves-rage-bait/</a></p>
-<p>Comments URL: <a href="......
-- [Read more](https://blog.popey.com/2026/02/the-threads-algorithm-loves-rage-bait/)
+- **Summary**: <p>Why Big Tech Turns Everything Into a Knife Fight - a noir-toned piece on how pressure, ambiguity, and internal competition turn routine decisions i...
+- [Read more](https://news.ycombinator.com/item?id=46931881)
 
-### Search NYC open data to find building health complaints and other issues
+### Show HN: A calculus course with an AI tutor watching the lectures with you
 - **Published**: February 08, 2026
-- **Summary**: https://www.nycbuildingcheck.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46930743">https://news.ycombinator.......
-- [Read more](https://www.nycbuildingcheck.com/)
+- **Summary**: <p>We're two PhD students in mechanical engineering. We spent years digging through scattered textbooks and YouTube rabbit holes. We figured there cou...
+- [Read more](https://calculus.academa.ai/)
 
 ---
 
