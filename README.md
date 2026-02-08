@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### OpenClaw Integrates VirusTotal Scanning to Detect Malicious ClawHub Skills
+### Federal statement on Jeffrey Epstein's death dated day before he was found dead
 - **Published**: February 08, 2026
-- **Summary**: OpenClaw (formerly Moltbot and Clawdbot) has announced that it's partnering with Google-owned VirusTotal to scan skills that are being uploaded to Cla...
-- [Read more](https://thehackernews.com/2026/02/openclaw-integrates-virustotal-scanning.html)
+- **Summary**: https://www.standard.co.uk/news/world/statement-jeffrey-epstein-death-day-befor......
+- [Read more](https://www.standard.co.uk/news/world/statement-jeffrey-epstein-death-day-before-b1270109.html)
 
-### Former Tumblr Head Jeff D'Onofrio Steps in as Acting CEO at the Washington Post
+### Preserving the Open Web: Inside the New Wayback Machine Plugin for WordPress
 - **Published**: February 08, 2026
-- **Summary**: https://www.theverge.com/tech/875433/tumblr-jeff-donofrio-ceo-washington-post-layoffs</a......
-- [Read more](https://www.theverge.com/tech/875433/tumblr-jeff-donofrio-ceo-washington-post-layoffs)
+- **Summary**: https://blog.archive.org/2026/02/04/inside-the-new-wayback-machine-plugin-for-wordpre......
+- [Read more](https://blog.archive.org/2026/02/04/inside-the-new-wayback-machine-plugin-for-wordpress/)
 
 ---
 
