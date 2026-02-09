@@ -16,15 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Federal statement on Jeffrey Epstein's death dated day before he was found dead
-- **Published**: February 08, 2026
-- **Summary**: https://www.standard.co.uk/news/world/statement-jeffrey-epstein-death-day-befor......
-- [Read more](https://www.standard.co.uk/news/world/statement-jeffrey-epstein-death-day-before-b1270109.html)
+### Sensing methane emissions from African livestock by drone, tower, and satellite
+- **Published**: February 09, 2026
+- **Summary**: https://bg.copernicus.org/articles/22/4163/2025/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46940......
+- [Read more](https://bg.copernicus.org/articles/22/4163/2025/)
 
-### Preserving the Open Web: Inside the New Wayback Machine Plugin for WordPress
-- **Published**: February 08, 2026
-- **Summary**: https://blog.archive.org/2026/02/04/inside-the-new-wayback-machine-plugin-for-wordpre......
-- [Read more](https://blog.archive.org/2026/02/04/inside-the-new-wayback-machine-plugin-for-wordpress/)
+### Are LLMs Becoming Components Rather Than Systems?
+- **Published**: February 09, 2026
+- **Summary**: https://www.corvic.ai/blog/part-1-of-3-indicting-the-villai......
+- [Read more](https://www.corvic.ai/blog/part-1-of-3-indicting-the-villain-how-the-pipeline-tyranny-created-your-genius-gridlock)
 
 ---
 
