@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### What Is an Event Sourcing Database?
+### How Top CISOs Solve Burnout and Speed up MTTR without Extra Hiring
 - **Published**: February 09, 2026
-- **Summary**: https://www.genesisdb.io/blog/posts/2026-02-08/event-sourcing-database</a></p>
-<p>Comments URL: <a href......
-- [Read more](https://www.genesisdb.io/blog/posts/2026-02-08/event-sourcing-database)
+- **Summary**: Why do SOC teams keep burning out and missing SLAs even after spending big on security tools? Routine triage piles up, senior specialists get dragged ...
+- [Read more](https://thehackernews.com/2026/02/how-top-cisos-solve-burnout-and-speed.html)
 
-### Iran notified ahead of Witkoff, Kushner visit to US aircraft carrier – report
+### Bloody Wolf Targets Uzbekistan, Russia Using NetSupport RAT in Spear-Phishing Campaign
 - **Published**: February 09, 2026
-- **Summary**: https://www.timesofisrael.com/iran-was-notified-ahead-of-witkoff......
-- [Read more](https://www.timesofisrael.com/iran-was-notified-ahead-of-witkoff-kushner-visit-to-us-aircraft-carrier-report/)
+- **Summary**: The threat actor known as Bloody Wolf has been linked to a campaign targeting Uzbekistan and Russia to infect systems with a remote access trojan know...
+- [Read more](https://thehackernews.com/2026/02/bloody-wolf-targets-uzbekistan-russia.html)
 
 ---
 
