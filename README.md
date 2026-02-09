@@ -16,15 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### How Top CISOs Solve Burnout and Speed up MTTR without Extra Hiring
+### Another GitHub outage in the same day
 - **Published**: February 09, 2026
-- **Summary**: Why do SOC teams keep burning out and missing SLAs even after spending big on security tools? Routine triage piles up, senior specialists get dragged ...
-- [Read more](https://thehackernews.com/2026/02/how-top-cisos-solve-burnout-and-speed.html)
+- **Summary**: https://www.githubstatus.com/incidents/lcw3tg2f6zsd</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id......
+- **Keywords**: outage
+- [Read more](https://www.githubstatus.com/incidents/lcw3tg2f6zsd)
 
-### Bloody Wolf Targets Uzbekistan, Russia Using NetSupport RAT in Spear-Phishing Campaign
+### China-Linked UNC3886 Targets Singapore Telecom Sector in Cyber Espionage Campaign
 - **Published**: February 09, 2026
-- **Summary**: The threat actor known as Bloody Wolf has been linked to a campaign targeting Uzbekistan and Russia to infect systems with a remote access trojan know...
-- [Read more](https://thehackernews.com/2026/02/bloody-wolf-targets-uzbekistan-russia.html)
+- **Summary**: The Cyber Security Agency (CSA) of Singapore on Monday revealed that the China-nexus cyber espionage group known as UNC3886 targeted its telecommunica...
+- [Read more](https://thehackernews.com/2026/02/china-linked-unc3886-targets-singapore.html)
 
 ---
 
