@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Sensing methane emissions from African livestock by drone, tower, and satellite
+### What Is an Event Sourcing Database?
 - **Published**: February 09, 2026
-- **Summary**: https://bg.copernicus.org/articles/22/4163/2025/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46940......
-- [Read more](https://bg.copernicus.org/articles/22/4163/2025/)
+- **Summary**: https://www.genesisdb.io/blog/posts/2026-02-08/event-sourcing-database</a></p>
+<p>Comments URL: <a href......
+- [Read more](https://www.genesisdb.io/blog/posts/2026-02-08/event-sourcing-database)
 
-### Are LLMs Becoming Components Rather Than Systems?
+### Iran notified ahead of Witkoff, Kushner visit to US aircraft carrier – report
 - **Published**: February 09, 2026
-- **Summary**: https://www.corvic.ai/blog/part-1-of-3-indicting-the-villai......
-- [Read more](https://www.corvic.ai/blog/part-1-of-3-indicting-the-villain-how-the-pipeline-tyranny-created-your-genius-gridlock)
+- **Summary**: https://www.timesofisrael.com/iran-was-notified-ahead-of-witkoff......
+- [Read more](https://www.timesofisrael.com/iran-was-notified-ahead-of-witkoff-kushner-visit-to-us-aircraft-carrier-report/)
 
 ---
 
