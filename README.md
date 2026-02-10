@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Another GitHub outage in the same day
-- **Published**: February 09, 2026
-- **Summary**: https://www.githubstatus.com/incidents/lcw3tg2f6zsd</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id......
-- **Keywords**: outage
-- [Read more](https://www.githubstatus.com/incidents/lcw3tg2f6zsd)
+### Why Every Business Must Engage with AI – and How to Do It Right
+- **Published**: February 10, 2026
+- **Summary**: <p>Title: Why every business should engage with AI (the real question is how deep)<p>AI is no longer an experimental technology. It’s becoming a basel...
+- [Read more](https://news.ycombinator.com/item?id=46955823)
 
-### China-Linked UNC3886 Targets Singapore Telecom Sector in Cyber Espionage Campaign
-- **Published**: February 09, 2026
-- **Summary**: The Cyber Security Agency (CSA) of Singapore on Monday revealed that the China-nexus cyber espionage group known as UNC3886 targeted its telecommunica...
-- [Read more](https://thehackernews.com/2026/02/china-linked-unc3886-targets-singapore.html)
+### Show HN: PicoClaw – lightweight OpenClaw-style AI bot in one Go binary
+- **Published**: February 10, 2026
+- **Summary**: <p>I’m building PicoClaw: a lightweight OpenClaw-style personal AI bot that runs as a single Go binary.
+OpenClaw (Moltbot / Clawdbot) is a great produ...
+- [Read more](https://github.com/mosaxiv/picoclaw)
 
 ---
 
