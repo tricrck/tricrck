@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Why Every Business Must Engage with AI – and How to Do It Right
+### Fortinet Patches Critical SQLi Flaw Enabling Unauthenticated Code Execution
 - **Published**: February 10, 2026
-- **Summary**: <p>Title: Why every business should engage with AI (the real question is how deep)<p>AI is no longer an experimental technology. It’s becoming a basel...
-- [Read more](https://news.ycombinator.com/item?id=46955823)
+- **Summary**: Fortinet has released security updates to address a critical flaw impacting FortiClientEMS that could lead to the execution of arbitrary code on susce...
+- [Read more](https://thehackernews.com/2026/02/fortinet-patches-critical-sqli-flaw.html)
 
-### Show HN: PicoClaw – lightweight OpenClaw-style AI bot in one Go binary
+### Linux USB iPhone Tethering
 - **Published**: February 10, 2026
-- **Summary**: <p>I’m building PicoClaw: a lightweight OpenClaw-style personal AI bot that runs as a single Go binary.
-OpenClaw (Moltbot / Clawdbot) is a great produ...
-- [Read more](https://github.com/mosaxiv/picoclaw)
+- **Summary**: https://wiki.archlinux.org/title/IPhone_tethering</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=469......
+- [Read more](https://wiki.archlinux.org/title/IPhone_tethering)
 
 ---
 
