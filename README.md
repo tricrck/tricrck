@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### ZAST.AI Raises $6M Pre-A to Scale "Zero False Positive" AI-Powered Code Security
+### DPRK Operatives Impersonate Professionals on LinkedIn to Infiltrate Companies
 - **Published**: February 10, 2026
-- **Summary**: January 5, 2026, Seattle, USA — ZAST.AI announced the completion of a $6 million Pre-A funding round. This investment came from the well-known investm...
-- [Read more](https://thehackernews.com/2026/02/zastai-raises-6m-pre-to-scale-zero.html)
+- **Summary**: The information technology (IT) workers associated with the Democratic People's Republic of Korea (DPRK) are now applying to remote positions using re...
+- [Read more](https://thehackernews.com/2026/02/dprk-operatives-impersonate.html)
 
-### Warlock Ransomware Breaches SmarterTools Through Unpatched SmarterMail Server
+### Reynolds Ransomware Embeds BYOVD Driver to Disable EDR Security Tools
 - **Published**: February 10, 2026
-- **Summary**: SmarterTools confirmed last week that the Warlock (aka Storm-2603) ransomware gang breached its network by exploiting an unpatched SmarterMail instanc...
-- [Read more](https://thehackernews.com/2026/02/warlock-ransomware-breaches.html)
+- **Summary**: Cybersecurity researchers have disclosed details of an emergent ransomware family dubbed Reynolds that comes embedded with a built-in bring your own v...
+- [Read more](https://thehackernews.com/2026/02/reynolds-ransomware-embeds-byovd-driver.html)
 
 ---
 
