@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Fortinet Patches Critical SQLi Flaw Enabling Unauthenticated Code Execution
+### ZAST.AI Raises $6M Pre-A to Scale "Zero False Positive" AI-Powered Code Security
 - **Published**: February 10, 2026
-- **Summary**: Fortinet has released security updates to address a critical flaw impacting FortiClientEMS that could lead to the execution of arbitrary code on susce...
-- [Read more](https://thehackernews.com/2026/02/fortinet-patches-critical-sqli-flaw.html)
+- **Summary**: January 5, 2026, Seattle, USA — ZAST.AI announced the completion of a $6 million Pre-A funding round. This investment came from the well-known investm...
+- [Read more](https://thehackernews.com/2026/02/zastai-raises-6m-pre-to-scale-zero.html)
 
-### Linux USB iPhone Tethering
+### Warlock Ransomware Breaches SmarterTools Through Unpatched SmarterMail Server
 - **Published**: February 10, 2026
-- **Summary**: https://wiki.archlinux.org/title/IPhone_tethering</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=469......
-- [Read more](https://wiki.archlinux.org/title/IPhone_tethering)
+- **Summary**: SmarterTools confirmed last week that the Warlock (aka Storm-2603) ransomware gang breached its network by exploiting an unpatched SmarterMail instanc...
+- [Read more](https://thehackernews.com/2026/02/warlock-ransomware-breaches.html)
 
 ---
 
