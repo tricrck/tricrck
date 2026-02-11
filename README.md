@@ -16,15 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Exposed Training Open the Door for Crypto-Mining in Fortune 500 Cloud Environments
+### Claude Code Is Being Dumbed Down
 - **Published**: February 11, 2026
-- **Summary**: Intentionally vulnerable training applications are widely used for security education, internal testing, and product demonstrations. Tools such as OWA...
-- [Read more](https://thehackernews.com/2026/02/exposed-training-open-door-for-crypto.html)
+- **Summary**: ......
+- **Keywords**: down
+- [Read more](https://symmetrybreak.ing/blog/claude-code-is-being-dumbed-down/)
 
-### Microsoft Patches 59 Vulnerabilities Including Six Actively Exploited Zero-Days
+### APT36 and SideCopy Launch Cross-Platform RAT Campaigns Against Indian Entities
 - **Published**: February 11, 2026
-- **Summary**: Microsoft on Tuesday released security updates to address a set of 59 flaws across its software, including six vulnerabilities that it said have been ...
-- [Read more](https://thehackernews.com/2026/02/microsoft-patches-59-vulnerabilities.html)
+- **Summary**: Indian defense sector and government-aligned organizations have been targeted by multiple campaigns that are designed to compromise Windows and Linux ...
+- [Read more](https://thehackernews.com/2026/02/apt36-and-sidecopy-launch-cross.html)
 
 ---
 
