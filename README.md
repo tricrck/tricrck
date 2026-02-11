@@ -16,15 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### DPRK Operatives Impersonate Professionals on LinkedIn to Infiltrate Companies
+### "Discord alternatives" searches jump 10,000% overnight as the gaming platform introduces global age verification — Is a total collapse imminent?
 - **Published**: February 10, 2026
-- **Summary**: The information technology (IT) workers associated with the Democratic People's Republic of Korea (DPRK) are now applying to remote positions using re...
-- [Read more](https://thehackernews.com/2026/02/dprk-operatives-impersonate.html)
+- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1r1fid6/discord_alternatives_searches_jump_10000/"> <img alt="&quot;Discord alternatives&qu...
+- **Keywords**: collapse
+- [Read more](https://www.reddit.com/r/technology/comments/1r1fid6/discord_alternatives_searches_jump_10000/)
 
-### Reynolds Ransomware Embeds BYOVD Driver to Disable EDR Security Tools
-- **Published**: February 10, 2026
-- **Summary**: Cybersecurity researchers have disclosed details of an emergent ransomware family dubbed Reynolds that comes embedded with a built-in bring your own v...
-- [Read more](https://thehackernews.com/2026/02/reynolds-ransomware-embeds-byovd-driver.html)
+### The Medici Method
+- **Published**: February 11, 2026
+- **Summary**: https://twitter.com/palladiummag/status/2021272038770606250</a></p>
+<p>Comments URL: <a href="https://news.ycombin......
+- [Read more](https://twitter.com/palladiummag/status/2021272038770606250)
 
 ---
 
