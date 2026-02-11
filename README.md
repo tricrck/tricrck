@@ -16,17 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### "Discord alternatives" searches jump 10,000% overnight as the gaming platform introduces global age verification — Is a total collapse imminent?
-- **Published**: February 10, 2026
-- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1r1fid6/discord_alternatives_searches_jump_10000/"> <img alt="&quot;Discord alternatives&qu...
-- **Keywords**: collapse
-- [Read more](https://www.reddit.com/r/technology/comments/1r1fid6/discord_alternatives_searches_jump_10000/)
-
-### Lab: The Full-Stack Platform for Training Your Own Models
+### Exposed Training Open the Door for Crypto-Mining in Fortune 500 Cloud Environments
 - **Published**: February 11, 2026
-- **Summary**: https://www.primeintellect.ai/blog/lab</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46971767">https://news.yc......
-- [Read more](https://www.primeintellect.ai/blog/lab)
+- **Summary**: Intentionally vulnerable training applications are widely used for security education, internal testing, and product demonstrations. Tools such as OWA...
+- [Read more](https://thehackernews.com/2026/02/exposed-training-open-door-for-crypto.html)
+
+### Microsoft Patches 59 Vulnerabilities Including Six Actively Exploited Zero-Days
+- **Published**: February 11, 2026
+- **Summary**: Microsoft on Tuesday released security updates to address a set of 59 flaws across its software, including six vulnerabilities that it said have been ...
+- [Read more](https://thehackernews.com/2026/02/microsoft-patches-59-vulnerabilities.html)
 
 ---
 
