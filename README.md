@@ -22,11 +22,11 @@
 - **Keywords**: collapse
 - [Read more](https://www.reddit.com/r/technology/comments/1r1fid6/discord_alternatives_searches_jump_10000/)
 
-### The Medici Method
+### Lab: The Full-Stack Platform for Training Your Own Models
 - **Published**: February 11, 2026
-- **Summary**: https://twitter.com/palladiummag/status/2021272038770606250</a></p>
-<p>Comments URL: <a href="https://news.ycombin......
-- [Read more](https://twitter.com/palladiummag/status/2021272038770606250)
+- **Summary**: https://www.primeintellect.ai/blog/lab</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46971767">https://news.yc......
+- [Read more](https://www.primeintellect.ai/blog/lab)
 
 ---
 
