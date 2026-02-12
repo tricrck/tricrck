@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Healthcare Jobs Have Become the Engine of America's Labor Market
+### Apple Fixes Exploited Zero-Day Affecting iOS, macOS, and Apple Devices
 - **Published**: February 12, 2026
-- **Summary**: https://www.wsj.com/economy/jobs/healthcare-jobs-have-become-the-eng......
-- [Read more](https://www.wsj.com/economy/jobs/healthcare-jobs-have-become-the-engine-of-americas-labor-market-114ffd34)
+- **Summary**: Apple on Wednesday released iOS, iPadOS, macOS Tahoe, tvOS, watchOS, and visionOS updates to address a zero-day flaw that it said has been exploited i...
+- [Read more](https://thehackernews.com/2026/02/apple-fixes-exploited-zero-day.html)
 
-### Benchmarking 8 remote browser providers with 250 concurrent AI agents
+### Why Modern Chinese Is Just 'English with Hanzi'
 - **Published**: February 12, 2026
-- **Summary**: https://research.aimultiple.com/remote-browsers/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46984......
-- [Read more](https://research.aimultiple.com/remote-browsers/)
+- **Summary**: https://jingyu1623.substack.com/p/why-modern-chinese-is-just-english</a></p>
+<p>Comments URL: <a href="ht......
+- [Read more](https://jingyu1623.substack.com/p/why-modern-chinese-is-just-english)
 
 ---
 
