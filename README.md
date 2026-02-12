@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Apple Fixes Exploited Zero-Day Affecting iOS, macOS, and Apple Devices
+### ThreatsDay Bulletin: AI Prompt RCE, Claude 0-Click, RenEngine Loader, Auto 0-Days & 25+ Stories
 - **Published**: February 12, 2026
-- **Summary**: Apple on Wednesday released iOS, iPadOS, macOS Tahoe, tvOS, watchOS, and visionOS updates to address a zero-day flaw that it said has been exploited i...
-- [Read more](https://thehackernews.com/2026/02/apple-fixes-exploited-zero-day.html)
+- **Summary**: Threat activity this week shows one consistent signal — attackers are leaning harder on what already works. Instead of flashy new exploits, many opera...
+- [Read more](https://thehackernews.com/2026/02/threatsday-bulletin-ai-prompt-rce.html)
 
-### Why Modern Chinese Is Just 'English with Hanzi'
+### The CTEM Divide: Why 84% of Security Programs Are Falling Behind
 - **Published**: February 12, 2026
-- **Summary**: https://jingyu1623.substack.com/p/why-modern-chinese-is-just-english</a></p>
-<p>Comments URL: <a href="ht......
-- [Read more](https://jingyu1623.substack.com/p/why-modern-chinese-is-just-english)
+- **Summary**: A new 2026 market intelligence study of 128 enterprise security decision-makers (available here) reveals a stark divide forming between organizations ...
+- [Read more](https://thehackernews.com/2026/02/the-ctem-divide-why-84-of-security.html)
 
 ---
 
