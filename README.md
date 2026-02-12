@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Claude Code Is Being Dumbed Down
-- **Published**: February 11, 2026
-- **Summary**: ......
-- **Keywords**: down
-- [Read more](https://symmetrybreak.ing/blog/claude-code-is-being-dumbed-down/)
+### Healthcare Jobs Have Become the Engine of America's Labor Market
+- **Published**: February 12, 2026
+- **Summary**: https://www.wsj.com/economy/jobs/healthcare-jobs-have-become-the-eng......
+- [Read more](https://www.wsj.com/economy/jobs/healthcare-jobs-have-become-the-engine-of-americas-labor-market-114ffd34)
 
-### APT36 and SideCopy Launch Cross-Platform RAT Campaigns Against Indian Entities
-- **Published**: February 11, 2026
-- **Summary**: Indian defense sector and government-aligned organizations have been targeted by multiple campaigns that are designed to compromise Windows and Linux ...
-- [Read more](https://thehackernews.com/2026/02/apt36-and-sidecopy-launch-cross.html)
+### Benchmarking 8 remote browser providers with 250 concurrent AI agents
+- **Published**: February 12, 2026
+- **Summary**: https://research.aimultiple.com/remote-browsers/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46984......
+- [Read more](https://research.aimultiple.com/remote-browsers/)
 
 ---
 
