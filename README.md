@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### ThreatsDay Bulletin: AI Prompt RCE, Claude 0-Click, RenEngine Loader, Auto 0-Days & 25+ Stories
+### Google Reports State-Backed Hackers Using Gemini AI for Recon and Attack Support
 - **Published**: February 12, 2026
-- **Summary**: Threat activity this week shows one consistent signal — attackers are leaning harder on what already works. Instead of flashy new exploits, many opera...
-- [Read more](https://thehackernews.com/2026/02/threatsday-bulletin-ai-prompt-rce.html)
+- **Summary**: Google on Thursday said it observed the North Korea-linked threat actor known as UNC2970 using its generative artificial intelligence (AI) model Gemin...
+- [Read more](https://thehackernews.com/2026/02/google-reports-state-backed-hackers.html)
 
-### The CTEM Divide: Why 84% of Security Programs Are Falling Behind
+### Lazarus Campaign Plants Malicious Packages in npm and PyPI Ecosystems
 - **Published**: February 12, 2026
-- **Summary**: A new 2026 market intelligence study of 128 enterprise security decision-makers (available here) reveals a stark divide forming between organizations ...
-- [Read more](https://thehackernews.com/2026/02/the-ctem-divide-why-84-of-security.html)
+- **Summary**: Cybersecurity researchers have discovered a fresh set of malicious packages across npm and the Python Package Index (PyPI) repository linked to a fake...
+- [Read more](https://thehackernews.com/2026/02/lazarus-campaign-plants-malicious.html)
 
 ---
 
