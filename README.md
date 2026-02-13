@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Everybody Is a CEO Now (and What Am I Doing Here?)
+### Waymo Paying DoorDash Drivers to Shut Open Robotaxi Doors
 - **Published**: February 13, 2026
-- **Summary**: https://www.behind-the-enemy-lines.com/2026/02/everybody-is-ceo-now-and-what-exactly......
-- [Read more](https://www.behind-the-enemy-lines.com/2026/02/everybody-is-ceo-now-and-what-exactly.html)
+- **Summary**: https://www.bloomberg.com/news/articles/2026-02-12/waymo-t......
+- [Read more](https://www.bloomberg.com/news/articles/2026-02-12/waymo-tries-finding-doordash-drivers-to-shut-open-robotaxi-doors)
 
-### TiDB Cloud Zero – full-featured database with one line of curl
+### Welcome to the Eternal September of open source. What we'll do for maintainers
 - **Published**: February 13, 2026
-- **Summary**: https://zero.tidbcloud.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46998120">https://news.ycombinator.com/item?id=......
-- [Read more](https://zero.tidbcloud.com/)
+- **Summary**: https://github.blog/open-source/maintain......
+- [Read more](https://github.blog/open-source/maintainers/welcome-to-the-eternal-september-of-open-source-heres-what-we-plan-to-do-for-maintainers/)
 
 ---
 
