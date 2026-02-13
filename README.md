@@ -16,15 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Google Reports State-Backed Hackers Using Gemini AI for Recon and Attack Support
-- **Published**: February 12, 2026
-- **Summary**: Google on Thursday said it observed the North Korea-linked threat actor known as UNC2970 using its generative artificial intelligence (AI) model Gemin...
-- [Read more](https://thehackernews.com/2026/02/google-reports-state-backed-hackers.html)
+### Everybody Is a CEO Now (and What Am I Doing Here?)
+- **Published**: February 13, 2026
+- **Summary**: https://www.behind-the-enemy-lines.com/2026/02/everybody-is-ceo-now-and-what-exactly......
+- [Read more](https://www.behind-the-enemy-lines.com/2026/02/everybody-is-ceo-now-and-what-exactly.html)
 
-### Lazarus Campaign Plants Malicious Packages in npm and PyPI Ecosystems
-- **Published**: February 12, 2026
-- **Summary**: Cybersecurity researchers have discovered a fresh set of malicious packages across npm and the Python Package Index (PyPI) repository linked to a fake...
-- [Read more](https://thehackernews.com/2026/02/lazarus-campaign-plants-malicious.html)
+### TiDB Cloud Zero – full-featured database with one line of curl
+- **Published**: February 13, 2026
+- **Summary**: https://zero.tidbcloud.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46998120">https://news.ycombinator.com/item?id=......
+- [Read more](https://zero.tidbcloud.com/)
 
 ---
 
