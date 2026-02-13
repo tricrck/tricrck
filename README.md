@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Waymo Paying DoorDash Drivers to Shut Open Robotaxi Doors
+### Malicious Chrome Extensions Caught Stealing Business Data, Emails, and Browsing History
 - **Published**: February 13, 2026
-- **Summary**: https://www.bloomberg.com/news/articles/2026-02-12/waymo-t......
-- [Read more](https://www.bloomberg.com/news/articles/2026-02-12/waymo-tries-finding-doordash-drivers-to-shut-open-robotaxi-doors)
+- **Summary**: Cybersecurity researchers have discovered a malicious Google Chrome extension that's designed to steal data associated with Meta Business Suite and Fa...
+- [Read more](https://thehackernews.com/2026/02/malicious-chrome-extensions-caught.html)
 
-### Welcome to the Eternal September of open source. What we'll do for maintainers
+### npm’s Update to Harden Their Supply Chain, and Points to Consider
 - **Published**: February 13, 2026
-- **Summary**: https://github.blog/open-source/maintain......
-- [Read more](https://github.blog/open-source/maintainers/welcome-to-the-eternal-september-of-open-source-heres-what-we-plan-to-do-for-maintainers/)
+- **Summary**: In December 2025, in response to the Sha1-Hulud incident, npm completed a major authentication overhaul intended to reduce supply-chain attacks. While...
+- [Read more](https://thehackernews.com/2026/02/npms-update-to-harden-their-supply.html)
 
 ---
 
