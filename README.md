@@ -16,15 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Malicious Chrome Extensions Caught Stealing Business Data, Emails, and Browsing History
+### Google Ties Suspected Russian Actor to CANFAIL Malware Attacks on Ukrainian Orgs
 - **Published**: February 13, 2026
-- **Summary**: Cybersecurity researchers have discovered a malicious Google Chrome extension that's designed to steal data associated with Meta Business Suite and Fa...
-- [Read more](https://thehackernews.com/2026/02/malicious-chrome-extensions-caught.html)
+- **Summary**: A previously undocumented threat actor has been attributed to attacks targeting Ukrainian organizations with malware known as CANFAIL.
+Google Threat I...
+- [Read more](https://thehackernews.com/2026/02/google-ties-suspected-russian-actor-to.html)
 
-### npm’s Update to Harden Their Supply Chain, and Points to Consider
+### Google Links China, Iran, Russia, North Korea to Coordinated Defense Sector Cyber Operations
 - **Published**: February 13, 2026
-- **Summary**: In December 2025, in response to the Sha1-Hulud incident, npm completed a major authentication overhaul intended to reduce supply-chain attacks. While...
-- [Read more](https://thehackernews.com/2026/02/npms-update-to-harden-their-supply.html)
+- **Summary**: Several state-sponsored actors, hacktivist entities, and criminal groups from China, Iran, North Korea, and Russia have trained their sights on the de...
+- [Read more](https://thehackernews.com/2026/02/google-links-china-iran-russia-north.html)
 
 ---
 
