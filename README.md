@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### The SEC closed its investigation into Fisker
+### OpenClaw on $5 chips, no Linux or Node.js
 - **Published**: February 14, 2026
-- **Summary**: https://techcrunch.com/2026/02/13/the-sec-closed-its-investigation-into-fisker/</a></p>
-<p>Com......
-- [Read more](https://techcrunch.com/2026/02/13/the-sec-closed-its-investigation-into-fisker/)
+- **Summary**: https://www.mimiclaw.io/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47014143">https://news.ycombinator.com/item?id=470141....
+- [Read more](https://www.mimiclaw.io/)
 
-### MiniMax M2.5 SOTA in Coding and Agent, Designed for Agent Universe
+### ChatGPT promised to help her find her soulmate. Then it betrayed her
 - **Published**: February 14, 2026
-- **Summary**: https://www.minimax.io/models/text</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47012230">https://news.ycombinato......
-- [Read more](https://www.minimax.io/models/text)
+- **Summary**: https://www.npr.org/2026/02/14/nx-s1-5711441/ai-chatgpt-openai-love-betrayal-del......
+- [Read more](https://www.npr.org/2026/02/14/nx-s1-5711441/ai-chatgpt-openai-love-betrayal-delusion-chatbot)
 
 ---
 
