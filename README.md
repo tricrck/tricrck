@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### OpenClaw on $5 chips, no Linux or Node.js
+### Show HN: Tilth v0.3 – 17% cheaper AI code navigation (279 runs, 3 Claude models)
 - **Published**: February 14, 2026
-- **Summary**: https://www.mimiclaw.io/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47014143">https://news.ycombinator.com/item?id=470141....
-- [Read more](https://www.mimiclaw.io/)
+- **Summary**: <p>tilth gives AI agents structural code intelligence (tree-sitter definitions, callee resolution, smart outlining) via MCP. I benchmarked it on 21 co...
+- [Read more](https://news.ycombinator.com/item?id=47016959)
 
-### ChatGPT promised to help her find her soulmate. Then it betrayed her
+### Tech leaders pour $50M into super PAC to elect AI-friendly candidates
 - **Published**: February 14, 2026
-- **Summary**: https://www.npr.org/2026/02/14/nx-s1-5711441/ai-chatgpt-openai-love-betrayal-del......
-- [Read more](https://www.npr.org/2026/02/14/nx-s1-5711441/ai-chatgpt-openai-love-betrayal-delusion-chatbot)
+- **Summary**: https://www.latimes.com/business/stor......
+- [Read more](https://www.latimes.com/business/story/2026-02-13/tech-titans-pour-50-million-into-super-pac-to-elect-ai-friendly-candidates-to-congress)
 
 ---
 
