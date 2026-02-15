@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### The Bastard Operator from Hell
+### Microsoft Discloses DNS-Based ClickFix Attack Using Nslookup for Malware Staging
 - **Published**: February 15, 2026
-- **Summary**: https://bofh.bjash.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47023250">https://news.ycombinator.com/item?id=47023250...
-- [Read more](https://bofh.bjash.com/)
+- **Summary**: Microsoft has disclosed details of a new version of the ClickFix social engineering tactic in which the attackers trick unsuspecting users into runnin...
+- [Read more](https://thehackernews.com/2026/02/microsoft-discloses-dns-based-clickfix.html)
 
-### When interfaces become disposable
+### Towards Autonomous Mathematics Research
 - **Published**: February 15, 2026
-- **Summary**: https://chrisloy.dev/post/2026/02/14/when-interfaces-become-disposable</a></p>
-<p>Comments URL: <a href......
-- [Read more](https://chrisloy.dev/post/2026/02/14/when-interfaces-become-disposable)
+- **Summary**: https://arxiv.org/abs/2602.10177</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47026134">https://news.ycombinator.co......
+- [Read more](https://arxiv.org/abs/2602.10177)
 
 ---
 
