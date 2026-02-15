@@ -16,15 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Show HN: Tilth v0.3 – 17% cheaper AI code navigation (279 runs, 3 Claude models)
-- **Published**: February 14, 2026
-- **Summary**: <p>tilth gives AI agents structural code intelligence (tree-sitter definitions, callee resolution, smart outlining) via MCP. I benchmarked it on 21 co...
-- [Read more](https://news.ycombinator.com/item?id=47016959)
+### Sentinel Enterprise SIEM for Startups
+- **Published**: February 15, 2026
+- **Summary**: https://github.com/lonenazim42-droid/Sentinel-SIEM</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4......
+- [Read more](https://github.com/lonenazim42-droid/Sentinel-SIEM)
 
-### Tech leaders pour $50M into super PAC to elect AI-friendly candidates
-- **Published**: February 14, 2026
-- **Summary**: https://www.latimes.com/business/stor......
-- [Read more](https://www.latimes.com/business/story/2026-02-13/tech-titans-pour-50-million-into-super-pac-to-elect-ai-friendly-candidates-to-congress)
+### FQxI Competition: How Quantum Is Life? – Winners
+- **Published**: February 15, 2026
+- **Summary**: https://qspace.fqxi.org/competitions/winners/17</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4702044......
+- [Read more](https://qspace.fqxi.org/competitions/winners/17)
 
 ---
 
