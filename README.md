@@ -16,17 +16,19 @@
 
 ## 🚨 Tech Stories
 
-### Sentinel Enterprise SIEM for Startups
+### Show HN: I built a 'Gym' for developers who want to stop relying on AI
 - **Published**: February 15, 2026
-- **Summary**: https://github.com/lonenazim42-droid/Sentinel-SIEM</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4......
-- [Read more](https://github.com/lonenazim42-droid/Sentinel-SIEM)
+- **Summary**: 
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/it......
+- **Keywords**: broken
+- [Read more](https://get-human-spec.netlify.app/)
 
-### FQxI Competition: How Quantum Is Life? – Winners
+### Agentic Tech Magazine
 - **Published**: February 15, 2026
-- **Summary**: https://qspace.fqxi.org/competitions/winners/17</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4702044......
-- [Read more](https://qspace.fqxi.org/competitions/winners/17)
+- **Summary**: https://agentcrunch.ai/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47021538">https://news.ycombinator.com/item?id=47021538...
+- [Read more](https://agentcrunch.ai/)
 
 ---
 
