@@ -16,19 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Show HN: I built a 'Gym' for developers who want to stop relying on AI
+### The Bastard Operator from Hell
 - **Published**: February 15, 2026
-- **Summary**: 
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/it......
-- **Keywords**: broken
-- [Read more](https://get-human-spec.netlify.app/)
+- **Summary**: https://bofh.bjash.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47023250">https://news.ycombinator.com/item?id=47023250...
+- [Read more](https://bofh.bjash.com/)
 
-### Agentic Tech Magazine
+### When interfaces become disposable
 - **Published**: February 15, 2026
-- **Summary**: https://agentcrunch.ai/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47021538">https://news.ycombinator.com/item?id=47021538...
-- [Read more](https://agentcrunch.ai/)
+- **Summary**: https://chrisloy.dev/post/2026/02/14/when-interfaces-become-disposable</a></p>
+<p>Comments URL: <a href......
+- [Read more](https://chrisloy.dev/post/2026/02/14/when-interfaces-become-disposable)
 
 ---
 
