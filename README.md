@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Whispered – ephemeral posts judged by the community
+### Safe and Inclusive E‑Society: How Lithuania Is Bracing for AI‑Driven Cyber Fraud
 - **Published**: February 16, 2026
-- **Summary**: https://whispered-live.vercel.app</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47031738">https://news.ycombinator.......
-- [Read more](https://whispered-live.vercel.app)
+- **Summary**: Presentation of the KTU Consortium Mission ‘A Safe and Inclusive Digital Society’ at the Innovation Agency event ‘Innovation Breakfast: How Mission-Or...
+- [Read more](https://thehackernews.com/2026/02/safe-and-inclusive-esociety-how.html)
 
-### Signal sniffer used to locate missing persons paceemaker
+### New ZeroDayRAT Mobile Spyware Enables Real-Time Surveillance and Data Theft
 - **Published**: February 16, 2026
-- **Summary**: https://www.abc.net.au/news/2026-02-16/nancy-guthrie-pacemake......
-- [Read more](https://www.abc.net.au/news/2026-02-16/nancy-guthrie-pacemaker-signal-sniffer-suspected-kidnapping-fbi/106348848)
+- **Summary**: Cybersecurity researchers have disclosed details of a new mobile spyware platform dubbed ZeroDayRAT that's being advertised on Telegram as a way to gr...
+- [Read more](https://thehackernews.com/2026/02/new-zerodayrat-mobile-spyware-enables.html)
 
 ---
 
