@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Error payloads in Zig
-- **Published**: February 15, 2026
-- **Summary**: ......
-- **Keywords**: error
-- [Read more](https://srcreigh.ca/posts/error-payloads-in-zig/)
-
-### Show HN: Talk2Code – Text your codebase from your phone (~150 lines of Python)
+### Whispered – ephemeral posts judged by the community
 - **Published**: February 16, 2026
-- **Summary**: <p>Talk2Code was my endeavor into building something useful, but I thought it would take MUCH more than 150 lines of code... this is just stupid simpl...
-- [Read more](https://github.com/dchisholm125/Talk2Code)
+- **Summary**: https://whispered-live.vercel.app</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47031738">https://news.ycombinator.......
+- [Read more](https://whispered-live.vercel.app)
+
+### Signal sniffer used to locate missing persons paceemaker
+- **Published**: February 16, 2026
+- **Summary**: https://www.abc.net.au/news/2026-02-16/nancy-guthrie-pacemake......
+- [Read more](https://www.abc.net.au/news/2026-02-16/nancy-guthrie-pacemaker-signal-sniffer-suspected-kidnapping-fbi/106348848)
 
 ---
 
