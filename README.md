@@ -16,15 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Safe and Inclusive E‑Society: How Lithuania Is Bracing for AI‑Driven Cyber Fraud
+### 14-year-old Miles Wu folded origami pattern that holds 10k times its own weight
 - **Published**: February 16, 2026
-- **Summary**: Presentation of the KTU Consortium Mission ‘A Safe and Inclusive Digital Society’ at the Innovation Agency event ‘Innovation Breakfast: How Mission-Or...
-- [Read more](https://thehackernews.com/2026/02/safe-and-inclusive-esociety-how.html)
+- **Summary**: https://......
+- **Keywords**: emergency
+- [Read more](https://www.smithsonianmag.com/innovation/this-14-year-old-is-using-origami-to-design-emergency-shelters-that-are-sturdy-cost-efficient-and-easy-to-deploy-180988179/)
 
-### New ZeroDayRAT Mobile Spyware Enables Real-Time Surveillance and Data Theft
+### Show HN: Diffuji – a diffusion-powered instant camera
 - **Published**: February 16, 2026
-- **Summary**: Cybersecurity researchers have disclosed details of a new mobile spyware platform dubbed ZeroDayRAT that's being advertised on Telegram as a way to gr...
-- [Read more](https://thehackernews.com/2026/02/new-zerodayrat-mobile-spyware-enables.html)
+- **Summary**: https://diffuji.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47038551">https://news.ycombinator.com/item?id=47038551</a...
+- [Read more](https://diffuji.com/)
 
 ---
 
