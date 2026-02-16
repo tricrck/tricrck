@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Microsoft Discloses DNS-Based ClickFix Attack Using Nslookup for Malware Staging
+### Error payloads in Zig
 - **Published**: February 15, 2026
-- **Summary**: Microsoft has disclosed details of a new version of the ClickFix social engineering tactic in which the attackers trick unsuspecting users into runnin...
-- [Read more](https://thehackernews.com/2026/02/microsoft-discloses-dns-based-clickfix.html)
+- **Summary**: ......
+- **Keywords**: error
+- [Read more](https://srcreigh.ca/posts/error-payloads-in-zig/)
 
-### Towards Autonomous Mathematics Research
-- **Published**: February 15, 2026
-- **Summary**: https://arxiv.org/abs/2602.10177</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47026134">https://news.ycombinator.co......
-- [Read more](https://arxiv.org/abs/2602.10177)
+### Show HN: Talk2Code – Text your codebase from your phone (~150 lines of Python)
+- **Published**: February 16, 2026
+- **Summary**: <p>Talk2Code was my endeavor into building something useful, but I thought it would take MUCH more than 150 lines of code... this is just stupid simpl...
+- [Read more](https://github.com/dchisholm125/Talk2Code)
 
 ---
 

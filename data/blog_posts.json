@@ -1,108 +1,28 @@
 {
   "chaos_ranked": [
     {
-      "title": "Microsoft Discloses DNS-Based ClickFix Attack Using Nslookup for Malware Staging",
-      "link": "https://thehackernews.com/2026/02/microsoft-discloses-dns-based-clickfix.html",
-      "summary": "Microsoft has disclosed details of a new version of the ClickFix social engineering tactic in which the attackers trick unsuspecting users into running commands that carry out a Domain Name System (DN...",
-      "published": "2026-02-15T19:40:00+05:30",
-      "domain": "thehackernews.com",
+      "title": "Error payloads in Zig",
+      "link": "https://srcreigh.ca/posts/error-payloads-in-zig/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47028705\">Comments</a>...",
+      "published": "2026-02-15T23:08:43+00:00",
+      "domain": "srcreigh.ca",
       "scores": {
-        "chaos": 3.0,
+        "chaos": 31.0,
         "anarchy": 3.0,
-        "overall": 3.0
+        "overall": 17.0
       },
       "keywords": {
-        "chaos": [],
+        "chaos": [
+          "error"
+        ],
         "anarchy": []
       }
     },
     {
-      "title": "Towards Autonomous Mathematics Research",
-      "link": "https://arxiv.org/abs/2602.10177",
-      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2602.10177\">https://arxiv.org/abs/2602.10177</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47026134\">https://news.ycombinator.co...",
-      "published": "2026-02-15T18:35:40+00:00",
-      "domain": "arxiv.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 13.8,
-        "overall": 8.4
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": [
-          "autonomous"
-        ]
-      }
-    },
-    {
-      "title": "Animals can give blood too",
-      "link": "https://www.blood.co.uk/news-and-campaigns/the-donor/animals-can-give-blood-too/",
-      "summary": "<p>Article URL: <a href=\"https://www.blood.co.uk/news-and-campaigns/the-donor/animals-can-give-blood-too/\">https://www.blood.co.uk/news-and-campaigns/the-donor/animals-can-give-blood-too/</a></p>\n<p>C...",
-      "published": "2026-02-15T18:35:24+00:00",
-      "domain": "blood.co.uk",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "America's Future Leaders Are Learning to Become Grifters",
-      "link": "https://www.robkhenderson.com/p/americas-future-leaders-are-learning",
-      "summary": "<p>Article URL: <a href=\"https://www.robkhenderson.com/p/americas-future-leaders-are-learning\">https://www.robkhenderson.com/p/americas-future-leaders-are-learning</a></p>\n<p>Comments URL: <a href=\"ht...",
-      "published": "2026-02-15T18:33:13+00:00",
-      "domain": "robkhenderson.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Why no one should use the AT&T syntax",
-      "link": "https://web.archive.org/web/20210213094152/https://elronnd.net/writ/2021-02-13_att-asm.html",
-      "summary": "<p>Article URL: <a href=\"https://web.archive.org/web/20210213094152/https://elronnd.net/writ/2021-02-13_att-asm.html\">https://web.archive.org/web/20210213094152/https://elronnd.net/writ/2021-02-13_att...",
-      "published": "2026-02-15T18:32:36+00:00",
-      "domain": "web.archive.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Don't Add AI to Your App \u2013 Add Your App to AI",
-      "link": "https://maalla.dev/posts/dont-add-ai-to-your-app/",
-      "summary": "<p>Article URL: <a href=\"https://maalla.dev/posts/dont-add-ai-to-your-app/\">https://maalla.dev/posts/dont-add-ai-to-your-app/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=470...",
-      "published": "2026-02-15T18:31:32+00:00",
-      "domain": "maalla.dev",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "LT6502: A 6502-based homebrew laptop",
-      "link": "https://github.com/TechPaula/LT6502",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47025399\">Comments</a>...",
-      "published": "2026-02-15T17:12:35+00:00",
+      "title": "Show HN: Talk2Code \u2013 Text your codebase from your phone (~150 lines of Python)",
+      "link": "https://github.com/dchisholm125/Talk2Code",
+      "summary": "<p>Talk2Code was my endeavor into building something useful, but I thought it would take MUCH more than 150 lines of code... this is just stupid simple, and it SHOULD be shared. Check out my video wal...",
+      "published": "2026-02-16T02:15:53+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -115,11 +35,11 @@
       }
     },
     {
-      "title": "EU bans the destruction of unsold apparel, clothing, accessories and footwear",
-      "link": "https://environment.ec.europa.eu/news/new-eu-rules-stop-destruction-unsold-clothes-and-shoes-2026-02-09_en",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47025378\">Comments</a>...",
-      "published": "2026-02-15T17:10:18+00:00",
-      "domain": "environment.ec.europa.eu",
+      "title": "Show HN: Ls-f a fast, zero-dependency ls with Nerd Font icons (Rust rewrite)",
+      "link": "https://github.com/swadhinbiswas/ls-f",
+      "summary": "<p>Hey HN People,\nLike many of you on Arch + Hyprland (or really any rolling distro), I used to rely on eza for nice-looking ls output with icons, git status, tree view, etc.<p>Then a recent update br...",
+      "published": "2026-02-16T02:15:22+00:00",
+      "domain": "github.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -131,11 +51,11 @@
       }
     },
     {
-      "title": "Hideki Sato, designer of all Sega's consoles, has died",
-      "link": "https://www.videogameschronicle.com/news/hideki-sato-designer-of-segas-consoles-dies-age-75/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47024907\">Comments</a>...",
-      "published": "2026-02-15T16:19:51+00:00",
-      "domain": "videogameschronicle.com",
+      "title": "I manage my Guix System configs",
+      "link": "https://www.terracrypt.net/posts/guix-config.html",
+      "summary": "<p>Article URL: <a href=\"https://www.terracrypt.net/posts/guix-config.html\">https://www.terracrypt.net/posts/guix-config.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=470...",
+      "published": "2026-02-16T02:14:38+00:00",
+      "domain": "terracrypt.net",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -147,11 +67,91 @@
       }
     },
     {
-      "title": "Gwtar: A static efficient single-file HTML format",
-      "link": "https://gwern.net/gwtar",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47024506\">Comments</a>...",
-      "published": "2026-02-15T15:37:06+00:00",
-      "domain": "gwern.net",
+      "title": "Test my live Tempest AI Metrics Dashboard on the web",
+      "link": "http://davepl.dyns.org:8765/",
+      "summary": "<p>Article URL: <a href=\"http://davepl.dyns.org:8765/\">http://davepl.dyns.org:8765/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47030124\">https://news.ycombinator.com/item?i...",
+      "published": "2026-02-16T02:13:32+00:00",
+      "domain": "davepl.dyns.org:8765",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: MultiWA - Open-source self-hosted WhatsApp API Gateway",
+      "link": "https://github.com/ribato22/MultiWA",
+      "summary": "<p>Article URL: <a href=\"https://github.com/ribato22/MultiWA\">https://github.com/ribato22/MultiWA</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47030121\">https://news.ycombina...",
+      "published": "2026-02-16T02:13:06+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Pink noise reduces REM sleep and may harm sleep quality",
+      "link": "https://www.pennmedicine.org/news/pink-noise-reduces-rem-sleep-and-may-harm-sleep-quality",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47029397\">Comments</a>...",
+      "published": "2026-02-16T00:35:12+00:00",
+      "domain": "pennmedicine.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Magnus Carlsen Wins the Freestyle (Chess960) World Championship",
+      "link": "https://www.fide.com/magnus-carlsen-wins-2026-fide-freestyle-world-championship/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47028227\">Comments</a>...",
+      "published": "2026-02-15T22:17:10+00:00",
+      "domain": "fide.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "A Stock Market Doom Loop Is Hitting Everything That Touches AI",
+      "link": "https://www.reddit.com/r/technology/comments/1r5rfit/a_stock_market_doom_loop_is_hitting_everything/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1r5rfit/a_stock_market_doom_loop_is_hitting_everything/\"> <img alt=\"A Stock Market Doom Loop Is Hitting Everything That Touches A...",
+      "published": "2026-02-15T22:01:00+00:00",
+      "domain": "reddit.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "I\u2019m joining OpenAI",
+      "link": "https://steipete.me/posts/2026/openclaw",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47028013\">Comments</a>...",
+      "published": "2026-02-15T21:54:15+00:00",
+      "domain": "steipete.me",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -165,108 +165,10 @@
   ],
   "anarchy_ranked": [
     {
-      "title": "Towards Autonomous Mathematics Research",
-      "link": "https://arxiv.org/abs/2602.10177",
-      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2602.10177\">https://arxiv.org/abs/2602.10177</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47026134\">https://news.ycombinator.co...",
-      "published": "2026-02-15T18:35:40+00:00",
-      "domain": "arxiv.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 13.8,
-        "overall": 8.4
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": [
-          "autonomous"
-        ]
-      }
-    },
-    {
-      "title": "Microsoft Discloses DNS-Based ClickFix Attack Using Nslookup for Malware Staging",
-      "link": "https://thehackernews.com/2026/02/microsoft-discloses-dns-based-clickfix.html",
-      "summary": "Microsoft has disclosed details of a new version of the ClickFix social engineering tactic in which the attackers trick unsuspecting users into running commands that carry out a Domain Name System (DN...",
-      "published": "2026-02-15T19:40:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Animals can give blood too",
-      "link": "https://www.blood.co.uk/news-and-campaigns/the-donor/animals-can-give-blood-too/",
-      "summary": "<p>Article URL: <a href=\"https://www.blood.co.uk/news-and-campaigns/the-donor/animals-can-give-blood-too/\">https://www.blood.co.uk/news-and-campaigns/the-donor/animals-can-give-blood-too/</a></p>\n<p>C...",
-      "published": "2026-02-15T18:35:24+00:00",
-      "domain": "blood.co.uk",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "America's Future Leaders Are Learning to Become Grifters",
-      "link": "https://www.robkhenderson.com/p/americas-future-leaders-are-learning",
-      "summary": "<p>Article URL: <a href=\"https://www.robkhenderson.com/p/americas-future-leaders-are-learning\">https://www.robkhenderson.com/p/americas-future-leaders-are-learning</a></p>\n<p>Comments URL: <a href=\"ht...",
-      "published": "2026-02-15T18:33:13+00:00",
-      "domain": "robkhenderson.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Why no one should use the AT&T syntax",
-      "link": "https://web.archive.org/web/20210213094152/https://elronnd.net/writ/2021-02-13_att-asm.html",
-      "summary": "<p>Article URL: <a href=\"https://web.archive.org/web/20210213094152/https://elronnd.net/writ/2021-02-13_att-asm.html\">https://web.archive.org/web/20210213094152/https://elronnd.net/writ/2021-02-13_att...",
-      "published": "2026-02-15T18:32:36+00:00",
-      "domain": "web.archive.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Don't Add AI to Your App \u2013 Add Your App to AI",
-      "link": "https://maalla.dev/posts/dont-add-ai-to-your-app/",
-      "summary": "<p>Article URL: <a href=\"https://maalla.dev/posts/dont-add-ai-to-your-app/\">https://maalla.dev/posts/dont-add-ai-to-your-app/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=470...",
-      "published": "2026-02-15T18:31:32+00:00",
-      "domain": "maalla.dev",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "LT6502: A 6502-based homebrew laptop",
-      "link": "https://github.com/TechPaula/LT6502",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47025399\">Comments</a>...",
-      "published": "2026-02-15T17:12:35+00:00",
+      "title": "Show HN: Talk2Code \u2013 Text your codebase from your phone (~150 lines of Python)",
+      "link": "https://github.com/dchisholm125/Talk2Code",
+      "summary": "<p>Talk2Code was my endeavor into building something useful, but I thought it would take MUCH more than 150 lines of code... this is just stupid simple, and it SHOULD be shared. Check out my video wal...",
+      "published": "2026-02-16T02:15:53+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -279,11 +181,11 @@
       }
     },
     {
-      "title": "EU bans the destruction of unsold apparel, clothing, accessories and footwear",
-      "link": "https://environment.ec.europa.eu/news/new-eu-rules-stop-destruction-unsold-clothes-and-shoes-2026-02-09_en",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47025378\">Comments</a>...",
-      "published": "2026-02-15T17:10:18+00:00",
-      "domain": "environment.ec.europa.eu",
+      "title": "Show HN: Ls-f a fast, zero-dependency ls with Nerd Font icons (Rust rewrite)",
+      "link": "https://github.com/swadhinbiswas/ls-f",
+      "summary": "<p>Hey HN People,\nLike many of you on Arch + Hyprland (or really any rolling distro), I used to rely on eza for nice-looking ls output with icons, git status, tree view, etc.<p>Then a recent update br...",
+      "published": "2026-02-16T02:15:22+00:00",
+      "domain": "github.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -295,11 +197,11 @@
       }
     },
     {
-      "title": "Hideki Sato, designer of all Sega's consoles, has died",
-      "link": "https://www.videogameschronicle.com/news/hideki-sato-designer-of-segas-consoles-dies-age-75/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47024907\">Comments</a>...",
-      "published": "2026-02-15T16:19:51+00:00",
-      "domain": "videogameschronicle.com",
+      "title": "I manage my Guix System configs",
+      "link": "https://www.terracrypt.net/posts/guix-config.html",
+      "summary": "<p>Article URL: <a href=\"https://www.terracrypt.net/posts/guix-config.html\">https://www.terracrypt.net/posts/guix-config.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=470...",
+      "published": "2026-02-16T02:14:38+00:00",
+      "domain": "terracrypt.net",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -311,11 +213,109 @@
       }
     },
     {
-      "title": "Gwtar: A static efficient single-file HTML format",
-      "link": "https://gwern.net/gwtar",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47024506\">Comments</a>...",
-      "published": "2026-02-15T15:37:06+00:00",
-      "domain": "gwern.net",
+      "title": "Test my live Tempest AI Metrics Dashboard on the web",
+      "link": "http://davepl.dyns.org:8765/",
+      "summary": "<p>Article URL: <a href=\"http://davepl.dyns.org:8765/\">http://davepl.dyns.org:8765/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47030124\">https://news.ycombinator.com/item?i...",
+      "published": "2026-02-16T02:13:32+00:00",
+      "domain": "davepl.dyns.org:8765",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: MultiWA - Open-source self-hosted WhatsApp API Gateway",
+      "link": "https://github.com/ribato22/MultiWA",
+      "summary": "<p>Article URL: <a href=\"https://github.com/ribato22/MultiWA\">https://github.com/ribato22/MultiWA</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47030121\">https://news.ycombina...",
+      "published": "2026-02-16T02:13:06+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Pink noise reduces REM sleep and may harm sleep quality",
+      "link": "https://www.pennmedicine.org/news/pink-noise-reduces-rem-sleep-and-may-harm-sleep-quality",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47029397\">Comments</a>...",
+      "published": "2026-02-16T00:35:12+00:00",
+      "domain": "pennmedicine.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Error payloads in Zig",
+      "link": "https://srcreigh.ca/posts/error-payloads-in-zig/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47028705\">Comments</a>...",
+      "published": "2026-02-15T23:08:43+00:00",
+      "domain": "srcreigh.ca",
+      "scores": {
+        "chaos": 31.0,
+        "anarchy": 3.0,
+        "overall": 17.0
+      },
+      "keywords": {
+        "chaos": [
+          "error"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Magnus Carlsen Wins the Freestyle (Chess960) World Championship",
+      "link": "https://www.fide.com/magnus-carlsen-wins-2026-fide-freestyle-world-championship/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47028227\">Comments</a>...",
+      "published": "2026-02-15T22:17:10+00:00",
+      "domain": "fide.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "A Stock Market Doom Loop Is Hitting Everything That Touches AI",
+      "link": "https://www.reddit.com/r/technology/comments/1r5rfit/a_stock_market_doom_loop_is_hitting_everything/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1r5rfit/a_stock_market_doom_loop_is_hitting_everything/\"> <img alt=\"A Stock Market Doom Loop Is Hitting Everything That Touches A...",
+      "published": "2026-02-15T22:01:00+00:00",
+      "domain": "reddit.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "I\u2019m joining OpenAI",
+      "link": "https://steipete.me/posts/2026/openclaw",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47028013\">Comments</a>...",
+      "published": "2026-02-15T21:54:15+00:00",
+      "domain": "steipete.me",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -329,108 +329,28 @@
   ],
   "overall_ranked": [
     {
-      "title": "Towards Autonomous Mathematics Research",
-      "link": "https://arxiv.org/abs/2602.10177",
-      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2602.10177\">https://arxiv.org/abs/2602.10177</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47026134\">https://news.ycombinator.co...",
-      "published": "2026-02-15T18:35:40+00:00",
-      "domain": "arxiv.org",
+      "title": "Error payloads in Zig",
+      "link": "https://srcreigh.ca/posts/error-payloads-in-zig/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47028705\">Comments</a>...",
+      "published": "2026-02-15T23:08:43+00:00",
+      "domain": "srcreigh.ca",
       "scores": {
-        "chaos": 3.0,
-        "anarchy": 13.8,
-        "overall": 8.4
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": [
-          "autonomous"
-        ]
-      }
-    },
-    {
-      "title": "Microsoft Discloses DNS-Based ClickFix Attack Using Nslookup for Malware Staging",
-      "link": "https://thehackernews.com/2026/02/microsoft-discloses-dns-based-clickfix.html",
-      "summary": "Microsoft has disclosed details of a new version of the ClickFix social engineering tactic in which the attackers trick unsuspecting users into running commands that carry out a Domain Name System (DN...",
-      "published": "2026-02-15T19:40:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
+        "chaos": 31.0,
         "anarchy": 3.0,
-        "overall": 3.0
+        "overall": 17.0
       },
       "keywords": {
-        "chaos": [],
+        "chaos": [
+          "error"
+        ],
         "anarchy": []
       }
     },
     {
-      "title": "Animals can give blood too",
-      "link": "https://www.blood.co.uk/news-and-campaigns/the-donor/animals-can-give-blood-too/",
-      "summary": "<p>Article URL: <a href=\"https://www.blood.co.uk/news-and-campaigns/the-donor/animals-can-give-blood-too/\">https://www.blood.co.uk/news-and-campaigns/the-donor/animals-can-give-blood-too/</a></p>\n<p>C...",
-      "published": "2026-02-15T18:35:24+00:00",
-      "domain": "blood.co.uk",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "America's Future Leaders Are Learning to Become Grifters",
-      "link": "https://www.robkhenderson.com/p/americas-future-leaders-are-learning",
-      "summary": "<p>Article URL: <a href=\"https://www.robkhenderson.com/p/americas-future-leaders-are-learning\">https://www.robkhenderson.com/p/americas-future-leaders-are-learning</a></p>\n<p>Comments URL: <a href=\"ht...",
-      "published": "2026-02-15T18:33:13+00:00",
-      "domain": "robkhenderson.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Why no one should use the AT&T syntax",
-      "link": "https://web.archive.org/web/20210213094152/https://elronnd.net/writ/2021-02-13_att-asm.html",
-      "summary": "<p>Article URL: <a href=\"https://web.archive.org/web/20210213094152/https://elronnd.net/writ/2021-02-13_att-asm.html\">https://web.archive.org/web/20210213094152/https://elronnd.net/writ/2021-02-13_att...",
-      "published": "2026-02-15T18:32:36+00:00",
-      "domain": "web.archive.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Don't Add AI to Your App \u2013 Add Your App to AI",
-      "link": "https://maalla.dev/posts/dont-add-ai-to-your-app/",
-      "summary": "<p>Article URL: <a href=\"https://maalla.dev/posts/dont-add-ai-to-your-app/\">https://maalla.dev/posts/dont-add-ai-to-your-app/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=470...",
-      "published": "2026-02-15T18:31:32+00:00",
-      "domain": "maalla.dev",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "LT6502: A 6502-based homebrew laptop",
-      "link": "https://github.com/TechPaula/LT6502",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47025399\">Comments</a>...",
-      "published": "2026-02-15T17:12:35+00:00",
+      "title": "Show HN: Talk2Code \u2013 Text your codebase from your phone (~150 lines of Python)",
+      "link": "https://github.com/dchisholm125/Talk2Code",
+      "summary": "<p>Talk2Code was my endeavor into building something useful, but I thought it would take MUCH more than 150 lines of code... this is just stupid simple, and it SHOULD be shared. Check out my video wal...",
+      "published": "2026-02-16T02:15:53+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -443,11 +363,11 @@
       }
     },
     {
-      "title": "EU bans the destruction of unsold apparel, clothing, accessories and footwear",
-      "link": "https://environment.ec.europa.eu/news/new-eu-rules-stop-destruction-unsold-clothes-and-shoes-2026-02-09_en",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47025378\">Comments</a>...",
-      "published": "2026-02-15T17:10:18+00:00",
-      "domain": "environment.ec.europa.eu",
+      "title": "Show HN: Ls-f a fast, zero-dependency ls with Nerd Font icons (Rust rewrite)",
+      "link": "https://github.com/swadhinbiswas/ls-f",
+      "summary": "<p>Hey HN People,\nLike many of you on Arch + Hyprland (or really any rolling distro), I used to rely on eza for nice-looking ls output with icons, git status, tree view, etc.<p>Then a recent update br...",
+      "published": "2026-02-16T02:15:22+00:00",
+      "domain": "github.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -459,11 +379,11 @@
       }
     },
     {
-      "title": "Hideki Sato, designer of all Sega's consoles, has died",
-      "link": "https://www.videogameschronicle.com/news/hideki-sato-designer-of-segas-consoles-dies-age-75/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47024907\">Comments</a>...",
-      "published": "2026-02-15T16:19:51+00:00",
-      "domain": "videogameschronicle.com",
+      "title": "I manage my Guix System configs",
+      "link": "https://www.terracrypt.net/posts/guix-config.html",
+      "summary": "<p>Article URL: <a href=\"https://www.terracrypt.net/posts/guix-config.html\">https://www.terracrypt.net/posts/guix-config.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=470...",
+      "published": "2026-02-16T02:14:38+00:00",
+      "domain": "terracrypt.net",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -475,11 +395,91 @@
       }
     },
     {
-      "title": "Gwtar: A static efficient single-file HTML format",
-      "link": "https://gwern.net/gwtar",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47024506\">Comments</a>...",
-      "published": "2026-02-15T15:37:06+00:00",
-      "domain": "gwern.net",
+      "title": "Test my live Tempest AI Metrics Dashboard on the web",
+      "link": "http://davepl.dyns.org:8765/",
+      "summary": "<p>Article URL: <a href=\"http://davepl.dyns.org:8765/\">http://davepl.dyns.org:8765/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47030124\">https://news.ycombinator.com/item?i...",
+      "published": "2026-02-16T02:13:32+00:00",
+      "domain": "davepl.dyns.org:8765",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: MultiWA - Open-source self-hosted WhatsApp API Gateway",
+      "link": "https://github.com/ribato22/MultiWA",
+      "summary": "<p>Article URL: <a href=\"https://github.com/ribato22/MultiWA\">https://github.com/ribato22/MultiWA</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47030121\">https://news.ycombina...",
+      "published": "2026-02-16T02:13:06+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Pink noise reduces REM sleep and may harm sleep quality",
+      "link": "https://www.pennmedicine.org/news/pink-noise-reduces-rem-sleep-and-may-harm-sleep-quality",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47029397\">Comments</a>...",
+      "published": "2026-02-16T00:35:12+00:00",
+      "domain": "pennmedicine.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Magnus Carlsen Wins the Freestyle (Chess960) World Championship",
+      "link": "https://www.fide.com/magnus-carlsen-wins-2026-fide-freestyle-world-championship/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47028227\">Comments</a>...",
+      "published": "2026-02-15T22:17:10+00:00",
+      "domain": "fide.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "A Stock Market Doom Loop Is Hitting Everything That Touches AI",
+      "link": "https://www.reddit.com/r/technology/comments/1r5rfit/a_stock_market_doom_loop_is_hitting_everything/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1r5rfit/a_stock_market_doom_loop_is_hitting_everything/\"> <img alt=\"A Stock Market Doom Loop Is Hitting Everything That Touches A...",
+      "published": "2026-02-15T22:01:00+00:00",
+      "domain": "reddit.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "I\u2019m joining OpenAI",
+      "link": "https://steipete.me/posts/2026/openclaw",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47028013\">Comments</a>...",
+      "published": "2026-02-15T21:54:15+00:00",
+      "domain": "steipete.me",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -493,108 +493,10 @@
   ],
   "all_articles": [
     {
-      "title": "Microsoft Discloses DNS-Based ClickFix Attack Using Nslookup for Malware Staging",
-      "link": "https://thehackernews.com/2026/02/microsoft-discloses-dns-based-clickfix.html",
-      "summary": "Microsoft has disclosed details of a new version of the ClickFix social engineering tactic in which the attackers trick unsuspecting users into running commands that carry out a Domain Name System (DN...",
-      "published": "2026-02-15T19:40:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Towards Autonomous Mathematics Research",
-      "link": "https://arxiv.org/abs/2602.10177",
-      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2602.10177\">https://arxiv.org/abs/2602.10177</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47026134\">https://news.ycombinator.co...",
-      "published": "2026-02-15T18:35:40+00:00",
-      "domain": "arxiv.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 13.8,
-        "overall": 8.4
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": [
-          "autonomous"
-        ]
-      }
-    },
-    {
-      "title": "Animals can give blood too",
-      "link": "https://www.blood.co.uk/news-and-campaigns/the-donor/animals-can-give-blood-too/",
-      "summary": "<p>Article URL: <a href=\"https://www.blood.co.uk/news-and-campaigns/the-donor/animals-can-give-blood-too/\">https://www.blood.co.uk/news-and-campaigns/the-donor/animals-can-give-blood-too/</a></p>\n<p>C...",
-      "published": "2026-02-15T18:35:24+00:00",
-      "domain": "blood.co.uk",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "America's Future Leaders Are Learning to Become Grifters",
-      "link": "https://www.robkhenderson.com/p/americas-future-leaders-are-learning",
-      "summary": "<p>Article URL: <a href=\"https://www.robkhenderson.com/p/americas-future-leaders-are-learning\">https://www.robkhenderson.com/p/americas-future-leaders-are-learning</a></p>\n<p>Comments URL: <a href=\"ht...",
-      "published": "2026-02-15T18:33:13+00:00",
-      "domain": "robkhenderson.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Why no one should use the AT&T syntax",
-      "link": "https://web.archive.org/web/20210213094152/https://elronnd.net/writ/2021-02-13_att-asm.html",
-      "summary": "<p>Article URL: <a href=\"https://web.archive.org/web/20210213094152/https://elronnd.net/writ/2021-02-13_att-asm.html\">https://web.archive.org/web/20210213094152/https://elronnd.net/writ/2021-02-13_att...",
-      "published": "2026-02-15T18:32:36+00:00",
-      "domain": "web.archive.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Don't Add AI to Your App \u2013 Add Your App to AI",
-      "link": "https://maalla.dev/posts/dont-add-ai-to-your-app/",
-      "summary": "<p>Article URL: <a href=\"https://maalla.dev/posts/dont-add-ai-to-your-app/\">https://maalla.dev/posts/dont-add-ai-to-your-app/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=470...",
-      "published": "2026-02-15T18:31:32+00:00",
-      "domain": "maalla.dev",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "LT6502: A 6502-based homebrew laptop",
-      "link": "https://github.com/TechPaula/LT6502",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47025399\">Comments</a>...",
-      "published": "2026-02-15T17:12:35+00:00",
+      "title": "Show HN: Talk2Code \u2013 Text your codebase from your phone (~150 lines of Python)",
+      "link": "https://github.com/dchisholm125/Talk2Code",
+      "summary": "<p>Talk2Code was my endeavor into building something useful, but I thought it would take MUCH more than 150 lines of code... this is just stupid simple, and it SHOULD be shared. Check out my video wal...",
+      "published": "2026-02-16T02:15:53+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -607,11 +509,11 @@
       }
     },
     {
-      "title": "EU bans the destruction of unsold apparel, clothing, accessories and footwear",
-      "link": "https://environment.ec.europa.eu/news/new-eu-rules-stop-destruction-unsold-clothes-and-shoes-2026-02-09_en",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47025378\">Comments</a>...",
-      "published": "2026-02-15T17:10:18+00:00",
-      "domain": "environment.ec.europa.eu",
+      "title": "Show HN: Ls-f a fast, zero-dependency ls with Nerd Font icons (Rust rewrite)",
+      "link": "https://github.com/swadhinbiswas/ls-f",
+      "summary": "<p>Hey HN People,\nLike many of you on Arch + Hyprland (or really any rolling distro), I used to rely on eza for nice-looking ls output with icons, git status, tree view, etc.<p>Then a recent update br...",
+      "published": "2026-02-16T02:15:22+00:00",
+      "domain": "github.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -623,11 +525,11 @@
       }
     },
     {
-      "title": "Hideki Sato, designer of all Sega's consoles, has died",
-      "link": "https://www.videogameschronicle.com/news/hideki-sato-designer-of-segas-consoles-dies-age-75/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47024907\">Comments</a>...",
-      "published": "2026-02-15T16:19:51+00:00",
-      "domain": "videogameschronicle.com",
+      "title": "I manage my Guix System configs",
+      "link": "https://www.terracrypt.net/posts/guix-config.html",
+      "summary": "<p>Article URL: <a href=\"https://www.terracrypt.net/posts/guix-config.html\">https://www.terracrypt.net/posts/guix-config.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=470...",
+      "published": "2026-02-16T02:14:38+00:00",
+      "domain": "terracrypt.net",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -639,11 +541,109 @@
       }
     },
     {
-      "title": "Gwtar: A static efficient single-file HTML format",
-      "link": "https://gwern.net/gwtar",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47024506\">Comments</a>...",
-      "published": "2026-02-15T15:37:06+00:00",
-      "domain": "gwern.net",
+      "title": "Test my live Tempest AI Metrics Dashboard on the web",
+      "link": "http://davepl.dyns.org:8765/",
+      "summary": "<p>Article URL: <a href=\"http://davepl.dyns.org:8765/\">http://davepl.dyns.org:8765/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47030124\">https://news.ycombinator.com/item?i...",
+      "published": "2026-02-16T02:13:32+00:00",
+      "domain": "davepl.dyns.org:8765",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: MultiWA - Open-source self-hosted WhatsApp API Gateway",
+      "link": "https://github.com/ribato22/MultiWA",
+      "summary": "<p>Article URL: <a href=\"https://github.com/ribato22/MultiWA\">https://github.com/ribato22/MultiWA</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47030121\">https://news.ycombina...",
+      "published": "2026-02-16T02:13:06+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Pink noise reduces REM sleep and may harm sleep quality",
+      "link": "https://www.pennmedicine.org/news/pink-noise-reduces-rem-sleep-and-may-harm-sleep-quality",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47029397\">Comments</a>...",
+      "published": "2026-02-16T00:35:12+00:00",
+      "domain": "pennmedicine.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Error payloads in Zig",
+      "link": "https://srcreigh.ca/posts/error-payloads-in-zig/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47028705\">Comments</a>...",
+      "published": "2026-02-15T23:08:43+00:00",
+      "domain": "srcreigh.ca",
+      "scores": {
+        "chaos": 31.0,
+        "anarchy": 3.0,
+        "overall": 17.0
+      },
+      "keywords": {
+        "chaos": [
+          "error"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Magnus Carlsen Wins the Freestyle (Chess960) World Championship",
+      "link": "https://www.fide.com/magnus-carlsen-wins-2026-fide-freestyle-world-championship/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47028227\">Comments</a>...",
+      "published": "2026-02-15T22:17:10+00:00",
+      "domain": "fide.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "A Stock Market Doom Loop Is Hitting Everything That Touches AI",
+      "link": "https://www.reddit.com/r/technology/comments/1r5rfit/a_stock_market_doom_loop_is_hitting_everything/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1r5rfit/a_stock_market_doom_loop_is_hitting_everything/\"> <img alt=\"A Stock Market Doom Loop Is Hitting Everything That Touches A...",
+      "published": "2026-02-15T22:01:00+00:00",
+      "domain": "reddit.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "I\u2019m joining OpenAI",
+      "link": "https://steipete.me/posts/2026/openclaw",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47028013\">Comments</a>...",
+      "published": "2026-02-15T21:54:15+00:00",
+      "domain": "steipete.me",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
