@@ -16,17 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Fixapl
-- **Published**: February 17, 2026
-- **Summary**: https://fixapl.netlify.app/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47042820">https://news.ycombinator.com/item?id=......
-- [Read more](https://fixapl.netlify.app/)
+### Many consumer electronics manufacturers 'will go bankrupt or exit product lines' by the end of 2026 due to the AI memory crisis, Phison CEO reportedly says
+- **Published**: February 16, 2026
+- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1r6pjms/many_consumer_electronics_manufacturers_will_go/"> <img alt="Many consumer electron...
+- **Keywords**: crisis
+- [Read more](https://www.reddit.com/r/technology/comments/1r6pjms/many_consumer_electronics_manufacturers_will_go/)
 
-### Show HN: Constrained DSL for Reliable LLM Decisions
+### How the men in the Epstein files defeated MeToo
 - **Published**: February 17, 2026
-- **Summary**: <p>Hi HN,
-Personal notes on a constrained DSL to make LLMs generate reliable decision logic for quant (no arbitrary Python, no hallucinations). Schema...
-- [Read more](https://github.com/myinvestpilot/ai-architecture/blob/main/docs/01_ai_native_primitives_engine.md)
+- **Summary**: https://www.theverge.com/tech/874721/epstein-thiel-musk-trump-metoo</a></p>
+<p>Comments URL: <a href="http......
+- [Read more](https://www.theverge.com/tech/874721/epstein-thiel-musk-trump-metoo)
 
 ---
 
