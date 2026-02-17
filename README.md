@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Many consumer electronics manufacturers 'will go bankrupt or exit product lines' by the end of 2026 due to the AI memory crisis, Phison CEO reportedly says
-- **Published**: February 16, 2026
-- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1r6pjms/many_consumer_electronics_manufacturers_will_go/"> <img alt="Many consumer electron...
-- **Keywords**: crisis
-- [Read more](https://www.reddit.com/r/technology/comments/1r6pjms/many_consumer_electronics_manufacturers_will_go/)
-
-### How the men in the Epstein files defeated MeToo
+### Webinar: How Modern SOC Teams Use AI and Context to Investigate Cloud Breaches Faster
 - **Published**: February 17, 2026
-- **Summary**: https://www.theverge.com/tech/874721/epstein-thiel-musk-trump-metoo</a></p>
-<p>Comments URL: <a href="http......
-- [Read more](https://www.theverge.com/tech/874721/epstein-thiel-musk-trump-metoo)
+- **Summary**: Cloud attacks move fast — faster than most incident response teams.
+In data centers, investigations had time. Teams could collect disk images, review ...
+- [Read more](https://thehackernews.com/2026/02/cloud-forensics-webinar-learn-how-ai.html)
+
+### My Day Getting My Hands Dirty with an NDR System
+- **Published**: February 17, 2026
+- **Summary**: My objectiveThe role of NDR in SOC workflowsStarting up the NDR systemHow AI complements the human responseWhat else did I try out?What could I see wi...
+- [Read more](https://thehackernews.com/2026/02/my-day-getting-my-hands-dirty-with-ndr.html)
 
 ---
 
