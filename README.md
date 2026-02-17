@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Webinar: How Modern SOC Teams Use AI and Context to Investigate Cloud Breaches Faster
+### Researchers Show Copilot and Grok Can Be Abused as Malware C2 Proxies
 - **Published**: February 17, 2026
-- **Summary**: Cloud attacks move fast — faster than most incident response teams.
-In data centers, investigations had time. Teams could collect disk images, review ...
-- [Read more](https://thehackernews.com/2026/02/cloud-forensics-webinar-learn-how-ai.html)
+- **Summary**: Cybersecurity researchers have disclosed that artificial intelligence (AI) assistants that support web browsing or URL fetching capabilities can be tu...
+- [Read more](https://thehackernews.com/2026/02/researchers-show-copilot-and-grok-can.html)
 
-### My Day Getting My Hands Dirty with an NDR System
+### Keenadu Firmware Backdoor Infects Android Tablets via Signed OTA Updates
 - **Published**: February 17, 2026
-- **Summary**: My objectiveThe role of NDR in SOC workflowsStarting up the NDR systemHow AI complements the human responseWhat else did I try out?What could I see wi...
-- [Read more](https://thehackernews.com/2026/02/my-day-getting-my-hands-dirty-with-ndr.html)
+- **Summary**: A new Android backdoor that's embedded deep into the device firmware can silently harvest data and remotely control its behavior, according to new fin...
+- [Read more](https://thehackernews.com/2026/02/keenadu-firmware-backdoor-infects.html)
 
 ---
 
