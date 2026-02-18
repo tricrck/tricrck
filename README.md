@@ -16,15 +16,18 @@
 
 ## 🚨 Tech Stories
 
-### Researchers Show Copilot and Grok Can Be Abused as Malware C2 Proxies
-- **Published**: February 17, 2026
-- **Summary**: Cybersecurity researchers have disclosed that artificial intelligence (AI) assistants that support web browsing or URL fetching capabilities can be tu...
-- [Read more](https://thehackernews.com/2026/02/researchers-show-copilot-and-grok-can.html)
+### 6502 Emulation – The Jump Indirect Bug
+- **Published**: February 18, 2026
+- **Summary**: https://markjames.dev/blog/6502-jump-indirect-bug</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=470......
+- **Keywords**: bug, bug, bug
+- [Read more](https://markjames.dev/blog/6502-jump-indirect-bug)
 
-### Keenadu Firmware Backdoor Infects Android Tablets via Signed OTA Updates
-- **Published**: February 17, 2026
-- **Summary**: A new Android backdoor that's embedded deep into the device firmware can silently harvest data and remotely control its behavior, according to new fin...
-- [Read more](https://thehackernews.com/2026/02/keenadu-firmware-backdoor-infects.html)
+### I Built AI Live-Streamers
+- **Published**: February 18, 2026
+- **Summary**: https://mixio.ai</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47056303">https://news.ycombinator.com/item?id=47056303</a></p...
+- [Read more](https://mixio.ai)
 
 ---
 
