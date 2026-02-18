@@ -16,18 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### 6502 Emulation – The Jump Indirect Bug
+### How asbestos poisoned almost the entire planet [video]
 - **Published**: February 18, 2026
-- **Summary**: https://markjames.dev/blog/6502-jump-indirect-bug</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=470......
-- **Keywords**: bug, bug, bug
-- [Read more](https://markjames.dev/blog/6502-jump-indirect-bug)
+- **Summary**: https://www.youtube.com/watch?v=cMx139eTxoc</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47058076">https......
+- [Read more](https://www.youtube.com/watch?v=cMx139eTxoc)
 
-### I Built AI Live-Streamers
+### Show HN:From One Prompt or URL to Posts Across 6 Platforms, Vibe Does It for You
 - **Published**: February 18, 2026
-- **Summary**: https://mixio.ai</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47056303">https://news.ycombinator.com/item?id=47056303</a></p...
-- [Read more](https://mixio.ai)
+- **Summary**: https://vibe.xpandrai.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47058049">https://news.ycombinator.com/item?id=47......
+- [Read more](https://vibe.xpandrai.com/)
 
 ---
 
