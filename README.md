@@ -16,17 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### macOS Tahoe 26.3 is Broken
+### Citizen Lab Finds Cellebrite Tool Used on Kenyan Activist’s Phone in Police Custody
 - **Published**: February 18, 2026
-- **Summary**: https://taoofmac.com/space/blog/2026/02/18/1230</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4706046......
-- **Keywords**: broken
-- [Read more](https://taoofmac.com/space/blog/2026/02/18/1230)
+- **Summary**: New research from the Citizen Lab has found signs that Kenyan authorities used a commercial forensic extraction tool manufactured by Israeli company C...
+- [Read more](https://thehackernews.com/2026/02/citizen-lab-finds-cellebrite-tool-used.html)
 
-### Dell RecoverPoint for VMs Zero-Day CVE-2026-22769 Exploited Since Mid-2024
+### Grandstream GXP1600 VoIP Phones Exposed to Unauthenticated Remote Code Execution
 - **Published**: February 18, 2026
-- **Summary**: A maximum severity security vulnerability in Dell RecoverPoint for Virtual Machines has been exploited as a zero-day by a suspected China-nexus threat...
-- [Read more](https://thehackernews.com/2026/02/dell-recoverpoint-for-vms-zero-day-cve.html)
+- **Summary**: Cybersecurity researchers have disclosed a critical security flaw in the Grandstream GXP1600 series of VoIP phones that could allow an attacker to sei...
+- [Read more](https://thehackernews.com/2026/02/grandstream-gxp1600-voip-phones-exposed.html)
 
 ---
 
