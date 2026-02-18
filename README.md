@@ -16,17 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### How asbestos poisoned almost the entire planet [video]
+### macOS Tahoe 26.3 is Broken
 - **Published**: February 18, 2026
-- **Summary**: https://www.youtube.com/watch?v=cMx139eTxoc</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47058076">https......
-- [Read more](https://www.youtube.com/watch?v=cMx139eTxoc)
+- **Summary**: https://taoofmac.com/space/blog/2026/02/18/1230</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4706046......
+- **Keywords**: broken
+- [Read more](https://taoofmac.com/space/blog/2026/02/18/1230)
 
-### Show HN:From One Prompt or URL to Posts Across 6 Platforms, Vibe Does It for You
+### Dell RecoverPoint for VMs Zero-Day CVE-2026-22769 Exploited Since Mid-2024
 - **Published**: February 18, 2026
-- **Summary**: https://vibe.xpandrai.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47058049">https://news.ycombinator.com/item?id=47......
-- [Read more](https://vibe.xpandrai.com/)
+- **Summary**: A maximum severity security vulnerability in Dell RecoverPoint for Virtual Machines has been exploited as a zero-day by a suspected China-nexus threat...
+- [Read more](https://thehackernews.com/2026/02/dell-recoverpoint-for-vms-zero-day-cve.html)
 
 ---
 
