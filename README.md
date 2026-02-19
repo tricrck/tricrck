@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### CRESCENTHARVEST Campaign Targets Iran Protest Supporters With RAT Malware
+### PromptSpy Android Malware Abuses Gemini AI to Automate Recent-Apps Persistence
 - **Published**: February 19, 2026
-- **Summary**: Cybersecurity researchers have disclosed details of a new campaign dubbed CRESCENTHARVEST, likely targeting supporters of Iran's ongoing protests to c...
-- **Keywords**: protest
-- [Read more](https://thehackernews.com/2026/02/crescentharvest-campaign-targets-iran.html)
+- **Summary**: Cybersecurity researchers have discovered what they say is the first Android malware that abuses Gemini, Google's generative artificial intelligence (...
+- [Read more](https://thehackernews.com/2026/02/promptspy-android-malware-abuses-google.html)
 
-### From Exposure to Exploitation: How AI Collapses Your Response Window
+### INTERPOL Operation Red Card 2.0 Arrests 651 in African Cybercrime Crackdown
 - **Published**: February 19, 2026
-- **Summary**: We’ve all seen this before: a developer deploys a new cloud workload and grants overly broad permissions just to keep the sprint moving. An engineer g...
-- [Read more](https://thehackernews.com/2026/02/from-exposure-to-exploitation-how-ai.html)
+- **Summary**: An international cybercrime operation against online scams has led to 651 arrests and recovered more than $4.3 million as part of an effort led by law...
+- [Read more](https://thehackernews.com/2026/02/interpol-operation-red-card-20-arrests.html)
 
 ---
 
