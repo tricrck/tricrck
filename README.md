@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Sizing chaos
-- **Published**: February 18, 2026
-- **Summary**: ......
-- **Keywords**: chaos
-- [Read more](https://pudding.cool/2026/02/womens-sizing/)
-
-### OpenForgeAI – Production agentic architecture I used to build a SaaS alone
+### Mark Zuckerberg overruled 18 wellbeing experts to keep beauty filters on Insta
 - **Published**: February 19, 2026
-- **Summary**: <p>I've been building a production SaaS (AI-native nurturing platform) as a solo engineer for the past year. No team, no funding — 14 AI agent skills ...
-- [Read more](https://news.ycombinator.com/item?id=47069079)
+- **Summary**: https://www.ft.com/content/0c6d8ff6-f207-431b-bfb9-1d8b42bb4b6d</a></p>
+<p>Comments URL: <a href="https://news......
+- [Read more](https://www.ft.com/content/0c6d8ff6-f207-431b-bfb9-1d8b42bb4b6d)
+
+### Ask HN: How much are you spending on OpenClaw API calls?
+- **Published**: February 19, 2026
+- **Summary**: <p>OpenClaw seems to be very popular. I am sure a lot of HN users are running it right now. But it is entirely dependent on API calls. How much are yo...
+- [Read more](https://news.ycombinator.com/item?id=47070733)
 
 ---
 
