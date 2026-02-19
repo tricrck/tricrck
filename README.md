@@ -16,15 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Citizen Lab Finds Cellebrite Tool Used on Kenyan Activist’s Phone in Police Custody
+### Sizing chaos
 - **Published**: February 18, 2026
-- **Summary**: New research from the Citizen Lab has found signs that Kenyan authorities used a commercial forensic extraction tool manufactured by Israeli company C...
-- [Read more](https://thehackernews.com/2026/02/citizen-lab-finds-cellebrite-tool-used.html)
+- **Summary**: ......
+- **Keywords**: chaos
+- [Read more](https://pudding.cool/2026/02/womens-sizing/)
 
-### Grandstream GXP1600 VoIP Phones Exposed to Unauthenticated Remote Code Execution
-- **Published**: February 18, 2026
-- **Summary**: Cybersecurity researchers have disclosed a critical security flaw in the Grandstream GXP1600 series of VoIP phones that could allow an attacker to sei...
-- [Read more](https://thehackernews.com/2026/02/grandstream-gxp1600-voip-phones-exposed.html)
+### OpenForgeAI – Production agentic architecture I used to build a SaaS alone
+- **Published**: February 19, 2026
+- **Summary**: <p>I've been building a production SaaS (AI-native nurturing platform) as a solo engineer for the past year. No team, no funding — 14 AI agent skills ...
+- [Read more](https://news.ycombinator.com/item?id=47069079)
 
 ---
 
