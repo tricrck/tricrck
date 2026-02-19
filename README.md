@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Mark Zuckerberg overruled 18 wellbeing experts to keep beauty filters on Insta
+### CRESCENTHARVEST Campaign Targets Iran Protest Supporters With RAT Malware
 - **Published**: February 19, 2026
-- **Summary**: https://www.ft.com/content/0c6d8ff6-f207-431b-bfb9-1d8b42bb4b6d</a></p>
-<p>Comments URL: <a href="https://news......
-- [Read more](https://www.ft.com/content/0c6d8ff6-f207-431b-bfb9-1d8b42bb4b6d)
+- **Summary**: Cybersecurity researchers have disclosed details of a new campaign dubbed CRESCENTHARVEST, likely targeting supporters of Iran's ongoing protests to c...
+- **Keywords**: protest
+- [Read more](https://thehackernews.com/2026/02/crescentharvest-campaign-targets-iran.html)
 
-### Ask HN: How much are you spending on OpenClaw API calls?
+### From Exposure to Exploitation: How AI Collapses Your Response Window
 - **Published**: February 19, 2026
-- **Summary**: <p>OpenClaw seems to be very popular. I am sure a lot of HN users are running it right now. But it is entirely dependent on API calls. How much are yo...
-- [Read more](https://news.ycombinator.com/item?id=47070733)
+- **Summary**: We’ve all seen this before: a developer deploys a new cloud workload and grants overly broad permissions just to keep the sprint moving. An engineer g...
+- [Read more](https://thehackernews.com/2026/02/from-exposure-to-exploitation-how-ai.html)
 
 ---
 
