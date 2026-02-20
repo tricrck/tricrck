@@ -1,10 +1,10 @@
 {
   "chaos_ranked": [
     {
-      "title": "Identity Cyber Scores: The New Metric Shaping Cyber Insurance in 2026",
-      "link": "https://thehackernews.com/2026/02/identity-cyber-scores-new-metric.html",
-      "summary": "With one in three cyber-attacks now involving compromised employee accounts, insurers and regulators are placing far greater emphasis on identity posture when assessing cyber risk.&nbsp;\nFor many orga...",
-      "published": "2026-02-20T16:00:00+05:30",
+      "title": "BeyondTrust Flaw Used for Web Shells, Backdoors, and Data Exfiltration",
+      "link": "https://thehackernews.com/2026/02/beyondtrust-flaw-used-for-web-shells.html",
+      "summary": "Threat actors have been observed exploiting a recently disclosed critical security flaw impacting BeyondTrust Remote Support (RS) and Privileged Remote Access (PRA) products to conduct a wide range of...",
+      "published": "2026-02-20T21:15:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -17,27 +17,29 @@
       }
     },
     {
-      "title": "Ukrainian National Sentenced to 5 Years in North Korea IT Worker Fraud Case",
-      "link": "https://thehackernews.com/2026/02/ukrainian-national-sentenced-to-5-years.html",
-      "summary": "A 29-year-old Ukrainian national has been sentenced to five years in prison in the U.S. for his role in facilitating North Korea's fraudulent information technology (IT) worker scheme.\nIn November 202...",
-      "published": "2026-02-20T15:22:00+05:30",
+      "title": "Cline CLI 2.3.0 Supply Chain Attack Installed OpenClaw on Developer Systems",
+      "link": "https://thehackernews.com/2026/02/cline-cli-230-supply-chain-attack.html",
+      "summary": "In yet another software supply chain attack, the open-source, artificial intelligence (AI)-powered coding assistant Cline CLI was updated to stealthily install OpenClaw, a self-hosted autonomous AI ag...",
+      "published": "2026-02-20T19:50:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
+        "anarchy": 12.8,
+        "overall": 7.9
       },
       "keywords": {
         "chaos": [],
-        "anarchy": []
+        "anarchy": [
+          "autonomous"
+        ]
       }
     },
     {
-      "title": "FBI Reports 1,900 ATM Jackpotting Incidents Since 2020, $20M Lost in 2025",
-      "link": "https://thehackernews.com/2026/02/fbi-reports-1900-atm-jackpotting.html",
-      "summary": "The U.S. Federal Bureau of Investigation (FBI) has warned of an increase in ATM jackpotting incidents across the country, leading to losses of more than $20 million in 2025.\nThe agency said 1,900 ATM ...",
-      "published": "2026-02-20T13:35:00+05:30",
-      "domain": "thehackernews.com",
+      "title": "From Software Guilds to Software Factories",
+      "link": "https://wjgilmore.com/articles/goodbye-software-guilds-hello-software-factories",
+      "summary": "<p>Article URL: <a href=\"https://wjgilmore.com/articles/goodbye-software-guilds-hello-software-factories\">https://wjgilmore.com/articles/goodbye-software-guilds-hello-software-factories</a></p>\n<p>Com...",
+      "published": "2026-02-20T18:39:39+00:00",
+      "domain": "wjgilmore.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -49,11 +51,11 @@
       }
     },
     {
-      "title": "How to Organize Safely in the Age of Surveillance",
-      "link": "https://www.wired.com/story/how-to-organize-safely-in-the-age-of-surveillance/",
-      "summary": "<p>Article URL: <a href=\"https://www.wired.com/story/how-to-organize-safely-in-the-age-of-surveillance/\">https://www.wired.com/story/how-to-organize-safely-in-the-age-of-surveillance/</a></p>\n<p>Comme...",
-      "published": "2026-02-20T12:50:00+00:00",
-      "domain": "wired.com",
+      "title": "Five Memorable Books About Programming",
+      "link": "https://prog21.dadgum.com/19.html",
+      "summary": "<p>Article URL: <a href=\"https://prog21.dadgum.com/19.html\">https://prog21.dadgum.com/19.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47091936\">https://news.ycombinator....",
+      "published": "2026-02-20T18:39:09+00:00",
+      "domain": "prog21.dadgum.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -65,26 +67,10 @@
       }
     },
     {
-      "title": "My side project got banned from the internet",
-      "link": "https://trysound.io/how-my-side-project-got-banned-from-the-internet/",
-      "summary": "<p>Article URL: <a href=\"https://trysound.io/how-my-side-project-got-banned-from-the-internet/\">https://trysound.io/how-my-side-project-got-banned-from-the-internet/</a></p>\n<p>Comments URL: <a href=\"...",
-      "published": "2026-02-20T12:46:50+00:00",
-      "domain": "trysound.io",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: Remote-OpenCode \u2013 Control your AI coding assistant from Discord",
-      "link": "https://github.com/RoundTable02/remote-opencode",
-      "summary": "<p>Hi HN,<p>I built remote-opencode, a Discord bot that runs on your dev machine and lets you use your local OpenCode CLI from anywhere (phone/tablet/another laptop).\nIt streams output back into Disco...",
-      "published": "2026-02-20T12:45:20+00:00",
+      "title": "Warden",
+      "link": "https://github.com/getsentry/warden",
+      "summary": "<p>Article URL: <a href=\"https://github.com/getsentry/warden\">https://github.com/getsentry/warden</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47091927\">https://news.ycombina...",
+      "published": "2026-02-20T18:38:48+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -97,11 +83,11 @@
       }
     },
     {
-      "title": "The Market for Marriage",
-      "link": "https://worksinprogress.co/issue/marriage-customs-very-different-from-ours/",
-      "summary": "<p>Article URL: <a href=\"https://worksinprogress.co/issue/marriage-customs-very-different-from-ours/\">https://worksinprogress.co/issue/marriage-customs-very-different-from-ours/</a></p>\n<p>Comments UR...",
-      "published": "2026-02-20T12:44:42+00:00",
-      "domain": "worksinprogress.co",
+      "title": "Show HN: Together, multiplayer drawing chat room",
+      "link": "https://together.tldraw.com/",
+      "summary": "<p>Anonymous multiplayer drawing app (with all that entails) in a canvas that slowly scrolls everything off-screen. I made this back in 2023 but just got it hosted again, still fun! For a private expe...",
+      "published": "2026-02-20T18:37:35+00:00",
+      "domain": "together.tldraw.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -113,11 +99,11 @@
       }
     },
     {
-      "title": "Building an Elite AI Engineering Culture in 2026",
-      "link": "https://www.cjroth.com/blog/2026-02-18-building-an-elite-engineering-culture",
-      "summary": "<p>Article URL: <a href=\"https://www.cjroth.com/blog/2026-02-18-building-an-elite-engineering-culture\">https://www.cjroth.com/blog/2026-02-18-building-an-elite-engineering-culture</a></p>\n<p>Comments ...",
-      "published": "2026-02-20T12:43:31+00:00",
-      "domain": "cjroth.com",
+      "title": "ClawDuck",
+      "link": "https://www.clawduck.com/",
+      "summary": "<p>Article URL: <a href=\"https://www.clawduck.com/\">https://www.clawduck.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47091898\">https://news.ycombinator.com/item?id=4709...",
+      "published": "2026-02-20T18:37:29+00:00",
+      "domain": "clawduck.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -129,11 +115,11 @@
       }
     },
     {
-      "title": "Nvidia and OpenAI abandon unfinished $100B deal in favour of $30B investment",
-      "link": "https://www.ft.com/content/dea24046-0a73-40b2-8246-5ac7b7a54323",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47086980\">Comments</a>...",
-      "published": "2026-02-20T12:04:35+00:00",
-      "domain": "ft.com",
+      "title": "Keep Android Open",
+      "link": "https://f-droid.org/2026/02/20/twif.html",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47091419\">Comments</a>...",
+      "published": "2026-02-20T17:58:51+00:00",
+      "domain": "f-droid.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -145,11 +131,27 @@
       }
     },
     {
-      "title": "I used Claude Code and GSD to build the accessibility tool I've always wanted",
-      "link": "https://blakewatson.com/journal/i-used-claude-code-and-gsd-to-build-the-accessibility-tool-ive-always-wanted/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47086847\">Comments</a>...",
-      "published": "2026-02-20T11:50:48+00:00",
-      "domain": "blakewatson.com",
+      "title": "Lil' Fun Langs",
+      "link": "https://taylor.town/scrapscript-000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47091071\">Comments</a>...",
+      "published": "2026-02-20T17:34:12+00:00",
+      "domain": "taylor.town",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "ClickFix Campaign Abuses Compromised Sites to Deploy MIMICRAT Malware",
+      "link": "https://thehackernews.com/2026/02/clickfix-campaign-abuses-compromised.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new ClickFix campaign that abuses compromised legitimate sites to deliver a previously undocumented remote access trojan (RAT) called MIMICRAT (ak...",
+      "published": "2026-02-20T17:25:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -163,10 +165,28 @@
   ],
   "anarchy_ranked": [
     {
-      "title": "Identity Cyber Scores: The New Metric Shaping Cyber Insurance in 2026",
-      "link": "https://thehackernews.com/2026/02/identity-cyber-scores-new-metric.html",
-      "summary": "With one in three cyber-attacks now involving compromised employee accounts, insurers and regulators are placing far greater emphasis on identity posture when assessing cyber risk.&nbsp;\nFor many orga...",
-      "published": "2026-02-20T16:00:00+05:30",
+      "title": "Cline CLI 2.3.0 Supply Chain Attack Installed OpenClaw on Developer Systems",
+      "link": "https://thehackernews.com/2026/02/cline-cli-230-supply-chain-attack.html",
+      "summary": "In yet another software supply chain attack, the open-source, artificial intelligence (AI)-powered coding assistant Cline CLI was updated to stealthily install OpenClaw, a self-hosted autonomous AI ag...",
+      "published": "2026-02-20T19:50:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 12.8,
+        "overall": 7.9
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": [
+          "autonomous"
+        ]
+      }
+    },
+    {
+      "title": "BeyondTrust Flaw Used for Web Shells, Backdoors, and Data Exfiltration",
+      "link": "https://thehackernews.com/2026/02/beyondtrust-flaw-used-for-web-shells.html",
+      "summary": "Threat actors have been observed exploiting a recently disclosed critical security flaw impacting BeyondTrust Remote Support (RS) and Privileged Remote Access (PRA) products to conduct a wide range of...",
+      "published": "2026-02-20T21:15:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -179,11 +199,11 @@
       }
     },
     {
-      "title": "Ukrainian National Sentenced to 5 Years in North Korea IT Worker Fraud Case",
-      "link": "https://thehackernews.com/2026/02/ukrainian-national-sentenced-to-5-years.html",
-      "summary": "A 29-year-old Ukrainian national has been sentenced to five years in prison in the U.S. for his role in facilitating North Korea's fraudulent information technology (IT) worker scheme.\nIn November 202...",
-      "published": "2026-02-20T15:22:00+05:30",
-      "domain": "thehackernews.com",
+      "title": "From Software Guilds to Software Factories",
+      "link": "https://wjgilmore.com/articles/goodbye-software-guilds-hello-software-factories",
+      "summary": "<p>Article URL: <a href=\"https://wjgilmore.com/articles/goodbye-software-guilds-hello-software-factories\">https://wjgilmore.com/articles/goodbye-software-guilds-hello-software-factories</a></p>\n<p>Com...",
+      "published": "2026-02-20T18:39:39+00:00",
+      "domain": "wjgilmore.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -195,11 +215,11 @@
       }
     },
     {
-      "title": "FBI Reports 1,900 ATM Jackpotting Incidents Since 2020, $20M Lost in 2025",
-      "link": "https://thehackernews.com/2026/02/fbi-reports-1900-atm-jackpotting.html",
-      "summary": "The U.S. Federal Bureau of Investigation (FBI) has warned of an increase in ATM jackpotting incidents across the country, leading to losses of more than $20 million in 2025.\nThe agency said 1,900 ATM ...",
-      "published": "2026-02-20T13:35:00+05:30",
-      "domain": "thehackernews.com",
+      "title": "Five Memorable Books About Programming",
+      "link": "https://prog21.dadgum.com/19.html",
+      "summary": "<p>Article URL: <a href=\"https://prog21.dadgum.com/19.html\">https://prog21.dadgum.com/19.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47091936\">https://news.ycombinator....",
+      "published": "2026-02-20T18:39:09+00:00",
+      "domain": "prog21.dadgum.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -211,42 +231,10 @@
       }
     },
     {
-      "title": "How to Organize Safely in the Age of Surveillance",
-      "link": "https://www.wired.com/story/how-to-organize-safely-in-the-age-of-surveillance/",
-      "summary": "<p>Article URL: <a href=\"https://www.wired.com/story/how-to-organize-safely-in-the-age-of-surveillance/\">https://www.wired.com/story/how-to-organize-safely-in-the-age-of-surveillance/</a></p>\n<p>Comme...",
-      "published": "2026-02-20T12:50:00+00:00",
-      "domain": "wired.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "My side project got banned from the internet",
-      "link": "https://trysound.io/how-my-side-project-got-banned-from-the-internet/",
-      "summary": "<p>Article URL: <a href=\"https://trysound.io/how-my-side-project-got-banned-from-the-internet/\">https://trysound.io/how-my-side-project-got-banned-from-the-internet/</a></p>\n<p>Comments URL: <a href=\"...",
-      "published": "2026-02-20T12:46:50+00:00",
-      "domain": "trysound.io",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: Remote-OpenCode \u2013 Control your AI coding assistant from Discord",
-      "link": "https://github.com/RoundTable02/remote-opencode",
-      "summary": "<p>Hi HN,<p>I built remote-opencode, a Discord bot that runs on your dev machine and lets you use your local OpenCode CLI from anywhere (phone/tablet/another laptop).\nIt streams output back into Disco...",
-      "published": "2026-02-20T12:45:20+00:00",
+      "title": "Warden",
+      "link": "https://github.com/getsentry/warden",
+      "summary": "<p>Article URL: <a href=\"https://github.com/getsentry/warden\">https://github.com/getsentry/warden</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47091927\">https://news.ycombina...",
+      "published": "2026-02-20T18:38:48+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -259,11 +247,11 @@
       }
     },
     {
-      "title": "The Market for Marriage",
-      "link": "https://worksinprogress.co/issue/marriage-customs-very-different-from-ours/",
-      "summary": "<p>Article URL: <a href=\"https://worksinprogress.co/issue/marriage-customs-very-different-from-ours/\">https://worksinprogress.co/issue/marriage-customs-very-different-from-ours/</a></p>\n<p>Comments UR...",
-      "published": "2026-02-20T12:44:42+00:00",
-      "domain": "worksinprogress.co",
+      "title": "Show HN: Together, multiplayer drawing chat room",
+      "link": "https://together.tldraw.com/",
+      "summary": "<p>Anonymous multiplayer drawing app (with all that entails) in a canvas that slowly scrolls everything off-screen. I made this back in 2023 but just got it hosted again, still fun! For a private expe...",
+      "published": "2026-02-20T18:37:35+00:00",
+      "domain": "together.tldraw.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -275,11 +263,11 @@
       }
     },
     {
-      "title": "Building an Elite AI Engineering Culture in 2026",
-      "link": "https://www.cjroth.com/blog/2026-02-18-building-an-elite-engineering-culture",
-      "summary": "<p>Article URL: <a href=\"https://www.cjroth.com/blog/2026-02-18-building-an-elite-engineering-culture\">https://www.cjroth.com/blog/2026-02-18-building-an-elite-engineering-culture</a></p>\n<p>Comments ...",
-      "published": "2026-02-20T12:43:31+00:00",
-      "domain": "cjroth.com",
+      "title": "ClawDuck",
+      "link": "https://www.clawduck.com/",
+      "summary": "<p>Article URL: <a href=\"https://www.clawduck.com/\">https://www.clawduck.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47091898\">https://news.ycombinator.com/item?id=4709...",
+      "published": "2026-02-20T18:37:29+00:00",
+      "domain": "clawduck.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -291,11 +279,11 @@
       }
     },
     {
-      "title": "Nvidia and OpenAI abandon unfinished $100B deal in favour of $30B investment",
-      "link": "https://www.ft.com/content/dea24046-0a73-40b2-8246-5ac7b7a54323",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47086980\">Comments</a>...",
-      "published": "2026-02-20T12:04:35+00:00",
-      "domain": "ft.com",
+      "title": "Keep Android Open",
+      "link": "https://f-droid.org/2026/02/20/twif.html",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47091419\">Comments</a>...",
+      "published": "2026-02-20T17:58:51+00:00",
+      "domain": "f-droid.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -307,11 +295,27 @@
       }
     },
     {
-      "title": "I used Claude Code and GSD to build the accessibility tool I've always wanted",
-      "link": "https://blakewatson.com/journal/i-used-claude-code-and-gsd-to-build-the-accessibility-tool-ive-always-wanted/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47086847\">Comments</a>...",
-      "published": "2026-02-20T11:50:48+00:00",
-      "domain": "blakewatson.com",
+      "title": "Lil' Fun Langs",
+      "link": "https://taylor.town/scrapscript-000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47091071\">Comments</a>...",
+      "published": "2026-02-20T17:34:12+00:00",
+      "domain": "taylor.town",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "ClickFix Campaign Abuses Compromised Sites to Deploy MIMICRAT Malware",
+      "link": "https://thehackernews.com/2026/02/clickfix-campaign-abuses-compromised.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new ClickFix campaign that abuses compromised legitimate sites to deliver a previously undocumented remote access trojan (RAT) called MIMICRAT (ak...",
+      "published": "2026-02-20T17:25:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -325,10 +329,28 @@
   ],
   "overall_ranked": [
     {
-      "title": "Identity Cyber Scores: The New Metric Shaping Cyber Insurance in 2026",
-      "link": "https://thehackernews.com/2026/02/identity-cyber-scores-new-metric.html",
-      "summary": "With one in three cyber-attacks now involving compromised employee accounts, insurers and regulators are placing far greater emphasis on identity posture when assessing cyber risk.&nbsp;\nFor many orga...",
-      "published": "2026-02-20T16:00:00+05:30",
+      "title": "Cline CLI 2.3.0 Supply Chain Attack Installed OpenClaw on Developer Systems",
+      "link": "https://thehackernews.com/2026/02/cline-cli-230-supply-chain-attack.html",
+      "summary": "In yet another software supply chain attack, the open-source, artificial intelligence (AI)-powered coding assistant Cline CLI was updated to stealthily install OpenClaw, a self-hosted autonomous AI ag...",
+      "published": "2026-02-20T19:50:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 12.8,
+        "overall": 7.9
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": [
+          "autonomous"
+        ]
+      }
+    },
+    {
+      "title": "BeyondTrust Flaw Used for Web Shells, Backdoors, and Data Exfiltration",
+      "link": "https://thehackernews.com/2026/02/beyondtrust-flaw-used-for-web-shells.html",
+      "summary": "Threat actors have been observed exploiting a recently disclosed critical security flaw impacting BeyondTrust Remote Support (RS) and Privileged Remote Access (PRA) products to conduct a wide range of...",
+      "published": "2026-02-20T21:15:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -341,11 +363,11 @@
       }
     },
     {
-      "title": "Ukrainian National Sentenced to 5 Years in North Korea IT Worker Fraud Case",
-      "link": "https://thehackernews.com/2026/02/ukrainian-national-sentenced-to-5-years.html",
-      "summary": "A 29-year-old Ukrainian national has been sentenced to five years in prison in the U.S. for his role in facilitating North Korea's fraudulent information technology (IT) worker scheme.\nIn November 202...",
-      "published": "2026-02-20T15:22:00+05:30",
-      "domain": "thehackernews.com",
+      "title": "From Software Guilds to Software Factories",
+      "link": "https://wjgilmore.com/articles/goodbye-software-guilds-hello-software-factories",
+      "summary": "<p>Article URL: <a href=\"https://wjgilmore.com/articles/goodbye-software-guilds-hello-software-factories\">https://wjgilmore.com/articles/goodbye-software-guilds-hello-software-factories</a></p>\n<p>Com...",
+      "published": "2026-02-20T18:39:39+00:00",
+      "domain": "wjgilmore.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -357,11 +379,11 @@
       }
     },
     {
-      "title": "FBI Reports 1,900 ATM Jackpotting Incidents Since 2020, $20M Lost in 2025",
-      "link": "https://thehackernews.com/2026/02/fbi-reports-1900-atm-jackpotting.html",
-      "summary": "The U.S. Federal Bureau of Investigation (FBI) has warned of an increase in ATM jackpotting incidents across the country, leading to losses of more than $20 million in 2025.\nThe agency said 1,900 ATM ...",
-      "published": "2026-02-20T13:35:00+05:30",
-      "domain": "thehackernews.com",
+      "title": "Five Memorable Books About Programming",
+      "link": "https://prog21.dadgum.com/19.html",
+      "summary": "<p>Article URL: <a href=\"https://prog21.dadgum.com/19.html\">https://prog21.dadgum.com/19.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47091936\">https://news.ycombinator....",
+      "published": "2026-02-20T18:39:09+00:00",
+      "domain": "prog21.dadgum.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -373,42 +395,10 @@
       }
     },
     {
-      "title": "How to Organize Safely in the Age of Surveillance",
-      "link": "https://www.wired.com/story/how-to-organize-safely-in-the-age-of-surveillance/",
-      "summary": "<p>Article URL: <a href=\"https://www.wired.com/story/how-to-organize-safely-in-the-age-of-surveillance/\">https://www.wired.com/story/how-to-organize-safely-in-the-age-of-surveillance/</a></p>\n<p>Comme...",
-      "published": "2026-02-20T12:50:00+00:00",
-      "domain": "wired.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "My side project got banned from the internet",
-      "link": "https://trysound.io/how-my-side-project-got-banned-from-the-internet/",
-      "summary": "<p>Article URL: <a href=\"https://trysound.io/how-my-side-project-got-banned-from-the-internet/\">https://trysound.io/how-my-side-project-got-banned-from-the-internet/</a></p>\n<p>Comments URL: <a href=\"...",
-      "published": "2026-02-20T12:46:50+00:00",
-      "domain": "trysound.io",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: Remote-OpenCode \u2013 Control your AI coding assistant from Discord",
-      "link": "https://github.com/RoundTable02/remote-opencode",
-      "summary": "<p>Hi HN,<p>I built remote-opencode, a Discord bot that runs on your dev machine and lets you use your local OpenCode CLI from anywhere (phone/tablet/another laptop).\nIt streams output back into Disco...",
-      "published": "2026-02-20T12:45:20+00:00",
+      "title": "Warden",
+      "link": "https://github.com/getsentry/warden",
+      "summary": "<p>Article URL: <a href=\"https://github.com/getsentry/warden\">https://github.com/getsentry/warden</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47091927\">https://news.ycombina...",
+      "published": "2026-02-20T18:38:48+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -421,11 +411,11 @@
       }
     },
     {
-      "title": "The Market for Marriage",
-      "link": "https://worksinprogress.co/issue/marriage-customs-very-different-from-ours/",
-      "summary": "<p>Article URL: <a href=\"https://worksinprogress.co/issue/marriage-customs-very-different-from-ours/\">https://worksinprogress.co/issue/marriage-customs-very-different-from-ours/</a></p>\n<p>Comments UR...",
-      "published": "2026-02-20T12:44:42+00:00",
-      "domain": "worksinprogress.co",
+      "title": "Show HN: Together, multiplayer drawing chat room",
+      "link": "https://together.tldraw.com/",
+      "summary": "<p>Anonymous multiplayer drawing app (with all that entails) in a canvas that slowly scrolls everything off-screen. I made this back in 2023 but just got it hosted again, still fun! For a private expe...",
+      "published": "2026-02-20T18:37:35+00:00",
+      "domain": "together.tldraw.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -437,11 +427,11 @@
       }
     },
     {
-      "title": "Building an Elite AI Engineering Culture in 2026",
-      "link": "https://www.cjroth.com/blog/2026-02-18-building-an-elite-engineering-culture",
-      "summary": "<p>Article URL: <a href=\"https://www.cjroth.com/blog/2026-02-18-building-an-elite-engineering-culture\">https://www.cjroth.com/blog/2026-02-18-building-an-elite-engineering-culture</a></p>\n<p>Comments ...",
-      "published": "2026-02-20T12:43:31+00:00",
-      "domain": "cjroth.com",
+      "title": "ClawDuck",
+      "link": "https://www.clawduck.com/",
+      "summary": "<p>Article URL: <a href=\"https://www.clawduck.com/\">https://www.clawduck.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47091898\">https://news.ycombinator.com/item?id=4709...",
+      "published": "2026-02-20T18:37:29+00:00",
+      "domain": "clawduck.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -453,11 +443,11 @@
       }
     },
     {
-      "title": "Nvidia and OpenAI abandon unfinished $100B deal in favour of $30B investment",
-      "link": "https://www.ft.com/content/dea24046-0a73-40b2-8246-5ac7b7a54323",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47086980\">Comments</a>...",
-      "published": "2026-02-20T12:04:35+00:00",
-      "domain": "ft.com",
+      "title": "Keep Android Open",
+      "link": "https://f-droid.org/2026/02/20/twif.html",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47091419\">Comments</a>...",
+      "published": "2026-02-20T17:58:51+00:00",
+      "domain": "f-droid.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -469,11 +459,27 @@
       }
     },
     {
-      "title": "I used Claude Code and GSD to build the accessibility tool I've always wanted",
-      "link": "https://blakewatson.com/journal/i-used-claude-code-and-gsd-to-build-the-accessibility-tool-ive-always-wanted/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47086847\">Comments</a>...",
-      "published": "2026-02-20T11:50:48+00:00",
-      "domain": "blakewatson.com",
+      "title": "Lil' Fun Langs",
+      "link": "https://taylor.town/scrapscript-000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47091071\">Comments</a>...",
+      "published": "2026-02-20T17:34:12+00:00",
+      "domain": "taylor.town",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "ClickFix Campaign Abuses Compromised Sites to Deploy MIMICRAT Malware",
+      "link": "https://thehackernews.com/2026/02/clickfix-campaign-abuses-compromised.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new ClickFix campaign that abuses compromised legitimate sites to deliver a previously undocumented remote access trojan (RAT) called MIMICRAT (ak...",
+      "published": "2026-02-20T17:25:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -487,10 +493,10 @@
   ],
   "all_articles": [
     {
-      "title": "Identity Cyber Scores: The New Metric Shaping Cyber Insurance in 2026",
-      "link": "https://thehackernews.com/2026/02/identity-cyber-scores-new-metric.html",
-      "summary": "With one in three cyber-attacks now involving compromised employee accounts, insurers and regulators are placing far greater emphasis on identity posture when assessing cyber risk.&nbsp;\nFor many orga...",
-      "published": "2026-02-20T16:00:00+05:30",
+      "title": "BeyondTrust Flaw Used for Web Shells, Backdoors, and Data Exfiltration",
+      "link": "https://thehackernews.com/2026/02/beyondtrust-flaw-used-for-web-shells.html",
+      "summary": "Threat actors have been observed exploiting a recently disclosed critical security flaw impacting BeyondTrust Remote Support (RS) and Privileged Remote Access (PRA) products to conduct a wide range of...",
+      "published": "2026-02-20T21:15:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -503,27 +509,29 @@
       }
     },
     {
-      "title": "Ukrainian National Sentenced to 5 Years in North Korea IT Worker Fraud Case",
-      "link": "https://thehackernews.com/2026/02/ukrainian-national-sentenced-to-5-years.html",
-      "summary": "A 29-year-old Ukrainian national has been sentenced to five years in prison in the U.S. for his role in facilitating North Korea's fraudulent information technology (IT) worker scheme.\nIn November 202...",
-      "published": "2026-02-20T15:22:00+05:30",
+      "title": "Cline CLI 2.3.0 Supply Chain Attack Installed OpenClaw on Developer Systems",
+      "link": "https://thehackernews.com/2026/02/cline-cli-230-supply-chain-attack.html",
+      "summary": "In yet another software supply chain attack, the open-source, artificial intelligence (AI)-powered coding assistant Cline CLI was updated to stealthily install OpenClaw, a self-hosted autonomous AI ag...",
+      "published": "2026-02-20T19:50:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
+        "anarchy": 12.8,
+        "overall": 7.9
       },
       "keywords": {
         "chaos": [],
-        "anarchy": []
+        "anarchy": [
+          "autonomous"
+        ]
       }
     },
     {
-      "title": "FBI Reports 1,900 ATM Jackpotting Incidents Since 2020, $20M Lost in 2025",
-      "link": "https://thehackernews.com/2026/02/fbi-reports-1900-atm-jackpotting.html",
-      "summary": "The U.S. Federal Bureau of Investigation (FBI) has warned of an increase in ATM jackpotting incidents across the country, leading to losses of more than $20 million in 2025.\nThe agency said 1,900 ATM ...",
-      "published": "2026-02-20T13:35:00+05:30",
-      "domain": "thehackernews.com",
+      "title": "From Software Guilds to Software Factories",
+      "link": "https://wjgilmore.com/articles/goodbye-software-guilds-hello-software-factories",
+      "summary": "<p>Article URL: <a href=\"https://wjgilmore.com/articles/goodbye-software-guilds-hello-software-factories\">https://wjgilmore.com/articles/goodbye-software-guilds-hello-software-factories</a></p>\n<p>Com...",
+      "published": "2026-02-20T18:39:39+00:00",
+      "domain": "wjgilmore.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -535,11 +543,11 @@
       }
     },
     {
-      "title": "How to Organize Safely in the Age of Surveillance",
-      "link": "https://www.wired.com/story/how-to-organize-safely-in-the-age-of-surveillance/",
-      "summary": "<p>Article URL: <a href=\"https://www.wired.com/story/how-to-organize-safely-in-the-age-of-surveillance/\">https://www.wired.com/story/how-to-organize-safely-in-the-age-of-surveillance/</a></p>\n<p>Comme...",
-      "published": "2026-02-20T12:50:00+00:00",
-      "domain": "wired.com",
+      "title": "Five Memorable Books About Programming",
+      "link": "https://prog21.dadgum.com/19.html",
+      "summary": "<p>Article URL: <a href=\"https://prog21.dadgum.com/19.html\">https://prog21.dadgum.com/19.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47091936\">https://news.ycombinator....",
+      "published": "2026-02-20T18:39:09+00:00",
+      "domain": "prog21.dadgum.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -551,26 +559,10 @@
       }
     },
     {
-      "title": "My side project got banned from the internet",
-      "link": "https://trysound.io/how-my-side-project-got-banned-from-the-internet/",
-      "summary": "<p>Article URL: <a href=\"https://trysound.io/how-my-side-project-got-banned-from-the-internet/\">https://trysound.io/how-my-side-project-got-banned-from-the-internet/</a></p>\n<p>Comments URL: <a href=\"...",
-      "published": "2026-02-20T12:46:50+00:00",
-      "domain": "trysound.io",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: Remote-OpenCode \u2013 Control your AI coding assistant from Discord",
-      "link": "https://github.com/RoundTable02/remote-opencode",
-      "summary": "<p>Hi HN,<p>I built remote-opencode, a Discord bot that runs on your dev machine and lets you use your local OpenCode CLI from anywhere (phone/tablet/another laptop).\nIt streams output back into Disco...",
-      "published": "2026-02-20T12:45:20+00:00",
+      "title": "Warden",
+      "link": "https://github.com/getsentry/warden",
+      "summary": "<p>Article URL: <a href=\"https://github.com/getsentry/warden\">https://github.com/getsentry/warden</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47091927\">https://news.ycombina...",
+      "published": "2026-02-20T18:38:48+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -583,11 +575,11 @@
       }
     },
     {
-      "title": "The Market for Marriage",
-      "link": "https://worksinprogress.co/issue/marriage-customs-very-different-from-ours/",
-      "summary": "<p>Article URL: <a href=\"https://worksinprogress.co/issue/marriage-customs-very-different-from-ours/\">https://worksinprogress.co/issue/marriage-customs-very-different-from-ours/</a></p>\n<p>Comments UR...",
-      "published": "2026-02-20T12:44:42+00:00",
-      "domain": "worksinprogress.co",
+      "title": "Show HN: Together, multiplayer drawing chat room",
+      "link": "https://together.tldraw.com/",
+      "summary": "<p>Anonymous multiplayer drawing app (with all that entails) in a canvas that slowly scrolls everything off-screen. I made this back in 2023 but just got it hosted again, still fun! For a private expe...",
+      "published": "2026-02-20T18:37:35+00:00",
+      "domain": "together.tldraw.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -599,11 +591,11 @@
       }
     },
     {
-      "title": "Building an Elite AI Engineering Culture in 2026",
-      "link": "https://www.cjroth.com/blog/2026-02-18-building-an-elite-engineering-culture",
-      "summary": "<p>Article URL: <a href=\"https://www.cjroth.com/blog/2026-02-18-building-an-elite-engineering-culture\">https://www.cjroth.com/blog/2026-02-18-building-an-elite-engineering-culture</a></p>\n<p>Comments ...",
-      "published": "2026-02-20T12:43:31+00:00",
-      "domain": "cjroth.com",
+      "title": "ClawDuck",
+      "link": "https://www.clawduck.com/",
+      "summary": "<p>Article URL: <a href=\"https://www.clawduck.com/\">https://www.clawduck.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47091898\">https://news.ycombinator.com/item?id=4709...",
+      "published": "2026-02-20T18:37:29+00:00",
+      "domain": "clawduck.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -615,11 +607,11 @@
       }
     },
     {
-      "title": "Nvidia and OpenAI abandon unfinished $100B deal in favour of $30B investment",
-      "link": "https://www.ft.com/content/dea24046-0a73-40b2-8246-5ac7b7a54323",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47086980\">Comments</a>...",
-      "published": "2026-02-20T12:04:35+00:00",
-      "domain": "ft.com",
+      "title": "Keep Android Open",
+      "link": "https://f-droid.org/2026/02/20/twif.html",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47091419\">Comments</a>...",
+      "published": "2026-02-20T17:58:51+00:00",
+      "domain": "f-droid.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -631,11 +623,27 @@
       }
     },
     {
-      "title": "I used Claude Code and GSD to build the accessibility tool I've always wanted",
-      "link": "https://blakewatson.com/journal/i-used-claude-code-and-gsd-to-build-the-accessibility-tool-ive-always-wanted/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47086847\">Comments</a>...",
-      "published": "2026-02-20T11:50:48+00:00",
-      "domain": "blakewatson.com",
+      "title": "Lil' Fun Langs",
+      "link": "https://taylor.town/scrapscript-000",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47091071\">Comments</a>...",
+      "published": "2026-02-20T17:34:12+00:00",
+      "domain": "taylor.town",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "ClickFix Campaign Abuses Compromised Sites to Deploy MIMICRAT Malware",
+      "link": "https://thehackernews.com/2026/02/clickfix-campaign-abuses-compromised.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new ClickFix campaign that abuses compromised legitimate sites to deliver a previously undocumented remote access trojan (RAT) called MIMICRAT (ak...",
+      "published": "2026-02-20T17:25:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,

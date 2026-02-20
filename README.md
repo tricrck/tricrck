@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Identity Cyber Scores: The New Metric Shaping Cyber Insurance in 2026
+### BeyondTrust Flaw Used for Web Shells, Backdoors, and Data Exfiltration
 - **Published**: February 20, 2026
-- **Summary**: With one in three cyber-attacks now involving compromised employee accounts, insurers and regulators are placing far greater emphasis on identity post...
-- [Read more](https://thehackernews.com/2026/02/identity-cyber-scores-new-metric.html)
+- **Summary**: Threat actors have been observed exploiting a recently disclosed critical security flaw impacting BeyondTrust Remote Support (RS) and Privileged Remot...
+- [Read more](https://thehackernews.com/2026/02/beyondtrust-flaw-used-for-web-shells.html)
 
-### Ukrainian National Sentenced to 5 Years in North Korea IT Worker Fraud Case
+### Cline CLI 2.3.0 Supply Chain Attack Installed OpenClaw on Developer Systems
 - **Published**: February 20, 2026
-- **Summary**: A 29-year-old Ukrainian national has been sentenced to five years in prison in the U.S. for his role in facilitating North Korea's fraudulent informat...
-- [Read more](https://thehackernews.com/2026/02/ukrainian-national-sentenced-to-5-years.html)
+- **Summary**: In yet another software supply chain attack, the open-source, artificial intelligence (AI)-powered coding assistant Cline CLI was updated to stealthil...
+- [Read more](https://thehackernews.com/2026/02/cline-cli-230-supply-chain-attack.html)
 
 ---
 
