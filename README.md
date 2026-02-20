@@ -16,17 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Paul Ford: 'The A.I. Disruption Has Arrived, and It Sure Is Fun'
+### Identity Cyber Scores: The New Metric Shaping Cyber Insurance in 2026
 - **Published**: February 20, 2026
-- **Summary**: https://www.nytimes.com/2026/02/18/opinion/ai-software.html</a></p>
-<p>Comments URL: <a href="https://news.ycombin......
-- **Keywords**: disruption
-- [Read more](https://www.nytimes.com/2026/02/18/opinion/ai-software.html)
+- **Summary**: With one in three cyber-attacks now involving compromised employee accounts, insurers and regulators are placing far greater emphasis on identity post...
+- [Read more](https://thehackernews.com/2026/02/identity-cyber-scores-new-metric.html)
 
-### Three Former Google Engineers Indicted Over Trade Secret Transfers to Iran
+### Ukrainian National Sentenced to 5 Years in North Korea IT Worker Fraud Case
 - **Published**: February 20, 2026
-- **Summary**: Two former Google engineers and one of their husbands have been indicted in the U.S. for allegedly committing trade secret theft from the search giant...
-- [Read more](https://thehackernews.com/2026/02/three-former-google-engineers-indicted.html)
+- **Summary**: A 29-year-old Ukrainian national has been sentenced to five years in prison in the U.S. for his role in facilitating North Korea's fraudulent informat...
+- [Read more](https://thehackernews.com/2026/02/ukrainian-national-sentenced-to-5-years.html)
 
 ---
 
