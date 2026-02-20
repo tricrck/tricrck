@@ -16,15 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### PromptSpy Android Malware Abuses Gemini AI to Automate Recent-Apps Persistence
-- **Published**: February 19, 2026
-- **Summary**: Cybersecurity researchers have discovered what they say is the first Android malware that abuses Gemini, Google's generative artificial intelligence (...
-- [Read more](https://thehackernews.com/2026/02/promptspy-android-malware-abuses-google.html)
+### Why Traditional DLP Fails in the Age of LLMs
+- **Published**: February 20, 2026
+- **Summary**: https://chris-s-lambert.com/why-traditional-dlp-fails-llms.html</a></p>
+<p>Comments URL: <a href="https://news......
+- [Read more](https://chris-s-lambert.com/why-traditional-dlp-fails-llms.html)
 
-### INTERPOL Operation Red Card 2.0 Arrests 651 in African Cybercrime Crackdown
-- **Published**: February 19, 2026
-- **Summary**: An international cybercrime operation against online scams has led to 651 arrests and recovered more than $4.3 million as part of an effort led by law...
-- [Read more](https://thehackernews.com/2026/02/interpol-operation-red-card-20-arrests.html)
+### There Are Fewer Excuses
+- **Published**: February 20, 2026
+- **Summary**: https://ctts.substack.com/p/there-are-fewer-excuses</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id......
+- [Read more](https://ctts.substack.com/p/there-are-fewer-excuses)
 
 ---
 
