@@ -16,17 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Why Traditional DLP Fails in the Age of LLMs
+### Paul Ford: 'The A.I. Disruption Has Arrived, and It Sure Is Fun'
 - **Published**: February 20, 2026
-- **Summary**: https://chris-s-lambert.com/why-traditional-dlp-fails-llms.html</a></p>
-<p>Comments URL: <a href="https://news......
-- [Read more](https://chris-s-lambert.com/why-traditional-dlp-fails-llms.html)
+- **Summary**: https://www.nytimes.com/2026/02/18/opinion/ai-software.html</a></p>
+<p>Comments URL: <a href="https://news.ycombin......
+- **Keywords**: disruption
+- [Read more](https://www.nytimes.com/2026/02/18/opinion/ai-software.html)
 
-### There Are Fewer Excuses
+### Three Former Google Engineers Indicted Over Trade Secret Transfers to Iran
 - **Published**: February 20, 2026
-- **Summary**: https://ctts.substack.com/p/there-are-fewer-excuses</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id......
-- [Read more](https://ctts.substack.com/p/there-are-fewer-excuses)
+- **Summary**: Two former Google engineers and one of their husbands have been indicted in the U.S. for allegedly committing trade secret theft from the search giant...
+- [Read more](https://thehackernews.com/2026/02/three-former-google-engineers-indicted.html)
 
 ---
 
