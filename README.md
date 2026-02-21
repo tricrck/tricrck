@@ -16,16 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### YAML-schema-router – content-based schema routing for YAML-language-server
+### ‘Slow this thing down’: Sanders warns US has no clue about speed and scale of coming AI revolution
 - **Published**: February 21, 2026
-- **Summary**: https://github.com/traiproject/yaml-schema-router</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=470......
-- [Read more](https://github.com/traiproject/yaml-schema-router)
+- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1rahxwc/slow_this_thing_down_sanders_warns_us_has_no_clue/"> <img alt="‘Slow this thing dow...
+- **Keywords**: down, down
+- [Read more](https://www.reddit.com/r/technology/comments/1rahxwc/slow_this_thing_down_sanders_warns_us_has_no_clue/)
 
-### Show HN: TypstMe – Build ATS-proof resumes using Typst and WASM
+### Typed Assembly Language
 - **Published**: February 21, 2026
-- **Summary**: <p>Hi HN,<p>I built TypstMe because I was frustrated with the current state of resume builders. Most of them are either overpriced monthly subscriptio...
-- [Read more](https://news.ycombinator.com/item?id=47096632)
+- **Summary**: https://www.cs.cornell.edu/talc/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47098029">https://news.ycombinator.co......
+- [Read more](https://www.cs.cornell.edu/talc/)
 
 ---
 
