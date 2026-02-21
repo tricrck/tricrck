@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Anthropic Launches Claude Code Security for AI-Powered Vulnerability Scanning
+### AI-Assisted Threat Actor Compromises 600+ FortiGate Devices in 55 Countries
 - **Published**: February 21, 2026
-- **Summary**: Artificial intelligence (AI) company Anthropic has begun to roll out a new security feature for Claude Code that can scan a user's software codebase f...
-- [Read more](https://thehackernews.com/2026/02/anthropic-launches-claude-code-security.html)
+- **Summary**: A Russian-speaking, financially motivated threat actor has been observed taking advantage of commercial generative artificial intelligence (AI) servic...
+- [Read more](https://thehackernews.com/2026/02/ai-assisted-threat-actor-compromises.html)
 
-### CISA Adds Two Actively Exploited Roundcube Flaws to KEV Catalog
+### Show HN: TeamContext – Git-native shared context for vibe coding teams
 - **Published**: February 21, 2026
-- **Summary**: The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting Roundcube webmail software to its Known ...
-- [Read more](https://thehackernews.com/2026/02/cisa-adds-two-actively-exploited.html)
+- **Summary**: <p>I built TeamContext because team vibe coding has a context problem: each person + each LLM tool ends up with a different mental model of the same p...
+- [Read more](https://github.com/hzhou9/TeamContext)
 
 ---
 
