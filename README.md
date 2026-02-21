@@ -16,17 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### ‘Slow this thing down’: Sanders warns US has no clue about speed and scale of coming AI revolution
+### Anthropic Launches Claude Code Security for AI-Powered Vulnerability Scanning
 - **Published**: February 21, 2026
-- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1rahxwc/slow_this_thing_down_sanders_warns_us_has_no_clue/"> <img alt="‘Slow this thing dow...
-- **Keywords**: down, down
-- [Read more](https://www.reddit.com/r/technology/comments/1rahxwc/slow_this_thing_down_sanders_warns_us_has_no_clue/)
+- **Summary**: Artificial intelligence (AI) company Anthropic has begun to roll out a new security feature for Claude Code that can scan a user's software codebase f...
+- [Read more](https://thehackernews.com/2026/02/anthropic-launches-claude-code-security.html)
 
-### Typed Assembly Language
+### CISA Adds Two Actively Exploited Roundcube Flaws to KEV Catalog
 - **Published**: February 21, 2026
-- **Summary**: https://www.cs.cornell.edu/talc/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47098029">https://news.ycombinator.co......
-- [Read more](https://www.cs.cornell.edu/talc/)
+- **Summary**: The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting Roundcube webmail software to its Known ...
+- [Read more](https://thehackernews.com/2026/02/cisa-adds-two-actively-exploited.html)
 
 ---
 
