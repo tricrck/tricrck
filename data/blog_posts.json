@@ -1,76 +1,10 @@
 {
   "chaos_ranked": [
     {
-      "title": "BeyondTrust Flaw Used for Web Shells, Backdoors, and Data Exfiltration",
-      "link": "https://thehackernews.com/2026/02/beyondtrust-flaw-used-for-web-shells.html",
-      "summary": "Threat actors have been observed exploiting a recently disclosed critical security flaw impacting BeyondTrust Remote Support (RS) and Privileged Remote Access (PRA) products to conduct a wide range of...",
-      "published": "2026-02-20T21:15:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Cline CLI 2.3.0 Supply Chain Attack Installed OpenClaw on Developer Systems",
-      "link": "https://thehackernews.com/2026/02/cline-cli-230-supply-chain-attack.html",
-      "summary": "In yet another software supply chain attack, the open-source, artificial intelligence (AI)-powered coding assistant Cline CLI was updated to stealthily install OpenClaw, a self-hosted autonomous AI ag...",
-      "published": "2026-02-20T19:50:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 12.8,
-        "overall": 7.9
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": [
-          "autonomous"
-        ]
-      }
-    },
-    {
-      "title": "From Software Guilds to Software Factories",
-      "link": "https://wjgilmore.com/articles/goodbye-software-guilds-hello-software-factories",
-      "summary": "<p>Article URL: <a href=\"https://wjgilmore.com/articles/goodbye-software-guilds-hello-software-factories\">https://wjgilmore.com/articles/goodbye-software-guilds-hello-software-factories</a></p>\n<p>Com...",
-      "published": "2026-02-20T18:39:39+00:00",
-      "domain": "wjgilmore.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Five Memorable Books About Programming",
-      "link": "https://prog21.dadgum.com/19.html",
-      "summary": "<p>Article URL: <a href=\"https://prog21.dadgum.com/19.html\">https://prog21.dadgum.com/19.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47091936\">https://news.ycombinator....",
-      "published": "2026-02-20T18:39:09+00:00",
-      "domain": "prog21.dadgum.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Warden",
-      "link": "https://github.com/getsentry/warden",
-      "summary": "<p>Article URL: <a href=\"https://github.com/getsentry/warden\">https://github.com/getsentry/warden</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47091927\">https://news.ycombina...",
-      "published": "2026-02-20T18:38:48+00:00",
+      "title": "YAML-schema-router \u2013 content-based schema routing for YAML-language-server",
+      "link": "https://github.com/traiproject/yaml-schema-router",
+      "summary": "<p>Article URL: <a href=\"https://github.com/traiproject/yaml-schema-router\">https://github.com/traiproject/yaml-schema-router</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=470...",
+      "published": "2026-02-21T01:50:46+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -83,11 +17,11 @@
       }
     },
     {
-      "title": "Show HN: Together, multiplayer drawing chat room",
-      "link": "https://together.tldraw.com/",
-      "summary": "<p>Anonymous multiplayer drawing app (with all that entails) in a canvas that slowly scrolls everything off-screen. I made this back in 2023 but just got it hosted again, still fun! For a private expe...",
-      "published": "2026-02-20T18:37:35+00:00",
-      "domain": "together.tldraw.com",
+      "title": "Show HN: TypstMe \u2013 Build ATS-proof resumes using Typst and WASM",
+      "link": "https://news.ycombinator.com/item?id=47096632",
+      "summary": "<p>Hi HN,<p>I built TypstMe because I was frustrated with the current state of resume builders. Most of them are either overpriced monthly subscriptions or tools like Canva that produce absolute-posit...",
+      "published": "2026-02-21T01:49:16+00:00",
+      "domain": "news.ycombinator.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -99,11 +33,11 @@
       }
     },
     {
-      "title": "ClawDuck",
-      "link": "https://www.clawduck.com/",
-      "summary": "<p>Article URL: <a href=\"https://www.clawduck.com/\">https://www.clawduck.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47091898\">https://news.ycombinator.com/item?id=4709...",
-      "published": "2026-02-20T18:37:29+00:00",
-      "domain": "clawduck.com",
+      "title": "Ask HN: Can RAG be used for recommendation system?",
+      "link": "https://news.ycombinator.com/item?id=47096594",
+      "summary": "<p>I have already worked on this for a week, but it's very hard to define the needs.\nThe idea was to create a fully customized feed (with privacy! nothing is sent to the server), across different plat...",
+      "published": "2026-02-21T01:45:16+00:00",
+      "domain": "news.ycombinator.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -115,11 +49,11 @@
       }
     },
     {
-      "title": "Keep Android Open",
-      "link": "https://f-droid.org/2026/02/20/twif.html",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47091419\">Comments</a>...",
-      "published": "2026-02-20T17:58:51+00:00",
-      "domain": "f-droid.org",
+      "title": "Ask HN: What happens to all the hardware when data centers upgrade?",
+      "link": "https://news.ycombinator.com/item?id=47096593",
+      "summary": "<p>It seems like there will be a lot of hardware that gets discarded every couple of years as new, more powerful systems are made available.<p>AWS put out a video and article on how it recycles a larg...",
+      "published": "2026-02-21T01:45:00+00:00",
+      "domain": "news.ycombinator.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -131,11 +65,11 @@
       }
     },
     {
-      "title": "Lil' Fun Langs",
-      "link": "https://taylor.town/scrapscript-000",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47091071\">Comments</a>...",
-      "published": "2026-02-20T17:34:12+00:00",
-      "domain": "taylor.town",
+      "title": "CSLib: A Focused Effort on Formalizing Computer Science in Lean",
+      "link": "https://www.cslib.io/",
+      "summary": "<p>Article URL: <a href=\"https://www.cslib.io/\">https://www.cslib.io/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47096584\">https://news.ycombinator.com/item?id=47096584</a>...",
+      "published": "2026-02-21T01:43:41+00:00",
+      "domain": "cslib.io",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -147,10 +81,74 @@
       }
     },
     {
-      "title": "ClickFix Campaign Abuses Compromised Sites to Deploy MIMICRAT Malware",
-      "link": "https://thehackernews.com/2026/02/clickfix-campaign-abuses-compromised.html",
-      "summary": "Cybersecurity researchers have disclosed details of a new ClickFix campaign that abuses compromised legitimate sites to deliver a previously undocumented remote access trojan (RAT) called MIMICRAT (ak...",
-      "published": "2026-02-20T17:25:00+05:30",
+      "title": "A 28-year-old American with 7 hours of daily screen time has had roughly $124,000 spent on targeting them with ads",
+      "link": "https://www.reddit.com/r/technology/comments/1rablf0/a_28yearold_american_with_7_hours_of_daily_screen/",
+      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/AdPhilosopher\"> /u/AdPhilosopher </a> <br /> <span><a href=\"https://attentionworth.com/\">[link]</a></span> &#32; <span><a href=\"https://ww...",
+      "published": "2026-02-20T23:47:17+00:00",
+      "domain": "reddit.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "CERN rebuilt the original browser from 1989",
+      "link": "https://worldwideweb.cern.ch",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47095429\">Comments</a>...",
+      "published": "2026-02-20T23:19:12+00:00",
+      "domain": "worldwideweb.cern.ch",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Hackers Expose Discord Age Verification System Issue After Persona Frontend Code Left Wide Open",
+      "link": "https://www.reddit.com/r/technology/comments/1ra8yx2/hackers_expose_discord_age_verification_system/",
+      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/vriska1\"> /u/vriska1 </a> <br /> <span><a href=\"https://www.ibtimes.com/hackers-expose-discord-age-verification-system-issue-after-persona...",
+      "published": "2026-02-20T22:01:50+00:00",
+      "domain": "reddit.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Turn Dependabot Off",
+      "link": "https://words.filippo.io/dependabot/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47094192\">Comments</a>...",
+      "published": "2026-02-20T21:25:41+00:00",
+      "domain": "words.filippo.io",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "BeyondTrust Flaw Used for Web Shells, Backdoors, and Data Exfiltration",
+      "link": "https://thehackernews.com/2026/02/beyondtrust-flaw-used-for-web-shells.html",
+      "summary": "Threat actors have been observed exploiting a recently disclosed critical security flaw impacting BeyondTrust Remote Support (RS) and Privileged Remote Access (PRA) products to conduct a wide range of...",
+      "published": "2026-02-20T21:15:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -165,76 +163,10 @@
   ],
   "anarchy_ranked": [
     {
-      "title": "Cline CLI 2.3.0 Supply Chain Attack Installed OpenClaw on Developer Systems",
-      "link": "https://thehackernews.com/2026/02/cline-cli-230-supply-chain-attack.html",
-      "summary": "In yet another software supply chain attack, the open-source, artificial intelligence (AI)-powered coding assistant Cline CLI was updated to stealthily install OpenClaw, a self-hosted autonomous AI ag...",
-      "published": "2026-02-20T19:50:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 12.8,
-        "overall": 7.9
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": [
-          "autonomous"
-        ]
-      }
-    },
-    {
-      "title": "BeyondTrust Flaw Used for Web Shells, Backdoors, and Data Exfiltration",
-      "link": "https://thehackernews.com/2026/02/beyondtrust-flaw-used-for-web-shells.html",
-      "summary": "Threat actors have been observed exploiting a recently disclosed critical security flaw impacting BeyondTrust Remote Support (RS) and Privileged Remote Access (PRA) products to conduct a wide range of...",
-      "published": "2026-02-20T21:15:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "From Software Guilds to Software Factories",
-      "link": "https://wjgilmore.com/articles/goodbye-software-guilds-hello-software-factories",
-      "summary": "<p>Article URL: <a href=\"https://wjgilmore.com/articles/goodbye-software-guilds-hello-software-factories\">https://wjgilmore.com/articles/goodbye-software-guilds-hello-software-factories</a></p>\n<p>Com...",
-      "published": "2026-02-20T18:39:39+00:00",
-      "domain": "wjgilmore.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Five Memorable Books About Programming",
-      "link": "https://prog21.dadgum.com/19.html",
-      "summary": "<p>Article URL: <a href=\"https://prog21.dadgum.com/19.html\">https://prog21.dadgum.com/19.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47091936\">https://news.ycombinator....",
-      "published": "2026-02-20T18:39:09+00:00",
-      "domain": "prog21.dadgum.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Warden",
-      "link": "https://github.com/getsentry/warden",
-      "summary": "<p>Article URL: <a href=\"https://github.com/getsentry/warden\">https://github.com/getsentry/warden</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47091927\">https://news.ycombina...",
-      "published": "2026-02-20T18:38:48+00:00",
+      "title": "YAML-schema-router \u2013 content-based schema routing for YAML-language-server",
+      "link": "https://github.com/traiproject/yaml-schema-router",
+      "summary": "<p>Article URL: <a href=\"https://github.com/traiproject/yaml-schema-router\">https://github.com/traiproject/yaml-schema-router</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=470...",
+      "published": "2026-02-21T01:50:46+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -247,11 +179,11 @@
       }
     },
     {
-      "title": "Show HN: Together, multiplayer drawing chat room",
-      "link": "https://together.tldraw.com/",
-      "summary": "<p>Anonymous multiplayer drawing app (with all that entails) in a canvas that slowly scrolls everything off-screen. I made this back in 2023 but just got it hosted again, still fun! For a private expe...",
-      "published": "2026-02-20T18:37:35+00:00",
-      "domain": "together.tldraw.com",
+      "title": "Show HN: TypstMe \u2013 Build ATS-proof resumes using Typst and WASM",
+      "link": "https://news.ycombinator.com/item?id=47096632",
+      "summary": "<p>Hi HN,<p>I built TypstMe because I was frustrated with the current state of resume builders. Most of them are either overpriced monthly subscriptions or tools like Canva that produce absolute-posit...",
+      "published": "2026-02-21T01:49:16+00:00",
+      "domain": "news.ycombinator.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -263,11 +195,11 @@
       }
     },
     {
-      "title": "ClawDuck",
-      "link": "https://www.clawduck.com/",
-      "summary": "<p>Article URL: <a href=\"https://www.clawduck.com/\">https://www.clawduck.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47091898\">https://news.ycombinator.com/item?id=4709...",
-      "published": "2026-02-20T18:37:29+00:00",
-      "domain": "clawduck.com",
+      "title": "Ask HN: Can RAG be used for recommendation system?",
+      "link": "https://news.ycombinator.com/item?id=47096594",
+      "summary": "<p>I have already worked on this for a week, but it's very hard to define the needs.\nThe idea was to create a fully customized feed (with privacy! nothing is sent to the server), across different plat...",
+      "published": "2026-02-21T01:45:16+00:00",
+      "domain": "news.ycombinator.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -279,11 +211,11 @@
       }
     },
     {
-      "title": "Keep Android Open",
-      "link": "https://f-droid.org/2026/02/20/twif.html",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47091419\">Comments</a>...",
-      "published": "2026-02-20T17:58:51+00:00",
-      "domain": "f-droid.org",
+      "title": "Ask HN: What happens to all the hardware when data centers upgrade?",
+      "link": "https://news.ycombinator.com/item?id=47096593",
+      "summary": "<p>It seems like there will be a lot of hardware that gets discarded every couple of years as new, more powerful systems are made available.<p>AWS put out a video and article on how it recycles a larg...",
+      "published": "2026-02-21T01:45:00+00:00",
+      "domain": "news.ycombinator.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -295,11 +227,11 @@
       }
     },
     {
-      "title": "Lil' Fun Langs",
-      "link": "https://taylor.town/scrapscript-000",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47091071\">Comments</a>...",
-      "published": "2026-02-20T17:34:12+00:00",
-      "domain": "taylor.town",
+      "title": "CSLib: A Focused Effort on Formalizing Computer Science in Lean",
+      "link": "https://www.cslib.io/",
+      "summary": "<p>Article URL: <a href=\"https://www.cslib.io/\">https://www.cslib.io/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47096584\">https://news.ycombinator.com/item?id=47096584</a>...",
+      "published": "2026-02-21T01:43:41+00:00",
+      "domain": "cslib.io",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -311,10 +243,74 @@
       }
     },
     {
-      "title": "ClickFix Campaign Abuses Compromised Sites to Deploy MIMICRAT Malware",
-      "link": "https://thehackernews.com/2026/02/clickfix-campaign-abuses-compromised.html",
-      "summary": "Cybersecurity researchers have disclosed details of a new ClickFix campaign that abuses compromised legitimate sites to deliver a previously undocumented remote access trojan (RAT) called MIMICRAT (ak...",
-      "published": "2026-02-20T17:25:00+05:30",
+      "title": "A 28-year-old American with 7 hours of daily screen time has had roughly $124,000 spent on targeting them with ads",
+      "link": "https://www.reddit.com/r/technology/comments/1rablf0/a_28yearold_american_with_7_hours_of_daily_screen/",
+      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/AdPhilosopher\"> /u/AdPhilosopher </a> <br /> <span><a href=\"https://attentionworth.com/\">[link]</a></span> &#32; <span><a href=\"https://ww...",
+      "published": "2026-02-20T23:47:17+00:00",
+      "domain": "reddit.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "CERN rebuilt the original browser from 1989",
+      "link": "https://worldwideweb.cern.ch",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47095429\">Comments</a>...",
+      "published": "2026-02-20T23:19:12+00:00",
+      "domain": "worldwideweb.cern.ch",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Hackers Expose Discord Age Verification System Issue After Persona Frontend Code Left Wide Open",
+      "link": "https://www.reddit.com/r/technology/comments/1ra8yx2/hackers_expose_discord_age_verification_system/",
+      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/vriska1\"> /u/vriska1 </a> <br /> <span><a href=\"https://www.ibtimes.com/hackers-expose-discord-age-verification-system-issue-after-persona...",
+      "published": "2026-02-20T22:01:50+00:00",
+      "domain": "reddit.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Turn Dependabot Off",
+      "link": "https://words.filippo.io/dependabot/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47094192\">Comments</a>...",
+      "published": "2026-02-20T21:25:41+00:00",
+      "domain": "words.filippo.io",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "BeyondTrust Flaw Used for Web Shells, Backdoors, and Data Exfiltration",
+      "link": "https://thehackernews.com/2026/02/beyondtrust-flaw-used-for-web-shells.html",
+      "summary": "Threat actors have been observed exploiting a recently disclosed critical security flaw impacting BeyondTrust Remote Support (RS) and Privileged Remote Access (PRA) products to conduct a wide range of...",
+      "published": "2026-02-20T21:15:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -329,76 +325,10 @@
   ],
   "overall_ranked": [
     {
-      "title": "Cline CLI 2.3.0 Supply Chain Attack Installed OpenClaw on Developer Systems",
-      "link": "https://thehackernews.com/2026/02/cline-cli-230-supply-chain-attack.html",
-      "summary": "In yet another software supply chain attack, the open-source, artificial intelligence (AI)-powered coding assistant Cline CLI was updated to stealthily install OpenClaw, a self-hosted autonomous AI ag...",
-      "published": "2026-02-20T19:50:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 12.8,
-        "overall": 7.9
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": [
-          "autonomous"
-        ]
-      }
-    },
-    {
-      "title": "BeyondTrust Flaw Used for Web Shells, Backdoors, and Data Exfiltration",
-      "link": "https://thehackernews.com/2026/02/beyondtrust-flaw-used-for-web-shells.html",
-      "summary": "Threat actors have been observed exploiting a recently disclosed critical security flaw impacting BeyondTrust Remote Support (RS) and Privileged Remote Access (PRA) products to conduct a wide range of...",
-      "published": "2026-02-20T21:15:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "From Software Guilds to Software Factories",
-      "link": "https://wjgilmore.com/articles/goodbye-software-guilds-hello-software-factories",
-      "summary": "<p>Article URL: <a href=\"https://wjgilmore.com/articles/goodbye-software-guilds-hello-software-factories\">https://wjgilmore.com/articles/goodbye-software-guilds-hello-software-factories</a></p>\n<p>Com...",
-      "published": "2026-02-20T18:39:39+00:00",
-      "domain": "wjgilmore.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Five Memorable Books About Programming",
-      "link": "https://prog21.dadgum.com/19.html",
-      "summary": "<p>Article URL: <a href=\"https://prog21.dadgum.com/19.html\">https://prog21.dadgum.com/19.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47091936\">https://news.ycombinator....",
-      "published": "2026-02-20T18:39:09+00:00",
-      "domain": "prog21.dadgum.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Warden",
-      "link": "https://github.com/getsentry/warden",
-      "summary": "<p>Article URL: <a href=\"https://github.com/getsentry/warden\">https://github.com/getsentry/warden</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47091927\">https://news.ycombina...",
-      "published": "2026-02-20T18:38:48+00:00",
+      "title": "YAML-schema-router \u2013 content-based schema routing for YAML-language-server",
+      "link": "https://github.com/traiproject/yaml-schema-router",
+      "summary": "<p>Article URL: <a href=\"https://github.com/traiproject/yaml-schema-router\">https://github.com/traiproject/yaml-schema-router</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=470...",
+      "published": "2026-02-21T01:50:46+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -411,11 +341,11 @@
       }
     },
     {
-      "title": "Show HN: Together, multiplayer drawing chat room",
-      "link": "https://together.tldraw.com/",
-      "summary": "<p>Anonymous multiplayer drawing app (with all that entails) in a canvas that slowly scrolls everything off-screen. I made this back in 2023 but just got it hosted again, still fun! For a private expe...",
-      "published": "2026-02-20T18:37:35+00:00",
-      "domain": "together.tldraw.com",
+      "title": "Show HN: TypstMe \u2013 Build ATS-proof resumes using Typst and WASM",
+      "link": "https://news.ycombinator.com/item?id=47096632",
+      "summary": "<p>Hi HN,<p>I built TypstMe because I was frustrated with the current state of resume builders. Most of them are either overpriced monthly subscriptions or tools like Canva that produce absolute-posit...",
+      "published": "2026-02-21T01:49:16+00:00",
+      "domain": "news.ycombinator.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -427,11 +357,11 @@
       }
     },
     {
-      "title": "ClawDuck",
-      "link": "https://www.clawduck.com/",
-      "summary": "<p>Article URL: <a href=\"https://www.clawduck.com/\">https://www.clawduck.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47091898\">https://news.ycombinator.com/item?id=4709...",
-      "published": "2026-02-20T18:37:29+00:00",
-      "domain": "clawduck.com",
+      "title": "Ask HN: Can RAG be used for recommendation system?",
+      "link": "https://news.ycombinator.com/item?id=47096594",
+      "summary": "<p>I have already worked on this for a week, but it's very hard to define the needs.\nThe idea was to create a fully customized feed (with privacy! nothing is sent to the server), across different plat...",
+      "published": "2026-02-21T01:45:16+00:00",
+      "domain": "news.ycombinator.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -443,11 +373,11 @@
       }
     },
     {
-      "title": "Keep Android Open",
-      "link": "https://f-droid.org/2026/02/20/twif.html",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47091419\">Comments</a>...",
-      "published": "2026-02-20T17:58:51+00:00",
-      "domain": "f-droid.org",
+      "title": "Ask HN: What happens to all the hardware when data centers upgrade?",
+      "link": "https://news.ycombinator.com/item?id=47096593",
+      "summary": "<p>It seems like there will be a lot of hardware that gets discarded every couple of years as new, more powerful systems are made available.<p>AWS put out a video and article on how it recycles a larg...",
+      "published": "2026-02-21T01:45:00+00:00",
+      "domain": "news.ycombinator.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -459,11 +389,11 @@
       }
     },
     {
-      "title": "Lil' Fun Langs",
-      "link": "https://taylor.town/scrapscript-000",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47091071\">Comments</a>...",
-      "published": "2026-02-20T17:34:12+00:00",
-      "domain": "taylor.town",
+      "title": "CSLib: A Focused Effort on Formalizing Computer Science in Lean",
+      "link": "https://www.cslib.io/",
+      "summary": "<p>Article URL: <a href=\"https://www.cslib.io/\">https://www.cslib.io/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47096584\">https://news.ycombinator.com/item?id=47096584</a>...",
+      "published": "2026-02-21T01:43:41+00:00",
+      "domain": "cslib.io",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -475,10 +405,74 @@
       }
     },
     {
-      "title": "ClickFix Campaign Abuses Compromised Sites to Deploy MIMICRAT Malware",
-      "link": "https://thehackernews.com/2026/02/clickfix-campaign-abuses-compromised.html",
-      "summary": "Cybersecurity researchers have disclosed details of a new ClickFix campaign that abuses compromised legitimate sites to deliver a previously undocumented remote access trojan (RAT) called MIMICRAT (ak...",
-      "published": "2026-02-20T17:25:00+05:30",
+      "title": "A 28-year-old American with 7 hours of daily screen time has had roughly $124,000 spent on targeting them with ads",
+      "link": "https://www.reddit.com/r/technology/comments/1rablf0/a_28yearold_american_with_7_hours_of_daily_screen/",
+      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/AdPhilosopher\"> /u/AdPhilosopher </a> <br /> <span><a href=\"https://attentionworth.com/\">[link]</a></span> &#32; <span><a href=\"https://ww...",
+      "published": "2026-02-20T23:47:17+00:00",
+      "domain": "reddit.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "CERN rebuilt the original browser from 1989",
+      "link": "https://worldwideweb.cern.ch",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47095429\">Comments</a>...",
+      "published": "2026-02-20T23:19:12+00:00",
+      "domain": "worldwideweb.cern.ch",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Hackers Expose Discord Age Verification System Issue After Persona Frontend Code Left Wide Open",
+      "link": "https://www.reddit.com/r/technology/comments/1ra8yx2/hackers_expose_discord_age_verification_system/",
+      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/vriska1\"> /u/vriska1 </a> <br /> <span><a href=\"https://www.ibtimes.com/hackers-expose-discord-age-verification-system-issue-after-persona...",
+      "published": "2026-02-20T22:01:50+00:00",
+      "domain": "reddit.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Turn Dependabot Off",
+      "link": "https://words.filippo.io/dependabot/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47094192\">Comments</a>...",
+      "published": "2026-02-20T21:25:41+00:00",
+      "domain": "words.filippo.io",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "BeyondTrust Flaw Used for Web Shells, Backdoors, and Data Exfiltration",
+      "link": "https://thehackernews.com/2026/02/beyondtrust-flaw-used-for-web-shells.html",
+      "summary": "Threat actors have been observed exploiting a recently disclosed critical security flaw impacting BeyondTrust Remote Support (RS) and Privileged Remote Access (PRA) products to conduct a wide range of...",
+      "published": "2026-02-20T21:15:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -493,76 +487,10 @@
   ],
   "all_articles": [
     {
-      "title": "BeyondTrust Flaw Used for Web Shells, Backdoors, and Data Exfiltration",
-      "link": "https://thehackernews.com/2026/02/beyondtrust-flaw-used-for-web-shells.html",
-      "summary": "Threat actors have been observed exploiting a recently disclosed critical security flaw impacting BeyondTrust Remote Support (RS) and Privileged Remote Access (PRA) products to conduct a wide range of...",
-      "published": "2026-02-20T21:15:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Cline CLI 2.3.0 Supply Chain Attack Installed OpenClaw on Developer Systems",
-      "link": "https://thehackernews.com/2026/02/cline-cli-230-supply-chain-attack.html",
-      "summary": "In yet another software supply chain attack, the open-source, artificial intelligence (AI)-powered coding assistant Cline CLI was updated to stealthily install OpenClaw, a self-hosted autonomous AI ag...",
-      "published": "2026-02-20T19:50:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 12.8,
-        "overall": 7.9
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": [
-          "autonomous"
-        ]
-      }
-    },
-    {
-      "title": "From Software Guilds to Software Factories",
-      "link": "https://wjgilmore.com/articles/goodbye-software-guilds-hello-software-factories",
-      "summary": "<p>Article URL: <a href=\"https://wjgilmore.com/articles/goodbye-software-guilds-hello-software-factories\">https://wjgilmore.com/articles/goodbye-software-guilds-hello-software-factories</a></p>\n<p>Com...",
-      "published": "2026-02-20T18:39:39+00:00",
-      "domain": "wjgilmore.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Five Memorable Books About Programming",
-      "link": "https://prog21.dadgum.com/19.html",
-      "summary": "<p>Article URL: <a href=\"https://prog21.dadgum.com/19.html\">https://prog21.dadgum.com/19.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47091936\">https://news.ycombinator....",
-      "published": "2026-02-20T18:39:09+00:00",
-      "domain": "prog21.dadgum.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Warden",
-      "link": "https://github.com/getsentry/warden",
-      "summary": "<p>Article URL: <a href=\"https://github.com/getsentry/warden\">https://github.com/getsentry/warden</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47091927\">https://news.ycombina...",
-      "published": "2026-02-20T18:38:48+00:00",
+      "title": "YAML-schema-router \u2013 content-based schema routing for YAML-language-server",
+      "link": "https://github.com/traiproject/yaml-schema-router",
+      "summary": "<p>Article URL: <a href=\"https://github.com/traiproject/yaml-schema-router\">https://github.com/traiproject/yaml-schema-router</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=470...",
+      "published": "2026-02-21T01:50:46+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -575,11 +503,11 @@
       }
     },
     {
-      "title": "Show HN: Together, multiplayer drawing chat room",
-      "link": "https://together.tldraw.com/",
-      "summary": "<p>Anonymous multiplayer drawing app (with all that entails) in a canvas that slowly scrolls everything off-screen. I made this back in 2023 but just got it hosted again, still fun! For a private expe...",
-      "published": "2026-02-20T18:37:35+00:00",
-      "domain": "together.tldraw.com",
+      "title": "Show HN: TypstMe \u2013 Build ATS-proof resumes using Typst and WASM",
+      "link": "https://news.ycombinator.com/item?id=47096632",
+      "summary": "<p>Hi HN,<p>I built TypstMe because I was frustrated with the current state of resume builders. Most of them are either overpriced monthly subscriptions or tools like Canva that produce absolute-posit...",
+      "published": "2026-02-21T01:49:16+00:00",
+      "domain": "news.ycombinator.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -591,11 +519,11 @@
       }
     },
     {
-      "title": "ClawDuck",
-      "link": "https://www.clawduck.com/",
-      "summary": "<p>Article URL: <a href=\"https://www.clawduck.com/\">https://www.clawduck.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47091898\">https://news.ycombinator.com/item?id=4709...",
-      "published": "2026-02-20T18:37:29+00:00",
-      "domain": "clawduck.com",
+      "title": "Ask HN: Can RAG be used for recommendation system?",
+      "link": "https://news.ycombinator.com/item?id=47096594",
+      "summary": "<p>I have already worked on this for a week, but it's very hard to define the needs.\nThe idea was to create a fully customized feed (with privacy! nothing is sent to the server), across different plat...",
+      "published": "2026-02-21T01:45:16+00:00",
+      "domain": "news.ycombinator.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -607,11 +535,11 @@
       }
     },
     {
-      "title": "Keep Android Open",
-      "link": "https://f-droid.org/2026/02/20/twif.html",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47091419\">Comments</a>...",
-      "published": "2026-02-20T17:58:51+00:00",
-      "domain": "f-droid.org",
+      "title": "Ask HN: What happens to all the hardware when data centers upgrade?",
+      "link": "https://news.ycombinator.com/item?id=47096593",
+      "summary": "<p>It seems like there will be a lot of hardware that gets discarded every couple of years as new, more powerful systems are made available.<p>AWS put out a video and article on how it recycles a larg...",
+      "published": "2026-02-21T01:45:00+00:00",
+      "domain": "news.ycombinator.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -623,11 +551,11 @@
       }
     },
     {
-      "title": "Lil' Fun Langs",
-      "link": "https://taylor.town/scrapscript-000",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47091071\">Comments</a>...",
-      "published": "2026-02-20T17:34:12+00:00",
-      "domain": "taylor.town",
+      "title": "CSLib: A Focused Effort on Formalizing Computer Science in Lean",
+      "link": "https://www.cslib.io/",
+      "summary": "<p>Article URL: <a href=\"https://www.cslib.io/\">https://www.cslib.io/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47096584\">https://news.ycombinator.com/item?id=47096584</a>...",
+      "published": "2026-02-21T01:43:41+00:00",
+      "domain": "cslib.io",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -639,10 +567,74 @@
       }
     },
     {
-      "title": "ClickFix Campaign Abuses Compromised Sites to Deploy MIMICRAT Malware",
-      "link": "https://thehackernews.com/2026/02/clickfix-campaign-abuses-compromised.html",
-      "summary": "Cybersecurity researchers have disclosed details of a new ClickFix campaign that abuses compromised legitimate sites to deliver a previously undocumented remote access trojan (RAT) called MIMICRAT (ak...",
-      "published": "2026-02-20T17:25:00+05:30",
+      "title": "A 28-year-old American with 7 hours of daily screen time has had roughly $124,000 spent on targeting them with ads",
+      "link": "https://www.reddit.com/r/technology/comments/1rablf0/a_28yearold_american_with_7_hours_of_daily_screen/",
+      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/AdPhilosopher\"> /u/AdPhilosopher </a> <br /> <span><a href=\"https://attentionworth.com/\">[link]</a></span> &#32; <span><a href=\"https://ww...",
+      "published": "2026-02-20T23:47:17+00:00",
+      "domain": "reddit.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "CERN rebuilt the original browser from 1989",
+      "link": "https://worldwideweb.cern.ch",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47095429\">Comments</a>...",
+      "published": "2026-02-20T23:19:12+00:00",
+      "domain": "worldwideweb.cern.ch",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Hackers Expose Discord Age Verification System Issue After Persona Frontend Code Left Wide Open",
+      "link": "https://www.reddit.com/r/technology/comments/1ra8yx2/hackers_expose_discord_age_verification_system/",
+      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/vriska1\"> /u/vriska1 </a> <br /> <span><a href=\"https://www.ibtimes.com/hackers-expose-discord-age-verification-system-issue-after-persona...",
+      "published": "2026-02-20T22:01:50+00:00",
+      "domain": "reddit.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Turn Dependabot Off",
+      "link": "https://words.filippo.io/dependabot/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47094192\">Comments</a>...",
+      "published": "2026-02-20T21:25:41+00:00",
+      "domain": "words.filippo.io",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "BeyondTrust Flaw Used for Web Shells, Backdoors, and Data Exfiltration",
+      "link": "https://thehackernews.com/2026/02/beyondtrust-flaw-used-for-web-shells.html",
+      "summary": "Threat actors have been observed exploiting a recently disclosed critical security flaw impacting BeyondTrust Remote Support (RS) and Privileged Remote Access (PRA) products to conduct a wide range of...",
+      "published": "2026-02-20T21:15:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,

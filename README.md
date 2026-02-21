@@ -16,15 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### BeyondTrust Flaw Used for Web Shells, Backdoors, and Data Exfiltration
-- **Published**: February 20, 2026
-- **Summary**: Threat actors have been observed exploiting a recently disclosed critical security flaw impacting BeyondTrust Remote Support (RS) and Privileged Remot...
-- [Read more](https://thehackernews.com/2026/02/beyondtrust-flaw-used-for-web-shells.html)
+### YAML-schema-router – content-based schema routing for YAML-language-server
+- **Published**: February 21, 2026
+- **Summary**: https://github.com/traiproject/yaml-schema-router</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=470......
+- [Read more](https://github.com/traiproject/yaml-schema-router)
 
-### Cline CLI 2.3.0 Supply Chain Attack Installed OpenClaw on Developer Systems
-- **Published**: February 20, 2026
-- **Summary**: In yet another software supply chain attack, the open-source, artificial intelligence (AI)-powered coding assistant Cline CLI was updated to stealthil...
-- [Read more](https://thehackernews.com/2026/02/cline-cli-230-supply-chain-attack.html)
+### Show HN: TypstMe – Build ATS-proof resumes using Typst and WASM
+- **Published**: February 21, 2026
+- **Summary**: <p>Hi HN,<p>I built TypstMe because I was frustrated with the current state of resume builders. Most of them are either overpriced monthly subscriptio...
+- [Read more](https://news.ycombinator.com/item?id=47096632)
 
 ---
 
