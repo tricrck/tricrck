@@ -1,30 +1,46 @@
 {
   "chaos_ranked": [
     {
-      "title": "Apple's AI Pendant Sounds Like a Watered-Down Humane AI Pin",
-      "link": "https://gizmodo.com/apples-ai-pendant-sounds-like-a-watered-down-humane-ai-pin-2000723004",
-      "summary": "<p>Article URL: <a href=\"https://gizmodo.com/apples-ai-pendant-sounds-like-a-watered-down-humane-ai-pin-2000723004\">https://gizmodo.com/apples-ai-pendant-sounds-like-a-watered-down-humane-ai-pin-20007...",
-      "published": "2026-02-22T02:18:47+00:00",
-      "domain": "gizmodo.com",
+      "title": "Amazon's cloud unit hit by outage involving AI tools in December",
+      "link": "https://www.reuters.com/business/retail-consumer/amazons-cloud-unit-hit-by-least-two-outages-involving-ai-tools-ft-says-2026-02-20/",
+      "summary": "<p>Article URL: <a href=\"https://www.reuters.com/business/retail-consumer/amazons-cloud-unit-hit-by-least-two-outages-involving-ai-tools-ft-says-2026-02-20/\">https://www.reuters.com/business/retail-co...",
+      "published": "2026-02-22T06:25:57+00:00",
+      "domain": "reuters.com",
       "scores": {
-        "chaos": 20.9,
+        "chaos": 13.4,
         "anarchy": 3.0,
-        "overall": 11.9
+        "overall": 8.2
       },
       "keywords": {
         "chaos": [
-          "down",
-          "down",
-          "down"
+          "outage"
         ],
         "anarchy": []
       }
     },
     {
-      "title": "Show HN: Turn Bilibili favorites into a personal RAG knowledge base",
-      "link": "https://github.com/via007/bilibili-rag",
-      "summary": "<p>I built this to solve a personal problem: I save many long-form Bilibili videos (talks/courses), but cannot retrieve key ideas later.<p>Pipeline:\n- Bilibili auth + favorites sync\n- Audio extraction...",
-      "published": "2026-02-22T02:19:02+00:00",
+      "title": "Claude Opus 4.6 Fast Mode: 2.5x Faster, 6x More Expensive",
+      "link": "https://www.marc0.dev/en/blog/claude-opus-4-6-fast-mode-pricing-6x-cost-breakdown-1770499078106",
+      "summary": "<p>Article URL: <a href=\"https://www.marc0.dev/en/blog/claude-opus-4-6-fast-mode-pricing-6x-cost-breakdown-1770499078106\">https://www.marc0.dev/en/blog/claude-opus-4-6-fast-mode-pricing-6x-cost-breakd...",
+      "published": "2026-02-22T06:36:43+00:00",
+      "domain": "marc0.dev",
+      "scores": {
+        "chaos": 12.8,
+        "anarchy": 3.0,
+        "overall": 7.9
+      },
+      "keywords": {
+        "chaos": [
+          "breakdown"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Built an open-source tool that lets you deploy containers to your VPS via MCP",
+      "link": "https://github.com/ddalcu/mcp-deploy",
+      "summary": "<p>Article URL: <a href=\"https://github.com/ddalcu/mcp-deploy\">https://github.com/ddalcu/mcp-deploy</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47108789\">https://news.ycombi...",
+      "published": "2026-02-22T06:35:52+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -37,11 +53,11 @@
       }
     },
     {
-      "title": "Riskiest CLO Funds Are Flashing a Warning Sign: Credit Weekly",
-      "link": "https://www.bloomberg.com/news/articles/2026-02-21/riskiest-clo-funds-are-flashing-a-warning-sign-credit-weekly",
-      "summary": "<p>Article URL: <a href=\"https://www.bloomberg.com/news/articles/2026-02-21/riskiest-clo-funds-are-flashing-a-warning-sign-credit-weekly\">https://www.bloomberg.com/news/articles/2026-02-21/riskiest-cl...",
-      "published": "2026-02-22T02:14:31+00:00",
-      "domain": "bloomberg.com",
+      "title": "CDC: Why Decompression Is Worth the Complexity",
+      "link": "https://wael.nasreddine.com/nixos/cdc-why-decompression-worth-co",
+      "summary": "<p>Article URL: <a href=\"https://wael.nasreddine.com/nixos/cdc-why-decompression-worth-co\">https://wael.nasreddine.com/nixos/cdc-why-decompression-worth-co</a></p>\n<p>Comments URL: <a href=\"https://ne...",
+      "published": "2026-02-22T06:29:45+00:00",
+      "domain": "wael.nasreddine.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -53,11 +69,11 @@
       }
     },
     {
-      "title": "The cost isn't building or buying \u2013 it's what comes after",
-      "link": "https://gobiraj.substack.com/p/ai-killed-the-saas-model-then-it",
-      "summary": "<p>Article URL: <a href=\"https://gobiraj.substack.com/p/ai-killed-the-saas-model-then-it\">https://gobiraj.substack.com/p/ai-killed-the-saas-model-then-it</a></p>\n<p>Comments URL: <a href=\"https://news...",
-      "published": "2026-02-22T02:13:00+00:00",
-      "domain": "gobiraj.substack.com",
+      "title": "Show HN: Brood, a reference-first AI image editor for macOS",
+      "link": "https://github.com/kevinshowkat/brood",
+      "summary": "<p>I built Brood because I kept spending more time on prompt roulette than visual iteration.<p>Quick demo: <a href=\"https://youtu.be/yKy1BtNY9s4\" rel=\"nofollow\">https://youtu.be/yKy1BtNY9s4</a>\nInstal...",
+      "published": "2026-02-22T06:28:23+00:00",
+      "domain": "github.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -69,11 +85,59 @@
       }
     },
     {
-      "title": "Chinese boxing robots win fans in San Francisco",
-      "link": "https://restofworld.org/2026/chinese-robot-boxing-unitree-rek/",
-      "summary": "<p>Article URL: <a href=\"https://restofworld.org/2026/chinese-robot-boxing-unitree-rek/\">https://restofworld.org/2026/chinese-robot-boxing-unitree-rek/</a></p>\n<p>Comments URL: <a href=\"https://news.y...",
-      "published": "2026-02-22T02:09:32+00:00",
-      "domain": "restofworld.org",
+      "title": "U.S. Cannot Legally Impose Tariffs Using Section 122 of the Trade Act of 1974",
+      "link": "https://ielp.worldtradelaw.net/2026/01/guest-post-president-trump-cannot-legally-impose-tariffs-using-section-122-of-the-trade-act-of-1974/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47108538\">Comments</a>...",
+      "published": "2026-02-22T05:40:22+00:00",
+      "domain": "ielp.worldtradelaw.net",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Peter Thiel and other tech billionaires are publicly shielding their children from the products that made them rich",
+      "link": "https://www.reddit.com/r/technology/comments/1rbbewe/peter_thiel_and_other_tech_billionaires_are/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1rbbewe/peter_thiel_and_other_tech_billionaires_are/\"> <img alt=\"Peter Thiel and other tech billionaires are publicly shielding t...",
+      "published": "2026-02-22T03:42:21+00:00",
+      "domain": "reddit.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Japanese Woodblock Print Search",
+      "link": "https://ukiyo-e.org/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47107781\">Comments</a>...",
+      "published": "2026-02-22T03:18:36+00:00",
+      "domain": "ukiyo-e.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "A Botnet Accidentally Destroyed I2P",
+      "link": "https://www.sambent.com/a-botnet-accidentally-destroyed-i2p-the-full-story/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47106985\">Comments</a>...",
+      "published": "2026-02-22T01:08:17+00:00",
+      "domain": "sambent.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -90,70 +154,6 @@
       "summary": "<a href=\"https://news.ycombinator.com/item?id=47106686\">Comments</a>...",
       "published": "2026-02-22T00:29:05+00:00",
       "domain": "boristane.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Grok Exposed a Porn Performer\u2019s Legal Name and Birthdate\u2014Without Even Being Asked | In the latest in a string of privacy abuses from the chatbot, Grok provided porn performer Siri Dahl's full legal name and birthdate to the public, information she'd protected until now.",
-      "link": "https://www.reddit.com/r/technology/comments/1rb75og/grok_exposed_a_porn_performers_legal_name_and/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1rb75og/grok_exposed_a_porn_performers_legal_name_and/\"> <img alt=\"Grok Exposed a Porn Performer\u2019s Legal Name and Birthdate\u2014Witho...",
-      "published": "2026-02-22T00:21:52+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Are compilers deterministic?",
-      "link": "https://blog.onepatchdown.net/2026/02/22/are-compilers-deterministic-nerd-version/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47106626\">Comments</a>...",
-      "published": "2026-02-22T00:21:05+00:00",
-      "domain": "blog.onepatchdown.net",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Colorado Lawmakers Push for Age Verification at the Operating System Level",
-      "link": "https://www.reddit.com/r/technology/comments/1rb40s1/colorado_lawmakers_push_for_age_verification_at/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1rb40s1/colorado_lawmakers_push_for_age_verification_at/\"> <img alt=\"Colorado Lawmakers Push for Age Verification at the Operatin...",
-      "published": "2026-02-21T22:08:04+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Evidence of the bouba-kiki effect in na\u00efve baby chicks",
-      "link": "https://www.science.org/doi/10.1126/science.adq7188",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47105198\">Comments</a>...",
-      "published": "2026-02-21T21:51:58+00:00",
-      "domain": "science.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -167,10 +167,28 @@
   ],
   "anarchy_ranked": [
     {
-      "title": "Show HN: Turn Bilibili favorites into a personal RAG knowledge base",
-      "link": "https://github.com/via007/bilibili-rag",
-      "summary": "<p>I built this to solve a personal problem: I save many long-form Bilibili videos (talks/courses), but cannot retrieve key ideas later.<p>Pipeline:\n- Bilibili auth + favorites sync\n- Audio extraction...",
-      "published": "2026-02-22T02:19:02+00:00",
+      "title": "Claude Opus 4.6 Fast Mode: 2.5x Faster, 6x More Expensive",
+      "link": "https://www.marc0.dev/en/blog/claude-opus-4-6-fast-mode-pricing-6x-cost-breakdown-1770499078106",
+      "summary": "<p>Article URL: <a href=\"https://www.marc0.dev/en/blog/claude-opus-4-6-fast-mode-pricing-6x-cost-breakdown-1770499078106\">https://www.marc0.dev/en/blog/claude-opus-4-6-fast-mode-pricing-6x-cost-breakd...",
+      "published": "2026-02-22T06:36:43+00:00",
+      "domain": "marc0.dev",
+      "scores": {
+        "chaos": 12.8,
+        "anarchy": 3.0,
+        "overall": 7.9
+      },
+      "keywords": {
+        "chaos": [
+          "breakdown"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Built an open-source tool that lets you deploy containers to your VPS via MCP",
+      "link": "https://github.com/ddalcu/mcp-deploy",
+      "summary": "<p>Article URL: <a href=\"https://github.com/ddalcu/mcp-deploy\">https://github.com/ddalcu/mcp-deploy</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47108789\">https://news.ycombi...",
+      "published": "2026-02-22T06:35:52+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -183,31 +201,61 @@
       }
     },
     {
-      "title": "Apple's AI Pendant Sounds Like a Watered-Down Humane AI Pin",
-      "link": "https://gizmodo.com/apples-ai-pendant-sounds-like-a-watered-down-humane-ai-pin-2000723004",
-      "summary": "<p>Article URL: <a href=\"https://gizmodo.com/apples-ai-pendant-sounds-like-a-watered-down-humane-ai-pin-2000723004\">https://gizmodo.com/apples-ai-pendant-sounds-like-a-watered-down-humane-ai-pin-20007...",
-      "published": "2026-02-22T02:18:47+00:00",
-      "domain": "gizmodo.com",
+      "title": "CDC: Why Decompression Is Worth the Complexity",
+      "link": "https://wael.nasreddine.com/nixos/cdc-why-decompression-worth-co",
+      "summary": "<p>Article URL: <a href=\"https://wael.nasreddine.com/nixos/cdc-why-decompression-worth-co\">https://wael.nasreddine.com/nixos/cdc-why-decompression-worth-co</a></p>\n<p>Comments URL: <a href=\"https://ne...",
+      "published": "2026-02-22T06:29:45+00:00",
+      "domain": "wael.nasreddine.com",
       "scores": {
-        "chaos": 20.9,
+        "chaos": 3.0,
         "anarchy": 3.0,
-        "overall": 11.9
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Brood, a reference-first AI image editor for macOS",
+      "link": "https://github.com/kevinshowkat/brood",
+      "summary": "<p>I built Brood because I kept spending more time on prompt roulette than visual iteration.<p>Quick demo: <a href=\"https://youtu.be/yKy1BtNY9s4\" rel=\"nofollow\">https://youtu.be/yKy1BtNY9s4</a>\nInstal...",
+      "published": "2026-02-22T06:28:23+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Amazon's cloud unit hit by outage involving AI tools in December",
+      "link": "https://www.reuters.com/business/retail-consumer/amazons-cloud-unit-hit-by-least-two-outages-involving-ai-tools-ft-says-2026-02-20/",
+      "summary": "<p>Article URL: <a href=\"https://www.reuters.com/business/retail-consumer/amazons-cloud-unit-hit-by-least-two-outages-involving-ai-tools-ft-says-2026-02-20/\">https://www.reuters.com/business/retail-co...",
+      "published": "2026-02-22T06:25:57+00:00",
+      "domain": "reuters.com",
+      "scores": {
+        "chaos": 13.4,
+        "anarchy": 3.0,
+        "overall": 8.2
       },
       "keywords": {
         "chaos": [
-          "down",
-          "down",
-          "down"
+          "outage"
         ],
         "anarchy": []
       }
     },
     {
-      "title": "Riskiest CLO Funds Are Flashing a Warning Sign: Credit Weekly",
-      "link": "https://www.bloomberg.com/news/articles/2026-02-21/riskiest-clo-funds-are-flashing-a-warning-sign-credit-weekly",
-      "summary": "<p>Article URL: <a href=\"https://www.bloomberg.com/news/articles/2026-02-21/riskiest-clo-funds-are-flashing-a-warning-sign-credit-weekly\">https://www.bloomberg.com/news/articles/2026-02-21/riskiest-cl...",
-      "published": "2026-02-22T02:14:31+00:00",
-      "domain": "bloomberg.com",
+      "title": "U.S. Cannot Legally Impose Tariffs Using Section 122 of the Trade Act of 1974",
+      "link": "https://ielp.worldtradelaw.net/2026/01/guest-post-president-trump-cannot-legally-impose-tariffs-using-section-122-of-the-trade-act-of-1974/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47108538\">Comments</a>...",
+      "published": "2026-02-22T05:40:22+00:00",
+      "domain": "ielp.worldtradelaw.net",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -219,11 +267,11 @@
       }
     },
     {
-      "title": "The cost isn't building or buying \u2013 it's what comes after",
-      "link": "https://gobiraj.substack.com/p/ai-killed-the-saas-model-then-it",
-      "summary": "<p>Article URL: <a href=\"https://gobiraj.substack.com/p/ai-killed-the-saas-model-then-it\">https://gobiraj.substack.com/p/ai-killed-the-saas-model-then-it</a></p>\n<p>Comments URL: <a href=\"https://news...",
-      "published": "2026-02-22T02:13:00+00:00",
-      "domain": "gobiraj.substack.com",
+      "title": "Peter Thiel and other tech billionaires are publicly shielding their children from the products that made them rich",
+      "link": "https://www.reddit.com/r/technology/comments/1rbbewe/peter_thiel_and_other_tech_billionaires_are/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1rbbewe/peter_thiel_and_other_tech_billionaires_are/\"> <img alt=\"Peter Thiel and other tech billionaires are publicly shielding t...",
+      "published": "2026-02-22T03:42:21+00:00",
+      "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -235,11 +283,27 @@
       }
     },
     {
-      "title": "Chinese boxing robots win fans in San Francisco",
-      "link": "https://restofworld.org/2026/chinese-robot-boxing-unitree-rek/",
-      "summary": "<p>Article URL: <a href=\"https://restofworld.org/2026/chinese-robot-boxing-unitree-rek/\">https://restofworld.org/2026/chinese-robot-boxing-unitree-rek/</a></p>\n<p>Comments URL: <a href=\"https://news.y...",
-      "published": "2026-02-22T02:09:32+00:00",
-      "domain": "restofworld.org",
+      "title": "Japanese Woodblock Print Search",
+      "link": "https://ukiyo-e.org/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47107781\">Comments</a>...",
+      "published": "2026-02-22T03:18:36+00:00",
+      "domain": "ukiyo-e.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "A Botnet Accidentally Destroyed I2P",
+      "link": "https://www.sambent.com/a-botnet-accidentally-destroyed-i2p-the-full-story/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47106985\">Comments</a>...",
+      "published": "2026-02-22T01:08:17+00:00",
+      "domain": "sambent.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -256,70 +320,6 @@
       "summary": "<a href=\"https://news.ycombinator.com/item?id=47106686\">Comments</a>...",
       "published": "2026-02-22T00:29:05+00:00",
       "domain": "boristane.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Grok Exposed a Porn Performer\u2019s Legal Name and Birthdate\u2014Without Even Being Asked | In the latest in a string of privacy abuses from the chatbot, Grok provided porn performer Siri Dahl's full legal name and birthdate to the public, information she'd protected until now.",
-      "link": "https://www.reddit.com/r/technology/comments/1rb75og/grok_exposed_a_porn_performers_legal_name_and/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1rb75og/grok_exposed_a_porn_performers_legal_name_and/\"> <img alt=\"Grok Exposed a Porn Performer\u2019s Legal Name and Birthdate\u2014Witho...",
-      "published": "2026-02-22T00:21:52+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Are compilers deterministic?",
-      "link": "https://blog.onepatchdown.net/2026/02/22/are-compilers-deterministic-nerd-version/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47106626\">Comments</a>...",
-      "published": "2026-02-22T00:21:05+00:00",
-      "domain": "blog.onepatchdown.net",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Colorado Lawmakers Push for Age Verification at the Operating System Level",
-      "link": "https://www.reddit.com/r/technology/comments/1rb40s1/colorado_lawmakers_push_for_age_verification_at/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1rb40s1/colorado_lawmakers_push_for_age_verification_at/\"> <img alt=\"Colorado Lawmakers Push for Age Verification at the Operatin...",
-      "published": "2026-02-21T22:08:04+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Evidence of the bouba-kiki effect in na\u00efve baby chicks",
-      "link": "https://www.science.org/doi/10.1126/science.adq7188",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47105198\">Comments</a>...",
-      "published": "2026-02-21T21:51:58+00:00",
-      "domain": "science.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -333,30 +333,46 @@
   ],
   "overall_ranked": [
     {
-      "title": "Apple's AI Pendant Sounds Like a Watered-Down Humane AI Pin",
-      "link": "https://gizmodo.com/apples-ai-pendant-sounds-like-a-watered-down-humane-ai-pin-2000723004",
-      "summary": "<p>Article URL: <a href=\"https://gizmodo.com/apples-ai-pendant-sounds-like-a-watered-down-humane-ai-pin-2000723004\">https://gizmodo.com/apples-ai-pendant-sounds-like-a-watered-down-humane-ai-pin-20007...",
-      "published": "2026-02-22T02:18:47+00:00",
-      "domain": "gizmodo.com",
+      "title": "Amazon's cloud unit hit by outage involving AI tools in December",
+      "link": "https://www.reuters.com/business/retail-consumer/amazons-cloud-unit-hit-by-least-two-outages-involving-ai-tools-ft-says-2026-02-20/",
+      "summary": "<p>Article URL: <a href=\"https://www.reuters.com/business/retail-consumer/amazons-cloud-unit-hit-by-least-two-outages-involving-ai-tools-ft-says-2026-02-20/\">https://www.reuters.com/business/retail-co...",
+      "published": "2026-02-22T06:25:57+00:00",
+      "domain": "reuters.com",
       "scores": {
-        "chaos": 20.9,
+        "chaos": 13.4,
         "anarchy": 3.0,
-        "overall": 11.9
+        "overall": 8.2
       },
       "keywords": {
         "chaos": [
-          "down",
-          "down",
-          "down"
+          "outage"
         ],
         "anarchy": []
       }
     },
     {
-      "title": "Show HN: Turn Bilibili favorites into a personal RAG knowledge base",
-      "link": "https://github.com/via007/bilibili-rag",
-      "summary": "<p>I built this to solve a personal problem: I save many long-form Bilibili videos (talks/courses), but cannot retrieve key ideas later.<p>Pipeline:\n- Bilibili auth + favorites sync\n- Audio extraction...",
-      "published": "2026-02-22T02:19:02+00:00",
+      "title": "Claude Opus 4.6 Fast Mode: 2.5x Faster, 6x More Expensive",
+      "link": "https://www.marc0.dev/en/blog/claude-opus-4-6-fast-mode-pricing-6x-cost-breakdown-1770499078106",
+      "summary": "<p>Article URL: <a href=\"https://www.marc0.dev/en/blog/claude-opus-4-6-fast-mode-pricing-6x-cost-breakdown-1770499078106\">https://www.marc0.dev/en/blog/claude-opus-4-6-fast-mode-pricing-6x-cost-breakd...",
+      "published": "2026-02-22T06:36:43+00:00",
+      "domain": "marc0.dev",
+      "scores": {
+        "chaos": 12.8,
+        "anarchy": 3.0,
+        "overall": 7.9
+      },
+      "keywords": {
+        "chaos": [
+          "breakdown"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Built an open-source tool that lets you deploy containers to your VPS via MCP",
+      "link": "https://github.com/ddalcu/mcp-deploy",
+      "summary": "<p>Article URL: <a href=\"https://github.com/ddalcu/mcp-deploy\">https://github.com/ddalcu/mcp-deploy</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47108789\">https://news.ycombi...",
+      "published": "2026-02-22T06:35:52+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -369,11 +385,11 @@
       }
     },
     {
-      "title": "Riskiest CLO Funds Are Flashing a Warning Sign: Credit Weekly",
-      "link": "https://www.bloomberg.com/news/articles/2026-02-21/riskiest-clo-funds-are-flashing-a-warning-sign-credit-weekly",
-      "summary": "<p>Article URL: <a href=\"https://www.bloomberg.com/news/articles/2026-02-21/riskiest-clo-funds-are-flashing-a-warning-sign-credit-weekly\">https://www.bloomberg.com/news/articles/2026-02-21/riskiest-cl...",
-      "published": "2026-02-22T02:14:31+00:00",
-      "domain": "bloomberg.com",
+      "title": "CDC: Why Decompression Is Worth the Complexity",
+      "link": "https://wael.nasreddine.com/nixos/cdc-why-decompression-worth-co",
+      "summary": "<p>Article URL: <a href=\"https://wael.nasreddine.com/nixos/cdc-why-decompression-worth-co\">https://wael.nasreddine.com/nixos/cdc-why-decompression-worth-co</a></p>\n<p>Comments URL: <a href=\"https://ne...",
+      "published": "2026-02-22T06:29:45+00:00",
+      "domain": "wael.nasreddine.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -385,11 +401,11 @@
       }
     },
     {
-      "title": "The cost isn't building or buying \u2013 it's what comes after",
-      "link": "https://gobiraj.substack.com/p/ai-killed-the-saas-model-then-it",
-      "summary": "<p>Article URL: <a href=\"https://gobiraj.substack.com/p/ai-killed-the-saas-model-then-it\">https://gobiraj.substack.com/p/ai-killed-the-saas-model-then-it</a></p>\n<p>Comments URL: <a href=\"https://news...",
-      "published": "2026-02-22T02:13:00+00:00",
-      "domain": "gobiraj.substack.com",
+      "title": "Show HN: Brood, a reference-first AI image editor for macOS",
+      "link": "https://github.com/kevinshowkat/brood",
+      "summary": "<p>I built Brood because I kept spending more time on prompt roulette than visual iteration.<p>Quick demo: <a href=\"https://youtu.be/yKy1BtNY9s4\" rel=\"nofollow\">https://youtu.be/yKy1BtNY9s4</a>\nInstal...",
+      "published": "2026-02-22T06:28:23+00:00",
+      "domain": "github.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -401,11 +417,59 @@
       }
     },
     {
-      "title": "Chinese boxing robots win fans in San Francisco",
-      "link": "https://restofworld.org/2026/chinese-robot-boxing-unitree-rek/",
-      "summary": "<p>Article URL: <a href=\"https://restofworld.org/2026/chinese-robot-boxing-unitree-rek/\">https://restofworld.org/2026/chinese-robot-boxing-unitree-rek/</a></p>\n<p>Comments URL: <a href=\"https://news.y...",
-      "published": "2026-02-22T02:09:32+00:00",
-      "domain": "restofworld.org",
+      "title": "U.S. Cannot Legally Impose Tariffs Using Section 122 of the Trade Act of 1974",
+      "link": "https://ielp.worldtradelaw.net/2026/01/guest-post-president-trump-cannot-legally-impose-tariffs-using-section-122-of-the-trade-act-of-1974/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47108538\">Comments</a>...",
+      "published": "2026-02-22T05:40:22+00:00",
+      "domain": "ielp.worldtradelaw.net",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Peter Thiel and other tech billionaires are publicly shielding their children from the products that made them rich",
+      "link": "https://www.reddit.com/r/technology/comments/1rbbewe/peter_thiel_and_other_tech_billionaires_are/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1rbbewe/peter_thiel_and_other_tech_billionaires_are/\"> <img alt=\"Peter Thiel and other tech billionaires are publicly shielding t...",
+      "published": "2026-02-22T03:42:21+00:00",
+      "domain": "reddit.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Japanese Woodblock Print Search",
+      "link": "https://ukiyo-e.org/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47107781\">Comments</a>...",
+      "published": "2026-02-22T03:18:36+00:00",
+      "domain": "ukiyo-e.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "A Botnet Accidentally Destroyed I2P",
+      "link": "https://www.sambent.com/a-botnet-accidentally-destroyed-i2p-the-full-story/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47106985\">Comments</a>...",
+      "published": "2026-02-22T01:08:17+00:00",
+      "domain": "sambent.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -422,70 +486,6 @@
       "summary": "<a href=\"https://news.ycombinator.com/item?id=47106686\">Comments</a>...",
       "published": "2026-02-22T00:29:05+00:00",
       "domain": "boristane.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Grok Exposed a Porn Performer\u2019s Legal Name and Birthdate\u2014Without Even Being Asked | In the latest in a string of privacy abuses from the chatbot, Grok provided porn performer Siri Dahl's full legal name and birthdate to the public, information she'd protected until now.",
-      "link": "https://www.reddit.com/r/technology/comments/1rb75og/grok_exposed_a_porn_performers_legal_name_and/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1rb75og/grok_exposed_a_porn_performers_legal_name_and/\"> <img alt=\"Grok Exposed a Porn Performer\u2019s Legal Name and Birthdate\u2014Witho...",
-      "published": "2026-02-22T00:21:52+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Are compilers deterministic?",
-      "link": "https://blog.onepatchdown.net/2026/02/22/are-compilers-deterministic-nerd-version/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47106626\">Comments</a>...",
-      "published": "2026-02-22T00:21:05+00:00",
-      "domain": "blog.onepatchdown.net",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Colorado Lawmakers Push for Age Verification at the Operating System Level",
-      "link": "https://www.reddit.com/r/technology/comments/1rb40s1/colorado_lawmakers_push_for_age_verification_at/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1rb40s1/colorado_lawmakers_push_for_age_verification_at/\"> <img alt=\"Colorado Lawmakers Push for Age Verification at the Operatin...",
-      "published": "2026-02-21T22:08:04+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Evidence of the bouba-kiki effect in na\u00efve baby chicks",
-      "link": "https://www.science.org/doi/10.1126/science.adq7188",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47105198\">Comments</a>...",
-      "published": "2026-02-21T21:51:58+00:00",
-      "domain": "science.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -499,10 +499,28 @@
   ],
   "all_articles": [
     {
-      "title": "Show HN: Turn Bilibili favorites into a personal RAG knowledge base",
-      "link": "https://github.com/via007/bilibili-rag",
-      "summary": "<p>I built this to solve a personal problem: I save many long-form Bilibili videos (talks/courses), but cannot retrieve key ideas later.<p>Pipeline:\n- Bilibili auth + favorites sync\n- Audio extraction...",
-      "published": "2026-02-22T02:19:02+00:00",
+      "title": "Claude Opus 4.6 Fast Mode: 2.5x Faster, 6x More Expensive",
+      "link": "https://www.marc0.dev/en/blog/claude-opus-4-6-fast-mode-pricing-6x-cost-breakdown-1770499078106",
+      "summary": "<p>Article URL: <a href=\"https://www.marc0.dev/en/blog/claude-opus-4-6-fast-mode-pricing-6x-cost-breakdown-1770499078106\">https://www.marc0.dev/en/blog/claude-opus-4-6-fast-mode-pricing-6x-cost-breakd...",
+      "published": "2026-02-22T06:36:43+00:00",
+      "domain": "marc0.dev",
+      "scores": {
+        "chaos": 12.8,
+        "anarchy": 3.0,
+        "overall": 7.9
+      },
+      "keywords": {
+        "chaos": [
+          "breakdown"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Built an open-source tool that lets you deploy containers to your VPS via MCP",
+      "link": "https://github.com/ddalcu/mcp-deploy",
+      "summary": "<p>Article URL: <a href=\"https://github.com/ddalcu/mcp-deploy\">https://github.com/ddalcu/mcp-deploy</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47108789\">https://news.ycombi...",
+      "published": "2026-02-22T06:35:52+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -515,31 +533,61 @@
       }
     },
     {
-      "title": "Apple's AI Pendant Sounds Like a Watered-Down Humane AI Pin",
-      "link": "https://gizmodo.com/apples-ai-pendant-sounds-like-a-watered-down-humane-ai-pin-2000723004",
-      "summary": "<p>Article URL: <a href=\"https://gizmodo.com/apples-ai-pendant-sounds-like-a-watered-down-humane-ai-pin-2000723004\">https://gizmodo.com/apples-ai-pendant-sounds-like-a-watered-down-humane-ai-pin-20007...",
-      "published": "2026-02-22T02:18:47+00:00",
-      "domain": "gizmodo.com",
+      "title": "CDC: Why Decompression Is Worth the Complexity",
+      "link": "https://wael.nasreddine.com/nixos/cdc-why-decompression-worth-co",
+      "summary": "<p>Article URL: <a href=\"https://wael.nasreddine.com/nixos/cdc-why-decompression-worth-co\">https://wael.nasreddine.com/nixos/cdc-why-decompression-worth-co</a></p>\n<p>Comments URL: <a href=\"https://ne...",
+      "published": "2026-02-22T06:29:45+00:00",
+      "domain": "wael.nasreddine.com",
       "scores": {
-        "chaos": 20.9,
+        "chaos": 3.0,
         "anarchy": 3.0,
-        "overall": 11.9
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Brood, a reference-first AI image editor for macOS",
+      "link": "https://github.com/kevinshowkat/brood",
+      "summary": "<p>I built Brood because I kept spending more time on prompt roulette than visual iteration.<p>Quick demo: <a href=\"https://youtu.be/yKy1BtNY9s4\" rel=\"nofollow\">https://youtu.be/yKy1BtNY9s4</a>\nInstal...",
+      "published": "2026-02-22T06:28:23+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Amazon's cloud unit hit by outage involving AI tools in December",
+      "link": "https://www.reuters.com/business/retail-consumer/amazons-cloud-unit-hit-by-least-two-outages-involving-ai-tools-ft-says-2026-02-20/",
+      "summary": "<p>Article URL: <a href=\"https://www.reuters.com/business/retail-consumer/amazons-cloud-unit-hit-by-least-two-outages-involving-ai-tools-ft-says-2026-02-20/\">https://www.reuters.com/business/retail-co...",
+      "published": "2026-02-22T06:25:57+00:00",
+      "domain": "reuters.com",
+      "scores": {
+        "chaos": 13.4,
+        "anarchy": 3.0,
+        "overall": 8.2
       },
       "keywords": {
         "chaos": [
-          "down",
-          "down",
-          "down"
+          "outage"
         ],
         "anarchy": []
       }
     },
     {
-      "title": "Riskiest CLO Funds Are Flashing a Warning Sign: Credit Weekly",
-      "link": "https://www.bloomberg.com/news/articles/2026-02-21/riskiest-clo-funds-are-flashing-a-warning-sign-credit-weekly",
-      "summary": "<p>Article URL: <a href=\"https://www.bloomberg.com/news/articles/2026-02-21/riskiest-clo-funds-are-flashing-a-warning-sign-credit-weekly\">https://www.bloomberg.com/news/articles/2026-02-21/riskiest-cl...",
-      "published": "2026-02-22T02:14:31+00:00",
-      "domain": "bloomberg.com",
+      "title": "U.S. Cannot Legally Impose Tariffs Using Section 122 of the Trade Act of 1974",
+      "link": "https://ielp.worldtradelaw.net/2026/01/guest-post-president-trump-cannot-legally-impose-tariffs-using-section-122-of-the-trade-act-of-1974/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47108538\">Comments</a>...",
+      "published": "2026-02-22T05:40:22+00:00",
+      "domain": "ielp.worldtradelaw.net",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -551,11 +599,11 @@
       }
     },
     {
-      "title": "The cost isn't building or buying \u2013 it's what comes after",
-      "link": "https://gobiraj.substack.com/p/ai-killed-the-saas-model-then-it",
-      "summary": "<p>Article URL: <a href=\"https://gobiraj.substack.com/p/ai-killed-the-saas-model-then-it\">https://gobiraj.substack.com/p/ai-killed-the-saas-model-then-it</a></p>\n<p>Comments URL: <a href=\"https://news...",
-      "published": "2026-02-22T02:13:00+00:00",
-      "domain": "gobiraj.substack.com",
+      "title": "Peter Thiel and other tech billionaires are publicly shielding their children from the products that made them rich",
+      "link": "https://www.reddit.com/r/technology/comments/1rbbewe/peter_thiel_and_other_tech_billionaires_are/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1rbbewe/peter_thiel_and_other_tech_billionaires_are/\"> <img alt=\"Peter Thiel and other tech billionaires are publicly shielding t...",
+      "published": "2026-02-22T03:42:21+00:00",
+      "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -567,11 +615,27 @@
       }
     },
     {
-      "title": "Chinese boxing robots win fans in San Francisco",
-      "link": "https://restofworld.org/2026/chinese-robot-boxing-unitree-rek/",
-      "summary": "<p>Article URL: <a href=\"https://restofworld.org/2026/chinese-robot-boxing-unitree-rek/\">https://restofworld.org/2026/chinese-robot-boxing-unitree-rek/</a></p>\n<p>Comments URL: <a href=\"https://news.y...",
-      "published": "2026-02-22T02:09:32+00:00",
-      "domain": "restofworld.org",
+      "title": "Japanese Woodblock Print Search",
+      "link": "https://ukiyo-e.org/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47107781\">Comments</a>...",
+      "published": "2026-02-22T03:18:36+00:00",
+      "domain": "ukiyo-e.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "A Botnet Accidentally Destroyed I2P",
+      "link": "https://www.sambent.com/a-botnet-accidentally-destroyed-i2p-the-full-story/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47106985\">Comments</a>...",
+      "published": "2026-02-22T01:08:17+00:00",
+      "domain": "sambent.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -588,70 +652,6 @@
       "summary": "<a href=\"https://news.ycombinator.com/item?id=47106686\">Comments</a>...",
       "published": "2026-02-22T00:29:05+00:00",
       "domain": "boristane.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Grok Exposed a Porn Performer\u2019s Legal Name and Birthdate\u2014Without Even Being Asked | In the latest in a string of privacy abuses from the chatbot, Grok provided porn performer Siri Dahl's full legal name and birthdate to the public, information she'd protected until now.",
-      "link": "https://www.reddit.com/r/technology/comments/1rb75og/grok_exposed_a_porn_performers_legal_name_and/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1rb75og/grok_exposed_a_porn_performers_legal_name_and/\"> <img alt=\"Grok Exposed a Porn Performer\u2019s Legal Name and Birthdate\u2014Witho...",
-      "published": "2026-02-22T00:21:52+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Are compilers deterministic?",
-      "link": "https://blog.onepatchdown.net/2026/02/22/are-compilers-deterministic-nerd-version/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47106626\">Comments</a>...",
-      "published": "2026-02-22T00:21:05+00:00",
-      "domain": "blog.onepatchdown.net",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Colorado Lawmakers Push for Age Verification at the Operating System Level",
-      "link": "https://www.reddit.com/r/technology/comments/1rb40s1/colorado_lawmakers_push_for_age_verification_at/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1rb40s1/colorado_lawmakers_push_for_age_verification_at/\"> <img alt=\"Colorado Lawmakers Push for Age Verification at the Operatin...",
-      "published": "2026-02-21T22:08:04+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Evidence of the bouba-kiki effect in na\u00efve baby chicks",
-      "link": "https://www.science.org/doi/10.1126/science.adq7188",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47105198\">Comments</a>...",
-      "published": "2026-02-21T21:51:58+00:00",
-      "domain": "science.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,

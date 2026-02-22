@@ -16,17 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Apple's AI Pendant Sounds Like a Watered-Down Humane AI Pin
+### Amazon's cloud unit hit by outage involving AI tools in December
 - **Published**: February 22, 2026
-- **Summary**: https://gizmodo.com/apples-ai-pendant-sounds-like-a-watered-down-humane-ai-pin-20007......
-- **Keywords**: down, down, down
-- [Read more](https://gizmodo.com/apples-ai-pendant-sounds-like-a-watered-down-humane-ai-pin-2000723004)
+- **Summary**: https://www.reuters.com/business/retail-co......
+- **Keywords**: outage
+- [Read more](https://www.reuters.com/business/retail-consumer/amazons-cloud-unit-hit-by-least-two-outages-involving-ai-tools-ft-says-2026-02-20/)
 
-### Show HN: Turn Bilibili favorites into a personal RAG knowledge base
+### Claude Opus 4.6 Fast Mode: 2.5x Faster, 6x More Expensive
 - **Published**: February 22, 2026
-- **Summary**: <p>I built this to solve a personal problem: I save many long-form Bilibili videos (talks/courses), but cannot retrieve key ideas later.<p>Pipeline:
--...
-- [Read more](https://github.com/via007/bilibili-rag)
+- **Summary**: https://www.marc0.dev/en/blog/claude-opus-4-6-fast-mode-pricing-6x-cost-breakd......
+- **Keywords**: breakdown
+- [Read more](https://www.marc0.dev/en/blog/claude-opus-4-6-fast-mode-pricing-6x-cost-breakdown-1770499078106)
 
 ---
 
