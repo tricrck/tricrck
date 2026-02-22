@@ -16,17 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### The API Tooling Crisis
+### Fresh File Explorer – VS Code extension for navigating recent work
 - **Published**: February 22, 2026
-- **Summary**: http://efp.asia/blog/2025/12/24/api-tooling-crisis/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id......
-- **Keywords**: crisis, crisis, crisis
-- [Read more](http://efp.asia/blog/2025/12/24/api-tooling-crisis/)
+- **Summary**: ......
+- [Read more](https://github.com/FreHu/vscode-fresh-file-explorer)
 
-### The Dance Floor Is Disappearing in a Sea of Phones
+### AI blamed again as hard drives are sold out for this year
 - **Published**: February 22, 2026
-- **Summary**: https://www.bloomberg.com/news/features/2026-02-20/a-boom-in-elec......
-- [Read more](https://www.bloomberg.com/news/features/2026-02-20/a-boom-in-electronic-dance-music-is-changing-club-culture)
+- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1rbrge1/ai_blamed_again_as_hard_drives_are_sold_out_for/"> <img alt="AI blamed again as har...
+- [Read more](https://www.reddit.com/r/technology/comments/1rbrge1/ai_blamed_again_as_hard_drives_are_sold_out_for/)
 
 ---
 
