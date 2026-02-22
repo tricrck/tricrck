@@ -16,17 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Amazon's cloud unit hit by outage involving AI tools in December
+### The API Tooling Crisis
 - **Published**: February 22, 2026
-- **Summary**: https://www.reuters.com/business/retail-co......
-- **Keywords**: outage
-- [Read more](https://www.reuters.com/business/retail-consumer/amazons-cloud-unit-hit-by-least-two-outages-involving-ai-tools-ft-says-2026-02-20/)
+- **Summary**: http://efp.asia/blog/2025/12/24/api-tooling-crisis/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id......
+- **Keywords**: crisis, crisis, crisis
+- [Read more](http://efp.asia/blog/2025/12/24/api-tooling-crisis/)
 
-### Claude Opus 4.6 Fast Mode: 2.5x Faster, 6x More Expensive
+### The Dance Floor Is Disappearing in a Sea of Phones
 - **Published**: February 22, 2026
-- **Summary**: https://www.marc0.dev/en/blog/claude-opus-4-6-fast-mode-pricing-6x-cost-breakd......
-- **Keywords**: breakdown
-- [Read more](https://www.marc0.dev/en/blog/claude-opus-4-6-fast-mode-pricing-6x-cost-breakdown-1770499078106)
+- **Summary**: https://www.bloomberg.com/news/features/2026-02-20/a-boom-in-elec......
+- [Read more](https://www.bloomberg.com/news/features/2026-02-20/a-boom-in-electronic-dance-music-is-changing-club-culture)
 
 ---
 
