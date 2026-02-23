@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Elsevier shuts down its finance journal citation cartel
+### Life at the Frontlines of Demographic Collapse
 - **Published**: February 23, 2026
-- **Summary**: ......
-- **Keywords**: down
-- [Read more](https://www.chrisbrunet.com/p/elsevier-shuts-down-its-finance-journal)
+- **Summary**: https://www.lesswrong.com/posts/FreZTE9Bc7reNnap7/life-at-the-frontlines-of-d......
+- **Keywords**: collapse, collapse
+- [Read more](https://www.lesswrong.com/posts/FreZTE9Bc7reNnap7/life-at-the-frontlines-of-demographic-collapse)
 
-### How Exposed Endpoints Increase Risk Across LLM Infrastructure
+### Wormable XMRig Campaign Uses BYOVD Exploit and Time-Based Logic Bomb
 - **Published**: February 23, 2026
-- **Summary**: As more organizations run their own Large Language Models (LLMs), they are also deploying more internal services and Application Programming Interface...
-- [Read more](https://thehackernews.com/2026/02/how-exposed-endpoints-increase-risk.html)
+- **Summary**: Cybersecurity researchers have disclosed details of a new cryptojacking campaign that uses pirated software bundles as lures to deploy a bespoke XMRig...
+- [Read more](https://thehackernews.com/2026/02/wormable-xmrig-campaign-uses-byovd.html)
 
 ---
 
