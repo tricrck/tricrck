@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Fresh File Explorer – VS Code extension for navigating recent work
+### The surprising power of daily rituals
+- **Published**: February 23, 2026
+- **Summary**: ......
+- [Read more](https://www.bbc.com/future/article/20210914-how-rituals-help-us-to-deal-with-uncertainty-and-stress)
+
+### Google restricting Google AI Pro/Ultra subscribers for using OpenClaw
 - **Published**: February 22, 2026
 - **Summary**: ......
-- [Read more](https://github.com/FreHu/vscode-fresh-file-explorer)
-
-### AI blamed again as hard drives are sold out for this year
-- **Published**: February 22, 2026
-- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1rbrge1/ai_blamed_again_as_hard_drives_are_sold_out_for/"> <img alt="AI blamed again as har...
-- [Read more](https://www.reddit.com/r/technology/comments/1rbrge1/ai_blamed_again_as_hard_drives_are_sold_out_for/)
+- [Read more](https://discuss.ai.google.dev/t/account-restricted-without-warning-google-ai-ultra-oauth-via-openclaw/122778)
 
 ---
 
