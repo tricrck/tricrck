@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### The surprising power of daily rituals
+### The JavaScript Oxidation Compiler
 - **Published**: February 23, 2026
 - **Summary**: ......
-- [Read more](https://www.bbc.com/future/article/20210914-how-rituals-help-us-to-deal-with-uncertainty-and-stress)
+- [Read more](https://oxc.rs/)
 
-### Google restricting Google AI Pro/Ultra subscribers for using OpenClaw
-- **Published**: February 22, 2026
-- **Summary**: ......
-- [Read more](https://discuss.ai.google.dev/t/account-restricted-without-warning-google-ai-ultra-oauth-via-openclaw/122778)
+### Conduent data breach could be largest in U.S. history
+- **Published**: February 23, 2026
+- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1rc4x01/conduent_data_breach_could_be_largest_in_us/"> <img alt="Conduent data breach could...
+- [Read more](https://www.reddit.com/r/technology/comments/1rc4x01/conduent_data_breach_could_be_largest_in_us/)
 
 ---
 
