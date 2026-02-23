@@ -16,15 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### The JavaScript Oxidation Compiler
+### Elsevier shuts down its finance journal citation cartel
 - **Published**: February 23, 2026
 - **Summary**: ......
-- [Read more](https://oxc.rs/)
+- **Keywords**: down
+- [Read more](https://www.chrisbrunet.com/p/elsevier-shuts-down-its-finance-journal)
 
-### Conduent data breach could be largest in U.S. history
+### How Exposed Endpoints Increase Risk Across LLM Infrastructure
 - **Published**: February 23, 2026
-- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1rc4x01/conduent_data_breach_could_be_largest_in_us/"> <img alt="Conduent data breach could...
-- [Read more](https://www.reddit.com/r/technology/comments/1rc4x01/conduent_data_breach_could_be_largest_in_us/)
+- **Summary**: As more organizations run their own Large Language Models (LLMs), they are also deploying more internal services and Application Programming Interface...
+- [Read more](https://thehackernews.com/2026/02/how-exposed-endpoints-increase-risk.html)
 
 ---
 
