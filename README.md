@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Life at the Frontlines of Demographic Collapse
-- **Published**: February 23, 2026
-- **Summary**: https://www.lesswrong.com/posts/FreZTE9Bc7reNnap7/life-at-the-frontlines-of-d......
-- **Keywords**: collapse, collapse
-- [Read more](https://www.lesswrong.com/posts/FreZTE9Bc7reNnap7/life-at-the-frontlines-of-demographic-collapse)
+### Show HN: Indie AI Directory – A Curated List of Indie AI Tools
+- **Published**: February 24, 2026
+- **Summary**: <p>I’m the maker of Indie AI Directory — a purpose-built catalog that highlights independent AI tools, startups, APIs, and experiments built by makers...
+- [Read more](https://indieai.directory/)
 
-### Wormable XMRig Campaign Uses BYOVD Exploit and Time-Based Logic Bomb
-- **Published**: February 23, 2026
-- **Summary**: Cybersecurity researchers have disclosed details of a new cryptojacking campaign that uses pirated software bundles as lures to deploy a bespoke XMRig...
-- [Read more](https://thehackernews.com/2026/02/wormable-xmrig-campaign-uses-byovd.html)
+### MacSync Infostealer via ClickFix and Claude Artifact Abuse
+- **Published**: February 24, 2026
+- **Summary**: https://www.anvilogic.com/threat-reports/macsync-infostealer-via-clickfix-clau......
+- [Read more](https://www.anvilogic.com/threat-reports/macsync-infostealer-via-clickfix-claude-artifact-abuse)
 
 ---
 
