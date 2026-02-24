@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Identity Prioritization isn't a Backlog Problem - It's a Risk Math Problem
+### UAC-0050 Targets European Financial Institution With Spoofed Domain and RMS Malware
 - **Published**: February 24, 2026
-- **Summary**: Most identity programs still prioritize work the way they prioritize IT tickets: by volume, loudness, or “what failed a control check.” That approach ...
-- [Read more](https://thehackernews.com/2026/02/identity-prioritization-isnt-backlog.html)
+- **Summary**: A Russia-aligned threat actor has been observed targeting a European financial institution as part of a social engineering attack to likely facilitate...
+- [Read more](https://thehackernews.com/2026/02/uac-0050-targets-european-financial.html)
 
-### Lazarus Group Uses Medusa Ransomware in Middle East and U.S. Healthcare Attacks
+### Testing Super Mario Using a Behavior Model Autonomously – Finding Real Bugs
 - **Published**: February 24, 2026
-- **Summary**: The North Korea-linked Lazarus Group (aka Diamond Sleet and Pompilus) has been observed using Medusa ransomware in an attack targeting an unnamed enti...
-- [Read more](https://thehackernews.com/2026/02/lazarus-group-uses-medusa-ransomware-in.html)
+- **Summary**: https://testflows.com/blog/testing-super-mario-using-a-behavior-model-autonomously-p......
+- [Read more](https://testflows.com/blog/testing-super-mario-using-a-behavior-model-autonomously-part2/)
 
 ---
 
