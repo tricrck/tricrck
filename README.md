@@ -16,15 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Show HN: Indie AI Directory – A Curated List of Indie AI Tools
+### Wealthy spouses are hiding crypto assets in divorce cases, say lawyers
 - **Published**: February 24, 2026
-- **Summary**: <p>I’m the maker of Indie AI Directory — a purpose-built catalog that highlights independent AI tools, startups, APIs, and experiments built by makers...
-- [Read more](https://indieai.directory/)
+- **Summary**: https://www.ft.com/content/df01cdb5-aac8-4d41-bbd8-56a198694394</a></p>
+<p>Comments URL: <a href="https://news......
+- [Read more](https://www.ft.com/content/df01cdb5-aac8-4d41-bbd8-56a198694394)
 
-### MacSync Infostealer via ClickFix and Claude Artifact Abuse
+### Show HN: Scheme-langserver – Digest incomplete code with static analysis
 - **Published**: February 24, 2026
-- **Summary**: https://www.anvilogic.com/threat-reports/macsync-infostealer-via-clickfix-clau......
-- [Read more](https://www.anvilogic.com/threat-reports/macsync-infostealer-via-clickfix-claude-artifact-abuse)
+- **Summary**: <p>Scheme-langserver digest incomplete Scheme code to serve real-world programming requirements, including goto-definition, auto-completion, type infe...
+- [Read more](https://github.com/ufo5260987423/scheme-langserver)
 
 ---
 
