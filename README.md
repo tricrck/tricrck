@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Wealthy spouses are hiding crypto assets in divorce cases, say lawyers
+### Identity Prioritization isn't a Backlog Problem - It's a Risk Math Problem
 - **Published**: February 24, 2026
-- **Summary**: https://www.ft.com/content/df01cdb5-aac8-4d41-bbd8-56a198694394</a></p>
-<p>Comments URL: <a href="https://news......
-- [Read more](https://www.ft.com/content/df01cdb5-aac8-4d41-bbd8-56a198694394)
+- **Summary**: Most identity programs still prioritize work the way they prioritize IT tickets: by volume, loudness, or “what failed a control check.” That approach ...
+- [Read more](https://thehackernews.com/2026/02/identity-prioritization-isnt-backlog.html)
 
-### Show HN: Scheme-langserver – Digest incomplete code with static analysis
+### Lazarus Group Uses Medusa Ransomware in Middle East and U.S. Healthcare Attacks
 - **Published**: February 24, 2026
-- **Summary**: <p>Scheme-langserver digest incomplete Scheme code to serve real-world programming requirements, including goto-definition, auto-completion, type infe...
-- [Read more](https://github.com/ufo5260987423/scheme-langserver)
+- **Summary**: The North Korea-linked Lazarus Group (aka Diamond Sleet and Pompilus) has been observed using Medusa ransomware in an attack targeting an unnamed enti...
+- [Read more](https://thehackernews.com/2026/02/lazarus-group-uses-medusa-ransomware-in.html)
 
 ---
 
