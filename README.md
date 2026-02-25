@@ -16,17 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### An Elephant Is Blind Without the Hairs on Its Trunk
+### CISA Confirms Active Exploitation of FileZen CVE-2026-25108 Vulnerability
 - **Published**: February 25, 2026
-- **Summary**: https://www.nytimes.com/2026/02/12/science/elephant-whiskers.html</a></p>
-<p>Comments URL: <a href="https://......
-- [Read more](https://www.nytimes.com/2026/02/12/science/elephant-whiskers.html)
+- **Summary**: The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a recently disclosed vulnerability in FileZen to its Known Exploited...
+- [Read more](https://thehackernews.com/2026/02/cisa-confirms-active-exploitation-of.html)
 
-### RFC Explorer – Explore over 9000 RFCs
+### Show HN: Open-Source Business Intelligence Platform
 - **Published**: February 25, 2026
-- **Summary**: https://rfcexplorer.net/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47146426">https://news.ycombinator.com/item?id=471464....
-- [Read more](https://rfcexplorer.net/)
+- **Summary**: <p>I got tired of the increasing gap between the open source and closed source products for business intelligence and data analytics in terms of produ...
+- [Read more](https://github.com/sopho-tech/sopho)
 
 ---
 
