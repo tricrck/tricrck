@@ -16,15 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### CISA Confirms Active Exploitation of FileZen CVE-2026-25108 Vulnerability
+### Manual Processes Are Putting National Security at Risk
 - **Published**: February 25, 2026
-- **Summary**: The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a recently disclosed vulnerability in FileZen to its Known Exploited...
-- [Read more](https://thehackernews.com/2026/02/cisa-confirms-active-exploitation-of.html)
+- **Summary**: Why automating sensitive data transfers is now a mission-critical priority
+More than half of national security organizations still rely on manual proc...
+- [Read more](https://thehackernews.com/2026/02/manual-processes-are-putting-national.html)
 
-### Show HN: Open-Source Business Intelligence Platform
+### Defense Contractor Employee Jailed for Selling 8 Zero-Days to Russian Broker
 - **Published**: February 25, 2026
-- **Summary**: <p>I got tired of the increasing gap between the open source and closed source products for business intelligence and data analytics in terms of produ...
-- [Read more](https://github.com/sopho-tech/sopho)
+- **Summary**: A 39-year-old Australian national who was previously employed at U.S. defense contractor L3Harris has been sentenced to a little over seven years in p...
+- [Read more](https://thehackernews.com/2026/02/defense-contractor-employee-jailed-for.html)
 
 ---
 
