@@ -16,16 +16,18 @@
 
 ## 🚨 Tech Stories
 
-### Manual Processes Are Putting National Security at Risk
+### Google Disrupts UNC2814 GRIDTIDE Campaign After 53 Breaches Across 42 Countries
 - **Published**: February 25, 2026
-- **Summary**: Why automating sensitive data transfers is now a mission-critical priority
-More than half of national security organizations still rely on manual proc...
-- [Read more](https://thehackernews.com/2026/02/manual-processes-are-putting-national.html)
+- **Summary**: Google on Wednesday disclosed that it worked with industry partners to disrupt the infrastructure of a suspected China-nexus cyber espionage group tra...
+- **Keywords**: disrupt
+- [Read more](https://thehackernews.com/2026/02/google-disrupts-unc2814-gridtide.html)
 
-### Defense Contractor Employee Jailed for Selling 8 Zero-Days to Russian Broker
+### Top 5 Ways Broken Triage Increases Business Risk Instead of Reducing It
 - **Published**: February 25, 2026
-- **Summary**: A 39-year-old Australian national who was previously employed at U.S. defense contractor L3Harris has been sentenced to a little over seven years in p...
-- [Read more](https://thehackernews.com/2026/02/defense-contractor-employee-jailed-for.html)
+- **Summary**: Triage is supposed to make things simpler. In a lot of teams, it does the opposite.
+When you can’t reach a confident verdict early, alerts turn into r...
+- **Keywords**: broken
+- [Read more](https://thehackernews.com/2026/02/top-5-ways-broken-triage-increases.html)
 
 ---
 
