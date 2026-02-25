@@ -16,15 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### UAC-0050 Targets European Financial Institution With Spoofed Domain and RMS Malware
-- **Published**: February 24, 2026
-- **Summary**: A Russia-aligned threat actor has been observed targeting a European financial institution as part of a social engineering attack to likely facilitate...
-- [Read more](https://thehackernews.com/2026/02/uac-0050-targets-european-financial.html)
+### An Elephant Is Blind Without the Hairs on Its Trunk
+- **Published**: February 25, 2026
+- **Summary**: https://www.nytimes.com/2026/02/12/science/elephant-whiskers.html</a></p>
+<p>Comments URL: <a href="https://......
+- [Read more](https://www.nytimes.com/2026/02/12/science/elephant-whiskers.html)
 
-### Testing Super Mario Using a Behavior Model Autonomously – Finding Real Bugs
-- **Published**: February 24, 2026
-- **Summary**: https://testflows.com/blog/testing-super-mario-using-a-behavior-model-autonomously-p......
-- [Read more](https://testflows.com/blog/testing-super-mario-using-a-behavior-model-autonomously-part2/)
+### RFC Explorer – Explore over 9000 RFCs
+- **Published**: February 25, 2026
+- **Summary**: https://rfcexplorer.net/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47146426">https://news.ycombinator.com/item?id=471464....
+- [Read more](https://rfcexplorer.net/)
 
 ---
 
