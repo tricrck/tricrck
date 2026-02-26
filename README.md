@@ -16,18 +16,17 @@
 
 ## 🚨 Tech Stories
 
+### Could users acting en masse take a major website down?
+- **Published**: February 26, 2026
+- **Summary**: <p>Are there any ways that coordinated activity by large numbers of users could take down a major website? (And if there are, how large would the numb...
+- **Keywords**: down, down
+- [Read more](https://news.ycombinator.com/item?id=47160853)
+
 ### Google Disrupts UNC2814 GRIDTIDE Campaign After 53 Breaches Across 42 Countries
 - **Published**: February 25, 2026
 - **Summary**: Google on Wednesday disclosed that it worked with industry partners to disrupt the infrastructure of a suspected China-nexus cyber espionage group tra...
 - **Keywords**: disrupt
 - [Read more](https://thehackernews.com/2026/02/google-disrupts-unc2814-gridtide.html)
-
-### Top 5 Ways Broken Triage Increases Business Risk Instead of Reducing It
-- **Published**: February 25, 2026
-- **Summary**: Triage is supposed to make things simpler. In a lot of teams, it does the opposite.
-When you can’t reach a confident verdict early, alerts turn into r...
-- **Keywords**: broken
-- [Read more](https://thehackernews.com/2026/02/top-5-ways-broken-triage-increases.html)
 
 ---
 
