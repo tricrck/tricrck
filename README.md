@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### RAM now represents 35 percent of bill of materials for HP PCs
+### There's a competition crisis in America's state legislatures
 - **Published**: February 26, 2026
-- **Summary**: ......
-- [Read more](https://arstechnica.com/gadgets/2026/02/ram-now-represents-35-percent-of-bill-of-materials-for-hp-pcs/)
+- **Summary**: https://theconversation.com/theres-a-competition-cri......
+- **Keywords**: crisis, crisis
+- [Read more](https://theconversation.com/theres-a-competition-crisis-in-americas-state-legislatures-and-thats-bad-for-democracy-273436)
 
-### Google Disrupts UNC2814 GRIDTIDE Campaign After 53 Breaches Across 42 Countries
-- **Published**: February 25, 2026
-- **Summary**: Google on Wednesday disclosed that it worked with industry partners to disrupt the infrastructure of a suspected China-nexus cyber espionage group tra...
-- **Keywords**: disrupt
-- [Read more](https://thehackernews.com/2026/02/google-disrupts-unc2814-gridtide.html)
+### Microsoft Warns Developers of Fake Next.js Job Repos Delivering In-Memory Malware
+- **Published**: February 26, 2026
+- **Summary**: A "coordinated developer-targeting campaign" is using malicious repositories disguised as legitimate Next.js projects and technical assessments to tri...
+- [Read more](https://thehackernews.com/2026/02/fake-nextjs-repos-target-developers.html)
 
 ---
 

@@ -1,15 +1,34 @@
 {
   "chaos_ranked": [
     {
-      "title": "RAM now represents 35 percent of bill of materials for HP PCs",
-      "link": "https://arstechnica.com/gadgets/2026/02/ram-now-represents-35-percent-of-bill-of-materials-for-hp-pcs/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47161160\">Comments</a>...",
-      "published": "2026-02-26T02:43:26+00:00",
-      "domain": "arstechnica.com",
+      "title": "There's a competition crisis in America's state legislatures",
+      "link": "https://theconversation.com/theres-a-competition-crisis-in-americas-state-legislatures-and-thats-bad-for-democracy-273436",
+      "summary": "<p>Article URL: <a href=\"https://theconversation.com/theres-a-competition-crisis-in-americas-state-legislatures-and-thats-bad-for-democracy-273436\">https://theconversation.com/theres-a-competition-cri...",
+      "published": "2026-02-26T12:58:29+00:00",
+      "domain": "theconversation.com",
       "scores": {
-        "chaos": 18.0,
-        "anarchy": 12.0,
-        "overall": 15.0
+        "chaos": 31.7,
+        "anarchy": 3.0,
+        "overall": 17.4
+      },
+      "keywords": {
+        "chaos": [
+          "crisis",
+          "crisis"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Microsoft Warns Developers of Fake Next.js Job Repos Delivering In-Memory Malware",
+      "link": "https://thehackernews.com/2026/02/fake-nextjs-repos-target-developers.html",
+      "summary": "A \"coordinated developer-targeting campaign\" is using malicious repositories disguised as legitimate Next.js projects and technical assessments to trick victims into executing them and establish persi...",
+      "published": "2026-02-26T16:05:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
       },
       "keywords": {
         "chaos": [],
@@ -17,38 +36,114 @@
       }
     },
     {
-      "title": "Google Disrupts UNC2814 GRIDTIDE Campaign After 53 Breaches Across 42 Countries",
-      "link": "https://thehackernews.com/2026/02/google-disrupts-unc2814-gridtide.html",
-      "summary": "Google on Wednesday disclosed that it worked with industry partners to disrupt the infrastructure of a suspected China-nexus cyber espionage group tracked as UNC2814 that breached at least 53 organiza...",
-      "published": "2026-02-25T23:16:00+05:30",
+      "title": "Malicious StripeApi NuGet Package Mimicked Official Library and Stole API Tokens",
+      "link": "https://thehackernews.com/2026/02/malicious-stripeapi-nuget-package.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new malicious package discovered on the NuGet Gallery, impersonating a library from financial services firm Stripe in an attempt to target the fin...",
+      "published": "2026-02-26T15:39:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
-        "chaos": 13.0,
+        "chaos": 3.0,
         "anarchy": 3.0,
-        "overall": 8.0
+        "overall": 3.0
       },
       "keywords": {
-        "chaos": [
-          "disrupt"
-        ],
+        "chaos": [],
         "anarchy": []
       }
     },
     {
-      "title": "'Access to Insight' is shutting down",
-      "link": "https://www.accesstoinsight.org/",
-      "summary": "<p>Article URL: <a href=\"https://www.accesstoinsight.org/\">https://www.accesstoinsight.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47162711\">https://news.ycombinator.co...",
-      "published": "2026-02-26T06:45:10+00:00",
-      "domain": "accesstoinsight.org",
+      "title": "An Introduction to CuTe's Layout Algebra",
+      "link": "https://amandeepsp.github.io/blog/layout-algebra/",
+      "summary": "<p>Article URL: <a href=\"https://amandeepsp.github.io/blog/layout-algebra/\">https://amandeepsp.github.io/blog/layout-algebra/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=471...",
+      "published": "2026-02-26T12:58:38+00:00",
+      "domain": "amandeepsp.github.io",
       "scores": {
-        "chaos": 10.6,
+        "chaos": 3.0,
         "anarchy": 3.0,
-        "overall": 6.8
+        "overall": 3.0
       },
       "keywords": {
-        "chaos": [
-          "down"
-        ],
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Cowork Context Kit \u2013 tiered context management for Claude's file access",
+      "link": "https://github.com/hughtopian-gif/cowork-context-kit",
+      "summary": "<p>I was running Claude Desktop (Cowork) on a 462 file project folder. Claude reads every file at the start of each session, which burns context window on outdated and irrelevant docs. Output quality ...",
+      "published": "2026-02-26T12:58:05+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Software Engineering Is Becoming Position-Less",
+      "link": "https://newsletter.eng-leadership.com/p/software-engineering-is-becoming",
+      "summary": "<p>Article URL: <a href=\"https://newsletter.eng-leadership.com/p/software-engineering-is-becoming\">https://newsletter.eng-leadership.com/p/software-engineering-is-becoming</a></p>\n<p>Comments URL: <a ...",
+      "published": "2026-02-26T12:57:54+00:00",
+      "domain": "newsletter.eng-leadership.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: ISC Core \u2013 Deterministic CI Artifact Attestation",
+      "link": "https://github.com/hakannbjk55-afk/Isc-Core",
+      "summary": "<p>Article URL: <a href=\"https://github.com/hakannbjk55-afk/Isc-Core\">https://github.com/hakannbjk55-afk/Isc-Core</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47165432\">https...",
+      "published": "2026-02-26T12:57:27+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Fentanyl makeover: Core structural redesign could lead to safer pain medications",
+      "link": "https://www.scripps.edu/news-and-events/press-room/2026/20260211-janda-molecule.html",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47165299\">Comments</a>...",
+      "published": "2026-02-26T12:44:28+00:00",
+      "domain": "scripps.edu",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Agent Swarm \u2013 Multi-agent self-learning teams (OSS)",
+      "link": "https://github.com/desplega-ai/agent-swarm",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47165046\">Comments</a>...",
+      "published": "2026-02-26T12:15:38+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
         "anarchy": []
       }
     },
@@ -58,102 +153,6 @@
       "summary": "A newly disclosed maximum-severity security flaw in Cisco Catalyst SD-WAN Controller (formerly vSmart) and Catalyst SD-WAN Manager (formerly vManage) has come under active exploitation in the wild as ...",
       "published": "2026-02-26T11:43:00+05:30",
       "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "A White House Staffer Appears to Run Pro-Trump X Account",
-      "link": "https://www.wired.com/story/a-white-house-staffer-appears-to-run-massive-pro-trump-meme-page/",
-      "summary": "<p>Article URL: <a href=\"https://www.wired.com/story/a-white-house-staffer-appears-to-run-massive-pro-trump-meme-page/\">https://www.wired.com/story/a-white-house-staffer-appears-to-run-massive-pro-tru...",
-      "published": "2026-02-26T06:49:48+00:00",
-      "domain": "wired.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: Onera \u2013 Private LLM Inference Inside AMD SEV-SNP Enclaves",
-      "link": "https://onera.chat",
-      "summary": "<p>Article URL: <a href=\"https://onera.chat\">https://onera.chat</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47162735\">https://news.ycombinator.com/item?id=47162735</a></p>\n<...",
-      "published": "2026-02-26T06:48:55+00:00",
-      "domain": "onera.chat",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Next-Token Predictor Is an AI's Job, Not Its Species",
-      "link": "https://www.astralcodexten.com/p/next-token-predictor-is-an-ais-job",
-      "summary": "<p>Article URL: <a href=\"https://www.astralcodexten.com/p/next-token-predictor-is-an-ais-job\">https://www.astralcodexten.com/p/next-token-predictor-is-an-ais-job</a></p>\n<p>Comments URL: <a href=\"http...",
-      "published": "2026-02-26T06:48:37+00:00",
-      "domain": "astralcodexten.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Tests Are the New Moat",
-      "link": "https://saewitz.com/tests-are-the-new-moat",
-      "summary": "<p>Article URL: <a href=\"https://saewitz.com/tests-are-the-new-moat\">https://saewitz.com/tests-are-the-new-moat</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47162713\">https:/...",
-      "published": "2026-02-26T06:45:25+00:00",
-      "domain": "saewitz.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "I don't know how you get here from \"predict the next word.\"",
-      "link": "https://www.grumpy-economist.com/p/refine",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47162059\">Comments</a>...",
-      "published": "2026-02-26T04:59:01+00:00",
-      "domain": "grumpy-economist.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Scoop: Pentagon takes first step toward blacklisting Anthropic",
-      "link": "https://www.reddit.com/r/technology/comments/1revbhn/scoop_pentagon_takes_first_step_toward/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1revbhn/scoop_pentagon_takes_first_step_toward/\"> <img alt=\"Scoop: Pentagon takes first step toward blacklisting Anthropic\" src=\"...",
-      "published": "2026-02-26T00:34:21+00:00",
-      "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -167,15 +166,146 @@
   ],
   "anarchy_ranked": [
     {
-      "title": "RAM now represents 35 percent of bill of materials for HP PCs",
-      "link": "https://arstechnica.com/gadgets/2026/02/ram-now-represents-35-percent-of-bill-of-materials-for-hp-pcs/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47161160\">Comments</a>...",
-      "published": "2026-02-26T02:43:26+00:00",
-      "domain": "arstechnica.com",
+      "title": "Microsoft Warns Developers of Fake Next.js Job Repos Delivering In-Memory Malware",
+      "link": "https://thehackernews.com/2026/02/fake-nextjs-repos-target-developers.html",
+      "summary": "A \"coordinated developer-targeting campaign\" is using malicious repositories disguised as legitimate Next.js projects and technical assessments to trick victims into executing them and establish persi...",
+      "published": "2026-02-26T16:05:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
-        "chaos": 18.0,
-        "anarchy": 12.0,
-        "overall": 15.0
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Malicious StripeApi NuGet Package Mimicked Official Library and Stole API Tokens",
+      "link": "https://thehackernews.com/2026/02/malicious-stripeapi-nuget-package.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new malicious package discovered on the NuGet Gallery, impersonating a library from financial services firm Stripe in an attempt to target the fin...",
+      "published": "2026-02-26T15:39:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "An Introduction to CuTe's Layout Algebra",
+      "link": "https://amandeepsp.github.io/blog/layout-algebra/",
+      "summary": "<p>Article URL: <a href=\"https://amandeepsp.github.io/blog/layout-algebra/\">https://amandeepsp.github.io/blog/layout-algebra/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=471...",
+      "published": "2026-02-26T12:58:38+00:00",
+      "domain": "amandeepsp.github.io",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "There's a competition crisis in America's state legislatures",
+      "link": "https://theconversation.com/theres-a-competition-crisis-in-americas-state-legislatures-and-thats-bad-for-democracy-273436",
+      "summary": "<p>Article URL: <a href=\"https://theconversation.com/theres-a-competition-crisis-in-americas-state-legislatures-and-thats-bad-for-democracy-273436\">https://theconversation.com/theres-a-competition-cri...",
+      "published": "2026-02-26T12:58:29+00:00",
+      "domain": "theconversation.com",
+      "scores": {
+        "chaos": 31.7,
+        "anarchy": 3.0,
+        "overall": 17.4
+      },
+      "keywords": {
+        "chaos": [
+          "crisis",
+          "crisis"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Cowork Context Kit \u2013 tiered context management for Claude's file access",
+      "link": "https://github.com/hughtopian-gif/cowork-context-kit",
+      "summary": "<p>I was running Claude Desktop (Cowork) on a 462 file project folder. Claude reads every file at the start of each session, which burns context window on outdated and irrelevant docs. Output quality ...",
+      "published": "2026-02-26T12:58:05+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Software Engineering Is Becoming Position-Less",
+      "link": "https://newsletter.eng-leadership.com/p/software-engineering-is-becoming",
+      "summary": "<p>Article URL: <a href=\"https://newsletter.eng-leadership.com/p/software-engineering-is-becoming\">https://newsletter.eng-leadership.com/p/software-engineering-is-becoming</a></p>\n<p>Comments URL: <a ...",
+      "published": "2026-02-26T12:57:54+00:00",
+      "domain": "newsletter.eng-leadership.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: ISC Core \u2013 Deterministic CI Artifact Attestation",
+      "link": "https://github.com/hakannbjk55-afk/Isc-Core",
+      "summary": "<p>Article URL: <a href=\"https://github.com/hakannbjk55-afk/Isc-Core\">https://github.com/hakannbjk55-afk/Isc-Core</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47165432\">https...",
+      "published": "2026-02-26T12:57:27+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Fentanyl makeover: Core structural redesign could lead to safer pain medications",
+      "link": "https://www.scripps.edu/news-and-events/press-room/2026/20260211-janda-molecule.html",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47165299\">Comments</a>...",
+      "published": "2026-02-26T12:44:28+00:00",
+      "domain": "scripps.edu",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Agent Swarm \u2013 Multi-agent self-learning teams (OSS)",
+      "link": "https://github.com/desplega-ai/agent-swarm",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47165046\">Comments</a>...",
+      "published": "2026-02-26T12:15:38+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
       },
       "keywords": {
         "chaos": [],
@@ -195,153 +325,40 @@
       },
       "keywords": {
         "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "A White House Staffer Appears to Run Pro-Trump X Account",
-      "link": "https://www.wired.com/story/a-white-house-staffer-appears-to-run-massive-pro-trump-meme-page/",
-      "summary": "<p>Article URL: <a href=\"https://www.wired.com/story/a-white-house-staffer-appears-to-run-massive-pro-trump-meme-page/\">https://www.wired.com/story/a-white-house-staffer-appears-to-run-massive-pro-tru...",
-      "published": "2026-02-26T06:49:48+00:00",
-      "domain": "wired.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: Onera \u2013 Private LLM Inference Inside AMD SEV-SNP Enclaves",
-      "link": "https://onera.chat",
-      "summary": "<p>Article URL: <a href=\"https://onera.chat\">https://onera.chat</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47162735\">https://news.ycombinator.com/item?id=47162735</a></p>\n<...",
-      "published": "2026-02-26T06:48:55+00:00",
-      "domain": "onera.chat",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Next-Token Predictor Is an AI's Job, Not Its Species",
-      "link": "https://www.astralcodexten.com/p/next-token-predictor-is-an-ais-job",
-      "summary": "<p>Article URL: <a href=\"https://www.astralcodexten.com/p/next-token-predictor-is-an-ais-job\">https://www.astralcodexten.com/p/next-token-predictor-is-an-ais-job</a></p>\n<p>Comments URL: <a href=\"http...",
-      "published": "2026-02-26T06:48:37+00:00",
-      "domain": "astralcodexten.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Tests Are the New Moat",
-      "link": "https://saewitz.com/tests-are-the-new-moat",
-      "summary": "<p>Article URL: <a href=\"https://saewitz.com/tests-are-the-new-moat\">https://saewitz.com/tests-are-the-new-moat</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47162713\">https:/...",
-      "published": "2026-02-26T06:45:25+00:00",
-      "domain": "saewitz.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "'Access to Insight' is shutting down",
-      "link": "https://www.accesstoinsight.org/",
-      "summary": "<p>Article URL: <a href=\"https://www.accesstoinsight.org/\">https://www.accesstoinsight.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47162711\">https://news.ycombinator.co...",
-      "published": "2026-02-26T06:45:10+00:00",
-      "domain": "accesstoinsight.org",
-      "scores": {
-        "chaos": 10.6,
-        "anarchy": 3.0,
-        "overall": 6.8
-      },
-      "keywords": {
-        "chaos": [
-          "down"
-        ],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "I don't know how you get here from \"predict the next word.\"",
-      "link": "https://www.grumpy-economist.com/p/refine",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47162059\">Comments</a>...",
-      "published": "2026-02-26T04:59:01+00:00",
-      "domain": "grumpy-economist.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Scoop: Pentagon takes first step toward blacklisting Anthropic",
-      "link": "https://www.reddit.com/r/technology/comments/1revbhn/scoop_pentagon_takes_first_step_toward/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1revbhn/scoop_pentagon_takes_first_step_toward/\"> <img alt=\"Scoop: Pentagon takes first step toward blacklisting Anthropic\" src=\"...",
-      "published": "2026-02-26T00:34:21+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Google Disrupts UNC2814 GRIDTIDE Campaign After 53 Breaches Across 42 Countries",
-      "link": "https://thehackernews.com/2026/02/google-disrupts-unc2814-gridtide.html",
-      "summary": "Google on Wednesday disclosed that it worked with industry partners to disrupt the infrastructure of a suspected China-nexus cyber espionage group tracked as UNC2814 that breached at least 53 organiza...",
-      "published": "2026-02-25T23:16:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 13.0,
-        "anarchy": 3.0,
-        "overall": 8.0
-      },
-      "keywords": {
-        "chaos": [
-          "disrupt"
-        ],
         "anarchy": []
       }
     }
   ],
   "overall_ranked": [
     {
-      "title": "RAM now represents 35 percent of bill of materials for HP PCs",
-      "link": "https://arstechnica.com/gadgets/2026/02/ram-now-represents-35-percent-of-bill-of-materials-for-hp-pcs/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47161160\">Comments</a>...",
-      "published": "2026-02-26T02:43:26+00:00",
-      "domain": "arstechnica.com",
+      "title": "There's a competition crisis in America's state legislatures",
+      "link": "https://theconversation.com/theres-a-competition-crisis-in-americas-state-legislatures-and-thats-bad-for-democracy-273436",
+      "summary": "<p>Article URL: <a href=\"https://theconversation.com/theres-a-competition-crisis-in-americas-state-legislatures-and-thats-bad-for-democracy-273436\">https://theconversation.com/theres-a-competition-cri...",
+      "published": "2026-02-26T12:58:29+00:00",
+      "domain": "theconversation.com",
       "scores": {
-        "chaos": 18.0,
-        "anarchy": 12.0,
-        "overall": 15.0
+        "chaos": 31.7,
+        "anarchy": 3.0,
+        "overall": 17.4
+      },
+      "keywords": {
+        "chaos": [
+          "crisis",
+          "crisis"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Microsoft Warns Developers of Fake Next.js Job Repos Delivering In-Memory Malware",
+      "link": "https://thehackernews.com/2026/02/fake-nextjs-repos-target-developers.html",
+      "summary": "A \"coordinated developer-targeting campaign\" is using malicious repositories disguised as legitimate Next.js projects and technical assessments to trick victims into executing them and establish persi...",
+      "published": "2026-02-26T16:05:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
       },
       "keywords": {
         "chaos": [],
@@ -349,38 +366,114 @@
       }
     },
     {
-      "title": "Google Disrupts UNC2814 GRIDTIDE Campaign After 53 Breaches Across 42 Countries",
-      "link": "https://thehackernews.com/2026/02/google-disrupts-unc2814-gridtide.html",
-      "summary": "Google on Wednesday disclosed that it worked with industry partners to disrupt the infrastructure of a suspected China-nexus cyber espionage group tracked as UNC2814 that breached at least 53 organiza...",
-      "published": "2026-02-25T23:16:00+05:30",
+      "title": "Malicious StripeApi NuGet Package Mimicked Official Library and Stole API Tokens",
+      "link": "https://thehackernews.com/2026/02/malicious-stripeapi-nuget-package.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new malicious package discovered on the NuGet Gallery, impersonating a library from financial services firm Stripe in an attempt to target the fin...",
+      "published": "2026-02-26T15:39:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
-        "chaos": 13.0,
+        "chaos": 3.0,
         "anarchy": 3.0,
-        "overall": 8.0
+        "overall": 3.0
       },
       "keywords": {
-        "chaos": [
-          "disrupt"
-        ],
+        "chaos": [],
         "anarchy": []
       }
     },
     {
-      "title": "'Access to Insight' is shutting down",
-      "link": "https://www.accesstoinsight.org/",
-      "summary": "<p>Article URL: <a href=\"https://www.accesstoinsight.org/\">https://www.accesstoinsight.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47162711\">https://news.ycombinator.co...",
-      "published": "2026-02-26T06:45:10+00:00",
-      "domain": "accesstoinsight.org",
+      "title": "An Introduction to CuTe's Layout Algebra",
+      "link": "https://amandeepsp.github.io/blog/layout-algebra/",
+      "summary": "<p>Article URL: <a href=\"https://amandeepsp.github.io/blog/layout-algebra/\">https://amandeepsp.github.io/blog/layout-algebra/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=471...",
+      "published": "2026-02-26T12:58:38+00:00",
+      "domain": "amandeepsp.github.io",
       "scores": {
-        "chaos": 10.6,
+        "chaos": 3.0,
         "anarchy": 3.0,
-        "overall": 6.8
+        "overall": 3.0
       },
       "keywords": {
-        "chaos": [
-          "down"
-        ],
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Cowork Context Kit \u2013 tiered context management for Claude's file access",
+      "link": "https://github.com/hughtopian-gif/cowork-context-kit",
+      "summary": "<p>I was running Claude Desktop (Cowork) on a 462 file project folder. Claude reads every file at the start of each session, which burns context window on outdated and irrelevant docs. Output quality ...",
+      "published": "2026-02-26T12:58:05+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Software Engineering Is Becoming Position-Less",
+      "link": "https://newsletter.eng-leadership.com/p/software-engineering-is-becoming",
+      "summary": "<p>Article URL: <a href=\"https://newsletter.eng-leadership.com/p/software-engineering-is-becoming\">https://newsletter.eng-leadership.com/p/software-engineering-is-becoming</a></p>\n<p>Comments URL: <a ...",
+      "published": "2026-02-26T12:57:54+00:00",
+      "domain": "newsletter.eng-leadership.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: ISC Core \u2013 Deterministic CI Artifact Attestation",
+      "link": "https://github.com/hakannbjk55-afk/Isc-Core",
+      "summary": "<p>Article URL: <a href=\"https://github.com/hakannbjk55-afk/Isc-Core\">https://github.com/hakannbjk55-afk/Isc-Core</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47165432\">https...",
+      "published": "2026-02-26T12:57:27+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Fentanyl makeover: Core structural redesign could lead to safer pain medications",
+      "link": "https://www.scripps.edu/news-and-events/press-room/2026/20260211-janda-molecule.html",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47165299\">Comments</a>...",
+      "published": "2026-02-26T12:44:28+00:00",
+      "domain": "scripps.edu",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Agent Swarm \u2013 Multi-agent self-learning teams (OSS)",
+      "link": "https://github.com/desplega-ai/agent-swarm",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47165046\">Comments</a>...",
+      "published": "2026-02-26T12:15:38+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
         "anarchy": []
       }
     },
@@ -390,102 +483,6 @@
       "summary": "A newly disclosed maximum-severity security flaw in Cisco Catalyst SD-WAN Controller (formerly vSmart) and Catalyst SD-WAN Manager (formerly vManage) has come under active exploitation in the wild as ...",
       "published": "2026-02-26T11:43:00+05:30",
       "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "A White House Staffer Appears to Run Pro-Trump X Account",
-      "link": "https://www.wired.com/story/a-white-house-staffer-appears-to-run-massive-pro-trump-meme-page/",
-      "summary": "<p>Article URL: <a href=\"https://www.wired.com/story/a-white-house-staffer-appears-to-run-massive-pro-trump-meme-page/\">https://www.wired.com/story/a-white-house-staffer-appears-to-run-massive-pro-tru...",
-      "published": "2026-02-26T06:49:48+00:00",
-      "domain": "wired.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: Onera \u2013 Private LLM Inference Inside AMD SEV-SNP Enclaves",
-      "link": "https://onera.chat",
-      "summary": "<p>Article URL: <a href=\"https://onera.chat\">https://onera.chat</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47162735\">https://news.ycombinator.com/item?id=47162735</a></p>\n<...",
-      "published": "2026-02-26T06:48:55+00:00",
-      "domain": "onera.chat",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Next-Token Predictor Is an AI's Job, Not Its Species",
-      "link": "https://www.astralcodexten.com/p/next-token-predictor-is-an-ais-job",
-      "summary": "<p>Article URL: <a href=\"https://www.astralcodexten.com/p/next-token-predictor-is-an-ais-job\">https://www.astralcodexten.com/p/next-token-predictor-is-an-ais-job</a></p>\n<p>Comments URL: <a href=\"http...",
-      "published": "2026-02-26T06:48:37+00:00",
-      "domain": "astralcodexten.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Tests Are the New Moat",
-      "link": "https://saewitz.com/tests-are-the-new-moat",
-      "summary": "<p>Article URL: <a href=\"https://saewitz.com/tests-are-the-new-moat\">https://saewitz.com/tests-are-the-new-moat</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47162713\">https:/...",
-      "published": "2026-02-26T06:45:25+00:00",
-      "domain": "saewitz.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "I don't know how you get here from \"predict the next word.\"",
-      "link": "https://www.grumpy-economist.com/p/refine",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47162059\">Comments</a>...",
-      "published": "2026-02-26T04:59:01+00:00",
-      "domain": "grumpy-economist.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Scoop: Pentagon takes first step toward blacklisting Anthropic",
-      "link": "https://www.reddit.com/r/technology/comments/1revbhn/scoop_pentagon_takes_first_step_toward/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1revbhn/scoop_pentagon_takes_first_step_toward/\"> <img alt=\"Scoop: Pentagon takes first step toward blacklisting Anthropic\" src=\"...",
-      "published": "2026-02-26T00:34:21+00:00",
-      "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -499,6 +496,153 @@
   ],
   "all_articles": [
     {
+      "title": "Microsoft Warns Developers of Fake Next.js Job Repos Delivering In-Memory Malware",
+      "link": "https://thehackernews.com/2026/02/fake-nextjs-repos-target-developers.html",
+      "summary": "A \"coordinated developer-targeting campaign\" is using malicious repositories disguised as legitimate Next.js projects and technical assessments to trick victims into executing them and establish persi...",
+      "published": "2026-02-26T16:05:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Malicious StripeApi NuGet Package Mimicked Official Library and Stole API Tokens",
+      "link": "https://thehackernews.com/2026/02/malicious-stripeapi-nuget-package.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new malicious package discovered on the NuGet Gallery, impersonating a library from financial services firm Stripe in an attempt to target the fin...",
+      "published": "2026-02-26T15:39:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "An Introduction to CuTe's Layout Algebra",
+      "link": "https://amandeepsp.github.io/blog/layout-algebra/",
+      "summary": "<p>Article URL: <a href=\"https://amandeepsp.github.io/blog/layout-algebra/\">https://amandeepsp.github.io/blog/layout-algebra/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=471...",
+      "published": "2026-02-26T12:58:38+00:00",
+      "domain": "amandeepsp.github.io",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "There's a competition crisis in America's state legislatures",
+      "link": "https://theconversation.com/theres-a-competition-crisis-in-americas-state-legislatures-and-thats-bad-for-democracy-273436",
+      "summary": "<p>Article URL: <a href=\"https://theconversation.com/theres-a-competition-crisis-in-americas-state-legislatures-and-thats-bad-for-democracy-273436\">https://theconversation.com/theres-a-competition-cri...",
+      "published": "2026-02-26T12:58:29+00:00",
+      "domain": "theconversation.com",
+      "scores": {
+        "chaos": 31.7,
+        "anarchy": 3.0,
+        "overall": 17.4
+      },
+      "keywords": {
+        "chaos": [
+          "crisis",
+          "crisis"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Cowork Context Kit \u2013 tiered context management for Claude's file access",
+      "link": "https://github.com/hughtopian-gif/cowork-context-kit",
+      "summary": "<p>I was running Claude Desktop (Cowork) on a 462 file project folder. Claude reads every file at the start of each session, which burns context window on outdated and irrelevant docs. Output quality ...",
+      "published": "2026-02-26T12:58:05+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Software Engineering Is Becoming Position-Less",
+      "link": "https://newsletter.eng-leadership.com/p/software-engineering-is-becoming",
+      "summary": "<p>Article URL: <a href=\"https://newsletter.eng-leadership.com/p/software-engineering-is-becoming\">https://newsletter.eng-leadership.com/p/software-engineering-is-becoming</a></p>\n<p>Comments URL: <a ...",
+      "published": "2026-02-26T12:57:54+00:00",
+      "domain": "newsletter.eng-leadership.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: ISC Core \u2013 Deterministic CI Artifact Attestation",
+      "link": "https://github.com/hakannbjk55-afk/Isc-Core",
+      "summary": "<p>Article URL: <a href=\"https://github.com/hakannbjk55-afk/Isc-Core\">https://github.com/hakannbjk55-afk/Isc-Core</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47165432\">https...",
+      "published": "2026-02-26T12:57:27+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Fentanyl makeover: Core structural redesign could lead to safer pain medications",
+      "link": "https://www.scripps.edu/news-and-events/press-room/2026/20260211-janda-molecule.html",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47165299\">Comments</a>...",
+      "published": "2026-02-26T12:44:28+00:00",
+      "domain": "scripps.edu",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Agent Swarm \u2013 Multi-agent self-learning teams (OSS)",
+      "link": "https://github.com/desplega-ai/agent-swarm",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47165046\">Comments</a>...",
+      "published": "2026-02-26T12:15:38+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "Cisco SD-WAN Zero-Day CVE-2026-20127 Exploited Since 2023 for Admin Access",
       "link": "https://thehackernews.com/2026/02/cisco-sd-wan-zero-day-cve-2026-20127.html",
       "summary": "A newly disclosed maximum-severity security flaw in Cisco Catalyst SD-WAN Controller (formerly vSmart) and Catalyst SD-WAN Manager (formerly vManage) has come under active exploitation in the wild as ...",
@@ -511,154 +655,6 @@
       },
       "keywords": {
         "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "A White House Staffer Appears to Run Pro-Trump X Account",
-      "link": "https://www.wired.com/story/a-white-house-staffer-appears-to-run-massive-pro-trump-meme-page/",
-      "summary": "<p>Article URL: <a href=\"https://www.wired.com/story/a-white-house-staffer-appears-to-run-massive-pro-trump-meme-page/\">https://www.wired.com/story/a-white-house-staffer-appears-to-run-massive-pro-tru...",
-      "published": "2026-02-26T06:49:48+00:00",
-      "domain": "wired.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: Onera \u2013 Private LLM Inference Inside AMD SEV-SNP Enclaves",
-      "link": "https://onera.chat",
-      "summary": "<p>Article URL: <a href=\"https://onera.chat\">https://onera.chat</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47162735\">https://news.ycombinator.com/item?id=47162735</a></p>\n<...",
-      "published": "2026-02-26T06:48:55+00:00",
-      "domain": "onera.chat",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Next-Token Predictor Is an AI's Job, Not Its Species",
-      "link": "https://www.astralcodexten.com/p/next-token-predictor-is-an-ais-job",
-      "summary": "<p>Article URL: <a href=\"https://www.astralcodexten.com/p/next-token-predictor-is-an-ais-job\">https://www.astralcodexten.com/p/next-token-predictor-is-an-ais-job</a></p>\n<p>Comments URL: <a href=\"http...",
-      "published": "2026-02-26T06:48:37+00:00",
-      "domain": "astralcodexten.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Tests Are the New Moat",
-      "link": "https://saewitz.com/tests-are-the-new-moat",
-      "summary": "<p>Article URL: <a href=\"https://saewitz.com/tests-are-the-new-moat\">https://saewitz.com/tests-are-the-new-moat</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47162713\">https:/...",
-      "published": "2026-02-26T06:45:25+00:00",
-      "domain": "saewitz.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "'Access to Insight' is shutting down",
-      "link": "https://www.accesstoinsight.org/",
-      "summary": "<p>Article URL: <a href=\"https://www.accesstoinsight.org/\">https://www.accesstoinsight.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47162711\">https://news.ycombinator.co...",
-      "published": "2026-02-26T06:45:10+00:00",
-      "domain": "accesstoinsight.org",
-      "scores": {
-        "chaos": 10.6,
-        "anarchy": 3.0,
-        "overall": 6.8
-      },
-      "keywords": {
-        "chaos": [
-          "down"
-        ],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "I don't know how you get here from \"predict the next word.\"",
-      "link": "https://www.grumpy-economist.com/p/refine",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47162059\">Comments</a>...",
-      "published": "2026-02-26T04:59:01+00:00",
-      "domain": "grumpy-economist.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "RAM now represents 35 percent of bill of materials for HP PCs",
-      "link": "https://arstechnica.com/gadgets/2026/02/ram-now-represents-35-percent-of-bill-of-materials-for-hp-pcs/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47161160\">Comments</a>...",
-      "published": "2026-02-26T02:43:26+00:00",
-      "domain": "arstechnica.com",
-      "scores": {
-        "chaos": 18.0,
-        "anarchy": 12.0,
-        "overall": 15.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Scoop: Pentagon takes first step toward blacklisting Anthropic",
-      "link": "https://www.reddit.com/r/technology/comments/1revbhn/scoop_pentagon_takes_first_step_toward/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1revbhn/scoop_pentagon_takes_first_step_toward/\"> <img alt=\"Scoop: Pentagon takes first step toward blacklisting Anthropic\" src=\"...",
-      "published": "2026-02-26T00:34:21+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Google Disrupts UNC2814 GRIDTIDE Campaign After 53 Breaches Across 42 Countries",
-      "link": "https://thehackernews.com/2026/02/google-disrupts-unc2814-gridtide.html",
-      "summary": "Google on Wednesday disclosed that it worked with industry partners to disrupt the infrastructure of a suspected China-nexus cyber espionage group tracked as UNC2814 that breached at least 53 organiza...",
-      "published": "2026-02-25T23:16:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 13.0,
-        "anarchy": 3.0,
-        "overall": 8.0
-      },
-      "keywords": {
-        "chaos": [
-          "disrupt"
-        ],
         "anarchy": []
       }
     }
