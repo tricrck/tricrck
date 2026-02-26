@@ -16,11 +16,10 @@
 
 ## 🚨 Tech Stories
 
-### Could users acting en masse take a major website down?
+### RAM now represents 35 percent of bill of materials for HP PCs
 - **Published**: February 26, 2026
-- **Summary**: <p>Are there any ways that coordinated activity by large numbers of users could take down a major website? (And if there are, how large would the numb...
-- **Keywords**: down, down
-- [Read more](https://news.ycombinator.com/item?id=47160853)
+- **Summary**: ......
+- [Read more](https://arstechnica.com/gadgets/2026/02/ram-now-represents-35-percent-of-bill-of-materials-for-hp-pcs/)
 
 ### Google Disrupts UNC2814 GRIDTIDE Campaign After 53 Breaches Across 42 Countries
 - **Published**: February 25, 2026
