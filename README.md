@@ -16,16 +16,18 @@
 
 ## 🚨 Tech Stories
 
-### There's a competition crisis in America's state legislatures
+### Python React to Elixir Phoenix Migration Breakdown
 - **Published**: February 26, 2026
-- **Summary**: https://theconversation.com/theres-a-competition-cri......
-- **Keywords**: crisis, crisis
-- [Read more](https://theconversation.com/theres-a-competition-crisis-in-americas-state-legislatures-and-thats-bad-for-democracy-273436)
+- **Summary**: https://mrpopov.com/posts/python-react-to-elixir-phoenix-migration-breakdown/</a></p>
+<p>Comment......
+- **Keywords**: breakdown, breakdown, breakdown
+- [Read more](https://mrpopov.com/posts/python-react-to-elixir-phoenix-migration-breakdown/)
 
-### Microsoft Warns Developers of Fake Next.js Job Repos Delivering In-Memory Malware
+### ThreatsDay Bulletin: Kali Linux + Claude, Chrome Crash Traps, WinRAR Flaws, LockBit & 15+ Stories
 - **Published**: February 26, 2026
-- **Summary**: A "coordinated developer-targeting campaign" is using malicious repositories disguised as legitimate Next.js projects and technical assessments to tri...
-- [Read more](https://thehackernews.com/2026/02/fake-nextjs-repos-target-developers.html)
+- **Summary**: Nothing here looks dramatic at first glance. That’s the point. Many of this week’s threats begin with something ordinary, like an ad, a meeting invite...
+- **Keywords**: crash
+- [Read more](https://thehackernews.com/2026/02/threatsday-bulletin-kali-linux-claude.html)
 
 ---
 
