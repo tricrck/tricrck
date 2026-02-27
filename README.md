@@ -16,17 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Claude.ai Is Down
+### 900+ Sangoma FreePBX Instances Compromised in Ongoing Web Shell Attacks
 - **Published**: February 27, 2026
-- **Summary**: https://claude.ai/#</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47179947">https://news.ycombinator.com/item?id=47179947</a>...
-- **Keywords**: down
-- [Read more](https://claude.ai/)
+- **Summary**: The Shadowserver Foundation has revealed that over 900 Sangoma FreePBX instances still remain infected with web shells as part of attacks that exploit...
+- [Read more](https://thehackernews.com/2026/02/900-sangoma-freepbx-instances.html)
 
-### Trojanized Gaming Tools Spread Java-Based RAT via Browser and Chat Platforms
+### Malicious Go Crypto Module Steals Passwords, Deploys Rekoobe Backdoor
 - **Published**: February 27, 2026
-- **Summary**: Threat actors are luring unsuspecting users into running trojanized gaming utilities that are distributed via browsers and chat platforms to distribut...
-- [Read more](https://thehackernews.com/2026/02/trojanized-gaming-tools-spread-java.html)
+- **Summary**: Cybersecurity researchers have disclosed details of a malicious Go module that's designed to harvest passwords, create persistent access via SSH, and ...
+- [Read more](https://thehackernews.com/2026/02/malicious-go-crypto-module-steals.html)
 
 ---
 
