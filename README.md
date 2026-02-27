@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### DRAM Shortage to Cause 'Seismic Shift' in Smartphone Market, Apple Less Affected
+### Rapid Hot-Swapping for Go Lambdas
 - **Published**: February 27, 2026
-- **Summary**: https://www.macrumors.com/2026/02/26/dram-shortage-apple-less-affected/</a></p>
-<p>Comments URL: <a hr......
-- [Read more](https://www.macrumors.com/2026/02/26/dram-shortage-apple-less-affected/)
+- **Summary**: https://github.com/vaijab/flint</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47177375">https://news.ycombinator.com/......
+- [Read more](https://github.com/vaijab/flint)
 
-### Babylonian Biometrics and Widespread Methodological Shortcomings
+### Show HN: A read-it-later app that exports clean Markdown to Obsidian
 - **Published**: February 27, 2026
-- **Summary**: https://dl.acm.org/doi/10.1145/3744705</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47175309">https://news.yc......
-- [Read more](https://dl.acm.org/doi/10.1145/3744705)
+- **Summary**: <p>I made a read-it-later app because clipping directly into my Obsidian vault was creating a lot of noise.<p>Workflow is simple: capture links, read ...
+- [Read more](https://news.ycombinator.com/item?id=47177359)
 
 ---
 
