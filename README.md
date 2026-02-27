@@ -16,16 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Rapid Hot-Swapping for Go Lambdas
+### Claude.ai Is Down
 - **Published**: February 27, 2026
-- **Summary**: https://github.com/vaijab/flint</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47177375">https://news.ycombinator.com/......
-- [Read more](https://github.com/vaijab/flint)
+- **Summary**: https://claude.ai/#</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47179947">https://news.ycombinator.com/item?id=47179947</a>...
+- **Keywords**: down
+- [Read more](https://claude.ai/)
 
-### Show HN: A read-it-later app that exports clean Markdown to Obsidian
+### Trojanized Gaming Tools Spread Java-Based RAT via Browser and Chat Platforms
 - **Published**: February 27, 2026
-- **Summary**: <p>I made a read-it-later app because clipping directly into my Obsidian vault was creating a lot of noise.<p>Workflow is simple: capture links, read ...
-- [Read more](https://news.ycombinator.com/item?id=47177359)
+- **Summary**: Threat actors are luring unsuspecting users into running trojanized gaming utilities that are distributed via browsers and chat platforms to distribut...
+- [Read more](https://thehackernews.com/2026/02/trojanized-gaming-tools-spread-java.html)
 
 ---
 
