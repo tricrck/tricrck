@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Show HN: We analyzed 312 landing pages – most navigation flows are broken
+### ClawJacked Flaw Lets Malicious Sites Hijack Local OpenClaw AI Agents via WebSocket
 - **Published**: February 28, 2026
-- **Summary**: https://no-edit.lovable.app</a>)
-over the last few months, and while testing it, ......
-- **Keywords**: broken
-- [Read more](https://news.ycombinator.com/item?id=47194296)
+- **Summary**: OpenClaw has fixed a high-severity security issue that, if successfully exploited, could have allowed a malicious website to connect to a locally runn...
+- [Read more](https://thehackernews.com/2026/02/clawjacked-flaw-lets-malicious-sites.html)
 
-### Thousands of Public Google Cloud API Keys Exposed with Gemini Access After API Enablement
+### C-Mera
 - **Published**: February 28, 2026
-- **Summary**: New research has found that Google Cloud API keys, typically designated as project identifiers for billing purposes, could be abused to authenticate t...
-- [Read more](https://thehackernews.com/2026/02/thousands-of-public-google-cloud-api.html)
+- **Summary**: https://github.com/kiselgra/c-mera</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47198579">https://news.ycombinato......
+- [Read more](https://github.com/kiselgra/c-mera)
 
 ---
 
