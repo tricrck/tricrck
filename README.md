@@ -16,15 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### The Air Force's new ICBM is nearly ready to fly, but there's nowhere to put it
+### Israel launches strike against Iran, declares state of emergency across country
 - **Published**: February 28, 2026
-- **Summary**: https://arstechnica.com/space/2026/02/the-air-forces-new-......
-- [Read more](https://arstechnica.com/space/2026/02/the-air-forces-new-icbm-is-nearly-ready-to-fly-but-theres-nowhere-to-put-them/)
+- **Summary**: https://www.cnn.com/2026/02/28/middleeast/israel-attack-iran-intl-hnk</a></p>
+<p>Comments URL: <a href="......
+- **Keywords**: emergency
+- [Read more](https://www.cnn.com/2026/02/28/middleeast/israel-attack-iran-intl-hnk)
 
-### Why Tehran's Two-Tiered Internet Is So Dangerous
+### Pentagon Designates Anthropic Supply Chain Risk Over AI Military Dispute
 - **Published**: February 28, 2026
-- **Summary**: https://www.schneier.com/blog/archives/2026/02/why-tehrans-two-tiered-inte......
-- [Read more](https://www.schneier.com/blog/archives/2026/02/why-tehrans-two-tiered-internet-is-so-dangerous.html)
+- **Summary**: Anthropic on Friday hit back after U.S. Secretary of Defense Pete Hegseth directed the Pentagon to designate the artificial intelligence (AI) upstart ...
+- [Read more](https://thehackernews.com/2026/02/pentagon-designates-anthropic-supply.html)
 
 ---
 

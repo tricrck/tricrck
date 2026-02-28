@@ -1,138 +1,28 @@
 {
   "chaos_ranked": [
     {
-      "title": "The Air Force's new ICBM is nearly ready to fly, but there's nowhere to put it",
-      "link": "https://arstechnica.com/space/2026/02/the-air-forces-new-icbm-is-nearly-ready-to-fly-but-theres-nowhere-to-put-them/",
-      "summary": "<p>Article URL: <a href=\"https://arstechnica.com/space/2026/02/the-air-forces-new-icbm-is-nearly-ready-to-fly-but-theres-nowhere-to-put-them/\">https://arstechnica.com/space/2026/02/the-air-forces-new-...",
-      "published": "2026-02-28T01:51:54+00:00",
-      "domain": "arstechnica.com",
+      "title": "Israel launches strike against Iran, declares state of emergency across country",
+      "link": "https://www.cnn.com/2026/02/28/middleeast/israel-attack-iran-intl-hnk",
+      "summary": "<p>Article URL: <a href=\"https://www.cnn.com/2026/02/28/middleeast/israel-attack-iran-intl-hnk\">https://www.cnn.com/2026/02/28/middleeast/israel-attack-iran-intl-hnk</a></p>\n<p>Comments URL: <a href=\"...",
+      "published": "2026-02-28T06:34:07+00:00",
+      "domain": "cnn.com",
       "scores": {
-        "chaos": 18.0,
-        "anarchy": 12.0,
-        "overall": 15.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Why Tehran's Two-Tiered Internet Is So Dangerous",
-      "link": "https://www.schneier.com/blog/archives/2026/02/why-tehrans-two-tiered-internet-is-so-dangerous.html",
-      "summary": "<p>Article URL: <a href=\"https://www.schneier.com/blog/archives/2026/02/why-tehrans-two-tiered-internet-is-so-dangerous.html\">https://www.schneier.com/blog/archives/2026/02/why-tehrans-two-tiered-inte...",
-      "published": "2026-02-28T01:45:48+00:00",
-      "domain": "schneier.com",
-      "scores": {
-        "chaos": 15.0,
-        "anarchy": 15.0,
-        "overall": 15.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "How I Built a 'Journalist' AI Agent in VS Code to Replace Me",
-      "link": "https://visualstudiomagazine.com/articles/2026/02/27/how-i-built-a-journalist-agent-in-vs-code-to-replace-me.aspx",
-      "summary": "<p>Article URL: <a href=\"https://visualstudiomagazine.com/articles/2026/02/27/how-i-built-a-journalist-agent-in-vs-code-to-replace-me.aspx\">https://visualstudiomagazine.com/articles/2026/02/27/how-i-b...",
-      "published": "2026-02-28T01:55:31+00:00",
-      "domain": "visualstudiomagazine.com",
-      "scores": {
-        "chaos": 3.0,
+        "chaos": 11.6,
         "anarchy": 3.0,
-        "overall": 3.0
+        "overall": 7.3
       },
       "keywords": {
-        "chaos": [],
+        "chaos": [
+          "emergency"
+        ],
         "anarchy": []
       }
     },
     {
-      "title": "Ollama 0.17 ships native OpenClaw integration \u2013 security implications",
-      "link": "https://clawmoat.com/blog/ollama-openclaw-security.html",
-      "summary": "<p>Article URL: <a href=\"https://clawmoat.com/blog/ollama-openclaw-security.html\">https://clawmoat.com/blog/ollama-openclaw-security.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com...",
-      "published": "2026-02-28T01:53:43+00:00",
-      "domain": "clawmoat.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: DiskFree \u2013 Find what's blocking your macOS disk and eject it",
-      "link": "https://getdiskfree.github.io/diskfree/",
-      "summary": "<p>Article URL: <a href=\"https://getdiskfree.github.io/diskfree/\">https://getdiskfree.github.io/diskfree/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47188893\">https://news....",
-      "published": "2026-02-28T01:40:33+00:00",
-      "domain": "getdiskfree.github.io",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Statement on the comments from Secretary of War Pete Hegseth",
-      "link": "https://www.anthropic.com/news/statement-comments-secretary-war",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47188697\">Comments</a>...",
-      "published": "2026-02-28T01:20:10+00:00",
-      "domain": "anthropic.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "We Will Not Be Divided",
-      "link": "https://notdivided.org",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47188473\">Comments</a>...",
-      "published": "2026-02-28T00:54:53+00:00",
-      "domain": "notdivided.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Qt45: A small polymerase ribozyme that can synthesize itself",
-      "link": "https://www.science.org/doi/10.1126/science.adt2760",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47187649\">Comments</a>...",
-      "published": "2026-02-27T23:42:14+00:00",
-      "domain": "science.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "DoJ Seizes $61 Million in Tether Linked to Pig Butchering Crypto Scams",
-      "link": "https://thehackernews.com/2026/02/doj-seizes-61-million-in-tether-linked.html",
-      "summary": "The U.S. Department of Justice (DoJ) this week announced the seizure of $61 million worth of Tether that were allegedly associated with bogus cryptocurrency schemes known as pig butchering.\nThe confis...",
-      "published": "2026-02-27T23:41:00+05:30",
+      "title": "Pentagon Designates Anthropic Supply Chain Risk Over AI Military Dispute",
+      "link": "https://thehackernews.com/2026/02/pentagon-designates-anthropic-supply.html",
+      "summary": "Anthropic on Friday hit back after U.S. Secretary of Defense Pete Hegseth directed the Pentagon to designate the artificial intelligence (AI) upstart as a \"supply chain risk.\"\n\"This action follows mon...",
+      "published": "2026-02-28T10:27:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -145,11 +35,123 @@
       }
     },
     {
-      "title": "Pentagon moves to designate Anthropic as a supply-chain risk",
-      "link": "https://www.reddit.com/r/technology/comments/1rgmq6x/pentagon_moves_to_designate_anthropic_as_a/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1rgmq6x/pentagon_moves_to_designate_anthropic_as_a/\"> <img alt=\"Pentagon moves to designate Anthropic as a supply-chain risk\" src...",
-      "published": "2026-02-27T23:36:38+00:00",
-      "domain": "reddit.com",
+      "title": "Show HN: I built GeoQuests where people can request photos of a place",
+      "link": "https://geoquests.io",
+      "summary": "<p>Hi HN. I had faced an issue where I wanted to know how a place I was travelling to looked like. Like everyone else I looked at google maps and snap chat too. But Google streetview images were usual...",
+      "published": "2026-02-28T06:37:30+00:00",
+      "domain": "geoquests.io",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Huk vs. naniwa starcraft 2 [video]",
+      "link": "https://www.youtube.com/watch?v=xufeKPoeW_I",
+      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=xufeKPoeW_I\">https://www.youtube.com/watch?v=xufeKPoeW_I</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47191254\">https...",
+      "published": "2026-02-28T06:36:49+00:00",
+      "domain": "youtube.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Israel launches attack on Iran, defence minister says",
+      "link": "https://www.bbc.com/news/live/cn5ge95q6y7t",
+      "summary": "<p>Article URL: <a href=\"https://www.bbc.com/news/live/cn5ge95q6y7t\">https://www.bbc.com/news/live/cn5ge95q6y7t</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47191237\">https:/...",
+      "published": "2026-02-28T06:34:38+00:00",
+      "domain": "bbc.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Ask HN: AI driven \"legacy\" Debug and Monitoring Tools",
+      "link": "https://news.ycombinator.com/item?id=47191221",
+      "summary": "<p>When do we start incorporating AI into more \u201clegacy\u201d debugging and system monitoring tools. I\u2019m thinking an AI version of ProcDump maybe called like ContextDump. It\u2019s pulls all relevant system info...",
+      "published": "2026-02-28T06:31:01+00:00",
+      "domain": "news.ycombinator.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "How do I cancel my ChatGPT subscription?",
+      "link": "https://help.openai.com/en/articles/7232927-how-do-i-cancel-my-chatgpt-subscription",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47190997\">Comments</a>...",
+      "published": "2026-02-28T05:55:01+00:00",
+      "domain": "help.openai.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Cash issuing terminals",
+      "link": "https://computer.rip/2026-02-27-ibm-atm.html",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47190806\">Comments</a>...",
+      "published": "2026-02-28T05:21:21+00:00",
+      "domain": "computer.rip",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Don't use passkeys for encrypting user data",
+      "link": "https://blog.timcappalli.me/p/passkeys-prf-warning/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47189749\">Comments</a>...",
+      "published": "2026-02-28T03:11:40+00:00",
+      "domain": "blog.timcappalli.me",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Croatia declared free of landmines after 31 years",
+      "link": "https://glashrvatske.hrt.hr/en/domestic/croatia-declared-free-of-landmines-after-31-years-12593533",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47189535\">Comments</a>...",
+      "published": "2026-02-28T02:48:16+00:00",
+      "domain": "glashrvatske.hrt.hr",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -163,138 +165,10 @@
   ],
   "anarchy_ranked": [
     {
-      "title": "Why Tehran's Two-Tiered Internet Is So Dangerous",
-      "link": "https://www.schneier.com/blog/archives/2026/02/why-tehrans-two-tiered-internet-is-so-dangerous.html",
-      "summary": "<p>Article URL: <a href=\"https://www.schneier.com/blog/archives/2026/02/why-tehrans-two-tiered-internet-is-so-dangerous.html\">https://www.schneier.com/blog/archives/2026/02/why-tehrans-two-tiered-inte...",
-      "published": "2026-02-28T01:45:48+00:00",
-      "domain": "schneier.com",
-      "scores": {
-        "chaos": 15.0,
-        "anarchy": 15.0,
-        "overall": 15.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The Air Force's new ICBM is nearly ready to fly, but there's nowhere to put it",
-      "link": "https://arstechnica.com/space/2026/02/the-air-forces-new-icbm-is-nearly-ready-to-fly-but-theres-nowhere-to-put-them/",
-      "summary": "<p>Article URL: <a href=\"https://arstechnica.com/space/2026/02/the-air-forces-new-icbm-is-nearly-ready-to-fly-but-theres-nowhere-to-put-them/\">https://arstechnica.com/space/2026/02/the-air-forces-new-...",
-      "published": "2026-02-28T01:51:54+00:00",
-      "domain": "arstechnica.com",
-      "scores": {
-        "chaos": 18.0,
-        "anarchy": 12.0,
-        "overall": 15.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "How I Built a 'Journalist' AI Agent in VS Code to Replace Me",
-      "link": "https://visualstudiomagazine.com/articles/2026/02/27/how-i-built-a-journalist-agent-in-vs-code-to-replace-me.aspx",
-      "summary": "<p>Article URL: <a href=\"https://visualstudiomagazine.com/articles/2026/02/27/how-i-built-a-journalist-agent-in-vs-code-to-replace-me.aspx\">https://visualstudiomagazine.com/articles/2026/02/27/how-i-b...",
-      "published": "2026-02-28T01:55:31+00:00",
-      "domain": "visualstudiomagazine.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Ollama 0.17 ships native OpenClaw integration \u2013 security implications",
-      "link": "https://clawmoat.com/blog/ollama-openclaw-security.html",
-      "summary": "<p>Article URL: <a href=\"https://clawmoat.com/blog/ollama-openclaw-security.html\">https://clawmoat.com/blog/ollama-openclaw-security.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com...",
-      "published": "2026-02-28T01:53:43+00:00",
-      "domain": "clawmoat.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: DiskFree \u2013 Find what's blocking your macOS disk and eject it",
-      "link": "https://getdiskfree.github.io/diskfree/",
-      "summary": "<p>Article URL: <a href=\"https://getdiskfree.github.io/diskfree/\">https://getdiskfree.github.io/diskfree/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47188893\">https://news....",
-      "published": "2026-02-28T01:40:33+00:00",
-      "domain": "getdiskfree.github.io",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Statement on the comments from Secretary of War Pete Hegseth",
-      "link": "https://www.anthropic.com/news/statement-comments-secretary-war",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47188697\">Comments</a>...",
-      "published": "2026-02-28T01:20:10+00:00",
-      "domain": "anthropic.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "We Will Not Be Divided",
-      "link": "https://notdivided.org",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47188473\">Comments</a>...",
-      "published": "2026-02-28T00:54:53+00:00",
-      "domain": "notdivided.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Qt45: A small polymerase ribozyme that can synthesize itself",
-      "link": "https://www.science.org/doi/10.1126/science.adt2760",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47187649\">Comments</a>...",
-      "published": "2026-02-27T23:42:14+00:00",
-      "domain": "science.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "DoJ Seizes $61 Million in Tether Linked to Pig Butchering Crypto Scams",
-      "link": "https://thehackernews.com/2026/02/doj-seizes-61-million-in-tether-linked.html",
-      "summary": "The U.S. Department of Justice (DoJ) this week announced the seizure of $61 million worth of Tether that were allegedly associated with bogus cryptocurrency schemes known as pig butchering.\nThe confis...",
-      "published": "2026-02-27T23:41:00+05:30",
+      "title": "Pentagon Designates Anthropic Supply Chain Risk Over AI Military Dispute",
+      "link": "https://thehackernews.com/2026/02/pentagon-designates-anthropic-supply.html",
+      "summary": "Anthropic on Friday hit back after U.S. Secretary of Defense Pete Hegseth directed the Pentagon to designate the artificial intelligence (AI) upstart as a \"supply chain risk.\"\n\"This action follows mon...",
+      "published": "2026-02-28T10:27:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -307,11 +181,141 @@
       }
     },
     {
-      "title": "Pentagon moves to designate Anthropic as a supply-chain risk",
-      "link": "https://www.reddit.com/r/technology/comments/1rgmq6x/pentagon_moves_to_designate_anthropic_as_a/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1rgmq6x/pentagon_moves_to_designate_anthropic_as_a/\"> <img alt=\"Pentagon moves to designate Anthropic as a supply-chain risk\" src...",
-      "published": "2026-02-27T23:36:38+00:00",
-      "domain": "reddit.com",
+      "title": "Show HN: I built GeoQuests where people can request photos of a place",
+      "link": "https://geoquests.io",
+      "summary": "<p>Hi HN. I had faced an issue where I wanted to know how a place I was travelling to looked like. Like everyone else I looked at google maps and snap chat too. But Google streetview images were usual...",
+      "published": "2026-02-28T06:37:30+00:00",
+      "domain": "geoquests.io",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Huk vs. naniwa starcraft 2 [video]",
+      "link": "https://www.youtube.com/watch?v=xufeKPoeW_I",
+      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=xufeKPoeW_I\">https://www.youtube.com/watch?v=xufeKPoeW_I</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47191254\">https...",
+      "published": "2026-02-28T06:36:49+00:00",
+      "domain": "youtube.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Israel launches attack on Iran, defence minister says",
+      "link": "https://www.bbc.com/news/live/cn5ge95q6y7t",
+      "summary": "<p>Article URL: <a href=\"https://www.bbc.com/news/live/cn5ge95q6y7t\">https://www.bbc.com/news/live/cn5ge95q6y7t</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47191237\">https:/...",
+      "published": "2026-02-28T06:34:38+00:00",
+      "domain": "bbc.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Israel launches strike against Iran, declares state of emergency across country",
+      "link": "https://www.cnn.com/2026/02/28/middleeast/israel-attack-iran-intl-hnk",
+      "summary": "<p>Article URL: <a href=\"https://www.cnn.com/2026/02/28/middleeast/israel-attack-iran-intl-hnk\">https://www.cnn.com/2026/02/28/middleeast/israel-attack-iran-intl-hnk</a></p>\n<p>Comments URL: <a href=\"...",
+      "published": "2026-02-28T06:34:07+00:00",
+      "domain": "cnn.com",
+      "scores": {
+        "chaos": 11.6,
+        "anarchy": 3.0,
+        "overall": 7.3
+      },
+      "keywords": {
+        "chaos": [
+          "emergency"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Ask HN: AI driven \"legacy\" Debug and Monitoring Tools",
+      "link": "https://news.ycombinator.com/item?id=47191221",
+      "summary": "<p>When do we start incorporating AI into more \u201clegacy\u201d debugging and system monitoring tools. I\u2019m thinking an AI version of ProcDump maybe called like ContextDump. It\u2019s pulls all relevant system info...",
+      "published": "2026-02-28T06:31:01+00:00",
+      "domain": "news.ycombinator.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "How do I cancel my ChatGPT subscription?",
+      "link": "https://help.openai.com/en/articles/7232927-how-do-i-cancel-my-chatgpt-subscription",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47190997\">Comments</a>...",
+      "published": "2026-02-28T05:55:01+00:00",
+      "domain": "help.openai.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Cash issuing terminals",
+      "link": "https://computer.rip/2026-02-27-ibm-atm.html",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47190806\">Comments</a>...",
+      "published": "2026-02-28T05:21:21+00:00",
+      "domain": "computer.rip",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Don't use passkeys for encrypting user data",
+      "link": "https://blog.timcappalli.me/p/passkeys-prf-warning/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47189749\">Comments</a>...",
+      "published": "2026-02-28T03:11:40+00:00",
+      "domain": "blog.timcappalli.me",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Croatia declared free of landmines after 31 years",
+      "link": "https://glashrvatske.hrt.hr/en/domestic/croatia-declared-free-of-landmines-after-31-years-12593533",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47189535\">Comments</a>...",
+      "published": "2026-02-28T02:48:16+00:00",
+      "domain": "glashrvatske.hrt.hr",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -325,138 +329,28 @@
   ],
   "overall_ranked": [
     {
-      "title": "The Air Force's new ICBM is nearly ready to fly, but there's nowhere to put it",
-      "link": "https://arstechnica.com/space/2026/02/the-air-forces-new-icbm-is-nearly-ready-to-fly-but-theres-nowhere-to-put-them/",
-      "summary": "<p>Article URL: <a href=\"https://arstechnica.com/space/2026/02/the-air-forces-new-icbm-is-nearly-ready-to-fly-but-theres-nowhere-to-put-them/\">https://arstechnica.com/space/2026/02/the-air-forces-new-...",
-      "published": "2026-02-28T01:51:54+00:00",
-      "domain": "arstechnica.com",
+      "title": "Israel launches strike against Iran, declares state of emergency across country",
+      "link": "https://www.cnn.com/2026/02/28/middleeast/israel-attack-iran-intl-hnk",
+      "summary": "<p>Article URL: <a href=\"https://www.cnn.com/2026/02/28/middleeast/israel-attack-iran-intl-hnk\">https://www.cnn.com/2026/02/28/middleeast/israel-attack-iran-intl-hnk</a></p>\n<p>Comments URL: <a href=\"...",
+      "published": "2026-02-28T06:34:07+00:00",
+      "domain": "cnn.com",
       "scores": {
-        "chaos": 18.0,
-        "anarchy": 12.0,
-        "overall": 15.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Why Tehran's Two-Tiered Internet Is So Dangerous",
-      "link": "https://www.schneier.com/blog/archives/2026/02/why-tehrans-two-tiered-internet-is-so-dangerous.html",
-      "summary": "<p>Article URL: <a href=\"https://www.schneier.com/blog/archives/2026/02/why-tehrans-two-tiered-internet-is-so-dangerous.html\">https://www.schneier.com/blog/archives/2026/02/why-tehrans-two-tiered-inte...",
-      "published": "2026-02-28T01:45:48+00:00",
-      "domain": "schneier.com",
-      "scores": {
-        "chaos": 15.0,
-        "anarchy": 15.0,
-        "overall": 15.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "How I Built a 'Journalist' AI Agent in VS Code to Replace Me",
-      "link": "https://visualstudiomagazine.com/articles/2026/02/27/how-i-built-a-journalist-agent-in-vs-code-to-replace-me.aspx",
-      "summary": "<p>Article URL: <a href=\"https://visualstudiomagazine.com/articles/2026/02/27/how-i-built-a-journalist-agent-in-vs-code-to-replace-me.aspx\">https://visualstudiomagazine.com/articles/2026/02/27/how-i-b...",
-      "published": "2026-02-28T01:55:31+00:00",
-      "domain": "visualstudiomagazine.com",
-      "scores": {
-        "chaos": 3.0,
+        "chaos": 11.6,
         "anarchy": 3.0,
-        "overall": 3.0
+        "overall": 7.3
       },
       "keywords": {
-        "chaos": [],
+        "chaos": [
+          "emergency"
+        ],
         "anarchy": []
       }
     },
     {
-      "title": "Ollama 0.17 ships native OpenClaw integration \u2013 security implications",
-      "link": "https://clawmoat.com/blog/ollama-openclaw-security.html",
-      "summary": "<p>Article URL: <a href=\"https://clawmoat.com/blog/ollama-openclaw-security.html\">https://clawmoat.com/blog/ollama-openclaw-security.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com...",
-      "published": "2026-02-28T01:53:43+00:00",
-      "domain": "clawmoat.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: DiskFree \u2013 Find what's blocking your macOS disk and eject it",
-      "link": "https://getdiskfree.github.io/diskfree/",
-      "summary": "<p>Article URL: <a href=\"https://getdiskfree.github.io/diskfree/\">https://getdiskfree.github.io/diskfree/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47188893\">https://news....",
-      "published": "2026-02-28T01:40:33+00:00",
-      "domain": "getdiskfree.github.io",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Statement on the comments from Secretary of War Pete Hegseth",
-      "link": "https://www.anthropic.com/news/statement-comments-secretary-war",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47188697\">Comments</a>...",
-      "published": "2026-02-28T01:20:10+00:00",
-      "domain": "anthropic.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "We Will Not Be Divided",
-      "link": "https://notdivided.org",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47188473\">Comments</a>...",
-      "published": "2026-02-28T00:54:53+00:00",
-      "domain": "notdivided.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Qt45: A small polymerase ribozyme that can synthesize itself",
-      "link": "https://www.science.org/doi/10.1126/science.adt2760",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47187649\">Comments</a>...",
-      "published": "2026-02-27T23:42:14+00:00",
-      "domain": "science.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "DoJ Seizes $61 Million in Tether Linked to Pig Butchering Crypto Scams",
-      "link": "https://thehackernews.com/2026/02/doj-seizes-61-million-in-tether-linked.html",
-      "summary": "The U.S. Department of Justice (DoJ) this week announced the seizure of $61 million worth of Tether that were allegedly associated with bogus cryptocurrency schemes known as pig butchering.\nThe confis...",
-      "published": "2026-02-27T23:41:00+05:30",
+      "title": "Pentagon Designates Anthropic Supply Chain Risk Over AI Military Dispute",
+      "link": "https://thehackernews.com/2026/02/pentagon-designates-anthropic-supply.html",
+      "summary": "Anthropic on Friday hit back after U.S. Secretary of Defense Pete Hegseth directed the Pentagon to designate the artificial intelligence (AI) upstart as a \"supply chain risk.\"\n\"This action follows mon...",
+      "published": "2026-02-28T10:27:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -469,11 +363,123 @@
       }
     },
     {
-      "title": "Pentagon moves to designate Anthropic as a supply-chain risk",
-      "link": "https://www.reddit.com/r/technology/comments/1rgmq6x/pentagon_moves_to_designate_anthropic_as_a/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1rgmq6x/pentagon_moves_to_designate_anthropic_as_a/\"> <img alt=\"Pentagon moves to designate Anthropic as a supply-chain risk\" src...",
-      "published": "2026-02-27T23:36:38+00:00",
-      "domain": "reddit.com",
+      "title": "Show HN: I built GeoQuests where people can request photos of a place",
+      "link": "https://geoquests.io",
+      "summary": "<p>Hi HN. I had faced an issue where I wanted to know how a place I was travelling to looked like. Like everyone else I looked at google maps and snap chat too. But Google streetview images were usual...",
+      "published": "2026-02-28T06:37:30+00:00",
+      "domain": "geoquests.io",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Huk vs. naniwa starcraft 2 [video]",
+      "link": "https://www.youtube.com/watch?v=xufeKPoeW_I",
+      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=xufeKPoeW_I\">https://www.youtube.com/watch?v=xufeKPoeW_I</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47191254\">https...",
+      "published": "2026-02-28T06:36:49+00:00",
+      "domain": "youtube.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Israel launches attack on Iran, defence minister says",
+      "link": "https://www.bbc.com/news/live/cn5ge95q6y7t",
+      "summary": "<p>Article URL: <a href=\"https://www.bbc.com/news/live/cn5ge95q6y7t\">https://www.bbc.com/news/live/cn5ge95q6y7t</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47191237\">https:/...",
+      "published": "2026-02-28T06:34:38+00:00",
+      "domain": "bbc.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Ask HN: AI driven \"legacy\" Debug and Monitoring Tools",
+      "link": "https://news.ycombinator.com/item?id=47191221",
+      "summary": "<p>When do we start incorporating AI into more \u201clegacy\u201d debugging and system monitoring tools. I\u2019m thinking an AI version of ProcDump maybe called like ContextDump. It\u2019s pulls all relevant system info...",
+      "published": "2026-02-28T06:31:01+00:00",
+      "domain": "news.ycombinator.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "How do I cancel my ChatGPT subscription?",
+      "link": "https://help.openai.com/en/articles/7232927-how-do-i-cancel-my-chatgpt-subscription",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47190997\">Comments</a>...",
+      "published": "2026-02-28T05:55:01+00:00",
+      "domain": "help.openai.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Cash issuing terminals",
+      "link": "https://computer.rip/2026-02-27-ibm-atm.html",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47190806\">Comments</a>...",
+      "published": "2026-02-28T05:21:21+00:00",
+      "domain": "computer.rip",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Don't use passkeys for encrypting user data",
+      "link": "https://blog.timcappalli.me/p/passkeys-prf-warning/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47189749\">Comments</a>...",
+      "published": "2026-02-28T03:11:40+00:00",
+      "domain": "blog.timcappalli.me",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Croatia declared free of landmines after 31 years",
+      "link": "https://glashrvatske.hrt.hr/en/domestic/croatia-declared-free-of-landmines-after-31-years-12593533",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47189535\">Comments</a>...",
+      "published": "2026-02-28T02:48:16+00:00",
+      "domain": "glashrvatske.hrt.hr",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -487,138 +493,10 @@
   ],
   "all_articles": [
     {
-      "title": "How I Built a 'Journalist' AI Agent in VS Code to Replace Me",
-      "link": "https://visualstudiomagazine.com/articles/2026/02/27/how-i-built-a-journalist-agent-in-vs-code-to-replace-me.aspx",
-      "summary": "<p>Article URL: <a href=\"https://visualstudiomagazine.com/articles/2026/02/27/how-i-built-a-journalist-agent-in-vs-code-to-replace-me.aspx\">https://visualstudiomagazine.com/articles/2026/02/27/how-i-b...",
-      "published": "2026-02-28T01:55:31+00:00",
-      "domain": "visualstudiomagazine.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Ollama 0.17 ships native OpenClaw integration \u2013 security implications",
-      "link": "https://clawmoat.com/blog/ollama-openclaw-security.html",
-      "summary": "<p>Article URL: <a href=\"https://clawmoat.com/blog/ollama-openclaw-security.html\">https://clawmoat.com/blog/ollama-openclaw-security.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com...",
-      "published": "2026-02-28T01:53:43+00:00",
-      "domain": "clawmoat.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The Air Force's new ICBM is nearly ready to fly, but there's nowhere to put it",
-      "link": "https://arstechnica.com/space/2026/02/the-air-forces-new-icbm-is-nearly-ready-to-fly-but-theres-nowhere-to-put-them/",
-      "summary": "<p>Article URL: <a href=\"https://arstechnica.com/space/2026/02/the-air-forces-new-icbm-is-nearly-ready-to-fly-but-theres-nowhere-to-put-them/\">https://arstechnica.com/space/2026/02/the-air-forces-new-...",
-      "published": "2026-02-28T01:51:54+00:00",
-      "domain": "arstechnica.com",
-      "scores": {
-        "chaos": 18.0,
-        "anarchy": 12.0,
-        "overall": 15.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Why Tehran's Two-Tiered Internet Is So Dangerous",
-      "link": "https://www.schneier.com/blog/archives/2026/02/why-tehrans-two-tiered-internet-is-so-dangerous.html",
-      "summary": "<p>Article URL: <a href=\"https://www.schneier.com/blog/archives/2026/02/why-tehrans-two-tiered-internet-is-so-dangerous.html\">https://www.schneier.com/blog/archives/2026/02/why-tehrans-two-tiered-inte...",
-      "published": "2026-02-28T01:45:48+00:00",
-      "domain": "schneier.com",
-      "scores": {
-        "chaos": 15.0,
-        "anarchy": 15.0,
-        "overall": 15.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: DiskFree \u2013 Find what's blocking your macOS disk and eject it",
-      "link": "https://getdiskfree.github.io/diskfree/",
-      "summary": "<p>Article URL: <a href=\"https://getdiskfree.github.io/diskfree/\">https://getdiskfree.github.io/diskfree/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47188893\">https://news....",
-      "published": "2026-02-28T01:40:33+00:00",
-      "domain": "getdiskfree.github.io",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Statement on the comments from Secretary of War Pete Hegseth",
-      "link": "https://www.anthropic.com/news/statement-comments-secretary-war",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47188697\">Comments</a>...",
-      "published": "2026-02-28T01:20:10+00:00",
-      "domain": "anthropic.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "We Will Not Be Divided",
-      "link": "https://notdivided.org",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47188473\">Comments</a>...",
-      "published": "2026-02-28T00:54:53+00:00",
-      "domain": "notdivided.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Qt45: A small polymerase ribozyme that can synthesize itself",
-      "link": "https://www.science.org/doi/10.1126/science.adt2760",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47187649\">Comments</a>...",
-      "published": "2026-02-27T23:42:14+00:00",
-      "domain": "science.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "DoJ Seizes $61 Million in Tether Linked to Pig Butchering Crypto Scams",
-      "link": "https://thehackernews.com/2026/02/doj-seizes-61-million-in-tether-linked.html",
-      "summary": "The U.S. Department of Justice (DoJ) this week announced the seizure of $61 million worth of Tether that were allegedly associated with bogus cryptocurrency schemes known as pig butchering.\nThe confis...",
-      "published": "2026-02-27T23:41:00+05:30",
+      "title": "Pentagon Designates Anthropic Supply Chain Risk Over AI Military Dispute",
+      "link": "https://thehackernews.com/2026/02/pentagon-designates-anthropic-supply.html",
+      "summary": "Anthropic on Friday hit back after U.S. Secretary of Defense Pete Hegseth directed the Pentagon to designate the artificial intelligence (AI) upstart as a \"supply chain risk.\"\n\"This action follows mon...",
+      "published": "2026-02-28T10:27:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -631,11 +509,141 @@
       }
     },
     {
-      "title": "Pentagon moves to designate Anthropic as a supply-chain risk",
-      "link": "https://www.reddit.com/r/technology/comments/1rgmq6x/pentagon_moves_to_designate_anthropic_as_a/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1rgmq6x/pentagon_moves_to_designate_anthropic_as_a/\"> <img alt=\"Pentagon moves to designate Anthropic as a supply-chain risk\" src...",
-      "published": "2026-02-27T23:36:38+00:00",
-      "domain": "reddit.com",
+      "title": "Show HN: I built GeoQuests where people can request photos of a place",
+      "link": "https://geoquests.io",
+      "summary": "<p>Hi HN. I had faced an issue where I wanted to know how a place I was travelling to looked like. Like everyone else I looked at google maps and snap chat too. But Google streetview images were usual...",
+      "published": "2026-02-28T06:37:30+00:00",
+      "domain": "geoquests.io",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Huk vs. naniwa starcraft 2 [video]",
+      "link": "https://www.youtube.com/watch?v=xufeKPoeW_I",
+      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=xufeKPoeW_I\">https://www.youtube.com/watch?v=xufeKPoeW_I</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47191254\">https...",
+      "published": "2026-02-28T06:36:49+00:00",
+      "domain": "youtube.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Israel launches attack on Iran, defence minister says",
+      "link": "https://www.bbc.com/news/live/cn5ge95q6y7t",
+      "summary": "<p>Article URL: <a href=\"https://www.bbc.com/news/live/cn5ge95q6y7t\">https://www.bbc.com/news/live/cn5ge95q6y7t</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47191237\">https:/...",
+      "published": "2026-02-28T06:34:38+00:00",
+      "domain": "bbc.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Israel launches strike against Iran, declares state of emergency across country",
+      "link": "https://www.cnn.com/2026/02/28/middleeast/israel-attack-iran-intl-hnk",
+      "summary": "<p>Article URL: <a href=\"https://www.cnn.com/2026/02/28/middleeast/israel-attack-iran-intl-hnk\">https://www.cnn.com/2026/02/28/middleeast/israel-attack-iran-intl-hnk</a></p>\n<p>Comments URL: <a href=\"...",
+      "published": "2026-02-28T06:34:07+00:00",
+      "domain": "cnn.com",
+      "scores": {
+        "chaos": 11.6,
+        "anarchy": 3.0,
+        "overall": 7.3
+      },
+      "keywords": {
+        "chaos": [
+          "emergency"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Ask HN: AI driven \"legacy\" Debug and Monitoring Tools",
+      "link": "https://news.ycombinator.com/item?id=47191221",
+      "summary": "<p>When do we start incorporating AI into more \u201clegacy\u201d debugging and system monitoring tools. I\u2019m thinking an AI version of ProcDump maybe called like ContextDump. It\u2019s pulls all relevant system info...",
+      "published": "2026-02-28T06:31:01+00:00",
+      "domain": "news.ycombinator.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "How do I cancel my ChatGPT subscription?",
+      "link": "https://help.openai.com/en/articles/7232927-how-do-i-cancel-my-chatgpt-subscription",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47190997\">Comments</a>...",
+      "published": "2026-02-28T05:55:01+00:00",
+      "domain": "help.openai.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Cash issuing terminals",
+      "link": "https://computer.rip/2026-02-27-ibm-atm.html",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47190806\">Comments</a>...",
+      "published": "2026-02-28T05:21:21+00:00",
+      "domain": "computer.rip",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Don't use passkeys for encrypting user data",
+      "link": "https://blog.timcappalli.me/p/passkeys-prf-warning/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47189749\">Comments</a>...",
+      "published": "2026-02-28T03:11:40+00:00",
+      "domain": "blog.timcappalli.me",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Croatia declared free of landmines after 31 years",
+      "link": "https://glashrvatske.hrt.hr/en/domestic/croatia-declared-free-of-landmines-after-31-years-12593533",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47189535\">Comments</a>...",
+      "published": "2026-02-28T02:48:16+00:00",
+      "domain": "glashrvatske.hrt.hr",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
