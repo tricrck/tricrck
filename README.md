@@ -16,17 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Israel launches strike against Iran, declares state of emergency across country
+### Show HN: We analyzed 312 landing pages – most navigation flows are broken
 - **Published**: February 28, 2026
-- **Summary**: https://www.cnn.com/2026/02/28/middleeast/israel-attack-iran-intl-hnk</a></p>
-<p>Comments URL: <a href="......
-- **Keywords**: emergency
-- [Read more](https://www.cnn.com/2026/02/28/middleeast/israel-attack-iran-intl-hnk)
+- **Summary**: https://no-edit.lovable.app</a>)
+over the last few months, and while testing it, ......
+- **Keywords**: broken
+- [Read more](https://news.ycombinator.com/item?id=47194296)
 
-### Pentagon Designates Anthropic Supply Chain Risk Over AI Military Dispute
+### Thousands of Public Google Cloud API Keys Exposed with Gemini Access After API Enablement
 - **Published**: February 28, 2026
-- **Summary**: Anthropic on Friday hit back after U.S. Secretary of Defense Pete Hegseth directed the Pentagon to designate the artificial intelligence (AI) upstart ...
-- [Read more](https://thehackernews.com/2026/02/pentagon-designates-anthropic-supply.html)
+- **Summary**: New research has found that Google Cloud API keys, typically designated as project identifiers for billing purposes, could be abused to authenticate t...
+- [Read more](https://thehackernews.com/2026/02/thousands-of-public-google-cloud-api.html)
 
 ---
 
