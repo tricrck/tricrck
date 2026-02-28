@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### 900+ Sangoma FreePBX Instances Compromised in Ongoing Web Shell Attacks
-- **Published**: February 27, 2026
-- **Summary**: The Shadowserver Foundation has revealed that over 900 Sangoma FreePBX instances still remain infected with web shells as part of attacks that exploit...
-- [Read more](https://thehackernews.com/2026/02/900-sangoma-freepbx-instances.html)
+### The Air Force's new ICBM is nearly ready to fly, but there's nowhere to put it
+- **Published**: February 28, 2026
+- **Summary**: https://arstechnica.com/space/2026/02/the-air-forces-new-......
+- [Read more](https://arstechnica.com/space/2026/02/the-air-forces-new-icbm-is-nearly-ready-to-fly-but-theres-nowhere-to-put-them/)
 
-### Malicious Go Crypto Module Steals Passwords, Deploys Rekoobe Backdoor
-- **Published**: February 27, 2026
-- **Summary**: Cybersecurity researchers have disclosed details of a malicious Go module that's designed to harvest passwords, create persistent access via SSH, and ...
-- [Read more](https://thehackernews.com/2026/02/malicious-go-crypto-module-steals.html)
+### Why Tehran's Two-Tiered Internet Is So Dangerous
+- **Published**: February 28, 2026
+- **Summary**: https://www.schneier.com/blog/archives/2026/02/why-tehrans-two-tiered-inte......
+- [Read more](https://www.schneier.com/blog/archives/2026/02/why-tehrans-two-tiered-internet-is-so-dangerous.html)
 
 ---
 
