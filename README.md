@@ -16,15 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Google quantum-proofs HTTPS by squeezing 15kB of data into 700-byte space
+### Show HN: Auto-cleanup for Claude Code's orphan process memory leak
 - **Published**: March 01, 2026
-- **Summary**: https://arstechnica.com/security/2026/02/google-is-using-clever-math......
-- [Read more](https://arstechnica.com/security/2026/02/google-is-using-clever-math-to-quantum-proof-https-certificates/)
+- **Summary**: https://github.com/theQuert/claude-code-cleanup</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4720617......
+- [Read more](https://github.com/theQuert/claude-code-cleanup)
 
-### Prior to attacks CIA assessed Khamenei could be replaced by IRGC headliners
+### How did I believe that? A cult survivor looks back at his lost years
 - **Published**: March 01, 2026
-- **Summary**: https://www.reuters.com/world/middle-east/pr......
-- [Read more](https://www.reuters.com/world/middle-east/prior-iran-attacks-cia-assessed-khamenei-would-be-replaced-by-hardline-irgc-2026-02-28/)
+- **Summary**: https://www.theguardian.com/tv-and-radio/2026/feb/28/cult-survivors-stori......
+- [Read more](https://www.theguardian.com/tv-and-radio/2026/feb/28/cult-survivors-stories-aftercult-podcast-ntwnfb)
 
 ---
 
