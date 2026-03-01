@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Iran's Supreme Leader Ali Khamenei Killed
+### Google quantum-proofs HTTPS by squeezing 15kB of data into 700-byte space
 - **Published**: March 01, 2026
-- **Summary**: https://www.reuters.com/world/middle-east/irans-su......
-- [Read more](https://www.reuters.com/world/middle-east/irans-supreme-leader-ali-khamenei-killed-senior-israeli-official-says-2026-02-28/)
+- **Summary**: https://arstechnica.com/security/2026/02/google-is-using-clever-math......
+- [Read more](https://arstechnica.com/security/2026/02/google-is-using-clever-math-to-quantum-proof-https-certificates/)
 
-### Ask HN: What did you find out or explore today?
+### Prior to attacks CIA assessed Khamenei could be replaced by IRGC headliners
 - **Published**: March 01, 2026
-- **Summary**: <p>Since the last one was so popular and hundreds of you shared your little discoveries. It doesn't matter how big or small your discovery was, just s...
-- [Read more](https://news.ycombinator.com/item?id=47202917)
+- **Summary**: https://www.reuters.com/world/middle-east/pr......
+- [Read more](https://www.reuters.com/world/middle-east/prior-iran-attacks-cia-assessed-khamenei-would-be-replaced-by-hardline-irgc-2026-02-28/)
 
 ---
 
