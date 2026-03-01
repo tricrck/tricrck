@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### ClawJacked Flaw Lets Malicious Sites Hijack Local OpenClaw AI Agents via WebSocket
-- **Published**: February 28, 2026
-- **Summary**: OpenClaw has fixed a high-severity security issue that, if successfully exploited, could have allowed a malicious website to connect to a locally runn...
-- [Read more](https://thehackernews.com/2026/02/clawjacked-flaw-lets-malicious-sites.html)
+### Iran's Supreme Leader Ali Khamenei Killed
+- **Published**: March 01, 2026
+- **Summary**: https://www.reuters.com/world/middle-east/irans-su......
+- [Read more](https://www.reuters.com/world/middle-east/irans-supreme-leader-ali-khamenei-killed-senior-israeli-official-says-2026-02-28/)
 
-### C-Mera
-- **Published**: February 28, 2026
-- **Summary**: https://github.com/kiselgra/c-mera</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47198579">https://news.ycombinato......
-- [Read more](https://github.com/kiselgra/c-mera)
+### Ask HN: What did you find out or explore today?
+- **Published**: March 01, 2026
+- **Summary**: <p>Since the last one was so popular and hundreds of you shared your little discoveries. It doesn't matter how big or small your discovery was, just s...
+- [Read more](https://news.ycombinator.com/item?id=47202917)
 
 ---
 
