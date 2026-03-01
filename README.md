@@ -16,16 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Show HN: Auto-cleanup for Claude Code's orphan process memory leak
+### All it takes to poison AI training data is to create a website
 - **Published**: March 01, 2026
-- **Summary**: https://github.com/theQuert/claude-code-cleanup</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4720617......
-- [Read more](https://github.com/theQuert/claude-code-cleanup)
+- **Summary**: https://www.schneier.com/blog/archives/2026/02/poisoning-ai-training-data.html</a></p>
+<p>Comme......
+- [Read more](https://www.schneier.com/blog/archives/2026/02/poisoning-ai-training-data.html)
 
-### How did I believe that? A cult survivor looks back at his lost years
+### Epstein files reveal deeper ties to scientists than previously known
 - **Published**: March 01, 2026
-- **Summary**: https://www.theguardian.com/tv-and-radio/2026/feb/28/cult-survivors-stori......
-- [Read more](https://www.theguardian.com/tv-and-radio/2026/feb/28/cult-survivors-stories-aftercult-podcast-ntwnfb)
+- **Summary**: https://www.nature.com/articles/d41586-026-00388-0</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4......
+- [Read more](https://www.nature.com/articles/d41586-026-00388-0)
 
 ---
 
