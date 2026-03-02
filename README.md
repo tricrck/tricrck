@@ -16,17 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### All it takes to poison AI training data is to create a website
-- **Published**: March 01, 2026
-- **Summary**: https://www.schneier.com/blog/archives/2026/02/poisoning-ai-training-data.html</a></p>
-<p>Comme......
-- [Read more](https://www.schneier.com/blog/archives/2026/02/poisoning-ai-training-data.html)
+### Read Michel de Montaigne's Essays in Modern English
+- **Published**: March 02, 2026
+- **Summary**: https://magicreader.com/montaigne</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47212989">https://news.ycombinator.......
+- [Read more](https://magicreader.com/montaigne)
 
-### Epstein files reveal deeper ties to scientists than previously known
-- **Published**: March 01, 2026
-- **Summary**: https://www.nature.com/articles/d41586-026-00388-0</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4......
-- [Read more](https://www.nature.com/articles/d41586-026-00388-0)
+### Block and Tackle: Job Cuts and the AI Narrative
+- **Published**: March 02, 2026
+- **Summary**: https://om.co/2026/02/28/block-tackle-job-cuts-the-ai-narrative/</a></p>
+<p>Comments URL: <a href="https://ne......
+- [Read more](https://om.co/2026/02/28/block-tackle-job-cuts-the-ai-narrative/)
 
 ---
 
