@@ -1,6 +1,134 @@
 {
   "chaos_ranked": [
     {
+      "title": "New Chrome Vulnerability Let Malicious Extensions Escalate Privileges via Gemini Panel",
+      "link": "https://thehackernews.com/2026/03/new-chrome-vulnerability-let-malicious.html",
+      "summary": "Cybersecurity researchers have disclosed details of a now-patched security flaw in Google Chrome that could have permitted attackers to escalate privileges and gain access to local files on the system...",
+      "published": "2026-03-02T22:38:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Google Develops Merkle Tree Certificates to Enable Quantum-Resistant HTTPS in Chrome",
+      "link": "https://thehackernews.com/2026/03/google-develops-merkle-tree.html",
+      "summary": "Google has announced a new program in its Chrome browser to ensure that HTTPS certificates are secure against the future risk posed by quantum computers.\n\"To ensure the scalability and efficiency of t...",
+      "published": "2026-03-02T22:22:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "\u26a1 Weekly Recap: SD-WAN 0-Day, Critical CVEs, Telegram Probe, Smart TV Proxy SDK and More",
+      "link": "https://thehackernews.com/2026/03/weekly-recap-sd-wan-0-day-critical-cves.html",
+      "summary": "This week is not about one big event. It shows where things are moving. Network systems, cloud setups, AI tools, and common apps are all being pushed in different ways. Small gaps in access control, e...",
+      "published": "2026-03-02T18:56:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Ccbridge \u2013 A CLI to Orchestrate Claude Code and Codex",
+      "link": "https://github.com/marko3190/ccbridge",
+      "summary": "<p>Article URL: <a href=\"https://github.com/marko3190/ccbridge\">https://github.com/marko3190/ccbridge</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47222167\">https://news.ycom...",
+      "published": "2026-03-02T18:41:26+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: War.direct \u2013 Real-time conflict intelligence dashboard for the Iran war",
+      "link": "https://war.direct",
+      "summary": "<p>Built this over a weekend as a public service when the US-Israel-Iran conflict broke out. Non-commercial, no   \n  ads, no paywall.<p><pre><code>  What it does:\n  - 25+ live TV channels (Al Jazeera,...",
+      "published": "2026-03-02T18:41:10+00:00",
+      "domain": "war.direct",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Self-hosted AI agent observability (OTel, Grafana, bash hooks)",
+      "link": "https://github.com/shepard-system/shepard-obs-stack",
+      "summary": "<p>Article URL: <a href=\"https://github.com/shepard-system/shepard-obs-stack\">https://github.com/shepard-system/shepard-obs-stack</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id...",
+      "published": "2026-03-02T18:38:36+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "New Best Friend Is a Chatbot",
+      "link": "https://tapestry.news/tech/ai-companions/",
+      "summary": "<p>Article URL: <a href=\"https://tapestry.news/tech/ai-companions/\">https://tapestry.news/tech/ai-companions/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47222117\">https://n...",
+      "published": "2026-03-02T18:38:14+00:00",
+      "domain": "tapestry.news",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "OpenAI Just Got Anthropic's Pentagon Deal",
+      "link": "https://tapestry.news/tech/openai-pentagon/",
+      "summary": "<p>Article URL: <a href=\"https://tapestry.news/tech/openai-pentagon/\">https://tapestry.news/tech/openai-pentagon/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47222115\">https...",
+      "published": "2026-03-02T18:37:56+00:00",
+      "domain": "tapestry.news",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "How to Protect Your SaaS from Bot Attacks with SafeLine WAF",
       "link": "https://thehackernews.com/2026/03/how-to-protect-your-saas-from-bot.html",
       "summary": "Most SaaS teams remember the day their user traffic started growing fast. Few notice the day bots started targeting them.\nOn paper, everything looks great: more sign-ups, more sessions, more API calls...",
@@ -17,139 +145,11 @@
       }
     },
     {
-      "title": "APT28 Tied to CVE-2026-21513 MSHTML 0-Day Exploited Before Feb 2026 Patch Tuesday",
-      "link": "https://thehackernews.com/2026/03/apt28-tied-to-cve-2026-21513-mshtml-0.html",
-      "summary": "A recently disclosed security flaw patched by Microsoft may have been exploited by the Russia-linked state-sponsored threat actor known as APT28, according to new findings from Akamai.\nThe vulnerabili...",
-      "published": "2026-03-02T16:06:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "North Korean Hackers Publish 26 npm Packages Hiding Pastebin C2 for Cross-Platform RAT",
-      "link": "https://thehackernews.com/2026/03/north-korean-hackers-publish-26-npm.html",
-      "summary": "Cybersecurity researchers have disclosed a new iteration of the ongoing Contagious Interview campaign, where the North Korean threat actors have published a set of 26 malicious packages to the npm reg...",
-      "published": "2026-03-02T14:14:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: Vibma \u2013 let agents create professional design system in Figma, directly",
-      "link": "https://github.com/ufira-ai/Vibma",
-      "summary": "<p>Article URL: <a href=\"https://github.com/ufira-ai/Vibma\">https://github.com/ufira-ai/Vibma</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47217411\">https://news.ycombinator....",
-      "published": "2026-03-02T12:57:33+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Sneak peek at the redesigned Stack Overflow",
-      "link": "https://stackoverflow.blog/2026/02/25/your-sneak-peek-at-the-redesigned-stack-overflow/",
-      "summary": "<p>Article URL: <a href=\"https://stackoverflow.blog/2026/02/25/your-sneak-peek-at-the-redesigned-stack-overflow/\">https://stackoverflow.blog/2026/02/25/your-sneak-peek-at-the-redesigned-stack-overflow...",
-      "published": "2026-03-02T12:57:25+00:00",
-      "domain": "stackoverflow.blog",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "AMD Am386 released March 2, 1991",
-      "link": "https://dfarq.homeip.net/amd-am386-released-march-2-1991/",
-      "summary": "<p>Article URL: <a href=\"https://dfarq.homeip.net/amd-am386-released-march-2-1991/\">https://dfarq.homeip.net/amd-am386-released-march-2-1991/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator...",
-      "published": "2026-03-02T12:56:46+00:00",
-      "domain": "dfarq.homeip.net",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: A visual sitemap tool to see your website structure in seconds",
-      "link": "https://news.ycombinator.com/item?id=47217399",
-      "summary": "<p>Most small design tools focus on components, templates, or AI generation.\nBut when traffic grows, structure becomes the real bottleneck.\nI built a visual sitemap tool EPIC(<a href=\"https://no-edit....",
-      "published": "2026-03-02T12:56:43+00:00",
-      "domain": "news.ycombinator.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Free Dev Playgrounds",
-      "link": "https://labex.io/playgrounds",
-      "summary": "<p>Article URL: <a href=\"https://labex.io/playgrounds\">https://labex.io/playgrounds</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47217378\">https://news.ycombinator.com/item?i...",
-      "published": "2026-03-02T12:54:16+00:00",
-      "domain": "labex.io",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Claude Code LSP",
-      "link": "https://karanbansal.in/blog/claude-code-lsp/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47216765\">Comments</a>...",
-      "published": "2026-03-02T11:47:16+00:00",
-      "domain": "karanbansal.in",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Microsoft gets tired of \u201cMicroslop,\u201d bans the word on its Discord, then locks the server after backlash",
-      "link": "https://www.reddit.com/r/technology/comments/1riqdmj/microsoft_gets_tired_of_microslop_bans_the_word/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1riqdmj/microsoft_gets_tired_of_microslop_bans_the_word/\"> <img alt=\"Microsoft gets tired of \u201cMicroslop,\u201d bans the word on its Di...",
-      "published": "2026-03-02T11:29:01+00:00",
-      "domain": "reddit.com",
+      "title": "Show HN: Govbase \u2013 Follow a bill from source text to news bias to social posts",
+      "link": "https://govbase.com",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47220809\">Comments</a>...",
+      "published": "2026-03-02T17:08:53+00:00",
+      "domain": "govbase.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -163,6 +163,134 @@
   ],
   "anarchy_ranked": [
     {
+      "title": "New Chrome Vulnerability Let Malicious Extensions Escalate Privileges via Gemini Panel",
+      "link": "https://thehackernews.com/2026/03/new-chrome-vulnerability-let-malicious.html",
+      "summary": "Cybersecurity researchers have disclosed details of a now-patched security flaw in Google Chrome that could have permitted attackers to escalate privileges and gain access to local files on the system...",
+      "published": "2026-03-02T22:38:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Google Develops Merkle Tree Certificates to Enable Quantum-Resistant HTTPS in Chrome",
+      "link": "https://thehackernews.com/2026/03/google-develops-merkle-tree.html",
+      "summary": "Google has announced a new program in its Chrome browser to ensure that HTTPS certificates are secure against the future risk posed by quantum computers.\n\"To ensure the scalability and efficiency of t...",
+      "published": "2026-03-02T22:22:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "\u26a1 Weekly Recap: SD-WAN 0-Day, Critical CVEs, Telegram Probe, Smart TV Proxy SDK and More",
+      "link": "https://thehackernews.com/2026/03/weekly-recap-sd-wan-0-day-critical-cves.html",
+      "summary": "This week is not about one big event. It shows where things are moving. Network systems, cloud setups, AI tools, and common apps are all being pushed in different ways. Small gaps in access control, e...",
+      "published": "2026-03-02T18:56:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Ccbridge \u2013 A CLI to Orchestrate Claude Code and Codex",
+      "link": "https://github.com/marko3190/ccbridge",
+      "summary": "<p>Article URL: <a href=\"https://github.com/marko3190/ccbridge\">https://github.com/marko3190/ccbridge</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47222167\">https://news.ycom...",
+      "published": "2026-03-02T18:41:26+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: War.direct \u2013 Real-time conflict intelligence dashboard for the Iran war",
+      "link": "https://war.direct",
+      "summary": "<p>Built this over a weekend as a public service when the US-Israel-Iran conflict broke out. Non-commercial, no   \n  ads, no paywall.<p><pre><code>  What it does:\n  - 25+ live TV channels (Al Jazeera,...",
+      "published": "2026-03-02T18:41:10+00:00",
+      "domain": "war.direct",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Self-hosted AI agent observability (OTel, Grafana, bash hooks)",
+      "link": "https://github.com/shepard-system/shepard-obs-stack",
+      "summary": "<p>Article URL: <a href=\"https://github.com/shepard-system/shepard-obs-stack\">https://github.com/shepard-system/shepard-obs-stack</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id...",
+      "published": "2026-03-02T18:38:36+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "New Best Friend Is a Chatbot",
+      "link": "https://tapestry.news/tech/ai-companions/",
+      "summary": "<p>Article URL: <a href=\"https://tapestry.news/tech/ai-companions/\">https://tapestry.news/tech/ai-companions/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47222117\">https://n...",
+      "published": "2026-03-02T18:38:14+00:00",
+      "domain": "tapestry.news",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "OpenAI Just Got Anthropic's Pentagon Deal",
+      "link": "https://tapestry.news/tech/openai-pentagon/",
+      "summary": "<p>Article URL: <a href=\"https://tapestry.news/tech/openai-pentagon/\">https://tapestry.news/tech/openai-pentagon/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47222115\">https...",
+      "published": "2026-03-02T18:37:56+00:00",
+      "domain": "tapestry.news",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "How to Protect Your SaaS from Bot Attacks with SafeLine WAF",
       "link": "https://thehackernews.com/2026/03/how-to-protect-your-saas-from-bot.html",
       "summary": "Most SaaS teams remember the day their user traffic started growing fast. Few notice the day bots started targeting them.\nOn paper, everything looks great: more sign-ups, more sessions, more API calls...",
@@ -179,139 +307,11 @@
       }
     },
     {
-      "title": "APT28 Tied to CVE-2026-21513 MSHTML 0-Day Exploited Before Feb 2026 Patch Tuesday",
-      "link": "https://thehackernews.com/2026/03/apt28-tied-to-cve-2026-21513-mshtml-0.html",
-      "summary": "A recently disclosed security flaw patched by Microsoft may have been exploited by the Russia-linked state-sponsored threat actor known as APT28, according to new findings from Akamai.\nThe vulnerabili...",
-      "published": "2026-03-02T16:06:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "North Korean Hackers Publish 26 npm Packages Hiding Pastebin C2 for Cross-Platform RAT",
-      "link": "https://thehackernews.com/2026/03/north-korean-hackers-publish-26-npm.html",
-      "summary": "Cybersecurity researchers have disclosed a new iteration of the ongoing Contagious Interview campaign, where the North Korean threat actors have published a set of 26 malicious packages to the npm reg...",
-      "published": "2026-03-02T14:14:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: Vibma \u2013 let agents create professional design system in Figma, directly",
-      "link": "https://github.com/ufira-ai/Vibma",
-      "summary": "<p>Article URL: <a href=\"https://github.com/ufira-ai/Vibma\">https://github.com/ufira-ai/Vibma</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47217411\">https://news.ycombinator....",
-      "published": "2026-03-02T12:57:33+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Sneak peek at the redesigned Stack Overflow",
-      "link": "https://stackoverflow.blog/2026/02/25/your-sneak-peek-at-the-redesigned-stack-overflow/",
-      "summary": "<p>Article URL: <a href=\"https://stackoverflow.blog/2026/02/25/your-sneak-peek-at-the-redesigned-stack-overflow/\">https://stackoverflow.blog/2026/02/25/your-sneak-peek-at-the-redesigned-stack-overflow...",
-      "published": "2026-03-02T12:57:25+00:00",
-      "domain": "stackoverflow.blog",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "AMD Am386 released March 2, 1991",
-      "link": "https://dfarq.homeip.net/amd-am386-released-march-2-1991/",
-      "summary": "<p>Article URL: <a href=\"https://dfarq.homeip.net/amd-am386-released-march-2-1991/\">https://dfarq.homeip.net/amd-am386-released-march-2-1991/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator...",
-      "published": "2026-03-02T12:56:46+00:00",
-      "domain": "dfarq.homeip.net",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: A visual sitemap tool to see your website structure in seconds",
-      "link": "https://news.ycombinator.com/item?id=47217399",
-      "summary": "<p>Most small design tools focus on components, templates, or AI generation.\nBut when traffic grows, structure becomes the real bottleneck.\nI built a visual sitemap tool EPIC(<a href=\"https://no-edit....",
-      "published": "2026-03-02T12:56:43+00:00",
-      "domain": "news.ycombinator.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Free Dev Playgrounds",
-      "link": "https://labex.io/playgrounds",
-      "summary": "<p>Article URL: <a href=\"https://labex.io/playgrounds\">https://labex.io/playgrounds</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47217378\">https://news.ycombinator.com/item?i...",
-      "published": "2026-03-02T12:54:16+00:00",
-      "domain": "labex.io",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Claude Code LSP",
-      "link": "https://karanbansal.in/blog/claude-code-lsp/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47216765\">Comments</a>...",
-      "published": "2026-03-02T11:47:16+00:00",
-      "domain": "karanbansal.in",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Microsoft gets tired of \u201cMicroslop,\u201d bans the word on its Discord, then locks the server after backlash",
-      "link": "https://www.reddit.com/r/technology/comments/1riqdmj/microsoft_gets_tired_of_microslop_bans_the_word/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1riqdmj/microsoft_gets_tired_of_microslop_bans_the_word/\"> <img alt=\"Microsoft gets tired of \u201cMicroslop,\u201d bans the word on its Di...",
-      "published": "2026-03-02T11:29:01+00:00",
-      "domain": "reddit.com",
+      "title": "Show HN: Govbase \u2013 Follow a bill from source text to news bias to social posts",
+      "link": "https://govbase.com",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47220809\">Comments</a>...",
+      "published": "2026-03-02T17:08:53+00:00",
+      "domain": "govbase.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -325,6 +325,134 @@
   ],
   "overall_ranked": [
     {
+      "title": "New Chrome Vulnerability Let Malicious Extensions Escalate Privileges via Gemini Panel",
+      "link": "https://thehackernews.com/2026/03/new-chrome-vulnerability-let-malicious.html",
+      "summary": "Cybersecurity researchers have disclosed details of a now-patched security flaw in Google Chrome that could have permitted attackers to escalate privileges and gain access to local files on the system...",
+      "published": "2026-03-02T22:38:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Google Develops Merkle Tree Certificates to Enable Quantum-Resistant HTTPS in Chrome",
+      "link": "https://thehackernews.com/2026/03/google-develops-merkle-tree.html",
+      "summary": "Google has announced a new program in its Chrome browser to ensure that HTTPS certificates are secure against the future risk posed by quantum computers.\n\"To ensure the scalability and efficiency of t...",
+      "published": "2026-03-02T22:22:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "\u26a1 Weekly Recap: SD-WAN 0-Day, Critical CVEs, Telegram Probe, Smart TV Proxy SDK and More",
+      "link": "https://thehackernews.com/2026/03/weekly-recap-sd-wan-0-day-critical-cves.html",
+      "summary": "This week is not about one big event. It shows where things are moving. Network systems, cloud setups, AI tools, and common apps are all being pushed in different ways. Small gaps in access control, e...",
+      "published": "2026-03-02T18:56:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Ccbridge \u2013 A CLI to Orchestrate Claude Code and Codex",
+      "link": "https://github.com/marko3190/ccbridge",
+      "summary": "<p>Article URL: <a href=\"https://github.com/marko3190/ccbridge\">https://github.com/marko3190/ccbridge</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47222167\">https://news.ycom...",
+      "published": "2026-03-02T18:41:26+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: War.direct \u2013 Real-time conflict intelligence dashboard for the Iran war",
+      "link": "https://war.direct",
+      "summary": "<p>Built this over a weekend as a public service when the US-Israel-Iran conflict broke out. Non-commercial, no   \n  ads, no paywall.<p><pre><code>  What it does:\n  - 25+ live TV channels (Al Jazeera,...",
+      "published": "2026-03-02T18:41:10+00:00",
+      "domain": "war.direct",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Self-hosted AI agent observability (OTel, Grafana, bash hooks)",
+      "link": "https://github.com/shepard-system/shepard-obs-stack",
+      "summary": "<p>Article URL: <a href=\"https://github.com/shepard-system/shepard-obs-stack\">https://github.com/shepard-system/shepard-obs-stack</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id...",
+      "published": "2026-03-02T18:38:36+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "New Best Friend Is a Chatbot",
+      "link": "https://tapestry.news/tech/ai-companions/",
+      "summary": "<p>Article URL: <a href=\"https://tapestry.news/tech/ai-companions/\">https://tapestry.news/tech/ai-companions/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47222117\">https://n...",
+      "published": "2026-03-02T18:38:14+00:00",
+      "domain": "tapestry.news",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "OpenAI Just Got Anthropic's Pentagon Deal",
+      "link": "https://tapestry.news/tech/openai-pentagon/",
+      "summary": "<p>Article URL: <a href=\"https://tapestry.news/tech/openai-pentagon/\">https://tapestry.news/tech/openai-pentagon/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47222115\">https...",
+      "published": "2026-03-02T18:37:56+00:00",
+      "domain": "tapestry.news",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "How to Protect Your SaaS from Bot Attacks with SafeLine WAF",
       "link": "https://thehackernews.com/2026/03/how-to-protect-your-saas-from-bot.html",
       "summary": "Most SaaS teams remember the day their user traffic started growing fast. Few notice the day bots started targeting them.\nOn paper, everything looks great: more sign-ups, more sessions, more API calls...",
@@ -341,139 +469,11 @@
       }
     },
     {
-      "title": "APT28 Tied to CVE-2026-21513 MSHTML 0-Day Exploited Before Feb 2026 Patch Tuesday",
-      "link": "https://thehackernews.com/2026/03/apt28-tied-to-cve-2026-21513-mshtml-0.html",
-      "summary": "A recently disclosed security flaw patched by Microsoft may have been exploited by the Russia-linked state-sponsored threat actor known as APT28, according to new findings from Akamai.\nThe vulnerabili...",
-      "published": "2026-03-02T16:06:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "North Korean Hackers Publish 26 npm Packages Hiding Pastebin C2 for Cross-Platform RAT",
-      "link": "https://thehackernews.com/2026/03/north-korean-hackers-publish-26-npm.html",
-      "summary": "Cybersecurity researchers have disclosed a new iteration of the ongoing Contagious Interview campaign, where the North Korean threat actors have published a set of 26 malicious packages to the npm reg...",
-      "published": "2026-03-02T14:14:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: Vibma \u2013 let agents create professional design system in Figma, directly",
-      "link": "https://github.com/ufira-ai/Vibma",
-      "summary": "<p>Article URL: <a href=\"https://github.com/ufira-ai/Vibma\">https://github.com/ufira-ai/Vibma</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47217411\">https://news.ycombinator....",
-      "published": "2026-03-02T12:57:33+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Sneak peek at the redesigned Stack Overflow",
-      "link": "https://stackoverflow.blog/2026/02/25/your-sneak-peek-at-the-redesigned-stack-overflow/",
-      "summary": "<p>Article URL: <a href=\"https://stackoverflow.blog/2026/02/25/your-sneak-peek-at-the-redesigned-stack-overflow/\">https://stackoverflow.blog/2026/02/25/your-sneak-peek-at-the-redesigned-stack-overflow...",
-      "published": "2026-03-02T12:57:25+00:00",
-      "domain": "stackoverflow.blog",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "AMD Am386 released March 2, 1991",
-      "link": "https://dfarq.homeip.net/amd-am386-released-march-2-1991/",
-      "summary": "<p>Article URL: <a href=\"https://dfarq.homeip.net/amd-am386-released-march-2-1991/\">https://dfarq.homeip.net/amd-am386-released-march-2-1991/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator...",
-      "published": "2026-03-02T12:56:46+00:00",
-      "domain": "dfarq.homeip.net",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: A visual sitemap tool to see your website structure in seconds",
-      "link": "https://news.ycombinator.com/item?id=47217399",
-      "summary": "<p>Most small design tools focus on components, templates, or AI generation.\nBut when traffic grows, structure becomes the real bottleneck.\nI built a visual sitemap tool EPIC(<a href=\"https://no-edit....",
-      "published": "2026-03-02T12:56:43+00:00",
-      "domain": "news.ycombinator.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Free Dev Playgrounds",
-      "link": "https://labex.io/playgrounds",
-      "summary": "<p>Article URL: <a href=\"https://labex.io/playgrounds\">https://labex.io/playgrounds</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47217378\">https://news.ycombinator.com/item?i...",
-      "published": "2026-03-02T12:54:16+00:00",
-      "domain": "labex.io",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Claude Code LSP",
-      "link": "https://karanbansal.in/blog/claude-code-lsp/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47216765\">Comments</a>...",
-      "published": "2026-03-02T11:47:16+00:00",
-      "domain": "karanbansal.in",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Microsoft gets tired of \u201cMicroslop,\u201d bans the word on its Discord, then locks the server after backlash",
-      "link": "https://www.reddit.com/r/technology/comments/1riqdmj/microsoft_gets_tired_of_microslop_bans_the_word/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1riqdmj/microsoft_gets_tired_of_microslop_bans_the_word/\"> <img alt=\"Microsoft gets tired of \u201cMicroslop,\u201d bans the word on its Di...",
-      "published": "2026-03-02T11:29:01+00:00",
-      "domain": "reddit.com",
+      "title": "Show HN: Govbase \u2013 Follow a bill from source text to news bias to social posts",
+      "link": "https://govbase.com",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47220809\">Comments</a>...",
+      "published": "2026-03-02T17:08:53+00:00",
+      "domain": "govbase.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -487,6 +487,134 @@
   ],
   "all_articles": [
     {
+      "title": "New Chrome Vulnerability Let Malicious Extensions Escalate Privileges via Gemini Panel",
+      "link": "https://thehackernews.com/2026/03/new-chrome-vulnerability-let-malicious.html",
+      "summary": "Cybersecurity researchers have disclosed details of a now-patched security flaw in Google Chrome that could have permitted attackers to escalate privileges and gain access to local files on the system...",
+      "published": "2026-03-02T22:38:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Google Develops Merkle Tree Certificates to Enable Quantum-Resistant HTTPS in Chrome",
+      "link": "https://thehackernews.com/2026/03/google-develops-merkle-tree.html",
+      "summary": "Google has announced a new program in its Chrome browser to ensure that HTTPS certificates are secure against the future risk posed by quantum computers.\n\"To ensure the scalability and efficiency of t...",
+      "published": "2026-03-02T22:22:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "\u26a1 Weekly Recap: SD-WAN 0-Day, Critical CVEs, Telegram Probe, Smart TV Proxy SDK and More",
+      "link": "https://thehackernews.com/2026/03/weekly-recap-sd-wan-0-day-critical-cves.html",
+      "summary": "This week is not about one big event. It shows where things are moving. Network systems, cloud setups, AI tools, and common apps are all being pushed in different ways. Small gaps in access control, e...",
+      "published": "2026-03-02T18:56:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Ccbridge \u2013 A CLI to Orchestrate Claude Code and Codex",
+      "link": "https://github.com/marko3190/ccbridge",
+      "summary": "<p>Article URL: <a href=\"https://github.com/marko3190/ccbridge\">https://github.com/marko3190/ccbridge</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47222167\">https://news.ycom...",
+      "published": "2026-03-02T18:41:26+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: War.direct \u2013 Real-time conflict intelligence dashboard for the Iran war",
+      "link": "https://war.direct",
+      "summary": "<p>Built this over a weekend as a public service when the US-Israel-Iran conflict broke out. Non-commercial, no   \n  ads, no paywall.<p><pre><code>  What it does:\n  - 25+ live TV channels (Al Jazeera,...",
+      "published": "2026-03-02T18:41:10+00:00",
+      "domain": "war.direct",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Self-hosted AI agent observability (OTel, Grafana, bash hooks)",
+      "link": "https://github.com/shepard-system/shepard-obs-stack",
+      "summary": "<p>Article URL: <a href=\"https://github.com/shepard-system/shepard-obs-stack\">https://github.com/shepard-system/shepard-obs-stack</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id...",
+      "published": "2026-03-02T18:38:36+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "New Best Friend Is a Chatbot",
+      "link": "https://tapestry.news/tech/ai-companions/",
+      "summary": "<p>Article URL: <a href=\"https://tapestry.news/tech/ai-companions/\">https://tapestry.news/tech/ai-companions/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47222117\">https://n...",
+      "published": "2026-03-02T18:38:14+00:00",
+      "domain": "tapestry.news",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "OpenAI Just Got Anthropic's Pentagon Deal",
+      "link": "https://tapestry.news/tech/openai-pentagon/",
+      "summary": "<p>Article URL: <a href=\"https://tapestry.news/tech/openai-pentagon/\">https://tapestry.news/tech/openai-pentagon/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47222115\">https...",
+      "published": "2026-03-02T18:37:56+00:00",
+      "domain": "tapestry.news",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "How to Protect Your SaaS from Bot Attacks with SafeLine WAF",
       "link": "https://thehackernews.com/2026/03/how-to-protect-your-saas-from-bot.html",
       "summary": "Most SaaS teams remember the day their user traffic started growing fast. Few notice the day bots started targeting them.\nOn paper, everything looks great: more sign-ups, more sessions, more API calls...",
@@ -503,139 +631,11 @@
       }
     },
     {
-      "title": "APT28 Tied to CVE-2026-21513 MSHTML 0-Day Exploited Before Feb 2026 Patch Tuesday",
-      "link": "https://thehackernews.com/2026/03/apt28-tied-to-cve-2026-21513-mshtml-0.html",
-      "summary": "A recently disclosed security flaw patched by Microsoft may have been exploited by the Russia-linked state-sponsored threat actor known as APT28, according to new findings from Akamai.\nThe vulnerabili...",
-      "published": "2026-03-02T16:06:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "North Korean Hackers Publish 26 npm Packages Hiding Pastebin C2 for Cross-Platform RAT",
-      "link": "https://thehackernews.com/2026/03/north-korean-hackers-publish-26-npm.html",
-      "summary": "Cybersecurity researchers have disclosed a new iteration of the ongoing Contagious Interview campaign, where the North Korean threat actors have published a set of 26 malicious packages to the npm reg...",
-      "published": "2026-03-02T14:14:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: Vibma \u2013 let agents create professional design system in Figma, directly",
-      "link": "https://github.com/ufira-ai/Vibma",
-      "summary": "<p>Article URL: <a href=\"https://github.com/ufira-ai/Vibma\">https://github.com/ufira-ai/Vibma</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47217411\">https://news.ycombinator....",
-      "published": "2026-03-02T12:57:33+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Sneak peek at the redesigned Stack Overflow",
-      "link": "https://stackoverflow.blog/2026/02/25/your-sneak-peek-at-the-redesigned-stack-overflow/",
-      "summary": "<p>Article URL: <a href=\"https://stackoverflow.blog/2026/02/25/your-sneak-peek-at-the-redesigned-stack-overflow/\">https://stackoverflow.blog/2026/02/25/your-sneak-peek-at-the-redesigned-stack-overflow...",
-      "published": "2026-03-02T12:57:25+00:00",
-      "domain": "stackoverflow.blog",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "AMD Am386 released March 2, 1991",
-      "link": "https://dfarq.homeip.net/amd-am386-released-march-2-1991/",
-      "summary": "<p>Article URL: <a href=\"https://dfarq.homeip.net/amd-am386-released-march-2-1991/\">https://dfarq.homeip.net/amd-am386-released-march-2-1991/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator...",
-      "published": "2026-03-02T12:56:46+00:00",
-      "domain": "dfarq.homeip.net",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: A visual sitemap tool to see your website structure in seconds",
-      "link": "https://news.ycombinator.com/item?id=47217399",
-      "summary": "<p>Most small design tools focus on components, templates, or AI generation.\nBut when traffic grows, structure becomes the real bottleneck.\nI built a visual sitemap tool EPIC(<a href=\"https://no-edit....",
-      "published": "2026-03-02T12:56:43+00:00",
-      "domain": "news.ycombinator.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Free Dev Playgrounds",
-      "link": "https://labex.io/playgrounds",
-      "summary": "<p>Article URL: <a href=\"https://labex.io/playgrounds\">https://labex.io/playgrounds</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47217378\">https://news.ycombinator.com/item?i...",
-      "published": "2026-03-02T12:54:16+00:00",
-      "domain": "labex.io",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Claude Code LSP",
-      "link": "https://karanbansal.in/blog/claude-code-lsp/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47216765\">Comments</a>...",
-      "published": "2026-03-02T11:47:16+00:00",
-      "domain": "karanbansal.in",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Microsoft gets tired of \u201cMicroslop,\u201d bans the word on its Discord, then locks the server after backlash",
-      "link": "https://www.reddit.com/r/technology/comments/1riqdmj/microsoft_gets_tired_of_microslop_bans_the_word/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1riqdmj/microsoft_gets_tired_of_microslop_bans_the_word/\"> <img alt=\"Microsoft gets tired of \u201cMicroslop,\u201d bans the word on its Di...",
-      "published": "2026-03-02T11:29:01+00:00",
-      "domain": "reddit.com",
+      "title": "Show HN: Govbase \u2013 Follow a bill from source text to news bias to social posts",
+      "link": "https://govbase.com",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47220809\">Comments</a>...",
+      "published": "2026-03-02T17:08:53+00:00",
+      "domain": "govbase.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,

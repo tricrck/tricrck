@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### How to Protect Your SaaS from Bot Attacks with SafeLine WAF
+### New Chrome Vulnerability Let Malicious Extensions Escalate Privileges via Gemini Panel
 - **Published**: March 02, 2026
-- **Summary**: Most SaaS teams remember the day their user traffic started growing fast. Few notice the day bots started targeting them.
-On paper, everything looks g...
-- [Read more](https://thehackernews.com/2026/03/how-to-protect-your-saas-from-bot.html)
+- **Summary**: Cybersecurity researchers have disclosed details of a now-patched security flaw in Google Chrome that could have permitted attackers to escalate privi...
+- [Read more](https://thehackernews.com/2026/03/new-chrome-vulnerability-let-malicious.html)
 
-### APT28 Tied to CVE-2026-21513 MSHTML 0-Day Exploited Before Feb 2026 Patch Tuesday
+### Google Develops Merkle Tree Certificates to Enable Quantum-Resistant HTTPS in Chrome
 - **Published**: March 02, 2026
-- **Summary**: A recently disclosed security flaw patched by Microsoft may have been exploited by the Russia-linked state-sponsored threat actor known as APT28, acco...
-- [Read more](https://thehackernews.com/2026/03/apt28-tied-to-cve-2026-21513-mshtml-0.html)
+- **Summary**: Google has announced a new program in its Chrome browser to ensure that HTTPS certificates are secure against the future risk posed by quantum compute...
+- [Read more](https://thehackernews.com/2026/03/google-develops-merkle-tree.html)
 
 ---
 
