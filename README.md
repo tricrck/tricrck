@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Everett shuts down Flock camera network after judge rules footage public record
+### How to Protect Your SaaS from Bot Attacks with SafeLine WAF
 - **Published**: March 02, 2026
-- **Summary**: ......
-- **Keywords**: down
-- [Read more](https://www.wltx.com/article/news/nation-world/281-53d8693e-77a4-42ad-86e4-3426a30d25ae)
+- **Summary**: Most SaaS teams remember the day their user traffic started growing fast. Few notice the day bots started targeting them.
+On paper, everything looks g...
+- [Read more](https://thehackernews.com/2026/03/how-to-protect-your-saas-from-bot.html)
 
-### Goclaw: A Go Port of OpenClaw
+### APT28 Tied to CVE-2026-21513 MSHTML 0-Day Exploited Before Feb 2026 Patch Tuesday
 - **Published**: March 02, 2026
-- **Summary**: https://github.com/nextlevelbuilder/goclaw</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47214664">https:/......
-- [Read more](https://github.com/nextlevelbuilder/goclaw)
+- **Summary**: A recently disclosed security flaw patched by Microsoft may have been exploited by the Russia-linked state-sponsored threat actor known as APT28, acco...
+- [Read more](https://thehackernews.com/2026/03/apt28-tied-to-cve-2026-21513-mshtml-0.html)
 
 ---
 
