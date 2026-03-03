@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Veo 3 AI
+### AI Agents: The Next Wave Identity Dark Matter - Powerful, Invisible, and Unmanaged
 - **Published**: March 03, 2026
-- **Summary**: https://veo-3-ai.org/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47228999">https://news.ycombinator.com/item?id=47228999</...
-- [Read more](https://veo-3-ai.org/)
+- **Summary**: The Rise of MCPs in the Enterprise
+The Model Context Protocol (MCP) is quickly becoming a practical way to push LLMs from “chat” into real work. By pr...
+- [Read more](https://thehackernews.com/2026/03/ai-agents-next-wave-identity-dark.html)
 
-### Show HN: GitHub Repo Agent – an agent that explores and reasons on GitHub repos
+### Starkiller Phishing Suite Uses AitM Reverse Proxy to Bypass Multi-Factor Authentication
 - **Published**: March 03, 2026
-- **Summary**: <p>Built a small agent that can explore a GitHub repository, understand it in-depth, and answer questions about the codebase.<p>The idea is simple. Wh...
-- [Read more](https://github.com/gauravvij/GithubRepoAgent)
+- **Summary**: Cybersecurity researchers have disclosed details of a new phishing suite called Starkiller that proxies legitimate login pages to bypass multi-factor ...
+- [Read more](https://thehackernews.com/2026/03/starkiller-phishing-suite-uses-aitm.html)
 
 ---
 
