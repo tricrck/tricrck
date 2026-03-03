@@ -16,15 +16,18 @@
 
 ## 🚨 Tech Stories
 
-### New Chrome Vulnerability Let Malicious Extensions Escalate Privileges via Gemini Panel
-- **Published**: March 02, 2026
-- **Summary**: Cybersecurity researchers have disclosed details of a now-patched security flaw in Google Chrome that could have permitted attackers to escalate privi...
-- [Read more](https://thehackernews.com/2026/03/new-chrome-vulnerability-let-malicious.html)
+### Ask HN: What Online LLM / Chat do you use?
+- **Published**: March 03, 2026
+- **Summary**: Are there other LLM chat sites you use or recommend?</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinat......
+- [Read more](https://news.ycombinator.com/item?id=47227046)
 
-### Google Develops Merkle Tree Certificates to Enable Quantum-Resistant HTTPS in Chrome
-- **Published**: March 02, 2026
-- **Summary**: Google has announced a new program in its Chrome browser to ensure that HTTPS certificates are secure against the future risk posed by quantum compute...
-- [Read more](https://thehackernews.com/2026/03/google-develops-merkle-tree.html)
+### CKAN – an open-source DMS (data management system)
+- **Published**: March 03, 2026
+- **Summary**: https://ckan.org/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47227010">https://news.ycombinator.com/item?id=47227010</a></...
+- [Read more](https://ckan.org/)
 
 ---
 
