@@ -16,18 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Ask HN: What Online LLM / Chat do you use?
+### Veo 3 AI
 - **Published**: March 03, 2026
-- **Summary**: Are there other LLM chat sites you use or recommend?</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinat......
-- [Read more](https://news.ycombinator.com/item?id=47227046)
+- **Summary**: https://veo-3-ai.org/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47228999">https://news.ycombinator.com/item?id=47228999</...
+- [Read more](https://veo-3-ai.org/)
 
-### CKAN – an open-source DMS (data management system)
+### Show HN: GitHub Repo Agent – an agent that explores and reasons on GitHub repos
 - **Published**: March 03, 2026
-- **Summary**: https://ckan.org/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47227010">https://news.ycombinator.com/item?id=47227010</a></...
-- [Read more](https://ckan.org/)
+- **Summary**: <p>Built a small agent that can explore a GitHub repository, understand it in-depth, and answer questions about the codebase.<p>The idea is simple. Wh...
+- [Read more](https://github.com/gauravvij/GithubRepoAgent)
 
 ---
 
