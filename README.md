@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Weave – A language aware merge algorithm based on entities
+### CISA Adds Actively Exploited VMware Aria Operations Flaw CVE-2026-22719 to KEV Catalog
 - **Published**: March 04, 2026
-- **Summary**: https://github.com/Ataraxy-Labs/weave</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47241976">https://news.ycom......
-- [Read more](https://github.com/Ataraxy-Labs/weave)
+- **Summary**: The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a recently disclosed security flaw impacting Broadcom VMware Aria Op...
+- [Read more](https://thehackernews.com/2026/03/cisa-adds-actively-exploited-vmware.html)
 
-### Defense contractors removing Anthropic's AI after Trump ban
+### Design-First Collaboration
 - **Published**: March 04, 2026
-- **Summary**: https://www.reuters.com/sustai......
-- [Read more](https://www.reuters.com/sustainability/society-equity/defense-contractors-like-lockheed-seen-removing-anthropics-ai-after-trump-ban-2026-03-04/)
+- **Summary**: https://martinfowler.com/articles/reduce-friction-ai/design-first-collaboration.html</a><......
+- [Read more](https://martinfowler.com/articles/reduce-friction-ai/design-first-collaboration.html)
 
 ---
 
