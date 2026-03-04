@@ -16,15 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### CISA Adds Actively Exploited VMware Aria Operations Flaw CVE-2026-22719 to KEV Catalog
+### New RFP Template for AI Usage Control and AI Governance
 - **Published**: March 04, 2026
-- **Summary**: The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a recently disclosed security flaw impacting Broadcom VMware Aria Op...
-- [Read more](https://thehackernews.com/2026/03/cisa-adds-actively-exploited-vmware.html)
+- **Summary**: As AI becomes the central engine for enterprise productivity, security leaders are finally getting the green light — and the budget — to secure it. Bu...
+- **Keywords**: crisis
+- [Read more](https://thehackernews.com/2026/03/new-rfp-template-for-ai-usage-control.html)
 
-### Design-First Collaboration
+### Fake Laravel Packages on Packagist Deploy RAT on Windows, macOS, and Linux
 - **Published**: March 04, 2026
-- **Summary**: https://martinfowler.com/articles/reduce-friction-ai/design-first-collaboration.html</a><......
-- [Read more](https://martinfowler.com/articles/reduce-friction-ai/design-first-collaboration.html)
+- **Summary**: Cybersecurity researchers have flagged malicious Packagist PHP packages masquerading as Laravel utilities that act as a conduit for a cross-platform r...
+- [Read more](https://thehackernews.com/2026/03/fake-laravel-packages-on-packagist.html)
 
 ---
 
