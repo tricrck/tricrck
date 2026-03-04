@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### AI Agents: The Next Wave Identity Dark Matter - Powerful, Invisible, and Unmanaged
-- **Published**: March 03, 2026
-- **Summary**: The Rise of MCPs in the Enterprise
-The Model Context Protocol (MCP) is quickly becoming a practical way to push LLMs from “chat” into real work. By pr...
-- [Read more](https://thehackernews.com/2026/03/ai-agents-next-wave-identity-dark.html)
+### Weave – A language aware merge algorithm based on entities
+- **Published**: March 04, 2026
+- **Summary**: https://github.com/Ataraxy-Labs/weave</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47241976">https://news.ycom......
+- [Read more](https://github.com/Ataraxy-Labs/weave)
 
-### Starkiller Phishing Suite Uses AitM Reverse Proxy to Bypass Multi-Factor Authentication
-- **Published**: March 03, 2026
-- **Summary**: Cybersecurity researchers have disclosed details of a new phishing suite called Starkiller that proxies legitimate login pages to bypass multi-factor ...
-- [Read more](https://thehackernews.com/2026/03/starkiller-phishing-suite-uses-aitm.html)
+### Defense contractors removing Anthropic's AI after Trump ban
+- **Published**: March 04, 2026
+- **Summary**: https://www.reuters.com/sustai......
+- [Read more](https://www.reuters.com/sustainability/society-equity/defense-contractors-like-lockheed-seen-removing-anthropics-ai-after-trump-ban-2026-03-04/)
 
 ---
 
