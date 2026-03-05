@@ -16,19 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Show HN: AI Slop Bores Me
+### Europol-Led Operation Takes Down Tycoon 2FA Phishing-as-a-Service Linked to 64,000 Attacks
 - **Published**: March 05, 2026
-- **Summary**: 
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47258408">https://news.ycombinator.com/item?id=47258408</a></p>
-<p>Points: 1......
-- [Read more](https://www.youraislopbores.me/)
+- **Summary**: Tycoon 2FA, one of the prominent phishing-as-a-service (PhaaS) toolkits that allowed cybercriminals to stage adversary-in-the-middle (AitM) credential...
+- **Keywords**: down
+- [Read more](https://thehackernews.com/2026/03/europol-led-operation-takes-down-tycoon.html)
 
-### Gogcli – Google in Your Terminal
+### Dust Specter Targets Iraqi Officials with New SPLITDROP and GHOSTFORM Malware
 - **Published**: March 05, 2026
-- **Summary**: https://github.com/steipete/gogcli</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47258389">https://news.ycombinato......
-- [Read more](https://github.com/steipete/gogcli)
+- **Summary**: A suspected Iran-nexus threat actor has been attributed to a campaign targeting government officials in Iraq by impersonating the country's Ministry o...
+- [Read more](https://thehackernews.com/2026/03/dust-specter-targets-iraqi-officials.html)
 
 ---
 
