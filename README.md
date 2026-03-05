@@ -16,16 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Europol-Led Operation Takes Down Tycoon 2FA Phishing-as-a-Service Linked to 64,000 Attacks
+### Preparing for the Quantum Era: Post-Quantum Cryptography Webinar for Security Leaders
 - **Published**: March 05, 2026
-- **Summary**: Tycoon 2FA, one of the prominent phishing-as-a-service (PhaaS) toolkits that allowed cybercriminals to stage adversary-in-the-middle (AitM) credential...
-- **Keywords**: down
-- [Read more](https://thehackernews.com/2026/03/europol-led-operation-takes-down-tycoon.html)
+- **Summary**: Most organizations assume encrypted data is safe.
+But many attackers are already preparing for a future where today’s encryption can be broken. Instea...
+- **Keywords**: broken
+- [Read more](https://thehackernews.com/2026/03/preparing-for-quantum-era-post-quantum.html)
 
-### Dust Specter Targets Iraqi Officials with New SPLITDROP and GHOSTFORM Malware
+### Cisco Confirms Active Exploitation of Two Catalyst SD-WAN Manager Vulnerabilities
 - **Published**: March 05, 2026
-- **Summary**: A suspected Iran-nexus threat actor has been attributed to a campaign targeting government officials in Iraq by impersonating the country's Ministry o...
-- [Read more](https://thehackernews.com/2026/03/dust-specter-targets-iraqi-officials.html)
+- **Summary**: Cisco has disclosed that two more vulnerabilities affecting Catalyst SD-WAN Manager (formerly SD-WAN vManage) have come under active exploitation in t...
+- [Read more](https://thehackernews.com/2026/03/cisco-confirms-active-exploitation-of.html)
 
 ---
 
