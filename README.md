@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### New RFP Template for AI Usage Control and AI Governance
+### Dario Amodei calls OpenAI’s messaging around military deal ‘straight up lies’
 - **Published**: March 04, 2026
-- **Summary**: As AI becomes the central engine for enterprise productivity, security leaders are finally getting the green light — and the budget — to secure it. Bu...
-- **Keywords**: crisis
-- [Read more](https://thehackernews.com/2026/03/new-rfp-template-for-ai-usage-control.html)
+- **Summary**: ......
+- [Read more](https://techcrunch.com/2026/03/04/anthropic-ceo-dario-amodei-calls-openais-messaging-around-military-deal-straight-up-lies-report-says/)
 
-### 149 Hacktivist DDoS Attacks Hit 110 Organizations in 16 Countries After Middle East Conflict
-- **Published**: March 04, 2026
-- **Summary**: Cybersecurity researchers have warned of a surge in retaliatory hacktivist activity following the U.S.-Israel coordinated military campaign against Ir...
-- [Read more](https://thehackernews.com/2026/03/149-hacktivist-ddos-attacks-hit-110.html)
+### Show HN: Nodepp – A C++ runtime for scripting at bare-metal speed
+- **Published**: March 05, 2026
+- **Summary**: https://github.com/NodeppOfficial/nodepp</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47256598">https://new......
+- [Read more](https://github.com/NodeppOfficial/nodepp)
 
 ---
 
