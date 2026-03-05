@@ -16,16 +16,19 @@
 
 ## 🚨 Tech Stories
 
-### Dario Amodei calls OpenAI’s messaging around military deal ‘straight up lies’
-- **Published**: March 04, 2026
-- **Summary**: ......
-- [Read more](https://techcrunch.com/2026/03/04/anthropic-ceo-dario-amodei-calls-openais-messaging-around-military-deal-straight-up-lies-report-says/)
-
-### Show HN: Nodepp – A C++ runtime for scripting at bare-metal speed
+### Show HN: AI Slop Bores Me
 - **Published**: March 05, 2026
-- **Summary**: https://github.com/NodeppOfficial/nodepp</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47256598">https://new......
-- [Read more](https://github.com/NodeppOfficial/nodepp)
+- **Summary**: 
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47258408">https://news.ycombinator.com/item?id=47258408</a></p>
+<p>Points: 1......
+- [Read more](https://www.youraislopbores.me/)
+
+### Gogcli – Google in Your Terminal
+- **Published**: March 05, 2026
+- **Summary**: https://github.com/steipete/gogcli</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47258389">https://news.ycombinato......
+- [Read more](https://github.com/steipete/gogcli)
 
 ---
 
