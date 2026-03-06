@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### The MSP Guide to Using AI-Powered Risk Management to Scale Cybersecurity
+### Transparent Tribe Uses AI to Mass-Produce Malware Implants in Campaign Targeting India
 - **Published**: March 06, 2026
-- **Summary**: Scaling cybersecurity services as an MSP or MSSP requires technical expertise and a business model that delivers measurable value at scale.
-Risk-based...
-- [Read more](https://thehackernews.com/2026/03/the-msp-guide-to-using-ai-powered-risk.html)
+- **Summary**: The Pakistan-aligned threat actor known as Transparent Tribe has become the latest hacking group to embrace artificial intelligence (AI)-powered codin...
+- [Read more](https://thehackernews.com/2026/03/transparent-tribe-uses-ai-to-mass.html)
 
-### Iran-Linked MuddyWater Hackers Target U.S. Networks With New Dindoor Backdoor
+### Multi-Stage VOID#GEIST Malware Delivering XWorm, AsyncRAT, and Xeno RAT
 - **Published**: March 06, 2026
-- **Summary**: New research from Broadcom's Symantec and Carbon Black Threat Hunter Team has discovered evidence of an Iranian hacking group embedding itself in seve...
-- [Read more](https://thehackernews.com/2026/03/iran-linked-muddywater-hackers-target.html)
+- **Summary**: Cybersecurity researchers have disclosed details of a multi-stage malware campaign that uses batch scripts as a pathway to deliver various encrypted r...
+- [Read more](https://thehackernews.com/2026/03/multi-stage-voidgeist-malware.html)
 
 ---
 
