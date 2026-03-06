@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Preparing for the Quantum Era: Post-Quantum Cryptography Webinar for Security Leaders
-- **Published**: March 05, 2026
-- **Summary**: Most organizations assume encrypted data is safe.
-But many attackers are already preparing for a future where today’s encryption can be broken. Instea...
-- **Keywords**: broken
-- [Read more](https://thehackernews.com/2026/03/preparing-for-quantum-era-post-quantum.html)
+### Show HN: Titan Gate – cryptographic receipts for AI-assisted code changes
+- **Published**: March 06, 2026
+- **Summary**: <p>AI writes code fast. SOC2 auditors ask: how do you know what changed, who approved it, and that the record wasn't altered?<p>Titan Gate answers wit...
+- [Read more](https://github.com/Rehanrana11/titan-gate)
 
-### Cisco Confirms Active Exploitation of Two Catalyst SD-WAN Manager Vulnerabilities
-- **Published**: March 05, 2026
-- **Summary**: Cisco has disclosed that two more vulnerabilities affecting Catalyst SD-WAN Manager (formerly SD-WAN vManage) have come under active exploitation in t...
-- [Read more](https://thehackernews.com/2026/03/cisco-confirms-active-exploitation-of.html)
+### The Home Computer War
+- **Published**: March 06, 2026
+- **Summary**: https://technicshistory.com/2026/03/06/the-home-computer-war/</a></p>
+<p>Comments URL: <a href="https://news.yco......
+- [Read more](https://technicshistory.com/2026/03/06/the-home-computer-war/)
 
 ---
 
