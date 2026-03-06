@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Show HN: Titan Gate – cryptographic receipts for AI-assisted code changes
+### Crypto bill hits new impasse, raising doubts over its future
 - **Published**: March 06, 2026
-- **Summary**: <p>AI writes code fast. SOC2 auditors ask: how do you know what changed, who approved it, and that the record wasn't altered?<p>Titan Gate answers wit...
-- [Read more](https://github.com/Rehanrana11/titan-gate)
+- **Summary**: https://www.reuters.com/business/finance/crypto-bill-hits-new......
+- [Read more](https://www.reuters.com/business/finance/crypto-bill-hits-new-impasse-raising-doubts-over-its-future-2026-03-05/)
 
-### The Home Computer War
+### Zammad open-source helpdesk introduces AI without LLM lock-in
 - **Published**: March 06, 2026
-- **Summary**: https://technicshistory.com/2026/03/06/the-home-computer-war/</a></p>
-<p>Comments URL: <a href="https://news.yco......
-- [Read more](https://technicshistory.com/2026/03/06/the-home-computer-war/)
+- **Summary**: https://zammad.com/en/company/press/zammad-introduces-ai-features-w......
+- [Read more](https://zammad.com/en/company/press/zammad-introduces-ai-features-with-free-choice-of-large-language-model)
 
 ---
 
