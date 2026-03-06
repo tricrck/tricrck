@@ -16,15 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Crypto bill hits new impasse, raising doubts over its future
+### The MSP Guide to Using AI-Powered Risk Management to Scale Cybersecurity
 - **Published**: March 06, 2026
-- **Summary**: https://www.reuters.com/business/finance/crypto-bill-hits-new......
-- [Read more](https://www.reuters.com/business/finance/crypto-bill-hits-new-impasse-raising-doubts-over-its-future-2026-03-05/)
+- **Summary**: Scaling cybersecurity services as an MSP or MSSP requires technical expertise and a business model that delivers measurable value at scale.
+Risk-based...
+- [Read more](https://thehackernews.com/2026/03/the-msp-guide-to-using-ai-powered-risk.html)
 
-### Zammad open-source helpdesk introduces AI without LLM lock-in
+### Iran-Linked MuddyWater Hackers Target U.S. Networks With New Dindoor Backdoor
 - **Published**: March 06, 2026
-- **Summary**: https://zammad.com/en/company/press/zammad-introduces-ai-features-w......
-- [Read more](https://zammad.com/en/company/press/zammad-introduces-ai-features-with-free-choice-of-large-language-model)
+- **Summary**: New research from Broadcom's Symantec and Carbon Black Threat Hunter Team has discovered evidence of an Iranian hacking group embedding itself in seve...
+- [Read more](https://thehackernews.com/2026/03/iran-linked-muddywater-hackers-target.html)
 
 ---
 
