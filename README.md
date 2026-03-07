@@ -16,15 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### 20ms Bootup Time Lamda (question, not crappy ad)
+### OpenAI Codex Security Scanned 1.2 Million Commits and Found 10,561 High-Severity Issues
 - **Published**: March 07, 2026
-- **Summary**: <p>I've figured out how to make a version of AWS lamda that can bootup in less than 20ms (user code transfer + start, excluding user code bootup time)...
-- [Read more](https://news.ycombinator.com/item?id=47287171)
+- **Summary**: OpenAI on Friday began rolling out Codex Security, an artificial intelligence (AI)-powered security agent that's designed to find, validate, and propo...
+- [Read more](https://thehackernews.com/2026/03/openai-codex-security-scanned-12.html)
 
-### Show HN: learnchess.ai – Local-first chess coaching app with AI
+### Young billionaires are behind the prediction market boom. They hate each other
 - **Published**: March 07, 2026
-- **Summary**: <p>I've been playing chess for a few years with my ELO stuck around 1600 on Lichess. I wanted an app that combined puzzle training, interactive lesson...
-- [Read more](https://learnchess.ai)
+- **Summary**: https://www.npr.org/2026/03/06/nx-s1-5735893/iran-war-kalshi-polymarket-feud</a></p>
+<p>Comments ......
+- [Read more](https://www.npr.org/2026/03/06/nx-s1-5735893/iran-war-kalshi-polymarket-feud)
 
 ---
 
