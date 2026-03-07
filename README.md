@@ -16,15 +16,18 @@
 
 ## 🚨 Tech Stories
 
-### Transparent Tribe Uses AI to Mass-Produce Malware Implants in Campaign Targeting India
-- **Published**: March 06, 2026
-- **Summary**: The Pakistan-aligned threat actor known as Transparent Tribe has become the latest hacking group to embrace artificial intelligence (AI)-powered codin...
-- [Read more](https://thehackernews.com/2026/03/transparent-tribe-uses-ai-to-mass.html)
+### Show HN: HyperClaw – self-hosted AI assistant that replies on Telegram/Discord/+
+- **Published**: March 07, 2026
+- **Summary**: 
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47283646">https://news.ycombinator.com/item?......
+- [Read more](https://github.com/mylo-2001/hyperclaw)
 
-### Multi-Stage VOID#GEIST Malware Delivering XWorm, AsyncRAT, and Xeno RAT
-- **Published**: March 06, 2026
-- **Summary**: Cybersecurity researchers have disclosed details of a multi-stage malware campaign that uses batch scripts as a pathway to deliver various encrypted r...
-- [Read more](https://thehackernews.com/2026/03/multi-stage-voidgeist-malware.html)
+### Rust 1.94.0
+- **Published**: March 07, 2026
+- **Summary**: https://blog.rust-lang.org/2026/03/05/Rust-1.94.0/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4......
+- [Read more](https://blog.rust-lang.org/2026/03/05/Rust-1.94.0/)
 
 ---
 
