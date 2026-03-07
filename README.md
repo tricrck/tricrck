@@ -16,18 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Show HN: HyperClaw – self-hosted AI assistant that replies on Telegram/Discord/+
+### Show HN: Stopping OpenClaw from breaking your mails
 - **Published**: March 07, 2026
-- **Summary**: 
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47283646">https://news.ycombinator.com/item?......
-- [Read more](https://github.com/mylo-2001/hyperclaw)
+- **Summary**: <p>This project puts a lightweight layer in between your gmail-account and OpenClaw. When OpenClaw sends an e-mail, it can only send drafts. You can t...
+- [Read more](https://github.com/HalfEmptyDrum/openclaw-gmail-draft-proxy)
 
-### Rust 1.94.0
+### Girl Scout Cookies
 - **Published**: March 07, 2026
-- **Summary**: https://blog.rust-lang.org/2026/03/05/Rust-1.94.0/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4......
-- [Read more](https://blog.rust-lang.org/2026/03/05/Rust-1.94.0/)
+- **Summary**: https://www.girlscouts.org/en/cookies.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47285058">https:/......
+- [Read more](https://www.girlscouts.org/en/cookies.html)
 
 ---
 
