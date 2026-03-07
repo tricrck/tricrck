@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Show HN: Stopping OpenClaw from breaking your mails
+### 20ms Bootup Time Lamda (question, not crappy ad)
 - **Published**: March 07, 2026
-- **Summary**: <p>This project puts a lightweight layer in between your gmail-account and OpenClaw. When OpenClaw sends an e-mail, it can only send drafts. You can t...
-- [Read more](https://github.com/HalfEmptyDrum/openclaw-gmail-draft-proxy)
+- **Summary**: <p>I've figured out how to make a version of AWS lamda that can bootup in less than 20ms (user code transfer + start, excluding user code bootup time)...
+- [Read more](https://news.ycombinator.com/item?id=47287171)
 
-### Girl Scout Cookies
+### Show HN: learnchess.ai – Local-first chess coaching app with AI
 - **Published**: March 07, 2026
-- **Summary**: https://www.girlscouts.org/en/cookies.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47285058">https:/......
-- [Read more](https://www.girlscouts.org/en/cookies.html)
+- **Summary**: <p>I've been playing chess for a few years with my ELO stuck around 1600 on Lichess. I wanted an app that combined puzzle training, interactive lesson...
+- [Read more](https://learnchess.ai)
 
 ---
 
