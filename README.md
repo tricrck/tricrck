@@ -16,17 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Feevio – Voice to Invoice in Seconds
+### Apple's 512GB Mac Studio vanishes, a quiet acknowledgment of the RAM shortage
 - **Published**: March 08, 2026
-- **Summary**: https://feevio.com</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47295106">https://news.ycombinator.com/item?id=47295106</a><...
-- [Read more](https://feevio.com)
+- **Summary**: ......
+- [Read more](https://arstechnica.com/gadgets/2026/03/apples-512gb-mac-studio-vanishes-a-quiet-acknowledgement-of-the-ram-shortage/)
 
-### Out of Distribution: Beauty Beyond the Algorithm's Comfort Zone
+### Show HN: L88-Full – Looking for feedback, bug fixes, and contributors
 - **Published**: March 08, 2026
-- **Summary**: https://terminal-archive.com/extracts/saving-beauty</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id......
-- [Read more](https://terminal-archive.com/extracts/saving-beauty)
+- **Summary**: I recently created a project called *L88-Full* and published it on GitHub:
+<a href="https://github.com/Hundred-Trillion/L88-Full" rel="nofollow">https...
+- **Keywords**: bug
+- [Read more](https://news.ycombinator.com/item?id=47296841)
 
 ---
 
