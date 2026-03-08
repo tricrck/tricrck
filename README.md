@@ -16,17 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### MonoGame: A .NET framework for making cross-platform games
+### Feevio – Voice to Invoice in Seconds
 - **Published**: March 08, 2026
-- **Summary**: https://github.com/MonoGame/MonoGame</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47293682">https://news.ycombi......
-- [Read more](https://github.com/MonoGame/MonoGame)
+- **Summary**: https://feevio.com</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47295106">https://news.ycombinator.com/item?id=47295106</a><...
+- [Read more](https://feevio.com)
 
-### A23a was once the biggest in the world iceberg. Now it has just weeks left
+### Out of Distribution: Beauty Beyond the Algorithm's Comfort Zone
 - **Published**: March 08, 2026
-- **Summary**: https://www.bbc.co.uk/news/resources/idt-20f878f1-f4af-4022-9f62-b0515b9f4b20</a></p>
-<p>Comment......
-- [Read more](https://www.bbc.co.uk/news/resources/idt-20f878f1-f4af-4022-9f62-b0515b9f4b20)
+- **Summary**: https://terminal-archive.com/extracts/saving-beauty</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id......
+- [Read more](https://terminal-archive.com/extracts/saving-beauty)
 
 ---
 
