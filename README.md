@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### "It doesn't feel safe"–Many international game developers plan to skip GDC in US
-- **Published**: March 09, 2026
-- **Summary**: https://arstechnica.com/gaming/2026/03/it-doesnt-feel-sa......
-- [Read more](https://arstechnica.com/gaming/2026/03/it-doesnt-feel-safe-many-international-game-developers-plan-to-skip-gdc-in-us/)
+### Malicious npm Package Posing as OpenClaw Installer Deploys RAT, Steals macOS Credentials
+- **Published**: March 10, 2026
+- **Summary**: Cybersecurity researchers have discovered a malicious npm package that masquerades as an OpenClaw installer to deploy a remote access trojan (RAT) and...
+- [Read more](https://thehackernews.com/2026/03/malicious-npm-package-posing-as.html)
 
-### Can the Security Platform Finally Deliver for the Mid-Market?
+### UNC4899 Breached Crypto Firm After Developer AirDropped Trojanized File to Work Device
 - **Published**: March 09, 2026
-- **Summary**: Mid-market organizations are constantly striving to achieve security levels on a par with their enterprise peers. With heightened awareness of supply ...
-- [Read more](https://thehackernews.com/2026/03/can-security-platform-finally-deliver.html)
+- **Summary**: The North Korean threat actor known as UNC4899 is suspected to be behind a sophisticated cloud compromise campaign targeting a cryptocurrency organiza...
+- [Read more](https://thehackernews.com/2026/03/unc4899-used-airdrop-file-transfer-and.html)
 
 ---
 
