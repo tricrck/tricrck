@@ -16,18 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### My digipet built by my orchestration autonomously
+### "It doesn't feel safe"–Many international game developers plan to skip GDC in US
 - **Published**: March 09, 2026
-- **Summary**: https://github.com/Kunaixfox/digipet</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47305622">https://news.ycombi......
-- [Read more](https://github.com/Kunaixfox/digipet)
+- **Summary**: https://arstechnica.com/gaming/2026/03/it-doesnt-feel-sa......
+- [Read more](https://arstechnica.com/gaming/2026/03/it-doesnt-feel-safe-many-international-game-developers-plan-to-skip-gdc-in-us/)
 
-### Show HN: OrvexPay – Accept Crypto Payments with One API
+### Can the Security Platform Finally Deliver for the Mid-Market?
 - **Published**: March 09, 2026
-- **Summary**: <p>Hi HN,<p>We built OrvexPay, a crypto payment gateway that allows businesses to accept 50+ cryptocurrencies.<p>Features:
-• Hosted checkout
-• Payment...
-- [Read more](https://news.ycombinator.com/item?id=47305614)
+- **Summary**: Mid-market organizations are constantly striving to achieve security levels on a par with their enterprise peers. With heightened awareness of supply ...
+- [Read more](https://thehackernews.com/2026/03/can-security-platform-finally-deliver.html)
 
 ---
 
