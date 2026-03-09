@@ -16,18 +16,18 @@
 
 ## 🚨 Tech Stories
 
-### Ask HN: If a photo of you could talk and move with your voice in calls, why not?
+### My digipet built by my orchestration autonomously
 - **Published**: March 09, 2026
-- **Summary**: https://news.ycombinator.com/item?id=47304103</a></p>
-<p>Points: 1</p>
-<p># Comments: 0</p>......
-- [Read more](https://news.ycombinator.com/item?id=47304103)
+- **Summary**: https://github.com/Kunaixfox/digipet</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47305622">https://news.ycombi......
+- [Read more](https://github.com/Kunaixfox/digipet)
 
-### (AI) Smells on Medium
+### Show HN: OrvexPay – Accept Crypto Payments with One API
 - **Published**: March 09, 2026
-- **Summary**: https://rmoff.net/2025/11/25/ai-smells-on-medium/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=473......
-- [Read more](https://rmoff.net/2025/11/25/ai-smells-on-medium/)
+- **Summary**: <p>Hi HN,<p>We built OrvexPay, a crypto payment gateway that allows businesses to accept 50+ cryptocurrencies.<p>Features:
+• Hosted checkout
+• Payment...
+- [Read more](https://news.ycombinator.com/item?id=47305614)
 
 ---
 
