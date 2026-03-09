@@ -16,17 +16,18 @@
 
 ## 🚨 Tech Stories
 
-### Pushing and Pulling: Three Reactivity Algorithms
-- **Published**: March 08, 2026
-- **Summary**: https://jonathan-frere.com/posts/reactivity-algorithms/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com......
-- [Read more](https://jonathan-frere.com/posts/reactivity-algorithms/)
+### Ask HN: If a photo of you could talk and move with your voice in calls, why not?
+- **Published**: March 09, 2026
+- **Summary**: https://news.ycombinator.com/item?id=47304103</a></p>
+<p>Points: 1</p>
+<p># Comments: 0</p>......
+- [Read more](https://news.ycombinator.com/item?id=47304103)
 
-### Make the Web Great Again
-- **Published**: March 08, 2026
-- **Summary**: https://stackdiver.com/posts/make-the-web-great-again/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/i......
-- [Read more](https://stackdiver.com/posts/make-the-web-great-again/)
+### (AI) Smells on Medium
+- **Published**: March 09, 2026
+- **Summary**: https://rmoff.net/2025/11/25/ai-smells-on-medium/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=473......
+- [Read more](https://rmoff.net/2025/11/25/ai-smells-on-medium/)
 
 ---
 
