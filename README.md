@@ -21,10 +21,10 @@
 - **Summary**: Artificial Intelligence (AI) is no longer just a tool we talk to; it is a tool that does things for us. These are called AI Agents. They can send emai...
 - [Read more](https://thehackernews.com/2026/03/how-to-stop-ai-data-leaks-webinar-guide.html)
 
-### The Zero-Day Scramble is Avoidable: A Guide to Attack Surface Reduction
+### FortiGate Devices Exploited to Breach Networks and Steal Service Account Credentials
 - **Published**: March 10, 2026
-- **Summary**: You can't control when the next critical vulnerability drops. You can control how much of your environment is exposed when it does. The problem is tha...
-- [Read more](https://thehackernews.com/2026/03/the-zero-day-scramble-is-avoidable.html)
+- **Summary**: Cybersecurity researchers are calling attention to a new campaign where threat actors are abusing FortiGate Next-Generation Firewall (NGFW) appliances...
+- [Read more](https://thehackernews.com/2026/03/fortigate-devices-exploited-to-breach.html)
 
 ---
 
