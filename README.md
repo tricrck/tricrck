@@ -16,16 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### AI Error Likely Led to Girl’s School Bombing in Iran
-- **Published**: March 09, 2026
-- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1rpbmby/ai_error_likely_led_to_girls_school_bombing_in/"> <img alt="AI Error Likely Led to ...
-- **Keywords**: error, error
-- [Read more](https://www.reddit.com/r/technology/comments/1rpbmby/ai_error_likely_led_to_girls_school_bombing_in/)
-
-### Lovable, Monetization, and the Vibe Coder Economy
+### Backup Exchange Online Mailbox
 - **Published**: March 10, 2026
-- **Summary**: https://jxnl.co/writing/2025/06/12/lovable-monetization-and-the-vibe-coder-economy/</a></p......
-- [Read more](https://jxnl.co/writing/2025/06/12/lovable-monetization-and-the-vibe-coder-economy/)
+- **Summary**: https://www.crashplan.com/glossary/what-is-exchange-online-backup/</a></p>
+<p>Comments URL: <a href="https:......
+- [Read more](https://www.crashplan.com/glossary/what-is-exchange-online-backup/)
+
+### Demo: Frostsnap 2-of-3 Distributed Key Generation and Backups
+- **Published**: March 10, 2026
+- **Summary**: https://frostsnap.com/demo/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47319786">https://news.ycombinator.com/item?id=......
+- [Read more](https://frostsnap.com/demo/)
 
 ---
 
