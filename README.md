@@ -16,17 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Backup Exchange Online Mailbox
+### How to Stop AI Data Leaks: A Webinar Guide to Auditing Modern Agentic Workflows
 - **Published**: March 10, 2026
-- **Summary**: https://www.crashplan.com/glossary/what-is-exchange-online-backup/</a></p>
-<p>Comments URL: <a href="https:......
-- [Read more](https://www.crashplan.com/glossary/what-is-exchange-online-backup/)
+- **Summary**: Artificial Intelligence (AI) is no longer just a tool we talk to; it is a tool that does things for us. These are called AI Agents. They can send emai...
+- [Read more](https://thehackernews.com/2026/03/how-to-stop-ai-data-leaks-webinar-guide.html)
 
-### Demo: Frostsnap 2-of-3 Distributed Key Generation and Backups
+### The Zero-Day Scramble is Avoidable: A Guide to Attack Surface Reduction
 - **Published**: March 10, 2026
-- **Summary**: https://frostsnap.com/demo/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47319786">https://news.ycombinator.com/item?id=......
-- [Read more](https://frostsnap.com/demo/)
+- **Summary**: You can't control when the next critical vulnerability drops. You can control how much of your environment is exposed when it does. The problem is tha...
+- [Read more](https://thehackernews.com/2026/03/the-zero-day-scramble-is-avoidable.html)
 
 ---
 
