@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Five Malicious Rust Crates and AI Bot Exploit CI/CD Pipelines to Steal Developer Secrets
+### Dozens of Vendors Patch Security Flaws Across Enterprise Software and Network Devices
 - **Published**: March 11, 2026
-- **Summary**: Cybersecurity researchers have discovered five malicious Rust crates that masquerade as time-related utilities to transmit .env file data to the threa...
-- [Read more](https://thehackernews.com/2026/03/five-malicious-rust-crates-and-ai-bot.html)
+- **Summary**: SAP has released security updates to address two critical security flaws that could be exploited to achieve arbitrary code execution on affected syste...
+- [Read more](https://thehackernews.com/2026/03/dozens-of-vendors-patch-security-flaws.html)
 
-### Decoupled by Design: Billion-Scale Vector Search
+### What Boards Must Demand in the Age of AI-Automated Exploitation
 - **Published**: March 11, 2026
-- **Summary**: https://www.databricks.com/blog/decoupled-design-billion-scale-vector-search</a></p>
-<p>Comments ......
-- [Read more](https://www.databricks.com/blog/decoupled-design-billion-scale-vector-search)
+- **Summary**: “You knew, and you could have acted. Why didn’t you?”&nbsp;
+This is the question you do not want to be asked. And increasingly, it’s the question lead...
+- [Read more](https://thehackernews.com/2026/03/what-boards-must-demand-in-age-of-ai.html)
 
 ---
 
