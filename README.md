@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Dozens of Vendors Patch Security Flaws Across Enterprise Software and Network Devices
+### Binance sues WSJ, panicked by gov't probes into sanctioned crypto transfers
 - **Published**: March 11, 2026
-- **Summary**: SAP has released security updates to address two critical security flaws that could be exploited to achieve arbitrary code execution on affected syste...
-- [Read more](https://thehackernews.com/2026/03/dozens-of-vendors-patch-security-flaws.html)
+- **Summary**: https://arstechnica.com/tech-policy/2026/03/binance-sues-ws......
+- [Read more](https://arstechnica.com/tech-policy/2026/03/binance-sues-wsj-over-report-sparking-government-probes-into-exchange/)
 
-### What Boards Must Demand in the Age of AI-Automated Exploitation
+### Iran tells world to get ready for oil at $200 a barrel
 - **Published**: March 11, 2026
-- **Summary**: “You knew, and you could have acted. Why didn’t you?”&nbsp;
-This is the question you do not want to be asked. And increasingly, it’s the question lead...
-- [Read more](https://thehackernews.com/2026/03/what-boards-must-demand-in-age-of-ai.html)
+- **Summary**: https://www.reuters.com/world/middle-east/combata......
+- **Keywords**: down
+- [Read more](https://www.reuters.com/world/middle-east/combatants-mideast-war-trade-more-air-strikes-iran-clamps-down-dissent-2026-03-11/)
 
 ---
 
