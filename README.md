@@ -16,15 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### How to Stop AI Data Leaks: A Webinar Guide to Auditing Modern Agentic Workflows
-- **Published**: March 10, 2026
-- **Summary**: Artificial Intelligence (AI) is no longer just a tool we talk to; it is a tool that does things for us. These are called AI Agents. They can send emai...
-- [Read more](https://thehackernews.com/2026/03/how-to-stop-ai-data-leaks-webinar-guide.html)
+### Ask HN: What are some good lectures or talks like this one? [pdf]
+- **Published**: March 11, 2026
+- **Summary**: https://www.labouseur.com/projects/codeReckon/papers/The-Emperors-Old-Clothes.pdf</a></p>
+<p......
+- [Read more](https://www.labouseur.com/projects/codeReckon/papers/The-Emperors-Old-Clothes.pdf)
 
-### FortiGate Devices Exploited to Breach Networks and Steal Service Account Credentials
-- **Published**: March 10, 2026
-- **Summary**: Cybersecurity researchers are calling attention to a new campaign where threat actors are abusing FortiGate Next-Generation Firewall (NGFW) appliances...
-- [Read more](https://thehackernews.com/2026/03/fortigate-devices-exploited-to-breach.html)
+### New Design for Firefox.com
+- **Published**: March 11, 2026
+- **Summary**: https://www.firefox.com/en-US/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47330958">https://news.ycombinator.com/it......
+- [Read more](https://www.firefox.com/en-US/)
 
 ---
 
