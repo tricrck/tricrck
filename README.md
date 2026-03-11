@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Ask HN: What are some good lectures or talks like this one? [pdf]
+### Five Malicious Rust Crates and AI Bot Exploit CI/CD Pipelines to Steal Developer Secrets
 - **Published**: March 11, 2026
-- **Summary**: https://www.labouseur.com/projects/codeReckon/papers/The-Emperors-Old-Clothes.pdf</a></p>
-<p......
-- [Read more](https://www.labouseur.com/projects/codeReckon/papers/The-Emperors-Old-Clothes.pdf)
+- **Summary**: Cybersecurity researchers have discovered five malicious Rust crates that masquerade as time-related utilities to transmit .env file data to the threa...
+- [Read more](https://thehackernews.com/2026/03/five-malicious-rust-crates-and-ai-bot.html)
 
-### New Design for Firefox.com
+### Decoupled by Design: Billion-Scale Vector Search
 - **Published**: March 11, 2026
-- **Summary**: https://www.firefox.com/en-US/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47330958">https://news.ycombinator.com/it......
-- [Read more](https://www.firefox.com/en-US/)
+- **Summary**: https://www.databricks.com/blog/decoupled-design-billion-scale-vector-search</a></p>
+<p>Comments ......
+- [Read more](https://www.databricks.com/blog/decoupled-design-billion-scale-vector-search)
 
 ---
 
