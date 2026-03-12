@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### CISA Flags Actively Exploited n8n RCE Bug as 24,700 Instances Remain Exposed
+### Attackers Don't Just Send Phishing Emails. They Weaponize Your SOC's Workload
 - **Published**: March 12, 2026
-- **Summary**: The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a critical security flaw impacting n8n to its Known Exploited Vuln...
-- **Keywords**: bug
-- [Read more](https://thehackernews.com/2026/03/cisa-flags-actively-exploited-n8n-rce.html)
+- **Summary**: The most dangerous phishing campaigns aren’t just designed to fool employees. Many are designed to exhaust the analysts investigating them. When a phi...
+- [Read more](https://thehackernews.com/2026/03/attackers-dont-just-send-phishing.html)
 
-### How AI is helping improve heart health in rural Australia
+### Apple Issues Security Updates for Older iOS Devices Targeted by Coruna WebKit Exploit
 - **Published**: March 12, 2026
-- **Summary**: A doctor is sitting across a desk from a patient. The doctor is holding a tablet and a pen. Medical charts renderings are in the background.......
-- [Read more](https://blog.google/innovation-and-ai/technology/health/google-ai-heart-health-australia/)
+- **Summary**: Apple on Wednesday backported fixes for a security flaw in iOS, iPadOS, and macOS Sonoma to older versions after it was found to be used as part of th...
+- [Read more](https://thehackernews.com/2026/03/apple-issues-security-updates-for-older.html)
 
 ---
 
