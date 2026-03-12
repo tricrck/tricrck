@@ -16,15 +16,16 @@
 
 ## 🚨 Tech Stories
 
+### CISA Flags Actively Exploited n8n RCE Bug as 24,700 Instances Remain Exposed
+- **Published**: March 12, 2026
+- **Summary**: The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a critical security flaw impacting n8n to its Known Exploited Vuln...
+- **Keywords**: bug
+- [Read more](https://thehackernews.com/2026/03/cisa-flags-actively-exploited-n8n-rce.html)
+
 ### How AI is helping improve heart health in rural Australia
 - **Published**: March 12, 2026
 - **Summary**: A doctor is sitting across a desk from a patient. The doctor is holding a tablet and a pen. Medical charts renderings are in the background.......
 - [Read more](https://blog.google/innovation-and-ai/technology/health/google-ai-heart-health-australia/)
-
-### We built a lean, high-perf dashboard for Yeahchain
-- **Published**: March 12, 2026
-- **Summary**: <p>Just wanted to share a quick project we wrapped up at Yeahchain. We were tired of the usual bloated admin dashboards, so we rebuilt the whole inter...
-- [Read more](https://news.ycombinator.com/item?id=47345473)
 
 ---
 

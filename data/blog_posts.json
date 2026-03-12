@@ -1,6 +1,24 @@
 {
   "chaos_ranked": [
     {
+      "title": "CISA Flags Actively Exploited n8n RCE Bug as 24,700 Instances Remain Exposed",
+      "link": "https://thehackernews.com/2026/03/cisa-flags-actively-exploited-n8n-rce.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a critical security flaw impacting n8n to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of ac...",
+      "published": "2026-03-12T10:48:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 11.1,
+        "anarchy": 3.0,
+        "overall": 7.1
+      },
+      "keywords": {
+        "chaos": [
+          "bug"
+        ],
+        "anarchy": []
+      }
+    },
+    {
       "title": "How AI is helping improve heart health in rural Australia",
       "link": "https://blog.google/innovation-and-ai/technology/health/google-ai-heart-health-australia/",
       "summary": "A doctor is sitting across a desk from a patient. The doctor is holding a tablet and a pen. Medical charts renderings are in the background....",
@@ -17,11 +35,11 @@
       }
     },
     {
-      "title": "We built a lean, high-perf dashboard for Yeahchain",
-      "link": "https://news.ycombinator.com/item?id=47345473",
-      "summary": "<p>Just wanted to share a quick project we wrapped up at Yeahchain. We were tired of the usual bloated admin dashboards, so we rebuilt the whole internal engine for Yeahchain from scratch.<p>We focuse...",
-      "published": "2026-03-12T02:11:59+00:00",
-      "domain": "news.ycombinator.com",
+      "title": "Show HN: Tarvos \u2013 fix context rot by chaining fresh Claude agents automatically",
+      "link": "https://github.com/Photon48/tarvos/tree/main",
+      "summary": "<p>AI coding agents degrade as context fills up. By phase 6 of 8, output quality has quietly fallen apart. I kept restarting sessions by hand \u2014 copy-pasting my PRD and progress notes into a fresh cont...",
+      "published": "2026-03-12T06:53:55+00:00",
+      "domain": "github.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -33,11 +51,11 @@
       }
     },
     {
-      "title": "Veil of Ignorance",
-      "link": "https://en.wikipedia.org/wiki/Original_position",
-      "summary": "<p>Article URL: <a href=\"https://en.wikipedia.org/wiki/Original_position\">https://en.wikipedia.org/wiki/Original_position</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4734546...",
-      "published": "2026-03-12T02:11:29+00:00",
-      "domain": "en.wikipedia.org",
+      "title": "The state of book publicity now",
+      "link": "https://derekkrissoff.substack.com/p/the-state-of-book-publicity-now",
+      "summary": "<p>Article URL: <a href=\"https://derekkrissoff.substack.com/p/the-state-of-book-publicity-now\">https://derekkrissoff.substack.com/p/the-state-of-book-publicity-now</a></p>\n<p>Comments URL: <a href=\"ht...",
+      "published": "2026-03-12T06:53:07+00:00",
+      "domain": "derekkrissoff.substack.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -49,11 +67,11 @@
       }
     },
     {
-      "title": "New course on generative AI for behavioral science",
-      "link": "https://statmodeling.stat.columbia.edu/2026/03/10/new-course-on-generative-ai-for-behavioral-science/",
-      "summary": "<p>Article URL: <a href=\"https://statmodeling.stat.columbia.edu/2026/03/10/new-course-on-generative-ai-for-behavioral-science/\">https://statmodeling.stat.columbia.edu/2026/03/10/new-course-on-generati...",
-      "published": "2026-03-12T02:07:27+00:00",
-      "domain": "statmodeling.stat.columbia.edu",
+      "title": "//go:fix inline and the source-level inliner",
+      "link": "https://go.dev/blog/inliner",
+      "summary": "<p>Article URL: <a href=\"https://go.dev/blog/inliner\">https://go.dev/blog/inliner</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47347322\">https://news.ycombinator.com/item?id=...",
+      "published": "2026-03-12T06:49:55+00:00",
+      "domain": "go.dev",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -65,11 +83,11 @@
       }
     },
     {
-      "title": "Google sells partial stake in fiber, becomes minority owner of new venture",
-      "link": "https://www.cnbc.com/2026/03/11/google-sells-partial-stake-in-fiber-becomes-minority-owner-in-venture-.html",
-      "summary": "<p>Article URL: <a href=\"https://www.cnbc.com/2026/03/11/google-sells-partial-stake-in-fiber-becomes-minority-owner-in-venture-.html\">https://www.cnbc.com/2026/03/11/google-sells-partial-stake-in-fibe...",
-      "published": "2026-03-12T02:07:25+00:00",
-      "domain": "cnbc.com",
+      "title": "Haruspex \u2013 Digital Horoscopes",
+      "link": "https://www.haruspex.click/",
+      "summary": "<p>Article URL: <a href=\"https://www.haruspex.click/\">https://www.haruspex.click/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47347293\">https://news.ycombinator.com/item?id=...",
+      "published": "2026-03-12T06:44:50+00:00",
+      "domain": "haruspex.click",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -81,11 +99,11 @@
       }
     },
     {
-      "title": "ICE/DHS gets hacked, all Contractors exposed",
-      "link": "https://micahflee.github.io/ice-contracts/",
-      "summary": "<p>Article URL: <a href=\"https://micahflee.github.io/ice-contracts/\">https://micahflee.github.io/ice-contracts/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47345393\">https:/...",
-      "published": "2026-03-12T02:03:01+00:00",
-      "domain": "micahflee.github.io",
+      "title": "Show HN: HN-IRC \u2013 I rebuilt Hacker News as a retro IRC client",
+      "link": "https://d1mf42rlcj2lrs.cloudfront.net/",
+      "summary": "<p>What if hacker news was structured like an IRC client. Utilizes the Firebase API and has full keyboard navigation support.<p>Hope someone enjoys it, feedback welcome.</p>\n<hr />\n<p>Comments URL: <a...",
+      "published": "2026-03-12T06:44:08+00:00",
+      "domain": "d1mf42rlcj2lrs.cloudfront.net",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -129,27 +147,11 @@
       }
     },
     {
-      "title": "Researchers Trick Perplexity's Comet AI Browser Into Phishing Scam in Under Four Minutes",
-      "link": "https://thehackernews.com/2026/03/researchers-trick-perplexitys-comet-ai.html",
-      "summary": "Agentic web browsers that leverage artificial intelligence (AI) capabilities to autonomously execute actions across multiple websites on behalf of a user could be trained and tricked into falling prey...",
-      "published": "2026-03-11T22:08:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Many SWE-bench-Passing PRs would not be merged",
-      "link": "https://metr.org/notes/2026-03-10-many-swe-bench-passing-prs-would-not-be-merged-into-main/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47341645\">Comments</a>...",
-      "published": "2026-03-11T20:56:52+00:00",
-      "domain": "metr.org",
+      "title": "The Pentagon is violating Anthropic's First Amendment rights",
+      "link": "https://www.reddit.com/r/technology/comments/1rr9p2j/the_pentagon_is_violating_anthropics_first/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1rr9p2j/the_pentagon_is_violating_anthropics_first/\"> <img alt=\"The Pentagon is violating Anthropic's First Amendment rights\" src...",
+      "published": "2026-03-11T23:07:02+00:00",
+      "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -179,11 +181,29 @@
       }
     },
     {
-      "title": "We built a lean, high-perf dashboard for Yeahchain",
-      "link": "https://news.ycombinator.com/item?id=47345473",
-      "summary": "<p>Just wanted to share a quick project we wrapped up at Yeahchain. We were tired of the usual bloated admin dashboards, so we rebuilt the whole internal engine for Yeahchain from scratch.<p>We focuse...",
-      "published": "2026-03-12T02:11:59+00:00",
-      "domain": "news.ycombinator.com",
+      "title": "CISA Flags Actively Exploited n8n RCE Bug as 24,700 Instances Remain Exposed",
+      "link": "https://thehackernews.com/2026/03/cisa-flags-actively-exploited-n8n-rce.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a critical security flaw impacting n8n to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of ac...",
+      "published": "2026-03-12T10:48:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 11.1,
+        "anarchy": 3.0,
+        "overall": 7.1
+      },
+      "keywords": {
+        "chaos": [
+          "bug"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Tarvos \u2013 fix context rot by chaining fresh Claude agents automatically",
+      "link": "https://github.com/Photon48/tarvos/tree/main",
+      "summary": "<p>AI coding agents degrade as context fills up. By phase 6 of 8, output quality has quietly fallen apart. I kept restarting sessions by hand \u2014 copy-pasting my PRD and progress notes into a fresh cont...",
+      "published": "2026-03-12T06:53:55+00:00",
+      "domain": "github.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -195,11 +215,11 @@
       }
     },
     {
-      "title": "Veil of Ignorance",
-      "link": "https://en.wikipedia.org/wiki/Original_position",
-      "summary": "<p>Article URL: <a href=\"https://en.wikipedia.org/wiki/Original_position\">https://en.wikipedia.org/wiki/Original_position</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4734546...",
-      "published": "2026-03-12T02:11:29+00:00",
-      "domain": "en.wikipedia.org",
+      "title": "The state of book publicity now",
+      "link": "https://derekkrissoff.substack.com/p/the-state-of-book-publicity-now",
+      "summary": "<p>Article URL: <a href=\"https://derekkrissoff.substack.com/p/the-state-of-book-publicity-now\">https://derekkrissoff.substack.com/p/the-state-of-book-publicity-now</a></p>\n<p>Comments URL: <a href=\"ht...",
+      "published": "2026-03-12T06:53:07+00:00",
+      "domain": "derekkrissoff.substack.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -211,11 +231,11 @@
       }
     },
     {
-      "title": "New course on generative AI for behavioral science",
-      "link": "https://statmodeling.stat.columbia.edu/2026/03/10/new-course-on-generative-ai-for-behavioral-science/",
-      "summary": "<p>Article URL: <a href=\"https://statmodeling.stat.columbia.edu/2026/03/10/new-course-on-generative-ai-for-behavioral-science/\">https://statmodeling.stat.columbia.edu/2026/03/10/new-course-on-generati...",
-      "published": "2026-03-12T02:07:27+00:00",
-      "domain": "statmodeling.stat.columbia.edu",
+      "title": "//go:fix inline and the source-level inliner",
+      "link": "https://go.dev/blog/inliner",
+      "summary": "<p>Article URL: <a href=\"https://go.dev/blog/inliner\">https://go.dev/blog/inliner</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47347322\">https://news.ycombinator.com/item?id=...",
+      "published": "2026-03-12T06:49:55+00:00",
+      "domain": "go.dev",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -227,11 +247,11 @@
       }
     },
     {
-      "title": "Google sells partial stake in fiber, becomes minority owner of new venture",
-      "link": "https://www.cnbc.com/2026/03/11/google-sells-partial-stake-in-fiber-becomes-minority-owner-in-venture-.html",
-      "summary": "<p>Article URL: <a href=\"https://www.cnbc.com/2026/03/11/google-sells-partial-stake-in-fiber-becomes-minority-owner-in-venture-.html\">https://www.cnbc.com/2026/03/11/google-sells-partial-stake-in-fibe...",
-      "published": "2026-03-12T02:07:25+00:00",
-      "domain": "cnbc.com",
+      "title": "Haruspex \u2013 Digital Horoscopes",
+      "link": "https://www.haruspex.click/",
+      "summary": "<p>Article URL: <a href=\"https://www.haruspex.click/\">https://www.haruspex.click/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47347293\">https://news.ycombinator.com/item?id=...",
+      "published": "2026-03-12T06:44:50+00:00",
+      "domain": "haruspex.click",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -243,11 +263,11 @@
       }
     },
     {
-      "title": "ICE/DHS gets hacked, all Contractors exposed",
-      "link": "https://micahflee.github.io/ice-contracts/",
-      "summary": "<p>Article URL: <a href=\"https://micahflee.github.io/ice-contracts/\">https://micahflee.github.io/ice-contracts/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47345393\">https:/...",
-      "published": "2026-03-12T02:03:01+00:00",
-      "domain": "micahflee.github.io",
+      "title": "Show HN: HN-IRC \u2013 I rebuilt Hacker News as a retro IRC client",
+      "link": "https://d1mf42rlcj2lrs.cloudfront.net/",
+      "summary": "<p>What if hacker news was structured like an IRC client. Utilizes the Firebase API and has full keyboard navigation support.<p>Hope someone enjoys it, feedback welcome.</p>\n<hr />\n<p>Comments URL: <a...",
+      "published": "2026-03-12T06:44:08+00:00",
+      "domain": "d1mf42rlcj2lrs.cloudfront.net",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -291,27 +311,11 @@
       }
     },
     {
-      "title": "Researchers Trick Perplexity's Comet AI Browser Into Phishing Scam in Under Four Minutes",
-      "link": "https://thehackernews.com/2026/03/researchers-trick-perplexitys-comet-ai.html",
-      "summary": "Agentic web browsers that leverage artificial intelligence (AI) capabilities to autonomously execute actions across multiple websites on behalf of a user could be trained and tricked into falling prey...",
-      "published": "2026-03-11T22:08:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Many SWE-bench-Passing PRs would not be merged",
-      "link": "https://metr.org/notes/2026-03-10-many-swe-bench-passing-prs-would-not-be-merged-into-main/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47341645\">Comments</a>...",
-      "published": "2026-03-11T20:56:52+00:00",
-      "domain": "metr.org",
+      "title": "The Pentagon is violating Anthropic's First Amendment rights",
+      "link": "https://www.reddit.com/r/technology/comments/1rr9p2j/the_pentagon_is_violating_anthropics_first/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1rr9p2j/the_pentagon_is_violating_anthropics_first/\"> <img alt=\"The Pentagon is violating Anthropic's First Amendment rights\" src...",
+      "published": "2026-03-11T23:07:02+00:00",
+      "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -324,6 +328,24 @@
     }
   ],
   "overall_ranked": [
+    {
+      "title": "CISA Flags Actively Exploited n8n RCE Bug as 24,700 Instances Remain Exposed",
+      "link": "https://thehackernews.com/2026/03/cisa-flags-actively-exploited-n8n-rce.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a critical security flaw impacting n8n to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of ac...",
+      "published": "2026-03-12T10:48:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 11.1,
+        "anarchy": 3.0,
+        "overall": 7.1
+      },
+      "keywords": {
+        "chaos": [
+          "bug"
+        ],
+        "anarchy": []
+      }
+    },
     {
       "title": "How AI is helping improve heart health in rural Australia",
       "link": "https://blog.google/innovation-and-ai/technology/health/google-ai-heart-health-australia/",
@@ -341,11 +363,11 @@
       }
     },
     {
-      "title": "We built a lean, high-perf dashboard for Yeahchain",
-      "link": "https://news.ycombinator.com/item?id=47345473",
-      "summary": "<p>Just wanted to share a quick project we wrapped up at Yeahchain. We were tired of the usual bloated admin dashboards, so we rebuilt the whole internal engine for Yeahchain from scratch.<p>We focuse...",
-      "published": "2026-03-12T02:11:59+00:00",
-      "domain": "news.ycombinator.com",
+      "title": "Show HN: Tarvos \u2013 fix context rot by chaining fresh Claude agents automatically",
+      "link": "https://github.com/Photon48/tarvos/tree/main",
+      "summary": "<p>AI coding agents degrade as context fills up. By phase 6 of 8, output quality has quietly fallen apart. I kept restarting sessions by hand \u2014 copy-pasting my PRD and progress notes into a fresh cont...",
+      "published": "2026-03-12T06:53:55+00:00",
+      "domain": "github.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -357,11 +379,11 @@
       }
     },
     {
-      "title": "Veil of Ignorance",
-      "link": "https://en.wikipedia.org/wiki/Original_position",
-      "summary": "<p>Article URL: <a href=\"https://en.wikipedia.org/wiki/Original_position\">https://en.wikipedia.org/wiki/Original_position</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4734546...",
-      "published": "2026-03-12T02:11:29+00:00",
-      "domain": "en.wikipedia.org",
+      "title": "The state of book publicity now",
+      "link": "https://derekkrissoff.substack.com/p/the-state-of-book-publicity-now",
+      "summary": "<p>Article URL: <a href=\"https://derekkrissoff.substack.com/p/the-state-of-book-publicity-now\">https://derekkrissoff.substack.com/p/the-state-of-book-publicity-now</a></p>\n<p>Comments URL: <a href=\"ht...",
+      "published": "2026-03-12T06:53:07+00:00",
+      "domain": "derekkrissoff.substack.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -373,11 +395,11 @@
       }
     },
     {
-      "title": "New course on generative AI for behavioral science",
-      "link": "https://statmodeling.stat.columbia.edu/2026/03/10/new-course-on-generative-ai-for-behavioral-science/",
-      "summary": "<p>Article URL: <a href=\"https://statmodeling.stat.columbia.edu/2026/03/10/new-course-on-generative-ai-for-behavioral-science/\">https://statmodeling.stat.columbia.edu/2026/03/10/new-course-on-generati...",
-      "published": "2026-03-12T02:07:27+00:00",
-      "domain": "statmodeling.stat.columbia.edu",
+      "title": "//go:fix inline and the source-level inliner",
+      "link": "https://go.dev/blog/inliner",
+      "summary": "<p>Article URL: <a href=\"https://go.dev/blog/inliner\">https://go.dev/blog/inliner</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47347322\">https://news.ycombinator.com/item?id=...",
+      "published": "2026-03-12T06:49:55+00:00",
+      "domain": "go.dev",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -389,11 +411,11 @@
       }
     },
     {
-      "title": "Google sells partial stake in fiber, becomes minority owner of new venture",
-      "link": "https://www.cnbc.com/2026/03/11/google-sells-partial-stake-in-fiber-becomes-minority-owner-in-venture-.html",
-      "summary": "<p>Article URL: <a href=\"https://www.cnbc.com/2026/03/11/google-sells-partial-stake-in-fiber-becomes-minority-owner-in-venture-.html\">https://www.cnbc.com/2026/03/11/google-sells-partial-stake-in-fibe...",
-      "published": "2026-03-12T02:07:25+00:00",
-      "domain": "cnbc.com",
+      "title": "Haruspex \u2013 Digital Horoscopes",
+      "link": "https://www.haruspex.click/",
+      "summary": "<p>Article URL: <a href=\"https://www.haruspex.click/\">https://www.haruspex.click/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47347293\">https://news.ycombinator.com/item?id=...",
+      "published": "2026-03-12T06:44:50+00:00",
+      "domain": "haruspex.click",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -405,11 +427,11 @@
       }
     },
     {
-      "title": "ICE/DHS gets hacked, all Contractors exposed",
-      "link": "https://micahflee.github.io/ice-contracts/",
-      "summary": "<p>Article URL: <a href=\"https://micahflee.github.io/ice-contracts/\">https://micahflee.github.io/ice-contracts/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47345393\">https:/...",
-      "published": "2026-03-12T02:03:01+00:00",
-      "domain": "micahflee.github.io",
+      "title": "Show HN: HN-IRC \u2013 I rebuilt Hacker News as a retro IRC client",
+      "link": "https://d1mf42rlcj2lrs.cloudfront.net/",
+      "summary": "<p>What if hacker news was structured like an IRC client. Utilizes the Firebase API and has full keyboard navigation support.<p>Hope someone enjoys it, feedback welcome.</p>\n<hr />\n<p>Comments URL: <a...",
+      "published": "2026-03-12T06:44:08+00:00",
+      "domain": "d1mf42rlcj2lrs.cloudfront.net",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -453,27 +475,11 @@
       }
     },
     {
-      "title": "Researchers Trick Perplexity's Comet AI Browser Into Phishing Scam in Under Four Minutes",
-      "link": "https://thehackernews.com/2026/03/researchers-trick-perplexitys-comet-ai.html",
-      "summary": "Agentic web browsers that leverage artificial intelligence (AI) capabilities to autonomously execute actions across multiple websites on behalf of a user could be trained and tricked into falling prey...",
-      "published": "2026-03-11T22:08:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Many SWE-bench-Passing PRs would not be merged",
-      "link": "https://metr.org/notes/2026-03-10-many-swe-bench-passing-prs-would-not-be-merged-into-main/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47341645\">Comments</a>...",
-      "published": "2026-03-11T20:56:52+00:00",
-      "domain": "metr.org",
+      "title": "The Pentagon is violating Anthropic's First Amendment rights",
+      "link": "https://www.reddit.com/r/technology/comments/1rr9p2j/the_pentagon_is_violating_anthropics_first/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1rr9p2j/the_pentagon_is_violating_anthropics_first/\"> <img alt=\"The Pentagon is violating Anthropic's First Amendment rights\" src...",
+      "published": "2026-03-11T23:07:02+00:00",
+      "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -503,11 +509,29 @@
       }
     },
     {
-      "title": "We built a lean, high-perf dashboard for Yeahchain",
-      "link": "https://news.ycombinator.com/item?id=47345473",
-      "summary": "<p>Just wanted to share a quick project we wrapped up at Yeahchain. We were tired of the usual bloated admin dashboards, so we rebuilt the whole internal engine for Yeahchain from scratch.<p>We focuse...",
-      "published": "2026-03-12T02:11:59+00:00",
-      "domain": "news.ycombinator.com",
+      "title": "CISA Flags Actively Exploited n8n RCE Bug as 24,700 Instances Remain Exposed",
+      "link": "https://thehackernews.com/2026/03/cisa-flags-actively-exploited-n8n-rce.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a critical security flaw impacting n8n to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of ac...",
+      "published": "2026-03-12T10:48:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 11.1,
+        "anarchy": 3.0,
+        "overall": 7.1
+      },
+      "keywords": {
+        "chaos": [
+          "bug"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Tarvos \u2013 fix context rot by chaining fresh Claude agents automatically",
+      "link": "https://github.com/Photon48/tarvos/tree/main",
+      "summary": "<p>AI coding agents degrade as context fills up. By phase 6 of 8, output quality has quietly fallen apart. I kept restarting sessions by hand \u2014 copy-pasting my PRD and progress notes into a fresh cont...",
+      "published": "2026-03-12T06:53:55+00:00",
+      "domain": "github.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -519,11 +543,11 @@
       }
     },
     {
-      "title": "Veil of Ignorance",
-      "link": "https://en.wikipedia.org/wiki/Original_position",
-      "summary": "<p>Article URL: <a href=\"https://en.wikipedia.org/wiki/Original_position\">https://en.wikipedia.org/wiki/Original_position</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4734546...",
-      "published": "2026-03-12T02:11:29+00:00",
-      "domain": "en.wikipedia.org",
+      "title": "The state of book publicity now",
+      "link": "https://derekkrissoff.substack.com/p/the-state-of-book-publicity-now",
+      "summary": "<p>Article URL: <a href=\"https://derekkrissoff.substack.com/p/the-state-of-book-publicity-now\">https://derekkrissoff.substack.com/p/the-state-of-book-publicity-now</a></p>\n<p>Comments URL: <a href=\"ht...",
+      "published": "2026-03-12T06:53:07+00:00",
+      "domain": "derekkrissoff.substack.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -535,11 +559,11 @@
       }
     },
     {
-      "title": "New course on generative AI for behavioral science",
-      "link": "https://statmodeling.stat.columbia.edu/2026/03/10/new-course-on-generative-ai-for-behavioral-science/",
-      "summary": "<p>Article URL: <a href=\"https://statmodeling.stat.columbia.edu/2026/03/10/new-course-on-generative-ai-for-behavioral-science/\">https://statmodeling.stat.columbia.edu/2026/03/10/new-course-on-generati...",
-      "published": "2026-03-12T02:07:27+00:00",
-      "domain": "statmodeling.stat.columbia.edu",
+      "title": "//go:fix inline and the source-level inliner",
+      "link": "https://go.dev/blog/inliner",
+      "summary": "<p>Article URL: <a href=\"https://go.dev/blog/inliner\">https://go.dev/blog/inliner</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47347322\">https://news.ycombinator.com/item?id=...",
+      "published": "2026-03-12T06:49:55+00:00",
+      "domain": "go.dev",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -551,11 +575,11 @@
       }
     },
     {
-      "title": "Google sells partial stake in fiber, becomes minority owner of new venture",
-      "link": "https://www.cnbc.com/2026/03/11/google-sells-partial-stake-in-fiber-becomes-minority-owner-in-venture-.html",
-      "summary": "<p>Article URL: <a href=\"https://www.cnbc.com/2026/03/11/google-sells-partial-stake-in-fiber-becomes-minority-owner-in-venture-.html\">https://www.cnbc.com/2026/03/11/google-sells-partial-stake-in-fibe...",
-      "published": "2026-03-12T02:07:25+00:00",
-      "domain": "cnbc.com",
+      "title": "Haruspex \u2013 Digital Horoscopes",
+      "link": "https://www.haruspex.click/",
+      "summary": "<p>Article URL: <a href=\"https://www.haruspex.click/\">https://www.haruspex.click/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47347293\">https://news.ycombinator.com/item?id=...",
+      "published": "2026-03-12T06:44:50+00:00",
+      "domain": "haruspex.click",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -567,11 +591,11 @@
       }
     },
     {
-      "title": "ICE/DHS gets hacked, all Contractors exposed",
-      "link": "https://micahflee.github.io/ice-contracts/",
-      "summary": "<p>Article URL: <a href=\"https://micahflee.github.io/ice-contracts/\">https://micahflee.github.io/ice-contracts/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47345393\">https:/...",
-      "published": "2026-03-12T02:03:01+00:00",
-      "domain": "micahflee.github.io",
+      "title": "Show HN: HN-IRC \u2013 I rebuilt Hacker News as a retro IRC client",
+      "link": "https://d1mf42rlcj2lrs.cloudfront.net/",
+      "summary": "<p>What if hacker news was structured like an IRC client. Utilizes the Firebase API and has full keyboard navigation support.<p>Hope someone enjoys it, feedback welcome.</p>\n<hr />\n<p>Comments URL: <a...",
+      "published": "2026-03-12T06:44:08+00:00",
+      "domain": "d1mf42rlcj2lrs.cloudfront.net",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -615,27 +639,11 @@
       }
     },
     {
-      "title": "Researchers Trick Perplexity's Comet AI Browser Into Phishing Scam in Under Four Minutes",
-      "link": "https://thehackernews.com/2026/03/researchers-trick-perplexitys-comet-ai.html",
-      "summary": "Agentic web browsers that leverage artificial intelligence (AI) capabilities to autonomously execute actions across multiple websites on behalf of a user could be trained and tricked into falling prey...",
-      "published": "2026-03-11T22:08:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Many SWE-bench-Passing PRs would not be merged",
-      "link": "https://metr.org/notes/2026-03-10-many-swe-bench-passing-prs-would-not-be-merged-into-main/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47341645\">Comments</a>...",
-      "published": "2026-03-11T20:56:52+00:00",
-      "domain": "metr.org",
+      "title": "The Pentagon is violating Anthropic's First Amendment rights",
+      "link": "https://www.reddit.com/r/technology/comments/1rr9p2j/the_pentagon_is_violating_anthropics_first/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1rr9p2j/the_pentagon_is_violating_anthropics_first/\"> <img alt=\"The Pentagon is violating Anthropic's First Amendment rights\" src...",
+      "published": "2026-03-11T23:07:02+00:00",
+      "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
