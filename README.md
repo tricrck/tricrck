@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Attackers Don't Just Send Phishing Emails. They Weaponize Your SOC's Workload
+### Rust-Based VENON Malware Targets 33 Brazilian Banks with Credential-Stealing Overlays
 - **Published**: March 12, 2026
-- **Summary**: The most dangerous phishing campaigns aren’t just designed to fool employees. Many are designed to exhaust the analysts investigating them. When a phi...
-- [Read more](https://thehackernews.com/2026/03/attackers-dont-just-send-phishing.html)
+- **Summary**: Cybersecurity researchers have disclosed details of a new banking malware targeting Brazilian users that's written in Rust, marking a significant depa...
+- [Read more](https://thehackernews.com/2026/03/rust-based-venon-malware-targets-33.html)
 
-### Apple Issues Security Updates for Older iOS Devices Targeted by Coruna WebKit Exploit
+### Hive0163 Uses AI-Assisted Slopoly Malware for Persistent Access in Ransomware Attacks
 - **Published**: March 12, 2026
-- **Summary**: Apple on Wednesday backported fixes for a security flaw in iOS, iPadOS, and macOS Sonoma to older versions after it was found to be used as part of th...
-- [Read more](https://thehackernews.com/2026/03/apple-issues-security-updates-for-older.html)
+- **Summary**: Cybersecurity researchers have disclosed details of a suspected artificial intelligence (AI)-generated malware codenamed Slopoly put to use by a finan...
+- [Read more](https://thehackernews.com/2026/03/hive0163-uses-ai-assisted-slopoly.html)
 
 ---
 
