@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Binance sues WSJ, panicked by gov't probes into sanctioned crypto transfers
-- **Published**: March 11, 2026
-- **Summary**: https://arstechnica.com/tech-policy/2026/03/binance-sues-ws......
-- [Read more](https://arstechnica.com/tech-policy/2026/03/binance-sues-wsj-over-report-sparking-government-probes-into-exchange/)
+### How AI is helping improve heart health in rural Australia
+- **Published**: March 12, 2026
+- **Summary**: A doctor is sitting across a desk from a patient. The doctor is holding a tablet and a pen. Medical charts renderings are in the background.......
+- [Read more](https://blog.google/innovation-and-ai/technology/health/google-ai-heart-health-australia/)
 
-### Iran tells world to get ready for oil at $200 a barrel
-- **Published**: March 11, 2026
-- **Summary**: https://www.reuters.com/world/middle-east/combata......
-- **Keywords**: down
-- [Read more](https://www.reuters.com/world/middle-east/combatants-mideast-war-trade-more-air-strikes-iran-clamps-down-dissent-2026-03-11/)
+### We built a lean, high-perf dashboard for Yeahchain
+- **Published**: March 12, 2026
+- **Summary**: <p>Just wanted to share a quick project we wrapped up at Yeahchain. We were tired of the usual bloated admin dashboards, so we rebuilt the whole inter...
+- [Read more](https://news.ycombinator.com/item?id=47345473)
 
 ---
 
