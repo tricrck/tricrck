@@ -16,16 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### FDA-Approved Seizure Drug May Stop Alzheimer's Before It Starts
+### Adobe CEO Shantanu Narayen is stepping down after 18 years—as pressure on the company mounts to deliver on AI
 - **Published**: March 13, 2026
-- **Summary**: https://scitechdaily.com/fda-approved-seizure-drug-may-stop-alzheimers-before-it-star......
-- [Read more](https://scitechdaily.com/fda-approved-seizure-drug-may-stop-alzheimers-before-it-starts/)
+- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1rsau5o/adobe_ceo_shantanu_narayen_is_stepping_down_after/"> <img alt="Adobe CEO Shantanu N...
+- **Keywords**: down, down
+- [Read more](https://www.reddit.com/r/technology/comments/1rsau5o/adobe_ceo_shantanu_narayen_is_stepping_down_after/)
 
-### Trump Is "Strongly Considering" Pardoning Julian Assange and Edward Snowden
+### Authorities Disrupt SocksEscort Proxy Botnet Exploiting 369,000 IPs Across 163 Countries
 - **Published**: March 13, 2026
-- **Summary**: https://twitter.com/BBMagaMom/status/2031894649472758268</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.c......
-- [Read more](https://twitter.com/BBMagaMom/status/2031894649472758268)
+- **Summary**: A court-authorized international law enforcement operation has dismantled a criminal proxy service named SocksEscort that enslaved thousands of reside...
+- **Keywords**: disrupt
+- [Read more](https://thehackernews.com/2026/03/authorities-disrupt-socksescort-proxy.html)
 
 ---
 
