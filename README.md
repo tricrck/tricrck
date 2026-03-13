@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Adobe CEO Shantanu Narayen is stepping down after 18 years—as pressure on the company mounts to deliver on AI
-- **Published**: March 13, 2026
-- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1rsau5o/adobe_ceo_shantanu_narayen_is_stepping_down_after/"> <img alt="Adobe CEO Shantanu N...
-- **Keywords**: down, down
-- [Read more](https://www.reddit.com/r/technology/comments/1rsau5o/adobe_ceo_shantanu_narayen_is_stepping_down_after/)
-
 ### Authorities Disrupt SocksEscort Proxy Botnet Exploiting 369,000 IPs Across 163 Countries
 - **Published**: March 13, 2026
 - **Summary**: A court-authorized international law enforcement operation has dismantled a criminal proxy service named SocksEscort that enslaved thousands of reside...
 - **Keywords**: disrupt
 - [Read more](https://thehackernews.com/2026/03/authorities-disrupt-socksescort-proxy.html)
+
+### Google Fixes Two Chrome Zero-Days Exploited in the Wild Affecting Skia and V8
+- **Published**: March 13, 2026
+- **Summary**: Google on Thursday released security updates for its Chrome web browser to address two high-severity vulnerabilities that it said have been exploited ...
+- [Read more](https://thehackernews.com/2026/03/google-fixes-two-chrome-zero-days.html)
 
 ---
 
