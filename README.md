@@ -16,15 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Rust-Based VENON Malware Targets 33 Brazilian Banks with Credential-Stealing Overlays
-- **Published**: March 12, 2026
-- **Summary**: Cybersecurity researchers have disclosed details of a new banking malware targeting Brazilian users that's written in Rust, marking a significant depa...
-- [Read more](https://thehackernews.com/2026/03/rust-based-venon-malware-targets-33.html)
+### FDA-Approved Seizure Drug May Stop Alzheimer's Before It Starts
+- **Published**: March 13, 2026
+- **Summary**: https://scitechdaily.com/fda-approved-seizure-drug-may-stop-alzheimers-before-it-star......
+- [Read more](https://scitechdaily.com/fda-approved-seizure-drug-may-stop-alzheimers-before-it-starts/)
 
-### Hive0163 Uses AI-Assisted Slopoly Malware for Persistent Access in Ransomware Attacks
-- **Published**: March 12, 2026
-- **Summary**: Cybersecurity researchers have disclosed details of a suspected artificial intelligence (AI)-generated malware codenamed Slopoly put to use by a finan...
-- [Read more](https://thehackernews.com/2026/03/hive0163-uses-ai-assisted-slopoly.html)
+### Trump Is "Strongly Considering" Pardoning Julian Assange and Edward Snowden
+- **Published**: March 13, 2026
+- **Summary**: https://twitter.com/BBMagaMom/status/2031894649472758268</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.c......
+- [Read more](https://twitter.com/BBMagaMom/status/2031894649472758268)
 
 ---
 
