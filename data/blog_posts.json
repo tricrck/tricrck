@@ -1,45 +1,46 @@
 {
   "chaos_ranked": [
     {
-      "title": "AI error jails innocent grandmother for months in North Dakota fraud case",
-      "link": "https://www.reddit.com/r/technology/comments/1rtehlh/ai_error_jails_innocent_grandmother_for_months_in/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1rtehlh/ai_error_jails_innocent_grandmother_for_months_in/\"> <img alt=\"AI error jails innocent grandmother for months in North Da...",
-      "published": "2026-03-14T08:54:30+00:00",
-      "domain": "reddit.com",
+      "title": "The Great Russian Disconnect",
+      "link": "https://www.politico.com/news/2026/03/14/russias-self-inflicted-communication-crisis-00827197",
+      "summary": "<p>Article URL: <a href=\"https://www.politico.com/news/2026/03/14/russias-self-inflicted-communication-crisis-00827197\">https://www.politico.com/news/2026/03/14/russias-self-inflicted-communication-cr...",
+      "published": "2026-03-14T18:28:24+00:00",
+      "domain": "politico.com",
       "scores": {
-        "chaos": 25.1,
+        "chaos": 18.6,
         "anarchy": 3.0,
-        "overall": 14.1
+        "overall": 10.8
       },
       "keywords": {
         "chaos": [
-          "error",
-          "error"
+          "crisis"
         ],
         "anarchy": []
       }
     },
     {
-      "title": "How Can Governments Pay Open Source Maintainers?",
-      "link": "https://shkspr.mobi/blog/2026/03/how-can-governments-pay-open-source-maintainers/",
-      "summary": "<p>Article URL: <a href=\"https://shkspr.mobi/blog/2026/03/how-can-governments-pay-open-source-maintainers/\">https://shkspr.mobi/blog/2026/03/how-can-governments-pay-open-source-maintainers/</a></p>\n<p...",
-      "published": "2026-03-14T12:41:29+00:00",
-      "domain": "shkspr.mobi",
+      "title": "OpenClaw AI Agent Flaws Could Enable Prompt Injection and Data Exfiltration",
+      "link": "https://thehackernews.com/2026/03/openclaw-ai-agent-flaws-could-enable.html",
+      "summary": "China's National Computer Network Emergency Response Technical Team (CNCERT) has issued a warning about the security stemming from the use of OpenClaw (formerly Clawdbot and Moltbot), an open-source a...",
+      "published": "2026-03-14T21:47:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
-        "chaos": 3.0,
+        "chaos": 13.0,
         "anarchy": 3.0,
-        "overall": 3.0
+        "overall": 8.0
       },
       "keywords": {
-        "chaos": [],
+        "chaos": [
+          "emergency"
+        ],
         "anarchy": []
       }
     },
     {
-      "title": "Show HN: I built Wool, a lightweight distributed Python runtime",
-      "link": "https://github.com/wool-labs/wool",
-      "summary": "<p>I spent a long time working in the payments industry, specifically on a rather niche reporting/aggregation platform with spiky workloads that were not easily parallelized. To pump as much data thro...",
-      "published": "2026-03-14T12:39:02+00:00",
+      "title": "Show HN: Iris \u2013 first MCP-native eval and observability tool for AI agents",
+      "link": "https://github.com/iris-eval/mcp-server",
+      "summary": "<p>I kept running into the same problem building AI agents: once they're running, I have no idea what they're actually doing. Traditional monitoring shows me HTTP 200. It can't tell me the output was ...",
+      "published": "2026-03-14T18:36:44+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -52,11 +53,11 @@
       }
     },
     {
-      "title": "A Swiss Paperwork Massacre: Why We Fled to Stripe",
-      "link": "https://octigen.com/blog/posts/2026-03-09-payment-nightmare/",
-      "summary": "<p>Article URL: <a href=\"https://octigen.com/blog/posts/2026-03-09-payment-nightmare/\">https://octigen.com/blog/posts/2026-03-09-payment-nightmare/</a></p>\n<p>Comments URL: <a href=\"https://news.ycomb...",
-      "published": "2026-03-14T12:37:54+00:00",
-      "domain": "octigen.com",
+      "title": "How to Navigate with Turbo Frames",
+      "link": "https://ducktypelabs.com/how-to-navigate-with-turbo-frames/",
+      "summary": "<p>Article URL: <a href=\"https://ducktypelabs.com/how-to-navigate-with-turbo-frames/\">https://ducktypelabs.com/how-to-navigate-with-turbo-frames/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombin...",
+      "published": "2026-03-14T18:34:49+00:00",
+      "domain": "ducktypelabs.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -68,10 +69,10 @@
       }
     },
     {
-      "title": "Ask HN: Will US send ground troops to Iran?",
-      "link": "https://news.ycombinator.com/item?id=47376006",
-      "summary": "<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47376006\">https://news.ycombinator.com/item?id=47376006</a></p>\n<p>Points: 1</p>\n<p># Comments: 2</p>...",
-      "published": "2026-03-14T12:30:32+00:00",
+      "title": "Ask HN: How do you enforce least-privilege when an API token has full access?",
+      "link": "https://news.ycombinator.com/item?id=47379595",
+      "summary": "<p>Curious how people handle least-privilege access when integrating third-party APIs that only offer a single coarse permission scope (or limited scopes that are still over-provisioned for a specific...",
+      "published": "2026-03-14T18:28:25+00:00",
       "domain": "news.ycombinator.com",
       "scores": {
         "chaos": 3.0,
@@ -84,10 +85,10 @@
       }
     },
     {
-      "title": "Python JSON SQL DB",
-      "link": "https://github.com/andre-git/pysql",
-      "summary": "<p>Article URL: <a href=\"https://github.com/andre-git/pysql\">https://github.com/andre-git/pysql</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47376002\">https://news.ycombinato...",
-      "published": "2026-03-14T12:30:09+00:00",
+      "title": "Windows To-Do-Lsit in the Taskbar",
+      "link": "https://github.com/rknastenka/Krisp",
+      "summary": "<p>Article URL: <a href=\"https://github.com/rknastenka/Krisp\">https://github.com/rknastenka/Krisp</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47379591\">https://news.ycombina...",
+      "published": "2026-03-14T18:28:10+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -100,11 +101,11 @@
       }
     },
     {
-      "title": "XML Is a Cheap DSL",
-      "link": "https://unplannedobsolescence.com/blog/xml-cheap-dsl/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47375764\">Comments</a>...",
-      "published": "2026-03-14T11:59:13+00:00",
-      "domain": "unplannedobsolescence.com",
+      "title": "GlassWorm Supply-Chain Attack Abuses 72 Open VSX Extensions to Target Developers",
+      "link": "https://thehackernews.com/2026/03/glassworm-supply-chain-attack-abuses-72.html",
+      "summary": "Cybersecurity researchers have flagged a new iteration of the GlassWorm campaign that they say represents a \"significant escalation\" in how it propagates through the Open VSX registry.\n\"Instead of req...",
+      "published": "2026-03-14T18:25:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -116,11 +117,11 @@
       }
     },
     {
-      "title": "Claude Code conducts A/B tests on core features",
-      "link": "https://backnotprop.com/blog/do-not-ab-test-my-workflow/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47375682\">Comments</a>...",
-      "published": "2026-03-14T11:46:29+00:00",
-      "domain": "backnotprop.com",
+      "title": "Sunsetting Jazzband",
+      "link": "https://jazzband.co/news/2026/03/14/sunsetting-jazzband",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47379067\">Comments</a>...",
+      "published": "2026-03-14T17:40:23+00:00",
+      "domain": "jazzband.co",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -132,11 +133,11 @@
       }
     },
     {
-      "title": "Microsoft: Windows 11 users can't access C: drive on some Samsung PCs",
-      "link": "https://www.reddit.com/r/technology/comments/1rth1ji/microsoft_windows_11_users_cant_access_c_drive_on/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1rth1ji/microsoft_windows_11_users_cant_access_c_drive_on/\"> <img alt=\"Microsoft: Windows 11 users can't access C: drive on some ...",
-      "published": "2026-03-14T11:29:54+00:00",
-      "domain": "reddit.com",
+      "title": "What happens when US economic data becomes unreliable",
+      "link": "https://mitsloan.mit.edu/ideas-made-to-matter/what-happens-when-us-economic-data-becomes-unreliable",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47378638\">Comments</a>...",
+      "published": "2026-03-14T16:58:40+00:00",
+      "domain": "mitsloan.mit.edu",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -148,11 +149,11 @@
       }
     },
     {
-      "title": "Megadev: A Development Kit for the Sega Mega Drive and Mega CD Hardware",
-      "link": "https://github.com/drojaazu/megadev",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47374745\">Comments</a>...",
-      "published": "2026-03-14T09:04:39+00:00",
-      "domain": "github.com",
+      "title": "An Ode to Bzip",
+      "link": "https://purplesyringa.moe/blog/an-ode-to-bzip/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47377998\">Comments</a>...",
+      "published": "2026-03-14T16:01:23+00:00",
+      "domain": "purplesyringa.moe",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -166,26 +167,28 @@
   ],
   "anarchy_ranked": [
     {
-      "title": "How Can Governments Pay Open Source Maintainers?",
-      "link": "https://shkspr.mobi/blog/2026/03/how-can-governments-pay-open-source-maintainers/",
-      "summary": "<p>Article URL: <a href=\"https://shkspr.mobi/blog/2026/03/how-can-governments-pay-open-source-maintainers/\">https://shkspr.mobi/blog/2026/03/how-can-governments-pay-open-source-maintainers/</a></p>\n<p...",
-      "published": "2026-03-14T12:41:29+00:00",
-      "domain": "shkspr.mobi",
+      "title": "OpenClaw AI Agent Flaws Could Enable Prompt Injection and Data Exfiltration",
+      "link": "https://thehackernews.com/2026/03/openclaw-ai-agent-flaws-could-enable.html",
+      "summary": "China's National Computer Network Emergency Response Technical Team (CNCERT) has issued a warning about the security stemming from the use of OpenClaw (formerly Clawdbot and Moltbot), an open-source a...",
+      "published": "2026-03-14T21:47:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
-        "chaos": 3.0,
+        "chaos": 13.0,
         "anarchy": 3.0,
-        "overall": 3.0
+        "overall": 8.0
       },
       "keywords": {
-        "chaos": [],
+        "chaos": [
+          "emergency"
+        ],
         "anarchy": []
       }
     },
     {
-      "title": "Show HN: I built Wool, a lightweight distributed Python runtime",
-      "link": "https://github.com/wool-labs/wool",
-      "summary": "<p>I spent a long time working in the payments industry, specifically on a rather niche reporting/aggregation platform with spiky workloads that were not easily parallelized. To pump as much data thro...",
-      "published": "2026-03-14T12:39:02+00:00",
+      "title": "Show HN: Iris \u2013 first MCP-native eval and observability tool for AI agents",
+      "link": "https://github.com/iris-eval/mcp-server",
+      "summary": "<p>I kept running into the same problem building AI agents: once they're running, I have no idea what they're actually doing. Traditional monitoring shows me HTTP 200. It can't tell me the output was ...",
+      "published": "2026-03-14T18:36:44+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -198,11 +201,11 @@
       }
     },
     {
-      "title": "A Swiss Paperwork Massacre: Why We Fled to Stripe",
-      "link": "https://octigen.com/blog/posts/2026-03-09-payment-nightmare/",
-      "summary": "<p>Article URL: <a href=\"https://octigen.com/blog/posts/2026-03-09-payment-nightmare/\">https://octigen.com/blog/posts/2026-03-09-payment-nightmare/</a></p>\n<p>Comments URL: <a href=\"https://news.ycomb...",
-      "published": "2026-03-14T12:37:54+00:00",
-      "domain": "octigen.com",
+      "title": "How to Navigate with Turbo Frames",
+      "link": "https://ducktypelabs.com/how-to-navigate-with-turbo-frames/",
+      "summary": "<p>Article URL: <a href=\"https://ducktypelabs.com/how-to-navigate-with-turbo-frames/\">https://ducktypelabs.com/how-to-navigate-with-turbo-frames/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombin...",
+      "published": "2026-03-14T18:34:49+00:00",
+      "domain": "ducktypelabs.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -214,10 +217,10 @@
       }
     },
     {
-      "title": "Ask HN: Will US send ground troops to Iran?",
-      "link": "https://news.ycombinator.com/item?id=47376006",
-      "summary": "<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47376006\">https://news.ycombinator.com/item?id=47376006</a></p>\n<p>Points: 1</p>\n<p># Comments: 2</p>...",
-      "published": "2026-03-14T12:30:32+00:00",
+      "title": "Ask HN: How do you enforce least-privilege when an API token has full access?",
+      "link": "https://news.ycombinator.com/item?id=47379595",
+      "summary": "<p>Curious how people handle least-privilege access when integrating third-party APIs that only offer a single coarse permission scope (or limited scopes that are still over-provisioned for a specific...",
+      "published": "2026-03-14T18:28:25+00:00",
       "domain": "news.ycombinator.com",
       "scores": {
         "chaos": 3.0,
@@ -230,146 +233,146 @@
       }
     },
     {
-      "title": "Python JSON SQL DB",
-      "link": "https://github.com/andre-git/pysql",
-      "summary": "<p>Article URL: <a href=\"https://github.com/andre-git/pysql\">https://github.com/andre-git/pysql</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47376002\">https://news.ycombinato...",
-      "published": "2026-03-14T12:30:09+00:00",
-      "domain": "github.com",
+      "title": "The Great Russian Disconnect",
+      "link": "https://www.politico.com/news/2026/03/14/russias-self-inflicted-communication-crisis-00827197",
+      "summary": "<p>Article URL: <a href=\"https://www.politico.com/news/2026/03/14/russias-self-inflicted-communication-crisis-00827197\">https://www.politico.com/news/2026/03/14/russias-self-inflicted-communication-cr...",
+      "published": "2026-03-14T18:28:24+00:00",
+      "domain": "politico.com",
       "scores": {
-        "chaos": 3.0,
+        "chaos": 18.6,
         "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "XML Is a Cheap DSL",
-      "link": "https://unplannedobsolescence.com/blog/xml-cheap-dsl/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47375764\">Comments</a>...",
-      "published": "2026-03-14T11:59:13+00:00",
-      "domain": "unplannedobsolescence.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Claude Code conducts A/B tests on core features",
-      "link": "https://backnotprop.com/blog/do-not-ab-test-my-workflow/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47375682\">Comments</a>...",
-      "published": "2026-03-14T11:46:29+00:00",
-      "domain": "backnotprop.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Microsoft: Windows 11 users can't access C: drive on some Samsung PCs",
-      "link": "https://www.reddit.com/r/technology/comments/1rth1ji/microsoft_windows_11_users_cant_access_c_drive_on/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1rth1ji/microsoft_windows_11_users_cant_access_c_drive_on/\"> <img alt=\"Microsoft: Windows 11 users can't access C: drive on some ...",
-      "published": "2026-03-14T11:29:54+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Megadev: A Development Kit for the Sega Mega Drive and Mega CD Hardware",
-      "link": "https://github.com/drojaazu/megadev",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47374745\">Comments</a>...",
-      "published": "2026-03-14T09:04:39+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "AI error jails innocent grandmother for months in North Dakota fraud case",
-      "link": "https://www.reddit.com/r/technology/comments/1rtehlh/ai_error_jails_innocent_grandmother_for_months_in/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1rtehlh/ai_error_jails_innocent_grandmother_for_months_in/\"> <img alt=\"AI error jails innocent grandmother for months in North Da...",
-      "published": "2026-03-14T08:54:30+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 25.1,
-        "anarchy": 3.0,
-        "overall": 14.1
+        "overall": 10.8
       },
       "keywords": {
         "chaos": [
-          "error",
-          "error"
+          "crisis"
         ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Windows To-Do-Lsit in the Taskbar",
+      "link": "https://github.com/rknastenka/Krisp",
+      "summary": "<p>Article URL: <a href=\"https://github.com/rknastenka/Krisp\">https://github.com/rknastenka/Krisp</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47379591\">https://news.ycombina...",
+      "published": "2026-03-14T18:28:10+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "GlassWorm Supply-Chain Attack Abuses 72 Open VSX Extensions to Target Developers",
+      "link": "https://thehackernews.com/2026/03/glassworm-supply-chain-attack-abuses-72.html",
+      "summary": "Cybersecurity researchers have flagged a new iteration of the GlassWorm campaign that they say represents a \"significant escalation\" in how it propagates through the Open VSX registry.\n\"Instead of req...",
+      "published": "2026-03-14T18:25:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Sunsetting Jazzband",
+      "link": "https://jazzband.co/news/2026/03/14/sunsetting-jazzband",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47379067\">Comments</a>...",
+      "published": "2026-03-14T17:40:23+00:00",
+      "domain": "jazzband.co",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "What happens when US economic data becomes unreliable",
+      "link": "https://mitsloan.mit.edu/ideas-made-to-matter/what-happens-when-us-economic-data-becomes-unreliable",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47378638\">Comments</a>...",
+      "published": "2026-03-14T16:58:40+00:00",
+      "domain": "mitsloan.mit.edu",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "An Ode to Bzip",
+      "link": "https://purplesyringa.moe/blog/an-ode-to-bzip/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47377998\">Comments</a>...",
+      "published": "2026-03-14T16:01:23+00:00",
+      "domain": "purplesyringa.moe",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
         "anarchy": []
       }
     }
   ],
   "overall_ranked": [
     {
-      "title": "AI error jails innocent grandmother for months in North Dakota fraud case",
-      "link": "https://www.reddit.com/r/technology/comments/1rtehlh/ai_error_jails_innocent_grandmother_for_months_in/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1rtehlh/ai_error_jails_innocent_grandmother_for_months_in/\"> <img alt=\"AI error jails innocent grandmother for months in North Da...",
-      "published": "2026-03-14T08:54:30+00:00",
-      "domain": "reddit.com",
+      "title": "The Great Russian Disconnect",
+      "link": "https://www.politico.com/news/2026/03/14/russias-self-inflicted-communication-crisis-00827197",
+      "summary": "<p>Article URL: <a href=\"https://www.politico.com/news/2026/03/14/russias-self-inflicted-communication-crisis-00827197\">https://www.politico.com/news/2026/03/14/russias-self-inflicted-communication-cr...",
+      "published": "2026-03-14T18:28:24+00:00",
+      "domain": "politico.com",
       "scores": {
-        "chaos": 25.1,
+        "chaos": 18.6,
         "anarchy": 3.0,
-        "overall": 14.1
+        "overall": 10.8
       },
       "keywords": {
         "chaos": [
-          "error",
-          "error"
+          "crisis"
         ],
         "anarchy": []
       }
     },
     {
-      "title": "How Can Governments Pay Open Source Maintainers?",
-      "link": "https://shkspr.mobi/blog/2026/03/how-can-governments-pay-open-source-maintainers/",
-      "summary": "<p>Article URL: <a href=\"https://shkspr.mobi/blog/2026/03/how-can-governments-pay-open-source-maintainers/\">https://shkspr.mobi/blog/2026/03/how-can-governments-pay-open-source-maintainers/</a></p>\n<p...",
-      "published": "2026-03-14T12:41:29+00:00",
-      "domain": "shkspr.mobi",
+      "title": "OpenClaw AI Agent Flaws Could Enable Prompt Injection and Data Exfiltration",
+      "link": "https://thehackernews.com/2026/03/openclaw-ai-agent-flaws-could-enable.html",
+      "summary": "China's National Computer Network Emergency Response Technical Team (CNCERT) has issued a warning about the security stemming from the use of OpenClaw (formerly Clawdbot and Moltbot), an open-source a...",
+      "published": "2026-03-14T21:47:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
-        "chaos": 3.0,
+        "chaos": 13.0,
         "anarchy": 3.0,
-        "overall": 3.0
+        "overall": 8.0
       },
       "keywords": {
-        "chaos": [],
+        "chaos": [
+          "emergency"
+        ],
         "anarchy": []
       }
     },
     {
-      "title": "Show HN: I built Wool, a lightweight distributed Python runtime",
-      "link": "https://github.com/wool-labs/wool",
-      "summary": "<p>I spent a long time working in the payments industry, specifically on a rather niche reporting/aggregation platform with spiky workloads that were not easily parallelized. To pump as much data thro...",
-      "published": "2026-03-14T12:39:02+00:00",
+      "title": "Show HN: Iris \u2013 first MCP-native eval and observability tool for AI agents",
+      "link": "https://github.com/iris-eval/mcp-server",
+      "summary": "<p>I kept running into the same problem building AI agents: once they're running, I have no idea what they're actually doing. Traditional monitoring shows me HTTP 200. It can't tell me the output was ...",
+      "published": "2026-03-14T18:36:44+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -382,11 +385,11 @@
       }
     },
     {
-      "title": "A Swiss Paperwork Massacre: Why We Fled to Stripe",
-      "link": "https://octigen.com/blog/posts/2026-03-09-payment-nightmare/",
-      "summary": "<p>Article URL: <a href=\"https://octigen.com/blog/posts/2026-03-09-payment-nightmare/\">https://octigen.com/blog/posts/2026-03-09-payment-nightmare/</a></p>\n<p>Comments URL: <a href=\"https://news.ycomb...",
-      "published": "2026-03-14T12:37:54+00:00",
-      "domain": "octigen.com",
+      "title": "How to Navigate with Turbo Frames",
+      "link": "https://ducktypelabs.com/how-to-navigate-with-turbo-frames/",
+      "summary": "<p>Article URL: <a href=\"https://ducktypelabs.com/how-to-navigate-with-turbo-frames/\">https://ducktypelabs.com/how-to-navigate-with-turbo-frames/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombin...",
+      "published": "2026-03-14T18:34:49+00:00",
+      "domain": "ducktypelabs.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -398,10 +401,10 @@
       }
     },
     {
-      "title": "Ask HN: Will US send ground troops to Iran?",
-      "link": "https://news.ycombinator.com/item?id=47376006",
-      "summary": "<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47376006\">https://news.ycombinator.com/item?id=47376006</a></p>\n<p>Points: 1</p>\n<p># Comments: 2</p>...",
-      "published": "2026-03-14T12:30:32+00:00",
+      "title": "Ask HN: How do you enforce least-privilege when an API token has full access?",
+      "link": "https://news.ycombinator.com/item?id=47379595",
+      "summary": "<p>Curious how people handle least-privilege access when integrating third-party APIs that only offer a single coarse permission scope (or limited scopes that are still over-provisioned for a specific...",
+      "published": "2026-03-14T18:28:25+00:00",
       "domain": "news.ycombinator.com",
       "scores": {
         "chaos": 3.0,
@@ -414,10 +417,10 @@
       }
     },
     {
-      "title": "Python JSON SQL DB",
-      "link": "https://github.com/andre-git/pysql",
-      "summary": "<p>Article URL: <a href=\"https://github.com/andre-git/pysql\">https://github.com/andre-git/pysql</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47376002\">https://news.ycombinato...",
-      "published": "2026-03-14T12:30:09+00:00",
+      "title": "Windows To-Do-Lsit in the Taskbar",
+      "link": "https://github.com/rknastenka/Krisp",
+      "summary": "<p>Article URL: <a href=\"https://github.com/rknastenka/Krisp\">https://github.com/rknastenka/Krisp</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47379591\">https://news.ycombina...",
+      "published": "2026-03-14T18:28:10+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -430,11 +433,11 @@
       }
     },
     {
-      "title": "XML Is a Cheap DSL",
-      "link": "https://unplannedobsolescence.com/blog/xml-cheap-dsl/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47375764\">Comments</a>...",
-      "published": "2026-03-14T11:59:13+00:00",
-      "domain": "unplannedobsolescence.com",
+      "title": "GlassWorm Supply-Chain Attack Abuses 72 Open VSX Extensions to Target Developers",
+      "link": "https://thehackernews.com/2026/03/glassworm-supply-chain-attack-abuses-72.html",
+      "summary": "Cybersecurity researchers have flagged a new iteration of the GlassWorm campaign that they say represents a \"significant escalation\" in how it propagates through the Open VSX registry.\n\"Instead of req...",
+      "published": "2026-03-14T18:25:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -446,11 +449,11 @@
       }
     },
     {
-      "title": "Claude Code conducts A/B tests on core features",
-      "link": "https://backnotprop.com/blog/do-not-ab-test-my-workflow/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47375682\">Comments</a>...",
-      "published": "2026-03-14T11:46:29+00:00",
-      "domain": "backnotprop.com",
+      "title": "Sunsetting Jazzband",
+      "link": "https://jazzband.co/news/2026/03/14/sunsetting-jazzband",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47379067\">Comments</a>...",
+      "published": "2026-03-14T17:40:23+00:00",
+      "domain": "jazzband.co",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -462,11 +465,11 @@
       }
     },
     {
-      "title": "Microsoft: Windows 11 users can't access C: drive on some Samsung PCs",
-      "link": "https://www.reddit.com/r/technology/comments/1rth1ji/microsoft_windows_11_users_cant_access_c_drive_on/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1rth1ji/microsoft_windows_11_users_cant_access_c_drive_on/\"> <img alt=\"Microsoft: Windows 11 users can't access C: drive on some ...",
-      "published": "2026-03-14T11:29:54+00:00",
-      "domain": "reddit.com",
+      "title": "What happens when US economic data becomes unreliable",
+      "link": "https://mitsloan.mit.edu/ideas-made-to-matter/what-happens-when-us-economic-data-becomes-unreliable",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47378638\">Comments</a>...",
+      "published": "2026-03-14T16:58:40+00:00",
+      "domain": "mitsloan.mit.edu",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -478,11 +481,11 @@
       }
     },
     {
-      "title": "Megadev: A Development Kit for the Sega Mega Drive and Mega CD Hardware",
-      "link": "https://github.com/drojaazu/megadev",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47374745\">Comments</a>...",
-      "published": "2026-03-14T09:04:39+00:00",
-      "domain": "github.com",
+      "title": "An Ode to Bzip",
+      "link": "https://purplesyringa.moe/blog/an-ode-to-bzip/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47377998\">Comments</a>...",
+      "published": "2026-03-14T16:01:23+00:00",
+      "domain": "purplesyringa.moe",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -496,26 +499,28 @@
   ],
   "all_articles": [
     {
-      "title": "How Can Governments Pay Open Source Maintainers?",
-      "link": "https://shkspr.mobi/blog/2026/03/how-can-governments-pay-open-source-maintainers/",
-      "summary": "<p>Article URL: <a href=\"https://shkspr.mobi/blog/2026/03/how-can-governments-pay-open-source-maintainers/\">https://shkspr.mobi/blog/2026/03/how-can-governments-pay-open-source-maintainers/</a></p>\n<p...",
-      "published": "2026-03-14T12:41:29+00:00",
-      "domain": "shkspr.mobi",
+      "title": "OpenClaw AI Agent Flaws Could Enable Prompt Injection and Data Exfiltration",
+      "link": "https://thehackernews.com/2026/03/openclaw-ai-agent-flaws-could-enable.html",
+      "summary": "China's National Computer Network Emergency Response Technical Team (CNCERT) has issued a warning about the security stemming from the use of OpenClaw (formerly Clawdbot and Moltbot), an open-source a...",
+      "published": "2026-03-14T21:47:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
-        "chaos": 3.0,
+        "chaos": 13.0,
         "anarchy": 3.0,
-        "overall": 3.0
+        "overall": 8.0
       },
       "keywords": {
-        "chaos": [],
+        "chaos": [
+          "emergency"
+        ],
         "anarchy": []
       }
     },
     {
-      "title": "Show HN: I built Wool, a lightweight distributed Python runtime",
-      "link": "https://github.com/wool-labs/wool",
-      "summary": "<p>I spent a long time working in the payments industry, specifically on a rather niche reporting/aggregation platform with spiky workloads that were not easily parallelized. To pump as much data thro...",
-      "published": "2026-03-14T12:39:02+00:00",
+      "title": "Show HN: Iris \u2013 first MCP-native eval and observability tool for AI agents",
+      "link": "https://github.com/iris-eval/mcp-server",
+      "summary": "<p>I kept running into the same problem building AI agents: once they're running, I have no idea what they're actually doing. Traditional monitoring shows me HTTP 200. It can't tell me the output was ...",
+      "published": "2026-03-14T18:36:44+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -528,11 +533,11 @@
       }
     },
     {
-      "title": "A Swiss Paperwork Massacre: Why We Fled to Stripe",
-      "link": "https://octigen.com/blog/posts/2026-03-09-payment-nightmare/",
-      "summary": "<p>Article URL: <a href=\"https://octigen.com/blog/posts/2026-03-09-payment-nightmare/\">https://octigen.com/blog/posts/2026-03-09-payment-nightmare/</a></p>\n<p>Comments URL: <a href=\"https://news.ycomb...",
-      "published": "2026-03-14T12:37:54+00:00",
-      "domain": "octigen.com",
+      "title": "How to Navigate with Turbo Frames",
+      "link": "https://ducktypelabs.com/how-to-navigate-with-turbo-frames/",
+      "summary": "<p>Article URL: <a href=\"https://ducktypelabs.com/how-to-navigate-with-turbo-frames/\">https://ducktypelabs.com/how-to-navigate-with-turbo-frames/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombin...",
+      "published": "2026-03-14T18:34:49+00:00",
+      "domain": "ducktypelabs.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -544,10 +549,10 @@
       }
     },
     {
-      "title": "Ask HN: Will US send ground troops to Iran?",
-      "link": "https://news.ycombinator.com/item?id=47376006",
-      "summary": "<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47376006\">https://news.ycombinator.com/item?id=47376006</a></p>\n<p>Points: 1</p>\n<p># Comments: 2</p>...",
-      "published": "2026-03-14T12:30:32+00:00",
+      "title": "Ask HN: How do you enforce least-privilege when an API token has full access?",
+      "link": "https://news.ycombinator.com/item?id=47379595",
+      "summary": "<p>Curious how people handle least-privilege access when integrating third-party APIs that only offer a single coarse permission scope (or limited scopes that are still over-provisioned for a specific...",
+      "published": "2026-03-14T18:28:25+00:00",
       "domain": "news.ycombinator.com",
       "scores": {
         "chaos": 3.0,
@@ -560,101 +565,100 @@
       }
     },
     {
-      "title": "Python JSON SQL DB",
-      "link": "https://github.com/andre-git/pysql",
-      "summary": "<p>Article URL: <a href=\"https://github.com/andre-git/pysql\">https://github.com/andre-git/pysql</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47376002\">https://news.ycombinato...",
-      "published": "2026-03-14T12:30:09+00:00",
-      "domain": "github.com",
+      "title": "The Great Russian Disconnect",
+      "link": "https://www.politico.com/news/2026/03/14/russias-self-inflicted-communication-crisis-00827197",
+      "summary": "<p>Article URL: <a href=\"https://www.politico.com/news/2026/03/14/russias-self-inflicted-communication-crisis-00827197\">https://www.politico.com/news/2026/03/14/russias-self-inflicted-communication-cr...",
+      "published": "2026-03-14T18:28:24+00:00",
+      "domain": "politico.com",
       "scores": {
-        "chaos": 3.0,
+        "chaos": 18.6,
         "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "XML Is a Cheap DSL",
-      "link": "https://unplannedobsolescence.com/blog/xml-cheap-dsl/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47375764\">Comments</a>...",
-      "published": "2026-03-14T11:59:13+00:00",
-      "domain": "unplannedobsolescence.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Claude Code conducts A/B tests on core features",
-      "link": "https://backnotprop.com/blog/do-not-ab-test-my-workflow/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47375682\">Comments</a>...",
-      "published": "2026-03-14T11:46:29+00:00",
-      "domain": "backnotprop.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Microsoft: Windows 11 users can't access C: drive on some Samsung PCs",
-      "link": "https://www.reddit.com/r/technology/comments/1rth1ji/microsoft_windows_11_users_cant_access_c_drive_on/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1rth1ji/microsoft_windows_11_users_cant_access_c_drive_on/\"> <img alt=\"Microsoft: Windows 11 users can't access C: drive on some ...",
-      "published": "2026-03-14T11:29:54+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Megadev: A Development Kit for the Sega Mega Drive and Mega CD Hardware",
-      "link": "https://github.com/drojaazu/megadev",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47374745\">Comments</a>...",
-      "published": "2026-03-14T09:04:39+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "AI error jails innocent grandmother for months in North Dakota fraud case",
-      "link": "https://www.reddit.com/r/technology/comments/1rtehlh/ai_error_jails_innocent_grandmother_for_months_in/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1rtehlh/ai_error_jails_innocent_grandmother_for_months_in/\"> <img alt=\"AI error jails innocent grandmother for months in North Da...",
-      "published": "2026-03-14T08:54:30+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 25.1,
-        "anarchy": 3.0,
-        "overall": 14.1
+        "overall": 10.8
       },
       "keywords": {
         "chaos": [
-          "error",
-          "error"
+          "crisis"
         ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Windows To-Do-Lsit in the Taskbar",
+      "link": "https://github.com/rknastenka/Krisp",
+      "summary": "<p>Article URL: <a href=\"https://github.com/rknastenka/Krisp\">https://github.com/rknastenka/Krisp</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47379591\">https://news.ycombina...",
+      "published": "2026-03-14T18:28:10+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "GlassWorm Supply-Chain Attack Abuses 72 Open VSX Extensions to Target Developers",
+      "link": "https://thehackernews.com/2026/03/glassworm-supply-chain-attack-abuses-72.html",
+      "summary": "Cybersecurity researchers have flagged a new iteration of the GlassWorm campaign that they say represents a \"significant escalation\" in how it propagates through the Open VSX registry.\n\"Instead of req...",
+      "published": "2026-03-14T18:25:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Sunsetting Jazzband",
+      "link": "https://jazzband.co/news/2026/03/14/sunsetting-jazzband",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47379067\">Comments</a>...",
+      "published": "2026-03-14T17:40:23+00:00",
+      "domain": "jazzband.co",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "What happens when US economic data becomes unreliable",
+      "link": "https://mitsloan.mit.edu/ideas-made-to-matter/what-happens-when-us-economic-data-becomes-unreliable",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47378638\">Comments</a>...",
+      "published": "2026-03-14T16:58:40+00:00",
+      "domain": "mitsloan.mit.edu",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "An Ode to Bzip",
+      "link": "https://purplesyringa.moe/blog/an-ode-to-bzip/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47377998\">Comments</a>...",
+      "published": "2026-03-14T16:01:23+00:00",
+      "domain": "purplesyringa.moe",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
         "anarchy": []
       }
     }

@@ -16,17 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### AI error jails innocent grandmother for months in North Dakota fraud case
+### The Great Russian Disconnect
 - **Published**: March 14, 2026
-- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1rtehlh/ai_error_jails_innocent_grandmother_for_months_in/"> <img alt="AI error jails innoc...
-- **Keywords**: error, error
-- [Read more](https://www.reddit.com/r/technology/comments/1rtehlh/ai_error_jails_innocent_grandmother_for_months_in/)
+- **Summary**: https://www.politico.com/news/2026/03/14/russias-self-inflicted-communication-cr......
+- **Keywords**: crisis
+- [Read more](https://www.politico.com/news/2026/03/14/russias-self-inflicted-communication-crisis-00827197)
 
-### How Can Governments Pay Open Source Maintainers?
+### OpenClaw AI Agent Flaws Could Enable Prompt Injection and Data Exfiltration
 - **Published**: March 14, 2026
-- **Summary**: https://shkspr.mobi/blog/2026/03/how-can-governments-pay-open-source-maintainers/</a></p>
-<p......
-- [Read more](https://shkspr.mobi/blog/2026/03/how-can-governments-pay-open-source-maintainers/)
+- **Summary**: China's National Computer Network Emergency Response Technical Team (CNCERT) has issued a warning about the security stemming from the use of OpenClaw...
+- **Keywords**: emergency
+- [Read more](https://thehackernews.com/2026/03/openclaw-ai-agent-flaws-could-enable.html)
 
 ---
 
