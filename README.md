@@ -16,19 +16,18 @@
 
 ## 🚨 Tech Stories
 
-### League and other Riot Games require age verification in Brazil from March 17
-- **Published**: March 13, 2026
-- **Summary**: https://www.riotgames.com/pt-br/not%C3%ADcias/eca-digital-brasil</a></p>
-<p>Comments URL: <a href="https://ne......
-- **Keywords**: riot
-- [Read more](https://www.riotgames.com/pt-br/not%C3%ADcias/eca-digital-brasil)
-
 ### Meta to Shut Down Instagram End-to-End Encrypted Chat Support Starting May 2026
 - **Published**: March 13, 2026
 - **Summary**: Meta has announced plans to discontinue support for end-to-end encryption (E2EE) for chats on Instagram after May 8, 2026.
 "If you have chats that are...
 - **Keywords**: down
 - [Read more](https://thehackernews.com/2026/03/meta-to-shut-down-instagram-end-to-end.html)
+
+### Show HN: DAAO – Deploy AI agents to your servers via Zero-Trust tunnels
+- **Published**: March 14, 2026
+- **Summary**: <p><p><pre><code>  A month ago I wanted one thing: to start a coding session on my desktop and pick it up from anywhere — my phone, my
+  couch, anothe...
+- [Read more](https://github.com/daao-platform/daao)
 
 ---
 
