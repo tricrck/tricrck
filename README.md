@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### What Your AI Tool Selection Says About You (Programmer Edition)
+### GotHub All the Things
 - **Published**: March 15, 2026
-- **Summary**: https://effective-programmer.c......
-- [Read more](https://effective-programmer.com/what-your-ai-tool-selection-says-about-you-programmer-edition-54084f87faef?sk=0695945c559eb6d8543af3ec493c78f7)
+- **Summary**: https://x61.sh/log/2026/03/14032026191148-gothub.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/ite......
+- [Read more](https://x61.sh/log/2026/03/14032026191148-gothub.html)
 
-### Vibe Create Hardware
+### Thundering Herd Problem Visual Guide with Analogies
 - **Published**: March 15, 2026
-- **Summary**: https://www.blueprint.am/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47384882">https://news.ycombinator.com/item?id=4738.....
-- [Read more](https://www.blueprint.am/)
+- **Summary**: https://dvcoolarun.com/2026/03/15/Thundering-Herd-Problem-visual-guide-with-analogi......
+- [Read more](https://dvcoolarun.com/2026/03/15/Thundering-Herd-Problem-visual-guide-with-analogies.html)
 
 ---
 
