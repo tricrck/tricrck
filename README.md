@@ -16,16 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### GotHub All the Things
+### OAuth-inspired delegated AI access stop sharing raw API keys
 - **Published**: March 15, 2026
-- **Summary**: https://x61.sh/log/2026/03/14032026191148-gothub.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/ite......
-- [Read more](https://x61.sh/log/2026/03/14032026191148-gothub.html)
+- **Summary**: https://devrelopers.github.io/AIPassport/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47390366">https://n......
+- [Read more](https://devrelopers.github.io/AIPassport/)
 
-### Thundering Herd Problem Visual Guide with Analogies
+### The bureaucracy blocking the chance at a cure
 - **Published**: March 15, 2026
-- **Summary**: https://dvcoolarun.com/2026/03/15/Thundering-Herd-Problem-visual-guide-with-analogi......
-- [Read more](https://dvcoolarun.com/2026/03/15/Thundering-Herd-Problem-visual-guide-with-analogies.html)
+- **Summary**: https://www.writingruxandrabio.com/p/the-bureaucracy-blocking-the-chance</a></p>
+<p>Comments URL: <a ......
+- [Read more](https://www.writingruxandrabio.com/p/the-bureaucracy-blocking-the-chance)
 
 ---
 
