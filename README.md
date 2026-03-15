@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### A Superpower Goes Offline
+### What Your AI Tool Selection Says About You (Programmer Edition)
 - **Published**: March 15, 2026
-- **Summary**: https://www.politico.com/news/2026/03/14/russias-self-inflicted-communication-cr......
-- **Keywords**: crisis
-- [Read more](https://www.politico.com/news/2026/03/14/russias-self-inflicted-communication-crisis-00827197)
+- **Summary**: https://effective-programmer.c......
+- [Read more](https://effective-programmer.com/what-your-ai-tool-selection-says-about-you-programmer-edition-54084f87faef?sk=0695945c559eb6d8543af3ec493c78f7)
 
-### Memegen Pro
+### Vibe Create Hardware
 - **Published**: March 15, 2026
-- **Summary**: https://memegen.pro/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47383696">https://news.ycombinator.com/item?id=47383696</a...
-- [Read more](https://memegen.pro/)
+- **Summary**: https://www.blueprint.am/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47384882">https://news.ycombinator.com/item?id=4738.....
+- [Read more](https://www.blueprint.am/)
 
 ---
 
