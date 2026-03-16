@@ -16,16 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Why Security Validation Is Becoming Agentic
+### ⚡ Weekly Recap: Chrome 0-Days, Router Botnets, AWS Breach, Rogue AI Agents & More
 - **Published**: March 16, 2026
-- **Summary**: If you run security at any reasonably complex organization, your validation stack probably looks something like this: a BAS tool in one corner. A pent...
-- [Read more](https://thehackernews.com/2026/03/why-security-validation-is-becoming.html)
+- **Summary**: Some weeks in security feel normal. Then you read a few tabs and get that immediate “ah, great, we’re doing this now” feeling.
+This week has that ener...
+- [Read more](https://thehackernews.com/2026/03/weekly-recap-chrome-0-days-router.html)
 
-### ClickFix Campaigns Spread MacSync macOS Infostealer via Fake AI Tool Installers
+### Show HN: Mnemosphere – AI chat for the intellectually ambitious
 - **Published**: March 16, 2026
-- **Summary**: Three different ClickFix campaigns have been found to act as a delivery vector for the deployment of a macOS information stealer called MacSync.
-"Unli...
-- [Read more](https://thehackernews.com/2026/03/clickfix-campaigns-spread-macsync-macos.html)
+- **Summary**: https://www.mnemosphere.ai</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47403216">https://news.ycombinator.com/item?id=47......
+- [Read more](https://www.mnemosphere.ai)
 
 ---
 
