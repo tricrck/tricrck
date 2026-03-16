@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Android 17 Blocks Non-Accessibility Apps from Accessibility API to Prevent Malware Abuse
+### Why Security Validation Is Becoming Agentic
 - **Published**: March 16, 2026
-- **Summary**: Google is testing a new security feature as part of Android Advanced Protection Mode (AAPM) that prevents certain kinds of apps from using the accessi...
-- [Read more](https://thehackernews.com/2026/03/android-17-blocks-non-accessibility.html)
+- **Summary**: If you run security at any reasonably complex organization, your validation stack probably looks something like this: a BAS tool in one corner. A pent...
+- [Read more](https://thehackernews.com/2026/03/why-security-validation-is-becoming.html)
 
-### Show HN: Zmorse- Morse Code Learning, Guessing, Converting and Simulating
+### ClickFix Campaigns Spread MacSync macOS Infostealer via Fake AI Tool Installers
 - **Published**: March 16, 2026
-- **Summary**: Github Repo: <a href="https://github.com/zsphinxyz/zmorse" rel="nofollow">https://github.com/zsphinxyz/zmorse</a></p>
-<hr />
-<p>Comments URL: <a href=...
-- [Read more](https://zmorse.vercel.app)
+- **Summary**: Three different ClickFix campaigns have been found to act as a delivery vector for the deployment of a macOS information stealer called MacSync.
+"Unli...
+- [Read more](https://thehackernews.com/2026/03/clickfix-campaigns-spread-macsync-macos.html)
 
 ---
 
