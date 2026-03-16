@@ -16,17 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Show HN: Search for Apple Messages
+### Android 17 Blocks Non-Accessibility Apps from Accessibility API to Prevent Malware Abuse
 - **Published**: March 16, 2026
-- **Summary**: 
-<hr />
-<p>Comments URL: <a href="https://news.yc......
-- [Read more](https://github.com/dmd/imessage-search)
+- **Summary**: Google is testing a new security feature as part of Android Advanced Protection Mode (AAPM) that prevents certain kinds of apps from using the accessi...
+- [Read more](https://thehackernews.com/2026/03/android-17-blocks-non-accessibility.html)
 
-### Show HN: Regrada – The CI gate for LLM behavior
+### Show HN: Zmorse- Morse Code Learning, Guessing, Converting and Simulating
 - **Published**: March 16, 2026
-- **Summary**: <p>I built Regrada to help me with prompt changes.<p>Working on LLM-based applications led me to discover 2 big pain points in my opinion:<p>1. it's d...
-- [Read more](https://www.regrada.com/)
+- **Summary**: Github Repo: <a href="https://github.com/zsphinxyz/zmorse" rel="nofollow">https://github.com/zsphinxyz/zmorse</a></p>
+<hr />
+<p>Comments URL: <a href=...
+- [Read more](https://zmorse.vercel.app)
 
 ---
 
