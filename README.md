@@ -16,17 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### OAuth-inspired delegated AI access stop sharing raw API keys
-- **Published**: March 15, 2026
-- **Summary**: https://devrelopers.github.io/AIPassport/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47390366">https://n......
-- [Read more](https://devrelopers.github.io/AIPassport/)
+### Show HN: Search for Apple Messages
+- **Published**: March 16, 2026
+- **Summary**: 
+<hr />
+<p>Comments URL: <a href="https://news.yc......
+- [Read more](https://github.com/dmd/imessage-search)
 
-### The bureaucracy blocking the chance at a cure
-- **Published**: March 15, 2026
-- **Summary**: https://www.writingruxandrabio.com/p/the-bureaucracy-blocking-the-chance</a></p>
-<p>Comments URL: <a ......
-- [Read more](https://www.writingruxandrabio.com/p/the-bureaucracy-blocking-the-chance)
+### Show HN: Regrada – The CI gate for LLM behavior
+- **Published**: March 16, 2026
+- **Summary**: <p>I built Regrada to help me with prompt changes.<p>Working on LLM-based applications led me to discover 2 big pain points in my opinion:<p>1. it's d...
+- [Read more](https://www.regrada.com/)
 
 ---
 
