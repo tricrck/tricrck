@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### CISA Flags Actively Exploited Wing FTP Vulnerability Leaking Server Paths
+### AI is Everywhere, But CISOs are Still Securing It with Yesterday's Skills and Tools, Study Finds
 - **Published**: March 17, 2026
-- **Summary**: The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a medium-severity security flaw impacting Wing FTP to its Known Explo...
-- [Read more](https://thehackernews.com/2026/03/cisa-flags-actively-exploited-wing-ftp.html)
+- **Summary**: A majority of security leaders are struggling to defend AI systems with tools and skills that are not fit for the challenge, according to the AI and A...
+- [Read more](https://thehackernews.com/2026/03/ai-is-everywhere-but-cisos-are-still.html)
 
-### Show HN: Wikipedia for Agents
+### Konni Deploys EndRAT Through Phishing, Uses KakaoTalk to Propagate Malware
 - **Published**: March 17, 2026
-- **Summary**: https://smartipedia.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47409475">https://news.ycombinator.com/item?id=474094....
-- [Read more](https://smartipedia.com/)
+- **Summary**: North Korean threat actors have been observed sending phishing to compromise targets and obtain access to a victim's KakaoTalk desktop application to ...
+- [Read more](https://thehackernews.com/2026/03/konni-deploys-endrat-through-spear.html)
 
 ---
 
