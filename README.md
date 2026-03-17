@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### AI is Everywhere, But CISOs are Still Securing It with Yesterday's Skills and Tools, Study Finds
+### AI Flaws in Amazon Bedrock, LangSmith, and SGLang Enable Data Exfiltration and RCE
 - **Published**: March 17, 2026
-- **Summary**: A majority of security leaders are struggling to defend AI systems with tools and skills that are not fit for the challenge, according to the AI and A...
-- [Read more](https://thehackernews.com/2026/03/ai-is-everywhere-but-cisos-are-still.html)
+- **Summary**: Cybersecurity researchers have disclosed details of a new method for exfiltrating sensitive data from artificial intelligence (AI) code execution envi...
+- [Read more](https://thehackernews.com/2026/03/ai-flaws-in-amazon-bedrock-langsmith.html)
 
-### Konni Deploys EndRAT Through Phishing, Uses KakaoTalk to Propagate Malware
+### LeakNet Ransomware Uses ClickFix via Hacked Sites, Deploys Deno In-Memory Loader
 - **Published**: March 17, 2026
-- **Summary**: North Korean threat actors have been observed sending phishing to compromise targets and obtain access to a victim's KakaoTalk desktop application to ...
-- [Read more](https://thehackernews.com/2026/03/konni-deploys-endrat-through-spear.html)
+- **Summary**: The ransomware operation known as LeakNet has adopted the ClickFix social engineering tactic delivered through compromised websites as an initial acce...
+- [Read more](https://thehackernews.com/2026/03/leaknet-ransomware-uses-clickfix-via.html)
 
 ---
 
