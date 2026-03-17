@@ -16,17 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### ⚡ Weekly Recap: Chrome 0-Days, Router Botnets, AWS Breach, Rogue AI Agents & More
-- **Published**: March 16, 2026
-- **Summary**: Some weeks in security feel normal. Then you read a few tabs and get that immediate “ah, great, we’re doing this now” feeling.
-This week has that ener...
-- [Read more](https://thehackernews.com/2026/03/weekly-recap-chrome-0-days-router.html)
+### NYC's new apartment buildings that are falling apart
+- **Published**: March 17, 2026
+- **Summary**: https://gothamist.com/news/crappy-luxury-inside-nycs-brand-new-apart......
+- [Read more](https://gothamist.com/news/crappy-luxury-inside-nycs-brand-new-apartment-buildings-that-are-falling-apart)
 
-### Show HN: Mnemosphere – AI chat for the intellectually ambitious
-- **Published**: March 16, 2026
-- **Summary**: https://www.mnemosphere.ai</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47403216">https://news.ycombinator.com/item?id=47......
-- [Read more](https://www.mnemosphere.ai)
+### 'This Is Not Our War': Europe and U.K. Push Back Against Trump
+- **Published**: March 17, 2026
+- **Summary**: https://www.nytimes.com/2026/03/16/world/europe/europe-iran-war-trump-hormuz-warshi......
+- [Read more](https://www.nytimes.com/2026/03/16/world/europe/europe-iran-war-trump-hormuz-warships.html)
 
 ---
 
