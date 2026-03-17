@@ -16,15 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### NYC's new apartment buildings that are falling apart
+### CISA Flags Actively Exploited Wing FTP Vulnerability Leaking Server Paths
 - **Published**: March 17, 2026
-- **Summary**: https://gothamist.com/news/crappy-luxury-inside-nycs-brand-new-apart......
-- [Read more](https://gothamist.com/news/crappy-luxury-inside-nycs-brand-new-apartment-buildings-that-are-falling-apart)
+- **Summary**: The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a medium-severity security flaw impacting Wing FTP to its Known Explo...
+- [Read more](https://thehackernews.com/2026/03/cisa-flags-actively-exploited-wing-ftp.html)
 
-### 'This Is Not Our War': Europe and U.K. Push Back Against Trump
+### Show HN: Wikipedia for Agents
 - **Published**: March 17, 2026
-- **Summary**: https://www.nytimes.com/2026/03/16/world/europe/europe-iran-war-trump-hormuz-warshi......
-- [Read more](https://www.nytimes.com/2026/03/16/world/europe/europe-iran-war-trump-hormuz-warships.html)
+- **Summary**: https://smartipedia.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47409475">https://news.ycombinator.com/item?id=474094....
+- [Read more](https://smartipedia.com/)
 
 ---
 
