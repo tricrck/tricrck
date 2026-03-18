@@ -1,10 +1,28 @@
 {
   "chaos_ranked": [
     {
-      "title": "Critical Unpatched Telnetd Flaw (CVE-2026-32746) Enables Unauthenticated Root RCE via Port 23",
+      "title": "Ubuntu CVE-2026-3888 Bug Lets Attackers Gain Root via systemd Cleanup Timing Exploit",
+      "link": "https://thehackernews.com/2026/03/ubuntu-cve-2026-3888-bug-lets-attackers.html",
+      "summary": "A high-severity security flaw affecting default installations of Ubuntu Desktop versions 24.04 and later could be exploited to escalate privileges to the root level.\nTracked as CVE-2026-3888 (CVSS sco...",
+      "published": "2026-03-18T13:38:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 10.4,
+        "anarchy": 3.0,
+        "overall": 6.7
+      },
+      "keywords": {
+        "chaos": [
+          "bug"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Critical Unpatched Telnetd Flaw (CVE-2026-32746) Enables Unauthenticated Root RCE",
       "link": "https://thehackernews.com/2026/03/critical-telnetd-flaw-cve-2026-32746.html",
       "summary": "Cybersecurity researchers have disclosed a critical security flaw impacting the GNU InetUtils telnet daemon (telnetd) that could be exploited by an unauthenticated remote attacker to execute arbitrary...",
-      "published": "2026-03-18T10:36:00+05:30",
+      "published": "2026-03-18T18:00:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -17,139 +35,123 @@
       }
     },
     {
-      "title": "AI changed software cost structure not Value structure",
-      "link": "https://testdouble.com/insights/quality-you-cant-generate-ai-is-only-as-good-as-your-constraints",
-      "summary": "<p>Article URL: <a href=\"https://testdouble.com/insights/quality-you-cant-generate-ai-is-only-as-good-as-your-constraints\">https://testdouble.com/insights/quality-you-cant-generate-ai-is-only-as-good-...",
-      "published": "2026-03-18T06:50:18+00:00",
-      "domain": "testdouble.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Arizona Charges Kalshi with Illegal Gambling Operation",
-      "link": "https://www.bloomberg.com/news/articles/2026-03-17/arizona-charges-kalshi-with-operating-illegal-gambling-business",
-      "summary": "<p>Article URL: <a href=\"https://www.bloomberg.com/news/articles/2026-03-17/arizona-charges-kalshi-with-operating-illegal-gambling-business\">https://www.bloomberg.com/news/articles/2026-03-17/arizona-...",
-      "published": "2026-03-18T06:42:47+00:00",
-      "domain": "bloomberg.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: Open-source YouTube summary, transcript chat, and timeline sidepanel",
-      "link": "https://github.com/EchoTide/QuickSummarize",
-      "summary": "<p>Hi HN \u2014 I built QuickSummarize, an open-source Chrome extension for working with YouTube videos through captions.\nThe core idea is to make video Q&amp;A transcript-first instead of treating a one-t...",
-      "published": "2026-03-18T06:39:34+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "British physics faces 'catastrophic' cuts",
-      "link": "https://www.bbc.com/news/articles/czr0zmzzp84o",
-      "summary": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/czr0zmzzp84o\">https://www.bbc.com/news/articles/czr0zmzzp84o</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47422285\"...",
-      "published": "2026-03-18T06:39:25+00:00",
-      "domain": "bbc.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: Vue-OTP-pro \u2013 Minimal OTP input for Vue 3",
-      "link": "https://vue-otp-pro.netlify.app",
-      "summary": "<p>Built a lightweight OTP input component for Vue 3.<p>Composition API<p>Auto focus + backspace handling<p>Fully customizable<p>Small bundle<p>Simple to use and designed to handle common edge cases c...",
-      "published": "2026-03-18T06:35:56+00:00",
-      "domain": "vue-otp-pro.netlify.app",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "SSH has no Host header",
-      "link": "https://blog.exe.dev/ssh-host-header",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47421828\">Comments</a>...",
-      "published": "2026-03-18T05:18:02+00:00",
-      "domain": "blog.exe.dev",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Have a Fucking Website",
-      "link": "https://www.otherstrangeness.com/2026/03/14/have-a-fucking-website/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47421442\">Comments</a>...",
-      "published": "2026-03-18T03:53:42+00:00",
-      "domain": "otherstrangeness.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "CEO of Krafton Asks ChatGPT How to Void $250 Million Contract, Ignores His Lawyers, Loses Terribly in Court",
-      "link": "https://www.reddit.com/r/technology/comments/1rwr5nq/ceo_of_krafton_asks_chatgpt_how_to_void_250/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1rwr5nq/ceo_of_krafton_asks_chatgpt_how_to_void_250/\"> <img alt=\"CEO of Krafton Asks ChatGPT How to Void $250 Million Contract, I...",
-      "published": "2026-03-18T02:12:04+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "AI Flaws in Amazon Bedrock, LangSmith, and SGLang Enable Data Exfiltration and RCE",
-      "link": "https://thehackernews.com/2026/03/ai-flaws-in-amazon-bedrock-langsmith.html",
-      "summary": "Cybersecurity researchers have disclosed details of a new method for exfiltrating sensitive data from artificial intelligence (AI) code execution environments using domain name system (DNS) queries.\nI...",
-      "published": "2026-03-17T22:09:00+05:30",
+      "title": "Claude Code Security and Magecart: Getting the Threat Model Right",
+      "link": "https://thehackernews.com/2026/03/claude-code-security-and-magecart.html",
+      "summary": "When a Magecart payload hides inside the EXIF data of a dynamically loaded third-party favicon, no repository scanner will catch it \u2013 because the malicious code never actually touches your repo. As te...",
+      "published": "2026-03-18T17:28:00+05:30",
       "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "9 Critical IP KVM Flaws Enable Unauthenticated Root Access Across Four Vendors",
+      "link": "https://thehackernews.com/2026/03/9-critical-ip-kvm-flaws-enable.html",
+      "summary": "Cybersecurity researchers have warned about the risks posed by low-cost IP KVM (Keyboard, Video, Mouse over Internet Protocol) devices, which can grant attackers extensive control over compromised hos...",
+      "published": "2026-03-18T17:12:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Product Walkthrough: How Mesh CSMA Reveals and Breaks Attack Paths to Crown Jewels",
+      "link": "https://thehackernews.com/2026/03/product-walkthrough-how-mesh-csma.html",
+      "summary": "Security teams today are not short on tools or data. They are overwhelmed by both.&nbsp;\nYet within the terabytes of alerts, exposures, and misconfigurations \u2013 security teams still struggle to underst...",
+      "published": "2026-03-18T16:00:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Privacy nightmare, search box on Android requires sharing screen",
+      "link": "https://old.reddit.com/r/Minneapolis/comments/1qfol1e/they_are_planting_people/",
+      "summary": "<p>Article URL: <a href=\"https://old.reddit.com/r/Minneapolis/comments/1qfol1e/they_are_planting_people/\">https://old.reddit.com/r/Minneapolis/comments/1qfol1e/they_are_planting_people/</a></p>\n<p>Com...",
+      "published": "2026-03-18T13:08:29+00:00",
+      "domain": "old.reddit.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Open SWE: An Open-Source Framework for Internal Coding Agents",
+      "link": "https://blog.langchain.com/open-swe-an-open-source-framework-for-internal-coding-agents/",
+      "summary": "<p>Article URL: <a href=\"https://blog.langchain.com/open-swe-an-open-source-framework-for-internal-coding-agents/\">https://blog.langchain.com/open-swe-an-open-source-framework-for-internal-coding-agen...",
+      "published": "2026-03-18T13:07:28+00:00",
+      "domain": "blog.langchain.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Brain Computer Interface Enables Rapid Communication for People with Paralysis",
+      "link": "https://www.massgeneralbrigham.org/en/about/newsroom/press-releases/brain-computer-interface-enables-rapid-communication-for-paralyzed-people",
+      "summary": "<p>Article URL: <a href=\"https://www.massgeneralbrigham.org/en/about/newsroom/press-releases/brain-computer-interface-enables-rapid-communication-for-paralyzed-people\">https://www.massgeneralbrigham.o...",
+      "published": "2026-03-18T13:07:16+00:00",
+      "domain": "massgeneralbrigham.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Can Companies Buy Their Way Into the S&P 500?",
+      "link": "https://www.project-syndicate.org/commentary/new-study-asks-whether-stock-index-membership-is-for-sale-by-shang-jin-wei-2026-03",
+      "summary": "<p>Article URL: <a href=\"https://www.project-syndicate.org/commentary/new-study-asks-whether-stock-index-membership-is-for-sale-by-shang-jin-wei-2026-03\">https://www.project-syndicate.org/commentary/n...",
+      "published": "2026-03-18T13:07:07+00:00",
+      "domain": "project-syndicate.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Ask HN: What's the costliest mistake you've made with LLM agents in production?",
+      "link": "https://news.ycombinator.com/item?id=47425323",
+      "summary": "<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47425323\">https://news.ycombinator.com/item?id=47425323</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>...",
+      "published": "2026-03-18T13:06:20+00:00",
+      "domain": "news.ycombinator.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -163,10 +165,10 @@
   ],
   "anarchy_ranked": [
     {
-      "title": "Critical Unpatched Telnetd Flaw (CVE-2026-32746) Enables Unauthenticated Root RCE via Port 23",
+      "title": "Critical Unpatched Telnetd Flaw (CVE-2026-32746) Enables Unauthenticated Root RCE",
       "link": "https://thehackernews.com/2026/03/critical-telnetd-flaw-cve-2026-32746.html",
       "summary": "Cybersecurity researchers have disclosed a critical security flaw impacting the GNU InetUtils telnet daemon (telnetd) that could be exploited by an unauthenticated remote attacker to execute arbitrary...",
-      "published": "2026-03-18T10:36:00+05:30",
+      "published": "2026-03-18T18:00:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -179,139 +181,141 @@
       }
     },
     {
-      "title": "AI changed software cost structure not Value structure",
-      "link": "https://testdouble.com/insights/quality-you-cant-generate-ai-is-only-as-good-as-your-constraints",
-      "summary": "<p>Article URL: <a href=\"https://testdouble.com/insights/quality-you-cant-generate-ai-is-only-as-good-as-your-constraints\">https://testdouble.com/insights/quality-you-cant-generate-ai-is-only-as-good-...",
-      "published": "2026-03-18T06:50:18+00:00",
-      "domain": "testdouble.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Arizona Charges Kalshi with Illegal Gambling Operation",
-      "link": "https://www.bloomberg.com/news/articles/2026-03-17/arizona-charges-kalshi-with-operating-illegal-gambling-business",
-      "summary": "<p>Article URL: <a href=\"https://www.bloomberg.com/news/articles/2026-03-17/arizona-charges-kalshi-with-operating-illegal-gambling-business\">https://www.bloomberg.com/news/articles/2026-03-17/arizona-...",
-      "published": "2026-03-18T06:42:47+00:00",
-      "domain": "bloomberg.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: Open-source YouTube summary, transcript chat, and timeline sidepanel",
-      "link": "https://github.com/EchoTide/QuickSummarize",
-      "summary": "<p>Hi HN \u2014 I built QuickSummarize, an open-source Chrome extension for working with YouTube videos through captions.\nThe core idea is to make video Q&amp;A transcript-first instead of treating a one-t...",
-      "published": "2026-03-18T06:39:34+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "British physics faces 'catastrophic' cuts",
-      "link": "https://www.bbc.com/news/articles/czr0zmzzp84o",
-      "summary": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/czr0zmzzp84o\">https://www.bbc.com/news/articles/czr0zmzzp84o</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47422285\"...",
-      "published": "2026-03-18T06:39:25+00:00",
-      "domain": "bbc.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: Vue-OTP-pro \u2013 Minimal OTP input for Vue 3",
-      "link": "https://vue-otp-pro.netlify.app",
-      "summary": "<p>Built a lightweight OTP input component for Vue 3.<p>Composition API<p>Auto focus + backspace handling<p>Fully customizable<p>Small bundle<p>Simple to use and designed to handle common edge cases c...",
-      "published": "2026-03-18T06:35:56+00:00",
-      "domain": "vue-otp-pro.netlify.app",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "SSH has no Host header",
-      "link": "https://blog.exe.dev/ssh-host-header",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47421828\">Comments</a>...",
-      "published": "2026-03-18T05:18:02+00:00",
-      "domain": "blog.exe.dev",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Have a Fucking Website",
-      "link": "https://www.otherstrangeness.com/2026/03/14/have-a-fucking-website/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47421442\">Comments</a>...",
-      "published": "2026-03-18T03:53:42+00:00",
-      "domain": "otherstrangeness.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "CEO of Krafton Asks ChatGPT How to Void $250 Million Contract, Ignores His Lawyers, Loses Terribly in Court",
-      "link": "https://www.reddit.com/r/technology/comments/1rwr5nq/ceo_of_krafton_asks_chatgpt_how_to_void_250/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1rwr5nq/ceo_of_krafton_asks_chatgpt_how_to_void_250/\"> <img alt=\"CEO of Krafton Asks ChatGPT How to Void $250 Million Contract, I...",
-      "published": "2026-03-18T02:12:04+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "AI Flaws in Amazon Bedrock, LangSmith, and SGLang Enable Data Exfiltration and RCE",
-      "link": "https://thehackernews.com/2026/03/ai-flaws-in-amazon-bedrock-langsmith.html",
-      "summary": "Cybersecurity researchers have disclosed details of a new method for exfiltrating sensitive data from artificial intelligence (AI) code execution environments using domain name system (DNS) queries.\nI...",
-      "published": "2026-03-17T22:09:00+05:30",
+      "title": "Claude Code Security and Magecart: Getting the Threat Model Right",
+      "link": "https://thehackernews.com/2026/03/claude-code-security-and-magecart.html",
+      "summary": "When a Magecart payload hides inside the EXIF data of a dynamically loaded third-party favicon, no repository scanner will catch it \u2013 because the malicious code never actually touches your repo. As te...",
+      "published": "2026-03-18T17:28:00+05:30",
       "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "9 Critical IP KVM Flaws Enable Unauthenticated Root Access Across Four Vendors",
+      "link": "https://thehackernews.com/2026/03/9-critical-ip-kvm-flaws-enable.html",
+      "summary": "Cybersecurity researchers have warned about the risks posed by low-cost IP KVM (Keyboard, Video, Mouse over Internet Protocol) devices, which can grant attackers extensive control over compromised hos...",
+      "published": "2026-03-18T17:12:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Product Walkthrough: How Mesh CSMA Reveals and Breaks Attack Paths to Crown Jewels",
+      "link": "https://thehackernews.com/2026/03/product-walkthrough-how-mesh-csma.html",
+      "summary": "Security teams today are not short on tools or data. They are overwhelmed by both.&nbsp;\nYet within the terabytes of alerts, exposures, and misconfigurations \u2013 security teams still struggle to underst...",
+      "published": "2026-03-18T16:00:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Ubuntu CVE-2026-3888 Bug Lets Attackers Gain Root via systemd Cleanup Timing Exploit",
+      "link": "https://thehackernews.com/2026/03/ubuntu-cve-2026-3888-bug-lets-attackers.html",
+      "summary": "A high-severity security flaw affecting default installations of Ubuntu Desktop versions 24.04 and later could be exploited to escalate privileges to the root level.\nTracked as CVE-2026-3888 (CVSS sco...",
+      "published": "2026-03-18T13:38:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 10.4,
+        "anarchy": 3.0,
+        "overall": 6.7
+      },
+      "keywords": {
+        "chaos": [
+          "bug"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Privacy nightmare, search box on Android requires sharing screen",
+      "link": "https://old.reddit.com/r/Minneapolis/comments/1qfol1e/they_are_planting_people/",
+      "summary": "<p>Article URL: <a href=\"https://old.reddit.com/r/Minneapolis/comments/1qfol1e/they_are_planting_people/\">https://old.reddit.com/r/Minneapolis/comments/1qfol1e/they_are_planting_people/</a></p>\n<p>Com...",
+      "published": "2026-03-18T13:08:29+00:00",
+      "domain": "old.reddit.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Open SWE: An Open-Source Framework for Internal Coding Agents",
+      "link": "https://blog.langchain.com/open-swe-an-open-source-framework-for-internal-coding-agents/",
+      "summary": "<p>Article URL: <a href=\"https://blog.langchain.com/open-swe-an-open-source-framework-for-internal-coding-agents/\">https://blog.langchain.com/open-swe-an-open-source-framework-for-internal-coding-agen...",
+      "published": "2026-03-18T13:07:28+00:00",
+      "domain": "blog.langchain.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Brain Computer Interface Enables Rapid Communication for People with Paralysis",
+      "link": "https://www.massgeneralbrigham.org/en/about/newsroom/press-releases/brain-computer-interface-enables-rapid-communication-for-paralyzed-people",
+      "summary": "<p>Article URL: <a href=\"https://www.massgeneralbrigham.org/en/about/newsroom/press-releases/brain-computer-interface-enables-rapid-communication-for-paralyzed-people\">https://www.massgeneralbrigham.o...",
+      "published": "2026-03-18T13:07:16+00:00",
+      "domain": "massgeneralbrigham.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Can Companies Buy Their Way Into the S&P 500?",
+      "link": "https://www.project-syndicate.org/commentary/new-study-asks-whether-stock-index-membership-is-for-sale-by-shang-jin-wei-2026-03",
+      "summary": "<p>Article URL: <a href=\"https://www.project-syndicate.org/commentary/new-study-asks-whether-stock-index-membership-is-for-sale-by-shang-jin-wei-2026-03\">https://www.project-syndicate.org/commentary/n...",
+      "published": "2026-03-18T13:07:07+00:00",
+      "domain": "project-syndicate.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Ask HN: What's the costliest mistake you've made with LLM agents in production?",
+      "link": "https://news.ycombinator.com/item?id=47425323",
+      "summary": "<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47425323\">https://news.ycombinator.com/item?id=47425323</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>...",
+      "published": "2026-03-18T13:06:20+00:00",
+      "domain": "news.ycombinator.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -325,10 +329,28 @@
   ],
   "overall_ranked": [
     {
-      "title": "Critical Unpatched Telnetd Flaw (CVE-2026-32746) Enables Unauthenticated Root RCE via Port 23",
+      "title": "Ubuntu CVE-2026-3888 Bug Lets Attackers Gain Root via systemd Cleanup Timing Exploit",
+      "link": "https://thehackernews.com/2026/03/ubuntu-cve-2026-3888-bug-lets-attackers.html",
+      "summary": "A high-severity security flaw affecting default installations of Ubuntu Desktop versions 24.04 and later could be exploited to escalate privileges to the root level.\nTracked as CVE-2026-3888 (CVSS sco...",
+      "published": "2026-03-18T13:38:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 10.4,
+        "anarchy": 3.0,
+        "overall": 6.7
+      },
+      "keywords": {
+        "chaos": [
+          "bug"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Critical Unpatched Telnetd Flaw (CVE-2026-32746) Enables Unauthenticated Root RCE",
       "link": "https://thehackernews.com/2026/03/critical-telnetd-flaw-cve-2026-32746.html",
       "summary": "Cybersecurity researchers have disclosed a critical security flaw impacting the GNU InetUtils telnet daemon (telnetd) that could be exploited by an unauthenticated remote attacker to execute arbitrary...",
-      "published": "2026-03-18T10:36:00+05:30",
+      "published": "2026-03-18T18:00:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -341,139 +363,123 @@
       }
     },
     {
-      "title": "AI changed software cost structure not Value structure",
-      "link": "https://testdouble.com/insights/quality-you-cant-generate-ai-is-only-as-good-as-your-constraints",
-      "summary": "<p>Article URL: <a href=\"https://testdouble.com/insights/quality-you-cant-generate-ai-is-only-as-good-as-your-constraints\">https://testdouble.com/insights/quality-you-cant-generate-ai-is-only-as-good-...",
-      "published": "2026-03-18T06:50:18+00:00",
-      "domain": "testdouble.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Arizona Charges Kalshi with Illegal Gambling Operation",
-      "link": "https://www.bloomberg.com/news/articles/2026-03-17/arizona-charges-kalshi-with-operating-illegal-gambling-business",
-      "summary": "<p>Article URL: <a href=\"https://www.bloomberg.com/news/articles/2026-03-17/arizona-charges-kalshi-with-operating-illegal-gambling-business\">https://www.bloomberg.com/news/articles/2026-03-17/arizona-...",
-      "published": "2026-03-18T06:42:47+00:00",
-      "domain": "bloomberg.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: Open-source YouTube summary, transcript chat, and timeline sidepanel",
-      "link": "https://github.com/EchoTide/QuickSummarize",
-      "summary": "<p>Hi HN \u2014 I built QuickSummarize, an open-source Chrome extension for working with YouTube videos through captions.\nThe core idea is to make video Q&amp;A transcript-first instead of treating a one-t...",
-      "published": "2026-03-18T06:39:34+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "British physics faces 'catastrophic' cuts",
-      "link": "https://www.bbc.com/news/articles/czr0zmzzp84o",
-      "summary": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/czr0zmzzp84o\">https://www.bbc.com/news/articles/czr0zmzzp84o</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47422285\"...",
-      "published": "2026-03-18T06:39:25+00:00",
-      "domain": "bbc.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: Vue-OTP-pro \u2013 Minimal OTP input for Vue 3",
-      "link": "https://vue-otp-pro.netlify.app",
-      "summary": "<p>Built a lightweight OTP input component for Vue 3.<p>Composition API<p>Auto focus + backspace handling<p>Fully customizable<p>Small bundle<p>Simple to use and designed to handle common edge cases c...",
-      "published": "2026-03-18T06:35:56+00:00",
-      "domain": "vue-otp-pro.netlify.app",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "SSH has no Host header",
-      "link": "https://blog.exe.dev/ssh-host-header",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47421828\">Comments</a>...",
-      "published": "2026-03-18T05:18:02+00:00",
-      "domain": "blog.exe.dev",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Have a Fucking Website",
-      "link": "https://www.otherstrangeness.com/2026/03/14/have-a-fucking-website/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47421442\">Comments</a>...",
-      "published": "2026-03-18T03:53:42+00:00",
-      "domain": "otherstrangeness.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "CEO of Krafton Asks ChatGPT How to Void $250 Million Contract, Ignores His Lawyers, Loses Terribly in Court",
-      "link": "https://www.reddit.com/r/technology/comments/1rwr5nq/ceo_of_krafton_asks_chatgpt_how_to_void_250/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1rwr5nq/ceo_of_krafton_asks_chatgpt_how_to_void_250/\"> <img alt=\"CEO of Krafton Asks ChatGPT How to Void $250 Million Contract, I...",
-      "published": "2026-03-18T02:12:04+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "AI Flaws in Amazon Bedrock, LangSmith, and SGLang Enable Data Exfiltration and RCE",
-      "link": "https://thehackernews.com/2026/03/ai-flaws-in-amazon-bedrock-langsmith.html",
-      "summary": "Cybersecurity researchers have disclosed details of a new method for exfiltrating sensitive data from artificial intelligence (AI) code execution environments using domain name system (DNS) queries.\nI...",
-      "published": "2026-03-17T22:09:00+05:30",
+      "title": "Claude Code Security and Magecart: Getting the Threat Model Right",
+      "link": "https://thehackernews.com/2026/03/claude-code-security-and-magecart.html",
+      "summary": "When a Magecart payload hides inside the EXIF data of a dynamically loaded third-party favicon, no repository scanner will catch it \u2013 because the malicious code never actually touches your repo. As te...",
+      "published": "2026-03-18T17:28:00+05:30",
       "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "9 Critical IP KVM Flaws Enable Unauthenticated Root Access Across Four Vendors",
+      "link": "https://thehackernews.com/2026/03/9-critical-ip-kvm-flaws-enable.html",
+      "summary": "Cybersecurity researchers have warned about the risks posed by low-cost IP KVM (Keyboard, Video, Mouse over Internet Protocol) devices, which can grant attackers extensive control over compromised hos...",
+      "published": "2026-03-18T17:12:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Product Walkthrough: How Mesh CSMA Reveals and Breaks Attack Paths to Crown Jewels",
+      "link": "https://thehackernews.com/2026/03/product-walkthrough-how-mesh-csma.html",
+      "summary": "Security teams today are not short on tools or data. They are overwhelmed by both.&nbsp;\nYet within the terabytes of alerts, exposures, and misconfigurations \u2013 security teams still struggle to underst...",
+      "published": "2026-03-18T16:00:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Privacy nightmare, search box on Android requires sharing screen",
+      "link": "https://old.reddit.com/r/Minneapolis/comments/1qfol1e/they_are_planting_people/",
+      "summary": "<p>Article URL: <a href=\"https://old.reddit.com/r/Minneapolis/comments/1qfol1e/they_are_planting_people/\">https://old.reddit.com/r/Minneapolis/comments/1qfol1e/they_are_planting_people/</a></p>\n<p>Com...",
+      "published": "2026-03-18T13:08:29+00:00",
+      "domain": "old.reddit.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Open SWE: An Open-Source Framework for Internal Coding Agents",
+      "link": "https://blog.langchain.com/open-swe-an-open-source-framework-for-internal-coding-agents/",
+      "summary": "<p>Article URL: <a href=\"https://blog.langchain.com/open-swe-an-open-source-framework-for-internal-coding-agents/\">https://blog.langchain.com/open-swe-an-open-source-framework-for-internal-coding-agen...",
+      "published": "2026-03-18T13:07:28+00:00",
+      "domain": "blog.langchain.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Brain Computer Interface Enables Rapid Communication for People with Paralysis",
+      "link": "https://www.massgeneralbrigham.org/en/about/newsroom/press-releases/brain-computer-interface-enables-rapid-communication-for-paralyzed-people",
+      "summary": "<p>Article URL: <a href=\"https://www.massgeneralbrigham.org/en/about/newsroom/press-releases/brain-computer-interface-enables-rapid-communication-for-paralyzed-people\">https://www.massgeneralbrigham.o...",
+      "published": "2026-03-18T13:07:16+00:00",
+      "domain": "massgeneralbrigham.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Can Companies Buy Their Way Into the S&P 500?",
+      "link": "https://www.project-syndicate.org/commentary/new-study-asks-whether-stock-index-membership-is-for-sale-by-shang-jin-wei-2026-03",
+      "summary": "<p>Article URL: <a href=\"https://www.project-syndicate.org/commentary/new-study-asks-whether-stock-index-membership-is-for-sale-by-shang-jin-wei-2026-03\">https://www.project-syndicate.org/commentary/n...",
+      "published": "2026-03-18T13:07:07+00:00",
+      "domain": "project-syndicate.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Ask HN: What's the costliest mistake you've made with LLM agents in production?",
+      "link": "https://news.ycombinator.com/item?id=47425323",
+      "summary": "<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47425323\">https://news.ycombinator.com/item?id=47425323</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>...",
+      "published": "2026-03-18T13:06:20+00:00",
+      "domain": "news.ycombinator.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -487,10 +493,10 @@
   ],
   "all_articles": [
     {
-      "title": "Critical Unpatched Telnetd Flaw (CVE-2026-32746) Enables Unauthenticated Root RCE via Port 23",
+      "title": "Critical Unpatched Telnetd Flaw (CVE-2026-32746) Enables Unauthenticated Root RCE",
       "link": "https://thehackernews.com/2026/03/critical-telnetd-flaw-cve-2026-32746.html",
       "summary": "Cybersecurity researchers have disclosed a critical security flaw impacting the GNU InetUtils telnet daemon (telnetd) that could be exploited by an unauthenticated remote attacker to execute arbitrary...",
-      "published": "2026-03-18T10:36:00+05:30",
+      "published": "2026-03-18T18:00:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -503,139 +509,141 @@
       }
     },
     {
-      "title": "AI changed software cost structure not Value structure",
-      "link": "https://testdouble.com/insights/quality-you-cant-generate-ai-is-only-as-good-as-your-constraints",
-      "summary": "<p>Article URL: <a href=\"https://testdouble.com/insights/quality-you-cant-generate-ai-is-only-as-good-as-your-constraints\">https://testdouble.com/insights/quality-you-cant-generate-ai-is-only-as-good-...",
-      "published": "2026-03-18T06:50:18+00:00",
-      "domain": "testdouble.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Arizona Charges Kalshi with Illegal Gambling Operation",
-      "link": "https://www.bloomberg.com/news/articles/2026-03-17/arizona-charges-kalshi-with-operating-illegal-gambling-business",
-      "summary": "<p>Article URL: <a href=\"https://www.bloomberg.com/news/articles/2026-03-17/arizona-charges-kalshi-with-operating-illegal-gambling-business\">https://www.bloomberg.com/news/articles/2026-03-17/arizona-...",
-      "published": "2026-03-18T06:42:47+00:00",
-      "domain": "bloomberg.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: Open-source YouTube summary, transcript chat, and timeline sidepanel",
-      "link": "https://github.com/EchoTide/QuickSummarize",
-      "summary": "<p>Hi HN \u2014 I built QuickSummarize, an open-source Chrome extension for working with YouTube videos through captions.\nThe core idea is to make video Q&amp;A transcript-first instead of treating a one-t...",
-      "published": "2026-03-18T06:39:34+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "British physics faces 'catastrophic' cuts",
-      "link": "https://www.bbc.com/news/articles/czr0zmzzp84o",
-      "summary": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/czr0zmzzp84o\">https://www.bbc.com/news/articles/czr0zmzzp84o</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47422285\"...",
-      "published": "2026-03-18T06:39:25+00:00",
-      "domain": "bbc.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: Vue-OTP-pro \u2013 Minimal OTP input for Vue 3",
-      "link": "https://vue-otp-pro.netlify.app",
-      "summary": "<p>Built a lightweight OTP input component for Vue 3.<p>Composition API<p>Auto focus + backspace handling<p>Fully customizable<p>Small bundle<p>Simple to use and designed to handle common edge cases c...",
-      "published": "2026-03-18T06:35:56+00:00",
-      "domain": "vue-otp-pro.netlify.app",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "SSH has no Host header",
-      "link": "https://blog.exe.dev/ssh-host-header",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47421828\">Comments</a>...",
-      "published": "2026-03-18T05:18:02+00:00",
-      "domain": "blog.exe.dev",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Have a Fucking Website",
-      "link": "https://www.otherstrangeness.com/2026/03/14/have-a-fucking-website/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47421442\">Comments</a>...",
-      "published": "2026-03-18T03:53:42+00:00",
-      "domain": "otherstrangeness.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "CEO of Krafton Asks ChatGPT How to Void $250 Million Contract, Ignores His Lawyers, Loses Terribly in Court",
-      "link": "https://www.reddit.com/r/technology/comments/1rwr5nq/ceo_of_krafton_asks_chatgpt_how_to_void_250/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1rwr5nq/ceo_of_krafton_asks_chatgpt_how_to_void_250/\"> <img alt=\"CEO of Krafton Asks ChatGPT How to Void $250 Million Contract, I...",
-      "published": "2026-03-18T02:12:04+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "AI Flaws in Amazon Bedrock, LangSmith, and SGLang Enable Data Exfiltration and RCE",
-      "link": "https://thehackernews.com/2026/03/ai-flaws-in-amazon-bedrock-langsmith.html",
-      "summary": "Cybersecurity researchers have disclosed details of a new method for exfiltrating sensitive data from artificial intelligence (AI) code execution environments using domain name system (DNS) queries.\nI...",
-      "published": "2026-03-17T22:09:00+05:30",
+      "title": "Claude Code Security and Magecart: Getting the Threat Model Right",
+      "link": "https://thehackernews.com/2026/03/claude-code-security-and-magecart.html",
+      "summary": "When a Magecart payload hides inside the EXIF data of a dynamically loaded third-party favicon, no repository scanner will catch it \u2013 because the malicious code never actually touches your repo. As te...",
+      "published": "2026-03-18T17:28:00+05:30",
       "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "9 Critical IP KVM Flaws Enable Unauthenticated Root Access Across Four Vendors",
+      "link": "https://thehackernews.com/2026/03/9-critical-ip-kvm-flaws-enable.html",
+      "summary": "Cybersecurity researchers have warned about the risks posed by low-cost IP KVM (Keyboard, Video, Mouse over Internet Protocol) devices, which can grant attackers extensive control over compromised hos...",
+      "published": "2026-03-18T17:12:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Product Walkthrough: How Mesh CSMA Reveals and Breaks Attack Paths to Crown Jewels",
+      "link": "https://thehackernews.com/2026/03/product-walkthrough-how-mesh-csma.html",
+      "summary": "Security teams today are not short on tools or data. They are overwhelmed by both.&nbsp;\nYet within the terabytes of alerts, exposures, and misconfigurations \u2013 security teams still struggle to underst...",
+      "published": "2026-03-18T16:00:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Ubuntu CVE-2026-3888 Bug Lets Attackers Gain Root via systemd Cleanup Timing Exploit",
+      "link": "https://thehackernews.com/2026/03/ubuntu-cve-2026-3888-bug-lets-attackers.html",
+      "summary": "A high-severity security flaw affecting default installations of Ubuntu Desktop versions 24.04 and later could be exploited to escalate privileges to the root level.\nTracked as CVE-2026-3888 (CVSS sco...",
+      "published": "2026-03-18T13:38:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 10.4,
+        "anarchy": 3.0,
+        "overall": 6.7
+      },
+      "keywords": {
+        "chaos": [
+          "bug"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Privacy nightmare, search box on Android requires sharing screen",
+      "link": "https://old.reddit.com/r/Minneapolis/comments/1qfol1e/they_are_planting_people/",
+      "summary": "<p>Article URL: <a href=\"https://old.reddit.com/r/Minneapolis/comments/1qfol1e/they_are_planting_people/\">https://old.reddit.com/r/Minneapolis/comments/1qfol1e/they_are_planting_people/</a></p>\n<p>Com...",
+      "published": "2026-03-18T13:08:29+00:00",
+      "domain": "old.reddit.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Open SWE: An Open-Source Framework for Internal Coding Agents",
+      "link": "https://blog.langchain.com/open-swe-an-open-source-framework-for-internal-coding-agents/",
+      "summary": "<p>Article URL: <a href=\"https://blog.langchain.com/open-swe-an-open-source-framework-for-internal-coding-agents/\">https://blog.langchain.com/open-swe-an-open-source-framework-for-internal-coding-agen...",
+      "published": "2026-03-18T13:07:28+00:00",
+      "domain": "blog.langchain.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Brain Computer Interface Enables Rapid Communication for People with Paralysis",
+      "link": "https://www.massgeneralbrigham.org/en/about/newsroom/press-releases/brain-computer-interface-enables-rapid-communication-for-paralyzed-people",
+      "summary": "<p>Article URL: <a href=\"https://www.massgeneralbrigham.org/en/about/newsroom/press-releases/brain-computer-interface-enables-rapid-communication-for-paralyzed-people\">https://www.massgeneralbrigham.o...",
+      "published": "2026-03-18T13:07:16+00:00",
+      "domain": "massgeneralbrigham.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Can Companies Buy Their Way Into the S&P 500?",
+      "link": "https://www.project-syndicate.org/commentary/new-study-asks-whether-stock-index-membership-is-for-sale-by-shang-jin-wei-2026-03",
+      "summary": "<p>Article URL: <a href=\"https://www.project-syndicate.org/commentary/new-study-asks-whether-stock-index-membership-is-for-sale-by-shang-jin-wei-2026-03\">https://www.project-syndicate.org/commentary/n...",
+      "published": "2026-03-18T13:07:07+00:00",
+      "domain": "project-syndicate.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Ask HN: What's the costliest mistake you've made with LLM agents in production?",
+      "link": "https://news.ycombinator.com/item?id=47425323",
+      "summary": "<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47425323\">https://news.ycombinator.com/item?id=47425323</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>...",
+      "published": "2026-03-18T13:06:20+00:00",
+      "domain": "news.ycombinator.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,

@@ -16,15 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Critical Unpatched Telnetd Flaw (CVE-2026-32746) Enables Unauthenticated Root RCE via Port 23
+### Ubuntu CVE-2026-3888 Bug Lets Attackers Gain Root via systemd Cleanup Timing Exploit
+- **Published**: March 18, 2026
+- **Summary**: A high-severity security flaw affecting default installations of Ubuntu Desktop versions 24.04 and later could be exploited to escalate privileges to ...
+- **Keywords**: bug
+- [Read more](https://thehackernews.com/2026/03/ubuntu-cve-2026-3888-bug-lets-attackers.html)
+
+### Critical Unpatched Telnetd Flaw (CVE-2026-32746) Enables Unauthenticated Root RCE
 - **Published**: March 18, 2026
 - **Summary**: Cybersecurity researchers have disclosed a critical security flaw impacting the GNU InetUtils telnet daemon (telnetd) that could be exploited by an un...
 - [Read more](https://thehackernews.com/2026/03/critical-telnetd-flaw-cve-2026-32746.html)
-
-### AI changed software cost structure not Value structure
-- **Published**: March 18, 2026
-- **Summary**: https://testdouble.com/insights/quality-you-cant-generate-ai-is-only-as-good-......
-- [Read more](https://testdouble.com/insights/quality-you-cant-generate-ai-is-only-as-good-as-your-constraints)
 
 ---
 
