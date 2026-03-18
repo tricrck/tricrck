@@ -16,17 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Paint'nt – A headless tribute to paint.exe, in TypeScript
+### Critical Unpatched Telnetd Flaw (CVE-2026-32746) Enables Unauthenticated Root RCE via Port 23
 - **Published**: March 18, 2026
-- **Summary**: https://github.com/RickCarlino/paintnt</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47420898">https://news.yc......
-- [Read more](https://github.com/RickCarlino/paintnt)
+- **Summary**: Cybersecurity researchers have disclosed a critical security flaw impacting the GNU InetUtils telnet daemon (telnetd) that could be exploited by an un...
+- [Read more](https://thehackernews.com/2026/03/critical-telnetd-flaw-cve-2026-32746.html)
 
-### TIL Tues: Isotropic radiator [wiki]
+### AI changed software cost structure not Value structure
 - **Published**: March 18, 2026
-- **Summary**: https://en.wikipedia.org/wiki/Isotropic_radiator</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47420......
-- [Read more](https://en.wikipedia.org/wiki/Isotropic_radiator)
+- **Summary**: https://testdouble.com/insights/quality-you-cant-generate-ai-is-only-as-good-......
+- [Read more](https://testdouble.com/insights/quality-you-cant-generate-ai-is-only-as-good-as-your-constraints)
 
 ---
 
