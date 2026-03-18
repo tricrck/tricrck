@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Ubuntu CVE-2026-3888 Bug Lets Attackers Gain Root via systemd Cleanup Timing Exploit
+### OFAC Sanctions DPRK IT Worker Network Funding WMD Programs Through Fake Remote Jobs
 - **Published**: March 18, 2026
-- **Summary**: A high-severity security flaw affecting default installations of Ubuntu Desktop versions 24.04 and later could be exploited to escalate privileges to ...
-- **Keywords**: bug
-- [Read more](https://thehackernews.com/2026/03/ubuntu-cve-2026-3888-bug-lets-attackers.html)
+- **Summary**: The U.S. Department of the Treasury's Office of Foreign Assets Control (OFAC) has sanctioned six individuals and two entities for their involvement in...
+- [Read more](https://thehackernews.com/2026/03/ofac-sanctions-dprk-it-worker-network.html)
 
-### Critical Unpatched Telnetd Flaw (CVE-2026-32746) Enables Unauthenticated Root RCE
+### Interlock Ransomware Exploits Cisco FMC Zero-Day CVE-2026-20131 for Root Access
 - **Published**: March 18, 2026
-- **Summary**: Cybersecurity researchers have disclosed a critical security flaw impacting the GNU InetUtils telnet daemon (telnetd) that could be exploited by an un...
-- [Read more](https://thehackernews.com/2026/03/critical-telnetd-flaw-cve-2026-32746.html)
+- **Summary**: Amazon Threat Intelligence is warning of an active Interlock ransomware campaign that's exploiting a recently disclosed critical security flaw in Cisc...
+- [Read more](https://thehackernews.com/2026/03/interlock-ransomware-exploits-cisco-fmc.html)
 
 ---
 

@@ -1,20 +1,114 @@
 {
   "chaos_ranked": [
     {
-      "title": "Ubuntu CVE-2026-3888 Bug Lets Attackers Gain Root via systemd Cleanup Timing Exploit",
-      "link": "https://thehackernews.com/2026/03/ubuntu-cve-2026-3888-bug-lets-attackers.html",
-      "summary": "A high-severity security flaw affecting default installations of Ubuntu Desktop versions 24.04 and later could be exploited to escalate privileges to the root level.\nTracked as CVE-2026-3888 (CVSS sco...",
-      "published": "2026-03-18T13:38:00+05:30",
+      "title": "OFAC Sanctions DPRK IT Worker Network Funding WMD Programs Through Fake Remote Jobs",
+      "link": "https://thehackernews.com/2026/03/ofac-sanctions-dprk-it-worker-network.html",
+      "summary": "The U.S. Department of the Treasury's Office of Foreign Assets Control (OFAC) has sanctioned six individuals and two entities for their involvement in the Democratic People's Republic of Korea (DPRK) ...",
+      "published": "2026-03-18T22:56:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
-        "chaos": 10.4,
+        "chaos": 3.0,
         "anarchy": 3.0,
-        "overall": 6.7
+        "overall": 3.0
       },
       "keywords": {
-        "chaos": [
-          "bug"
-        ],
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Interlock Ransomware Exploits Cisco FMC Zero-Day CVE-2026-20131 for Root Access",
+      "link": "https://thehackernews.com/2026/03/interlock-ransomware-exploits-cisco-fmc.html",
+      "summary": "Amazon Threat Intelligence is warning of an active Interlock ransomware campaign that's exploiting a recently disclosed critical security flaw in Cisco Secure Firewall Management Center (FMC) Software...",
+      "published": "2026-03-18T21:30:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "How to Not Get Hacked Through File Uploads",
+      "link": "https://www.eliranturgeman.com/2026/03/14/uploads-attack-surface/",
+      "summary": "<p>Article URL: <a href=\"https://www.eliranturgeman.com/2026/03/14/uploads-attack-surface/\">https://www.eliranturgeman.com/2026/03/14/uploads-attack-surface/</a></p>\n<p>Comments URL: <a href=\"https://...",
+      "published": "2026-03-18T18:59:14+00:00",
+      "domain": "eliranturgeman.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Months to minutes: AI feature-gap harness",
+      "link": "https://dheer.co/feature-gap-harness/",
+      "summary": "<p>Article URL: <a href=\"https://dheer.co/feature-gap-harness/\">https://dheer.co/feature-gap-harness/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47429948\">https://news.ycom...",
+      "published": "2026-03-18T18:58:31+00:00",
+      "domain": "dheer.co",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Robinhood is making a social network",
+      "link": "https://www.theverge.com/tech/896989/robinhood-social-network-beta",
+      "summary": "<p>Article URL: <a href=\"https://www.theverge.com/tech/896989/robinhood-social-network-beta\">https://www.theverge.com/tech/896989/robinhood-social-network-beta</a></p>\n<p>Comments URL: <a href=\"https:...",
+      "published": "2026-03-18T18:58:06+00:00",
+      "domain": "theverge.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "How to Make Sense of AI",
+      "link": "https://commoncog.com/how-to-make-sense-of-ai/",
+      "summary": "<p>Article URL: <a href=\"https://commoncog.com/how-to-make-sense-of-ai/\">https://commoncog.com/how-to-make-sense-of-ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47429938\"...",
+      "published": "2026-03-18T18:57:48+00:00",
+      "domain": "commoncog.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Silicon Valley Musters Behind-the-Scenes Support for Anthropic",
+      "link": "https://www.nytimes.com/2026/03/18/technology/silicon-valley-anthropic-pentagon.html",
+      "summary": "<p>Article URL: <a href=\"https://www.nytimes.com/2026/03/18/technology/silicon-valley-anthropic-pentagon.html\">https://www.nytimes.com/2026/03/18/technology/silicon-valley-anthropic-pentagon.html</a><...",
+      "published": "2026-03-18T18:57:05+00:00",
+      "domain": "nytimes.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
         "anarchy": []
       }
     },
@@ -51,107 +145,11 @@
       }
     },
     {
-      "title": "9 Critical IP KVM Flaws Enable Unauthenticated Root Access Across Four Vendors",
-      "link": "https://thehackernews.com/2026/03/9-critical-ip-kvm-flaws-enable.html",
-      "summary": "Cybersecurity researchers have warned about the risks posed by low-cost IP KVM (Keyboard, Video, Mouse over Internet Protocol) devices, which can grant attackers extensive control over compromised hos...",
-      "published": "2026-03-18T17:12:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Product Walkthrough: How Mesh CSMA Reveals and Breaks Attack Paths to Crown Jewels",
-      "link": "https://thehackernews.com/2026/03/product-walkthrough-how-mesh-csma.html",
-      "summary": "Security teams today are not short on tools or data. They are overwhelmed by both.&nbsp;\nYet within the terabytes of alerts, exposures, and misconfigurations \u2013 security teams still struggle to underst...",
-      "published": "2026-03-18T16:00:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Privacy nightmare, search box on Android requires sharing screen",
-      "link": "https://old.reddit.com/r/Minneapolis/comments/1qfol1e/they_are_planting_people/",
-      "summary": "<p>Article URL: <a href=\"https://old.reddit.com/r/Minneapolis/comments/1qfol1e/they_are_planting_people/\">https://old.reddit.com/r/Minneapolis/comments/1qfol1e/they_are_planting_people/</a></p>\n<p>Com...",
-      "published": "2026-03-18T13:08:29+00:00",
-      "domain": "old.reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Open SWE: An Open-Source Framework for Internal Coding Agents",
-      "link": "https://blog.langchain.com/open-swe-an-open-source-framework-for-internal-coding-agents/",
-      "summary": "<p>Article URL: <a href=\"https://blog.langchain.com/open-swe-an-open-source-framework-for-internal-coding-agents/\">https://blog.langchain.com/open-swe-an-open-source-framework-for-internal-coding-agen...",
-      "published": "2026-03-18T13:07:28+00:00",
-      "domain": "blog.langchain.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Brain Computer Interface Enables Rapid Communication for People with Paralysis",
-      "link": "https://www.massgeneralbrigham.org/en/about/newsroom/press-releases/brain-computer-interface-enables-rapid-communication-for-paralyzed-people",
-      "summary": "<p>Article URL: <a href=\"https://www.massgeneralbrigham.org/en/about/newsroom/press-releases/brain-computer-interface-enables-rapid-communication-for-paralyzed-people\">https://www.massgeneralbrigham.o...",
-      "published": "2026-03-18T13:07:16+00:00",
-      "domain": "massgeneralbrigham.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Can Companies Buy Their Way Into the S&P 500?",
-      "link": "https://www.project-syndicate.org/commentary/new-study-asks-whether-stock-index-membership-is-for-sale-by-shang-jin-wei-2026-03",
-      "summary": "<p>Article URL: <a href=\"https://www.project-syndicate.org/commentary/new-study-asks-whether-stock-index-membership-is-for-sale-by-shang-jin-wei-2026-03\">https://www.project-syndicate.org/commentary/n...",
-      "published": "2026-03-18T13:07:07+00:00",
-      "domain": "project-syndicate.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Ask HN: What's the costliest mistake you've made with LLM agents in production?",
-      "link": "https://news.ycombinator.com/item?id=47425323",
-      "summary": "<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47425323\">https://news.ycombinator.com/item?id=47425323</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>...",
-      "published": "2026-03-18T13:06:20+00:00",
-      "domain": "news.ycombinator.com",
+      "title": "AI coding is gambling",
+      "link": "https://notes.visaint.space/ai-coding-is-gambling/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47428541\">Comments</a>...",
+      "published": "2026-03-18T17:22:02+00:00",
+      "domain": "notes.visaint.space",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -165,6 +163,118 @@
   ],
   "anarchy_ranked": [
     {
+      "title": "OFAC Sanctions DPRK IT Worker Network Funding WMD Programs Through Fake Remote Jobs",
+      "link": "https://thehackernews.com/2026/03/ofac-sanctions-dprk-it-worker-network.html",
+      "summary": "The U.S. Department of the Treasury's Office of Foreign Assets Control (OFAC) has sanctioned six individuals and two entities for their involvement in the Democratic People's Republic of Korea (DPRK) ...",
+      "published": "2026-03-18T22:56:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Interlock Ransomware Exploits Cisco FMC Zero-Day CVE-2026-20131 for Root Access",
+      "link": "https://thehackernews.com/2026/03/interlock-ransomware-exploits-cisco-fmc.html",
+      "summary": "Amazon Threat Intelligence is warning of an active Interlock ransomware campaign that's exploiting a recently disclosed critical security flaw in Cisco Secure Firewall Management Center (FMC) Software...",
+      "published": "2026-03-18T21:30:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "How to Not Get Hacked Through File Uploads",
+      "link": "https://www.eliranturgeman.com/2026/03/14/uploads-attack-surface/",
+      "summary": "<p>Article URL: <a href=\"https://www.eliranturgeman.com/2026/03/14/uploads-attack-surface/\">https://www.eliranturgeman.com/2026/03/14/uploads-attack-surface/</a></p>\n<p>Comments URL: <a href=\"https://...",
+      "published": "2026-03-18T18:59:14+00:00",
+      "domain": "eliranturgeman.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Months to minutes: AI feature-gap harness",
+      "link": "https://dheer.co/feature-gap-harness/",
+      "summary": "<p>Article URL: <a href=\"https://dheer.co/feature-gap-harness/\">https://dheer.co/feature-gap-harness/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47429948\">https://news.ycom...",
+      "published": "2026-03-18T18:58:31+00:00",
+      "domain": "dheer.co",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Robinhood is making a social network",
+      "link": "https://www.theverge.com/tech/896989/robinhood-social-network-beta",
+      "summary": "<p>Article URL: <a href=\"https://www.theverge.com/tech/896989/robinhood-social-network-beta\">https://www.theverge.com/tech/896989/robinhood-social-network-beta</a></p>\n<p>Comments URL: <a href=\"https:...",
+      "published": "2026-03-18T18:58:06+00:00",
+      "domain": "theverge.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "How to Make Sense of AI",
+      "link": "https://commoncog.com/how-to-make-sense-of-ai/",
+      "summary": "<p>Article URL: <a href=\"https://commoncog.com/how-to-make-sense-of-ai/\">https://commoncog.com/how-to-make-sense-of-ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47429938\"...",
+      "published": "2026-03-18T18:57:48+00:00",
+      "domain": "commoncog.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Silicon Valley Musters Behind-the-Scenes Support for Anthropic",
+      "link": "https://www.nytimes.com/2026/03/18/technology/silicon-valley-anthropic-pentagon.html",
+      "summary": "<p>Article URL: <a href=\"https://www.nytimes.com/2026/03/18/technology/silicon-valley-anthropic-pentagon.html\">https://www.nytimes.com/2026/03/18/technology/silicon-valley-anthropic-pentagon.html</a><...",
+      "published": "2026-03-18T18:57:05+00:00",
+      "domain": "nytimes.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "Critical Unpatched Telnetd Flaw (CVE-2026-32746) Enables Unauthenticated Root RCE",
       "link": "https://thehackernews.com/2026/03/critical-telnetd-flaw-cve-2026-32746.html",
       "summary": "Cybersecurity researchers have disclosed a critical security flaw impacting the GNU InetUtils telnet daemon (telnetd) that could be exploited by an unauthenticated remote attacker to execute arbitrary...",
@@ -197,125 +307,11 @@
       }
     },
     {
-      "title": "9 Critical IP KVM Flaws Enable Unauthenticated Root Access Across Four Vendors",
-      "link": "https://thehackernews.com/2026/03/9-critical-ip-kvm-flaws-enable.html",
-      "summary": "Cybersecurity researchers have warned about the risks posed by low-cost IP KVM (Keyboard, Video, Mouse over Internet Protocol) devices, which can grant attackers extensive control over compromised hos...",
-      "published": "2026-03-18T17:12:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Product Walkthrough: How Mesh CSMA Reveals and Breaks Attack Paths to Crown Jewels",
-      "link": "https://thehackernews.com/2026/03/product-walkthrough-how-mesh-csma.html",
-      "summary": "Security teams today are not short on tools or data. They are overwhelmed by both.&nbsp;\nYet within the terabytes of alerts, exposures, and misconfigurations \u2013 security teams still struggle to underst...",
-      "published": "2026-03-18T16:00:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Ubuntu CVE-2026-3888 Bug Lets Attackers Gain Root via systemd Cleanup Timing Exploit",
-      "link": "https://thehackernews.com/2026/03/ubuntu-cve-2026-3888-bug-lets-attackers.html",
-      "summary": "A high-severity security flaw affecting default installations of Ubuntu Desktop versions 24.04 and later could be exploited to escalate privileges to the root level.\nTracked as CVE-2026-3888 (CVSS sco...",
-      "published": "2026-03-18T13:38:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 10.4,
-        "anarchy": 3.0,
-        "overall": 6.7
-      },
-      "keywords": {
-        "chaos": [
-          "bug"
-        ],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Privacy nightmare, search box on Android requires sharing screen",
-      "link": "https://old.reddit.com/r/Minneapolis/comments/1qfol1e/they_are_planting_people/",
-      "summary": "<p>Article URL: <a href=\"https://old.reddit.com/r/Minneapolis/comments/1qfol1e/they_are_planting_people/\">https://old.reddit.com/r/Minneapolis/comments/1qfol1e/they_are_planting_people/</a></p>\n<p>Com...",
-      "published": "2026-03-18T13:08:29+00:00",
-      "domain": "old.reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Open SWE: An Open-Source Framework for Internal Coding Agents",
-      "link": "https://blog.langchain.com/open-swe-an-open-source-framework-for-internal-coding-agents/",
-      "summary": "<p>Article URL: <a href=\"https://blog.langchain.com/open-swe-an-open-source-framework-for-internal-coding-agents/\">https://blog.langchain.com/open-swe-an-open-source-framework-for-internal-coding-agen...",
-      "published": "2026-03-18T13:07:28+00:00",
-      "domain": "blog.langchain.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Brain Computer Interface Enables Rapid Communication for People with Paralysis",
-      "link": "https://www.massgeneralbrigham.org/en/about/newsroom/press-releases/brain-computer-interface-enables-rapid-communication-for-paralyzed-people",
-      "summary": "<p>Article URL: <a href=\"https://www.massgeneralbrigham.org/en/about/newsroom/press-releases/brain-computer-interface-enables-rapid-communication-for-paralyzed-people\">https://www.massgeneralbrigham.o...",
-      "published": "2026-03-18T13:07:16+00:00",
-      "domain": "massgeneralbrigham.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Can Companies Buy Their Way Into the S&P 500?",
-      "link": "https://www.project-syndicate.org/commentary/new-study-asks-whether-stock-index-membership-is-for-sale-by-shang-jin-wei-2026-03",
-      "summary": "<p>Article URL: <a href=\"https://www.project-syndicate.org/commentary/new-study-asks-whether-stock-index-membership-is-for-sale-by-shang-jin-wei-2026-03\">https://www.project-syndicate.org/commentary/n...",
-      "published": "2026-03-18T13:07:07+00:00",
-      "domain": "project-syndicate.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Ask HN: What's the costliest mistake you've made with LLM agents in production?",
-      "link": "https://news.ycombinator.com/item?id=47425323",
-      "summary": "<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47425323\">https://news.ycombinator.com/item?id=47425323</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>...",
-      "published": "2026-03-18T13:06:20+00:00",
-      "domain": "news.ycombinator.com",
+      "title": "AI coding is gambling",
+      "link": "https://notes.visaint.space/ai-coding-is-gambling/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47428541\">Comments</a>...",
+      "published": "2026-03-18T17:22:02+00:00",
+      "domain": "notes.visaint.space",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -329,20 +325,114 @@
   ],
   "overall_ranked": [
     {
-      "title": "Ubuntu CVE-2026-3888 Bug Lets Attackers Gain Root via systemd Cleanup Timing Exploit",
-      "link": "https://thehackernews.com/2026/03/ubuntu-cve-2026-3888-bug-lets-attackers.html",
-      "summary": "A high-severity security flaw affecting default installations of Ubuntu Desktop versions 24.04 and later could be exploited to escalate privileges to the root level.\nTracked as CVE-2026-3888 (CVSS sco...",
-      "published": "2026-03-18T13:38:00+05:30",
+      "title": "OFAC Sanctions DPRK IT Worker Network Funding WMD Programs Through Fake Remote Jobs",
+      "link": "https://thehackernews.com/2026/03/ofac-sanctions-dprk-it-worker-network.html",
+      "summary": "The U.S. Department of the Treasury's Office of Foreign Assets Control (OFAC) has sanctioned six individuals and two entities for their involvement in the Democratic People's Republic of Korea (DPRK) ...",
+      "published": "2026-03-18T22:56:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
-        "chaos": 10.4,
+        "chaos": 3.0,
         "anarchy": 3.0,
-        "overall": 6.7
+        "overall": 3.0
       },
       "keywords": {
-        "chaos": [
-          "bug"
-        ],
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Interlock Ransomware Exploits Cisco FMC Zero-Day CVE-2026-20131 for Root Access",
+      "link": "https://thehackernews.com/2026/03/interlock-ransomware-exploits-cisco-fmc.html",
+      "summary": "Amazon Threat Intelligence is warning of an active Interlock ransomware campaign that's exploiting a recently disclosed critical security flaw in Cisco Secure Firewall Management Center (FMC) Software...",
+      "published": "2026-03-18T21:30:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "How to Not Get Hacked Through File Uploads",
+      "link": "https://www.eliranturgeman.com/2026/03/14/uploads-attack-surface/",
+      "summary": "<p>Article URL: <a href=\"https://www.eliranturgeman.com/2026/03/14/uploads-attack-surface/\">https://www.eliranturgeman.com/2026/03/14/uploads-attack-surface/</a></p>\n<p>Comments URL: <a href=\"https://...",
+      "published": "2026-03-18T18:59:14+00:00",
+      "domain": "eliranturgeman.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Months to minutes: AI feature-gap harness",
+      "link": "https://dheer.co/feature-gap-harness/",
+      "summary": "<p>Article URL: <a href=\"https://dheer.co/feature-gap-harness/\">https://dheer.co/feature-gap-harness/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47429948\">https://news.ycom...",
+      "published": "2026-03-18T18:58:31+00:00",
+      "domain": "dheer.co",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Robinhood is making a social network",
+      "link": "https://www.theverge.com/tech/896989/robinhood-social-network-beta",
+      "summary": "<p>Article URL: <a href=\"https://www.theverge.com/tech/896989/robinhood-social-network-beta\">https://www.theverge.com/tech/896989/robinhood-social-network-beta</a></p>\n<p>Comments URL: <a href=\"https:...",
+      "published": "2026-03-18T18:58:06+00:00",
+      "domain": "theverge.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "How to Make Sense of AI",
+      "link": "https://commoncog.com/how-to-make-sense-of-ai/",
+      "summary": "<p>Article URL: <a href=\"https://commoncog.com/how-to-make-sense-of-ai/\">https://commoncog.com/how-to-make-sense-of-ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47429938\"...",
+      "published": "2026-03-18T18:57:48+00:00",
+      "domain": "commoncog.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Silicon Valley Musters Behind-the-Scenes Support for Anthropic",
+      "link": "https://www.nytimes.com/2026/03/18/technology/silicon-valley-anthropic-pentagon.html",
+      "summary": "<p>Article URL: <a href=\"https://www.nytimes.com/2026/03/18/technology/silicon-valley-anthropic-pentagon.html\">https://www.nytimes.com/2026/03/18/technology/silicon-valley-anthropic-pentagon.html</a><...",
+      "published": "2026-03-18T18:57:05+00:00",
+      "domain": "nytimes.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
         "anarchy": []
       }
     },
@@ -379,107 +469,11 @@
       }
     },
     {
-      "title": "9 Critical IP KVM Flaws Enable Unauthenticated Root Access Across Four Vendors",
-      "link": "https://thehackernews.com/2026/03/9-critical-ip-kvm-flaws-enable.html",
-      "summary": "Cybersecurity researchers have warned about the risks posed by low-cost IP KVM (Keyboard, Video, Mouse over Internet Protocol) devices, which can grant attackers extensive control over compromised hos...",
-      "published": "2026-03-18T17:12:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Product Walkthrough: How Mesh CSMA Reveals and Breaks Attack Paths to Crown Jewels",
-      "link": "https://thehackernews.com/2026/03/product-walkthrough-how-mesh-csma.html",
-      "summary": "Security teams today are not short on tools or data. They are overwhelmed by both.&nbsp;\nYet within the terabytes of alerts, exposures, and misconfigurations \u2013 security teams still struggle to underst...",
-      "published": "2026-03-18T16:00:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Privacy nightmare, search box on Android requires sharing screen",
-      "link": "https://old.reddit.com/r/Minneapolis/comments/1qfol1e/they_are_planting_people/",
-      "summary": "<p>Article URL: <a href=\"https://old.reddit.com/r/Minneapolis/comments/1qfol1e/they_are_planting_people/\">https://old.reddit.com/r/Minneapolis/comments/1qfol1e/they_are_planting_people/</a></p>\n<p>Com...",
-      "published": "2026-03-18T13:08:29+00:00",
-      "domain": "old.reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Open SWE: An Open-Source Framework for Internal Coding Agents",
-      "link": "https://blog.langchain.com/open-swe-an-open-source-framework-for-internal-coding-agents/",
-      "summary": "<p>Article URL: <a href=\"https://blog.langchain.com/open-swe-an-open-source-framework-for-internal-coding-agents/\">https://blog.langchain.com/open-swe-an-open-source-framework-for-internal-coding-agen...",
-      "published": "2026-03-18T13:07:28+00:00",
-      "domain": "blog.langchain.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Brain Computer Interface Enables Rapid Communication for People with Paralysis",
-      "link": "https://www.massgeneralbrigham.org/en/about/newsroom/press-releases/brain-computer-interface-enables-rapid-communication-for-paralyzed-people",
-      "summary": "<p>Article URL: <a href=\"https://www.massgeneralbrigham.org/en/about/newsroom/press-releases/brain-computer-interface-enables-rapid-communication-for-paralyzed-people\">https://www.massgeneralbrigham.o...",
-      "published": "2026-03-18T13:07:16+00:00",
-      "domain": "massgeneralbrigham.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Can Companies Buy Their Way Into the S&P 500?",
-      "link": "https://www.project-syndicate.org/commentary/new-study-asks-whether-stock-index-membership-is-for-sale-by-shang-jin-wei-2026-03",
-      "summary": "<p>Article URL: <a href=\"https://www.project-syndicate.org/commentary/new-study-asks-whether-stock-index-membership-is-for-sale-by-shang-jin-wei-2026-03\">https://www.project-syndicate.org/commentary/n...",
-      "published": "2026-03-18T13:07:07+00:00",
-      "domain": "project-syndicate.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Ask HN: What's the costliest mistake you've made with LLM agents in production?",
-      "link": "https://news.ycombinator.com/item?id=47425323",
-      "summary": "<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47425323\">https://news.ycombinator.com/item?id=47425323</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>...",
-      "published": "2026-03-18T13:06:20+00:00",
-      "domain": "news.ycombinator.com",
+      "title": "AI coding is gambling",
+      "link": "https://notes.visaint.space/ai-coding-is-gambling/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47428541\">Comments</a>...",
+      "published": "2026-03-18T17:22:02+00:00",
+      "domain": "notes.visaint.space",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -493,6 +487,118 @@
   ],
   "all_articles": [
     {
+      "title": "OFAC Sanctions DPRK IT Worker Network Funding WMD Programs Through Fake Remote Jobs",
+      "link": "https://thehackernews.com/2026/03/ofac-sanctions-dprk-it-worker-network.html",
+      "summary": "The U.S. Department of the Treasury's Office of Foreign Assets Control (OFAC) has sanctioned six individuals and two entities for their involvement in the Democratic People's Republic of Korea (DPRK) ...",
+      "published": "2026-03-18T22:56:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Interlock Ransomware Exploits Cisco FMC Zero-Day CVE-2026-20131 for Root Access",
+      "link": "https://thehackernews.com/2026/03/interlock-ransomware-exploits-cisco-fmc.html",
+      "summary": "Amazon Threat Intelligence is warning of an active Interlock ransomware campaign that's exploiting a recently disclosed critical security flaw in Cisco Secure Firewall Management Center (FMC) Software...",
+      "published": "2026-03-18T21:30:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "How to Not Get Hacked Through File Uploads",
+      "link": "https://www.eliranturgeman.com/2026/03/14/uploads-attack-surface/",
+      "summary": "<p>Article URL: <a href=\"https://www.eliranturgeman.com/2026/03/14/uploads-attack-surface/\">https://www.eliranturgeman.com/2026/03/14/uploads-attack-surface/</a></p>\n<p>Comments URL: <a href=\"https://...",
+      "published": "2026-03-18T18:59:14+00:00",
+      "domain": "eliranturgeman.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Months to minutes: AI feature-gap harness",
+      "link": "https://dheer.co/feature-gap-harness/",
+      "summary": "<p>Article URL: <a href=\"https://dheer.co/feature-gap-harness/\">https://dheer.co/feature-gap-harness/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47429948\">https://news.ycom...",
+      "published": "2026-03-18T18:58:31+00:00",
+      "domain": "dheer.co",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Robinhood is making a social network",
+      "link": "https://www.theverge.com/tech/896989/robinhood-social-network-beta",
+      "summary": "<p>Article URL: <a href=\"https://www.theverge.com/tech/896989/robinhood-social-network-beta\">https://www.theverge.com/tech/896989/robinhood-social-network-beta</a></p>\n<p>Comments URL: <a href=\"https:...",
+      "published": "2026-03-18T18:58:06+00:00",
+      "domain": "theverge.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "How to Make Sense of AI",
+      "link": "https://commoncog.com/how-to-make-sense-of-ai/",
+      "summary": "<p>Article URL: <a href=\"https://commoncog.com/how-to-make-sense-of-ai/\">https://commoncog.com/how-to-make-sense-of-ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47429938\"...",
+      "published": "2026-03-18T18:57:48+00:00",
+      "domain": "commoncog.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Silicon Valley Musters Behind-the-Scenes Support for Anthropic",
+      "link": "https://www.nytimes.com/2026/03/18/technology/silicon-valley-anthropic-pentagon.html",
+      "summary": "<p>Article URL: <a href=\"https://www.nytimes.com/2026/03/18/technology/silicon-valley-anthropic-pentagon.html\">https://www.nytimes.com/2026/03/18/technology/silicon-valley-anthropic-pentagon.html</a><...",
+      "published": "2026-03-18T18:57:05+00:00",
+      "domain": "nytimes.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "Critical Unpatched Telnetd Flaw (CVE-2026-32746) Enables Unauthenticated Root RCE",
       "link": "https://thehackernews.com/2026/03/critical-telnetd-flaw-cve-2026-32746.html",
       "summary": "Cybersecurity researchers have disclosed a critical security flaw impacting the GNU InetUtils telnet daemon (telnetd) that could be exploited by an unauthenticated remote attacker to execute arbitrary...",
@@ -525,125 +631,11 @@
       }
     },
     {
-      "title": "9 Critical IP KVM Flaws Enable Unauthenticated Root Access Across Four Vendors",
-      "link": "https://thehackernews.com/2026/03/9-critical-ip-kvm-flaws-enable.html",
-      "summary": "Cybersecurity researchers have warned about the risks posed by low-cost IP KVM (Keyboard, Video, Mouse over Internet Protocol) devices, which can grant attackers extensive control over compromised hos...",
-      "published": "2026-03-18T17:12:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Product Walkthrough: How Mesh CSMA Reveals and Breaks Attack Paths to Crown Jewels",
-      "link": "https://thehackernews.com/2026/03/product-walkthrough-how-mesh-csma.html",
-      "summary": "Security teams today are not short on tools or data. They are overwhelmed by both.&nbsp;\nYet within the terabytes of alerts, exposures, and misconfigurations \u2013 security teams still struggle to underst...",
-      "published": "2026-03-18T16:00:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Ubuntu CVE-2026-3888 Bug Lets Attackers Gain Root via systemd Cleanup Timing Exploit",
-      "link": "https://thehackernews.com/2026/03/ubuntu-cve-2026-3888-bug-lets-attackers.html",
-      "summary": "A high-severity security flaw affecting default installations of Ubuntu Desktop versions 24.04 and later could be exploited to escalate privileges to the root level.\nTracked as CVE-2026-3888 (CVSS sco...",
-      "published": "2026-03-18T13:38:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 10.4,
-        "anarchy": 3.0,
-        "overall": 6.7
-      },
-      "keywords": {
-        "chaos": [
-          "bug"
-        ],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Privacy nightmare, search box on Android requires sharing screen",
-      "link": "https://old.reddit.com/r/Minneapolis/comments/1qfol1e/they_are_planting_people/",
-      "summary": "<p>Article URL: <a href=\"https://old.reddit.com/r/Minneapolis/comments/1qfol1e/they_are_planting_people/\">https://old.reddit.com/r/Minneapolis/comments/1qfol1e/they_are_planting_people/</a></p>\n<p>Com...",
-      "published": "2026-03-18T13:08:29+00:00",
-      "domain": "old.reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Open SWE: An Open-Source Framework for Internal Coding Agents",
-      "link": "https://blog.langchain.com/open-swe-an-open-source-framework-for-internal-coding-agents/",
-      "summary": "<p>Article URL: <a href=\"https://blog.langchain.com/open-swe-an-open-source-framework-for-internal-coding-agents/\">https://blog.langchain.com/open-swe-an-open-source-framework-for-internal-coding-agen...",
-      "published": "2026-03-18T13:07:28+00:00",
-      "domain": "blog.langchain.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Brain Computer Interface Enables Rapid Communication for People with Paralysis",
-      "link": "https://www.massgeneralbrigham.org/en/about/newsroom/press-releases/brain-computer-interface-enables-rapid-communication-for-paralyzed-people",
-      "summary": "<p>Article URL: <a href=\"https://www.massgeneralbrigham.org/en/about/newsroom/press-releases/brain-computer-interface-enables-rapid-communication-for-paralyzed-people\">https://www.massgeneralbrigham.o...",
-      "published": "2026-03-18T13:07:16+00:00",
-      "domain": "massgeneralbrigham.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Can Companies Buy Their Way Into the S&P 500?",
-      "link": "https://www.project-syndicate.org/commentary/new-study-asks-whether-stock-index-membership-is-for-sale-by-shang-jin-wei-2026-03",
-      "summary": "<p>Article URL: <a href=\"https://www.project-syndicate.org/commentary/new-study-asks-whether-stock-index-membership-is-for-sale-by-shang-jin-wei-2026-03\">https://www.project-syndicate.org/commentary/n...",
-      "published": "2026-03-18T13:07:07+00:00",
-      "domain": "project-syndicate.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Ask HN: What's the costliest mistake you've made with LLM agents in production?",
-      "link": "https://news.ycombinator.com/item?id=47425323",
-      "summary": "<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47425323\">https://news.ycombinator.com/item?id=47425323</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>...",
-      "published": "2026-03-18T13:06:20+00:00",
-      "domain": "news.ycombinator.com",
+      "title": "AI coding is gambling",
+      "link": "https://notes.visaint.space/ai-coding-is-gambling/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47428541\">Comments</a>...",
+      "published": "2026-03-18T17:22:02+00:00",
+      "domain": "notes.visaint.space",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
