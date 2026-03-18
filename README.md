@@ -16,15 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### AI Flaws in Amazon Bedrock, LangSmith, and SGLang Enable Data Exfiltration and RCE
-- **Published**: March 17, 2026
-- **Summary**: Cybersecurity researchers have disclosed details of a new method for exfiltrating sensitive data from artificial intelligence (AI) code execution envi...
-- [Read more](https://thehackernews.com/2026/03/ai-flaws-in-amazon-bedrock-langsmith.html)
+### Paint'nt – A headless tribute to paint.exe, in TypeScript
+- **Published**: March 18, 2026
+- **Summary**: https://github.com/RickCarlino/paintnt</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47420898">https://news.yc......
+- [Read more](https://github.com/RickCarlino/paintnt)
 
-### LeakNet Ransomware Uses ClickFix via Hacked Sites, Deploys Deno In-Memory Loader
-- **Published**: March 17, 2026
-- **Summary**: The ransomware operation known as LeakNet has adopted the ClickFix social engineering tactic delivered through compromised websites as an initial acce...
-- [Read more](https://thehackernews.com/2026/03/leaknet-ransomware-uses-clickfix-via.html)
+### TIL Tues: Isotropic radiator [wiki]
+- **Published**: March 18, 2026
+- **Summary**: https://en.wikipedia.org/wiki/Isotropic_radiator</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47420......
+- [Read more](https://en.wikipedia.org/wiki/Isotropic_radiator)
 
 ---
 
