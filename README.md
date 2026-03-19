@@ -16,18 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### CISA Warns of Zimbra, SharePoint Flaw Exploits; Cisco Zero-Day Hit in Ransomware Attacks
+### How Ceros Gives Security Teams Visibility and Control in Claude Code
 - **Published**: March 19, 2026
-- **Summary**: The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has urged government agencies to apply patches for two security flaws impacting Synac...
-- [Read more](https://thehackernews.com/2026/03/cisa-warns-of-zimbra-sharepoint-flaw.html)
+- **Summary**: Security teams have spent years building identity and access controls for human users and service accounts. But a new category of actor has quietly en...
+- [Read more](https://thehackernews.com/2026/03/how-ceros-gives-security-teams.html)
 
-### Cryptomator Is on Sale Now
+### DarkSword iOS Exploit Kit Uses 6 Flaws, 3 Zero-Days for Full Device Takeover
 - **Published**: March 19, 2026
-- **Summary**: 
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47435828">https://news.ycombinator.com/item?id=47435828</a></p>
-<p>Points:......
-- [Read more](https://news.ycombinator.com/item?id=47435828)
+- **Summary**: A new exploit kit for Apple iOS devices designed to steal sensitive data from is being wielded by multiple threat actors since at least November 2025,...
+- [Read more](https://thehackernews.com/2026/03/darksword-ios-exploit-kit-uses-6-flaws.html)
 
 ---
 
