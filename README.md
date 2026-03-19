@@ -16,15 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### OFAC Sanctions DPRK IT Worker Network Funding WMD Programs Through Fake Remote Jobs
-- **Published**: March 18, 2026
-- **Summary**: The U.S. Department of the Treasury's Office of Foreign Assets Control (OFAC) has sanctioned six individuals and two entities for their involvement in...
-- [Read more](https://thehackernews.com/2026/03/ofac-sanctions-dprk-it-worker-network.html)
+### Austin’s surge of new housing construction drove down rents
+- **Published**: March 19, 2026
+- **Summary**: ......
+- **Keywords**: down
+- [Read more](https://www.pew.org/en/research-and-analysis/articles/2026/03/18/austins-surge-of-new-housing-construction-drove-down-rents)
 
-### Interlock Ransomware Exploits Cisco FMC Zero-Day CVE-2026-20131 for Root Access
-- **Published**: March 18, 2026
-- **Summary**: Amazon Threat Intelligence is warning of an active Interlock ransomware campaign that's exploiting a recently disclosed critical security flaw in Cisc...
-- [Read more](https://thehackernews.com/2026/03/interlock-ransomware-exploits-cisco-fmc.html)
+### A sufficiently detailed spec is code
+- **Published**: March 19, 2026
+- **Summary**: https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code</a></p>
+<p>Comments URL: <a href......
+- [Read more](https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code)
 
 ---
 
