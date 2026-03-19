@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### How Ceros Gives Security Teams Visibility and Control in Claude Code
+### ThreatsDay Bulletin: FortiGate RaaS, Citrix Exploits, MCP Abuse, LiveChat Phish & More
 - **Published**: March 19, 2026
-- **Summary**: Security teams have spent years building identity and access controls for human users and service accounts. But a new category of actor has quietly en...
-- [Read more](https://thehackernews.com/2026/03/how-ceros-gives-security-teams.html)
+- **Summary**: ThreatsDay Bulletin is back on The Hacker News, and this week feels off in a familiar way. Nothing loud, nothing breaking everything at once. Just a l...
+- [Read more](https://thehackernews.com/2026/03/threatsday-bulletin-fortigate-raas.html)
 
-### DarkSword iOS Exploit Kit Uses 6 Flaws, 3 Zero-Days for Full Device Takeover
+### We Spoke to Game Devs and All of Them Hate DLSS 5
 - **Published**: March 19, 2026
-- **Summary**: A new exploit kit for Apple iOS devices designed to steal sensitive data from is being wielded by multiple threat actors since at least November 2025,...
-- [Read more](https://thehackernews.com/2026/03/darksword-ios-exploit-kit-uses-6-flaws.html)
+- **Summary**: https://kotaku.com/we-spoke-to-game-devs-and-all-of-them-hate-dlss-5-what-th......
+- [Read more](https://kotaku.com/we-spoke-to-game-devs-and-all-of-them-hate-dlss-5-what-the-f-nvidia-2000680059)
 
 ---
 
