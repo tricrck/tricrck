@@ -16,17 +16,18 @@
 
 ## 🚨 Tech Stories
 
-### Austin’s surge of new housing construction drove down rents
+### CISA Warns of Zimbra, SharePoint Flaw Exploits; Cisco Zero-Day Hit in Ransomware Attacks
 - **Published**: March 19, 2026
-- **Summary**: ......
-- **Keywords**: down
-- [Read more](https://www.pew.org/en/research-and-analysis/articles/2026/03/18/austins-surge-of-new-housing-construction-drove-down-rents)
+- **Summary**: The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has urged government agencies to apply patches for two security flaws impacting Synac...
+- [Read more](https://thehackernews.com/2026/03/cisa-warns-of-zimbra-sharepoint-flaw.html)
 
-### A sufficiently detailed spec is code
+### Cryptomator Is on Sale Now
 - **Published**: March 19, 2026
-- **Summary**: https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code</a></p>
-<p>Comments URL: <a href......
-- [Read more](https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code)
+- **Summary**: 
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47435828">https://news.ycombinator.com/item?id=47435828</a></p>
+<p>Points:......
+- [Read more](https://news.ycombinator.com/item?id=47435828)
 
 ---
 
