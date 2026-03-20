@@ -1,11 +1,29 @@
 {
   "chaos_ranked": [
     {
-      "title": "I Make a Similar Chrome Bookmarks-Manager with Aiohttp",
-      "link": "https://gitlab.com/wcorrales/bookmarks-manager",
-      "summary": "<p>Article URL: <a href=\"https://gitlab.com/wcorrales/bookmarks-manager\">https://gitlab.com/wcorrales/bookmarks-manager</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47449500\"...",
-      "published": "2026-03-20T02:05:04+00:00",
-      "domain": "gitlab.com",
+      "title": "DoJ Disrupts 3 Million-Device IoT Botnets Behind Record 31.4 Tbps Global DDoS Attacks",
+      "link": "https://thehackernews.com/2026/03/doj-disrupts-3-million-device-iot.html",
+      "summary": "The U.S. Department of Justice (DoJ) on Thursday announced the disruption of command-and-control (C2) infrastructure used by several Internet of Things (IoT) botnets like AISURU, Kimwolf, JackSkid, an...",
+      "published": "2026-03-20T11:55:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 12.1,
+        "anarchy": 3.0,
+        "overall": 7.6
+      },
+      "keywords": {
+        "chaos": [
+          "disruption"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Apple Warns Older iPhones Vulnerable to Coruna, DarkSword Exploit Kit Attacks",
+      "link": "https://thehackernews.com/2026/03/apple-warns-older-iphones-vulnerable-to.html",
+      "summary": "Apple is urging users who are still running an outdated version of iOS to update their iPhones to secure against web-based attacks carried out via powerful exploit kits like Coruna and DarkSword.\nThes...",
+      "published": "2026-03-20T10:46:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -17,11 +35,11 @@
       }
     },
     {
-      "title": "Aquasecurity/Trivy GitHub Repository and Homebrew Cask Compromised (again)",
-      "link": "https://opensourcemalware.com/repository/https%3A%2F%2Fgithub.com%2Faquasecurity%2Ftrivy%2F",
-      "summary": "<p>Article URL: <a href=\"https://opensourcemalware.com/repository/https%3A%2F%2Fgithub.com%2Faquasecurity%2Ftrivy%2F\">https://opensourcemalware.com/repository/https%3A%2F%2Fgithub.com%2Faquasecurity%2...",
-      "published": "2026-03-20T02:04:51+00:00",
-      "domain": "opensourcemalware.com",
+      "title": "Claude Code Commands That Improve Developer Workflows",
+      "link": "https://www.toolmesh.ai/news/unlocking-claude-code-hidden-features-advanced-commands",
+      "summary": "<p>Article URL: <a href=\"https://www.toolmesh.ai/news/unlocking-claude-code-hidden-features-advanced-commands\">https://www.toolmesh.ai/news/unlocking-claude-code-hidden-features-advanced-commands</a><...",
+      "published": "2026-03-20T06:46:20+00:00",
+      "domain": "toolmesh.ai",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -33,11 +51,11 @@
       }
     },
     {
-      "title": "Show HN: I built a distributed file store on top of AWS CloudShell",
-      "link": "https://news.ycombinator.com/item?id=47449487",
-      "summary": "<p>AWS CloudShell gives you a free Linux environment with ~1GB of persistent home storage in each region. I wondered: what if you could stitch a bunch of these together into a single erasure-coded sto...",
-      "published": "2026-03-20T02:03:11+00:00",
-      "domain": "news.ycombinator.com",
+      "title": "Welcome to Paris, the City That Said No to Cars",
+      "link": "https://www.bloomberg.com/graphics/2026-paris-transformed-hidalgo/",
+      "summary": "<p>Article URL: <a href=\"https://www.bloomberg.com/graphics/2026-paris-transformed-hidalgo/\">https://www.bloomberg.com/graphics/2026-paris-transformed-hidalgo/</a></p>\n<p>Comments URL: <a href=\"https:...",
+      "published": "2026-03-20T06:43:40+00:00",
+      "domain": "bloomberg.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -49,11 +67,11 @@
       }
     },
     {
-      "title": "Alphabet no longer has a controlling stake in its life sciences business Verily",
-      "link": "https://www.engadget.com/big-tech/alphabet-no-longer-has-a-controlling-stake-in-its-life-sciences-business-verily-221718631.html",
-      "summary": "<p>Article URL: <a href=\"https://www.engadget.com/big-tech/alphabet-no-longer-has-a-controlling-stake-in-its-life-sciences-business-verily-221718631.html\">https://www.engadget.com/big-tech/alphabet-no...",
-      "published": "2026-03-20T02:01:03+00:00",
-      "domain": "engadget.com",
+      "title": "Show HN: Draw RDF exports Draw.io diagrams to RDF graphs",
+      "link": "https://app.diagrams.net",
+      "summary": "<p>Article URL: <a href=\"https://app.diagrams.net\">https://app.diagrams.net</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47451222\">https://news.ycombinator.com/item?id=474512...",
+      "published": "2026-03-20T06:36:37+00:00",
+      "domain": "app.diagrams.net",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -65,11 +83,59 @@
       }
     },
     {
-      "title": "Age Verification Status of Open Source Operating Systems",
-      "link": "https://github.com/BryanLunduke/DoesItAgeVerify",
-      "summary": "<p>Article URL: <a href=\"https://github.com/BryanLunduke/DoesItAgeVerify\">https://github.com/BryanLunduke/DoesItAgeVerify</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4744943...",
-      "published": "2026-03-20T01:56:56+00:00",
-      "domain": "github.com",
+      "title": "Alibaba, Tencent Shares Lose $66B as AI Vision Falls Flat",
+      "link": "https://www.bloomberg.com/news/articles/2026-03-20/alibaba-tencent-shed-66-billion-after-ai-vision-falls-flat",
+      "summary": "<p>Article URL: <a href=\"https://www.bloomberg.com/news/articles/2026-03-20/alibaba-tencent-shed-66-billion-after-ai-vision-falls-flat\">https://www.bloomberg.com/news/articles/2026-03-20/alibaba-tence...",
+      "published": "2026-03-20T06:32:49+00:00",
+      "domain": "bloomberg.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "OpenAI Plans Desktop App Fusing Chat, Coding and Web Browser",
+      "link": "https://www.bloomberg.com/news/articles/2026-03-20/openai-plans-desktop-app-combining-chat-coding-and-web-browsing",
+      "summary": "<p>Article URL: <a href=\"https://www.bloomberg.com/news/articles/2026-03-20/openai-plans-desktop-app-combining-chat-coding-and-web-browsing\">https://www.bloomberg.com/news/articles/2026-03-20/openai-p...",
+      "published": "2026-03-20T06:31:41+00:00",
+      "domain": "bloomberg.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "ArXiv Declares Independence from Cornell",
+      "link": "https://www.science.org/content/article/arxiv-pioneering-preprint-server-declares-independence-cornell",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47450478\">Comments</a>...",
+      "published": "2026-03-20T04:24:11+00:00",
+      "domain": "science.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Full Disclosure: A Third (and Fourth) Azure Sign-In Log Bypass Found",
+      "link": "https://trustedsec.com/blog/full-disclosure-a-third-and-fourth-azure-sign-in-log-bypass-found",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47448994\">Comments</a>...",
+      "published": "2026-03-20T01:09:45+00:00",
+      "domain": "trustedsec.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -86,70 +152,6 @@
       "summary": "Cybersecurity researchers have flagged a new malware dubbed Speagle that hijacks the functionality and infrastructure of a legitimate program called Cobra DocGuard.\n\"Speagle is designed to surreptitio...",
       "published": "2026-03-20T00:46:00+05:30",
       "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Claude Code: Channels",
-      "link": "https://code.claude.com/docs/en/channels",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47448524\">Comments</a>...",
-      "published": "2026-03-20T00:22:08+00:00",
-      "domain": "code.claude.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "54 EDR Killers Use BYOVD to Exploit 34 Signed Vulnerable Drivers and Disable Security",
-      "link": "https://thehackernews.com/2026/03/54-edr-killers-use-byovd-to-exploit-34.html",
-      "summary": "A new analysis of endpoint detection and response (EDR) killers has revealed that 54 of them leverage a technique known as bring your own vulnerable driver (BYOVD) by abusing a total of 34 vulnerable ...",
-      "published": "2026-03-20T00:22:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "RFK Jr. has destroyed over a quarter of health dept's expert panels | Under Kennedy, the health dept. has wiped out 75 advisory boards, corrupted others.",
-      "link": "https://www.reddit.com/r/technology/comments/1ryh7rp/rfk_jr_has_destroyed_over_a_quarter_of_health/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1ryh7rp/rfk_jr_has_destroyed_over_a_quarter_of_health/\"> <img alt=\"RFK Jr. has destroyed over a quarter of health dept's expert p...",
-      "published": "2026-03-20T00:15:39+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Wayland set the Linux Desktop back by 10 years",
-      "link": "https://omar.yt/posts/wayland-set-the-linux-desktop-back-by-10-years",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47448328\">Comments</a>...",
-      "published": "2026-03-20T00:01:40+00:00",
-      "domain": "omar.yt",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -163,11 +165,29 @@
   ],
   "anarchy_ranked": [
     {
-      "title": "I Make a Similar Chrome Bookmarks-Manager with Aiohttp",
-      "link": "https://gitlab.com/wcorrales/bookmarks-manager",
-      "summary": "<p>Article URL: <a href=\"https://gitlab.com/wcorrales/bookmarks-manager\">https://gitlab.com/wcorrales/bookmarks-manager</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47449500\"...",
-      "published": "2026-03-20T02:05:04+00:00",
-      "domain": "gitlab.com",
+      "title": "DoJ Disrupts 3 Million-Device IoT Botnets Behind Record 31.4 Tbps Global DDoS Attacks",
+      "link": "https://thehackernews.com/2026/03/doj-disrupts-3-million-device-iot.html",
+      "summary": "The U.S. Department of Justice (DoJ) on Thursday announced the disruption of command-and-control (C2) infrastructure used by several Internet of Things (IoT) botnets like AISURU, Kimwolf, JackSkid, an...",
+      "published": "2026-03-20T11:55:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 12.1,
+        "anarchy": 3.0,
+        "overall": 7.6
+      },
+      "keywords": {
+        "chaos": [
+          "disruption"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Apple Warns Older iPhones Vulnerable to Coruna, DarkSword Exploit Kit Attacks",
+      "link": "https://thehackernews.com/2026/03/apple-warns-older-iphones-vulnerable-to.html",
+      "summary": "Apple is urging users who are still running an outdated version of iOS to update their iPhones to secure against web-based attacks carried out via powerful exploit kits like Coruna and DarkSword.\nThes...",
+      "published": "2026-03-20T10:46:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -179,11 +199,11 @@
       }
     },
     {
-      "title": "Aquasecurity/Trivy GitHub Repository and Homebrew Cask Compromised (again)",
-      "link": "https://opensourcemalware.com/repository/https%3A%2F%2Fgithub.com%2Faquasecurity%2Ftrivy%2F",
-      "summary": "<p>Article URL: <a href=\"https://opensourcemalware.com/repository/https%3A%2F%2Fgithub.com%2Faquasecurity%2Ftrivy%2F\">https://opensourcemalware.com/repository/https%3A%2F%2Fgithub.com%2Faquasecurity%2...",
-      "published": "2026-03-20T02:04:51+00:00",
-      "domain": "opensourcemalware.com",
+      "title": "Claude Code Commands That Improve Developer Workflows",
+      "link": "https://www.toolmesh.ai/news/unlocking-claude-code-hidden-features-advanced-commands",
+      "summary": "<p>Article URL: <a href=\"https://www.toolmesh.ai/news/unlocking-claude-code-hidden-features-advanced-commands\">https://www.toolmesh.ai/news/unlocking-claude-code-hidden-features-advanced-commands</a><...",
+      "published": "2026-03-20T06:46:20+00:00",
+      "domain": "toolmesh.ai",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -195,11 +215,11 @@
       }
     },
     {
-      "title": "Show HN: I built a distributed file store on top of AWS CloudShell",
-      "link": "https://news.ycombinator.com/item?id=47449487",
-      "summary": "<p>AWS CloudShell gives you a free Linux environment with ~1GB of persistent home storage in each region. I wondered: what if you could stitch a bunch of these together into a single erasure-coded sto...",
-      "published": "2026-03-20T02:03:11+00:00",
-      "domain": "news.ycombinator.com",
+      "title": "Welcome to Paris, the City That Said No to Cars",
+      "link": "https://www.bloomberg.com/graphics/2026-paris-transformed-hidalgo/",
+      "summary": "<p>Article URL: <a href=\"https://www.bloomberg.com/graphics/2026-paris-transformed-hidalgo/\">https://www.bloomberg.com/graphics/2026-paris-transformed-hidalgo/</a></p>\n<p>Comments URL: <a href=\"https:...",
+      "published": "2026-03-20T06:43:40+00:00",
+      "domain": "bloomberg.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -211,11 +231,11 @@
       }
     },
     {
-      "title": "Alphabet no longer has a controlling stake in its life sciences business Verily",
-      "link": "https://www.engadget.com/big-tech/alphabet-no-longer-has-a-controlling-stake-in-its-life-sciences-business-verily-221718631.html",
-      "summary": "<p>Article URL: <a href=\"https://www.engadget.com/big-tech/alphabet-no-longer-has-a-controlling-stake-in-its-life-sciences-business-verily-221718631.html\">https://www.engadget.com/big-tech/alphabet-no...",
-      "published": "2026-03-20T02:01:03+00:00",
-      "domain": "engadget.com",
+      "title": "Show HN: Draw RDF exports Draw.io diagrams to RDF graphs",
+      "link": "https://app.diagrams.net",
+      "summary": "<p>Article URL: <a href=\"https://app.diagrams.net\">https://app.diagrams.net</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47451222\">https://news.ycombinator.com/item?id=474512...",
+      "published": "2026-03-20T06:36:37+00:00",
+      "domain": "app.diagrams.net",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -227,11 +247,59 @@
       }
     },
     {
-      "title": "Age Verification Status of Open Source Operating Systems",
-      "link": "https://github.com/BryanLunduke/DoesItAgeVerify",
-      "summary": "<p>Article URL: <a href=\"https://github.com/BryanLunduke/DoesItAgeVerify\">https://github.com/BryanLunduke/DoesItAgeVerify</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4744943...",
-      "published": "2026-03-20T01:56:56+00:00",
-      "domain": "github.com",
+      "title": "Alibaba, Tencent Shares Lose $66B as AI Vision Falls Flat",
+      "link": "https://www.bloomberg.com/news/articles/2026-03-20/alibaba-tencent-shed-66-billion-after-ai-vision-falls-flat",
+      "summary": "<p>Article URL: <a href=\"https://www.bloomberg.com/news/articles/2026-03-20/alibaba-tencent-shed-66-billion-after-ai-vision-falls-flat\">https://www.bloomberg.com/news/articles/2026-03-20/alibaba-tence...",
+      "published": "2026-03-20T06:32:49+00:00",
+      "domain": "bloomberg.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "OpenAI Plans Desktop App Fusing Chat, Coding and Web Browser",
+      "link": "https://www.bloomberg.com/news/articles/2026-03-20/openai-plans-desktop-app-combining-chat-coding-and-web-browsing",
+      "summary": "<p>Article URL: <a href=\"https://www.bloomberg.com/news/articles/2026-03-20/openai-plans-desktop-app-combining-chat-coding-and-web-browsing\">https://www.bloomberg.com/news/articles/2026-03-20/openai-p...",
+      "published": "2026-03-20T06:31:41+00:00",
+      "domain": "bloomberg.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "ArXiv Declares Independence from Cornell",
+      "link": "https://www.science.org/content/article/arxiv-pioneering-preprint-server-declares-independence-cornell",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47450478\">Comments</a>...",
+      "published": "2026-03-20T04:24:11+00:00",
+      "domain": "science.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Full Disclosure: A Third (and Fourth) Azure Sign-In Log Bypass Found",
+      "link": "https://trustedsec.com/blog/full-disclosure-a-third-and-fourth-azure-sign-in-log-bypass-found",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47448994\">Comments</a>...",
+      "published": "2026-03-20T01:09:45+00:00",
+      "domain": "trustedsec.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -248,70 +316,6 @@
       "summary": "Cybersecurity researchers have flagged a new malware dubbed Speagle that hijacks the functionality and infrastructure of a legitimate program called Cobra DocGuard.\n\"Speagle is designed to surreptitio...",
       "published": "2026-03-20T00:46:00+05:30",
       "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Claude Code: Channels",
-      "link": "https://code.claude.com/docs/en/channels",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47448524\">Comments</a>...",
-      "published": "2026-03-20T00:22:08+00:00",
-      "domain": "code.claude.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "54 EDR Killers Use BYOVD to Exploit 34 Signed Vulnerable Drivers and Disable Security",
-      "link": "https://thehackernews.com/2026/03/54-edr-killers-use-byovd-to-exploit-34.html",
-      "summary": "A new analysis of endpoint detection and response (EDR) killers has revealed that 54 of them leverage a technique known as bring your own vulnerable driver (BYOVD) by abusing a total of 34 vulnerable ...",
-      "published": "2026-03-20T00:22:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "RFK Jr. has destroyed over a quarter of health dept's expert panels | Under Kennedy, the health dept. has wiped out 75 advisory boards, corrupted others.",
-      "link": "https://www.reddit.com/r/technology/comments/1ryh7rp/rfk_jr_has_destroyed_over_a_quarter_of_health/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1ryh7rp/rfk_jr_has_destroyed_over_a_quarter_of_health/\"> <img alt=\"RFK Jr. has destroyed over a quarter of health dept's expert p...",
-      "published": "2026-03-20T00:15:39+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Wayland set the Linux Desktop back by 10 years",
-      "link": "https://omar.yt/posts/wayland-set-the-linux-desktop-back-by-10-years",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47448328\">Comments</a>...",
-      "published": "2026-03-20T00:01:40+00:00",
-      "domain": "omar.yt",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -325,11 +329,29 @@
   ],
   "overall_ranked": [
     {
-      "title": "I Make a Similar Chrome Bookmarks-Manager with Aiohttp",
-      "link": "https://gitlab.com/wcorrales/bookmarks-manager",
-      "summary": "<p>Article URL: <a href=\"https://gitlab.com/wcorrales/bookmarks-manager\">https://gitlab.com/wcorrales/bookmarks-manager</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47449500\"...",
-      "published": "2026-03-20T02:05:04+00:00",
-      "domain": "gitlab.com",
+      "title": "DoJ Disrupts 3 Million-Device IoT Botnets Behind Record 31.4 Tbps Global DDoS Attacks",
+      "link": "https://thehackernews.com/2026/03/doj-disrupts-3-million-device-iot.html",
+      "summary": "The U.S. Department of Justice (DoJ) on Thursday announced the disruption of command-and-control (C2) infrastructure used by several Internet of Things (IoT) botnets like AISURU, Kimwolf, JackSkid, an...",
+      "published": "2026-03-20T11:55:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 12.1,
+        "anarchy": 3.0,
+        "overall": 7.6
+      },
+      "keywords": {
+        "chaos": [
+          "disruption"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Apple Warns Older iPhones Vulnerable to Coruna, DarkSword Exploit Kit Attacks",
+      "link": "https://thehackernews.com/2026/03/apple-warns-older-iphones-vulnerable-to.html",
+      "summary": "Apple is urging users who are still running an outdated version of iOS to update their iPhones to secure against web-based attacks carried out via powerful exploit kits like Coruna and DarkSword.\nThes...",
+      "published": "2026-03-20T10:46:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -341,11 +363,11 @@
       }
     },
     {
-      "title": "Aquasecurity/Trivy GitHub Repository and Homebrew Cask Compromised (again)",
-      "link": "https://opensourcemalware.com/repository/https%3A%2F%2Fgithub.com%2Faquasecurity%2Ftrivy%2F",
-      "summary": "<p>Article URL: <a href=\"https://opensourcemalware.com/repository/https%3A%2F%2Fgithub.com%2Faquasecurity%2Ftrivy%2F\">https://opensourcemalware.com/repository/https%3A%2F%2Fgithub.com%2Faquasecurity%2...",
-      "published": "2026-03-20T02:04:51+00:00",
-      "domain": "opensourcemalware.com",
+      "title": "Claude Code Commands That Improve Developer Workflows",
+      "link": "https://www.toolmesh.ai/news/unlocking-claude-code-hidden-features-advanced-commands",
+      "summary": "<p>Article URL: <a href=\"https://www.toolmesh.ai/news/unlocking-claude-code-hidden-features-advanced-commands\">https://www.toolmesh.ai/news/unlocking-claude-code-hidden-features-advanced-commands</a><...",
+      "published": "2026-03-20T06:46:20+00:00",
+      "domain": "toolmesh.ai",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -357,11 +379,11 @@
       }
     },
     {
-      "title": "Show HN: I built a distributed file store on top of AWS CloudShell",
-      "link": "https://news.ycombinator.com/item?id=47449487",
-      "summary": "<p>AWS CloudShell gives you a free Linux environment with ~1GB of persistent home storage in each region. I wondered: what if you could stitch a bunch of these together into a single erasure-coded sto...",
-      "published": "2026-03-20T02:03:11+00:00",
-      "domain": "news.ycombinator.com",
+      "title": "Welcome to Paris, the City That Said No to Cars",
+      "link": "https://www.bloomberg.com/graphics/2026-paris-transformed-hidalgo/",
+      "summary": "<p>Article URL: <a href=\"https://www.bloomberg.com/graphics/2026-paris-transformed-hidalgo/\">https://www.bloomberg.com/graphics/2026-paris-transformed-hidalgo/</a></p>\n<p>Comments URL: <a href=\"https:...",
+      "published": "2026-03-20T06:43:40+00:00",
+      "domain": "bloomberg.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -373,11 +395,11 @@
       }
     },
     {
-      "title": "Alphabet no longer has a controlling stake in its life sciences business Verily",
-      "link": "https://www.engadget.com/big-tech/alphabet-no-longer-has-a-controlling-stake-in-its-life-sciences-business-verily-221718631.html",
-      "summary": "<p>Article URL: <a href=\"https://www.engadget.com/big-tech/alphabet-no-longer-has-a-controlling-stake-in-its-life-sciences-business-verily-221718631.html\">https://www.engadget.com/big-tech/alphabet-no...",
-      "published": "2026-03-20T02:01:03+00:00",
-      "domain": "engadget.com",
+      "title": "Show HN: Draw RDF exports Draw.io diagrams to RDF graphs",
+      "link": "https://app.diagrams.net",
+      "summary": "<p>Article URL: <a href=\"https://app.diagrams.net\">https://app.diagrams.net</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47451222\">https://news.ycombinator.com/item?id=474512...",
+      "published": "2026-03-20T06:36:37+00:00",
+      "domain": "app.diagrams.net",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -389,11 +411,59 @@
       }
     },
     {
-      "title": "Age Verification Status of Open Source Operating Systems",
-      "link": "https://github.com/BryanLunduke/DoesItAgeVerify",
-      "summary": "<p>Article URL: <a href=\"https://github.com/BryanLunduke/DoesItAgeVerify\">https://github.com/BryanLunduke/DoesItAgeVerify</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4744943...",
-      "published": "2026-03-20T01:56:56+00:00",
-      "domain": "github.com",
+      "title": "Alibaba, Tencent Shares Lose $66B as AI Vision Falls Flat",
+      "link": "https://www.bloomberg.com/news/articles/2026-03-20/alibaba-tencent-shed-66-billion-after-ai-vision-falls-flat",
+      "summary": "<p>Article URL: <a href=\"https://www.bloomberg.com/news/articles/2026-03-20/alibaba-tencent-shed-66-billion-after-ai-vision-falls-flat\">https://www.bloomberg.com/news/articles/2026-03-20/alibaba-tence...",
+      "published": "2026-03-20T06:32:49+00:00",
+      "domain": "bloomberg.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "OpenAI Plans Desktop App Fusing Chat, Coding and Web Browser",
+      "link": "https://www.bloomberg.com/news/articles/2026-03-20/openai-plans-desktop-app-combining-chat-coding-and-web-browsing",
+      "summary": "<p>Article URL: <a href=\"https://www.bloomberg.com/news/articles/2026-03-20/openai-plans-desktop-app-combining-chat-coding-and-web-browsing\">https://www.bloomberg.com/news/articles/2026-03-20/openai-p...",
+      "published": "2026-03-20T06:31:41+00:00",
+      "domain": "bloomberg.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "ArXiv Declares Independence from Cornell",
+      "link": "https://www.science.org/content/article/arxiv-pioneering-preprint-server-declares-independence-cornell",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47450478\">Comments</a>...",
+      "published": "2026-03-20T04:24:11+00:00",
+      "domain": "science.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Full Disclosure: A Third (and Fourth) Azure Sign-In Log Bypass Found",
+      "link": "https://trustedsec.com/blog/full-disclosure-a-third-and-fourth-azure-sign-in-log-bypass-found",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47448994\">Comments</a>...",
+      "published": "2026-03-20T01:09:45+00:00",
+      "domain": "trustedsec.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -410,70 +480,6 @@
       "summary": "Cybersecurity researchers have flagged a new malware dubbed Speagle that hijacks the functionality and infrastructure of a legitimate program called Cobra DocGuard.\n\"Speagle is designed to surreptitio...",
       "published": "2026-03-20T00:46:00+05:30",
       "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Claude Code: Channels",
-      "link": "https://code.claude.com/docs/en/channels",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47448524\">Comments</a>...",
-      "published": "2026-03-20T00:22:08+00:00",
-      "domain": "code.claude.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "54 EDR Killers Use BYOVD to Exploit 34 Signed Vulnerable Drivers and Disable Security",
-      "link": "https://thehackernews.com/2026/03/54-edr-killers-use-byovd-to-exploit-34.html",
-      "summary": "A new analysis of endpoint detection and response (EDR) killers has revealed that 54 of them leverage a technique known as bring your own vulnerable driver (BYOVD) by abusing a total of 34 vulnerable ...",
-      "published": "2026-03-20T00:22:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "RFK Jr. has destroyed over a quarter of health dept's expert panels | Under Kennedy, the health dept. has wiped out 75 advisory boards, corrupted others.",
-      "link": "https://www.reddit.com/r/technology/comments/1ryh7rp/rfk_jr_has_destroyed_over_a_quarter_of_health/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1ryh7rp/rfk_jr_has_destroyed_over_a_quarter_of_health/\"> <img alt=\"RFK Jr. has destroyed over a quarter of health dept's expert p...",
-      "published": "2026-03-20T00:15:39+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Wayland set the Linux Desktop back by 10 years",
-      "link": "https://omar.yt/posts/wayland-set-the-linux-desktop-back-by-10-years",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47448328\">Comments</a>...",
-      "published": "2026-03-20T00:01:40+00:00",
-      "domain": "omar.yt",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -487,11 +493,29 @@
   ],
   "all_articles": [
     {
-      "title": "I Make a Similar Chrome Bookmarks-Manager with Aiohttp",
-      "link": "https://gitlab.com/wcorrales/bookmarks-manager",
-      "summary": "<p>Article URL: <a href=\"https://gitlab.com/wcorrales/bookmarks-manager\">https://gitlab.com/wcorrales/bookmarks-manager</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47449500\"...",
-      "published": "2026-03-20T02:05:04+00:00",
-      "domain": "gitlab.com",
+      "title": "DoJ Disrupts 3 Million-Device IoT Botnets Behind Record 31.4 Tbps Global DDoS Attacks",
+      "link": "https://thehackernews.com/2026/03/doj-disrupts-3-million-device-iot.html",
+      "summary": "The U.S. Department of Justice (DoJ) on Thursday announced the disruption of command-and-control (C2) infrastructure used by several Internet of Things (IoT) botnets like AISURU, Kimwolf, JackSkid, an...",
+      "published": "2026-03-20T11:55:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 12.1,
+        "anarchy": 3.0,
+        "overall": 7.6
+      },
+      "keywords": {
+        "chaos": [
+          "disruption"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Apple Warns Older iPhones Vulnerable to Coruna, DarkSword Exploit Kit Attacks",
+      "link": "https://thehackernews.com/2026/03/apple-warns-older-iphones-vulnerable-to.html",
+      "summary": "Apple is urging users who are still running an outdated version of iOS to update their iPhones to secure against web-based attacks carried out via powerful exploit kits like Coruna and DarkSword.\nThes...",
+      "published": "2026-03-20T10:46:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -503,11 +527,11 @@
       }
     },
     {
-      "title": "Aquasecurity/Trivy GitHub Repository and Homebrew Cask Compromised (again)",
-      "link": "https://opensourcemalware.com/repository/https%3A%2F%2Fgithub.com%2Faquasecurity%2Ftrivy%2F",
-      "summary": "<p>Article URL: <a href=\"https://opensourcemalware.com/repository/https%3A%2F%2Fgithub.com%2Faquasecurity%2Ftrivy%2F\">https://opensourcemalware.com/repository/https%3A%2F%2Fgithub.com%2Faquasecurity%2...",
-      "published": "2026-03-20T02:04:51+00:00",
-      "domain": "opensourcemalware.com",
+      "title": "Claude Code Commands That Improve Developer Workflows",
+      "link": "https://www.toolmesh.ai/news/unlocking-claude-code-hidden-features-advanced-commands",
+      "summary": "<p>Article URL: <a href=\"https://www.toolmesh.ai/news/unlocking-claude-code-hidden-features-advanced-commands\">https://www.toolmesh.ai/news/unlocking-claude-code-hidden-features-advanced-commands</a><...",
+      "published": "2026-03-20T06:46:20+00:00",
+      "domain": "toolmesh.ai",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -519,11 +543,11 @@
       }
     },
     {
-      "title": "Show HN: I built a distributed file store on top of AWS CloudShell",
-      "link": "https://news.ycombinator.com/item?id=47449487",
-      "summary": "<p>AWS CloudShell gives you a free Linux environment with ~1GB of persistent home storage in each region. I wondered: what if you could stitch a bunch of these together into a single erasure-coded sto...",
-      "published": "2026-03-20T02:03:11+00:00",
-      "domain": "news.ycombinator.com",
+      "title": "Welcome to Paris, the City That Said No to Cars",
+      "link": "https://www.bloomberg.com/graphics/2026-paris-transformed-hidalgo/",
+      "summary": "<p>Article URL: <a href=\"https://www.bloomberg.com/graphics/2026-paris-transformed-hidalgo/\">https://www.bloomberg.com/graphics/2026-paris-transformed-hidalgo/</a></p>\n<p>Comments URL: <a href=\"https:...",
+      "published": "2026-03-20T06:43:40+00:00",
+      "domain": "bloomberg.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -535,11 +559,11 @@
       }
     },
     {
-      "title": "Alphabet no longer has a controlling stake in its life sciences business Verily",
-      "link": "https://www.engadget.com/big-tech/alphabet-no-longer-has-a-controlling-stake-in-its-life-sciences-business-verily-221718631.html",
-      "summary": "<p>Article URL: <a href=\"https://www.engadget.com/big-tech/alphabet-no-longer-has-a-controlling-stake-in-its-life-sciences-business-verily-221718631.html\">https://www.engadget.com/big-tech/alphabet-no...",
-      "published": "2026-03-20T02:01:03+00:00",
-      "domain": "engadget.com",
+      "title": "Show HN: Draw RDF exports Draw.io diagrams to RDF graphs",
+      "link": "https://app.diagrams.net",
+      "summary": "<p>Article URL: <a href=\"https://app.diagrams.net\">https://app.diagrams.net</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47451222\">https://news.ycombinator.com/item?id=474512...",
+      "published": "2026-03-20T06:36:37+00:00",
+      "domain": "app.diagrams.net",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -551,11 +575,59 @@
       }
     },
     {
-      "title": "Age Verification Status of Open Source Operating Systems",
-      "link": "https://github.com/BryanLunduke/DoesItAgeVerify",
-      "summary": "<p>Article URL: <a href=\"https://github.com/BryanLunduke/DoesItAgeVerify\">https://github.com/BryanLunduke/DoesItAgeVerify</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4744943...",
-      "published": "2026-03-20T01:56:56+00:00",
-      "domain": "github.com",
+      "title": "Alibaba, Tencent Shares Lose $66B as AI Vision Falls Flat",
+      "link": "https://www.bloomberg.com/news/articles/2026-03-20/alibaba-tencent-shed-66-billion-after-ai-vision-falls-flat",
+      "summary": "<p>Article URL: <a href=\"https://www.bloomberg.com/news/articles/2026-03-20/alibaba-tencent-shed-66-billion-after-ai-vision-falls-flat\">https://www.bloomberg.com/news/articles/2026-03-20/alibaba-tence...",
+      "published": "2026-03-20T06:32:49+00:00",
+      "domain": "bloomberg.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "OpenAI Plans Desktop App Fusing Chat, Coding and Web Browser",
+      "link": "https://www.bloomberg.com/news/articles/2026-03-20/openai-plans-desktop-app-combining-chat-coding-and-web-browsing",
+      "summary": "<p>Article URL: <a href=\"https://www.bloomberg.com/news/articles/2026-03-20/openai-plans-desktop-app-combining-chat-coding-and-web-browsing\">https://www.bloomberg.com/news/articles/2026-03-20/openai-p...",
+      "published": "2026-03-20T06:31:41+00:00",
+      "domain": "bloomberg.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "ArXiv Declares Independence from Cornell",
+      "link": "https://www.science.org/content/article/arxiv-pioneering-preprint-server-declares-independence-cornell",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47450478\">Comments</a>...",
+      "published": "2026-03-20T04:24:11+00:00",
+      "domain": "science.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Full Disclosure: A Third (and Fourth) Azure Sign-In Log Bypass Found",
+      "link": "https://trustedsec.com/blog/full-disclosure-a-third-and-fourth-azure-sign-in-log-bypass-found",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47448994\">Comments</a>...",
+      "published": "2026-03-20T01:09:45+00:00",
+      "domain": "trustedsec.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -572,70 +644,6 @@
       "summary": "Cybersecurity researchers have flagged a new malware dubbed Speagle that hijacks the functionality and infrastructure of a legitimate program called Cobra DocGuard.\n\"Speagle is designed to surreptitio...",
       "published": "2026-03-20T00:46:00+05:30",
       "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Claude Code: Channels",
-      "link": "https://code.claude.com/docs/en/channels",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47448524\">Comments</a>...",
-      "published": "2026-03-20T00:22:08+00:00",
-      "domain": "code.claude.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "54 EDR Killers Use BYOVD to Exploit 34 Signed Vulnerable Drivers and Disable Security",
-      "link": "https://thehackernews.com/2026/03/54-edr-killers-use-byovd-to-exploit-34.html",
-      "summary": "A new analysis of endpoint detection and response (EDR) killers has revealed that 54 of them leverage a technique known as bring your own vulnerable driver (BYOVD) by abusing a total of 34 vulnerable ...",
-      "published": "2026-03-20T00:22:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "RFK Jr. has destroyed over a quarter of health dept's expert panels | Under Kennedy, the health dept. has wiped out 75 advisory boards, corrupted others.",
-      "link": "https://www.reddit.com/r/technology/comments/1ryh7rp/rfk_jr_has_destroyed_over_a_quarter_of_health/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1ryh7rp/rfk_jr_has_destroyed_over_a_quarter_of_health/\"> <img alt=\"RFK Jr. has destroyed over a quarter of health dept's expert p...",
-      "published": "2026-03-20T00:15:39+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Wayland set the Linux Desktop back by 10 years",
-      "link": "https://omar.yt/posts/wayland-set-the-linux-desktop-back-by-10-years",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47448328\">Comments</a>...",
-      "published": "2026-03-20T00:01:40+00:00",
-      "domain": "omar.yt",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,

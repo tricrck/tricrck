@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### I Make a Similar Chrome Bookmarks-Manager with Aiohttp
+### DoJ Disrupts 3 Million-Device IoT Botnets Behind Record 31.4 Tbps Global DDoS Attacks
 - **Published**: March 20, 2026
-- **Summary**: https://gitlab.com/wcorrales/bookmarks-manager</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47449500"......
-- [Read more](https://gitlab.com/wcorrales/bookmarks-manager)
+- **Summary**: The U.S. Department of Justice (DoJ) on Thursday announced the disruption of command-and-control (C2) infrastructure used by several Internet of Thing...
+- **Keywords**: disruption
+- [Read more](https://thehackernews.com/2026/03/doj-disrupts-3-million-device-iot.html)
 
-### Aquasecurity/Trivy GitHub Repository and Homebrew Cask Compromised (again)
+### Apple Warns Older iPhones Vulnerable to Coruna, DarkSword Exploit Kit Attacks
 - **Published**: March 20, 2026
-- **Summary**: https://opensourcemalware.com/repository/https%3A%2F%2Fgithub.com%2Faquasecurity%2......
-- [Read more](https://opensourcemalware.com/repository/https%3A%2F%2Fgithub.com%2Faquasecurity%2Ftrivy%2F)
+- **Summary**: Apple is urging users who are still running an outdated version of iOS to update their iPhones to secure against web-based attacks carried out via pow...
+- [Read more](https://thehackernews.com/2026/03/apple-warns-older-iphones-vulnerable-to.html)
 
 ---
 
