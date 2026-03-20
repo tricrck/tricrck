@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### DoJ Disrupts 3 Million-Device IoT Botnets Behind Record 31.4 Tbps Global DDoS Attacks
+### Trivy Security Scanner GitHub Actions Breached, 75 Tags Hijacked to Steal CI/CD Secrets
 - **Published**: March 20, 2026
-- **Summary**: The U.S. Department of Justice (DoJ) on Thursday announced the disruption of command-and-control (C2) infrastructure used by several Internet of Thing...
-- **Keywords**: disruption
-- [Read more](https://thehackernews.com/2026/03/doj-disrupts-3-million-device-iot.html)
+- **Summary**: Trivy, a popular open-source vulnerability scanner maintained by Aqua Security, was compromised a second time within the span of a month to deliver ma...
+- [Read more](https://thehackernews.com/2026/03/trivy-security-scanner-github-actions.html)
 
-### Google Adds 24-Hour Wait for Unverified App Sideloading to Reduce Malware and Scams
+### Critical Langflow Flaw CVE-2026-33017 Triggers Attacks within 20 Hours of Disclosure
 - **Published**: March 20, 2026
-- **Summary**: Google on Thursday announced a new "advanced flow" for Android sideloading that requires a mandatory 24-hour wait period to install apps from unverifi...
-- [Read more](https://thehackernews.com/2026/03/google-adds-24-hour-wait-for-unverified.html)
+- **Summary**: A critical security flaw impacting Langflow has come under active exploitation within 20 hours of public disclosure, highlighting the speed at which t...
+- [Read more](https://thehackernews.com/2026/03/critical-langflow-flaw-cve-2026-33017.html)
 
 ---
 
