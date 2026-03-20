@@ -16,15 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### ThreatsDay Bulletin: FortiGate RaaS, Citrix Exploits, MCP Abuse, LiveChat Phish & More
-- **Published**: March 19, 2026
-- **Summary**: ThreatsDay Bulletin is back on The Hacker News, and this week feels off in a familiar way. Nothing loud, nothing breaking everything at once. Just a l...
-- [Read more](https://thehackernews.com/2026/03/threatsday-bulletin-fortigate-raas.html)
+### I Make a Similar Chrome Bookmarks-Manager with Aiohttp
+- **Published**: March 20, 2026
+- **Summary**: https://gitlab.com/wcorrales/bookmarks-manager</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47449500"......
+- [Read more](https://gitlab.com/wcorrales/bookmarks-manager)
 
-### We Spoke to Game Devs and All of Them Hate DLSS 5
-- **Published**: March 19, 2026
-- **Summary**: https://kotaku.com/we-spoke-to-game-devs-and-all-of-them-hate-dlss-5-what-th......
-- [Read more](https://kotaku.com/we-spoke-to-game-devs-and-all-of-them-hate-dlss-5-what-the-f-nvidia-2000680059)
+### Aquasecurity/Trivy GitHub Repository and Homebrew Cask Compromised (again)
+- **Published**: March 20, 2026
+- **Summary**: https://opensourcemalware.com/repository/https%3A%2F%2Fgithub.com%2Faquasecurity%2......
+- [Read more](https://opensourcemalware.com/repository/https%3A%2F%2Fgithub.com%2Faquasecurity%2Ftrivy%2F)
 
 ---
 
