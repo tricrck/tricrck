@@ -22,10 +22,10 @@
 - **Keywords**: disruption
 - [Read more](https://thehackernews.com/2026/03/doj-disrupts-3-million-device-iot.html)
 
-### Apple Warns Older iPhones Vulnerable to Coruna, DarkSword Exploit Kit Attacks
+### Google Adds 24-Hour Wait for Unverified App Sideloading to Reduce Malware and Scams
 - **Published**: March 20, 2026
-- **Summary**: Apple is urging users who are still running an outdated version of iOS to update their iPhones to secure against web-based attacks carried out via pow...
-- [Read more](https://thehackernews.com/2026/03/apple-warns-older-iphones-vulnerable-to.html)
+- **Summary**: Google on Thursday announced a new "advanced flow" for Android sideloading that requires a mandatory 24-hour wait period to install apps from unverifi...
+- [Read more](https://thehackernews.com/2026/03/google-adds-24-hour-wait-for-unverified.html)
 
 ---
 
