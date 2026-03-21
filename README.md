@@ -16,17 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### MacinAI Local: Building a Model-Agnostic LLM Inference Engine for Mac OS 9
+### What Is ProxyBase MPP?
 - **Published**: March 21, 2026
-- **Summary**: https://oldapplestuff.com/blog/MacinAI-Local/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47463324">h......
-- [Read more](https://oldapplestuff.com/blog/MacinAI-Local/)
+- **Summary**: https://proxybase.xyz/blog/what-is-proxybase-mpp</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47464......
+- [Read more](https://proxybase.xyz/blog/what-is-proxybase-mpp)
 
-### Keep the Tokens Flowing: Lessons from 16 Open-Source RL Libraries
+### Save up to 60% API costs without TOON
 - **Published**: March 21, 2026
-- **Summary**: https://huggingface.co/blog/async-rl-training-landscape</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com......
-- [Read more](https://huggingface.co/blog/async-rl-training-landscape)
+- **Summary**: https://lesstokens.hive-hub.ai/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47464499">https://news.ycombinator.com/......
+- [Read more](https://lesstokens.hive-hub.ai/)
 
 ---
 
