@@ -16,15 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Trivy Security Scanner GitHub Actions Breached, 75 Tags Hijacked to Steal CI/CD Secrets
-- **Published**: March 20, 2026
-- **Summary**: Trivy, a popular open-source vulnerability scanner maintained by Aqua Security, was compromised a second time within the span of a month to deliver ma...
-- [Read more](https://thehackernews.com/2026/03/trivy-security-scanner-github-actions.html)
+### MacinAI Local: Building a Model-Agnostic LLM Inference Engine for Mac OS 9
+- **Published**: March 21, 2026
+- **Summary**: https://oldapplestuff.com/blog/MacinAI-Local/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47463324">h......
+- [Read more](https://oldapplestuff.com/blog/MacinAI-Local/)
 
-### Critical Langflow Flaw CVE-2026-33017 Triggers Attacks within 20 Hours of Disclosure
-- **Published**: March 20, 2026
-- **Summary**: A critical security flaw impacting Langflow has come under active exploitation within 20 hours of public disclosure, highlighting the speed at which t...
-- [Read more](https://thehackernews.com/2026/03/critical-langflow-flaw-cve-2026-33017.html)
+### Keep the Tokens Flowing: Lessons from 16 Open-Source RL Libraries
+- **Published**: March 21, 2026
+- **Summary**: https://huggingface.co/blog/async-rl-training-landscape</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com......
+- [Read more](https://huggingface.co/blog/async-rl-training-landscape)
 
 ---
 

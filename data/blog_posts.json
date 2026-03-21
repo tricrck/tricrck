@@ -1,6 +1,102 @@
 {
   "chaos_ranked": [
     {
+      "title": "MacinAI Local: Building a Model-Agnostic LLM Inference Engine for Mac OS 9",
+      "link": "https://oldapplestuff.com/blog/MacinAI-Local/",
+      "summary": "<p>Article URL: <a href=\"https://oldapplestuff.com/blog/MacinAI-Local/\">https://oldapplestuff.com/blog/MacinAI-Local/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47463324\">h...",
+      "published": "2026-03-21T02:03:03+00:00",
+      "domain": "oldapplestuff.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Keep the Tokens Flowing: Lessons from 16 Open-Source RL Libraries",
+      "link": "https://huggingface.co/blog/async-rl-training-landscape",
+      "summary": "<p>Article URL: <a href=\"https://huggingface.co/blog/async-rl-training-landscape\">https://huggingface.co/blog/async-rl-training-landscape</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com...",
+      "published": "2026-03-21T02:00:59+00:00",
+      "domain": "huggingface.co",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Meta is killing off the Horizon Worlds metaverse. It lost $80B",
+      "link": "https://qz.com/meta-metaverse-mark-zuckerberg-horizon-worlds-ai",
+      "summary": "<p>Article URL: <a href=\"https://qz.com/meta-metaverse-mark-zuckerberg-horizon-worlds-ai\">https://qz.com/meta-metaverse-mark-zuckerberg-horizon-worlds-ai</a></p>\n<p>Comments URL: <a href=\"https://news...",
+      "published": "2026-03-21T01:54:55+00:00",
+      "domain": "qz.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Solve chess checkmate puzzles in the browser",
+      "link": "https://www.chess.com/blog/Ushiyutvj/chess-problems-the-puzzle-side-of-chess-youve-never-tried-until-now",
+      "summary": "<p>Article URL: <a href=\"https://www.chess.com/blog/Ushiyutvj/chess-problems-the-puzzle-side-of-chess-youve-never-tried-until-now\">https://www.chess.com/blog/Ushiyutvj/chess-problems-the-puzzle-side-o...",
+      "published": "2026-03-21T01:51:09+00:00",
+      "domain": "chess.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Libfuse io_uring use-after-free and NULL deref (CVE-2026-33150, CVE-2026-33179)",
+      "link": "https://github.com/libfuse/libfuse/security/advisories/GHSA-qxv7-xrc2-qmfx",
+      "summary": "<p>Article URL: <a href=\"https://github.com/libfuse/libfuse/security/advisories/GHSA-qxv7-xrc2-qmfx\">https://github.com/libfuse/libfuse/security/advisories/GHSA-qxv7-xrc2-qmfx</a></p>\n<p>Comments URL:...",
+      "published": "2026-03-21T01:44:49+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Linux Applications Programming by Example: The Fundamental APIs (2nd Edition)",
+      "link": "https://github.com/arnoldrobbins/LinuxByExample-2e",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47462483\">Comments</a>...",
+      "published": "2026-03-20T23:57:22+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "Trivy Security Scanner GitHub Actions Breached, 75 Tags Hijacked to Steal CI/CD Secrets",
       "link": "https://thehackernews.com/2026/03/trivy-security-scanner-github-actions.html",
       "summary": "Trivy, a popular open-source vulnerability scanner maintained by Aqua Security, was compromised a second time within the span of a month to deliver malware that stole sensitive CI/CD secrets.\nThe late...",
@@ -17,139 +113,43 @@
       }
     },
     {
+      "title": "We rewrote our Rust WASM Parser in TypeScript \u2013 and it got 3x Faster",
+      "link": "https://www.openui.com/blog/rust-wasm-parser",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47461094\">Comments</a>...",
+      "published": "2026-03-20T21:48:06+00:00",
+      "domain": "openui.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "OpenCode \u2013 Open source AI coding agent",
+      "link": "https://opencode.ai/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47460525\">Comments</a>...",
+      "published": "2026-03-20T21:03:52+00:00",
+      "domain": "opencode.ai",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "Critical Langflow Flaw CVE-2026-33017 Triggers Attacks within 20 Hours of Disclosure",
       "link": "https://thehackernews.com/2026/03/critical-langflow-flaw-cve-2026-33017.html",
       "summary": "A critical security flaw impacting Langflow has come under active exploitation within 20 hours of public disclosure, highlighting the speed at which threat actors weaponize newly published vulnerabili...",
       "published": "2026-03-20T20:45:00+05:30",
       "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Beyond Vibe Code",
-      "link": "https://beyondvibecode.com",
-      "summary": "<p>Article URL: <a href=\"https://beyondvibecode.com\">https://beyondvibecode.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47458867\">https://news.ycombinator.com/item?id=47...",
-      "published": "2026-03-20T18:46:04+00:00",
-      "domain": "beyondvibecode.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Broad Timelines",
-      "link": "https://www.lesswrong.com/posts/6pDMLYr7my2QMTz3s/broad-timelines",
-      "summary": "<p>Article URL: <a href=\"https://www.lesswrong.com/posts/6pDMLYr7my2QMTz3s/broad-timelines\">https://www.lesswrong.com/posts/6pDMLYr7my2QMTz3s/broad-timelines</a></p>\n<p>Comments URL: <a href=\"https://...",
-      "published": "2026-03-20T18:44:38+00:00",
-      "domain": "lesswrong.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "What Agents Can't Replace",
-      "link": "https://geoffstearns.com/blog/what-agents-cant-replace/",
-      "summary": "<p>Article URL: <a href=\"https://geoffstearns.com/blog/what-agents-cant-replace/\">https://geoffstearns.com/blog/what-agents-cant-replace/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com...",
-      "published": "2026-03-20T18:44:10+00:00",
-      "domain": "geoffstearns.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Datatype \u2013 variable font that turns text into charts",
-      "link": "https://franktisellano.github.io/datatype/",
-      "summary": "<p>Article URL: <a href=\"https://franktisellano.github.io/datatype/\">https://franktisellano.github.io/datatype/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47458837\">https:/...",
-      "published": "2026-03-20T18:44:03+00:00",
-      "domain": "franktisellano.github.io",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Engineering Management Lessons",
-      "link": "https://defmacro.org/2014/10/03/engman.html",
-      "summary": "<p>Article URL: <a href=\"https://defmacro.org/2014/10/03/engman.html\">https://defmacro.org/2014/10/03/engman.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47458833\">https...",
-      "published": "2026-03-20T18:43:55+00:00",
-      "domain": "defmacro.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "BYD's bet on EVs is paying off as drivers ditch gas amid rising oil prices",
-      "link": "https://electrek.co/2026/03/20/byd-ev-demand-surges-drivers-ditch-gas-amid-rising-oil-prices/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47458549\">Comments</a>...",
-      "published": "2026-03-20T18:19:58+00:00",
-      "domain": "electrek.co",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Launch HN: Sitefire (YC W26) \u2013 Automating actions to improve AI visibility",
-      "link": "https://news.ycombinator.com/item?id=47457472",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47457472\">Comments</a>...",
-      "published": "2026-03-20T17:05:38+00:00",
-      "domain": "news.ycombinator.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Russian troops 'at wits' end' as 'Terminator style' AI robots deployed in Ukrain",
-      "link": "https://www.reddit.com/r/technology/comments/1rz1r4j/russian_troops_at_wits_end_as_terminator_style_ai/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1rz1r4j/russian_troops_at_wits_end_as_terminator_style_ai/\"> <img alt=\"Russian troops 'at wits' end' as 'Terminator style' AI rob...",
-      "published": "2026-03-20T16:57:09+00:00",
-      "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -163,6 +163,102 @@
   ],
   "anarchy_ranked": [
     {
+      "title": "MacinAI Local: Building a Model-Agnostic LLM Inference Engine for Mac OS 9",
+      "link": "https://oldapplestuff.com/blog/MacinAI-Local/",
+      "summary": "<p>Article URL: <a href=\"https://oldapplestuff.com/blog/MacinAI-Local/\">https://oldapplestuff.com/blog/MacinAI-Local/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47463324\">h...",
+      "published": "2026-03-21T02:03:03+00:00",
+      "domain": "oldapplestuff.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Keep the Tokens Flowing: Lessons from 16 Open-Source RL Libraries",
+      "link": "https://huggingface.co/blog/async-rl-training-landscape",
+      "summary": "<p>Article URL: <a href=\"https://huggingface.co/blog/async-rl-training-landscape\">https://huggingface.co/blog/async-rl-training-landscape</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com...",
+      "published": "2026-03-21T02:00:59+00:00",
+      "domain": "huggingface.co",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Meta is killing off the Horizon Worlds metaverse. It lost $80B",
+      "link": "https://qz.com/meta-metaverse-mark-zuckerberg-horizon-worlds-ai",
+      "summary": "<p>Article URL: <a href=\"https://qz.com/meta-metaverse-mark-zuckerberg-horizon-worlds-ai\">https://qz.com/meta-metaverse-mark-zuckerberg-horizon-worlds-ai</a></p>\n<p>Comments URL: <a href=\"https://news...",
+      "published": "2026-03-21T01:54:55+00:00",
+      "domain": "qz.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Solve chess checkmate puzzles in the browser",
+      "link": "https://www.chess.com/blog/Ushiyutvj/chess-problems-the-puzzle-side-of-chess-youve-never-tried-until-now",
+      "summary": "<p>Article URL: <a href=\"https://www.chess.com/blog/Ushiyutvj/chess-problems-the-puzzle-side-of-chess-youve-never-tried-until-now\">https://www.chess.com/blog/Ushiyutvj/chess-problems-the-puzzle-side-o...",
+      "published": "2026-03-21T01:51:09+00:00",
+      "domain": "chess.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Libfuse io_uring use-after-free and NULL deref (CVE-2026-33150, CVE-2026-33179)",
+      "link": "https://github.com/libfuse/libfuse/security/advisories/GHSA-qxv7-xrc2-qmfx",
+      "summary": "<p>Article URL: <a href=\"https://github.com/libfuse/libfuse/security/advisories/GHSA-qxv7-xrc2-qmfx\">https://github.com/libfuse/libfuse/security/advisories/GHSA-qxv7-xrc2-qmfx</a></p>\n<p>Comments URL:...",
+      "published": "2026-03-21T01:44:49+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Linux Applications Programming by Example: The Fundamental APIs (2nd Edition)",
+      "link": "https://github.com/arnoldrobbins/LinuxByExample-2e",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47462483\">Comments</a>...",
+      "published": "2026-03-20T23:57:22+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "Trivy Security Scanner GitHub Actions Breached, 75 Tags Hijacked to Steal CI/CD Secrets",
       "link": "https://thehackernews.com/2026/03/trivy-security-scanner-github-actions.html",
       "summary": "Trivy, a popular open-source vulnerability scanner maintained by Aqua Security, was compromised a second time within the span of a month to deliver malware that stole sensitive CI/CD secrets.\nThe late...",
@@ -179,139 +275,43 @@
       }
     },
     {
+      "title": "We rewrote our Rust WASM Parser in TypeScript \u2013 and it got 3x Faster",
+      "link": "https://www.openui.com/blog/rust-wasm-parser",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47461094\">Comments</a>...",
+      "published": "2026-03-20T21:48:06+00:00",
+      "domain": "openui.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "OpenCode \u2013 Open source AI coding agent",
+      "link": "https://opencode.ai/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47460525\">Comments</a>...",
+      "published": "2026-03-20T21:03:52+00:00",
+      "domain": "opencode.ai",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "Critical Langflow Flaw CVE-2026-33017 Triggers Attacks within 20 Hours of Disclosure",
       "link": "https://thehackernews.com/2026/03/critical-langflow-flaw-cve-2026-33017.html",
       "summary": "A critical security flaw impacting Langflow has come under active exploitation within 20 hours of public disclosure, highlighting the speed at which threat actors weaponize newly published vulnerabili...",
       "published": "2026-03-20T20:45:00+05:30",
       "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Beyond Vibe Code",
-      "link": "https://beyondvibecode.com",
-      "summary": "<p>Article URL: <a href=\"https://beyondvibecode.com\">https://beyondvibecode.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47458867\">https://news.ycombinator.com/item?id=47...",
-      "published": "2026-03-20T18:46:04+00:00",
-      "domain": "beyondvibecode.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Broad Timelines",
-      "link": "https://www.lesswrong.com/posts/6pDMLYr7my2QMTz3s/broad-timelines",
-      "summary": "<p>Article URL: <a href=\"https://www.lesswrong.com/posts/6pDMLYr7my2QMTz3s/broad-timelines\">https://www.lesswrong.com/posts/6pDMLYr7my2QMTz3s/broad-timelines</a></p>\n<p>Comments URL: <a href=\"https://...",
-      "published": "2026-03-20T18:44:38+00:00",
-      "domain": "lesswrong.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "What Agents Can't Replace",
-      "link": "https://geoffstearns.com/blog/what-agents-cant-replace/",
-      "summary": "<p>Article URL: <a href=\"https://geoffstearns.com/blog/what-agents-cant-replace/\">https://geoffstearns.com/blog/what-agents-cant-replace/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com...",
-      "published": "2026-03-20T18:44:10+00:00",
-      "domain": "geoffstearns.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Datatype \u2013 variable font that turns text into charts",
-      "link": "https://franktisellano.github.io/datatype/",
-      "summary": "<p>Article URL: <a href=\"https://franktisellano.github.io/datatype/\">https://franktisellano.github.io/datatype/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47458837\">https:/...",
-      "published": "2026-03-20T18:44:03+00:00",
-      "domain": "franktisellano.github.io",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Engineering Management Lessons",
-      "link": "https://defmacro.org/2014/10/03/engman.html",
-      "summary": "<p>Article URL: <a href=\"https://defmacro.org/2014/10/03/engman.html\">https://defmacro.org/2014/10/03/engman.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47458833\">https...",
-      "published": "2026-03-20T18:43:55+00:00",
-      "domain": "defmacro.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "BYD's bet on EVs is paying off as drivers ditch gas amid rising oil prices",
-      "link": "https://electrek.co/2026/03/20/byd-ev-demand-surges-drivers-ditch-gas-amid-rising-oil-prices/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47458549\">Comments</a>...",
-      "published": "2026-03-20T18:19:58+00:00",
-      "domain": "electrek.co",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Launch HN: Sitefire (YC W26) \u2013 Automating actions to improve AI visibility",
-      "link": "https://news.ycombinator.com/item?id=47457472",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47457472\">Comments</a>...",
-      "published": "2026-03-20T17:05:38+00:00",
-      "domain": "news.ycombinator.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Russian troops 'at wits' end' as 'Terminator style' AI robots deployed in Ukrain",
-      "link": "https://www.reddit.com/r/technology/comments/1rz1r4j/russian_troops_at_wits_end_as_terminator_style_ai/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1rz1r4j/russian_troops_at_wits_end_as_terminator_style_ai/\"> <img alt=\"Russian troops 'at wits' end' as 'Terminator style' AI rob...",
-      "published": "2026-03-20T16:57:09+00:00",
-      "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -325,6 +325,102 @@
   ],
   "overall_ranked": [
     {
+      "title": "MacinAI Local: Building a Model-Agnostic LLM Inference Engine for Mac OS 9",
+      "link": "https://oldapplestuff.com/blog/MacinAI-Local/",
+      "summary": "<p>Article URL: <a href=\"https://oldapplestuff.com/blog/MacinAI-Local/\">https://oldapplestuff.com/blog/MacinAI-Local/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47463324\">h...",
+      "published": "2026-03-21T02:03:03+00:00",
+      "domain": "oldapplestuff.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Keep the Tokens Flowing: Lessons from 16 Open-Source RL Libraries",
+      "link": "https://huggingface.co/blog/async-rl-training-landscape",
+      "summary": "<p>Article URL: <a href=\"https://huggingface.co/blog/async-rl-training-landscape\">https://huggingface.co/blog/async-rl-training-landscape</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com...",
+      "published": "2026-03-21T02:00:59+00:00",
+      "domain": "huggingface.co",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Meta is killing off the Horizon Worlds metaverse. It lost $80B",
+      "link": "https://qz.com/meta-metaverse-mark-zuckerberg-horizon-worlds-ai",
+      "summary": "<p>Article URL: <a href=\"https://qz.com/meta-metaverse-mark-zuckerberg-horizon-worlds-ai\">https://qz.com/meta-metaverse-mark-zuckerberg-horizon-worlds-ai</a></p>\n<p>Comments URL: <a href=\"https://news...",
+      "published": "2026-03-21T01:54:55+00:00",
+      "domain": "qz.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Solve chess checkmate puzzles in the browser",
+      "link": "https://www.chess.com/blog/Ushiyutvj/chess-problems-the-puzzle-side-of-chess-youve-never-tried-until-now",
+      "summary": "<p>Article URL: <a href=\"https://www.chess.com/blog/Ushiyutvj/chess-problems-the-puzzle-side-of-chess-youve-never-tried-until-now\">https://www.chess.com/blog/Ushiyutvj/chess-problems-the-puzzle-side-o...",
+      "published": "2026-03-21T01:51:09+00:00",
+      "domain": "chess.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Libfuse io_uring use-after-free and NULL deref (CVE-2026-33150, CVE-2026-33179)",
+      "link": "https://github.com/libfuse/libfuse/security/advisories/GHSA-qxv7-xrc2-qmfx",
+      "summary": "<p>Article URL: <a href=\"https://github.com/libfuse/libfuse/security/advisories/GHSA-qxv7-xrc2-qmfx\">https://github.com/libfuse/libfuse/security/advisories/GHSA-qxv7-xrc2-qmfx</a></p>\n<p>Comments URL:...",
+      "published": "2026-03-21T01:44:49+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Linux Applications Programming by Example: The Fundamental APIs (2nd Edition)",
+      "link": "https://github.com/arnoldrobbins/LinuxByExample-2e",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47462483\">Comments</a>...",
+      "published": "2026-03-20T23:57:22+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "Trivy Security Scanner GitHub Actions Breached, 75 Tags Hijacked to Steal CI/CD Secrets",
       "link": "https://thehackernews.com/2026/03/trivy-security-scanner-github-actions.html",
       "summary": "Trivy, a popular open-source vulnerability scanner maintained by Aqua Security, was compromised a second time within the span of a month to deliver malware that stole sensitive CI/CD secrets.\nThe late...",
@@ -341,139 +437,43 @@
       }
     },
     {
+      "title": "We rewrote our Rust WASM Parser in TypeScript \u2013 and it got 3x Faster",
+      "link": "https://www.openui.com/blog/rust-wasm-parser",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47461094\">Comments</a>...",
+      "published": "2026-03-20T21:48:06+00:00",
+      "domain": "openui.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "OpenCode \u2013 Open source AI coding agent",
+      "link": "https://opencode.ai/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47460525\">Comments</a>...",
+      "published": "2026-03-20T21:03:52+00:00",
+      "domain": "opencode.ai",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "Critical Langflow Flaw CVE-2026-33017 Triggers Attacks within 20 Hours of Disclosure",
       "link": "https://thehackernews.com/2026/03/critical-langflow-flaw-cve-2026-33017.html",
       "summary": "A critical security flaw impacting Langflow has come under active exploitation within 20 hours of public disclosure, highlighting the speed at which threat actors weaponize newly published vulnerabili...",
       "published": "2026-03-20T20:45:00+05:30",
       "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Beyond Vibe Code",
-      "link": "https://beyondvibecode.com",
-      "summary": "<p>Article URL: <a href=\"https://beyondvibecode.com\">https://beyondvibecode.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47458867\">https://news.ycombinator.com/item?id=47...",
-      "published": "2026-03-20T18:46:04+00:00",
-      "domain": "beyondvibecode.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Broad Timelines",
-      "link": "https://www.lesswrong.com/posts/6pDMLYr7my2QMTz3s/broad-timelines",
-      "summary": "<p>Article URL: <a href=\"https://www.lesswrong.com/posts/6pDMLYr7my2QMTz3s/broad-timelines\">https://www.lesswrong.com/posts/6pDMLYr7my2QMTz3s/broad-timelines</a></p>\n<p>Comments URL: <a href=\"https://...",
-      "published": "2026-03-20T18:44:38+00:00",
-      "domain": "lesswrong.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "What Agents Can't Replace",
-      "link": "https://geoffstearns.com/blog/what-agents-cant-replace/",
-      "summary": "<p>Article URL: <a href=\"https://geoffstearns.com/blog/what-agents-cant-replace/\">https://geoffstearns.com/blog/what-agents-cant-replace/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com...",
-      "published": "2026-03-20T18:44:10+00:00",
-      "domain": "geoffstearns.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Datatype \u2013 variable font that turns text into charts",
-      "link": "https://franktisellano.github.io/datatype/",
-      "summary": "<p>Article URL: <a href=\"https://franktisellano.github.io/datatype/\">https://franktisellano.github.io/datatype/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47458837\">https:/...",
-      "published": "2026-03-20T18:44:03+00:00",
-      "domain": "franktisellano.github.io",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Engineering Management Lessons",
-      "link": "https://defmacro.org/2014/10/03/engman.html",
-      "summary": "<p>Article URL: <a href=\"https://defmacro.org/2014/10/03/engman.html\">https://defmacro.org/2014/10/03/engman.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47458833\">https...",
-      "published": "2026-03-20T18:43:55+00:00",
-      "domain": "defmacro.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "BYD's bet on EVs is paying off as drivers ditch gas amid rising oil prices",
-      "link": "https://electrek.co/2026/03/20/byd-ev-demand-surges-drivers-ditch-gas-amid-rising-oil-prices/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47458549\">Comments</a>...",
-      "published": "2026-03-20T18:19:58+00:00",
-      "domain": "electrek.co",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Launch HN: Sitefire (YC W26) \u2013 Automating actions to improve AI visibility",
-      "link": "https://news.ycombinator.com/item?id=47457472",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47457472\">Comments</a>...",
-      "published": "2026-03-20T17:05:38+00:00",
-      "domain": "news.ycombinator.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Russian troops 'at wits' end' as 'Terminator style' AI robots deployed in Ukrain",
-      "link": "https://www.reddit.com/r/technology/comments/1rz1r4j/russian_troops_at_wits_end_as_terminator_style_ai/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1rz1r4j/russian_troops_at_wits_end_as_terminator_style_ai/\"> <img alt=\"Russian troops 'at wits' end' as 'Terminator style' AI rob...",
-      "published": "2026-03-20T16:57:09+00:00",
-      "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -487,6 +487,102 @@
   ],
   "all_articles": [
     {
+      "title": "MacinAI Local: Building a Model-Agnostic LLM Inference Engine for Mac OS 9",
+      "link": "https://oldapplestuff.com/blog/MacinAI-Local/",
+      "summary": "<p>Article URL: <a href=\"https://oldapplestuff.com/blog/MacinAI-Local/\">https://oldapplestuff.com/blog/MacinAI-Local/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47463324\">h...",
+      "published": "2026-03-21T02:03:03+00:00",
+      "domain": "oldapplestuff.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Keep the Tokens Flowing: Lessons from 16 Open-Source RL Libraries",
+      "link": "https://huggingface.co/blog/async-rl-training-landscape",
+      "summary": "<p>Article URL: <a href=\"https://huggingface.co/blog/async-rl-training-landscape\">https://huggingface.co/blog/async-rl-training-landscape</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com...",
+      "published": "2026-03-21T02:00:59+00:00",
+      "domain": "huggingface.co",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Meta is killing off the Horizon Worlds metaverse. It lost $80B",
+      "link": "https://qz.com/meta-metaverse-mark-zuckerberg-horizon-worlds-ai",
+      "summary": "<p>Article URL: <a href=\"https://qz.com/meta-metaverse-mark-zuckerberg-horizon-worlds-ai\">https://qz.com/meta-metaverse-mark-zuckerberg-horizon-worlds-ai</a></p>\n<p>Comments URL: <a href=\"https://news...",
+      "published": "2026-03-21T01:54:55+00:00",
+      "domain": "qz.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Solve chess checkmate puzzles in the browser",
+      "link": "https://www.chess.com/blog/Ushiyutvj/chess-problems-the-puzzle-side-of-chess-youve-never-tried-until-now",
+      "summary": "<p>Article URL: <a href=\"https://www.chess.com/blog/Ushiyutvj/chess-problems-the-puzzle-side-of-chess-youve-never-tried-until-now\">https://www.chess.com/blog/Ushiyutvj/chess-problems-the-puzzle-side-o...",
+      "published": "2026-03-21T01:51:09+00:00",
+      "domain": "chess.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Libfuse io_uring use-after-free and NULL deref (CVE-2026-33150, CVE-2026-33179)",
+      "link": "https://github.com/libfuse/libfuse/security/advisories/GHSA-qxv7-xrc2-qmfx",
+      "summary": "<p>Article URL: <a href=\"https://github.com/libfuse/libfuse/security/advisories/GHSA-qxv7-xrc2-qmfx\">https://github.com/libfuse/libfuse/security/advisories/GHSA-qxv7-xrc2-qmfx</a></p>\n<p>Comments URL:...",
+      "published": "2026-03-21T01:44:49+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Linux Applications Programming by Example: The Fundamental APIs (2nd Edition)",
+      "link": "https://github.com/arnoldrobbins/LinuxByExample-2e",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47462483\">Comments</a>...",
+      "published": "2026-03-20T23:57:22+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "Trivy Security Scanner GitHub Actions Breached, 75 Tags Hijacked to Steal CI/CD Secrets",
       "link": "https://thehackernews.com/2026/03/trivy-security-scanner-github-actions.html",
       "summary": "Trivy, a popular open-source vulnerability scanner maintained by Aqua Security, was compromised a second time within the span of a month to deliver malware that stole sensitive CI/CD secrets.\nThe late...",
@@ -503,139 +599,43 @@
       }
     },
     {
+      "title": "We rewrote our Rust WASM Parser in TypeScript \u2013 and it got 3x Faster",
+      "link": "https://www.openui.com/blog/rust-wasm-parser",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47461094\">Comments</a>...",
+      "published": "2026-03-20T21:48:06+00:00",
+      "domain": "openui.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "OpenCode \u2013 Open source AI coding agent",
+      "link": "https://opencode.ai/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47460525\">Comments</a>...",
+      "published": "2026-03-20T21:03:52+00:00",
+      "domain": "opencode.ai",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "Critical Langflow Flaw CVE-2026-33017 Triggers Attacks within 20 Hours of Disclosure",
       "link": "https://thehackernews.com/2026/03/critical-langflow-flaw-cve-2026-33017.html",
       "summary": "A critical security flaw impacting Langflow has come under active exploitation within 20 hours of public disclosure, highlighting the speed at which threat actors weaponize newly published vulnerabili...",
       "published": "2026-03-20T20:45:00+05:30",
       "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Beyond Vibe Code",
-      "link": "https://beyondvibecode.com",
-      "summary": "<p>Article URL: <a href=\"https://beyondvibecode.com\">https://beyondvibecode.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47458867\">https://news.ycombinator.com/item?id=47...",
-      "published": "2026-03-20T18:46:04+00:00",
-      "domain": "beyondvibecode.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Broad Timelines",
-      "link": "https://www.lesswrong.com/posts/6pDMLYr7my2QMTz3s/broad-timelines",
-      "summary": "<p>Article URL: <a href=\"https://www.lesswrong.com/posts/6pDMLYr7my2QMTz3s/broad-timelines\">https://www.lesswrong.com/posts/6pDMLYr7my2QMTz3s/broad-timelines</a></p>\n<p>Comments URL: <a href=\"https://...",
-      "published": "2026-03-20T18:44:38+00:00",
-      "domain": "lesswrong.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "What Agents Can't Replace",
-      "link": "https://geoffstearns.com/blog/what-agents-cant-replace/",
-      "summary": "<p>Article URL: <a href=\"https://geoffstearns.com/blog/what-agents-cant-replace/\">https://geoffstearns.com/blog/what-agents-cant-replace/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com...",
-      "published": "2026-03-20T18:44:10+00:00",
-      "domain": "geoffstearns.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Datatype \u2013 variable font that turns text into charts",
-      "link": "https://franktisellano.github.io/datatype/",
-      "summary": "<p>Article URL: <a href=\"https://franktisellano.github.io/datatype/\">https://franktisellano.github.io/datatype/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47458837\">https:/...",
-      "published": "2026-03-20T18:44:03+00:00",
-      "domain": "franktisellano.github.io",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Engineering Management Lessons",
-      "link": "https://defmacro.org/2014/10/03/engman.html",
-      "summary": "<p>Article URL: <a href=\"https://defmacro.org/2014/10/03/engman.html\">https://defmacro.org/2014/10/03/engman.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47458833\">https...",
-      "published": "2026-03-20T18:43:55+00:00",
-      "domain": "defmacro.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "BYD's bet on EVs is paying off as drivers ditch gas amid rising oil prices",
-      "link": "https://electrek.co/2026/03/20/byd-ev-demand-surges-drivers-ditch-gas-amid-rising-oil-prices/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47458549\">Comments</a>...",
-      "published": "2026-03-20T18:19:58+00:00",
-      "domain": "electrek.co",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Launch HN: Sitefire (YC W26) \u2013 Automating actions to improve AI visibility",
-      "link": "https://news.ycombinator.com/item?id=47457472",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47457472\">Comments</a>...",
-      "published": "2026-03-20T17:05:38+00:00",
-      "domain": "news.ycombinator.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Russian troops 'at wits' end' as 'Terminator style' AI robots deployed in Ukrain",
-      "link": "https://www.reddit.com/r/technology/comments/1rz1r4j/russian_troops_at_wits_end_as_terminator_style_ai/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1rz1r4j/russian_troops_at_wits_end_as_terminator_style_ai/\"> <img alt=\"Russian troops 'at wits' end' as 'Terminator style' AI rob...",
-      "published": "2026-03-20T16:57:09+00:00",
-      "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
