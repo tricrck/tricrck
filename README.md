@@ -16,17 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### What Is ProxyBase MPP?
+### Oracle Patches Critical CVE-2026-21992 Enabling Unauthenticated RCE in Identity Manager
 - **Published**: March 21, 2026
-- **Summary**: https://proxybase.xyz/blog/what-is-proxybase-mpp</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47464......
-- [Read more](https://proxybase.xyz/blog/what-is-proxybase-mpp)
+- **Summary**: Oracle has released security updates to address a critical security flaw impacting Identity Manager and Web Services Manager that could be exploited t...
+- [Read more](https://thehackernews.com/2026/03/oracle-patches-critical-cve-2026-21992.html)
 
-### Save up to 60% API costs without TOON
+### Trivy Supply Chain Attack Triggers Self-Spreading CanisterWorm Across 47 npm Packages
 - **Published**: March 21, 2026
-- **Summary**: https://lesstokens.hive-hub.ai/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47464499">https://news.ycombinator.com/......
-- [Read more](https://lesstokens.hive-hub.ai/)
+- **Summary**: The threat actors behind the supply chain attack targeting the popular Trivy scanner are suspected to be conducting follow-on attacks that have led to...
+- [Read more](https://thehackernews.com/2026/03/trivy-supply-chain-attack-triggers-self.html)
 
 ---
 
