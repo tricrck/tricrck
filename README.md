@@ -16,15 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Oracle Patches Critical CVE-2026-21992 Enabling Unauthenticated RCE in Identity Manager
+### FBI Warns Russian Hackers Target Signal, WhatsApp in Mass Phishing Attacks
 - **Published**: March 21, 2026
-- **Summary**: Oracle has released security updates to address a critical security flaw impacting Identity Manager and Web Services Manager that could be exploited t...
-- [Read more](https://thehackernews.com/2026/03/oracle-patches-critical-cve-2026-21992.html)
+- **Summary**: Threat actors affiliated with Russian Intelligence Services are conducting phishing campaigns to compromise commercial messaging applications (CMAs) l...
+- [Read more](https://thehackernews.com/2026/03/fbi-warns-russian-hackers-target-signal.html)
 
-### Trivy Supply Chain Attack Triggers Self-Spreading CanisterWorm Across 47 npm Packages
+### Dishwashing with side effects: Kitchen sponges release microplastics
 - **Published**: March 21, 2026
-- **Summary**: The threat actors behind the supply chain attack targeting the popular Trivy scanner are suspected to be conducting follow-on attacks that have led to...
-- [Read more](https://thehackernews.com/2026/03/trivy-supply-chain-attack-triggers-self.html)
+- **Summary**: https://phys.org/news/2026-03-dishwashing-side-effects-kitchen-sponges.html</a></p>
+<p>Comments UR......
+- [Read more](https://phys.org/news/2026-03-dishwashing-side-effects-kitchen-sponges.html)
 
 ---
 

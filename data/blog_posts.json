@@ -1,6 +1,118 @@
 {
   "chaos_ranked": [
     {
+      "title": "FBI Warns Russian Hackers Target Signal, WhatsApp in Mass Phishing Attacks",
+      "link": "https://thehackernews.com/2026/03/fbi-warns-russian-hackers-target-signal.html",
+      "summary": "Threat actors affiliated with Russian Intelligence Services are conducting phishing campaigns to compromise commercial messaging applications (CMAs) like WhatsApp and Signal to seize control of accoun...",
+      "published": "2026-03-21T18:47:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Dishwashing with side effects: Kitchen sponges release microplastics",
+      "link": "https://phys.org/news/2026-03-dishwashing-side-effects-kitchen-sponges.html",
+      "summary": "<p>Article URL: <a href=\"https://phys.org/news/2026-03-dishwashing-side-effects-kitchen-sponges.html\">https://phys.org/news/2026-03-dishwashing-side-effects-kitchen-sponges.html</a></p>\n<p>Comments UR...",
+      "published": "2026-03-21T18:28:35+00:00",
+      "domain": "phys.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "A circuit breaker for AI agents that fires before the wrong action executes",
+      "link": "https://shoal-production.up.railway.app",
+      "summary": "<p>Article URL: <a href=\"https://shoal-production.up.railway.app\">https://shoal-production.up.railway.app</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47469812\">https://news....",
+      "published": "2026-03-21T18:27:05+00:00",
+      "domain": "shoal-production.up.railway.app",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: DAG-map \u2013 metro map visualization of a DAG",
+      "link": "https://23min.github.io/DAG-map/demo/standalone.html",
+      "summary": "<p>I searched for a library that promised the kind of layout and esthetics that I was after. This has been a recurring \"issue\" for me where I have something very specific in mind but can't seem to be ...",
+      "published": "2026-03-21T18:24:44+00:00",
+      "domain": "23min.github.io",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Was reminded of the folklore piece on negative lines of code",
+      "link": "https://twitter.com/tftc21/status/2034725105285353962",
+      "summary": "<p>Article URL: <a href=\"https://twitter.com/tftc21/status/2034725105285353962\">https://twitter.com/tftc21/status/2034725105285353962</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/ite...",
+      "published": "2026-03-21T18:22:53+00:00",
+      "domain": "twitter.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Former FBI Director Robert Mueller Has Died",
+      "link": "https://apnews.com/article/robert-mueller-fbi-director-trump-russia-investigation-7aca939dc25d4652815376f73e0f9aaf",
+      "summary": "<p>Article URL: <a href=\"https://apnews.com/article/robert-mueller-fbi-director-trump-russia-investigation-7aca939dc25d4652815376f73e0f9aaf\">https://apnews.com/article/robert-mueller-fbi-director-trum...",
+      "published": "2026-03-21T18:21:50+00:00",
+      "domain": "apnews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Passengers who refuse to use headphones can now be kicked off United flights",
+      "link": "https://www.cnn.com/2026/03/21/travel/travel-news-happiest-countries",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47469417\">Comments</a>...",
+      "published": "2026-03-21T17:52:51+00:00",
+      "domain": "cnn.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "Oracle Patches Critical CVE-2026-21992 Enabling Unauthenticated RCE in Identity Manager",
       "link": "https://thehackernews.com/2026/03/oracle-patches-critical-cve-2026-21992.html",
       "summary": "Oracle has released security updates to address a critical security flaw impacting Identity Manager and Web Services Manager that could be exploited to achieve remote code execution.\nThe vulnerability...",
@@ -17,11 +129,11 @@
       }
     },
     {
-      "title": "Trivy Supply Chain Attack Triggers Self-Spreading CanisterWorm Across 47 npm Packages",
-      "link": "https://thehackernews.com/2026/03/trivy-supply-chain-attack-triggers-self.html",
-      "summary": "The threat actors behind the supply chain attack targeting the popular Trivy scanner are suspected to be conducting follow-on attacks that have led to the compromise of a large number of npm packages ...",
-      "published": "2026-03-21T13:55:00+05:30",
-      "domain": "thehackernews.com",
+      "title": "Iran war cuts off helium from Qatar, and shortages will start to bite in a few weeks, threatening chip supply chains that fuel the AI boom",
+      "link": "https://www.reddit.com/r/technology/comments/1rztol1/iran_war_cuts_off_helium_from_qatar_and_shortages/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1rztol1/iran_war_cuts_off_helium_from_qatar_and_shortages/\"> <img alt=\"Iran war cuts off helium from Qatar, and shortages will st...",
+      "published": "2026-03-21T15:02:43+00:00",
+      "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -33,125 +145,11 @@
       }
     },
     {
-      "title": "CISA Flags Apple, Craft CMS, Laravel Bugs in KEV, Orders Patching by April 3, 2026",
-      "link": "https://thehackernews.com/2026/03/cisa-flags-apple-craft-cms-laravel-bugs.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added five security flaws impacting Apple, Craft CMS, and Laravel Livewire to its Known Exploited Vulnerabilities (KEV) catal...",
-      "published": "2026-03-21T13:55:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Context Anchoring",
-      "link": "https://martinfowler.com/articles/reduce-friction-ai/context-anchoring.html",
-      "summary": "<p>Article URL: <a href=\"https://martinfowler.com/articles/reduce-friction-ai/context-anchoring.html\">https://martinfowler.com/articles/reduce-friction-ai/context-anchoring.html</a></p>\n<p>Comments UR...",
-      "published": "2026-03-21T12:44:34+00:00",
-      "domain": "martinfowler.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: Cap the spending of your agents",
-      "link": "https://github.com/day50-dev/capit/",
-      "summary": "<p>Article URL: <a href=\"https://github.com/day50-dev/capit/\">https://github.com/day50-dev/capit/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47466514\">https://news.ycombina...",
-      "published": "2026-03-21T12:43:11+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Interactive NEXRAD point cloud 3D visualization",
-      "link": "https://github.com/dcgrigsby/nexrad",
-      "summary": "<p>Article URL: <a href=\"https://github.com/dcgrigsby/nexrad\">https://github.com/dcgrigsby/nexrad</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47466510\">https://news.ycombina...",
-      "published": "2026-03-21T12:42:47+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Design systems aren't for designers anymore, they're for agents",
-      "link": "https://vibeflow.ai/blog/ai-doesnt-have-bad-taste-you-have-no-system/",
-      "summary": "<p>Article URL: <a href=\"https://vibeflow.ai/blog/ai-doesnt-have-bad-taste-you-have-no-system/\">https://vibeflow.ai/blog/ai-doesnt-have-bad-taste-you-have-no-system/</a></p>\n<p>Comments URL: <a href=\"...",
-      "published": "2026-03-21T12:41:20+00:00",
-      "domain": "vibeflow.ai",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Autonomous AI research agent with Overleaf sync",
-      "link": "https://github.com/nanoAgentTeam/research-claw",
-      "summary": "<p>Article URL: <a href=\"https://github.com/nanoAgentTeam/research-claw\">https://github.com/nanoAgentTeam/research-claw</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47466487\"...",
-      "published": "2026-03-21T12:39:59+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 14.1,
-        "overall": 8.5
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": [
-          "autonomous"
-        ]
-      }
-    },
-    {
-      "title": "Atuin v18.13 \u2013 better search, a PTY proxy, and AI for your shell",
-      "link": "https://blog.atuin.sh/atuin-v18-13/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47465824\">Comments</a>...",
-      "published": "2026-03-21T10:35:20+00:00",
-      "domain": "blog.atuin.sh",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "FFmpeg 101 (2024)",
-      "link": "https://blogs.igalia.com/llepage/ffmpeg-101/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47463547\">Comments</a>...",
-      "published": "2026-03-21T02:47:13+00:00",
-      "domain": "blogs.igalia.com",
+      "title": "Grafeo \u2013 A fast, lean, embeddable graph database built in Rust",
+      "link": "https://grafeo.dev/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47467567\">Comments</a>...",
+      "published": "2026-03-21T14:50:18+00:00",
+      "domain": "grafeo.dev",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -165,21 +163,115 @@
   ],
   "anarchy_ranked": [
     {
-      "title": "Autonomous AI research agent with Overleaf sync",
-      "link": "https://github.com/nanoAgentTeam/research-claw",
-      "summary": "<p>Article URL: <a href=\"https://github.com/nanoAgentTeam/research-claw\">https://github.com/nanoAgentTeam/research-claw</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47466487\"...",
-      "published": "2026-03-21T12:39:59+00:00",
-      "domain": "github.com",
+      "title": "FBI Warns Russian Hackers Target Signal, WhatsApp in Mass Phishing Attacks",
+      "link": "https://thehackernews.com/2026/03/fbi-warns-russian-hackers-target-signal.html",
+      "summary": "Threat actors affiliated with Russian Intelligence Services are conducting phishing campaigns to compromise commercial messaging applications (CMAs) like WhatsApp and Signal to seize control of accoun...",
+      "published": "2026-03-21T18:47:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
-        "anarchy": 14.1,
-        "overall": 8.5
+        "anarchy": 3.0,
+        "overall": 3.0
       },
       "keywords": {
         "chaos": [],
-        "anarchy": [
-          "autonomous"
-        ]
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Dishwashing with side effects: Kitchen sponges release microplastics",
+      "link": "https://phys.org/news/2026-03-dishwashing-side-effects-kitchen-sponges.html",
+      "summary": "<p>Article URL: <a href=\"https://phys.org/news/2026-03-dishwashing-side-effects-kitchen-sponges.html\">https://phys.org/news/2026-03-dishwashing-side-effects-kitchen-sponges.html</a></p>\n<p>Comments UR...",
+      "published": "2026-03-21T18:28:35+00:00",
+      "domain": "phys.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "A circuit breaker for AI agents that fires before the wrong action executes",
+      "link": "https://shoal-production.up.railway.app",
+      "summary": "<p>Article URL: <a href=\"https://shoal-production.up.railway.app\">https://shoal-production.up.railway.app</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47469812\">https://news....",
+      "published": "2026-03-21T18:27:05+00:00",
+      "domain": "shoal-production.up.railway.app",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: DAG-map \u2013 metro map visualization of a DAG",
+      "link": "https://23min.github.io/DAG-map/demo/standalone.html",
+      "summary": "<p>I searched for a library that promised the kind of layout and esthetics that I was after. This has been a recurring \"issue\" for me where I have something very specific in mind but can't seem to be ...",
+      "published": "2026-03-21T18:24:44+00:00",
+      "domain": "23min.github.io",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Was reminded of the folklore piece on negative lines of code",
+      "link": "https://twitter.com/tftc21/status/2034725105285353962",
+      "summary": "<p>Article URL: <a href=\"https://twitter.com/tftc21/status/2034725105285353962\">https://twitter.com/tftc21/status/2034725105285353962</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/ite...",
+      "published": "2026-03-21T18:22:53+00:00",
+      "domain": "twitter.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Former FBI Director Robert Mueller Has Died",
+      "link": "https://apnews.com/article/robert-mueller-fbi-director-trump-russia-investigation-7aca939dc25d4652815376f73e0f9aaf",
+      "summary": "<p>Article URL: <a href=\"https://apnews.com/article/robert-mueller-fbi-director-trump-russia-investigation-7aca939dc25d4652815376f73e0f9aaf\">https://apnews.com/article/robert-mueller-fbi-director-trum...",
+      "published": "2026-03-21T18:21:50+00:00",
+      "domain": "apnews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Passengers who refuse to use headphones can now be kicked off United flights",
+      "link": "https://www.cnn.com/2026/03/21/travel/travel-news-happiest-countries",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47469417\">Comments</a>...",
+      "published": "2026-03-21T17:52:51+00:00",
+      "domain": "cnn.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
       }
     },
     {
@@ -199,11 +291,11 @@
       }
     },
     {
-      "title": "Trivy Supply Chain Attack Triggers Self-Spreading CanisterWorm Across 47 npm Packages",
-      "link": "https://thehackernews.com/2026/03/trivy-supply-chain-attack-triggers-self.html",
-      "summary": "The threat actors behind the supply chain attack targeting the popular Trivy scanner are suspected to be conducting follow-on attacks that have led to the compromise of a large number of npm packages ...",
-      "published": "2026-03-21T13:55:00+05:30",
-      "domain": "thehackernews.com",
+      "title": "Iran war cuts off helium from Qatar, and shortages will start to bite in a few weeks, threatening chip supply chains that fuel the AI boom",
+      "link": "https://www.reddit.com/r/technology/comments/1rztol1/iran_war_cuts_off_helium_from_qatar_and_shortages/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1rztol1/iran_war_cuts_off_helium_from_qatar_and_shortages/\"> <img alt=\"Iran war cuts off helium from Qatar, and shortages will st...",
+      "published": "2026-03-21T15:02:43+00:00",
+      "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -215,107 +307,11 @@
       }
     },
     {
-      "title": "CISA Flags Apple, Craft CMS, Laravel Bugs in KEV, Orders Patching by April 3, 2026",
-      "link": "https://thehackernews.com/2026/03/cisa-flags-apple-craft-cms-laravel-bugs.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added five security flaws impacting Apple, Craft CMS, and Laravel Livewire to its Known Exploited Vulnerabilities (KEV) catal...",
-      "published": "2026-03-21T13:55:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Context Anchoring",
-      "link": "https://martinfowler.com/articles/reduce-friction-ai/context-anchoring.html",
-      "summary": "<p>Article URL: <a href=\"https://martinfowler.com/articles/reduce-friction-ai/context-anchoring.html\">https://martinfowler.com/articles/reduce-friction-ai/context-anchoring.html</a></p>\n<p>Comments UR...",
-      "published": "2026-03-21T12:44:34+00:00",
-      "domain": "martinfowler.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: Cap the spending of your agents",
-      "link": "https://github.com/day50-dev/capit/",
-      "summary": "<p>Article URL: <a href=\"https://github.com/day50-dev/capit/\">https://github.com/day50-dev/capit/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47466514\">https://news.ycombina...",
-      "published": "2026-03-21T12:43:11+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Interactive NEXRAD point cloud 3D visualization",
-      "link": "https://github.com/dcgrigsby/nexrad",
-      "summary": "<p>Article URL: <a href=\"https://github.com/dcgrigsby/nexrad\">https://github.com/dcgrigsby/nexrad</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47466510\">https://news.ycombina...",
-      "published": "2026-03-21T12:42:47+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Design systems aren't for designers anymore, they're for agents",
-      "link": "https://vibeflow.ai/blog/ai-doesnt-have-bad-taste-you-have-no-system/",
-      "summary": "<p>Article URL: <a href=\"https://vibeflow.ai/blog/ai-doesnt-have-bad-taste-you-have-no-system/\">https://vibeflow.ai/blog/ai-doesnt-have-bad-taste-you-have-no-system/</a></p>\n<p>Comments URL: <a href=\"...",
-      "published": "2026-03-21T12:41:20+00:00",
-      "domain": "vibeflow.ai",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Atuin v18.13 \u2013 better search, a PTY proxy, and AI for your shell",
-      "link": "https://blog.atuin.sh/atuin-v18-13/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47465824\">Comments</a>...",
-      "published": "2026-03-21T10:35:20+00:00",
-      "domain": "blog.atuin.sh",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "FFmpeg 101 (2024)",
-      "link": "https://blogs.igalia.com/llepage/ffmpeg-101/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47463547\">Comments</a>...",
-      "published": "2026-03-21T02:47:13+00:00",
-      "domain": "blogs.igalia.com",
+      "title": "Grafeo \u2013 A fast, lean, embeddable graph database built in Rust",
+      "link": "https://grafeo.dev/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47467567\">Comments</a>...",
+      "published": "2026-03-21T14:50:18+00:00",
+      "domain": "grafeo.dev",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -329,21 +325,115 @@
   ],
   "overall_ranked": [
     {
-      "title": "Autonomous AI research agent with Overleaf sync",
-      "link": "https://github.com/nanoAgentTeam/research-claw",
-      "summary": "<p>Article URL: <a href=\"https://github.com/nanoAgentTeam/research-claw\">https://github.com/nanoAgentTeam/research-claw</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47466487\"...",
-      "published": "2026-03-21T12:39:59+00:00",
-      "domain": "github.com",
+      "title": "FBI Warns Russian Hackers Target Signal, WhatsApp in Mass Phishing Attacks",
+      "link": "https://thehackernews.com/2026/03/fbi-warns-russian-hackers-target-signal.html",
+      "summary": "Threat actors affiliated with Russian Intelligence Services are conducting phishing campaigns to compromise commercial messaging applications (CMAs) like WhatsApp and Signal to seize control of accoun...",
+      "published": "2026-03-21T18:47:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
-        "anarchy": 14.1,
-        "overall": 8.5
+        "anarchy": 3.0,
+        "overall": 3.0
       },
       "keywords": {
         "chaos": [],
-        "anarchy": [
-          "autonomous"
-        ]
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Dishwashing with side effects: Kitchen sponges release microplastics",
+      "link": "https://phys.org/news/2026-03-dishwashing-side-effects-kitchen-sponges.html",
+      "summary": "<p>Article URL: <a href=\"https://phys.org/news/2026-03-dishwashing-side-effects-kitchen-sponges.html\">https://phys.org/news/2026-03-dishwashing-side-effects-kitchen-sponges.html</a></p>\n<p>Comments UR...",
+      "published": "2026-03-21T18:28:35+00:00",
+      "domain": "phys.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "A circuit breaker for AI agents that fires before the wrong action executes",
+      "link": "https://shoal-production.up.railway.app",
+      "summary": "<p>Article URL: <a href=\"https://shoal-production.up.railway.app\">https://shoal-production.up.railway.app</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47469812\">https://news....",
+      "published": "2026-03-21T18:27:05+00:00",
+      "domain": "shoal-production.up.railway.app",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: DAG-map \u2013 metro map visualization of a DAG",
+      "link": "https://23min.github.io/DAG-map/demo/standalone.html",
+      "summary": "<p>I searched for a library that promised the kind of layout and esthetics that I was after. This has been a recurring \"issue\" for me where I have something very specific in mind but can't seem to be ...",
+      "published": "2026-03-21T18:24:44+00:00",
+      "domain": "23min.github.io",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Was reminded of the folklore piece on negative lines of code",
+      "link": "https://twitter.com/tftc21/status/2034725105285353962",
+      "summary": "<p>Article URL: <a href=\"https://twitter.com/tftc21/status/2034725105285353962\">https://twitter.com/tftc21/status/2034725105285353962</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/ite...",
+      "published": "2026-03-21T18:22:53+00:00",
+      "domain": "twitter.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Former FBI Director Robert Mueller Has Died",
+      "link": "https://apnews.com/article/robert-mueller-fbi-director-trump-russia-investigation-7aca939dc25d4652815376f73e0f9aaf",
+      "summary": "<p>Article URL: <a href=\"https://apnews.com/article/robert-mueller-fbi-director-trump-russia-investigation-7aca939dc25d4652815376f73e0f9aaf\">https://apnews.com/article/robert-mueller-fbi-director-trum...",
+      "published": "2026-03-21T18:21:50+00:00",
+      "domain": "apnews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Passengers who refuse to use headphones can now be kicked off United flights",
+      "link": "https://www.cnn.com/2026/03/21/travel/travel-news-happiest-countries",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47469417\">Comments</a>...",
+      "published": "2026-03-21T17:52:51+00:00",
+      "domain": "cnn.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
       }
     },
     {
@@ -363,11 +453,11 @@
       }
     },
     {
-      "title": "Trivy Supply Chain Attack Triggers Self-Spreading CanisterWorm Across 47 npm Packages",
-      "link": "https://thehackernews.com/2026/03/trivy-supply-chain-attack-triggers-self.html",
-      "summary": "The threat actors behind the supply chain attack targeting the popular Trivy scanner are suspected to be conducting follow-on attacks that have led to the compromise of a large number of npm packages ...",
-      "published": "2026-03-21T13:55:00+05:30",
-      "domain": "thehackernews.com",
+      "title": "Iran war cuts off helium from Qatar, and shortages will start to bite in a few weeks, threatening chip supply chains that fuel the AI boom",
+      "link": "https://www.reddit.com/r/technology/comments/1rztol1/iran_war_cuts_off_helium_from_qatar_and_shortages/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1rztol1/iran_war_cuts_off_helium_from_qatar_and_shortages/\"> <img alt=\"Iran war cuts off helium from Qatar, and shortages will st...",
+      "published": "2026-03-21T15:02:43+00:00",
+      "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -379,107 +469,11 @@
       }
     },
     {
-      "title": "CISA Flags Apple, Craft CMS, Laravel Bugs in KEV, Orders Patching by April 3, 2026",
-      "link": "https://thehackernews.com/2026/03/cisa-flags-apple-craft-cms-laravel-bugs.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added five security flaws impacting Apple, Craft CMS, and Laravel Livewire to its Known Exploited Vulnerabilities (KEV) catal...",
-      "published": "2026-03-21T13:55:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Context Anchoring",
-      "link": "https://martinfowler.com/articles/reduce-friction-ai/context-anchoring.html",
-      "summary": "<p>Article URL: <a href=\"https://martinfowler.com/articles/reduce-friction-ai/context-anchoring.html\">https://martinfowler.com/articles/reduce-friction-ai/context-anchoring.html</a></p>\n<p>Comments UR...",
-      "published": "2026-03-21T12:44:34+00:00",
-      "domain": "martinfowler.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: Cap the spending of your agents",
-      "link": "https://github.com/day50-dev/capit/",
-      "summary": "<p>Article URL: <a href=\"https://github.com/day50-dev/capit/\">https://github.com/day50-dev/capit/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47466514\">https://news.ycombina...",
-      "published": "2026-03-21T12:43:11+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Interactive NEXRAD point cloud 3D visualization",
-      "link": "https://github.com/dcgrigsby/nexrad",
-      "summary": "<p>Article URL: <a href=\"https://github.com/dcgrigsby/nexrad\">https://github.com/dcgrigsby/nexrad</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47466510\">https://news.ycombina...",
-      "published": "2026-03-21T12:42:47+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Design systems aren't for designers anymore, they're for agents",
-      "link": "https://vibeflow.ai/blog/ai-doesnt-have-bad-taste-you-have-no-system/",
-      "summary": "<p>Article URL: <a href=\"https://vibeflow.ai/blog/ai-doesnt-have-bad-taste-you-have-no-system/\">https://vibeflow.ai/blog/ai-doesnt-have-bad-taste-you-have-no-system/</a></p>\n<p>Comments URL: <a href=\"...",
-      "published": "2026-03-21T12:41:20+00:00",
-      "domain": "vibeflow.ai",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Atuin v18.13 \u2013 better search, a PTY proxy, and AI for your shell",
-      "link": "https://blog.atuin.sh/atuin-v18-13/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47465824\">Comments</a>...",
-      "published": "2026-03-21T10:35:20+00:00",
-      "domain": "blog.atuin.sh",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "FFmpeg 101 (2024)",
-      "link": "https://blogs.igalia.com/llepage/ffmpeg-101/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47463547\">Comments</a>...",
-      "published": "2026-03-21T02:47:13+00:00",
-      "domain": "blogs.igalia.com",
+      "title": "Grafeo \u2013 A fast, lean, embeddable graph database built in Rust",
+      "link": "https://grafeo.dev/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47467567\">Comments</a>...",
+      "published": "2026-03-21T14:50:18+00:00",
+      "domain": "grafeo.dev",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -493,6 +487,118 @@
   ],
   "all_articles": [
     {
+      "title": "FBI Warns Russian Hackers Target Signal, WhatsApp in Mass Phishing Attacks",
+      "link": "https://thehackernews.com/2026/03/fbi-warns-russian-hackers-target-signal.html",
+      "summary": "Threat actors affiliated with Russian Intelligence Services are conducting phishing campaigns to compromise commercial messaging applications (CMAs) like WhatsApp and Signal to seize control of accoun...",
+      "published": "2026-03-21T18:47:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Dishwashing with side effects: Kitchen sponges release microplastics",
+      "link": "https://phys.org/news/2026-03-dishwashing-side-effects-kitchen-sponges.html",
+      "summary": "<p>Article URL: <a href=\"https://phys.org/news/2026-03-dishwashing-side-effects-kitchen-sponges.html\">https://phys.org/news/2026-03-dishwashing-side-effects-kitchen-sponges.html</a></p>\n<p>Comments UR...",
+      "published": "2026-03-21T18:28:35+00:00",
+      "domain": "phys.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "A circuit breaker for AI agents that fires before the wrong action executes",
+      "link": "https://shoal-production.up.railway.app",
+      "summary": "<p>Article URL: <a href=\"https://shoal-production.up.railway.app\">https://shoal-production.up.railway.app</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47469812\">https://news....",
+      "published": "2026-03-21T18:27:05+00:00",
+      "domain": "shoal-production.up.railway.app",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: DAG-map \u2013 metro map visualization of a DAG",
+      "link": "https://23min.github.io/DAG-map/demo/standalone.html",
+      "summary": "<p>I searched for a library that promised the kind of layout and esthetics that I was after. This has been a recurring \"issue\" for me where I have something very specific in mind but can't seem to be ...",
+      "published": "2026-03-21T18:24:44+00:00",
+      "domain": "23min.github.io",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Was reminded of the folklore piece on negative lines of code",
+      "link": "https://twitter.com/tftc21/status/2034725105285353962",
+      "summary": "<p>Article URL: <a href=\"https://twitter.com/tftc21/status/2034725105285353962\">https://twitter.com/tftc21/status/2034725105285353962</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/ite...",
+      "published": "2026-03-21T18:22:53+00:00",
+      "domain": "twitter.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Former FBI Director Robert Mueller Has Died",
+      "link": "https://apnews.com/article/robert-mueller-fbi-director-trump-russia-investigation-7aca939dc25d4652815376f73e0f9aaf",
+      "summary": "<p>Article URL: <a href=\"https://apnews.com/article/robert-mueller-fbi-director-trump-russia-investigation-7aca939dc25d4652815376f73e0f9aaf\">https://apnews.com/article/robert-mueller-fbi-director-trum...",
+      "published": "2026-03-21T18:21:50+00:00",
+      "domain": "apnews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Passengers who refuse to use headphones can now be kicked off United flights",
+      "link": "https://www.cnn.com/2026/03/21/travel/travel-news-happiest-countries",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47469417\">Comments</a>...",
+      "published": "2026-03-21T17:52:51+00:00",
+      "domain": "cnn.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "Oracle Patches Critical CVE-2026-21992 Enabling Unauthenticated RCE in Identity Manager",
       "link": "https://thehackernews.com/2026/03/oracle-patches-critical-cve-2026-21992.html",
       "summary": "Oracle has released security updates to address a critical security flaw impacting Identity Manager and Web Services Manager that could be exploited to achieve remote code execution.\nThe vulnerability...",
@@ -509,11 +615,11 @@
       }
     },
     {
-      "title": "Trivy Supply Chain Attack Triggers Self-Spreading CanisterWorm Across 47 npm Packages",
-      "link": "https://thehackernews.com/2026/03/trivy-supply-chain-attack-triggers-self.html",
-      "summary": "The threat actors behind the supply chain attack targeting the popular Trivy scanner are suspected to be conducting follow-on attacks that have led to the compromise of a large number of npm packages ...",
-      "published": "2026-03-21T13:55:00+05:30",
-      "domain": "thehackernews.com",
+      "title": "Iran war cuts off helium from Qatar, and shortages will start to bite in a few weeks, threatening chip supply chains that fuel the AI boom",
+      "link": "https://www.reddit.com/r/technology/comments/1rztol1/iran_war_cuts_off_helium_from_qatar_and_shortages/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1rztol1/iran_war_cuts_off_helium_from_qatar_and_shortages/\"> <img alt=\"Iran war cuts off helium from Qatar, and shortages will st...",
+      "published": "2026-03-21T15:02:43+00:00",
+      "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -525,125 +631,11 @@
       }
     },
     {
-      "title": "CISA Flags Apple, Craft CMS, Laravel Bugs in KEV, Orders Patching by April 3, 2026",
-      "link": "https://thehackernews.com/2026/03/cisa-flags-apple-craft-cms-laravel-bugs.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added five security flaws impacting Apple, Craft CMS, and Laravel Livewire to its Known Exploited Vulnerabilities (KEV) catal...",
-      "published": "2026-03-21T13:55:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Context Anchoring",
-      "link": "https://martinfowler.com/articles/reduce-friction-ai/context-anchoring.html",
-      "summary": "<p>Article URL: <a href=\"https://martinfowler.com/articles/reduce-friction-ai/context-anchoring.html\">https://martinfowler.com/articles/reduce-friction-ai/context-anchoring.html</a></p>\n<p>Comments UR...",
-      "published": "2026-03-21T12:44:34+00:00",
-      "domain": "martinfowler.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: Cap the spending of your agents",
-      "link": "https://github.com/day50-dev/capit/",
-      "summary": "<p>Article URL: <a href=\"https://github.com/day50-dev/capit/\">https://github.com/day50-dev/capit/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47466514\">https://news.ycombina...",
-      "published": "2026-03-21T12:43:11+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Interactive NEXRAD point cloud 3D visualization",
-      "link": "https://github.com/dcgrigsby/nexrad",
-      "summary": "<p>Article URL: <a href=\"https://github.com/dcgrigsby/nexrad\">https://github.com/dcgrigsby/nexrad</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47466510\">https://news.ycombina...",
-      "published": "2026-03-21T12:42:47+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Design systems aren't for designers anymore, they're for agents",
-      "link": "https://vibeflow.ai/blog/ai-doesnt-have-bad-taste-you-have-no-system/",
-      "summary": "<p>Article URL: <a href=\"https://vibeflow.ai/blog/ai-doesnt-have-bad-taste-you-have-no-system/\">https://vibeflow.ai/blog/ai-doesnt-have-bad-taste-you-have-no-system/</a></p>\n<p>Comments URL: <a href=\"...",
-      "published": "2026-03-21T12:41:20+00:00",
-      "domain": "vibeflow.ai",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Autonomous AI research agent with Overleaf sync",
-      "link": "https://github.com/nanoAgentTeam/research-claw",
-      "summary": "<p>Article URL: <a href=\"https://github.com/nanoAgentTeam/research-claw\">https://github.com/nanoAgentTeam/research-claw</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47466487\"...",
-      "published": "2026-03-21T12:39:59+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 14.1,
-        "overall": 8.5
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": [
-          "autonomous"
-        ]
-      }
-    },
-    {
-      "title": "Atuin v18.13 \u2013 better search, a PTY proxy, and AI for your shell",
-      "link": "https://blog.atuin.sh/atuin-v18-13/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47465824\">Comments</a>...",
-      "published": "2026-03-21T10:35:20+00:00",
-      "domain": "blog.atuin.sh",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "FFmpeg 101 (2024)",
-      "link": "https://blogs.igalia.com/llepage/ffmpeg-101/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47463547\">Comments</a>...",
-      "published": "2026-03-21T02:47:13+00:00",
-      "domain": "blogs.igalia.com",
+      "title": "Grafeo \u2013 A fast, lean, embeddable graph database built in Rust",
+      "link": "https://grafeo.dev/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47467567\">Comments</a>...",
+      "published": "2026-03-21T14:50:18+00:00",
+      "domain": "grafeo.dev",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
