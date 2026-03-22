@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### FBI Warns Russian Hackers Target Signal, WhatsApp in Mass Phishing Attacks
-- **Published**: March 21, 2026
-- **Summary**: Threat actors affiliated with Russian Intelligence Services are conducting phishing campaigns to compromise commercial messaging applications (CMAs) l...
-- [Read more](https://thehackernews.com/2026/03/fbi-warns-russian-hackers-target-signal.html)
+### Show HN: QueryPad – SQL playground that runs in the browser
+- **Published**: March 22, 2026
+- **Summary**: https://github.com/vericontext/querypad</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47473833">https://news.......
+- [Read more](https://github.com/vericontext/querypad)
 
-### Dishwashing with side effects: Kitchen sponges release microplastics
-- **Published**: March 21, 2026
-- **Summary**: https://phys.org/news/2026-03-dishwashing-side-effects-kitchen-sponges.html</a></p>
-<p>Comments UR......
-- [Read more](https://phys.org/news/2026-03-dishwashing-side-effects-kitchen-sponges.html)
+### Show HN: Campfiree – A social platform where users govern everything
+- **Published**: March 22, 2026
+- **Summary**: <p>I built Campfiree because I got tired of platforms treating users as products. On Campfiree, users submit feature ideas and vote on them weekly. Mo...
+- [Read more](https://campfiree.com/)
 
 ---
 
