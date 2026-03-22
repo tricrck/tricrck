@@ -16,16 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### We keep finding the raw material of DNA in asteroids–what's it telling us?
+### Finding My Own Voice
 - **Published**: March 22, 2026
-- **Summary**: https://arstechnica.com/science/2026/03/we-keep-finding-the-......
-- [Read more](https://arstechnica.com/science/2026/03/we-keep-finding-the-raw-material-of-dna-in-asteroids-whats-it-telling-us/)
+- **Summary**: https://www.rogerebert.com/roger-ebert/finding-my-own-voice</a></p>
+<p>Comments URL: <a href="https://news.ycombin......
+- [Read more](https://www.rogerebert.com/roger-ebert/finding-my-own-voice)
 
-### Turns out your coffee addiction may be doing your brain a favor
+### The Gem of XQuery
 - **Published**: March 22, 2026
-- **Summary**: https://www.theregister.com/2026/03/21/turns_out_your_coffee_addiction/</a></p>
-<p>Comments URL: <a hr......
-- [Read more](https://www.theregister.com/2026/03/21/turns_out_your_coffee_addiction/)
+- **Summary**: https://prokeimenon.org/Essays/The_Hidden_Gem_of_XQuery.html</a></p>
+<p>Comments URL: <a href="https://news.ycomb......
+- [Read more](https://prokeimenon.org/Essays/The_Hidden_Gem_of_XQuery.html)
 
 ---
 
