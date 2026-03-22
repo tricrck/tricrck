@@ -16,16 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Show HN: QueryPad – SQL playground that runs in the browser
+### Adapting to AI: Reflections on Productivity
 - **Published**: March 22, 2026
-- **Summary**: https://github.com/vericontext/querypad</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47473833">https://news.......
-- [Read more](https://github.com/vericontext/querypad)
+- **Summary**: https://blog.colinbreck.com/adapting-to-ai-reflections-on-productivity/</a></p>
+<p>Comments URL: <a hr......
+- [Read more](https://blog.colinbreck.com/adapting-to-ai-reflections-on-productivity/)
 
-### Show HN: Campfiree – A social platform where users govern everything
+### Rat King
 - **Published**: March 22, 2026
-- **Summary**: <p>I built Campfiree because I got tired of platforms treating users as products. On Campfiree, users submit feature ideas and vote on them weekly. Mo...
-- [Read more](https://campfiree.com/)
+- **Summary**: https://en.wikipedia.org/wiki/Rat_king</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47475039">https://news.yc......
+- [Read more](https://en.wikipedia.org/wiki/Rat_king)
 
 ---
 
