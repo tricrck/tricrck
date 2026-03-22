@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Adapting to AI: Reflections on Productivity
+### We keep finding the raw material of DNA in asteroids–what's it telling us?
 - **Published**: March 22, 2026
-- **Summary**: https://blog.colinbreck.com/adapting-to-ai-reflections-on-productivity/</a></p>
-<p>Comments URL: <a hr......
-- [Read more](https://blog.colinbreck.com/adapting-to-ai-reflections-on-productivity/)
+- **Summary**: https://arstechnica.com/science/2026/03/we-keep-finding-the-......
+- [Read more](https://arstechnica.com/science/2026/03/we-keep-finding-the-raw-material-of-dna-in-asteroids-whats-it-telling-us/)
 
-### Rat King
+### Turns out your coffee addiction may be doing your brain a favor
 - **Published**: March 22, 2026
-- **Summary**: https://en.wikipedia.org/wiki/Rat_king</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47475039">https://news.yc......
-- [Read more](https://en.wikipedia.org/wiki/Rat_king)
+- **Summary**: https://www.theregister.com/2026/03/21/turns_out_your_coffee_addiction/</a></p>
+<p>Comments URL: <a hr......
+- [Read more](https://www.theregister.com/2026/03/21/turns_out_your_coffee_addiction/)
 
 ---
 
