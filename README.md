@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### 【Open Source and Free】a macOS Menu Bar Cryptocurrency Price Monitor
+### Hackers Exploit CVE-2025-32975 (CVSS 10.0) to Hijack Unpatched Quest KACE SMA Systems
 - **Published**: March 23, 2026
-- **Summary**: https://twitter.com/realedgelab/status/2035902084244291964</a></p>
-<p>Comments URL: <a href="https://news.ycombinat......
-- [Read more](https://twitter.com/realedgelab/status/2035902084244291964)
+- **Summary**: Threat actors are suspected to be exploiting a maximum-severity security flaw impacting Quest KACE Systems Management Appliance (SMA), according to Ar...
+- [Read more](https://thehackernews.com/2026/03/hackers-exploit-cve-2025-32975-cvss-100.html)
 
-### LLMs can't reason and never will
+### NUPA: Private post-scarcity engine with 99.999999% 100M Monte Carlo survival
 - **Published**: March 23, 2026
-- **Summary**: https://pablomarino.com/research_blog/2026/03/23/research5.html</a></p>
-<p>Comments URL: <a href="https://news......
-- [Read more](https://pablomarino.com/research_blog/2026/03/23/research5.html)
+- **Summary**: https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA</a></p>
+<p>Comments URL:......
+- [Read more](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA)
 
 ---
 
