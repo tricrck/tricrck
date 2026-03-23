@@ -1,6 +1,138 @@
 {
   "chaos_ranked": [
     {
+      "title": "\u26a1 Weekly Recap: CI/CD Backdoor, FBI Buys Location Data, WhatsApp Ditches Numbers & More",
+      "link": "https://thehackernews.com/2026/03/weekly-recap-cicd-backdoor-fbi-buys.html",
+      "summary": "Another week, another reminder that the internet is still a mess. Systems people thought were secure are being broken in simple ways, showing many still ignore basic advisories.\nThis edition covers a ...",
+      "published": "2026-03-23T18:44:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 13.9,
+        "anarchy": 3.0,
+        "overall": 8.4
+      },
+      "keywords": {
+        "chaos": [
+          "broken"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: I built a site that maps the web from a bounty hunter's perspective",
+      "link": "https://www.neobotnet.com/",
+      "summary": "<p>I built this because I wanted my own directory of public companies \nrunning bug bounty programs \u2014 where I could see their infrastructure \nin one place and have a real idea of where to start poking ...",
+      "published": "2026-03-23T18:49:02+00:00",
+      "domain": "neobotnet.com",
+      "scores": {
+        "chaos": 9.7,
+        "anarchy": 3.0,
+        "overall": 6.4
+      },
+      "keywords": {
+        "chaos": [
+          "bug"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "OpenAl offering private-equity firms a guaranteed return of 17.5%",
+      "link": "https://finance.yahoo.com/sectors/technology/articles/openai-offers-private-equity-firms-171105238.html",
+      "summary": "<p>Article URL: <a href=\"https://finance.yahoo.com/sectors/technology/articles/openai-offers-private-equity-firms-171105238.html\">https://finance.yahoo.com/sectors/technology/articles/openai-offers-pr...",
+      "published": "2026-03-23T18:52:40+00:00",
+      "domain": "finance.yahoo.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Cursor Park",
+      "link": "https://cursors.place/",
+      "summary": "<p>Article URL: <a href=\"https://cursors.place/\">https://cursors.place/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47493594\">https://news.ycombinator.com/item?id=47493594</...",
+      "published": "2026-03-23T18:51:49+00:00",
+      "domain": "cursors.place",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Security vulnerabilities disclosed in Zero Motorcycles' firmware and mobile app",
+      "link": "https://persephonekarnstein.github.io/post/zero-days/",
+      "summary": "<p>Article URL: <a href=\"https://persephonekarnstein.github.io/post/zero-days/\">https://persephonekarnstein.github.io/post/zero-days/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/ite...",
+      "published": "2026-03-23T18:50:20+00:00",
+      "domain": "persephonekarnstein.github.io",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "OpenPencil: Open-source AI-native vector design tool",
+      "link": "https://github.com/ZSeven-W/openpencil",
+      "summary": "<p>Article URL: <a href=\"https://github.com/ZSeven-W/openpencil\">https://github.com/ZSeven-W/openpencil</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47493551\">https://news.yc...",
+      "published": "2026-03-23T18:47:43+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "I tried Karpathy's Autoresearch on an old research project",
+      "link": "https://ykumar.me/blog/eclip-autoresearch/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47493460\">Comments</a>...",
+      "published": "2026-03-23T18:40:58+00:00",
+      "domain": "ykumar.me",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The machine didn't take your craft. You gave it up",
+      "link": "https://www.davidabram.dev/musings/the-machine-didnt-take-your-craft/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47493312\">Comments</a>...",
+      "published": "2026-03-23T18:27:57+00:00",
+      "domain": "davidabram.dev",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "We Found Eight Attack Vectors Inside AWS Bedrock. Here's What Attackers Can Do with Them",
       "link": "https://thehackernews.com/2026/03/we-found-eight-attack-vectors-inside.html",
       "summary": "AWS Bedrock is Amazon's platform for building AI-powered applications. It gives developers access to foundation models and the tools to connect those models directly to enterprise data and systems. Th...",
@@ -21,134 +153,6 @@
       "link": "https://thehackernews.com/2026/03/microsoft-warns-irs-phishing-hits-29000.html",
       "summary": "Microsoft has warned of fresh campaigns that are capitalizing on the upcoming tax season in the U.S. to harvest credentials and deliver malware.\nThe email campaigns take advantage of the urgency and t...",
       "published": "2026-03-23T16:25:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Trivy Hack Spreads Infostealer via Docker, Triggers Worm and Kubernetes Wiper",
-      "link": "https://thehackernews.com/2026/03/trivy-hack-spreads-infostealer-via.html",
-      "summary": "Cybersecurity researchers have uncovered malicious artifacts distributed via Docker Hub following the Trivy supply chain attack, highlighting the widening blast radius across developer environments.\nT...",
-      "published": "2026-03-23T14:01:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Zellij 0.44.0: Remote Sessions, Windows Support, CLI Automation",
-      "link": "https://zellij.dev/news/remote-sessions-windows-cli/",
-      "summary": "<p>Article URL: <a href=\"https://zellij.dev/news/remote-sessions-windows-cli/\">https://zellij.dev/news/remote-sessions-windows-cli/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?...",
-      "published": "2026-03-23T13:07:36+00:00",
-      "domain": "zellij.dev",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "2nd Cavalry Scouts with Drones, Not Soldiers",
-      "link": "https://dronexl.co/2026/03/22/2nd-cavalry-scouts-drones-soldiers/",
-      "summary": "<p>Article URL: <a href=\"https://dronexl.co/2026/03/22/2nd-cavalry-scouts-drones-soldiers/\">https://dronexl.co/2026/03/22/2nd-cavalry-scouts-drones-soldiers/</a></p>\n<p>Comments URL: <a href=\"https://...",
-      "published": "2026-03-23T13:06:50+00:00",
-      "domain": "dronexl.co",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "OnlyFans owner Leonid Radvinsky dies at 43",
-      "link": "https://www.ft.com/content/3451dc9c-dc09-435e-b32e-8e6feed87ab3",
-      "summary": "<p>Article URL: <a href=\"https://www.ft.com/content/3451dc9c-dc09-435e-b32e-8e6feed87ab3\">https://www.ft.com/content/3451dc9c-dc09-435e-b32e-8e6feed87ab3</a></p>\n<p>Comments URL: <a href=\"https://news...",
-      "published": "2026-03-23T13:06:02+00:00",
-      "domain": "ft.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "An end to hay fever? The new wave of effective cures for seasonal allergies",
-      "link": "https://www.bbc.com/future/article/20260313-hay-fever-the-new-wave-of-effective-cures-for-seasonal-allergies",
-      "summary": "<p>Article URL: <a href=\"https://www.bbc.com/future/article/20260313-hay-fever-the-new-wave-of-effective-cures-for-seasonal-allergies\">https://www.bbc.com/future/article/20260313-hay-fever-the-new-wav...",
-      "published": "2026-03-23T13:05:17+00:00",
-      "domain": "bbc.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Oracle Databases now have declarative SQL assertions",
-      "link": "https://blogs.oracle.com/sql/how-to-define-cross-table-constraints-with-assertions-in-oracle-ai-database",
-      "summary": "<p>Article URL: <a href=\"https://blogs.oracle.com/sql/how-to-define-cross-table-constraints-with-assertions-in-oracle-ai-database\">https://blogs.oracle.com/sql/how-to-define-cross-table-constraints-wi...",
-      "published": "2026-03-23T13:04:52+00:00",
-      "domain": "blogs.oracle.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Some US car buyers envy what they cannot have - affordable Chinese EVs",
-      "link": "https://www.reddit.com/r/technology/comments/1s1etuy/some_us_car_buyers_envy_what_they_cannot_have/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1s1etuy/some_us_car_buyers_envy_what_they_cannot_have/\"> <img alt=\"Some US car buyers envy what they cannot have - affordable Chi...",
-      "published": "2026-03-23T11:58:18+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Hackers Exploit CVE-2025-32975 (CVSS 10.0) to Hijack Unpatched Quest KACE SMA Systems",
-      "link": "https://thehackernews.com/2026/03/hackers-exploit-cve-2025-32975-cvss-100.html",
-      "summary": "Threat actors are suspected to be exploiting a maximum-severity security flaw impacting Quest KACE Systems Management Appliance (SMA), according to Arctic Wolf.\nThe cybersecurity company said it obser...",
-      "published": "2026-03-23T11:45:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -163,6 +167,138 @@
   ],
   "anarchy_ranked": [
     {
+      "title": "OpenAl offering private-equity firms a guaranteed return of 17.5%",
+      "link": "https://finance.yahoo.com/sectors/technology/articles/openai-offers-private-equity-firms-171105238.html",
+      "summary": "<p>Article URL: <a href=\"https://finance.yahoo.com/sectors/technology/articles/openai-offers-private-equity-firms-171105238.html\">https://finance.yahoo.com/sectors/technology/articles/openai-offers-pr...",
+      "published": "2026-03-23T18:52:40+00:00",
+      "domain": "finance.yahoo.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Cursor Park",
+      "link": "https://cursors.place/",
+      "summary": "<p>Article URL: <a href=\"https://cursors.place/\">https://cursors.place/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47493594\">https://news.ycombinator.com/item?id=47493594</...",
+      "published": "2026-03-23T18:51:49+00:00",
+      "domain": "cursors.place",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Security vulnerabilities disclosed in Zero Motorcycles' firmware and mobile app",
+      "link": "https://persephonekarnstein.github.io/post/zero-days/",
+      "summary": "<p>Article URL: <a href=\"https://persephonekarnstein.github.io/post/zero-days/\">https://persephonekarnstein.github.io/post/zero-days/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/ite...",
+      "published": "2026-03-23T18:50:20+00:00",
+      "domain": "persephonekarnstein.github.io",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: I built a site that maps the web from a bounty hunter's perspective",
+      "link": "https://www.neobotnet.com/",
+      "summary": "<p>I built this because I wanted my own directory of public companies \nrunning bug bounty programs \u2014 where I could see their infrastructure \nin one place and have a real idea of where to start poking ...",
+      "published": "2026-03-23T18:49:02+00:00",
+      "domain": "neobotnet.com",
+      "scores": {
+        "chaos": 9.7,
+        "anarchy": 3.0,
+        "overall": 6.4
+      },
+      "keywords": {
+        "chaos": [
+          "bug"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "OpenPencil: Open-source AI-native vector design tool",
+      "link": "https://github.com/ZSeven-W/openpencil",
+      "summary": "<p>Article URL: <a href=\"https://github.com/ZSeven-W/openpencil\">https://github.com/ZSeven-W/openpencil</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47493551\">https://news.yc...",
+      "published": "2026-03-23T18:47:43+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "\u26a1 Weekly Recap: CI/CD Backdoor, FBI Buys Location Data, WhatsApp Ditches Numbers & More",
+      "link": "https://thehackernews.com/2026/03/weekly-recap-cicd-backdoor-fbi-buys.html",
+      "summary": "Another week, another reminder that the internet is still a mess. Systems people thought were secure are being broken in simple ways, showing many still ignore basic advisories.\nThis edition covers a ...",
+      "published": "2026-03-23T18:44:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 13.9,
+        "anarchy": 3.0,
+        "overall": 8.4
+      },
+      "keywords": {
+        "chaos": [
+          "broken"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "I tried Karpathy's Autoresearch on an old research project",
+      "link": "https://ykumar.me/blog/eclip-autoresearch/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47493460\">Comments</a>...",
+      "published": "2026-03-23T18:40:58+00:00",
+      "domain": "ykumar.me",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The machine didn't take your craft. You gave it up",
+      "link": "https://www.davidabram.dev/musings/the-machine-didnt-take-your-craft/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47493312\">Comments</a>...",
+      "published": "2026-03-23T18:27:57+00:00",
+      "domain": "davidabram.dev",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "We Found Eight Attack Vectors Inside AWS Bedrock. Here's What Attackers Can Do with Them",
       "link": "https://thehackernews.com/2026/03/we-found-eight-attack-vectors-inside.html",
       "summary": "AWS Bedrock is Amazon's platform for building AI-powered applications. It gives developers access to foundation models and the tools to connect those models directly to enterprise data and systems. Th...",
@@ -183,134 +319,6 @@
       "link": "https://thehackernews.com/2026/03/microsoft-warns-irs-phishing-hits-29000.html",
       "summary": "Microsoft has warned of fresh campaigns that are capitalizing on the upcoming tax season in the U.S. to harvest credentials and deliver malware.\nThe email campaigns take advantage of the urgency and t...",
       "published": "2026-03-23T16:25:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Trivy Hack Spreads Infostealer via Docker, Triggers Worm and Kubernetes Wiper",
-      "link": "https://thehackernews.com/2026/03/trivy-hack-spreads-infostealer-via.html",
-      "summary": "Cybersecurity researchers have uncovered malicious artifacts distributed via Docker Hub following the Trivy supply chain attack, highlighting the widening blast radius across developer environments.\nT...",
-      "published": "2026-03-23T14:01:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Zellij 0.44.0: Remote Sessions, Windows Support, CLI Automation",
-      "link": "https://zellij.dev/news/remote-sessions-windows-cli/",
-      "summary": "<p>Article URL: <a href=\"https://zellij.dev/news/remote-sessions-windows-cli/\">https://zellij.dev/news/remote-sessions-windows-cli/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?...",
-      "published": "2026-03-23T13:07:36+00:00",
-      "domain": "zellij.dev",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "2nd Cavalry Scouts with Drones, Not Soldiers",
-      "link": "https://dronexl.co/2026/03/22/2nd-cavalry-scouts-drones-soldiers/",
-      "summary": "<p>Article URL: <a href=\"https://dronexl.co/2026/03/22/2nd-cavalry-scouts-drones-soldiers/\">https://dronexl.co/2026/03/22/2nd-cavalry-scouts-drones-soldiers/</a></p>\n<p>Comments URL: <a href=\"https://...",
-      "published": "2026-03-23T13:06:50+00:00",
-      "domain": "dronexl.co",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "OnlyFans owner Leonid Radvinsky dies at 43",
-      "link": "https://www.ft.com/content/3451dc9c-dc09-435e-b32e-8e6feed87ab3",
-      "summary": "<p>Article URL: <a href=\"https://www.ft.com/content/3451dc9c-dc09-435e-b32e-8e6feed87ab3\">https://www.ft.com/content/3451dc9c-dc09-435e-b32e-8e6feed87ab3</a></p>\n<p>Comments URL: <a href=\"https://news...",
-      "published": "2026-03-23T13:06:02+00:00",
-      "domain": "ft.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "An end to hay fever? The new wave of effective cures for seasonal allergies",
-      "link": "https://www.bbc.com/future/article/20260313-hay-fever-the-new-wave-of-effective-cures-for-seasonal-allergies",
-      "summary": "<p>Article URL: <a href=\"https://www.bbc.com/future/article/20260313-hay-fever-the-new-wave-of-effective-cures-for-seasonal-allergies\">https://www.bbc.com/future/article/20260313-hay-fever-the-new-wav...",
-      "published": "2026-03-23T13:05:17+00:00",
-      "domain": "bbc.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Oracle Databases now have declarative SQL assertions",
-      "link": "https://blogs.oracle.com/sql/how-to-define-cross-table-constraints-with-assertions-in-oracle-ai-database",
-      "summary": "<p>Article URL: <a href=\"https://blogs.oracle.com/sql/how-to-define-cross-table-constraints-with-assertions-in-oracle-ai-database\">https://blogs.oracle.com/sql/how-to-define-cross-table-constraints-wi...",
-      "published": "2026-03-23T13:04:52+00:00",
-      "domain": "blogs.oracle.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Some US car buyers envy what they cannot have - affordable Chinese EVs",
-      "link": "https://www.reddit.com/r/technology/comments/1s1etuy/some_us_car_buyers_envy_what_they_cannot_have/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1s1etuy/some_us_car_buyers_envy_what_they_cannot_have/\"> <img alt=\"Some US car buyers envy what they cannot have - affordable Chi...",
-      "published": "2026-03-23T11:58:18+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Hackers Exploit CVE-2025-32975 (CVSS 10.0) to Hijack Unpatched Quest KACE SMA Systems",
-      "link": "https://thehackernews.com/2026/03/hackers-exploit-cve-2025-32975-cvss-100.html",
-      "summary": "Threat actors are suspected to be exploiting a maximum-severity security flaw impacting Quest KACE Systems Management Appliance (SMA), according to Arctic Wolf.\nThe cybersecurity company said it obser...",
-      "published": "2026-03-23T11:45:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -325,6 +333,138 @@
   ],
   "overall_ranked": [
     {
+      "title": "\u26a1 Weekly Recap: CI/CD Backdoor, FBI Buys Location Data, WhatsApp Ditches Numbers & More",
+      "link": "https://thehackernews.com/2026/03/weekly-recap-cicd-backdoor-fbi-buys.html",
+      "summary": "Another week, another reminder that the internet is still a mess. Systems people thought were secure are being broken in simple ways, showing many still ignore basic advisories.\nThis edition covers a ...",
+      "published": "2026-03-23T18:44:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 13.9,
+        "anarchy": 3.0,
+        "overall": 8.4
+      },
+      "keywords": {
+        "chaos": [
+          "broken"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: I built a site that maps the web from a bounty hunter's perspective",
+      "link": "https://www.neobotnet.com/",
+      "summary": "<p>I built this because I wanted my own directory of public companies \nrunning bug bounty programs \u2014 where I could see their infrastructure \nin one place and have a real idea of where to start poking ...",
+      "published": "2026-03-23T18:49:02+00:00",
+      "domain": "neobotnet.com",
+      "scores": {
+        "chaos": 9.7,
+        "anarchy": 3.0,
+        "overall": 6.4
+      },
+      "keywords": {
+        "chaos": [
+          "bug"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "OpenAl offering private-equity firms a guaranteed return of 17.5%",
+      "link": "https://finance.yahoo.com/sectors/technology/articles/openai-offers-private-equity-firms-171105238.html",
+      "summary": "<p>Article URL: <a href=\"https://finance.yahoo.com/sectors/technology/articles/openai-offers-private-equity-firms-171105238.html\">https://finance.yahoo.com/sectors/technology/articles/openai-offers-pr...",
+      "published": "2026-03-23T18:52:40+00:00",
+      "domain": "finance.yahoo.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Cursor Park",
+      "link": "https://cursors.place/",
+      "summary": "<p>Article URL: <a href=\"https://cursors.place/\">https://cursors.place/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47493594\">https://news.ycombinator.com/item?id=47493594</...",
+      "published": "2026-03-23T18:51:49+00:00",
+      "domain": "cursors.place",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Security vulnerabilities disclosed in Zero Motorcycles' firmware and mobile app",
+      "link": "https://persephonekarnstein.github.io/post/zero-days/",
+      "summary": "<p>Article URL: <a href=\"https://persephonekarnstein.github.io/post/zero-days/\">https://persephonekarnstein.github.io/post/zero-days/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/ite...",
+      "published": "2026-03-23T18:50:20+00:00",
+      "domain": "persephonekarnstein.github.io",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "OpenPencil: Open-source AI-native vector design tool",
+      "link": "https://github.com/ZSeven-W/openpencil",
+      "summary": "<p>Article URL: <a href=\"https://github.com/ZSeven-W/openpencil\">https://github.com/ZSeven-W/openpencil</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47493551\">https://news.yc...",
+      "published": "2026-03-23T18:47:43+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "I tried Karpathy's Autoresearch on an old research project",
+      "link": "https://ykumar.me/blog/eclip-autoresearch/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47493460\">Comments</a>...",
+      "published": "2026-03-23T18:40:58+00:00",
+      "domain": "ykumar.me",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The machine didn't take your craft. You gave it up",
+      "link": "https://www.davidabram.dev/musings/the-machine-didnt-take-your-craft/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47493312\">Comments</a>...",
+      "published": "2026-03-23T18:27:57+00:00",
+      "domain": "davidabram.dev",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "We Found Eight Attack Vectors Inside AWS Bedrock. Here's What Attackers Can Do with Them",
       "link": "https://thehackernews.com/2026/03/we-found-eight-attack-vectors-inside.html",
       "summary": "AWS Bedrock is Amazon's platform for building AI-powered applications. It gives developers access to foundation models and the tools to connect those models directly to enterprise data and systems. Th...",
@@ -345,134 +485,6 @@
       "link": "https://thehackernews.com/2026/03/microsoft-warns-irs-phishing-hits-29000.html",
       "summary": "Microsoft has warned of fresh campaigns that are capitalizing on the upcoming tax season in the U.S. to harvest credentials and deliver malware.\nThe email campaigns take advantage of the urgency and t...",
       "published": "2026-03-23T16:25:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Trivy Hack Spreads Infostealer via Docker, Triggers Worm and Kubernetes Wiper",
-      "link": "https://thehackernews.com/2026/03/trivy-hack-spreads-infostealer-via.html",
-      "summary": "Cybersecurity researchers have uncovered malicious artifacts distributed via Docker Hub following the Trivy supply chain attack, highlighting the widening blast radius across developer environments.\nT...",
-      "published": "2026-03-23T14:01:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Zellij 0.44.0: Remote Sessions, Windows Support, CLI Automation",
-      "link": "https://zellij.dev/news/remote-sessions-windows-cli/",
-      "summary": "<p>Article URL: <a href=\"https://zellij.dev/news/remote-sessions-windows-cli/\">https://zellij.dev/news/remote-sessions-windows-cli/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?...",
-      "published": "2026-03-23T13:07:36+00:00",
-      "domain": "zellij.dev",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "2nd Cavalry Scouts with Drones, Not Soldiers",
-      "link": "https://dronexl.co/2026/03/22/2nd-cavalry-scouts-drones-soldiers/",
-      "summary": "<p>Article URL: <a href=\"https://dronexl.co/2026/03/22/2nd-cavalry-scouts-drones-soldiers/\">https://dronexl.co/2026/03/22/2nd-cavalry-scouts-drones-soldiers/</a></p>\n<p>Comments URL: <a href=\"https://...",
-      "published": "2026-03-23T13:06:50+00:00",
-      "domain": "dronexl.co",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "OnlyFans owner Leonid Radvinsky dies at 43",
-      "link": "https://www.ft.com/content/3451dc9c-dc09-435e-b32e-8e6feed87ab3",
-      "summary": "<p>Article URL: <a href=\"https://www.ft.com/content/3451dc9c-dc09-435e-b32e-8e6feed87ab3\">https://www.ft.com/content/3451dc9c-dc09-435e-b32e-8e6feed87ab3</a></p>\n<p>Comments URL: <a href=\"https://news...",
-      "published": "2026-03-23T13:06:02+00:00",
-      "domain": "ft.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "An end to hay fever? The new wave of effective cures for seasonal allergies",
-      "link": "https://www.bbc.com/future/article/20260313-hay-fever-the-new-wave-of-effective-cures-for-seasonal-allergies",
-      "summary": "<p>Article URL: <a href=\"https://www.bbc.com/future/article/20260313-hay-fever-the-new-wave-of-effective-cures-for-seasonal-allergies\">https://www.bbc.com/future/article/20260313-hay-fever-the-new-wav...",
-      "published": "2026-03-23T13:05:17+00:00",
-      "domain": "bbc.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Oracle Databases now have declarative SQL assertions",
-      "link": "https://blogs.oracle.com/sql/how-to-define-cross-table-constraints-with-assertions-in-oracle-ai-database",
-      "summary": "<p>Article URL: <a href=\"https://blogs.oracle.com/sql/how-to-define-cross-table-constraints-with-assertions-in-oracle-ai-database\">https://blogs.oracle.com/sql/how-to-define-cross-table-constraints-wi...",
-      "published": "2026-03-23T13:04:52+00:00",
-      "domain": "blogs.oracle.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Some US car buyers envy what they cannot have - affordable Chinese EVs",
-      "link": "https://www.reddit.com/r/technology/comments/1s1etuy/some_us_car_buyers_envy_what_they_cannot_have/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1s1etuy/some_us_car_buyers_envy_what_they_cannot_have/\"> <img alt=\"Some US car buyers envy what they cannot have - affordable Chi...",
-      "published": "2026-03-23T11:58:18+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Hackers Exploit CVE-2025-32975 (CVSS 10.0) to Hijack Unpatched Quest KACE SMA Systems",
-      "link": "https://thehackernews.com/2026/03/hackers-exploit-cve-2025-32975-cvss-100.html",
-      "summary": "Threat actors are suspected to be exploiting a maximum-severity security flaw impacting Quest KACE Systems Management Appliance (SMA), according to Arctic Wolf.\nThe cybersecurity company said it obser...",
-      "published": "2026-03-23T11:45:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -487,6 +499,138 @@
   ],
   "all_articles": [
     {
+      "title": "OpenAl offering private-equity firms a guaranteed return of 17.5%",
+      "link": "https://finance.yahoo.com/sectors/technology/articles/openai-offers-private-equity-firms-171105238.html",
+      "summary": "<p>Article URL: <a href=\"https://finance.yahoo.com/sectors/technology/articles/openai-offers-private-equity-firms-171105238.html\">https://finance.yahoo.com/sectors/technology/articles/openai-offers-pr...",
+      "published": "2026-03-23T18:52:40+00:00",
+      "domain": "finance.yahoo.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Cursor Park",
+      "link": "https://cursors.place/",
+      "summary": "<p>Article URL: <a href=\"https://cursors.place/\">https://cursors.place/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47493594\">https://news.ycombinator.com/item?id=47493594</...",
+      "published": "2026-03-23T18:51:49+00:00",
+      "domain": "cursors.place",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Security vulnerabilities disclosed in Zero Motorcycles' firmware and mobile app",
+      "link": "https://persephonekarnstein.github.io/post/zero-days/",
+      "summary": "<p>Article URL: <a href=\"https://persephonekarnstein.github.io/post/zero-days/\">https://persephonekarnstein.github.io/post/zero-days/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/ite...",
+      "published": "2026-03-23T18:50:20+00:00",
+      "domain": "persephonekarnstein.github.io",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: I built a site that maps the web from a bounty hunter's perspective",
+      "link": "https://www.neobotnet.com/",
+      "summary": "<p>I built this because I wanted my own directory of public companies \nrunning bug bounty programs \u2014 where I could see their infrastructure \nin one place and have a real idea of where to start poking ...",
+      "published": "2026-03-23T18:49:02+00:00",
+      "domain": "neobotnet.com",
+      "scores": {
+        "chaos": 9.7,
+        "anarchy": 3.0,
+        "overall": 6.4
+      },
+      "keywords": {
+        "chaos": [
+          "bug"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "OpenPencil: Open-source AI-native vector design tool",
+      "link": "https://github.com/ZSeven-W/openpencil",
+      "summary": "<p>Article URL: <a href=\"https://github.com/ZSeven-W/openpencil\">https://github.com/ZSeven-W/openpencil</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47493551\">https://news.yc...",
+      "published": "2026-03-23T18:47:43+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "\u26a1 Weekly Recap: CI/CD Backdoor, FBI Buys Location Data, WhatsApp Ditches Numbers & More",
+      "link": "https://thehackernews.com/2026/03/weekly-recap-cicd-backdoor-fbi-buys.html",
+      "summary": "Another week, another reminder that the internet is still a mess. Systems people thought were secure are being broken in simple ways, showing many still ignore basic advisories.\nThis edition covers a ...",
+      "published": "2026-03-23T18:44:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 13.9,
+        "anarchy": 3.0,
+        "overall": 8.4
+      },
+      "keywords": {
+        "chaos": [
+          "broken"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "I tried Karpathy's Autoresearch on an old research project",
+      "link": "https://ykumar.me/blog/eclip-autoresearch/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47493460\">Comments</a>...",
+      "published": "2026-03-23T18:40:58+00:00",
+      "domain": "ykumar.me",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The machine didn't take your craft. You gave it up",
+      "link": "https://www.davidabram.dev/musings/the-machine-didnt-take-your-craft/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47493312\">Comments</a>...",
+      "published": "2026-03-23T18:27:57+00:00",
+      "domain": "davidabram.dev",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "We Found Eight Attack Vectors Inside AWS Bedrock. Here's What Attackers Can Do with Them",
       "link": "https://thehackernews.com/2026/03/we-found-eight-attack-vectors-inside.html",
       "summary": "AWS Bedrock is Amazon's platform for building AI-powered applications. It gives developers access to foundation models and the tools to connect those models directly to enterprise data and systems. Th...",
@@ -507,134 +651,6 @@
       "link": "https://thehackernews.com/2026/03/microsoft-warns-irs-phishing-hits-29000.html",
       "summary": "Microsoft has warned of fresh campaigns that are capitalizing on the upcoming tax season in the U.S. to harvest credentials and deliver malware.\nThe email campaigns take advantage of the urgency and t...",
       "published": "2026-03-23T16:25:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Trivy Hack Spreads Infostealer via Docker, Triggers Worm and Kubernetes Wiper",
-      "link": "https://thehackernews.com/2026/03/trivy-hack-spreads-infostealer-via.html",
-      "summary": "Cybersecurity researchers have uncovered malicious artifacts distributed via Docker Hub following the Trivy supply chain attack, highlighting the widening blast radius across developer environments.\nT...",
-      "published": "2026-03-23T14:01:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Zellij 0.44.0: Remote Sessions, Windows Support, CLI Automation",
-      "link": "https://zellij.dev/news/remote-sessions-windows-cli/",
-      "summary": "<p>Article URL: <a href=\"https://zellij.dev/news/remote-sessions-windows-cli/\">https://zellij.dev/news/remote-sessions-windows-cli/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?...",
-      "published": "2026-03-23T13:07:36+00:00",
-      "domain": "zellij.dev",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "2nd Cavalry Scouts with Drones, Not Soldiers",
-      "link": "https://dronexl.co/2026/03/22/2nd-cavalry-scouts-drones-soldiers/",
-      "summary": "<p>Article URL: <a href=\"https://dronexl.co/2026/03/22/2nd-cavalry-scouts-drones-soldiers/\">https://dronexl.co/2026/03/22/2nd-cavalry-scouts-drones-soldiers/</a></p>\n<p>Comments URL: <a href=\"https://...",
-      "published": "2026-03-23T13:06:50+00:00",
-      "domain": "dronexl.co",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "OnlyFans owner Leonid Radvinsky dies at 43",
-      "link": "https://www.ft.com/content/3451dc9c-dc09-435e-b32e-8e6feed87ab3",
-      "summary": "<p>Article URL: <a href=\"https://www.ft.com/content/3451dc9c-dc09-435e-b32e-8e6feed87ab3\">https://www.ft.com/content/3451dc9c-dc09-435e-b32e-8e6feed87ab3</a></p>\n<p>Comments URL: <a href=\"https://news...",
-      "published": "2026-03-23T13:06:02+00:00",
-      "domain": "ft.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "An end to hay fever? The new wave of effective cures for seasonal allergies",
-      "link": "https://www.bbc.com/future/article/20260313-hay-fever-the-new-wave-of-effective-cures-for-seasonal-allergies",
-      "summary": "<p>Article URL: <a href=\"https://www.bbc.com/future/article/20260313-hay-fever-the-new-wave-of-effective-cures-for-seasonal-allergies\">https://www.bbc.com/future/article/20260313-hay-fever-the-new-wav...",
-      "published": "2026-03-23T13:05:17+00:00",
-      "domain": "bbc.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Oracle Databases now have declarative SQL assertions",
-      "link": "https://blogs.oracle.com/sql/how-to-define-cross-table-constraints-with-assertions-in-oracle-ai-database",
-      "summary": "<p>Article URL: <a href=\"https://blogs.oracle.com/sql/how-to-define-cross-table-constraints-with-assertions-in-oracle-ai-database\">https://blogs.oracle.com/sql/how-to-define-cross-table-constraints-wi...",
-      "published": "2026-03-23T13:04:52+00:00",
-      "domain": "blogs.oracle.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Some US car buyers envy what they cannot have - affordable Chinese EVs",
-      "link": "https://www.reddit.com/r/technology/comments/1s1etuy/some_us_car_buyers_envy_what_they_cannot_have/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1s1etuy/some_us_car_buyers_envy_what_they_cannot_have/\"> <img alt=\"Some US car buyers envy what they cannot have - affordable Chi...",
-      "published": "2026-03-23T11:58:18+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Hackers Exploit CVE-2025-32975 (CVSS 10.0) to Hijack Unpatched Quest KACE SMA Systems",
-      "link": "https://thehackernews.com/2026/03/hackers-exploit-cve-2025-32975-cvss-100.html",
-      "summary": "Threat actors are suspected to be exploiting a maximum-severity security flaw impacting Quest KACE Systems Management Appliance (SMA), according to Arctic Wolf.\nThe cybersecurity company said it obser...",
-      "published": "2026-03-23T11:45:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,

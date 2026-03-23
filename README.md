@@ -16,16 +16,19 @@
 
 ## 🚨 Tech Stories
 
-### We Found Eight Attack Vectors Inside AWS Bedrock. Here's What Attackers Can Do with Them
+### ⚡ Weekly Recap: CI/CD Backdoor, FBI Buys Location Data, WhatsApp Ditches Numbers & More
 - **Published**: March 23, 2026
-- **Summary**: AWS Bedrock is Amazon's platform for building AI-powered applications. It gives developers access to foundation models and the tools to connect those ...
-- [Read more](https://thehackernews.com/2026/03/we-found-eight-attack-vectors-inside.html)
+- **Summary**: Another week, another reminder that the internet is still a mess. Systems people thought were secure are being broken in simple ways, showing many sti...
+- **Keywords**: broken
+- [Read more](https://thehackernews.com/2026/03/weekly-recap-cicd-backdoor-fbi-buys.html)
 
-### Microsoft Warns IRS Phishing Hits 29,000 Users, Deploys RMM Malware
+### Show HN: I built a site that maps the web from a bounty hunter's perspective
 - **Published**: March 23, 2026
-- **Summary**: Microsoft has warned of fresh campaigns that are capitalizing on the upcoming tax season in the U.S. to harvest credentials and deliver malware.
-The e...
-- [Read more](https://thehackernews.com/2026/03/microsoft-warns-irs-phishing-hits-29000.html)
+- **Summary**: <p>I built this because I wanted my own directory of public companies 
+running bug bounty programs — where I could see their infrastructure 
+in one pl...
+- **Keywords**: bug
+- [Read more](https://www.neobotnet.com/)
 
 ---
 
