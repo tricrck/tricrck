@@ -16,17 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Finding My Own Voice
-- **Published**: March 22, 2026
-- **Summary**: https://www.rogerebert.com/roger-ebert/finding-my-own-voice</a></p>
-<p>Comments URL: <a href="https://news.ycombin......
-- [Read more](https://www.rogerebert.com/roger-ebert/finding-my-own-voice)
+### 【Open Source and Free】a macOS Menu Bar Cryptocurrency Price Monitor
+- **Published**: March 23, 2026
+- **Summary**: https://twitter.com/realedgelab/status/2035902084244291964</a></p>
+<p>Comments URL: <a href="https://news.ycombinat......
+- [Read more](https://twitter.com/realedgelab/status/2035902084244291964)
 
-### The Gem of XQuery
-- **Published**: March 22, 2026
-- **Summary**: https://prokeimenon.org/Essays/The_Hidden_Gem_of_XQuery.html</a></p>
-<p>Comments URL: <a href="https://news.ycomb......
-- [Read more](https://prokeimenon.org/Essays/The_Hidden_Gem_of_XQuery.html)
+### LLMs can't reason and never will
+- **Published**: March 23, 2026
+- **Summary**: https://pablomarino.com/research_blog/2026/03/23/research5.html</a></p>
+<p>Comments URL: <a href="https://news......
+- [Read more](https://pablomarino.com/research_blog/2026/03/23/research5.html)
 
 ---
 
