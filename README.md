@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Hackers Exploit CVE-2025-32975 (CVSS 10.0) to Hijack Unpatched Quest KACE SMA Systems
+### We Found Eight Attack Vectors Inside AWS Bedrock. Here's What Attackers Can Do with Them
 - **Published**: March 23, 2026
-- **Summary**: Threat actors are suspected to be exploiting a maximum-severity security flaw impacting Quest KACE Systems Management Appliance (SMA), according to Ar...
-- [Read more](https://thehackernews.com/2026/03/hackers-exploit-cve-2025-32975-cvss-100.html)
+- **Summary**: AWS Bedrock is Amazon's platform for building AI-powered applications. It gives developers access to foundation models and the tools to connect those ...
+- [Read more](https://thehackernews.com/2026/03/we-found-eight-attack-vectors-inside.html)
 
-### NUPA: Private post-scarcity engine with 99.999999% 100M Monte Carlo survival
+### Microsoft Warns IRS Phishing Hits 29,000 Users, Deploys RMM Malware
 - **Published**: March 23, 2026
-- **Summary**: https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA</a></p>
-<p>Comments URL:......
-- [Read more](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA)
+- **Summary**: Microsoft has warned of fresh campaigns that are capitalizing on the upcoming tax season in the U.S. to harvest credentials and deliver malware.
+The e...
+- [Read more](https://thehackernews.com/2026/03/microsoft-warns-irs-phishing-hits-29000.html)
 
 ---
 
