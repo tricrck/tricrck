@@ -16,19 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### ⚡ Weekly Recap: CI/CD Backdoor, FBI Buys Location Data, WhatsApp Ditches Numbers & More
-- **Published**: March 23, 2026
-- **Summary**: Another week, another reminder that the internet is still a mess. Systems people thought were secure are being broken in simple ways, showing many sti...
-- **Keywords**: broken
-- [Read more](https://thehackernews.com/2026/03/weekly-recap-cicd-backdoor-fbi-buys.html)
+### Free calculator: Zapier pricing vs. Make.com, Pabbly Connect, and n8n
+- **Published**: March 24, 2026
+- **Summary**: https://workflowpick.com/zapier-pricing-calculator/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id......
+- [Read more](https://workflowpick.com/zapier-pricing-calculator/)
 
-### Show HN: I built a site that maps the web from a bounty hunter's perspective
-- **Published**: March 23, 2026
-- **Summary**: <p>I built this because I wanted my own directory of public companies 
-running bug bounty programs — where I could see their infrastructure 
-in one pl...
-- **Keywords**: bug
-- [Read more](https://www.neobotnet.com/)
+### Maxell MXCP-P100 – wireless cassette player
+- **Published**: March 24, 2026
+- **Summary**: https://maxell-usa.com/product/cassetteplayer/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47497781"......
+- [Read more](https://maxell-usa.com/product/cassetteplayer/)
 
 ---
 
