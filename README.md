@@ -16,17 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Free calculator: Zapier pricing vs. Make.com, Pabbly Connect, and n8n
+### Starlette 1.0.0
 - **Published**: March 24, 2026
-- **Summary**: https://workflowpick.com/zapier-pricing-calculator/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id......
-- [Read more](https://workflowpick.com/zapier-pricing-calculator/)
+- **Summary**: https://github.com/Kludex/starlette</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47499369">https://news.ycombina......
+- [Read more](https://github.com/Kludex/starlette)
 
-### Maxell MXCP-P100 – wireless cassette player
+### Kentucky family rejects $$26M offer to convert farm into data center
 - **Published**: March 24, 2026
-- **Summary**: https://maxell-usa.com/product/cassetteplayer/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47497781"......
-- [Read more](https://maxell-usa.com/product/cassetteplayer/)
+- **Summary**: https://twitter.com/CollinRugg/status/2036237284601913674</a></p>
+<p>Comments URL: <a href="https://news.ycombinator......
+- [Read more](https://twitter.com/CollinRugg/status/2036237284601913674)
 
 ---
 
