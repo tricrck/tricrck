@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Starlette 1.0.0
+### Ghost Campaign Uses 7 npm Packages to Steal Crypto Wallets and Credentials
 - **Published**: March 24, 2026
-- **Summary**: https://github.com/Kludex/starlette</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47499369">https://news.ycombina......
-- [Read more](https://github.com/Kludex/starlette)
+- **Summary**: Cybersecurity researchers have uncovered a new set of malicious npm packages that are designed to steal cryptocurrency wallets and sensitive data.
+The...
+- [Read more](https://thehackernews.com/2026/03/ghost-campaign-uses-7-npm-packages-to.html)
 
-### Kentucky family rejects $$26M offer to convert farm into data center
+### 5 Learnings from the First-Ever Gartner Market Guide for Guardian Agents
 - **Published**: March 24, 2026
-- **Summary**: https://twitter.com/CollinRugg/status/2036237284601913674</a></p>
-<p>Comments URL: <a href="https://news.ycombinator......
-- [Read more](https://twitter.com/CollinRugg/status/2036237284601913674)
+- **Summary**: On February 25, 2026, Gartner published its inaugural Market Guide for Guardian Agents, marking an important milestone for this emerging category. For...
+- [Read more](https://thehackernews.com/2026/03/5-learnings-from-first-ever-gartner.html)
 
 ---
 
