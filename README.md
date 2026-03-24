@@ -16,11 +16,10 @@
 
 ## 🚨 Tech Stories
 
-### Ghost Campaign Uses 7 npm Packages to Steal Crypto Wallets and Credentials
+### Tax Search Ads Deliver ScreenConnect Malware Using Huawei Driver to Disable EDR
 - **Published**: March 24, 2026
-- **Summary**: Cybersecurity researchers have uncovered a new set of malicious npm packages that are designed to steal cryptocurrency wallets and sensitive data.
-The...
-- [Read more](https://thehackernews.com/2026/03/ghost-campaign-uses-7-npm-packages-to.html)
+- **Summary**: A large-scale malvertising campaign active since January 2026 has been observed targeting U.S.-based individuals searching for tax-related documents t...
+- [Read more](https://thehackernews.com/2026/03/tax-search-ads-deliver-screenconnect.html)
 
 ### 5 Learnings from the First-Ever Gartner Market Guide for Guardian Agents
 - **Published**: March 24, 2026
