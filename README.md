@@ -16,17 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### The Age of Verification
+### The Kill Chain Is Obsolete When Your AI Agent Is the Threat
 - **Published**: March 25, 2026
-- **Summary**: https://contextbento.substack.com/p/the-age-of-verification</a></p>
-<p>Comments URL: <a href="https://news.ycombin......
-- [Read more](https://contextbento.substack.com/p/the-age-of-verification)
+- **Summary**: In September 2025, Anthropic disclosed that a state-sponsored threat actor used an AI coding agent to execute an autonomous cyber espionage campaign a...
+- [Read more](https://thehackernews.com/2026/03/the-kill-chain-is-obsolete-when-your-ai.html)
 
-### Haskell – MonadBaseControl
+### Russian Hacker Sentenced to 2 Years for TA551 Botnet-Driven Ransomware Attacks
 - **Published**: March 25, 2026
-- **Summary**: https://serokell.io/blog/the-hidden-perils-of-monadbasecontrol</a></p>
-<p>Comments URL: <a href="https://news.y......
-- [Read more](https://serokell.io/blog/the-hidden-perils-of-monadbasecontrol)
+- **Summary**: The U.S. Department of Justice (DoJ) said a Russian national has been sentenced to two years in prison for managing a botnet that was used to launch r...
+- [Read more](https://thehackernews.com/2026/03/russian-hacker-sentenced-to-2-years-for.html)
 
 ---
 
