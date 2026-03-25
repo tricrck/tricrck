@@ -16,17 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Singapore's Sound Card Hero [video]
+### The Age of Verification
 - **Published**: March 25, 2026
-- **Summary**: https://www.youtube.com/watch?v=VTPa6wRECw0</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47512409">https......
-- [Read more](https://www.youtube.com/watch?v=VTPa6wRECw0)
+- **Summary**: https://contextbento.substack.com/p/the-age-of-verification</a></p>
+<p>Comments URL: <a href="https://news.ycombin......
+- [Read more](https://contextbento.substack.com/p/the-age-of-verification)
 
-### Show HN: JaaS platform: AI panhandler charges $1 minimum per joke
+### Haskell – MonadBaseControl
 - **Published**: March 25, 2026
-- **Summary**: https://doyouhaveadollar.com</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47512395">https://news.ycombinator.com/item?i......
-- [Read more](https://doyouhaveadollar.com)
+- **Summary**: https://serokell.io/blog/the-hidden-perils-of-monadbasecontrol</a></p>
+<p>Comments URL: <a href="https://news.y......
+- [Read more](https://serokell.io/blog/the-hidden-perils-of-monadbasecontrol)
 
 ---
 
