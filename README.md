@@ -16,15 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Tax Search Ads Deliver ScreenConnect Malware Using Huawei Driver to Disable EDR
-- **Published**: March 24, 2026
-- **Summary**: A large-scale malvertising campaign active since January 2026 has been observed targeting U.S.-based individuals searching for tax-related documents t...
-- [Read more](https://thehackernews.com/2026/03/tax-search-ads-deliver-screenconnect.html)
+### Singapore's Sound Card Hero [video]
+- **Published**: March 25, 2026
+- **Summary**: https://www.youtube.com/watch?v=VTPa6wRECw0</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47512409">https......
+- [Read more](https://www.youtube.com/watch?v=VTPa6wRECw0)
 
-### 5 Learnings from the First-Ever Gartner Market Guide for Guardian Agents
-- **Published**: March 24, 2026
-- **Summary**: On February 25, 2026, Gartner published its inaugural Market Guide for Guardian Agents, marking an important milestone for this emerging category. For...
-- [Read more](https://thehackernews.com/2026/03/5-learnings-from-first-ever-gartner.html)
+### Show HN: JaaS platform: AI panhandler charges $1 minimum per joke
+- **Published**: March 25, 2026
+- **Summary**: https://doyouhaveadollar.com</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47512395">https://news.ycombinator.com/item?i......
+- [Read more](https://doyouhaveadollar.com)
 
 ---
 
