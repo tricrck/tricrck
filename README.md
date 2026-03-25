@@ -16,15 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### The Kill Chain Is Obsolete When Your AI Agent Is the Threat
+### LeakBase Admin Arrested in Russia Over Massive Stolen Credential Marketplace
 - **Published**: March 25, 2026
-- **Summary**: In September 2025, Anthropic disclosed that a state-sponsored threat actor used an AI coding agent to execute an autonomous cyber espionage campaign a...
-- [Read more](https://thehackernews.com/2026/03/the-kill-chain-is-obsolete-when-your-ai.html)
+- **Summary**: The alleged administrator of the LeakBase cybercrime forum has been arrested by Russian law enforcement authorities, state media reported Thursday.
+Ac...
+- [Read more](https://thehackernews.com/2026/03/leakbase-admin-arrested-in-russia-over.html)
 
-### Russian Hacker Sentenced to 2 Years for TA551 Botnet-Driven Ransomware Attacks
+### GlassWorm Malware Uses Solana Dead Drops to Deliver RAT and Steal Browser, Crypto Data
 - **Published**: March 25, 2026
-- **Summary**: The U.S. Department of Justice (DoJ) said a Russian national has been sentenced to two years in prison for managing a botnet that was used to launch r...
-- [Read more](https://thehackernews.com/2026/03/russian-hacker-sentenced-to-2-years-for.html)
+- **Summary**: Cybersecurity researchers have flagged a new evolution of the GlassWorm campaign that delivers a multi-stage framework capable of comprehensive data t...
+- [Read more](https://thehackernews.com/2026/03/glassworm-malware-uses-solana-dead.html)
 
 ---
 
