@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Docker Coding Agent Sandboxes (2025)
+### Convicted spyware chief hints that Greece's government was behind phone hacks
 - **Published**: March 26, 2026
-- **Summary**: https://www.docker.com/blog/docker-sandboxes-a-new-approach-for-coding-agent-safety/</a><......
-- [Read more](https://www.docker.com/blog/docker-sandboxes-a-new-approach-for-coding-agent-safety/)
+- **Summary**: https://techcrunch.com/2026/03/25/convicted-spyware-......
+- [Read more](https://techcrunch.com/2026/03/25/convicted-spyware-chief-hints-that-greeces-government-was-behind-dozens-of-phone-hacks/)
 
-### Your First Parser
+### AI got the blame for the Iran school bombing. The truth is more worrying
 - **Published**: March 26, 2026
-- **Summary**: https://davesnx.github.io/parseff/guides/first-parser/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/i......
-- [Read more](https://davesnx.github.io/parseff/guides/first-parser/)
+- **Summary**: https://www.theguardian.com/news/2026/mar/26/ai-got-t......
+- [Read more](https://www.theguardian.com/news/2026/mar/26/ai-got-the-blame-for-the-iran-school-bombing-the-truth-is-far-more-worrying)
 
 ---
 
