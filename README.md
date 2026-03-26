@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### LeakBase Admin Arrested in Russia Over Massive Stolen Credential Marketplace
-- **Published**: March 25, 2026
-- **Summary**: The alleged administrator of the LeakBase cybercrime forum has been arrested by Russian law enforcement authorities, state media reported Thursday.
-Ac...
-- [Read more](https://thehackernews.com/2026/03/leakbase-admin-arrested-in-russia-over.html)
+### Docker Coding Agent Sandboxes (2025)
+- **Published**: March 26, 2026
+- **Summary**: https://www.docker.com/blog/docker-sandboxes-a-new-approach-for-coding-agent-safety/</a><......
+- [Read more](https://www.docker.com/blog/docker-sandboxes-a-new-approach-for-coding-agent-safety/)
 
-### GlassWorm Malware Uses Solana Dead Drops to Deliver RAT and Steal Browser, Crypto Data
-- **Published**: March 25, 2026
-- **Summary**: Cybersecurity researchers have flagged a new evolution of the GlassWorm campaign that delivers a multi-stage framework capable of comprehensive data t...
-- [Read more](https://thehackernews.com/2026/03/glassworm-malware-uses-solana-dead.html)
+### Your First Parser
+- **Published**: March 26, 2026
+- **Summary**: https://davesnx.github.io/parseff/guides/first-parser/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/i......
+- [Read more](https://davesnx.github.io/parseff/guides/first-parser/)
 
 ---
 
