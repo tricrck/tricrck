@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### [Webinar] Stop Guessing. Learn to Validate Your Defenses Against Real Attacks
+### China-Linked Red Menshen Uses Stealthy BPFDoor Implants to Spy via Telecom Networks
 - **Published**: March 26, 2026
-- **Summary**: Most teams have security tools in place. Alerts are firing, dashboards look clean, threat intel is flowing in. On the surface, everything feels under ...
-- [Read more](https://thehackernews.com/2026/03/webinar-stop-guessing-learn-to-validate.html)
+- **Summary**: A long-term and ongoing campaign attributed to a China-nexus threat actor has embedded itself in telecom networks to conduct espionage against governm...
+- [Read more](https://thehackernews.com/2026/03/china-linked-red-menshen-uses-stealthy.html)
 
-### Coruna iOS Kit Reuses 2023 Triangulation Exploit Code in New Mass Attacks
+### AI conference rejects papers over AI use
 - **Published**: March 26, 2026
-- **Summary**: The kernel exploit for two security vulnerabilities used in the recently uncovered Apple iOS exploit kit known as Coruna is an updated version of the ...
-- [Read more](https://thehackernews.com/2026/03/coruna-ios-kit-reuses-2023.html)
+- **Summary**: https://www.semafor.com/article/03/26/2026/ai-conference-rejects-papers-over-ai-use</a></p......
+- [Read more](https://www.semafor.com/article/03/26/2026/ai-conference-rejects-papers-over-ai-use)
 
 ---
 
