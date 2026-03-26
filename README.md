@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Convicted spyware chief hints that Greece's government was behind phone hacks
+### [Webinar] Stop Guessing. Learn to Validate Your Defenses Against Real Attacks
 - **Published**: March 26, 2026
-- **Summary**: https://techcrunch.com/2026/03/25/convicted-spyware-......
-- [Read more](https://techcrunch.com/2026/03/25/convicted-spyware-chief-hints-that-greeces-government-was-behind-dozens-of-phone-hacks/)
+- **Summary**: Most teams have security tools in place. Alerts are firing, dashboards look clean, threat intel is flowing in. On the surface, everything feels under ...
+- [Read more](https://thehackernews.com/2026/03/webinar-stop-guessing-learn-to-validate.html)
 
-### AI got the blame for the Iran school bombing. The truth is more worrying
+### Coruna iOS Kit Reuses 2023 Triangulation Exploit Code in New Mass Attacks
 - **Published**: March 26, 2026
-- **Summary**: https://www.theguardian.com/news/2026/mar/26/ai-got-t......
-- [Read more](https://www.theguardian.com/news/2026/mar/26/ai-got-the-blame-for-the-iran-school-bombing-the-truth-is-far-more-worrying)
+- **Summary**: The kernel exploit for two security vulnerabilities used in the recently uncovered Apple iOS exploit kit known as Coruna is an updated version of the ...
+- [Read more](https://thehackernews.com/2026/03/coruna-ios-kit-reuses-2023.html)
 
 ---
 
