@@ -16,15 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### China-Linked Red Menshen Uses Stealthy BPFDoor Implants to Spy via Telecom Networks
+### Major outgoing CEOs are citing AI as a factor in their decisions to step down
 - **Published**: March 26, 2026
-- **Summary**: A long-term and ongoing campaign attributed to a China-nexus threat actor has embedded itself in telecom networks to conduct espionage against governm...
-- [Read more](https://thehackernews.com/2026/03/china-linked-red-menshen-uses-stealthy.html)
+- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1s4n6zx/major_outgoing_ceos_are_citing_ai_as_a_factor_in/"> <img alt="Major outgoing CEOs a...
+- **Keywords**: down
+- [Read more](https://www.reddit.com/r/technology/comments/1s4n6zx/major_outgoing_ceos_are_citing_ai_as_a_factor_in/)
 
-### AI conference rejects papers over AI use
-- **Published**: March 26, 2026
-- **Summary**: https://www.semafor.com/article/03/26/2026/ai-conference-rejects-papers-over-ai-use</a></p......
-- [Read more](https://www.semafor.com/article/03/26/2026/ai-conference-rejects-papers-over-ai-use)
+### From Zip to Nought
+- **Published**: March 27, 2026
+- **Summary**: https://hackaday.com/2026/03/24/from-zip-to-nought-the-rise-and-fall-of-iomega/</a></p>
+<p>Com......
+- [Read more](https://hackaday.com/2026/03/24/from-zip-to-nought-the-rise-and-fall-of-iomega/)
 
 ---
 
