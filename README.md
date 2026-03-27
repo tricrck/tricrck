@@ -16,15 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### AitM Phishing Targets TikTok Business Accounts Using Cloudflare Turnstile Evasion
+### Open VSX Bug Let Malicious VS Code Extensions Bypass Pre-Publish Security Checks
 - **Published**: March 27, 2026
-- **Summary**: Threat actors are using adversary-in-the-middle (AitM) phishing pages to seize control of TikTok for Business accounts in a new campaign, according to...
-- [Read more](https://thehackernews.com/2026/03/aitm-phishing-targets-tiktok-business.html)
+- **Summary**: Cybersecurity researchers have disclosed details of a now-patched bug impacting Open VSX's pre-publish scanning pipeline to cause the tool to allow a ...
+- **Keywords**: bug, bug
+- [Read more](https://thehackernews.com/2026/03/open-vsx-bug-let-malicious-vs-code.html)
 
-### We Are At War
+### Apple Sends Lock Screen Alerts to Outdated iPhones Over Active Web-Based Exploits
 - **Published**: March 27, 2026
-- **Summary**: Rising geopolitical tensions are reflected (or in some cases preceded) by cyber operations, while technology itself has become politicized. Let’s admi...
-- [Read more](https://thehackernews.com/2026/03/we-are-at-war.html)
+- **Summary**: Apple is now sending Lock Screen notifications to iPhones and iPads running older versions of iOS and iPadOS to alert users of web-based attacks and u...
+- [Read more](https://thehackernews.com/2026/03/apple-sends-lock-screen-alerts-to.html)
 
 ---
 

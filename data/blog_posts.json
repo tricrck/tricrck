@@ -1,6 +1,137 @@
 {
   "chaos_ranked": [
     {
+      "title": "Open VSX Bug Let Malicious VS Code Extensions Bypass Pre-Publish Security Checks",
+      "link": "https://thehackernews.com/2026/03/open-vsx-bug-let-malicious-vs-code.html",
+      "summary": "Cybersecurity researchers have disclosed details of a now-patched bug impacting Open VSX's pre-publish scanning pipeline to cause the tool to allow a malicious Microsoft Visual Studio Code (VS Code) e...",
+      "published": "2026-03-27T19:27:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 18.2,
+        "anarchy": 3.0,
+        "overall": 10.6
+      },
+      "keywords": {
+        "chaos": [
+          "bug",
+          "bug"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Apple Sends Lock Screen Alerts to Outdated iPhones Over Active Web-Based Exploits",
+      "link": "https://thehackernews.com/2026/03/apple-sends-lock-screen-alerts-to.html",
+      "summary": "Apple is now sending Lock Screen notifications to iPhones and iPads running older versions of iOS and iPadOS to alert users of web-based attacks and urge them to install the update.\nThe development wa...",
+      "published": "2026-03-27T22:52:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "TeamPCP Pushes Malicious Telnyx Versions to PyPI, Hides Stealer in WAV Files",
+      "link": "https://thehackernews.com/2026/03/teampcp-pushes-malicious-telnyx.html",
+      "summary": "TeamPCP, the threat actor behind the supply chain attack targeting Trivy, KICS, and litellm, has now compromised the telnyx Python package by pushing two malicious versions to steal sensitive data.\nTh...",
+      "published": "2026-03-27T22:23:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Canada loaning millions to rare earth project linked to Trump White House",
+      "link": "https://www.cbc.ca/news/canada/nunavik-rare-earth-mining-project-9.7138515",
+      "summary": "<p>Article URL: <a href=\"https://www.cbc.ca/news/canada/nunavik-rare-earth-mining-project-9.7138515\">https://www.cbc.ca/news/canada/nunavik-rare-earth-mining-project-9.7138515</a></p>\n<p>Comments URL:...",
+      "published": "2026-03-27T18:51:42+00:00",
+      "domain": "cbc.ca",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The vanishing \"Proof of Work\" in software engineering",
+      "link": "https://news.ycombinator.com/item?id=47546734",
+      "summary": "<p>In 2023, I spent six months building a recommendation engine from scratch using vector search and manual indexing. Today, an entry-level dev can prompt a \"weekend project\" that looks 90% as good.<p...",
+      "published": "2026-03-27T18:51:16+00:00",
+      "domain": "news.ycombinator.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Vibe-Coded Ext4 for OpenBSD",
+      "link": "https://lwn.net/SubscriberLink/1064541/1a399d572a046fb9/",
+      "summary": "<p>Article URL: <a href=\"https://lwn.net/SubscriberLink/1064541/1a399d572a046fb9/\">https://lwn.net/SubscriberLink/1064541/1a399d572a046fb9/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.c...",
+      "published": "2026-03-27T18:51:06+00:00",
+      "domain": "lwn.net",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The Powerful Men Who Think Introspection Is Dumb",
+      "link": "https://www.theatlantic.com/ideas/2026/03/introspection-andreessen-thiel-bezos/686566/",
+      "summary": "<p>Article URL: <a href=\"https://www.theatlantic.com/ideas/2026/03/introspection-andreessen-thiel-bezos/686566/\">https://www.theatlantic.com/ideas/2026/03/introspection-andreessen-thiel-bezos/686566/<...",
+      "published": "2026-03-27T18:50:40+00:00",
+      "domain": "theatlantic.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "TurboQuant: Online Vector Quantization with Near-Optimal Distortion Rate",
+      "link": "https://openreview.net/forum?id=tO3ASKZlok",
+      "summary": "<p>Article URL: <a href=\"https://openreview.net/forum?id=tO3ASKZlok\">https://openreview.net/forum?id=tO3ASKZlok</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47546711\">https:/...",
+      "published": "2026-03-27T18:48:20+00:00",
+      "domain": "openreview.net",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "AitM Phishing Targets TikTok Business Accounts Using Cloudflare Turnstile Evasion",
       "link": "https://thehackernews.com/2026/03/aitm-phishing-targets-tiktok-business.html",
       "summary": "Threat actors are using adversary-in-the-middle (AitM) phishing pages to seize control of TikTok for Business accounts in a new campaign, according to a report from Push Security.\nBusiness accounts as...",
@@ -17,139 +148,11 @@
       }
     },
     {
-      "title": "We Are At War",
-      "link": "https://thehackernews.com/2026/03/we-are-at-war.html",
-      "summary": "Rising geopolitical tensions are reflected (or in some cases preceded) by cyber operations, while technology itself has become politicized. Let\u2019s admit it: we are in the middle of it.&nbsp;\nIntroducti...",
-      "published": "2026-03-27T16:30:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Bearlyfy Hits Russian Firms with Custom GenieLocker Ransomware",
-      "link": "https://thehackernews.com/2026/03/bearlyfy-hits-70-russian-firms-with.html",
-      "summary": "A pro-Ukrainian group called Bearlyfy has been attributed to more than 70 cyber attacks targeting Russian companies since it first surfaced in the threat landscape in January 2025, with recent attacks...",
-      "published": "2026-03-27T15:34:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "LangChain, LangGraph Flaws Expose Files, Secrets, Databases in Widely Used AI Frameworks",
-      "link": "https://thehackernews.com/2026/03/langchain-langgraph-flaws-expose-files.html",
-      "summary": "Cybersecurity researchers have disclosed three security vulnerabilities impacting LangChain and LangGraph that, if successfully exploited, could expose filesystem data, environment secrets, and conver...",
-      "published": "2026-03-27T13:37:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Sentiment Destruction, Not Demand Destruction",
-      "link": "https://www.apolloacademy.com/sentiment-destruction-not-demand-destruction/",
-      "summary": "<p>Article URL: <a href=\"https://www.apolloacademy.com/sentiment-destruction-not-demand-destruction/\">https://www.apolloacademy.com/sentiment-destruction-not-demand-destruction/</a></p>\n<p>Comments UR...",
-      "published": "2026-03-27T13:08:17+00:00",
-      "domain": "apolloacademy.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Inverted Pendulum Logo",
-      "link": "http://closedbridge.com",
-      "summary": "<p>Article URL: <a href=\"http://closedbridge.com\">http://closedbridge.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47542224\">https://news.ycombinator.com/item?id=47542224...",
-      "published": "2026-03-27T13:06:35+00:00",
-      "domain": "closedbridge.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "WordSnap \u2013 Real-time word battles. One letter. Two players. No mercy",
-      "link": "https://wordsnap.up.railway.app/",
-      "summary": "<p>Article URL: <a href=\"https://wordsnap.up.railway.app/\">https://wordsnap.up.railway.app/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47542223\">https://news.ycombinator.co...",
-      "published": "2026-03-27T13:06:18+00:00",
-      "domain": "wordsnap.up.railway.app",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Teaching Robots to Fly Like Birds",
-      "link": "https://www.rutgers.edu/news/teaching-robots-fly-birds",
-      "summary": "<p>Article URL: <a href=\"https://www.rutgers.edu/news/teaching-robots-fly-birds\">https://www.rutgers.edu/news/teaching-robots-fly-birds</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/i...",
-      "published": "2026-03-27T13:05:22+00:00",
-      "domain": "rutgers.edu",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "AI is the final frontier of late-stage capitalism",
-      "link": "https://reedandpickup.com/2026/03/27/ai-is-the-final-frontier.html",
-      "summary": "<p>Article URL: <a href=\"https://reedandpickup.com/2026/03/27/ai-is-the-final-frontier.html\">https://reedandpickup.com/2026/03/27/ai-is-the-final-frontier.html</a></p>\n<p>Comments URL: <a href=\"https:...",
-      "published": "2026-03-27T13:04:25+00:00",
-      "domain": "reedandpickup.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Sony Announces Price Rises for PS5, PS5 Pro, and PlayStation Portal, Blames 'Continued Pressures in the Global Economic Landscape' / Base PS5 now $650",
-      "link": "https://www.reddit.com/r/technology/comments/1s52d01/sony_announces_price_rises_for_ps5_ps5_pro_and/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1s52d01/sony_announces_price_rises_for_ps5_ps5_pro_and/\"> <img alt=\"Sony Announces Price Rises for PS5, PS5 Pro, and PlayStation ...",
-      "published": "2026-03-27T12:13:54+00:00",
-      "domain": "reddit.com",
+      "title": "AI got the blame for the Iran school bombing. The truth is more worrying",
+      "link": "https://www.theguardian.com/news/2026/mar/26/ai-got-the-blame-for-the-iran-school-bombing-the-truth-is-far-more-worrying",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47544980\">Comments</a>...",
+      "published": "2026-03-27T16:39:32+00:00",
+      "domain": "theguardian.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -163,6 +166,137 @@
   ],
   "anarchy_ranked": [
     {
+      "title": "Apple Sends Lock Screen Alerts to Outdated iPhones Over Active Web-Based Exploits",
+      "link": "https://thehackernews.com/2026/03/apple-sends-lock-screen-alerts-to.html",
+      "summary": "Apple is now sending Lock Screen notifications to iPhones and iPads running older versions of iOS and iPadOS to alert users of web-based attacks and urge them to install the update.\nThe development wa...",
+      "published": "2026-03-27T22:52:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "TeamPCP Pushes Malicious Telnyx Versions to PyPI, Hides Stealer in WAV Files",
+      "link": "https://thehackernews.com/2026/03/teampcp-pushes-malicious-telnyx.html",
+      "summary": "TeamPCP, the threat actor behind the supply chain attack targeting Trivy, KICS, and litellm, has now compromised the telnyx Python package by pushing two malicious versions to steal sensitive data.\nTh...",
+      "published": "2026-03-27T22:23:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Open VSX Bug Let Malicious VS Code Extensions Bypass Pre-Publish Security Checks",
+      "link": "https://thehackernews.com/2026/03/open-vsx-bug-let-malicious-vs-code.html",
+      "summary": "Cybersecurity researchers have disclosed details of a now-patched bug impacting Open VSX's pre-publish scanning pipeline to cause the tool to allow a malicious Microsoft Visual Studio Code (VS Code) e...",
+      "published": "2026-03-27T19:27:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 18.2,
+        "anarchy": 3.0,
+        "overall": 10.6
+      },
+      "keywords": {
+        "chaos": [
+          "bug",
+          "bug"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Canada loaning millions to rare earth project linked to Trump White House",
+      "link": "https://www.cbc.ca/news/canada/nunavik-rare-earth-mining-project-9.7138515",
+      "summary": "<p>Article URL: <a href=\"https://www.cbc.ca/news/canada/nunavik-rare-earth-mining-project-9.7138515\">https://www.cbc.ca/news/canada/nunavik-rare-earth-mining-project-9.7138515</a></p>\n<p>Comments URL:...",
+      "published": "2026-03-27T18:51:42+00:00",
+      "domain": "cbc.ca",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The vanishing \"Proof of Work\" in software engineering",
+      "link": "https://news.ycombinator.com/item?id=47546734",
+      "summary": "<p>In 2023, I spent six months building a recommendation engine from scratch using vector search and manual indexing. Today, an entry-level dev can prompt a \"weekend project\" that looks 90% as good.<p...",
+      "published": "2026-03-27T18:51:16+00:00",
+      "domain": "news.ycombinator.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Vibe-Coded Ext4 for OpenBSD",
+      "link": "https://lwn.net/SubscriberLink/1064541/1a399d572a046fb9/",
+      "summary": "<p>Article URL: <a href=\"https://lwn.net/SubscriberLink/1064541/1a399d572a046fb9/\">https://lwn.net/SubscriberLink/1064541/1a399d572a046fb9/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.c...",
+      "published": "2026-03-27T18:51:06+00:00",
+      "domain": "lwn.net",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The Powerful Men Who Think Introspection Is Dumb",
+      "link": "https://www.theatlantic.com/ideas/2026/03/introspection-andreessen-thiel-bezos/686566/",
+      "summary": "<p>Article URL: <a href=\"https://www.theatlantic.com/ideas/2026/03/introspection-andreessen-thiel-bezos/686566/\">https://www.theatlantic.com/ideas/2026/03/introspection-andreessen-thiel-bezos/686566/<...",
+      "published": "2026-03-27T18:50:40+00:00",
+      "domain": "theatlantic.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "TurboQuant: Online Vector Quantization with Near-Optimal Distortion Rate",
+      "link": "https://openreview.net/forum?id=tO3ASKZlok",
+      "summary": "<p>Article URL: <a href=\"https://openreview.net/forum?id=tO3ASKZlok\">https://openreview.net/forum?id=tO3ASKZlok</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47546711\">https:/...",
+      "published": "2026-03-27T18:48:20+00:00",
+      "domain": "openreview.net",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "AitM Phishing Targets TikTok Business Accounts Using Cloudflare Turnstile Evasion",
       "link": "https://thehackernews.com/2026/03/aitm-phishing-targets-tiktok-business.html",
       "summary": "Threat actors are using adversary-in-the-middle (AitM) phishing pages to seize control of TikTok for Business accounts in a new campaign, according to a report from Push Security.\nBusiness accounts as...",
@@ -179,139 +313,11 @@
       }
     },
     {
-      "title": "We Are At War",
-      "link": "https://thehackernews.com/2026/03/we-are-at-war.html",
-      "summary": "Rising geopolitical tensions are reflected (or in some cases preceded) by cyber operations, while technology itself has become politicized. Let\u2019s admit it: we are in the middle of it.&nbsp;\nIntroducti...",
-      "published": "2026-03-27T16:30:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Bearlyfy Hits Russian Firms with Custom GenieLocker Ransomware",
-      "link": "https://thehackernews.com/2026/03/bearlyfy-hits-70-russian-firms-with.html",
-      "summary": "A pro-Ukrainian group called Bearlyfy has been attributed to more than 70 cyber attacks targeting Russian companies since it first surfaced in the threat landscape in January 2025, with recent attacks...",
-      "published": "2026-03-27T15:34:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "LangChain, LangGraph Flaws Expose Files, Secrets, Databases in Widely Used AI Frameworks",
-      "link": "https://thehackernews.com/2026/03/langchain-langgraph-flaws-expose-files.html",
-      "summary": "Cybersecurity researchers have disclosed three security vulnerabilities impacting LangChain and LangGraph that, if successfully exploited, could expose filesystem data, environment secrets, and conver...",
-      "published": "2026-03-27T13:37:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Sentiment Destruction, Not Demand Destruction",
-      "link": "https://www.apolloacademy.com/sentiment-destruction-not-demand-destruction/",
-      "summary": "<p>Article URL: <a href=\"https://www.apolloacademy.com/sentiment-destruction-not-demand-destruction/\">https://www.apolloacademy.com/sentiment-destruction-not-demand-destruction/</a></p>\n<p>Comments UR...",
-      "published": "2026-03-27T13:08:17+00:00",
-      "domain": "apolloacademy.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Inverted Pendulum Logo",
-      "link": "http://closedbridge.com",
-      "summary": "<p>Article URL: <a href=\"http://closedbridge.com\">http://closedbridge.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47542224\">https://news.ycombinator.com/item?id=47542224...",
-      "published": "2026-03-27T13:06:35+00:00",
-      "domain": "closedbridge.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "WordSnap \u2013 Real-time word battles. One letter. Two players. No mercy",
-      "link": "https://wordsnap.up.railway.app/",
-      "summary": "<p>Article URL: <a href=\"https://wordsnap.up.railway.app/\">https://wordsnap.up.railway.app/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47542223\">https://news.ycombinator.co...",
-      "published": "2026-03-27T13:06:18+00:00",
-      "domain": "wordsnap.up.railway.app",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Teaching Robots to Fly Like Birds",
-      "link": "https://www.rutgers.edu/news/teaching-robots-fly-birds",
-      "summary": "<p>Article URL: <a href=\"https://www.rutgers.edu/news/teaching-robots-fly-birds\">https://www.rutgers.edu/news/teaching-robots-fly-birds</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/i...",
-      "published": "2026-03-27T13:05:22+00:00",
-      "domain": "rutgers.edu",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "AI is the final frontier of late-stage capitalism",
-      "link": "https://reedandpickup.com/2026/03/27/ai-is-the-final-frontier.html",
-      "summary": "<p>Article URL: <a href=\"https://reedandpickup.com/2026/03/27/ai-is-the-final-frontier.html\">https://reedandpickup.com/2026/03/27/ai-is-the-final-frontier.html</a></p>\n<p>Comments URL: <a href=\"https:...",
-      "published": "2026-03-27T13:04:25+00:00",
-      "domain": "reedandpickup.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Sony Announces Price Rises for PS5, PS5 Pro, and PlayStation Portal, Blames 'Continued Pressures in the Global Economic Landscape' / Base PS5 now $650",
-      "link": "https://www.reddit.com/r/technology/comments/1s52d01/sony_announces_price_rises_for_ps5_ps5_pro_and/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1s52d01/sony_announces_price_rises_for_ps5_ps5_pro_and/\"> <img alt=\"Sony Announces Price Rises for PS5, PS5 Pro, and PlayStation ...",
-      "published": "2026-03-27T12:13:54+00:00",
-      "domain": "reddit.com",
+      "title": "AI got the blame for the Iran school bombing. The truth is more worrying",
+      "link": "https://www.theguardian.com/news/2026/mar/26/ai-got-the-blame-for-the-iran-school-bombing-the-truth-is-far-more-worrying",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47544980\">Comments</a>...",
+      "published": "2026-03-27T16:39:32+00:00",
+      "domain": "theguardian.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -325,6 +331,137 @@
   ],
   "overall_ranked": [
     {
+      "title": "Open VSX Bug Let Malicious VS Code Extensions Bypass Pre-Publish Security Checks",
+      "link": "https://thehackernews.com/2026/03/open-vsx-bug-let-malicious-vs-code.html",
+      "summary": "Cybersecurity researchers have disclosed details of a now-patched bug impacting Open VSX's pre-publish scanning pipeline to cause the tool to allow a malicious Microsoft Visual Studio Code (VS Code) e...",
+      "published": "2026-03-27T19:27:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 18.2,
+        "anarchy": 3.0,
+        "overall": 10.6
+      },
+      "keywords": {
+        "chaos": [
+          "bug",
+          "bug"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Apple Sends Lock Screen Alerts to Outdated iPhones Over Active Web-Based Exploits",
+      "link": "https://thehackernews.com/2026/03/apple-sends-lock-screen-alerts-to.html",
+      "summary": "Apple is now sending Lock Screen notifications to iPhones and iPads running older versions of iOS and iPadOS to alert users of web-based attacks and urge them to install the update.\nThe development wa...",
+      "published": "2026-03-27T22:52:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "TeamPCP Pushes Malicious Telnyx Versions to PyPI, Hides Stealer in WAV Files",
+      "link": "https://thehackernews.com/2026/03/teampcp-pushes-malicious-telnyx.html",
+      "summary": "TeamPCP, the threat actor behind the supply chain attack targeting Trivy, KICS, and litellm, has now compromised the telnyx Python package by pushing two malicious versions to steal sensitive data.\nTh...",
+      "published": "2026-03-27T22:23:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Canada loaning millions to rare earth project linked to Trump White House",
+      "link": "https://www.cbc.ca/news/canada/nunavik-rare-earth-mining-project-9.7138515",
+      "summary": "<p>Article URL: <a href=\"https://www.cbc.ca/news/canada/nunavik-rare-earth-mining-project-9.7138515\">https://www.cbc.ca/news/canada/nunavik-rare-earth-mining-project-9.7138515</a></p>\n<p>Comments URL:...",
+      "published": "2026-03-27T18:51:42+00:00",
+      "domain": "cbc.ca",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The vanishing \"Proof of Work\" in software engineering",
+      "link": "https://news.ycombinator.com/item?id=47546734",
+      "summary": "<p>In 2023, I spent six months building a recommendation engine from scratch using vector search and manual indexing. Today, an entry-level dev can prompt a \"weekend project\" that looks 90% as good.<p...",
+      "published": "2026-03-27T18:51:16+00:00",
+      "domain": "news.ycombinator.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Vibe-Coded Ext4 for OpenBSD",
+      "link": "https://lwn.net/SubscriberLink/1064541/1a399d572a046fb9/",
+      "summary": "<p>Article URL: <a href=\"https://lwn.net/SubscriberLink/1064541/1a399d572a046fb9/\">https://lwn.net/SubscriberLink/1064541/1a399d572a046fb9/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.c...",
+      "published": "2026-03-27T18:51:06+00:00",
+      "domain": "lwn.net",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The Powerful Men Who Think Introspection Is Dumb",
+      "link": "https://www.theatlantic.com/ideas/2026/03/introspection-andreessen-thiel-bezos/686566/",
+      "summary": "<p>Article URL: <a href=\"https://www.theatlantic.com/ideas/2026/03/introspection-andreessen-thiel-bezos/686566/\">https://www.theatlantic.com/ideas/2026/03/introspection-andreessen-thiel-bezos/686566/<...",
+      "published": "2026-03-27T18:50:40+00:00",
+      "domain": "theatlantic.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "TurboQuant: Online Vector Quantization with Near-Optimal Distortion Rate",
+      "link": "https://openreview.net/forum?id=tO3ASKZlok",
+      "summary": "<p>Article URL: <a href=\"https://openreview.net/forum?id=tO3ASKZlok\">https://openreview.net/forum?id=tO3ASKZlok</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47546711\">https:/...",
+      "published": "2026-03-27T18:48:20+00:00",
+      "domain": "openreview.net",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "AitM Phishing Targets TikTok Business Accounts Using Cloudflare Turnstile Evasion",
       "link": "https://thehackernews.com/2026/03/aitm-phishing-targets-tiktok-business.html",
       "summary": "Threat actors are using adversary-in-the-middle (AitM) phishing pages to seize control of TikTok for Business accounts in a new campaign, according to a report from Push Security.\nBusiness accounts as...",
@@ -341,139 +478,11 @@
       }
     },
     {
-      "title": "We Are At War",
-      "link": "https://thehackernews.com/2026/03/we-are-at-war.html",
-      "summary": "Rising geopolitical tensions are reflected (or in some cases preceded) by cyber operations, while technology itself has become politicized. Let\u2019s admit it: we are in the middle of it.&nbsp;\nIntroducti...",
-      "published": "2026-03-27T16:30:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Bearlyfy Hits Russian Firms with Custom GenieLocker Ransomware",
-      "link": "https://thehackernews.com/2026/03/bearlyfy-hits-70-russian-firms-with.html",
-      "summary": "A pro-Ukrainian group called Bearlyfy has been attributed to more than 70 cyber attacks targeting Russian companies since it first surfaced in the threat landscape in January 2025, with recent attacks...",
-      "published": "2026-03-27T15:34:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "LangChain, LangGraph Flaws Expose Files, Secrets, Databases in Widely Used AI Frameworks",
-      "link": "https://thehackernews.com/2026/03/langchain-langgraph-flaws-expose-files.html",
-      "summary": "Cybersecurity researchers have disclosed three security vulnerabilities impacting LangChain and LangGraph that, if successfully exploited, could expose filesystem data, environment secrets, and conver...",
-      "published": "2026-03-27T13:37:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Sentiment Destruction, Not Demand Destruction",
-      "link": "https://www.apolloacademy.com/sentiment-destruction-not-demand-destruction/",
-      "summary": "<p>Article URL: <a href=\"https://www.apolloacademy.com/sentiment-destruction-not-demand-destruction/\">https://www.apolloacademy.com/sentiment-destruction-not-demand-destruction/</a></p>\n<p>Comments UR...",
-      "published": "2026-03-27T13:08:17+00:00",
-      "domain": "apolloacademy.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Inverted Pendulum Logo",
-      "link": "http://closedbridge.com",
-      "summary": "<p>Article URL: <a href=\"http://closedbridge.com\">http://closedbridge.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47542224\">https://news.ycombinator.com/item?id=47542224...",
-      "published": "2026-03-27T13:06:35+00:00",
-      "domain": "closedbridge.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "WordSnap \u2013 Real-time word battles. One letter. Two players. No mercy",
-      "link": "https://wordsnap.up.railway.app/",
-      "summary": "<p>Article URL: <a href=\"https://wordsnap.up.railway.app/\">https://wordsnap.up.railway.app/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47542223\">https://news.ycombinator.co...",
-      "published": "2026-03-27T13:06:18+00:00",
-      "domain": "wordsnap.up.railway.app",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Teaching Robots to Fly Like Birds",
-      "link": "https://www.rutgers.edu/news/teaching-robots-fly-birds",
-      "summary": "<p>Article URL: <a href=\"https://www.rutgers.edu/news/teaching-robots-fly-birds\">https://www.rutgers.edu/news/teaching-robots-fly-birds</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/i...",
-      "published": "2026-03-27T13:05:22+00:00",
-      "domain": "rutgers.edu",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "AI is the final frontier of late-stage capitalism",
-      "link": "https://reedandpickup.com/2026/03/27/ai-is-the-final-frontier.html",
-      "summary": "<p>Article URL: <a href=\"https://reedandpickup.com/2026/03/27/ai-is-the-final-frontier.html\">https://reedandpickup.com/2026/03/27/ai-is-the-final-frontier.html</a></p>\n<p>Comments URL: <a href=\"https:...",
-      "published": "2026-03-27T13:04:25+00:00",
-      "domain": "reedandpickup.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Sony Announces Price Rises for PS5, PS5 Pro, and PlayStation Portal, Blames 'Continued Pressures in the Global Economic Landscape' / Base PS5 now $650",
-      "link": "https://www.reddit.com/r/technology/comments/1s52d01/sony_announces_price_rises_for_ps5_ps5_pro_and/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1s52d01/sony_announces_price_rises_for_ps5_ps5_pro_and/\"> <img alt=\"Sony Announces Price Rises for PS5, PS5 Pro, and PlayStation ...",
-      "published": "2026-03-27T12:13:54+00:00",
-      "domain": "reddit.com",
+      "title": "AI got the blame for the Iran school bombing. The truth is more worrying",
+      "link": "https://www.theguardian.com/news/2026/mar/26/ai-got-the-blame-for-the-iran-school-bombing-the-truth-is-far-more-worrying",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47544980\">Comments</a>...",
+      "published": "2026-03-27T16:39:32+00:00",
+      "domain": "theguardian.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -487,6 +496,137 @@
   ],
   "all_articles": [
     {
+      "title": "Apple Sends Lock Screen Alerts to Outdated iPhones Over Active Web-Based Exploits",
+      "link": "https://thehackernews.com/2026/03/apple-sends-lock-screen-alerts-to.html",
+      "summary": "Apple is now sending Lock Screen notifications to iPhones and iPads running older versions of iOS and iPadOS to alert users of web-based attacks and urge them to install the update.\nThe development wa...",
+      "published": "2026-03-27T22:52:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "TeamPCP Pushes Malicious Telnyx Versions to PyPI, Hides Stealer in WAV Files",
+      "link": "https://thehackernews.com/2026/03/teampcp-pushes-malicious-telnyx.html",
+      "summary": "TeamPCP, the threat actor behind the supply chain attack targeting Trivy, KICS, and litellm, has now compromised the telnyx Python package by pushing two malicious versions to steal sensitive data.\nTh...",
+      "published": "2026-03-27T22:23:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Open VSX Bug Let Malicious VS Code Extensions Bypass Pre-Publish Security Checks",
+      "link": "https://thehackernews.com/2026/03/open-vsx-bug-let-malicious-vs-code.html",
+      "summary": "Cybersecurity researchers have disclosed details of a now-patched bug impacting Open VSX's pre-publish scanning pipeline to cause the tool to allow a malicious Microsoft Visual Studio Code (VS Code) e...",
+      "published": "2026-03-27T19:27:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 18.2,
+        "anarchy": 3.0,
+        "overall": 10.6
+      },
+      "keywords": {
+        "chaos": [
+          "bug",
+          "bug"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Canada loaning millions to rare earth project linked to Trump White House",
+      "link": "https://www.cbc.ca/news/canada/nunavik-rare-earth-mining-project-9.7138515",
+      "summary": "<p>Article URL: <a href=\"https://www.cbc.ca/news/canada/nunavik-rare-earth-mining-project-9.7138515\">https://www.cbc.ca/news/canada/nunavik-rare-earth-mining-project-9.7138515</a></p>\n<p>Comments URL:...",
+      "published": "2026-03-27T18:51:42+00:00",
+      "domain": "cbc.ca",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The vanishing \"Proof of Work\" in software engineering",
+      "link": "https://news.ycombinator.com/item?id=47546734",
+      "summary": "<p>In 2023, I spent six months building a recommendation engine from scratch using vector search and manual indexing. Today, an entry-level dev can prompt a \"weekend project\" that looks 90% as good.<p...",
+      "published": "2026-03-27T18:51:16+00:00",
+      "domain": "news.ycombinator.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Vibe-Coded Ext4 for OpenBSD",
+      "link": "https://lwn.net/SubscriberLink/1064541/1a399d572a046fb9/",
+      "summary": "<p>Article URL: <a href=\"https://lwn.net/SubscriberLink/1064541/1a399d572a046fb9/\">https://lwn.net/SubscriberLink/1064541/1a399d572a046fb9/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.c...",
+      "published": "2026-03-27T18:51:06+00:00",
+      "domain": "lwn.net",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The Powerful Men Who Think Introspection Is Dumb",
+      "link": "https://www.theatlantic.com/ideas/2026/03/introspection-andreessen-thiel-bezos/686566/",
+      "summary": "<p>Article URL: <a href=\"https://www.theatlantic.com/ideas/2026/03/introspection-andreessen-thiel-bezos/686566/\">https://www.theatlantic.com/ideas/2026/03/introspection-andreessen-thiel-bezos/686566/<...",
+      "published": "2026-03-27T18:50:40+00:00",
+      "domain": "theatlantic.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "TurboQuant: Online Vector Quantization with Near-Optimal Distortion Rate",
+      "link": "https://openreview.net/forum?id=tO3ASKZlok",
+      "summary": "<p>Article URL: <a href=\"https://openreview.net/forum?id=tO3ASKZlok\">https://openreview.net/forum?id=tO3ASKZlok</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47546711\">https:/...",
+      "published": "2026-03-27T18:48:20+00:00",
+      "domain": "openreview.net",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "AitM Phishing Targets TikTok Business Accounts Using Cloudflare Turnstile Evasion",
       "link": "https://thehackernews.com/2026/03/aitm-phishing-targets-tiktok-business.html",
       "summary": "Threat actors are using adversary-in-the-middle (AitM) phishing pages to seize control of TikTok for Business accounts in a new campaign, according to a report from Push Security.\nBusiness accounts as...",
@@ -503,139 +643,11 @@
       }
     },
     {
-      "title": "We Are At War",
-      "link": "https://thehackernews.com/2026/03/we-are-at-war.html",
-      "summary": "Rising geopolitical tensions are reflected (or in some cases preceded) by cyber operations, while technology itself has become politicized. Let\u2019s admit it: we are in the middle of it.&nbsp;\nIntroducti...",
-      "published": "2026-03-27T16:30:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Bearlyfy Hits Russian Firms with Custom GenieLocker Ransomware",
-      "link": "https://thehackernews.com/2026/03/bearlyfy-hits-70-russian-firms-with.html",
-      "summary": "A pro-Ukrainian group called Bearlyfy has been attributed to more than 70 cyber attacks targeting Russian companies since it first surfaced in the threat landscape in January 2025, with recent attacks...",
-      "published": "2026-03-27T15:34:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "LangChain, LangGraph Flaws Expose Files, Secrets, Databases in Widely Used AI Frameworks",
-      "link": "https://thehackernews.com/2026/03/langchain-langgraph-flaws-expose-files.html",
-      "summary": "Cybersecurity researchers have disclosed three security vulnerabilities impacting LangChain and LangGraph that, if successfully exploited, could expose filesystem data, environment secrets, and conver...",
-      "published": "2026-03-27T13:37:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Sentiment Destruction, Not Demand Destruction",
-      "link": "https://www.apolloacademy.com/sentiment-destruction-not-demand-destruction/",
-      "summary": "<p>Article URL: <a href=\"https://www.apolloacademy.com/sentiment-destruction-not-demand-destruction/\">https://www.apolloacademy.com/sentiment-destruction-not-demand-destruction/</a></p>\n<p>Comments UR...",
-      "published": "2026-03-27T13:08:17+00:00",
-      "domain": "apolloacademy.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Inverted Pendulum Logo",
-      "link": "http://closedbridge.com",
-      "summary": "<p>Article URL: <a href=\"http://closedbridge.com\">http://closedbridge.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47542224\">https://news.ycombinator.com/item?id=47542224...",
-      "published": "2026-03-27T13:06:35+00:00",
-      "domain": "closedbridge.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "WordSnap \u2013 Real-time word battles. One letter. Two players. No mercy",
-      "link": "https://wordsnap.up.railway.app/",
-      "summary": "<p>Article URL: <a href=\"https://wordsnap.up.railway.app/\">https://wordsnap.up.railway.app/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47542223\">https://news.ycombinator.co...",
-      "published": "2026-03-27T13:06:18+00:00",
-      "domain": "wordsnap.up.railway.app",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Teaching Robots to Fly Like Birds",
-      "link": "https://www.rutgers.edu/news/teaching-robots-fly-birds",
-      "summary": "<p>Article URL: <a href=\"https://www.rutgers.edu/news/teaching-robots-fly-birds\">https://www.rutgers.edu/news/teaching-robots-fly-birds</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/i...",
-      "published": "2026-03-27T13:05:22+00:00",
-      "domain": "rutgers.edu",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "AI is the final frontier of late-stage capitalism",
-      "link": "https://reedandpickup.com/2026/03/27/ai-is-the-final-frontier.html",
-      "summary": "<p>Article URL: <a href=\"https://reedandpickup.com/2026/03/27/ai-is-the-final-frontier.html\">https://reedandpickup.com/2026/03/27/ai-is-the-final-frontier.html</a></p>\n<p>Comments URL: <a href=\"https:...",
-      "published": "2026-03-27T13:04:25+00:00",
-      "domain": "reedandpickup.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Sony Announces Price Rises for PS5, PS5 Pro, and PlayStation Portal, Blames 'Continued Pressures in the Global Economic Landscape' / Base PS5 now $650",
-      "link": "https://www.reddit.com/r/technology/comments/1s52d01/sony_announces_price_rises_for_ps5_ps5_pro_and/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1s52d01/sony_announces_price_rises_for_ps5_ps5_pro_and/\"> <img alt=\"Sony Announces Price Rises for PS5, PS5 Pro, and PlayStation ...",
-      "published": "2026-03-27T12:13:54+00:00",
-      "domain": "reddit.com",
+      "title": "AI got the blame for the Iran school bombing. The truth is more worrying",
+      "link": "https://www.theguardian.com/news/2026/mar/26/ai-got-the-blame-for-the-iran-school-bombing-the-truth-is-far-more-worrying",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47544980\">Comments</a>...",
+      "published": "2026-03-27T16:39:32+00:00",
+      "domain": "theguardian.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
