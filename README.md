@@ -22,11 +22,10 @@
 - **Keywords**: down
 - [Read more](https://www.reddit.com/r/technology/comments/1s4n6zx/major_outgoing_ceos_are_citing_ai_as_a_factor_in/)
 
-### From Zip to Nought
+### DashPane – macOS window switcher, no account, no subscription, pure Swift
 - **Published**: March 27, 2026
-- **Summary**: https://hackaday.com/2026/03/24/from-zip-to-nought-the-rise-and-fall-of-iomega/</a></p>
-<p>Com......
-- [Read more](https://hackaday.com/2026/03/24/from-zip-to-nought-the-rise-and-fall-of-iomega/)
+- **Summary**: <p>DashPane replaces the Cmd+Tab experience on macOS. Not a tiling manager, not a workspace organizer — just the fastest way to find and switch to any...
+- [Read more](https://news.ycombinator.com/item?id=47539783)
 
 ---
 
