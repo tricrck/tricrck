@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### AMD's Ryzen 9 9950X3D2 Dual Edition crams 208MB of cache into a single chip
+### Citrix NetScaler Under Active Recon for CVE-2026-3055 (CVSS 9.3) Memory Overread Bug
 - **Published**: March 28, 2026
-- **Summary**: ......
-- [Read more](https://arstechnica.com/gadgets/2026/03/amds-ryzen-9-9950x3d2-dual-edition-crams-208mb-of-cache-into-a-single-chip/)
+- **Summary**: A recently disclosed critical security flaw impacting Citrix NetScaler ADC and NetScaler Gateway is witnessing active reconnaissance activity, accordi...
+- **Keywords**: bug
+- [Read more](https://thehackernews.com/2026/03/citrix-netscaler-under-active-recon-for.html)
 
-### Llama.cpp with CUDA Support on Original Jetson Nano (4GB)
+### There's a Good Reason You Can't Concentrate
 - **Published**: March 28, 2026
-- **Summary**: https://github.com/kreier/llama.cpp-jetson</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47552248">https:/......
-- [Read more](https://github.com/kreier/llama.cpp-jetson)
+- **Summary**: https://www.nytimes.com/2026/03/27/opinion/technology-mental-fitness-cognitive.html</a></p......
+- [Read more](https://www.nytimes.com/2026/03/27/opinion/technology-mental-fitness-cognitive.html)
 
 ---
 

@@ -1,15 +1,33 @@
 {
   "chaos_ranked": [
     {
-      "title": "AMD's Ryzen 9 9950X3D2 Dual Edition crams 208MB of cache into a single chip",
-      "link": "https://arstechnica.com/gadgets/2026/03/amds-ryzen-9-9950x3d2-dual-edition-crams-208mb-of-cache-into-a-single-chip/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47550878\">Comments</a>...",
-      "published": "2026-03-28T02:17:04+00:00",
-      "domain": "arstechnica.com",
+      "title": "Citrix NetScaler Under Active Recon for CVE-2026-3055 (CVSS 9.3) Memory Overread Bug",
+      "link": "https://thehackernews.com/2026/03/citrix-netscaler-under-active-recon-for.html",
+      "summary": "A recently disclosed critical security flaw impacting Citrix NetScaler ADC and NetScaler Gateway is witnessing active reconnaissance activity, according to Defused Cyber and watchTowr.\nThe vulnerabili...",
+      "published": "2026-03-28T14:41:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
-        "chaos": 18.0,
-        "anarchy": 12.0,
-        "overall": 15.0
+        "chaos": 11.5,
+        "anarchy": 3.0,
+        "overall": 7.3
+      },
+      "keywords": {
+        "chaos": [
+          "bug"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "There's a Good Reason You Can't Concentrate",
+      "link": "https://www.nytimes.com/2026/03/27/opinion/technology-mental-fitness-cognitive.html",
+      "summary": "<p>Article URL: <a href=\"https://www.nytimes.com/2026/03/27/opinion/technology-mental-fitness-cognitive.html\">https://www.nytimes.com/2026/03/27/opinion/technology-mental-fitness-cognitive.html</a></p...",
+      "published": "2026-03-28T12:50:54+00:00",
+      "domain": "nytimes.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
       },
       "keywords": {
         "chaos": [],
@@ -17,10 +35,42 @@
       }
     },
     {
-      "title": "Llama.cpp with CUDA Support on Original Jetson Nano (4GB)",
-      "link": "https://github.com/kreier/llama.cpp-jetson",
-      "summary": "<p>Article URL: <a href=\"https://github.com/kreier/llama.cpp-jetson\">https://github.com/kreier/llama.cpp-jetson</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47552248\">https:/...",
-      "published": "2026-03-28T06:53:42+00:00",
+      "title": "Solvespace v3.2 (CAD)",
+      "link": "https://solvespace.com/index.pl",
+      "summary": "<p>Article URL: <a href=\"https://solvespace.com/index.pl\">https://solvespace.com/index.pl</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47554132\">https://news.ycombinator.com/...",
+      "published": "2026-03-28T12:50:50+00:00",
+      "domain": "solvespace.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The missing dataset for clean-topology 3D mesh generation?",
+      "link": "https://news.ycombinator.com/item?id=47554130",
+      "summary": "<p>We need a Blender bpy.ops dataset for autoregressive modeling and mesh generation is a dead end being eaten alive by publish or perish.<p>Everyone knows neural mesh generation is a bit of a useless...",
+      "published": "2026-03-28T12:50:40+00:00",
+      "domain": "news.ycombinator.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Shellwright \u2013 Playwright for CLIs \u2013 Helps Claude with Interactive CLIs",
+      "link": "https://github.com/nielsbosma/shellwright",
+      "summary": "<p>Article URL: <a href=\"https://github.com/nielsbosma/shellwright\">https://github.com/nielsbosma/shellwright</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47554111\">https://n...",
+      "published": "2026-03-28T12:48:15+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -33,11 +83,11 @@
       }
     },
     {
-      "title": "LLMs on a PowerPC Mac",
-      "link": "http://www.theresistornetwork.com/2025/03/thinking-different-thinking-slowly-llms.html",
-      "summary": "<p>Article URL: <a href=\"http://www.theresistornetwork.com/2025/03/thinking-different-thinking-slowly-llms.html\">http://www.theresistornetwork.com/2025/03/thinking-different-thinking-slowly-llms.html<...",
-      "published": "2026-03-28T06:52:39+00:00",
-      "domain": "theresistornetwork.com",
+      "title": "Mistral Voxtral TTS Running On-Device via MLX on Apple Devices",
+      "link": "https://github.com/lbj96347/Mistral-TTS-iOS",
+      "summary": "<p>Article URL: <a href=\"https://github.com/lbj96347/Mistral-TTS-iOS\">https://github.com/lbj96347/Mistral-TTS-iOS</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47554102\">https...",
+      "published": "2026-03-28T12:47:13+00:00",
+      "domain": "github.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -49,90 +99,10 @@
       }
     },
     {
-      "title": "Show HN: WordGen, a fast and easy to use wordlist generator",
-      "link": "https://news.ycombinator.com/item?id=47552244",
-      "summary": "<p>Wordgen is a fast and easy to use wordlist generator that can make robust wordlists very fastly. Make millions of lines of wordlist in just a minute. Use your custom wordlist with tools like hydra ...",
-      "published": "2026-03-28T06:52:37+00:00",
-      "domain": "news.ycombinator.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Stop Guessing. Start Scaling. Land Your Dream Big Tech Offer with InterviewGPT",
-      "link": "https://interviewgpt.deepchill.app/blogs",
-      "summary": "<p>Article URL: <a href=\"https://interviewgpt.deepchill.app/blogs\">https://interviewgpt.deepchill.app/blogs</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47552239\">https://new...",
-      "published": "2026-03-28T06:52:08+00:00",
-      "domain": "interviewgpt.deepchill.app",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: NUPA is Pax Economica, 6,480x more stable than current US economy",
-      "link": "https://news.ycombinator.com/item?id=47552220",
-      "summary": "<p>NUPA: private post-scarcity OS using BLM land leases + contract law. 100M Monte Carlo runs show 99.999999% survival, 6,480x more resilient than US GDP under systemic noise. Fixed Cost Arbitrage bea...",
-      "published": "2026-03-28T06:44:17+00:00",
-      "domain": "news.ycombinator.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "How to Keep ICE Agents Out of Your Phone at the Airport",
-      "link": "https://www.reddit.com/r/technology/comments/1s5ozco/how_to_keep_ice_agents_out_of_your_phone_at_the/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1s5ozco/how_to_keep_ice_agents_out_of_your_phone_at_the/\"> <img alt=\"How to Keep ICE Agents Out of Your Phone at the Airport\" src...",
-      "published": "2026-03-28T03:02:21+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Go hard on agents, not on your filesystem",
-      "link": "https://jai.scs.stanford.edu/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47550282\">Comments</a>...",
-      "published": "2026-03-28T00:39:54+00:00",
-      "domain": "jai.scs.stanford.edu",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Apple Sends Lock Screen Alerts to Outdated iPhones Over Active Web-Based Exploits",
-      "link": "https://thehackernews.com/2026/03/apple-sends-lock-screen-alerts-to.html",
-      "summary": "Apple is now sending Lock Screen notifications to iPhones and iPads running older versions of iOS and iPadOS to alert users of web-based attacks and urge them to install the update.\nThe development wa...",
-      "published": "2026-03-27T22:52:00+05:30",
+      "title": "CISA Adds CVE-2025-53521 to KEV After Active F5 BIG-IP APM Exploitation",
+      "link": "https://thehackernews.com/2026/03/cisa-adds-cve-2025-53521-to-kev-after.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a critical security flaw impacting F5 BIG-IP Access Policy Manager (APM) to its Known Exploited Vulnerabilities (KEV) c...",
+      "published": "2026-03-28T12:37:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -145,11 +115,43 @@
       }
     },
     {
-      "title": "TeamPCP Pushes Malicious Telnyx Versions to PyPI, Hides Stealer in WAV Files",
-      "link": "https://thehackernews.com/2026/03/teampcp-pushes-malicious-telnyx.html",
-      "summary": "TeamPCP, the threat actor behind the supply chain attack targeting Trivy, KICS, and litellm, has now compromised the telnyx Python package by pushing two malicious versions to steal sensitive data.\nTh...",
-      "published": "2026-03-27T22:23:00+05:30",
+      "title": "TA446 Deploys DarkSword iOS Exploit Kit in Targeted Spear-Phishing Campaign",
+      "link": "https://thehackernews.com/2026/03/ta446-deploys-leaked-darksword-ios.html",
+      "summary": "Proofpoint has disclosed details of a targeted email campaign in which threat actors with ties to Russia are leveraging the recently disclosed DarkSword exploit kit to target iOS devices.\nThe activity...",
+      "published": "2026-03-28T12:37:00+05:30",
       "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "I put all 8,642 Spanish laws in Git \u2013 every reform is a commit",
+      "link": "https://github.com/EnriqueLop/legalize-es",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47553798\">Comments</a>...",
+      "published": "2026-03-28T12:01:27+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "I Built an Open-World Engine for the N64 [video]",
+      "link": "https://www.youtube.com/watch?v=lXxmIw9axWw",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47553717\">Comments</a>...",
+      "published": "2026-03-28T11:49:28+00:00",
+      "domain": "youtube.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -163,15 +165,33 @@
   ],
   "anarchy_ranked": [
     {
-      "title": "AMD's Ryzen 9 9950X3D2 Dual Edition crams 208MB of cache into a single chip",
-      "link": "https://arstechnica.com/gadgets/2026/03/amds-ryzen-9-9950x3d2-dual-edition-crams-208mb-of-cache-into-a-single-chip/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47550878\">Comments</a>...",
-      "published": "2026-03-28T02:17:04+00:00",
-      "domain": "arstechnica.com",
+      "title": "Citrix NetScaler Under Active Recon for CVE-2026-3055 (CVSS 9.3) Memory Overread Bug",
+      "link": "https://thehackernews.com/2026/03/citrix-netscaler-under-active-recon-for.html",
+      "summary": "A recently disclosed critical security flaw impacting Citrix NetScaler ADC and NetScaler Gateway is witnessing active reconnaissance activity, according to Defused Cyber and watchTowr.\nThe vulnerabili...",
+      "published": "2026-03-28T14:41:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
-        "chaos": 18.0,
-        "anarchy": 12.0,
-        "overall": 15.0
+        "chaos": 11.5,
+        "anarchy": 3.0,
+        "overall": 7.3
+      },
+      "keywords": {
+        "chaos": [
+          "bug"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "There's a Good Reason You Can't Concentrate",
+      "link": "https://www.nytimes.com/2026/03/27/opinion/technology-mental-fitness-cognitive.html",
+      "summary": "<p>Article URL: <a href=\"https://www.nytimes.com/2026/03/27/opinion/technology-mental-fitness-cognitive.html\">https://www.nytimes.com/2026/03/27/opinion/technology-mental-fitness-cognitive.html</a></p...",
+      "published": "2026-03-28T12:50:54+00:00",
+      "domain": "nytimes.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
       },
       "keywords": {
         "chaos": [],
@@ -179,10 +199,42 @@
       }
     },
     {
-      "title": "Llama.cpp with CUDA Support on Original Jetson Nano (4GB)",
-      "link": "https://github.com/kreier/llama.cpp-jetson",
-      "summary": "<p>Article URL: <a href=\"https://github.com/kreier/llama.cpp-jetson\">https://github.com/kreier/llama.cpp-jetson</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47552248\">https:/...",
-      "published": "2026-03-28T06:53:42+00:00",
+      "title": "Solvespace v3.2 (CAD)",
+      "link": "https://solvespace.com/index.pl",
+      "summary": "<p>Article URL: <a href=\"https://solvespace.com/index.pl\">https://solvespace.com/index.pl</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47554132\">https://news.ycombinator.com/...",
+      "published": "2026-03-28T12:50:50+00:00",
+      "domain": "solvespace.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The missing dataset for clean-topology 3D mesh generation?",
+      "link": "https://news.ycombinator.com/item?id=47554130",
+      "summary": "<p>We need a Blender bpy.ops dataset for autoregressive modeling and mesh generation is a dead end being eaten alive by publish or perish.<p>Everyone knows neural mesh generation is a bit of a useless...",
+      "published": "2026-03-28T12:50:40+00:00",
+      "domain": "news.ycombinator.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Shellwright \u2013 Playwright for CLIs \u2013 Helps Claude with Interactive CLIs",
+      "link": "https://github.com/nielsbosma/shellwright",
+      "summary": "<p>Article URL: <a href=\"https://github.com/nielsbosma/shellwright\">https://github.com/nielsbosma/shellwright</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47554111\">https://n...",
+      "published": "2026-03-28T12:48:15+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -195,11 +247,11 @@
       }
     },
     {
-      "title": "LLMs on a PowerPC Mac",
-      "link": "http://www.theresistornetwork.com/2025/03/thinking-different-thinking-slowly-llms.html",
-      "summary": "<p>Article URL: <a href=\"http://www.theresistornetwork.com/2025/03/thinking-different-thinking-slowly-llms.html\">http://www.theresistornetwork.com/2025/03/thinking-different-thinking-slowly-llms.html<...",
-      "published": "2026-03-28T06:52:39+00:00",
-      "domain": "theresistornetwork.com",
+      "title": "Mistral Voxtral TTS Running On-Device via MLX on Apple Devices",
+      "link": "https://github.com/lbj96347/Mistral-TTS-iOS",
+      "summary": "<p>Article URL: <a href=\"https://github.com/lbj96347/Mistral-TTS-iOS\">https://github.com/lbj96347/Mistral-TTS-iOS</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47554102\">https...",
+      "published": "2026-03-28T12:47:13+00:00",
+      "domain": "github.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -211,90 +263,10 @@
       }
     },
     {
-      "title": "Show HN: WordGen, a fast and easy to use wordlist generator",
-      "link": "https://news.ycombinator.com/item?id=47552244",
-      "summary": "<p>Wordgen is a fast and easy to use wordlist generator that can make robust wordlists very fastly. Make millions of lines of wordlist in just a minute. Use your custom wordlist with tools like hydra ...",
-      "published": "2026-03-28T06:52:37+00:00",
-      "domain": "news.ycombinator.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Stop Guessing. Start Scaling. Land Your Dream Big Tech Offer with InterviewGPT",
-      "link": "https://interviewgpt.deepchill.app/blogs",
-      "summary": "<p>Article URL: <a href=\"https://interviewgpt.deepchill.app/blogs\">https://interviewgpt.deepchill.app/blogs</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47552239\">https://new...",
-      "published": "2026-03-28T06:52:08+00:00",
-      "domain": "interviewgpt.deepchill.app",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: NUPA is Pax Economica, 6,480x more stable than current US economy",
-      "link": "https://news.ycombinator.com/item?id=47552220",
-      "summary": "<p>NUPA: private post-scarcity OS using BLM land leases + contract law. 100M Monte Carlo runs show 99.999999% survival, 6,480x more resilient than US GDP under systemic noise. Fixed Cost Arbitrage bea...",
-      "published": "2026-03-28T06:44:17+00:00",
-      "domain": "news.ycombinator.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "How to Keep ICE Agents Out of Your Phone at the Airport",
-      "link": "https://www.reddit.com/r/technology/comments/1s5ozco/how_to_keep_ice_agents_out_of_your_phone_at_the/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1s5ozco/how_to_keep_ice_agents_out_of_your_phone_at_the/\"> <img alt=\"How to Keep ICE Agents Out of Your Phone at the Airport\" src...",
-      "published": "2026-03-28T03:02:21+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Go hard on agents, not on your filesystem",
-      "link": "https://jai.scs.stanford.edu/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47550282\">Comments</a>...",
-      "published": "2026-03-28T00:39:54+00:00",
-      "domain": "jai.scs.stanford.edu",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Apple Sends Lock Screen Alerts to Outdated iPhones Over Active Web-Based Exploits",
-      "link": "https://thehackernews.com/2026/03/apple-sends-lock-screen-alerts-to.html",
-      "summary": "Apple is now sending Lock Screen notifications to iPhones and iPads running older versions of iOS and iPadOS to alert users of web-based attacks and urge them to install the update.\nThe development wa...",
-      "published": "2026-03-27T22:52:00+05:30",
+      "title": "CISA Adds CVE-2025-53521 to KEV After Active F5 BIG-IP APM Exploitation",
+      "link": "https://thehackernews.com/2026/03/cisa-adds-cve-2025-53521-to-kev-after.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a critical security flaw impacting F5 BIG-IP Access Policy Manager (APM) to its Known Exploited Vulnerabilities (KEV) c...",
+      "published": "2026-03-28T12:37:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -307,11 +279,43 @@
       }
     },
     {
-      "title": "TeamPCP Pushes Malicious Telnyx Versions to PyPI, Hides Stealer in WAV Files",
-      "link": "https://thehackernews.com/2026/03/teampcp-pushes-malicious-telnyx.html",
-      "summary": "TeamPCP, the threat actor behind the supply chain attack targeting Trivy, KICS, and litellm, has now compromised the telnyx Python package by pushing two malicious versions to steal sensitive data.\nTh...",
-      "published": "2026-03-27T22:23:00+05:30",
+      "title": "TA446 Deploys DarkSword iOS Exploit Kit in Targeted Spear-Phishing Campaign",
+      "link": "https://thehackernews.com/2026/03/ta446-deploys-leaked-darksword-ios.html",
+      "summary": "Proofpoint has disclosed details of a targeted email campaign in which threat actors with ties to Russia are leveraging the recently disclosed DarkSword exploit kit to target iOS devices.\nThe activity...",
+      "published": "2026-03-28T12:37:00+05:30",
       "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "I put all 8,642 Spanish laws in Git \u2013 every reform is a commit",
+      "link": "https://github.com/EnriqueLop/legalize-es",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47553798\">Comments</a>...",
+      "published": "2026-03-28T12:01:27+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "I Built an Open-World Engine for the N64 [video]",
+      "link": "https://www.youtube.com/watch?v=lXxmIw9axWw",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47553717\">Comments</a>...",
+      "published": "2026-03-28T11:49:28+00:00",
+      "domain": "youtube.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -325,15 +329,33 @@
   ],
   "overall_ranked": [
     {
-      "title": "AMD's Ryzen 9 9950X3D2 Dual Edition crams 208MB of cache into a single chip",
-      "link": "https://arstechnica.com/gadgets/2026/03/amds-ryzen-9-9950x3d2-dual-edition-crams-208mb-of-cache-into-a-single-chip/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47550878\">Comments</a>...",
-      "published": "2026-03-28T02:17:04+00:00",
-      "domain": "arstechnica.com",
+      "title": "Citrix NetScaler Under Active Recon for CVE-2026-3055 (CVSS 9.3) Memory Overread Bug",
+      "link": "https://thehackernews.com/2026/03/citrix-netscaler-under-active-recon-for.html",
+      "summary": "A recently disclosed critical security flaw impacting Citrix NetScaler ADC and NetScaler Gateway is witnessing active reconnaissance activity, according to Defused Cyber and watchTowr.\nThe vulnerabili...",
+      "published": "2026-03-28T14:41:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
-        "chaos": 18.0,
-        "anarchy": 12.0,
-        "overall": 15.0
+        "chaos": 11.5,
+        "anarchy": 3.0,
+        "overall": 7.3
+      },
+      "keywords": {
+        "chaos": [
+          "bug"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "There's a Good Reason You Can't Concentrate",
+      "link": "https://www.nytimes.com/2026/03/27/opinion/technology-mental-fitness-cognitive.html",
+      "summary": "<p>Article URL: <a href=\"https://www.nytimes.com/2026/03/27/opinion/technology-mental-fitness-cognitive.html\">https://www.nytimes.com/2026/03/27/opinion/technology-mental-fitness-cognitive.html</a></p...",
+      "published": "2026-03-28T12:50:54+00:00",
+      "domain": "nytimes.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
       },
       "keywords": {
         "chaos": [],
@@ -341,10 +363,42 @@
       }
     },
     {
-      "title": "Llama.cpp with CUDA Support on Original Jetson Nano (4GB)",
-      "link": "https://github.com/kreier/llama.cpp-jetson",
-      "summary": "<p>Article URL: <a href=\"https://github.com/kreier/llama.cpp-jetson\">https://github.com/kreier/llama.cpp-jetson</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47552248\">https:/...",
-      "published": "2026-03-28T06:53:42+00:00",
+      "title": "Solvespace v3.2 (CAD)",
+      "link": "https://solvespace.com/index.pl",
+      "summary": "<p>Article URL: <a href=\"https://solvespace.com/index.pl\">https://solvespace.com/index.pl</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47554132\">https://news.ycombinator.com/...",
+      "published": "2026-03-28T12:50:50+00:00",
+      "domain": "solvespace.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The missing dataset for clean-topology 3D mesh generation?",
+      "link": "https://news.ycombinator.com/item?id=47554130",
+      "summary": "<p>We need a Blender bpy.ops dataset for autoregressive modeling and mesh generation is a dead end being eaten alive by publish or perish.<p>Everyone knows neural mesh generation is a bit of a useless...",
+      "published": "2026-03-28T12:50:40+00:00",
+      "domain": "news.ycombinator.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Shellwright \u2013 Playwright for CLIs \u2013 Helps Claude with Interactive CLIs",
+      "link": "https://github.com/nielsbosma/shellwright",
+      "summary": "<p>Article URL: <a href=\"https://github.com/nielsbosma/shellwright\">https://github.com/nielsbosma/shellwright</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47554111\">https://n...",
+      "published": "2026-03-28T12:48:15+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -357,11 +411,11 @@
       }
     },
     {
-      "title": "LLMs on a PowerPC Mac",
-      "link": "http://www.theresistornetwork.com/2025/03/thinking-different-thinking-slowly-llms.html",
-      "summary": "<p>Article URL: <a href=\"http://www.theresistornetwork.com/2025/03/thinking-different-thinking-slowly-llms.html\">http://www.theresistornetwork.com/2025/03/thinking-different-thinking-slowly-llms.html<...",
-      "published": "2026-03-28T06:52:39+00:00",
-      "domain": "theresistornetwork.com",
+      "title": "Mistral Voxtral TTS Running On-Device via MLX on Apple Devices",
+      "link": "https://github.com/lbj96347/Mistral-TTS-iOS",
+      "summary": "<p>Article URL: <a href=\"https://github.com/lbj96347/Mistral-TTS-iOS\">https://github.com/lbj96347/Mistral-TTS-iOS</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47554102\">https...",
+      "published": "2026-03-28T12:47:13+00:00",
+      "domain": "github.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -373,90 +427,10 @@
       }
     },
     {
-      "title": "Show HN: WordGen, a fast and easy to use wordlist generator",
-      "link": "https://news.ycombinator.com/item?id=47552244",
-      "summary": "<p>Wordgen is a fast and easy to use wordlist generator that can make robust wordlists very fastly. Make millions of lines of wordlist in just a minute. Use your custom wordlist with tools like hydra ...",
-      "published": "2026-03-28T06:52:37+00:00",
-      "domain": "news.ycombinator.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Stop Guessing. Start Scaling. Land Your Dream Big Tech Offer with InterviewGPT",
-      "link": "https://interviewgpt.deepchill.app/blogs",
-      "summary": "<p>Article URL: <a href=\"https://interviewgpt.deepchill.app/blogs\">https://interviewgpt.deepchill.app/blogs</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47552239\">https://new...",
-      "published": "2026-03-28T06:52:08+00:00",
-      "domain": "interviewgpt.deepchill.app",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: NUPA is Pax Economica, 6,480x more stable than current US economy",
-      "link": "https://news.ycombinator.com/item?id=47552220",
-      "summary": "<p>NUPA: private post-scarcity OS using BLM land leases + contract law. 100M Monte Carlo runs show 99.999999% survival, 6,480x more resilient than US GDP under systemic noise. Fixed Cost Arbitrage bea...",
-      "published": "2026-03-28T06:44:17+00:00",
-      "domain": "news.ycombinator.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "How to Keep ICE Agents Out of Your Phone at the Airport",
-      "link": "https://www.reddit.com/r/technology/comments/1s5ozco/how_to_keep_ice_agents_out_of_your_phone_at_the/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1s5ozco/how_to_keep_ice_agents_out_of_your_phone_at_the/\"> <img alt=\"How to Keep ICE Agents Out of Your Phone at the Airport\" src...",
-      "published": "2026-03-28T03:02:21+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Go hard on agents, not on your filesystem",
-      "link": "https://jai.scs.stanford.edu/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47550282\">Comments</a>...",
-      "published": "2026-03-28T00:39:54+00:00",
-      "domain": "jai.scs.stanford.edu",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Apple Sends Lock Screen Alerts to Outdated iPhones Over Active Web-Based Exploits",
-      "link": "https://thehackernews.com/2026/03/apple-sends-lock-screen-alerts-to.html",
-      "summary": "Apple is now sending Lock Screen notifications to iPhones and iPads running older versions of iOS and iPadOS to alert users of web-based attacks and urge them to install the update.\nThe development wa...",
-      "published": "2026-03-27T22:52:00+05:30",
+      "title": "CISA Adds CVE-2025-53521 to KEV After Active F5 BIG-IP APM Exploitation",
+      "link": "https://thehackernews.com/2026/03/cisa-adds-cve-2025-53521-to-kev-after.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a critical security flaw impacting F5 BIG-IP Access Policy Manager (APM) to its Known Exploited Vulnerabilities (KEV) c...",
+      "published": "2026-03-28T12:37:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -469,11 +443,43 @@
       }
     },
     {
-      "title": "TeamPCP Pushes Malicious Telnyx Versions to PyPI, Hides Stealer in WAV Files",
-      "link": "https://thehackernews.com/2026/03/teampcp-pushes-malicious-telnyx.html",
-      "summary": "TeamPCP, the threat actor behind the supply chain attack targeting Trivy, KICS, and litellm, has now compromised the telnyx Python package by pushing two malicious versions to steal sensitive data.\nTh...",
-      "published": "2026-03-27T22:23:00+05:30",
+      "title": "TA446 Deploys DarkSword iOS Exploit Kit in Targeted Spear-Phishing Campaign",
+      "link": "https://thehackernews.com/2026/03/ta446-deploys-leaked-darksword-ios.html",
+      "summary": "Proofpoint has disclosed details of a targeted email campaign in which threat actors with ties to Russia are leveraging the recently disclosed DarkSword exploit kit to target iOS devices.\nThe activity...",
+      "published": "2026-03-28T12:37:00+05:30",
       "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "I put all 8,642 Spanish laws in Git \u2013 every reform is a commit",
+      "link": "https://github.com/EnriqueLop/legalize-es",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47553798\">Comments</a>...",
+      "published": "2026-03-28T12:01:27+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "I Built an Open-World Engine for the N64 [video]",
+      "link": "https://www.youtube.com/watch?v=lXxmIw9axWw",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47553717\">Comments</a>...",
+      "published": "2026-03-28T11:49:28+00:00",
+      "domain": "youtube.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -487,10 +493,76 @@
   ],
   "all_articles": [
     {
-      "title": "Llama.cpp with CUDA Support on Original Jetson Nano (4GB)",
-      "link": "https://github.com/kreier/llama.cpp-jetson",
-      "summary": "<p>Article URL: <a href=\"https://github.com/kreier/llama.cpp-jetson\">https://github.com/kreier/llama.cpp-jetson</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47552248\">https:/...",
-      "published": "2026-03-28T06:53:42+00:00",
+      "title": "Citrix NetScaler Under Active Recon for CVE-2026-3055 (CVSS 9.3) Memory Overread Bug",
+      "link": "https://thehackernews.com/2026/03/citrix-netscaler-under-active-recon-for.html",
+      "summary": "A recently disclosed critical security flaw impacting Citrix NetScaler ADC and NetScaler Gateway is witnessing active reconnaissance activity, according to Defused Cyber and watchTowr.\nThe vulnerabili...",
+      "published": "2026-03-28T14:41:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 11.5,
+        "anarchy": 3.0,
+        "overall": 7.3
+      },
+      "keywords": {
+        "chaos": [
+          "bug"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "There's a Good Reason You Can't Concentrate",
+      "link": "https://www.nytimes.com/2026/03/27/opinion/technology-mental-fitness-cognitive.html",
+      "summary": "<p>Article URL: <a href=\"https://www.nytimes.com/2026/03/27/opinion/technology-mental-fitness-cognitive.html\">https://www.nytimes.com/2026/03/27/opinion/technology-mental-fitness-cognitive.html</a></p...",
+      "published": "2026-03-28T12:50:54+00:00",
+      "domain": "nytimes.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Solvespace v3.2 (CAD)",
+      "link": "https://solvespace.com/index.pl",
+      "summary": "<p>Article URL: <a href=\"https://solvespace.com/index.pl\">https://solvespace.com/index.pl</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47554132\">https://news.ycombinator.com/...",
+      "published": "2026-03-28T12:50:50+00:00",
+      "domain": "solvespace.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The missing dataset for clean-topology 3D mesh generation?",
+      "link": "https://news.ycombinator.com/item?id=47554130",
+      "summary": "<p>We need a Blender bpy.ops dataset for autoregressive modeling and mesh generation is a dead end being eaten alive by publish or perish.<p>Everyone knows neural mesh generation is a bit of a useless...",
+      "published": "2026-03-28T12:50:40+00:00",
+      "domain": "news.ycombinator.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Shellwright \u2013 Playwright for CLIs \u2013 Helps Claude with Interactive CLIs",
+      "link": "https://github.com/nielsbosma/shellwright",
+      "summary": "<p>Article URL: <a href=\"https://github.com/nielsbosma/shellwright\">https://github.com/nielsbosma/shellwright</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47554111\">https://n...",
+      "published": "2026-03-28T12:48:15+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -503,11 +575,11 @@
       }
     },
     {
-      "title": "LLMs on a PowerPC Mac",
-      "link": "http://www.theresistornetwork.com/2025/03/thinking-different-thinking-slowly-llms.html",
-      "summary": "<p>Article URL: <a href=\"http://www.theresistornetwork.com/2025/03/thinking-different-thinking-slowly-llms.html\">http://www.theresistornetwork.com/2025/03/thinking-different-thinking-slowly-llms.html<...",
-      "published": "2026-03-28T06:52:39+00:00",
-      "domain": "theresistornetwork.com",
+      "title": "Mistral Voxtral TTS Running On-Device via MLX on Apple Devices",
+      "link": "https://github.com/lbj96347/Mistral-TTS-iOS",
+      "summary": "<p>Article URL: <a href=\"https://github.com/lbj96347/Mistral-TTS-iOS\">https://github.com/lbj96347/Mistral-TTS-iOS</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47554102\">https...",
+      "published": "2026-03-28T12:47:13+00:00",
+      "domain": "github.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -519,106 +591,10 @@
       }
     },
     {
-      "title": "Show HN: WordGen, a fast and easy to use wordlist generator",
-      "link": "https://news.ycombinator.com/item?id=47552244",
-      "summary": "<p>Wordgen is a fast and easy to use wordlist generator that can make robust wordlists very fastly. Make millions of lines of wordlist in just a minute. Use your custom wordlist with tools like hydra ...",
-      "published": "2026-03-28T06:52:37+00:00",
-      "domain": "news.ycombinator.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Stop Guessing. Start Scaling. Land Your Dream Big Tech Offer with InterviewGPT",
-      "link": "https://interviewgpt.deepchill.app/blogs",
-      "summary": "<p>Article URL: <a href=\"https://interviewgpt.deepchill.app/blogs\">https://interviewgpt.deepchill.app/blogs</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47552239\">https://new...",
-      "published": "2026-03-28T06:52:08+00:00",
-      "domain": "interviewgpt.deepchill.app",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: NUPA is Pax Economica, 6,480x more stable than current US economy",
-      "link": "https://news.ycombinator.com/item?id=47552220",
-      "summary": "<p>NUPA: private post-scarcity OS using BLM land leases + contract law. 100M Monte Carlo runs show 99.999999% survival, 6,480x more resilient than US GDP under systemic noise. Fixed Cost Arbitrage bea...",
-      "published": "2026-03-28T06:44:17+00:00",
-      "domain": "news.ycombinator.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "How to Keep ICE Agents Out of Your Phone at the Airport",
-      "link": "https://www.reddit.com/r/technology/comments/1s5ozco/how_to_keep_ice_agents_out_of_your_phone_at_the/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1s5ozco/how_to_keep_ice_agents_out_of_your_phone_at_the/\"> <img alt=\"How to Keep ICE Agents Out of Your Phone at the Airport\" src...",
-      "published": "2026-03-28T03:02:21+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "AMD's Ryzen 9 9950X3D2 Dual Edition crams 208MB of cache into a single chip",
-      "link": "https://arstechnica.com/gadgets/2026/03/amds-ryzen-9-9950x3d2-dual-edition-crams-208mb-of-cache-into-a-single-chip/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47550878\">Comments</a>...",
-      "published": "2026-03-28T02:17:04+00:00",
-      "domain": "arstechnica.com",
-      "scores": {
-        "chaos": 18.0,
-        "anarchy": 12.0,
-        "overall": 15.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Go hard on agents, not on your filesystem",
-      "link": "https://jai.scs.stanford.edu/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47550282\">Comments</a>...",
-      "published": "2026-03-28T00:39:54+00:00",
-      "domain": "jai.scs.stanford.edu",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Apple Sends Lock Screen Alerts to Outdated iPhones Over Active Web-Based Exploits",
-      "link": "https://thehackernews.com/2026/03/apple-sends-lock-screen-alerts-to.html",
-      "summary": "Apple is now sending Lock Screen notifications to iPhones and iPads running older versions of iOS and iPadOS to alert users of web-based attacks and urge them to install the update.\nThe development wa...",
-      "published": "2026-03-27T22:52:00+05:30",
+      "title": "CISA Adds CVE-2025-53521 to KEV After Active F5 BIG-IP APM Exploitation",
+      "link": "https://thehackernews.com/2026/03/cisa-adds-cve-2025-53521-to-kev-after.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a critical security flaw impacting F5 BIG-IP Access Policy Manager (APM) to its Known Exploited Vulnerabilities (KEV) c...",
+      "published": "2026-03-28T12:37:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -631,11 +607,43 @@
       }
     },
     {
-      "title": "TeamPCP Pushes Malicious Telnyx Versions to PyPI, Hides Stealer in WAV Files",
-      "link": "https://thehackernews.com/2026/03/teampcp-pushes-malicious-telnyx.html",
-      "summary": "TeamPCP, the threat actor behind the supply chain attack targeting Trivy, KICS, and litellm, has now compromised the telnyx Python package by pushing two malicious versions to steal sensitive data.\nTh...",
-      "published": "2026-03-27T22:23:00+05:30",
+      "title": "TA446 Deploys DarkSword iOS Exploit Kit in Targeted Spear-Phishing Campaign",
+      "link": "https://thehackernews.com/2026/03/ta446-deploys-leaked-darksword-ios.html",
+      "summary": "Proofpoint has disclosed details of a targeted email campaign in which threat actors with ties to Russia are leveraging the recently disclosed DarkSword exploit kit to target iOS devices.\nThe activity...",
+      "published": "2026-03-28T12:37:00+05:30",
       "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "I put all 8,642 Spanish laws in Git \u2013 every reform is a commit",
+      "link": "https://github.com/EnriqueLop/legalize-es",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47553798\">Comments</a>...",
+      "published": "2026-03-28T12:01:27+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "I Built an Open-World Engine for the N64 [video]",
+      "link": "https://www.youtube.com/watch?v=lXxmIw9axWw",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47553717\">Comments</a>...",
+      "published": "2026-03-28T11:49:28+00:00",
+      "domain": "youtube.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
