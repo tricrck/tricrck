@@ -22,10 +22,10 @@
 - **Keywords**: bug
 - [Read more](https://thehackernews.com/2026/03/citrix-netscaler-under-active-recon-for.html)
 
-### There's a Good Reason You Can't Concentrate
+### Iran-Linked Hackers Breach FBI Director’s Personal Email, Hit Stryker With Wiper Attack
 - **Published**: March 28, 2026
-- **Summary**: https://www.nytimes.com/2026/03/27/opinion/technology-mental-fitness-cognitive.html</a></p......
-- [Read more](https://www.nytimes.com/2026/03/27/opinion/technology-mental-fitness-cognitive.html)
+- **Summary**: Threat actors with ties to Iran successfully broke into the personal email account of Kash Patel, the director of the U.S. Federal Bureau of Investiga...
+- [Read more](https://thehackernews.com/2026/03/iran-linked-hackers-breach-fbi.html)
 
 ---
 
