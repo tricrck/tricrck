@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Open VSX Bug Let Malicious VS Code Extensions Bypass Pre-Publish Security Checks
-- **Published**: March 27, 2026
-- **Summary**: Cybersecurity researchers have disclosed details of a now-patched bug impacting Open VSX's pre-publish scanning pipeline to cause the tool to allow a ...
-- **Keywords**: bug, bug
-- [Read more](https://thehackernews.com/2026/03/open-vsx-bug-let-malicious-vs-code.html)
+### AMD's Ryzen 9 9950X3D2 Dual Edition crams 208MB of cache into a single chip
+- **Published**: March 28, 2026
+- **Summary**: https://arstechnica.com/gadgets/2026/03/amds-ryzen-9-9950x......
+- [Read more](https://arstechnica.com/gadgets/2026/03/amds-ryzen-9-9950x3d2-dual-edition-crams-208mb-of-cache-into-a-single-chip/)
 
-### Apple Sends Lock Screen Alerts to Outdated iPhones Over Active Web-Based Exploits
-- **Published**: March 27, 2026
-- **Summary**: Apple is now sending Lock Screen notifications to iPhones and iPads running older versions of iOS and iPadOS to alert users of web-based attacks and u...
-- [Read more](https://thehackernews.com/2026/03/apple-sends-lock-screen-alerts-to.html)
+### Versatile Editing of Video Content, Actions, and Dynamics Without Training
+- **Published**: March 28, 2026
+- **Summary**: https://dynaedit.github.io/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47550854">https://news.ycombinator.com/item?id=......
+- [Read more](https://dynaedit.github.io/)
 
 ---
 
