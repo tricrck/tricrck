@@ -18,14 +18,14 @@
 
 ### AMD's Ryzen 9 9950X3D2 Dual Edition crams 208MB of cache into a single chip
 - **Published**: March 28, 2026
-- **Summary**: https://arstechnica.com/gadgets/2026/03/amds-ryzen-9-9950x......
+- **Summary**: ......
 - [Read more](https://arstechnica.com/gadgets/2026/03/amds-ryzen-9-9950x3d2-dual-edition-crams-208mb-of-cache-into-a-single-chip/)
 
-### Versatile Editing of Video Content, Actions, and Dynamics Without Training
+### Llama.cpp with CUDA Support on Original Jetson Nano (4GB)
 - **Published**: March 28, 2026
-- **Summary**: https://dynaedit.github.io/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47550854">https://news.ycombinator.com/item?id=......
-- [Read more](https://dynaedit.github.io/)
+- **Summary**: https://github.com/kreier/llama.cpp-jetson</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47552248">https:/......
+- [Read more](https://github.com/kreier/llama.cpp-jetson)
 
 ---
 
