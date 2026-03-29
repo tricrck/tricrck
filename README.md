@@ -16,16 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Pamela Anderson’s New Campaign Bans AI Models | Anderson stars in a new campaign for AEO’s Aerie that doubles down on the lifestyle brand’s pledge to “always keep it 100 percent real: no AI-generated bodies, no AI-generated people. Ever.”
+### Another
 - **Published**: March 29, 2026
-- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1s6nr5k/pamela_andersons_new_campaign_bans_ai_models/"> <img alt="Pamela Anderson’s New Cam...
-- **Keywords**: down
-- [Read more](https://www.reddit.com/r/technology/comments/1s6nr5k/pamela_andersons_new_campaign_bans_ai_models/)
+- **Summary**: https://www.timerforemails.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47565877">https://news.ycombinator.com/......
+- [Read more](https://www.timerforemails.com/)
 
-### The Multibillion-Dollar Foundation That Controls the Humanities
+### Gestalt – AI PC builder that compares Amazon vs. eBay prices in real time
 - **Published**: March 29, 2026
-- **Summary**: https://www.theatlantic.com/magazine/2026/03/mellon-foundation-humanities-r......
-- [Read more](https://www.theatlantic.com/magazine/2026/03/mellon-foundation-humanities-research-funding/685733/)
+- **Summary**: https://github.com/Xydra01/Gestalt</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47565867">https://news.ycombinato......
+- [Read more](https://github.com/Xydra01/Gestalt)
 
 ---
 
