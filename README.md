@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Next 12 months: Production Code that runs itself
+### Pamela Anderson’s New Campaign Bans AI Models | Anderson stars in a new campaign for AEO’s Aerie that doubles down on the lifestyle brand’s pledge to “always keep it 100 percent real: no AI-generated bodies, no AI-generated people. Ever.”
 - **Published**: March 29, 2026
-- **Summary**: <p>Here's what I've been watching: startups do the market research, build the product, create the category and Claude Code ships the exact same featur...
-- [Read more](https://news.ycombinator.com/item?id=47560987)
+- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1s6nr5k/pamela_andersons_new_campaign_bans_ai_models/"> <img alt="Pamela Anderson’s New Cam...
+- **Keywords**: down
+- [Read more](https://www.reddit.com/r/technology/comments/1s6nr5k/pamela_andersons_new_campaign_bans_ai_models/)
 
-### The road to electric – in charts and data [UK]
+### The Multibillion-Dollar Foundation That Controls the Humanities
 - **Published**: March 29, 2026
-- **Summary**: https://www.rac.co.uk/drive/electric-cars/choosing/road-to-electric/</a></p>
-<p>Comments URL: <a href="ht......
-- [Read more](https://www.rac.co.uk/drive/electric-cars/choosing/road-to-electric/)
+- **Summary**: https://www.theatlantic.com/magazine/2026/03/mellon-foundation-humanities-r......
+- [Read more](https://www.theatlantic.com/magazine/2026/03/mellon-foundation-humanities-research-funding/685733/)
 
 ---
 
