@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### TurboQuant: KV Cache Quantization to 3.5 Bits with Zero Accuracy Loss- ICLR 2026
+### Next 12 months: Production Code that runs itself
 - **Published**: March 29, 2026
-- **Summary**: https://darshanfofadiya.com/research-papers/turboquant/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com......
-- [Read more](https://darshanfofadiya.com/research-papers/turboquant/)
+- **Summary**: <p>Here's what I've been watching: startups do the market research, build the product, create the category and Claude Code ships the exact same featur...
+- [Read more](https://news.ycombinator.com/item?id=47560987)
 
-### Memlab – Analyzes JavaScript heap and finds memory leaks in browser and Node.js
+### The road to electric – in charts and data [UK]
 - **Published**: March 29, 2026
-- **Summary**: https://facebook.github.io//memlab/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47559917">https://news.ycombina......
-- [Read more](https://facebook.github.io//memlab/)
+- **Summary**: https://www.rac.co.uk/drive/electric-cars/choosing/road-to-electric/</a></p>
+<p>Comments URL: <a href="ht......
+- [Read more](https://www.rac.co.uk/drive/electric-cars/choosing/road-to-electric/)
 
 ---
 
