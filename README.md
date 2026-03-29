@@ -16,16 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Citrix NetScaler Under Active Recon for CVE-2026-3055 (CVSS 9.3) Memory Overread Bug
-- **Published**: March 28, 2026
-- **Summary**: A recently disclosed critical security flaw impacting Citrix NetScaler ADC and NetScaler Gateway is witnessing active reconnaissance activity, accordi...
-- **Keywords**: bug
-- [Read more](https://thehackernews.com/2026/03/citrix-netscaler-under-active-recon-for.html)
+### TurboQuant: KV Cache Quantization to 3.5 Bits with Zero Accuracy Loss- ICLR 2026
+- **Published**: March 29, 2026
+- **Summary**: https://darshanfofadiya.com/research-papers/turboquant/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com......
+- [Read more](https://darshanfofadiya.com/research-papers/turboquant/)
 
-### Iran-Linked Hackers Breach FBI Director’s Personal Email, Hit Stryker With Wiper Attack
-- **Published**: March 28, 2026
-- **Summary**: Threat actors with ties to Iran successfully broke into the personal email account of Kash Patel, the director of the U.S. Federal Bureau of Investiga...
-- [Read more](https://thehackernews.com/2026/03/iran-linked-hackers-breach-fbi.html)
+### Memlab – Analyzes JavaScript heap and finds memory leaks in browser and Node.js
+- **Published**: March 29, 2026
+- **Summary**: https://facebook.github.io//memlab/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47559917">https://news.ycombina......
+- [Read more](https://facebook.github.io//memlab/)
 
 ---
 
