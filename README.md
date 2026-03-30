@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Why Don't You Use String Views Instead of Passing Std:Wstring by Const&
+### Three China-Linked Clusters Target Southeast Asian Government in 2025 Cyber Campaign
 - **Published**: March 30, 2026
-- **Summary**: https://giodicanio.com/2024/05/14/why......
-- [Read more](https://giodicanio.com/2024/05/14/why-dont-you-use-string-views-like-std-wstring_view-instead-of-passing-std-wstring-by-const-reference/)
+- **Summary**: Three threat activity clusters aligned with China have targeted a government organization in Southeast Asia as part of what has been described as a "c...
+- [Read more](https://thehackernews.com/2026/03/three-china-linked-clusters-target.html)
 
-### Agentic Hive – Manage Claude Code and Codex Tmux Sessions from a Browser
+### Show HN: TermCanvas – An infinite canvas for your terminals
 - **Published**: March 30, 2026
-- **Summary**: https://github.com/wisbric/agentic-hive</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47569758">https://news.......
-- [Read more](https://github.com/wisbric/agentic-hive)
+- **Summary**: https://github.com/blueberrycongee/termcanvas</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47571499">h......
+- [Read more](https://github.com/blueberrycongee/termcanvas)
 
 ---
 
