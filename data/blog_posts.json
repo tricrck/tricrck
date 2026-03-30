@@ -1,6 +1,120 @@
 {
   "chaos_ranked": [
     {
+      "title": "The State of Secrets Sprawl 2026: 9 Takeaways for CISOs",
+      "link": "https://thehackernews.com/2026/03/the-state-of-secrets-sprawl-2026-9.html",
+      "summary": "Secrets sprawl isn't slowing down: in 2025, it accelerated faster than most security teams anticipated. GitGuardian's State of Secrets Sprawl 2026 report analyzed billions of commits across public Git...",
+      "published": "2026-03-30T17:00:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 9.8,
+        "anarchy": 3.0,
+        "overall": 6.4
+      },
+      "keywords": {
+        "chaos": [
+          "down"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Russian CTRL Toolkit Delivered via Malicious LNK Files Hijacks RDP via FRP Tunnels",
+      "link": "https://thehackernews.com/2026/03/russian-ctrl-toolkit-delivered-via.html",
+      "summary": "Cybersecurity researchers have discovered a remote access toolkit of Russian-origin that's distributed via malicious Windows shortcut (LNK) files that are disguised as private key folders.\nThe CTRL to...",
+      "published": "2026-03-30T15:28:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "How to Keep the Suburbs Tenant-Free",
+      "link": "https://www.theatlantic.com/ideas/2026/03/suburbs-homeownership-renting/686599/",
+      "summary": "<p>Article URL: <a href=\"https://www.theatlantic.com/ideas/2026/03/suburbs-homeownership-renting/686599/\">https://www.theatlantic.com/ideas/2026/03/suburbs-homeownership-renting/686599/</a></p>\n<p>Com...",
+      "published": "2026-03-30T13:18:05+00:00",
+      "domain": "theatlantic.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Moral inconsistency is based on the vmPFC's insufficient representation",
+      "link": "https://www.cell.com/cell-reports/fulltext/S2211-1247(26)00136-1",
+      "summary": "<p>Article URL: <a href=\"https://www.cell.com/cell-reports/fulltext/S2211-1247(26)00136-1\">https://www.cell.com/cell-reports/fulltext/S2211-1247(26)00136-1</a></p>\n<p>Comments URL: <a href=\"https://ne...",
+      "published": "2026-03-30T13:16:35+00:00",
+      "domain": "cell.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Parrots pack twice as many neurons as primate brains of the same mass",
+      "link": "https://www.dhanishsemar.com/writing/bird-brains",
+      "summary": "<p>Article URL: <a href=\"https://www.dhanishsemar.com/writing/bird-brains\">https://www.dhanishsemar.com/writing/bird-brains</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47573...",
+      "published": "2026-03-30T13:14:27+00:00",
+      "domain": "dhanishsemar.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Mochi 0.3: An open, distributed, multi-user app platform",
+      "link": "https://mochi-os.org/",
+      "summary": "<p>Article URL: <a href=\"https://mochi-os.org/\">https://mochi-os.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47573866\">https://news.ycombinator.com/item?id=47573866</a>...",
+      "published": "2026-03-30T13:12:43+00:00",
+      "domain": "mochi-os.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Did You Forget What I Asked? Memory Failures in Large Language Models",
+      "link": "https://arxiv.org/abs/2603.23530",
+      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2603.23530\">https://arxiv.org/abs/2603.23530</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47573862\">https://news.ycombinator.co...",
+      "published": "2026-03-30T13:12:31+00:00",
+      "domain": "arxiv.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "Three China-Linked Clusters Target Southeast Asian Government in 2025 Cyber Campaign",
       "link": "https://thehackernews.com/2026/03/three-china-linked-clusters-target.html",
       "summary": "Three threat activity clusters aligned with China have targeted a government organization in Southeast Asia as part of what has been described as a \"complex and well-resourced operation.\"\nThe campaign...",
@@ -17,11 +131,11 @@
       }
     },
     {
-      "title": "Show HN: TermCanvas \u2013 An infinite canvas for your terminals",
-      "link": "https://github.com/blueberrycongee/termcanvas",
-      "summary": "<p>Article URL: <a href=\"https://github.com/blueberrycongee/termcanvas\">https://github.com/blueberrycongee/termcanvas</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47571499\">h...",
-      "published": "2026-03-30T07:34:48+00:00",
-      "domain": "github.com",
+      "title": "How the AI Bubble Bursts",
+      "link": "https://martinvol.pe/blog/2026/03/30/how-the-ai-bubble-bursts/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47573420\">Comments</a>...",
+      "published": "2026-03-30T12:28:36+00:00",
+      "domain": "martinvol.pe",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -33,123 +147,11 @@
       }
     },
     {
-      "title": "Hamilton-Jacobi-Bellman Equation: Reinforcement Learning and Diffusion Models",
-      "link": "https://dani2442.github.io/posts/continuous-rl/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47571495\">Comments</a>...",
-      "published": "2026-03-30T07:34:04+00:00",
-      "domain": "dani2442.github.io",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Hamilton-Jacobi-Bellman Equation: Reinforcement Learning and Diffusion Models",
-      "link": "https://dani2442.github.io/posts/continuous-rl/",
-      "summary": "<p>Article URL: <a href=\"https://dani2442.github.io/posts/continuous-rl/\">https://dani2442.github.io/posts/continuous-rl/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4757149...",
-      "published": "2026-03-30T07:34:04+00:00",
-      "domain": "dani2442.github.io",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Fast Image AI Image Enhancer",
-      "link": "https://fastimage.ai/ai-image-enhancer",
-      "summary": "<p>Article URL: <a href=\"https://fastimage.ai/ai-image-enhancer\">https://fastimage.ai/ai-image-enhancer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47571485\">https://news.yc...",
-      "published": "2026-03-30T07:33:20+00:00",
-      "domain": "fastimage.ai",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Twitching Before You Sprint",
-      "link": "https://mikefisher.substack.com/p/twitching-before-you-sprint",
-      "summary": "<p>Article URL: <a href=\"https://mikefisher.substack.com/p/twitching-before-you-sprint\">https://mikefisher.substack.com/p/twitching-before-you-sprint</a></p>\n<p>Comments URL: <a href=\"https://news.yco...",
-      "published": "2026-03-30T07:27:45+00:00",
-      "domain": "mikefisher.substack.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Compromised telnyx on PyPI",
-      "link": "https://safedep.io/malicious-telnyx-pypi-compromise/",
-      "summary": "<p>Article URL: <a href=\"https://safedep.io/malicious-telnyx-pypi-compromise/\">https://safedep.io/malicious-telnyx-pypi-compromise/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?...",
-      "published": "2026-03-30T07:22:36+00:00",
-      "domain": "safedep.io",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "I use excalidraw to manage my diagrams for my blog",
-      "link": "https://blog.lysk.tech/excalidraw-frame-export/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47571376\">Comments</a>...",
-      "published": "2026-03-30T07:17:06+00:00",
-      "domain": "blog.lysk.tech",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The curious case of retro demo scene graphics",
-      "link": "https://www.datagubbe.se/aipixels/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47570666\">Comments</a>...",
-      "published": "2026-03-30T05:27:18+00:00",
-      "domain": "datagubbe.se",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "VHDL's Crown Jewel",
-      "link": "https://www.sigasi.com/opinion/jan/vhdls-crown-jewel/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47570435\">Comments</a>...",
-      "published": "2026-03-30T04:39:15+00:00",
-      "domain": "sigasi.com",
+      "title": "AI is denying health care claims",
+      "link": "https://www.reddit.com/r/technology/comments/1s7oy34/ai_is_denying_health_care_claims/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1s7oy34/ai_is_denying_health_care_claims/\"> <img alt=\"AI is denying health care claims\" src=\"https://external-preview.redd.it/M9t...",
+      "published": "2026-03-30T12:19:07+00:00",
+      "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -163,6 +165,120 @@
   ],
   "anarchy_ranked": [
     {
+      "title": "The State of Secrets Sprawl 2026: 9 Takeaways for CISOs",
+      "link": "https://thehackernews.com/2026/03/the-state-of-secrets-sprawl-2026-9.html",
+      "summary": "Secrets sprawl isn't slowing down: in 2025, it accelerated faster than most security teams anticipated. GitGuardian's State of Secrets Sprawl 2026 report analyzed billions of commits across public Git...",
+      "published": "2026-03-30T17:00:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 9.8,
+        "anarchy": 3.0,
+        "overall": 6.4
+      },
+      "keywords": {
+        "chaos": [
+          "down"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Russian CTRL Toolkit Delivered via Malicious LNK Files Hijacks RDP via FRP Tunnels",
+      "link": "https://thehackernews.com/2026/03/russian-ctrl-toolkit-delivered-via.html",
+      "summary": "Cybersecurity researchers have discovered a remote access toolkit of Russian-origin that's distributed via malicious Windows shortcut (LNK) files that are disguised as private key folders.\nThe CTRL to...",
+      "published": "2026-03-30T15:28:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "How to Keep the Suburbs Tenant-Free",
+      "link": "https://www.theatlantic.com/ideas/2026/03/suburbs-homeownership-renting/686599/",
+      "summary": "<p>Article URL: <a href=\"https://www.theatlantic.com/ideas/2026/03/suburbs-homeownership-renting/686599/\">https://www.theatlantic.com/ideas/2026/03/suburbs-homeownership-renting/686599/</a></p>\n<p>Com...",
+      "published": "2026-03-30T13:18:05+00:00",
+      "domain": "theatlantic.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Moral inconsistency is based on the vmPFC's insufficient representation",
+      "link": "https://www.cell.com/cell-reports/fulltext/S2211-1247(26)00136-1",
+      "summary": "<p>Article URL: <a href=\"https://www.cell.com/cell-reports/fulltext/S2211-1247(26)00136-1\">https://www.cell.com/cell-reports/fulltext/S2211-1247(26)00136-1</a></p>\n<p>Comments URL: <a href=\"https://ne...",
+      "published": "2026-03-30T13:16:35+00:00",
+      "domain": "cell.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Parrots pack twice as many neurons as primate brains of the same mass",
+      "link": "https://www.dhanishsemar.com/writing/bird-brains",
+      "summary": "<p>Article URL: <a href=\"https://www.dhanishsemar.com/writing/bird-brains\">https://www.dhanishsemar.com/writing/bird-brains</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47573...",
+      "published": "2026-03-30T13:14:27+00:00",
+      "domain": "dhanishsemar.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Mochi 0.3: An open, distributed, multi-user app platform",
+      "link": "https://mochi-os.org/",
+      "summary": "<p>Article URL: <a href=\"https://mochi-os.org/\">https://mochi-os.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47573866\">https://news.ycombinator.com/item?id=47573866</a>...",
+      "published": "2026-03-30T13:12:43+00:00",
+      "domain": "mochi-os.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Did You Forget What I Asked? Memory Failures in Large Language Models",
+      "link": "https://arxiv.org/abs/2603.23530",
+      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2603.23530\">https://arxiv.org/abs/2603.23530</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47573862\">https://news.ycombinator.co...",
+      "published": "2026-03-30T13:12:31+00:00",
+      "domain": "arxiv.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "Three China-Linked Clusters Target Southeast Asian Government in 2025 Cyber Campaign",
       "link": "https://thehackernews.com/2026/03/three-china-linked-clusters-target.html",
       "summary": "Three threat activity clusters aligned with China have targeted a government organization in Southeast Asia as part of what has been described as a \"complex and well-resourced operation.\"\nThe campaign...",
@@ -179,11 +295,11 @@
       }
     },
     {
-      "title": "Show HN: TermCanvas \u2013 An infinite canvas for your terminals",
-      "link": "https://github.com/blueberrycongee/termcanvas",
-      "summary": "<p>Article URL: <a href=\"https://github.com/blueberrycongee/termcanvas\">https://github.com/blueberrycongee/termcanvas</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47571499\">h...",
-      "published": "2026-03-30T07:34:48+00:00",
-      "domain": "github.com",
+      "title": "How the AI Bubble Bursts",
+      "link": "https://martinvol.pe/blog/2026/03/30/how-the-ai-bubble-bursts/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47573420\">Comments</a>...",
+      "published": "2026-03-30T12:28:36+00:00",
+      "domain": "martinvol.pe",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -195,123 +311,11 @@
       }
     },
     {
-      "title": "Hamilton-Jacobi-Bellman Equation: Reinforcement Learning and Diffusion Models",
-      "link": "https://dani2442.github.io/posts/continuous-rl/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47571495\">Comments</a>...",
-      "published": "2026-03-30T07:34:04+00:00",
-      "domain": "dani2442.github.io",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Hamilton-Jacobi-Bellman Equation: Reinforcement Learning and Diffusion Models",
-      "link": "https://dani2442.github.io/posts/continuous-rl/",
-      "summary": "<p>Article URL: <a href=\"https://dani2442.github.io/posts/continuous-rl/\">https://dani2442.github.io/posts/continuous-rl/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4757149...",
-      "published": "2026-03-30T07:34:04+00:00",
-      "domain": "dani2442.github.io",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Fast Image AI Image Enhancer",
-      "link": "https://fastimage.ai/ai-image-enhancer",
-      "summary": "<p>Article URL: <a href=\"https://fastimage.ai/ai-image-enhancer\">https://fastimage.ai/ai-image-enhancer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47571485\">https://news.yc...",
-      "published": "2026-03-30T07:33:20+00:00",
-      "domain": "fastimage.ai",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Twitching Before You Sprint",
-      "link": "https://mikefisher.substack.com/p/twitching-before-you-sprint",
-      "summary": "<p>Article URL: <a href=\"https://mikefisher.substack.com/p/twitching-before-you-sprint\">https://mikefisher.substack.com/p/twitching-before-you-sprint</a></p>\n<p>Comments URL: <a href=\"https://news.yco...",
-      "published": "2026-03-30T07:27:45+00:00",
-      "domain": "mikefisher.substack.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Compromised telnyx on PyPI",
-      "link": "https://safedep.io/malicious-telnyx-pypi-compromise/",
-      "summary": "<p>Article URL: <a href=\"https://safedep.io/malicious-telnyx-pypi-compromise/\">https://safedep.io/malicious-telnyx-pypi-compromise/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?...",
-      "published": "2026-03-30T07:22:36+00:00",
-      "domain": "safedep.io",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "I use excalidraw to manage my diagrams for my blog",
-      "link": "https://blog.lysk.tech/excalidraw-frame-export/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47571376\">Comments</a>...",
-      "published": "2026-03-30T07:17:06+00:00",
-      "domain": "blog.lysk.tech",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The curious case of retro demo scene graphics",
-      "link": "https://www.datagubbe.se/aipixels/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47570666\">Comments</a>...",
-      "published": "2026-03-30T05:27:18+00:00",
-      "domain": "datagubbe.se",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "VHDL's Crown Jewel",
-      "link": "https://www.sigasi.com/opinion/jan/vhdls-crown-jewel/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47570435\">Comments</a>...",
-      "published": "2026-03-30T04:39:15+00:00",
-      "domain": "sigasi.com",
+      "title": "AI is denying health care claims",
+      "link": "https://www.reddit.com/r/technology/comments/1s7oy34/ai_is_denying_health_care_claims/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1s7oy34/ai_is_denying_health_care_claims/\"> <img alt=\"AI is denying health care claims\" src=\"https://external-preview.redd.it/M9t...",
+      "published": "2026-03-30T12:19:07+00:00",
+      "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -325,6 +329,120 @@
   ],
   "overall_ranked": [
     {
+      "title": "The State of Secrets Sprawl 2026: 9 Takeaways for CISOs",
+      "link": "https://thehackernews.com/2026/03/the-state-of-secrets-sprawl-2026-9.html",
+      "summary": "Secrets sprawl isn't slowing down: in 2025, it accelerated faster than most security teams anticipated. GitGuardian's State of Secrets Sprawl 2026 report analyzed billions of commits across public Git...",
+      "published": "2026-03-30T17:00:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 9.8,
+        "anarchy": 3.0,
+        "overall": 6.4
+      },
+      "keywords": {
+        "chaos": [
+          "down"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Russian CTRL Toolkit Delivered via Malicious LNK Files Hijacks RDP via FRP Tunnels",
+      "link": "https://thehackernews.com/2026/03/russian-ctrl-toolkit-delivered-via.html",
+      "summary": "Cybersecurity researchers have discovered a remote access toolkit of Russian-origin that's distributed via malicious Windows shortcut (LNK) files that are disguised as private key folders.\nThe CTRL to...",
+      "published": "2026-03-30T15:28:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "How to Keep the Suburbs Tenant-Free",
+      "link": "https://www.theatlantic.com/ideas/2026/03/suburbs-homeownership-renting/686599/",
+      "summary": "<p>Article URL: <a href=\"https://www.theatlantic.com/ideas/2026/03/suburbs-homeownership-renting/686599/\">https://www.theatlantic.com/ideas/2026/03/suburbs-homeownership-renting/686599/</a></p>\n<p>Com...",
+      "published": "2026-03-30T13:18:05+00:00",
+      "domain": "theatlantic.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Moral inconsistency is based on the vmPFC's insufficient representation",
+      "link": "https://www.cell.com/cell-reports/fulltext/S2211-1247(26)00136-1",
+      "summary": "<p>Article URL: <a href=\"https://www.cell.com/cell-reports/fulltext/S2211-1247(26)00136-1\">https://www.cell.com/cell-reports/fulltext/S2211-1247(26)00136-1</a></p>\n<p>Comments URL: <a href=\"https://ne...",
+      "published": "2026-03-30T13:16:35+00:00",
+      "domain": "cell.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Parrots pack twice as many neurons as primate brains of the same mass",
+      "link": "https://www.dhanishsemar.com/writing/bird-brains",
+      "summary": "<p>Article URL: <a href=\"https://www.dhanishsemar.com/writing/bird-brains\">https://www.dhanishsemar.com/writing/bird-brains</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47573...",
+      "published": "2026-03-30T13:14:27+00:00",
+      "domain": "dhanishsemar.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Mochi 0.3: An open, distributed, multi-user app platform",
+      "link": "https://mochi-os.org/",
+      "summary": "<p>Article URL: <a href=\"https://mochi-os.org/\">https://mochi-os.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47573866\">https://news.ycombinator.com/item?id=47573866</a>...",
+      "published": "2026-03-30T13:12:43+00:00",
+      "domain": "mochi-os.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Did You Forget What I Asked? Memory Failures in Large Language Models",
+      "link": "https://arxiv.org/abs/2603.23530",
+      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2603.23530\">https://arxiv.org/abs/2603.23530</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47573862\">https://news.ycombinator.co...",
+      "published": "2026-03-30T13:12:31+00:00",
+      "domain": "arxiv.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "Three China-Linked Clusters Target Southeast Asian Government in 2025 Cyber Campaign",
       "link": "https://thehackernews.com/2026/03/three-china-linked-clusters-target.html",
       "summary": "Three threat activity clusters aligned with China have targeted a government organization in Southeast Asia as part of what has been described as a \"complex and well-resourced operation.\"\nThe campaign...",
@@ -341,11 +459,11 @@
       }
     },
     {
-      "title": "Show HN: TermCanvas \u2013 An infinite canvas for your terminals",
-      "link": "https://github.com/blueberrycongee/termcanvas",
-      "summary": "<p>Article URL: <a href=\"https://github.com/blueberrycongee/termcanvas\">https://github.com/blueberrycongee/termcanvas</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47571499\">h...",
-      "published": "2026-03-30T07:34:48+00:00",
-      "domain": "github.com",
+      "title": "How the AI Bubble Bursts",
+      "link": "https://martinvol.pe/blog/2026/03/30/how-the-ai-bubble-bursts/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47573420\">Comments</a>...",
+      "published": "2026-03-30T12:28:36+00:00",
+      "domain": "martinvol.pe",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -357,123 +475,11 @@
       }
     },
     {
-      "title": "Hamilton-Jacobi-Bellman Equation: Reinforcement Learning and Diffusion Models",
-      "link": "https://dani2442.github.io/posts/continuous-rl/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47571495\">Comments</a>...",
-      "published": "2026-03-30T07:34:04+00:00",
-      "domain": "dani2442.github.io",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Hamilton-Jacobi-Bellman Equation: Reinforcement Learning and Diffusion Models",
-      "link": "https://dani2442.github.io/posts/continuous-rl/",
-      "summary": "<p>Article URL: <a href=\"https://dani2442.github.io/posts/continuous-rl/\">https://dani2442.github.io/posts/continuous-rl/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4757149...",
-      "published": "2026-03-30T07:34:04+00:00",
-      "domain": "dani2442.github.io",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Fast Image AI Image Enhancer",
-      "link": "https://fastimage.ai/ai-image-enhancer",
-      "summary": "<p>Article URL: <a href=\"https://fastimage.ai/ai-image-enhancer\">https://fastimage.ai/ai-image-enhancer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47571485\">https://news.yc...",
-      "published": "2026-03-30T07:33:20+00:00",
-      "domain": "fastimage.ai",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Twitching Before You Sprint",
-      "link": "https://mikefisher.substack.com/p/twitching-before-you-sprint",
-      "summary": "<p>Article URL: <a href=\"https://mikefisher.substack.com/p/twitching-before-you-sprint\">https://mikefisher.substack.com/p/twitching-before-you-sprint</a></p>\n<p>Comments URL: <a href=\"https://news.yco...",
-      "published": "2026-03-30T07:27:45+00:00",
-      "domain": "mikefisher.substack.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Compromised telnyx on PyPI",
-      "link": "https://safedep.io/malicious-telnyx-pypi-compromise/",
-      "summary": "<p>Article URL: <a href=\"https://safedep.io/malicious-telnyx-pypi-compromise/\">https://safedep.io/malicious-telnyx-pypi-compromise/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?...",
-      "published": "2026-03-30T07:22:36+00:00",
-      "domain": "safedep.io",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "I use excalidraw to manage my diagrams for my blog",
-      "link": "https://blog.lysk.tech/excalidraw-frame-export/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47571376\">Comments</a>...",
-      "published": "2026-03-30T07:17:06+00:00",
-      "domain": "blog.lysk.tech",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The curious case of retro demo scene graphics",
-      "link": "https://www.datagubbe.se/aipixels/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47570666\">Comments</a>...",
-      "published": "2026-03-30T05:27:18+00:00",
-      "domain": "datagubbe.se",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "VHDL's Crown Jewel",
-      "link": "https://www.sigasi.com/opinion/jan/vhdls-crown-jewel/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47570435\">Comments</a>...",
-      "published": "2026-03-30T04:39:15+00:00",
-      "domain": "sigasi.com",
+      "title": "AI is denying health care claims",
+      "link": "https://www.reddit.com/r/technology/comments/1s7oy34/ai_is_denying_health_care_claims/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1s7oy34/ai_is_denying_health_care_claims/\"> <img alt=\"AI is denying health care claims\" src=\"https://external-preview.redd.it/M9t...",
+      "published": "2026-03-30T12:19:07+00:00",
+      "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -487,6 +493,120 @@
   ],
   "all_articles": [
     {
+      "title": "The State of Secrets Sprawl 2026: 9 Takeaways for CISOs",
+      "link": "https://thehackernews.com/2026/03/the-state-of-secrets-sprawl-2026-9.html",
+      "summary": "Secrets sprawl isn't slowing down: in 2025, it accelerated faster than most security teams anticipated. GitGuardian's State of Secrets Sprawl 2026 report analyzed billions of commits across public Git...",
+      "published": "2026-03-30T17:00:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 9.8,
+        "anarchy": 3.0,
+        "overall": 6.4
+      },
+      "keywords": {
+        "chaos": [
+          "down"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Russian CTRL Toolkit Delivered via Malicious LNK Files Hijacks RDP via FRP Tunnels",
+      "link": "https://thehackernews.com/2026/03/russian-ctrl-toolkit-delivered-via.html",
+      "summary": "Cybersecurity researchers have discovered a remote access toolkit of Russian-origin that's distributed via malicious Windows shortcut (LNK) files that are disguised as private key folders.\nThe CTRL to...",
+      "published": "2026-03-30T15:28:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "How to Keep the Suburbs Tenant-Free",
+      "link": "https://www.theatlantic.com/ideas/2026/03/suburbs-homeownership-renting/686599/",
+      "summary": "<p>Article URL: <a href=\"https://www.theatlantic.com/ideas/2026/03/suburbs-homeownership-renting/686599/\">https://www.theatlantic.com/ideas/2026/03/suburbs-homeownership-renting/686599/</a></p>\n<p>Com...",
+      "published": "2026-03-30T13:18:05+00:00",
+      "domain": "theatlantic.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Moral inconsistency is based on the vmPFC's insufficient representation",
+      "link": "https://www.cell.com/cell-reports/fulltext/S2211-1247(26)00136-1",
+      "summary": "<p>Article URL: <a href=\"https://www.cell.com/cell-reports/fulltext/S2211-1247(26)00136-1\">https://www.cell.com/cell-reports/fulltext/S2211-1247(26)00136-1</a></p>\n<p>Comments URL: <a href=\"https://ne...",
+      "published": "2026-03-30T13:16:35+00:00",
+      "domain": "cell.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Parrots pack twice as many neurons as primate brains of the same mass",
+      "link": "https://www.dhanishsemar.com/writing/bird-brains",
+      "summary": "<p>Article URL: <a href=\"https://www.dhanishsemar.com/writing/bird-brains\">https://www.dhanishsemar.com/writing/bird-brains</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47573...",
+      "published": "2026-03-30T13:14:27+00:00",
+      "domain": "dhanishsemar.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Mochi 0.3: An open, distributed, multi-user app platform",
+      "link": "https://mochi-os.org/",
+      "summary": "<p>Article URL: <a href=\"https://mochi-os.org/\">https://mochi-os.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47573866\">https://news.ycombinator.com/item?id=47573866</a>...",
+      "published": "2026-03-30T13:12:43+00:00",
+      "domain": "mochi-os.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Did You Forget What I Asked? Memory Failures in Large Language Models",
+      "link": "https://arxiv.org/abs/2603.23530",
+      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2603.23530\">https://arxiv.org/abs/2603.23530</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47573862\">https://news.ycombinator.co...",
+      "published": "2026-03-30T13:12:31+00:00",
+      "domain": "arxiv.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "Three China-Linked Clusters Target Southeast Asian Government in 2025 Cyber Campaign",
       "link": "https://thehackernews.com/2026/03/three-china-linked-clusters-target.html",
       "summary": "Three threat activity clusters aligned with China have targeted a government organization in Southeast Asia as part of what has been described as a \"complex and well-resourced operation.\"\nThe campaign...",
@@ -503,11 +623,11 @@
       }
     },
     {
-      "title": "Show HN: TermCanvas \u2013 An infinite canvas for your terminals",
-      "link": "https://github.com/blueberrycongee/termcanvas",
-      "summary": "<p>Article URL: <a href=\"https://github.com/blueberrycongee/termcanvas\">https://github.com/blueberrycongee/termcanvas</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47571499\">h...",
-      "published": "2026-03-30T07:34:48+00:00",
-      "domain": "github.com",
+      "title": "How the AI Bubble Bursts",
+      "link": "https://martinvol.pe/blog/2026/03/30/how-the-ai-bubble-bursts/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47573420\">Comments</a>...",
+      "published": "2026-03-30T12:28:36+00:00",
+      "domain": "martinvol.pe",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -519,123 +639,11 @@
       }
     },
     {
-      "title": "Hamilton-Jacobi-Bellman Equation: Reinforcement Learning and Diffusion Models",
-      "link": "https://dani2442.github.io/posts/continuous-rl/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47571495\">Comments</a>...",
-      "published": "2026-03-30T07:34:04+00:00",
-      "domain": "dani2442.github.io",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Hamilton-Jacobi-Bellman Equation: Reinforcement Learning and Diffusion Models",
-      "link": "https://dani2442.github.io/posts/continuous-rl/",
-      "summary": "<p>Article URL: <a href=\"https://dani2442.github.io/posts/continuous-rl/\">https://dani2442.github.io/posts/continuous-rl/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4757149...",
-      "published": "2026-03-30T07:34:04+00:00",
-      "domain": "dani2442.github.io",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Fast Image AI Image Enhancer",
-      "link": "https://fastimage.ai/ai-image-enhancer",
-      "summary": "<p>Article URL: <a href=\"https://fastimage.ai/ai-image-enhancer\">https://fastimage.ai/ai-image-enhancer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47571485\">https://news.yc...",
-      "published": "2026-03-30T07:33:20+00:00",
-      "domain": "fastimage.ai",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Twitching Before You Sprint",
-      "link": "https://mikefisher.substack.com/p/twitching-before-you-sprint",
-      "summary": "<p>Article URL: <a href=\"https://mikefisher.substack.com/p/twitching-before-you-sprint\">https://mikefisher.substack.com/p/twitching-before-you-sprint</a></p>\n<p>Comments URL: <a href=\"https://news.yco...",
-      "published": "2026-03-30T07:27:45+00:00",
-      "domain": "mikefisher.substack.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Compromised telnyx on PyPI",
-      "link": "https://safedep.io/malicious-telnyx-pypi-compromise/",
-      "summary": "<p>Article URL: <a href=\"https://safedep.io/malicious-telnyx-pypi-compromise/\">https://safedep.io/malicious-telnyx-pypi-compromise/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?...",
-      "published": "2026-03-30T07:22:36+00:00",
-      "domain": "safedep.io",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "I use excalidraw to manage my diagrams for my blog",
-      "link": "https://blog.lysk.tech/excalidraw-frame-export/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47571376\">Comments</a>...",
-      "published": "2026-03-30T07:17:06+00:00",
-      "domain": "blog.lysk.tech",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The curious case of retro demo scene graphics",
-      "link": "https://www.datagubbe.se/aipixels/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47570666\">Comments</a>...",
-      "published": "2026-03-30T05:27:18+00:00",
-      "domain": "datagubbe.se",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "VHDL's Crown Jewel",
-      "link": "https://www.sigasi.com/opinion/jan/vhdls-crown-jewel/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47570435\">Comments</a>...",
-      "published": "2026-03-30T04:39:15+00:00",
-      "domain": "sigasi.com",
+      "title": "AI is denying health care claims",
+      "link": "https://www.reddit.com/r/technology/comments/1s7oy34/ai_is_denying_health_care_claims/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1s7oy34/ai_is_denying_health_care_claims/\"> <img alt=\"AI is denying health care claims\" src=\"https://external-preview.redd.it/M9t...",
+      "published": "2026-03-30T12:19:07+00:00",
+      "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,

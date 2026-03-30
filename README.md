@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Three China-Linked Clusters Target Southeast Asian Government in 2025 Cyber Campaign
+### The State of Secrets Sprawl 2026: 9 Takeaways for CISOs
 - **Published**: March 30, 2026
-- **Summary**: Three threat activity clusters aligned with China have targeted a government organization in Southeast Asia as part of what has been described as a "c...
-- [Read more](https://thehackernews.com/2026/03/three-china-linked-clusters-target.html)
+- **Summary**: Secrets sprawl isn't slowing down: in 2025, it accelerated faster than most security teams anticipated. GitGuardian's State of Secrets Sprawl 2026 rep...
+- **Keywords**: down
+- [Read more](https://thehackernews.com/2026/03/the-state-of-secrets-sprawl-2026-9.html)
 
-### Show HN: TermCanvas – An infinite canvas for your terminals
+### Russian CTRL Toolkit Delivered via Malicious LNK Files Hijacks RDP via FRP Tunnels
 - **Published**: March 30, 2026
-- **Summary**: https://github.com/blueberrycongee/termcanvas</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47571499">h......
-- [Read more](https://github.com/blueberrycongee/termcanvas)
+- **Summary**: Cybersecurity researchers have discovered a remote access toolkit of Russian-origin that's distributed via malicious Windows shortcut (LNK) files that...
+- [Read more](https://thehackernews.com/2026/03/russian-ctrl-toolkit-delivered-via.html)
 
 ---
 
