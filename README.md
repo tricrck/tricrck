@@ -22,10 +22,11 @@
 - **Keywords**: down
 - [Read more](https://thehackernews.com/2026/03/the-state-of-secrets-sprawl-2026-9.html)
 
-### Russian CTRL Toolkit Delivered via Malicious LNK Files Hijacks RDP via FRP Tunnels
+### 3 SOC Process Fixes That Unlock Tier 1 Productivity
 - **Published**: March 30, 2026
-- **Summary**: Cybersecurity researchers have discovered a remote access toolkit of Russian-origin that's distributed via malicious Windows shortcut (LNK) files that...
-- [Read more](https://thehackernews.com/2026/03/russian-ctrl-toolkit-delivered-via.html)
+- **Summary**: What is really slowing Tier 1 down: the threat itself or the process around it? In many SOCs, the biggest delays do not come from the threat alone. Th...
+- **Keywords**: down
+- [Read more](https://thehackernews.com/2026/03/3-soc-process-fixes-that-unlock-tier-1.html)
 
 ---
 
