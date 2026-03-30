@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Another
-- **Published**: March 29, 2026
-- **Summary**: https://www.timerforemails.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47565877">https://news.ycombinator.com/......
-- [Read more](https://www.timerforemails.com/)
+### Why Don't You Use String Views Instead of Passing Std:Wstring by Const&
+- **Published**: March 30, 2026
+- **Summary**: https://giodicanio.com/2024/05/14/why......
+- [Read more](https://giodicanio.com/2024/05/14/why-dont-you-use-string-views-like-std-wstring_view-instead-of-passing-std-wstring-by-const-reference/)
 
-### Gestalt – AI PC builder that compares Amazon vs. eBay prices in real time
-- **Published**: March 29, 2026
-- **Summary**: https://github.com/Xydra01/Gestalt</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47565867">https://news.ycombinato......
-- [Read more](https://github.com/Xydra01/Gestalt)
+### Agentic Hive – Manage Claude Code and Codex Tmux Sessions from a Browser
+- **Published**: March 30, 2026
+- **Summary**: https://github.com/wisbric/agentic-hive</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47569758">https://news.......
+- [Read more](https://github.com/wisbric/agentic-hive)
 
 ---
 
