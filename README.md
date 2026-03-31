@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Trump Tells Aides He's Willing to End War Without Reopening Hormuz
+### Axios Supply Chain Attack Pushes Cross-Platform RAT via Compromised npm Account
 - **Published**: March 31, 2026
-- **Summary**: https://www.wsj.com/world/middle-east/trump-iran-war-strait-of-hormuz-ee950ad4</a></p>
-<p>Comme......
-- [Read more](https://www.wsj.com/world/middle-east/trump-iran-war-strait-of-hormuz-ee950ad4)
+- **Summary**: The popular HTTP client known as Axios has suffered a supply chain attack after two newly published versions of the npm package introduced a malicious...
+- [Read more](https://thehackernews.com/2026/03/axios-supply-chain-attack-pushes-cross.html)
 
-### Federal judges report broad adoption of AI tools
+### Working Software Runs Locally
 - **Published**: March 31, 2026
-- **Summary**: https://news.northwestern.edu/stories......
-- [Read more](https://news.northwestern.edu/stories/2026/03/northwestern-study-finds-a-significant-number-of-federal-judges-are-already-using-ai-tools)
+- **Summary**: https://nickmonad.blog/2026/working-software-runs-locally/</a></p>
+<p>Comments URL: <a href="https://news.ycombinat......
+- [Read more](https://nickmonad.blog/2026/working-software-runs-locally/)
 
 ---
 
