@@ -1,9 +1,121 @@
 {
   "chaos_ranked": [
     {
+      "title": "Silver Fox Expands Asia Cyber Campaign with AtlasCross RAT and Fake Domains",
+      "link": "https://thehackernews.com/2026/03/silver-fox-expands-asia-cyber-campaign.html",
+      "summary": "Chinese-speaking users are the target of an active campaign that uses typosquatted domains impersonating trusted software brands to deliver a previously undocumented remote access trojan named AtlasCr...",
+      "published": "2026-03-31T17:16:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The AI Arms Race \u2013 Why Unified Exposure Management Is Becoming a Boardroom Priority",
+      "link": "https://thehackernews.com/2026/03/the-ai-arms-race-why-unified-exposure.html",
+      "summary": "The cybersecurity landscape is accelerating at an unprecedented rate. What is emerging is not simply a rise in the number of vulnerabilities or tools, but a dramatic increase in speed. Speed of attack...",
+      "published": "2026-03-31T17:00:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "AI sheds light on an ancient gaming mystery",
+      "link": "https://news.flinders.edu.au/blog/2026/03/21/ai-sheds-light-on-an-ancient-gaming-mystery/",
+      "summary": "<p>Article URL: <a href=\"https://news.flinders.edu.au/blog/2026/03/21/ai-sheds-light-on-an-ancient-gaming-mystery/\">https://news.flinders.edu.au/blog/2026/03/21/ai-sheds-light-on-an-ancient-gaming-mys...",
+      "published": "2026-03-31T13:14:26+00:00",
+      "domain": "news.flinders.edu.au",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Zelensky hails 'historic' defence agreements with Gulf states",
+      "link": "https://www.france24.com/en/europe/20260330-zelensky-hails-historic-defence-agreements-with-gulf-states",
+      "summary": "<p>Article URL: <a href=\"https://www.france24.com/en/europe/20260330-zelensky-hails-historic-defence-agreements-with-gulf-states\">https://www.france24.com/en/europe/20260330-zelensky-hails-historic-de...",
+      "published": "2026-03-31T13:13:53+00:00",
+      "domain": "france24.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "What changes when you turn a Linux box into a router",
+      "link": "https://patrickmccanna.net/7-configuration-changes-that-turn-a-multi-homed-host-into-a-switch-router/",
+      "summary": "<p>Article URL: <a href=\"https://patrickmccanna.net/7-configuration-changes-that-turn-a-multi-homed-host-into-a-switch-router/\">https://patrickmccanna.net/7-configuration-changes-that-turn-a-multi-hom...",
+      "published": "2026-03-31T13:13:20+00:00",
+      "domain": "patrickmccanna.net",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Unsupervised and Unstable: A Safety Audit of Human Intelligence",
+      "link": "https://p0g.net/unsupervised-and-unstable-a-safety-audit-of-human-intelligence/",
+      "summary": "<p>Article URL: <a href=\"https://p0g.net/unsupervised-and-unstable-a-safety-audit-of-human-intelligence/\">https://p0g.net/unsupervised-and-unstable-a-safety-audit-of-human-intelligence/</a></p>\n<p>Com...",
+      "published": "2026-03-31T13:13:12+00:00",
+      "domain": "p0g.net",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "AI Won't Lower Your Engineering Bar. Poor Adoption Will",
+      "link": "https://businessasusual.io/p/ai-wont-lower-your-engineering-bar",
+      "summary": "<p>Article URL: <a href=\"https://businessasusual.io/p/ai-wont-lower-your-engineering-bar\">https://businessasusual.io/p/ai-wont-lower-your-engineering-bar</a></p>\n<p>Comments URL: <a href=\"https://news...",
+      "published": "2026-03-31T13:12:42+00:00",
+      "domain": "businessasusual.io",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "Axios Supply Chain Attack Pushes Cross-Platform RAT via Compromised npm Account",
       "link": "https://thehackernews.com/2026/03/axios-supply-chain-attack-pushes-cross.html",
-      "summary": "The popular HTTP client known as Axios has suffered a supply chain attack after two newly published versions of the npm package introduced a malicious dependency.\nVersions 1.14.1 and 0.30.4 of Axios h...",
+      "summary": "The popular HTTP client known as Axios has suffered a supply chain attack after two newly published versions of the npm package introduced a malicious dependency that delivers a trojan capable of targ...",
       "published": "2026-03-31T11:38:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
@@ -17,11 +129,11 @@
       }
     },
     {
-      "title": "Working Software Runs Locally",
-      "link": "https://nickmonad.blog/2026/working-software-runs-locally/",
-      "summary": "<p>Article URL: <a href=\"https://nickmonad.blog/2026/working-software-runs-locally/\">https://nickmonad.blog/2026/working-software-runs-locally/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinat...",
-      "published": "2026-03-31T07:10:55+00:00",
-      "domain": "nickmonad.blog",
+      "title": "Apple reveals it bowed to Kremlin pressure to remove 190 apps from Russian App Store over three years",
+      "link": "https://www.reddit.com/r/technology/comments/1s8keyn/apple_reveals_it_bowed_to_kremlin_pressure_to/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1s8keyn/apple_reveals_it_bowed_to_kremlin_pressure_to/\"> <img alt=\"Apple reveals it bowed to Kremlin pressure to remove 190 apps ...",
+      "published": "2026-03-31T11:10:12+00:00",
+      "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -33,123 +145,11 @@
       }
     },
     {
-      "title": "Andrej Karpathy on supply chain attacks",
-      "link": "https://twitter.com/karpathy/status/2038849654423798197",
-      "summary": "<p>Article URL: <a href=\"https://twitter.com/karpathy/status/2038849654423798197\">https://twitter.com/karpathy/status/2038849654423798197</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com...",
-      "published": "2026-03-31T07:04:52+00:00",
+      "title": "Claude Code's source code has been leaked via a map file in their NPM registry",
+      "link": "https://twitter.com/Fried_rice/status/2038894956459290963",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47584540\">Comments</a>...",
+      "published": "2026-03-31T09:00:40+00:00",
       "domain": "twitter.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The Download: brainless human clones and the first uterus kept alive outside a",
-      "link": "https://www.technologyreview.com/2026/03/30/1134836/the-download-brainless-human-clones-first-uterus-kept-alive-outside-body/",
-      "summary": "<p>Article URL: <a href=\"https://www.technologyreview.com/2026/03/30/1134836/the-download-brainless-human-clones-first-uterus-kept-alive-outside-body/\">https://www.technologyreview.com/2026/03/30/1134...",
-      "published": "2026-03-31T07:03:21+00:00",
-      "domain": "technologyreview.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: TaskTrace, a local-first activity log that gives LLMs context",
-      "link": "https://tasktrace.com",
-      "summary": "<p>TaskTrace is a desktop app that continuously records your activity (screenshots, keystrokes, microphone) and turns it into a structured, searchable history of what you\u2019ve been doing.<p>Everything r...",
-      "published": "2026-03-31T06:58:05+00:00",
-      "domain": "tasktrace.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: Claudebase: Sync your Claude Code env across machines via GitHub",
-      "link": "https://github.com/rohithzr/claudebase",
-      "summary": "<p>Article URL: <a href=\"https://github.com/rohithzr/claudebase\">https://github.com/rohithzr/claudebase</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47583664\">https://news.yc...",
-      "published": "2026-03-31T06:53:23+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Google's 200M-parameter time-series foundation model with 16k context",
-      "link": "https://github.com/google-research/timesfm",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47583045\">Comments</a>...",
-      "published": "2026-03-31T05:21:59+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Ollama is now powered by MLX on Apple Silicon in preview",
-      "link": "https://ollama.com/blog/mlx",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47582482\">Comments</a>...",
-      "published": "2026-03-31T03:40:45+00:00",
-      "domain": "ollama.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Axios compromised on NPM \u2013 Malicious versions drop remote access trojan",
-      "link": "https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47582220\">Comments</a>...",
-      "published": "2026-03-31T02:54:17+00:00",
-      "domain": "stepsecurity.io",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Artemis II is not safe to fly",
-      "link": "https://idlewords.com/2026/03/artemis_ii_is_not_safe_to_fly.htm",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47582043\">Comments</a>...",
-      "published": "2026-03-31T02:23:50+00:00",
-      "domain": "idlewords.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -163,9 +163,121 @@
   ],
   "anarchy_ranked": [
     {
+      "title": "Silver Fox Expands Asia Cyber Campaign with AtlasCross RAT and Fake Domains",
+      "link": "https://thehackernews.com/2026/03/silver-fox-expands-asia-cyber-campaign.html",
+      "summary": "Chinese-speaking users are the target of an active campaign that uses typosquatted domains impersonating trusted software brands to deliver a previously undocumented remote access trojan named AtlasCr...",
+      "published": "2026-03-31T17:16:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The AI Arms Race \u2013 Why Unified Exposure Management Is Becoming a Boardroom Priority",
+      "link": "https://thehackernews.com/2026/03/the-ai-arms-race-why-unified-exposure.html",
+      "summary": "The cybersecurity landscape is accelerating at an unprecedented rate. What is emerging is not simply a rise in the number of vulnerabilities or tools, but a dramatic increase in speed. Speed of attack...",
+      "published": "2026-03-31T17:00:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "AI sheds light on an ancient gaming mystery",
+      "link": "https://news.flinders.edu.au/blog/2026/03/21/ai-sheds-light-on-an-ancient-gaming-mystery/",
+      "summary": "<p>Article URL: <a href=\"https://news.flinders.edu.au/blog/2026/03/21/ai-sheds-light-on-an-ancient-gaming-mystery/\">https://news.flinders.edu.au/blog/2026/03/21/ai-sheds-light-on-an-ancient-gaming-mys...",
+      "published": "2026-03-31T13:14:26+00:00",
+      "domain": "news.flinders.edu.au",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Zelensky hails 'historic' defence agreements with Gulf states",
+      "link": "https://www.france24.com/en/europe/20260330-zelensky-hails-historic-defence-agreements-with-gulf-states",
+      "summary": "<p>Article URL: <a href=\"https://www.france24.com/en/europe/20260330-zelensky-hails-historic-defence-agreements-with-gulf-states\">https://www.france24.com/en/europe/20260330-zelensky-hails-historic-de...",
+      "published": "2026-03-31T13:13:53+00:00",
+      "domain": "france24.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "What changes when you turn a Linux box into a router",
+      "link": "https://patrickmccanna.net/7-configuration-changes-that-turn-a-multi-homed-host-into-a-switch-router/",
+      "summary": "<p>Article URL: <a href=\"https://patrickmccanna.net/7-configuration-changes-that-turn-a-multi-homed-host-into-a-switch-router/\">https://patrickmccanna.net/7-configuration-changes-that-turn-a-multi-hom...",
+      "published": "2026-03-31T13:13:20+00:00",
+      "domain": "patrickmccanna.net",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Unsupervised and Unstable: A Safety Audit of Human Intelligence",
+      "link": "https://p0g.net/unsupervised-and-unstable-a-safety-audit-of-human-intelligence/",
+      "summary": "<p>Article URL: <a href=\"https://p0g.net/unsupervised-and-unstable-a-safety-audit-of-human-intelligence/\">https://p0g.net/unsupervised-and-unstable-a-safety-audit-of-human-intelligence/</a></p>\n<p>Com...",
+      "published": "2026-03-31T13:13:12+00:00",
+      "domain": "p0g.net",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "AI Won't Lower Your Engineering Bar. Poor Adoption Will",
+      "link": "https://businessasusual.io/p/ai-wont-lower-your-engineering-bar",
+      "summary": "<p>Article URL: <a href=\"https://businessasusual.io/p/ai-wont-lower-your-engineering-bar\">https://businessasusual.io/p/ai-wont-lower-your-engineering-bar</a></p>\n<p>Comments URL: <a href=\"https://news...",
+      "published": "2026-03-31T13:12:42+00:00",
+      "domain": "businessasusual.io",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "Axios Supply Chain Attack Pushes Cross-Platform RAT via Compromised npm Account",
       "link": "https://thehackernews.com/2026/03/axios-supply-chain-attack-pushes-cross.html",
-      "summary": "The popular HTTP client known as Axios has suffered a supply chain attack after two newly published versions of the npm package introduced a malicious dependency.\nVersions 1.14.1 and 0.30.4 of Axios h...",
+      "summary": "The popular HTTP client known as Axios has suffered a supply chain attack after two newly published versions of the npm package introduced a malicious dependency that delivers a trojan capable of targ...",
       "published": "2026-03-31T11:38:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
@@ -179,11 +291,11 @@
       }
     },
     {
-      "title": "Working Software Runs Locally",
-      "link": "https://nickmonad.blog/2026/working-software-runs-locally/",
-      "summary": "<p>Article URL: <a href=\"https://nickmonad.blog/2026/working-software-runs-locally/\">https://nickmonad.blog/2026/working-software-runs-locally/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinat...",
-      "published": "2026-03-31T07:10:55+00:00",
-      "domain": "nickmonad.blog",
+      "title": "Apple reveals it bowed to Kremlin pressure to remove 190 apps from Russian App Store over three years",
+      "link": "https://www.reddit.com/r/technology/comments/1s8keyn/apple_reveals_it_bowed_to_kremlin_pressure_to/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1s8keyn/apple_reveals_it_bowed_to_kremlin_pressure_to/\"> <img alt=\"Apple reveals it bowed to Kremlin pressure to remove 190 apps ...",
+      "published": "2026-03-31T11:10:12+00:00",
+      "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -195,123 +307,11 @@
       }
     },
     {
-      "title": "Andrej Karpathy on supply chain attacks",
-      "link": "https://twitter.com/karpathy/status/2038849654423798197",
-      "summary": "<p>Article URL: <a href=\"https://twitter.com/karpathy/status/2038849654423798197\">https://twitter.com/karpathy/status/2038849654423798197</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com...",
-      "published": "2026-03-31T07:04:52+00:00",
+      "title": "Claude Code's source code has been leaked via a map file in their NPM registry",
+      "link": "https://twitter.com/Fried_rice/status/2038894956459290963",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47584540\">Comments</a>...",
+      "published": "2026-03-31T09:00:40+00:00",
       "domain": "twitter.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The Download: brainless human clones and the first uterus kept alive outside a",
-      "link": "https://www.technologyreview.com/2026/03/30/1134836/the-download-brainless-human-clones-first-uterus-kept-alive-outside-body/",
-      "summary": "<p>Article URL: <a href=\"https://www.technologyreview.com/2026/03/30/1134836/the-download-brainless-human-clones-first-uterus-kept-alive-outside-body/\">https://www.technologyreview.com/2026/03/30/1134...",
-      "published": "2026-03-31T07:03:21+00:00",
-      "domain": "technologyreview.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: TaskTrace, a local-first activity log that gives LLMs context",
-      "link": "https://tasktrace.com",
-      "summary": "<p>TaskTrace is a desktop app that continuously records your activity (screenshots, keystrokes, microphone) and turns it into a structured, searchable history of what you\u2019ve been doing.<p>Everything r...",
-      "published": "2026-03-31T06:58:05+00:00",
-      "domain": "tasktrace.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: Claudebase: Sync your Claude Code env across machines via GitHub",
-      "link": "https://github.com/rohithzr/claudebase",
-      "summary": "<p>Article URL: <a href=\"https://github.com/rohithzr/claudebase\">https://github.com/rohithzr/claudebase</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47583664\">https://news.yc...",
-      "published": "2026-03-31T06:53:23+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Google's 200M-parameter time-series foundation model with 16k context",
-      "link": "https://github.com/google-research/timesfm",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47583045\">Comments</a>...",
-      "published": "2026-03-31T05:21:59+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Ollama is now powered by MLX on Apple Silicon in preview",
-      "link": "https://ollama.com/blog/mlx",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47582482\">Comments</a>...",
-      "published": "2026-03-31T03:40:45+00:00",
-      "domain": "ollama.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Axios compromised on NPM \u2013 Malicious versions drop remote access trojan",
-      "link": "https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47582220\">Comments</a>...",
-      "published": "2026-03-31T02:54:17+00:00",
-      "domain": "stepsecurity.io",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Artemis II is not safe to fly",
-      "link": "https://idlewords.com/2026/03/artemis_ii_is_not_safe_to_fly.htm",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47582043\">Comments</a>...",
-      "published": "2026-03-31T02:23:50+00:00",
-      "domain": "idlewords.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -325,9 +325,121 @@
   ],
   "overall_ranked": [
     {
+      "title": "Silver Fox Expands Asia Cyber Campaign with AtlasCross RAT and Fake Domains",
+      "link": "https://thehackernews.com/2026/03/silver-fox-expands-asia-cyber-campaign.html",
+      "summary": "Chinese-speaking users are the target of an active campaign that uses typosquatted domains impersonating trusted software brands to deliver a previously undocumented remote access trojan named AtlasCr...",
+      "published": "2026-03-31T17:16:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The AI Arms Race \u2013 Why Unified Exposure Management Is Becoming a Boardroom Priority",
+      "link": "https://thehackernews.com/2026/03/the-ai-arms-race-why-unified-exposure.html",
+      "summary": "The cybersecurity landscape is accelerating at an unprecedented rate. What is emerging is not simply a rise in the number of vulnerabilities or tools, but a dramatic increase in speed. Speed of attack...",
+      "published": "2026-03-31T17:00:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "AI sheds light on an ancient gaming mystery",
+      "link": "https://news.flinders.edu.au/blog/2026/03/21/ai-sheds-light-on-an-ancient-gaming-mystery/",
+      "summary": "<p>Article URL: <a href=\"https://news.flinders.edu.au/blog/2026/03/21/ai-sheds-light-on-an-ancient-gaming-mystery/\">https://news.flinders.edu.au/blog/2026/03/21/ai-sheds-light-on-an-ancient-gaming-mys...",
+      "published": "2026-03-31T13:14:26+00:00",
+      "domain": "news.flinders.edu.au",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Zelensky hails 'historic' defence agreements with Gulf states",
+      "link": "https://www.france24.com/en/europe/20260330-zelensky-hails-historic-defence-agreements-with-gulf-states",
+      "summary": "<p>Article URL: <a href=\"https://www.france24.com/en/europe/20260330-zelensky-hails-historic-defence-agreements-with-gulf-states\">https://www.france24.com/en/europe/20260330-zelensky-hails-historic-de...",
+      "published": "2026-03-31T13:13:53+00:00",
+      "domain": "france24.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "What changes when you turn a Linux box into a router",
+      "link": "https://patrickmccanna.net/7-configuration-changes-that-turn-a-multi-homed-host-into-a-switch-router/",
+      "summary": "<p>Article URL: <a href=\"https://patrickmccanna.net/7-configuration-changes-that-turn-a-multi-homed-host-into-a-switch-router/\">https://patrickmccanna.net/7-configuration-changes-that-turn-a-multi-hom...",
+      "published": "2026-03-31T13:13:20+00:00",
+      "domain": "patrickmccanna.net",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Unsupervised and Unstable: A Safety Audit of Human Intelligence",
+      "link": "https://p0g.net/unsupervised-and-unstable-a-safety-audit-of-human-intelligence/",
+      "summary": "<p>Article URL: <a href=\"https://p0g.net/unsupervised-and-unstable-a-safety-audit-of-human-intelligence/\">https://p0g.net/unsupervised-and-unstable-a-safety-audit-of-human-intelligence/</a></p>\n<p>Com...",
+      "published": "2026-03-31T13:13:12+00:00",
+      "domain": "p0g.net",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "AI Won't Lower Your Engineering Bar. Poor Adoption Will",
+      "link": "https://businessasusual.io/p/ai-wont-lower-your-engineering-bar",
+      "summary": "<p>Article URL: <a href=\"https://businessasusual.io/p/ai-wont-lower-your-engineering-bar\">https://businessasusual.io/p/ai-wont-lower-your-engineering-bar</a></p>\n<p>Comments URL: <a href=\"https://news...",
+      "published": "2026-03-31T13:12:42+00:00",
+      "domain": "businessasusual.io",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "Axios Supply Chain Attack Pushes Cross-Platform RAT via Compromised npm Account",
       "link": "https://thehackernews.com/2026/03/axios-supply-chain-attack-pushes-cross.html",
-      "summary": "The popular HTTP client known as Axios has suffered a supply chain attack after two newly published versions of the npm package introduced a malicious dependency.\nVersions 1.14.1 and 0.30.4 of Axios h...",
+      "summary": "The popular HTTP client known as Axios has suffered a supply chain attack after two newly published versions of the npm package introduced a malicious dependency that delivers a trojan capable of targ...",
       "published": "2026-03-31T11:38:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
@@ -341,11 +453,11 @@
       }
     },
     {
-      "title": "Working Software Runs Locally",
-      "link": "https://nickmonad.blog/2026/working-software-runs-locally/",
-      "summary": "<p>Article URL: <a href=\"https://nickmonad.blog/2026/working-software-runs-locally/\">https://nickmonad.blog/2026/working-software-runs-locally/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinat...",
-      "published": "2026-03-31T07:10:55+00:00",
-      "domain": "nickmonad.blog",
+      "title": "Apple reveals it bowed to Kremlin pressure to remove 190 apps from Russian App Store over three years",
+      "link": "https://www.reddit.com/r/technology/comments/1s8keyn/apple_reveals_it_bowed_to_kremlin_pressure_to/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1s8keyn/apple_reveals_it_bowed_to_kremlin_pressure_to/\"> <img alt=\"Apple reveals it bowed to Kremlin pressure to remove 190 apps ...",
+      "published": "2026-03-31T11:10:12+00:00",
+      "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -357,123 +469,11 @@
       }
     },
     {
-      "title": "Andrej Karpathy on supply chain attacks",
-      "link": "https://twitter.com/karpathy/status/2038849654423798197",
-      "summary": "<p>Article URL: <a href=\"https://twitter.com/karpathy/status/2038849654423798197\">https://twitter.com/karpathy/status/2038849654423798197</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com...",
-      "published": "2026-03-31T07:04:52+00:00",
+      "title": "Claude Code's source code has been leaked via a map file in their NPM registry",
+      "link": "https://twitter.com/Fried_rice/status/2038894956459290963",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47584540\">Comments</a>...",
+      "published": "2026-03-31T09:00:40+00:00",
       "domain": "twitter.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The Download: brainless human clones and the first uterus kept alive outside a",
-      "link": "https://www.technologyreview.com/2026/03/30/1134836/the-download-brainless-human-clones-first-uterus-kept-alive-outside-body/",
-      "summary": "<p>Article URL: <a href=\"https://www.technologyreview.com/2026/03/30/1134836/the-download-brainless-human-clones-first-uterus-kept-alive-outside-body/\">https://www.technologyreview.com/2026/03/30/1134...",
-      "published": "2026-03-31T07:03:21+00:00",
-      "domain": "technologyreview.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: TaskTrace, a local-first activity log that gives LLMs context",
-      "link": "https://tasktrace.com",
-      "summary": "<p>TaskTrace is a desktop app that continuously records your activity (screenshots, keystrokes, microphone) and turns it into a structured, searchable history of what you\u2019ve been doing.<p>Everything r...",
-      "published": "2026-03-31T06:58:05+00:00",
-      "domain": "tasktrace.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: Claudebase: Sync your Claude Code env across machines via GitHub",
-      "link": "https://github.com/rohithzr/claudebase",
-      "summary": "<p>Article URL: <a href=\"https://github.com/rohithzr/claudebase\">https://github.com/rohithzr/claudebase</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47583664\">https://news.yc...",
-      "published": "2026-03-31T06:53:23+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Google's 200M-parameter time-series foundation model with 16k context",
-      "link": "https://github.com/google-research/timesfm",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47583045\">Comments</a>...",
-      "published": "2026-03-31T05:21:59+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Ollama is now powered by MLX on Apple Silicon in preview",
-      "link": "https://ollama.com/blog/mlx",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47582482\">Comments</a>...",
-      "published": "2026-03-31T03:40:45+00:00",
-      "domain": "ollama.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Axios compromised on NPM \u2013 Malicious versions drop remote access trojan",
-      "link": "https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47582220\">Comments</a>...",
-      "published": "2026-03-31T02:54:17+00:00",
-      "domain": "stepsecurity.io",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Artemis II is not safe to fly",
-      "link": "https://idlewords.com/2026/03/artemis_ii_is_not_safe_to_fly.htm",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47582043\">Comments</a>...",
-      "published": "2026-03-31T02:23:50+00:00",
-      "domain": "idlewords.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -487,9 +487,121 @@
   ],
   "all_articles": [
     {
+      "title": "Silver Fox Expands Asia Cyber Campaign with AtlasCross RAT and Fake Domains",
+      "link": "https://thehackernews.com/2026/03/silver-fox-expands-asia-cyber-campaign.html",
+      "summary": "Chinese-speaking users are the target of an active campaign that uses typosquatted domains impersonating trusted software brands to deliver a previously undocumented remote access trojan named AtlasCr...",
+      "published": "2026-03-31T17:16:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The AI Arms Race \u2013 Why Unified Exposure Management Is Becoming a Boardroom Priority",
+      "link": "https://thehackernews.com/2026/03/the-ai-arms-race-why-unified-exposure.html",
+      "summary": "The cybersecurity landscape is accelerating at an unprecedented rate. What is emerging is not simply a rise in the number of vulnerabilities or tools, but a dramatic increase in speed. Speed of attack...",
+      "published": "2026-03-31T17:00:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "AI sheds light on an ancient gaming mystery",
+      "link": "https://news.flinders.edu.au/blog/2026/03/21/ai-sheds-light-on-an-ancient-gaming-mystery/",
+      "summary": "<p>Article URL: <a href=\"https://news.flinders.edu.au/blog/2026/03/21/ai-sheds-light-on-an-ancient-gaming-mystery/\">https://news.flinders.edu.au/blog/2026/03/21/ai-sheds-light-on-an-ancient-gaming-mys...",
+      "published": "2026-03-31T13:14:26+00:00",
+      "domain": "news.flinders.edu.au",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Zelensky hails 'historic' defence agreements with Gulf states",
+      "link": "https://www.france24.com/en/europe/20260330-zelensky-hails-historic-defence-agreements-with-gulf-states",
+      "summary": "<p>Article URL: <a href=\"https://www.france24.com/en/europe/20260330-zelensky-hails-historic-defence-agreements-with-gulf-states\">https://www.france24.com/en/europe/20260330-zelensky-hails-historic-de...",
+      "published": "2026-03-31T13:13:53+00:00",
+      "domain": "france24.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "What changes when you turn a Linux box into a router",
+      "link": "https://patrickmccanna.net/7-configuration-changes-that-turn-a-multi-homed-host-into-a-switch-router/",
+      "summary": "<p>Article URL: <a href=\"https://patrickmccanna.net/7-configuration-changes-that-turn-a-multi-homed-host-into-a-switch-router/\">https://patrickmccanna.net/7-configuration-changes-that-turn-a-multi-hom...",
+      "published": "2026-03-31T13:13:20+00:00",
+      "domain": "patrickmccanna.net",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Unsupervised and Unstable: A Safety Audit of Human Intelligence",
+      "link": "https://p0g.net/unsupervised-and-unstable-a-safety-audit-of-human-intelligence/",
+      "summary": "<p>Article URL: <a href=\"https://p0g.net/unsupervised-and-unstable-a-safety-audit-of-human-intelligence/\">https://p0g.net/unsupervised-and-unstable-a-safety-audit-of-human-intelligence/</a></p>\n<p>Com...",
+      "published": "2026-03-31T13:13:12+00:00",
+      "domain": "p0g.net",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "AI Won't Lower Your Engineering Bar. Poor Adoption Will",
+      "link": "https://businessasusual.io/p/ai-wont-lower-your-engineering-bar",
+      "summary": "<p>Article URL: <a href=\"https://businessasusual.io/p/ai-wont-lower-your-engineering-bar\">https://businessasusual.io/p/ai-wont-lower-your-engineering-bar</a></p>\n<p>Comments URL: <a href=\"https://news...",
+      "published": "2026-03-31T13:12:42+00:00",
+      "domain": "businessasusual.io",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "Axios Supply Chain Attack Pushes Cross-Platform RAT via Compromised npm Account",
       "link": "https://thehackernews.com/2026/03/axios-supply-chain-attack-pushes-cross.html",
-      "summary": "The popular HTTP client known as Axios has suffered a supply chain attack after two newly published versions of the npm package introduced a malicious dependency.\nVersions 1.14.1 and 0.30.4 of Axios h...",
+      "summary": "The popular HTTP client known as Axios has suffered a supply chain attack after two newly published versions of the npm package introduced a malicious dependency that delivers a trojan capable of targ...",
       "published": "2026-03-31T11:38:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
@@ -503,11 +615,11 @@
       }
     },
     {
-      "title": "Working Software Runs Locally",
-      "link": "https://nickmonad.blog/2026/working-software-runs-locally/",
-      "summary": "<p>Article URL: <a href=\"https://nickmonad.blog/2026/working-software-runs-locally/\">https://nickmonad.blog/2026/working-software-runs-locally/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinat...",
-      "published": "2026-03-31T07:10:55+00:00",
-      "domain": "nickmonad.blog",
+      "title": "Apple reveals it bowed to Kremlin pressure to remove 190 apps from Russian App Store over three years",
+      "link": "https://www.reddit.com/r/technology/comments/1s8keyn/apple_reveals_it_bowed_to_kremlin_pressure_to/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1s8keyn/apple_reveals_it_bowed_to_kremlin_pressure_to/\"> <img alt=\"Apple reveals it bowed to Kremlin pressure to remove 190 apps ...",
+      "published": "2026-03-31T11:10:12+00:00",
+      "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -519,123 +631,11 @@
       }
     },
     {
-      "title": "Andrej Karpathy on supply chain attacks",
-      "link": "https://twitter.com/karpathy/status/2038849654423798197",
-      "summary": "<p>Article URL: <a href=\"https://twitter.com/karpathy/status/2038849654423798197\">https://twitter.com/karpathy/status/2038849654423798197</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com...",
-      "published": "2026-03-31T07:04:52+00:00",
+      "title": "Claude Code's source code has been leaked via a map file in their NPM registry",
+      "link": "https://twitter.com/Fried_rice/status/2038894956459290963",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47584540\">Comments</a>...",
+      "published": "2026-03-31T09:00:40+00:00",
       "domain": "twitter.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The Download: brainless human clones and the first uterus kept alive outside a",
-      "link": "https://www.technologyreview.com/2026/03/30/1134836/the-download-brainless-human-clones-first-uterus-kept-alive-outside-body/",
-      "summary": "<p>Article URL: <a href=\"https://www.technologyreview.com/2026/03/30/1134836/the-download-brainless-human-clones-first-uterus-kept-alive-outside-body/\">https://www.technologyreview.com/2026/03/30/1134...",
-      "published": "2026-03-31T07:03:21+00:00",
-      "domain": "technologyreview.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: TaskTrace, a local-first activity log that gives LLMs context",
-      "link": "https://tasktrace.com",
-      "summary": "<p>TaskTrace is a desktop app that continuously records your activity (screenshots, keystrokes, microphone) and turns it into a structured, searchable history of what you\u2019ve been doing.<p>Everything r...",
-      "published": "2026-03-31T06:58:05+00:00",
-      "domain": "tasktrace.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: Claudebase: Sync your Claude Code env across machines via GitHub",
-      "link": "https://github.com/rohithzr/claudebase",
-      "summary": "<p>Article URL: <a href=\"https://github.com/rohithzr/claudebase\">https://github.com/rohithzr/claudebase</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47583664\">https://news.yc...",
-      "published": "2026-03-31T06:53:23+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Google's 200M-parameter time-series foundation model with 16k context",
-      "link": "https://github.com/google-research/timesfm",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47583045\">Comments</a>...",
-      "published": "2026-03-31T05:21:59+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Ollama is now powered by MLX on Apple Silicon in preview",
-      "link": "https://ollama.com/blog/mlx",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47582482\">Comments</a>...",
-      "published": "2026-03-31T03:40:45+00:00",
-      "domain": "ollama.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Axios compromised on NPM \u2013 Malicious versions drop remote access trojan",
-      "link": "https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47582220\">Comments</a>...",
-      "published": "2026-03-31T02:54:17+00:00",
-      "domain": "stepsecurity.io",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Artemis II is not safe to fly",
-      "link": "https://idlewords.com/2026/03/artemis_ii_is_not_safe_to_fly.htm",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47582043\">Comments</a>...",
-      "published": "2026-03-31T02:23:50+00:00",
-      "domain": "idlewords.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,

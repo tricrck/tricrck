@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Axios Supply Chain Attack Pushes Cross-Platform RAT via Compromised npm Account
+### Silver Fox Expands Asia Cyber Campaign with AtlasCross RAT and Fake Domains
 - **Published**: March 31, 2026
-- **Summary**: The popular HTTP client known as Axios has suffered a supply chain attack after two newly published versions of the npm package introduced a malicious...
-- [Read more](https://thehackernews.com/2026/03/axios-supply-chain-attack-pushes-cross.html)
+- **Summary**: Chinese-speaking users are the target of an active campaign that uses typosquatted domains impersonating trusted software brands to deliver a previous...
+- [Read more](https://thehackernews.com/2026/03/silver-fox-expands-asia-cyber-campaign.html)
 
-### Working Software Runs Locally
+### The AI Arms Race – Why Unified Exposure Management Is Becoming a Boardroom Priority
 - **Published**: March 31, 2026
-- **Summary**: https://nickmonad.blog/2026/working-software-runs-locally/</a></p>
-<p>Comments URL: <a href="https://news.ycombinat......
-- [Read more](https://nickmonad.blog/2026/working-software-runs-locally/)
+- **Summary**: The cybersecurity landscape is accelerating at an unprecedented rate. What is emerging is not simply a rise in the number of vulnerabilities or tools,...
+- [Read more](https://thehackernews.com/2026/03/the-ai-arms-race-why-unified-exposure.html)
 
 ---
 
