@@ -16,15 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Silver Fox Expands Asia Cyber Campaign with AtlasCross RAT and Fake Domains
+### TrueConf Zero-Day Exploited in Attacks on Southeast Asian Government Networks
 - **Published**: March 31, 2026
-- **Summary**: Chinese-speaking users are the target of an active campaign that uses typosquatted domains impersonating trusted software brands to deliver a previous...
-- [Read more](https://thehackernews.com/2026/03/silver-fox-expands-asia-cyber-campaign.html)
+- **Summary**: A high-severity security flaw in the TrueConf client video conferencing software has been exploited in the wild as a zero-day as part of a campaign ta...
+- [Read more](https://thehackernews.com/2026/03/trueconf-zero-day-exploited-in-attacks.html)
 
-### The AI Arms Race – Why Unified Exposure Management Is Becoming a Boardroom Priority
+### Do LLMs Break the Sapir-Whorf Hypothesis?
 - **Published**: March 31, 2026
-- **Summary**: The cybersecurity landscape is accelerating at an unprecedented rate. What is emerging is not simply a rise in the number of vulnerabilities or tools,...
-- [Read more](https://thehackernews.com/2026/03/the-ai-arms-race-why-unified-exposure.html)
+- **Summary**: https://dnhkng.github.io/posts/sapir-whorf/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47591834">https......
+- [Read more](https://dnhkng.github.io/posts/sapir-whorf/)
 
 ---
 
