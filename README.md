@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### The State of Secrets Sprawl 2026: 9 Takeaways for CISOs
-- **Published**: March 30, 2026
-- **Summary**: Secrets sprawl isn't slowing down: in 2025, it accelerated faster than most security teams anticipated. GitGuardian's State of Secrets Sprawl 2026 rep...
-- **Keywords**: down
-- [Read more](https://thehackernews.com/2026/03/the-state-of-secrets-sprawl-2026-9.html)
+### Trump Tells Aides He's Willing to End War Without Reopening Hormuz
+- **Published**: March 31, 2026
+- **Summary**: https://www.wsj.com/world/middle-east/trump-iran-war-strait-of-hormuz-ee950ad4</a></p>
+<p>Comme......
+- [Read more](https://www.wsj.com/world/middle-east/trump-iran-war-strait-of-hormuz-ee950ad4)
 
-### 3 SOC Process Fixes That Unlock Tier 1 Productivity
-- **Published**: March 30, 2026
-- **Summary**: What is really slowing Tier 1 down: the threat itself or the process around it? In many SOCs, the biggest delays do not come from the threat alone. Th...
-- **Keywords**: down
-- [Read more](https://thehackernews.com/2026/03/3-soc-process-fixes-that-unlock-tier-1.html)
+### Federal judges report broad adoption of AI tools
+- **Published**: March 31, 2026
+- **Summary**: https://news.northwestern.edu/stories......
+- [Read more](https://news.northwestern.edu/stories/2026/03/northwestern-study-finds-a-significant-number-of-federal-judges-are-already-using-ai-tools)
 
 ---
 
