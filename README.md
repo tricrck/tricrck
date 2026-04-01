@@ -22,11 +22,11 @@
 - **Keywords**: error, error
 - [Read more](https://thehackernews.com/2026/04/claude-code-tleaked-via-npm-packaging.html)
 
-### Portel: The Observability Platform for Portlet-Based Generative UI
+### 3 Reasons Attackers Are Using Your Trusted Tools Against You (And Why You Don’t See It Coming)
 - **Published**: April 01, 2026
-- **Summary**: https://ollygarden.com/press/portel-april-2026</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47597847"......
-- [Read more](https://ollygarden.com/press/portel-april-2026)
+- **Summary**: For years, cybersecurity has followed a familiar model: block malware, stop the attack. Now, attackers are moving on to what’s next.
+Threat actors now...
+- [Read more](https://thehackernews.com/2026/04/3-reasons-attackers-are-using-your.html)
 
 ---
 
