@@ -16,17 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Burning Tokens Fast
+### Claude Code Source Leaked via npm Packaging Error, Anthropic Confirms
 - **Published**: April 01, 2026
-- **Summary**: https://github.com/openai/codex/issues/14593</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47596142">htt......
-- [Read more](https://github.com/openai/codex/issues/14593)
+- **Summary**: Anthropic on Tuesday confirmed that internal code for its popular artificial intelligence (AI) coding assistant, Claude Code, had been inadvertently r...
+- **Keywords**: error, error
+- [Read more](https://thehackernews.com/2026/04/claude-code-tleaked-via-npm-packaging.html)
 
-### You're cooked either way. Which kind of cooked do you want to be?
+### Portel: The Observability Platform for Portlet-Based Generative UI
 - **Published**: April 01, 2026
-- **Summary**: https://www.eomag.io/article/ralphthon</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47596127">https://news.yc......
-- [Read more](https://www.eomag.io/article/ralphthon)
+- **Summary**: https://ollygarden.com/press/portel-april-2026</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47597847"......
+- [Read more](https://ollygarden.com/press/portel-april-2026)
 
 ---
 
