@@ -16,16 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### TrueConf Zero-Day Exploited in Attacks on Southeast Asian Government Networks
-- **Published**: March 31, 2026
-- **Summary**: A high-severity security flaw in the TrueConf client video conferencing software has been exploited in the wild as a zero-day as part of a campaign ta...
-- [Read more](https://thehackernews.com/2026/03/trueconf-zero-day-exploited-in-attacks.html)
+### Burning Tokens Fast
+- **Published**: April 01, 2026
+- **Summary**: https://github.com/openai/codex/issues/14593</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47596142">htt......
+- [Read more](https://github.com/openai/codex/issues/14593)
 
-### Do LLMs Break the Sapir-Whorf Hypothesis?
-- **Published**: March 31, 2026
-- **Summary**: https://dnhkng.github.io/posts/sapir-whorf/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47591834">https......
-- [Read more](https://dnhkng.github.io/posts/sapir-whorf/)
+### You're cooked either way. Which kind of cooked do you want to be?
+- **Published**: April 01, 2026
+- **Summary**: https://www.eomag.io/article/ralphthon</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47596127">https://news.yc......
+- [Read more](https://www.eomag.io/article/ralphthon)
 
 ---
 
