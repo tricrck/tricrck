@@ -1,29 +1,28 @@
 {
   "chaos_ranked": [
     {
-      "title": "Claude Code Source Leaked via npm Packaging Error, Anthropic Confirms",
-      "link": "https://thehackernews.com/2026/04/claude-code-tleaked-via-npm-packaging.html",
-      "summary": "Anthropic on Tuesday confirmed that internal code for its popular artificial intelligence (AI) coding assistant, Claude Code, had been inadvertently released due to a human error.\n\"No sensitive custom...",
-      "published": "2026-04-01T11:42:00+05:30",
+      "title": "CERT-UA Impersonation Campaign Spread AGEWHEEZE Malware to 1 Million Emails",
+      "link": "https://thehackernews.com/2026/04/cert-ua-impersonation-campaign-spread.html",
+      "summary": "The Computer Emergency Response Team of Ukraine (CERT-UA) has disclosed details of a new phishing campaign in which the cybersecurity agency itself was impersonated to distribute a remote administrati...",
+      "published": "2026-04-01T21:40:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
-        "chaos": 24.5,
+        "chaos": 13.2,
         "anarchy": 3.0,
-        "overall": 13.8
+        "overall": 8.1
       },
       "keywords": {
         "chaos": [
-          "error",
-          "error"
+          "emergency"
         ],
         "anarchy": []
       }
     },
     {
-      "title": "3 Reasons Attackers Are Using Your Trusted Tools Against You (And Why You Don\u2019t See It Coming)",
-      "link": "https://thehackernews.com/2026/04/3-reasons-attackers-are-using-your.html",
-      "summary": "For years, cybersecurity has followed a familiar model: block malware, stop the attack. Now, attackers are moving on to what\u2019s next.\nThreat actors now use malware less frequently in favor of what\u2019s al...",
-      "published": "2026-04-01T16:28:00+05:30",
+      "title": "Microsoft Warns of WhatsApp-Delivered VBS Malware Hijacking Windows via UAC Bypass",
+      "link": "https://thehackernews.com/2026/04/microsoft-warns-of-whatsapp-delivered.html",
+      "summary": "Microsoft is calling attention to a new campaign that has leveraged WhatsApp messages to distribute malicious Visual Basic Script (VBS) files.\nThe activity, beginning in late February 2026, leverages ...",
+      "published": "2026-04-01T19:40:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -36,10 +35,58 @@
       }
     },
     {
-      "title": "Claude Code in Rust, Python, Go, Open source",
-      "link": "https://github.com/SeifBenayed/claude-code-sdk",
-      "summary": "<p>Article URL: <a href=\"https://github.com/SeifBenayed/claude-code-sdk\">https://github.com/SeifBenayed/claude-code-sdk</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47600441\"...",
-      "published": "2026-04-01T13:15:59+00:00",
+      "title": "\"We enabled the availability of iOS 18.7.7 for more devices\"",
+      "link": "https://support.apple.com/en-us/126793",
+      "summary": "<p>Article URL: <a href=\"https://support.apple.com/en-us/126793\">https://support.apple.com/en-us/126793</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47605034\">https://news.yc...",
+      "published": "2026-04-01T19:00:05+00:00",
+      "domain": "support.apple.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Describe a dashboard, get a working app in 3 minutes",
+      "link": "https://bubbling.dev",
+      "summary": "<p>Article URL: <a href=\"https://bubbling.dev\">https://bubbling.dev</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47605019\">https://news.ycombinator.com/item?id=47605019</a></...",
+      "published": "2026-04-01T18:58:52+00:00",
+      "domain": "bubbling.dev",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Iranian president has released an open letter to the American people",
+      "link": "https://www.presstv.ir/Detail/2026/04/01/766191/pezeshkian-letter-American-people",
+      "summary": "<p>Article URL: <a href=\"https://www.presstv.ir/Detail/2026/04/01/766191/pezeshkian-letter-American-people\">https://www.presstv.ir/Detail/2026/04/01/766191/pezeshkian-letter-American-people</a></p>\n<p...",
+      "published": "2026-04-01T18:58:27+00:00",
+      "domain": "presstv.ir",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Graph Based code search that reduces context by 50% in Claude Code",
+      "link": "https://github.com/kunal12203/Codex-CLI-Compact",
+      "summary": "<p>Article URL: <a href=\"https://github.com/kunal12203/Codex-CLI-Compact\">https://github.com/kunal12203/Codex-CLI-Compact</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4760500...",
+      "published": "2026-04-01T18:58:24+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -52,11 +99,11 @@
       }
     },
     {
-      "title": "New Patches Allow Building Linux IPv6-Only, Option to Deprecate \"Legacy\" IPv4",
-      "link": "https://www.phoronix.com/news/Linux-IPv6-IPv4-Legacy-Knobs",
-      "summary": "<p>Article URL: <a href=\"https://www.phoronix.com/news/Linux-IPv6-IPv4-Legacy-Knobs\">https://www.phoronix.com/news/Linux-IPv6-IPv4-Legacy-Knobs</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinat...",
-      "published": "2026-04-01T13:15:33+00:00",
-      "domain": "phoronix.com",
+      "title": "Hegseth attempted to make large investments in defense companies before Iran War",
+      "link": "https://www.disclose.tv/id/vbilcnkvyw/",
+      "summary": "<p>Article URL: <a href=\"https://www.disclose.tv/id/vbilcnkvyw/\">https://www.disclose.tv/id/vbilcnkvyw/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47605000\">https://news.yc...",
+      "published": "2026-04-01T18:58:02+00:00",
+      "domain": "disclose.tv",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -68,42 +115,10 @@
       }
     },
     {
-      "title": "A BASIC interpreter in Swift for Apple's birthday",
-      "link": "https://github.com/jpurnell/ApplesoftBASIC",
-      "summary": "<p>Article URL: <a href=\"https://github.com/jpurnell/ApplesoftBASIC\">https://github.com/jpurnell/ApplesoftBASIC</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47600424\">https:/...",
-      "published": "2026-04-01T13:14:57+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Google Paper Warns of Quantum Computing Risk for Bitcoin",
-      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-03-31-2026/card/google-paper-warns-of-quantum-computing-risk-for-bitcoin-x4yBALvF5ezP4R8mk25q",
-      "summary": "<p>Article URL: <a href=\"https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-03-31-2026/card/google-paper-warns-of-quantum-computing-risk-for-bitcoin-x4yBALvF5ezP4R8mk25q\">https://ww...",
-      "published": "2026-04-01T13:14:22+00:00",
-      "domain": "wsj.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Google Attributes Axios npm Supply Chain Attack to North Korean Group UNC1069",
-      "link": "https://thehackernews.com/2026/04/google-attributes-axios-npm-supply.html",
-      "summary": "Google has formally attributed the supply chain compromise of the popular Axios npm package to a financially motivated North Korean threat activity cluster tracked as UNC1069.\n\"We have attributed the ...",
-      "published": "2026-04-01T13:14:00+05:30",
+      "title": "Block the Prompt, Not the Work: The End of \"Doctor No\"",
+      "link": "https://thehackernews.com/2026/04/block-prompt-not-work-end-of-doctor-no.html",
+      "summary": "There is a character that keeps appearing in enterprise security departments, and most CISOs know exactly who that is. It doesn&rsquo;t build. It doesn&rsquo;t enable. Its entire function is to say \"N...",
+      "published": "2026-04-01T18:16:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -116,11 +131,11 @@
       }
     },
     {
-      "title": "Why AI systems improve while drifting away from reality [pdf]",
-      "link": "https://github.com/therealitydrift/reality-drift-library/blob/main/Reality%20Drift%20Project/07_Operational_Briefs/01_Diagnostics_and_Workflows/reality-constrained-systems-ai-alignment-framework..pdf",
-      "summary": "<p>Article URL: <a href=\"https://github.com/therealitydrift/reality-drift-library/blob/main/Reality%20Drift%20Project/07_Operational_Briefs/01_Diagnostics_and_Workflows/reality-constrained-systems-ai-...",
-      "published": "2026-04-01T13:13:31+00:00",
-      "domain": "github.com",
+      "title": "Casbaneiro Phishing Targets Latin America and Europe Using Dynamic PDF Lures",
+      "link": "https://thehackernews.com/2026/04/casbaneiro-phishing-targets-latin.html",
+      "summary": "A multi-pronged phishing campaign is targeting Spanish-speaking users in organizations across Latin America and Europe to deliver Windows banking trojans like Casbaneiro (aka Metamorfo) via another ma...",
+      "published": "2026-04-01T18:06:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -132,27 +147,11 @@
       }
     },
     {
-      "title": "Show HN: Sycamore \u2013 next gen Rust UI library powered by fine-grained reactivity",
-      "link": "https://sycamore.dev",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47599956\">Comments</a>...",
-      "published": "2026-04-01T12:30:18+00:00",
-      "domain": "sycamore.dev",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "I Quit. The Clankers Won",
-      "link": "https://dbushell.com/2026/04/01/i-quit-the-clankers-won/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47598511\">Comments</a>...",
-      "published": "2026-04-01T09:00:34+00:00",
-      "domain": "dbushell.com",
+      "title": "The AI Marketing BS Index",
+      "link": "https://bastian.rieck.me/blog/2026/bs/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47604218\">Comments</a>...",
+      "published": "2026-04-01T17:55:12+00:00",
+      "domain": "bastian.rieck.me",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -166,158 +165,157 @@
   ],
   "anarchy_ranked": [
     {
-      "title": "3 Reasons Attackers Are Using Your Trusted Tools Against You (And Why You Don\u2019t See It Coming)",
-      "link": "https://thehackernews.com/2026/04/3-reasons-attackers-are-using-your.html",
-      "summary": "For years, cybersecurity has followed a familiar model: block malware, stop the attack. Now, attackers are moving on to what\u2019s next.\nThreat actors now use malware less frequently in favor of what\u2019s al...",
-      "published": "2026-04-01T16:28:00+05:30",
+      "title": "CERT-UA Impersonation Campaign Spread AGEWHEEZE Malware to 1 Million Emails",
+      "link": "https://thehackernews.com/2026/04/cert-ua-impersonation-campaign-spread.html",
+      "summary": "The Computer Emergency Response Team of Ukraine (CERT-UA) has disclosed details of a new phishing campaign in which the cybersecurity agency itself was impersonated to distribute a remote administrati...",
+      "published": "2026-04-01T21:40:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
-        "chaos": 3.0,
+        "chaos": 13.2,
         "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Claude Code in Rust, Python, Go, Open source",
-      "link": "https://github.com/SeifBenayed/claude-code-sdk",
-      "summary": "<p>Article URL: <a href=\"https://github.com/SeifBenayed/claude-code-sdk\">https://github.com/SeifBenayed/claude-code-sdk</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47600441\"...",
-      "published": "2026-04-01T13:15:59+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "New Patches Allow Building Linux IPv6-Only, Option to Deprecate \"Legacy\" IPv4",
-      "link": "https://www.phoronix.com/news/Linux-IPv6-IPv4-Legacy-Knobs",
-      "summary": "<p>Article URL: <a href=\"https://www.phoronix.com/news/Linux-IPv6-IPv4-Legacy-Knobs\">https://www.phoronix.com/news/Linux-IPv6-IPv4-Legacy-Knobs</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinat...",
-      "published": "2026-04-01T13:15:33+00:00",
-      "domain": "phoronix.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "A BASIC interpreter in Swift for Apple's birthday",
-      "link": "https://github.com/jpurnell/ApplesoftBASIC",
-      "summary": "<p>Article URL: <a href=\"https://github.com/jpurnell/ApplesoftBASIC\">https://github.com/jpurnell/ApplesoftBASIC</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47600424\">https:/...",
-      "published": "2026-04-01T13:14:57+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Google Paper Warns of Quantum Computing Risk for Bitcoin",
-      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-03-31-2026/card/google-paper-warns-of-quantum-computing-risk-for-bitcoin-x4yBALvF5ezP4R8mk25q",
-      "summary": "<p>Article URL: <a href=\"https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-03-31-2026/card/google-paper-warns-of-quantum-computing-risk-for-bitcoin-x4yBALvF5ezP4R8mk25q\">https://ww...",
-      "published": "2026-04-01T13:14:22+00:00",
-      "domain": "wsj.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Google Attributes Axios npm Supply Chain Attack to North Korean Group UNC1069",
-      "link": "https://thehackernews.com/2026/04/google-attributes-axios-npm-supply.html",
-      "summary": "Google has formally attributed the supply chain compromise of the popular Axios npm package to a financially motivated North Korean threat activity cluster tracked as UNC1069.\n\"We have attributed the ...",
-      "published": "2026-04-01T13:14:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Why AI systems improve while drifting away from reality [pdf]",
-      "link": "https://github.com/therealitydrift/reality-drift-library/blob/main/Reality%20Drift%20Project/07_Operational_Briefs/01_Diagnostics_and_Workflows/reality-constrained-systems-ai-alignment-framework..pdf",
-      "summary": "<p>Article URL: <a href=\"https://github.com/therealitydrift/reality-drift-library/blob/main/Reality%20Drift%20Project/07_Operational_Briefs/01_Diagnostics_and_Workflows/reality-constrained-systems-ai-...",
-      "published": "2026-04-01T13:13:31+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: Sycamore \u2013 next gen Rust UI library powered by fine-grained reactivity",
-      "link": "https://sycamore.dev",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47599956\">Comments</a>...",
-      "published": "2026-04-01T12:30:18+00:00",
-      "domain": "sycamore.dev",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Claude Code Source Leaked via npm Packaging Error, Anthropic Confirms",
-      "link": "https://thehackernews.com/2026/04/claude-code-tleaked-via-npm-packaging.html",
-      "summary": "Anthropic on Tuesday confirmed that internal code for its popular artificial intelligence (AI) coding assistant, Claude Code, had been inadvertently released due to a human error.\n\"No sensitive custom...",
-      "published": "2026-04-01T11:42:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 24.5,
-        "anarchy": 3.0,
-        "overall": 13.8
+        "overall": 8.1
       },
       "keywords": {
         "chaos": [
-          "error",
-          "error"
+          "emergency"
         ],
         "anarchy": []
       }
     },
     {
-      "title": "I Quit. The Clankers Won",
-      "link": "https://dbushell.com/2026/04/01/i-quit-the-clankers-won/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47598511\">Comments</a>...",
-      "published": "2026-04-01T09:00:34+00:00",
-      "domain": "dbushell.com",
+      "title": "Microsoft Warns of WhatsApp-Delivered VBS Malware Hijacking Windows via UAC Bypass",
+      "link": "https://thehackernews.com/2026/04/microsoft-warns-of-whatsapp-delivered.html",
+      "summary": "Microsoft is calling attention to a new campaign that has leveraged WhatsApp messages to distribute malicious Visual Basic Script (VBS) files.\nThe activity, beginning in late February 2026, leverages ...",
+      "published": "2026-04-01T19:40:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "\"We enabled the availability of iOS 18.7.7 for more devices\"",
+      "link": "https://support.apple.com/en-us/126793",
+      "summary": "<p>Article URL: <a href=\"https://support.apple.com/en-us/126793\">https://support.apple.com/en-us/126793</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47605034\">https://news.yc...",
+      "published": "2026-04-01T19:00:05+00:00",
+      "domain": "support.apple.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Describe a dashboard, get a working app in 3 minutes",
+      "link": "https://bubbling.dev",
+      "summary": "<p>Article URL: <a href=\"https://bubbling.dev\">https://bubbling.dev</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47605019\">https://news.ycombinator.com/item?id=47605019</a></...",
+      "published": "2026-04-01T18:58:52+00:00",
+      "domain": "bubbling.dev",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Iranian president has released an open letter to the American people",
+      "link": "https://www.presstv.ir/Detail/2026/04/01/766191/pezeshkian-letter-American-people",
+      "summary": "<p>Article URL: <a href=\"https://www.presstv.ir/Detail/2026/04/01/766191/pezeshkian-letter-American-people\">https://www.presstv.ir/Detail/2026/04/01/766191/pezeshkian-letter-American-people</a></p>\n<p...",
+      "published": "2026-04-01T18:58:27+00:00",
+      "domain": "presstv.ir",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Graph Based code search that reduces context by 50% in Claude Code",
+      "link": "https://github.com/kunal12203/Codex-CLI-Compact",
+      "summary": "<p>Article URL: <a href=\"https://github.com/kunal12203/Codex-CLI-Compact\">https://github.com/kunal12203/Codex-CLI-Compact</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4760500...",
+      "published": "2026-04-01T18:58:24+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Hegseth attempted to make large investments in defense companies before Iran War",
+      "link": "https://www.disclose.tv/id/vbilcnkvyw/",
+      "summary": "<p>Article URL: <a href=\"https://www.disclose.tv/id/vbilcnkvyw/\">https://www.disclose.tv/id/vbilcnkvyw/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47605000\">https://news.yc...",
+      "published": "2026-04-01T18:58:02+00:00",
+      "domain": "disclose.tv",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Block the Prompt, Not the Work: The End of \"Doctor No\"",
+      "link": "https://thehackernews.com/2026/04/block-prompt-not-work-end-of-doctor-no.html",
+      "summary": "There is a character that keeps appearing in enterprise security departments, and most CISOs know exactly who that is. It doesn&rsquo;t build. It doesn&rsquo;t enable. Its entire function is to say \"N...",
+      "published": "2026-04-01T18:16:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Casbaneiro Phishing Targets Latin America and Europe Using Dynamic PDF Lures",
+      "link": "https://thehackernews.com/2026/04/casbaneiro-phishing-targets-latin.html",
+      "summary": "A multi-pronged phishing campaign is targeting Spanish-speaking users in organizations across Latin America and Europe to deliver Windows banking trojans like Casbaneiro (aka Metamorfo) via another ma...",
+      "published": "2026-04-01T18:06:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The AI Marketing BS Index",
+      "link": "https://bastian.rieck.me/blog/2026/bs/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47604218\">Comments</a>...",
+      "published": "2026-04-01T17:55:12+00:00",
+      "domain": "bastian.rieck.me",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -331,29 +329,28 @@
   ],
   "overall_ranked": [
     {
-      "title": "Claude Code Source Leaked via npm Packaging Error, Anthropic Confirms",
-      "link": "https://thehackernews.com/2026/04/claude-code-tleaked-via-npm-packaging.html",
-      "summary": "Anthropic on Tuesday confirmed that internal code for its popular artificial intelligence (AI) coding assistant, Claude Code, had been inadvertently released due to a human error.\n\"No sensitive custom...",
-      "published": "2026-04-01T11:42:00+05:30",
+      "title": "CERT-UA Impersonation Campaign Spread AGEWHEEZE Malware to 1 Million Emails",
+      "link": "https://thehackernews.com/2026/04/cert-ua-impersonation-campaign-spread.html",
+      "summary": "The Computer Emergency Response Team of Ukraine (CERT-UA) has disclosed details of a new phishing campaign in which the cybersecurity agency itself was impersonated to distribute a remote administrati...",
+      "published": "2026-04-01T21:40:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
-        "chaos": 24.5,
+        "chaos": 13.2,
         "anarchy": 3.0,
-        "overall": 13.8
+        "overall": 8.1
       },
       "keywords": {
         "chaos": [
-          "error",
-          "error"
+          "emergency"
         ],
         "anarchy": []
       }
     },
     {
-      "title": "3 Reasons Attackers Are Using Your Trusted Tools Against You (And Why You Don\u2019t See It Coming)",
-      "link": "https://thehackernews.com/2026/04/3-reasons-attackers-are-using-your.html",
-      "summary": "For years, cybersecurity has followed a familiar model: block malware, stop the attack. Now, attackers are moving on to what\u2019s next.\nThreat actors now use malware less frequently in favor of what\u2019s al...",
-      "published": "2026-04-01T16:28:00+05:30",
+      "title": "Microsoft Warns of WhatsApp-Delivered VBS Malware Hijacking Windows via UAC Bypass",
+      "link": "https://thehackernews.com/2026/04/microsoft-warns-of-whatsapp-delivered.html",
+      "summary": "Microsoft is calling attention to a new campaign that has leveraged WhatsApp messages to distribute malicious Visual Basic Script (VBS) files.\nThe activity, beginning in late February 2026, leverages ...",
+      "published": "2026-04-01T19:40:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -366,10 +363,58 @@
       }
     },
     {
-      "title": "Claude Code in Rust, Python, Go, Open source",
-      "link": "https://github.com/SeifBenayed/claude-code-sdk",
-      "summary": "<p>Article URL: <a href=\"https://github.com/SeifBenayed/claude-code-sdk\">https://github.com/SeifBenayed/claude-code-sdk</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47600441\"...",
-      "published": "2026-04-01T13:15:59+00:00",
+      "title": "\"We enabled the availability of iOS 18.7.7 for more devices\"",
+      "link": "https://support.apple.com/en-us/126793",
+      "summary": "<p>Article URL: <a href=\"https://support.apple.com/en-us/126793\">https://support.apple.com/en-us/126793</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47605034\">https://news.yc...",
+      "published": "2026-04-01T19:00:05+00:00",
+      "domain": "support.apple.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Describe a dashboard, get a working app in 3 minutes",
+      "link": "https://bubbling.dev",
+      "summary": "<p>Article URL: <a href=\"https://bubbling.dev\">https://bubbling.dev</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47605019\">https://news.ycombinator.com/item?id=47605019</a></...",
+      "published": "2026-04-01T18:58:52+00:00",
+      "domain": "bubbling.dev",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Iranian president has released an open letter to the American people",
+      "link": "https://www.presstv.ir/Detail/2026/04/01/766191/pezeshkian-letter-American-people",
+      "summary": "<p>Article URL: <a href=\"https://www.presstv.ir/Detail/2026/04/01/766191/pezeshkian-letter-American-people\">https://www.presstv.ir/Detail/2026/04/01/766191/pezeshkian-letter-American-people</a></p>\n<p...",
+      "published": "2026-04-01T18:58:27+00:00",
+      "domain": "presstv.ir",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Graph Based code search that reduces context by 50% in Claude Code",
+      "link": "https://github.com/kunal12203/Codex-CLI-Compact",
+      "summary": "<p>Article URL: <a href=\"https://github.com/kunal12203/Codex-CLI-Compact\">https://github.com/kunal12203/Codex-CLI-Compact</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4760500...",
+      "published": "2026-04-01T18:58:24+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -382,11 +427,11 @@
       }
     },
     {
-      "title": "New Patches Allow Building Linux IPv6-Only, Option to Deprecate \"Legacy\" IPv4",
-      "link": "https://www.phoronix.com/news/Linux-IPv6-IPv4-Legacy-Knobs",
-      "summary": "<p>Article URL: <a href=\"https://www.phoronix.com/news/Linux-IPv6-IPv4-Legacy-Knobs\">https://www.phoronix.com/news/Linux-IPv6-IPv4-Legacy-Knobs</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinat...",
-      "published": "2026-04-01T13:15:33+00:00",
-      "domain": "phoronix.com",
+      "title": "Hegseth attempted to make large investments in defense companies before Iran War",
+      "link": "https://www.disclose.tv/id/vbilcnkvyw/",
+      "summary": "<p>Article URL: <a href=\"https://www.disclose.tv/id/vbilcnkvyw/\">https://www.disclose.tv/id/vbilcnkvyw/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47605000\">https://news.yc...",
+      "published": "2026-04-01T18:58:02+00:00",
+      "domain": "disclose.tv",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -398,42 +443,10 @@
       }
     },
     {
-      "title": "A BASIC interpreter in Swift for Apple's birthday",
-      "link": "https://github.com/jpurnell/ApplesoftBASIC",
-      "summary": "<p>Article URL: <a href=\"https://github.com/jpurnell/ApplesoftBASIC\">https://github.com/jpurnell/ApplesoftBASIC</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47600424\">https:/...",
-      "published": "2026-04-01T13:14:57+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Google Paper Warns of Quantum Computing Risk for Bitcoin",
-      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-03-31-2026/card/google-paper-warns-of-quantum-computing-risk-for-bitcoin-x4yBALvF5ezP4R8mk25q",
-      "summary": "<p>Article URL: <a href=\"https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-03-31-2026/card/google-paper-warns-of-quantum-computing-risk-for-bitcoin-x4yBALvF5ezP4R8mk25q\">https://ww...",
-      "published": "2026-04-01T13:14:22+00:00",
-      "domain": "wsj.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Google Attributes Axios npm Supply Chain Attack to North Korean Group UNC1069",
-      "link": "https://thehackernews.com/2026/04/google-attributes-axios-npm-supply.html",
-      "summary": "Google has formally attributed the supply chain compromise of the popular Axios npm package to a financially motivated North Korean threat activity cluster tracked as UNC1069.\n\"We have attributed the ...",
-      "published": "2026-04-01T13:14:00+05:30",
+      "title": "Block the Prompt, Not the Work: The End of \"Doctor No\"",
+      "link": "https://thehackernews.com/2026/04/block-prompt-not-work-end-of-doctor-no.html",
+      "summary": "There is a character that keeps appearing in enterprise security departments, and most CISOs know exactly who that is. It doesn&rsquo;t build. It doesn&rsquo;t enable. Its entire function is to say \"N...",
+      "published": "2026-04-01T18:16:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -446,11 +459,11 @@
       }
     },
     {
-      "title": "Why AI systems improve while drifting away from reality [pdf]",
-      "link": "https://github.com/therealitydrift/reality-drift-library/blob/main/Reality%20Drift%20Project/07_Operational_Briefs/01_Diagnostics_and_Workflows/reality-constrained-systems-ai-alignment-framework..pdf",
-      "summary": "<p>Article URL: <a href=\"https://github.com/therealitydrift/reality-drift-library/blob/main/Reality%20Drift%20Project/07_Operational_Briefs/01_Diagnostics_and_Workflows/reality-constrained-systems-ai-...",
-      "published": "2026-04-01T13:13:31+00:00",
-      "domain": "github.com",
+      "title": "Casbaneiro Phishing Targets Latin America and Europe Using Dynamic PDF Lures",
+      "link": "https://thehackernews.com/2026/04/casbaneiro-phishing-targets-latin.html",
+      "summary": "A multi-pronged phishing campaign is targeting Spanish-speaking users in organizations across Latin America and Europe to deliver Windows banking trojans like Casbaneiro (aka Metamorfo) via another ma...",
+      "published": "2026-04-01T18:06:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -462,27 +475,11 @@
       }
     },
     {
-      "title": "Show HN: Sycamore \u2013 next gen Rust UI library powered by fine-grained reactivity",
-      "link": "https://sycamore.dev",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47599956\">Comments</a>...",
-      "published": "2026-04-01T12:30:18+00:00",
-      "domain": "sycamore.dev",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "I Quit. The Clankers Won",
-      "link": "https://dbushell.com/2026/04/01/i-quit-the-clankers-won/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47598511\">Comments</a>...",
-      "published": "2026-04-01T09:00:34+00:00",
-      "domain": "dbushell.com",
+      "title": "The AI Marketing BS Index",
+      "link": "https://bastian.rieck.me/blog/2026/bs/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47604218\">Comments</a>...",
+      "published": "2026-04-01T17:55:12+00:00",
+      "domain": "bastian.rieck.me",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -496,158 +493,157 @@
   ],
   "all_articles": [
     {
-      "title": "3 Reasons Attackers Are Using Your Trusted Tools Against You (And Why You Don\u2019t See It Coming)",
-      "link": "https://thehackernews.com/2026/04/3-reasons-attackers-are-using-your.html",
-      "summary": "For years, cybersecurity has followed a familiar model: block malware, stop the attack. Now, attackers are moving on to what\u2019s next.\nThreat actors now use malware less frequently in favor of what\u2019s al...",
-      "published": "2026-04-01T16:28:00+05:30",
+      "title": "CERT-UA Impersonation Campaign Spread AGEWHEEZE Malware to 1 Million Emails",
+      "link": "https://thehackernews.com/2026/04/cert-ua-impersonation-campaign-spread.html",
+      "summary": "The Computer Emergency Response Team of Ukraine (CERT-UA) has disclosed details of a new phishing campaign in which the cybersecurity agency itself was impersonated to distribute a remote administrati...",
+      "published": "2026-04-01T21:40:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
-        "chaos": 3.0,
+        "chaos": 13.2,
         "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Claude Code in Rust, Python, Go, Open source",
-      "link": "https://github.com/SeifBenayed/claude-code-sdk",
-      "summary": "<p>Article URL: <a href=\"https://github.com/SeifBenayed/claude-code-sdk\">https://github.com/SeifBenayed/claude-code-sdk</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47600441\"...",
-      "published": "2026-04-01T13:15:59+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "New Patches Allow Building Linux IPv6-Only, Option to Deprecate \"Legacy\" IPv4",
-      "link": "https://www.phoronix.com/news/Linux-IPv6-IPv4-Legacy-Knobs",
-      "summary": "<p>Article URL: <a href=\"https://www.phoronix.com/news/Linux-IPv6-IPv4-Legacy-Knobs\">https://www.phoronix.com/news/Linux-IPv6-IPv4-Legacy-Knobs</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinat...",
-      "published": "2026-04-01T13:15:33+00:00",
-      "domain": "phoronix.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "A BASIC interpreter in Swift for Apple's birthday",
-      "link": "https://github.com/jpurnell/ApplesoftBASIC",
-      "summary": "<p>Article URL: <a href=\"https://github.com/jpurnell/ApplesoftBASIC\">https://github.com/jpurnell/ApplesoftBASIC</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47600424\">https:/...",
-      "published": "2026-04-01T13:14:57+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Google Paper Warns of Quantum Computing Risk for Bitcoin",
-      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-03-31-2026/card/google-paper-warns-of-quantum-computing-risk-for-bitcoin-x4yBALvF5ezP4R8mk25q",
-      "summary": "<p>Article URL: <a href=\"https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-03-31-2026/card/google-paper-warns-of-quantum-computing-risk-for-bitcoin-x4yBALvF5ezP4R8mk25q\">https://ww...",
-      "published": "2026-04-01T13:14:22+00:00",
-      "domain": "wsj.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Google Attributes Axios npm Supply Chain Attack to North Korean Group UNC1069",
-      "link": "https://thehackernews.com/2026/04/google-attributes-axios-npm-supply.html",
-      "summary": "Google has formally attributed the supply chain compromise of the popular Axios npm package to a financially motivated North Korean threat activity cluster tracked as UNC1069.\n\"We have attributed the ...",
-      "published": "2026-04-01T13:14:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Why AI systems improve while drifting away from reality [pdf]",
-      "link": "https://github.com/therealitydrift/reality-drift-library/blob/main/Reality%20Drift%20Project/07_Operational_Briefs/01_Diagnostics_and_Workflows/reality-constrained-systems-ai-alignment-framework..pdf",
-      "summary": "<p>Article URL: <a href=\"https://github.com/therealitydrift/reality-drift-library/blob/main/Reality%20Drift%20Project/07_Operational_Briefs/01_Diagnostics_and_Workflows/reality-constrained-systems-ai-...",
-      "published": "2026-04-01T13:13:31+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: Sycamore \u2013 next gen Rust UI library powered by fine-grained reactivity",
-      "link": "https://sycamore.dev",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47599956\">Comments</a>...",
-      "published": "2026-04-01T12:30:18+00:00",
-      "domain": "sycamore.dev",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Claude Code Source Leaked via npm Packaging Error, Anthropic Confirms",
-      "link": "https://thehackernews.com/2026/04/claude-code-tleaked-via-npm-packaging.html",
-      "summary": "Anthropic on Tuesday confirmed that internal code for its popular artificial intelligence (AI) coding assistant, Claude Code, had been inadvertently released due to a human error.\n\"No sensitive custom...",
-      "published": "2026-04-01T11:42:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 24.5,
-        "anarchy": 3.0,
-        "overall": 13.8
+        "overall": 8.1
       },
       "keywords": {
         "chaos": [
-          "error",
-          "error"
+          "emergency"
         ],
         "anarchy": []
       }
     },
     {
-      "title": "I Quit. The Clankers Won",
-      "link": "https://dbushell.com/2026/04/01/i-quit-the-clankers-won/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47598511\">Comments</a>...",
-      "published": "2026-04-01T09:00:34+00:00",
-      "domain": "dbushell.com",
+      "title": "Microsoft Warns of WhatsApp-Delivered VBS Malware Hijacking Windows via UAC Bypass",
+      "link": "https://thehackernews.com/2026/04/microsoft-warns-of-whatsapp-delivered.html",
+      "summary": "Microsoft is calling attention to a new campaign that has leveraged WhatsApp messages to distribute malicious Visual Basic Script (VBS) files.\nThe activity, beginning in late February 2026, leverages ...",
+      "published": "2026-04-01T19:40:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "\"We enabled the availability of iOS 18.7.7 for more devices\"",
+      "link": "https://support.apple.com/en-us/126793",
+      "summary": "<p>Article URL: <a href=\"https://support.apple.com/en-us/126793\">https://support.apple.com/en-us/126793</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47605034\">https://news.yc...",
+      "published": "2026-04-01T19:00:05+00:00",
+      "domain": "support.apple.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Describe a dashboard, get a working app in 3 minutes",
+      "link": "https://bubbling.dev",
+      "summary": "<p>Article URL: <a href=\"https://bubbling.dev\">https://bubbling.dev</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47605019\">https://news.ycombinator.com/item?id=47605019</a></...",
+      "published": "2026-04-01T18:58:52+00:00",
+      "domain": "bubbling.dev",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Iranian president has released an open letter to the American people",
+      "link": "https://www.presstv.ir/Detail/2026/04/01/766191/pezeshkian-letter-American-people",
+      "summary": "<p>Article URL: <a href=\"https://www.presstv.ir/Detail/2026/04/01/766191/pezeshkian-letter-American-people\">https://www.presstv.ir/Detail/2026/04/01/766191/pezeshkian-letter-American-people</a></p>\n<p...",
+      "published": "2026-04-01T18:58:27+00:00",
+      "domain": "presstv.ir",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Graph Based code search that reduces context by 50% in Claude Code",
+      "link": "https://github.com/kunal12203/Codex-CLI-Compact",
+      "summary": "<p>Article URL: <a href=\"https://github.com/kunal12203/Codex-CLI-Compact\">https://github.com/kunal12203/Codex-CLI-Compact</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4760500...",
+      "published": "2026-04-01T18:58:24+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Hegseth attempted to make large investments in defense companies before Iran War",
+      "link": "https://www.disclose.tv/id/vbilcnkvyw/",
+      "summary": "<p>Article URL: <a href=\"https://www.disclose.tv/id/vbilcnkvyw/\">https://www.disclose.tv/id/vbilcnkvyw/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47605000\">https://news.yc...",
+      "published": "2026-04-01T18:58:02+00:00",
+      "domain": "disclose.tv",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Block the Prompt, Not the Work: The End of \"Doctor No\"",
+      "link": "https://thehackernews.com/2026/04/block-prompt-not-work-end-of-doctor-no.html",
+      "summary": "There is a character that keeps appearing in enterprise security departments, and most CISOs know exactly who that is. It doesn&rsquo;t build. It doesn&rsquo;t enable. Its entire function is to say \"N...",
+      "published": "2026-04-01T18:16:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Casbaneiro Phishing Targets Latin America and Europe Using Dynamic PDF Lures",
+      "link": "https://thehackernews.com/2026/04/casbaneiro-phishing-targets-latin.html",
+      "summary": "A multi-pronged phishing campaign is targeting Spanish-speaking users in organizations across Latin America and Europe to deliver Windows banking trojans like Casbaneiro (aka Metamorfo) via another ma...",
+      "published": "2026-04-01T18:06:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The AI Marketing BS Index",
+      "link": "https://bastian.rieck.me/blog/2026/bs/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47604218\">Comments</a>...",
+      "published": "2026-04-01T17:55:12+00:00",
+      "domain": "bastian.rieck.me",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,

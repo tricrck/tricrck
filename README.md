@@ -16,17 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Claude Code Source Leaked via npm Packaging Error, Anthropic Confirms
+### CERT-UA Impersonation Campaign Spread AGEWHEEZE Malware to 1 Million Emails
 - **Published**: April 01, 2026
-- **Summary**: Anthropic on Tuesday confirmed that internal code for its popular artificial intelligence (AI) coding assistant, Claude Code, had been inadvertently r...
-- **Keywords**: error, error
-- [Read more](https://thehackernews.com/2026/04/claude-code-tleaked-via-npm-packaging.html)
+- **Summary**: The Computer Emergency Response Team of Ukraine (CERT-UA) has disclosed details of a new phishing campaign in which the cybersecurity agency itself wa...
+- **Keywords**: emergency
+- [Read more](https://thehackernews.com/2026/04/cert-ua-impersonation-campaign-spread.html)
 
-### 3 Reasons Attackers Are Using Your Trusted Tools Against You (And Why You Don’t See It Coming)
+### Microsoft Warns of WhatsApp-Delivered VBS Malware Hijacking Windows via UAC Bypass
 - **Published**: April 01, 2026
-- **Summary**: For years, cybersecurity has followed a familiar model: block malware, stop the attack. Now, attackers are moving on to what’s next.
-Threat actors now...
-- [Read more](https://thehackernews.com/2026/04/3-reasons-attackers-are-using-your.html)
+- **Summary**: Microsoft is calling attention to a new campaign that has leveraged WhatsApp messages to distribute malicious Visual Basic Script (VBS) files.
+The act...
+- [Read more](https://thehackernews.com/2026/04/microsoft-warns-of-whatsapp-delivered.html)
 
 ---
 
