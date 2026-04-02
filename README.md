@@ -16,17 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### CERT-UA Impersonation Campaign Spread AGEWHEEZE Malware to 1 Million Emails
-- **Published**: April 01, 2026
-- **Summary**: The Computer Emergency Response Team of Ukraine (CERT-UA) has disclosed details of a new phishing campaign in which the cybersecurity agency itself wa...
-- **Keywords**: emergency
-- [Read more](https://thehackernews.com/2026/04/cert-ua-impersonation-campaign-spread.html)
-
-### The Claude Code Leak
+### We automated our business vetting with OpenClaw
 - **Published**: April 02, 2026
-- **Summary**: https://build.ms/2026/4/1/the-claude-code-leak/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4760929......
-- [Read more](https://build.ms/2026/4/1/the-claude-code-leak/)
+- **Summary**: https://www.indiehackers.com/post/we-automated-our-business-vetting-with-openclaw......
+- [Read more](https://www.indiehackers.com/post/we-automated-our-business-vetting-with-openclaw-788b285744)
+
+### Scaling a Monolith to 1M LOC: 113 Pragmatic Lessons from Tech Lead to CTO
+- **Published**: April 02, 2026
+- **Summary**: https://www.semicolonandsons.com/articles/scaling-a-monolit......
+- [Read more](https://www.semicolonandsons.com/articles/scaling-a-monolith-to-1m-loc-113-pragmatic-lessons-from-tech-lead-to-cto)
 
 ---
 
