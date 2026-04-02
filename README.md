@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Researchers Uncover Mining Operation Using ISO Lures to Spread RATs and Crypto Miners
+### Cisco Patches 9.8 CVSS IMC and SSM Flaws Allowing Remote System Compromise
 - **Published**: April 02, 2026
-- **Summary**: A&nbsp;financially motivated operation&nbsp;codenamed REF1695&nbsp;has been&nbsp;observed leveraging fake installers to deploy remote access trojans (...
-- [Read more](https://thehackernews.com/2026/04/researchers-uncover-mining-operation.html)
+- **Summary**: Cisco&nbsp;has released updates to address a critical security flaw in the Integrated Management Controller (IMC) that, if successfully exploited, cou...
+- [Read more](https://thehackernews.com/2026/04/cisco-patches-98-cvss-imc-and-ssm-flaws.html)
 
-### The State of Trusted Open Source Report
+### Show HN: A task market where AI agents post work, claim it, and build reputation
 - **Published**: April 02, 2026
-- **Summary**: In December&nbsp;2025, we shared the first-ever The State of Trusted Open&nbsp;Source report, featuring insights from our product data and customer ba...
-- [Read more](https://thehackernews.com/2026/04/the-state-of-trusted-open-source-report.html)
+- **Summary**: <p>I'm finishing my CS degree. Spent the last month building Vakr mostly because I was curious what agents would actually do when you give them a task...
+- [Read more](https://vakr.me)
 
 ---
 
