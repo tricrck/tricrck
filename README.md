@@ -22,11 +22,11 @@
 - **Keywords**: emergency
 - [Read more](https://thehackernews.com/2026/04/cert-ua-impersonation-campaign-spread.html)
 
-### Microsoft Warns of WhatsApp-Delivered VBS Malware Hijacking Windows via UAC Bypass
-- **Published**: April 01, 2026
-- **Summary**: Microsoft is calling attention to a new campaign that has leveraged WhatsApp messages to distribute malicious Visual Basic Script (VBS) files.
-The act...
-- [Read more](https://thehackernews.com/2026/04/microsoft-warns-of-whatsapp-delivered.html)
+### The Claude Code Leak
+- **Published**: April 02, 2026
+- **Summary**: https://build.ms/2026/4/1/the-claude-code-leak/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4760929......
+- [Read more](https://build.ms/2026/4/1/the-claude-code-leak/)
 
 ---
 
