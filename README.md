@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### We automated our business vetting with OpenClaw
+### Researchers Uncover Mining Operation Using ISO Lures to Spread RATs and Crypto Miners
 - **Published**: April 02, 2026
-- **Summary**: https://www.indiehackers.com/post/we-automated-our-business-vetting-with-openclaw......
-- [Read more](https://www.indiehackers.com/post/we-automated-our-business-vetting-with-openclaw-788b285744)
+- **Summary**: A&nbsp;financially motivated operation&nbsp;codenamed REF1695&nbsp;has been&nbsp;observed leveraging fake installers to deploy remote access trojans (...
+- [Read more](https://thehackernews.com/2026/04/researchers-uncover-mining-operation.html)
 
-### Scaling a Monolith to 1M LOC: 113 Pragmatic Lessons from Tech Lead to CTO
+### The State of Trusted Open Source Report
 - **Published**: April 02, 2026
-- **Summary**: https://www.semicolonandsons.com/articles/scaling-a-monolit......
-- [Read more](https://www.semicolonandsons.com/articles/scaling-a-monolith-to-1m-loc-113-pragmatic-lessons-from-tech-lead-to-cto)
+- **Summary**: In December&nbsp;2025, we shared the first-ever The State of Trusted Open&nbsp;Source report, featuring insights from our product data and customer ba...
+- [Read more](https://thehackernews.com/2026/04/the-state-of-trusted-open-source-report.html)
 
 ---
 
