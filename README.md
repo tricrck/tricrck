@@ -22,11 +22,10 @@
 - **Keywords**: down, down
 - [Read more](https://www.reddit.com/r/technology/comments/1saume2/the_feds_say_cutting_fuel_with_ethanol_will_bring/)
 
-### How to Mirror from Sourcehut to GitHub
+### Tech Companies Are Trying to Neuter Colorado's Landmark Right-to-Repair Law
 - **Published**: April 03, 2026
-- **Summary**: https://timharek.no/blog/mirror-sourcehut-to-github/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?......
-- [Read more](https://timharek.no/blog/mirror-sourcehut-to-github/)
+- **Summary**: https://www.wired.com/story/tech-companies-are-trying-to-neuter-colora......
+- [Read more](https://www.wired.com/story/tech-companies-are-trying-to-neuter-colorados-landmark-right-to-repair-law/)
 
 ---
 
