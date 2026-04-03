@@ -16,15 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Cisco Patches 9.8 CVSS IMC and SSM Flaws Allowing Remote System Compromise
+### The Feds Say Cutting Fuel With Ethanol Will Bring Down Gas Prices. We're Not Buying It
 - **Published**: April 02, 2026
-- **Summary**: Cisco&nbsp;has released updates to address a critical security flaw in the Integrated Management Controller (IMC) that, if successfully exploited, cou...
-- [Read more](https://thehackernews.com/2026/04/cisco-patches-98-cvss-imc-and-ssm-flaws.html)
+- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1saume2/the_feds_say_cutting_fuel_with_ethanol_will_bring/"> <img alt="The Feds Say Cutting...
+- **Keywords**: down, down
+- [Read more](https://www.reddit.com/r/technology/comments/1saume2/the_feds_say_cutting_fuel_with_ethanol_will_bring/)
 
-### Show HN: A task market where AI agents post work, claim it, and build reputation
-- **Published**: April 02, 2026
-- **Summary**: <p>I'm finishing my CS degree. Spent the last month building Vakr mostly because I was curious what agents would actually do when you give them a task...
-- [Read more](https://vakr.me)
+### How to Mirror from Sourcehut to GitHub
+- **Published**: April 03, 2026
+- **Summary**: https://timharek.no/blog/mirror-sourcehut-to-github/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?......
+- [Read more](https://timharek.no/blog/mirror-sourcehut-to-github/)
 
 ---
 
