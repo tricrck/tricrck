@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### The Feds Say Cutting Fuel With Ethanol Will Bring Down Gas Prices. We're Not Buying It
-- **Published**: April 02, 2026
-- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1saume2/the_feds_say_cutting_fuel_with_ethanol_will_bring/"> <img alt="The Feds Say Cutting...
-- **Keywords**: down, down
-- [Read more](https://www.reddit.com/r/technology/comments/1saume2/the_feds_say_cutting_fuel_with_ethanol_will_bring/)
-
-### Tech Companies Are Trying to Neuter Colorado's Landmark Right-to-Repair Law
+### UNC1069 Social Engineering of Axios Maintainer Led to npm Supply Chain Attack
 - **Published**: April 03, 2026
-- **Summary**: https://www.wired.com/story/tech-companies-are-trying-to-neuter-colora......
-- [Read more](https://www.wired.com/story/tech-companies-are-trying-to-neuter-colorados-landmark-right-to-repair-law/)
+- **Summary**: The&nbsp;maintainer of the Axios npm package has confirmed that the supply chain compromise was the result of a highly-targeted social engineering cam...
+- [Read more](https://thehackernews.com/2026/04/unc1069-social-engineering-of-axios.html)
+
+### Why Third-Party Risk Is the Biggest Gap in Your Clients' Security Posture
+- **Published**: April 03, 2026
+- **Summary**: The next major&nbsp;breach hitting your clients probably won't come&nbsp;from inside their&nbsp;walls. It'll come through a vendor they trust, a SaaS ...
+- [Read more](https://thehackernews.com/2026/04/why-third-party-risk-is-biggest-gap-in.html)
 
 ---
 
