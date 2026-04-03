@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### UNC1069 Social Engineering of Axios Maintainer Led to npm Supply Chain Attack
+### China-Linked TA416 Targets European Governments with PlugX and OAuth-Based Phishing
 - **Published**: April 03, 2026
-- **Summary**: The&nbsp;maintainer of the Axios npm package has confirmed that the supply chain compromise was the result of a highly-targeted social engineering cam...
-- [Read more](https://thehackernews.com/2026/04/unc1069-social-engineering-of-axios.html)
+- **Summary**: A China-aligned threat actor has set its sights on European government and diplomatic organizations since mid-2025,&nbsp;following a two-year&nbsp;per...
+- [Read more](https://thehackernews.com/2026/04/china-linked-ta416-targets-european.html)
 
-### Why Third-Party Risk Is the Biggest Gap in Your Clients' Security Posture
+### Microsoft Details Cookie-Controlled PHP Web Shells Persisting via Cron on Linux Servers
 - **Published**: April 03, 2026
-- **Summary**: The next major&nbsp;breach hitting your clients probably won't come&nbsp;from inside their&nbsp;walls. It'll come through a vendor they trust, a SaaS ...
-- [Read more](https://thehackernews.com/2026/04/why-third-party-risk-is-biggest-gap-in.html)
+- **Summary**: Threat&nbsp;actors are increasingly using HTTP cookies as a control channel for PHP-based web shells on Linux servers and to achieve remote code execu...
+- [Read more](https://thehackernews.com/2026/04/microsoft-details-cookie-controlled-php.html)
 
 ---
 
