@@ -16,15 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### China-Linked TA416 Targets European Governments with PlugX and OAuth-Based Phishing
-- **Published**: April 03, 2026
-- **Summary**: A China-aligned threat actor has set its sights on European government and diplomatic organizations since mid-2025,&nbsp;following a two-year&nbsp;per...
-- [Read more](https://thehackernews.com/2026/04/china-linked-ta416-targets-european.html)
+### IAMF: Immersive Audio for a New Decade (2025)
+- **Published**: April 04, 2026
+- **Summary**: http://aomedia.org/blog%20posts/IAMF-Immersive-Audio-for-a-New-Decade/</a></p>
+<p>Comments URL: <a href......
+- [Read more](http://aomedia.org/blog%20posts/IAMF-Immersive-Audio-for-a-New-Decade/)
 
-### Microsoft Details Cookie-Controlled PHP Web Shells Persisting via Cron on Linux Servers
-- **Published**: April 03, 2026
-- **Summary**: Threat&nbsp;actors are increasingly using HTTP cookies as a control channel for PHP-based web shells on Linux servers and to achieve remote code execu...
-- [Read more](https://thehackernews.com/2026/04/microsoft-details-cookie-controlled-php.html)
+### Reasoning models encode tool choices before they start reasoning
+- **Published**: April 04, 2026
+- **Summary**: https://arxiv.org/abs/2604.01202</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47634936">https://news.ycombinator.co......
+- [Read more](https://arxiv.org/abs/2604.01202)
 
 ---
 
