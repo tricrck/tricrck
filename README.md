@@ -16,17 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### AI Whiz Kids Dropped Out of College and Got Investors to Pay Their Bills
+### Tag Wrangling Committee
 - **Published**: April 04, 2026
-- **Summary**: https://www.wsj.com/tech/ai/ai-college-dropouts-ecc665b7</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.c......
-- [Read more](https://www.wsj.com/tech/ai/ai-college-dropouts-ecc665b7)
+- **Summary**: https://www.transformativeworks.org/committees/tag-wrangling-committee/</a></p>
+<p>Comments URL: <a hr......
+- [Read more](https://www.transformativeworks.org/committees/tag-wrangling-committee/)
 
-### Blur Blitz – a visual Wordle where AI scores how close your guess is
+### Primate 0.37: Revised modules, database migrations, and typed environment access
 - **Published**: April 04, 2026
-- **Summary**: https://blurblitz.io/play?daily</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47638638">https://news.ycombinator.com/......
-- [Read more](https://blurblitz.io/play?daily)
+- **Summary**: https://primate.run/blog/primate-037</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47641887">https://news.ycombi......
+- [Read more](https://primate.run/blog/primate-037)
 
 ---
 
