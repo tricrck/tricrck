@@ -16,16 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Delve removed from Y Combinator
+### AI Whiz Kids Dropped Out of College and Got Investors to Pay Their Bills
 - **Published**: April 04, 2026
-- **Summary**: ......
-- [Read more](https://www.ycombinator.com/companies/delve)
+- **Summary**: https://www.wsj.com/tech/ai/ai-college-dropouts-ecc665b7</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.c......
+- [Read more](https://www.wsj.com/tech/ai/ai-college-dropouts-ecc665b7)
 
-### ClickHouse Timeline Open-Source: detailed timeline about queries in ClickHouse
+### Blur Blitz – a visual Wordle where AI scores how close your guess is
 - **Published**: April 04, 2026
-- **Summary**: https://github.com/Slach/clickhouse-timeline/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47636580">h......
-- [Read more](https://github.com/Slach/clickhouse-timeline/)
+- **Summary**: https://blurblitz.io/play?daily</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47638638">https://news.ycombinator.com/......
+- [Read more](https://blurblitz.io/play?daily)
 
 ---
 
