@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### IAMF: Immersive Audio for a New Decade (2025)
+### Delve removed from Y Combinator
 - **Published**: April 04, 2026
-- **Summary**: http://aomedia.org/blog%20posts/IAMF-Immersive-Audio-for-a-New-Decade/</a></p>
-<p>Comments URL: <a href......
-- [Read more](http://aomedia.org/blog%20posts/IAMF-Immersive-Audio-for-a-New-Decade/)
+- **Summary**: ......
+- [Read more](https://www.ycombinator.com/companies/delve)
 
-### Reasoning models encode tool choices before they start reasoning
+### ClickHouse Timeline Open-Source: detailed timeline about queries in ClickHouse
 - **Published**: April 04, 2026
-- **Summary**: https://arxiv.org/abs/2604.01202</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47634936">https://news.ycombinator.co......
-- [Read more](https://arxiv.org/abs/2604.01202)
+- **Summary**: https://github.com/Slach/clickhouse-timeline/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47636580">h......
+- [Read more](https://github.com/Slach/clickhouse-timeline/)
 
 ---
 
