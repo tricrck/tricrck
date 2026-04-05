@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Iranian missile blitz takes down AWS data centers in Bahrain and Dubai — Amazon reportedly declares “hard down” status for multiple zones
-- **Published**: April 04, 2026
-- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1scgw7u/iranian_missile_blitz_takes_down_aws_data_centers/"> <img alt="Iranian missile blit...
-- **Keywords**: down, down, down
-- [Read more](https://www.reddit.com/r/technology/comments/1scgw7u/iranian_missile_blitz_takes_down_aws_data_centers/)
-
-### Karpathy's knowledge base matches our Grep-is-All-You-Need paper
+### 36 Malicious npm Packages Exploited Redis, PostgreSQL to Deploy Persistent Implants
 - **Published**: April 05, 2026
-- **Summary**: https://www.localkin.dev/papers/grep-is-all-you-need</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?......
-- [Read more](https://www.localkin.dev/papers/grep-is-all-you-need)
+- **Summary**: Cybersecurity researchers have discovered 36 malicious packages in the npm registry that are disguised as Strapi CMS plugins but come with different p...
+- [Read more](https://thehackernews.com/2026/04/36-malicious-npm-packages-exploited.html)
+
+### Fortinet Patches Actively Exploited CVE-2026-35616 in FortiClient EMS
+- **Published**: April 05, 2026
+- **Summary**: Fortinet has released out-of-band patches for a critical security flaw impacting FortiClient EMS that it said has been exploited in the&nbsp;wild.
+The...
+- [Read more](https://thehackernews.com/2026/04/fortinet-patches-actively-exploited-cve.html)
 
 ---
 
