@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### 36 Malicious npm Packages Exploited Redis, PostgreSQL to Deploy Persistent Implants
+### Perplexity's "Incognito Mode" is a "sham," lawsuit says
 - **Published**: April 05, 2026
-- **Summary**: Cybersecurity researchers have discovered 36 malicious packages in the npm registry that are disguised as Strapi CMS plugins but come with different p...
-- [Read more](https://thehackernews.com/2026/04/36-malicious-npm-packages-exploited.html)
+- **Summary**: https://arstechnica.com/tech-policy/2026/04/perplexitys-incognito-mode-is-a-sha......
+- [Read more](https://arstechnica.com/tech-policy/2026/04/perplexitys-incognito-mode-is-a-sham-lawsuit-says/)
 
-### Fortinet Patches Actively Exploited CVE-2026-35616 in FortiClient EMS
+### Why doesn't HN have a mobile app?
 - **Published**: April 05, 2026
-- **Summary**: Fortinet has released out-of-band patches for a critical security flaw impacting FortiClient EMS that it said has been exploited in the&nbsp;wild.
-The...
-- [Read more](https://thehackernews.com/2026/04/fortinet-patches-actively-exploited-cve.html)
+- **Summary**: <p>I think its much more convenient to access from a mobile app. My reddit usage grew massively when the reddit mobile came upto on par with other thi...
+- [Read more](https://news.ycombinator.com/item?id=47648962)
 
 ---
 
