@@ -16,15 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Perplexity's "Incognito Mode" is a "sham," lawsuit says
+### The AI Is Not Learning from You
 - **Published**: April 05, 2026
-- **Summary**: https://arstechnica.com/tech-policy/2026/04/perplexitys-incognito-mode-is-a-sha......
-- [Read more](https://arstechnica.com/tech-policy/2026/04/perplexitys-incognito-mode-is-a-sham-lawsuit-says/)
+- **Summary**: https://jasonvella.com/posts/aiisnotlearningfromyou/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?......
+- [Read more](https://jasonvella.com/posts/aiisnotlearningfromyou/)
 
-### Why doesn't HN have a mobile app?
+### Fractran: A Simple Universal Programming Language for Arithmetic
 - **Published**: April 05, 2026
-- **Summary**: <p>I think its much more convenient to access from a mobile app. My reddit usage grew massively when the reddit mobile came upto on par with other thi...
-- [Read more](https://news.ycombinator.com/item?id=47648962)
+- **Summary**: https://leetarxiv.substack.com/p/fractran-a-simple-universal-programming</a></p>
+<p>Comments URL: <a ......
+- [Read more](https://leetarxiv.substack.com/p/fractran-a-simple-universal-programming)
 
 ---
 
