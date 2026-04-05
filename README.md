@@ -16,17 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Tag Wrangling Committee
+### Iranian missile blitz takes down AWS data centers in Bahrain and Dubai — Amazon reportedly declares “hard down” status for multiple zones
 - **Published**: April 04, 2026
-- **Summary**: https://www.transformativeworks.org/committees/tag-wrangling-committee/</a></p>
-<p>Comments URL: <a hr......
-- [Read more](https://www.transformativeworks.org/committees/tag-wrangling-committee/)
+- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1scgw7u/iranian_missile_blitz_takes_down_aws_data_centers/"> <img alt="Iranian missile blit...
+- **Keywords**: down, down, down
+- [Read more](https://www.reddit.com/r/technology/comments/1scgw7u/iranian_missile_blitz_takes_down_aws_data_centers/)
 
-### Primate 0.37: Revised modules, database migrations, and typed environment access
-- **Published**: April 04, 2026
-- **Summary**: https://primate.run/blog/primate-037</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47641887">https://news.ycombi......
-- [Read more](https://primate.run/blog/primate-037)
+### Karpathy's knowledge base matches our Grep-is-All-You-Need paper
+- **Published**: April 05, 2026
+- **Summary**: https://www.localkin.dev/papers/grep-is-all-you-need</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?......
+- [Read more](https://www.localkin.dev/papers/grep-is-all-you-need)
 
 ---
 
