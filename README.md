@@ -16,17 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### The AI Is Not Learning from You
-- **Published**: April 05, 2026
-- **Summary**: https://jasonvella.com/posts/aiisnotlearningfromyou/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?......
-- [Read more](https://jasonvella.com/posts/aiisnotlearningfromyou/)
+### Does coding with LLMs mean more microservices?
+- **Published**: April 06, 2026
+- **Summary**: https://ben.page/microservices</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47656335">https://news.ycombinator.com/it......
+- [Read more](https://ben.page/microservices)
 
-### Fractran: A Simple Universal Programming Language for Arithmetic
-- **Published**: April 05, 2026
-- **Summary**: https://leetarxiv.substack.com/p/fractran-a-simple-universal-programming</a></p>
-<p>Comments URL: <a ......
-- [Read more](https://leetarxiv.substack.com/p/fractran-a-simple-universal-programming)
+### Kicking Off the ATP Working Group at the IETF
+- **Published**: April 06, 2026
+- **Summary**: https://atproto.com/blog/kicking-off-the-atp-working-group</a></p>
+<p>Comments URL: <a href="https://news.ycombinat......
+- [Read more](https://atproto.com/blog/kicking-off-the-atp-working-group)
 
 ---
 
