@@ -16,15 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Video from Artemis II flyby of the Moon will not initially look spectacular
+### DPRK-Linked Hackers Use GitHub as C2 in Multi-Stage Attacks Targeting South Korea
 - **Published**: April 06, 2026
-- **Summary**: https://arstechnica.com/space/2026/04/video-from-artemis-ii......
-- [Read more](https://arstechnica.com/space/2026/04/video-from-artemis-ii-flyby-of-the-moon-will-not-initially-look-spectacular/)
+- **Summary**: Threat&nbsp;actors likely associated with the Democratic People's Republic of Korea (DPRK) have been observed using GitHub as command-and-control (C2)...
+- [Read more](https://thehackernews.com/2026/04/dprk-linked-hackers-use-github-as-c2-in.html)
 
-### How LiteLLM Turned Developer Machines Into Credential Vaults for Attackers
+### Agent Reading Test
 - **Published**: April 06, 2026
-- **Summary**: The&nbsp;most active piece of enterprise infrastructure in the company is the developer workstation. That&nbsp;laptop is where credentials are created...
-- [Read more](https://thehackernews.com/2026/04/how-litellm-turned-developer-machines.html)
+- **Summary**: https://agentreadingtest.com</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47665245">https://news.ycombinator.com/item?i......
+- [Read more](https://agentreadingtest.com)
 
 ---
 
