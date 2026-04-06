@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### BKA Identifies REvil Leaders Behind 130 German Ransomware Attacks
+### Video from Artemis II flyby of the Moon will not initially look spectacular
 - **Published**: April 06, 2026
-- **Summary**: Germany's Federal Criminal Police Office (aka BKA or the Bundeskriminalamt) has unmasked the real identity of the main threat actors associated with t...
-- [Read more](https://thehackernews.com/2026/04/bka-identifies-revil-leaders-behind-130.html)
+- **Summary**: https://arstechnica.com/space/2026/04/video-from-artemis-ii......
+- [Read more](https://arstechnica.com/space/2026/04/video-from-artemis-ii-flyby-of-the-moon-will-not-initially-look-spectacular/)
 
-### Show HN: Let's Turn Your Claude into Socrates
+### How LiteLLM Turned Developer Machines Into Credential Vaults for Attackers
 - **Published**: April 06, 2026
-- **Summary**: https://github.com/RoundTable02/socrates-skill</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47657874"......
-- [Read more](https://github.com/RoundTable02/socrates-skill)
+- **Summary**: The&nbsp;most active piece of enterprise infrastructure in the company is the developer workstation. That&nbsp;laptop is where credentials are created...
+- [Read more](https://thehackernews.com/2026/04/how-litellm-turned-developer-machines.html)
 
 ---
 
