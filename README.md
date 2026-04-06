@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Does coding with LLMs mean more microservices?
+### BKA Identifies REvil Leaders Behind 130 German Ransomware Attacks
 - **Published**: April 06, 2026
-- **Summary**: https://ben.page/microservices</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47656335">https://news.ycombinator.com/it......
-- [Read more](https://ben.page/microservices)
+- **Summary**: Germany's Federal Criminal Police Office (aka BKA or the Bundeskriminalamt) has unmasked the real identity of the main threat actors associated with t...
+- [Read more](https://thehackernews.com/2026/04/bka-identifies-revil-leaders-behind-130.html)
 
-### Kicking Off the ATP Working Group at the IETF
+### Show HN: Let's Turn Your Claude into Socrates
 - **Published**: April 06, 2026
-- **Summary**: https://atproto.com/blog/kicking-off-the-atp-working-group</a></p>
-<p>Comments URL: <a href="https://news.ycombinat......
-- [Read more](https://atproto.com/blog/kicking-off-the-atp-working-group)
+- **Summary**: https://github.com/RoundTable02/socrates-skill</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47657874"......
+- [Read more](https://github.com/RoundTable02/socrates-skill)
 
 ---
 
