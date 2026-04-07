@@ -1,10 +1,26 @@
 {
   "chaos_ranked": [
     {
+      "title": "Russian State-Linked APT28 Exploits SOHO Routers in Global DNS Hijacking Campaign",
+      "link": "https://thehackernews.com/2026/04/russian-state-linked-apt28-exploits.html",
+      "summary": "The Russia-linked threat actor known&nbsp;as APT28 (aka Forest Blizzard) has been linked to a new campaign that has compromised insecure MikroTik and TP-Link routers and modified their settings to tur...",
+      "published": "2026-04-07T22:18:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "[Webinar] How to Close Identity Gaps in 2026 Before AI Exploits Enterprise Risk",
       "link": "https://thehackernews.com/2026/04/webinar-how-to-close-identity-gaps-in.html",
       "summary": "In&nbsp;the rapid evolution of&nbsp;the 2026 threat landscape, a frustrating paradox has emerged for CISOs and security&nbsp;leaders: Identity programs are maturing, yet the risk is actually increasin...",
-      "published": "2026-04-07T17:47:00+05:30",
+      "published": "2026-04-07T21:59:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -17,10 +33,10 @@
       }
     },
     {
-      "title": "The Hidden Cost of Recurring Credential Incidents",
-      "link": "https://thehackernews.com/2026/04/the-hidden-cost-of-recurring-credential.html",
-      "summary": "When talking about credential security, the focus usually lands on breach prevention. This&nbsp;makes sense&nbsp;when IBM\u2019s 2025 Cost of a Data Breach&nbsp;Report puts the average cost of a breach at ...",
-      "published": "2026-04-07T17:00:00+05:30",
+      "title": "Docker CVE-2026-34040 Lets Attackers Bypass Authorization and Gain Host Access",
+      "link": "https://thehackernews.com/2026/04/docker-cve-2026-34040-lets-attackers.html",
+      "summary": "A high-severity security vulnerability has been disclosed in Docker Engine that could permit an attacker to bypass authorization plugins&nbsp;(AuthZ) under specific circumstances.\nThe vulnerability, t...",
+      "published": "2026-04-07T20:45:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -33,123 +49,107 @@
       }
     },
     {
-      "title": "New GPUBreach Attack Enables Full CPU Privilege Escalation via GDDR6 Bit-Flips",
-      "link": "https://thehackernews.com/2026/04/new-gpubreach-attack-enables-full-cpu.html",
-      "summary": "New academic research has identified multiple RowHammer attacks against high-performance graphics processing units (GPUs) that could be exploited to escalate privileges and, in some cases, even take f...",
-      "published": "2026-04-07T14:08:00+05:30",
+      "title": "The Seed Beneath the Snow",
+      "link": "https://eli.li/the-seed-beneath-the-snow",
+      "summary": "<p>Article URL: <a href=\"https://eli.li/the-seed-beneath-the-snow\">https://eli.li/the-seed-beneath-the-snow</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47679831\">https://new...",
+      "published": "2026-04-07T19:01:50+00:00",
+      "domain": "eli.li",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Cognition Announces SWE 1.6",
+      "link": "https://cognition.ai/blog/swe-1-6",
+      "summary": "<p>Article URL: <a href=\"https://cognition.ai/blog/swe-1-6\">https://cognition.ai/blog/swe-1-6</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47679799\">https://news.ycombinator....",
+      "published": "2026-04-07T18:59:25+00:00",
+      "domain": "cognition.ai",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Edwin Heathcote: Why the Max Bill Automatic Is the Ultimate Watch",
+      "link": "https://www.ft.com/content/37cc95c7-794a-4d44-aef4-beebc534100f",
+      "summary": "<p>Article URL: <a href=\"https://www.ft.com/content/37cc95c7-794a-4d44-aef4-beebc534100f\">https://www.ft.com/content/37cc95c7-794a-4d44-aef4-beebc534100f</a></p>\n<p>Comments URL: <a href=\"https://news...",
+      "published": "2026-04-07T18:59:05+00:00",
+      "domain": "ft.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Demis Hassabis: Renaissance man. He knows that image is everything",
+      "link": "https://unherd.com/2026/04/demis-hassabis-renaissance-man/",
+      "summary": "<p>Article URL: <a href=\"https://unherd.com/2026/04/demis-hassabis-renaissance-man/\">https://unherd.com/2026/04/demis-hassabis-renaissance-man/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinat...",
+      "published": "2026-04-07T18:58:11+00:00",
+      "domain": "unherd.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Skilled older workers turn to AI training to stay afloat",
+      "link": "https://www.theguardian.com/technology/ng-interactive/2026/apr/07/ai-training-work-jobs",
+      "summary": "<p>Article URL: <a href=\"https://www.theguardian.com/technology/ng-interactive/2026/apr/07/ai-training-work-jobs\">https://www.theguardian.com/technology/ng-interactive/2026/apr/07/ai-training-work-job...",
+      "published": "2026-04-07T18:57:34+00:00",
+      "domain": "theguardian.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "System Card: Claude Mythos Preview [pdf]",
+      "link": "https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47679258\">Comments</a>...",
+      "published": "2026-04-07T18:18:36+00:00",
+      "domain": "www-cdn.anthropic.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Over 1,000 Exposed ComfyUI Instances Targeted in Cryptomining Botnet Campaign",
+      "link": "https://thehackernews.com/2026/04/over-1000-exposed-comfyui-instances.html",
+      "summary": "An active campaign has been observed targeting internet-exposed instances running ComfyUI, a popular stable diffusion platform, to enlist them into a cryptocurrency mining and proxy&nbsp;botnet.\n\"A pu...",
+      "published": "2026-04-07T18:16:00+05:30",
       "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "An AI Robot in My Home",
-      "link": "https://allevato.me/2026/04/07/an-ai-robot-in-my-home",
-      "summary": "<p>Article URL: <a href=\"https://allevato.me/2026/04/07/an-ai-robot-in-my-home\">https://allevato.me/2026/04/07/an-ai-robot-in-my-home</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/ite...",
-      "published": "2026-04-07T13:19:10+00:00",
-      "domain": "allevato.me",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Innovators of 2026: Announcing the SAP Innovation Award Finalists",
-      "link": "https://news.sap.com/2026/04/top-innovators-2026-sap-innovation-award-finalists/",
-      "summary": "<p>Article URL: <a href=\"https://news.sap.com/2026/04/top-innovators-2026-sap-innovation-award-finalists/\">https://news.sap.com/2026/04/top-innovators-2026-sap-innovation-award-finalists/</a></p>\n<p>C...",
-      "published": "2026-04-07T13:19:01+00:00",
-      "domain": "news.sap.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Figma-to-Mobile \u2013 AI agent skill that turns Figma designs into Android/iOS code",
-      "link": "https://clawhub.ai/timeaground/figma-to-mobile",
-      "summary": "<p>Article URL: <a href=\"https://clawhub.ai/timeaground/figma-to-mobile\">https://clawhub.ai/timeaground/figma-to-mobile</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47674940\"...",
-      "published": "2026-04-07T13:18:33+00:00",
-      "domain": "clawhub.ai",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The Miller Principle",
-      "link": "https://puredanger.github.io/tech.puredanger.com/2007/07/11/miller-principle/",
-      "summary": "<p>Article URL: <a href=\"https://puredanger.github.io/tech.puredanger.com/2007/07/11/miller-principle/\">https://puredanger.github.io/tech.puredanger.com/2007/07/11/miller-principle/</a></p>\n<p>Comment...",
-      "published": "2026-04-07T13:16:36+00:00",
-      "domain": "puredanger.github.io",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "How to Support Notebooks in a Language Server",
-      "link": "https://pyrefly.org/blog/notebook/",
-      "summary": "<p>Article URL: <a href=\"https://pyrefly.org/blog/notebook/\">https://pyrefly.org/blog/notebook/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47674902\">https://news.ycombinato...",
-      "published": "2026-04-07T13:16:00+00:00",
-      "domain": "pyrefly.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "NIH Scientists Discover Powerful New Opioid That Relieves Pain Without Dangerous Side Effects",
-      "link": "https://www.reddit.com/r/technology/comments/1seun32/nih_scientists_discover_powerful_new_opioid_that/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1seun32/nih_scientists_discover_powerful_new_opioid_that/\"> <img alt=\"NIH Scientists Discover Powerful New Opioid That Relieves P...",
-      "published": "2026-04-07T12:32:25+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: A cartographer's attempt to realistically map Tolkien's world",
-      "link": "https://www.intofarlands.com/atlasofarda",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47674027\">Comments</a>...",
-      "published": "2026-04-07T12:12:15+00:00",
-      "domain": "intofarlands.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -163,10 +163,26 @@
   ],
   "anarchy_ranked": [
     {
+      "title": "Russian State-Linked APT28 Exploits SOHO Routers in Global DNS Hijacking Campaign",
+      "link": "https://thehackernews.com/2026/04/russian-state-linked-apt28-exploits.html",
+      "summary": "The Russia-linked threat actor known&nbsp;as APT28 (aka Forest Blizzard) has been linked to a new campaign that has compromised insecure MikroTik and TP-Link routers and modified their settings to tur...",
+      "published": "2026-04-07T22:18:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "[Webinar] How to Close Identity Gaps in 2026 Before AI Exploits Enterprise Risk",
       "link": "https://thehackernews.com/2026/04/webinar-how-to-close-identity-gaps-in.html",
       "summary": "In&nbsp;the rapid evolution of&nbsp;the 2026 threat landscape, a frustrating paradox has emerged for CISOs and security&nbsp;leaders: Identity programs are maturing, yet the risk is actually increasin...",
-      "published": "2026-04-07T17:47:00+05:30",
+      "published": "2026-04-07T21:59:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -179,10 +195,10 @@
       }
     },
     {
-      "title": "The Hidden Cost of Recurring Credential Incidents",
-      "link": "https://thehackernews.com/2026/04/the-hidden-cost-of-recurring-credential.html",
-      "summary": "When talking about credential security, the focus usually lands on breach prevention. This&nbsp;makes sense&nbsp;when IBM\u2019s 2025 Cost of a Data Breach&nbsp;Report puts the average cost of a breach at ...",
-      "published": "2026-04-07T17:00:00+05:30",
+      "title": "Docker CVE-2026-34040 Lets Attackers Bypass Authorization and Gain Host Access",
+      "link": "https://thehackernews.com/2026/04/docker-cve-2026-34040-lets-attackers.html",
+      "summary": "A high-severity security vulnerability has been disclosed in Docker Engine that could permit an attacker to bypass authorization plugins&nbsp;(AuthZ) under specific circumstances.\nThe vulnerability, t...",
+      "published": "2026-04-07T20:45:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -195,123 +211,107 @@
       }
     },
     {
-      "title": "New GPUBreach Attack Enables Full CPU Privilege Escalation via GDDR6 Bit-Flips",
-      "link": "https://thehackernews.com/2026/04/new-gpubreach-attack-enables-full-cpu.html",
-      "summary": "New academic research has identified multiple RowHammer attacks against high-performance graphics processing units (GPUs) that could be exploited to escalate privileges and, in some cases, even take f...",
-      "published": "2026-04-07T14:08:00+05:30",
+      "title": "The Seed Beneath the Snow",
+      "link": "https://eli.li/the-seed-beneath-the-snow",
+      "summary": "<p>Article URL: <a href=\"https://eli.li/the-seed-beneath-the-snow\">https://eli.li/the-seed-beneath-the-snow</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47679831\">https://new...",
+      "published": "2026-04-07T19:01:50+00:00",
+      "domain": "eli.li",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Cognition Announces SWE 1.6",
+      "link": "https://cognition.ai/blog/swe-1-6",
+      "summary": "<p>Article URL: <a href=\"https://cognition.ai/blog/swe-1-6\">https://cognition.ai/blog/swe-1-6</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47679799\">https://news.ycombinator....",
+      "published": "2026-04-07T18:59:25+00:00",
+      "domain": "cognition.ai",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Edwin Heathcote: Why the Max Bill Automatic Is the Ultimate Watch",
+      "link": "https://www.ft.com/content/37cc95c7-794a-4d44-aef4-beebc534100f",
+      "summary": "<p>Article URL: <a href=\"https://www.ft.com/content/37cc95c7-794a-4d44-aef4-beebc534100f\">https://www.ft.com/content/37cc95c7-794a-4d44-aef4-beebc534100f</a></p>\n<p>Comments URL: <a href=\"https://news...",
+      "published": "2026-04-07T18:59:05+00:00",
+      "domain": "ft.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Demis Hassabis: Renaissance man. He knows that image is everything",
+      "link": "https://unherd.com/2026/04/demis-hassabis-renaissance-man/",
+      "summary": "<p>Article URL: <a href=\"https://unherd.com/2026/04/demis-hassabis-renaissance-man/\">https://unherd.com/2026/04/demis-hassabis-renaissance-man/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinat...",
+      "published": "2026-04-07T18:58:11+00:00",
+      "domain": "unherd.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Skilled older workers turn to AI training to stay afloat",
+      "link": "https://www.theguardian.com/technology/ng-interactive/2026/apr/07/ai-training-work-jobs",
+      "summary": "<p>Article URL: <a href=\"https://www.theguardian.com/technology/ng-interactive/2026/apr/07/ai-training-work-jobs\">https://www.theguardian.com/technology/ng-interactive/2026/apr/07/ai-training-work-job...",
+      "published": "2026-04-07T18:57:34+00:00",
+      "domain": "theguardian.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "System Card: Claude Mythos Preview [pdf]",
+      "link": "https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47679258\">Comments</a>...",
+      "published": "2026-04-07T18:18:36+00:00",
+      "domain": "www-cdn.anthropic.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Over 1,000 Exposed ComfyUI Instances Targeted in Cryptomining Botnet Campaign",
+      "link": "https://thehackernews.com/2026/04/over-1000-exposed-comfyui-instances.html",
+      "summary": "An active campaign has been observed targeting internet-exposed instances running ComfyUI, a popular stable diffusion platform, to enlist them into a cryptocurrency mining and proxy&nbsp;botnet.\n\"A pu...",
+      "published": "2026-04-07T18:16:00+05:30",
       "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "An AI Robot in My Home",
-      "link": "https://allevato.me/2026/04/07/an-ai-robot-in-my-home",
-      "summary": "<p>Article URL: <a href=\"https://allevato.me/2026/04/07/an-ai-robot-in-my-home\">https://allevato.me/2026/04/07/an-ai-robot-in-my-home</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/ite...",
-      "published": "2026-04-07T13:19:10+00:00",
-      "domain": "allevato.me",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Innovators of 2026: Announcing the SAP Innovation Award Finalists",
-      "link": "https://news.sap.com/2026/04/top-innovators-2026-sap-innovation-award-finalists/",
-      "summary": "<p>Article URL: <a href=\"https://news.sap.com/2026/04/top-innovators-2026-sap-innovation-award-finalists/\">https://news.sap.com/2026/04/top-innovators-2026-sap-innovation-award-finalists/</a></p>\n<p>C...",
-      "published": "2026-04-07T13:19:01+00:00",
-      "domain": "news.sap.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Figma-to-Mobile \u2013 AI agent skill that turns Figma designs into Android/iOS code",
-      "link": "https://clawhub.ai/timeaground/figma-to-mobile",
-      "summary": "<p>Article URL: <a href=\"https://clawhub.ai/timeaground/figma-to-mobile\">https://clawhub.ai/timeaground/figma-to-mobile</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47674940\"...",
-      "published": "2026-04-07T13:18:33+00:00",
-      "domain": "clawhub.ai",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The Miller Principle",
-      "link": "https://puredanger.github.io/tech.puredanger.com/2007/07/11/miller-principle/",
-      "summary": "<p>Article URL: <a href=\"https://puredanger.github.io/tech.puredanger.com/2007/07/11/miller-principle/\">https://puredanger.github.io/tech.puredanger.com/2007/07/11/miller-principle/</a></p>\n<p>Comment...",
-      "published": "2026-04-07T13:16:36+00:00",
-      "domain": "puredanger.github.io",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "How to Support Notebooks in a Language Server",
-      "link": "https://pyrefly.org/blog/notebook/",
-      "summary": "<p>Article URL: <a href=\"https://pyrefly.org/blog/notebook/\">https://pyrefly.org/blog/notebook/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47674902\">https://news.ycombinato...",
-      "published": "2026-04-07T13:16:00+00:00",
-      "domain": "pyrefly.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "NIH Scientists Discover Powerful New Opioid That Relieves Pain Without Dangerous Side Effects",
-      "link": "https://www.reddit.com/r/technology/comments/1seun32/nih_scientists_discover_powerful_new_opioid_that/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1seun32/nih_scientists_discover_powerful_new_opioid_that/\"> <img alt=\"NIH Scientists Discover Powerful New Opioid That Relieves P...",
-      "published": "2026-04-07T12:32:25+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: A cartographer's attempt to realistically map Tolkien's world",
-      "link": "https://www.intofarlands.com/atlasofarda",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47674027\">Comments</a>...",
-      "published": "2026-04-07T12:12:15+00:00",
-      "domain": "intofarlands.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -325,10 +325,26 @@
   ],
   "overall_ranked": [
     {
+      "title": "Russian State-Linked APT28 Exploits SOHO Routers in Global DNS Hijacking Campaign",
+      "link": "https://thehackernews.com/2026/04/russian-state-linked-apt28-exploits.html",
+      "summary": "The Russia-linked threat actor known&nbsp;as APT28 (aka Forest Blizzard) has been linked to a new campaign that has compromised insecure MikroTik and TP-Link routers and modified their settings to tur...",
+      "published": "2026-04-07T22:18:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "[Webinar] How to Close Identity Gaps in 2026 Before AI Exploits Enterprise Risk",
       "link": "https://thehackernews.com/2026/04/webinar-how-to-close-identity-gaps-in.html",
       "summary": "In&nbsp;the rapid evolution of&nbsp;the 2026 threat landscape, a frustrating paradox has emerged for CISOs and security&nbsp;leaders: Identity programs are maturing, yet the risk is actually increasin...",
-      "published": "2026-04-07T17:47:00+05:30",
+      "published": "2026-04-07T21:59:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -341,10 +357,10 @@
       }
     },
     {
-      "title": "The Hidden Cost of Recurring Credential Incidents",
-      "link": "https://thehackernews.com/2026/04/the-hidden-cost-of-recurring-credential.html",
-      "summary": "When talking about credential security, the focus usually lands on breach prevention. This&nbsp;makes sense&nbsp;when IBM\u2019s 2025 Cost of a Data Breach&nbsp;Report puts the average cost of a breach at ...",
-      "published": "2026-04-07T17:00:00+05:30",
+      "title": "Docker CVE-2026-34040 Lets Attackers Bypass Authorization and Gain Host Access",
+      "link": "https://thehackernews.com/2026/04/docker-cve-2026-34040-lets-attackers.html",
+      "summary": "A high-severity security vulnerability has been disclosed in Docker Engine that could permit an attacker to bypass authorization plugins&nbsp;(AuthZ) under specific circumstances.\nThe vulnerability, t...",
+      "published": "2026-04-07T20:45:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -357,123 +373,107 @@
       }
     },
     {
-      "title": "New GPUBreach Attack Enables Full CPU Privilege Escalation via GDDR6 Bit-Flips",
-      "link": "https://thehackernews.com/2026/04/new-gpubreach-attack-enables-full-cpu.html",
-      "summary": "New academic research has identified multiple RowHammer attacks against high-performance graphics processing units (GPUs) that could be exploited to escalate privileges and, in some cases, even take f...",
-      "published": "2026-04-07T14:08:00+05:30",
+      "title": "The Seed Beneath the Snow",
+      "link": "https://eli.li/the-seed-beneath-the-snow",
+      "summary": "<p>Article URL: <a href=\"https://eli.li/the-seed-beneath-the-snow\">https://eli.li/the-seed-beneath-the-snow</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47679831\">https://new...",
+      "published": "2026-04-07T19:01:50+00:00",
+      "domain": "eli.li",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Cognition Announces SWE 1.6",
+      "link": "https://cognition.ai/blog/swe-1-6",
+      "summary": "<p>Article URL: <a href=\"https://cognition.ai/blog/swe-1-6\">https://cognition.ai/blog/swe-1-6</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47679799\">https://news.ycombinator....",
+      "published": "2026-04-07T18:59:25+00:00",
+      "domain": "cognition.ai",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Edwin Heathcote: Why the Max Bill Automatic Is the Ultimate Watch",
+      "link": "https://www.ft.com/content/37cc95c7-794a-4d44-aef4-beebc534100f",
+      "summary": "<p>Article URL: <a href=\"https://www.ft.com/content/37cc95c7-794a-4d44-aef4-beebc534100f\">https://www.ft.com/content/37cc95c7-794a-4d44-aef4-beebc534100f</a></p>\n<p>Comments URL: <a href=\"https://news...",
+      "published": "2026-04-07T18:59:05+00:00",
+      "domain": "ft.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Demis Hassabis: Renaissance man. He knows that image is everything",
+      "link": "https://unherd.com/2026/04/demis-hassabis-renaissance-man/",
+      "summary": "<p>Article URL: <a href=\"https://unherd.com/2026/04/demis-hassabis-renaissance-man/\">https://unherd.com/2026/04/demis-hassabis-renaissance-man/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinat...",
+      "published": "2026-04-07T18:58:11+00:00",
+      "domain": "unherd.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Skilled older workers turn to AI training to stay afloat",
+      "link": "https://www.theguardian.com/technology/ng-interactive/2026/apr/07/ai-training-work-jobs",
+      "summary": "<p>Article URL: <a href=\"https://www.theguardian.com/technology/ng-interactive/2026/apr/07/ai-training-work-jobs\">https://www.theguardian.com/technology/ng-interactive/2026/apr/07/ai-training-work-job...",
+      "published": "2026-04-07T18:57:34+00:00",
+      "domain": "theguardian.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "System Card: Claude Mythos Preview [pdf]",
+      "link": "https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47679258\">Comments</a>...",
+      "published": "2026-04-07T18:18:36+00:00",
+      "domain": "www-cdn.anthropic.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Over 1,000 Exposed ComfyUI Instances Targeted in Cryptomining Botnet Campaign",
+      "link": "https://thehackernews.com/2026/04/over-1000-exposed-comfyui-instances.html",
+      "summary": "An active campaign has been observed targeting internet-exposed instances running ComfyUI, a popular stable diffusion platform, to enlist them into a cryptocurrency mining and proxy&nbsp;botnet.\n\"A pu...",
+      "published": "2026-04-07T18:16:00+05:30",
       "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "An AI Robot in My Home",
-      "link": "https://allevato.me/2026/04/07/an-ai-robot-in-my-home",
-      "summary": "<p>Article URL: <a href=\"https://allevato.me/2026/04/07/an-ai-robot-in-my-home\">https://allevato.me/2026/04/07/an-ai-robot-in-my-home</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/ite...",
-      "published": "2026-04-07T13:19:10+00:00",
-      "domain": "allevato.me",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Innovators of 2026: Announcing the SAP Innovation Award Finalists",
-      "link": "https://news.sap.com/2026/04/top-innovators-2026-sap-innovation-award-finalists/",
-      "summary": "<p>Article URL: <a href=\"https://news.sap.com/2026/04/top-innovators-2026-sap-innovation-award-finalists/\">https://news.sap.com/2026/04/top-innovators-2026-sap-innovation-award-finalists/</a></p>\n<p>C...",
-      "published": "2026-04-07T13:19:01+00:00",
-      "domain": "news.sap.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Figma-to-Mobile \u2013 AI agent skill that turns Figma designs into Android/iOS code",
-      "link": "https://clawhub.ai/timeaground/figma-to-mobile",
-      "summary": "<p>Article URL: <a href=\"https://clawhub.ai/timeaground/figma-to-mobile\">https://clawhub.ai/timeaground/figma-to-mobile</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47674940\"...",
-      "published": "2026-04-07T13:18:33+00:00",
-      "domain": "clawhub.ai",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The Miller Principle",
-      "link": "https://puredanger.github.io/tech.puredanger.com/2007/07/11/miller-principle/",
-      "summary": "<p>Article URL: <a href=\"https://puredanger.github.io/tech.puredanger.com/2007/07/11/miller-principle/\">https://puredanger.github.io/tech.puredanger.com/2007/07/11/miller-principle/</a></p>\n<p>Comment...",
-      "published": "2026-04-07T13:16:36+00:00",
-      "domain": "puredanger.github.io",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "How to Support Notebooks in a Language Server",
-      "link": "https://pyrefly.org/blog/notebook/",
-      "summary": "<p>Article URL: <a href=\"https://pyrefly.org/blog/notebook/\">https://pyrefly.org/blog/notebook/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47674902\">https://news.ycombinato...",
-      "published": "2026-04-07T13:16:00+00:00",
-      "domain": "pyrefly.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "NIH Scientists Discover Powerful New Opioid That Relieves Pain Without Dangerous Side Effects",
-      "link": "https://www.reddit.com/r/technology/comments/1seun32/nih_scientists_discover_powerful_new_opioid_that/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1seun32/nih_scientists_discover_powerful_new_opioid_that/\"> <img alt=\"NIH Scientists Discover Powerful New Opioid That Relieves P...",
-      "published": "2026-04-07T12:32:25+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: A cartographer's attempt to realistically map Tolkien's world",
-      "link": "https://www.intofarlands.com/atlasofarda",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47674027\">Comments</a>...",
-      "published": "2026-04-07T12:12:15+00:00",
-      "domain": "intofarlands.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -487,10 +487,26 @@
   ],
   "all_articles": [
     {
+      "title": "Russian State-Linked APT28 Exploits SOHO Routers in Global DNS Hijacking Campaign",
+      "link": "https://thehackernews.com/2026/04/russian-state-linked-apt28-exploits.html",
+      "summary": "The Russia-linked threat actor known&nbsp;as APT28 (aka Forest Blizzard) has been linked to a new campaign that has compromised insecure MikroTik and TP-Link routers and modified their settings to tur...",
+      "published": "2026-04-07T22:18:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "[Webinar] How to Close Identity Gaps in 2026 Before AI Exploits Enterprise Risk",
       "link": "https://thehackernews.com/2026/04/webinar-how-to-close-identity-gaps-in.html",
       "summary": "In&nbsp;the rapid evolution of&nbsp;the 2026 threat landscape, a frustrating paradox has emerged for CISOs and security&nbsp;leaders: Identity programs are maturing, yet the risk is actually increasin...",
-      "published": "2026-04-07T17:47:00+05:30",
+      "published": "2026-04-07T21:59:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -503,10 +519,10 @@
       }
     },
     {
-      "title": "The Hidden Cost of Recurring Credential Incidents",
-      "link": "https://thehackernews.com/2026/04/the-hidden-cost-of-recurring-credential.html",
-      "summary": "When talking about credential security, the focus usually lands on breach prevention. This&nbsp;makes sense&nbsp;when IBM\u2019s 2025 Cost of a Data Breach&nbsp;Report puts the average cost of a breach at ...",
-      "published": "2026-04-07T17:00:00+05:30",
+      "title": "Docker CVE-2026-34040 Lets Attackers Bypass Authorization and Gain Host Access",
+      "link": "https://thehackernews.com/2026/04/docker-cve-2026-34040-lets-attackers.html",
+      "summary": "A high-severity security vulnerability has been disclosed in Docker Engine that could permit an attacker to bypass authorization plugins&nbsp;(AuthZ) under specific circumstances.\nThe vulnerability, t...",
+      "published": "2026-04-07T20:45:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -519,123 +535,107 @@
       }
     },
     {
-      "title": "New GPUBreach Attack Enables Full CPU Privilege Escalation via GDDR6 Bit-Flips",
-      "link": "https://thehackernews.com/2026/04/new-gpubreach-attack-enables-full-cpu.html",
-      "summary": "New academic research has identified multiple RowHammer attacks against high-performance graphics processing units (GPUs) that could be exploited to escalate privileges and, in some cases, even take f...",
-      "published": "2026-04-07T14:08:00+05:30",
+      "title": "The Seed Beneath the Snow",
+      "link": "https://eli.li/the-seed-beneath-the-snow",
+      "summary": "<p>Article URL: <a href=\"https://eli.li/the-seed-beneath-the-snow\">https://eli.li/the-seed-beneath-the-snow</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47679831\">https://new...",
+      "published": "2026-04-07T19:01:50+00:00",
+      "domain": "eli.li",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Cognition Announces SWE 1.6",
+      "link": "https://cognition.ai/blog/swe-1-6",
+      "summary": "<p>Article URL: <a href=\"https://cognition.ai/blog/swe-1-6\">https://cognition.ai/blog/swe-1-6</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47679799\">https://news.ycombinator....",
+      "published": "2026-04-07T18:59:25+00:00",
+      "domain": "cognition.ai",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Edwin Heathcote: Why the Max Bill Automatic Is the Ultimate Watch",
+      "link": "https://www.ft.com/content/37cc95c7-794a-4d44-aef4-beebc534100f",
+      "summary": "<p>Article URL: <a href=\"https://www.ft.com/content/37cc95c7-794a-4d44-aef4-beebc534100f\">https://www.ft.com/content/37cc95c7-794a-4d44-aef4-beebc534100f</a></p>\n<p>Comments URL: <a href=\"https://news...",
+      "published": "2026-04-07T18:59:05+00:00",
+      "domain": "ft.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Demis Hassabis: Renaissance man. He knows that image is everything",
+      "link": "https://unherd.com/2026/04/demis-hassabis-renaissance-man/",
+      "summary": "<p>Article URL: <a href=\"https://unherd.com/2026/04/demis-hassabis-renaissance-man/\">https://unherd.com/2026/04/demis-hassabis-renaissance-man/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinat...",
+      "published": "2026-04-07T18:58:11+00:00",
+      "domain": "unherd.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Skilled older workers turn to AI training to stay afloat",
+      "link": "https://www.theguardian.com/technology/ng-interactive/2026/apr/07/ai-training-work-jobs",
+      "summary": "<p>Article URL: <a href=\"https://www.theguardian.com/technology/ng-interactive/2026/apr/07/ai-training-work-jobs\">https://www.theguardian.com/technology/ng-interactive/2026/apr/07/ai-training-work-job...",
+      "published": "2026-04-07T18:57:34+00:00",
+      "domain": "theguardian.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "System Card: Claude Mythos Preview [pdf]",
+      "link": "https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47679258\">Comments</a>...",
+      "published": "2026-04-07T18:18:36+00:00",
+      "domain": "www-cdn.anthropic.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Over 1,000 Exposed ComfyUI Instances Targeted in Cryptomining Botnet Campaign",
+      "link": "https://thehackernews.com/2026/04/over-1000-exposed-comfyui-instances.html",
+      "summary": "An active campaign has been observed targeting internet-exposed instances running ComfyUI, a popular stable diffusion platform, to enlist them into a cryptocurrency mining and proxy&nbsp;botnet.\n\"A pu...",
+      "published": "2026-04-07T18:16:00+05:30",
       "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "An AI Robot in My Home",
-      "link": "https://allevato.me/2026/04/07/an-ai-robot-in-my-home",
-      "summary": "<p>Article URL: <a href=\"https://allevato.me/2026/04/07/an-ai-robot-in-my-home\">https://allevato.me/2026/04/07/an-ai-robot-in-my-home</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/ite...",
-      "published": "2026-04-07T13:19:10+00:00",
-      "domain": "allevato.me",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Innovators of 2026: Announcing the SAP Innovation Award Finalists",
-      "link": "https://news.sap.com/2026/04/top-innovators-2026-sap-innovation-award-finalists/",
-      "summary": "<p>Article URL: <a href=\"https://news.sap.com/2026/04/top-innovators-2026-sap-innovation-award-finalists/\">https://news.sap.com/2026/04/top-innovators-2026-sap-innovation-award-finalists/</a></p>\n<p>C...",
-      "published": "2026-04-07T13:19:01+00:00",
-      "domain": "news.sap.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Figma-to-Mobile \u2013 AI agent skill that turns Figma designs into Android/iOS code",
-      "link": "https://clawhub.ai/timeaground/figma-to-mobile",
-      "summary": "<p>Article URL: <a href=\"https://clawhub.ai/timeaground/figma-to-mobile\">https://clawhub.ai/timeaground/figma-to-mobile</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47674940\"...",
-      "published": "2026-04-07T13:18:33+00:00",
-      "domain": "clawhub.ai",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The Miller Principle",
-      "link": "https://puredanger.github.io/tech.puredanger.com/2007/07/11/miller-principle/",
-      "summary": "<p>Article URL: <a href=\"https://puredanger.github.io/tech.puredanger.com/2007/07/11/miller-principle/\">https://puredanger.github.io/tech.puredanger.com/2007/07/11/miller-principle/</a></p>\n<p>Comment...",
-      "published": "2026-04-07T13:16:36+00:00",
-      "domain": "puredanger.github.io",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "How to Support Notebooks in a Language Server",
-      "link": "https://pyrefly.org/blog/notebook/",
-      "summary": "<p>Article URL: <a href=\"https://pyrefly.org/blog/notebook/\">https://pyrefly.org/blog/notebook/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47674902\">https://news.ycombinato...",
-      "published": "2026-04-07T13:16:00+00:00",
-      "domain": "pyrefly.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "NIH Scientists Discover Powerful New Opioid That Relieves Pain Without Dangerous Side Effects",
-      "link": "https://www.reddit.com/r/technology/comments/1seun32/nih_scientists_discover_powerful_new_opioid_that/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1seun32/nih_scientists_discover_powerful_new_opioid_that/\"> <img alt=\"NIH Scientists Discover Powerful New Opioid That Relieves P...",
-      "published": "2026-04-07T12:32:25+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: A cartographer's attempt to realistically map Tolkien's world",
-      "link": "https://www.intofarlands.com/atlasofarda",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47674027\">Comments</a>...",
-      "published": "2026-04-07T12:12:15+00:00",
-      "domain": "intofarlands.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
