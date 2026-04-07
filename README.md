@@ -22,11 +22,10 @@
 - **Keywords**: down, down
 - [Read more](https://www.reddit.com/r/technology/comments/1seddcl/nvidias_dlss_5_trailer_has_been_taken_down_due_to/)
 
-### Gave my Claude a subconscious memory system
+### Flowise AI Agent Builder Under Active CVSS 10.0 RCE Exploitation; 12,000+ Instances Exposed
 - **Published**: April 07, 2026
-- **Summary**: https://github.com/justnau1020/claude-os</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47670002">https://new......
-- [Read more](https://github.com/justnau1020/claude-os)
+- **Summary**: Threat actors are exploiting a maximum-severity security flaw in Flowise, an open-source artificial intelligence (AI) platform, according to new findi...
+- [Read more](https://thehackernews.com/2026/04/flowise-ai-agent-builder-under-active.html)
 
 ---
 
