@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### NVIDIA's DLSS 5 trailer has been taken down due to 'copyright' infringement | NVIDIA's DLSS 5 announcement trailer is currently offline on YouTube due to a copyright infringement claim from an unlikely source
-- **Published**: April 06, 2026
-- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1seddcl/nvidias_dlss_5_trailer_has_been_taken_down_due_to/"> <img alt="NVIDIA's DLSS 5 trai...
-- **Keywords**: down, down
-- [Read more](https://www.reddit.com/r/technology/comments/1seddcl/nvidias_dlss_5_trailer_has_been_taken_down_due_to/)
-
-### Flowise AI Agent Builder Under Active CVSS 10.0 RCE Exploitation; 12,000+ Instances Exposed
+### [Webinar] How to Close Identity Gaps in 2026 Before AI Exploits Enterprise Risk
 - **Published**: April 07, 2026
-- **Summary**: Threat actors are exploiting a maximum-severity security flaw in Flowise, an open-source artificial intelligence (AI) platform, according to new findi...
-- [Read more](https://thehackernews.com/2026/04/flowise-ai-agent-builder-under-active.html)
+- **Summary**: In&nbsp;the rapid evolution of&nbsp;the 2026 threat landscape, a frustrating paradox has emerged for CISOs and security&nbsp;leaders: Identity program...
+- [Read more](https://thehackernews.com/2026/04/webinar-how-to-close-identity-gaps-in.html)
+
+### The Hidden Cost of Recurring Credential Incidents
+- **Published**: April 07, 2026
+- **Summary**: When talking about credential security, the focus usually lands on breach prevention. This&nbsp;makes sense&nbsp;when IBM’s 2025 Cost of a Data Breach...
+- [Read more](https://thehackernews.com/2026/04/the-hidden-cost-of-recurring-credential.html)
 
 ---
 
