@@ -16,16 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Shrinking the IAM Attack Surface through Identity Visibility and Intelligence Platforms (IVIP)
+### New Chaos Variant Targets Misconfigured Cloud Deployments, Adds SOCKS Proxy
 - **Published**: April 08, 2026
-- **Summary**: The Fragmented State of Modern Enterprise&nbsp;Identity
-Enterprise IAM is approaching a breaking point. As&nbsp;organizations scale, identity becomes ...
-- [Read more](https://thehackernews.com/2026/04/shrinking-iam-attack-surface-through.html)
+- **Summary**: Cybersecurity researchers have flagged a new variant&nbsp;ofmalware&nbsp;called Chaosthat'scapable of&nbsp;hitting misconfigured cloud deployments, ma...
+- **Keywords**: chaos
+- [Read more](https://thehackernews.com/2026/04/new-chaos-variant-targets-misconfigured.html)
 
-### Anthropic's Claude Mythos Finds Thousands of Zero-Day Flaws Across Major Systems
+### Masjesu Botnet Emerges as DDoS-for-Hire Service Targeting Global IoT Devices
 - **Published**: April 08, 2026
-- **Summary**: Artificial Intelligence (AI) company Anthropic announced a new cybersecurity initiative&nbsp;called Project&nbsp;Glasswing&nbsp;that&nbsp;will use a p...
-- [Read more](https://thehackernews.com/2026/04/anthropics-claude-mythos-finds.html)
+- **Summary**: Cybersecurity researchers have lifted the curtain on a stealthy botnet that's designed for distributed denial-of-service (DDoS)&nbsp;attacks.
+Called M...
+- [Read more](https://thehackernews.com/2026/04/masjesu-botnet-emerges-as-ddos-for-hire.html)
 
 ---
 

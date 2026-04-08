@@ -1,10 +1,28 @@
 {
   "chaos_ranked": [
     {
-      "title": "Shrinking the IAM Attack Surface through Identity Visibility and Intelligence Platforms (IVIP)",
-      "link": "https://thehackernews.com/2026/04/shrinking-iam-attack-surface-through.html",
-      "summary": "The Fragmented State of Modern Enterprise&nbsp;Identity\nEnterprise IAM is approaching a breaking point. As&nbsp;organizations scale, identity becomes increasingly fragmented across thousands of applic...",
-      "published": "2026-04-08T17:00:00+05:30",
+      "title": "New Chaos Variant Targets Misconfigured Cloud Deployments, Adds SOCKS Proxy",
+      "link": "https://thehackernews.com/2026/04/new-chaos-variant-targets-misconfigured.html",
+      "summary": "Cybersecurity researchers have flagged a new variant&nbsp;ofmalware&nbsp;called Chaosthat'scapable of&nbsp;hitting misconfigured cloud deployments, marking an expansion of the botnet's targeting infra...",
+      "published": "2026-04-08T23:21:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 19.6,
+        "anarchy": 3.0,
+        "overall": 11.3
+      },
+      "keywords": {
+        "chaos": [
+          "chaos"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Masjesu Botnet Emerges as DDoS-for-Hire Service Targeting Global IoT Devices",
+      "link": "https://thehackernews.com/2026/04/masjesu-botnet-emerges-as-ddos-for-hire.html",
+      "summary": "Cybersecurity researchers have lifted the curtain on a stealthy botnet that's designed for distributed denial-of-service (DDoS)&nbsp;attacks.\nCalled Masjesu, the botnet has been advertised via Telegra...",
+      "published": "2026-04-08T22:00:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -17,10 +35,10 @@
       }
     },
     {
-      "title": "Anthropic's Claude Mythos Finds Thousands of Zero-Day Flaws Across Major Systems",
-      "link": "https://thehackernews.com/2026/04/anthropics-claude-mythos-finds.html",
-      "summary": "Artificial Intelligence (AI) company Anthropic announced a new cybersecurity initiative&nbsp;called Project&nbsp;Glasswing&nbsp;that&nbsp;will use a preview version of its new frontier model, Claude M...",
-      "published": "2026-04-08T14:46:00+05:30",
+      "title": "APT28 Deploys PRISMEX Malware in Campaign Targeting Ukraine and NATO Allies",
+      "link": "https://thehackernews.com/2026/04/apt28-deploys-prismex-malware-in.html",
+      "summary": "The Russian threat actor known&nbsp;as APT28 (aka Forest Blizzard and Pawn Storm) has been linked to a fresh spear-phishing campaign targeting Ukraine and its allies to deploy a previously undocumente...",
+      "published": "2026-04-08T19:20:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -33,11 +51,11 @@
       }
     },
     {
-      "title": "Ask HN: What's the state of multimodal prompt injection defence in 2026?",
-      "link": "https://news.ycombinator.com/item?id=47689822",
-      "summary": "<p>I've been researching multimodal prompt injection - attacks hidden in images, documents, and audio rather than text. Ran a structured test suite (225 attacks across 5 modalities) against a detectio...",
-      "published": "2026-04-08T13:18:11+00:00",
-      "domain": "news.ycombinator.com",
+      "title": "Calling a Rust library from Go with CGO_ENABLED=0",
+      "link": "https://stoolap.io/blog/2026/04/08/calling-a-rust-library-from-go-with-cgo-disabled/",
+      "summary": "<p>Article URL: <a href=\"https://stoolap.io/blog/2026/04/08/calling-a-rust-library-from-go-with-cgo-disabled/\">https://stoolap.io/blog/2026/04/08/calling-a-rust-library-from-go-with-cgo-disabled/</a><...",
+      "published": "2026-04-08T19:12:15+00:00",
+      "domain": "stoolap.io",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -49,11 +67,11 @@
       }
     },
     {
-      "title": "N. Korean Hackers Spread 1,700 Malicious Packages Across npm, PyPI, Go, Rust",
-      "link": "https://thehackernews.com/2026/04/n-korean-hackers-spread-1700-malicious.html",
-      "summary": "The North Korea-linked persistent campaign known&nbsp;as Contagious&nbsp;Interview has spread its tentacles by publishing malicious packages targeting the Go, Rust, and PHP ecosystems.\n\"The threat act...",
-      "published": "2026-04-08T13:17:00+05:30",
-      "domain": "thehackernews.com",
+      "title": "Show HN: Safari MCP \u2013 Native macOS browser automation (80 tools)",
+      "link": "https://github.com/achiya-automation/safari-mcp",
+      "summary": "<p>Article URL: <a href=\"https://github.com/achiya-automation/safari-mcp\">https://github.com/achiya-automation/safari-mcp</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4769485...",
+      "published": "2026-04-08T19:12:02+00:00",
+      "domain": "github.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -65,11 +83,11 @@
       }
     },
     {
-      "title": "We're Drugging Ourselves with Dopamine",
-      "link": "https://www.wsj.com/opinion/free-expression/were-drugging-ourselves-with-dopamine-86091667",
-      "summary": "<p>Article URL: <a href=\"https://www.wsj.com/opinion/free-expression/were-drugging-ourselves-with-dopamine-86091667\">https://www.wsj.com/opinion/free-expression/were-drugging-ourselves-with-dopamine-8...",
-      "published": "2026-04-08T13:16:26+00:00",
-      "domain": "wsj.com",
+      "title": "I run three AdGuard Home instances (two local, one on a VPS)",
+      "link": "https://the.unknown-universe.co.uk/privacy-security/the-dns-safety-net/",
+      "summary": "<p>Article URL: <a href=\"https://the.unknown-universe.co.uk/privacy-security/the-dns-safety-net/\">https://the.unknown-universe.co.uk/privacy-security/the-dns-safety-net/</a></p>\n<p>Comments URL: <a hr...",
+      "published": "2026-04-08T19:08:49+00:00",
+      "domain": "the.unknown-universe.co.uk",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -81,11 +99,11 @@
       }
     },
     {
-      "title": "How Much Linear Memory Access Is Enough?",
-      "link": "https://solidean.com/blog/2026/how-much-linear-memory-access-is-enough/",
-      "summary": "<p>Article URL: <a href=\"https://solidean.com/blog/2026/how-much-linear-memory-access-is-enough/\">https://solidean.com/blog/2026/how-much-linear-memory-access-is-enough/</a></p>\n<p>Comments URL: <a hr...",
-      "published": "2026-04-08T13:16:19+00:00",
-      "domain": "solidean.com",
+      "title": "Show HN: An open-source Go CLI to generate local AWS cost reports",
+      "link": "https://awsdoctor.compacompila.com/docs/reporting/",
+      "summary": "<p>Article URL: <a href=\"https://awsdoctor.compacompila.com/docs/reporting/\">https://awsdoctor.compacompila.com/docs/reporting/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4...",
+      "published": "2026-04-08T19:08:29+00:00",
+      "domain": "awsdoctor.compacompila.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -97,11 +115,11 @@
       }
     },
     {
-      "title": "AWAF \u2013 An open framework for scoring AI agent production readiness",
-      "link": "https://awaf.ai",
-      "summary": "<p>Article URL: <a href=\"https://awaf.ai\">https://awaf.ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47689776\">https://news.ycombinator.com/item?id=47689776</a></p>\n<p>Poin...",
-      "published": "2026-04-08T13:15:08+00:00",
-      "domain": "awaf.ai",
+      "title": "I build a MCP-Tool to Give ChatGPT and Claude real access to your Linux servers",
+      "link": "https://github.com/farukalpay/mcp-nexus",
+      "summary": "<p>Article URL: <a href=\"https://github.com/farukalpay/mcp-nexus\">https://github.com/farukalpay/mcp-nexus</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47694712\">https://news....",
+      "published": "2026-04-08T19:01:54+00:00",
+      "domain": "github.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -113,43 +131,27 @@
       }
     },
     {
-      "title": "QVeris: AI agents discover, inspect and call 10k capabilities via one protocol",
-      "link": "https://qveris.ai/",
-      "summary": "<p>Article URL: <a href=\"https://qveris.ai/\">https://qveris.ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47689773\">https://news.ycombinator.com/item?id=47689773</a></p>\n<...",
-      "published": "2026-04-08T13:14:49+00:00",
-      "domain": "qveris.ai",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "MegaTrain: Full Precision Training of 100B+ Parameter LLMs on a Single GPU",
-      "link": "https://arxiv.org/abs/2604.05091",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47689174\">Comments</a>...",
-      "published": "2026-04-08T12:19:00+00:00",
-      "domain": "arxiv.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "LinkedIn Hit With Class-Action Lawsuits Over Browser-Extension Scanning",
-      "link": "https://www.reddit.com/r/technology/comments/1sfopm6/linkedin_hit_with_classaction_lawsuits_over/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1sfopm6/linkedin_hit_with_classaction_lawsuits_over/\"> <img alt=\"LinkedIn Hit With Class-Action Lawsuits Over Browser-Extension S...",
-      "published": "2026-04-08T10:13:44+00:00",
+      "title": "John Deere to Pay $99 Million in Monumental Right-to-Repair Settlement",
+      "link": "https://www.reddit.com/r/technology/comments/1sg1ic0/john_deere_to_pay_99_million_in_monumental/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1sg1ic0/john_deere_to_pay_99_million_in_monumental/\"> <img alt=\"John Deere to Pay $99 Million in Monumental Right-to-Repair Settl...",
+      "published": "2026-04-08T18:38:53+00:00",
       "domain": "reddit.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Orange Juice \u2013 Small UX improvements that make HN easier to read",
+      "link": "http://oj-hn.com/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47694036\">Comments</a>...",
+      "published": "2026-04-08T18:08:52+00:00",
+      "domain": "oj-hn.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -163,10 +165,28 @@
   ],
   "anarchy_ranked": [
     {
-      "title": "Shrinking the IAM Attack Surface through Identity Visibility and Intelligence Platforms (IVIP)",
-      "link": "https://thehackernews.com/2026/04/shrinking-iam-attack-surface-through.html",
-      "summary": "The Fragmented State of Modern Enterprise&nbsp;Identity\nEnterprise IAM is approaching a breaking point. As&nbsp;organizations scale, identity becomes increasingly fragmented across thousands of applic...",
-      "published": "2026-04-08T17:00:00+05:30",
+      "title": "New Chaos Variant Targets Misconfigured Cloud Deployments, Adds SOCKS Proxy",
+      "link": "https://thehackernews.com/2026/04/new-chaos-variant-targets-misconfigured.html",
+      "summary": "Cybersecurity researchers have flagged a new variant&nbsp;ofmalware&nbsp;called Chaosthat'scapable of&nbsp;hitting misconfigured cloud deployments, marking an expansion of the botnet's targeting infra...",
+      "published": "2026-04-08T23:21:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 19.6,
+        "anarchy": 3.0,
+        "overall": 11.3
+      },
+      "keywords": {
+        "chaos": [
+          "chaos"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Masjesu Botnet Emerges as DDoS-for-Hire Service Targeting Global IoT Devices",
+      "link": "https://thehackernews.com/2026/04/masjesu-botnet-emerges-as-ddos-for-hire.html",
+      "summary": "Cybersecurity researchers have lifted the curtain on a stealthy botnet that's designed for distributed denial-of-service (DDoS)&nbsp;attacks.\nCalled Masjesu, the botnet has been advertised via Telegra...",
+      "published": "2026-04-08T22:00:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -179,10 +199,10 @@
       }
     },
     {
-      "title": "Anthropic's Claude Mythos Finds Thousands of Zero-Day Flaws Across Major Systems",
-      "link": "https://thehackernews.com/2026/04/anthropics-claude-mythos-finds.html",
-      "summary": "Artificial Intelligence (AI) company Anthropic announced a new cybersecurity initiative&nbsp;called Project&nbsp;Glasswing&nbsp;that&nbsp;will use a preview version of its new frontier model, Claude M...",
-      "published": "2026-04-08T14:46:00+05:30",
+      "title": "APT28 Deploys PRISMEX Malware in Campaign Targeting Ukraine and NATO Allies",
+      "link": "https://thehackernews.com/2026/04/apt28-deploys-prismex-malware-in.html",
+      "summary": "The Russian threat actor known&nbsp;as APT28 (aka Forest Blizzard and Pawn Storm) has been linked to a fresh spear-phishing campaign targeting Ukraine and its allies to deploy a previously undocumente...",
+      "published": "2026-04-08T19:20:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -195,11 +215,11 @@
       }
     },
     {
-      "title": "Ask HN: What's the state of multimodal prompt injection defence in 2026?",
-      "link": "https://news.ycombinator.com/item?id=47689822",
-      "summary": "<p>I've been researching multimodal prompt injection - attacks hidden in images, documents, and audio rather than text. Ran a structured test suite (225 attacks across 5 modalities) against a detectio...",
-      "published": "2026-04-08T13:18:11+00:00",
-      "domain": "news.ycombinator.com",
+      "title": "Calling a Rust library from Go with CGO_ENABLED=0",
+      "link": "https://stoolap.io/blog/2026/04/08/calling-a-rust-library-from-go-with-cgo-disabled/",
+      "summary": "<p>Article URL: <a href=\"https://stoolap.io/blog/2026/04/08/calling-a-rust-library-from-go-with-cgo-disabled/\">https://stoolap.io/blog/2026/04/08/calling-a-rust-library-from-go-with-cgo-disabled/</a><...",
+      "published": "2026-04-08T19:12:15+00:00",
+      "domain": "stoolap.io",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -211,11 +231,11 @@
       }
     },
     {
-      "title": "N. Korean Hackers Spread 1,700 Malicious Packages Across npm, PyPI, Go, Rust",
-      "link": "https://thehackernews.com/2026/04/n-korean-hackers-spread-1700-malicious.html",
-      "summary": "The North Korea-linked persistent campaign known&nbsp;as Contagious&nbsp;Interview has spread its tentacles by publishing malicious packages targeting the Go, Rust, and PHP ecosystems.\n\"The threat act...",
-      "published": "2026-04-08T13:17:00+05:30",
-      "domain": "thehackernews.com",
+      "title": "Show HN: Safari MCP \u2013 Native macOS browser automation (80 tools)",
+      "link": "https://github.com/achiya-automation/safari-mcp",
+      "summary": "<p>Article URL: <a href=\"https://github.com/achiya-automation/safari-mcp\">https://github.com/achiya-automation/safari-mcp</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4769485...",
+      "published": "2026-04-08T19:12:02+00:00",
+      "domain": "github.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -227,11 +247,11 @@
       }
     },
     {
-      "title": "We're Drugging Ourselves with Dopamine",
-      "link": "https://www.wsj.com/opinion/free-expression/were-drugging-ourselves-with-dopamine-86091667",
-      "summary": "<p>Article URL: <a href=\"https://www.wsj.com/opinion/free-expression/were-drugging-ourselves-with-dopamine-86091667\">https://www.wsj.com/opinion/free-expression/were-drugging-ourselves-with-dopamine-8...",
-      "published": "2026-04-08T13:16:26+00:00",
-      "domain": "wsj.com",
+      "title": "I run three AdGuard Home instances (two local, one on a VPS)",
+      "link": "https://the.unknown-universe.co.uk/privacy-security/the-dns-safety-net/",
+      "summary": "<p>Article URL: <a href=\"https://the.unknown-universe.co.uk/privacy-security/the-dns-safety-net/\">https://the.unknown-universe.co.uk/privacy-security/the-dns-safety-net/</a></p>\n<p>Comments URL: <a hr...",
+      "published": "2026-04-08T19:08:49+00:00",
+      "domain": "the.unknown-universe.co.uk",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -243,11 +263,11 @@
       }
     },
     {
-      "title": "How Much Linear Memory Access Is Enough?",
-      "link": "https://solidean.com/blog/2026/how-much-linear-memory-access-is-enough/",
-      "summary": "<p>Article URL: <a href=\"https://solidean.com/blog/2026/how-much-linear-memory-access-is-enough/\">https://solidean.com/blog/2026/how-much-linear-memory-access-is-enough/</a></p>\n<p>Comments URL: <a hr...",
-      "published": "2026-04-08T13:16:19+00:00",
-      "domain": "solidean.com",
+      "title": "Show HN: An open-source Go CLI to generate local AWS cost reports",
+      "link": "https://awsdoctor.compacompila.com/docs/reporting/",
+      "summary": "<p>Article URL: <a href=\"https://awsdoctor.compacompila.com/docs/reporting/\">https://awsdoctor.compacompila.com/docs/reporting/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4...",
+      "published": "2026-04-08T19:08:29+00:00",
+      "domain": "awsdoctor.compacompila.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -259,11 +279,11 @@
       }
     },
     {
-      "title": "AWAF \u2013 An open framework for scoring AI agent production readiness",
-      "link": "https://awaf.ai",
-      "summary": "<p>Article URL: <a href=\"https://awaf.ai\">https://awaf.ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47689776\">https://news.ycombinator.com/item?id=47689776</a></p>\n<p>Poin...",
-      "published": "2026-04-08T13:15:08+00:00",
-      "domain": "awaf.ai",
+      "title": "I build a MCP-Tool to Give ChatGPT and Claude real access to your Linux servers",
+      "link": "https://github.com/farukalpay/mcp-nexus",
+      "summary": "<p>Article URL: <a href=\"https://github.com/farukalpay/mcp-nexus\">https://github.com/farukalpay/mcp-nexus</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47694712\">https://news....",
+      "published": "2026-04-08T19:01:54+00:00",
+      "domain": "github.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -275,43 +295,27 @@
       }
     },
     {
-      "title": "QVeris: AI agents discover, inspect and call 10k capabilities via one protocol",
-      "link": "https://qveris.ai/",
-      "summary": "<p>Article URL: <a href=\"https://qveris.ai/\">https://qveris.ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47689773\">https://news.ycombinator.com/item?id=47689773</a></p>\n<...",
-      "published": "2026-04-08T13:14:49+00:00",
-      "domain": "qveris.ai",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "MegaTrain: Full Precision Training of 100B+ Parameter LLMs on a Single GPU",
-      "link": "https://arxiv.org/abs/2604.05091",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47689174\">Comments</a>...",
-      "published": "2026-04-08T12:19:00+00:00",
-      "domain": "arxiv.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "LinkedIn Hit With Class-Action Lawsuits Over Browser-Extension Scanning",
-      "link": "https://www.reddit.com/r/technology/comments/1sfopm6/linkedin_hit_with_classaction_lawsuits_over/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1sfopm6/linkedin_hit_with_classaction_lawsuits_over/\"> <img alt=\"LinkedIn Hit With Class-Action Lawsuits Over Browser-Extension S...",
-      "published": "2026-04-08T10:13:44+00:00",
+      "title": "John Deere to Pay $99 Million in Monumental Right-to-Repair Settlement",
+      "link": "https://www.reddit.com/r/technology/comments/1sg1ic0/john_deere_to_pay_99_million_in_monumental/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1sg1ic0/john_deere_to_pay_99_million_in_monumental/\"> <img alt=\"John Deere to Pay $99 Million in Monumental Right-to-Repair Settl...",
+      "published": "2026-04-08T18:38:53+00:00",
       "domain": "reddit.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Orange Juice \u2013 Small UX improvements that make HN easier to read",
+      "link": "http://oj-hn.com/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47694036\">Comments</a>...",
+      "published": "2026-04-08T18:08:52+00:00",
+      "domain": "oj-hn.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -325,10 +329,28 @@
   ],
   "overall_ranked": [
     {
-      "title": "Shrinking the IAM Attack Surface through Identity Visibility and Intelligence Platforms (IVIP)",
-      "link": "https://thehackernews.com/2026/04/shrinking-iam-attack-surface-through.html",
-      "summary": "The Fragmented State of Modern Enterprise&nbsp;Identity\nEnterprise IAM is approaching a breaking point. As&nbsp;organizations scale, identity becomes increasingly fragmented across thousands of applic...",
-      "published": "2026-04-08T17:00:00+05:30",
+      "title": "New Chaos Variant Targets Misconfigured Cloud Deployments, Adds SOCKS Proxy",
+      "link": "https://thehackernews.com/2026/04/new-chaos-variant-targets-misconfigured.html",
+      "summary": "Cybersecurity researchers have flagged a new variant&nbsp;ofmalware&nbsp;called Chaosthat'scapable of&nbsp;hitting misconfigured cloud deployments, marking an expansion of the botnet's targeting infra...",
+      "published": "2026-04-08T23:21:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 19.6,
+        "anarchy": 3.0,
+        "overall": 11.3
+      },
+      "keywords": {
+        "chaos": [
+          "chaos"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Masjesu Botnet Emerges as DDoS-for-Hire Service Targeting Global IoT Devices",
+      "link": "https://thehackernews.com/2026/04/masjesu-botnet-emerges-as-ddos-for-hire.html",
+      "summary": "Cybersecurity researchers have lifted the curtain on a stealthy botnet that's designed for distributed denial-of-service (DDoS)&nbsp;attacks.\nCalled Masjesu, the botnet has been advertised via Telegra...",
+      "published": "2026-04-08T22:00:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -341,10 +363,10 @@
       }
     },
     {
-      "title": "Anthropic's Claude Mythos Finds Thousands of Zero-Day Flaws Across Major Systems",
-      "link": "https://thehackernews.com/2026/04/anthropics-claude-mythos-finds.html",
-      "summary": "Artificial Intelligence (AI) company Anthropic announced a new cybersecurity initiative&nbsp;called Project&nbsp;Glasswing&nbsp;that&nbsp;will use a preview version of its new frontier model, Claude M...",
-      "published": "2026-04-08T14:46:00+05:30",
+      "title": "APT28 Deploys PRISMEX Malware in Campaign Targeting Ukraine and NATO Allies",
+      "link": "https://thehackernews.com/2026/04/apt28-deploys-prismex-malware-in.html",
+      "summary": "The Russian threat actor known&nbsp;as APT28 (aka Forest Blizzard and Pawn Storm) has been linked to a fresh spear-phishing campaign targeting Ukraine and its allies to deploy a previously undocumente...",
+      "published": "2026-04-08T19:20:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -357,11 +379,11 @@
       }
     },
     {
-      "title": "Ask HN: What's the state of multimodal prompt injection defence in 2026?",
-      "link": "https://news.ycombinator.com/item?id=47689822",
-      "summary": "<p>I've been researching multimodal prompt injection - attacks hidden in images, documents, and audio rather than text. Ran a structured test suite (225 attacks across 5 modalities) against a detectio...",
-      "published": "2026-04-08T13:18:11+00:00",
-      "domain": "news.ycombinator.com",
+      "title": "Calling a Rust library from Go with CGO_ENABLED=0",
+      "link": "https://stoolap.io/blog/2026/04/08/calling-a-rust-library-from-go-with-cgo-disabled/",
+      "summary": "<p>Article URL: <a href=\"https://stoolap.io/blog/2026/04/08/calling-a-rust-library-from-go-with-cgo-disabled/\">https://stoolap.io/blog/2026/04/08/calling-a-rust-library-from-go-with-cgo-disabled/</a><...",
+      "published": "2026-04-08T19:12:15+00:00",
+      "domain": "stoolap.io",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -373,11 +395,11 @@
       }
     },
     {
-      "title": "N. Korean Hackers Spread 1,700 Malicious Packages Across npm, PyPI, Go, Rust",
-      "link": "https://thehackernews.com/2026/04/n-korean-hackers-spread-1700-malicious.html",
-      "summary": "The North Korea-linked persistent campaign known&nbsp;as Contagious&nbsp;Interview has spread its tentacles by publishing malicious packages targeting the Go, Rust, and PHP ecosystems.\n\"The threat act...",
-      "published": "2026-04-08T13:17:00+05:30",
-      "domain": "thehackernews.com",
+      "title": "Show HN: Safari MCP \u2013 Native macOS browser automation (80 tools)",
+      "link": "https://github.com/achiya-automation/safari-mcp",
+      "summary": "<p>Article URL: <a href=\"https://github.com/achiya-automation/safari-mcp\">https://github.com/achiya-automation/safari-mcp</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4769485...",
+      "published": "2026-04-08T19:12:02+00:00",
+      "domain": "github.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -389,11 +411,11 @@
       }
     },
     {
-      "title": "We're Drugging Ourselves with Dopamine",
-      "link": "https://www.wsj.com/opinion/free-expression/were-drugging-ourselves-with-dopamine-86091667",
-      "summary": "<p>Article URL: <a href=\"https://www.wsj.com/opinion/free-expression/were-drugging-ourselves-with-dopamine-86091667\">https://www.wsj.com/opinion/free-expression/were-drugging-ourselves-with-dopamine-8...",
-      "published": "2026-04-08T13:16:26+00:00",
-      "domain": "wsj.com",
+      "title": "I run three AdGuard Home instances (two local, one on a VPS)",
+      "link": "https://the.unknown-universe.co.uk/privacy-security/the-dns-safety-net/",
+      "summary": "<p>Article URL: <a href=\"https://the.unknown-universe.co.uk/privacy-security/the-dns-safety-net/\">https://the.unknown-universe.co.uk/privacy-security/the-dns-safety-net/</a></p>\n<p>Comments URL: <a hr...",
+      "published": "2026-04-08T19:08:49+00:00",
+      "domain": "the.unknown-universe.co.uk",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -405,11 +427,11 @@
       }
     },
     {
-      "title": "How Much Linear Memory Access Is Enough?",
-      "link": "https://solidean.com/blog/2026/how-much-linear-memory-access-is-enough/",
-      "summary": "<p>Article URL: <a href=\"https://solidean.com/blog/2026/how-much-linear-memory-access-is-enough/\">https://solidean.com/blog/2026/how-much-linear-memory-access-is-enough/</a></p>\n<p>Comments URL: <a hr...",
-      "published": "2026-04-08T13:16:19+00:00",
-      "domain": "solidean.com",
+      "title": "Show HN: An open-source Go CLI to generate local AWS cost reports",
+      "link": "https://awsdoctor.compacompila.com/docs/reporting/",
+      "summary": "<p>Article URL: <a href=\"https://awsdoctor.compacompila.com/docs/reporting/\">https://awsdoctor.compacompila.com/docs/reporting/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4...",
+      "published": "2026-04-08T19:08:29+00:00",
+      "domain": "awsdoctor.compacompila.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -421,11 +443,11 @@
       }
     },
     {
-      "title": "AWAF \u2013 An open framework for scoring AI agent production readiness",
-      "link": "https://awaf.ai",
-      "summary": "<p>Article URL: <a href=\"https://awaf.ai\">https://awaf.ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47689776\">https://news.ycombinator.com/item?id=47689776</a></p>\n<p>Poin...",
-      "published": "2026-04-08T13:15:08+00:00",
-      "domain": "awaf.ai",
+      "title": "I build a MCP-Tool to Give ChatGPT and Claude real access to your Linux servers",
+      "link": "https://github.com/farukalpay/mcp-nexus",
+      "summary": "<p>Article URL: <a href=\"https://github.com/farukalpay/mcp-nexus\">https://github.com/farukalpay/mcp-nexus</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47694712\">https://news....",
+      "published": "2026-04-08T19:01:54+00:00",
+      "domain": "github.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -437,43 +459,27 @@
       }
     },
     {
-      "title": "QVeris: AI agents discover, inspect and call 10k capabilities via one protocol",
-      "link": "https://qveris.ai/",
-      "summary": "<p>Article URL: <a href=\"https://qveris.ai/\">https://qveris.ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47689773\">https://news.ycombinator.com/item?id=47689773</a></p>\n<...",
-      "published": "2026-04-08T13:14:49+00:00",
-      "domain": "qveris.ai",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "MegaTrain: Full Precision Training of 100B+ Parameter LLMs on a Single GPU",
-      "link": "https://arxiv.org/abs/2604.05091",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47689174\">Comments</a>...",
-      "published": "2026-04-08T12:19:00+00:00",
-      "domain": "arxiv.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "LinkedIn Hit With Class-Action Lawsuits Over Browser-Extension Scanning",
-      "link": "https://www.reddit.com/r/technology/comments/1sfopm6/linkedin_hit_with_classaction_lawsuits_over/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1sfopm6/linkedin_hit_with_classaction_lawsuits_over/\"> <img alt=\"LinkedIn Hit With Class-Action Lawsuits Over Browser-Extension S...",
-      "published": "2026-04-08T10:13:44+00:00",
+      "title": "John Deere to Pay $99 Million in Monumental Right-to-Repair Settlement",
+      "link": "https://www.reddit.com/r/technology/comments/1sg1ic0/john_deere_to_pay_99_million_in_monumental/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1sg1ic0/john_deere_to_pay_99_million_in_monumental/\"> <img alt=\"John Deere to Pay $99 Million in Monumental Right-to-Repair Settl...",
+      "published": "2026-04-08T18:38:53+00:00",
       "domain": "reddit.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Orange Juice \u2013 Small UX improvements that make HN easier to read",
+      "link": "http://oj-hn.com/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47694036\">Comments</a>...",
+      "published": "2026-04-08T18:08:52+00:00",
+      "domain": "oj-hn.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -487,10 +493,28 @@
   ],
   "all_articles": [
     {
-      "title": "Shrinking the IAM Attack Surface through Identity Visibility and Intelligence Platforms (IVIP)",
-      "link": "https://thehackernews.com/2026/04/shrinking-iam-attack-surface-through.html",
-      "summary": "The Fragmented State of Modern Enterprise&nbsp;Identity\nEnterprise IAM is approaching a breaking point. As&nbsp;organizations scale, identity becomes increasingly fragmented across thousands of applic...",
-      "published": "2026-04-08T17:00:00+05:30",
+      "title": "New Chaos Variant Targets Misconfigured Cloud Deployments, Adds SOCKS Proxy",
+      "link": "https://thehackernews.com/2026/04/new-chaos-variant-targets-misconfigured.html",
+      "summary": "Cybersecurity researchers have flagged a new variant&nbsp;ofmalware&nbsp;called Chaosthat'scapable of&nbsp;hitting misconfigured cloud deployments, marking an expansion of the botnet's targeting infra...",
+      "published": "2026-04-08T23:21:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 19.6,
+        "anarchy": 3.0,
+        "overall": 11.3
+      },
+      "keywords": {
+        "chaos": [
+          "chaos"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Masjesu Botnet Emerges as DDoS-for-Hire Service Targeting Global IoT Devices",
+      "link": "https://thehackernews.com/2026/04/masjesu-botnet-emerges-as-ddos-for-hire.html",
+      "summary": "Cybersecurity researchers have lifted the curtain on a stealthy botnet that's designed for distributed denial-of-service (DDoS)&nbsp;attacks.\nCalled Masjesu, the botnet has been advertised via Telegra...",
+      "published": "2026-04-08T22:00:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -503,10 +527,10 @@
       }
     },
     {
-      "title": "Anthropic's Claude Mythos Finds Thousands of Zero-Day Flaws Across Major Systems",
-      "link": "https://thehackernews.com/2026/04/anthropics-claude-mythos-finds.html",
-      "summary": "Artificial Intelligence (AI) company Anthropic announced a new cybersecurity initiative&nbsp;called Project&nbsp;Glasswing&nbsp;that&nbsp;will use a preview version of its new frontier model, Claude M...",
-      "published": "2026-04-08T14:46:00+05:30",
+      "title": "APT28 Deploys PRISMEX Malware in Campaign Targeting Ukraine and NATO Allies",
+      "link": "https://thehackernews.com/2026/04/apt28-deploys-prismex-malware-in.html",
+      "summary": "The Russian threat actor known&nbsp;as APT28 (aka Forest Blizzard and Pawn Storm) has been linked to a fresh spear-phishing campaign targeting Ukraine and its allies to deploy a previously undocumente...",
+      "published": "2026-04-08T19:20:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -519,11 +543,11 @@
       }
     },
     {
-      "title": "Ask HN: What's the state of multimodal prompt injection defence in 2026?",
-      "link": "https://news.ycombinator.com/item?id=47689822",
-      "summary": "<p>I've been researching multimodal prompt injection - attacks hidden in images, documents, and audio rather than text. Ran a structured test suite (225 attacks across 5 modalities) against a detectio...",
-      "published": "2026-04-08T13:18:11+00:00",
-      "domain": "news.ycombinator.com",
+      "title": "Calling a Rust library from Go with CGO_ENABLED=0",
+      "link": "https://stoolap.io/blog/2026/04/08/calling-a-rust-library-from-go-with-cgo-disabled/",
+      "summary": "<p>Article URL: <a href=\"https://stoolap.io/blog/2026/04/08/calling-a-rust-library-from-go-with-cgo-disabled/\">https://stoolap.io/blog/2026/04/08/calling-a-rust-library-from-go-with-cgo-disabled/</a><...",
+      "published": "2026-04-08T19:12:15+00:00",
+      "domain": "stoolap.io",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -535,11 +559,11 @@
       }
     },
     {
-      "title": "N. Korean Hackers Spread 1,700 Malicious Packages Across npm, PyPI, Go, Rust",
-      "link": "https://thehackernews.com/2026/04/n-korean-hackers-spread-1700-malicious.html",
-      "summary": "The North Korea-linked persistent campaign known&nbsp;as Contagious&nbsp;Interview has spread its tentacles by publishing malicious packages targeting the Go, Rust, and PHP ecosystems.\n\"The threat act...",
-      "published": "2026-04-08T13:17:00+05:30",
-      "domain": "thehackernews.com",
+      "title": "Show HN: Safari MCP \u2013 Native macOS browser automation (80 tools)",
+      "link": "https://github.com/achiya-automation/safari-mcp",
+      "summary": "<p>Article URL: <a href=\"https://github.com/achiya-automation/safari-mcp\">https://github.com/achiya-automation/safari-mcp</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4769485...",
+      "published": "2026-04-08T19:12:02+00:00",
+      "domain": "github.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -551,11 +575,11 @@
       }
     },
     {
-      "title": "We're Drugging Ourselves with Dopamine",
-      "link": "https://www.wsj.com/opinion/free-expression/were-drugging-ourselves-with-dopamine-86091667",
-      "summary": "<p>Article URL: <a href=\"https://www.wsj.com/opinion/free-expression/were-drugging-ourselves-with-dopamine-86091667\">https://www.wsj.com/opinion/free-expression/were-drugging-ourselves-with-dopamine-8...",
-      "published": "2026-04-08T13:16:26+00:00",
-      "domain": "wsj.com",
+      "title": "I run three AdGuard Home instances (two local, one on a VPS)",
+      "link": "https://the.unknown-universe.co.uk/privacy-security/the-dns-safety-net/",
+      "summary": "<p>Article URL: <a href=\"https://the.unknown-universe.co.uk/privacy-security/the-dns-safety-net/\">https://the.unknown-universe.co.uk/privacy-security/the-dns-safety-net/</a></p>\n<p>Comments URL: <a hr...",
+      "published": "2026-04-08T19:08:49+00:00",
+      "domain": "the.unknown-universe.co.uk",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -567,11 +591,11 @@
       }
     },
     {
-      "title": "How Much Linear Memory Access Is Enough?",
-      "link": "https://solidean.com/blog/2026/how-much-linear-memory-access-is-enough/",
-      "summary": "<p>Article URL: <a href=\"https://solidean.com/blog/2026/how-much-linear-memory-access-is-enough/\">https://solidean.com/blog/2026/how-much-linear-memory-access-is-enough/</a></p>\n<p>Comments URL: <a hr...",
-      "published": "2026-04-08T13:16:19+00:00",
-      "domain": "solidean.com",
+      "title": "Show HN: An open-source Go CLI to generate local AWS cost reports",
+      "link": "https://awsdoctor.compacompila.com/docs/reporting/",
+      "summary": "<p>Article URL: <a href=\"https://awsdoctor.compacompila.com/docs/reporting/\">https://awsdoctor.compacompila.com/docs/reporting/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4...",
+      "published": "2026-04-08T19:08:29+00:00",
+      "domain": "awsdoctor.compacompila.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -583,11 +607,11 @@
       }
     },
     {
-      "title": "AWAF \u2013 An open framework for scoring AI agent production readiness",
-      "link": "https://awaf.ai",
-      "summary": "<p>Article URL: <a href=\"https://awaf.ai\">https://awaf.ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47689776\">https://news.ycombinator.com/item?id=47689776</a></p>\n<p>Poin...",
-      "published": "2026-04-08T13:15:08+00:00",
-      "domain": "awaf.ai",
+      "title": "I build a MCP-Tool to Give ChatGPT and Claude real access to your Linux servers",
+      "link": "https://github.com/farukalpay/mcp-nexus",
+      "summary": "<p>Article URL: <a href=\"https://github.com/farukalpay/mcp-nexus\">https://github.com/farukalpay/mcp-nexus</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47694712\">https://news....",
+      "published": "2026-04-08T19:01:54+00:00",
+      "domain": "github.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -599,43 +623,27 @@
       }
     },
     {
-      "title": "QVeris: AI agents discover, inspect and call 10k capabilities via one protocol",
-      "link": "https://qveris.ai/",
-      "summary": "<p>Article URL: <a href=\"https://qveris.ai/\">https://qveris.ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47689773\">https://news.ycombinator.com/item?id=47689773</a></p>\n<...",
-      "published": "2026-04-08T13:14:49+00:00",
-      "domain": "qveris.ai",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "MegaTrain: Full Precision Training of 100B+ Parameter LLMs on a Single GPU",
-      "link": "https://arxiv.org/abs/2604.05091",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47689174\">Comments</a>...",
-      "published": "2026-04-08T12:19:00+00:00",
-      "domain": "arxiv.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "LinkedIn Hit With Class-Action Lawsuits Over Browser-Extension Scanning",
-      "link": "https://www.reddit.com/r/technology/comments/1sfopm6/linkedin_hit_with_classaction_lawsuits_over/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1sfopm6/linkedin_hit_with_classaction_lawsuits_over/\"> <img alt=\"LinkedIn Hit With Class-Action Lawsuits Over Browser-Extension S...",
-      "published": "2026-04-08T10:13:44+00:00",
+      "title": "John Deere to Pay $99 Million in Monumental Right-to-Repair Settlement",
+      "link": "https://www.reddit.com/r/technology/comments/1sg1ic0/john_deere_to_pay_99_million_in_monumental/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1sg1ic0/john_deere_to_pay_99_million_in_monumental/\"> <img alt=\"John Deere to Pay $99 Million in Monumental Right-to-Repair Settl...",
+      "published": "2026-04-08T18:38:53+00:00",
       "domain": "reddit.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Orange Juice \u2013 Small UX improvements that make HN easier to read",
+      "link": "http://oj-hn.com/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47694036\">Comments</a>...",
+      "published": "2026-04-08T18:08:52+00:00",
+      "domain": "oj-hn.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
