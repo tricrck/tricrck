@@ -1,28 +1,42 @@
 {
   "chaos_ranked": [
     {
-      "title": "Iran-Linked Hackers Disrupt U.S. Critical Infrastructure by Targeting Internet-Exposed PLCs",
-      "link": "https://thehackernews.com/2026/04/iran-linked-hackers-disrupt-us-critical.html",
-      "summary": "Iran-affiliated cyber actors are targeting internet-facing operational technology (OT) devices across critical infrastructures in the U.S., including programmable logic controllers (PLCs), cybersecuri...",
-      "published": "2026-04-08T09:53:00+05:30",
+      "title": "Shrinking the IAM Attack Surface through Identity Visibility and Intelligence Platforms (IVIP)",
+      "link": "https://thehackernews.com/2026/04/shrinking-iam-attack-surface-through.html",
+      "summary": "The Fragmented State of Modern Enterprise&nbsp;Identity\nEnterprise IAM is approaching a breaking point. As&nbsp;organizations scale, identity becomes increasingly fragmented across thousands of applic...",
+      "published": "2026-04-08T17:00:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
-        "chaos": 14.1,
+        "chaos": 3.0,
         "anarchy": 3.0,
-        "overall": 8.5
+        "overall": 3.0
       },
       "keywords": {
-        "chaos": [
-          "disrupt"
-        ],
+        "chaos": [],
         "anarchy": []
       }
     },
     {
-      "title": "Ask HN: Why people still use GCP and AWS?",
-      "link": "https://news.ycombinator.com/item?id=47686453",
-      "summary": "<p>Cloudflare is so generous and provides almost everything\u2014 Workers, D1, CDN, KV, Durable Objects, Workers AI, S3 Compatible Storage (R2) & More!</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.yco...",
-      "published": "2026-04-08T07:13:47+00:00",
+      "title": "Anthropic's Claude Mythos Finds Thousands of Zero-Day Flaws Across Major Systems",
+      "link": "https://thehackernews.com/2026/04/anthropics-claude-mythos-finds.html",
+      "summary": "Artificial Intelligence (AI) company Anthropic announced a new cybersecurity initiative&nbsp;called Project&nbsp;Glasswing&nbsp;that&nbsp;will use a preview version of its new frontier model, Claude M...",
+      "published": "2026-04-08T14:46:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Ask HN: What's the state of multimodal prompt injection defence in 2026?",
+      "link": "https://news.ycombinator.com/item?id=47689822",
+      "summary": "<p>I've been researching multimodal prompt injection - attacks hidden in images, documents, and audio rather than text. Ran a structured test suite (225 attacks across 5 modalities) against a detectio...",
+      "published": "2026-04-08T13:18:11+00:00",
       "domain": "news.ycombinator.com",
       "scores": {
         "chaos": 3.0,
@@ -35,11 +49,11 @@
       }
     },
     {
-      "title": "Async logging doesn't remove cost \u2013 What limits?",
-      "link": "https://medium.com/@emishkurov/async-logging-is-not-a-silver-bullet-what-actually-limits-performance-90cd45f23c7b",
-      "summary": "<p>Article URL: <a href=\"https://medium.com/@emishkurov/async-logging-is-not-a-silver-bullet-what-actually-limits-performance-90cd45f23c7b\">https://medium.com/@emishkurov/async-logging-is-not-a-silver...",
-      "published": "2026-04-08T07:13:38+00:00",
-      "domain": "medium.com",
+      "title": "N. Korean Hackers Spread 1,700 Malicious Packages Across npm, PyPI, Go, Rust",
+      "link": "https://thehackernews.com/2026/04/n-korean-hackers-spread-1700-malicious.html",
+      "summary": "The North Korea-linked persistent campaign known&nbsp;as Contagious&nbsp;Interview has spread its tentacles by publishing malicious packages targeting the Go, Rust, and PHP ecosystems.\n\"The threat act...",
+      "published": "2026-04-08T13:17:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -51,11 +65,11 @@
       }
     },
     {
-      "title": "Over 10B Views What Are 'Fuse Beads'",
-      "link": "https://beadpattern.net/what-are-fuse-beads",
-      "summary": "<p>Article URL: <a href=\"https://beadpattern.net/what-are-fuse-beads\">https://beadpattern.net/what-are-fuse-beads</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47686443\">https...",
-      "published": "2026-04-08T07:12:43+00:00",
-      "domain": "beadpattern.net",
+      "title": "We're Drugging Ourselves with Dopamine",
+      "link": "https://www.wsj.com/opinion/free-expression/were-drugging-ourselves-with-dopamine-86091667",
+      "summary": "<p>Article URL: <a href=\"https://www.wsj.com/opinion/free-expression/were-drugging-ourselves-with-dopamine-86091667\">https://www.wsj.com/opinion/free-expression/were-drugging-ourselves-with-dopamine-8...",
+      "published": "2026-04-08T13:16:26+00:00",
+      "domain": "wsj.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -67,11 +81,11 @@
       }
     },
     {
-      "title": "C++: Freestanding Standard Library",
-      "link": "https://www.sandordargo.com/blog/2026/04/08/cpp-freestanding",
-      "summary": "<p>Article URL: <a href=\"https://www.sandordargo.com/blog/2026/04/08/cpp-freestanding\">https://www.sandordargo.com/blog/2026/04/08/cpp-freestanding</a></p>\n<p>Comments URL: <a href=\"https://news.ycomb...",
-      "published": "2026-04-08T07:10:02+00:00",
-      "domain": "sandordargo.com",
+      "title": "How Much Linear Memory Access Is Enough?",
+      "link": "https://solidean.com/blog/2026/how-much-linear-memory-access-is-enough/",
+      "summary": "<p>Article URL: <a href=\"https://solidean.com/blog/2026/how-much-linear-memory-access-is-enough/\">https://solidean.com/blog/2026/how-much-linear-memory-access-is-enough/</a></p>\n<p>Comments URL: <a hr...",
+      "published": "2026-04-08T13:16:19+00:00",
+      "domain": "solidean.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -83,11 +97,11 @@
       }
     },
     {
-      "title": "Visualizing Graph Structures Using Go and Graphviz",
-      "link": "https://dominik.info/blog/visualizing-graphs",
-      "summary": "<p>Article URL: <a href=\"https://dominik.info/blog/visualizing-graphs\">https://dominik.info/blog/visualizing-graphs</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47686429\">htt...",
-      "published": "2026-04-08T07:09:44+00:00",
-      "domain": "dominik.info",
+      "title": "AWAF \u2013 An open framework for scoring AI agent production readiness",
+      "link": "https://awaf.ai",
+      "summary": "<p>Article URL: <a href=\"https://awaf.ai\">https://awaf.ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47689776\">https://news.ycombinator.com/item?id=47689776</a></p>\n<p>Poin...",
+      "published": "2026-04-08T13:15:08+00:00",
+      "domain": "awaf.ai",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -99,11 +113,11 @@
       }
     },
     {
-      "title": "Sonnet 4.6 Elevated Rate of Errors",
-      "link": "https://status.claude.com/incidents/lhws0phdvzz3",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47686187\">Comments</a>...",
-      "published": "2026-04-08T06:34:54+00:00",
-      "domain": "status.claude.com",
+      "title": "QVeris: AI agents discover, inspect and call 10k capabilities via one protocol",
+      "link": "https://qveris.ai/",
+      "summary": "<p>Article URL: <a href=\"https://qveris.ai/\">https://qveris.ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47689773\">https://news.ycombinator.com/item?id=47689773</a></p>\n<...",
+      "published": "2026-04-08T13:14:49+00:00",
+      "domain": "qveris.ai",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -115,11 +129,11 @@
       }
     },
     {
-      "title": "Revision Demoparty 2026: Razor1911 [video]",
-      "link": "https://www.youtube.com/watch?v=Lw4W9V57SKs&t=5716s",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47685739\">Comments</a>...",
-      "published": "2026-04-08T05:34:08+00:00",
-      "domain": "youtube.com",
+      "title": "MegaTrain: Full Precision Training of 100B+ Parameter LLMs on a Single GPU",
+      "link": "https://arxiv.org/abs/2604.05091",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47689174\">Comments</a>...",
+      "published": "2026-04-08T12:19:00+00:00",
+      "domain": "arxiv.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -131,26 +145,10 @@
       }
     },
     {
-      "title": "Protect your shed",
-      "link": "https://dylanbutler.dev/blog/protect-your-shed/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47684514\">Comments</a>...",
-      "published": "2026-04-08T03:03:33+00:00",
-      "domain": "dylanbutler.dev",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Scientists Engineer \u201cTumor-Eating\u201d Bacteria That Devour Cancer From Within",
-      "link": "https://www.reddit.com/r/technology/comments/1sfgc2e/scientists_engineer_tumoreating_bacteria_that/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1sfgc2e/scientists_engineer_tumoreating_bacteria_that/\"> <img alt=\"Scientists Engineer \u201cTumor-Eating\u201d Bacteria That Devour Cancer...",
-      "published": "2026-04-08T02:25:34+00:00",
+      "title": "LinkedIn Hit With Class-Action Lawsuits Over Browser-Extension Scanning",
+      "link": "https://www.reddit.com/r/technology/comments/1sfopm6/linkedin_hit_with_classaction_lawsuits_over/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1sfopm6/linkedin_hit_with_classaction_lawsuits_over/\"> <img alt=\"LinkedIn Hit With Class-Action Lawsuits Over Browser-Extension S...",
+      "published": "2026-04-08T10:13:44+00:00",
       "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
@@ -165,28 +163,42 @@
   ],
   "anarchy_ranked": [
     {
-      "title": "Iran-Linked Hackers Disrupt U.S. Critical Infrastructure by Targeting Internet-Exposed PLCs",
-      "link": "https://thehackernews.com/2026/04/iran-linked-hackers-disrupt-us-critical.html",
-      "summary": "Iran-affiliated cyber actors are targeting internet-facing operational technology (OT) devices across critical infrastructures in the U.S., including programmable logic controllers (PLCs), cybersecuri...",
-      "published": "2026-04-08T09:53:00+05:30",
+      "title": "Shrinking the IAM Attack Surface through Identity Visibility and Intelligence Platforms (IVIP)",
+      "link": "https://thehackernews.com/2026/04/shrinking-iam-attack-surface-through.html",
+      "summary": "The Fragmented State of Modern Enterprise&nbsp;Identity\nEnterprise IAM is approaching a breaking point. As&nbsp;organizations scale, identity becomes increasingly fragmented across thousands of applic...",
+      "published": "2026-04-08T17:00:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
-        "chaos": 14.1,
+        "chaos": 3.0,
         "anarchy": 3.0,
-        "overall": 8.5
+        "overall": 3.0
       },
       "keywords": {
-        "chaos": [
-          "disrupt"
-        ],
+        "chaos": [],
         "anarchy": []
       }
     },
     {
-      "title": "Ask HN: Why people still use GCP and AWS?",
-      "link": "https://news.ycombinator.com/item?id=47686453",
-      "summary": "<p>Cloudflare is so generous and provides almost everything\u2014 Workers, D1, CDN, KV, Durable Objects, Workers AI, S3 Compatible Storage (R2) & More!</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.yco...",
-      "published": "2026-04-08T07:13:47+00:00",
+      "title": "Anthropic's Claude Mythos Finds Thousands of Zero-Day Flaws Across Major Systems",
+      "link": "https://thehackernews.com/2026/04/anthropics-claude-mythos-finds.html",
+      "summary": "Artificial Intelligence (AI) company Anthropic announced a new cybersecurity initiative&nbsp;called Project&nbsp;Glasswing&nbsp;that&nbsp;will use a preview version of its new frontier model, Claude M...",
+      "published": "2026-04-08T14:46:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Ask HN: What's the state of multimodal prompt injection defence in 2026?",
+      "link": "https://news.ycombinator.com/item?id=47689822",
+      "summary": "<p>I've been researching multimodal prompt injection - attacks hidden in images, documents, and audio rather than text. Ran a structured test suite (225 attacks across 5 modalities) against a detectio...",
+      "published": "2026-04-08T13:18:11+00:00",
       "domain": "news.ycombinator.com",
       "scores": {
         "chaos": 3.0,
@@ -199,11 +211,11 @@
       }
     },
     {
-      "title": "Async logging doesn't remove cost \u2013 What limits?",
-      "link": "https://medium.com/@emishkurov/async-logging-is-not-a-silver-bullet-what-actually-limits-performance-90cd45f23c7b",
-      "summary": "<p>Article URL: <a href=\"https://medium.com/@emishkurov/async-logging-is-not-a-silver-bullet-what-actually-limits-performance-90cd45f23c7b\">https://medium.com/@emishkurov/async-logging-is-not-a-silver...",
-      "published": "2026-04-08T07:13:38+00:00",
-      "domain": "medium.com",
+      "title": "N. Korean Hackers Spread 1,700 Malicious Packages Across npm, PyPI, Go, Rust",
+      "link": "https://thehackernews.com/2026/04/n-korean-hackers-spread-1700-malicious.html",
+      "summary": "The North Korea-linked persistent campaign known&nbsp;as Contagious&nbsp;Interview has spread its tentacles by publishing malicious packages targeting the Go, Rust, and PHP ecosystems.\n\"The threat act...",
+      "published": "2026-04-08T13:17:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -215,11 +227,11 @@
       }
     },
     {
-      "title": "Over 10B Views What Are 'Fuse Beads'",
-      "link": "https://beadpattern.net/what-are-fuse-beads",
-      "summary": "<p>Article URL: <a href=\"https://beadpattern.net/what-are-fuse-beads\">https://beadpattern.net/what-are-fuse-beads</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47686443\">https...",
-      "published": "2026-04-08T07:12:43+00:00",
-      "domain": "beadpattern.net",
+      "title": "We're Drugging Ourselves with Dopamine",
+      "link": "https://www.wsj.com/opinion/free-expression/were-drugging-ourselves-with-dopamine-86091667",
+      "summary": "<p>Article URL: <a href=\"https://www.wsj.com/opinion/free-expression/were-drugging-ourselves-with-dopamine-86091667\">https://www.wsj.com/opinion/free-expression/were-drugging-ourselves-with-dopamine-8...",
+      "published": "2026-04-08T13:16:26+00:00",
+      "domain": "wsj.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -231,11 +243,11 @@
       }
     },
     {
-      "title": "C++: Freestanding Standard Library",
-      "link": "https://www.sandordargo.com/blog/2026/04/08/cpp-freestanding",
-      "summary": "<p>Article URL: <a href=\"https://www.sandordargo.com/blog/2026/04/08/cpp-freestanding\">https://www.sandordargo.com/blog/2026/04/08/cpp-freestanding</a></p>\n<p>Comments URL: <a href=\"https://news.ycomb...",
-      "published": "2026-04-08T07:10:02+00:00",
-      "domain": "sandordargo.com",
+      "title": "How Much Linear Memory Access Is Enough?",
+      "link": "https://solidean.com/blog/2026/how-much-linear-memory-access-is-enough/",
+      "summary": "<p>Article URL: <a href=\"https://solidean.com/blog/2026/how-much-linear-memory-access-is-enough/\">https://solidean.com/blog/2026/how-much-linear-memory-access-is-enough/</a></p>\n<p>Comments URL: <a hr...",
+      "published": "2026-04-08T13:16:19+00:00",
+      "domain": "solidean.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -247,11 +259,11 @@
       }
     },
     {
-      "title": "Visualizing Graph Structures Using Go and Graphviz",
-      "link": "https://dominik.info/blog/visualizing-graphs",
-      "summary": "<p>Article URL: <a href=\"https://dominik.info/blog/visualizing-graphs\">https://dominik.info/blog/visualizing-graphs</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47686429\">htt...",
-      "published": "2026-04-08T07:09:44+00:00",
-      "domain": "dominik.info",
+      "title": "AWAF \u2013 An open framework for scoring AI agent production readiness",
+      "link": "https://awaf.ai",
+      "summary": "<p>Article URL: <a href=\"https://awaf.ai\">https://awaf.ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47689776\">https://news.ycombinator.com/item?id=47689776</a></p>\n<p>Poin...",
+      "published": "2026-04-08T13:15:08+00:00",
+      "domain": "awaf.ai",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -263,11 +275,11 @@
       }
     },
     {
-      "title": "Sonnet 4.6 Elevated Rate of Errors",
-      "link": "https://status.claude.com/incidents/lhws0phdvzz3",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47686187\">Comments</a>...",
-      "published": "2026-04-08T06:34:54+00:00",
-      "domain": "status.claude.com",
+      "title": "QVeris: AI agents discover, inspect and call 10k capabilities via one protocol",
+      "link": "https://qveris.ai/",
+      "summary": "<p>Article URL: <a href=\"https://qveris.ai/\">https://qveris.ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47689773\">https://news.ycombinator.com/item?id=47689773</a></p>\n<...",
+      "published": "2026-04-08T13:14:49+00:00",
+      "domain": "qveris.ai",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -279,11 +291,11 @@
       }
     },
     {
-      "title": "Revision Demoparty 2026: Razor1911 [video]",
-      "link": "https://www.youtube.com/watch?v=Lw4W9V57SKs&t=5716s",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47685739\">Comments</a>...",
-      "published": "2026-04-08T05:34:08+00:00",
-      "domain": "youtube.com",
+      "title": "MegaTrain: Full Precision Training of 100B+ Parameter LLMs on a Single GPU",
+      "link": "https://arxiv.org/abs/2604.05091",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47689174\">Comments</a>...",
+      "published": "2026-04-08T12:19:00+00:00",
+      "domain": "arxiv.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -295,26 +307,10 @@
       }
     },
     {
-      "title": "Protect your shed",
-      "link": "https://dylanbutler.dev/blog/protect-your-shed/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47684514\">Comments</a>...",
-      "published": "2026-04-08T03:03:33+00:00",
-      "domain": "dylanbutler.dev",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Scientists Engineer \u201cTumor-Eating\u201d Bacteria That Devour Cancer From Within",
-      "link": "https://www.reddit.com/r/technology/comments/1sfgc2e/scientists_engineer_tumoreating_bacteria_that/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1sfgc2e/scientists_engineer_tumoreating_bacteria_that/\"> <img alt=\"Scientists Engineer \u201cTumor-Eating\u201d Bacteria That Devour Cancer...",
-      "published": "2026-04-08T02:25:34+00:00",
+      "title": "LinkedIn Hit With Class-Action Lawsuits Over Browser-Extension Scanning",
+      "link": "https://www.reddit.com/r/technology/comments/1sfopm6/linkedin_hit_with_classaction_lawsuits_over/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1sfopm6/linkedin_hit_with_classaction_lawsuits_over/\"> <img alt=\"LinkedIn Hit With Class-Action Lawsuits Over Browser-Extension S...",
+      "published": "2026-04-08T10:13:44+00:00",
       "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
@@ -329,28 +325,42 @@
   ],
   "overall_ranked": [
     {
-      "title": "Iran-Linked Hackers Disrupt U.S. Critical Infrastructure by Targeting Internet-Exposed PLCs",
-      "link": "https://thehackernews.com/2026/04/iran-linked-hackers-disrupt-us-critical.html",
-      "summary": "Iran-affiliated cyber actors are targeting internet-facing operational technology (OT) devices across critical infrastructures in the U.S., including programmable logic controllers (PLCs), cybersecuri...",
-      "published": "2026-04-08T09:53:00+05:30",
+      "title": "Shrinking the IAM Attack Surface through Identity Visibility and Intelligence Platforms (IVIP)",
+      "link": "https://thehackernews.com/2026/04/shrinking-iam-attack-surface-through.html",
+      "summary": "The Fragmented State of Modern Enterprise&nbsp;Identity\nEnterprise IAM is approaching a breaking point. As&nbsp;organizations scale, identity becomes increasingly fragmented across thousands of applic...",
+      "published": "2026-04-08T17:00:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
-        "chaos": 14.1,
+        "chaos": 3.0,
         "anarchy": 3.0,
-        "overall": 8.5
+        "overall": 3.0
       },
       "keywords": {
-        "chaos": [
-          "disrupt"
-        ],
+        "chaos": [],
         "anarchy": []
       }
     },
     {
-      "title": "Ask HN: Why people still use GCP and AWS?",
-      "link": "https://news.ycombinator.com/item?id=47686453",
-      "summary": "<p>Cloudflare is so generous and provides almost everything\u2014 Workers, D1, CDN, KV, Durable Objects, Workers AI, S3 Compatible Storage (R2) & More!</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.yco...",
-      "published": "2026-04-08T07:13:47+00:00",
+      "title": "Anthropic's Claude Mythos Finds Thousands of Zero-Day Flaws Across Major Systems",
+      "link": "https://thehackernews.com/2026/04/anthropics-claude-mythos-finds.html",
+      "summary": "Artificial Intelligence (AI) company Anthropic announced a new cybersecurity initiative&nbsp;called Project&nbsp;Glasswing&nbsp;that&nbsp;will use a preview version of its new frontier model, Claude M...",
+      "published": "2026-04-08T14:46:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Ask HN: What's the state of multimodal prompt injection defence in 2026?",
+      "link": "https://news.ycombinator.com/item?id=47689822",
+      "summary": "<p>I've been researching multimodal prompt injection - attacks hidden in images, documents, and audio rather than text. Ran a structured test suite (225 attacks across 5 modalities) against a detectio...",
+      "published": "2026-04-08T13:18:11+00:00",
       "domain": "news.ycombinator.com",
       "scores": {
         "chaos": 3.0,
@@ -363,11 +373,11 @@
       }
     },
     {
-      "title": "Async logging doesn't remove cost \u2013 What limits?",
-      "link": "https://medium.com/@emishkurov/async-logging-is-not-a-silver-bullet-what-actually-limits-performance-90cd45f23c7b",
-      "summary": "<p>Article URL: <a href=\"https://medium.com/@emishkurov/async-logging-is-not-a-silver-bullet-what-actually-limits-performance-90cd45f23c7b\">https://medium.com/@emishkurov/async-logging-is-not-a-silver...",
-      "published": "2026-04-08T07:13:38+00:00",
-      "domain": "medium.com",
+      "title": "N. Korean Hackers Spread 1,700 Malicious Packages Across npm, PyPI, Go, Rust",
+      "link": "https://thehackernews.com/2026/04/n-korean-hackers-spread-1700-malicious.html",
+      "summary": "The North Korea-linked persistent campaign known&nbsp;as Contagious&nbsp;Interview has spread its tentacles by publishing malicious packages targeting the Go, Rust, and PHP ecosystems.\n\"The threat act...",
+      "published": "2026-04-08T13:17:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -379,11 +389,11 @@
       }
     },
     {
-      "title": "Over 10B Views What Are 'Fuse Beads'",
-      "link": "https://beadpattern.net/what-are-fuse-beads",
-      "summary": "<p>Article URL: <a href=\"https://beadpattern.net/what-are-fuse-beads\">https://beadpattern.net/what-are-fuse-beads</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47686443\">https...",
-      "published": "2026-04-08T07:12:43+00:00",
-      "domain": "beadpattern.net",
+      "title": "We're Drugging Ourselves with Dopamine",
+      "link": "https://www.wsj.com/opinion/free-expression/were-drugging-ourselves-with-dopamine-86091667",
+      "summary": "<p>Article URL: <a href=\"https://www.wsj.com/opinion/free-expression/were-drugging-ourselves-with-dopamine-86091667\">https://www.wsj.com/opinion/free-expression/were-drugging-ourselves-with-dopamine-8...",
+      "published": "2026-04-08T13:16:26+00:00",
+      "domain": "wsj.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -395,11 +405,11 @@
       }
     },
     {
-      "title": "C++: Freestanding Standard Library",
-      "link": "https://www.sandordargo.com/blog/2026/04/08/cpp-freestanding",
-      "summary": "<p>Article URL: <a href=\"https://www.sandordargo.com/blog/2026/04/08/cpp-freestanding\">https://www.sandordargo.com/blog/2026/04/08/cpp-freestanding</a></p>\n<p>Comments URL: <a href=\"https://news.ycomb...",
-      "published": "2026-04-08T07:10:02+00:00",
-      "domain": "sandordargo.com",
+      "title": "How Much Linear Memory Access Is Enough?",
+      "link": "https://solidean.com/blog/2026/how-much-linear-memory-access-is-enough/",
+      "summary": "<p>Article URL: <a href=\"https://solidean.com/blog/2026/how-much-linear-memory-access-is-enough/\">https://solidean.com/blog/2026/how-much-linear-memory-access-is-enough/</a></p>\n<p>Comments URL: <a hr...",
+      "published": "2026-04-08T13:16:19+00:00",
+      "domain": "solidean.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -411,11 +421,11 @@
       }
     },
     {
-      "title": "Visualizing Graph Structures Using Go and Graphviz",
-      "link": "https://dominik.info/blog/visualizing-graphs",
-      "summary": "<p>Article URL: <a href=\"https://dominik.info/blog/visualizing-graphs\">https://dominik.info/blog/visualizing-graphs</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47686429\">htt...",
-      "published": "2026-04-08T07:09:44+00:00",
-      "domain": "dominik.info",
+      "title": "AWAF \u2013 An open framework for scoring AI agent production readiness",
+      "link": "https://awaf.ai",
+      "summary": "<p>Article URL: <a href=\"https://awaf.ai\">https://awaf.ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47689776\">https://news.ycombinator.com/item?id=47689776</a></p>\n<p>Poin...",
+      "published": "2026-04-08T13:15:08+00:00",
+      "domain": "awaf.ai",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -427,11 +437,11 @@
       }
     },
     {
-      "title": "Sonnet 4.6 Elevated Rate of Errors",
-      "link": "https://status.claude.com/incidents/lhws0phdvzz3",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47686187\">Comments</a>...",
-      "published": "2026-04-08T06:34:54+00:00",
-      "domain": "status.claude.com",
+      "title": "QVeris: AI agents discover, inspect and call 10k capabilities via one protocol",
+      "link": "https://qveris.ai/",
+      "summary": "<p>Article URL: <a href=\"https://qveris.ai/\">https://qveris.ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47689773\">https://news.ycombinator.com/item?id=47689773</a></p>\n<...",
+      "published": "2026-04-08T13:14:49+00:00",
+      "domain": "qveris.ai",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -443,11 +453,11 @@
       }
     },
     {
-      "title": "Revision Demoparty 2026: Razor1911 [video]",
-      "link": "https://www.youtube.com/watch?v=Lw4W9V57SKs&t=5716s",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47685739\">Comments</a>...",
-      "published": "2026-04-08T05:34:08+00:00",
-      "domain": "youtube.com",
+      "title": "MegaTrain: Full Precision Training of 100B+ Parameter LLMs on a Single GPU",
+      "link": "https://arxiv.org/abs/2604.05091",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47689174\">Comments</a>...",
+      "published": "2026-04-08T12:19:00+00:00",
+      "domain": "arxiv.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -459,26 +469,10 @@
       }
     },
     {
-      "title": "Protect your shed",
-      "link": "https://dylanbutler.dev/blog/protect-your-shed/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47684514\">Comments</a>...",
-      "published": "2026-04-08T03:03:33+00:00",
-      "domain": "dylanbutler.dev",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Scientists Engineer \u201cTumor-Eating\u201d Bacteria That Devour Cancer From Within",
-      "link": "https://www.reddit.com/r/technology/comments/1sfgc2e/scientists_engineer_tumoreating_bacteria_that/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1sfgc2e/scientists_engineer_tumoreating_bacteria_that/\"> <img alt=\"Scientists Engineer \u201cTumor-Eating\u201d Bacteria That Devour Cancer...",
-      "published": "2026-04-08T02:25:34+00:00",
+      "title": "LinkedIn Hit With Class-Action Lawsuits Over Browser-Extension Scanning",
+      "link": "https://www.reddit.com/r/technology/comments/1sfopm6/linkedin_hit_with_classaction_lawsuits_over/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1sfopm6/linkedin_hit_with_classaction_lawsuits_over/\"> <img alt=\"LinkedIn Hit With Class-Action Lawsuits Over Browser-Extension S...",
+      "published": "2026-04-08T10:13:44+00:00",
       "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
@@ -493,28 +487,42 @@
   ],
   "all_articles": [
     {
-      "title": "Iran-Linked Hackers Disrupt U.S. Critical Infrastructure by Targeting Internet-Exposed PLCs",
-      "link": "https://thehackernews.com/2026/04/iran-linked-hackers-disrupt-us-critical.html",
-      "summary": "Iran-affiliated cyber actors are targeting internet-facing operational technology (OT) devices across critical infrastructures in the U.S., including programmable logic controllers (PLCs), cybersecuri...",
-      "published": "2026-04-08T09:53:00+05:30",
+      "title": "Shrinking the IAM Attack Surface through Identity Visibility and Intelligence Platforms (IVIP)",
+      "link": "https://thehackernews.com/2026/04/shrinking-iam-attack-surface-through.html",
+      "summary": "The Fragmented State of Modern Enterprise&nbsp;Identity\nEnterprise IAM is approaching a breaking point. As&nbsp;organizations scale, identity becomes increasingly fragmented across thousands of applic...",
+      "published": "2026-04-08T17:00:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
-        "chaos": 14.1,
+        "chaos": 3.0,
         "anarchy": 3.0,
-        "overall": 8.5
+        "overall": 3.0
       },
       "keywords": {
-        "chaos": [
-          "disrupt"
-        ],
+        "chaos": [],
         "anarchy": []
       }
     },
     {
-      "title": "Ask HN: Why people still use GCP and AWS?",
-      "link": "https://news.ycombinator.com/item?id=47686453",
-      "summary": "<p>Cloudflare is so generous and provides almost everything\u2014 Workers, D1, CDN, KV, Durable Objects, Workers AI, S3 Compatible Storage (R2) & More!</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.yco...",
-      "published": "2026-04-08T07:13:47+00:00",
+      "title": "Anthropic's Claude Mythos Finds Thousands of Zero-Day Flaws Across Major Systems",
+      "link": "https://thehackernews.com/2026/04/anthropics-claude-mythos-finds.html",
+      "summary": "Artificial Intelligence (AI) company Anthropic announced a new cybersecurity initiative&nbsp;called Project&nbsp;Glasswing&nbsp;that&nbsp;will use a preview version of its new frontier model, Claude M...",
+      "published": "2026-04-08T14:46:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Ask HN: What's the state of multimodal prompt injection defence in 2026?",
+      "link": "https://news.ycombinator.com/item?id=47689822",
+      "summary": "<p>I've been researching multimodal prompt injection - attacks hidden in images, documents, and audio rather than text. Ran a structured test suite (225 attacks across 5 modalities) against a detectio...",
+      "published": "2026-04-08T13:18:11+00:00",
       "domain": "news.ycombinator.com",
       "scores": {
         "chaos": 3.0,
@@ -527,11 +535,11 @@
       }
     },
     {
-      "title": "Async logging doesn't remove cost \u2013 What limits?",
-      "link": "https://medium.com/@emishkurov/async-logging-is-not-a-silver-bullet-what-actually-limits-performance-90cd45f23c7b",
-      "summary": "<p>Article URL: <a href=\"https://medium.com/@emishkurov/async-logging-is-not-a-silver-bullet-what-actually-limits-performance-90cd45f23c7b\">https://medium.com/@emishkurov/async-logging-is-not-a-silver...",
-      "published": "2026-04-08T07:13:38+00:00",
-      "domain": "medium.com",
+      "title": "N. Korean Hackers Spread 1,700 Malicious Packages Across npm, PyPI, Go, Rust",
+      "link": "https://thehackernews.com/2026/04/n-korean-hackers-spread-1700-malicious.html",
+      "summary": "The North Korea-linked persistent campaign known&nbsp;as Contagious&nbsp;Interview has spread its tentacles by publishing malicious packages targeting the Go, Rust, and PHP ecosystems.\n\"The threat act...",
+      "published": "2026-04-08T13:17:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -543,11 +551,11 @@
       }
     },
     {
-      "title": "Over 10B Views What Are 'Fuse Beads'",
-      "link": "https://beadpattern.net/what-are-fuse-beads",
-      "summary": "<p>Article URL: <a href=\"https://beadpattern.net/what-are-fuse-beads\">https://beadpattern.net/what-are-fuse-beads</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47686443\">https...",
-      "published": "2026-04-08T07:12:43+00:00",
-      "domain": "beadpattern.net",
+      "title": "We're Drugging Ourselves with Dopamine",
+      "link": "https://www.wsj.com/opinion/free-expression/were-drugging-ourselves-with-dopamine-86091667",
+      "summary": "<p>Article URL: <a href=\"https://www.wsj.com/opinion/free-expression/were-drugging-ourselves-with-dopamine-86091667\">https://www.wsj.com/opinion/free-expression/were-drugging-ourselves-with-dopamine-8...",
+      "published": "2026-04-08T13:16:26+00:00",
+      "domain": "wsj.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -559,11 +567,11 @@
       }
     },
     {
-      "title": "C++: Freestanding Standard Library",
-      "link": "https://www.sandordargo.com/blog/2026/04/08/cpp-freestanding",
-      "summary": "<p>Article URL: <a href=\"https://www.sandordargo.com/blog/2026/04/08/cpp-freestanding\">https://www.sandordargo.com/blog/2026/04/08/cpp-freestanding</a></p>\n<p>Comments URL: <a href=\"https://news.ycomb...",
-      "published": "2026-04-08T07:10:02+00:00",
-      "domain": "sandordargo.com",
+      "title": "How Much Linear Memory Access Is Enough?",
+      "link": "https://solidean.com/blog/2026/how-much-linear-memory-access-is-enough/",
+      "summary": "<p>Article URL: <a href=\"https://solidean.com/blog/2026/how-much-linear-memory-access-is-enough/\">https://solidean.com/blog/2026/how-much-linear-memory-access-is-enough/</a></p>\n<p>Comments URL: <a hr...",
+      "published": "2026-04-08T13:16:19+00:00",
+      "domain": "solidean.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -575,11 +583,11 @@
       }
     },
     {
-      "title": "Visualizing Graph Structures Using Go and Graphviz",
-      "link": "https://dominik.info/blog/visualizing-graphs",
-      "summary": "<p>Article URL: <a href=\"https://dominik.info/blog/visualizing-graphs\">https://dominik.info/blog/visualizing-graphs</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47686429\">htt...",
-      "published": "2026-04-08T07:09:44+00:00",
-      "domain": "dominik.info",
+      "title": "AWAF \u2013 An open framework for scoring AI agent production readiness",
+      "link": "https://awaf.ai",
+      "summary": "<p>Article URL: <a href=\"https://awaf.ai\">https://awaf.ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47689776\">https://news.ycombinator.com/item?id=47689776</a></p>\n<p>Poin...",
+      "published": "2026-04-08T13:15:08+00:00",
+      "domain": "awaf.ai",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -591,11 +599,11 @@
       }
     },
     {
-      "title": "Sonnet 4.6 Elevated Rate of Errors",
-      "link": "https://status.claude.com/incidents/lhws0phdvzz3",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47686187\">Comments</a>...",
-      "published": "2026-04-08T06:34:54+00:00",
-      "domain": "status.claude.com",
+      "title": "QVeris: AI agents discover, inspect and call 10k capabilities via one protocol",
+      "link": "https://qveris.ai/",
+      "summary": "<p>Article URL: <a href=\"https://qveris.ai/\">https://qveris.ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47689773\">https://news.ycombinator.com/item?id=47689773</a></p>\n<...",
+      "published": "2026-04-08T13:14:49+00:00",
+      "domain": "qveris.ai",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -607,11 +615,11 @@
       }
     },
     {
-      "title": "Revision Demoparty 2026: Razor1911 [video]",
-      "link": "https://www.youtube.com/watch?v=Lw4W9V57SKs&t=5716s",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47685739\">Comments</a>...",
-      "published": "2026-04-08T05:34:08+00:00",
-      "domain": "youtube.com",
+      "title": "MegaTrain: Full Precision Training of 100B+ Parameter LLMs on a Single GPU",
+      "link": "https://arxiv.org/abs/2604.05091",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47689174\">Comments</a>...",
+      "published": "2026-04-08T12:19:00+00:00",
+      "domain": "arxiv.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -623,26 +631,10 @@
       }
     },
     {
-      "title": "Protect your shed",
-      "link": "https://dylanbutler.dev/blog/protect-your-shed/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47684514\">Comments</a>...",
-      "published": "2026-04-08T03:03:33+00:00",
-      "domain": "dylanbutler.dev",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Scientists Engineer \u201cTumor-Eating\u201d Bacteria That Devour Cancer From Within",
-      "link": "https://www.reddit.com/r/technology/comments/1sfgc2e/scientists_engineer_tumoreating_bacteria_that/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1sfgc2e/scientists_engineer_tumoreating_bacteria_that/\"> <img alt=\"Scientists Engineer \u201cTumor-Eating\u201d Bacteria That Devour Cancer...",
-      "published": "2026-04-08T02:25:34+00:00",
+      "title": "LinkedIn Hit With Class-Action Lawsuits Over Browser-Extension Scanning",
+      "link": "https://www.reddit.com/r/technology/comments/1sfopm6/linkedin_hit_with_classaction_lawsuits_over/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1sfopm6/linkedin_hit_with_classaction_lawsuits_over/\"> <img alt=\"LinkedIn Hit With Class-Action Lawsuits Over Browser-Extension S...",
+      "published": "2026-04-08T10:13:44+00:00",
       "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,

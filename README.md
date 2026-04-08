@@ -16,18 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Iran-Linked Hackers Disrupt U.S. Critical Infrastructure by Targeting Internet-Exposed PLCs
+### Shrinking the IAM Attack Surface through Identity Visibility and Intelligence Platforms (IVIP)
 - **Published**: April 08, 2026
-- **Summary**: Iran-affiliated cyber actors are targeting internet-facing operational technology (OT) devices across critical infrastructures in the U.S., including ...
-- **Keywords**: disrupt
-- [Read more](https://thehackernews.com/2026/04/iran-linked-hackers-disrupt-us-critical.html)
+- **Summary**: The Fragmented State of Modern Enterprise&nbsp;Identity
+Enterprise IAM is approaching a breaking point. As&nbsp;organizations scale, identity becomes ...
+- [Read more](https://thehackernews.com/2026/04/shrinking-iam-attack-surface-through.html)
 
-### Ask HN: Why people still use GCP and AWS?
+### Anthropic's Claude Mythos Finds Thousands of Zero-Day Flaws Across Major Systems
 - **Published**: April 08, 2026
-- **Summary**: 
-<hr />
-<p>Comments URL: <a href="https://news.yco......
-- [Read more](https://news.ycombinator.com/item?id=47686453)
+- **Summary**: Artificial Intelligence (AI) company Anthropic announced a new cybersecurity initiative&nbsp;called Project&nbsp;Glasswing&nbsp;that&nbsp;will use a p...
+- [Read more](https://thehackernews.com/2026/04/anthropics-claude-mythos-finds.html)
 
 ---
 
