@@ -16,18 +16,18 @@
 
 ## 🚨 Tech Stories
 
-### Phillips Machine
+### Iran-Linked Hackers Disrupt U.S. Critical Infrastructure by Targeting Internet-Exposed PLCs
 - **Published**: April 08, 2026
-- **Summary**: https://en.wikipedia.org/wiki/Phillips_Machine</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47684219"......
-- [Read more](https://en.wikipedia.org/wiki/Phillips_Machine)
+- **Summary**: Iran-affiliated cyber actors are targeting internet-facing operational technology (OT) devices across critical infrastructures in the U.S., including ...
+- **Keywords**: disrupt
+- [Read more](https://thehackernews.com/2026/04/iran-linked-hackers-disrupt-us-critical.html)
 
-### Show HN: Mdstitch – NPM for Markdown Files
+### Ask HN: Why people still use GCP and AWS?
 - **Published**: April 08, 2026
-- **Summary**: Would love feedback!</p>
+- **Summary**: 
 <hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47684210">ht......
-- [Read more](https://github.com/tannerjames711/mdstitch)
+<p>Comments URL: <a href="https://news.yco......
+- [Read more](https://news.ycombinator.com/item?id=47686453)
 
 ---
 
