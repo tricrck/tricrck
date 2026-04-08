@@ -16,15 +16,18 @@
 
 ## 🚨 Tech Stories
 
-### Russian State-Linked APT28 Exploits SOHO Routers in Global DNS Hijacking Campaign
-- **Published**: April 07, 2026
-- **Summary**: The Russia-linked threat actor known&nbsp;as APT28 (aka Forest Blizzard) has been linked to a new campaign that has compromised insecure MikroTik and ...
-- [Read more](https://thehackernews.com/2026/04/russian-state-linked-apt28-exploits.html)
+### Phillips Machine
+- **Published**: April 08, 2026
+- **Summary**: https://en.wikipedia.org/wiki/Phillips_Machine</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47684219"......
+- [Read more](https://en.wikipedia.org/wiki/Phillips_Machine)
 
-### [Webinar] How to Close Identity Gaps in 2026 Before AI Exploits Enterprise Risk
-- **Published**: April 07, 2026
-- **Summary**: In&nbsp;the rapid evolution of&nbsp;the 2026 threat landscape, a frustrating paradox has emerged for CISOs and security&nbsp;leaders: Identity program...
-- [Read more](https://thehackernews.com/2026/04/webinar-how-to-close-identity-gaps-in.html)
+### Show HN: Mdstitch – NPM for Markdown Files
+- **Published**: April 08, 2026
+- **Summary**: Would love feedback!</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47684210">ht......
+- [Read more](https://github.com/tannerjames711/mdstitch)
 
 ---
 
