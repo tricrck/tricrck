@@ -22,11 +22,10 @@
 - **Keywords**: chaos
 - [Read more](https://thehackernews.com/2026/04/new-chaos-variant-targets-misconfigured.html)
 
-### Harness engineering for coding agent users
+### One Million Prompt – $1 per block, AI generates collective art daily
 - **Published**: April 09, 2026
-- **Summary**: https://martinfowler.com/articles/harness-engineering.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinat......
-- [Read more](https://martinfowler.com/articles/harness-engineering.html)
+- **Summary**: <p>In 2005, Alex Tew sold 1 million pixels for $1 each and made internet history.<p>In 2026, I built the AI version — One Million Prompt. Every block ...
+- [Read more](https://news.ycombinator.com/item?id=47700353)
 
 ---
 
