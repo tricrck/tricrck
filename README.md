@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### ThreatsDay Bulletin: Hybrid P2P Botnet, 13-Year-Old Apache RCE and 18 More Stories
+### UAT-10362 Targets Taiwanese NGOs with LucidRook Malware in Spear-Phishing Campaigns
 - **Published**: April 09, 2026
-- **Summary**: Thursday. Another week, another batch of things that probably should've been caught sooner but&nbsp;weren't.
-This&nbsp;one's got some range — old vuln...
-- [Read more](https://thehackernews.com/2026/04/threatsday-bulletin-hybrid-p2p-botnet.html)
+- **Summary**: A previously undocumented threat cluster&nbsp;dubbed UAT-10362 has been attributed to spear-phishing campaigns targeting Taiwanese non-governmental or...
+- [Read more](https://thehackernews.com/2026/04/uat-10362-targets-taiwanese-ngos-with.html)
 
-### The Hidden Security Risks of Shadow AI in Enterprises
+### Screenshots from developers and Unix people taken in 2002
 - **Published**: April 09, 2026
-- **Summary**: As&nbsp;AI tools become more accessible, employees are adopting them without formal approval from IT and security teams. While&nbsp;these tools may bo...
-- [Read more](https://thehackernews.com/2026/04/the-hidden-security-risks-of-shadow-ai.html)
+- **Summary**: https://anders.unix.se/2015/10/28/screenshots-from-developers--unix-people-2002/</a></p>
+<p>C......
+- [Read more](https://anders.unix.se/2015/10/28/screenshots-from-developers--unix-people-2002/)
 
 ---
 
