@@ -22,11 +22,11 @@
 - **Keywords**: chaos
 - [Read more](https://thehackernews.com/2026/04/new-chaos-variant-targets-misconfigured.html)
 
-### Masjesu Botnet Emerges as DDoS-for-Hire Service Targeting Global IoT Devices
-- **Published**: April 08, 2026
-- **Summary**: Cybersecurity researchers have lifted the curtain on a stealthy botnet that's designed for distributed denial-of-service (DDoS)&nbsp;attacks.
-Called M...
-- [Read more](https://thehackernews.com/2026/04/masjesu-botnet-emerges-as-ddos-for-hire.html)
+### Harness engineering for coding agent users
+- **Published**: April 09, 2026
+- **Summary**: https://martinfowler.com/articles/harness-engineering.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinat......
+- [Read more](https://martinfowler.com/articles/harness-engineering.html)
 
 ---
 
