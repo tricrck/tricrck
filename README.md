@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### New Chaos Variant Targets Misconfigured Cloud Deployments, Adds SOCKS Proxy
-- **Published**: April 08, 2026
-- **Summary**: Cybersecurity researchers have flagged a new variant&nbsp;ofmalware&nbsp;called Chaosthat'scapable of&nbsp;hitting misconfigured cloud deployments, ma...
-- **Keywords**: chaos
-- [Read more](https://thehackernews.com/2026/04/new-chaos-variant-targets-misconfigured.html)
-
-### One Million Prompt – $1 per block, AI generates collective art daily
+### ThreatsDay Bulletin: Hybrid P2P Botnet, 13-Year-Old Apache RCE and 18 More Stories
 - **Published**: April 09, 2026
-- **Summary**: <p>In 2005, Alex Tew sold 1 million pixels for $1 each and made internet history.<p>In 2026, I built the AI version — One Million Prompt. Every block ...
-- [Read more](https://news.ycombinator.com/item?id=47700353)
+- **Summary**: Thursday. Another week, another batch of things that probably should've been caught sooner but&nbsp;weren't.
+This&nbsp;one's got some range — old vuln...
+- [Read more](https://thehackernews.com/2026/04/threatsday-bulletin-hybrid-p2p-botnet.html)
+
+### The Hidden Security Risks of Shadow AI in Enterprises
+- **Published**: April 09, 2026
+- **Summary**: As&nbsp;AI tools become more accessible, employees are adopting them without formal approval from IT and security teams. While&nbsp;these tools may bo...
+- [Read more](https://thehackernews.com/2026/04/the-hidden-security-risks-of-shadow-ai.html)
 
 ---
 
