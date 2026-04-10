@@ -16,16 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### UAT-10362 Targets Taiwanese NGOs with LucidRook Malware in Spear-Phishing Campaigns
-- **Published**: April 09, 2026
-- **Summary**: A previously undocumented threat cluster&nbsp;dubbed UAT-10362 has been attributed to spear-phishing campaigns targeting Taiwanese non-governmental or...
-- [Read more](https://thehackernews.com/2026/04/uat-10362-targets-taiwanese-ngos-with.html)
+### Multica the open-source managed agents platform
+- **Published**: April 10, 2026
+- **Summary**: https://github.com/multica-ai/multica</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47712899">https://news.ycom......
+- [Read more](https://github.com/multica-ai/multica)
 
-### Screenshots from developers and Unix people taken in 2002
-- **Published**: April 09, 2026
-- **Summary**: https://anders.unix.se/2015/10/28/screenshots-from-developers--unix-people-2002/</a></p>
-<p>C......
-- [Read more](https://anders.unix.se/2015/10/28/screenshots-from-developers--unix-people-2002/)
+### Choose Optimism
+- **Published**: April 10, 2026
+- **Summary**: https://stephango.com/optimism</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47712844">https://news.ycombinator.com/it......
+- [Read more](https://stephango.com/optimism)
 
 ---
 
