@@ -16,17 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Multica the open-source managed agents platform
+### Backdoored Smart Slider 3 Pro Update Distributed via Compromised Nextend Servers
 - **Published**: April 10, 2026
-- **Summary**: https://github.com/multica-ai/multica</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47712899">https://news.ycom......
-- [Read more](https://github.com/multica-ai/multica)
+- **Summary**: Unknown threat actors have hijacked the update system for the Smart Slider 3 Pro plugin for WordPress and Joomla to push a poisoned version containing...
+- [Read more](https://thehackernews.com/2026/04/backdoored-smart-slider-3-pro-update.html)
 
-### Choose Optimism
+### Show HN: Run GUIs as Scripts
 - **Published**: April 10, 2026
-- **Summary**: https://stephango.com/optimism</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47712844">https://news.ycombinator.com/it......
-- [Read more](https://stephango.com/optimism)
+- **Summary**: <p>Hi there, Zero Stars here.<p>I recently published some new work to Hokusai Pocket, which is a cross-platform binary made on top of raylib and MRuby...
+- [Read more](https://github.com/skinnyjames/hokusai-pocket)
 
 ---
 
