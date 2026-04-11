@@ -16,18 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Ray-tracing–guided myopic LASIK
-- **Published**: April 10, 2026
-- **Summary**: https://lww.com/_layouts/1033/OAKS.Journals/Error/JavaScript.html</a></p>
-<p>Comments URL: <a href="https://......
-- **Keywords**: error, error
-- [Read more](https://lww.com/_layouts/1033/OAKS.Journals/Error/JavaScript.html)
-
-### Amazon Luna Shuts Down without refunds?
-- **Published**: April 10, 2026
-- **Summary**: <p>Just received this email from Luna:<p>Thank you for being part of the Amazon Luna community – it truly means a lot to us! We’re reaching out to sha...
+### Artemis II safely splashes down
+- **Published**: April 11, 2026
+- **Summary**: ......
 - **Keywords**: down
-- [Read more](https://news.ycombinator.com/item?id=47722062)
+- [Read more](https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/)
+
+### Relics of an ancient sandstorm on Mars point to Earth-like winds
+- **Published**: April 11, 2026
+- **Summary**: https://www.science.org/content/article/relics-ancient-sandstorm-mars-point-earth-wind......
+- [Read more](https://www.science.org/content/article/relics-ancient-sandstorm-mars-point-earth-winds)
 
 ---
 
