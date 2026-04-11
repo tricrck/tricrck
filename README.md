@@ -16,15 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Show HN: I'm organizing a vibe coding game dev competition
+### Andromeda Invaders: A retro-style game written in HTML5, Canvas and Web Audio
 - **Published**: April 11, 2026
-- **Summary**: <p>Hi everyone,<p>I just saw a vibe coded game on HN, and thought maybe I should post about this here.<p>I'm organizing a vibe coding game dev competi...
-- [Read more](https://vibej.am/2026/)
+- **Summary**: https://codeberg.org/susam/invaders</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47732983">https://news.ycombina......
+- [Read more](https://codeberg.org/susam/invaders)
 
-### Iran war volatility is driving oil trading boom on Hyperliquid, says JPMorgan
+### Vultr – VPS without DMCA annoyances
 - **Published**: April 11, 2026
-- **Summary**: https://www.coindesk.com/business/2026/03/20/iran-wa......
-- [Read more](https://www.coindesk.com/business/2026/03/20/iran-war-volatility-is-driving-oil-trading-boom-on-hyperliquid-says-jpmorgan)
+- **Summary**: https://www.vultr.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47732977">https://news.ycombinator.com/item?id=47732977<...
+- [Read more](https://www.vultr.com/)
 
 ---
 
