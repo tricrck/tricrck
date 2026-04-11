@@ -22,10 +22,11 @@
 - **Keywords**: down
 - [Read more](https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/)
 
-### Relics of an ancient sandstorm on Mars point to Earth-like winds
+### Pulsar – Lightweight cross-platform GUI for FFmpeg and yt-dlp, built with Tauri
 - **Published**: April 11, 2026
-- **Summary**: https://www.science.org/content/article/relics-ancient-sandstorm-mars-point-earth-wind......
-- [Read more](https://www.science.org/content/article/relics-ancient-sandstorm-mars-point-earth-winds)
+- **Summary**: https://github.com/FuzjaJadrowa/Pulsar</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47728152">https://news.yc......
+- [Read more](https://github.com/FuzjaJadrowa/Pulsar)
 
 ---
 
