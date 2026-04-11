@@ -16,17 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Artemis II safely splashes down
+### Show HN: I'm organizing a vibe coding game dev competition
 - **Published**: April 11, 2026
-- **Summary**: ......
-- **Keywords**: down
-- [Read more](https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/)
+- **Summary**: <p>Hi everyone,<p>I just saw a vibe coded game on HN, and thought maybe I should post about this here.<p>I'm organizing a vibe coding game dev competi...
+- [Read more](https://vibej.am/2026/)
 
-### Pulsar – Lightweight cross-platform GUI for FFmpeg and yt-dlp, built with Tauri
+### Iran war volatility is driving oil trading boom on Hyperliquid, says JPMorgan
 - **Published**: April 11, 2026
-- **Summary**: https://github.com/FuzjaJadrowa/Pulsar</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47728152">https://news.yc......
-- [Read more](https://github.com/FuzjaJadrowa/Pulsar)
+- **Summary**: https://www.coindesk.com/business/2026/03/20/iran-wa......
+- [Read more](https://www.coindesk.com/business/2026/03/20/iran-war-volatility-is-driving-oil-trading-boom-on-hyperliquid-says-jpmorgan)
 
 ---
 
