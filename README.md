@@ -23,12 +23,10 @@
 - **Keywords**: emergency
 - [Read more](https://thehackernews.com/2026/04/adobe-patches-actively-exploited.html)
 
-### Show HN: Uptime monitoring is table stakes
+### OpenAI's vision for AI economy: public wealth funds, robot taxes, 4-day workweek
 - **Published**: April 12, 2026
-- **Summary**: <p>I'm trying to disrupt the insane pricing of uptime monitoring. 
-I hope you'll help me out.<p>I'm trying to create the absolute cheapest dev monitor...
-- **Keywords**: disrupt
-- [Read more](https://exit1.dev/)
+- **Summary**: https://techcrunch.com/2026/04/06/openais-vision......
+- [Read more](https://techcrunch.com/2026/04/06/openais-vision-for-the-ai-economy-public-wealth-funds-robot-taxes-and-a-four-day-work-week/)
 
 ---
 
