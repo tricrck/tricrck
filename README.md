@@ -16,16 +16,19 @@
 
 ## 🚨 Tech Stories
 
-### Anthropic loses appeals court bid to pause supply chain risk label
+### Adobe Patches Actively Exploited Acrobat Reader Flaw CVE-2026-34621
 - **Published**: April 12, 2026
-- **Summary**: https://www.politico.com/news/2026/04/08/d-c-circuit-rej......
-- [Read more](https://www.politico.com/news/2026/04/08/d-c-circuit-rejects-anthropic-plea-to-pause-supply-chain-risk-label-00864880)
+- **Summary**: Adobe has released emergency updates to fix a critical security flaw in Acrobat Reader that&nbsp;has come under active exploitation in the&nbsp;wild.
+...
+- **Keywords**: emergency
+- [Read more](https://thehackernews.com/2026/04/adobe-patches-actively-exploited.html)
 
-### LLM Time
+### Show HN: Uptime monitoring is table stakes
 - **Published**: April 12, 2026
-- **Summary**: https://graydon2.dreamwidth.org/322732.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47735708">https......
-- [Read more](https://graydon2.dreamwidth.org/322732.html)
+- **Summary**: <p>I'm trying to disrupt the insane pricing of uptime monitoring. 
+I hope you'll help me out.<p>I'm trying to create the absolute cheapest dev monitor...
+- **Keywords**: disrupt
+- [Read more](https://exit1.dev/)
 
 ---
 
