@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Andromeda Invaders: A retro-style game written in HTML5, Canvas and Web Audio
-- **Published**: April 11, 2026
-- **Summary**: https://codeberg.org/susam/invaders</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47732983">https://news.ycombina......
-- [Read more](https://codeberg.org/susam/invaders)
+### Anthropic loses appeals court bid to pause supply chain risk label
+- **Published**: April 12, 2026
+- **Summary**: https://www.politico.com/news/2026/04/08/d-c-circuit-rej......
+- [Read more](https://www.politico.com/news/2026/04/08/d-c-circuit-rejects-anthropic-plea-to-pause-supply-chain-risk-label-00864880)
 
-### Vultr – VPS without DMCA annoyances
-- **Published**: April 11, 2026
-- **Summary**: https://www.vultr.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47732977">https://news.ycombinator.com/item?id=47732977<...
-- [Read more](https://www.vultr.com/)
+### LLM Time
+- **Published**: April 12, 2026
+- **Summary**: https://graydon2.dreamwidth.org/322732.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47735708">https......
+- [Read more](https://graydon2.dreamwidth.org/322732.html)
 
 ---
 
