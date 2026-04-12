@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Adobe Patches Actively Exploited Acrobat Reader Flaw CVE-2026-34621
+### Show HN:Lumisift – improves data retention in RAG from ~40% to 87%
 - **Published**: April 12, 2026
-- **Summary**: Adobe has released emergency updates to fix a critical security flaw in Acrobat Reader that&nbsp;has come under active exploitation in the&nbsp;wild.
-...
-- **Keywords**: emergency
-- [Read more](https://thehackernews.com/2026/04/adobe-patches-actively-exploited.html)
+- **Summary**: https://github.com/Saeedmora/Lumisift</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47742926">https://news.ycom......
+- [Read more](https://github.com/Saeedmora/Lumisift)
 
-### OpenAI's vision for AI economy: public wealth funds, robot taxes, 4-day workweek
+### Waymo's Robot Car Testing Ends in NYC After Permits Expire
 - **Published**: April 12, 2026
-- **Summary**: https://techcrunch.com/2026/04/06/openais-vision......
-- [Read more](https://techcrunch.com/2026/04/06/openais-vision-for-the-ai-economy-public-wealth-funds-robot-taxes-and-a-four-day-work-week/)
+- **Summary**: https://www.thecity.nyc/2026/04/06/waymo-driverless-cars-testing-roads-autonomous-v......
+- [Read more](https://www.thecity.nyc/2026/04/06/waymo-driverless-cars-testing-roads-autonomous-vehicle/)
 
 ---
 
