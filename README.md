@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### 2014: Black Holes and Supercomputing
+### India's Navigation System Faces Operational Challenge After Atomic Clock Failure
 - **Published**: April 13, 2026
-- **Summary**: https://www.goldengooseaward.org/01awardees/black-holes</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com......
-- [Read more](https://www.goldengooseaward.org/01awardees/black-holes)
+- **Summary**: https://swarajyamag.com/te......
+- **Keywords**: failure, failure
+- [Read more](https://swarajyamag.com/tech/indias-regional-navigation-system-navic-faces-operational-challenge-after-latest-satellite-atomic-clock-failure-report)
 
-### Tell HN: Reddit now demands to know why you won't use their app
+### OpenAI Revokes macOS App Certificate After Malicious Axios Supply Chain Incident
 - **Published**: April 13, 2026
-- **Summary**: <p>When you try to dismiss Reddit's mobile web prompt asking you to switch to their app, instead of just going away, it now gets replaced with this po...
-- [Read more](https://news.ycombinator.com/item?id=47746849)
+- **Summary**: OpenAI&nbsp;revealed a GitHub Actions workflow used to sign its macOS apps, which downloaded the malicious Axios library on March 31, but noted that n...
+- [Read more](https://thehackernews.com/2026/04/openai-revokes-macos-app-certificate.html)
 
 ---
 
