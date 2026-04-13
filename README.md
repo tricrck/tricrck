@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### India's Navigation System Faces Operational Challenge After Atomic Clock Failure
+### Your MTTD Looks Great. Your Post-Alert Gap Doesn't
 - **Published**: April 13, 2026
-- **Summary**: https://swarajyamag.com/te......
-- **Keywords**: failure, failure
-- [Read more](https://swarajyamag.com/tech/indias-regional-navigation-system-navic-faces-operational-challenge-after-latest-satellite-atomic-clock-failure-report)
+- **Summary**: Anthropic restricted its Mythos Preview model last week after it autonomously found and exploited zero-day vulnerabilities in every major operating sy...
+- [Read more](https://thehackernews.com/2026/04/your-mttd-looks-great-your-post-alert.html)
 
-### OpenAI Revokes macOS App Certificate After Malicious Axios Supply Chain Incident
+### North Korea's APT37 Uses Facebook Social Engineering to Deliver RokRAT Malware
 - **Published**: April 13, 2026
-- **Summary**: OpenAI&nbsp;revealed a GitHub Actions workflow used to sign its macOS apps, which downloaded the malicious Axios library on March 31, but noted that n...
-- [Read more](https://thehackernews.com/2026/04/openai-revokes-macos-app-certificate.html)
+- **Summary**: The North Korean hacking group tracked&nbsp;as APT37 (aka ScarCruft) has been attributed to a fresh multi-stage, social engineering campaign in which ...
+- [Read more](https://thehackernews.com/2026/04/north-koreas-apt37-uses-facebook-social.html)
 
 ---
 
