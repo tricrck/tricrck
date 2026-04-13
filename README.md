@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Show HN:Lumisift – improves data retention in RAG from ~40% to 87%
-- **Published**: April 12, 2026
-- **Summary**: https://github.com/Saeedmora/Lumisift</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47742926">https://news.ycom......
-- [Read more](https://github.com/Saeedmora/Lumisift)
+### 2014: Black Holes and Supercomputing
+- **Published**: April 13, 2026
+- **Summary**: https://www.goldengooseaward.org/01awardees/black-holes</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com......
+- [Read more](https://www.goldengooseaward.org/01awardees/black-holes)
 
-### Waymo's Robot Car Testing Ends in NYC After Permits Expire
-- **Published**: April 12, 2026
-- **Summary**: https://www.thecity.nyc/2026/04/06/waymo-driverless-cars-testing-roads-autonomous-v......
-- [Read more](https://www.thecity.nyc/2026/04/06/waymo-driverless-cars-testing-roads-autonomous-vehicle/)
+### Tell HN: Reddit now demands to know why you won't use their app
+- **Published**: April 13, 2026
+- **Summary**: <p>When you try to dismiss Reddit's mobile web prompt asking you to switch to their app, instead of just going away, it now gets replaced with this po...
+- [Read more](https://news.ycombinator.com/item?id=47746849)
 
 ---
 
