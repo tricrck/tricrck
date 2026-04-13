@@ -16,15 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Your MTTD Looks Great. Your Post-Alert Gap Doesn't
+### ⚡ Weekly Recap: Fiber Optic Spying, Windows Rootkit, AI Vulnerability Hunting and More
 - **Published**: April 13, 2026
-- **Summary**: Anthropic restricted its Mythos Preview model last week after it autonomously found and exploited zero-day vulnerabilities in every major operating sy...
-- [Read more](https://thehackernews.com/2026/04/your-mttd-looks-great-your-post-alert.html)
+- **Summary**: Monday&nbsp;is back, and the weekend’s backlog of chaos is officially hitting the fan. We&nbsp;are tracking a critical zero-day that has been quietly ...
+- **Keywords**: chaos
+- [Read more](https://thehackernews.com/2026/04/weekly-recap-fiber-optic-spying-windows.html)
 
-### North Korea's APT37 Uses Facebook Social Engineering to Deliver RokRAT Malware
+### FBI and Indonesian Police Dismantle W3LL Phishing Network Behind $20M Fraud Attempts
 - **Published**: April 13, 2026
-- **Summary**: The North Korean hacking group tracked&nbsp;as APT37 (aka ScarCruft) has been attributed to a fresh multi-stage, social engineering campaign in which ...
-- [Read more](https://thehackernews.com/2026/04/north-koreas-apt37-uses-facebook-social.html)
+- **Summary**: The U.S. Federal Bureau of Investigation (FBI), in partnership with the Indonesian National Police, has dismantled the infrastructure associated with ...
+- [Read more](https://thehackernews.com/2026/04/fbi-and-indonesian-police-dismantle.html)
 
 ---
 
