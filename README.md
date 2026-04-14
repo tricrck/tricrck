@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### ⚡ Weekly Recap: Fiber Optic Spying, Windows Rootkit, AI Vulnerability Hunting and More
-- **Published**: April 13, 2026
-- **Summary**: Monday&nbsp;is back, and the weekend’s backlog of chaos is officially hitting the fan. We&nbsp;are tracking a critical zero-day that has been quietly ...
-- **Keywords**: chaos
-- [Read more](https://thehackernews.com/2026/04/weekly-recap-fiber-optic-spying-windows.html)
+### Lean proved this program correct; then I found a bug
+- **Published**: April 14, 2026
+- **Summary**: ......
+- **Keywords**: bug
+- [Read more](https://kirancodes.me/posts/log-who-watches-the-watchers.html)
 
-### FBI and Indonesian Police Dismantle W3LL Phishing Network Behind $20M Fraud Attempts
-- **Published**: April 13, 2026
-- **Summary**: The U.S. Federal Bureau of Investigation (FBI), in partnership with the Indonesian National Police, has dismantled the infrastructure associated with ...
-- [Read more](https://thehackernews.com/2026/04/fbi-and-indonesian-police-dismantle.html)
+### Meta spins up AI version of Mark Zuckerberg to engage with employees
+- **Published**: April 14, 2026
+- **Summary**: https://arstechnica.com/ai/2026/04/meta-spins-up-ai-version-of-mark-z......
+- [Read more](https://arstechnica.com/ai/2026/04/meta-spins-up-ai-version-of-mark-zuckerberg-to-engage-with-employees/)
 
 ---
 
