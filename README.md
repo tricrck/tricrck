@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Mirax Android RAT Turns Devices into SOCKS5 Proxies, Reaching 220,000 via Meta Ads
+### New PHP Composer Flaws Enable Arbitrary Command Execution — Patches Released
 - **Published**: April 14, 2026
-- **Summary**: A nascent Android remote access trojan&nbsp;called Mirax has been observed actively targeting Spanish-speaking countries, with campaigns reaching more...
-- [Read more](https://thehackernews.com/2026/04/mirax-android-rat-turns-devices-into.html)
+- **Summary**: Two high-severity security vulnerabilities&nbsp;have been disclosed in Composer, a package&nbsp;manager for&nbsp;PHP, that, if successfully exploited,...
+- [Read more](https://thehackernews.com/2026/04/new-php-composer-flaws-enable-arbitrary.html)
 
-### Analysis of 216M Security Findings Shows a 4x Increase In Critical Risk (2026 Report)
+### Google Adds Rust-Based DNS Parser into Pixel 10 Modem to Enhance Security
 - **Published**: April 14, 2026
-- **Summary**: OX Security recently analyzed 216 million security findings across 250 organizations over a 90-day period. The&nbsp;primary takeaway: while raw alert ...
-- [Read more](https://thehackernews.com/2026/04/analysis-of-216m-security-findings.html)
+- **Summary**: Google has announced the integration of a Rust-based Domain Name System (DNS) parser into the modem firmware as part of its ongoing efforts to beef up...
+- [Read more](https://thehackernews.com/2026/04/google-adds-rust-based-dns-parser-into.html)
 
 ---
 
