@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Lean proved this program correct; then I found a bug
+### ShowDoc RCE Flaw CVE-2025-0520 Actively Exploited on Unpatched Servers
 - **Published**: April 14, 2026
-- **Summary**: ......
-- **Keywords**: bug
-- [Read more](https://kirancodes.me/posts/log-who-watches-the-watchers.html)
+- **Summary**: A critical security vulnerability&nbsp;impacting ShowDoc, a document management and collaboration service popular in China, has come under active expl...
+- [Read more](https://thehackernews.com/2026/04/showdoc-rce-flaw-cve-2025-0520-actively.html)
 
-### Meta spins up AI version of Mark Zuckerberg to engage with employees
+### CISA Adds 6 Known Exploited Flaws in Fortinet, Microsoft, and Adobe Software
 - **Published**: April 14, 2026
-- **Summary**: https://arstechnica.com/ai/2026/04/meta-spins-up-ai-version-of-mark-z......
-- [Read more](https://arstechnica.com/ai/2026/04/meta-spins-up-ai-version-of-mark-zuckerberg-to-engage-with-employees/)
+- **Summary**: The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added half a dozen security flaws to its Known Exploited Vulnerabilities (K...
+- [Read more](https://thehackernews.com/2026/04/cisa-adds-6-known-exploited-flaws-in.html)
 
 ---
 
