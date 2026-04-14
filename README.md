@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### ShowDoc RCE Flaw CVE-2025-0520 Actively Exploited on Unpatched Servers
+### Mirax Android RAT Turns Devices into SOCKS5 Proxies, Reaching 220,000 via Meta Ads
 - **Published**: April 14, 2026
-- **Summary**: A critical security vulnerability&nbsp;impacting ShowDoc, a document management and collaboration service popular in China, has come under active expl...
-- [Read more](https://thehackernews.com/2026/04/showdoc-rce-flaw-cve-2025-0520-actively.html)
+- **Summary**: A nascent Android remote access trojan&nbsp;called Mirax has been observed actively targeting Spanish-speaking countries, with campaigns reaching more...
+- [Read more](https://thehackernews.com/2026/04/mirax-android-rat-turns-devices-into.html)
 
-### CISA Adds 6 Known Exploited Flaws in Fortinet, Microsoft, and Adobe Software
+### Analysis of 216M Security Findings Shows a 4x Increase In Critical Risk (2026 Report)
 - **Published**: April 14, 2026
-- **Summary**: The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added half a dozen security flaws to its Known Exploited Vulnerabilities (K...
-- [Read more](https://thehackernews.com/2026/04/cisa-adds-6-known-exploited-flaws-in.html)
+- **Summary**: OX Security recently analyzed 216 million security findings across 250 organizations over a 90-day period. The&nbsp;primary takeaway: while raw alert ...
+- [Read more](https://thehackernews.com/2026/04/analysis-of-216m-security-findings.html)
 
 ---
 
