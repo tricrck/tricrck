@@ -16,15 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### New PHP Composer Flaws Enable Arbitrary Command Execution — Patches Released
-- **Published**: April 14, 2026
-- **Summary**: Two high-severity security vulnerabilities&nbsp;have been disclosed in Composer, a package&nbsp;manager for&nbsp;PHP, that, if successfully exploited,...
-- [Read more](https://thehackernews.com/2026/04/new-php-composer-flaws-enable-arbitrary.html)
+### Woman with three deadly diseases has 'remarkable' recovery after cell therapy
+- **Published**: April 15, 2026
+- **Summary**: https://www.theguardian.com/science/2026/apr/09/autoimmune-diseases-cell-therapy......
+- [Read more](https://www.theguardian.com/science/2026/apr/09/autoimmune-diseases-cell-therapy-immune-reset)
 
-### Google Adds Rust-Based DNS Parser into Pixel 10 Modem to Enhance Security
-- **Published**: April 14, 2026
-- **Summary**: Google has announced the integration of a Rust-based Domain Name System (DNS) parser into the modem firmware as part of its ongoing efforts to beef up...
-- [Read more](https://thehackernews.com/2026/04/google-adds-rust-based-dns-parser-into.html)
+### Sheaf, a minimal custom 65% keyboard
+- **Published**: April 15, 2026
+- **Summary**: https://github.com/nxrmqlly/sheaf65</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47773982">https://news.ycombina......
+- [Read more](https://github.com/nxrmqlly/sheaf65)
 
 ---
 
