@@ -16,15 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Deterministic + Agentic AI: The Architecture Exposure Validation Requires
+### n8n Webhooks Abused Since October 2025 to Deliver Malware via Phishing Emails
 - **Published**: April 15, 2026
-- **Summary**: Few technologies have moved from experimentation to boardroom mandate as quickly as AI. Across&nbsp;industries, leadership teams have embraced its bro...
-- [Read more](https://thehackernews.com/2026/04/deterministic-agentic-ai-architecture.html)
+- **Summary**: Threat actors&nbsp;have been&nbsp;observed weaponizing n8n, a popular artificial intelligence (AI) workflow automation platform, to facilitate sophist...
+- [Read more](https://thehackernews.com/2026/04/n8n-webhooks-abused-since-october-2025.html)
 
-### Microsoft Issues Patches for SharePoint Zero-Day and 168 Other New Vulnerabilities
+### I analyzed the $60B Treasury Judgment Fund – 2020 was 10x a normal year
 - **Published**: April 15, 2026
-- **Summary**: Microsoft on Tuesday released updates to address a&nbsp;record 169 security&nbsp;flaws across its product portfolio, including one vulnerability that&...
-- [Read more](https://thehackernews.com/2026/04/microsoft-issues-patches-for-sharepoint.html)
+- **Summary**: https://settlementinsight.com/research/federal-government-payments</a></p>
+<p>Comments URL: <a href="https:......
+- [Read more](https://settlementinsight.com/research/federal-government-payments)
 
 ---
 
