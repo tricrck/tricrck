@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Fixing a 20-year-old bug in Enlightenment E16
+### Deterministic + Agentic AI: The Architecture Exposure Validation Requires
 - **Published**: April 15, 2026
-- **Summary**: ......
-- **Keywords**: bug
-- [Read more](https://iczelia.net/posts/e16-20-year-old-bug/)
+- **Summary**: Few technologies have moved from experimentation to boardroom mandate as quickly as AI. Across&nbsp;industries, leadership teams have embraced its bro...
+- [Read more](https://thehackernews.com/2026/04/deterministic-agentic-ai-architecture.html)
 
-### OpenAI Launches GPT-5.4-Cyber with Expanded Access for Security Teams
+### Microsoft Issues Patches for SharePoint Zero-Day and 168 Other New Vulnerabilities
 - **Published**: April 15, 2026
-- **Summary**: OpenAI on Tuesday&nbsp;unveiled GPT-5.4-Cyber, a variant of its latest flagship&nbsp;model, GPT‑5.4, that's specifically optimized for defensive cyber...
-- [Read more](https://thehackernews.com/2026/04/openai-launches-gpt-54-cyber-with.html)
+- **Summary**: Microsoft on Tuesday released updates to address a&nbsp;record 169 security&nbsp;flaws across its product portfolio, including one vulnerability that&...
+- [Read more](https://thehackernews.com/2026/04/microsoft-issues-patches-for-sharepoint.html)
 
 ---
 
