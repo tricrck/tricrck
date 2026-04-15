@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Woman with three deadly diseases has 'remarkable' recovery after cell therapy
+### Fixing a 20-year-old bug in Enlightenment E16
 - **Published**: April 15, 2026
-- **Summary**: https://www.theguardian.com/science/2026/apr/09/autoimmune-diseases-cell-therapy......
-- [Read more](https://www.theguardian.com/science/2026/apr/09/autoimmune-diseases-cell-therapy-immune-reset)
+- **Summary**: ......
+- **Keywords**: bug
+- [Read more](https://iczelia.net/posts/e16-20-year-old-bug/)
 
-### Sheaf, a minimal custom 65% keyboard
+### OpenAI Launches GPT-5.4-Cyber with Expanded Access for Security Teams
 - **Published**: April 15, 2026
-- **Summary**: https://github.com/nxrmqlly/sheaf65</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47773982">https://news.ycombina......
-- [Read more](https://github.com/nxrmqlly/sheaf65)
+- **Summary**: OpenAI on Tuesday&nbsp;unveiled GPT-5.4-Cyber, a variant of its latest flagship&nbsp;model, GPT‑5.4, that's specifically optimized for defensive cyber...
+- [Read more](https://thehackernews.com/2026/04/openai-launches-gpt-54-cyber-with.html)
 
 ---
 
