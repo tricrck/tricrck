@@ -1,11 +1,29 @@
 {
   "chaos_ranked": [
     {
-      "title": "Speeding up GPU kernels by 38% with a multi-agent system",
-      "link": "https://cursor.com/blog/multi-agent-kernels",
-      "summary": "<p>Article URL: <a href=\"https://cursor.com/blog/multi-agent-kernels\">https://cursor.com/blog/multi-agent-kernels</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47788000\">https...",
-      "published": "2026-04-16T02:37:28+00:00",
-      "domain": "cursor.com",
+      "title": "Pfsync Packet Header Field Renamed to Avoid AI Bug Report Noise",
+      "link": "https://undeadly.org/cgi?action=article;sid=20260413055845",
+      "summary": "<p>Article URL: <a href=\"https://undeadly.org/cgi?action=article;sid=20260413055845\">https://undeadly.org/cgi?action=article;sid=20260413055845</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinat...",
+      "published": "2026-04-16T07:33:16+00:00",
+      "domain": "undeadly.org",
+      "scores": {
+        "chaos": 11.3,
+        "anarchy": 3.0,
+        "overall": 7.2
+      },
+      "keywords": {
+        "chaos": [
+          "bug"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "UAC-0247 Targets Ukrainian Clinics and Government in Data-Theft Malware Campaign",
+      "link": "https://thehackernews.com/2026/04/uac-0247-targets-ukrainian-clinics-and.html",
+      "summary": "The Computer Emergencies Response Team of Ukraine (CERT-UA)&nbsp;has disclosed details of a new&nbsp;campaign that has&nbsp;targeted governments and municipal healthcare institutions, mainly clinics a...",
+      "published": "2026-04-16T11:50:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -17,11 +35,11 @@
       }
     },
     {
-      "title": "DESI Completes Planned 3D Map of the Universe",
-      "link": "https://newscenter.lbl.gov/2026/04/15/desi-completes-planned-3d-map-of-the-universe-and-continues-exploring/",
-      "summary": "<p>Article URL: <a href=\"https://newscenter.lbl.gov/2026/04/15/desi-completes-planned-3d-map-of-the-universe-and-continues-exploring/\">https://newscenter.lbl.gov/2026/04/15/desi-completes-planned-3d-m...",
-      "published": "2026-04-16T02:34:25+00:00",
-      "domain": "newscenter.lbl.gov",
+      "title": "Mar 28, 2026 >50% of users access Google over IPv6 for the first time",
+      "link": "https://www.google.com/intl/en/ipv6/statistics.html",
+      "summary": "<p>Article URL: <a href=\"https://www.google.com/intl/en/ipv6/statistics.html\">https://www.google.com/intl/en/ipv6/statistics.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id...",
+      "published": "2026-04-16T07:42:41+00:00",
+      "domain": "google.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -33,11 +51,11 @@
       }
     },
     {
-      "title": "Ask HN: We dont need a programming language now?",
-      "link": "https://news.ycombinator.com/item?id=47787977",
-      "summary": "<p>I've seen agentic IDEs now Cursor or Antigravity and main trends seems to be development with just ideas, where although the changed lines are shown, its becoming less and less visible.<p>If we are...",
-      "published": "2026-04-16T02:33:36+00:00",
-      "domain": "news.ycombinator.com",
+      "title": "I'm not feeling the async pressure",
+      "link": "https://lucumr.pocoo.org/2020/1/1/async-pressure/",
+      "summary": "<p>Article URL: <a href=\"https://lucumr.pocoo.org/2020/1/1/async-pressure/\">https://lucumr.pocoo.org/2020/1/1/async-pressure/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=477...",
+      "published": "2026-04-16T07:40:58+00:00",
+      "domain": "lucumr.pocoo.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -49,26 +67,10 @@
       }
     },
     {
-      "title": "Tailscale-rs: Official Rust library for embedding Tailscale",
-      "link": "https://tailscale.com/blog/tailscale-rs-rust-tsnet-library-preview",
-      "summary": "<p>Article URL: <a href=\"https://tailscale.com/blog/tailscale-rs-rust-tsnet-library-preview\">https://tailscale.com/blog/tailscale-rs-rust-tsnet-library-preview</a></p>\n<p>Comments URL: <a href=\"https:...",
-      "published": "2026-04-16T02:30:16+00:00",
-      "domain": "tailscale.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: Hiraeth \u2013 AWS Emulator",
-      "link": "https://github.com/SethPyle376/hiraeth",
-      "summary": "<p>With the recent changes around Localstack pricing/licensing I've been hunting for alternatives. I decided that it might be a fun experiment to try rolling my own. SQS is a service I use heavily so ...",
-      "published": "2026-04-16T02:28:18+00:00",
+      "title": "Show HN: BuilderPulse \u2013 Daily intelligence from 10 sources for indie hackers",
+      "link": "https://github.com/BuilderPulse/BuilderPulse",
+      "summary": "<p>Article URL: <a href=\"https://github.com/BuilderPulse/BuilderPulse\">https://github.com/BuilderPulse/BuilderPulse</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47789885\">htt...",
+      "published": "2026-04-16T07:40:09+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -81,11 +83,11 @@
       }
     },
     {
-      "title": "Arguing with Agents",
-      "link": "https://blowmage.com/2026/04/14/arguing-with-agents/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47787854\">Comments</a>...",
-      "published": "2026-04-16T02:13:23+00:00",
-      "domain": "blowmage.com",
+      "title": "Managed, Real-Time OLAP Infrastructure",
+      "link": "https://modolap.com/",
+      "summary": "<p>Article URL: <a href=\"https://modolap.com/\">https://modolap.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47789873\">https://news.ycombinator.com/item?id=47789873</a></...",
+      "published": "2026-04-16T07:38:05+00:00",
+      "domain": "modolap.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -97,11 +99,11 @@
       }
     },
     {
-      "title": "n8n Webhooks Abused Since October 2025 to Deliver Malware via Phishing Emails",
-      "link": "https://thehackernews.com/2026/04/n8n-webhooks-abused-since-october-2025.html",
-      "summary": "Threat actors&nbsp;have been&nbsp;observed weaponizing n8n, a popular artificial intelligence (AI) workflow automation platform, to facilitate sophisticated phishing campaigns and deliver malicious pa...",
-      "published": "2026-04-15T22:39:00+05:30",
-      "domain": "thehackernews.com",
+      "title": "Darkbloom \u2013 Private inference on idle Macs",
+      "link": "https://darkbloom.dev",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47788542\">Comments</a>...",
+      "published": "2026-04-16T04:06:39+00:00",
+      "domain": "darkbloom.dev",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -113,11 +115,11 @@
       }
     },
     {
-      "title": "I made a terminal pager",
-      "link": "https://theleo.zone/posts/pager/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47786164\">Comments</a>...",
-      "published": "2026-04-15T22:27:54+00:00",
-      "domain": "theleo.zone",
+      "title": "RedSun: System user access on Win 11/10 and Server with the April 2026 Update",
+      "link": "https://github.com/Nightmare-Eclipse/RedSun",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47788473\">Comments</a>...",
+      "published": "2026-04-16T03:54:21+00:00",
+      "domain": "github.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -129,11 +131,11 @@
       }
     },
     {
-      "title": "Actively Exploited nginx-ui Flaw (CVE-2026-33032) Enables Full Nginx Server Takeover",
-      "link": "https://thehackernews.com/2026/04/critical-nginx-ui-vulnerability-cve.html",
-      "summary": "A recently disclosed critical security flaw impacting nginx-ui, an open-source, web-based Nginx management tool, has come under active exploitation in the&nbsp;wild.\nThe vulnerability in question is C...",
-      "published": "2026-04-15T18:26:00+05:30",
-      "domain": "thehackernews.com",
+      "title": "FSF trying to contact Google about spammer sending 10k+ mails from Gmail account",
+      "link": "https://daedal.io/@thomzane/116410863009847575",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47788424\">Comments</a>...",
+      "published": "2026-04-16T03:44:38+00:00",
+      "domain": "daedal.io",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -145,11 +147,11 @@
       }
     },
     {
-      "title": "April Patch Tuesday Fixes Critical Flaws Across SAP, Adobe, Microsoft, Fortinet, and More",
-      "link": "https://thehackernews.com/2026/04/april-patch-tuesday-fixes-critical.html",
-      "summary": "A number&nbsp;of critical vulnerabilities impacting products from Adobe, Fortinet, Microsoft, and SAP have taken center stage in April's Patch Tuesday&nbsp;releases.\nTopping the list is an SQL injecti...",
-      "published": "2026-04-15T18:07:00+05:30",
-      "domain": "thehackernews.com",
+      "title": "Stop Using Ollama",
+      "link": "https://sleepingrobots.com/dreams/stop-using-ollama/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47788385\">Comments</a>...",
+      "published": "2026-04-16T03:35:11+00:00",
+      "domain": "sleepingrobots.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -163,11 +165,11 @@
   ],
   "anarchy_ranked": [
     {
-      "title": "Speeding up GPU kernels by 38% with a multi-agent system",
-      "link": "https://cursor.com/blog/multi-agent-kernels",
-      "summary": "<p>Article URL: <a href=\"https://cursor.com/blog/multi-agent-kernels\">https://cursor.com/blog/multi-agent-kernels</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47788000\">https...",
-      "published": "2026-04-16T02:37:28+00:00",
-      "domain": "cursor.com",
+      "title": "UAC-0247 Targets Ukrainian Clinics and Government in Data-Theft Malware Campaign",
+      "link": "https://thehackernews.com/2026/04/uac-0247-targets-ukrainian-clinics-and.html",
+      "summary": "The Computer Emergencies Response Team of Ukraine (CERT-UA)&nbsp;has disclosed details of a new&nbsp;campaign that has&nbsp;targeted governments and municipal healthcare institutions, mainly clinics a...",
+      "published": "2026-04-16T11:50:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -179,11 +181,11 @@
       }
     },
     {
-      "title": "DESI Completes Planned 3D Map of the Universe",
-      "link": "https://newscenter.lbl.gov/2026/04/15/desi-completes-planned-3d-map-of-the-universe-and-continues-exploring/",
-      "summary": "<p>Article URL: <a href=\"https://newscenter.lbl.gov/2026/04/15/desi-completes-planned-3d-map-of-the-universe-and-continues-exploring/\">https://newscenter.lbl.gov/2026/04/15/desi-completes-planned-3d-m...",
-      "published": "2026-04-16T02:34:25+00:00",
-      "domain": "newscenter.lbl.gov",
+      "title": "Mar 28, 2026 >50% of users access Google over IPv6 for the first time",
+      "link": "https://www.google.com/intl/en/ipv6/statistics.html",
+      "summary": "<p>Article URL: <a href=\"https://www.google.com/intl/en/ipv6/statistics.html\">https://www.google.com/intl/en/ipv6/statistics.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id...",
+      "published": "2026-04-16T07:42:41+00:00",
+      "domain": "google.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -195,11 +197,11 @@
       }
     },
     {
-      "title": "Ask HN: We dont need a programming language now?",
-      "link": "https://news.ycombinator.com/item?id=47787977",
-      "summary": "<p>I've seen agentic IDEs now Cursor or Antigravity and main trends seems to be development with just ideas, where although the changed lines are shown, its becoming less and less visible.<p>If we are...",
-      "published": "2026-04-16T02:33:36+00:00",
-      "domain": "news.ycombinator.com",
+      "title": "I'm not feeling the async pressure",
+      "link": "https://lucumr.pocoo.org/2020/1/1/async-pressure/",
+      "summary": "<p>Article URL: <a href=\"https://lucumr.pocoo.org/2020/1/1/async-pressure/\">https://lucumr.pocoo.org/2020/1/1/async-pressure/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=477...",
+      "published": "2026-04-16T07:40:58+00:00",
+      "domain": "lucumr.pocoo.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -211,26 +213,10 @@
       }
     },
     {
-      "title": "Tailscale-rs: Official Rust library for embedding Tailscale",
-      "link": "https://tailscale.com/blog/tailscale-rs-rust-tsnet-library-preview",
-      "summary": "<p>Article URL: <a href=\"https://tailscale.com/blog/tailscale-rs-rust-tsnet-library-preview\">https://tailscale.com/blog/tailscale-rs-rust-tsnet-library-preview</a></p>\n<p>Comments URL: <a href=\"https:...",
-      "published": "2026-04-16T02:30:16+00:00",
-      "domain": "tailscale.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: Hiraeth \u2013 AWS Emulator",
-      "link": "https://github.com/SethPyle376/hiraeth",
-      "summary": "<p>With the recent changes around Localstack pricing/licensing I've been hunting for alternatives. I decided that it might be a fun experiment to try rolling my own. SQS is a service I use heavily so ...",
-      "published": "2026-04-16T02:28:18+00:00",
+      "title": "Show HN: BuilderPulse \u2013 Daily intelligence from 10 sources for indie hackers",
+      "link": "https://github.com/BuilderPulse/BuilderPulse",
+      "summary": "<p>Article URL: <a href=\"https://github.com/BuilderPulse/BuilderPulse\">https://github.com/BuilderPulse/BuilderPulse</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47789885\">htt...",
+      "published": "2026-04-16T07:40:09+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -243,11 +229,11 @@
       }
     },
     {
-      "title": "Arguing with Agents",
-      "link": "https://blowmage.com/2026/04/14/arguing-with-agents/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47787854\">Comments</a>...",
-      "published": "2026-04-16T02:13:23+00:00",
-      "domain": "blowmage.com",
+      "title": "Managed, Real-Time OLAP Infrastructure",
+      "link": "https://modolap.com/",
+      "summary": "<p>Article URL: <a href=\"https://modolap.com/\">https://modolap.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47789873\">https://news.ycombinator.com/item?id=47789873</a></...",
+      "published": "2026-04-16T07:38:05+00:00",
+      "domain": "modolap.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -259,11 +245,29 @@
       }
     },
     {
-      "title": "n8n Webhooks Abused Since October 2025 to Deliver Malware via Phishing Emails",
-      "link": "https://thehackernews.com/2026/04/n8n-webhooks-abused-since-october-2025.html",
-      "summary": "Threat actors&nbsp;have been&nbsp;observed weaponizing n8n, a popular artificial intelligence (AI) workflow automation platform, to facilitate sophisticated phishing campaigns and deliver malicious pa...",
-      "published": "2026-04-15T22:39:00+05:30",
-      "domain": "thehackernews.com",
+      "title": "Pfsync Packet Header Field Renamed to Avoid AI Bug Report Noise",
+      "link": "https://undeadly.org/cgi?action=article;sid=20260413055845",
+      "summary": "<p>Article URL: <a href=\"https://undeadly.org/cgi?action=article;sid=20260413055845\">https://undeadly.org/cgi?action=article;sid=20260413055845</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinat...",
+      "published": "2026-04-16T07:33:16+00:00",
+      "domain": "undeadly.org",
+      "scores": {
+        "chaos": 11.3,
+        "anarchy": 3.0,
+        "overall": 7.2
+      },
+      "keywords": {
+        "chaos": [
+          "bug"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Darkbloom \u2013 Private inference on idle Macs",
+      "link": "https://darkbloom.dev",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47788542\">Comments</a>...",
+      "published": "2026-04-16T04:06:39+00:00",
+      "domain": "darkbloom.dev",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -275,11 +279,11 @@
       }
     },
     {
-      "title": "I made a terminal pager",
-      "link": "https://theleo.zone/posts/pager/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47786164\">Comments</a>...",
-      "published": "2026-04-15T22:27:54+00:00",
-      "domain": "theleo.zone",
+      "title": "RedSun: System user access on Win 11/10 and Server with the April 2026 Update",
+      "link": "https://github.com/Nightmare-Eclipse/RedSun",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47788473\">Comments</a>...",
+      "published": "2026-04-16T03:54:21+00:00",
+      "domain": "github.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -291,11 +295,11 @@
       }
     },
     {
-      "title": "Actively Exploited nginx-ui Flaw (CVE-2026-33032) Enables Full Nginx Server Takeover",
-      "link": "https://thehackernews.com/2026/04/critical-nginx-ui-vulnerability-cve.html",
-      "summary": "A recently disclosed critical security flaw impacting nginx-ui, an open-source, web-based Nginx management tool, has come under active exploitation in the&nbsp;wild.\nThe vulnerability in question is C...",
-      "published": "2026-04-15T18:26:00+05:30",
-      "domain": "thehackernews.com",
+      "title": "FSF trying to contact Google about spammer sending 10k+ mails from Gmail account",
+      "link": "https://daedal.io/@thomzane/116410863009847575",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47788424\">Comments</a>...",
+      "published": "2026-04-16T03:44:38+00:00",
+      "domain": "daedal.io",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -307,11 +311,11 @@
       }
     },
     {
-      "title": "April Patch Tuesday Fixes Critical Flaws Across SAP, Adobe, Microsoft, Fortinet, and More",
-      "link": "https://thehackernews.com/2026/04/april-patch-tuesday-fixes-critical.html",
-      "summary": "A number&nbsp;of critical vulnerabilities impacting products from Adobe, Fortinet, Microsoft, and SAP have taken center stage in April's Patch Tuesday&nbsp;releases.\nTopping the list is an SQL injecti...",
-      "published": "2026-04-15T18:07:00+05:30",
-      "domain": "thehackernews.com",
+      "title": "Stop Using Ollama",
+      "link": "https://sleepingrobots.com/dreams/stop-using-ollama/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47788385\">Comments</a>...",
+      "published": "2026-04-16T03:35:11+00:00",
+      "domain": "sleepingrobots.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -325,11 +329,29 @@
   ],
   "overall_ranked": [
     {
-      "title": "Speeding up GPU kernels by 38% with a multi-agent system",
-      "link": "https://cursor.com/blog/multi-agent-kernels",
-      "summary": "<p>Article URL: <a href=\"https://cursor.com/blog/multi-agent-kernels\">https://cursor.com/blog/multi-agent-kernels</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47788000\">https...",
-      "published": "2026-04-16T02:37:28+00:00",
-      "domain": "cursor.com",
+      "title": "Pfsync Packet Header Field Renamed to Avoid AI Bug Report Noise",
+      "link": "https://undeadly.org/cgi?action=article;sid=20260413055845",
+      "summary": "<p>Article URL: <a href=\"https://undeadly.org/cgi?action=article;sid=20260413055845\">https://undeadly.org/cgi?action=article;sid=20260413055845</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinat...",
+      "published": "2026-04-16T07:33:16+00:00",
+      "domain": "undeadly.org",
+      "scores": {
+        "chaos": 11.3,
+        "anarchy": 3.0,
+        "overall": 7.2
+      },
+      "keywords": {
+        "chaos": [
+          "bug"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "UAC-0247 Targets Ukrainian Clinics and Government in Data-Theft Malware Campaign",
+      "link": "https://thehackernews.com/2026/04/uac-0247-targets-ukrainian-clinics-and.html",
+      "summary": "The Computer Emergencies Response Team of Ukraine (CERT-UA)&nbsp;has disclosed details of a new&nbsp;campaign that has&nbsp;targeted governments and municipal healthcare institutions, mainly clinics a...",
+      "published": "2026-04-16T11:50:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -341,11 +363,11 @@
       }
     },
     {
-      "title": "DESI Completes Planned 3D Map of the Universe",
-      "link": "https://newscenter.lbl.gov/2026/04/15/desi-completes-planned-3d-map-of-the-universe-and-continues-exploring/",
-      "summary": "<p>Article URL: <a href=\"https://newscenter.lbl.gov/2026/04/15/desi-completes-planned-3d-map-of-the-universe-and-continues-exploring/\">https://newscenter.lbl.gov/2026/04/15/desi-completes-planned-3d-m...",
-      "published": "2026-04-16T02:34:25+00:00",
-      "domain": "newscenter.lbl.gov",
+      "title": "Mar 28, 2026 >50% of users access Google over IPv6 for the first time",
+      "link": "https://www.google.com/intl/en/ipv6/statistics.html",
+      "summary": "<p>Article URL: <a href=\"https://www.google.com/intl/en/ipv6/statistics.html\">https://www.google.com/intl/en/ipv6/statistics.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id...",
+      "published": "2026-04-16T07:42:41+00:00",
+      "domain": "google.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -357,11 +379,11 @@
       }
     },
     {
-      "title": "Ask HN: We dont need a programming language now?",
-      "link": "https://news.ycombinator.com/item?id=47787977",
-      "summary": "<p>I've seen agentic IDEs now Cursor or Antigravity and main trends seems to be development with just ideas, where although the changed lines are shown, its becoming less and less visible.<p>If we are...",
-      "published": "2026-04-16T02:33:36+00:00",
-      "domain": "news.ycombinator.com",
+      "title": "I'm not feeling the async pressure",
+      "link": "https://lucumr.pocoo.org/2020/1/1/async-pressure/",
+      "summary": "<p>Article URL: <a href=\"https://lucumr.pocoo.org/2020/1/1/async-pressure/\">https://lucumr.pocoo.org/2020/1/1/async-pressure/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=477...",
+      "published": "2026-04-16T07:40:58+00:00",
+      "domain": "lucumr.pocoo.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -373,26 +395,10 @@
       }
     },
     {
-      "title": "Tailscale-rs: Official Rust library for embedding Tailscale",
-      "link": "https://tailscale.com/blog/tailscale-rs-rust-tsnet-library-preview",
-      "summary": "<p>Article URL: <a href=\"https://tailscale.com/blog/tailscale-rs-rust-tsnet-library-preview\">https://tailscale.com/blog/tailscale-rs-rust-tsnet-library-preview</a></p>\n<p>Comments URL: <a href=\"https:...",
-      "published": "2026-04-16T02:30:16+00:00",
-      "domain": "tailscale.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: Hiraeth \u2013 AWS Emulator",
-      "link": "https://github.com/SethPyle376/hiraeth",
-      "summary": "<p>With the recent changes around Localstack pricing/licensing I've been hunting for alternatives. I decided that it might be a fun experiment to try rolling my own. SQS is a service I use heavily so ...",
-      "published": "2026-04-16T02:28:18+00:00",
+      "title": "Show HN: BuilderPulse \u2013 Daily intelligence from 10 sources for indie hackers",
+      "link": "https://github.com/BuilderPulse/BuilderPulse",
+      "summary": "<p>Article URL: <a href=\"https://github.com/BuilderPulse/BuilderPulse\">https://github.com/BuilderPulse/BuilderPulse</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47789885\">htt...",
+      "published": "2026-04-16T07:40:09+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -405,11 +411,11 @@
       }
     },
     {
-      "title": "Arguing with Agents",
-      "link": "https://blowmage.com/2026/04/14/arguing-with-agents/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47787854\">Comments</a>...",
-      "published": "2026-04-16T02:13:23+00:00",
-      "domain": "blowmage.com",
+      "title": "Managed, Real-Time OLAP Infrastructure",
+      "link": "https://modolap.com/",
+      "summary": "<p>Article URL: <a href=\"https://modolap.com/\">https://modolap.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47789873\">https://news.ycombinator.com/item?id=47789873</a></...",
+      "published": "2026-04-16T07:38:05+00:00",
+      "domain": "modolap.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -421,11 +427,11 @@
       }
     },
     {
-      "title": "n8n Webhooks Abused Since October 2025 to Deliver Malware via Phishing Emails",
-      "link": "https://thehackernews.com/2026/04/n8n-webhooks-abused-since-october-2025.html",
-      "summary": "Threat actors&nbsp;have been&nbsp;observed weaponizing n8n, a popular artificial intelligence (AI) workflow automation platform, to facilitate sophisticated phishing campaigns and deliver malicious pa...",
-      "published": "2026-04-15T22:39:00+05:30",
-      "domain": "thehackernews.com",
+      "title": "Darkbloom \u2013 Private inference on idle Macs",
+      "link": "https://darkbloom.dev",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47788542\">Comments</a>...",
+      "published": "2026-04-16T04:06:39+00:00",
+      "domain": "darkbloom.dev",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -437,11 +443,11 @@
       }
     },
     {
-      "title": "I made a terminal pager",
-      "link": "https://theleo.zone/posts/pager/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47786164\">Comments</a>...",
-      "published": "2026-04-15T22:27:54+00:00",
-      "domain": "theleo.zone",
+      "title": "RedSun: System user access on Win 11/10 and Server with the April 2026 Update",
+      "link": "https://github.com/Nightmare-Eclipse/RedSun",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47788473\">Comments</a>...",
+      "published": "2026-04-16T03:54:21+00:00",
+      "domain": "github.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -453,11 +459,11 @@
       }
     },
     {
-      "title": "Actively Exploited nginx-ui Flaw (CVE-2026-33032) Enables Full Nginx Server Takeover",
-      "link": "https://thehackernews.com/2026/04/critical-nginx-ui-vulnerability-cve.html",
-      "summary": "A recently disclosed critical security flaw impacting nginx-ui, an open-source, web-based Nginx management tool, has come under active exploitation in the&nbsp;wild.\nThe vulnerability in question is C...",
-      "published": "2026-04-15T18:26:00+05:30",
-      "domain": "thehackernews.com",
+      "title": "FSF trying to contact Google about spammer sending 10k+ mails from Gmail account",
+      "link": "https://daedal.io/@thomzane/116410863009847575",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47788424\">Comments</a>...",
+      "published": "2026-04-16T03:44:38+00:00",
+      "domain": "daedal.io",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -469,11 +475,11 @@
       }
     },
     {
-      "title": "April Patch Tuesday Fixes Critical Flaws Across SAP, Adobe, Microsoft, Fortinet, and More",
-      "link": "https://thehackernews.com/2026/04/april-patch-tuesday-fixes-critical.html",
-      "summary": "A number&nbsp;of critical vulnerabilities impacting products from Adobe, Fortinet, Microsoft, and SAP have taken center stage in April's Patch Tuesday&nbsp;releases.\nTopping the list is an SQL injecti...",
-      "published": "2026-04-15T18:07:00+05:30",
-      "domain": "thehackernews.com",
+      "title": "Stop Using Ollama",
+      "link": "https://sleepingrobots.com/dreams/stop-using-ollama/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47788385\">Comments</a>...",
+      "published": "2026-04-16T03:35:11+00:00",
+      "domain": "sleepingrobots.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -487,11 +493,11 @@
   ],
   "all_articles": [
     {
-      "title": "Speeding up GPU kernels by 38% with a multi-agent system",
-      "link": "https://cursor.com/blog/multi-agent-kernels",
-      "summary": "<p>Article URL: <a href=\"https://cursor.com/blog/multi-agent-kernels\">https://cursor.com/blog/multi-agent-kernels</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47788000\">https...",
-      "published": "2026-04-16T02:37:28+00:00",
-      "domain": "cursor.com",
+      "title": "UAC-0247 Targets Ukrainian Clinics and Government in Data-Theft Malware Campaign",
+      "link": "https://thehackernews.com/2026/04/uac-0247-targets-ukrainian-clinics-and.html",
+      "summary": "The Computer Emergencies Response Team of Ukraine (CERT-UA)&nbsp;has disclosed details of a new&nbsp;campaign that has&nbsp;targeted governments and municipal healthcare institutions, mainly clinics a...",
+      "published": "2026-04-16T11:50:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -503,11 +509,11 @@
       }
     },
     {
-      "title": "DESI Completes Planned 3D Map of the Universe",
-      "link": "https://newscenter.lbl.gov/2026/04/15/desi-completes-planned-3d-map-of-the-universe-and-continues-exploring/",
-      "summary": "<p>Article URL: <a href=\"https://newscenter.lbl.gov/2026/04/15/desi-completes-planned-3d-map-of-the-universe-and-continues-exploring/\">https://newscenter.lbl.gov/2026/04/15/desi-completes-planned-3d-m...",
-      "published": "2026-04-16T02:34:25+00:00",
-      "domain": "newscenter.lbl.gov",
+      "title": "Mar 28, 2026 >50% of users access Google over IPv6 for the first time",
+      "link": "https://www.google.com/intl/en/ipv6/statistics.html",
+      "summary": "<p>Article URL: <a href=\"https://www.google.com/intl/en/ipv6/statistics.html\">https://www.google.com/intl/en/ipv6/statistics.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id...",
+      "published": "2026-04-16T07:42:41+00:00",
+      "domain": "google.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -519,11 +525,11 @@
       }
     },
     {
-      "title": "Ask HN: We dont need a programming language now?",
-      "link": "https://news.ycombinator.com/item?id=47787977",
-      "summary": "<p>I've seen agentic IDEs now Cursor or Antigravity and main trends seems to be development with just ideas, where although the changed lines are shown, its becoming less and less visible.<p>If we are...",
-      "published": "2026-04-16T02:33:36+00:00",
-      "domain": "news.ycombinator.com",
+      "title": "I'm not feeling the async pressure",
+      "link": "https://lucumr.pocoo.org/2020/1/1/async-pressure/",
+      "summary": "<p>Article URL: <a href=\"https://lucumr.pocoo.org/2020/1/1/async-pressure/\">https://lucumr.pocoo.org/2020/1/1/async-pressure/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=477...",
+      "published": "2026-04-16T07:40:58+00:00",
+      "domain": "lucumr.pocoo.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -535,26 +541,10 @@
       }
     },
     {
-      "title": "Tailscale-rs: Official Rust library for embedding Tailscale",
-      "link": "https://tailscale.com/blog/tailscale-rs-rust-tsnet-library-preview",
-      "summary": "<p>Article URL: <a href=\"https://tailscale.com/blog/tailscale-rs-rust-tsnet-library-preview\">https://tailscale.com/blog/tailscale-rs-rust-tsnet-library-preview</a></p>\n<p>Comments URL: <a href=\"https:...",
-      "published": "2026-04-16T02:30:16+00:00",
-      "domain": "tailscale.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: Hiraeth \u2013 AWS Emulator",
-      "link": "https://github.com/SethPyle376/hiraeth",
-      "summary": "<p>With the recent changes around Localstack pricing/licensing I've been hunting for alternatives. I decided that it might be a fun experiment to try rolling my own. SQS is a service I use heavily so ...",
-      "published": "2026-04-16T02:28:18+00:00",
+      "title": "Show HN: BuilderPulse \u2013 Daily intelligence from 10 sources for indie hackers",
+      "link": "https://github.com/BuilderPulse/BuilderPulse",
+      "summary": "<p>Article URL: <a href=\"https://github.com/BuilderPulse/BuilderPulse\">https://github.com/BuilderPulse/BuilderPulse</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47789885\">htt...",
+      "published": "2026-04-16T07:40:09+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -567,11 +557,11 @@
       }
     },
     {
-      "title": "Arguing with Agents",
-      "link": "https://blowmage.com/2026/04/14/arguing-with-agents/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47787854\">Comments</a>...",
-      "published": "2026-04-16T02:13:23+00:00",
-      "domain": "blowmage.com",
+      "title": "Managed, Real-Time OLAP Infrastructure",
+      "link": "https://modolap.com/",
+      "summary": "<p>Article URL: <a href=\"https://modolap.com/\">https://modolap.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47789873\">https://news.ycombinator.com/item?id=47789873</a></...",
+      "published": "2026-04-16T07:38:05+00:00",
+      "domain": "modolap.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -583,11 +573,29 @@
       }
     },
     {
-      "title": "n8n Webhooks Abused Since October 2025 to Deliver Malware via Phishing Emails",
-      "link": "https://thehackernews.com/2026/04/n8n-webhooks-abused-since-october-2025.html",
-      "summary": "Threat actors&nbsp;have been&nbsp;observed weaponizing n8n, a popular artificial intelligence (AI) workflow automation platform, to facilitate sophisticated phishing campaigns and deliver malicious pa...",
-      "published": "2026-04-15T22:39:00+05:30",
-      "domain": "thehackernews.com",
+      "title": "Pfsync Packet Header Field Renamed to Avoid AI Bug Report Noise",
+      "link": "https://undeadly.org/cgi?action=article;sid=20260413055845",
+      "summary": "<p>Article URL: <a href=\"https://undeadly.org/cgi?action=article;sid=20260413055845\">https://undeadly.org/cgi?action=article;sid=20260413055845</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinat...",
+      "published": "2026-04-16T07:33:16+00:00",
+      "domain": "undeadly.org",
+      "scores": {
+        "chaos": 11.3,
+        "anarchy": 3.0,
+        "overall": 7.2
+      },
+      "keywords": {
+        "chaos": [
+          "bug"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Darkbloom \u2013 Private inference on idle Macs",
+      "link": "https://darkbloom.dev",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47788542\">Comments</a>...",
+      "published": "2026-04-16T04:06:39+00:00",
+      "domain": "darkbloom.dev",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -599,11 +607,11 @@
       }
     },
     {
-      "title": "I made a terminal pager",
-      "link": "https://theleo.zone/posts/pager/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47786164\">Comments</a>...",
-      "published": "2026-04-15T22:27:54+00:00",
-      "domain": "theleo.zone",
+      "title": "RedSun: System user access on Win 11/10 and Server with the April 2026 Update",
+      "link": "https://github.com/Nightmare-Eclipse/RedSun",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47788473\">Comments</a>...",
+      "published": "2026-04-16T03:54:21+00:00",
+      "domain": "github.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -615,11 +623,11 @@
       }
     },
     {
-      "title": "Actively Exploited nginx-ui Flaw (CVE-2026-33032) Enables Full Nginx Server Takeover",
-      "link": "https://thehackernews.com/2026/04/critical-nginx-ui-vulnerability-cve.html",
-      "summary": "A recently disclosed critical security flaw impacting nginx-ui, an open-source, web-based Nginx management tool, has come under active exploitation in the&nbsp;wild.\nThe vulnerability in question is C...",
-      "published": "2026-04-15T18:26:00+05:30",
-      "domain": "thehackernews.com",
+      "title": "FSF trying to contact Google about spammer sending 10k+ mails from Gmail account",
+      "link": "https://daedal.io/@thomzane/116410863009847575",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47788424\">Comments</a>...",
+      "published": "2026-04-16T03:44:38+00:00",
+      "domain": "daedal.io",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -631,11 +639,11 @@
       }
     },
     {
-      "title": "April Patch Tuesday Fixes Critical Flaws Across SAP, Adobe, Microsoft, Fortinet, and More",
-      "link": "https://thehackernews.com/2026/04/april-patch-tuesday-fixes-critical.html",
-      "summary": "A number&nbsp;of critical vulnerabilities impacting products from Adobe, Fortinet, Microsoft, and SAP have taken center stage in April's Patch Tuesday&nbsp;releases.\nTopping the list is an SQL injecti...",
-      "published": "2026-04-15T18:07:00+05:30",
-      "domain": "thehackernews.com",
+      "title": "Stop Using Ollama",
+      "link": "https://sleepingrobots.com/dreams/stop-using-ollama/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47788385\">Comments</a>...",
+      "published": "2026-04-16T03:35:11+00:00",
+      "domain": "sleepingrobots.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,

@@ -16,16 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Speeding up GPU kernels by 38% with a multi-agent system
+### Pfsync Packet Header Field Renamed to Avoid AI Bug Report Noise
 - **Published**: April 16, 2026
-- **Summary**: https://cursor.com/blog/multi-agent-kernels</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47788000">https......
-- [Read more](https://cursor.com/blog/multi-agent-kernels)
+- **Summary**: https://undeadly.org/cgi?action=article;sid=20260413055845</a></p>
+<p>Comments URL: <a href="https://news.ycombinat......
+- **Keywords**: bug
+- [Read more](https://undeadly.org/cgi?action=article;sid=20260413055845)
 
-### DESI Completes Planned 3D Map of the Universe
+### UAC-0247 Targets Ukrainian Clinics and Government in Data-Theft Malware Campaign
 - **Published**: April 16, 2026
-- **Summary**: https://newscenter.lbl.gov/2026/04/15/desi-completes-planned-3d-m......
-- [Read more](https://newscenter.lbl.gov/2026/04/15/desi-completes-planned-3d-map-of-the-universe-and-continues-exploring/)
+- **Summary**: The Computer Emergencies Response Team of Ukraine (CERT-UA)&nbsp;has disclosed details of a new&nbsp;campaign that has&nbsp;targeted governments and m...
+- [Read more](https://thehackernews.com/2026/04/uac-0247-targets-ukrainian-clinics-and.html)
 
 ---
 
