@@ -16,15 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### [Webinar] Find and Eliminate Orphaned Non-Human Identities in Your Environment
+### Newly Discovered PowMix Botnet Hits Czech Workers Using Randomized C2 Traffic
 - **Published**: April 16, 2026
-- **Summary**: In 2024, compromised service accounts and forgotten API keys were behind 68% of cloud breaches. Not&nbsp;phishing. Not&nbsp;weak passwords. Unmanaged ...
-- [Read more](https://thehackernews.com/2026/04/webinar-find-and-eliminate-orphaned-non.html)
+- **Summary**: Cybersecurity researchers have warned of an active malicious campaign that's targeting the workforce in the Czech Republic with a previously undocumen...
+- [Read more](https://thehackernews.com/2026/04/newly-discovered-powmix-botnet-hits.html)
 
-### Cisco Patches Four Critical Identity Services, Webex Flaws Enabling Code Execution
+### The Case for Semi-Autonomous Nonprofits
 - **Published**: April 16, 2026
-- **Summary**: Cisco has announced patches to address four critical security flaws impacting Identity Services and Webex Services that could result in arbitrary code...
-- [Read more](https://thehackernews.com/2026/04/cisco-patches-four-critical-identity.html)
+- **Summary**: https://emresarbak.com/semi-autonomous-nonprofits.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/i......
+- [Read more](https://emresarbak.com/semi-autonomous-nonprofits.html)
 
 ---
 
