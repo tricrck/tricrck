@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### n8n Webhooks Abused Since October 2025 to Deliver Malware via Phishing Emails
-- **Published**: April 15, 2026
-- **Summary**: Threat actors&nbsp;have been&nbsp;observed weaponizing n8n, a popular artificial intelligence (AI) workflow automation platform, to facilitate sophist...
-- [Read more](https://thehackernews.com/2026/04/n8n-webhooks-abused-since-october-2025.html)
+### Speeding up GPU kernels by 38% with a multi-agent system
+- **Published**: April 16, 2026
+- **Summary**: https://cursor.com/blog/multi-agent-kernels</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47788000">https......
+- [Read more](https://cursor.com/blog/multi-agent-kernels)
 
-### I analyzed the $60B Treasury Judgment Fund – 2020 was 10x a normal year
-- **Published**: April 15, 2026
-- **Summary**: https://settlementinsight.com/research/federal-government-payments</a></p>
-<p>Comments URL: <a href="https:......
-- [Read more](https://settlementinsight.com/research/federal-government-payments)
+### DESI Completes Planned 3D Map of the Universe
+- **Published**: April 16, 2026
+- **Summary**: https://newscenter.lbl.gov/2026/04/15/desi-completes-planned-3d-m......
+- [Read more](https://newscenter.lbl.gov/2026/04/15/desi-completes-planned-3d-map-of-the-universe-and-continues-exploring/)
 
 ---
 
