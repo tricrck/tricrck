@@ -16,17 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Pfsync Packet Header Field Renamed to Avoid AI Bug Report Noise
+### [Webinar] Find and Eliminate Orphaned Non-Human Identities in Your Environment
 - **Published**: April 16, 2026
-- **Summary**: https://undeadly.org/cgi?action=article;sid=20260413055845</a></p>
-<p>Comments URL: <a href="https://news.ycombinat......
-- **Keywords**: bug
-- [Read more](https://undeadly.org/cgi?action=article;sid=20260413055845)
+- **Summary**: In 2024, compromised service accounts and forgotten API keys were behind 68% of cloud breaches. Not&nbsp;phishing. Not&nbsp;weak passwords. Unmanaged ...
+- [Read more](https://thehackernews.com/2026/04/webinar-find-and-eliminate-orphaned-non.html)
 
-### UAC-0247 Targets Ukrainian Clinics and Government in Data-Theft Malware Campaign
+### Cisco Patches Four Critical Identity Services, Webex Flaws Enabling Code Execution
 - **Published**: April 16, 2026
-- **Summary**: The Computer Emergencies Response Team of Ukraine (CERT-UA)&nbsp;has disclosed details of a new&nbsp;campaign that has&nbsp;targeted governments and m...
-- [Read more](https://thehackernews.com/2026/04/uac-0247-targets-ukrainian-clinics-and.html)
+- **Summary**: Cisco has announced patches to address four critical security flaws impacting Identity Services and Webex Services that could result in arbitrary code...
+- [Read more](https://thehackernews.com/2026/04/cisco-patches-four-critical-identity.html)
 
 ---
 
