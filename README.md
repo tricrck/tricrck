@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Component "security.ubuntu.com" and a few other components are Down
+### Operation PowerOFF Seizes 53 DDoS Domains, Exposes 3 Million Criminal Accounts
 - **Published**: April 17, 2026
-- **Summary**: https://status.canonical.com/#/incident/KNms6......
+- **Summary**: An international law enforcement operation has taken down 53 domains and arrested four people in connection with commercial distributed denial-of-serv...
 - **Keywords**: down
-- [Read more](https://status.canonical.com/#/incident/KNms6QK9ewuzz-7xUsPsNylV20jEt5kyKsd8A-3ptQFa8k37yMVCakd1y82gpxYeEt07wF1uNR34bFYe1FyUoQ==)
+- [Read more](https://thehackernews.com/2026/04/operation-poweroff-seizes-53-ddos.html)
 
-### Everything we like is a psyop
-- **Published**: April 16, 2026
-- **Summary**: ......
-- [Read more](https://techcrunch.com/2026/04/16/everything-we-like-is-a-psyop/)
+### NIST Limits CVE Enrichment After 263% Surge in Vulnerability Submissions
+- **Published**: April 17, 2026
+- **Summary**: The National Institute of Standards and Technology (NIST) has announced changes to the way it handles cybersecurity vulnerabilities and exposures (CVE...
+- [Read more](https://thehackernews.com/2026/04/nist-limits-cve-enrichment-after-263.html)
 
 ---
 

@@ -1,15 +1,15 @@
 {
   "chaos_ranked": [
     {
-      "title": "Component \"security.ubuntu.com\" and a few other components are Down",
-      "link": "https://status.canonical.com/#/incident/KNms6QK9ewuzz-7xUsPsNylV20jEt5kyKsd8A-3ptQFa8k37yMVCakd1y82gpxYeEt07wF1uNR34bFYe1FyUoQ==",
-      "summary": "<p>Article URL: <a href=\"https://status.canonical.com/#/incident/KNms6QK9ewuzz-7xUsPsNylV20jEt5kyKsd8A-3ptQFa8k37yMVCakd1y82gpxYeEt07wF1uNR34bFYe1FyUoQ==\">https://status.canonical.com/#/incident/KNms6...",
-      "published": "2026-04-17T02:22:04+00:00",
-      "domain": "status.canonical.com",
+      "title": "Operation PowerOFF Seizes 53 DDoS Domains, Exposes 3 Million Criminal Accounts",
+      "link": "https://thehackernews.com/2026/04/operation-poweroff-seizes-53-ddos.html",
+      "summary": "An international law enforcement operation has taken down 53 domains and arrested four people in connection with commercial distributed denial-of-service (DDoS) operations that were used by more than ...",
+      "published": "2026-04-17T11:16:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
-        "chaos": 12.3,
+        "chaos": 9.8,
         "anarchy": 3.0,
-        "overall": 7.7
+        "overall": 6.4
       },
       "keywords": {
         "chaos": [
@@ -19,27 +19,11 @@
       }
     },
     {
-      "title": "Everything we like is a psyop",
-      "link": "https://techcrunch.com/2026/04/16/everything-we-like-is-a-psyop/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47800738\">Comments</a>...",
-      "published": "2026-04-16T23:15:33+00:00",
-      "domain": "techcrunch.com",
-      "scores": {
-        "chaos": 9.0,
-        "anarchy": 6.0,
-        "overall": 7.5
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Robot golf vs. holes that keep getting harder [video]",
-      "link": "https://www.youtube.com/watch?v=2OfjZ3ORJfc",
-      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=2OfjZ3ORJfc\">https://www.youtube.com/watch?v=2OfjZ3ORJfc</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47801916\">https...",
-      "published": "2026-04-17T02:33:20+00:00",
-      "domain": "youtube.com",
+      "title": "NIST Limits CVE Enrichment After 263% Surge in Vulnerability Submissions",
+      "link": "https://thehackernews.com/2026/04/nist-limits-cve-enrichment-after-263.html",
+      "summary": "The National Institute of Standards and Technology (NIST) has announced changes to the way it handles cybersecurity vulnerabilities and exposures (CVEs) listed in its National Vulnerability Database (...",
+      "published": "2026-04-17T12:44:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -51,11 +35,11 @@
       }
     },
     {
-      "title": "Parcae: Doing more with fewer parameters using stable looped models",
-      "link": "https://www.together.ai/blog/parcae",
-      "summary": "<p>Article URL: <a href=\"https://www.together.ai/blog/parcae\">https://www.together.ai/blog/parcae</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47801868\">https://news.ycombina...",
-      "published": "2026-04-17T02:23:23+00:00",
-      "domain": "together.ai",
+      "title": "Apache ActiveMQ CVE-2026-34197 Added to CISA KEV Amid Active Exploitation",
+      "link": "https://thehackernews.com/2026/04/apache-activemq-cve-2026-34197-added-to.html",
+      "summary": "A recently disclosed high-severity security flaw in Apache ActiveMQ&nbsp;Classic has come under active exploitation in the wild, per the U.S. Cybersecurity and Infrastructure Security Agency&nbsp;(CIS...",
+      "published": "2026-04-17T08:52:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -67,11 +51,11 @@
       }
     },
     {
-      "title": "Named Entity Recognition (NER) in Python with Spacy",
-      "link": "https://www.analyticsvidhya.com/blog/2021/06/nlp-application-named-entity-recognition-ner-in-python-with-spacy/",
-      "summary": "<p>Article URL: <a href=\"https://www.analyticsvidhya.com/blog/2021/06/nlp-application-named-entity-recognition-ner-in-python-with-spacy/\">https://www.analyticsvidhya.com/blog/2021/06/nlp-application-n...",
-      "published": "2026-04-17T02:20:17+00:00",
-      "domain": "analyticsvidhya.com",
+      "title": "Mozilla Introduces Thunderbolt: Enterprise AI You Control",
+      "link": "https://www.thunderbolt.io/announcing-thunderbolt",
+      "summary": "<p>Article URL: <a href=\"https://www.thunderbolt.io/announcing-thunderbolt\">https://www.thunderbolt.io/announcing-thunderbolt</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=478...",
+      "published": "2026-04-17T07:35:09+00:00",
+      "domain": "thunderbolt.io",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -83,11 +67,59 @@
       }
     },
     {
-      "title": "AWS Security Agent on-demand penetration testing is now generally available",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-security-agent-ondemand-penetration/",
-      "summary": "<p>Article URL: <a href=\"https://aws.amazon.com/about-aws/whats-new/2026/03/aws-security-agent-ondemand-penetration/\">https://aws.amazon.com/about-aws/whats-new/2026/03/aws-security-agent-ondemand-pen...",
-      "published": "2026-04-17T02:14:32+00:00",
-      "domain": "aws.amazon.com",
+      "title": "Tell me an alternative of Claude for writing/strategy generation",
+      "link": "https://news.ycombinator.com/item?id=47803412",
+      "summary": "<p>Since the past few days, Claude has reduced its daily free limit. I am guessing it is actually becoming a money-making company. What are your thoughts here?</p>\n<hr />\n<p>Comments URL: <a href=\"htt...",
+      "published": "2026-04-17T07:34:30+00:00",
+      "domain": "news.ycombinator.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Julia: DistributedArrays",
+      "link": "https://juliaparallel.org/DistributedArrays.jl/stable/",
+      "summary": "<p>Article URL: <a href=\"https://juliaparallel.org/DistributedArrays.jl/stable/\">https://juliaparallel.org/DistributedArrays.jl/stable/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/i...",
+      "published": "2026-04-17T07:32:43+00:00",
+      "domain": "juliaparallel.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Can AI agents autonomously design components on photonic chips?",
+      "link": "https://engineering.flexcompute.com/articles/autoresearch-photonic-design/",
+      "summary": "<p>Article URL: <a href=\"https://engineering.flexcompute.com/articles/autoresearch-photonic-design/\">https://engineering.flexcompute.com/articles/autoresearch-photonic-design/</a></p>\n<p>Comments URL:...",
+      "published": "2026-04-17T07:29:26+00:00",
+      "domain": "engineering.flexcompute.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Chinese carmaker patents voice-controlled 'in-vehicle toilet'",
+      "link": "https://www.bbc.com/news/articles/c1l92yv4mydo",
+      "summary": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/c1l92yv4mydo\">https://www.bbc.com/news/articles/c1l92yv4mydo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47803355\"...",
+      "published": "2026-04-17T07:24:55+00:00",
+      "domain": "bbc.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -115,42 +147,10 @@
       }
     },
     {
-      "title": "Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine",
-      "link": "https://github.com/gainsec/autoprober",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47800033\">Comments</a>...",
-      "published": "2026-04-16T21:56:37+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
       "title": "ThreatsDay Bulletin: Defender 0-Day,\u00a0SonicWall Brute-Force, 17-Year-Old Excel RCE and 15 More Stories",
       "link": "https://thehackernews.com/2026/04/threatsday-bulletin-17-year-old-excel.html",
       "summary": "You&nbsp;know that feeling when you open your feed on a Thursday morning and it's just... a&nbsp;lot? Yeah. This&nbsp;week delivered. We've got hackers getting creative in ways that are almost impress...",
       "published": "2026-04-16T18:35:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "[Webinar] Find and Eliminate Orphaned Non-Human Identities in Your Environment",
-      "link": "https://thehackernews.com/2026/04/webinar-find-and-eliminate-orphaned-non.html",
-      "summary": "In 2024, compromised service accounts and forgotten API keys were behind 68% of cloud breaches. Not&nbsp;phishing. Not&nbsp;weak passwords. Unmanaged non-human identities that nobody was&nbsp;watching...",
-      "published": "2026-04-16T17:25:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -165,27 +165,11 @@
   ],
   "anarchy_ranked": [
     {
-      "title": "Everything we like is a psyop",
-      "link": "https://techcrunch.com/2026/04/16/everything-we-like-is-a-psyop/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47800738\">Comments</a>...",
-      "published": "2026-04-16T23:15:33+00:00",
-      "domain": "techcrunch.com",
-      "scores": {
-        "chaos": 9.0,
-        "anarchy": 6.0,
-        "overall": 7.5
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Robot golf vs. holes that keep getting harder [video]",
-      "link": "https://www.youtube.com/watch?v=2OfjZ3ORJfc",
-      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=2OfjZ3ORJfc\">https://www.youtube.com/watch?v=2OfjZ3ORJfc</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47801916\">https...",
-      "published": "2026-04-17T02:33:20+00:00",
-      "domain": "youtube.com",
+      "title": "NIST Limits CVE Enrichment After 263% Surge in Vulnerability Submissions",
+      "link": "https://thehackernews.com/2026/04/nist-limits-cve-enrichment-after-263.html",
+      "summary": "The National Institute of Standards and Technology (NIST) has announced changes to the way it handles cybersecurity vulnerabilities and exposures (CVEs) listed in its National Vulnerability Database (...",
+      "published": "2026-04-17T12:44:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -197,31 +181,15 @@
       }
     },
     {
-      "title": "Parcae: Doing more with fewer parameters using stable looped models",
-      "link": "https://www.together.ai/blog/parcae",
-      "summary": "<p>Article URL: <a href=\"https://www.together.ai/blog/parcae\">https://www.together.ai/blog/parcae</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47801868\">https://news.ycombina...",
-      "published": "2026-04-17T02:23:23+00:00",
-      "domain": "together.ai",
+      "title": "Operation PowerOFF Seizes 53 DDoS Domains, Exposes 3 Million Criminal Accounts",
+      "link": "https://thehackernews.com/2026/04/operation-poweroff-seizes-53-ddos.html",
+      "summary": "An international law enforcement operation has taken down 53 domains and arrested four people in connection with commercial distributed denial-of-service (DDoS) operations that were used by more than ...",
+      "published": "2026-04-17T11:16:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
-        "chaos": 3.0,
+        "chaos": 9.8,
         "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Component \"security.ubuntu.com\" and a few other components are Down",
-      "link": "https://status.canonical.com/#/incident/KNms6QK9ewuzz-7xUsPsNylV20jEt5kyKsd8A-3ptQFa8k37yMVCakd1y82gpxYeEt07wF1uNR34bFYe1FyUoQ==",
-      "summary": "<p>Article URL: <a href=\"https://status.canonical.com/#/incident/KNms6QK9ewuzz-7xUsPsNylV20jEt5kyKsd8A-3ptQFa8k37yMVCakd1y82gpxYeEt07wF1uNR34bFYe1FyUoQ==\">https://status.canonical.com/#/incident/KNms6...",
-      "published": "2026-04-17T02:22:04+00:00",
-      "domain": "status.canonical.com",
-      "scores": {
-        "chaos": 12.3,
-        "anarchy": 3.0,
-        "overall": 7.7
+        "overall": 6.4
       },
       "keywords": {
         "chaos": [
@@ -231,11 +199,11 @@
       }
     },
     {
-      "title": "Named Entity Recognition (NER) in Python with Spacy",
-      "link": "https://www.analyticsvidhya.com/blog/2021/06/nlp-application-named-entity-recognition-ner-in-python-with-spacy/",
-      "summary": "<p>Article URL: <a href=\"https://www.analyticsvidhya.com/blog/2021/06/nlp-application-named-entity-recognition-ner-in-python-with-spacy/\">https://www.analyticsvidhya.com/blog/2021/06/nlp-application-n...",
-      "published": "2026-04-17T02:20:17+00:00",
-      "domain": "analyticsvidhya.com",
+      "title": "Apache ActiveMQ CVE-2026-34197 Added to CISA KEV Amid Active Exploitation",
+      "link": "https://thehackernews.com/2026/04/apache-activemq-cve-2026-34197-added-to.html",
+      "summary": "A recently disclosed high-severity security flaw in Apache ActiveMQ&nbsp;Classic has come under active exploitation in the wild, per the U.S. Cybersecurity and Infrastructure Security Agency&nbsp;(CIS...",
+      "published": "2026-04-17T08:52:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -247,11 +215,75 @@
       }
     },
     {
-      "title": "AWS Security Agent on-demand penetration testing is now generally available",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-security-agent-ondemand-penetration/",
-      "summary": "<p>Article URL: <a href=\"https://aws.amazon.com/about-aws/whats-new/2026/03/aws-security-agent-ondemand-penetration/\">https://aws.amazon.com/about-aws/whats-new/2026/03/aws-security-agent-ondemand-pen...",
-      "published": "2026-04-17T02:14:32+00:00",
-      "domain": "aws.amazon.com",
+      "title": "Mozilla Introduces Thunderbolt: Enterprise AI You Control",
+      "link": "https://www.thunderbolt.io/announcing-thunderbolt",
+      "summary": "<p>Article URL: <a href=\"https://www.thunderbolt.io/announcing-thunderbolt\">https://www.thunderbolt.io/announcing-thunderbolt</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=478...",
+      "published": "2026-04-17T07:35:09+00:00",
+      "domain": "thunderbolt.io",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Tell me an alternative of Claude for writing/strategy generation",
+      "link": "https://news.ycombinator.com/item?id=47803412",
+      "summary": "<p>Since the past few days, Claude has reduced its daily free limit. I am guessing it is actually becoming a money-making company. What are your thoughts here?</p>\n<hr />\n<p>Comments URL: <a href=\"htt...",
+      "published": "2026-04-17T07:34:30+00:00",
+      "domain": "news.ycombinator.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Julia: DistributedArrays",
+      "link": "https://juliaparallel.org/DistributedArrays.jl/stable/",
+      "summary": "<p>Article URL: <a href=\"https://juliaparallel.org/DistributedArrays.jl/stable/\">https://juliaparallel.org/DistributedArrays.jl/stable/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/i...",
+      "published": "2026-04-17T07:32:43+00:00",
+      "domain": "juliaparallel.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Can AI agents autonomously design components on photonic chips?",
+      "link": "https://engineering.flexcompute.com/articles/autoresearch-photonic-design/",
+      "summary": "<p>Article URL: <a href=\"https://engineering.flexcompute.com/articles/autoresearch-photonic-design/\">https://engineering.flexcompute.com/articles/autoresearch-photonic-design/</a></p>\n<p>Comments URL:...",
+      "published": "2026-04-17T07:29:26+00:00",
+      "domain": "engineering.flexcompute.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Chinese carmaker patents voice-controlled 'in-vehicle toilet'",
+      "link": "https://www.bbc.com/news/articles/c1l92yv4mydo",
+      "summary": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/c1l92yv4mydo\">https://www.bbc.com/news/articles/c1l92yv4mydo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47803355\"...",
+      "published": "2026-04-17T07:24:55+00:00",
+      "domain": "bbc.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -279,42 +311,10 @@
       }
     },
     {
-      "title": "Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine",
-      "link": "https://github.com/gainsec/autoprober",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47800033\">Comments</a>...",
-      "published": "2026-04-16T21:56:37+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
       "title": "ThreatsDay Bulletin: Defender 0-Day,\u00a0SonicWall Brute-Force, 17-Year-Old Excel RCE and 15 More Stories",
       "link": "https://thehackernews.com/2026/04/threatsday-bulletin-17-year-old-excel.html",
       "summary": "You&nbsp;know that feeling when you open your feed on a Thursday morning and it's just... a&nbsp;lot? Yeah. This&nbsp;week delivered. We've got hackers getting creative in ways that are almost impress...",
       "published": "2026-04-16T18:35:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "[Webinar] Find and Eliminate Orphaned Non-Human Identities in Your Environment",
-      "link": "https://thehackernews.com/2026/04/webinar-find-and-eliminate-orphaned-non.html",
-      "summary": "In 2024, compromised service accounts and forgotten API keys were behind 68% of cloud breaches. Not&nbsp;phishing. Not&nbsp;weak passwords. Unmanaged non-human identities that nobody was&nbsp;watching...",
-      "published": "2026-04-16T17:25:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -329,15 +329,15 @@
   ],
   "overall_ranked": [
     {
-      "title": "Component \"security.ubuntu.com\" and a few other components are Down",
-      "link": "https://status.canonical.com/#/incident/KNms6QK9ewuzz-7xUsPsNylV20jEt5kyKsd8A-3ptQFa8k37yMVCakd1y82gpxYeEt07wF1uNR34bFYe1FyUoQ==",
-      "summary": "<p>Article URL: <a href=\"https://status.canonical.com/#/incident/KNms6QK9ewuzz-7xUsPsNylV20jEt5kyKsd8A-3ptQFa8k37yMVCakd1y82gpxYeEt07wF1uNR34bFYe1FyUoQ==\">https://status.canonical.com/#/incident/KNms6...",
-      "published": "2026-04-17T02:22:04+00:00",
-      "domain": "status.canonical.com",
+      "title": "Operation PowerOFF Seizes 53 DDoS Domains, Exposes 3 Million Criminal Accounts",
+      "link": "https://thehackernews.com/2026/04/operation-poweroff-seizes-53-ddos.html",
+      "summary": "An international law enforcement operation has taken down 53 domains and arrested four people in connection with commercial distributed denial-of-service (DDoS) operations that were used by more than ...",
+      "published": "2026-04-17T11:16:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
-        "chaos": 12.3,
+        "chaos": 9.8,
         "anarchy": 3.0,
-        "overall": 7.7
+        "overall": 6.4
       },
       "keywords": {
         "chaos": [
@@ -347,27 +347,11 @@
       }
     },
     {
-      "title": "Everything we like is a psyop",
-      "link": "https://techcrunch.com/2026/04/16/everything-we-like-is-a-psyop/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47800738\">Comments</a>...",
-      "published": "2026-04-16T23:15:33+00:00",
-      "domain": "techcrunch.com",
-      "scores": {
-        "chaos": 9.0,
-        "anarchy": 6.0,
-        "overall": 7.5
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Robot golf vs. holes that keep getting harder [video]",
-      "link": "https://www.youtube.com/watch?v=2OfjZ3ORJfc",
-      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=2OfjZ3ORJfc\">https://www.youtube.com/watch?v=2OfjZ3ORJfc</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47801916\">https...",
-      "published": "2026-04-17T02:33:20+00:00",
-      "domain": "youtube.com",
+      "title": "NIST Limits CVE Enrichment After 263% Surge in Vulnerability Submissions",
+      "link": "https://thehackernews.com/2026/04/nist-limits-cve-enrichment-after-263.html",
+      "summary": "The National Institute of Standards and Technology (NIST) has announced changes to the way it handles cybersecurity vulnerabilities and exposures (CVEs) listed in its National Vulnerability Database (...",
+      "published": "2026-04-17T12:44:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -379,11 +363,11 @@
       }
     },
     {
-      "title": "Parcae: Doing more with fewer parameters using stable looped models",
-      "link": "https://www.together.ai/blog/parcae",
-      "summary": "<p>Article URL: <a href=\"https://www.together.ai/blog/parcae\">https://www.together.ai/blog/parcae</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47801868\">https://news.ycombina...",
-      "published": "2026-04-17T02:23:23+00:00",
-      "domain": "together.ai",
+      "title": "Apache ActiveMQ CVE-2026-34197 Added to CISA KEV Amid Active Exploitation",
+      "link": "https://thehackernews.com/2026/04/apache-activemq-cve-2026-34197-added-to.html",
+      "summary": "A recently disclosed high-severity security flaw in Apache ActiveMQ&nbsp;Classic has come under active exploitation in the wild, per the U.S. Cybersecurity and Infrastructure Security Agency&nbsp;(CIS...",
+      "published": "2026-04-17T08:52:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -395,11 +379,11 @@
       }
     },
     {
-      "title": "Named Entity Recognition (NER) in Python with Spacy",
-      "link": "https://www.analyticsvidhya.com/blog/2021/06/nlp-application-named-entity-recognition-ner-in-python-with-spacy/",
-      "summary": "<p>Article URL: <a href=\"https://www.analyticsvidhya.com/blog/2021/06/nlp-application-named-entity-recognition-ner-in-python-with-spacy/\">https://www.analyticsvidhya.com/blog/2021/06/nlp-application-n...",
-      "published": "2026-04-17T02:20:17+00:00",
-      "domain": "analyticsvidhya.com",
+      "title": "Mozilla Introduces Thunderbolt: Enterprise AI You Control",
+      "link": "https://www.thunderbolt.io/announcing-thunderbolt",
+      "summary": "<p>Article URL: <a href=\"https://www.thunderbolt.io/announcing-thunderbolt\">https://www.thunderbolt.io/announcing-thunderbolt</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=478...",
+      "published": "2026-04-17T07:35:09+00:00",
+      "domain": "thunderbolt.io",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -411,11 +395,59 @@
       }
     },
     {
-      "title": "AWS Security Agent on-demand penetration testing is now generally available",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-security-agent-ondemand-penetration/",
-      "summary": "<p>Article URL: <a href=\"https://aws.amazon.com/about-aws/whats-new/2026/03/aws-security-agent-ondemand-penetration/\">https://aws.amazon.com/about-aws/whats-new/2026/03/aws-security-agent-ondemand-pen...",
-      "published": "2026-04-17T02:14:32+00:00",
-      "domain": "aws.amazon.com",
+      "title": "Tell me an alternative of Claude for writing/strategy generation",
+      "link": "https://news.ycombinator.com/item?id=47803412",
+      "summary": "<p>Since the past few days, Claude has reduced its daily free limit. I am guessing it is actually becoming a money-making company. What are your thoughts here?</p>\n<hr />\n<p>Comments URL: <a href=\"htt...",
+      "published": "2026-04-17T07:34:30+00:00",
+      "domain": "news.ycombinator.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Julia: DistributedArrays",
+      "link": "https://juliaparallel.org/DistributedArrays.jl/stable/",
+      "summary": "<p>Article URL: <a href=\"https://juliaparallel.org/DistributedArrays.jl/stable/\">https://juliaparallel.org/DistributedArrays.jl/stable/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/i...",
+      "published": "2026-04-17T07:32:43+00:00",
+      "domain": "juliaparallel.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Can AI agents autonomously design components on photonic chips?",
+      "link": "https://engineering.flexcompute.com/articles/autoresearch-photonic-design/",
+      "summary": "<p>Article URL: <a href=\"https://engineering.flexcompute.com/articles/autoresearch-photonic-design/\">https://engineering.flexcompute.com/articles/autoresearch-photonic-design/</a></p>\n<p>Comments URL:...",
+      "published": "2026-04-17T07:29:26+00:00",
+      "domain": "engineering.flexcompute.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Chinese carmaker patents voice-controlled 'in-vehicle toilet'",
+      "link": "https://www.bbc.com/news/articles/c1l92yv4mydo",
+      "summary": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/c1l92yv4mydo\">https://www.bbc.com/news/articles/c1l92yv4mydo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47803355\"...",
+      "published": "2026-04-17T07:24:55+00:00",
+      "domain": "bbc.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -443,42 +475,10 @@
       }
     },
     {
-      "title": "Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine",
-      "link": "https://github.com/gainsec/autoprober",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47800033\">Comments</a>...",
-      "published": "2026-04-16T21:56:37+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
       "title": "ThreatsDay Bulletin: Defender 0-Day,\u00a0SonicWall Brute-Force, 17-Year-Old Excel RCE and 15 More Stories",
       "link": "https://thehackernews.com/2026/04/threatsday-bulletin-17-year-old-excel.html",
       "summary": "You&nbsp;know that feeling when you open your feed on a Thursday morning and it's just... a&nbsp;lot? Yeah. This&nbsp;week delivered. We've got hackers getting creative in ways that are almost impress...",
       "published": "2026-04-16T18:35:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "[Webinar] Find and Eliminate Orphaned Non-Human Identities in Your Environment",
-      "link": "https://thehackernews.com/2026/04/webinar-find-and-eliminate-orphaned-non.html",
-      "summary": "In 2024, compromised service accounts and forgotten API keys were behind 68% of cloud breaches. Not&nbsp;phishing. Not&nbsp;weak passwords. Unmanaged non-human identities that nobody was&nbsp;watching...",
-      "published": "2026-04-16T17:25:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -493,11 +493,11 @@
   ],
   "all_articles": [
     {
-      "title": "Robot golf vs. holes that keep getting harder [video]",
-      "link": "https://www.youtube.com/watch?v=2OfjZ3ORJfc",
-      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=2OfjZ3ORJfc\">https://www.youtube.com/watch?v=2OfjZ3ORJfc</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47801916\">https...",
-      "published": "2026-04-17T02:33:20+00:00",
-      "domain": "youtube.com",
+      "title": "NIST Limits CVE Enrichment After 263% Surge in Vulnerability Submissions",
+      "link": "https://thehackernews.com/2026/04/nist-limits-cve-enrichment-after-263.html",
+      "summary": "The National Institute of Standards and Technology (NIST) has announced changes to the way it handles cybersecurity vulnerabilities and exposures (CVEs) listed in its National Vulnerability Database (...",
+      "published": "2026-04-17T12:44:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -509,31 +509,15 @@
       }
     },
     {
-      "title": "Parcae: Doing more with fewer parameters using stable looped models",
-      "link": "https://www.together.ai/blog/parcae",
-      "summary": "<p>Article URL: <a href=\"https://www.together.ai/blog/parcae\">https://www.together.ai/blog/parcae</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47801868\">https://news.ycombina...",
-      "published": "2026-04-17T02:23:23+00:00",
-      "domain": "together.ai",
+      "title": "Operation PowerOFF Seizes 53 DDoS Domains, Exposes 3 Million Criminal Accounts",
+      "link": "https://thehackernews.com/2026/04/operation-poweroff-seizes-53-ddos.html",
+      "summary": "An international law enforcement operation has taken down 53 domains and arrested four people in connection with commercial distributed denial-of-service (DDoS) operations that were used by more than ...",
+      "published": "2026-04-17T11:16:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
-        "chaos": 3.0,
+        "chaos": 9.8,
         "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Component \"security.ubuntu.com\" and a few other components are Down",
-      "link": "https://status.canonical.com/#/incident/KNms6QK9ewuzz-7xUsPsNylV20jEt5kyKsd8A-3ptQFa8k37yMVCakd1y82gpxYeEt07wF1uNR34bFYe1FyUoQ==",
-      "summary": "<p>Article URL: <a href=\"https://status.canonical.com/#/incident/KNms6QK9ewuzz-7xUsPsNylV20jEt5kyKsd8A-3ptQFa8k37yMVCakd1y82gpxYeEt07wF1uNR34bFYe1FyUoQ==\">https://status.canonical.com/#/incident/KNms6...",
-      "published": "2026-04-17T02:22:04+00:00",
-      "domain": "status.canonical.com",
-      "scores": {
-        "chaos": 12.3,
-        "anarchy": 3.0,
-        "overall": 7.7
+        "overall": 6.4
       },
       "keywords": {
         "chaos": [
@@ -543,11 +527,11 @@
       }
     },
     {
-      "title": "Named Entity Recognition (NER) in Python with Spacy",
-      "link": "https://www.analyticsvidhya.com/blog/2021/06/nlp-application-named-entity-recognition-ner-in-python-with-spacy/",
-      "summary": "<p>Article URL: <a href=\"https://www.analyticsvidhya.com/blog/2021/06/nlp-application-named-entity-recognition-ner-in-python-with-spacy/\">https://www.analyticsvidhya.com/blog/2021/06/nlp-application-n...",
-      "published": "2026-04-17T02:20:17+00:00",
-      "domain": "analyticsvidhya.com",
+      "title": "Apache ActiveMQ CVE-2026-34197 Added to CISA KEV Amid Active Exploitation",
+      "link": "https://thehackernews.com/2026/04/apache-activemq-cve-2026-34197-added-to.html",
+      "summary": "A recently disclosed high-severity security flaw in Apache ActiveMQ&nbsp;Classic has come under active exploitation in the wild, per the U.S. Cybersecurity and Infrastructure Security Agency&nbsp;(CIS...",
+      "published": "2026-04-17T08:52:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -559,11 +543,75 @@
       }
     },
     {
-      "title": "AWS Security Agent on-demand penetration testing is now generally available",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-security-agent-ondemand-penetration/",
-      "summary": "<p>Article URL: <a href=\"https://aws.amazon.com/about-aws/whats-new/2026/03/aws-security-agent-ondemand-penetration/\">https://aws.amazon.com/about-aws/whats-new/2026/03/aws-security-agent-ondemand-pen...",
-      "published": "2026-04-17T02:14:32+00:00",
-      "domain": "aws.amazon.com",
+      "title": "Mozilla Introduces Thunderbolt: Enterprise AI You Control",
+      "link": "https://www.thunderbolt.io/announcing-thunderbolt",
+      "summary": "<p>Article URL: <a href=\"https://www.thunderbolt.io/announcing-thunderbolt\">https://www.thunderbolt.io/announcing-thunderbolt</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=478...",
+      "published": "2026-04-17T07:35:09+00:00",
+      "domain": "thunderbolt.io",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Tell me an alternative of Claude for writing/strategy generation",
+      "link": "https://news.ycombinator.com/item?id=47803412",
+      "summary": "<p>Since the past few days, Claude has reduced its daily free limit. I am guessing it is actually becoming a money-making company. What are your thoughts here?</p>\n<hr />\n<p>Comments URL: <a href=\"htt...",
+      "published": "2026-04-17T07:34:30+00:00",
+      "domain": "news.ycombinator.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Julia: DistributedArrays",
+      "link": "https://juliaparallel.org/DistributedArrays.jl/stable/",
+      "summary": "<p>Article URL: <a href=\"https://juliaparallel.org/DistributedArrays.jl/stable/\">https://juliaparallel.org/DistributedArrays.jl/stable/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/i...",
+      "published": "2026-04-17T07:32:43+00:00",
+      "domain": "juliaparallel.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Can AI agents autonomously design components on photonic chips?",
+      "link": "https://engineering.flexcompute.com/articles/autoresearch-photonic-design/",
+      "summary": "<p>Article URL: <a href=\"https://engineering.flexcompute.com/articles/autoresearch-photonic-design/\">https://engineering.flexcompute.com/articles/autoresearch-photonic-design/</a></p>\n<p>Comments URL:...",
+      "published": "2026-04-17T07:29:26+00:00",
+      "domain": "engineering.flexcompute.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Chinese carmaker patents voice-controlled 'in-vehicle toilet'",
+      "link": "https://www.bbc.com/news/articles/c1l92yv4mydo",
+      "summary": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/c1l92yv4mydo\">https://www.bbc.com/news/articles/c1l92yv4mydo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47803355\"...",
+      "published": "2026-04-17T07:24:55+00:00",
+      "domain": "bbc.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -591,58 +639,10 @@
       }
     },
     {
-      "title": "Everything we like is a psyop",
-      "link": "https://techcrunch.com/2026/04/16/everything-we-like-is-a-psyop/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47800738\">Comments</a>...",
-      "published": "2026-04-16T23:15:33+00:00",
-      "domain": "techcrunch.com",
-      "scores": {
-        "chaos": 9.0,
-        "anarchy": 6.0,
-        "overall": 7.5
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine",
-      "link": "https://github.com/gainsec/autoprober",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47800033\">Comments</a>...",
-      "published": "2026-04-16T21:56:37+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
       "title": "ThreatsDay Bulletin: Defender 0-Day,\u00a0SonicWall Brute-Force, 17-Year-Old Excel RCE and 15 More Stories",
       "link": "https://thehackernews.com/2026/04/threatsday-bulletin-17-year-old-excel.html",
       "summary": "You&nbsp;know that feeling when you open your feed on a Thursday morning and it's just... a&nbsp;lot? Yeah. This&nbsp;week delivered. We've got hackers getting creative in ways that are almost impress...",
       "published": "2026-04-16T18:35:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "[Webinar] Find and Eliminate Orphaned Non-Human Identities in Your Environment",
-      "link": "https://thehackernews.com/2026/04/webinar-find-and-eliminate-orphaned-non.html",
-      "summary": "In 2024, compromised service accounts and forgotten API keys were behind 68% of cloud breaches. Not&nbsp;phishing. Not&nbsp;weak passwords. Unmanaged non-human identities that nobody was&nbsp;watching...",
-      "published": "2026-04-16T17:25:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
