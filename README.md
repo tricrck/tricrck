@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Newly Discovered PowMix Botnet Hits Czech Workers Using Randomized C2 Traffic
-- **Published**: April 16, 2026
-- **Summary**: Cybersecurity researchers have warned of an active malicious campaign that's targeting the workforce in the Czech Republic with a previously undocumen...
-- [Read more](https://thehackernews.com/2026/04/newly-discovered-powmix-botnet-hits.html)
+### Component "security.ubuntu.com" and a few other components are Down
+- **Published**: April 17, 2026
+- **Summary**: https://status.canonical.com/#/incident/KNms6......
+- **Keywords**: down
+- [Read more](https://status.canonical.com/#/incident/KNms6QK9ewuzz-7xUsPsNylV20jEt5kyKsd8A-3ptQFa8k37yMVCakd1y82gpxYeEt07wF1uNR34bFYe1FyUoQ==)
 
-### The Case for Semi-Autonomous Nonprofits
+### Everything we like is a psyop
 - **Published**: April 16, 2026
-- **Summary**: https://emresarbak.com/semi-autonomous-nonprofits.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/i......
-- [Read more](https://emresarbak.com/semi-autonomous-nonprofits.html)
+- **Summary**: ......
+- [Read more](https://techcrunch.com/2026/04/16/everything-we-like-is-a-psyop/)
 
 ---
 

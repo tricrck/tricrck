@@ -1,6 +1,104 @@
 {
   "chaos_ranked": [
     {
+      "title": "Component \"security.ubuntu.com\" and a few other components are Down",
+      "link": "https://status.canonical.com/#/incident/KNms6QK9ewuzz-7xUsPsNylV20jEt5kyKsd8A-3ptQFa8k37yMVCakd1y82gpxYeEt07wF1uNR34bFYe1FyUoQ==",
+      "summary": "<p>Article URL: <a href=\"https://status.canonical.com/#/incident/KNms6QK9ewuzz-7xUsPsNylV20jEt5kyKsd8A-3ptQFa8k37yMVCakd1y82gpxYeEt07wF1uNR34bFYe1FyUoQ==\">https://status.canonical.com/#/incident/KNms6...",
+      "published": "2026-04-17T02:22:04+00:00",
+      "domain": "status.canonical.com",
+      "scores": {
+        "chaos": 12.3,
+        "anarchy": 3.0,
+        "overall": 7.7
+      },
+      "keywords": {
+        "chaos": [
+          "down"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Everything we like is a psyop",
+      "link": "https://techcrunch.com/2026/04/16/everything-we-like-is-a-psyop/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47800738\">Comments</a>...",
+      "published": "2026-04-16T23:15:33+00:00",
+      "domain": "techcrunch.com",
+      "scores": {
+        "chaos": 9.0,
+        "anarchy": 6.0,
+        "overall": 7.5
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Robot golf vs. holes that keep getting harder [video]",
+      "link": "https://www.youtube.com/watch?v=2OfjZ3ORJfc",
+      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=2OfjZ3ORJfc\">https://www.youtube.com/watch?v=2OfjZ3ORJfc</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47801916\">https...",
+      "published": "2026-04-17T02:33:20+00:00",
+      "domain": "youtube.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Parcae: Doing more with fewer parameters using stable looped models",
+      "link": "https://www.together.ai/blog/parcae",
+      "summary": "<p>Article URL: <a href=\"https://www.together.ai/blog/parcae\">https://www.together.ai/blog/parcae</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47801868\">https://news.ycombina...",
+      "published": "2026-04-17T02:23:23+00:00",
+      "domain": "together.ai",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Named Entity Recognition (NER) in Python with Spacy",
+      "link": "https://www.analyticsvidhya.com/blog/2021/06/nlp-application-named-entity-recognition-ner-in-python-with-spacy/",
+      "summary": "<p>Article URL: <a href=\"https://www.analyticsvidhya.com/blog/2021/06/nlp-application-named-entity-recognition-ner-in-python-with-spacy/\">https://www.analyticsvidhya.com/blog/2021/06/nlp-application-n...",
+      "published": "2026-04-17T02:20:17+00:00",
+      "domain": "analyticsvidhya.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "AWS Security Agent on-demand penetration testing is now generally available",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-security-agent-ondemand-penetration/",
+      "summary": "<p>Article URL: <a href=\"https://aws.amazon.com/about-aws/whats-new/2026/03/aws-security-agent-ondemand-penetration/\">https://aws.amazon.com/about-aws/whats-new/2026/03/aws-security-agent-ondemand-pen...",
+      "published": "2026-04-17T02:14:32+00:00",
+      "domain": "aws.amazon.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "Newly Discovered PowMix Botnet Hits Czech Workers Using Randomized C2 Traffic",
       "link": "https://thehackernews.com/2026/04/newly-discovered-powmix-botnet-hits.html",
       "summary": "Cybersecurity researchers have warned of an active malicious campaign that's targeting the workforce in the Czech Republic with a previously undocumented botnet&nbsp;dubbed PowMix since at least Decem...",
@@ -17,79 +115,11 @@
       }
     },
     {
-      "title": "The Case for Semi-Autonomous Nonprofits",
-      "link": "https://emresarbak.com/semi-autonomous-nonprofits.html",
-      "summary": "<p>Article URL: <a href=\"https://emresarbak.com/semi-autonomous-nonprofits.html\">https://emresarbak.com/semi-autonomous-nonprofits.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/i...",
-      "published": "2026-04-16T19:13:15+00:00",
-      "domain": "emresarbak.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 37.1,
-        "overall": 20.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": [
-          "autonomous",
-          "autonomous",
-          "autonomous"
-        ]
-      }
-    },
-    {
-      "title": "C++26: Structured Bindings in Conditions",
-      "link": "https://www.sandordargo.com/blog/2026/04/15/cpp26-structured-bindings-condition",
-      "summary": "<p>Article URL: <a href=\"https://www.sandordargo.com/blog/2026/04/15/cpp26-structured-bindings-condition\">https://www.sandordargo.com/blog/2026/04/15/cpp26-structured-bindings-condition</a></p>\n<p>Com...",
-      "published": "2026-04-16T19:12:26+00:00",
-      "domain": "sandordargo.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Sovereign Cloud Stats Every CIO Needs Before Their Next Board Meeting",
-      "link": "https://www.windriver.com/blog/Sovereign-Cloud-Stats-Every-CIO-Needs",
-      "summary": "<p>Article URL: <a href=\"https://www.windriver.com/blog/Sovereign-Cloud-Stats-Every-CIO-Needs\">https://www.windriver.com/blog/Sovereign-Cloud-Stats-Every-CIO-Needs</a></p>\n<p>Comments URL: <a href=\"ht...",
-      "published": "2026-04-16T19:12:14+00:00",
-      "domain": "windriver.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Zero-Copy Pages in Rust: Or How I Learned to Stop Worrying and Love Lifetimes",
-      "link": "https://redixhumayun.github.io/databases/2026/04/14/zero-copy-pages-in-rust.html",
-      "summary": "<p>Article URL: <a href=\"https://redixhumayun.github.io/databases/2026/04/14/zero-copy-pages-in-rust.html\">https://redixhumayun.github.io/databases/2026/04/14/zero-copy-pages-in-rust.html</a></p>\n<p>C...",
-      "published": "2026-04-16T19:12:08+00:00",
-      "domain": "redixhumayun.github.io",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Nvidia, DLSS5 and Breaking Rendering",
-      "link": "https://c0de517e.com/028_dlss5.htm",
-      "summary": "<p>Article URL: <a href=\"https://c0de517e.com/028_dlss5.htm\">https://c0de517e.com/028_dlss5.htm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47798083\">https://news.ycombinato...",
-      "published": "2026-04-16T19:11:39+00:00",
-      "domain": "c0de517e.com",
+      "title": "Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine",
+      "link": "https://github.com/gainsec/autoprober",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47800033\">Comments</a>...",
+      "published": "2026-04-16T21:56:37+00:00",
+      "domain": "github.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -122,38 +152,6 @@
       "summary": "In 2024, compromised service accounts and forgotten API keys were behind 68% of cloud breaches. Not&nbsp;phishing. Not&nbsp;weak passwords. Unmanaged non-human identities that nobody was&nbsp;watching...",
       "published": "2026-04-16T17:25:00+05:30",
       "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Codex for Almost Everything",
-      "link": "https://openai.com/index/codex-for-almost-everything/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47796469\">Comments</a>...",
-      "published": "2026-04-16T17:12:19+00:00",
-      "domain": "openai.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "A new way to explore the web with AI Mode in Chrome",
-      "link": "https://blog.google/products-and-platforms/products/search/ai-mode-chrome/",
-      "summary": "AI Mode in Chrome...",
-      "published": "2026-04-16T17:00:00+00:00",
-      "domain": "blog.google",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -167,23 +165,101 @@
   ],
   "anarchy_ranked": [
     {
-      "title": "The Case for Semi-Autonomous Nonprofits",
-      "link": "https://emresarbak.com/semi-autonomous-nonprofits.html",
-      "summary": "<p>Article URL: <a href=\"https://emresarbak.com/semi-autonomous-nonprofits.html\">https://emresarbak.com/semi-autonomous-nonprofits.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/i...",
-      "published": "2026-04-16T19:13:15+00:00",
-      "domain": "emresarbak.com",
+      "title": "Everything we like is a psyop",
+      "link": "https://techcrunch.com/2026/04/16/everything-we-like-is-a-psyop/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47800738\">Comments</a>...",
+      "published": "2026-04-16T23:15:33+00:00",
+      "domain": "techcrunch.com",
       "scores": {
-        "chaos": 3.0,
-        "anarchy": 37.1,
-        "overall": 20.0
+        "chaos": 9.0,
+        "anarchy": 6.0,
+        "overall": 7.5
       },
       "keywords": {
         "chaos": [],
-        "anarchy": [
-          "autonomous",
-          "autonomous",
-          "autonomous"
-        ]
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Robot golf vs. holes that keep getting harder [video]",
+      "link": "https://www.youtube.com/watch?v=2OfjZ3ORJfc",
+      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=2OfjZ3ORJfc\">https://www.youtube.com/watch?v=2OfjZ3ORJfc</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47801916\">https...",
+      "published": "2026-04-17T02:33:20+00:00",
+      "domain": "youtube.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Parcae: Doing more with fewer parameters using stable looped models",
+      "link": "https://www.together.ai/blog/parcae",
+      "summary": "<p>Article URL: <a href=\"https://www.together.ai/blog/parcae\">https://www.together.ai/blog/parcae</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47801868\">https://news.ycombina...",
+      "published": "2026-04-17T02:23:23+00:00",
+      "domain": "together.ai",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Component \"security.ubuntu.com\" and a few other components are Down",
+      "link": "https://status.canonical.com/#/incident/KNms6QK9ewuzz-7xUsPsNylV20jEt5kyKsd8A-3ptQFa8k37yMVCakd1y82gpxYeEt07wF1uNR34bFYe1FyUoQ==",
+      "summary": "<p>Article URL: <a href=\"https://status.canonical.com/#/incident/KNms6QK9ewuzz-7xUsPsNylV20jEt5kyKsd8A-3ptQFa8k37yMVCakd1y82gpxYeEt07wF1uNR34bFYe1FyUoQ==\">https://status.canonical.com/#/incident/KNms6...",
+      "published": "2026-04-17T02:22:04+00:00",
+      "domain": "status.canonical.com",
+      "scores": {
+        "chaos": 12.3,
+        "anarchy": 3.0,
+        "overall": 7.7
+      },
+      "keywords": {
+        "chaos": [
+          "down"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Named Entity Recognition (NER) in Python with Spacy",
+      "link": "https://www.analyticsvidhya.com/blog/2021/06/nlp-application-named-entity-recognition-ner-in-python-with-spacy/",
+      "summary": "<p>Article URL: <a href=\"https://www.analyticsvidhya.com/blog/2021/06/nlp-application-named-entity-recognition-ner-in-python-with-spacy/\">https://www.analyticsvidhya.com/blog/2021/06/nlp-application-n...",
+      "published": "2026-04-17T02:20:17+00:00",
+      "domain": "analyticsvidhya.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "AWS Security Agent on-demand penetration testing is now generally available",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-security-agent-ondemand-penetration/",
+      "summary": "<p>Article URL: <a href=\"https://aws.amazon.com/about-aws/whats-new/2026/03/aws-security-agent-ondemand-penetration/\">https://aws.amazon.com/about-aws/whats-new/2026/03/aws-security-agent-ondemand-pen...",
+      "published": "2026-04-17T02:14:32+00:00",
+      "domain": "aws.amazon.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
       }
     },
     {
@@ -203,59 +279,11 @@
       }
     },
     {
-      "title": "C++26: Structured Bindings in Conditions",
-      "link": "https://www.sandordargo.com/blog/2026/04/15/cpp26-structured-bindings-condition",
-      "summary": "<p>Article URL: <a href=\"https://www.sandordargo.com/blog/2026/04/15/cpp26-structured-bindings-condition\">https://www.sandordargo.com/blog/2026/04/15/cpp26-structured-bindings-condition</a></p>\n<p>Com...",
-      "published": "2026-04-16T19:12:26+00:00",
-      "domain": "sandordargo.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Sovereign Cloud Stats Every CIO Needs Before Their Next Board Meeting",
-      "link": "https://www.windriver.com/blog/Sovereign-Cloud-Stats-Every-CIO-Needs",
-      "summary": "<p>Article URL: <a href=\"https://www.windriver.com/blog/Sovereign-Cloud-Stats-Every-CIO-Needs\">https://www.windriver.com/blog/Sovereign-Cloud-Stats-Every-CIO-Needs</a></p>\n<p>Comments URL: <a href=\"ht...",
-      "published": "2026-04-16T19:12:14+00:00",
-      "domain": "windriver.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Zero-Copy Pages in Rust: Or How I Learned to Stop Worrying and Love Lifetimes",
-      "link": "https://redixhumayun.github.io/databases/2026/04/14/zero-copy-pages-in-rust.html",
-      "summary": "<p>Article URL: <a href=\"https://redixhumayun.github.io/databases/2026/04/14/zero-copy-pages-in-rust.html\">https://redixhumayun.github.io/databases/2026/04/14/zero-copy-pages-in-rust.html</a></p>\n<p>C...",
-      "published": "2026-04-16T19:12:08+00:00",
-      "domain": "redixhumayun.github.io",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Nvidia, DLSS5 and Breaking Rendering",
-      "link": "https://c0de517e.com/028_dlss5.htm",
-      "summary": "<p>Article URL: <a href=\"https://c0de517e.com/028_dlss5.htm\">https://c0de517e.com/028_dlss5.htm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47798083\">https://news.ycombinato...",
-      "published": "2026-04-16T19:11:39+00:00",
-      "domain": "c0de517e.com",
+      "title": "Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine",
+      "link": "https://github.com/gainsec/autoprober",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47800033\">Comments</a>...",
+      "published": "2026-04-16T21:56:37+00:00",
+      "domain": "github.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -288,38 +316,6 @@
       "summary": "In 2024, compromised service accounts and forgotten API keys were behind 68% of cloud breaches. Not&nbsp;phishing. Not&nbsp;weak passwords. Unmanaged non-human identities that nobody was&nbsp;watching...",
       "published": "2026-04-16T17:25:00+05:30",
       "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Codex for Almost Everything",
-      "link": "https://openai.com/index/codex-for-almost-everything/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47796469\">Comments</a>...",
-      "published": "2026-04-16T17:12:19+00:00",
-      "domain": "openai.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "A new way to explore the web with AI Mode in Chrome",
-      "link": "https://blog.google/products-and-platforms/products/search/ai-mode-chrome/",
-      "summary": "AI Mode in Chrome...",
-      "published": "2026-04-16T17:00:00+00:00",
-      "domain": "blog.google",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -333,23 +329,101 @@
   ],
   "overall_ranked": [
     {
-      "title": "The Case for Semi-Autonomous Nonprofits",
-      "link": "https://emresarbak.com/semi-autonomous-nonprofits.html",
-      "summary": "<p>Article URL: <a href=\"https://emresarbak.com/semi-autonomous-nonprofits.html\">https://emresarbak.com/semi-autonomous-nonprofits.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/i...",
-      "published": "2026-04-16T19:13:15+00:00",
-      "domain": "emresarbak.com",
+      "title": "Component \"security.ubuntu.com\" and a few other components are Down",
+      "link": "https://status.canonical.com/#/incident/KNms6QK9ewuzz-7xUsPsNylV20jEt5kyKsd8A-3ptQFa8k37yMVCakd1y82gpxYeEt07wF1uNR34bFYe1FyUoQ==",
+      "summary": "<p>Article URL: <a href=\"https://status.canonical.com/#/incident/KNms6QK9ewuzz-7xUsPsNylV20jEt5kyKsd8A-3ptQFa8k37yMVCakd1y82gpxYeEt07wF1uNR34bFYe1FyUoQ==\">https://status.canonical.com/#/incident/KNms6...",
+      "published": "2026-04-17T02:22:04+00:00",
+      "domain": "status.canonical.com",
       "scores": {
-        "chaos": 3.0,
-        "anarchy": 37.1,
-        "overall": 20.0
+        "chaos": 12.3,
+        "anarchy": 3.0,
+        "overall": 7.7
+      },
+      "keywords": {
+        "chaos": [
+          "down"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Everything we like is a psyop",
+      "link": "https://techcrunch.com/2026/04/16/everything-we-like-is-a-psyop/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47800738\">Comments</a>...",
+      "published": "2026-04-16T23:15:33+00:00",
+      "domain": "techcrunch.com",
+      "scores": {
+        "chaos": 9.0,
+        "anarchy": 6.0,
+        "overall": 7.5
       },
       "keywords": {
         "chaos": [],
-        "anarchy": [
-          "autonomous",
-          "autonomous",
-          "autonomous"
-        ]
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Robot golf vs. holes that keep getting harder [video]",
+      "link": "https://www.youtube.com/watch?v=2OfjZ3ORJfc",
+      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=2OfjZ3ORJfc\">https://www.youtube.com/watch?v=2OfjZ3ORJfc</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47801916\">https...",
+      "published": "2026-04-17T02:33:20+00:00",
+      "domain": "youtube.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Parcae: Doing more with fewer parameters using stable looped models",
+      "link": "https://www.together.ai/blog/parcae",
+      "summary": "<p>Article URL: <a href=\"https://www.together.ai/blog/parcae\">https://www.together.ai/blog/parcae</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47801868\">https://news.ycombina...",
+      "published": "2026-04-17T02:23:23+00:00",
+      "domain": "together.ai",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Named Entity Recognition (NER) in Python with Spacy",
+      "link": "https://www.analyticsvidhya.com/blog/2021/06/nlp-application-named-entity-recognition-ner-in-python-with-spacy/",
+      "summary": "<p>Article URL: <a href=\"https://www.analyticsvidhya.com/blog/2021/06/nlp-application-named-entity-recognition-ner-in-python-with-spacy/\">https://www.analyticsvidhya.com/blog/2021/06/nlp-application-n...",
+      "published": "2026-04-17T02:20:17+00:00",
+      "domain": "analyticsvidhya.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "AWS Security Agent on-demand penetration testing is now generally available",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-security-agent-ondemand-penetration/",
+      "summary": "<p>Article URL: <a href=\"https://aws.amazon.com/about-aws/whats-new/2026/03/aws-security-agent-ondemand-penetration/\">https://aws.amazon.com/about-aws/whats-new/2026/03/aws-security-agent-ondemand-pen...",
+      "published": "2026-04-17T02:14:32+00:00",
+      "domain": "aws.amazon.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
       }
     },
     {
@@ -369,59 +443,11 @@
       }
     },
     {
-      "title": "C++26: Structured Bindings in Conditions",
-      "link": "https://www.sandordargo.com/blog/2026/04/15/cpp26-structured-bindings-condition",
-      "summary": "<p>Article URL: <a href=\"https://www.sandordargo.com/blog/2026/04/15/cpp26-structured-bindings-condition\">https://www.sandordargo.com/blog/2026/04/15/cpp26-structured-bindings-condition</a></p>\n<p>Com...",
-      "published": "2026-04-16T19:12:26+00:00",
-      "domain": "sandordargo.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Sovereign Cloud Stats Every CIO Needs Before Their Next Board Meeting",
-      "link": "https://www.windriver.com/blog/Sovereign-Cloud-Stats-Every-CIO-Needs",
-      "summary": "<p>Article URL: <a href=\"https://www.windriver.com/blog/Sovereign-Cloud-Stats-Every-CIO-Needs\">https://www.windriver.com/blog/Sovereign-Cloud-Stats-Every-CIO-Needs</a></p>\n<p>Comments URL: <a href=\"ht...",
-      "published": "2026-04-16T19:12:14+00:00",
-      "domain": "windriver.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Zero-Copy Pages in Rust: Or How I Learned to Stop Worrying and Love Lifetimes",
-      "link": "https://redixhumayun.github.io/databases/2026/04/14/zero-copy-pages-in-rust.html",
-      "summary": "<p>Article URL: <a href=\"https://redixhumayun.github.io/databases/2026/04/14/zero-copy-pages-in-rust.html\">https://redixhumayun.github.io/databases/2026/04/14/zero-copy-pages-in-rust.html</a></p>\n<p>C...",
-      "published": "2026-04-16T19:12:08+00:00",
-      "domain": "redixhumayun.github.io",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Nvidia, DLSS5 and Breaking Rendering",
-      "link": "https://c0de517e.com/028_dlss5.htm",
-      "summary": "<p>Article URL: <a href=\"https://c0de517e.com/028_dlss5.htm\">https://c0de517e.com/028_dlss5.htm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47798083\">https://news.ycombinato...",
-      "published": "2026-04-16T19:11:39+00:00",
-      "domain": "c0de517e.com",
+      "title": "Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine",
+      "link": "https://github.com/gainsec/autoprober",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47800033\">Comments</a>...",
+      "published": "2026-04-16T21:56:37+00:00",
+      "domain": "github.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -454,38 +480,6 @@
       "summary": "In 2024, compromised service accounts and forgotten API keys were behind 68% of cloud breaches. Not&nbsp;phishing. Not&nbsp;weak passwords. Unmanaged non-human identities that nobody was&nbsp;watching...",
       "published": "2026-04-16T17:25:00+05:30",
       "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Codex for Almost Everything",
-      "link": "https://openai.com/index/codex-for-almost-everything/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47796469\">Comments</a>...",
-      "published": "2026-04-16T17:12:19+00:00",
-      "domain": "openai.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "A new way to explore the web with AI Mode in Chrome",
-      "link": "https://blog.google/products-and-platforms/products/search/ai-mode-chrome/",
-      "summary": "AI Mode in Chrome...",
-      "published": "2026-04-16T17:00:00+00:00",
-      "domain": "blog.google",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -499,6 +493,88 @@
   ],
   "all_articles": [
     {
+      "title": "Robot golf vs. holes that keep getting harder [video]",
+      "link": "https://www.youtube.com/watch?v=2OfjZ3ORJfc",
+      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=2OfjZ3ORJfc\">https://www.youtube.com/watch?v=2OfjZ3ORJfc</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47801916\">https...",
+      "published": "2026-04-17T02:33:20+00:00",
+      "domain": "youtube.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Parcae: Doing more with fewer parameters using stable looped models",
+      "link": "https://www.together.ai/blog/parcae",
+      "summary": "<p>Article URL: <a href=\"https://www.together.ai/blog/parcae\">https://www.together.ai/blog/parcae</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47801868\">https://news.ycombina...",
+      "published": "2026-04-17T02:23:23+00:00",
+      "domain": "together.ai",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Component \"security.ubuntu.com\" and a few other components are Down",
+      "link": "https://status.canonical.com/#/incident/KNms6QK9ewuzz-7xUsPsNylV20jEt5kyKsd8A-3ptQFa8k37yMVCakd1y82gpxYeEt07wF1uNR34bFYe1FyUoQ==",
+      "summary": "<p>Article URL: <a href=\"https://status.canonical.com/#/incident/KNms6QK9ewuzz-7xUsPsNylV20jEt5kyKsd8A-3ptQFa8k37yMVCakd1y82gpxYeEt07wF1uNR34bFYe1FyUoQ==\">https://status.canonical.com/#/incident/KNms6...",
+      "published": "2026-04-17T02:22:04+00:00",
+      "domain": "status.canonical.com",
+      "scores": {
+        "chaos": 12.3,
+        "anarchy": 3.0,
+        "overall": 7.7
+      },
+      "keywords": {
+        "chaos": [
+          "down"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Named Entity Recognition (NER) in Python with Spacy",
+      "link": "https://www.analyticsvidhya.com/blog/2021/06/nlp-application-named-entity-recognition-ner-in-python-with-spacy/",
+      "summary": "<p>Article URL: <a href=\"https://www.analyticsvidhya.com/blog/2021/06/nlp-application-named-entity-recognition-ner-in-python-with-spacy/\">https://www.analyticsvidhya.com/blog/2021/06/nlp-application-n...",
+      "published": "2026-04-17T02:20:17+00:00",
+      "domain": "analyticsvidhya.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "AWS Security Agent on-demand penetration testing is now generally available",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-security-agent-ondemand-penetration/",
+      "summary": "<p>Article URL: <a href=\"https://aws.amazon.com/about-aws/whats-new/2026/03/aws-security-agent-ondemand-penetration/\">https://aws.amazon.com/about-aws/whats-new/2026/03/aws-security-agent-ondemand-pen...",
+      "published": "2026-04-17T02:14:32+00:00",
+      "domain": "aws.amazon.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "Newly Discovered PowMix Botnet Hits Czech Workers Using Randomized C2 Traffic",
       "link": "https://thehackernews.com/2026/04/newly-discovered-powmix-botnet-hits.html",
       "summary": "Cybersecurity researchers have warned of an active malicious campaign that's targeting the workforce in the Czech Republic with a previously undocumented botnet&nbsp;dubbed PowMix since at least Decem...",
@@ -515,35 +591,15 @@
       }
     },
     {
-      "title": "The Case for Semi-Autonomous Nonprofits",
-      "link": "https://emresarbak.com/semi-autonomous-nonprofits.html",
-      "summary": "<p>Article URL: <a href=\"https://emresarbak.com/semi-autonomous-nonprofits.html\">https://emresarbak.com/semi-autonomous-nonprofits.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/i...",
-      "published": "2026-04-16T19:13:15+00:00",
-      "domain": "emresarbak.com",
+      "title": "Everything we like is a psyop",
+      "link": "https://techcrunch.com/2026/04/16/everything-we-like-is-a-psyop/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47800738\">Comments</a>...",
+      "published": "2026-04-16T23:15:33+00:00",
+      "domain": "techcrunch.com",
       "scores": {
-        "chaos": 3.0,
-        "anarchy": 37.1,
-        "overall": 20.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": [
-          "autonomous",
-          "autonomous",
-          "autonomous"
-        ]
-      }
-    },
-    {
-      "title": "C++26: Structured Bindings in Conditions",
-      "link": "https://www.sandordargo.com/blog/2026/04/15/cpp26-structured-bindings-condition",
-      "summary": "<p>Article URL: <a href=\"https://www.sandordargo.com/blog/2026/04/15/cpp26-structured-bindings-condition\">https://www.sandordargo.com/blog/2026/04/15/cpp26-structured-bindings-condition</a></p>\n<p>Com...",
-      "published": "2026-04-16T19:12:26+00:00",
-      "domain": "sandordargo.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
+        "chaos": 9.0,
+        "anarchy": 6.0,
+        "overall": 7.5
       },
       "keywords": {
         "chaos": [],
@@ -551,43 +607,11 @@
       }
     },
     {
-      "title": "Sovereign Cloud Stats Every CIO Needs Before Their Next Board Meeting",
-      "link": "https://www.windriver.com/blog/Sovereign-Cloud-Stats-Every-CIO-Needs",
-      "summary": "<p>Article URL: <a href=\"https://www.windriver.com/blog/Sovereign-Cloud-Stats-Every-CIO-Needs\">https://www.windriver.com/blog/Sovereign-Cloud-Stats-Every-CIO-Needs</a></p>\n<p>Comments URL: <a href=\"ht...",
-      "published": "2026-04-16T19:12:14+00:00",
-      "domain": "windriver.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Zero-Copy Pages in Rust: Or How I Learned to Stop Worrying and Love Lifetimes",
-      "link": "https://redixhumayun.github.io/databases/2026/04/14/zero-copy-pages-in-rust.html",
-      "summary": "<p>Article URL: <a href=\"https://redixhumayun.github.io/databases/2026/04/14/zero-copy-pages-in-rust.html\">https://redixhumayun.github.io/databases/2026/04/14/zero-copy-pages-in-rust.html</a></p>\n<p>C...",
-      "published": "2026-04-16T19:12:08+00:00",
-      "domain": "redixhumayun.github.io",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Nvidia, DLSS5 and Breaking Rendering",
-      "link": "https://c0de517e.com/028_dlss5.htm",
-      "summary": "<p>Article URL: <a href=\"https://c0de517e.com/028_dlss5.htm\">https://c0de517e.com/028_dlss5.htm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47798083\">https://news.ycombinato...",
-      "published": "2026-04-16T19:11:39+00:00",
-      "domain": "c0de517e.com",
+      "title": "Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine",
+      "link": "https://github.com/gainsec/autoprober",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47800033\">Comments</a>...",
+      "published": "2026-04-16T21:56:37+00:00",
+      "domain": "github.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -620,38 +644,6 @@
       "summary": "In 2024, compromised service accounts and forgotten API keys were behind 68% of cloud breaches. Not&nbsp;phishing. Not&nbsp;weak passwords. Unmanaged non-human identities that nobody was&nbsp;watching...",
       "published": "2026-04-16T17:25:00+05:30",
       "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Codex for Almost Everything",
-      "link": "https://openai.com/index/codex-for-almost-everything/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47796469\">Comments</a>...",
-      "published": "2026-04-16T17:12:19+00:00",
-      "domain": "openai.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "A new way to explore the web with AI Mode in Chrome",
-      "link": "https://blog.google/products-and-platforms/products/search/ai-mode-chrome/",
-      "summary": "AI Mode in Chrome...",
-      "published": "2026-04-16T17:00:00+00:00",
-      "domain": "blog.google",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
