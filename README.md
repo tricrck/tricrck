@@ -22,10 +22,10 @@
 - **Keywords**: down
 - [Read more](https://thehackernews.com/2026/04/operation-poweroff-seizes-53-ddos.html)
 
-### NIST Limits CVE Enrichment After 263% Surge in Vulnerability Submissions
+### Google Blocks 8.3B Policy-Violating Ads in 2025, Launches Android 17 Privacy Overhaul
 - **Published**: April 17, 2026
-- **Summary**: The National Institute of Standards and Technology (NIST) has announced changes to the way it handles cybersecurity vulnerabilities and exposures (CVE...
-- [Read more](https://thehackernews.com/2026/04/nist-limits-cve-enrichment-after-263.html)
+- **Summary**: Google this week announced a new set of Play policy updates to strengthen user privacy and protect businesses against fraud, even as it revealed it bl...
+- [Read more](https://thehackernews.com/2026/04/google-blocks-83b-policy-violating-ads.html)
 
 ---
 
