@@ -16,19 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Show HN: Arc Browser UI Skeleton (Next.js)
-- **Published**: April 17, 2026
-- **Summary**: https://arc-ui-skeleton.vercel.app/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47809345">https://news.ycombina......
-- [Read more](https://arc-ui-skeleton.vercel.app/)
+### White House and Anthropic hold meetings over Mythos model
+- **Published**: April 18, 2026
+- **Summary**: https://www.bbc.com/news/articles/cyv10e1d13po</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47812602"......
+- [Read more](https://www.bbc.com/news/articles/cyv10e1d13po)
 
-### Ask HN: I built a Blox Fruits trading tool – feedback?
-- **Published**: April 17, 2026
-- **Summary**: <p>I built a tool called Blox Fruits Play to help players trade better.<p>It includes:
-- Updated fruit values
-- Current stock tracking
-- A calculator ...
-- [Read more](https://news.ycombinator.com/item?id=47809344)
+### The Business Plot of 1933
+- **Published**: April 18, 2026
+- **Summary**: https://en.wikipedia.org/wiki/Business_Plot</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47812592">https......
+- [Read more](https://en.wikipedia.org/wiki/Business_Plot)
 
 ---
 
