@@ -16,15 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### US-sanctioned currency exchange says $15M heist done by "unfriendly stat
+### $13.74M Hack Shuts Down Sanctioned Grinex Exchange After Intelligence Claims
 - **Published**: April 18, 2026
-- **Summary**: https://arstechnica.com/security/2026/04/russia-......
-- [Read more](https://arstechnica.com/security/2026/04/russia-friendly-exchange-says-western-special-service-behind-15-million-cyberattack/)
+- **Summary**: Grinex, a Kyrgyzstan-incorporated cryptocurrency exchange sanctioned by the U.K. and the U.S. last year, said it's suspending operations after it blam...
+- **Keywords**: down
+- [Read more](https://thehackernews.com/2026/04/1374m-hack-shuts-down-sanctioned-grinex.html)
 
-### Mirai Variant Nexcorium Exploits CVE-2024-3721 to Hijack TBK DVRs for DDoS Botnet
+### [Webinar] Eliminate Ghost Identities Before They Expose Your Enterprise Data
 - **Published**: April 18, 2026
-- **Summary**: Threat actors are exploiting security flaws in TBK DVR and end‑of‑life (EoL) TP-Link Wi-Fi routers to deploy Mirai-botnet variants on compromised devi...
-- [Read more](https://thehackernews.com/2026/04/mirai-variant-nexcorium-exploits-cve.html)
+- **Summary**: In 2024, compromised service accounts and forgotten API keys were behind 68% of cloud breaches. Not&nbsp;phishing. Not&nbsp;weak passwords. Unmanaged ...
+- [Read more](https://thehackernews.com/2026/04/webinar-find-and-eliminate-orphaned-non.html)
 
 ---
 
