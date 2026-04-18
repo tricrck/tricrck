@@ -16,17 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### White House and Anthropic hold meetings over Mythos model
+### US-sanctioned currency exchange says $15M heist done by "unfriendly stat
 - **Published**: April 18, 2026
-- **Summary**: https://www.bbc.com/news/articles/cyv10e1d13po</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47812602"......
-- [Read more](https://www.bbc.com/news/articles/cyv10e1d13po)
+- **Summary**: https://arstechnica.com/security/2026/04/russia-......
+- [Read more](https://arstechnica.com/security/2026/04/russia-friendly-exchange-says-western-special-service-behind-15-million-cyberattack/)
 
-### The Business Plot of 1933
+### Mirai Variant Nexcorium Exploits CVE-2024-3721 to Hijack TBK DVRs for DDoS Botnet
 - **Published**: April 18, 2026
-- **Summary**: https://en.wikipedia.org/wiki/Business_Plot</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47812592">https......
-- [Read more](https://en.wikipedia.org/wiki/Business_Plot)
+- **Summary**: Threat actors are exploiting security flaws in TBK DVR and end‑of‑life (EoL) TP-Link Wi-Fi routers to deploy Mirai-botnet variants on compromised devi...
+- [Read more](https://thehackernews.com/2026/04/mirai-variant-nexcorium-exploits-cve.html)
 
 ---
 
