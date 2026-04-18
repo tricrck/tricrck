@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### $13.74M Hack Shuts Down Sanctioned Grinex Exchange After Intelligence Claims
+### What Emotion Goes Viral the Fastest? (2014)
 - **Published**: April 18, 2026
-- **Summary**: Grinex, a Kyrgyzstan-incorporated cryptocurrency exchange sanctioned by the U.K. and the U.S. last year, said it's suspending operations after it blam...
-- **Keywords**: down
-- [Read more](https://thehackernews.com/2026/04/1374m-hack-shuts-down-sanctioned-grinex.html)
+- **Summary**: https://www.smithsonianmag.com/science-nature/what-emotion-goes-viral-fastest-1809501......
+- [Read more](https://www.smithsonianmag.com/science-nature/what-emotion-goes-viral-fastest-180950182/)
 
-### [Webinar] Eliminate Ghost Identities Before They Expose Your Enterprise Data
+### Music discovery that works like flipping through record store bins
 - **Published**: April 18, 2026
-- **Summary**: In 2024, compromised service accounts and forgotten API keys were behind 68% of cloud breaches. Not&nbsp;phishing. Not&nbsp;weak passwords. Unmanaged ...
-- [Read more](https://thehackernews.com/2026/04/webinar-find-and-eliminate-orphaned-non.html)
+- **Summary**: https://app.vinylbins.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47818389">https://news.ycombinator.com/item?id=47......
+- [Read more](https://app.vinylbins.com/)
 
 ---
 
