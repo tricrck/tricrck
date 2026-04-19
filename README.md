@@ -16,16 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### The Software Factory Age: Why 2026 May Be the End of Artisan Coding
-- **Published**: April 19, 2026
-- **Summary**: https://argssh.substack.com/p/the-software-factory-age-why-2026</a></p>
-<p>Comments URL: <a href="https://news......
-- [Read more](https://argssh.substack.com/p/the-software-factory-age-why-2026)
+### $13.74M Hack Shuts Down Sanctioned Grinex Exchange After Intelligence Claims
+- **Published**: April 18, 2026
+- **Summary**: Grinex, a Kyrgyzstan-incorporated cryptocurrency exchange sanctioned by the U.K. and the U.S. last year, said it's suspending operations after it blam...
+- **Keywords**: down
+- [Read more](https://thehackernews.com/2026/04/1374m-hack-shuts-down-sanctioned-grinex.html)
 
-### Ran into a fake "LP" at a YC after-party and I need to vent
+### Regolo – Italian AI Provider
 - **Published**: April 19, 2026
-- **Summary**: <p>Went to a YC after-party last night, my co-founder was invited. Met some cool people. Also met the usual breed, guys who introduce themselves as "i...
-- [Read more](https://news.ycombinator.com/item?id=47821326)
+- **Summary**: https://regolo.ai/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47822408">https://news.ycombinator.com/item?id=47822408</a><...
+- [Read more](https://regolo.ai/)
 
 ---
 
