@@ -16,18 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Graphics: How the Strait of Hormuz closure affects global oil supply
+### The Wall of Shame
 - **Published**: April 19, 2026
-- **Summary**: https://www.reuters.com/graphics/IRAN-CRISIS/OIL-LNG/mopaokxlypa/</a></p>
-<p>Comments URL: <a href="https://......
-- **Keywords**: crisis, crisis
-- [Read more](https://www.reuters.com/graphics/IRAN-CRISIS/OIL-LNG/mopaokxlypa/)
+- **Summary**: https://gagor.pro/2026/04/the-wall-of-shame/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47826536">htt......
+- [Read more](https://gagor.pro/2026/04/the-wall-of-shame/)
 
-### $13.74M Hack Shuts Down Sanctioned Grinex Exchange After Intelligence Claims
-- **Published**: April 18, 2026
-- **Summary**: Grinex, a Kyrgyzstan-incorporated cryptocurrency exchange sanctioned by the U.K. and the U.S. last year, said it's suspending operations after it blam...
-- **Keywords**: down
-- [Read more](https://thehackernews.com/2026/04/1374m-hack-shuts-down-sanctioned-grinex.html)
+### Verum, examined – a systems language for an age when humans write less code
+- **Published**: April 19, 2026
+- **Summary**: https://verum-lang.org/blog/verum-examined</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47826531">https:/......
+- [Read more](https://verum-lang.org/blog/verum-examined)
 
 ---
 
