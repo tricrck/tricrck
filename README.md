@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### What Emotion Goes Viral the Fastest? (2014)
-- **Published**: April 18, 2026
-- **Summary**: https://www.smithsonianmag.com/science-nature/what-emotion-goes-viral-fastest-1809501......
-- [Read more](https://www.smithsonianmag.com/science-nature/what-emotion-goes-viral-fastest-180950182/)
+### The Software Factory Age: Why 2026 May Be the End of Artisan Coding
+- **Published**: April 19, 2026
+- **Summary**: https://argssh.substack.com/p/the-software-factory-age-why-2026</a></p>
+<p>Comments URL: <a href="https://news......
+- [Read more](https://argssh.substack.com/p/the-software-factory-age-why-2026)
 
-### Music discovery that works like flipping through record store bins
-- **Published**: April 18, 2026
-- **Summary**: https://app.vinylbins.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47818389">https://news.ycombinator.com/item?id=47......
-- [Read more](https://app.vinylbins.com/)
+### Ran into a fake "LP" at a YC after-party and I need to vent
+- **Published**: April 19, 2026
+- **Summary**: <p>Went to a YC after-party last night, my co-founder was invited. Met some cool people. Also met the usual breed, guys who introduce themselves as "i...
+- [Read more](https://news.ycombinator.com/item?id=47821326)
 
 ---
 
