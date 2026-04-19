@@ -16,17 +16,18 @@
 
 ## 🚨 Tech Stories
 
+### Graphics: How the Strait of Hormuz closure affects global oil supply
+- **Published**: April 19, 2026
+- **Summary**: https://www.reuters.com/graphics/IRAN-CRISIS/OIL-LNG/mopaokxlypa/</a></p>
+<p>Comments URL: <a href="https://......
+- **Keywords**: crisis, crisis
+- [Read more](https://www.reuters.com/graphics/IRAN-CRISIS/OIL-LNG/mopaokxlypa/)
+
 ### $13.74M Hack Shuts Down Sanctioned Grinex Exchange After Intelligence Claims
 - **Published**: April 18, 2026
 - **Summary**: Grinex, a Kyrgyzstan-incorporated cryptocurrency exchange sanctioned by the U.K. and the U.S. last year, said it's suspending operations after it blam...
 - **Keywords**: down
 - [Read more](https://thehackernews.com/2026/04/1374m-hack-shuts-down-sanctioned-grinex.html)
-
-### Regolo – Italian AI Provider
-- **Published**: April 19, 2026
-- **Summary**: https://regolo.ai/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47822408">https://news.ycombinator.com/item?id=47822408</a><...
-- [Read more](https://regolo.ai/)
 
 ---
 
