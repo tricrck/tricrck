@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Vercel Breach Tied to Context AI Hack Exposes Limited Customer Credentials
+### Why Most AI Deployments Stall After the Demo
 - **Published**: April 20, 2026
-- **Summary**: Web infrastructure provider Vercel has disclosed a security breach that allows bad actors to gain unauthorized access to "certain" internal Vercel sys...
-- [Read more](https://thehackernews.com/2026/04/vercel-breach-tied-to-context-ai-hack.html)
+- **Summary**: The fastest way to fall in love with an AI tool is to watch the demo.
+Everything moves quickly. Prompts land cleanly. The system produces impressive o...
+- [Read more](https://thehackernews.com/2026/04/why-most-ai-deployments-stall-after-demo.html)
 
-### Tracking when Trump chickens out
+### Anthropic MCP Design Vulnerability Enables RCE, Threatening AI Supply Chain
 - **Published**: April 20, 2026
-- **Summary**: https://www.thetacotracker.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47831499">https://news.ycombinator.com/......
-- [Read more](https://www.thetacotracker.com/)
+- **Summary**: Cybersecurity researchers have discovered a critical "by design" weakness in the Model Context Protocol's (MCP) architecture that could pave the way f...
+- [Read more](https://thehackernews.com/2026/04/anthropic-mcp-design-vulnerability.html)
 
 ---
 
