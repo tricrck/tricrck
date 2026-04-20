@@ -16,17 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### The Wall of Shame
-- **Published**: April 19, 2026
-- **Summary**: https://gagor.pro/2026/04/the-wall-of-shame/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47826536">htt......
-- [Read more](https://gagor.pro/2026/04/the-wall-of-shame/)
+### Anthropic installs spyware when you install Claude Desktop
+- **Published**: April 20, 2026
+- **Summary**: https://www.thatprivacyguy.com/blog/anthropic-spyware/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/i......
+- [Read more](https://www.thatprivacyguy.com/blog/anthropic-spyware/)
 
-### Verum, examined – a systems language for an age when humans write less code
-- **Published**: April 19, 2026
-- **Summary**: https://verum-lang.org/blog/verum-examined</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47826531">https:/......
-- [Read more](https://verum-lang.org/blog/verum-examined)
+### The Khan Ted Institute [video]
+- **Published**: April 20, 2026
+- **Summary**: https://www.youtube.com/watch?v=kEhRi1tFlhs</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47829789">https......
+- [Read more](https://www.youtube.com/watch?v=kEhRi1tFlhs)
 
 ---
 
