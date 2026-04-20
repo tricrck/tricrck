@@ -1,6 +1,134 @@
 {
   "chaos_ranked": [
     {
+      "title": "SGLang CVE-2026-5760 (CVSS 9.8) Enables RCE via Malicious GGUF Model Files",
+      "link": "https://thehackernews.com/2026/04/sglang-cve-2026-5760-cvss-98-enables.html",
+      "summary": "A critical security vulnerability has been disclosed in SGLang that, if successfully exploited, could result in remote code execution on susceptible systems.\nThe vulnerability, tracked as CVE-2026-576...",
+      "published": "2026-04-20T22:44:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "\u26a1 Weekly Recap: Vercel Hack, Push Fraud, QEMU Abused, New Android RATs Emerge & More",
+      "link": "https://thehackernews.com/2026/04/weekly-recap-vercel-hack-push-fraud.html",
+      "summary": "Monday\u2019s recap shows the same pattern in different places. A third-party tool becomes a way in, then leads to internal access. A trusted download path is briefly swapped to deliver malware. Browser ex...",
+      "published": "2026-04-20T19:11:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Muon G-2 Experiment Pioneers Win Breakthrough Prize in Fundamental Physics",
+      "link": "https://home.cern/news/press-release/cern/muon-g-2-experiment-pioneers-win-breakthrough-prize-fundamental-physics",
+      "summary": "<p>Article URL: <a href=\"https://home.cern/news/press-release/cern/muon-g-2-experiment-pioneers-win-breakthrough-prize-fundamental-physics\">https://home.cern/news/press-release/cern/muon-g-2-experimen...",
+      "published": "2026-04-20T19:01:31+00:00",
+      "domain": "home.cern",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "What Are We Doing?",
+      "link": "https://news.ycombinator.com/item?id=47839002",
+      "summary": "<p>This is just a stupid rant I have to get off my chest after having the worst possible day with the new Claude Opus 4.7 model.<p>This new model is highly intelligent according benchmarks but severel...",
+      "published": "2026-04-20T19:01:17+00:00",
+      "domain": "news.ycombinator.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Fail2Drive: Benchmarking Closed-Loop Driving Generalization",
+      "link": "https://simonger.github.io/fail2drive/",
+      "summary": "<p>Article URL: <a href=\"https://simonger.github.io/fail2drive/\">https://simonger.github.io/fail2drive/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47838976\">https://news.yc...",
+      "published": "2026-04-20T18:59:24+00:00",
+      "domain": "simonger.github.io",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Outrage over Israeli soldier's vandalism of Jesus statue in Lebanon",
+      "link": "https://www.bbc.com/news/articles/cpd575n1znzo",
+      "summary": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/cpd575n1znzo\">https://www.bbc.com/news/articles/cpd575n1znzo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47838969\"...",
+      "published": "2026-04-20T18:58:52+00:00",
+      "domain": "bbc.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Can you make a picture of a dog wearing a hat?",
+      "link": "https://dispatchesfromthefuture.substack.com/p/can-you-make-a-picture-of-a-dog-wearing",
+      "summary": "<p>Article URL: <a href=\"https://dispatchesfromthefuture.substack.com/p/can-you-make-a-picture-of-a-dog-wearing\">https://dispatchesfromthefuture.substack.com/p/can-you-make-a-picture-of-a-dog-wearing<...",
+      "published": "2026-04-20T18:58:27+00:00",
+      "domain": "dispatchesfromthefuture.substack.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "At long last, InfoWars is ours",
+      "link": "https://theonion.com/at-long-last-infowars-is-ours/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47837611\">Comments</a>...",
+      "published": "2026-04-20T17:23:58+00:00",
+      "domain": "theonion.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "Why Most AI Deployments Stall After the Demo",
       "link": "https://thehackernews.com/2026/04/why-most-ai-deployments-stall-after-demo.html",
       "summary": "The fastest way to fall in love with an AI tool is to watch the demo.\nEverything moves quickly. Prompts land cleanly. The system produces impressive outputs in seconds. It feels like the beginning of ...",
@@ -17,139 +145,11 @@
       }
     },
     {
-      "title": "Anthropic MCP Design Vulnerability Enables RCE, Threatening AI Supply Chain",
-      "link": "https://thehackernews.com/2026/04/anthropic-mcp-design-vulnerability.html",
-      "summary": "Cybersecurity researchers have discovered a critical \"by design\" weakness in the Model Context Protocol's (MCP) architecture that could pave the way for remote code execution and have a cascading effe...",
-      "published": "2026-04-20T16:12:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "All phones sold in the EU to have replaceable batteries from 2027",
-      "link": "https://www.theolivepress.es/spain-news/2026/04/20/eu-to-force-replaceable-batteries-in-phones-and-tablets-from-2027/",
-      "summary": "<p>Article URL: <a href=\"https://www.theolivepress.es/spain-news/2026/04/20/eu-to-force-replaceable-batteries-in-phones-and-tablets-from-2027/\">https://www.theolivepress.es/spain-news/2026/04/20/eu-to...",
-      "published": "2026-04-20T13:41:25+00:00",
-      "domain": "theolivepress.es",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: Workingasync.io \u2013 A job board for asynchronous remote jobs",
-      "link": "https://workingasync.io",
-      "summary": "<p>After living in multiple countries around the world and working remotely, and getting frustrated with hiring policies, I discovered that the best working cultures are asynchronous ones. Meetings ar...",
-      "published": "2026-04-20T13:41:15+00:00",
-      "domain": "workingasync.io",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: Saunas lower nighttime heart rate more than exercise (n=59,000)",
-      "link": "https://tryterra.co/research/sauna-effect-on-heart-rate",
-      "summary": "<p>Article URL: <a href=\"https://tryterra.co/research/sauna-effect-on-heart-rate\">https://tryterra.co/research/sauna-effect-on-heart-rate</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com...",
-      "published": "2026-04-20T13:40:28+00:00",
-      "domain": "tryterra.co",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Can AI Develop a Nose for News?",
-      "link": "https://www.unite.ai/can-ai-develop-a-nose-for-news/",
-      "summary": "<p>Article URL: <a href=\"https://www.unite.ai/can-ai-develop-a-nose-for-news/\">https://www.unite.ai/can-ai-develop-a-nose-for-news/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?...",
-      "published": "2026-04-20T13:40:02+00:00",
-      "domain": "unite.ai",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Things to say when you're losing a technical argument",
-      "link": "https://sciops.net/information/technology/losing_arguments",
-      "summary": "<p>Article URL: <a href=\"https://sciops.net/information/technology/losing_arguments\">https://sciops.net/information/technology/losing_arguments</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinat...",
-      "published": "2026-04-20T13:38:55+00:00",
-      "domain": "sciops.net",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Researchers Detect ZionSiphon Malware Targeting Israeli Water, Desalination OT Systems",
-      "link": "https://thehackernews.com/2026/04/researchers-detect-zionsiphon-malware.html",
-      "summary": "Cybersecurity researchers have flagged a new malware called ZionSiphon that appears to be specifically designed to target Israeli water treatment and desalination systems.\nThe malware has been codenam...",
-      "published": "2026-04-20T13:04:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "ggsql: A Grammar of Graphics for SQL",
-      "link": "https://opensource.posit.co/blog/2026-04-20_ggsql_alpha_release/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47833558\">Comments</a>...",
-      "published": "2026-04-20T12:51:20+00:00",
-      "domain": "opensource.posit.co",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "M 7.4 earthquake \u2013 100 km ENE of Miyako, Japan",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sri7/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47832248\">Comments</a>...",
-      "published": "2026-04-20T10:04:40+00:00",
-      "domain": "earthquake.usgs.gov",
+      "title": "The Theory of Interstellar Trade [pdf] (1978)",
+      "link": "https://www.princeton.edu/~pkrugman/interstellar.pdf",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47837105\">Comments</a>...",
+      "published": "2026-04-20T16:57:10+00:00",
+      "domain": "princeton.edu",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -163,6 +163,134 @@
   ],
   "anarchy_ranked": [
     {
+      "title": "SGLang CVE-2026-5760 (CVSS 9.8) Enables RCE via Malicious GGUF Model Files",
+      "link": "https://thehackernews.com/2026/04/sglang-cve-2026-5760-cvss-98-enables.html",
+      "summary": "A critical security vulnerability has been disclosed in SGLang that, if successfully exploited, could result in remote code execution on susceptible systems.\nThe vulnerability, tracked as CVE-2026-576...",
+      "published": "2026-04-20T22:44:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "\u26a1 Weekly Recap: Vercel Hack, Push Fraud, QEMU Abused, New Android RATs Emerge & More",
+      "link": "https://thehackernews.com/2026/04/weekly-recap-vercel-hack-push-fraud.html",
+      "summary": "Monday\u2019s recap shows the same pattern in different places. A third-party tool becomes a way in, then leads to internal access. A trusted download path is briefly swapped to deliver malware. Browser ex...",
+      "published": "2026-04-20T19:11:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Muon G-2 Experiment Pioneers Win Breakthrough Prize in Fundamental Physics",
+      "link": "https://home.cern/news/press-release/cern/muon-g-2-experiment-pioneers-win-breakthrough-prize-fundamental-physics",
+      "summary": "<p>Article URL: <a href=\"https://home.cern/news/press-release/cern/muon-g-2-experiment-pioneers-win-breakthrough-prize-fundamental-physics\">https://home.cern/news/press-release/cern/muon-g-2-experimen...",
+      "published": "2026-04-20T19:01:31+00:00",
+      "domain": "home.cern",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "What Are We Doing?",
+      "link": "https://news.ycombinator.com/item?id=47839002",
+      "summary": "<p>This is just a stupid rant I have to get off my chest after having the worst possible day with the new Claude Opus 4.7 model.<p>This new model is highly intelligent according benchmarks but severel...",
+      "published": "2026-04-20T19:01:17+00:00",
+      "domain": "news.ycombinator.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Fail2Drive: Benchmarking Closed-Loop Driving Generalization",
+      "link": "https://simonger.github.io/fail2drive/",
+      "summary": "<p>Article URL: <a href=\"https://simonger.github.io/fail2drive/\">https://simonger.github.io/fail2drive/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47838976\">https://news.yc...",
+      "published": "2026-04-20T18:59:24+00:00",
+      "domain": "simonger.github.io",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Outrage over Israeli soldier's vandalism of Jesus statue in Lebanon",
+      "link": "https://www.bbc.com/news/articles/cpd575n1znzo",
+      "summary": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/cpd575n1znzo\">https://www.bbc.com/news/articles/cpd575n1znzo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47838969\"...",
+      "published": "2026-04-20T18:58:52+00:00",
+      "domain": "bbc.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Can you make a picture of a dog wearing a hat?",
+      "link": "https://dispatchesfromthefuture.substack.com/p/can-you-make-a-picture-of-a-dog-wearing",
+      "summary": "<p>Article URL: <a href=\"https://dispatchesfromthefuture.substack.com/p/can-you-make-a-picture-of-a-dog-wearing\">https://dispatchesfromthefuture.substack.com/p/can-you-make-a-picture-of-a-dog-wearing<...",
+      "published": "2026-04-20T18:58:27+00:00",
+      "domain": "dispatchesfromthefuture.substack.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "At long last, InfoWars is ours",
+      "link": "https://theonion.com/at-long-last-infowars-is-ours/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47837611\">Comments</a>...",
+      "published": "2026-04-20T17:23:58+00:00",
+      "domain": "theonion.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "Why Most AI Deployments Stall After the Demo",
       "link": "https://thehackernews.com/2026/04/why-most-ai-deployments-stall-after-demo.html",
       "summary": "The fastest way to fall in love with an AI tool is to watch the demo.\nEverything moves quickly. Prompts land cleanly. The system produces impressive outputs in seconds. It feels like the beginning of ...",
@@ -179,139 +307,11 @@
       }
     },
     {
-      "title": "Anthropic MCP Design Vulnerability Enables RCE, Threatening AI Supply Chain",
-      "link": "https://thehackernews.com/2026/04/anthropic-mcp-design-vulnerability.html",
-      "summary": "Cybersecurity researchers have discovered a critical \"by design\" weakness in the Model Context Protocol's (MCP) architecture that could pave the way for remote code execution and have a cascading effe...",
-      "published": "2026-04-20T16:12:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "All phones sold in the EU to have replaceable batteries from 2027",
-      "link": "https://www.theolivepress.es/spain-news/2026/04/20/eu-to-force-replaceable-batteries-in-phones-and-tablets-from-2027/",
-      "summary": "<p>Article URL: <a href=\"https://www.theolivepress.es/spain-news/2026/04/20/eu-to-force-replaceable-batteries-in-phones-and-tablets-from-2027/\">https://www.theolivepress.es/spain-news/2026/04/20/eu-to...",
-      "published": "2026-04-20T13:41:25+00:00",
-      "domain": "theolivepress.es",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: Workingasync.io \u2013 A job board for asynchronous remote jobs",
-      "link": "https://workingasync.io",
-      "summary": "<p>After living in multiple countries around the world and working remotely, and getting frustrated with hiring policies, I discovered that the best working cultures are asynchronous ones. Meetings ar...",
-      "published": "2026-04-20T13:41:15+00:00",
-      "domain": "workingasync.io",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: Saunas lower nighttime heart rate more than exercise (n=59,000)",
-      "link": "https://tryterra.co/research/sauna-effect-on-heart-rate",
-      "summary": "<p>Article URL: <a href=\"https://tryterra.co/research/sauna-effect-on-heart-rate\">https://tryterra.co/research/sauna-effect-on-heart-rate</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com...",
-      "published": "2026-04-20T13:40:28+00:00",
-      "domain": "tryterra.co",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Can AI Develop a Nose for News?",
-      "link": "https://www.unite.ai/can-ai-develop-a-nose-for-news/",
-      "summary": "<p>Article URL: <a href=\"https://www.unite.ai/can-ai-develop-a-nose-for-news/\">https://www.unite.ai/can-ai-develop-a-nose-for-news/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?...",
-      "published": "2026-04-20T13:40:02+00:00",
-      "domain": "unite.ai",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Things to say when you're losing a technical argument",
-      "link": "https://sciops.net/information/technology/losing_arguments",
-      "summary": "<p>Article URL: <a href=\"https://sciops.net/information/technology/losing_arguments\">https://sciops.net/information/technology/losing_arguments</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinat...",
-      "published": "2026-04-20T13:38:55+00:00",
-      "domain": "sciops.net",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Researchers Detect ZionSiphon Malware Targeting Israeli Water, Desalination OT Systems",
-      "link": "https://thehackernews.com/2026/04/researchers-detect-zionsiphon-malware.html",
-      "summary": "Cybersecurity researchers have flagged a new malware called ZionSiphon that appears to be specifically designed to target Israeli water treatment and desalination systems.\nThe malware has been codenam...",
-      "published": "2026-04-20T13:04:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "ggsql: A Grammar of Graphics for SQL",
-      "link": "https://opensource.posit.co/blog/2026-04-20_ggsql_alpha_release/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47833558\">Comments</a>...",
-      "published": "2026-04-20T12:51:20+00:00",
-      "domain": "opensource.posit.co",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "M 7.4 earthquake \u2013 100 km ENE of Miyako, Japan",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sri7/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47832248\">Comments</a>...",
-      "published": "2026-04-20T10:04:40+00:00",
-      "domain": "earthquake.usgs.gov",
+      "title": "The Theory of Interstellar Trade [pdf] (1978)",
+      "link": "https://www.princeton.edu/~pkrugman/interstellar.pdf",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47837105\">Comments</a>...",
+      "published": "2026-04-20T16:57:10+00:00",
+      "domain": "princeton.edu",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -325,6 +325,134 @@
   ],
   "overall_ranked": [
     {
+      "title": "SGLang CVE-2026-5760 (CVSS 9.8) Enables RCE via Malicious GGUF Model Files",
+      "link": "https://thehackernews.com/2026/04/sglang-cve-2026-5760-cvss-98-enables.html",
+      "summary": "A critical security vulnerability has been disclosed in SGLang that, if successfully exploited, could result in remote code execution on susceptible systems.\nThe vulnerability, tracked as CVE-2026-576...",
+      "published": "2026-04-20T22:44:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "\u26a1 Weekly Recap: Vercel Hack, Push Fraud, QEMU Abused, New Android RATs Emerge & More",
+      "link": "https://thehackernews.com/2026/04/weekly-recap-vercel-hack-push-fraud.html",
+      "summary": "Monday\u2019s recap shows the same pattern in different places. A third-party tool becomes a way in, then leads to internal access. A trusted download path is briefly swapped to deliver malware. Browser ex...",
+      "published": "2026-04-20T19:11:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Muon G-2 Experiment Pioneers Win Breakthrough Prize in Fundamental Physics",
+      "link": "https://home.cern/news/press-release/cern/muon-g-2-experiment-pioneers-win-breakthrough-prize-fundamental-physics",
+      "summary": "<p>Article URL: <a href=\"https://home.cern/news/press-release/cern/muon-g-2-experiment-pioneers-win-breakthrough-prize-fundamental-physics\">https://home.cern/news/press-release/cern/muon-g-2-experimen...",
+      "published": "2026-04-20T19:01:31+00:00",
+      "domain": "home.cern",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "What Are We Doing?",
+      "link": "https://news.ycombinator.com/item?id=47839002",
+      "summary": "<p>This is just a stupid rant I have to get off my chest after having the worst possible day with the new Claude Opus 4.7 model.<p>This new model is highly intelligent according benchmarks but severel...",
+      "published": "2026-04-20T19:01:17+00:00",
+      "domain": "news.ycombinator.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Fail2Drive: Benchmarking Closed-Loop Driving Generalization",
+      "link": "https://simonger.github.io/fail2drive/",
+      "summary": "<p>Article URL: <a href=\"https://simonger.github.io/fail2drive/\">https://simonger.github.io/fail2drive/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47838976\">https://news.yc...",
+      "published": "2026-04-20T18:59:24+00:00",
+      "domain": "simonger.github.io",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Outrage over Israeli soldier's vandalism of Jesus statue in Lebanon",
+      "link": "https://www.bbc.com/news/articles/cpd575n1znzo",
+      "summary": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/cpd575n1znzo\">https://www.bbc.com/news/articles/cpd575n1znzo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47838969\"...",
+      "published": "2026-04-20T18:58:52+00:00",
+      "domain": "bbc.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Can you make a picture of a dog wearing a hat?",
+      "link": "https://dispatchesfromthefuture.substack.com/p/can-you-make-a-picture-of-a-dog-wearing",
+      "summary": "<p>Article URL: <a href=\"https://dispatchesfromthefuture.substack.com/p/can-you-make-a-picture-of-a-dog-wearing\">https://dispatchesfromthefuture.substack.com/p/can-you-make-a-picture-of-a-dog-wearing<...",
+      "published": "2026-04-20T18:58:27+00:00",
+      "domain": "dispatchesfromthefuture.substack.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "At long last, InfoWars is ours",
+      "link": "https://theonion.com/at-long-last-infowars-is-ours/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47837611\">Comments</a>...",
+      "published": "2026-04-20T17:23:58+00:00",
+      "domain": "theonion.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "Why Most AI Deployments Stall After the Demo",
       "link": "https://thehackernews.com/2026/04/why-most-ai-deployments-stall-after-demo.html",
       "summary": "The fastest way to fall in love with an AI tool is to watch the demo.\nEverything moves quickly. Prompts land cleanly. The system produces impressive outputs in seconds. It feels like the beginning of ...",
@@ -341,139 +469,11 @@
       }
     },
     {
-      "title": "Anthropic MCP Design Vulnerability Enables RCE, Threatening AI Supply Chain",
-      "link": "https://thehackernews.com/2026/04/anthropic-mcp-design-vulnerability.html",
-      "summary": "Cybersecurity researchers have discovered a critical \"by design\" weakness in the Model Context Protocol's (MCP) architecture that could pave the way for remote code execution and have a cascading effe...",
-      "published": "2026-04-20T16:12:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "All phones sold in the EU to have replaceable batteries from 2027",
-      "link": "https://www.theolivepress.es/spain-news/2026/04/20/eu-to-force-replaceable-batteries-in-phones-and-tablets-from-2027/",
-      "summary": "<p>Article URL: <a href=\"https://www.theolivepress.es/spain-news/2026/04/20/eu-to-force-replaceable-batteries-in-phones-and-tablets-from-2027/\">https://www.theolivepress.es/spain-news/2026/04/20/eu-to...",
-      "published": "2026-04-20T13:41:25+00:00",
-      "domain": "theolivepress.es",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: Workingasync.io \u2013 A job board for asynchronous remote jobs",
-      "link": "https://workingasync.io",
-      "summary": "<p>After living in multiple countries around the world and working remotely, and getting frustrated with hiring policies, I discovered that the best working cultures are asynchronous ones. Meetings ar...",
-      "published": "2026-04-20T13:41:15+00:00",
-      "domain": "workingasync.io",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: Saunas lower nighttime heart rate more than exercise (n=59,000)",
-      "link": "https://tryterra.co/research/sauna-effect-on-heart-rate",
-      "summary": "<p>Article URL: <a href=\"https://tryterra.co/research/sauna-effect-on-heart-rate\">https://tryterra.co/research/sauna-effect-on-heart-rate</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com...",
-      "published": "2026-04-20T13:40:28+00:00",
-      "domain": "tryterra.co",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Can AI Develop a Nose for News?",
-      "link": "https://www.unite.ai/can-ai-develop-a-nose-for-news/",
-      "summary": "<p>Article URL: <a href=\"https://www.unite.ai/can-ai-develop-a-nose-for-news/\">https://www.unite.ai/can-ai-develop-a-nose-for-news/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?...",
-      "published": "2026-04-20T13:40:02+00:00",
-      "domain": "unite.ai",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Things to say when you're losing a technical argument",
-      "link": "https://sciops.net/information/technology/losing_arguments",
-      "summary": "<p>Article URL: <a href=\"https://sciops.net/information/technology/losing_arguments\">https://sciops.net/information/technology/losing_arguments</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinat...",
-      "published": "2026-04-20T13:38:55+00:00",
-      "domain": "sciops.net",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Researchers Detect ZionSiphon Malware Targeting Israeli Water, Desalination OT Systems",
-      "link": "https://thehackernews.com/2026/04/researchers-detect-zionsiphon-malware.html",
-      "summary": "Cybersecurity researchers have flagged a new malware called ZionSiphon that appears to be specifically designed to target Israeli water treatment and desalination systems.\nThe malware has been codenam...",
-      "published": "2026-04-20T13:04:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "ggsql: A Grammar of Graphics for SQL",
-      "link": "https://opensource.posit.co/blog/2026-04-20_ggsql_alpha_release/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47833558\">Comments</a>...",
-      "published": "2026-04-20T12:51:20+00:00",
-      "domain": "opensource.posit.co",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "M 7.4 earthquake \u2013 100 km ENE of Miyako, Japan",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sri7/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47832248\">Comments</a>...",
-      "published": "2026-04-20T10:04:40+00:00",
-      "domain": "earthquake.usgs.gov",
+      "title": "The Theory of Interstellar Trade [pdf] (1978)",
+      "link": "https://www.princeton.edu/~pkrugman/interstellar.pdf",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47837105\">Comments</a>...",
+      "published": "2026-04-20T16:57:10+00:00",
+      "domain": "princeton.edu",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -487,6 +487,134 @@
   ],
   "all_articles": [
     {
+      "title": "SGLang CVE-2026-5760 (CVSS 9.8) Enables RCE via Malicious GGUF Model Files",
+      "link": "https://thehackernews.com/2026/04/sglang-cve-2026-5760-cvss-98-enables.html",
+      "summary": "A critical security vulnerability has been disclosed in SGLang that, if successfully exploited, could result in remote code execution on susceptible systems.\nThe vulnerability, tracked as CVE-2026-576...",
+      "published": "2026-04-20T22:44:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "\u26a1 Weekly Recap: Vercel Hack, Push Fraud, QEMU Abused, New Android RATs Emerge & More",
+      "link": "https://thehackernews.com/2026/04/weekly-recap-vercel-hack-push-fraud.html",
+      "summary": "Monday\u2019s recap shows the same pattern in different places. A third-party tool becomes a way in, then leads to internal access. A trusted download path is briefly swapped to deliver malware. Browser ex...",
+      "published": "2026-04-20T19:11:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Muon G-2 Experiment Pioneers Win Breakthrough Prize in Fundamental Physics",
+      "link": "https://home.cern/news/press-release/cern/muon-g-2-experiment-pioneers-win-breakthrough-prize-fundamental-physics",
+      "summary": "<p>Article URL: <a href=\"https://home.cern/news/press-release/cern/muon-g-2-experiment-pioneers-win-breakthrough-prize-fundamental-physics\">https://home.cern/news/press-release/cern/muon-g-2-experimen...",
+      "published": "2026-04-20T19:01:31+00:00",
+      "domain": "home.cern",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "What Are We Doing?",
+      "link": "https://news.ycombinator.com/item?id=47839002",
+      "summary": "<p>This is just a stupid rant I have to get off my chest after having the worst possible day with the new Claude Opus 4.7 model.<p>This new model is highly intelligent according benchmarks but severel...",
+      "published": "2026-04-20T19:01:17+00:00",
+      "domain": "news.ycombinator.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Fail2Drive: Benchmarking Closed-Loop Driving Generalization",
+      "link": "https://simonger.github.io/fail2drive/",
+      "summary": "<p>Article URL: <a href=\"https://simonger.github.io/fail2drive/\">https://simonger.github.io/fail2drive/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47838976\">https://news.yc...",
+      "published": "2026-04-20T18:59:24+00:00",
+      "domain": "simonger.github.io",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Outrage over Israeli soldier's vandalism of Jesus statue in Lebanon",
+      "link": "https://www.bbc.com/news/articles/cpd575n1znzo",
+      "summary": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/cpd575n1znzo\">https://www.bbc.com/news/articles/cpd575n1znzo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47838969\"...",
+      "published": "2026-04-20T18:58:52+00:00",
+      "domain": "bbc.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Can you make a picture of a dog wearing a hat?",
+      "link": "https://dispatchesfromthefuture.substack.com/p/can-you-make-a-picture-of-a-dog-wearing",
+      "summary": "<p>Article URL: <a href=\"https://dispatchesfromthefuture.substack.com/p/can-you-make-a-picture-of-a-dog-wearing\">https://dispatchesfromthefuture.substack.com/p/can-you-make-a-picture-of-a-dog-wearing<...",
+      "published": "2026-04-20T18:58:27+00:00",
+      "domain": "dispatchesfromthefuture.substack.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "At long last, InfoWars is ours",
+      "link": "https://theonion.com/at-long-last-infowars-is-ours/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47837611\">Comments</a>...",
+      "published": "2026-04-20T17:23:58+00:00",
+      "domain": "theonion.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "Why Most AI Deployments Stall After the Demo",
       "link": "https://thehackernews.com/2026/04/why-most-ai-deployments-stall-after-demo.html",
       "summary": "The fastest way to fall in love with an AI tool is to watch the demo.\nEverything moves quickly. Prompts land cleanly. The system produces impressive outputs in seconds. It feels like the beginning of ...",
@@ -503,139 +631,11 @@
       }
     },
     {
-      "title": "Anthropic MCP Design Vulnerability Enables RCE, Threatening AI Supply Chain",
-      "link": "https://thehackernews.com/2026/04/anthropic-mcp-design-vulnerability.html",
-      "summary": "Cybersecurity researchers have discovered a critical \"by design\" weakness in the Model Context Protocol's (MCP) architecture that could pave the way for remote code execution and have a cascading effe...",
-      "published": "2026-04-20T16:12:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "All phones sold in the EU to have replaceable batteries from 2027",
-      "link": "https://www.theolivepress.es/spain-news/2026/04/20/eu-to-force-replaceable-batteries-in-phones-and-tablets-from-2027/",
-      "summary": "<p>Article URL: <a href=\"https://www.theolivepress.es/spain-news/2026/04/20/eu-to-force-replaceable-batteries-in-phones-and-tablets-from-2027/\">https://www.theolivepress.es/spain-news/2026/04/20/eu-to...",
-      "published": "2026-04-20T13:41:25+00:00",
-      "domain": "theolivepress.es",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: Workingasync.io \u2013 A job board for asynchronous remote jobs",
-      "link": "https://workingasync.io",
-      "summary": "<p>After living in multiple countries around the world and working remotely, and getting frustrated with hiring policies, I discovered that the best working cultures are asynchronous ones. Meetings ar...",
-      "published": "2026-04-20T13:41:15+00:00",
-      "domain": "workingasync.io",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: Saunas lower nighttime heart rate more than exercise (n=59,000)",
-      "link": "https://tryterra.co/research/sauna-effect-on-heart-rate",
-      "summary": "<p>Article URL: <a href=\"https://tryterra.co/research/sauna-effect-on-heart-rate\">https://tryterra.co/research/sauna-effect-on-heart-rate</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com...",
-      "published": "2026-04-20T13:40:28+00:00",
-      "domain": "tryterra.co",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Can AI Develop a Nose for News?",
-      "link": "https://www.unite.ai/can-ai-develop-a-nose-for-news/",
-      "summary": "<p>Article URL: <a href=\"https://www.unite.ai/can-ai-develop-a-nose-for-news/\">https://www.unite.ai/can-ai-develop-a-nose-for-news/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?...",
-      "published": "2026-04-20T13:40:02+00:00",
-      "domain": "unite.ai",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Things to say when you're losing a technical argument",
-      "link": "https://sciops.net/information/technology/losing_arguments",
-      "summary": "<p>Article URL: <a href=\"https://sciops.net/information/technology/losing_arguments\">https://sciops.net/information/technology/losing_arguments</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinat...",
-      "published": "2026-04-20T13:38:55+00:00",
-      "domain": "sciops.net",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Researchers Detect ZionSiphon Malware Targeting Israeli Water, Desalination OT Systems",
-      "link": "https://thehackernews.com/2026/04/researchers-detect-zionsiphon-malware.html",
-      "summary": "Cybersecurity researchers have flagged a new malware called ZionSiphon that appears to be specifically designed to target Israeli water treatment and desalination systems.\nThe malware has been codenam...",
-      "published": "2026-04-20T13:04:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "ggsql: A Grammar of Graphics for SQL",
-      "link": "https://opensource.posit.co/blog/2026-04-20_ggsql_alpha_release/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47833558\">Comments</a>...",
-      "published": "2026-04-20T12:51:20+00:00",
-      "domain": "opensource.posit.co",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "M 7.4 earthquake \u2013 100 km ENE of Miyako, Japan",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sri7/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47832248\">Comments</a>...",
-      "published": "2026-04-20T10:04:40+00:00",
-      "domain": "earthquake.usgs.gov",
+      "title": "The Theory of Interstellar Trade [pdf] (1978)",
+      "link": "https://www.princeton.edu/~pkrugman/interstellar.pdf",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47837105\">Comments</a>...",
+      "published": "2026-04-20T16:57:10+00:00",
+      "domain": "princeton.edu",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,

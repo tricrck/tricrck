@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Why Most AI Deployments Stall After the Demo
+### SGLang CVE-2026-5760 (CVSS 9.8) Enables RCE via Malicious GGUF Model Files
 - **Published**: April 20, 2026
-- **Summary**: The fastest way to fall in love with an AI tool is to watch the demo.
-Everything moves quickly. Prompts land cleanly. The system produces impressive o...
-- [Read more](https://thehackernews.com/2026/04/why-most-ai-deployments-stall-after-demo.html)
+- **Summary**: A critical security vulnerability has been disclosed in SGLang that, if successfully exploited, could result in remote code execution on susceptible s...
+- [Read more](https://thehackernews.com/2026/04/sglang-cve-2026-5760-cvss-98-enables.html)
 
-### Anthropic MCP Design Vulnerability Enables RCE, Threatening AI Supply Chain
+### ⚡ Weekly Recap: Vercel Hack, Push Fraud, QEMU Abused, New Android RATs Emerge & More
 - **Published**: April 20, 2026
-- **Summary**: Cybersecurity researchers have discovered a critical "by design" weakness in the Model Context Protocol's (MCP) architecture that could pave the way f...
-- [Read more](https://thehackernews.com/2026/04/anthropic-mcp-design-vulnerability.html)
+- **Summary**: Monday’s recap shows the same pattern in different places. A third-party tool becomes a way in, then leads to internal access. A trusted download path...
+- [Read more](https://thehackernews.com/2026/04/weekly-recap-vercel-hack-push-fraud.html)
 
 ---
 
