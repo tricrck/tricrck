@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Anthropic installs spyware when you install Claude Desktop
+### Vercel Breach Tied to Context AI Hack Exposes Limited Customer Credentials
 - **Published**: April 20, 2026
-- **Summary**: https://www.thatprivacyguy.com/blog/anthropic-spyware/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/i......
-- [Read more](https://www.thatprivacyguy.com/blog/anthropic-spyware/)
+- **Summary**: Web infrastructure provider Vercel has disclosed a security breach that allows bad actors to gain unauthorized access to "certain" internal Vercel sys...
+- [Read more](https://thehackernews.com/2026/04/vercel-breach-tied-to-context-ai-hack.html)
 
-### The Khan Ted Institute [video]
+### Tracking when Trump chickens out
 - **Published**: April 20, 2026
-- **Summary**: https://www.youtube.com/watch?v=kEhRi1tFlhs</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47829789">https......
-- [Read more](https://www.youtube.com/watch?v=kEhRi1tFlhs)
+- **Summary**: https://www.thetacotracker.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47831499">https://news.ycombinator.com/......
+- [Read more](https://www.thetacotracker.com/)
 
 ---
 
