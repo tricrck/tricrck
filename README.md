@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### A Roblox cheat and one AI tool brought down Vercel's platform
+### 5 Places where Mature SOCs Keep MTTR Fast and Others Waste Time
 - **Published**: April 21, 2026
-- **Summary**: ......
-- **Keywords**: down
-- [Read more](https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform)
+- **Summary**: Security teams often present MTTR as an internal KPI. Leadership sees it differently: every hour a threat dwells inside the environment is an hour of ...
+- **Keywords**: disruption
+- [Read more](https://thehackernews.com/2026/04/5-places-where-mature-socs-keep-mttr.html)
 
-### CISA Adds 8 Exploited Flaws to KEV, Sets April-May 2026 Federal Deadlines
+### NGate Campaign Targets Brazil, Trojanizes HandyPay to Steal NFC Data and PINs
 - **Published**: April 21, 2026
-- **Summary**: The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added eight new vulnerabilities to its Known Exploited Vulnerabilities (KEV...
-- [Read more](https://thehackernews.com/2026/04/cisa-adds-8-exploited-flaws-to-kev-sets.html)
+- **Summary**: Cybersecurity researchers have discovered a new iteration of an Android malware family called&nbsp;NGate&nbsp;that has been found to abuse a legitimat...
+- [Read more](https://thehackernews.com/2026/04/ngate-campaign-targets-brazil.html)
 
 ---
 

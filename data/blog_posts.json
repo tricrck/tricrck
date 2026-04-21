@@ -1,20 +1,100 @@
 {
   "chaos_ranked": [
     {
-      "title": "A Roblox cheat and one AI tool brought down Vercel's platform",
-      "link": "https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47844431\">Comments</a>...",
-      "published": "2026-04-21T04:12:12+00:00",
-      "domain": "webmatrices.com",
+      "title": "5 Places where Mature SOCs Keep MTTR Fast and Others Waste Time",
+      "link": "https://thehackernews.com/2026/04/5-places-where-mature-socs-keep-mttr.html",
+      "summary": "Security teams often present MTTR as an internal KPI. Leadership sees it differently: every hour a threat dwells inside the environment is an hour of potential data exfiltration, service disruption, r...",
+      "published": "2026-04-21T18:30:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
-        "chaos": 15.2,
+        "chaos": 12.8,
         "anarchy": 3.0,
-        "overall": 9.1
+        "overall": 7.9
       },
       "keywords": {
         "chaos": [
-          "down"
+          "disruption"
         ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "NGate Campaign Targets Brazil, Trojanizes HandyPay to Steal NFC Data and PINs",
+      "link": "https://thehackernews.com/2026/04/ngate-campaign-targets-brazil.html",
+      "summary": "Cybersecurity researchers have discovered a new iteration of an Android malware family called&nbsp;NGate&nbsp;that has been found to abuse a legitimate application called&nbsp;HandyPay instead of NFCG...",
+      "published": "2026-04-21T18:15:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "No Exploit Needed: How Attackers Walk Through the Front Door via Identity-Based Attacks",
+      "link": "https://thehackernews.com/2026/04/no-exploit-needed-how-attackers-walk.html",
+      "summary": "The cybersecurity industry has spent the last several years chasing sophisticated threats like zero-days, supply chain compromises, and AI-generated exploits. However, the most reliable entry point fo...",
+      "published": "2026-04-21T17:00:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Google Patches Antigravity IDE Flaw Enabling Prompt Injection Code Execution",
+      "link": "https://thehackernews.com/2026/04/google-patches-antigravity-ide-flaw.html",
+      "summary": "Cybersecurity researchers have discovered a vulnerability in Google's agentic integrated development environment (IDE), Antigravity, that could be exploited to achieve code execution.\nThe flaw, since ...",
+      "published": "2026-04-21T15:52:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The abandoned war: Why no one is stopping the genocide in Sudan",
+      "link": "https://respublica.media/en/en-sudan-abandoned-war-genocide-no-one-stopping/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47847928\">Comments</a>...",
+      "published": "2026-04-21T12:36:50+00:00",
+      "domain": "respublica.media",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: VidStudio, a browser based video editor that doesn't upload your files",
+      "link": "https://vidstudio.app/video-editor",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47847558\">Comments</a>...",
+      "published": "2026-04-21T11:58:16+00:00",
+      "domain": "vidstudio.app",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
         "anarchy": []
       }
     },
@@ -35,11 +115,11 @@
       }
     },
     {
-      "title": "Show HN: AnyHabit \u2013 A minimalist habit tracker for Raspberry Pi and Docker",
-      "link": "https://github.com/Sparths/AnyHabit",
-      "summary": "<p>Hey everyone, I recently built AnyHabit, a minimalist, self-hosted habit tracker designed for home servers, and I just released v0.1.0 and made it fully open-source under GPLv3. I wanted something ...",
-      "published": "2026-04-21T07:46:20+00:00",
-      "domain": "github.com",
+      "title": "Laws of Software Engineering",
+      "link": "https://lawsofsoftwareengineering.com",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47847179\">Comments</a>...",
+      "published": "2026-04-21T11:04:56+00:00",
+      "domain": "lawsofsoftwareengineering.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -51,11 +131,11 @@
       }
     },
     {
-      "title": "Show HN: I made an AI fitness coach that makes sure you reach the goal",
-      "link": "https://news.ycombinator.com/item?id=47845785",
-      "summary": "<p>I've been using a small version of this on myself at the gym for the past year.  Instead of logging sets and counting macros, you could just upload a photo of yourself every week and the AI tells y...",
-      "published": "2026-04-21T07:45:37+00:00",
-      "domain": "news.ycombinator.com",
+      "title": "A type-safe, realtime collaborative Graph Database in a CRDT",
+      "link": "https://codemix.com/graph",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47846946\">Comments</a>...",
+      "published": "2026-04-21T10:33:24+00:00",
+      "domain": "codemix.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -67,91 +147,11 @@
       }
     },
     {
-      "title": "Highlights from Git 2.54",
-      "link": "https://github.blog/open-source/git/highlights-from-git-2-54/",
-      "summary": "<p>Article URL: <a href=\"https://github.blog/open-source/git/highlights-from-git-2-54/\">https://github.blog/open-source/git/highlights-from-git-2-54/</a></p>\n<p>Comments URL: <a href=\"https://news.yco...",
-      "published": "2026-04-21T07:43:49+00:00",
-      "domain": "github.blog",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Enhancing Sporting Organisation Efficiency with Generative AI",
-      "link": "https://sinankprn.com/posts/enhancing-sporting-organisation-efficiency-with-generative-ai/",
-      "summary": "<p>Article URL: <a href=\"https://sinankprn.com/posts/enhancing-sporting-organisation-efficiency-with-generative-ai/\">https://sinankprn.com/posts/enhancing-sporting-organisation-efficiency-with-generat...",
-      "published": "2026-04-21T07:43:22+00:00",
-      "domain": "sinankprn.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Reconstructing a Vue and Three.js app from a single Webpack bundle",
-      "link": "https://news.ycombinator.com/item?id=47845767",
-      "summary": "<p>I\u2019ve been working on a small project that tries to reconstruct readable source code from bundled JavaScript.<p>I recently tested it on a real-world example:\na Vue 2 + Three.js tower defense game th...",
-      "published": "2026-04-21T07:43:13+00:00",
-      "domain": "news.ycombinator.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Louis Zocchi, inventor of the d100, has died",
-      "link": "https://icv2.com/articles/news/view/62176/r-i-p-louis-zocchi-the-godfather-dice",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47845231\">Comments</a>...",
-      "published": "2026-04-21T06:19:15+00:00",
-      "domain": "icv2.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The Beauty of Bonsai Styles",
-      "link": "https://longwoodgardens.org/blog/2023-05-17/beauty-bonsai-styles",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47844539\">Comments</a>...",
-      "published": "2026-04-21T04:31:30+00:00",
-      "domain": "longwoodgardens.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Anthropic says OpenClaw-style Claude CLI usage is allowed again",
-      "link": "https://docs.openclaw.ai/providers/anthropic",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47844269\">Comments</a>...",
-      "published": "2026-04-21T03:43:03+00:00",
-      "domain": "docs.openclaw.ai",
+      "title": "John Ternus to become Apple CEO",
+      "link": "https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47840219\">Comments</a>...",
+      "published": "2026-04-20T20:39:32+00:00",
+      "domain": "apple.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -165,6 +165,104 @@
   ],
   "anarchy_ranked": [
     {
+      "title": "5 Places where Mature SOCs Keep MTTR Fast and Others Waste Time",
+      "link": "https://thehackernews.com/2026/04/5-places-where-mature-socs-keep-mttr.html",
+      "summary": "Security teams often present MTTR as an internal KPI. Leadership sees it differently: every hour a threat dwells inside the environment is an hour of potential data exfiltration, service disruption, r...",
+      "published": "2026-04-21T18:30:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 12.8,
+        "anarchy": 3.0,
+        "overall": 7.9
+      },
+      "keywords": {
+        "chaos": [
+          "disruption"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "NGate Campaign Targets Brazil, Trojanizes HandyPay to Steal NFC Data and PINs",
+      "link": "https://thehackernews.com/2026/04/ngate-campaign-targets-brazil.html",
+      "summary": "Cybersecurity researchers have discovered a new iteration of an Android malware family called&nbsp;NGate&nbsp;that has been found to abuse a legitimate application called&nbsp;HandyPay instead of NFCG...",
+      "published": "2026-04-21T18:15:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "No Exploit Needed: How Attackers Walk Through the Front Door via Identity-Based Attacks",
+      "link": "https://thehackernews.com/2026/04/no-exploit-needed-how-attackers-walk.html",
+      "summary": "The cybersecurity industry has spent the last several years chasing sophisticated threats like zero-days, supply chain compromises, and AI-generated exploits. However, the most reliable entry point fo...",
+      "published": "2026-04-21T17:00:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Google Patches Antigravity IDE Flaw Enabling Prompt Injection Code Execution",
+      "link": "https://thehackernews.com/2026/04/google-patches-antigravity-ide-flaw.html",
+      "summary": "Cybersecurity researchers have discovered a vulnerability in Google's agentic integrated development environment (IDE), Antigravity, that could be exploited to achieve code execution.\nThe flaw, since ...",
+      "published": "2026-04-21T15:52:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The abandoned war: Why no one is stopping the genocide in Sudan",
+      "link": "https://respublica.media/en/en-sudan-abandoned-war-genocide-no-one-stopping/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47847928\">Comments</a>...",
+      "published": "2026-04-21T12:36:50+00:00",
+      "domain": "respublica.media",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: VidStudio, a browser based video editor that doesn't upload your files",
+      "link": "https://vidstudio.app/video-editor",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47847558\">Comments</a>...",
+      "published": "2026-04-21T11:58:16+00:00",
+      "domain": "vidstudio.app",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "CISA Adds 8 Exploited Flaws to KEV, Sets April-May 2026 Federal Deadlines",
       "link": "https://thehackernews.com/2026/04/cisa-adds-8-exploited-flaws-to-kev-sets.html",
       "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added eight new vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog, including three flaws impacting Cisco C...",
@@ -181,11 +279,11 @@
       }
     },
     {
-      "title": "Show HN: AnyHabit \u2013 A minimalist habit tracker for Raspberry Pi and Docker",
-      "link": "https://github.com/Sparths/AnyHabit",
-      "summary": "<p>Hey everyone, I recently built AnyHabit, a minimalist, self-hosted habit tracker designed for home servers, and I just released v0.1.0 and made it fully open-source under GPLv3. I wanted something ...",
-      "published": "2026-04-21T07:46:20+00:00",
-      "domain": "github.com",
+      "title": "Laws of Software Engineering",
+      "link": "https://lawsofsoftwareengineering.com",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47847179\">Comments</a>...",
+      "published": "2026-04-21T11:04:56+00:00",
+      "domain": "lawsofsoftwareengineering.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -197,11 +295,11 @@
       }
     },
     {
-      "title": "Show HN: I made an AI fitness coach that makes sure you reach the goal",
-      "link": "https://news.ycombinator.com/item?id=47845785",
-      "summary": "<p>I've been using a small version of this on myself at the gym for the past year.  Instead of logging sets and counting macros, you could just upload a photo of yourself every week and the AI tells y...",
-      "published": "2026-04-21T07:45:37+00:00",
-      "domain": "news.ycombinator.com",
+      "title": "A type-safe, realtime collaborative Graph Database in a CRDT",
+      "link": "https://codemix.com/graph",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47846946\">Comments</a>...",
+      "published": "2026-04-21T10:33:24+00:00",
+      "domain": "codemix.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -213,109 +311,11 @@
       }
     },
     {
-      "title": "Highlights from Git 2.54",
-      "link": "https://github.blog/open-source/git/highlights-from-git-2-54/",
-      "summary": "<p>Article URL: <a href=\"https://github.blog/open-source/git/highlights-from-git-2-54/\">https://github.blog/open-source/git/highlights-from-git-2-54/</a></p>\n<p>Comments URL: <a href=\"https://news.yco...",
-      "published": "2026-04-21T07:43:49+00:00",
-      "domain": "github.blog",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Enhancing Sporting Organisation Efficiency with Generative AI",
-      "link": "https://sinankprn.com/posts/enhancing-sporting-organisation-efficiency-with-generative-ai/",
-      "summary": "<p>Article URL: <a href=\"https://sinankprn.com/posts/enhancing-sporting-organisation-efficiency-with-generative-ai/\">https://sinankprn.com/posts/enhancing-sporting-organisation-efficiency-with-generat...",
-      "published": "2026-04-21T07:43:22+00:00",
-      "domain": "sinankprn.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Reconstructing a Vue and Three.js app from a single Webpack bundle",
-      "link": "https://news.ycombinator.com/item?id=47845767",
-      "summary": "<p>I\u2019ve been working on a small project that tries to reconstruct readable source code from bundled JavaScript.<p>I recently tested it on a real-world example:\na Vue 2 + Three.js tower defense game th...",
-      "published": "2026-04-21T07:43:13+00:00",
-      "domain": "news.ycombinator.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Louis Zocchi, inventor of the d100, has died",
-      "link": "https://icv2.com/articles/news/view/62176/r-i-p-louis-zocchi-the-godfather-dice",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47845231\">Comments</a>...",
-      "published": "2026-04-21T06:19:15+00:00",
-      "domain": "icv2.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The Beauty of Bonsai Styles",
-      "link": "https://longwoodgardens.org/blog/2023-05-17/beauty-bonsai-styles",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47844539\">Comments</a>...",
-      "published": "2026-04-21T04:31:30+00:00",
-      "domain": "longwoodgardens.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "A Roblox cheat and one AI tool brought down Vercel's platform",
-      "link": "https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47844431\">Comments</a>...",
-      "published": "2026-04-21T04:12:12+00:00",
-      "domain": "webmatrices.com",
-      "scores": {
-        "chaos": 15.2,
-        "anarchy": 3.0,
-        "overall": 9.1
-      },
-      "keywords": {
-        "chaos": [
-          "down"
-        ],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Anthropic says OpenClaw-style Claude CLI usage is allowed again",
-      "link": "https://docs.openclaw.ai/providers/anthropic",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47844269\">Comments</a>...",
-      "published": "2026-04-21T03:43:03+00:00",
-      "domain": "docs.openclaw.ai",
+      "title": "John Ternus to become Apple CEO",
+      "link": "https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47840219\">Comments</a>...",
+      "published": "2026-04-20T20:39:32+00:00",
+      "domain": "apple.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -329,20 +329,100 @@
   ],
   "overall_ranked": [
     {
-      "title": "A Roblox cheat and one AI tool brought down Vercel's platform",
-      "link": "https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47844431\">Comments</a>...",
-      "published": "2026-04-21T04:12:12+00:00",
-      "domain": "webmatrices.com",
+      "title": "5 Places where Mature SOCs Keep MTTR Fast and Others Waste Time",
+      "link": "https://thehackernews.com/2026/04/5-places-where-mature-socs-keep-mttr.html",
+      "summary": "Security teams often present MTTR as an internal KPI. Leadership sees it differently: every hour a threat dwells inside the environment is an hour of potential data exfiltration, service disruption, r...",
+      "published": "2026-04-21T18:30:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
-        "chaos": 15.2,
+        "chaos": 12.8,
         "anarchy": 3.0,
-        "overall": 9.1
+        "overall": 7.9
       },
       "keywords": {
         "chaos": [
-          "down"
+          "disruption"
         ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "NGate Campaign Targets Brazil, Trojanizes HandyPay to Steal NFC Data and PINs",
+      "link": "https://thehackernews.com/2026/04/ngate-campaign-targets-brazil.html",
+      "summary": "Cybersecurity researchers have discovered a new iteration of an Android malware family called&nbsp;NGate&nbsp;that has been found to abuse a legitimate application called&nbsp;HandyPay instead of NFCG...",
+      "published": "2026-04-21T18:15:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "No Exploit Needed: How Attackers Walk Through the Front Door via Identity-Based Attacks",
+      "link": "https://thehackernews.com/2026/04/no-exploit-needed-how-attackers-walk.html",
+      "summary": "The cybersecurity industry has spent the last several years chasing sophisticated threats like zero-days, supply chain compromises, and AI-generated exploits. However, the most reliable entry point fo...",
+      "published": "2026-04-21T17:00:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Google Patches Antigravity IDE Flaw Enabling Prompt Injection Code Execution",
+      "link": "https://thehackernews.com/2026/04/google-patches-antigravity-ide-flaw.html",
+      "summary": "Cybersecurity researchers have discovered a vulnerability in Google's agentic integrated development environment (IDE), Antigravity, that could be exploited to achieve code execution.\nThe flaw, since ...",
+      "published": "2026-04-21T15:52:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The abandoned war: Why no one is stopping the genocide in Sudan",
+      "link": "https://respublica.media/en/en-sudan-abandoned-war-genocide-no-one-stopping/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47847928\">Comments</a>...",
+      "published": "2026-04-21T12:36:50+00:00",
+      "domain": "respublica.media",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: VidStudio, a browser based video editor that doesn't upload your files",
+      "link": "https://vidstudio.app/video-editor",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47847558\">Comments</a>...",
+      "published": "2026-04-21T11:58:16+00:00",
+      "domain": "vidstudio.app",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
         "anarchy": []
       }
     },
@@ -363,11 +443,11 @@
       }
     },
     {
-      "title": "Show HN: AnyHabit \u2013 A minimalist habit tracker for Raspberry Pi and Docker",
-      "link": "https://github.com/Sparths/AnyHabit",
-      "summary": "<p>Hey everyone, I recently built AnyHabit, a minimalist, self-hosted habit tracker designed for home servers, and I just released v0.1.0 and made it fully open-source under GPLv3. I wanted something ...",
-      "published": "2026-04-21T07:46:20+00:00",
-      "domain": "github.com",
+      "title": "Laws of Software Engineering",
+      "link": "https://lawsofsoftwareengineering.com",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47847179\">Comments</a>...",
+      "published": "2026-04-21T11:04:56+00:00",
+      "domain": "lawsofsoftwareengineering.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -379,11 +459,11 @@
       }
     },
     {
-      "title": "Show HN: I made an AI fitness coach that makes sure you reach the goal",
-      "link": "https://news.ycombinator.com/item?id=47845785",
-      "summary": "<p>I've been using a small version of this on myself at the gym for the past year.  Instead of logging sets and counting macros, you could just upload a photo of yourself every week and the AI tells y...",
-      "published": "2026-04-21T07:45:37+00:00",
-      "domain": "news.ycombinator.com",
+      "title": "A type-safe, realtime collaborative Graph Database in a CRDT",
+      "link": "https://codemix.com/graph",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47846946\">Comments</a>...",
+      "published": "2026-04-21T10:33:24+00:00",
+      "domain": "codemix.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -395,91 +475,11 @@
       }
     },
     {
-      "title": "Highlights from Git 2.54",
-      "link": "https://github.blog/open-source/git/highlights-from-git-2-54/",
-      "summary": "<p>Article URL: <a href=\"https://github.blog/open-source/git/highlights-from-git-2-54/\">https://github.blog/open-source/git/highlights-from-git-2-54/</a></p>\n<p>Comments URL: <a href=\"https://news.yco...",
-      "published": "2026-04-21T07:43:49+00:00",
-      "domain": "github.blog",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Enhancing Sporting Organisation Efficiency with Generative AI",
-      "link": "https://sinankprn.com/posts/enhancing-sporting-organisation-efficiency-with-generative-ai/",
-      "summary": "<p>Article URL: <a href=\"https://sinankprn.com/posts/enhancing-sporting-organisation-efficiency-with-generative-ai/\">https://sinankprn.com/posts/enhancing-sporting-organisation-efficiency-with-generat...",
-      "published": "2026-04-21T07:43:22+00:00",
-      "domain": "sinankprn.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Reconstructing a Vue and Three.js app from a single Webpack bundle",
-      "link": "https://news.ycombinator.com/item?id=47845767",
-      "summary": "<p>I\u2019ve been working on a small project that tries to reconstruct readable source code from bundled JavaScript.<p>I recently tested it on a real-world example:\na Vue 2 + Three.js tower defense game th...",
-      "published": "2026-04-21T07:43:13+00:00",
-      "domain": "news.ycombinator.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Louis Zocchi, inventor of the d100, has died",
-      "link": "https://icv2.com/articles/news/view/62176/r-i-p-louis-zocchi-the-godfather-dice",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47845231\">Comments</a>...",
-      "published": "2026-04-21T06:19:15+00:00",
-      "domain": "icv2.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The Beauty of Bonsai Styles",
-      "link": "https://longwoodgardens.org/blog/2023-05-17/beauty-bonsai-styles",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47844539\">Comments</a>...",
-      "published": "2026-04-21T04:31:30+00:00",
-      "domain": "longwoodgardens.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Anthropic says OpenClaw-style Claude CLI usage is allowed again",
-      "link": "https://docs.openclaw.ai/providers/anthropic",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47844269\">Comments</a>...",
-      "published": "2026-04-21T03:43:03+00:00",
-      "domain": "docs.openclaw.ai",
+      "title": "John Ternus to become Apple CEO",
+      "link": "https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47840219\">Comments</a>...",
+      "published": "2026-04-20T20:39:32+00:00",
+      "domain": "apple.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -493,6 +493,104 @@
   ],
   "all_articles": [
     {
+      "title": "5 Places where Mature SOCs Keep MTTR Fast and Others Waste Time",
+      "link": "https://thehackernews.com/2026/04/5-places-where-mature-socs-keep-mttr.html",
+      "summary": "Security teams often present MTTR as an internal KPI. Leadership sees it differently: every hour a threat dwells inside the environment is an hour of potential data exfiltration, service disruption, r...",
+      "published": "2026-04-21T18:30:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 12.8,
+        "anarchy": 3.0,
+        "overall": 7.9
+      },
+      "keywords": {
+        "chaos": [
+          "disruption"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "NGate Campaign Targets Brazil, Trojanizes HandyPay to Steal NFC Data and PINs",
+      "link": "https://thehackernews.com/2026/04/ngate-campaign-targets-brazil.html",
+      "summary": "Cybersecurity researchers have discovered a new iteration of an Android malware family called&nbsp;NGate&nbsp;that has been found to abuse a legitimate application called&nbsp;HandyPay instead of NFCG...",
+      "published": "2026-04-21T18:15:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "No Exploit Needed: How Attackers Walk Through the Front Door via Identity-Based Attacks",
+      "link": "https://thehackernews.com/2026/04/no-exploit-needed-how-attackers-walk.html",
+      "summary": "The cybersecurity industry has spent the last several years chasing sophisticated threats like zero-days, supply chain compromises, and AI-generated exploits. However, the most reliable entry point fo...",
+      "published": "2026-04-21T17:00:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Google Patches Antigravity IDE Flaw Enabling Prompt Injection Code Execution",
+      "link": "https://thehackernews.com/2026/04/google-patches-antigravity-ide-flaw.html",
+      "summary": "Cybersecurity researchers have discovered a vulnerability in Google's agentic integrated development environment (IDE), Antigravity, that could be exploited to achieve code execution.\nThe flaw, since ...",
+      "published": "2026-04-21T15:52:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The abandoned war: Why no one is stopping the genocide in Sudan",
+      "link": "https://respublica.media/en/en-sudan-abandoned-war-genocide-no-one-stopping/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47847928\">Comments</a>...",
+      "published": "2026-04-21T12:36:50+00:00",
+      "domain": "respublica.media",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: VidStudio, a browser based video editor that doesn't upload your files",
+      "link": "https://vidstudio.app/video-editor",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47847558\">Comments</a>...",
+      "published": "2026-04-21T11:58:16+00:00",
+      "domain": "vidstudio.app",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "CISA Adds 8 Exploited Flaws to KEV, Sets April-May 2026 Federal Deadlines",
       "link": "https://thehackernews.com/2026/04/cisa-adds-8-exploited-flaws-to-kev-sets.html",
       "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added eight new vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog, including three flaws impacting Cisco C...",
@@ -509,11 +607,11 @@
       }
     },
     {
-      "title": "Show HN: AnyHabit \u2013 A minimalist habit tracker for Raspberry Pi and Docker",
-      "link": "https://github.com/Sparths/AnyHabit",
-      "summary": "<p>Hey everyone, I recently built AnyHabit, a minimalist, self-hosted habit tracker designed for home servers, and I just released v0.1.0 and made it fully open-source under GPLv3. I wanted something ...",
-      "published": "2026-04-21T07:46:20+00:00",
-      "domain": "github.com",
+      "title": "Laws of Software Engineering",
+      "link": "https://lawsofsoftwareengineering.com",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47847179\">Comments</a>...",
+      "published": "2026-04-21T11:04:56+00:00",
+      "domain": "lawsofsoftwareengineering.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -525,11 +623,11 @@
       }
     },
     {
-      "title": "Show HN: I made an AI fitness coach that makes sure you reach the goal",
-      "link": "https://news.ycombinator.com/item?id=47845785",
-      "summary": "<p>I've been using a small version of this on myself at the gym for the past year.  Instead of logging sets and counting macros, you could just upload a photo of yourself every week and the AI tells y...",
-      "published": "2026-04-21T07:45:37+00:00",
-      "domain": "news.ycombinator.com",
+      "title": "A type-safe, realtime collaborative Graph Database in a CRDT",
+      "link": "https://codemix.com/graph",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47846946\">Comments</a>...",
+      "published": "2026-04-21T10:33:24+00:00",
+      "domain": "codemix.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -541,109 +639,11 @@
       }
     },
     {
-      "title": "Highlights from Git 2.54",
-      "link": "https://github.blog/open-source/git/highlights-from-git-2-54/",
-      "summary": "<p>Article URL: <a href=\"https://github.blog/open-source/git/highlights-from-git-2-54/\">https://github.blog/open-source/git/highlights-from-git-2-54/</a></p>\n<p>Comments URL: <a href=\"https://news.yco...",
-      "published": "2026-04-21T07:43:49+00:00",
-      "domain": "github.blog",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Enhancing Sporting Organisation Efficiency with Generative AI",
-      "link": "https://sinankprn.com/posts/enhancing-sporting-organisation-efficiency-with-generative-ai/",
-      "summary": "<p>Article URL: <a href=\"https://sinankprn.com/posts/enhancing-sporting-organisation-efficiency-with-generative-ai/\">https://sinankprn.com/posts/enhancing-sporting-organisation-efficiency-with-generat...",
-      "published": "2026-04-21T07:43:22+00:00",
-      "domain": "sinankprn.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Reconstructing a Vue and Three.js app from a single Webpack bundle",
-      "link": "https://news.ycombinator.com/item?id=47845767",
-      "summary": "<p>I\u2019ve been working on a small project that tries to reconstruct readable source code from bundled JavaScript.<p>I recently tested it on a real-world example:\na Vue 2 + Three.js tower defense game th...",
-      "published": "2026-04-21T07:43:13+00:00",
-      "domain": "news.ycombinator.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Louis Zocchi, inventor of the d100, has died",
-      "link": "https://icv2.com/articles/news/view/62176/r-i-p-louis-zocchi-the-godfather-dice",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47845231\">Comments</a>...",
-      "published": "2026-04-21T06:19:15+00:00",
-      "domain": "icv2.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The Beauty of Bonsai Styles",
-      "link": "https://longwoodgardens.org/blog/2023-05-17/beauty-bonsai-styles",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47844539\">Comments</a>...",
-      "published": "2026-04-21T04:31:30+00:00",
-      "domain": "longwoodgardens.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "A Roblox cheat and one AI tool brought down Vercel's platform",
-      "link": "https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47844431\">Comments</a>...",
-      "published": "2026-04-21T04:12:12+00:00",
-      "domain": "webmatrices.com",
-      "scores": {
-        "chaos": 15.2,
-        "anarchy": 3.0,
-        "overall": 9.1
-      },
-      "keywords": {
-        "chaos": [
-          "down"
-        ],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Anthropic says OpenClaw-style Claude CLI usage is allowed again",
-      "link": "https://docs.openclaw.ai/providers/anthropic",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47844269\">Comments</a>...",
-      "published": "2026-04-21T03:43:03+00:00",
-      "domain": "docs.openclaw.ai",
+      "title": "John Ternus to become Apple CEO",
+      "link": "https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47840219\">Comments</a>...",
+      "published": "2026-04-20T20:39:32+00:00",
+      "domain": "apple.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
