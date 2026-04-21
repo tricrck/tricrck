@@ -22,10 +22,10 @@
 - **Keywords**: disruption
 - [Read more](https://thehackernews.com/2026/04/5-places-where-mature-socs-keep-mttr.html)
 
-### NGate Campaign Targets Brazil, Trojanizes HandyPay to Steal NFC Data and PINs
+### 22 BRIDGE:BREAK Flaws Expose Thousands of Lantronix and Silex Serial-to-IP Converters
 - **Published**: April 21, 2026
-- **Summary**: Cybersecurity researchers have discovered a new iteration of an Android malware family called&nbsp;NGate&nbsp;that has been found to abuse a legitimat...
-- [Read more](https://thehackernews.com/2026/04/ngate-campaign-targets-brazil.html)
+- **Summary**: Cybersecurity researchers have identified 22 new vulnerabilities in popular models of serial-to-IP converters from Lantronix and Silex that could be e...
+- [Read more](https://thehackernews.com/2026/04/22-bridgebreak-flaws-expose-20000.html)
 
 ---
 
