@@ -16,15 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### SGLang CVE-2026-5760 (CVSS 9.8) Enables RCE via Malicious GGUF Model Files
-- **Published**: April 20, 2026
-- **Summary**: A critical security vulnerability has been disclosed in SGLang that, if successfully exploited, could result in remote code execution on susceptible s...
-- [Read more](https://thehackernews.com/2026/04/sglang-cve-2026-5760-cvss-98-enables.html)
+### FanDuel wants to carve a sports niche in the prediction market business
+- **Published**: April 21, 2026
+- **Summary**: https://www.cnn.com/2026/04/19/tech/fanduel-prediction-markets-app</a></p>
+<p>Comments URL: <a href="https:......
+- [Read more](https://www.cnn.com/2026/04/19/tech/fanduel-prediction-markets-app)
 
-### ⚡ Weekly Recap: Vercel Hack, Push Fraud, QEMU Abused, New Android RATs Emerge & More
-- **Published**: April 20, 2026
-- **Summary**: Monday’s recap shows the same pattern in different places. A third-party tool becomes a way in, then leads to internal access. A trusted download path...
-- [Read more](https://thehackernews.com/2026/04/weekly-recap-vercel-hack-push-fraud.html)
+### "You're mad Lad figured it out " – OpenClaw creator [video]
+- **Published**: April 21, 2026
+- **Summary**: https://www.youtube.com/watch?v=7rzYDM6vMtI</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47843850">https......
+- [Read more](https://www.youtube.com/watch?v=7rzYDM6vMtI)
 
 ---
 
