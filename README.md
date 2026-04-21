@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### FanDuel wants to carve a sports niche in the prediction market business
+### A Roblox cheat and one AI tool brought down Vercel's platform
 - **Published**: April 21, 2026
-- **Summary**: https://www.cnn.com/2026/04/19/tech/fanduel-prediction-markets-app</a></p>
-<p>Comments URL: <a href="https:......
-- [Read more](https://www.cnn.com/2026/04/19/tech/fanduel-prediction-markets-app)
+- **Summary**: ......
+- **Keywords**: down
+- [Read more](https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform)
 
-### "You're mad Lad figured it out " – OpenClaw creator [video]
+### CISA Adds 8 Exploited Flaws to KEV, Sets April-May 2026 Federal Deadlines
 - **Published**: April 21, 2026
-- **Summary**: https://www.youtube.com/watch?v=7rzYDM6vMtI</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47843850">https......
-- [Read more](https://www.youtube.com/watch?v=7rzYDM6vMtI)
+- **Summary**: The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added eight new vulnerabilities to its Known Exploited Vulnerabilities (KEV...
+- [Read more](https://thehackernews.com/2026/04/cisa-adds-8-exploited-flaws-to-kev-sets.html)
 
 ---
 
