@@ -1,28 +1,10 @@
 {
   "chaos_ranked": [
     {
-      "title": "Microsoft Patches Critical ASP.NET Core CVE-2026-40372 Privilege Escalation Bug",
-      "link": "https://thehackernews.com/2026/04/microsoft-patches-critical-aspnet-core.html",
-      "summary": "Microsoft has released out-of-band updates to address a security vulnerability in ASP.NET Core that could allow an attacker to escalate privileges.\nThe vulnerability, tracked as CVE-2026-40372, carrie...",
-      "published": "2026-04-22T14:59:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 11.0,
-        "anarchy": 3.0,
-        "overall": 7.0
-      },
-      "keywords": {
-        "chaos": [
-          "bug"
-        ],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Lotus Wiper Malware Targets Venezuelan Energy Systems in Destructive Attack",
-      "link": "https://thehackernews.com/2026/04/lotus-wiper-malware-targets-venezuelan.html",
-      "summary": "Cybersecurity researchers have discovered a previously undocumented data wiper that has been used in attacks targeting Venezuela at the end of last year and the start of 2026.\nDubbed Lotus Wiper, the ...",
-      "published": "2026-04-22T16:25:00+05:30",
+      "title": "Malicious KICS Docker Images and VS Code Extensions Hit Checkmarx Supply Chain",
+      "link": "https://thehackernews.com/2026/04/malicious-kics-docker-images-and-vs.html",
+      "summary": "Cybersecurity researchers have warned of malicious images pushed to the official \"checkmarx/kics\" Docker Hub repository.\nIn an alert published today, software supply chain security company Socket reve...",
+      "published": "2026-04-22T23:25:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -35,10 +17,10 @@
       }
     },
     {
-      "title": "Toxic Combinations: When Cross-App Permissions Stack into Risk",
-      "link": "https://thehackernews.com/2026/04/toxic-combinations-when-cross-app.html",
-      "summary": "On January 31, 2026, researchers disclosed that Moltbook, a social network built for AI agents, had left its database wide open, exposing 35,000 email addresses and 1.5 million agent API tokens across...",
-      "published": "2026-04-22T16:11:36+05:30",
+      "title": "Self-Propagating Supply Chain Worm Hijacks npm Packages to Steal Developer Tokens",
+      "link": "https://thehackernews.com/2026/04/self-propagating-supply-chain-worm.html",
+      "summary": "Cybersecurity researchers have flagged a fresh set of packages that have been compromised by bad actors to deliver a self-propagating worm that spreads through stolen developer npm tokens.\nThe supply ...",
+      "published": "2026-04-22T23:03:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -51,10 +33,74 @@
       }
     },
     {
-      "title": "Show HN: BigBlueBam, MIT-licensed Work OS where agents are first-class coworkers",
-      "link": "https://github.com/eoffermann/BigBlueBam",
-      "summary": "<p>Hi HN, Eddie here. My project BigBlueBam is a self-hosted, MIT-licensed Work OS with a unified backend with native MCP, \"AI as Users\" rather than bolted-on chat widgets. The deploy script will stan...",
-      "published": "2026-04-22T13:35:54+00:00",
+      "title": "Harvester Deploys Linux GoGra Backdoor in South Asia Using Microsoft Graph API",
+      "link": "https://thehackernews.com/2026/04/harvester-deploys-linux-gogra-backdoor.html",
+      "summary": "The threat actor known as Harvester has been attributed to a new Linux version of its GoGra backdoor deployed as part of attacks likely targeting entities in South Asia.\n\"The malware uses the legitima...",
+      "published": "2026-04-22T20:58:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Hindsight Reaches 10k GitHub Stars: The Community's Choice for Agent Memory",
+      "link": "https://hindsight.vectorize.io/blog/2026/04/22/hindsight-10k-stars",
+      "summary": "<p>Article URL: <a href=\"https://hindsight.vectorize.io/blog/2026/04/22/hindsight-10k-stars\">https://hindsight.vectorize.io/blog/2026/04/22/hindsight-10k-stars</a></p>\n<p>Comments URL: <a href=\"https:...",
+      "published": "2026-04-22T19:12:29+00:00",
+      "domain": "hindsight.vectorize.io",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Crypto Billionaire Justin Sun Accuses World Liberty of 'Criminal Extortion'",
+      "link": "https://www.wsj.com/finance/currencies/crypto-billionaire-accuses-trump-familys-world-liberty-of-criminal-extortion-14a82769",
+      "summary": "<p>Article URL: <a href=\"https://www.wsj.com/finance/currencies/crypto-billionaire-accuses-trump-familys-world-liberty-of-criminal-extortion-14a82769\">https://www.wsj.com/finance/currencies/crypto-bil...",
+      "published": "2026-04-22T19:12:13+00:00",
+      "domain": "wsj.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Web Stalker \u2013 an artist-made browser that ignored images and formatting (1998)",
+      "link": "https://anthology.rhizome.org/the-web-stalker",
+      "summary": "<p>Article URL: <a href=\"https://anthology.rhizome.org/the-web-stalker\">https://anthology.rhizome.org/the-web-stalker</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47867916\">h...",
+      "published": "2026-04-22T19:10:51+00:00",
+      "domain": "anthology.rhizome.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Legal Action Boundary Eval for agentic legal workflows",
+      "link": "https://github.com/bigkan8/legal-action-boundary-eval",
+      "summary": "<p>We published LABE, a public benchmark for legal AI at the exact point where a system is about to take a real high-impact action.<p>Current result:<p>baseline executed 18 unjustified high-impact act...",
+      "published": "2026-04-22T19:09:07+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -67,11 +113,11 @@
       }
     },
     {
-      "title": "As a non-eng agency owner, here are things that have changed how we work",
-      "link": "https://read.earlystagegrowth.com/p/14-claude-skills-and-workflows-that",
-      "summary": "<p>Article URL: <a href=\"https://read.earlystagegrowth.com/p/14-claude-skills-and-workflows-that\">https://read.earlystagegrowth.com/p/14-claude-skills-and-workflows-that</a></p>\n<p>Comments URL: <a hr...",
-      "published": "2026-04-22T13:34:55+00:00",
-      "domain": "read.earlystagegrowth.com",
+      "title": "The Macroeconomic Effects of Tariffs: Insights from 180 Years of Trade Policy",
+      "link": "https://www.nber.org/papers/w35102",
+      "summary": "<p>Article URL: <a href=\"https://www.nber.org/papers/w35102\">https://www.nber.org/papers/w35102</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47867904\">https://news.ycombinato...",
+      "published": "2026-04-22T19:09:01+00:00",
+      "domain": "nber.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -83,11 +129,11 @@
       }
     },
     {
-      "title": "Who Knew? 1 in 5 Americans Are Convinced They're Psychic",
-      "link": "https://studyfinds.com/1-in-5-americans-convinced-theyre-psychic/",
-      "summary": "<p>Article URL: <a href=\"https://studyfinds.com/1-in-5-americans-convinced-theyre-psychic/\">https://studyfinds.com/1-in-5-americans-convinced-theyre-psychic/</a></p>\n<p>Comments URL: <a href=\"https://...",
-      "published": "2026-04-22T13:33:55+00:00",
-      "domain": "studyfinds.com",
+      "title": "Over-editing refers to a model modifying code beyond what is necessary",
+      "link": "https://nrehiew.github.io/blog/minimal_editing/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47866913\">Comments</a>...",
+      "published": "2026-04-22T17:51:17+00:00",
+      "domain": "nrehiew.github.io",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -99,59 +145,11 @@
       }
     },
     {
-      "title": "Esp-Claw: Chat Coding Edge AI Agent Framework for IoT",
-      "link": "https://esp-claw.com/en/",
-      "summary": "<p>Article URL: <a href=\"https://esp-claw.com/en/\">https://esp-claw.com/en/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47863395\">https://news.ycombinator.com/item?id=478633...",
-      "published": "2026-04-22T13:33:51+00:00",
-      "domain": "esp-claw.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "AI Agents Are Selfish and Biology Solved It",
-      "link": "https://eversole.dev/blog/signaling-is-the-intelligence/",
-      "summary": "<p>Article URL: <a href=\"https://eversole.dev/blog/signaling-is-the-intelligence/\">https://eversole.dev/blog/signaling-is-the-intelligence/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.c...",
-      "published": "2026-04-22T13:32:41+00:00",
-      "domain": "eversole.dev",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Mustang Panda\u2019s New LOTUSLITE Variant Targets India Banks, South Korea Policy Circles",
-      "link": "https://thehackernews.com/2026/04/mustang-pandas-new-lotuslite-variant.html",
-      "summary": "Cybersecurity researchers have discovered a new variant of a known malware called LOTUSLITE that's distributed via a theme related to India's banking sector.\n\"The backdoor communicates with a dynamic ...",
-      "published": "2026-04-22T13:28:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Cohere AI Terrarium Sandbox Flaw Enables Root Code Execution, Container Escape",
-      "link": "https://thehackernews.com/2026/04/cohere-ai-terrarium-sandbox-flaw.html",
-      "summary": "A critical security vulnerability has been disclosed in a Python-based sandbox called Terrarium that could result in arbitrary code execution.\nThe vulnerability, tracked as CVE-2026-5752, is rated 9.3...",
-      "published": "2026-04-22T12:46:00+05:30",
-      "domain": "thehackernews.com",
+      "title": "Alberta startup sells no-tech tractors for half price",
+      "link": "https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47865868\">Comments</a>...",
+      "published": "2026-04-22T16:29:25+00:00",
+      "domain": "wheelfront.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -165,10 +163,10 @@
   ],
   "anarchy_ranked": [
     {
-      "title": "Lotus Wiper Malware Targets Venezuelan Energy Systems in Destructive Attack",
-      "link": "https://thehackernews.com/2026/04/lotus-wiper-malware-targets-venezuelan.html",
-      "summary": "Cybersecurity researchers have discovered a previously undocumented data wiper that has been used in attacks targeting Venezuela at the end of last year and the start of 2026.\nDubbed Lotus Wiper, the ...",
-      "published": "2026-04-22T16:25:00+05:30",
+      "title": "Malicious KICS Docker Images and VS Code Extensions Hit Checkmarx Supply Chain",
+      "link": "https://thehackernews.com/2026/04/malicious-kics-docker-images-and-vs.html",
+      "summary": "Cybersecurity researchers have warned of malicious images pushed to the official \"checkmarx/kics\" Docker Hub repository.\nIn an alert published today, software supply chain security company Socket reve...",
+      "published": "2026-04-22T23:25:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -181,10 +179,10 @@
       }
     },
     {
-      "title": "Toxic Combinations: When Cross-App Permissions Stack into Risk",
-      "link": "https://thehackernews.com/2026/04/toxic-combinations-when-cross-app.html",
-      "summary": "On January 31, 2026, researchers disclosed that Moltbook, a social network built for AI agents, had left its database wide open, exposing 35,000 email addresses and 1.5 million agent API tokens across...",
-      "published": "2026-04-22T16:11:36+05:30",
+      "title": "Self-Propagating Supply Chain Worm Hijacks npm Packages to Steal Developer Tokens",
+      "link": "https://thehackernews.com/2026/04/self-propagating-supply-chain-worm.html",
+      "summary": "Cybersecurity researchers have flagged a fresh set of packages that have been compromised by bad actors to deliver a self-propagating worm that spreads through stolen developer npm tokens.\nThe supply ...",
+      "published": "2026-04-22T23:03:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -197,28 +195,74 @@
       }
     },
     {
-      "title": "Microsoft Patches Critical ASP.NET Core CVE-2026-40372 Privilege Escalation Bug",
-      "link": "https://thehackernews.com/2026/04/microsoft-patches-critical-aspnet-core.html",
-      "summary": "Microsoft has released out-of-band updates to address a security vulnerability in ASP.NET Core that could allow an attacker to escalate privileges.\nThe vulnerability, tracked as CVE-2026-40372, carrie...",
-      "published": "2026-04-22T14:59:00+05:30",
+      "title": "Harvester Deploys Linux GoGra Backdoor in South Asia Using Microsoft Graph API",
+      "link": "https://thehackernews.com/2026/04/harvester-deploys-linux-gogra-backdoor.html",
+      "summary": "The threat actor known as Harvester has been attributed to a new Linux version of its GoGra backdoor deployed as part of attacks likely targeting entities in South Asia.\n\"The malware uses the legitima...",
+      "published": "2026-04-22T20:58:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
-        "chaos": 11.0,
+        "chaos": 3.0,
         "anarchy": 3.0,
-        "overall": 7.0
+        "overall": 3.0
       },
       "keywords": {
-        "chaos": [
-          "bug"
-        ],
+        "chaos": [],
         "anarchy": []
       }
     },
     {
-      "title": "Show HN: BigBlueBam, MIT-licensed Work OS where agents are first-class coworkers",
-      "link": "https://github.com/eoffermann/BigBlueBam",
-      "summary": "<p>Hi HN, Eddie here. My project BigBlueBam is a self-hosted, MIT-licensed Work OS with a unified backend with native MCP, \"AI as Users\" rather than bolted-on chat widgets. The deploy script will stan...",
-      "published": "2026-04-22T13:35:54+00:00",
+      "title": "Hindsight Reaches 10k GitHub Stars: The Community's Choice for Agent Memory",
+      "link": "https://hindsight.vectorize.io/blog/2026/04/22/hindsight-10k-stars",
+      "summary": "<p>Article URL: <a href=\"https://hindsight.vectorize.io/blog/2026/04/22/hindsight-10k-stars\">https://hindsight.vectorize.io/blog/2026/04/22/hindsight-10k-stars</a></p>\n<p>Comments URL: <a href=\"https:...",
+      "published": "2026-04-22T19:12:29+00:00",
+      "domain": "hindsight.vectorize.io",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Crypto Billionaire Justin Sun Accuses World Liberty of 'Criminal Extortion'",
+      "link": "https://www.wsj.com/finance/currencies/crypto-billionaire-accuses-trump-familys-world-liberty-of-criminal-extortion-14a82769",
+      "summary": "<p>Article URL: <a href=\"https://www.wsj.com/finance/currencies/crypto-billionaire-accuses-trump-familys-world-liberty-of-criminal-extortion-14a82769\">https://www.wsj.com/finance/currencies/crypto-bil...",
+      "published": "2026-04-22T19:12:13+00:00",
+      "domain": "wsj.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Web Stalker \u2013 an artist-made browser that ignored images and formatting (1998)",
+      "link": "https://anthology.rhizome.org/the-web-stalker",
+      "summary": "<p>Article URL: <a href=\"https://anthology.rhizome.org/the-web-stalker\">https://anthology.rhizome.org/the-web-stalker</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47867916\">h...",
+      "published": "2026-04-22T19:10:51+00:00",
+      "domain": "anthology.rhizome.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Legal Action Boundary Eval for agentic legal workflows",
+      "link": "https://github.com/bigkan8/legal-action-boundary-eval",
+      "summary": "<p>We published LABE, a public benchmark for legal AI at the exact point where a system is about to take a real high-impact action.<p>Current result:<p>baseline executed 18 unjustified high-impact act...",
+      "published": "2026-04-22T19:09:07+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -231,11 +275,11 @@
       }
     },
     {
-      "title": "As a non-eng agency owner, here are things that have changed how we work",
-      "link": "https://read.earlystagegrowth.com/p/14-claude-skills-and-workflows-that",
-      "summary": "<p>Article URL: <a href=\"https://read.earlystagegrowth.com/p/14-claude-skills-and-workflows-that\">https://read.earlystagegrowth.com/p/14-claude-skills-and-workflows-that</a></p>\n<p>Comments URL: <a hr...",
-      "published": "2026-04-22T13:34:55+00:00",
-      "domain": "read.earlystagegrowth.com",
+      "title": "The Macroeconomic Effects of Tariffs: Insights from 180 Years of Trade Policy",
+      "link": "https://www.nber.org/papers/w35102",
+      "summary": "<p>Article URL: <a href=\"https://www.nber.org/papers/w35102\">https://www.nber.org/papers/w35102</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47867904\">https://news.ycombinato...",
+      "published": "2026-04-22T19:09:01+00:00",
+      "domain": "nber.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -247,11 +291,11 @@
       }
     },
     {
-      "title": "Who Knew? 1 in 5 Americans Are Convinced They're Psychic",
-      "link": "https://studyfinds.com/1-in-5-americans-convinced-theyre-psychic/",
-      "summary": "<p>Article URL: <a href=\"https://studyfinds.com/1-in-5-americans-convinced-theyre-psychic/\">https://studyfinds.com/1-in-5-americans-convinced-theyre-psychic/</a></p>\n<p>Comments URL: <a href=\"https://...",
-      "published": "2026-04-22T13:33:55+00:00",
-      "domain": "studyfinds.com",
+      "title": "Over-editing refers to a model modifying code beyond what is necessary",
+      "link": "https://nrehiew.github.io/blog/minimal_editing/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47866913\">Comments</a>...",
+      "published": "2026-04-22T17:51:17+00:00",
+      "domain": "nrehiew.github.io",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -263,59 +307,11 @@
       }
     },
     {
-      "title": "Esp-Claw: Chat Coding Edge AI Agent Framework for IoT",
-      "link": "https://esp-claw.com/en/",
-      "summary": "<p>Article URL: <a href=\"https://esp-claw.com/en/\">https://esp-claw.com/en/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47863395\">https://news.ycombinator.com/item?id=478633...",
-      "published": "2026-04-22T13:33:51+00:00",
-      "domain": "esp-claw.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "AI Agents Are Selfish and Biology Solved It",
-      "link": "https://eversole.dev/blog/signaling-is-the-intelligence/",
-      "summary": "<p>Article URL: <a href=\"https://eversole.dev/blog/signaling-is-the-intelligence/\">https://eversole.dev/blog/signaling-is-the-intelligence/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.c...",
-      "published": "2026-04-22T13:32:41+00:00",
-      "domain": "eversole.dev",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Mustang Panda\u2019s New LOTUSLITE Variant Targets India Banks, South Korea Policy Circles",
-      "link": "https://thehackernews.com/2026/04/mustang-pandas-new-lotuslite-variant.html",
-      "summary": "Cybersecurity researchers have discovered a new variant of a known malware called LOTUSLITE that's distributed via a theme related to India's banking sector.\n\"The backdoor communicates with a dynamic ...",
-      "published": "2026-04-22T13:28:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Cohere AI Terrarium Sandbox Flaw Enables Root Code Execution, Container Escape",
-      "link": "https://thehackernews.com/2026/04/cohere-ai-terrarium-sandbox-flaw.html",
-      "summary": "A critical security vulnerability has been disclosed in a Python-based sandbox called Terrarium that could result in arbitrary code execution.\nThe vulnerability, tracked as CVE-2026-5752, is rated 9.3...",
-      "published": "2026-04-22T12:46:00+05:30",
-      "domain": "thehackernews.com",
+      "title": "Alberta startup sells no-tech tractors for half price",
+      "link": "https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47865868\">Comments</a>...",
+      "published": "2026-04-22T16:29:25+00:00",
+      "domain": "wheelfront.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -329,28 +325,10 @@
   ],
   "overall_ranked": [
     {
-      "title": "Microsoft Patches Critical ASP.NET Core CVE-2026-40372 Privilege Escalation Bug",
-      "link": "https://thehackernews.com/2026/04/microsoft-patches-critical-aspnet-core.html",
-      "summary": "Microsoft has released out-of-band updates to address a security vulnerability in ASP.NET Core that could allow an attacker to escalate privileges.\nThe vulnerability, tracked as CVE-2026-40372, carrie...",
-      "published": "2026-04-22T14:59:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 11.0,
-        "anarchy": 3.0,
-        "overall": 7.0
-      },
-      "keywords": {
-        "chaos": [
-          "bug"
-        ],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Lotus Wiper Malware Targets Venezuelan Energy Systems in Destructive Attack",
-      "link": "https://thehackernews.com/2026/04/lotus-wiper-malware-targets-venezuelan.html",
-      "summary": "Cybersecurity researchers have discovered a previously undocumented data wiper that has been used in attacks targeting Venezuela at the end of last year and the start of 2026.\nDubbed Lotus Wiper, the ...",
-      "published": "2026-04-22T16:25:00+05:30",
+      "title": "Malicious KICS Docker Images and VS Code Extensions Hit Checkmarx Supply Chain",
+      "link": "https://thehackernews.com/2026/04/malicious-kics-docker-images-and-vs.html",
+      "summary": "Cybersecurity researchers have warned of malicious images pushed to the official \"checkmarx/kics\" Docker Hub repository.\nIn an alert published today, software supply chain security company Socket reve...",
+      "published": "2026-04-22T23:25:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -363,10 +341,10 @@
       }
     },
     {
-      "title": "Toxic Combinations: When Cross-App Permissions Stack into Risk",
-      "link": "https://thehackernews.com/2026/04/toxic-combinations-when-cross-app.html",
-      "summary": "On January 31, 2026, researchers disclosed that Moltbook, a social network built for AI agents, had left its database wide open, exposing 35,000 email addresses and 1.5 million agent API tokens across...",
-      "published": "2026-04-22T16:11:36+05:30",
+      "title": "Self-Propagating Supply Chain Worm Hijacks npm Packages to Steal Developer Tokens",
+      "link": "https://thehackernews.com/2026/04/self-propagating-supply-chain-worm.html",
+      "summary": "Cybersecurity researchers have flagged a fresh set of packages that have been compromised by bad actors to deliver a self-propagating worm that spreads through stolen developer npm tokens.\nThe supply ...",
+      "published": "2026-04-22T23:03:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -379,10 +357,74 @@
       }
     },
     {
-      "title": "Show HN: BigBlueBam, MIT-licensed Work OS where agents are first-class coworkers",
-      "link": "https://github.com/eoffermann/BigBlueBam",
-      "summary": "<p>Hi HN, Eddie here. My project BigBlueBam is a self-hosted, MIT-licensed Work OS with a unified backend with native MCP, \"AI as Users\" rather than bolted-on chat widgets. The deploy script will stan...",
-      "published": "2026-04-22T13:35:54+00:00",
+      "title": "Harvester Deploys Linux GoGra Backdoor in South Asia Using Microsoft Graph API",
+      "link": "https://thehackernews.com/2026/04/harvester-deploys-linux-gogra-backdoor.html",
+      "summary": "The threat actor known as Harvester has been attributed to a new Linux version of its GoGra backdoor deployed as part of attacks likely targeting entities in South Asia.\n\"The malware uses the legitima...",
+      "published": "2026-04-22T20:58:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Hindsight Reaches 10k GitHub Stars: The Community's Choice for Agent Memory",
+      "link": "https://hindsight.vectorize.io/blog/2026/04/22/hindsight-10k-stars",
+      "summary": "<p>Article URL: <a href=\"https://hindsight.vectorize.io/blog/2026/04/22/hindsight-10k-stars\">https://hindsight.vectorize.io/blog/2026/04/22/hindsight-10k-stars</a></p>\n<p>Comments URL: <a href=\"https:...",
+      "published": "2026-04-22T19:12:29+00:00",
+      "domain": "hindsight.vectorize.io",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Crypto Billionaire Justin Sun Accuses World Liberty of 'Criminal Extortion'",
+      "link": "https://www.wsj.com/finance/currencies/crypto-billionaire-accuses-trump-familys-world-liberty-of-criminal-extortion-14a82769",
+      "summary": "<p>Article URL: <a href=\"https://www.wsj.com/finance/currencies/crypto-billionaire-accuses-trump-familys-world-liberty-of-criminal-extortion-14a82769\">https://www.wsj.com/finance/currencies/crypto-bil...",
+      "published": "2026-04-22T19:12:13+00:00",
+      "domain": "wsj.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Web Stalker \u2013 an artist-made browser that ignored images and formatting (1998)",
+      "link": "https://anthology.rhizome.org/the-web-stalker",
+      "summary": "<p>Article URL: <a href=\"https://anthology.rhizome.org/the-web-stalker\">https://anthology.rhizome.org/the-web-stalker</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47867916\">h...",
+      "published": "2026-04-22T19:10:51+00:00",
+      "domain": "anthology.rhizome.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Legal Action Boundary Eval for agentic legal workflows",
+      "link": "https://github.com/bigkan8/legal-action-boundary-eval",
+      "summary": "<p>We published LABE, a public benchmark for legal AI at the exact point where a system is about to take a real high-impact action.<p>Current result:<p>baseline executed 18 unjustified high-impact act...",
+      "published": "2026-04-22T19:09:07+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -395,11 +437,11 @@
       }
     },
     {
-      "title": "As a non-eng agency owner, here are things that have changed how we work",
-      "link": "https://read.earlystagegrowth.com/p/14-claude-skills-and-workflows-that",
-      "summary": "<p>Article URL: <a href=\"https://read.earlystagegrowth.com/p/14-claude-skills-and-workflows-that\">https://read.earlystagegrowth.com/p/14-claude-skills-and-workflows-that</a></p>\n<p>Comments URL: <a hr...",
-      "published": "2026-04-22T13:34:55+00:00",
-      "domain": "read.earlystagegrowth.com",
+      "title": "The Macroeconomic Effects of Tariffs: Insights from 180 Years of Trade Policy",
+      "link": "https://www.nber.org/papers/w35102",
+      "summary": "<p>Article URL: <a href=\"https://www.nber.org/papers/w35102\">https://www.nber.org/papers/w35102</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47867904\">https://news.ycombinato...",
+      "published": "2026-04-22T19:09:01+00:00",
+      "domain": "nber.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -411,11 +453,11 @@
       }
     },
     {
-      "title": "Who Knew? 1 in 5 Americans Are Convinced They're Psychic",
-      "link": "https://studyfinds.com/1-in-5-americans-convinced-theyre-psychic/",
-      "summary": "<p>Article URL: <a href=\"https://studyfinds.com/1-in-5-americans-convinced-theyre-psychic/\">https://studyfinds.com/1-in-5-americans-convinced-theyre-psychic/</a></p>\n<p>Comments URL: <a href=\"https://...",
-      "published": "2026-04-22T13:33:55+00:00",
-      "domain": "studyfinds.com",
+      "title": "Over-editing refers to a model modifying code beyond what is necessary",
+      "link": "https://nrehiew.github.io/blog/minimal_editing/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47866913\">Comments</a>...",
+      "published": "2026-04-22T17:51:17+00:00",
+      "domain": "nrehiew.github.io",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -427,59 +469,11 @@
       }
     },
     {
-      "title": "Esp-Claw: Chat Coding Edge AI Agent Framework for IoT",
-      "link": "https://esp-claw.com/en/",
-      "summary": "<p>Article URL: <a href=\"https://esp-claw.com/en/\">https://esp-claw.com/en/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47863395\">https://news.ycombinator.com/item?id=478633...",
-      "published": "2026-04-22T13:33:51+00:00",
-      "domain": "esp-claw.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "AI Agents Are Selfish and Biology Solved It",
-      "link": "https://eversole.dev/blog/signaling-is-the-intelligence/",
-      "summary": "<p>Article URL: <a href=\"https://eversole.dev/blog/signaling-is-the-intelligence/\">https://eversole.dev/blog/signaling-is-the-intelligence/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.c...",
-      "published": "2026-04-22T13:32:41+00:00",
-      "domain": "eversole.dev",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Mustang Panda\u2019s New LOTUSLITE Variant Targets India Banks, South Korea Policy Circles",
-      "link": "https://thehackernews.com/2026/04/mustang-pandas-new-lotuslite-variant.html",
-      "summary": "Cybersecurity researchers have discovered a new variant of a known malware called LOTUSLITE that's distributed via a theme related to India's banking sector.\n\"The backdoor communicates with a dynamic ...",
-      "published": "2026-04-22T13:28:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Cohere AI Terrarium Sandbox Flaw Enables Root Code Execution, Container Escape",
-      "link": "https://thehackernews.com/2026/04/cohere-ai-terrarium-sandbox-flaw.html",
-      "summary": "A critical security vulnerability has been disclosed in a Python-based sandbox called Terrarium that could result in arbitrary code execution.\nThe vulnerability, tracked as CVE-2026-5752, is rated 9.3...",
-      "published": "2026-04-22T12:46:00+05:30",
-      "domain": "thehackernews.com",
+      "title": "Alberta startup sells no-tech tractors for half price",
+      "link": "https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47865868\">Comments</a>...",
+      "published": "2026-04-22T16:29:25+00:00",
+      "domain": "wheelfront.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -493,10 +487,10 @@
   ],
   "all_articles": [
     {
-      "title": "Lotus Wiper Malware Targets Venezuelan Energy Systems in Destructive Attack",
-      "link": "https://thehackernews.com/2026/04/lotus-wiper-malware-targets-venezuelan.html",
-      "summary": "Cybersecurity researchers have discovered a previously undocumented data wiper that has been used in attacks targeting Venezuela at the end of last year and the start of 2026.\nDubbed Lotus Wiper, the ...",
-      "published": "2026-04-22T16:25:00+05:30",
+      "title": "Malicious KICS Docker Images and VS Code Extensions Hit Checkmarx Supply Chain",
+      "link": "https://thehackernews.com/2026/04/malicious-kics-docker-images-and-vs.html",
+      "summary": "Cybersecurity researchers have warned of malicious images pushed to the official \"checkmarx/kics\" Docker Hub repository.\nIn an alert published today, software supply chain security company Socket reve...",
+      "published": "2026-04-22T23:25:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -509,10 +503,10 @@
       }
     },
     {
-      "title": "Toxic Combinations: When Cross-App Permissions Stack into Risk",
-      "link": "https://thehackernews.com/2026/04/toxic-combinations-when-cross-app.html",
-      "summary": "On January 31, 2026, researchers disclosed that Moltbook, a social network built for AI agents, had left its database wide open, exposing 35,000 email addresses and 1.5 million agent API tokens across...",
-      "published": "2026-04-22T16:11:36+05:30",
+      "title": "Self-Propagating Supply Chain Worm Hijacks npm Packages to Steal Developer Tokens",
+      "link": "https://thehackernews.com/2026/04/self-propagating-supply-chain-worm.html",
+      "summary": "Cybersecurity researchers have flagged a fresh set of packages that have been compromised by bad actors to deliver a self-propagating worm that spreads through stolen developer npm tokens.\nThe supply ...",
+      "published": "2026-04-22T23:03:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -525,28 +519,74 @@
       }
     },
     {
-      "title": "Microsoft Patches Critical ASP.NET Core CVE-2026-40372 Privilege Escalation Bug",
-      "link": "https://thehackernews.com/2026/04/microsoft-patches-critical-aspnet-core.html",
-      "summary": "Microsoft has released out-of-band updates to address a security vulnerability in ASP.NET Core that could allow an attacker to escalate privileges.\nThe vulnerability, tracked as CVE-2026-40372, carrie...",
-      "published": "2026-04-22T14:59:00+05:30",
+      "title": "Harvester Deploys Linux GoGra Backdoor in South Asia Using Microsoft Graph API",
+      "link": "https://thehackernews.com/2026/04/harvester-deploys-linux-gogra-backdoor.html",
+      "summary": "The threat actor known as Harvester has been attributed to a new Linux version of its GoGra backdoor deployed as part of attacks likely targeting entities in South Asia.\n\"The malware uses the legitima...",
+      "published": "2026-04-22T20:58:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
-        "chaos": 11.0,
+        "chaos": 3.0,
         "anarchy": 3.0,
-        "overall": 7.0
+        "overall": 3.0
       },
       "keywords": {
-        "chaos": [
-          "bug"
-        ],
+        "chaos": [],
         "anarchy": []
       }
     },
     {
-      "title": "Show HN: BigBlueBam, MIT-licensed Work OS where agents are first-class coworkers",
-      "link": "https://github.com/eoffermann/BigBlueBam",
-      "summary": "<p>Hi HN, Eddie here. My project BigBlueBam is a self-hosted, MIT-licensed Work OS with a unified backend with native MCP, \"AI as Users\" rather than bolted-on chat widgets. The deploy script will stan...",
-      "published": "2026-04-22T13:35:54+00:00",
+      "title": "Hindsight Reaches 10k GitHub Stars: The Community's Choice for Agent Memory",
+      "link": "https://hindsight.vectorize.io/blog/2026/04/22/hindsight-10k-stars",
+      "summary": "<p>Article URL: <a href=\"https://hindsight.vectorize.io/blog/2026/04/22/hindsight-10k-stars\">https://hindsight.vectorize.io/blog/2026/04/22/hindsight-10k-stars</a></p>\n<p>Comments URL: <a href=\"https:...",
+      "published": "2026-04-22T19:12:29+00:00",
+      "domain": "hindsight.vectorize.io",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Crypto Billionaire Justin Sun Accuses World Liberty of 'Criminal Extortion'",
+      "link": "https://www.wsj.com/finance/currencies/crypto-billionaire-accuses-trump-familys-world-liberty-of-criminal-extortion-14a82769",
+      "summary": "<p>Article URL: <a href=\"https://www.wsj.com/finance/currencies/crypto-billionaire-accuses-trump-familys-world-liberty-of-criminal-extortion-14a82769\">https://www.wsj.com/finance/currencies/crypto-bil...",
+      "published": "2026-04-22T19:12:13+00:00",
+      "domain": "wsj.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Web Stalker \u2013 an artist-made browser that ignored images and formatting (1998)",
+      "link": "https://anthology.rhizome.org/the-web-stalker",
+      "summary": "<p>Article URL: <a href=\"https://anthology.rhizome.org/the-web-stalker\">https://anthology.rhizome.org/the-web-stalker</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47867916\">h...",
+      "published": "2026-04-22T19:10:51+00:00",
+      "domain": "anthology.rhizome.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Legal Action Boundary Eval for agentic legal workflows",
+      "link": "https://github.com/bigkan8/legal-action-boundary-eval",
+      "summary": "<p>We published LABE, a public benchmark for legal AI at the exact point where a system is about to take a real high-impact action.<p>Current result:<p>baseline executed 18 unjustified high-impact act...",
+      "published": "2026-04-22T19:09:07+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -559,11 +599,11 @@
       }
     },
     {
-      "title": "As a non-eng agency owner, here are things that have changed how we work",
-      "link": "https://read.earlystagegrowth.com/p/14-claude-skills-and-workflows-that",
-      "summary": "<p>Article URL: <a href=\"https://read.earlystagegrowth.com/p/14-claude-skills-and-workflows-that\">https://read.earlystagegrowth.com/p/14-claude-skills-and-workflows-that</a></p>\n<p>Comments URL: <a hr...",
-      "published": "2026-04-22T13:34:55+00:00",
-      "domain": "read.earlystagegrowth.com",
+      "title": "The Macroeconomic Effects of Tariffs: Insights from 180 Years of Trade Policy",
+      "link": "https://www.nber.org/papers/w35102",
+      "summary": "<p>Article URL: <a href=\"https://www.nber.org/papers/w35102\">https://www.nber.org/papers/w35102</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47867904\">https://news.ycombinato...",
+      "published": "2026-04-22T19:09:01+00:00",
+      "domain": "nber.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -575,11 +615,11 @@
       }
     },
     {
-      "title": "Who Knew? 1 in 5 Americans Are Convinced They're Psychic",
-      "link": "https://studyfinds.com/1-in-5-americans-convinced-theyre-psychic/",
-      "summary": "<p>Article URL: <a href=\"https://studyfinds.com/1-in-5-americans-convinced-theyre-psychic/\">https://studyfinds.com/1-in-5-americans-convinced-theyre-psychic/</a></p>\n<p>Comments URL: <a href=\"https://...",
-      "published": "2026-04-22T13:33:55+00:00",
-      "domain": "studyfinds.com",
+      "title": "Over-editing refers to a model modifying code beyond what is necessary",
+      "link": "https://nrehiew.github.io/blog/minimal_editing/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47866913\">Comments</a>...",
+      "published": "2026-04-22T17:51:17+00:00",
+      "domain": "nrehiew.github.io",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -591,59 +631,11 @@
       }
     },
     {
-      "title": "Esp-Claw: Chat Coding Edge AI Agent Framework for IoT",
-      "link": "https://esp-claw.com/en/",
-      "summary": "<p>Article URL: <a href=\"https://esp-claw.com/en/\">https://esp-claw.com/en/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47863395\">https://news.ycombinator.com/item?id=478633...",
-      "published": "2026-04-22T13:33:51+00:00",
-      "domain": "esp-claw.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "AI Agents Are Selfish and Biology Solved It",
-      "link": "https://eversole.dev/blog/signaling-is-the-intelligence/",
-      "summary": "<p>Article URL: <a href=\"https://eversole.dev/blog/signaling-is-the-intelligence/\">https://eversole.dev/blog/signaling-is-the-intelligence/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.c...",
-      "published": "2026-04-22T13:32:41+00:00",
-      "domain": "eversole.dev",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Mustang Panda\u2019s New LOTUSLITE Variant Targets India Banks, South Korea Policy Circles",
-      "link": "https://thehackernews.com/2026/04/mustang-pandas-new-lotuslite-variant.html",
-      "summary": "Cybersecurity researchers have discovered a new variant of a known malware called LOTUSLITE that's distributed via a theme related to India's banking sector.\n\"The backdoor communicates with a dynamic ...",
-      "published": "2026-04-22T13:28:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Cohere AI Terrarium Sandbox Flaw Enables Root Code Execution, Container Escape",
-      "link": "https://thehackernews.com/2026/04/cohere-ai-terrarium-sandbox-flaw.html",
-      "summary": "A critical security vulnerability has been disclosed in a Python-based sandbox called Terrarium that could result in arbitrary code execution.\nThe vulnerability, tracked as CVE-2026-5752, is rated 9.3...",
-      "published": "2026-04-22T12:46:00+05:30",
-      "domain": "thehackernews.com",
+      "title": "Alberta startup sells no-tech tractors for half price",
+      "link": "https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47865868\">Comments</a>...",
+      "published": "2026-04-22T16:29:25+00:00",
+      "domain": "wheelfront.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,

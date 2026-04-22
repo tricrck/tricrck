@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Microsoft Patches Critical ASP.NET Core CVE-2026-40372 Privilege Escalation Bug
+### Malicious KICS Docker Images and VS Code Extensions Hit Checkmarx Supply Chain
 - **Published**: April 22, 2026
-- **Summary**: Microsoft has released out-of-band updates to address a security vulnerability in ASP.NET Core that could allow an attacker to escalate privileges.
-Th...
-- **Keywords**: bug
-- [Read more](https://thehackernews.com/2026/04/microsoft-patches-critical-aspnet-core.html)
+- **Summary**: Cybersecurity researchers have warned of malicious images pushed to the official "checkmarx/kics" Docker Hub repository.
+In an alert published today, ...
+- [Read more](https://thehackernews.com/2026/04/malicious-kics-docker-images-and-vs.html)
 
-### Lotus Wiper Malware Targets Venezuelan Energy Systems in Destructive Attack
+### Self-Propagating Supply Chain Worm Hijacks npm Packages to Steal Developer Tokens
 - **Published**: April 22, 2026
-- **Summary**: Cybersecurity researchers have discovered a previously undocumented data wiper that has been used in attacks targeting Venezuela at the end of last ye...
-- [Read more](https://thehackernews.com/2026/04/lotus-wiper-malware-targets-venezuelan.html)
+- **Summary**: Cybersecurity researchers have flagged a fresh set of packages that have been compromised by bad actors to deliver a self-propagating worm that spread...
+- [Read more](https://thehackernews.com/2026/04/self-propagating-supply-chain-worm.html)
 
 ---
 
