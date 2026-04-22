@@ -16,16 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### 4o-aircraft-carrier whistleblower alive
+### You can make something good
 - **Published**: April 22, 2026
-- **Summary**: <p>he's alive, but we can't force him to file. they destroyed his prosthetic, but we kind of have to cuz otherwise Macron will remove us, call us back...
-- [Read more](https://news.ycombinator.com/item?id=47858082)
+- **Summary**: https://sfalexandria.com/posts/farzas-creations/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47860......
+- [Read more](https://sfalexandria.com/posts/farzas-creations/)
 
-### Meta to track workers' clicks and keystrokes to train AI
+### Git for web services – everything as a file for coding agents
 - **Published**: April 22, 2026
-- **Summary**: https://www.bbc.co.uk/news/articles/cvglyklz49jo</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47858......
-- [Read more](https://www.bbc.co.uk/news/articles/cvglyklz49jo)
+- **Summary**: https://github.com/KrzysztofBogdan/gitfs</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47860344">https://new......
+- [Read more](https://github.com/KrzysztofBogdan/gitfs)
 
 ---
 
