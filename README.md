@@ -16,17 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### You can make something good
+### Microsoft Patches Critical ASP.NET Core CVE-2026-40372 Privilege Escalation Bug
 - **Published**: April 22, 2026
-- **Summary**: https://sfalexandria.com/posts/farzas-creations/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47860......
-- [Read more](https://sfalexandria.com/posts/farzas-creations/)
+- **Summary**: Microsoft has released out-of-band updates to address a security vulnerability in ASP.NET Core that could allow an attacker to escalate privileges.
+Th...
+- **Keywords**: bug
+- [Read more](https://thehackernews.com/2026/04/microsoft-patches-critical-aspnet-core.html)
 
-### Git for web services – everything as a file for coding agents
+### Lotus Wiper Malware Targets Venezuelan Energy Systems in Destructive Attack
 - **Published**: April 22, 2026
-- **Summary**: https://github.com/KrzysztofBogdan/gitfs</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47860344">https://new......
-- [Read more](https://github.com/KrzysztofBogdan/gitfs)
+- **Summary**: Cybersecurity researchers have discovered a previously undocumented data wiper that has been used in attacks targeting Venezuela at the end of last ye...
+- [Read more](https://thehackernews.com/2026/04/lotus-wiper-malware-targets-venezuelan.html)
 
 ---
 
