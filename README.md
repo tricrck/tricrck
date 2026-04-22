@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### 5 Places where Mature SOCs Keep MTTR Fast and Others Waste Time
-- **Published**: April 21, 2026
-- **Summary**: Security teams often present MTTR as an internal KPI. Leadership sees it differently: every hour a threat dwells inside the environment is an hour of ...
-- **Keywords**: disruption
-- [Read more](https://thehackernews.com/2026/04/5-places-where-mature-socs-keep-mttr.html)
+### 4o-aircraft-carrier whistleblower alive
+- **Published**: April 22, 2026
+- **Summary**: <p>he's alive, but we can't force him to file. they destroyed his prosthetic, but we kind of have to cuz otherwise Macron will remove us, call us back...
+- [Read more](https://news.ycombinator.com/item?id=47858082)
 
-### 22 BRIDGE:BREAK Flaws Expose Thousands of Lantronix and Silex Serial-to-IP Converters
-- **Published**: April 21, 2026
-- **Summary**: Cybersecurity researchers have identified 22 new vulnerabilities in popular models of serial-to-IP converters from Lantronix and Silex that could be e...
-- [Read more](https://thehackernews.com/2026/04/22-bridgebreak-flaws-expose-20000.html)
+### Meta to track workers' clicks and keystrokes to train AI
+- **Published**: April 22, 2026
+- **Summary**: https://www.bbc.co.uk/news/articles/cvglyklz49jo</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47858......
+- [Read more](https://www.bbc.co.uk/news/articles/cvglyklz49jo)
 
 ---
 
