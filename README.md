@@ -16,17 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### [Webinar] Mythos Reality Check: Beating Automated Exploitation at AI Speed
+### UNC6692 Impersonates IT Helpdesk via Microsoft Teams to Deploy SNOW Malware
 - **Published**: April 23, 2026
-- **Summary**: Imagine a world where hackers don't sleep, don't take breaks, and find weak spots in your systems instantly.
-Well, that world is already here.
-Thanks ...
-- [Read more](https://thehackernews.com/2026/04/webinar-mythos-reality-check-beating.html)
+- **Summary**: A previously undocumented threat activity cluster known as UNC6692 has been observed leveraging social engineering tactics via Microsoft Teams to depl...
+- [Read more](https://thehackernews.com/2026/04/unc6692-impersonates-it-helpdesk-via.html)
 
-### Project Glasswing Proved AI Can Find the Bugs. Who's Going to Fix Them?
+### Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain Campaign
 - **Published**: April 23, 2026
-- **Summary**: Last week, Anthropic announced Project Glasswing, an AI model so effective at discovering software vulnerabilities that they took the extraordinary st...
-- [Read more](https://thehackernews.com/2026/04/project-glasswing-proved-ai-can-find.html)
+- **Summary**: Bitwarden CLI has been compromised as part of the newly discovered and ongoing Checkmarx supply chain campaign, according to new findings from JFrog a...
+- [Read more](https://thehackernews.com/2026/04/bitwarden-cli-compromised-in-ongoing.html)
 
 ---
 

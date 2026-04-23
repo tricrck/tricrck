@@ -1,10 +1,10 @@
 {
   "chaos_ranked": [
     {
-      "title": "[Webinar] Mythos Reality Check: Beating Automated Exploitation at AI Speed",
-      "link": "https://thehackernews.com/2026/04/webinar-mythos-reality-check-beating.html",
-      "summary": "Imagine a world where hackers don't sleep, don't take breaks, and find weak spots in your systems instantly.\nWell, that world is already here.\nThanks to AI, attackers are now launching automated, larg...",
-      "published": "2026-04-23T17:33:00+05:30",
+      "title": "UNC6692 Impersonates IT Helpdesk via Microsoft Teams to Deploy SNOW Malware",
+      "link": "https://thehackernews.com/2026/04/unc6692-impersonates-it-helpdesk-via.html",
+      "summary": "A previously undocumented threat activity cluster known as UNC6692 has been observed leveraging social engineering tactics via Microsoft Teams to deploy a custom malware suite on compromised hosts.\n\"A...",
+      "published": "2026-04-23T23:46:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -17,10 +17,10 @@
       }
     },
     {
-      "title": "Project Glasswing Proved AI Can Find the Bugs. Who's Going to Fix Them?",
-      "link": "https://thehackernews.com/2026/04/project-glasswing-proved-ai-can-find.html",
-      "summary": "Last week, Anthropic announced Project Glasswing, an AI model so effective at discovering software vulnerabilities that they took the extraordinary step of postponing its public release. Instead, the ...",
-      "published": "2026-04-23T17:00:00+05:30",
+      "title": "Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain Campaign",
+      "link": "https://thehackernews.com/2026/04/bitwarden-cli-compromised-in-ongoing.html",
+      "summary": "Bitwarden CLI has been compromised as part of the newly discovered and ongoing Checkmarx supply chain campaign, according to new findings from JFrog and Socket.\n\"The affected package version appears t...",
+      "published": "2026-04-23T19:12:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -33,123 +33,123 @@
       }
     },
     {
-      "title": "China-Linked GopherWhisper Infects 12 Mongolian Government Systems with Go Backdoors",
-      "link": "https://thehackernews.com/2026/04/china-linked-gopherwhisper-infects-12.html",
-      "summary": "Mongolian governmental institutions have emerged as the target of a previously undocumented China-aligned advanced persistent threat (APT) group tracked as GopherWhisper.\n\"The group wields a wide arra...",
-      "published": "2026-04-23T14:34:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Vercel Finds More Compromised Accounts in Context.ai-Linked Breach",
-      "link": "https://thehackernews.com/2026/04/vercel-finds-more-compromised-accounts.html",
-      "summary": "Vercel on Wednesday revealed that it has identified an additional set of customer accounts that were compromised as part of a security incident that enabled unauthorized access to its internal systems...",
-      "published": "2026-04-23T14:10:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Apple Fixes iOS Flaw That Let FBI Recover Deleted Signal Messages",
-      "link": "https://thehackernews.com/2026/04/apple-patches-ios-flaw-that-stored.html",
-      "summary": "Apple has rolled out a software fix for iOS and iPadOS to address a Notification Services flaw that stored notifications marked for deletion on the device.\nThe vulnerability, tracked as CVE-2026-28950...",
-      "published": "2026-04-23T13:36:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Ubuntu 26.04 LTS: What's new since 24.04?",
-      "link": "https://www.omgubuntu.co.uk/2026/04/ubuntu-26-04-lts-changes-since-24-04",
-      "summary": "<p>Article URL: <a href=\"https://www.omgubuntu.co.uk/2026/04/ubuntu-26-04-lts-changes-since-24-04\">https://www.omgubuntu.co.uk/2026/04/ubuntu-26-04-lts-changes-since-24-04</a></p>\n<p>Comments URL: <a ...",
-      "published": "2026-04-23T13:35:31+00:00",
-      "domain": "omgubuntu.co.uk",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Optimizing Datalog for the GPU",
-      "link": "https://dl.acm.org/doi/10.1145/3669940.3707274",
-      "summary": "<p>Article URL: <a href=\"https://dl.acm.org/doi/10.1145/3669940.3707274\">https://dl.acm.org/doi/10.1145/3669940.3707274</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47875597\"...",
-      "published": "2026-04-23T13:34:47+00:00",
-      "domain": "dl.acm.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Newton, a physics simulation engine built on Nvidia Warp",
-      "link": "https://newton-physics.github.io/newton/",
-      "summary": "<p>Article URL: <a href=\"https://newton-physics.github.io/newton/\">https://newton-physics.github.io/newton/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47875594\">https://new...",
-      "published": "2026-04-23T13:34:26+00:00",
-      "domain": "newton-physics.github.io",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The Second Time Will Be the IPO Charm for Cerebras",
-      "link": "https://www.nextplatform.com/compute/2026/04/22/the-second-time-will-be-the-ipo-charm-for-cerebras/5218651",
-      "summary": "<p>Article URL: <a href=\"https://www.nextplatform.com/compute/2026/04/22/the-second-time-will-be-the-ipo-charm-for-cerebras/5218651\">https://www.nextplatform.com/compute/2026/04/22/the-second-time-wil...",
-      "published": "2026-04-23T13:33:10+00:00",
-      "domain": "nextplatform.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "ASI \u2013 Asolaria OS FOR ALL agents AND ALL systems at the harrdware level",
-      "link": "https://news.ycombinator.com/item?id=47875578",
-      "summary": "<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47875578\">https://news.ycombinator.com/item?id=47875578</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>...",
-      "published": "2026-04-23T13:33:08+00:00",
+      "title": "Can non-developer build commercial products with AI",
+      "link": "https://news.ycombinator.com/item?id=47880204",
+      "summary": "<p>I honestly think that even with AGI or ACI; without deep understanding of technical architectures and fundamentals , the last 10 miles will be tough! When I tried to build products using Claude Cod...",
+      "published": "2026-04-23T19:10:33+00:00",
       "domain": "news.ycombinator.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "What Will It Take to Get A.I. Out of Schools?",
+      "link": "https://www.newyorker.com/culture/progress-report/what-will-it-take-to-get-ai-out-of-schools",
+      "summary": "<p>Article URL: <a href=\"https://www.newyorker.com/culture/progress-report/what-will-it-take-to-get-ai-out-of-schools\">https://www.newyorker.com/culture/progress-report/what-will-it-take-to-get-ai-out...",
+      "published": "2026-04-23T19:10:14+00:00",
+      "domain": "newyorker.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Girl, 10, finds rare Mexican axolotl under Welsh bridge",
+      "link": "https://www.bbc.com/news/articles/c9d4zgnqpqeo",
+      "summary": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/c9d4zgnqpqeo\">https://www.bbc.com/news/articles/c9d4zgnqpqeo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47880189\"...",
+      "published": "2026-04-23T19:09:40+00:00",
+      "domain": "bbc.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The no-go zone paradox: Chornobyl's wildlife thrives amid pro-nuclear shift",
+      "link": "https://www.theguardian.com/environment/2026/apr/23/exclusion-zone-chornobyl-wildlife-thrives-amid-pro-nuclear-shift",
+      "summary": "<p>Article URL: <a href=\"https://www.theguardian.com/environment/2026/apr/23/exclusion-zone-chornobyl-wildlife-thrives-amid-pro-nuclear-shift\">https://www.theguardian.com/environment/2026/apr/23/exclu...",
+      "published": "2026-04-23T19:09:15+00:00",
+      "domain": "theguardian.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "ChatGPT ads expand to logged-out users",
+      "link": "https://searchengineland.com/chatgpt-ads-expand-to-logged-out-users-475377",
+      "summary": "<p>Article URL: <a href=\"https://searchengineland.com/chatgpt-ads-expand-to-logged-out-users-475377\">https://searchengineland.com/chatgpt-ads-expand-to-logged-out-users-475377</a></p>\n<p>Comments URL:...",
+      "published": "2026-04-23T19:09:11+00:00",
+      "domain": "searchengineland.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "ThreatsDay Bulletin: $290M DeFi Hack, macOS LotL Abuse, ProxySmart SIM Farms +25 New Stories",
+      "link": "https://thehackernews.com/2026/04/threatsday-bulletin-290m-defi-hack.html",
+      "summary": "You scroll past one incident and see another that feels familiar, like it should have been fixed years ago, but it still works with small changes. Same bugs. Same mistakes.\nThe supply chain is messy. ...",
+      "published": "2026-04-23T18:47:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "GPT-5.5",
+      "link": "https://openai.com/index/introducing-gpt-5-5/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47879092\">Comments</a>...",
+      "published": "2026-04-23T18:01:39+00:00",
+      "domain": "openai.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "An update on recent Claude Code quality reports",
+      "link": "https://www.anthropic.com/engineering/april-23-postmortem",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47878905\">Comments</a>...",
+      "published": "2026-04-23T17:48:38+00:00",
+      "domain": "anthropic.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -163,10 +163,10 @@
   ],
   "anarchy_ranked": [
     {
-      "title": "[Webinar] Mythos Reality Check: Beating Automated Exploitation at AI Speed",
-      "link": "https://thehackernews.com/2026/04/webinar-mythos-reality-check-beating.html",
-      "summary": "Imagine a world where hackers don't sleep, don't take breaks, and find weak spots in your systems instantly.\nWell, that world is already here.\nThanks to AI, attackers are now launching automated, larg...",
-      "published": "2026-04-23T17:33:00+05:30",
+      "title": "UNC6692 Impersonates IT Helpdesk via Microsoft Teams to Deploy SNOW Malware",
+      "link": "https://thehackernews.com/2026/04/unc6692-impersonates-it-helpdesk-via.html",
+      "summary": "A previously undocumented threat activity cluster known as UNC6692 has been observed leveraging social engineering tactics via Microsoft Teams to deploy a custom malware suite on compromised hosts.\n\"A...",
+      "published": "2026-04-23T23:46:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -179,10 +179,10 @@
       }
     },
     {
-      "title": "Project Glasswing Proved AI Can Find the Bugs. Who's Going to Fix Them?",
-      "link": "https://thehackernews.com/2026/04/project-glasswing-proved-ai-can-find.html",
-      "summary": "Last week, Anthropic announced Project Glasswing, an AI model so effective at discovering software vulnerabilities that they took the extraordinary step of postponing its public release. Instead, the ...",
-      "published": "2026-04-23T17:00:00+05:30",
+      "title": "Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain Campaign",
+      "link": "https://thehackernews.com/2026/04/bitwarden-cli-compromised-in-ongoing.html",
+      "summary": "Bitwarden CLI has been compromised as part of the newly discovered and ongoing Checkmarx supply chain campaign, according to new findings from JFrog and Socket.\n\"The affected package version appears t...",
+      "published": "2026-04-23T19:12:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -195,123 +195,123 @@
       }
     },
     {
-      "title": "China-Linked GopherWhisper Infects 12 Mongolian Government Systems with Go Backdoors",
-      "link": "https://thehackernews.com/2026/04/china-linked-gopherwhisper-infects-12.html",
-      "summary": "Mongolian governmental institutions have emerged as the target of a previously undocumented China-aligned advanced persistent threat (APT) group tracked as GopherWhisper.\n\"The group wields a wide arra...",
-      "published": "2026-04-23T14:34:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Vercel Finds More Compromised Accounts in Context.ai-Linked Breach",
-      "link": "https://thehackernews.com/2026/04/vercel-finds-more-compromised-accounts.html",
-      "summary": "Vercel on Wednesday revealed that it has identified an additional set of customer accounts that were compromised as part of a security incident that enabled unauthorized access to its internal systems...",
-      "published": "2026-04-23T14:10:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Apple Fixes iOS Flaw That Let FBI Recover Deleted Signal Messages",
-      "link": "https://thehackernews.com/2026/04/apple-patches-ios-flaw-that-stored.html",
-      "summary": "Apple has rolled out a software fix for iOS and iPadOS to address a Notification Services flaw that stored notifications marked for deletion on the device.\nThe vulnerability, tracked as CVE-2026-28950...",
-      "published": "2026-04-23T13:36:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Ubuntu 26.04 LTS: What's new since 24.04?",
-      "link": "https://www.omgubuntu.co.uk/2026/04/ubuntu-26-04-lts-changes-since-24-04",
-      "summary": "<p>Article URL: <a href=\"https://www.omgubuntu.co.uk/2026/04/ubuntu-26-04-lts-changes-since-24-04\">https://www.omgubuntu.co.uk/2026/04/ubuntu-26-04-lts-changes-since-24-04</a></p>\n<p>Comments URL: <a ...",
-      "published": "2026-04-23T13:35:31+00:00",
-      "domain": "omgubuntu.co.uk",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Optimizing Datalog for the GPU",
-      "link": "https://dl.acm.org/doi/10.1145/3669940.3707274",
-      "summary": "<p>Article URL: <a href=\"https://dl.acm.org/doi/10.1145/3669940.3707274\">https://dl.acm.org/doi/10.1145/3669940.3707274</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47875597\"...",
-      "published": "2026-04-23T13:34:47+00:00",
-      "domain": "dl.acm.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Newton, a physics simulation engine built on Nvidia Warp",
-      "link": "https://newton-physics.github.io/newton/",
-      "summary": "<p>Article URL: <a href=\"https://newton-physics.github.io/newton/\">https://newton-physics.github.io/newton/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47875594\">https://new...",
-      "published": "2026-04-23T13:34:26+00:00",
-      "domain": "newton-physics.github.io",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The Second Time Will Be the IPO Charm for Cerebras",
-      "link": "https://www.nextplatform.com/compute/2026/04/22/the-second-time-will-be-the-ipo-charm-for-cerebras/5218651",
-      "summary": "<p>Article URL: <a href=\"https://www.nextplatform.com/compute/2026/04/22/the-second-time-will-be-the-ipo-charm-for-cerebras/5218651\">https://www.nextplatform.com/compute/2026/04/22/the-second-time-wil...",
-      "published": "2026-04-23T13:33:10+00:00",
-      "domain": "nextplatform.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "ASI \u2013 Asolaria OS FOR ALL agents AND ALL systems at the harrdware level",
-      "link": "https://news.ycombinator.com/item?id=47875578",
-      "summary": "<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47875578\">https://news.ycombinator.com/item?id=47875578</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>...",
-      "published": "2026-04-23T13:33:08+00:00",
+      "title": "Can non-developer build commercial products with AI",
+      "link": "https://news.ycombinator.com/item?id=47880204",
+      "summary": "<p>I honestly think that even with AGI or ACI; without deep understanding of technical architectures and fundamentals , the last 10 miles will be tough! When I tried to build products using Claude Cod...",
+      "published": "2026-04-23T19:10:33+00:00",
       "domain": "news.ycombinator.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "What Will It Take to Get A.I. Out of Schools?",
+      "link": "https://www.newyorker.com/culture/progress-report/what-will-it-take-to-get-ai-out-of-schools",
+      "summary": "<p>Article URL: <a href=\"https://www.newyorker.com/culture/progress-report/what-will-it-take-to-get-ai-out-of-schools\">https://www.newyorker.com/culture/progress-report/what-will-it-take-to-get-ai-out...",
+      "published": "2026-04-23T19:10:14+00:00",
+      "domain": "newyorker.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Girl, 10, finds rare Mexican axolotl under Welsh bridge",
+      "link": "https://www.bbc.com/news/articles/c9d4zgnqpqeo",
+      "summary": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/c9d4zgnqpqeo\">https://www.bbc.com/news/articles/c9d4zgnqpqeo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47880189\"...",
+      "published": "2026-04-23T19:09:40+00:00",
+      "domain": "bbc.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The no-go zone paradox: Chornobyl's wildlife thrives amid pro-nuclear shift",
+      "link": "https://www.theguardian.com/environment/2026/apr/23/exclusion-zone-chornobyl-wildlife-thrives-amid-pro-nuclear-shift",
+      "summary": "<p>Article URL: <a href=\"https://www.theguardian.com/environment/2026/apr/23/exclusion-zone-chornobyl-wildlife-thrives-amid-pro-nuclear-shift\">https://www.theguardian.com/environment/2026/apr/23/exclu...",
+      "published": "2026-04-23T19:09:15+00:00",
+      "domain": "theguardian.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "ChatGPT ads expand to logged-out users",
+      "link": "https://searchengineland.com/chatgpt-ads-expand-to-logged-out-users-475377",
+      "summary": "<p>Article URL: <a href=\"https://searchengineland.com/chatgpt-ads-expand-to-logged-out-users-475377\">https://searchengineland.com/chatgpt-ads-expand-to-logged-out-users-475377</a></p>\n<p>Comments URL:...",
+      "published": "2026-04-23T19:09:11+00:00",
+      "domain": "searchengineland.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "ThreatsDay Bulletin: $290M DeFi Hack, macOS LotL Abuse, ProxySmart SIM Farms +25 New Stories",
+      "link": "https://thehackernews.com/2026/04/threatsday-bulletin-290m-defi-hack.html",
+      "summary": "You scroll past one incident and see another that feels familiar, like it should have been fixed years ago, but it still works with small changes. Same bugs. Same mistakes.\nThe supply chain is messy. ...",
+      "published": "2026-04-23T18:47:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "GPT-5.5",
+      "link": "https://openai.com/index/introducing-gpt-5-5/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47879092\">Comments</a>...",
+      "published": "2026-04-23T18:01:39+00:00",
+      "domain": "openai.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "An update on recent Claude Code quality reports",
+      "link": "https://www.anthropic.com/engineering/april-23-postmortem",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47878905\">Comments</a>...",
+      "published": "2026-04-23T17:48:38+00:00",
+      "domain": "anthropic.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -325,10 +325,10 @@
   ],
   "overall_ranked": [
     {
-      "title": "[Webinar] Mythos Reality Check: Beating Automated Exploitation at AI Speed",
-      "link": "https://thehackernews.com/2026/04/webinar-mythos-reality-check-beating.html",
-      "summary": "Imagine a world where hackers don't sleep, don't take breaks, and find weak spots in your systems instantly.\nWell, that world is already here.\nThanks to AI, attackers are now launching automated, larg...",
-      "published": "2026-04-23T17:33:00+05:30",
+      "title": "UNC6692 Impersonates IT Helpdesk via Microsoft Teams to Deploy SNOW Malware",
+      "link": "https://thehackernews.com/2026/04/unc6692-impersonates-it-helpdesk-via.html",
+      "summary": "A previously undocumented threat activity cluster known as UNC6692 has been observed leveraging social engineering tactics via Microsoft Teams to deploy a custom malware suite on compromised hosts.\n\"A...",
+      "published": "2026-04-23T23:46:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -341,10 +341,10 @@
       }
     },
     {
-      "title": "Project Glasswing Proved AI Can Find the Bugs. Who's Going to Fix Them?",
-      "link": "https://thehackernews.com/2026/04/project-glasswing-proved-ai-can-find.html",
-      "summary": "Last week, Anthropic announced Project Glasswing, an AI model so effective at discovering software vulnerabilities that they took the extraordinary step of postponing its public release. Instead, the ...",
-      "published": "2026-04-23T17:00:00+05:30",
+      "title": "Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain Campaign",
+      "link": "https://thehackernews.com/2026/04/bitwarden-cli-compromised-in-ongoing.html",
+      "summary": "Bitwarden CLI has been compromised as part of the newly discovered and ongoing Checkmarx supply chain campaign, according to new findings from JFrog and Socket.\n\"The affected package version appears t...",
+      "published": "2026-04-23T19:12:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -357,123 +357,123 @@
       }
     },
     {
-      "title": "China-Linked GopherWhisper Infects 12 Mongolian Government Systems with Go Backdoors",
-      "link": "https://thehackernews.com/2026/04/china-linked-gopherwhisper-infects-12.html",
-      "summary": "Mongolian governmental institutions have emerged as the target of a previously undocumented China-aligned advanced persistent threat (APT) group tracked as GopherWhisper.\n\"The group wields a wide arra...",
-      "published": "2026-04-23T14:34:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Vercel Finds More Compromised Accounts in Context.ai-Linked Breach",
-      "link": "https://thehackernews.com/2026/04/vercel-finds-more-compromised-accounts.html",
-      "summary": "Vercel on Wednesday revealed that it has identified an additional set of customer accounts that were compromised as part of a security incident that enabled unauthorized access to its internal systems...",
-      "published": "2026-04-23T14:10:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Apple Fixes iOS Flaw That Let FBI Recover Deleted Signal Messages",
-      "link": "https://thehackernews.com/2026/04/apple-patches-ios-flaw-that-stored.html",
-      "summary": "Apple has rolled out a software fix for iOS and iPadOS to address a Notification Services flaw that stored notifications marked for deletion on the device.\nThe vulnerability, tracked as CVE-2026-28950...",
-      "published": "2026-04-23T13:36:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Ubuntu 26.04 LTS: What's new since 24.04?",
-      "link": "https://www.omgubuntu.co.uk/2026/04/ubuntu-26-04-lts-changes-since-24-04",
-      "summary": "<p>Article URL: <a href=\"https://www.omgubuntu.co.uk/2026/04/ubuntu-26-04-lts-changes-since-24-04\">https://www.omgubuntu.co.uk/2026/04/ubuntu-26-04-lts-changes-since-24-04</a></p>\n<p>Comments URL: <a ...",
-      "published": "2026-04-23T13:35:31+00:00",
-      "domain": "omgubuntu.co.uk",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Optimizing Datalog for the GPU",
-      "link": "https://dl.acm.org/doi/10.1145/3669940.3707274",
-      "summary": "<p>Article URL: <a href=\"https://dl.acm.org/doi/10.1145/3669940.3707274\">https://dl.acm.org/doi/10.1145/3669940.3707274</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47875597\"...",
-      "published": "2026-04-23T13:34:47+00:00",
-      "domain": "dl.acm.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Newton, a physics simulation engine built on Nvidia Warp",
-      "link": "https://newton-physics.github.io/newton/",
-      "summary": "<p>Article URL: <a href=\"https://newton-physics.github.io/newton/\">https://newton-physics.github.io/newton/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47875594\">https://new...",
-      "published": "2026-04-23T13:34:26+00:00",
-      "domain": "newton-physics.github.io",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The Second Time Will Be the IPO Charm for Cerebras",
-      "link": "https://www.nextplatform.com/compute/2026/04/22/the-second-time-will-be-the-ipo-charm-for-cerebras/5218651",
-      "summary": "<p>Article URL: <a href=\"https://www.nextplatform.com/compute/2026/04/22/the-second-time-will-be-the-ipo-charm-for-cerebras/5218651\">https://www.nextplatform.com/compute/2026/04/22/the-second-time-wil...",
-      "published": "2026-04-23T13:33:10+00:00",
-      "domain": "nextplatform.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "ASI \u2013 Asolaria OS FOR ALL agents AND ALL systems at the harrdware level",
-      "link": "https://news.ycombinator.com/item?id=47875578",
-      "summary": "<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47875578\">https://news.ycombinator.com/item?id=47875578</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>...",
-      "published": "2026-04-23T13:33:08+00:00",
+      "title": "Can non-developer build commercial products with AI",
+      "link": "https://news.ycombinator.com/item?id=47880204",
+      "summary": "<p>I honestly think that even with AGI or ACI; without deep understanding of technical architectures and fundamentals , the last 10 miles will be tough! When I tried to build products using Claude Cod...",
+      "published": "2026-04-23T19:10:33+00:00",
       "domain": "news.ycombinator.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "What Will It Take to Get A.I. Out of Schools?",
+      "link": "https://www.newyorker.com/culture/progress-report/what-will-it-take-to-get-ai-out-of-schools",
+      "summary": "<p>Article URL: <a href=\"https://www.newyorker.com/culture/progress-report/what-will-it-take-to-get-ai-out-of-schools\">https://www.newyorker.com/culture/progress-report/what-will-it-take-to-get-ai-out...",
+      "published": "2026-04-23T19:10:14+00:00",
+      "domain": "newyorker.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Girl, 10, finds rare Mexican axolotl under Welsh bridge",
+      "link": "https://www.bbc.com/news/articles/c9d4zgnqpqeo",
+      "summary": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/c9d4zgnqpqeo\">https://www.bbc.com/news/articles/c9d4zgnqpqeo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47880189\"...",
+      "published": "2026-04-23T19:09:40+00:00",
+      "domain": "bbc.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The no-go zone paradox: Chornobyl's wildlife thrives amid pro-nuclear shift",
+      "link": "https://www.theguardian.com/environment/2026/apr/23/exclusion-zone-chornobyl-wildlife-thrives-amid-pro-nuclear-shift",
+      "summary": "<p>Article URL: <a href=\"https://www.theguardian.com/environment/2026/apr/23/exclusion-zone-chornobyl-wildlife-thrives-amid-pro-nuclear-shift\">https://www.theguardian.com/environment/2026/apr/23/exclu...",
+      "published": "2026-04-23T19:09:15+00:00",
+      "domain": "theguardian.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "ChatGPT ads expand to logged-out users",
+      "link": "https://searchengineland.com/chatgpt-ads-expand-to-logged-out-users-475377",
+      "summary": "<p>Article URL: <a href=\"https://searchengineland.com/chatgpt-ads-expand-to-logged-out-users-475377\">https://searchengineland.com/chatgpt-ads-expand-to-logged-out-users-475377</a></p>\n<p>Comments URL:...",
+      "published": "2026-04-23T19:09:11+00:00",
+      "domain": "searchengineland.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "ThreatsDay Bulletin: $290M DeFi Hack, macOS LotL Abuse, ProxySmart SIM Farms +25 New Stories",
+      "link": "https://thehackernews.com/2026/04/threatsday-bulletin-290m-defi-hack.html",
+      "summary": "You scroll past one incident and see another that feels familiar, like it should have been fixed years ago, but it still works with small changes. Same bugs. Same mistakes.\nThe supply chain is messy. ...",
+      "published": "2026-04-23T18:47:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "GPT-5.5",
+      "link": "https://openai.com/index/introducing-gpt-5-5/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47879092\">Comments</a>...",
+      "published": "2026-04-23T18:01:39+00:00",
+      "domain": "openai.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "An update on recent Claude Code quality reports",
+      "link": "https://www.anthropic.com/engineering/april-23-postmortem",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47878905\">Comments</a>...",
+      "published": "2026-04-23T17:48:38+00:00",
+      "domain": "anthropic.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -487,10 +487,10 @@
   ],
   "all_articles": [
     {
-      "title": "[Webinar] Mythos Reality Check: Beating Automated Exploitation at AI Speed",
-      "link": "https://thehackernews.com/2026/04/webinar-mythos-reality-check-beating.html",
-      "summary": "Imagine a world where hackers don't sleep, don't take breaks, and find weak spots in your systems instantly.\nWell, that world is already here.\nThanks to AI, attackers are now launching automated, larg...",
-      "published": "2026-04-23T17:33:00+05:30",
+      "title": "UNC6692 Impersonates IT Helpdesk via Microsoft Teams to Deploy SNOW Malware",
+      "link": "https://thehackernews.com/2026/04/unc6692-impersonates-it-helpdesk-via.html",
+      "summary": "A previously undocumented threat activity cluster known as UNC6692 has been observed leveraging social engineering tactics via Microsoft Teams to deploy a custom malware suite on compromised hosts.\n\"A...",
+      "published": "2026-04-23T23:46:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -503,10 +503,10 @@
       }
     },
     {
-      "title": "Project Glasswing Proved AI Can Find the Bugs. Who's Going to Fix Them?",
-      "link": "https://thehackernews.com/2026/04/project-glasswing-proved-ai-can-find.html",
-      "summary": "Last week, Anthropic announced Project Glasswing, an AI model so effective at discovering software vulnerabilities that they took the extraordinary step of postponing its public release. Instead, the ...",
-      "published": "2026-04-23T17:00:00+05:30",
+      "title": "Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain Campaign",
+      "link": "https://thehackernews.com/2026/04/bitwarden-cli-compromised-in-ongoing.html",
+      "summary": "Bitwarden CLI has been compromised as part of the newly discovered and ongoing Checkmarx supply chain campaign, according to new findings from JFrog and Socket.\n\"The affected package version appears t...",
+      "published": "2026-04-23T19:12:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -519,123 +519,123 @@
       }
     },
     {
-      "title": "China-Linked GopherWhisper Infects 12 Mongolian Government Systems with Go Backdoors",
-      "link": "https://thehackernews.com/2026/04/china-linked-gopherwhisper-infects-12.html",
-      "summary": "Mongolian governmental institutions have emerged as the target of a previously undocumented China-aligned advanced persistent threat (APT) group tracked as GopherWhisper.\n\"The group wields a wide arra...",
-      "published": "2026-04-23T14:34:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Vercel Finds More Compromised Accounts in Context.ai-Linked Breach",
-      "link": "https://thehackernews.com/2026/04/vercel-finds-more-compromised-accounts.html",
-      "summary": "Vercel on Wednesday revealed that it has identified an additional set of customer accounts that were compromised as part of a security incident that enabled unauthorized access to its internal systems...",
-      "published": "2026-04-23T14:10:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Apple Fixes iOS Flaw That Let FBI Recover Deleted Signal Messages",
-      "link": "https://thehackernews.com/2026/04/apple-patches-ios-flaw-that-stored.html",
-      "summary": "Apple has rolled out a software fix for iOS and iPadOS to address a Notification Services flaw that stored notifications marked for deletion on the device.\nThe vulnerability, tracked as CVE-2026-28950...",
-      "published": "2026-04-23T13:36:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Ubuntu 26.04 LTS: What's new since 24.04?",
-      "link": "https://www.omgubuntu.co.uk/2026/04/ubuntu-26-04-lts-changes-since-24-04",
-      "summary": "<p>Article URL: <a href=\"https://www.omgubuntu.co.uk/2026/04/ubuntu-26-04-lts-changes-since-24-04\">https://www.omgubuntu.co.uk/2026/04/ubuntu-26-04-lts-changes-since-24-04</a></p>\n<p>Comments URL: <a ...",
-      "published": "2026-04-23T13:35:31+00:00",
-      "domain": "omgubuntu.co.uk",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Optimizing Datalog for the GPU",
-      "link": "https://dl.acm.org/doi/10.1145/3669940.3707274",
-      "summary": "<p>Article URL: <a href=\"https://dl.acm.org/doi/10.1145/3669940.3707274\">https://dl.acm.org/doi/10.1145/3669940.3707274</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47875597\"...",
-      "published": "2026-04-23T13:34:47+00:00",
-      "domain": "dl.acm.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Newton, a physics simulation engine built on Nvidia Warp",
-      "link": "https://newton-physics.github.io/newton/",
-      "summary": "<p>Article URL: <a href=\"https://newton-physics.github.io/newton/\">https://newton-physics.github.io/newton/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47875594\">https://new...",
-      "published": "2026-04-23T13:34:26+00:00",
-      "domain": "newton-physics.github.io",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The Second Time Will Be the IPO Charm for Cerebras",
-      "link": "https://www.nextplatform.com/compute/2026/04/22/the-second-time-will-be-the-ipo-charm-for-cerebras/5218651",
-      "summary": "<p>Article URL: <a href=\"https://www.nextplatform.com/compute/2026/04/22/the-second-time-will-be-the-ipo-charm-for-cerebras/5218651\">https://www.nextplatform.com/compute/2026/04/22/the-second-time-wil...",
-      "published": "2026-04-23T13:33:10+00:00",
-      "domain": "nextplatform.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "ASI \u2013 Asolaria OS FOR ALL agents AND ALL systems at the harrdware level",
-      "link": "https://news.ycombinator.com/item?id=47875578",
-      "summary": "<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47875578\">https://news.ycombinator.com/item?id=47875578</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>...",
-      "published": "2026-04-23T13:33:08+00:00",
+      "title": "Can non-developer build commercial products with AI",
+      "link": "https://news.ycombinator.com/item?id=47880204",
+      "summary": "<p>I honestly think that even with AGI or ACI; without deep understanding of technical architectures and fundamentals , the last 10 miles will be tough! When I tried to build products using Claude Cod...",
+      "published": "2026-04-23T19:10:33+00:00",
       "domain": "news.ycombinator.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "What Will It Take to Get A.I. Out of Schools?",
+      "link": "https://www.newyorker.com/culture/progress-report/what-will-it-take-to-get-ai-out-of-schools",
+      "summary": "<p>Article URL: <a href=\"https://www.newyorker.com/culture/progress-report/what-will-it-take-to-get-ai-out-of-schools\">https://www.newyorker.com/culture/progress-report/what-will-it-take-to-get-ai-out...",
+      "published": "2026-04-23T19:10:14+00:00",
+      "domain": "newyorker.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Girl, 10, finds rare Mexican axolotl under Welsh bridge",
+      "link": "https://www.bbc.com/news/articles/c9d4zgnqpqeo",
+      "summary": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/c9d4zgnqpqeo\">https://www.bbc.com/news/articles/c9d4zgnqpqeo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47880189\"...",
+      "published": "2026-04-23T19:09:40+00:00",
+      "domain": "bbc.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The no-go zone paradox: Chornobyl's wildlife thrives amid pro-nuclear shift",
+      "link": "https://www.theguardian.com/environment/2026/apr/23/exclusion-zone-chornobyl-wildlife-thrives-amid-pro-nuclear-shift",
+      "summary": "<p>Article URL: <a href=\"https://www.theguardian.com/environment/2026/apr/23/exclusion-zone-chornobyl-wildlife-thrives-amid-pro-nuclear-shift\">https://www.theguardian.com/environment/2026/apr/23/exclu...",
+      "published": "2026-04-23T19:09:15+00:00",
+      "domain": "theguardian.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "ChatGPT ads expand to logged-out users",
+      "link": "https://searchengineland.com/chatgpt-ads-expand-to-logged-out-users-475377",
+      "summary": "<p>Article URL: <a href=\"https://searchengineland.com/chatgpt-ads-expand-to-logged-out-users-475377\">https://searchengineland.com/chatgpt-ads-expand-to-logged-out-users-475377</a></p>\n<p>Comments URL:...",
+      "published": "2026-04-23T19:09:11+00:00",
+      "domain": "searchengineland.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "ThreatsDay Bulletin: $290M DeFi Hack, macOS LotL Abuse, ProxySmart SIM Farms +25 New Stories",
+      "link": "https://thehackernews.com/2026/04/threatsday-bulletin-290m-defi-hack.html",
+      "summary": "You scroll past one incident and see another that feels familiar, like it should have been fixed years ago, but it still works with small changes. Same bugs. Same mistakes.\nThe supply chain is messy. ...",
+      "published": "2026-04-23T18:47:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "GPT-5.5",
+      "link": "https://openai.com/index/introducing-gpt-5-5/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47879092\">Comments</a>...",
+      "published": "2026-04-23T18:01:39+00:00",
+      "domain": "openai.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "An update on recent Claude Code quality reports",
+      "link": "https://www.anthropic.com/engineering/april-23-postmortem",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47878905\">Comments</a>...",
+      "published": "2026-04-23T17:48:38+00:00",
+      "domain": "anthropic.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
