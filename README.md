@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Malicious KICS Docker Images and VS Code Extensions Hit Checkmarx Supply Chain
+### Apple fixes bug that cops used to extract deleted chat messages from iPhones
 - **Published**: April 22, 2026
-- **Summary**: Cybersecurity researchers have warned of malicious images pushed to the official "checkmarx/kics" Docker Hub repository.
-In an alert published today, ...
-- [Read more](https://thehackernews.com/2026/04/malicious-kics-docker-images-and-vs.html)
+- **Summary**: ......
+- **Keywords**: bug
+- [Read more](https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/)
 
-### Self-Propagating Supply Chain Worm Hijacks npm Packages to Steal Developer Tokens
-- **Published**: April 22, 2026
-- **Summary**: Cybersecurity researchers have flagged a fresh set of packages that have been compromised by bad actors to deliver a self-propagating worm that spread...
-- [Read more](https://thehackernews.com/2026/04/self-propagating-supply-chain-worm.html)
+### Show HN: MemReader: From Passive to Active Extraction for Long-Term Agent Memory
+- **Published**: April 23, 2026
+- **Summary**: <p>Long-term memory is fundamental for personalized and autonomous agents, yet populating it remains a bottleneck. Existing systems treat memory extra...
+- [Read more](https://arxiv.org/abs/2604.07877)
 
 ---
 
