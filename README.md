@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Apple fixes bug that cops used to extract deleted chat messages from iPhones
-- **Published**: April 22, 2026
-- **Summary**: ......
-- **Keywords**: bug
-- [Read more](https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/)
-
-### Show HN: MemReader: From Passive to Active Extraction for Long-Term Agent Memory
+### Ars Technica: Our newsroom AI policy
 - **Published**: April 23, 2026
-- **Summary**: <p>Long-term memory is fundamental for personalized and autonomous agents, yet populating it remains a bottleneck. Existing systems treat memory extra...
-- [Read more](https://arxiv.org/abs/2604.07877)
+- **Summary**: ......
+- [Read more](https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/)
+
+### Boston marathon's good Samaritan loses race time but wins plaudits
+- **Published**: April 23, 2026
+- **Summary**: https://www.thetimes.com/us/news-today/article/boston-marathon-runners-video-vira......
+- [Read more](https://www.thetimes.com/us/news-today/article/boston-marathon-runners-video-viral-mv2glcvff)
 
 ---
 
