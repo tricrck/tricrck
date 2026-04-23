@@ -16,15 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Ars Technica: Our newsroom AI policy
+### [Webinar] Mythos Reality Check: Beating Automated Exploitation at AI Speed
 - **Published**: April 23, 2026
-- **Summary**: ......
-- [Read more](https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/)
+- **Summary**: Imagine a world where hackers don't sleep, don't take breaks, and find weak spots in your systems instantly.
+Well, that world is already here.
+Thanks ...
+- [Read more](https://thehackernews.com/2026/04/webinar-mythos-reality-check-beating.html)
 
-### Boston marathon's good Samaritan loses race time but wins plaudits
+### Project Glasswing Proved AI Can Find the Bugs. Who's Going to Fix Them?
 - **Published**: April 23, 2026
-- **Summary**: https://www.thetimes.com/us/news-today/article/boston-marathon-runners-video-vira......
-- [Read more](https://www.thetimes.com/us/news-today/article/boston-marathon-runners-video-viral-mv2glcvff)
+- **Summary**: Last week, Anthropic announced Project Glasswing, an AI model so effective at discovering software vulnerabilities that they took the extraordinary st...
+- [Read more](https://thehackernews.com/2026/04/project-glasswing-proved-ai-can-find.html)
 
 ---
 
