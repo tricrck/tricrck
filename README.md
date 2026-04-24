@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Bridging the AI Agent Authority Gap: Continuous Observability as the Decision Engine
+### FIRESTARTER Backdoor Hit Federal Cisco Firepower Device, Survives Security Patches
 - **Published**: April 24, 2026
-- **Summary**: The AI Agent Authority Gap - From Ungoverned to Delegation
-As discussed in our previous article, AI agents are exposing a structural gap in enterprise...
-- [Read more](https://thehackernews.com/2026/04/bridging-ai-agent-authority-gap.html)
+- **Summary**: The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has revealed that an unnamed federal civilian agency's Cisco Firepower device running...
+- [Read more](https://thehackernews.com/2026/04/firestarter-backdoor-hit-federal-cisco.html)
 
-### 26 FakeWallet Apps Found on Apple App Store Targeting Crypto Seed Phrases
+### NASA Employees Duped in Chinese Phishing Scheme Targeting U.S. Defense Software
 - **Published**: April 24, 2026
-- **Summary**: Cybersecurity researchers have discovered a set of malicious apps on the Apple App Store that impersonate popular cryptocurrency wallets in an attempt...
-- [Read more](https://thehackernews.com/2026/04/26-fakewallet-apps-found-on-apple-app.html)
+- **Summary**: The Office of Inspector General (OIG) of the U.S. National Aeronautics and Space Administration (NASA) has revealed how a Chinese national posed as a ...
+- [Read more](https://thehackernews.com/2026/04/nasa-employees-duped-in-chinese.html)
 
 ---
 
