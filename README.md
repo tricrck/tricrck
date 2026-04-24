@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Self-Reference
+### Bridging the AI Agent Authority Gap: Continuous Observability as the Decision Engine
 - **Published**: April 24, 2026
-- **Summary**: https://en.wikipedia.org/wiki/Self-reference</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47887087">htt......
-- [Read more](https://en.wikipedia.org/wiki/Self-reference)
+- **Summary**: The AI Agent Authority Gap - From Ungoverned to Delegation
+As discussed in our previous article, AI agents are exposing a structural gap in enterprise...
+- [Read more](https://thehackernews.com/2026/04/bridging-ai-agent-authority-gap.html)
 
-### Discouraging "the voice from nowhere" (~LLMs) in documentation
+### 26 FakeWallet Apps Found on Apple App Store Targeting Crypto Seed Phrases
 - **Published**: April 24, 2026
-- **Summary**: https://forum.djangoproject.com/t/discouraging-the-voice-from-nowhere-llms-i......
-- [Read more](https://forum.djangoproject.com/t/discouraging-the-voice-from-nowhere-llms-in-documentation/44699)
+- **Summary**: Cybersecurity researchers have discovered a set of malicious apps on the Apple App Store that impersonate popular cryptocurrency wallets in an attempt...
+- [Read more](https://thehackernews.com/2026/04/26-fakewallet-apps-found-on-apple-app.html)
 
 ---
 
