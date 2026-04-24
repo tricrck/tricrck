@@ -16,15 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### UNC6692 Impersonates IT Helpdesk via Microsoft Teams to Deploy SNOW Malware
-- **Published**: April 23, 2026
-- **Summary**: A previously undocumented threat activity cluster known as UNC6692 has been observed leveraging social engineering tactics via Microsoft Teams to depl...
-- [Read more](https://thehackernews.com/2026/04/unc6692-impersonates-it-helpdesk-via.html)
+### These are the countries moving to ban social media for children
+- **Published**: April 24, 2026
+- **Summary**: https://techcrunch.com/2026/04/23/social-media-ban-children-countries-list/</a></p>
+<p>Comments UR......
+- [Read more](https://techcrunch.com/2026/04/23/social-media-ban-children-countries-list/)
 
-### Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain Campaign
-- **Published**: April 23, 2026
-- **Summary**: Bitwarden CLI has been compromised as part of the newly discovered and ongoing Checkmarx supply chain campaign, according to new findings from JFrog a...
-- [Read more](https://thehackernews.com/2026/04/bitwarden-cli-compromised-in-ongoing.html)
+### Introducing Data Exports
+- **Published**: April 24, 2026
+- **Summary**: https://socket.dev/blog/introducing-data-exports</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47884......
+- [Read more](https://socket.dev/blog/introducing-data-exports)
 
 ---
 
