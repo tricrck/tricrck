@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### These are the countries moving to ban social media for children
+### Self-Reference
 - **Published**: April 24, 2026
-- **Summary**: https://techcrunch.com/2026/04/23/social-media-ban-children-countries-list/</a></p>
-<p>Comments UR......
-- [Read more](https://techcrunch.com/2026/04/23/social-media-ban-children-countries-list/)
+- **Summary**: https://en.wikipedia.org/wiki/Self-reference</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47887087">htt......
+- [Read more](https://en.wikipedia.org/wiki/Self-reference)
 
-### Introducing Data Exports
+### Discouraging "the voice from nowhere" (~LLMs) in documentation
 - **Published**: April 24, 2026
-- **Summary**: https://socket.dev/blog/introducing-data-exports</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47884......
-- [Read more](https://socket.dev/blog/introducing-data-exports)
+- **Summary**: https://forum.djangoproject.com/t/discouraging-the-voice-from-nowhere-llms-i......
+- [Read more](https://forum.djangoproject.com/t/discouraging-the-voice-from-nowhere-llms-in-documentation/44699)
 
 ---
 
