@@ -16,15 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### FIRESTARTER Backdoor Hit Federal Cisco Firepower Device, Survives Security Patches
-- **Published**: April 24, 2026
-- **Summary**: The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has revealed that an unnamed federal civilian agency's Cisco Firepower device running...
-- [Read more](https://thehackernews.com/2026/04/firestarter-backdoor-hit-federal-cisco.html)
+### German cabinet approves 3-month IP address retention
+- **Published**: April 25, 2026
+- **Summary**: https://europeanconservative.com/articles......
+- [Read more](https://europeanconservative.com/articles/news-corner/germany-merz-surveillance-ip-tracking-berlin-grand-coalition-citizens-privacy/)
 
-### NASA Employees Duped in Chinese Phishing Scheme Targeting U.S. Defense Software
-- **Published**: April 24, 2026
-- **Summary**: The Office of Inspector General (OIG) of the U.S. National Aeronautics and Space Administration (NASA) has revealed how a Chinese national posed as a ...
-- [Read more](https://thehackernews.com/2026/04/nasa-employees-duped-in-chinese.html)
+### GCC Establishes Working Group to Decide on AI/LLM Policy
+- **Published**: April 25, 2026
+- **Summary**: https://www.phoronix.com/news/GCC-Working-Group-AI-Policy</a></p>
+<p>Comments URL: <a href="https://news.ycombinator......
+- [Read more](https://www.phoronix.com/news/GCC-Working-Group-AI-Policy)
 
 ---
 
