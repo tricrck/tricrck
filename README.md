@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### German cabinet approves 3-month IP address retention
+### CISA Adds 4 Exploited Flaws to KEV, Sets May 2026 Federal Deadline
 - **Published**: April 25, 2026
-- **Summary**: https://europeanconservative.com/articles......
-- [Read more](https://europeanconservative.com/articles/news-corner/germany-merz-surveillance-ip-tracking-berlin-grand-coalition-citizens-privacy/)
+- **Summary**: The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added four vulnerabilities impacting SimpleHelp, Samsung MagicINFO 9 Server...
+- [Read more](https://thehackernews.com/2026/04/cisa-adds-4-exploited-flaws-to-kev-sets.html)
 
-### GCC Establishes Working Group to Decide on AI/LLM Policy
+### Managing the Unmanaged Switch
 - **Published**: April 25, 2026
-- **Summary**: https://www.phoronix.com/news/GCC-Working-Group-AI-Policy</a></p>
-<p>Comments URL: <a href="https://news.ycombinator......
-- [Read more](https://www.phoronix.com/news/GCC-Working-Group-AI-Policy)
+- **Summary**: https://watchmysys.com/blog/2026/03/managing-the-unmanaged-switch/</a></p>
+<p>Comments URL: <a href="https:......
+- [Read more](https://watchmysys.com/blog/2026/03/managing-the-unmanaged-switch/)
 
 ---
 
