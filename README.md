@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### CISA Adds 4 Exploited Flaws to KEV, Sets May 2026 Federal Deadline
+### Researchers Uncover Pre-Stuxnet ‘fast16’ Malware Targeting Engineering Software
 - **Published**: April 25, 2026
-- **Summary**: The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added four vulnerabilities impacting SimpleHelp, Samsung MagicINFO 9 Server...
-- [Read more](https://thehackernews.com/2026/04/cisa-adds-4-exploited-flaws-to-kev-sets.html)
+- **Summary**: Cybersecurity researchers have discovered a new Lua-based malware created years before the notorious Stuxnet worm that aimed to sabotage Iran's nuclea...
+- [Read more](https://thehackernews.com/2026/04/researchers-uncover-pre-stuxnet-fast16.html)
 
-### Managing the Unmanaged Switch
+### Jailbreaking a robot vacuum to run Tailscale and Valetudo
 - **Published**: April 25, 2026
-- **Summary**: https://watchmysys.com/blog/2026/03/managing-the-unmanaged-switch/</a></p>
-<p>Comments URL: <a href="https:......
-- [Read more](https://watchmysys.com/blog/2026/03/managing-the-unmanaged-switch/)
+- **Summary**: https://tailscale.com/blog/tailscale-sucks</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47901125">https:/......
+- [Read more](https://tailscale.com/blog/tailscale-sucks)
 
 ---
 
