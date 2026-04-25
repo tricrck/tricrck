@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Researchers Uncover Pre-Stuxnet ‘fast16’ Malware Targeting Engineering Software
+### The Lunar Gateway's primary modules are corroded
 - **Published**: April 25, 2026
-- **Summary**: Cybersecurity researchers have discovered a new Lua-based malware created years before the notorious Stuxnet worm that aimed to sabotage Iran's nuclea...
-- [Read more](https://thehackernews.com/2026/04/researchers-uncover-pre-stuxnet-fast16.html)
+- **Summary**: https://arstechnica.com/space/2026/04/well-this-is-embarrassi......
+- [Read more](https://arstechnica.com/space/2026/04/well-this-is-embarrassing-the-lunar-gateways-primary-modules-are-corroded/)
 
-### Jailbreaking a robot vacuum to run Tailscale and Valetudo
+### Hermes.md in Git commit messages causes requests to route to extra usage billing
 - **Published**: April 25, 2026
-- **Summary**: https://tailscale.com/blog/tailscale-sucks</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47901125">https:/......
-- [Read more](https://tailscale.com/blog/tailscale-sucks)
+- **Summary**: https://github.com/anthropics/claude-code/issues/53262</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/i......
+- [Read more](https://github.com/anthropics/claude-code/issues/53262)
 
 ---
 
