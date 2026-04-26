@@ -16,17 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### LLMs Corrupt Your Documents When You Delegate
+### Show HN: Economic growth is a power law
 - **Published**: April 26, 2026
-- **Summary**: https://arxiv.org/abs/2604.15597</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47906796">https://news.ycombinator.co......
-- [Read more](https://arxiv.org/abs/2604.15597)
+- **Summary**: 
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.co......
+- [Read more](https://julienreszka.github.io/economic-simulator/armey-curve.html)
 
-### Reviving BrowserID in 2026
+### Why C Remains the Gold Standard for Cryptographic Software
 - **Published**: April 26, 2026
-- **Summary**: https://wakamoleguy.com/p/reviving-browserid-in-2026</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?......
-- [Read more](https://wakamoleguy.com/p/reviving-browserid-in-2026)
+- **Summary**: https://www.wolfssl.com/why-c-remains-the-gold-standard-for-cryptographic-software/</a></p......
+- [Read more](https://www.wolfssl.com/why-c-remains-the-gold-standard-for-cryptographic-software/)
 
 ---
 
