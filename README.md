@@ -16,17 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Show HN: Economic growth is a power law
+### CPU Has More Registers Than You'd Think
 - **Published**: April 26, 2026
-- **Summary**: 
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.co......
-- [Read more](https://julienreszka.github.io/economic-simulator/armey-curve.html)
+- **Summary**: https://fp32.org/register_renaming.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47909980">https://news.......
+- [Read more](https://fp32.org/register_renaming.html)
 
-### Why C Remains the Gold Standard for Cryptographic Software
+### The Fastest Linux Timestamps
 - **Published**: April 26, 2026
-- **Summary**: https://www.wolfssl.com/why-c-remains-the-gold-standard-for-cryptographic-software/</a></p......
-- [Read more](https://www.wolfssl.com/why-c-remains-the-gold-standard-for-cryptographic-software/)
+- **Summary**: https://www.hmpcabral.com/2026/04/26/the-fastest-linux-timestamps/</a></p>
+<p>Comments URL: <a href="https:......
+- [Read more](https://www.hmpcabral.com/2026/04/26/the-fastest-linux-timestamps/)
 
 ---
 
