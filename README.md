@@ -16,16 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### The Lunar Gateway's primary modules are corroded
-- **Published**: April 25, 2026
-- **Summary**: https://arstechnica.com/space/2026/04/well-this-is-embarrassi......
-- [Read more](https://arstechnica.com/space/2026/04/well-this-is-embarrassing-the-lunar-gateways-primary-modules-are-corroded/)
+### LLMs Corrupt Your Documents When You Delegate
+- **Published**: April 26, 2026
+- **Summary**: https://arxiv.org/abs/2604.15597</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47906796">https://news.ycombinator.co......
+- [Read more](https://arxiv.org/abs/2604.15597)
 
-### Hermes.md in Git commit messages causes requests to route to extra usage billing
-- **Published**: April 25, 2026
-- **Summary**: https://github.com/anthropics/claude-code/issues/53262</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/i......
-- [Read more](https://github.com/anthropics/claude-code/issues/53262)
+### Reviving BrowserID in 2026
+- **Published**: April 26, 2026
+- **Summary**: https://wakamoleguy.com/p/reviving-browserid-in-2026</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?......
+- [Read more](https://wakamoleguy.com/p/reviving-browserid-in-2026)
 
 ---
 
