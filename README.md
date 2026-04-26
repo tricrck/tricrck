@@ -16,17 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### CPU Has More Registers Than You'd Think
+### How the Kremlin's internet crackdown is frustrating Russians [video]
 - **Published**: April 26, 2026
-- **Summary**: https://fp32.org/register_renaming.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47909980">https://news.......
-- [Read more](https://fp32.org/register_renaming.html)
+- **Summary**: https://www.bbc.co.uk/news/videos/c75kpx2w452o</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47912812"......
+- [Read more](https://www.bbc.co.uk/news/videos/c75kpx2w452o)
 
-### The Fastest Linux Timestamps
+### Mirror Field Operating System: a commit-boundary approach to AI governance
 - **Published**: April 26, 2026
-- **Summary**: https://www.hmpcabral.com/2026/04/26/the-fastest-linux-timestamps/</a></p>
-<p>Comments URL: <a href="https:......
-- [Read more](https://www.hmpcabral.com/2026/04/26/the-fastest-linux-timestamps/)
+- **Summary**: https://zippy-cucurucho-a24a3e.netlify.app/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47912787">https......
+- [Read more](https://zippy-cucurucho-a24a3e.netlify.app/)
 
 ---
 
