@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### How the Kremlin's internet crackdown is frustrating Russians [video]
-- **Published**: April 26, 2026
-- **Summary**: https://www.bbc.co.uk/news/videos/c75kpx2w452o</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47912812"......
-- [Read more](https://www.bbc.co.uk/news/videos/c75kpx2w452o)
+### Show HN: Discover what could screw you in a contract
+- **Published**: April 27, 2026
+- **Summary**: https://www.beforeyousign.lol/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47917182">https://news.ycombinator.com/it......
+- [Read more](https://www.beforeyousign.lol/)
 
-### Mirror Field Operating System: a commit-boundary approach to AI governance
-- **Published**: April 26, 2026
-- **Summary**: https://zippy-cucurucho-a24a3e.netlify.app/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47912787">https......
-- [Read more](https://zippy-cucurucho-a24a3e.netlify.app/)
+### GDP.pdf: A Benchmark for Parsing PDFs
+- **Published**: April 27, 2026
+- **Summary**: https://surgehq.ai/blog/gdp-pdf-can-100b-ai-models-master-the-documents-that-run-th......
+- [Read more](https://surgehq.ai/blog/gdp-pdf-can-100b-ai-models-master-the-documents-that-run-the-world)
 
 ---
 
