@@ -16,15 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Mythos Changed the Math on Vulnerability Discovery. Most Teams Aren't Ready for the Remediation Side
+### Study: Infrasound likely a key factor in alleged hauntings
 - **Published**: April 27, 2026
-- **Summary**: Anthropic’s Claude Mythos Preview has dominated security discussions since its April 7 announcement. Early reporting describes a powerful cybersecurit...
-- [Read more](https://thehackernews.com/2026/04/mythos-changed-math-on-vulnerability.html)
+- **Summary**: https://arstechnica.com/science/2026/04/that-spooky-sensation-likely-d......
+- [Read more](https://arstechnica.com/science/2026/04/that-spooky-sensation-likely-due-to-rumbling-pipes-not-spirits/)
 
-### PhantomCore Exploits TrueConf Vulnerabilities to Breach Russian Networks
+### ⚡ Weekly Recap: Fast16 Malware, XChat Launch, Federal Backdoor, AI Employee Tracking & More
 - **Published**: April 27, 2026
-- **Summary**: A pro-Ukrainian hacktivist group called PhantomCore has been attributed to attacks actively targeting servers running TrueConf video conferencing soft...
-- [Read more](https://thehackernews.com/2026/04/phantomcore-exploits-trueconf.html)
+- **Summary**: Everything is dumb again. This week feels broken in a very familiar way. Old tricks are back. New tools are doing shady crap. Supply chains got hit. F...
+- **Keywords**: broken
+- [Read more](https://thehackernews.com/2026/04/weekly-recap-fast16-malware-xchat.html)
 
 ---
 
