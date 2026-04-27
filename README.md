@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### French teen who licked vending machine straw faces years in jail in Singapore
+### Mythos Changed the Math on Vulnerability Discovery. Most Teams Aren't Ready for the Remediation Side
 - **Published**: April 27, 2026
-- **Summary**: https://www.bbc.com/news/articles/cjw8w849g6go</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47919020"......
-- [Read more](https://www.bbc.com/news/articles/cjw8w849g6go)
+- **Summary**: Anthropic’s Claude Mythos Preview has dominated security discussions since its April 7 announcement. Early reporting describes a powerful cybersecurit...
+- [Read more](https://thehackernews.com/2026/04/mythos-changed-math-on-vulnerability.html)
 
-### Was sind und was sollen die unendlichdimensionalen Supermannigfaltigkeiten
+### PhantomCore Exploits TrueConf Vulnerabilities to Breach Russian Networks
 - **Published**: April 27, 2026
-- **Summary**: https://mathoverflow.net/questions/510716/was-sind-und-wa......
-- [Read more](https://mathoverflow.net/questions/510716/was-sind-und-was-sollen-die-unendlichdimensionalen-supermannigfaltigkeiten)
+- **Summary**: A pro-Ukrainian hacktivist group called PhantomCore has been attributed to attacks actively targeting servers running TrueConf video conferencing soft...
+- [Read more](https://thehackernews.com/2026/04/phantomcore-exploits-trueconf.html)
 
 ---
 
