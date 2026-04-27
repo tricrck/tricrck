@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Show HN: Discover what could screw you in a contract
+### French teen who licked vending machine straw faces years in jail in Singapore
 - **Published**: April 27, 2026
-- **Summary**: https://www.beforeyousign.lol/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47917182">https://news.ycombinator.com/it......
-- [Read more](https://www.beforeyousign.lol/)
+- **Summary**: https://www.bbc.com/news/articles/cjw8w849g6go</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47919020"......
+- [Read more](https://www.bbc.com/news/articles/cjw8w849g6go)
 
-### GDP.pdf: A Benchmark for Parsing PDFs
+### Was sind und was sollen die unendlichdimensionalen Supermannigfaltigkeiten
 - **Published**: April 27, 2026
-- **Summary**: https://surgehq.ai/blog/gdp-pdf-can-100b-ai-models-master-the-documents-that-run-th......
-- [Read more](https://surgehq.ai/blog/gdp-pdf-can-100b-ai-models-master-the-documents-that-run-the-world)
+- **Summary**: https://mathoverflow.net/questions/510716/was-sind-und-wa......
+- [Read more](https://mathoverflow.net/questions/510716/was-sind-und-was-sollen-die-unendlichdimensionalen-supermannigfaltigkeiten)
 
 ---
 
