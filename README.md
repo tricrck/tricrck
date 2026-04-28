@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Why Secure Data Movement Is the Zero Trust Bottleneck Nobody Talks About
+### Researchers Discover Critical GitHub CVE-2026-3854 RCE Flaw Exploitable via Single Git Push
 - **Published**: April 28, 2026
-- **Summary**: Every security program is betting on the same assumption: once a system is connected, the problem is solved. Open a ticket, stand up a gateway, push t...
-- [Read more](https://thehackernews.com/2026/04/why-secure-data-movement-is-zero-trust.html)
+- **Summary**: Cybersecurity researchers have disclosed details of a critical security vulnerability impacting GitHub.com and GitHub Enterprise Server that could all...
+- [Read more](https://thehackernews.com/2026/04/researchers-discover-critical-github.html)
 
-### Critical Unpatched Flaw Leaves Hugging Face LeRobot Open to Unauthenticated RCE
+### Brazilian LofyGang Resurfaces After Three Years With Minecraft LofyStealer Campaign
 - **Published**: April 28, 2026
-- **Summary**: Cybersecurity researchers have disclosed details of a critical security flaw impacting LeRobot, Hugging Face's open-source robotics platform with near...
-- [Read more](https://thehackernews.com/2026/04/critical-cve-2026-25874-leaves-hugging.html)
+- **Summary**: A cybercrime group of Brazilian origin has resurfaced after more than three years to orchestrate a campaign that targets Minecraft players with a new ...
+- [Read more](https://thehackernews.com/2026/04/brazilian-lofygang-resurfaces-after.html)
 
 ---
 
