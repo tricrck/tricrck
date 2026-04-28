@@ -16,17 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### ⚡ Weekly Recap: Fast16 Malware, XChat Launch, Federal Backdoor, AI Employee Tracking & More
-- **Published**: April 27, 2026
-- **Summary**: Everything is dumb again. This week feels broken in a very familiar way. Old tricks are back. New tools are doing shady crap. Supply chains got hit. F...
-- **Keywords**: broken
-- [Read more](https://thehackernews.com/2026/04/weekly-recap-fast16-malware-xchat.html)
-
-### Devin for Terminal
+### Microsoft Patches Entra ID Role Flaw That Enabled Service Principal Takeover
 - **Published**: April 28, 2026
-- **Summary**: https://devin.ai/terminal</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47930095">https://news.ycombinator.com/item?id=4793.....
-- [Read more](https://devin.ai/terminal)
+- **Summary**: An administrative role meant for artificial intelligence (AI) agents within Microsoft Entra ID could enable privilege escalation and identity takeover...
+- [Read more](https://thehackernews.com/2026/04/microsoft-patches-entra-id-role-flaw.html)
+
+### Microsoft Confirms Active Exploitation of Windows Shell CVE-2026-32202
+- **Published**: April 28, 2026
+- **Summary**: Microsoft on Monday revised its advisory for a now-patched, high-severity security flaw impacting Windows Shell to acknowledge that it has been active...
+- [Read more](https://thehackernews.com/2026/04/microsoft-confirms-active-exploitation.html)
 
 ---
 

@@ -1,29 +1,27 @@
 {
   "chaos_ranked": [
     {
-      "title": "\u26a1 Weekly Recap: Fast16 Malware, XChat Launch, Federal Backdoor, AI Employee Tracking & More",
-      "link": "https://thehackernews.com/2026/04/weekly-recap-fast16-malware-xchat.html",
-      "summary": "Everything is dumb again. This week feels broken in a very familiar way. Old tricks are back. New tools are doing shady crap. Supply chains got hit. Fake help desks worked. Weird research showed how e...",
-      "published": "2026-04-27T19:00:00+05:30",
+      "title": "Microsoft Patches Entra ID Role Flaw That Enabled Service Principal Takeover",
+      "link": "https://thehackernews.com/2026/04/microsoft-patches-entra-id-role-flaw.html",
+      "summary": "An administrative role meant for artificial intelligence (AI) agents within Microsoft Entra ID could enable privilege escalation and identity takeover attacks, according to new findings from Silverfor...",
+      "published": "2026-04-28T12:07:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
-        "chaos": 13.2,
+        "chaos": 3.0,
         "anarchy": 3.0,
-        "overall": 8.1
+        "overall": 3.0
       },
       "keywords": {
-        "chaos": [
-          "broken"
-        ],
+        "chaos": [],
         "anarchy": []
       }
     },
     {
-      "title": "Devin for Terminal",
-      "link": "https://devin.ai/terminal",
-      "summary": "<p>Article URL: <a href=\"https://devin.ai/terminal\">https://devin.ai/terminal</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47930095\">https://news.ycombinator.com/item?id=4793...",
-      "published": "2026-04-28T03:13:32+00:00",
-      "domain": "devin.ai",
+      "title": "Microsoft Confirms Active Exploitation of Windows Shell CVE-2026-32202",
+      "link": "https://thehackernews.com/2026/04/microsoft-confirms-active-exploitation.html",
+      "summary": "Microsoft on Monday revised its advisory for a now-patched, high-severity security flaw impacting Windows Shell to acknowledge that it has been actively exploited in the wild.\nThe vulnerability in que...",
+      "published": "2026-04-28T11:20:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -35,11 +33,11 @@
       }
     },
     {
-      "title": "Stripe: Radar Technical Guide",
-      "link": "https://stripe.com/in/guides/primer-on-machine-learning-for-fraud-protection",
-      "summary": "<p>Article URL: <a href=\"https://stripe.com/in/guides/primer-on-machine-learning-for-fraud-protection\">https://stripe.com/in/guides/primer-on-machine-learning-for-fraud-protection</a></p>\n<p>Comments ...",
-      "published": "2026-04-28T03:12:53+00:00",
-      "domain": "stripe.com",
+      "title": "I got tired of hand-syncing AI coding rules across four tools",
+      "link": "https://github.com/sampleXbro/agentsmesh",
+      "summary": "<p>Article URL: <a href=\"https://github.com/sampleXbro/agentsmesh\">https://github.com/sampleXbro/agentsmesh</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47931754\">https://new...",
+      "published": "2026-04-28T08:18:21+00:00",
+      "domain": "github.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -51,11 +49,11 @@
       }
     },
     {
-      "title": "OpenJDK 21 April 2026 CVEs Explain",
-      "link": "https://tux.re/forum/viewtopic.php?t=175",
-      "summary": "<p>Article URL: <a href=\"https://tux.re/forum/viewtopic.php?t=175\">https://tux.re/forum/viewtopic.php?t=175</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47930088\">https://new...",
-      "published": "2026-04-28T03:12:29+00:00",
-      "domain": "tux.re",
+      "title": "Show HN: I built a way to see if your SDK is AI-friendly",
+      "link": "https://news.ycombinator.com/item?id=47931728",
+      "summary": "<p>Have you ever wonder if your SDKs is friendly for Agentic AI like Claude Code or Codex? I built an opensource (Apache 2.0) CLI that answer that question for you.<p>With it you can create a test sui...",
+      "published": "2026-04-28T08:13:12+00:00",
+      "domain": "news.ycombinator.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -67,11 +65,11 @@
       }
     },
     {
-      "title": "The Conspiracy Against High Temperature Sampling",
-      "link": "https://gist.github.com/Hellisotherpeople/71ba712f9f899adcb08b94bce20d5397",
-      "summary": "<p>Article URL: <a href=\"https://gist.github.com/Hellisotherpeople/71ba712f9f899adcb08b94bce20d5397\">https://gist.github.com/Hellisotherpeople/71ba712f9f899adcb08b94bce20d5397</a></p>\n<p>Comments URL:...",
-      "published": "2026-04-28T03:10:10+00:00",
-      "domain": "gist.github.com",
+      "title": "Building a Threadiverse Community Platform",
+      "link": "https://fedify.dev/tutorial/threadiverse",
+      "summary": "<p>Article URL: <a href=\"https://fedify.dev/tutorial/threadiverse\">https://fedify.dev/tutorial/threadiverse</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47931717\">https://new...",
+      "published": "2026-04-28T08:11:46+00:00",
+      "domain": "fedify.dev",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -83,11 +81,11 @@
       }
     },
     {
-      "title": "TeamPCP Supply Chain Campaign: Update 008",
-      "link": "https://isc.sans.edu/diary/32926",
-      "summary": "<p>Article URL: <a href=\"https://isc.sans.edu/diary/32926\">https://isc.sans.edu/diary/32926</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47930069\">https://news.ycombinator.co...",
-      "published": "2026-04-28T03:07:55+00:00",
-      "domain": "isc.sans.edu",
+      "title": "Australia threatens tech companies with 2.25% tax if they don't pay publishers",
+      "link": "https://www.theregister.com/2026/04/28/australia_news_bargaining_incentive/",
+      "summary": "<p>Article URL: <a href=\"https://www.theregister.com/2026/04/28/australia_news_bargaining_incentive/\">https://www.theregister.com/2026/04/28/australia_news_bargaining_incentive/</a></p>\n<p>Comments UR...",
+      "published": "2026-04-28T08:07:41+00:00",
+      "domain": "theregister.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -99,11 +97,11 @@
       }
     },
     {
-      "title": "The Moat or the Commons",
-      "link": "https://www.warman.life/blog/2026-04-27-the-moat-or-the-commons/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47929951\">Comments</a>...",
-      "published": "2026-04-28T02:43:53+00:00",
-      "domain": "warman.life",
+      "title": "How Do Perpetual Futures Differ from Spot Trading in Crypto?",
+      "link": "https://www.bitdeal.net/cryptocurrency-exchange-development",
+      "summary": "<p>Article URL: <a href=\"https://www.bitdeal.net/cryptocurrency-exchange-development\">https://www.bitdeal.net/cryptocurrency-exchange-development</a></p>\n<p>Comments URL: <a href=\"https://news.ycombin...",
+      "published": "2026-04-28T08:01:58+00:00",
+      "domain": "bitdeal.net",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -115,11 +113,11 @@
       }
     },
     {
-      "title": "Integrated by Design",
-      "link": "https://vivianvoss.net/blog/integrated-by-design-launch",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47928554\">Comments</a>...",
-      "published": "2026-04-27T23:14:26+00:00",
-      "domain": "vivianvoss.net",
+      "title": "GTFOBins",
+      "link": "https://gtfobins.org/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47931035\">Comments</a>...",
+      "published": "2026-04-28T06:27:39+00:00",
+      "domain": "gtfobins.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -147,11 +145,11 @@
       }
     },
     {
-      "title": "Checkmarx Confirms GitHub Repository Data Posted on Dark Web After March 23 Attack",
-      "link": "https://thehackernews.com/2026/04/checkmarx-confirms-github-repository.html",
-      "summary": "Checkmarx has disclosed that its ongoing investigation tied to the supply chain security incident has revealed that a cybercriminal group published data related to the company on the dark web.\n\"Based ...",
-      "published": "2026-04-27T19:49:00+05:30",
-      "domain": "thehackernews.com",
+      "title": "Is my blue your blue?",
+      "link": "https://ismy.blue/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47926861\">Comments</a>...",
+      "published": "2026-04-27T20:24:33+00:00",
+      "domain": "ismy.blue",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -165,11 +163,11 @@
   ],
   "anarchy_ranked": [
     {
-      "title": "Devin for Terminal",
-      "link": "https://devin.ai/terminal",
-      "summary": "<p>Article URL: <a href=\"https://devin.ai/terminal\">https://devin.ai/terminal</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47930095\">https://news.ycombinator.com/item?id=4793...",
-      "published": "2026-04-28T03:13:32+00:00",
-      "domain": "devin.ai",
+      "title": "Microsoft Patches Entra ID Role Flaw That Enabled Service Principal Takeover",
+      "link": "https://thehackernews.com/2026/04/microsoft-patches-entra-id-role-flaw.html",
+      "summary": "An administrative role meant for artificial intelligence (AI) agents within Microsoft Entra ID could enable privilege escalation and identity takeover attacks, according to new findings from Silverfor...",
+      "published": "2026-04-28T12:07:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -181,11 +179,11 @@
       }
     },
     {
-      "title": "Stripe: Radar Technical Guide",
-      "link": "https://stripe.com/in/guides/primer-on-machine-learning-for-fraud-protection",
-      "summary": "<p>Article URL: <a href=\"https://stripe.com/in/guides/primer-on-machine-learning-for-fraud-protection\">https://stripe.com/in/guides/primer-on-machine-learning-for-fraud-protection</a></p>\n<p>Comments ...",
-      "published": "2026-04-28T03:12:53+00:00",
-      "domain": "stripe.com",
+      "title": "Microsoft Confirms Active Exploitation of Windows Shell CVE-2026-32202",
+      "link": "https://thehackernews.com/2026/04/microsoft-confirms-active-exploitation.html",
+      "summary": "Microsoft on Monday revised its advisory for a now-patched, high-severity security flaw impacting Windows Shell to acknowledge that it has been actively exploited in the wild.\nThe vulnerability in que...",
+      "published": "2026-04-28T11:20:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -197,11 +195,11 @@
       }
     },
     {
-      "title": "OpenJDK 21 April 2026 CVEs Explain",
-      "link": "https://tux.re/forum/viewtopic.php?t=175",
-      "summary": "<p>Article URL: <a href=\"https://tux.re/forum/viewtopic.php?t=175\">https://tux.re/forum/viewtopic.php?t=175</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47930088\">https://new...",
-      "published": "2026-04-28T03:12:29+00:00",
-      "domain": "tux.re",
+      "title": "I got tired of hand-syncing AI coding rules across four tools",
+      "link": "https://github.com/sampleXbro/agentsmesh",
+      "summary": "<p>Article URL: <a href=\"https://github.com/sampleXbro/agentsmesh\">https://github.com/sampleXbro/agentsmesh</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47931754\">https://new...",
+      "published": "2026-04-28T08:18:21+00:00",
+      "domain": "github.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -213,11 +211,11 @@
       }
     },
     {
-      "title": "The Conspiracy Against High Temperature Sampling",
-      "link": "https://gist.github.com/Hellisotherpeople/71ba712f9f899adcb08b94bce20d5397",
-      "summary": "<p>Article URL: <a href=\"https://gist.github.com/Hellisotherpeople/71ba712f9f899adcb08b94bce20d5397\">https://gist.github.com/Hellisotherpeople/71ba712f9f899adcb08b94bce20d5397</a></p>\n<p>Comments URL:...",
-      "published": "2026-04-28T03:10:10+00:00",
-      "domain": "gist.github.com",
+      "title": "Show HN: I built a way to see if your SDK is AI-friendly",
+      "link": "https://news.ycombinator.com/item?id=47931728",
+      "summary": "<p>Have you ever wonder if your SDKs is friendly for Agentic AI like Claude Code or Codex? I built an opensource (Apache 2.0) CLI that answer that question for you.<p>With it you can create a test sui...",
+      "published": "2026-04-28T08:13:12+00:00",
+      "domain": "news.ycombinator.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -229,11 +227,11 @@
       }
     },
     {
-      "title": "TeamPCP Supply Chain Campaign: Update 008",
-      "link": "https://isc.sans.edu/diary/32926",
-      "summary": "<p>Article URL: <a href=\"https://isc.sans.edu/diary/32926\">https://isc.sans.edu/diary/32926</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47930069\">https://news.ycombinator.co...",
-      "published": "2026-04-28T03:07:55+00:00",
-      "domain": "isc.sans.edu",
+      "title": "Building a Threadiverse Community Platform",
+      "link": "https://fedify.dev/tutorial/threadiverse",
+      "summary": "<p>Article URL: <a href=\"https://fedify.dev/tutorial/threadiverse\">https://fedify.dev/tutorial/threadiverse</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47931717\">https://new...",
+      "published": "2026-04-28T08:11:46+00:00",
+      "domain": "fedify.dev",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -245,11 +243,11 @@
       }
     },
     {
-      "title": "The Moat or the Commons",
-      "link": "https://www.warman.life/blog/2026-04-27-the-moat-or-the-commons/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47929951\">Comments</a>...",
-      "published": "2026-04-28T02:43:53+00:00",
-      "domain": "warman.life",
+      "title": "Australia threatens tech companies with 2.25% tax if they don't pay publishers",
+      "link": "https://www.theregister.com/2026/04/28/australia_news_bargaining_incentive/",
+      "summary": "<p>Article URL: <a href=\"https://www.theregister.com/2026/04/28/australia_news_bargaining_incentive/\">https://www.theregister.com/2026/04/28/australia_news_bargaining_incentive/</a></p>\n<p>Comments UR...",
+      "published": "2026-04-28T08:07:41+00:00",
+      "domain": "theregister.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -261,11 +259,27 @@
       }
     },
     {
-      "title": "Integrated by Design",
-      "link": "https://vivianvoss.net/blog/integrated-by-design-launch",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47928554\">Comments</a>...",
-      "published": "2026-04-27T23:14:26+00:00",
-      "domain": "vivianvoss.net",
+      "title": "How Do Perpetual Futures Differ from Spot Trading in Crypto?",
+      "link": "https://www.bitdeal.net/cryptocurrency-exchange-development",
+      "summary": "<p>Article URL: <a href=\"https://www.bitdeal.net/cryptocurrency-exchange-development\">https://www.bitdeal.net/cryptocurrency-exchange-development</a></p>\n<p>Comments URL: <a href=\"https://news.ycombin...",
+      "published": "2026-04-28T08:01:58+00:00",
+      "domain": "bitdeal.net",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "GTFOBins",
+      "link": "https://gtfobins.org/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47931035\">Comments</a>...",
+      "published": "2026-04-28T06:27:39+00:00",
+      "domain": "gtfobins.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -293,11 +307,11 @@
       }
     },
     {
-      "title": "Checkmarx Confirms GitHub Repository Data Posted on Dark Web After March 23 Attack",
-      "link": "https://thehackernews.com/2026/04/checkmarx-confirms-github-repository.html",
-      "summary": "Checkmarx has disclosed that its ongoing investigation tied to the supply chain security incident has revealed that a cybercriminal group published data related to the company on the dark web.\n\"Based ...",
-      "published": "2026-04-27T19:49:00+05:30",
-      "domain": "thehackernews.com",
+      "title": "Is my blue your blue?",
+      "link": "https://ismy.blue/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47926861\">Comments</a>...",
+      "published": "2026-04-27T20:24:33+00:00",
+      "domain": "ismy.blue",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -305,53 +319,33 @@
       },
       "keywords": {
         "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "\u26a1 Weekly Recap: Fast16 Malware, XChat Launch, Federal Backdoor, AI Employee Tracking & More",
-      "link": "https://thehackernews.com/2026/04/weekly-recap-fast16-malware-xchat.html",
-      "summary": "Everything is dumb again. This week feels broken in a very familiar way. Old tricks are back. New tools are doing shady crap. Supply chains got hit. Fake help desks worked. Weird research showed how e...",
-      "published": "2026-04-27T19:00:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 13.2,
-        "anarchy": 3.0,
-        "overall": 8.1
-      },
-      "keywords": {
-        "chaos": [
-          "broken"
-        ],
         "anarchy": []
       }
     }
   ],
   "overall_ranked": [
     {
-      "title": "\u26a1 Weekly Recap: Fast16 Malware, XChat Launch, Federal Backdoor, AI Employee Tracking & More",
-      "link": "https://thehackernews.com/2026/04/weekly-recap-fast16-malware-xchat.html",
-      "summary": "Everything is dumb again. This week feels broken in a very familiar way. Old tricks are back. New tools are doing shady crap. Supply chains got hit. Fake help desks worked. Weird research showed how e...",
-      "published": "2026-04-27T19:00:00+05:30",
+      "title": "Microsoft Patches Entra ID Role Flaw That Enabled Service Principal Takeover",
+      "link": "https://thehackernews.com/2026/04/microsoft-patches-entra-id-role-flaw.html",
+      "summary": "An administrative role meant for artificial intelligence (AI) agents within Microsoft Entra ID could enable privilege escalation and identity takeover attacks, according to new findings from Silverfor...",
+      "published": "2026-04-28T12:07:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
-        "chaos": 13.2,
+        "chaos": 3.0,
         "anarchy": 3.0,
-        "overall": 8.1
+        "overall": 3.0
       },
       "keywords": {
-        "chaos": [
-          "broken"
-        ],
+        "chaos": [],
         "anarchy": []
       }
     },
     {
-      "title": "Devin for Terminal",
-      "link": "https://devin.ai/terminal",
-      "summary": "<p>Article URL: <a href=\"https://devin.ai/terminal\">https://devin.ai/terminal</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47930095\">https://news.ycombinator.com/item?id=4793...",
-      "published": "2026-04-28T03:13:32+00:00",
-      "domain": "devin.ai",
+      "title": "Microsoft Confirms Active Exploitation of Windows Shell CVE-2026-32202",
+      "link": "https://thehackernews.com/2026/04/microsoft-confirms-active-exploitation.html",
+      "summary": "Microsoft on Monday revised its advisory for a now-patched, high-severity security flaw impacting Windows Shell to acknowledge that it has been actively exploited in the wild.\nThe vulnerability in que...",
+      "published": "2026-04-28T11:20:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -363,11 +357,11 @@
       }
     },
     {
-      "title": "Stripe: Radar Technical Guide",
-      "link": "https://stripe.com/in/guides/primer-on-machine-learning-for-fraud-protection",
-      "summary": "<p>Article URL: <a href=\"https://stripe.com/in/guides/primer-on-machine-learning-for-fraud-protection\">https://stripe.com/in/guides/primer-on-machine-learning-for-fraud-protection</a></p>\n<p>Comments ...",
-      "published": "2026-04-28T03:12:53+00:00",
-      "domain": "stripe.com",
+      "title": "I got tired of hand-syncing AI coding rules across four tools",
+      "link": "https://github.com/sampleXbro/agentsmesh",
+      "summary": "<p>Article URL: <a href=\"https://github.com/sampleXbro/agentsmesh\">https://github.com/sampleXbro/agentsmesh</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47931754\">https://new...",
+      "published": "2026-04-28T08:18:21+00:00",
+      "domain": "github.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -379,11 +373,11 @@
       }
     },
     {
-      "title": "OpenJDK 21 April 2026 CVEs Explain",
-      "link": "https://tux.re/forum/viewtopic.php?t=175",
-      "summary": "<p>Article URL: <a href=\"https://tux.re/forum/viewtopic.php?t=175\">https://tux.re/forum/viewtopic.php?t=175</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47930088\">https://new...",
-      "published": "2026-04-28T03:12:29+00:00",
-      "domain": "tux.re",
+      "title": "Show HN: I built a way to see if your SDK is AI-friendly",
+      "link": "https://news.ycombinator.com/item?id=47931728",
+      "summary": "<p>Have you ever wonder if your SDKs is friendly for Agentic AI like Claude Code or Codex? I built an opensource (Apache 2.0) CLI that answer that question for you.<p>With it you can create a test sui...",
+      "published": "2026-04-28T08:13:12+00:00",
+      "domain": "news.ycombinator.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -395,11 +389,11 @@
       }
     },
     {
-      "title": "The Conspiracy Against High Temperature Sampling",
-      "link": "https://gist.github.com/Hellisotherpeople/71ba712f9f899adcb08b94bce20d5397",
-      "summary": "<p>Article URL: <a href=\"https://gist.github.com/Hellisotherpeople/71ba712f9f899adcb08b94bce20d5397\">https://gist.github.com/Hellisotherpeople/71ba712f9f899adcb08b94bce20d5397</a></p>\n<p>Comments URL:...",
-      "published": "2026-04-28T03:10:10+00:00",
-      "domain": "gist.github.com",
+      "title": "Building a Threadiverse Community Platform",
+      "link": "https://fedify.dev/tutorial/threadiverse",
+      "summary": "<p>Article URL: <a href=\"https://fedify.dev/tutorial/threadiverse\">https://fedify.dev/tutorial/threadiverse</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47931717\">https://new...",
+      "published": "2026-04-28T08:11:46+00:00",
+      "domain": "fedify.dev",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -411,11 +405,11 @@
       }
     },
     {
-      "title": "TeamPCP Supply Chain Campaign: Update 008",
-      "link": "https://isc.sans.edu/diary/32926",
-      "summary": "<p>Article URL: <a href=\"https://isc.sans.edu/diary/32926\">https://isc.sans.edu/diary/32926</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47930069\">https://news.ycombinator.co...",
-      "published": "2026-04-28T03:07:55+00:00",
-      "domain": "isc.sans.edu",
+      "title": "Australia threatens tech companies with 2.25% tax if they don't pay publishers",
+      "link": "https://www.theregister.com/2026/04/28/australia_news_bargaining_incentive/",
+      "summary": "<p>Article URL: <a href=\"https://www.theregister.com/2026/04/28/australia_news_bargaining_incentive/\">https://www.theregister.com/2026/04/28/australia_news_bargaining_incentive/</a></p>\n<p>Comments UR...",
+      "published": "2026-04-28T08:07:41+00:00",
+      "domain": "theregister.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -427,11 +421,11 @@
       }
     },
     {
-      "title": "The Moat or the Commons",
-      "link": "https://www.warman.life/blog/2026-04-27-the-moat-or-the-commons/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47929951\">Comments</a>...",
-      "published": "2026-04-28T02:43:53+00:00",
-      "domain": "warman.life",
+      "title": "How Do Perpetual Futures Differ from Spot Trading in Crypto?",
+      "link": "https://www.bitdeal.net/cryptocurrency-exchange-development",
+      "summary": "<p>Article URL: <a href=\"https://www.bitdeal.net/cryptocurrency-exchange-development\">https://www.bitdeal.net/cryptocurrency-exchange-development</a></p>\n<p>Comments URL: <a href=\"https://news.ycombin...",
+      "published": "2026-04-28T08:01:58+00:00",
+      "domain": "bitdeal.net",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -443,11 +437,11 @@
       }
     },
     {
-      "title": "Integrated by Design",
-      "link": "https://vivianvoss.net/blog/integrated-by-design-launch",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47928554\">Comments</a>...",
-      "published": "2026-04-27T23:14:26+00:00",
-      "domain": "vivianvoss.net",
+      "title": "GTFOBins",
+      "link": "https://gtfobins.org/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47931035\">Comments</a>...",
+      "published": "2026-04-28T06:27:39+00:00",
+      "domain": "gtfobins.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -475,11 +469,11 @@
       }
     },
     {
-      "title": "Checkmarx Confirms GitHub Repository Data Posted on Dark Web After March 23 Attack",
-      "link": "https://thehackernews.com/2026/04/checkmarx-confirms-github-repository.html",
-      "summary": "Checkmarx has disclosed that its ongoing investigation tied to the supply chain security incident has revealed that a cybercriminal group published data related to the company on the dark web.\n\"Based ...",
-      "published": "2026-04-27T19:49:00+05:30",
-      "domain": "thehackernews.com",
+      "title": "Is my blue your blue?",
+      "link": "https://ismy.blue/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47926861\">Comments</a>...",
+      "published": "2026-04-27T20:24:33+00:00",
+      "domain": "ismy.blue",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -493,11 +487,11 @@
   ],
   "all_articles": [
     {
-      "title": "Devin for Terminal",
-      "link": "https://devin.ai/terminal",
-      "summary": "<p>Article URL: <a href=\"https://devin.ai/terminal\">https://devin.ai/terminal</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47930095\">https://news.ycombinator.com/item?id=4793...",
-      "published": "2026-04-28T03:13:32+00:00",
-      "domain": "devin.ai",
+      "title": "Microsoft Patches Entra ID Role Flaw That Enabled Service Principal Takeover",
+      "link": "https://thehackernews.com/2026/04/microsoft-patches-entra-id-role-flaw.html",
+      "summary": "An administrative role meant for artificial intelligence (AI) agents within Microsoft Entra ID could enable privilege escalation and identity takeover attacks, according to new findings from Silverfor...",
+      "published": "2026-04-28T12:07:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -509,11 +503,11 @@
       }
     },
     {
-      "title": "Stripe: Radar Technical Guide",
-      "link": "https://stripe.com/in/guides/primer-on-machine-learning-for-fraud-protection",
-      "summary": "<p>Article URL: <a href=\"https://stripe.com/in/guides/primer-on-machine-learning-for-fraud-protection\">https://stripe.com/in/guides/primer-on-machine-learning-for-fraud-protection</a></p>\n<p>Comments ...",
-      "published": "2026-04-28T03:12:53+00:00",
-      "domain": "stripe.com",
+      "title": "Microsoft Confirms Active Exploitation of Windows Shell CVE-2026-32202",
+      "link": "https://thehackernews.com/2026/04/microsoft-confirms-active-exploitation.html",
+      "summary": "Microsoft on Monday revised its advisory for a now-patched, high-severity security flaw impacting Windows Shell to acknowledge that it has been actively exploited in the wild.\nThe vulnerability in que...",
+      "published": "2026-04-28T11:20:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -525,11 +519,11 @@
       }
     },
     {
-      "title": "OpenJDK 21 April 2026 CVEs Explain",
-      "link": "https://tux.re/forum/viewtopic.php?t=175",
-      "summary": "<p>Article URL: <a href=\"https://tux.re/forum/viewtopic.php?t=175\">https://tux.re/forum/viewtopic.php?t=175</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47930088\">https://new...",
-      "published": "2026-04-28T03:12:29+00:00",
-      "domain": "tux.re",
+      "title": "I got tired of hand-syncing AI coding rules across four tools",
+      "link": "https://github.com/sampleXbro/agentsmesh",
+      "summary": "<p>Article URL: <a href=\"https://github.com/sampleXbro/agentsmesh\">https://github.com/sampleXbro/agentsmesh</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47931754\">https://new...",
+      "published": "2026-04-28T08:18:21+00:00",
+      "domain": "github.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -541,11 +535,11 @@
       }
     },
     {
-      "title": "The Conspiracy Against High Temperature Sampling",
-      "link": "https://gist.github.com/Hellisotherpeople/71ba712f9f899adcb08b94bce20d5397",
-      "summary": "<p>Article URL: <a href=\"https://gist.github.com/Hellisotherpeople/71ba712f9f899adcb08b94bce20d5397\">https://gist.github.com/Hellisotherpeople/71ba712f9f899adcb08b94bce20d5397</a></p>\n<p>Comments URL:...",
-      "published": "2026-04-28T03:10:10+00:00",
-      "domain": "gist.github.com",
+      "title": "Show HN: I built a way to see if your SDK is AI-friendly",
+      "link": "https://news.ycombinator.com/item?id=47931728",
+      "summary": "<p>Have you ever wonder if your SDKs is friendly for Agentic AI like Claude Code or Codex? I built an opensource (Apache 2.0) CLI that answer that question for you.<p>With it you can create a test sui...",
+      "published": "2026-04-28T08:13:12+00:00",
+      "domain": "news.ycombinator.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -557,11 +551,11 @@
       }
     },
     {
-      "title": "TeamPCP Supply Chain Campaign: Update 008",
-      "link": "https://isc.sans.edu/diary/32926",
-      "summary": "<p>Article URL: <a href=\"https://isc.sans.edu/diary/32926\">https://isc.sans.edu/diary/32926</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47930069\">https://news.ycombinator.co...",
-      "published": "2026-04-28T03:07:55+00:00",
-      "domain": "isc.sans.edu",
+      "title": "Building a Threadiverse Community Platform",
+      "link": "https://fedify.dev/tutorial/threadiverse",
+      "summary": "<p>Article URL: <a href=\"https://fedify.dev/tutorial/threadiverse\">https://fedify.dev/tutorial/threadiverse</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47931717\">https://new...",
+      "published": "2026-04-28T08:11:46+00:00",
+      "domain": "fedify.dev",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -573,11 +567,11 @@
       }
     },
     {
-      "title": "The Moat or the Commons",
-      "link": "https://www.warman.life/blog/2026-04-27-the-moat-or-the-commons/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47929951\">Comments</a>...",
-      "published": "2026-04-28T02:43:53+00:00",
-      "domain": "warman.life",
+      "title": "Australia threatens tech companies with 2.25% tax if they don't pay publishers",
+      "link": "https://www.theregister.com/2026/04/28/australia_news_bargaining_incentive/",
+      "summary": "<p>Article URL: <a href=\"https://www.theregister.com/2026/04/28/australia_news_bargaining_incentive/\">https://www.theregister.com/2026/04/28/australia_news_bargaining_incentive/</a></p>\n<p>Comments UR...",
+      "published": "2026-04-28T08:07:41+00:00",
+      "domain": "theregister.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -589,11 +583,27 @@
       }
     },
     {
-      "title": "Integrated by Design",
-      "link": "https://vivianvoss.net/blog/integrated-by-design-launch",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47928554\">Comments</a>...",
-      "published": "2026-04-27T23:14:26+00:00",
-      "domain": "vivianvoss.net",
+      "title": "How Do Perpetual Futures Differ from Spot Trading in Crypto?",
+      "link": "https://www.bitdeal.net/cryptocurrency-exchange-development",
+      "summary": "<p>Article URL: <a href=\"https://www.bitdeal.net/cryptocurrency-exchange-development\">https://www.bitdeal.net/cryptocurrency-exchange-development</a></p>\n<p>Comments URL: <a href=\"https://news.ycombin...",
+      "published": "2026-04-28T08:01:58+00:00",
+      "domain": "bitdeal.net",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "GTFOBins",
+      "link": "https://gtfobins.org/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47931035\">Comments</a>...",
+      "published": "2026-04-28T06:27:39+00:00",
+      "domain": "gtfobins.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -621,11 +631,11 @@
       }
     },
     {
-      "title": "Checkmarx Confirms GitHub Repository Data Posted on Dark Web After March 23 Attack",
-      "link": "https://thehackernews.com/2026/04/checkmarx-confirms-github-repository.html",
-      "summary": "Checkmarx has disclosed that its ongoing investigation tied to the supply chain security incident has revealed that a cybercriminal group published data related to the company on the dark web.\n\"Based ...",
-      "published": "2026-04-27T19:49:00+05:30",
-      "domain": "thehackernews.com",
+      "title": "Is my blue your blue?",
+      "link": "https://ismy.blue/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47926861\">Comments</a>...",
+      "published": "2026-04-27T20:24:33+00:00",
+      "domain": "ismy.blue",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -633,24 +643,6 @@
       },
       "keywords": {
         "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "\u26a1 Weekly Recap: Fast16 Malware, XChat Launch, Federal Backdoor, AI Employee Tracking & More",
-      "link": "https://thehackernews.com/2026/04/weekly-recap-fast16-malware-xchat.html",
-      "summary": "Everything is dumb again. This week feels broken in a very familiar way. Old tricks are back. New tools are doing shady crap. Supply chains got hit. Fake help desks worked. Weird research showed how e...",
-      "published": "2026-04-27T19:00:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 13.2,
-        "anarchy": 3.0,
-        "overall": 8.1
-      },
-      "keywords": {
-        "chaos": [
-          "broken"
-        ],
         "anarchy": []
       }
     }
