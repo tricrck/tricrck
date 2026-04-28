@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Microsoft Patches Entra ID Role Flaw That Enabled Service Principal Takeover
+### Why Secure Data Movement Is the Zero Trust Bottleneck Nobody Talks About
 - **Published**: April 28, 2026
-- **Summary**: An administrative role meant for artificial intelligence (AI) agents within Microsoft Entra ID could enable privilege escalation and identity takeover...
-- [Read more](https://thehackernews.com/2026/04/microsoft-patches-entra-id-role-flaw.html)
+- **Summary**: Every security program is betting on the same assumption: once a system is connected, the problem is solved. Open a ticket, stand up a gateway, push t...
+- [Read more](https://thehackernews.com/2026/04/why-secure-data-movement-is-zero-trust.html)
 
-### Microsoft Confirms Active Exploitation of Windows Shell CVE-2026-32202
+### Critical Unpatched Flaw Leaves Hugging Face LeRobot Open to Unauthenticated RCE
 - **Published**: April 28, 2026
-- **Summary**: Microsoft on Monday revised its advisory for a now-patched, high-severity security flaw impacting Windows Shell to acknowledge that it has been active...
-- [Read more](https://thehackernews.com/2026/04/microsoft-confirms-active-exploitation.html)
+- **Summary**: Cybersecurity researchers have disclosed details of a critical security flaw impacting LeRobot, Hugging Face's open-source robotics platform with near...
+- [Read more](https://thehackernews.com/2026/04/critical-cve-2026-25874-leaves-hugging.html)
 
 ---
 
