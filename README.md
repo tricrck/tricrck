@@ -16,15 +16,18 @@
 
 ## 🚨 Tech Stories
 
-### Webinar: How to Automate Exposure Validation to Match the Speed of AI Attacks
+### Anthropic's Argument for Mythos SWE-bench improvement contains a fatal error
 - **Published**: April 29, 2026
-- **Summary**: In February 2026, researchers uncovered a shift that completely changed the game: threat actors are now using custom AI setups to automate attacks dir...
-- [Read more](https://thehackernews.com/2026/04/webinar-how-to-automate-exposure.html)
+- **Summary**: https://www.philosophicalhacker.com/post/anthropic-error/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator......
+- **Keywords**: error, error, error
+- [Read more](https://www.philosophicalhacker.com/post/anthropic-error/)
 
-### What to Look for in an Exposure Management Platform (And What Most of Them Get Wrong)
+### HERMES.md: Anthropic bug causes $200 extra charge, refuses refund
 - **Published**: April 29, 2026
-- **Summary**: Every security team has a version of the same story. The quarter ends with hundreds of vulnerabilities closed. The dashboards are bursting with green....
-- [Read more](https://thehackernews.com/2026/04/what-to-look-for-in-exposure-management.html)
+- **Summary**: ......
+- **Keywords**: bug
+- [Read more](https://github.com/anthropics/claude-code/issues/53262)
 
 ---
 
