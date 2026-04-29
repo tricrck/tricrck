@@ -16,15 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Researchers Discover Critical GitHub CVE-2026-3854 RCE Flaw Exploitable via Single Git Push
-- **Published**: April 28, 2026
-- **Summary**: Cybersecurity researchers have disclosed details of a critical security vulnerability impacting GitHub.com and GitHub Enterprise Server that could all...
-- [Read more](https://thehackernews.com/2026/04/researchers-discover-critical-github.html)
+### Google API change leads to $67k Gemini bill in 19 hours
+- **Published**: April 29, 2026
+- **Summary**: Article URL: <a href="https://discuss.ai.google.dev/t/unexpected-67k-gemini-api-spike-in-19-hours-2016-firebase-provisioned-android-key-not-covered-by...
+- [Read more](https://discuss.ai.google.dev/t/unexpected-67k-gemini-api-spike-in-19-hours-2016-firebase-provisioned-android-key-not-covered-by-googles-may-2024-auto-restriction-policy/142717)
 
-### Brazilian LofyGang Resurfaces After Three Years With Minecraft LofyStealer Campaign
-- **Published**: April 28, 2026
-- **Summary**: A cybercrime group of Brazilian origin has resurfaced after more than three years to orchestrate a campaign that targets Minecraft players with a new ...
-- [Read more](https://thehackernews.com/2026/04/brazilian-lofygang-resurfaces-after.html)
+### Multi-tenant file storage for developers. Built for SaaS teams
+- **Published**: April 29, 2026
+- **Summary**: https://tenantbox.dev</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47943732">https://news.ycombinator.com/item?id=47943732</...
+- [Read more](https://tenantbox.dev)
 
 ---
 
