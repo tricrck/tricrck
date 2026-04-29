@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Google API change leads to $67k Gemini bill in 19 hours
+### LiteLLM CVE-2026-42208 SQL Injection Exploited within 36 Hours of Disclosure
 - **Published**: April 29, 2026
-- **Summary**: Article URL: <a href="https://discuss.ai.google.dev/t/unexpected-67k-gemini-api-spike-in-19-hours-2016-firebase-provisioned-android-key-not-covered-by...
-- [Read more](https://discuss.ai.google.dev/t/unexpected-67k-gemini-api-spike-in-19-hours-2016-firebase-provisioned-android-key-not-covered-by-googles-may-2024-auto-restriction-policy/142717)
+- **Summary**: In yet another instance of threat actors quickly jumping on the exploitation bandwagon, a newly disclosed critical security flaw in BerriAI's LiteLLM ...
+- [Read more](https://thehackernews.com/2026/04/litellm-cve-2026-42208-sql-injection.html)
 
-### Multi-tenant file storage for developers. Built for SaaS teams
+### Beijing Auto Show: more EV models in each of 17 halls than in the US
 - **Published**: April 29, 2026
-- **Summary**: https://tenantbox.dev</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47943732">https://news.ycombinator.com/item?id=47943732</...
-- [Read more](https://tenantbox.dev)
+- **Summary**: https://electrek.co/2026/04/26/beijing-auto-show-2026-insane-glimpse-future-auto-in......
+- [Read more](https://electrek.co/2026/04/26/beijing-auto-show-2026-insane-glimpse-future-auto-industry/)
 
 ---
 
