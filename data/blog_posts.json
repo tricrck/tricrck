@@ -1,10 +1,10 @@
 {
   "chaos_ranked": [
     {
-      "title": "LiteLLM CVE-2026-42208 SQL Injection Exploited within 36 Hours of Disclosure",
-      "link": "https://thehackernews.com/2026/04/litellm-cve-2026-42208-sql-injection.html",
-      "summary": "In yet another instance of threat actors quickly jumping on the exploitation bandwagon, a newly disclosed critical security flaw in BerriAI's LiteLLM Python package has come under active exploitation ...",
-      "published": "2026-04-29T11:04:00+05:30",
+      "title": "Webinar: How to Automate Exposure Validation to Match the Speed of AI Attacks",
+      "link": "https://thehackernews.com/2026/04/webinar-how-to-automate-exposure.html",
+      "summary": "In February 2026, researchers uncovered a shift that completely changed the game: threat actors are now using custom AI setups to automate attacks directly into the kill chain.\nWe aren't just talking ...",
+      "published": "2026-04-29T17:32:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -17,11 +17,11 @@
       }
     },
     {
-      "title": "Beijing Auto Show: more EV models in each of 17 halls than in the US",
-      "link": "https://electrek.co/2026/04/26/beijing-auto-show-2026-insane-glimpse-future-auto-industry/",
-      "summary": "<p>Article URL: <a href=\"https://electrek.co/2026/04/26/beijing-auto-show-2026-insane-glimpse-future-auto-industry/\">https://electrek.co/2026/04/26/beijing-auto-show-2026-insane-glimpse-future-auto-in...",
-      "published": "2026-04-29T08:14:26+00:00",
-      "domain": "electrek.co",
+      "title": "What to Look for in an Exposure Management Platform (And What Most of Them Get Wrong)",
+      "link": "https://thehackernews.com/2026/04/what-to-look-for-in-exposure-management.html",
+      "summary": "Every security team has a version of the same story. The quarter ends with hundreds of vulnerabilities closed. The dashboards are bursting with green. Then someone in a leadership meeting asks: \"So, a...",
+      "published": "2026-04-29T17:00:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -33,10 +33,74 @@
       }
     },
     {
-      "title": "A ground-up reimplementation of Kubernetes in Rust",
-      "link": "https://github.com/calfonso/rusternetes",
-      "summary": "<p>Article URL: <a href=\"https://github.com/calfonso/rusternetes\">https://github.com/calfonso/rusternetes</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47945492\">https://news....",
-      "published": "2026-04-29T08:14:15+00:00",
+      "title": "Critical cPanel Authentication Vulnerability Identified \u2014 Update Your Server Immediately",
+      "link": "https://thehackernews.com/2026/04/critical-cpanel-authentication.html",
+      "summary": "cPanel has released security updates to address a security issue impacting various authentication paths that could allow an attacker to obtain access to the control panel software.\nThe problem affects...",
+      "published": "2026-04-29T15:07:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "CISA Adds Actively Exploited ConnectWise and Windows Flaws to KEV",
+      "link": "https://thehackernews.com/2026/04/cisa-adds-actively-exploited.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added two security flaws impacting ConnectWise ScreenConnect and Microsoft Windows to its Known Exploited Vulnerabilities (K...",
+      "published": "2026-04-29T14:16:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "SpaceX to give Musk 200M shares if 1M colonists on Mars and $7.5B valuation",
+      "link": "https://www.investors.com/news/elon-musk-spacex-pay-data-center-starship-tesla-billionaire/",
+      "summary": "<p>Article URL: <a href=\"https://www.investors.com/news/elon-musk-spacex-pay-data-center-starship-tesla-billionaire/\">https://www.investors.com/news/elon-musk-spacex-pay-data-center-starship-tesla-bil...",
+      "published": "2026-04-29T13:56:42+00:00",
+      "domain": "investors.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "New Gene Therapy Enables Children with a Rare Form of Deafness to Hear",
+      "link": "https://www.nytimes.com/2026/04/23/science/deaf-gene-therapy.html",
+      "summary": "<p>Article URL: <a href=\"https://www.nytimes.com/2026/04/23/science/deaf-gene-therapy.html\">https://www.nytimes.com/2026/04/23/science/deaf-gene-therapy.html</a></p>\n<p>Comments URL: <a href=\"https://...",
+      "published": "2026-04-29T13:56:20+00:00",
+      "domain": "nytimes.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Declarative Git repo sync/migration tool and self hosted code search engine",
+      "link": "https://github.com/stepbrobd/miroir",
+      "summary": "<p>Article URL: <a href=\"https://github.com/stepbrobd/miroir\">https://github.com/stepbrobd/miroir</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47948545\">https://news.ycombina...",
+      "published": "2026-04-29T13:56:19+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -49,11 +113,11 @@
       }
     },
     {
-      "title": "Our first paying user found us from China in 4 days \u2013 zero marketing",
-      "link": "https://mfkvault.com",
-      "summary": "<p>Article URL: <a href=\"https://mfkvault.com\">https://mfkvault.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47945453\">https://news.ycombinator.com/item?id=47945453</a></...",
-      "published": "2026-04-29T08:09:30+00:00",
-      "domain": "mfkvault.com",
+      "title": "Fidelity Won't Let Fund Holders Donate to Southern Poverty Law Center",
+      "link": "https://www.nytimes.com/2026/04/29/business/fidelity-southern-poverty-law-center.html",
+      "summary": "<p>Article URL: <a href=\"https://www.nytimes.com/2026/04/29/business/fidelity-southern-poverty-law-center.html\">https://www.nytimes.com/2026/04/29/business/fidelity-southern-poverty-law-center.html</a...",
+      "published": "2026-04-29T13:54:57+00:00",
+      "domain": "nytimes.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -65,11 +129,11 @@
       }
     },
     {
-      "title": "Ask HN: Should it be acceptable that Excel needs to update 2-3 times/month?",
-      "link": "https://news.ycombinator.com/item?id=47945451",
-      "summary": "<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47945451\">https://news.ycombinator.com/item?id=47945451</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>...",
-      "published": "2026-04-29T08:09:13+00:00",
-      "domain": "news.ycombinator.com",
+      "title": "Barman \u2013 Backup and Recovery Manager for PostgreSQL",
+      "link": "https://github.com/EnterpriseDB/barman",
+      "summary": "<p>Article URL: <a href=\"https://github.com/EnterpriseDB/barman\">https://github.com/EnterpriseDB/barman</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47948526\">https://news.yc...",
+      "published": "2026-04-29T13:54:48+00:00",
+      "domain": "github.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -81,75 +145,11 @@
       }
     },
     {
-      "title": "Big AI Cluster Little Power the 8x Nvidia GB10 Cluster \u2013 ServeTheHome",
-      "link": "https://www.servethehome.com/big-cluster-little-power-the-8x-nvidia-gb10-cluster-marvell-cisco-ubiquiti-qnap-arm/",
-      "summary": "<p>Article URL: <a href=\"https://www.servethehome.com/big-cluster-little-power-the-8x-nvidia-gb10-cluster-marvell-cisco-ubiquiti-qnap-arm/\">https://www.servethehome.com/big-cluster-little-power-the-8x...",
-      "published": "2026-04-29T08:09:01+00:00",
-      "domain": "servethehome.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "HardenedBSD Is Now Officially on Radicle",
-      "link": "https://hardenedbsd.org/article/shawn-webb/2026-04-26/hardenedbsd-officially-radicle",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47944864\">Comments</a>...",
-      "published": "2026-04-29T06:38:44+00:00",
-      "domain": "hardenedbsd.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Tim Cook Was Great for Apple Investors. He Was Not as Great for America.",
-      "link": "https://www.reddit.com/r/technology/comments/1syn2ir/tim_cook_was_great_for_apple_investors_he_was_not/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1syn2ir/tim_cook_was_great_for_apple_investors_he_was_not/\"> <img alt=\"Tim Cook Was Great for Apple Investors. He Was Not as Grea...",
-      "published": "2026-04-29T03:23:31+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Bugs Rust won't catch",
-      "link": "https://corrode.dev/blog/bugs-rust-wont-catch/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47943499\">Comments</a>...",
-      "published": "2026-04-29T02:19:11+00:00",
-      "domain": "corrode.dev",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "How ChatGPT serves ads",
-      "link": "https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47942437\">Comments</a>...",
-      "published": "2026-04-28T23:54:14+00:00",
-      "domain": "buchodi.com",
+      "title": "Letting AI play my game \u2013 building an agentic test harness to help play-testing",
+      "link": "https://blog.jeffschomay.com/letting-ai-play-my-game",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47947525\">Comments</a>...",
+      "published": "2026-04-29T12:43:12+00:00",
+      "domain": "blog.jeffschomay.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -163,10 +163,10 @@
   ],
   "anarchy_ranked": [
     {
-      "title": "LiteLLM CVE-2026-42208 SQL Injection Exploited within 36 Hours of Disclosure",
-      "link": "https://thehackernews.com/2026/04/litellm-cve-2026-42208-sql-injection.html",
-      "summary": "In yet another instance of threat actors quickly jumping on the exploitation bandwagon, a newly disclosed critical security flaw in BerriAI's LiteLLM Python package has come under active exploitation ...",
-      "published": "2026-04-29T11:04:00+05:30",
+      "title": "Webinar: How to Automate Exposure Validation to Match the Speed of AI Attacks",
+      "link": "https://thehackernews.com/2026/04/webinar-how-to-automate-exposure.html",
+      "summary": "In February 2026, researchers uncovered a shift that completely changed the game: threat actors are now using custom AI setups to automate attacks directly into the kill chain.\nWe aren't just talking ...",
+      "published": "2026-04-29T17:32:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -179,11 +179,11 @@
       }
     },
     {
-      "title": "Beijing Auto Show: more EV models in each of 17 halls than in the US",
-      "link": "https://electrek.co/2026/04/26/beijing-auto-show-2026-insane-glimpse-future-auto-industry/",
-      "summary": "<p>Article URL: <a href=\"https://electrek.co/2026/04/26/beijing-auto-show-2026-insane-glimpse-future-auto-industry/\">https://electrek.co/2026/04/26/beijing-auto-show-2026-insane-glimpse-future-auto-in...",
-      "published": "2026-04-29T08:14:26+00:00",
-      "domain": "electrek.co",
+      "title": "What to Look for in an Exposure Management Platform (And What Most of Them Get Wrong)",
+      "link": "https://thehackernews.com/2026/04/what-to-look-for-in-exposure-management.html",
+      "summary": "Every security team has a version of the same story. The quarter ends with hundreds of vulnerabilities closed. The dashboards are bursting with green. Then someone in a leadership meeting asks: \"So, a...",
+      "published": "2026-04-29T17:00:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -195,10 +195,74 @@
       }
     },
     {
-      "title": "A ground-up reimplementation of Kubernetes in Rust",
-      "link": "https://github.com/calfonso/rusternetes",
-      "summary": "<p>Article URL: <a href=\"https://github.com/calfonso/rusternetes\">https://github.com/calfonso/rusternetes</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47945492\">https://news....",
-      "published": "2026-04-29T08:14:15+00:00",
+      "title": "Critical cPanel Authentication Vulnerability Identified \u2014 Update Your Server Immediately",
+      "link": "https://thehackernews.com/2026/04/critical-cpanel-authentication.html",
+      "summary": "cPanel has released security updates to address a security issue impacting various authentication paths that could allow an attacker to obtain access to the control panel software.\nThe problem affects...",
+      "published": "2026-04-29T15:07:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "CISA Adds Actively Exploited ConnectWise and Windows Flaws to KEV",
+      "link": "https://thehackernews.com/2026/04/cisa-adds-actively-exploited.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added two security flaws impacting ConnectWise ScreenConnect and Microsoft Windows to its Known Exploited Vulnerabilities (K...",
+      "published": "2026-04-29T14:16:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "SpaceX to give Musk 200M shares if 1M colonists on Mars and $7.5B valuation",
+      "link": "https://www.investors.com/news/elon-musk-spacex-pay-data-center-starship-tesla-billionaire/",
+      "summary": "<p>Article URL: <a href=\"https://www.investors.com/news/elon-musk-spacex-pay-data-center-starship-tesla-billionaire/\">https://www.investors.com/news/elon-musk-spacex-pay-data-center-starship-tesla-bil...",
+      "published": "2026-04-29T13:56:42+00:00",
+      "domain": "investors.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "New Gene Therapy Enables Children with a Rare Form of Deafness to Hear",
+      "link": "https://www.nytimes.com/2026/04/23/science/deaf-gene-therapy.html",
+      "summary": "<p>Article URL: <a href=\"https://www.nytimes.com/2026/04/23/science/deaf-gene-therapy.html\">https://www.nytimes.com/2026/04/23/science/deaf-gene-therapy.html</a></p>\n<p>Comments URL: <a href=\"https://...",
+      "published": "2026-04-29T13:56:20+00:00",
+      "domain": "nytimes.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Declarative Git repo sync/migration tool and self hosted code search engine",
+      "link": "https://github.com/stepbrobd/miroir",
+      "summary": "<p>Article URL: <a href=\"https://github.com/stepbrobd/miroir\">https://github.com/stepbrobd/miroir</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47948545\">https://news.ycombina...",
+      "published": "2026-04-29T13:56:19+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -211,11 +275,11 @@
       }
     },
     {
-      "title": "Our first paying user found us from China in 4 days \u2013 zero marketing",
-      "link": "https://mfkvault.com",
-      "summary": "<p>Article URL: <a href=\"https://mfkvault.com\">https://mfkvault.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47945453\">https://news.ycombinator.com/item?id=47945453</a></...",
-      "published": "2026-04-29T08:09:30+00:00",
-      "domain": "mfkvault.com",
+      "title": "Fidelity Won't Let Fund Holders Donate to Southern Poverty Law Center",
+      "link": "https://www.nytimes.com/2026/04/29/business/fidelity-southern-poverty-law-center.html",
+      "summary": "<p>Article URL: <a href=\"https://www.nytimes.com/2026/04/29/business/fidelity-southern-poverty-law-center.html\">https://www.nytimes.com/2026/04/29/business/fidelity-southern-poverty-law-center.html</a...",
+      "published": "2026-04-29T13:54:57+00:00",
+      "domain": "nytimes.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -227,11 +291,11 @@
       }
     },
     {
-      "title": "Ask HN: Should it be acceptable that Excel needs to update 2-3 times/month?",
-      "link": "https://news.ycombinator.com/item?id=47945451",
-      "summary": "<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47945451\">https://news.ycombinator.com/item?id=47945451</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>...",
-      "published": "2026-04-29T08:09:13+00:00",
-      "domain": "news.ycombinator.com",
+      "title": "Barman \u2013 Backup and Recovery Manager for PostgreSQL",
+      "link": "https://github.com/EnterpriseDB/barman",
+      "summary": "<p>Article URL: <a href=\"https://github.com/EnterpriseDB/barman\">https://github.com/EnterpriseDB/barman</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47948526\">https://news.yc...",
+      "published": "2026-04-29T13:54:48+00:00",
+      "domain": "github.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -243,75 +307,11 @@
       }
     },
     {
-      "title": "Big AI Cluster Little Power the 8x Nvidia GB10 Cluster \u2013 ServeTheHome",
-      "link": "https://www.servethehome.com/big-cluster-little-power-the-8x-nvidia-gb10-cluster-marvell-cisco-ubiquiti-qnap-arm/",
-      "summary": "<p>Article URL: <a href=\"https://www.servethehome.com/big-cluster-little-power-the-8x-nvidia-gb10-cluster-marvell-cisco-ubiquiti-qnap-arm/\">https://www.servethehome.com/big-cluster-little-power-the-8x...",
-      "published": "2026-04-29T08:09:01+00:00",
-      "domain": "servethehome.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "HardenedBSD Is Now Officially on Radicle",
-      "link": "https://hardenedbsd.org/article/shawn-webb/2026-04-26/hardenedbsd-officially-radicle",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47944864\">Comments</a>...",
-      "published": "2026-04-29T06:38:44+00:00",
-      "domain": "hardenedbsd.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Tim Cook Was Great for Apple Investors. He Was Not as Great for America.",
-      "link": "https://www.reddit.com/r/technology/comments/1syn2ir/tim_cook_was_great_for_apple_investors_he_was_not/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1syn2ir/tim_cook_was_great_for_apple_investors_he_was_not/\"> <img alt=\"Tim Cook Was Great for Apple Investors. He Was Not as Grea...",
-      "published": "2026-04-29T03:23:31+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Bugs Rust won't catch",
-      "link": "https://corrode.dev/blog/bugs-rust-wont-catch/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47943499\">Comments</a>...",
-      "published": "2026-04-29T02:19:11+00:00",
-      "domain": "corrode.dev",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "How ChatGPT serves ads",
-      "link": "https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47942437\">Comments</a>...",
-      "published": "2026-04-28T23:54:14+00:00",
-      "domain": "buchodi.com",
+      "title": "Letting AI play my game \u2013 building an agentic test harness to help play-testing",
+      "link": "https://blog.jeffschomay.com/letting-ai-play-my-game",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47947525\">Comments</a>...",
+      "published": "2026-04-29T12:43:12+00:00",
+      "domain": "blog.jeffschomay.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -325,10 +325,10 @@
   ],
   "overall_ranked": [
     {
-      "title": "LiteLLM CVE-2026-42208 SQL Injection Exploited within 36 Hours of Disclosure",
-      "link": "https://thehackernews.com/2026/04/litellm-cve-2026-42208-sql-injection.html",
-      "summary": "In yet another instance of threat actors quickly jumping on the exploitation bandwagon, a newly disclosed critical security flaw in BerriAI's LiteLLM Python package has come under active exploitation ...",
-      "published": "2026-04-29T11:04:00+05:30",
+      "title": "Webinar: How to Automate Exposure Validation to Match the Speed of AI Attacks",
+      "link": "https://thehackernews.com/2026/04/webinar-how-to-automate-exposure.html",
+      "summary": "In February 2026, researchers uncovered a shift that completely changed the game: threat actors are now using custom AI setups to automate attacks directly into the kill chain.\nWe aren't just talking ...",
+      "published": "2026-04-29T17:32:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -341,11 +341,11 @@
       }
     },
     {
-      "title": "Beijing Auto Show: more EV models in each of 17 halls than in the US",
-      "link": "https://electrek.co/2026/04/26/beijing-auto-show-2026-insane-glimpse-future-auto-industry/",
-      "summary": "<p>Article URL: <a href=\"https://electrek.co/2026/04/26/beijing-auto-show-2026-insane-glimpse-future-auto-industry/\">https://electrek.co/2026/04/26/beijing-auto-show-2026-insane-glimpse-future-auto-in...",
-      "published": "2026-04-29T08:14:26+00:00",
-      "domain": "electrek.co",
+      "title": "What to Look for in an Exposure Management Platform (And What Most of Them Get Wrong)",
+      "link": "https://thehackernews.com/2026/04/what-to-look-for-in-exposure-management.html",
+      "summary": "Every security team has a version of the same story. The quarter ends with hundreds of vulnerabilities closed. The dashboards are bursting with green. Then someone in a leadership meeting asks: \"So, a...",
+      "published": "2026-04-29T17:00:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -357,10 +357,74 @@
       }
     },
     {
-      "title": "A ground-up reimplementation of Kubernetes in Rust",
-      "link": "https://github.com/calfonso/rusternetes",
-      "summary": "<p>Article URL: <a href=\"https://github.com/calfonso/rusternetes\">https://github.com/calfonso/rusternetes</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47945492\">https://news....",
-      "published": "2026-04-29T08:14:15+00:00",
+      "title": "Critical cPanel Authentication Vulnerability Identified \u2014 Update Your Server Immediately",
+      "link": "https://thehackernews.com/2026/04/critical-cpanel-authentication.html",
+      "summary": "cPanel has released security updates to address a security issue impacting various authentication paths that could allow an attacker to obtain access to the control panel software.\nThe problem affects...",
+      "published": "2026-04-29T15:07:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "CISA Adds Actively Exploited ConnectWise and Windows Flaws to KEV",
+      "link": "https://thehackernews.com/2026/04/cisa-adds-actively-exploited.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added two security flaws impacting ConnectWise ScreenConnect and Microsoft Windows to its Known Exploited Vulnerabilities (K...",
+      "published": "2026-04-29T14:16:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "SpaceX to give Musk 200M shares if 1M colonists on Mars and $7.5B valuation",
+      "link": "https://www.investors.com/news/elon-musk-spacex-pay-data-center-starship-tesla-billionaire/",
+      "summary": "<p>Article URL: <a href=\"https://www.investors.com/news/elon-musk-spacex-pay-data-center-starship-tesla-billionaire/\">https://www.investors.com/news/elon-musk-spacex-pay-data-center-starship-tesla-bil...",
+      "published": "2026-04-29T13:56:42+00:00",
+      "domain": "investors.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "New Gene Therapy Enables Children with a Rare Form of Deafness to Hear",
+      "link": "https://www.nytimes.com/2026/04/23/science/deaf-gene-therapy.html",
+      "summary": "<p>Article URL: <a href=\"https://www.nytimes.com/2026/04/23/science/deaf-gene-therapy.html\">https://www.nytimes.com/2026/04/23/science/deaf-gene-therapy.html</a></p>\n<p>Comments URL: <a href=\"https://...",
+      "published": "2026-04-29T13:56:20+00:00",
+      "domain": "nytimes.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Declarative Git repo sync/migration tool and self hosted code search engine",
+      "link": "https://github.com/stepbrobd/miroir",
+      "summary": "<p>Article URL: <a href=\"https://github.com/stepbrobd/miroir\">https://github.com/stepbrobd/miroir</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47948545\">https://news.ycombina...",
+      "published": "2026-04-29T13:56:19+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -373,11 +437,11 @@
       }
     },
     {
-      "title": "Our first paying user found us from China in 4 days \u2013 zero marketing",
-      "link": "https://mfkvault.com",
-      "summary": "<p>Article URL: <a href=\"https://mfkvault.com\">https://mfkvault.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47945453\">https://news.ycombinator.com/item?id=47945453</a></...",
-      "published": "2026-04-29T08:09:30+00:00",
-      "domain": "mfkvault.com",
+      "title": "Fidelity Won't Let Fund Holders Donate to Southern Poverty Law Center",
+      "link": "https://www.nytimes.com/2026/04/29/business/fidelity-southern-poverty-law-center.html",
+      "summary": "<p>Article URL: <a href=\"https://www.nytimes.com/2026/04/29/business/fidelity-southern-poverty-law-center.html\">https://www.nytimes.com/2026/04/29/business/fidelity-southern-poverty-law-center.html</a...",
+      "published": "2026-04-29T13:54:57+00:00",
+      "domain": "nytimes.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -389,11 +453,11 @@
       }
     },
     {
-      "title": "Ask HN: Should it be acceptable that Excel needs to update 2-3 times/month?",
-      "link": "https://news.ycombinator.com/item?id=47945451",
-      "summary": "<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47945451\">https://news.ycombinator.com/item?id=47945451</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>...",
-      "published": "2026-04-29T08:09:13+00:00",
-      "domain": "news.ycombinator.com",
+      "title": "Barman \u2013 Backup and Recovery Manager for PostgreSQL",
+      "link": "https://github.com/EnterpriseDB/barman",
+      "summary": "<p>Article URL: <a href=\"https://github.com/EnterpriseDB/barman\">https://github.com/EnterpriseDB/barman</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47948526\">https://news.yc...",
+      "published": "2026-04-29T13:54:48+00:00",
+      "domain": "github.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -405,75 +469,11 @@
       }
     },
     {
-      "title": "Big AI Cluster Little Power the 8x Nvidia GB10 Cluster \u2013 ServeTheHome",
-      "link": "https://www.servethehome.com/big-cluster-little-power-the-8x-nvidia-gb10-cluster-marvell-cisco-ubiquiti-qnap-arm/",
-      "summary": "<p>Article URL: <a href=\"https://www.servethehome.com/big-cluster-little-power-the-8x-nvidia-gb10-cluster-marvell-cisco-ubiquiti-qnap-arm/\">https://www.servethehome.com/big-cluster-little-power-the-8x...",
-      "published": "2026-04-29T08:09:01+00:00",
-      "domain": "servethehome.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "HardenedBSD Is Now Officially on Radicle",
-      "link": "https://hardenedbsd.org/article/shawn-webb/2026-04-26/hardenedbsd-officially-radicle",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47944864\">Comments</a>...",
-      "published": "2026-04-29T06:38:44+00:00",
-      "domain": "hardenedbsd.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Tim Cook Was Great for Apple Investors. He Was Not as Great for America.",
-      "link": "https://www.reddit.com/r/technology/comments/1syn2ir/tim_cook_was_great_for_apple_investors_he_was_not/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1syn2ir/tim_cook_was_great_for_apple_investors_he_was_not/\"> <img alt=\"Tim Cook Was Great for Apple Investors. He Was Not as Grea...",
-      "published": "2026-04-29T03:23:31+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Bugs Rust won't catch",
-      "link": "https://corrode.dev/blog/bugs-rust-wont-catch/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47943499\">Comments</a>...",
-      "published": "2026-04-29T02:19:11+00:00",
-      "domain": "corrode.dev",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "How ChatGPT serves ads",
-      "link": "https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47942437\">Comments</a>...",
-      "published": "2026-04-28T23:54:14+00:00",
-      "domain": "buchodi.com",
+      "title": "Letting AI play my game \u2013 building an agentic test harness to help play-testing",
+      "link": "https://blog.jeffschomay.com/letting-ai-play-my-game",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47947525\">Comments</a>...",
+      "published": "2026-04-29T12:43:12+00:00",
+      "domain": "blog.jeffschomay.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -487,10 +487,10 @@
   ],
   "all_articles": [
     {
-      "title": "LiteLLM CVE-2026-42208 SQL Injection Exploited within 36 Hours of Disclosure",
-      "link": "https://thehackernews.com/2026/04/litellm-cve-2026-42208-sql-injection.html",
-      "summary": "In yet another instance of threat actors quickly jumping on the exploitation bandwagon, a newly disclosed critical security flaw in BerriAI's LiteLLM Python package has come under active exploitation ...",
-      "published": "2026-04-29T11:04:00+05:30",
+      "title": "Webinar: How to Automate Exposure Validation to Match the Speed of AI Attacks",
+      "link": "https://thehackernews.com/2026/04/webinar-how-to-automate-exposure.html",
+      "summary": "In February 2026, researchers uncovered a shift that completely changed the game: threat actors are now using custom AI setups to automate attacks directly into the kill chain.\nWe aren't just talking ...",
+      "published": "2026-04-29T17:32:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -503,11 +503,11 @@
       }
     },
     {
-      "title": "Beijing Auto Show: more EV models in each of 17 halls than in the US",
-      "link": "https://electrek.co/2026/04/26/beijing-auto-show-2026-insane-glimpse-future-auto-industry/",
-      "summary": "<p>Article URL: <a href=\"https://electrek.co/2026/04/26/beijing-auto-show-2026-insane-glimpse-future-auto-industry/\">https://electrek.co/2026/04/26/beijing-auto-show-2026-insane-glimpse-future-auto-in...",
-      "published": "2026-04-29T08:14:26+00:00",
-      "domain": "electrek.co",
+      "title": "What to Look for in an Exposure Management Platform (And What Most of Them Get Wrong)",
+      "link": "https://thehackernews.com/2026/04/what-to-look-for-in-exposure-management.html",
+      "summary": "Every security team has a version of the same story. The quarter ends with hundreds of vulnerabilities closed. The dashboards are bursting with green. Then someone in a leadership meeting asks: \"So, a...",
+      "published": "2026-04-29T17:00:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -519,10 +519,74 @@
       }
     },
     {
-      "title": "A ground-up reimplementation of Kubernetes in Rust",
-      "link": "https://github.com/calfonso/rusternetes",
-      "summary": "<p>Article URL: <a href=\"https://github.com/calfonso/rusternetes\">https://github.com/calfonso/rusternetes</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47945492\">https://news....",
-      "published": "2026-04-29T08:14:15+00:00",
+      "title": "Critical cPanel Authentication Vulnerability Identified \u2014 Update Your Server Immediately",
+      "link": "https://thehackernews.com/2026/04/critical-cpanel-authentication.html",
+      "summary": "cPanel has released security updates to address a security issue impacting various authentication paths that could allow an attacker to obtain access to the control panel software.\nThe problem affects...",
+      "published": "2026-04-29T15:07:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "CISA Adds Actively Exploited ConnectWise and Windows Flaws to KEV",
+      "link": "https://thehackernews.com/2026/04/cisa-adds-actively-exploited.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added two security flaws impacting ConnectWise ScreenConnect and Microsoft Windows to its Known Exploited Vulnerabilities (K...",
+      "published": "2026-04-29T14:16:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "SpaceX to give Musk 200M shares if 1M colonists on Mars and $7.5B valuation",
+      "link": "https://www.investors.com/news/elon-musk-spacex-pay-data-center-starship-tesla-billionaire/",
+      "summary": "<p>Article URL: <a href=\"https://www.investors.com/news/elon-musk-spacex-pay-data-center-starship-tesla-billionaire/\">https://www.investors.com/news/elon-musk-spacex-pay-data-center-starship-tesla-bil...",
+      "published": "2026-04-29T13:56:42+00:00",
+      "domain": "investors.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "New Gene Therapy Enables Children with a Rare Form of Deafness to Hear",
+      "link": "https://www.nytimes.com/2026/04/23/science/deaf-gene-therapy.html",
+      "summary": "<p>Article URL: <a href=\"https://www.nytimes.com/2026/04/23/science/deaf-gene-therapy.html\">https://www.nytimes.com/2026/04/23/science/deaf-gene-therapy.html</a></p>\n<p>Comments URL: <a href=\"https://...",
+      "published": "2026-04-29T13:56:20+00:00",
+      "domain": "nytimes.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Declarative Git repo sync/migration tool and self hosted code search engine",
+      "link": "https://github.com/stepbrobd/miroir",
+      "summary": "<p>Article URL: <a href=\"https://github.com/stepbrobd/miroir\">https://github.com/stepbrobd/miroir</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47948545\">https://news.ycombina...",
+      "published": "2026-04-29T13:56:19+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -535,11 +599,11 @@
       }
     },
     {
-      "title": "Our first paying user found us from China in 4 days \u2013 zero marketing",
-      "link": "https://mfkvault.com",
-      "summary": "<p>Article URL: <a href=\"https://mfkvault.com\">https://mfkvault.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47945453\">https://news.ycombinator.com/item?id=47945453</a></...",
-      "published": "2026-04-29T08:09:30+00:00",
-      "domain": "mfkvault.com",
+      "title": "Fidelity Won't Let Fund Holders Donate to Southern Poverty Law Center",
+      "link": "https://www.nytimes.com/2026/04/29/business/fidelity-southern-poverty-law-center.html",
+      "summary": "<p>Article URL: <a href=\"https://www.nytimes.com/2026/04/29/business/fidelity-southern-poverty-law-center.html\">https://www.nytimes.com/2026/04/29/business/fidelity-southern-poverty-law-center.html</a...",
+      "published": "2026-04-29T13:54:57+00:00",
+      "domain": "nytimes.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -551,11 +615,11 @@
       }
     },
     {
-      "title": "Ask HN: Should it be acceptable that Excel needs to update 2-3 times/month?",
-      "link": "https://news.ycombinator.com/item?id=47945451",
-      "summary": "<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47945451\">https://news.ycombinator.com/item?id=47945451</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>...",
-      "published": "2026-04-29T08:09:13+00:00",
-      "domain": "news.ycombinator.com",
+      "title": "Barman \u2013 Backup and Recovery Manager for PostgreSQL",
+      "link": "https://github.com/EnterpriseDB/barman",
+      "summary": "<p>Article URL: <a href=\"https://github.com/EnterpriseDB/barman\">https://github.com/EnterpriseDB/barman</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47948526\">https://news.yc...",
+      "published": "2026-04-29T13:54:48+00:00",
+      "domain": "github.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -567,75 +631,11 @@
       }
     },
     {
-      "title": "Big AI Cluster Little Power the 8x Nvidia GB10 Cluster \u2013 ServeTheHome",
-      "link": "https://www.servethehome.com/big-cluster-little-power-the-8x-nvidia-gb10-cluster-marvell-cisco-ubiquiti-qnap-arm/",
-      "summary": "<p>Article URL: <a href=\"https://www.servethehome.com/big-cluster-little-power-the-8x-nvidia-gb10-cluster-marvell-cisco-ubiquiti-qnap-arm/\">https://www.servethehome.com/big-cluster-little-power-the-8x...",
-      "published": "2026-04-29T08:09:01+00:00",
-      "domain": "servethehome.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "HardenedBSD Is Now Officially on Radicle",
-      "link": "https://hardenedbsd.org/article/shawn-webb/2026-04-26/hardenedbsd-officially-radicle",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47944864\">Comments</a>...",
-      "published": "2026-04-29T06:38:44+00:00",
-      "domain": "hardenedbsd.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Tim Cook Was Great for Apple Investors. He Was Not as Great for America.",
-      "link": "https://www.reddit.com/r/technology/comments/1syn2ir/tim_cook_was_great_for_apple_investors_he_was_not/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1syn2ir/tim_cook_was_great_for_apple_investors_he_was_not/\"> <img alt=\"Tim Cook Was Great for Apple Investors. He Was Not as Grea...",
-      "published": "2026-04-29T03:23:31+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Bugs Rust won't catch",
-      "link": "https://corrode.dev/blog/bugs-rust-wont-catch/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47943499\">Comments</a>...",
-      "published": "2026-04-29T02:19:11+00:00",
-      "domain": "corrode.dev",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "How ChatGPT serves ads",
-      "link": "https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47942437\">Comments</a>...",
-      "published": "2026-04-28T23:54:14+00:00",
-      "domain": "buchodi.com",
+      "title": "Letting AI play my game \u2013 building an agentic test harness to help play-testing",
+      "link": "https://blog.jeffschomay.com/letting-ai-play-my-game",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47947525\">Comments</a>...",
+      "published": "2026-04-29T12:43:12+00:00",
+      "domain": "blog.jeffschomay.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,

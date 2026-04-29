@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### LiteLLM CVE-2026-42208 SQL Injection Exploited within 36 Hours of Disclosure
+### Webinar: How to Automate Exposure Validation to Match the Speed of AI Attacks
 - **Published**: April 29, 2026
-- **Summary**: In yet another instance of threat actors quickly jumping on the exploitation bandwagon, a newly disclosed critical security flaw in BerriAI's LiteLLM ...
-- [Read more](https://thehackernews.com/2026/04/litellm-cve-2026-42208-sql-injection.html)
+- **Summary**: In February 2026, researchers uncovered a shift that completely changed the game: threat actors are now using custom AI setups to automate attacks dir...
+- [Read more](https://thehackernews.com/2026/04/webinar-how-to-automate-exposure.html)
 
-### Beijing Auto Show: more EV models in each of 17 halls than in the US
+### What to Look for in an Exposure Management Platform (And What Most of Them Get Wrong)
 - **Published**: April 29, 2026
-- **Summary**: https://electrek.co/2026/04/26/beijing-auto-show-2026-insane-glimpse-future-auto-in......
-- [Read more](https://electrek.co/2026/04/26/beijing-auto-show-2026-insane-glimpse-future-auto-industry/)
+- **Summary**: Every security team has a version of the same story. The quarter ends with hundreds of vulnerabilities closed. The dashboards are bursting with green....
+- [Read more](https://thehackernews.com/2026/04/what-to-look-for-in-exposure-management.html)
 
 ---
 
