@@ -16,18 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Anthropic's Argument for Mythos SWE-bench improvement contains a fatal error
-- **Published**: April 29, 2026
-- **Summary**: https://www.philosophicalhacker.com/post/anthropic-error/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator......
-- **Keywords**: error, error, error
-- [Read more](https://www.philosophicalhacker.com/post/anthropic-error/)
+### Transponders to be installed on New York area airport ground vehicles
+- **Published**: April 30, 2026
+- **Summary**: https://apnews.com/article/laguardia-plane-crash-air-canada-transpon......
+- **Keywords**: crash, crash
+- [Read more](https://apnews.com/article/laguardia-plane-crash-air-canada-transponders-18578e94f2f7ec67b5ed45e9a92a4eb7)
 
-### HERMES.md: Anthropic bug causes $200 extra charge, refuses refund
-- **Published**: April 29, 2026
-- **Summary**: ......
-- **Keywords**: bug
-- [Read more](https://github.com/anthropics/claude-code/issues/53262)
+### Finetuning Activates Verbatim Recall of Copyrighted Books in LLMs
+- **Published**: April 30, 2026
+- **Summary**: https://github.com/cauchy221/Alignment-Whack-a-Mole-Code</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.c......
+- [Read more](https://github.com/cauchy221/Alignment-Whack-a-Mole-Code)
 
 ---
 
