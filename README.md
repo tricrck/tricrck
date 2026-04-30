@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Transponders to be installed on New York area airport ground vehicles
+### Google Fixes CVSS 10 Gemini CLI CI RCE and Cursor Flaws Enable Code Execution
 - **Published**: April 30, 2026
-- **Summary**: https://apnews.com/article/laguardia-plane-crash-air-canada-transpon......
-- **Keywords**: crash, crash
-- [Read more](https://apnews.com/article/laguardia-plane-crash-air-canada-transponders-18578e94f2f7ec67b5ed45e9a92a4eb7)
+- **Summary**: Google has addressed a maximum severity security flaw in Gemini CLI -- the "@google/gemini-cli" npm package and the "google-github-actions/run-gemini-...
+- [Read more](https://thehackernews.com/2026/04/google-fixes-cvss-10-gemini-cli-ci-rce.html)
 
-### Finetuning Activates Verbatim Recall of Copyrighted Books in LLMs
+### Verifying your age in a privacy preserving manner
 - **Published**: April 30, 2026
-- **Summary**: https://github.com/cauchy221/Alignment-Whack-a-Mole-Code</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.c......
-- [Read more](https://github.com/cauchy221/Alignment-Whack-a-Mole-Code)
+- **Summary**: https://adayinthelifeof.nl/2026/04/27/sd-jwt.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=479......
+- [Read more](https://adayinthelifeof.nl/2026/04/27/sd-jwt.html)
 
 ---
 
