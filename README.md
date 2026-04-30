@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### The cost of Google's AI defaults and the illusion of choice
+### PyTorch Lightning and Intercom-client Hit in Supply Chain Attacks to Steal Credentials
 - **Published**: April 30, 2026
-- **Summary**: https://arstechnica.com/ai/2026/04/googles-privacy-maze-how-gemini-traps-you-and-y......
-- [Read more](https://arstechnica.com/ai/2026/04/googles-privacy-maze-how-gemini-traps-you-and-your-data/)
+- **Summary**: In yet another software supply chain attack, threat actors have managed to compromise the popular Python package Lightning to push two malicious versi...
+- [Read more](https://thehackernews.com/2026/04/pytorch-lightning-compromised-in-pypi.html)
 
-### New Python Backdoor Uses Tunneling Service to Steal Browser and Cloud Credentials
+### ThreatsDay Bulletin: SMS Blaster Busts, OpenEMR Flaws, 600K Roblox Hacks and 25 More Stories
 - **Published**: April 30, 2026
-- **Summary**: Cybersecurity researchers have disclosed details of a stealthy Python-based backdoor framework called DEEP#DOOR that comes with capabilities to establ...
-- [Read more](https://thehackernews.com/2026/04/new-python-backdoor-uses-tunneling.html)
+- **Summary**: The internet is noisy this week. We are seeing some wild new tactics, like people using fake cell towers to send scam texts, while some developers are...
+- [Read more](https://thehackernews.com/2026/04/threatsday-bulletin-sms-blaster-busts.html)
 
 ---
 

@@ -1,15 +1,111 @@
 {
   "chaos_ranked": [
     {
-      "title": "The cost of Google's AI defaults and the illusion of choice",
-      "link": "https://arstechnica.com/ai/2026/04/googles-privacy-maze-how-gemini-traps-you-and-your-data/",
-      "summary": "<p>Article URL: <a href=\"https://arstechnica.com/ai/2026/04/googles-privacy-maze-how-gemini-traps-you-and-your-data/\">https://arstechnica.com/ai/2026/04/googles-privacy-maze-how-gemini-traps-you-and-y...",
-      "published": "2026-04-30T13:52:40+00:00",
-      "domain": "arstechnica.com",
+      "title": "PyTorch Lightning and Intercom-client Hit in Supply Chain Attacks to Steal Credentials",
+      "link": "https://thehackernews.com/2026/04/pytorch-lightning-compromised-in-pypi.html",
+      "summary": "In yet another software supply chain attack, threat actors have managed to compromise the popular Python package Lightning to push two malicious versions to conduct credential theft.\nAccording to Aiki...",
+      "published": "2026-04-30T22:01:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
-        "chaos": 18.0,
-        "anarchy": 12.0,
-        "overall": 15.0
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "ThreatsDay Bulletin: SMS Blaster Busts, OpenEMR Flaws, 600K Roblox Hacks and 25 More Stories",
+      "link": "https://thehackernews.com/2026/04/threatsday-bulletin-sms-blaster-busts.html",
+      "summary": "The internet is noisy this week. We are seeing some wild new tactics, like people using fake cell towers to send scam texts, while some developers are accidentally downloading tools that peek into the...",
+      "published": "2026-04-30T19:25:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Codex for Work",
+      "link": "https://chatgpt.com/codex/for-work/",
+      "summary": "<p>Article URL: <a href=\"https://chatgpt.com/codex/for-work/\">https://chatgpt.com/codex/for-work/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47966970\">https://news.ycombina...",
+      "published": "2026-04-30T19:14:17+00:00",
+      "domain": "chatgpt.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Claude Code dies with Anthropic_API_KEY in cloud environment",
+      "link": "https://news.ycombinator.com/item?id=47966935",
+      "summary": "<p>If you put ANTHROPIC_API_KEY in the cloud environment, this will cause CC to fail to do anything.<p>So you were using it because your tests are going to look for it, think again, find another way.<...",
+      "published": "2026-04-30T19:11:30+00:00",
+      "domain": "news.ycombinator.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Sony Accidentally Created a Camera That Could See Through Clothing",
+      "link": "https://commonplacefacts.com/2022/11/30/camera-that-could-see-through-clothing/",
+      "summary": "<p>Article URL: <a href=\"https://commonplacefacts.com/2022/11/30/camera-that-could-see-through-clothing/\">https://commonplacefacts.com/2022/11/30/camera-that-could-see-through-clothing/</a></p>\n<p>Com...",
+      "published": "2026-04-30T19:10:51+00:00",
+      "domain": "commonplacefacts.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Aide-Memory \u2013 persistent memory for AI coding agents and teams",
+      "link": "https://www.aide-memory.dev/blog/launch",
+      "summary": "<p>Article URL: <a href=\"https://www.aide-memory.dev/blog/launch\">https://www.aide-memory.dev/blog/launch</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47966918\">https://news....",
+      "published": "2026-04-30T19:10:48+00:00",
+      "domain": "aide-memory.dev",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Troubleshooting USB speed issues with Claude Code",
+      "link": "https://gjolly.fr/blog/usb-cable-bottleneck/",
+      "summary": "<p>Article URL: <a href=\"https://gjolly.fr/blog/usb-cable-bottleneck/\">https://gjolly.fr/blog/usb-cable-bottleneck/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47966881\">htt...",
+      "published": "2026-04-30T19:07:31+00:00",
+      "domain": "gjolly.fr",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
       },
       "keywords": {
         "chaos": [],
@@ -33,11 +129,11 @@
       }
     },
     {
-      "title": "EtherRAT Distribution Spoofing Administrative Tools via GitHub Facades",
-      "link": "https://thehackernews.com/2026/04/etherrat-distribution-spoofing.html",
-      "summary": "Intro\nA sophisticated, high-resilience malicious campaign was identified by Atos Threat Research Center (TRC) in March 2026. This operation specifically targets the high-privilege professional account...",
-      "published": "2026-04-30T17:00:00+05:30",
-      "domain": "thehackernews.com",
+      "title": "U.S. Senators Banned From Prediction Markets Trading",
+      "link": "https://www.reddit.com/r/technology/comments/1t03cj3/us_senators_banned_from_prediction_markets_trading/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1t03cj3/us_senators_banned_from_prediction_markets_trading/\"> <img alt=\"U.S. Senators Banned From Prediction Markets Trading\" src...",
+      "published": "2026-04-30T17:41:21+00:00",
+      "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -49,107 +145,11 @@
       }
     },
     {
-      "title": "New Linux 'Copy Fail' Vulnerability Enables Root Access on Major Distributions",
-      "link": "https://thehackernews.com/2026/04/new-linux-copy-fail-vulnerability.html",
-      "summary": "Cybersecurity researchers have disclosed details of a Linux local privilege escalation (LPE) flaw that could allow an unprivileged local user to obtain root.\nThe high-severity vulnerability tracked as...",
-      "published": "2026-04-30T14:54:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "'The job description is changing': mathematician Terence Tao on the rise of AI",
-      "link": "https://www.nature.com/articles/d41586-026-01246-9",
-      "summary": "<p>Article URL: <a href=\"https://www.nature.com/articles/d41586-026-01246-9\">https://www.nature.com/articles/d41586-026-01246-9</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4...",
-      "published": "2026-04-30T13:52:00+00:00",
-      "domain": "nature.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The Last Nation to Play",
-      "link": "https://longreads.com/2026/04/21/marshall-islands-soccer-team/",
-      "summary": "<p>Article URL: <a href=\"https://longreads.com/2026/04/21/marshall-islands-soccer-team/\">https://longreads.com/2026/04/21/marshall-islands-soccer-team/</a></p>\n<p>Comments URL: <a href=\"https://news.y...",
-      "published": "2026-04-30T13:50:59+00:00",
-      "domain": "longreads.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Using a 1978 terminal in 2026 (DEC VT-100)",
-      "link": "https://nikhiljha.com/posts/vt100/",
-      "summary": "<p>Article URL: <a href=\"https://nikhiljha.com/posts/vt100/\">https://nikhiljha.com/posts/vt100/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47962439\">https://news.ycombinato...",
-      "published": "2026-04-30T13:47:49+00:00",
-      "domain": "nikhiljha.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Vibe Coding Security Weekly \u2013 APR 24-28, 2026",
-      "link": "https://vibe-eval.com/updates/vibe-coding-security-weekly-apr-28-2026/",
-      "summary": "<p>Article URL: <a href=\"https://vibe-eval.com/updates/vibe-coding-security-weekly-apr-28-2026/\">https://vibe-eval.com/updates/vibe-coding-security-weekly-apr-28-2026/</a></p>\n<p>Comments URL: <a href...",
-      "published": "2026-04-30T13:47:09+00:00",
-      "domain": "vibe-eval.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Meta in row after workers who saw smart glasses users having sex lose jobs",
-      "link": "https://www.bbc.com/news/articles/c5y7yvgy0w6o",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47961838\">Comments</a>...",
-      "published": "2026-04-30T13:07:42+00:00",
-      "domain": "bbc.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Google Fixes CVSS 10 Gemini CLI CI RCE and Cursor Flaws Enable Code Execution",
-      "link": "https://thehackernews.com/2026/04/google-fixes-cvss-10-gemini-cli-ci-rce.html",
-      "summary": "Google has addressed a maximum severity security flaw in Gemini CLI -- the \"@google/gemini-cli\" npm package and the \"google-github-actions/run-gemini-cli\" GitHub Actions workflow -- that could have al...",
-      "published": "2026-04-30T12:37:00+05:30",
-      "domain": "thehackernews.com",
+      "title": "I built a Game Boy emulator in F#",
+      "link": "https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47965503\">Comments</a>...",
+      "published": "2026-04-30T17:14:21+00:00",
+      "domain": "nickkossolapov.github.io",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -163,15 +163,111 @@
   ],
   "anarchy_ranked": [
     {
-      "title": "The cost of Google's AI defaults and the illusion of choice",
-      "link": "https://arstechnica.com/ai/2026/04/googles-privacy-maze-how-gemini-traps-you-and-your-data/",
-      "summary": "<p>Article URL: <a href=\"https://arstechnica.com/ai/2026/04/googles-privacy-maze-how-gemini-traps-you-and-your-data/\">https://arstechnica.com/ai/2026/04/googles-privacy-maze-how-gemini-traps-you-and-y...",
-      "published": "2026-04-30T13:52:40+00:00",
-      "domain": "arstechnica.com",
+      "title": "PyTorch Lightning and Intercom-client Hit in Supply Chain Attacks to Steal Credentials",
+      "link": "https://thehackernews.com/2026/04/pytorch-lightning-compromised-in-pypi.html",
+      "summary": "In yet another software supply chain attack, threat actors have managed to compromise the popular Python package Lightning to push two malicious versions to conduct credential theft.\nAccording to Aiki...",
+      "published": "2026-04-30T22:01:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
-        "chaos": 18.0,
-        "anarchy": 12.0,
-        "overall": 15.0
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "ThreatsDay Bulletin: SMS Blaster Busts, OpenEMR Flaws, 600K Roblox Hacks and 25 More Stories",
+      "link": "https://thehackernews.com/2026/04/threatsday-bulletin-sms-blaster-busts.html",
+      "summary": "The internet is noisy this week. We are seeing some wild new tactics, like people using fake cell towers to send scam texts, while some developers are accidentally downloading tools that peek into the...",
+      "published": "2026-04-30T19:25:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Codex for Work",
+      "link": "https://chatgpt.com/codex/for-work/",
+      "summary": "<p>Article URL: <a href=\"https://chatgpt.com/codex/for-work/\">https://chatgpt.com/codex/for-work/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47966970\">https://news.ycombina...",
+      "published": "2026-04-30T19:14:17+00:00",
+      "domain": "chatgpt.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Claude Code dies with Anthropic_API_KEY in cloud environment",
+      "link": "https://news.ycombinator.com/item?id=47966935",
+      "summary": "<p>If you put ANTHROPIC_API_KEY in the cloud environment, this will cause CC to fail to do anything.<p>So you were using it because your tests are going to look for it, think again, find another way.<...",
+      "published": "2026-04-30T19:11:30+00:00",
+      "domain": "news.ycombinator.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Sony Accidentally Created a Camera That Could See Through Clothing",
+      "link": "https://commonplacefacts.com/2022/11/30/camera-that-could-see-through-clothing/",
+      "summary": "<p>Article URL: <a href=\"https://commonplacefacts.com/2022/11/30/camera-that-could-see-through-clothing/\">https://commonplacefacts.com/2022/11/30/camera-that-could-see-through-clothing/</a></p>\n<p>Com...",
+      "published": "2026-04-30T19:10:51+00:00",
+      "domain": "commonplacefacts.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Aide-Memory \u2013 persistent memory for AI coding agents and teams",
+      "link": "https://www.aide-memory.dev/blog/launch",
+      "summary": "<p>Article URL: <a href=\"https://www.aide-memory.dev/blog/launch\">https://www.aide-memory.dev/blog/launch</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47966918\">https://news....",
+      "published": "2026-04-30T19:10:48+00:00",
+      "domain": "aide-memory.dev",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Troubleshooting USB speed issues with Claude Code",
+      "link": "https://gjolly.fr/blog/usb-cable-bottleneck/",
+      "summary": "<p>Article URL: <a href=\"https://gjolly.fr/blog/usb-cable-bottleneck/\">https://gjolly.fr/blog/usb-cable-bottleneck/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47966881\">htt...",
+      "published": "2026-04-30T19:07:31+00:00",
+      "domain": "gjolly.fr",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
       },
       "keywords": {
         "chaos": [],
@@ -195,11 +291,11 @@
       }
     },
     {
-      "title": "EtherRAT Distribution Spoofing Administrative Tools via GitHub Facades",
-      "link": "https://thehackernews.com/2026/04/etherrat-distribution-spoofing.html",
-      "summary": "Intro\nA sophisticated, high-resilience malicious campaign was identified by Atos Threat Research Center (TRC) in March 2026. This operation specifically targets the high-privilege professional account...",
-      "published": "2026-04-30T17:00:00+05:30",
-      "domain": "thehackernews.com",
+      "title": "U.S. Senators Banned From Prediction Markets Trading",
+      "link": "https://www.reddit.com/r/technology/comments/1t03cj3/us_senators_banned_from_prediction_markets_trading/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1t03cj3/us_senators_banned_from_prediction_markets_trading/\"> <img alt=\"U.S. Senators Banned From Prediction Markets Trading\" src...",
+      "published": "2026-04-30T17:41:21+00:00",
+      "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -211,107 +307,11 @@
       }
     },
     {
-      "title": "New Linux 'Copy Fail' Vulnerability Enables Root Access on Major Distributions",
-      "link": "https://thehackernews.com/2026/04/new-linux-copy-fail-vulnerability.html",
-      "summary": "Cybersecurity researchers have disclosed details of a Linux local privilege escalation (LPE) flaw that could allow an unprivileged local user to obtain root.\nThe high-severity vulnerability tracked as...",
-      "published": "2026-04-30T14:54:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "'The job description is changing': mathematician Terence Tao on the rise of AI",
-      "link": "https://www.nature.com/articles/d41586-026-01246-9",
-      "summary": "<p>Article URL: <a href=\"https://www.nature.com/articles/d41586-026-01246-9\">https://www.nature.com/articles/d41586-026-01246-9</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4...",
-      "published": "2026-04-30T13:52:00+00:00",
-      "domain": "nature.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The Last Nation to Play",
-      "link": "https://longreads.com/2026/04/21/marshall-islands-soccer-team/",
-      "summary": "<p>Article URL: <a href=\"https://longreads.com/2026/04/21/marshall-islands-soccer-team/\">https://longreads.com/2026/04/21/marshall-islands-soccer-team/</a></p>\n<p>Comments URL: <a href=\"https://news.y...",
-      "published": "2026-04-30T13:50:59+00:00",
-      "domain": "longreads.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Using a 1978 terminal in 2026 (DEC VT-100)",
-      "link": "https://nikhiljha.com/posts/vt100/",
-      "summary": "<p>Article URL: <a href=\"https://nikhiljha.com/posts/vt100/\">https://nikhiljha.com/posts/vt100/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47962439\">https://news.ycombinato...",
-      "published": "2026-04-30T13:47:49+00:00",
-      "domain": "nikhiljha.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Vibe Coding Security Weekly \u2013 APR 24-28, 2026",
-      "link": "https://vibe-eval.com/updates/vibe-coding-security-weekly-apr-28-2026/",
-      "summary": "<p>Article URL: <a href=\"https://vibe-eval.com/updates/vibe-coding-security-weekly-apr-28-2026/\">https://vibe-eval.com/updates/vibe-coding-security-weekly-apr-28-2026/</a></p>\n<p>Comments URL: <a href...",
-      "published": "2026-04-30T13:47:09+00:00",
-      "domain": "vibe-eval.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Meta in row after workers who saw smart glasses users having sex lose jobs",
-      "link": "https://www.bbc.com/news/articles/c5y7yvgy0w6o",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47961838\">Comments</a>...",
-      "published": "2026-04-30T13:07:42+00:00",
-      "domain": "bbc.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Google Fixes CVSS 10 Gemini CLI CI RCE and Cursor Flaws Enable Code Execution",
-      "link": "https://thehackernews.com/2026/04/google-fixes-cvss-10-gemini-cli-ci-rce.html",
-      "summary": "Google has addressed a maximum severity security flaw in Gemini CLI -- the \"@google/gemini-cli\" npm package and the \"google-github-actions/run-gemini-cli\" GitHub Actions workflow -- that could have al...",
-      "published": "2026-04-30T12:37:00+05:30",
-      "domain": "thehackernews.com",
+      "title": "I built a Game Boy emulator in F#",
+      "link": "https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47965503\">Comments</a>...",
+      "published": "2026-04-30T17:14:21+00:00",
+      "domain": "nickkossolapov.github.io",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -325,15 +325,111 @@
   ],
   "overall_ranked": [
     {
-      "title": "The cost of Google's AI defaults and the illusion of choice",
-      "link": "https://arstechnica.com/ai/2026/04/googles-privacy-maze-how-gemini-traps-you-and-your-data/",
-      "summary": "<p>Article URL: <a href=\"https://arstechnica.com/ai/2026/04/googles-privacy-maze-how-gemini-traps-you-and-your-data/\">https://arstechnica.com/ai/2026/04/googles-privacy-maze-how-gemini-traps-you-and-y...",
-      "published": "2026-04-30T13:52:40+00:00",
-      "domain": "arstechnica.com",
+      "title": "PyTorch Lightning and Intercom-client Hit in Supply Chain Attacks to Steal Credentials",
+      "link": "https://thehackernews.com/2026/04/pytorch-lightning-compromised-in-pypi.html",
+      "summary": "In yet another software supply chain attack, threat actors have managed to compromise the popular Python package Lightning to push two malicious versions to conduct credential theft.\nAccording to Aiki...",
+      "published": "2026-04-30T22:01:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
-        "chaos": 18.0,
-        "anarchy": 12.0,
-        "overall": 15.0
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "ThreatsDay Bulletin: SMS Blaster Busts, OpenEMR Flaws, 600K Roblox Hacks and 25 More Stories",
+      "link": "https://thehackernews.com/2026/04/threatsday-bulletin-sms-blaster-busts.html",
+      "summary": "The internet is noisy this week. We are seeing some wild new tactics, like people using fake cell towers to send scam texts, while some developers are accidentally downloading tools that peek into the...",
+      "published": "2026-04-30T19:25:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Codex for Work",
+      "link": "https://chatgpt.com/codex/for-work/",
+      "summary": "<p>Article URL: <a href=\"https://chatgpt.com/codex/for-work/\">https://chatgpt.com/codex/for-work/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47966970\">https://news.ycombina...",
+      "published": "2026-04-30T19:14:17+00:00",
+      "domain": "chatgpt.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Claude Code dies with Anthropic_API_KEY in cloud environment",
+      "link": "https://news.ycombinator.com/item?id=47966935",
+      "summary": "<p>If you put ANTHROPIC_API_KEY in the cloud environment, this will cause CC to fail to do anything.<p>So you were using it because your tests are going to look for it, think again, find another way.<...",
+      "published": "2026-04-30T19:11:30+00:00",
+      "domain": "news.ycombinator.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Sony Accidentally Created a Camera That Could See Through Clothing",
+      "link": "https://commonplacefacts.com/2022/11/30/camera-that-could-see-through-clothing/",
+      "summary": "<p>Article URL: <a href=\"https://commonplacefacts.com/2022/11/30/camera-that-could-see-through-clothing/\">https://commonplacefacts.com/2022/11/30/camera-that-could-see-through-clothing/</a></p>\n<p>Com...",
+      "published": "2026-04-30T19:10:51+00:00",
+      "domain": "commonplacefacts.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Aide-Memory \u2013 persistent memory for AI coding agents and teams",
+      "link": "https://www.aide-memory.dev/blog/launch",
+      "summary": "<p>Article URL: <a href=\"https://www.aide-memory.dev/blog/launch\">https://www.aide-memory.dev/blog/launch</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47966918\">https://news....",
+      "published": "2026-04-30T19:10:48+00:00",
+      "domain": "aide-memory.dev",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Troubleshooting USB speed issues with Claude Code",
+      "link": "https://gjolly.fr/blog/usb-cable-bottleneck/",
+      "summary": "<p>Article URL: <a href=\"https://gjolly.fr/blog/usb-cable-bottleneck/\">https://gjolly.fr/blog/usb-cable-bottleneck/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47966881\">htt...",
+      "published": "2026-04-30T19:07:31+00:00",
+      "domain": "gjolly.fr",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
       },
       "keywords": {
         "chaos": [],
@@ -357,11 +453,11 @@
       }
     },
     {
-      "title": "EtherRAT Distribution Spoofing Administrative Tools via GitHub Facades",
-      "link": "https://thehackernews.com/2026/04/etherrat-distribution-spoofing.html",
-      "summary": "Intro\nA sophisticated, high-resilience malicious campaign was identified by Atos Threat Research Center (TRC) in March 2026. This operation specifically targets the high-privilege professional account...",
-      "published": "2026-04-30T17:00:00+05:30",
-      "domain": "thehackernews.com",
+      "title": "U.S. Senators Banned From Prediction Markets Trading",
+      "link": "https://www.reddit.com/r/technology/comments/1t03cj3/us_senators_banned_from_prediction_markets_trading/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1t03cj3/us_senators_banned_from_prediction_markets_trading/\"> <img alt=\"U.S. Senators Banned From Prediction Markets Trading\" src...",
+      "published": "2026-04-30T17:41:21+00:00",
+      "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -373,107 +469,11 @@
       }
     },
     {
-      "title": "New Linux 'Copy Fail' Vulnerability Enables Root Access on Major Distributions",
-      "link": "https://thehackernews.com/2026/04/new-linux-copy-fail-vulnerability.html",
-      "summary": "Cybersecurity researchers have disclosed details of a Linux local privilege escalation (LPE) flaw that could allow an unprivileged local user to obtain root.\nThe high-severity vulnerability tracked as...",
-      "published": "2026-04-30T14:54:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "'The job description is changing': mathematician Terence Tao on the rise of AI",
-      "link": "https://www.nature.com/articles/d41586-026-01246-9",
-      "summary": "<p>Article URL: <a href=\"https://www.nature.com/articles/d41586-026-01246-9\">https://www.nature.com/articles/d41586-026-01246-9</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4...",
-      "published": "2026-04-30T13:52:00+00:00",
-      "domain": "nature.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The Last Nation to Play",
-      "link": "https://longreads.com/2026/04/21/marshall-islands-soccer-team/",
-      "summary": "<p>Article URL: <a href=\"https://longreads.com/2026/04/21/marshall-islands-soccer-team/\">https://longreads.com/2026/04/21/marshall-islands-soccer-team/</a></p>\n<p>Comments URL: <a href=\"https://news.y...",
-      "published": "2026-04-30T13:50:59+00:00",
-      "domain": "longreads.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Using a 1978 terminal in 2026 (DEC VT-100)",
-      "link": "https://nikhiljha.com/posts/vt100/",
-      "summary": "<p>Article URL: <a href=\"https://nikhiljha.com/posts/vt100/\">https://nikhiljha.com/posts/vt100/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47962439\">https://news.ycombinato...",
-      "published": "2026-04-30T13:47:49+00:00",
-      "domain": "nikhiljha.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Vibe Coding Security Weekly \u2013 APR 24-28, 2026",
-      "link": "https://vibe-eval.com/updates/vibe-coding-security-weekly-apr-28-2026/",
-      "summary": "<p>Article URL: <a href=\"https://vibe-eval.com/updates/vibe-coding-security-weekly-apr-28-2026/\">https://vibe-eval.com/updates/vibe-coding-security-weekly-apr-28-2026/</a></p>\n<p>Comments URL: <a href...",
-      "published": "2026-04-30T13:47:09+00:00",
-      "domain": "vibe-eval.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Meta in row after workers who saw smart glasses users having sex lose jobs",
-      "link": "https://www.bbc.com/news/articles/c5y7yvgy0w6o",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47961838\">Comments</a>...",
-      "published": "2026-04-30T13:07:42+00:00",
-      "domain": "bbc.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Google Fixes CVSS 10 Gemini CLI CI RCE and Cursor Flaws Enable Code Execution",
-      "link": "https://thehackernews.com/2026/04/google-fixes-cvss-10-gemini-cli-ci-rce.html",
-      "summary": "Google has addressed a maximum severity security flaw in Gemini CLI -- the \"@google/gemini-cli\" npm package and the \"google-github-actions/run-gemini-cli\" GitHub Actions workflow -- that could have al...",
-      "published": "2026-04-30T12:37:00+05:30",
-      "domain": "thehackernews.com",
+      "title": "I built a Game Boy emulator in F#",
+      "link": "https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47965503\">Comments</a>...",
+      "published": "2026-04-30T17:14:21+00:00",
+      "domain": "nickkossolapov.github.io",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -487,6 +487,118 @@
   ],
   "all_articles": [
     {
+      "title": "PyTorch Lightning and Intercom-client Hit in Supply Chain Attacks to Steal Credentials",
+      "link": "https://thehackernews.com/2026/04/pytorch-lightning-compromised-in-pypi.html",
+      "summary": "In yet another software supply chain attack, threat actors have managed to compromise the popular Python package Lightning to push two malicious versions to conduct credential theft.\nAccording to Aiki...",
+      "published": "2026-04-30T22:01:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "ThreatsDay Bulletin: SMS Blaster Busts, OpenEMR Flaws, 600K Roblox Hacks and 25 More Stories",
+      "link": "https://thehackernews.com/2026/04/threatsday-bulletin-sms-blaster-busts.html",
+      "summary": "The internet is noisy this week. We are seeing some wild new tactics, like people using fake cell towers to send scam texts, while some developers are accidentally downloading tools that peek into the...",
+      "published": "2026-04-30T19:25:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Codex for Work",
+      "link": "https://chatgpt.com/codex/for-work/",
+      "summary": "<p>Article URL: <a href=\"https://chatgpt.com/codex/for-work/\">https://chatgpt.com/codex/for-work/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47966970\">https://news.ycombina...",
+      "published": "2026-04-30T19:14:17+00:00",
+      "domain": "chatgpt.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Claude Code dies with Anthropic_API_KEY in cloud environment",
+      "link": "https://news.ycombinator.com/item?id=47966935",
+      "summary": "<p>If you put ANTHROPIC_API_KEY in the cloud environment, this will cause CC to fail to do anything.<p>So you were using it because your tests are going to look for it, think again, find another way.<...",
+      "published": "2026-04-30T19:11:30+00:00",
+      "domain": "news.ycombinator.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Sony Accidentally Created a Camera That Could See Through Clothing",
+      "link": "https://commonplacefacts.com/2022/11/30/camera-that-could-see-through-clothing/",
+      "summary": "<p>Article URL: <a href=\"https://commonplacefacts.com/2022/11/30/camera-that-could-see-through-clothing/\">https://commonplacefacts.com/2022/11/30/camera-that-could-see-through-clothing/</a></p>\n<p>Com...",
+      "published": "2026-04-30T19:10:51+00:00",
+      "domain": "commonplacefacts.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Aide-Memory \u2013 persistent memory for AI coding agents and teams",
+      "link": "https://www.aide-memory.dev/blog/launch",
+      "summary": "<p>Article URL: <a href=\"https://www.aide-memory.dev/blog/launch\">https://www.aide-memory.dev/blog/launch</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47966918\">https://news....",
+      "published": "2026-04-30T19:10:48+00:00",
+      "domain": "aide-memory.dev",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Troubleshooting USB speed issues with Claude Code",
+      "link": "https://gjolly.fr/blog/usb-cable-bottleneck/",
+      "summary": "<p>Article URL: <a href=\"https://gjolly.fr/blog/usb-cable-bottleneck/\">https://gjolly.fr/blog/usb-cable-bottleneck/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47966881\">htt...",
+      "published": "2026-04-30T19:07:31+00:00",
+      "domain": "gjolly.fr",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "New Python Backdoor Uses Tunneling Service to Steal Browser and Cloud Credentials",
       "link": "https://thehackernews.com/2026/04/new-python-backdoor-uses-tunneling.html",
       "summary": "Cybersecurity researchers have disclosed details of a stealthy Python-based backdoor framework called DEEP#DOOR that comes with capabilities to establish persistent access and harvest a wide range of ...",
@@ -503,11 +615,11 @@
       }
     },
     {
-      "title": "EtherRAT Distribution Spoofing Administrative Tools via GitHub Facades",
-      "link": "https://thehackernews.com/2026/04/etherrat-distribution-spoofing.html",
-      "summary": "Intro\nA sophisticated, high-resilience malicious campaign was identified by Atos Threat Research Center (TRC) in March 2026. This operation specifically targets the high-privilege professional account...",
-      "published": "2026-04-30T17:00:00+05:30",
-      "domain": "thehackernews.com",
+      "title": "U.S. Senators Banned From Prediction Markets Trading",
+      "link": "https://www.reddit.com/r/technology/comments/1t03cj3/us_senators_banned_from_prediction_markets_trading/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1t03cj3/us_senators_banned_from_prediction_markets_trading/\"> <img alt=\"U.S. Senators Banned From Prediction Markets Trading\" src...",
+      "published": "2026-04-30T17:41:21+00:00",
+      "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -519,123 +631,11 @@
       }
     },
     {
-      "title": "New Linux 'Copy Fail' Vulnerability Enables Root Access on Major Distributions",
-      "link": "https://thehackernews.com/2026/04/new-linux-copy-fail-vulnerability.html",
-      "summary": "Cybersecurity researchers have disclosed details of a Linux local privilege escalation (LPE) flaw that could allow an unprivileged local user to obtain root.\nThe high-severity vulnerability tracked as...",
-      "published": "2026-04-30T14:54:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The cost of Google's AI defaults and the illusion of choice",
-      "link": "https://arstechnica.com/ai/2026/04/googles-privacy-maze-how-gemini-traps-you-and-your-data/",
-      "summary": "<p>Article URL: <a href=\"https://arstechnica.com/ai/2026/04/googles-privacy-maze-how-gemini-traps-you-and-your-data/\">https://arstechnica.com/ai/2026/04/googles-privacy-maze-how-gemini-traps-you-and-y...",
-      "published": "2026-04-30T13:52:40+00:00",
-      "domain": "arstechnica.com",
-      "scores": {
-        "chaos": 18.0,
-        "anarchy": 12.0,
-        "overall": 15.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "'The job description is changing': mathematician Terence Tao on the rise of AI",
-      "link": "https://www.nature.com/articles/d41586-026-01246-9",
-      "summary": "<p>Article URL: <a href=\"https://www.nature.com/articles/d41586-026-01246-9\">https://www.nature.com/articles/d41586-026-01246-9</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4...",
-      "published": "2026-04-30T13:52:00+00:00",
-      "domain": "nature.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The Last Nation to Play",
-      "link": "https://longreads.com/2026/04/21/marshall-islands-soccer-team/",
-      "summary": "<p>Article URL: <a href=\"https://longreads.com/2026/04/21/marshall-islands-soccer-team/\">https://longreads.com/2026/04/21/marshall-islands-soccer-team/</a></p>\n<p>Comments URL: <a href=\"https://news.y...",
-      "published": "2026-04-30T13:50:59+00:00",
-      "domain": "longreads.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Using a 1978 terminal in 2026 (DEC VT-100)",
-      "link": "https://nikhiljha.com/posts/vt100/",
-      "summary": "<p>Article URL: <a href=\"https://nikhiljha.com/posts/vt100/\">https://nikhiljha.com/posts/vt100/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47962439\">https://news.ycombinato...",
-      "published": "2026-04-30T13:47:49+00:00",
-      "domain": "nikhiljha.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Vibe Coding Security Weekly \u2013 APR 24-28, 2026",
-      "link": "https://vibe-eval.com/updates/vibe-coding-security-weekly-apr-28-2026/",
-      "summary": "<p>Article URL: <a href=\"https://vibe-eval.com/updates/vibe-coding-security-weekly-apr-28-2026/\">https://vibe-eval.com/updates/vibe-coding-security-weekly-apr-28-2026/</a></p>\n<p>Comments URL: <a href...",
-      "published": "2026-04-30T13:47:09+00:00",
-      "domain": "vibe-eval.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Meta in row after workers who saw smart glasses users having sex lose jobs",
-      "link": "https://www.bbc.com/news/articles/c5y7yvgy0w6o",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47961838\">Comments</a>...",
-      "published": "2026-04-30T13:07:42+00:00",
-      "domain": "bbc.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Google Fixes CVSS 10 Gemini CLI CI RCE and Cursor Flaws Enable Code Execution",
-      "link": "https://thehackernews.com/2026/04/google-fixes-cvss-10-gemini-cli-ci-rce.html",
-      "summary": "Google has addressed a maximum severity security flaw in Gemini CLI -- the \"@google/gemini-cli\" npm package and the \"google-github-actions/run-gemini-cli\" GitHub Actions workflow -- that could have al...",
-      "published": "2026-04-30T12:37:00+05:30",
-      "domain": "thehackernews.com",
+      "title": "I built a Game Boy emulator in F#",
+      "link": "https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47965503\">Comments</a>...",
+      "published": "2026-04-30T17:14:21+00:00",
+      "domain": "nickkossolapov.github.io",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
