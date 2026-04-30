@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Google Fixes CVSS 10 Gemini CLI CI RCE and Cursor Flaws Enable Code Execution
+### The cost of Google's AI defaults and the illusion of choice
 - **Published**: April 30, 2026
-- **Summary**: Google has addressed a maximum severity security flaw in Gemini CLI -- the "@google/gemini-cli" npm package and the "google-github-actions/run-gemini-...
-- [Read more](https://thehackernews.com/2026/04/google-fixes-cvss-10-gemini-cli-ci-rce.html)
+- **Summary**: https://arstechnica.com/ai/2026/04/googles-privacy-maze-how-gemini-traps-you-and-y......
+- [Read more](https://arstechnica.com/ai/2026/04/googles-privacy-maze-how-gemini-traps-you-and-your-data/)
 
-### Verifying your age in a privacy preserving manner
+### New Python Backdoor Uses Tunneling Service to Steal Browser and Cloud Credentials
 - **Published**: April 30, 2026
-- **Summary**: https://adayinthelifeof.nl/2026/04/27/sd-jwt.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=479......
-- [Read more](https://adayinthelifeof.nl/2026/04/27/sd-jwt.html)
+- **Summary**: Cybersecurity researchers have disclosed details of a stealthy Python-based backdoor framework called DEEP#DOOR that comes with capabilities to establ...
+- [Read more](https://thehackernews.com/2026/04/new-python-backdoor-uses-tunneling.html)
 
 ---
 
