@@ -16,17 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Claude Code Source Code Breakdown
+### Top Five Sales Challenges Costing MSPs Cybersecurity Revenue
 - **Published**: May 01, 2026
-- **Summary**: https://kuber.studio/blog/AI/Claude-Code%27s-Entire-S......
-- **Keywords**: breakdown
-- [Read more](https://kuber.studio/blog/AI/Claude-Code%27s-Entire-Source-Code-Got-Leaked-via-a-Sourcemap-in-npm,-Let%27s-Talk-About-it)
+- **Summary**: The managed security services market is projected to grow from $38.31 billion in 2025 to $69.16 billion by 2030[1], with cybersecurity being the faste...
+- [Read more](https://thehackernews.com/2026/05/top-five-sales-challenges-costing-msps.html)
 
-### git-sync
+### Two Cybersecurity Professionals Get 4-Year Sentences in BlackCat Ransomware Attacks
 - **Published**: May 01, 2026
-- **Summary**: https://github.com/entireio/git-sync</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47972313">https://news.ycombi......
-- [Read more](https://github.com/entireio/git-sync)
+- **Summary**: The U.S. Department of Justice (DoJ) on Thursday announced the sentencing of two cybersecurity professionals to four years each in prison for their ro...
+- [Read more](https://thehackernews.com/2026/05/two-cybersecurity-professionals-get-4.html)
 
 ---
 

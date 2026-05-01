@@ -1,28 +1,90 @@
 {
   "chaos_ranked": [
     {
-      "title": "Claude Code Source Code Breakdown",
-      "link": "https://kuber.studio/blog/AI/Claude-Code%27s-Entire-Source-Code-Got-Leaked-via-a-Sourcemap-in-npm,-Let%27s-Talk-About-it",
-      "summary": "<p>Article URL: <a href=\"https://kuber.studio/blog/AI/Claude-Code%27s-Entire-Source-Code-Got-Leaked-via-a-Sourcemap-in-npm,-Let%27s-Talk-About-it\">https://kuber.studio/blog/AI/Claude-Code%27s-Entire-S...",
-      "published": "2026-05-01T07:53:08+00:00",
-      "domain": "kuber.studio",
+      "title": "Top Five Sales Challenges Costing MSPs Cybersecurity Revenue",
+      "link": "https://thehackernews.com/2026/05/top-five-sales-challenges-costing-msps.html",
+      "summary": "The managed security services market is projected to grow from $38.31 billion in 2025 to $69.16 billion by 2030[1], with cybersecurity being the fastest-growing sector[2]. Despite this opportunity, ma...",
+      "published": "2026-05-01T16:00:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
-        "chaos": 14.4,
+        "chaos": 3.0,
         "anarchy": 3.0,
-        "overall": 8.7
+        "overall": 3.0
       },
       "keywords": {
-        "chaos": [
-          "breakdown"
-        ],
+        "chaos": [],
         "anarchy": []
       }
     },
     {
-      "title": "git-sync",
-      "link": "https://github.com/entireio/git-sync",
-      "summary": "<p>Article URL: <a href=\"https://github.com/entireio/git-sync\">https://github.com/entireio/git-sync</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47972313\">https://news.ycombi...",
-      "published": "2026-05-01T08:02:14+00:00",
+      "title": "Two Cybersecurity Professionals Get 4-Year Sentences in BlackCat Ransomware Attacks",
+      "link": "https://thehackernews.com/2026/05/two-cybersecurity-professionals-get-4.html",
+      "summary": "The U.S. Department of Justice (DoJ) on Thursday announced the sentencing of two cybersecurity professionals to four years each in prison for their role in facilitating BlackCat ransomware attacks in ...",
+      "published": "2026-05-01T15:26:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Poisoned Ruby Gems and Go Modules Exploit CI Pipelines for Credential Theft",
+      "link": "https://thehackernews.com/2026/05/poisoned-ruby-gems-and-go-modules.html",
+      "summary": "A new software supply chain attack campaign has been observed using sleeper packages as a conduit to subsequently push malicious payloads that enabled credential theft, GitHub Actions tampering, and S...",
+      "published": "2026-05-01T15:13:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Social Media is now Parasocial Media",
+      "link": "https://journals.sagepub.com/doi/10.1177/20563051261437487",
+      "summary": "<p>Article URL: <a href=\"https://journals.sagepub.com/doi/10.1177/20563051261437487\">https://journals.sagepub.com/doi/10.1177/20563051261437487</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinat...",
+      "published": "2026-05-01T13:18:54+00:00",
+      "domain": "journals.sagepub.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Top AI Companies Agree to Pentagon Deals for Classified Work",
+      "link": "https://www.wsj.com/tech/ai/top-ai-companies-agree-to-pentagon-deals-for-classified-work-9c621e78",
+      "summary": "<p>Article URL: <a href=\"https://www.wsj.com/tech/ai/top-ai-companies-agree-to-pentagon-deals-for-classified-work-9c621e78\">https://www.wsj.com/tech/ai/top-ai-companies-agree-to-pentagon-deals-for-cla...",
+      "published": "2026-05-01T13:17:47+00:00",
+      "domain": "wsj.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Gh-relay:share a readonly browser view of your private repo via a temporary URL",
+      "link": "https://github.com/soub4i/gh-relay",
+      "summary": "<p>Article URL: <a href=\"https://github.com/soub4i/gh-relay\">https://github.com/soub4i/gh-relay</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47974464\">https://news.ycombinato...",
+      "published": "2026-05-01T13:16:21+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -35,11 +97,11 @@
       }
     },
     {
-      "title": "Top Storyblok CMS Migration Companies to Choose From",
-      "link": "https://focusreactive.com/blog/storyblok-cms-migration-companies/",
-      "summary": "<p>Article URL: <a href=\"https://focusreactive.com/blog/storyblok-cms-migration-companies/\">https://focusreactive.com/blog/storyblok-cms-migration-companies/</a></p>\n<p>Comments URL: <a href=\"https://...",
-      "published": "2026-05-01T08:01:36+00:00",
-      "domain": "focusreactive.com",
+      "title": "Show HN: Secure-by-default Ollama Docker image with built-in auth, only 70MB",
+      "link": "https://github.com/hwdsl2/docker-ollama",
+      "summary": "<p>Article URL: <a href=\"https://github.com/hwdsl2/docker-ollama\">https://github.com/hwdsl2/docker-ollama</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47974454\">https://news....",
+      "published": "2026-05-01T13:15:22+00:00",
+      "domain": "github.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -51,11 +113,11 @@
       }
     },
     {
-      "title": "Vibe Maintainer",
-      "link": "https://steve-yegge.medium.com/vibe-maintainer-a2273a841040",
-      "summary": "<p>Article URL: <a href=\"https://steve-yegge.medium.com/vibe-maintainer-a2273a841040\">https://steve-yegge.medium.com/vibe-maintainer-a2273a841040</a></p>\n<p>Comments URL: <a href=\"https://news.ycombin...",
-      "published": "2026-05-01T07:49:53+00:00",
-      "domain": "steve-yegge.medium.com",
+      "title": "Microtonal Sid Music? Angine de Poitrine Bassline in C64 Basic [video]",
+      "link": "https://www.youtube.com/watch?v=5bZKlIbSB_c",
+      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=5bZKlIbSB_c\">https://www.youtube.com/watch?v=5bZKlIbSB_c</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47974450\">https...",
+      "published": "2026-05-01T13:15:05+00:00",
+      "domain": "youtube.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -67,11 +129,11 @@
       }
     },
     {
-      "title": "Oscar goes missing after Academy Award winner is blocked from taking on flight",
-      "link": "https://www.bbc.com/news/articles/cz72j59znw3o",
-      "summary": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/cz72j59znw3o\">https://www.bbc.com/news/articles/cz72j59znw3o</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47972222\"...",
-      "published": "2026-05-01T07:45:34+00:00",
-      "domain": "bbc.com",
+      "title": "Running Adobe's 1991 PostScript Interpreter in the Browser",
+      "link": "https://www.pagetable.com/?p=1854",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47973755\">Comments</a>...",
+      "published": "2026-05-01T11:58:11+00:00",
+      "domain": "pagetable.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -83,75 +145,11 @@
       }
     },
     {
-      "title": "Mark Zuckerberg Says AI Costs Contributed To Layoffs Of 8,000 Staffers, Report Says",
-      "link": "https://www.reddit.com/r/technology/comments/1t0chdh/mark_zuckerberg_says_ai_costs_contributed_to/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1t0chdh/mark_zuckerberg_says_ai_costs_contributed_to/\"> <img alt=\"Mark Zuckerberg Says AI Costs Contributed To Layoffs Of 8,000 S...",
-      "published": "2026-04-30T23:25:38+00:00",
+      "title": "Meta contractor fires 1,100 AI trainers after they revealed Ray-Ban glasses recorded private and intimate footage",
+      "link": "https://www.reddit.com/r/technology/comments/1t0r5t5/meta_contractor_fires_1100_ai_trainers_after_they/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1t0r5t5/meta_contractor_fires_1100_ai_trainers_after_they/\"> <img alt=\"Meta contractor fires 1,100 AI trainers after they reveale...",
+      "published": "2026-05-01T11:49:13+00:00",
       "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The New York Childrens Online Safety Act will ban anyone under 18 from chatting online.",
-      "link": "https://www.reddit.com/r/technology/comments/1t0bqne/the_new_york_childrens_online_safety_act_will_ban/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1t0bqne/the_new_york_childrens_online_safety_act_will_ban/\"> <img alt=\"The New York Childrens Online Safety Act will ban anyone u...",
-      "published": "2026-04-30T22:54:09+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "PyTorch Lightning and Intercom-client Hit in Supply Chain Attacks to Steal Credentials",
-      "link": "https://thehackernews.com/2026/04/pytorch-lightning-compromised-in-pypi.html",
-      "summary": "In yet another software supply chain attack, threat actors have managed to compromise the popular Python package Lightning to push two malicious versions to conduct credential theft.\nAccording to Aiki...",
-      "published": "2026-04-30T22:01:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "ThreatsDay Bulletin: SMS Blaster Busts, OpenEMR Flaws, 600K Roblox Hacks and 25 More Stories",
-      "link": "https://thehackernews.com/2026/04/threatsday-bulletin-sms-blaster-busts.html",
-      "summary": "The internet is noisy this week. We are seeing some wild new tactics, like people using fake cell towers to send scam texts, while some developers are accidentally downloading tools that peek into the...",
-      "published": "2026-04-30T19:25:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "New Python Backdoor Uses Tunneling Service to Steal Browser and Cloud Credentials",
-      "link": "https://thehackernews.com/2026/04/new-python-backdoor-uses-tunneling.html",
-      "summary": "Cybersecurity researchers have disclosed details of a stealthy Python-based backdoor framework called DEEP#DOOR that comes with capabilities to establish persistent access and harvest a wide range of ...",
-      "published": "2026-04-30T18:06:00+05:30",
-      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -165,10 +163,90 @@
   ],
   "anarchy_ranked": [
     {
-      "title": "git-sync",
-      "link": "https://github.com/entireio/git-sync",
-      "summary": "<p>Article URL: <a href=\"https://github.com/entireio/git-sync\">https://github.com/entireio/git-sync</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47972313\">https://news.ycombi...",
-      "published": "2026-05-01T08:02:14+00:00",
+      "title": "Top Five Sales Challenges Costing MSPs Cybersecurity Revenue",
+      "link": "https://thehackernews.com/2026/05/top-five-sales-challenges-costing-msps.html",
+      "summary": "The managed security services market is projected to grow from $38.31 billion in 2025 to $69.16 billion by 2030[1], with cybersecurity being the fastest-growing sector[2]. Despite this opportunity, ma...",
+      "published": "2026-05-01T16:00:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Two Cybersecurity Professionals Get 4-Year Sentences in BlackCat Ransomware Attacks",
+      "link": "https://thehackernews.com/2026/05/two-cybersecurity-professionals-get-4.html",
+      "summary": "The U.S. Department of Justice (DoJ) on Thursday announced the sentencing of two cybersecurity professionals to four years each in prison for their role in facilitating BlackCat ransomware attacks in ...",
+      "published": "2026-05-01T15:26:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Poisoned Ruby Gems and Go Modules Exploit CI Pipelines for Credential Theft",
+      "link": "https://thehackernews.com/2026/05/poisoned-ruby-gems-and-go-modules.html",
+      "summary": "A new software supply chain attack campaign has been observed using sleeper packages as a conduit to subsequently push malicious payloads that enabled credential theft, GitHub Actions tampering, and S...",
+      "published": "2026-05-01T15:13:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Social Media is now Parasocial Media",
+      "link": "https://journals.sagepub.com/doi/10.1177/20563051261437487",
+      "summary": "<p>Article URL: <a href=\"https://journals.sagepub.com/doi/10.1177/20563051261437487\">https://journals.sagepub.com/doi/10.1177/20563051261437487</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinat...",
+      "published": "2026-05-01T13:18:54+00:00",
+      "domain": "journals.sagepub.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Top AI Companies Agree to Pentagon Deals for Classified Work",
+      "link": "https://www.wsj.com/tech/ai/top-ai-companies-agree-to-pentagon-deals-for-classified-work-9c621e78",
+      "summary": "<p>Article URL: <a href=\"https://www.wsj.com/tech/ai/top-ai-companies-agree-to-pentagon-deals-for-classified-work-9c621e78\">https://www.wsj.com/tech/ai/top-ai-companies-agree-to-pentagon-deals-for-cla...",
+      "published": "2026-05-01T13:17:47+00:00",
+      "domain": "wsj.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Gh-relay:share a readonly browser view of your private repo via a temporary URL",
+      "link": "https://github.com/soub4i/gh-relay",
+      "summary": "<p>Article URL: <a href=\"https://github.com/soub4i/gh-relay\">https://github.com/soub4i/gh-relay</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47974464\">https://news.ycombinato...",
+      "published": "2026-05-01T13:16:21+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -181,11 +259,11 @@
       }
     },
     {
-      "title": "Top Storyblok CMS Migration Companies to Choose From",
-      "link": "https://focusreactive.com/blog/storyblok-cms-migration-companies/",
-      "summary": "<p>Article URL: <a href=\"https://focusreactive.com/blog/storyblok-cms-migration-companies/\">https://focusreactive.com/blog/storyblok-cms-migration-companies/</a></p>\n<p>Comments URL: <a href=\"https://...",
-      "published": "2026-05-01T08:01:36+00:00",
-      "domain": "focusreactive.com",
+      "title": "Show HN: Secure-by-default Ollama Docker image with built-in auth, only 70MB",
+      "link": "https://github.com/hwdsl2/docker-ollama",
+      "summary": "<p>Article URL: <a href=\"https://github.com/hwdsl2/docker-ollama\">https://github.com/hwdsl2/docker-ollama</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47974454\">https://news....",
+      "published": "2026-05-01T13:15:22+00:00",
+      "domain": "github.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -197,29 +275,11 @@
       }
     },
     {
-      "title": "Claude Code Source Code Breakdown",
-      "link": "https://kuber.studio/blog/AI/Claude-Code%27s-Entire-Source-Code-Got-Leaked-via-a-Sourcemap-in-npm,-Let%27s-Talk-About-it",
-      "summary": "<p>Article URL: <a href=\"https://kuber.studio/blog/AI/Claude-Code%27s-Entire-Source-Code-Got-Leaked-via-a-Sourcemap-in-npm,-Let%27s-Talk-About-it\">https://kuber.studio/blog/AI/Claude-Code%27s-Entire-S...",
-      "published": "2026-05-01T07:53:08+00:00",
-      "domain": "kuber.studio",
-      "scores": {
-        "chaos": 14.4,
-        "anarchy": 3.0,
-        "overall": 8.7
-      },
-      "keywords": {
-        "chaos": [
-          "breakdown"
-        ],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Vibe Maintainer",
-      "link": "https://steve-yegge.medium.com/vibe-maintainer-a2273a841040",
-      "summary": "<p>Article URL: <a href=\"https://steve-yegge.medium.com/vibe-maintainer-a2273a841040\">https://steve-yegge.medium.com/vibe-maintainer-a2273a841040</a></p>\n<p>Comments URL: <a href=\"https://news.ycombin...",
-      "published": "2026-05-01T07:49:53+00:00",
-      "domain": "steve-yegge.medium.com",
+      "title": "Microtonal Sid Music? Angine de Poitrine Bassline in C64 Basic [video]",
+      "link": "https://www.youtube.com/watch?v=5bZKlIbSB_c",
+      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=5bZKlIbSB_c\">https://www.youtube.com/watch?v=5bZKlIbSB_c</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47974450\">https...",
+      "published": "2026-05-01T13:15:05+00:00",
+      "domain": "youtube.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -231,11 +291,11 @@
       }
     },
     {
-      "title": "Oscar goes missing after Academy Award winner is blocked from taking on flight",
-      "link": "https://www.bbc.com/news/articles/cz72j59znw3o",
-      "summary": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/cz72j59znw3o\">https://www.bbc.com/news/articles/cz72j59znw3o</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47972222\"...",
-      "published": "2026-05-01T07:45:34+00:00",
-      "domain": "bbc.com",
+      "title": "Running Adobe's 1991 PostScript Interpreter in the Browser",
+      "link": "https://www.pagetable.com/?p=1854",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47973755\">Comments</a>...",
+      "published": "2026-05-01T11:58:11+00:00",
+      "domain": "pagetable.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -247,75 +307,11 @@
       }
     },
     {
-      "title": "Mark Zuckerberg Says AI Costs Contributed To Layoffs Of 8,000 Staffers, Report Says",
-      "link": "https://www.reddit.com/r/technology/comments/1t0chdh/mark_zuckerberg_says_ai_costs_contributed_to/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1t0chdh/mark_zuckerberg_says_ai_costs_contributed_to/\"> <img alt=\"Mark Zuckerberg Says AI Costs Contributed To Layoffs Of 8,000 S...",
-      "published": "2026-04-30T23:25:38+00:00",
+      "title": "Meta contractor fires 1,100 AI trainers after they revealed Ray-Ban glasses recorded private and intimate footage",
+      "link": "https://www.reddit.com/r/technology/comments/1t0r5t5/meta_contractor_fires_1100_ai_trainers_after_they/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1t0r5t5/meta_contractor_fires_1100_ai_trainers_after_they/\"> <img alt=\"Meta contractor fires 1,100 AI trainers after they reveale...",
+      "published": "2026-05-01T11:49:13+00:00",
       "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The New York Childrens Online Safety Act will ban anyone under 18 from chatting online.",
-      "link": "https://www.reddit.com/r/technology/comments/1t0bqne/the_new_york_childrens_online_safety_act_will_ban/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1t0bqne/the_new_york_childrens_online_safety_act_will_ban/\"> <img alt=\"The New York Childrens Online Safety Act will ban anyone u...",
-      "published": "2026-04-30T22:54:09+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "PyTorch Lightning and Intercom-client Hit in Supply Chain Attacks to Steal Credentials",
-      "link": "https://thehackernews.com/2026/04/pytorch-lightning-compromised-in-pypi.html",
-      "summary": "In yet another software supply chain attack, threat actors have managed to compromise the popular Python package Lightning to push two malicious versions to conduct credential theft.\nAccording to Aiki...",
-      "published": "2026-04-30T22:01:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "ThreatsDay Bulletin: SMS Blaster Busts, OpenEMR Flaws, 600K Roblox Hacks and 25 More Stories",
-      "link": "https://thehackernews.com/2026/04/threatsday-bulletin-sms-blaster-busts.html",
-      "summary": "The internet is noisy this week. We are seeing some wild new tactics, like people using fake cell towers to send scam texts, while some developers are accidentally downloading tools that peek into the...",
-      "published": "2026-04-30T19:25:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "New Python Backdoor Uses Tunneling Service to Steal Browser and Cloud Credentials",
-      "link": "https://thehackernews.com/2026/04/new-python-backdoor-uses-tunneling.html",
-      "summary": "Cybersecurity researchers have disclosed details of a stealthy Python-based backdoor framework called DEEP#DOOR that comes with capabilities to establish persistent access and harvest a wide range of ...",
-      "published": "2026-04-30T18:06:00+05:30",
-      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -329,28 +325,90 @@
   ],
   "overall_ranked": [
     {
-      "title": "Claude Code Source Code Breakdown",
-      "link": "https://kuber.studio/blog/AI/Claude-Code%27s-Entire-Source-Code-Got-Leaked-via-a-Sourcemap-in-npm,-Let%27s-Talk-About-it",
-      "summary": "<p>Article URL: <a href=\"https://kuber.studio/blog/AI/Claude-Code%27s-Entire-Source-Code-Got-Leaked-via-a-Sourcemap-in-npm,-Let%27s-Talk-About-it\">https://kuber.studio/blog/AI/Claude-Code%27s-Entire-S...",
-      "published": "2026-05-01T07:53:08+00:00",
-      "domain": "kuber.studio",
+      "title": "Top Five Sales Challenges Costing MSPs Cybersecurity Revenue",
+      "link": "https://thehackernews.com/2026/05/top-five-sales-challenges-costing-msps.html",
+      "summary": "The managed security services market is projected to grow from $38.31 billion in 2025 to $69.16 billion by 2030[1], with cybersecurity being the fastest-growing sector[2]. Despite this opportunity, ma...",
+      "published": "2026-05-01T16:00:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
-        "chaos": 14.4,
+        "chaos": 3.0,
         "anarchy": 3.0,
-        "overall": 8.7
+        "overall": 3.0
       },
       "keywords": {
-        "chaos": [
-          "breakdown"
-        ],
+        "chaos": [],
         "anarchy": []
       }
     },
     {
-      "title": "git-sync",
-      "link": "https://github.com/entireio/git-sync",
-      "summary": "<p>Article URL: <a href=\"https://github.com/entireio/git-sync\">https://github.com/entireio/git-sync</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47972313\">https://news.ycombi...",
-      "published": "2026-05-01T08:02:14+00:00",
+      "title": "Two Cybersecurity Professionals Get 4-Year Sentences in BlackCat Ransomware Attacks",
+      "link": "https://thehackernews.com/2026/05/two-cybersecurity-professionals-get-4.html",
+      "summary": "The U.S. Department of Justice (DoJ) on Thursday announced the sentencing of two cybersecurity professionals to four years each in prison for their role in facilitating BlackCat ransomware attacks in ...",
+      "published": "2026-05-01T15:26:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Poisoned Ruby Gems and Go Modules Exploit CI Pipelines for Credential Theft",
+      "link": "https://thehackernews.com/2026/05/poisoned-ruby-gems-and-go-modules.html",
+      "summary": "A new software supply chain attack campaign has been observed using sleeper packages as a conduit to subsequently push malicious payloads that enabled credential theft, GitHub Actions tampering, and S...",
+      "published": "2026-05-01T15:13:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Social Media is now Parasocial Media",
+      "link": "https://journals.sagepub.com/doi/10.1177/20563051261437487",
+      "summary": "<p>Article URL: <a href=\"https://journals.sagepub.com/doi/10.1177/20563051261437487\">https://journals.sagepub.com/doi/10.1177/20563051261437487</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinat...",
+      "published": "2026-05-01T13:18:54+00:00",
+      "domain": "journals.sagepub.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Top AI Companies Agree to Pentagon Deals for Classified Work",
+      "link": "https://www.wsj.com/tech/ai/top-ai-companies-agree-to-pentagon-deals-for-classified-work-9c621e78",
+      "summary": "<p>Article URL: <a href=\"https://www.wsj.com/tech/ai/top-ai-companies-agree-to-pentagon-deals-for-classified-work-9c621e78\">https://www.wsj.com/tech/ai/top-ai-companies-agree-to-pentagon-deals-for-cla...",
+      "published": "2026-05-01T13:17:47+00:00",
+      "domain": "wsj.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Gh-relay:share a readonly browser view of your private repo via a temporary URL",
+      "link": "https://github.com/soub4i/gh-relay",
+      "summary": "<p>Article URL: <a href=\"https://github.com/soub4i/gh-relay\">https://github.com/soub4i/gh-relay</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47974464\">https://news.ycombinato...",
+      "published": "2026-05-01T13:16:21+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -363,11 +421,11 @@
       }
     },
     {
-      "title": "Top Storyblok CMS Migration Companies to Choose From",
-      "link": "https://focusreactive.com/blog/storyblok-cms-migration-companies/",
-      "summary": "<p>Article URL: <a href=\"https://focusreactive.com/blog/storyblok-cms-migration-companies/\">https://focusreactive.com/blog/storyblok-cms-migration-companies/</a></p>\n<p>Comments URL: <a href=\"https://...",
-      "published": "2026-05-01T08:01:36+00:00",
-      "domain": "focusreactive.com",
+      "title": "Show HN: Secure-by-default Ollama Docker image with built-in auth, only 70MB",
+      "link": "https://github.com/hwdsl2/docker-ollama",
+      "summary": "<p>Article URL: <a href=\"https://github.com/hwdsl2/docker-ollama\">https://github.com/hwdsl2/docker-ollama</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47974454\">https://news....",
+      "published": "2026-05-01T13:15:22+00:00",
+      "domain": "github.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -379,11 +437,11 @@
       }
     },
     {
-      "title": "Vibe Maintainer",
-      "link": "https://steve-yegge.medium.com/vibe-maintainer-a2273a841040",
-      "summary": "<p>Article URL: <a href=\"https://steve-yegge.medium.com/vibe-maintainer-a2273a841040\">https://steve-yegge.medium.com/vibe-maintainer-a2273a841040</a></p>\n<p>Comments URL: <a href=\"https://news.ycombin...",
-      "published": "2026-05-01T07:49:53+00:00",
-      "domain": "steve-yegge.medium.com",
+      "title": "Microtonal Sid Music? Angine de Poitrine Bassline in C64 Basic [video]",
+      "link": "https://www.youtube.com/watch?v=5bZKlIbSB_c",
+      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=5bZKlIbSB_c\">https://www.youtube.com/watch?v=5bZKlIbSB_c</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47974450\">https...",
+      "published": "2026-05-01T13:15:05+00:00",
+      "domain": "youtube.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -395,11 +453,11 @@
       }
     },
     {
-      "title": "Oscar goes missing after Academy Award winner is blocked from taking on flight",
-      "link": "https://www.bbc.com/news/articles/cz72j59znw3o",
-      "summary": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/cz72j59znw3o\">https://www.bbc.com/news/articles/cz72j59znw3o</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47972222\"...",
-      "published": "2026-05-01T07:45:34+00:00",
-      "domain": "bbc.com",
+      "title": "Running Adobe's 1991 PostScript Interpreter in the Browser",
+      "link": "https://www.pagetable.com/?p=1854",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47973755\">Comments</a>...",
+      "published": "2026-05-01T11:58:11+00:00",
+      "domain": "pagetable.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -411,75 +469,11 @@
       }
     },
     {
-      "title": "Mark Zuckerberg Says AI Costs Contributed To Layoffs Of 8,000 Staffers, Report Says",
-      "link": "https://www.reddit.com/r/technology/comments/1t0chdh/mark_zuckerberg_says_ai_costs_contributed_to/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1t0chdh/mark_zuckerberg_says_ai_costs_contributed_to/\"> <img alt=\"Mark Zuckerberg Says AI Costs Contributed To Layoffs Of 8,000 S...",
-      "published": "2026-04-30T23:25:38+00:00",
+      "title": "Meta contractor fires 1,100 AI trainers after they revealed Ray-Ban glasses recorded private and intimate footage",
+      "link": "https://www.reddit.com/r/technology/comments/1t0r5t5/meta_contractor_fires_1100_ai_trainers_after_they/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1t0r5t5/meta_contractor_fires_1100_ai_trainers_after_they/\"> <img alt=\"Meta contractor fires 1,100 AI trainers after they reveale...",
+      "published": "2026-05-01T11:49:13+00:00",
       "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The New York Childrens Online Safety Act will ban anyone under 18 from chatting online.",
-      "link": "https://www.reddit.com/r/technology/comments/1t0bqne/the_new_york_childrens_online_safety_act_will_ban/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1t0bqne/the_new_york_childrens_online_safety_act_will_ban/\"> <img alt=\"The New York Childrens Online Safety Act will ban anyone u...",
-      "published": "2026-04-30T22:54:09+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "PyTorch Lightning and Intercom-client Hit in Supply Chain Attacks to Steal Credentials",
-      "link": "https://thehackernews.com/2026/04/pytorch-lightning-compromised-in-pypi.html",
-      "summary": "In yet another software supply chain attack, threat actors have managed to compromise the popular Python package Lightning to push two malicious versions to conduct credential theft.\nAccording to Aiki...",
-      "published": "2026-04-30T22:01:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "ThreatsDay Bulletin: SMS Blaster Busts, OpenEMR Flaws, 600K Roblox Hacks and 25 More Stories",
-      "link": "https://thehackernews.com/2026/04/threatsday-bulletin-sms-blaster-busts.html",
-      "summary": "The internet is noisy this week. We are seeing some wild new tactics, like people using fake cell towers to send scam texts, while some developers are accidentally downloading tools that peek into the...",
-      "published": "2026-04-30T19:25:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "New Python Backdoor Uses Tunneling Service to Steal Browser and Cloud Credentials",
-      "link": "https://thehackernews.com/2026/04/new-python-backdoor-uses-tunneling.html",
-      "summary": "Cybersecurity researchers have disclosed details of a stealthy Python-based backdoor framework called DEEP#DOOR that comes with capabilities to establish persistent access and harvest a wide range of ...",
-      "published": "2026-04-30T18:06:00+05:30",
-      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -493,10 +487,90 @@
   ],
   "all_articles": [
     {
-      "title": "git-sync",
-      "link": "https://github.com/entireio/git-sync",
-      "summary": "<p>Article URL: <a href=\"https://github.com/entireio/git-sync\">https://github.com/entireio/git-sync</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47972313\">https://news.ycombi...",
-      "published": "2026-05-01T08:02:14+00:00",
+      "title": "Top Five Sales Challenges Costing MSPs Cybersecurity Revenue",
+      "link": "https://thehackernews.com/2026/05/top-five-sales-challenges-costing-msps.html",
+      "summary": "The managed security services market is projected to grow from $38.31 billion in 2025 to $69.16 billion by 2030[1], with cybersecurity being the fastest-growing sector[2]. Despite this opportunity, ma...",
+      "published": "2026-05-01T16:00:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Two Cybersecurity Professionals Get 4-Year Sentences in BlackCat Ransomware Attacks",
+      "link": "https://thehackernews.com/2026/05/two-cybersecurity-professionals-get-4.html",
+      "summary": "The U.S. Department of Justice (DoJ) on Thursday announced the sentencing of two cybersecurity professionals to four years each in prison for their role in facilitating BlackCat ransomware attacks in ...",
+      "published": "2026-05-01T15:26:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Poisoned Ruby Gems and Go Modules Exploit CI Pipelines for Credential Theft",
+      "link": "https://thehackernews.com/2026/05/poisoned-ruby-gems-and-go-modules.html",
+      "summary": "A new software supply chain attack campaign has been observed using sleeper packages as a conduit to subsequently push malicious payloads that enabled credential theft, GitHub Actions tampering, and S...",
+      "published": "2026-05-01T15:13:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Social Media is now Parasocial Media",
+      "link": "https://journals.sagepub.com/doi/10.1177/20563051261437487",
+      "summary": "<p>Article URL: <a href=\"https://journals.sagepub.com/doi/10.1177/20563051261437487\">https://journals.sagepub.com/doi/10.1177/20563051261437487</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinat...",
+      "published": "2026-05-01T13:18:54+00:00",
+      "domain": "journals.sagepub.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Top AI Companies Agree to Pentagon Deals for Classified Work",
+      "link": "https://www.wsj.com/tech/ai/top-ai-companies-agree-to-pentagon-deals-for-classified-work-9c621e78",
+      "summary": "<p>Article URL: <a href=\"https://www.wsj.com/tech/ai/top-ai-companies-agree-to-pentagon-deals-for-classified-work-9c621e78\">https://www.wsj.com/tech/ai/top-ai-companies-agree-to-pentagon-deals-for-cla...",
+      "published": "2026-05-01T13:17:47+00:00",
+      "domain": "wsj.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Gh-relay:share a readonly browser view of your private repo via a temporary URL",
+      "link": "https://github.com/soub4i/gh-relay",
+      "summary": "<p>Article URL: <a href=\"https://github.com/soub4i/gh-relay\">https://github.com/soub4i/gh-relay</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47974464\">https://news.ycombinato...",
+      "published": "2026-05-01T13:16:21+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -509,11 +583,11 @@
       }
     },
     {
-      "title": "Top Storyblok CMS Migration Companies to Choose From",
-      "link": "https://focusreactive.com/blog/storyblok-cms-migration-companies/",
-      "summary": "<p>Article URL: <a href=\"https://focusreactive.com/blog/storyblok-cms-migration-companies/\">https://focusreactive.com/blog/storyblok-cms-migration-companies/</a></p>\n<p>Comments URL: <a href=\"https://...",
-      "published": "2026-05-01T08:01:36+00:00",
-      "domain": "focusreactive.com",
+      "title": "Show HN: Secure-by-default Ollama Docker image with built-in auth, only 70MB",
+      "link": "https://github.com/hwdsl2/docker-ollama",
+      "summary": "<p>Article URL: <a href=\"https://github.com/hwdsl2/docker-ollama\">https://github.com/hwdsl2/docker-ollama</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47974454\">https://news....",
+      "published": "2026-05-01T13:15:22+00:00",
+      "domain": "github.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -525,29 +599,11 @@
       }
     },
     {
-      "title": "Claude Code Source Code Breakdown",
-      "link": "https://kuber.studio/blog/AI/Claude-Code%27s-Entire-Source-Code-Got-Leaked-via-a-Sourcemap-in-npm,-Let%27s-Talk-About-it",
-      "summary": "<p>Article URL: <a href=\"https://kuber.studio/blog/AI/Claude-Code%27s-Entire-Source-Code-Got-Leaked-via-a-Sourcemap-in-npm,-Let%27s-Talk-About-it\">https://kuber.studio/blog/AI/Claude-Code%27s-Entire-S...",
-      "published": "2026-05-01T07:53:08+00:00",
-      "domain": "kuber.studio",
-      "scores": {
-        "chaos": 14.4,
-        "anarchy": 3.0,
-        "overall": 8.7
-      },
-      "keywords": {
-        "chaos": [
-          "breakdown"
-        ],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Vibe Maintainer",
-      "link": "https://steve-yegge.medium.com/vibe-maintainer-a2273a841040",
-      "summary": "<p>Article URL: <a href=\"https://steve-yegge.medium.com/vibe-maintainer-a2273a841040\">https://steve-yegge.medium.com/vibe-maintainer-a2273a841040</a></p>\n<p>Comments URL: <a href=\"https://news.ycombin...",
-      "published": "2026-05-01T07:49:53+00:00",
-      "domain": "steve-yegge.medium.com",
+      "title": "Microtonal Sid Music? Angine de Poitrine Bassline in C64 Basic [video]",
+      "link": "https://www.youtube.com/watch?v=5bZKlIbSB_c",
+      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=5bZKlIbSB_c\">https://www.youtube.com/watch?v=5bZKlIbSB_c</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47974450\">https...",
+      "published": "2026-05-01T13:15:05+00:00",
+      "domain": "youtube.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -559,11 +615,11 @@
       }
     },
     {
-      "title": "Oscar goes missing after Academy Award winner is blocked from taking on flight",
-      "link": "https://www.bbc.com/news/articles/cz72j59znw3o",
-      "summary": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/cz72j59znw3o\">https://www.bbc.com/news/articles/cz72j59znw3o</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47972222\"...",
-      "published": "2026-05-01T07:45:34+00:00",
-      "domain": "bbc.com",
+      "title": "Running Adobe's 1991 PostScript Interpreter in the Browser",
+      "link": "https://www.pagetable.com/?p=1854",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47973755\">Comments</a>...",
+      "published": "2026-05-01T11:58:11+00:00",
+      "domain": "pagetable.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -575,75 +631,11 @@
       }
     },
     {
-      "title": "Mark Zuckerberg Says AI Costs Contributed To Layoffs Of 8,000 Staffers, Report Says",
-      "link": "https://www.reddit.com/r/technology/comments/1t0chdh/mark_zuckerberg_says_ai_costs_contributed_to/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1t0chdh/mark_zuckerberg_says_ai_costs_contributed_to/\"> <img alt=\"Mark Zuckerberg Says AI Costs Contributed To Layoffs Of 8,000 S...",
-      "published": "2026-04-30T23:25:38+00:00",
+      "title": "Meta contractor fires 1,100 AI trainers after they revealed Ray-Ban glasses recorded private and intimate footage",
+      "link": "https://www.reddit.com/r/technology/comments/1t0r5t5/meta_contractor_fires_1100_ai_trainers_after_they/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1t0r5t5/meta_contractor_fires_1100_ai_trainers_after_they/\"> <img alt=\"Meta contractor fires 1,100 AI trainers after they reveale...",
+      "published": "2026-05-01T11:49:13+00:00",
       "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The New York Childrens Online Safety Act will ban anyone under 18 from chatting online.",
-      "link": "https://www.reddit.com/r/technology/comments/1t0bqne/the_new_york_childrens_online_safety_act_will_ban/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1t0bqne/the_new_york_childrens_online_safety_act_will_ban/\"> <img alt=\"The New York Childrens Online Safety Act will ban anyone u...",
-      "published": "2026-04-30T22:54:09+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "PyTorch Lightning and Intercom-client Hit in Supply Chain Attacks to Steal Credentials",
-      "link": "https://thehackernews.com/2026/04/pytorch-lightning-compromised-in-pypi.html",
-      "summary": "In yet another software supply chain attack, threat actors have managed to compromise the popular Python package Lightning to push two malicious versions to conduct credential theft.\nAccording to Aiki...",
-      "published": "2026-04-30T22:01:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "ThreatsDay Bulletin: SMS Blaster Busts, OpenEMR Flaws, 600K Roblox Hacks and 25 More Stories",
-      "link": "https://thehackernews.com/2026/04/threatsday-bulletin-sms-blaster-busts.html",
-      "summary": "The internet is noisy this week. We are seeing some wild new tactics, like people using fake cell towers to send scam texts, while some developers are accidentally downloading tools that peek into the...",
-      "published": "2026-04-30T19:25:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "New Python Backdoor Uses Tunneling Service to Steal Browser and Cloud Credentials",
-      "link": "https://thehackernews.com/2026/04/new-python-backdoor-uses-tunneling.html",
-      "summary": "Cybersecurity researchers have disclosed details of a stealthy Python-based backdoor framework called DEEP#DOOR that comes with capabilities to establish persistent access and harvest a wide range of ...",
-      "published": "2026-04-30T18:06:00+05:30",
-      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
