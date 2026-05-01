@@ -16,15 +16,18 @@
 
 ## 🚨 Tech Stories
 
-### PyTorch Lightning and Intercom-client Hit in Supply Chain Attacks to Steal Credentials
-- **Published**: April 30, 2026
-- **Summary**: In yet another software supply chain attack, threat actors have managed to compromise the popular Python package Lightning to push two malicious versi...
-- [Read more](https://thehackernews.com/2026/04/pytorch-lightning-compromised-in-pypi.html)
+### Find and fix any Windows error
+- **Published**: May 01, 2026
+- **Summary**: https://errorcodereference.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47970897">https://news.ycombinator.com/......
+- **Keywords**: error
+- [Read more](https://errorcodereference.com/)
 
-### ThreatsDay Bulletin: SMS Blaster Busts, OpenEMR Flaws, 600K Roblox Hacks and 25 More Stories
-- **Published**: April 30, 2026
-- **Summary**: The internet is noisy this week. We are seeing some wild new tactics, like people using fake cell towers to send scam texts, while some developers are...
-- [Read more](https://thehackernews.com/2026/04/threatsday-bulletin-sms-blaster-busts.html)
+### America's New Surveillance Dragnet
+- **Published**: May 01, 2026
+- **Summary**: https://www.wsj.com/politics/policy/immigration-ice-arrests-surveillance-6f1cef64</a></p>
+<p......
+- [Read more](https://www.wsj.com/politics/policy/immigration-ice-arrests-surveillance-6f1cef64)
 
 ---
 
