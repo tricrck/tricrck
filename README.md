@@ -16,18 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Find and fix any Windows error
+### Claude Code Source Code Breakdown
 - **Published**: May 01, 2026
-- **Summary**: https://errorcodereference.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47970897">https://news.ycombinator.com/......
-- **Keywords**: error
-- [Read more](https://errorcodereference.com/)
+- **Summary**: https://kuber.studio/blog/AI/Claude-Code%27s-Entire-S......
+- **Keywords**: breakdown
+- [Read more](https://kuber.studio/blog/AI/Claude-Code%27s-Entire-Source-Code-Got-Leaked-via-a-Sourcemap-in-npm,-Let%27s-Talk-About-it)
 
-### America's New Surveillance Dragnet
+### git-sync
 - **Published**: May 01, 2026
-- **Summary**: https://www.wsj.com/politics/policy/immigration-ice-arrests-surveillance-6f1cef64</a></p>
-<p......
-- [Read more](https://www.wsj.com/politics/policy/immigration-ice-arrests-surveillance-6f1cef64)
+- **Summary**: https://github.com/entireio/git-sync</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47972313">https://news.ycombi......
+- [Read more](https://github.com/entireio/git-sync)
 
 ---
 
