@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Top Five Sales Challenges Costing MSPs Cybersecurity Revenue
+### Cybercrime Groups Using Vishing and SSO Abuse in Rapid SaaS Extortion Attacks
 - **Published**: May 01, 2026
-- **Summary**: The managed security services market is projected to grow from $38.31 billion in 2025 to $69.16 billion by 2030[1], with cybersecurity being the faste...
-- [Read more](https://thehackernews.com/2026/05/top-five-sales-challenges-costing-msps.html)
+- **Summary**: Cybersecurity researchers are warning of two cybercrime groups that are carrying out "rapid, high-impact attacks" operating almost within the confines...
+- [Read more](https://thehackernews.com/2026/05/cybercrime-groups-using-vishing-and-sso.html)
 
-### Two Cybersecurity Professionals Get 4-Year Sentences in BlackCat Ransomware Attacks
+### China-Linked Hackers Target Asian Governments, NATO State, Journalists, and Activists
 - **Published**: May 01, 2026
-- **Summary**: The U.S. Department of Justice (DoJ) on Thursday announced the sentencing of two cybersecurity professionals to four years each in prison for their ro...
-- [Read more](https://thehackernews.com/2026/05/two-cybersecurity-professionals-get-4.html)
+- **Summary**: Cybersecurity researchers have disclosed details of a new China-aligned espionage campaign targeting government and defense sectors across South, East...
+- [Read more](https://thehackernews.com/2026/05/china-linked-hackers-target-asian.html)
 
 ---
 
