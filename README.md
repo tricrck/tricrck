@@ -16,17 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Trellix Confirms Source Code Breach With Unauthorized Repository Access
+### Why is Britain putting America First?
 - **Published**: May 02, 2026
-- **Summary**: Cybersecurity company Trellix has announced that it suffered a breach that enabled unauthorized access to a "portion" of its source code.
-It said it "...
-- [Read more](https://thehackernews.com/2026/05/trellix-confirms-source-code-breach.html)
+- **Summary**: https://vulpesetleo.substack.com/p/what-has-palantir-ever-done-for-us</a></p>
+<p>Comments URL: <a href="......
+- [Read more](https://vulpesetleo.substack.com/p/what-has-palantir-ever-done-for-us)
 
-### Show HN: Glacier – A zero-config macOS terminal I vibecoded in Rust
+### What predicts Show HN front page success? I analyzed 73k recent ShowHN posts
 - **Published**: May 02, 2026
-- **Summary**: https://github.com/pranjolm/glacier-terminal</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47984196">htt......
-- [Read more](https://github.com/pranjolm/glacier-terminal)
+- **Summary**: https://wannalaunch.com/blog/show-hn-what-the-data-says</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com......
+- [Read more](https://wannalaunch.com/blog/show-hn-what-the-data-says)
 
 ---
 
