@@ -16,17 +16,18 @@
 
 ## 🚨 Tech Stories
 
-### Why is Britain putting America First?
+### Ask.com shuts down after nearly 30 years, marking the end of Ask Jeeves
 - **Published**: May 02, 2026
-- **Summary**: https://vulpesetleo.substack.com/p/what-has-palantir-ever-done-for-us</a></p>
-<p>Comments URL: <a href="......
-- [Read more](https://vulpesetleo.substack.com/p/what-has-palantir-ever-done-for-us)
+- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1t1v6h1/askcom_shuts_down_after_nearly_30_years_marking/"> <img alt="Ask.com shuts down aft...
+- **Keywords**: down, down
+- [Read more](https://www.reddit.com/r/technology/comments/1t1v6h1/askcom_shuts_down_after_nearly_30_years_marking/)
 
-### What predicts Show HN front page success? I analyzed 73k recent ShowHN posts
+### Ask HN: How long do you commute by car each day?
 - **Published**: May 02, 2026
-- **Summary**: https://wannalaunch.com/blog/show-hn-what-the-data-says</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com......
-- [Read more](https://wannalaunch.com/blog/show-hn-what-the-data-says)
+- **Summary**: https://news.ycombinator.com/item?id=47989285</a></p>
+<p>Points: 1</p>
+<p># Comments: 0</p>......
+- [Read more](https://news.ycombinator.com/item?id=47989285)
 
 ---
 
