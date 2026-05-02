@@ -16,16 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Internet Classism: How We Know You're Poor and Lame Online
+### Trellix Confirms Source Code Breach With Unauthorized Repository Access
 - **Published**: May 02, 2026
-- **Summary**: https://braunandbrains.substack.com/p/internet-classism-how-we-know-youre</a></p>
-<p>Comments URL: <......
-- [Read more](https://braunandbrains.substack.com/p/internet-classism-how-we-know-youre)
+- **Summary**: Cybersecurity company Trellix has announced that it suffered a breach that enabled unauthorized access to a "portion" of its source code.
+It said it "...
+- [Read more](https://thehackernews.com/2026/05/trellix-confirms-source-code-breach.html)
 
-### When hard drives were still huge: The Quantum Bigfoot turns 30
+### Show HN: Glacier – A zero-config macOS terminal I vibecoded in Rust
 - **Published**: May 02, 2026
-- **Summary**: https://www.heise.de/en/news/When-hard-drives-were-still-huge-The-Qua......
-- [Read more](https://www.heise.de/en/news/When-hard-drives-were-still-huge-The-Quantum-Bigfoot-turns-30-11279111.html)
+- **Summary**: https://github.com/pranjolm/glacier-terminal</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47984196">htt......
+- [Read more](https://github.com/pranjolm/glacier-terminal)
 
 ---
 
