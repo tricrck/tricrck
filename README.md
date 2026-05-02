@@ -16,15 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Cybercrime Groups Using Vishing and SSO Abuse in Rapid SaaS Extortion Attacks
-- **Published**: May 01, 2026
-- **Summary**: Cybersecurity researchers are warning of two cybercrime groups that are carrying out "rapid, high-impact attacks" operating almost within the confines...
-- [Read more](https://thehackernews.com/2026/05/cybercrime-groups-using-vishing-and-sso.html)
+### Internet Classism: How We Know You're Poor and Lame Online
+- **Published**: May 02, 2026
+- **Summary**: https://braunandbrains.substack.com/p/internet-classism-how-we-know-youre</a></p>
+<p>Comments URL: <......
+- [Read more](https://braunandbrains.substack.com/p/internet-classism-how-we-know-youre)
 
-### China-Linked Hackers Target Asian Governments, NATO State, Journalists, and Activists
-- **Published**: May 01, 2026
-- **Summary**: Cybersecurity researchers have disclosed details of a new China-aligned espionage campaign targeting government and defense sectors across South, East...
-- [Read more](https://thehackernews.com/2026/05/china-linked-hackers-target-asian.html)
+### When hard drives were still huge: The Quantum Bigfoot turns 30
+- **Published**: May 02, 2026
+- **Summary**: https://www.heise.de/en/news/When-hard-drives-were-still-huge-The-Qua......
+- [Read more](https://www.heise.de/en/news/When-hard-drives-were-still-huge-The-Quantum-Bigfoot-turns-30-11279111.html)
 
 ---
 
