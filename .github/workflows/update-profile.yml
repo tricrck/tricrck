@@ -32,7 +32,7 @@ jobs:
           
       - name: 🔮 Scrape GitHub necromancy
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GIT_TOKEN }}
           GITHUB_USERNAME: ${{ github.repository_owner }}
         run: |
           python scripts/github_scrapper.py
