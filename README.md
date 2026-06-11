@@ -16,15 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### OceanLotus Hits Vietnam Investors With SPECTRALVIPER in FireAnt Attack
+### Cybersecurity Stars Awards 2026: Winners Announced Across 95 Categories
 - **Published**: June 11, 2026
-- **Summary**: The Vietnam-aligned threat actor known as OceanLotus has been attributed to two distinct campaigns that targeted domestic entities and stock investors...
-- [Read more](https://thehackernews.com/2026/06/oceanlotus-hits-vietnam-investors-with.html)
+- **Summary**: Most good security work is invisible by design. Today is the exception.
 
-### GitHub to Disable npm Install Scripts by Default to Stop Supply Chain Attacks
+The 2026 Cybersecurity Stars Awards winners are announced across 95 subcatego...
+- [Read more](https://thehackernews.com/2026/06/cybersecurity-stars-awards-2026-winners.html)
+
+### ThreatsDay Bulletin: Worm Code Leaked, AI Agent Phished, Claude Action Patch + 28 New Stories
 - **Published**: June 11, 2026
-- **Summary**: GitHub has announced what it said are "breaking changes" coming to npm version 12, one of which turns off install scripts by default to combat softwar...
-- [Read more](https://thehackernews.com/2026/06/github-to-disable-npm-install-scripts.html)
+- **Summary**: It's been one of those weeks. You expect the usual noise: recycled malware, sloppy attacks, another easy target getting hit. Instead, there's a supply...
+- [Read more](https://thehackernews.com/2026/06/threatsday-bulletin-worm-code-leaked-ai.html)
 
 ---
 
