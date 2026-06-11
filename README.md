@@ -16,17 +16,15 @@
 
 ## 🚨 Tech Stories
 
+### OceanLotus Hits Vietnam Investors With SPECTRALVIPER in FireAnt Attack
+- **Published**: June 11, 2026
+- **Summary**: The Vietnam-aligned threat actor known as OceanLotus has been attributed to two distinct campaigns that targeted domestic entities and stock investors...
+- [Read more](https://thehackernews.com/2026/06/oceanlotus-hits-vietnam-investors-with.html)
+
 ### GitHub to Disable npm Install Scripts by Default to Stop Supply Chain Attacks
 - **Published**: June 11, 2026
 - **Summary**: GitHub has announced what it said are "breaking changes" coming to npm version 12, one of which turns off install scripts by default to combat softwar...
 - [Read more](https://thehackernews.com/2026/06/github-to-disable-npm-install-scripts.html)
-
-### Show HN: Bananagrams Tiles Word Game Online
-- **Published**: June 11, 2026
-- **Summary**: 
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48487579">https://news.ycombinator.com/ite......
-- [Read more](https://www.bananagrams.org)
 
 ---
 
