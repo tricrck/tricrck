@@ -9,7 +9,7 @@ import json
 import requests
 from datetime import datetime, timedelta
 from collections import Counter, defaultdict
-from github import Github
+from github import Github, Auth
 import sys
 
 class GitHubNecromancer:
@@ -21,7 +21,8 @@ class GitHubNecromancer:
             print("⚠️ No GITHUB_TOKEN found, using limited public API")
             self.gh = Github()
         else:
-            self.gh = Github(self.token)
+            # ✅ Fixed: use Auth.Token() instead of deprecated positional arg
+            self.gh = Github(auth=Auth.Token(self.token))
         
         self.user = self.gh.get_user(self.username)
         self.data_dir = 'data'
