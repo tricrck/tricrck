@@ -16,16 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Meta Expands WhatsApp Security Research with New Proxy Tool and $4M in Bounties This Year
-- **Published**: November 18, 2025
-- **Summary**: Meta on Tuesday said it has made available a tool called WhatsApp Research Proxy to some of its long-time bug bounty researchers to help improve the p...
-- **Keywords**: bug
-- [Read more](https://thehackernews.com/2025/11/meta-expands-whatsapp-security-research.html)
+### GitHub to Disable npm Install Scripts by Default to Stop Supply Chain Attacks
+- **Published**: June 11, 2026
+- **Summary**: GitHub has announced what it said are "breaking changes" coming to npm version 12, one of which turns off install scripts by default to combat softwar...
+- [Read more](https://thehackernews.com/2026/06/github-to-disable-npm-install-scripts.html)
 
-### Sneaky 2FA Phishing Kit Adds BitB Pop-ups Designed to Mimic the Browser Address Bar
-- **Published**: November 19, 2025
-- **Summary**: The malware authors associated with a Phishing-as-a-Service (PhaaS) kit known as Sneaky 2FA have incorporated Browser-in-the-Browser (BitB) functional...
-- [Read more](https://thehackernews.com/2025/11/sneaky-2fa-phishing-kit-adds-bitb-pop.html)
+### Show HN: Bananagrams Tiles Word Game Online
+- **Published**: June 11, 2026
+- **Summary**: 
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48487579">https://news.ycombinator.com/ite......
+- [Read more](https://www.bananagrams.org)
 
 ---
 

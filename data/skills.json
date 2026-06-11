@@ -1,33 +1,33 @@
 {
-  "last_updated": "2025-11-19T01:05:37.051186",
+  "last_updated": "2026-06-11T08:00:52.308979",
   "immortal_cultivator": {
     "dao_name": "tricrck",
-    "cultivation_level": 12,
-    "realm": "\u26a1 3rd Foundation Establishment",
-    "total_qi": 113712,
+    "cultivation_level": 13,
+    "realm": "\u26a1 4th Foundation Establishment",
+    "total_qi": 115797,
     "spiritual_root": "\ud83d\udc8e Divine Chaos Root (All Elements)",
     "karmic_merit": "\ud83c\udf1f Accumulating Merit"
   },
   "immortal_stats": {
-    "total_qi": 113712,
-    "immortal_level": 12,
-    "average_dao_level": 1.9,
+    "total_qi": 115797,
+    "immortal_level": 13,
+    "average_dao_level": 2.1,
     "strongest_dao_level": 12,
-    "total_dao_paths": 19,
+    "total_dao_paths": 21,
     "cultivation_realm": "\u26a1 Foundation Establishment",
-    "realm_stage": "3rd",
-    "full_title": "\u26a1 3rd Foundation Establishment",
+    "realm_stage": "4th",
+    "full_title": "\u26a1 4th Foundation Establishment",
     "spiritual_root": "\ud83d\udc8e Divine Chaos Root (All Elements)",
     "tribulation": null,
-    "cultivation_progress": "[\u2588\u2588\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591] 12/99"
+    "cultivation_progress": "[\u2588\u2588\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591] 13/99"
   },
   "dao_paths": {
     "HTML": {
-      "qi": 110352,
+      "qi": 111138,
       "level": 12,
       "next_breakthrough_qi": 115683,
-      "mastery_percentage": 97.0,
-      "dao_projects": 12,
+      "mastery_percentage": 96.0,
+      "dao_projects": 14,
       "realm": "\u26a1 Foundation Establishment",
       "stage": "3rd",
       "full_title": "\u26a1 3rd Foundation Establishment",
@@ -36,17 +36,43 @@
       "cultivation_progress": "[\u2588\u2588\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591] 12/99"
     },
     "JavaScript": {
-      "qi": 2360,
+      "qi": 2197,
       "level": 6,
       "next_breakthrough_qi": 3401,
-      "mastery_percentage": 2.1,
-      "dao_projects": 9,
+      "mastery_percentage": 1.9,
+      "dao_projects": 11,
       "realm": "\ud83c\udf31 Qi Condensation",
       "stage": "6th",
       "full_title": "\ud83c\udf31 6th Qi Condensation",
       "dao_comprehension": "\ud83c\udf31 Initial Contact",
       "tribulation": null,
       "cultivation_progress": "[\u2588\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591] 6/99"
+    },
+    "TypeScript": {
+      "qi": 825,
+      "level": 4,
+      "next_breakthrough_qi": 1049,
+      "mastery_percentage": 0.7,
+      "dao_projects": 7,
+      "realm": "\ud83c\udf31 Qi Condensation",
+      "stage": "4th",
+      "full_title": "\ud83c\udf31 4th Qi Condensation",
+      "dao_comprehension": "\ud83c\udf31 Initial Contact",
+      "tribulation": null,
+      "cultivation_progress": "[\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591] 4/99"
+    },
+    "Python": {
+      "qi": 518,
+      "level": 3,
+      "next_breakthrough_qi": 583,
+      "mastery_percentage": 0.4,
+      "dao_projects": 11,
+      "realm": "\ud83c\udf31 Qi Condensation",
+      "stage": "3rd",
+      "full_title": "\ud83c\udf31 3rd Qi Condensation",
+      "dao_comprehension": "\ud83c\udf31 Initial Contact",
+      "tribulation": null,
+      "cultivation_progress": "[\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591] 3/99"
     },
     "C#": {
       "qi": 466,
@@ -61,12 +87,25 @@
       "tribulation": null,
       "cultivation_progress": "[\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591] 3/99"
     },
-    "Python": {
-      "qi": 113,
+    "Vue": {
+      "qi": 172,
       "level": 1,
       "next_breakthrough_qi": 180,
       "mastery_percentage": 0.1,
-      "dao_projects": 8,
+      "dao_projects": 3,
+      "realm": "\ud83c\udf31 Qi Condensation",
+      "stage": "1st",
+      "full_title": "\ud83c\udf31 1st Qi Condensation",
+      "dao_comprehension": "\ud83c\udf31 Initial Contact",
+      "tribulation": null,
+      "cultivation_progress": "[\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591] 1/99"
+    },
+    "CSS": {
+      "qi": 107,
+      "level": 1,
+      "next_breakthrough_qi": 180,
+      "mastery_percentage": 0.1,
+      "dao_projects": 13,
       "realm": "\ud83c\udf31 Qi Condensation",
       "stage": "1st",
       "full_title": "\ud83c\udf31 1st Qi Condensation",
@@ -93,19 +132,6 @@
       "next_breakthrough_qi": 180,
       "mastery_percentage": 0.1,
       "dao_projects": 1,
-      "realm": "\ud83c\udf31 Qi Condensation",
-      "stage": "1st",
-      "full_title": "\ud83c\udf31 1st Qi Condensation",
-      "dao_comprehension": "\ud83c\udf31 Initial Contact",
-      "tribulation": null,
-      "cultivation_progress": "[\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591] 1/99"
-    },
-    "CSS": {
-      "qi": 55,
-      "level": 1,
-      "next_breakthrough_qi": 180,
-      "mastery_percentage": 0.0,
-      "dao_projects": 9,
       "realm": "\ud83c\udf31 Qi Condensation",
       "stage": "1st",
       "full_title": "\ud83c\udf31 1st Qi Condensation",
@@ -165,12 +191,12 @@
       "tribulation": null,
       "cultivation_progress": "[\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591] 1/99"
     },
-    "Vue": {
-      "qi": 10,
+    "PLpgSQL": {
+      "qi": 18,
       "level": 1,
       "next_breakthrough_qi": 180,
       "mastery_percentage": 0.0,
-      "dao_projects": 1,
+      "dao_projects": 2,
       "realm": "\ud83c\udf31 Qi Condensation",
       "stage": "1st",
       "full_title": "\ud83c\udf31 1st Qi Condensation",
@@ -230,12 +256,12 @@
       "tribulation": null,
       "cultivation_progress": "[\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591] 1/99"
     },
-    "TypeScript": {
+    "Dockerfile": {
       "qi": 0,
       "level": 1,
       "next_breakthrough_qi": 180,
       "mastery_percentage": 0.0,
-      "dao_projects": 2,
+      "dao_projects": 1,
       "realm": "\ud83c\udf31 Qi Condensation",
       "stage": "1st",
       "full_title": "\ud83c\udf31 1st Qi Condensation",
@@ -243,7 +269,7 @@
       "tribulation": null,
       "cultivation_progress": "[\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591] 1/99"
     },
-    "Dockerfile": {
+    "Mako": {
       "qi": 0,
       "level": 1,
       "next_breakthrough_qi": 180,
@@ -276,17 +302,43 @@
       "element": "Yang - Aggressive & Powerful",
       "paths": {
         "JavaScript": {
-          "qi": 2360,
+          "qi": 2197,
           "level": 6,
           "next_breakthrough_qi": 3401,
-          "mastery_percentage": 2.1,
-          "dao_projects": 9,
+          "mastery_percentage": 1.9,
+          "dao_projects": 11,
           "realm": "\ud83c\udf31 Qi Condensation",
           "stage": "6th",
           "full_title": "\ud83c\udf31 6th Qi Condensation",
           "dao_comprehension": "\ud83c\udf31 Initial Contact",
           "tribulation": null,
           "cultivation_progress": "[\u2588\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591] 6/99"
+        },
+        "TypeScript": {
+          "qi": 825,
+          "level": 4,
+          "next_breakthrough_qi": 1049,
+          "mastery_percentage": 0.7,
+          "dao_projects": 7,
+          "realm": "\ud83c\udf31 Qi Condensation",
+          "stage": "4th",
+          "full_title": "\ud83c\udf31 4th Qi Condensation",
+          "dao_comprehension": "\ud83c\udf31 Initial Contact",
+          "tribulation": null,
+          "cultivation_progress": "[\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591] 4/99"
+        },
+        "Python": {
+          "qi": 518,
+          "level": 3,
+          "next_breakthrough_qi": 583,
+          "mastery_percentage": 0.4,
+          "dao_projects": 11,
+          "realm": "\ud83c\udf31 Qi Condensation",
+          "stage": "3rd",
+          "full_title": "\ud83c\udf31 3rd Qi Condensation",
+          "dao_comprehension": "\ud83c\udf31 Initial Contact",
+          "tribulation": null,
+          "cultivation_progress": "[\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591] 3/99"
         },
         "C#": {
           "qi": 466,
@@ -300,19 +352,6 @@
           "dao_comprehension": "\ud83c\udf31 Initial Contact",
           "tribulation": null,
           "cultivation_progress": "[\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591] 3/99"
-        },
-        "Python": {
-          "qi": 113,
-          "level": 1,
-          "next_breakthrough_qi": 180,
-          "mastery_percentage": 0.1,
-          "dao_projects": 8,
-          "realm": "\ud83c\udf31 Qi Condensation",
-          "stage": "1st",
-          "full_title": "\ud83c\udf31 1st Qi Condensation",
-          "dao_comprehension": "\ud83c\udf31 Initial Contact",
-          "tribulation": null,
-          "cultivation_progress": "[\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591] 1/99"
         },
         "POV-Ray SDL": {
           "qi": 85,
@@ -346,6 +385,19 @@
           "next_breakthrough_qi": 180,
           "mastery_percentage": 0.0,
           "dao_projects": 1,
+          "realm": "\ud83c\udf31 Qi Condensation",
+          "stage": "1st",
+          "full_title": "\ud83c\udf31 1st Qi Condensation",
+          "dao_comprehension": "\ud83c\udf31 Initial Contact",
+          "tribulation": null,
+          "cultivation_progress": "[\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591] 1/99"
+        },
+        "PLpgSQL": {
+          "qi": 18,
+          "level": 1,
+          "next_breakthrough_qi": 180,
+          "mastery_percentage": 0.0,
+          "dao_projects": 2,
           "realm": "\ud83c\udf31 Qi Condensation",
           "stage": "1st",
           "full_title": "\ud83c\udf31 1st Qi Condensation",
@@ -392,12 +444,12 @@
           "tribulation": null,
           "cultivation_progress": "[\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591] 1/99"
         },
-        "TypeScript": {
+        "Mako": {
           "qi": 0,
           "level": 1,
           "next_breakthrough_qi": 180,
           "mastery_percentage": 0.0,
-          "dao_projects": 2,
+          "dao_projects": 1,
           "realm": "\ud83c\udf31 Qi Condensation",
           "stage": "1st",
           "full_title": "\ud83c\udf31 1st Qi Condensation",
@@ -425,11 +477,11 @@
       "element": "Yin - Elegant & Flowing",
       "paths": {
         "HTML": {
-          "qi": 110352,
+          "qi": 111138,
           "level": 12,
           "next_breakthrough_qi": 115683,
-          "mastery_percentage": 97.0,
-          "dao_projects": 12,
+          "mastery_percentage": 96.0,
+          "dao_projects": 14,
           "realm": "\u26a1 Foundation Establishment",
           "stage": "3rd",
           "full_title": "\u26a1 3rd Foundation Establishment",
@@ -437,12 +489,25 @@
           "tribulation": null,
           "cultivation_progress": "[\u2588\u2588\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591] 12/99"
         },
-        "CSS": {
-          "qi": 55,
+        "Vue": {
+          "qi": 172,
           "level": 1,
           "next_breakthrough_qi": 180,
-          "mastery_percentage": 0.0,
-          "dao_projects": 9,
+          "mastery_percentage": 0.1,
+          "dao_projects": 3,
+          "realm": "\ud83c\udf31 Qi Condensation",
+          "stage": "1st",
+          "full_title": "\ud83c\udf31 1st Qi Condensation",
+          "dao_comprehension": "\ud83c\udf31 Initial Contact",
+          "tribulation": null,
+          "cultivation_progress": "[\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591] 1/99"
+        },
+        "CSS": {
+          "qi": 107,
+          "level": 1,
+          "next_breakthrough_qi": 180,
+          "mastery_percentage": 0.1,
+          "dao_projects": 13,
           "realm": "\ud83c\udf31 Qi Condensation",
           "stage": "1st",
           "full_title": "\ud83c\udf31 1st Qi Condensation",
@@ -452,19 +517,6 @@
         },
         "SCSS": {
           "qi": 32,
-          "level": 1,
-          "next_breakthrough_qi": 180,
-          "mastery_percentage": 0.0,
-          "dao_projects": 1,
-          "realm": "\ud83c\udf31 Qi Condensation",
-          "stage": "1st",
-          "full_title": "\ud83c\udf31 1st Qi Condensation",
-          "dao_comprehension": "\ud83c\udf31 Initial Contact",
-          "tribulation": null,
-          "cultivation_progress": "[\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591] 1/99"
-        },
-        "Vue": {
-          "qi": 10,
           "level": 1,
           "next_breakthrough_qi": 180,
           "mastery_percentage": 0.0,
@@ -544,15 +596,15 @@
     }
   },
   "heavenly_records": {
-    "cultivation_streak": 1,
-    "longest_seclusion": 2,
-    "total_enlightenments": 30,
-    "dao_disciples": 1,
-    "created_artifacts": 27,
-    "darkest_cultivation_hour": 9
+    "cultivation_streak": 2,
+    "longest_seclusion": 3,
+    "total_enlightenments": 37,
+    "dao_disciples": 9,
+    "created_artifacts": 33,
+    "darkest_cultivation_hour": 12
   },
   "sect_information": {
-    "total_dao_paths": 19,
+    "total_dao_paths": 21,
     "realm_breakthrough_ready": false,
     "next_tribulation": null
   }
