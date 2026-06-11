@@ -16,17 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Cybersecurity Stars Awards 2026: Winners Announced Across 95 Categories
+### New Attacks Trick OpenClaw AI Agent Into Running Code and Leaking Secrets
 - **Published**: June 11, 2026
-- **Summary**: Most good security work is invisible by design. Today is the exception.
+- **Summary**: Two security teams have shown, in separate research published this week, that OpenClaw, the popular self-hosted AI agent, can be driven to run attacke...
+- [Read more](https://thehackernews.com/2026/06/new-attacks-trick-openclaw-ai-agent.html)
 
-The 2026 Cybersecurity Stars Awards winners are announced across 95 subcatego...
-- [Read more](https://thehackernews.com/2026/06/cybersecurity-stars-awards-2026-winners.html)
-
-### ThreatsDay Bulletin: Worm Code Leaked, AI Agent Phished, Claude Action Patch + 28 New Stories
+### New GreatXML Exploit Bypasses Windows BitLocker via Recovery Partition XML Files
 - **Published**: June 11, 2026
-- **Summary**: It's been one of those weeks. You expect the usual noise: recycled malware, sloppy attacks, another easy target getting hit. Instead, there's a supply...
-- [Read more](https://thehackernews.com/2026/06/threatsday-bulletin-worm-code-leaked-ai.html)
+- **Summary**: Security researcher Chaotic Eclipse (aka Nightmare-Eclipse and MSNightmare) has released a new Windows BitLocker bypass dubbed GreatXML, a day after t...
+- [Read more](https://thehackernews.com/2026/06/new-greatxml-exploit-bypasses-windows.html)
 
 ---
 
