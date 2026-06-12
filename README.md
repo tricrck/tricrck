@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Koalas at risk of death once seven-day temperatures rise beyond 27C
+### INTERPOL Operation Takes Down Sniper Dz Phishing Platform, Arrests Administrator
 - **Published**: June 12, 2026
-- **Summary**: https://www.abc.net.au/news/science/2026-05-27/koala-deaths-linked......
-- [Read more](https://www.abc.net.au/news/science/2026-05-27/koala-deaths-linked-to-a-few-extra-degrees-of-heat/106722276)
+- **Summary**: An INTERPOL-led operation last month resulted in the disruption of Sniper Dz, a decade-long phishing-as-a-service (PhaaS) platform, Group-IB said Thur...
+- **Keywords**: down, disruption
+- [Read more](https://thehackernews.com/2026/06/interpol-takes-down-sniper-dz-phishing.html)
 
-### Linear Coding Sessions
+### LangGraph Flaw Chain Exposes Self-Hosted AI Agents to Remote Code Execution
 - **Published**: June 12, 2026
-- **Summary**: https://linear.app/docs/coding-sessions</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48499743">https://news.......
-- [Read more](https://linear.app/docs/coding-sessions)
+- **Summary**: Cybersecurity researchers have disclosed details of three now-patched security flaws impacting LangGraph, including a critical vulnerability chain tha...
+- [Read more](https://thehackernews.com/2026/06/langgraph-flaw-chain-exposes-self.html)
 
 ---
 
