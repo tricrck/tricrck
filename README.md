@@ -16,15 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### New Attacks Trick OpenClaw AI Agent Into Running Code and Leaking Secrets
-- **Published**: June 11, 2026
-- **Summary**: Two security teams have shown, in separate research published this week, that OpenClaw, the popular self-hosted AI agent, can be driven to run attacke...
-- [Read more](https://thehackernews.com/2026/06/new-attacks-trick-openclaw-ai-agent.html)
+### Koalas at risk of death once seven-day temperatures rise beyond 27C
+- **Published**: June 12, 2026
+- **Summary**: https://www.abc.net.au/news/science/2026-05-27/koala-deaths-linked......
+- [Read more](https://www.abc.net.au/news/science/2026-05-27/koala-deaths-linked-to-a-few-extra-degrees-of-heat/106722276)
 
-### New GreatXML Exploit Bypasses Windows BitLocker via Recovery Partition XML Files
-- **Published**: June 11, 2026
-- **Summary**: Security researcher Chaotic Eclipse (aka Nightmare-Eclipse and MSNightmare) has released a new Windows BitLocker bypass dubbed GreatXML, a day after t...
-- [Read more](https://thehackernews.com/2026/06/new-greatxml-exploit-bypasses-windows.html)
+### Linear Coding Sessions
+- **Published**: June 12, 2026
+- **Summary**: https://linear.app/docs/coding-sessions</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48499743">https://news.......
+- [Read more](https://linear.app/docs/coding-sessions)
 
 ---
 
