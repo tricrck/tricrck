@@ -22,10 +22,10 @@
 - **Keywords**: down, disruption
 - [Read more](https://thehackernews.com/2026/06/interpol-takes-down-sniper-dz-phishing.html)
 
-### LangGraph Flaw Chain Exposes Self-Hosted AI Agents to Remote Code Execution
+### Agentjacking Attack Tricks AI Coding Agents Into Running Malicious Code
 - **Published**: June 12, 2026
-- **Summary**: Cybersecurity researchers have disclosed details of three now-patched security flaws impacting LangGraph, including a critical vulnerability chain tha...
-- [Read more](https://thehackernews.com/2026/06/langgraph-flaw-chain-exposes-self.html)
+- **Summary**: Cybersecurity researchers have described what they say is a new class of attack that can trick artificial intelligence (AI) coding agents into running...
+- [Read more](https://thehackernews.com/2026/06/agentjacking-attack-tricks-ai-coding.html)
 
 ---
 
