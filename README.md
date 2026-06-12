@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### INTERPOL Operation Takes Down Sniper Dz Phishing Platform, Arrests Administrator
-- **Published**: June 12, 2026
-- **Summary**: An INTERPOL-led operation last month resulted in the disruption of Sniper Dz, a decade-long phishing-as-a-service (PhaaS) platform, Group-IB said Thur...
-- **Keywords**: down, disruption
-- [Read more](https://thehackernews.com/2026/06/interpol-takes-down-sniper-dz-phishing.html)
+### 400+ Arch Linux AUR Packages Hijacked to Install Rust Credential Stealer
+- **Published**: June 13, 2026
+- **Summary**: Attackers took over more than 400 packages in the Arch User Repository (AUR) this week and rewrote their build scripts to install a credential stealer...
+- [Read more](https://thehackernews.com/2026/06/400-arch-linux-aur-packages-hijacked-to.html)
 
-### Agentjacking Attack Tricks AI Coding Agents Into Running Malicious Code
-- **Published**: June 12, 2026
-- **Summary**: Cybersecurity researchers have described what they say is a new class of attack that can trick artificial intelligence (AI) coding agents into running...
-- [Read more](https://thehackernews.com/2026/06/agentjacking-attack-tricks-ai-coding.html)
+### Google Sues Chinese Smishing Network Accused of Using Gemini AI in Phishing
+- **Published**: June 13, 2026
+- **Summary**: Google on Friday said it's pursuing legal action against a Chinese cybercrime network, accusing it of using its Gemini artificial intelligence (AI) ag...
+- [Read more](https://thehackernews.com/2026/06/google-sues-chinese-smishing-network.html)
 
 ---
 
