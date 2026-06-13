@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Anthropic shuts down Fable, Mythos models following Trump admin directive
+### How to kick SpaceX out of your retirement savings account — “Right now, just a handful of A.I.-related stocks represent almost half the value of the total stock market index. If A.I. stocks collapse, so will the worth of your index fund”: economist
 - **Published**: June 13, 2026
-- **Summary**: https://arstechnica.com/ai/2026/06/anthropic-shuts-down-fable-myt......
-- **Keywords**: down, down, down
-- [Read more](https://arstechnica.com/ai/2026/06/anthropic-shuts-down-fable-mythos-models-following-trump-admin-directive/)
+- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1u4qcxi/how_to_kick_spacex_out_of_your_retirement_savings/"> <img alt="How to kick SpaceX o...
+- **Keywords**: collapse
+- [Read more](https://www.reddit.com/r/technology/comments/1u4qcxi/how_to_kick_spacex_out_of_your_retirement_savings/)
 
-### U.S. Orders Anthropic to Suspend Fable 5 and Mythos 5 Access for Foreign Nationals
+### Critical Splunk Enterprise Flaw Lets Attackers Run Code Without Authentication
 - **Published**: June 13, 2026
-- **Summary**: Anthropic said on Friday it will "abruptly disable" its most advanced artificial intelligence (AI) models, Claude Fable 5 and Mythos 5, for all users ...
-- [Read more](https://thehackernews.com/2026/06/us-orders-anthropic-to-suspend-fable-5.html)
+- **Summary**: Splunk has released security updates to address a critical security flaw in Splunk Enterprise that could be exploited to conduct unauthenticated file ...
+- [Read more](https://thehackernews.com/2026/06/critical-splunk-enterprise-flaw-lets.html)
 
 ---
 
