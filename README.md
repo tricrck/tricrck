@@ -16,15 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### 400+ Arch Linux AUR Packages Hijacked to Install Rust Credential Stealer
+### HAFT: Higher-Order Abstractions for Rust
 - **Published**: June 13, 2026
-- **Summary**: Attackers took over more than 400 packages in the Arch User Repository (AUR) this week and rewrote their build scripts to install a credential stealer...
-- [Read more](https://thehackernews.com/2026/06/400-arch-linux-aur-packages-hijacked-to.html)
+- **Summary**: https://www.deepcausality.com/blog/announcement-haft-hkt/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator......
+- [Read more](https://www.deepcausality.com/blog/announcement-haft-hkt/)
 
-### Google Sues Chinese Smishing Network Accused of Using Gemini AI in Phishing
+### Qatar pursued secret talks with Iran to shield gas complex from strikes
 - **Published**: June 13, 2026
-- **Summary**: Google on Friday said it's pursuing legal action against a Chinese cybercrime network, accusing it of using its Gemini artificial intelligence (AI) ag...
-- [Read more](https://thehackernews.com/2026/06/google-sues-chinese-smishing-network.html)
+- **Summary**: https://www.washingtonpost.com/world/2026/06/12/qatar-pursued......
+- [Read more](https://www.washingtonpost.com/world/2026/06/12/qatar-pursued-secret-talks-with-iran-shield-gas-complex-strikes/)
 
 ---
 
