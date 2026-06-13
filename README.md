@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### HAFT: Higher-Order Abstractions for Rust
+### Anthropic shuts down Fable, Mythos models following Trump admin directive
 - **Published**: June 13, 2026
-- **Summary**: https://www.deepcausality.com/blog/announcement-haft-hkt/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator......
-- [Read more](https://www.deepcausality.com/blog/announcement-haft-hkt/)
+- **Summary**: https://arstechnica.com/ai/2026/06/anthropic-shuts-down-fable-myt......
+- **Keywords**: down, down, down
+- [Read more](https://arstechnica.com/ai/2026/06/anthropic-shuts-down-fable-mythos-models-following-trump-admin-directive/)
 
-### Qatar pursued secret talks with Iran to shield gas complex from strikes
+### U.S. Orders Anthropic to Suspend Fable 5 and Mythos 5 Access for Foreign Nationals
 - **Published**: June 13, 2026
-- **Summary**: https://www.washingtonpost.com/world/2026/06/12/qatar-pursued......
-- [Read more](https://www.washingtonpost.com/world/2026/06/12/qatar-pursued-secret-talks-with-iran-shield-gas-complex-strikes/)
+- **Summary**: Anthropic said on Friday it will "abruptly disable" its most advanced artificial intelligence (AI) models, Claude Fable 5 and Mythos 5, for all users ...
+- [Read more](https://thehackernews.com/2026/06/us-orders-anthropic-to-suspend-fable-5.html)
 
 ---
 
