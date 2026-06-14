@@ -16,16 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Police accused of misusing AI license-plate tracking systems
+### AI job disruption is here. The problem may be compounded because nearly 75% of people don’t apply for unemployment benefits
 - **Published**: June 14, 2026
-- **Summary**: Article URL: <a href="https://www.tomshardware.com/software/security-software/several-police-officers-arrested-for-using-controversial-flock-ai-licens...
-- [Read more](https://www.tomshardware.com/software/security-software/several-police-officers-arrested-for-using-controversial-flock-ai-license-plate-reader-system-to-stalk-romantic-partners-says-report-investigators-have-unearthed-at-least-18-such-cases-in-the-us-over-recent-years)
+- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1u5rmbf/ai_job_disruption_is_here_the_problem_may_be/"> <img alt="AI job disruption is here...
+- **Keywords**: disruption, disruption
+- [Read more](https://www.reddit.com/r/technology/comments/1u5rmbf/ai_job_disruption_is_here_the_problem_may_be/)
 
-### Math Whizzes and Computing Pros
+### Compute 'S Atari ST Reference Books – By Paul Lefebvre
 - **Published**: June 14, 2026
-- **Summary**: https://computerhistory.org/stories/math-whizzes-and-computing-pros/</a></p>
-<p>Comments URL: <a href="ht......
-- [Read more](https://computerhistory.org/stories/math-whizzes-and-computing-pros/)
+- **Summary**: https://www.goto10retro.com/p/computes-atari-st-reference-books</a></p>
+<p>Comments URL: <a href="https://news......
+- [Read more](https://www.goto10retro.com/p/computes-atari-st-reference-books)
 
 ---
 
