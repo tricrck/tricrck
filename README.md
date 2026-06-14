@@ -16,19 +16,18 @@
 
 ## 🚨 Tech Stories
 
-### Show HN: Winamp's Geiss and Milkdrop ported to WebGL
+### Scientists Tracked Down the Echo of Creatio
 - **Published**: June 14, 2026
-- **Summary**: 
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48524034">https://news.ycombinator.com/item?id=48524034</a></p>
-<p>Points: 2<.....
-- [Read more](https://milkbar.fm/)
+- **Summary**: https://www.youtube.com/watch?v=CVl5XkAeN2I</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48525564">https......
+- **Keywords**: down
+- [Read more](https://www.youtube.com/watch?v=CVl5XkAeN2I)
 
-### OmniCloud is a full-stack cloud drive aggregation platform
+### Repo-Slopscore: Detecting AI Contributions in Git Repositories via Commit
 - **Published**: June 14, 2026
-- **Summary**: https://github.com/dimartarmizi/OmniCloud</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48524026">https://n......
-- [Read more](https://github.com/dimartarmizi/OmniCloud)
+- **Summary**: https://slopscan.ava.pet/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48525586">https://news.ycombinator.com/item?id=4852.....
+- [Read more](https://slopscan.ava.pet/)
 
 ---
 
