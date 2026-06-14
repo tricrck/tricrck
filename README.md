@@ -16,18 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Scientists Tracked Down the Echo of Creatio
+### Police accused of misusing AI license-plate tracking systems
 - **Published**: June 14, 2026
-- **Summary**: https://www.youtube.com/watch?v=CVl5XkAeN2I</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48525564">https......
-- **Keywords**: down
-- [Read more](https://www.youtube.com/watch?v=CVl5XkAeN2I)
+- **Summary**: Article URL: <a href="https://www.tomshardware.com/software/security-software/several-police-officers-arrested-for-using-controversial-flock-ai-licens...
+- [Read more](https://www.tomshardware.com/software/security-software/several-police-officers-arrested-for-using-controversial-flock-ai-license-plate-reader-system-to-stalk-romantic-partners-says-report-investigators-have-unearthed-at-least-18-such-cases-in-the-us-over-recent-years)
 
-### Repo-Slopscore: Detecting AI Contributions in Git Repositories via Commit
+### Math Whizzes and Computing Pros
 - **Published**: June 14, 2026
-- **Summary**: https://slopscan.ava.pet/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48525586">https://news.ycombinator.com/item?id=4852.....
-- [Read more](https://slopscan.ava.pet/)
+- **Summary**: https://computerhistory.org/stories/math-whizzes-and-computing-pros/</a></p>
+<p>Comments URL: <a href="ht......
+- [Read more](https://computerhistory.org/stories/math-whizzes-and-computing-pros/)
 
 ---
 
