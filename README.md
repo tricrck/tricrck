@@ -16,17 +16,19 @@
 
 ## 🚨 Tech Stories
 
-### Ramputene DIY
-- **Published**: June 13, 2026
-- **Summary**: https://www.confuzine.com/2024/09/22/ramputene-diy-donostia-basque-country/</a></p>
-<p>Comments UR......
-- [Read more](https://www.confuzine.com/2024/09/22/ramputene-diy-donostia-basque-country/)
+### Show HN: Winamp's Geiss and Milkdrop ported to WebGL
+- **Published**: June 14, 2026
+- **Summary**: 
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48524034">https://news.ycombinator.com/item?id=48524034</a></p>
+<p>Points: 2<.....
+- [Read more](https://milkbar.fm/)
 
-### Record Every Meeting
-- **Published**: June 13, 2026
-- **Summary**: https://rfd.shared.oxide.computer/rfd/0537</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48520449">https:/......
-- [Read more](https://rfd.shared.oxide.computer/rfd/0537)
+### OmniCloud is a full-stack cloud drive aggregation platform
+- **Published**: June 14, 2026
+- **Summary**: https://github.com/dimartarmizi/OmniCloud</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48524026">https://n......
+- [Read more](https://github.com/dimartarmizi/OmniCloud)
 
 ---
 
