@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### AI job disruption is here. The problem may be compounded because nearly 75% of people don’t apply for unemployment benefits
-- **Published**: June 14, 2026
-- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1u5rmbf/ai_job_disruption_is_here_the_problem_may_be/"> <img alt="AI job disruption is here...
-- **Keywords**: disruption, disruption
-- [Read more](https://www.reddit.com/r/technology/comments/1u5rmbf/ai_job_disruption_is_here_the_problem_may_be/)
+### Bretisilocin
+- **Published**: June 15, 2026
+- **Summary**: https://en.wikipedia.org/wiki/Bretisilocin</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48536537">https:/......
+- [Read more](https://en.wikipedia.org/wiki/Bretisilocin)
 
-### Compute 'S Atari ST Reference Books – By Paul Lefebvre
-- **Published**: June 14, 2026
-- **Summary**: https://www.goto10retro.com/p/computes-atari-st-reference-books</a></p>
-<p>Comments URL: <a href="https://news......
-- [Read more](https://www.goto10retro.com/p/computes-atari-st-reference-books)
+### Ask HN: What does your local LLM setup looks like?
+- **Published**: June 15, 2026
+- **Summary**: <p>What models and hardware you are using? For what purpose? What were the challenges? Any tricks that helped you in doing this?<p>This might help new...
+- [Read more](https://news.ycombinator.com/item?id=48536531)
 
 ---
 
