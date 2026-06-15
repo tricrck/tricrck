@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Bretisilocin
+### The Onboarding Password Mistake That Creates Unnecessary Risk
 - **Published**: June 15, 2026
-- **Summary**: https://en.wikipedia.org/wiki/Bretisilocin</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48536537">https:/......
-- [Read more](https://en.wikipedia.org/wiki/Bretisilocin)
+- **Summary**: Employee onboarding is a busy time for IT teams. New starters need devices, accounts, access permissions, and passwords, all delivered within a tight ...
+- [Read more](https://thehackernews.com/2026/06/the-onboarding-password-mistake-that.html)
 
-### Ask HN: What does your local LLM setup looks like?
+### 152 Chrome Wallpaper Extensions with 105K Installs Linked to Adware and Fake Traffic
 - **Published**: June 15, 2026
-- **Summary**: <p>What models and hardware you are using? For what purpose? What were the challenges? Any tricks that helped you in doing this?<p>This might help new...
-- [Read more](https://news.ycombinator.com/item?id=48536531)
+- **Summary**: Cybersecurity researchers have discovered a network of 152 Google Chrome extensions that act as new tab live wallpaper add-ons to distribute a potenti...
+- [Read more](https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html)
 
 ---
 
