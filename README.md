@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### New Rokarolla Android Malware Steals PINs, SMS Codes, and Crypto Wallet Funds
-- **Published**: June 16, 2026
-- **Summary**: Security researchers at&nbsp;Zimperium's zLabs&nbsp;have documented a new Android banking trojan, Rokarolla, that targets 217 banking and cryptocurren...
-- [Read more](https://thehackernews.com/2026/06/new-rokarolla-android-malware-steals.html)
+### Google Vertex AI SDK Flaw Let Attackers Hijack Model Uploads via Bucket Squatting
+- **Published**: June 17, 2026
+- **Summary**: A flaw in the Google Cloud Vertex AI SDK for Python let an attacker with no access to a victim's project hijack the victim's machine learning model up...
+- [Read more](https://thehackernews.com/2026/06/google-vertex-ai-sdk-flaw-let-attackers.html)
 
-### Survey: 94% of Incidents Involve Anonymized Infrastructure. Teams Are Still Reactive
+### ClickFix Campaigns Expand Malware Delivery With New Loaders and Fake Update Lures
 - **Published**: June 16, 2026
-- **Summary**: Security teams have never had more IP data at their disposal. Every day, analysts ingest enrichment feeds, geolocation data, reputation scores, teleme...
-- [Read more](https://thehackernews.com/2026/06/survey-94-of-incidents-involve.html)
+- **Summary**: Cybersecurity researchers have flagged multiple ClickFix campaigns that deliver three malware loaders called BabaDeda Loader, Lorem Ipsum Loader, and ...
+- [Read more](https://thehackernews.com/2026/06/clickfix-campaigns-expand-malware.html)
 
 ---
 
