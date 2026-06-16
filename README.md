@@ -16,17 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### YouTube may expose your channel and channel name if you share video links
+### Attackers Exploit Three Fortinet FortiSandbox Flaws, One Patched Last Week
 - **Published**: June 16, 2026
-- **Summary**: https://twitter.com/KiwiFarmsDotNet/status/2066156508455240086</a></p>
-<p>Comments URL: <a href="https://news.y......
-- [Read more](https://twitter.com/KiwiFarmsDotNet/status/2066156508455240086)
+- **Summary**: Bad actors are exploiting multiple security vulnerabilities in Fortinet FortiSandbox, according to threat intelligence firm Defused Cyber.
 
-### Firefox 152 Now Available with JPEG-XL Support
+In a post ...
+- [Read more](https://thehackernews.com/2026/06/attackers-exploit-three-fortinet.html)
+
+### China-Linked SprySOCKS Backdoor Expands to Windows with Driver-Based Stealth
 - **Published**: June 16, 2026
-- **Summary**: https://www.phoronix.com/news/Firefox-152-Download</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4......
-- [Read more](https://www.phoronix.com/news/Firefox-152-Download)
+- **Summary**: Cybersecurity researchers have flagged two previously undocumented Windows variants of what was believed to be a Linux-only backdoor called SprySOCKS....
+- [Read more](https://thehackernews.com/2026/06/china-linked-sprysocks-backdoor-expands.html)
 
 ---
 
