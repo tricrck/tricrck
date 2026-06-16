@@ -16,17 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Attackers Exploit Three Fortinet FortiSandbox Flaws, One Patched Last Week
+### New Rokarolla Android Malware Steals PINs, SMS Codes, and Crypto Wallet Funds
 - **Published**: June 16, 2026
-- **Summary**: Bad actors are exploiting multiple security vulnerabilities in Fortinet FortiSandbox, according to threat intelligence firm Defused Cyber.
+- **Summary**: Security researchers at&nbsp;Zimperium's zLabs&nbsp;have documented a new Android banking trojan, Rokarolla, that targets 217 banking and cryptocurren...
+- [Read more](https://thehackernews.com/2026/06/new-rokarolla-android-malware-steals.html)
 
-In a post ...
-- [Read more](https://thehackernews.com/2026/06/attackers-exploit-three-fortinet.html)
-
-### China-Linked SprySOCKS Backdoor Expands to Windows with Driver-Based Stealth
+### Survey: 94% of Incidents Involve Anonymized Infrastructure. Teams Are Still Reactive
 - **Published**: June 16, 2026
-- **Summary**: Cybersecurity researchers have flagged two previously undocumented Windows variants of what was believed to be a Linux-only backdoor called SprySOCKS....
-- [Read more](https://thehackernews.com/2026/06/china-linked-sprysocks-backdoor-expands.html)
+- **Summary**: Security teams have never had more IP data at their disposal. Every day, analysts ingest enrichment feeds, geolocation data, reputation scores, teleme...
+- [Read more](https://thehackernews.com/2026/06/survey-94-of-incidents-involve.html)
 
 ---
 
