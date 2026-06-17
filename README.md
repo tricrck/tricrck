@@ -16,17 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Malicious JetBrains Plugins Steal AI API Keys as Chrome Extensions Capture Chatbot Chats
+### Crypto Clipper Campaign Abuses Fake Reviews, AI Narrators, and VirusTotal Comments
 - **Published**: June 17, 2026
-- **Summary**: Cybersecurity researchers have flagged a "coordinated malware campaign" on the JetBrains Marketplace that has published no less than 15 malicious plug...
-- [Read more](https://thehackernews.com/2026/06/malicious-jetbrains-plugins-steal-ai.html)
+- **Summary**: An unknown threat actor has been observed leveraging paid or promoted posts on legitimate news websites to drum up buzz for their warez, according to ...
+- [Read more](https://thehackernews.com/2026/06/crypto-clipper-campaign-abuses-fake.html)
 
-### Adversarial Exposure Validation Turns Security Visibility into Confident Prioritization
+### Microsoft Confirms RoguePlanet Defender Zero-Day, Says Patch is in Development
 - **Published**: June 17, 2026
-- **Summary**: For security teams, the findings never stop, but confidence in knowing which ones matter is becoming harder to maintain.
+- **Summary**: Microsoft has formally disclosed that it's working to release a patch to address a Defender zero-day codenamed RoguePlanet.
 
-The problem is no longer vis...
-- [Read more](https://thehackernews.com/2026/06/adversarial-exposure-validation-turns.html)
+The vulnerability has now...
+- [Read more](https://thehackernews.com/2026/06/microsoft-confirms-rogueplanet-defender_02022423645.html)
 
 ---
 
