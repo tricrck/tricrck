@@ -21,10 +21,12 @@
 - **Summary**: Cybersecurity researchers have flagged a "coordinated malware campaign" on the JetBrains Marketplace that has published no less than 15 malicious plug...
 - [Read more](https://thehackernews.com/2026/06/malicious-jetbrains-plugins-steal-ai.html)
 
-### 144 Mastra npm Packages Compromised via Hijacked Contributor Account
+### Adversarial Exposure Validation Turns Security Visibility into Confident Prioritization
 - **Published**: June 17, 2026
-- **Summary**: As many as 144 npm packages associated with the Mastra namespace ("@mastra/*"), a popular open-source JavaScript and TypeScript framework for building...
-- [Read more](https://thehackernews.com/2026/06/144-mastra-npm-packages-compromised-via.html)
+- **Summary**: For security teams, the findings never stop, but confidence in knowing which ones matter is becoming harder to maintain.
+
+The problem is no longer vis...
+- [Read more](https://thehackernews.com/2026/06/adversarial-exposure-validation-turns.html)
 
 ---
 
