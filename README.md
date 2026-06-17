@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Google Vertex AI SDK Flaw Let Attackers Hijack Model Uploads via Bucket Squatting
+### Trump invokes Defense Production Act for munitions, supply chains
 - **Published**: June 17, 2026
-- **Summary**: A flaw in the Google Cloud Vertex AI SDK for Python let an attacker with no access to a victim's project hijack the victim's machine learning model up...
-- [Read more](https://thehackernews.com/2026/06/google-vertex-ai-sdk-flaw-let-attackers.html)
+- **Summary**: https://www.reuters.com/world/us/trump-invokes-defense-production-ac......
+- [Read more](https://www.reuters.com/world/us/trump-invokes-defense-production-act-munitions-supply-chains-2026-06-16/)
 
-### ClickFix Campaigns Expand Malware Delivery With New Loaders and Fake Update Lures
-- **Published**: June 16, 2026
-- **Summary**: Cybersecurity researchers have flagged multiple ClickFix campaigns that deliver three malware loaders called BabaDeda Loader, Lorem Ipsum Loader, and ...
-- [Read more](https://thehackernews.com/2026/06/clickfix-campaigns-expand-malware.html)
+### Binance set to lose permission to operate in EU
+- **Published**: June 17, 2026
+- **Summary**: https://www.reuters.com/business/finance/binan......
+- [Read more](https://www.reuters.com/business/finance/binance-set-lose-eu-licence-bid-permission-offer-services-bloc-sources-say-2026-06-16/)
 
 ---
 

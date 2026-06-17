@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-16T20:52:55.820790",
+  "last_updated": "2026-06-17T04:15:12.843432",
   "username": "tricrck",
   "profile_url": "https://github.com/tricrck",
   "languages": {
@@ -52,7 +52,7 @@
     }
   },
   "streaks": {
-    "current": 1,
+    "current": 0,
     "longest": 6,
     "total_days": 12
   },
@@ -89,10 +89,18 @@
     "total": 37,
     "own": 33,
     "forked": 4,
-    "total_stars": 0,
+    "total_stars": 1,
     "total_forks": 0,
     "languages": {},
     "top_repos": [
+      {
+        "name": "working-public-proxies",
+        "stars": 1,
+        "forks": 0,
+        "language": "Python",
+        "url": "https://github.com/tricrck/working-public-proxies",
+        "description": "\ud83c\udf0d Automated proxy checker that tests free proxies and ranks countries by availability. Updated every 6 hours via GitHub Actions. Lists working proxies by country with response times and anonymity levels. Perfect for finding reliable proxy sources by region."
+      },
       {
         "name": "-MOLECULAR-DYNAMICS-SIMULATION",
         "stars": 0,
@@ -124,14 +132,6 @@
         "language": "Python",
         "url": "https://github.com/tricrck/Bitcoin-Dashboard",
         "description": "Ancient code without description"
-      },
-      {
-        "name": "Building-Management",
-        "stars": 0,
-        "forks": 0,
-        "language": "Python",
-        "url": "https://github.com/tricrck/Building-Management",
-        "description": "Manage Buildings, Apartments and Tenants"
       }
     ]
   },
