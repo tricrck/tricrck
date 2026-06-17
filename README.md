@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Trump invokes Defense Production Act for munitions, supply chains
+### Malicious JetBrains Plugins Steal AI API Keys as Chrome Extensions Capture Chatbot Chats
 - **Published**: June 17, 2026
-- **Summary**: https://www.reuters.com/world/us/trump-invokes-defense-production-ac......
-- [Read more](https://www.reuters.com/world/us/trump-invokes-defense-production-act-munitions-supply-chains-2026-06-16/)
+- **Summary**: Cybersecurity researchers have flagged a "coordinated malware campaign" on the JetBrains Marketplace that has published no less than 15 malicious plug...
+- [Read more](https://thehackernews.com/2026/06/malicious-jetbrains-plugins-steal-ai.html)
 
-### Binance set to lose permission to operate in EU
+### 144 Mastra npm Packages Compromised via Hijacked Contributor Account
 - **Published**: June 17, 2026
-- **Summary**: https://www.reuters.com/business/finance/binan......
-- [Read more](https://www.reuters.com/business/finance/binance-set-lose-eu-licence-bid-permission-offer-services-bloc-sources-say-2026-06-16/)
+- **Summary**: As many as 144 npm packages associated with the Mastra namespace ("@mastra/*"), a popular open-source JavaScript and TypeScript framework for building...
+- [Read more](https://thehackernews.com/2026/06/144-mastra-npm-packages-compromised-via.html)
 
 ---
 
