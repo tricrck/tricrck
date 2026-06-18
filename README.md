@@ -16,17 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Hunter-gatherers in Siberia died of a plague outbreak 5,500 years ago
+### F5 Patches Two Critical NGINX Open Source Flaws Enabling Remote Code Execution
 - **Published**: June 18, 2026
-- **Summary**: https://arstechnica.com/science/2026/06/hunter-gatherers-in-sibe......
-- [Read more](https://arstechnica.com/science/2026/06/hunter-gatherers-in-siberia-died-of-a-plague-outbreak-5500-years-ago/)
+- **Summary**: F5 has released security updates to address two critical security flaws in NGINX Open Source that could be exploited to achieve code execution on affe...
+- [Read more](https://thehackernews.com/2026/06/f5-patches-two-critical-nginx-open.html)
 
-### Microsoft Details Windows Clipper Malware Campaign Using USB LNK Worm and Tor-Based C2
+### Orphaned AI Agents: How to Find Hidden Access Risks Inside Your Network
 - **Published**: June 18, 2026
-- **Summary**: Microsoft has disclosed details of a Windows-based cryptocurrency clipper campaign that has targeted users since February 2026.
-
-"The clipper in this ...
-- [Read more](https://thehackernews.com/2026/06/microsoft-details-windows-clipper.html)
+- **Summary**: If an autonomous AI agent interacts with your company's core intellectual property today, can your security team instantly name the person who authori...
+- [Read more](https://thehackernews.com/2026/06/orphaned-ai-agents-how-to-find-hidden.html)
 
 ---
 
