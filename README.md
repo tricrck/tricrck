@@ -16,17 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Crypto Clipper Campaign Abuses Fake Reviews, AI Narrators, and VirusTotal Comments
-- **Published**: June 17, 2026
-- **Summary**: An unknown threat actor has been observed leveraging paid or promoted posts on legitimate news websites to drum up buzz for their warez, according to ...
-- [Read more](https://thehackernews.com/2026/06/crypto-clipper-campaign-abuses-fake.html)
+### Trading Places (2023)
+- **Published**: June 18, 2026
+- **Summary**: https://www.tabletmag.com/sections/news/articles/trading-places</a></p>
+<p>Comments URL: <a href="https://news......
+- [Read more](https://www.tabletmag.com/sections/news/articles/trading-places)
 
-### Microsoft Confirms RoguePlanet Defender Zero-Day, Says Patch is in Development
-- **Published**: June 17, 2026
-- **Summary**: Microsoft has formally disclosed that it's working to release a patch to address a Defender zero-day codenamed RoguePlanet.
-
-The vulnerability has now...
-- [Read more](https://thehackernews.com/2026/06/microsoft-confirms-rogueplanet-defender_02022423645.html)
+### EPFL launches the first open medical LLMs
+- **Published**: June 18, 2026
+- **Summary**: https://actu.epfl.ch/news/epfl-launches-the-world-s-first-fully-open-medical/</a></p>
+<p>Comment......
+- [Read more](https://actu.epfl.ch/news/epfl-launches-the-world-s-first-fully-open-medical/)
 
 ---
 
