@@ -16,17 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Trading Places (2023)
+### Quick Hardware Performance Counters on macOS ARM64
 - **Published**: June 18, 2026
-- **Summary**: https://www.tabletmag.com/sections/news/articles/trading-places</a></p>
-<p>Comments URL: <a href="https://news......
-- [Read more](https://www.tabletmag.com/sections/news/articles/trading-places)
+- **Summary**: https://lambdafoo.com/posts/2026-03-25-mperf-hardware-counters-macos.html</a></p>
+<p>Comments URL: <......
+- [Read more](https://lambdafoo.com/posts/2026-03-25-mperf-hardware-counters-macos.html)
 
-### EPFL launches the first open medical LLMs
+### Release Notes for Safari Technology Preview 246
 - **Published**: June 18, 2026
-- **Summary**: https://actu.epfl.ch/news/epfl-launches-the-world-s-first-fully-open-medical/</a></p>
-<p>Comment......
-- [Read more](https://actu.epfl.ch/news/epfl-launches-the-world-s-first-fully-open-medical/)
+- **Summary**: https://webkit.org/blog/18128/release-notes-for-safari-technology-preview-246/</a></p>
+<p>Comme......
+- [Read more](https://webkit.org/blog/18128/release-notes-for-safari-technology-preview-246/)
 
 ---
 
