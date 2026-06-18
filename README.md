@@ -16,17 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Quick Hardware Performance Counters on macOS ARM64
+### Hunter-gatherers in Siberia died of a plague outbreak 5,500 years ago
 - **Published**: June 18, 2026
-- **Summary**: https://lambdafoo.com/posts/2026-03-25-mperf-hardware-counters-macos.html</a></p>
-<p>Comments URL: <......
-- [Read more](https://lambdafoo.com/posts/2026-03-25-mperf-hardware-counters-macos.html)
+- **Summary**: https://arstechnica.com/science/2026/06/hunter-gatherers-in-sibe......
+- [Read more](https://arstechnica.com/science/2026/06/hunter-gatherers-in-siberia-died-of-a-plague-outbreak-5500-years-ago/)
 
-### Release Notes for Safari Technology Preview 246
+### Microsoft Details Windows Clipper Malware Campaign Using USB LNK Worm and Tor-Based C2
 - **Published**: June 18, 2026
-- **Summary**: https://webkit.org/blog/18128/release-notes-for-safari-technology-preview-246/</a></p>
-<p>Comme......
-- [Read more](https://webkit.org/blog/18128/release-notes-for-safari-technology-preview-246/)
+- **Summary**: Microsoft has disclosed details of a Windows-based cryptocurrency clipper campaign that has targeted users since February 2026.
+
+"The clipper in this ...
+- [Read more](https://thehackernews.com/2026/06/microsoft-details-windows-clipper.html)
 
 ---
 
