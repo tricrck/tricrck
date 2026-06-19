@@ -16,17 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### CISA Warns Fortinet Customers as FortiBleed Hits 86,644 FortiGate Devices
-- **Published**: June 19, 2026
-- **Summary**: The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday urged Fortinet customers with FortiGate appliances to take steps to secur...
-- [Read more](https://thehackernews.com/2026/06/cisa-warns-fortinet-customers-as.html)
+### Unpatchable 'usbliter8' Exploit Breaks Apple A12 and A13 SecureROM Boot Chain
+- **Published**: June 20, 2026
+- **Summary**: Security researchers at&nbsp;Paradigm Shift&nbsp;have published a working exploit, dubbed&nbsp;usbliter8, that achieves arbitrary code execution insid...
+- [Read more](https://thehackernews.com/2026/06/unpatchable-usbliter8-exploit-breaks.html)
 
-### From Assistive to Agentic: The AI Shift That's Redefining Threat Management
-- **Published**: June 19, 2026
-- **Summary**: Introduction
-
-The average enterprise security team has 40 or more security tools, giving a lot of visibility into internal telemetry and asset data. B...
-- [Read more](https://thehackernews.com/2026/06/from-assistive-to-agentic-ai-shift.html)
+### The Gentlemen RaaS Uses GentleKiller EDR Framework Targeting 400 Security Processes
+- **Published**: June 20, 2026
+- **Summary**: The Gentlemen ransomware-as-a-service (RaaS) operation is actively developing and maintaining a suite of endpoint detection and response (EDR) killers...
+- [Read more](https://thehackernews.com/2026/06/the-gentlemen-raas-uses-gentlekiller.html)
 
 ---
 
