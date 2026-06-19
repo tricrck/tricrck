@@ -16,15 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### F5 Patches Two Critical NGINX Open Source Flaws Enabling Remote Code Execution
-- **Published**: June 18, 2026
-- **Summary**: F5 has released security updates to address two critical security flaws in NGINX Open Source that could be exploited to achieve code execution on affe...
-- [Read more](https://thehackernews.com/2026/06/f5-patches-two-critical-nginx-open.html)
+### Let's Encrypt has been down most of today
+- **Published**: June 19, 2026
+- **Summary**: ......
+- **Keywords**: down
+- [Read more](https://letsencrypt.status.io/#2026)
 
-### Orphaned AI Agents: How to Find Hidden Access Risks Inside Your Network
-- **Published**: June 18, 2026
-- **Summary**: If an autonomous AI agent interacts with your company's core intellectual property today, can your security team instantly name the person who authori...
-- [Read more](https://thehackernews.com/2026/06/orphaned-ai-agents-how-to-find-hidden.html)
+### Staarfruit.com
+- **Published**: June 19, 2026
+- **Summary**: https://staarfruit.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48594741">https://news.ycombinator.com/item?id=48594741...
+- [Read more](https://staarfruit.com/)
 
 ---
 
