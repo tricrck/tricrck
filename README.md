@@ -16,16 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Conservatives plan nationwide protest against AI data centers
+### CISA Warns Fortinet Customers as FortiBleed Hits 86,644 FortiGate Devices
 - **Published**: June 19, 2026
-- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1u9tl79/conservatives_plan_nationwide_protest_against_ai/"> <img alt="Conservatives plan na...
-- **Keywords**: protest, protest
-- [Read more](https://www.reddit.com/r/technology/comments/1u9tl79/conservatives_plan_nationwide_protest_against_ai/)
+- **Summary**: The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday urged Fortinet customers with FortiGate appliances to take steps to secur...
+- [Read more](https://thehackernews.com/2026/06/cisa-warns-fortinet-customers-as.html)
 
-### Salesforce Disables Klue App Integration After OAuth Token Abuse Exposes Customer Data
+### From Assistive to Agentic: The AI Shift That's Redefining Threat Management
 - **Published**: June 19, 2026
-- **Summary**: Salesforce has revealed that it disabled the Klue Battlecards app integration within its platform in response to a security incident impacting the com...
-- [Read more](https://thehackernews.com/2026/06/salesforce-disables-klue-app.html)
+- **Summary**: Introduction
+
+The average enterprise security team has 40 or more security tools, giving a lot of visibility into internal telemetry and asset data. B...
+- [Read more](https://thehackernews.com/2026/06/from-assistive-to-agentic-ai-shift.html)
 
 ---
 
