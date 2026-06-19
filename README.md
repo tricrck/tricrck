@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Let's Encrypt has been down most of today
+### Conservatives plan nationwide protest against AI data centers
 - **Published**: June 19, 2026
-- **Summary**: ......
-- **Keywords**: down
-- [Read more](https://letsencrypt.status.io/#2026)
+- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1u9tl79/conservatives_plan_nationwide_protest_against_ai/"> <img alt="Conservatives plan na...
+- **Keywords**: protest, protest
+- [Read more](https://www.reddit.com/r/technology/comments/1u9tl79/conservatives_plan_nationwide_protest_against_ai/)
 
-### Staarfruit.com
+### Salesforce Disables Klue App Integration After OAuth Token Abuse Exposes Customer Data
 - **Published**: June 19, 2026
-- **Summary**: https://staarfruit.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48594741">https://news.ycombinator.com/item?id=48594741...
-- [Read more](https://staarfruit.com/)
+- **Summary**: Salesforce has revealed that it disabled the Klue Battlecards app integration within its platform in response to a security incident impacting the com...
+- [Read more](https://thehackernews.com/2026/06/salesforce-disables-klue-app.html)
 
 ---
 
