@@ -16,17 +16,19 @@
 
 ## 🚨 Tech Stories
 
-### Banned
+### Ubisoft Co-Founder Claude Guillemot Dies in Tragic Plane Crash
 - **Published**: June 20, 2026
-- **Summary**: https://netwars.pelicancrossing.net/2026/06/19/banned/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/i......
-- [Read more](https://netwars.pelicancrossing.net/2026/06/19/banned/)
+- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1uatnsf/ubisoft_cofounder_claude_guillemot_dies_in_tragic/"> <img alt="Ubisoft Co-Founder C...
+- **Keywords**: crash
+- [Read more](https://www.reddit.com/r/technology/comments/1uatnsf/ubisoft_cofounder_claude_guillemot_dies_in_tragic/)
 
-### Most indie devs build the wrong features. Here's one pattern that helps
+### Hackers Exploit Gravity SMTP WordPress Plugin Bug to Expose API Keys
 - **Published**: June 20, 2026
-- **Summary**: https://featurebuddy.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48607603">https://news.ycombinator.com/item?id=4860.....
-- [Read more](https://featurebuddy.com/)
+- **Summary**: Threat actors are exploiting a recently patched security flaw impacting Gravity SMTP, a WordPress plugin that's installed on about 100,000 sites.
+
+The...
+- **Keywords**: bug
+- [Read more](https://thehackernews.com/2026/06/hackers-exploit-gravity-smtp-wordpress.html)
 
 ---
 
