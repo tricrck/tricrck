@@ -16,19 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Ubisoft Co-Founder Claude Guillemot Dies in Tragic Plane Crash
+### GitHub DMCA Repository
 - **Published**: June 20, 2026
-- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1uatnsf/ubisoft_cofounder_claude_guillemot_dies_in_tragic/"> <img alt="Ubisoft Co-Founder C...
-- **Keywords**: crash
-- [Read more](https://www.reddit.com/r/technology/comments/1uatnsf/ubisoft_cofounder_claude_guillemot_dies_in_tragic/)
+- **Summary**: https://github.com/github/dmca/blob/master/2026/06/2026-06-04-tesla.md</a></p>
+<p>Comments URL: <a href......
+- [Read more](https://github.com/github/dmca/blob/master/2026/06/2026-06-04-tesla.md)
 
-### Hackers Exploit Gravity SMTP WordPress Plugin Bug to Expose API Keys
+### Show HN: Tin Validate, a tax ID validator that explains why checks pass or fail
 - **Published**: June 20, 2026
-- **Summary**: Threat actors are exploiting a recently patched security flaw impacting Gravity SMTP, a WordPress plugin that's installed on about 100,000 sites.
-
-The...
-- **Keywords**: bug
-- [Read more](https://thehackernews.com/2026/06/hackers-exploit-gravity-smtp-wordpress.html)
+- **Summary**: <p>After a year and a half of hard work, we recently released TIN Validate (tin-validate.com), a Tax Identification Number (TIN) validator available t...
+- [Read more](https://tin-validate.com/)
 
 ---
 
