@@ -16,15 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Unpatchable 'usbliter8' Exploit Breaks Apple A12 and A13 SecureROM Boot Chain
+### Show HN: AgentArk – open-source self-hosted AI agent OS
 - **Published**: June 20, 2026
-- **Summary**: Security researchers at&nbsp;Paradigm Shift&nbsp;have published a working exploit, dubbed&nbsp;usbliter8, that achieves arbitrary code execution insid...
-- [Read more](https://thehackernews.com/2026/06/unpatchable-usbliter8-exploit-breaks.html)
+- **Summary**: https://github.com/agentark-ai/AgentArk</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48606186">https://news.......
+- [Read more](https://github.com/agentark-ai/AgentArk)
 
-### The Gentlemen RaaS Uses GentleKiller EDR Framework Targeting 400 Security Processes
+### Show HN: Western Highway Alerts
 - **Published**: June 20, 2026
-- **Summary**: The Gentlemen ransomware-as-a-service (RaaS) operation is actively developing and maintaining a suite of endpoint detection and response (EDR) killers...
-- [Read more](https://thehackernews.com/2026/06/the-gentlemen-raas-uses-gentlekiller.html)
+- **Summary**: <p>Hey HN:<p>I got the idea for this product after fumbling with the Caltrans Highway Status page last March while Skiing up in the Sierras. It was pr...
+- [Read more](https://westernhighwayalerts.com/)
 
 ---
 
