@@ -16,16 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Show HN: AgentArk – open-source self-hosted AI agent OS
+### Banned
 - **Published**: June 20, 2026
-- **Summary**: https://github.com/agentark-ai/AgentArk</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48606186">https://news.......
-- [Read more](https://github.com/agentark-ai/AgentArk)
+- **Summary**: https://netwars.pelicancrossing.net/2026/06/19/banned/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/i......
+- [Read more](https://netwars.pelicancrossing.net/2026/06/19/banned/)
 
-### Show HN: Western Highway Alerts
+### Most indie devs build the wrong features. Here's one pattern that helps
 - **Published**: June 20, 2026
-- **Summary**: <p>Hey HN:<p>I got the idea for this product after fumbling with the Caltrans Highway Status page last March while Skiing up in the Sierras. It was pr...
-- [Read more](https://westernhighwayalerts.com/)
+- **Summary**: https://featurebuddy.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48607603">https://news.ycombinator.com/item?id=4860.....
+- [Read more](https://featurebuddy.com/)
 
 ---
 
