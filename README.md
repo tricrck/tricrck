@@ -16,16 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### GitHub DMCA Repository
-- **Published**: June 20, 2026
-- **Summary**: https://github.com/github/dmca/blob/master/2026/06/2026-06-04-tesla.md</a></p>
-<p>Comments URL: <a href......
-- [Read more](https://github.com/github/dmca/blob/master/2026/06/2026-06-04-tesla.md)
+### Intuitive Self-Models (2024)
+- **Published**: June 21, 2026
+- **Summary**: https://www.lesswrong.com/s/qhdHbCJ3PYesL9dde</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48615612">h......
+- [Read more](https://www.lesswrong.com/s/qhdHbCJ3PYesL9dde)
 
-### Show HN: Tin Validate, a tax ID validator that explains why checks pass or fail
-- **Published**: June 20, 2026
-- **Summary**: <p>After a year and a half of hard work, we recently released TIN Validate (tin-validate.com), a Tax Identification Number (TIN) validator available t...
-- [Read more](https://tin-validate.com/)
+### Show HN: Argybargy – A peer-to-peer bridge connecting any AI agents and sessions
+- **Published**: June 21, 2026
+- **Summary**: https://argybargy.dev</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48615609">https://news.ycombinator.com/item?id=48615609</...
+- [Read more](https://argybargy.dev)
 
 ---
 
