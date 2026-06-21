@@ -16,17 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Intuitive Self-Models (2024)
+### NSA director: 'Mythos "broke into almost all of our classified systems in hours"
 - **Published**: June 21, 2026
-- **Summary**: https://www.lesswrong.com/s/qhdHbCJ3PYesL9dde</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48615612">h......
-- [Read more](https://www.lesswrong.com/s/qhdHbCJ3PYesL9dde)
+- **Summary**: https://www.economist.com/briefing/2026/06/14/donald-trumps-blocki......
+- [Read more](https://www.economist.com/briefing/2026/06/14/donald-trumps-blocking-of-anthropic-is-capricious-and-chaotic)
 
-### Show HN: Argybargy – A peer-to-peer bridge connecting any AI agents and sessions
+### Building a Swarm of Telescopes to Find Life
 - **Published**: June 21, 2026
-- **Summary**: https://argybargy.dev</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48615609">https://news.ycombinator.com/item?id=48615609</...
-- [Read more](https://argybargy.dev)
+- **Summary**: https://www.universetoday.com/articles/astronomers-want-to-build-a-swarm-o......
+- [Read more](https://www.universetoday.com/articles/astronomers-want-to-build-a-swarm-of-telescopes-to-find-life)
 
 ---
 
