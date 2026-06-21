@@ -16,15 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### NSA director: 'Mythos "broke into almost all of our classified systems in hours"
+### Yann LeCun says xAI is "kind of a failure" – and the whole AI industry might be headed for a reset
 - **Published**: June 21, 2026
-- **Summary**: https://www.economist.com/briefing/2026/06/14/donald-trumps-blocki......
-- [Read more](https://www.economist.com/briefing/2026/06/14/donald-trumps-blocking-of-anthropic-is-capricious-and-chaotic)
+- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1ubo5r8/yann_lecun_says_xai_is_kind_of_a_failure_and_the/"> <img alt="Yann LeCun says xAI i...
+- **Keywords**: failure, failure
+- [Read more](https://www.reddit.com/r/technology/comments/1ubo5r8/yann_lecun_says_xai_is_kind_of_a_failure_and_the/)
 
-### Building a Swarm of Telescopes to Find Life
+### Kansas City's push for facial recognition on public buses starts privacy debate
 - **Published**: June 21, 2026
-- **Summary**: https://www.universetoday.com/articles/astronomers-want-to-build-a-swarm-o......
-- [Read more](https://www.universetoday.com/articles/astronomers-want-to-build-a-swarm-of-telescopes-to-find-life)
+- **Summary**: https://apnews.com/article/kansas-city-facial-recognition-ai-cam......
+- [Read more](https://apnews.com/article/kansas-city-facial-recognition-ai-cameras-privacy-87847f57c94b6c2a9e22a7b3a222e703)
 
 ---
 
