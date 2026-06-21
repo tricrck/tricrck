@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Yann LeCun says xAI is "kind of a failure" – and the whole AI industry might be headed for a reset
+### Founding Systems Engineer, hardtech startup, full time, ONSITE SF/hybrid
 - **Published**: June 21, 2026
-- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1ubo5r8/yann_lecun_says_xai_is_kind_of_a_failure_and_the/"> <img alt="Yann LeCun says xAI i...
-- **Keywords**: failure, failure
-- [Read more](https://www.reddit.com/r/technology/comments/1ubo5r8/yann_lecun_says_xai_is_kind_of_a_failure_and_the/)
+- **Summary**: https://docs.google.com/document/d/1pudvLsPYiVOAItGD5lDM7zSJhSXqg2qRYWVOdyVp2......
+- [Read more](https://docs.google.com/document/d/1pudvLsPYiVOAItGD5lDM7zSJhSXqg2qRYWVOdyVp2wc/edit?usp=sharing)
 
-### Kansas City's push for facial recognition on public buses starts privacy debate
+### A forgotten social media post may hold key clues to Covid-19's origin
 - **Published**: June 21, 2026
-- **Summary**: https://apnews.com/article/kansas-city-facial-recognition-ai-cam......
-- [Read more](https://apnews.com/article/kansas-city-facial-recognition-ai-cameras-privacy-87847f57c94b6c2a9e22a7b3a222e703)
+- **Summary**: https://www.science.org/content/article/forgotten-social-media-post-m......
+- [Read more](https://www.science.org/content/article/forgotten-social-media-post-may-hold-key-clues-covid-19-s-origin)
 
 ---
 
