@@ -1,15 +1,15 @@
 {
   "chaos_ranked": [
     {
-      "title": "Codex logging bug may write TBs to local SSDs",
-      "link": "https://github.com/openai/codex/issues/28224",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48626930\">Comments</a>...",
-      "published": "2026-06-22T07:30:17+00:00",
-      "domain": "github.com",
+      "title": "29-Year-Old Squid Proxy Bug 'Squidbleed' Can Leak Cleartext HTTP Requests",
+      "link": "https://thehackernews.com/2026/06/29-year-old-squid-proxy-bug-squidbleed.html",
+      "summary": "A heap over-read in the Squid web proxy can leak another user's cleartext HTTP request, including any credentials or session tokens it carries, to anyone already allowed to send traffic through the sa...",
+      "published": "2026-06-22T19:59:46+05:30",
+      "domain": "thehackernews.com",
       "scores": {
-        "chaos": 20.5,
+        "chaos": 10.4,
         "anarchy": 3.0,
-        "overall": 11.8
+        "overall": 6.7
       },
       "keywords": {
         "chaos": [
@@ -19,10 +19,10 @@
       }
     },
     {
-      "title": "Canada\u2019s Spy Agency Used First-of-Its-Kind Warrant to Clean Botnet-Infected Devices",
-      "link": "https://thehackernews.com/2026/06/canadas-spy-agency-used-first-of-its.html",
-      "summary": "Canada's spy service got a judge's permission to reach into infected servers, home routers, and IoT gear sitting on Canadian soil and neutralize two foreign-run botnets.\n\nThe Federal Court&nbsp;releas...",
-      "published": "2026-06-22T14:41:37+05:30",
+      "title": "Researchers Detail DifyTap Flaws in Dify That Could Expose AI Chats Across Tenants",
+      "link": "https://thehackernews.com/2026/06/researchers-detail-difytap-flaws-in.html",
+      "summary": "Cybersecurity researchers have disclosed details of four vulnerabilities in Dify, an open-source agentic workflow platform with more than 146,000 GitHub stars, that could allow attackers to stealthily...",
+      "published": "2026-06-22T21:43:28+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -35,10 +35,10 @@
       }
     },
     {
-      "title": "AryStinger Malware Infects 4,300 Legacy Routers to Build Reconnaissance Proxy Network",
-      "link": "https://thehackernews.com/2026/06/arystinger-malware-infects-4300-legacy.html",
-      "summary": "A new malware family is turning forgotten home routers into a distributed reconnaissance and proxy network, not the DDoS botnet these devices usually end up in. QiAnXin's&nbsp;XLab&nbsp;calls it ArySt...",
-      "published": "2026-06-22T12:27:44+05:30",
+      "title": "New OXLOADER Loader Uses Malicious Google Ads to Deliver CastleStealer",
+      "link": "https://thehackernews.com/2026/06/new-oxloader-loader-uses-malicious.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new campaign that delivers CastleStealer by means of a previously unreported malware loader dubbed OXLOADER.\n\nAccording to Elastic Security Labs, ...",
+      "published": "2026-06-22T18:50:12+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -51,90 +51,10 @@
       }
     },
     {
-      "title": "How to Fix Bay Area Transit [pdf]",
-      "link": "https://ti.org/pdfs/BayAreaTransit.pdf",
-      "summary": "<p>Article URL: <a href=\"https://ti.org/pdfs/BayAreaTransit.pdf\">https://ti.org/pdfs/BayAreaTransit.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48628942\">https://news.yc...",
-      "published": "2026-06-22T11:53:52+00:00",
-      "domain": "ti.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: Lockin \u2013 system-level distraction blocker controlled via text",
-      "link": "https://www.lockinmcp.com",
-      "summary": "<p>Hey hn,<p>Most blockers are browser extensions that are too easy to bypass, or bloated desktop apps with annoying dashboards.<p>I built LockIn. It's a proprietary system-level blocker that edits /e...",
-      "published": "2026-06-22T11:53:37+00:00",
-      "domain": "lockinmcp.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "I Shot Films for 30 Years. Now I'm Building Safety Systems for AI Agents",
-      "link": "https://maref.org/blog/from-steadicam-to-agent-governance",
-      "summary": "<p>Article URL: <a href=\"https://maref.org/blog/from-steadicam-to-agent-governance\">https://maref.org/blog/from-steadicam-to-agent-governance</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator...",
-      "published": "2026-06-22T11:52:23+00:00",
-      "domain": "maref.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Resolving Uncertainty: A Unified Overview of Rabbinic Methods [pdf]",
-      "link": "https://u.cs.biu.ac.il/~koppel/rov-25.5.pdf",
-      "summary": "<p>Article URL: <a href=\"https://u.cs.biu.ac.il/~koppel/rov-25.5.pdf\">https://u.cs.biu.ac.il/~koppel/rov-25.5.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48628916\">https...",
-      "published": "2026-06-22T11:50:53+00:00",
-      "domain": "u.cs.biu.ac.il",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "When Diets Don't Work: Parents Turn to Wegovy for Elementary School Kids",
-      "link": "https://www.wsj.com/health/wellness/when-diets-dont-work-parents-turn-to-wegovy-for-elementary-school-kids-35aa9c05",
-      "summary": "<p>Article URL: <a href=\"https://www.wsj.com/health/wellness/when-diets-dont-work-parents-turn-to-wegovy-for-elementary-school-kids-35aa9c05\">https://www.wsj.com/health/wellness/when-diets-dont-work-p...",
-      "published": "2026-06-22T11:50:27+00:00",
-      "domain": "wsj.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "INTERPOL Warns Phishing, Ransomware, and AI Scams Are Rising Across Asia-Pacific",
-      "link": "https://thehackernews.com/2026/06/interpol-warns-phishing-ransomware-and.html",
-      "summary": "A new report from INTERPOL has revealed a \"dramatic increase\" in cybercrime in Asia and the South Pacific, fueled by rapid digitalization, internet penetration, new technologies, organized criminal ne...",
-      "published": "2026-06-22T11:36:53+05:30",
+      "title": "Google Sets Sept. 30 Deadline for Android Developer Verification in Four Countries",
+      "link": "https://thehackernews.com/2026/06/google-sets-sept-30-deadline-for.html",
+      "summary": "Google has set September 30, 2026, as the day it begins enforcing&nbsp;Android developer verification&nbsp;in the first four countries, and the major device-maker app stores are in from the start.\n\nOn...",
+      "published": "2026-06-22T18:15:08+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -147,11 +67,91 @@
       }
     },
     {
-      "title": "Tesla Allegedly Showed Cooked Data to Get Full Self-Driving Approved",
-      "link": "https://www.reddit.com/r/technology/comments/1uchuqk/tesla_allegedly_showed_cooked_data_to_get_full/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1uchuqk/tesla_allegedly_showed_cooked_data_to_get_full/\"> <img alt=\"Tesla Allegedly Showed Cooked Data to Get Full Self-Driving A...",
-      "published": "2026-06-22T11:21:19+00:00",
-      "domain": "reddit.com",
+      "title": "Stop Your Legacy Infrastructure from Hijacking Your AI Agents",
+      "link": "https://thehackernews.com/2026/06/stop-your-legacy-infrastructure-from.html",
+      "summary": "Earlier this month, I spoke at the Gartner Security &amp; Risk Management Summit about a blind spot most security programs are still not accounting for - how attackers are circumventing AI security pr...",
+      "published": "2026-06-22T17:28:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Loqi, a \"local-first\" translation tool using Ollama/llama.cpp",
+      "link": "https://github.com/danterolle/loqi",
+      "summary": "<p>I got tired of sending every text I translate to Google/DeepL. Even with all the opt-out options and privacy policies, it never felt right especially for some work documents, personal writing, or a...",
+      "published": "2026-06-22T17:01:54+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: React Native Boost \u2013 swaps RN's Text/View wrappers for native ones",
+      "link": "https://github.com/kuatsu/react-native-boost",
+      "summary": "<p>Article URL: <a href=\"https://github.com/kuatsu/react-native-boost\">https://github.com/kuatsu/react-native-boost</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48632805\">htt...",
+      "published": "2026-06-22T17:01:37+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "It Was Always Email",
+      "link": "https://www.primitive.dev/blog/it-was-always-email",
+      "summary": "<p>Article URL: <a href=\"https://www.primitive.dev/blog/it-was-always-email\">https://www.primitive.dev/blog/it-was-always-email</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4...",
+      "published": "2026-06-22T16:59:50+00:00",
+      "domain": "primitive.dev",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Plans for battery swapping Electric trucks in UK",
+      "link": "https://www.independent.co.uk/cars/electric-vehicles/battery-swap-for-electric-trucks-octopus-catl-b3000357.html",
+      "summary": "<p>Article URL: <a href=\"https://www.independent.co.uk/cars/electric-vehicles/battery-swap-for-electric-trucks-octopus-catl-b3000357.html\">https://www.independent.co.uk/cars/electric-vehicles/battery-...",
+      "published": "2026-06-22T16:59:19+00:00",
+      "domain": "independent.co.uk",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The Probability Index: Passive exposure to the market portfolio of probabilities",
+      "link": "https://predmarketindex.com/",
+      "summary": "<p>Article URL: <a href=\"https://predmarketindex.com/\">https://predmarketindex.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48632727\">https://news.ycombinator.com/item?i...",
+      "published": "2026-06-22T16:55:00+00:00",
+      "domain": "predmarketindex.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -165,10 +165,10 @@
   ],
   "anarchy_ranked": [
     {
-      "title": "Canada\u2019s Spy Agency Used First-of-Its-Kind Warrant to Clean Botnet-Infected Devices",
-      "link": "https://thehackernews.com/2026/06/canadas-spy-agency-used-first-of-its.html",
-      "summary": "Canada's spy service got a judge's permission to reach into infected servers, home routers, and IoT gear sitting on Canadian soil and neutralize two foreign-run botnets.\n\nThe Federal Court&nbsp;releas...",
-      "published": "2026-06-22T14:41:37+05:30",
+      "title": "Researchers Detail DifyTap Flaws in Dify That Could Expose AI Chats Across Tenants",
+      "link": "https://thehackernews.com/2026/06/researchers-detail-difytap-flaws-in.html",
+      "summary": "Cybersecurity researchers have disclosed details of four vulnerabilities in Dify, an open-source agentic workflow platform with more than 146,000 GitHub stars, that could allow attackers to stealthily...",
+      "published": "2026-06-22T21:43:28+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -181,163 +181,163 @@
       }
     },
     {
-      "title": "AryStinger Malware Infects 4,300 Legacy Routers to Build Reconnaissance Proxy Network",
-      "link": "https://thehackernews.com/2026/06/arystinger-malware-infects-4300-legacy.html",
-      "summary": "A new malware family is turning forgotten home routers into a distributed reconnaissance and proxy network, not the DDoS botnet these devices usually end up in. QiAnXin's&nbsp;XLab&nbsp;calls it ArySt...",
-      "published": "2026-06-22T12:27:44+05:30",
+      "title": "29-Year-Old Squid Proxy Bug 'Squidbleed' Can Leak Cleartext HTTP Requests",
+      "link": "https://thehackernews.com/2026/06/29-year-old-squid-proxy-bug-squidbleed.html",
+      "summary": "A heap over-read in the Squid web proxy can leak another user's cleartext HTTP request, including any credentials or session tokens it carries, to anyone already allowed to send traffic through the sa...",
+      "published": "2026-06-22T19:59:46+05:30",
       "domain": "thehackernews.com",
       "scores": {
-        "chaos": 3.0,
+        "chaos": 10.4,
         "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "How to Fix Bay Area Transit [pdf]",
-      "link": "https://ti.org/pdfs/BayAreaTransit.pdf",
-      "summary": "<p>Article URL: <a href=\"https://ti.org/pdfs/BayAreaTransit.pdf\">https://ti.org/pdfs/BayAreaTransit.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48628942\">https://news.yc...",
-      "published": "2026-06-22T11:53:52+00:00",
-      "domain": "ti.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: Lockin \u2013 system-level distraction blocker controlled via text",
-      "link": "https://www.lockinmcp.com",
-      "summary": "<p>Hey hn,<p>Most blockers are browser extensions that are too easy to bypass, or bloated desktop apps with annoying dashboards.<p>I built LockIn. It's a proprietary system-level blocker that edits /e...",
-      "published": "2026-06-22T11:53:37+00:00",
-      "domain": "lockinmcp.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "I Shot Films for 30 Years. Now I'm Building Safety Systems for AI Agents",
-      "link": "https://maref.org/blog/from-steadicam-to-agent-governance",
-      "summary": "<p>Article URL: <a href=\"https://maref.org/blog/from-steadicam-to-agent-governance\">https://maref.org/blog/from-steadicam-to-agent-governance</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator...",
-      "published": "2026-06-22T11:52:23+00:00",
-      "domain": "maref.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Resolving Uncertainty: A Unified Overview of Rabbinic Methods [pdf]",
-      "link": "https://u.cs.biu.ac.il/~koppel/rov-25.5.pdf",
-      "summary": "<p>Article URL: <a href=\"https://u.cs.biu.ac.il/~koppel/rov-25.5.pdf\">https://u.cs.biu.ac.il/~koppel/rov-25.5.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48628916\">https...",
-      "published": "2026-06-22T11:50:53+00:00",
-      "domain": "u.cs.biu.ac.il",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "When Diets Don't Work: Parents Turn to Wegovy for Elementary School Kids",
-      "link": "https://www.wsj.com/health/wellness/when-diets-dont-work-parents-turn-to-wegovy-for-elementary-school-kids-35aa9c05",
-      "summary": "<p>Article URL: <a href=\"https://www.wsj.com/health/wellness/when-diets-dont-work-parents-turn-to-wegovy-for-elementary-school-kids-35aa9c05\">https://www.wsj.com/health/wellness/when-diets-dont-work-p...",
-      "published": "2026-06-22T11:50:27+00:00",
-      "domain": "wsj.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "INTERPOL Warns Phishing, Ransomware, and AI Scams Are Rising Across Asia-Pacific",
-      "link": "https://thehackernews.com/2026/06/interpol-warns-phishing-ransomware-and.html",
-      "summary": "A new report from INTERPOL has revealed a \"dramatic increase\" in cybercrime in Asia and the South Pacific, fueled by rapid digitalization, internet penetration, new technologies, organized criminal ne...",
-      "published": "2026-06-22T11:36:53+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Tesla Allegedly Showed Cooked Data to Get Full Self-Driving Approved",
-      "link": "https://www.reddit.com/r/technology/comments/1uchuqk/tesla_allegedly_showed_cooked_data_to_get_full/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1uchuqk/tesla_allegedly_showed_cooked_data_to_get_full/\"> <img alt=\"Tesla Allegedly Showed Cooked Data to Get Full Self-Driving A...",
-      "published": "2026-06-22T11:21:19+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Codex logging bug may write TBs to local SSDs",
-      "link": "https://github.com/openai/codex/issues/28224",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48626930\">Comments</a>...",
-      "published": "2026-06-22T07:30:17+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 20.5,
-        "anarchy": 3.0,
-        "overall": 11.8
+        "overall": 6.7
       },
       "keywords": {
         "chaos": [
           "bug"
         ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "New OXLOADER Loader Uses Malicious Google Ads to Deliver CastleStealer",
+      "link": "https://thehackernews.com/2026/06/new-oxloader-loader-uses-malicious.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new campaign that delivers CastleStealer by means of a previously unreported malware loader dubbed OXLOADER.\n\nAccording to Elastic Security Labs, ...",
+      "published": "2026-06-22T18:50:12+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Google Sets Sept. 30 Deadline for Android Developer Verification in Four Countries",
+      "link": "https://thehackernews.com/2026/06/google-sets-sept-30-deadline-for.html",
+      "summary": "Google has set September 30, 2026, as the day it begins enforcing&nbsp;Android developer verification&nbsp;in the first four countries, and the major device-maker app stores are in from the start.\n\nOn...",
+      "published": "2026-06-22T18:15:08+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Stop Your Legacy Infrastructure from Hijacking Your AI Agents",
+      "link": "https://thehackernews.com/2026/06/stop-your-legacy-infrastructure-from.html",
+      "summary": "Earlier this month, I spoke at the Gartner Security &amp; Risk Management Summit about a blind spot most security programs are still not accounting for - how attackers are circumventing AI security pr...",
+      "published": "2026-06-22T17:28:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Loqi, a \"local-first\" translation tool using Ollama/llama.cpp",
+      "link": "https://github.com/danterolle/loqi",
+      "summary": "<p>I got tired of sending every text I translate to Google/DeepL. Even with all the opt-out options and privacy policies, it never felt right especially for some work documents, personal writing, or a...",
+      "published": "2026-06-22T17:01:54+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: React Native Boost \u2013 swaps RN's Text/View wrappers for native ones",
+      "link": "https://github.com/kuatsu/react-native-boost",
+      "summary": "<p>Article URL: <a href=\"https://github.com/kuatsu/react-native-boost\">https://github.com/kuatsu/react-native-boost</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48632805\">htt...",
+      "published": "2026-06-22T17:01:37+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "It Was Always Email",
+      "link": "https://www.primitive.dev/blog/it-was-always-email",
+      "summary": "<p>Article URL: <a href=\"https://www.primitive.dev/blog/it-was-always-email\">https://www.primitive.dev/blog/it-was-always-email</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4...",
+      "published": "2026-06-22T16:59:50+00:00",
+      "domain": "primitive.dev",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Plans for battery swapping Electric trucks in UK",
+      "link": "https://www.independent.co.uk/cars/electric-vehicles/battery-swap-for-electric-trucks-octopus-catl-b3000357.html",
+      "summary": "<p>Article URL: <a href=\"https://www.independent.co.uk/cars/electric-vehicles/battery-swap-for-electric-trucks-octopus-catl-b3000357.html\">https://www.independent.co.uk/cars/electric-vehicles/battery-...",
+      "published": "2026-06-22T16:59:19+00:00",
+      "domain": "independent.co.uk",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The Probability Index: Passive exposure to the market portfolio of probabilities",
+      "link": "https://predmarketindex.com/",
+      "summary": "<p>Article URL: <a href=\"https://predmarketindex.com/\">https://predmarketindex.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48632727\">https://news.ycombinator.com/item?i...",
+      "published": "2026-06-22T16:55:00+00:00",
+      "domain": "predmarketindex.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
         "anarchy": []
       }
     }
   ],
   "overall_ranked": [
     {
-      "title": "Codex logging bug may write TBs to local SSDs",
-      "link": "https://github.com/openai/codex/issues/28224",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48626930\">Comments</a>...",
-      "published": "2026-06-22T07:30:17+00:00",
-      "domain": "github.com",
+      "title": "29-Year-Old Squid Proxy Bug 'Squidbleed' Can Leak Cleartext HTTP Requests",
+      "link": "https://thehackernews.com/2026/06/29-year-old-squid-proxy-bug-squidbleed.html",
+      "summary": "A heap over-read in the Squid web proxy can leak another user's cleartext HTTP request, including any credentials or session tokens it carries, to anyone already allowed to send traffic through the sa...",
+      "published": "2026-06-22T19:59:46+05:30",
+      "domain": "thehackernews.com",
       "scores": {
-        "chaos": 20.5,
+        "chaos": 10.4,
         "anarchy": 3.0,
-        "overall": 11.8
+        "overall": 6.7
       },
       "keywords": {
         "chaos": [
@@ -347,10 +347,10 @@
       }
     },
     {
-      "title": "Canada\u2019s Spy Agency Used First-of-Its-Kind Warrant to Clean Botnet-Infected Devices",
-      "link": "https://thehackernews.com/2026/06/canadas-spy-agency-used-first-of-its.html",
-      "summary": "Canada's spy service got a judge's permission to reach into infected servers, home routers, and IoT gear sitting on Canadian soil and neutralize two foreign-run botnets.\n\nThe Federal Court&nbsp;releas...",
-      "published": "2026-06-22T14:41:37+05:30",
+      "title": "Researchers Detail DifyTap Flaws in Dify That Could Expose AI Chats Across Tenants",
+      "link": "https://thehackernews.com/2026/06/researchers-detail-difytap-flaws-in.html",
+      "summary": "Cybersecurity researchers have disclosed details of four vulnerabilities in Dify, an open-source agentic workflow platform with more than 146,000 GitHub stars, that could allow attackers to stealthily...",
+      "published": "2026-06-22T21:43:28+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -363,10 +363,10 @@
       }
     },
     {
-      "title": "AryStinger Malware Infects 4,300 Legacy Routers to Build Reconnaissance Proxy Network",
-      "link": "https://thehackernews.com/2026/06/arystinger-malware-infects-4300-legacy.html",
-      "summary": "A new malware family is turning forgotten home routers into a distributed reconnaissance and proxy network, not the DDoS botnet these devices usually end up in. QiAnXin's&nbsp;XLab&nbsp;calls it ArySt...",
-      "published": "2026-06-22T12:27:44+05:30",
+      "title": "New OXLOADER Loader Uses Malicious Google Ads to Deliver CastleStealer",
+      "link": "https://thehackernews.com/2026/06/new-oxloader-loader-uses-malicious.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new campaign that delivers CastleStealer by means of a previously unreported malware loader dubbed OXLOADER.\n\nAccording to Elastic Security Labs, ...",
+      "published": "2026-06-22T18:50:12+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -379,90 +379,10 @@
       }
     },
     {
-      "title": "How to Fix Bay Area Transit [pdf]",
-      "link": "https://ti.org/pdfs/BayAreaTransit.pdf",
-      "summary": "<p>Article URL: <a href=\"https://ti.org/pdfs/BayAreaTransit.pdf\">https://ti.org/pdfs/BayAreaTransit.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48628942\">https://news.yc...",
-      "published": "2026-06-22T11:53:52+00:00",
-      "domain": "ti.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: Lockin \u2013 system-level distraction blocker controlled via text",
-      "link": "https://www.lockinmcp.com",
-      "summary": "<p>Hey hn,<p>Most blockers are browser extensions that are too easy to bypass, or bloated desktop apps with annoying dashboards.<p>I built LockIn. It's a proprietary system-level blocker that edits /e...",
-      "published": "2026-06-22T11:53:37+00:00",
-      "domain": "lockinmcp.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "I Shot Films for 30 Years. Now I'm Building Safety Systems for AI Agents",
-      "link": "https://maref.org/blog/from-steadicam-to-agent-governance",
-      "summary": "<p>Article URL: <a href=\"https://maref.org/blog/from-steadicam-to-agent-governance\">https://maref.org/blog/from-steadicam-to-agent-governance</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator...",
-      "published": "2026-06-22T11:52:23+00:00",
-      "domain": "maref.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Resolving Uncertainty: A Unified Overview of Rabbinic Methods [pdf]",
-      "link": "https://u.cs.biu.ac.il/~koppel/rov-25.5.pdf",
-      "summary": "<p>Article URL: <a href=\"https://u.cs.biu.ac.il/~koppel/rov-25.5.pdf\">https://u.cs.biu.ac.il/~koppel/rov-25.5.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48628916\">https...",
-      "published": "2026-06-22T11:50:53+00:00",
-      "domain": "u.cs.biu.ac.il",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "When Diets Don't Work: Parents Turn to Wegovy for Elementary School Kids",
-      "link": "https://www.wsj.com/health/wellness/when-diets-dont-work-parents-turn-to-wegovy-for-elementary-school-kids-35aa9c05",
-      "summary": "<p>Article URL: <a href=\"https://www.wsj.com/health/wellness/when-diets-dont-work-parents-turn-to-wegovy-for-elementary-school-kids-35aa9c05\">https://www.wsj.com/health/wellness/when-diets-dont-work-p...",
-      "published": "2026-06-22T11:50:27+00:00",
-      "domain": "wsj.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "INTERPOL Warns Phishing, Ransomware, and AI Scams Are Rising Across Asia-Pacific",
-      "link": "https://thehackernews.com/2026/06/interpol-warns-phishing-ransomware-and.html",
-      "summary": "A new report from INTERPOL has revealed a \"dramatic increase\" in cybercrime in Asia and the South Pacific, fueled by rapid digitalization, internet penetration, new technologies, organized criminal ne...",
-      "published": "2026-06-22T11:36:53+05:30",
+      "title": "Google Sets Sept. 30 Deadline for Android Developer Verification in Four Countries",
+      "link": "https://thehackernews.com/2026/06/google-sets-sept-30-deadline-for.html",
+      "summary": "Google has set September 30, 2026, as the day it begins enforcing&nbsp;Android developer verification&nbsp;in the first four countries, and the major device-maker app stores are in from the start.\n\nOn...",
+      "published": "2026-06-22T18:15:08+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -475,11 +395,91 @@
       }
     },
     {
-      "title": "Tesla Allegedly Showed Cooked Data to Get Full Self-Driving Approved",
-      "link": "https://www.reddit.com/r/technology/comments/1uchuqk/tesla_allegedly_showed_cooked_data_to_get_full/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1uchuqk/tesla_allegedly_showed_cooked_data_to_get_full/\"> <img alt=\"Tesla Allegedly Showed Cooked Data to Get Full Self-Driving A...",
-      "published": "2026-06-22T11:21:19+00:00",
-      "domain": "reddit.com",
+      "title": "Stop Your Legacy Infrastructure from Hijacking Your AI Agents",
+      "link": "https://thehackernews.com/2026/06/stop-your-legacy-infrastructure-from.html",
+      "summary": "Earlier this month, I spoke at the Gartner Security &amp; Risk Management Summit about a blind spot most security programs are still not accounting for - how attackers are circumventing AI security pr...",
+      "published": "2026-06-22T17:28:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Loqi, a \"local-first\" translation tool using Ollama/llama.cpp",
+      "link": "https://github.com/danterolle/loqi",
+      "summary": "<p>I got tired of sending every text I translate to Google/DeepL. Even with all the opt-out options and privacy policies, it never felt right especially for some work documents, personal writing, or a...",
+      "published": "2026-06-22T17:01:54+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: React Native Boost \u2013 swaps RN's Text/View wrappers for native ones",
+      "link": "https://github.com/kuatsu/react-native-boost",
+      "summary": "<p>Article URL: <a href=\"https://github.com/kuatsu/react-native-boost\">https://github.com/kuatsu/react-native-boost</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48632805\">htt...",
+      "published": "2026-06-22T17:01:37+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "It Was Always Email",
+      "link": "https://www.primitive.dev/blog/it-was-always-email",
+      "summary": "<p>Article URL: <a href=\"https://www.primitive.dev/blog/it-was-always-email\">https://www.primitive.dev/blog/it-was-always-email</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4...",
+      "published": "2026-06-22T16:59:50+00:00",
+      "domain": "primitive.dev",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Plans for battery swapping Electric trucks in UK",
+      "link": "https://www.independent.co.uk/cars/electric-vehicles/battery-swap-for-electric-trucks-octopus-catl-b3000357.html",
+      "summary": "<p>Article URL: <a href=\"https://www.independent.co.uk/cars/electric-vehicles/battery-swap-for-electric-trucks-octopus-catl-b3000357.html\">https://www.independent.co.uk/cars/electric-vehicles/battery-...",
+      "published": "2026-06-22T16:59:19+00:00",
+      "domain": "independent.co.uk",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The Probability Index: Passive exposure to the market portfolio of probabilities",
+      "link": "https://predmarketindex.com/",
+      "summary": "<p>Article URL: <a href=\"https://predmarketindex.com/\">https://predmarketindex.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48632727\">https://news.ycombinator.com/item?i...",
+      "published": "2026-06-22T16:55:00+00:00",
+      "domain": "predmarketindex.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -493,10 +493,10 @@
   ],
   "all_articles": [
     {
-      "title": "Canada\u2019s Spy Agency Used First-of-Its-Kind Warrant to Clean Botnet-Infected Devices",
-      "link": "https://thehackernews.com/2026/06/canadas-spy-agency-used-first-of-its.html",
-      "summary": "Canada's spy service got a judge's permission to reach into infected servers, home routers, and IoT gear sitting on Canadian soil and neutralize two foreign-run botnets.\n\nThe Federal Court&nbsp;releas...",
-      "published": "2026-06-22T14:41:37+05:30",
+      "title": "Researchers Detail DifyTap Flaws in Dify That Could Expose AI Chats Across Tenants",
+      "link": "https://thehackernews.com/2026/06/researchers-detail-difytap-flaws-in.html",
+      "summary": "Cybersecurity researchers have disclosed details of four vulnerabilities in Dify, an open-source agentic workflow platform with more than 146,000 GitHub stars, that could allow attackers to stealthily...",
+      "published": "2026-06-22T21:43:28+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -509,148 +509,148 @@
       }
     },
     {
-      "title": "AryStinger Malware Infects 4,300 Legacy Routers to Build Reconnaissance Proxy Network",
-      "link": "https://thehackernews.com/2026/06/arystinger-malware-infects-4300-legacy.html",
-      "summary": "A new malware family is turning forgotten home routers into a distributed reconnaissance and proxy network, not the DDoS botnet these devices usually end up in. QiAnXin's&nbsp;XLab&nbsp;calls it ArySt...",
-      "published": "2026-06-22T12:27:44+05:30",
+      "title": "29-Year-Old Squid Proxy Bug 'Squidbleed' Can Leak Cleartext HTTP Requests",
+      "link": "https://thehackernews.com/2026/06/29-year-old-squid-proxy-bug-squidbleed.html",
+      "summary": "A heap over-read in the Squid web proxy can leak another user's cleartext HTTP request, including any credentials or session tokens it carries, to anyone already allowed to send traffic through the sa...",
+      "published": "2026-06-22T19:59:46+05:30",
       "domain": "thehackernews.com",
       "scores": {
-        "chaos": 3.0,
+        "chaos": 10.4,
         "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "How to Fix Bay Area Transit [pdf]",
-      "link": "https://ti.org/pdfs/BayAreaTransit.pdf",
-      "summary": "<p>Article URL: <a href=\"https://ti.org/pdfs/BayAreaTransit.pdf\">https://ti.org/pdfs/BayAreaTransit.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48628942\">https://news.yc...",
-      "published": "2026-06-22T11:53:52+00:00",
-      "domain": "ti.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: Lockin \u2013 system-level distraction blocker controlled via text",
-      "link": "https://www.lockinmcp.com",
-      "summary": "<p>Hey hn,<p>Most blockers are browser extensions that are too easy to bypass, or bloated desktop apps with annoying dashboards.<p>I built LockIn. It's a proprietary system-level blocker that edits /e...",
-      "published": "2026-06-22T11:53:37+00:00",
-      "domain": "lockinmcp.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "I Shot Films for 30 Years. Now I'm Building Safety Systems for AI Agents",
-      "link": "https://maref.org/blog/from-steadicam-to-agent-governance",
-      "summary": "<p>Article URL: <a href=\"https://maref.org/blog/from-steadicam-to-agent-governance\">https://maref.org/blog/from-steadicam-to-agent-governance</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator...",
-      "published": "2026-06-22T11:52:23+00:00",
-      "domain": "maref.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Resolving Uncertainty: A Unified Overview of Rabbinic Methods [pdf]",
-      "link": "https://u.cs.biu.ac.il/~koppel/rov-25.5.pdf",
-      "summary": "<p>Article URL: <a href=\"https://u.cs.biu.ac.il/~koppel/rov-25.5.pdf\">https://u.cs.biu.ac.il/~koppel/rov-25.5.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48628916\">https...",
-      "published": "2026-06-22T11:50:53+00:00",
-      "domain": "u.cs.biu.ac.il",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "When Diets Don't Work: Parents Turn to Wegovy for Elementary School Kids",
-      "link": "https://www.wsj.com/health/wellness/when-diets-dont-work-parents-turn-to-wegovy-for-elementary-school-kids-35aa9c05",
-      "summary": "<p>Article URL: <a href=\"https://www.wsj.com/health/wellness/when-diets-dont-work-parents-turn-to-wegovy-for-elementary-school-kids-35aa9c05\">https://www.wsj.com/health/wellness/when-diets-dont-work-p...",
-      "published": "2026-06-22T11:50:27+00:00",
-      "domain": "wsj.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "INTERPOL Warns Phishing, Ransomware, and AI Scams Are Rising Across Asia-Pacific",
-      "link": "https://thehackernews.com/2026/06/interpol-warns-phishing-ransomware-and.html",
-      "summary": "A new report from INTERPOL has revealed a \"dramatic increase\" in cybercrime in Asia and the South Pacific, fueled by rapid digitalization, internet penetration, new technologies, organized criminal ne...",
-      "published": "2026-06-22T11:36:53+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Tesla Allegedly Showed Cooked Data to Get Full Self-Driving Approved",
-      "link": "https://www.reddit.com/r/technology/comments/1uchuqk/tesla_allegedly_showed_cooked_data_to_get_full/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1uchuqk/tesla_allegedly_showed_cooked_data_to_get_full/\"> <img alt=\"Tesla Allegedly Showed Cooked Data to Get Full Self-Driving A...",
-      "published": "2026-06-22T11:21:19+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Codex logging bug may write TBs to local SSDs",
-      "link": "https://github.com/openai/codex/issues/28224",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48626930\">Comments</a>...",
-      "published": "2026-06-22T07:30:17+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 20.5,
-        "anarchy": 3.0,
-        "overall": 11.8
+        "overall": 6.7
       },
       "keywords": {
         "chaos": [
           "bug"
         ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "New OXLOADER Loader Uses Malicious Google Ads to Deliver CastleStealer",
+      "link": "https://thehackernews.com/2026/06/new-oxloader-loader-uses-malicious.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new campaign that delivers CastleStealer by means of a previously unreported malware loader dubbed OXLOADER.\n\nAccording to Elastic Security Labs, ...",
+      "published": "2026-06-22T18:50:12+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Google Sets Sept. 30 Deadline for Android Developer Verification in Four Countries",
+      "link": "https://thehackernews.com/2026/06/google-sets-sept-30-deadline-for.html",
+      "summary": "Google has set September 30, 2026, as the day it begins enforcing&nbsp;Android developer verification&nbsp;in the first four countries, and the major device-maker app stores are in from the start.\n\nOn...",
+      "published": "2026-06-22T18:15:08+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Stop Your Legacy Infrastructure from Hijacking Your AI Agents",
+      "link": "https://thehackernews.com/2026/06/stop-your-legacy-infrastructure-from.html",
+      "summary": "Earlier this month, I spoke at the Gartner Security &amp; Risk Management Summit about a blind spot most security programs are still not accounting for - how attackers are circumventing AI security pr...",
+      "published": "2026-06-22T17:28:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Loqi, a \"local-first\" translation tool using Ollama/llama.cpp",
+      "link": "https://github.com/danterolle/loqi",
+      "summary": "<p>I got tired of sending every text I translate to Google/DeepL. Even with all the opt-out options and privacy policies, it never felt right especially for some work documents, personal writing, or a...",
+      "published": "2026-06-22T17:01:54+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: React Native Boost \u2013 swaps RN's Text/View wrappers for native ones",
+      "link": "https://github.com/kuatsu/react-native-boost",
+      "summary": "<p>Article URL: <a href=\"https://github.com/kuatsu/react-native-boost\">https://github.com/kuatsu/react-native-boost</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48632805\">htt...",
+      "published": "2026-06-22T17:01:37+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "It Was Always Email",
+      "link": "https://www.primitive.dev/blog/it-was-always-email",
+      "summary": "<p>Article URL: <a href=\"https://www.primitive.dev/blog/it-was-always-email\">https://www.primitive.dev/blog/it-was-always-email</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4...",
+      "published": "2026-06-22T16:59:50+00:00",
+      "domain": "primitive.dev",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Plans for battery swapping Electric trucks in UK",
+      "link": "https://www.independent.co.uk/cars/electric-vehicles/battery-swap-for-electric-trucks-octopus-catl-b3000357.html",
+      "summary": "<p>Article URL: <a href=\"https://www.independent.co.uk/cars/electric-vehicles/battery-swap-for-electric-trucks-octopus-catl-b3000357.html\">https://www.independent.co.uk/cars/electric-vehicles/battery-...",
+      "published": "2026-06-22T16:59:19+00:00",
+      "domain": "independent.co.uk",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The Probability Index: Passive exposure to the market portfolio of probabilities",
+      "link": "https://predmarketindex.com/",
+      "summary": "<p>Article URL: <a href=\"https://predmarketindex.com/\">https://predmarketindex.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48632727\">https://news.ycombinator.com/item?i...",
+      "published": "2026-06-22T16:55:00+00:00",
+      "domain": "predmarketindex.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
         "anarchy": []
       }
     }

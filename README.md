@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Codex logging bug may write TBs to local SSDs
+### 29-Year-Old Squid Proxy Bug 'Squidbleed' Can Leak Cleartext HTTP Requests
 - **Published**: June 22, 2026
-- **Summary**: ......
+- **Summary**: A heap over-read in the Squid web proxy can leak another user's cleartext HTTP request, including any credentials or session tokens it carries, to any...
 - **Keywords**: bug
-- [Read more](https://github.com/openai/codex/issues/28224)
+- [Read more](https://thehackernews.com/2026/06/29-year-old-squid-proxy-bug-squidbleed.html)
 
-### Canada’s Spy Agency Used First-of-Its-Kind Warrant to Clean Botnet-Infected Devices
+### Researchers Detail DifyTap Flaws in Dify That Could Expose AI Chats Across Tenants
 - **Published**: June 22, 2026
-- **Summary**: Canada's spy service got a judge's permission to reach into infected servers, home routers, and IoT gear sitting on Canadian soil and neutralize two f...
-- [Read more](https://thehackernews.com/2026/06/canadas-spy-agency-used-first-of-its.html)
+- **Summary**: Cybersecurity researchers have disclosed details of four vulnerabilities in Dify, an open-source agentic workflow platform with more than 146,000 GitH...
+- [Read more](https://thehackernews.com/2026/06/researchers-detail-difytap-flaws-in.html)
 
 ---
 
