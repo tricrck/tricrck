@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Chinas War on Female Delusion
+### Codex logging bug may write TBs to local SSDs
 - **Published**: June 22, 2026
-- **Summary**: https://mamathemagazine.com/chinas-war-on-female-delusion/</a></p>
-<p>Comments URL: <a href="https://news.ycombinat......
-- [Read more](https://mamathemagazine.com/chinas-war-on-female-delusion/)
+- **Summary**: ......
+- **Keywords**: bug
+- [Read more](https://github.com/openai/codex/issues/28224)
 
-### Samsung Electronics brings ChatGPT and Codex to employees
+### Canada’s Spy Agency Used First-of-Its-Kind Warrant to Clean Botnet-Infected Devices
 - **Published**: June 22, 2026
-- **Summary**: https://openai.com/index/samsung-electronics-chatgpt-codex-deployment/</a></p>
-<p>Comments URL: <a href......
-- [Read more](https://openai.com/index/samsung-electronics-chatgpt-codex-deployment/)
+- **Summary**: Canada's spy service got a judge's permission to reach into infected servers, home routers, and IoT gear sitting on Canadian soil and neutralize two f...
+- [Read more](https://thehackernews.com/2026/06/canadas-spy-agency-used-first-of-its.html)
 
 ---
 
