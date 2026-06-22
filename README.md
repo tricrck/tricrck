@@ -16,15 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Founding Systems Engineer, hardtech startup, full time, ONSITE SF/hybrid
-- **Published**: June 21, 2026
-- **Summary**: https://docs.google.com/document/d/1pudvLsPYiVOAItGD5lDM7zSJhSXqg2qRYWVOdyVp2......
-- [Read more](https://docs.google.com/document/d/1pudvLsPYiVOAItGD5lDM7zSJhSXqg2qRYWVOdyVp2wc/edit?usp=sharing)
+### Chinas War on Female Delusion
+- **Published**: June 22, 2026
+- **Summary**: https://mamathemagazine.com/chinas-war-on-female-delusion/</a></p>
+<p>Comments URL: <a href="https://news.ycombinat......
+- [Read more](https://mamathemagazine.com/chinas-war-on-female-delusion/)
 
-### A forgotten social media post may hold key clues to Covid-19's origin
-- **Published**: June 21, 2026
-- **Summary**: https://www.science.org/content/article/forgotten-social-media-post-m......
-- [Read more](https://www.science.org/content/article/forgotten-social-media-post-may-hold-key-clues-covid-19-s-origin)
+### Samsung Electronics brings ChatGPT and Codex to employees
+- **Published**: June 22, 2026
+- **Summary**: https://openai.com/index/samsung-electronics-chatgpt-codex-deployment/</a></p>
+<p>Comments URL: <a href......
+- [Read more](https://openai.com/index/samsung-electronics-chatgpt-codex-deployment/)
 
 ---
 
