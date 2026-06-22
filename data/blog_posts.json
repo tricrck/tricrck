@@ -19,6 +19,22 @@
       }
     },
     {
+      "title": "ShapedPlugin WordPress Pro Plugins Backdoored in Supply Chain Attack",
+      "link": "https://thehackernews.com/2026/06/shapedplugin-wordpress-pro-plugins.html",
+      "summary": "Multiple WordPress plugins from ShapedPlugin were compromised in a supply chain attack after unknown threat actors managed to tamper with the official release channels and push backdoor code.\n\n\"Attack...",
+      "published": "2026-06-22T23:30:48+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "Researchers Detail DifyTap Flaws in Dify That Could Expose AI Chats Across Tenants",
       "link": "https://thehackernews.com/2026/06/researchers-detail-difytap-flaws-in.html",
       "summary": "Cybersecurity researchers have disclosed details of four vulnerabilities in Dify, an open-source agentic workflow platform with more than 146,000 GitHub stars, that could allow attackers to stealthily...",
@@ -35,58 +51,10 @@
       }
     },
     {
-      "title": "New OXLOADER Loader Uses Malicious Google Ads to Deliver CastleStealer",
-      "link": "https://thehackernews.com/2026/06/new-oxloader-loader-uses-malicious.html",
-      "summary": "Cybersecurity researchers have disclosed details of a new campaign that delivers CastleStealer by means of a previously unreported malware loader dubbed OXLOADER.\n\nAccording to Elastic Security Labs, ...",
-      "published": "2026-06-22T18:50:12+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Google Sets Sept. 30 Deadline for Android Developer Verification in Four Countries",
-      "link": "https://thehackernews.com/2026/06/google-sets-sept-30-deadline-for.html",
-      "summary": "Google has set September 30, 2026, as the day it begins enforcing&nbsp;Android developer verification&nbsp;in the first four countries, and the major device-maker app stores are in from the start.\n\nOn...",
-      "published": "2026-06-22T18:15:08+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Stop Your Legacy Infrastructure from Hijacking Your AI Agents",
-      "link": "https://thehackernews.com/2026/06/stop-your-legacy-infrastructure-from.html",
-      "summary": "Earlier this month, I spoke at the Gartner Security &amp; Risk Management Summit about a blind spot most security programs are still not accounting for - how attackers are circumventing AI security pr...",
-      "published": "2026-06-22T17:28:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: Loqi, a \"local-first\" translation tool using Ollama/llama.cpp",
-      "link": "https://github.com/danterolle/loqi",
-      "summary": "<p>I got tired of sending every text I translate to Google/DeepL. Even with all the opt-out options and privacy policies, it never felt right especially for some work documents, personal writing, or a...",
-      "published": "2026-06-22T17:01:54+00:00",
+      "title": "Anchor.nvim \u2013 Harpoon for Directories",
+      "link": "https://github.com/zachyarbrough/anchor.nvim",
+      "summary": "<p>Article URL: <a href=\"https://github.com/zachyarbrough/anchor.nvim\">https://github.com/zachyarbrough/anchor.nvim</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48635922\">htt...",
+      "published": "2026-06-22T20:45:12+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -99,10 +67,26 @@
       }
     },
     {
-      "title": "Show HN: React Native Boost \u2013 swaps RN's Text/View wrappers for native ones",
-      "link": "https://github.com/kuatsu/react-native-boost",
-      "summary": "<p>Article URL: <a href=\"https://github.com/kuatsu/react-native-boost\">https://github.com/kuatsu/react-native-boost</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48632805\">htt...",
-      "published": "2026-06-22T17:01:37+00:00",
+      "title": "Dutch Scientist Charged with Conspiring to Smuggle Mpox Virus into U.S.",
+      "link": "https://www.nytimes.com/2026/06/08/science/dutch-scientist-mpox-virus-smuggling.html",
+      "summary": "<p>Article URL: <a href=\"https://www.nytimes.com/2026/06/08/science/dutch-scientist-mpox-virus-smuggling.html\">https://www.nytimes.com/2026/06/08/science/dutch-scientist-mpox-virus-smuggling.html</a><...",
+      "published": "2026-06-22T20:44:26+00:00",
+      "domain": "nytimes.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Half-Life 1, without loading screens",
+      "link": "https://github.com/bishopdynamics/Continuum",
+      "summary": "<p>During the ~48hrs that I had access to Fable 5, I decided to have fun with the Xash3D-FWGS engine for Half-Life 1, starting with a \"level streaming\" system (pre-load the whole campaign, its only ~5...",
+      "published": "2026-06-22T20:44:13+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -115,11 +99,11 @@
       }
     },
     {
-      "title": "It Was Always Email",
-      "link": "https://www.primitive.dev/blog/it-was-always-email",
-      "summary": "<p>Article URL: <a href=\"https://www.primitive.dev/blog/it-was-always-email\">https://www.primitive.dev/blog/it-was-always-email</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4...",
-      "published": "2026-06-22T16:59:50+00:00",
-      "domain": "primitive.dev",
+      "title": "Who's Suing Whom in AI?",
+      "link": "https://informationisbeautiful.net/visualizations/the-rise-of-generative-ai-large-language-models-llms-like-chatgpt/#suing",
+      "summary": "<p>Article URL: <a href=\"https://informationisbeautiful.net/visualizations/the-rise-of-generative-ai-large-language-models-llms-like-chatgpt/#suing\">https://informationisbeautiful.net/visualizations/t...",
+      "published": "2026-06-22T20:42:18+00:00",
+      "domain": "informationisbeautiful.net",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -131,11 +115,11 @@
       }
     },
     {
-      "title": "Plans for battery swapping Electric trucks in UK",
-      "link": "https://www.independent.co.uk/cars/electric-vehicles/battery-swap-for-electric-trucks-octopus-catl-b3000357.html",
-      "summary": "<p>Article URL: <a href=\"https://www.independent.co.uk/cars/electric-vehicles/battery-swap-for-electric-trucks-octopus-catl-b3000357.html\">https://www.independent.co.uk/cars/electric-vehicles/battery-...",
-      "published": "2026-06-22T16:59:19+00:00",
-      "domain": "independent.co.uk",
+      "title": "Russia's nuclear-powered 'Skyfall' missile is dirty and dangerous",
+      "link": "https://www.npr.org/2026/06/18/nx-s1-5843252/russia-nuclear-powered-missile-burevestnik",
+      "summary": "<p>Article URL: <a href=\"https://www.npr.org/2026/06/18/nx-s1-5843252/russia-nuclear-powered-missile-burevestnik\">https://www.npr.org/2026/06/18/nx-s1-5843252/russia-nuclear-powered-missile-burevestni...",
+      "published": "2026-06-22T20:42:04+00:00",
+      "domain": "npr.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -147,11 +131,27 @@
       }
     },
     {
-      "title": "The Probability Index: Passive exposure to the market portfolio of probabilities",
-      "link": "https://predmarketindex.com/",
-      "summary": "<p>Article URL: <a href=\"https://predmarketindex.com/\">https://predmarketindex.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48632727\">https://news.ycombinator.com/item?i...",
-      "published": "2026-06-22T16:55:00+00:00",
-      "domain": "predmarketindex.com",
+      "title": "SpaceX stock tumbles 16.4%, shaving off most IPO gains since debut",
+      "link": "https://www.reddit.com/r/technology/comments/1ucvx6k/spacex_stock_tumbles_164_shaving_off_most_ipo/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1ucvx6k/spacex_stock_tumbles_164_shaving_off_most_ipo/\"> <img alt=\"SpaceX stock tumbles 16.4%, shaving off most IPO gains since d...",
+      "published": "2026-06-22T20:25:38+00:00",
+      "domain": "reddit.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "British Columbia, Time Zones, and Postgres",
+      "link": "https://www.crunchydata.com/blog/british-columbia-and-time-zone-changes",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48634787\">Comments</a>...",
+      "published": "2026-06-22T19:21:00+00:00",
+      "domain": "crunchydata.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -165,11 +165,123 @@
   ],
   "anarchy_ranked": [
     {
+      "title": "ShapedPlugin WordPress Pro Plugins Backdoored in Supply Chain Attack",
+      "link": "https://thehackernews.com/2026/06/shapedplugin-wordpress-pro-plugins.html",
+      "summary": "Multiple WordPress plugins from ShapedPlugin were compromised in a supply chain attack after unknown threat actors managed to tamper with the official release channels and push backdoor code.\n\n\"Attack...",
+      "published": "2026-06-22T23:30:48+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "Researchers Detail DifyTap Flaws in Dify That Could Expose AI Chats Across Tenants",
       "link": "https://thehackernews.com/2026/06/researchers-detail-difytap-flaws-in.html",
       "summary": "Cybersecurity researchers have disclosed details of four vulnerabilities in Dify, an open-source agentic workflow platform with more than 146,000 GitHub stars, that could allow attackers to stealthily...",
       "published": "2026-06-22T21:43:28+05:30",
       "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Anchor.nvim \u2013 Harpoon for Directories",
+      "link": "https://github.com/zachyarbrough/anchor.nvim",
+      "summary": "<p>Article URL: <a href=\"https://github.com/zachyarbrough/anchor.nvim\">https://github.com/zachyarbrough/anchor.nvim</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48635922\">htt...",
+      "published": "2026-06-22T20:45:12+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Dutch Scientist Charged with Conspiring to Smuggle Mpox Virus into U.S.",
+      "link": "https://www.nytimes.com/2026/06/08/science/dutch-scientist-mpox-virus-smuggling.html",
+      "summary": "<p>Article URL: <a href=\"https://www.nytimes.com/2026/06/08/science/dutch-scientist-mpox-virus-smuggling.html\">https://www.nytimes.com/2026/06/08/science/dutch-scientist-mpox-virus-smuggling.html</a><...",
+      "published": "2026-06-22T20:44:26+00:00",
+      "domain": "nytimes.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Half-Life 1, without loading screens",
+      "link": "https://github.com/bishopdynamics/Continuum",
+      "summary": "<p>During the ~48hrs that I had access to Fable 5, I decided to have fun with the Xash3D-FWGS engine for Half-Life 1, starting with a \"level streaming\" system (pre-load the whole campaign, its only ~5...",
+      "published": "2026-06-22T20:44:13+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Who's Suing Whom in AI?",
+      "link": "https://informationisbeautiful.net/visualizations/the-rise-of-generative-ai-large-language-models-llms-like-chatgpt/#suing",
+      "summary": "<p>Article URL: <a href=\"https://informationisbeautiful.net/visualizations/the-rise-of-generative-ai-large-language-models-llms-like-chatgpt/#suing\">https://informationisbeautiful.net/visualizations/t...",
+      "published": "2026-06-22T20:42:18+00:00",
+      "domain": "informationisbeautiful.net",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Russia's nuclear-powered 'Skyfall' missile is dirty and dangerous",
+      "link": "https://www.npr.org/2026/06/18/nx-s1-5843252/russia-nuclear-powered-missile-burevestnik",
+      "summary": "<p>Article URL: <a href=\"https://www.npr.org/2026/06/18/nx-s1-5843252/russia-nuclear-powered-missile-burevestnik\">https://www.npr.org/2026/06/18/nx-s1-5843252/russia-nuclear-powered-missile-burevestni...",
+      "published": "2026-06-22T20:42:04+00:00",
+      "domain": "npr.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "SpaceX stock tumbles 16.4%, shaving off most IPO gains since debut",
+      "link": "https://www.reddit.com/r/technology/comments/1ucvx6k/spacex_stock_tumbles_164_shaving_off_most_ipo/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1ucvx6k/spacex_stock_tumbles_164_shaving_off_most_ipo/\"> <img alt=\"SpaceX stock tumbles 16.4%, shaving off most IPO gains since d...",
+      "published": "2026-06-22T20:25:38+00:00",
+      "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -199,123 +311,11 @@
       }
     },
     {
-      "title": "New OXLOADER Loader Uses Malicious Google Ads to Deliver CastleStealer",
-      "link": "https://thehackernews.com/2026/06/new-oxloader-loader-uses-malicious.html",
-      "summary": "Cybersecurity researchers have disclosed details of a new campaign that delivers CastleStealer by means of a previously unreported malware loader dubbed OXLOADER.\n\nAccording to Elastic Security Labs, ...",
-      "published": "2026-06-22T18:50:12+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Google Sets Sept. 30 Deadline for Android Developer Verification in Four Countries",
-      "link": "https://thehackernews.com/2026/06/google-sets-sept-30-deadline-for.html",
-      "summary": "Google has set September 30, 2026, as the day it begins enforcing&nbsp;Android developer verification&nbsp;in the first four countries, and the major device-maker app stores are in from the start.\n\nOn...",
-      "published": "2026-06-22T18:15:08+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Stop Your Legacy Infrastructure from Hijacking Your AI Agents",
-      "link": "https://thehackernews.com/2026/06/stop-your-legacy-infrastructure-from.html",
-      "summary": "Earlier this month, I spoke at the Gartner Security &amp; Risk Management Summit about a blind spot most security programs are still not accounting for - how attackers are circumventing AI security pr...",
-      "published": "2026-06-22T17:28:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: Loqi, a \"local-first\" translation tool using Ollama/llama.cpp",
-      "link": "https://github.com/danterolle/loqi",
-      "summary": "<p>I got tired of sending every text I translate to Google/DeepL. Even with all the opt-out options and privacy policies, it never felt right especially for some work documents, personal writing, or a...",
-      "published": "2026-06-22T17:01:54+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: React Native Boost \u2013 swaps RN's Text/View wrappers for native ones",
-      "link": "https://github.com/kuatsu/react-native-boost",
-      "summary": "<p>Article URL: <a href=\"https://github.com/kuatsu/react-native-boost\">https://github.com/kuatsu/react-native-boost</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48632805\">htt...",
-      "published": "2026-06-22T17:01:37+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "It Was Always Email",
-      "link": "https://www.primitive.dev/blog/it-was-always-email",
-      "summary": "<p>Article URL: <a href=\"https://www.primitive.dev/blog/it-was-always-email\">https://www.primitive.dev/blog/it-was-always-email</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4...",
-      "published": "2026-06-22T16:59:50+00:00",
-      "domain": "primitive.dev",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Plans for battery swapping Electric trucks in UK",
-      "link": "https://www.independent.co.uk/cars/electric-vehicles/battery-swap-for-electric-trucks-octopus-catl-b3000357.html",
-      "summary": "<p>Article URL: <a href=\"https://www.independent.co.uk/cars/electric-vehicles/battery-swap-for-electric-trucks-octopus-catl-b3000357.html\">https://www.independent.co.uk/cars/electric-vehicles/battery-...",
-      "published": "2026-06-22T16:59:19+00:00",
-      "domain": "independent.co.uk",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The Probability Index: Passive exposure to the market portfolio of probabilities",
-      "link": "https://predmarketindex.com/",
-      "summary": "<p>Article URL: <a href=\"https://predmarketindex.com/\">https://predmarketindex.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48632727\">https://news.ycombinator.com/item?i...",
-      "published": "2026-06-22T16:55:00+00:00",
-      "domain": "predmarketindex.com",
+      "title": "British Columbia, Time Zones, and Postgres",
+      "link": "https://www.crunchydata.com/blog/british-columbia-and-time-zone-changes",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48634787\">Comments</a>...",
+      "published": "2026-06-22T19:21:00+00:00",
+      "domain": "crunchydata.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -347,6 +347,22 @@
       }
     },
     {
+      "title": "ShapedPlugin WordPress Pro Plugins Backdoored in Supply Chain Attack",
+      "link": "https://thehackernews.com/2026/06/shapedplugin-wordpress-pro-plugins.html",
+      "summary": "Multiple WordPress plugins from ShapedPlugin were compromised in a supply chain attack after unknown threat actors managed to tamper with the official release channels and push backdoor code.\n\n\"Attack...",
+      "published": "2026-06-22T23:30:48+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "Researchers Detail DifyTap Flaws in Dify That Could Expose AI Chats Across Tenants",
       "link": "https://thehackernews.com/2026/06/researchers-detail-difytap-flaws-in.html",
       "summary": "Cybersecurity researchers have disclosed details of four vulnerabilities in Dify, an open-source agentic workflow platform with more than 146,000 GitHub stars, that could allow attackers to stealthily...",
@@ -363,58 +379,10 @@
       }
     },
     {
-      "title": "New OXLOADER Loader Uses Malicious Google Ads to Deliver CastleStealer",
-      "link": "https://thehackernews.com/2026/06/new-oxloader-loader-uses-malicious.html",
-      "summary": "Cybersecurity researchers have disclosed details of a new campaign that delivers CastleStealer by means of a previously unreported malware loader dubbed OXLOADER.\n\nAccording to Elastic Security Labs, ...",
-      "published": "2026-06-22T18:50:12+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Google Sets Sept. 30 Deadline for Android Developer Verification in Four Countries",
-      "link": "https://thehackernews.com/2026/06/google-sets-sept-30-deadline-for.html",
-      "summary": "Google has set September 30, 2026, as the day it begins enforcing&nbsp;Android developer verification&nbsp;in the first four countries, and the major device-maker app stores are in from the start.\n\nOn...",
-      "published": "2026-06-22T18:15:08+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Stop Your Legacy Infrastructure from Hijacking Your AI Agents",
-      "link": "https://thehackernews.com/2026/06/stop-your-legacy-infrastructure-from.html",
-      "summary": "Earlier this month, I spoke at the Gartner Security &amp; Risk Management Summit about a blind spot most security programs are still not accounting for - how attackers are circumventing AI security pr...",
-      "published": "2026-06-22T17:28:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: Loqi, a \"local-first\" translation tool using Ollama/llama.cpp",
-      "link": "https://github.com/danterolle/loqi",
-      "summary": "<p>I got tired of sending every text I translate to Google/DeepL. Even with all the opt-out options and privacy policies, it never felt right especially for some work documents, personal writing, or a...",
-      "published": "2026-06-22T17:01:54+00:00",
+      "title": "Anchor.nvim \u2013 Harpoon for Directories",
+      "link": "https://github.com/zachyarbrough/anchor.nvim",
+      "summary": "<p>Article URL: <a href=\"https://github.com/zachyarbrough/anchor.nvim\">https://github.com/zachyarbrough/anchor.nvim</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48635922\">htt...",
+      "published": "2026-06-22T20:45:12+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -427,10 +395,26 @@
       }
     },
     {
-      "title": "Show HN: React Native Boost \u2013 swaps RN's Text/View wrappers for native ones",
-      "link": "https://github.com/kuatsu/react-native-boost",
-      "summary": "<p>Article URL: <a href=\"https://github.com/kuatsu/react-native-boost\">https://github.com/kuatsu/react-native-boost</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48632805\">htt...",
-      "published": "2026-06-22T17:01:37+00:00",
+      "title": "Dutch Scientist Charged with Conspiring to Smuggle Mpox Virus into U.S.",
+      "link": "https://www.nytimes.com/2026/06/08/science/dutch-scientist-mpox-virus-smuggling.html",
+      "summary": "<p>Article URL: <a href=\"https://www.nytimes.com/2026/06/08/science/dutch-scientist-mpox-virus-smuggling.html\">https://www.nytimes.com/2026/06/08/science/dutch-scientist-mpox-virus-smuggling.html</a><...",
+      "published": "2026-06-22T20:44:26+00:00",
+      "domain": "nytimes.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Half-Life 1, without loading screens",
+      "link": "https://github.com/bishopdynamics/Continuum",
+      "summary": "<p>During the ~48hrs that I had access to Fable 5, I decided to have fun with the Xash3D-FWGS engine for Half-Life 1, starting with a \"level streaming\" system (pre-load the whole campaign, its only ~5...",
+      "published": "2026-06-22T20:44:13+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -443,11 +427,11 @@
       }
     },
     {
-      "title": "It Was Always Email",
-      "link": "https://www.primitive.dev/blog/it-was-always-email",
-      "summary": "<p>Article URL: <a href=\"https://www.primitive.dev/blog/it-was-always-email\">https://www.primitive.dev/blog/it-was-always-email</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4...",
-      "published": "2026-06-22T16:59:50+00:00",
-      "domain": "primitive.dev",
+      "title": "Who's Suing Whom in AI?",
+      "link": "https://informationisbeautiful.net/visualizations/the-rise-of-generative-ai-large-language-models-llms-like-chatgpt/#suing",
+      "summary": "<p>Article URL: <a href=\"https://informationisbeautiful.net/visualizations/the-rise-of-generative-ai-large-language-models-llms-like-chatgpt/#suing\">https://informationisbeautiful.net/visualizations/t...",
+      "published": "2026-06-22T20:42:18+00:00",
+      "domain": "informationisbeautiful.net",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -459,11 +443,11 @@
       }
     },
     {
-      "title": "Plans for battery swapping Electric trucks in UK",
-      "link": "https://www.independent.co.uk/cars/electric-vehicles/battery-swap-for-electric-trucks-octopus-catl-b3000357.html",
-      "summary": "<p>Article URL: <a href=\"https://www.independent.co.uk/cars/electric-vehicles/battery-swap-for-electric-trucks-octopus-catl-b3000357.html\">https://www.independent.co.uk/cars/electric-vehicles/battery-...",
-      "published": "2026-06-22T16:59:19+00:00",
-      "domain": "independent.co.uk",
+      "title": "Russia's nuclear-powered 'Skyfall' missile is dirty and dangerous",
+      "link": "https://www.npr.org/2026/06/18/nx-s1-5843252/russia-nuclear-powered-missile-burevestnik",
+      "summary": "<p>Article URL: <a href=\"https://www.npr.org/2026/06/18/nx-s1-5843252/russia-nuclear-powered-missile-burevestnik\">https://www.npr.org/2026/06/18/nx-s1-5843252/russia-nuclear-powered-missile-burevestni...",
+      "published": "2026-06-22T20:42:04+00:00",
+      "domain": "npr.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -475,11 +459,27 @@
       }
     },
     {
-      "title": "The Probability Index: Passive exposure to the market portfolio of probabilities",
-      "link": "https://predmarketindex.com/",
-      "summary": "<p>Article URL: <a href=\"https://predmarketindex.com/\">https://predmarketindex.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48632727\">https://news.ycombinator.com/item?i...",
-      "published": "2026-06-22T16:55:00+00:00",
-      "domain": "predmarketindex.com",
+      "title": "SpaceX stock tumbles 16.4%, shaving off most IPO gains since debut",
+      "link": "https://www.reddit.com/r/technology/comments/1ucvx6k/spacex_stock_tumbles_164_shaving_off_most_ipo/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1ucvx6k/spacex_stock_tumbles_164_shaving_off_most_ipo/\"> <img alt=\"SpaceX stock tumbles 16.4%, shaving off most IPO gains since d...",
+      "published": "2026-06-22T20:25:38+00:00",
+      "domain": "reddit.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "British Columbia, Time Zones, and Postgres",
+      "link": "https://www.crunchydata.com/blog/british-columbia-and-time-zone-changes",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48634787\">Comments</a>...",
+      "published": "2026-06-22T19:21:00+00:00",
+      "domain": "crunchydata.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -493,11 +493,123 @@
   ],
   "all_articles": [
     {
+      "title": "ShapedPlugin WordPress Pro Plugins Backdoored in Supply Chain Attack",
+      "link": "https://thehackernews.com/2026/06/shapedplugin-wordpress-pro-plugins.html",
+      "summary": "Multiple WordPress plugins from ShapedPlugin were compromised in a supply chain attack after unknown threat actors managed to tamper with the official release channels and push backdoor code.\n\n\"Attack...",
+      "published": "2026-06-22T23:30:48+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "Researchers Detail DifyTap Flaws in Dify That Could Expose AI Chats Across Tenants",
       "link": "https://thehackernews.com/2026/06/researchers-detail-difytap-flaws-in.html",
       "summary": "Cybersecurity researchers have disclosed details of four vulnerabilities in Dify, an open-source agentic workflow platform with more than 146,000 GitHub stars, that could allow attackers to stealthily...",
       "published": "2026-06-22T21:43:28+05:30",
       "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Anchor.nvim \u2013 Harpoon for Directories",
+      "link": "https://github.com/zachyarbrough/anchor.nvim",
+      "summary": "<p>Article URL: <a href=\"https://github.com/zachyarbrough/anchor.nvim\">https://github.com/zachyarbrough/anchor.nvim</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48635922\">htt...",
+      "published": "2026-06-22T20:45:12+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Dutch Scientist Charged with Conspiring to Smuggle Mpox Virus into U.S.",
+      "link": "https://www.nytimes.com/2026/06/08/science/dutch-scientist-mpox-virus-smuggling.html",
+      "summary": "<p>Article URL: <a href=\"https://www.nytimes.com/2026/06/08/science/dutch-scientist-mpox-virus-smuggling.html\">https://www.nytimes.com/2026/06/08/science/dutch-scientist-mpox-virus-smuggling.html</a><...",
+      "published": "2026-06-22T20:44:26+00:00",
+      "domain": "nytimes.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Half-Life 1, without loading screens",
+      "link": "https://github.com/bishopdynamics/Continuum",
+      "summary": "<p>During the ~48hrs that I had access to Fable 5, I decided to have fun with the Xash3D-FWGS engine for Half-Life 1, starting with a \"level streaming\" system (pre-load the whole campaign, its only ~5...",
+      "published": "2026-06-22T20:44:13+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Who's Suing Whom in AI?",
+      "link": "https://informationisbeautiful.net/visualizations/the-rise-of-generative-ai-large-language-models-llms-like-chatgpt/#suing",
+      "summary": "<p>Article URL: <a href=\"https://informationisbeautiful.net/visualizations/the-rise-of-generative-ai-large-language-models-llms-like-chatgpt/#suing\">https://informationisbeautiful.net/visualizations/t...",
+      "published": "2026-06-22T20:42:18+00:00",
+      "domain": "informationisbeautiful.net",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Russia's nuclear-powered 'Skyfall' missile is dirty and dangerous",
+      "link": "https://www.npr.org/2026/06/18/nx-s1-5843252/russia-nuclear-powered-missile-burevestnik",
+      "summary": "<p>Article URL: <a href=\"https://www.npr.org/2026/06/18/nx-s1-5843252/russia-nuclear-powered-missile-burevestnik\">https://www.npr.org/2026/06/18/nx-s1-5843252/russia-nuclear-powered-missile-burevestni...",
+      "published": "2026-06-22T20:42:04+00:00",
+      "domain": "npr.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "SpaceX stock tumbles 16.4%, shaving off most IPO gains since debut",
+      "link": "https://www.reddit.com/r/technology/comments/1ucvx6k/spacex_stock_tumbles_164_shaving_off_most_ipo/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1ucvx6k/spacex_stock_tumbles_164_shaving_off_most_ipo/\"> <img alt=\"SpaceX stock tumbles 16.4%, shaving off most IPO gains since d...",
+      "published": "2026-06-22T20:25:38+00:00",
+      "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -527,123 +639,11 @@
       }
     },
     {
-      "title": "New OXLOADER Loader Uses Malicious Google Ads to Deliver CastleStealer",
-      "link": "https://thehackernews.com/2026/06/new-oxloader-loader-uses-malicious.html",
-      "summary": "Cybersecurity researchers have disclosed details of a new campaign that delivers CastleStealer by means of a previously unreported malware loader dubbed OXLOADER.\n\nAccording to Elastic Security Labs, ...",
-      "published": "2026-06-22T18:50:12+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Google Sets Sept. 30 Deadline for Android Developer Verification in Four Countries",
-      "link": "https://thehackernews.com/2026/06/google-sets-sept-30-deadline-for.html",
-      "summary": "Google has set September 30, 2026, as the day it begins enforcing&nbsp;Android developer verification&nbsp;in the first four countries, and the major device-maker app stores are in from the start.\n\nOn...",
-      "published": "2026-06-22T18:15:08+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Stop Your Legacy Infrastructure from Hijacking Your AI Agents",
-      "link": "https://thehackernews.com/2026/06/stop-your-legacy-infrastructure-from.html",
-      "summary": "Earlier this month, I spoke at the Gartner Security &amp; Risk Management Summit about a blind spot most security programs are still not accounting for - how attackers are circumventing AI security pr...",
-      "published": "2026-06-22T17:28:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: Loqi, a \"local-first\" translation tool using Ollama/llama.cpp",
-      "link": "https://github.com/danterolle/loqi",
-      "summary": "<p>I got tired of sending every text I translate to Google/DeepL. Even with all the opt-out options and privacy policies, it never felt right especially for some work documents, personal writing, or a...",
-      "published": "2026-06-22T17:01:54+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: React Native Boost \u2013 swaps RN's Text/View wrappers for native ones",
-      "link": "https://github.com/kuatsu/react-native-boost",
-      "summary": "<p>Article URL: <a href=\"https://github.com/kuatsu/react-native-boost\">https://github.com/kuatsu/react-native-boost</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48632805\">htt...",
-      "published": "2026-06-22T17:01:37+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "It Was Always Email",
-      "link": "https://www.primitive.dev/blog/it-was-always-email",
-      "summary": "<p>Article URL: <a href=\"https://www.primitive.dev/blog/it-was-always-email\">https://www.primitive.dev/blog/it-was-always-email</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4...",
-      "published": "2026-06-22T16:59:50+00:00",
-      "domain": "primitive.dev",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Plans for battery swapping Electric trucks in UK",
-      "link": "https://www.independent.co.uk/cars/electric-vehicles/battery-swap-for-electric-trucks-octopus-catl-b3000357.html",
-      "summary": "<p>Article URL: <a href=\"https://www.independent.co.uk/cars/electric-vehicles/battery-swap-for-electric-trucks-octopus-catl-b3000357.html\">https://www.independent.co.uk/cars/electric-vehicles/battery-...",
-      "published": "2026-06-22T16:59:19+00:00",
-      "domain": "independent.co.uk",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The Probability Index: Passive exposure to the market portfolio of probabilities",
-      "link": "https://predmarketindex.com/",
-      "summary": "<p>Article URL: <a href=\"https://predmarketindex.com/\">https://predmarketindex.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48632727\">https://news.ycombinator.com/item?i...",
-      "published": "2026-06-22T16:55:00+00:00",
-      "domain": "predmarketindex.com",
+      "title": "British Columbia, Time Zones, and Postgres",
+      "link": "https://www.crunchydata.com/blog/british-columbia-and-time-zone-changes",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48634787\">Comments</a>...",
+      "published": "2026-06-22T19:21:00+00:00",
+      "domain": "crunchydata.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,

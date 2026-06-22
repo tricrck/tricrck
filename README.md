@@ -22,10 +22,10 @@
 - **Keywords**: bug
 - [Read more](https://thehackernews.com/2026/06/29-year-old-squid-proxy-bug-squidbleed.html)
 
-### Researchers Detail DifyTap Flaws in Dify That Could Expose AI Chats Across Tenants
+### ShapedPlugin WordPress Pro Plugins Backdoored in Supply Chain Attack
 - **Published**: June 22, 2026
-- **Summary**: Cybersecurity researchers have disclosed details of four vulnerabilities in Dify, an open-source agentic workflow platform with more than 146,000 GitH...
-- [Read more](https://thehackernews.com/2026/06/researchers-detail-difytap-flaws-in.html)
+- **Summary**: Multiple WordPress plugins from ShapedPlugin were compromised in a supply chain attack after unknown threat actors managed to tamper with the official...
+- [Read more](https://thehackernews.com/2026/06/shapedplugin-wordpress-pro-plugins.html)
 
 ---
 
