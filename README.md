@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Elevated error rate across multiple models
+### FortiBleed Targeted FortiGate Firewalls in 110 Million-Credential Harvesting Operation
 - **Published**: June 23, 2026
-- **Summary**: ......
-- **Keywords**: error
-- [Read more](https://status.claude.com/incidents/jbhf20wjmzrf)
+- **Summary**: A Russian-speaking initial access broker (IAB) driven by financial gain is assessed to be behind a large-scale credential-harvesting operation known a...
+- [Read more](https://thehackernews.com/2026/06/fortibleed-targeted-fortigate-firewalls.html)
 
-### Former hacker saw the light–and now wants to collect all of it
+### Fake AI Agent Skill Passed Security Scans and Reportedly Reached 26,000 Agents
 - **Published**: June 23, 2026
-- **Summary**: https://arstechnica.com/features/2026/06/this-former-hacker-saw-......
-- [Read more](https://arstechnica.com/features/2026/06/this-former-hacker-saw-the-light-and-now-wants-to-collect-all-of-it/)
+- **Summary**: Security firm&nbsp;AIR&nbsp;built a fake AI agent skill, pushed it through a popular skill marketplace and an Instagram ad, and says it reached roughl...
+- [Read more](https://thehackernews.com/2026/06/fake-ai-agent-skill-passed-security.html)
 
 ---
 
