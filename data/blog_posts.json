@@ -1,6 +1,136 @@
 {
   "chaos_ranked": [
     {
+      "title": "Elevated error rate across multiple models",
+      "link": "https://status.claude.com/incidents/jbhf20wjmzrf",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48645386\">Comments</a>...",
+      "published": "2026-06-23T14:19:47+00:00",
+      "domain": "status.claude.com",
+      "scores": {
+        "chaos": 27.7,
+        "anarchy": 3.0,
+        "overall": 15.4
+      },
+      "keywords": {
+        "chaos": [
+          "error"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Former hacker saw the light\u2013and now wants to collect all of it",
+      "link": "https://arstechnica.com/features/2026/06/this-former-hacker-saw-the-light-and-now-wants-to-collect-all-of-it/",
+      "summary": "<p>Article URL: <a href=\"https://arstechnica.com/features/2026/06/this-former-hacker-saw-the-light-and-now-wants-to-collect-all-of-it/\">https://arstechnica.com/features/2026/06/this-former-hacker-saw-...",
+      "published": "2026-06-23T14:41:07+00:00",
+      "domain": "arstechnica.com",
+      "scores": {
+        "chaos": 18.0,
+        "anarchy": 12.0,
+        "overall": 15.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "GitHub Updates actions/checkout to Block Common Pwn Request Attack Patterns",
+      "link": "https://thehackernews.com/2026/06/github-updates-actionscheckout-to-block.html",
+      "summary": "GitHub is moving to strengthen software supply chain security by updating \"actions/checkout\" to block pwn request attacks that exploit the risky use of the \"pull_request_target workflow\" trigger to ru...",
+      "published": "2026-06-23T19:52:03+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Agentic AI: The Weapon That No Longer Needs a Warrior",
+      "link": "https://thehackernews.com/2026/06/agentic-ai-weapon-that-no-longer-needs.html",
+      "summary": "Every weapon begins as an extension of the hand that holds it. The spear lengthened the reach of the arm. The bow sent the point flying without the throw. The rifle placed a man's death a quarter mile...",
+      "published": "2026-06-23T17:00:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Imagin-4D: Image-Guided Controllable Interaction Generation",
+      "link": "https://imagin4d.github.io/",
+      "summary": "<p>Article URL: <a href=\"https://imagin4d.github.io/\">https://imagin4d.github.io/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48645812\">https://news.ycombinator.com/item?id=...",
+      "published": "2026-06-23T14:44:20+00:00",
+      "domain": "imagin4d.github.io",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "ECVT e-bike hub motor",
+      "link": "https://cedriceveleigh.substack.com/p/ecvt-e-bike-hub-motor",
+      "summary": "<p>Article URL: <a href=\"https://cedriceveleigh.substack.com/p/ecvt-e-bike-hub-motor\">https://cedriceveleigh.substack.com/p/ecvt-e-bike-hub-motor</a></p>\n<p>Comments URL: <a href=\"https://news.ycombin...",
+      "published": "2026-06-23T14:43:25+00:00",
+      "domain": "cedriceveleigh.substack.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Germany battles aggressive outbreak of poisonous caterpillars",
+      "link": "https://www.cnn.com/2026/06/23/world/germany-poisonous-caterpillars-outbreak-intl",
+      "summary": "<p>Article URL: <a href=\"https://www.cnn.com/2026/06/23/world/germany-poisonous-caterpillars-outbreak-intl\">https://www.cnn.com/2026/06/23/world/germany-poisonous-caterpillars-outbreak-intl</a></p>\n<p...",
+      "published": "2026-06-23T14:42:56+00:00",
+      "domain": "cnn.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Polymarket Trading Bot \u2013 Late-Entry Probability Capture on BTC 5/15-Min Markets",
+      "link": "https://github.com/casatrick/polymarket-trading-bot",
+      "summary": "<p>Article URL: <a href=\"https://github.com/casatrick/polymarket-trading-bot\">https://github.com/casatrick/polymarket-trading-bot</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id...",
+      "published": "2026-06-23T14:41:55+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "Malicious npm Packages Pose as PostCSS Tools to Deliver Windows RAT",
       "link": "https://thehackernews.com/2026/06/malicious-npm-packages-pose-as-postcss.html",
       "summary": "Cybersecurity researchers have discovered a set of malicious npm packages that are designed to deliver a Windows-based remote access trojan (RAT).\n\nThe list of identified packages, is below -\n\n\n  aes-...",
@@ -17,139 +147,11 @@
       }
     },
     {
-      "title": "WhatsApp VBScript Campaign Uses Fake Documents to Install ManageEngine RMM Tool",
-      "link": "https://thehackernews.com/2026/06/whatsapp-vbscript-campaign-uses-fake.html",
-      "summary": "Direct messages sent via WhatsApp are being used to distribute malicious Visual Basic Script (VBScript) files that lead to the installation of legitimate Remote Monitoring and Management (RMM) softwar...",
-      "published": "2026-06-23T11:08:40+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: I built a PC-part picker that handles compatibility and shortages",
-      "link": "https://pc-cool.com/",
-      "summary": "<p>Article URL: <a href=\"https://pc-cool.com/\">https://pc-cool.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48642491\">https://news.ycombinator.com/item?id=48642491</a></...",
-      "published": "2026-06-23T09:37:12+00:00",
-      "domain": "pc-cool.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "OpenTerm \u2013 A tiny, fast SSH client (no login, no cloud, free)",
-      "link": "https://github.com/zhangshuo1991/openterm",
-      "summary": "<p>Article URL: <a href=\"https://github.com/zhangshuo1991/openterm\">https://github.com/zhangshuo1991/openterm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48642482\">https://n...",
-      "published": "2026-06-23T09:36:41+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Sakana.ai releases a model competiting with Fable",
-      "link": "https://sakana.ai/fugu-release/",
-      "summary": "<p>Article URL: <a href=\"https://sakana.ai/fugu-release/\">https://sakana.ai/fugu-release/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48642479\">https://news.ycombinator.com/...",
-      "published": "2026-06-23T09:36:20+00:00",
-      "domain": "sakana.ai",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "A game where you're an OS and have to manage processes, memory and I/O events",
-      "link": "https://github.com/plbrault/youre-the-os",
-      "summary": "<p>Article URL: <a href=\"https://github.com/plbrault/youre-the-os\">https://github.com/plbrault/youre-the-os</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48642474\">https://new...",
-      "published": "2026-06-23T09:35:26+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "AI models capable of devastating attacks on governments and business months away",
-      "link": "https://www.theguardian.com/technology/2026/jun/22/anthropic-claude-fable-ai-model-artificial-intelligence-national-security",
-      "summary": "<p>Article URL: <a href=\"https://www.theguardian.com/technology/2026/jun/22/anthropic-claude-fable-ai-model-artificial-intelligence-national-security\">https://www.theguardian.com/technology/2026/jun/2...",
-      "published": "2026-06-23T09:34:28+00:00",
-      "domain": "theguardian.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "OpenAI Expands Daybreak With GPT-5.5-Cyber to Help Defenders Patch Security Flaws",
-      "link": "https://thehackernews.com/2026/06/openai-expands-daybreak-with-gpt-55.html",
-      "summary": "OpenAI on Monday said it's releasing an improved version of its GPT\u20115.5\u2011Cyber model to trusted defenders as part of the Daybreak initiative&nbsp;the artificial intelligence (AI) company announced last...",
-      "published": "2026-06-23T09:26:58+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "AI Built a Nuke and Still Lost",
-      "link": "https://www.lwilko.com/blog/i-gave-an-ai-a-civilization",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48641927\">Comments</a>...",
-      "published": "2026-06-23T08:16:45+00:00",
-      "domain": "lwilko.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The new HTTP QUERY method explained",
-      "link": "https://kreya.app/blog/new-http-query-method-explained/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48640974\">Comments</a>...",
-      "published": "2026-06-23T06:05:37+00:00",
-      "domain": "kreya.app",
+      "title": "SpaceX Shares Fall Below $150 Debut Price For First Time",
+      "link": "https://www.reddit.com/r/technology/comments/1udi69a/spacex_shares_fall_below_150_debut_price_for/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1udi69a/spacex_shares_fall_below_150_debut_price_for/\"> <img alt=\"SpaceX Shares Fall Below $150 Debut Price For First Time\" src=\"...",
+      "published": "2026-06-23T14:08:21+00:00",
+      "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -163,6 +165,118 @@
   ],
   "anarchy_ranked": [
     {
+      "title": "Former hacker saw the light\u2013and now wants to collect all of it",
+      "link": "https://arstechnica.com/features/2026/06/this-former-hacker-saw-the-light-and-now-wants-to-collect-all-of-it/",
+      "summary": "<p>Article URL: <a href=\"https://arstechnica.com/features/2026/06/this-former-hacker-saw-the-light-and-now-wants-to-collect-all-of-it/\">https://arstechnica.com/features/2026/06/this-former-hacker-saw-...",
+      "published": "2026-06-23T14:41:07+00:00",
+      "domain": "arstechnica.com",
+      "scores": {
+        "chaos": 18.0,
+        "anarchy": 12.0,
+        "overall": 15.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "GitHub Updates actions/checkout to Block Common Pwn Request Attack Patterns",
+      "link": "https://thehackernews.com/2026/06/github-updates-actionscheckout-to-block.html",
+      "summary": "GitHub is moving to strengthen software supply chain security by updating \"actions/checkout\" to block pwn request attacks that exploit the risky use of the \"pull_request_target workflow\" trigger to ru...",
+      "published": "2026-06-23T19:52:03+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Agentic AI: The Weapon That No Longer Needs a Warrior",
+      "link": "https://thehackernews.com/2026/06/agentic-ai-weapon-that-no-longer-needs.html",
+      "summary": "Every weapon begins as an extension of the hand that holds it. The spear lengthened the reach of the arm. The bow sent the point flying without the throw. The rifle placed a man's death a quarter mile...",
+      "published": "2026-06-23T17:00:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Imagin-4D: Image-Guided Controllable Interaction Generation",
+      "link": "https://imagin4d.github.io/",
+      "summary": "<p>Article URL: <a href=\"https://imagin4d.github.io/\">https://imagin4d.github.io/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48645812\">https://news.ycombinator.com/item?id=...",
+      "published": "2026-06-23T14:44:20+00:00",
+      "domain": "imagin4d.github.io",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "ECVT e-bike hub motor",
+      "link": "https://cedriceveleigh.substack.com/p/ecvt-e-bike-hub-motor",
+      "summary": "<p>Article URL: <a href=\"https://cedriceveleigh.substack.com/p/ecvt-e-bike-hub-motor\">https://cedriceveleigh.substack.com/p/ecvt-e-bike-hub-motor</a></p>\n<p>Comments URL: <a href=\"https://news.ycombin...",
+      "published": "2026-06-23T14:43:25+00:00",
+      "domain": "cedriceveleigh.substack.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Germany battles aggressive outbreak of poisonous caterpillars",
+      "link": "https://www.cnn.com/2026/06/23/world/germany-poisonous-caterpillars-outbreak-intl",
+      "summary": "<p>Article URL: <a href=\"https://www.cnn.com/2026/06/23/world/germany-poisonous-caterpillars-outbreak-intl\">https://www.cnn.com/2026/06/23/world/germany-poisonous-caterpillars-outbreak-intl</a></p>\n<p...",
+      "published": "2026-06-23T14:42:56+00:00",
+      "domain": "cnn.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Polymarket Trading Bot \u2013 Late-Entry Probability Capture on BTC 5/15-Min Markets",
+      "link": "https://github.com/casatrick/polymarket-trading-bot",
+      "summary": "<p>Article URL: <a href=\"https://github.com/casatrick/polymarket-trading-bot\">https://github.com/casatrick/polymarket-trading-bot</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id...",
+      "published": "2026-06-23T14:41:55+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "Malicious npm Packages Pose as PostCSS Tools to Deliver Windows RAT",
       "link": "https://thehackernews.com/2026/06/malicious-npm-packages-pose-as-postcss.html",
       "summary": "Cybersecurity researchers have discovered a set of malicious npm packages that are designed to deliver a Windows-based remote access trojan (RAT).\n\nThe list of identified packages, is below -\n\n\n  aes-...",
@@ -179,139 +293,29 @@
       }
     },
     {
-      "title": "WhatsApp VBScript Campaign Uses Fake Documents to Install ManageEngine RMM Tool",
-      "link": "https://thehackernews.com/2026/06/whatsapp-vbscript-campaign-uses-fake.html",
-      "summary": "Direct messages sent via WhatsApp are being used to distribute malicious Visual Basic Script (VBScript) files that lead to the installation of legitimate Remote Monitoring and Management (RMM) softwar...",
-      "published": "2026-06-23T11:08:40+05:30",
-      "domain": "thehackernews.com",
+      "title": "Elevated error rate across multiple models",
+      "link": "https://status.claude.com/incidents/jbhf20wjmzrf",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48645386\">Comments</a>...",
+      "published": "2026-06-23T14:19:47+00:00",
+      "domain": "status.claude.com",
       "scores": {
-        "chaos": 3.0,
+        "chaos": 27.7,
         "anarchy": 3.0,
-        "overall": 3.0
+        "overall": 15.4
       },
       "keywords": {
-        "chaos": [],
+        "chaos": [
+          "error"
+        ],
         "anarchy": []
       }
     },
     {
-      "title": "Show HN: I built a PC-part picker that handles compatibility and shortages",
-      "link": "https://pc-cool.com/",
-      "summary": "<p>Article URL: <a href=\"https://pc-cool.com/\">https://pc-cool.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48642491\">https://news.ycombinator.com/item?id=48642491</a></...",
-      "published": "2026-06-23T09:37:12+00:00",
-      "domain": "pc-cool.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "OpenTerm \u2013 A tiny, fast SSH client (no login, no cloud, free)",
-      "link": "https://github.com/zhangshuo1991/openterm",
-      "summary": "<p>Article URL: <a href=\"https://github.com/zhangshuo1991/openterm\">https://github.com/zhangshuo1991/openterm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48642482\">https://n...",
-      "published": "2026-06-23T09:36:41+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Sakana.ai releases a model competiting with Fable",
-      "link": "https://sakana.ai/fugu-release/",
-      "summary": "<p>Article URL: <a href=\"https://sakana.ai/fugu-release/\">https://sakana.ai/fugu-release/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48642479\">https://news.ycombinator.com/...",
-      "published": "2026-06-23T09:36:20+00:00",
-      "domain": "sakana.ai",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "A game where you're an OS and have to manage processes, memory and I/O events",
-      "link": "https://github.com/plbrault/youre-the-os",
-      "summary": "<p>Article URL: <a href=\"https://github.com/plbrault/youre-the-os\">https://github.com/plbrault/youre-the-os</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48642474\">https://new...",
-      "published": "2026-06-23T09:35:26+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "AI models capable of devastating attacks on governments and business months away",
-      "link": "https://www.theguardian.com/technology/2026/jun/22/anthropic-claude-fable-ai-model-artificial-intelligence-national-security",
-      "summary": "<p>Article URL: <a href=\"https://www.theguardian.com/technology/2026/jun/22/anthropic-claude-fable-ai-model-artificial-intelligence-national-security\">https://www.theguardian.com/technology/2026/jun/2...",
-      "published": "2026-06-23T09:34:28+00:00",
-      "domain": "theguardian.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "OpenAI Expands Daybreak With GPT-5.5-Cyber to Help Defenders Patch Security Flaws",
-      "link": "https://thehackernews.com/2026/06/openai-expands-daybreak-with-gpt-55.html",
-      "summary": "OpenAI on Monday said it's releasing an improved version of its GPT\u20115.5\u2011Cyber model to trusted defenders as part of the Daybreak initiative&nbsp;the artificial intelligence (AI) company announced last...",
-      "published": "2026-06-23T09:26:58+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "AI Built a Nuke and Still Lost",
-      "link": "https://www.lwilko.com/blog/i-gave-an-ai-a-civilization",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48641927\">Comments</a>...",
-      "published": "2026-06-23T08:16:45+00:00",
-      "domain": "lwilko.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The new HTTP QUERY method explained",
-      "link": "https://kreya.app/blog/new-http-query-method-explained/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48640974\">Comments</a>...",
-      "published": "2026-06-23T06:05:37+00:00",
-      "domain": "kreya.app",
+      "title": "SpaceX Shares Fall Below $150 Debut Price For First Time",
+      "link": "https://www.reddit.com/r/technology/comments/1udi69a/spacex_shares_fall_below_150_debut_price_for/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1udi69a/spacex_shares_fall_below_150_debut_price_for/\"> <img alt=\"SpaceX Shares Fall Below $150 Debut Price For First Time\" src=\"...",
+      "published": "2026-06-23T14:08:21+00:00",
+      "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -325,6 +329,136 @@
   ],
   "overall_ranked": [
     {
+      "title": "Elevated error rate across multiple models",
+      "link": "https://status.claude.com/incidents/jbhf20wjmzrf",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48645386\">Comments</a>...",
+      "published": "2026-06-23T14:19:47+00:00",
+      "domain": "status.claude.com",
+      "scores": {
+        "chaos": 27.7,
+        "anarchy": 3.0,
+        "overall": 15.4
+      },
+      "keywords": {
+        "chaos": [
+          "error"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Former hacker saw the light\u2013and now wants to collect all of it",
+      "link": "https://arstechnica.com/features/2026/06/this-former-hacker-saw-the-light-and-now-wants-to-collect-all-of-it/",
+      "summary": "<p>Article URL: <a href=\"https://arstechnica.com/features/2026/06/this-former-hacker-saw-the-light-and-now-wants-to-collect-all-of-it/\">https://arstechnica.com/features/2026/06/this-former-hacker-saw-...",
+      "published": "2026-06-23T14:41:07+00:00",
+      "domain": "arstechnica.com",
+      "scores": {
+        "chaos": 18.0,
+        "anarchy": 12.0,
+        "overall": 15.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "GitHub Updates actions/checkout to Block Common Pwn Request Attack Patterns",
+      "link": "https://thehackernews.com/2026/06/github-updates-actionscheckout-to-block.html",
+      "summary": "GitHub is moving to strengthen software supply chain security by updating \"actions/checkout\" to block pwn request attacks that exploit the risky use of the \"pull_request_target workflow\" trigger to ru...",
+      "published": "2026-06-23T19:52:03+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Agentic AI: The Weapon That No Longer Needs a Warrior",
+      "link": "https://thehackernews.com/2026/06/agentic-ai-weapon-that-no-longer-needs.html",
+      "summary": "Every weapon begins as an extension of the hand that holds it. The spear lengthened the reach of the arm. The bow sent the point flying without the throw. The rifle placed a man's death a quarter mile...",
+      "published": "2026-06-23T17:00:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Imagin-4D: Image-Guided Controllable Interaction Generation",
+      "link": "https://imagin4d.github.io/",
+      "summary": "<p>Article URL: <a href=\"https://imagin4d.github.io/\">https://imagin4d.github.io/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48645812\">https://news.ycombinator.com/item?id=...",
+      "published": "2026-06-23T14:44:20+00:00",
+      "domain": "imagin4d.github.io",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "ECVT e-bike hub motor",
+      "link": "https://cedriceveleigh.substack.com/p/ecvt-e-bike-hub-motor",
+      "summary": "<p>Article URL: <a href=\"https://cedriceveleigh.substack.com/p/ecvt-e-bike-hub-motor\">https://cedriceveleigh.substack.com/p/ecvt-e-bike-hub-motor</a></p>\n<p>Comments URL: <a href=\"https://news.ycombin...",
+      "published": "2026-06-23T14:43:25+00:00",
+      "domain": "cedriceveleigh.substack.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Germany battles aggressive outbreak of poisonous caterpillars",
+      "link": "https://www.cnn.com/2026/06/23/world/germany-poisonous-caterpillars-outbreak-intl",
+      "summary": "<p>Article URL: <a href=\"https://www.cnn.com/2026/06/23/world/germany-poisonous-caterpillars-outbreak-intl\">https://www.cnn.com/2026/06/23/world/germany-poisonous-caterpillars-outbreak-intl</a></p>\n<p...",
+      "published": "2026-06-23T14:42:56+00:00",
+      "domain": "cnn.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Polymarket Trading Bot \u2013 Late-Entry Probability Capture on BTC 5/15-Min Markets",
+      "link": "https://github.com/casatrick/polymarket-trading-bot",
+      "summary": "<p>Article URL: <a href=\"https://github.com/casatrick/polymarket-trading-bot\">https://github.com/casatrick/polymarket-trading-bot</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id...",
+      "published": "2026-06-23T14:41:55+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "Malicious npm Packages Pose as PostCSS Tools to Deliver Windows RAT",
       "link": "https://thehackernews.com/2026/06/malicious-npm-packages-pose-as-postcss.html",
       "summary": "Cybersecurity researchers have discovered a set of malicious npm packages that are designed to deliver a Windows-based remote access trojan (RAT).\n\nThe list of identified packages, is below -\n\n\n  aes-...",
@@ -341,139 +475,11 @@
       }
     },
     {
-      "title": "WhatsApp VBScript Campaign Uses Fake Documents to Install ManageEngine RMM Tool",
-      "link": "https://thehackernews.com/2026/06/whatsapp-vbscript-campaign-uses-fake.html",
-      "summary": "Direct messages sent via WhatsApp are being used to distribute malicious Visual Basic Script (VBScript) files that lead to the installation of legitimate Remote Monitoring and Management (RMM) softwar...",
-      "published": "2026-06-23T11:08:40+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: I built a PC-part picker that handles compatibility and shortages",
-      "link": "https://pc-cool.com/",
-      "summary": "<p>Article URL: <a href=\"https://pc-cool.com/\">https://pc-cool.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48642491\">https://news.ycombinator.com/item?id=48642491</a></...",
-      "published": "2026-06-23T09:37:12+00:00",
-      "domain": "pc-cool.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "OpenTerm \u2013 A tiny, fast SSH client (no login, no cloud, free)",
-      "link": "https://github.com/zhangshuo1991/openterm",
-      "summary": "<p>Article URL: <a href=\"https://github.com/zhangshuo1991/openterm\">https://github.com/zhangshuo1991/openterm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48642482\">https://n...",
-      "published": "2026-06-23T09:36:41+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Sakana.ai releases a model competiting with Fable",
-      "link": "https://sakana.ai/fugu-release/",
-      "summary": "<p>Article URL: <a href=\"https://sakana.ai/fugu-release/\">https://sakana.ai/fugu-release/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48642479\">https://news.ycombinator.com/...",
-      "published": "2026-06-23T09:36:20+00:00",
-      "domain": "sakana.ai",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "A game where you're an OS and have to manage processes, memory and I/O events",
-      "link": "https://github.com/plbrault/youre-the-os",
-      "summary": "<p>Article URL: <a href=\"https://github.com/plbrault/youre-the-os\">https://github.com/plbrault/youre-the-os</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48642474\">https://new...",
-      "published": "2026-06-23T09:35:26+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "AI models capable of devastating attacks on governments and business months away",
-      "link": "https://www.theguardian.com/technology/2026/jun/22/anthropic-claude-fable-ai-model-artificial-intelligence-national-security",
-      "summary": "<p>Article URL: <a href=\"https://www.theguardian.com/technology/2026/jun/22/anthropic-claude-fable-ai-model-artificial-intelligence-national-security\">https://www.theguardian.com/technology/2026/jun/2...",
-      "published": "2026-06-23T09:34:28+00:00",
-      "domain": "theguardian.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "OpenAI Expands Daybreak With GPT-5.5-Cyber to Help Defenders Patch Security Flaws",
-      "link": "https://thehackernews.com/2026/06/openai-expands-daybreak-with-gpt-55.html",
-      "summary": "OpenAI on Monday said it's releasing an improved version of its GPT\u20115.5\u2011Cyber model to trusted defenders as part of the Daybreak initiative&nbsp;the artificial intelligence (AI) company announced last...",
-      "published": "2026-06-23T09:26:58+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "AI Built a Nuke and Still Lost",
-      "link": "https://www.lwilko.com/blog/i-gave-an-ai-a-civilization",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48641927\">Comments</a>...",
-      "published": "2026-06-23T08:16:45+00:00",
-      "domain": "lwilko.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The new HTTP QUERY method explained",
-      "link": "https://kreya.app/blog/new-http-query-method-explained/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48640974\">Comments</a>...",
-      "published": "2026-06-23T06:05:37+00:00",
-      "domain": "kreya.app",
+      "title": "SpaceX Shares Fall Below $150 Debut Price For First Time",
+      "link": "https://www.reddit.com/r/technology/comments/1udi69a/spacex_shares_fall_below_150_debut_price_for/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1udi69a/spacex_shares_fall_below_150_debut_price_for/\"> <img alt=\"SpaceX Shares Fall Below $150 Debut Price For First Time\" src=\"...",
+      "published": "2026-06-23T14:08:21+00:00",
+      "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -487,6 +493,118 @@
   ],
   "all_articles": [
     {
+      "title": "GitHub Updates actions/checkout to Block Common Pwn Request Attack Patterns",
+      "link": "https://thehackernews.com/2026/06/github-updates-actionscheckout-to-block.html",
+      "summary": "GitHub is moving to strengthen software supply chain security by updating \"actions/checkout\" to block pwn request attacks that exploit the risky use of the \"pull_request_target workflow\" trigger to ru...",
+      "published": "2026-06-23T19:52:03+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Agentic AI: The Weapon That No Longer Needs a Warrior",
+      "link": "https://thehackernews.com/2026/06/agentic-ai-weapon-that-no-longer-needs.html",
+      "summary": "Every weapon begins as an extension of the hand that holds it. The spear lengthened the reach of the arm. The bow sent the point flying without the throw. The rifle placed a man's death a quarter mile...",
+      "published": "2026-06-23T17:00:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Imagin-4D: Image-Guided Controllable Interaction Generation",
+      "link": "https://imagin4d.github.io/",
+      "summary": "<p>Article URL: <a href=\"https://imagin4d.github.io/\">https://imagin4d.github.io/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48645812\">https://news.ycombinator.com/item?id=...",
+      "published": "2026-06-23T14:44:20+00:00",
+      "domain": "imagin4d.github.io",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "ECVT e-bike hub motor",
+      "link": "https://cedriceveleigh.substack.com/p/ecvt-e-bike-hub-motor",
+      "summary": "<p>Article URL: <a href=\"https://cedriceveleigh.substack.com/p/ecvt-e-bike-hub-motor\">https://cedriceveleigh.substack.com/p/ecvt-e-bike-hub-motor</a></p>\n<p>Comments URL: <a href=\"https://news.ycombin...",
+      "published": "2026-06-23T14:43:25+00:00",
+      "domain": "cedriceveleigh.substack.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Germany battles aggressive outbreak of poisonous caterpillars",
+      "link": "https://www.cnn.com/2026/06/23/world/germany-poisonous-caterpillars-outbreak-intl",
+      "summary": "<p>Article URL: <a href=\"https://www.cnn.com/2026/06/23/world/germany-poisonous-caterpillars-outbreak-intl\">https://www.cnn.com/2026/06/23/world/germany-poisonous-caterpillars-outbreak-intl</a></p>\n<p...",
+      "published": "2026-06-23T14:42:56+00:00",
+      "domain": "cnn.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Polymarket Trading Bot \u2013 Late-Entry Probability Capture on BTC 5/15-Min Markets",
+      "link": "https://github.com/casatrick/polymarket-trading-bot",
+      "summary": "<p>Article URL: <a href=\"https://github.com/casatrick/polymarket-trading-bot\">https://github.com/casatrick/polymarket-trading-bot</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id...",
+      "published": "2026-06-23T14:41:55+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Former hacker saw the light\u2013and now wants to collect all of it",
+      "link": "https://arstechnica.com/features/2026/06/this-former-hacker-saw-the-light-and-now-wants-to-collect-all-of-it/",
+      "summary": "<p>Article URL: <a href=\"https://arstechnica.com/features/2026/06/this-former-hacker-saw-the-light-and-now-wants-to-collect-all-of-it/\">https://arstechnica.com/features/2026/06/this-former-hacker-saw-...",
+      "published": "2026-06-23T14:41:07+00:00",
+      "domain": "arstechnica.com",
+      "scores": {
+        "chaos": 18.0,
+        "anarchy": 12.0,
+        "overall": 15.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "Malicious npm Packages Pose as PostCSS Tools to Deliver Windows RAT",
       "link": "https://thehackernews.com/2026/06/malicious-npm-packages-pose-as-postcss.html",
       "summary": "Cybersecurity researchers have discovered a set of malicious npm packages that are designed to deliver a Windows-based remote access trojan (RAT).\n\nThe list of identified packages, is below -\n\n\n  aes-...",
@@ -503,139 +621,29 @@
       }
     },
     {
-      "title": "WhatsApp VBScript Campaign Uses Fake Documents to Install ManageEngine RMM Tool",
-      "link": "https://thehackernews.com/2026/06/whatsapp-vbscript-campaign-uses-fake.html",
-      "summary": "Direct messages sent via WhatsApp are being used to distribute malicious Visual Basic Script (VBScript) files that lead to the installation of legitimate Remote Monitoring and Management (RMM) softwar...",
-      "published": "2026-06-23T11:08:40+05:30",
-      "domain": "thehackernews.com",
+      "title": "Elevated error rate across multiple models",
+      "link": "https://status.claude.com/incidents/jbhf20wjmzrf",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48645386\">Comments</a>...",
+      "published": "2026-06-23T14:19:47+00:00",
+      "domain": "status.claude.com",
       "scores": {
-        "chaos": 3.0,
+        "chaos": 27.7,
         "anarchy": 3.0,
-        "overall": 3.0
+        "overall": 15.4
       },
       "keywords": {
-        "chaos": [],
+        "chaos": [
+          "error"
+        ],
         "anarchy": []
       }
     },
     {
-      "title": "Show HN: I built a PC-part picker that handles compatibility and shortages",
-      "link": "https://pc-cool.com/",
-      "summary": "<p>Article URL: <a href=\"https://pc-cool.com/\">https://pc-cool.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48642491\">https://news.ycombinator.com/item?id=48642491</a></...",
-      "published": "2026-06-23T09:37:12+00:00",
-      "domain": "pc-cool.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "OpenTerm \u2013 A tiny, fast SSH client (no login, no cloud, free)",
-      "link": "https://github.com/zhangshuo1991/openterm",
-      "summary": "<p>Article URL: <a href=\"https://github.com/zhangshuo1991/openterm\">https://github.com/zhangshuo1991/openterm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48642482\">https://n...",
-      "published": "2026-06-23T09:36:41+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Sakana.ai releases a model competiting with Fable",
-      "link": "https://sakana.ai/fugu-release/",
-      "summary": "<p>Article URL: <a href=\"https://sakana.ai/fugu-release/\">https://sakana.ai/fugu-release/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48642479\">https://news.ycombinator.com/...",
-      "published": "2026-06-23T09:36:20+00:00",
-      "domain": "sakana.ai",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "A game where you're an OS and have to manage processes, memory and I/O events",
-      "link": "https://github.com/plbrault/youre-the-os",
-      "summary": "<p>Article URL: <a href=\"https://github.com/plbrault/youre-the-os\">https://github.com/plbrault/youre-the-os</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48642474\">https://new...",
-      "published": "2026-06-23T09:35:26+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "AI models capable of devastating attacks on governments and business months away",
-      "link": "https://www.theguardian.com/technology/2026/jun/22/anthropic-claude-fable-ai-model-artificial-intelligence-national-security",
-      "summary": "<p>Article URL: <a href=\"https://www.theguardian.com/technology/2026/jun/22/anthropic-claude-fable-ai-model-artificial-intelligence-national-security\">https://www.theguardian.com/technology/2026/jun/2...",
-      "published": "2026-06-23T09:34:28+00:00",
-      "domain": "theguardian.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "OpenAI Expands Daybreak With GPT-5.5-Cyber to Help Defenders Patch Security Flaws",
-      "link": "https://thehackernews.com/2026/06/openai-expands-daybreak-with-gpt-55.html",
-      "summary": "OpenAI on Monday said it's releasing an improved version of its GPT\u20115.5\u2011Cyber model to trusted defenders as part of the Daybreak initiative&nbsp;the artificial intelligence (AI) company announced last...",
-      "published": "2026-06-23T09:26:58+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "AI Built a Nuke and Still Lost",
-      "link": "https://www.lwilko.com/blog/i-gave-an-ai-a-civilization",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48641927\">Comments</a>...",
-      "published": "2026-06-23T08:16:45+00:00",
-      "domain": "lwilko.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The new HTTP QUERY method explained",
-      "link": "https://kreya.app/blog/new-http-query-method-explained/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48640974\">Comments</a>...",
-      "published": "2026-06-23T06:05:37+00:00",
-      "domain": "kreya.app",
+      "title": "SpaceX Shares Fall Below $150 Debut Price For First Time",
+      "link": "https://www.reddit.com/r/technology/comments/1udi69a/spacex_shares_fall_below_150_debut_price_for/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1udi69a/spacex_shares_fall_below_150_debut_price_for/\"> <img alt=\"SpaceX Shares Fall Below $150 Debut Price For First Time\" src=\"...",
+      "published": "2026-06-23T14:08:21+00:00",
+      "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,

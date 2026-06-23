@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Malicious npm Packages Pose as PostCSS Tools to Deliver Windows RAT
+### Elevated error rate across multiple models
 - **Published**: June 23, 2026
-- **Summary**: Cybersecurity researchers have discovered a set of malicious npm packages that are designed to deliver a Windows-based remote access trojan (RAT).
+- **Summary**: ......
+- **Keywords**: error
+- [Read more](https://status.claude.com/incidents/jbhf20wjmzrf)
 
-Th...
-- [Read more](https://thehackernews.com/2026/06/malicious-npm-packages-pose-as-postcss.html)
-
-### WhatsApp VBScript Campaign Uses Fake Documents to Install ManageEngine RMM Tool
+### Former hacker saw the light–and now wants to collect all of it
 - **Published**: June 23, 2026
-- **Summary**: Direct messages sent via WhatsApp are being used to distribute malicious Visual Basic Script (VBScript) files that lead to the installation of legitim...
-- [Read more](https://thehackernews.com/2026/06/whatsapp-vbscript-campaign-uses-fake.html)
+- **Summary**: https://arstechnica.com/features/2026/06/this-former-hacker-saw-......
+- [Read more](https://arstechnica.com/features/2026/06/this-former-hacker-saw-the-light-and-now-wants-to-collect-all-of-it/)
 
 ---
 
