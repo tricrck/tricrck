@@ -16,17 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### SpaceX stock has fallen all the way down to the $150s — That’s from its all-time high of over $225 on June 16, and within a razor-thin margin of its opening price of $150
+### Malicious npm Packages Pose as PostCSS Tools to Deliver Windows RAT
 - **Published**: June 23, 2026
-- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1ud3u0f/spacex_stock_has_fallen_all_the_way_down_to_the/"> <img alt="SpaceX stock has falle...
-- **Keywords**: down, down
-- [Read more](https://www.reddit.com/r/technology/comments/1ud3u0f/spacex_stock_has_fallen_all_the_way_down_to_the/)
+- **Summary**: Cybersecurity researchers have discovered a set of malicious npm packages that are designed to deliver a Windows-based remote access trojan (RAT).
 
-### That I'm Using .NET
+Th...
+- [Read more](https://thehackernews.com/2026/06/malicious-npm-packages-pose-as-postcss.html)
+
+### WhatsApp VBScript Campaign Uses Fake Documents to Install ManageEngine RMM Tool
 - **Published**: June 23, 2026
-- **Summary**: https://medium.com/c-sharp-programming/7-ways-that-im-using-net-93c669143cc8</a></p>
-<p>Comments ......
-- [Read more](https://medium.com/c-sharp-programming/7-ways-that-im-using-net-93c669143cc8)
+- **Summary**: Direct messages sent via WhatsApp are being used to distribute malicious Visual Basic Script (VBScript) files that lead to the installation of legitim...
+- [Read more](https://thehackernews.com/2026/06/whatsapp-vbscript-campaign-uses-fake.html)
 
 ---
 
