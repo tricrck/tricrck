@@ -16,16 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### 29-Year-Old Squid Proxy Bug 'Squidbleed' Can Leak Cleartext HTTP Requests
-- **Published**: June 22, 2026
-- **Summary**: A heap over-read in the Squid web proxy can leak another user's cleartext HTTP request, including any credentials or session tokens it carries, to any...
-- **Keywords**: bug
-- [Read more](https://thehackernews.com/2026/06/29-year-old-squid-proxy-bug-squidbleed.html)
+### SpaceX stock has fallen all the way down to the $150s — That’s from its all-time high of over $225 on June 16, and within a razor-thin margin of its opening price of $150
+- **Published**: June 23, 2026
+- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1ud3u0f/spacex_stock_has_fallen_all_the_way_down_to_the/"> <img alt="SpaceX stock has falle...
+- **Keywords**: down, down
+- [Read more](https://www.reddit.com/r/technology/comments/1ud3u0f/spacex_stock_has_fallen_all_the_way_down_to_the/)
 
-### ShapedPlugin WordPress Pro Plugins Backdoored in Supply Chain Attack
-- **Published**: June 22, 2026
-- **Summary**: Multiple WordPress plugins from ShapedPlugin were compromised in a supply chain attack after unknown threat actors managed to tamper with the official...
-- [Read more](https://thehackernews.com/2026/06/shapedplugin-wordpress-pro-plugins.html)
+### That I'm Using .NET
+- **Published**: June 23, 2026
+- **Summary**: https://medium.com/c-sharp-programming/7-ways-that-im-using-net-93c669143cc8</a></p>
+<p>Comments ......
+- [Read more](https://medium.com/c-sharp-programming/7-ways-that-im-using-net-93c669143cc8)
 
 ---
 
