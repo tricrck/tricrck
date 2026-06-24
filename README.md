@@ -16,17 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### US AI stock sell-off shakes markets from Wall Street to Asia
+### DoJ Seizes Huione Cloud Account Tied to Cyber Scam Money Laundering
 - **Published**: June 24, 2026
-- **Summary**: https://www.theguardian.com/business/2026/jun/23/ai-stocks-sell-off-us-markets</a></p>
-<p>Comme......
-- [Read more](https://www.theguardian.com/business/2026/jun/23/ai-stocks-sell-off-us-markets)
+- **Summary**: The U.S. Department of Justice (DoJ) on Tuesday announced the seizure of a cloud computing account put to use by subsidiaries of Cambodia-based corpor...
+- [Read more](https://thehackernews.com/2026/06/doj-seizes-huione-cloud-account-tied-to.html)
 
-### Want to feel happier at work? Take a five-minute walk
+### Cisco Unified CM Flaw Exploited After PoC Reveals File-Write Path to Root
 - **Published**: June 24, 2026
-- **Summary**: https://www.bbc.com/news/articles/c78yzz936evo</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48654770"......
-- [Read more](https://www.bbc.com/news/articles/c78yzz936evo)
+- **Summary**: Threat actors have begun to exploit a recently disclosed critical security flaw impacting Cisco Unified Communications Manager (Unified CM) and Unifie...
+- [Read more](https://thehackernews.com/2026/06/cisco-unified-cm-flaw-exploited-after.html)
 
 ---
 
