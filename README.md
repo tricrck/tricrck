@@ -16,15 +16,18 @@
 
 ## 🚨 Tech Stories
 
-### DoJ Seizes Huione Cloud Account Tied to Cyber Scam Money Laundering
+### Dawn of the Apex Agentic Adversary
 - **Published**: June 24, 2026
-- **Summary**: The U.S. Department of Justice (DoJ) on Tuesday announced the seizure of a cloud computing account put to use by subsidiaries of Cambodia-based corpor...
-- [Read more](https://thehackernews.com/2026/06/doj-seizes-huione-cloud-account-tied-to.html)
+- **Summary**: We are standing at the end of an era we never thought to mourn: the era of human-speed threats.
 
-### Cisco Unified CM Flaw Exploited After PoC Reveals File-Write Path to Root
+For years, cybersecurity moved to a rhythm organizati...
+- **Keywords**: bug
+- [Read more](https://thehackernews.com/2026/06/dawn-of-apex-agentic-adversary.html)
+
+### Cordyceps CI/CD Flaws Expose 300+ GitHub Repositories to Supply-Chain Attacks
 - **Published**: June 24, 2026
-- **Summary**: Threat actors have begun to exploit a recently disclosed critical security flaw impacting Cisco Unified Communications Manager (Unified CM) and Unifie...
-- [Read more](https://thehackernews.com/2026/06/cisco-unified-cm-flaw-exploited-after.html)
+- **Summary**: Cybersecurity researchers have flagged a new class of CI/CD workflow weakness that allows attackers to hijack workflows and compromise open-source sup...
+- [Read more](https://thehackernews.com/2026/06/cordyceps-cicd-flaws-expose-300-github.html)
 
 ---
 
