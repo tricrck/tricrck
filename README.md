@@ -16,15 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### FortiBleed Targeted FortiGate Firewalls in 110 Million-Credential Harvesting Operation
-- **Published**: June 23, 2026
-- **Summary**: A Russian-speaking initial access broker (IAB) driven by financial gain is assessed to be behind a large-scale credential-harvesting operation known a...
-- [Read more](https://thehackernews.com/2026/06/fortibleed-targeted-fortigate-firewalls.html)
+### US AI stock sell-off shakes markets from Wall Street to Asia
+- **Published**: June 24, 2026
+- **Summary**: https://www.theguardian.com/business/2026/jun/23/ai-stocks-sell-off-us-markets</a></p>
+<p>Comme......
+- [Read more](https://www.theguardian.com/business/2026/jun/23/ai-stocks-sell-off-us-markets)
 
-### Fake AI Agent Skill Passed Security Scans and Reportedly Reached 26,000 Agents
-- **Published**: June 23, 2026
-- **Summary**: Security firm&nbsp;AIR&nbsp;built a fake AI agent skill, pushed it through a popular skill marketplace and an Instagram ad, and says it reached roughl...
-- [Read more](https://thehackernews.com/2026/06/fake-ai-agent-skill-passed-security.html)
+### Want to feel happier at work? Take a five-minute walk
+- **Published**: June 24, 2026
+- **Summary**: https://www.bbc.com/news/articles/c78yzz936evo</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48654770"......
+- [Read more](https://www.bbc.com/news/articles/c78yzz936evo)
 
 ---
 
