@@ -16,19 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### New Gaslight macOS Malware Uses Prompt Injection to Disrupt AI-Assisted Analysis
+### Inaccurate diagnostic error displayed to all BMW i4 owners
 - **Published**: June 25, 2026
-- **Summary**: A previously undocumented Rust-based macOS implant and information stealer has been found to embed a prompt injection payload designed to trick a malw...
-- **Keywords**: disrupt
-- [Read more](https://thehackernews.com/2026/06/new-gaslight-macos-malware-uses-prompt.html)
+- **Summary**: https://www.i4talk.com/threads/replace-battery-error-today-june-24-common-issue.15861/<......
+- **Keywords**: error, error, error
+- [Read more](https://www.i4talk.com/threads/replace-battery-error-today-june-24-common-issue.15861/)
 
-### ThreatsDay Bulletin: Smart TV Proxyware, 24-Year curl Bug, AI Crime Forums + 13 More Stories
+### Software Engineers Are Facing an Existential Crisis As They Drown In Horrendous AI Code
 - **Published**: June 25, 2026
-- **Summary**: It’s dumb out there again.
-
-This week has the usual smell of prod on fire and nobody wanting to admit who left the door open — old creds still working...
-- **Keywords**: bug
-- [Read more](https://thehackernews.com/2026/06/threatsday-bulletin-smart-tv-proxyware.html)
+- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1ufed4k/software_engineers_are_facing_an_existential/"> <img alt="Software Engineers Are Fa...
+- **Keywords**: crisis, crisis
+- [Read more](https://www.reddit.com/r/technology/comments/1ufed4k/software_engineers_are_facing_an_existential/)
 
 ---
 
