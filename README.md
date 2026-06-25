@@ -16,15 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Hotly anticipated Grand Theft Auto VI will cost more than other AAA games
+### A Y2K bug surfaced 26 years late today
 - **Published**: June 25, 2026
-- **Summary**: https://arstechnica.com/gaming/2026/06/grand-theft-auto-vi-will-cost-80-witho......
-- [Read more](https://arstechnica.com/gaming/2026/06/grand-theft-auto-vi-will-cost-80-without-a-physical-disc/)
+- **Summary**: https://old.reddit.com/r/sysadmin/comments/1uetdyw/a_y2k_bug_surfaced_26_years_late......
+- **Keywords**: bug
+- [Read more](https://old.reddit.com/r/sysadmin/comments/1uetdyw/a_y2k_bug_surfaced_26_years_late_today/)
 
-### Loop engineering, latest AI buzzword, still needs humans in the loop
+### New Mistic Backdoor Linked to KongTuke in ClickFix and ModeloRAT Campaigns
 - **Published**: June 25, 2026
-- **Summary**: https://www.theregister.com/ai-and-ml/2026/06/24/l......
-- [Read more](https://www.theregister.com/ai-and-ml/2026/06/24/loop-engineering-latest-ai-buzzword-still-needs-humans-in-the-loop/5261735)
+- **Summary**: A new, stealthy backdoor named Mistic has been deployed as part of suspected financially motivated attacks aimed at multiple organizations spanning in...
+- [Read more](https://thehackernews.com/2026/06/new-mistic-backdoor-linked-to-kongtuke.html)
 
 ---
 
