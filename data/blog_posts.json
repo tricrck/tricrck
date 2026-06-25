@@ -1,20 +1,70 @@
 {
   "chaos_ranked": [
     {
-      "title": "A Y2K bug surfaced 26 years late today",
-      "link": "https://old.reddit.com/r/sysadmin/comments/1uetdyw/a_y2k_bug_surfaced_26_years_late_today/",
-      "summary": "<p>Article URL: <a href=\"https://old.reddit.com/r/sysadmin/comments/1uetdyw/a_y2k_bug_surfaced_26_years_late_today/\">https://old.reddit.com/r/sysadmin/comments/1uetdyw/a_y2k_bug_surfaced_26_years_late...",
-      "published": "2026-06-25T09:15:36+00:00",
-      "domain": "old.reddit.com",
+      "title": "New Gaslight macOS Malware Uses Prompt Injection to Disrupt AI-Assisted Analysis",
+      "link": "https://thehackernews.com/2026/06/new-gaslight-macos-malware-uses-prompt.html",
+      "summary": "A previously undocumented Rust-based macOS implant and information stealer has been found to embed a prompt injection payload designed to trick a malware analyst's artificial intelligence (AI) tools a...",
+      "published": "2026-06-25T14:53:03+05:30",
+      "domain": "thehackernews.com",
       "scores": {
-        "chaos": 14.3,
+        "chaos": 12.8,
         "anarchy": 3.0,
-        "overall": 8.6
+        "overall": 7.9
+      },
+      "keywords": {
+        "chaos": [
+          "disrupt"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "ThreatsDay Bulletin: Smart TV Proxyware, 24-Year curl Bug, AI Crime Forums + 13 More Stories",
+      "link": "https://thehackernews.com/2026/06/threatsday-bulletin-smart-tv-proxyware.html",
+      "summary": "It\u2019s dumb out there again.\n\nThis week has the usual smell of prod on fire and nobody wanting to admit who left the door open \u2014 old creds still working, trusted apps doing sketchy crap, browser tricks ...",
+      "published": "2026-06-25T17:54:43+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 9.7,
+        "anarchy": 3.0,
+        "overall": 6.4
       },
       "keywords": {
         "chaos": [
           "bug"
         ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Surviving the Mythos Era: Richard Bejtlich on the Case for NDR",
+      "link": "https://thehackernews.com/2026/06/surviving-mythos-era-richard-bejtlich.html",
+      "summary": "Despite the abundance of telemetry at analysts\u2019 disposal, many security operations teams struggle to answer a few basic questions during incident investigation: What happened? What evidence do we have...",
+      "published": "2026-06-25T16:47:31+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "New BitCast Semantics and LLVM Back End Improvements",
+      "link": "https://ziglang.org/devlog/2026/?2026-06-25#2026-06-25",
+      "summary": "<p>Article URL: <a href=\"https://ziglang.org/devlog/2026/?2026-06-25#2026-06-25\">https://ziglang.org/devlog/2026/?2026-06-25#2026-06-25</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/i...",
+      "published": "2026-06-25T14:25:30+00:00",
+      "domain": "ziglang.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
         "anarchy": []
       }
     },
@@ -35,11 +85,11 @@
       }
     },
     {
-      "title": "Cisco Catalyst SD-WAN Zero-Day CVE-2026-20245 Exploited to Gain Root Access",
-      "link": "https://thehackernews.com/2026/06/cisco-catalyst-sd-wan-zero-day-cve-2026.html",
-      "summary": "An unknown threat actor exploited a recently disclosed high-severity security flaw impacting Cisco Catalyst SD-WAN as a zero-day at least two months before it was publicly disclosed, according to new ...",
-      "published": "2026-06-25T11:16:54+05:30",
-      "domain": "thehackernews.com",
+      "title": "A Bit of Tedious Drama at Bluesky",
+      "link": "https://www.popehat.com/p/a-bit-of-tedious-drama-at-bluesky",
+      "summary": "<p>Article URL: <a href=\"https://www.popehat.com/p/a-bit-of-tedious-drama-at-bluesky\">https://www.popehat.com/p/a-bit-of-tedious-drama-at-bluesky</a></p>\n<p>Comments URL: <a href=\"https://news.ycombin...",
+      "published": "2026-06-25T14:24:00+00:00",
+      "domain": "popehat.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -51,11 +101,11 @@
       }
     },
     {
-      "title": "US fighter pilot avoids British trial after raping a woman in England",
-      "link": "https://www.theguardian.com/uk-news/ng-interactive/2026/jun/25/us-fighter-pilot-strangled-woman-england-why-military-trial",
-      "summary": "<p>Article URL: <a href=\"https://www.theguardian.com/uk-news/ng-interactive/2026/jun/25/us-fighter-pilot-strangled-woman-england-why-military-trial\">https://www.theguardian.com/uk-news/ng-interactive/...",
-      "published": "2026-06-25T09:18:40+00:00",
-      "domain": "theguardian.com",
+      "title": "I was curious why MTP affects PP TPS in llama.cpp. My PoC recovers it?",
+      "link": "https://news.ycombinator.com/item?id=48673852",
+      "summary": "<p>I've been running Qwen3.6-35B-A3B locally on llama.cpp and noticed that prompt processing throughput gets too low with MTP. I got nerd-sniped.<p>I'm not a C++ dev, I know almost nothing about ML, a...",
+      "published": "2026-06-25T14:21:09+00:00",
+      "domain": "news.ycombinator.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -67,11 +117,11 @@
       }
     },
     {
-      "title": "Qualcomm Investor Day 2026 Data Center Announcements CPUs",
-      "link": "https://www.servethehome.com/qualcomm-investor-day-2026-data-center-announcements-cpus-ai-accelerators-and-more/",
-      "summary": "<p>Article URL: <a href=\"https://www.servethehome.com/qualcomm-investor-day-2026-data-center-announcements-cpus-ai-accelerators-and-more/\">https://www.servethehome.com/qualcomm-investor-day-2026-data-...",
-      "published": "2026-06-25T09:15:42+00:00",
-      "domain": "servethehome.com",
+      "title": "Zig's New BitCast Semantics and LLVM Back End Improvements",
+      "link": "https://ziglang.org/devlog/2026/#2026-06-25",
+      "summary": "<p>Article URL: <a href=\"https://ziglang.org/devlog/2026/#2026-06-25\">https://ziglang.org/devlog/2026/#2026-06-25</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48673825\">https...",
+      "published": "2026-06-25T14:19:28+00:00",
+      "domain": "ziglang.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -83,11 +133,11 @@
       }
     },
     {
-      "title": "Calculate Real-Time Implied Volatility for Commodity Options",
-      "link": "https://medium.com/@DolphinDB_Inc/how-we-built-a-real-time-implied-volatility-engine-for-commodity-options-da1b6ad73297",
-      "summary": "<p>Article URL: <a href=\"https://medium.com/@DolphinDB_Inc/how-we-built-a-real-time-implied-volatility-engine-for-commodity-options-da1b6ad73297\">https://medium.com/@DolphinDB_Inc/how-we-built-a-real-...",
-      "published": "2026-06-25T09:13:29+00:00",
-      "domain": "medium.com",
+      "title": "AEO and GEO: one real study, a pile of mythology, and a traffic cliff",
+      "link": "https://okaneland.com/study/aeo-and-geo-what-the-research-says/",
+      "summary": "<p>Article URL: <a href=\"https://okaneland.com/study/aeo-and-geo-what-the-research-says/\">https://okaneland.com/study/aeo-and-geo-what-the-research-says/</a></p>\n<p>Comments URL: <a href=\"https://news...",
+      "published": "2026-06-25T14:19:14+00:00",
+      "domain": "okaneland.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -99,59 +149,11 @@
       }
     },
     {
-      "title": "Warrior Cats Name Generator",
-      "link": "https://warriorcatsnamegenerator.net/",
-      "summary": "<p>Article URL: <a href=\"https://warriorcatsnamegenerator.net/\">https://warriorcatsnamegenerator.net/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48670955\">https://news.ycom...",
-      "published": "2026-06-25T09:12:31+00:00",
-      "domain": "warriorcatsnamegenerator.net",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Wikipedia Workers in Britain set global first by seeking union recognition",
-      "link": "https://utaw.tech/news/wikipedia-recognition",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48669932\">Comments</a>...",
-      "published": "2026-06-25T07:02:37+00:00",
-      "domain": "utaw.tech",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Half-Life 2 in a Browser",
-      "link": "https://hl2.slqnt.dev/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48669534\">Comments</a>...",
-      "published": "2026-06-25T06:00:04+00:00",
-      "domain": "hl2.slqnt.dev",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Cloudflare launched self-managed OAuth for all",
-      "link": "https://blog.cloudflare.com/oauth-for-all/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48668033\">Comments</a>...",
-      "published": "2026-06-25T02:18:10+00:00",
-      "domain": "blog.cloudflare.com",
+      "title": "\u2018Cost Me the Election\u2019: Data Centers Trigger Voter Backlash",
+      "link": "https://www.reddit.com/r/technology/comments/1uf9hs7/cost_me_the_election_data_centers_trigger_voter/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1uf9hs7/cost_me_the_election_data_centers_trigger_voter/\"> <img alt=\"\u2018Cost Me the Election\u2019: Data Centers Trigger Voter Backlash\"...",
+      "published": "2026-06-25T13:06:12+00:00",
+      "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -165,6 +167,74 @@
   ],
   "anarchy_ranked": [
     {
+      "title": "ThreatsDay Bulletin: Smart TV Proxyware, 24-Year curl Bug, AI Crime Forums + 13 More Stories",
+      "link": "https://thehackernews.com/2026/06/threatsday-bulletin-smart-tv-proxyware.html",
+      "summary": "It\u2019s dumb out there again.\n\nThis week has the usual smell of prod on fire and nobody wanting to admit who left the door open \u2014 old creds still working, trusted apps doing sketchy crap, browser tricks ...",
+      "published": "2026-06-25T17:54:43+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 9.7,
+        "anarchy": 3.0,
+        "overall": 6.4
+      },
+      "keywords": {
+        "chaos": [
+          "bug"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Surviving the Mythos Era: Richard Bejtlich on the Case for NDR",
+      "link": "https://thehackernews.com/2026/06/surviving-mythos-era-richard-bejtlich.html",
+      "summary": "Despite the abundance of telemetry at analysts\u2019 disposal, many security operations teams struggle to answer a few basic questions during incident investigation: What happened? What evidence do we have...",
+      "published": "2026-06-25T16:47:31+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "New Gaslight macOS Malware Uses Prompt Injection to Disrupt AI-Assisted Analysis",
+      "link": "https://thehackernews.com/2026/06/new-gaslight-macos-malware-uses-prompt.html",
+      "summary": "A previously undocumented Rust-based macOS implant and information stealer has been found to embed a prompt injection payload designed to trick a malware analyst's artificial intelligence (AI) tools a...",
+      "published": "2026-06-25T14:53:03+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 12.8,
+        "anarchy": 3.0,
+        "overall": 7.9
+      },
+      "keywords": {
+        "chaos": [
+          "disrupt"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "New BitCast Semantics and LLVM Back End Improvements",
+      "link": "https://ziglang.org/devlog/2026/?2026-06-25#2026-06-25",
+      "summary": "<p>Article URL: <a href=\"https://ziglang.org/devlog/2026/?2026-06-25#2026-06-25\">https://ziglang.org/devlog/2026/?2026-06-25#2026-06-25</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/i...",
+      "published": "2026-06-25T14:25:30+00:00",
+      "domain": "ziglang.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "New Mistic Backdoor Linked to KongTuke in ClickFix and ModeloRAT Campaigns",
       "link": "https://thehackernews.com/2026/06/new-mistic-backdoor-linked-to-kongtuke.html",
       "summary": "A new, stealthy backdoor named Mistic has been deployed as part of suspected financially motivated attacks aimed at multiple organizations spanning insurance, education, IT, and professional services ...",
@@ -181,11 +251,11 @@
       }
     },
     {
-      "title": "Cisco Catalyst SD-WAN Zero-Day CVE-2026-20245 Exploited to Gain Root Access",
-      "link": "https://thehackernews.com/2026/06/cisco-catalyst-sd-wan-zero-day-cve-2026.html",
-      "summary": "An unknown threat actor exploited a recently disclosed high-severity security flaw impacting Cisco Catalyst SD-WAN as a zero-day at least two months before it was publicly disclosed, according to new ...",
-      "published": "2026-06-25T11:16:54+05:30",
-      "domain": "thehackernews.com",
+      "title": "A Bit of Tedious Drama at Bluesky",
+      "link": "https://www.popehat.com/p/a-bit-of-tedious-drama-at-bluesky",
+      "summary": "<p>Article URL: <a href=\"https://www.popehat.com/p/a-bit-of-tedious-drama-at-bluesky\">https://www.popehat.com/p/a-bit-of-tedious-drama-at-bluesky</a></p>\n<p>Comments URL: <a href=\"https://news.ycombin...",
+      "published": "2026-06-25T14:24:00+00:00",
+      "domain": "popehat.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -197,11 +267,11 @@
       }
     },
     {
-      "title": "US fighter pilot avoids British trial after raping a woman in England",
-      "link": "https://www.theguardian.com/uk-news/ng-interactive/2026/jun/25/us-fighter-pilot-strangled-woman-england-why-military-trial",
-      "summary": "<p>Article URL: <a href=\"https://www.theguardian.com/uk-news/ng-interactive/2026/jun/25/us-fighter-pilot-strangled-woman-england-why-military-trial\">https://www.theguardian.com/uk-news/ng-interactive/...",
-      "published": "2026-06-25T09:18:40+00:00",
-      "domain": "theguardian.com",
+      "title": "I was curious why MTP affects PP TPS in llama.cpp. My PoC recovers it?",
+      "link": "https://news.ycombinator.com/item?id=48673852",
+      "summary": "<p>I've been running Qwen3.6-35B-A3B locally on llama.cpp and noticed that prompt processing throughput gets too low with MTP. I got nerd-sniped.<p>I'm not a C++ dev, I know almost nothing about ML, a...",
+      "published": "2026-06-25T14:21:09+00:00",
+      "domain": "news.ycombinator.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -213,11 +283,11 @@
       }
     },
     {
-      "title": "Qualcomm Investor Day 2026 Data Center Announcements CPUs",
-      "link": "https://www.servethehome.com/qualcomm-investor-day-2026-data-center-announcements-cpus-ai-accelerators-and-more/",
-      "summary": "<p>Article URL: <a href=\"https://www.servethehome.com/qualcomm-investor-day-2026-data-center-announcements-cpus-ai-accelerators-and-more/\">https://www.servethehome.com/qualcomm-investor-day-2026-data-...",
-      "published": "2026-06-25T09:15:42+00:00",
-      "domain": "servethehome.com",
+      "title": "Zig's New BitCast Semantics and LLVM Back End Improvements",
+      "link": "https://ziglang.org/devlog/2026/#2026-06-25",
+      "summary": "<p>Article URL: <a href=\"https://ziglang.org/devlog/2026/#2026-06-25\">https://ziglang.org/devlog/2026/#2026-06-25</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48673825\">https...",
+      "published": "2026-06-25T14:19:28+00:00",
+      "domain": "ziglang.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -229,29 +299,11 @@
       }
     },
     {
-      "title": "A Y2K bug surfaced 26 years late today",
-      "link": "https://old.reddit.com/r/sysadmin/comments/1uetdyw/a_y2k_bug_surfaced_26_years_late_today/",
-      "summary": "<p>Article URL: <a href=\"https://old.reddit.com/r/sysadmin/comments/1uetdyw/a_y2k_bug_surfaced_26_years_late_today/\">https://old.reddit.com/r/sysadmin/comments/1uetdyw/a_y2k_bug_surfaced_26_years_late...",
-      "published": "2026-06-25T09:15:36+00:00",
-      "domain": "old.reddit.com",
-      "scores": {
-        "chaos": 14.3,
-        "anarchy": 3.0,
-        "overall": 8.6
-      },
-      "keywords": {
-        "chaos": [
-          "bug"
-        ],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Calculate Real-Time Implied Volatility for Commodity Options",
-      "link": "https://medium.com/@DolphinDB_Inc/how-we-built-a-real-time-implied-volatility-engine-for-commodity-options-da1b6ad73297",
-      "summary": "<p>Article URL: <a href=\"https://medium.com/@DolphinDB_Inc/how-we-built-a-real-time-implied-volatility-engine-for-commodity-options-da1b6ad73297\">https://medium.com/@DolphinDB_Inc/how-we-built-a-real-...",
-      "published": "2026-06-25T09:13:29+00:00",
-      "domain": "medium.com",
+      "title": "AEO and GEO: one real study, a pile of mythology, and a traffic cliff",
+      "link": "https://okaneland.com/study/aeo-and-geo-what-the-research-says/",
+      "summary": "<p>Article URL: <a href=\"https://okaneland.com/study/aeo-and-geo-what-the-research-says/\">https://okaneland.com/study/aeo-and-geo-what-the-research-says/</a></p>\n<p>Comments URL: <a href=\"https://news...",
+      "published": "2026-06-25T14:19:14+00:00",
+      "domain": "okaneland.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -263,59 +315,11 @@
       }
     },
     {
-      "title": "Warrior Cats Name Generator",
-      "link": "https://warriorcatsnamegenerator.net/",
-      "summary": "<p>Article URL: <a href=\"https://warriorcatsnamegenerator.net/\">https://warriorcatsnamegenerator.net/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48670955\">https://news.ycom...",
-      "published": "2026-06-25T09:12:31+00:00",
-      "domain": "warriorcatsnamegenerator.net",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Wikipedia Workers in Britain set global first by seeking union recognition",
-      "link": "https://utaw.tech/news/wikipedia-recognition",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48669932\">Comments</a>...",
-      "published": "2026-06-25T07:02:37+00:00",
-      "domain": "utaw.tech",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Half-Life 2 in a Browser",
-      "link": "https://hl2.slqnt.dev/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48669534\">Comments</a>...",
-      "published": "2026-06-25T06:00:04+00:00",
-      "domain": "hl2.slqnt.dev",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Cloudflare launched self-managed OAuth for all",
-      "link": "https://blog.cloudflare.com/oauth-for-all/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48668033\">Comments</a>...",
-      "published": "2026-06-25T02:18:10+00:00",
-      "domain": "blog.cloudflare.com",
+      "title": "\u2018Cost Me the Election\u2019: Data Centers Trigger Voter Backlash",
+      "link": "https://www.reddit.com/r/technology/comments/1uf9hs7/cost_me_the_election_data_centers_trigger_voter/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1uf9hs7/cost_me_the_election_data_centers_trigger_voter/\"> <img alt=\"\u2018Cost Me the Election\u2019: Data Centers Trigger Voter Backlash\"...",
+      "published": "2026-06-25T13:06:12+00:00",
+      "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -329,20 +333,70 @@
   ],
   "overall_ranked": [
     {
-      "title": "A Y2K bug surfaced 26 years late today",
-      "link": "https://old.reddit.com/r/sysadmin/comments/1uetdyw/a_y2k_bug_surfaced_26_years_late_today/",
-      "summary": "<p>Article URL: <a href=\"https://old.reddit.com/r/sysadmin/comments/1uetdyw/a_y2k_bug_surfaced_26_years_late_today/\">https://old.reddit.com/r/sysadmin/comments/1uetdyw/a_y2k_bug_surfaced_26_years_late...",
-      "published": "2026-06-25T09:15:36+00:00",
-      "domain": "old.reddit.com",
+      "title": "New Gaslight macOS Malware Uses Prompt Injection to Disrupt AI-Assisted Analysis",
+      "link": "https://thehackernews.com/2026/06/new-gaslight-macos-malware-uses-prompt.html",
+      "summary": "A previously undocumented Rust-based macOS implant and information stealer has been found to embed a prompt injection payload designed to trick a malware analyst's artificial intelligence (AI) tools a...",
+      "published": "2026-06-25T14:53:03+05:30",
+      "domain": "thehackernews.com",
       "scores": {
-        "chaos": 14.3,
+        "chaos": 12.8,
         "anarchy": 3.0,
-        "overall": 8.6
+        "overall": 7.9
+      },
+      "keywords": {
+        "chaos": [
+          "disrupt"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "ThreatsDay Bulletin: Smart TV Proxyware, 24-Year curl Bug, AI Crime Forums + 13 More Stories",
+      "link": "https://thehackernews.com/2026/06/threatsday-bulletin-smart-tv-proxyware.html",
+      "summary": "It\u2019s dumb out there again.\n\nThis week has the usual smell of prod on fire and nobody wanting to admit who left the door open \u2014 old creds still working, trusted apps doing sketchy crap, browser tricks ...",
+      "published": "2026-06-25T17:54:43+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 9.7,
+        "anarchy": 3.0,
+        "overall": 6.4
       },
       "keywords": {
         "chaos": [
           "bug"
         ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Surviving the Mythos Era: Richard Bejtlich on the Case for NDR",
+      "link": "https://thehackernews.com/2026/06/surviving-mythos-era-richard-bejtlich.html",
+      "summary": "Despite the abundance of telemetry at analysts\u2019 disposal, many security operations teams struggle to answer a few basic questions during incident investigation: What happened? What evidence do we have...",
+      "published": "2026-06-25T16:47:31+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "New BitCast Semantics and LLVM Back End Improvements",
+      "link": "https://ziglang.org/devlog/2026/?2026-06-25#2026-06-25",
+      "summary": "<p>Article URL: <a href=\"https://ziglang.org/devlog/2026/?2026-06-25#2026-06-25\">https://ziglang.org/devlog/2026/?2026-06-25#2026-06-25</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/i...",
+      "published": "2026-06-25T14:25:30+00:00",
+      "domain": "ziglang.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
         "anarchy": []
       }
     },
@@ -363,11 +417,11 @@
       }
     },
     {
-      "title": "Cisco Catalyst SD-WAN Zero-Day CVE-2026-20245 Exploited to Gain Root Access",
-      "link": "https://thehackernews.com/2026/06/cisco-catalyst-sd-wan-zero-day-cve-2026.html",
-      "summary": "An unknown threat actor exploited a recently disclosed high-severity security flaw impacting Cisco Catalyst SD-WAN as a zero-day at least two months before it was publicly disclosed, according to new ...",
-      "published": "2026-06-25T11:16:54+05:30",
-      "domain": "thehackernews.com",
+      "title": "A Bit of Tedious Drama at Bluesky",
+      "link": "https://www.popehat.com/p/a-bit-of-tedious-drama-at-bluesky",
+      "summary": "<p>Article URL: <a href=\"https://www.popehat.com/p/a-bit-of-tedious-drama-at-bluesky\">https://www.popehat.com/p/a-bit-of-tedious-drama-at-bluesky</a></p>\n<p>Comments URL: <a href=\"https://news.ycombin...",
+      "published": "2026-06-25T14:24:00+00:00",
+      "domain": "popehat.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -379,11 +433,11 @@
       }
     },
     {
-      "title": "US fighter pilot avoids British trial after raping a woman in England",
-      "link": "https://www.theguardian.com/uk-news/ng-interactive/2026/jun/25/us-fighter-pilot-strangled-woman-england-why-military-trial",
-      "summary": "<p>Article URL: <a href=\"https://www.theguardian.com/uk-news/ng-interactive/2026/jun/25/us-fighter-pilot-strangled-woman-england-why-military-trial\">https://www.theguardian.com/uk-news/ng-interactive/...",
-      "published": "2026-06-25T09:18:40+00:00",
-      "domain": "theguardian.com",
+      "title": "I was curious why MTP affects PP TPS in llama.cpp. My PoC recovers it?",
+      "link": "https://news.ycombinator.com/item?id=48673852",
+      "summary": "<p>I've been running Qwen3.6-35B-A3B locally on llama.cpp and noticed that prompt processing throughput gets too low with MTP. I got nerd-sniped.<p>I'm not a C++ dev, I know almost nothing about ML, a...",
+      "published": "2026-06-25T14:21:09+00:00",
+      "domain": "news.ycombinator.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -395,11 +449,11 @@
       }
     },
     {
-      "title": "Qualcomm Investor Day 2026 Data Center Announcements CPUs",
-      "link": "https://www.servethehome.com/qualcomm-investor-day-2026-data-center-announcements-cpus-ai-accelerators-and-more/",
-      "summary": "<p>Article URL: <a href=\"https://www.servethehome.com/qualcomm-investor-day-2026-data-center-announcements-cpus-ai-accelerators-and-more/\">https://www.servethehome.com/qualcomm-investor-day-2026-data-...",
-      "published": "2026-06-25T09:15:42+00:00",
-      "domain": "servethehome.com",
+      "title": "Zig's New BitCast Semantics and LLVM Back End Improvements",
+      "link": "https://ziglang.org/devlog/2026/#2026-06-25",
+      "summary": "<p>Article URL: <a href=\"https://ziglang.org/devlog/2026/#2026-06-25\">https://ziglang.org/devlog/2026/#2026-06-25</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48673825\">https...",
+      "published": "2026-06-25T14:19:28+00:00",
+      "domain": "ziglang.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -411,11 +465,11 @@
       }
     },
     {
-      "title": "Calculate Real-Time Implied Volatility for Commodity Options",
-      "link": "https://medium.com/@DolphinDB_Inc/how-we-built-a-real-time-implied-volatility-engine-for-commodity-options-da1b6ad73297",
-      "summary": "<p>Article URL: <a href=\"https://medium.com/@DolphinDB_Inc/how-we-built-a-real-time-implied-volatility-engine-for-commodity-options-da1b6ad73297\">https://medium.com/@DolphinDB_Inc/how-we-built-a-real-...",
-      "published": "2026-06-25T09:13:29+00:00",
-      "domain": "medium.com",
+      "title": "AEO and GEO: one real study, a pile of mythology, and a traffic cliff",
+      "link": "https://okaneland.com/study/aeo-and-geo-what-the-research-says/",
+      "summary": "<p>Article URL: <a href=\"https://okaneland.com/study/aeo-and-geo-what-the-research-says/\">https://okaneland.com/study/aeo-and-geo-what-the-research-says/</a></p>\n<p>Comments URL: <a href=\"https://news...",
+      "published": "2026-06-25T14:19:14+00:00",
+      "domain": "okaneland.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -427,59 +481,11 @@
       }
     },
     {
-      "title": "Warrior Cats Name Generator",
-      "link": "https://warriorcatsnamegenerator.net/",
-      "summary": "<p>Article URL: <a href=\"https://warriorcatsnamegenerator.net/\">https://warriorcatsnamegenerator.net/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48670955\">https://news.ycom...",
-      "published": "2026-06-25T09:12:31+00:00",
-      "domain": "warriorcatsnamegenerator.net",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Wikipedia Workers in Britain set global first by seeking union recognition",
-      "link": "https://utaw.tech/news/wikipedia-recognition",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48669932\">Comments</a>...",
-      "published": "2026-06-25T07:02:37+00:00",
-      "domain": "utaw.tech",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Half-Life 2 in a Browser",
-      "link": "https://hl2.slqnt.dev/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48669534\">Comments</a>...",
-      "published": "2026-06-25T06:00:04+00:00",
-      "domain": "hl2.slqnt.dev",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Cloudflare launched self-managed OAuth for all",
-      "link": "https://blog.cloudflare.com/oauth-for-all/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48668033\">Comments</a>...",
-      "published": "2026-06-25T02:18:10+00:00",
-      "domain": "blog.cloudflare.com",
+      "title": "\u2018Cost Me the Election\u2019: Data Centers Trigger Voter Backlash",
+      "link": "https://www.reddit.com/r/technology/comments/1uf9hs7/cost_me_the_election_data_centers_trigger_voter/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1uf9hs7/cost_me_the_election_data_centers_trigger_voter/\"> <img alt=\"\u2018Cost Me the Election\u2019: Data Centers Trigger Voter Backlash\"...",
+      "published": "2026-06-25T13:06:12+00:00",
+      "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -493,6 +499,74 @@
   ],
   "all_articles": [
     {
+      "title": "ThreatsDay Bulletin: Smart TV Proxyware, 24-Year curl Bug, AI Crime Forums + 13 More Stories",
+      "link": "https://thehackernews.com/2026/06/threatsday-bulletin-smart-tv-proxyware.html",
+      "summary": "It\u2019s dumb out there again.\n\nThis week has the usual smell of prod on fire and nobody wanting to admit who left the door open \u2014 old creds still working, trusted apps doing sketchy crap, browser tricks ...",
+      "published": "2026-06-25T17:54:43+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 9.7,
+        "anarchy": 3.0,
+        "overall": 6.4
+      },
+      "keywords": {
+        "chaos": [
+          "bug"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Surviving the Mythos Era: Richard Bejtlich on the Case for NDR",
+      "link": "https://thehackernews.com/2026/06/surviving-mythos-era-richard-bejtlich.html",
+      "summary": "Despite the abundance of telemetry at analysts\u2019 disposal, many security operations teams struggle to answer a few basic questions during incident investigation: What happened? What evidence do we have...",
+      "published": "2026-06-25T16:47:31+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "New Gaslight macOS Malware Uses Prompt Injection to Disrupt AI-Assisted Analysis",
+      "link": "https://thehackernews.com/2026/06/new-gaslight-macos-malware-uses-prompt.html",
+      "summary": "A previously undocumented Rust-based macOS implant and information stealer has been found to embed a prompt injection payload designed to trick a malware analyst's artificial intelligence (AI) tools a...",
+      "published": "2026-06-25T14:53:03+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 12.8,
+        "anarchy": 3.0,
+        "overall": 7.9
+      },
+      "keywords": {
+        "chaos": [
+          "disrupt"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "New BitCast Semantics and LLVM Back End Improvements",
+      "link": "https://ziglang.org/devlog/2026/?2026-06-25#2026-06-25",
+      "summary": "<p>Article URL: <a href=\"https://ziglang.org/devlog/2026/?2026-06-25#2026-06-25\">https://ziglang.org/devlog/2026/?2026-06-25#2026-06-25</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/i...",
+      "published": "2026-06-25T14:25:30+00:00",
+      "domain": "ziglang.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "New Mistic Backdoor Linked to KongTuke in ClickFix and ModeloRAT Campaigns",
       "link": "https://thehackernews.com/2026/06/new-mistic-backdoor-linked-to-kongtuke.html",
       "summary": "A new, stealthy backdoor named Mistic has been deployed as part of suspected financially motivated attacks aimed at multiple organizations spanning insurance, education, IT, and professional services ...",
@@ -509,11 +583,11 @@
       }
     },
     {
-      "title": "Cisco Catalyst SD-WAN Zero-Day CVE-2026-20245 Exploited to Gain Root Access",
-      "link": "https://thehackernews.com/2026/06/cisco-catalyst-sd-wan-zero-day-cve-2026.html",
-      "summary": "An unknown threat actor exploited a recently disclosed high-severity security flaw impacting Cisco Catalyst SD-WAN as a zero-day at least two months before it was publicly disclosed, according to new ...",
-      "published": "2026-06-25T11:16:54+05:30",
-      "domain": "thehackernews.com",
+      "title": "A Bit of Tedious Drama at Bluesky",
+      "link": "https://www.popehat.com/p/a-bit-of-tedious-drama-at-bluesky",
+      "summary": "<p>Article URL: <a href=\"https://www.popehat.com/p/a-bit-of-tedious-drama-at-bluesky\">https://www.popehat.com/p/a-bit-of-tedious-drama-at-bluesky</a></p>\n<p>Comments URL: <a href=\"https://news.ycombin...",
+      "published": "2026-06-25T14:24:00+00:00",
+      "domain": "popehat.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -525,11 +599,11 @@
       }
     },
     {
-      "title": "US fighter pilot avoids British trial after raping a woman in England",
-      "link": "https://www.theguardian.com/uk-news/ng-interactive/2026/jun/25/us-fighter-pilot-strangled-woman-england-why-military-trial",
-      "summary": "<p>Article URL: <a href=\"https://www.theguardian.com/uk-news/ng-interactive/2026/jun/25/us-fighter-pilot-strangled-woman-england-why-military-trial\">https://www.theguardian.com/uk-news/ng-interactive/...",
-      "published": "2026-06-25T09:18:40+00:00",
-      "domain": "theguardian.com",
+      "title": "I was curious why MTP affects PP TPS in llama.cpp. My PoC recovers it?",
+      "link": "https://news.ycombinator.com/item?id=48673852",
+      "summary": "<p>I've been running Qwen3.6-35B-A3B locally on llama.cpp and noticed that prompt processing throughput gets too low with MTP. I got nerd-sniped.<p>I'm not a C++ dev, I know almost nothing about ML, a...",
+      "published": "2026-06-25T14:21:09+00:00",
+      "domain": "news.ycombinator.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -541,11 +615,11 @@
       }
     },
     {
-      "title": "Qualcomm Investor Day 2026 Data Center Announcements CPUs",
-      "link": "https://www.servethehome.com/qualcomm-investor-day-2026-data-center-announcements-cpus-ai-accelerators-and-more/",
-      "summary": "<p>Article URL: <a href=\"https://www.servethehome.com/qualcomm-investor-day-2026-data-center-announcements-cpus-ai-accelerators-and-more/\">https://www.servethehome.com/qualcomm-investor-day-2026-data-...",
-      "published": "2026-06-25T09:15:42+00:00",
-      "domain": "servethehome.com",
+      "title": "Zig's New BitCast Semantics and LLVM Back End Improvements",
+      "link": "https://ziglang.org/devlog/2026/#2026-06-25",
+      "summary": "<p>Article URL: <a href=\"https://ziglang.org/devlog/2026/#2026-06-25\">https://ziglang.org/devlog/2026/#2026-06-25</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48673825\">https...",
+      "published": "2026-06-25T14:19:28+00:00",
+      "domain": "ziglang.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -557,29 +631,11 @@
       }
     },
     {
-      "title": "A Y2K bug surfaced 26 years late today",
-      "link": "https://old.reddit.com/r/sysadmin/comments/1uetdyw/a_y2k_bug_surfaced_26_years_late_today/",
-      "summary": "<p>Article URL: <a href=\"https://old.reddit.com/r/sysadmin/comments/1uetdyw/a_y2k_bug_surfaced_26_years_late_today/\">https://old.reddit.com/r/sysadmin/comments/1uetdyw/a_y2k_bug_surfaced_26_years_late...",
-      "published": "2026-06-25T09:15:36+00:00",
-      "domain": "old.reddit.com",
-      "scores": {
-        "chaos": 14.3,
-        "anarchy": 3.0,
-        "overall": 8.6
-      },
-      "keywords": {
-        "chaos": [
-          "bug"
-        ],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Calculate Real-Time Implied Volatility for Commodity Options",
-      "link": "https://medium.com/@DolphinDB_Inc/how-we-built-a-real-time-implied-volatility-engine-for-commodity-options-da1b6ad73297",
-      "summary": "<p>Article URL: <a href=\"https://medium.com/@DolphinDB_Inc/how-we-built-a-real-time-implied-volatility-engine-for-commodity-options-da1b6ad73297\">https://medium.com/@DolphinDB_Inc/how-we-built-a-real-...",
-      "published": "2026-06-25T09:13:29+00:00",
-      "domain": "medium.com",
+      "title": "AEO and GEO: one real study, a pile of mythology, and a traffic cliff",
+      "link": "https://okaneland.com/study/aeo-and-geo-what-the-research-says/",
+      "summary": "<p>Article URL: <a href=\"https://okaneland.com/study/aeo-and-geo-what-the-research-says/\">https://okaneland.com/study/aeo-and-geo-what-the-research-says/</a></p>\n<p>Comments URL: <a href=\"https://news...",
+      "published": "2026-06-25T14:19:14+00:00",
+      "domain": "okaneland.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -591,59 +647,11 @@
       }
     },
     {
-      "title": "Warrior Cats Name Generator",
-      "link": "https://warriorcatsnamegenerator.net/",
-      "summary": "<p>Article URL: <a href=\"https://warriorcatsnamegenerator.net/\">https://warriorcatsnamegenerator.net/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48670955\">https://news.ycom...",
-      "published": "2026-06-25T09:12:31+00:00",
-      "domain": "warriorcatsnamegenerator.net",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Wikipedia Workers in Britain set global first by seeking union recognition",
-      "link": "https://utaw.tech/news/wikipedia-recognition",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48669932\">Comments</a>...",
-      "published": "2026-06-25T07:02:37+00:00",
-      "domain": "utaw.tech",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Half-Life 2 in a Browser",
-      "link": "https://hl2.slqnt.dev/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48669534\">Comments</a>...",
-      "published": "2026-06-25T06:00:04+00:00",
-      "domain": "hl2.slqnt.dev",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Cloudflare launched self-managed OAuth for all",
-      "link": "https://blog.cloudflare.com/oauth-for-all/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48668033\">Comments</a>...",
-      "published": "2026-06-25T02:18:10+00:00",
-      "domain": "blog.cloudflare.com",
+      "title": "\u2018Cost Me the Election\u2019: Data Centers Trigger Voter Backlash",
+      "link": "https://www.reddit.com/r/technology/comments/1uf9hs7/cost_me_the_election_data_centers_trigger_voter/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1uf9hs7/cost_me_the_election_data_centers_trigger_voter/\"> <img alt=\"\u2018Cost Me the Election\u2019: Data Centers Trigger Voter Backlash\"...",
+      "published": "2026-06-25T13:06:12+00:00",
+      "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,

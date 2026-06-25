@@ -16,16 +16,19 @@
 
 ## 🚨 Tech Stories
 
-### A Y2K bug surfaced 26 years late today
+### New Gaslight macOS Malware Uses Prompt Injection to Disrupt AI-Assisted Analysis
 - **Published**: June 25, 2026
-- **Summary**: https://old.reddit.com/r/sysadmin/comments/1uetdyw/a_y2k_bug_surfaced_26_years_late......
-- **Keywords**: bug
-- [Read more](https://old.reddit.com/r/sysadmin/comments/1uetdyw/a_y2k_bug_surfaced_26_years_late_today/)
+- **Summary**: A previously undocumented Rust-based macOS implant and information stealer has been found to embed a prompt injection payload designed to trick a malw...
+- **Keywords**: disrupt
+- [Read more](https://thehackernews.com/2026/06/new-gaslight-macos-malware-uses-prompt.html)
 
-### New Mistic Backdoor Linked to KongTuke in ClickFix and ModeloRAT Campaigns
+### ThreatsDay Bulletin: Smart TV Proxyware, 24-Year curl Bug, AI Crime Forums + 13 More Stories
 - **Published**: June 25, 2026
-- **Summary**: A new, stealthy backdoor named Mistic has been deployed as part of suspected financially motivated attacks aimed at multiple organizations spanning in...
-- [Read more](https://thehackernews.com/2026/06/new-mistic-backdoor-linked-to-kongtuke.html)
+- **Summary**: It’s dumb out there again.
+
+This week has the usual smell of prod on fire and nobody wanting to admit who left the door open — old creds still working...
+- **Keywords**: bug
+- [Read more](https://thehackernews.com/2026/06/threatsday-bulletin-smart-tv-proxyware.html)
 
 ---
 
