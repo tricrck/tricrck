@@ -16,19 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Software engineers are facing an 'identity crisis bordering on depression,' Menlo Ventures partner says
-- **Published**: June 24, 2026
-- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1ueidyv/software_engineers_are_facing_an_identity_crisis/"> <img alt="Software engineers ar...
-- **Keywords**: crisis, crisis
-- [Read more](https://www.reddit.com/r/technology/comments/1ueidyv/software_engineers_are_facing_an_identity_crisis/)
+### Hotly anticipated Grand Theft Auto VI will cost more than other AAA games
+- **Published**: June 25, 2026
+- **Summary**: https://arstechnica.com/gaming/2026/06/grand-theft-auto-vi-will-cost-80-witho......
+- [Read more](https://arstechnica.com/gaming/2026/06/grand-theft-auto-vi-will-cost-80-without-a-physical-disc/)
 
-### Dawn of the Apex Agentic Adversary
-- **Published**: June 24, 2026
-- **Summary**: We are standing at the end of an era we never thought to mourn: the era of human-speed threats.
-
-For years, cybersecurity moved to a rhythm organizati...
-- **Keywords**: bug
-- [Read more](https://thehackernews.com/2026/06/dawn-of-apex-agentic-adversary.html)
+### Loop engineering, latest AI buzzword, still needs humans in the loop
+- **Published**: June 25, 2026
+- **Summary**: https://www.theregister.com/ai-and-ml/2026/06/24/l......
+- [Read more](https://www.theregister.com/ai-and-ml/2026/06/24/loop-engineering-latest-ai-buzzword-still-needs-humans-in-the-loop/5261735)
 
 ---
 
