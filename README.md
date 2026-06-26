@@ -16,15 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Russia Used Cellebrite on Jailed Activist's iPhone Months After Sales Cutoff
+### New Linux pedit COW Exploit Enables Root Access by Poisoning Cached Binaries
 - **Published**: June 26, 2026
-- **Summary**: Russian authorities used Cellebrite's UFED forensic tools to break into the iPhone of detained opposition activist Andrey Pivovarov in June 2021, thre...
-- [Read more](https://thehackernews.com/2026/06/russia-used-cellebrite-on-jailed.html)
+- **Summary**: A flaw in the Linux kernel's traffic-control subsystem can let a local unprivileged user gain root on affected systems.
 
-### Google Details Turla's New STOCKSTAY Backdoor Used in Ukraine Espionage Attacks
+CVE-2026-46331, nicknamed "pe...
+- [Read more](https://thehackernews.com/2026/06/new-linux-pedit-cow-exploit-enables.html)
+
+### Amazon Q Developer Flaw Could Let Malicious Repos Run Code via MCP Configs
 - **Published**: June 26, 2026
-- **Summary**: The Russian state-sponsored threat actor known as Turla has been attributed to a previously undocumented .NET backdoor called STOCKSTAY that has been ...
-- [Read more](https://thehackernews.com/2026/06/google-details-turlas-new-stockstay.html)
+- **Summary**: A high-severity flaw in Amazon Q Developer let a malicious repository run commands and steal a developer's cloud credentials. The path was short: a de...
+- [Read more](https://thehackernews.com/2026/06/amazon-q-developer-flaw-could-let.html)
 
 ---
 
