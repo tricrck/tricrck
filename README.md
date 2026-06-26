@@ -16,17 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Inaccurate diagnostic error displayed to all BMW i4 owners
-- **Published**: June 25, 2026
-- **Summary**: https://www.i4talk.com/threads/replace-battery-error-today-june-24-common-issue.15861/<......
-- **Keywords**: error, error, error
-- [Read more](https://www.i4talk.com/threads/replace-battery-error-today-june-24-common-issue.15861/)
+### Rift Wizard 3 now in Early Access
+- **Published**: June 26, 2026
+- **Summary**: https://store.steampowered.com/app/4366330/Rift_Wizard_3/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator......
+- [Read more](https://store.steampowered.com/app/4366330/Rift_Wizard_3/)
 
-### Software Engineers Are Facing an Existential Crisis As They Drown In Horrendous AI Code
-- **Published**: June 25, 2026
-- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1ufed4k/software_engineers_are_facing_an_existential/"> <img alt="Software Engineers Are Fa...
-- **Keywords**: crisis, crisis
-- [Read more](https://www.reddit.com/r/technology/comments/1ufed4k/software_engineers_are_facing_an_existential/)
+### Crazy Rich Returns Lure Cabbies and Even Kids to Red-Hot Asian Markets
+- **Published**: June 26, 2026
+- **Summary**: https://www.wsj.com/world/asia/stock-market-ai-chips-taiwan-korea-01b7d385</a></p>
+<p>Comments URL:......
+- [Read more](https://www.wsj.com/world/asia/stock-market-ai-chips-taiwan-korea-01b7d385)
 
 ---
 
