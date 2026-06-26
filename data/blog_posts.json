@@ -1,6 +1,118 @@
 {
   "chaos_ranked": [
     {
+      "title": "Netflix requires every user profile to be tied to unique email address",
+      "link": "https://arstechnica.com/gadgets/2026/06/netflix-now-requires-every-user-profile-to-be-tied-to-unique-email-address/",
+      "summary": "<p>Article URL: <a href=\"https://arstechnica.com/gadgets/2026/06/netflix-now-requires-every-user-profile-to-be-tied-to-unique-email-address/\">https://arstechnica.com/gadgets/2026/06/netflix-now-requir...",
+      "published": "2026-06-26T19:44:01+00:00",
+      "domain": "arstechnica.com",
+      "scores": {
+        "chaos": 18.0,
+        "anarchy": 12.0,
+        "overall": 15.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "New SharkLoader Malware Deploys Cobalt Strike in StrikeShark Cyberattacks",
+      "link": "https://thehackernews.com/2026/06/new-sharkloader-malware-deploys-cobalt.html",
+      "summary": "A newly discovered cyber attack campaign has been observed delivering a previously undocumented malware family called SharkLoader that acts as a loader for deploying Cobalt Strike Beacon on compromise...",
+      "published": "2026-06-26T23:47:46+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Chinese-Speaking APT Deploys New TinyRCT Backdoor in Southeast Asia Campaign",
+      "link": "https://thehackernews.com/2026/06/chinese-speaking-apt-deploys-new.html",
+      "summary": "A Chinese-speaking advanced persistent threat (APT) actor has been linked to a new custom backdoor called TinyRCT as part of cyber attacks aimed at government entities and critical infrastructure in S...",
+      "published": "2026-06-26T21:51:25+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Quantum Snake Oil Is Flooding the News Cycle",
+      "link": "https://postquantum.com/quantum-computing/quantum-snake-oil-flood-2026/",
+      "summary": "<p>Article URL: <a href=\"https://postquantum.com/quantum-computing/quantum-snake-oil-flood-2026/\">https://postquantum.com/quantum-computing/quantum-snake-oil-flood-2026/</a></p>\n<p>Comments URL: <a hr...",
+      "published": "2026-06-26T19:45:47+00:00",
+      "domain": "postquantum.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "JSON-LD and fluree for human and agents interactions [video]",
+      "link": "https://www.youtube.com/watch?v=VKGrqc8-e94",
+      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=VKGrqc8-e94\">https://www.youtube.com/watch?v=VKGrqc8-e94</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48691071\">https...",
+      "published": "2026-06-26T19:43:00+00:00",
+      "domain": "youtube.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Hush, let an AI agent use your secrets without ever seeing them",
+      "link": "https://github.com/royashbrook/hush",
+      "summary": "<p>Article URL: <a href=\"https://github.com/royashbrook/hush\">https://github.com/royashbrook/hush</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48691038\">https://news.ycombina...",
+      "published": "2026-06-26T19:39:57+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Micron sets high memory prices for 5 years",
+      "link": "https://www.heise.de/en/news/Micron-sets-high-memory-prices-for-5-years-11344834.html",
+      "summary": "<p>Article URL: <a href=\"https://www.heise.de/en/news/Micron-sets-high-memory-prices-for-5-years-11344834.html\">https://www.heise.de/en/news/Micron-sets-high-memory-prices-for-5-years-11344834.html</a...",
+      "published": "2026-06-26T19:38:30+00:00",
+      "domain": "heise.de",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "New Linux pedit COW Exploit Enables Root Access by Poisoning Cached Binaries",
       "link": "https://thehackernews.com/2026/06/new-linux-pedit-cow-exploit-enables.html",
       "summary": "A flaw in the Linux kernel's traffic-control subsystem can let a local unprivileged user gain root on affected systems.\n\nCVE-2026-46331, nicknamed \"pedit COW,\" is an out-of-bounds write in the packet-...",
@@ -33,123 +145,11 @@
       }
     },
     {
-      "title": "CISA Adds Exploited PTC Windchill RCE Flaw to KEV as Web Shell Attacks Continue",
-      "link": "https://thehackernews.com/2026/06/cisa-adds-exploited-ptc-windchill-rce.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a critical remote code execution vulnerability impacting PTC Windchill PDMlink and PTC FlexPLM enterprise Product Dat...",
-      "published": "2026-06-26T18:01:56+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "New DirtyClone Linux Kernel Flaw Lets Local Users Gain Root via Cloned Packets",
-      "link": "https://thehackernews.com/2026/06/new-dirtyclone-linux-kernel-flaw-lets.html",
-      "summary": "DirtyClone is a new Linux kernel privilege escalation in the DirtyFrag family.&nbsp;JFrog Security Research published a working exploit walkthrough&nbsp;for the flaw on June 25, the first public demon...",
-      "published": "2026-06-26T17:21:35+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Guardian Agents: The Next Layer of Identity Governance",
-      "link": "https://thehackernews.com/2026/06/guardian-agents-next-layer-of-identity.html",
-      "summary": "AI agents are moving through enterprise environments, inheriting permissions, traversing systems, and executing decisions at machine speed with minimal oversight. The identity infrastructure built to ...",
-      "published": "2026-06-26T17:00:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: ZeroGate \u2013 API gateway to scale cloud GPUs to zero when idle",
-      "link": "https://github.com/noah-garner/zerogate",
-      "summary": "<p>Article URL: <a href=\"https://github.com/noah-garner/zerogate\">https://github.com/noah-garner/zerogate</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48686980\">https://news....",
-      "published": "2026-06-26T14:23:42+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Intervention No. 1 \"Quantum\" performed by a cello that's played by two robots [video]",
-      "link": "https://www.youtube.com/watch?v=a0Ehoc65MF8",
-      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=a0Ehoc65MF8\">https://www.youtube.com/watch?v=a0Ehoc65MF8</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48686976\">https...",
-      "published": "2026-06-26T14:23:17+00:00",
-      "domain": "youtube.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "BrokenClaw Part 7: Opus-4.8 Edition \u2013 All Emails Lead to RCE",
-      "link": "https://veganmosfet.codeberg.page/posts/2026-06-04-openclaw_opus48/",
-      "summary": "<p>Article URL: <a href=\"https://veganmosfet.codeberg.page/posts/2026-06-04-openclaw_opus48/\">https://veganmosfet.codeberg.page/posts/2026-06-04-openclaw_opus48/</a></p>\n<p>Comments URL: <a href=\"http...",
-      "published": "2026-06-26T14:21:14+00:00",
-      "domain": "veganmosfet.codeberg.page",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Level Design: Readability",
-      "link": "https://blendogames.com/news/post/2026-06-xx-leveldesign_readability/",
-      "summary": "<p>Article URL: <a href=\"https://blendogames.com/news/post/2026-06-xx-leveldesign_readability/\">https://blendogames.com/news/post/2026-06-xx-leveldesign_readability/</a></p>\n<p>Comments URL: <a href=\"...",
-      "published": "2026-06-26T14:21:03+00:00",
-      "domain": "blendogames.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Q-Day has begun. Are you ready?",
-      "link": "https://www.ibm.com/think/news/q-day-has-already-begun-are-you-ready",
-      "summary": "<p>Article URL: <a href=\"https://www.ibm.com/think/news/q-day-has-already-begun-are-you-ready\">https://www.ibm.com/think/news/q-day-has-already-begun-are-you-ready</a></p>\n<p>Comments URL: <a href=\"ht...",
-      "published": "2026-06-26T14:20:55+00:00",
-      "domain": "ibm.com",
+      "title": "PlayStation is Deleting 551 Movies From Customers\u2019 Accounts, Reminding Us Nothing Digital is Ever Truly Ours",
+      "link": "https://www.reddit.com/r/technology/comments/1ugfjmc/playstation_is_deleting_551_movies_from_customers/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1ugfjmc/playstation_is_deleting_551_movies_from_customers/\"> <img alt=\"PlayStation is Deleting 551 Movies From Customers\u2019 Account...",
+      "published": "2026-06-26T18:52:54+00:00",
+      "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -163,6 +163,118 @@
   ],
   "anarchy_ranked": [
     {
+      "title": "Netflix requires every user profile to be tied to unique email address",
+      "link": "https://arstechnica.com/gadgets/2026/06/netflix-now-requires-every-user-profile-to-be-tied-to-unique-email-address/",
+      "summary": "<p>Article URL: <a href=\"https://arstechnica.com/gadgets/2026/06/netflix-now-requires-every-user-profile-to-be-tied-to-unique-email-address/\">https://arstechnica.com/gadgets/2026/06/netflix-now-requir...",
+      "published": "2026-06-26T19:44:01+00:00",
+      "domain": "arstechnica.com",
+      "scores": {
+        "chaos": 18.0,
+        "anarchy": 12.0,
+        "overall": 15.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "New SharkLoader Malware Deploys Cobalt Strike in StrikeShark Cyberattacks",
+      "link": "https://thehackernews.com/2026/06/new-sharkloader-malware-deploys-cobalt.html",
+      "summary": "A newly discovered cyber attack campaign has been observed delivering a previously undocumented malware family called SharkLoader that acts as a loader for deploying Cobalt Strike Beacon on compromise...",
+      "published": "2026-06-26T23:47:46+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Chinese-Speaking APT Deploys New TinyRCT Backdoor in Southeast Asia Campaign",
+      "link": "https://thehackernews.com/2026/06/chinese-speaking-apt-deploys-new.html",
+      "summary": "A Chinese-speaking advanced persistent threat (APT) actor has been linked to a new custom backdoor called TinyRCT as part of cyber attacks aimed at government entities and critical infrastructure in S...",
+      "published": "2026-06-26T21:51:25+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Quantum Snake Oil Is Flooding the News Cycle",
+      "link": "https://postquantum.com/quantum-computing/quantum-snake-oil-flood-2026/",
+      "summary": "<p>Article URL: <a href=\"https://postquantum.com/quantum-computing/quantum-snake-oil-flood-2026/\">https://postquantum.com/quantum-computing/quantum-snake-oil-flood-2026/</a></p>\n<p>Comments URL: <a hr...",
+      "published": "2026-06-26T19:45:47+00:00",
+      "domain": "postquantum.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "JSON-LD and fluree for human and agents interactions [video]",
+      "link": "https://www.youtube.com/watch?v=VKGrqc8-e94",
+      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=VKGrqc8-e94\">https://www.youtube.com/watch?v=VKGrqc8-e94</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48691071\">https...",
+      "published": "2026-06-26T19:43:00+00:00",
+      "domain": "youtube.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Hush, let an AI agent use your secrets without ever seeing them",
+      "link": "https://github.com/royashbrook/hush",
+      "summary": "<p>Article URL: <a href=\"https://github.com/royashbrook/hush\">https://github.com/royashbrook/hush</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48691038\">https://news.ycombina...",
+      "published": "2026-06-26T19:39:57+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Micron sets high memory prices for 5 years",
+      "link": "https://www.heise.de/en/news/Micron-sets-high-memory-prices-for-5-years-11344834.html",
+      "summary": "<p>Article URL: <a href=\"https://www.heise.de/en/news/Micron-sets-high-memory-prices-for-5-years-11344834.html\">https://www.heise.de/en/news/Micron-sets-high-memory-prices-for-5-years-11344834.html</a...",
+      "published": "2026-06-26T19:38:30+00:00",
+      "domain": "heise.de",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "New Linux pedit COW Exploit Enables Root Access by Poisoning Cached Binaries",
       "link": "https://thehackernews.com/2026/06/new-linux-pedit-cow-exploit-enables.html",
       "summary": "A flaw in the Linux kernel's traffic-control subsystem can let a local unprivileged user gain root on affected systems.\n\nCVE-2026-46331, nicknamed \"pedit COW,\" is an out-of-bounds write in the packet-...",
@@ -195,123 +307,11 @@
       }
     },
     {
-      "title": "CISA Adds Exploited PTC Windchill RCE Flaw to KEV as Web Shell Attacks Continue",
-      "link": "https://thehackernews.com/2026/06/cisa-adds-exploited-ptc-windchill-rce.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a critical remote code execution vulnerability impacting PTC Windchill PDMlink and PTC FlexPLM enterprise Product Dat...",
-      "published": "2026-06-26T18:01:56+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "New DirtyClone Linux Kernel Flaw Lets Local Users Gain Root via Cloned Packets",
-      "link": "https://thehackernews.com/2026/06/new-dirtyclone-linux-kernel-flaw-lets.html",
-      "summary": "DirtyClone is a new Linux kernel privilege escalation in the DirtyFrag family.&nbsp;JFrog Security Research published a working exploit walkthrough&nbsp;for the flaw on June 25, the first public demon...",
-      "published": "2026-06-26T17:21:35+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Guardian Agents: The Next Layer of Identity Governance",
-      "link": "https://thehackernews.com/2026/06/guardian-agents-next-layer-of-identity.html",
-      "summary": "AI agents are moving through enterprise environments, inheriting permissions, traversing systems, and executing decisions at machine speed with minimal oversight. The identity infrastructure built to ...",
-      "published": "2026-06-26T17:00:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: ZeroGate \u2013 API gateway to scale cloud GPUs to zero when idle",
-      "link": "https://github.com/noah-garner/zerogate",
-      "summary": "<p>Article URL: <a href=\"https://github.com/noah-garner/zerogate\">https://github.com/noah-garner/zerogate</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48686980\">https://news....",
-      "published": "2026-06-26T14:23:42+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Intervention No. 1 \"Quantum\" performed by a cello that's played by two robots [video]",
-      "link": "https://www.youtube.com/watch?v=a0Ehoc65MF8",
-      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=a0Ehoc65MF8\">https://www.youtube.com/watch?v=a0Ehoc65MF8</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48686976\">https...",
-      "published": "2026-06-26T14:23:17+00:00",
-      "domain": "youtube.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "BrokenClaw Part 7: Opus-4.8 Edition \u2013 All Emails Lead to RCE",
-      "link": "https://veganmosfet.codeberg.page/posts/2026-06-04-openclaw_opus48/",
-      "summary": "<p>Article URL: <a href=\"https://veganmosfet.codeberg.page/posts/2026-06-04-openclaw_opus48/\">https://veganmosfet.codeberg.page/posts/2026-06-04-openclaw_opus48/</a></p>\n<p>Comments URL: <a href=\"http...",
-      "published": "2026-06-26T14:21:14+00:00",
-      "domain": "veganmosfet.codeberg.page",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Level Design: Readability",
-      "link": "https://blendogames.com/news/post/2026-06-xx-leveldesign_readability/",
-      "summary": "<p>Article URL: <a href=\"https://blendogames.com/news/post/2026-06-xx-leveldesign_readability/\">https://blendogames.com/news/post/2026-06-xx-leveldesign_readability/</a></p>\n<p>Comments URL: <a href=\"...",
-      "published": "2026-06-26T14:21:03+00:00",
-      "domain": "blendogames.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Q-Day has begun. Are you ready?",
-      "link": "https://www.ibm.com/think/news/q-day-has-already-begun-are-you-ready",
-      "summary": "<p>Article URL: <a href=\"https://www.ibm.com/think/news/q-day-has-already-begun-are-you-ready\">https://www.ibm.com/think/news/q-day-has-already-begun-are-you-ready</a></p>\n<p>Comments URL: <a href=\"ht...",
-      "published": "2026-06-26T14:20:55+00:00",
-      "domain": "ibm.com",
+      "title": "PlayStation is Deleting 551 Movies From Customers\u2019 Accounts, Reminding Us Nothing Digital is Ever Truly Ours",
+      "link": "https://www.reddit.com/r/technology/comments/1ugfjmc/playstation_is_deleting_551_movies_from_customers/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1ugfjmc/playstation_is_deleting_551_movies_from_customers/\"> <img alt=\"PlayStation is Deleting 551 Movies From Customers\u2019 Account...",
+      "published": "2026-06-26T18:52:54+00:00",
+      "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -325,6 +325,118 @@
   ],
   "overall_ranked": [
     {
+      "title": "Netflix requires every user profile to be tied to unique email address",
+      "link": "https://arstechnica.com/gadgets/2026/06/netflix-now-requires-every-user-profile-to-be-tied-to-unique-email-address/",
+      "summary": "<p>Article URL: <a href=\"https://arstechnica.com/gadgets/2026/06/netflix-now-requires-every-user-profile-to-be-tied-to-unique-email-address/\">https://arstechnica.com/gadgets/2026/06/netflix-now-requir...",
+      "published": "2026-06-26T19:44:01+00:00",
+      "domain": "arstechnica.com",
+      "scores": {
+        "chaos": 18.0,
+        "anarchy": 12.0,
+        "overall": 15.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "New SharkLoader Malware Deploys Cobalt Strike in StrikeShark Cyberattacks",
+      "link": "https://thehackernews.com/2026/06/new-sharkloader-malware-deploys-cobalt.html",
+      "summary": "A newly discovered cyber attack campaign has been observed delivering a previously undocumented malware family called SharkLoader that acts as a loader for deploying Cobalt Strike Beacon on compromise...",
+      "published": "2026-06-26T23:47:46+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Chinese-Speaking APT Deploys New TinyRCT Backdoor in Southeast Asia Campaign",
+      "link": "https://thehackernews.com/2026/06/chinese-speaking-apt-deploys-new.html",
+      "summary": "A Chinese-speaking advanced persistent threat (APT) actor has been linked to a new custom backdoor called TinyRCT as part of cyber attacks aimed at government entities and critical infrastructure in S...",
+      "published": "2026-06-26T21:51:25+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Quantum Snake Oil Is Flooding the News Cycle",
+      "link": "https://postquantum.com/quantum-computing/quantum-snake-oil-flood-2026/",
+      "summary": "<p>Article URL: <a href=\"https://postquantum.com/quantum-computing/quantum-snake-oil-flood-2026/\">https://postquantum.com/quantum-computing/quantum-snake-oil-flood-2026/</a></p>\n<p>Comments URL: <a hr...",
+      "published": "2026-06-26T19:45:47+00:00",
+      "domain": "postquantum.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "JSON-LD and fluree for human and agents interactions [video]",
+      "link": "https://www.youtube.com/watch?v=VKGrqc8-e94",
+      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=VKGrqc8-e94\">https://www.youtube.com/watch?v=VKGrqc8-e94</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48691071\">https...",
+      "published": "2026-06-26T19:43:00+00:00",
+      "domain": "youtube.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Hush, let an AI agent use your secrets without ever seeing them",
+      "link": "https://github.com/royashbrook/hush",
+      "summary": "<p>Article URL: <a href=\"https://github.com/royashbrook/hush\">https://github.com/royashbrook/hush</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48691038\">https://news.ycombina...",
+      "published": "2026-06-26T19:39:57+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Micron sets high memory prices for 5 years",
+      "link": "https://www.heise.de/en/news/Micron-sets-high-memory-prices-for-5-years-11344834.html",
+      "summary": "<p>Article URL: <a href=\"https://www.heise.de/en/news/Micron-sets-high-memory-prices-for-5-years-11344834.html\">https://www.heise.de/en/news/Micron-sets-high-memory-prices-for-5-years-11344834.html</a...",
+      "published": "2026-06-26T19:38:30+00:00",
+      "domain": "heise.de",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "New Linux pedit COW Exploit Enables Root Access by Poisoning Cached Binaries",
       "link": "https://thehackernews.com/2026/06/new-linux-pedit-cow-exploit-enables.html",
       "summary": "A flaw in the Linux kernel's traffic-control subsystem can let a local unprivileged user gain root on affected systems.\n\nCVE-2026-46331, nicknamed \"pedit COW,\" is an out-of-bounds write in the packet-...",
@@ -357,123 +469,11 @@
       }
     },
     {
-      "title": "CISA Adds Exploited PTC Windchill RCE Flaw to KEV as Web Shell Attacks Continue",
-      "link": "https://thehackernews.com/2026/06/cisa-adds-exploited-ptc-windchill-rce.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a critical remote code execution vulnerability impacting PTC Windchill PDMlink and PTC FlexPLM enterprise Product Dat...",
-      "published": "2026-06-26T18:01:56+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "New DirtyClone Linux Kernel Flaw Lets Local Users Gain Root via Cloned Packets",
-      "link": "https://thehackernews.com/2026/06/new-dirtyclone-linux-kernel-flaw-lets.html",
-      "summary": "DirtyClone is a new Linux kernel privilege escalation in the DirtyFrag family.&nbsp;JFrog Security Research published a working exploit walkthrough&nbsp;for the flaw on June 25, the first public demon...",
-      "published": "2026-06-26T17:21:35+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Guardian Agents: The Next Layer of Identity Governance",
-      "link": "https://thehackernews.com/2026/06/guardian-agents-next-layer-of-identity.html",
-      "summary": "AI agents are moving through enterprise environments, inheriting permissions, traversing systems, and executing decisions at machine speed with minimal oversight. The identity infrastructure built to ...",
-      "published": "2026-06-26T17:00:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: ZeroGate \u2013 API gateway to scale cloud GPUs to zero when idle",
-      "link": "https://github.com/noah-garner/zerogate",
-      "summary": "<p>Article URL: <a href=\"https://github.com/noah-garner/zerogate\">https://github.com/noah-garner/zerogate</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48686980\">https://news....",
-      "published": "2026-06-26T14:23:42+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Intervention No. 1 \"Quantum\" performed by a cello that's played by two robots [video]",
-      "link": "https://www.youtube.com/watch?v=a0Ehoc65MF8",
-      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=a0Ehoc65MF8\">https://www.youtube.com/watch?v=a0Ehoc65MF8</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48686976\">https...",
-      "published": "2026-06-26T14:23:17+00:00",
-      "domain": "youtube.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "BrokenClaw Part 7: Opus-4.8 Edition \u2013 All Emails Lead to RCE",
-      "link": "https://veganmosfet.codeberg.page/posts/2026-06-04-openclaw_opus48/",
-      "summary": "<p>Article URL: <a href=\"https://veganmosfet.codeberg.page/posts/2026-06-04-openclaw_opus48/\">https://veganmosfet.codeberg.page/posts/2026-06-04-openclaw_opus48/</a></p>\n<p>Comments URL: <a href=\"http...",
-      "published": "2026-06-26T14:21:14+00:00",
-      "domain": "veganmosfet.codeberg.page",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Level Design: Readability",
-      "link": "https://blendogames.com/news/post/2026-06-xx-leveldesign_readability/",
-      "summary": "<p>Article URL: <a href=\"https://blendogames.com/news/post/2026-06-xx-leveldesign_readability/\">https://blendogames.com/news/post/2026-06-xx-leveldesign_readability/</a></p>\n<p>Comments URL: <a href=\"...",
-      "published": "2026-06-26T14:21:03+00:00",
-      "domain": "blendogames.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Q-Day has begun. Are you ready?",
-      "link": "https://www.ibm.com/think/news/q-day-has-already-begun-are-you-ready",
-      "summary": "<p>Article URL: <a href=\"https://www.ibm.com/think/news/q-day-has-already-begun-are-you-ready\">https://www.ibm.com/think/news/q-day-has-already-begun-are-you-ready</a></p>\n<p>Comments URL: <a href=\"ht...",
-      "published": "2026-06-26T14:20:55+00:00",
-      "domain": "ibm.com",
+      "title": "PlayStation is Deleting 551 Movies From Customers\u2019 Accounts, Reminding Us Nothing Digital is Ever Truly Ours",
+      "link": "https://www.reddit.com/r/technology/comments/1ugfjmc/playstation_is_deleting_551_movies_from_customers/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1ugfjmc/playstation_is_deleting_551_movies_from_customers/\"> <img alt=\"PlayStation is Deleting 551 Movies From Customers\u2019 Account...",
+      "published": "2026-06-26T18:52:54+00:00",
+      "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -487,6 +487,118 @@
   ],
   "all_articles": [
     {
+      "title": "New SharkLoader Malware Deploys Cobalt Strike in StrikeShark Cyberattacks",
+      "link": "https://thehackernews.com/2026/06/new-sharkloader-malware-deploys-cobalt.html",
+      "summary": "A newly discovered cyber attack campaign has been observed delivering a previously undocumented malware family called SharkLoader that acts as a loader for deploying Cobalt Strike Beacon on compromise...",
+      "published": "2026-06-26T23:47:46+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Chinese-Speaking APT Deploys New TinyRCT Backdoor in Southeast Asia Campaign",
+      "link": "https://thehackernews.com/2026/06/chinese-speaking-apt-deploys-new.html",
+      "summary": "A Chinese-speaking advanced persistent threat (APT) actor has been linked to a new custom backdoor called TinyRCT as part of cyber attacks aimed at government entities and critical infrastructure in S...",
+      "published": "2026-06-26T21:51:25+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Quantum Snake Oil Is Flooding the News Cycle",
+      "link": "https://postquantum.com/quantum-computing/quantum-snake-oil-flood-2026/",
+      "summary": "<p>Article URL: <a href=\"https://postquantum.com/quantum-computing/quantum-snake-oil-flood-2026/\">https://postquantum.com/quantum-computing/quantum-snake-oil-flood-2026/</a></p>\n<p>Comments URL: <a hr...",
+      "published": "2026-06-26T19:45:47+00:00",
+      "domain": "postquantum.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Netflix requires every user profile to be tied to unique email address",
+      "link": "https://arstechnica.com/gadgets/2026/06/netflix-now-requires-every-user-profile-to-be-tied-to-unique-email-address/",
+      "summary": "<p>Article URL: <a href=\"https://arstechnica.com/gadgets/2026/06/netflix-now-requires-every-user-profile-to-be-tied-to-unique-email-address/\">https://arstechnica.com/gadgets/2026/06/netflix-now-requir...",
+      "published": "2026-06-26T19:44:01+00:00",
+      "domain": "arstechnica.com",
+      "scores": {
+        "chaos": 18.0,
+        "anarchy": 12.0,
+        "overall": 15.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "JSON-LD and fluree for human and agents interactions [video]",
+      "link": "https://www.youtube.com/watch?v=VKGrqc8-e94",
+      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=VKGrqc8-e94\">https://www.youtube.com/watch?v=VKGrqc8-e94</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48691071\">https...",
+      "published": "2026-06-26T19:43:00+00:00",
+      "domain": "youtube.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Hush, let an AI agent use your secrets without ever seeing them",
+      "link": "https://github.com/royashbrook/hush",
+      "summary": "<p>Article URL: <a href=\"https://github.com/royashbrook/hush\">https://github.com/royashbrook/hush</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48691038\">https://news.ycombina...",
+      "published": "2026-06-26T19:39:57+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Micron sets high memory prices for 5 years",
+      "link": "https://www.heise.de/en/news/Micron-sets-high-memory-prices-for-5-years-11344834.html",
+      "summary": "<p>Article URL: <a href=\"https://www.heise.de/en/news/Micron-sets-high-memory-prices-for-5-years-11344834.html\">https://www.heise.de/en/news/Micron-sets-high-memory-prices-for-5-years-11344834.html</a...",
+      "published": "2026-06-26T19:38:30+00:00",
+      "domain": "heise.de",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "New Linux pedit COW Exploit Enables Root Access by Poisoning Cached Binaries",
       "link": "https://thehackernews.com/2026/06/new-linux-pedit-cow-exploit-enables.html",
       "summary": "A flaw in the Linux kernel's traffic-control subsystem can let a local unprivileged user gain root on affected systems.\n\nCVE-2026-46331, nicknamed \"pedit COW,\" is an out-of-bounds write in the packet-...",
@@ -519,123 +631,11 @@
       }
     },
     {
-      "title": "CISA Adds Exploited PTC Windchill RCE Flaw to KEV as Web Shell Attacks Continue",
-      "link": "https://thehackernews.com/2026/06/cisa-adds-exploited-ptc-windchill-rce.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a critical remote code execution vulnerability impacting PTC Windchill PDMlink and PTC FlexPLM enterprise Product Dat...",
-      "published": "2026-06-26T18:01:56+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "New DirtyClone Linux Kernel Flaw Lets Local Users Gain Root via Cloned Packets",
-      "link": "https://thehackernews.com/2026/06/new-dirtyclone-linux-kernel-flaw-lets.html",
-      "summary": "DirtyClone is a new Linux kernel privilege escalation in the DirtyFrag family.&nbsp;JFrog Security Research published a working exploit walkthrough&nbsp;for the flaw on June 25, the first public demon...",
-      "published": "2026-06-26T17:21:35+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Guardian Agents: The Next Layer of Identity Governance",
-      "link": "https://thehackernews.com/2026/06/guardian-agents-next-layer-of-identity.html",
-      "summary": "AI agents are moving through enterprise environments, inheriting permissions, traversing systems, and executing decisions at machine speed with minimal oversight. The identity infrastructure built to ...",
-      "published": "2026-06-26T17:00:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: ZeroGate \u2013 API gateway to scale cloud GPUs to zero when idle",
-      "link": "https://github.com/noah-garner/zerogate",
-      "summary": "<p>Article URL: <a href=\"https://github.com/noah-garner/zerogate\">https://github.com/noah-garner/zerogate</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48686980\">https://news....",
-      "published": "2026-06-26T14:23:42+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Intervention No. 1 \"Quantum\" performed by a cello that's played by two robots [video]",
-      "link": "https://www.youtube.com/watch?v=a0Ehoc65MF8",
-      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=a0Ehoc65MF8\">https://www.youtube.com/watch?v=a0Ehoc65MF8</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48686976\">https...",
-      "published": "2026-06-26T14:23:17+00:00",
-      "domain": "youtube.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "BrokenClaw Part 7: Opus-4.8 Edition \u2013 All Emails Lead to RCE",
-      "link": "https://veganmosfet.codeberg.page/posts/2026-06-04-openclaw_opus48/",
-      "summary": "<p>Article URL: <a href=\"https://veganmosfet.codeberg.page/posts/2026-06-04-openclaw_opus48/\">https://veganmosfet.codeberg.page/posts/2026-06-04-openclaw_opus48/</a></p>\n<p>Comments URL: <a href=\"http...",
-      "published": "2026-06-26T14:21:14+00:00",
-      "domain": "veganmosfet.codeberg.page",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Level Design: Readability",
-      "link": "https://blendogames.com/news/post/2026-06-xx-leveldesign_readability/",
-      "summary": "<p>Article URL: <a href=\"https://blendogames.com/news/post/2026-06-xx-leveldesign_readability/\">https://blendogames.com/news/post/2026-06-xx-leveldesign_readability/</a></p>\n<p>Comments URL: <a href=\"...",
-      "published": "2026-06-26T14:21:03+00:00",
-      "domain": "blendogames.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Q-Day has begun. Are you ready?",
-      "link": "https://www.ibm.com/think/news/q-day-has-already-begun-are-you-ready",
-      "summary": "<p>Article URL: <a href=\"https://www.ibm.com/think/news/q-day-has-already-begun-are-you-ready\">https://www.ibm.com/think/news/q-day-has-already-begun-are-you-ready</a></p>\n<p>Comments URL: <a href=\"ht...",
-      "published": "2026-06-26T14:20:55+00:00",
-      "domain": "ibm.com",
+      "title": "PlayStation is Deleting 551 Movies From Customers\u2019 Accounts, Reminding Us Nothing Digital is Ever Truly Ours",
+      "link": "https://www.reddit.com/r/technology/comments/1ugfjmc/playstation_is_deleting_551_movies_from_customers/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1ugfjmc/playstation_is_deleting_551_movies_from_customers/\"> <img alt=\"PlayStation is Deleting 551 Movies From Customers\u2019 Account...",
+      "published": "2026-06-26T18:52:54+00:00",
+      "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,

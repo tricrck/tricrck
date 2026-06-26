@@ -16,17 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### New Linux pedit COW Exploit Enables Root Access by Poisoning Cached Binaries
+### Netflix requires every user profile to be tied to unique email address
 - **Published**: June 26, 2026
-- **Summary**: A flaw in the Linux kernel's traffic-control subsystem can let a local unprivileged user gain root on affected systems.
+- **Summary**: https://arstechnica.com/gadgets/2026/06/netflix-now-requir......
+- [Read more](https://arstechnica.com/gadgets/2026/06/netflix-now-requires-every-user-profile-to-be-tied-to-unique-email-address/)
 
-CVE-2026-46331, nicknamed "pe...
-- [Read more](https://thehackernews.com/2026/06/new-linux-pedit-cow-exploit-enables.html)
-
-### Amazon Q Developer Flaw Could Let Malicious Repos Run Code via MCP Configs
+### New SharkLoader Malware Deploys Cobalt Strike in StrikeShark Cyberattacks
 - **Published**: June 26, 2026
-- **Summary**: A high-severity flaw in Amazon Q Developer let a malicious repository run commands and steal a developer's cloud credentials. The path was short: a de...
-- [Read more](https://thehackernews.com/2026/06/amazon-q-developer-flaw-could-let.html)
+- **Summary**: A newly discovered cyber attack campaign has been observed delivering a previously undocumented malware family called SharkLoader that acts as a loade...
+- [Read more](https://thehackernews.com/2026/06/new-sharkloader-malware-deploys-cobalt.html)
 
 ---
 
