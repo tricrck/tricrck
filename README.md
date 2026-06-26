@@ -16,17 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Rift Wizard 3 now in Early Access
+### Russia Used Cellebrite on Jailed Activist's iPhone Months After Sales Cutoff
 - **Published**: June 26, 2026
-- **Summary**: https://store.steampowered.com/app/4366330/Rift_Wizard_3/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator......
-- [Read more](https://store.steampowered.com/app/4366330/Rift_Wizard_3/)
+- **Summary**: Russian authorities used Cellebrite's UFED forensic tools to break into the iPhone of detained opposition activist Andrey Pivovarov in June 2021, thre...
+- [Read more](https://thehackernews.com/2026/06/russia-used-cellebrite-on-jailed.html)
 
-### Crazy Rich Returns Lure Cabbies and Even Kids to Red-Hot Asian Markets
+### Google Details Turla's New STOCKSTAY Backdoor Used in Ukraine Espionage Attacks
 - **Published**: June 26, 2026
-- **Summary**: https://www.wsj.com/world/asia/stock-market-ai-chips-taiwan-korea-01b7d385</a></p>
-<p>Comments URL:......
-- [Read more](https://www.wsj.com/world/asia/stock-market-ai-chips-taiwan-korea-01b7d385)
+- **Summary**: The Russian state-sponsored threat actor known as Turla has been attributed to a previously undocumented .NET backdoor called STOCKSTAY that has been ...
+- [Read more](https://thehackernews.com/2026/06/google-details-turlas-new-stockstay.html)
 
 ---
 
