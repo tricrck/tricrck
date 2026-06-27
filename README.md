@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Netflix requires every user profile to be tied to unique email address
-- **Published**: June 26, 2026
-- **Summary**: https://arstechnica.com/gadgets/2026/06/netflix-now-requir......
-- [Read more](https://arstechnica.com/gadgets/2026/06/netflix-now-requires-every-user-profile-to-be-tied-to-unique-email-address/)
+### Meta asks California lawmakers for shield from child harm penalties
+- **Published**: June 27, 2026
+- **Summary**: https://www.politico.com/news/2026/06/26/exclu......
+- [Read more](https://www.politico.com/news/2026/06/26/exclusive-meta-asks-california-lawmakers-for-shield-from-child-harm-penalties-00978728)
 
-### New SharkLoader Malware Deploys Cobalt Strike in StrikeShark Cyberattacks
-- **Published**: June 26, 2026
-- **Summary**: A newly discovered cyber attack campaign has been observed delivering a previously undocumented malware family called SharkLoader that acts as a loade...
-- [Read more](https://thehackernews.com/2026/06/new-sharkloader-malware-deploys-cobalt.html)
+### Smugglers Create Fake Google Maps Car, US Border Patrol Catches
+- **Published**: June 27, 2026
+- **Summary**: https://www.autoevolution.com/news/smuggler......
+- [Read more](https://www.autoevolution.com/news/smugglers-create-fake-google-maps-car-border-patrol-agents-actually-use-street-view-271942.html)
 
 ---
 
