@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### OpenAI Previews GPT-5.6 Sol With Restricted Access and Stronger Cyber Safeguards
+### Ukraine Says Russian Intelligence Used Fake Support Texts to Steal Messaging Credentials
 - **Published**: June 27, 2026
-- **Summary**: OpenAI on Friday released three versions of GPT-5.6, called Sol, Terra, and Luna, as a limited preview to a small number of companies as part of an on...
-- [Read more](https://thehackernews.com/2026/06/openai-limits-gpt-56-rollout-as-sol.html)
+- **Summary**: The Security Service of Ukraine (SSU) said it, together with the U.S. Federal Bureau of Investigation (FBI), uncovered a long-running campaign orchest...
+- [Read more](https://thehackernews.com/2026/06/ukraine-says-russian-intelligence-used.html)
 
-### I'm 16 and Running a Software Jam in a World of Slop
+### No Name, Colorado
 - **Published**: June 27, 2026
-- **Summary**: https://foxmoss.com/blog/radish/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48698188">https://news.ycombinator.co......
-- [Read more](https://foxmoss.com/blog/radish/)
+- **Summary**: https://en.wikipedia.org/wiki/No_Name,_Colorado</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4870083......
+- [Read more](https://en.wikipedia.org/wiki/No_Name,_Colorado)
 
 ---
 
