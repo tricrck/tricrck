@@ -16,18 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Plane slams into Beijing's tallest building, sends debris raining down [video]
+### OpenAI Previews GPT-5.6 Sol With Restricted Access and Stronger Cyber Safeguards
 - **Published**: June 27, 2026
-- **Summary**: https://www.youtube.com/watch?v=YNJYR_HE8uo</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48696289">https......
-- **Keywords**: down
-- [Read more](https://www.youtube.com/watch?v=YNJYR_HE8uo)
+- **Summary**: OpenAI on Friday released three versions of GPT-5.6, called Sol, Terra, and Luna, as a limited preview to a small number of companies as part of an on...
+- [Read more](https://thehackernews.com/2026/06/openai-limits-gpt-56-rollout-as-sol.html)
 
-### Fine-tuned a model on Advaita Vedanta text
+### I'm 16 and Running a Software Jam in a World of Slop
 - **Published**: June 27, 2026
-- **Summary**: https://huggingface.co/aaravshirpurkar/turiya-model</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id......
-- [Read more](https://huggingface.co/aaravshirpurkar/turiya-model)
+- **Summary**: https://foxmoss.com/blog/radish/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48698188">https://news.ycombinator.co......
+- [Read more](https://foxmoss.com/blog/radish/)
 
 ---
 
