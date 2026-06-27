@@ -16,15 +16,18 @@
 
 ## 🚨 Tech Stories
 
-### Meta asks California lawmakers for shield from child harm penalties
+### Plane slams into Beijing's tallest building, sends debris raining down [video]
 - **Published**: June 27, 2026
-- **Summary**: https://www.politico.com/news/2026/06/26/exclu......
-- [Read more](https://www.politico.com/news/2026/06/26/exclusive-meta-asks-california-lawmakers-for-shield-from-child-harm-penalties-00978728)
+- **Summary**: https://www.youtube.com/watch?v=YNJYR_HE8uo</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48696289">https......
+- **Keywords**: down
+- [Read more](https://www.youtube.com/watch?v=YNJYR_HE8uo)
 
-### Smugglers Create Fake Google Maps Car, US Border Patrol Catches
+### Fine-tuned a model on Advaita Vedanta text
 - **Published**: June 27, 2026
-- **Summary**: https://www.autoevolution.com/news/smuggler......
-- [Read more](https://www.autoevolution.com/news/smugglers-create-fake-google-maps-car-border-patrol-agents-actually-use-street-view-271942.html)
+- **Summary**: https://huggingface.co/aaravshirpurkar/turiya-model</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id......
+- [Read more](https://huggingface.co/aaravshirpurkar/turiya-model)
 
 ---
 
