@@ -16,16 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Ukraine Says Russian Intelligence Used Fake Support Texts to Steal Messaging Credentials
-- **Published**: June 27, 2026
-- **Summary**: The Security Service of Ukraine (SSU) said it, together with the U.S. Federal Bureau of Investigation (FBI), uncovered a long-running campaign orchest...
-- [Read more](https://thehackernews.com/2026/06/ukraine-says-russian-intelligence-used.html)
+### Virtual AI police chief introduced in Osaka amid rising imposter scams
+- **Published**: June 28, 2026
+- **Summary**: https://mainichi.jp/english/articles/20260627/p2g/00m/0na/029000c</a></p>
+<p>Comments URL: <a href="https://......
+- [Read more](https://mainichi.jp/english/articles/20260627/p2g/00m/0na/029000c)
 
-### No Name, Colorado
-- **Published**: June 27, 2026
-- **Summary**: https://en.wikipedia.org/wiki/No_Name,_Colorado</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4870083......
-- [Read more](https://en.wikipedia.org/wiki/No_Name,_Colorado)
+### Make Reality Answer [pdf]
+- **Published**: June 28, 2026
+- **Summary**: https://hari.computer/book.pdf</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48704103">https://news.ycombinator.com/it......
+- [Read more](https://hari.computer/book.pdf)
 
 ---
 
