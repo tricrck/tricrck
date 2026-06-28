@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Autoregressive Boltzmann Generators
+### Another ICE threat visit: How did agents track down this critic on his vacation?
 - **Published**: June 28, 2026
-- **Summary**: https://arxiv.org/abs/2606.27361</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48707179">https://news.ycombinator.co......
-- [Read more](https://arxiv.org/abs/2606.27361)
+- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1ui0z4k/another_ice_threat_visit_how_did_agents_track/"> <img alt="Another ICE threat visit...
+- **Keywords**: down, down
+- [Read more](https://www.reddit.com/r/technology/comments/1ui0z4k/another_ice_threat_visit_how_did_agents_track/)
 
-### Give Me 14 Minutes and I'll Destroy Your Procrastination Forever
+### Your Kids’ School Bus Is About to Become a Roaming Surveillance Vehicle
 - **Published**: June 28, 2026
-- **Summary**: https://riansweetdoris.substack.com/p/give-me-14-minutes-and-ill-destroy</a></p>
-<p>Comments URL: <a ......
-- [Read more](https://riansweetdoris.substack.com/p/give-me-14-minutes-and-ill-destroy)
+- **Summary**: https://www.thedrive.com/news/your-kids-school-bus-is-about-to-become-a-r......
+- [Read more](https://www.thedrive.com/news/your-kids-school-bus-is-about-to-become-a-roaming-surveillance-vehicle)
 
 ---
 
