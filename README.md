@@ -16,18 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### RAM crisis provokes enthusiast to try Windows 11 on DDR1-era hardware
+### Autoregressive Boltzmann Generators
 - **Published**: June 28, 2026
-- **Summary**: Article URL: <a href="https://www.tomshardware.com/software/windows/ram-crisis-provokes-enthusiast-to-try-windows-11-on-ddr1-era-hardware-other-key-vi...
-- **Keywords**: crisis, crisis
-- [Read more](https://www.tomshardware.com/software/windows/ram-crisis-provokes-enthusiast-to-try-windows-11-on-ddr1-era-hardware-other-key-vintage-components-included-the-core-2-q6600-and-ati-radeon-hd-4650-agp)
+- **Summary**: https://arxiv.org/abs/2606.27361</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48707179">https://news.ycombinator.co......
+- [Read more](https://arxiv.org/abs/2606.27361)
 
-### Unfathomable bugs #10: The Broken Windows Build
+### Give Me 14 Minutes and I'll Destroy Your Procrastination Forever
 - **Published**: June 28, 2026
-- **Summary**: https://algassert.com/post/2603</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48705520">https://news.ycombinator.com/......
-- **Keywords**: broken
-- [Read more](https://algassert.com/post/2603)
+- **Summary**: https://riansweetdoris.substack.com/p/give-me-14-minutes-and-ill-destroy</a></p>
+<p>Comments URL: <a ......
+- [Read more](https://riansweetdoris.substack.com/p/give-me-14-minutes-and-ill-destroy)
 
 ---
 
