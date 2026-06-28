@@ -16,17 +16,18 @@
 
 ## 🚨 Tech Stories
 
-### Virtual AI police chief introduced in Osaka amid rising imposter scams
+### RAM crisis provokes enthusiast to try Windows 11 on DDR1-era hardware
 - **Published**: June 28, 2026
-- **Summary**: https://mainichi.jp/english/articles/20260627/p2g/00m/0na/029000c</a></p>
-<p>Comments URL: <a href="https://......
-- [Read more](https://mainichi.jp/english/articles/20260627/p2g/00m/0na/029000c)
+- **Summary**: Article URL: <a href="https://www.tomshardware.com/software/windows/ram-crisis-provokes-enthusiast-to-try-windows-11-on-ddr1-era-hardware-other-key-vi...
+- **Keywords**: crisis, crisis
+- [Read more](https://www.tomshardware.com/software/windows/ram-crisis-provokes-enthusiast-to-try-windows-11-on-ddr1-era-hardware-other-key-vintage-components-included-the-core-2-q6600-and-ati-radeon-hd-4650-agp)
 
-### Make Reality Answer [pdf]
+### Unfathomable bugs #10: The Broken Windows Build
 - **Published**: June 28, 2026
-- **Summary**: https://hari.computer/book.pdf</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48704103">https://news.ycombinator.com/it......
-- [Read more](https://hari.computer/book.pdf)
+- **Summary**: https://algassert.com/post/2603</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48705520">https://news.ycombinator.com/......
+- **Keywords**: broken
+- [Read more](https://algassert.com/post/2603)
 
 ---
 
