@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### 'Down from Londoners' Are Transforming England's Seaside Towns
+### Microsoft Removes 119 Edge Extensions That Hid Malware in Images and Fonts
 - **Published**: June 29, 2026
-- **Summary**: https://www.bloomberg.com/news/articles/2026-......
+- **Summary**: Microsoft has shut down a long-running malicious extension operation on the Edge Add-ons store that hid its payloads inside ordinary image and font fi...
 - **Keywords**: down
-- [Read more](https://www.bloomberg.com/news/articles/2026-06-26/londoners-escape-to-england-s-seaside-raises-housing-costs-political-tensions)
+- [Read more](https://thehackernews.com/2026/06/microsoft-removes-119-edge-extensions.html)
 
-### "Warming Hole" Heat Content Variations Are Caused by Ocean Heat Transport
+### Public PoC Released for Critical libssh2 CVE-2026-55200 Client-Side SSH Flaw
 - **Published**: June 29, 2026
-- **Summary**: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2025GL118383</a></p>
-<p>Comments URL: <a href="......
-- [Read more](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2025GL118383)
+- **Summary**: A public proof-of-concept is now out for CVE-2026-55200, a critical flaw in libssh2 that lets a malicious or compromised SSH server trigger memory cor...
+- [Read more](https://thehackernews.com/2026/06/public-poc-released-for-critical.html)
 
 ---
 
