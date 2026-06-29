@@ -1,28 +1,28 @@
 {
   "chaos_ranked": [
     {
-      "title": "Microsoft Removes 119 Edge Extensions That Hid Malware in Images and Fonts",
-      "link": "https://thehackernews.com/2026/06/microsoft-removes-119-edge-extensions.html",
-      "summary": "Microsoft has shut down a long-running malicious extension operation on the Edge Add-ons store that hid its payloads inside ordinary image and font files, then woke up days after install to steal cred...",
-      "published": "2026-06-29T14:02:31+05:30",
+      "title": "Why Post-Quantum Cryptography Starts With Credentials",
+      "link": "https://thehackernews.com/2026/06/why-post-quantum-cryptography-starts.html",
+      "summary": "Today\u2019s encrypted data, such as credentials, may no longer remain confidential in the future because the public-key cryptography protecting it will soon be broken by quantum computers. Although no mac...",
+      "published": "2026-06-29T17:12:16+05:30",
       "domain": "thehackernews.com",
       "scores": {
-        "chaos": 9.0,
+        "chaos": 15.6,
         "anarchy": 3.0,
-        "overall": 6.0
+        "overall": 9.3
       },
       "keywords": {
         "chaos": [
-          "down"
+          "broken"
         ],
         "anarchy": []
       }
     },
     {
-      "title": "Public PoC Released for Critical libssh2 CVE-2026-55200 Client-Side SSH Flaw",
-      "link": "https://thehackernews.com/2026/06/public-poc-released-for-critical.html",
-      "summary": "A public proof-of-concept is now out for CVE-2026-55200, a critical flaw in libssh2 that lets a malicious or compromised SSH server trigger memory corruption on a connecting client, with possible code...",
-      "published": "2026-06-29T12:36:34+05:30",
+      "title": "\u26a1 Weekly Recap: Linux Kernel Flaws, AI Malware Tricks, Turla Backdoor, Infostealers and More",
+      "link": "https://thehackernews.com/2026/06/weekly-recap-linux-kernel-flaws-ai.html",
+      "summary": "This week was a reminder that attackers do not always need big tricks. One small mistake, one old access path, one missed patch, and suddenly the door is open.\n\nThe noise is not all noise, either. For...",
+      "published": "2026-06-29T20:11:07+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -35,10 +35,10 @@
       }
     },
     {
-      "title": "Hijacked npm and Go Packages Use VS Code Tasks to Deploy Python Infostealer",
-      "link": "https://thehackernews.com/2026/06/hijacked-npm-and-go-packages-use-vs.html",
-      "summary": "Cybersecurity researchers have uncovered two hijacked npm packages and a cluster of Go packages that are designed to deploy a Python-based information stealer on compromised Windows, Linux, and macOS ...",
-      "published": "2026-06-29T11:06:06+05:30",
+      "title": "236,000 DCloud Uni-App Sites Used in Crypto Scams, Phishing, and Wallet Drainers",
+      "link": "https://thehackernews.com/2026/06/236000-dcloud-uni-app-sites-used-in.html",
+      "summary": "New findings unearthed by Infoblox show that more than 236,000 websites are using investment scam templates built using a legitimate Chinese open-source, cross-platform application development framewo...",
+      "published": "2026-06-29T17:27:40+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -51,11 +51,11 @@
       }
     },
     {
-      "title": "Expo adds AgeRange module wrapping Apple and Google age-verification APIs",
-      "link": "https://docs.expo.dev/versions/latest/sdk/age-range/",
-      "summary": "<p>Article URL: <a href=\"https://docs.expo.dev/versions/latest/sdk/age-range/\">https://docs.expo.dev/versions/latest/sdk/age-range/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?...",
-      "published": "2026-06-29T10:51:43+00:00",
-      "domain": "docs.expo.dev",
+      "title": "Gamaredon Expands Ukraine Attacks with New Malware and Cloud Service Abuse",
+      "link": "https://thehackernews.com/2026/06/gamaredon-expands-ukraine-attacks-with.html",
+      "summary": "A Russian advanced persistent threat (APT) group has continued to evolve and expand its malware arsenal as part of its ongoing cyber onslaught against Ukraine throughout 2025.\n\nSlovakian cybersecurity...",
+      "published": "2026-06-29T17:10:24+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -67,11 +67,11 @@
       }
     },
     {
-      "title": "Radiology's Last Exam (RadLE)",
-      "link": "https://arxiv.org/abs/2509.25559",
-      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2509.25559\">https://arxiv.org/abs/2509.25559</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48717476\">https://news.ycombinator.co...",
-      "published": "2026-06-29T10:46:35+00:00",
-      "domain": "arxiv.org",
+      "title": "Nissan says Oracle PeopleSoft break-in may have spilled payroll records, SSNs",
+      "link": "https://www.theregister.com/security/2026/06/29/nissan-says-oracle-peoplesoft-break-in-may-have-spilled-payroll-records-ssns/5263534",
+      "summary": "<p>Article URL: <a href=\"https://www.theregister.com/security/2026/06/29/nissan-says-oracle-peoplesoft-break-in-may-have-spilled-payroll-records-ssns/5263534\">https://www.theregister.com/security/2026...",
+      "published": "2026-06-29T15:46:19+00:00",
+      "domain": "theregister.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -83,11 +83,11 @@
       }
     },
     {
-      "title": "The CEO of Mullvad is the main financer of the far-right Swedish \u00d6rebro party",
-      "link": "https://det.social/@lostgen/116820546568940358",
-      "summary": "<p>Article URL: <a href=\"https://det.social/@lostgen/116820546568940358\">https://det.social/@lostgen/116820546568940358</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48717469\"...",
-      "published": "2026-06-29T10:45:51+00:00",
-      "domain": "det.social",
+      "title": "Multifold Speed Boost for Supercomputer Simulations of Molecules",
+      "link": "https://www.simonsfoundation.org/2026/06/24/mathematicians-unleash-multifold-speed-boost-for-supercomputer-simulations-of-molecules/",
+      "summary": "<p>Article URL: <a href=\"https://www.simonsfoundation.org/2026/06/24/mathematicians-unleash-multifold-speed-boost-for-supercomputer-simulations-of-molecules/\">https://www.simonsfoundation.org/2026/06/...",
+      "published": "2026-06-29T15:46:18+00:00",
+      "domain": "simonsfoundation.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -99,11 +99,11 @@
       }
     },
     {
-      "title": "Show HN: Re:Zero \u2013 Start building from zero",
-      "link": "https://www.rezero.md/en/library",
-      "summary": "<p>Article URL: <a href=\"https://www.rezero.md/en/library\">https://www.rezero.md/en/library</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48717468\">https://news.ycombinator.co...",
-      "published": "2026-06-29T10:45:51+00:00",
-      "domain": "rezero.md",
+      "title": "In a New Image, NASA Captures 16.5M Stars of the Cigar Galaxy",
+      "link": "https://www.thisiscolossal.com/2026/06/messier-82-cigar-galaxy-webb-image/",
+      "summary": "<p>Article URL: <a href=\"https://www.thisiscolossal.com/2026/06/messier-82-cigar-galaxy-webb-image/\">https://www.thisiscolossal.com/2026/06/messier-82-cigar-galaxy-webb-image/</a></p>\n<p>Comments URL:...",
+      "published": "2026-06-29T15:45:06+00:00",
+      "domain": "thisiscolossal.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -115,11 +115,11 @@
       }
     },
     {
-      "title": "Ask HN: GLM-5.2 FP8 vs. BF16",
-      "link": "https://news.ycombinator.com/item?id=48717458",
-      "summary": "<p>Many cloud providers offering GLM-5.2 seems to only offer FP8. I wonder if anyone has evaluated the difference between FP8 and BF16 in terms of quality?</p>\n<hr />\n<p>Comments URL: <a href=\"https:/...",
-      "published": "2026-06-29T10:44:36+00:00",
-      "domain": "news.ycombinator.com",
+      "title": "When crypto tries to behave like an annuity",
+      "link": "https://mysafetrader.com/dashboard",
+      "summary": "<p>Article URL: <a href=\"https://mysafetrader.com/dashboard\">https://mysafetrader.com/dashboard</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48720790\">https://news.ycombinato...",
+      "published": "2026-06-29T15:44:59+00:00",
+      "domain": "mysafetrader.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -131,11 +131,11 @@
       }
     },
     {
-      "title": "Pollen (CEO Negus-Fancey, CTO Wright) tried to remove article, and Google helped",
-      "link": "https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48716902\">Comments</a>...",
-      "published": "2026-06-29T09:28:08+00:00",
-      "domain": "blog.pragmaticengineer.com",
+      "title": "A native graphical shell for SSH",
+      "link": "https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html",
+      "summary": "<p>Article URL: <a href=\"https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html\">https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html</a></p>\n<p>C...",
+      "published": "2026-06-29T15:42:17+00:00",
+      "domain": "probablymarcus.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -147,10 +147,10 @@
       }
     },
     {
-      "title": "\u2018We\u2019re up against forces that have all the money in the world\u2019: Erin Brockovich on her battle against AI datacentres",
-      "link": "https://www.reddit.com/r/technology/comments/1uimehr/were_up_against_forces_that_have_all_the_money_in/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1uimehr/were_up_against_forces_that_have_all_the_money_in/\"> <img alt=\"\u2018We\u2019re up against forces that have all the money in the wo...",
-      "published": "2026-06-29T08:15:47+00:00",
+      "title": "Ford rehires more than 300 veteran human engineers after it says AI failed to deliver the same level of expertise",
+      "link": "https://www.reddit.com/r/technology/comments/1uiv2sy/ford_rehires_more_than_300_veteran_human/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1uiv2sy/ford_rehires_more_than_300_veteran_human/\"> <img alt=\"Ford rehires more than 300 veteran human engineers after it says AI...",
+      "published": "2026-06-29T15:06:07+00:00",
       "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
@@ -165,28 +165,60 @@
   ],
   "anarchy_ranked": [
     {
-      "title": "Microsoft Removes 119 Edge Extensions That Hid Malware in Images and Fonts",
-      "link": "https://thehackernews.com/2026/06/microsoft-removes-119-edge-extensions.html",
-      "summary": "Microsoft has shut down a long-running malicious extension operation on the Edge Add-ons store that hid its payloads inside ordinary image and font files, then woke up days after install to steal cred...",
-      "published": "2026-06-29T14:02:31+05:30",
+      "title": "\u26a1 Weekly Recap: Linux Kernel Flaws, AI Malware Tricks, Turla Backdoor, Infostealers and More",
+      "link": "https://thehackernews.com/2026/06/weekly-recap-linux-kernel-flaws-ai.html",
+      "summary": "This week was a reminder that attackers do not always need big tricks. One small mistake, one old access path, one missed patch, and suddenly the door is open.\n\nThe noise is not all noise, either. For...",
+      "published": "2026-06-29T20:11:07+05:30",
       "domain": "thehackernews.com",
       "scores": {
-        "chaos": 9.0,
+        "chaos": 3.0,
         "anarchy": 3.0,
-        "overall": 6.0
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "236,000 DCloud Uni-App Sites Used in Crypto Scams, Phishing, and Wallet Drainers",
+      "link": "https://thehackernews.com/2026/06/236000-dcloud-uni-app-sites-used-in.html",
+      "summary": "New findings unearthed by Infoblox show that more than 236,000 websites are using investment scam templates built using a legitimate Chinese open-source, cross-platform application development framewo...",
+      "published": "2026-06-29T17:27:40+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Why Post-Quantum Cryptography Starts With Credentials",
+      "link": "https://thehackernews.com/2026/06/why-post-quantum-cryptography-starts.html",
+      "summary": "Today\u2019s encrypted data, such as credentials, may no longer remain confidential in the future because the public-key cryptography protecting it will soon be broken by quantum computers. Although no mac...",
+      "published": "2026-06-29T17:12:16+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 15.6,
+        "anarchy": 3.0,
+        "overall": 9.3
       },
       "keywords": {
         "chaos": [
-          "down"
+          "broken"
         ],
         "anarchy": []
       }
     },
     {
-      "title": "Public PoC Released for Critical libssh2 CVE-2026-55200 Client-Side SSH Flaw",
-      "link": "https://thehackernews.com/2026/06/public-poc-released-for-critical.html",
-      "summary": "A public proof-of-concept is now out for CVE-2026-55200, a critical flaw in libssh2 that lets a malicious or compromised SSH server trigger memory corruption on a connecting client, with possible code...",
-      "published": "2026-06-29T12:36:34+05:30",
+      "title": "Gamaredon Expands Ukraine Attacks with New Malware and Cloud Service Abuse",
+      "link": "https://thehackernews.com/2026/06/gamaredon-expands-ukraine-attacks-with.html",
+      "summary": "A Russian advanced persistent threat (APT) group has continued to evolve and expand its malware arsenal as part of its ongoing cyber onslaught against Ukraine throughout 2025.\n\nSlovakian cybersecurity...",
+      "published": "2026-06-29T17:10:24+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -199,11 +231,11 @@
       }
     },
     {
-      "title": "Hijacked npm and Go Packages Use VS Code Tasks to Deploy Python Infostealer",
-      "link": "https://thehackernews.com/2026/06/hijacked-npm-and-go-packages-use-vs.html",
-      "summary": "Cybersecurity researchers have uncovered two hijacked npm packages and a cluster of Go packages that are designed to deploy a Python-based information stealer on compromised Windows, Linux, and macOS ...",
-      "published": "2026-06-29T11:06:06+05:30",
-      "domain": "thehackernews.com",
+      "title": "Nissan says Oracle PeopleSoft break-in may have spilled payroll records, SSNs",
+      "link": "https://www.theregister.com/security/2026/06/29/nissan-says-oracle-peoplesoft-break-in-may-have-spilled-payroll-records-ssns/5263534",
+      "summary": "<p>Article URL: <a href=\"https://www.theregister.com/security/2026/06/29/nissan-says-oracle-peoplesoft-break-in-may-have-spilled-payroll-records-ssns/5263534\">https://www.theregister.com/security/2026...",
+      "published": "2026-06-29T15:46:19+00:00",
+      "domain": "theregister.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -215,11 +247,11 @@
       }
     },
     {
-      "title": "Expo adds AgeRange module wrapping Apple and Google age-verification APIs",
-      "link": "https://docs.expo.dev/versions/latest/sdk/age-range/",
-      "summary": "<p>Article URL: <a href=\"https://docs.expo.dev/versions/latest/sdk/age-range/\">https://docs.expo.dev/versions/latest/sdk/age-range/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?...",
-      "published": "2026-06-29T10:51:43+00:00",
-      "domain": "docs.expo.dev",
+      "title": "Multifold Speed Boost for Supercomputer Simulations of Molecules",
+      "link": "https://www.simonsfoundation.org/2026/06/24/mathematicians-unleash-multifold-speed-boost-for-supercomputer-simulations-of-molecules/",
+      "summary": "<p>Article URL: <a href=\"https://www.simonsfoundation.org/2026/06/24/mathematicians-unleash-multifold-speed-boost-for-supercomputer-simulations-of-molecules/\">https://www.simonsfoundation.org/2026/06/...",
+      "published": "2026-06-29T15:46:18+00:00",
+      "domain": "simonsfoundation.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -231,11 +263,11 @@
       }
     },
     {
-      "title": "Radiology's Last Exam (RadLE)",
-      "link": "https://arxiv.org/abs/2509.25559",
-      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2509.25559\">https://arxiv.org/abs/2509.25559</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48717476\">https://news.ycombinator.co...",
-      "published": "2026-06-29T10:46:35+00:00",
-      "domain": "arxiv.org",
+      "title": "In a New Image, NASA Captures 16.5M Stars of the Cigar Galaxy",
+      "link": "https://www.thisiscolossal.com/2026/06/messier-82-cigar-galaxy-webb-image/",
+      "summary": "<p>Article URL: <a href=\"https://www.thisiscolossal.com/2026/06/messier-82-cigar-galaxy-webb-image/\">https://www.thisiscolossal.com/2026/06/messier-82-cigar-galaxy-webb-image/</a></p>\n<p>Comments URL:...",
+      "published": "2026-06-29T15:45:06+00:00",
+      "domain": "thisiscolossal.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -247,11 +279,11 @@
       }
     },
     {
-      "title": "The CEO of Mullvad is the main financer of the far-right Swedish \u00d6rebro party",
-      "link": "https://det.social/@lostgen/116820546568940358",
-      "summary": "<p>Article URL: <a href=\"https://det.social/@lostgen/116820546568940358\">https://det.social/@lostgen/116820546568940358</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48717469\"...",
-      "published": "2026-06-29T10:45:51+00:00",
-      "domain": "det.social",
+      "title": "When crypto tries to behave like an annuity",
+      "link": "https://mysafetrader.com/dashboard",
+      "summary": "<p>Article URL: <a href=\"https://mysafetrader.com/dashboard\">https://mysafetrader.com/dashboard</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48720790\">https://news.ycombinato...",
+      "published": "2026-06-29T15:44:59+00:00",
+      "domain": "mysafetrader.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -263,11 +295,11 @@
       }
     },
     {
-      "title": "Show HN: Re:Zero \u2013 Start building from zero",
-      "link": "https://www.rezero.md/en/library",
-      "summary": "<p>Article URL: <a href=\"https://www.rezero.md/en/library\">https://www.rezero.md/en/library</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48717468\">https://news.ycombinator.co...",
-      "published": "2026-06-29T10:45:51+00:00",
-      "domain": "rezero.md",
+      "title": "A native graphical shell for SSH",
+      "link": "https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html",
+      "summary": "<p>Article URL: <a href=\"https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html\">https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html</a></p>\n<p>C...",
+      "published": "2026-06-29T15:42:17+00:00",
+      "domain": "probablymarcus.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -279,42 +311,10 @@
       }
     },
     {
-      "title": "Ask HN: GLM-5.2 FP8 vs. BF16",
-      "link": "https://news.ycombinator.com/item?id=48717458",
-      "summary": "<p>Many cloud providers offering GLM-5.2 seems to only offer FP8. I wonder if anyone has evaluated the difference between FP8 and BF16 in terms of quality?</p>\n<hr />\n<p>Comments URL: <a href=\"https:/...",
-      "published": "2026-06-29T10:44:36+00:00",
-      "domain": "news.ycombinator.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Pollen (CEO Negus-Fancey, CTO Wright) tried to remove article, and Google helped",
-      "link": "https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48716902\">Comments</a>...",
-      "published": "2026-06-29T09:28:08+00:00",
-      "domain": "blog.pragmaticengineer.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "\u2018We\u2019re up against forces that have all the money in the world\u2019: Erin Brockovich on her battle against AI datacentres",
-      "link": "https://www.reddit.com/r/technology/comments/1uimehr/were_up_against_forces_that_have_all_the_money_in/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1uimehr/were_up_against_forces_that_have_all_the_money_in/\"> <img alt=\"\u2018We\u2019re up against forces that have all the money in the wo...",
-      "published": "2026-06-29T08:15:47+00:00",
+      "title": "Ford rehires more than 300 veteran human engineers after it says AI failed to deliver the same level of expertise",
+      "link": "https://www.reddit.com/r/technology/comments/1uiv2sy/ford_rehires_more_than_300_veteran_human/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1uiv2sy/ford_rehires_more_than_300_veteran_human/\"> <img alt=\"Ford rehires more than 300 veteran human engineers after it says AI...",
+      "published": "2026-06-29T15:06:07+00:00",
       "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
@@ -329,28 +329,28 @@
   ],
   "overall_ranked": [
     {
-      "title": "Microsoft Removes 119 Edge Extensions That Hid Malware in Images and Fonts",
-      "link": "https://thehackernews.com/2026/06/microsoft-removes-119-edge-extensions.html",
-      "summary": "Microsoft has shut down a long-running malicious extension operation on the Edge Add-ons store that hid its payloads inside ordinary image and font files, then woke up days after install to steal cred...",
-      "published": "2026-06-29T14:02:31+05:30",
+      "title": "Why Post-Quantum Cryptography Starts With Credentials",
+      "link": "https://thehackernews.com/2026/06/why-post-quantum-cryptography-starts.html",
+      "summary": "Today\u2019s encrypted data, such as credentials, may no longer remain confidential in the future because the public-key cryptography protecting it will soon be broken by quantum computers. Although no mac...",
+      "published": "2026-06-29T17:12:16+05:30",
       "domain": "thehackernews.com",
       "scores": {
-        "chaos": 9.0,
+        "chaos": 15.6,
         "anarchy": 3.0,
-        "overall": 6.0
+        "overall": 9.3
       },
       "keywords": {
         "chaos": [
-          "down"
+          "broken"
         ],
         "anarchy": []
       }
     },
     {
-      "title": "Public PoC Released for Critical libssh2 CVE-2026-55200 Client-Side SSH Flaw",
-      "link": "https://thehackernews.com/2026/06/public-poc-released-for-critical.html",
-      "summary": "A public proof-of-concept is now out for CVE-2026-55200, a critical flaw in libssh2 that lets a malicious or compromised SSH server trigger memory corruption on a connecting client, with possible code...",
-      "published": "2026-06-29T12:36:34+05:30",
+      "title": "\u26a1 Weekly Recap: Linux Kernel Flaws, AI Malware Tricks, Turla Backdoor, Infostealers and More",
+      "link": "https://thehackernews.com/2026/06/weekly-recap-linux-kernel-flaws-ai.html",
+      "summary": "This week was a reminder that attackers do not always need big tricks. One small mistake, one old access path, one missed patch, and suddenly the door is open.\n\nThe noise is not all noise, either. For...",
+      "published": "2026-06-29T20:11:07+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -363,10 +363,10 @@
       }
     },
     {
-      "title": "Hijacked npm and Go Packages Use VS Code Tasks to Deploy Python Infostealer",
-      "link": "https://thehackernews.com/2026/06/hijacked-npm-and-go-packages-use-vs.html",
-      "summary": "Cybersecurity researchers have uncovered two hijacked npm packages and a cluster of Go packages that are designed to deploy a Python-based information stealer on compromised Windows, Linux, and macOS ...",
-      "published": "2026-06-29T11:06:06+05:30",
+      "title": "236,000 DCloud Uni-App Sites Used in Crypto Scams, Phishing, and Wallet Drainers",
+      "link": "https://thehackernews.com/2026/06/236000-dcloud-uni-app-sites-used-in.html",
+      "summary": "New findings unearthed by Infoblox show that more than 236,000 websites are using investment scam templates built using a legitimate Chinese open-source, cross-platform application development framewo...",
+      "published": "2026-06-29T17:27:40+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -379,11 +379,11 @@
       }
     },
     {
-      "title": "Expo adds AgeRange module wrapping Apple and Google age-verification APIs",
-      "link": "https://docs.expo.dev/versions/latest/sdk/age-range/",
-      "summary": "<p>Article URL: <a href=\"https://docs.expo.dev/versions/latest/sdk/age-range/\">https://docs.expo.dev/versions/latest/sdk/age-range/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?...",
-      "published": "2026-06-29T10:51:43+00:00",
-      "domain": "docs.expo.dev",
+      "title": "Gamaredon Expands Ukraine Attacks with New Malware and Cloud Service Abuse",
+      "link": "https://thehackernews.com/2026/06/gamaredon-expands-ukraine-attacks-with.html",
+      "summary": "A Russian advanced persistent threat (APT) group has continued to evolve and expand its malware arsenal as part of its ongoing cyber onslaught against Ukraine throughout 2025.\n\nSlovakian cybersecurity...",
+      "published": "2026-06-29T17:10:24+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -395,11 +395,11 @@
       }
     },
     {
-      "title": "Radiology's Last Exam (RadLE)",
-      "link": "https://arxiv.org/abs/2509.25559",
-      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2509.25559\">https://arxiv.org/abs/2509.25559</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48717476\">https://news.ycombinator.co...",
-      "published": "2026-06-29T10:46:35+00:00",
-      "domain": "arxiv.org",
+      "title": "Nissan says Oracle PeopleSoft break-in may have spilled payroll records, SSNs",
+      "link": "https://www.theregister.com/security/2026/06/29/nissan-says-oracle-peoplesoft-break-in-may-have-spilled-payroll-records-ssns/5263534",
+      "summary": "<p>Article URL: <a href=\"https://www.theregister.com/security/2026/06/29/nissan-says-oracle-peoplesoft-break-in-may-have-spilled-payroll-records-ssns/5263534\">https://www.theregister.com/security/2026...",
+      "published": "2026-06-29T15:46:19+00:00",
+      "domain": "theregister.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -411,11 +411,11 @@
       }
     },
     {
-      "title": "The CEO of Mullvad is the main financer of the far-right Swedish \u00d6rebro party",
-      "link": "https://det.social/@lostgen/116820546568940358",
-      "summary": "<p>Article URL: <a href=\"https://det.social/@lostgen/116820546568940358\">https://det.social/@lostgen/116820546568940358</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48717469\"...",
-      "published": "2026-06-29T10:45:51+00:00",
-      "domain": "det.social",
+      "title": "Multifold Speed Boost for Supercomputer Simulations of Molecules",
+      "link": "https://www.simonsfoundation.org/2026/06/24/mathematicians-unleash-multifold-speed-boost-for-supercomputer-simulations-of-molecules/",
+      "summary": "<p>Article URL: <a href=\"https://www.simonsfoundation.org/2026/06/24/mathematicians-unleash-multifold-speed-boost-for-supercomputer-simulations-of-molecules/\">https://www.simonsfoundation.org/2026/06/...",
+      "published": "2026-06-29T15:46:18+00:00",
+      "domain": "simonsfoundation.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -427,11 +427,11 @@
       }
     },
     {
-      "title": "Show HN: Re:Zero \u2013 Start building from zero",
-      "link": "https://www.rezero.md/en/library",
-      "summary": "<p>Article URL: <a href=\"https://www.rezero.md/en/library\">https://www.rezero.md/en/library</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48717468\">https://news.ycombinator.co...",
-      "published": "2026-06-29T10:45:51+00:00",
-      "domain": "rezero.md",
+      "title": "In a New Image, NASA Captures 16.5M Stars of the Cigar Galaxy",
+      "link": "https://www.thisiscolossal.com/2026/06/messier-82-cigar-galaxy-webb-image/",
+      "summary": "<p>Article URL: <a href=\"https://www.thisiscolossal.com/2026/06/messier-82-cigar-galaxy-webb-image/\">https://www.thisiscolossal.com/2026/06/messier-82-cigar-galaxy-webb-image/</a></p>\n<p>Comments URL:...",
+      "published": "2026-06-29T15:45:06+00:00",
+      "domain": "thisiscolossal.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -443,11 +443,11 @@
       }
     },
     {
-      "title": "Ask HN: GLM-5.2 FP8 vs. BF16",
-      "link": "https://news.ycombinator.com/item?id=48717458",
-      "summary": "<p>Many cloud providers offering GLM-5.2 seems to only offer FP8. I wonder if anyone has evaluated the difference between FP8 and BF16 in terms of quality?</p>\n<hr />\n<p>Comments URL: <a href=\"https:/...",
-      "published": "2026-06-29T10:44:36+00:00",
-      "domain": "news.ycombinator.com",
+      "title": "When crypto tries to behave like an annuity",
+      "link": "https://mysafetrader.com/dashboard",
+      "summary": "<p>Article URL: <a href=\"https://mysafetrader.com/dashboard\">https://mysafetrader.com/dashboard</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48720790\">https://news.ycombinato...",
+      "published": "2026-06-29T15:44:59+00:00",
+      "domain": "mysafetrader.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -459,11 +459,11 @@
       }
     },
     {
-      "title": "Pollen (CEO Negus-Fancey, CTO Wright) tried to remove article, and Google helped",
-      "link": "https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48716902\">Comments</a>...",
-      "published": "2026-06-29T09:28:08+00:00",
-      "domain": "blog.pragmaticengineer.com",
+      "title": "A native graphical shell for SSH",
+      "link": "https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html",
+      "summary": "<p>Article URL: <a href=\"https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html\">https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html</a></p>\n<p>C...",
+      "published": "2026-06-29T15:42:17+00:00",
+      "domain": "probablymarcus.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -475,10 +475,10 @@
       }
     },
     {
-      "title": "\u2018We\u2019re up against forces that have all the money in the world\u2019: Erin Brockovich on her battle against AI datacentres",
-      "link": "https://www.reddit.com/r/technology/comments/1uimehr/were_up_against_forces_that_have_all_the_money_in/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1uimehr/were_up_against_forces_that_have_all_the_money_in/\"> <img alt=\"\u2018We\u2019re up against forces that have all the money in the wo...",
-      "published": "2026-06-29T08:15:47+00:00",
+      "title": "Ford rehires more than 300 veteran human engineers after it says AI failed to deliver the same level of expertise",
+      "link": "https://www.reddit.com/r/technology/comments/1uiv2sy/ford_rehires_more_than_300_veteran_human/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1uiv2sy/ford_rehires_more_than_300_veteran_human/\"> <img alt=\"Ford rehires more than 300 veteran human engineers after it says AI...",
+      "published": "2026-06-29T15:06:07+00:00",
       "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
@@ -493,28 +493,60 @@
   ],
   "all_articles": [
     {
-      "title": "Microsoft Removes 119 Edge Extensions That Hid Malware in Images and Fonts",
-      "link": "https://thehackernews.com/2026/06/microsoft-removes-119-edge-extensions.html",
-      "summary": "Microsoft has shut down a long-running malicious extension operation on the Edge Add-ons store that hid its payloads inside ordinary image and font files, then woke up days after install to steal cred...",
-      "published": "2026-06-29T14:02:31+05:30",
+      "title": "\u26a1 Weekly Recap: Linux Kernel Flaws, AI Malware Tricks, Turla Backdoor, Infostealers and More",
+      "link": "https://thehackernews.com/2026/06/weekly-recap-linux-kernel-flaws-ai.html",
+      "summary": "This week was a reminder that attackers do not always need big tricks. One small mistake, one old access path, one missed patch, and suddenly the door is open.\n\nThe noise is not all noise, either. For...",
+      "published": "2026-06-29T20:11:07+05:30",
       "domain": "thehackernews.com",
       "scores": {
-        "chaos": 9.0,
+        "chaos": 3.0,
         "anarchy": 3.0,
-        "overall": 6.0
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "236,000 DCloud Uni-App Sites Used in Crypto Scams, Phishing, and Wallet Drainers",
+      "link": "https://thehackernews.com/2026/06/236000-dcloud-uni-app-sites-used-in.html",
+      "summary": "New findings unearthed by Infoblox show that more than 236,000 websites are using investment scam templates built using a legitimate Chinese open-source, cross-platform application development framewo...",
+      "published": "2026-06-29T17:27:40+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Why Post-Quantum Cryptography Starts With Credentials",
+      "link": "https://thehackernews.com/2026/06/why-post-quantum-cryptography-starts.html",
+      "summary": "Today\u2019s encrypted data, such as credentials, may no longer remain confidential in the future because the public-key cryptography protecting it will soon be broken by quantum computers. Although no mac...",
+      "published": "2026-06-29T17:12:16+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 15.6,
+        "anarchy": 3.0,
+        "overall": 9.3
       },
       "keywords": {
         "chaos": [
-          "down"
+          "broken"
         ],
         "anarchy": []
       }
     },
     {
-      "title": "Public PoC Released for Critical libssh2 CVE-2026-55200 Client-Side SSH Flaw",
-      "link": "https://thehackernews.com/2026/06/public-poc-released-for-critical.html",
-      "summary": "A public proof-of-concept is now out for CVE-2026-55200, a critical flaw in libssh2 that lets a malicious or compromised SSH server trigger memory corruption on a connecting client, with possible code...",
-      "published": "2026-06-29T12:36:34+05:30",
+      "title": "Gamaredon Expands Ukraine Attacks with New Malware and Cloud Service Abuse",
+      "link": "https://thehackernews.com/2026/06/gamaredon-expands-ukraine-attacks-with.html",
+      "summary": "A Russian advanced persistent threat (APT) group has continued to evolve and expand its malware arsenal as part of its ongoing cyber onslaught against Ukraine throughout 2025.\n\nSlovakian cybersecurity...",
+      "published": "2026-06-29T17:10:24+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -527,11 +559,11 @@
       }
     },
     {
-      "title": "Hijacked npm and Go Packages Use VS Code Tasks to Deploy Python Infostealer",
-      "link": "https://thehackernews.com/2026/06/hijacked-npm-and-go-packages-use-vs.html",
-      "summary": "Cybersecurity researchers have uncovered two hijacked npm packages and a cluster of Go packages that are designed to deploy a Python-based information stealer on compromised Windows, Linux, and macOS ...",
-      "published": "2026-06-29T11:06:06+05:30",
-      "domain": "thehackernews.com",
+      "title": "Nissan says Oracle PeopleSoft break-in may have spilled payroll records, SSNs",
+      "link": "https://www.theregister.com/security/2026/06/29/nissan-says-oracle-peoplesoft-break-in-may-have-spilled-payroll-records-ssns/5263534",
+      "summary": "<p>Article URL: <a href=\"https://www.theregister.com/security/2026/06/29/nissan-says-oracle-peoplesoft-break-in-may-have-spilled-payroll-records-ssns/5263534\">https://www.theregister.com/security/2026...",
+      "published": "2026-06-29T15:46:19+00:00",
+      "domain": "theregister.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -543,11 +575,11 @@
       }
     },
     {
-      "title": "Expo adds AgeRange module wrapping Apple and Google age-verification APIs",
-      "link": "https://docs.expo.dev/versions/latest/sdk/age-range/",
-      "summary": "<p>Article URL: <a href=\"https://docs.expo.dev/versions/latest/sdk/age-range/\">https://docs.expo.dev/versions/latest/sdk/age-range/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?...",
-      "published": "2026-06-29T10:51:43+00:00",
-      "domain": "docs.expo.dev",
+      "title": "Multifold Speed Boost for Supercomputer Simulations of Molecules",
+      "link": "https://www.simonsfoundation.org/2026/06/24/mathematicians-unleash-multifold-speed-boost-for-supercomputer-simulations-of-molecules/",
+      "summary": "<p>Article URL: <a href=\"https://www.simonsfoundation.org/2026/06/24/mathematicians-unleash-multifold-speed-boost-for-supercomputer-simulations-of-molecules/\">https://www.simonsfoundation.org/2026/06/...",
+      "published": "2026-06-29T15:46:18+00:00",
+      "domain": "simonsfoundation.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -559,11 +591,11 @@
       }
     },
     {
-      "title": "Radiology's Last Exam (RadLE)",
-      "link": "https://arxiv.org/abs/2509.25559",
-      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2509.25559\">https://arxiv.org/abs/2509.25559</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48717476\">https://news.ycombinator.co...",
-      "published": "2026-06-29T10:46:35+00:00",
-      "domain": "arxiv.org",
+      "title": "In a New Image, NASA Captures 16.5M Stars of the Cigar Galaxy",
+      "link": "https://www.thisiscolossal.com/2026/06/messier-82-cigar-galaxy-webb-image/",
+      "summary": "<p>Article URL: <a href=\"https://www.thisiscolossal.com/2026/06/messier-82-cigar-galaxy-webb-image/\">https://www.thisiscolossal.com/2026/06/messier-82-cigar-galaxy-webb-image/</a></p>\n<p>Comments URL:...",
+      "published": "2026-06-29T15:45:06+00:00",
+      "domain": "thisiscolossal.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -575,11 +607,11 @@
       }
     },
     {
-      "title": "The CEO of Mullvad is the main financer of the far-right Swedish \u00d6rebro party",
-      "link": "https://det.social/@lostgen/116820546568940358",
-      "summary": "<p>Article URL: <a href=\"https://det.social/@lostgen/116820546568940358\">https://det.social/@lostgen/116820546568940358</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48717469\"...",
-      "published": "2026-06-29T10:45:51+00:00",
-      "domain": "det.social",
+      "title": "When crypto tries to behave like an annuity",
+      "link": "https://mysafetrader.com/dashboard",
+      "summary": "<p>Article URL: <a href=\"https://mysafetrader.com/dashboard\">https://mysafetrader.com/dashboard</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48720790\">https://news.ycombinato...",
+      "published": "2026-06-29T15:44:59+00:00",
+      "domain": "mysafetrader.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -591,11 +623,11 @@
       }
     },
     {
-      "title": "Show HN: Re:Zero \u2013 Start building from zero",
-      "link": "https://www.rezero.md/en/library",
-      "summary": "<p>Article URL: <a href=\"https://www.rezero.md/en/library\">https://www.rezero.md/en/library</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48717468\">https://news.ycombinator.co...",
-      "published": "2026-06-29T10:45:51+00:00",
-      "domain": "rezero.md",
+      "title": "A native graphical shell for SSH",
+      "link": "https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html",
+      "summary": "<p>Article URL: <a href=\"https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html\">https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html</a></p>\n<p>C...",
+      "published": "2026-06-29T15:42:17+00:00",
+      "domain": "probablymarcus.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -607,42 +639,10 @@
       }
     },
     {
-      "title": "Ask HN: GLM-5.2 FP8 vs. BF16",
-      "link": "https://news.ycombinator.com/item?id=48717458",
-      "summary": "<p>Many cloud providers offering GLM-5.2 seems to only offer FP8. I wonder if anyone has evaluated the difference between FP8 and BF16 in terms of quality?</p>\n<hr />\n<p>Comments URL: <a href=\"https:/...",
-      "published": "2026-06-29T10:44:36+00:00",
-      "domain": "news.ycombinator.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Pollen (CEO Negus-Fancey, CTO Wright) tried to remove article, and Google helped",
-      "link": "https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48716902\">Comments</a>...",
-      "published": "2026-06-29T09:28:08+00:00",
-      "domain": "blog.pragmaticengineer.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "\u2018We\u2019re up against forces that have all the money in the world\u2019: Erin Brockovich on her battle against AI datacentres",
-      "link": "https://www.reddit.com/r/technology/comments/1uimehr/were_up_against_forces_that_have_all_the_money_in/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1uimehr/were_up_against_forces_that_have_all_the_money_in/\"> <img alt=\"\u2018We\u2019re up against forces that have all the money in the wo...",
-      "published": "2026-06-29T08:15:47+00:00",
+      "title": "Ford rehires more than 300 veteran human engineers after it says AI failed to deliver the same level of expertise",
+      "link": "https://www.reddit.com/r/technology/comments/1uiv2sy/ford_rehires_more_than_300_veteran_human/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1uiv2sy/ford_rehires_more_than_300_veteran_human/\"> <img alt=\"Ford rehires more than 300 veteran human engineers after it says AI...",
+      "published": "2026-06-29T15:06:07+00:00",
       "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,

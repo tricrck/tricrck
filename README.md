@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Microsoft Removes 119 Edge Extensions That Hid Malware in Images and Fonts
+### Why Post-Quantum Cryptography Starts With Credentials
 - **Published**: June 29, 2026
-- **Summary**: Microsoft has shut down a long-running malicious extension operation on the Edge Add-ons store that hid its payloads inside ordinary image and font fi...
-- **Keywords**: down
-- [Read more](https://thehackernews.com/2026/06/microsoft-removes-119-edge-extensions.html)
+- **Summary**: Today’s encrypted data, such as credentials, may no longer remain confidential in the future because the public-key cryptography protecting it will so...
+- **Keywords**: broken
+- [Read more](https://thehackernews.com/2026/06/why-post-quantum-cryptography-starts.html)
 
-### Public PoC Released for Critical libssh2 CVE-2026-55200 Client-Side SSH Flaw
+### ⚡ Weekly Recap: Linux Kernel Flaws, AI Malware Tricks, Turla Backdoor, Infostealers and More
 - **Published**: June 29, 2026
-- **Summary**: A public proof-of-concept is now out for CVE-2026-55200, a critical flaw in libssh2 that lets a malicious or compromised SSH server trigger memory cor...
-- [Read more](https://thehackernews.com/2026/06/public-poc-released-for-critical.html)
+- **Summary**: This week was a reminder that attackers do not always need big tricks. One small mistake, one old access path, one missed patch, and suddenly the door...
+- [Read more](https://thehackernews.com/2026/06/weekly-recap-linux-kernel-flaws-ai.html)
 
 ---
 
