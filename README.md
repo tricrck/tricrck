@@ -16,16 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Another ICE threat visit: How did agents track down this critic on his vacation?
-- **Published**: June 28, 2026
-- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1ui0z4k/another_ice_threat_visit_how_did_agents_track/"> <img alt="Another ICE threat visit...
-- **Keywords**: down, down
-- [Read more](https://www.reddit.com/r/technology/comments/1ui0z4k/another_ice_threat_visit_how_did_agents_track/)
+### 'Down from Londoners' Are Transforming England's Seaside Towns
+- **Published**: June 29, 2026
+- **Summary**: https://www.bloomberg.com/news/articles/2026-......
+- **Keywords**: down
+- [Read more](https://www.bloomberg.com/news/articles/2026-06-26/londoners-escape-to-england-s-seaside-raises-housing-costs-political-tensions)
 
-### Your Kids’ School Bus Is About to Become a Roaming Surveillance Vehicle
-- **Published**: June 28, 2026
-- **Summary**: https://www.thedrive.com/news/your-kids-school-bus-is-about-to-become-a-r......
-- [Read more](https://www.thedrive.com/news/your-kids-school-bus-is-about-to-become-a-roaming-surveillance-vehicle)
+### "Warming Hole" Heat Content Variations Are Caused by Ocean Heat Transport
+- **Published**: June 29, 2026
+- **Summary**: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2025GL118383</a></p>
+<p>Comments URL: <a href="......
+- [Read more](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2025GL118383)
 
 ---
 
