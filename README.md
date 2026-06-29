@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Why Post-Quantum Cryptography Starts With Credentials
+### A.I. 'Employees' Might Disrupt Work in Unexpected Ways
 - **Published**: June 29, 2026
-- **Summary**: Today’s encrypted data, such as credentials, may no longer remain confidential in the future because the public-key cryptography protecting it will so...
-- **Keywords**: broken
-- [Read more](https://thehackernews.com/2026/06/why-post-quantum-cryptography-starts.html)
+- **Summary**: https://www.nytimes.com/2026/06/29/business/artificial-intelligence-workplace-......
+- **Keywords**: disrupt
+- [Read more](https://www.nytimes.com/2026/06/29/business/artificial-intelligence-workplace-consequences.html)
 
-### ⚡ Weekly Recap: Linux Kernel Flaws, AI Malware Tricks, Turla Backdoor, Infostealers and More
-- **Published**: June 29, 2026
-- **Summary**: This week was a reminder that attackers do not always need big tricks. One small mistake, one old access path, one missed patch, and suddenly the door...
-- [Read more](https://thehackernews.com/2026/06/weekly-recap-linux-kernel-flaws-ai.html)
+### Malicious Perplexity Chrome Extension Intercepted Searches and Address Bar Input
+- **Published**: June 30, 2026
+- **Summary**: Microsoft has found a malicious Chrome extension that posed as the AI search engine Perplexity and quietly logged what people searched for. It routed ...
+- [Read more](https://thehackernews.com/2026/06/malicious-perplexity-chrome-extension.html)
 
 ---
 
