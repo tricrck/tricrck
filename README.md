@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### New BioShocking Attack Tricks AI Browsers Into Leaking User Credentials
+### What the Numbers Say About FIFA 2026 Cyber Risk
 - **Published**: June 30, 2026
-- **Summary**: Convince an AI browser that it is playing a game, and it can hand over your login details. That is the finding behind&nbsp;BioShocking, a technique fr...
-- [Read more](https://thehackernews.com/2026/06/new-bioshocking-attack-tricks-ai.html)
+- **Summary**: The FIFA World Cup 2026 opened on June 11. By that date, according to Check Point Research, the fraud infrastructure targeting it had already been bui...
+- [Read more](https://thehackernews.com/2026/06/what-numbers-say-about-fifa-2026-cyber.html)
 
-### Progress Kemp LoadMaster Flaw Could Let Attackers Run Root Commands Pre-Auth
+### Attackers Exploit SimpleHelp CVE-2026-48558 to Deploy TaskWeaver and Djinn Stealer
 - **Published**: June 30, 2026
-- **Summary**: A critical vulnerability in Progress Kemp LoadMaster can let an unauthenticated attacker execute arbitrary commands as root on the appliance by sendin...
-- [Read more](https://thehackernews.com/2026/06/progress-kemp-loadmaster-flaw-could-let.html)
+- **Summary**: An unknown threat actor has been observed exploiting a recently disclosed maximum-severity security flaw in SimpleHelp to deliver two previously unrep...
+- [Read more](https://thehackernews.com/2026/06/attackers-exploit-simplehelp-cve-2026.html)
 
 ---
 
