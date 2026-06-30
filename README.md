@@ -16,17 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### The end of the engineer. The rise of the operator
+### New BioShocking Attack Tricks AI Browsers Into Leaking User Credentials
 - **Published**: June 30, 2026
-- **Summary**: https://getoperators.ai/manifesto</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48728225">https://news.ycombinator.......
-- [Read more](https://getoperators.ai/manifesto)
+- **Summary**: Convince an AI browser that it is playing a game, and it can hand over your login details. That is the finding behind&nbsp;BioShocking, a technique fr...
+- [Read more](https://thehackernews.com/2026/06/new-bioshocking-attack-tricks-ai.html)
 
-### Memory in the Age of AI Agents (Survey Paper)
+### Progress Kemp LoadMaster Flaw Could Let Attackers Run Root Commands Pre-Auth
 - **Published**: June 30, 2026
-- **Summary**: https://arxiv.org/abs/2512.13564</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48728214">https://news.ycombinator.co......
-- [Read more](https://arxiv.org/abs/2512.13564)
+- **Summary**: A critical vulnerability in Progress Kemp LoadMaster can let an unauthenticated attacker execute arbitrary commands as root on the appliance by sendin...
+- [Read more](https://thehackernews.com/2026/06/progress-kemp-loadmaster-flaw-could-let.html)
 
 ---
 
