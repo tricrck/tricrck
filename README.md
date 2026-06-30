@@ -16,16 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### A.I. 'Employees' Might Disrupt Work in Unexpected Ways
-- **Published**: June 29, 2026
-- **Summary**: https://www.nytimes.com/2026/06/29/business/artificial-intelligence-workplace-......
-- **Keywords**: disrupt
-- [Read more](https://www.nytimes.com/2026/06/29/business/artificial-intelligence-workplace-consequences.html)
-
-### Malicious Perplexity Chrome Extension Intercepted Searches and Address Bar Input
+### The end of the engineer. The rise of the operator
 - **Published**: June 30, 2026
-- **Summary**: Microsoft has found a malicious Chrome extension that posed as the AI search engine Perplexity and quietly logged what people searched for. It routed ...
-- [Read more](https://thehackernews.com/2026/06/malicious-perplexity-chrome-extension.html)
+- **Summary**: https://getoperators.ai/manifesto</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48728225">https://news.ycombinator.......
+- [Read more](https://getoperators.ai/manifesto)
+
+### Memory in the Age of AI Agents (Survey Paper)
+- **Published**: June 30, 2026
+- **Summary**: https://arxiv.org/abs/2512.13564</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48728214">https://news.ycombinator.co......
+- [Read more](https://arxiv.org/abs/2512.13564)
 
 ---
 
