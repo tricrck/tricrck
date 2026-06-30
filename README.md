@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### What the Numbers Say About FIFA 2026 Cyber Risk
+### Microsoft Warns Poisoned MCP Tool Descriptions Can Make AI Agents Leak Data
 - **Published**: June 30, 2026
-- **Summary**: The FIFA World Cup 2026 opened on June 11. By that date, according to Check Point Research, the fraud infrastructure targeting it had already been bui...
-- [Read more](https://thehackernews.com/2026/06/what-numbers-say-about-fifa-2026-cyber.html)
+- **Summary**: New Microsoft&nbsp;research&nbsp;shows how attackers can hijack AI agents that act on a user's behalf, using nothing more than a poisoned tool descrip...
+- [Read more](https://thehackernews.com/2026/06/microsoft-warns-poisoned-mcp-tool.html)
 
-### Attackers Exploit SimpleHelp CVE-2026-48558 to Deploy TaskWeaver and Djinn Stealer
+### RustDuck Botnet Rebuilds in Rust to Hijack Routers and Servers for DDoS
 - **Published**: June 30, 2026
-- **Summary**: An unknown threat actor has been observed exploiting a recently disclosed maximum-severity security flaw in SimpleHelp to deliver two previously unrep...
-- [Read more](https://thehackernews.com/2026/06/attackers-exploit-simplehelp-cve-2026.html)
+- **Summary**: A new two-stage malware family called RustDuck is hijacking home routers, IP cameras, Android boxes, and poorly secured servers, then stitching them i...
+- [Read more](https://thehackernews.com/2026/06/rustduck-botnet-rebuilds-in-rust-to.html)
 
 ---
 
