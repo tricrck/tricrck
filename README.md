@@ -16,17 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Why averaging LLM benchmark scores is fundamentally broken
+### Amazon blames piracy apps with malware for killing new Fire Stick sideloading
 - **Published**: July 01, 2026
-- **Summary**: https://arxiv.org/abs/2605.11205</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48744350">https://news.ycombinator.co......
-- **Keywords**: broken
-- [Read more](https://arxiv.org/abs/2605.11205)
+- **Summary**: https://arstechnica.com/gadgets/2026/06/exec-blames-mal......
+- [Read more](https://arstechnica.com/gadgets/2026/06/exec-blames-malware-threat-for-amazon-blocking-sideloading-on-new-fire-sticks/)
 
-### Phantom Squatting Uses AI-Hallucinated Domains for Phishing and Malware
+### Progress Kemp LoadMaster Pre-Auth RCE Flaw Faces Active Exploitation Attempts
 - **Published**: July 01, 2026
-- **Summary**: Large language models keep inventing web addresses that do not exist. Attackers have started buying those made-up domains before anyone else can, then...
-- [Read more](https://thehackernews.com/2026/07/phantom-squatting-uses-ai-hallucinated.html)
+- **Summary**: A recently disclosed critical security flaw impacting Progress Kemp LoadMaster is seeing active exploitation attempts, according to an advisory from e...
+- [Read more](https://thehackernews.com/2026/07/latest-progress-kemp-loadmaster-pre.html)
 
 ---
 
