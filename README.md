@@ -16,15 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Amazon blames piracy apps with malware for killing new Fire Stick sideloading
+### Core dump epidemiology: fixing an 18-year-old bug
 - **Published**: July 01, 2026
-- **Summary**: https://arstechnica.com/gadgets/2026/06/exec-blames-mal......
-- [Read more](https://arstechnica.com/gadgets/2026/06/exec-blames-malware-threat-for-amazon-blocking-sideloading-on-new-fire-sticks/)
+- **Summary**: https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug/</a></p>
+<p>Comments URL: <a ......
+- **Keywords**: bug, bug, bug
+- [Read more](https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug/)
 
-### Progress Kemp LoadMaster Pre-Auth RCE Flaw Faces Active Exploitation Attempts
-- **Published**: July 01, 2026
-- **Summary**: A recently disclosed critical security flaw impacting Progress Kemp LoadMaster is seeing active exploitation attempts, according to an advisory from e...
-- [Read more](https://thehackernews.com/2026/07/latest-progress-kemp-loadmaster-pre.html)
+### Unpatched Argo CD Repo-Server Flaw Could Let Attackers Take Over Kubernetes Clusters
+- **Published**: July 02, 2026
+- **Summary**: Argo CD, a widely used tool for deploying software to Kubernetes, has an unpatched flaw in its repo-server component that lets an unauthenticated atta...
+- [Read more](https://thehackernews.com/2026/07/unpatched-argo-cd-repo-server-flaw.html)
 
 ---
 
