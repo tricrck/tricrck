@@ -1,138 +1,28 @@
 {
   "chaos_ranked": [
     {
-      "title": "CertAlloc\u2013An O(1) memory allocator formally verified -TLA+ and CBMC",
-      "link": "https://github.com/thedevilhimselfcodes/CertAlloc",
-      "summary": "<p>Article URL: <a href=\"https://github.com/thedevilhimselfcodes/CertAlloc\">https://github.com/thedevilhimselfcodes/CertAlloc</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=487...",
-      "published": "2026-07-01T03:36:29+00:00",
-      "domain": "github.com",
+      "title": "Why averaging LLM benchmark scores is fundamentally broken",
+      "link": "https://arxiv.org/abs/2605.11205",
+      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2605.11205\">https://arxiv.org/abs/2605.11205</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48744350\">https://news.ycombinator.co...",
+      "published": "2026-07-01T09:40:20+00:00",
+      "domain": "arxiv.org",
       "scores": {
-        "chaos": 3.0,
+        "chaos": 14.4,
         "anarchy": 3.0,
-        "overall": 3.0
+        "overall": 8.7
       },
       "keywords": {
-        "chaos": [],
+        "chaos": [
+          "broken"
+        ],
         "anarchy": []
       }
     },
     {
-      "title": "Found a great blog on Advance Threat Intel",
-      "link": "https://news.ycombinator.com/item?id=48741944",
-      "summary": "<p>Just came across a great Medium article that shows how to automate the entire process of discovering newly added CISA KEV vulnerabilities and generating Sigma detection rules using AI.<p>Instead of...",
-      "published": "2026-07-01T03:35:02+00:00",
-      "domain": "news.ycombinator.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "America can switch off AI. Europe must switch gears before it's too late",
-      "link": "https://www.euronews.com/my-europe/2026/06/30/america-can-switch-off-the-worlds-ai-europe-must-switch-gears-before-its-too-late",
-      "summary": "<p>Article URL: <a href=\"https://www.euronews.com/my-europe/2026/06/30/america-can-switch-off-the-worlds-ai-europe-must-switch-gears-before-its-too-late\">https://www.euronews.com/my-europe/2026/06/30/...",
-      "published": "2026-07-01T03:34:53+00:00",
-      "domain": "euronews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "1M Context: Making Long-Horizon Tasks Stable and Practical",
-      "link": "https://docs.z.ai/guides/llm/glm-5.2",
-      "summary": "<p>Article URL: <a href=\"https://docs.z.ai/guides/llm/glm-5.2\">https://docs.z.ai/guides/llm/glm-5.2</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48741933\">https://news.ycombi...",
-      "published": "2026-07-01T03:32:30+00:00",
-      "domain": "docs.z.ai",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Ferrari and BMW join Tesla, China in switch from copper to cheaper aluminium",
-      "link": "https://www.reuters.com/business/autos-transportation/ferrari-bmw-join-tesla-china-switch-copper-cheaper-aluminium-2026-06-30/",
-      "summary": "<p>Article URL: <a href=\"https://www.reuters.com/business/autos-transportation/ferrari-bmw-join-tesla-china-switch-copper-cheaper-aluminium-2026-06-30/\">https://www.reuters.com/business/autos-transpor...",
-      "published": "2026-07-01T03:31:11+00:00",
-      "domain": "reuters.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Supersonic flight returning to US after half-century ban",
-      "link": "https://www.forbes.com/sites/suzannerowankelleher/2026/06/30/faa-supersonic-flight-no-boom/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48741654\">Comments</a>...",
-      "published": "2026-07-01T02:26:22+00:00",
-      "domain": "forbes.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
-      "link": "https://twitter.com/AnthropicAI/status/2072106151890809341",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48740771\">Comments</a>...",
-      "published": "2026-06-30T23:55:12+00:00",
-      "domain": "twitter.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Google copybara: moving code between repositories",
-      "link": "https://github.com/google/copybara",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48740698\">Comments</a>...",
-      "published": "2026-06-30T23:45:39+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Microsoft Warns Poisoned MCP Tool Descriptions Can Make AI Agents Leak Data",
-      "link": "https://thehackernews.com/2026/06/microsoft-warns-poisoned-mcp-tool.html",
-      "summary": "New Microsoft&nbsp;research&nbsp;shows how attackers can hijack AI agents that act on a user's behalf, using nothing more than a poisoned tool description to make the agent quietly hand over company d...",
-      "published": "2026-06-30T23:16:07+05:30",
+      "title": "Phantom Squatting Uses AI-Hallucinated Domains for Phishing and Malware",
+      "link": "https://thehackernews.com/2026/07/phantom-squatting-uses-ai-hallucinated.html",
+      "summary": "Large language models keep inventing web addresses that do not exist. Attackers have started buying those made-up domains before anyone else can, then hosting phishing pages on them to catch traffic t...",
+      "published": "2026-07-01T12:50:51+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -145,10 +35,122 @@
       }
     },
     {
-      "title": "RustDuck Botnet Rebuilds in Rust to Hijack Routers and Servers for DDoS",
-      "link": "https://thehackernews.com/2026/06/rustduck-botnet-rebuilds-in-rust-to.html",
-      "summary": "A new two-stage malware family called RustDuck is hijacking home routers, IP cameras, Android boxes, and poorly secured servers, then stitching them into a network built to knock websites and online s...",
-      "published": "2026-06-30T23:15:25+05:30",
+      "title": "Anthropic Restores Claude Fable 5 After U.S. Lifts Jailbreak-Linked Export Controls",
+      "link": "https://thehackernews.com/2026/07/anthropic-restores-claude-fable-5-after.html",
+      "summary": "Anthropic is putting Claude Fable 5 back online worldwide. On&nbsp;June 30, the U.S. Commerce Department lifted the export controls it had imposed on Fable and its more tightly controlled sibling Myth...",
+      "published": "2026-07-01T12:16:17+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Azure CLI Password Spray Hits at Least 78 Microsoft Accounts in 81M+ Attempts",
+      "link": "https://thehackernews.com/2026/07/azure-cli-password-spray-hits-at-least.html",
+      "summary": "Cybersecurity researchers have warned of a \"massive, ongoing, automated password spray attack\" aimed at Microsoft's Azure command-line interface (CLI), compromising dozens of accounts in the process.\n...",
+      "published": "2026-07-01T11:16:03+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Researcher Analyzes 3,000 Live ClickFix Payloads, Exposing API-Driven Malware Delivery",
+      "link": "https://thehackernews.com/2026/07/researcher-analyzes-3000-live-clickfix.html",
+      "summary": "ClickFix, the trick that fools people into running malware by hand, has quietly grown a back office.\n\nNew research shows the malicious commands behind its fake \"prove you're human\" pages are now hande...",
+      "published": "2026-07-01T11:02:12+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Perseverance Finds Complex Organic Matter on Mars",
+      "link": "https://www.sci.news/space/perseverance-complex-organic-matter-mars-14882.html",
+      "summary": "<p>Article URL: <a href=\"https://www.sci.news/space/perseverance-complex-organic-matter-mars-14882.html\">https://www.sci.news/space/perseverance-complex-organic-matter-mars-14882.html</a></p>\n<p>Comme...",
+      "published": "2026-07-01T09:39:47+00:00",
+      "domain": "sci.news",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Ditching Claude for OpenCode and OpenRouter",
+      "link": "https://www.ianwootten.co.uk/2026/07/01/ditching-claude-for-opencode-and-openrouter/",
+      "summary": "<p>Article URL: <a href=\"https://www.ianwootten.co.uk/2026/07/01/ditching-claude-for-opencode-and-openrouter/\">https://www.ianwootten.co.uk/2026/07/01/ditching-claude-for-opencode-and-openrouter/</a><...",
+      "published": "2026-07-01T09:39:22+00:00",
+      "domain": "ianwootten.co.uk",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Bol.ai \u2013 Extract structured data from Bills of Lading",
+      "link": "https://bol.ai/",
+      "summary": "<p>Article URL: <a href=\"https://bol.ai/\">https://bol.ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48744342\">https://news.ycombinator.com/item?id=48744342</a></p>\n<p>Poin...",
+      "published": "2026-07-01T09:39:18+00:00",
+      "domain": "bol.ai",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Pokayoke \u2013 turn repo conventions into deterministic checks for agents",
+      "link": "https://pokayoke.codes",
+      "summary": "<p>Hey HN. Pokayoke is a tool I've been working on to scratch my own itch when it comes to solidifying arbitrary rules and conventions -- which modern linting and formatting toolchains might not suppo...",
+      "published": "2026-07-01T09:36:39+00:00",
+      "domain": "pokayoke.codes",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Citrix Patches Six NetScaler Flaws Allowing File Read and Denial-of-Service",
+      "link": "https://thehackernews.com/2026/07/citrix-patches-six-netscaler-flaws.html",
+      "summary": "Citrix on Tuesday released security updates to address multiple flaws in NetScaler ADC (formerly Citrix ADC) and NetScaler Gateway (formerly Citrix Gateway) that could be exploited by an attacker to f...",
+      "published": "2026-07-01T09:24:22+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -163,138 +165,10 @@
   ],
   "anarchy_ranked": [
     {
-      "title": "CertAlloc\u2013An O(1) memory allocator formally verified -TLA+ and CBMC",
-      "link": "https://github.com/thedevilhimselfcodes/CertAlloc",
-      "summary": "<p>Article URL: <a href=\"https://github.com/thedevilhimselfcodes/CertAlloc\">https://github.com/thedevilhimselfcodes/CertAlloc</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=487...",
-      "published": "2026-07-01T03:36:29+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Found a great blog on Advance Threat Intel",
-      "link": "https://news.ycombinator.com/item?id=48741944",
-      "summary": "<p>Just came across a great Medium article that shows how to automate the entire process of discovering newly added CISA KEV vulnerabilities and generating Sigma detection rules using AI.<p>Instead of...",
-      "published": "2026-07-01T03:35:02+00:00",
-      "domain": "news.ycombinator.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "America can switch off AI. Europe must switch gears before it's too late",
-      "link": "https://www.euronews.com/my-europe/2026/06/30/america-can-switch-off-the-worlds-ai-europe-must-switch-gears-before-its-too-late",
-      "summary": "<p>Article URL: <a href=\"https://www.euronews.com/my-europe/2026/06/30/america-can-switch-off-the-worlds-ai-europe-must-switch-gears-before-its-too-late\">https://www.euronews.com/my-europe/2026/06/30/...",
-      "published": "2026-07-01T03:34:53+00:00",
-      "domain": "euronews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "1M Context: Making Long-Horizon Tasks Stable and Practical",
-      "link": "https://docs.z.ai/guides/llm/glm-5.2",
-      "summary": "<p>Article URL: <a href=\"https://docs.z.ai/guides/llm/glm-5.2\">https://docs.z.ai/guides/llm/glm-5.2</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48741933\">https://news.ycombi...",
-      "published": "2026-07-01T03:32:30+00:00",
-      "domain": "docs.z.ai",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Ferrari and BMW join Tesla, China in switch from copper to cheaper aluminium",
-      "link": "https://www.reuters.com/business/autos-transportation/ferrari-bmw-join-tesla-china-switch-copper-cheaper-aluminium-2026-06-30/",
-      "summary": "<p>Article URL: <a href=\"https://www.reuters.com/business/autos-transportation/ferrari-bmw-join-tesla-china-switch-copper-cheaper-aluminium-2026-06-30/\">https://www.reuters.com/business/autos-transpor...",
-      "published": "2026-07-01T03:31:11+00:00",
-      "domain": "reuters.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Supersonic flight returning to US after half-century ban",
-      "link": "https://www.forbes.com/sites/suzannerowankelleher/2026/06/30/faa-supersonic-flight-no-boom/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48741654\">Comments</a>...",
-      "published": "2026-07-01T02:26:22+00:00",
-      "domain": "forbes.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
-      "link": "https://twitter.com/AnthropicAI/status/2072106151890809341",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48740771\">Comments</a>...",
-      "published": "2026-06-30T23:55:12+00:00",
-      "domain": "twitter.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Google copybara: moving code between repositories",
-      "link": "https://github.com/google/copybara",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48740698\">Comments</a>...",
-      "published": "2026-06-30T23:45:39+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Microsoft Warns Poisoned MCP Tool Descriptions Can Make AI Agents Leak Data",
-      "link": "https://thehackernews.com/2026/06/microsoft-warns-poisoned-mcp-tool.html",
-      "summary": "New Microsoft&nbsp;research&nbsp;shows how attackers can hijack AI agents that act on a user's behalf, using nothing more than a poisoned tool description to make the agent quietly hand over company d...",
-      "published": "2026-06-30T23:16:07+05:30",
+      "title": "Phantom Squatting Uses AI-Hallucinated Domains for Phishing and Malware",
+      "link": "https://thehackernews.com/2026/07/phantom-squatting-uses-ai-hallucinated.html",
+      "summary": "Large language models keep inventing web addresses that do not exist. Attackers have started buying those made-up domains before anyone else can, then hosting phishing pages on them to catch traffic t...",
+      "published": "2026-07-01T12:50:51+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -307,10 +181,140 @@
       }
     },
     {
-      "title": "RustDuck Botnet Rebuilds in Rust to Hijack Routers and Servers for DDoS",
-      "link": "https://thehackernews.com/2026/06/rustduck-botnet-rebuilds-in-rust-to.html",
-      "summary": "A new two-stage malware family called RustDuck is hijacking home routers, IP cameras, Android boxes, and poorly secured servers, then stitching them into a network built to knock websites and online s...",
-      "published": "2026-06-30T23:15:25+05:30",
+      "title": "Anthropic Restores Claude Fable 5 After U.S. Lifts Jailbreak-Linked Export Controls",
+      "link": "https://thehackernews.com/2026/07/anthropic-restores-claude-fable-5-after.html",
+      "summary": "Anthropic is putting Claude Fable 5 back online worldwide. On&nbsp;June 30, the U.S. Commerce Department lifted the export controls it had imposed on Fable and its more tightly controlled sibling Myth...",
+      "published": "2026-07-01T12:16:17+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Azure CLI Password Spray Hits at Least 78 Microsoft Accounts in 81M+ Attempts",
+      "link": "https://thehackernews.com/2026/07/azure-cli-password-spray-hits-at-least.html",
+      "summary": "Cybersecurity researchers have warned of a \"massive, ongoing, automated password spray attack\" aimed at Microsoft's Azure command-line interface (CLI), compromising dozens of accounts in the process.\n...",
+      "published": "2026-07-01T11:16:03+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Researcher Analyzes 3,000 Live ClickFix Payloads, Exposing API-Driven Malware Delivery",
+      "link": "https://thehackernews.com/2026/07/researcher-analyzes-3000-live-clickfix.html",
+      "summary": "ClickFix, the trick that fools people into running malware by hand, has quietly grown a back office.\n\nNew research shows the malicious commands behind its fake \"prove you're human\" pages are now hande...",
+      "published": "2026-07-01T11:02:12+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Why averaging LLM benchmark scores is fundamentally broken",
+      "link": "https://arxiv.org/abs/2605.11205",
+      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2605.11205\">https://arxiv.org/abs/2605.11205</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48744350\">https://news.ycombinator.co...",
+      "published": "2026-07-01T09:40:20+00:00",
+      "domain": "arxiv.org",
+      "scores": {
+        "chaos": 14.4,
+        "anarchy": 3.0,
+        "overall": 8.7
+      },
+      "keywords": {
+        "chaos": [
+          "broken"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Perseverance Finds Complex Organic Matter on Mars",
+      "link": "https://www.sci.news/space/perseverance-complex-organic-matter-mars-14882.html",
+      "summary": "<p>Article URL: <a href=\"https://www.sci.news/space/perseverance-complex-organic-matter-mars-14882.html\">https://www.sci.news/space/perseverance-complex-organic-matter-mars-14882.html</a></p>\n<p>Comme...",
+      "published": "2026-07-01T09:39:47+00:00",
+      "domain": "sci.news",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Ditching Claude for OpenCode and OpenRouter",
+      "link": "https://www.ianwootten.co.uk/2026/07/01/ditching-claude-for-opencode-and-openrouter/",
+      "summary": "<p>Article URL: <a href=\"https://www.ianwootten.co.uk/2026/07/01/ditching-claude-for-opencode-and-openrouter/\">https://www.ianwootten.co.uk/2026/07/01/ditching-claude-for-opencode-and-openrouter/</a><...",
+      "published": "2026-07-01T09:39:22+00:00",
+      "domain": "ianwootten.co.uk",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Bol.ai \u2013 Extract structured data from Bills of Lading",
+      "link": "https://bol.ai/",
+      "summary": "<p>Article URL: <a href=\"https://bol.ai/\">https://bol.ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48744342\">https://news.ycombinator.com/item?id=48744342</a></p>\n<p>Poin...",
+      "published": "2026-07-01T09:39:18+00:00",
+      "domain": "bol.ai",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Pokayoke \u2013 turn repo conventions into deterministic checks for agents",
+      "link": "https://pokayoke.codes",
+      "summary": "<p>Hey HN. Pokayoke is a tool I've been working on to scratch my own itch when it comes to solidifying arbitrary rules and conventions -- which modern linting and formatting toolchains might not suppo...",
+      "published": "2026-07-01T09:36:39+00:00",
+      "domain": "pokayoke.codes",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Citrix Patches Six NetScaler Flaws Allowing File Read and Denial-of-Service",
+      "link": "https://thehackernews.com/2026/07/citrix-patches-six-netscaler-flaws.html",
+      "summary": "Citrix on Tuesday released security updates to address multiple flaws in NetScaler ADC (formerly Citrix ADC) and NetScaler Gateway (formerly Citrix Gateway) that could be exploited by an attacker to f...",
+      "published": "2026-07-01T09:24:22+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -325,138 +329,28 @@
   ],
   "overall_ranked": [
     {
-      "title": "CertAlloc\u2013An O(1) memory allocator formally verified -TLA+ and CBMC",
-      "link": "https://github.com/thedevilhimselfcodes/CertAlloc",
-      "summary": "<p>Article URL: <a href=\"https://github.com/thedevilhimselfcodes/CertAlloc\">https://github.com/thedevilhimselfcodes/CertAlloc</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=487...",
-      "published": "2026-07-01T03:36:29+00:00",
-      "domain": "github.com",
+      "title": "Why averaging LLM benchmark scores is fundamentally broken",
+      "link": "https://arxiv.org/abs/2605.11205",
+      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2605.11205\">https://arxiv.org/abs/2605.11205</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48744350\">https://news.ycombinator.co...",
+      "published": "2026-07-01T09:40:20+00:00",
+      "domain": "arxiv.org",
       "scores": {
-        "chaos": 3.0,
+        "chaos": 14.4,
         "anarchy": 3.0,
-        "overall": 3.0
+        "overall": 8.7
       },
       "keywords": {
-        "chaos": [],
+        "chaos": [
+          "broken"
+        ],
         "anarchy": []
       }
     },
     {
-      "title": "Found a great blog on Advance Threat Intel",
-      "link": "https://news.ycombinator.com/item?id=48741944",
-      "summary": "<p>Just came across a great Medium article that shows how to automate the entire process of discovering newly added CISA KEV vulnerabilities and generating Sigma detection rules using AI.<p>Instead of...",
-      "published": "2026-07-01T03:35:02+00:00",
-      "domain": "news.ycombinator.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "America can switch off AI. Europe must switch gears before it's too late",
-      "link": "https://www.euronews.com/my-europe/2026/06/30/america-can-switch-off-the-worlds-ai-europe-must-switch-gears-before-its-too-late",
-      "summary": "<p>Article URL: <a href=\"https://www.euronews.com/my-europe/2026/06/30/america-can-switch-off-the-worlds-ai-europe-must-switch-gears-before-its-too-late\">https://www.euronews.com/my-europe/2026/06/30/...",
-      "published": "2026-07-01T03:34:53+00:00",
-      "domain": "euronews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "1M Context: Making Long-Horizon Tasks Stable and Practical",
-      "link": "https://docs.z.ai/guides/llm/glm-5.2",
-      "summary": "<p>Article URL: <a href=\"https://docs.z.ai/guides/llm/glm-5.2\">https://docs.z.ai/guides/llm/glm-5.2</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48741933\">https://news.ycombi...",
-      "published": "2026-07-01T03:32:30+00:00",
-      "domain": "docs.z.ai",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Ferrari and BMW join Tesla, China in switch from copper to cheaper aluminium",
-      "link": "https://www.reuters.com/business/autos-transportation/ferrari-bmw-join-tesla-china-switch-copper-cheaper-aluminium-2026-06-30/",
-      "summary": "<p>Article URL: <a href=\"https://www.reuters.com/business/autos-transportation/ferrari-bmw-join-tesla-china-switch-copper-cheaper-aluminium-2026-06-30/\">https://www.reuters.com/business/autos-transpor...",
-      "published": "2026-07-01T03:31:11+00:00",
-      "domain": "reuters.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Supersonic flight returning to US after half-century ban",
-      "link": "https://www.forbes.com/sites/suzannerowankelleher/2026/06/30/faa-supersonic-flight-no-boom/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48741654\">Comments</a>...",
-      "published": "2026-07-01T02:26:22+00:00",
-      "domain": "forbes.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
-      "link": "https://twitter.com/AnthropicAI/status/2072106151890809341",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48740771\">Comments</a>...",
-      "published": "2026-06-30T23:55:12+00:00",
-      "domain": "twitter.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Google copybara: moving code between repositories",
-      "link": "https://github.com/google/copybara",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48740698\">Comments</a>...",
-      "published": "2026-06-30T23:45:39+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Microsoft Warns Poisoned MCP Tool Descriptions Can Make AI Agents Leak Data",
-      "link": "https://thehackernews.com/2026/06/microsoft-warns-poisoned-mcp-tool.html",
-      "summary": "New Microsoft&nbsp;research&nbsp;shows how attackers can hijack AI agents that act on a user's behalf, using nothing more than a poisoned tool description to make the agent quietly hand over company d...",
-      "published": "2026-06-30T23:16:07+05:30",
+      "title": "Phantom Squatting Uses AI-Hallucinated Domains for Phishing and Malware",
+      "link": "https://thehackernews.com/2026/07/phantom-squatting-uses-ai-hallucinated.html",
+      "summary": "Large language models keep inventing web addresses that do not exist. Attackers have started buying those made-up domains before anyone else can, then hosting phishing pages on them to catch traffic t...",
+      "published": "2026-07-01T12:50:51+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -469,10 +363,122 @@
       }
     },
     {
-      "title": "RustDuck Botnet Rebuilds in Rust to Hijack Routers and Servers for DDoS",
-      "link": "https://thehackernews.com/2026/06/rustduck-botnet-rebuilds-in-rust-to.html",
-      "summary": "A new two-stage malware family called RustDuck is hijacking home routers, IP cameras, Android boxes, and poorly secured servers, then stitching them into a network built to knock websites and online s...",
-      "published": "2026-06-30T23:15:25+05:30",
+      "title": "Anthropic Restores Claude Fable 5 After U.S. Lifts Jailbreak-Linked Export Controls",
+      "link": "https://thehackernews.com/2026/07/anthropic-restores-claude-fable-5-after.html",
+      "summary": "Anthropic is putting Claude Fable 5 back online worldwide. On&nbsp;June 30, the U.S. Commerce Department lifted the export controls it had imposed on Fable and its more tightly controlled sibling Myth...",
+      "published": "2026-07-01T12:16:17+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Azure CLI Password Spray Hits at Least 78 Microsoft Accounts in 81M+ Attempts",
+      "link": "https://thehackernews.com/2026/07/azure-cli-password-spray-hits-at-least.html",
+      "summary": "Cybersecurity researchers have warned of a \"massive, ongoing, automated password spray attack\" aimed at Microsoft's Azure command-line interface (CLI), compromising dozens of accounts in the process.\n...",
+      "published": "2026-07-01T11:16:03+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Researcher Analyzes 3,000 Live ClickFix Payloads, Exposing API-Driven Malware Delivery",
+      "link": "https://thehackernews.com/2026/07/researcher-analyzes-3000-live-clickfix.html",
+      "summary": "ClickFix, the trick that fools people into running malware by hand, has quietly grown a back office.\n\nNew research shows the malicious commands behind its fake \"prove you're human\" pages are now hande...",
+      "published": "2026-07-01T11:02:12+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Perseverance Finds Complex Organic Matter on Mars",
+      "link": "https://www.sci.news/space/perseverance-complex-organic-matter-mars-14882.html",
+      "summary": "<p>Article URL: <a href=\"https://www.sci.news/space/perseverance-complex-organic-matter-mars-14882.html\">https://www.sci.news/space/perseverance-complex-organic-matter-mars-14882.html</a></p>\n<p>Comme...",
+      "published": "2026-07-01T09:39:47+00:00",
+      "domain": "sci.news",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Ditching Claude for OpenCode and OpenRouter",
+      "link": "https://www.ianwootten.co.uk/2026/07/01/ditching-claude-for-opencode-and-openrouter/",
+      "summary": "<p>Article URL: <a href=\"https://www.ianwootten.co.uk/2026/07/01/ditching-claude-for-opencode-and-openrouter/\">https://www.ianwootten.co.uk/2026/07/01/ditching-claude-for-opencode-and-openrouter/</a><...",
+      "published": "2026-07-01T09:39:22+00:00",
+      "domain": "ianwootten.co.uk",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Bol.ai \u2013 Extract structured data from Bills of Lading",
+      "link": "https://bol.ai/",
+      "summary": "<p>Article URL: <a href=\"https://bol.ai/\">https://bol.ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48744342\">https://news.ycombinator.com/item?id=48744342</a></p>\n<p>Poin...",
+      "published": "2026-07-01T09:39:18+00:00",
+      "domain": "bol.ai",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Pokayoke \u2013 turn repo conventions into deterministic checks for agents",
+      "link": "https://pokayoke.codes",
+      "summary": "<p>Hey HN. Pokayoke is a tool I've been working on to scratch my own itch when it comes to solidifying arbitrary rules and conventions -- which modern linting and formatting toolchains might not suppo...",
+      "published": "2026-07-01T09:36:39+00:00",
+      "domain": "pokayoke.codes",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Citrix Patches Six NetScaler Flaws Allowing File Read and Denial-of-Service",
+      "link": "https://thehackernews.com/2026/07/citrix-patches-six-netscaler-flaws.html",
+      "summary": "Citrix on Tuesday released security updates to address multiple flaws in NetScaler ADC (formerly Citrix ADC) and NetScaler Gateway (formerly Citrix Gateway) that could be exploited by an attacker to f...",
+      "published": "2026-07-01T09:24:22+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -487,138 +493,10 @@
   ],
   "all_articles": [
     {
-      "title": "CertAlloc\u2013An O(1) memory allocator formally verified -TLA+ and CBMC",
-      "link": "https://github.com/thedevilhimselfcodes/CertAlloc",
-      "summary": "<p>Article URL: <a href=\"https://github.com/thedevilhimselfcodes/CertAlloc\">https://github.com/thedevilhimselfcodes/CertAlloc</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=487...",
-      "published": "2026-07-01T03:36:29+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Found a great blog on Advance Threat Intel",
-      "link": "https://news.ycombinator.com/item?id=48741944",
-      "summary": "<p>Just came across a great Medium article that shows how to automate the entire process of discovering newly added CISA KEV vulnerabilities and generating Sigma detection rules using AI.<p>Instead of...",
-      "published": "2026-07-01T03:35:02+00:00",
-      "domain": "news.ycombinator.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "America can switch off AI. Europe must switch gears before it's too late",
-      "link": "https://www.euronews.com/my-europe/2026/06/30/america-can-switch-off-the-worlds-ai-europe-must-switch-gears-before-its-too-late",
-      "summary": "<p>Article URL: <a href=\"https://www.euronews.com/my-europe/2026/06/30/america-can-switch-off-the-worlds-ai-europe-must-switch-gears-before-its-too-late\">https://www.euronews.com/my-europe/2026/06/30/...",
-      "published": "2026-07-01T03:34:53+00:00",
-      "domain": "euronews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "1M Context: Making Long-Horizon Tasks Stable and Practical",
-      "link": "https://docs.z.ai/guides/llm/glm-5.2",
-      "summary": "<p>Article URL: <a href=\"https://docs.z.ai/guides/llm/glm-5.2\">https://docs.z.ai/guides/llm/glm-5.2</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48741933\">https://news.ycombi...",
-      "published": "2026-07-01T03:32:30+00:00",
-      "domain": "docs.z.ai",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Ferrari and BMW join Tesla, China in switch from copper to cheaper aluminium",
-      "link": "https://www.reuters.com/business/autos-transportation/ferrari-bmw-join-tesla-china-switch-copper-cheaper-aluminium-2026-06-30/",
-      "summary": "<p>Article URL: <a href=\"https://www.reuters.com/business/autos-transportation/ferrari-bmw-join-tesla-china-switch-copper-cheaper-aluminium-2026-06-30/\">https://www.reuters.com/business/autos-transpor...",
-      "published": "2026-07-01T03:31:11+00:00",
-      "domain": "reuters.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Supersonic flight returning to US after half-century ban",
-      "link": "https://www.forbes.com/sites/suzannerowankelleher/2026/06/30/faa-supersonic-flight-no-boom/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48741654\">Comments</a>...",
-      "published": "2026-07-01T02:26:22+00:00",
-      "domain": "forbes.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
-      "link": "https://twitter.com/AnthropicAI/status/2072106151890809341",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48740771\">Comments</a>...",
-      "published": "2026-06-30T23:55:12+00:00",
-      "domain": "twitter.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Google copybara: moving code between repositories",
-      "link": "https://github.com/google/copybara",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48740698\">Comments</a>...",
-      "published": "2026-06-30T23:45:39+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Microsoft Warns Poisoned MCP Tool Descriptions Can Make AI Agents Leak Data",
-      "link": "https://thehackernews.com/2026/06/microsoft-warns-poisoned-mcp-tool.html",
-      "summary": "New Microsoft&nbsp;research&nbsp;shows how attackers can hijack AI agents that act on a user's behalf, using nothing more than a poisoned tool description to make the agent quietly hand over company d...",
-      "published": "2026-06-30T23:16:07+05:30",
+      "title": "Phantom Squatting Uses AI-Hallucinated Domains for Phishing and Malware",
+      "link": "https://thehackernews.com/2026/07/phantom-squatting-uses-ai-hallucinated.html",
+      "summary": "Large language models keep inventing web addresses that do not exist. Attackers have started buying those made-up domains before anyone else can, then hosting phishing pages on them to catch traffic t...",
+      "published": "2026-07-01T12:50:51+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -631,10 +509,140 @@
       }
     },
     {
-      "title": "RustDuck Botnet Rebuilds in Rust to Hijack Routers and Servers for DDoS",
-      "link": "https://thehackernews.com/2026/06/rustduck-botnet-rebuilds-in-rust-to.html",
-      "summary": "A new two-stage malware family called RustDuck is hijacking home routers, IP cameras, Android boxes, and poorly secured servers, then stitching them into a network built to knock websites and online s...",
-      "published": "2026-06-30T23:15:25+05:30",
+      "title": "Anthropic Restores Claude Fable 5 After U.S. Lifts Jailbreak-Linked Export Controls",
+      "link": "https://thehackernews.com/2026/07/anthropic-restores-claude-fable-5-after.html",
+      "summary": "Anthropic is putting Claude Fable 5 back online worldwide. On&nbsp;June 30, the U.S. Commerce Department lifted the export controls it had imposed on Fable and its more tightly controlled sibling Myth...",
+      "published": "2026-07-01T12:16:17+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Azure CLI Password Spray Hits at Least 78 Microsoft Accounts in 81M+ Attempts",
+      "link": "https://thehackernews.com/2026/07/azure-cli-password-spray-hits-at-least.html",
+      "summary": "Cybersecurity researchers have warned of a \"massive, ongoing, automated password spray attack\" aimed at Microsoft's Azure command-line interface (CLI), compromising dozens of accounts in the process.\n...",
+      "published": "2026-07-01T11:16:03+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Researcher Analyzes 3,000 Live ClickFix Payloads, Exposing API-Driven Malware Delivery",
+      "link": "https://thehackernews.com/2026/07/researcher-analyzes-3000-live-clickfix.html",
+      "summary": "ClickFix, the trick that fools people into running malware by hand, has quietly grown a back office.\n\nNew research shows the malicious commands behind its fake \"prove you're human\" pages are now hande...",
+      "published": "2026-07-01T11:02:12+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Why averaging LLM benchmark scores is fundamentally broken",
+      "link": "https://arxiv.org/abs/2605.11205",
+      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2605.11205\">https://arxiv.org/abs/2605.11205</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48744350\">https://news.ycombinator.co...",
+      "published": "2026-07-01T09:40:20+00:00",
+      "domain": "arxiv.org",
+      "scores": {
+        "chaos": 14.4,
+        "anarchy": 3.0,
+        "overall": 8.7
+      },
+      "keywords": {
+        "chaos": [
+          "broken"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Perseverance Finds Complex Organic Matter on Mars",
+      "link": "https://www.sci.news/space/perseverance-complex-organic-matter-mars-14882.html",
+      "summary": "<p>Article URL: <a href=\"https://www.sci.news/space/perseverance-complex-organic-matter-mars-14882.html\">https://www.sci.news/space/perseverance-complex-organic-matter-mars-14882.html</a></p>\n<p>Comme...",
+      "published": "2026-07-01T09:39:47+00:00",
+      "domain": "sci.news",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Ditching Claude for OpenCode and OpenRouter",
+      "link": "https://www.ianwootten.co.uk/2026/07/01/ditching-claude-for-opencode-and-openrouter/",
+      "summary": "<p>Article URL: <a href=\"https://www.ianwootten.co.uk/2026/07/01/ditching-claude-for-opencode-and-openrouter/\">https://www.ianwootten.co.uk/2026/07/01/ditching-claude-for-opencode-and-openrouter/</a><...",
+      "published": "2026-07-01T09:39:22+00:00",
+      "domain": "ianwootten.co.uk",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Bol.ai \u2013 Extract structured data from Bills of Lading",
+      "link": "https://bol.ai/",
+      "summary": "<p>Article URL: <a href=\"https://bol.ai/\">https://bol.ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48744342\">https://news.ycombinator.com/item?id=48744342</a></p>\n<p>Poin...",
+      "published": "2026-07-01T09:39:18+00:00",
+      "domain": "bol.ai",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Pokayoke \u2013 turn repo conventions into deterministic checks for agents",
+      "link": "https://pokayoke.codes",
+      "summary": "<p>Hey HN. Pokayoke is a tool I've been working on to scratch my own itch when it comes to solidifying arbitrary rules and conventions -- which modern linting and formatting toolchains might not suppo...",
+      "published": "2026-07-01T09:36:39+00:00",
+      "domain": "pokayoke.codes",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Citrix Patches Six NetScaler Flaws Allowing File Read and Denial-of-Service",
+      "link": "https://thehackernews.com/2026/07/citrix-patches-six-netscaler-flaws.html",
+      "summary": "Citrix on Tuesday released security updates to address multiple flaws in NetScaler ADC (formerly Citrix ADC) and NetScaler Gateway (formerly Citrix Gateway) that could be exploited by an attacker to f...",
+      "published": "2026-07-01T09:24:22+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
