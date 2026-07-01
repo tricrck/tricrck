@@ -16,15 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Microsoft Warns Poisoned MCP Tool Descriptions Can Make AI Agents Leak Data
-- **Published**: June 30, 2026
-- **Summary**: New Microsoft&nbsp;research&nbsp;shows how attackers can hijack AI agents that act on a user's behalf, using nothing more than a poisoned tool descrip...
-- [Read more](https://thehackernews.com/2026/06/microsoft-warns-poisoned-mcp-tool.html)
+### CertAlloc–An O(1) memory allocator formally verified -TLA+ and CBMC
+- **Published**: July 01, 2026
+- **Summary**: https://github.com/thedevilhimselfcodes/CertAlloc</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=487......
+- [Read more](https://github.com/thedevilhimselfcodes/CertAlloc)
 
-### RustDuck Botnet Rebuilds in Rust to Hijack Routers and Servers for DDoS
-- **Published**: June 30, 2026
-- **Summary**: A new two-stage malware family called RustDuck is hijacking home routers, IP cameras, Android boxes, and poorly secured servers, then stitching them i...
-- [Read more](https://thehackernews.com/2026/06/rustduck-botnet-rebuilds-in-rust-to.html)
+### Found a great blog on Advance Threat Intel
+- **Published**: July 01, 2026
+- **Summary**: <p>Just came across a great Medium article that shows how to automate the entire process of discovering newly added CISA KEV vulnerabilities and gener...
+- [Read more](https://news.ycombinator.com/item?id=48741944)
 
 ---
 
