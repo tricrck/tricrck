@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Core dump epidemiology: fixing an 18-year-old bug
-- **Published**: July 01, 2026
-- **Summary**: https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug/</a></p>
-<p>Comments URL: <a ......
-- **Keywords**: bug, bug, bug
-- [Read more](https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug/)
-
-### Unpatched Argo CD Repo-Server Flaw Could Let Attackers Take Over Kubernetes Clusters
+### Weird Al Yankovic Turned Down “Nice Pile Of Money” For AI Ad: “I Can’t Be The Poster Boy For AI”
 - **Published**: July 02, 2026
-- **Summary**: Argo CD, a widely used tool for deploying software to Kubernetes, has an unpatched flaw in its repo-server component that lets an unauthenticated atta...
-- [Read more](https://thehackernews.com/2026/07/unpatched-argo-cd-repo-server-flaw.html)
+- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1ul5012/weird_al_yankovic_turned_down_nice_pile_of_money/"> <img alt="Weird Al Yankovic Tur...
+- **Keywords**: down, down
+- [Read more](https://www.reddit.com/r/technology/comments/1ul5012/weird_al_yankovic_turned_down_nice_pile_of_money/)
+
+### UK-US trade deal will lead to more than 200k avoidable deaths
+- **Published**: July 02, 2026
+- **Summary**: https://www.theguardian.com/society/2026/jul......
+- [Read more](https://www.theguardian.com/society/2026/jul/01/us-uk-drug-deal-could-result-in-229000-excess-deaths-in-england-analysis-suggests)
 
 ---
 
