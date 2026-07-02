@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Weird Al Yankovic Turned Down “Nice Pile Of Money” For AI Ad: “I Can’t Be The Poster Boy For AI”
+### New ChocoPoC RAT Targets Vulnerability Researchers via Fake PoC Exploit Repos
 - **Published**: July 02, 2026
-- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1ul5012/weird_al_yankovic_turned_down_nice_pile_of_money/"> <img alt="Weird Al Yankovic Tur...
-- **Keywords**: down, down
-- [Read more](https://www.reddit.com/r/technology/comments/1ul5012/weird_al_yankovic_turned_down_nice_pile_of_money/)
+- **Summary**: Attackers are hiding a data-stealing trojan inside fake exploit code aimed at the people who hunt bugs for a living. The malware, called ChocoPoC, tra...
+- [Read more](https://thehackernews.com/2026/07/new-chocopoc-rat-targets-vulnerability.html)
 
-### UK-US trade deal will lead to more than 200k avoidable deaths
+### SharePoint RCE CVE-2026-45659 Added to CISA KEV After Active Exploitation
 - **Published**: July 02, 2026
-- **Summary**: https://www.theguardian.com/society/2026/jul......
-- [Read more](https://www.theguardian.com/society/2026/jul/01/us-uk-drug-deal-could-result-in-229000-excess-deaths-in-england-analysis-suggests)
+- **Summary**: The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a high-severity flaw impacting Microsoft SharePoint Server to its ...
+- [Read more](https://thehackernews.com/2026/07/sharepoint-rce-cve-2026-45659-added-to.html)
 
 ---
 
