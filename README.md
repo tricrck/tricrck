@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### New ChocoPoC RAT Targets Vulnerability Researchers via Fake PoC Exploit Repos
+### ToddyCat-Linked Umbrij Malware Abuses OAuth to Access Gmail via Google API
 - **Published**: July 02, 2026
-- **Summary**: Attackers are hiding a data-stealing trojan inside fake exploit code aimed at the people who hunt bugs for a living. The malware, called ChocoPoC, tra...
-- [Read more](https://thehackernews.com/2026/07/new-chocopoc-rat-targets-vulnerability.html)
+- **Summary**: The threat actor known as ToddyCat has been attributed to a new malware called Umbrij that's designed to gain surreptitious access to a victim's email...
+- [Read more](https://thehackernews.com/2026/07/toddycat-linked-umbrij-malware-abuses.html)
 
-### SharePoint RCE CVE-2026-45659 Added to CISA KEV After Active Exploitation
+### Identity Lifecycle Management Wasn't Built for AI Agents
 - **Published**: July 02, 2026
-- **Summary**: The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a high-severity flaw impacting Microsoft SharePoint Server to its ...
-- [Read more](https://thehackernews.com/2026/07/sharepoint-rce-cve-2026-45659-added-to.html)
+- **Summary**: Identity lifecycle management was architected around a person with an employment record, a manager, and a departure date. AI agents have none of those...
+- [Read more](https://thehackernews.com/2026/07/identity-lifecycle-management.html)
 
 ---
 
