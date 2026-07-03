@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Micro Instrumentation and Telemetry Systems
+### PamStealer Uses Fake Maccy Sites and PAM Checks to Steal Mac Login Passwords
 - **Published**: July 03, 2026
-- **Summary**: https://www.abortretry.fail/p/micro-instrumentation-and-telemetry</a></p>
-<p>Comments URL: <a href="https://......
-- [Read more](https://www.abortretry.fail/p/micro-instrumentation-and-telemetry)
+- **Summary**: Cybersecurity researchers have flagged a new macOS information stealer called PamStealer that employs a series of clever tricks to infect systems and ...
+- [Read more](https://thehackernews.com/2026/07/pamstealer-uses-fake-maccy-sites-and.html)
 
-### Ask HN: Looking for work, donations, friendship, or advisors
+### a11yShiny: Accessibility for R Shiny Apps
 - **Published**: July 03, 2026
-- **Summary**: ......
-- [Read more](https://cjohnson.io/history)
+- **Summary**: https://bmbf.usercontent.opencode.de/datenlabor/a11yshiny/inst/pages/a11yshiny_blog.h......
+- [Read more](https://bmbf.usercontent.opencode.de/datenlabor/a11yshiny/inst/pages/a11yshiny_blog.html)
 
 ---
 
