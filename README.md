@@ -16,18 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### ThreatsDay: AI Compute Hijacking, Apple Email Flaw, BlueHammer Ransomware + 14 Stories
-- **Published**: July 02, 2026
-- **Summary**: This week’s security news is mostly about weak spots.
+### Micro Instrumentation and Telemetry Systems
+- **Published**: July 03, 2026
+- **Summary**: https://www.abortretry.fail/p/micro-instrumentation-and-telemetry</a></p>
+<p>Comments URL: <a href="https://......
+- [Read more](https://www.abortretry.fail/p/micro-instrumentation-and-telemetry)
 
-Browsers, bots, sandboxes, AI systems, and email flows all show the same problem in different w...
-- [Read more](https://thehackernews.com/2026/07/threatsday-ai-compute-hijacking-apple.html)
-
-### Agents as Webs of Beliefs
-- **Published**: July 02, 2026
-- **Summary**: https://www.lesswrong.com/posts/M39Z2CvyfaxZdaxR4/agents-as-webs-of-beliefs</a></p>
-<p>Comments UR......
-- [Read more](https://www.lesswrong.com/posts/M39Z2CvyfaxZdaxR4/agents-as-webs-of-beliefs)
+### Ask HN: Looking for work, donations, friendship, or advisors
+- **Published**: July 03, 2026
+- **Summary**: ......
+- [Read more](https://cjohnson.io/history)
 
 ---
 
