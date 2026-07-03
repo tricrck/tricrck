@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Armored Likho Targets Government Agencies, Power Sector with BusySnake Stealer
-- **Published**: July 03, 2026
-- **Summary**: A previously undocumented threat actor known as Armored Likho has been attributed to cyber attacks targeting government agencies and the electric powe...
-- [Read more](https://thehackernews.com/2026/07/armored-likho-targets-government.html)
+### New Avalon Malware Framework Packs CrownX Ransomware Capabilities
+- **Published**: July 04, 2026
+- **Summary**: Cybersecurity researchers have discovered a previously undocumented modular malware framework codenamed Avalon that's distributed by means of a multi-...
+- [Read more](https://thehackernews.com/2026/07/new-avalon-malware-framework-packs.html)
 
-### European Parliament Member Investigating Spyware Was Hacked With Pegasus
+### North Korea-Linked npm Packages Mimic Rollup Polyfills to Steal Developer Secrets
 - **Published**: July 03, 2026
-- **Summary**: A new report from the Citizen Lab has revealed that former Member of the European Parliament Stelios Kouloglou had his mobile device repeatedly hacked...
-- [Read more](https://thehackernews.com/2026/07/european-parliament-member.html)
+- **Summary**: Threat actors with ties to North Korea have been linked to a fresh set of malicious npm packages that masquerade as Rollup polyfill tooling to facilit...
+- [Read more](https://thehackernews.com/2026/07/north-korea-linked-npm-packages-mimic.html)
 
 ---
 
