@@ -16,15 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### New Avalon Malware Framework Packs CrownX Ransomware Capabilities
+### Cholibrium Reviews 2026 – Does This Mushroom Blend Work
 - **Published**: July 04, 2026
-- **Summary**: Cybersecurity researchers have discovered a previously undocumented modular malware framework codenamed Avalon that's distributed by means of a multi-...
-- [Read more](https://thehackernews.com/2026/07/new-avalon-malware-framework-packs.html)
+- **Summary**: https://gamma.app/embed/Cholibrium-Reviews-2026-Does-This-Mushroom-Blen......
+- [Read more](https://gamma.app/embed/Cholibrium-Reviews-2026-Does-This-Mushroom-Blend-Work-7rsn8kmry09nfdi?mode=doc)
 
-### North Korea-Linked npm Packages Mimic Rollup Polyfills to Steal Developer Secrets
-- **Published**: July 03, 2026
-- **Summary**: Threat actors with ties to North Korea have been linked to a fresh set of malicious npm packages that masquerade as Rollup polyfill tooling to facilit...
-- [Read more](https://thehackernews.com/2026/07/north-korea-linked-npm-packages-mimic.html)
+### BrickSlider – TypeScript-first, Tailwind-first carousel
+- **Published**: July 04, 2026
+- **Summary**: https://sixsrc.github.io/brickslider/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48782254">https://news.ycom......
+- [Read more](https://sixsrc.github.io/brickslider/)
 
 ---
 
