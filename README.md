@@ -16,15 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### North Korean Hackers Publish 108 Malicious Packages and Extensions in PolinRider Campaign
+### US Air Force Engineer Charged With Sawing Down Flock Surveillance Cameras Receives Thousands of Dollars from Supporters Across the Country
 - **Published**: July 04, 2026
-- **Summary**: The North Korean threat actors linked to the Contagious Interview campaign have been observed publishing 108 unique packages and web browser extension...
-- [Read more](https://thehackernews.com/2026/07/north-korean-hackers-publish-108.html)
+- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1une1cr/us_air_force_engineer_charged_with_sawing_down/"> <img alt="US Air Force Engineer C...
+- **Keywords**: down, down
+- [Read more](https://www.reddit.com/r/technology/comments/1une1cr/us_air_force_engineer_charged_with_sawing_down/)
 
-### Intelligence Agencies, a Fight over Building a Master List of Spies
+### Anthropic wants to develop its own drugs
 - **Published**: July 04, 2026
-- **Summary**: https://www.nytimes.com/2026/06/29/us/trump-intelligence-agencies-spies-master-list.h......
-- [Read more](https://www.nytimes.com/2026/06/29/us/trump-intelligence-agencies-spies-master-list.html)
+- **Summary**: https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-c......
+- [Read more](https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development)
 
 ---
 
