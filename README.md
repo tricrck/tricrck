@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Cholibrium Reviews 2026 – Does This Mushroom Blend Work
+### Remote work didn't kill collaboration. Invisible teammates did
 - **Published**: July 04, 2026
-- **Summary**: https://gamma.app/embed/Cholibrium-Reviews-2026-Does-This-Mushroom-Blen......
-- [Read more](https://gamma.app/embed/Cholibrium-Reviews-2026-Does-This-Mushroom-Blend-Work-7rsn8kmry09nfdi?mode=doc)
+- **Summary**: https://www.indiehackers.com/post/remote-work-didnt-kill-c......
+- [Read more](https://www.indiehackers.com/post/remote-work-didnt-kill-collaboration-invisible-teammates-did-JUDLzTHH3vggaNNKAEce)
 
-### BrickSlider – TypeScript-first, Tailwind-first carousel
+### DeepSeek drops another breakthrough [video]
 - **Published**: July 04, 2026
-- **Summary**: https://sixsrc.github.io/brickslider/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48782254">https://news.ycom......
-- [Read more](https://sixsrc.github.io/brickslider/)
+- **Summary**: https://www.youtube.com/watch?v=J0D7qV3nl7w</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48783685">https......
+- [Read more](https://www.youtube.com/watch?v=J0D7qV3nl7w)
 
 ---
 
