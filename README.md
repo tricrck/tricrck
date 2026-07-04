@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Remote work didn't kill collaboration. Invisible teammates did
+### North Korean Hackers Publish 108 Malicious Packages and Extensions in PolinRider Campaign
 - **Published**: July 04, 2026
-- **Summary**: https://www.indiehackers.com/post/remote-work-didnt-kill-c......
-- [Read more](https://www.indiehackers.com/post/remote-work-didnt-kill-collaboration-invisible-teammates-did-JUDLzTHH3vggaNNKAEce)
+- **Summary**: The North Korean threat actors linked to the Contagious Interview campaign have been observed publishing 108 unique packages and web browser extension...
+- [Read more](https://thehackernews.com/2026/07/north-korean-hackers-publish-108.html)
 
-### DeepSeek drops another breakthrough [video]
+### Intelligence Agencies, a Fight over Building a Master List of Spies
 - **Published**: July 04, 2026
-- **Summary**: https://www.youtube.com/watch?v=J0D7qV3nl7w</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48783685">https......
-- [Read more](https://www.youtube.com/watch?v=J0D7qV3nl7w)
+- **Summary**: https://www.nytimes.com/2026/06/29/us/trump-intelligence-agencies-spies-master-list.h......
+- [Read more](https://www.nytimes.com/2026/06/29/us/trump-intelligence-agencies-spies-master-list.html)
 
 ---
 
