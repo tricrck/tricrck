@@ -16,16 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### US Air Force Engineer Charged With Sawing Down Flock Surveillance Cameras Receives Thousands of Dollars from Supporters Across the Country
-- **Published**: July 04, 2026
-- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1une1cr/us_air_force_engineer_charged_with_sawing_down/"> <img alt="US Air Force Engineer C...
-- **Keywords**: down, down
-- [Read more](https://www.reddit.com/r/technology/comments/1une1cr/us_air_force_engineer_charged_with_sawing_down/)
+### America Is More
+- **Published**: July 05, 2026
+- **Summary**: https://thelisowe.substack.com/p/america-is-more</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48790......
+- [Read more](https://thelisowe.substack.com/p/america-is-more)
 
-### Anthropic wants to develop its own drugs
-- **Published**: July 04, 2026
-- **Summary**: https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-c......
-- [Read more](https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development)
+### Android phones knew Venezuela earthquake was coming
+- **Published**: July 05, 2026
+- **Summary**: https://www.youtube.com/watch?v=Hi432PXwAZE</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48790998">https......
+- [Read more](https://www.youtube.com/watch?v=Hi432PXwAZE)
 
 ---
 
