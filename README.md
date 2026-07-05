@@ -16,16 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Creed: Canonical Markdown File
+### Tensorless – An exact thermodynamic execution sandbox in C++20
 - **Published**: July 05, 2026
-- **Summary**: https://creed.md/home</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48792388">https://news.ycombinator.com/item?id=48792388</...
-- [Read more](https://creed.md/home)
+- **Summary**: https://github.com/AperioGenix/Tensorless-Public</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48794......
+- [Read more](https://github.com/AperioGenix/Tensorless-Public)
 
-### Train SIM Created by Just One Person Is Being Called the Best Ever Made
+### Open-source prompt infrastructure toolkit
 - **Published**: July 05, 2026
-- **Summary**: https://kotaku.com/a-train-sim-created-by-just-one-person-is-being-cal......
-- [Read more](https://kotaku.com/a-train-sim-created-by-just-one-person-is-being-called-the-best-ever-made-2000699429)
+- **Summary**: https://px0.ai/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48794193">https://news.ycombinator.com/item?id=48794193</a></p>...
+- [Read more](https://px0.ai/)
 
 ---
 
