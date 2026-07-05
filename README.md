@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### America Is More
+### Creed: Canonical Markdown File
 - **Published**: July 05, 2026
-- **Summary**: https://thelisowe.substack.com/p/america-is-more</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48790......
-- [Read more](https://thelisowe.substack.com/p/america-is-more)
+- **Summary**: https://creed.md/home</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48792388">https://news.ycombinator.com/item?id=48792388</...
+- [Read more](https://creed.md/home)
 
-### Android phones knew Venezuela earthquake was coming
+### Train SIM Created by Just One Person Is Being Called the Best Ever Made
 - **Published**: July 05, 2026
-- **Summary**: https://www.youtube.com/watch?v=Hi432PXwAZE</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48790998">https......
-- [Read more](https://www.youtube.com/watch?v=Hi432PXwAZE)
+- **Summary**: https://kotaku.com/a-train-sim-created-by-just-one-person-is-being-cal......
+- [Read more](https://kotaku.com/a-train-sim-created-by-just-one-person-is-being-called-the-best-ever-made-2000699429)
 
 ---
 
