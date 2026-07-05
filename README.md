@@ -16,17 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Tensorless – An exact thermodynamic execution sandbox in C++20
+### Outgrowing the Chat Box
 - **Published**: July 05, 2026
-- **Summary**: https://github.com/AperioGenix/Tensorless-Public</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48794......
-- [Read more](https://github.com/AperioGenix/Tensorless-Public)
+- **Summary**: https://www.nnehdi.me/p/outgrowing-the-chat-box</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4879703......
+- [Read more](https://www.nnehdi.me/p/outgrowing-the-chat-box)
 
-### Open-source prompt infrastructure toolkit
+### Small Penis Rule
 - **Published**: July 05, 2026
-- **Summary**: https://px0.ai/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48794193">https://news.ycombinator.com/item?id=48794193</a></p>...
-- [Read more](https://px0.ai/)
+- **Summary**: https://en.wikipedia.org/wiki/Small_penis_rule</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48797015"......
+- [Read more](https://en.wikipedia.org/wiki/Small_penis_rule)
 
 ---
 
