@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### 4D-printing method creates lighter, faster-spinning wind turbine blades
+### New TrojPix Attack Leaks Data From Air-Gapped Systems via Video Cable Emissions
 - **Published**: July 06, 2026
-- **Summary**: https://www.concordia.ca/cunews/encs/......
-- [Read more](https://www.concordia.ca/cunews/encs/2026/07/02/research-new-4d-printing-method-creates-lighter-faster-spinning-wind-turbine-blades.html)
+- **Summary**: Researchers at&nbsp;Shandong University&nbsp;have shown a fast new way to pull data off computers that are cut off from every network. The technique, ...
+- [Read more](https://thehackernews.com/2026/07/new-trojpix-attack-leaks-data-from-air.html)
 
-### How AI Poisons Creativity [video]
+### New Java-Based QuimaRAT MaaS Built to Run on Windows, Linux, and macOS
 - **Published**: July 06, 2026
-- **Summary**: https://www.youtube.com/watch?v=WeCSzEtZcUw</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48800326">https......
-- [Read more](https://www.youtube.com/watch?v=WeCSzEtZcUw)
+- **Summary**: Cybersecurity researchers have flagged a novel Java-based remote access trojan (RAT) called QuimaRAT that's capable of targeting Windows, Linux, and m...
+- [Read more](https://thehackernews.com/2026/07/new-java-based-quimarat-maas-built-to.html)
 
 ---
 
