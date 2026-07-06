@@ -1,10 +1,44 @@
 {
   "chaos_ranked": [
     {
-      "title": "\u26a1 Weekly Recap: Proxy Botnets, Browser Ransomware, AI Agent Tricks, Fake PoC Malware and More",
-      "link": "https://thehackernews.com/2026/07/monday-recap-proxy-botnets-browser.html",
-      "summary": "A streaming box should not need a threat model. Neither should a username field, a demo repo, a reset flow, or a browser permission prompt. That is the irritating part this week: the risky pieces were...",
-      "published": "2026-07-06T18:31:14+05:30",
+      "title": "France to Stop Certifying Non-Quantum-Safe Encryption",
+      "link": "https://www.schneier.com/blog/archives/2026/07/france-to-stop-certifying-non-quantum-safe-encryption.html",
+      "summary": "<p>Article URL: <a href=\"https://www.schneier.com/blog/archives/2026/07/france-to-stop-certifying-non-quantum-safe-encryption.html\">https://www.schneier.com/blog/archives/2026/07/france-to-stop-certif...",
+      "published": "2026-07-06T19:47:20+00:00",
+      "domain": "schneier.com",
+      "scores": {
+        "chaos": 15.0,
+        "anarchy": 15.0,
+        "overall": 15.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "16-Year-Old Linux KVM Flaw Lets Guest VMs Escape to Host on Intel and AMD x86 Systems",
+      "link": "https://thehackernews.com/2026/07/16-year-old-linux-kvm-flaw-lets-guest.html",
+      "summary": "A use-after-free bug in Linux's KVM hypervisor can be triggered from a guest virtual machine to corrupt the shadow-page state of the host kernel that runs it.\n\nDubbed 'Januscape' and tracked as&nbsp;C...",
+      "published": "2026-07-06T23:07:01+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 9.2,
+        "anarchy": 3.0,
+        "overall": 6.1
+      },
+      "keywords": {
+        "chaos": [
+          "bug"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Iran-Linked Hackers Use New Cavern C2 Framework to Target Israeli Organizations",
+      "link": "https://thehackernews.com/2026/07/iran-linked-hackers-use-new-cavern-c2.html",
+      "summary": "An Iranian hacking group affiliated with Iran's Ministry of Intelligence and Security (MOIS) has been wielding a previously undocumented modular command-and-control (C2) framework dubbed Cavern (aka C...",
+      "published": "2026-07-07T00:04:26+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -17,10 +51,10 @@
       }
     },
     {
-      "title": "How to Evaluate an AI SOC Platform in 2026: 6 Capabilities That Separate Leaders from Bolt-On AI solutions",
-      "link": "https://thehackernews.com/2026/07/how-to-evaluate-ai-soc-platform-in-2026.html",
-      "summary": "Building a shortlist for an AI SOC evaluation can be tough. SIEM, SOAR, and pureplay AI SOC vendors are all saying the same thing. But behind the identical label sit very different products, from chat...",
-      "published": "2026-07-06T17:00:02+05:30",
+      "title": "Threat Actors Probe Gitea Docker Flaw CVE-2026-20896 13 Days After Disclosure",
+      "link": "https://thehackernews.com/2026/07/threat-actors-probe-gitea-docker-flaw.html",
+      "summary": "Threat actors have been observed attempting to exploit a recently patched critical security flaw in Gitea Docker images, according to Sysdig.\n\nThe vulnerability in question is CVE-2026-20896 (CVSS sco...",
+      "published": "2026-07-06T21:58:59+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -33,11 +67,11 @@
       }
     },
     {
-      "title": "Suspected China-Nexus Hackers Use Fake Indian Tax Filing Utility to Deploy DcRAT",
-      "link": "https://thehackernews.com/2026/07/suspected-china-nexus-hackers-use-fake.html",
-      "summary": "A suspected China-nexus threat activity cluster has been observed targeting Indian taxpayers, tax professionals, and corporate finance teams to deliver a remote access trojan designed to steal sensiti...",
-      "published": "2026-07-06T16:28:16+05:30",
-      "domain": "thehackernews.com",
+      "title": "Esolang: 2026 Topicality Proposal",
+      "link": "https://esolangs.org/wiki/Esolang:2026_topicality_proposal",
+      "summary": "<p>Article URL: <a href=\"https://esolangs.org/wiki/Esolang:2026_topicality_proposal\">https://esolangs.org/wiki/Esolang:2026_topicality_proposal</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinat...",
+      "published": "2026-07-06T19:52:37+00:00",
+      "domain": "esolangs.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -49,11 +83,11 @@
       }
     },
     {
-      "title": "Mullvad funding the far-right and the problem with tech company ownership",
-      "link": "https://www.kjz.im/mullvad-far-right/",
-      "summary": "<p>Article URL: <a href=\"https://www.kjz.im/mullvad-far-right/\">https://www.kjz.im/mullvad-far-right/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48805996\">https://news.ycom...",
-      "published": "2026-07-06T15:25:33+00:00",
-      "domain": "kjz.im",
+      "title": "Space JUNK Mysterious 'space balls' that washed up on Australian beach spark pro",
+      "link": "https://www.thesun.co.uk/news/39654579/mysterious-space-balls-australian-beach-toxic/",
+      "summary": "<p>Article URL: <a href=\"https://www.thesun.co.uk/news/39654579/mysterious-space-balls-australian-beach-toxic/\">https://www.thesun.co.uk/news/39654579/mysterious-space-balls-australian-beach-toxic/</a...",
+      "published": "2026-07-06T19:49:58+00:00",
+      "domain": "thesun.co.uk",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -65,11 +99,11 @@
       }
     },
     {
-      "title": "World Cup 2026 Elimination \"Food Chain\"",
-      "link": "https://rtnf.substack.com/p/world-cup-2026-elimination-food-chain",
-      "summary": "<p>Article URL: <a href=\"https://rtnf.substack.com/p/world-cup-2026-elimination-food-chain\">https://rtnf.substack.com/p/world-cup-2026-elimination-food-chain</a></p>\n<p>Comments URL: <a href=\"https://...",
-      "published": "2026-07-06T15:25:14+00:00",
-      "domain": "rtnf.substack.com",
+      "title": "Verbalizable Representations Form a Global Workspace in Language Models",
+      "link": "https://transformer-circuits.pub/2026/workspace/index.html",
+      "summary": "<p>Article URL: <a href=\"https://transformer-circuits.pub/2026/workspace/index.html\">https://transformer-circuits.pub/2026/workspace/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinat...",
+      "published": "2026-07-06T19:48:58+00:00",
+      "domain": "transformer-circuits.pub",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -81,11 +115,11 @@
       }
     },
     {
-      "title": "Tom Colicchio's Final Service",
-      "link": "https://www.esquire.com/preview/food-drink/restaurants/a71774153/tom-colicchio-craft-closing/",
-      "summary": "<p>Article URL: <a href=\"https://www.esquire.com/preview/food-drink/restaurants/a71774153/tom-colicchio-craft-closing/\">https://www.esquire.com/preview/food-drink/restaurants/a71774153/tom-colicchio-c...",
-      "published": "2026-07-06T15:25:11+00:00",
-      "domain": "esquire.com",
+      "title": "Hacking from the Backcountry",
+      "link": "https://suthakamal.substack.com/p/hacking-from-the-backcounty",
+      "summary": "<p>Article URL: <a href=\"https://suthakamal.substack.com/p/hacking-from-the-backcounty\">https://suthakamal.substack.com/p/hacking-from-the-backcounty</a></p>\n<p>Comments URL: <a href=\"https://news.yco...",
+      "published": "2026-07-06T19:47:48+00:00",
+      "domain": "suthakamal.substack.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -97,11 +131,11 @@
       }
     },
     {
-      "title": "Electric anti-aircraft interceptor drone breaks world air speed record at 434mph",
-      "link": "https://www.tomshardware.com/tech-industry/drones/electric-drone-breaks-world-air-speed-record-at-434-mph-designed-for-anti-aircraft-interceptor-roles-german-firm-convincingly-smashed-the-official-409-mph-record-hopes-to-get-stamp-of-approval-from-guinness-soon",
-      "summary": "<p>Article URL: <a href=\"https://www.tomshardware.com/tech-industry/drones/electric-drone-breaks-world-air-speed-record-at-434-mph-designed-for-anti-aircraft-interceptor-roles-german-firm-convincingly...",
-      "published": "2026-07-06T15:24:54+00:00",
-      "domain": "tomshardware.com",
+      "title": "Dev tells Valve to fix Steam's exploitable 2-hour refund policy as \"over 55,000\" players refund his short game and even brag about it in reviews",
+      "link": "https://www.reddit.com/r/technology/comments/1up68no/dev_tells_valve_to_fix_steams_exploitable_2hour/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1up68no/dev_tells_valve_to_fix_steams_exploitable_2hour/\"> <img alt=\"Dev tells Valve to fix Steam's exploitable 2-hour refund pol...",
+      "published": "2026-07-06T18:42:11+00:00",
+      "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -113,43 +147,11 @@
       }
     },
     {
-      "title": "CS2 Fog Of War: Server-sided anti-wallhack occlusion culling for CS2 servers",
-      "link": "https://github.com/karola3vax/CS2FOW",
-      "summary": "<p>Article URL: <a href=\"https://github.com/karola3vax/CS2FOW\">https://github.com/karola3vax/CS2FOW</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48805965\">https://news.ycombi...",
-      "published": "2026-07-06T15:23:34+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "AMD Ryzen AI Halo \u2013 $4k AI Dev Kit",
-      "link": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48805624\">Comments</a>...",
-      "published": "2026-07-06T15:01:18+00:00",
-      "domain": "lttlabs.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Emily Bender Sets the Record Straight on \"Stochastic Parrots\"",
-      "link": "https://spectrum.ieee.org/stochastic-parrot",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48805401\">Comments</a>...",
-      "published": "2026-07-06T14:45:31+00:00",
-      "domain": "spectrum.ieee.org",
+      "title": "Linux on the Atari Jaguar. No, really.",
+      "link": "https://cakehonolulu.github.io/linux-for-jaguar/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48808663\">Comments</a>...",
+      "published": "2026-07-06T18:35:54+00:00",
+      "domain": "cakehonolulu.github.io",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -163,10 +165,26 @@
   ],
   "anarchy_ranked": [
     {
-      "title": "\u26a1 Weekly Recap: Proxy Botnets, Browser Ransomware, AI Agent Tricks, Fake PoC Malware and More",
-      "link": "https://thehackernews.com/2026/07/monday-recap-proxy-botnets-browser.html",
-      "summary": "A streaming box should not need a threat model. Neither should a username field, a demo repo, a reset flow, or a browser permission prompt. That is the irritating part this week: the risky pieces were...",
-      "published": "2026-07-06T18:31:14+05:30",
+      "title": "France to Stop Certifying Non-Quantum-Safe Encryption",
+      "link": "https://www.schneier.com/blog/archives/2026/07/france-to-stop-certifying-non-quantum-safe-encryption.html",
+      "summary": "<p>Article URL: <a href=\"https://www.schneier.com/blog/archives/2026/07/france-to-stop-certifying-non-quantum-safe-encryption.html\">https://www.schneier.com/blog/archives/2026/07/france-to-stop-certif...",
+      "published": "2026-07-06T19:47:20+00:00",
+      "domain": "schneier.com",
+      "scores": {
+        "chaos": 15.0,
+        "anarchy": 15.0,
+        "overall": 15.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Iran-Linked Hackers Use New Cavern C2 Framework to Target Israeli Organizations",
+      "link": "https://thehackernews.com/2026/07/iran-linked-hackers-use-new-cavern-c2.html",
+      "summary": "An Iranian hacking group affiliated with Iran's Ministry of Intelligence and Security (MOIS) has been wielding a previously undocumented modular command-and-control (C2) framework dubbed Cavern (aka C...",
+      "published": "2026-07-07T00:04:26+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -179,10 +197,28 @@
       }
     },
     {
-      "title": "How to Evaluate an AI SOC Platform in 2026: 6 Capabilities That Separate Leaders from Bolt-On AI solutions",
-      "link": "https://thehackernews.com/2026/07/how-to-evaluate-ai-soc-platform-in-2026.html",
-      "summary": "Building a shortlist for an AI SOC evaluation can be tough. SIEM, SOAR, and pureplay AI SOC vendors are all saying the same thing. But behind the identical label sit very different products, from chat...",
-      "published": "2026-07-06T17:00:02+05:30",
+      "title": "16-Year-Old Linux KVM Flaw Lets Guest VMs Escape to Host on Intel and AMD x86 Systems",
+      "link": "https://thehackernews.com/2026/07/16-year-old-linux-kvm-flaw-lets-guest.html",
+      "summary": "A use-after-free bug in Linux's KVM hypervisor can be triggered from a guest virtual machine to corrupt the shadow-page state of the host kernel that runs it.\n\nDubbed 'Januscape' and tracked as&nbsp;C...",
+      "published": "2026-07-06T23:07:01+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 9.2,
+        "anarchy": 3.0,
+        "overall": 6.1
+      },
+      "keywords": {
+        "chaos": [
+          "bug"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Threat Actors Probe Gitea Docker Flaw CVE-2026-20896 13 Days After Disclosure",
+      "link": "https://thehackernews.com/2026/07/threat-actors-probe-gitea-docker-flaw.html",
+      "summary": "Threat actors have been observed attempting to exploit a recently patched critical security flaw in Gitea Docker images, according to Sysdig.\n\nThe vulnerability in question is CVE-2026-20896 (CVSS sco...",
+      "published": "2026-07-06T21:58:59+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -195,11 +231,11 @@
       }
     },
     {
-      "title": "Suspected China-Nexus Hackers Use Fake Indian Tax Filing Utility to Deploy DcRAT",
-      "link": "https://thehackernews.com/2026/07/suspected-china-nexus-hackers-use-fake.html",
-      "summary": "A suspected China-nexus threat activity cluster has been observed targeting Indian taxpayers, tax professionals, and corporate finance teams to deliver a remote access trojan designed to steal sensiti...",
-      "published": "2026-07-06T16:28:16+05:30",
-      "domain": "thehackernews.com",
+      "title": "Esolang: 2026 Topicality Proposal",
+      "link": "https://esolangs.org/wiki/Esolang:2026_topicality_proposal",
+      "summary": "<p>Article URL: <a href=\"https://esolangs.org/wiki/Esolang:2026_topicality_proposal\">https://esolangs.org/wiki/Esolang:2026_topicality_proposal</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinat...",
+      "published": "2026-07-06T19:52:37+00:00",
+      "domain": "esolangs.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -211,11 +247,11 @@
       }
     },
     {
-      "title": "Mullvad funding the far-right and the problem with tech company ownership",
-      "link": "https://www.kjz.im/mullvad-far-right/",
-      "summary": "<p>Article URL: <a href=\"https://www.kjz.im/mullvad-far-right/\">https://www.kjz.im/mullvad-far-right/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48805996\">https://news.ycom...",
-      "published": "2026-07-06T15:25:33+00:00",
-      "domain": "kjz.im",
+      "title": "Space JUNK Mysterious 'space balls' that washed up on Australian beach spark pro",
+      "link": "https://www.thesun.co.uk/news/39654579/mysterious-space-balls-australian-beach-toxic/",
+      "summary": "<p>Article URL: <a href=\"https://www.thesun.co.uk/news/39654579/mysterious-space-balls-australian-beach-toxic/\">https://www.thesun.co.uk/news/39654579/mysterious-space-balls-australian-beach-toxic/</a...",
+      "published": "2026-07-06T19:49:58+00:00",
+      "domain": "thesun.co.uk",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -227,11 +263,11 @@
       }
     },
     {
-      "title": "World Cup 2026 Elimination \"Food Chain\"",
-      "link": "https://rtnf.substack.com/p/world-cup-2026-elimination-food-chain",
-      "summary": "<p>Article URL: <a href=\"https://rtnf.substack.com/p/world-cup-2026-elimination-food-chain\">https://rtnf.substack.com/p/world-cup-2026-elimination-food-chain</a></p>\n<p>Comments URL: <a href=\"https://...",
-      "published": "2026-07-06T15:25:14+00:00",
-      "domain": "rtnf.substack.com",
+      "title": "Verbalizable Representations Form a Global Workspace in Language Models",
+      "link": "https://transformer-circuits.pub/2026/workspace/index.html",
+      "summary": "<p>Article URL: <a href=\"https://transformer-circuits.pub/2026/workspace/index.html\">https://transformer-circuits.pub/2026/workspace/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinat...",
+      "published": "2026-07-06T19:48:58+00:00",
+      "domain": "transformer-circuits.pub",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -243,11 +279,11 @@
       }
     },
     {
-      "title": "Tom Colicchio's Final Service",
-      "link": "https://www.esquire.com/preview/food-drink/restaurants/a71774153/tom-colicchio-craft-closing/",
-      "summary": "<p>Article URL: <a href=\"https://www.esquire.com/preview/food-drink/restaurants/a71774153/tom-colicchio-craft-closing/\">https://www.esquire.com/preview/food-drink/restaurants/a71774153/tom-colicchio-c...",
-      "published": "2026-07-06T15:25:11+00:00",
-      "domain": "esquire.com",
+      "title": "Hacking from the Backcountry",
+      "link": "https://suthakamal.substack.com/p/hacking-from-the-backcounty",
+      "summary": "<p>Article URL: <a href=\"https://suthakamal.substack.com/p/hacking-from-the-backcounty\">https://suthakamal.substack.com/p/hacking-from-the-backcounty</a></p>\n<p>Comments URL: <a href=\"https://news.yco...",
+      "published": "2026-07-06T19:47:48+00:00",
+      "domain": "suthakamal.substack.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -259,11 +295,11 @@
       }
     },
     {
-      "title": "Electric anti-aircraft interceptor drone breaks world air speed record at 434mph",
-      "link": "https://www.tomshardware.com/tech-industry/drones/electric-drone-breaks-world-air-speed-record-at-434-mph-designed-for-anti-aircraft-interceptor-roles-german-firm-convincingly-smashed-the-official-409-mph-record-hopes-to-get-stamp-of-approval-from-guinness-soon",
-      "summary": "<p>Article URL: <a href=\"https://www.tomshardware.com/tech-industry/drones/electric-drone-breaks-world-air-speed-record-at-434-mph-designed-for-anti-aircraft-interceptor-roles-german-firm-convincingly...",
-      "published": "2026-07-06T15:24:54+00:00",
-      "domain": "tomshardware.com",
+      "title": "Dev tells Valve to fix Steam's exploitable 2-hour refund policy as \"over 55,000\" players refund his short game and even brag about it in reviews",
+      "link": "https://www.reddit.com/r/technology/comments/1up68no/dev_tells_valve_to_fix_steams_exploitable_2hour/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1up68no/dev_tells_valve_to_fix_steams_exploitable_2hour/\"> <img alt=\"Dev tells Valve to fix Steam's exploitable 2-hour refund pol...",
+      "published": "2026-07-06T18:42:11+00:00",
+      "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -275,43 +311,11 @@
       }
     },
     {
-      "title": "CS2 Fog Of War: Server-sided anti-wallhack occlusion culling for CS2 servers",
-      "link": "https://github.com/karola3vax/CS2FOW",
-      "summary": "<p>Article URL: <a href=\"https://github.com/karola3vax/CS2FOW\">https://github.com/karola3vax/CS2FOW</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48805965\">https://news.ycombi...",
-      "published": "2026-07-06T15:23:34+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "AMD Ryzen AI Halo \u2013 $4k AI Dev Kit",
-      "link": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48805624\">Comments</a>...",
-      "published": "2026-07-06T15:01:18+00:00",
-      "domain": "lttlabs.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Emily Bender Sets the Record Straight on \"Stochastic Parrots\"",
-      "link": "https://spectrum.ieee.org/stochastic-parrot",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48805401\">Comments</a>...",
-      "published": "2026-07-06T14:45:31+00:00",
-      "domain": "spectrum.ieee.org",
+      "title": "Linux on the Atari Jaguar. No, really.",
+      "link": "https://cakehonolulu.github.io/linux-for-jaguar/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48808663\">Comments</a>...",
+      "published": "2026-07-06T18:35:54+00:00",
+      "domain": "cakehonolulu.github.io",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -325,10 +329,44 @@
   ],
   "overall_ranked": [
     {
-      "title": "\u26a1 Weekly Recap: Proxy Botnets, Browser Ransomware, AI Agent Tricks, Fake PoC Malware and More",
-      "link": "https://thehackernews.com/2026/07/monday-recap-proxy-botnets-browser.html",
-      "summary": "A streaming box should not need a threat model. Neither should a username field, a demo repo, a reset flow, or a browser permission prompt. That is the irritating part this week: the risky pieces were...",
-      "published": "2026-07-06T18:31:14+05:30",
+      "title": "France to Stop Certifying Non-Quantum-Safe Encryption",
+      "link": "https://www.schneier.com/blog/archives/2026/07/france-to-stop-certifying-non-quantum-safe-encryption.html",
+      "summary": "<p>Article URL: <a href=\"https://www.schneier.com/blog/archives/2026/07/france-to-stop-certifying-non-quantum-safe-encryption.html\">https://www.schneier.com/blog/archives/2026/07/france-to-stop-certif...",
+      "published": "2026-07-06T19:47:20+00:00",
+      "domain": "schneier.com",
+      "scores": {
+        "chaos": 15.0,
+        "anarchy": 15.0,
+        "overall": 15.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "16-Year-Old Linux KVM Flaw Lets Guest VMs Escape to Host on Intel and AMD x86 Systems",
+      "link": "https://thehackernews.com/2026/07/16-year-old-linux-kvm-flaw-lets-guest.html",
+      "summary": "A use-after-free bug in Linux's KVM hypervisor can be triggered from a guest virtual machine to corrupt the shadow-page state of the host kernel that runs it.\n\nDubbed 'Januscape' and tracked as&nbsp;C...",
+      "published": "2026-07-06T23:07:01+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 9.2,
+        "anarchy": 3.0,
+        "overall": 6.1
+      },
+      "keywords": {
+        "chaos": [
+          "bug"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Iran-Linked Hackers Use New Cavern C2 Framework to Target Israeli Organizations",
+      "link": "https://thehackernews.com/2026/07/iran-linked-hackers-use-new-cavern-c2.html",
+      "summary": "An Iranian hacking group affiliated with Iran's Ministry of Intelligence and Security (MOIS) has been wielding a previously undocumented modular command-and-control (C2) framework dubbed Cavern (aka C...",
+      "published": "2026-07-07T00:04:26+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -341,10 +379,10 @@
       }
     },
     {
-      "title": "How to Evaluate an AI SOC Platform in 2026: 6 Capabilities That Separate Leaders from Bolt-On AI solutions",
-      "link": "https://thehackernews.com/2026/07/how-to-evaluate-ai-soc-platform-in-2026.html",
-      "summary": "Building a shortlist for an AI SOC evaluation can be tough. SIEM, SOAR, and pureplay AI SOC vendors are all saying the same thing. But behind the identical label sit very different products, from chat...",
-      "published": "2026-07-06T17:00:02+05:30",
+      "title": "Threat Actors Probe Gitea Docker Flaw CVE-2026-20896 13 Days After Disclosure",
+      "link": "https://thehackernews.com/2026/07/threat-actors-probe-gitea-docker-flaw.html",
+      "summary": "Threat actors have been observed attempting to exploit a recently patched critical security flaw in Gitea Docker images, according to Sysdig.\n\nThe vulnerability in question is CVE-2026-20896 (CVSS sco...",
+      "published": "2026-07-06T21:58:59+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -357,11 +395,11 @@
       }
     },
     {
-      "title": "Suspected China-Nexus Hackers Use Fake Indian Tax Filing Utility to Deploy DcRAT",
-      "link": "https://thehackernews.com/2026/07/suspected-china-nexus-hackers-use-fake.html",
-      "summary": "A suspected China-nexus threat activity cluster has been observed targeting Indian taxpayers, tax professionals, and corporate finance teams to deliver a remote access trojan designed to steal sensiti...",
-      "published": "2026-07-06T16:28:16+05:30",
-      "domain": "thehackernews.com",
+      "title": "Esolang: 2026 Topicality Proposal",
+      "link": "https://esolangs.org/wiki/Esolang:2026_topicality_proposal",
+      "summary": "<p>Article URL: <a href=\"https://esolangs.org/wiki/Esolang:2026_topicality_proposal\">https://esolangs.org/wiki/Esolang:2026_topicality_proposal</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinat...",
+      "published": "2026-07-06T19:52:37+00:00",
+      "domain": "esolangs.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -373,11 +411,11 @@
       }
     },
     {
-      "title": "Mullvad funding the far-right and the problem with tech company ownership",
-      "link": "https://www.kjz.im/mullvad-far-right/",
-      "summary": "<p>Article URL: <a href=\"https://www.kjz.im/mullvad-far-right/\">https://www.kjz.im/mullvad-far-right/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48805996\">https://news.ycom...",
-      "published": "2026-07-06T15:25:33+00:00",
-      "domain": "kjz.im",
+      "title": "Space JUNK Mysterious 'space balls' that washed up on Australian beach spark pro",
+      "link": "https://www.thesun.co.uk/news/39654579/mysterious-space-balls-australian-beach-toxic/",
+      "summary": "<p>Article URL: <a href=\"https://www.thesun.co.uk/news/39654579/mysterious-space-balls-australian-beach-toxic/\">https://www.thesun.co.uk/news/39654579/mysterious-space-balls-australian-beach-toxic/</a...",
+      "published": "2026-07-06T19:49:58+00:00",
+      "domain": "thesun.co.uk",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -389,11 +427,11 @@
       }
     },
     {
-      "title": "World Cup 2026 Elimination \"Food Chain\"",
-      "link": "https://rtnf.substack.com/p/world-cup-2026-elimination-food-chain",
-      "summary": "<p>Article URL: <a href=\"https://rtnf.substack.com/p/world-cup-2026-elimination-food-chain\">https://rtnf.substack.com/p/world-cup-2026-elimination-food-chain</a></p>\n<p>Comments URL: <a href=\"https://...",
-      "published": "2026-07-06T15:25:14+00:00",
-      "domain": "rtnf.substack.com",
+      "title": "Verbalizable Representations Form a Global Workspace in Language Models",
+      "link": "https://transformer-circuits.pub/2026/workspace/index.html",
+      "summary": "<p>Article URL: <a href=\"https://transformer-circuits.pub/2026/workspace/index.html\">https://transformer-circuits.pub/2026/workspace/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinat...",
+      "published": "2026-07-06T19:48:58+00:00",
+      "domain": "transformer-circuits.pub",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -405,11 +443,11 @@
       }
     },
     {
-      "title": "Tom Colicchio's Final Service",
-      "link": "https://www.esquire.com/preview/food-drink/restaurants/a71774153/tom-colicchio-craft-closing/",
-      "summary": "<p>Article URL: <a href=\"https://www.esquire.com/preview/food-drink/restaurants/a71774153/tom-colicchio-craft-closing/\">https://www.esquire.com/preview/food-drink/restaurants/a71774153/tom-colicchio-c...",
-      "published": "2026-07-06T15:25:11+00:00",
-      "domain": "esquire.com",
+      "title": "Hacking from the Backcountry",
+      "link": "https://suthakamal.substack.com/p/hacking-from-the-backcounty",
+      "summary": "<p>Article URL: <a href=\"https://suthakamal.substack.com/p/hacking-from-the-backcounty\">https://suthakamal.substack.com/p/hacking-from-the-backcounty</a></p>\n<p>Comments URL: <a href=\"https://news.yco...",
+      "published": "2026-07-06T19:47:48+00:00",
+      "domain": "suthakamal.substack.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -421,11 +459,11 @@
       }
     },
     {
-      "title": "Electric anti-aircraft interceptor drone breaks world air speed record at 434mph",
-      "link": "https://www.tomshardware.com/tech-industry/drones/electric-drone-breaks-world-air-speed-record-at-434-mph-designed-for-anti-aircraft-interceptor-roles-german-firm-convincingly-smashed-the-official-409-mph-record-hopes-to-get-stamp-of-approval-from-guinness-soon",
-      "summary": "<p>Article URL: <a href=\"https://www.tomshardware.com/tech-industry/drones/electric-drone-breaks-world-air-speed-record-at-434-mph-designed-for-anti-aircraft-interceptor-roles-german-firm-convincingly...",
-      "published": "2026-07-06T15:24:54+00:00",
-      "domain": "tomshardware.com",
+      "title": "Dev tells Valve to fix Steam's exploitable 2-hour refund policy as \"over 55,000\" players refund his short game and even brag about it in reviews",
+      "link": "https://www.reddit.com/r/technology/comments/1up68no/dev_tells_valve_to_fix_steams_exploitable_2hour/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1up68no/dev_tells_valve_to_fix_steams_exploitable_2hour/\"> <img alt=\"Dev tells Valve to fix Steam's exploitable 2-hour refund pol...",
+      "published": "2026-07-06T18:42:11+00:00",
+      "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -437,43 +475,11 @@
       }
     },
     {
-      "title": "CS2 Fog Of War: Server-sided anti-wallhack occlusion culling for CS2 servers",
-      "link": "https://github.com/karola3vax/CS2FOW",
-      "summary": "<p>Article URL: <a href=\"https://github.com/karola3vax/CS2FOW\">https://github.com/karola3vax/CS2FOW</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48805965\">https://news.ycombi...",
-      "published": "2026-07-06T15:23:34+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "AMD Ryzen AI Halo \u2013 $4k AI Dev Kit",
-      "link": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48805624\">Comments</a>...",
-      "published": "2026-07-06T15:01:18+00:00",
-      "domain": "lttlabs.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Emily Bender Sets the Record Straight on \"Stochastic Parrots\"",
-      "link": "https://spectrum.ieee.org/stochastic-parrot",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48805401\">Comments</a>...",
-      "published": "2026-07-06T14:45:31+00:00",
-      "domain": "spectrum.ieee.org",
+      "title": "Linux on the Atari Jaguar. No, really.",
+      "link": "https://cakehonolulu.github.io/linux-for-jaguar/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48808663\">Comments</a>...",
+      "published": "2026-07-06T18:35:54+00:00",
+      "domain": "cakehonolulu.github.io",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -487,10 +493,10 @@
   ],
   "all_articles": [
     {
-      "title": "\u26a1 Weekly Recap: Proxy Botnets, Browser Ransomware, AI Agent Tricks, Fake PoC Malware and More",
-      "link": "https://thehackernews.com/2026/07/monday-recap-proxy-botnets-browser.html",
-      "summary": "A streaming box should not need a threat model. Neither should a username field, a demo repo, a reset flow, or a browser permission prompt. That is the irritating part this week: the risky pieces were...",
-      "published": "2026-07-06T18:31:14+05:30",
+      "title": "Iran-Linked Hackers Use New Cavern C2 Framework to Target Israeli Organizations",
+      "link": "https://thehackernews.com/2026/07/iran-linked-hackers-use-new-cavern-c2.html",
+      "summary": "An Iranian hacking group affiliated with Iran's Ministry of Intelligence and Security (MOIS) has been wielding a previously undocumented modular command-and-control (C2) framework dubbed Cavern (aka C...",
+      "published": "2026-07-07T00:04:26+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -503,10 +509,28 @@
       }
     },
     {
-      "title": "How to Evaluate an AI SOC Platform in 2026: 6 Capabilities That Separate Leaders from Bolt-On AI solutions",
-      "link": "https://thehackernews.com/2026/07/how-to-evaluate-ai-soc-platform-in-2026.html",
-      "summary": "Building a shortlist for an AI SOC evaluation can be tough. SIEM, SOAR, and pureplay AI SOC vendors are all saying the same thing. But behind the identical label sit very different products, from chat...",
-      "published": "2026-07-06T17:00:02+05:30",
+      "title": "16-Year-Old Linux KVM Flaw Lets Guest VMs Escape to Host on Intel and AMD x86 Systems",
+      "link": "https://thehackernews.com/2026/07/16-year-old-linux-kvm-flaw-lets-guest.html",
+      "summary": "A use-after-free bug in Linux's KVM hypervisor can be triggered from a guest virtual machine to corrupt the shadow-page state of the host kernel that runs it.\n\nDubbed 'Januscape' and tracked as&nbsp;C...",
+      "published": "2026-07-06T23:07:01+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 9.2,
+        "anarchy": 3.0,
+        "overall": 6.1
+      },
+      "keywords": {
+        "chaos": [
+          "bug"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Threat Actors Probe Gitea Docker Flaw CVE-2026-20896 13 Days After Disclosure",
+      "link": "https://thehackernews.com/2026/07/threat-actors-probe-gitea-docker-flaw.html",
+      "summary": "Threat actors have been observed attempting to exploit a recently patched critical security flaw in Gitea Docker images, according to Sysdig.\n\nThe vulnerability in question is CVE-2026-20896 (CVSS sco...",
+      "published": "2026-07-06T21:58:59+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -519,11 +543,11 @@
       }
     },
     {
-      "title": "Suspected China-Nexus Hackers Use Fake Indian Tax Filing Utility to Deploy DcRAT",
-      "link": "https://thehackernews.com/2026/07/suspected-china-nexus-hackers-use-fake.html",
-      "summary": "A suspected China-nexus threat activity cluster has been observed targeting Indian taxpayers, tax professionals, and corporate finance teams to deliver a remote access trojan designed to steal sensiti...",
-      "published": "2026-07-06T16:28:16+05:30",
-      "domain": "thehackernews.com",
+      "title": "Esolang: 2026 Topicality Proposal",
+      "link": "https://esolangs.org/wiki/Esolang:2026_topicality_proposal",
+      "summary": "<p>Article URL: <a href=\"https://esolangs.org/wiki/Esolang:2026_topicality_proposal\">https://esolangs.org/wiki/Esolang:2026_topicality_proposal</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinat...",
+      "published": "2026-07-06T19:52:37+00:00",
+      "domain": "esolangs.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -535,11 +559,11 @@
       }
     },
     {
-      "title": "Mullvad funding the far-right and the problem with tech company ownership",
-      "link": "https://www.kjz.im/mullvad-far-right/",
-      "summary": "<p>Article URL: <a href=\"https://www.kjz.im/mullvad-far-right/\">https://www.kjz.im/mullvad-far-right/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48805996\">https://news.ycom...",
-      "published": "2026-07-06T15:25:33+00:00",
-      "domain": "kjz.im",
+      "title": "Space JUNK Mysterious 'space balls' that washed up on Australian beach spark pro",
+      "link": "https://www.thesun.co.uk/news/39654579/mysterious-space-balls-australian-beach-toxic/",
+      "summary": "<p>Article URL: <a href=\"https://www.thesun.co.uk/news/39654579/mysterious-space-balls-australian-beach-toxic/\">https://www.thesun.co.uk/news/39654579/mysterious-space-balls-australian-beach-toxic/</a...",
+      "published": "2026-07-06T19:49:58+00:00",
+      "domain": "thesun.co.uk",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -551,11 +575,11 @@
       }
     },
     {
-      "title": "World Cup 2026 Elimination \"Food Chain\"",
-      "link": "https://rtnf.substack.com/p/world-cup-2026-elimination-food-chain",
-      "summary": "<p>Article URL: <a href=\"https://rtnf.substack.com/p/world-cup-2026-elimination-food-chain\">https://rtnf.substack.com/p/world-cup-2026-elimination-food-chain</a></p>\n<p>Comments URL: <a href=\"https://...",
-      "published": "2026-07-06T15:25:14+00:00",
-      "domain": "rtnf.substack.com",
+      "title": "Verbalizable Representations Form a Global Workspace in Language Models",
+      "link": "https://transformer-circuits.pub/2026/workspace/index.html",
+      "summary": "<p>Article URL: <a href=\"https://transformer-circuits.pub/2026/workspace/index.html\">https://transformer-circuits.pub/2026/workspace/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinat...",
+      "published": "2026-07-06T19:48:58+00:00",
+      "domain": "transformer-circuits.pub",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -567,11 +591,11 @@
       }
     },
     {
-      "title": "Tom Colicchio's Final Service",
-      "link": "https://www.esquire.com/preview/food-drink/restaurants/a71774153/tom-colicchio-craft-closing/",
-      "summary": "<p>Article URL: <a href=\"https://www.esquire.com/preview/food-drink/restaurants/a71774153/tom-colicchio-craft-closing/\">https://www.esquire.com/preview/food-drink/restaurants/a71774153/tom-colicchio-c...",
-      "published": "2026-07-06T15:25:11+00:00",
-      "domain": "esquire.com",
+      "title": "Hacking from the Backcountry",
+      "link": "https://suthakamal.substack.com/p/hacking-from-the-backcounty",
+      "summary": "<p>Article URL: <a href=\"https://suthakamal.substack.com/p/hacking-from-the-backcounty\">https://suthakamal.substack.com/p/hacking-from-the-backcounty</a></p>\n<p>Comments URL: <a href=\"https://news.yco...",
+      "published": "2026-07-06T19:47:48+00:00",
+      "domain": "suthakamal.substack.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -583,11 +607,27 @@
       }
     },
     {
-      "title": "Electric anti-aircraft interceptor drone breaks world air speed record at 434mph",
-      "link": "https://www.tomshardware.com/tech-industry/drones/electric-drone-breaks-world-air-speed-record-at-434-mph-designed-for-anti-aircraft-interceptor-roles-german-firm-convincingly-smashed-the-official-409-mph-record-hopes-to-get-stamp-of-approval-from-guinness-soon",
-      "summary": "<p>Article URL: <a href=\"https://www.tomshardware.com/tech-industry/drones/electric-drone-breaks-world-air-speed-record-at-434-mph-designed-for-anti-aircraft-interceptor-roles-german-firm-convincingly...",
-      "published": "2026-07-06T15:24:54+00:00",
-      "domain": "tomshardware.com",
+      "title": "France to Stop Certifying Non-Quantum-Safe Encryption",
+      "link": "https://www.schneier.com/blog/archives/2026/07/france-to-stop-certifying-non-quantum-safe-encryption.html",
+      "summary": "<p>Article URL: <a href=\"https://www.schneier.com/blog/archives/2026/07/france-to-stop-certifying-non-quantum-safe-encryption.html\">https://www.schneier.com/blog/archives/2026/07/france-to-stop-certif...",
+      "published": "2026-07-06T19:47:20+00:00",
+      "domain": "schneier.com",
+      "scores": {
+        "chaos": 15.0,
+        "anarchy": 15.0,
+        "overall": 15.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Dev tells Valve to fix Steam's exploitable 2-hour refund policy as \"over 55,000\" players refund his short game and even brag about it in reviews",
+      "link": "https://www.reddit.com/r/technology/comments/1up68no/dev_tells_valve_to_fix_steams_exploitable_2hour/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1up68no/dev_tells_valve_to_fix_steams_exploitable_2hour/\"> <img alt=\"Dev tells Valve to fix Steam's exploitable 2-hour refund pol...",
+      "published": "2026-07-06T18:42:11+00:00",
+      "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -599,43 +639,11 @@
       }
     },
     {
-      "title": "CS2 Fog Of War: Server-sided anti-wallhack occlusion culling for CS2 servers",
-      "link": "https://github.com/karola3vax/CS2FOW",
-      "summary": "<p>Article URL: <a href=\"https://github.com/karola3vax/CS2FOW\">https://github.com/karola3vax/CS2FOW</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48805965\">https://news.ycombi...",
-      "published": "2026-07-06T15:23:34+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "AMD Ryzen AI Halo \u2013 $4k AI Dev Kit",
-      "link": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48805624\">Comments</a>...",
-      "published": "2026-07-06T15:01:18+00:00",
-      "domain": "lttlabs.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Emily Bender Sets the Record Straight on \"Stochastic Parrots\"",
-      "link": "https://spectrum.ieee.org/stochastic-parrot",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48805401\">Comments</a>...",
-      "published": "2026-07-06T14:45:31+00:00",
-      "domain": "spectrum.ieee.org",
+      "title": "Linux on the Atari Jaguar. No, really.",
+      "link": "https://cakehonolulu.github.io/linux-for-jaguar/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48808663\">Comments</a>...",
+      "published": "2026-07-06T18:35:54+00:00",
+      "domain": "cakehonolulu.github.io",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,

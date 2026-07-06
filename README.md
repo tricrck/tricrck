@@ -16,15 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### ⚡ Weekly Recap: Proxy Botnets, Browser Ransomware, AI Agent Tricks, Fake PoC Malware and More
+### France to Stop Certifying Non-Quantum-Safe Encryption
 - **Published**: July 06, 2026
-- **Summary**: A streaming box should not need a threat model. Neither should a username field, a demo repo, a reset flow, or a browser permission prompt. That is th...
-- [Read more](https://thehackernews.com/2026/07/monday-recap-proxy-botnets-browser.html)
+- **Summary**: https://www.schneier.com/blog/archives/2026/07/france-to-stop-certif......
+- [Read more](https://www.schneier.com/blog/archives/2026/07/france-to-stop-certifying-non-quantum-safe-encryption.html)
 
-### How to Evaluate an AI SOC Platform in 2026: 6 Capabilities That Separate Leaders from Bolt-On AI solutions
+### 16-Year-Old Linux KVM Flaw Lets Guest VMs Escape to Host on Intel and AMD x86 Systems
 - **Published**: July 06, 2026
-- **Summary**: Building a shortlist for an AI SOC evaluation can be tough. SIEM, SOAR, and pureplay AI SOC vendors are all saying the same thing. But behind the iden...
-- [Read more](https://thehackernews.com/2026/07/how-to-evaluate-ai-soc-platform-in-2026.html)
+- **Summary**: A use-after-free bug in Linux's KVM hypervisor can be triggered from a guest virtual machine to corrupt the shadow-page state of the host kernel that ...
+- **Keywords**: bug
+- [Read more](https://thehackernews.com/2026/07/16-year-old-linux-kvm-flaw-lets-guest.html)
 
 ---
 
