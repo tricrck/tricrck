@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### New TrojPix Attack Leaks Data From Air-Gapped Systems via Video Cable Emissions
+### ⚡ Weekly Recap: Proxy Botnets, Browser Ransomware, AI Agent Tricks, Fake PoC Malware and More
 - **Published**: July 06, 2026
-- **Summary**: Researchers at&nbsp;Shandong University&nbsp;have shown a fast new way to pull data off computers that are cut off from every network. The technique, ...
-- [Read more](https://thehackernews.com/2026/07/new-trojpix-attack-leaks-data-from-air.html)
+- **Summary**: A streaming box should not need a threat model. Neither should a username field, a demo repo, a reset flow, or a browser permission prompt. That is th...
+- [Read more](https://thehackernews.com/2026/07/monday-recap-proxy-botnets-browser.html)
 
-### New Java-Based QuimaRAT MaaS Built to Run on Windows, Linux, and macOS
+### How to Evaluate an AI SOC Platform in 2026: 6 Capabilities That Separate Leaders from Bolt-On AI solutions
 - **Published**: July 06, 2026
-- **Summary**: Cybersecurity researchers have flagged a novel Java-based remote access trojan (RAT) called QuimaRAT that's capable of targeting Windows, Linux, and m...
-- [Read more](https://thehackernews.com/2026/07/new-java-based-quimarat-maas-built-to.html)
+- **Summary**: Building a shortlist for an AI SOC evaluation can be tough. SIEM, SOAR, and pureplay AI SOC vendors are all saying the same thing. But behind the iden...
+- [Read more](https://thehackernews.com/2026/07/how-to-evaluate-ai-soc-platform-in-2026.html)
 
 ---
 
