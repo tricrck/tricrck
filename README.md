@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Outgrowing the Chat Box
-- **Published**: July 05, 2026
-- **Summary**: https://www.nnehdi.me/p/outgrowing-the-chat-box</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4879703......
-- [Read more](https://www.nnehdi.me/p/outgrowing-the-chat-box)
+### 4D-printing method creates lighter, faster-spinning wind turbine blades
+- **Published**: July 06, 2026
+- **Summary**: https://www.concordia.ca/cunews/encs/......
+- [Read more](https://www.concordia.ca/cunews/encs/2026/07/02/research-new-4d-printing-method-creates-lighter-faster-spinning-wind-turbine-blades.html)
 
-### Small Penis Rule
-- **Published**: July 05, 2026
-- **Summary**: https://en.wikipedia.org/wiki/Small_penis_rule</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48797015"......
-- [Read more](https://en.wikipedia.org/wiki/Small_penis_rule)
+### How AI Poisons Creativity [video]
+- **Published**: July 06, 2026
+- **Summary**: https://www.youtube.com/watch?v=WeCSzEtZcUw</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48800326">https......
+- [Read more](https://www.youtube.com/watch?v=WeCSzEtZcUw)
 
 ---
 
