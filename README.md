@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### CERT/CC Warns of Hidden Admin Backdoor in Tenda Router Firmware
+### Court Filing Reveals Windows Device ID Helped FBI Trace Alleged Scattered Spider Hacker
 - **Published**: July 07, 2026
-- **Summary**: Several versions of firmware released by Chinese network device manufacturer Tenda have been found to embed an undocumented authentication backdoor th...
-- [Read more](https://thehackernews.com/2026/07/certcc-warns-of-hidden-admin-backdoor.html)
+- **Summary**: U.S. prosecutors linked an alleged Scattered Spider hacker to a break-in at a luxury jewelry retailer using a persistent Windows device ID, according ...
+- [Read more](https://thehackernews.com/2026/07/court-filing-reveals-windows-device-id.html)
 
-### BeyondTrust Patches Critical Auth Bypass Flaws in Remote Support and PRA
+### Writer AI Flaw Could Let Agent Previews Leak Session Tokens Across Tenants
 - **Published**: July 07, 2026
-- **Summary**: BeyondTrust has released updates to address two critical security flaws affecting Remote Support (RS) and Privileged Remote Access (PRA) products that...
-- [Read more](https://thehackernews.com/2026/07/beyondtrust-patches-critical-auth.html)
+- **Summary**: Cybersecurity researchers have disclosed details of a now-patched critical session isolation vulnerability in Writer, an enterprise generative artific...
+- [Read more](https://thehackernews.com/2026/07/writer-ai-flaw-could-let-agent-previews.html)
 
 ---
 

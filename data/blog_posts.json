@@ -1,10 +1,10 @@
 {
   "chaos_ranked": [
     {
-      "title": "CERT/CC Warns of Hidden Admin Backdoor in Tenda Router Firmware",
-      "link": "https://thehackernews.com/2026/07/certcc-warns-of-hidden-admin-backdoor.html",
-      "summary": "Several versions of firmware released by Chinese network device manufacturer Tenda have been found to embed an undocumented authentication backdoor that enables administrative access to the devices' w...",
-      "published": "2026-07-07T12:10:47+05:30",
+      "title": "Court Filing Reveals Windows Device ID Helped FBI Trace Alleged Scattered Spider Hacker",
+      "link": "https://thehackernews.com/2026/07/court-filing-reveals-windows-device-id.html",
+      "summary": "U.S. prosecutors linked an alleged Scattered Spider hacker to a break-in at a luxury jewelry retailer using a persistent Windows device ID, according to a newly unsealed federal complaint.\n\nMicrosoft ...",
+      "published": "2026-07-07T18:57:20+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -17,10 +17,10 @@
       }
     },
     {
-      "title": "BeyondTrust Patches Critical Auth Bypass Flaws in Remote Support and PRA",
-      "link": "https://thehackernews.com/2026/07/beyondtrust-patches-critical-auth.html",
-      "summary": "BeyondTrust has released updates to address two critical security flaws affecting Remote Support (RS) and Privileged Remote Access (PRA) products that, if successfully exploited, could allow unauthent...",
-      "published": "2026-07-07T10:46:51+05:30",
+      "title": "Writer AI Flaw Could Let Agent Previews Leak Session Tokens Across Tenants",
+      "link": "https://thehackernews.com/2026/07/writer-ai-flaw-could-let-agent-previews.html",
+      "summary": "Cybersecurity researchers have disclosed details of a now-patched critical session isolation vulnerability in Writer, an enterprise generative artificial intelligence (AI) platform, that could result ...",
+      "published": "2026-07-07T18:57:09+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -33,11 +33,11 @@
       }
     },
     {
-      "title": "Hy3 \u2013 295B MoE model (21B active, 192 experts)",
-      "link": "https://twitter.com/TencentHunyuan/status/2074148098876768478",
-      "summary": "<p>Article URL: <a href=\"https://twitter.com/TencentHunyuan/status/2074148098876768478\">https://twitter.com/TencentHunyuan/status/2074148098876768478</a></p>\n<p>Comments URL: <a href=\"https://news.yco...",
-      "published": "2026-07-07T09:37:43+00:00",
-      "domain": "twitter.com",
+      "title": "What Changes When Your Software Supply Chain Includes AI Writing Your Code?",
+      "link": "https://thehackernews.com/2026/07/what-changes-when-your-software-supply.html",
+      "summary": "Software supply chain security was hard enough. Then AI joined the build pipeline.\n\nFor five years, \"software supply chain security\" meant one question: what's in your code? Which open-source packages...",
+      "published": "2026-07-07T17:00:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -49,11 +49,11 @@
       }
     },
     {
-      "title": "Agent Box",
-      "link": "https://agent-box.sh/",
-      "summary": "<p>Article URL: <a href=\"https://agent-box.sh/\">https://agent-box.sh/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48815504\">https://news.ycombinator.com/item?id=48815504</a>...",
-      "published": "2026-07-07T09:34:56+00:00",
-      "domain": "agent-box.sh",
+      "title": "Suspected China-Aligned Hackers Exploit Roundcube Flaws Against Universities",
+      "link": "https://thehackernews.com/2026/07/suspected-china-aligned-hackers-exploit.html",
+      "summary": "A suspected China-aligned threat activity cluster has been observed exploiting Roundcube webmail software belonging to physics and engineering departments of U.S. and Canadian universities as part of ...",
+      "published": "2026-07-07T14:40:51+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -65,10 +65,26 @@
       }
     },
     {
-      "title": "Show HN: Graphenium \u2013 Local Trust Layer for AI Agents (Rust, Datalog, Salsa)",
-      "link": "https://github.com/lambda-alpha-labs/Graphenium",
-      "summary": "<p>Article URL: <a href=\"https://github.com/lambda-alpha-labs/Graphenium\">https://github.com/lambda-alpha-labs/Graphenium</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4881545...",
-      "published": "2026-07-07T09:29:16+00:00",
+      "title": "Treasury Has an Internal Report Warning About the Dangers of an AI Bubble",
+      "link": "https://www.notus.org/economy/treasury-internal-report-warning-dangers-ai-bubble",
+      "summary": "<p>Article URL: <a href=\"https://www.notus.org/economy/treasury-internal-report-warning-dangers-ai-bubble\">https://www.notus.org/economy/treasury-internal-report-warning-dangers-ai-bubble</a></p>\n<p>C...",
+      "published": "2026-07-07T14:26:16+00:00",
+      "domain": "notus.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Pqc-scan: scan your codebase for quantum-vulnerable cryptography",
+      "link": "https://github.com/sachhg/pqc-scan",
+      "summary": "<p>Article URL: <a href=\"https://github.com/sachhg/pqc-scan\">https://github.com/sachhg/pqc-scan</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48818331\">https://news.ycombinato...",
+      "published": "2026-07-07T14:24:17+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -81,11 +97,11 @@
       }
     },
     {
-      "title": "AI coding assistant is quietly shipping your secrets",
-      "link": "https://reykur.io/blog/ai-coding-assistant-shipping-secrets/",
-      "summary": "<p>Article URL: <a href=\"https://reykur.io/blog/ai-coding-assistant-shipping-secrets/\">https://reykur.io/blog/ai-coding-assistant-shipping-secrets/</a></p>\n<p>Comments URL: <a href=\"https://news.ycomb...",
-      "published": "2026-07-07T09:28:08+00:00",
-      "domain": "reykur.io",
+      "title": "United Airlines Loses Bid to Dismiss Lawsuit over 'Windowless' Window Seats",
+      "link": "https://simpleflying.com/united-airlines-loses-bid-to-dismiss-lawsuit-over-windowless-window-seats/",
+      "summary": "<p>Article URL: <a href=\"https://simpleflying.com/united-airlines-loses-bid-to-dismiss-lawsuit-over-windowless-window-seats/\">https://simpleflying.com/united-airlines-loses-bid-to-dismiss-lawsuit-over...",
+      "published": "2026-07-07T14:23:31+00:00",
+      "domain": "simpleflying.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -97,11 +113,11 @@
       }
     },
     {
-      "title": "HTTP 1.x proxy that makes old web browsers usable again in the Web 2.0 world",
-      "link": "https://github.com/atauenis/webone",
-      "summary": "<p>Article URL: <a href=\"https://github.com/atauenis/webone\">https://github.com/atauenis/webone</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48815434\">https://news.ycombinato...",
-      "published": "2026-07-07T09:26:38+00:00",
-      "domain": "github.com",
+      "title": "A Peek Inside Jim Henson's Creature Shop, Where Whimsical Puppets Are Designed",
+      "link": "https://www.smithsonianmag.com/travel/a-peek-inside-jim-hensons-creature-shop-where-sesame-street-characters-and-other-whimsical-puppets-are-designed-180989051/",
+      "summary": "<p>Article URL: <a href=\"https://www.smithsonianmag.com/travel/a-peek-inside-jim-hensons-creature-shop-where-sesame-street-characters-and-other-whimsical-puppets-are-designed-180989051/\">https://www.s...",
+      "published": "2026-07-07T14:23:26+00:00",
+      "domain": "smithsonianmag.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -113,11 +129,11 @@
       }
     },
     {
-      "title": "How to sequence your own DNA at home",
-      "link": "https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48812156\">Comments</a>...",
-      "published": "2026-07-07T00:14:21+00:00",
-      "domain": "bradleywoolf.com",
+      "title": "Chat Control 1.0 and 2.0 Explained",
+      "link": "https://fightchatcontrol.eu/chat-control-overview",
+      "summary": "<p>Article URL: <a href=\"https://fightchatcontrol.eu/chat-control-overview\">https://fightchatcontrol.eu/chat-control-overview</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=488...",
+      "published": "2026-07-07T14:23:15+00:00",
+      "domain": "fightchatcontrol.eu",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -129,26 +145,10 @@
       }
     },
     {
-      "title": "Iran-Linked Hackers Use New Cavern C2 Framework to Target Israeli Organizations",
-      "link": "https://thehackernews.com/2026/07/iran-linked-hackers-use-new-cavern-c2.html",
-      "summary": "An Iranian hacking group affiliated with Iran's Ministry of Intelligence and Security (MOIS) has been wielding a previously undocumented modular command-and-control (C2) framework dubbed Cavern (aka C...",
-      "published": "2026-07-07T00:04:26+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "AI\u2019s $11 trillion compute boom may leave Wall Street holding a $7 trillion debt market",
-      "link": "https://www.reddit.com/r/technology/comments/1upenga/ais_11_trillion_compute_boom_may_leave_wall/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1upenga/ais_11_trillion_compute_boom_may_leave_wall/\"> <img alt=\"AI\u2019s $11 trillion compute boom may leave Wall Street holding a $...",
-      "published": "2026-07-06T23:56:59+00:00",
+      "title": "The Supreme Court just ruled that police need a warrant to use phone location data",
+      "link": "https://www.reddit.com/r/technology/comments/1upuztz/the_supreme_court_just_ruled_that_police_need_a/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1upuztz/the_supreme_court_just_ruled_that_police_need_a/\"> <img alt=\"The Supreme Court just ruled that police need a warrant to u...",
+      "published": "2026-07-07T13:23:18+00:00",
       "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
@@ -163,10 +163,10 @@
   ],
   "anarchy_ranked": [
     {
-      "title": "CERT/CC Warns of Hidden Admin Backdoor in Tenda Router Firmware",
-      "link": "https://thehackernews.com/2026/07/certcc-warns-of-hidden-admin-backdoor.html",
-      "summary": "Several versions of firmware released by Chinese network device manufacturer Tenda have been found to embed an undocumented authentication backdoor that enables administrative access to the devices' w...",
-      "published": "2026-07-07T12:10:47+05:30",
+      "title": "Court Filing Reveals Windows Device ID Helped FBI Trace Alleged Scattered Spider Hacker",
+      "link": "https://thehackernews.com/2026/07/court-filing-reveals-windows-device-id.html",
+      "summary": "U.S. prosecutors linked an alleged Scattered Spider hacker to a break-in at a luxury jewelry retailer using a persistent Windows device ID, according to a newly unsealed federal complaint.\n\nMicrosoft ...",
+      "published": "2026-07-07T18:57:20+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -179,10 +179,10 @@
       }
     },
     {
-      "title": "BeyondTrust Patches Critical Auth Bypass Flaws in Remote Support and PRA",
-      "link": "https://thehackernews.com/2026/07/beyondtrust-patches-critical-auth.html",
-      "summary": "BeyondTrust has released updates to address two critical security flaws affecting Remote Support (RS) and Privileged Remote Access (PRA) products that, if successfully exploited, could allow unauthent...",
-      "published": "2026-07-07T10:46:51+05:30",
+      "title": "Writer AI Flaw Could Let Agent Previews Leak Session Tokens Across Tenants",
+      "link": "https://thehackernews.com/2026/07/writer-ai-flaw-could-let-agent-previews.html",
+      "summary": "Cybersecurity researchers have disclosed details of a now-patched critical session isolation vulnerability in Writer, an enterprise generative artificial intelligence (AI) platform, that could result ...",
+      "published": "2026-07-07T18:57:09+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -195,11 +195,11 @@
       }
     },
     {
-      "title": "Hy3 \u2013 295B MoE model (21B active, 192 experts)",
-      "link": "https://twitter.com/TencentHunyuan/status/2074148098876768478",
-      "summary": "<p>Article URL: <a href=\"https://twitter.com/TencentHunyuan/status/2074148098876768478\">https://twitter.com/TencentHunyuan/status/2074148098876768478</a></p>\n<p>Comments URL: <a href=\"https://news.yco...",
-      "published": "2026-07-07T09:37:43+00:00",
-      "domain": "twitter.com",
+      "title": "What Changes When Your Software Supply Chain Includes AI Writing Your Code?",
+      "link": "https://thehackernews.com/2026/07/what-changes-when-your-software-supply.html",
+      "summary": "Software supply chain security was hard enough. Then AI joined the build pipeline.\n\nFor five years, \"software supply chain security\" meant one question: what's in your code? Which open-source packages...",
+      "published": "2026-07-07T17:00:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -211,11 +211,11 @@
       }
     },
     {
-      "title": "Agent Box",
-      "link": "https://agent-box.sh/",
-      "summary": "<p>Article URL: <a href=\"https://agent-box.sh/\">https://agent-box.sh/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48815504\">https://news.ycombinator.com/item?id=48815504</a>...",
-      "published": "2026-07-07T09:34:56+00:00",
-      "domain": "agent-box.sh",
+      "title": "Suspected China-Aligned Hackers Exploit Roundcube Flaws Against Universities",
+      "link": "https://thehackernews.com/2026/07/suspected-china-aligned-hackers-exploit.html",
+      "summary": "A suspected China-aligned threat activity cluster has been observed exploiting Roundcube webmail software belonging to physics and engineering departments of U.S. and Canadian universities as part of ...",
+      "published": "2026-07-07T14:40:51+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -227,10 +227,26 @@
       }
     },
     {
-      "title": "Show HN: Graphenium \u2013 Local Trust Layer for AI Agents (Rust, Datalog, Salsa)",
-      "link": "https://github.com/lambda-alpha-labs/Graphenium",
-      "summary": "<p>Article URL: <a href=\"https://github.com/lambda-alpha-labs/Graphenium\">https://github.com/lambda-alpha-labs/Graphenium</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4881545...",
-      "published": "2026-07-07T09:29:16+00:00",
+      "title": "Treasury Has an Internal Report Warning About the Dangers of an AI Bubble",
+      "link": "https://www.notus.org/economy/treasury-internal-report-warning-dangers-ai-bubble",
+      "summary": "<p>Article URL: <a href=\"https://www.notus.org/economy/treasury-internal-report-warning-dangers-ai-bubble\">https://www.notus.org/economy/treasury-internal-report-warning-dangers-ai-bubble</a></p>\n<p>C...",
+      "published": "2026-07-07T14:26:16+00:00",
+      "domain": "notus.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Pqc-scan: scan your codebase for quantum-vulnerable cryptography",
+      "link": "https://github.com/sachhg/pqc-scan",
+      "summary": "<p>Article URL: <a href=\"https://github.com/sachhg/pqc-scan\">https://github.com/sachhg/pqc-scan</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48818331\">https://news.ycombinato...",
+      "published": "2026-07-07T14:24:17+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -243,11 +259,11 @@
       }
     },
     {
-      "title": "AI coding assistant is quietly shipping your secrets",
-      "link": "https://reykur.io/blog/ai-coding-assistant-shipping-secrets/",
-      "summary": "<p>Article URL: <a href=\"https://reykur.io/blog/ai-coding-assistant-shipping-secrets/\">https://reykur.io/blog/ai-coding-assistant-shipping-secrets/</a></p>\n<p>Comments URL: <a href=\"https://news.ycomb...",
-      "published": "2026-07-07T09:28:08+00:00",
-      "domain": "reykur.io",
+      "title": "United Airlines Loses Bid to Dismiss Lawsuit over 'Windowless' Window Seats",
+      "link": "https://simpleflying.com/united-airlines-loses-bid-to-dismiss-lawsuit-over-windowless-window-seats/",
+      "summary": "<p>Article URL: <a href=\"https://simpleflying.com/united-airlines-loses-bid-to-dismiss-lawsuit-over-windowless-window-seats/\">https://simpleflying.com/united-airlines-loses-bid-to-dismiss-lawsuit-over...",
+      "published": "2026-07-07T14:23:31+00:00",
+      "domain": "simpleflying.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -259,11 +275,11 @@
       }
     },
     {
-      "title": "HTTP 1.x proxy that makes old web browsers usable again in the Web 2.0 world",
-      "link": "https://github.com/atauenis/webone",
-      "summary": "<p>Article URL: <a href=\"https://github.com/atauenis/webone\">https://github.com/atauenis/webone</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48815434\">https://news.ycombinato...",
-      "published": "2026-07-07T09:26:38+00:00",
-      "domain": "github.com",
+      "title": "A Peek Inside Jim Henson's Creature Shop, Where Whimsical Puppets Are Designed",
+      "link": "https://www.smithsonianmag.com/travel/a-peek-inside-jim-hensons-creature-shop-where-sesame-street-characters-and-other-whimsical-puppets-are-designed-180989051/",
+      "summary": "<p>Article URL: <a href=\"https://www.smithsonianmag.com/travel/a-peek-inside-jim-hensons-creature-shop-where-sesame-street-characters-and-other-whimsical-puppets-are-designed-180989051/\">https://www.s...",
+      "published": "2026-07-07T14:23:26+00:00",
+      "domain": "smithsonianmag.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -275,11 +291,11 @@
       }
     },
     {
-      "title": "How to sequence your own DNA at home",
-      "link": "https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48812156\">Comments</a>...",
-      "published": "2026-07-07T00:14:21+00:00",
-      "domain": "bradleywoolf.com",
+      "title": "Chat Control 1.0 and 2.0 Explained",
+      "link": "https://fightchatcontrol.eu/chat-control-overview",
+      "summary": "<p>Article URL: <a href=\"https://fightchatcontrol.eu/chat-control-overview\">https://fightchatcontrol.eu/chat-control-overview</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=488...",
+      "published": "2026-07-07T14:23:15+00:00",
+      "domain": "fightchatcontrol.eu",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -291,26 +307,10 @@
       }
     },
     {
-      "title": "Iran-Linked Hackers Use New Cavern C2 Framework to Target Israeli Organizations",
-      "link": "https://thehackernews.com/2026/07/iran-linked-hackers-use-new-cavern-c2.html",
-      "summary": "An Iranian hacking group affiliated with Iran's Ministry of Intelligence and Security (MOIS) has been wielding a previously undocumented modular command-and-control (C2) framework dubbed Cavern (aka C...",
-      "published": "2026-07-07T00:04:26+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "AI\u2019s $11 trillion compute boom may leave Wall Street holding a $7 trillion debt market",
-      "link": "https://www.reddit.com/r/technology/comments/1upenga/ais_11_trillion_compute_boom_may_leave_wall/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1upenga/ais_11_trillion_compute_boom_may_leave_wall/\"> <img alt=\"AI\u2019s $11 trillion compute boom may leave Wall Street holding a $...",
-      "published": "2026-07-06T23:56:59+00:00",
+      "title": "The Supreme Court just ruled that police need a warrant to use phone location data",
+      "link": "https://www.reddit.com/r/technology/comments/1upuztz/the_supreme_court_just_ruled_that_police_need_a/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1upuztz/the_supreme_court_just_ruled_that_police_need_a/\"> <img alt=\"The Supreme Court just ruled that police need a warrant to u...",
+      "published": "2026-07-07T13:23:18+00:00",
       "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
@@ -325,10 +325,10 @@
   ],
   "overall_ranked": [
     {
-      "title": "CERT/CC Warns of Hidden Admin Backdoor in Tenda Router Firmware",
-      "link": "https://thehackernews.com/2026/07/certcc-warns-of-hidden-admin-backdoor.html",
-      "summary": "Several versions of firmware released by Chinese network device manufacturer Tenda have been found to embed an undocumented authentication backdoor that enables administrative access to the devices' w...",
-      "published": "2026-07-07T12:10:47+05:30",
+      "title": "Court Filing Reveals Windows Device ID Helped FBI Trace Alleged Scattered Spider Hacker",
+      "link": "https://thehackernews.com/2026/07/court-filing-reveals-windows-device-id.html",
+      "summary": "U.S. prosecutors linked an alleged Scattered Spider hacker to a break-in at a luxury jewelry retailer using a persistent Windows device ID, according to a newly unsealed federal complaint.\n\nMicrosoft ...",
+      "published": "2026-07-07T18:57:20+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -341,10 +341,10 @@
       }
     },
     {
-      "title": "BeyondTrust Patches Critical Auth Bypass Flaws in Remote Support and PRA",
-      "link": "https://thehackernews.com/2026/07/beyondtrust-patches-critical-auth.html",
-      "summary": "BeyondTrust has released updates to address two critical security flaws affecting Remote Support (RS) and Privileged Remote Access (PRA) products that, if successfully exploited, could allow unauthent...",
-      "published": "2026-07-07T10:46:51+05:30",
+      "title": "Writer AI Flaw Could Let Agent Previews Leak Session Tokens Across Tenants",
+      "link": "https://thehackernews.com/2026/07/writer-ai-flaw-could-let-agent-previews.html",
+      "summary": "Cybersecurity researchers have disclosed details of a now-patched critical session isolation vulnerability in Writer, an enterprise generative artificial intelligence (AI) platform, that could result ...",
+      "published": "2026-07-07T18:57:09+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -357,11 +357,11 @@
       }
     },
     {
-      "title": "Hy3 \u2013 295B MoE model (21B active, 192 experts)",
-      "link": "https://twitter.com/TencentHunyuan/status/2074148098876768478",
-      "summary": "<p>Article URL: <a href=\"https://twitter.com/TencentHunyuan/status/2074148098876768478\">https://twitter.com/TencentHunyuan/status/2074148098876768478</a></p>\n<p>Comments URL: <a href=\"https://news.yco...",
-      "published": "2026-07-07T09:37:43+00:00",
-      "domain": "twitter.com",
+      "title": "What Changes When Your Software Supply Chain Includes AI Writing Your Code?",
+      "link": "https://thehackernews.com/2026/07/what-changes-when-your-software-supply.html",
+      "summary": "Software supply chain security was hard enough. Then AI joined the build pipeline.\n\nFor five years, \"software supply chain security\" meant one question: what's in your code? Which open-source packages...",
+      "published": "2026-07-07T17:00:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -373,11 +373,11 @@
       }
     },
     {
-      "title": "Agent Box",
-      "link": "https://agent-box.sh/",
-      "summary": "<p>Article URL: <a href=\"https://agent-box.sh/\">https://agent-box.sh/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48815504\">https://news.ycombinator.com/item?id=48815504</a>...",
-      "published": "2026-07-07T09:34:56+00:00",
-      "domain": "agent-box.sh",
+      "title": "Suspected China-Aligned Hackers Exploit Roundcube Flaws Against Universities",
+      "link": "https://thehackernews.com/2026/07/suspected-china-aligned-hackers-exploit.html",
+      "summary": "A suspected China-aligned threat activity cluster has been observed exploiting Roundcube webmail software belonging to physics and engineering departments of U.S. and Canadian universities as part of ...",
+      "published": "2026-07-07T14:40:51+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -389,10 +389,26 @@
       }
     },
     {
-      "title": "Show HN: Graphenium \u2013 Local Trust Layer for AI Agents (Rust, Datalog, Salsa)",
-      "link": "https://github.com/lambda-alpha-labs/Graphenium",
-      "summary": "<p>Article URL: <a href=\"https://github.com/lambda-alpha-labs/Graphenium\">https://github.com/lambda-alpha-labs/Graphenium</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4881545...",
-      "published": "2026-07-07T09:29:16+00:00",
+      "title": "Treasury Has an Internal Report Warning About the Dangers of an AI Bubble",
+      "link": "https://www.notus.org/economy/treasury-internal-report-warning-dangers-ai-bubble",
+      "summary": "<p>Article URL: <a href=\"https://www.notus.org/economy/treasury-internal-report-warning-dangers-ai-bubble\">https://www.notus.org/economy/treasury-internal-report-warning-dangers-ai-bubble</a></p>\n<p>C...",
+      "published": "2026-07-07T14:26:16+00:00",
+      "domain": "notus.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Pqc-scan: scan your codebase for quantum-vulnerable cryptography",
+      "link": "https://github.com/sachhg/pqc-scan",
+      "summary": "<p>Article URL: <a href=\"https://github.com/sachhg/pqc-scan\">https://github.com/sachhg/pqc-scan</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48818331\">https://news.ycombinato...",
+      "published": "2026-07-07T14:24:17+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -405,11 +421,11 @@
       }
     },
     {
-      "title": "AI coding assistant is quietly shipping your secrets",
-      "link": "https://reykur.io/blog/ai-coding-assistant-shipping-secrets/",
-      "summary": "<p>Article URL: <a href=\"https://reykur.io/blog/ai-coding-assistant-shipping-secrets/\">https://reykur.io/blog/ai-coding-assistant-shipping-secrets/</a></p>\n<p>Comments URL: <a href=\"https://news.ycomb...",
-      "published": "2026-07-07T09:28:08+00:00",
-      "domain": "reykur.io",
+      "title": "United Airlines Loses Bid to Dismiss Lawsuit over 'Windowless' Window Seats",
+      "link": "https://simpleflying.com/united-airlines-loses-bid-to-dismiss-lawsuit-over-windowless-window-seats/",
+      "summary": "<p>Article URL: <a href=\"https://simpleflying.com/united-airlines-loses-bid-to-dismiss-lawsuit-over-windowless-window-seats/\">https://simpleflying.com/united-airlines-loses-bid-to-dismiss-lawsuit-over...",
+      "published": "2026-07-07T14:23:31+00:00",
+      "domain": "simpleflying.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -421,11 +437,11 @@
       }
     },
     {
-      "title": "HTTP 1.x proxy that makes old web browsers usable again in the Web 2.0 world",
-      "link": "https://github.com/atauenis/webone",
-      "summary": "<p>Article URL: <a href=\"https://github.com/atauenis/webone\">https://github.com/atauenis/webone</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48815434\">https://news.ycombinato...",
-      "published": "2026-07-07T09:26:38+00:00",
-      "domain": "github.com",
+      "title": "A Peek Inside Jim Henson's Creature Shop, Where Whimsical Puppets Are Designed",
+      "link": "https://www.smithsonianmag.com/travel/a-peek-inside-jim-hensons-creature-shop-where-sesame-street-characters-and-other-whimsical-puppets-are-designed-180989051/",
+      "summary": "<p>Article URL: <a href=\"https://www.smithsonianmag.com/travel/a-peek-inside-jim-hensons-creature-shop-where-sesame-street-characters-and-other-whimsical-puppets-are-designed-180989051/\">https://www.s...",
+      "published": "2026-07-07T14:23:26+00:00",
+      "domain": "smithsonianmag.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -437,11 +453,11 @@
       }
     },
     {
-      "title": "How to sequence your own DNA at home",
-      "link": "https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48812156\">Comments</a>...",
-      "published": "2026-07-07T00:14:21+00:00",
-      "domain": "bradleywoolf.com",
+      "title": "Chat Control 1.0 and 2.0 Explained",
+      "link": "https://fightchatcontrol.eu/chat-control-overview",
+      "summary": "<p>Article URL: <a href=\"https://fightchatcontrol.eu/chat-control-overview\">https://fightchatcontrol.eu/chat-control-overview</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=488...",
+      "published": "2026-07-07T14:23:15+00:00",
+      "domain": "fightchatcontrol.eu",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -453,26 +469,10 @@
       }
     },
     {
-      "title": "Iran-Linked Hackers Use New Cavern C2 Framework to Target Israeli Organizations",
-      "link": "https://thehackernews.com/2026/07/iran-linked-hackers-use-new-cavern-c2.html",
-      "summary": "An Iranian hacking group affiliated with Iran's Ministry of Intelligence and Security (MOIS) has been wielding a previously undocumented modular command-and-control (C2) framework dubbed Cavern (aka C...",
-      "published": "2026-07-07T00:04:26+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "AI\u2019s $11 trillion compute boom may leave Wall Street holding a $7 trillion debt market",
-      "link": "https://www.reddit.com/r/technology/comments/1upenga/ais_11_trillion_compute_boom_may_leave_wall/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1upenga/ais_11_trillion_compute_boom_may_leave_wall/\"> <img alt=\"AI\u2019s $11 trillion compute boom may leave Wall Street holding a $...",
-      "published": "2026-07-06T23:56:59+00:00",
+      "title": "The Supreme Court just ruled that police need a warrant to use phone location data",
+      "link": "https://www.reddit.com/r/technology/comments/1upuztz/the_supreme_court_just_ruled_that_police_need_a/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1upuztz/the_supreme_court_just_ruled_that_police_need_a/\"> <img alt=\"The Supreme Court just ruled that police need a warrant to u...",
+      "published": "2026-07-07T13:23:18+00:00",
       "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
@@ -487,10 +487,10 @@
   ],
   "all_articles": [
     {
-      "title": "CERT/CC Warns of Hidden Admin Backdoor in Tenda Router Firmware",
-      "link": "https://thehackernews.com/2026/07/certcc-warns-of-hidden-admin-backdoor.html",
-      "summary": "Several versions of firmware released by Chinese network device manufacturer Tenda have been found to embed an undocumented authentication backdoor that enables administrative access to the devices' w...",
-      "published": "2026-07-07T12:10:47+05:30",
+      "title": "Court Filing Reveals Windows Device ID Helped FBI Trace Alleged Scattered Spider Hacker",
+      "link": "https://thehackernews.com/2026/07/court-filing-reveals-windows-device-id.html",
+      "summary": "U.S. prosecutors linked an alleged Scattered Spider hacker to a break-in at a luxury jewelry retailer using a persistent Windows device ID, according to a newly unsealed federal complaint.\n\nMicrosoft ...",
+      "published": "2026-07-07T18:57:20+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -503,10 +503,10 @@
       }
     },
     {
-      "title": "BeyondTrust Patches Critical Auth Bypass Flaws in Remote Support and PRA",
-      "link": "https://thehackernews.com/2026/07/beyondtrust-patches-critical-auth.html",
-      "summary": "BeyondTrust has released updates to address two critical security flaws affecting Remote Support (RS) and Privileged Remote Access (PRA) products that, if successfully exploited, could allow unauthent...",
-      "published": "2026-07-07T10:46:51+05:30",
+      "title": "Writer AI Flaw Could Let Agent Previews Leak Session Tokens Across Tenants",
+      "link": "https://thehackernews.com/2026/07/writer-ai-flaw-could-let-agent-previews.html",
+      "summary": "Cybersecurity researchers have disclosed details of a now-patched critical session isolation vulnerability in Writer, an enterprise generative artificial intelligence (AI) platform, that could result ...",
+      "published": "2026-07-07T18:57:09+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -519,11 +519,11 @@
       }
     },
     {
-      "title": "Hy3 \u2013 295B MoE model (21B active, 192 experts)",
-      "link": "https://twitter.com/TencentHunyuan/status/2074148098876768478",
-      "summary": "<p>Article URL: <a href=\"https://twitter.com/TencentHunyuan/status/2074148098876768478\">https://twitter.com/TencentHunyuan/status/2074148098876768478</a></p>\n<p>Comments URL: <a href=\"https://news.yco...",
-      "published": "2026-07-07T09:37:43+00:00",
-      "domain": "twitter.com",
+      "title": "What Changes When Your Software Supply Chain Includes AI Writing Your Code?",
+      "link": "https://thehackernews.com/2026/07/what-changes-when-your-software-supply.html",
+      "summary": "Software supply chain security was hard enough. Then AI joined the build pipeline.\n\nFor five years, \"software supply chain security\" meant one question: what's in your code? Which open-source packages...",
+      "published": "2026-07-07T17:00:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -535,11 +535,11 @@
       }
     },
     {
-      "title": "Agent Box",
-      "link": "https://agent-box.sh/",
-      "summary": "<p>Article URL: <a href=\"https://agent-box.sh/\">https://agent-box.sh/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48815504\">https://news.ycombinator.com/item?id=48815504</a>...",
-      "published": "2026-07-07T09:34:56+00:00",
-      "domain": "agent-box.sh",
+      "title": "Suspected China-Aligned Hackers Exploit Roundcube Flaws Against Universities",
+      "link": "https://thehackernews.com/2026/07/suspected-china-aligned-hackers-exploit.html",
+      "summary": "A suspected China-aligned threat activity cluster has been observed exploiting Roundcube webmail software belonging to physics and engineering departments of U.S. and Canadian universities as part of ...",
+      "published": "2026-07-07T14:40:51+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -551,10 +551,26 @@
       }
     },
     {
-      "title": "Show HN: Graphenium \u2013 Local Trust Layer for AI Agents (Rust, Datalog, Salsa)",
-      "link": "https://github.com/lambda-alpha-labs/Graphenium",
-      "summary": "<p>Article URL: <a href=\"https://github.com/lambda-alpha-labs/Graphenium\">https://github.com/lambda-alpha-labs/Graphenium</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4881545...",
-      "published": "2026-07-07T09:29:16+00:00",
+      "title": "Treasury Has an Internal Report Warning About the Dangers of an AI Bubble",
+      "link": "https://www.notus.org/economy/treasury-internal-report-warning-dangers-ai-bubble",
+      "summary": "<p>Article URL: <a href=\"https://www.notus.org/economy/treasury-internal-report-warning-dangers-ai-bubble\">https://www.notus.org/economy/treasury-internal-report-warning-dangers-ai-bubble</a></p>\n<p>C...",
+      "published": "2026-07-07T14:26:16+00:00",
+      "domain": "notus.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Pqc-scan: scan your codebase for quantum-vulnerable cryptography",
+      "link": "https://github.com/sachhg/pqc-scan",
+      "summary": "<p>Article URL: <a href=\"https://github.com/sachhg/pqc-scan\">https://github.com/sachhg/pqc-scan</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48818331\">https://news.ycombinato...",
+      "published": "2026-07-07T14:24:17+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -567,11 +583,11 @@
       }
     },
     {
-      "title": "AI coding assistant is quietly shipping your secrets",
-      "link": "https://reykur.io/blog/ai-coding-assistant-shipping-secrets/",
-      "summary": "<p>Article URL: <a href=\"https://reykur.io/blog/ai-coding-assistant-shipping-secrets/\">https://reykur.io/blog/ai-coding-assistant-shipping-secrets/</a></p>\n<p>Comments URL: <a href=\"https://news.ycomb...",
-      "published": "2026-07-07T09:28:08+00:00",
-      "domain": "reykur.io",
+      "title": "United Airlines Loses Bid to Dismiss Lawsuit over 'Windowless' Window Seats",
+      "link": "https://simpleflying.com/united-airlines-loses-bid-to-dismiss-lawsuit-over-windowless-window-seats/",
+      "summary": "<p>Article URL: <a href=\"https://simpleflying.com/united-airlines-loses-bid-to-dismiss-lawsuit-over-windowless-window-seats/\">https://simpleflying.com/united-airlines-loses-bid-to-dismiss-lawsuit-over...",
+      "published": "2026-07-07T14:23:31+00:00",
+      "domain": "simpleflying.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -583,11 +599,11 @@
       }
     },
     {
-      "title": "HTTP 1.x proxy that makes old web browsers usable again in the Web 2.0 world",
-      "link": "https://github.com/atauenis/webone",
-      "summary": "<p>Article URL: <a href=\"https://github.com/atauenis/webone\">https://github.com/atauenis/webone</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48815434\">https://news.ycombinato...",
-      "published": "2026-07-07T09:26:38+00:00",
-      "domain": "github.com",
+      "title": "A Peek Inside Jim Henson's Creature Shop, Where Whimsical Puppets Are Designed",
+      "link": "https://www.smithsonianmag.com/travel/a-peek-inside-jim-hensons-creature-shop-where-sesame-street-characters-and-other-whimsical-puppets-are-designed-180989051/",
+      "summary": "<p>Article URL: <a href=\"https://www.smithsonianmag.com/travel/a-peek-inside-jim-hensons-creature-shop-where-sesame-street-characters-and-other-whimsical-puppets-are-designed-180989051/\">https://www.s...",
+      "published": "2026-07-07T14:23:26+00:00",
+      "domain": "smithsonianmag.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -599,11 +615,11 @@
       }
     },
     {
-      "title": "How to sequence your own DNA at home",
-      "link": "https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48812156\">Comments</a>...",
-      "published": "2026-07-07T00:14:21+00:00",
-      "domain": "bradleywoolf.com",
+      "title": "Chat Control 1.0 and 2.0 Explained",
+      "link": "https://fightchatcontrol.eu/chat-control-overview",
+      "summary": "<p>Article URL: <a href=\"https://fightchatcontrol.eu/chat-control-overview\">https://fightchatcontrol.eu/chat-control-overview</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=488...",
+      "published": "2026-07-07T14:23:15+00:00",
+      "domain": "fightchatcontrol.eu",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -615,26 +631,10 @@
       }
     },
     {
-      "title": "Iran-Linked Hackers Use New Cavern C2 Framework to Target Israeli Organizations",
-      "link": "https://thehackernews.com/2026/07/iran-linked-hackers-use-new-cavern-c2.html",
-      "summary": "An Iranian hacking group affiliated with Iran's Ministry of Intelligence and Security (MOIS) has been wielding a previously undocumented modular command-and-control (C2) framework dubbed Cavern (aka C...",
-      "published": "2026-07-07T00:04:26+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "AI\u2019s $11 trillion compute boom may leave Wall Street holding a $7 trillion debt market",
-      "link": "https://www.reddit.com/r/technology/comments/1upenga/ais_11_trillion_compute_boom_may_leave_wall/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1upenga/ais_11_trillion_compute_boom_may_leave_wall/\"> <img alt=\"AI\u2019s $11 trillion compute boom may leave Wall Street holding a $...",
-      "published": "2026-07-06T23:56:59+00:00",
+      "title": "The Supreme Court just ruled that police need a warrant to use phone location data",
+      "link": "https://www.reddit.com/r/technology/comments/1upuztz/the_supreme_court_just_ruled_that_police_need_a/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1upuztz/the_supreme_court_just_ruled_that_police_need_a/\"> <img alt=\"The Supreme Court just ruled that police need a warrant to u...",
+      "published": "2026-07-07T13:23:18+00:00",
       "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
