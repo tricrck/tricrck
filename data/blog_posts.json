@@ -1,29 +1,11 @@
 {
   "chaos_ranked": [
     {
-      "title": "16-Year-Old Linux KVM Flaw Lets Guest VMs Escape to Host on Intel and AMD x86 Systems",
-      "link": "https://thehackernews.com/2026/07/16-year-old-linux-kvm-flaw-lets-guest.html",
-      "summary": "A use-after-free bug in Linux's KVM hypervisor can be triggered from a guest virtual machine to corrupt the shadow-page state of the host kernel that runs it.\n\nDubbed 'Januscape' and tracked as&nbsp;C...",
-      "published": "2026-07-06T23:07:01+05:30",
+      "title": "CERT/CC Warns of Hidden Admin Backdoor in Tenda Router Firmware",
+      "link": "https://thehackernews.com/2026/07/certcc-warns-of-hidden-admin-backdoor.html",
+      "summary": "Several versions of firmware released by Chinese network device manufacturer Tenda have been found to embed an undocumented authentication backdoor that enables administrative access to the devices' w...",
+      "published": "2026-07-07T12:10:47+05:30",
       "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 9.2,
-        "anarchy": 3.0,
-        "overall": 6.1
-      },
-      "keywords": {
-        "chaos": [
-          "bug"
-        ],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "DARPA program to make 30 yr batteries for drones from nuclear waste",
-      "link": "https://www.defenseone.com/technology/2026/07/these-light-weight-power-cells-run-nuclear-waste-and-could-power-next-gen-drones/414585/",
-      "summary": "<p>Article URL: <a href=\"https://www.defenseone.com/technology/2026/07/these-light-weight-power-cells-run-nuclear-waste-and-could-power-next-gen-drones/414585/\">https://www.defenseone.com/technology/2...",
-      "published": "2026-07-07T03:23:27+00:00",
-      "domain": "defenseone.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -35,10 +17,26 @@
       }
     },
     {
-      "title": "Why \"a nice place to work\" doesn't just happen",
-      "link": "https://twitter.com/nithin0dha/status/2074098865511563473",
-      "summary": "<p>Article URL: <a href=\"https://twitter.com/nithin0dha/status/2074098865511563473\">https://twitter.com/nithin0dha/status/2074098865511563473</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator...",
-      "published": "2026-07-07T03:22:12+00:00",
+      "title": "BeyondTrust Patches Critical Auth Bypass Flaws in Remote Support and PRA",
+      "link": "https://thehackernews.com/2026/07/beyondtrust-patches-critical-auth.html",
+      "summary": "BeyondTrust has released updates to address two critical security flaws affecting Remote Support (RS) and Privileged Remote Access (PRA) products that, if successfully exploited, could allow unauthent...",
+      "published": "2026-07-07T10:46:51+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Hy3 \u2013 295B MoE model (21B active, 192 experts)",
+      "link": "https://twitter.com/TencentHunyuan/status/2074148098876768478",
+      "summary": "<p>Article URL: <a href=\"https://twitter.com/TencentHunyuan/status/2074148098876768478\">https://twitter.com/TencentHunyuan/status/2074148098876768478</a></p>\n<p>Comments URL: <a href=\"https://news.yco...",
+      "published": "2026-07-07T09:37:43+00:00",
       "domain": "twitter.com",
       "scores": {
         "chaos": 3.0,
@@ -51,11 +49,11 @@
       }
     },
     {
-      "title": "Unis are relying on AI-detection software to catch cheating. Does it work",
-      "link": "https://www.nature.com/articles/d41586-026-01358-2",
-      "summary": "<p>Article URL: <a href=\"https://www.nature.com/articles/d41586-026-01358-2\">https://www.nature.com/articles/d41586-026-01358-2</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4...",
-      "published": "2026-07-07T03:15:34+00:00",
-      "domain": "nature.com",
+      "title": "Agent Box",
+      "link": "https://agent-box.sh/",
+      "summary": "<p>Article URL: <a href=\"https://agent-box.sh/\">https://agent-box.sh/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48815504\">https://news.ycombinator.com/item?id=48815504</a>...",
+      "published": "2026-07-07T09:34:56+00:00",
+      "domain": "agent-box.sh",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -67,11 +65,11 @@
       }
     },
     {
-      "title": "Amor Fati Entropy",
-      "link": "https://hollisrobbinsanecdotal.substack.com/p/amor-fati-entropy",
-      "summary": "<p>Article URL: <a href=\"https://hollisrobbinsanecdotal.substack.com/p/amor-fati-entropy\">https://hollisrobbinsanecdotal.substack.com/p/amor-fati-entropy</a></p>\n<p>Comments URL: <a href=\"https://news...",
-      "published": "2026-07-07T03:15:23+00:00",
-      "domain": "hollisrobbinsanecdotal.substack.com",
+      "title": "Show HN: Graphenium \u2013 Local Trust Layer for AI Agents (Rust, Datalog, Salsa)",
+      "link": "https://github.com/lambda-alpha-labs/Graphenium",
+      "summary": "<p>Article URL: <a href=\"https://github.com/lambda-alpha-labs/Graphenium\">https://github.com/lambda-alpha-labs/Graphenium</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4881545...",
+      "published": "2026-07-07T09:29:16+00:00",
+      "domain": "github.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -83,11 +81,27 @@
       }
     },
     {
-      "title": "Show HN: Sel \u2013 macOS screen sharing that shows only the windows you pick",
-      "link": "https://sel.toron.dev",
-      "summary": "<p>Hi, Aria here.<p>I do a lot of live demos for customers, and I kept being nervous about what else was on my screen: notifications, other clients' windows, a messy desktop. Sharing one window is saf...",
-      "published": "2026-07-07T03:09:59+00:00",
-      "domain": "sel.toron.dev",
+      "title": "AI coding assistant is quietly shipping your secrets",
+      "link": "https://reykur.io/blog/ai-coding-assistant-shipping-secrets/",
+      "summary": "<p>Article URL: <a href=\"https://reykur.io/blog/ai-coding-assistant-shipping-secrets/\">https://reykur.io/blog/ai-coding-assistant-shipping-secrets/</a></p>\n<p>Comments URL: <a href=\"https://news.ycomb...",
+      "published": "2026-07-07T09:28:08+00:00",
+      "domain": "reykur.io",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "HTTP 1.x proxy that makes old web browsers usable again in the Web 2.0 world",
+      "link": "https://github.com/atauenis/webone",
+      "summary": "<p>Article URL: <a href=\"https://github.com/atauenis/webone\">https://github.com/atauenis/webone</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48815434\">https://news.ycombinato...",
+      "published": "2026-07-07T09:26:38+00:00",
+      "domain": "github.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -131,26 +145,10 @@
       }
     },
     {
-      "title": "Fable turned reMarkable into Tom Riddle's diary from Harry Potter",
-      "link": "https://github.com/MaximeRivest/Riddle",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48811591\">Comments</a>...",
-      "published": "2026-07-06T23:00:24+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Meta\u2019s AI Data Center Caught Infecting Town Water Supply With Deadly Bacteria",
-      "link": "https://www.reddit.com/r/technology/comments/1upbor5/metas_ai_data_center_caught_infecting_town_water/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1upbor5/metas_ai_data_center_caught_infecting_town_water/\"> <img alt=\"Meta\u2019s AI Data Center Caught Infecting Town Water Supply Wi...",
-      "published": "2026-07-06T22:00:58+00:00",
+      "title": "AI\u2019s $11 trillion compute boom may leave Wall Street holding a $7 trillion debt market",
+      "link": "https://www.reddit.com/r/technology/comments/1upenga/ais_11_trillion_compute_boom_may_leave_wall/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1upenga/ais_11_trillion_compute_boom_may_leave_wall/\"> <img alt=\"AI\u2019s $11 trillion compute boom may leave Wall Street holding a $...",
+      "published": "2026-07-06T23:56:59+00:00",
       "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
@@ -165,11 +163,11 @@
   ],
   "anarchy_ranked": [
     {
-      "title": "DARPA program to make 30 yr batteries for drones from nuclear waste",
-      "link": "https://www.defenseone.com/technology/2026/07/these-light-weight-power-cells-run-nuclear-waste-and-could-power-next-gen-drones/414585/",
-      "summary": "<p>Article URL: <a href=\"https://www.defenseone.com/technology/2026/07/these-light-weight-power-cells-run-nuclear-waste-and-could-power-next-gen-drones/414585/\">https://www.defenseone.com/technology/2...",
-      "published": "2026-07-07T03:23:27+00:00",
-      "domain": "defenseone.com",
+      "title": "CERT/CC Warns of Hidden Admin Backdoor in Tenda Router Firmware",
+      "link": "https://thehackernews.com/2026/07/certcc-warns-of-hidden-admin-backdoor.html",
+      "summary": "Several versions of firmware released by Chinese network device manufacturer Tenda have been found to embed an undocumented authentication backdoor that enables administrative access to the devices' w...",
+      "published": "2026-07-07T12:10:47+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -181,10 +179,26 @@
       }
     },
     {
-      "title": "Why \"a nice place to work\" doesn't just happen",
-      "link": "https://twitter.com/nithin0dha/status/2074098865511563473",
-      "summary": "<p>Article URL: <a href=\"https://twitter.com/nithin0dha/status/2074098865511563473\">https://twitter.com/nithin0dha/status/2074098865511563473</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator...",
-      "published": "2026-07-07T03:22:12+00:00",
+      "title": "BeyondTrust Patches Critical Auth Bypass Flaws in Remote Support and PRA",
+      "link": "https://thehackernews.com/2026/07/beyondtrust-patches-critical-auth.html",
+      "summary": "BeyondTrust has released updates to address two critical security flaws affecting Remote Support (RS) and Privileged Remote Access (PRA) products that, if successfully exploited, could allow unauthent...",
+      "published": "2026-07-07T10:46:51+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Hy3 \u2013 295B MoE model (21B active, 192 experts)",
+      "link": "https://twitter.com/TencentHunyuan/status/2074148098876768478",
+      "summary": "<p>Article URL: <a href=\"https://twitter.com/TencentHunyuan/status/2074148098876768478\">https://twitter.com/TencentHunyuan/status/2074148098876768478</a></p>\n<p>Comments URL: <a href=\"https://news.yco...",
+      "published": "2026-07-07T09:37:43+00:00",
       "domain": "twitter.com",
       "scores": {
         "chaos": 3.0,
@@ -197,11 +211,11 @@
       }
     },
     {
-      "title": "Unis are relying on AI-detection software to catch cheating. Does it work",
-      "link": "https://www.nature.com/articles/d41586-026-01358-2",
-      "summary": "<p>Article URL: <a href=\"https://www.nature.com/articles/d41586-026-01358-2\">https://www.nature.com/articles/d41586-026-01358-2</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4...",
-      "published": "2026-07-07T03:15:34+00:00",
-      "domain": "nature.com",
+      "title": "Agent Box",
+      "link": "https://agent-box.sh/",
+      "summary": "<p>Article URL: <a href=\"https://agent-box.sh/\">https://agent-box.sh/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48815504\">https://news.ycombinator.com/item?id=48815504</a>...",
+      "published": "2026-07-07T09:34:56+00:00",
+      "domain": "agent-box.sh",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -213,11 +227,11 @@
       }
     },
     {
-      "title": "Amor Fati Entropy",
-      "link": "https://hollisrobbinsanecdotal.substack.com/p/amor-fati-entropy",
-      "summary": "<p>Article URL: <a href=\"https://hollisrobbinsanecdotal.substack.com/p/amor-fati-entropy\">https://hollisrobbinsanecdotal.substack.com/p/amor-fati-entropy</a></p>\n<p>Comments URL: <a href=\"https://news...",
-      "published": "2026-07-07T03:15:23+00:00",
-      "domain": "hollisrobbinsanecdotal.substack.com",
+      "title": "Show HN: Graphenium \u2013 Local Trust Layer for AI Agents (Rust, Datalog, Salsa)",
+      "link": "https://github.com/lambda-alpha-labs/Graphenium",
+      "summary": "<p>Article URL: <a href=\"https://github.com/lambda-alpha-labs/Graphenium\">https://github.com/lambda-alpha-labs/Graphenium</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4881545...",
+      "published": "2026-07-07T09:29:16+00:00",
+      "domain": "github.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -229,11 +243,27 @@
       }
     },
     {
-      "title": "Show HN: Sel \u2013 macOS screen sharing that shows only the windows you pick",
-      "link": "https://sel.toron.dev",
-      "summary": "<p>Hi, Aria here.<p>I do a lot of live demos for customers, and I kept being nervous about what else was on my screen: notifications, other clients' windows, a messy desktop. Sharing one window is saf...",
-      "published": "2026-07-07T03:09:59+00:00",
-      "domain": "sel.toron.dev",
+      "title": "AI coding assistant is quietly shipping your secrets",
+      "link": "https://reykur.io/blog/ai-coding-assistant-shipping-secrets/",
+      "summary": "<p>Article URL: <a href=\"https://reykur.io/blog/ai-coding-assistant-shipping-secrets/\">https://reykur.io/blog/ai-coding-assistant-shipping-secrets/</a></p>\n<p>Comments URL: <a href=\"https://news.ycomb...",
+      "published": "2026-07-07T09:28:08+00:00",
+      "domain": "reykur.io",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "HTTP 1.x proxy that makes old web browsers usable again in the Web 2.0 world",
+      "link": "https://github.com/atauenis/webone",
+      "summary": "<p>Article URL: <a href=\"https://github.com/atauenis/webone\">https://github.com/atauenis/webone</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48815434\">https://news.ycombinato...",
+      "published": "2026-07-07T09:26:38+00:00",
+      "domain": "github.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -277,44 +307,10 @@
       }
     },
     {
-      "title": "16-Year-Old Linux KVM Flaw Lets Guest VMs Escape to Host on Intel and AMD x86 Systems",
-      "link": "https://thehackernews.com/2026/07/16-year-old-linux-kvm-flaw-lets-guest.html",
-      "summary": "A use-after-free bug in Linux's KVM hypervisor can be triggered from a guest virtual machine to corrupt the shadow-page state of the host kernel that runs it.\n\nDubbed 'Januscape' and tracked as&nbsp;C...",
-      "published": "2026-07-06T23:07:01+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 9.2,
-        "anarchy": 3.0,
-        "overall": 6.1
-      },
-      "keywords": {
-        "chaos": [
-          "bug"
-        ],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Fable turned reMarkable into Tom Riddle's diary from Harry Potter",
-      "link": "https://github.com/MaximeRivest/Riddle",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48811591\">Comments</a>...",
-      "published": "2026-07-06T23:00:24+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Meta\u2019s AI Data Center Caught Infecting Town Water Supply With Deadly Bacteria",
-      "link": "https://www.reddit.com/r/technology/comments/1upbor5/metas_ai_data_center_caught_infecting_town_water/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1upbor5/metas_ai_data_center_caught_infecting_town_water/\"> <img alt=\"Meta\u2019s AI Data Center Caught Infecting Town Water Supply Wi...",
-      "published": "2026-07-06T22:00:58+00:00",
+      "title": "AI\u2019s $11 trillion compute boom may leave Wall Street holding a $7 trillion debt market",
+      "link": "https://www.reddit.com/r/technology/comments/1upenga/ais_11_trillion_compute_boom_may_leave_wall/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1upenga/ais_11_trillion_compute_boom_may_leave_wall/\"> <img alt=\"AI\u2019s $11 trillion compute boom may leave Wall Street holding a $...",
+      "published": "2026-07-06T23:56:59+00:00",
       "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
@@ -329,29 +325,11 @@
   ],
   "overall_ranked": [
     {
-      "title": "16-Year-Old Linux KVM Flaw Lets Guest VMs Escape to Host on Intel and AMD x86 Systems",
-      "link": "https://thehackernews.com/2026/07/16-year-old-linux-kvm-flaw-lets-guest.html",
-      "summary": "A use-after-free bug in Linux's KVM hypervisor can be triggered from a guest virtual machine to corrupt the shadow-page state of the host kernel that runs it.\n\nDubbed 'Januscape' and tracked as&nbsp;C...",
-      "published": "2026-07-06T23:07:01+05:30",
+      "title": "CERT/CC Warns of Hidden Admin Backdoor in Tenda Router Firmware",
+      "link": "https://thehackernews.com/2026/07/certcc-warns-of-hidden-admin-backdoor.html",
+      "summary": "Several versions of firmware released by Chinese network device manufacturer Tenda have been found to embed an undocumented authentication backdoor that enables administrative access to the devices' w...",
+      "published": "2026-07-07T12:10:47+05:30",
       "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 9.2,
-        "anarchy": 3.0,
-        "overall": 6.1
-      },
-      "keywords": {
-        "chaos": [
-          "bug"
-        ],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "DARPA program to make 30 yr batteries for drones from nuclear waste",
-      "link": "https://www.defenseone.com/technology/2026/07/these-light-weight-power-cells-run-nuclear-waste-and-could-power-next-gen-drones/414585/",
-      "summary": "<p>Article URL: <a href=\"https://www.defenseone.com/technology/2026/07/these-light-weight-power-cells-run-nuclear-waste-and-could-power-next-gen-drones/414585/\">https://www.defenseone.com/technology/2...",
-      "published": "2026-07-07T03:23:27+00:00",
-      "domain": "defenseone.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -363,10 +341,26 @@
       }
     },
     {
-      "title": "Why \"a nice place to work\" doesn't just happen",
-      "link": "https://twitter.com/nithin0dha/status/2074098865511563473",
-      "summary": "<p>Article URL: <a href=\"https://twitter.com/nithin0dha/status/2074098865511563473\">https://twitter.com/nithin0dha/status/2074098865511563473</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator...",
-      "published": "2026-07-07T03:22:12+00:00",
+      "title": "BeyondTrust Patches Critical Auth Bypass Flaws in Remote Support and PRA",
+      "link": "https://thehackernews.com/2026/07/beyondtrust-patches-critical-auth.html",
+      "summary": "BeyondTrust has released updates to address two critical security flaws affecting Remote Support (RS) and Privileged Remote Access (PRA) products that, if successfully exploited, could allow unauthent...",
+      "published": "2026-07-07T10:46:51+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Hy3 \u2013 295B MoE model (21B active, 192 experts)",
+      "link": "https://twitter.com/TencentHunyuan/status/2074148098876768478",
+      "summary": "<p>Article URL: <a href=\"https://twitter.com/TencentHunyuan/status/2074148098876768478\">https://twitter.com/TencentHunyuan/status/2074148098876768478</a></p>\n<p>Comments URL: <a href=\"https://news.yco...",
+      "published": "2026-07-07T09:37:43+00:00",
       "domain": "twitter.com",
       "scores": {
         "chaos": 3.0,
@@ -379,11 +373,11 @@
       }
     },
     {
-      "title": "Unis are relying on AI-detection software to catch cheating. Does it work",
-      "link": "https://www.nature.com/articles/d41586-026-01358-2",
-      "summary": "<p>Article URL: <a href=\"https://www.nature.com/articles/d41586-026-01358-2\">https://www.nature.com/articles/d41586-026-01358-2</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4...",
-      "published": "2026-07-07T03:15:34+00:00",
-      "domain": "nature.com",
+      "title": "Agent Box",
+      "link": "https://agent-box.sh/",
+      "summary": "<p>Article URL: <a href=\"https://agent-box.sh/\">https://agent-box.sh/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48815504\">https://news.ycombinator.com/item?id=48815504</a>...",
+      "published": "2026-07-07T09:34:56+00:00",
+      "domain": "agent-box.sh",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -395,11 +389,11 @@
       }
     },
     {
-      "title": "Amor Fati Entropy",
-      "link": "https://hollisrobbinsanecdotal.substack.com/p/amor-fati-entropy",
-      "summary": "<p>Article URL: <a href=\"https://hollisrobbinsanecdotal.substack.com/p/amor-fati-entropy\">https://hollisrobbinsanecdotal.substack.com/p/amor-fati-entropy</a></p>\n<p>Comments URL: <a href=\"https://news...",
-      "published": "2026-07-07T03:15:23+00:00",
-      "domain": "hollisrobbinsanecdotal.substack.com",
+      "title": "Show HN: Graphenium \u2013 Local Trust Layer for AI Agents (Rust, Datalog, Salsa)",
+      "link": "https://github.com/lambda-alpha-labs/Graphenium",
+      "summary": "<p>Article URL: <a href=\"https://github.com/lambda-alpha-labs/Graphenium\">https://github.com/lambda-alpha-labs/Graphenium</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4881545...",
+      "published": "2026-07-07T09:29:16+00:00",
+      "domain": "github.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -411,11 +405,27 @@
       }
     },
     {
-      "title": "Show HN: Sel \u2013 macOS screen sharing that shows only the windows you pick",
-      "link": "https://sel.toron.dev",
-      "summary": "<p>Hi, Aria here.<p>I do a lot of live demos for customers, and I kept being nervous about what else was on my screen: notifications, other clients' windows, a messy desktop. Sharing one window is saf...",
-      "published": "2026-07-07T03:09:59+00:00",
-      "domain": "sel.toron.dev",
+      "title": "AI coding assistant is quietly shipping your secrets",
+      "link": "https://reykur.io/blog/ai-coding-assistant-shipping-secrets/",
+      "summary": "<p>Article URL: <a href=\"https://reykur.io/blog/ai-coding-assistant-shipping-secrets/\">https://reykur.io/blog/ai-coding-assistant-shipping-secrets/</a></p>\n<p>Comments URL: <a href=\"https://news.ycomb...",
+      "published": "2026-07-07T09:28:08+00:00",
+      "domain": "reykur.io",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "HTTP 1.x proxy that makes old web browsers usable again in the Web 2.0 world",
+      "link": "https://github.com/atauenis/webone",
+      "summary": "<p>Article URL: <a href=\"https://github.com/atauenis/webone\">https://github.com/atauenis/webone</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48815434\">https://news.ycombinato...",
+      "published": "2026-07-07T09:26:38+00:00",
+      "domain": "github.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -459,26 +469,10 @@
       }
     },
     {
-      "title": "Fable turned reMarkable into Tom Riddle's diary from Harry Potter",
-      "link": "https://github.com/MaximeRivest/Riddle",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48811591\">Comments</a>...",
-      "published": "2026-07-06T23:00:24+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Meta\u2019s AI Data Center Caught Infecting Town Water Supply With Deadly Bacteria",
-      "link": "https://www.reddit.com/r/technology/comments/1upbor5/metas_ai_data_center_caught_infecting_town_water/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1upbor5/metas_ai_data_center_caught_infecting_town_water/\"> <img alt=\"Meta\u2019s AI Data Center Caught Infecting Town Water Supply Wi...",
-      "published": "2026-07-06T22:00:58+00:00",
+      "title": "AI\u2019s $11 trillion compute boom may leave Wall Street holding a $7 trillion debt market",
+      "link": "https://www.reddit.com/r/technology/comments/1upenga/ais_11_trillion_compute_boom_may_leave_wall/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1upenga/ais_11_trillion_compute_boom_may_leave_wall/\"> <img alt=\"AI\u2019s $11 trillion compute boom may leave Wall Street holding a $...",
+      "published": "2026-07-06T23:56:59+00:00",
       "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
@@ -493,11 +487,11 @@
   ],
   "all_articles": [
     {
-      "title": "DARPA program to make 30 yr batteries for drones from nuclear waste",
-      "link": "https://www.defenseone.com/technology/2026/07/these-light-weight-power-cells-run-nuclear-waste-and-could-power-next-gen-drones/414585/",
-      "summary": "<p>Article URL: <a href=\"https://www.defenseone.com/technology/2026/07/these-light-weight-power-cells-run-nuclear-waste-and-could-power-next-gen-drones/414585/\">https://www.defenseone.com/technology/2...",
-      "published": "2026-07-07T03:23:27+00:00",
-      "domain": "defenseone.com",
+      "title": "CERT/CC Warns of Hidden Admin Backdoor in Tenda Router Firmware",
+      "link": "https://thehackernews.com/2026/07/certcc-warns-of-hidden-admin-backdoor.html",
+      "summary": "Several versions of firmware released by Chinese network device manufacturer Tenda have been found to embed an undocumented authentication backdoor that enables administrative access to the devices' w...",
+      "published": "2026-07-07T12:10:47+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -509,10 +503,26 @@
       }
     },
     {
-      "title": "Why \"a nice place to work\" doesn't just happen",
-      "link": "https://twitter.com/nithin0dha/status/2074098865511563473",
-      "summary": "<p>Article URL: <a href=\"https://twitter.com/nithin0dha/status/2074098865511563473\">https://twitter.com/nithin0dha/status/2074098865511563473</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator...",
-      "published": "2026-07-07T03:22:12+00:00",
+      "title": "BeyondTrust Patches Critical Auth Bypass Flaws in Remote Support and PRA",
+      "link": "https://thehackernews.com/2026/07/beyondtrust-patches-critical-auth.html",
+      "summary": "BeyondTrust has released updates to address two critical security flaws affecting Remote Support (RS) and Privileged Remote Access (PRA) products that, if successfully exploited, could allow unauthent...",
+      "published": "2026-07-07T10:46:51+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Hy3 \u2013 295B MoE model (21B active, 192 experts)",
+      "link": "https://twitter.com/TencentHunyuan/status/2074148098876768478",
+      "summary": "<p>Article URL: <a href=\"https://twitter.com/TencentHunyuan/status/2074148098876768478\">https://twitter.com/TencentHunyuan/status/2074148098876768478</a></p>\n<p>Comments URL: <a href=\"https://news.yco...",
+      "published": "2026-07-07T09:37:43+00:00",
       "domain": "twitter.com",
       "scores": {
         "chaos": 3.0,
@@ -525,11 +535,11 @@
       }
     },
     {
-      "title": "Unis are relying on AI-detection software to catch cheating. Does it work",
-      "link": "https://www.nature.com/articles/d41586-026-01358-2",
-      "summary": "<p>Article URL: <a href=\"https://www.nature.com/articles/d41586-026-01358-2\">https://www.nature.com/articles/d41586-026-01358-2</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4...",
-      "published": "2026-07-07T03:15:34+00:00",
-      "domain": "nature.com",
+      "title": "Agent Box",
+      "link": "https://agent-box.sh/",
+      "summary": "<p>Article URL: <a href=\"https://agent-box.sh/\">https://agent-box.sh/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48815504\">https://news.ycombinator.com/item?id=48815504</a>...",
+      "published": "2026-07-07T09:34:56+00:00",
+      "domain": "agent-box.sh",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -541,11 +551,11 @@
       }
     },
     {
-      "title": "Amor Fati Entropy",
-      "link": "https://hollisrobbinsanecdotal.substack.com/p/amor-fati-entropy",
-      "summary": "<p>Article URL: <a href=\"https://hollisrobbinsanecdotal.substack.com/p/amor-fati-entropy\">https://hollisrobbinsanecdotal.substack.com/p/amor-fati-entropy</a></p>\n<p>Comments URL: <a href=\"https://news...",
-      "published": "2026-07-07T03:15:23+00:00",
-      "domain": "hollisrobbinsanecdotal.substack.com",
+      "title": "Show HN: Graphenium \u2013 Local Trust Layer for AI Agents (Rust, Datalog, Salsa)",
+      "link": "https://github.com/lambda-alpha-labs/Graphenium",
+      "summary": "<p>Article URL: <a href=\"https://github.com/lambda-alpha-labs/Graphenium\">https://github.com/lambda-alpha-labs/Graphenium</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4881545...",
+      "published": "2026-07-07T09:29:16+00:00",
+      "domain": "github.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -557,11 +567,27 @@
       }
     },
     {
-      "title": "Show HN: Sel \u2013 macOS screen sharing that shows only the windows you pick",
-      "link": "https://sel.toron.dev",
-      "summary": "<p>Hi, Aria here.<p>I do a lot of live demos for customers, and I kept being nervous about what else was on my screen: notifications, other clients' windows, a messy desktop. Sharing one window is saf...",
-      "published": "2026-07-07T03:09:59+00:00",
-      "domain": "sel.toron.dev",
+      "title": "AI coding assistant is quietly shipping your secrets",
+      "link": "https://reykur.io/blog/ai-coding-assistant-shipping-secrets/",
+      "summary": "<p>Article URL: <a href=\"https://reykur.io/blog/ai-coding-assistant-shipping-secrets/\">https://reykur.io/blog/ai-coding-assistant-shipping-secrets/</a></p>\n<p>Comments URL: <a href=\"https://news.ycomb...",
+      "published": "2026-07-07T09:28:08+00:00",
+      "domain": "reykur.io",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "HTTP 1.x proxy that makes old web browsers usable again in the Web 2.0 world",
+      "link": "https://github.com/atauenis/webone",
+      "summary": "<p>Article URL: <a href=\"https://github.com/atauenis/webone\">https://github.com/atauenis/webone</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48815434\">https://news.ycombinato...",
+      "published": "2026-07-07T09:26:38+00:00",
+      "domain": "github.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -605,44 +631,10 @@
       }
     },
     {
-      "title": "16-Year-Old Linux KVM Flaw Lets Guest VMs Escape to Host on Intel and AMD x86 Systems",
-      "link": "https://thehackernews.com/2026/07/16-year-old-linux-kvm-flaw-lets-guest.html",
-      "summary": "A use-after-free bug in Linux's KVM hypervisor can be triggered from a guest virtual machine to corrupt the shadow-page state of the host kernel that runs it.\n\nDubbed 'Januscape' and tracked as&nbsp;C...",
-      "published": "2026-07-06T23:07:01+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 9.2,
-        "anarchy": 3.0,
-        "overall": 6.1
-      },
-      "keywords": {
-        "chaos": [
-          "bug"
-        ],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Fable turned reMarkable into Tom Riddle's diary from Harry Potter",
-      "link": "https://github.com/MaximeRivest/Riddle",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48811591\">Comments</a>...",
-      "published": "2026-07-06T23:00:24+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Meta\u2019s AI Data Center Caught Infecting Town Water Supply With Deadly Bacteria",
-      "link": "https://www.reddit.com/r/technology/comments/1upbor5/metas_ai_data_center_caught_infecting_town_water/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1upbor5/metas_ai_data_center_caught_infecting_town_water/\"> <img alt=\"Meta\u2019s AI Data Center Caught Infecting Town Water Supply Wi...",
-      "published": "2026-07-06T22:00:58+00:00",
+      "title": "AI\u2019s $11 trillion compute boom may leave Wall Street holding a $7 trillion debt market",
+      "link": "https://www.reddit.com/r/technology/comments/1upenga/ais_11_trillion_compute_boom_may_leave_wall/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1upenga/ais_11_trillion_compute_boom_may_leave_wall/\"> <img alt=\"AI\u2019s $11 trillion compute boom may leave Wall Street holding a $...",
+      "published": "2026-07-06T23:56:59+00:00",
       "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,

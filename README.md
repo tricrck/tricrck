@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### 16-Year-Old Linux KVM Flaw Lets Guest VMs Escape to Host on Intel and AMD x86 Systems
-- **Published**: July 06, 2026
-- **Summary**: A use-after-free bug in Linux's KVM hypervisor can be triggered from a guest virtual machine to corrupt the shadow-page state of the host kernel that ...
-- **Keywords**: bug
-- [Read more](https://thehackernews.com/2026/07/16-year-old-linux-kvm-flaw-lets-guest.html)
-
-### DARPA program to make 30 yr batteries for drones from nuclear waste
+### CERT/CC Warns of Hidden Admin Backdoor in Tenda Router Firmware
 - **Published**: July 07, 2026
-- **Summary**: https://www.defenseone.com/technology/2......
-- [Read more](https://www.defenseone.com/technology/2026/07/these-light-weight-power-cells-run-nuclear-waste-and-could-power-next-gen-drones/414585/)
+- **Summary**: Several versions of firmware released by Chinese network device manufacturer Tenda have been found to embed an undocumented authentication backdoor th...
+- [Read more](https://thehackernews.com/2026/07/certcc-warns-of-hidden-admin-backdoor.html)
+
+### BeyondTrust Patches Critical Auth Bypass Flaws in Remote Support and PRA
+- **Published**: July 07, 2026
+- **Summary**: BeyondTrust has released updates to address two critical security flaws affecting Remote Support (RS) and Privileged Remote Access (PRA) products that...
+- [Read more](https://thehackernews.com/2026/07/beyondtrust-patches-critical-auth.html)
 
 ---
 
