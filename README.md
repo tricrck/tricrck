@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### France to Stop Certifying Non-Quantum-Safe Encryption
-- **Published**: July 06, 2026
-- **Summary**: https://www.schneier.com/blog/archives/2026/07/france-to-stop-certif......
-- [Read more](https://www.schneier.com/blog/archives/2026/07/france-to-stop-certifying-non-quantum-safe-encryption.html)
-
 ### 16-Year-Old Linux KVM Flaw Lets Guest VMs Escape to Host on Intel and AMD x86 Systems
 - **Published**: July 06, 2026
 - **Summary**: A use-after-free bug in Linux's KVM hypervisor can be triggered from a guest virtual machine to corrupt the shadow-page state of the host kernel that ...
 - **Keywords**: bug
 - [Read more](https://thehackernews.com/2026/07/16-year-old-linux-kvm-flaw-lets-guest.html)
+
+### DARPA program to make 30 yr batteries for drones from nuclear waste
+- **Published**: July 07, 2026
+- **Summary**: https://www.defenseone.com/technology/2......
+- [Read more](https://www.defenseone.com/technology/2026/07/these-light-weight-power-cells-run-nuclear-waste-and-could-power-next-gen-drones/414585/)
 
 ---
 

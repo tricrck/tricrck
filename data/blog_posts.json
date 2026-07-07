@@ -1,22 +1,6 @@
 {
   "chaos_ranked": [
     {
-      "title": "France to Stop Certifying Non-Quantum-Safe Encryption",
-      "link": "https://www.schneier.com/blog/archives/2026/07/france-to-stop-certifying-non-quantum-safe-encryption.html",
-      "summary": "<p>Article URL: <a href=\"https://www.schneier.com/blog/archives/2026/07/france-to-stop-certifying-non-quantum-safe-encryption.html\">https://www.schneier.com/blog/archives/2026/07/france-to-stop-certif...",
-      "published": "2026-07-06T19:47:20+00:00",
-      "domain": "schneier.com",
-      "scores": {
-        "chaos": 15.0,
-        "anarchy": 15.0,
-        "overall": 15.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
       "title": "16-Year-Old Linux KVM Flaw Lets Guest VMs Escape to Host on Intel and AMD x86 Systems",
       "link": "https://thehackernews.com/2026/07/16-year-old-linux-kvm-flaw-lets-guest.html",
       "summary": "A use-after-free bug in Linux's KVM hypervisor can be triggered from a guest virtual machine to corrupt the shadow-page state of the host kernel that runs it.\n\nDubbed 'Januscape' and tracked as&nbsp;C...",
@@ -31,6 +15,102 @@
         "chaos": [
           "bug"
         ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "DARPA program to make 30 yr batteries for drones from nuclear waste",
+      "link": "https://www.defenseone.com/technology/2026/07/these-light-weight-power-cells-run-nuclear-waste-and-could-power-next-gen-drones/414585/",
+      "summary": "<p>Article URL: <a href=\"https://www.defenseone.com/technology/2026/07/these-light-weight-power-cells-run-nuclear-waste-and-could-power-next-gen-drones/414585/\">https://www.defenseone.com/technology/2...",
+      "published": "2026-07-07T03:23:27+00:00",
+      "domain": "defenseone.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Why \"a nice place to work\" doesn't just happen",
+      "link": "https://twitter.com/nithin0dha/status/2074098865511563473",
+      "summary": "<p>Article URL: <a href=\"https://twitter.com/nithin0dha/status/2074098865511563473\">https://twitter.com/nithin0dha/status/2074098865511563473</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator...",
+      "published": "2026-07-07T03:22:12+00:00",
+      "domain": "twitter.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Unis are relying on AI-detection software to catch cheating. Does it work",
+      "link": "https://www.nature.com/articles/d41586-026-01358-2",
+      "summary": "<p>Article URL: <a href=\"https://www.nature.com/articles/d41586-026-01358-2\">https://www.nature.com/articles/d41586-026-01358-2</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4...",
+      "published": "2026-07-07T03:15:34+00:00",
+      "domain": "nature.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Amor Fati Entropy",
+      "link": "https://hollisrobbinsanecdotal.substack.com/p/amor-fati-entropy",
+      "summary": "<p>Article URL: <a href=\"https://hollisrobbinsanecdotal.substack.com/p/amor-fati-entropy\">https://hollisrobbinsanecdotal.substack.com/p/amor-fati-entropy</a></p>\n<p>Comments URL: <a href=\"https://news...",
+      "published": "2026-07-07T03:15:23+00:00",
+      "domain": "hollisrobbinsanecdotal.substack.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Sel \u2013 macOS screen sharing that shows only the windows you pick",
+      "link": "https://sel.toron.dev",
+      "summary": "<p>Hi, Aria here.<p>I do a lot of live demos for customers, and I kept being nervous about what else was on my screen: notifications, other clients' windows, a messy desktop. Sharing one window is saf...",
+      "published": "2026-07-07T03:09:59+00:00",
+      "domain": "sel.toron.dev",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "How to sequence your own DNA at home",
+      "link": "https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48812156\">Comments</a>...",
+      "published": "2026-07-07T00:14:21+00:00",
+      "domain": "bradleywoolf.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
         "anarchy": []
       }
     },
@@ -51,11 +131,11 @@
       }
     },
     {
-      "title": "Threat Actors Probe Gitea Docker Flaw CVE-2026-20896 13 Days After Disclosure",
-      "link": "https://thehackernews.com/2026/07/threat-actors-probe-gitea-docker-flaw.html",
-      "summary": "Threat actors have been observed attempting to exploit a recently patched critical security flaw in Gitea Docker images, according to Sysdig.\n\nThe vulnerability in question is CVE-2026-20896 (CVSS sco...",
-      "published": "2026-07-06T21:58:59+05:30",
-      "domain": "thehackernews.com",
+      "title": "Fable turned reMarkable into Tom Riddle's diary from Harry Potter",
+      "link": "https://github.com/MaximeRivest/Riddle",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48811591\">Comments</a>...",
+      "published": "2026-07-06T23:00:24+00:00",
+      "domain": "github.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -67,91 +147,11 @@
       }
     },
     {
-      "title": "Esolang: 2026 Topicality Proposal",
-      "link": "https://esolangs.org/wiki/Esolang:2026_topicality_proposal",
-      "summary": "<p>Article URL: <a href=\"https://esolangs.org/wiki/Esolang:2026_topicality_proposal\">https://esolangs.org/wiki/Esolang:2026_topicality_proposal</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinat...",
-      "published": "2026-07-06T19:52:37+00:00",
-      "domain": "esolangs.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Space JUNK Mysterious 'space balls' that washed up on Australian beach spark pro",
-      "link": "https://www.thesun.co.uk/news/39654579/mysterious-space-balls-australian-beach-toxic/",
-      "summary": "<p>Article URL: <a href=\"https://www.thesun.co.uk/news/39654579/mysterious-space-balls-australian-beach-toxic/\">https://www.thesun.co.uk/news/39654579/mysterious-space-balls-australian-beach-toxic/</a...",
-      "published": "2026-07-06T19:49:58+00:00",
-      "domain": "thesun.co.uk",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Verbalizable Representations Form a Global Workspace in Language Models",
-      "link": "https://transformer-circuits.pub/2026/workspace/index.html",
-      "summary": "<p>Article URL: <a href=\"https://transformer-circuits.pub/2026/workspace/index.html\">https://transformer-circuits.pub/2026/workspace/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinat...",
-      "published": "2026-07-06T19:48:58+00:00",
-      "domain": "transformer-circuits.pub",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Hacking from the Backcountry",
-      "link": "https://suthakamal.substack.com/p/hacking-from-the-backcounty",
-      "summary": "<p>Article URL: <a href=\"https://suthakamal.substack.com/p/hacking-from-the-backcounty\">https://suthakamal.substack.com/p/hacking-from-the-backcounty</a></p>\n<p>Comments URL: <a href=\"https://news.yco...",
-      "published": "2026-07-06T19:47:48+00:00",
-      "domain": "suthakamal.substack.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Dev tells Valve to fix Steam's exploitable 2-hour refund policy as \"over 55,000\" players refund his short game and even brag about it in reviews",
-      "link": "https://www.reddit.com/r/technology/comments/1up68no/dev_tells_valve_to_fix_steams_exploitable_2hour/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1up68no/dev_tells_valve_to_fix_steams_exploitable_2hour/\"> <img alt=\"Dev tells Valve to fix Steam's exploitable 2-hour refund pol...",
-      "published": "2026-07-06T18:42:11+00:00",
+      "title": "Meta\u2019s AI Data Center Caught Infecting Town Water Supply With Deadly Bacteria",
+      "link": "https://www.reddit.com/r/technology/comments/1upbor5/metas_ai_data_center_caught_infecting_town_water/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1upbor5/metas_ai_data_center_caught_infecting_town_water/\"> <img alt=\"Meta\u2019s AI Data Center Caught Infecting Town Water Supply Wi...",
+      "published": "2026-07-06T22:00:58+00:00",
       "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Linux on the Atari Jaguar. No, really.",
-      "link": "https://cakehonolulu.github.io/linux-for-jaguar/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48808663\">Comments</a>...",
-      "published": "2026-07-06T18:35:54+00:00",
-      "domain": "cakehonolulu.github.io",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -165,15 +165,95 @@
   ],
   "anarchy_ranked": [
     {
-      "title": "France to Stop Certifying Non-Quantum-Safe Encryption",
-      "link": "https://www.schneier.com/blog/archives/2026/07/france-to-stop-certifying-non-quantum-safe-encryption.html",
-      "summary": "<p>Article URL: <a href=\"https://www.schneier.com/blog/archives/2026/07/france-to-stop-certifying-non-quantum-safe-encryption.html\">https://www.schneier.com/blog/archives/2026/07/france-to-stop-certif...",
-      "published": "2026-07-06T19:47:20+00:00",
-      "domain": "schneier.com",
+      "title": "DARPA program to make 30 yr batteries for drones from nuclear waste",
+      "link": "https://www.defenseone.com/technology/2026/07/these-light-weight-power-cells-run-nuclear-waste-and-could-power-next-gen-drones/414585/",
+      "summary": "<p>Article URL: <a href=\"https://www.defenseone.com/technology/2026/07/these-light-weight-power-cells-run-nuclear-waste-and-could-power-next-gen-drones/414585/\">https://www.defenseone.com/technology/2...",
+      "published": "2026-07-07T03:23:27+00:00",
+      "domain": "defenseone.com",
       "scores": {
-        "chaos": 15.0,
-        "anarchy": 15.0,
-        "overall": 15.0
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Why \"a nice place to work\" doesn't just happen",
+      "link": "https://twitter.com/nithin0dha/status/2074098865511563473",
+      "summary": "<p>Article URL: <a href=\"https://twitter.com/nithin0dha/status/2074098865511563473\">https://twitter.com/nithin0dha/status/2074098865511563473</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator...",
+      "published": "2026-07-07T03:22:12+00:00",
+      "domain": "twitter.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Unis are relying on AI-detection software to catch cheating. Does it work",
+      "link": "https://www.nature.com/articles/d41586-026-01358-2",
+      "summary": "<p>Article URL: <a href=\"https://www.nature.com/articles/d41586-026-01358-2\">https://www.nature.com/articles/d41586-026-01358-2</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4...",
+      "published": "2026-07-07T03:15:34+00:00",
+      "domain": "nature.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Amor Fati Entropy",
+      "link": "https://hollisrobbinsanecdotal.substack.com/p/amor-fati-entropy",
+      "summary": "<p>Article URL: <a href=\"https://hollisrobbinsanecdotal.substack.com/p/amor-fati-entropy\">https://hollisrobbinsanecdotal.substack.com/p/amor-fati-entropy</a></p>\n<p>Comments URL: <a href=\"https://news...",
+      "published": "2026-07-07T03:15:23+00:00",
+      "domain": "hollisrobbinsanecdotal.substack.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Sel \u2013 macOS screen sharing that shows only the windows you pick",
+      "link": "https://sel.toron.dev",
+      "summary": "<p>Hi, Aria here.<p>I do a lot of live demos for customers, and I kept being nervous about what else was on my screen: notifications, other clients' windows, a messy desktop. Sharing one window is saf...",
+      "published": "2026-07-07T03:09:59+00:00",
+      "domain": "sel.toron.dev",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "How to sequence your own DNA at home",
+      "link": "https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48812156\">Comments</a>...",
+      "published": "2026-07-07T00:14:21+00:00",
+      "domain": "bradleywoolf.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
       },
       "keywords": {
         "chaos": [],
@@ -215,11 +295,11 @@
       }
     },
     {
-      "title": "Threat Actors Probe Gitea Docker Flaw CVE-2026-20896 13 Days After Disclosure",
-      "link": "https://thehackernews.com/2026/07/threat-actors-probe-gitea-docker-flaw.html",
-      "summary": "Threat actors have been observed attempting to exploit a recently patched critical security flaw in Gitea Docker images, according to Sysdig.\n\nThe vulnerability in question is CVE-2026-20896 (CVSS sco...",
-      "published": "2026-07-06T21:58:59+05:30",
-      "domain": "thehackernews.com",
+      "title": "Fable turned reMarkable into Tom Riddle's diary from Harry Potter",
+      "link": "https://github.com/MaximeRivest/Riddle",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48811591\">Comments</a>...",
+      "published": "2026-07-06T23:00:24+00:00",
+      "domain": "github.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -231,91 +311,11 @@
       }
     },
     {
-      "title": "Esolang: 2026 Topicality Proposal",
-      "link": "https://esolangs.org/wiki/Esolang:2026_topicality_proposal",
-      "summary": "<p>Article URL: <a href=\"https://esolangs.org/wiki/Esolang:2026_topicality_proposal\">https://esolangs.org/wiki/Esolang:2026_topicality_proposal</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinat...",
-      "published": "2026-07-06T19:52:37+00:00",
-      "domain": "esolangs.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Space JUNK Mysterious 'space balls' that washed up on Australian beach spark pro",
-      "link": "https://www.thesun.co.uk/news/39654579/mysterious-space-balls-australian-beach-toxic/",
-      "summary": "<p>Article URL: <a href=\"https://www.thesun.co.uk/news/39654579/mysterious-space-balls-australian-beach-toxic/\">https://www.thesun.co.uk/news/39654579/mysterious-space-balls-australian-beach-toxic/</a...",
-      "published": "2026-07-06T19:49:58+00:00",
-      "domain": "thesun.co.uk",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Verbalizable Representations Form a Global Workspace in Language Models",
-      "link": "https://transformer-circuits.pub/2026/workspace/index.html",
-      "summary": "<p>Article URL: <a href=\"https://transformer-circuits.pub/2026/workspace/index.html\">https://transformer-circuits.pub/2026/workspace/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinat...",
-      "published": "2026-07-06T19:48:58+00:00",
-      "domain": "transformer-circuits.pub",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Hacking from the Backcountry",
-      "link": "https://suthakamal.substack.com/p/hacking-from-the-backcounty",
-      "summary": "<p>Article URL: <a href=\"https://suthakamal.substack.com/p/hacking-from-the-backcounty\">https://suthakamal.substack.com/p/hacking-from-the-backcounty</a></p>\n<p>Comments URL: <a href=\"https://news.yco...",
-      "published": "2026-07-06T19:47:48+00:00",
-      "domain": "suthakamal.substack.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Dev tells Valve to fix Steam's exploitable 2-hour refund policy as \"over 55,000\" players refund his short game and even brag about it in reviews",
-      "link": "https://www.reddit.com/r/technology/comments/1up68no/dev_tells_valve_to_fix_steams_exploitable_2hour/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1up68no/dev_tells_valve_to_fix_steams_exploitable_2hour/\"> <img alt=\"Dev tells Valve to fix Steam's exploitable 2-hour refund pol...",
-      "published": "2026-07-06T18:42:11+00:00",
+      "title": "Meta\u2019s AI Data Center Caught Infecting Town Water Supply With Deadly Bacteria",
+      "link": "https://www.reddit.com/r/technology/comments/1upbor5/metas_ai_data_center_caught_infecting_town_water/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1upbor5/metas_ai_data_center_caught_infecting_town_water/\"> <img alt=\"Meta\u2019s AI Data Center Caught Infecting Town Water Supply Wi...",
+      "published": "2026-07-06T22:00:58+00:00",
       "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Linux on the Atari Jaguar. No, really.",
-      "link": "https://cakehonolulu.github.io/linux-for-jaguar/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48808663\">Comments</a>...",
-      "published": "2026-07-06T18:35:54+00:00",
-      "domain": "cakehonolulu.github.io",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -329,22 +329,6 @@
   ],
   "overall_ranked": [
     {
-      "title": "France to Stop Certifying Non-Quantum-Safe Encryption",
-      "link": "https://www.schneier.com/blog/archives/2026/07/france-to-stop-certifying-non-quantum-safe-encryption.html",
-      "summary": "<p>Article URL: <a href=\"https://www.schneier.com/blog/archives/2026/07/france-to-stop-certifying-non-quantum-safe-encryption.html\">https://www.schneier.com/blog/archives/2026/07/france-to-stop-certif...",
-      "published": "2026-07-06T19:47:20+00:00",
-      "domain": "schneier.com",
-      "scores": {
-        "chaos": 15.0,
-        "anarchy": 15.0,
-        "overall": 15.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
       "title": "16-Year-Old Linux KVM Flaw Lets Guest VMs Escape to Host on Intel and AMD x86 Systems",
       "link": "https://thehackernews.com/2026/07/16-year-old-linux-kvm-flaw-lets-guest.html",
       "summary": "A use-after-free bug in Linux's KVM hypervisor can be triggered from a guest virtual machine to corrupt the shadow-page state of the host kernel that runs it.\n\nDubbed 'Januscape' and tracked as&nbsp;C...",
@@ -359,6 +343,102 @@
         "chaos": [
           "bug"
         ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "DARPA program to make 30 yr batteries for drones from nuclear waste",
+      "link": "https://www.defenseone.com/technology/2026/07/these-light-weight-power-cells-run-nuclear-waste-and-could-power-next-gen-drones/414585/",
+      "summary": "<p>Article URL: <a href=\"https://www.defenseone.com/technology/2026/07/these-light-weight-power-cells-run-nuclear-waste-and-could-power-next-gen-drones/414585/\">https://www.defenseone.com/technology/2...",
+      "published": "2026-07-07T03:23:27+00:00",
+      "domain": "defenseone.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Why \"a nice place to work\" doesn't just happen",
+      "link": "https://twitter.com/nithin0dha/status/2074098865511563473",
+      "summary": "<p>Article URL: <a href=\"https://twitter.com/nithin0dha/status/2074098865511563473\">https://twitter.com/nithin0dha/status/2074098865511563473</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator...",
+      "published": "2026-07-07T03:22:12+00:00",
+      "domain": "twitter.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Unis are relying on AI-detection software to catch cheating. Does it work",
+      "link": "https://www.nature.com/articles/d41586-026-01358-2",
+      "summary": "<p>Article URL: <a href=\"https://www.nature.com/articles/d41586-026-01358-2\">https://www.nature.com/articles/d41586-026-01358-2</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4...",
+      "published": "2026-07-07T03:15:34+00:00",
+      "domain": "nature.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Amor Fati Entropy",
+      "link": "https://hollisrobbinsanecdotal.substack.com/p/amor-fati-entropy",
+      "summary": "<p>Article URL: <a href=\"https://hollisrobbinsanecdotal.substack.com/p/amor-fati-entropy\">https://hollisrobbinsanecdotal.substack.com/p/amor-fati-entropy</a></p>\n<p>Comments URL: <a href=\"https://news...",
+      "published": "2026-07-07T03:15:23+00:00",
+      "domain": "hollisrobbinsanecdotal.substack.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Sel \u2013 macOS screen sharing that shows only the windows you pick",
+      "link": "https://sel.toron.dev",
+      "summary": "<p>Hi, Aria here.<p>I do a lot of live demos for customers, and I kept being nervous about what else was on my screen: notifications, other clients' windows, a messy desktop. Sharing one window is saf...",
+      "published": "2026-07-07T03:09:59+00:00",
+      "domain": "sel.toron.dev",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "How to sequence your own DNA at home",
+      "link": "https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48812156\">Comments</a>...",
+      "published": "2026-07-07T00:14:21+00:00",
+      "domain": "bradleywoolf.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
         "anarchy": []
       }
     },
@@ -379,11 +459,11 @@
       }
     },
     {
-      "title": "Threat Actors Probe Gitea Docker Flaw CVE-2026-20896 13 Days After Disclosure",
-      "link": "https://thehackernews.com/2026/07/threat-actors-probe-gitea-docker-flaw.html",
-      "summary": "Threat actors have been observed attempting to exploit a recently patched critical security flaw in Gitea Docker images, according to Sysdig.\n\nThe vulnerability in question is CVE-2026-20896 (CVSS sco...",
-      "published": "2026-07-06T21:58:59+05:30",
-      "domain": "thehackernews.com",
+      "title": "Fable turned reMarkable into Tom Riddle's diary from Harry Potter",
+      "link": "https://github.com/MaximeRivest/Riddle",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48811591\">Comments</a>...",
+      "published": "2026-07-06T23:00:24+00:00",
+      "domain": "github.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -395,91 +475,11 @@
       }
     },
     {
-      "title": "Esolang: 2026 Topicality Proposal",
-      "link": "https://esolangs.org/wiki/Esolang:2026_topicality_proposal",
-      "summary": "<p>Article URL: <a href=\"https://esolangs.org/wiki/Esolang:2026_topicality_proposal\">https://esolangs.org/wiki/Esolang:2026_topicality_proposal</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinat...",
-      "published": "2026-07-06T19:52:37+00:00",
-      "domain": "esolangs.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Space JUNK Mysterious 'space balls' that washed up on Australian beach spark pro",
-      "link": "https://www.thesun.co.uk/news/39654579/mysterious-space-balls-australian-beach-toxic/",
-      "summary": "<p>Article URL: <a href=\"https://www.thesun.co.uk/news/39654579/mysterious-space-balls-australian-beach-toxic/\">https://www.thesun.co.uk/news/39654579/mysterious-space-balls-australian-beach-toxic/</a...",
-      "published": "2026-07-06T19:49:58+00:00",
-      "domain": "thesun.co.uk",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Verbalizable Representations Form a Global Workspace in Language Models",
-      "link": "https://transformer-circuits.pub/2026/workspace/index.html",
-      "summary": "<p>Article URL: <a href=\"https://transformer-circuits.pub/2026/workspace/index.html\">https://transformer-circuits.pub/2026/workspace/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinat...",
-      "published": "2026-07-06T19:48:58+00:00",
-      "domain": "transformer-circuits.pub",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Hacking from the Backcountry",
-      "link": "https://suthakamal.substack.com/p/hacking-from-the-backcounty",
-      "summary": "<p>Article URL: <a href=\"https://suthakamal.substack.com/p/hacking-from-the-backcounty\">https://suthakamal.substack.com/p/hacking-from-the-backcounty</a></p>\n<p>Comments URL: <a href=\"https://news.yco...",
-      "published": "2026-07-06T19:47:48+00:00",
-      "domain": "suthakamal.substack.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Dev tells Valve to fix Steam's exploitable 2-hour refund policy as \"over 55,000\" players refund his short game and even brag about it in reviews",
-      "link": "https://www.reddit.com/r/technology/comments/1up68no/dev_tells_valve_to_fix_steams_exploitable_2hour/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1up68no/dev_tells_valve_to_fix_steams_exploitable_2hour/\"> <img alt=\"Dev tells Valve to fix Steam's exploitable 2-hour refund pol...",
-      "published": "2026-07-06T18:42:11+00:00",
+      "title": "Meta\u2019s AI Data Center Caught Infecting Town Water Supply With Deadly Bacteria",
+      "link": "https://www.reddit.com/r/technology/comments/1upbor5/metas_ai_data_center_caught_infecting_town_water/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1upbor5/metas_ai_data_center_caught_infecting_town_water/\"> <img alt=\"Meta\u2019s AI Data Center Caught Infecting Town Water Supply Wi...",
+      "published": "2026-07-06T22:00:58+00:00",
       "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Linux on the Atari Jaguar. No, really.",
-      "link": "https://cakehonolulu.github.io/linux-for-jaguar/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48808663\">Comments</a>...",
-      "published": "2026-07-06T18:35:54+00:00",
-      "domain": "cakehonolulu.github.io",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -493,6 +493,102 @@
   ],
   "all_articles": [
     {
+      "title": "DARPA program to make 30 yr batteries for drones from nuclear waste",
+      "link": "https://www.defenseone.com/technology/2026/07/these-light-weight-power-cells-run-nuclear-waste-and-could-power-next-gen-drones/414585/",
+      "summary": "<p>Article URL: <a href=\"https://www.defenseone.com/technology/2026/07/these-light-weight-power-cells-run-nuclear-waste-and-could-power-next-gen-drones/414585/\">https://www.defenseone.com/technology/2...",
+      "published": "2026-07-07T03:23:27+00:00",
+      "domain": "defenseone.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Why \"a nice place to work\" doesn't just happen",
+      "link": "https://twitter.com/nithin0dha/status/2074098865511563473",
+      "summary": "<p>Article URL: <a href=\"https://twitter.com/nithin0dha/status/2074098865511563473\">https://twitter.com/nithin0dha/status/2074098865511563473</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator...",
+      "published": "2026-07-07T03:22:12+00:00",
+      "domain": "twitter.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Unis are relying on AI-detection software to catch cheating. Does it work",
+      "link": "https://www.nature.com/articles/d41586-026-01358-2",
+      "summary": "<p>Article URL: <a href=\"https://www.nature.com/articles/d41586-026-01358-2\">https://www.nature.com/articles/d41586-026-01358-2</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4...",
+      "published": "2026-07-07T03:15:34+00:00",
+      "domain": "nature.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Amor Fati Entropy",
+      "link": "https://hollisrobbinsanecdotal.substack.com/p/amor-fati-entropy",
+      "summary": "<p>Article URL: <a href=\"https://hollisrobbinsanecdotal.substack.com/p/amor-fati-entropy\">https://hollisrobbinsanecdotal.substack.com/p/amor-fati-entropy</a></p>\n<p>Comments URL: <a href=\"https://news...",
+      "published": "2026-07-07T03:15:23+00:00",
+      "domain": "hollisrobbinsanecdotal.substack.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Sel \u2013 macOS screen sharing that shows only the windows you pick",
+      "link": "https://sel.toron.dev",
+      "summary": "<p>Hi, Aria here.<p>I do a lot of live demos for customers, and I kept being nervous about what else was on my screen: notifications, other clients' windows, a messy desktop. Sharing one window is saf...",
+      "published": "2026-07-07T03:09:59+00:00",
+      "domain": "sel.toron.dev",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "How to sequence your own DNA at home",
+      "link": "https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48812156\">Comments</a>...",
+      "published": "2026-07-07T00:14:21+00:00",
+      "domain": "bradleywoolf.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "Iran-Linked Hackers Use New Cavern C2 Framework to Target Israeli Organizations",
       "link": "https://thehackernews.com/2026/07/iran-linked-hackers-use-new-cavern-c2.html",
       "summary": "An Iranian hacking group affiliated with Iran's Ministry of Intelligence and Security (MOIS) has been wielding a previously undocumented modular command-and-control (C2) framework dubbed Cavern (aka C...",
@@ -527,11 +623,11 @@
       }
     },
     {
-      "title": "Threat Actors Probe Gitea Docker Flaw CVE-2026-20896 13 Days After Disclosure",
-      "link": "https://thehackernews.com/2026/07/threat-actors-probe-gitea-docker-flaw.html",
-      "summary": "Threat actors have been observed attempting to exploit a recently patched critical security flaw in Gitea Docker images, according to Sysdig.\n\nThe vulnerability in question is CVE-2026-20896 (CVSS sco...",
-      "published": "2026-07-06T21:58:59+05:30",
-      "domain": "thehackernews.com",
+      "title": "Fable turned reMarkable into Tom Riddle's diary from Harry Potter",
+      "link": "https://github.com/MaximeRivest/Riddle",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48811591\">Comments</a>...",
+      "published": "2026-07-06T23:00:24+00:00",
+      "domain": "github.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -543,107 +639,11 @@
       }
     },
     {
-      "title": "Esolang: 2026 Topicality Proposal",
-      "link": "https://esolangs.org/wiki/Esolang:2026_topicality_proposal",
-      "summary": "<p>Article URL: <a href=\"https://esolangs.org/wiki/Esolang:2026_topicality_proposal\">https://esolangs.org/wiki/Esolang:2026_topicality_proposal</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinat...",
-      "published": "2026-07-06T19:52:37+00:00",
-      "domain": "esolangs.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Space JUNK Mysterious 'space balls' that washed up on Australian beach spark pro",
-      "link": "https://www.thesun.co.uk/news/39654579/mysterious-space-balls-australian-beach-toxic/",
-      "summary": "<p>Article URL: <a href=\"https://www.thesun.co.uk/news/39654579/mysterious-space-balls-australian-beach-toxic/\">https://www.thesun.co.uk/news/39654579/mysterious-space-balls-australian-beach-toxic/</a...",
-      "published": "2026-07-06T19:49:58+00:00",
-      "domain": "thesun.co.uk",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Verbalizable Representations Form a Global Workspace in Language Models",
-      "link": "https://transformer-circuits.pub/2026/workspace/index.html",
-      "summary": "<p>Article URL: <a href=\"https://transformer-circuits.pub/2026/workspace/index.html\">https://transformer-circuits.pub/2026/workspace/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinat...",
-      "published": "2026-07-06T19:48:58+00:00",
-      "domain": "transformer-circuits.pub",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Hacking from the Backcountry",
-      "link": "https://suthakamal.substack.com/p/hacking-from-the-backcounty",
-      "summary": "<p>Article URL: <a href=\"https://suthakamal.substack.com/p/hacking-from-the-backcounty\">https://suthakamal.substack.com/p/hacking-from-the-backcounty</a></p>\n<p>Comments URL: <a href=\"https://news.yco...",
-      "published": "2026-07-06T19:47:48+00:00",
-      "domain": "suthakamal.substack.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "France to Stop Certifying Non-Quantum-Safe Encryption",
-      "link": "https://www.schneier.com/blog/archives/2026/07/france-to-stop-certifying-non-quantum-safe-encryption.html",
-      "summary": "<p>Article URL: <a href=\"https://www.schneier.com/blog/archives/2026/07/france-to-stop-certifying-non-quantum-safe-encryption.html\">https://www.schneier.com/blog/archives/2026/07/france-to-stop-certif...",
-      "published": "2026-07-06T19:47:20+00:00",
-      "domain": "schneier.com",
-      "scores": {
-        "chaos": 15.0,
-        "anarchy": 15.0,
-        "overall": 15.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Dev tells Valve to fix Steam's exploitable 2-hour refund policy as \"over 55,000\" players refund his short game and even brag about it in reviews",
-      "link": "https://www.reddit.com/r/technology/comments/1up68no/dev_tells_valve_to_fix_steams_exploitable_2hour/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1up68no/dev_tells_valve_to_fix_steams_exploitable_2hour/\"> <img alt=\"Dev tells Valve to fix Steam's exploitable 2-hour refund pol...",
-      "published": "2026-07-06T18:42:11+00:00",
+      "title": "Meta\u2019s AI Data Center Caught Infecting Town Water Supply With Deadly Bacteria",
+      "link": "https://www.reddit.com/r/technology/comments/1upbor5/metas_ai_data_center_caught_infecting_town_water/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1upbor5/metas_ai_data_center_caught_infecting_town_water/\"> <img alt=\"Meta\u2019s AI Data Center Caught Infecting Town Water Supply Wi...",
+      "published": "2026-07-06T22:00:58+00:00",
       "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Linux on the Atari Jaguar. No, really.",
-      "link": "https://cakehonolulu.github.io/linux-for-jaguar/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48808663\">Comments</a>...",
-      "published": "2026-07-06T18:35:54+00:00",
-      "domain": "cakehonolulu.github.io",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
