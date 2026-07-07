@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Court Filing Reveals Windows Device ID Helped FBI Trace Alleged Scattered Spider Hacker
+### RedWing MaaS Packages Android Bank Fraud as a Telegram Rental Service
 - **Published**: July 07, 2026
-- **Summary**: U.S. prosecutors linked an alleged Scattered Spider hacker to a break-in at a luxury jewelry retailer using a persistent Windows device ID, according ...
-- [Read more](https://thehackernews.com/2026/07/court-filing-reveals-windows-device-id.html)
+- **Summary**: A new Android malware operation called RedWing is being rented out on Telegram as a ready-made bank-fraud service. It lets even low-skill criminals ta...
+- [Read more](https://thehackernews.com/2026/07/redwing-maas-packages-android-bank.html)
 
-### Writer AI Flaw Could Let Agent Previews Leak Session Tokens Across Tenants
+### Rogue Agent Flaw Could Have Let Attackers Hijack Google Dialogflow CX Chatbots
 - **Published**: July 07, 2026
-- **Summary**: Cybersecurity researchers have disclosed details of a now-patched critical session isolation vulnerability in Writer, an enterprise generative artific...
-- [Read more](https://thehackernews.com/2026/07/writer-ai-flaw-could-let-agent-previews.html)
+- **Summary**: A critical flaw in Google's Dialogflow CX could have let an attacker with edit rights on one Code Block-enabled agent compromise other Code Block-enab...
+- [Read more](https://thehackernews.com/2026/07/rogue-agent-flaw-could-have-let.html)
 
 ---
 
