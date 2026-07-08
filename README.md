@@ -16,15 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### 15-Year-Old GhostLock Flaw Enables Root and Container Escape on Most Linux Distros
+### GitHub Copilot Refuses Harmful Requests in Chat, Then Writes Them in Code
 - **Published**: July 08, 2026
-- **Summary**: Researchers at&nbsp;Nebula Security&nbsp;have disclosed GhostLock (CVE-2026-43499), a 15-year-old Linux kernel flaw that lets any logged-in user take ...
-- [Read more](https://thehackernews.com/2026/07/15-year-old-ghostlock-flaw-enables-root.html)
+- **Summary**: An AI coding assistant that refuses to answer a dangerous request in its chat box can answer it anyway if the same request is broken into small, ordin...
+- **Keywords**: broken
+- [Read more](https://thehackernews.com/2026/07/github-copilot-refuses-harmful-requests.html)
 
-### CISA Adds 4 Actively Exploited Adobe, Joomla, and Langflow Flaws to KEV
+### New Ghost Phishing Wave Is Breaking Traditional Email Security
 - **Published**: July 08, 2026
-- **Summary**: The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added four security flaws to its Known Exploited Vulnerabilities (KEV) cat...
-- [Read more](https://thehackernews.com/2026/07/cisa-adds-4-actively-exploited-adobe.html)
+- **Summary**: A recent EvilTokens campaign targeting businesses across the US and Europe is exposing a new email security blind spot. This “ghost phishing” techniqu...
+- [Read more](https://thehackernews.com/2026/07/new-ghost-phishing-wave-is-breaking.html)
 
 ---
 
