@@ -1,20 +1,130 @@
 {
   "chaos_ranked": [
     {
-      "title": "GitHub Copilot Refuses Harmful Requests in Chat, Then Writes Them in Code",
-      "link": "https://thehackernews.com/2026/07/github-copilot-refuses-harmful-requests.html",
-      "summary": "An AI coding assistant that refuses to answer a dangerous request in its chat box can answer it anyway if the same request is broken into small, ordinary-looking steps inside a code editor. That is th...",
-      "published": "2026-07-08T16:51:07+05:30",
+      "title": "AI Coding Agents Found Triggering Endpoint Security Rules Built to Catch Attackers",
+      "link": "https://thehackernews.com/2026/07/ai-coding-agents-found-triggering.html",
+      "summary": "Sophos looked at a week of its own endpoint data and found that AI coding agents such as Claude Code, Cursor, and OpenAI Codex are setting off detection rules written to catch human intruders.\n\nThe ag...",
+      "published": "2026-07-08T22:32:12+05:30",
       "domain": "thehackernews.com",
       "scores": {
-        "chaos": 13.0,
+        "chaos": 3.0,
         "anarchy": 3.0,
-        "overall": 8.0
+        "overall": 3.0
       },
       "keywords": {
-        "chaos": [
-          "broken"
-        ],
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "New HalluSquatting Attack Could Trick AI Coding Assistants Into Installing Botnet Malware",
+      "link": "https://thehackernews.com/2026/07/new-hallusquatting-attack-could-trick.html",
+      "summary": "AI coding assistants have a habit of making things up. Ask one to fetch a popular tool, and it will sometimes hand back a real-sounding name for a project that does not exist.\n\nNew research, which its...",
+      "published": "2026-07-08T20:37:24+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Ubiquiti Patches Critical UniFi Flaws Across Connect, Talk, Access, Protect, and OS",
+      "link": "https://thehackernews.com/2026/07/ubiquiti-patches-critical-unifi-flaws.html",
+      "summary": "Ubiquiti has shipped updates to address multiple critical security flaws impacting UniFi Connect, UniFi Talk, UniFi Access, UniFi Protect, and UniFi OS that could result in privilege escalation and ar...",
+      "published": "2026-07-08T20:08:05+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Matrix v1.19 Release",
+      "link": "https://matrix.org/blog/2026/07/08/matrix-v1.19-release/",
+      "summary": "<p>Article URL: <a href=\"https://matrix.org/blog/2026/07/08/matrix-v1.19-release/\">https://matrix.org/blog/2026/07/08/matrix-v1.19-release/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.c...",
+      "published": "2026-07-08T19:23:36+00:00",
+      "domain": "matrix.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Ask HN: How you manage local long lived research projects and LLM's?",
+      "link": "https://news.ycombinator.com/item?id=48836288",
+      "summary": "<p>TLDR: Do you have a pattern or structure for doing long-lived research or non-coding projects using LLMs?<p>I was kind of inspired by this hacker news article where someone collected data to solve ...",
+      "published": "2026-07-08T19:23:27+00:00",
+      "domain": "news.ycombinator.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Testing Smart TV Tracking",
+      "link": "https://www.rtings.com/tv/learn/research/smart-tv-tracking",
+      "summary": "<p>Article URL: <a href=\"https://www.rtings.com/tv/learn/research/smart-tv-tracking\">https://www.rtings.com/tv/learn/research/smart-tv-tracking</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinat...",
+      "published": "2026-07-08T19:23:23+00:00",
+      "domain": "rtings.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Ax Agent Experience",
+      "link": "https://agentexperience.ax/",
+      "summary": "<p>Article URL: <a href=\"https://agentexperience.ax/\">https://agentexperience.ax/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48836275\">https://news.ycombinator.com/item?id=...",
+      "published": "2026-07-08T19:22:18+00:00",
+      "domain": "agentexperience.ax",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Allstate Insurance quits Broadcom, alleges vengeful license audit on the way out",
+      "link": "https://www.theregister.com/virtualization/2026/07/08/allstate-insurance-quits-broadcom-alleges-vengeful-license-audit-on-the-way-out/5268155",
+      "summary": "<p>Article URL: <a href=\"https://www.theregister.com/virtualization/2026/07/08/allstate-insurance-quits-broadcom-alleges-vengeful-license-audit-on-the-way-out/5268155\">https://www.theregister.com/virt...",
+      "published": "2026-07-08T19:21:29+00:00",
+      "domain": "theregister.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
         "anarchy": []
       }
     },
@@ -40,118 +150,6 @@
       "summary": "A new banking fraudulent operation is targeting customers of Mexican banks, fintech, payment processors, and cryptocurrency exchanges using ClickFix lures.\n\nThe activity cluster, tracked by Elastic Se...",
       "published": "2026-07-08T18:22:15+05:30",
       "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "GitHub 'Verified' Commits Can Be Rewritten Into New Hashes Without Breaking Signatures",
-      "link": "https://thehackernews.com/2026/07/github-verified-commits-can-be.html",
-      "summary": "New research shows that a signed Git commit's hash is not the one-of-a-kind name that much of the software world assumes it to be. Given any signed commit, someone without the signing key can mint a s...",
-      "published": "2026-07-08T17:21:24+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The Verification Step Is the New ATO Battleground in 2026",
-      "link": "https://thehackernews.com/2026/07/the-verification-step-is-new-ato.html",
-      "summary": "For years, account takeover (ATO) followed a predictable script. Attackers bought stolen credentials in bulk, ran them through automated tools, and waited for matches. Credential stuffing was cheap, s...",
-      "published": "2026-07-08T17:00:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Valve's Gabe Newell continues spending his billions on an undersea armada",
-      "link": "https://www.gamesradar.com/games/valves-gabe-newell-continues-spending-his-billions-on-an-undersea-armada-adding-an-usd800-million-deep-sea-vessel-to-the-one-he-already-had-in-the-works/",
-      "summary": "<p>Article URL: <a href=\"https://www.gamesradar.com/games/valves-gabe-newell-continues-spending-his-billions-on-an-undersea-armada-adding-an-usd800-million-deep-sea-vessel-to-the-one-he-already-had-in...",
-      "published": "2026-07-08T14:06:52+00:00",
-      "domain": "gamesradar.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Licensing can be joyful (and legally dubious)",
-      "link": "https://ntietz.com/blog/licensing-joy-gal/",
-      "summary": "<p>Article URL: <a href=\"https://ntietz.com/blog/licensing-joy-gal/\">https://ntietz.com/blog/licensing-joy-gal/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48832154\">https:/...",
-      "published": "2026-07-08T14:04:38+00:00",
-      "domain": "ntietz.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Gunmap \u2013 a TUI for building NMAP commands without memorizing flags",
-      "link": "https://github.com/0xStxrless/gunmap",
-      "summary": "<p>Article URL: <a href=\"https://github.com/0xStxrless/gunmap\">https://github.com/0xStxrless/gunmap</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48832150\">https://news.ycombi...",
-      "published": "2026-07-08T14:04:24+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Cross-Ecosystem Vulnerabilities in Python Applications",
-      "link": "https://nocomplexity.substack.com/p/cross-ecosystem-vulnerabilities-in",
-      "summary": "<p>Article URL: <a href=\"https://nocomplexity.substack.com/p/cross-ecosystem-vulnerabilities-in\">https://nocomplexity.substack.com/p/cross-ecosystem-vulnerabilities-in</a></p>\n<p>Comments URL: <a href...",
-      "published": "2026-07-08T14:03:09+00:00",
-      "domain": "nocomplexity.substack.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: UFFS, a Rust NTFS search engine benchmarked against Everything",
-      "link": "https://github.com/skyllc-ai/UltraFastFileSearch",
-      "summary": "<p>Article URL: <a href=\"https://github.com/skyllc-ai/UltraFastFileSearch\">https://github.com/skyllc-ai/UltraFastFileSearch</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48832...",
-      "published": "2026-07-08T14:01:01+00:00",
-      "domain": "github.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -165,6 +163,134 @@
   ],
   "anarchy_ranked": [
     {
+      "title": "AI Coding Agents Found Triggering Endpoint Security Rules Built to Catch Attackers",
+      "link": "https://thehackernews.com/2026/07/ai-coding-agents-found-triggering.html",
+      "summary": "Sophos looked at a week of its own endpoint data and found that AI coding agents such as Claude Code, Cursor, and OpenAI Codex are setting off detection rules written to catch human intruders.\n\nThe ag...",
+      "published": "2026-07-08T22:32:12+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "New HalluSquatting Attack Could Trick AI Coding Assistants Into Installing Botnet Malware",
+      "link": "https://thehackernews.com/2026/07/new-hallusquatting-attack-could-trick.html",
+      "summary": "AI coding assistants have a habit of making things up. Ask one to fetch a popular tool, and it will sometimes hand back a real-sounding name for a project that does not exist.\n\nNew research, which its...",
+      "published": "2026-07-08T20:37:24+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Ubiquiti Patches Critical UniFi Flaws Across Connect, Talk, Access, Protect, and OS",
+      "link": "https://thehackernews.com/2026/07/ubiquiti-patches-critical-unifi-flaws.html",
+      "summary": "Ubiquiti has shipped updates to address multiple critical security flaws impacting UniFi Connect, UniFi Talk, UniFi Access, UniFi Protect, and UniFi OS that could result in privilege escalation and ar...",
+      "published": "2026-07-08T20:08:05+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Matrix v1.19 Release",
+      "link": "https://matrix.org/blog/2026/07/08/matrix-v1.19-release/",
+      "summary": "<p>Article URL: <a href=\"https://matrix.org/blog/2026/07/08/matrix-v1.19-release/\">https://matrix.org/blog/2026/07/08/matrix-v1.19-release/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.c...",
+      "published": "2026-07-08T19:23:36+00:00",
+      "domain": "matrix.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Ask HN: How you manage local long lived research projects and LLM's?",
+      "link": "https://news.ycombinator.com/item?id=48836288",
+      "summary": "<p>TLDR: Do you have a pattern or structure for doing long-lived research or non-coding projects using LLMs?<p>I was kind of inspired by this hacker news article where someone collected data to solve ...",
+      "published": "2026-07-08T19:23:27+00:00",
+      "domain": "news.ycombinator.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Testing Smart TV Tracking",
+      "link": "https://www.rtings.com/tv/learn/research/smart-tv-tracking",
+      "summary": "<p>Article URL: <a href=\"https://www.rtings.com/tv/learn/research/smart-tv-tracking\">https://www.rtings.com/tv/learn/research/smart-tv-tracking</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinat...",
+      "published": "2026-07-08T19:23:23+00:00",
+      "domain": "rtings.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Ax Agent Experience",
+      "link": "https://agentexperience.ax/",
+      "summary": "<p>Article URL: <a href=\"https://agentexperience.ax/\">https://agentexperience.ax/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48836275\">https://news.ycombinator.com/item?id=...",
+      "published": "2026-07-08T19:22:18+00:00",
+      "domain": "agentexperience.ax",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Allstate Insurance quits Broadcom, alleges vengeful license audit on the way out",
+      "link": "https://www.theregister.com/virtualization/2026/07/08/allstate-insurance-quits-broadcom-alleges-vengeful-license-audit-on-the-way-out/5268155",
+      "summary": "<p>Article URL: <a href=\"https://www.theregister.com/virtualization/2026/07/08/allstate-insurance-quits-broadcom-alleges-vengeful-license-audit-on-the-way-out/5268155\">https://www.theregister.com/virt...",
+      "published": "2026-07-08T19:21:29+00:00",
+      "domain": "theregister.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "New Ghost Phishing Wave Is Breaking Traditional Email Security",
       "link": "https://thehackernews.com/2026/07/new-ghost-phishing-wave-is-breaking.html",
       "summary": "A recent EvilTokens campaign targeting businesses across the US and Europe is exposing a new email security blind spot. This \u201cghost phishing\u201d technique keeps the malicious page hidden until it decrypt...",
@@ -186,136 +312,6 @@
       "summary": "A new banking fraudulent operation is targeting customers of Mexican banks, fintech, payment processors, and cryptocurrency exchanges using ClickFix lures.\n\nThe activity cluster, tracked by Elastic Se...",
       "published": "2026-07-08T18:22:15+05:30",
       "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "GitHub 'Verified' Commits Can Be Rewritten Into New Hashes Without Breaking Signatures",
-      "link": "https://thehackernews.com/2026/07/github-verified-commits-can-be.html",
-      "summary": "New research shows that a signed Git commit's hash is not the one-of-a-kind name that much of the software world assumes it to be. Given any signed commit, someone without the signing key can mint a s...",
-      "published": "2026-07-08T17:21:24+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The Verification Step Is the New ATO Battleground in 2026",
-      "link": "https://thehackernews.com/2026/07/the-verification-step-is-new-ato.html",
-      "summary": "For years, account takeover (ATO) followed a predictable script. Attackers bought stolen credentials in bulk, ran them through automated tools, and waited for matches. Credential stuffing was cheap, s...",
-      "published": "2026-07-08T17:00:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "GitHub Copilot Refuses Harmful Requests in Chat, Then Writes Them in Code",
-      "link": "https://thehackernews.com/2026/07/github-copilot-refuses-harmful-requests.html",
-      "summary": "An AI coding assistant that refuses to answer a dangerous request in its chat box can answer it anyway if the same request is broken into small, ordinary-looking steps inside a code editor. That is th...",
-      "published": "2026-07-08T16:51:07+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 13.0,
-        "anarchy": 3.0,
-        "overall": 8.0
-      },
-      "keywords": {
-        "chaos": [
-          "broken"
-        ],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Valve's Gabe Newell continues spending his billions on an undersea armada",
-      "link": "https://www.gamesradar.com/games/valves-gabe-newell-continues-spending-his-billions-on-an-undersea-armada-adding-an-usd800-million-deep-sea-vessel-to-the-one-he-already-had-in-the-works/",
-      "summary": "<p>Article URL: <a href=\"https://www.gamesradar.com/games/valves-gabe-newell-continues-spending-his-billions-on-an-undersea-armada-adding-an-usd800-million-deep-sea-vessel-to-the-one-he-already-had-in...",
-      "published": "2026-07-08T14:06:52+00:00",
-      "domain": "gamesradar.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Licensing can be joyful (and legally dubious)",
-      "link": "https://ntietz.com/blog/licensing-joy-gal/",
-      "summary": "<p>Article URL: <a href=\"https://ntietz.com/blog/licensing-joy-gal/\">https://ntietz.com/blog/licensing-joy-gal/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48832154\">https:/...",
-      "published": "2026-07-08T14:04:38+00:00",
-      "domain": "ntietz.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Gunmap \u2013 a TUI for building NMAP commands without memorizing flags",
-      "link": "https://github.com/0xStxrless/gunmap",
-      "summary": "<p>Article URL: <a href=\"https://github.com/0xStxrless/gunmap\">https://github.com/0xStxrless/gunmap</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48832150\">https://news.ycombi...",
-      "published": "2026-07-08T14:04:24+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Cross-Ecosystem Vulnerabilities in Python Applications",
-      "link": "https://nocomplexity.substack.com/p/cross-ecosystem-vulnerabilities-in",
-      "summary": "<p>Article URL: <a href=\"https://nocomplexity.substack.com/p/cross-ecosystem-vulnerabilities-in\">https://nocomplexity.substack.com/p/cross-ecosystem-vulnerabilities-in</a></p>\n<p>Comments URL: <a href...",
-      "published": "2026-07-08T14:03:09+00:00",
-      "domain": "nocomplexity.substack.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: UFFS, a Rust NTFS search engine benchmarked against Everything",
-      "link": "https://github.com/skyllc-ai/UltraFastFileSearch",
-      "summary": "<p>Article URL: <a href=\"https://github.com/skyllc-ai/UltraFastFileSearch\">https://github.com/skyllc-ai/UltraFastFileSearch</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48832...",
-      "published": "2026-07-08T14:01:01+00:00",
-      "domain": "github.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -329,20 +325,130 @@
   ],
   "overall_ranked": [
     {
-      "title": "GitHub Copilot Refuses Harmful Requests in Chat, Then Writes Them in Code",
-      "link": "https://thehackernews.com/2026/07/github-copilot-refuses-harmful-requests.html",
-      "summary": "An AI coding assistant that refuses to answer a dangerous request in its chat box can answer it anyway if the same request is broken into small, ordinary-looking steps inside a code editor. That is th...",
-      "published": "2026-07-08T16:51:07+05:30",
+      "title": "AI Coding Agents Found Triggering Endpoint Security Rules Built to Catch Attackers",
+      "link": "https://thehackernews.com/2026/07/ai-coding-agents-found-triggering.html",
+      "summary": "Sophos looked at a week of its own endpoint data and found that AI coding agents such as Claude Code, Cursor, and OpenAI Codex are setting off detection rules written to catch human intruders.\n\nThe ag...",
+      "published": "2026-07-08T22:32:12+05:30",
       "domain": "thehackernews.com",
       "scores": {
-        "chaos": 13.0,
+        "chaos": 3.0,
         "anarchy": 3.0,
-        "overall": 8.0
+        "overall": 3.0
       },
       "keywords": {
-        "chaos": [
-          "broken"
-        ],
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "New HalluSquatting Attack Could Trick AI Coding Assistants Into Installing Botnet Malware",
+      "link": "https://thehackernews.com/2026/07/new-hallusquatting-attack-could-trick.html",
+      "summary": "AI coding assistants have a habit of making things up. Ask one to fetch a popular tool, and it will sometimes hand back a real-sounding name for a project that does not exist.\n\nNew research, which its...",
+      "published": "2026-07-08T20:37:24+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Ubiquiti Patches Critical UniFi Flaws Across Connect, Talk, Access, Protect, and OS",
+      "link": "https://thehackernews.com/2026/07/ubiquiti-patches-critical-unifi-flaws.html",
+      "summary": "Ubiquiti has shipped updates to address multiple critical security flaws impacting UniFi Connect, UniFi Talk, UniFi Access, UniFi Protect, and UniFi OS that could result in privilege escalation and ar...",
+      "published": "2026-07-08T20:08:05+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Matrix v1.19 Release",
+      "link": "https://matrix.org/blog/2026/07/08/matrix-v1.19-release/",
+      "summary": "<p>Article URL: <a href=\"https://matrix.org/blog/2026/07/08/matrix-v1.19-release/\">https://matrix.org/blog/2026/07/08/matrix-v1.19-release/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.c...",
+      "published": "2026-07-08T19:23:36+00:00",
+      "domain": "matrix.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Ask HN: How you manage local long lived research projects and LLM's?",
+      "link": "https://news.ycombinator.com/item?id=48836288",
+      "summary": "<p>TLDR: Do you have a pattern or structure for doing long-lived research or non-coding projects using LLMs?<p>I was kind of inspired by this hacker news article where someone collected data to solve ...",
+      "published": "2026-07-08T19:23:27+00:00",
+      "domain": "news.ycombinator.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Testing Smart TV Tracking",
+      "link": "https://www.rtings.com/tv/learn/research/smart-tv-tracking",
+      "summary": "<p>Article URL: <a href=\"https://www.rtings.com/tv/learn/research/smart-tv-tracking\">https://www.rtings.com/tv/learn/research/smart-tv-tracking</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinat...",
+      "published": "2026-07-08T19:23:23+00:00",
+      "domain": "rtings.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Ax Agent Experience",
+      "link": "https://agentexperience.ax/",
+      "summary": "<p>Article URL: <a href=\"https://agentexperience.ax/\">https://agentexperience.ax/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48836275\">https://news.ycombinator.com/item?id=...",
+      "published": "2026-07-08T19:22:18+00:00",
+      "domain": "agentexperience.ax",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Allstate Insurance quits Broadcom, alleges vengeful license audit on the way out",
+      "link": "https://www.theregister.com/virtualization/2026/07/08/allstate-insurance-quits-broadcom-alleges-vengeful-license-audit-on-the-way-out/5268155",
+      "summary": "<p>Article URL: <a href=\"https://www.theregister.com/virtualization/2026/07/08/allstate-insurance-quits-broadcom-alleges-vengeful-license-audit-on-the-way-out/5268155\">https://www.theregister.com/virt...",
+      "published": "2026-07-08T19:21:29+00:00",
+      "domain": "theregister.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
         "anarchy": []
       }
     },
@@ -368,118 +474,6 @@
       "summary": "A new banking fraudulent operation is targeting customers of Mexican banks, fintech, payment processors, and cryptocurrency exchanges using ClickFix lures.\n\nThe activity cluster, tracked by Elastic Se...",
       "published": "2026-07-08T18:22:15+05:30",
       "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "GitHub 'Verified' Commits Can Be Rewritten Into New Hashes Without Breaking Signatures",
-      "link": "https://thehackernews.com/2026/07/github-verified-commits-can-be.html",
-      "summary": "New research shows that a signed Git commit's hash is not the one-of-a-kind name that much of the software world assumes it to be. Given any signed commit, someone without the signing key can mint a s...",
-      "published": "2026-07-08T17:21:24+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The Verification Step Is the New ATO Battleground in 2026",
-      "link": "https://thehackernews.com/2026/07/the-verification-step-is-new-ato.html",
-      "summary": "For years, account takeover (ATO) followed a predictable script. Attackers bought stolen credentials in bulk, ran them through automated tools, and waited for matches. Credential stuffing was cheap, s...",
-      "published": "2026-07-08T17:00:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Valve's Gabe Newell continues spending his billions on an undersea armada",
-      "link": "https://www.gamesradar.com/games/valves-gabe-newell-continues-spending-his-billions-on-an-undersea-armada-adding-an-usd800-million-deep-sea-vessel-to-the-one-he-already-had-in-the-works/",
-      "summary": "<p>Article URL: <a href=\"https://www.gamesradar.com/games/valves-gabe-newell-continues-spending-his-billions-on-an-undersea-armada-adding-an-usd800-million-deep-sea-vessel-to-the-one-he-already-had-in...",
-      "published": "2026-07-08T14:06:52+00:00",
-      "domain": "gamesradar.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Licensing can be joyful (and legally dubious)",
-      "link": "https://ntietz.com/blog/licensing-joy-gal/",
-      "summary": "<p>Article URL: <a href=\"https://ntietz.com/blog/licensing-joy-gal/\">https://ntietz.com/blog/licensing-joy-gal/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48832154\">https:/...",
-      "published": "2026-07-08T14:04:38+00:00",
-      "domain": "ntietz.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Gunmap \u2013 a TUI for building NMAP commands without memorizing flags",
-      "link": "https://github.com/0xStxrless/gunmap",
-      "summary": "<p>Article URL: <a href=\"https://github.com/0xStxrless/gunmap\">https://github.com/0xStxrless/gunmap</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48832150\">https://news.ycombi...",
-      "published": "2026-07-08T14:04:24+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Cross-Ecosystem Vulnerabilities in Python Applications",
-      "link": "https://nocomplexity.substack.com/p/cross-ecosystem-vulnerabilities-in",
-      "summary": "<p>Article URL: <a href=\"https://nocomplexity.substack.com/p/cross-ecosystem-vulnerabilities-in\">https://nocomplexity.substack.com/p/cross-ecosystem-vulnerabilities-in</a></p>\n<p>Comments URL: <a href...",
-      "published": "2026-07-08T14:03:09+00:00",
-      "domain": "nocomplexity.substack.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: UFFS, a Rust NTFS search engine benchmarked against Everything",
-      "link": "https://github.com/skyllc-ai/UltraFastFileSearch",
-      "summary": "<p>Article URL: <a href=\"https://github.com/skyllc-ai/UltraFastFileSearch\">https://github.com/skyllc-ai/UltraFastFileSearch</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48832...",
-      "published": "2026-07-08T14:01:01+00:00",
-      "domain": "github.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -493,6 +487,134 @@
   ],
   "all_articles": [
     {
+      "title": "AI Coding Agents Found Triggering Endpoint Security Rules Built to Catch Attackers",
+      "link": "https://thehackernews.com/2026/07/ai-coding-agents-found-triggering.html",
+      "summary": "Sophos looked at a week of its own endpoint data and found that AI coding agents such as Claude Code, Cursor, and OpenAI Codex are setting off detection rules written to catch human intruders.\n\nThe ag...",
+      "published": "2026-07-08T22:32:12+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "New HalluSquatting Attack Could Trick AI Coding Assistants Into Installing Botnet Malware",
+      "link": "https://thehackernews.com/2026/07/new-hallusquatting-attack-could-trick.html",
+      "summary": "AI coding assistants have a habit of making things up. Ask one to fetch a popular tool, and it will sometimes hand back a real-sounding name for a project that does not exist.\n\nNew research, which its...",
+      "published": "2026-07-08T20:37:24+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Ubiquiti Patches Critical UniFi Flaws Across Connect, Talk, Access, Protect, and OS",
+      "link": "https://thehackernews.com/2026/07/ubiquiti-patches-critical-unifi-flaws.html",
+      "summary": "Ubiquiti has shipped updates to address multiple critical security flaws impacting UniFi Connect, UniFi Talk, UniFi Access, UniFi Protect, and UniFi OS that could result in privilege escalation and ar...",
+      "published": "2026-07-08T20:08:05+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Matrix v1.19 Release",
+      "link": "https://matrix.org/blog/2026/07/08/matrix-v1.19-release/",
+      "summary": "<p>Article URL: <a href=\"https://matrix.org/blog/2026/07/08/matrix-v1.19-release/\">https://matrix.org/blog/2026/07/08/matrix-v1.19-release/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.c...",
+      "published": "2026-07-08T19:23:36+00:00",
+      "domain": "matrix.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Ask HN: How you manage local long lived research projects and LLM's?",
+      "link": "https://news.ycombinator.com/item?id=48836288",
+      "summary": "<p>TLDR: Do you have a pattern or structure for doing long-lived research or non-coding projects using LLMs?<p>I was kind of inspired by this hacker news article where someone collected data to solve ...",
+      "published": "2026-07-08T19:23:27+00:00",
+      "domain": "news.ycombinator.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Testing Smart TV Tracking",
+      "link": "https://www.rtings.com/tv/learn/research/smart-tv-tracking",
+      "summary": "<p>Article URL: <a href=\"https://www.rtings.com/tv/learn/research/smart-tv-tracking\">https://www.rtings.com/tv/learn/research/smart-tv-tracking</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinat...",
+      "published": "2026-07-08T19:23:23+00:00",
+      "domain": "rtings.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Ax Agent Experience",
+      "link": "https://agentexperience.ax/",
+      "summary": "<p>Article URL: <a href=\"https://agentexperience.ax/\">https://agentexperience.ax/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48836275\">https://news.ycombinator.com/item?id=...",
+      "published": "2026-07-08T19:22:18+00:00",
+      "domain": "agentexperience.ax",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Allstate Insurance quits Broadcom, alleges vengeful license audit on the way out",
+      "link": "https://www.theregister.com/virtualization/2026/07/08/allstate-insurance-quits-broadcom-alleges-vengeful-license-audit-on-the-way-out/5268155",
+      "summary": "<p>Article URL: <a href=\"https://www.theregister.com/virtualization/2026/07/08/allstate-insurance-quits-broadcom-alleges-vengeful-license-audit-on-the-way-out/5268155\">https://www.theregister.com/virt...",
+      "published": "2026-07-08T19:21:29+00:00",
+      "domain": "theregister.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "New Ghost Phishing Wave Is Breaking Traditional Email Security",
       "link": "https://thehackernews.com/2026/07/new-ghost-phishing-wave-is-breaking.html",
       "summary": "A recent EvilTokens campaign targeting businesses across the US and Europe is exposing a new email security blind spot. This \u201cghost phishing\u201d technique keeps the malicious page hidden until it decrypt...",
@@ -514,136 +636,6 @@
       "summary": "A new banking fraudulent operation is targeting customers of Mexican banks, fintech, payment processors, and cryptocurrency exchanges using ClickFix lures.\n\nThe activity cluster, tracked by Elastic Se...",
       "published": "2026-07-08T18:22:15+05:30",
       "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "GitHub 'Verified' Commits Can Be Rewritten Into New Hashes Without Breaking Signatures",
-      "link": "https://thehackernews.com/2026/07/github-verified-commits-can-be.html",
-      "summary": "New research shows that a signed Git commit's hash is not the one-of-a-kind name that much of the software world assumes it to be. Given any signed commit, someone without the signing key can mint a s...",
-      "published": "2026-07-08T17:21:24+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The Verification Step Is the New ATO Battleground in 2026",
-      "link": "https://thehackernews.com/2026/07/the-verification-step-is-new-ato.html",
-      "summary": "For years, account takeover (ATO) followed a predictable script. Attackers bought stolen credentials in bulk, ran them through automated tools, and waited for matches. Credential stuffing was cheap, s...",
-      "published": "2026-07-08T17:00:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "GitHub Copilot Refuses Harmful Requests in Chat, Then Writes Them in Code",
-      "link": "https://thehackernews.com/2026/07/github-copilot-refuses-harmful-requests.html",
-      "summary": "An AI coding assistant that refuses to answer a dangerous request in its chat box can answer it anyway if the same request is broken into small, ordinary-looking steps inside a code editor. That is th...",
-      "published": "2026-07-08T16:51:07+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 13.0,
-        "anarchy": 3.0,
-        "overall": 8.0
-      },
-      "keywords": {
-        "chaos": [
-          "broken"
-        ],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Valve's Gabe Newell continues spending his billions on an undersea armada",
-      "link": "https://www.gamesradar.com/games/valves-gabe-newell-continues-spending-his-billions-on-an-undersea-armada-adding-an-usd800-million-deep-sea-vessel-to-the-one-he-already-had-in-the-works/",
-      "summary": "<p>Article URL: <a href=\"https://www.gamesradar.com/games/valves-gabe-newell-continues-spending-his-billions-on-an-undersea-armada-adding-an-usd800-million-deep-sea-vessel-to-the-one-he-already-had-in...",
-      "published": "2026-07-08T14:06:52+00:00",
-      "domain": "gamesradar.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Licensing can be joyful (and legally dubious)",
-      "link": "https://ntietz.com/blog/licensing-joy-gal/",
-      "summary": "<p>Article URL: <a href=\"https://ntietz.com/blog/licensing-joy-gal/\">https://ntietz.com/blog/licensing-joy-gal/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48832154\">https:/...",
-      "published": "2026-07-08T14:04:38+00:00",
-      "domain": "ntietz.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Gunmap \u2013 a TUI for building NMAP commands without memorizing flags",
-      "link": "https://github.com/0xStxrless/gunmap",
-      "summary": "<p>Article URL: <a href=\"https://github.com/0xStxrless/gunmap\">https://github.com/0xStxrless/gunmap</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48832150\">https://news.ycombi...",
-      "published": "2026-07-08T14:04:24+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Cross-Ecosystem Vulnerabilities in Python Applications",
-      "link": "https://nocomplexity.substack.com/p/cross-ecosystem-vulnerabilities-in",
-      "summary": "<p>Article URL: <a href=\"https://nocomplexity.substack.com/p/cross-ecosystem-vulnerabilities-in\">https://nocomplexity.substack.com/p/cross-ecosystem-vulnerabilities-in</a></p>\n<p>Comments URL: <a href...",
-      "published": "2026-07-08T14:03:09+00:00",
-      "domain": "nocomplexity.substack.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: UFFS, a Rust NTFS search engine benchmarked against Everything",
-      "link": "https://github.com/skyllc-ai/UltraFastFileSearch",
-      "summary": "<p>Article URL: <a href=\"https://github.com/skyllc-ai/UltraFastFileSearch\">https://github.com/skyllc-ai/UltraFastFileSearch</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48832...",
-      "published": "2026-07-08T14:01:01+00:00",
-      "domain": "github.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,

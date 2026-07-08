@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### GitHub Copilot Refuses Harmful Requests in Chat, Then Writes Them in Code
+### AI Coding Agents Found Triggering Endpoint Security Rules Built to Catch Attackers
 - **Published**: July 08, 2026
-- **Summary**: An AI coding assistant that refuses to answer a dangerous request in its chat box can answer it anyway if the same request is broken into small, ordin...
-- **Keywords**: broken
-- [Read more](https://thehackernews.com/2026/07/github-copilot-refuses-harmful-requests.html)
+- **Summary**: Sophos looked at a week of its own endpoint data and found that AI coding agents such as Claude Code, Cursor, and OpenAI Codex are setting off detecti...
+- [Read more](https://thehackernews.com/2026/07/ai-coding-agents-found-triggering.html)
 
-### New Ghost Phishing Wave Is Breaking Traditional Email Security
+### New HalluSquatting Attack Could Trick AI Coding Assistants Into Installing Botnet Malware
 - **Published**: July 08, 2026
-- **Summary**: A recent EvilTokens campaign targeting businesses across the US and Europe is exposing a new email security blind spot. This “ghost phishing” techniqu...
-- [Read more](https://thehackernews.com/2026/07/new-ghost-phishing-wave-is-breaking.html)
+- **Summary**: AI coding assistants have a habit of making things up. Ask one to fetch a popular tool, and it will sometimes hand back a real-sounding name for a pro...
+- [Read more](https://thehackernews.com/2026/07/new-hallusquatting-attack-could-trick.html)
 
 ---
 
