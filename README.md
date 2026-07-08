@@ -16,15 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### RedWing MaaS Packages Android Bank Fraud as a Telegram Rental Service
-- **Published**: July 07, 2026
-- **Summary**: A new Android malware operation called RedWing is being rented out on Telegram as a ready-made bank-fraud service. It lets even low-skill criminals ta...
-- [Read more](https://thehackernews.com/2026/07/redwing-maas-packages-android-bank.html)
+### Egg producers will pay $3.3M and donate 53M eggs to settle price-fixing
+- **Published**: July 08, 2026
+- **Summary**: https://apnews.com/article/egg-prices-collusion-settlement-d32b05892541613df3f4e49......
+- [Read more](https://apnews.com/article/egg-prices-collusion-settlement-d32b05892541613df3f4e4932109ee0c)
 
-### Rogue Agent Flaw Could Have Let Attackers Hijack Google Dialogflow CX Chatbots
-- **Published**: July 07, 2026
-- **Summary**: A critical flaw in Google's Dialogflow CX could have let an attacker with edit rights on one Code Block-enabled agent compromise other Code Block-enab...
-- [Read more](https://thehackernews.com/2026/07/rogue-agent-flaw-could-have-let.html)
+### The Taste Gap(2014)
+- **Published**: July 08, 2026
+- **Summary**: https://www.themarginalian.org/2014/01/29/ira-glass-success-daniel-sax/</a></p>
+<p>Comments URL: <a hr......
+- [Read more](https://www.themarginalian.org/2014/01/29/ira-glass-success-daniel-sax/)
 
 ---
 
