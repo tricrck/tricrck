@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Egg producers will pay $3.3M and donate 53M eggs to settle price-fixing
+### 15-Year-Old GhostLock Flaw Enables Root and Container Escape on Most Linux Distros
 - **Published**: July 08, 2026
-- **Summary**: https://apnews.com/article/egg-prices-collusion-settlement-d32b05892541613df3f4e49......
-- [Read more](https://apnews.com/article/egg-prices-collusion-settlement-d32b05892541613df3f4e4932109ee0c)
+- **Summary**: Researchers at&nbsp;Nebula Security&nbsp;have disclosed GhostLock (CVE-2026-43499), a 15-year-old Linux kernel flaw that lets any logged-in user take ...
+- [Read more](https://thehackernews.com/2026/07/15-year-old-ghostlock-flaw-enables-root.html)
 
-### The Taste Gap(2014)
+### CISA Adds 4 Actively Exploited Adobe, Joomla, and Langflow Flaws to KEV
 - **Published**: July 08, 2026
-- **Summary**: https://www.themarginalian.org/2014/01/29/ira-glass-success-daniel-sax/</a></p>
-<p>Comments URL: <a hr......
-- [Read more](https://www.themarginalian.org/2014/01/29/ira-glass-success-daniel-sax/)
+- **Summary**: The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added four security flaws to its Known Exploited Vulnerabilities (KEV) cat...
+- [Read more](https://thehackernews.com/2026/07/cisa-adds-4-actively-exploited-adobe.html)
 
 ---
 
