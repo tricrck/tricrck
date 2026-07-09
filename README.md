@@ -16,17 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Meta's New AI Image Tool Lets Others Use Your Public Instagram Photos in AI Images
+### AI Attacks Move in Minutes. Join This Webinar on Building a Defense That Keeps Up
 - **Published**: July 09, 2026
-- **Summary**: Meta has announced that its new artificial intelligence (AI) model Muse Image lets people use public Instagram posts and reels to generate AI content,...
-- [Read more](https://thehackernews.com/2026/07/metas-new-ai-image-tool-lets-others-use.html)
+- **Summary**: AI has changed how fast attacks move. Work that once took an attacker days now takes minutes. Using models like Mythos, attackers write tailored bait,...
+- [Read more](https://thehackernews.com/2026/07/ai-attacks-move-in-minutes-join-this.html)
 
-### Top AI Agents Built to Catch Malicious Code Can Be Tricked Into Running It
+### Summer of Clearinghouses
 - **Published**: July 09, 2026
-- **Summary**: Ask an AI coding agent to scan open-source code for security holes, and it might run the attacker's code on your own machine instead.
-
-That is the fin...
-- [Read more](https://thehackernews.com/2026/07/friendly-fire-ai-agents-built-to-catch.html)
+- **Summary**: Everyone seems to have announced a clearinghouse over the past few weeks. We did too. Ours is called Athena, and the main thing that sets it apart is ...
+- [Read more](https://thehackernews.com/2026/07/summer-of-clearinghouses.html)
 
 ---
 
