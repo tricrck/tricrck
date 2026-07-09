@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### AI Attacks Move in Minutes. Join This Webinar on Building a Defense That Keeps Up
-- **Published**: July 09, 2026
-- **Summary**: AI has changed how fast attacks move. Work that once took an attacker days now takes minutes. Using models like Mythos, attackers write tailored bait,...
-- [Read more](https://thehackernews.com/2026/07/ai-attacks-move-in-minutes-join-this.html)
+### Dormant GitHub Accounts Help Attackers Blend In While Mapping Corporate Orgs
+- **Published**: July 10, 2026
+- **Summary**: Datadog Security Labs is warning of "several overlapping campaigns" that are systematically enumerating corporate GitHub organizations, repositories, ...
+- [Read more](https://thehackernews.com/2026/07/dormant-github-accounts-help-attackers.html)
 
-### Summer of Clearinghouses
+### New GigaWiper Windows Backdoor Bundles Disk Wiping, Fake Ransomware, and Spyware
 - **Published**: July 09, 2026
-- **Summary**: Everyone seems to have announced a clearinghouse over the past few weeks. We did too. Ours is called Athena, and the main thing that sets it apart is ...
-- [Read more](https://thehackernews.com/2026/07/summer-of-clearinghouses.html)
+- **Summary**: Microsoft has taken apart a destructive Windows backdoor it calls GigaWiper. What stands out is how it is built: not one tool but three older destruct...
+- [Read more](https://thehackernews.com/2026/07/new-gigawiper-windows-backdoor-bundles.html)
 
 ---
 
