@@ -16,16 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### The library of lost journals 603 pages novel fiction book
+### Meta's New AI Image Tool Lets Others Use Your Public Instagram Photos in AI Images
 - **Published**: July 09, 2026
-- **Summary**: https://play.google.com/store/books/details/The_Li......
-- [Read more](https://play.google.com/store/books/details/The_Library_of_Lost_Journals_The_Archivist_s_Journ?id=s4TdEQAAQBAJ&hl=en_US)
+- **Summary**: Meta has announced that its new artificial intelligence (AI) model Muse Image lets people use public Instagram posts and reels to generate AI content,...
+- [Read more](https://thehackernews.com/2026/07/metas-new-ai-image-tool-lets-others-use.html)
 
-### DDB: Source-Level Interactive Debugging for Distributed Applications
+### Top AI Agents Built to Catch Malicious Code Can Be Tricked Into Running It
 - **Published**: July 09, 2026
-- **Summary**: https://arxiv.org/abs/2607.06107</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48840519">https://news.ycombinator.co......
-- [Read more](https://arxiv.org/abs/2607.06107)
+- **Summary**: Ask an AI coding agent to scan open-source code for security holes, and it might run the attacker's code on your own machine instead.
+
+That is the fin...
+- [Read more](https://thehackernews.com/2026/07/friendly-fire-ai-agents-built-to-catch.html)
 
 ---
 
