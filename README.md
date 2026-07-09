@@ -16,15 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### AI Coding Agents Found Triggering Endpoint Security Rules Built to Catch Attackers
-- **Published**: July 08, 2026
-- **Summary**: Sophos looked at a week of its own endpoint data and found that AI coding agents such as Claude Code, Cursor, and OpenAI Codex are setting off detecti...
-- [Read more](https://thehackernews.com/2026/07/ai-coding-agents-found-triggering.html)
+### The library of lost journals 603 pages novel fiction book
+- **Published**: July 09, 2026
+- **Summary**: https://play.google.com/store/books/details/The_Li......
+- [Read more](https://play.google.com/store/books/details/The_Library_of_Lost_Journals_The_Archivist_s_Journ?id=s4TdEQAAQBAJ&hl=en_US)
 
-### New HalluSquatting Attack Could Trick AI Coding Assistants Into Installing Botnet Malware
-- **Published**: July 08, 2026
-- **Summary**: AI coding assistants have a habit of making things up. Ask one to fetch a popular tool, and it will sometimes hand back a real-sounding name for a pro...
-- [Read more](https://thehackernews.com/2026/07/new-hallusquatting-attack-could-trick.html)
+### DDB: Source-Level Interactive Debugging for Distributed Applications
+- **Published**: July 09, 2026
+- **Summary**: https://arxiv.org/abs/2607.06107</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48840519">https://news.ycombinator.co......
+- [Read more](https://arxiv.org/abs/2607.06107)
 
 ---
 
