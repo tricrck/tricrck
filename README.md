@@ -16,15 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Dormant GitHub Accounts Help Attackers Blend In While Mapping Corporate Orgs
+### The NTP server of Australia's largest mobile provider reset time to 2006
 - **Published**: July 10, 2026
-- **Summary**: Datadog Security Labs is warning of "several overlapping campaigns" that are systematically enumerating corporate GitHub organizations, repositories, ...
-- [Read more](https://thehackernews.com/2026/07/dormant-github-accounts-help-attackers.html)
+- **Summary**: https://www.abc.net.au/news/2026-07-10/telstra-warned-about-vulnera......
+- **Keywords**: outage
+- [Read more](https://www.abc.net.au/news/2026-07-10/telstra-warned-about-vulnerability-before-national-outage/106896906)
 
-### New GigaWiper Windows Backdoor Bundles Disk Wiping, Fake Ransomware, and Spyware
-- **Published**: July 09, 2026
-- **Summary**: Microsoft has taken apart a destructive Windows backdoor it calls GigaWiper. What stands out is how it is built: not one tool but three older destruct...
-- [Read more](https://thehackernews.com/2026/07/new-gigawiper-windows-backdoor-bundles.html)
+### Microsoft's emissions surged 25% in 2025 during data center boom
+- **Published**: July 10, 2026
+- **Summary**: https://fortune.com/2026/07/09/microsoft-carbon-emissions-2025-data-centers/</a></p>
+<p>Comments ......
+- [Read more](https://fortune.com/2026/07/09/microsoft-carbon-emissions-2025-data-centers/)
 
 ---
 

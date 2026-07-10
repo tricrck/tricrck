@@ -1,6 +1,123 @@
 {
   "chaos_ranked": [
     {
+      "title": "The NTP server of Australia's largest mobile provider reset time to 2006",
+      "link": "https://www.abc.net.au/news/2026-07-10/telstra-warned-about-vulnerability-before-national-outage/106896906",
+      "summary": "<p>Article URL: <a href=\"https://www.abc.net.au/news/2026-07-10/telstra-warned-about-vulnerability-before-national-outage/106896906\">https://www.abc.net.au/news/2026-07-10/telstra-warned-about-vulnera...",
+      "published": "2026-07-10T03:19:45+00:00",
+      "domain": "abc.net.au",
+      "scores": {
+        "chaos": 13.2,
+        "anarchy": 3.0,
+        "overall": 8.1
+      },
+      "keywords": {
+        "chaos": [
+          "outage"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Microsoft's emissions surged 25% in 2025 during data center boom",
+      "link": "https://fortune.com/2026/07/09/microsoft-carbon-emissions-2025-data-centers/",
+      "summary": "<p>Article URL: <a href=\"https://fortune.com/2026/07/09/microsoft-carbon-emissions-2025-data-centers/\">https://fortune.com/2026/07/09/microsoft-carbon-emissions-2025-data-centers/</a></p>\n<p>Comments ...",
+      "published": "2026-07-10T03:22:05+00:00",
+      "domain": "fortune.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "NSW Police infiltrate 'VIP Network' underworld phones, send warning message",
+      "link": "https://www.abc.net.au/news/2026-07-10/nsw-police-infiltrate-underworld-app/106900648",
+      "summary": "<p>Article URL: <a href=\"https://www.abc.net.au/news/2026-07-10/nsw-police-infiltrate-underworld-app/106900648\">https://www.abc.net.au/news/2026-07-10/nsw-police-infiltrate-underworld-app/106900648</a...",
+      "published": "2026-07-10T03:22:01+00:00",
+      "domain": "abc.net.au",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The OS/2 Operating System Didn't Die. It Went Underground (2019)",
+      "link": "https://hackaday.com/2019/06/20/the-os-2-operating-system-didnt-die-it-went-underground/",
+      "summary": "<p>Article URL: <a href=\"https://hackaday.com/2019/06/20/the-os-2-operating-system-didnt-die-it-went-underground/\">https://hackaday.com/2019/06/20/the-os-2-operating-system-didnt-die-it-went-undergrou...",
+      "published": "2026-07-10T03:18:44+00:00",
+      "domain": "hackaday.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 20.1,
+        "overall": 11.6
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": [
+          "underground",
+          "underground"
+        ]
+      }
+    },
+    {
+      "title": "Boeing's Smallest Max Jet Nears FAA Milestone After Years of Delays",
+      "link": "https://www.wsj.com/business/airlines/boeings-smallest-max-jet-nears-faa-milestone-after-years-of-delays-1078ff04",
+      "summary": "<p>Article URL: <a href=\"https://www.wsj.com/business/airlines/boeings-smallest-max-jet-nears-faa-milestone-after-years-of-delays-1078ff04\">https://www.wsj.com/business/airlines/boeings-smallest-max-j...",
+      "published": "2026-07-10T03:11:57+00:00",
+      "domain": "wsj.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Focus",
+      "link": "https://boz.com/articles/focus",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48854363\">Comments</a>...",
+      "published": "2026-07-10T00:40:33+00:00",
+      "domain": "boz.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "CEOs are being left baffled at the high cost of moving to AI \u2014 shockingly enough, sacking human workers isn't resulting in huge savings",
+      "link": "https://www.reddit.com/r/technology/comments/1us7rrx/ceos_are_being_left_baffled_at_the_high_cost_of/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1us7rrx/ceos_are_being_left_baffled_at_the_high_cost_of/\"> <img alt=\"CEOs are being left baffled at the high cost of moving to AI...",
+      "published": "2026-07-10T00:09:51+00:00",
+      "domain": "reddit.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "Dormant GitHub Accounts Help Attackers Blend In While Mapping Corporate Orgs",
       "link": "https://thehackernews.com/2026/07/dormant-github-accounts-help-attackers.html",
       "summary": "Datadog Security Labs is warning of \"several overlapping campaigns\" that are systematically enumerating corporate GitHub organizations, repositories, and user accounts through the GitHub&nbsp;API.\n\n\"O...",
@@ -38,120 +155,6 @@
       "summary": "GitHub has officially announced the release of npm version 12 with install scripts disabled by default, along with deprecating granular access tokens (GATs) designed to bypass two-factor authenticatio...",
       "published": "2026-07-09T22:19:02+05:30",
       "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "ThreatsDay: Cloud Bucket Hijacking, Windows LPE Chain, Global Fraud Bust + 17 More Stories",
-      "link": "https://thehackernews.com/2026/07/threatsday-cloud-bucket-hijacking.html",
-      "summary": "Most security mess starts as admin work. A link gets clicked. A tool gets trusted. A bucket name gets reused. A setting stays loose because nobody wants to touch&nbsp;it.\n\nThis week is full of that ki...",
-      "published": "2026-07-09T20:39:28+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "OpenAI is discontinuing ChatGPT Atlas, its standalone desktop browser",
-      "link": "https://9to5mac.com/2026/07/09/openai-is-discontinuing-chatgpt-atlas-its-standalone-desktop-browser/",
-      "summary": "<p>Article URL: <a href=\"https://9to5mac.com/2026/07/09/openai-is-discontinuing-chatgpt-atlas-its-standalone-desktop-browser/\">https://9to5mac.com/2026/07/09/openai-is-discontinuing-chatgpt-atlas-its-...",
-      "published": "2026-07-09T19:44:31+00:00",
-      "domain": "9to5mac.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "N+1",
-      "link": "https://www.woman-of-letters.com/p/n1",
-      "summary": "<p>Article URL: <a href=\"https://www.woman-of-letters.com/p/n1\">https://www.woman-of-letters.com/p/n1</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48851412\">https://news.ycom...",
-      "published": "2026-07-09T19:43:49+00:00",
-      "domain": "woman-of-letters.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "AI that judges fantasy battles from images",
-      "link": "https://dreadpit.com/",
-      "summary": "<p>Article URL: <a href=\"https://dreadpit.com/\">https://dreadpit.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48851393\">https://news.ycombinator.com/item?id=48851393</a>...",
-      "published": "2026-07-09T19:42:38+00:00",
-      "domain": "dreadpit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Jeez is dead: post-mortem of an autonomous agent that died twice",
-      "link": "https://www.marzapower.com/blog/jeez/season2/the-post-mortem/",
-      "summary": "<p>Article URL: <a href=\"https://www.marzapower.com/blog/jeez/season2/the-post-mortem/\">https://www.marzapower.com/blog/jeez/season2/the-post-mortem/</a></p>\n<p>Comments URL: <a href=\"https://news.yco...",
-      "published": "2026-07-09T19:42:11+00:00",
-      "domain": "marzapower.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 11.9,
-        "overall": 7.5
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": [
-          "autonomous"
-        ]
-      }
-    },
-    {
-      "title": "Nancy Pelosi, Donald Trump bet on the same 10 stocks",
-      "link": "https://www.msn.com/en-us/money/news/nancy-pelosi-donald-trump-bet-on-the-same-10-stocks-some-might-surprise-you/ar-AA27AqAt",
-      "summary": "<p>Article URL: <a href=\"https://www.msn.com/en-us/money/news/nancy-pelosi-donald-trump-bet-on-the-same-10-stocks-some-might-surprise-you/ar-AA27AqAt\">https://www.msn.com/en-us/money/news/nancy-pelosi...",
-      "published": "2026-07-09T19:41:33+00:00",
-      "domain": "msn.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "GLM 5.2 is nearly as accurate as a human book keeper",
-      "link": "https://toot-books.pages.dev/blog/glm-5-2-vat-benchmark",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48850414\">Comments</a>...",
-      "published": "2026-07-09T18:29:41+00:00",
-      "domain": "toot-books.pages.dev",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -165,21 +168,120 @@
   ],
   "anarchy_ranked": [
     {
-      "title": "Jeez is dead: post-mortem of an autonomous agent that died twice",
-      "link": "https://www.marzapower.com/blog/jeez/season2/the-post-mortem/",
-      "summary": "<p>Article URL: <a href=\"https://www.marzapower.com/blog/jeez/season2/the-post-mortem/\">https://www.marzapower.com/blog/jeez/season2/the-post-mortem/</a></p>\n<p>Comments URL: <a href=\"https://news.yco...",
-      "published": "2026-07-09T19:42:11+00:00",
-      "domain": "marzapower.com",
+      "title": "The OS/2 Operating System Didn't Die. It Went Underground (2019)",
+      "link": "https://hackaday.com/2019/06/20/the-os-2-operating-system-didnt-die-it-went-underground/",
+      "summary": "<p>Article URL: <a href=\"https://hackaday.com/2019/06/20/the-os-2-operating-system-didnt-die-it-went-underground/\">https://hackaday.com/2019/06/20/the-os-2-operating-system-didnt-die-it-went-undergrou...",
+      "published": "2026-07-10T03:18:44+00:00",
+      "domain": "hackaday.com",
       "scores": {
         "chaos": 3.0,
-        "anarchy": 11.9,
-        "overall": 7.5
+        "anarchy": 20.1,
+        "overall": 11.6
       },
       "keywords": {
         "chaos": [],
         "anarchy": [
-          "autonomous"
+          "underground",
+          "underground"
         ]
+      }
+    },
+    {
+      "title": "Microsoft's emissions surged 25% in 2025 during data center boom",
+      "link": "https://fortune.com/2026/07/09/microsoft-carbon-emissions-2025-data-centers/",
+      "summary": "<p>Article URL: <a href=\"https://fortune.com/2026/07/09/microsoft-carbon-emissions-2025-data-centers/\">https://fortune.com/2026/07/09/microsoft-carbon-emissions-2025-data-centers/</a></p>\n<p>Comments ...",
+      "published": "2026-07-10T03:22:05+00:00",
+      "domain": "fortune.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "NSW Police infiltrate 'VIP Network' underworld phones, send warning message",
+      "link": "https://www.abc.net.au/news/2026-07-10/nsw-police-infiltrate-underworld-app/106900648",
+      "summary": "<p>Article URL: <a href=\"https://www.abc.net.au/news/2026-07-10/nsw-police-infiltrate-underworld-app/106900648\">https://www.abc.net.au/news/2026-07-10/nsw-police-infiltrate-underworld-app/106900648</a...",
+      "published": "2026-07-10T03:22:01+00:00",
+      "domain": "abc.net.au",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The NTP server of Australia's largest mobile provider reset time to 2006",
+      "link": "https://www.abc.net.au/news/2026-07-10/telstra-warned-about-vulnerability-before-national-outage/106896906",
+      "summary": "<p>Article URL: <a href=\"https://www.abc.net.au/news/2026-07-10/telstra-warned-about-vulnerability-before-national-outage/106896906\">https://www.abc.net.au/news/2026-07-10/telstra-warned-about-vulnera...",
+      "published": "2026-07-10T03:19:45+00:00",
+      "domain": "abc.net.au",
+      "scores": {
+        "chaos": 13.2,
+        "anarchy": 3.0,
+        "overall": 8.1
+      },
+      "keywords": {
+        "chaos": [
+          "outage"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Boeing's Smallest Max Jet Nears FAA Milestone After Years of Delays",
+      "link": "https://www.wsj.com/business/airlines/boeings-smallest-max-jet-nears-faa-milestone-after-years-of-delays-1078ff04",
+      "summary": "<p>Article URL: <a href=\"https://www.wsj.com/business/airlines/boeings-smallest-max-jet-nears-faa-milestone-after-years-of-delays-1078ff04\">https://www.wsj.com/business/airlines/boeings-smallest-max-j...",
+      "published": "2026-07-10T03:11:57+00:00",
+      "domain": "wsj.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Focus",
+      "link": "https://boz.com/articles/focus",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48854363\">Comments</a>...",
+      "published": "2026-07-10T00:40:33+00:00",
+      "domain": "boz.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "CEOs are being left baffled at the high cost of moving to AI \u2014 shockingly enough, sacking human workers isn't resulting in huge savings",
+      "link": "https://www.reddit.com/r/technology/comments/1us7rrx/ceos_are_being_left_baffled_at_the_high_cost_of/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1us7rrx/ceos_are_being_left_baffled_at_the_high_cost_of/\"> <img alt=\"CEOs are being left baffled at the high cost of moving to AI...",
+      "published": "2026-07-10T00:09:51+00:00",
+      "domain": "reddit.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
       }
     },
     {
@@ -220,102 +322,6 @@
       "summary": "GitHub has officially announced the release of npm version 12 with install scripts disabled by default, along with deprecating granular access tokens (GATs) designed to bypass two-factor authenticatio...",
       "published": "2026-07-09T22:19:02+05:30",
       "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "ThreatsDay: Cloud Bucket Hijacking, Windows LPE Chain, Global Fraud Bust + 17 More Stories",
-      "link": "https://thehackernews.com/2026/07/threatsday-cloud-bucket-hijacking.html",
-      "summary": "Most security mess starts as admin work. A link gets clicked. A tool gets trusted. A bucket name gets reused. A setting stays loose because nobody wants to touch&nbsp;it.\n\nThis week is full of that ki...",
-      "published": "2026-07-09T20:39:28+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "OpenAI is discontinuing ChatGPT Atlas, its standalone desktop browser",
-      "link": "https://9to5mac.com/2026/07/09/openai-is-discontinuing-chatgpt-atlas-its-standalone-desktop-browser/",
-      "summary": "<p>Article URL: <a href=\"https://9to5mac.com/2026/07/09/openai-is-discontinuing-chatgpt-atlas-its-standalone-desktop-browser/\">https://9to5mac.com/2026/07/09/openai-is-discontinuing-chatgpt-atlas-its-...",
-      "published": "2026-07-09T19:44:31+00:00",
-      "domain": "9to5mac.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "N+1",
-      "link": "https://www.woman-of-letters.com/p/n1",
-      "summary": "<p>Article URL: <a href=\"https://www.woman-of-letters.com/p/n1\">https://www.woman-of-letters.com/p/n1</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48851412\">https://news.ycom...",
-      "published": "2026-07-09T19:43:49+00:00",
-      "domain": "woman-of-letters.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "AI that judges fantasy battles from images",
-      "link": "https://dreadpit.com/",
-      "summary": "<p>Article URL: <a href=\"https://dreadpit.com/\">https://dreadpit.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48851393\">https://news.ycombinator.com/item?id=48851393</a>...",
-      "published": "2026-07-09T19:42:38+00:00",
-      "domain": "dreadpit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Nancy Pelosi, Donald Trump bet on the same 10 stocks",
-      "link": "https://www.msn.com/en-us/money/news/nancy-pelosi-donald-trump-bet-on-the-same-10-stocks-some-might-surprise-you/ar-AA27AqAt",
-      "summary": "<p>Article URL: <a href=\"https://www.msn.com/en-us/money/news/nancy-pelosi-donald-trump-bet-on-the-same-10-stocks-some-might-surprise-you/ar-AA27AqAt\">https://www.msn.com/en-us/money/news/nancy-pelosi...",
-      "published": "2026-07-09T19:41:33+00:00",
-      "domain": "msn.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "GLM 5.2 is nearly as accurate as a human book keeper",
-      "link": "https://toot-books.pages.dev/blog/glm-5-2-vat-benchmark",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48850414\">Comments</a>...",
-      "published": "2026-07-09T18:29:41+00:00",
-      "domain": "toot-books.pages.dev",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -329,21 +335,120 @@
   ],
   "overall_ranked": [
     {
-      "title": "Jeez is dead: post-mortem of an autonomous agent that died twice",
-      "link": "https://www.marzapower.com/blog/jeez/season2/the-post-mortem/",
-      "summary": "<p>Article URL: <a href=\"https://www.marzapower.com/blog/jeez/season2/the-post-mortem/\">https://www.marzapower.com/blog/jeez/season2/the-post-mortem/</a></p>\n<p>Comments URL: <a href=\"https://news.yco...",
-      "published": "2026-07-09T19:42:11+00:00",
-      "domain": "marzapower.com",
+      "title": "The OS/2 Operating System Didn't Die. It Went Underground (2019)",
+      "link": "https://hackaday.com/2019/06/20/the-os-2-operating-system-didnt-die-it-went-underground/",
+      "summary": "<p>Article URL: <a href=\"https://hackaday.com/2019/06/20/the-os-2-operating-system-didnt-die-it-went-underground/\">https://hackaday.com/2019/06/20/the-os-2-operating-system-didnt-die-it-went-undergrou...",
+      "published": "2026-07-10T03:18:44+00:00",
+      "domain": "hackaday.com",
       "scores": {
         "chaos": 3.0,
-        "anarchy": 11.9,
-        "overall": 7.5
+        "anarchy": 20.1,
+        "overall": 11.6
       },
       "keywords": {
         "chaos": [],
         "anarchy": [
-          "autonomous"
+          "underground",
+          "underground"
         ]
+      }
+    },
+    {
+      "title": "The NTP server of Australia's largest mobile provider reset time to 2006",
+      "link": "https://www.abc.net.au/news/2026-07-10/telstra-warned-about-vulnerability-before-national-outage/106896906",
+      "summary": "<p>Article URL: <a href=\"https://www.abc.net.au/news/2026-07-10/telstra-warned-about-vulnerability-before-national-outage/106896906\">https://www.abc.net.au/news/2026-07-10/telstra-warned-about-vulnera...",
+      "published": "2026-07-10T03:19:45+00:00",
+      "domain": "abc.net.au",
+      "scores": {
+        "chaos": 13.2,
+        "anarchy": 3.0,
+        "overall": 8.1
+      },
+      "keywords": {
+        "chaos": [
+          "outage"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Microsoft's emissions surged 25% in 2025 during data center boom",
+      "link": "https://fortune.com/2026/07/09/microsoft-carbon-emissions-2025-data-centers/",
+      "summary": "<p>Article URL: <a href=\"https://fortune.com/2026/07/09/microsoft-carbon-emissions-2025-data-centers/\">https://fortune.com/2026/07/09/microsoft-carbon-emissions-2025-data-centers/</a></p>\n<p>Comments ...",
+      "published": "2026-07-10T03:22:05+00:00",
+      "domain": "fortune.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "NSW Police infiltrate 'VIP Network' underworld phones, send warning message",
+      "link": "https://www.abc.net.au/news/2026-07-10/nsw-police-infiltrate-underworld-app/106900648",
+      "summary": "<p>Article URL: <a href=\"https://www.abc.net.au/news/2026-07-10/nsw-police-infiltrate-underworld-app/106900648\">https://www.abc.net.au/news/2026-07-10/nsw-police-infiltrate-underworld-app/106900648</a...",
+      "published": "2026-07-10T03:22:01+00:00",
+      "domain": "abc.net.au",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Boeing's Smallest Max Jet Nears FAA Milestone After Years of Delays",
+      "link": "https://www.wsj.com/business/airlines/boeings-smallest-max-jet-nears-faa-milestone-after-years-of-delays-1078ff04",
+      "summary": "<p>Article URL: <a href=\"https://www.wsj.com/business/airlines/boeings-smallest-max-jet-nears-faa-milestone-after-years-of-delays-1078ff04\">https://www.wsj.com/business/airlines/boeings-smallest-max-j...",
+      "published": "2026-07-10T03:11:57+00:00",
+      "domain": "wsj.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Focus",
+      "link": "https://boz.com/articles/focus",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48854363\">Comments</a>...",
+      "published": "2026-07-10T00:40:33+00:00",
+      "domain": "boz.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "CEOs are being left baffled at the high cost of moving to AI \u2014 shockingly enough, sacking human workers isn't resulting in huge savings",
+      "link": "https://www.reddit.com/r/technology/comments/1us7rrx/ceos_are_being_left_baffled_at_the_high_cost_of/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1us7rrx/ceos_are_being_left_baffled_at_the_high_cost_of/\"> <img alt=\"CEOs are being left baffled at the high cost of moving to AI...",
+      "published": "2026-07-10T00:09:51+00:00",
+      "domain": "reddit.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
       }
     },
     {
@@ -384,102 +489,6 @@
       "summary": "GitHub has officially announced the release of npm version 12 with install scripts disabled by default, along with deprecating granular access tokens (GATs) designed to bypass two-factor authenticatio...",
       "published": "2026-07-09T22:19:02+05:30",
       "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "ThreatsDay: Cloud Bucket Hijacking, Windows LPE Chain, Global Fraud Bust + 17 More Stories",
-      "link": "https://thehackernews.com/2026/07/threatsday-cloud-bucket-hijacking.html",
-      "summary": "Most security mess starts as admin work. A link gets clicked. A tool gets trusted. A bucket name gets reused. A setting stays loose because nobody wants to touch&nbsp;it.\n\nThis week is full of that ki...",
-      "published": "2026-07-09T20:39:28+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "OpenAI is discontinuing ChatGPT Atlas, its standalone desktop browser",
-      "link": "https://9to5mac.com/2026/07/09/openai-is-discontinuing-chatgpt-atlas-its-standalone-desktop-browser/",
-      "summary": "<p>Article URL: <a href=\"https://9to5mac.com/2026/07/09/openai-is-discontinuing-chatgpt-atlas-its-standalone-desktop-browser/\">https://9to5mac.com/2026/07/09/openai-is-discontinuing-chatgpt-atlas-its-...",
-      "published": "2026-07-09T19:44:31+00:00",
-      "domain": "9to5mac.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "N+1",
-      "link": "https://www.woman-of-letters.com/p/n1",
-      "summary": "<p>Article URL: <a href=\"https://www.woman-of-letters.com/p/n1\">https://www.woman-of-letters.com/p/n1</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48851412\">https://news.ycom...",
-      "published": "2026-07-09T19:43:49+00:00",
-      "domain": "woman-of-letters.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "AI that judges fantasy battles from images",
-      "link": "https://dreadpit.com/",
-      "summary": "<p>Article URL: <a href=\"https://dreadpit.com/\">https://dreadpit.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48851393\">https://news.ycombinator.com/item?id=48851393</a>...",
-      "published": "2026-07-09T19:42:38+00:00",
-      "domain": "dreadpit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Nancy Pelosi, Donald Trump bet on the same 10 stocks",
-      "link": "https://www.msn.com/en-us/money/news/nancy-pelosi-donald-trump-bet-on-the-same-10-stocks-some-might-surprise-you/ar-AA27AqAt",
-      "summary": "<p>Article URL: <a href=\"https://www.msn.com/en-us/money/news/nancy-pelosi-donald-trump-bet-on-the-same-10-stocks-some-might-surprise-you/ar-AA27AqAt\">https://www.msn.com/en-us/money/news/nancy-pelosi...",
-      "published": "2026-07-09T19:41:33+00:00",
-      "domain": "msn.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "GLM 5.2 is nearly as accurate as a human book keeper",
-      "link": "https://toot-books.pages.dev/blog/glm-5-2-vat-benchmark",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48850414\">Comments</a>...",
-      "published": "2026-07-09T18:29:41+00:00",
-      "domain": "toot-books.pages.dev",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -493,6 +502,123 @@
   ],
   "all_articles": [
     {
+      "title": "Microsoft's emissions surged 25% in 2025 during data center boom",
+      "link": "https://fortune.com/2026/07/09/microsoft-carbon-emissions-2025-data-centers/",
+      "summary": "<p>Article URL: <a href=\"https://fortune.com/2026/07/09/microsoft-carbon-emissions-2025-data-centers/\">https://fortune.com/2026/07/09/microsoft-carbon-emissions-2025-data-centers/</a></p>\n<p>Comments ...",
+      "published": "2026-07-10T03:22:05+00:00",
+      "domain": "fortune.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "NSW Police infiltrate 'VIP Network' underworld phones, send warning message",
+      "link": "https://www.abc.net.au/news/2026-07-10/nsw-police-infiltrate-underworld-app/106900648",
+      "summary": "<p>Article URL: <a href=\"https://www.abc.net.au/news/2026-07-10/nsw-police-infiltrate-underworld-app/106900648\">https://www.abc.net.au/news/2026-07-10/nsw-police-infiltrate-underworld-app/106900648</a...",
+      "published": "2026-07-10T03:22:01+00:00",
+      "domain": "abc.net.au",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The NTP server of Australia's largest mobile provider reset time to 2006",
+      "link": "https://www.abc.net.au/news/2026-07-10/telstra-warned-about-vulnerability-before-national-outage/106896906",
+      "summary": "<p>Article URL: <a href=\"https://www.abc.net.au/news/2026-07-10/telstra-warned-about-vulnerability-before-national-outage/106896906\">https://www.abc.net.au/news/2026-07-10/telstra-warned-about-vulnera...",
+      "published": "2026-07-10T03:19:45+00:00",
+      "domain": "abc.net.au",
+      "scores": {
+        "chaos": 13.2,
+        "anarchy": 3.0,
+        "overall": 8.1
+      },
+      "keywords": {
+        "chaos": [
+          "outage"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The OS/2 Operating System Didn't Die. It Went Underground (2019)",
+      "link": "https://hackaday.com/2019/06/20/the-os-2-operating-system-didnt-die-it-went-underground/",
+      "summary": "<p>Article URL: <a href=\"https://hackaday.com/2019/06/20/the-os-2-operating-system-didnt-die-it-went-underground/\">https://hackaday.com/2019/06/20/the-os-2-operating-system-didnt-die-it-went-undergrou...",
+      "published": "2026-07-10T03:18:44+00:00",
+      "domain": "hackaday.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 20.1,
+        "overall": 11.6
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": [
+          "underground",
+          "underground"
+        ]
+      }
+    },
+    {
+      "title": "Boeing's Smallest Max Jet Nears FAA Milestone After Years of Delays",
+      "link": "https://www.wsj.com/business/airlines/boeings-smallest-max-jet-nears-faa-milestone-after-years-of-delays-1078ff04",
+      "summary": "<p>Article URL: <a href=\"https://www.wsj.com/business/airlines/boeings-smallest-max-jet-nears-faa-milestone-after-years-of-delays-1078ff04\">https://www.wsj.com/business/airlines/boeings-smallest-max-j...",
+      "published": "2026-07-10T03:11:57+00:00",
+      "domain": "wsj.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Focus",
+      "link": "https://boz.com/articles/focus",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48854363\">Comments</a>...",
+      "published": "2026-07-10T00:40:33+00:00",
+      "domain": "boz.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "CEOs are being left baffled at the high cost of moving to AI \u2014 shockingly enough, sacking human workers isn't resulting in huge savings",
+      "link": "https://www.reddit.com/r/technology/comments/1us7rrx/ceos_are_being_left_baffled_at_the_high_cost_of/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1us7rrx/ceos_are_being_left_baffled_at_the_high_cost_of/\"> <img alt=\"CEOs are being left baffled at the high cost of moving to AI...",
+      "published": "2026-07-10T00:09:51+00:00",
+      "domain": "reddit.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "Dormant GitHub Accounts Help Attackers Blend In While Mapping Corporate Orgs",
       "link": "https://thehackernews.com/2026/07/dormant-github-accounts-help-attackers.html",
       "summary": "Datadog Security Labs is warning of \"several overlapping campaigns\" that are systematically enumerating corporate GitHub organizations, repositories, and user accounts through the GitHub&nbsp;API.\n\n\"O...",
@@ -530,120 +656,6 @@
       "summary": "GitHub has officially announced the release of npm version 12 with install scripts disabled by default, along with deprecating granular access tokens (GATs) designed to bypass two-factor authenticatio...",
       "published": "2026-07-09T22:19:02+05:30",
       "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "ThreatsDay: Cloud Bucket Hijacking, Windows LPE Chain, Global Fraud Bust + 17 More Stories",
-      "link": "https://thehackernews.com/2026/07/threatsday-cloud-bucket-hijacking.html",
-      "summary": "Most security mess starts as admin work. A link gets clicked. A tool gets trusted. A bucket name gets reused. A setting stays loose because nobody wants to touch&nbsp;it.\n\nThis week is full of that ki...",
-      "published": "2026-07-09T20:39:28+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "OpenAI is discontinuing ChatGPT Atlas, its standalone desktop browser",
-      "link": "https://9to5mac.com/2026/07/09/openai-is-discontinuing-chatgpt-atlas-its-standalone-desktop-browser/",
-      "summary": "<p>Article URL: <a href=\"https://9to5mac.com/2026/07/09/openai-is-discontinuing-chatgpt-atlas-its-standalone-desktop-browser/\">https://9to5mac.com/2026/07/09/openai-is-discontinuing-chatgpt-atlas-its-...",
-      "published": "2026-07-09T19:44:31+00:00",
-      "domain": "9to5mac.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "N+1",
-      "link": "https://www.woman-of-letters.com/p/n1",
-      "summary": "<p>Article URL: <a href=\"https://www.woman-of-letters.com/p/n1\">https://www.woman-of-letters.com/p/n1</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48851412\">https://news.ycom...",
-      "published": "2026-07-09T19:43:49+00:00",
-      "domain": "woman-of-letters.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "AI that judges fantasy battles from images",
-      "link": "https://dreadpit.com/",
-      "summary": "<p>Article URL: <a href=\"https://dreadpit.com/\">https://dreadpit.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48851393\">https://news.ycombinator.com/item?id=48851393</a>...",
-      "published": "2026-07-09T19:42:38+00:00",
-      "domain": "dreadpit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Jeez is dead: post-mortem of an autonomous agent that died twice",
-      "link": "https://www.marzapower.com/blog/jeez/season2/the-post-mortem/",
-      "summary": "<p>Article URL: <a href=\"https://www.marzapower.com/blog/jeez/season2/the-post-mortem/\">https://www.marzapower.com/blog/jeez/season2/the-post-mortem/</a></p>\n<p>Comments URL: <a href=\"https://news.yco...",
-      "published": "2026-07-09T19:42:11+00:00",
-      "domain": "marzapower.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 11.9,
-        "overall": 7.5
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": [
-          "autonomous"
-        ]
-      }
-    },
-    {
-      "title": "Nancy Pelosi, Donald Trump bet on the same 10 stocks",
-      "link": "https://www.msn.com/en-us/money/news/nancy-pelosi-donald-trump-bet-on-the-same-10-stocks-some-might-surprise-you/ar-AA27AqAt",
-      "summary": "<p>Article URL: <a href=\"https://www.msn.com/en-us/money/news/nancy-pelosi-donald-trump-bet-on-the-same-10-stocks-some-might-surprise-you/ar-AA27AqAt\">https://www.msn.com/en-us/money/news/nancy-pelosi...",
-      "published": "2026-07-09T19:41:33+00:00",
-      "domain": "msn.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "GLM 5.2 is nearly as accurate as a human book keeper",
-      "link": "https://toot-books.pages.dev/blog/glm-5-2-vat-benchmark",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48850414\">Comments</a>...",
-      "published": "2026-07-09T18:29:41+00:00",
-      "domain": "toot-books.pages.dev",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
