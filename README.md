@@ -16,17 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### The NTP server of Australia's largest mobile provider reset time to 2006
+### Attackers Exploit 'Ill Bloom' Vulnerability to Drain $3.1 Million From Cryptocurrency Wallets
 - **Published**: July 10, 2026
-- **Summary**: https://www.abc.net.au/news/2026-07-10/telstra-warned-about-vulnera......
-- **Keywords**: outage
-- [Read more](https://www.abc.net.au/news/2026-07-10/telstra-warned-about-vulnerability-before-national-outage/106896906)
+- **Summary**: Security firm&nbsp;Coinspect&nbsp;has disclosed a crypto wallet flaw it calls&nbsp;Ill Bloom, and attackers are already using it. The flaw is in how s...
+- [Read more](https://thehackernews.com/2026/07/attackers-exploit-ill-bloom.html)
 
-### Microsoft's emissions surged 25% in 2025 during data center boom
+### Ransomware Negotiator Gets 70 Months in Prison for Aiding BlackCat Attacks
 - **Published**: July 10, 2026
-- **Summary**: https://fortune.com/2026/07/09/microsoft-carbon-emissions-2025-data-centers/</a></p>
-<p>Comments ......
-- [Read more](https://fortune.com/2026/07/09/microsoft-carbon-emissions-2025-data-centers/)
+- **Summary**: A 41-year-old former ransomware negotiator has been sentenced to nearly six years (i.e., 70 months) in prison in the U.S. for their role in conspiring...
+- [Read more](https://thehackernews.com/2026/07/ransomware-negotiator-gets-70-months-in.html)
 
 ---
 
