@@ -1,29 +1,47 @@
 {
   "chaos_ranked": [
     {
-      "title": "Unpatched XRING Flaw in XQUIC Lets Remote Clients Crash HTTP/3 Servers",
-      "link": "https://thehackernews.com/2026/07/unpatched-xring-flaw-in-xquic-lets.html",
-      "summary": "A single wrong variable on one line in XQUIC, Alibaba's QUIC and HTTP/3 library, lets any remote client crash the server with a short burst of completely legal traffic. There is no patch.\n\nFoxIO resea...",
-      "published": "2026-07-10T17:17:43+05:30",
+      "title": "URGENT - Progress Tells ShareFile Customers to Shut Down Storage Zone Controllers Over Security Threat",
+      "link": "https://thehackernews.com/2026/07/urgent-progress-tells-sharefile.html",
+      "summary": "Progress Software has told ShareFile customers to shut down the Windows servers running their Storage Zone Controllers, confirming to The Hacker News that it is responding to a \"credible external secu...",
+      "published": "2026-07-10T22:00:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
-        "chaos": 25.9,
+        "chaos": 15.4,
         "anarchy": 3.0,
-        "overall": 14.4
+        "overall": 9.2
       },
       "keywords": {
         "chaos": [
-          "crash",
+          "down",
+          "down"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Six New U-Boot Flaws Could Let Malicious Images Crash Devices or Run Code at Boot",
+      "link": "https://thehackernews.com/2026/07/six-new-u-boot-flaws-could-let.html",
+      "summary": "Researchers at firmware security firm&nbsp;Binarly&nbsp;have found six new flaws in U-Boot, the small program that starts up hardware as varied as home routers, smart cameras, and the management chips...",
+      "published": "2026-07-10T21:27:14+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 14.2,
+        "anarchy": 3.0,
+        "overall": 8.6
+      },
+      "keywords": {
+        "chaos": [
           "crash"
         ],
         "anarchy": []
       }
     },
     {
-      "title": "New MODBEACON RAT Uses gRPC Streaming for Encrypted C2 Traffic",
-      "link": "https://thehackernews.com/2026/07/new-modbeacon-rat-uses-grpc-streaming.html",
-      "summary": "The China-linked cybercrime group known as Silver Fox has been attributed to a new Rust-based remote access trojan (RAR) called MODBEACON.\n\nChinese cybersecurity company QiAnXin said that while the th...",
-      "published": "2026-07-10T18:45:23+05:30",
+      "title": "Injective Labs GitHub Compromise Pushes Wallet-Key-Stealing npm Packages",
+      "link": "https://thehackernews.com/2026/07/injective-labs-github-compromise-pushes.html",
+      "summary": "Unknown threat actors compromised the Injective Labs SDK project's GitHub repository and leveraged it to publish a malicious package on the npm registry to steal cryptocurrency wallet private keys and...",
+      "published": "2026-07-10T21:59:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -36,10 +54,10 @@
       }
     },
     {
-      "title": "From 17,000 to 1.1 Million Assets: How Lumen Technologies Rebuilt Exposure Management at Scale",
-      "link": "https://thehackernews.com/2026/07/from-17000-to-11-million-assets-how.html",
-      "summary": "Most enterprises assume their asset inventory is close enough to accurate. The evidence suggests otherwise. According to a survey of over 600 security leaders in the 2026 Axonius Actionability Report,...",
-      "published": "2026-07-10T17:09:40+05:30",
+      "title": "Laser Attack Resets Tangem Wallet Passwords on Cards That Can't Be Patched",
+      "link": "https://thehackernews.com/2026/07/laser-attack-resets-tangem-wallet.html",
+      "summary": "Researchers at Ledger's&nbsp;Donjon security team&nbsp;have shown that a precisely timed laser pulse, aimed at the chip inside a Tangem crypto wallet card, can reset the card's password to anything th...",
+      "published": "2026-07-10T20:21:49+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -52,10 +70,10 @@
       }
     },
     {
-      "title": "Exposed Hacker Server Reveals WP-SHELLSTORM Backdooring Thousands of WordPress Sites",
-      "link": "https://thehackernews.com/2026/07/exposed-hacker-server-reveals-wp.html",
-      "summary": "A cybercrime crew left one of its own servers wide open on the internet for three weeks, and it exposed the operation's inner workings: the hacking tools, the activity logs, and target lists naming mo...",
-      "published": "2026-07-10T17:00:02+05:30",
+      "title": "Researcher Details WhatsApp-to-Host Attack Chain Using Three OpenClaw Flaws",
+      "link": "https://thehackernews.com/2026/07/researcher-details-whatsapp-to-host.html",
+      "summary": "Details have emerged about three now-patched security flaws in the OpenClaw personal artificial intelligence (AI) assistant that, if successfully exploited, could enable credential theft, privilege es...",
+      "published": "2026-07-10T19:49:50+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -68,11 +86,11 @@
       }
     },
     {
-      "title": "Study of 281 Free Android VPN Apps Finds Traffic Leaks, Unencrypted Data, and Tracking",
-      "link": "https://thehackernews.com/2026/07/study-of-281-free-android-vpn-apps.html",
-      "summary": "Researchers ran 281 of the most popular free VPN apps on the Google Play Store through a new testing system and found that many fail at the basics people install a VPN for, i.e., keeping their traffic...",
-      "published": "2026-07-10T16:26:23+05:30",
-      "domain": "thehackernews.com",
+      "title": "The first programmer I know who was murdered in a targeted strike was Haitham",
+      "link": "https://www.lrb.co.uk/the-paper/v48/n12/muhammad-shehada/i-would-never-release-him",
+      "summary": "<p>Article URL: <a href=\"https://www.lrb.co.uk/the-paper/v48/n12/muhammad-shehada/i-would-never-release-him\">https://www.lrb.co.uk/the-paper/v48/n12/muhammad-shehada/i-would-never-release-him</a></p>\n...",
+      "published": "2026-07-10T19:18:24+00:00",
+      "domain": "lrb.co.uk",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -84,11 +102,11 @@
       }
     },
     {
-      "title": "Mythos 5 offered outside the US by Anthropic",
-      "link": "https://news.sky.com/video/mythos-5-offered-outside-the-us-by-anthropic-13561860",
-      "summary": "<p>Article URL: <a href=\"https://news.sky.com/video/mythos-5-offered-outside-the-us-by-anthropic-13561860\">https://news.sky.com/video/mythos-5-offered-outside-the-us-by-anthropic-13561860</a></p>\n<p>C...",
-      "published": "2026-07-10T14:26:20+00:00",
-      "domain": "news.sky.com",
+      "title": "ChatGPT and Codex Desktop app merge confusion",
+      "link": "https://community.openai.com/t/where-did-my-chatgpt-projects-go/1386177",
+      "summary": "<p>Article URL: <a href=\"https://community.openai.com/t/where-did-my-chatgpt-projects-go/1386177\">https://community.openai.com/t/where-did-my-chatgpt-projects-go/1386177</a></p>\n<p>Comments URL: <a hr...",
+      "published": "2026-07-10T19:17:30+00:00",
+      "domain": "community.openai.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -100,11 +118,11 @@
       }
     },
     {
-      "title": "My niche Rust project now competes with Microsoft",
-      "link": "https://jdiaz97.github.io/blog/my-niche-rust-project-now-competes-with-microsfot/",
-      "summary": "<p>Article URL: <a href=\"https://jdiaz97.github.io/blog/my-niche-rust-project-now-competes-with-microsfot/\">https://jdiaz97.github.io/blog/my-niche-rust-project-now-competes-with-microsfot/</a></p>\n<p...",
-      "published": "2026-07-10T14:25:52+00:00",
-      "domain": "jdiaz97.github.io",
+      "title": "AI Gets a Cerebellum",
+      "link": "https://www.mccormick.northwestern.edu/news/articles/2026/07/ai-gets-a-cerebellum/",
+      "summary": "<p>Article URL: <a href=\"https://www.mccormick.northwestern.edu/news/articles/2026/07/ai-gets-a-cerebellum/\">https://www.mccormick.northwestern.edu/news/articles/2026/07/ai-gets-a-cerebellum/</a></p>\n...",
+      "published": "2026-07-10T19:16:46+00:00",
+      "domain": "mccormick.northwestern.edu",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -116,11 +134,11 @@
       }
     },
     {
-      "title": "Goodbye Substack, Hello Tuhat",
-      "link": "https://tuhat.net/@sbr/p/goodbye-hello",
-      "summary": "<p>Article URL: <a href=\"https://tuhat.net/@sbr/p/goodbye-hello\">https://tuhat.net/@sbr/p/goodbye-hello</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48860427\">https://news.yc...",
-      "published": "2026-07-10T14:25:46+00:00",
-      "domain": "tuhat.net",
+      "title": "What's Behind the Recent Legal Challenges to Costco's Iconic Rotisserie Chicken",
+      "link": "https://www.kavout.com/market-lens/what-s-behind-the-recent-legal-challenges-to-costco-s-iconic-rotisserie-chicken",
+      "summary": "<p>Article URL: <a href=\"https://www.kavout.com/market-lens/what-s-behind-the-recent-legal-challenges-to-costco-s-iconic-rotisserie-chicken\">https://www.kavout.com/market-lens/what-s-behind-the-recent...",
+      "published": "2026-07-10T19:15:57+00:00",
+      "domain": "kavout.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -132,27 +150,11 @@
       }
     },
     {
-      "title": "My Visionaire MCP verifies whether agent CSS fixes rendered",
-      "link": "https://github.com/mi60dev/visionaire-engine",
-      "summary": "<p>Article URL: <a href=\"https://github.com/mi60dev/visionaire-engine\">https://github.com/mi60dev/visionaire-engine</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48860419\">htt...",
-      "published": "2026-07-10T14:25:18+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Associate Editors resign from Statistics and Computing editorial board",
-      "link": "https://statmodeling.stat.columbia.edu/2026/07/10/18-associate-editors-resign-from-statistics-and-computing-editorial-board-problems-with-commercial-scholarly-publishing-and-what-does-this-all-mean/",
-      "summary": "<p>Article URL: <a href=\"https://statmodeling.stat.columbia.edu/2026/07/10/18-associate-editors-resign-from-statistics-and-computing-editorial-board-problems-with-commercial-scholarly-publishing-and-w...",
-      "published": "2026-07-10T14:24:53+00:00",
-      "domain": "statmodeling.stat.columbia.edu",
+      "title": "A bad X is better than none",
+      "link": "https://en.andros.dev/blog/cdc5a0bc/a-bad-x-is-better-than-none/",
+      "summary": "<p>Article URL: <a href=\"https://en.andros.dev/blog/cdc5a0bc/a-bad-x-is-better-than-none/\">https://en.andros.dev/blog/cdc5a0bc/a-bad-x-is-better-than-none/</a></p>\n<p>Comments URL: <a href=\"https://ne...",
+      "published": "2026-07-10T19:15:23+00:00",
+      "domain": "en.andros.dev",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -166,10 +168,29 @@
   ],
   "anarchy_ranked": [
     {
-      "title": "New MODBEACON RAT Uses gRPC Streaming for Encrypted C2 Traffic",
-      "link": "https://thehackernews.com/2026/07/new-modbeacon-rat-uses-grpc-streaming.html",
-      "summary": "The China-linked cybercrime group known as Silver Fox has been attributed to a new Rust-based remote access trojan (RAR) called MODBEACON.\n\nChinese cybersecurity company QiAnXin said that while the th...",
-      "published": "2026-07-10T18:45:23+05:30",
+      "title": "URGENT - Progress Tells ShareFile Customers to Shut Down Storage Zone Controllers Over Security Threat",
+      "link": "https://thehackernews.com/2026/07/urgent-progress-tells-sharefile.html",
+      "summary": "Progress Software has told ShareFile customers to shut down the Windows servers running their Storage Zone Controllers, confirming to The Hacker News that it is responding to a \"credible external secu...",
+      "published": "2026-07-10T22:00:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 15.4,
+        "anarchy": 3.0,
+        "overall": 9.2
+      },
+      "keywords": {
+        "chaos": [
+          "down",
+          "down"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Injective Labs GitHub Compromise Pushes Wallet-Key-Stealing npm Packages",
+      "link": "https://thehackernews.com/2026/07/injective-labs-github-compromise-pushes.html",
+      "summary": "Unknown threat actors compromised the Injective Labs SDK project's GitHub repository and leveraged it to publish a malicious package on the npm registry to steal cryptocurrency wallet private keys and...",
+      "published": "2026-07-10T21:59:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -182,29 +203,28 @@
       }
     },
     {
-      "title": "Unpatched XRING Flaw in XQUIC Lets Remote Clients Crash HTTP/3 Servers",
-      "link": "https://thehackernews.com/2026/07/unpatched-xring-flaw-in-xquic-lets.html",
-      "summary": "A single wrong variable on one line in XQUIC, Alibaba's QUIC and HTTP/3 library, lets any remote client crash the server with a short burst of completely legal traffic. There is no patch.\n\nFoxIO resea...",
-      "published": "2026-07-10T17:17:43+05:30",
+      "title": "Six New U-Boot Flaws Could Let Malicious Images Crash Devices or Run Code at Boot",
+      "link": "https://thehackernews.com/2026/07/six-new-u-boot-flaws-could-let.html",
+      "summary": "Researchers at firmware security firm&nbsp;Binarly&nbsp;have found six new flaws in U-Boot, the small program that starts up hardware as varied as home routers, smart cameras, and the management chips...",
+      "published": "2026-07-10T21:27:14+05:30",
       "domain": "thehackernews.com",
       "scores": {
-        "chaos": 25.9,
+        "chaos": 14.2,
         "anarchy": 3.0,
-        "overall": 14.4
+        "overall": 8.6
       },
       "keywords": {
         "chaos": [
-          "crash",
           "crash"
         ],
         "anarchy": []
       }
     },
     {
-      "title": "From 17,000 to 1.1 Million Assets: How Lumen Technologies Rebuilt Exposure Management at Scale",
-      "link": "https://thehackernews.com/2026/07/from-17000-to-11-million-assets-how.html",
-      "summary": "Most enterprises assume their asset inventory is close enough to accurate. The evidence suggests otherwise. According to a survey of over 600 security leaders in the 2026 Axonius Actionability Report,...",
-      "published": "2026-07-10T17:09:40+05:30",
+      "title": "Laser Attack Resets Tangem Wallet Passwords on Cards That Can't Be Patched",
+      "link": "https://thehackernews.com/2026/07/laser-attack-resets-tangem-wallet.html",
+      "summary": "Researchers at Ledger's&nbsp;Donjon security team&nbsp;have shown that a precisely timed laser pulse, aimed at the chip inside a Tangem crypto wallet card, can reset the card's password to anything th...",
+      "published": "2026-07-10T20:21:49+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -217,10 +237,10 @@
       }
     },
     {
-      "title": "Exposed Hacker Server Reveals WP-SHELLSTORM Backdooring Thousands of WordPress Sites",
-      "link": "https://thehackernews.com/2026/07/exposed-hacker-server-reveals-wp.html",
-      "summary": "A cybercrime crew left one of its own servers wide open on the internet for three weeks, and it exposed the operation's inner workings: the hacking tools, the activity logs, and target lists naming mo...",
-      "published": "2026-07-10T17:00:02+05:30",
+      "title": "Researcher Details WhatsApp-to-Host Attack Chain Using Three OpenClaw Flaws",
+      "link": "https://thehackernews.com/2026/07/researcher-details-whatsapp-to-host.html",
+      "summary": "Details have emerged about three now-patched security flaws in the OpenClaw personal artificial intelligence (AI) assistant that, if successfully exploited, could enable credential theft, privilege es...",
+      "published": "2026-07-10T19:49:50+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -233,11 +253,11 @@
       }
     },
     {
-      "title": "Study of 281 Free Android VPN Apps Finds Traffic Leaks, Unencrypted Data, and Tracking",
-      "link": "https://thehackernews.com/2026/07/study-of-281-free-android-vpn-apps.html",
-      "summary": "Researchers ran 281 of the most popular free VPN apps on the Google Play Store through a new testing system and found that many fail at the basics people install a VPN for, i.e., keeping their traffic...",
-      "published": "2026-07-10T16:26:23+05:30",
-      "domain": "thehackernews.com",
+      "title": "The first programmer I know who was murdered in a targeted strike was Haitham",
+      "link": "https://www.lrb.co.uk/the-paper/v48/n12/muhammad-shehada/i-would-never-release-him",
+      "summary": "<p>Article URL: <a href=\"https://www.lrb.co.uk/the-paper/v48/n12/muhammad-shehada/i-would-never-release-him\">https://www.lrb.co.uk/the-paper/v48/n12/muhammad-shehada/i-would-never-release-him</a></p>\n...",
+      "published": "2026-07-10T19:18:24+00:00",
+      "domain": "lrb.co.uk",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -249,11 +269,11 @@
       }
     },
     {
-      "title": "Mythos 5 offered outside the US by Anthropic",
-      "link": "https://news.sky.com/video/mythos-5-offered-outside-the-us-by-anthropic-13561860",
-      "summary": "<p>Article URL: <a href=\"https://news.sky.com/video/mythos-5-offered-outside-the-us-by-anthropic-13561860\">https://news.sky.com/video/mythos-5-offered-outside-the-us-by-anthropic-13561860</a></p>\n<p>C...",
-      "published": "2026-07-10T14:26:20+00:00",
-      "domain": "news.sky.com",
+      "title": "ChatGPT and Codex Desktop app merge confusion",
+      "link": "https://community.openai.com/t/where-did-my-chatgpt-projects-go/1386177",
+      "summary": "<p>Article URL: <a href=\"https://community.openai.com/t/where-did-my-chatgpt-projects-go/1386177\">https://community.openai.com/t/where-did-my-chatgpt-projects-go/1386177</a></p>\n<p>Comments URL: <a hr...",
+      "published": "2026-07-10T19:17:30+00:00",
+      "domain": "community.openai.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -265,11 +285,11 @@
       }
     },
     {
-      "title": "My niche Rust project now competes with Microsoft",
-      "link": "https://jdiaz97.github.io/blog/my-niche-rust-project-now-competes-with-microsfot/",
-      "summary": "<p>Article URL: <a href=\"https://jdiaz97.github.io/blog/my-niche-rust-project-now-competes-with-microsfot/\">https://jdiaz97.github.io/blog/my-niche-rust-project-now-competes-with-microsfot/</a></p>\n<p...",
-      "published": "2026-07-10T14:25:52+00:00",
-      "domain": "jdiaz97.github.io",
+      "title": "AI Gets a Cerebellum",
+      "link": "https://www.mccormick.northwestern.edu/news/articles/2026/07/ai-gets-a-cerebellum/",
+      "summary": "<p>Article URL: <a href=\"https://www.mccormick.northwestern.edu/news/articles/2026/07/ai-gets-a-cerebellum/\">https://www.mccormick.northwestern.edu/news/articles/2026/07/ai-gets-a-cerebellum/</a></p>\n...",
+      "published": "2026-07-10T19:16:46+00:00",
+      "domain": "mccormick.northwestern.edu",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -281,11 +301,11 @@
       }
     },
     {
-      "title": "Goodbye Substack, Hello Tuhat",
-      "link": "https://tuhat.net/@sbr/p/goodbye-hello",
-      "summary": "<p>Article URL: <a href=\"https://tuhat.net/@sbr/p/goodbye-hello\">https://tuhat.net/@sbr/p/goodbye-hello</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48860427\">https://news.yc...",
-      "published": "2026-07-10T14:25:46+00:00",
-      "domain": "tuhat.net",
+      "title": "What's Behind the Recent Legal Challenges to Costco's Iconic Rotisserie Chicken",
+      "link": "https://www.kavout.com/market-lens/what-s-behind-the-recent-legal-challenges-to-costco-s-iconic-rotisserie-chicken",
+      "summary": "<p>Article URL: <a href=\"https://www.kavout.com/market-lens/what-s-behind-the-recent-legal-challenges-to-costco-s-iconic-rotisserie-chicken\">https://www.kavout.com/market-lens/what-s-behind-the-recent...",
+      "published": "2026-07-10T19:15:57+00:00",
+      "domain": "kavout.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -297,27 +317,11 @@
       }
     },
     {
-      "title": "My Visionaire MCP verifies whether agent CSS fixes rendered",
-      "link": "https://github.com/mi60dev/visionaire-engine",
-      "summary": "<p>Article URL: <a href=\"https://github.com/mi60dev/visionaire-engine\">https://github.com/mi60dev/visionaire-engine</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48860419\">htt...",
-      "published": "2026-07-10T14:25:18+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Associate Editors resign from Statistics and Computing editorial board",
-      "link": "https://statmodeling.stat.columbia.edu/2026/07/10/18-associate-editors-resign-from-statistics-and-computing-editorial-board-problems-with-commercial-scholarly-publishing-and-what-does-this-all-mean/",
-      "summary": "<p>Article URL: <a href=\"https://statmodeling.stat.columbia.edu/2026/07/10/18-associate-editors-resign-from-statistics-and-computing-editorial-board-problems-with-commercial-scholarly-publishing-and-w...",
-      "published": "2026-07-10T14:24:53+00:00",
-      "domain": "statmodeling.stat.columbia.edu",
+      "title": "A bad X is better than none",
+      "link": "https://en.andros.dev/blog/cdc5a0bc/a-bad-x-is-better-than-none/",
+      "summary": "<p>Article URL: <a href=\"https://en.andros.dev/blog/cdc5a0bc/a-bad-x-is-better-than-none/\">https://en.andros.dev/blog/cdc5a0bc/a-bad-x-is-better-than-none/</a></p>\n<p>Comments URL: <a href=\"https://ne...",
+      "published": "2026-07-10T19:15:23+00:00",
+      "domain": "en.andros.dev",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -331,29 +335,47 @@
   ],
   "overall_ranked": [
     {
-      "title": "Unpatched XRING Flaw in XQUIC Lets Remote Clients Crash HTTP/3 Servers",
-      "link": "https://thehackernews.com/2026/07/unpatched-xring-flaw-in-xquic-lets.html",
-      "summary": "A single wrong variable on one line in XQUIC, Alibaba's QUIC and HTTP/3 library, lets any remote client crash the server with a short burst of completely legal traffic. There is no patch.\n\nFoxIO resea...",
-      "published": "2026-07-10T17:17:43+05:30",
+      "title": "URGENT - Progress Tells ShareFile Customers to Shut Down Storage Zone Controllers Over Security Threat",
+      "link": "https://thehackernews.com/2026/07/urgent-progress-tells-sharefile.html",
+      "summary": "Progress Software has told ShareFile customers to shut down the Windows servers running their Storage Zone Controllers, confirming to The Hacker News that it is responding to a \"credible external secu...",
+      "published": "2026-07-10T22:00:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
-        "chaos": 25.9,
+        "chaos": 15.4,
         "anarchy": 3.0,
-        "overall": 14.4
+        "overall": 9.2
       },
       "keywords": {
         "chaos": [
-          "crash",
+          "down",
+          "down"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Six New U-Boot Flaws Could Let Malicious Images Crash Devices or Run Code at Boot",
+      "link": "https://thehackernews.com/2026/07/six-new-u-boot-flaws-could-let.html",
+      "summary": "Researchers at firmware security firm&nbsp;Binarly&nbsp;have found six new flaws in U-Boot, the small program that starts up hardware as varied as home routers, smart cameras, and the management chips...",
+      "published": "2026-07-10T21:27:14+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 14.2,
+        "anarchy": 3.0,
+        "overall": 8.6
+      },
+      "keywords": {
+        "chaos": [
           "crash"
         ],
         "anarchy": []
       }
     },
     {
-      "title": "New MODBEACON RAT Uses gRPC Streaming for Encrypted C2 Traffic",
-      "link": "https://thehackernews.com/2026/07/new-modbeacon-rat-uses-grpc-streaming.html",
-      "summary": "The China-linked cybercrime group known as Silver Fox has been attributed to a new Rust-based remote access trojan (RAR) called MODBEACON.\n\nChinese cybersecurity company QiAnXin said that while the th...",
-      "published": "2026-07-10T18:45:23+05:30",
+      "title": "Injective Labs GitHub Compromise Pushes Wallet-Key-Stealing npm Packages",
+      "link": "https://thehackernews.com/2026/07/injective-labs-github-compromise-pushes.html",
+      "summary": "Unknown threat actors compromised the Injective Labs SDK project's GitHub repository and leveraged it to publish a malicious package on the npm registry to steal cryptocurrency wallet private keys and...",
+      "published": "2026-07-10T21:59:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -366,10 +388,10 @@
       }
     },
     {
-      "title": "From 17,000 to 1.1 Million Assets: How Lumen Technologies Rebuilt Exposure Management at Scale",
-      "link": "https://thehackernews.com/2026/07/from-17000-to-11-million-assets-how.html",
-      "summary": "Most enterprises assume their asset inventory is close enough to accurate. The evidence suggests otherwise. According to a survey of over 600 security leaders in the 2026 Axonius Actionability Report,...",
-      "published": "2026-07-10T17:09:40+05:30",
+      "title": "Laser Attack Resets Tangem Wallet Passwords on Cards That Can't Be Patched",
+      "link": "https://thehackernews.com/2026/07/laser-attack-resets-tangem-wallet.html",
+      "summary": "Researchers at Ledger's&nbsp;Donjon security team&nbsp;have shown that a precisely timed laser pulse, aimed at the chip inside a Tangem crypto wallet card, can reset the card's password to anything th...",
+      "published": "2026-07-10T20:21:49+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -382,10 +404,10 @@
       }
     },
     {
-      "title": "Exposed Hacker Server Reveals WP-SHELLSTORM Backdooring Thousands of WordPress Sites",
-      "link": "https://thehackernews.com/2026/07/exposed-hacker-server-reveals-wp.html",
-      "summary": "A cybercrime crew left one of its own servers wide open on the internet for three weeks, and it exposed the operation's inner workings: the hacking tools, the activity logs, and target lists naming mo...",
-      "published": "2026-07-10T17:00:02+05:30",
+      "title": "Researcher Details WhatsApp-to-Host Attack Chain Using Three OpenClaw Flaws",
+      "link": "https://thehackernews.com/2026/07/researcher-details-whatsapp-to-host.html",
+      "summary": "Details have emerged about three now-patched security flaws in the OpenClaw personal artificial intelligence (AI) assistant that, if successfully exploited, could enable credential theft, privilege es...",
+      "published": "2026-07-10T19:49:50+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -398,11 +420,11 @@
       }
     },
     {
-      "title": "Study of 281 Free Android VPN Apps Finds Traffic Leaks, Unencrypted Data, and Tracking",
-      "link": "https://thehackernews.com/2026/07/study-of-281-free-android-vpn-apps.html",
-      "summary": "Researchers ran 281 of the most popular free VPN apps on the Google Play Store through a new testing system and found that many fail at the basics people install a VPN for, i.e., keeping their traffic...",
-      "published": "2026-07-10T16:26:23+05:30",
-      "domain": "thehackernews.com",
+      "title": "The first programmer I know who was murdered in a targeted strike was Haitham",
+      "link": "https://www.lrb.co.uk/the-paper/v48/n12/muhammad-shehada/i-would-never-release-him",
+      "summary": "<p>Article URL: <a href=\"https://www.lrb.co.uk/the-paper/v48/n12/muhammad-shehada/i-would-never-release-him\">https://www.lrb.co.uk/the-paper/v48/n12/muhammad-shehada/i-would-never-release-him</a></p>\n...",
+      "published": "2026-07-10T19:18:24+00:00",
+      "domain": "lrb.co.uk",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -414,11 +436,11 @@
       }
     },
     {
-      "title": "Mythos 5 offered outside the US by Anthropic",
-      "link": "https://news.sky.com/video/mythos-5-offered-outside-the-us-by-anthropic-13561860",
-      "summary": "<p>Article URL: <a href=\"https://news.sky.com/video/mythos-5-offered-outside-the-us-by-anthropic-13561860\">https://news.sky.com/video/mythos-5-offered-outside-the-us-by-anthropic-13561860</a></p>\n<p>C...",
-      "published": "2026-07-10T14:26:20+00:00",
-      "domain": "news.sky.com",
+      "title": "ChatGPT and Codex Desktop app merge confusion",
+      "link": "https://community.openai.com/t/where-did-my-chatgpt-projects-go/1386177",
+      "summary": "<p>Article URL: <a href=\"https://community.openai.com/t/where-did-my-chatgpt-projects-go/1386177\">https://community.openai.com/t/where-did-my-chatgpt-projects-go/1386177</a></p>\n<p>Comments URL: <a hr...",
+      "published": "2026-07-10T19:17:30+00:00",
+      "domain": "community.openai.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -430,11 +452,11 @@
       }
     },
     {
-      "title": "My niche Rust project now competes with Microsoft",
-      "link": "https://jdiaz97.github.io/blog/my-niche-rust-project-now-competes-with-microsfot/",
-      "summary": "<p>Article URL: <a href=\"https://jdiaz97.github.io/blog/my-niche-rust-project-now-competes-with-microsfot/\">https://jdiaz97.github.io/blog/my-niche-rust-project-now-competes-with-microsfot/</a></p>\n<p...",
-      "published": "2026-07-10T14:25:52+00:00",
-      "domain": "jdiaz97.github.io",
+      "title": "AI Gets a Cerebellum",
+      "link": "https://www.mccormick.northwestern.edu/news/articles/2026/07/ai-gets-a-cerebellum/",
+      "summary": "<p>Article URL: <a href=\"https://www.mccormick.northwestern.edu/news/articles/2026/07/ai-gets-a-cerebellum/\">https://www.mccormick.northwestern.edu/news/articles/2026/07/ai-gets-a-cerebellum/</a></p>\n...",
+      "published": "2026-07-10T19:16:46+00:00",
+      "domain": "mccormick.northwestern.edu",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -446,11 +468,11 @@
       }
     },
     {
-      "title": "Goodbye Substack, Hello Tuhat",
-      "link": "https://tuhat.net/@sbr/p/goodbye-hello",
-      "summary": "<p>Article URL: <a href=\"https://tuhat.net/@sbr/p/goodbye-hello\">https://tuhat.net/@sbr/p/goodbye-hello</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48860427\">https://news.yc...",
-      "published": "2026-07-10T14:25:46+00:00",
-      "domain": "tuhat.net",
+      "title": "What's Behind the Recent Legal Challenges to Costco's Iconic Rotisserie Chicken",
+      "link": "https://www.kavout.com/market-lens/what-s-behind-the-recent-legal-challenges-to-costco-s-iconic-rotisserie-chicken",
+      "summary": "<p>Article URL: <a href=\"https://www.kavout.com/market-lens/what-s-behind-the-recent-legal-challenges-to-costco-s-iconic-rotisserie-chicken\">https://www.kavout.com/market-lens/what-s-behind-the-recent...",
+      "published": "2026-07-10T19:15:57+00:00",
+      "domain": "kavout.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -462,27 +484,11 @@
       }
     },
     {
-      "title": "My Visionaire MCP verifies whether agent CSS fixes rendered",
-      "link": "https://github.com/mi60dev/visionaire-engine",
-      "summary": "<p>Article URL: <a href=\"https://github.com/mi60dev/visionaire-engine\">https://github.com/mi60dev/visionaire-engine</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48860419\">htt...",
-      "published": "2026-07-10T14:25:18+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Associate Editors resign from Statistics and Computing editorial board",
-      "link": "https://statmodeling.stat.columbia.edu/2026/07/10/18-associate-editors-resign-from-statistics-and-computing-editorial-board-problems-with-commercial-scholarly-publishing-and-what-does-this-all-mean/",
-      "summary": "<p>Article URL: <a href=\"https://statmodeling.stat.columbia.edu/2026/07/10/18-associate-editors-resign-from-statistics-and-computing-editorial-board-problems-with-commercial-scholarly-publishing-and-w...",
-      "published": "2026-07-10T14:24:53+00:00",
-      "domain": "statmodeling.stat.columbia.edu",
+      "title": "A bad X is better than none",
+      "link": "https://en.andros.dev/blog/cdc5a0bc/a-bad-x-is-better-than-none/",
+      "summary": "<p>Article URL: <a href=\"https://en.andros.dev/blog/cdc5a0bc/a-bad-x-is-better-than-none/\">https://en.andros.dev/blog/cdc5a0bc/a-bad-x-is-better-than-none/</a></p>\n<p>Comments URL: <a href=\"https://ne...",
+      "published": "2026-07-10T19:15:23+00:00",
+      "domain": "en.andros.dev",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -496,10 +502,29 @@
   ],
   "all_articles": [
     {
-      "title": "New MODBEACON RAT Uses gRPC Streaming for Encrypted C2 Traffic",
-      "link": "https://thehackernews.com/2026/07/new-modbeacon-rat-uses-grpc-streaming.html",
-      "summary": "The China-linked cybercrime group known as Silver Fox has been attributed to a new Rust-based remote access trojan (RAR) called MODBEACON.\n\nChinese cybersecurity company QiAnXin said that while the th...",
-      "published": "2026-07-10T18:45:23+05:30",
+      "title": "URGENT - Progress Tells ShareFile Customers to Shut Down Storage Zone Controllers Over Security Threat",
+      "link": "https://thehackernews.com/2026/07/urgent-progress-tells-sharefile.html",
+      "summary": "Progress Software has told ShareFile customers to shut down the Windows servers running their Storage Zone Controllers, confirming to The Hacker News that it is responding to a \"credible external secu...",
+      "published": "2026-07-10T22:00:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 15.4,
+        "anarchy": 3.0,
+        "overall": 9.2
+      },
+      "keywords": {
+        "chaos": [
+          "down",
+          "down"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Injective Labs GitHub Compromise Pushes Wallet-Key-Stealing npm Packages",
+      "link": "https://thehackernews.com/2026/07/injective-labs-github-compromise-pushes.html",
+      "summary": "Unknown threat actors compromised the Injective Labs SDK project's GitHub repository and leveraged it to publish a malicious package on the npm registry to steal cryptocurrency wallet private keys and...",
+      "published": "2026-07-10T21:59:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -512,29 +537,28 @@
       }
     },
     {
-      "title": "Unpatched XRING Flaw in XQUIC Lets Remote Clients Crash HTTP/3 Servers",
-      "link": "https://thehackernews.com/2026/07/unpatched-xring-flaw-in-xquic-lets.html",
-      "summary": "A single wrong variable on one line in XQUIC, Alibaba's QUIC and HTTP/3 library, lets any remote client crash the server with a short burst of completely legal traffic. There is no patch.\n\nFoxIO resea...",
-      "published": "2026-07-10T17:17:43+05:30",
+      "title": "Six New U-Boot Flaws Could Let Malicious Images Crash Devices or Run Code at Boot",
+      "link": "https://thehackernews.com/2026/07/six-new-u-boot-flaws-could-let.html",
+      "summary": "Researchers at firmware security firm&nbsp;Binarly&nbsp;have found six new flaws in U-Boot, the small program that starts up hardware as varied as home routers, smart cameras, and the management chips...",
+      "published": "2026-07-10T21:27:14+05:30",
       "domain": "thehackernews.com",
       "scores": {
-        "chaos": 25.9,
+        "chaos": 14.2,
         "anarchy": 3.0,
-        "overall": 14.4
+        "overall": 8.6
       },
       "keywords": {
         "chaos": [
-          "crash",
           "crash"
         ],
         "anarchy": []
       }
     },
     {
-      "title": "From 17,000 to 1.1 Million Assets: How Lumen Technologies Rebuilt Exposure Management at Scale",
-      "link": "https://thehackernews.com/2026/07/from-17000-to-11-million-assets-how.html",
-      "summary": "Most enterprises assume their asset inventory is close enough to accurate. The evidence suggests otherwise. According to a survey of over 600 security leaders in the 2026 Axonius Actionability Report,...",
-      "published": "2026-07-10T17:09:40+05:30",
+      "title": "Laser Attack Resets Tangem Wallet Passwords on Cards That Can't Be Patched",
+      "link": "https://thehackernews.com/2026/07/laser-attack-resets-tangem-wallet.html",
+      "summary": "Researchers at Ledger's&nbsp;Donjon security team&nbsp;have shown that a precisely timed laser pulse, aimed at the chip inside a Tangem crypto wallet card, can reset the card's password to anything th...",
+      "published": "2026-07-10T20:21:49+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -547,10 +571,10 @@
       }
     },
     {
-      "title": "Exposed Hacker Server Reveals WP-SHELLSTORM Backdooring Thousands of WordPress Sites",
-      "link": "https://thehackernews.com/2026/07/exposed-hacker-server-reveals-wp.html",
-      "summary": "A cybercrime crew left one of its own servers wide open on the internet for three weeks, and it exposed the operation's inner workings: the hacking tools, the activity logs, and target lists naming mo...",
-      "published": "2026-07-10T17:00:02+05:30",
+      "title": "Researcher Details WhatsApp-to-Host Attack Chain Using Three OpenClaw Flaws",
+      "link": "https://thehackernews.com/2026/07/researcher-details-whatsapp-to-host.html",
+      "summary": "Details have emerged about three now-patched security flaws in the OpenClaw personal artificial intelligence (AI) assistant that, if successfully exploited, could enable credential theft, privilege es...",
+      "published": "2026-07-10T19:49:50+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -563,11 +587,11 @@
       }
     },
     {
-      "title": "Study of 281 Free Android VPN Apps Finds Traffic Leaks, Unencrypted Data, and Tracking",
-      "link": "https://thehackernews.com/2026/07/study-of-281-free-android-vpn-apps.html",
-      "summary": "Researchers ran 281 of the most popular free VPN apps on the Google Play Store through a new testing system and found that many fail at the basics people install a VPN for, i.e., keeping their traffic...",
-      "published": "2026-07-10T16:26:23+05:30",
-      "domain": "thehackernews.com",
+      "title": "The first programmer I know who was murdered in a targeted strike was Haitham",
+      "link": "https://www.lrb.co.uk/the-paper/v48/n12/muhammad-shehada/i-would-never-release-him",
+      "summary": "<p>Article URL: <a href=\"https://www.lrb.co.uk/the-paper/v48/n12/muhammad-shehada/i-would-never-release-him\">https://www.lrb.co.uk/the-paper/v48/n12/muhammad-shehada/i-would-never-release-him</a></p>\n...",
+      "published": "2026-07-10T19:18:24+00:00",
+      "domain": "lrb.co.uk",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -579,11 +603,11 @@
       }
     },
     {
-      "title": "Mythos 5 offered outside the US by Anthropic",
-      "link": "https://news.sky.com/video/mythos-5-offered-outside-the-us-by-anthropic-13561860",
-      "summary": "<p>Article URL: <a href=\"https://news.sky.com/video/mythos-5-offered-outside-the-us-by-anthropic-13561860\">https://news.sky.com/video/mythos-5-offered-outside-the-us-by-anthropic-13561860</a></p>\n<p>C...",
-      "published": "2026-07-10T14:26:20+00:00",
-      "domain": "news.sky.com",
+      "title": "ChatGPT and Codex Desktop app merge confusion",
+      "link": "https://community.openai.com/t/where-did-my-chatgpt-projects-go/1386177",
+      "summary": "<p>Article URL: <a href=\"https://community.openai.com/t/where-did-my-chatgpt-projects-go/1386177\">https://community.openai.com/t/where-did-my-chatgpt-projects-go/1386177</a></p>\n<p>Comments URL: <a hr...",
+      "published": "2026-07-10T19:17:30+00:00",
+      "domain": "community.openai.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -595,11 +619,11 @@
       }
     },
     {
-      "title": "My niche Rust project now competes with Microsoft",
-      "link": "https://jdiaz97.github.io/blog/my-niche-rust-project-now-competes-with-microsfot/",
-      "summary": "<p>Article URL: <a href=\"https://jdiaz97.github.io/blog/my-niche-rust-project-now-competes-with-microsfot/\">https://jdiaz97.github.io/blog/my-niche-rust-project-now-competes-with-microsfot/</a></p>\n<p...",
-      "published": "2026-07-10T14:25:52+00:00",
-      "domain": "jdiaz97.github.io",
+      "title": "AI Gets a Cerebellum",
+      "link": "https://www.mccormick.northwestern.edu/news/articles/2026/07/ai-gets-a-cerebellum/",
+      "summary": "<p>Article URL: <a href=\"https://www.mccormick.northwestern.edu/news/articles/2026/07/ai-gets-a-cerebellum/\">https://www.mccormick.northwestern.edu/news/articles/2026/07/ai-gets-a-cerebellum/</a></p>\n...",
+      "published": "2026-07-10T19:16:46+00:00",
+      "domain": "mccormick.northwestern.edu",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -611,11 +635,11 @@
       }
     },
     {
-      "title": "Goodbye Substack, Hello Tuhat",
-      "link": "https://tuhat.net/@sbr/p/goodbye-hello",
-      "summary": "<p>Article URL: <a href=\"https://tuhat.net/@sbr/p/goodbye-hello\">https://tuhat.net/@sbr/p/goodbye-hello</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48860427\">https://news.yc...",
-      "published": "2026-07-10T14:25:46+00:00",
-      "domain": "tuhat.net",
+      "title": "What's Behind the Recent Legal Challenges to Costco's Iconic Rotisserie Chicken",
+      "link": "https://www.kavout.com/market-lens/what-s-behind-the-recent-legal-challenges-to-costco-s-iconic-rotisserie-chicken",
+      "summary": "<p>Article URL: <a href=\"https://www.kavout.com/market-lens/what-s-behind-the-recent-legal-challenges-to-costco-s-iconic-rotisserie-chicken\">https://www.kavout.com/market-lens/what-s-behind-the-recent...",
+      "published": "2026-07-10T19:15:57+00:00",
+      "domain": "kavout.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -627,27 +651,11 @@
       }
     },
     {
-      "title": "My Visionaire MCP verifies whether agent CSS fixes rendered",
-      "link": "https://github.com/mi60dev/visionaire-engine",
-      "summary": "<p>Article URL: <a href=\"https://github.com/mi60dev/visionaire-engine\">https://github.com/mi60dev/visionaire-engine</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48860419\">htt...",
-      "published": "2026-07-10T14:25:18+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Associate Editors resign from Statistics and Computing editorial board",
-      "link": "https://statmodeling.stat.columbia.edu/2026/07/10/18-associate-editors-resign-from-statistics-and-computing-editorial-board-problems-with-commercial-scholarly-publishing-and-what-does-this-all-mean/",
-      "summary": "<p>Article URL: <a href=\"https://statmodeling.stat.columbia.edu/2026/07/10/18-associate-editors-resign-from-statistics-and-computing-editorial-board-problems-with-commercial-scholarly-publishing-and-w...",
-      "published": "2026-07-10T14:24:53+00:00",
-      "domain": "statmodeling.stat.columbia.edu",
+      "title": "A bad X is better than none",
+      "link": "https://en.andros.dev/blog/cdc5a0bc/a-bad-x-is-better-than-none/",
+      "summary": "<p>Article URL: <a href=\"https://en.andros.dev/blog/cdc5a0bc/a-bad-x-is-better-than-none/\">https://en.andros.dev/blog/cdc5a0bc/a-bad-x-is-better-than-none/</a></p>\n<p>Comments URL: <a href=\"https://ne...",
+      "published": "2026-07-10T19:15:23+00:00",
+      "domain": "en.andros.dev",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,

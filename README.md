@@ -16,18 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Unpatched XRING Flaw in XQUIC Lets Remote Clients Crash HTTP/3 Servers
+### URGENT - Progress Tells ShareFile Customers to Shut Down Storage Zone Controllers Over Security Threat
 - **Published**: July 10, 2026
-- **Summary**: A single wrong variable on one line in XQUIC, Alibaba's QUIC and HTTP/3 library, lets any remote client crash the server with a short burst of complet...
-- **Keywords**: crash, crash
-- [Read more](https://thehackernews.com/2026/07/unpatched-xring-flaw-in-xquic-lets.html)
+- **Summary**: Progress Software has told ShareFile customers to shut down the Windows servers running their Storage Zone Controllers, confirming to The Hacker News ...
+- **Keywords**: down, down
+- [Read more](https://thehackernews.com/2026/07/urgent-progress-tells-sharefile.html)
 
-### New MODBEACON RAT Uses gRPC Streaming for Encrypted C2 Traffic
+### Six New U-Boot Flaws Could Let Malicious Images Crash Devices or Run Code at Boot
 - **Published**: July 10, 2026
-- **Summary**: The China-linked cybercrime group known as Silver Fox has been attributed to a new Rust-based remote access trojan (RAR) called MODBEACON.
-
-Chinese cy...
-- [Read more](https://thehackernews.com/2026/07/new-modbeacon-rat-uses-grpc-streaming.html)
+- **Summary**: Researchers at firmware security firm&nbsp;Binarly&nbsp;have found six new flaws in U-Boot, the small program that starts up hardware as varied as hom...
+- **Keywords**: crash
+- [Read more](https://thehackernews.com/2026/07/six-new-u-boot-flaws-could-let.html)
 
 ---
 
