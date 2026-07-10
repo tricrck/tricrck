@@ -1,10 +1,29 @@
 {
   "chaos_ranked": [
     {
-      "title": "Attackers Exploit 'Ill Bloom' Vulnerability to Drain $3.1 Million From Cryptocurrency Wallets",
-      "link": "https://thehackernews.com/2026/07/attackers-exploit-ill-bloom.html",
-      "summary": "Security firm&nbsp;Coinspect&nbsp;has disclosed a crypto wallet flaw it calls&nbsp;Ill Bloom, and attackers are already using it. The flaw is in how some wallet software generated its recovery phrase,...",
-      "published": "2026-07-10T14:30:05+05:30",
+      "title": "Unpatched XRING Flaw in XQUIC Lets Remote Clients Crash HTTP/3 Servers",
+      "link": "https://thehackernews.com/2026/07/unpatched-xring-flaw-in-xquic-lets.html",
+      "summary": "A single wrong variable on one line in XQUIC, Alibaba's QUIC and HTTP/3 library, lets any remote client crash the server with a short burst of completely legal traffic. There is no patch.\n\nFoxIO resea...",
+      "published": "2026-07-10T17:17:43+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 25.9,
+        "anarchy": 3.0,
+        "overall": 14.4
+      },
+      "keywords": {
+        "chaos": [
+          "crash",
+          "crash"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "New MODBEACON RAT Uses gRPC Streaming for Encrypted C2 Traffic",
+      "link": "https://thehackernews.com/2026/07/new-modbeacon-rat-uses-grpc-streaming.html",
+      "summary": "The China-linked cybercrime group known as Silver Fox has been attributed to a new Rust-based remote access trojan (RAR) called MODBEACON.\n\nChinese cybersecurity company QiAnXin said that while the th...",
+      "published": "2026-07-10T18:45:23+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -17,10 +36,10 @@
       }
     },
     {
-      "title": "Ransomware Negotiator Gets 70 Months in Prison for Aiding BlackCat Attacks",
-      "link": "https://thehackernews.com/2026/07/ransomware-negotiator-gets-70-months-in.html",
-      "summary": "A 41-year-old former ransomware negotiator has been sentenced to nearly six years (i.e., 70 months) in prison in the U.S. for their role in conspiring with the now-defunct BlackCat ransomware operator...",
-      "published": "2026-07-10T13:40:12+05:30",
+      "title": "From 17,000 to 1.1 Million Assets: How Lumen Technologies Rebuilt Exposure Management at Scale",
+      "link": "https://thehackernews.com/2026/07/from-17000-to-11-million-assets-how.html",
+      "summary": "Most enterprises assume their asset inventory is close enough to accurate. The evidence suggests otherwise. According to a survey of over 600 security leaders in the 2026 Axonius Actionability Report,...",
+      "published": "2026-07-10T17:09:40+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -33,11 +52,11 @@
       }
     },
     {
-      "title": "Best Health Supplements Reviews and Ratings 2026",
-      "link": "https://justpaste.it/ccvbk",
-      "summary": "<p>Article URL: <a href=\"https://justpaste.it/ccvbk\">https://justpaste.it/ccvbk</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48857697\">https://news.ycombinator.com/item?id=48...",
-      "published": "2026-07-10T09:25:36+00:00",
-      "domain": "justpaste.it",
+      "title": "Exposed Hacker Server Reveals WP-SHELLSTORM Backdooring Thousands of WordPress Sites",
+      "link": "https://thehackernews.com/2026/07/exposed-hacker-server-reveals-wp.html",
+      "summary": "A cybercrime crew left one of its own servers wide open on the internet for three weeks, and it exposed the operation's inner workings: the hacking tools, the activity logs, and target lists naming mo...",
+      "published": "2026-07-10T17:00:02+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -49,11 +68,11 @@
       }
     },
     {
-      "title": "Stop Looking for the Next Jony Ive",
-      "link": "https://maurya.bearblog.dev/stop-looking-for-the-next-jony-ive/",
-      "summary": "<p>Article URL: <a href=\"https://maurya.bearblog.dev/stop-looking-for-the-next-jony-ive/\">https://maurya.bearblog.dev/stop-looking-for-the-next-jony-ive/</a></p>\n<p>Comments URL: <a href=\"https://news...",
-      "published": "2026-07-10T09:22:35+00:00",
-      "domain": "maurya.bearblog.dev",
+      "title": "Study of 281 Free Android VPN Apps Finds Traffic Leaks, Unencrypted Data, and Tracking",
+      "link": "https://thehackernews.com/2026/07/study-of-281-free-android-vpn-apps.html",
+      "summary": "Researchers ran 281 of the most popular free VPN apps on the Google Play Store through a new testing system and found that many fail at the basics people install a VPN for, i.e., keeping their traffic...",
+      "published": "2026-07-10T16:26:23+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -65,10 +84,58 @@
       }
     },
     {
-      "title": "Show HN: OpenVole 4.5 Is Out",
-      "link": "https://github.com/openvole/openvole",
-      "summary": "<p>OpenVole 4.5.0 is out. Run a skill's bundled scripts, sandboxed to its own dir. VoleHub: multi-file installs, verified by per-file SHA-256. Dashboard: per-paw permission editor. New spaces seed a w...",
-      "published": "2026-07-10T09:21:54+00:00",
+      "title": "Mythos 5 offered outside the US by Anthropic",
+      "link": "https://news.sky.com/video/mythos-5-offered-outside-the-us-by-anthropic-13561860",
+      "summary": "<p>Article URL: <a href=\"https://news.sky.com/video/mythos-5-offered-outside-the-us-by-anthropic-13561860\">https://news.sky.com/video/mythos-5-offered-outside-the-us-by-anthropic-13561860</a></p>\n<p>C...",
+      "published": "2026-07-10T14:26:20+00:00",
+      "domain": "news.sky.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "My niche Rust project now competes with Microsoft",
+      "link": "https://jdiaz97.github.io/blog/my-niche-rust-project-now-competes-with-microsfot/",
+      "summary": "<p>Article URL: <a href=\"https://jdiaz97.github.io/blog/my-niche-rust-project-now-competes-with-microsfot/\">https://jdiaz97.github.io/blog/my-niche-rust-project-now-competes-with-microsfot/</a></p>\n<p...",
+      "published": "2026-07-10T14:25:52+00:00",
+      "domain": "jdiaz97.github.io",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Goodbye Substack, Hello Tuhat",
+      "link": "https://tuhat.net/@sbr/p/goodbye-hello",
+      "summary": "<p>Article URL: <a href=\"https://tuhat.net/@sbr/p/goodbye-hello\">https://tuhat.net/@sbr/p/goodbye-hello</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48860427\">https://news.yc...",
+      "published": "2026-07-10T14:25:46+00:00",
+      "domain": "tuhat.net",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "My Visionaire MCP verifies whether agent CSS fixes rendered",
+      "link": "https://github.com/mi60dev/visionaire-engine",
+      "summary": "<p>Article URL: <a href=\"https://github.com/mi60dev/visionaire-engine\">https://github.com/mi60dev/visionaire-engine</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48860419\">htt...",
+      "published": "2026-07-10T14:25:18+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -81,75 +148,11 @@
       }
     },
     {
-      "title": "Show HN: Drag boxes around and watch a layout engine infer the Flexbox (no AI)",
-      "link": "https://wpconverters.com/playground/",
-      "summary": "<p>Article URL: <a href=\"https://wpconverters.com/playground/\">https://wpconverters.com/playground/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48857637\">https://news.ycombi...",
-      "published": "2026-07-10T09:17:34+00:00",
-      "domain": "wpconverters.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The Ambulatory Intelligence Gap",
-      "link": "https://www.databricks.com/blog/ambulatory-intelligence-gap",
-      "summary": "<p>Article URL: <a href=\"https://www.databricks.com/blog/ambulatory-intelligence-gap\">https://www.databricks.com/blog/ambulatory-intelligence-gap</a></p>\n<p>Comments URL: <a href=\"https://news.ycombin...",
-      "published": "2026-07-10T09:16:55+00:00",
-      "domain": "databricks.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "CEOs are being left baffled at the high cost of moving to AI \u2014 shockingly enough, sacking human workers isn't resulting in huge savings",
-      "link": "https://www.reddit.com/r/technology/comments/1us7rrx/ceos_are_being_left_baffled_at_the_high_cost_of/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1us7rrx/ceos_are_being_left_baffled_at_the_high_cost_of/\"> <img alt=\"CEOs are being left baffled at the high cost of moving to AI...",
-      "published": "2026-07-10T00:09:51+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Dormant GitHub Accounts Help Attackers Blend In While Mapping Corporate Orgs",
-      "link": "https://thehackernews.com/2026/07/dormant-github-accounts-help-attackers.html",
-      "summary": "Datadog Security Labs is warning of \"several overlapping campaigns\" that are systematically enumerating corporate GitHub organizations, repositories, and user accounts through the GitHub&nbsp;API.\n\n\"O...",
-      "published": "2026-07-10T00:08:49+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "New GigaWiper Windows Backdoor Bundles Disk Wiping, Fake Ransomware, and Spyware",
-      "link": "https://thehackernews.com/2026/07/new-gigawiper-windows-backdoor-bundles.html",
-      "summary": "Microsoft has taken apart a destructive Windows backdoor it calls GigaWiper. What stands out is how it is built: not one tool but three older destructive programs bolted into one, offered as commands ...",
-      "published": "2026-07-09T23:38:07+05:30",
-      "domain": "thehackernews.com",
+      "title": "Associate Editors resign from Statistics and Computing editorial board",
+      "link": "https://statmodeling.stat.columbia.edu/2026/07/10/18-associate-editors-resign-from-statistics-and-computing-editorial-board-problems-with-commercial-scholarly-publishing-and-what-does-this-all-mean/",
+      "summary": "<p>Article URL: <a href=\"https://statmodeling.stat.columbia.edu/2026/07/10/18-associate-editors-resign-from-statistics-and-computing-editorial-board-problems-with-commercial-scholarly-publishing-and-w...",
+      "published": "2026-07-10T14:24:53+00:00",
+      "domain": "statmodeling.stat.columbia.edu",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -163,10 +166,10 @@
   ],
   "anarchy_ranked": [
     {
-      "title": "Attackers Exploit 'Ill Bloom' Vulnerability to Drain $3.1 Million From Cryptocurrency Wallets",
-      "link": "https://thehackernews.com/2026/07/attackers-exploit-ill-bloom.html",
-      "summary": "Security firm&nbsp;Coinspect&nbsp;has disclosed a crypto wallet flaw it calls&nbsp;Ill Bloom, and attackers are already using it. The flaw is in how some wallet software generated its recovery phrase,...",
-      "published": "2026-07-10T14:30:05+05:30",
+      "title": "New MODBEACON RAT Uses gRPC Streaming for Encrypted C2 Traffic",
+      "link": "https://thehackernews.com/2026/07/new-modbeacon-rat-uses-grpc-streaming.html",
+      "summary": "The China-linked cybercrime group known as Silver Fox has been attributed to a new Rust-based remote access trojan (RAR) called MODBEACON.\n\nChinese cybersecurity company QiAnXin said that while the th...",
+      "published": "2026-07-10T18:45:23+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -179,10 +182,29 @@
       }
     },
     {
-      "title": "Ransomware Negotiator Gets 70 Months in Prison for Aiding BlackCat Attacks",
-      "link": "https://thehackernews.com/2026/07/ransomware-negotiator-gets-70-months-in.html",
-      "summary": "A 41-year-old former ransomware negotiator has been sentenced to nearly six years (i.e., 70 months) in prison in the U.S. for their role in conspiring with the now-defunct BlackCat ransomware operator...",
-      "published": "2026-07-10T13:40:12+05:30",
+      "title": "Unpatched XRING Flaw in XQUIC Lets Remote Clients Crash HTTP/3 Servers",
+      "link": "https://thehackernews.com/2026/07/unpatched-xring-flaw-in-xquic-lets.html",
+      "summary": "A single wrong variable on one line in XQUIC, Alibaba's QUIC and HTTP/3 library, lets any remote client crash the server with a short burst of completely legal traffic. There is no patch.\n\nFoxIO resea...",
+      "published": "2026-07-10T17:17:43+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 25.9,
+        "anarchy": 3.0,
+        "overall": 14.4
+      },
+      "keywords": {
+        "chaos": [
+          "crash",
+          "crash"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "From 17,000 to 1.1 Million Assets: How Lumen Technologies Rebuilt Exposure Management at Scale",
+      "link": "https://thehackernews.com/2026/07/from-17000-to-11-million-assets-how.html",
+      "summary": "Most enterprises assume their asset inventory is close enough to accurate. The evidence suggests otherwise. According to a survey of over 600 security leaders in the 2026 Axonius Actionability Report,...",
+      "published": "2026-07-10T17:09:40+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -195,11 +217,11 @@
       }
     },
     {
-      "title": "Best Health Supplements Reviews and Ratings 2026",
-      "link": "https://justpaste.it/ccvbk",
-      "summary": "<p>Article URL: <a href=\"https://justpaste.it/ccvbk\">https://justpaste.it/ccvbk</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48857697\">https://news.ycombinator.com/item?id=48...",
-      "published": "2026-07-10T09:25:36+00:00",
-      "domain": "justpaste.it",
+      "title": "Exposed Hacker Server Reveals WP-SHELLSTORM Backdooring Thousands of WordPress Sites",
+      "link": "https://thehackernews.com/2026/07/exposed-hacker-server-reveals-wp.html",
+      "summary": "A cybercrime crew left one of its own servers wide open on the internet for three weeks, and it exposed the operation's inner workings: the hacking tools, the activity logs, and target lists naming mo...",
+      "published": "2026-07-10T17:00:02+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -211,11 +233,11 @@
       }
     },
     {
-      "title": "Stop Looking for the Next Jony Ive",
-      "link": "https://maurya.bearblog.dev/stop-looking-for-the-next-jony-ive/",
-      "summary": "<p>Article URL: <a href=\"https://maurya.bearblog.dev/stop-looking-for-the-next-jony-ive/\">https://maurya.bearblog.dev/stop-looking-for-the-next-jony-ive/</a></p>\n<p>Comments URL: <a href=\"https://news...",
-      "published": "2026-07-10T09:22:35+00:00",
-      "domain": "maurya.bearblog.dev",
+      "title": "Study of 281 Free Android VPN Apps Finds Traffic Leaks, Unencrypted Data, and Tracking",
+      "link": "https://thehackernews.com/2026/07/study-of-281-free-android-vpn-apps.html",
+      "summary": "Researchers ran 281 of the most popular free VPN apps on the Google Play Store through a new testing system and found that many fail at the basics people install a VPN for, i.e., keeping their traffic...",
+      "published": "2026-07-10T16:26:23+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -227,10 +249,58 @@
       }
     },
     {
-      "title": "Show HN: OpenVole 4.5 Is Out",
-      "link": "https://github.com/openvole/openvole",
-      "summary": "<p>OpenVole 4.5.0 is out. Run a skill's bundled scripts, sandboxed to its own dir. VoleHub: multi-file installs, verified by per-file SHA-256. Dashboard: per-paw permission editor. New spaces seed a w...",
-      "published": "2026-07-10T09:21:54+00:00",
+      "title": "Mythos 5 offered outside the US by Anthropic",
+      "link": "https://news.sky.com/video/mythos-5-offered-outside-the-us-by-anthropic-13561860",
+      "summary": "<p>Article URL: <a href=\"https://news.sky.com/video/mythos-5-offered-outside-the-us-by-anthropic-13561860\">https://news.sky.com/video/mythos-5-offered-outside-the-us-by-anthropic-13561860</a></p>\n<p>C...",
+      "published": "2026-07-10T14:26:20+00:00",
+      "domain": "news.sky.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "My niche Rust project now competes with Microsoft",
+      "link": "https://jdiaz97.github.io/blog/my-niche-rust-project-now-competes-with-microsfot/",
+      "summary": "<p>Article URL: <a href=\"https://jdiaz97.github.io/blog/my-niche-rust-project-now-competes-with-microsfot/\">https://jdiaz97.github.io/blog/my-niche-rust-project-now-competes-with-microsfot/</a></p>\n<p...",
+      "published": "2026-07-10T14:25:52+00:00",
+      "domain": "jdiaz97.github.io",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Goodbye Substack, Hello Tuhat",
+      "link": "https://tuhat.net/@sbr/p/goodbye-hello",
+      "summary": "<p>Article URL: <a href=\"https://tuhat.net/@sbr/p/goodbye-hello\">https://tuhat.net/@sbr/p/goodbye-hello</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48860427\">https://news.yc...",
+      "published": "2026-07-10T14:25:46+00:00",
+      "domain": "tuhat.net",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "My Visionaire MCP verifies whether agent CSS fixes rendered",
+      "link": "https://github.com/mi60dev/visionaire-engine",
+      "summary": "<p>Article URL: <a href=\"https://github.com/mi60dev/visionaire-engine\">https://github.com/mi60dev/visionaire-engine</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48860419\">htt...",
+      "published": "2026-07-10T14:25:18+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -243,75 +313,11 @@
       }
     },
     {
-      "title": "Show HN: Drag boxes around and watch a layout engine infer the Flexbox (no AI)",
-      "link": "https://wpconverters.com/playground/",
-      "summary": "<p>Article URL: <a href=\"https://wpconverters.com/playground/\">https://wpconverters.com/playground/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48857637\">https://news.ycombi...",
-      "published": "2026-07-10T09:17:34+00:00",
-      "domain": "wpconverters.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The Ambulatory Intelligence Gap",
-      "link": "https://www.databricks.com/blog/ambulatory-intelligence-gap",
-      "summary": "<p>Article URL: <a href=\"https://www.databricks.com/blog/ambulatory-intelligence-gap\">https://www.databricks.com/blog/ambulatory-intelligence-gap</a></p>\n<p>Comments URL: <a href=\"https://news.ycombin...",
-      "published": "2026-07-10T09:16:55+00:00",
-      "domain": "databricks.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "CEOs are being left baffled at the high cost of moving to AI \u2014 shockingly enough, sacking human workers isn't resulting in huge savings",
-      "link": "https://www.reddit.com/r/technology/comments/1us7rrx/ceos_are_being_left_baffled_at_the_high_cost_of/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1us7rrx/ceos_are_being_left_baffled_at_the_high_cost_of/\"> <img alt=\"CEOs are being left baffled at the high cost of moving to AI...",
-      "published": "2026-07-10T00:09:51+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Dormant GitHub Accounts Help Attackers Blend In While Mapping Corporate Orgs",
-      "link": "https://thehackernews.com/2026/07/dormant-github-accounts-help-attackers.html",
-      "summary": "Datadog Security Labs is warning of \"several overlapping campaigns\" that are systematically enumerating corporate GitHub organizations, repositories, and user accounts through the GitHub&nbsp;API.\n\n\"O...",
-      "published": "2026-07-10T00:08:49+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "New GigaWiper Windows Backdoor Bundles Disk Wiping, Fake Ransomware, and Spyware",
-      "link": "https://thehackernews.com/2026/07/new-gigawiper-windows-backdoor-bundles.html",
-      "summary": "Microsoft has taken apart a destructive Windows backdoor it calls GigaWiper. What stands out is how it is built: not one tool but three older destructive programs bolted into one, offered as commands ...",
-      "published": "2026-07-09T23:38:07+05:30",
-      "domain": "thehackernews.com",
+      "title": "Associate Editors resign from Statistics and Computing editorial board",
+      "link": "https://statmodeling.stat.columbia.edu/2026/07/10/18-associate-editors-resign-from-statistics-and-computing-editorial-board-problems-with-commercial-scholarly-publishing-and-what-does-this-all-mean/",
+      "summary": "<p>Article URL: <a href=\"https://statmodeling.stat.columbia.edu/2026/07/10/18-associate-editors-resign-from-statistics-and-computing-editorial-board-problems-with-commercial-scholarly-publishing-and-w...",
+      "published": "2026-07-10T14:24:53+00:00",
+      "domain": "statmodeling.stat.columbia.edu",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -325,10 +331,29 @@
   ],
   "overall_ranked": [
     {
-      "title": "Attackers Exploit 'Ill Bloom' Vulnerability to Drain $3.1 Million From Cryptocurrency Wallets",
-      "link": "https://thehackernews.com/2026/07/attackers-exploit-ill-bloom.html",
-      "summary": "Security firm&nbsp;Coinspect&nbsp;has disclosed a crypto wallet flaw it calls&nbsp;Ill Bloom, and attackers are already using it. The flaw is in how some wallet software generated its recovery phrase,...",
-      "published": "2026-07-10T14:30:05+05:30",
+      "title": "Unpatched XRING Flaw in XQUIC Lets Remote Clients Crash HTTP/3 Servers",
+      "link": "https://thehackernews.com/2026/07/unpatched-xring-flaw-in-xquic-lets.html",
+      "summary": "A single wrong variable on one line in XQUIC, Alibaba's QUIC and HTTP/3 library, lets any remote client crash the server with a short burst of completely legal traffic. There is no patch.\n\nFoxIO resea...",
+      "published": "2026-07-10T17:17:43+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 25.9,
+        "anarchy": 3.0,
+        "overall": 14.4
+      },
+      "keywords": {
+        "chaos": [
+          "crash",
+          "crash"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "New MODBEACON RAT Uses gRPC Streaming for Encrypted C2 Traffic",
+      "link": "https://thehackernews.com/2026/07/new-modbeacon-rat-uses-grpc-streaming.html",
+      "summary": "The China-linked cybercrime group known as Silver Fox has been attributed to a new Rust-based remote access trojan (RAR) called MODBEACON.\n\nChinese cybersecurity company QiAnXin said that while the th...",
+      "published": "2026-07-10T18:45:23+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -341,10 +366,10 @@
       }
     },
     {
-      "title": "Ransomware Negotiator Gets 70 Months in Prison for Aiding BlackCat Attacks",
-      "link": "https://thehackernews.com/2026/07/ransomware-negotiator-gets-70-months-in.html",
-      "summary": "A 41-year-old former ransomware negotiator has been sentenced to nearly six years (i.e., 70 months) in prison in the U.S. for their role in conspiring with the now-defunct BlackCat ransomware operator...",
-      "published": "2026-07-10T13:40:12+05:30",
+      "title": "From 17,000 to 1.1 Million Assets: How Lumen Technologies Rebuilt Exposure Management at Scale",
+      "link": "https://thehackernews.com/2026/07/from-17000-to-11-million-assets-how.html",
+      "summary": "Most enterprises assume their asset inventory is close enough to accurate. The evidence suggests otherwise. According to a survey of over 600 security leaders in the 2026 Axonius Actionability Report,...",
+      "published": "2026-07-10T17:09:40+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -357,11 +382,11 @@
       }
     },
     {
-      "title": "Best Health Supplements Reviews and Ratings 2026",
-      "link": "https://justpaste.it/ccvbk",
-      "summary": "<p>Article URL: <a href=\"https://justpaste.it/ccvbk\">https://justpaste.it/ccvbk</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48857697\">https://news.ycombinator.com/item?id=48...",
-      "published": "2026-07-10T09:25:36+00:00",
-      "domain": "justpaste.it",
+      "title": "Exposed Hacker Server Reveals WP-SHELLSTORM Backdooring Thousands of WordPress Sites",
+      "link": "https://thehackernews.com/2026/07/exposed-hacker-server-reveals-wp.html",
+      "summary": "A cybercrime crew left one of its own servers wide open on the internet for three weeks, and it exposed the operation's inner workings: the hacking tools, the activity logs, and target lists naming mo...",
+      "published": "2026-07-10T17:00:02+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -373,11 +398,11 @@
       }
     },
     {
-      "title": "Stop Looking for the Next Jony Ive",
-      "link": "https://maurya.bearblog.dev/stop-looking-for-the-next-jony-ive/",
-      "summary": "<p>Article URL: <a href=\"https://maurya.bearblog.dev/stop-looking-for-the-next-jony-ive/\">https://maurya.bearblog.dev/stop-looking-for-the-next-jony-ive/</a></p>\n<p>Comments URL: <a href=\"https://news...",
-      "published": "2026-07-10T09:22:35+00:00",
-      "domain": "maurya.bearblog.dev",
+      "title": "Study of 281 Free Android VPN Apps Finds Traffic Leaks, Unencrypted Data, and Tracking",
+      "link": "https://thehackernews.com/2026/07/study-of-281-free-android-vpn-apps.html",
+      "summary": "Researchers ran 281 of the most popular free VPN apps on the Google Play Store through a new testing system and found that many fail at the basics people install a VPN for, i.e., keeping their traffic...",
+      "published": "2026-07-10T16:26:23+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -389,10 +414,58 @@
       }
     },
     {
-      "title": "Show HN: OpenVole 4.5 Is Out",
-      "link": "https://github.com/openvole/openvole",
-      "summary": "<p>OpenVole 4.5.0 is out. Run a skill's bundled scripts, sandboxed to its own dir. VoleHub: multi-file installs, verified by per-file SHA-256. Dashboard: per-paw permission editor. New spaces seed a w...",
-      "published": "2026-07-10T09:21:54+00:00",
+      "title": "Mythos 5 offered outside the US by Anthropic",
+      "link": "https://news.sky.com/video/mythos-5-offered-outside-the-us-by-anthropic-13561860",
+      "summary": "<p>Article URL: <a href=\"https://news.sky.com/video/mythos-5-offered-outside-the-us-by-anthropic-13561860\">https://news.sky.com/video/mythos-5-offered-outside-the-us-by-anthropic-13561860</a></p>\n<p>C...",
+      "published": "2026-07-10T14:26:20+00:00",
+      "domain": "news.sky.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "My niche Rust project now competes with Microsoft",
+      "link": "https://jdiaz97.github.io/blog/my-niche-rust-project-now-competes-with-microsfot/",
+      "summary": "<p>Article URL: <a href=\"https://jdiaz97.github.io/blog/my-niche-rust-project-now-competes-with-microsfot/\">https://jdiaz97.github.io/blog/my-niche-rust-project-now-competes-with-microsfot/</a></p>\n<p...",
+      "published": "2026-07-10T14:25:52+00:00",
+      "domain": "jdiaz97.github.io",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Goodbye Substack, Hello Tuhat",
+      "link": "https://tuhat.net/@sbr/p/goodbye-hello",
+      "summary": "<p>Article URL: <a href=\"https://tuhat.net/@sbr/p/goodbye-hello\">https://tuhat.net/@sbr/p/goodbye-hello</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48860427\">https://news.yc...",
+      "published": "2026-07-10T14:25:46+00:00",
+      "domain": "tuhat.net",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "My Visionaire MCP verifies whether agent CSS fixes rendered",
+      "link": "https://github.com/mi60dev/visionaire-engine",
+      "summary": "<p>Article URL: <a href=\"https://github.com/mi60dev/visionaire-engine\">https://github.com/mi60dev/visionaire-engine</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48860419\">htt...",
+      "published": "2026-07-10T14:25:18+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -405,75 +478,11 @@
       }
     },
     {
-      "title": "Show HN: Drag boxes around and watch a layout engine infer the Flexbox (no AI)",
-      "link": "https://wpconverters.com/playground/",
-      "summary": "<p>Article URL: <a href=\"https://wpconverters.com/playground/\">https://wpconverters.com/playground/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48857637\">https://news.ycombi...",
-      "published": "2026-07-10T09:17:34+00:00",
-      "domain": "wpconverters.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The Ambulatory Intelligence Gap",
-      "link": "https://www.databricks.com/blog/ambulatory-intelligence-gap",
-      "summary": "<p>Article URL: <a href=\"https://www.databricks.com/blog/ambulatory-intelligence-gap\">https://www.databricks.com/blog/ambulatory-intelligence-gap</a></p>\n<p>Comments URL: <a href=\"https://news.ycombin...",
-      "published": "2026-07-10T09:16:55+00:00",
-      "domain": "databricks.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "CEOs are being left baffled at the high cost of moving to AI \u2014 shockingly enough, sacking human workers isn't resulting in huge savings",
-      "link": "https://www.reddit.com/r/technology/comments/1us7rrx/ceos_are_being_left_baffled_at_the_high_cost_of/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1us7rrx/ceos_are_being_left_baffled_at_the_high_cost_of/\"> <img alt=\"CEOs are being left baffled at the high cost of moving to AI...",
-      "published": "2026-07-10T00:09:51+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Dormant GitHub Accounts Help Attackers Blend In While Mapping Corporate Orgs",
-      "link": "https://thehackernews.com/2026/07/dormant-github-accounts-help-attackers.html",
-      "summary": "Datadog Security Labs is warning of \"several overlapping campaigns\" that are systematically enumerating corporate GitHub organizations, repositories, and user accounts through the GitHub&nbsp;API.\n\n\"O...",
-      "published": "2026-07-10T00:08:49+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "New GigaWiper Windows Backdoor Bundles Disk Wiping, Fake Ransomware, and Spyware",
-      "link": "https://thehackernews.com/2026/07/new-gigawiper-windows-backdoor-bundles.html",
-      "summary": "Microsoft has taken apart a destructive Windows backdoor it calls GigaWiper. What stands out is how it is built: not one tool but three older destructive programs bolted into one, offered as commands ...",
-      "published": "2026-07-09T23:38:07+05:30",
-      "domain": "thehackernews.com",
+      "title": "Associate Editors resign from Statistics and Computing editorial board",
+      "link": "https://statmodeling.stat.columbia.edu/2026/07/10/18-associate-editors-resign-from-statistics-and-computing-editorial-board-problems-with-commercial-scholarly-publishing-and-what-does-this-all-mean/",
+      "summary": "<p>Article URL: <a href=\"https://statmodeling.stat.columbia.edu/2026/07/10/18-associate-editors-resign-from-statistics-and-computing-editorial-board-problems-with-commercial-scholarly-publishing-and-w...",
+      "published": "2026-07-10T14:24:53+00:00",
+      "domain": "statmodeling.stat.columbia.edu",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -487,10 +496,10 @@
   ],
   "all_articles": [
     {
-      "title": "Attackers Exploit 'Ill Bloom' Vulnerability to Drain $3.1 Million From Cryptocurrency Wallets",
-      "link": "https://thehackernews.com/2026/07/attackers-exploit-ill-bloom.html",
-      "summary": "Security firm&nbsp;Coinspect&nbsp;has disclosed a crypto wallet flaw it calls&nbsp;Ill Bloom, and attackers are already using it. The flaw is in how some wallet software generated its recovery phrase,...",
-      "published": "2026-07-10T14:30:05+05:30",
+      "title": "New MODBEACON RAT Uses gRPC Streaming for Encrypted C2 Traffic",
+      "link": "https://thehackernews.com/2026/07/new-modbeacon-rat-uses-grpc-streaming.html",
+      "summary": "The China-linked cybercrime group known as Silver Fox has been attributed to a new Rust-based remote access trojan (RAR) called MODBEACON.\n\nChinese cybersecurity company QiAnXin said that while the th...",
+      "published": "2026-07-10T18:45:23+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -503,10 +512,29 @@
       }
     },
     {
-      "title": "Ransomware Negotiator Gets 70 Months in Prison for Aiding BlackCat Attacks",
-      "link": "https://thehackernews.com/2026/07/ransomware-negotiator-gets-70-months-in.html",
-      "summary": "A 41-year-old former ransomware negotiator has been sentenced to nearly six years (i.e., 70 months) in prison in the U.S. for their role in conspiring with the now-defunct BlackCat ransomware operator...",
-      "published": "2026-07-10T13:40:12+05:30",
+      "title": "Unpatched XRING Flaw in XQUIC Lets Remote Clients Crash HTTP/3 Servers",
+      "link": "https://thehackernews.com/2026/07/unpatched-xring-flaw-in-xquic-lets.html",
+      "summary": "A single wrong variable on one line in XQUIC, Alibaba's QUIC and HTTP/3 library, lets any remote client crash the server with a short burst of completely legal traffic. There is no patch.\n\nFoxIO resea...",
+      "published": "2026-07-10T17:17:43+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 25.9,
+        "anarchy": 3.0,
+        "overall": 14.4
+      },
+      "keywords": {
+        "chaos": [
+          "crash",
+          "crash"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "From 17,000 to 1.1 Million Assets: How Lumen Technologies Rebuilt Exposure Management at Scale",
+      "link": "https://thehackernews.com/2026/07/from-17000-to-11-million-assets-how.html",
+      "summary": "Most enterprises assume their asset inventory is close enough to accurate. The evidence suggests otherwise. According to a survey of over 600 security leaders in the 2026 Axonius Actionability Report,...",
+      "published": "2026-07-10T17:09:40+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -519,11 +547,11 @@
       }
     },
     {
-      "title": "Best Health Supplements Reviews and Ratings 2026",
-      "link": "https://justpaste.it/ccvbk",
-      "summary": "<p>Article URL: <a href=\"https://justpaste.it/ccvbk\">https://justpaste.it/ccvbk</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48857697\">https://news.ycombinator.com/item?id=48...",
-      "published": "2026-07-10T09:25:36+00:00",
-      "domain": "justpaste.it",
+      "title": "Exposed Hacker Server Reveals WP-SHELLSTORM Backdooring Thousands of WordPress Sites",
+      "link": "https://thehackernews.com/2026/07/exposed-hacker-server-reveals-wp.html",
+      "summary": "A cybercrime crew left one of its own servers wide open on the internet for three weeks, and it exposed the operation's inner workings: the hacking tools, the activity logs, and target lists naming mo...",
+      "published": "2026-07-10T17:00:02+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -535,11 +563,11 @@
       }
     },
     {
-      "title": "Stop Looking for the Next Jony Ive",
-      "link": "https://maurya.bearblog.dev/stop-looking-for-the-next-jony-ive/",
-      "summary": "<p>Article URL: <a href=\"https://maurya.bearblog.dev/stop-looking-for-the-next-jony-ive/\">https://maurya.bearblog.dev/stop-looking-for-the-next-jony-ive/</a></p>\n<p>Comments URL: <a href=\"https://news...",
-      "published": "2026-07-10T09:22:35+00:00",
-      "domain": "maurya.bearblog.dev",
+      "title": "Study of 281 Free Android VPN Apps Finds Traffic Leaks, Unencrypted Data, and Tracking",
+      "link": "https://thehackernews.com/2026/07/study-of-281-free-android-vpn-apps.html",
+      "summary": "Researchers ran 281 of the most popular free VPN apps on the Google Play Store through a new testing system and found that many fail at the basics people install a VPN for, i.e., keeping their traffic...",
+      "published": "2026-07-10T16:26:23+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -551,10 +579,58 @@
       }
     },
     {
-      "title": "Show HN: OpenVole 4.5 Is Out",
-      "link": "https://github.com/openvole/openvole",
-      "summary": "<p>OpenVole 4.5.0 is out. Run a skill's bundled scripts, sandboxed to its own dir. VoleHub: multi-file installs, verified by per-file SHA-256. Dashboard: per-paw permission editor. New spaces seed a w...",
-      "published": "2026-07-10T09:21:54+00:00",
+      "title": "Mythos 5 offered outside the US by Anthropic",
+      "link": "https://news.sky.com/video/mythos-5-offered-outside-the-us-by-anthropic-13561860",
+      "summary": "<p>Article URL: <a href=\"https://news.sky.com/video/mythos-5-offered-outside-the-us-by-anthropic-13561860\">https://news.sky.com/video/mythos-5-offered-outside-the-us-by-anthropic-13561860</a></p>\n<p>C...",
+      "published": "2026-07-10T14:26:20+00:00",
+      "domain": "news.sky.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "My niche Rust project now competes with Microsoft",
+      "link": "https://jdiaz97.github.io/blog/my-niche-rust-project-now-competes-with-microsfot/",
+      "summary": "<p>Article URL: <a href=\"https://jdiaz97.github.io/blog/my-niche-rust-project-now-competes-with-microsfot/\">https://jdiaz97.github.io/blog/my-niche-rust-project-now-competes-with-microsfot/</a></p>\n<p...",
+      "published": "2026-07-10T14:25:52+00:00",
+      "domain": "jdiaz97.github.io",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Goodbye Substack, Hello Tuhat",
+      "link": "https://tuhat.net/@sbr/p/goodbye-hello",
+      "summary": "<p>Article URL: <a href=\"https://tuhat.net/@sbr/p/goodbye-hello\">https://tuhat.net/@sbr/p/goodbye-hello</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48860427\">https://news.yc...",
+      "published": "2026-07-10T14:25:46+00:00",
+      "domain": "tuhat.net",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "My Visionaire MCP verifies whether agent CSS fixes rendered",
+      "link": "https://github.com/mi60dev/visionaire-engine",
+      "summary": "<p>Article URL: <a href=\"https://github.com/mi60dev/visionaire-engine\">https://github.com/mi60dev/visionaire-engine</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48860419\">htt...",
+      "published": "2026-07-10T14:25:18+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -567,75 +643,11 @@
       }
     },
     {
-      "title": "Show HN: Drag boxes around and watch a layout engine infer the Flexbox (no AI)",
-      "link": "https://wpconverters.com/playground/",
-      "summary": "<p>Article URL: <a href=\"https://wpconverters.com/playground/\">https://wpconverters.com/playground/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48857637\">https://news.ycombi...",
-      "published": "2026-07-10T09:17:34+00:00",
-      "domain": "wpconverters.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The Ambulatory Intelligence Gap",
-      "link": "https://www.databricks.com/blog/ambulatory-intelligence-gap",
-      "summary": "<p>Article URL: <a href=\"https://www.databricks.com/blog/ambulatory-intelligence-gap\">https://www.databricks.com/blog/ambulatory-intelligence-gap</a></p>\n<p>Comments URL: <a href=\"https://news.ycombin...",
-      "published": "2026-07-10T09:16:55+00:00",
-      "domain": "databricks.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "CEOs are being left baffled at the high cost of moving to AI \u2014 shockingly enough, sacking human workers isn't resulting in huge savings",
-      "link": "https://www.reddit.com/r/technology/comments/1us7rrx/ceos_are_being_left_baffled_at_the_high_cost_of/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1us7rrx/ceos_are_being_left_baffled_at_the_high_cost_of/\"> <img alt=\"CEOs are being left baffled at the high cost of moving to AI...",
-      "published": "2026-07-10T00:09:51+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Dormant GitHub Accounts Help Attackers Blend In While Mapping Corporate Orgs",
-      "link": "https://thehackernews.com/2026/07/dormant-github-accounts-help-attackers.html",
-      "summary": "Datadog Security Labs is warning of \"several overlapping campaigns\" that are systematically enumerating corporate GitHub organizations, repositories, and user accounts through the GitHub&nbsp;API.\n\n\"O...",
-      "published": "2026-07-10T00:08:49+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "New GigaWiper Windows Backdoor Bundles Disk Wiping, Fake Ransomware, and Spyware",
-      "link": "https://thehackernews.com/2026/07/new-gigawiper-windows-backdoor-bundles.html",
-      "summary": "Microsoft has taken apart a destructive Windows backdoor it calls GigaWiper. What stands out is how it is built: not one tool but three older destructive programs bolted into one, offered as commands ...",
-      "published": "2026-07-09T23:38:07+05:30",
-      "domain": "thehackernews.com",
+      "title": "Associate Editors resign from Statistics and Computing editorial board",
+      "link": "https://statmodeling.stat.columbia.edu/2026/07/10/18-associate-editors-resign-from-statistics-and-computing-editorial-board-problems-with-commercial-scholarly-publishing-and-what-does-this-all-mean/",
+      "summary": "<p>Article URL: <a href=\"https://statmodeling.stat.columbia.edu/2026/07/10/18-associate-editors-resign-from-statistics-and-computing-editorial-board-problems-with-commercial-scholarly-publishing-and-w...",
+      "published": "2026-07-10T14:24:53+00:00",
+      "domain": "statmodeling.stat.columbia.edu",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,

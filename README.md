@@ -16,15 +16,18 @@
 
 ## 🚨 Tech Stories
 
-### Attackers Exploit 'Ill Bloom' Vulnerability to Drain $3.1 Million From Cryptocurrency Wallets
+### Unpatched XRING Flaw in XQUIC Lets Remote Clients Crash HTTP/3 Servers
 - **Published**: July 10, 2026
-- **Summary**: Security firm&nbsp;Coinspect&nbsp;has disclosed a crypto wallet flaw it calls&nbsp;Ill Bloom, and attackers are already using it. The flaw is in how s...
-- [Read more](https://thehackernews.com/2026/07/attackers-exploit-ill-bloom.html)
+- **Summary**: A single wrong variable on one line in XQUIC, Alibaba's QUIC and HTTP/3 library, lets any remote client crash the server with a short burst of complet...
+- **Keywords**: crash, crash
+- [Read more](https://thehackernews.com/2026/07/unpatched-xring-flaw-in-xquic-lets.html)
 
-### Ransomware Negotiator Gets 70 Months in Prison for Aiding BlackCat Attacks
+### New MODBEACON RAT Uses gRPC Streaming for Encrypted C2 Traffic
 - **Published**: July 10, 2026
-- **Summary**: A 41-year-old former ransomware negotiator has been sentenced to nearly six years (i.e., 70 months) in prison in the U.S. for their role in conspiring...
-- [Read more](https://thehackernews.com/2026/07/ransomware-negotiator-gets-70-months-in.html)
+- **Summary**: The China-linked cybercrime group known as Silver Fox has been attributed to a new Rust-based remote access trojan (RAR) called MODBEACON.
+
+Chinese cy...
+- [Read more](https://thehackernews.com/2026/07/new-modbeacon-rat-uses-grpc-streaming.html)
 
 ---
 
