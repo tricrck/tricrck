@@ -16,17 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### DOGE officially shuts down
+### Ransomware negotiator hired to represent victims was working for the attackers
 - **Published**: July 11, 2026
-- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1utgevw/doge_officially_shuts_down/"> <img alt="DOGE officially shuts down" src="https://ex...
-- **Keywords**: down, down
-- [Read more](https://www.reddit.com/r/technology/comments/1utgevw/doge_officially_shuts_down/)
+- **Summary**: https://arstechnica.com/tech-policy/2026/07/ra......
+- [Read more](https://arstechnica.com/tech-policy/2026/07/ransomware-negotiator-helped-attackers-extort-his-own-clients-gets-6-year-sentence/)
 
-### World oil demand set for first annual decline since 2020, IEA says
+### Compromised jscrambler 8.14.0 npm Release Drops Rust Infostealer During Install
 - **Published**: July 11, 2026
-- **Summary**: https://www.cnbc.com/2026/07/10/iea-world-oil-demand-declines-iran-war.html</a></p>
-<p>Comments UR......
-- [Read more](https://www.cnbc.com/2026/07/10/iea-world-oil-demand-declines-iran-war.html)
+- **Summary**: Version&nbsp;8.14.0&nbsp;of the jscrambler npm package shipped with a malicious&nbsp;preinstall&nbsp;hook that silently drops and runs a native infost...
+- [Read more](https://thehackernews.com/2026/07/compromised-jscrambler-8140-npm-release.html)
 
 ---
 
