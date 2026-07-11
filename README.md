@@ -16,16 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### URGENT - Progress Tells ShareFile Customers to Shut Down Storage Zone Controllers Over Security Threat
-- **Published**: July 10, 2026
-- **Summary**: Progress Software has told ShareFile customers to shut down the Windows servers running their Storage Zone Controllers, confirming to The Hacker News ...
-- **Keywords**: down, down
-- [Read more](https://thehackernews.com/2026/07/urgent-progress-tells-sharefile.html)
-
-### Critical Zimbra Flaw Could Let Crafted Emails Run Malicious Code in User Sessions
+### DOGE officially shuts down
 - **Published**: July 11, 2026
-- **Summary**: Zimbra is urging customers to apply updates to address a critical security vulnerability impacting the Classic Web Client that could result in arbitra...
-- [Read more](https://thehackernews.com/2026/07/critical-zimbra-flaw-could-let-crafted_0483473395.html)
+- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1utgevw/doge_officially_shuts_down/"> <img alt="DOGE officially shuts down" src="https://ex...
+- **Keywords**: down, down
+- [Read more](https://www.reddit.com/r/technology/comments/1utgevw/doge_officially_shuts_down/)
+
+### World oil demand set for first annual decline since 2020, IEA says
+- **Published**: July 11, 2026
+- **Summary**: https://www.cnbc.com/2026/07/10/iea-world-oil-demand-declines-iran-war.html</a></p>
+<p>Comments UR......
+- [Read more](https://www.cnbc.com/2026/07/10/iea-world-oil-demand-declines-iran-war.html)
 
 ---
 
