@@ -22,11 +22,10 @@
 - **Keywords**: down, down
 - [Read more](https://thehackernews.com/2026/07/urgent-progress-tells-sharefile.html)
 
-### Six New U-Boot Flaws Could Let Malicious Images Crash Devices or Run Code at Boot
-- **Published**: July 10, 2026
-- **Summary**: Researchers at firmware security firm&nbsp;Binarly&nbsp;have found six new flaws in U-Boot, the small program that starts up hardware as varied as hom...
-- **Keywords**: crash
-- [Read more](https://thehackernews.com/2026/07/six-new-u-boot-flaws-could-let.html)
+### Critical Zimbra Flaw Could Let Crafted Emails Run Malicious Code in User Sessions
+- **Published**: July 11, 2026
+- **Summary**: Zimbra is urging customers to apply updates to address a critical security vulnerability impacting the Classic Web Client that could result in arbitra...
+- [Read more](https://thehackernews.com/2026/07/critical-zimbra-flaw-could-let-crafted_0483473395.html)
 
 ---
 
