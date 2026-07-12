@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Most European strawberries contain 'forever chemical' pesticides, study finds
+### Show HN: Kote – Capture and reuse engineering context from AI chats and Git
 - **Published**: July 12, 2026
-- **Summary**: https://euobserver.com/226059/most-european-st......
-- **Keywords**: disrupt
-- [Read more](https://euobserver.com/226059/most-european-strawberries-contain-forever-chemical-pesticides-that-disrupt-hormones-study-finds/)
+- **Summary**: <p>I kept running into the same problem: I'd solve something with the help of an AI assistant, spend time debugging an issue, or make an architectural...
+- [Read more](https://github.com/pedroaugusto04/Kote)
 
-### The Amazon SES Alternative for AI Agents – MailKite
+### Show HN: Free tool matches your startup or nonprofit to open federal grants
 - **Published**: July 12, 2026
-- **Summary**: https://mailkite.dev/blog/amazon-ses-for-ai-agents/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id......
-- [Read more](https://mailkite.dev/blog/amazon-ses-for-ai-agents/)
+- **Summary**: https://autogranthunter.com/grant-match/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48883527">https://new......
+- [Read more](https://autogranthunter.com/grant-match/)
 
 ---
 
