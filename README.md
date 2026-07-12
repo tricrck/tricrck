@@ -16,15 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Ransomware negotiator hired to represent victims was working for the attackers
-- **Published**: July 11, 2026
-- **Summary**: https://arstechnica.com/tech-policy/2026/07/ra......
-- [Read more](https://arstechnica.com/tech-policy/2026/07/ransomware-negotiator-helped-attackers-extort-his-own-clients-gets-6-year-sentence/)
+### All the Government's 385,837 frames of UFO files released thus far
+- **Published**: July 12, 2026
+- **Summary**: https://hypergrid.systems/war.gov-ufo-viewer/microfilm5</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com......
+- [Read more](https://hypergrid.systems/war.gov-ufo-viewer/microfilm5)
 
-### Compromised jscrambler 8.14.0 npm Release Drops Rust Infostealer During Install
-- **Published**: July 11, 2026
-- **Summary**: Version&nbsp;8.14.0&nbsp;of the jscrambler npm package shipped with a malicious&nbsp;preinstall&nbsp;hook that silently drops and runs a native infost...
-- [Read more](https://thehackernews.com/2026/07/compromised-jscrambler-8140-npm-release.html)
+### Ukraine accuses Russia of creating conditions for the spread of anthrax
+- **Published**: July 12, 2026
+- **Summary**: https://outbreaknewstoday.substack.com/p/ukraine-accuses-russia-of-creating</a></p>
+<p>Comments UR......
+- [Read more](https://outbreaknewstoday.substack.com/p/ukraine-accuses-russia-of-creating)
 
 ---
 
