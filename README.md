@@ -16,17 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Short Reflection on being Offline for 24 hours
+### Most European strawberries contain 'forever chemical' pesticides, study finds
 - **Published**: July 12, 2026
-- **Summary**: https://lewiscampbell.tech/blog/260712.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48879333">https......
-- [Read more](https://lewiscampbell.tech/blog/260712.html)
+- **Summary**: https://euobserver.com/226059/most-european-st......
+- **Keywords**: disrupt
+- [Read more](https://euobserver.com/226059/most-european-strawberries-contain-forever-chemical-pesticides-that-disrupt-hormones-study-finds/)
 
-### xs: Concatenative array language inspired by kdb+/q in OCaml
+### The Amazon SES Alternative for AI Agents – MailKite
 - **Published**: July 12, 2026
-- **Summary**: https://cryptm.org/xs/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48879331">https://news.ycombinator.com/item?id=48879331<...
-- [Read more](https://cryptm.org/xs/)
+- **Summary**: https://mailkite.dev/blog/amazon-ses-for-ai-agents/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id......
+- [Read more](https://mailkite.dev/blog/amazon-ses-for-ai-agents/)
 
 ---
 
