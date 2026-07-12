@@ -16,17 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### All the Government's 385,837 frames of UFO files released thus far
+### Short Reflection on being Offline for 24 hours
 - **Published**: July 12, 2026
-- **Summary**: https://hypergrid.systems/war.gov-ufo-viewer/microfilm5</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com......
-- [Read more](https://hypergrid.systems/war.gov-ufo-viewer/microfilm5)
+- **Summary**: https://lewiscampbell.tech/blog/260712.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48879333">https......
+- [Read more](https://lewiscampbell.tech/blog/260712.html)
 
-### Ukraine accuses Russia of creating conditions for the spread of anthrax
+### xs: Concatenative array language inspired by kdb+/q in OCaml
 - **Published**: July 12, 2026
-- **Summary**: https://outbreaknewstoday.substack.com/p/ukraine-accuses-russia-of-creating</a></p>
-<p>Comments UR......
-- [Read more](https://outbreaknewstoday.substack.com/p/ukraine-accuses-russia-of-creating)
+- **Summary**: https://cryptm.org/xs/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48879331">https://news.ycombinator.com/item?id=48879331<...
+- [Read more](https://cryptm.org/xs/)
 
 ---
 
