@@ -16,17 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Japanese payment processor's collapse hits banks and restaurants
+### Misconfigured Server Reveals Three Evilginx Phishing Operations Targeting Microsoft 365
 - **Published**: July 13, 2026
-- **Summary**: https://www.japantimes.co.jp/business/2026/07/08/companies/zentoshin-impact-restauran......
-- **Keywords**: collapse
-- [Read more](https://www.japantimes.co.jp/business/2026/07/08/companies/zentoshin-impact-restaurants/)
+- **Summary**: An attacker running a live Microsoft 365 phishing operation left a Python web server listening on a public port with directory listing switched on. Th...
+- [Read more](https://thehackernews.com/2026/07/misconfigured-server-reveals-three.html)
 
-### Thoughts on AI
+### iCagenda and Balbooa Forms Joomla Flaws Reportedly Exploited as Zero-Days
 - **Published**: July 13, 2026
-- **Summary**: https://jackpeplinski.bearblog.dev/thoughts-on-ai/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4......
-- [Read more](https://jackpeplinski.bearblog.dev/thoughts-on-ai/)
+- **Summary**: The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added two maximum-severity security flaws impacting iCagenda and Balbooa extensio...
+- [Read more](https://thehackernews.com/2026/07/icagenda-and-balbooa-forms-joomla-flaws.html)
 
 ---
 
