@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Misconfigured Server Reveals Three Evilginx Phishing Operations Targeting Microsoft 365
+### Forg365 PhaaS Targets Microsoft 365 with Device Code and AitM Session Theft
 - **Published**: July 13, 2026
-- **Summary**: An attacker running a live Microsoft 365 phishing operation left a Python web server listening on a public port with directory listing switched on. Th...
-- [Read more](https://thehackernews.com/2026/07/misconfigured-server-reveals-three.html)
+- **Summary**: A new phishing-as-a-service (PhaaS) operation called Forg365 is using a combination of device code phishing, adversary-in-the-middle (AitM) tactics, a...
+- [Read more](https://thehackernews.com/2026/07/forg365-phaas-targets-microsoft-365.html)
 
-### iCagenda and Balbooa Forms Joomla Flaws Reportedly Exploited as Zero-Days
+### Meta Files Patent for AI That Can Listen All Day and Track How You're Feeling
 - **Published**: July 13, 2026
-- **Summary**: The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added two maximum-severity security flaws impacting iCagenda and Balbooa extensio...
-- [Read more](https://thehackernews.com/2026/07/icagenda-and-balbooa-forms-joomla-flaws.html)
+- **Summary**: Meta has filed a patent application for an AI that listens to your voice throughout the day, works out how it thinks you are feeling from the way you ...
+- [Read more](https://thehackernews.com/2026/07/meta-files-patent-for-ai-that-can.html)
 
 ---
 

@@ -1,10 +1,10 @@
 {
   "chaos_ranked": [
     {
-      "title": "Misconfigured Server Reveals Three Evilginx Phishing Operations Targeting Microsoft 365",
-      "link": "https://thehackernews.com/2026/07/misconfigured-server-reveals-three.html",
-      "summary": "An attacker running a live Microsoft 365 phishing operation left a Python web server listening on a public port with directory listing switched on. The command that did it:&nbsp;python3 -m http.server...",
-      "published": "2026-07-13T13:00:00+05:30",
+      "title": "Forg365 PhaaS Targets Microsoft 365 with Device Code and AitM Session Theft",
+      "link": "https://thehackernews.com/2026/07/forg365-phaas-targets-microsoft-365.html",
+      "summary": "A new phishing-as-a-service (PhaaS) operation called Forg365 is using a combination of device code phishing, adversary-in-the-middle (AitM) tactics, antibot evasion, artificial intelligence (AI)-assis...",
+      "published": "2026-07-13T18:33:33+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -17,10 +17,10 @@
       }
     },
     {
-      "title": "iCagenda and Balbooa Forms Joomla Flaws Reportedly Exploited as Zero-Days",
-      "link": "https://thehackernews.com/2026/07/icagenda-and-balbooa-forms-joomla-flaws.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added two maximum-severity security flaws impacting iCagenda and Balbooa extensions for Joomla to its Known Exploited Vulnerabiliti...",
-      "published": "2026-07-13T11:06:02+05:30",
+      "title": "Meta Files Patent for AI That Can Listen All Day and Track How You're Feeling",
+      "link": "https://thehackernews.com/2026/07/meta-files-patent-for-ai-that-can.html",
+      "summary": "Meta has filed a patent application for an AI that listens to your voice throughout the day, works out how it thinks you are feeling from the way you sound, and keeps a timestamped log of every read.\n...",
+      "published": "2026-07-13T17:24:46+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -33,11 +33,29 @@
       }
     },
     {
-      "title": "Fuck.com (1997)",
-      "link": "https://www.links.net/webpub/fuck.com.html",
-      "summary": "<p>Article URL: <a href=\"https://www.links.net/webpub/fuck.com.html\">https://www.links.net/webpub/fuck.com.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48889945\">https:/...",
-      "published": "2026-07-13T09:23:07+00:00",
-      "domain": "links.net",
+      "title": "Thinking Fast and Slow in the SOC: The Case for Combining Autonomous AI with Analyst Copilots",
+      "link": "https://thehackernews.com/2026/07/thinking-fast-and-slow-in-soc-case-for.html",
+      "summary": "A few days ago, I was sitting with the CISO of a Fortune 50 company, walking through how his security team was thinking about AI agents in the SOC. Smart team. Serious program. They had already connec...",
+      "published": "2026-07-13T17:07:05+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 10.9,
+        "overall": 7.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": [
+          "autonomous"
+        ]
+      }
+    },
+    {
+      "title": "Attacker Uses Suspected AI-Generated PowerShell Script to Map Active Directory",
+      "link": "https://thehackernews.com/2026/07/attacker-uses-suspected-ai-generated.html",
+      "summary": "Cybersecurity researchers have flagged an intrusion in which an unknown threat actor leveraged a vibe-coded PowerShell script for Active Directory (AD) enumeration.\n\n\"The script looked for the Domain ...",
+      "published": "2026-07-13T16:32:33+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -49,11 +67,11 @@
       }
     },
     {
-      "title": "Imprisoned in My Own Mind",
-      "link": "https://ahmedhossvm.dev/posts/imprisoned_in_my_own_mind/",
-      "summary": "<p>Article URL: <a href=\"https://ahmedhossvm.dev/posts/imprisoned_in_my_own_mind/\">https://ahmedhossvm.dev/posts/imprisoned_in_my_own_mind/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.c...",
-      "published": "2026-07-13T09:22:21+00:00",
-      "domain": "ahmedhossvm.dev",
+      "title": "The Fishing Contest",
+      "link": "https://www.quarter--mile.com/The-Fishing-Contest",
+      "summary": "<p>Article URL: <a href=\"https://www.quarter--mile.com/The-Fishing-Contest\">https://www.quarter--mile.com/The-Fishing-Contest</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=488...",
+      "published": "2026-07-13T14:30:32+00:00",
+      "domain": "quarter--mile.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -65,11 +83,11 @@
       }
     },
     {
-      "title": "Show HN: Mock Chats \u2013 Make viral chat-story videos",
-      "link": "https://www.mockchats.com/",
-      "summary": "<p>A good friend of mine kept needing videos with fake chat messages in them to promote his startup. The kind of thing where you record a phone screen and messages come in one by one or you create in ...",
-      "published": "2026-07-13T09:20:43+00:00",
-      "domain": "mockchats.com",
+      "title": "10 Languages in 3 days: field notes from localizing an AI translation product",
+      "link": "https://transept.ai/journal/localization-lessons-ten-languages",
+      "summary": "<p>Article URL: <a href=\"https://transept.ai/journal/localization-lessons-ten-languages\">https://transept.ai/journal/localization-lessons-ten-languages</a></p>\n<p>Comments URL: <a href=\"https://news.y...",
+      "published": "2026-07-13T14:30:07+00:00",
+      "domain": "transept.ai",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -81,11 +99,11 @@
       }
     },
     {
-      "title": "Commodore Amiga 500 Artwork",
-      "link": "https://gibbok.github.io/amiga-500-art/index.html",
-      "summary": "<p>Article URL: <a href=\"https://gibbok.github.io/amiga-500-art/index.html\">https://gibbok.github.io/amiga-500-art/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=488...",
-      "published": "2026-07-13T09:18:07+00:00",
-      "domain": "gibbok.github.io",
+      "title": "Optional standards dont cut it",
+      "link": "https://nt-ai-dc.info",
+      "summary": "<p>Article URL: <a href=\"https://nt-ai-dc.info\">https://nt-ai-dc.info</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48893309\">https://news.ycombinator.com/item?id=48893309</a>...",
+      "published": "2026-07-13T14:29:43+00:00",
+      "domain": "nt-ai-dc.info",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -97,11 +115,11 @@
       }
     },
     {
-      "title": "AI creating a Jevon's Paradox for lawsuits, deals and litigation [video]",
-      "link": "https://www.youtube.com/watch?v=_uWnr42zGnE",
-      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=_uWnr42zGnE\">https://www.youtube.com/watch?v=_uWnr42zGnE</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48889897\">https...",
-      "published": "2026-07-13T09:17:47+00:00",
-      "domain": "youtube.com",
+      "title": "Prefect Is Acquiring Dagster",
+      "link": "https://dagster.io/blog/prefect-is-acquiring-dagster",
+      "summary": "<p>Article URL: <a href=\"https://dagster.io/blog/prefect-is-acquiring-dagster\">https://dagster.io/blog/prefect-is-acquiring-dagster</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?...",
+      "published": "2026-07-13T14:29:41+00:00",
+      "domain": "dagster.io",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -113,11 +131,11 @@
       }
     },
     {
-      "title": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
-      "link": "https://raymyers.org/post/zed-creator-calls-spade-a-spade/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48889637\">Comments</a>...",
-      "published": "2026-07-13T08:39:39+00:00",
-      "domain": "raymyers.org",
+      "title": "New method aims to keep kids safe from illegal AI-generated content",
+      "link": "https://news.mit.edu/2026/new-method-keeps-kids-safe-from-illegal-ai-generated-content-0713",
+      "summary": "<p>Article URL: <a href=\"https://news.mit.edu/2026/new-method-keeps-kids-safe-from-illegal-ai-generated-content-0713\">https://news.mit.edu/2026/new-method-keeps-kids-safe-from-illegal-ai-generated-con...",
+      "published": "2026-07-13T14:29:21+00:00",
+      "domain": "news.mit.edu",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -129,27 +147,11 @@
       }
     },
     {
-      "title": "Interrail: 6,379Km and 13 Countries over 7 weeks",
-      "link": "https://shkspr.mobi/blog/2026/07/another-ridiculous-interrail-holiday-6379km-and-13-countries-over-7-weeks/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48889350\">Comments</a>...",
-      "published": "2026-07-13T08:04:30+00:00",
-      "domain": "shkspr.mobi",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Backtrack-Free Cursive",
-      "link": "https://mmapped.blog/posts/52-backtrack-free-cursive",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48888518\">Comments</a>...",
-      "published": "2026-07-13T06:08:12+00:00",
-      "domain": "mmapped.blog",
+      "title": "Show HN: Clawk \u2013 Give coding agents a disposable Linux VM, not your laptop",
+      "link": "https://github.com/clawkwork/clawk",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48892859\">Comments</a>...",
+      "published": "2026-07-13T14:02:03+00:00",
+      "domain": "github.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -163,10 +165,28 @@
   ],
   "anarchy_ranked": [
     {
-      "title": "Misconfigured Server Reveals Three Evilginx Phishing Operations Targeting Microsoft 365",
-      "link": "https://thehackernews.com/2026/07/misconfigured-server-reveals-three.html",
-      "summary": "An attacker running a live Microsoft 365 phishing operation left a Python web server listening on a public port with directory listing switched on. The command that did it:&nbsp;python3 -m http.server...",
-      "published": "2026-07-13T13:00:00+05:30",
+      "title": "Thinking Fast and Slow in the SOC: The Case for Combining Autonomous AI with Analyst Copilots",
+      "link": "https://thehackernews.com/2026/07/thinking-fast-and-slow-in-soc-case-for.html",
+      "summary": "A few days ago, I was sitting with the CISO of a Fortune 50 company, walking through how his security team was thinking about AI agents in the SOC. Smart team. Serious program. They had already connec...",
+      "published": "2026-07-13T17:07:05+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 10.9,
+        "overall": 7.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": [
+          "autonomous"
+        ]
+      }
+    },
+    {
+      "title": "Forg365 PhaaS Targets Microsoft 365 with Device Code and AitM Session Theft",
+      "link": "https://thehackernews.com/2026/07/forg365-phaas-targets-microsoft-365.html",
+      "summary": "A new phishing-as-a-service (PhaaS) operation called Forg365 is using a combination of device code phishing, adversary-in-the-middle (AitM) tactics, antibot evasion, artificial intelligence (AI)-assis...",
+      "published": "2026-07-13T18:33:33+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -179,10 +199,10 @@
       }
     },
     {
-      "title": "iCagenda and Balbooa Forms Joomla Flaws Reportedly Exploited as Zero-Days",
-      "link": "https://thehackernews.com/2026/07/icagenda-and-balbooa-forms-joomla-flaws.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added two maximum-severity security flaws impacting iCagenda and Balbooa extensions for Joomla to its Known Exploited Vulnerabiliti...",
-      "published": "2026-07-13T11:06:02+05:30",
+      "title": "Meta Files Patent for AI That Can Listen All Day and Track How You're Feeling",
+      "link": "https://thehackernews.com/2026/07/meta-files-patent-for-ai-that-can.html",
+      "summary": "Meta has filed a patent application for an AI that listens to your voice throughout the day, works out how it thinks you are feeling from the way you sound, and keeps a timestamped log of every read.\n...",
+      "published": "2026-07-13T17:24:46+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -195,11 +215,11 @@
       }
     },
     {
-      "title": "Fuck.com (1997)",
-      "link": "https://www.links.net/webpub/fuck.com.html",
-      "summary": "<p>Article URL: <a href=\"https://www.links.net/webpub/fuck.com.html\">https://www.links.net/webpub/fuck.com.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48889945\">https:/...",
-      "published": "2026-07-13T09:23:07+00:00",
-      "domain": "links.net",
+      "title": "Attacker Uses Suspected AI-Generated PowerShell Script to Map Active Directory",
+      "link": "https://thehackernews.com/2026/07/attacker-uses-suspected-ai-generated.html",
+      "summary": "Cybersecurity researchers have flagged an intrusion in which an unknown threat actor leveraged a vibe-coded PowerShell script for Active Directory (AD) enumeration.\n\n\"The script looked for the Domain ...",
+      "published": "2026-07-13T16:32:33+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -211,11 +231,11 @@
       }
     },
     {
-      "title": "Imprisoned in My Own Mind",
-      "link": "https://ahmedhossvm.dev/posts/imprisoned_in_my_own_mind/",
-      "summary": "<p>Article URL: <a href=\"https://ahmedhossvm.dev/posts/imprisoned_in_my_own_mind/\">https://ahmedhossvm.dev/posts/imprisoned_in_my_own_mind/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.c...",
-      "published": "2026-07-13T09:22:21+00:00",
-      "domain": "ahmedhossvm.dev",
+      "title": "The Fishing Contest",
+      "link": "https://www.quarter--mile.com/The-Fishing-Contest",
+      "summary": "<p>Article URL: <a href=\"https://www.quarter--mile.com/The-Fishing-Contest\">https://www.quarter--mile.com/The-Fishing-Contest</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=488...",
+      "published": "2026-07-13T14:30:32+00:00",
+      "domain": "quarter--mile.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -227,11 +247,11 @@
       }
     },
     {
-      "title": "Show HN: Mock Chats \u2013 Make viral chat-story videos",
-      "link": "https://www.mockchats.com/",
-      "summary": "<p>A good friend of mine kept needing videos with fake chat messages in them to promote his startup. The kind of thing where you record a phone screen and messages come in one by one or you create in ...",
-      "published": "2026-07-13T09:20:43+00:00",
-      "domain": "mockchats.com",
+      "title": "10 Languages in 3 days: field notes from localizing an AI translation product",
+      "link": "https://transept.ai/journal/localization-lessons-ten-languages",
+      "summary": "<p>Article URL: <a href=\"https://transept.ai/journal/localization-lessons-ten-languages\">https://transept.ai/journal/localization-lessons-ten-languages</a></p>\n<p>Comments URL: <a href=\"https://news.y...",
+      "published": "2026-07-13T14:30:07+00:00",
+      "domain": "transept.ai",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -243,11 +263,11 @@
       }
     },
     {
-      "title": "Commodore Amiga 500 Artwork",
-      "link": "https://gibbok.github.io/amiga-500-art/index.html",
-      "summary": "<p>Article URL: <a href=\"https://gibbok.github.io/amiga-500-art/index.html\">https://gibbok.github.io/amiga-500-art/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=488...",
-      "published": "2026-07-13T09:18:07+00:00",
-      "domain": "gibbok.github.io",
+      "title": "Optional standards dont cut it",
+      "link": "https://nt-ai-dc.info",
+      "summary": "<p>Article URL: <a href=\"https://nt-ai-dc.info\">https://nt-ai-dc.info</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48893309\">https://news.ycombinator.com/item?id=48893309</a>...",
+      "published": "2026-07-13T14:29:43+00:00",
+      "domain": "nt-ai-dc.info",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -259,11 +279,11 @@
       }
     },
     {
-      "title": "AI creating a Jevon's Paradox for lawsuits, deals and litigation [video]",
-      "link": "https://www.youtube.com/watch?v=_uWnr42zGnE",
-      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=_uWnr42zGnE\">https://www.youtube.com/watch?v=_uWnr42zGnE</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48889897\">https...",
-      "published": "2026-07-13T09:17:47+00:00",
-      "domain": "youtube.com",
+      "title": "Prefect Is Acquiring Dagster",
+      "link": "https://dagster.io/blog/prefect-is-acquiring-dagster",
+      "summary": "<p>Article URL: <a href=\"https://dagster.io/blog/prefect-is-acquiring-dagster\">https://dagster.io/blog/prefect-is-acquiring-dagster</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?...",
+      "published": "2026-07-13T14:29:41+00:00",
+      "domain": "dagster.io",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -275,11 +295,11 @@
       }
     },
     {
-      "title": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
-      "link": "https://raymyers.org/post/zed-creator-calls-spade-a-spade/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48889637\">Comments</a>...",
-      "published": "2026-07-13T08:39:39+00:00",
-      "domain": "raymyers.org",
+      "title": "New method aims to keep kids safe from illegal AI-generated content",
+      "link": "https://news.mit.edu/2026/new-method-keeps-kids-safe-from-illegal-ai-generated-content-0713",
+      "summary": "<p>Article URL: <a href=\"https://news.mit.edu/2026/new-method-keeps-kids-safe-from-illegal-ai-generated-content-0713\">https://news.mit.edu/2026/new-method-keeps-kids-safe-from-illegal-ai-generated-con...",
+      "published": "2026-07-13T14:29:21+00:00",
+      "domain": "news.mit.edu",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -291,27 +311,11 @@
       }
     },
     {
-      "title": "Interrail: 6,379Km and 13 Countries over 7 weeks",
-      "link": "https://shkspr.mobi/blog/2026/07/another-ridiculous-interrail-holiday-6379km-and-13-countries-over-7-weeks/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48889350\">Comments</a>...",
-      "published": "2026-07-13T08:04:30+00:00",
-      "domain": "shkspr.mobi",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Backtrack-Free Cursive",
-      "link": "https://mmapped.blog/posts/52-backtrack-free-cursive",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48888518\">Comments</a>...",
-      "published": "2026-07-13T06:08:12+00:00",
-      "domain": "mmapped.blog",
+      "title": "Show HN: Clawk \u2013 Give coding agents a disposable Linux VM, not your laptop",
+      "link": "https://github.com/clawkwork/clawk",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48892859\">Comments</a>...",
+      "published": "2026-07-13T14:02:03+00:00",
+      "domain": "github.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -325,10 +329,28 @@
   ],
   "overall_ranked": [
     {
-      "title": "Misconfigured Server Reveals Three Evilginx Phishing Operations Targeting Microsoft 365",
-      "link": "https://thehackernews.com/2026/07/misconfigured-server-reveals-three.html",
-      "summary": "An attacker running a live Microsoft 365 phishing operation left a Python web server listening on a public port with directory listing switched on. The command that did it:&nbsp;python3 -m http.server...",
-      "published": "2026-07-13T13:00:00+05:30",
+      "title": "Thinking Fast and Slow in the SOC: The Case for Combining Autonomous AI with Analyst Copilots",
+      "link": "https://thehackernews.com/2026/07/thinking-fast-and-slow-in-soc-case-for.html",
+      "summary": "A few days ago, I was sitting with the CISO of a Fortune 50 company, walking through how his security team was thinking about AI agents in the SOC. Smart team. Serious program. They had already connec...",
+      "published": "2026-07-13T17:07:05+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 10.9,
+        "overall": 7.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": [
+          "autonomous"
+        ]
+      }
+    },
+    {
+      "title": "Forg365 PhaaS Targets Microsoft 365 with Device Code and AitM Session Theft",
+      "link": "https://thehackernews.com/2026/07/forg365-phaas-targets-microsoft-365.html",
+      "summary": "A new phishing-as-a-service (PhaaS) operation called Forg365 is using a combination of device code phishing, adversary-in-the-middle (AitM) tactics, antibot evasion, artificial intelligence (AI)-assis...",
+      "published": "2026-07-13T18:33:33+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -341,10 +363,10 @@
       }
     },
     {
-      "title": "iCagenda and Balbooa Forms Joomla Flaws Reportedly Exploited as Zero-Days",
-      "link": "https://thehackernews.com/2026/07/icagenda-and-balbooa-forms-joomla-flaws.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added two maximum-severity security flaws impacting iCagenda and Balbooa extensions for Joomla to its Known Exploited Vulnerabiliti...",
-      "published": "2026-07-13T11:06:02+05:30",
+      "title": "Meta Files Patent for AI That Can Listen All Day and Track How You're Feeling",
+      "link": "https://thehackernews.com/2026/07/meta-files-patent-for-ai-that-can.html",
+      "summary": "Meta has filed a patent application for an AI that listens to your voice throughout the day, works out how it thinks you are feeling from the way you sound, and keeps a timestamped log of every read.\n...",
+      "published": "2026-07-13T17:24:46+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -357,11 +379,11 @@
       }
     },
     {
-      "title": "Fuck.com (1997)",
-      "link": "https://www.links.net/webpub/fuck.com.html",
-      "summary": "<p>Article URL: <a href=\"https://www.links.net/webpub/fuck.com.html\">https://www.links.net/webpub/fuck.com.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48889945\">https:/...",
-      "published": "2026-07-13T09:23:07+00:00",
-      "domain": "links.net",
+      "title": "Attacker Uses Suspected AI-Generated PowerShell Script to Map Active Directory",
+      "link": "https://thehackernews.com/2026/07/attacker-uses-suspected-ai-generated.html",
+      "summary": "Cybersecurity researchers have flagged an intrusion in which an unknown threat actor leveraged a vibe-coded PowerShell script for Active Directory (AD) enumeration.\n\n\"The script looked for the Domain ...",
+      "published": "2026-07-13T16:32:33+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -373,11 +395,11 @@
       }
     },
     {
-      "title": "Imprisoned in My Own Mind",
-      "link": "https://ahmedhossvm.dev/posts/imprisoned_in_my_own_mind/",
-      "summary": "<p>Article URL: <a href=\"https://ahmedhossvm.dev/posts/imprisoned_in_my_own_mind/\">https://ahmedhossvm.dev/posts/imprisoned_in_my_own_mind/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.c...",
-      "published": "2026-07-13T09:22:21+00:00",
-      "domain": "ahmedhossvm.dev",
+      "title": "The Fishing Contest",
+      "link": "https://www.quarter--mile.com/The-Fishing-Contest",
+      "summary": "<p>Article URL: <a href=\"https://www.quarter--mile.com/The-Fishing-Contest\">https://www.quarter--mile.com/The-Fishing-Contest</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=488...",
+      "published": "2026-07-13T14:30:32+00:00",
+      "domain": "quarter--mile.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -389,11 +411,11 @@
       }
     },
     {
-      "title": "Show HN: Mock Chats \u2013 Make viral chat-story videos",
-      "link": "https://www.mockchats.com/",
-      "summary": "<p>A good friend of mine kept needing videos with fake chat messages in them to promote his startup. The kind of thing where you record a phone screen and messages come in one by one or you create in ...",
-      "published": "2026-07-13T09:20:43+00:00",
-      "domain": "mockchats.com",
+      "title": "10 Languages in 3 days: field notes from localizing an AI translation product",
+      "link": "https://transept.ai/journal/localization-lessons-ten-languages",
+      "summary": "<p>Article URL: <a href=\"https://transept.ai/journal/localization-lessons-ten-languages\">https://transept.ai/journal/localization-lessons-ten-languages</a></p>\n<p>Comments URL: <a href=\"https://news.y...",
+      "published": "2026-07-13T14:30:07+00:00",
+      "domain": "transept.ai",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -405,11 +427,11 @@
       }
     },
     {
-      "title": "Commodore Amiga 500 Artwork",
-      "link": "https://gibbok.github.io/amiga-500-art/index.html",
-      "summary": "<p>Article URL: <a href=\"https://gibbok.github.io/amiga-500-art/index.html\">https://gibbok.github.io/amiga-500-art/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=488...",
-      "published": "2026-07-13T09:18:07+00:00",
-      "domain": "gibbok.github.io",
+      "title": "Optional standards dont cut it",
+      "link": "https://nt-ai-dc.info",
+      "summary": "<p>Article URL: <a href=\"https://nt-ai-dc.info\">https://nt-ai-dc.info</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48893309\">https://news.ycombinator.com/item?id=48893309</a>...",
+      "published": "2026-07-13T14:29:43+00:00",
+      "domain": "nt-ai-dc.info",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -421,11 +443,11 @@
       }
     },
     {
-      "title": "AI creating a Jevon's Paradox for lawsuits, deals and litigation [video]",
-      "link": "https://www.youtube.com/watch?v=_uWnr42zGnE",
-      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=_uWnr42zGnE\">https://www.youtube.com/watch?v=_uWnr42zGnE</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48889897\">https...",
-      "published": "2026-07-13T09:17:47+00:00",
-      "domain": "youtube.com",
+      "title": "Prefect Is Acquiring Dagster",
+      "link": "https://dagster.io/blog/prefect-is-acquiring-dagster",
+      "summary": "<p>Article URL: <a href=\"https://dagster.io/blog/prefect-is-acquiring-dagster\">https://dagster.io/blog/prefect-is-acquiring-dagster</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?...",
+      "published": "2026-07-13T14:29:41+00:00",
+      "domain": "dagster.io",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -437,11 +459,11 @@
       }
     },
     {
-      "title": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
-      "link": "https://raymyers.org/post/zed-creator-calls-spade-a-spade/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48889637\">Comments</a>...",
-      "published": "2026-07-13T08:39:39+00:00",
-      "domain": "raymyers.org",
+      "title": "New method aims to keep kids safe from illegal AI-generated content",
+      "link": "https://news.mit.edu/2026/new-method-keeps-kids-safe-from-illegal-ai-generated-content-0713",
+      "summary": "<p>Article URL: <a href=\"https://news.mit.edu/2026/new-method-keeps-kids-safe-from-illegal-ai-generated-content-0713\">https://news.mit.edu/2026/new-method-keeps-kids-safe-from-illegal-ai-generated-con...",
+      "published": "2026-07-13T14:29:21+00:00",
+      "domain": "news.mit.edu",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -453,27 +475,11 @@
       }
     },
     {
-      "title": "Interrail: 6,379Km and 13 Countries over 7 weeks",
-      "link": "https://shkspr.mobi/blog/2026/07/another-ridiculous-interrail-holiday-6379km-and-13-countries-over-7-weeks/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48889350\">Comments</a>...",
-      "published": "2026-07-13T08:04:30+00:00",
-      "domain": "shkspr.mobi",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Backtrack-Free Cursive",
-      "link": "https://mmapped.blog/posts/52-backtrack-free-cursive",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48888518\">Comments</a>...",
-      "published": "2026-07-13T06:08:12+00:00",
-      "domain": "mmapped.blog",
+      "title": "Show HN: Clawk \u2013 Give coding agents a disposable Linux VM, not your laptop",
+      "link": "https://github.com/clawkwork/clawk",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48892859\">Comments</a>...",
+      "published": "2026-07-13T14:02:03+00:00",
+      "domain": "github.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -487,10 +493,10 @@
   ],
   "all_articles": [
     {
-      "title": "Misconfigured Server Reveals Three Evilginx Phishing Operations Targeting Microsoft 365",
-      "link": "https://thehackernews.com/2026/07/misconfigured-server-reveals-three.html",
-      "summary": "An attacker running a live Microsoft 365 phishing operation left a Python web server listening on a public port with directory listing switched on. The command that did it:&nbsp;python3 -m http.server...",
-      "published": "2026-07-13T13:00:00+05:30",
+      "title": "Forg365 PhaaS Targets Microsoft 365 with Device Code and AitM Session Theft",
+      "link": "https://thehackernews.com/2026/07/forg365-phaas-targets-microsoft-365.html",
+      "summary": "A new phishing-as-a-service (PhaaS) operation called Forg365 is using a combination of device code phishing, adversary-in-the-middle (AitM) tactics, antibot evasion, artificial intelligence (AI)-assis...",
+      "published": "2026-07-13T18:33:33+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -503,10 +509,10 @@
       }
     },
     {
-      "title": "iCagenda and Balbooa Forms Joomla Flaws Reportedly Exploited as Zero-Days",
-      "link": "https://thehackernews.com/2026/07/icagenda-and-balbooa-forms-joomla-flaws.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added two maximum-severity security flaws impacting iCagenda and Balbooa extensions for Joomla to its Known Exploited Vulnerabiliti...",
-      "published": "2026-07-13T11:06:02+05:30",
+      "title": "Meta Files Patent for AI That Can Listen All Day and Track How You're Feeling",
+      "link": "https://thehackernews.com/2026/07/meta-files-patent-for-ai-that-can.html",
+      "summary": "Meta has filed a patent application for an AI that listens to your voice throughout the day, works out how it thinks you are feeling from the way you sound, and keeps a timestamped log of every read.\n...",
+      "published": "2026-07-13T17:24:46+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -519,11 +525,29 @@
       }
     },
     {
-      "title": "Fuck.com (1997)",
-      "link": "https://www.links.net/webpub/fuck.com.html",
-      "summary": "<p>Article URL: <a href=\"https://www.links.net/webpub/fuck.com.html\">https://www.links.net/webpub/fuck.com.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48889945\">https:/...",
-      "published": "2026-07-13T09:23:07+00:00",
-      "domain": "links.net",
+      "title": "Thinking Fast and Slow in the SOC: The Case for Combining Autonomous AI with Analyst Copilots",
+      "link": "https://thehackernews.com/2026/07/thinking-fast-and-slow-in-soc-case-for.html",
+      "summary": "A few days ago, I was sitting with the CISO of a Fortune 50 company, walking through how his security team was thinking about AI agents in the SOC. Smart team. Serious program. They had already connec...",
+      "published": "2026-07-13T17:07:05+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 10.9,
+        "overall": 7.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": [
+          "autonomous"
+        ]
+      }
+    },
+    {
+      "title": "Attacker Uses Suspected AI-Generated PowerShell Script to Map Active Directory",
+      "link": "https://thehackernews.com/2026/07/attacker-uses-suspected-ai-generated.html",
+      "summary": "Cybersecurity researchers have flagged an intrusion in which an unknown threat actor leveraged a vibe-coded PowerShell script for Active Directory (AD) enumeration.\n\n\"The script looked for the Domain ...",
+      "published": "2026-07-13T16:32:33+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -535,11 +559,11 @@
       }
     },
     {
-      "title": "Imprisoned in My Own Mind",
-      "link": "https://ahmedhossvm.dev/posts/imprisoned_in_my_own_mind/",
-      "summary": "<p>Article URL: <a href=\"https://ahmedhossvm.dev/posts/imprisoned_in_my_own_mind/\">https://ahmedhossvm.dev/posts/imprisoned_in_my_own_mind/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.c...",
-      "published": "2026-07-13T09:22:21+00:00",
-      "domain": "ahmedhossvm.dev",
+      "title": "The Fishing Contest",
+      "link": "https://www.quarter--mile.com/The-Fishing-Contest",
+      "summary": "<p>Article URL: <a href=\"https://www.quarter--mile.com/The-Fishing-Contest\">https://www.quarter--mile.com/The-Fishing-Contest</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=488...",
+      "published": "2026-07-13T14:30:32+00:00",
+      "domain": "quarter--mile.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -551,11 +575,11 @@
       }
     },
     {
-      "title": "Show HN: Mock Chats \u2013 Make viral chat-story videos",
-      "link": "https://www.mockchats.com/",
-      "summary": "<p>A good friend of mine kept needing videos with fake chat messages in them to promote his startup. The kind of thing where you record a phone screen and messages come in one by one or you create in ...",
-      "published": "2026-07-13T09:20:43+00:00",
-      "domain": "mockchats.com",
+      "title": "10 Languages in 3 days: field notes from localizing an AI translation product",
+      "link": "https://transept.ai/journal/localization-lessons-ten-languages",
+      "summary": "<p>Article URL: <a href=\"https://transept.ai/journal/localization-lessons-ten-languages\">https://transept.ai/journal/localization-lessons-ten-languages</a></p>\n<p>Comments URL: <a href=\"https://news.y...",
+      "published": "2026-07-13T14:30:07+00:00",
+      "domain": "transept.ai",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -567,11 +591,11 @@
       }
     },
     {
-      "title": "Commodore Amiga 500 Artwork",
-      "link": "https://gibbok.github.io/amiga-500-art/index.html",
-      "summary": "<p>Article URL: <a href=\"https://gibbok.github.io/amiga-500-art/index.html\">https://gibbok.github.io/amiga-500-art/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=488...",
-      "published": "2026-07-13T09:18:07+00:00",
-      "domain": "gibbok.github.io",
+      "title": "Optional standards dont cut it",
+      "link": "https://nt-ai-dc.info",
+      "summary": "<p>Article URL: <a href=\"https://nt-ai-dc.info\">https://nt-ai-dc.info</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48893309\">https://news.ycombinator.com/item?id=48893309</a>...",
+      "published": "2026-07-13T14:29:43+00:00",
+      "domain": "nt-ai-dc.info",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -583,11 +607,11 @@
       }
     },
     {
-      "title": "AI creating a Jevon's Paradox for lawsuits, deals and litigation [video]",
-      "link": "https://www.youtube.com/watch?v=_uWnr42zGnE",
-      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=_uWnr42zGnE\">https://www.youtube.com/watch?v=_uWnr42zGnE</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48889897\">https...",
-      "published": "2026-07-13T09:17:47+00:00",
-      "domain": "youtube.com",
+      "title": "Prefect Is Acquiring Dagster",
+      "link": "https://dagster.io/blog/prefect-is-acquiring-dagster",
+      "summary": "<p>Article URL: <a href=\"https://dagster.io/blog/prefect-is-acquiring-dagster\">https://dagster.io/blog/prefect-is-acquiring-dagster</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?...",
+      "published": "2026-07-13T14:29:41+00:00",
+      "domain": "dagster.io",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -599,11 +623,11 @@
       }
     },
     {
-      "title": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
-      "link": "https://raymyers.org/post/zed-creator-calls-spade-a-spade/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48889637\">Comments</a>...",
-      "published": "2026-07-13T08:39:39+00:00",
-      "domain": "raymyers.org",
+      "title": "New method aims to keep kids safe from illegal AI-generated content",
+      "link": "https://news.mit.edu/2026/new-method-keeps-kids-safe-from-illegal-ai-generated-content-0713",
+      "summary": "<p>Article URL: <a href=\"https://news.mit.edu/2026/new-method-keeps-kids-safe-from-illegal-ai-generated-content-0713\">https://news.mit.edu/2026/new-method-keeps-kids-safe-from-illegal-ai-generated-con...",
+      "published": "2026-07-13T14:29:21+00:00",
+      "domain": "news.mit.edu",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -615,27 +639,11 @@
       }
     },
     {
-      "title": "Interrail: 6,379Km and 13 Countries over 7 weeks",
-      "link": "https://shkspr.mobi/blog/2026/07/another-ridiculous-interrail-holiday-6379km-and-13-countries-over-7-weeks/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48889350\">Comments</a>...",
-      "published": "2026-07-13T08:04:30+00:00",
-      "domain": "shkspr.mobi",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Backtrack-Free Cursive",
-      "link": "https://mmapped.blog/posts/52-backtrack-free-cursive",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48888518\">Comments</a>...",
-      "published": "2026-07-13T06:08:12+00:00",
-      "domain": "mmapped.blog",
+      "title": "Show HN: Clawk \u2013 Give coding agents a disposable Linux VM, not your laptop",
+      "link": "https://github.com/clawkwork/clawk",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48892859\">Comments</a>...",
+      "published": "2026-07-13T14:02:03+00:00",
+      "domain": "github.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
