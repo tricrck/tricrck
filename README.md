@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Forg365 PhaaS Targets Microsoft 365 with Device Code and AitM Session Theft
+### CrashStealer macOS Malware Uses Notarized Dropper to Pass Gatekeeper Checks
 - **Published**: July 13, 2026
-- **Summary**: A new phishing-as-a-service (PhaaS) operation called Forg365 is using a combination of device code phishing, adversary-in-the-middle (AitM) tactics, a...
-- [Read more](https://thehackernews.com/2026/07/forg365-phaas-targets-microsoft-365.html)
+- **Summary**: Cybersecurity researchers have flagged a new macOS information stealer called CrashStealer that's capable of harvesting sensitive data from compromise...
+- [Read more](https://thehackernews.com/2026/07/crashstealer-macos-malware-uses.html)
 
-### Meta Files Patent for AI That Can Listen All Day and Track How You're Feeling
+### Google and Microsoft Pull ModHeader With 1.6 Million Installs After Dormant Collector Found
 - **Published**: July 13, 2026
-- **Summary**: Meta has filed a patent application for an AI that listens to your voice throughout the day, works out how it thinks you are feeling from the way you ...
-- [Read more](https://thehackernews.com/2026/07/meta-files-patent-for-ai-that-can.html)
+- **Summary**: Google and Microsoft have pulled ModHeader, a popular header-editing extension with roughly 1.6 million installs across Chrome and Edge, after researc...
+- [Read more](https://thehackernews.com/2026/07/google-and-microsoft-pull-modheader.html)
 
 ---
 
