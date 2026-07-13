@@ -16,16 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Show HN: Kote – Capture and reuse engineering context from AI chats and Git
-- **Published**: July 12, 2026
-- **Summary**: <p>I kept running into the same problem: I'd solve something with the help of an AI assistant, spend time debugging an issue, or make an architectural...
-- [Read more](https://github.com/pedroaugusto04/Kote)
+### Japanese payment processor's collapse hits banks and restaurants
+- **Published**: July 13, 2026
+- **Summary**: https://www.japantimes.co.jp/business/2026/07/08/companies/zentoshin-impact-restauran......
+- **Keywords**: collapse
+- [Read more](https://www.japantimes.co.jp/business/2026/07/08/companies/zentoshin-impact-restaurants/)
 
-### Show HN: Free tool matches your startup or nonprofit to open federal grants
-- **Published**: July 12, 2026
-- **Summary**: https://autogranthunter.com/grant-match/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48883527">https://new......
-- [Read more](https://autogranthunter.com/grant-match/)
+### Thoughts on AI
+- **Published**: July 13, 2026
+- **Summary**: https://jackpeplinski.bearblog.dev/thoughts-on-ai/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4......
+- [Read more](https://jackpeplinski.bearblog.dev/thoughts-on-ai/)
 
 ---
 
