@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Microsoft Maps Year-Long ShinyHunters-Linked Salesforce Data Theft Across Three Paths
+### 11 Old Microsoft-Signed Linux UEFI Shims Could Let Attackers Bypass Secure Boot
 - **Published**: July 14, 2026
-- **Summary**: Attackers whose methods line up with the data-extortion group&nbsp;ShinyHunters&nbsp;have spent the past year walking into corporate Salesforce enviro...
-- [Read more](https://thehackernews.com/2026/07/microsoft-maps-year-long-shinyhunters.html)
+- **Summary**: Cybersecurity researchers have discovered 11 old, Microsoft-signed, Unified Extensible Firmware Interface (UEFI) applications that could be abused to ...
+- [Read more](https://thehackernews.com/2026/07/11-old-microsoft-signed-linux-uefi.html)
 
-### HDR video in Firefox for Windows tech retrospective
+### Study of 85 Crypto Wallet Extensions Finds Address Leaks and Cross-Site Tracking Risks
 - **Published**: July 14, 2026
-- **Summary**: https://mozillagfx.wordpress.com/2026/07/14/hdr-video-in-firefox-for-windows-......
-- [Read more](https://mozillagfx.wordpress.com/2026/07/14/hdr-video-in-firefox-for-windows-tech-retrospective/)
+- **Summary**: Researchers at KU Leuven tested 85 of the most popular crypto wallets that run as browser extensions and found that the wallets themselves leak enough...
+- [Read more](https://thehackernews.com/2026/07/study-of-85-crypto-wallet-extensions.html)
 
 ---
 
