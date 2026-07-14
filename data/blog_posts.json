@@ -1,6 +1,118 @@
 {
   "chaos_ranked": [
     {
+      "title": "LabubaRAT Masquerades as NVIDIA Software to Control Windows Hosts",
+      "link": "https://thehackernews.com/2026/07/labubarat-masquerades-as-nvidia.html",
+      "summary": "Cybersecurity researchers have flagged a previously undocumented Rust-based remote access trojan (RAT) codenamed LabubaRAT that masquerades as NVIDIA software to blend into target environments.\n\n\"Labu...",
+      "published": "2026-07-14T22:22:37+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "RabbitMQ Flaws Could Leak OAuth Secrets and Expose Cross-Tenant Queue Metadata",
+      "link": "https://thehackernews.com/2026/07/rabbitmq-flaws-could-leak-oauth-secrets.html",
+      "summary": "Cybersecurity researchers have disclosed details of two access control-related flaws impacting the RabbitMQ message broker service that could allow attackers to leak OAuth client secrets, expose enter...",
+      "published": "2026-07-14T19:18:07+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Focus: Platform-agnostic UI framework for resource-constrained embedded systems",
+      "link": "https://github.com/joeycastillo/focus",
+      "summary": "<p>Article URL: <a href=\"https://github.com/joeycastillo/focus\">https://github.com/joeycastillo/focus</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48911691\">https://news.ycom...",
+      "published": "2026-07-14T19:16:12+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The problem with backup power when you rent",
+      "link": "https://old.reddit.com/r/pilaofficial/comments/1uwi5kj/why_renters_cant_have_backup_power_until_now/",
+      "summary": "<p>Article URL: <a href=\"https://old.reddit.com/r/pilaofficial/comments/1uwi5kj/why_renters_cant_have_backup_power_until_now/\">https://old.reddit.com/r/pilaofficial/comments/1uwi5kj/why_renters_cant_h...",
+      "published": "2026-07-14T19:13:20+00:00",
+      "domain": "old.reddit.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: A device for never missing the surf turned into something more",
+      "link": "https://theliveframe.com/blog/a-device-for-never-missing-the-surf",
+      "summary": "<p>Article URL: <a href=\"https://theliveframe.com/blog/a-device-for-never-missing-the-surf\">https://theliveframe.com/blog/a-device-for-never-missing-the-surf</a></p>\n<p>Comments URL: <a href=\"https://...",
+      "published": "2026-07-14T19:12:24+00:00",
+      "domain": "theliveframe.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Smol Machines: Kubernetes-in-a-Microvm",
+      "link": "https://smolmachines.com/engineering/kubernetes-in-a-microvm",
+      "summary": "<p>Article URL: <a href=\"https://smolmachines.com/engineering/kubernetes-in-a-microvm\">https://smolmachines.com/engineering/kubernetes-in-a-microvm</a></p>\n<p>Comments URL: <a href=\"https://news.ycomb...",
+      "published": "2026-07-14T19:10:11+00:00",
+      "domain": "smolmachines.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Auto-SFT optimizes parameters for LoRA fine-tuning",
+      "link": "https://github.com/theprint/auto-sft",
+      "summary": "<p>Article URL: <a href=\"https://github.com/theprint/auto-sft\">https://github.com/theprint/auto-sft</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48911615\">https://news.ycombi...",
+      "published": "2026-07-14T19:09:22+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "11 Old Microsoft-Signed Linux UEFI Shims Could Let Attackers Bypass Secure Boot",
       "link": "https://thehackernews.com/2026/07/11-old-microsoft-signed-linux-uefi.html",
       "summary": "Cybersecurity researchers have discovered 11 old, Microsoft-signed, Unified Extensible Firmware Interface (UEFI) applications that could be abused to bypass Secure Boot on most systems using the moder...",
@@ -17,139 +129,27 @@
       }
     },
     {
+      "title": "Bonsai 27B (1-bit LLM): The First 27B-Class Model to Run on a Phone",
+      "link": "https://prismml.com/news/bonsai-27b",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48910545\">Comments</a>...",
+      "published": "2026-07-14T17:50:48+00:00",
+      "domain": "prismml.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "Study of 85 Crypto Wallet Extensions Finds Address Leaks and Cross-Site Tracking Risks",
       "link": "https://thehackernews.com/2026/07/study-of-85-crypto-wallet-extensions.html",
       "summary": "Researchers at KU Leuven tested 85 of the most popular crypto wallets that run as browser extensions and found that the wallets themselves leak enough to link and track the people using them.\n\nThe way...",
       "published": "2026-07-14T17:25:00+05:30",
       "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "How Pentera Turns AI Security Workflows into Validation Engines",
-      "link": "https://thehackernews.com/2026/07/how-pentera-turns-ai-security-workflows.html",
-      "summary": "AI security agents are starting to influence real security decisions. They summarize findings, prioritize remediation, recommend next steps, and help teams move faster. But most still rely on fragment...",
-      "published": "2026-07-14T17:00:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "OAuth Client ID Spoofing Lets Attackers Validate Stolen Microsoft Entra Credentials",
-      "link": "https://thehackernews.com/2026/07/oauth-client-id-spoofing-lets-attackers.html",
-      "summary": "At least two distinct threat actors are weaponizing a novel evasion technique called OAuth client ID spoofing in cloud campaigns, while slipping past telemetry.\n\nThe activity allows users to enumerate...",
-      "published": "2026-07-14T16:51:35+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Grok Build Uploaded Entire Git Repositories to xAI Storage, Not Just Files It Read",
-      "link": "https://thehackernews.com/2026/07/grok-build-uploads-entire-git.html",
-      "summary": "xAI's Grok Build coding CLI was uploading entire Git repositories, full commit history and all, to a Google Cloud Storage bucket run by xAI, not just the files a coding task needed.\n\nA researcher publ...",
-      "published": "2026-07-14T14:32:48+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Sony Nerfs Videogame Ownership",
-      "link": "https://www.eff.org/deeplinks/2026/07/sony-nerfs-videogame-ownership",
-      "summary": "<p>Article URL: <a href=\"https://www.eff.org/deeplinks/2026/07/sony-nerfs-videogame-ownership\">https://www.eff.org/deeplinks/2026/07/sony-nerfs-videogame-ownership</a></p>\n<p>Comments URL: <a href=\"ht...",
-      "published": "2026-07-14T13:43:47+00:00",
-      "domain": "eff.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "I couldn't pay for DeepSeek V4 with my card. So I built a proxy",
-      "link": "https://api-hub.cc/blog/",
-      "summary": "<p>Article URL: <a href=\"https://api-hub.cc/blog/\">https://api-hub.cc/blog/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48906748\">https://news.ycombinator.com/item?id=489067...",
-      "published": "2026-07-14T13:43:25+00:00",
-      "domain": "api-hub.cc",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: CrowdMind, Free app for building AI personas and testing stimuli",
-      "link": "https://github.com/Brokenwatch24/crowdmind",
-      "summary": "<p>Article URL: <a href=\"https://github.com/Brokenwatch24/crowdmind\">https://github.com/Brokenwatch24/crowdmind</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48906747\">https:/...",
-      "published": "2026-07-14T13:43:25+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Demis Hassabis has a plan to harness AI safely",
-      "link": "https://www.economist.com/business/2026/07/14/demis-hassabis-has-a-plan-to-harness-ai-safely",
-      "summary": "<p>Article URL: <a href=\"https://www.economist.com/business/2026/07/14/demis-hassabis-has-a-plan-to-harness-ai-safely\">https://www.economist.com/business/2026/07/14/demis-hassabis-has-a-plan-to-harnes...",
-      "published": "2026-07-14T13:43:05+00:00",
-      "domain": "economist.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The Rise and Fall of Commercial Smalltalk (2020)",
-      "link": "https://wirfs-brock.com/allen/posts/914",
-      "summary": "<p>Article URL: <a href=\"https://wirfs-brock.com/allen/posts/914\">https://wirfs-brock.com/allen/posts/914</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48906740\">https://news....",
-      "published": "2026-07-14T13:43:02+00:00",
-      "domain": "wirfs-brock.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -163,6 +163,118 @@
   ],
   "anarchy_ranked": [
     {
+      "title": "LabubaRAT Masquerades as NVIDIA Software to Control Windows Hosts",
+      "link": "https://thehackernews.com/2026/07/labubarat-masquerades-as-nvidia.html",
+      "summary": "Cybersecurity researchers have flagged a previously undocumented Rust-based remote access trojan (RAT) codenamed LabubaRAT that masquerades as NVIDIA software to blend into target environments.\n\n\"Labu...",
+      "published": "2026-07-14T22:22:37+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "RabbitMQ Flaws Could Leak OAuth Secrets and Expose Cross-Tenant Queue Metadata",
+      "link": "https://thehackernews.com/2026/07/rabbitmq-flaws-could-leak-oauth-secrets.html",
+      "summary": "Cybersecurity researchers have disclosed details of two access control-related flaws impacting the RabbitMQ message broker service that could allow attackers to leak OAuth client secrets, expose enter...",
+      "published": "2026-07-14T19:18:07+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Focus: Platform-agnostic UI framework for resource-constrained embedded systems",
+      "link": "https://github.com/joeycastillo/focus",
+      "summary": "<p>Article URL: <a href=\"https://github.com/joeycastillo/focus\">https://github.com/joeycastillo/focus</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48911691\">https://news.ycom...",
+      "published": "2026-07-14T19:16:12+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The problem with backup power when you rent",
+      "link": "https://old.reddit.com/r/pilaofficial/comments/1uwi5kj/why_renters_cant_have_backup_power_until_now/",
+      "summary": "<p>Article URL: <a href=\"https://old.reddit.com/r/pilaofficial/comments/1uwi5kj/why_renters_cant_have_backup_power_until_now/\">https://old.reddit.com/r/pilaofficial/comments/1uwi5kj/why_renters_cant_h...",
+      "published": "2026-07-14T19:13:20+00:00",
+      "domain": "old.reddit.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: A device for never missing the surf turned into something more",
+      "link": "https://theliveframe.com/blog/a-device-for-never-missing-the-surf",
+      "summary": "<p>Article URL: <a href=\"https://theliveframe.com/blog/a-device-for-never-missing-the-surf\">https://theliveframe.com/blog/a-device-for-never-missing-the-surf</a></p>\n<p>Comments URL: <a href=\"https://...",
+      "published": "2026-07-14T19:12:24+00:00",
+      "domain": "theliveframe.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Smol Machines: Kubernetes-in-a-Microvm",
+      "link": "https://smolmachines.com/engineering/kubernetes-in-a-microvm",
+      "summary": "<p>Article URL: <a href=\"https://smolmachines.com/engineering/kubernetes-in-a-microvm\">https://smolmachines.com/engineering/kubernetes-in-a-microvm</a></p>\n<p>Comments URL: <a href=\"https://news.ycomb...",
+      "published": "2026-07-14T19:10:11+00:00",
+      "domain": "smolmachines.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Auto-SFT optimizes parameters for LoRA fine-tuning",
+      "link": "https://github.com/theprint/auto-sft",
+      "summary": "<p>Article URL: <a href=\"https://github.com/theprint/auto-sft\">https://github.com/theprint/auto-sft</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48911615\">https://news.ycombi...",
+      "published": "2026-07-14T19:09:22+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "11 Old Microsoft-Signed Linux UEFI Shims Could Let Attackers Bypass Secure Boot",
       "link": "https://thehackernews.com/2026/07/11-old-microsoft-signed-linux-uefi.html",
       "summary": "Cybersecurity researchers have discovered 11 old, Microsoft-signed, Unified Extensible Firmware Interface (UEFI) applications that could be abused to bypass Secure Boot on most systems using the moder...",
@@ -179,139 +291,27 @@
       }
     },
     {
+      "title": "Bonsai 27B (1-bit LLM): The First 27B-Class Model to Run on a Phone",
+      "link": "https://prismml.com/news/bonsai-27b",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48910545\">Comments</a>...",
+      "published": "2026-07-14T17:50:48+00:00",
+      "domain": "prismml.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "Study of 85 Crypto Wallet Extensions Finds Address Leaks and Cross-Site Tracking Risks",
       "link": "https://thehackernews.com/2026/07/study-of-85-crypto-wallet-extensions.html",
       "summary": "Researchers at KU Leuven tested 85 of the most popular crypto wallets that run as browser extensions and found that the wallets themselves leak enough to link and track the people using them.\n\nThe way...",
       "published": "2026-07-14T17:25:00+05:30",
       "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "How Pentera Turns AI Security Workflows into Validation Engines",
-      "link": "https://thehackernews.com/2026/07/how-pentera-turns-ai-security-workflows.html",
-      "summary": "AI security agents are starting to influence real security decisions. They summarize findings, prioritize remediation, recommend next steps, and help teams move faster. But most still rely on fragment...",
-      "published": "2026-07-14T17:00:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "OAuth Client ID Spoofing Lets Attackers Validate Stolen Microsoft Entra Credentials",
-      "link": "https://thehackernews.com/2026/07/oauth-client-id-spoofing-lets-attackers.html",
-      "summary": "At least two distinct threat actors are weaponizing a novel evasion technique called OAuth client ID spoofing in cloud campaigns, while slipping past telemetry.\n\nThe activity allows users to enumerate...",
-      "published": "2026-07-14T16:51:35+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Grok Build Uploaded Entire Git Repositories to xAI Storage, Not Just Files It Read",
-      "link": "https://thehackernews.com/2026/07/grok-build-uploads-entire-git.html",
-      "summary": "xAI's Grok Build coding CLI was uploading entire Git repositories, full commit history and all, to a Google Cloud Storage bucket run by xAI, not just the files a coding task needed.\n\nA researcher publ...",
-      "published": "2026-07-14T14:32:48+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Sony Nerfs Videogame Ownership",
-      "link": "https://www.eff.org/deeplinks/2026/07/sony-nerfs-videogame-ownership",
-      "summary": "<p>Article URL: <a href=\"https://www.eff.org/deeplinks/2026/07/sony-nerfs-videogame-ownership\">https://www.eff.org/deeplinks/2026/07/sony-nerfs-videogame-ownership</a></p>\n<p>Comments URL: <a href=\"ht...",
-      "published": "2026-07-14T13:43:47+00:00",
-      "domain": "eff.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "I couldn't pay for DeepSeek V4 with my card. So I built a proxy",
-      "link": "https://api-hub.cc/blog/",
-      "summary": "<p>Article URL: <a href=\"https://api-hub.cc/blog/\">https://api-hub.cc/blog/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48906748\">https://news.ycombinator.com/item?id=489067...",
-      "published": "2026-07-14T13:43:25+00:00",
-      "domain": "api-hub.cc",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: CrowdMind, Free app for building AI personas and testing stimuli",
-      "link": "https://github.com/Brokenwatch24/crowdmind",
-      "summary": "<p>Article URL: <a href=\"https://github.com/Brokenwatch24/crowdmind\">https://github.com/Brokenwatch24/crowdmind</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48906747\">https:/...",
-      "published": "2026-07-14T13:43:25+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Demis Hassabis has a plan to harness AI safely",
-      "link": "https://www.economist.com/business/2026/07/14/demis-hassabis-has-a-plan-to-harness-ai-safely",
-      "summary": "<p>Article URL: <a href=\"https://www.economist.com/business/2026/07/14/demis-hassabis-has-a-plan-to-harness-ai-safely\">https://www.economist.com/business/2026/07/14/demis-hassabis-has-a-plan-to-harnes...",
-      "published": "2026-07-14T13:43:05+00:00",
-      "domain": "economist.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The Rise and Fall of Commercial Smalltalk (2020)",
-      "link": "https://wirfs-brock.com/allen/posts/914",
-      "summary": "<p>Article URL: <a href=\"https://wirfs-brock.com/allen/posts/914\">https://wirfs-brock.com/allen/posts/914</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48906740\">https://news....",
-      "published": "2026-07-14T13:43:02+00:00",
-      "domain": "wirfs-brock.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -325,6 +325,118 @@
   ],
   "overall_ranked": [
     {
+      "title": "LabubaRAT Masquerades as NVIDIA Software to Control Windows Hosts",
+      "link": "https://thehackernews.com/2026/07/labubarat-masquerades-as-nvidia.html",
+      "summary": "Cybersecurity researchers have flagged a previously undocumented Rust-based remote access trojan (RAT) codenamed LabubaRAT that masquerades as NVIDIA software to blend into target environments.\n\n\"Labu...",
+      "published": "2026-07-14T22:22:37+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "RabbitMQ Flaws Could Leak OAuth Secrets and Expose Cross-Tenant Queue Metadata",
+      "link": "https://thehackernews.com/2026/07/rabbitmq-flaws-could-leak-oauth-secrets.html",
+      "summary": "Cybersecurity researchers have disclosed details of two access control-related flaws impacting the RabbitMQ message broker service that could allow attackers to leak OAuth client secrets, expose enter...",
+      "published": "2026-07-14T19:18:07+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Focus: Platform-agnostic UI framework for resource-constrained embedded systems",
+      "link": "https://github.com/joeycastillo/focus",
+      "summary": "<p>Article URL: <a href=\"https://github.com/joeycastillo/focus\">https://github.com/joeycastillo/focus</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48911691\">https://news.ycom...",
+      "published": "2026-07-14T19:16:12+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The problem with backup power when you rent",
+      "link": "https://old.reddit.com/r/pilaofficial/comments/1uwi5kj/why_renters_cant_have_backup_power_until_now/",
+      "summary": "<p>Article URL: <a href=\"https://old.reddit.com/r/pilaofficial/comments/1uwi5kj/why_renters_cant_have_backup_power_until_now/\">https://old.reddit.com/r/pilaofficial/comments/1uwi5kj/why_renters_cant_h...",
+      "published": "2026-07-14T19:13:20+00:00",
+      "domain": "old.reddit.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: A device for never missing the surf turned into something more",
+      "link": "https://theliveframe.com/blog/a-device-for-never-missing-the-surf",
+      "summary": "<p>Article URL: <a href=\"https://theliveframe.com/blog/a-device-for-never-missing-the-surf\">https://theliveframe.com/blog/a-device-for-never-missing-the-surf</a></p>\n<p>Comments URL: <a href=\"https://...",
+      "published": "2026-07-14T19:12:24+00:00",
+      "domain": "theliveframe.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Smol Machines: Kubernetes-in-a-Microvm",
+      "link": "https://smolmachines.com/engineering/kubernetes-in-a-microvm",
+      "summary": "<p>Article URL: <a href=\"https://smolmachines.com/engineering/kubernetes-in-a-microvm\">https://smolmachines.com/engineering/kubernetes-in-a-microvm</a></p>\n<p>Comments URL: <a href=\"https://news.ycomb...",
+      "published": "2026-07-14T19:10:11+00:00",
+      "domain": "smolmachines.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Auto-SFT optimizes parameters for LoRA fine-tuning",
+      "link": "https://github.com/theprint/auto-sft",
+      "summary": "<p>Article URL: <a href=\"https://github.com/theprint/auto-sft\">https://github.com/theprint/auto-sft</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48911615\">https://news.ycombi...",
+      "published": "2026-07-14T19:09:22+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "11 Old Microsoft-Signed Linux UEFI Shims Could Let Attackers Bypass Secure Boot",
       "link": "https://thehackernews.com/2026/07/11-old-microsoft-signed-linux-uefi.html",
       "summary": "Cybersecurity researchers have discovered 11 old, Microsoft-signed, Unified Extensible Firmware Interface (UEFI) applications that could be abused to bypass Secure Boot on most systems using the moder...",
@@ -341,139 +453,27 @@
       }
     },
     {
+      "title": "Bonsai 27B (1-bit LLM): The First 27B-Class Model to Run on a Phone",
+      "link": "https://prismml.com/news/bonsai-27b",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48910545\">Comments</a>...",
+      "published": "2026-07-14T17:50:48+00:00",
+      "domain": "prismml.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "Study of 85 Crypto Wallet Extensions Finds Address Leaks and Cross-Site Tracking Risks",
       "link": "https://thehackernews.com/2026/07/study-of-85-crypto-wallet-extensions.html",
       "summary": "Researchers at KU Leuven tested 85 of the most popular crypto wallets that run as browser extensions and found that the wallets themselves leak enough to link and track the people using them.\n\nThe way...",
       "published": "2026-07-14T17:25:00+05:30",
       "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "How Pentera Turns AI Security Workflows into Validation Engines",
-      "link": "https://thehackernews.com/2026/07/how-pentera-turns-ai-security-workflows.html",
-      "summary": "AI security agents are starting to influence real security decisions. They summarize findings, prioritize remediation, recommend next steps, and help teams move faster. But most still rely on fragment...",
-      "published": "2026-07-14T17:00:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "OAuth Client ID Spoofing Lets Attackers Validate Stolen Microsoft Entra Credentials",
-      "link": "https://thehackernews.com/2026/07/oauth-client-id-spoofing-lets-attackers.html",
-      "summary": "At least two distinct threat actors are weaponizing a novel evasion technique called OAuth client ID spoofing in cloud campaigns, while slipping past telemetry.\n\nThe activity allows users to enumerate...",
-      "published": "2026-07-14T16:51:35+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Grok Build Uploaded Entire Git Repositories to xAI Storage, Not Just Files It Read",
-      "link": "https://thehackernews.com/2026/07/grok-build-uploads-entire-git.html",
-      "summary": "xAI's Grok Build coding CLI was uploading entire Git repositories, full commit history and all, to a Google Cloud Storage bucket run by xAI, not just the files a coding task needed.\n\nA researcher publ...",
-      "published": "2026-07-14T14:32:48+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Sony Nerfs Videogame Ownership",
-      "link": "https://www.eff.org/deeplinks/2026/07/sony-nerfs-videogame-ownership",
-      "summary": "<p>Article URL: <a href=\"https://www.eff.org/deeplinks/2026/07/sony-nerfs-videogame-ownership\">https://www.eff.org/deeplinks/2026/07/sony-nerfs-videogame-ownership</a></p>\n<p>Comments URL: <a href=\"ht...",
-      "published": "2026-07-14T13:43:47+00:00",
-      "domain": "eff.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "I couldn't pay for DeepSeek V4 with my card. So I built a proxy",
-      "link": "https://api-hub.cc/blog/",
-      "summary": "<p>Article URL: <a href=\"https://api-hub.cc/blog/\">https://api-hub.cc/blog/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48906748\">https://news.ycombinator.com/item?id=489067...",
-      "published": "2026-07-14T13:43:25+00:00",
-      "domain": "api-hub.cc",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: CrowdMind, Free app for building AI personas and testing stimuli",
-      "link": "https://github.com/Brokenwatch24/crowdmind",
-      "summary": "<p>Article URL: <a href=\"https://github.com/Brokenwatch24/crowdmind\">https://github.com/Brokenwatch24/crowdmind</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48906747\">https:/...",
-      "published": "2026-07-14T13:43:25+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Demis Hassabis has a plan to harness AI safely",
-      "link": "https://www.economist.com/business/2026/07/14/demis-hassabis-has-a-plan-to-harness-ai-safely",
-      "summary": "<p>Article URL: <a href=\"https://www.economist.com/business/2026/07/14/demis-hassabis-has-a-plan-to-harness-ai-safely\">https://www.economist.com/business/2026/07/14/demis-hassabis-has-a-plan-to-harnes...",
-      "published": "2026-07-14T13:43:05+00:00",
-      "domain": "economist.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The Rise and Fall of Commercial Smalltalk (2020)",
-      "link": "https://wirfs-brock.com/allen/posts/914",
-      "summary": "<p>Article URL: <a href=\"https://wirfs-brock.com/allen/posts/914\">https://wirfs-brock.com/allen/posts/914</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48906740\">https://news....",
-      "published": "2026-07-14T13:43:02+00:00",
-      "domain": "wirfs-brock.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -487,6 +487,118 @@
   ],
   "all_articles": [
     {
+      "title": "LabubaRAT Masquerades as NVIDIA Software to Control Windows Hosts",
+      "link": "https://thehackernews.com/2026/07/labubarat-masquerades-as-nvidia.html",
+      "summary": "Cybersecurity researchers have flagged a previously undocumented Rust-based remote access trojan (RAT) codenamed LabubaRAT that masquerades as NVIDIA software to blend into target environments.\n\n\"Labu...",
+      "published": "2026-07-14T22:22:37+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "RabbitMQ Flaws Could Leak OAuth Secrets and Expose Cross-Tenant Queue Metadata",
+      "link": "https://thehackernews.com/2026/07/rabbitmq-flaws-could-leak-oauth-secrets.html",
+      "summary": "Cybersecurity researchers have disclosed details of two access control-related flaws impacting the RabbitMQ message broker service that could allow attackers to leak OAuth client secrets, expose enter...",
+      "published": "2026-07-14T19:18:07+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Focus: Platform-agnostic UI framework for resource-constrained embedded systems",
+      "link": "https://github.com/joeycastillo/focus",
+      "summary": "<p>Article URL: <a href=\"https://github.com/joeycastillo/focus\">https://github.com/joeycastillo/focus</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48911691\">https://news.ycom...",
+      "published": "2026-07-14T19:16:12+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The problem with backup power when you rent",
+      "link": "https://old.reddit.com/r/pilaofficial/comments/1uwi5kj/why_renters_cant_have_backup_power_until_now/",
+      "summary": "<p>Article URL: <a href=\"https://old.reddit.com/r/pilaofficial/comments/1uwi5kj/why_renters_cant_have_backup_power_until_now/\">https://old.reddit.com/r/pilaofficial/comments/1uwi5kj/why_renters_cant_h...",
+      "published": "2026-07-14T19:13:20+00:00",
+      "domain": "old.reddit.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: A device for never missing the surf turned into something more",
+      "link": "https://theliveframe.com/blog/a-device-for-never-missing-the-surf",
+      "summary": "<p>Article URL: <a href=\"https://theliveframe.com/blog/a-device-for-never-missing-the-surf\">https://theliveframe.com/blog/a-device-for-never-missing-the-surf</a></p>\n<p>Comments URL: <a href=\"https://...",
+      "published": "2026-07-14T19:12:24+00:00",
+      "domain": "theliveframe.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Smol Machines: Kubernetes-in-a-Microvm",
+      "link": "https://smolmachines.com/engineering/kubernetes-in-a-microvm",
+      "summary": "<p>Article URL: <a href=\"https://smolmachines.com/engineering/kubernetes-in-a-microvm\">https://smolmachines.com/engineering/kubernetes-in-a-microvm</a></p>\n<p>Comments URL: <a href=\"https://news.ycomb...",
+      "published": "2026-07-14T19:10:11+00:00",
+      "domain": "smolmachines.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Auto-SFT optimizes parameters for LoRA fine-tuning",
+      "link": "https://github.com/theprint/auto-sft",
+      "summary": "<p>Article URL: <a href=\"https://github.com/theprint/auto-sft\">https://github.com/theprint/auto-sft</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48911615\">https://news.ycombi...",
+      "published": "2026-07-14T19:09:22+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "11 Old Microsoft-Signed Linux UEFI Shims Could Let Attackers Bypass Secure Boot",
       "link": "https://thehackernews.com/2026/07/11-old-microsoft-signed-linux-uefi.html",
       "summary": "Cybersecurity researchers have discovered 11 old, Microsoft-signed, Unified Extensible Firmware Interface (UEFI) applications that could be abused to bypass Secure Boot on most systems using the moder...",
@@ -503,139 +615,27 @@
       }
     },
     {
+      "title": "Bonsai 27B (1-bit LLM): The First 27B-Class Model to Run on a Phone",
+      "link": "https://prismml.com/news/bonsai-27b",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48910545\">Comments</a>...",
+      "published": "2026-07-14T17:50:48+00:00",
+      "domain": "prismml.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "Study of 85 Crypto Wallet Extensions Finds Address Leaks and Cross-Site Tracking Risks",
       "link": "https://thehackernews.com/2026/07/study-of-85-crypto-wallet-extensions.html",
       "summary": "Researchers at KU Leuven tested 85 of the most popular crypto wallets that run as browser extensions and found that the wallets themselves leak enough to link and track the people using them.\n\nThe way...",
       "published": "2026-07-14T17:25:00+05:30",
       "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "How Pentera Turns AI Security Workflows into Validation Engines",
-      "link": "https://thehackernews.com/2026/07/how-pentera-turns-ai-security-workflows.html",
-      "summary": "AI security agents are starting to influence real security decisions. They summarize findings, prioritize remediation, recommend next steps, and help teams move faster. But most still rely on fragment...",
-      "published": "2026-07-14T17:00:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "OAuth Client ID Spoofing Lets Attackers Validate Stolen Microsoft Entra Credentials",
-      "link": "https://thehackernews.com/2026/07/oauth-client-id-spoofing-lets-attackers.html",
-      "summary": "At least two distinct threat actors are weaponizing a novel evasion technique called OAuth client ID spoofing in cloud campaigns, while slipping past telemetry.\n\nThe activity allows users to enumerate...",
-      "published": "2026-07-14T16:51:35+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Grok Build Uploaded Entire Git Repositories to xAI Storage, Not Just Files It Read",
-      "link": "https://thehackernews.com/2026/07/grok-build-uploads-entire-git.html",
-      "summary": "xAI's Grok Build coding CLI was uploading entire Git repositories, full commit history and all, to a Google Cloud Storage bucket run by xAI, not just the files a coding task needed.\n\nA researcher publ...",
-      "published": "2026-07-14T14:32:48+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Sony Nerfs Videogame Ownership",
-      "link": "https://www.eff.org/deeplinks/2026/07/sony-nerfs-videogame-ownership",
-      "summary": "<p>Article URL: <a href=\"https://www.eff.org/deeplinks/2026/07/sony-nerfs-videogame-ownership\">https://www.eff.org/deeplinks/2026/07/sony-nerfs-videogame-ownership</a></p>\n<p>Comments URL: <a href=\"ht...",
-      "published": "2026-07-14T13:43:47+00:00",
-      "domain": "eff.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "I couldn't pay for DeepSeek V4 with my card. So I built a proxy",
-      "link": "https://api-hub.cc/blog/",
-      "summary": "<p>Article URL: <a href=\"https://api-hub.cc/blog/\">https://api-hub.cc/blog/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48906748\">https://news.ycombinator.com/item?id=489067...",
-      "published": "2026-07-14T13:43:25+00:00",
-      "domain": "api-hub.cc",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: CrowdMind, Free app for building AI personas and testing stimuli",
-      "link": "https://github.com/Brokenwatch24/crowdmind",
-      "summary": "<p>Article URL: <a href=\"https://github.com/Brokenwatch24/crowdmind\">https://github.com/Brokenwatch24/crowdmind</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48906747\">https:/...",
-      "published": "2026-07-14T13:43:25+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Demis Hassabis has a plan to harness AI safely",
-      "link": "https://www.economist.com/business/2026/07/14/demis-hassabis-has-a-plan-to-harness-ai-safely",
-      "summary": "<p>Article URL: <a href=\"https://www.economist.com/business/2026/07/14/demis-hassabis-has-a-plan-to-harness-ai-safely\">https://www.economist.com/business/2026/07/14/demis-hassabis-has-a-plan-to-harnes...",
-      "published": "2026-07-14T13:43:05+00:00",
-      "domain": "economist.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The Rise and Fall of Commercial Smalltalk (2020)",
-      "link": "https://wirfs-brock.com/allen/posts/914",
-      "summary": "<p>Article URL: <a href=\"https://wirfs-brock.com/allen/posts/914\">https://wirfs-brock.com/allen/posts/914</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48906740\">https://news....",
-      "published": "2026-07-14T13:43:02+00:00",
-      "domain": "wirfs-brock.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,

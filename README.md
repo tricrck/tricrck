@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### 11 Old Microsoft-Signed Linux UEFI Shims Could Let Attackers Bypass Secure Boot
+### LabubaRAT Masquerades as NVIDIA Software to Control Windows Hosts
 - **Published**: July 14, 2026
-- **Summary**: Cybersecurity researchers have discovered 11 old, Microsoft-signed, Unified Extensible Firmware Interface (UEFI) applications that could be abused to ...
-- [Read more](https://thehackernews.com/2026/07/11-old-microsoft-signed-linux-uefi.html)
+- **Summary**: Cybersecurity researchers have flagged a previously undocumented Rust-based remote access trojan (RAT) codenamed LabubaRAT that masquerades as NVIDIA ...
+- [Read more](https://thehackernews.com/2026/07/labubarat-masquerades-as-nvidia.html)
 
-### Study of 85 Crypto Wallet Extensions Finds Address Leaks and Cross-Site Tracking Risks
+### RabbitMQ Flaws Could Leak OAuth Secrets and Expose Cross-Tenant Queue Metadata
 - **Published**: July 14, 2026
-- **Summary**: Researchers at KU Leuven tested 85 of the most popular crypto wallets that run as browser extensions and found that the wallets themselves leak enough...
-- [Read more](https://thehackernews.com/2026/07/study-of-85-crypto-wallet-extensions.html)
+- **Summary**: Cybersecurity researchers have disclosed details of two access control-related flaws impacting the RabbitMQ message broker service that could allow at...
+- [Read more](https://thehackernews.com/2026/07/rabbitmq-flaws-could-leak-oauth-secrets.html)
 
 ---
 
