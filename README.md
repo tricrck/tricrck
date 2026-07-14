@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Japan develops a method to recover up to 90% of lithium from used EV batteries
+### Microsoft Maps Year-Long ShinyHunters-Linked Salesforce Data Theft Across Three Paths
 - **Published**: July 14, 2026
-- **Summary**: https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-b......
-- [Read more](https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/)
+- **Summary**: Attackers whose methods line up with the data-extortion group&nbsp;ShinyHunters&nbsp;have spent the past year walking into corporate Salesforce enviro...
+- [Read more](https://thehackernews.com/2026/07/microsoft-maps-year-long-shinyhunters.html)
 
-### An interesting statistical example of flaws in a voter impact index
+### HDR video in Firefox for Windows tech retrospective
 - **Published**: July 14, 2026
-- **Summary**: https://statmodeling.stat.columbia.edu/2026/07/13/interest......
-- [Read more](https://statmodeling.stat.columbia.edu/2026/07/13/interesting-statistical-example-of-flaws-in-a-voter-impact-index/)
+- **Summary**: https://mozillagfx.wordpress.com/2026/07/14/hdr-video-in-firefox-for-windows-......
+- [Read more](https://mozillagfx.wordpress.com/2026/07/14/hdr-video-in-firefox-for-windows-tech-retrospective/)
 
 ---
 
