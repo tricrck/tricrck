@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### CrashStealer macOS Malware Uses Notarized Dropper to Pass Gatekeeper Checks
-- **Published**: July 13, 2026
-- **Summary**: Cybersecurity researchers have flagged a new macOS information stealer called CrashStealer that's capable of harvesting sensitive data from compromise...
-- [Read more](https://thehackernews.com/2026/07/crashstealer-macos-malware-uses.html)
+### Japan develops a method to recover up to 90% of lithium from used EV batteries
+- **Published**: July 14, 2026
+- **Summary**: https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-b......
+- [Read more](https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/)
 
-### Google and Microsoft Pull ModHeader With 1.6 Million Installs After Dormant Collector Found
-- **Published**: July 13, 2026
-- **Summary**: Google and Microsoft have pulled ModHeader, a popular header-editing extension with roughly 1.6 million installs across Chrome and Edge, after researc...
-- [Read more](https://thehackernews.com/2026/07/google-and-microsoft-pull-modheader.html)
+### An interesting statistical example of flaws in a voter impact index
+- **Published**: July 14, 2026
+- **Summary**: https://statmodeling.stat.columbia.edu/2026/07/13/interest......
+- [Read more](https://statmodeling.stat.columbia.edu/2026/07/13/interesting-statistical-example-of-flaws-in-a-voter-impact-index/)
 
 ---
 
