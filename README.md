@@ -16,15 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### LabubaRAT Masquerades as NVIDIA Software to Control Windows Hosts
-- **Published**: July 14, 2026
-- **Summary**: Cybersecurity researchers have flagged a previously undocumented Rust-based remote access trojan (RAT) codenamed LabubaRAT that masquerades as NVIDIA ...
-- [Read more](https://thehackernews.com/2026/07/labubarat-masquerades-as-nvidia.html)
+### John Archibald Wheeler: It from Bit
+- **Published**: July 15, 2026
+- **Summary**: https://en.wikipedia.org/wiki/John_Archibald_Wheeler</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?......
+- [Read more](https://en.wikipedia.org/wiki/John_Archibald_Wheeler)
 
-### RabbitMQ Flaws Could Leak OAuth Secrets and Expose Cross-Tenant Queue Metadata
-- **Published**: July 14, 2026
-- **Summary**: Cybersecurity researchers have disclosed details of two access control-related flaws impacting the RabbitMQ message broker service that could allow at...
-- [Read more](https://thehackernews.com/2026/07/rabbitmq-flaws-could-leak-oauth-secrets.html)
+### Fix CSS Problems
+- **Published**: July 15, 2026
+- **Summary**: https://www.fix-css.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48915508">https://news.ycombinator.com/item?id=489155....
+- [Read more](https://www.fix-css.com/)
 
 ---
 
