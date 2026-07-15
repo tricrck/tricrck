@@ -16,17 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### SASE Has An AI Blind Spot. Inspecting Packets Is No Longer Enough.
-- **Published**: July 15, 2026
-- **Summary**: For years, routing traffic through cloud proxies was good enough. Then work moved to the browser, AI entered the workflow, and the inspection model st...
-- [Read more](https://thehackernews.com/2026/07/sase-has-ai-blind-spot-inspecting.html)
+### TuxBot v3 Evolution Shows Signs of LLM-Assisted IoT Botnet Development
+- **Published**: July 16, 2026
+- **Summary**: Cybersecurity researchers have disclosed details of a previously unreported Internet-of-Things (IoT) botnet framework dubbed TuxBot v3 Evolution that ...
+- [Read more](https://thehackernews.com/2026/07/tuxbot-v3-evolution-shows-signs-of-llm.html)
 
-### Researcher Drops New Windows Zero-Day PoC Hours After Microsoft Patch Tuesday
+### OkoBot Malware Framework Injects Seed Phrase Phishing Into Ledger and Trezor Apps
 - **Published**: July 15, 2026
-- **Summary**: Security researcher Chaotic Eclipse (aka Nightmare-Eclipse) has released a new proof-of-concept (PoC) exploit called LegacyHive.
-
-It has been describe...
-- [Read more](https://thehackernews.com/2026/07/researcher-drops-new-windows-zero-day.html)
+- **Summary**: A malware framework called OkoBot has been running on Windows machines since April 2025, and one of its modules is built to con hardware wallet owners...
+- [Read more](https://thehackernews.com/2026/07/okobot-malware-framework-injects-seed.html)
 
 ---
 
