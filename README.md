@@ -16,15 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Two SonicWall SMA 1000 Zero-Days Exploited, One Could Enable Admin Commands
+### SASE Has An AI Blind Spot. Inspecting Packets Is No Longer Enough.
 - **Published**: July 15, 2026
-- **Summary**: SonicWall has warned of active exploitation of two zero-day vulnerabilities impacting Secure Mobile Access (SMA) 1000 series appliances, one of which ...
-- [Read more](https://thehackernews.com/2026/07/two-sonicwall-sma-1000-zero-days.html)
+- **Summary**: For years, routing traffic through cloud proxies was good enough. Then work moved to the browser, AI entered the workflow, and the inspection model st...
+- [Read more](https://thehackernews.com/2026/07/sase-has-ai-blind-spot-inspecting.html)
 
-### Ask HN: What Are You Building with AI?
+### Researcher Drops New Windows Zero-Day PoC Hours After Microsoft Patch Tuesday
 - **Published**: July 15, 2026
-- **Summary**: <p>Are you building with AI for yourself, your employer, customers, or as a startup?<p>What LLMs, coding agents, or development tools are you using?  ...
-- [Read more](https://news.ycombinator.com/item?id=48917667)
+- **Summary**: Security researcher Chaotic Eclipse (aka Nightmare-Eclipse) has released a new proof-of-concept (PoC) exploit called LegacyHive.
+
+It has been describe...
+- [Read more](https://thehackernews.com/2026/07/researcher-drops-new-windows-zero-day.html)
 
 ---
 
