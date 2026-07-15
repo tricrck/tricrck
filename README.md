@@ -16,17 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### John Archibald Wheeler: It from Bit
+### Two SonicWall SMA 1000 Zero-Days Exploited, One Could Enable Admin Commands
 - **Published**: July 15, 2026
-- **Summary**: https://en.wikipedia.org/wiki/John_Archibald_Wheeler</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?......
-- [Read more](https://en.wikipedia.org/wiki/John_Archibald_Wheeler)
+- **Summary**: SonicWall has warned of active exploitation of two zero-day vulnerabilities impacting Secure Mobile Access (SMA) 1000 series appliances, one of which ...
+- [Read more](https://thehackernews.com/2026/07/two-sonicwall-sma-1000-zero-days.html)
 
-### Fix CSS Problems
+### Ask HN: What Are You Building with AI?
 - **Published**: July 15, 2026
-- **Summary**: https://www.fix-css.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48915508">https://news.ycombinator.com/item?id=489155....
-- [Read more](https://www.fix-css.com/)
+- **Summary**: <p>Are you building with AI for yourself, your employer, customers, or as a startup?<p>What LLMs, coding agents, or development tools are you using?  ...
+- [Read more](https://news.ycombinator.com/item?id=48917667)
 
 ---
 
