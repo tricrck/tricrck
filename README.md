@@ -16,17 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Celestrak adds catalog digit, fixes Y2K bug
+### Two Scattered Spider Hackers Get 5.5 Years Each for £29 Million TfL Hack
 - **Published**: July 16, 2026
-- **Summary**: https://www.celestrak.org/satcat/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48934468">https://news.ycombinator.......
-- **Keywords**: bug
-- [Read more](https://www.celestrak.org/satcat/)
+- **Summary**: Owen Flowers, 18, and Thalha Jubair, 20, were each sentenced to five and a half years at Woolwich Crown Court on Thursday, 16 July 2026, for the 2024 ...
+- [Read more](https://thehackernews.com/2026/07/two-scattered-spider-hackers-get-55.html)
 
-### New TELEPUZ Malware Spreads via ClickFix to Steal Data and Run Commands
+### ThreatsDay: Game Cheat Spyware, 24-Hour Ransomware, Chrome Sync Stalking + 12 More Stories
 - **Published**: July 16, 2026
-- **Summary**: Cybersecurity researchers have called attention to a new modular malware called TELEPUZ that's been spreading via websites infected with ClickFix lure...
-- [Read more](https://thehackernews.com/2026/07/new-telepuz-malware-spreads-via.html)
+- **Summary**: A lot of this week’s trouble starts with something that looks close enough.
+
+A familiar repo. A useful installer. A harmless sync setting. Then the ha...
+- [Read more](https://thehackernews.com/2026/07/threatsday-game-cheat-spyware-24-hour.html)
 
 ---
 
