@@ -16,16 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Semantic transactions: securing untrusted AI agent workflows at the OS boundary
+### Celestrak adds catalog digit, fixes Y2K bug
 - **Published**: July 16, 2026
-- **Summary**: https://latentdynamics.substack.com/p/semantic-transactions-securing-untrusted</a></p>
-<p>Comme......
-- [Read more](https://latentdynamics.substack.com/p/semantic-transactions-securing-untrusted)
+- **Summary**: https://www.celestrak.org/satcat/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48934468">https://news.ycombinator.......
+- **Keywords**: bug
+- [Read more](https://www.celestrak.org/satcat/)
 
-### Thinking: Alternate Distribution for Filmmakers
+### New TELEPUZ Malware Spreads via ClickFix to Steal Data and Run Commands
 - **Published**: July 16, 2026
-- **Summary**: <p>This idea did not in anyway start with the intention of distribution. In my 20s there were a group of 12 of us, who shared a whatsapp group and eve...
-- [Read more](https://news.ycombinator.com/item?id=48931604)
+- **Summary**: Cybersecurity researchers have called attention to a new modular malware called TELEPUZ that's been spreading via websites infected with ClickFix lure...
+- [Read more](https://thehackernews.com/2026/07/new-telepuz-malware-spreads-via.html)
 
 ---
 
