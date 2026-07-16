@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Browsing Intent: A Practical Shopper Intent Signal for Ecommerce
+### Semantic transactions: securing untrusted AI agent workflows at the OS boundary
 - **Published**: July 16, 2026
-- **Summary**: https://drive.google.com/file/d/1nHvhFPtJnWdjQgAKUGQFWEIUA23Od202/view?usp=drive_link</a......
-- [Read more](https://drive.google.com/file/d/1nHvhFPtJnWdjQgAKUGQFWEIUA23Od202/view?usp=drive_link)
+- **Summary**: https://latentdynamics.substack.com/p/semantic-transactions-securing-untrusted</a></p>
+<p>Comme......
+- [Read more](https://latentdynamics.substack.com/p/semantic-transactions-securing-untrusted)
 
-### Running Gemma4 on Apple Neural Engine
+### Thinking: Alternate Distribution for Filmmakers
 - **Published**: July 16, 2026
-- **Summary**: https://rockyshikoku.medium.com/running-gemma4-on-apple-neural-engine-79fa0cb39dd2</a></p>
-......
-- [Read more](https://rockyshikoku.medium.com/running-gemma4-on-apple-neural-engine-79fa0cb39dd2)
+- **Summary**: <p>This idea did not in anyway start with the intention of distribution. In my 20s there were a group of 12 of us, who shared a whatsapp group and eve...
+- [Read more](https://news.ycombinator.com/item?id=48931604)
 
 ---
 
