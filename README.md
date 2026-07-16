@@ -16,15 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### TuxBot v3 Evolution Shows Signs of LLM-Assisted IoT Botnet Development
+### Browsing Intent: A Practical Shopper Intent Signal for Ecommerce
 - **Published**: July 16, 2026
-- **Summary**: Cybersecurity researchers have disclosed details of a previously unreported Internet-of-Things (IoT) botnet framework dubbed TuxBot v3 Evolution that ...
-- [Read more](https://thehackernews.com/2026/07/tuxbot-v3-evolution-shows-signs-of-llm.html)
+- **Summary**: https://drive.google.com/file/d/1nHvhFPtJnWdjQgAKUGQFWEIUA23Od202/view?usp=drive_link</a......
+- [Read more](https://drive.google.com/file/d/1nHvhFPtJnWdjQgAKUGQFWEIUA23Od202/view?usp=drive_link)
 
-### OkoBot Malware Framework Injects Seed Phrase Phishing Into Ledger and Trezor Apps
-- **Published**: July 15, 2026
-- **Summary**: A malware framework called OkoBot has been running on Windows machines since April 2025, and one of its modules is built to con hardware wallet owners...
-- [Read more](https://thehackernews.com/2026/07/okobot-malware-framework-injects-seed.html)
+### Running Gemma4 on Apple Neural Engine
+- **Published**: July 16, 2026
+- **Summary**: https://rockyshikoku.medium.com/running-gemma4-on-apple-neural-engine-79fa0cb39dd2</a></p>
+......
+- [Read more](https://rockyshikoku.medium.com/running-gemma4-on-apple-neural-engine-79fa0cb39dd2)
 
 ---
 
