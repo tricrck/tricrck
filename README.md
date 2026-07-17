@@ -16,17 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Show HN: KV-Cache Grafting – Boosting frozen 12B LLMs to 93.3% AIME accuracy
+### CISA Adds Exploited SharePoint RCE Zero-Day CVE-2026-58644 to KEV
 - **Published**: July 17, 2026
-- **Summary**: https://arxiv.org/abs/2607.14431</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48942804">https://news.ycombinator.co......
-- [Read more](https://arxiv.org/abs/2607.14431)
+- **Summary**: The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a newly patched security flaw impacting Microsoft SharePoint Server...
+- [Read more](https://thehackernews.com/2026/07/cisa-adds-exploited-sharepoint-rce-zero.html)
 
-### Stop sending giant system prompts: treat LLM tokens as a scarce resource
+### Trump made $1.4B from crypto in one year. Is Justin Sun the man who helped him?
 - **Published**: July 17, 2026
-- **Summary**: https://www.qolca.org/blog/stop-sending-giant-system-prompts</a></p>
-<p>Comments URL: <a href="https://news.ycomb......
-- [Read more](https://www.qolca.org/blog/stop-sending-giant-system-prompts)
+- **Summary**: https://www.theguardian.com/technology/ng-interactive/2026/jul/16/justin-sun-......
+- [Read more](https://www.theguardian.com/technology/ng-interactive/2026/jul/16/justin-sun-trump-family-crypto)
 
 ---
 
