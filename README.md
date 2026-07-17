@@ -16,15 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### E.U. Orders Google to Open Android Mic, Camera and Screen to Rival AI Assistants
+### xAI can't deny Grok makes CSAM anymore. So it's suing users
 - **Published**: July 17, 2026
-- **Summary**: The European Commission on Thursday ordered Google to give rival AI assistants the same reach into Android that Gemini already has: the camera, the mi...
-- [Read more](https://thehackernews.com/2026/07/eu-orders-google-to-open-android-mic.html)
+- **Summary**: https://arstechnica.com/tech-policy/2026/07/xai-cant-deny-grok-makes-csa......
+- [Read more](https://arstechnica.com/tech-policy/2026/07/xai-cant-deny-grok-makes-csam-anymore-so-its-suing-users/)
 
-### The Race to Field Military Autonomy Is On, Can Trusted Information Infrastructure Keep Pace?
+### New NadMesh Botnet Hunts Exposed AI Services for Cloud Keys and Kubernetes Tokens
 - **Published**: July 17, 2026
-- **Summary**: Military forces are under increasing pressure to field autonomous capabilities faster than ever before. Across the U.S., UK, and NATO, new investment,...
-- [Read more](https://thehackernews.com/2026/07/the-race-to-field-military-autonomy-is.html)
+- **Summary**: A Go botnet called NadMesh turned up in early July hunting exposed AI services, and the operator's own dashboard claims 3,811 unique AWS keys.
+
+A Shod...
+- [Read more](https://thehackernews.com/2026/07/new-nadmesh-botnet-hunts-exposed-ai.html)
 
 ---
 
