@@ -1,10 +1,10 @@
 {
   "chaos_ranked": [
     {
-      "title": "CISA Adds Exploited SharePoint RCE Zero-Day CVE-2026-58644 to KEV",
-      "link": "https://thehackernews.com/2026/07/cisa-adds-exploited-sharepoint-rce-zero.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a newly patched security flaw impacting Microsoft SharePoint Server to its Known Exploited Vulnerabilities (KEV) cata...",
-      "published": "2026-07-17T12:12:23+05:30",
+      "title": "E.U. Orders Google to Open Android Mic, Camera and Screen to Rival AI Assistants",
+      "link": "https://thehackernews.com/2026/07/eu-orders-google-to-open-android-mic.html",
+      "summary": "The European Commission on Thursday ordered Google to give rival AI assistants the same reach into Android that Gemini already has: the camera, the microphone, whatever is on screen, a wake word that ...",
+      "published": "2026-07-17T17:14:41+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -17,11 +17,29 @@
       }
     },
     {
-      "title": "Trump made $1.4B from crypto in one year. Is Justin Sun the man who helped him?",
-      "link": "https://www.theguardian.com/technology/ng-interactive/2026/jul/16/justin-sun-trump-family-crypto",
-      "summary": "<p>Article URL: <a href=\"https://www.theguardian.com/technology/ng-interactive/2026/jul/16/justin-sun-trump-family-crypto\">https://www.theguardian.com/technology/ng-interactive/2026/jul/16/justin-sun-...",
-      "published": "2026-07-17T08:01:58+00:00",
-      "domain": "theguardian.com",
+      "title": "The Race to Field Military Autonomy Is On, Can Trusted Information Infrastructure Keep Pace?",
+      "link": "https://thehackernews.com/2026/07/the-race-to-field-military-autonomy-is.html",
+      "summary": "Military forces are under increasing pressure to field autonomous capabilities faster than ever before. Across the U.S., UK, and NATO, new investment, evolving defense strategies, and accelerated acqu...",
+      "published": "2026-07-17T17:00:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 12.8,
+        "overall": 7.9
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": [
+          "autonomous"
+        ]
+      }
+    },
+    {
+      "title": "Armenia Detains Russian Tourist on U.S. Warrant for REvil Hacker, Lawyers Say Wrong Man",
+      "link": "https://thehackernews.com/2026/07/armenia-detains-russian-tourist-on-us.html",
+      "summary": "Armenia has held a Russian tourist named Aleksandr Ermakov in a detention center since June 28, on a U.S. extradition request for a REvil ransomware suspect named Aleksandr Ermakov.\n\nHis wife, Maria Y...",
+      "published": "2026-07-17T16:23:31+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -33,11 +51,11 @@
       }
     },
     {
-      "title": "The most expensive instruction might be cmov",
-      "link": "https://questdb.com/blog/cmov-vs-branch-perf/",
-      "summary": "<p>Article URL: <a href=\"https://questdb.com/blog/cmov-vs-branch-perf/\">https://questdb.com/blog/cmov-vs-branch-perf/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48944518\">h...",
-      "published": "2026-07-17T08:01:23+00:00",
-      "domain": "questdb.com",
+      "title": "ACR Stealer Uses ClickFix Lures to Steal Browser Tokens and Microsoft 365 Files",
+      "link": "https://thehackernews.com/2026/07/acr-stealer-uses-clickfix-lures-to.html",
+      "summary": "ACR Stealer, an infostealer in circulation since 2024, is walking out of enterprise networks with saved browser passwords, live session tokens, PDFs, Microsoft 365 documents, and files from synced One...",
+      "published": "2026-07-17T14:26:39+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -49,11 +67,11 @@
       }
     },
     {
-      "title": "The Word \"Emoji\" Is Older Than You May Think",
-      "link": "https://blog.emojipedia.org/the-word-emoji-is-older-than-you-may-think/",
-      "summary": "<p>Article URL: <a href=\"https://blog.emojipedia.org/the-word-emoji-is-older-than-you-may-think/\">https://blog.emojipedia.org/the-word-emoji-is-older-than-you-may-think/</a></p>\n<p>Comments URL: <a hr...",
-      "published": "2026-07-17T07:59:39+00:00",
-      "domain": "blog.emojipedia.org",
+      "title": "New GoSerpent Malware Targets Southeast Asian Governments and Diplomats for Espionage",
+      "link": "https://thehackernews.com/2026/07/new-goserpent-malware-targets-southeast.html",
+      "summary": "Cybersecurity researchers have discovered a previously undocumented malware called GoSerpent that has been put to use in cyber attacks targeting entities in Southeast Asia since late 2025 with a focus...",
+      "published": "2026-07-17T14:16:45+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -65,10 +83,10 @@
       }
     },
     {
-      "title": "Show HN: cc-context-telemetry - context and rate-limit % in Claude Code's bar",
-      "link": "https://github.com/alagiz/cc-context-telemetry",
-      "summary": "<p>Article URL: <a href=\"https://github.com/alagiz/cc-context-telemetry\">https://github.com/alagiz/cc-context-telemetry</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48944489\"...",
-      "published": "2026-07-17T07:58:24+00:00",
+      "title": "Multi-region data and service mesh operated by a Makefile",
+      "link": "https://github.com/neospe/autoops",
+      "summary": "<p>Article URL: <a href=\"https://github.com/neospe/autoops\">https://github.com/neospe/autoops</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48947171\">https://news.ycombinator....",
+      "published": "2026-07-17T13:29:36+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -81,11 +99,11 @@
       }
     },
     {
-      "title": "Trump Media to sell instant access to 'market-moving' social posts",
-      "link": "https://www.bbc.com/news/articles/c79gw4lj89eo",
-      "summary": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/c79gw4lj89eo\">https://www.bbc.com/news/articles/c79gw4lj89eo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48944487\"...",
-      "published": "2026-07-17T07:58:19+00:00",
-      "domain": "bbc.com",
+      "title": "Some Thoughts on AI and Art",
+      "link": "https://insertchaos.bearblog.dev/thoughts-on-ai-and-art/",
+      "summary": "<p>Article URL: <a href=\"https://insertchaos.bearblog.dev/thoughts-on-ai-and-art/\">https://insertchaos.bearblog.dev/thoughts-on-ai-and-art/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.c...",
+      "published": "2026-07-17T13:29:33+00:00",
+      "domain": "insertchaos.bearblog.dev",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -97,11 +115,11 @@
       }
     },
     {
-      "title": "EEG shows brain can simultaneous encode two speech streams",
-      "link": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48943745\">Comments</a>...",
-      "published": "2026-07-17T05:51:10+00:00",
-      "domain": "journals.plos.org",
+      "title": "A multipurpose, private personal AI on a dedicated AWS instance",
+      "link": "https://purposemapped.com",
+      "summary": "<p>Article URL: <a href=\"https://purposemapped.com\">https://purposemapped.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48947166\">https://news.ycombinator.com/item?id=4894...",
+      "published": "2026-07-17T13:29:18+00:00",
+      "domain": "purposemapped.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -113,11 +131,11 @@
       }
     },
     {
-      "title": "Pebble Mega Update \u2013 July 2026",
-      "link": "https://repebble.com/blog/pebble-mega-update-july-2026",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48943174\">Comments</a>...",
-      "published": "2026-07-17T03:53:38+00:00",
-      "domain": "repebble.com",
+      "title": "Document intelligence platform \u2013 share files, track views, collect signatures",
+      "link": "https://tinidrop.com",
+      "summary": "<p>Article URL: <a href=\"https://tinidrop.com\">https://tinidrop.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48947163\">https://news.ycombinator.com/item?id=48947163</a></...",
+      "published": "2026-07-17T13:29:18+00:00",
+      "domain": "tinidrop.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -129,27 +147,11 @@
       }
     },
     {
-      "title": "How Has Roman Concrete Lasted for Millennia? 1,900-Year-Old Latrine Offers Clues",
-      "link": "https://www.smithsonianmag.com/smart-news/how-has-roman-concrete-lasted-for-millennia-a-1900-year-old-latrine-offers-new-clues-about-the-materials-impressive-durability-180989115/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48943142\">Comments</a>...",
-      "published": "2026-07-17T03:48:26+00:00",
-      "domain": "smithsonianmag.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Researcher poisons open-weight AI model for under $100",
-      "link": "https://www.reddit.com/r/technology/comments/1uymaue/researcher_poisons_openweight_ai_model_for_under/",
-      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Logical_Welder3467\"> /u/Logical_Welder3467 </a> <br /> <span><a href=\"https://www.theregister.com/ai-and-ml/2026/07/16/researcher-poisons-...",
-      "published": "2026-07-17T01:57:30+00:00",
-      "domain": "reddit.com",
+      "title": "V1 of OpenTelemetry Go Compile-Time Instrumentation",
+      "link": "https://opentelemetry.io/blog/2026/go-compile-time-instrumentation-v1/",
+      "summary": "<p>Article URL: <a href=\"https://opentelemetry.io/blog/2026/go-compile-time-instrumentation-v1/\">https://opentelemetry.io/blog/2026/go-compile-time-instrumentation-v1/</a></p>\n<p>Comments URL: <a href...",
+      "published": "2026-07-17T13:28:39+00:00",
+      "domain": "opentelemetry.io",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -163,10 +165,28 @@
   ],
   "anarchy_ranked": [
     {
-      "title": "CISA Adds Exploited SharePoint RCE Zero-Day CVE-2026-58644 to KEV",
-      "link": "https://thehackernews.com/2026/07/cisa-adds-exploited-sharepoint-rce-zero.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a newly patched security flaw impacting Microsoft SharePoint Server to its Known Exploited Vulnerabilities (KEV) cata...",
-      "published": "2026-07-17T12:12:23+05:30",
+      "title": "The Race to Field Military Autonomy Is On, Can Trusted Information Infrastructure Keep Pace?",
+      "link": "https://thehackernews.com/2026/07/the-race-to-field-military-autonomy-is.html",
+      "summary": "Military forces are under increasing pressure to field autonomous capabilities faster than ever before. Across the U.S., UK, and NATO, new investment, evolving defense strategies, and accelerated acqu...",
+      "published": "2026-07-17T17:00:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 12.8,
+        "overall": 7.9
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": [
+          "autonomous"
+        ]
+      }
+    },
+    {
+      "title": "E.U. Orders Google to Open Android Mic, Camera and Screen to Rival AI Assistants",
+      "link": "https://thehackernews.com/2026/07/eu-orders-google-to-open-android-mic.html",
+      "summary": "The European Commission on Thursday ordered Google to give rival AI assistants the same reach into Android that Gemini already has: the camera, the microphone, whatever is on screen, a wake word that ...",
+      "published": "2026-07-17T17:14:41+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -179,11 +199,11 @@
       }
     },
     {
-      "title": "Trump made $1.4B from crypto in one year. Is Justin Sun the man who helped him?",
-      "link": "https://www.theguardian.com/technology/ng-interactive/2026/jul/16/justin-sun-trump-family-crypto",
-      "summary": "<p>Article URL: <a href=\"https://www.theguardian.com/technology/ng-interactive/2026/jul/16/justin-sun-trump-family-crypto\">https://www.theguardian.com/technology/ng-interactive/2026/jul/16/justin-sun-...",
-      "published": "2026-07-17T08:01:58+00:00",
-      "domain": "theguardian.com",
+      "title": "Armenia Detains Russian Tourist on U.S. Warrant for REvil Hacker, Lawyers Say Wrong Man",
+      "link": "https://thehackernews.com/2026/07/armenia-detains-russian-tourist-on-us.html",
+      "summary": "Armenia has held a Russian tourist named Aleksandr Ermakov in a detention center since June 28, on a U.S. extradition request for a REvil ransomware suspect named Aleksandr Ermakov.\n\nHis wife, Maria Y...",
+      "published": "2026-07-17T16:23:31+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -195,11 +215,11 @@
       }
     },
     {
-      "title": "The most expensive instruction might be cmov",
-      "link": "https://questdb.com/blog/cmov-vs-branch-perf/",
-      "summary": "<p>Article URL: <a href=\"https://questdb.com/blog/cmov-vs-branch-perf/\">https://questdb.com/blog/cmov-vs-branch-perf/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48944518\">h...",
-      "published": "2026-07-17T08:01:23+00:00",
-      "domain": "questdb.com",
+      "title": "ACR Stealer Uses ClickFix Lures to Steal Browser Tokens and Microsoft 365 Files",
+      "link": "https://thehackernews.com/2026/07/acr-stealer-uses-clickfix-lures-to.html",
+      "summary": "ACR Stealer, an infostealer in circulation since 2024, is walking out of enterprise networks with saved browser passwords, live session tokens, PDFs, Microsoft 365 documents, and files from synced One...",
+      "published": "2026-07-17T14:26:39+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -211,11 +231,11 @@
       }
     },
     {
-      "title": "The Word \"Emoji\" Is Older Than You May Think",
-      "link": "https://blog.emojipedia.org/the-word-emoji-is-older-than-you-may-think/",
-      "summary": "<p>Article URL: <a href=\"https://blog.emojipedia.org/the-word-emoji-is-older-than-you-may-think/\">https://blog.emojipedia.org/the-word-emoji-is-older-than-you-may-think/</a></p>\n<p>Comments URL: <a hr...",
-      "published": "2026-07-17T07:59:39+00:00",
-      "domain": "blog.emojipedia.org",
+      "title": "New GoSerpent Malware Targets Southeast Asian Governments and Diplomats for Espionage",
+      "link": "https://thehackernews.com/2026/07/new-goserpent-malware-targets-southeast.html",
+      "summary": "Cybersecurity researchers have discovered a previously undocumented malware called GoSerpent that has been put to use in cyber attacks targeting entities in Southeast Asia since late 2025 with a focus...",
+      "published": "2026-07-17T14:16:45+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -227,10 +247,10 @@
       }
     },
     {
-      "title": "Show HN: cc-context-telemetry - context and rate-limit % in Claude Code's bar",
-      "link": "https://github.com/alagiz/cc-context-telemetry",
-      "summary": "<p>Article URL: <a href=\"https://github.com/alagiz/cc-context-telemetry\">https://github.com/alagiz/cc-context-telemetry</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48944489\"...",
-      "published": "2026-07-17T07:58:24+00:00",
+      "title": "Multi-region data and service mesh operated by a Makefile",
+      "link": "https://github.com/neospe/autoops",
+      "summary": "<p>Article URL: <a href=\"https://github.com/neospe/autoops\">https://github.com/neospe/autoops</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48947171\">https://news.ycombinator....",
+      "published": "2026-07-17T13:29:36+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -243,11 +263,11 @@
       }
     },
     {
-      "title": "Trump Media to sell instant access to 'market-moving' social posts",
-      "link": "https://www.bbc.com/news/articles/c79gw4lj89eo",
-      "summary": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/c79gw4lj89eo\">https://www.bbc.com/news/articles/c79gw4lj89eo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48944487\"...",
-      "published": "2026-07-17T07:58:19+00:00",
-      "domain": "bbc.com",
+      "title": "Some Thoughts on AI and Art",
+      "link": "https://insertchaos.bearblog.dev/thoughts-on-ai-and-art/",
+      "summary": "<p>Article URL: <a href=\"https://insertchaos.bearblog.dev/thoughts-on-ai-and-art/\">https://insertchaos.bearblog.dev/thoughts-on-ai-and-art/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.c...",
+      "published": "2026-07-17T13:29:33+00:00",
+      "domain": "insertchaos.bearblog.dev",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -259,11 +279,11 @@
       }
     },
     {
-      "title": "EEG shows brain can simultaneous encode two speech streams",
-      "link": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48943745\">Comments</a>...",
-      "published": "2026-07-17T05:51:10+00:00",
-      "domain": "journals.plos.org",
+      "title": "A multipurpose, private personal AI on a dedicated AWS instance",
+      "link": "https://purposemapped.com",
+      "summary": "<p>Article URL: <a href=\"https://purposemapped.com\">https://purposemapped.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48947166\">https://news.ycombinator.com/item?id=4894...",
+      "published": "2026-07-17T13:29:18+00:00",
+      "domain": "purposemapped.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -275,11 +295,11 @@
       }
     },
     {
-      "title": "Pebble Mega Update \u2013 July 2026",
-      "link": "https://repebble.com/blog/pebble-mega-update-july-2026",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48943174\">Comments</a>...",
-      "published": "2026-07-17T03:53:38+00:00",
-      "domain": "repebble.com",
+      "title": "Document intelligence platform \u2013 share files, track views, collect signatures",
+      "link": "https://tinidrop.com",
+      "summary": "<p>Article URL: <a href=\"https://tinidrop.com\">https://tinidrop.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48947163\">https://news.ycombinator.com/item?id=48947163</a></...",
+      "published": "2026-07-17T13:29:18+00:00",
+      "domain": "tinidrop.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -291,27 +311,11 @@
       }
     },
     {
-      "title": "How Has Roman Concrete Lasted for Millennia? 1,900-Year-Old Latrine Offers Clues",
-      "link": "https://www.smithsonianmag.com/smart-news/how-has-roman-concrete-lasted-for-millennia-a-1900-year-old-latrine-offers-new-clues-about-the-materials-impressive-durability-180989115/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48943142\">Comments</a>...",
-      "published": "2026-07-17T03:48:26+00:00",
-      "domain": "smithsonianmag.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Researcher poisons open-weight AI model for under $100",
-      "link": "https://www.reddit.com/r/technology/comments/1uymaue/researcher_poisons_openweight_ai_model_for_under/",
-      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Logical_Welder3467\"> /u/Logical_Welder3467 </a> <br /> <span><a href=\"https://www.theregister.com/ai-and-ml/2026/07/16/researcher-poisons-...",
-      "published": "2026-07-17T01:57:30+00:00",
-      "domain": "reddit.com",
+      "title": "V1 of OpenTelemetry Go Compile-Time Instrumentation",
+      "link": "https://opentelemetry.io/blog/2026/go-compile-time-instrumentation-v1/",
+      "summary": "<p>Article URL: <a href=\"https://opentelemetry.io/blog/2026/go-compile-time-instrumentation-v1/\">https://opentelemetry.io/blog/2026/go-compile-time-instrumentation-v1/</a></p>\n<p>Comments URL: <a href...",
+      "published": "2026-07-17T13:28:39+00:00",
+      "domain": "opentelemetry.io",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -325,10 +329,28 @@
   ],
   "overall_ranked": [
     {
-      "title": "CISA Adds Exploited SharePoint RCE Zero-Day CVE-2026-58644 to KEV",
-      "link": "https://thehackernews.com/2026/07/cisa-adds-exploited-sharepoint-rce-zero.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a newly patched security flaw impacting Microsoft SharePoint Server to its Known Exploited Vulnerabilities (KEV) cata...",
-      "published": "2026-07-17T12:12:23+05:30",
+      "title": "The Race to Field Military Autonomy Is On, Can Trusted Information Infrastructure Keep Pace?",
+      "link": "https://thehackernews.com/2026/07/the-race-to-field-military-autonomy-is.html",
+      "summary": "Military forces are under increasing pressure to field autonomous capabilities faster than ever before. Across the U.S., UK, and NATO, new investment, evolving defense strategies, and accelerated acqu...",
+      "published": "2026-07-17T17:00:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 12.8,
+        "overall": 7.9
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": [
+          "autonomous"
+        ]
+      }
+    },
+    {
+      "title": "E.U. Orders Google to Open Android Mic, Camera and Screen to Rival AI Assistants",
+      "link": "https://thehackernews.com/2026/07/eu-orders-google-to-open-android-mic.html",
+      "summary": "The European Commission on Thursday ordered Google to give rival AI assistants the same reach into Android that Gemini already has: the camera, the microphone, whatever is on screen, a wake word that ...",
+      "published": "2026-07-17T17:14:41+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -341,11 +363,11 @@
       }
     },
     {
-      "title": "Trump made $1.4B from crypto in one year. Is Justin Sun the man who helped him?",
-      "link": "https://www.theguardian.com/technology/ng-interactive/2026/jul/16/justin-sun-trump-family-crypto",
-      "summary": "<p>Article URL: <a href=\"https://www.theguardian.com/technology/ng-interactive/2026/jul/16/justin-sun-trump-family-crypto\">https://www.theguardian.com/technology/ng-interactive/2026/jul/16/justin-sun-...",
-      "published": "2026-07-17T08:01:58+00:00",
-      "domain": "theguardian.com",
+      "title": "Armenia Detains Russian Tourist on U.S. Warrant for REvil Hacker, Lawyers Say Wrong Man",
+      "link": "https://thehackernews.com/2026/07/armenia-detains-russian-tourist-on-us.html",
+      "summary": "Armenia has held a Russian tourist named Aleksandr Ermakov in a detention center since June 28, on a U.S. extradition request for a REvil ransomware suspect named Aleksandr Ermakov.\n\nHis wife, Maria Y...",
+      "published": "2026-07-17T16:23:31+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -357,11 +379,11 @@
       }
     },
     {
-      "title": "The most expensive instruction might be cmov",
-      "link": "https://questdb.com/blog/cmov-vs-branch-perf/",
-      "summary": "<p>Article URL: <a href=\"https://questdb.com/blog/cmov-vs-branch-perf/\">https://questdb.com/blog/cmov-vs-branch-perf/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48944518\">h...",
-      "published": "2026-07-17T08:01:23+00:00",
-      "domain": "questdb.com",
+      "title": "ACR Stealer Uses ClickFix Lures to Steal Browser Tokens and Microsoft 365 Files",
+      "link": "https://thehackernews.com/2026/07/acr-stealer-uses-clickfix-lures-to.html",
+      "summary": "ACR Stealer, an infostealer in circulation since 2024, is walking out of enterprise networks with saved browser passwords, live session tokens, PDFs, Microsoft 365 documents, and files from synced One...",
+      "published": "2026-07-17T14:26:39+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -373,11 +395,11 @@
       }
     },
     {
-      "title": "The Word \"Emoji\" Is Older Than You May Think",
-      "link": "https://blog.emojipedia.org/the-word-emoji-is-older-than-you-may-think/",
-      "summary": "<p>Article URL: <a href=\"https://blog.emojipedia.org/the-word-emoji-is-older-than-you-may-think/\">https://blog.emojipedia.org/the-word-emoji-is-older-than-you-may-think/</a></p>\n<p>Comments URL: <a hr...",
-      "published": "2026-07-17T07:59:39+00:00",
-      "domain": "blog.emojipedia.org",
+      "title": "New GoSerpent Malware Targets Southeast Asian Governments and Diplomats for Espionage",
+      "link": "https://thehackernews.com/2026/07/new-goserpent-malware-targets-southeast.html",
+      "summary": "Cybersecurity researchers have discovered a previously undocumented malware called GoSerpent that has been put to use in cyber attacks targeting entities in Southeast Asia since late 2025 with a focus...",
+      "published": "2026-07-17T14:16:45+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -389,10 +411,10 @@
       }
     },
     {
-      "title": "Show HN: cc-context-telemetry - context and rate-limit % in Claude Code's bar",
-      "link": "https://github.com/alagiz/cc-context-telemetry",
-      "summary": "<p>Article URL: <a href=\"https://github.com/alagiz/cc-context-telemetry\">https://github.com/alagiz/cc-context-telemetry</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48944489\"...",
-      "published": "2026-07-17T07:58:24+00:00",
+      "title": "Multi-region data and service mesh operated by a Makefile",
+      "link": "https://github.com/neospe/autoops",
+      "summary": "<p>Article URL: <a href=\"https://github.com/neospe/autoops\">https://github.com/neospe/autoops</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48947171\">https://news.ycombinator....",
+      "published": "2026-07-17T13:29:36+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -405,11 +427,11 @@
       }
     },
     {
-      "title": "Trump Media to sell instant access to 'market-moving' social posts",
-      "link": "https://www.bbc.com/news/articles/c79gw4lj89eo",
-      "summary": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/c79gw4lj89eo\">https://www.bbc.com/news/articles/c79gw4lj89eo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48944487\"...",
-      "published": "2026-07-17T07:58:19+00:00",
-      "domain": "bbc.com",
+      "title": "Some Thoughts on AI and Art",
+      "link": "https://insertchaos.bearblog.dev/thoughts-on-ai-and-art/",
+      "summary": "<p>Article URL: <a href=\"https://insertchaos.bearblog.dev/thoughts-on-ai-and-art/\">https://insertchaos.bearblog.dev/thoughts-on-ai-and-art/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.c...",
+      "published": "2026-07-17T13:29:33+00:00",
+      "domain": "insertchaos.bearblog.dev",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -421,11 +443,11 @@
       }
     },
     {
-      "title": "EEG shows brain can simultaneous encode two speech streams",
-      "link": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48943745\">Comments</a>...",
-      "published": "2026-07-17T05:51:10+00:00",
-      "domain": "journals.plos.org",
+      "title": "A multipurpose, private personal AI on a dedicated AWS instance",
+      "link": "https://purposemapped.com",
+      "summary": "<p>Article URL: <a href=\"https://purposemapped.com\">https://purposemapped.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48947166\">https://news.ycombinator.com/item?id=4894...",
+      "published": "2026-07-17T13:29:18+00:00",
+      "domain": "purposemapped.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -437,11 +459,11 @@
       }
     },
     {
-      "title": "Pebble Mega Update \u2013 July 2026",
-      "link": "https://repebble.com/blog/pebble-mega-update-july-2026",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48943174\">Comments</a>...",
-      "published": "2026-07-17T03:53:38+00:00",
-      "domain": "repebble.com",
+      "title": "Document intelligence platform \u2013 share files, track views, collect signatures",
+      "link": "https://tinidrop.com",
+      "summary": "<p>Article URL: <a href=\"https://tinidrop.com\">https://tinidrop.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48947163\">https://news.ycombinator.com/item?id=48947163</a></...",
+      "published": "2026-07-17T13:29:18+00:00",
+      "domain": "tinidrop.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -453,27 +475,11 @@
       }
     },
     {
-      "title": "How Has Roman Concrete Lasted for Millennia? 1,900-Year-Old Latrine Offers Clues",
-      "link": "https://www.smithsonianmag.com/smart-news/how-has-roman-concrete-lasted-for-millennia-a-1900-year-old-latrine-offers-new-clues-about-the-materials-impressive-durability-180989115/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48943142\">Comments</a>...",
-      "published": "2026-07-17T03:48:26+00:00",
-      "domain": "smithsonianmag.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Researcher poisons open-weight AI model for under $100",
-      "link": "https://www.reddit.com/r/technology/comments/1uymaue/researcher_poisons_openweight_ai_model_for_under/",
-      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Logical_Welder3467\"> /u/Logical_Welder3467 </a> <br /> <span><a href=\"https://www.theregister.com/ai-and-ml/2026/07/16/researcher-poisons-...",
-      "published": "2026-07-17T01:57:30+00:00",
-      "domain": "reddit.com",
+      "title": "V1 of OpenTelemetry Go Compile-Time Instrumentation",
+      "link": "https://opentelemetry.io/blog/2026/go-compile-time-instrumentation-v1/",
+      "summary": "<p>Article URL: <a href=\"https://opentelemetry.io/blog/2026/go-compile-time-instrumentation-v1/\">https://opentelemetry.io/blog/2026/go-compile-time-instrumentation-v1/</a></p>\n<p>Comments URL: <a href...",
+      "published": "2026-07-17T13:28:39+00:00",
+      "domain": "opentelemetry.io",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -487,10 +493,10 @@
   ],
   "all_articles": [
     {
-      "title": "CISA Adds Exploited SharePoint RCE Zero-Day CVE-2026-58644 to KEV",
-      "link": "https://thehackernews.com/2026/07/cisa-adds-exploited-sharepoint-rce-zero.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a newly patched security flaw impacting Microsoft SharePoint Server to its Known Exploited Vulnerabilities (KEV) cata...",
-      "published": "2026-07-17T12:12:23+05:30",
+      "title": "E.U. Orders Google to Open Android Mic, Camera and Screen to Rival AI Assistants",
+      "link": "https://thehackernews.com/2026/07/eu-orders-google-to-open-android-mic.html",
+      "summary": "The European Commission on Thursday ordered Google to give rival AI assistants the same reach into Android that Gemini already has: the camera, the microphone, whatever is on screen, a wake word that ...",
+      "published": "2026-07-17T17:14:41+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -503,11 +509,29 @@
       }
     },
     {
-      "title": "Trump made $1.4B from crypto in one year. Is Justin Sun the man who helped him?",
-      "link": "https://www.theguardian.com/technology/ng-interactive/2026/jul/16/justin-sun-trump-family-crypto",
-      "summary": "<p>Article URL: <a href=\"https://www.theguardian.com/technology/ng-interactive/2026/jul/16/justin-sun-trump-family-crypto\">https://www.theguardian.com/technology/ng-interactive/2026/jul/16/justin-sun-...",
-      "published": "2026-07-17T08:01:58+00:00",
-      "domain": "theguardian.com",
+      "title": "The Race to Field Military Autonomy Is On, Can Trusted Information Infrastructure Keep Pace?",
+      "link": "https://thehackernews.com/2026/07/the-race-to-field-military-autonomy-is.html",
+      "summary": "Military forces are under increasing pressure to field autonomous capabilities faster than ever before. Across the U.S., UK, and NATO, new investment, evolving defense strategies, and accelerated acqu...",
+      "published": "2026-07-17T17:00:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 12.8,
+        "overall": 7.9
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": [
+          "autonomous"
+        ]
+      }
+    },
+    {
+      "title": "Armenia Detains Russian Tourist on U.S. Warrant for REvil Hacker, Lawyers Say Wrong Man",
+      "link": "https://thehackernews.com/2026/07/armenia-detains-russian-tourist-on-us.html",
+      "summary": "Armenia has held a Russian tourist named Aleksandr Ermakov in a detention center since June 28, on a U.S. extradition request for a REvil ransomware suspect named Aleksandr Ermakov.\n\nHis wife, Maria Y...",
+      "published": "2026-07-17T16:23:31+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -519,11 +543,11 @@
       }
     },
     {
-      "title": "The most expensive instruction might be cmov",
-      "link": "https://questdb.com/blog/cmov-vs-branch-perf/",
-      "summary": "<p>Article URL: <a href=\"https://questdb.com/blog/cmov-vs-branch-perf/\">https://questdb.com/blog/cmov-vs-branch-perf/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48944518\">h...",
-      "published": "2026-07-17T08:01:23+00:00",
-      "domain": "questdb.com",
+      "title": "ACR Stealer Uses ClickFix Lures to Steal Browser Tokens and Microsoft 365 Files",
+      "link": "https://thehackernews.com/2026/07/acr-stealer-uses-clickfix-lures-to.html",
+      "summary": "ACR Stealer, an infostealer in circulation since 2024, is walking out of enterprise networks with saved browser passwords, live session tokens, PDFs, Microsoft 365 documents, and files from synced One...",
+      "published": "2026-07-17T14:26:39+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -535,11 +559,11 @@
       }
     },
     {
-      "title": "The Word \"Emoji\" Is Older Than You May Think",
-      "link": "https://blog.emojipedia.org/the-word-emoji-is-older-than-you-may-think/",
-      "summary": "<p>Article URL: <a href=\"https://blog.emojipedia.org/the-word-emoji-is-older-than-you-may-think/\">https://blog.emojipedia.org/the-word-emoji-is-older-than-you-may-think/</a></p>\n<p>Comments URL: <a hr...",
-      "published": "2026-07-17T07:59:39+00:00",
-      "domain": "blog.emojipedia.org",
+      "title": "New GoSerpent Malware Targets Southeast Asian Governments and Diplomats for Espionage",
+      "link": "https://thehackernews.com/2026/07/new-goserpent-malware-targets-southeast.html",
+      "summary": "Cybersecurity researchers have discovered a previously undocumented malware called GoSerpent that has been put to use in cyber attacks targeting entities in Southeast Asia since late 2025 with a focus...",
+      "published": "2026-07-17T14:16:45+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -551,10 +575,10 @@
       }
     },
     {
-      "title": "Show HN: cc-context-telemetry - context and rate-limit % in Claude Code's bar",
-      "link": "https://github.com/alagiz/cc-context-telemetry",
-      "summary": "<p>Article URL: <a href=\"https://github.com/alagiz/cc-context-telemetry\">https://github.com/alagiz/cc-context-telemetry</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48944489\"...",
-      "published": "2026-07-17T07:58:24+00:00",
+      "title": "Multi-region data and service mesh operated by a Makefile",
+      "link": "https://github.com/neospe/autoops",
+      "summary": "<p>Article URL: <a href=\"https://github.com/neospe/autoops\">https://github.com/neospe/autoops</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48947171\">https://news.ycombinator....",
+      "published": "2026-07-17T13:29:36+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -567,11 +591,11 @@
       }
     },
     {
-      "title": "Trump Media to sell instant access to 'market-moving' social posts",
-      "link": "https://www.bbc.com/news/articles/c79gw4lj89eo",
-      "summary": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/c79gw4lj89eo\">https://www.bbc.com/news/articles/c79gw4lj89eo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48944487\"...",
-      "published": "2026-07-17T07:58:19+00:00",
-      "domain": "bbc.com",
+      "title": "Some Thoughts on AI and Art",
+      "link": "https://insertchaos.bearblog.dev/thoughts-on-ai-and-art/",
+      "summary": "<p>Article URL: <a href=\"https://insertchaos.bearblog.dev/thoughts-on-ai-and-art/\">https://insertchaos.bearblog.dev/thoughts-on-ai-and-art/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.c...",
+      "published": "2026-07-17T13:29:33+00:00",
+      "domain": "insertchaos.bearblog.dev",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -583,11 +607,11 @@
       }
     },
     {
-      "title": "EEG shows brain can simultaneous encode two speech streams",
-      "link": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48943745\">Comments</a>...",
-      "published": "2026-07-17T05:51:10+00:00",
-      "domain": "journals.plos.org",
+      "title": "A multipurpose, private personal AI on a dedicated AWS instance",
+      "link": "https://purposemapped.com",
+      "summary": "<p>Article URL: <a href=\"https://purposemapped.com\">https://purposemapped.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48947166\">https://news.ycombinator.com/item?id=4894...",
+      "published": "2026-07-17T13:29:18+00:00",
+      "domain": "purposemapped.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -599,11 +623,11 @@
       }
     },
     {
-      "title": "Pebble Mega Update \u2013 July 2026",
-      "link": "https://repebble.com/blog/pebble-mega-update-july-2026",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48943174\">Comments</a>...",
-      "published": "2026-07-17T03:53:38+00:00",
-      "domain": "repebble.com",
+      "title": "Document intelligence platform \u2013 share files, track views, collect signatures",
+      "link": "https://tinidrop.com",
+      "summary": "<p>Article URL: <a href=\"https://tinidrop.com\">https://tinidrop.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48947163\">https://news.ycombinator.com/item?id=48947163</a></...",
+      "published": "2026-07-17T13:29:18+00:00",
+      "domain": "tinidrop.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -615,27 +639,11 @@
       }
     },
     {
-      "title": "How Has Roman Concrete Lasted for Millennia? 1,900-Year-Old Latrine Offers Clues",
-      "link": "https://www.smithsonianmag.com/smart-news/how-has-roman-concrete-lasted-for-millennia-a-1900-year-old-latrine-offers-new-clues-about-the-materials-impressive-durability-180989115/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48943142\">Comments</a>...",
-      "published": "2026-07-17T03:48:26+00:00",
-      "domain": "smithsonianmag.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Researcher poisons open-weight AI model for under $100",
-      "link": "https://www.reddit.com/r/technology/comments/1uymaue/researcher_poisons_openweight_ai_model_for_under/",
-      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Logical_Welder3467\"> /u/Logical_Welder3467 </a> <br /> <span><a href=\"https://www.theregister.com/ai-and-ml/2026/07/16/researcher-poisons-...",
-      "published": "2026-07-17T01:57:30+00:00",
-      "domain": "reddit.com",
+      "title": "V1 of OpenTelemetry Go Compile-Time Instrumentation",
+      "link": "https://opentelemetry.io/blog/2026/go-compile-time-instrumentation-v1/",
+      "summary": "<p>Article URL: <a href=\"https://opentelemetry.io/blog/2026/go-compile-time-instrumentation-v1/\">https://opentelemetry.io/blog/2026/go-compile-time-instrumentation-v1/</a></p>\n<p>Comments URL: <a href...",
+      "published": "2026-07-17T13:28:39+00:00",
+      "domain": "opentelemetry.io",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,

@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### CISA Adds Exploited SharePoint RCE Zero-Day CVE-2026-58644 to KEV
+### E.U. Orders Google to Open Android Mic, Camera and Screen to Rival AI Assistants
 - **Published**: July 17, 2026
-- **Summary**: The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a newly patched security flaw impacting Microsoft SharePoint Server...
-- [Read more](https://thehackernews.com/2026/07/cisa-adds-exploited-sharepoint-rce-zero.html)
+- **Summary**: The European Commission on Thursday ordered Google to give rival AI assistants the same reach into Android that Gemini already has: the camera, the mi...
+- [Read more](https://thehackernews.com/2026/07/eu-orders-google-to-open-android-mic.html)
 
-### Trump made $1.4B from crypto in one year. Is Justin Sun the man who helped him?
+### The Race to Field Military Autonomy Is On, Can Trusted Information Infrastructure Keep Pace?
 - **Published**: July 17, 2026
-- **Summary**: https://www.theguardian.com/technology/ng-interactive/2026/jul/16/justin-sun-......
-- [Read more](https://www.theguardian.com/technology/ng-interactive/2026/jul/16/justin-sun-trump-family-crypto)
+- **Summary**: Military forces are under increasing pressure to field autonomous capabilities faster than ever before. Across the U.S., UK, and NATO, new investment,...
+- [Read more](https://thehackernews.com/2026/07/the-race-to-field-military-autonomy-is.html)
 
 ---
 
