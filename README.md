@@ -16,17 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Two Scattered Spider Hackers Get 5.5 Years Each for £29 Million TfL Hack
-- **Published**: July 16, 2026
-- **Summary**: Owen Flowers, 18, and Thalha Jubair, 20, were each sentenced to five and a half years at Woolwich Crown Court on Thursday, 16 July 2026, for the 2024 ...
-- [Read more](https://thehackernews.com/2026/07/two-scattered-spider-hackers-get-55.html)
+### Show HN: KV-Cache Grafting – Boosting frozen 12B LLMs to 93.3% AIME accuracy
+- **Published**: July 17, 2026
+- **Summary**: https://arxiv.org/abs/2607.14431</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48942804">https://news.ycombinator.co......
+- [Read more](https://arxiv.org/abs/2607.14431)
 
-### ThreatsDay: Game Cheat Spyware, 24-Hour Ransomware, Chrome Sync Stalking + 12 More Stories
-- **Published**: July 16, 2026
-- **Summary**: A lot of this week’s trouble starts with something that looks close enough.
-
-A familiar repo. A useful installer. A harmless sync setting. Then the ha...
-- [Read more](https://thehackernews.com/2026/07/threatsday-game-cheat-spyware-24-hour.html)
+### Stop sending giant system prompts: treat LLM tokens as a scarce resource
+- **Published**: July 17, 2026
+- **Summary**: https://www.qolca.org/blog/stop-sending-giant-system-prompts</a></p>
+<p>Comments URL: <a href="https://news.ycomb......
+- [Read more](https://www.qolca.org/blog/stop-sending-giant-system-prompts)
 
 ---
 
