@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### GhostEnv
+### Ask HN: What percentage do images take up in your computer?
 - **Published**: July 18, 2026
-- **Summary**: https://github.com/bossandboss/GhosteEnv</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48957817">https://new......
-- [Read more](https://github.com/bossandboss/GhosteEnv)
+- **Summary**: <p>Hi HN! Hope your weekend is going great.<p>I spent the last few months building a nice frontend (https://oimg.org | https://github.com/yunho-c/OIMG...
+- [Read more](https://news.ycombinator.com/item?id=48961047)
 
-### Show HN: I Didn't Write a Single Line of My Framework Code
+### AI Karma Tracker
 - **Published**: July 18, 2026
-- **Summary**: https://no-js.dev/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48957814">https://news.ycombinator.com/item?id=48957814</a><...
-- [Read more](https://no-js.dev/)
+- **Summary**: https://ai-karma-tracker.github.io/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48961030">https://news.ycombina......
+- [Read more](https://ai-karma-tracker.github.io/)
 
 ---
 
