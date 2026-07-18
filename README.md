@@ -16,17 +16,19 @@
 
 ## 🚨 Tech Stories
 
-### xAI can't deny Grok makes CSAM anymore. So it's suing users
-- **Published**: July 17, 2026
-- **Summary**: https://arstechnica.com/tech-policy/2026/07/xai-cant-deny-grok-makes-csa......
-- [Read more](https://arstechnica.com/tech-policy/2026/07/xai-cant-deny-grok-makes-csam-anymore-so-its-suing-users/)
+### Redditors Are Celebrating the Cutting Down of Flock Surveillance Towers With Based Memes
+- **Published**: July 18, 2026
+- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1uzhnhb/redditors_are_celebrating_the_cutting_down_of/"> <img alt="Redditors Are Celebratin...
+- **Keywords**: down, down
+- [Read more](https://www.reddit.com/r/technology/comments/1uzhnhb/redditors_are_celebrating_the_cutting_down_of/)
 
-### New NadMesh Botnet Hunts Exposed AI Services for Cloud Keys and Kubernetes Tokens
-- **Published**: July 17, 2026
-- **Summary**: A Go botnet called NadMesh turned up in early July hunting exposed AI services, and the operator's own dashboard claims 3,811 unique AWS keys.
+### New wp2shell WordPress Core Flaw Lets Unauthenticated Attackers Run Code
+- **Published**: July 18, 2026
+- **Summary**: An anonymous HTTP request can run code on a WordPress site. The bug is in core, so a bare install with zero plugins is exploitable.
 
-A Shod...
-- [Read more](https://thehackernews.com/2026/07/new-nadmesh-botnet-hunts-exposed-ai.html)
+Every 6.9 and 7.0...
+- **Keywords**: bug
+- [Read more](https://thehackernews.com/2026/07/new-wp2shell-wordpress-core-flaw-lets.html)
 
 ---
 
