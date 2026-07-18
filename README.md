@@ -22,13 +22,11 @@
 - **Keywords**: down, down
 - [Read more](https://www.reddit.com/r/technology/comments/1uzhnhb/redditors_are_celebrating_the_cutting_down_of/)
 
-### New wp2shell WordPress Core Flaw Lets Unauthenticated Attackers Run Code
+### Show HN: Yapp.page, publish a webpage from a Claude or ChatGPT chat
 - **Published**: July 18, 2026
-- **Summary**: An anonymous HTTP request can run code on a WordPress site. The bug is in core, so a bare install with zero plugins is exploitable.
-
-Every 6.9 and 7.0...
-- **Keywords**: bug
-- [Read more](https://thehackernews.com/2026/07/new-wp2shell-wordpress-core-flaw-lets.html)
+- **Summary**: https://yapp.page/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48956012">https://news.ycombinator.com/item?id=48956012</a><...
+- [Read more](https://yapp.page/)
 
 ---
 
