@@ -16,17 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Redditors Are Celebrating the Cutting Down of Flock Surveillance Towers With Based Memes
+### GhostEnv
 - **Published**: July 18, 2026
-- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1uzhnhb/redditors_are_celebrating_the_cutting_down_of/"> <img alt="Redditors Are Celebratin...
-- **Keywords**: down, down
-- [Read more](https://www.reddit.com/r/technology/comments/1uzhnhb/redditors_are_celebrating_the_cutting_down_of/)
+- **Summary**: https://github.com/bossandboss/GhosteEnv</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48957817">https://new......
+- [Read more](https://github.com/bossandboss/GhosteEnv)
 
-### Show HN: Yapp.page, publish a webpage from a Claude or ChatGPT chat
+### Show HN: I Didn't Write a Single Line of My Framework Code
 - **Published**: July 18, 2026
-- **Summary**: https://yapp.page/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48956012">https://news.ycombinator.com/item?id=48956012</a><...
-- [Read more](https://yapp.page/)
+- **Summary**: https://no-js.dev/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48957814">https://news.ycombinator.com/item?id=48957814</a><...
+- [Read more](https://no-js.dev/)
 
 ---
 
