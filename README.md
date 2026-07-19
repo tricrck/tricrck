@@ -16,17 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### DynamoDB Deep Dive
+### Air Force Engineer Accused of Cutting Down 13 Police Cameras Says They're Unconstitutional
 - **Published**: July 19, 2026
-- **Summary**: https://www.thetrueengineer.com/p/dynamodb-deep-dive</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?......
-- [Read more](https://www.thetrueengineer.com/p/dynamodb-deep-dive)
+- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1v0tu8w/air_force_engineer_accused_of_cutting_down_13/"> <img alt="Air Force Engineer Accus...
+- **Keywords**: down, down
+- [Read more](https://www.reddit.com/r/technology/comments/1v0tu8w/air_force_engineer_accused_of_cutting_down_13/)
 
-### Show HN: Claude Code Workflows for GPT/Codex
+### FIFA World Cup Triggers a Global Anti-Piracy Crackdown
 - **Published**: July 19, 2026
-- **Summary**: https://github.com/cyrusNuevoDia/gpt-workflow</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48967967">h......
-- [Read more](https://github.com/cyrusNuevoDia/gpt-workflow)
+- **Summary**: https://torrentfreak.com/fifa-world-cup-triggers-a-global-anti-piracy-crackdown/</a></p>
+<p>C......
+- [Read more](https://torrentfreak.com/fifa-world-cup-triggers-a-global-anti-piracy-crackdown/)
 
 ---
 
