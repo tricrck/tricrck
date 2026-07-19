@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Ask HN: What percentage do images take up in your computer?
-- **Published**: July 18, 2026
-- **Summary**: <p>Hi HN! Hope your weekend is going great.<p>I spent the last few months building a nice frontend (https://oimg.org | https://github.com/yunho-c/OIMG...
-- [Read more](https://news.ycombinator.com/item?id=48961047)
+### XRPLink – Cryptographically Verified XRP Payment Receipts, Powered by Flare FDC
+- **Published**: July 19, 2026
+- **Summary**: https://github.com/joverman/xrplink</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48964542">https://news.ycombina......
+- [Read more](https://github.com/joverman/xrplink)
 
-### AI Karma Tracker
-- **Published**: July 18, 2026
-- **Summary**: https://ai-karma-tracker.github.io/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48961030">https://news.ycombina......
-- [Read more](https://ai-karma-tracker.github.io/)
+### FDA approves new kind of cholesterol pill
+- **Published**: July 19, 2026
+- **Summary**: https://www.fda.gov/news-events/pres......
+- [Read more](https://www.fda.gov/news-events/press-announcements/fda-approves-first-oral-pcsk9-inhibitor-lower-ldl-cholesterol-adults-high-cholesterol)
 
 ---
 
