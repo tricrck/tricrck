@@ -16,16 +16,18 @@
 
 ## 🚨 Tech Stories
 
-### XRPLink – Cryptographically Verified XRP Payment Receipts, Powered by Flare FDC
+### Facebook Down
 - **Published**: July 19, 2026
-- **Summary**: https://github.com/joverman/xrplink</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48964542">https://news.ycombina......
-- [Read more](https://github.com/joverman/xrplink)
+- **Summary**: https://downdetector.co.uk/status/facebook/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48965906">https......
+- **Keywords**: down
+- [Read more](https://downdetector.co.uk/status/facebook/)
 
-### FDA approves new kind of cholesterol pill
+### Mirror your GitHub repos to tangled.org automatically
 - **Published**: July 19, 2026
-- **Summary**: https://www.fda.gov/news-events/pres......
-- [Read more](https://www.fda.gov/news-events/press-announcements/fda-approves-first-oral-pcsk9-inhibitor-lower-ldl-cholesterol-adults-high-cholesterol)
+- **Summary**: https://synchub.to/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48965918">https://news.ycombinator.com/item?id=48965918</a>...
+- [Read more](https://synchub.to/)
 
 ---
 
