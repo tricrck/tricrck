@@ -16,18 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Facebook Down
+### DynamoDB Deep Dive
 - **Published**: July 19, 2026
-- **Summary**: https://downdetector.co.uk/status/facebook/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48965906">https......
-- **Keywords**: down
-- [Read more](https://downdetector.co.uk/status/facebook/)
+- **Summary**: https://www.thetrueengineer.com/p/dynamodb-deep-dive</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?......
+- [Read more](https://www.thetrueengineer.com/p/dynamodb-deep-dive)
 
-### Mirror your GitHub repos to tangled.org automatically
+### Show HN: Claude Code Workflows for GPT/Codex
 - **Published**: July 19, 2026
-- **Summary**: https://synchub.to/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48965918">https://news.ycombinator.com/item?id=48965918</a>...
-- [Read more](https://synchub.to/)
+- **Summary**: https://github.com/cyrusNuevoDia/gpt-workflow</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48967967">h......
+- [Read more](https://github.com/cyrusNuevoDia/gpt-workflow)
 
 ---
 
