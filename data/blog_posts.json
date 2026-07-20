@@ -1,6 +1,120 @@
 {
   "chaos_ranked": [
     {
+      "title": "Exposed Server Reveals AI-Assisted Phishing Toolkit Behind WebDAV Malware Campaign",
+      "link": "https://thehackernews.com/2026/07/exposed-server-reveals-ai-assisted.html",
+      "summary": "A malware operator left its delivery server wide open, and Rapid7 pulled down the whole toolkit: 1,048 files spanning lure templates, filename-spoofing tests, execution experiments, droppers, builder ...",
+      "published": "2026-07-20T22:59:50+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 10.0,
+        "anarchy": 3.0,
+        "overall": 6.5
+      },
+      "keywords": {
+        "chaos": [
+          "down"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "HollowGraph Malware Hides C2 and Stolen Files in Microsoft 365 Events Dated 2050",
+      "link": "https://thehackernews.com/2026/07/hollowgraph-malware-hides-c2-and-stolen.html",
+      "summary": "A newly discovered espionage implant has been using a hijacked Microsoft 365 calendar as its command channel, planting operator instructions and smuggling out stolen files as attachments on calendar e...",
+      "published": "2026-07-20T20:03:43+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "NixOS is more complicated than you think but OpenCode fixed it",
+      "link": "https://grigio.org/nixos-is-more-complicated-than-you-think-but-opencode-fixed-it/",
+      "summary": "<p>Article URL: <a href=\"https://grigio.org/nixos-is-more-complicated-than-you-think-but-opencode-fixed-it/\">https://grigio.org/nixos-is-more-complicated-than-you-think-but-opencode-fixed-it/</a></p>\n...",
+      "published": "2026-07-20T19:32:37+00:00",
+      "domain": "grigio.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Every Microsecond Matters:Achieving Near SpeedOfLight Latency in GPU Collectives",
+      "link": "https://arxiv.org/abs/2607.16100",
+      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2607.16100\">https://arxiv.org/abs/2607.16100</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48983735\">https://news.ycombinator.co...",
+      "published": "2026-07-20T19:29:49+00:00",
+      "domain": "arxiv.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Kimi K3 just fixed 15 critical security bugs that Codex and Fable refused",
+      "link": "https://twitter.com/DavidSacks/status/2078984980588531855",
+      "summary": "<p>Article URL: <a href=\"https://twitter.com/DavidSacks/status/2078984980588531855\">https://twitter.com/DavidSacks/status/2078984980588531855</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator...",
+      "published": "2026-07-20T19:29:21+00:00",
+      "domain": "twitter.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Chunk of sea ice has not refrozen in West Antarctica, satellite images show",
+      "link": "https://abcnews.com/International/massive-chunk-sea-ice-refrozen-west-antarctica-satellite/story?id=133887040",
+      "summary": "<p>Article URL: <a href=\"https://abcnews.com/International/massive-chunk-sea-ice-refrozen-west-antarctica-satellite/story?id=133887040\">https://abcnews.com/International/massive-chunk-sea-ice-refrozen...",
+      "published": "2026-07-20T19:28:31+00:00",
+      "domain": "abcnews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Unsloth: Introducing AMD support",
+      "link": "https://github.com/unslothai/unsloth/releases/tag/v0.1.50-beta",
+      "summary": "<p>Article URL: <a href=\"https://github.com/unslothai/unsloth/releases/tag/v0.1.50-beta\">https://github.com/unslothai/unsloth/releases/tag/v0.1.50-beta</a></p>\n<p>Comments URL: <a href=\"https://news.y...",
+      "published": "2026-07-20T19:28:05+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "\u26a1 Weekly Recap: WordPress RCE, SonicWall 0-Days, AI Service Attacks, SharePoint 0-Day and More",
       "link": "https://thehackernews.com/2026/07/weekly-recap-wordpress-rce-sonicwall-0.html",
       "summary": "A single request should not be able to do this much. But this week, small inputs led to code execution, memory loss, stolen keys, and disabled security tools.\n\nThe paths were often simple: exposed sys...",
@@ -33,123 +147,11 @@
       }
     },
     {
-      "title": "Mythos Didn't Break Your Security Program. Your Exposure Window Could.",
-      "link": "https://thehackernews.com/2026/07/mythos-didnt-break-your-security.html",
-      "summary": "The industry spent the initial months after Anthropic's April 7 Mythos reveal focused on volume. How many new CVEs would Mythos add to an already overloaded pipeline? How quickly would the flood of AI...",
-      "published": "2026-07-20T17:00:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "New 7-Zip Vulnerability Could Let Crafted XZ Archives Run Code During Extraction",
-      "link": "https://thehackernews.com/2026/07/new-7-zip-vulnerability-could-let.html",
-      "summary": "Opening a crafted XZ archive in 7-Zip could let an attacker run code on the machine. The flaw, CVE-2026-14266, is a heap-based buffer overflow in how the archiver processes XZ chunked data, and Trend ...",
-      "published": "2026-07-20T14:40:56+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Russian-Speaking Hacker Uses Google Gemini CLI to Control Botnet of Eight Dental Clinic PCs",
-      "link": "https://thehackernews.com/2026/07/russian-speaking-hacker-uses-google.html",
-      "summary": "A solo Russian-speaking threat actor known as \"bandcampro\" outsourced a chunk of their operations to Google's open-source Gemini CLI artificial intelligence (AI) and commandeered a live botnet.\n\nThe f...",
-      "published": "2026-07-20T14:37:11+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Ask HN: Claude's Unexpected Blind Test: Users = Data = Value?",
-      "link": "https://news.ycombinator.com/item?id=48979017",
-      "summary": "<p>I asked Claude to organise my conversation logs with another leading model for me, removing company and product names. After organising some of the information, abnormal outputs began to appear. I ...",
-      "published": "2026-07-20T14:02:01+00:00",
-      "domain": "news.ycombinator.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: CodeTrain \u2013 an AI tutor that refuses to write code for you",
-      "link": "https://codetrain.ai",
-      "summary": "<p>Article URL: <a href=\"https://codetrain.ai\">https://codetrain.ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48979014\">https://news.ycombinator.com/item?id=48979014</a></...",
-      "published": "2026-07-20T14:01:43+00:00",
-      "domain": "codetrain.ai",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Tested Kimi K3 for Coding (2026)",
-      "link": "https://www.dotnetperls.com/2026_7_18_tested-kimi-k3-coding",
-      "summary": "<p>Article URL: <a href=\"https://www.dotnetperls.com/2026_7_18_tested-kimi-k3-coding\">https://www.dotnetperls.com/2026_7_18_tested-kimi-k3-coding</a></p>\n<p>Comments URL: <a href=\"https://news.ycombin...",
-      "published": "2026-07-20T14:01:33+00:00",
-      "domain": "dotnetperls.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Frequently Asked Questions on Expertise",
-      "link": "https://jtpeterson.substack.com/p/faq-on-expertise",
-      "summary": "<p>Article URL: <a href=\"https://jtpeterson.substack.com/p/faq-on-expertise\">https://jtpeterson.substack.com/p/faq-on-expertise</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4...",
-      "published": "2026-07-20T14:00:29+00:00",
-      "domain": "jtpeterson.substack.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Meta Garbage Collection: Using OCaml's GC to GC Rust",
-      "link": "https://soteria-tools.com/blog/meta-garbage-collection",
-      "summary": "<p>Article URL: <a href=\"https://soteria-tools.com/blog/meta-garbage-collection\">https://soteria-tools.com/blog/meta-garbage-collection</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/i...",
-      "published": "2026-07-20T13:59:49+00:00",
-      "domain": "soteria-tools.com",
+      "title": "Hyprland 0.55 announced the switch to Lua for its config files",
+      "link": "https://hypr.land/news/update55/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48982011\">Comments</a>...",
+      "published": "2026-07-20T17:31:57+00:00",
+      "domain": "hypr.land",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -163,6 +165,120 @@
   ],
   "anarchy_ranked": [
     {
+      "title": "Exposed Server Reveals AI-Assisted Phishing Toolkit Behind WebDAV Malware Campaign",
+      "link": "https://thehackernews.com/2026/07/exposed-server-reveals-ai-assisted.html",
+      "summary": "A malware operator left its delivery server wide open, and Rapid7 pulled down the whole toolkit: 1,048 files spanning lure templates, filename-spoofing tests, execution experiments, droppers, builder ...",
+      "published": "2026-07-20T22:59:50+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 10.0,
+        "anarchy": 3.0,
+        "overall": 6.5
+      },
+      "keywords": {
+        "chaos": [
+          "down"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "HollowGraph Malware Hides C2 and Stolen Files in Microsoft 365 Events Dated 2050",
+      "link": "https://thehackernews.com/2026/07/hollowgraph-malware-hides-c2-and-stolen.html",
+      "summary": "A newly discovered espionage implant has been using a hijacked Microsoft 365 calendar as its command channel, planting operator instructions and smuggling out stolen files as attachments on calendar e...",
+      "published": "2026-07-20T20:03:43+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "NixOS is more complicated than you think but OpenCode fixed it",
+      "link": "https://grigio.org/nixos-is-more-complicated-than-you-think-but-opencode-fixed-it/",
+      "summary": "<p>Article URL: <a href=\"https://grigio.org/nixos-is-more-complicated-than-you-think-but-opencode-fixed-it/\">https://grigio.org/nixos-is-more-complicated-than-you-think-but-opencode-fixed-it/</a></p>\n...",
+      "published": "2026-07-20T19:32:37+00:00",
+      "domain": "grigio.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Every Microsecond Matters:Achieving Near SpeedOfLight Latency in GPU Collectives",
+      "link": "https://arxiv.org/abs/2607.16100",
+      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2607.16100\">https://arxiv.org/abs/2607.16100</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48983735\">https://news.ycombinator.co...",
+      "published": "2026-07-20T19:29:49+00:00",
+      "domain": "arxiv.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Kimi K3 just fixed 15 critical security bugs that Codex and Fable refused",
+      "link": "https://twitter.com/DavidSacks/status/2078984980588531855",
+      "summary": "<p>Article URL: <a href=\"https://twitter.com/DavidSacks/status/2078984980588531855\">https://twitter.com/DavidSacks/status/2078984980588531855</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator...",
+      "published": "2026-07-20T19:29:21+00:00",
+      "domain": "twitter.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Chunk of sea ice has not refrozen in West Antarctica, satellite images show",
+      "link": "https://abcnews.com/International/massive-chunk-sea-ice-refrozen-west-antarctica-satellite/story?id=133887040",
+      "summary": "<p>Article URL: <a href=\"https://abcnews.com/International/massive-chunk-sea-ice-refrozen-west-antarctica-satellite/story?id=133887040\">https://abcnews.com/International/massive-chunk-sea-ice-refrozen...",
+      "published": "2026-07-20T19:28:31+00:00",
+      "domain": "abcnews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Unsloth: Introducing AMD support",
+      "link": "https://github.com/unslothai/unsloth/releases/tag/v0.1.50-beta",
+      "summary": "<p>Article URL: <a href=\"https://github.com/unslothai/unsloth/releases/tag/v0.1.50-beta\">https://github.com/unslothai/unsloth/releases/tag/v0.1.50-beta</a></p>\n<p>Comments URL: <a href=\"https://news.y...",
+      "published": "2026-07-20T19:28:05+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "\u26a1 Weekly Recap: WordPress RCE, SonicWall 0-Days, AI Service Attacks, SharePoint 0-Day and More",
       "link": "https://thehackernews.com/2026/07/weekly-recap-wordpress-rce-sonicwall-0.html",
       "summary": "A single request should not be able to do this much. But this week, small inputs led to code execution, memory loss, stolen keys, and disabled security tools.\n\nThe paths were often simple: exposed sys...",
@@ -195,123 +311,11 @@
       }
     },
     {
-      "title": "Mythos Didn't Break Your Security Program. Your Exposure Window Could.",
-      "link": "https://thehackernews.com/2026/07/mythos-didnt-break-your-security.html",
-      "summary": "The industry spent the initial months after Anthropic's April 7 Mythos reveal focused on volume. How many new CVEs would Mythos add to an already overloaded pipeline? How quickly would the flood of AI...",
-      "published": "2026-07-20T17:00:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "New 7-Zip Vulnerability Could Let Crafted XZ Archives Run Code During Extraction",
-      "link": "https://thehackernews.com/2026/07/new-7-zip-vulnerability-could-let.html",
-      "summary": "Opening a crafted XZ archive in 7-Zip could let an attacker run code on the machine. The flaw, CVE-2026-14266, is a heap-based buffer overflow in how the archiver processes XZ chunked data, and Trend ...",
-      "published": "2026-07-20T14:40:56+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Russian-Speaking Hacker Uses Google Gemini CLI to Control Botnet of Eight Dental Clinic PCs",
-      "link": "https://thehackernews.com/2026/07/russian-speaking-hacker-uses-google.html",
-      "summary": "A solo Russian-speaking threat actor known as \"bandcampro\" outsourced a chunk of their operations to Google's open-source Gemini CLI artificial intelligence (AI) and commandeered a live botnet.\n\nThe f...",
-      "published": "2026-07-20T14:37:11+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Ask HN: Claude's Unexpected Blind Test: Users = Data = Value?",
-      "link": "https://news.ycombinator.com/item?id=48979017",
-      "summary": "<p>I asked Claude to organise my conversation logs with another leading model for me, removing company and product names. After organising some of the information, abnormal outputs began to appear. I ...",
-      "published": "2026-07-20T14:02:01+00:00",
-      "domain": "news.ycombinator.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: CodeTrain \u2013 an AI tutor that refuses to write code for you",
-      "link": "https://codetrain.ai",
-      "summary": "<p>Article URL: <a href=\"https://codetrain.ai\">https://codetrain.ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48979014\">https://news.ycombinator.com/item?id=48979014</a></...",
-      "published": "2026-07-20T14:01:43+00:00",
-      "domain": "codetrain.ai",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Tested Kimi K3 for Coding (2026)",
-      "link": "https://www.dotnetperls.com/2026_7_18_tested-kimi-k3-coding",
-      "summary": "<p>Article URL: <a href=\"https://www.dotnetperls.com/2026_7_18_tested-kimi-k3-coding\">https://www.dotnetperls.com/2026_7_18_tested-kimi-k3-coding</a></p>\n<p>Comments URL: <a href=\"https://news.ycombin...",
-      "published": "2026-07-20T14:01:33+00:00",
-      "domain": "dotnetperls.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Frequently Asked Questions on Expertise",
-      "link": "https://jtpeterson.substack.com/p/faq-on-expertise",
-      "summary": "<p>Article URL: <a href=\"https://jtpeterson.substack.com/p/faq-on-expertise\">https://jtpeterson.substack.com/p/faq-on-expertise</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4...",
-      "published": "2026-07-20T14:00:29+00:00",
-      "domain": "jtpeterson.substack.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Meta Garbage Collection: Using OCaml's GC to GC Rust",
-      "link": "https://soteria-tools.com/blog/meta-garbage-collection",
-      "summary": "<p>Article URL: <a href=\"https://soteria-tools.com/blog/meta-garbage-collection\">https://soteria-tools.com/blog/meta-garbage-collection</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/i...",
-      "published": "2026-07-20T13:59:49+00:00",
-      "domain": "soteria-tools.com",
+      "title": "Hyprland 0.55 announced the switch to Lua for its config files",
+      "link": "https://hypr.land/news/update55/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48982011\">Comments</a>...",
+      "published": "2026-07-20T17:31:57+00:00",
+      "domain": "hypr.land",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -325,6 +329,120 @@
   ],
   "overall_ranked": [
     {
+      "title": "Exposed Server Reveals AI-Assisted Phishing Toolkit Behind WebDAV Malware Campaign",
+      "link": "https://thehackernews.com/2026/07/exposed-server-reveals-ai-assisted.html",
+      "summary": "A malware operator left its delivery server wide open, and Rapid7 pulled down the whole toolkit: 1,048 files spanning lure templates, filename-spoofing tests, execution experiments, droppers, builder ...",
+      "published": "2026-07-20T22:59:50+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 10.0,
+        "anarchy": 3.0,
+        "overall": 6.5
+      },
+      "keywords": {
+        "chaos": [
+          "down"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "HollowGraph Malware Hides C2 and Stolen Files in Microsoft 365 Events Dated 2050",
+      "link": "https://thehackernews.com/2026/07/hollowgraph-malware-hides-c2-and-stolen.html",
+      "summary": "A newly discovered espionage implant has been using a hijacked Microsoft 365 calendar as its command channel, planting operator instructions and smuggling out stolen files as attachments on calendar e...",
+      "published": "2026-07-20T20:03:43+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "NixOS is more complicated than you think but OpenCode fixed it",
+      "link": "https://grigio.org/nixos-is-more-complicated-than-you-think-but-opencode-fixed-it/",
+      "summary": "<p>Article URL: <a href=\"https://grigio.org/nixos-is-more-complicated-than-you-think-but-opencode-fixed-it/\">https://grigio.org/nixos-is-more-complicated-than-you-think-but-opencode-fixed-it/</a></p>\n...",
+      "published": "2026-07-20T19:32:37+00:00",
+      "domain": "grigio.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Every Microsecond Matters:Achieving Near SpeedOfLight Latency in GPU Collectives",
+      "link": "https://arxiv.org/abs/2607.16100",
+      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2607.16100\">https://arxiv.org/abs/2607.16100</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48983735\">https://news.ycombinator.co...",
+      "published": "2026-07-20T19:29:49+00:00",
+      "domain": "arxiv.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Kimi K3 just fixed 15 critical security bugs that Codex and Fable refused",
+      "link": "https://twitter.com/DavidSacks/status/2078984980588531855",
+      "summary": "<p>Article URL: <a href=\"https://twitter.com/DavidSacks/status/2078984980588531855\">https://twitter.com/DavidSacks/status/2078984980588531855</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator...",
+      "published": "2026-07-20T19:29:21+00:00",
+      "domain": "twitter.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Chunk of sea ice has not refrozen in West Antarctica, satellite images show",
+      "link": "https://abcnews.com/International/massive-chunk-sea-ice-refrozen-west-antarctica-satellite/story?id=133887040",
+      "summary": "<p>Article URL: <a href=\"https://abcnews.com/International/massive-chunk-sea-ice-refrozen-west-antarctica-satellite/story?id=133887040\">https://abcnews.com/International/massive-chunk-sea-ice-refrozen...",
+      "published": "2026-07-20T19:28:31+00:00",
+      "domain": "abcnews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Unsloth: Introducing AMD support",
+      "link": "https://github.com/unslothai/unsloth/releases/tag/v0.1.50-beta",
+      "summary": "<p>Article URL: <a href=\"https://github.com/unslothai/unsloth/releases/tag/v0.1.50-beta\">https://github.com/unslothai/unsloth/releases/tag/v0.1.50-beta</a></p>\n<p>Comments URL: <a href=\"https://news.y...",
+      "published": "2026-07-20T19:28:05+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "\u26a1 Weekly Recap: WordPress RCE, SonicWall 0-Days, AI Service Attacks, SharePoint 0-Day and More",
       "link": "https://thehackernews.com/2026/07/weekly-recap-wordpress-rce-sonicwall-0.html",
       "summary": "A single request should not be able to do this much. But this week, small inputs led to code execution, memory loss, stolen keys, and disabled security tools.\n\nThe paths were often simple: exposed sys...",
@@ -357,123 +475,11 @@
       }
     },
     {
-      "title": "Mythos Didn't Break Your Security Program. Your Exposure Window Could.",
-      "link": "https://thehackernews.com/2026/07/mythos-didnt-break-your-security.html",
-      "summary": "The industry spent the initial months after Anthropic's April 7 Mythos reveal focused on volume. How many new CVEs would Mythos add to an already overloaded pipeline? How quickly would the flood of AI...",
-      "published": "2026-07-20T17:00:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "New 7-Zip Vulnerability Could Let Crafted XZ Archives Run Code During Extraction",
-      "link": "https://thehackernews.com/2026/07/new-7-zip-vulnerability-could-let.html",
-      "summary": "Opening a crafted XZ archive in 7-Zip could let an attacker run code on the machine. The flaw, CVE-2026-14266, is a heap-based buffer overflow in how the archiver processes XZ chunked data, and Trend ...",
-      "published": "2026-07-20T14:40:56+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Russian-Speaking Hacker Uses Google Gemini CLI to Control Botnet of Eight Dental Clinic PCs",
-      "link": "https://thehackernews.com/2026/07/russian-speaking-hacker-uses-google.html",
-      "summary": "A solo Russian-speaking threat actor known as \"bandcampro\" outsourced a chunk of their operations to Google's open-source Gemini CLI artificial intelligence (AI) and commandeered a live botnet.\n\nThe f...",
-      "published": "2026-07-20T14:37:11+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Ask HN: Claude's Unexpected Blind Test: Users = Data = Value?",
-      "link": "https://news.ycombinator.com/item?id=48979017",
-      "summary": "<p>I asked Claude to organise my conversation logs with another leading model for me, removing company and product names. After organising some of the information, abnormal outputs began to appear. I ...",
-      "published": "2026-07-20T14:02:01+00:00",
-      "domain": "news.ycombinator.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: CodeTrain \u2013 an AI tutor that refuses to write code for you",
-      "link": "https://codetrain.ai",
-      "summary": "<p>Article URL: <a href=\"https://codetrain.ai\">https://codetrain.ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48979014\">https://news.ycombinator.com/item?id=48979014</a></...",
-      "published": "2026-07-20T14:01:43+00:00",
-      "domain": "codetrain.ai",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Tested Kimi K3 for Coding (2026)",
-      "link": "https://www.dotnetperls.com/2026_7_18_tested-kimi-k3-coding",
-      "summary": "<p>Article URL: <a href=\"https://www.dotnetperls.com/2026_7_18_tested-kimi-k3-coding\">https://www.dotnetperls.com/2026_7_18_tested-kimi-k3-coding</a></p>\n<p>Comments URL: <a href=\"https://news.ycombin...",
-      "published": "2026-07-20T14:01:33+00:00",
-      "domain": "dotnetperls.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Frequently Asked Questions on Expertise",
-      "link": "https://jtpeterson.substack.com/p/faq-on-expertise",
-      "summary": "<p>Article URL: <a href=\"https://jtpeterson.substack.com/p/faq-on-expertise\">https://jtpeterson.substack.com/p/faq-on-expertise</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4...",
-      "published": "2026-07-20T14:00:29+00:00",
-      "domain": "jtpeterson.substack.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Meta Garbage Collection: Using OCaml's GC to GC Rust",
-      "link": "https://soteria-tools.com/blog/meta-garbage-collection",
-      "summary": "<p>Article URL: <a href=\"https://soteria-tools.com/blog/meta-garbage-collection\">https://soteria-tools.com/blog/meta-garbage-collection</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/i...",
-      "published": "2026-07-20T13:59:49+00:00",
-      "domain": "soteria-tools.com",
+      "title": "Hyprland 0.55 announced the switch to Lua for its config files",
+      "link": "https://hypr.land/news/update55/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48982011\">Comments</a>...",
+      "published": "2026-07-20T17:31:57+00:00",
+      "domain": "hypr.land",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -487,6 +493,120 @@
   ],
   "all_articles": [
     {
+      "title": "Exposed Server Reveals AI-Assisted Phishing Toolkit Behind WebDAV Malware Campaign",
+      "link": "https://thehackernews.com/2026/07/exposed-server-reveals-ai-assisted.html",
+      "summary": "A malware operator left its delivery server wide open, and Rapid7 pulled down the whole toolkit: 1,048 files spanning lure templates, filename-spoofing tests, execution experiments, droppers, builder ...",
+      "published": "2026-07-20T22:59:50+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 10.0,
+        "anarchy": 3.0,
+        "overall": 6.5
+      },
+      "keywords": {
+        "chaos": [
+          "down"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "HollowGraph Malware Hides C2 and Stolen Files in Microsoft 365 Events Dated 2050",
+      "link": "https://thehackernews.com/2026/07/hollowgraph-malware-hides-c2-and-stolen.html",
+      "summary": "A newly discovered espionage implant has been using a hijacked Microsoft 365 calendar as its command channel, planting operator instructions and smuggling out stolen files as attachments on calendar e...",
+      "published": "2026-07-20T20:03:43+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "NixOS is more complicated than you think but OpenCode fixed it",
+      "link": "https://grigio.org/nixos-is-more-complicated-than-you-think-but-opencode-fixed-it/",
+      "summary": "<p>Article URL: <a href=\"https://grigio.org/nixos-is-more-complicated-than-you-think-but-opencode-fixed-it/\">https://grigio.org/nixos-is-more-complicated-than-you-think-but-opencode-fixed-it/</a></p>\n...",
+      "published": "2026-07-20T19:32:37+00:00",
+      "domain": "grigio.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Every Microsecond Matters:Achieving Near SpeedOfLight Latency in GPU Collectives",
+      "link": "https://arxiv.org/abs/2607.16100",
+      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2607.16100\">https://arxiv.org/abs/2607.16100</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48983735\">https://news.ycombinator.co...",
+      "published": "2026-07-20T19:29:49+00:00",
+      "domain": "arxiv.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Kimi K3 just fixed 15 critical security bugs that Codex and Fable refused",
+      "link": "https://twitter.com/DavidSacks/status/2078984980588531855",
+      "summary": "<p>Article URL: <a href=\"https://twitter.com/DavidSacks/status/2078984980588531855\">https://twitter.com/DavidSacks/status/2078984980588531855</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator...",
+      "published": "2026-07-20T19:29:21+00:00",
+      "domain": "twitter.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Chunk of sea ice has not refrozen in West Antarctica, satellite images show",
+      "link": "https://abcnews.com/International/massive-chunk-sea-ice-refrozen-west-antarctica-satellite/story?id=133887040",
+      "summary": "<p>Article URL: <a href=\"https://abcnews.com/International/massive-chunk-sea-ice-refrozen-west-antarctica-satellite/story?id=133887040\">https://abcnews.com/International/massive-chunk-sea-ice-refrozen...",
+      "published": "2026-07-20T19:28:31+00:00",
+      "domain": "abcnews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Unsloth: Introducing AMD support",
+      "link": "https://github.com/unslothai/unsloth/releases/tag/v0.1.50-beta",
+      "summary": "<p>Article URL: <a href=\"https://github.com/unslothai/unsloth/releases/tag/v0.1.50-beta\">https://github.com/unslothai/unsloth/releases/tag/v0.1.50-beta</a></p>\n<p>Comments URL: <a href=\"https://news.y...",
+      "published": "2026-07-20T19:28:05+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "\u26a1 Weekly Recap: WordPress RCE, SonicWall 0-Days, AI Service Attacks, SharePoint 0-Day and More",
       "link": "https://thehackernews.com/2026/07/weekly-recap-wordpress-rce-sonicwall-0.html",
       "summary": "A single request should not be able to do this much. But this week, small inputs led to code execution, memory loss, stolen keys, and disabled security tools.\n\nThe paths were often simple: exposed sys...",
@@ -519,123 +639,11 @@
       }
     },
     {
-      "title": "Mythos Didn't Break Your Security Program. Your Exposure Window Could.",
-      "link": "https://thehackernews.com/2026/07/mythos-didnt-break-your-security.html",
-      "summary": "The industry spent the initial months after Anthropic's April 7 Mythos reveal focused on volume. How many new CVEs would Mythos add to an already overloaded pipeline? How quickly would the flood of AI...",
-      "published": "2026-07-20T17:00:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "New 7-Zip Vulnerability Could Let Crafted XZ Archives Run Code During Extraction",
-      "link": "https://thehackernews.com/2026/07/new-7-zip-vulnerability-could-let.html",
-      "summary": "Opening a crafted XZ archive in 7-Zip could let an attacker run code on the machine. The flaw, CVE-2026-14266, is a heap-based buffer overflow in how the archiver processes XZ chunked data, and Trend ...",
-      "published": "2026-07-20T14:40:56+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Russian-Speaking Hacker Uses Google Gemini CLI to Control Botnet of Eight Dental Clinic PCs",
-      "link": "https://thehackernews.com/2026/07/russian-speaking-hacker-uses-google.html",
-      "summary": "A solo Russian-speaking threat actor known as \"bandcampro\" outsourced a chunk of their operations to Google's open-source Gemini CLI artificial intelligence (AI) and commandeered a live botnet.\n\nThe f...",
-      "published": "2026-07-20T14:37:11+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Ask HN: Claude's Unexpected Blind Test: Users = Data = Value?",
-      "link": "https://news.ycombinator.com/item?id=48979017",
-      "summary": "<p>I asked Claude to organise my conversation logs with another leading model for me, removing company and product names. After organising some of the information, abnormal outputs began to appear. I ...",
-      "published": "2026-07-20T14:02:01+00:00",
-      "domain": "news.ycombinator.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: CodeTrain \u2013 an AI tutor that refuses to write code for you",
-      "link": "https://codetrain.ai",
-      "summary": "<p>Article URL: <a href=\"https://codetrain.ai\">https://codetrain.ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48979014\">https://news.ycombinator.com/item?id=48979014</a></...",
-      "published": "2026-07-20T14:01:43+00:00",
-      "domain": "codetrain.ai",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Tested Kimi K3 for Coding (2026)",
-      "link": "https://www.dotnetperls.com/2026_7_18_tested-kimi-k3-coding",
-      "summary": "<p>Article URL: <a href=\"https://www.dotnetperls.com/2026_7_18_tested-kimi-k3-coding\">https://www.dotnetperls.com/2026_7_18_tested-kimi-k3-coding</a></p>\n<p>Comments URL: <a href=\"https://news.ycombin...",
-      "published": "2026-07-20T14:01:33+00:00",
-      "domain": "dotnetperls.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Frequently Asked Questions on Expertise",
-      "link": "https://jtpeterson.substack.com/p/faq-on-expertise",
-      "summary": "<p>Article URL: <a href=\"https://jtpeterson.substack.com/p/faq-on-expertise\">https://jtpeterson.substack.com/p/faq-on-expertise</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4...",
-      "published": "2026-07-20T14:00:29+00:00",
-      "domain": "jtpeterson.substack.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Meta Garbage Collection: Using OCaml's GC to GC Rust",
-      "link": "https://soteria-tools.com/blog/meta-garbage-collection",
-      "summary": "<p>Article URL: <a href=\"https://soteria-tools.com/blog/meta-garbage-collection\">https://soteria-tools.com/blog/meta-garbage-collection</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/i...",
-      "published": "2026-07-20T13:59:49+00:00",
-      "domain": "soteria-tools.com",
+      "title": "Hyprland 0.55 announced the switch to Lua for its config files",
+      "link": "https://hypr.land/news/update55/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48982011\">Comments</a>...",
+      "published": "2026-07-20T17:31:57+00:00",
+      "domain": "hypr.land",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,

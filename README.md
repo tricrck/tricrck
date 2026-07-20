@@ -16,15 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### ⚡ Weekly Recap: WordPress RCE, SonicWall 0-Days, AI Service Attacks, SharePoint 0-Day and More
+### Exposed Server Reveals AI-Assisted Phishing Toolkit Behind WebDAV Malware Campaign
 - **Published**: July 20, 2026
-- **Summary**: A single request should not be able to do this much. But this week, small inputs led to code execution, memory loss, stolen keys, and disabled securit...
-- [Read more](https://thehackernews.com/2026/07/weekly-recap-wordpress-rce-sonicwall-0.html)
+- **Summary**: A malware operator left its delivery server wide open, and Rapid7 pulled down the whole toolkit: 1,048 files spanning lure templates, filename-spoofin...
+- **Keywords**: down
+- [Read more](https://thehackernews.com/2026/07/exposed-server-reveals-ai-assisted.html)
 
-### Russian Intelligence Hacks IP Cameras to Spy on Military Logistics Across NATO States and Ukraine
+### HollowGraph Malware Hides C2 and Stolen Files in Microsoft 365 Events Dated 2050
 - **Published**: July 20, 2026
-- **Summary**: At least one Russian intelligence service is systematically hijacking internet-connected security cameras across Europe and Ukraine, using the feeds t...
-- [Read more](https://thehackernews.com/2026/07/russian-intelligence-hacks-ip-cameras.html)
+- **Summary**: A newly discovered espionage implant has been using a hijacked Microsoft 365 calendar as its command channel, planting operator instructions and smugg...
+- [Read more](https://thehackernews.com/2026/07/hollowgraph-malware-hides-c2-and-stolen.html)
 
 ---
 
