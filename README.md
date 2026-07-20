@@ -16,18 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Critical NGINX Vulnerability Can Crash Workers and May Allow Remote Code Execution
+### ⚡ Weekly Recap: WordPress RCE, SonicWall 0-Days, AI Service Attacks, SharePoint 0-Day and More
 - **Published**: July 20, 2026
-- **Summary**: F5 has shipped fixes for a critical nginx flaw that lets a remote, unauthenticated attacker trigger a heap buffer overflow in the worker process with ...
-- **Keywords**: crash
-- [Read more](https://thehackernews.com/2026/07/critical-nginx-vulnerability-can-crash.html)
+- **Summary**: A single request should not be able to do this much. But this week, small inputs led to code execution, memory loss, stolen keys, and disabled securit...
+- [Read more](https://thehackernews.com/2026/07/weekly-recap-wordpress-rce-sonicwall-0.html)
 
-### Tornado VPS services and website are down
+### Russian Intelligence Hacks IP Cameras to Spy on Military Logistics Across NATO States and Ukraine
 - **Published**: July 20, 2026
-- **Summary**: https://www.whtop.com/review/tornadovps.com</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48976125">https......
-- **Keywords**: down
-- [Read more](https://www.whtop.com/review/tornadovps.com)
+- **Summary**: At least one Russian intelligence service is systematically hijacking internet-connected security cameras across Europe and Ukraine, using the feeds t...
+- [Read more](https://thehackernews.com/2026/07/russian-intelligence-hacks-ip-cameras.html)
 
 ---
 

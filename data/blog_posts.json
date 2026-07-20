@@ -1,65 +1,10 @@
 {
   "chaos_ranked": [
     {
-      "title": "Critical NGINX Vulnerability Can Crash Workers and May Allow Remote Code Execution",
-      "link": "https://thehackernews.com/2026/07/critical-nginx-vulnerability-can-crash.html",
-      "summary": "F5 has shipped fixes for a critical nginx flaw that lets a remote, unauthenticated attacker trigger a heap buffer overflow in the worker process with crafted HTTP requests. CVE-2026-42533 was patched ...",
-      "published": "2026-07-20T02:12:49+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 15.4,
-        "anarchy": 3.0,
-        "overall": 9.2
-      },
-      "keywords": {
-        "chaos": [
-          "crash"
-        ],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Tornado VPS services and website are down",
-      "link": "https://www.whtop.com/review/tornadovps.com",
-      "summary": "<p>Article URL: <a href=\"https://www.whtop.com/review/tornadovps.com\">https://www.whtop.com/review/tornadovps.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48976125\">https...",
-      "published": "2026-07-20T09:05:10+00:00",
-      "domain": "whtop.com",
-      "scores": {
-        "chaos": 9.8,
-        "anarchy": 3.0,
-        "overall": 6.4
-      },
-      "keywords": {
-        "chaos": [
-          "down"
-        ],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "World's Largest AI Model Repository Hugging Face Breached by Autonomous AI Agent",
-      "link": "https://thehackernews.com/2026/07/worlds-largest-ai-model-repository.html",
-      "summary": "In an ironic twist, open-source artificial intelligence (AI) platform Hugging Face revealed that it was the victim of a hack perpetrated by an autonomous AI agent system.\n\nThe company said it detected...",
-      "published": "2026-07-20T10:57:26+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 21.3,
-        "overall": 12.1
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": [
-          "autonomous",
-          "autonomous"
-        ]
-      }
-    },
-    {
-      "title": "SleeperGem Uses Three Malicious RubyGems Packages to Target Developer Machines",
-      "link": "https://thehackernews.com/2026/07/sleepergem-uses-three-malicious.html",
-      "summary": "Cybersecurity researchers have flagged a new software supply chain attack codenamed SleeperGem targeting the Ruby ecosystem after three malicious gems were published to RubyGems with the end goal of s...",
-      "published": "2026-07-20T10:45:39+05:30",
+      "title": "\u26a1 Weekly Recap: WordPress RCE, SonicWall 0-Days, AI Service Attacks, SharePoint 0-Day and More",
+      "link": "https://thehackernews.com/2026/07/weekly-recap-wordpress-rce-sonicwall-0.html",
+      "summary": "A single request should not be able to do this much. But this week, small inputs led to code execution, memory loss, stolen keys, and disabled security tools.\n\nThe paths were often simple: exposed sys...",
+      "published": "2026-07-20T19:02:26+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -72,11 +17,11 @@
       }
     },
     {
-      "title": "A Field Guide to the Flags of the Far Right: From Betsy Ross to Trump-Rambo",
-      "link": "https://www.theatlantic.com/magazine/archive/2024/09/us-far-right-trump-flags/679154/",
-      "summary": "<p>Article URL: <a href=\"https://www.theatlantic.com/magazine/archive/2024/09/us-far-right-trump-flags/679154/\">https://www.theatlantic.com/magazine/archive/2024/09/us-far-right-trump-flags/679154/</a...",
-      "published": "2026-07-20T09:09:18+00:00",
-      "domain": "theatlantic.com",
+      "title": "Russian Intelligence Hacks IP Cameras to Spy on Military Logistics Across NATO States and Ukraine",
+      "link": "https://thehackernews.com/2026/07/russian-intelligence-hacks-ip-cameras.html",
+      "summary": "At least one Russian intelligence service is systematically hijacking internet-connected security cameras across Europe and Ukraine, using the feeds to watch military transport routes, weapons shipmen...",
+      "published": "2026-07-20T17:43:39+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -88,11 +33,11 @@
       }
     },
     {
-      "title": "Show HN: A free Minecraft skin editor",
-      "link": "https://www.hamza.se/blog/mineskin-pro",
-      "summary": "<p>Article URL: <a href=\"https://www.hamza.se/blog/mineskin-pro\">https://www.hamza.se/blog/mineskin-pro</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48976154\">https://news.yc...",
-      "published": "2026-07-20T09:09:00+00:00",
-      "domain": "hamza.se",
+      "title": "Mythos Didn't Break Your Security Program. Your Exposure Window Could.",
+      "link": "https://thehackernews.com/2026/07/mythos-didnt-break-your-security.html",
+      "summary": "The industry spent the initial months after Anthropic's April 7 Mythos reveal focused on volume. How many new CVEs would Mythos add to an already overloaded pipeline? How quickly would the flood of AI...",
+      "published": "2026-07-20T17:00:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -104,11 +49,11 @@
       }
     },
     {
-      "title": "Windows tool for automatic TV volume leveling",
-      "link": "https://github.com/AdBusterOfficial",
-      "summary": "<p>Article URL: <a href=\"https://github.com/AdBusterOfficial\">https://github.com/AdBusterOfficial</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48976146\">https://news.ycombina...",
-      "published": "2026-07-20T09:08:00+00:00",
-      "domain": "github.com",
+      "title": "New 7-Zip Vulnerability Could Let Crafted XZ Archives Run Code During Extraction",
+      "link": "https://thehackernews.com/2026/07/new-7-zip-vulnerability-could-let.html",
+      "summary": "Opening a crafted XZ archive in 7-Zip could let an attacker run code on the machine. The flaw, CVE-2026-14266, is a heap-based buffer overflow in how the archiver processes XZ chunked data, and Trend ...",
+      "published": "2026-07-20T14:40:56+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -120,11 +65,11 @@
       }
     },
     {
-      "title": "A mass archive of weird, wonderful websites",
-      "link": "https://www.are.na/tom/www-t_kopepmelw",
-      "summary": "<p>Article URL: <a href=\"https://www.are.na/tom/www-t_kopepmelw\">https://www.are.na/tom/www-t_kopepmelw</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48976114\">https://news.yc...",
-      "published": "2026-07-20T09:03:40+00:00",
-      "domain": "are.na",
+      "title": "Russian-Speaking Hacker Uses Google Gemini CLI to Control Botnet of Eight Dental Clinic PCs",
+      "link": "https://thehackernews.com/2026/07/russian-speaking-hacker-uses-google.html",
+      "summary": "A solo Russian-speaking threat actor known as \"bandcampro\" outsourced a chunk of their operations to Google's open-source Gemini CLI artificial intelligence (AI) and commandeered a live botnet.\n\nThe f...",
+      "published": "2026-07-20T14:37:11+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -136,11 +81,11 @@
       }
     },
     {
-      "title": "Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25",
-      "link": "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48975665\">Comments</a>...",
-      "published": "2026-07-20T08:13:36+00:00",
-      "domain": "slcyber.io",
+      "title": "Ask HN: Claude's Unexpected Blind Test: Users = Data = Value?",
+      "link": "https://news.ycombinator.com/item?id=48979017",
+      "summary": "<p>I asked Claude to organise my conversation logs with another leading model for me, removing company and product names. After organising some of the information, abnormal outputs began to appear. I ...",
+      "published": "2026-07-20T14:02:01+00:00",
+      "domain": "news.ycombinator.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -152,11 +97,59 @@
       }
     },
     {
-      "title": "LoRA Speedrun \u2013 a public wall-clock leaderboard for fine-tuning techniques",
-      "link": "https://github.com/Saivineeth147/lora-speedrun",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48974325\">Comments</a>...",
-      "published": "2026-07-20T04:24:48+00:00",
-      "domain": "github.com",
+      "title": "Show HN: CodeTrain \u2013 an AI tutor that refuses to write code for you",
+      "link": "https://codetrain.ai",
+      "summary": "<p>Article URL: <a href=\"https://codetrain.ai\">https://codetrain.ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48979014\">https://news.ycombinator.com/item?id=48979014</a></...",
+      "published": "2026-07-20T14:01:43+00:00",
+      "domain": "codetrain.ai",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Tested Kimi K3 for Coding (2026)",
+      "link": "https://www.dotnetperls.com/2026_7_18_tested-kimi-k3-coding",
+      "summary": "<p>Article URL: <a href=\"https://www.dotnetperls.com/2026_7_18_tested-kimi-k3-coding\">https://www.dotnetperls.com/2026_7_18_tested-kimi-k3-coding</a></p>\n<p>Comments URL: <a href=\"https://news.ycombin...",
+      "published": "2026-07-20T14:01:33+00:00",
+      "domain": "dotnetperls.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Frequently Asked Questions on Expertise",
+      "link": "https://jtpeterson.substack.com/p/faq-on-expertise",
+      "summary": "<p>Article URL: <a href=\"https://jtpeterson.substack.com/p/faq-on-expertise\">https://jtpeterson.substack.com/p/faq-on-expertise</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4...",
+      "published": "2026-07-20T14:00:29+00:00",
+      "domain": "jtpeterson.substack.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Meta Garbage Collection: Using OCaml's GC to GC Rust",
+      "link": "https://soteria-tools.com/blog/meta-garbage-collection",
+      "summary": "<p>Article URL: <a href=\"https://soteria-tools.com/blog/meta-garbage-collection\">https://soteria-tools.com/blog/meta-garbage-collection</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/i...",
+      "published": "2026-07-20T13:59:49+00:00",
+      "domain": "soteria-tools.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -170,29 +163,10 @@
   ],
   "anarchy_ranked": [
     {
-      "title": "World's Largest AI Model Repository Hugging Face Breached by Autonomous AI Agent",
-      "link": "https://thehackernews.com/2026/07/worlds-largest-ai-model-repository.html",
-      "summary": "In an ironic twist, open-source artificial intelligence (AI) platform Hugging Face revealed that it was the victim of a hack perpetrated by an autonomous AI agent system.\n\nThe company said it detected...",
-      "published": "2026-07-20T10:57:26+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 21.3,
-        "overall": 12.1
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": [
-          "autonomous",
-          "autonomous"
-        ]
-      }
-    },
-    {
-      "title": "SleeperGem Uses Three Malicious RubyGems Packages to Target Developer Machines",
-      "link": "https://thehackernews.com/2026/07/sleepergem-uses-three-malicious.html",
-      "summary": "Cybersecurity researchers have flagged a new software supply chain attack codenamed SleeperGem targeting the Ruby ecosystem after three malicious gems were published to RubyGems with the end goal of s...",
-      "published": "2026-07-20T10:45:39+05:30",
+      "title": "\u26a1 Weekly Recap: WordPress RCE, SonicWall 0-Days, AI Service Attacks, SharePoint 0-Day and More",
+      "link": "https://thehackernews.com/2026/07/weekly-recap-wordpress-rce-sonicwall-0.html",
+      "summary": "A single request should not be able to do this much. But this week, small inputs led to code execution, memory loss, stolen keys, and disabled security tools.\n\nThe paths were often simple: exposed sys...",
+      "published": "2026-07-20T19:02:26+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -205,199 +179,156 @@
       }
     },
     {
-      "title": "A Field Guide to the Flags of the Far Right: From Betsy Ross to Trump-Rambo",
-      "link": "https://www.theatlantic.com/magazine/archive/2024/09/us-far-right-trump-flags/679154/",
-      "summary": "<p>Article URL: <a href=\"https://www.theatlantic.com/magazine/archive/2024/09/us-far-right-trump-flags/679154/\">https://www.theatlantic.com/magazine/archive/2024/09/us-far-right-trump-flags/679154/</a...",
-      "published": "2026-07-20T09:09:18+00:00",
-      "domain": "theatlantic.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: A free Minecraft skin editor",
-      "link": "https://www.hamza.se/blog/mineskin-pro",
-      "summary": "<p>Article URL: <a href=\"https://www.hamza.se/blog/mineskin-pro\">https://www.hamza.se/blog/mineskin-pro</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48976154\">https://news.yc...",
-      "published": "2026-07-20T09:09:00+00:00",
-      "domain": "hamza.se",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Windows tool for automatic TV volume leveling",
-      "link": "https://github.com/AdBusterOfficial",
-      "summary": "<p>Article URL: <a href=\"https://github.com/AdBusterOfficial\">https://github.com/AdBusterOfficial</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48976146\">https://news.ycombina...",
-      "published": "2026-07-20T09:08:00+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Tornado VPS services and website are down",
-      "link": "https://www.whtop.com/review/tornadovps.com",
-      "summary": "<p>Article URL: <a href=\"https://www.whtop.com/review/tornadovps.com\">https://www.whtop.com/review/tornadovps.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48976125\">https...",
-      "published": "2026-07-20T09:05:10+00:00",
-      "domain": "whtop.com",
-      "scores": {
-        "chaos": 9.8,
-        "anarchy": 3.0,
-        "overall": 6.4
-      },
-      "keywords": {
-        "chaos": [
-          "down"
-        ],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "A mass archive of weird, wonderful websites",
-      "link": "https://www.are.na/tom/www-t_kopepmelw",
-      "summary": "<p>Article URL: <a href=\"https://www.are.na/tom/www-t_kopepmelw\">https://www.are.na/tom/www-t_kopepmelw</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48976114\">https://news.yc...",
-      "published": "2026-07-20T09:03:40+00:00",
-      "domain": "are.na",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25",
-      "link": "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48975665\">Comments</a>...",
-      "published": "2026-07-20T08:13:36+00:00",
-      "domain": "slcyber.io",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "LoRA Speedrun \u2013 a public wall-clock leaderboard for fine-tuning techniques",
-      "link": "https://github.com/Saivineeth147/lora-speedrun",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48974325\">Comments</a>...",
-      "published": "2026-07-20T04:24:48+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Critical NGINX Vulnerability Can Crash Workers and May Allow Remote Code Execution",
-      "link": "https://thehackernews.com/2026/07/critical-nginx-vulnerability-can-crash.html",
-      "summary": "F5 has shipped fixes for a critical nginx flaw that lets a remote, unauthenticated attacker trigger a heap buffer overflow in the worker process with crafted HTTP requests. CVE-2026-42533 was patched ...",
-      "published": "2026-07-20T02:12:49+05:30",
+      "title": "Russian Intelligence Hacks IP Cameras to Spy on Military Logistics Across NATO States and Ukraine",
+      "link": "https://thehackernews.com/2026/07/russian-intelligence-hacks-ip-cameras.html",
+      "summary": "At least one Russian intelligence service is systematically hijacking internet-connected security cameras across Europe and Ukraine, using the feeds to watch military transport routes, weapons shipmen...",
+      "published": "2026-07-20T17:43:39+05:30",
       "domain": "thehackernews.com",
       "scores": {
-        "chaos": 15.4,
+        "chaos": 3.0,
         "anarchy": 3.0,
-        "overall": 9.2
+        "overall": 3.0
       },
       "keywords": {
-        "chaos": [
-          "crash"
-        ],
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Mythos Didn't Break Your Security Program. Your Exposure Window Could.",
+      "link": "https://thehackernews.com/2026/07/mythos-didnt-break-your-security.html",
+      "summary": "The industry spent the initial months after Anthropic's April 7 Mythos reveal focused on volume. How many new CVEs would Mythos add to an already overloaded pipeline? How quickly would the flood of AI...",
+      "published": "2026-07-20T17:00:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "New 7-Zip Vulnerability Could Let Crafted XZ Archives Run Code During Extraction",
+      "link": "https://thehackernews.com/2026/07/new-7-zip-vulnerability-could-let.html",
+      "summary": "Opening a crafted XZ archive in 7-Zip could let an attacker run code on the machine. The flaw, CVE-2026-14266, is a heap-based buffer overflow in how the archiver processes XZ chunked data, and Trend ...",
+      "published": "2026-07-20T14:40:56+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Russian-Speaking Hacker Uses Google Gemini CLI to Control Botnet of Eight Dental Clinic PCs",
+      "link": "https://thehackernews.com/2026/07/russian-speaking-hacker-uses-google.html",
+      "summary": "A solo Russian-speaking threat actor known as \"bandcampro\" outsourced a chunk of their operations to Google's open-source Gemini CLI artificial intelligence (AI) and commandeered a live botnet.\n\nThe f...",
+      "published": "2026-07-20T14:37:11+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Ask HN: Claude's Unexpected Blind Test: Users = Data = Value?",
+      "link": "https://news.ycombinator.com/item?id=48979017",
+      "summary": "<p>I asked Claude to organise my conversation logs with another leading model for me, removing company and product names. After organising some of the information, abnormal outputs began to appear. I ...",
+      "published": "2026-07-20T14:02:01+00:00",
+      "domain": "news.ycombinator.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: CodeTrain \u2013 an AI tutor that refuses to write code for you",
+      "link": "https://codetrain.ai",
+      "summary": "<p>Article URL: <a href=\"https://codetrain.ai\">https://codetrain.ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48979014\">https://news.ycombinator.com/item?id=48979014</a></...",
+      "published": "2026-07-20T14:01:43+00:00",
+      "domain": "codetrain.ai",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Tested Kimi K3 for Coding (2026)",
+      "link": "https://www.dotnetperls.com/2026_7_18_tested-kimi-k3-coding",
+      "summary": "<p>Article URL: <a href=\"https://www.dotnetperls.com/2026_7_18_tested-kimi-k3-coding\">https://www.dotnetperls.com/2026_7_18_tested-kimi-k3-coding</a></p>\n<p>Comments URL: <a href=\"https://news.ycombin...",
+      "published": "2026-07-20T14:01:33+00:00",
+      "domain": "dotnetperls.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Frequently Asked Questions on Expertise",
+      "link": "https://jtpeterson.substack.com/p/faq-on-expertise",
+      "summary": "<p>Article URL: <a href=\"https://jtpeterson.substack.com/p/faq-on-expertise\">https://jtpeterson.substack.com/p/faq-on-expertise</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4...",
+      "published": "2026-07-20T14:00:29+00:00",
+      "domain": "jtpeterson.substack.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Meta Garbage Collection: Using OCaml's GC to GC Rust",
+      "link": "https://soteria-tools.com/blog/meta-garbage-collection",
+      "summary": "<p>Article URL: <a href=\"https://soteria-tools.com/blog/meta-garbage-collection\">https://soteria-tools.com/blog/meta-garbage-collection</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/i...",
+      "published": "2026-07-20T13:59:49+00:00",
+      "domain": "soteria-tools.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
         "anarchy": []
       }
     }
   ],
   "overall_ranked": [
     {
-      "title": "World's Largest AI Model Repository Hugging Face Breached by Autonomous AI Agent",
-      "link": "https://thehackernews.com/2026/07/worlds-largest-ai-model-repository.html",
-      "summary": "In an ironic twist, open-source artificial intelligence (AI) platform Hugging Face revealed that it was the victim of a hack perpetrated by an autonomous AI agent system.\n\nThe company said it detected...",
-      "published": "2026-07-20T10:57:26+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 21.3,
-        "overall": 12.1
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": [
-          "autonomous",
-          "autonomous"
-        ]
-      }
-    },
-    {
-      "title": "Critical NGINX Vulnerability Can Crash Workers and May Allow Remote Code Execution",
-      "link": "https://thehackernews.com/2026/07/critical-nginx-vulnerability-can-crash.html",
-      "summary": "F5 has shipped fixes for a critical nginx flaw that lets a remote, unauthenticated attacker trigger a heap buffer overflow in the worker process with crafted HTTP requests. CVE-2026-42533 was patched ...",
-      "published": "2026-07-20T02:12:49+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 15.4,
-        "anarchy": 3.0,
-        "overall": 9.2
-      },
-      "keywords": {
-        "chaos": [
-          "crash"
-        ],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Tornado VPS services and website are down",
-      "link": "https://www.whtop.com/review/tornadovps.com",
-      "summary": "<p>Article URL: <a href=\"https://www.whtop.com/review/tornadovps.com\">https://www.whtop.com/review/tornadovps.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48976125\">https...",
-      "published": "2026-07-20T09:05:10+00:00",
-      "domain": "whtop.com",
-      "scores": {
-        "chaos": 9.8,
-        "anarchy": 3.0,
-        "overall": 6.4
-      },
-      "keywords": {
-        "chaos": [
-          "down"
-        ],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "SleeperGem Uses Three Malicious RubyGems Packages to Target Developer Machines",
-      "link": "https://thehackernews.com/2026/07/sleepergem-uses-three-malicious.html",
-      "summary": "Cybersecurity researchers have flagged a new software supply chain attack codenamed SleeperGem targeting the Ruby ecosystem after three malicious gems were published to RubyGems with the end goal of s...",
-      "published": "2026-07-20T10:45:39+05:30",
+      "title": "\u26a1 Weekly Recap: WordPress RCE, SonicWall 0-Days, AI Service Attacks, SharePoint 0-Day and More",
+      "link": "https://thehackernews.com/2026/07/weekly-recap-wordpress-rce-sonicwall-0.html",
+      "summary": "A single request should not be able to do this much. But this week, small inputs led to code execution, memory loss, stolen keys, and disabled security tools.\n\nThe paths were often simple: exposed sys...",
+      "published": "2026-07-20T19:02:26+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -410,11 +341,11 @@
       }
     },
     {
-      "title": "A Field Guide to the Flags of the Far Right: From Betsy Ross to Trump-Rambo",
-      "link": "https://www.theatlantic.com/magazine/archive/2024/09/us-far-right-trump-flags/679154/",
-      "summary": "<p>Article URL: <a href=\"https://www.theatlantic.com/magazine/archive/2024/09/us-far-right-trump-flags/679154/\">https://www.theatlantic.com/magazine/archive/2024/09/us-far-right-trump-flags/679154/</a...",
-      "published": "2026-07-20T09:09:18+00:00",
-      "domain": "theatlantic.com",
+      "title": "Russian Intelligence Hacks IP Cameras to Spy on Military Logistics Across NATO States and Ukraine",
+      "link": "https://thehackernews.com/2026/07/russian-intelligence-hacks-ip-cameras.html",
+      "summary": "At least one Russian intelligence service is systematically hijacking internet-connected security cameras across Europe and Ukraine, using the feeds to watch military transport routes, weapons shipmen...",
+      "published": "2026-07-20T17:43:39+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -426,11 +357,11 @@
       }
     },
     {
-      "title": "Show HN: A free Minecraft skin editor",
-      "link": "https://www.hamza.se/blog/mineskin-pro",
-      "summary": "<p>Article URL: <a href=\"https://www.hamza.se/blog/mineskin-pro\">https://www.hamza.se/blog/mineskin-pro</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48976154\">https://news.yc...",
-      "published": "2026-07-20T09:09:00+00:00",
-      "domain": "hamza.se",
+      "title": "Mythos Didn't Break Your Security Program. Your Exposure Window Could.",
+      "link": "https://thehackernews.com/2026/07/mythos-didnt-break-your-security.html",
+      "summary": "The industry spent the initial months after Anthropic's April 7 Mythos reveal focused on volume. How many new CVEs would Mythos add to an already overloaded pipeline? How quickly would the flood of AI...",
+      "published": "2026-07-20T17:00:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -442,11 +373,11 @@
       }
     },
     {
-      "title": "Windows tool for automatic TV volume leveling",
-      "link": "https://github.com/AdBusterOfficial",
-      "summary": "<p>Article URL: <a href=\"https://github.com/AdBusterOfficial\">https://github.com/AdBusterOfficial</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48976146\">https://news.ycombina...",
-      "published": "2026-07-20T09:08:00+00:00",
-      "domain": "github.com",
+      "title": "New 7-Zip Vulnerability Could Let Crafted XZ Archives Run Code During Extraction",
+      "link": "https://thehackernews.com/2026/07/new-7-zip-vulnerability-could-let.html",
+      "summary": "Opening a crafted XZ archive in 7-Zip could let an attacker run code on the machine. The flaw, CVE-2026-14266, is a heap-based buffer overflow in how the archiver processes XZ chunked data, and Trend ...",
+      "published": "2026-07-20T14:40:56+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -458,11 +389,11 @@
       }
     },
     {
-      "title": "A mass archive of weird, wonderful websites",
-      "link": "https://www.are.na/tom/www-t_kopepmelw",
-      "summary": "<p>Article URL: <a href=\"https://www.are.na/tom/www-t_kopepmelw\">https://www.are.na/tom/www-t_kopepmelw</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48976114\">https://news.yc...",
-      "published": "2026-07-20T09:03:40+00:00",
-      "domain": "are.na",
+      "title": "Russian-Speaking Hacker Uses Google Gemini CLI to Control Botnet of Eight Dental Clinic PCs",
+      "link": "https://thehackernews.com/2026/07/russian-speaking-hacker-uses-google.html",
+      "summary": "A solo Russian-speaking threat actor known as \"bandcampro\" outsourced a chunk of their operations to Google's open-source Gemini CLI artificial intelligence (AI) and commandeered a live botnet.\n\nThe f...",
+      "published": "2026-07-20T14:37:11+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -474,11 +405,11 @@
       }
     },
     {
-      "title": "Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25",
-      "link": "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48975665\">Comments</a>...",
-      "published": "2026-07-20T08:13:36+00:00",
-      "domain": "slcyber.io",
+      "title": "Ask HN: Claude's Unexpected Blind Test: Users = Data = Value?",
+      "link": "https://news.ycombinator.com/item?id=48979017",
+      "summary": "<p>I asked Claude to organise my conversation logs with another leading model for me, removing company and product names. After organising some of the information, abnormal outputs began to appear. I ...",
+      "published": "2026-07-20T14:02:01+00:00",
+      "domain": "news.ycombinator.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -490,11 +421,59 @@
       }
     },
     {
-      "title": "LoRA Speedrun \u2013 a public wall-clock leaderboard for fine-tuning techniques",
-      "link": "https://github.com/Saivineeth147/lora-speedrun",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48974325\">Comments</a>...",
-      "published": "2026-07-20T04:24:48+00:00",
-      "domain": "github.com",
+      "title": "Show HN: CodeTrain \u2013 an AI tutor that refuses to write code for you",
+      "link": "https://codetrain.ai",
+      "summary": "<p>Article URL: <a href=\"https://codetrain.ai\">https://codetrain.ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48979014\">https://news.ycombinator.com/item?id=48979014</a></...",
+      "published": "2026-07-20T14:01:43+00:00",
+      "domain": "codetrain.ai",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Tested Kimi K3 for Coding (2026)",
+      "link": "https://www.dotnetperls.com/2026_7_18_tested-kimi-k3-coding",
+      "summary": "<p>Article URL: <a href=\"https://www.dotnetperls.com/2026_7_18_tested-kimi-k3-coding\">https://www.dotnetperls.com/2026_7_18_tested-kimi-k3-coding</a></p>\n<p>Comments URL: <a href=\"https://news.ycombin...",
+      "published": "2026-07-20T14:01:33+00:00",
+      "domain": "dotnetperls.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Frequently Asked Questions on Expertise",
+      "link": "https://jtpeterson.substack.com/p/faq-on-expertise",
+      "summary": "<p>Article URL: <a href=\"https://jtpeterson.substack.com/p/faq-on-expertise\">https://jtpeterson.substack.com/p/faq-on-expertise</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4...",
+      "published": "2026-07-20T14:00:29+00:00",
+      "domain": "jtpeterson.substack.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Meta Garbage Collection: Using OCaml's GC to GC Rust",
+      "link": "https://soteria-tools.com/blog/meta-garbage-collection",
+      "summary": "<p>Article URL: <a href=\"https://soteria-tools.com/blog/meta-garbage-collection\">https://soteria-tools.com/blog/meta-garbage-collection</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/i...",
+      "published": "2026-07-20T13:59:49+00:00",
+      "domain": "soteria-tools.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -508,29 +487,10 @@
   ],
   "all_articles": [
     {
-      "title": "World's Largest AI Model Repository Hugging Face Breached by Autonomous AI Agent",
-      "link": "https://thehackernews.com/2026/07/worlds-largest-ai-model-repository.html",
-      "summary": "In an ironic twist, open-source artificial intelligence (AI) platform Hugging Face revealed that it was the victim of a hack perpetrated by an autonomous AI agent system.\n\nThe company said it detected...",
-      "published": "2026-07-20T10:57:26+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 21.3,
-        "overall": 12.1
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": [
-          "autonomous",
-          "autonomous"
-        ]
-      }
-    },
-    {
-      "title": "SleeperGem Uses Three Malicious RubyGems Packages to Target Developer Machines",
-      "link": "https://thehackernews.com/2026/07/sleepergem-uses-three-malicious.html",
-      "summary": "Cybersecurity researchers have flagged a new software supply chain attack codenamed SleeperGem targeting the Ruby ecosystem after three malicious gems were published to RubyGems with the end goal of s...",
-      "published": "2026-07-20T10:45:39+05:30",
+      "title": "\u26a1 Weekly Recap: WordPress RCE, SonicWall 0-Days, AI Service Attacks, SharePoint 0-Day and More",
+      "link": "https://thehackernews.com/2026/07/weekly-recap-wordpress-rce-sonicwall-0.html",
+      "summary": "A single request should not be able to do this much. But this week, small inputs led to code execution, memory loss, stolen keys, and disabled security tools.\n\nThe paths were often simple: exposed sys...",
+      "published": "2026-07-20T19:02:26+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -543,134 +503,146 @@
       }
     },
     {
-      "title": "A Field Guide to the Flags of the Far Right: From Betsy Ross to Trump-Rambo",
-      "link": "https://www.theatlantic.com/magazine/archive/2024/09/us-far-right-trump-flags/679154/",
-      "summary": "<p>Article URL: <a href=\"https://www.theatlantic.com/magazine/archive/2024/09/us-far-right-trump-flags/679154/\">https://www.theatlantic.com/magazine/archive/2024/09/us-far-right-trump-flags/679154/</a...",
-      "published": "2026-07-20T09:09:18+00:00",
-      "domain": "theatlantic.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: A free Minecraft skin editor",
-      "link": "https://www.hamza.se/blog/mineskin-pro",
-      "summary": "<p>Article URL: <a href=\"https://www.hamza.se/blog/mineskin-pro\">https://www.hamza.se/blog/mineskin-pro</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48976154\">https://news.yc...",
-      "published": "2026-07-20T09:09:00+00:00",
-      "domain": "hamza.se",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Windows tool for automatic TV volume leveling",
-      "link": "https://github.com/AdBusterOfficial",
-      "summary": "<p>Article URL: <a href=\"https://github.com/AdBusterOfficial\">https://github.com/AdBusterOfficial</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48976146\">https://news.ycombina...",
-      "published": "2026-07-20T09:08:00+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Tornado VPS services and website are down",
-      "link": "https://www.whtop.com/review/tornadovps.com",
-      "summary": "<p>Article URL: <a href=\"https://www.whtop.com/review/tornadovps.com\">https://www.whtop.com/review/tornadovps.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48976125\">https...",
-      "published": "2026-07-20T09:05:10+00:00",
-      "domain": "whtop.com",
-      "scores": {
-        "chaos": 9.8,
-        "anarchy": 3.0,
-        "overall": 6.4
-      },
-      "keywords": {
-        "chaos": [
-          "down"
-        ],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "A mass archive of weird, wonderful websites",
-      "link": "https://www.are.na/tom/www-t_kopepmelw",
-      "summary": "<p>Article URL: <a href=\"https://www.are.na/tom/www-t_kopepmelw\">https://www.are.na/tom/www-t_kopepmelw</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48976114\">https://news.yc...",
-      "published": "2026-07-20T09:03:40+00:00",
-      "domain": "are.na",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25",
-      "link": "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48975665\">Comments</a>...",
-      "published": "2026-07-20T08:13:36+00:00",
-      "domain": "slcyber.io",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "LoRA Speedrun \u2013 a public wall-clock leaderboard for fine-tuning techniques",
-      "link": "https://github.com/Saivineeth147/lora-speedrun",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48974325\">Comments</a>...",
-      "published": "2026-07-20T04:24:48+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Critical NGINX Vulnerability Can Crash Workers and May Allow Remote Code Execution",
-      "link": "https://thehackernews.com/2026/07/critical-nginx-vulnerability-can-crash.html",
-      "summary": "F5 has shipped fixes for a critical nginx flaw that lets a remote, unauthenticated attacker trigger a heap buffer overflow in the worker process with crafted HTTP requests. CVE-2026-42533 was patched ...",
-      "published": "2026-07-20T02:12:49+05:30",
+      "title": "Russian Intelligence Hacks IP Cameras to Spy on Military Logistics Across NATO States and Ukraine",
+      "link": "https://thehackernews.com/2026/07/russian-intelligence-hacks-ip-cameras.html",
+      "summary": "At least one Russian intelligence service is systematically hijacking internet-connected security cameras across Europe and Ukraine, using the feeds to watch military transport routes, weapons shipmen...",
+      "published": "2026-07-20T17:43:39+05:30",
       "domain": "thehackernews.com",
       "scores": {
-        "chaos": 15.4,
+        "chaos": 3.0,
         "anarchy": 3.0,
-        "overall": 9.2
+        "overall": 3.0
       },
       "keywords": {
-        "chaos": [
-          "crash"
-        ],
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Mythos Didn't Break Your Security Program. Your Exposure Window Could.",
+      "link": "https://thehackernews.com/2026/07/mythos-didnt-break-your-security.html",
+      "summary": "The industry spent the initial months after Anthropic's April 7 Mythos reveal focused on volume. How many new CVEs would Mythos add to an already overloaded pipeline? How quickly would the flood of AI...",
+      "published": "2026-07-20T17:00:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "New 7-Zip Vulnerability Could Let Crafted XZ Archives Run Code During Extraction",
+      "link": "https://thehackernews.com/2026/07/new-7-zip-vulnerability-could-let.html",
+      "summary": "Opening a crafted XZ archive in 7-Zip could let an attacker run code on the machine. The flaw, CVE-2026-14266, is a heap-based buffer overflow in how the archiver processes XZ chunked data, and Trend ...",
+      "published": "2026-07-20T14:40:56+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Russian-Speaking Hacker Uses Google Gemini CLI to Control Botnet of Eight Dental Clinic PCs",
+      "link": "https://thehackernews.com/2026/07/russian-speaking-hacker-uses-google.html",
+      "summary": "A solo Russian-speaking threat actor known as \"bandcampro\" outsourced a chunk of their operations to Google's open-source Gemini CLI artificial intelligence (AI) and commandeered a live botnet.\n\nThe f...",
+      "published": "2026-07-20T14:37:11+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Ask HN: Claude's Unexpected Blind Test: Users = Data = Value?",
+      "link": "https://news.ycombinator.com/item?id=48979017",
+      "summary": "<p>I asked Claude to organise my conversation logs with another leading model for me, removing company and product names. After organising some of the information, abnormal outputs began to appear. I ...",
+      "published": "2026-07-20T14:02:01+00:00",
+      "domain": "news.ycombinator.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: CodeTrain \u2013 an AI tutor that refuses to write code for you",
+      "link": "https://codetrain.ai",
+      "summary": "<p>Article URL: <a href=\"https://codetrain.ai\">https://codetrain.ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48979014\">https://news.ycombinator.com/item?id=48979014</a></...",
+      "published": "2026-07-20T14:01:43+00:00",
+      "domain": "codetrain.ai",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Tested Kimi K3 for Coding (2026)",
+      "link": "https://www.dotnetperls.com/2026_7_18_tested-kimi-k3-coding",
+      "summary": "<p>Article URL: <a href=\"https://www.dotnetperls.com/2026_7_18_tested-kimi-k3-coding\">https://www.dotnetperls.com/2026_7_18_tested-kimi-k3-coding</a></p>\n<p>Comments URL: <a href=\"https://news.ycombin...",
+      "published": "2026-07-20T14:01:33+00:00",
+      "domain": "dotnetperls.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Frequently Asked Questions on Expertise",
+      "link": "https://jtpeterson.substack.com/p/faq-on-expertise",
+      "summary": "<p>Article URL: <a href=\"https://jtpeterson.substack.com/p/faq-on-expertise\">https://jtpeterson.substack.com/p/faq-on-expertise</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4...",
+      "published": "2026-07-20T14:00:29+00:00",
+      "domain": "jtpeterson.substack.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Meta Garbage Collection: Using OCaml's GC to GC Rust",
+      "link": "https://soteria-tools.com/blog/meta-garbage-collection",
+      "summary": "<p>Article URL: <a href=\"https://soteria-tools.com/blog/meta-garbage-collection\">https://soteria-tools.com/blog/meta-garbage-collection</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/i...",
+      "published": "2026-07-20T13:59:49+00:00",
+      "domain": "soteria-tools.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
         "anarchy": []
       }
     }
