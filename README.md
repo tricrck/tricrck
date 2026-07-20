@@ -22,11 +22,12 @@
 - **Keywords**: crash
 - [Read more](https://thehackernews.com/2026/07/critical-nginx-vulnerability-can-crash.html)
 
-### France doubles down on restricting access to Polymarket | The country’s gambling authority ordered ISPs to block access to the prediction market’s website
+### Tornado VPS services and website are down
 - **Published**: July 20, 2026
-- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1v17p68/france_doubles_down_on_restricting_access_to/"> <img alt="France doubles down on re...
-- **Keywords**: down, down
-- [Read more](https://www.reddit.com/r/technology/comments/1v17p68/france_doubles_down_on_restricting_access_to/)
+- **Summary**: https://www.whtop.com/review/tornadovps.com</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48976125">https......
+- **Keywords**: down
+- [Read more](https://www.whtop.com/review/tornadovps.com)
 
 ---
 
