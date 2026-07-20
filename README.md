@@ -16,17 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Air Force Engineer Accused of Cutting Down 13 Police Cameras Says They're Unconstitutional
-- **Published**: July 19, 2026
-- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1v0tu8w/air_force_engineer_accused_of_cutting_down_13/"> <img alt="Air Force Engineer Accus...
-- **Keywords**: down, down
-- [Read more](https://www.reddit.com/r/technology/comments/1v0tu8w/air_force_engineer_accused_of_cutting_down_13/)
+### Critical NGINX Vulnerability Can Crash Workers and May Allow Remote Code Execution
+- **Published**: July 20, 2026
+- **Summary**: F5 has shipped fixes for a critical nginx flaw that lets a remote, unauthenticated attacker trigger a heap buffer overflow in the worker process with ...
+- **Keywords**: crash
+- [Read more](https://thehackernews.com/2026/07/critical-nginx-vulnerability-can-crash.html)
 
-### FIFA World Cup Triggers a Global Anti-Piracy Crackdown
-- **Published**: July 19, 2026
-- **Summary**: https://torrentfreak.com/fifa-world-cup-triggers-a-global-anti-piracy-crackdown/</a></p>
-<p>C......
-- [Read more](https://torrentfreak.com/fifa-world-cup-triggers-a-global-anti-piracy-crackdown/)
+### France doubles down on restricting access to Polymarket | The country’s gambling authority ordered ISPs to block access to the prediction market’s website
+- **Published**: July 20, 2026
+- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1v17p68/france_doubles_down_on_restricting_access_to/"> <img alt="France doubles down on re...
+- **Keywords**: down, down
+- [Read more](https://www.reddit.com/r/technology/comments/1v17p68/france_doubles_down_on_restricting_access_to/)
 
 ---
 
