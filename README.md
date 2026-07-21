@@ -22,10 +22,10 @@
 - **Keywords**: down
 - [Read more](https://thehackernews.com/2026/07/exposed-server-reveals-ai-assisted.html)
 
-### HollowGraph Malware Hides C2 and Stolen Files in Microsoft 365 Events Dated 2050
-- **Published**: July 20, 2026
-- **Summary**: A newly discovered espionage implant has been using a hijacked Microsoft 365 calendar as its command channel, planting operator instructions and smugg...
-- [Read more](https://thehackernews.com/2026/07/hollowgraph-malware-hides-c2-and-stolen.html)
+### People are transcribing your conversations without asking. That puts you at risk
+- **Published**: July 21, 2026
+- **Summary**: https://werd.io/people-are-transcribing-your-conversations-without-asking-tha......
+- [Read more](https://werd.io/people-are-transcribing-your-conversations-without-asking-that-puts-you-at-risk/)
 
 ---
 
