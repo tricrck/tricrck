@@ -16,15 +16,19 @@
 
 ## 🚨 Tech Stories
 
-### Judge halts Paramount's $111B purchase of Warner Bros. in win for US states
+### New Bit2Watt Attack Could Let Cloud Tenants Disrupt Power Grids Without an Exploit
 - **Published**: July 21, 2026
-- **Summary**: https://arstechnica.com/tech-policy/2026/07/judge-halts-......
-- [Read more](https://arstechnica.com/tech-policy/2026/07/judge-halts-paramounts-111b-purchase-of-warner-bros-in-win-for-us-states/)
+- **Summary**: A cloud tenant using nothing but ordinary GPU access can push a data center's power draw up and down fast enough to threaten the grid it runs on, with...
+- **Keywords**: disrupt, down
+- [Read more](https://thehackernews.com/2026/07/new-bit2watt-attack-could-let-cloud.html)
 
-### New ENCFORGE Ransomware Targets AI Model Files in Langflow RCE Attack
+### N-day is Becoming N-Hour. Patching Faster Won't Save You.
 - **Published**: July 21, 2026
-- **Summary**: Researchers at Sysdig have linked a second attack on the same Langflow server to JADEPUFFER, the AI-agent-driven operator it first documented earlier ...
-- [Read more](https://thehackernews.com/2026/07/new-encforge-ransomware-targets-ai.html)
+- **Summary**: Every patch is a confession.
+
+The moment a vendor ships a security fix, the diff between the old code and the new code tells anyone watching exactly w...
+- **Keywords**: broken
+- [Read more](https://thehackernews.com/2026/07/n-day-is-becoming-n-hour-patching.html)
 
 ---
 

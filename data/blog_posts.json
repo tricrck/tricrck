@@ -1,26 +1,47 @@
 {
   "chaos_ranked": [
     {
-      "title": "Judge halts Paramount's $111B purchase of Warner Bros. in win for US states",
-      "link": "https://arstechnica.com/tech-policy/2026/07/judge-halts-paramounts-111b-purchase-of-warner-bros-in-win-for-us-states/",
-      "summary": "<p>Article URL: <a href=\"https://arstechnica.com/tech-policy/2026/07/judge-halts-paramounts-111b-purchase-of-warner-bros-in-win-for-us-states/\">https://arstechnica.com/tech-policy/2026/07/judge-halts-...",
-      "published": "2026-07-21T08:17:01+00:00",
-      "domain": "arstechnica.com",
+      "title": "New Bit2Watt Attack Could Let Cloud Tenants Disrupt Power Grids Without an Exploit",
+      "link": "https://thehackernews.com/2026/07/new-bit2watt-attack-could-let-cloud.html",
+      "summary": "A cloud tenant using nothing but ordinary GPU access can push a data center's power draw up and down fast enough to threaten the grid it runs on, with no exploit and no break-in.\n\nThat is the claim be...",
+      "published": "2026-07-21T16:54:50+05:30",
+      "domain": "thehackernews.com",
       "scores": {
-        "chaos": 18.0,
-        "anarchy": 12.0,
-        "overall": 15.0
+        "chaos": 16.0,
+        "anarchy": 3.0,
+        "overall": 9.5
       },
       "keywords": {
-        "chaos": [],
+        "chaos": [
+          "disrupt",
+          "down"
+        ],
         "anarchy": []
       }
     },
     {
-      "title": "New ENCFORGE Ransomware Targets AI Model Files in Langflow RCE Attack",
-      "link": "https://thehackernews.com/2026/07/new-encforge-ransomware-targets-ai.html",
-      "summary": "Researchers at Sysdig have linked a second attack on the same Langflow server to JADEPUFFER, the AI-agent-driven operator it first documented earlier this month.\n\nThe same operator has now been spotte...",
-      "published": "2026-07-21T13:04:32+05:30",
+      "title": "N-day is Becoming N-Hour. Patching Faster Won't Save You.",
+      "link": "https://thehackernews.com/2026/07/n-day-is-becoming-n-hour-patching.html",
+      "summary": "Every patch is a confession.\n\nThe moment a vendor ships a security fix, the diff between the old code and the new code tells anyone watching exactly what was broken and where. Turn that diff back into...",
+      "published": "2026-07-21T17:12:23+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 13.0,
+        "anarchy": 3.0,
+        "overall": 8.0
+      },
+      "keywords": {
+        "chaos": [
+          "broken"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Open-Source Android AI Agents Could Let Invisible Screen Text Run Code on Host PCs",
+      "link": "https://thehackernews.com/2026/07/open-source-android-ai-agents-could-let.html",
+      "summary": "An Android app that can draw over other windows and write to shared storage can slip instructions to the AI agent driving that phone, in text no human eye will ever see. Two more steps, and the same a...",
+      "published": "2026-07-21T17:28:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -33,10 +54,10 @@
       }
     },
     {
-      "title": "Critical ServiceNow AI Platform Flaw Exploited for Unauthenticated Code Execution",
-      "link": "https://thehackernews.com/2026/07/critical-servicenow-ai-platform-flaw.html",
-      "summary": "Threat actors are now exploiting a recently disclosed critical security flaw impacting ServiceNow AI Platform, according to Defused Cyber.\n\nIn a post shared on X, the threat intelligence firm said it'...",
-      "published": "2026-07-21T11:59:26+05:30",
+      "title": "WordPress wp2shell Exploitation Grows as Public Exploit Fuels Mass Scanning",
+      "link": "https://thehackernews.com/2026/07/wordpress-wp2shell-exploitation-grows.html",
+      "summary": "Attackers have begun to exploit two critical vulnerabilities in WordPress that, when combined together, enable unauthenticated remote code execution (RCE) and complete compromise of vulnerable website...",
+      "published": "2026-07-21T14:29:30+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -49,11 +70,11 @@
       }
     },
     {
-      "title": "Vixen 0.3 \u2013 fork of ratpoison (winman) goes back in time to resolve old bugs",
-      "link": "https://codeberg.org/spidervixn/vixen",
-      "summary": "<p>Article URL: <a href=\"https://codeberg.org/spidervixn/vixen\">https://codeberg.org/spidervixn/vixen</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48989551\">https://news.ycom...",
-      "published": "2026-07-21T08:22:23+00:00",
-      "domain": "codeberg.org",
+      "title": "What a 2019 API client teaches you about modern .NET",
+      "link": "https://www.ivanjurina.com/index.php/2026/07/21/what-a-2019-api-client-teaches-you-about-modern-net/",
+      "summary": "<p>Article URL: <a href=\"https://www.ivanjurina.com/index.php/2026/07/21/what-a-2019-api-client-teaches-you-about-modern-net/\">https://www.ivanjurina.com/index.php/2026/07/21/what-a-2019-api-client-te...",
+      "published": "2026-07-21T13:42:57+00:00",
+      "domain": "ivanjurina.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -65,74 +86,10 @@
       }
     },
     {
-      "title": "[LITERARY CRITICISM] The 'Screwfly Solution' Solution: Bi-Sexuality",
-      "link": "https://gwern.net/screwfly",
-      "summary": "<p>Article URL: <a href=\"https://gwern.net/screwfly\">https://gwern.net/screwfly</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48989537\">https://news.ycombinator.com/item?id=48...",
-      "published": "2026-07-21T08:20:08+00:00",
-      "domain": "gwern.net",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: A BIOS-style terminal for observing a deterministic persistent world",
-      "link": "https://speykye.github.io/persistent-world-observer-terminal/",
-      "summary": "<p>Article URL: <a href=\"https://speykye.github.io/persistent-world-observer-terminal/\">https://speykye.github.io/persistent-world-observer-terminal/</a></p>\n<p>Comments URL: <a href=\"https://news.yco...",
-      "published": "2026-07-21T08:18:22+00:00",
-      "domain": "speykye.github.io",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Did China just beat Intel?",
-      "link": "https://twitter.com/SemiAnalysis_/status/2079251630608842814",
-      "summary": "<p>Article URL: <a href=\"https://twitter.com/SemiAnalysis_/status/2079251630608842814\">https://twitter.com/SemiAnalysis_/status/2079251630608842814</a></p>\n<p>Comments URL: <a href=\"https://news.ycomb...",
-      "published": "2026-07-21T08:13:01+00:00",
-      "domain": "twitter.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Running Doom on Our Custom CPU and Going Viral",
-      "link": "https://www.armaangomes.com/blogs/doom/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48987846\">Comments</a>...",
-      "published": "2026-07-21T03:54:16+00:00",
-      "domain": "armaangomes.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Incremental \u2013 A library for incremental computations",
-      "link": "https://github.com/janestreet/incremental",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48987822\">Comments</a>...",
-      "published": "2026-07-21T03:50:53+00:00",
+      "title": "Wispr-clone \u2013 offline push-to-talk dictation for Linux",
+      "link": "https://github.com/twinlights/wispr-clone",
+      "summary": "<p>Article URL: <a href=\"https://github.com/twinlights/wispr-clone\">https://github.com/twinlights/wispr-clone</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48992229\">https://n...",
+      "published": "2026-07-21T13:41:29+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -145,11 +102,59 @@
       }
     },
     {
-      "title": "SpaceX stock closes at fresh low of just below $120, after seven straight days of losses now exceeding $1 trillion",
-      "link": "https://www.reddit.com/r/technology/comments/1v22g7p/spacex_stock_closes_at_fresh_low_of_just_below/",
-      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/marketrent\"> /u/marketrent </a> <br /> <span><a href=\"https://www.investopedia.com/spacex-stock-closes-at-fresh-low-after-seven-straight-d...",
-      "published": "2026-07-21T00:06:35+00:00",
-      "domain": "reddit.com",
+      "title": "Show HN: BlurShield \u2013 Automatically blur sensitive info during screen share",
+      "link": "https://chromewebstore.google.com/detail/blurshield-\u2013-prevent-scre/dgpihknippnloandcngnipbponnnlhmd",
+      "summary": "<p>I Built BlurShield how easy it is to expose email address,Phone No,API Key and other important info.<p>BlurShield is a browser extension which detects and blur the sensitive info automatically.<p>I...",
+      "published": "2026-07-21T13:41:21+00:00",
+      "domain": "chromewebstore.google.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "TSMC eyes price hikes of up to 25% on chip production services in 2027",
+      "link": "https://www.tomshardware.com/tech-industry/semiconductors/tsmc-eyes-price-hikes-of-up-to-25-percent-on-chip-production-services-in-2027-report-claims-plans-to-raise-baseline-prices-by-5-percent-to-10-percent-on-advanced-nodes",
+      "summary": "<p>Article URL: <a href=\"https://www.tomshardware.com/tech-industry/semiconductors/tsmc-eyes-price-hikes-of-up-to-25-percent-on-chip-production-services-in-2027-report-claims-plans-to-raise-baseline-p...",
+      "published": "2026-07-21T13:40:51+00:00",
+      "domain": "tomshardware.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Hackercouch: Couchsurfing for Hackers, by Hackers",
+      "link": "https://hackercouch.com/",
+      "summary": "<p>Article URL: <a href=\"https://hackercouch.com/\">https://hackercouch.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48992219\">https://news.ycombinator.com/item?id=489922...",
+      "published": "2026-07-21T13:40:42+00:00",
+      "domain": "hackercouch.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "New ENCFORGE Ransomware Targets AI Model Files in Langflow RCE Attack",
+      "link": "https://thehackernews.com/2026/07/new-encforge-ransomware-targets-ai.html",
+      "summary": "Researchers at Sysdig have linked a second attack on the same Langflow server to JADEPUFFER, the AI-agent-driven operator it first documented earlier this month.\n\nThe same operator has now been spotte...",
+      "published": "2026-07-21T13:04:32+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -163,26 +168,10 @@
   ],
   "anarchy_ranked": [
     {
-      "title": "Judge halts Paramount's $111B purchase of Warner Bros. in win for US states",
-      "link": "https://arstechnica.com/tech-policy/2026/07/judge-halts-paramounts-111b-purchase-of-warner-bros-in-win-for-us-states/",
-      "summary": "<p>Article URL: <a href=\"https://arstechnica.com/tech-policy/2026/07/judge-halts-paramounts-111b-purchase-of-warner-bros-in-win-for-us-states/\">https://arstechnica.com/tech-policy/2026/07/judge-halts-...",
-      "published": "2026-07-21T08:17:01+00:00",
-      "domain": "arstechnica.com",
-      "scores": {
-        "chaos": 18.0,
-        "anarchy": 12.0,
-        "overall": 15.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "New ENCFORGE Ransomware Targets AI Model Files in Langflow RCE Attack",
-      "link": "https://thehackernews.com/2026/07/new-encforge-ransomware-targets-ai.html",
-      "summary": "Researchers at Sysdig have linked a second attack on the same Langflow server to JADEPUFFER, the AI-agent-driven operator it first documented earlier this month.\n\nThe same operator has now been spotte...",
-      "published": "2026-07-21T13:04:32+05:30",
+      "title": "Open-Source Android AI Agents Could Let Invisible Screen Text Run Code on Host PCs",
+      "link": "https://thehackernews.com/2026/07/open-source-android-ai-agents-could-let.html",
+      "summary": "An Android app that can draw over other windows and write to shared storage can slip instructions to the AI agent driving that phone, in text no human eye will ever see. Two more steps, and the same a...",
+      "published": "2026-07-21T17:28:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -195,10 +184,47 @@
       }
     },
     {
-      "title": "Critical ServiceNow AI Platform Flaw Exploited for Unauthenticated Code Execution",
-      "link": "https://thehackernews.com/2026/07/critical-servicenow-ai-platform-flaw.html",
-      "summary": "Threat actors are now exploiting a recently disclosed critical security flaw impacting ServiceNow AI Platform, according to Defused Cyber.\n\nIn a post shared on X, the threat intelligence firm said it'...",
-      "published": "2026-07-21T11:59:26+05:30",
+      "title": "N-day is Becoming N-Hour. Patching Faster Won't Save You.",
+      "link": "https://thehackernews.com/2026/07/n-day-is-becoming-n-hour-patching.html",
+      "summary": "Every patch is a confession.\n\nThe moment a vendor ships a security fix, the diff between the old code and the new code tells anyone watching exactly what was broken and where. Turn that diff back into...",
+      "published": "2026-07-21T17:12:23+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 13.0,
+        "anarchy": 3.0,
+        "overall": 8.0
+      },
+      "keywords": {
+        "chaos": [
+          "broken"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "New Bit2Watt Attack Could Let Cloud Tenants Disrupt Power Grids Without an Exploit",
+      "link": "https://thehackernews.com/2026/07/new-bit2watt-attack-could-let-cloud.html",
+      "summary": "A cloud tenant using nothing but ordinary GPU access can push a data center's power draw up and down fast enough to threaten the grid it runs on, with no exploit and no break-in.\n\nThat is the claim be...",
+      "published": "2026-07-21T16:54:50+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 16.0,
+        "anarchy": 3.0,
+        "overall": 9.5
+      },
+      "keywords": {
+        "chaos": [
+          "disrupt",
+          "down"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "WordPress wp2shell Exploitation Grows as Public Exploit Fuels Mass Scanning",
+      "link": "https://thehackernews.com/2026/07/wordpress-wp2shell-exploitation-grows.html",
+      "summary": "Attackers have begun to exploit two critical vulnerabilities in WordPress that, when combined together, enable unauthenticated remote code execution (RCE) and complete compromise of vulnerable website...",
+      "published": "2026-07-21T14:29:30+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -211,11 +237,11 @@
       }
     },
     {
-      "title": "Vixen 0.3 \u2013 fork of ratpoison (winman) goes back in time to resolve old bugs",
-      "link": "https://codeberg.org/spidervixn/vixen",
-      "summary": "<p>Article URL: <a href=\"https://codeberg.org/spidervixn/vixen\">https://codeberg.org/spidervixn/vixen</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48989551\">https://news.ycom...",
-      "published": "2026-07-21T08:22:23+00:00",
-      "domain": "codeberg.org",
+      "title": "What a 2019 API client teaches you about modern .NET",
+      "link": "https://www.ivanjurina.com/index.php/2026/07/21/what-a-2019-api-client-teaches-you-about-modern-net/",
+      "summary": "<p>Article URL: <a href=\"https://www.ivanjurina.com/index.php/2026/07/21/what-a-2019-api-client-teaches-you-about-modern-net/\">https://www.ivanjurina.com/index.php/2026/07/21/what-a-2019-api-client-te...",
+      "published": "2026-07-21T13:42:57+00:00",
+      "domain": "ivanjurina.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -227,74 +253,10 @@
       }
     },
     {
-      "title": "[LITERARY CRITICISM] The 'Screwfly Solution' Solution: Bi-Sexuality",
-      "link": "https://gwern.net/screwfly",
-      "summary": "<p>Article URL: <a href=\"https://gwern.net/screwfly\">https://gwern.net/screwfly</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48989537\">https://news.ycombinator.com/item?id=48...",
-      "published": "2026-07-21T08:20:08+00:00",
-      "domain": "gwern.net",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: A BIOS-style terminal for observing a deterministic persistent world",
-      "link": "https://speykye.github.io/persistent-world-observer-terminal/",
-      "summary": "<p>Article URL: <a href=\"https://speykye.github.io/persistent-world-observer-terminal/\">https://speykye.github.io/persistent-world-observer-terminal/</a></p>\n<p>Comments URL: <a href=\"https://news.yco...",
-      "published": "2026-07-21T08:18:22+00:00",
-      "domain": "speykye.github.io",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Did China just beat Intel?",
-      "link": "https://twitter.com/SemiAnalysis_/status/2079251630608842814",
-      "summary": "<p>Article URL: <a href=\"https://twitter.com/SemiAnalysis_/status/2079251630608842814\">https://twitter.com/SemiAnalysis_/status/2079251630608842814</a></p>\n<p>Comments URL: <a href=\"https://news.ycomb...",
-      "published": "2026-07-21T08:13:01+00:00",
-      "domain": "twitter.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Running Doom on Our Custom CPU and Going Viral",
-      "link": "https://www.armaangomes.com/blogs/doom/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48987846\">Comments</a>...",
-      "published": "2026-07-21T03:54:16+00:00",
-      "domain": "armaangomes.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Incremental \u2013 A library for incremental computations",
-      "link": "https://github.com/janestreet/incremental",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48987822\">Comments</a>...",
-      "published": "2026-07-21T03:50:53+00:00",
+      "title": "Wispr-clone \u2013 offline push-to-talk dictation for Linux",
+      "link": "https://github.com/twinlights/wispr-clone",
+      "summary": "<p>Article URL: <a href=\"https://github.com/twinlights/wispr-clone\">https://github.com/twinlights/wispr-clone</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48992229\">https://n...",
+      "published": "2026-07-21T13:41:29+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -307,11 +269,59 @@
       }
     },
     {
-      "title": "SpaceX stock closes at fresh low of just below $120, after seven straight days of losses now exceeding $1 trillion",
-      "link": "https://www.reddit.com/r/technology/comments/1v22g7p/spacex_stock_closes_at_fresh_low_of_just_below/",
-      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/marketrent\"> /u/marketrent </a> <br /> <span><a href=\"https://www.investopedia.com/spacex-stock-closes-at-fresh-low-after-seven-straight-d...",
-      "published": "2026-07-21T00:06:35+00:00",
-      "domain": "reddit.com",
+      "title": "Show HN: BlurShield \u2013 Automatically blur sensitive info during screen share",
+      "link": "https://chromewebstore.google.com/detail/blurshield-\u2013-prevent-scre/dgpihknippnloandcngnipbponnnlhmd",
+      "summary": "<p>I Built BlurShield how easy it is to expose email address,Phone No,API Key and other important info.<p>BlurShield is a browser extension which detects and blur the sensitive info automatically.<p>I...",
+      "published": "2026-07-21T13:41:21+00:00",
+      "domain": "chromewebstore.google.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "TSMC eyes price hikes of up to 25% on chip production services in 2027",
+      "link": "https://www.tomshardware.com/tech-industry/semiconductors/tsmc-eyes-price-hikes-of-up-to-25-percent-on-chip-production-services-in-2027-report-claims-plans-to-raise-baseline-prices-by-5-percent-to-10-percent-on-advanced-nodes",
+      "summary": "<p>Article URL: <a href=\"https://www.tomshardware.com/tech-industry/semiconductors/tsmc-eyes-price-hikes-of-up-to-25-percent-on-chip-production-services-in-2027-report-claims-plans-to-raise-baseline-p...",
+      "published": "2026-07-21T13:40:51+00:00",
+      "domain": "tomshardware.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Hackercouch: Couchsurfing for Hackers, by Hackers",
+      "link": "https://hackercouch.com/",
+      "summary": "<p>Article URL: <a href=\"https://hackercouch.com/\">https://hackercouch.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48992219\">https://news.ycombinator.com/item?id=489922...",
+      "published": "2026-07-21T13:40:42+00:00",
+      "domain": "hackercouch.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "New ENCFORGE Ransomware Targets AI Model Files in Langflow RCE Attack",
+      "link": "https://thehackernews.com/2026/07/new-encforge-ransomware-targets-ai.html",
+      "summary": "Researchers at Sysdig have linked a second attack on the same Langflow server to JADEPUFFER, the AI-agent-driven operator it first documented earlier this month.\n\nThe same operator has now been spotte...",
+      "published": "2026-07-21T13:04:32+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -325,26 +335,47 @@
   ],
   "overall_ranked": [
     {
-      "title": "Judge halts Paramount's $111B purchase of Warner Bros. in win for US states",
-      "link": "https://arstechnica.com/tech-policy/2026/07/judge-halts-paramounts-111b-purchase-of-warner-bros-in-win-for-us-states/",
-      "summary": "<p>Article URL: <a href=\"https://arstechnica.com/tech-policy/2026/07/judge-halts-paramounts-111b-purchase-of-warner-bros-in-win-for-us-states/\">https://arstechnica.com/tech-policy/2026/07/judge-halts-...",
-      "published": "2026-07-21T08:17:01+00:00",
-      "domain": "arstechnica.com",
+      "title": "New Bit2Watt Attack Could Let Cloud Tenants Disrupt Power Grids Without an Exploit",
+      "link": "https://thehackernews.com/2026/07/new-bit2watt-attack-could-let-cloud.html",
+      "summary": "A cloud tenant using nothing but ordinary GPU access can push a data center's power draw up and down fast enough to threaten the grid it runs on, with no exploit and no break-in.\n\nThat is the claim be...",
+      "published": "2026-07-21T16:54:50+05:30",
+      "domain": "thehackernews.com",
       "scores": {
-        "chaos": 18.0,
-        "anarchy": 12.0,
-        "overall": 15.0
+        "chaos": 16.0,
+        "anarchy": 3.0,
+        "overall": 9.5
       },
       "keywords": {
-        "chaos": [],
+        "chaos": [
+          "disrupt",
+          "down"
+        ],
         "anarchy": []
       }
     },
     {
-      "title": "New ENCFORGE Ransomware Targets AI Model Files in Langflow RCE Attack",
-      "link": "https://thehackernews.com/2026/07/new-encforge-ransomware-targets-ai.html",
-      "summary": "Researchers at Sysdig have linked a second attack on the same Langflow server to JADEPUFFER, the AI-agent-driven operator it first documented earlier this month.\n\nThe same operator has now been spotte...",
-      "published": "2026-07-21T13:04:32+05:30",
+      "title": "N-day is Becoming N-Hour. Patching Faster Won't Save You.",
+      "link": "https://thehackernews.com/2026/07/n-day-is-becoming-n-hour-patching.html",
+      "summary": "Every patch is a confession.\n\nThe moment a vendor ships a security fix, the diff between the old code and the new code tells anyone watching exactly what was broken and where. Turn that diff back into...",
+      "published": "2026-07-21T17:12:23+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 13.0,
+        "anarchy": 3.0,
+        "overall": 8.0
+      },
+      "keywords": {
+        "chaos": [
+          "broken"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Open-Source Android AI Agents Could Let Invisible Screen Text Run Code on Host PCs",
+      "link": "https://thehackernews.com/2026/07/open-source-android-ai-agents-could-let.html",
+      "summary": "An Android app that can draw over other windows and write to shared storage can slip instructions to the AI agent driving that phone, in text no human eye will ever see. Two more steps, and the same a...",
+      "published": "2026-07-21T17:28:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -357,10 +388,10 @@
       }
     },
     {
-      "title": "Critical ServiceNow AI Platform Flaw Exploited for Unauthenticated Code Execution",
-      "link": "https://thehackernews.com/2026/07/critical-servicenow-ai-platform-flaw.html",
-      "summary": "Threat actors are now exploiting a recently disclosed critical security flaw impacting ServiceNow AI Platform, according to Defused Cyber.\n\nIn a post shared on X, the threat intelligence firm said it'...",
-      "published": "2026-07-21T11:59:26+05:30",
+      "title": "WordPress wp2shell Exploitation Grows as Public Exploit Fuels Mass Scanning",
+      "link": "https://thehackernews.com/2026/07/wordpress-wp2shell-exploitation-grows.html",
+      "summary": "Attackers have begun to exploit two critical vulnerabilities in WordPress that, when combined together, enable unauthenticated remote code execution (RCE) and complete compromise of vulnerable website...",
+      "published": "2026-07-21T14:29:30+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -373,11 +404,11 @@
       }
     },
     {
-      "title": "Vixen 0.3 \u2013 fork of ratpoison (winman) goes back in time to resolve old bugs",
-      "link": "https://codeberg.org/spidervixn/vixen",
-      "summary": "<p>Article URL: <a href=\"https://codeberg.org/spidervixn/vixen\">https://codeberg.org/spidervixn/vixen</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48989551\">https://news.ycom...",
-      "published": "2026-07-21T08:22:23+00:00",
-      "domain": "codeberg.org",
+      "title": "What a 2019 API client teaches you about modern .NET",
+      "link": "https://www.ivanjurina.com/index.php/2026/07/21/what-a-2019-api-client-teaches-you-about-modern-net/",
+      "summary": "<p>Article URL: <a href=\"https://www.ivanjurina.com/index.php/2026/07/21/what-a-2019-api-client-teaches-you-about-modern-net/\">https://www.ivanjurina.com/index.php/2026/07/21/what-a-2019-api-client-te...",
+      "published": "2026-07-21T13:42:57+00:00",
+      "domain": "ivanjurina.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -389,74 +420,10 @@
       }
     },
     {
-      "title": "[LITERARY CRITICISM] The 'Screwfly Solution' Solution: Bi-Sexuality",
-      "link": "https://gwern.net/screwfly",
-      "summary": "<p>Article URL: <a href=\"https://gwern.net/screwfly\">https://gwern.net/screwfly</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48989537\">https://news.ycombinator.com/item?id=48...",
-      "published": "2026-07-21T08:20:08+00:00",
-      "domain": "gwern.net",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: A BIOS-style terminal for observing a deterministic persistent world",
-      "link": "https://speykye.github.io/persistent-world-observer-terminal/",
-      "summary": "<p>Article URL: <a href=\"https://speykye.github.io/persistent-world-observer-terminal/\">https://speykye.github.io/persistent-world-observer-terminal/</a></p>\n<p>Comments URL: <a href=\"https://news.yco...",
-      "published": "2026-07-21T08:18:22+00:00",
-      "domain": "speykye.github.io",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Did China just beat Intel?",
-      "link": "https://twitter.com/SemiAnalysis_/status/2079251630608842814",
-      "summary": "<p>Article URL: <a href=\"https://twitter.com/SemiAnalysis_/status/2079251630608842814\">https://twitter.com/SemiAnalysis_/status/2079251630608842814</a></p>\n<p>Comments URL: <a href=\"https://news.ycomb...",
-      "published": "2026-07-21T08:13:01+00:00",
-      "domain": "twitter.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Running Doom on Our Custom CPU and Going Viral",
-      "link": "https://www.armaangomes.com/blogs/doom/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48987846\">Comments</a>...",
-      "published": "2026-07-21T03:54:16+00:00",
-      "domain": "armaangomes.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Incremental \u2013 A library for incremental computations",
-      "link": "https://github.com/janestreet/incremental",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48987822\">Comments</a>...",
-      "published": "2026-07-21T03:50:53+00:00",
+      "title": "Wispr-clone \u2013 offline push-to-talk dictation for Linux",
+      "link": "https://github.com/twinlights/wispr-clone",
+      "summary": "<p>Article URL: <a href=\"https://github.com/twinlights/wispr-clone\">https://github.com/twinlights/wispr-clone</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48992229\">https://n...",
+      "published": "2026-07-21T13:41:29+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -469,11 +436,59 @@
       }
     },
     {
-      "title": "SpaceX stock closes at fresh low of just below $120, after seven straight days of losses now exceeding $1 trillion",
-      "link": "https://www.reddit.com/r/technology/comments/1v22g7p/spacex_stock_closes_at_fresh_low_of_just_below/",
-      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/marketrent\"> /u/marketrent </a> <br /> <span><a href=\"https://www.investopedia.com/spacex-stock-closes-at-fresh-low-after-seven-straight-d...",
-      "published": "2026-07-21T00:06:35+00:00",
-      "domain": "reddit.com",
+      "title": "Show HN: BlurShield \u2013 Automatically blur sensitive info during screen share",
+      "link": "https://chromewebstore.google.com/detail/blurshield-\u2013-prevent-scre/dgpihknippnloandcngnipbponnnlhmd",
+      "summary": "<p>I Built BlurShield how easy it is to expose email address,Phone No,API Key and other important info.<p>BlurShield is a browser extension which detects and blur the sensitive info automatically.<p>I...",
+      "published": "2026-07-21T13:41:21+00:00",
+      "domain": "chromewebstore.google.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "TSMC eyes price hikes of up to 25% on chip production services in 2027",
+      "link": "https://www.tomshardware.com/tech-industry/semiconductors/tsmc-eyes-price-hikes-of-up-to-25-percent-on-chip-production-services-in-2027-report-claims-plans-to-raise-baseline-prices-by-5-percent-to-10-percent-on-advanced-nodes",
+      "summary": "<p>Article URL: <a href=\"https://www.tomshardware.com/tech-industry/semiconductors/tsmc-eyes-price-hikes-of-up-to-25-percent-on-chip-production-services-in-2027-report-claims-plans-to-raise-baseline-p...",
+      "published": "2026-07-21T13:40:51+00:00",
+      "domain": "tomshardware.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Hackercouch: Couchsurfing for Hackers, by Hackers",
+      "link": "https://hackercouch.com/",
+      "summary": "<p>Article URL: <a href=\"https://hackercouch.com/\">https://hackercouch.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48992219\">https://news.ycombinator.com/item?id=489922...",
+      "published": "2026-07-21T13:40:42+00:00",
+      "domain": "hackercouch.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "New ENCFORGE Ransomware Targets AI Model Files in Langflow RCE Attack",
+      "link": "https://thehackernews.com/2026/07/new-encforge-ransomware-targets-ai.html",
+      "summary": "Researchers at Sysdig have linked a second attack on the same Langflow server to JADEPUFFER, the AI-agent-driven operator it first documented earlier this month.\n\nThe same operator has now been spotte...",
+      "published": "2026-07-21T13:04:32+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -487,10 +502,10 @@
   ],
   "all_articles": [
     {
-      "title": "New ENCFORGE Ransomware Targets AI Model Files in Langflow RCE Attack",
-      "link": "https://thehackernews.com/2026/07/new-encforge-ransomware-targets-ai.html",
-      "summary": "Researchers at Sysdig have linked a second attack on the same Langflow server to JADEPUFFER, the AI-agent-driven operator it first documented earlier this month.\n\nThe same operator has now been spotte...",
-      "published": "2026-07-21T13:04:32+05:30",
+      "title": "Open-Source Android AI Agents Could Let Invisible Screen Text Run Code on Host PCs",
+      "link": "https://thehackernews.com/2026/07/open-source-android-ai-agents-could-let.html",
+      "summary": "An Android app that can draw over other windows and write to shared storage can slip instructions to the AI agent driving that phone, in text no human eye will ever see. Two more steps, and the same a...",
+      "published": "2026-07-21T17:28:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -503,10 +518,47 @@
       }
     },
     {
-      "title": "Critical ServiceNow AI Platform Flaw Exploited for Unauthenticated Code Execution",
-      "link": "https://thehackernews.com/2026/07/critical-servicenow-ai-platform-flaw.html",
-      "summary": "Threat actors are now exploiting a recently disclosed critical security flaw impacting ServiceNow AI Platform, according to Defused Cyber.\n\nIn a post shared on X, the threat intelligence firm said it'...",
-      "published": "2026-07-21T11:59:26+05:30",
+      "title": "N-day is Becoming N-Hour. Patching Faster Won't Save You.",
+      "link": "https://thehackernews.com/2026/07/n-day-is-becoming-n-hour-patching.html",
+      "summary": "Every patch is a confession.\n\nThe moment a vendor ships a security fix, the diff between the old code and the new code tells anyone watching exactly what was broken and where. Turn that diff back into...",
+      "published": "2026-07-21T17:12:23+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 13.0,
+        "anarchy": 3.0,
+        "overall": 8.0
+      },
+      "keywords": {
+        "chaos": [
+          "broken"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "New Bit2Watt Attack Could Let Cloud Tenants Disrupt Power Grids Without an Exploit",
+      "link": "https://thehackernews.com/2026/07/new-bit2watt-attack-could-let-cloud.html",
+      "summary": "A cloud tenant using nothing but ordinary GPU access can push a data center's power draw up and down fast enough to threaten the grid it runs on, with no exploit and no break-in.\n\nThat is the claim be...",
+      "published": "2026-07-21T16:54:50+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 16.0,
+        "anarchy": 3.0,
+        "overall": 9.5
+      },
+      "keywords": {
+        "chaos": [
+          "disrupt",
+          "down"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "WordPress wp2shell Exploitation Grows as Public Exploit Fuels Mass Scanning",
+      "link": "https://thehackernews.com/2026/07/wordpress-wp2shell-exploitation-grows.html",
+      "summary": "Attackers have begun to exploit two critical vulnerabilities in WordPress that, when combined together, enable unauthenticated remote code execution (RCE) and complete compromise of vulnerable website...",
+      "published": "2026-07-21T14:29:30+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -519,11 +571,11 @@
       }
     },
     {
-      "title": "Vixen 0.3 \u2013 fork of ratpoison (winman) goes back in time to resolve old bugs",
-      "link": "https://codeberg.org/spidervixn/vixen",
-      "summary": "<p>Article URL: <a href=\"https://codeberg.org/spidervixn/vixen\">https://codeberg.org/spidervixn/vixen</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48989551\">https://news.ycom...",
-      "published": "2026-07-21T08:22:23+00:00",
-      "domain": "codeberg.org",
+      "title": "What a 2019 API client teaches you about modern .NET",
+      "link": "https://www.ivanjurina.com/index.php/2026/07/21/what-a-2019-api-client-teaches-you-about-modern-net/",
+      "summary": "<p>Article URL: <a href=\"https://www.ivanjurina.com/index.php/2026/07/21/what-a-2019-api-client-teaches-you-about-modern-net/\">https://www.ivanjurina.com/index.php/2026/07/21/what-a-2019-api-client-te...",
+      "published": "2026-07-21T13:42:57+00:00",
+      "domain": "ivanjurina.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -535,90 +587,10 @@
       }
     },
     {
-      "title": "[LITERARY CRITICISM] The 'Screwfly Solution' Solution: Bi-Sexuality",
-      "link": "https://gwern.net/screwfly",
-      "summary": "<p>Article URL: <a href=\"https://gwern.net/screwfly\">https://gwern.net/screwfly</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48989537\">https://news.ycombinator.com/item?id=48...",
-      "published": "2026-07-21T08:20:08+00:00",
-      "domain": "gwern.net",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: A BIOS-style terminal for observing a deterministic persistent world",
-      "link": "https://speykye.github.io/persistent-world-observer-terminal/",
-      "summary": "<p>Article URL: <a href=\"https://speykye.github.io/persistent-world-observer-terminal/\">https://speykye.github.io/persistent-world-observer-terminal/</a></p>\n<p>Comments URL: <a href=\"https://news.yco...",
-      "published": "2026-07-21T08:18:22+00:00",
-      "domain": "speykye.github.io",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Judge halts Paramount's $111B purchase of Warner Bros. in win for US states",
-      "link": "https://arstechnica.com/tech-policy/2026/07/judge-halts-paramounts-111b-purchase-of-warner-bros-in-win-for-us-states/",
-      "summary": "<p>Article URL: <a href=\"https://arstechnica.com/tech-policy/2026/07/judge-halts-paramounts-111b-purchase-of-warner-bros-in-win-for-us-states/\">https://arstechnica.com/tech-policy/2026/07/judge-halts-...",
-      "published": "2026-07-21T08:17:01+00:00",
-      "domain": "arstechnica.com",
-      "scores": {
-        "chaos": 18.0,
-        "anarchy": 12.0,
-        "overall": 15.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Did China just beat Intel?",
-      "link": "https://twitter.com/SemiAnalysis_/status/2079251630608842814",
-      "summary": "<p>Article URL: <a href=\"https://twitter.com/SemiAnalysis_/status/2079251630608842814\">https://twitter.com/SemiAnalysis_/status/2079251630608842814</a></p>\n<p>Comments URL: <a href=\"https://news.ycomb...",
-      "published": "2026-07-21T08:13:01+00:00",
-      "domain": "twitter.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Running Doom on Our Custom CPU and Going Viral",
-      "link": "https://www.armaangomes.com/blogs/doom/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48987846\">Comments</a>...",
-      "published": "2026-07-21T03:54:16+00:00",
-      "domain": "armaangomes.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Incremental \u2013 A library for incremental computations",
-      "link": "https://github.com/janestreet/incremental",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48987822\">Comments</a>...",
-      "published": "2026-07-21T03:50:53+00:00",
+      "title": "Wispr-clone \u2013 offline push-to-talk dictation for Linux",
+      "link": "https://github.com/twinlights/wispr-clone",
+      "summary": "<p>Article URL: <a href=\"https://github.com/twinlights/wispr-clone\">https://github.com/twinlights/wispr-clone</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48992229\">https://n...",
+      "published": "2026-07-21T13:41:29+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -631,11 +603,59 @@
       }
     },
     {
-      "title": "SpaceX stock closes at fresh low of just below $120, after seven straight days of losses now exceeding $1 trillion",
-      "link": "https://www.reddit.com/r/technology/comments/1v22g7p/spacex_stock_closes_at_fresh_low_of_just_below/",
-      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/marketrent\"> /u/marketrent </a> <br /> <span><a href=\"https://www.investopedia.com/spacex-stock-closes-at-fresh-low-after-seven-straight-d...",
-      "published": "2026-07-21T00:06:35+00:00",
-      "domain": "reddit.com",
+      "title": "Show HN: BlurShield \u2013 Automatically blur sensitive info during screen share",
+      "link": "https://chromewebstore.google.com/detail/blurshield-\u2013-prevent-scre/dgpihknippnloandcngnipbponnnlhmd",
+      "summary": "<p>I Built BlurShield how easy it is to expose email address,Phone No,API Key and other important info.<p>BlurShield is a browser extension which detects and blur the sensitive info automatically.<p>I...",
+      "published": "2026-07-21T13:41:21+00:00",
+      "domain": "chromewebstore.google.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "TSMC eyes price hikes of up to 25% on chip production services in 2027",
+      "link": "https://www.tomshardware.com/tech-industry/semiconductors/tsmc-eyes-price-hikes-of-up-to-25-percent-on-chip-production-services-in-2027-report-claims-plans-to-raise-baseline-prices-by-5-percent-to-10-percent-on-advanced-nodes",
+      "summary": "<p>Article URL: <a href=\"https://www.tomshardware.com/tech-industry/semiconductors/tsmc-eyes-price-hikes-of-up-to-25-percent-on-chip-production-services-in-2027-report-claims-plans-to-raise-baseline-p...",
+      "published": "2026-07-21T13:40:51+00:00",
+      "domain": "tomshardware.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Hackercouch: Couchsurfing for Hackers, by Hackers",
+      "link": "https://hackercouch.com/",
+      "summary": "<p>Article URL: <a href=\"https://hackercouch.com/\">https://hackercouch.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48992219\">https://news.ycombinator.com/item?id=489922...",
+      "published": "2026-07-21T13:40:42+00:00",
+      "domain": "hackercouch.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "New ENCFORGE Ransomware Targets AI Model Files in Langflow RCE Attack",
+      "link": "https://thehackernews.com/2026/07/new-encforge-ransomware-targets-ai.html",
+      "summary": "Researchers at Sysdig have linked a second attack on the same Langflow server to JADEPUFFER, the AI-agent-driven operator it first documented earlier this month.\n\nThe same operator has now been spotte...",
+      "published": "2026-07-21T13:04:32+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
