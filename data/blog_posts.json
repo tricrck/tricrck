@@ -1,29 +1,43 @@
 {
   "chaos_ranked": [
     {
-      "title": "Exposed Server Reveals AI-Assisted Phishing Toolkit Behind WebDAV Malware Campaign",
-      "link": "https://thehackernews.com/2026/07/exposed-server-reveals-ai-assisted.html",
-      "summary": "A malware operator left its delivery server wide open, and Rapid7 pulled down the whole toolkit: 1,048 files spanning lure templates, filename-spoofing tests, execution experiments, droppers, builder ...",
-      "published": "2026-07-20T22:59:50+05:30",
+      "title": "Judge halts Paramount's $111B purchase of Warner Bros. in win for US states",
+      "link": "https://arstechnica.com/tech-policy/2026/07/judge-halts-paramounts-111b-purchase-of-warner-bros-in-win-for-us-states/",
+      "summary": "<p>Article URL: <a href=\"https://arstechnica.com/tech-policy/2026/07/judge-halts-paramounts-111b-purchase-of-warner-bros-in-win-for-us-states/\">https://arstechnica.com/tech-policy/2026/07/judge-halts-...",
+      "published": "2026-07-21T08:17:01+00:00",
+      "domain": "arstechnica.com",
+      "scores": {
+        "chaos": 18.0,
+        "anarchy": 12.0,
+        "overall": 15.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "New ENCFORGE Ransomware Targets AI Model Files in Langflow RCE Attack",
+      "link": "https://thehackernews.com/2026/07/new-encforge-ransomware-targets-ai.html",
+      "summary": "Researchers at Sysdig have linked a second attack on the same Langflow server to JADEPUFFER, the AI-agent-driven operator it first documented earlier this month.\n\nThe same operator has now been spotte...",
+      "published": "2026-07-21T13:04:32+05:30",
       "domain": "thehackernews.com",
       "scores": {
-        "chaos": 10.0,
+        "chaos": 3.0,
         "anarchy": 3.0,
-        "overall": 6.5
+        "overall": 3.0
       },
       "keywords": {
-        "chaos": [
-          "down"
-        ],
+        "chaos": [],
         "anarchy": []
       }
     },
     {
-      "title": "People are transcribing your conversations without asking. That puts you at risk",
-      "link": "https://werd.io/people-are-transcribing-your-conversations-without-asking-that-puts-you-at-risk/",
-      "summary": "<p>Article URL: <a href=\"https://werd.io/people-are-transcribing-your-conversations-without-asking-that-puts-you-at-risk/\">https://werd.io/people-are-transcribing-your-conversations-without-asking-tha...",
-      "published": "2026-07-21T02:41:53+00:00",
-      "domain": "werd.io",
+      "title": "Critical ServiceNow AI Platform Flaw Exploited for Unauthenticated Code Execution",
+      "link": "https://thehackernews.com/2026/07/critical-servicenow-ai-platform-flaw.html",
+      "summary": "Threat actors are now exploiting a recently disclosed critical security flaw impacting ServiceNow AI Platform, according to Defused Cyber.\n\nIn a post shared on X, the threat intelligence firm said it'...",
+      "published": "2026-07-21T11:59:26+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -35,11 +49,11 @@
       }
     },
     {
-      "title": "Toll: Constant memory rate limiter at any scale",
-      "link": "https://github.com/satmihir/toll",
-      "summary": "<p>Article URL: <a href=\"https://github.com/satmihir/toll\">https://github.com/satmihir/toll</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48987429\">https://news.ycombinator.co...",
-      "published": "2026-07-21T02:40:14+00:00",
-      "domain": "github.com",
+      "title": "Vixen 0.3 \u2013 fork of ratpoison (winman) goes back in time to resolve old bugs",
+      "link": "https://codeberg.org/spidervixn/vixen",
+      "summary": "<p>Article URL: <a href=\"https://codeberg.org/spidervixn/vixen\">https://codeberg.org/spidervixn/vixen</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48989551\">https://news.ycom...",
+      "published": "2026-07-21T08:22:23+00:00",
+      "domain": "codeberg.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -51,11 +65,11 @@
       }
     },
     {
-      "title": "So bright the vision (1956) a story about machines writing instead of humans [pdf]",
-      "link": "https://s3.us-west-1.wasabisys.com/luminist/EB/S/Simak%20-%20So%20Bright%20the%20Vision.pdf",
-      "summary": "<p>Article URL: <a href=\"https://s3.us-west-1.wasabisys.com/luminist/EB/S/Simak%20-%20So%20Bright%20the%20Vision.pdf\">https://s3.us-west-1.wasabisys.com/luminist/EB/S/Simak%20-%20So%20Bright%20the%20V...",
-      "published": "2026-07-21T02:38:50+00:00",
-      "domain": "s3.us-west-1.wasabisys.com",
+      "title": "[LITERARY CRITICISM] The 'Screwfly Solution' Solution: Bi-Sexuality",
+      "link": "https://gwern.net/screwfly",
+      "summary": "<p>Article URL: <a href=\"https://gwern.net/screwfly\">https://gwern.net/screwfly</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48989537\">https://news.ycombinator.com/item?id=48...",
+      "published": "2026-07-21T08:20:08+00:00",
+      "domain": "gwern.net",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -67,11 +81,11 @@
       }
     },
     {
-      "title": "Apollo 11 Guidance Computer (AGC) source code",
-      "link": "https://github.com/chrislgarry/apollo-11",
-      "summary": "<p>Article URL: <a href=\"https://github.com/chrislgarry/apollo-11\">https://github.com/chrislgarry/apollo-11</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48987401\">https://new...",
-      "published": "2026-07-21T02:35:06+00:00",
-      "domain": "github.com",
+      "title": "Show HN: A BIOS-style terminal for observing a deterministic persistent world",
+      "link": "https://speykye.github.io/persistent-world-observer-terminal/",
+      "summary": "<p>Article URL: <a href=\"https://speykye.github.io/persistent-world-observer-terminal/\">https://speykye.github.io/persistent-world-observer-terminal/</a></p>\n<p>Comments URL: <a href=\"https://news.yco...",
+      "published": "2026-07-21T08:18:22+00:00",
+      "domain": "speykye.github.io",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -83,10 +97,42 @@
       }
     },
     {
-      "title": "Cosmonapse \u2013 an event-driven protocol for AI agent systems",
-      "link": "https://github.com/Cosmonapse/cosmonapse-core",
-      "summary": "<p>Article URL: <a href=\"https://github.com/Cosmonapse/cosmonapse-core\">https://github.com/Cosmonapse/cosmonapse-core</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48987399\">h...",
-      "published": "2026-07-21T02:35:02+00:00",
+      "title": "Did China just beat Intel?",
+      "link": "https://twitter.com/SemiAnalysis_/status/2079251630608842814",
+      "summary": "<p>Article URL: <a href=\"https://twitter.com/SemiAnalysis_/status/2079251630608842814\">https://twitter.com/SemiAnalysis_/status/2079251630608842814</a></p>\n<p>Comments URL: <a href=\"https://news.ycomb...",
+      "published": "2026-07-21T08:13:01+00:00",
+      "domain": "twitter.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Running Doom on Our Custom CPU and Going Viral",
+      "link": "https://www.armaangomes.com/blogs/doom/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48987846\">Comments</a>...",
+      "published": "2026-07-21T03:54:16+00:00",
+      "domain": "armaangomes.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Incremental \u2013 A library for incremental computations",
+      "link": "https://github.com/janestreet/incremental",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48987822\">Comments</a>...",
+      "published": "2026-07-21T03:50:53+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -103,54 +149,6 @@
       "link": "https://www.reddit.com/r/technology/comments/1v22g7p/spacex_stock_closes_at_fresh_low_of_just_below/",
       "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/marketrent\"> /u/marketrent </a> <br /> <span><a href=\"https://www.investopedia.com/spacex-stock-closes-at-fresh-low-after-seven-straight-d...",
       "published": "2026-07-21T00:06:35+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "FakeGit Campaign Uses 7,600 GitHub Repositories to Spread SmartLoader Malware",
-      "link": "https://thehackernews.com/2026/07/fakegit-campaign-uses-7600-github.html",
-      "summary": "Cybersecurity researchers have discovered nearly 7,600 malicious GitHub repositories, out of which more than 800 pose as artificial intelligence (AI) skills or Model Context Protocol (MCP) servers to ...",
-      "published": "2026-07-20T23:53:03+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Jellyfin founder Andrew leaves team",
-      "link": "https://forum.jellyfin.org/t-project-leadership-changes",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48986091\">Comments</a>...",
-      "published": "2026-07-20T23:15:41+00:00",
-      "domain": "forum.jellyfin.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Americans hate AI so much that politicians are starting to lose their jobs over it",
-      "link": "https://www.reddit.com/r/technology/comments/1v1yjbl/americans_hate_ai_so_much_that_politicians_are/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1v1yjbl/americans_hate_ai_so_much_that_politicians_are/\"> <img alt=\"Americans hate AI so much that politicians are starting to lo...",
-      "published": "2026-07-20T21:25:07+00:00",
       "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
@@ -165,11 +163,27 @@
   ],
   "anarchy_ranked": [
     {
-      "title": "People are transcribing your conversations without asking. That puts you at risk",
-      "link": "https://werd.io/people-are-transcribing-your-conversations-without-asking-that-puts-you-at-risk/",
-      "summary": "<p>Article URL: <a href=\"https://werd.io/people-are-transcribing-your-conversations-without-asking-that-puts-you-at-risk/\">https://werd.io/people-are-transcribing-your-conversations-without-asking-tha...",
-      "published": "2026-07-21T02:41:53+00:00",
-      "domain": "werd.io",
+      "title": "Judge halts Paramount's $111B purchase of Warner Bros. in win for US states",
+      "link": "https://arstechnica.com/tech-policy/2026/07/judge-halts-paramounts-111b-purchase-of-warner-bros-in-win-for-us-states/",
+      "summary": "<p>Article URL: <a href=\"https://arstechnica.com/tech-policy/2026/07/judge-halts-paramounts-111b-purchase-of-warner-bros-in-win-for-us-states/\">https://arstechnica.com/tech-policy/2026/07/judge-halts-...",
+      "published": "2026-07-21T08:17:01+00:00",
+      "domain": "arstechnica.com",
+      "scores": {
+        "chaos": 18.0,
+        "anarchy": 12.0,
+        "overall": 15.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "New ENCFORGE Ransomware Targets AI Model Files in Langflow RCE Attack",
+      "link": "https://thehackernews.com/2026/07/new-encforge-ransomware-targets-ai.html",
+      "summary": "Researchers at Sysdig have linked a second attack on the same Langflow server to JADEPUFFER, the AI-agent-driven operator it first documented earlier this month.\n\nThe same operator has now been spotte...",
+      "published": "2026-07-21T13:04:32+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -181,11 +195,11 @@
       }
     },
     {
-      "title": "Toll: Constant memory rate limiter at any scale",
-      "link": "https://github.com/satmihir/toll",
-      "summary": "<p>Article URL: <a href=\"https://github.com/satmihir/toll\">https://github.com/satmihir/toll</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48987429\">https://news.ycombinator.co...",
-      "published": "2026-07-21T02:40:14+00:00",
-      "domain": "github.com",
+      "title": "Critical ServiceNow AI Platform Flaw Exploited for Unauthenticated Code Execution",
+      "link": "https://thehackernews.com/2026/07/critical-servicenow-ai-platform-flaw.html",
+      "summary": "Threat actors are now exploiting a recently disclosed critical security flaw impacting ServiceNow AI Platform, according to Defused Cyber.\n\nIn a post shared on X, the threat intelligence firm said it'...",
+      "published": "2026-07-21T11:59:26+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -197,11 +211,11 @@
       }
     },
     {
-      "title": "So bright the vision (1956) a story about machines writing instead of humans [pdf]",
-      "link": "https://s3.us-west-1.wasabisys.com/luminist/EB/S/Simak%20-%20So%20Bright%20the%20Vision.pdf",
-      "summary": "<p>Article URL: <a href=\"https://s3.us-west-1.wasabisys.com/luminist/EB/S/Simak%20-%20So%20Bright%20the%20Vision.pdf\">https://s3.us-west-1.wasabisys.com/luminist/EB/S/Simak%20-%20So%20Bright%20the%20V...",
-      "published": "2026-07-21T02:38:50+00:00",
-      "domain": "s3.us-west-1.wasabisys.com",
+      "title": "Vixen 0.3 \u2013 fork of ratpoison (winman) goes back in time to resolve old bugs",
+      "link": "https://codeberg.org/spidervixn/vixen",
+      "summary": "<p>Article URL: <a href=\"https://codeberg.org/spidervixn/vixen\">https://codeberg.org/spidervixn/vixen</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48989551\">https://news.ycom...",
+      "published": "2026-07-21T08:22:23+00:00",
+      "domain": "codeberg.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -213,11 +227,11 @@
       }
     },
     {
-      "title": "Apollo 11 Guidance Computer (AGC) source code",
-      "link": "https://github.com/chrislgarry/apollo-11",
-      "summary": "<p>Article URL: <a href=\"https://github.com/chrislgarry/apollo-11\">https://github.com/chrislgarry/apollo-11</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48987401\">https://new...",
-      "published": "2026-07-21T02:35:06+00:00",
-      "domain": "github.com",
+      "title": "[LITERARY CRITICISM] The 'Screwfly Solution' Solution: Bi-Sexuality",
+      "link": "https://gwern.net/screwfly",
+      "summary": "<p>Article URL: <a href=\"https://gwern.net/screwfly\">https://gwern.net/screwfly</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48989537\">https://news.ycombinator.com/item?id=48...",
+      "published": "2026-07-21T08:20:08+00:00",
+      "domain": "gwern.net",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -229,10 +243,58 @@
       }
     },
     {
-      "title": "Cosmonapse \u2013 an event-driven protocol for AI agent systems",
-      "link": "https://github.com/Cosmonapse/cosmonapse-core",
-      "summary": "<p>Article URL: <a href=\"https://github.com/Cosmonapse/cosmonapse-core\">https://github.com/Cosmonapse/cosmonapse-core</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48987399\">h...",
-      "published": "2026-07-21T02:35:02+00:00",
+      "title": "Show HN: A BIOS-style terminal for observing a deterministic persistent world",
+      "link": "https://speykye.github.io/persistent-world-observer-terminal/",
+      "summary": "<p>Article URL: <a href=\"https://speykye.github.io/persistent-world-observer-terminal/\">https://speykye.github.io/persistent-world-observer-terminal/</a></p>\n<p>Comments URL: <a href=\"https://news.yco...",
+      "published": "2026-07-21T08:18:22+00:00",
+      "domain": "speykye.github.io",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Did China just beat Intel?",
+      "link": "https://twitter.com/SemiAnalysis_/status/2079251630608842814",
+      "summary": "<p>Article URL: <a href=\"https://twitter.com/SemiAnalysis_/status/2079251630608842814\">https://twitter.com/SemiAnalysis_/status/2079251630608842814</a></p>\n<p>Comments URL: <a href=\"https://news.ycomb...",
+      "published": "2026-07-21T08:13:01+00:00",
+      "domain": "twitter.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Running Doom on Our Custom CPU and Going Viral",
+      "link": "https://www.armaangomes.com/blogs/doom/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48987846\">Comments</a>...",
+      "published": "2026-07-21T03:54:16+00:00",
+      "domain": "armaangomes.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Incremental \u2013 A library for incremental computations",
+      "link": "https://github.com/janestreet/incremental",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48987822\">Comments</a>...",
+      "published": "2026-07-21T03:50:53+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -249,72 +311,6 @@
       "link": "https://www.reddit.com/r/technology/comments/1v22g7p/spacex_stock_closes_at_fresh_low_of_just_below/",
       "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/marketrent\"> /u/marketrent </a> <br /> <span><a href=\"https://www.investopedia.com/spacex-stock-closes-at-fresh-low-after-seven-straight-d...",
       "published": "2026-07-21T00:06:35+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "FakeGit Campaign Uses 7,600 GitHub Repositories to Spread SmartLoader Malware",
-      "link": "https://thehackernews.com/2026/07/fakegit-campaign-uses-7600-github.html",
-      "summary": "Cybersecurity researchers have discovered nearly 7,600 malicious GitHub repositories, out of which more than 800 pose as artificial intelligence (AI) skills or Model Context Protocol (MCP) servers to ...",
-      "published": "2026-07-20T23:53:03+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Jellyfin founder Andrew leaves team",
-      "link": "https://forum.jellyfin.org/t-project-leadership-changes",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48986091\">Comments</a>...",
-      "published": "2026-07-20T23:15:41+00:00",
-      "domain": "forum.jellyfin.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Exposed Server Reveals AI-Assisted Phishing Toolkit Behind WebDAV Malware Campaign",
-      "link": "https://thehackernews.com/2026/07/exposed-server-reveals-ai-assisted.html",
-      "summary": "A malware operator left its delivery server wide open, and Rapid7 pulled down the whole toolkit: 1,048 files spanning lure templates, filename-spoofing tests, execution experiments, droppers, builder ...",
-      "published": "2026-07-20T22:59:50+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 10.0,
-        "anarchy": 3.0,
-        "overall": 6.5
-      },
-      "keywords": {
-        "chaos": [
-          "down"
-        ],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Americans hate AI so much that politicians are starting to lose their jobs over it",
-      "link": "https://www.reddit.com/r/technology/comments/1v1yjbl/americans_hate_ai_so_much_that_politicians_are/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1v1yjbl/americans_hate_ai_so_much_that_politicians_are/\"> <img alt=\"Americans hate AI so much that politicians are starting to lo...",
-      "published": "2026-07-20T21:25:07+00:00",
       "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
@@ -329,29 +325,43 @@
   ],
   "overall_ranked": [
     {
-      "title": "Exposed Server Reveals AI-Assisted Phishing Toolkit Behind WebDAV Malware Campaign",
-      "link": "https://thehackernews.com/2026/07/exposed-server-reveals-ai-assisted.html",
-      "summary": "A malware operator left its delivery server wide open, and Rapid7 pulled down the whole toolkit: 1,048 files spanning lure templates, filename-spoofing tests, execution experiments, droppers, builder ...",
-      "published": "2026-07-20T22:59:50+05:30",
+      "title": "Judge halts Paramount's $111B purchase of Warner Bros. in win for US states",
+      "link": "https://arstechnica.com/tech-policy/2026/07/judge-halts-paramounts-111b-purchase-of-warner-bros-in-win-for-us-states/",
+      "summary": "<p>Article URL: <a href=\"https://arstechnica.com/tech-policy/2026/07/judge-halts-paramounts-111b-purchase-of-warner-bros-in-win-for-us-states/\">https://arstechnica.com/tech-policy/2026/07/judge-halts-...",
+      "published": "2026-07-21T08:17:01+00:00",
+      "domain": "arstechnica.com",
+      "scores": {
+        "chaos": 18.0,
+        "anarchy": 12.0,
+        "overall": 15.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "New ENCFORGE Ransomware Targets AI Model Files in Langflow RCE Attack",
+      "link": "https://thehackernews.com/2026/07/new-encforge-ransomware-targets-ai.html",
+      "summary": "Researchers at Sysdig have linked a second attack on the same Langflow server to JADEPUFFER, the AI-agent-driven operator it first documented earlier this month.\n\nThe same operator has now been spotte...",
+      "published": "2026-07-21T13:04:32+05:30",
       "domain": "thehackernews.com",
       "scores": {
-        "chaos": 10.0,
+        "chaos": 3.0,
         "anarchy": 3.0,
-        "overall": 6.5
+        "overall": 3.0
       },
       "keywords": {
-        "chaos": [
-          "down"
-        ],
+        "chaos": [],
         "anarchy": []
       }
     },
     {
-      "title": "People are transcribing your conversations without asking. That puts you at risk",
-      "link": "https://werd.io/people-are-transcribing-your-conversations-without-asking-that-puts-you-at-risk/",
-      "summary": "<p>Article URL: <a href=\"https://werd.io/people-are-transcribing-your-conversations-without-asking-that-puts-you-at-risk/\">https://werd.io/people-are-transcribing-your-conversations-without-asking-tha...",
-      "published": "2026-07-21T02:41:53+00:00",
-      "domain": "werd.io",
+      "title": "Critical ServiceNow AI Platform Flaw Exploited for Unauthenticated Code Execution",
+      "link": "https://thehackernews.com/2026/07/critical-servicenow-ai-platform-flaw.html",
+      "summary": "Threat actors are now exploiting a recently disclosed critical security flaw impacting ServiceNow AI Platform, according to Defused Cyber.\n\nIn a post shared on X, the threat intelligence firm said it'...",
+      "published": "2026-07-21T11:59:26+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -363,11 +373,11 @@
       }
     },
     {
-      "title": "Toll: Constant memory rate limiter at any scale",
-      "link": "https://github.com/satmihir/toll",
-      "summary": "<p>Article URL: <a href=\"https://github.com/satmihir/toll\">https://github.com/satmihir/toll</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48987429\">https://news.ycombinator.co...",
-      "published": "2026-07-21T02:40:14+00:00",
-      "domain": "github.com",
+      "title": "Vixen 0.3 \u2013 fork of ratpoison (winman) goes back in time to resolve old bugs",
+      "link": "https://codeberg.org/spidervixn/vixen",
+      "summary": "<p>Article URL: <a href=\"https://codeberg.org/spidervixn/vixen\">https://codeberg.org/spidervixn/vixen</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48989551\">https://news.ycom...",
+      "published": "2026-07-21T08:22:23+00:00",
+      "domain": "codeberg.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -379,11 +389,11 @@
       }
     },
     {
-      "title": "So bright the vision (1956) a story about machines writing instead of humans [pdf]",
-      "link": "https://s3.us-west-1.wasabisys.com/luminist/EB/S/Simak%20-%20So%20Bright%20the%20Vision.pdf",
-      "summary": "<p>Article URL: <a href=\"https://s3.us-west-1.wasabisys.com/luminist/EB/S/Simak%20-%20So%20Bright%20the%20Vision.pdf\">https://s3.us-west-1.wasabisys.com/luminist/EB/S/Simak%20-%20So%20Bright%20the%20V...",
-      "published": "2026-07-21T02:38:50+00:00",
-      "domain": "s3.us-west-1.wasabisys.com",
+      "title": "[LITERARY CRITICISM] The 'Screwfly Solution' Solution: Bi-Sexuality",
+      "link": "https://gwern.net/screwfly",
+      "summary": "<p>Article URL: <a href=\"https://gwern.net/screwfly\">https://gwern.net/screwfly</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48989537\">https://news.ycombinator.com/item?id=48...",
+      "published": "2026-07-21T08:20:08+00:00",
+      "domain": "gwern.net",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -395,11 +405,11 @@
       }
     },
     {
-      "title": "Apollo 11 Guidance Computer (AGC) source code",
-      "link": "https://github.com/chrislgarry/apollo-11",
-      "summary": "<p>Article URL: <a href=\"https://github.com/chrislgarry/apollo-11\">https://github.com/chrislgarry/apollo-11</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48987401\">https://new...",
-      "published": "2026-07-21T02:35:06+00:00",
-      "domain": "github.com",
+      "title": "Show HN: A BIOS-style terminal for observing a deterministic persistent world",
+      "link": "https://speykye.github.io/persistent-world-observer-terminal/",
+      "summary": "<p>Article URL: <a href=\"https://speykye.github.io/persistent-world-observer-terminal/\">https://speykye.github.io/persistent-world-observer-terminal/</a></p>\n<p>Comments URL: <a href=\"https://news.yco...",
+      "published": "2026-07-21T08:18:22+00:00",
+      "domain": "speykye.github.io",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -411,10 +421,42 @@
       }
     },
     {
-      "title": "Cosmonapse \u2013 an event-driven protocol for AI agent systems",
-      "link": "https://github.com/Cosmonapse/cosmonapse-core",
-      "summary": "<p>Article URL: <a href=\"https://github.com/Cosmonapse/cosmonapse-core\">https://github.com/Cosmonapse/cosmonapse-core</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48987399\">h...",
-      "published": "2026-07-21T02:35:02+00:00",
+      "title": "Did China just beat Intel?",
+      "link": "https://twitter.com/SemiAnalysis_/status/2079251630608842814",
+      "summary": "<p>Article URL: <a href=\"https://twitter.com/SemiAnalysis_/status/2079251630608842814\">https://twitter.com/SemiAnalysis_/status/2079251630608842814</a></p>\n<p>Comments URL: <a href=\"https://news.ycomb...",
+      "published": "2026-07-21T08:13:01+00:00",
+      "domain": "twitter.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Running Doom on Our Custom CPU and Going Viral",
+      "link": "https://www.armaangomes.com/blogs/doom/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48987846\">Comments</a>...",
+      "published": "2026-07-21T03:54:16+00:00",
+      "domain": "armaangomes.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Incremental \u2013 A library for incremental computations",
+      "link": "https://github.com/janestreet/incremental",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48987822\">Comments</a>...",
+      "published": "2026-07-21T03:50:53+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -431,54 +473,6 @@
       "link": "https://www.reddit.com/r/technology/comments/1v22g7p/spacex_stock_closes_at_fresh_low_of_just_below/",
       "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/marketrent\"> /u/marketrent </a> <br /> <span><a href=\"https://www.investopedia.com/spacex-stock-closes-at-fresh-low-after-seven-straight-d...",
       "published": "2026-07-21T00:06:35+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "FakeGit Campaign Uses 7,600 GitHub Repositories to Spread SmartLoader Malware",
-      "link": "https://thehackernews.com/2026/07/fakegit-campaign-uses-7600-github.html",
-      "summary": "Cybersecurity researchers have discovered nearly 7,600 malicious GitHub repositories, out of which more than 800 pose as artificial intelligence (AI) skills or Model Context Protocol (MCP) servers to ...",
-      "published": "2026-07-20T23:53:03+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Jellyfin founder Andrew leaves team",
-      "link": "https://forum.jellyfin.org/t-project-leadership-changes",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48986091\">Comments</a>...",
-      "published": "2026-07-20T23:15:41+00:00",
-      "domain": "forum.jellyfin.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Americans hate AI so much that politicians are starting to lose their jobs over it",
-      "link": "https://www.reddit.com/r/technology/comments/1v1yjbl/americans_hate_ai_so_much_that_politicians_are/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1v1yjbl/americans_hate_ai_so_much_that_politicians_are/\"> <img alt=\"Americans hate AI so much that politicians are starting to lo...",
-      "published": "2026-07-20T21:25:07+00:00",
       "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
@@ -493,11 +487,11 @@
   ],
   "all_articles": [
     {
-      "title": "People are transcribing your conversations without asking. That puts you at risk",
-      "link": "https://werd.io/people-are-transcribing-your-conversations-without-asking-that-puts-you-at-risk/",
-      "summary": "<p>Article URL: <a href=\"https://werd.io/people-are-transcribing-your-conversations-without-asking-that-puts-you-at-risk/\">https://werd.io/people-are-transcribing-your-conversations-without-asking-tha...",
-      "published": "2026-07-21T02:41:53+00:00",
-      "domain": "werd.io",
+      "title": "New ENCFORGE Ransomware Targets AI Model Files in Langflow RCE Attack",
+      "link": "https://thehackernews.com/2026/07/new-encforge-ransomware-targets-ai.html",
+      "summary": "Researchers at Sysdig have linked a second attack on the same Langflow server to JADEPUFFER, the AI-agent-driven operator it first documented earlier this month.\n\nThe same operator has now been spotte...",
+      "published": "2026-07-21T13:04:32+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -509,11 +503,11 @@
       }
     },
     {
-      "title": "Toll: Constant memory rate limiter at any scale",
-      "link": "https://github.com/satmihir/toll",
-      "summary": "<p>Article URL: <a href=\"https://github.com/satmihir/toll\">https://github.com/satmihir/toll</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48987429\">https://news.ycombinator.co...",
-      "published": "2026-07-21T02:40:14+00:00",
-      "domain": "github.com",
+      "title": "Critical ServiceNow AI Platform Flaw Exploited for Unauthenticated Code Execution",
+      "link": "https://thehackernews.com/2026/07/critical-servicenow-ai-platform-flaw.html",
+      "summary": "Threat actors are now exploiting a recently disclosed critical security flaw impacting ServiceNow AI Platform, according to Defused Cyber.\n\nIn a post shared on X, the threat intelligence firm said it'...",
+      "published": "2026-07-21T11:59:26+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -525,11 +519,11 @@
       }
     },
     {
-      "title": "So bright the vision (1956) a story about machines writing instead of humans [pdf]",
-      "link": "https://s3.us-west-1.wasabisys.com/luminist/EB/S/Simak%20-%20So%20Bright%20the%20Vision.pdf",
-      "summary": "<p>Article URL: <a href=\"https://s3.us-west-1.wasabisys.com/luminist/EB/S/Simak%20-%20So%20Bright%20the%20Vision.pdf\">https://s3.us-west-1.wasabisys.com/luminist/EB/S/Simak%20-%20So%20Bright%20the%20V...",
-      "published": "2026-07-21T02:38:50+00:00",
-      "domain": "s3.us-west-1.wasabisys.com",
+      "title": "Vixen 0.3 \u2013 fork of ratpoison (winman) goes back in time to resolve old bugs",
+      "link": "https://codeberg.org/spidervixn/vixen",
+      "summary": "<p>Article URL: <a href=\"https://codeberg.org/spidervixn/vixen\">https://codeberg.org/spidervixn/vixen</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48989551\">https://news.ycom...",
+      "published": "2026-07-21T08:22:23+00:00",
+      "domain": "codeberg.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -541,11 +535,11 @@
       }
     },
     {
-      "title": "Apollo 11 Guidance Computer (AGC) source code",
-      "link": "https://github.com/chrislgarry/apollo-11",
-      "summary": "<p>Article URL: <a href=\"https://github.com/chrislgarry/apollo-11\">https://github.com/chrislgarry/apollo-11</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48987401\">https://new...",
-      "published": "2026-07-21T02:35:06+00:00",
-      "domain": "github.com",
+      "title": "[LITERARY CRITICISM] The 'Screwfly Solution' Solution: Bi-Sexuality",
+      "link": "https://gwern.net/screwfly",
+      "summary": "<p>Article URL: <a href=\"https://gwern.net/screwfly\">https://gwern.net/screwfly</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48989537\">https://news.ycombinator.com/item?id=48...",
+      "published": "2026-07-21T08:20:08+00:00",
+      "domain": "gwern.net",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -557,10 +551,74 @@
       }
     },
     {
-      "title": "Cosmonapse \u2013 an event-driven protocol for AI agent systems",
-      "link": "https://github.com/Cosmonapse/cosmonapse-core",
-      "summary": "<p>Article URL: <a href=\"https://github.com/Cosmonapse/cosmonapse-core\">https://github.com/Cosmonapse/cosmonapse-core</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48987399\">h...",
-      "published": "2026-07-21T02:35:02+00:00",
+      "title": "Show HN: A BIOS-style terminal for observing a deterministic persistent world",
+      "link": "https://speykye.github.io/persistent-world-observer-terminal/",
+      "summary": "<p>Article URL: <a href=\"https://speykye.github.io/persistent-world-observer-terminal/\">https://speykye.github.io/persistent-world-observer-terminal/</a></p>\n<p>Comments URL: <a href=\"https://news.yco...",
+      "published": "2026-07-21T08:18:22+00:00",
+      "domain": "speykye.github.io",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Judge halts Paramount's $111B purchase of Warner Bros. in win for US states",
+      "link": "https://arstechnica.com/tech-policy/2026/07/judge-halts-paramounts-111b-purchase-of-warner-bros-in-win-for-us-states/",
+      "summary": "<p>Article URL: <a href=\"https://arstechnica.com/tech-policy/2026/07/judge-halts-paramounts-111b-purchase-of-warner-bros-in-win-for-us-states/\">https://arstechnica.com/tech-policy/2026/07/judge-halts-...",
+      "published": "2026-07-21T08:17:01+00:00",
+      "domain": "arstechnica.com",
+      "scores": {
+        "chaos": 18.0,
+        "anarchy": 12.0,
+        "overall": 15.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Did China just beat Intel?",
+      "link": "https://twitter.com/SemiAnalysis_/status/2079251630608842814",
+      "summary": "<p>Article URL: <a href=\"https://twitter.com/SemiAnalysis_/status/2079251630608842814\">https://twitter.com/SemiAnalysis_/status/2079251630608842814</a></p>\n<p>Comments URL: <a href=\"https://news.ycomb...",
+      "published": "2026-07-21T08:13:01+00:00",
+      "domain": "twitter.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Running Doom on Our Custom CPU and Going Viral",
+      "link": "https://www.armaangomes.com/blogs/doom/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48987846\">Comments</a>...",
+      "published": "2026-07-21T03:54:16+00:00",
+      "domain": "armaangomes.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Incremental \u2013 A library for incremental computations",
+      "link": "https://github.com/janestreet/incremental",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48987822\">Comments</a>...",
+      "published": "2026-07-21T03:50:53+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -577,72 +635,6 @@
       "link": "https://www.reddit.com/r/technology/comments/1v22g7p/spacex_stock_closes_at_fresh_low_of_just_below/",
       "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/marketrent\"> /u/marketrent </a> <br /> <span><a href=\"https://www.investopedia.com/spacex-stock-closes-at-fresh-low-after-seven-straight-d...",
       "published": "2026-07-21T00:06:35+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "FakeGit Campaign Uses 7,600 GitHub Repositories to Spread SmartLoader Malware",
-      "link": "https://thehackernews.com/2026/07/fakegit-campaign-uses-7600-github.html",
-      "summary": "Cybersecurity researchers have discovered nearly 7,600 malicious GitHub repositories, out of which more than 800 pose as artificial intelligence (AI) skills or Model Context Protocol (MCP) servers to ...",
-      "published": "2026-07-20T23:53:03+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Jellyfin founder Andrew leaves team",
-      "link": "https://forum.jellyfin.org/t-project-leadership-changes",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48986091\">Comments</a>...",
-      "published": "2026-07-20T23:15:41+00:00",
-      "domain": "forum.jellyfin.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Exposed Server Reveals AI-Assisted Phishing Toolkit Behind WebDAV Malware Campaign",
-      "link": "https://thehackernews.com/2026/07/exposed-server-reveals-ai-assisted.html",
-      "summary": "A malware operator left its delivery server wide open, and Rapid7 pulled down the whole toolkit: 1,048 files spanning lure templates, filename-spoofing tests, execution experiments, droppers, builder ...",
-      "published": "2026-07-20T22:59:50+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 10.0,
-        "anarchy": 3.0,
-        "overall": 6.5
-      },
-      "keywords": {
-        "chaos": [
-          "down"
-        ],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Americans hate AI so much that politicians are starting to lose their jobs over it",
-      "link": "https://www.reddit.com/r/technology/comments/1v1yjbl/americans_hate_ai_so_much_that_politicians_are/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1v1yjbl/americans_hate_ai_so_much_that_politicians_are/\"> <img alt=\"Americans hate AI so much that politicians are starting to lo...",
-      "published": "2026-07-20T21:25:07+00:00",
       "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,

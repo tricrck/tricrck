@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Exposed Server Reveals AI-Assisted Phishing Toolkit Behind WebDAV Malware Campaign
-- **Published**: July 20, 2026
-- **Summary**: A malware operator left its delivery server wide open, and Rapid7 pulled down the whole toolkit: 1,048 files spanning lure templates, filename-spoofin...
-- **Keywords**: down
-- [Read more](https://thehackernews.com/2026/07/exposed-server-reveals-ai-assisted.html)
-
-### People are transcribing your conversations without asking. That puts you at risk
+### Judge halts Paramount's $111B purchase of Warner Bros. in win for US states
 - **Published**: July 21, 2026
-- **Summary**: https://werd.io/people-are-transcribing-your-conversations-without-asking-tha......
-- [Read more](https://werd.io/people-are-transcribing-your-conversations-without-asking-that-puts-you-at-risk/)
+- **Summary**: https://arstechnica.com/tech-policy/2026/07/judge-halts-......
+- [Read more](https://arstechnica.com/tech-policy/2026/07/judge-halts-paramounts-111b-purchase-of-warner-bros-in-win-for-us-states/)
+
+### New ENCFORGE Ransomware Targets AI Model Files in Langflow RCE Attack
+- **Published**: July 21, 2026
+- **Summary**: Researchers at Sysdig have linked a second attack on the same Langflow server to JADEPUFFER, the AI-agent-driven operator it first documented earlier ...
+- [Read more](https://thehackernews.com/2026/07/new-encforge-ransomware-targets-ai.html)
 
 ---
 
