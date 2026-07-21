@@ -1,47 +1,10 @@
 {
   "chaos_ranked": [
     {
-      "title": "New Bit2Watt Attack Could Let Cloud Tenants Disrupt Power Grids Without an Exploit",
-      "link": "https://thehackernews.com/2026/07/new-bit2watt-attack-could-let-cloud.html",
-      "summary": "A cloud tenant using nothing but ordinary GPU access can push a data center's power draw up and down fast enough to threaten the grid it runs on, with no exploit and no break-in.\n\nThat is the claim be...",
-      "published": "2026-07-21T16:54:50+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 16.0,
-        "anarchy": 3.0,
-        "overall": 9.5
-      },
-      "keywords": {
-        "chaos": [
-          "disrupt",
-          "down"
-        ],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "N-day is Becoming N-Hour. Patching Faster Won't Save You.",
-      "link": "https://thehackernews.com/2026/07/n-day-is-becoming-n-hour-patching.html",
-      "summary": "Every patch is a confession.\n\nThe moment a vendor ships a security fix, the diff between the old code and the new code tells anyone watching exactly what was broken and where. Turn that diff back into...",
-      "published": "2026-07-21T17:12:23+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 13.0,
-        "anarchy": 3.0,
-        "overall": 8.0
-      },
-      "keywords": {
-        "chaos": [
-          "broken"
-        ],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Open-Source Android AI Agents Could Let Invisible Screen Text Run Code on Host PCs",
-      "link": "https://thehackernews.com/2026/07/open-source-android-ai-agents-could-let.html",
-      "summary": "An Android app that can draw over other windows and write to shared storage can slip instructions to the AI agent driving that phone, in text no human eye will ever see. Two more steps, and the same a...",
-      "published": "2026-07-21T17:28:00+05:30",
+      "title": "AWS Kiro Flaw Let a Poisoned Web Page Rewrite Its Config and Run Code",
+      "link": "https://thehackernews.com/2026/07/aws-kiro-flaw-let-poisoned-web-page.html",
+      "summary": "Hidden text on a web page was enough to make Kiro, AWS's agentic coding IDE, rewrite its own configuration file and run an attacker's code on a developer's machine, with no approval step able to stop ...",
+      "published": "2026-07-21T21:36:12+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -54,10 +17,10 @@
       }
     },
     {
-      "title": "WordPress wp2shell Exploitation Grows as Public Exploit Fuels Mass Scanning",
-      "link": "https://thehackernews.com/2026/07/wordpress-wp2shell-exploitation-grows.html",
-      "summary": "Attackers have begun to exploit two critical vulnerabilities in WordPress that, when combined together, enable unauthenticated remote code execution (RCE) and complete compromise of vulnerable website...",
-      "published": "2026-07-21T14:29:30+05:30",
+      "title": "Google Launches Gemini 3.5 Flash Cyber AI to Find and Fix Software Vulnerabilities",
+      "link": "https://thehackernews.com/2026/07/google-launches-gemini-35-flash-cyber.html",
+      "summary": "Google's DeepMind on Tuesday announced the release of Gemini 3.5 Flash Cyber, a specialized artificial intelligence (AI) model built atop 3.5 Flash that's designed to discover, validate, and patch vul...",
+      "published": "2026-07-21T20:39:28+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -70,91 +33,123 @@
       }
     },
     {
-      "title": "What a 2019 API client teaches you about modern .NET",
-      "link": "https://www.ivanjurina.com/index.php/2026/07/21/what-a-2019-api-client-teaches-you-about-modern-net/",
-      "summary": "<p>Article URL: <a href=\"https://www.ivanjurina.com/index.php/2026/07/21/what-a-2019-api-client-teaches-you-about-modern-net/\">https://www.ivanjurina.com/index.php/2026/07/21/what-a-2019-api-client-te...",
-      "published": "2026-07-21T13:42:57+00:00",
-      "domain": "ivanjurina.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Wispr-clone \u2013 offline push-to-talk dictation for Linux",
-      "link": "https://github.com/twinlights/wispr-clone",
-      "summary": "<p>Article URL: <a href=\"https://github.com/twinlights/wispr-clone\">https://github.com/twinlights/wispr-clone</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48992229\">https://n...",
-      "published": "2026-07-21T13:41:29+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: BlurShield \u2013 Automatically blur sensitive info during screen share",
-      "link": "https://chromewebstore.google.com/detail/blurshield-\u2013-prevent-scre/dgpihknippnloandcngnipbponnnlhmd",
-      "summary": "<p>I Built BlurShield how easy it is to expose email address,Phone No,API Key and other important info.<p>BlurShield is a browser extension which detects and blur the sensitive info automatically.<p>I...",
-      "published": "2026-07-21T13:41:21+00:00",
-      "domain": "chromewebstore.google.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "TSMC eyes price hikes of up to 25% on chip production services in 2027",
-      "link": "https://www.tomshardware.com/tech-industry/semiconductors/tsmc-eyes-price-hikes-of-up-to-25-percent-on-chip-production-services-in-2027-report-claims-plans-to-raise-baseline-prices-by-5-percent-to-10-percent-on-advanced-nodes",
-      "summary": "<p>Article URL: <a href=\"https://www.tomshardware.com/tech-industry/semiconductors/tsmc-eyes-price-hikes-of-up-to-25-percent-on-chip-production-services-in-2027-report-claims-plans-to-raise-baseline-p...",
-      "published": "2026-07-21T13:40:51+00:00",
-      "domain": "tomshardware.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Hackercouch: Couchsurfing for Hackers, by Hackers",
-      "link": "https://hackercouch.com/",
-      "summary": "<p>Article URL: <a href=\"https://hackercouch.com/\">https://hackercouch.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48992219\">https://news.ycombinator.com/item?id=489922...",
-      "published": "2026-07-21T13:40:42+00:00",
-      "domain": "hackercouch.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "New ENCFORGE Ransomware Targets AI Model Files in Langflow RCE Attack",
-      "link": "https://thehackernews.com/2026/07/new-encforge-ransomware-targets-ai.html",
-      "summary": "Researchers at Sysdig have linked a second attack on the same Langflow server to JADEPUFFER, the AI-agent-driven operator it first documented earlier this month.\n\nThe same operator has now been spotte...",
-      "published": "2026-07-21T13:04:32+05:30",
+      "title": "Critical SharePoint RCE CVE-2026-50522 Under Active Exploitation After Public PoC",
+      "link": "https://thehackernews.com/2026/07/critical-sharepoint-rce-cve-2026-50522.html",
+      "summary": "A third SharePoint Server flaw patched by Microsoft as part of its Patch Tuesday update for July 2026 has come under active exploitation, per watchTowr.\n\nThe vulnerability in question is CVE-2026-5052...",
+      "published": "2026-07-21T20:27:51+05:30",
       "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Qilin Ransomware Attackers Exploit PAN-OS Authentication Bypass for Initial Access",
+      "link": "https://thehackernews.com/2026/07/qilin-ransomware-attackers-exploit-pan.html",
+      "summary": "Threat actors have been observed exploiting a now-patched high-severity Palo Alto Networks PAN-OS vulnerability as an entry point to deploy Qilin (aka Agenda) ransomware on victim environments.\n\nArcti...",
+      "published": "2026-07-21T19:34:57+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Synthetic Consumer Panels Without Microdata: Iterative Proportional Fitting",
+      "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7122180",
+      "summary": "<p>Article URL: <a href=\"https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7122180\">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7122180</a></p>\n<p>Comments URL: <a href=\"https://news.ycombin...",
+      "published": "2026-07-21T19:21:33+00:00",
+      "domain": "papers.ssrn.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Ask HN: Personal Goal Setting Method (Jim Rohn)",
+      "link": "https://news.ycombinator.com/item?id=48996910",
+      "summary": "<p>I complete Jim Rohn's goal-setting exercise at least once every two years (and I make my wife do it with me \u2014 she's a good sport).<p>Curious if you all have other methods you utilize for personal g...",
+      "published": "2026-07-21T19:21:25+00:00",
+      "domain": "news.ycombinator.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Stage is sunestting their product, what now?",
+      "link": "https://news.ycombinator.com/item?id=48996894",
+      "summary": "<p>With the introduction of AI into our workflow, we started using it in many different ways, and we took different paths in how we use it for sowftware engineering.<p>Stage, treated AI as a tool to c...",
+      "published": "2026-07-21T19:20:06+00:00",
+      "domain": "news.ycombinator.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Trump Slaps 50% Tariffs on Canada, Loses $100B+ in Contracts Instead [video]",
+      "link": "https://www.youtube.com/watch?v=fmkhC7_rLcM",
+      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=fmkhC7_rLcM\">https://www.youtube.com/watch?v=fmkhC7_rLcM</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48996884\">https...",
+      "published": "2026-07-21T19:19:24+00:00",
+      "domain": "youtube.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Thermodynamic Computers Go with the (Energy) Flow",
+      "link": "https://www.quantamagazine.org/thermodynamic-computers-go-with-the-energy-flow-20260715/",
+      "summary": "<p>Article URL: <a href=\"https://www.quantamagazine.org/thermodynamic-computers-go-with-the-energy-flow-20260715/\">https://www.quantamagazine.org/thermodynamic-computers-go-with-the-energy-flow-202607...",
+      "published": "2026-07-21T19:19:21+00:00",
+      "domain": "quantamagazine.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Advertise in ChatGPT",
+      "link": "https://ads.openai.com/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48996571\">Comments</a>...",
+      "published": "2026-07-21T18:58:44+00:00",
+      "domain": "ads.openai.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -168,10 +163,10 @@
   ],
   "anarchy_ranked": [
     {
-      "title": "Open-Source Android AI Agents Could Let Invisible Screen Text Run Code on Host PCs",
-      "link": "https://thehackernews.com/2026/07/open-source-android-ai-agents-could-let.html",
-      "summary": "An Android app that can draw over other windows and write to shared storage can slip instructions to the AI agent driving that phone, in text no human eye will ever see. Two more steps, and the same a...",
-      "published": "2026-07-21T17:28:00+05:30",
+      "title": "AWS Kiro Flaw Let a Poisoned Web Page Rewrite Its Config and Run Code",
+      "link": "https://thehackernews.com/2026/07/aws-kiro-flaw-let-poisoned-web-page.html",
+      "summary": "Hidden text on a web page was enough to make Kiro, AWS's agentic coding IDE, rewrite its own configuration file and run an attacker's code on a developer's machine, with no approval step able to stop ...",
+      "published": "2026-07-21T21:36:12+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -184,47 +179,10 @@
       }
     },
     {
-      "title": "N-day is Becoming N-Hour. Patching Faster Won't Save You.",
-      "link": "https://thehackernews.com/2026/07/n-day-is-becoming-n-hour-patching.html",
-      "summary": "Every patch is a confession.\n\nThe moment a vendor ships a security fix, the diff between the old code and the new code tells anyone watching exactly what was broken and where. Turn that diff back into...",
-      "published": "2026-07-21T17:12:23+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 13.0,
-        "anarchy": 3.0,
-        "overall": 8.0
-      },
-      "keywords": {
-        "chaos": [
-          "broken"
-        ],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "New Bit2Watt Attack Could Let Cloud Tenants Disrupt Power Grids Without an Exploit",
-      "link": "https://thehackernews.com/2026/07/new-bit2watt-attack-could-let-cloud.html",
-      "summary": "A cloud tenant using nothing but ordinary GPU access can push a data center's power draw up and down fast enough to threaten the grid it runs on, with no exploit and no break-in.\n\nThat is the claim be...",
-      "published": "2026-07-21T16:54:50+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 16.0,
-        "anarchy": 3.0,
-        "overall": 9.5
-      },
-      "keywords": {
-        "chaos": [
-          "disrupt",
-          "down"
-        ],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "WordPress wp2shell Exploitation Grows as Public Exploit Fuels Mass Scanning",
-      "link": "https://thehackernews.com/2026/07/wordpress-wp2shell-exploitation-grows.html",
-      "summary": "Attackers have begun to exploit two critical vulnerabilities in WordPress that, when combined together, enable unauthenticated remote code execution (RCE) and complete compromise of vulnerable website...",
-      "published": "2026-07-21T14:29:30+05:30",
+      "title": "Google Launches Gemini 3.5 Flash Cyber AI to Find and Fix Software Vulnerabilities",
+      "link": "https://thehackernews.com/2026/07/google-launches-gemini-35-flash-cyber.html",
+      "summary": "Google's DeepMind on Tuesday announced the release of Gemini 3.5 Flash Cyber, a specialized artificial intelligence (AI) model built atop 3.5 Flash that's designed to discover, validate, and patch vul...",
+      "published": "2026-07-21T20:39:28+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -237,91 +195,123 @@
       }
     },
     {
-      "title": "What a 2019 API client teaches you about modern .NET",
-      "link": "https://www.ivanjurina.com/index.php/2026/07/21/what-a-2019-api-client-teaches-you-about-modern-net/",
-      "summary": "<p>Article URL: <a href=\"https://www.ivanjurina.com/index.php/2026/07/21/what-a-2019-api-client-teaches-you-about-modern-net/\">https://www.ivanjurina.com/index.php/2026/07/21/what-a-2019-api-client-te...",
-      "published": "2026-07-21T13:42:57+00:00",
-      "domain": "ivanjurina.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Wispr-clone \u2013 offline push-to-talk dictation for Linux",
-      "link": "https://github.com/twinlights/wispr-clone",
-      "summary": "<p>Article URL: <a href=\"https://github.com/twinlights/wispr-clone\">https://github.com/twinlights/wispr-clone</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48992229\">https://n...",
-      "published": "2026-07-21T13:41:29+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: BlurShield \u2013 Automatically blur sensitive info during screen share",
-      "link": "https://chromewebstore.google.com/detail/blurshield-\u2013-prevent-scre/dgpihknippnloandcngnipbponnnlhmd",
-      "summary": "<p>I Built BlurShield how easy it is to expose email address,Phone No,API Key and other important info.<p>BlurShield is a browser extension which detects and blur the sensitive info automatically.<p>I...",
-      "published": "2026-07-21T13:41:21+00:00",
-      "domain": "chromewebstore.google.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "TSMC eyes price hikes of up to 25% on chip production services in 2027",
-      "link": "https://www.tomshardware.com/tech-industry/semiconductors/tsmc-eyes-price-hikes-of-up-to-25-percent-on-chip-production-services-in-2027-report-claims-plans-to-raise-baseline-prices-by-5-percent-to-10-percent-on-advanced-nodes",
-      "summary": "<p>Article URL: <a href=\"https://www.tomshardware.com/tech-industry/semiconductors/tsmc-eyes-price-hikes-of-up-to-25-percent-on-chip-production-services-in-2027-report-claims-plans-to-raise-baseline-p...",
-      "published": "2026-07-21T13:40:51+00:00",
-      "domain": "tomshardware.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Hackercouch: Couchsurfing for Hackers, by Hackers",
-      "link": "https://hackercouch.com/",
-      "summary": "<p>Article URL: <a href=\"https://hackercouch.com/\">https://hackercouch.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48992219\">https://news.ycombinator.com/item?id=489922...",
-      "published": "2026-07-21T13:40:42+00:00",
-      "domain": "hackercouch.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "New ENCFORGE Ransomware Targets AI Model Files in Langflow RCE Attack",
-      "link": "https://thehackernews.com/2026/07/new-encforge-ransomware-targets-ai.html",
-      "summary": "Researchers at Sysdig have linked a second attack on the same Langflow server to JADEPUFFER, the AI-agent-driven operator it first documented earlier this month.\n\nThe same operator has now been spotte...",
-      "published": "2026-07-21T13:04:32+05:30",
+      "title": "Critical SharePoint RCE CVE-2026-50522 Under Active Exploitation After Public PoC",
+      "link": "https://thehackernews.com/2026/07/critical-sharepoint-rce-cve-2026-50522.html",
+      "summary": "A third SharePoint Server flaw patched by Microsoft as part of its Patch Tuesday update for July 2026 has come under active exploitation, per watchTowr.\n\nThe vulnerability in question is CVE-2026-5052...",
+      "published": "2026-07-21T20:27:51+05:30",
       "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Qilin Ransomware Attackers Exploit PAN-OS Authentication Bypass for Initial Access",
+      "link": "https://thehackernews.com/2026/07/qilin-ransomware-attackers-exploit-pan.html",
+      "summary": "Threat actors have been observed exploiting a now-patched high-severity Palo Alto Networks PAN-OS vulnerability as an entry point to deploy Qilin (aka Agenda) ransomware on victim environments.\n\nArcti...",
+      "published": "2026-07-21T19:34:57+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Synthetic Consumer Panels Without Microdata: Iterative Proportional Fitting",
+      "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7122180",
+      "summary": "<p>Article URL: <a href=\"https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7122180\">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7122180</a></p>\n<p>Comments URL: <a href=\"https://news.ycombin...",
+      "published": "2026-07-21T19:21:33+00:00",
+      "domain": "papers.ssrn.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Ask HN: Personal Goal Setting Method (Jim Rohn)",
+      "link": "https://news.ycombinator.com/item?id=48996910",
+      "summary": "<p>I complete Jim Rohn's goal-setting exercise at least once every two years (and I make my wife do it with me \u2014 she's a good sport).<p>Curious if you all have other methods you utilize for personal g...",
+      "published": "2026-07-21T19:21:25+00:00",
+      "domain": "news.ycombinator.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Stage is sunestting their product, what now?",
+      "link": "https://news.ycombinator.com/item?id=48996894",
+      "summary": "<p>With the introduction of AI into our workflow, we started using it in many different ways, and we took different paths in how we use it for sowftware engineering.<p>Stage, treated AI as a tool to c...",
+      "published": "2026-07-21T19:20:06+00:00",
+      "domain": "news.ycombinator.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Trump Slaps 50% Tariffs on Canada, Loses $100B+ in Contracts Instead [video]",
+      "link": "https://www.youtube.com/watch?v=fmkhC7_rLcM",
+      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=fmkhC7_rLcM\">https://www.youtube.com/watch?v=fmkhC7_rLcM</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48996884\">https...",
+      "published": "2026-07-21T19:19:24+00:00",
+      "domain": "youtube.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Thermodynamic Computers Go with the (Energy) Flow",
+      "link": "https://www.quantamagazine.org/thermodynamic-computers-go-with-the-energy-flow-20260715/",
+      "summary": "<p>Article URL: <a href=\"https://www.quantamagazine.org/thermodynamic-computers-go-with-the-energy-flow-20260715/\">https://www.quantamagazine.org/thermodynamic-computers-go-with-the-energy-flow-202607...",
+      "published": "2026-07-21T19:19:21+00:00",
+      "domain": "quantamagazine.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Advertise in ChatGPT",
+      "link": "https://ads.openai.com/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48996571\">Comments</a>...",
+      "published": "2026-07-21T18:58:44+00:00",
+      "domain": "ads.openai.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -335,47 +325,10 @@
   ],
   "overall_ranked": [
     {
-      "title": "New Bit2Watt Attack Could Let Cloud Tenants Disrupt Power Grids Without an Exploit",
-      "link": "https://thehackernews.com/2026/07/new-bit2watt-attack-could-let-cloud.html",
-      "summary": "A cloud tenant using nothing but ordinary GPU access can push a data center's power draw up and down fast enough to threaten the grid it runs on, with no exploit and no break-in.\n\nThat is the claim be...",
-      "published": "2026-07-21T16:54:50+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 16.0,
-        "anarchy": 3.0,
-        "overall": 9.5
-      },
-      "keywords": {
-        "chaos": [
-          "disrupt",
-          "down"
-        ],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "N-day is Becoming N-Hour. Patching Faster Won't Save You.",
-      "link": "https://thehackernews.com/2026/07/n-day-is-becoming-n-hour-patching.html",
-      "summary": "Every patch is a confession.\n\nThe moment a vendor ships a security fix, the diff between the old code and the new code tells anyone watching exactly what was broken and where. Turn that diff back into...",
-      "published": "2026-07-21T17:12:23+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 13.0,
-        "anarchy": 3.0,
-        "overall": 8.0
-      },
-      "keywords": {
-        "chaos": [
-          "broken"
-        ],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Open-Source Android AI Agents Could Let Invisible Screen Text Run Code on Host PCs",
-      "link": "https://thehackernews.com/2026/07/open-source-android-ai-agents-could-let.html",
-      "summary": "An Android app that can draw over other windows and write to shared storage can slip instructions to the AI agent driving that phone, in text no human eye will ever see. Two more steps, and the same a...",
-      "published": "2026-07-21T17:28:00+05:30",
+      "title": "AWS Kiro Flaw Let a Poisoned Web Page Rewrite Its Config and Run Code",
+      "link": "https://thehackernews.com/2026/07/aws-kiro-flaw-let-poisoned-web-page.html",
+      "summary": "Hidden text on a web page was enough to make Kiro, AWS's agentic coding IDE, rewrite its own configuration file and run an attacker's code on a developer's machine, with no approval step able to stop ...",
+      "published": "2026-07-21T21:36:12+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -388,10 +341,10 @@
       }
     },
     {
-      "title": "WordPress wp2shell Exploitation Grows as Public Exploit Fuels Mass Scanning",
-      "link": "https://thehackernews.com/2026/07/wordpress-wp2shell-exploitation-grows.html",
-      "summary": "Attackers have begun to exploit two critical vulnerabilities in WordPress that, when combined together, enable unauthenticated remote code execution (RCE) and complete compromise of vulnerable website...",
-      "published": "2026-07-21T14:29:30+05:30",
+      "title": "Google Launches Gemini 3.5 Flash Cyber AI to Find and Fix Software Vulnerabilities",
+      "link": "https://thehackernews.com/2026/07/google-launches-gemini-35-flash-cyber.html",
+      "summary": "Google's DeepMind on Tuesday announced the release of Gemini 3.5 Flash Cyber, a specialized artificial intelligence (AI) model built atop 3.5 Flash that's designed to discover, validate, and patch vul...",
+      "published": "2026-07-21T20:39:28+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -404,91 +357,123 @@
       }
     },
     {
-      "title": "What a 2019 API client teaches you about modern .NET",
-      "link": "https://www.ivanjurina.com/index.php/2026/07/21/what-a-2019-api-client-teaches-you-about-modern-net/",
-      "summary": "<p>Article URL: <a href=\"https://www.ivanjurina.com/index.php/2026/07/21/what-a-2019-api-client-teaches-you-about-modern-net/\">https://www.ivanjurina.com/index.php/2026/07/21/what-a-2019-api-client-te...",
-      "published": "2026-07-21T13:42:57+00:00",
-      "domain": "ivanjurina.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Wispr-clone \u2013 offline push-to-talk dictation for Linux",
-      "link": "https://github.com/twinlights/wispr-clone",
-      "summary": "<p>Article URL: <a href=\"https://github.com/twinlights/wispr-clone\">https://github.com/twinlights/wispr-clone</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48992229\">https://n...",
-      "published": "2026-07-21T13:41:29+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: BlurShield \u2013 Automatically blur sensitive info during screen share",
-      "link": "https://chromewebstore.google.com/detail/blurshield-\u2013-prevent-scre/dgpihknippnloandcngnipbponnnlhmd",
-      "summary": "<p>I Built BlurShield how easy it is to expose email address,Phone No,API Key and other important info.<p>BlurShield is a browser extension which detects and blur the sensitive info automatically.<p>I...",
-      "published": "2026-07-21T13:41:21+00:00",
-      "domain": "chromewebstore.google.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "TSMC eyes price hikes of up to 25% on chip production services in 2027",
-      "link": "https://www.tomshardware.com/tech-industry/semiconductors/tsmc-eyes-price-hikes-of-up-to-25-percent-on-chip-production-services-in-2027-report-claims-plans-to-raise-baseline-prices-by-5-percent-to-10-percent-on-advanced-nodes",
-      "summary": "<p>Article URL: <a href=\"https://www.tomshardware.com/tech-industry/semiconductors/tsmc-eyes-price-hikes-of-up-to-25-percent-on-chip-production-services-in-2027-report-claims-plans-to-raise-baseline-p...",
-      "published": "2026-07-21T13:40:51+00:00",
-      "domain": "tomshardware.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Hackercouch: Couchsurfing for Hackers, by Hackers",
-      "link": "https://hackercouch.com/",
-      "summary": "<p>Article URL: <a href=\"https://hackercouch.com/\">https://hackercouch.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48992219\">https://news.ycombinator.com/item?id=489922...",
-      "published": "2026-07-21T13:40:42+00:00",
-      "domain": "hackercouch.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "New ENCFORGE Ransomware Targets AI Model Files in Langflow RCE Attack",
-      "link": "https://thehackernews.com/2026/07/new-encforge-ransomware-targets-ai.html",
-      "summary": "Researchers at Sysdig have linked a second attack on the same Langflow server to JADEPUFFER, the AI-agent-driven operator it first documented earlier this month.\n\nThe same operator has now been spotte...",
-      "published": "2026-07-21T13:04:32+05:30",
+      "title": "Critical SharePoint RCE CVE-2026-50522 Under Active Exploitation After Public PoC",
+      "link": "https://thehackernews.com/2026/07/critical-sharepoint-rce-cve-2026-50522.html",
+      "summary": "A third SharePoint Server flaw patched by Microsoft as part of its Patch Tuesday update for July 2026 has come under active exploitation, per watchTowr.\n\nThe vulnerability in question is CVE-2026-5052...",
+      "published": "2026-07-21T20:27:51+05:30",
       "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Qilin Ransomware Attackers Exploit PAN-OS Authentication Bypass for Initial Access",
+      "link": "https://thehackernews.com/2026/07/qilin-ransomware-attackers-exploit-pan.html",
+      "summary": "Threat actors have been observed exploiting a now-patched high-severity Palo Alto Networks PAN-OS vulnerability as an entry point to deploy Qilin (aka Agenda) ransomware on victim environments.\n\nArcti...",
+      "published": "2026-07-21T19:34:57+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Synthetic Consumer Panels Without Microdata: Iterative Proportional Fitting",
+      "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7122180",
+      "summary": "<p>Article URL: <a href=\"https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7122180\">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7122180</a></p>\n<p>Comments URL: <a href=\"https://news.ycombin...",
+      "published": "2026-07-21T19:21:33+00:00",
+      "domain": "papers.ssrn.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Ask HN: Personal Goal Setting Method (Jim Rohn)",
+      "link": "https://news.ycombinator.com/item?id=48996910",
+      "summary": "<p>I complete Jim Rohn's goal-setting exercise at least once every two years (and I make my wife do it with me \u2014 she's a good sport).<p>Curious if you all have other methods you utilize for personal g...",
+      "published": "2026-07-21T19:21:25+00:00",
+      "domain": "news.ycombinator.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Stage is sunestting their product, what now?",
+      "link": "https://news.ycombinator.com/item?id=48996894",
+      "summary": "<p>With the introduction of AI into our workflow, we started using it in many different ways, and we took different paths in how we use it for sowftware engineering.<p>Stage, treated AI as a tool to c...",
+      "published": "2026-07-21T19:20:06+00:00",
+      "domain": "news.ycombinator.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Trump Slaps 50% Tariffs on Canada, Loses $100B+ in Contracts Instead [video]",
+      "link": "https://www.youtube.com/watch?v=fmkhC7_rLcM",
+      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=fmkhC7_rLcM\">https://www.youtube.com/watch?v=fmkhC7_rLcM</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48996884\">https...",
+      "published": "2026-07-21T19:19:24+00:00",
+      "domain": "youtube.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Thermodynamic Computers Go with the (Energy) Flow",
+      "link": "https://www.quantamagazine.org/thermodynamic-computers-go-with-the-energy-flow-20260715/",
+      "summary": "<p>Article URL: <a href=\"https://www.quantamagazine.org/thermodynamic-computers-go-with-the-energy-flow-20260715/\">https://www.quantamagazine.org/thermodynamic-computers-go-with-the-energy-flow-202607...",
+      "published": "2026-07-21T19:19:21+00:00",
+      "domain": "quantamagazine.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Advertise in ChatGPT",
+      "link": "https://ads.openai.com/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48996571\">Comments</a>...",
+      "published": "2026-07-21T18:58:44+00:00",
+      "domain": "ads.openai.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -502,10 +487,10 @@
   ],
   "all_articles": [
     {
-      "title": "Open-Source Android AI Agents Could Let Invisible Screen Text Run Code on Host PCs",
-      "link": "https://thehackernews.com/2026/07/open-source-android-ai-agents-could-let.html",
-      "summary": "An Android app that can draw over other windows and write to shared storage can slip instructions to the AI agent driving that phone, in text no human eye will ever see. Two more steps, and the same a...",
-      "published": "2026-07-21T17:28:00+05:30",
+      "title": "AWS Kiro Flaw Let a Poisoned Web Page Rewrite Its Config and Run Code",
+      "link": "https://thehackernews.com/2026/07/aws-kiro-flaw-let-poisoned-web-page.html",
+      "summary": "Hidden text on a web page was enough to make Kiro, AWS's agentic coding IDE, rewrite its own configuration file and run an attacker's code on a developer's machine, with no approval step able to stop ...",
+      "published": "2026-07-21T21:36:12+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -518,47 +503,10 @@
       }
     },
     {
-      "title": "N-day is Becoming N-Hour. Patching Faster Won't Save You.",
-      "link": "https://thehackernews.com/2026/07/n-day-is-becoming-n-hour-patching.html",
-      "summary": "Every patch is a confession.\n\nThe moment a vendor ships a security fix, the diff between the old code and the new code tells anyone watching exactly what was broken and where. Turn that diff back into...",
-      "published": "2026-07-21T17:12:23+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 13.0,
-        "anarchy": 3.0,
-        "overall": 8.0
-      },
-      "keywords": {
-        "chaos": [
-          "broken"
-        ],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "New Bit2Watt Attack Could Let Cloud Tenants Disrupt Power Grids Without an Exploit",
-      "link": "https://thehackernews.com/2026/07/new-bit2watt-attack-could-let-cloud.html",
-      "summary": "A cloud tenant using nothing but ordinary GPU access can push a data center's power draw up and down fast enough to threaten the grid it runs on, with no exploit and no break-in.\n\nThat is the claim be...",
-      "published": "2026-07-21T16:54:50+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 16.0,
-        "anarchy": 3.0,
-        "overall": 9.5
-      },
-      "keywords": {
-        "chaos": [
-          "disrupt",
-          "down"
-        ],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "WordPress wp2shell Exploitation Grows as Public Exploit Fuels Mass Scanning",
-      "link": "https://thehackernews.com/2026/07/wordpress-wp2shell-exploitation-grows.html",
-      "summary": "Attackers have begun to exploit two critical vulnerabilities in WordPress that, when combined together, enable unauthenticated remote code execution (RCE) and complete compromise of vulnerable website...",
-      "published": "2026-07-21T14:29:30+05:30",
+      "title": "Google Launches Gemini 3.5 Flash Cyber AI to Find and Fix Software Vulnerabilities",
+      "link": "https://thehackernews.com/2026/07/google-launches-gemini-35-flash-cyber.html",
+      "summary": "Google's DeepMind on Tuesday announced the release of Gemini 3.5 Flash Cyber, a specialized artificial intelligence (AI) model built atop 3.5 Flash that's designed to discover, validate, and patch vul...",
+      "published": "2026-07-21T20:39:28+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -571,91 +519,123 @@
       }
     },
     {
-      "title": "What a 2019 API client teaches you about modern .NET",
-      "link": "https://www.ivanjurina.com/index.php/2026/07/21/what-a-2019-api-client-teaches-you-about-modern-net/",
-      "summary": "<p>Article URL: <a href=\"https://www.ivanjurina.com/index.php/2026/07/21/what-a-2019-api-client-teaches-you-about-modern-net/\">https://www.ivanjurina.com/index.php/2026/07/21/what-a-2019-api-client-te...",
-      "published": "2026-07-21T13:42:57+00:00",
-      "domain": "ivanjurina.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Wispr-clone \u2013 offline push-to-talk dictation for Linux",
-      "link": "https://github.com/twinlights/wispr-clone",
-      "summary": "<p>Article URL: <a href=\"https://github.com/twinlights/wispr-clone\">https://github.com/twinlights/wispr-clone</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48992229\">https://n...",
-      "published": "2026-07-21T13:41:29+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: BlurShield \u2013 Automatically blur sensitive info during screen share",
-      "link": "https://chromewebstore.google.com/detail/blurshield-\u2013-prevent-scre/dgpihknippnloandcngnipbponnnlhmd",
-      "summary": "<p>I Built BlurShield how easy it is to expose email address,Phone No,API Key and other important info.<p>BlurShield is a browser extension which detects and blur the sensitive info automatically.<p>I...",
-      "published": "2026-07-21T13:41:21+00:00",
-      "domain": "chromewebstore.google.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "TSMC eyes price hikes of up to 25% on chip production services in 2027",
-      "link": "https://www.tomshardware.com/tech-industry/semiconductors/tsmc-eyes-price-hikes-of-up-to-25-percent-on-chip-production-services-in-2027-report-claims-plans-to-raise-baseline-prices-by-5-percent-to-10-percent-on-advanced-nodes",
-      "summary": "<p>Article URL: <a href=\"https://www.tomshardware.com/tech-industry/semiconductors/tsmc-eyes-price-hikes-of-up-to-25-percent-on-chip-production-services-in-2027-report-claims-plans-to-raise-baseline-p...",
-      "published": "2026-07-21T13:40:51+00:00",
-      "domain": "tomshardware.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Hackercouch: Couchsurfing for Hackers, by Hackers",
-      "link": "https://hackercouch.com/",
-      "summary": "<p>Article URL: <a href=\"https://hackercouch.com/\">https://hackercouch.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48992219\">https://news.ycombinator.com/item?id=489922...",
-      "published": "2026-07-21T13:40:42+00:00",
-      "domain": "hackercouch.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "New ENCFORGE Ransomware Targets AI Model Files in Langflow RCE Attack",
-      "link": "https://thehackernews.com/2026/07/new-encforge-ransomware-targets-ai.html",
-      "summary": "Researchers at Sysdig have linked a second attack on the same Langflow server to JADEPUFFER, the AI-agent-driven operator it first documented earlier this month.\n\nThe same operator has now been spotte...",
-      "published": "2026-07-21T13:04:32+05:30",
+      "title": "Critical SharePoint RCE CVE-2026-50522 Under Active Exploitation After Public PoC",
+      "link": "https://thehackernews.com/2026/07/critical-sharepoint-rce-cve-2026-50522.html",
+      "summary": "A third SharePoint Server flaw patched by Microsoft as part of its Patch Tuesday update for July 2026 has come under active exploitation, per watchTowr.\n\nThe vulnerability in question is CVE-2026-5052...",
+      "published": "2026-07-21T20:27:51+05:30",
       "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Qilin Ransomware Attackers Exploit PAN-OS Authentication Bypass for Initial Access",
+      "link": "https://thehackernews.com/2026/07/qilin-ransomware-attackers-exploit-pan.html",
+      "summary": "Threat actors have been observed exploiting a now-patched high-severity Palo Alto Networks PAN-OS vulnerability as an entry point to deploy Qilin (aka Agenda) ransomware on victim environments.\n\nArcti...",
+      "published": "2026-07-21T19:34:57+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Synthetic Consumer Panels Without Microdata: Iterative Proportional Fitting",
+      "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7122180",
+      "summary": "<p>Article URL: <a href=\"https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7122180\">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7122180</a></p>\n<p>Comments URL: <a href=\"https://news.ycombin...",
+      "published": "2026-07-21T19:21:33+00:00",
+      "domain": "papers.ssrn.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Ask HN: Personal Goal Setting Method (Jim Rohn)",
+      "link": "https://news.ycombinator.com/item?id=48996910",
+      "summary": "<p>I complete Jim Rohn's goal-setting exercise at least once every two years (and I make my wife do it with me \u2014 she's a good sport).<p>Curious if you all have other methods you utilize for personal g...",
+      "published": "2026-07-21T19:21:25+00:00",
+      "domain": "news.ycombinator.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Stage is sunestting their product, what now?",
+      "link": "https://news.ycombinator.com/item?id=48996894",
+      "summary": "<p>With the introduction of AI into our workflow, we started using it in many different ways, and we took different paths in how we use it for sowftware engineering.<p>Stage, treated AI as a tool to c...",
+      "published": "2026-07-21T19:20:06+00:00",
+      "domain": "news.ycombinator.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Trump Slaps 50% Tariffs on Canada, Loses $100B+ in Contracts Instead [video]",
+      "link": "https://www.youtube.com/watch?v=fmkhC7_rLcM",
+      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=fmkhC7_rLcM\">https://www.youtube.com/watch?v=fmkhC7_rLcM</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48996884\">https...",
+      "published": "2026-07-21T19:19:24+00:00",
+      "domain": "youtube.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Thermodynamic Computers Go with the (Energy) Flow",
+      "link": "https://www.quantamagazine.org/thermodynamic-computers-go-with-the-energy-flow-20260715/",
+      "summary": "<p>Article URL: <a href=\"https://www.quantamagazine.org/thermodynamic-computers-go-with-the-energy-flow-20260715/\">https://www.quantamagazine.org/thermodynamic-computers-go-with-the-energy-flow-202607...",
+      "published": "2026-07-21T19:19:21+00:00",
+      "domain": "quantamagazine.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Advertise in ChatGPT",
+      "link": "https://ads.openai.com/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48996571\">Comments</a>...",
+      "published": "2026-07-21T18:58:44+00:00",
+      "domain": "ads.openai.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,

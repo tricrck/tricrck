@@ -16,19 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### New Bit2Watt Attack Could Let Cloud Tenants Disrupt Power Grids Without an Exploit
+### AWS Kiro Flaw Let a Poisoned Web Page Rewrite Its Config and Run Code
 - **Published**: July 21, 2026
-- **Summary**: A cloud tenant using nothing but ordinary GPU access can push a data center's power draw up and down fast enough to threaten the grid it runs on, with...
-- **Keywords**: disrupt, down
-- [Read more](https://thehackernews.com/2026/07/new-bit2watt-attack-could-let-cloud.html)
+- **Summary**: Hidden text on a web page was enough to make Kiro, AWS's agentic coding IDE, rewrite its own configuration file and run an attacker's code on a develo...
+- [Read more](https://thehackernews.com/2026/07/aws-kiro-flaw-let-poisoned-web-page.html)
 
-### N-day is Becoming N-Hour. Patching Faster Won't Save You.
+### Google Launches Gemini 3.5 Flash Cyber AI to Find and Fix Software Vulnerabilities
 - **Published**: July 21, 2026
-- **Summary**: Every patch is a confession.
-
-The moment a vendor ships a security fix, the diff between the old code and the new code tells anyone watching exactly w...
-- **Keywords**: broken
-- [Read more](https://thehackernews.com/2026/07/n-day-is-becoming-n-hour-patching.html)
+- **Summary**: Google's DeepMind on Tuesday announced the release of Gemini 3.5 Flash Cyber, a specialized artificial intelligence (AI) model built atop 3.5 Flash th...
+- [Read more](https://thehackernews.com/2026/07/google-launches-gemini-35-flash-cyber.html)
 
 ---
 
