@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Apple Fixes Hide My Email Bug That Exposed Real Addresses in Mail Logs
+### Police Dismantle Kratos Phishing Kit Built to Steal Microsoft 365 Sessions and Bypass MFA
 - **Published**: July 22, 2026
-- **Summary**: Apple has moved to address a security flaw in its Hide My Email service that enabled users' real email addresses to be unmasked, effectively undermini...
-- **Keywords**: bug
-- [Read more](https://thehackernews.com/2026/07/apple-fixes-hide-my-email-bug-that.html)
+- **Summary**: German and US law enforcement have taken down the core infrastructure of Kratos, described by German investigators as one of the world's most widely u...
+- **Keywords**: down
+- [Read more](https://thehackernews.com/2026/07/police-dismantle-kratos-phishing-kit.html)
 
-### Déjà View: Someone already tried this
+### Trojanized Newtonsoft.Json Fork Hides Game-Rigging Code in a Working Library
 - **Published**: July 22, 2026
-- **Summary**: https://dejaview.bsct.so/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49001138">https://news.ycombinator.com/item?id=4900.....
-- [Read more](https://dejaview.bsct.so/)
+- **Summary**: Cybersecurity researchers have discovered a NuGet typosquat that's unlike the typical information-stealing malware distributed via package registries:...
+- [Read more](https://thehackernews.com/2026/07/trojanized-newtonsoftjson-fork-hides.html)
 
 ---
 

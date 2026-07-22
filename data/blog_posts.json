@@ -1,124 +1,28 @@
 {
   "chaos_ranked": [
     {
-      "title": "Apple Fixes Hide My Email Bug That Exposed Real Addresses in Mail Logs",
-      "link": "https://thehackernews.com/2026/07/apple-fixes-hide-my-email-bug-that.html",
-      "summary": "Apple has moved to address a security flaw in its Hide My Email service that enabled users' real email addresses to be unmasked, effectively undermining the feature's privacy guarantees.\n\n404 Media re...",
-      "published": "2026-07-22T00:16:32+05:30",
+      "title": "Police Dismantle Kratos Phishing Kit Built to Steal Microsoft 365 Sessions and Bypass MFA",
+      "link": "https://thehackernews.com/2026/07/police-dismantle-kratos-phishing-kit.html",
+      "summary": "German and US law enforcement have taken down the core infrastructure of Kratos, described by German investigators as one of the world's most widely used criminal phishing kits, and Indonesian authori...",
+      "published": "2026-07-22T12:08:45+05:30",
       "domain": "thehackernews.com",
       "scores": {
-        "chaos": 10.6,
+        "chaos": 9.1,
         "anarchy": 3.0,
-        "overall": 6.8
+        "overall": 6.0
       },
       "keywords": {
         "chaos": [
-          "bug"
+          "down"
         ],
         "anarchy": []
       }
     },
     {
-      "title": "D\u00e9j\u00e0 View: Someone already tried this",
-      "link": "https://dejaview.bsct.so/",
-      "summary": "<p>Article URL: <a href=\"https://dejaview.bsct.so/\">https://dejaview.bsct.so/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49001138\">https://news.ycombinator.com/item?id=4900...",
-      "published": "2026-07-22T02:33:38+00:00",
-      "domain": "dejaview.bsct.so",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Late.sh \u2013 a command-line Clubhouse for computer people",
-      "link": "https://late.sh/",
-      "summary": "<p>Article URL: <a href=\"https://late.sh/\">https://late.sh/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49001127\">https://news.ycombinator.com/item?id=49001127</a></p>\n<p>Po...",
-      "published": "2026-07-22T02:32:30+00:00",
-      "domain": "late.sh",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Dashrath Manjhi \u2013 Mountain Man",
-      "link": "https://en.wikipedia.org/wiki/Dashrath_Manjhi",
-      "summary": "<p>Article URL: <a href=\"https://en.wikipedia.org/wiki/Dashrath_Manjhi\">https://en.wikipedia.org/wiki/Dashrath_Manjhi</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49001118\">h...",
-      "published": "2026-07-22T02:31:19+00:00",
-      "domain": "en.wikipedia.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "America's AI labs are under threat from cheap Chinese rivals",
-      "link": "https://economist.com/business/2026/07/21/americas-ai-labs-are-under-threat-from-cheap-chinese-rivals",
-      "summary": "<p>Article URL: <a href=\"https://economist.com/business/2026/07/21/americas-ai-labs-are-under-threat-from-cheap-chinese-rivals\">https://economist.com/business/2026/07/21/americas-ai-labs-are-under-thr...",
-      "published": "2026-07-22T02:29:59+00:00",
-      "domain": "economist.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The conservative road to nowhere: Hanson's empty populism",
-      "link": "https://www.newpolitics.com.au/p/the-road-to-nowhere-hansons-empty",
-      "summary": "<p>Article URL: <a href=\"https://www.newpolitics.com.au/p/the-road-to-nowhere-hansons-empty\">https://www.newpolitics.com.au/p/the-road-to-nowhere-hansons-empty</a></p>\n<p>Comments URL: <a href=\"https:...",
-      "published": "2026-07-22T02:28:15+00:00",
-      "domain": "newpolitics.com.au",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA",
-      "link": "https://fireworks.ai/blog/kimik3-fable",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48999291\">Comments</a>...",
-      "published": "2026-07-21T22:35:24+00:00",
-      "domain": "fireworks.ai",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "AWS Kiro Flaw Let a Poisoned Web Page Rewrite Its Config and Run Code",
-      "link": "https://thehackernews.com/2026/07/aws-kiro-flaw-let-poisoned-web-page.html",
-      "summary": "Hidden text on a web page was enough to make Kiro, AWS's agentic coding IDE, rewrite its own configuration file and run an attacker's code on a developer's machine, with no approval step able to stop ...",
-      "published": "2026-07-21T21:36:12+05:30",
+      "title": "Trojanized Newtonsoft.Json Fork Hides Game-Rigging Code in a Working Library",
+      "link": "https://thehackernews.com/2026/07/trojanized-newtonsoftjson-fork-hides.html",
+      "summary": "Cybersecurity researchers have discovered a NuGet typosquat that's unlike the typical information-stealing malware distributed via package registries: usual info-stealers: it's designed to rig live ga...",
+      "published": "2026-07-22T11:30:06+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -131,11 +35,11 @@
       }
     },
     {
-      "title": "A digestion of the Jacobian conjecture counterexample",
-      "link": "https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48998362\">Comments</a>...",
-      "published": "2026-07-21T21:09:25+00:00",
-      "domain": "terrytao.wordpress.com",
+      "title": "Microsoft Azure DevOps MCP Flaw Lets Hidden PR Comments Hijack AI Review Agents",
+      "link": "https://thehackernews.com/2026/07/microsoft-azure-devops-mcp-flaw-lets.html",
+      "summary": "A single invisible comment in an Azure DevOps pull request can turn a reviewer's own AI coding agent against them, driving it into projects the attacker has no rights to reach and quietly leaking what...",
+      "published": "2026-07-22T10:27:52+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -147,11 +51,107 @@
       }
     },
     {
-      "title": "Mathematicians grapple with a \u2018very rapid and very unsettling change\u2019 as AI cracks yet another century-old problem",
-      "link": "https://www.reddit.com/r/technology/comments/1v2uljs/mathematicians_grapple_with_a_very_rapid_and_very/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1v2uljs/mathematicians_grapple_with_a_very_rapid_and_very/\"> <img alt=\"Mathematicians grapple with a \u2018very rapid and very unsettl...",
-      "published": "2026-07-21T20:40:38+00:00",
-      "domain": "reddit.com",
+      "title": "OpenAI Says Its AI Models Escaped Sandbox, Targeted Hugging Face to Cheat Benchmark",
+      "link": "https://thehackernews.com/2026/07/openai-says-its-own-ai-models-escaped.html",
+      "summary": "OpenAI on Tuesday said a combination of its artificial intelligence (AI) models, including GPT-5.6 Sol and an \"even more capable pre-release model,\" was behind the security incident that targeted Hugg...",
+      "published": "2026-07-22T09:48:33+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "OpenAI says AI models went rogue during testing",
+      "link": "https://www.reuters.com/technology/openai-says-ai-models-went-rogue-during-testing-triggering-unprecedented-breach-2026-07-21/",
+      "summary": "<p>Article URL: <a href=\"https://www.reuters.com/technology/openai-says-ai-models-went-rogue-during-testing-triggering-unprecedented-breach-2026-07-21/\">https://www.reuters.com/technology/openai-says-...",
+      "published": "2026-07-22T08:25:58+00:00",
+      "domain": "reuters.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "--end-of-options (git flag)",
+      "link": "https://nesbitt.io/2026/07/21/end-of-options.html",
+      "summary": "<p>Article URL: <a href=\"https://nesbitt.io/2026/07/21/end-of-options.html\">https://nesbitt.io/2026/07/21/end-of-options.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=490...",
+      "published": "2026-07-22T08:24:37+00:00",
+      "domain": "nesbitt.io",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The Vikings didn't wear horned helmets. So who did?",
+      "link": "https://danjones.substack.com/p/history-etc-the-vikings-didnt-wear",
+      "summary": "<p>Article URL: <a href=\"https://danjones.substack.com/p/history-etc-the-vikings-didnt-wear\">https://danjones.substack.com/p/history-etc-the-vikings-didnt-wear</a></p>\n<p>Comments URL: <a href=\"https:...",
+      "published": "2026-07-22T08:23:00+00:00",
+      "domain": "danjones.substack.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "EU border agency unlawfully transferred data on migrants/activists to Europol",
+      "link": "https://english.elpais.com/international/2025-07-13/for-years-the-eus-border-agency-illegally-transferred-data-on-migrants-and-activists-to-europol.html",
+      "summary": "<p>Article URL: <a href=\"https://english.elpais.com/international/2025-07-13/for-years-the-eus-border-agency-illegally-transferred-data-on-migrants-and-activists-to-europol.html\">https://english.elpai...",
+      "published": "2026-07-22T08:22:51+00:00",
+      "domain": "english.elpais.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "AI Video and Audio Generator",
+      "link": "https://silknova-ai.com/",
+      "summary": "<p>Article URL: <a href=\"https://silknova-ai.com/\">https://silknova-ai.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49003393\">https://news.ycombinator.com/item?id=490033...",
+      "published": "2026-07-22T08:18:19+00:00",
+      "domain": "silknova-ai.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: ReadKinetic \u2013 a free, local-first speed reader for your own books",
+      "link": "https://www.readkinetic.com/app/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49002344\">Comments</a>...",
+      "published": "2026-07-22T05:49:51+00:00",
+      "domain": "readkinetic.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -165,124 +165,28 @@
   ],
   "anarchy_ranked": [
     {
-      "title": "D\u00e9j\u00e0 View: Someone already tried this",
-      "link": "https://dejaview.bsct.so/",
-      "summary": "<p>Article URL: <a href=\"https://dejaview.bsct.so/\">https://dejaview.bsct.so/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49001138\">https://news.ycombinator.com/item?id=4900...",
-      "published": "2026-07-22T02:33:38+00:00",
-      "domain": "dejaview.bsct.so",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Late.sh \u2013 a command-line Clubhouse for computer people",
-      "link": "https://late.sh/",
-      "summary": "<p>Article URL: <a href=\"https://late.sh/\">https://late.sh/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49001127\">https://news.ycombinator.com/item?id=49001127</a></p>\n<p>Po...",
-      "published": "2026-07-22T02:32:30+00:00",
-      "domain": "late.sh",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Dashrath Manjhi \u2013 Mountain Man",
-      "link": "https://en.wikipedia.org/wiki/Dashrath_Manjhi",
-      "summary": "<p>Article URL: <a href=\"https://en.wikipedia.org/wiki/Dashrath_Manjhi\">https://en.wikipedia.org/wiki/Dashrath_Manjhi</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49001118\">h...",
-      "published": "2026-07-22T02:31:19+00:00",
-      "domain": "en.wikipedia.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "America's AI labs are under threat from cheap Chinese rivals",
-      "link": "https://economist.com/business/2026/07/21/americas-ai-labs-are-under-threat-from-cheap-chinese-rivals",
-      "summary": "<p>Article URL: <a href=\"https://economist.com/business/2026/07/21/americas-ai-labs-are-under-threat-from-cheap-chinese-rivals\">https://economist.com/business/2026/07/21/americas-ai-labs-are-under-thr...",
-      "published": "2026-07-22T02:29:59+00:00",
-      "domain": "economist.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The conservative road to nowhere: Hanson's empty populism",
-      "link": "https://www.newpolitics.com.au/p/the-road-to-nowhere-hansons-empty",
-      "summary": "<p>Article URL: <a href=\"https://www.newpolitics.com.au/p/the-road-to-nowhere-hansons-empty\">https://www.newpolitics.com.au/p/the-road-to-nowhere-hansons-empty</a></p>\n<p>Comments URL: <a href=\"https:...",
-      "published": "2026-07-22T02:28:15+00:00",
-      "domain": "newpolitics.com.au",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Apple Fixes Hide My Email Bug That Exposed Real Addresses in Mail Logs",
-      "link": "https://thehackernews.com/2026/07/apple-fixes-hide-my-email-bug-that.html",
-      "summary": "Apple has moved to address a security flaw in its Hide My Email service that enabled users' real email addresses to be unmasked, effectively undermining the feature's privacy guarantees.\n\n404 Media re...",
-      "published": "2026-07-22T00:16:32+05:30",
+      "title": "Police Dismantle Kratos Phishing Kit Built to Steal Microsoft 365 Sessions and Bypass MFA",
+      "link": "https://thehackernews.com/2026/07/police-dismantle-kratos-phishing-kit.html",
+      "summary": "German and US law enforcement have taken down the core infrastructure of Kratos, described by German investigators as one of the world's most widely used criminal phishing kits, and Indonesian authori...",
+      "published": "2026-07-22T12:08:45+05:30",
       "domain": "thehackernews.com",
       "scores": {
-        "chaos": 10.6,
+        "chaos": 9.1,
         "anarchy": 3.0,
-        "overall": 6.8
+        "overall": 6.0
       },
       "keywords": {
         "chaos": [
-          "bug"
+          "down"
         ],
         "anarchy": []
       }
     },
     {
-      "title": "Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA",
-      "link": "https://fireworks.ai/blog/kimik3-fable",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48999291\">Comments</a>...",
-      "published": "2026-07-21T22:35:24+00:00",
-      "domain": "fireworks.ai",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "AWS Kiro Flaw Let a Poisoned Web Page Rewrite Its Config and Run Code",
-      "link": "https://thehackernews.com/2026/07/aws-kiro-flaw-let-poisoned-web-page.html",
-      "summary": "Hidden text on a web page was enough to make Kiro, AWS's agentic coding IDE, rewrite its own configuration file and run an attacker's code on a developer's machine, with no approval step able to stop ...",
-      "published": "2026-07-21T21:36:12+05:30",
+      "title": "Trojanized Newtonsoft.Json Fork Hides Game-Rigging Code in a Working Library",
+      "link": "https://thehackernews.com/2026/07/trojanized-newtonsoftjson-fork-hides.html",
+      "summary": "Cybersecurity researchers have discovered a NuGet typosquat that's unlike the typical information-stealing malware distributed via package registries: usual info-stealers: it's designed to rig live ga...",
+      "published": "2026-07-22T11:30:06+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -295,11 +199,11 @@
       }
     },
     {
-      "title": "A digestion of the Jacobian conjecture counterexample",
-      "link": "https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48998362\">Comments</a>...",
-      "published": "2026-07-21T21:09:25+00:00",
-      "domain": "terrytao.wordpress.com",
+      "title": "Microsoft Azure DevOps MCP Flaw Lets Hidden PR Comments Hijack AI Review Agents",
+      "link": "https://thehackernews.com/2026/07/microsoft-azure-devops-mcp-flaw-lets.html",
+      "summary": "A single invisible comment in an Azure DevOps pull request can turn a reviewer's own AI coding agent against them, driving it into projects the attacker has no rights to reach and quietly leaking what...",
+      "published": "2026-07-22T10:27:52+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -311,11 +215,107 @@
       }
     },
     {
-      "title": "Mathematicians grapple with a \u2018very rapid and very unsettling change\u2019 as AI cracks yet another century-old problem",
-      "link": "https://www.reddit.com/r/technology/comments/1v2uljs/mathematicians_grapple_with_a_very_rapid_and_very/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1v2uljs/mathematicians_grapple_with_a_very_rapid_and_very/\"> <img alt=\"Mathematicians grapple with a \u2018very rapid and very unsettl...",
-      "published": "2026-07-21T20:40:38+00:00",
-      "domain": "reddit.com",
+      "title": "OpenAI Says Its AI Models Escaped Sandbox, Targeted Hugging Face to Cheat Benchmark",
+      "link": "https://thehackernews.com/2026/07/openai-says-its-own-ai-models-escaped.html",
+      "summary": "OpenAI on Tuesday said a combination of its artificial intelligence (AI) models, including GPT-5.6 Sol and an \"even more capable pre-release model,\" was behind the security incident that targeted Hugg...",
+      "published": "2026-07-22T09:48:33+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "OpenAI says AI models went rogue during testing",
+      "link": "https://www.reuters.com/technology/openai-says-ai-models-went-rogue-during-testing-triggering-unprecedented-breach-2026-07-21/",
+      "summary": "<p>Article URL: <a href=\"https://www.reuters.com/technology/openai-says-ai-models-went-rogue-during-testing-triggering-unprecedented-breach-2026-07-21/\">https://www.reuters.com/technology/openai-says-...",
+      "published": "2026-07-22T08:25:58+00:00",
+      "domain": "reuters.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "--end-of-options (git flag)",
+      "link": "https://nesbitt.io/2026/07/21/end-of-options.html",
+      "summary": "<p>Article URL: <a href=\"https://nesbitt.io/2026/07/21/end-of-options.html\">https://nesbitt.io/2026/07/21/end-of-options.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=490...",
+      "published": "2026-07-22T08:24:37+00:00",
+      "domain": "nesbitt.io",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The Vikings didn't wear horned helmets. So who did?",
+      "link": "https://danjones.substack.com/p/history-etc-the-vikings-didnt-wear",
+      "summary": "<p>Article URL: <a href=\"https://danjones.substack.com/p/history-etc-the-vikings-didnt-wear\">https://danjones.substack.com/p/history-etc-the-vikings-didnt-wear</a></p>\n<p>Comments URL: <a href=\"https:...",
+      "published": "2026-07-22T08:23:00+00:00",
+      "domain": "danjones.substack.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "EU border agency unlawfully transferred data on migrants/activists to Europol",
+      "link": "https://english.elpais.com/international/2025-07-13/for-years-the-eus-border-agency-illegally-transferred-data-on-migrants-and-activists-to-europol.html",
+      "summary": "<p>Article URL: <a href=\"https://english.elpais.com/international/2025-07-13/for-years-the-eus-border-agency-illegally-transferred-data-on-migrants-and-activists-to-europol.html\">https://english.elpai...",
+      "published": "2026-07-22T08:22:51+00:00",
+      "domain": "english.elpais.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "AI Video and Audio Generator",
+      "link": "https://silknova-ai.com/",
+      "summary": "<p>Article URL: <a href=\"https://silknova-ai.com/\">https://silknova-ai.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49003393\">https://news.ycombinator.com/item?id=490033...",
+      "published": "2026-07-22T08:18:19+00:00",
+      "domain": "silknova-ai.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: ReadKinetic \u2013 a free, local-first speed reader for your own books",
+      "link": "https://www.readkinetic.com/app/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49002344\">Comments</a>...",
+      "published": "2026-07-22T05:49:51+00:00",
+      "domain": "readkinetic.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -329,124 +329,28 @@
   ],
   "overall_ranked": [
     {
-      "title": "Apple Fixes Hide My Email Bug That Exposed Real Addresses in Mail Logs",
-      "link": "https://thehackernews.com/2026/07/apple-fixes-hide-my-email-bug-that.html",
-      "summary": "Apple has moved to address a security flaw in its Hide My Email service that enabled users' real email addresses to be unmasked, effectively undermining the feature's privacy guarantees.\n\n404 Media re...",
-      "published": "2026-07-22T00:16:32+05:30",
+      "title": "Police Dismantle Kratos Phishing Kit Built to Steal Microsoft 365 Sessions and Bypass MFA",
+      "link": "https://thehackernews.com/2026/07/police-dismantle-kratos-phishing-kit.html",
+      "summary": "German and US law enforcement have taken down the core infrastructure of Kratos, described by German investigators as one of the world's most widely used criminal phishing kits, and Indonesian authori...",
+      "published": "2026-07-22T12:08:45+05:30",
       "domain": "thehackernews.com",
       "scores": {
-        "chaos": 10.6,
+        "chaos": 9.1,
         "anarchy": 3.0,
-        "overall": 6.8
+        "overall": 6.0
       },
       "keywords": {
         "chaos": [
-          "bug"
+          "down"
         ],
         "anarchy": []
       }
     },
     {
-      "title": "D\u00e9j\u00e0 View: Someone already tried this",
-      "link": "https://dejaview.bsct.so/",
-      "summary": "<p>Article URL: <a href=\"https://dejaview.bsct.so/\">https://dejaview.bsct.so/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49001138\">https://news.ycombinator.com/item?id=4900...",
-      "published": "2026-07-22T02:33:38+00:00",
-      "domain": "dejaview.bsct.so",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Late.sh \u2013 a command-line Clubhouse for computer people",
-      "link": "https://late.sh/",
-      "summary": "<p>Article URL: <a href=\"https://late.sh/\">https://late.sh/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49001127\">https://news.ycombinator.com/item?id=49001127</a></p>\n<p>Po...",
-      "published": "2026-07-22T02:32:30+00:00",
-      "domain": "late.sh",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Dashrath Manjhi \u2013 Mountain Man",
-      "link": "https://en.wikipedia.org/wiki/Dashrath_Manjhi",
-      "summary": "<p>Article URL: <a href=\"https://en.wikipedia.org/wiki/Dashrath_Manjhi\">https://en.wikipedia.org/wiki/Dashrath_Manjhi</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49001118\">h...",
-      "published": "2026-07-22T02:31:19+00:00",
-      "domain": "en.wikipedia.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "America's AI labs are under threat from cheap Chinese rivals",
-      "link": "https://economist.com/business/2026/07/21/americas-ai-labs-are-under-threat-from-cheap-chinese-rivals",
-      "summary": "<p>Article URL: <a href=\"https://economist.com/business/2026/07/21/americas-ai-labs-are-under-threat-from-cheap-chinese-rivals\">https://economist.com/business/2026/07/21/americas-ai-labs-are-under-thr...",
-      "published": "2026-07-22T02:29:59+00:00",
-      "domain": "economist.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The conservative road to nowhere: Hanson's empty populism",
-      "link": "https://www.newpolitics.com.au/p/the-road-to-nowhere-hansons-empty",
-      "summary": "<p>Article URL: <a href=\"https://www.newpolitics.com.au/p/the-road-to-nowhere-hansons-empty\">https://www.newpolitics.com.au/p/the-road-to-nowhere-hansons-empty</a></p>\n<p>Comments URL: <a href=\"https:...",
-      "published": "2026-07-22T02:28:15+00:00",
-      "domain": "newpolitics.com.au",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA",
-      "link": "https://fireworks.ai/blog/kimik3-fable",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48999291\">Comments</a>...",
-      "published": "2026-07-21T22:35:24+00:00",
-      "domain": "fireworks.ai",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "AWS Kiro Flaw Let a Poisoned Web Page Rewrite Its Config and Run Code",
-      "link": "https://thehackernews.com/2026/07/aws-kiro-flaw-let-poisoned-web-page.html",
-      "summary": "Hidden text on a web page was enough to make Kiro, AWS's agentic coding IDE, rewrite its own configuration file and run an attacker's code on a developer's machine, with no approval step able to stop ...",
-      "published": "2026-07-21T21:36:12+05:30",
+      "title": "Trojanized Newtonsoft.Json Fork Hides Game-Rigging Code in a Working Library",
+      "link": "https://thehackernews.com/2026/07/trojanized-newtonsoftjson-fork-hides.html",
+      "summary": "Cybersecurity researchers have discovered a NuGet typosquat that's unlike the typical information-stealing malware distributed via package registries: usual info-stealers: it's designed to rig live ga...",
+      "published": "2026-07-22T11:30:06+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -459,11 +363,11 @@
       }
     },
     {
-      "title": "A digestion of the Jacobian conjecture counterexample",
-      "link": "https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48998362\">Comments</a>...",
-      "published": "2026-07-21T21:09:25+00:00",
-      "domain": "terrytao.wordpress.com",
+      "title": "Microsoft Azure DevOps MCP Flaw Lets Hidden PR Comments Hijack AI Review Agents",
+      "link": "https://thehackernews.com/2026/07/microsoft-azure-devops-mcp-flaw-lets.html",
+      "summary": "A single invisible comment in an Azure DevOps pull request can turn a reviewer's own AI coding agent against them, driving it into projects the attacker has no rights to reach and quietly leaking what...",
+      "published": "2026-07-22T10:27:52+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -475,11 +379,107 @@
       }
     },
     {
-      "title": "Mathematicians grapple with a \u2018very rapid and very unsettling change\u2019 as AI cracks yet another century-old problem",
-      "link": "https://www.reddit.com/r/technology/comments/1v2uljs/mathematicians_grapple_with_a_very_rapid_and_very/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1v2uljs/mathematicians_grapple_with_a_very_rapid_and_very/\"> <img alt=\"Mathematicians grapple with a \u2018very rapid and very unsettl...",
-      "published": "2026-07-21T20:40:38+00:00",
-      "domain": "reddit.com",
+      "title": "OpenAI Says Its AI Models Escaped Sandbox, Targeted Hugging Face to Cheat Benchmark",
+      "link": "https://thehackernews.com/2026/07/openai-says-its-own-ai-models-escaped.html",
+      "summary": "OpenAI on Tuesday said a combination of its artificial intelligence (AI) models, including GPT-5.6 Sol and an \"even more capable pre-release model,\" was behind the security incident that targeted Hugg...",
+      "published": "2026-07-22T09:48:33+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "OpenAI says AI models went rogue during testing",
+      "link": "https://www.reuters.com/technology/openai-says-ai-models-went-rogue-during-testing-triggering-unprecedented-breach-2026-07-21/",
+      "summary": "<p>Article URL: <a href=\"https://www.reuters.com/technology/openai-says-ai-models-went-rogue-during-testing-triggering-unprecedented-breach-2026-07-21/\">https://www.reuters.com/technology/openai-says-...",
+      "published": "2026-07-22T08:25:58+00:00",
+      "domain": "reuters.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "--end-of-options (git flag)",
+      "link": "https://nesbitt.io/2026/07/21/end-of-options.html",
+      "summary": "<p>Article URL: <a href=\"https://nesbitt.io/2026/07/21/end-of-options.html\">https://nesbitt.io/2026/07/21/end-of-options.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=490...",
+      "published": "2026-07-22T08:24:37+00:00",
+      "domain": "nesbitt.io",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The Vikings didn't wear horned helmets. So who did?",
+      "link": "https://danjones.substack.com/p/history-etc-the-vikings-didnt-wear",
+      "summary": "<p>Article URL: <a href=\"https://danjones.substack.com/p/history-etc-the-vikings-didnt-wear\">https://danjones.substack.com/p/history-etc-the-vikings-didnt-wear</a></p>\n<p>Comments URL: <a href=\"https:...",
+      "published": "2026-07-22T08:23:00+00:00",
+      "domain": "danjones.substack.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "EU border agency unlawfully transferred data on migrants/activists to Europol",
+      "link": "https://english.elpais.com/international/2025-07-13/for-years-the-eus-border-agency-illegally-transferred-data-on-migrants-and-activists-to-europol.html",
+      "summary": "<p>Article URL: <a href=\"https://english.elpais.com/international/2025-07-13/for-years-the-eus-border-agency-illegally-transferred-data-on-migrants-and-activists-to-europol.html\">https://english.elpai...",
+      "published": "2026-07-22T08:22:51+00:00",
+      "domain": "english.elpais.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "AI Video and Audio Generator",
+      "link": "https://silknova-ai.com/",
+      "summary": "<p>Article URL: <a href=\"https://silknova-ai.com/\">https://silknova-ai.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49003393\">https://news.ycombinator.com/item?id=490033...",
+      "published": "2026-07-22T08:18:19+00:00",
+      "domain": "silknova-ai.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: ReadKinetic \u2013 a free, local-first speed reader for your own books",
+      "link": "https://www.readkinetic.com/app/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49002344\">Comments</a>...",
+      "published": "2026-07-22T05:49:51+00:00",
+      "domain": "readkinetic.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -493,124 +493,28 @@
   ],
   "all_articles": [
     {
-      "title": "D\u00e9j\u00e0 View: Someone already tried this",
-      "link": "https://dejaview.bsct.so/",
-      "summary": "<p>Article URL: <a href=\"https://dejaview.bsct.so/\">https://dejaview.bsct.so/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49001138\">https://news.ycombinator.com/item?id=4900...",
-      "published": "2026-07-22T02:33:38+00:00",
-      "domain": "dejaview.bsct.so",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Late.sh \u2013 a command-line Clubhouse for computer people",
-      "link": "https://late.sh/",
-      "summary": "<p>Article URL: <a href=\"https://late.sh/\">https://late.sh/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49001127\">https://news.ycombinator.com/item?id=49001127</a></p>\n<p>Po...",
-      "published": "2026-07-22T02:32:30+00:00",
-      "domain": "late.sh",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Dashrath Manjhi \u2013 Mountain Man",
-      "link": "https://en.wikipedia.org/wiki/Dashrath_Manjhi",
-      "summary": "<p>Article URL: <a href=\"https://en.wikipedia.org/wiki/Dashrath_Manjhi\">https://en.wikipedia.org/wiki/Dashrath_Manjhi</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49001118\">h...",
-      "published": "2026-07-22T02:31:19+00:00",
-      "domain": "en.wikipedia.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "America's AI labs are under threat from cheap Chinese rivals",
-      "link": "https://economist.com/business/2026/07/21/americas-ai-labs-are-under-threat-from-cheap-chinese-rivals",
-      "summary": "<p>Article URL: <a href=\"https://economist.com/business/2026/07/21/americas-ai-labs-are-under-threat-from-cheap-chinese-rivals\">https://economist.com/business/2026/07/21/americas-ai-labs-are-under-thr...",
-      "published": "2026-07-22T02:29:59+00:00",
-      "domain": "economist.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The conservative road to nowhere: Hanson's empty populism",
-      "link": "https://www.newpolitics.com.au/p/the-road-to-nowhere-hansons-empty",
-      "summary": "<p>Article URL: <a href=\"https://www.newpolitics.com.au/p/the-road-to-nowhere-hansons-empty\">https://www.newpolitics.com.au/p/the-road-to-nowhere-hansons-empty</a></p>\n<p>Comments URL: <a href=\"https:...",
-      "published": "2026-07-22T02:28:15+00:00",
-      "domain": "newpolitics.com.au",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Apple Fixes Hide My Email Bug That Exposed Real Addresses in Mail Logs",
-      "link": "https://thehackernews.com/2026/07/apple-fixes-hide-my-email-bug-that.html",
-      "summary": "Apple has moved to address a security flaw in its Hide My Email service that enabled users' real email addresses to be unmasked, effectively undermining the feature's privacy guarantees.\n\n404 Media re...",
-      "published": "2026-07-22T00:16:32+05:30",
+      "title": "Police Dismantle Kratos Phishing Kit Built to Steal Microsoft 365 Sessions and Bypass MFA",
+      "link": "https://thehackernews.com/2026/07/police-dismantle-kratos-phishing-kit.html",
+      "summary": "German and US law enforcement have taken down the core infrastructure of Kratos, described by German investigators as one of the world's most widely used criminal phishing kits, and Indonesian authori...",
+      "published": "2026-07-22T12:08:45+05:30",
       "domain": "thehackernews.com",
       "scores": {
-        "chaos": 10.6,
+        "chaos": 9.1,
         "anarchy": 3.0,
-        "overall": 6.8
+        "overall": 6.0
       },
       "keywords": {
         "chaos": [
-          "bug"
+          "down"
         ],
         "anarchy": []
       }
     },
     {
-      "title": "Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA",
-      "link": "https://fireworks.ai/blog/kimik3-fable",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48999291\">Comments</a>...",
-      "published": "2026-07-21T22:35:24+00:00",
-      "domain": "fireworks.ai",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "AWS Kiro Flaw Let a Poisoned Web Page Rewrite Its Config and Run Code",
-      "link": "https://thehackernews.com/2026/07/aws-kiro-flaw-let-poisoned-web-page.html",
-      "summary": "Hidden text on a web page was enough to make Kiro, AWS's agentic coding IDE, rewrite its own configuration file and run an attacker's code on a developer's machine, with no approval step able to stop ...",
-      "published": "2026-07-21T21:36:12+05:30",
+      "title": "Trojanized Newtonsoft.Json Fork Hides Game-Rigging Code in a Working Library",
+      "link": "https://thehackernews.com/2026/07/trojanized-newtonsoftjson-fork-hides.html",
+      "summary": "Cybersecurity researchers have discovered a NuGet typosquat that's unlike the typical information-stealing malware distributed via package registries: usual info-stealers: it's designed to rig live ga...",
+      "published": "2026-07-22T11:30:06+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -623,11 +527,11 @@
       }
     },
     {
-      "title": "A digestion of the Jacobian conjecture counterexample",
-      "link": "https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48998362\">Comments</a>...",
-      "published": "2026-07-21T21:09:25+00:00",
-      "domain": "terrytao.wordpress.com",
+      "title": "Microsoft Azure DevOps MCP Flaw Lets Hidden PR Comments Hijack AI Review Agents",
+      "link": "https://thehackernews.com/2026/07/microsoft-azure-devops-mcp-flaw-lets.html",
+      "summary": "A single invisible comment in an Azure DevOps pull request can turn a reviewer's own AI coding agent against them, driving it into projects the attacker has no rights to reach and quietly leaking what...",
+      "published": "2026-07-22T10:27:52+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -639,11 +543,107 @@
       }
     },
     {
-      "title": "Mathematicians grapple with a \u2018very rapid and very unsettling change\u2019 as AI cracks yet another century-old problem",
-      "link": "https://www.reddit.com/r/technology/comments/1v2uljs/mathematicians_grapple_with_a_very_rapid_and_very/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1v2uljs/mathematicians_grapple_with_a_very_rapid_and_very/\"> <img alt=\"Mathematicians grapple with a \u2018very rapid and very unsettl...",
-      "published": "2026-07-21T20:40:38+00:00",
-      "domain": "reddit.com",
+      "title": "OpenAI Says Its AI Models Escaped Sandbox, Targeted Hugging Face to Cheat Benchmark",
+      "link": "https://thehackernews.com/2026/07/openai-says-its-own-ai-models-escaped.html",
+      "summary": "OpenAI on Tuesday said a combination of its artificial intelligence (AI) models, including GPT-5.6 Sol and an \"even more capable pre-release model,\" was behind the security incident that targeted Hugg...",
+      "published": "2026-07-22T09:48:33+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "OpenAI says AI models went rogue during testing",
+      "link": "https://www.reuters.com/technology/openai-says-ai-models-went-rogue-during-testing-triggering-unprecedented-breach-2026-07-21/",
+      "summary": "<p>Article URL: <a href=\"https://www.reuters.com/technology/openai-says-ai-models-went-rogue-during-testing-triggering-unprecedented-breach-2026-07-21/\">https://www.reuters.com/technology/openai-says-...",
+      "published": "2026-07-22T08:25:58+00:00",
+      "domain": "reuters.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "--end-of-options (git flag)",
+      "link": "https://nesbitt.io/2026/07/21/end-of-options.html",
+      "summary": "<p>Article URL: <a href=\"https://nesbitt.io/2026/07/21/end-of-options.html\">https://nesbitt.io/2026/07/21/end-of-options.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=490...",
+      "published": "2026-07-22T08:24:37+00:00",
+      "domain": "nesbitt.io",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The Vikings didn't wear horned helmets. So who did?",
+      "link": "https://danjones.substack.com/p/history-etc-the-vikings-didnt-wear",
+      "summary": "<p>Article URL: <a href=\"https://danjones.substack.com/p/history-etc-the-vikings-didnt-wear\">https://danjones.substack.com/p/history-etc-the-vikings-didnt-wear</a></p>\n<p>Comments URL: <a href=\"https:...",
+      "published": "2026-07-22T08:23:00+00:00",
+      "domain": "danjones.substack.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "EU border agency unlawfully transferred data on migrants/activists to Europol",
+      "link": "https://english.elpais.com/international/2025-07-13/for-years-the-eus-border-agency-illegally-transferred-data-on-migrants-and-activists-to-europol.html",
+      "summary": "<p>Article URL: <a href=\"https://english.elpais.com/international/2025-07-13/for-years-the-eus-border-agency-illegally-transferred-data-on-migrants-and-activists-to-europol.html\">https://english.elpai...",
+      "published": "2026-07-22T08:22:51+00:00",
+      "domain": "english.elpais.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "AI Video and Audio Generator",
+      "link": "https://silknova-ai.com/",
+      "summary": "<p>Article URL: <a href=\"https://silknova-ai.com/\">https://silknova-ai.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49003393\">https://news.ycombinator.com/item?id=490033...",
+      "published": "2026-07-22T08:18:19+00:00",
+      "domain": "silknova-ai.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: ReadKinetic \u2013 a free, local-first speed reader for your own books",
+      "link": "https://www.readkinetic.com/app/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49002344\">Comments</a>...",
+      "published": "2026-07-22T05:49:51+00:00",
+      "domain": "readkinetic.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
