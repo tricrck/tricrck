@@ -16,16 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Police Dismantle Kratos Phishing Kit Built to Steal Microsoft 365 Sessions and Bypass MFA
+### Hackers Exploit Windmill Flaw to Read Arbitrary Server Files Without Authentication
 - **Published**: July 22, 2026
-- **Summary**: German and US law enforcement have taken down the core infrastructure of Kratos, described by German investigators as one of the world's most widely u...
-- **Keywords**: down
-- [Read more](https://thehackernews.com/2026/07/police-dismantle-kratos-phishing-kit.html)
+- **Summary**: A high-severity security flaw impacting open-source developer platform Windmill has come under active exploitation in the wild, per VulnCheck.
 
-### Trojanized Newtonsoft.Json Fork Hides Game-Rigging Code in a Working Library
+The vu...
+- [Read more](https://thehackernews.com/2026/07/hackers-exploit-windmill-flaw-to-read.html)
+
+### The Fastest Path to AI Adoption Runs Through Security
 - **Published**: July 22, 2026
-- **Summary**: Cybersecurity researchers have discovered a NuGet typosquat that's unlike the typical information-stealing malware distributed via package registries:...
-- [Read more](https://thehackernews.com/2026/07/trojanized-newtonsoftjson-fork-hides.html)
+- **Summary**: Security leaders who build fast, visible paths to AI adoption are becoming the most valued partners in their organizations. AI governance done right g...
+- [Read more](https://thehackernews.com/2026/07/the-fastest-path-to-ai-adoption-runs.html)
 
 ---
 

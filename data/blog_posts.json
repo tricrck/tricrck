@@ -1,28 +1,10 @@
 {
   "chaos_ranked": [
     {
-      "title": "Police Dismantle Kratos Phishing Kit Built to Steal Microsoft 365 Sessions and Bypass MFA",
-      "link": "https://thehackernews.com/2026/07/police-dismantle-kratos-phishing-kit.html",
-      "summary": "German and US law enforcement have taken down the core infrastructure of Kratos, described by German investigators as one of the world's most widely used criminal phishing kits, and Indonesian authori...",
-      "published": "2026-07-22T12:08:45+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 9.1,
-        "anarchy": 3.0,
-        "overall": 6.0
-      },
-      "keywords": {
-        "chaos": [
-          "down"
-        ],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Trojanized Newtonsoft.Json Fork Hides Game-Rigging Code in a Working Library",
-      "link": "https://thehackernews.com/2026/07/trojanized-newtonsoftjson-fork-hides.html",
-      "summary": "Cybersecurity researchers have discovered a NuGet typosquat that's unlike the typical information-stealing malware distributed via package registries: usual info-stealers: it's designed to rig live ga...",
-      "published": "2026-07-22T11:30:06+05:30",
+      "title": "Hackers Exploit Windmill Flaw to Read Arbitrary Server Files Without Authentication",
+      "link": "https://thehackernews.com/2026/07/hackers-exploit-windmill-flaw-to-read.html",
+      "summary": "A high-severity security flaw impacting open-source developer platform Windmill has come under active exploitation in the wild, per VulnCheck.\n\nThe vulnerability in question is CVE-2026-29059 (CVSS sc...",
+      "published": "2026-07-22T18:06:36+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -35,10 +17,10 @@
       }
     },
     {
-      "title": "Microsoft Azure DevOps MCP Flaw Lets Hidden PR Comments Hijack AI Review Agents",
-      "link": "https://thehackernews.com/2026/07/microsoft-azure-devops-mcp-flaw-lets.html",
-      "summary": "A single invisible comment in an Azure DevOps pull request can turn a reviewer's own AI coding agent against them, driving it into projects the attacker has no rights to reach and quietly leaking what...",
-      "published": "2026-07-22T10:27:52+05:30",
+      "title": "The Fastest Path to AI Adoption Runs Through Security",
+      "link": "https://thehackernews.com/2026/07/the-fastest-path-to-ai-adoption-runs.html",
+      "summary": "Security leaders who build fast, visible paths to AI adoption are becoming the most valued partners in their organizations. AI governance done right gives security teams the visibility they need, empl...",
+      "published": "2026-07-22T17:28:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -54,7 +36,7 @@
       "title": "OpenAI Says Its AI Models Escaped Sandbox, Targeted Hugging Face to Cheat Benchmark",
       "link": "https://thehackernews.com/2026/07/openai-says-its-own-ai-models-escaped.html",
       "summary": "OpenAI on Tuesday said a combination of its artificial intelligence (AI) models, including GPT-5.6 Sol and an \"even more capable pre-release model,\" was behind the security incident that targeted Hugg...",
-      "published": "2026-07-22T09:48:33+05:30",
+      "published": "2026-07-22T17:00:02+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -67,11 +49,11 @@
       }
     },
     {
-      "title": "OpenAI says AI models went rogue during testing",
-      "link": "https://www.reuters.com/technology/openai-says-ai-models-went-rogue-during-testing-triggering-unprecedented-breach-2026-07-21/",
-      "summary": "<p>Article URL: <a href=\"https://www.reuters.com/technology/openai-says-ai-models-went-rogue-during-testing-triggering-unprecedented-breach-2026-07-21/\">https://www.reuters.com/technology/openai-says-...",
-      "published": "2026-07-22T08:25:58+00:00",
-      "domain": "reuters.com",
+      "title": "Why Modern SOCs Need Multi-Layered Detections",
+      "link": "https://thehackernews.com/2026/07/why-modern-socs-need-multi-layered.html",
+      "summary": "The cycle is over. For years, cybersecurity followed a familiar pattern: defenses improved, attackers adapted, and the back-and-forth continued. Today, AI-equipped attackers are simply outpacing defen...",
+      "published": "2026-07-22T16:55:35+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -83,11 +65,11 @@
       }
     },
     {
-      "title": "--end-of-options (git flag)",
-      "link": "https://nesbitt.io/2026/07/21/end-of-options.html",
-      "summary": "<p>Article URL: <a href=\"https://nesbitt.io/2026/07/21/end-of-options.html\">https://nesbitt.io/2026/07/21/end-of-options.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=490...",
-      "published": "2026-07-22T08:24:37+00:00",
-      "domain": "nesbitt.io",
+      "title": "Rolling in the Diffs",
+      "link": "https://pwno.io/diff",
+      "summary": "<p>Article URL: <a href=\"https://pwno.io/diff\">https://pwno.io/diff</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49006871\">https://news.ycombinator.com/item?id=49006871</a></...",
+      "published": "2026-07-22T13:52:54+00:00",
+      "domain": "pwno.io",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -99,11 +81,11 @@
       }
     },
     {
-      "title": "The Vikings didn't wear horned helmets. So who did?",
-      "link": "https://danjones.substack.com/p/history-etc-the-vikings-didnt-wear",
-      "summary": "<p>Article URL: <a href=\"https://danjones.substack.com/p/history-etc-the-vikings-didnt-wear\">https://danjones.substack.com/p/history-etc-the-vikings-didnt-wear</a></p>\n<p>Comments URL: <a href=\"https:...",
-      "published": "2026-07-22T08:23:00+00:00",
-      "domain": "danjones.substack.com",
+      "title": "Show HN: Sortstash \u2013 A file manager that indexes local and cloud files in place",
+      "link": "https://sortstash.com/",
+      "summary": "<p>Article URL: <a href=\"https://sortstash.com/\">https://sortstash.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49006869\">https://news.ycombinator.com/item?id=49006869</...",
+      "published": "2026-07-22T13:52:52+00:00",
+      "domain": "sortstash.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -115,11 +97,11 @@
       }
     },
     {
-      "title": "EU border agency unlawfully transferred data on migrants/activists to Europol",
-      "link": "https://english.elpais.com/international/2025-07-13/for-years-the-eus-border-agency-illegally-transferred-data-on-migrants-and-activists-to-europol.html",
-      "summary": "<p>Article URL: <a href=\"https://english.elpais.com/international/2025-07-13/for-years-the-eus-border-agency-illegally-transferred-data-on-migrants-and-activists-to-europol.html\">https://english.elpai...",
-      "published": "2026-07-22T08:22:51+00:00",
-      "domain": "english.elpais.com",
+      "title": "Show HN: Agent in 9 Lines Python",
+      "link": "https://gist.github.com/tosh/6e91a9dbf08dd630c535e7345ac7f0b5",
+      "summary": "<p>I asked myself: what would a minimal implementation of an agent look like?<p>Something that works out of the box, is a real agent with tool calling, but without 1000s of lines of code, without doze...",
+      "published": "2026-07-22T13:52:23+00:00",
+      "domain": "gist.github.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -131,11 +113,11 @@
       }
     },
     {
-      "title": "AI Video and Audio Generator",
-      "link": "https://silknova-ai.com/",
-      "summary": "<p>Article URL: <a href=\"https://silknova-ai.com/\">https://silknova-ai.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49003393\">https://news.ycombinator.com/item?id=490033...",
-      "published": "2026-07-22T08:18:19+00:00",
-      "domain": "silknova-ai.com",
+      "title": "Accelerate Decisions. Improve Collaboration",
+      "link": "https://get-rhizome.app/en",
+      "summary": "<p>Article URL: <a href=\"https://get-rhizome.app/en\">https://get-rhizome.app/en</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49006861\">https://news.ycombinator.com/item?id=49...",
+      "published": "2026-07-22T13:52:23+00:00",
+      "domain": "get-rhizome.app",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -147,11 +129,27 @@
       }
     },
     {
-      "title": "Show HN: ReadKinetic \u2013 a free, local-first speed reader for your own books",
-      "link": "https://www.readkinetic.com/app/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49002344\">Comments</a>...",
-      "published": "2026-07-22T05:49:51+00:00",
-      "domain": "readkinetic.com",
+      "title": "Touchable: First Physical AI Agent",
+      "link": "https://play.google.com/store/apps/details?id=com.spectral.touch.touchable&hl=en_US",
+      "summary": "<p>Article URL: <a href=\"https://play.google.com/store/apps/details?id=com.spectral.touch.touchable&amp;hl=en_US\">https://play.google.com/store/apps/details?id=com.spectral.touch.touchable&amp;hl=en_U...",
+      "published": "2026-07-22T13:52:09+00:00",
+      "domain": "play.google.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Back to Kagi",
+      "link": "https://blog.melashri.net/micro/back-to-kagi/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49006195\">Comments</a>...",
+      "published": "2026-07-22T13:08:19+00:00",
+      "domain": "blog.melashri.net",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -165,28 +163,10 @@
   ],
   "anarchy_ranked": [
     {
-      "title": "Police Dismantle Kratos Phishing Kit Built to Steal Microsoft 365 Sessions and Bypass MFA",
-      "link": "https://thehackernews.com/2026/07/police-dismantle-kratos-phishing-kit.html",
-      "summary": "German and US law enforcement have taken down the core infrastructure of Kratos, described by German investigators as one of the world's most widely used criminal phishing kits, and Indonesian authori...",
-      "published": "2026-07-22T12:08:45+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 9.1,
-        "anarchy": 3.0,
-        "overall": 6.0
-      },
-      "keywords": {
-        "chaos": [
-          "down"
-        ],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Trojanized Newtonsoft.Json Fork Hides Game-Rigging Code in a Working Library",
-      "link": "https://thehackernews.com/2026/07/trojanized-newtonsoftjson-fork-hides.html",
-      "summary": "Cybersecurity researchers have discovered a NuGet typosquat that's unlike the typical information-stealing malware distributed via package registries: usual info-stealers: it's designed to rig live ga...",
-      "published": "2026-07-22T11:30:06+05:30",
+      "title": "Hackers Exploit Windmill Flaw to Read Arbitrary Server Files Without Authentication",
+      "link": "https://thehackernews.com/2026/07/hackers-exploit-windmill-flaw-to-read.html",
+      "summary": "A high-severity security flaw impacting open-source developer platform Windmill has come under active exploitation in the wild, per VulnCheck.\n\nThe vulnerability in question is CVE-2026-29059 (CVSS sc...",
+      "published": "2026-07-22T18:06:36+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -199,10 +179,10 @@
       }
     },
     {
-      "title": "Microsoft Azure DevOps MCP Flaw Lets Hidden PR Comments Hijack AI Review Agents",
-      "link": "https://thehackernews.com/2026/07/microsoft-azure-devops-mcp-flaw-lets.html",
-      "summary": "A single invisible comment in an Azure DevOps pull request can turn a reviewer's own AI coding agent against them, driving it into projects the attacker has no rights to reach and quietly leaking what...",
-      "published": "2026-07-22T10:27:52+05:30",
+      "title": "The Fastest Path to AI Adoption Runs Through Security",
+      "link": "https://thehackernews.com/2026/07/the-fastest-path-to-ai-adoption-runs.html",
+      "summary": "Security leaders who build fast, visible paths to AI adoption are becoming the most valued partners in their organizations. AI governance done right gives security teams the visibility they need, empl...",
+      "published": "2026-07-22T17:28:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -218,7 +198,7 @@
       "title": "OpenAI Says Its AI Models Escaped Sandbox, Targeted Hugging Face to Cheat Benchmark",
       "link": "https://thehackernews.com/2026/07/openai-says-its-own-ai-models-escaped.html",
       "summary": "OpenAI on Tuesday said a combination of its artificial intelligence (AI) models, including GPT-5.6 Sol and an \"even more capable pre-release model,\" was behind the security incident that targeted Hugg...",
-      "published": "2026-07-22T09:48:33+05:30",
+      "published": "2026-07-22T17:00:02+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -231,11 +211,11 @@
       }
     },
     {
-      "title": "OpenAI says AI models went rogue during testing",
-      "link": "https://www.reuters.com/technology/openai-says-ai-models-went-rogue-during-testing-triggering-unprecedented-breach-2026-07-21/",
-      "summary": "<p>Article URL: <a href=\"https://www.reuters.com/technology/openai-says-ai-models-went-rogue-during-testing-triggering-unprecedented-breach-2026-07-21/\">https://www.reuters.com/technology/openai-says-...",
-      "published": "2026-07-22T08:25:58+00:00",
-      "domain": "reuters.com",
+      "title": "Why Modern SOCs Need Multi-Layered Detections",
+      "link": "https://thehackernews.com/2026/07/why-modern-socs-need-multi-layered.html",
+      "summary": "The cycle is over. For years, cybersecurity followed a familiar pattern: defenses improved, attackers adapted, and the back-and-forth continued. Today, AI-equipped attackers are simply outpacing defen...",
+      "published": "2026-07-22T16:55:35+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -247,11 +227,11 @@
       }
     },
     {
-      "title": "--end-of-options (git flag)",
-      "link": "https://nesbitt.io/2026/07/21/end-of-options.html",
-      "summary": "<p>Article URL: <a href=\"https://nesbitt.io/2026/07/21/end-of-options.html\">https://nesbitt.io/2026/07/21/end-of-options.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=490...",
-      "published": "2026-07-22T08:24:37+00:00",
-      "domain": "nesbitt.io",
+      "title": "Rolling in the Diffs",
+      "link": "https://pwno.io/diff",
+      "summary": "<p>Article URL: <a href=\"https://pwno.io/diff\">https://pwno.io/diff</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49006871\">https://news.ycombinator.com/item?id=49006871</a></...",
+      "published": "2026-07-22T13:52:54+00:00",
+      "domain": "pwno.io",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -263,11 +243,11 @@
       }
     },
     {
-      "title": "The Vikings didn't wear horned helmets. So who did?",
-      "link": "https://danjones.substack.com/p/history-etc-the-vikings-didnt-wear",
-      "summary": "<p>Article URL: <a href=\"https://danjones.substack.com/p/history-etc-the-vikings-didnt-wear\">https://danjones.substack.com/p/history-etc-the-vikings-didnt-wear</a></p>\n<p>Comments URL: <a href=\"https:...",
-      "published": "2026-07-22T08:23:00+00:00",
-      "domain": "danjones.substack.com",
+      "title": "Show HN: Sortstash \u2013 A file manager that indexes local and cloud files in place",
+      "link": "https://sortstash.com/",
+      "summary": "<p>Article URL: <a href=\"https://sortstash.com/\">https://sortstash.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49006869\">https://news.ycombinator.com/item?id=49006869</...",
+      "published": "2026-07-22T13:52:52+00:00",
+      "domain": "sortstash.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -279,11 +259,11 @@
       }
     },
     {
-      "title": "EU border agency unlawfully transferred data on migrants/activists to Europol",
-      "link": "https://english.elpais.com/international/2025-07-13/for-years-the-eus-border-agency-illegally-transferred-data-on-migrants-and-activists-to-europol.html",
-      "summary": "<p>Article URL: <a href=\"https://english.elpais.com/international/2025-07-13/for-years-the-eus-border-agency-illegally-transferred-data-on-migrants-and-activists-to-europol.html\">https://english.elpai...",
-      "published": "2026-07-22T08:22:51+00:00",
-      "domain": "english.elpais.com",
+      "title": "Show HN: Agent in 9 Lines Python",
+      "link": "https://gist.github.com/tosh/6e91a9dbf08dd630c535e7345ac7f0b5",
+      "summary": "<p>I asked myself: what would a minimal implementation of an agent look like?<p>Something that works out of the box, is a real agent with tool calling, but without 1000s of lines of code, without doze...",
+      "published": "2026-07-22T13:52:23+00:00",
+      "domain": "gist.github.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -295,11 +275,11 @@
       }
     },
     {
-      "title": "AI Video and Audio Generator",
-      "link": "https://silknova-ai.com/",
-      "summary": "<p>Article URL: <a href=\"https://silknova-ai.com/\">https://silknova-ai.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49003393\">https://news.ycombinator.com/item?id=490033...",
-      "published": "2026-07-22T08:18:19+00:00",
-      "domain": "silknova-ai.com",
+      "title": "Accelerate Decisions. Improve Collaboration",
+      "link": "https://get-rhizome.app/en",
+      "summary": "<p>Article URL: <a href=\"https://get-rhizome.app/en\">https://get-rhizome.app/en</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49006861\">https://news.ycombinator.com/item?id=49...",
+      "published": "2026-07-22T13:52:23+00:00",
+      "domain": "get-rhizome.app",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -311,11 +291,27 @@
       }
     },
     {
-      "title": "Show HN: ReadKinetic \u2013 a free, local-first speed reader for your own books",
-      "link": "https://www.readkinetic.com/app/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49002344\">Comments</a>...",
-      "published": "2026-07-22T05:49:51+00:00",
-      "domain": "readkinetic.com",
+      "title": "Touchable: First Physical AI Agent",
+      "link": "https://play.google.com/store/apps/details?id=com.spectral.touch.touchable&hl=en_US",
+      "summary": "<p>Article URL: <a href=\"https://play.google.com/store/apps/details?id=com.spectral.touch.touchable&amp;hl=en_US\">https://play.google.com/store/apps/details?id=com.spectral.touch.touchable&amp;hl=en_U...",
+      "published": "2026-07-22T13:52:09+00:00",
+      "domain": "play.google.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Back to Kagi",
+      "link": "https://blog.melashri.net/micro/back-to-kagi/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49006195\">Comments</a>...",
+      "published": "2026-07-22T13:08:19+00:00",
+      "domain": "blog.melashri.net",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -329,28 +325,10 @@
   ],
   "overall_ranked": [
     {
-      "title": "Police Dismantle Kratos Phishing Kit Built to Steal Microsoft 365 Sessions and Bypass MFA",
-      "link": "https://thehackernews.com/2026/07/police-dismantle-kratos-phishing-kit.html",
-      "summary": "German and US law enforcement have taken down the core infrastructure of Kratos, described by German investigators as one of the world's most widely used criminal phishing kits, and Indonesian authori...",
-      "published": "2026-07-22T12:08:45+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 9.1,
-        "anarchy": 3.0,
-        "overall": 6.0
-      },
-      "keywords": {
-        "chaos": [
-          "down"
-        ],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Trojanized Newtonsoft.Json Fork Hides Game-Rigging Code in a Working Library",
-      "link": "https://thehackernews.com/2026/07/trojanized-newtonsoftjson-fork-hides.html",
-      "summary": "Cybersecurity researchers have discovered a NuGet typosquat that's unlike the typical information-stealing malware distributed via package registries: usual info-stealers: it's designed to rig live ga...",
-      "published": "2026-07-22T11:30:06+05:30",
+      "title": "Hackers Exploit Windmill Flaw to Read Arbitrary Server Files Without Authentication",
+      "link": "https://thehackernews.com/2026/07/hackers-exploit-windmill-flaw-to-read.html",
+      "summary": "A high-severity security flaw impacting open-source developer platform Windmill has come under active exploitation in the wild, per VulnCheck.\n\nThe vulnerability in question is CVE-2026-29059 (CVSS sc...",
+      "published": "2026-07-22T18:06:36+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -363,10 +341,10 @@
       }
     },
     {
-      "title": "Microsoft Azure DevOps MCP Flaw Lets Hidden PR Comments Hijack AI Review Agents",
-      "link": "https://thehackernews.com/2026/07/microsoft-azure-devops-mcp-flaw-lets.html",
-      "summary": "A single invisible comment in an Azure DevOps pull request can turn a reviewer's own AI coding agent against them, driving it into projects the attacker has no rights to reach and quietly leaking what...",
-      "published": "2026-07-22T10:27:52+05:30",
+      "title": "The Fastest Path to AI Adoption Runs Through Security",
+      "link": "https://thehackernews.com/2026/07/the-fastest-path-to-ai-adoption-runs.html",
+      "summary": "Security leaders who build fast, visible paths to AI adoption are becoming the most valued partners in their organizations. AI governance done right gives security teams the visibility they need, empl...",
+      "published": "2026-07-22T17:28:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -382,7 +360,7 @@
       "title": "OpenAI Says Its AI Models Escaped Sandbox, Targeted Hugging Face to Cheat Benchmark",
       "link": "https://thehackernews.com/2026/07/openai-says-its-own-ai-models-escaped.html",
       "summary": "OpenAI on Tuesday said a combination of its artificial intelligence (AI) models, including GPT-5.6 Sol and an \"even more capable pre-release model,\" was behind the security incident that targeted Hugg...",
-      "published": "2026-07-22T09:48:33+05:30",
+      "published": "2026-07-22T17:00:02+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -395,11 +373,11 @@
       }
     },
     {
-      "title": "OpenAI says AI models went rogue during testing",
-      "link": "https://www.reuters.com/technology/openai-says-ai-models-went-rogue-during-testing-triggering-unprecedented-breach-2026-07-21/",
-      "summary": "<p>Article URL: <a href=\"https://www.reuters.com/technology/openai-says-ai-models-went-rogue-during-testing-triggering-unprecedented-breach-2026-07-21/\">https://www.reuters.com/technology/openai-says-...",
-      "published": "2026-07-22T08:25:58+00:00",
-      "domain": "reuters.com",
+      "title": "Why Modern SOCs Need Multi-Layered Detections",
+      "link": "https://thehackernews.com/2026/07/why-modern-socs-need-multi-layered.html",
+      "summary": "The cycle is over. For years, cybersecurity followed a familiar pattern: defenses improved, attackers adapted, and the back-and-forth continued. Today, AI-equipped attackers are simply outpacing defen...",
+      "published": "2026-07-22T16:55:35+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -411,11 +389,11 @@
       }
     },
     {
-      "title": "--end-of-options (git flag)",
-      "link": "https://nesbitt.io/2026/07/21/end-of-options.html",
-      "summary": "<p>Article URL: <a href=\"https://nesbitt.io/2026/07/21/end-of-options.html\">https://nesbitt.io/2026/07/21/end-of-options.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=490...",
-      "published": "2026-07-22T08:24:37+00:00",
-      "domain": "nesbitt.io",
+      "title": "Rolling in the Diffs",
+      "link": "https://pwno.io/diff",
+      "summary": "<p>Article URL: <a href=\"https://pwno.io/diff\">https://pwno.io/diff</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49006871\">https://news.ycombinator.com/item?id=49006871</a></...",
+      "published": "2026-07-22T13:52:54+00:00",
+      "domain": "pwno.io",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -427,11 +405,11 @@
       }
     },
     {
-      "title": "The Vikings didn't wear horned helmets. So who did?",
-      "link": "https://danjones.substack.com/p/history-etc-the-vikings-didnt-wear",
-      "summary": "<p>Article URL: <a href=\"https://danjones.substack.com/p/history-etc-the-vikings-didnt-wear\">https://danjones.substack.com/p/history-etc-the-vikings-didnt-wear</a></p>\n<p>Comments URL: <a href=\"https:...",
-      "published": "2026-07-22T08:23:00+00:00",
-      "domain": "danjones.substack.com",
+      "title": "Show HN: Sortstash \u2013 A file manager that indexes local and cloud files in place",
+      "link": "https://sortstash.com/",
+      "summary": "<p>Article URL: <a href=\"https://sortstash.com/\">https://sortstash.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49006869\">https://news.ycombinator.com/item?id=49006869</...",
+      "published": "2026-07-22T13:52:52+00:00",
+      "domain": "sortstash.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -443,11 +421,11 @@
       }
     },
     {
-      "title": "EU border agency unlawfully transferred data on migrants/activists to Europol",
-      "link": "https://english.elpais.com/international/2025-07-13/for-years-the-eus-border-agency-illegally-transferred-data-on-migrants-and-activists-to-europol.html",
-      "summary": "<p>Article URL: <a href=\"https://english.elpais.com/international/2025-07-13/for-years-the-eus-border-agency-illegally-transferred-data-on-migrants-and-activists-to-europol.html\">https://english.elpai...",
-      "published": "2026-07-22T08:22:51+00:00",
-      "domain": "english.elpais.com",
+      "title": "Show HN: Agent in 9 Lines Python",
+      "link": "https://gist.github.com/tosh/6e91a9dbf08dd630c535e7345ac7f0b5",
+      "summary": "<p>I asked myself: what would a minimal implementation of an agent look like?<p>Something that works out of the box, is a real agent with tool calling, but without 1000s of lines of code, without doze...",
+      "published": "2026-07-22T13:52:23+00:00",
+      "domain": "gist.github.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -459,11 +437,11 @@
       }
     },
     {
-      "title": "AI Video and Audio Generator",
-      "link": "https://silknova-ai.com/",
-      "summary": "<p>Article URL: <a href=\"https://silknova-ai.com/\">https://silknova-ai.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49003393\">https://news.ycombinator.com/item?id=490033...",
-      "published": "2026-07-22T08:18:19+00:00",
-      "domain": "silknova-ai.com",
+      "title": "Accelerate Decisions. Improve Collaboration",
+      "link": "https://get-rhizome.app/en",
+      "summary": "<p>Article URL: <a href=\"https://get-rhizome.app/en\">https://get-rhizome.app/en</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49006861\">https://news.ycombinator.com/item?id=49...",
+      "published": "2026-07-22T13:52:23+00:00",
+      "domain": "get-rhizome.app",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -475,11 +453,27 @@
       }
     },
     {
-      "title": "Show HN: ReadKinetic \u2013 a free, local-first speed reader for your own books",
-      "link": "https://www.readkinetic.com/app/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49002344\">Comments</a>...",
-      "published": "2026-07-22T05:49:51+00:00",
-      "domain": "readkinetic.com",
+      "title": "Touchable: First Physical AI Agent",
+      "link": "https://play.google.com/store/apps/details?id=com.spectral.touch.touchable&hl=en_US",
+      "summary": "<p>Article URL: <a href=\"https://play.google.com/store/apps/details?id=com.spectral.touch.touchable&amp;hl=en_US\">https://play.google.com/store/apps/details?id=com.spectral.touch.touchable&amp;hl=en_U...",
+      "published": "2026-07-22T13:52:09+00:00",
+      "domain": "play.google.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Back to Kagi",
+      "link": "https://blog.melashri.net/micro/back-to-kagi/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49006195\">Comments</a>...",
+      "published": "2026-07-22T13:08:19+00:00",
+      "domain": "blog.melashri.net",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -493,28 +487,10 @@
   ],
   "all_articles": [
     {
-      "title": "Police Dismantle Kratos Phishing Kit Built to Steal Microsoft 365 Sessions and Bypass MFA",
-      "link": "https://thehackernews.com/2026/07/police-dismantle-kratos-phishing-kit.html",
-      "summary": "German and US law enforcement have taken down the core infrastructure of Kratos, described by German investigators as one of the world's most widely used criminal phishing kits, and Indonesian authori...",
-      "published": "2026-07-22T12:08:45+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 9.1,
-        "anarchy": 3.0,
-        "overall": 6.0
-      },
-      "keywords": {
-        "chaos": [
-          "down"
-        ],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Trojanized Newtonsoft.Json Fork Hides Game-Rigging Code in a Working Library",
-      "link": "https://thehackernews.com/2026/07/trojanized-newtonsoftjson-fork-hides.html",
-      "summary": "Cybersecurity researchers have discovered a NuGet typosquat that's unlike the typical information-stealing malware distributed via package registries: usual info-stealers: it's designed to rig live ga...",
-      "published": "2026-07-22T11:30:06+05:30",
+      "title": "Hackers Exploit Windmill Flaw to Read Arbitrary Server Files Without Authentication",
+      "link": "https://thehackernews.com/2026/07/hackers-exploit-windmill-flaw-to-read.html",
+      "summary": "A high-severity security flaw impacting open-source developer platform Windmill has come under active exploitation in the wild, per VulnCheck.\n\nThe vulnerability in question is CVE-2026-29059 (CVSS sc...",
+      "published": "2026-07-22T18:06:36+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -527,10 +503,10 @@
       }
     },
     {
-      "title": "Microsoft Azure DevOps MCP Flaw Lets Hidden PR Comments Hijack AI Review Agents",
-      "link": "https://thehackernews.com/2026/07/microsoft-azure-devops-mcp-flaw-lets.html",
-      "summary": "A single invisible comment in an Azure DevOps pull request can turn a reviewer's own AI coding agent against them, driving it into projects the attacker has no rights to reach and quietly leaking what...",
-      "published": "2026-07-22T10:27:52+05:30",
+      "title": "The Fastest Path to AI Adoption Runs Through Security",
+      "link": "https://thehackernews.com/2026/07/the-fastest-path-to-ai-adoption-runs.html",
+      "summary": "Security leaders who build fast, visible paths to AI adoption are becoming the most valued partners in their organizations. AI governance done right gives security teams the visibility they need, empl...",
+      "published": "2026-07-22T17:28:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -546,7 +522,7 @@
       "title": "OpenAI Says Its AI Models Escaped Sandbox, Targeted Hugging Face to Cheat Benchmark",
       "link": "https://thehackernews.com/2026/07/openai-says-its-own-ai-models-escaped.html",
       "summary": "OpenAI on Tuesday said a combination of its artificial intelligence (AI) models, including GPT-5.6 Sol and an \"even more capable pre-release model,\" was behind the security incident that targeted Hugg...",
-      "published": "2026-07-22T09:48:33+05:30",
+      "published": "2026-07-22T17:00:02+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -559,11 +535,11 @@
       }
     },
     {
-      "title": "OpenAI says AI models went rogue during testing",
-      "link": "https://www.reuters.com/technology/openai-says-ai-models-went-rogue-during-testing-triggering-unprecedented-breach-2026-07-21/",
-      "summary": "<p>Article URL: <a href=\"https://www.reuters.com/technology/openai-says-ai-models-went-rogue-during-testing-triggering-unprecedented-breach-2026-07-21/\">https://www.reuters.com/technology/openai-says-...",
-      "published": "2026-07-22T08:25:58+00:00",
-      "domain": "reuters.com",
+      "title": "Why Modern SOCs Need Multi-Layered Detections",
+      "link": "https://thehackernews.com/2026/07/why-modern-socs-need-multi-layered.html",
+      "summary": "The cycle is over. For years, cybersecurity followed a familiar pattern: defenses improved, attackers adapted, and the back-and-forth continued. Today, AI-equipped attackers are simply outpacing defen...",
+      "published": "2026-07-22T16:55:35+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -575,11 +551,11 @@
       }
     },
     {
-      "title": "--end-of-options (git flag)",
-      "link": "https://nesbitt.io/2026/07/21/end-of-options.html",
-      "summary": "<p>Article URL: <a href=\"https://nesbitt.io/2026/07/21/end-of-options.html\">https://nesbitt.io/2026/07/21/end-of-options.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=490...",
-      "published": "2026-07-22T08:24:37+00:00",
-      "domain": "nesbitt.io",
+      "title": "Rolling in the Diffs",
+      "link": "https://pwno.io/diff",
+      "summary": "<p>Article URL: <a href=\"https://pwno.io/diff\">https://pwno.io/diff</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49006871\">https://news.ycombinator.com/item?id=49006871</a></...",
+      "published": "2026-07-22T13:52:54+00:00",
+      "domain": "pwno.io",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -591,11 +567,11 @@
       }
     },
     {
-      "title": "The Vikings didn't wear horned helmets. So who did?",
-      "link": "https://danjones.substack.com/p/history-etc-the-vikings-didnt-wear",
-      "summary": "<p>Article URL: <a href=\"https://danjones.substack.com/p/history-etc-the-vikings-didnt-wear\">https://danjones.substack.com/p/history-etc-the-vikings-didnt-wear</a></p>\n<p>Comments URL: <a href=\"https:...",
-      "published": "2026-07-22T08:23:00+00:00",
-      "domain": "danjones.substack.com",
+      "title": "Show HN: Sortstash \u2013 A file manager that indexes local and cloud files in place",
+      "link": "https://sortstash.com/",
+      "summary": "<p>Article URL: <a href=\"https://sortstash.com/\">https://sortstash.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49006869\">https://news.ycombinator.com/item?id=49006869</...",
+      "published": "2026-07-22T13:52:52+00:00",
+      "domain": "sortstash.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -607,11 +583,11 @@
       }
     },
     {
-      "title": "EU border agency unlawfully transferred data on migrants/activists to Europol",
-      "link": "https://english.elpais.com/international/2025-07-13/for-years-the-eus-border-agency-illegally-transferred-data-on-migrants-and-activists-to-europol.html",
-      "summary": "<p>Article URL: <a href=\"https://english.elpais.com/international/2025-07-13/for-years-the-eus-border-agency-illegally-transferred-data-on-migrants-and-activists-to-europol.html\">https://english.elpai...",
-      "published": "2026-07-22T08:22:51+00:00",
-      "domain": "english.elpais.com",
+      "title": "Show HN: Agent in 9 Lines Python",
+      "link": "https://gist.github.com/tosh/6e91a9dbf08dd630c535e7345ac7f0b5",
+      "summary": "<p>I asked myself: what would a minimal implementation of an agent look like?<p>Something that works out of the box, is a real agent with tool calling, but without 1000s of lines of code, without doze...",
+      "published": "2026-07-22T13:52:23+00:00",
+      "domain": "gist.github.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -623,11 +599,11 @@
       }
     },
     {
-      "title": "AI Video and Audio Generator",
-      "link": "https://silknova-ai.com/",
-      "summary": "<p>Article URL: <a href=\"https://silknova-ai.com/\">https://silknova-ai.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49003393\">https://news.ycombinator.com/item?id=490033...",
-      "published": "2026-07-22T08:18:19+00:00",
-      "domain": "silknova-ai.com",
+      "title": "Accelerate Decisions. Improve Collaboration",
+      "link": "https://get-rhizome.app/en",
+      "summary": "<p>Article URL: <a href=\"https://get-rhizome.app/en\">https://get-rhizome.app/en</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49006861\">https://news.ycombinator.com/item?id=49...",
+      "published": "2026-07-22T13:52:23+00:00",
+      "domain": "get-rhizome.app",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -639,11 +615,27 @@
       }
     },
     {
-      "title": "Show HN: ReadKinetic \u2013 a free, local-first speed reader for your own books",
-      "link": "https://www.readkinetic.com/app/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49002344\">Comments</a>...",
-      "published": "2026-07-22T05:49:51+00:00",
-      "domain": "readkinetic.com",
+      "title": "Touchable: First Physical AI Agent",
+      "link": "https://play.google.com/store/apps/details?id=com.spectral.touch.touchable&hl=en_US",
+      "summary": "<p>Article URL: <a href=\"https://play.google.com/store/apps/details?id=com.spectral.touch.touchable&amp;hl=en_US\">https://play.google.com/store/apps/details?id=com.spectral.touch.touchable&amp;hl=en_U...",
+      "published": "2026-07-22T13:52:09+00:00",
+      "domain": "play.google.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Back to Kagi",
+      "link": "https://blog.melashri.net/micro/back-to-kagi/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49006195\">Comments</a>...",
+      "published": "2026-07-22T13:08:19+00:00",
+      "domain": "blog.melashri.net",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
