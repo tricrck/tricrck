@@ -16,15 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### AWS Kiro Flaw Let a Poisoned Web Page Rewrite Its Config and Run Code
-- **Published**: July 21, 2026
-- **Summary**: Hidden text on a web page was enough to make Kiro, AWS's agentic coding IDE, rewrite its own configuration file and run an attacker's code on a develo...
-- [Read more](https://thehackernews.com/2026/07/aws-kiro-flaw-let-poisoned-web-page.html)
+### Apple Fixes Hide My Email Bug That Exposed Real Addresses in Mail Logs
+- **Published**: July 22, 2026
+- **Summary**: Apple has moved to address a security flaw in its Hide My Email service that enabled users' real email addresses to be unmasked, effectively undermini...
+- **Keywords**: bug
+- [Read more](https://thehackernews.com/2026/07/apple-fixes-hide-my-email-bug-that.html)
 
-### Google Launches Gemini 3.5 Flash Cyber AI to Find and Fix Software Vulnerabilities
-- **Published**: July 21, 2026
-- **Summary**: Google's DeepMind on Tuesday announced the release of Gemini 3.5 Flash Cyber, a specialized artificial intelligence (AI) model built atop 3.5 Flash th...
-- [Read more](https://thehackernews.com/2026/07/google-launches-gemini-35-flash-cyber.html)
+### Déjà View: Someone already tried this
+- **Published**: July 22, 2026
+- **Summary**: https://dejaview.bsct.so/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49001138">https://news.ycombinator.com/item?id=4900.....
+- [Read more](https://dejaview.bsct.so/)
 
 ---
 
