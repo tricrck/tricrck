@@ -1,6 +1,118 @@
 {
   "chaos_ranked": [
     {
+      "title": "Ubuntu snap-confine Flaw Could Give Local Users Root on Default Desktop Installs",
+      "link": "https://thehackernews.com/2026/07/ubuntu-snap-confine-flaw-could-give.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new local privilege escalation (LPE) vulnerability in snap-confine that an unprivileged user can trigger to obtain root access and gain complete c...",
+      "published": "2026-07-22T23:37:16+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Adobe Acrobat Extension Flaw Let Malicious Sites Read WhatsApp Web Data",
+      "link": "https://thehackernews.com/2026/07/adobe-acrobat-extension-flaw-let.html",
+      "summary": "Cybersecurity researchers have disclosed details of a now-patched vulnerability chain in the Adobe Acrobat Chrome extension that has over 314 million users, which, if exploited, could facilitate a sil...",
+      "published": "2026-07-22T20:31:21+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "John Banville, the Art of Fiction No. 200",
+      "link": "https://www.theparisreview.org/interviews/5907/the-art-of-fiction-no-200-john-banville",
+      "summary": "<p>Article URL: <a href=\"https://www.theparisreview.org/interviews/5907/the-art-of-fiction-no-200-john-banville\">https://www.theparisreview.org/interviews/5907/the-art-of-fiction-no-200-john-banville<...",
+      "published": "2026-07-22T19:15:09+00:00",
+      "domain": "theparisreview.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "AI-isms go deeper than em-dashes and 'load-bearing'",
+      "link": "https://jesseduffield.com/AI-isms-go-deeper/",
+      "summary": "<p>Article URL: <a href=\"https://jesseduffield.com/AI-isms-go-deeper/\">https://jesseduffield.com/AI-isms-go-deeper/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49011976\">htt...",
+      "published": "2026-07-22T19:14:05+00:00",
+      "domain": "jesseduffield.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Tesla FSD got me a speeding ticket, and Tesla killed the fix",
+      "link": "https://electrek.co/2026/07/20/tesla-fsd-speeding-ticket-removed-speed-setting/",
+      "summary": "<p>Article URL: <a href=\"https://electrek.co/2026/07/20/tesla-fsd-speeding-ticket-removed-speed-setting/\">https://electrek.co/2026/07/20/tesla-fsd-speeding-ticket-removed-speed-setting/</a></p>\n<p>Com...",
+      "published": "2026-07-22T19:11:41+00:00",
+      "domain": "electrek.co",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "World of Text",
+      "link": "https://www.yourworldoftext.com/",
+      "summary": "<p>Article URL: <a href=\"https://www.yourworldoftext.com/\">https://www.yourworldoftext.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49011942\">https://news.ycombinator.co...",
+      "published": "2026-07-22T19:11:19+00:00",
+      "domain": "yourworldoftext.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The Future of Business Technology: Tools to Work Smarter (Octopus Intelligence)",
+      "link": "https://www.octopusintelligence.com/the-future-of-business-technology-tools-that-help-companies-work-smarter/",
+      "summary": "<p>Article URL: <a href=\"https://www.octopusintelligence.com/the-future-of-business-technology-tools-that-help-companies-work-smarter/\">https://www.octopusintelligence.com/the-future-of-business-techn...",
+      "published": "2026-07-22T19:09:34+00:00",
+      "domain": "octopusintelligence.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "Hackers Exploit Windmill Flaw to Read Arbitrary Server Files Without Authentication",
       "link": "https://thehackernews.com/2026/07/hackers-exploit-windmill-flaw-to-read.html",
       "summary": "A high-severity security flaw impacting open-source developer platform Windmill has come under active exploitation in the wild, per VulnCheck.\n\nThe vulnerability in question is CVE-2026-29059 (CVSS sc...",
@@ -17,139 +129,27 @@
       }
     },
     {
+      "title": "Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample",
+      "link": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49010345\">Comments</a>...",
+      "published": "2026-07-22T17:30:40+00:00",
+      "domain": "chatgpt.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "The Fastest Path to AI Adoption Runs Through Security",
       "link": "https://thehackernews.com/2026/07/the-fastest-path-to-ai-adoption-runs.html",
       "summary": "Security leaders who build fast, visible paths to AI adoption are becoming the most valued partners in their organizations. AI governance done right gives security teams the visibility they need, empl...",
       "published": "2026-07-22T17:28:00+05:30",
       "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "OpenAI Says Its AI Models Escaped Sandbox, Targeted Hugging Face to Cheat Benchmark",
-      "link": "https://thehackernews.com/2026/07/openai-says-its-own-ai-models-escaped.html",
-      "summary": "OpenAI on Tuesday said a combination of its artificial intelligence (AI) models, including GPT-5.6 Sol and an \"even more capable pre-release model,\" was behind the security incident that targeted Hugg...",
-      "published": "2026-07-22T17:00:02+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Why Modern SOCs Need Multi-Layered Detections",
-      "link": "https://thehackernews.com/2026/07/why-modern-socs-need-multi-layered.html",
-      "summary": "The cycle is over. For years, cybersecurity followed a familiar pattern: defenses improved, attackers adapted, and the back-and-forth continued. Today, AI-equipped attackers are simply outpacing defen...",
-      "published": "2026-07-22T16:55:35+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Rolling in the Diffs",
-      "link": "https://pwno.io/diff",
-      "summary": "<p>Article URL: <a href=\"https://pwno.io/diff\">https://pwno.io/diff</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49006871\">https://news.ycombinator.com/item?id=49006871</a></...",
-      "published": "2026-07-22T13:52:54+00:00",
-      "domain": "pwno.io",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: Sortstash \u2013 A file manager that indexes local and cloud files in place",
-      "link": "https://sortstash.com/",
-      "summary": "<p>Article URL: <a href=\"https://sortstash.com/\">https://sortstash.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49006869\">https://news.ycombinator.com/item?id=49006869</...",
-      "published": "2026-07-22T13:52:52+00:00",
-      "domain": "sortstash.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: Agent in 9 Lines Python",
-      "link": "https://gist.github.com/tosh/6e91a9dbf08dd630c535e7345ac7f0b5",
-      "summary": "<p>I asked myself: what would a minimal implementation of an agent look like?<p>Something that works out of the box, is a real agent with tool calling, but without 1000s of lines of code, without doze...",
-      "published": "2026-07-22T13:52:23+00:00",
-      "domain": "gist.github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Accelerate Decisions. Improve Collaboration",
-      "link": "https://get-rhizome.app/en",
-      "summary": "<p>Article URL: <a href=\"https://get-rhizome.app/en\">https://get-rhizome.app/en</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49006861\">https://news.ycombinator.com/item?id=49...",
-      "published": "2026-07-22T13:52:23+00:00",
-      "domain": "get-rhizome.app",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Touchable: First Physical AI Agent",
-      "link": "https://play.google.com/store/apps/details?id=com.spectral.touch.touchable&hl=en_US",
-      "summary": "<p>Article URL: <a href=\"https://play.google.com/store/apps/details?id=com.spectral.touch.touchable&amp;hl=en_US\">https://play.google.com/store/apps/details?id=com.spectral.touch.touchable&amp;hl=en_U...",
-      "published": "2026-07-22T13:52:09+00:00",
-      "domain": "play.google.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Back to Kagi",
-      "link": "https://blog.melashri.net/micro/back-to-kagi/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49006195\">Comments</a>...",
-      "published": "2026-07-22T13:08:19+00:00",
-      "domain": "blog.melashri.net",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -163,6 +163,118 @@
   ],
   "anarchy_ranked": [
     {
+      "title": "Ubuntu snap-confine Flaw Could Give Local Users Root on Default Desktop Installs",
+      "link": "https://thehackernews.com/2026/07/ubuntu-snap-confine-flaw-could-give.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new local privilege escalation (LPE) vulnerability in snap-confine that an unprivileged user can trigger to obtain root access and gain complete c...",
+      "published": "2026-07-22T23:37:16+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Adobe Acrobat Extension Flaw Let Malicious Sites Read WhatsApp Web Data",
+      "link": "https://thehackernews.com/2026/07/adobe-acrobat-extension-flaw-let.html",
+      "summary": "Cybersecurity researchers have disclosed details of a now-patched vulnerability chain in the Adobe Acrobat Chrome extension that has over 314 million users, which, if exploited, could facilitate a sil...",
+      "published": "2026-07-22T20:31:21+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "John Banville, the Art of Fiction No. 200",
+      "link": "https://www.theparisreview.org/interviews/5907/the-art-of-fiction-no-200-john-banville",
+      "summary": "<p>Article URL: <a href=\"https://www.theparisreview.org/interviews/5907/the-art-of-fiction-no-200-john-banville\">https://www.theparisreview.org/interviews/5907/the-art-of-fiction-no-200-john-banville<...",
+      "published": "2026-07-22T19:15:09+00:00",
+      "domain": "theparisreview.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "AI-isms go deeper than em-dashes and 'load-bearing'",
+      "link": "https://jesseduffield.com/AI-isms-go-deeper/",
+      "summary": "<p>Article URL: <a href=\"https://jesseduffield.com/AI-isms-go-deeper/\">https://jesseduffield.com/AI-isms-go-deeper/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49011976\">htt...",
+      "published": "2026-07-22T19:14:05+00:00",
+      "domain": "jesseduffield.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Tesla FSD got me a speeding ticket, and Tesla killed the fix",
+      "link": "https://electrek.co/2026/07/20/tesla-fsd-speeding-ticket-removed-speed-setting/",
+      "summary": "<p>Article URL: <a href=\"https://electrek.co/2026/07/20/tesla-fsd-speeding-ticket-removed-speed-setting/\">https://electrek.co/2026/07/20/tesla-fsd-speeding-ticket-removed-speed-setting/</a></p>\n<p>Com...",
+      "published": "2026-07-22T19:11:41+00:00",
+      "domain": "electrek.co",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "World of Text",
+      "link": "https://www.yourworldoftext.com/",
+      "summary": "<p>Article URL: <a href=\"https://www.yourworldoftext.com/\">https://www.yourworldoftext.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49011942\">https://news.ycombinator.co...",
+      "published": "2026-07-22T19:11:19+00:00",
+      "domain": "yourworldoftext.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The Future of Business Technology: Tools to Work Smarter (Octopus Intelligence)",
+      "link": "https://www.octopusintelligence.com/the-future-of-business-technology-tools-that-help-companies-work-smarter/",
+      "summary": "<p>Article URL: <a href=\"https://www.octopusintelligence.com/the-future-of-business-technology-tools-that-help-companies-work-smarter/\">https://www.octopusintelligence.com/the-future-of-business-techn...",
+      "published": "2026-07-22T19:09:34+00:00",
+      "domain": "octopusintelligence.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "Hackers Exploit Windmill Flaw to Read Arbitrary Server Files Without Authentication",
       "link": "https://thehackernews.com/2026/07/hackers-exploit-windmill-flaw-to-read.html",
       "summary": "A high-severity security flaw impacting open-source developer platform Windmill has come under active exploitation in the wild, per VulnCheck.\n\nThe vulnerability in question is CVE-2026-29059 (CVSS sc...",
@@ -179,139 +291,27 @@
       }
     },
     {
+      "title": "Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample",
+      "link": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49010345\">Comments</a>...",
+      "published": "2026-07-22T17:30:40+00:00",
+      "domain": "chatgpt.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "The Fastest Path to AI Adoption Runs Through Security",
       "link": "https://thehackernews.com/2026/07/the-fastest-path-to-ai-adoption-runs.html",
       "summary": "Security leaders who build fast, visible paths to AI adoption are becoming the most valued partners in their organizations. AI governance done right gives security teams the visibility they need, empl...",
       "published": "2026-07-22T17:28:00+05:30",
       "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "OpenAI Says Its AI Models Escaped Sandbox, Targeted Hugging Face to Cheat Benchmark",
-      "link": "https://thehackernews.com/2026/07/openai-says-its-own-ai-models-escaped.html",
-      "summary": "OpenAI on Tuesday said a combination of its artificial intelligence (AI) models, including GPT-5.6 Sol and an \"even more capable pre-release model,\" was behind the security incident that targeted Hugg...",
-      "published": "2026-07-22T17:00:02+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Why Modern SOCs Need Multi-Layered Detections",
-      "link": "https://thehackernews.com/2026/07/why-modern-socs-need-multi-layered.html",
-      "summary": "The cycle is over. For years, cybersecurity followed a familiar pattern: defenses improved, attackers adapted, and the back-and-forth continued. Today, AI-equipped attackers are simply outpacing defen...",
-      "published": "2026-07-22T16:55:35+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Rolling in the Diffs",
-      "link": "https://pwno.io/diff",
-      "summary": "<p>Article URL: <a href=\"https://pwno.io/diff\">https://pwno.io/diff</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49006871\">https://news.ycombinator.com/item?id=49006871</a></...",
-      "published": "2026-07-22T13:52:54+00:00",
-      "domain": "pwno.io",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: Sortstash \u2013 A file manager that indexes local and cloud files in place",
-      "link": "https://sortstash.com/",
-      "summary": "<p>Article URL: <a href=\"https://sortstash.com/\">https://sortstash.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49006869\">https://news.ycombinator.com/item?id=49006869</...",
-      "published": "2026-07-22T13:52:52+00:00",
-      "domain": "sortstash.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: Agent in 9 Lines Python",
-      "link": "https://gist.github.com/tosh/6e91a9dbf08dd630c535e7345ac7f0b5",
-      "summary": "<p>I asked myself: what would a minimal implementation of an agent look like?<p>Something that works out of the box, is a real agent with tool calling, but without 1000s of lines of code, without doze...",
-      "published": "2026-07-22T13:52:23+00:00",
-      "domain": "gist.github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Accelerate Decisions. Improve Collaboration",
-      "link": "https://get-rhizome.app/en",
-      "summary": "<p>Article URL: <a href=\"https://get-rhizome.app/en\">https://get-rhizome.app/en</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49006861\">https://news.ycombinator.com/item?id=49...",
-      "published": "2026-07-22T13:52:23+00:00",
-      "domain": "get-rhizome.app",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Touchable: First Physical AI Agent",
-      "link": "https://play.google.com/store/apps/details?id=com.spectral.touch.touchable&hl=en_US",
-      "summary": "<p>Article URL: <a href=\"https://play.google.com/store/apps/details?id=com.spectral.touch.touchable&amp;hl=en_US\">https://play.google.com/store/apps/details?id=com.spectral.touch.touchable&amp;hl=en_U...",
-      "published": "2026-07-22T13:52:09+00:00",
-      "domain": "play.google.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Back to Kagi",
-      "link": "https://blog.melashri.net/micro/back-to-kagi/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49006195\">Comments</a>...",
-      "published": "2026-07-22T13:08:19+00:00",
-      "domain": "blog.melashri.net",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -325,6 +325,118 @@
   ],
   "overall_ranked": [
     {
+      "title": "Ubuntu snap-confine Flaw Could Give Local Users Root on Default Desktop Installs",
+      "link": "https://thehackernews.com/2026/07/ubuntu-snap-confine-flaw-could-give.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new local privilege escalation (LPE) vulnerability in snap-confine that an unprivileged user can trigger to obtain root access and gain complete c...",
+      "published": "2026-07-22T23:37:16+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Adobe Acrobat Extension Flaw Let Malicious Sites Read WhatsApp Web Data",
+      "link": "https://thehackernews.com/2026/07/adobe-acrobat-extension-flaw-let.html",
+      "summary": "Cybersecurity researchers have disclosed details of a now-patched vulnerability chain in the Adobe Acrobat Chrome extension that has over 314 million users, which, if exploited, could facilitate a sil...",
+      "published": "2026-07-22T20:31:21+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "John Banville, the Art of Fiction No. 200",
+      "link": "https://www.theparisreview.org/interviews/5907/the-art-of-fiction-no-200-john-banville",
+      "summary": "<p>Article URL: <a href=\"https://www.theparisreview.org/interviews/5907/the-art-of-fiction-no-200-john-banville\">https://www.theparisreview.org/interviews/5907/the-art-of-fiction-no-200-john-banville<...",
+      "published": "2026-07-22T19:15:09+00:00",
+      "domain": "theparisreview.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "AI-isms go deeper than em-dashes and 'load-bearing'",
+      "link": "https://jesseduffield.com/AI-isms-go-deeper/",
+      "summary": "<p>Article URL: <a href=\"https://jesseduffield.com/AI-isms-go-deeper/\">https://jesseduffield.com/AI-isms-go-deeper/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49011976\">htt...",
+      "published": "2026-07-22T19:14:05+00:00",
+      "domain": "jesseduffield.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Tesla FSD got me a speeding ticket, and Tesla killed the fix",
+      "link": "https://electrek.co/2026/07/20/tesla-fsd-speeding-ticket-removed-speed-setting/",
+      "summary": "<p>Article URL: <a href=\"https://electrek.co/2026/07/20/tesla-fsd-speeding-ticket-removed-speed-setting/\">https://electrek.co/2026/07/20/tesla-fsd-speeding-ticket-removed-speed-setting/</a></p>\n<p>Com...",
+      "published": "2026-07-22T19:11:41+00:00",
+      "domain": "electrek.co",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "World of Text",
+      "link": "https://www.yourworldoftext.com/",
+      "summary": "<p>Article URL: <a href=\"https://www.yourworldoftext.com/\">https://www.yourworldoftext.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49011942\">https://news.ycombinator.co...",
+      "published": "2026-07-22T19:11:19+00:00",
+      "domain": "yourworldoftext.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The Future of Business Technology: Tools to Work Smarter (Octopus Intelligence)",
+      "link": "https://www.octopusintelligence.com/the-future-of-business-technology-tools-that-help-companies-work-smarter/",
+      "summary": "<p>Article URL: <a href=\"https://www.octopusintelligence.com/the-future-of-business-technology-tools-that-help-companies-work-smarter/\">https://www.octopusintelligence.com/the-future-of-business-techn...",
+      "published": "2026-07-22T19:09:34+00:00",
+      "domain": "octopusintelligence.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "Hackers Exploit Windmill Flaw to Read Arbitrary Server Files Without Authentication",
       "link": "https://thehackernews.com/2026/07/hackers-exploit-windmill-flaw-to-read.html",
       "summary": "A high-severity security flaw impacting open-source developer platform Windmill has come under active exploitation in the wild, per VulnCheck.\n\nThe vulnerability in question is CVE-2026-29059 (CVSS sc...",
@@ -341,139 +453,27 @@
       }
     },
     {
+      "title": "Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample",
+      "link": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49010345\">Comments</a>...",
+      "published": "2026-07-22T17:30:40+00:00",
+      "domain": "chatgpt.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "The Fastest Path to AI Adoption Runs Through Security",
       "link": "https://thehackernews.com/2026/07/the-fastest-path-to-ai-adoption-runs.html",
       "summary": "Security leaders who build fast, visible paths to AI adoption are becoming the most valued partners in their organizations. AI governance done right gives security teams the visibility they need, empl...",
       "published": "2026-07-22T17:28:00+05:30",
       "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "OpenAI Says Its AI Models Escaped Sandbox, Targeted Hugging Face to Cheat Benchmark",
-      "link": "https://thehackernews.com/2026/07/openai-says-its-own-ai-models-escaped.html",
-      "summary": "OpenAI on Tuesday said a combination of its artificial intelligence (AI) models, including GPT-5.6 Sol and an \"even more capable pre-release model,\" was behind the security incident that targeted Hugg...",
-      "published": "2026-07-22T17:00:02+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Why Modern SOCs Need Multi-Layered Detections",
-      "link": "https://thehackernews.com/2026/07/why-modern-socs-need-multi-layered.html",
-      "summary": "The cycle is over. For years, cybersecurity followed a familiar pattern: defenses improved, attackers adapted, and the back-and-forth continued. Today, AI-equipped attackers are simply outpacing defen...",
-      "published": "2026-07-22T16:55:35+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Rolling in the Diffs",
-      "link": "https://pwno.io/diff",
-      "summary": "<p>Article URL: <a href=\"https://pwno.io/diff\">https://pwno.io/diff</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49006871\">https://news.ycombinator.com/item?id=49006871</a></...",
-      "published": "2026-07-22T13:52:54+00:00",
-      "domain": "pwno.io",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: Sortstash \u2013 A file manager that indexes local and cloud files in place",
-      "link": "https://sortstash.com/",
-      "summary": "<p>Article URL: <a href=\"https://sortstash.com/\">https://sortstash.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49006869\">https://news.ycombinator.com/item?id=49006869</...",
-      "published": "2026-07-22T13:52:52+00:00",
-      "domain": "sortstash.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: Agent in 9 Lines Python",
-      "link": "https://gist.github.com/tosh/6e91a9dbf08dd630c535e7345ac7f0b5",
-      "summary": "<p>I asked myself: what would a minimal implementation of an agent look like?<p>Something that works out of the box, is a real agent with tool calling, but without 1000s of lines of code, without doze...",
-      "published": "2026-07-22T13:52:23+00:00",
-      "domain": "gist.github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Accelerate Decisions. Improve Collaboration",
-      "link": "https://get-rhizome.app/en",
-      "summary": "<p>Article URL: <a href=\"https://get-rhizome.app/en\">https://get-rhizome.app/en</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49006861\">https://news.ycombinator.com/item?id=49...",
-      "published": "2026-07-22T13:52:23+00:00",
-      "domain": "get-rhizome.app",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Touchable: First Physical AI Agent",
-      "link": "https://play.google.com/store/apps/details?id=com.spectral.touch.touchable&hl=en_US",
-      "summary": "<p>Article URL: <a href=\"https://play.google.com/store/apps/details?id=com.spectral.touch.touchable&amp;hl=en_US\">https://play.google.com/store/apps/details?id=com.spectral.touch.touchable&amp;hl=en_U...",
-      "published": "2026-07-22T13:52:09+00:00",
-      "domain": "play.google.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Back to Kagi",
-      "link": "https://blog.melashri.net/micro/back-to-kagi/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49006195\">Comments</a>...",
-      "published": "2026-07-22T13:08:19+00:00",
-      "domain": "blog.melashri.net",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -487,6 +487,118 @@
   ],
   "all_articles": [
     {
+      "title": "Ubuntu snap-confine Flaw Could Give Local Users Root on Default Desktop Installs",
+      "link": "https://thehackernews.com/2026/07/ubuntu-snap-confine-flaw-could-give.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new local privilege escalation (LPE) vulnerability in snap-confine that an unprivileged user can trigger to obtain root access and gain complete c...",
+      "published": "2026-07-22T23:37:16+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Adobe Acrobat Extension Flaw Let Malicious Sites Read WhatsApp Web Data",
+      "link": "https://thehackernews.com/2026/07/adobe-acrobat-extension-flaw-let.html",
+      "summary": "Cybersecurity researchers have disclosed details of a now-patched vulnerability chain in the Adobe Acrobat Chrome extension that has over 314 million users, which, if exploited, could facilitate a sil...",
+      "published": "2026-07-22T20:31:21+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "John Banville, the Art of Fiction No. 200",
+      "link": "https://www.theparisreview.org/interviews/5907/the-art-of-fiction-no-200-john-banville",
+      "summary": "<p>Article URL: <a href=\"https://www.theparisreview.org/interviews/5907/the-art-of-fiction-no-200-john-banville\">https://www.theparisreview.org/interviews/5907/the-art-of-fiction-no-200-john-banville<...",
+      "published": "2026-07-22T19:15:09+00:00",
+      "domain": "theparisreview.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "AI-isms go deeper than em-dashes and 'load-bearing'",
+      "link": "https://jesseduffield.com/AI-isms-go-deeper/",
+      "summary": "<p>Article URL: <a href=\"https://jesseduffield.com/AI-isms-go-deeper/\">https://jesseduffield.com/AI-isms-go-deeper/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49011976\">htt...",
+      "published": "2026-07-22T19:14:05+00:00",
+      "domain": "jesseduffield.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Tesla FSD got me a speeding ticket, and Tesla killed the fix",
+      "link": "https://electrek.co/2026/07/20/tesla-fsd-speeding-ticket-removed-speed-setting/",
+      "summary": "<p>Article URL: <a href=\"https://electrek.co/2026/07/20/tesla-fsd-speeding-ticket-removed-speed-setting/\">https://electrek.co/2026/07/20/tesla-fsd-speeding-ticket-removed-speed-setting/</a></p>\n<p>Com...",
+      "published": "2026-07-22T19:11:41+00:00",
+      "domain": "electrek.co",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "World of Text",
+      "link": "https://www.yourworldoftext.com/",
+      "summary": "<p>Article URL: <a href=\"https://www.yourworldoftext.com/\">https://www.yourworldoftext.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49011942\">https://news.ycombinator.co...",
+      "published": "2026-07-22T19:11:19+00:00",
+      "domain": "yourworldoftext.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The Future of Business Technology: Tools to Work Smarter (Octopus Intelligence)",
+      "link": "https://www.octopusintelligence.com/the-future-of-business-technology-tools-that-help-companies-work-smarter/",
+      "summary": "<p>Article URL: <a href=\"https://www.octopusintelligence.com/the-future-of-business-technology-tools-that-help-companies-work-smarter/\">https://www.octopusintelligence.com/the-future-of-business-techn...",
+      "published": "2026-07-22T19:09:34+00:00",
+      "domain": "octopusintelligence.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "Hackers Exploit Windmill Flaw to Read Arbitrary Server Files Without Authentication",
       "link": "https://thehackernews.com/2026/07/hackers-exploit-windmill-flaw-to-read.html",
       "summary": "A high-severity security flaw impacting open-source developer platform Windmill has come under active exploitation in the wild, per VulnCheck.\n\nThe vulnerability in question is CVE-2026-29059 (CVSS sc...",
@@ -503,139 +615,27 @@
       }
     },
     {
+      "title": "Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample",
+      "link": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49010345\">Comments</a>...",
+      "published": "2026-07-22T17:30:40+00:00",
+      "domain": "chatgpt.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "The Fastest Path to AI Adoption Runs Through Security",
       "link": "https://thehackernews.com/2026/07/the-fastest-path-to-ai-adoption-runs.html",
       "summary": "Security leaders who build fast, visible paths to AI adoption are becoming the most valued partners in their organizations. AI governance done right gives security teams the visibility they need, empl...",
       "published": "2026-07-22T17:28:00+05:30",
       "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "OpenAI Says Its AI Models Escaped Sandbox, Targeted Hugging Face to Cheat Benchmark",
-      "link": "https://thehackernews.com/2026/07/openai-says-its-own-ai-models-escaped.html",
-      "summary": "OpenAI on Tuesday said a combination of its artificial intelligence (AI) models, including GPT-5.6 Sol and an \"even more capable pre-release model,\" was behind the security incident that targeted Hugg...",
-      "published": "2026-07-22T17:00:02+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Why Modern SOCs Need Multi-Layered Detections",
-      "link": "https://thehackernews.com/2026/07/why-modern-socs-need-multi-layered.html",
-      "summary": "The cycle is over. For years, cybersecurity followed a familiar pattern: defenses improved, attackers adapted, and the back-and-forth continued. Today, AI-equipped attackers are simply outpacing defen...",
-      "published": "2026-07-22T16:55:35+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Rolling in the Diffs",
-      "link": "https://pwno.io/diff",
-      "summary": "<p>Article URL: <a href=\"https://pwno.io/diff\">https://pwno.io/diff</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49006871\">https://news.ycombinator.com/item?id=49006871</a></...",
-      "published": "2026-07-22T13:52:54+00:00",
-      "domain": "pwno.io",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: Sortstash \u2013 A file manager that indexes local and cloud files in place",
-      "link": "https://sortstash.com/",
-      "summary": "<p>Article URL: <a href=\"https://sortstash.com/\">https://sortstash.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49006869\">https://news.ycombinator.com/item?id=49006869</...",
-      "published": "2026-07-22T13:52:52+00:00",
-      "domain": "sortstash.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: Agent in 9 Lines Python",
-      "link": "https://gist.github.com/tosh/6e91a9dbf08dd630c535e7345ac7f0b5",
-      "summary": "<p>I asked myself: what would a minimal implementation of an agent look like?<p>Something that works out of the box, is a real agent with tool calling, but without 1000s of lines of code, without doze...",
-      "published": "2026-07-22T13:52:23+00:00",
-      "domain": "gist.github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Accelerate Decisions. Improve Collaboration",
-      "link": "https://get-rhizome.app/en",
-      "summary": "<p>Article URL: <a href=\"https://get-rhizome.app/en\">https://get-rhizome.app/en</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49006861\">https://news.ycombinator.com/item?id=49...",
-      "published": "2026-07-22T13:52:23+00:00",
-      "domain": "get-rhizome.app",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Touchable: First Physical AI Agent",
-      "link": "https://play.google.com/store/apps/details?id=com.spectral.touch.touchable&hl=en_US",
-      "summary": "<p>Article URL: <a href=\"https://play.google.com/store/apps/details?id=com.spectral.touch.touchable&amp;hl=en_US\">https://play.google.com/store/apps/details?id=com.spectral.touch.touchable&amp;hl=en_U...",
-      "published": "2026-07-22T13:52:09+00:00",
-      "domain": "play.google.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Back to Kagi",
-      "link": "https://blog.melashri.net/micro/back-to-kagi/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49006195\">Comments</a>...",
-      "published": "2026-07-22T13:08:19+00:00",
-      "domain": "blog.melashri.net",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,

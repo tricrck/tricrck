@@ -16,17 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Hackers Exploit Windmill Flaw to Read Arbitrary Server Files Without Authentication
+### Ubuntu snap-confine Flaw Could Give Local Users Root on Default Desktop Installs
 - **Published**: July 22, 2026
-- **Summary**: A high-severity security flaw impacting open-source developer platform Windmill has come under active exploitation in the wild, per VulnCheck.
+- **Summary**: Cybersecurity researchers have disclosed details of a new local privilege escalation (LPE) vulnerability in snap-confine that an unprivileged user can...
+- [Read more](https://thehackernews.com/2026/07/ubuntu-snap-confine-flaw-could-give.html)
 
-The vu...
-- [Read more](https://thehackernews.com/2026/07/hackers-exploit-windmill-flaw-to-read.html)
-
-### The Fastest Path to AI Adoption Runs Through Security
+### Adobe Acrobat Extension Flaw Let Malicious Sites Read WhatsApp Web Data
 - **Published**: July 22, 2026
-- **Summary**: Security leaders who build fast, visible paths to AI adoption are becoming the most valued partners in their organizations. AI governance done right g...
-- [Read more](https://thehackernews.com/2026/07/the-fastest-path-to-ai-adoption-runs.html)
+- **Summary**: Cybersecurity researchers have disclosed details of a now-patched vulnerability chain in the Adobe Acrobat Chrome extension that has over 314 million ...
+- [Read more](https://thehackernews.com/2026/07/adobe-acrobat-extension-flaw-let.html)
 
 ---
 
