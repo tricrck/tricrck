@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Restructuring GitHub's bug bounty program
-- **Published**: July 23, 2026
-- **Summary**: https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/</a></p......
-- **Keywords**: bug, bug, bug
-- [Read more](https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/)
-
 ### GitHub Cuts Public Bug Bounty Payouts, Moves Top Rewards to VIP Tier
 - **Published**: July 23, 2026
 - **Summary**: Beginning July 27, 2026, GitHub will cut public bug bounty payouts by at least half at every severity level. Critical findings will drop from $20,000-...
 - **Keywords**: bug, bug
 - [Read more](https://thehackernews.com/2026/07/github-cuts-public-bug-bounty-payouts.html)
+
+### Check Point Patches Exploited SmartConsole Flaw Allowing Full Admin Access
+- **Published**: July 23, 2026
+- **Summary**: Check Point has released security updates to address multiple vulnerabilities impacting Security Management and Multi-Domain Management (MDSM) product...
+- [Read more](https://thehackernews.com/2026/07/check-point-patches-exploited.html)
 
 ---
 
