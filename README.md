@@ -16,15 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Ubuntu snap-confine Flaw Could Give Local Users Root on Default Desktop Installs
-- **Published**: July 22, 2026
-- **Summary**: Cybersecurity researchers have disclosed details of a new local privilege escalation (LPE) vulnerability in snap-confine that an unprivileged user can...
-- [Read more](https://thehackernews.com/2026/07/ubuntu-snap-confine-flaw-could-give.html)
+### Restructuring GitHub's bug bounty program
+- **Published**: July 23, 2026
+- **Summary**: https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/</a></p......
+- **Keywords**: bug, bug, bug
+- [Read more](https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/)
 
-### Adobe Acrobat Extension Flaw Let Malicious Sites Read WhatsApp Web Data
-- **Published**: July 22, 2026
-- **Summary**: Cybersecurity researchers have disclosed details of a now-patched vulnerability chain in the Adobe Acrobat Chrome extension that has over 314 million ...
-- [Read more](https://thehackernews.com/2026/07/adobe-acrobat-extension-flaw-let.html)
+### GitHub Cuts Public Bug Bounty Payouts, Moves Top Rewards to VIP Tier
+- **Published**: July 23, 2026
+- **Summary**: Beginning July 27, 2026, GitHub will cut public bug bounty payouts by at least half at every severity level. Critical findings will drop from $20,000-...
+- **Keywords**: bug, bug
+- [Read more](https://thehackernews.com/2026/07/github-cuts-public-bug-bounty-payouts.html)
 
 ---
 
