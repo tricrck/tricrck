@@ -16,15 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### How Synthetic Identity Fraud is Coming for Machine Identities
+### Chaos Ransomware Uses msaRAT to Route C2 Traffic Through Headless Chrome and Edge
 - **Published**: July 23, 2026
-- **Summary**: Most people understand identity theft as an attacker stealing a real person's sensitive information and impersonating them. Synthetic identity fraud i...
-- [Read more](https://thehackernews.com/2026/07/how-synthetic-identity-fraud-is-coming.html)
+- **Summary**: The Chaos ransomware group ran its command-and-control through the victim's own browser. Cisco Talos on Thursday detailed msaRAT, the Rust implant beh...
+- **Keywords**: chaos, chaos
+- [Read more](https://thehackernews.com/2026/07/chaos-ransomware-uses-msarat-to-route.html)
 
-### Attackers Weaponize GitHub Actions Runners to Target cPanel and WHM Servers
+### The Space Force is now seeking to buy up to $30B in rocket launches
 - **Published**: July 23, 2026
-- **Summary**: Cybersecurity researchers have shed light on a large-scale campaign that has turned compromised GitHub repositories into distributed attack infrastruc...
-- [Read more](https://thehackernews.com/2026/07/attackers-weaponize-github-actions.html)
+- **Summary**: https://arstechnica.com/space/2026/07/the-space-force-is-now-......
+- [Read more](https://arstechnica.com/space/2026/07/the-space-force-is-now-seeking-to-buy-up-to-30-billion-in-rocket-launches/)
 
 ---
 
