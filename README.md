@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### GitHub Cuts Public Bug Bounty Payouts, Moves Top Rewards to VIP Tier
+### How Synthetic Identity Fraud is Coming for Machine Identities
 - **Published**: July 23, 2026
-- **Summary**: Beginning July 27, 2026, GitHub will cut public bug bounty payouts by at least half at every severity level. Critical findings will drop from $20,000-...
-- **Keywords**: bug, bug
-- [Read more](https://thehackernews.com/2026/07/github-cuts-public-bug-bounty-payouts.html)
+- **Summary**: Most people understand identity theft as an attacker stealing a real person's sensitive information and impersonating them. Synthetic identity fraud i...
+- [Read more](https://thehackernews.com/2026/07/how-synthetic-identity-fraud-is-coming.html)
 
-### Check Point Patches Exploited SmartConsole Flaw Allowing Full Admin Access
+### Attackers Weaponize GitHub Actions Runners to Target cPanel and WHM Servers
 - **Published**: July 23, 2026
-- **Summary**: Check Point has released security updates to address multiple vulnerabilities impacting Security Management and Multi-Domain Management (MDSM) product...
-- [Read more](https://thehackernews.com/2026/07/check-point-patches-exploited.html)
+- **Summary**: Cybersecurity researchers have shed light on a large-scale campaign that has turned compromised GitHub repositories into distributed attack infrastruc...
+- [Read more](https://thehackernews.com/2026/07/attackers-weaponize-github-actions.html)
 
 ---
 
