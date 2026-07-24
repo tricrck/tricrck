@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### ChatGPT AgentForger Flaw Could Deploy Rogue Workspace Agents via a Phishing Link
+### BlueNoroff Zoom Phishing Kit Profiles Crypto Wallets Before Malware Delivery
 - **Published**: July 24, 2026
-- **Summary**: Cybersecurity researchers have disclosed a critical vulnerability in OpenAI's ChatGPT Workspace Agents that could have allowed a single phishing link ...
-- [Read more](https://thehackernews.com/2026/07/chatgpt-agentforger-flaw-could-deploy.html)
+- **Summary**: The North Korean threat actors behind the ClickFix-style campaigns that employ typosquatted Zoom and Microsoft Teams domains have been found to operat...
+- [Read more](https://thehackernews.com/2026/07/bluenoroff-zoom-phishing-kit-profiles.html)
 
-### Bing Images Flaws Let Crafted SVGs Run Commands as SYSTEM on Microsoft's Servers
+### Certighost Exploit Lets Low-Privileged Active Directory Users Impersonate a Domain Controller
 - **Published**: July 24, 2026
-- **Summary**: A crafted SVG submitted to Bing's image search ran commands as NT AUTHORITY\SYSTEM on Microsoft's production image-processing workers, and as root on ...
-- [Read more](https://thehackernews.com/2026/07/bing-images-flaws-let-crafted-svgs-run.html)
+- **Summary**: Researchers H0j3n and Aniq Fakhrul published a working exploit on July 24 that lets a low-privileged Active Directory user obtain a certificate for a ...
+- [Read more](https://thehackernews.com/2026/07/certighost-exploit-lets-low-privileged.html)
 
 ---
 
