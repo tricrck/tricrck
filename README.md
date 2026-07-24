@@ -16,16 +16,18 @@
 
 ## 🚨 Tech Stories
 
-### Dismissing Europe as a museum is glib. Think of it as a theme park
+### iOS and Mac app development is constant churn
 - **Published**: July 24, 2026
-- **Summary**: https://www.economist.com/europe/2026/07/23/dismissing-europe-as......
-- [Read more](https://www.economist.com/europe/2026/07/23/dismissing-europe-as-a-museum-is-glib-think-of-it-as-a-theme-park)
+- **Summary**: https://inessential.com/2026/07/23/ios-27-nnw-crash.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.c......
+- **Keywords**: crash, crash
+- [Read more](https://inessential.com/2026/07/23/ios-27-nnw-crash.html)
 
-### Pong Wars on the Commodore 64
+### Fake Notepad++ Plugin Delivers MATCHBOIL.V2 in UAC-0099 Attacks
 - **Published**: July 24, 2026
-- **Summary**: https://imrannazar.com/articles/c64-pongwars</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49030644">htt......
-- [Read more](https://imrannazar.com/articles/c64-pongwars)
+- **Summary**: The Computer Emergency Response Team of Ukraine (CERT-UA) has warned of a new campaign that involves the use of a malicious program that's dressed up ...
+- **Keywords**: emergency
+- [Read more](https://thehackernews.com/2026/07/fake-notepad-plugin-delivers.html)
 
 ---
 
