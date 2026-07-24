@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Chaos Ransomware Uses msaRAT to Route C2 Traffic Through Headless Chrome and Edge
-- **Published**: July 23, 2026
-- **Summary**: The Chaos ransomware group ran its command-and-control through the victim's own browser. Cisco Talos on Thursday detailed msaRAT, the Rust implant beh...
-- **Keywords**: chaos, chaos
-- [Read more](https://thehackernews.com/2026/07/chaos-ransomware-uses-msarat-to-route.html)
+### Dismissing Europe as a museum is glib. Think of it as a theme park
+- **Published**: July 24, 2026
+- **Summary**: https://www.economist.com/europe/2026/07/23/dismissing-europe-as......
+- [Read more](https://www.economist.com/europe/2026/07/23/dismissing-europe-as-a-museum-is-glib-think-of-it-as-a-theme-park)
 
-### The Space Force is now seeking to buy up to $30B in rocket launches
-- **Published**: July 23, 2026
-- **Summary**: https://arstechnica.com/space/2026/07/the-space-force-is-now-......
-- [Read more](https://arstechnica.com/space/2026/07/the-space-force-is-now-seeking-to-buy-up-to-30-billion-in-rocket-launches/)
+### Pong Wars on the Commodore 64
+- **Published**: July 24, 2026
+- **Summary**: https://imrannazar.com/articles/c64-pongwars</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49030644">htt......
+- [Read more](https://imrannazar.com/articles/c64-pongwars)
 
 ---
 

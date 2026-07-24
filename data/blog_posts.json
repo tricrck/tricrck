@@ -1,34 +1,79 @@
 {
   "chaos_ranked": [
     {
-      "title": "Chaos Ransomware Uses msaRAT to Route C2 Traffic Through Headless Chrome and Edge",
-      "link": "https://thehackernews.com/2026/07/chaos-ransomware-uses-msarat-to-route.html",
-      "summary": "The Chaos ransomware group ran its command-and-control through the victim's own browser. Cisco Talos on Thursday detailed msaRAT, the Rust implant behind it, found on a compromised Windows machine ahe...",
-      "published": "2026-07-23T18:41:09+05:30",
-      "domain": "thehackernews.com",
+      "title": "Dismissing Europe as a museum is glib. Think of it as a theme park",
+      "link": "https://www.economist.com/europe/2026/07/23/dismissing-europe-as-a-museum-is-glib-think-of-it-as-a-theme-park",
+      "summary": "<p>Article URL: <a href=\"https://www.economist.com/europe/2026/07/23/dismissing-europe-as-a-museum-is-glib-think-of-it-as-a-theme-park\">https://www.economist.com/europe/2026/07/23/dismissing-europe-as...",
+      "published": "2026-07-24T02:39:38+00:00",
+      "domain": "economist.com",
       "scores": {
-        "chaos": 30.4,
+        "chaos": 3.0,
         "anarchy": 3.0,
-        "overall": 16.7
+        "overall": 3.0
       },
       "keywords": {
-        "chaos": [
-          "chaos",
-          "chaos"
-        ],
+        "chaos": [],
         "anarchy": []
       }
     },
     {
-      "title": "The Space Force is now seeking to buy up to $30B in rocket launches",
-      "link": "https://arstechnica.com/space/2026/07/the-space-force-is-now-seeking-to-buy-up-to-30-billion-in-rocket-launches/",
-      "summary": "<p>Article URL: <a href=\"https://arstechnica.com/space/2026/07/the-space-force-is-now-seeking-to-buy-up-to-30-billion-in-rocket-launches/\">https://arstechnica.com/space/2026/07/the-space-force-is-now-...",
-      "published": "2026-07-23T19:10:33+00:00",
-      "domain": "arstechnica.com",
+      "title": "Pong Wars on the Commodore 64",
+      "link": "https://imrannazar.com/articles/c64-pongwars",
+      "summary": "<p>Article URL: <a href=\"https://imrannazar.com/articles/c64-pongwars\">https://imrannazar.com/articles/c64-pongwars</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49030644\">htt...",
+      "published": "2026-07-24T02:37:09+00:00",
+      "domain": "imrannazar.com",
       "scores": {
-        "chaos": 18.0,
-        "anarchy": 12.0,
-        "overall": 15.0
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The Full List of Trump's New Tariffs on 60 Economies",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-24/here-s-the-full-list-of-trump-s-new-tariffs-on-60-economies",
+      "summary": "<p>Article URL: <a href=\"https://www.bloomberg.com/news/articles/2026-07-24/here-s-the-full-list-of-trump-s-new-tariffs-on-60-economies\">https://www.bloomberg.com/news/articles/2026-07-24/here-s-the-f...",
+      "published": "2026-07-24T02:37:06+00:00",
+      "domain": "bloomberg.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The cost of GPUs goes far beyond AI data centers",
+      "link": "https://www.theverge.com/cs/features/937356/ai-data-center-gpu-environmental-impact",
+      "summary": "<p>Article URL: <a href=\"https://www.theverge.com/cs/features/937356/ai-data-center-gpu-environmental-impact\">https://www.theverge.com/cs/features/937356/ai-data-center-gpu-environmental-impact</a></p...",
+      "published": "2026-07-24T02:35:23+00:00",
+      "domain": "theverge.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Open Source Tax Engine outperforming GPT sol and Fable 5",
+      "link": "https://opentax.invaro.ai/",
+      "summary": "<p>Article URL: <a href=\"https://opentax.invaro.ai/\">https://opentax.invaro.ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49030618\">https://news.ycombinator.com/item?id=49...",
+      "published": "2026-07-24T02:32:20+00:00",
+      "domain": "opentax.invaro.ai",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
       },
       "keywords": {
         "chaos": [],
@@ -52,107 +97,59 @@
       }
     },
     {
+      "title": "The Visual 6502",
+      "link": "http://visual6502.org/JSSim/index.html",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49029538\">Comments</a>...",
+      "published": "2026-07-23T23:36:42+00:00",
+      "domain": "visual6502.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "98.css",
+      "link": "https://jdan.github.io/98.css/#status-bar",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49028927\">Comments</a>...",
+      "published": "2026-07-23T22:30:29+00:00",
+      "domain": "jdan.github.io",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "AI bet goes awry: Oracle fires 21,000 employees",
+      "link": "https://www.reddit.com/r/technology/comments/1v4symt/ai_bet_goes_awry_oracle_fires_21000_employees/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1v4symt/ai_bet_goes_awry_oracle_fires_21000_employees/\"> <img alt=\"AI bet goes awry: Oracle fires 21,000 employees\" src=\"https://...",
+      "published": "2026-07-23T22:30:23+00:00",
+      "domain": "reddit.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "ThreatsDay: Android Spyware, PLC Attacks, AI Image Prompt Injection + 12 More Stories",
       "link": "https://thehackernews.com/2026/07/threatsday-android-spyware-plc-attacks.html",
       "summary": "Most of this week's trouble came dressed as something useful.\n\nA package stole data. A fake extension opened remote access. A safety app became spyware. An image gave hidden orders to an AI agent. Oth...",
       "published": "2026-07-23T20:32:07+05:30",
       "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The Rise of the Deserving Rich",
-      "link": "https://economist.com/finance-and-economics/2026/07/23/the-rise-of-the-deserving-rich",
-      "summary": "<p>Article URL: <a href=\"https://economist.com/finance-and-economics/2026/07/23/the-rise-of-the-deserving-rich\">https://economist.com/finance-and-economics/2026/07/23/the-rise-of-the-deserving-rich</a...",
-      "published": "2026-07-23T19:13:19+00:00",
-      "domain": "economist.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "PlayMagicReef \u2013 Kids color in a fish, scan it, and it appears in a digital tank",
-      "link": "https://www.playmagicreef.com",
-      "summary": "<p>Article URL: <a href=\"https://www.playmagicreef.com\">https://www.playmagicreef.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49026606\">https://news.ycombinator.com/item...",
-      "published": "2026-07-23T19:11:00+00:00",
-      "domain": "playmagicreef.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Rolling in the Diffs",
-      "link": "https://pwno.io/diff",
-      "summary": "<p>Article URL: <a href=\"https://pwno.io/diff\">https://pwno.io/diff</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49026605\">https://news.ycombinator.com/item?id=49026605</a></...",
-      "published": "2026-07-23T19:10:51+00:00",
-      "domain": "pwno.io",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Frontier-class LLM inference on a laptop CPU",
-      "link": "https://github.com/arizqi/cpubrrr",
-      "summary": "<p>Article URL: <a href=\"https://github.com/arizqi/cpubrrr\">https://github.com/arizqi/cpubrrr</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49026595\">https://news.ycombinator....",
-      "published": "2026-07-23T19:10:04+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Claude Cowork Flaw Could Let AI Agent Escape Its VM and Access Mac Files",
-      "link": "https://thehackernews.com/2026/07/claude-cowork-flaw-could-let-ai-agent.html",
-      "summary": "Cybersecurity researchers have uncovered a sandbox escape vulnerability in Anthropic's Claude Cowork that makes it possible to break out of the confines of a Linux virtual machine (VM) within which th...",
-      "published": "2026-07-23T18:57:59+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Building on ATProto",
-      "link": "https://lukekanies.com/writing/building-on-atproto/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49025984\">Comments</a>...",
-      "published": "2026-07-23T18:23:50+00:00",
-      "domain": "lukekanies.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -166,15 +163,79 @@
   ],
   "anarchy_ranked": [
     {
-      "title": "The Space Force is now seeking to buy up to $30B in rocket launches",
-      "link": "https://arstechnica.com/space/2026/07/the-space-force-is-now-seeking-to-buy-up-to-30-billion-in-rocket-launches/",
-      "summary": "<p>Article URL: <a href=\"https://arstechnica.com/space/2026/07/the-space-force-is-now-seeking-to-buy-up-to-30-billion-in-rocket-launches/\">https://arstechnica.com/space/2026/07/the-space-force-is-now-...",
-      "published": "2026-07-23T19:10:33+00:00",
-      "domain": "arstechnica.com",
+      "title": "Dismissing Europe as a museum is glib. Think of it as a theme park",
+      "link": "https://www.economist.com/europe/2026/07/23/dismissing-europe-as-a-museum-is-glib-think-of-it-as-a-theme-park",
+      "summary": "<p>Article URL: <a href=\"https://www.economist.com/europe/2026/07/23/dismissing-europe-as-a-museum-is-glib-think-of-it-as-a-theme-park\">https://www.economist.com/europe/2026/07/23/dismissing-europe-as...",
+      "published": "2026-07-24T02:39:38+00:00",
+      "domain": "economist.com",
       "scores": {
-        "chaos": 18.0,
-        "anarchy": 12.0,
-        "overall": 15.0
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Pong Wars on the Commodore 64",
+      "link": "https://imrannazar.com/articles/c64-pongwars",
+      "summary": "<p>Article URL: <a href=\"https://imrannazar.com/articles/c64-pongwars\">https://imrannazar.com/articles/c64-pongwars</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49030644\">htt...",
+      "published": "2026-07-24T02:37:09+00:00",
+      "domain": "imrannazar.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The Full List of Trump's New Tariffs on 60 Economies",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-24/here-s-the-full-list-of-trump-s-new-tariffs-on-60-economies",
+      "summary": "<p>Article URL: <a href=\"https://www.bloomberg.com/news/articles/2026-07-24/here-s-the-full-list-of-trump-s-new-tariffs-on-60-economies\">https://www.bloomberg.com/news/articles/2026-07-24/here-s-the-f...",
+      "published": "2026-07-24T02:37:06+00:00",
+      "domain": "bloomberg.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The cost of GPUs goes far beyond AI data centers",
+      "link": "https://www.theverge.com/cs/features/937356/ai-data-center-gpu-environmental-impact",
+      "summary": "<p>Article URL: <a href=\"https://www.theverge.com/cs/features/937356/ai-data-center-gpu-environmental-impact\">https://www.theverge.com/cs/features/937356/ai-data-center-gpu-environmental-impact</a></p...",
+      "published": "2026-07-24T02:35:23+00:00",
+      "domain": "theverge.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Open Source Tax Engine outperforming GPT sol and Fable 5",
+      "link": "https://opentax.invaro.ai/",
+      "summary": "<p>Article URL: <a href=\"https://opentax.invaro.ai/\">https://opentax.invaro.ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49030618\">https://news.ycombinator.com/item?id=49...",
+      "published": "2026-07-24T02:32:20+00:00",
+      "domain": "opentax.invaro.ai",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
       },
       "keywords": {
         "chaos": [],
@@ -198,126 +259,59 @@
       }
     },
     {
+      "title": "The Visual 6502",
+      "link": "http://visual6502.org/JSSim/index.html",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49029538\">Comments</a>...",
+      "published": "2026-07-23T23:36:42+00:00",
+      "domain": "visual6502.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "98.css",
+      "link": "https://jdan.github.io/98.css/#status-bar",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49028927\">Comments</a>...",
+      "published": "2026-07-23T22:30:29+00:00",
+      "domain": "jdan.github.io",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "AI bet goes awry: Oracle fires 21,000 employees",
+      "link": "https://www.reddit.com/r/technology/comments/1v4symt/ai_bet_goes_awry_oracle_fires_21000_employees/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1v4symt/ai_bet_goes_awry_oracle_fires_21000_employees/\"> <img alt=\"AI bet goes awry: Oracle fires 21,000 employees\" src=\"https://...",
+      "published": "2026-07-23T22:30:23+00:00",
+      "domain": "reddit.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "ThreatsDay: Android Spyware, PLC Attacks, AI Image Prompt Injection + 12 More Stories",
       "link": "https://thehackernews.com/2026/07/threatsday-android-spyware-plc-attacks.html",
       "summary": "Most of this week's trouble came dressed as something useful.\n\nA package stole data. A fake extension opened remote access. A safety app became spyware. An image gave hidden orders to an AI agent. Oth...",
       "published": "2026-07-23T20:32:07+05:30",
       "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The Rise of the Deserving Rich",
-      "link": "https://economist.com/finance-and-economics/2026/07/23/the-rise-of-the-deserving-rich",
-      "summary": "<p>Article URL: <a href=\"https://economist.com/finance-and-economics/2026/07/23/the-rise-of-the-deserving-rich\">https://economist.com/finance-and-economics/2026/07/23/the-rise-of-the-deserving-rich</a...",
-      "published": "2026-07-23T19:13:19+00:00",
-      "domain": "economist.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "PlayMagicReef \u2013 Kids color in a fish, scan it, and it appears in a digital tank",
-      "link": "https://www.playmagicreef.com",
-      "summary": "<p>Article URL: <a href=\"https://www.playmagicreef.com\">https://www.playmagicreef.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49026606\">https://news.ycombinator.com/item...",
-      "published": "2026-07-23T19:11:00+00:00",
-      "domain": "playmagicreef.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Rolling in the Diffs",
-      "link": "https://pwno.io/diff",
-      "summary": "<p>Article URL: <a href=\"https://pwno.io/diff\">https://pwno.io/diff</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49026605\">https://news.ycombinator.com/item?id=49026605</a></...",
-      "published": "2026-07-23T19:10:51+00:00",
-      "domain": "pwno.io",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Frontier-class LLM inference on a laptop CPU",
-      "link": "https://github.com/arizqi/cpubrrr",
-      "summary": "<p>Article URL: <a href=\"https://github.com/arizqi/cpubrrr\">https://github.com/arizqi/cpubrrr</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49026595\">https://news.ycombinator....",
-      "published": "2026-07-23T19:10:04+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Claude Cowork Flaw Could Let AI Agent Escape Its VM and Access Mac Files",
-      "link": "https://thehackernews.com/2026/07/claude-cowork-flaw-could-let-ai-agent.html",
-      "summary": "Cybersecurity researchers have uncovered a sandbox escape vulnerability in Anthropic's Claude Cowork that makes it possible to break out of the confines of a Linux virtual machine (VM) within which th...",
-      "published": "2026-07-23T18:57:59+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Chaos Ransomware Uses msaRAT to Route C2 Traffic Through Headless Chrome and Edge",
-      "link": "https://thehackernews.com/2026/07/chaos-ransomware-uses-msarat-to-route.html",
-      "summary": "The Chaos ransomware group ran its command-and-control through the victim's own browser. Cisco Talos on Thursday detailed msaRAT, the Rust implant behind it, found on a compromised Windows machine ahe...",
-      "published": "2026-07-23T18:41:09+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 30.4,
-        "anarchy": 3.0,
-        "overall": 16.7
-      },
-      "keywords": {
-        "chaos": [
-          "chaos",
-          "chaos"
-        ],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Building on ATProto",
-      "link": "https://lukekanies.com/writing/building-on-atproto/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49025984\">Comments</a>...",
-      "published": "2026-07-23T18:23:50+00:00",
-      "domain": "lukekanies.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -331,34 +325,79 @@
   ],
   "overall_ranked": [
     {
-      "title": "Chaos Ransomware Uses msaRAT to Route C2 Traffic Through Headless Chrome and Edge",
-      "link": "https://thehackernews.com/2026/07/chaos-ransomware-uses-msarat-to-route.html",
-      "summary": "The Chaos ransomware group ran its command-and-control through the victim's own browser. Cisco Talos on Thursday detailed msaRAT, the Rust implant behind it, found on a compromised Windows machine ahe...",
-      "published": "2026-07-23T18:41:09+05:30",
-      "domain": "thehackernews.com",
+      "title": "Dismissing Europe as a museum is glib. Think of it as a theme park",
+      "link": "https://www.economist.com/europe/2026/07/23/dismissing-europe-as-a-museum-is-glib-think-of-it-as-a-theme-park",
+      "summary": "<p>Article URL: <a href=\"https://www.economist.com/europe/2026/07/23/dismissing-europe-as-a-museum-is-glib-think-of-it-as-a-theme-park\">https://www.economist.com/europe/2026/07/23/dismissing-europe-as...",
+      "published": "2026-07-24T02:39:38+00:00",
+      "domain": "economist.com",
       "scores": {
-        "chaos": 30.4,
+        "chaos": 3.0,
         "anarchy": 3.0,
-        "overall": 16.7
+        "overall": 3.0
       },
       "keywords": {
-        "chaos": [
-          "chaos",
-          "chaos"
-        ],
+        "chaos": [],
         "anarchy": []
       }
     },
     {
-      "title": "The Space Force is now seeking to buy up to $30B in rocket launches",
-      "link": "https://arstechnica.com/space/2026/07/the-space-force-is-now-seeking-to-buy-up-to-30-billion-in-rocket-launches/",
-      "summary": "<p>Article URL: <a href=\"https://arstechnica.com/space/2026/07/the-space-force-is-now-seeking-to-buy-up-to-30-billion-in-rocket-launches/\">https://arstechnica.com/space/2026/07/the-space-force-is-now-...",
-      "published": "2026-07-23T19:10:33+00:00",
-      "domain": "arstechnica.com",
+      "title": "Pong Wars on the Commodore 64",
+      "link": "https://imrannazar.com/articles/c64-pongwars",
+      "summary": "<p>Article URL: <a href=\"https://imrannazar.com/articles/c64-pongwars\">https://imrannazar.com/articles/c64-pongwars</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49030644\">htt...",
+      "published": "2026-07-24T02:37:09+00:00",
+      "domain": "imrannazar.com",
       "scores": {
-        "chaos": 18.0,
-        "anarchy": 12.0,
-        "overall": 15.0
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The Full List of Trump's New Tariffs on 60 Economies",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-24/here-s-the-full-list-of-trump-s-new-tariffs-on-60-economies",
+      "summary": "<p>Article URL: <a href=\"https://www.bloomberg.com/news/articles/2026-07-24/here-s-the-full-list-of-trump-s-new-tariffs-on-60-economies\">https://www.bloomberg.com/news/articles/2026-07-24/here-s-the-f...",
+      "published": "2026-07-24T02:37:06+00:00",
+      "domain": "bloomberg.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The cost of GPUs goes far beyond AI data centers",
+      "link": "https://www.theverge.com/cs/features/937356/ai-data-center-gpu-environmental-impact",
+      "summary": "<p>Article URL: <a href=\"https://www.theverge.com/cs/features/937356/ai-data-center-gpu-environmental-impact\">https://www.theverge.com/cs/features/937356/ai-data-center-gpu-environmental-impact</a></p...",
+      "published": "2026-07-24T02:35:23+00:00",
+      "domain": "theverge.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Open Source Tax Engine outperforming GPT sol and Fable 5",
+      "link": "https://opentax.invaro.ai/",
+      "summary": "<p>Article URL: <a href=\"https://opentax.invaro.ai/\">https://opentax.invaro.ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49030618\">https://news.ycombinator.com/item?id=49...",
+      "published": "2026-07-24T02:32:20+00:00",
+      "domain": "opentax.invaro.ai",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
       },
       "keywords": {
         "chaos": [],
@@ -382,107 +421,59 @@
       }
     },
     {
+      "title": "The Visual 6502",
+      "link": "http://visual6502.org/JSSim/index.html",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49029538\">Comments</a>...",
+      "published": "2026-07-23T23:36:42+00:00",
+      "domain": "visual6502.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "98.css",
+      "link": "https://jdan.github.io/98.css/#status-bar",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49028927\">Comments</a>...",
+      "published": "2026-07-23T22:30:29+00:00",
+      "domain": "jdan.github.io",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "AI bet goes awry: Oracle fires 21,000 employees",
+      "link": "https://www.reddit.com/r/technology/comments/1v4symt/ai_bet_goes_awry_oracle_fires_21000_employees/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1v4symt/ai_bet_goes_awry_oracle_fires_21000_employees/\"> <img alt=\"AI bet goes awry: Oracle fires 21,000 employees\" src=\"https://...",
+      "published": "2026-07-23T22:30:23+00:00",
+      "domain": "reddit.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "ThreatsDay: Android Spyware, PLC Attacks, AI Image Prompt Injection + 12 More Stories",
       "link": "https://thehackernews.com/2026/07/threatsday-android-spyware-plc-attacks.html",
       "summary": "Most of this week's trouble came dressed as something useful.\n\nA package stole data. A fake extension opened remote access. A safety app became spyware. An image gave hidden orders to an AI agent. Oth...",
       "published": "2026-07-23T20:32:07+05:30",
       "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The Rise of the Deserving Rich",
-      "link": "https://economist.com/finance-and-economics/2026/07/23/the-rise-of-the-deserving-rich",
-      "summary": "<p>Article URL: <a href=\"https://economist.com/finance-and-economics/2026/07/23/the-rise-of-the-deserving-rich\">https://economist.com/finance-and-economics/2026/07/23/the-rise-of-the-deserving-rich</a...",
-      "published": "2026-07-23T19:13:19+00:00",
-      "domain": "economist.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "PlayMagicReef \u2013 Kids color in a fish, scan it, and it appears in a digital tank",
-      "link": "https://www.playmagicreef.com",
-      "summary": "<p>Article URL: <a href=\"https://www.playmagicreef.com\">https://www.playmagicreef.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49026606\">https://news.ycombinator.com/item...",
-      "published": "2026-07-23T19:11:00+00:00",
-      "domain": "playmagicreef.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Rolling in the Diffs",
-      "link": "https://pwno.io/diff",
-      "summary": "<p>Article URL: <a href=\"https://pwno.io/diff\">https://pwno.io/diff</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49026605\">https://news.ycombinator.com/item?id=49026605</a></...",
-      "published": "2026-07-23T19:10:51+00:00",
-      "domain": "pwno.io",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Frontier-class LLM inference on a laptop CPU",
-      "link": "https://github.com/arizqi/cpubrrr",
-      "summary": "<p>Article URL: <a href=\"https://github.com/arizqi/cpubrrr\">https://github.com/arizqi/cpubrrr</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49026595\">https://news.ycombinator....",
-      "published": "2026-07-23T19:10:04+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Claude Cowork Flaw Could Let AI Agent Escape Its VM and Access Mac Files",
-      "link": "https://thehackernews.com/2026/07/claude-cowork-flaw-could-let-ai-agent.html",
-      "summary": "Cybersecurity researchers have uncovered a sandbox escape vulnerability in Anthropic's Claude Cowork that makes it possible to break out of the confines of a Linux virtual machine (VM) within which th...",
-      "published": "2026-07-23T18:57:59+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Building on ATProto",
-      "link": "https://lukekanies.com/writing/building-on-atproto/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49025984\">Comments</a>...",
-      "published": "2026-07-23T18:23:50+00:00",
-      "domain": "lukekanies.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -496,6 +487,86 @@
   ],
   "all_articles": [
     {
+      "title": "Dismissing Europe as a museum is glib. Think of it as a theme park",
+      "link": "https://www.economist.com/europe/2026/07/23/dismissing-europe-as-a-museum-is-glib-think-of-it-as-a-theme-park",
+      "summary": "<p>Article URL: <a href=\"https://www.economist.com/europe/2026/07/23/dismissing-europe-as-a-museum-is-glib-think-of-it-as-a-theme-park\">https://www.economist.com/europe/2026/07/23/dismissing-europe-as...",
+      "published": "2026-07-24T02:39:38+00:00",
+      "domain": "economist.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Pong Wars on the Commodore 64",
+      "link": "https://imrannazar.com/articles/c64-pongwars",
+      "summary": "<p>Article URL: <a href=\"https://imrannazar.com/articles/c64-pongwars\">https://imrannazar.com/articles/c64-pongwars</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49030644\">htt...",
+      "published": "2026-07-24T02:37:09+00:00",
+      "domain": "imrannazar.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The Full List of Trump's New Tariffs on 60 Economies",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-24/here-s-the-full-list-of-trump-s-new-tariffs-on-60-economies",
+      "summary": "<p>Article URL: <a href=\"https://www.bloomberg.com/news/articles/2026-07-24/here-s-the-full-list-of-trump-s-new-tariffs-on-60-economies\">https://www.bloomberg.com/news/articles/2026-07-24/here-s-the-f...",
+      "published": "2026-07-24T02:37:06+00:00",
+      "domain": "bloomberg.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The cost of GPUs goes far beyond AI data centers",
+      "link": "https://www.theverge.com/cs/features/937356/ai-data-center-gpu-environmental-impact",
+      "summary": "<p>Article URL: <a href=\"https://www.theverge.com/cs/features/937356/ai-data-center-gpu-environmental-impact\">https://www.theverge.com/cs/features/937356/ai-data-center-gpu-environmental-impact</a></p...",
+      "published": "2026-07-24T02:35:23+00:00",
+      "domain": "theverge.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Open Source Tax Engine outperforming GPT sol and Fable 5",
+      "link": "https://opentax.invaro.ai/",
+      "summary": "<p>Article URL: <a href=\"https://opentax.invaro.ai/\">https://opentax.invaro.ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49030618\">https://news.ycombinator.com/item?id=49...",
+      "published": "2026-07-24T02:32:20+00:00",
+      "domain": "opentax.invaro.ai",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "Russian Espionage Group Exploited Zimbra Zero-Day to Steal Mail and 2FA Codes",
       "link": "https://thehackernews.com/2026/07/russian-espionage-group-exploited.html",
       "summary": "A Russian state-supported espionage group spent months reading Western mailboxes through a then-unknown flaw in Zimbra's webmail client.\n\nThe payload goes after the last 90 days of email, the organiza...",
@@ -512,142 +583,59 @@
       }
     },
     {
+      "title": "The Visual 6502",
+      "link": "http://visual6502.org/JSSim/index.html",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49029538\">Comments</a>...",
+      "published": "2026-07-23T23:36:42+00:00",
+      "domain": "visual6502.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "98.css",
+      "link": "https://jdan.github.io/98.css/#status-bar",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49028927\">Comments</a>...",
+      "published": "2026-07-23T22:30:29+00:00",
+      "domain": "jdan.github.io",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "AI bet goes awry: Oracle fires 21,000 employees",
+      "link": "https://www.reddit.com/r/technology/comments/1v4symt/ai_bet_goes_awry_oracle_fires_21000_employees/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1v4symt/ai_bet_goes_awry_oracle_fires_21000_employees/\"> <img alt=\"AI bet goes awry: Oracle fires 21,000 employees\" src=\"https://...",
+      "published": "2026-07-23T22:30:23+00:00",
+      "domain": "reddit.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "ThreatsDay: Android Spyware, PLC Attacks, AI Image Prompt Injection + 12 More Stories",
       "link": "https://thehackernews.com/2026/07/threatsday-android-spyware-plc-attacks.html",
       "summary": "Most of this week's trouble came dressed as something useful.\n\nA package stole data. A fake extension opened remote access. A safety app became spyware. An image gave hidden orders to an AI agent. Oth...",
       "published": "2026-07-23T20:32:07+05:30",
       "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The Rise of the Deserving Rich",
-      "link": "https://economist.com/finance-and-economics/2026/07/23/the-rise-of-the-deserving-rich",
-      "summary": "<p>Article URL: <a href=\"https://economist.com/finance-and-economics/2026/07/23/the-rise-of-the-deserving-rich\">https://economist.com/finance-and-economics/2026/07/23/the-rise-of-the-deserving-rich</a...",
-      "published": "2026-07-23T19:13:19+00:00",
-      "domain": "economist.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "PlayMagicReef \u2013 Kids color in a fish, scan it, and it appears in a digital tank",
-      "link": "https://www.playmagicreef.com",
-      "summary": "<p>Article URL: <a href=\"https://www.playmagicreef.com\">https://www.playmagicreef.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49026606\">https://news.ycombinator.com/item...",
-      "published": "2026-07-23T19:11:00+00:00",
-      "domain": "playmagicreef.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Rolling in the Diffs",
-      "link": "https://pwno.io/diff",
-      "summary": "<p>Article URL: <a href=\"https://pwno.io/diff\">https://pwno.io/diff</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49026605\">https://news.ycombinator.com/item?id=49026605</a></...",
-      "published": "2026-07-23T19:10:51+00:00",
-      "domain": "pwno.io",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The Space Force is now seeking to buy up to $30B in rocket launches",
-      "link": "https://arstechnica.com/space/2026/07/the-space-force-is-now-seeking-to-buy-up-to-30-billion-in-rocket-launches/",
-      "summary": "<p>Article URL: <a href=\"https://arstechnica.com/space/2026/07/the-space-force-is-now-seeking-to-buy-up-to-30-billion-in-rocket-launches/\">https://arstechnica.com/space/2026/07/the-space-force-is-now-...",
-      "published": "2026-07-23T19:10:33+00:00",
-      "domain": "arstechnica.com",
-      "scores": {
-        "chaos": 18.0,
-        "anarchy": 12.0,
-        "overall": 15.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Frontier-class LLM inference on a laptop CPU",
-      "link": "https://github.com/arizqi/cpubrrr",
-      "summary": "<p>Article URL: <a href=\"https://github.com/arizqi/cpubrrr\">https://github.com/arizqi/cpubrrr</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49026595\">https://news.ycombinator....",
-      "published": "2026-07-23T19:10:04+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Claude Cowork Flaw Could Let AI Agent Escape Its VM and Access Mac Files",
-      "link": "https://thehackernews.com/2026/07/claude-cowork-flaw-could-let-ai-agent.html",
-      "summary": "Cybersecurity researchers have uncovered a sandbox escape vulnerability in Anthropic's Claude Cowork that makes it possible to break out of the confines of a Linux virtual machine (VM) within which th...",
-      "published": "2026-07-23T18:57:59+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Chaos Ransomware Uses msaRAT to Route C2 Traffic Through Headless Chrome and Edge",
-      "link": "https://thehackernews.com/2026/07/chaos-ransomware-uses-msarat-to-route.html",
-      "summary": "The Chaos ransomware group ran its command-and-control through the victim's own browser. Cisco Talos on Thursday detailed msaRAT, the Rust implant behind it, found on a compromised Windows machine ahe...",
-      "published": "2026-07-23T18:41:09+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 30.4,
-        "anarchy": 3.0,
-        "overall": 16.7
-      },
-      "keywords": {
-        "chaos": [
-          "chaos",
-          "chaos"
-        ],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Building on ATProto",
-      "link": "https://lukekanies.com/writing/building-on-atproto/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49025984\">Comments</a>...",
-      "published": "2026-07-23T18:23:50+00:00",
-      "domain": "lukekanies.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
