@@ -16,15 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Fastjson 1.x RCE Vulnerability Targeted in Attacks With No Patched Available
+### Projected Lifetime Cancer Risks from Current CT Scans
 - **Published**: July 25, 2026
-- **Summary**: Security firms ThreatBook and Imperva say attackers are targeting a critical flaw in Fastjson, Alibaba's JSON library for Java. In affected Spring Boo...
-- [Read more](https://thehackernews.com/2026/07/fastjson-1x-rce-vulnerability-targeted.html)
+- **Summary**: https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2832778</a></p>
+<p>Comments URL: <......
+- [Read more](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2832778)
 
-### Researcher Publishes GitLab RCE PoC Letting Authenticated Users Run Commands as Git
+### The growing vigilante movement to knock out Flock surveillance cameras
 - **Published**: July 25, 2026
-- **Summary**: Security researchers at&nbsp;depthfirst published working exploit code on July 24 for a GitLab flaw that GitLab patched six weeks earlier, on June 10....
-- [Read more](https://thehackernews.com/2026/07/researcher-publishes-gitlab-rce-poc.html)
+- **Summary**: https://www.theguardian.com/us-news/ng-interactive/2026/jul/25/flock-surveillance-ca......
+- [Read more](https://www.theguardian.com/us-news/ng-interactive/2026/jul/25/flock-surveillance-cameras)
 
 ---
 
