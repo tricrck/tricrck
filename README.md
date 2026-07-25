@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Show HN: SEO Skill – The only SEO skill your AI agent needs
+### Fastjson 1.x RCE Vulnerability Targeted in Attacks With No Patched Available
 - **Published**: July 25, 2026
-- **Summary**: <p>SEO Skill is a local-first CLI and agent skill you can use to crawl a site, audit technical SEO and work with your own Search Console and Google An...
-- [Read more](https://github.com/iannuttall/seo)
+- **Summary**: Security firms ThreatBook and Imperva say attackers are targeting a critical flaw in Fastjson, Alibaba's JSON library for Java. In affected Spring Boo...
+- [Read more](https://thehackernews.com/2026/07/fastjson-1x-rce-vulnerability-targeted.html)
 
-### When Notion Becomes Too Much and Obsidian Not Enough
+### Researcher Publishes GitLab RCE PoC Letting Authenticated Users Run Commands as Git
 - **Published**: July 25, 2026
-- **Summary**: https://rizz.dev/blog/guides/notion-versus-obsidian</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id......
-- [Read more](https://rizz.dev/blog/guides/notion-versus-obsidian)
+- **Summary**: Security researchers at&nbsp;depthfirst published working exploit code on July 24 for a GitLab flaw that GitLab patched six weeks earlier, on June 10....
+- [Read more](https://thehackernews.com/2026/07/researcher-publishes-gitlab-rce-poc.html)
 
 ---
 
