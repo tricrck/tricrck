@@ -16,15 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Free speech groups demand LA repeal slur ban
+### Show HN: SEO Skill – The only SEO skill your AI agent needs
 - **Published**: July 25, 2026
-- **Summary**: https://www.usatoday.com/story/news/nation/2026/07/23/la......
-- [Read more](https://www.usatoday.com/story/news/nation/2026/07/23/la-city-council-slur-ban-first-amendment-challenge/91002479007/)
+- **Summary**: <p>SEO Skill is a local-first CLI and agent skill you can use to crawl a site, audit technical SEO and work with your own Search Console and Google An...
+- [Read more](https://github.com/iannuttall/seo)
 
-### We've Reached the End of Political Accountability
+### When Notion Becomes Too Much and Obsidian Not Enough
 - **Published**: July 25, 2026
-- **Summary**: https://www.esquire.com/news-politics/politics/......
-- [Read more](https://www.esquire.com/news-politics/politics/a73230257/political-accountability-arizona-governor-gop-nominee-stop-the-steal/)
+- **Summary**: https://rizz.dev/blog/guides/notion-versus-obsidian</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id......
+- [Read more](https://rizz.dev/blog/guides/notion-versus-obsidian)
 
 ---
 
