@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### BlueNoroff Zoom Phishing Kit Profiles Crypto Wallets Before Malware Delivery
-- **Published**: July 24, 2026
-- **Summary**: The North Korean threat actors behind the ClickFix-style campaigns that employ typosquatted Zoom and Microsoft Teams domains have been found to operat...
-- [Read more](https://thehackernews.com/2026/07/bluenoroff-zoom-phishing-kit-profiles.html)
+### Free speech groups demand LA repeal slur ban
+- **Published**: July 25, 2026
+- **Summary**: https://www.usatoday.com/story/news/nation/2026/07/23/la......
+- [Read more](https://www.usatoday.com/story/news/nation/2026/07/23/la-city-council-slur-ban-first-amendment-challenge/91002479007/)
 
-### Certighost Exploit Lets Low-Privileged Active Directory Users Impersonate a Domain Controller
-- **Published**: July 24, 2026
-- **Summary**: Researchers H0j3n and Aniq Fakhrul published a working exploit on July 24 that lets a low-privileged Active Directory user obtain a certificate for a ...
-- [Read more](https://thehackernews.com/2026/07/certighost-exploit-lets-low-privileged.html)
+### We've Reached the End of Political Accountability
+- **Published**: July 25, 2026
+- **Summary**: https://www.esquire.com/news-politics/politics/......
+- [Read more](https://www.esquire.com/news-politics/politics/a73230257/political-accountability-arizona-governor-gop-nominee-stop-the-steal/)
 
 ---
 
