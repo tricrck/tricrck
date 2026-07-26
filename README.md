@@ -16,16 +16,18 @@
 
 ## 🚨 Tech Stories
 
-### Projected Lifetime Cancer Risks from Current CT Scans
+### Clinical failure rates over the decades: yikes
 - **Published**: July 25, 2026
-- **Summary**: https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2832778</a></p>
-<p>Comments URL: <......
-- [Read more](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2832778)
+- **Summary**: ......
+- **Keywords**: failure
+- [Read more](https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes)
 
-### The growing vigilante movement to knock out Flock surveillance cameras
-- **Published**: July 25, 2026
-- **Summary**: https://www.theguardian.com/us-news/ng-interactive/2026/jul/25/flock-surveillance-ca......
-- [Read more](https://www.theguardian.com/us-news/ng-interactive/2026/jul/25/flock-surveillance-cameras)
+### Show HN: Raise a virtual pet with your friend/partner
+- **Published**: July 26, 2026
+- **Summary**: 
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49054153">https://news.ycombinator.com/item?id......
+- [Read more](https://dandan.schols.io)
 
 ---
 
