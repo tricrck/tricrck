@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Third Drone Shot Down in Three Days in Romanian Territory
+### Learning two pointers from scratch after solving 100 LeetCode problems
 - **Published**: July 26, 2026
-- **Summary**: ......
-- **Keywords**: down
-- [Read more](https://english.mapn.ro/)
+- **Summary**: https://leetcopilot.dev/blog/two-pointers-intuition-for-leetcode-beginners-step-by-ste......
+- [Read more](https://leetcopilot.dev/blog/two-pointers-intuition-for-leetcode-beginners-step-by-step)
 
-### NASA Fire Information Interactive Map
+### I Made Open Source Adobe Acrobat – Windows 11
 - **Published**: July 26, 2026
-- **Summary**: https://firms.modaps.eosdis.nasa.gov/map/#d:2026-07-20..2026-07-26;@19.0,1.5,3.0z</a></p>
-<p......
-- [Read more](https://firms.modaps.eosdis.nasa.gov/map/#d:2026-07-20..2026-07-26;@19.0,1.5,3.0z)
+- **Summary**: https://github.com/jonahgigi534-wq/PDF-Pilot</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49061265">htt......
+- [Read more](https://github.com/jonahgigi534-wq/PDF-Pilot)
 
 ---
 
