@@ -16,15 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### House AI 'kill switch' bill unveiled as OpenAI hack raises alarms
+### Third Drone Shot Down in Three Days in Romanian Territory
 - **Published**: July 26, 2026
-- **Summary**: https://www.politico.com/news/2026/07/23/house-ai-kill-switc......
-- [Read more](https://www.politico.com/news/2026/07/23/house-ai-kill-switch-bill-unveiled-as-openai-hack-raises-alarms-01008898)
+- **Summary**: ......
+- **Keywords**: down
+- [Read more](https://english.mapn.ro/)
 
-### Modeling Facts and Reactions with Domain Events
+### NASA Fire Information Interactive Map
 - **Published**: July 26, 2026
-- **Summary**: https://deniskyashif.com/2026/07/25/modeling-facts-and-reactions-with-domain-events/</a><......
-- [Read more](https://deniskyashif.com/2026/07/25/modeling-facts-and-reactions-with-domain-events/)
+- **Summary**: https://firms.modaps.eosdis.nasa.gov/map/#d:2026-07-20..2026-07-26;@19.0,1.5,3.0z</a></p>
+<p......
+- [Read more](https://firms.modaps.eosdis.nasa.gov/map/#d:2026-07-20..2026-07-26;@19.0,1.5,3.0z)
 
 ---
 
