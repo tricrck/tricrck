@@ -16,18 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Clinical failure rates over the decades: yikes
-- **Published**: July 25, 2026
-- **Summary**: ......
-- **Keywords**: failure
-- [Read more](https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes)
-
-### Show HN: Raise a virtual pet with your friend/partner
+### House AI 'kill switch' bill unveiled as OpenAI hack raises alarms
 - **Published**: July 26, 2026
-- **Summary**: 
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49054153">https://news.ycombinator.com/item?id......
-- [Read more](https://dandan.schols.io)
+- **Summary**: https://www.politico.com/news/2026/07/23/house-ai-kill-switc......
+- [Read more](https://www.politico.com/news/2026/07/23/house-ai-kill-switch-bill-unveiled-as-openai-hack-raises-alarms-01008898)
+
+### Modeling Facts and Reactions with Domain Events
+- **Published**: July 26, 2026
+- **Summary**: https://deniskyashif.com/2026/07/25/modeling-facts-and-reactions-with-domain-events/</a><......
+- [Read more](https://deniskyashif.com/2026/07/25/modeling-facts-and-reactions-with-domain-events/)
 
 ---
 
