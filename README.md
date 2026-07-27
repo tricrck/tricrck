@@ -16,15 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### TELESHIM Abuses Telegram for C2 in Attacks Against Middle East Governments
+### ⚡ Weekly Recap: Rogue AI Agents, Check Point Exploit, Slopsquatting, ClickFix Lures and More
 - **Published**: July 27, 2026
-- **Summary**: Cybersecurity researchers have flagged fresh malicious cyber activity by a threat actor with ties to East Asia targeting government entities in the Mi...
-- [Read more](https://thehackernews.com/2026/07/teleshim-abuses-telegram-for-c2-in.html)
+- **Summary**: Monday starts with the usual promise that everything is under control. Then the logs wake up.
 
-### GitHub Adds 3-Day Dependabot Cooldown to Limit Poisoned Package Adoption
+This week, trusted tools crossed lines, old flaws found...
+- [Read more](https://thehackernews.com/2026/07/weekly-recap-rogue-ai-agents-check.html)
+
+### n8n Sandbox Escape Lets Workflow Editors Run OS Commands as the n8n Process
 - **Published**: July 27, 2026
-- **Summary**: GitHub has announced a new cooldown mechanism in Dependabot, allowing the tool to wait at least three days after a release is published before opening...
-- [Read more](https://thehackernews.com/2026/07/github-adds-3-day-dependabot-cooldown.html)
+- **Summary**: n8n has patched a high-severity expression-sandbox escape that could let an authenticated workflow editor execute operating-system commands on the ser...
+- [Read more](https://thehackernews.com/2026/07/n8n-sandbox-escape-lets-workflow.html)
 
 ---
 
