@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### What breaks in production AI workflows?
+### TELESHIM Abuses Telegram for C2 in Attacks Against Middle East Governments
 - **Published**: July 27, 2026
-- **Summary**: https://www.indiehackers.com/pos......
-- [Read more](https://www.indiehackers.com/post/weve-reproduced-30-real-ai-runtime-failures-over-the-past-week-here-s-the-pattern-we-keep-seeing-4570fe4242)
+- **Summary**: Cybersecurity researchers have flagged fresh malicious cyber activity by a threat actor with ties to East Asia targeting government entities in the Mi...
+- [Read more](https://thehackernews.com/2026/07/teleshim-abuses-telegram-for-c2-in.html)
 
-### Show HN: Static MCP – publish MCP tools as static files, run them sandboxed
+### GitHub Adds 3-Day Dependabot Cooldown to Limit Poisoned Package Adoption
 - **Published**: July 27, 2026
-- **Summary**: https://github.com/MauricioPerera/mcpwasm</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49064779">https://n......
-- [Read more](https://github.com/MauricioPerera/mcpwasm)
+- **Summary**: GitHub has announced a new cooldown mechanism in Dependabot, allowing the tool to wait at least three days after a release is published before opening...
+- [Read more](https://thehackernews.com/2026/07/github-adds-3-day-dependabot-cooldown.html)
 
 ---
 
