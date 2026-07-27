@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### ⚡ Weekly Recap: Rogue AI Agents, Check Point Exploit, Slopsquatting, ClickFix Lures and More
+### Dysphoria IoT Botnet Adds Blockchain C2 and Victim Relays After JackSkid Disruption
 - **Published**: July 27, 2026
-- **Summary**: Monday starts with the usual promise that everything is under control. Then the logs wake up.
+- **Summary**: Dysphoria, an Internet of Things (IoT) botnet line tracked by CNCERT and XLab, has adopted blockchain-based name services and infected-device relays a...
+- **Keywords**: disruption
+- [Read more](https://thehackernews.com/2026/07/dysphoria-iot-botnet-adds-blockchain-c2.html)
 
-This week, trusted tools crossed lines, old flaws found...
-- [Read more](https://thehackernews.com/2026/07/weekly-recap-rogue-ai-agents-check.html)
-
-### n8n Sandbox Escape Lets Workflow Editors Run OS Commands as the n8n Process
+### Public Exploit Released for Patched vBulletin Pre-Auth Code Execution Flaw
 - **Published**: July 27, 2026
-- **Summary**: n8n has patched a high-severity expression-sandbox escape that could let an authenticated workflow editor execute operating-system commands on the ser...
-- [Read more](https://thehackernews.com/2026/07/n8n-sandbox-escape-lets-workflow.html)
+- **Summary**: Public exploit details released on July 27 show how an unauthenticated request can reach PHP's eval() function inside vBulletin and execute code on an...
+- [Read more](https://thehackernews.com/2026/07/public-exploit-released-for-patched.html)
 
 ---
 
