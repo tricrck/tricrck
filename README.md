@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Learning two pointers from scratch after solving 100 LeetCode problems
-- **Published**: July 26, 2026
-- **Summary**: https://leetcopilot.dev/blog/two-pointers-intuition-for-leetcode-beginners-step-by-ste......
-- [Read more](https://leetcopilot.dev/blog/two-pointers-intuition-for-leetcode-beginners-step-by-step)
+### What breaks in production AI workflows?
+- **Published**: July 27, 2026
+- **Summary**: https://www.indiehackers.com/pos......
+- [Read more](https://www.indiehackers.com/post/weve-reproduced-30-real-ai-runtime-failures-over-the-past-week-here-s-the-pattern-we-keep-seeing-4570fe4242)
 
-### I Made Open Source Adobe Acrobat – Windows 11
-- **Published**: July 26, 2026
-- **Summary**: https://github.com/jonahgigi534-wq/PDF-Pilot</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49061265">htt......
-- [Read more](https://github.com/jonahgigi534-wq/PDF-Pilot)
+### Show HN: Static MCP – publish MCP tools as static files, run them sandboxed
+- **Published**: July 27, 2026
+- **Summary**: https://github.com/MauricioPerera/mcpwasm</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49064779">https://n......
+- [Read more](https://github.com/MauricioPerera/mcpwasm)
 
 ---
 
