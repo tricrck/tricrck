@@ -22,10 +22,11 @@
 - **Keywords**: disruption
 - [Read more](https://thehackernews.com/2026/07/dysphoria-iot-botnet-adds-blockchain-c2.html)
 
-### Public Exploit Released for Patched vBulletin Pre-Auth Code Execution Flaw
-- **Published**: July 27, 2026
-- **Summary**: Public exploit details released on July 27 show how an unauthenticated request can reach PHP's eval() function inside vBulletin and execute code on an...
-- [Read more](https://thehackernews.com/2026/07/public-exploit-released-for-patched.html)
+### EYG: A Programming Language for Humans
+- **Published**: July 28, 2026
+- **Summary**: https://crowdhailer.me/2026-06-08/a-programming-language-for-humans/</a></p>
+<p>Comments URL: <a href="ht......
+- [Read more](https://crowdhailer.me/2026-06-08/a-programming-language-for-humans/)
 
 ---
 
