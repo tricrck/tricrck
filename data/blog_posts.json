@@ -1,6 +1,134 @@
 {
   "chaos_ranked": [
     {
+      "title": "Claude AI Just Cracked a Post-Quantum Test Scheme and Found a Faster 7-Round AES Attack",
+      "link": "https://thehackernews.com/2026/07/claude-ai-just-cracked-post-quantum.html",
+      "summary": "Anthropic says Claude Mythos Preview helped derive an end-to-end key-recovery attack against HAWK-256 and a 200- to 800-fold speedup for an attack on seven-round AES-128.\n\nThe HAWK attack exploits a p...",
+      "published": "2026-07-29T00:29:07+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Tengu Botnet Reboots Compromised Linux Devices When Defenders Kill Its Process",
+      "link": "https://thehackernews.com/2026/07/tengu-botnet-reboots-compromised-linux.html",
+      "summary": "A new Mirai-derived botnet called Tengu can use a compromised Linux device's hardware watchdog to trigger a reboot when defenders kill its main process.\n\nIf that happens, Tengu's other persistence mec...",
+      "published": "2026-07-28T20:31:33+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "24,650 Internet-Exposed BMCs Disclose IPMI Password Hashes Before Login",
+      "link": "https://thehackernews.com/2026/07/24650-internet-exposed-bmcs-disclose.html",
+      "summary": "Cybersecurity researchers have sounded an alert after finding more than 36,000 Baseboard Management Controller (BMC) management interfaces exposing Intelligent Platform Management Interface (IPMI) pro...",
+      "published": "2026-07-28T20:11:36+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "No, You Are Not Living in a Computer Simulation",
+      "link": "https://decodingvibes.com/blog/no-you-are-not-living-in-a-computer-simulation/",
+      "summary": "<p>Article URL: <a href=\"https://decodingvibes.com/blog/no-you-are-not-living-in-a-computer-simulation/\">https://decodingvibes.com/blog/no-you-are-not-living-in-a-computer-simulation/</a></p>\n<p>Comme...",
+      "published": "2026-07-28T19:19:13+00:00",
+      "domain": "decodingvibes.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "A Real Legacy Codebase",
+      "link": "https://www.smbc-comics.com/comic/codebase",
+      "summary": "<p>Article URL: <a href=\"https://www.smbc-comics.com/comic/codebase\">https://www.smbc-comics.com/comic/codebase</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49088607\">https:/...",
+      "published": "2026-07-28T19:18:16+00:00",
+      "domain": "smbc-comics.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "What if useful AI is a fantasy?",
+      "link": "https://lzon.ca/posts/other/llm-fantasy/",
+      "summary": "<p>Article URL: <a href=\"https://lzon.ca/posts/other/llm-fantasy/\">https://lzon.ca/posts/other/llm-fantasy/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49088595\">https://new...",
+      "published": "2026-07-28T19:17:37+00:00",
+      "domain": "lzon.ca",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Analysis of Opus 5's 'Contrition'",
+      "link": "https://github.com/curtis-arch/Why-Opus-feels-intolerable/blob/main/reports/recommended-instructions.md",
+      "summary": "<p>Article URL: <a href=\"https://github.com/curtis-arch/Why-Opus-feels-intolerable/blob/main/reports/recommended-instructions.md\">https://github.com/curtis-arch/Why-Opus-feels-intolerable/blob/main/re...",
+      "published": "2026-07-28T19:17:01+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Artificial Intelligence Is Artificial Thinking",
+      "link": "https://krezl.com/essays/artificial-intelligence-is-artificial-thinking",
+      "summary": "<p>Article URL: <a href=\"https://krezl.com/essays/artificial-intelligence-is-artificial-thinking\">https://krezl.com/essays/artificial-intelligence-is-artificial-thinking</a></p>\n<p>Comments URL: <a hr...",
+      "published": "2026-07-28T19:16:03+00:00",
+      "domain": "krezl.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "JFrog Confirms OpenAI Models Exploited Artifactory Zero-Day Before Hugging Face Breach",
       "link": "https://thehackernews.com/2026/07/jfrog-confirms-openai-models-exploited.html",
       "summary": "JFrog has confirmed that OpenAI models exploited a zero-day in self-hosted Artifactory while trying to reach the open internet from a sealed evaluation environment.\n\nArtifactory is JFrog's software re...",
@@ -17,139 +145,11 @@
       }
     },
     {
-      "title": "Critical OpenWrt DHCPv6 Flaw Could Let Unauthenticated Attackers Run Code as Root",
-      "link": "https://thehackernews.com/2026/07/critical-openwrt-dhcpv6-flaw-could-let.html",
-      "summary": "OpenWrt has shipped version 24.10.8 to close a critical DHCPv6 stack overflow and a wider set of remotely triggerable flaws in network services enabled by default.\n\nThe critical issue, tracked as CVE-...",
-      "published": "2026-07-28T18:26:14+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Nimbus Manticore Deploys NightLedger and Turns Victim Systems Into Covert Relays",
-      "link": "https://thehackernews.com/2026/07/nimbus-manticore-deploys-nightledger.html",
-      "summary": "The Iranian state-backed hacking group tracked as Nimbus Manticore (aka GalaxyGato, Mirage Kitten, Smoke Sandstorm, Subtle Snail, and UNC1549) has been attributed to a fresh set of attacks targeting e...",
-      "published": "2026-07-28T17:25:20+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "macOS Files and Folders System Settings Confusing UI",
-      "link": "https://lapcatsoftware.com/articles/2026/7/12.html",
-      "summary": "<p>Article URL: <a href=\"https://lapcatsoftware.com/articles/2026/7/12.html\">https://lapcatsoftware.com/articles/2026/7/12.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4...",
-      "published": "2026-07-28T14:06:47+00:00",
-      "domain": "lapcatsoftware.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Italy Blocks Reproductive Health Websites Women on Web and Women Help Women",
-      "link": "https://ooni.org/post/2026-italy-blocks-wow-and-whw",
-      "summary": "<p>Article URL: <a href=\"https://ooni.org/post/2026-italy-blocks-wow-and-whw\">https://ooni.org/post/2026-italy-blocks-wow-and-whw</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id...",
-      "published": "2026-07-28T14:05:51+00:00",
-      "domain": "ooni.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: I built an atlas linking genes, exposure, and disease by US county",
-      "link": "https://genarch.org/",
-      "summary": "<p>Article URL: <a href=\"https://genarch.org/\">https://genarch.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49084085\">https://news.ycombinator.com/item?id=49084085</a></...",
-      "published": "2026-07-28T14:05:10+00:00",
-      "domain": "genarch.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: Daily competitor-change briefs for local businesses",
-      "link": "https://myintelbrief.com/",
-      "summary": "<p>Article URL: <a href=\"https://myintelbrief.com/\">https://myintelbrief.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49084062\">https://news.ycombinator.com/item?id=4908...",
-      "published": "2026-07-28T14:03:01+00:00",
-      "domain": "myintelbrief.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Controlling your home with tiny, cheap touchscreens",
-      "link": "https://a.wholelottanothing.org/controlling-your-home-with-tiny-cheap-touchscreens/",
-      "summary": "<p>Article URL: <a href=\"https://a.wholelottanothing.org/controlling-your-home-with-tiny-cheap-touchscreens/\">https://a.wholelottanothing.org/controlling-your-home-with-tiny-cheap-touchscreens/</a></p...",
-      "published": "2026-07-28T14:01:17+00:00",
-      "domain": "a.wholelottanothing.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Critical TeamCity Flaw Could Let Attackers Run OS Commands Without Logging In",
-      "link": "https://thehackernews.com/2026/07/critical-teamcity-flaw-could-let.html",
-      "summary": "JetBrains is urging customers of on-premise versions of TeamCity to update to the latest version following the discovery of a critical security issue that could result in arbitrary code execution.\n\nTh...",
-      "published": "2026-07-28T13:41:22+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Researcher Says AI Helped Develop Linux Traffic-Control Race Into Root Exploit",
-      "link": "https://thehackernews.com/2026/07/researcher-says-ai-helped-develop-linux.html",
-      "summary": "STAR Labs has published a Linux kernel exploit that turns an ordinary local user into root on the CentOS Stream 9 build it targeted. The flaw, tracked as CVE-2026-53264 (CVSS score: 7.8), is a use-aft...",
-      "published": "2026-07-28T13:34:44+05:30",
-      "domain": "thehackernews.com",
+      "title": "Deflock Casa Grande",
+      "link": "https://deflockcg.com/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49088148\">Comments</a>...",
+      "published": "2026-07-28T18:41:48+00:00",
+      "domain": "deflockcg.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -163,6 +163,134 @@
   ],
   "anarchy_ranked": [
     {
+      "title": "Claude AI Just Cracked a Post-Quantum Test Scheme and Found a Faster 7-Round AES Attack",
+      "link": "https://thehackernews.com/2026/07/claude-ai-just-cracked-post-quantum.html",
+      "summary": "Anthropic says Claude Mythos Preview helped derive an end-to-end key-recovery attack against HAWK-256 and a 200- to 800-fold speedup for an attack on seven-round AES-128.\n\nThe HAWK attack exploits a p...",
+      "published": "2026-07-29T00:29:07+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Tengu Botnet Reboots Compromised Linux Devices When Defenders Kill Its Process",
+      "link": "https://thehackernews.com/2026/07/tengu-botnet-reboots-compromised-linux.html",
+      "summary": "A new Mirai-derived botnet called Tengu can use a compromised Linux device's hardware watchdog to trigger a reboot when defenders kill its main process.\n\nIf that happens, Tengu's other persistence mec...",
+      "published": "2026-07-28T20:31:33+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "24,650 Internet-Exposed BMCs Disclose IPMI Password Hashes Before Login",
+      "link": "https://thehackernews.com/2026/07/24650-internet-exposed-bmcs-disclose.html",
+      "summary": "Cybersecurity researchers have sounded an alert after finding more than 36,000 Baseboard Management Controller (BMC) management interfaces exposing Intelligent Platform Management Interface (IPMI) pro...",
+      "published": "2026-07-28T20:11:36+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "No, You Are Not Living in a Computer Simulation",
+      "link": "https://decodingvibes.com/blog/no-you-are-not-living-in-a-computer-simulation/",
+      "summary": "<p>Article URL: <a href=\"https://decodingvibes.com/blog/no-you-are-not-living-in-a-computer-simulation/\">https://decodingvibes.com/blog/no-you-are-not-living-in-a-computer-simulation/</a></p>\n<p>Comme...",
+      "published": "2026-07-28T19:19:13+00:00",
+      "domain": "decodingvibes.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "A Real Legacy Codebase",
+      "link": "https://www.smbc-comics.com/comic/codebase",
+      "summary": "<p>Article URL: <a href=\"https://www.smbc-comics.com/comic/codebase\">https://www.smbc-comics.com/comic/codebase</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49088607\">https:/...",
+      "published": "2026-07-28T19:18:16+00:00",
+      "domain": "smbc-comics.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "What if useful AI is a fantasy?",
+      "link": "https://lzon.ca/posts/other/llm-fantasy/",
+      "summary": "<p>Article URL: <a href=\"https://lzon.ca/posts/other/llm-fantasy/\">https://lzon.ca/posts/other/llm-fantasy/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49088595\">https://new...",
+      "published": "2026-07-28T19:17:37+00:00",
+      "domain": "lzon.ca",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Analysis of Opus 5's 'Contrition'",
+      "link": "https://github.com/curtis-arch/Why-Opus-feels-intolerable/blob/main/reports/recommended-instructions.md",
+      "summary": "<p>Article URL: <a href=\"https://github.com/curtis-arch/Why-Opus-feels-intolerable/blob/main/reports/recommended-instructions.md\">https://github.com/curtis-arch/Why-Opus-feels-intolerable/blob/main/re...",
+      "published": "2026-07-28T19:17:01+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Artificial Intelligence Is Artificial Thinking",
+      "link": "https://krezl.com/essays/artificial-intelligence-is-artificial-thinking",
+      "summary": "<p>Article URL: <a href=\"https://krezl.com/essays/artificial-intelligence-is-artificial-thinking\">https://krezl.com/essays/artificial-intelligence-is-artificial-thinking</a></p>\n<p>Comments URL: <a hr...",
+      "published": "2026-07-28T19:16:03+00:00",
+      "domain": "krezl.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "JFrog Confirms OpenAI Models Exploited Artifactory Zero-Day Before Hugging Face Breach",
       "link": "https://thehackernews.com/2026/07/jfrog-confirms-openai-models-exploited.html",
       "summary": "JFrog has confirmed that OpenAI models exploited a zero-day in self-hosted Artifactory while trying to reach the open internet from a sealed evaluation environment.\n\nArtifactory is JFrog's software re...",
@@ -179,139 +307,11 @@
       }
     },
     {
-      "title": "Critical OpenWrt DHCPv6 Flaw Could Let Unauthenticated Attackers Run Code as Root",
-      "link": "https://thehackernews.com/2026/07/critical-openwrt-dhcpv6-flaw-could-let.html",
-      "summary": "OpenWrt has shipped version 24.10.8 to close a critical DHCPv6 stack overflow and a wider set of remotely triggerable flaws in network services enabled by default.\n\nThe critical issue, tracked as CVE-...",
-      "published": "2026-07-28T18:26:14+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Nimbus Manticore Deploys NightLedger and Turns Victim Systems Into Covert Relays",
-      "link": "https://thehackernews.com/2026/07/nimbus-manticore-deploys-nightledger.html",
-      "summary": "The Iranian state-backed hacking group tracked as Nimbus Manticore (aka GalaxyGato, Mirage Kitten, Smoke Sandstorm, Subtle Snail, and UNC1549) has been attributed to a fresh set of attacks targeting e...",
-      "published": "2026-07-28T17:25:20+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "macOS Files and Folders System Settings Confusing UI",
-      "link": "https://lapcatsoftware.com/articles/2026/7/12.html",
-      "summary": "<p>Article URL: <a href=\"https://lapcatsoftware.com/articles/2026/7/12.html\">https://lapcatsoftware.com/articles/2026/7/12.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4...",
-      "published": "2026-07-28T14:06:47+00:00",
-      "domain": "lapcatsoftware.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Italy Blocks Reproductive Health Websites Women on Web and Women Help Women",
-      "link": "https://ooni.org/post/2026-italy-blocks-wow-and-whw",
-      "summary": "<p>Article URL: <a href=\"https://ooni.org/post/2026-italy-blocks-wow-and-whw\">https://ooni.org/post/2026-italy-blocks-wow-and-whw</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id...",
-      "published": "2026-07-28T14:05:51+00:00",
-      "domain": "ooni.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: I built an atlas linking genes, exposure, and disease by US county",
-      "link": "https://genarch.org/",
-      "summary": "<p>Article URL: <a href=\"https://genarch.org/\">https://genarch.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49084085\">https://news.ycombinator.com/item?id=49084085</a></...",
-      "published": "2026-07-28T14:05:10+00:00",
-      "domain": "genarch.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: Daily competitor-change briefs for local businesses",
-      "link": "https://myintelbrief.com/",
-      "summary": "<p>Article URL: <a href=\"https://myintelbrief.com/\">https://myintelbrief.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49084062\">https://news.ycombinator.com/item?id=4908...",
-      "published": "2026-07-28T14:03:01+00:00",
-      "domain": "myintelbrief.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Controlling your home with tiny, cheap touchscreens",
-      "link": "https://a.wholelottanothing.org/controlling-your-home-with-tiny-cheap-touchscreens/",
-      "summary": "<p>Article URL: <a href=\"https://a.wholelottanothing.org/controlling-your-home-with-tiny-cheap-touchscreens/\">https://a.wholelottanothing.org/controlling-your-home-with-tiny-cheap-touchscreens/</a></p...",
-      "published": "2026-07-28T14:01:17+00:00",
-      "domain": "a.wholelottanothing.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Critical TeamCity Flaw Could Let Attackers Run OS Commands Without Logging In",
-      "link": "https://thehackernews.com/2026/07/critical-teamcity-flaw-could-let.html",
-      "summary": "JetBrains is urging customers of on-premise versions of TeamCity to update to the latest version following the discovery of a critical security issue that could result in arbitrary code execution.\n\nTh...",
-      "published": "2026-07-28T13:41:22+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Researcher Says AI Helped Develop Linux Traffic-Control Race Into Root Exploit",
-      "link": "https://thehackernews.com/2026/07/researcher-says-ai-helped-develop-linux.html",
-      "summary": "STAR Labs has published a Linux kernel exploit that turns an ordinary local user into root on the CentOS Stream 9 build it targeted. The flaw, tracked as CVE-2026-53264 (CVSS score: 7.8), is a use-aft...",
-      "published": "2026-07-28T13:34:44+05:30",
-      "domain": "thehackernews.com",
+      "title": "Deflock Casa Grande",
+      "link": "https://deflockcg.com/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49088148\">Comments</a>...",
+      "published": "2026-07-28T18:41:48+00:00",
+      "domain": "deflockcg.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -325,6 +325,134 @@
   ],
   "overall_ranked": [
     {
+      "title": "Claude AI Just Cracked a Post-Quantum Test Scheme and Found a Faster 7-Round AES Attack",
+      "link": "https://thehackernews.com/2026/07/claude-ai-just-cracked-post-quantum.html",
+      "summary": "Anthropic says Claude Mythos Preview helped derive an end-to-end key-recovery attack against HAWK-256 and a 200- to 800-fold speedup for an attack on seven-round AES-128.\n\nThe HAWK attack exploits a p...",
+      "published": "2026-07-29T00:29:07+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Tengu Botnet Reboots Compromised Linux Devices When Defenders Kill Its Process",
+      "link": "https://thehackernews.com/2026/07/tengu-botnet-reboots-compromised-linux.html",
+      "summary": "A new Mirai-derived botnet called Tengu can use a compromised Linux device's hardware watchdog to trigger a reboot when defenders kill its main process.\n\nIf that happens, Tengu's other persistence mec...",
+      "published": "2026-07-28T20:31:33+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "24,650 Internet-Exposed BMCs Disclose IPMI Password Hashes Before Login",
+      "link": "https://thehackernews.com/2026/07/24650-internet-exposed-bmcs-disclose.html",
+      "summary": "Cybersecurity researchers have sounded an alert after finding more than 36,000 Baseboard Management Controller (BMC) management interfaces exposing Intelligent Platform Management Interface (IPMI) pro...",
+      "published": "2026-07-28T20:11:36+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "No, You Are Not Living in a Computer Simulation",
+      "link": "https://decodingvibes.com/blog/no-you-are-not-living-in-a-computer-simulation/",
+      "summary": "<p>Article URL: <a href=\"https://decodingvibes.com/blog/no-you-are-not-living-in-a-computer-simulation/\">https://decodingvibes.com/blog/no-you-are-not-living-in-a-computer-simulation/</a></p>\n<p>Comme...",
+      "published": "2026-07-28T19:19:13+00:00",
+      "domain": "decodingvibes.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "A Real Legacy Codebase",
+      "link": "https://www.smbc-comics.com/comic/codebase",
+      "summary": "<p>Article URL: <a href=\"https://www.smbc-comics.com/comic/codebase\">https://www.smbc-comics.com/comic/codebase</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49088607\">https:/...",
+      "published": "2026-07-28T19:18:16+00:00",
+      "domain": "smbc-comics.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "What if useful AI is a fantasy?",
+      "link": "https://lzon.ca/posts/other/llm-fantasy/",
+      "summary": "<p>Article URL: <a href=\"https://lzon.ca/posts/other/llm-fantasy/\">https://lzon.ca/posts/other/llm-fantasy/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49088595\">https://new...",
+      "published": "2026-07-28T19:17:37+00:00",
+      "domain": "lzon.ca",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Analysis of Opus 5's 'Contrition'",
+      "link": "https://github.com/curtis-arch/Why-Opus-feels-intolerable/blob/main/reports/recommended-instructions.md",
+      "summary": "<p>Article URL: <a href=\"https://github.com/curtis-arch/Why-Opus-feels-intolerable/blob/main/reports/recommended-instructions.md\">https://github.com/curtis-arch/Why-Opus-feels-intolerable/blob/main/re...",
+      "published": "2026-07-28T19:17:01+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Artificial Intelligence Is Artificial Thinking",
+      "link": "https://krezl.com/essays/artificial-intelligence-is-artificial-thinking",
+      "summary": "<p>Article URL: <a href=\"https://krezl.com/essays/artificial-intelligence-is-artificial-thinking\">https://krezl.com/essays/artificial-intelligence-is-artificial-thinking</a></p>\n<p>Comments URL: <a hr...",
+      "published": "2026-07-28T19:16:03+00:00",
+      "domain": "krezl.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "JFrog Confirms OpenAI Models Exploited Artifactory Zero-Day Before Hugging Face Breach",
       "link": "https://thehackernews.com/2026/07/jfrog-confirms-openai-models-exploited.html",
       "summary": "JFrog has confirmed that OpenAI models exploited a zero-day in self-hosted Artifactory while trying to reach the open internet from a sealed evaluation environment.\n\nArtifactory is JFrog's software re...",
@@ -341,139 +469,11 @@
       }
     },
     {
-      "title": "Critical OpenWrt DHCPv6 Flaw Could Let Unauthenticated Attackers Run Code as Root",
-      "link": "https://thehackernews.com/2026/07/critical-openwrt-dhcpv6-flaw-could-let.html",
-      "summary": "OpenWrt has shipped version 24.10.8 to close a critical DHCPv6 stack overflow and a wider set of remotely triggerable flaws in network services enabled by default.\n\nThe critical issue, tracked as CVE-...",
-      "published": "2026-07-28T18:26:14+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Nimbus Manticore Deploys NightLedger and Turns Victim Systems Into Covert Relays",
-      "link": "https://thehackernews.com/2026/07/nimbus-manticore-deploys-nightledger.html",
-      "summary": "The Iranian state-backed hacking group tracked as Nimbus Manticore (aka GalaxyGato, Mirage Kitten, Smoke Sandstorm, Subtle Snail, and UNC1549) has been attributed to a fresh set of attacks targeting e...",
-      "published": "2026-07-28T17:25:20+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "macOS Files and Folders System Settings Confusing UI",
-      "link": "https://lapcatsoftware.com/articles/2026/7/12.html",
-      "summary": "<p>Article URL: <a href=\"https://lapcatsoftware.com/articles/2026/7/12.html\">https://lapcatsoftware.com/articles/2026/7/12.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4...",
-      "published": "2026-07-28T14:06:47+00:00",
-      "domain": "lapcatsoftware.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Italy Blocks Reproductive Health Websites Women on Web and Women Help Women",
-      "link": "https://ooni.org/post/2026-italy-blocks-wow-and-whw",
-      "summary": "<p>Article URL: <a href=\"https://ooni.org/post/2026-italy-blocks-wow-and-whw\">https://ooni.org/post/2026-italy-blocks-wow-and-whw</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id...",
-      "published": "2026-07-28T14:05:51+00:00",
-      "domain": "ooni.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: I built an atlas linking genes, exposure, and disease by US county",
-      "link": "https://genarch.org/",
-      "summary": "<p>Article URL: <a href=\"https://genarch.org/\">https://genarch.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49084085\">https://news.ycombinator.com/item?id=49084085</a></...",
-      "published": "2026-07-28T14:05:10+00:00",
-      "domain": "genarch.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: Daily competitor-change briefs for local businesses",
-      "link": "https://myintelbrief.com/",
-      "summary": "<p>Article URL: <a href=\"https://myintelbrief.com/\">https://myintelbrief.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49084062\">https://news.ycombinator.com/item?id=4908...",
-      "published": "2026-07-28T14:03:01+00:00",
-      "domain": "myintelbrief.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Controlling your home with tiny, cheap touchscreens",
-      "link": "https://a.wholelottanothing.org/controlling-your-home-with-tiny-cheap-touchscreens/",
-      "summary": "<p>Article URL: <a href=\"https://a.wholelottanothing.org/controlling-your-home-with-tiny-cheap-touchscreens/\">https://a.wholelottanothing.org/controlling-your-home-with-tiny-cheap-touchscreens/</a></p...",
-      "published": "2026-07-28T14:01:17+00:00",
-      "domain": "a.wholelottanothing.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Critical TeamCity Flaw Could Let Attackers Run OS Commands Without Logging In",
-      "link": "https://thehackernews.com/2026/07/critical-teamcity-flaw-could-let.html",
-      "summary": "JetBrains is urging customers of on-premise versions of TeamCity to update to the latest version following the discovery of a critical security issue that could result in arbitrary code execution.\n\nTh...",
-      "published": "2026-07-28T13:41:22+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Researcher Says AI Helped Develop Linux Traffic-Control Race Into Root Exploit",
-      "link": "https://thehackernews.com/2026/07/researcher-says-ai-helped-develop-linux.html",
-      "summary": "STAR Labs has published a Linux kernel exploit that turns an ordinary local user into root on the CentOS Stream 9 build it targeted. The flaw, tracked as CVE-2026-53264 (CVSS score: 7.8), is a use-aft...",
-      "published": "2026-07-28T13:34:44+05:30",
-      "domain": "thehackernews.com",
+      "title": "Deflock Casa Grande",
+      "link": "https://deflockcg.com/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49088148\">Comments</a>...",
+      "published": "2026-07-28T18:41:48+00:00",
+      "domain": "deflockcg.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -487,6 +487,134 @@
   ],
   "all_articles": [
     {
+      "title": "Claude AI Just Cracked a Post-Quantum Test Scheme and Found a Faster 7-Round AES Attack",
+      "link": "https://thehackernews.com/2026/07/claude-ai-just-cracked-post-quantum.html",
+      "summary": "Anthropic says Claude Mythos Preview helped derive an end-to-end key-recovery attack against HAWK-256 and a 200- to 800-fold speedup for an attack on seven-round AES-128.\n\nThe HAWK attack exploits a p...",
+      "published": "2026-07-29T00:29:07+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Tengu Botnet Reboots Compromised Linux Devices When Defenders Kill Its Process",
+      "link": "https://thehackernews.com/2026/07/tengu-botnet-reboots-compromised-linux.html",
+      "summary": "A new Mirai-derived botnet called Tengu can use a compromised Linux device's hardware watchdog to trigger a reboot when defenders kill its main process.\n\nIf that happens, Tengu's other persistence mec...",
+      "published": "2026-07-28T20:31:33+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "24,650 Internet-Exposed BMCs Disclose IPMI Password Hashes Before Login",
+      "link": "https://thehackernews.com/2026/07/24650-internet-exposed-bmcs-disclose.html",
+      "summary": "Cybersecurity researchers have sounded an alert after finding more than 36,000 Baseboard Management Controller (BMC) management interfaces exposing Intelligent Platform Management Interface (IPMI) pro...",
+      "published": "2026-07-28T20:11:36+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "No, You Are Not Living in a Computer Simulation",
+      "link": "https://decodingvibes.com/blog/no-you-are-not-living-in-a-computer-simulation/",
+      "summary": "<p>Article URL: <a href=\"https://decodingvibes.com/blog/no-you-are-not-living-in-a-computer-simulation/\">https://decodingvibes.com/blog/no-you-are-not-living-in-a-computer-simulation/</a></p>\n<p>Comme...",
+      "published": "2026-07-28T19:19:13+00:00",
+      "domain": "decodingvibes.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "A Real Legacy Codebase",
+      "link": "https://www.smbc-comics.com/comic/codebase",
+      "summary": "<p>Article URL: <a href=\"https://www.smbc-comics.com/comic/codebase\">https://www.smbc-comics.com/comic/codebase</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49088607\">https:/...",
+      "published": "2026-07-28T19:18:16+00:00",
+      "domain": "smbc-comics.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "What if useful AI is a fantasy?",
+      "link": "https://lzon.ca/posts/other/llm-fantasy/",
+      "summary": "<p>Article URL: <a href=\"https://lzon.ca/posts/other/llm-fantasy/\">https://lzon.ca/posts/other/llm-fantasy/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49088595\">https://new...",
+      "published": "2026-07-28T19:17:37+00:00",
+      "domain": "lzon.ca",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Analysis of Opus 5's 'Contrition'",
+      "link": "https://github.com/curtis-arch/Why-Opus-feels-intolerable/blob/main/reports/recommended-instructions.md",
+      "summary": "<p>Article URL: <a href=\"https://github.com/curtis-arch/Why-Opus-feels-intolerable/blob/main/reports/recommended-instructions.md\">https://github.com/curtis-arch/Why-Opus-feels-intolerable/blob/main/re...",
+      "published": "2026-07-28T19:17:01+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Artificial Intelligence Is Artificial Thinking",
+      "link": "https://krezl.com/essays/artificial-intelligence-is-artificial-thinking",
+      "summary": "<p>Article URL: <a href=\"https://krezl.com/essays/artificial-intelligence-is-artificial-thinking\">https://krezl.com/essays/artificial-intelligence-is-artificial-thinking</a></p>\n<p>Comments URL: <a hr...",
+      "published": "2026-07-28T19:16:03+00:00",
+      "domain": "krezl.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "JFrog Confirms OpenAI Models Exploited Artifactory Zero-Day Before Hugging Face Breach",
       "link": "https://thehackernews.com/2026/07/jfrog-confirms-openai-models-exploited.html",
       "summary": "JFrog has confirmed that OpenAI models exploited a zero-day in self-hosted Artifactory while trying to reach the open internet from a sealed evaluation environment.\n\nArtifactory is JFrog's software re...",
@@ -503,139 +631,11 @@
       }
     },
     {
-      "title": "Critical OpenWrt DHCPv6 Flaw Could Let Unauthenticated Attackers Run Code as Root",
-      "link": "https://thehackernews.com/2026/07/critical-openwrt-dhcpv6-flaw-could-let.html",
-      "summary": "OpenWrt has shipped version 24.10.8 to close a critical DHCPv6 stack overflow and a wider set of remotely triggerable flaws in network services enabled by default.\n\nThe critical issue, tracked as CVE-...",
-      "published": "2026-07-28T18:26:14+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Nimbus Manticore Deploys NightLedger and Turns Victim Systems Into Covert Relays",
-      "link": "https://thehackernews.com/2026/07/nimbus-manticore-deploys-nightledger.html",
-      "summary": "The Iranian state-backed hacking group tracked as Nimbus Manticore (aka GalaxyGato, Mirage Kitten, Smoke Sandstorm, Subtle Snail, and UNC1549) has been attributed to a fresh set of attacks targeting e...",
-      "published": "2026-07-28T17:25:20+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "macOS Files and Folders System Settings Confusing UI",
-      "link": "https://lapcatsoftware.com/articles/2026/7/12.html",
-      "summary": "<p>Article URL: <a href=\"https://lapcatsoftware.com/articles/2026/7/12.html\">https://lapcatsoftware.com/articles/2026/7/12.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4...",
-      "published": "2026-07-28T14:06:47+00:00",
-      "domain": "lapcatsoftware.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Italy Blocks Reproductive Health Websites Women on Web and Women Help Women",
-      "link": "https://ooni.org/post/2026-italy-blocks-wow-and-whw",
-      "summary": "<p>Article URL: <a href=\"https://ooni.org/post/2026-italy-blocks-wow-and-whw\">https://ooni.org/post/2026-italy-blocks-wow-and-whw</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id...",
-      "published": "2026-07-28T14:05:51+00:00",
-      "domain": "ooni.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: I built an atlas linking genes, exposure, and disease by US county",
-      "link": "https://genarch.org/",
-      "summary": "<p>Article URL: <a href=\"https://genarch.org/\">https://genarch.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49084085\">https://news.ycombinator.com/item?id=49084085</a></...",
-      "published": "2026-07-28T14:05:10+00:00",
-      "domain": "genarch.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: Daily competitor-change briefs for local businesses",
-      "link": "https://myintelbrief.com/",
-      "summary": "<p>Article URL: <a href=\"https://myintelbrief.com/\">https://myintelbrief.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49084062\">https://news.ycombinator.com/item?id=4908...",
-      "published": "2026-07-28T14:03:01+00:00",
-      "domain": "myintelbrief.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Controlling your home with tiny, cheap touchscreens",
-      "link": "https://a.wholelottanothing.org/controlling-your-home-with-tiny-cheap-touchscreens/",
-      "summary": "<p>Article URL: <a href=\"https://a.wholelottanothing.org/controlling-your-home-with-tiny-cheap-touchscreens/\">https://a.wholelottanothing.org/controlling-your-home-with-tiny-cheap-touchscreens/</a></p...",
-      "published": "2026-07-28T14:01:17+00:00",
-      "domain": "a.wholelottanothing.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Critical TeamCity Flaw Could Let Attackers Run OS Commands Without Logging In",
-      "link": "https://thehackernews.com/2026/07/critical-teamcity-flaw-could-let.html",
-      "summary": "JetBrains is urging customers of on-premise versions of TeamCity to update to the latest version following the discovery of a critical security issue that could result in arbitrary code execution.\n\nTh...",
-      "published": "2026-07-28T13:41:22+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Researcher Says AI Helped Develop Linux Traffic-Control Race Into Root Exploit",
-      "link": "https://thehackernews.com/2026/07/researcher-says-ai-helped-develop-linux.html",
-      "summary": "STAR Labs has published a Linux kernel exploit that turns an ordinary local user into root on the CentOS Stream 9 build it targeted. The flaw, tracked as CVE-2026-53264 (CVSS score: 7.8), is a use-aft...",
-      "published": "2026-07-28T13:34:44+05:30",
-      "domain": "thehackernews.com",
+      "title": "Deflock Casa Grande",
+      "link": "https://deflockcg.com/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49088148\">Comments</a>...",
+      "published": "2026-07-28T18:41:48+00:00",
+      "domain": "deflockcg.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,

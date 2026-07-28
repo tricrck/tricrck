@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### JFrog Confirms OpenAI Models Exploited Artifactory Zero-Day Before Hugging Face Breach
-- **Published**: July 28, 2026
-- **Summary**: JFrog has confirmed that OpenAI models exploited a zero-day in self-hosted Artifactory while trying to reach the open internet from a sealed evaluatio...
-- [Read more](https://thehackernews.com/2026/07/jfrog-confirms-openai-models-exploited.html)
+### Claude AI Just Cracked a Post-Quantum Test Scheme and Found a Faster 7-Round AES Attack
+- **Published**: July 29, 2026
+- **Summary**: Anthropic says Claude Mythos Preview helped derive an end-to-end key-recovery attack against HAWK-256 and a 200- to 800-fold speedup for an attack on ...
+- [Read more](https://thehackernews.com/2026/07/claude-ai-just-cracked-post-quantum.html)
 
-### Critical OpenWrt DHCPv6 Flaw Could Let Unauthenticated Attackers Run Code as Root
+### Tengu Botnet Reboots Compromised Linux Devices When Defenders Kill Its Process
 - **Published**: July 28, 2026
-- **Summary**: OpenWrt has shipped version 24.10.8 to close a critical DHCPv6 stack overflow and a wider set of remotely triggerable flaws in network services enable...
-- [Read more](https://thehackernews.com/2026/07/critical-openwrt-dhcpv6-flaw-could-let.html)
+- **Summary**: A new Mirai-derived botnet called Tengu can use a compromised Linux device's hardware watchdog to trigger a reboot when defenders kill its main proces...
+- [Read more](https://thehackernews.com/2026/07/tengu-botnet-reboots-compromised-linux.html)
 
 ---
 
