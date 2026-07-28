@@ -16,17 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Microsoft Says New Cybersecurity AI Model Helps MDASH Hit 95.95% at Half the Cost
+### JFrog Confirms OpenAI Models Exploited Artifactory Zero-Day Before Hugging Face Breach
 - **Published**: July 28, 2026
-- **Summary**: Microsoft has launched its first cybersecurity-specific model inside MDASH, its multi-model vulnerability identification and remediation harness.
+- **Summary**: JFrog has confirmed that OpenAI models exploited a zero-day in self-hosted Artifactory while trying to reach the open internet from a sealed evaluatio...
+- [Read more](https://thehackernews.com/2026/07/jfrog-confirms-openai-models-exploited.html)
 
-The...
-- [Read more](https://thehackernews.com/2026/07/microsoft-says-new-cybersecurity-ai.html)
-
-### Attackers Exploit Arista VeloCloud Orchestrator Command Injection Flaw
+### Critical OpenWrt DHCPv6 Flaw Could Let Unauthenticated Attackers Run Code as Root
 - **Published**: July 28, 2026
-- **Summary**: A maximum-severity security flaw impacting on-premises versions of Arista VeloCloud Orchestrator (VCO) has come under active exploitation in the wild....
-- [Read more](https://thehackernews.com/2026/07/attackers-exploit-arista-velocloud.html)
+- **Summary**: OpenWrt has shipped version 24.10.8 to close a critical DHCPv6 stack overflow and a wider set of remotely triggerable flaws in network services enable...
+- [Read more](https://thehackernews.com/2026/07/critical-openwrt-dhcpv6-flaw-could-let.html)
 
 ---
 
