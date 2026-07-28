@@ -16,17 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Dysphoria IoT Botnet Adds Blockchain C2 and Victim Relays After JackSkid Disruption
-- **Published**: July 27, 2026
-- **Summary**: Dysphoria, an Internet of Things (IoT) botnet line tracked by CNCERT and XLab, has adopted blockchain-based name services and infected-device relays a...
-- **Keywords**: disruption
-- [Read more](https://thehackernews.com/2026/07/dysphoria-iot-botnet-adds-blockchain-c2.html)
-
-### EYG: A Programming Language for Humans
+### Microsoft Says New Cybersecurity AI Model Helps MDASH Hit 95.95% at Half the Cost
 - **Published**: July 28, 2026
-- **Summary**: https://crowdhailer.me/2026-06-08/a-programming-language-for-humans/</a></p>
-<p>Comments URL: <a href="ht......
-- [Read more](https://crowdhailer.me/2026-06-08/a-programming-language-for-humans/)
+- **Summary**: Microsoft has launched its first cybersecurity-specific model inside MDASH, its multi-model vulnerability identification and remediation harness.
+
+The...
+- [Read more](https://thehackernews.com/2026/07/microsoft-says-new-cybersecurity-ai.html)
+
+### Attackers Exploit Arista VeloCloud Orchestrator Command Injection Flaw
+- **Published**: July 28, 2026
+- **Summary**: A maximum-severity security flaw impacting on-premises versions of Arista VeloCloud Orchestrator (VCO) has come under active exploitation in the wild....
+- [Read more](https://thehackernews.com/2026/07/attackers-exploit-arista-velocloud.html)
 
 ---
 
