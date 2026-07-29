@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Researchers Show a Single Malicious Webpage Visit Can Compromise Tor Browser
+### Critical Rails Flaw Could Let Unauthenticated Attackers Read Server Files via Image Uploads
 - **Published**: July 29, 2026
-- **Summary**: Nebula Security says a patched Firefox JIT flaw could be triggered by simply visiting a malicious webpage and was also used to compromise Tor Browser....
-- **Keywords**: bug
-- [Read more](https://thehackernews.com/2026/07/researchers-show-single-malicious.html)
+- **Summary**: Ruby on Rails has released fixes for a critical Active Storage vulnerability that could let unauthenticated attackers read arbitrary files from applic...
+- [Read more](https://thehackernews.com/2026/07/critical-rails-flaw-could-let.html)
 
-### Mythos Asks the Right Question. It Doesn't Answer It.
+### Ruflo MCP Flaw Lets Unauthenticated Attackers Run Commands and Poison AI Memory
 - **Published**: July 29, 2026
-- **Summary**: AI is compressing exploit timelines. The real question isn't whether your vulnerability management playbook needs to change, it's which part of it you...
-- [Read more](https://thehackernews.com/2026/07/mythos-asks-right-question-it-doesnt.html)
+- **Summary**: Cybersecurity researchers have flagged a maximum-severity security flaw in Ruflo, an open-source agent meta-harness for Anthropic Claude Code and Open...
+- [Read more](https://thehackernews.com/2026/07/ruflo-mcp-flaw-lets-unauthenticated.html)
 
 ---
 

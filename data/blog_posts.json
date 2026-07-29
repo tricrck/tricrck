@@ -1,28 +1,10 @@
 {
   "chaos_ranked": [
     {
-      "title": "Researchers Show a Single Malicious Webpage Visit Can Compromise Tor Browser",
-      "link": "https://thehackernews.com/2026/07/researchers-show-single-malicious.html",
-      "summary": "Nebula Security says a patched Firefox JIT flaw could be triggered by simply visiting a malicious webpage and was also used to compromise Tor Browser.\n\nTracked as CVE-2026-10702, the bug provides arbi...",
-      "published": "2026-07-29T17:27:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 10.8,
-        "anarchy": 3.0,
-        "overall": 6.9
-      },
-      "keywords": {
-        "chaos": [
-          "bug"
-        ],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Mythos Asks the Right Question. It Doesn't Answer It.",
-      "link": "https://thehackernews.com/2026/07/mythos-asks-right-question-it-doesnt.html",
-      "summary": "AI is compressing exploit timelines. The real question isn't whether your vulnerability management playbook needs to change, it's which part of it you've been getting wrong all along.\n\nThe conversatio...",
-      "published": "2026-07-29T17:45:00+05:30",
+      "title": "Critical Rails Flaw Could Let Unauthenticated Attackers Read Server Files via Image Uploads",
+      "link": "https://thehackernews.com/2026/07/critical-rails-flaw-could-let.html",
+      "summary": "Ruby on Rails has released fixes for a critical Active Storage vulnerability that could let unauthenticated attackers read arbitrary files from application servers through crafted image uploads.\n\nTrac...",
+      "published": "2026-07-29T23:40:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -35,10 +17,10 @@
       }
     },
     {
-      "title": "73% of Organizations Say They Are Not Fully Ready for a Major Cyberattack",
-      "link": "https://thehackernews.com/2026/07/73-of-organizations-say-they-are-not.html",
-      "summary": "Most organizations have incident response plans, security tools, and technical teams in place. Yet new research suggests that many still lack the coordination, visibility, and executive alignment need...",
-      "published": "2026-07-29T16:43:10+05:30",
+      "title": "Ruflo MCP Flaw Lets Unauthenticated Attackers Run Commands and Poison AI Memory",
+      "link": "https://thehackernews.com/2026/07/ruflo-mcp-flaw-lets-unauthenticated.html",
+      "summary": "Cybersecurity researchers have flagged a maximum-severity security flaw in Ruflo, an open-source agent meta-harness for Anthropic Claude Code and OpenAI Codex, that could result in unauthenticated rem...",
+      "published": "2026-07-29T21:09:30+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -51,10 +33,10 @@
       }
     },
     {
-      "title": "Russia Charges Telegram Founder Pavel Durov With Aiding Terrorist Activity",
-      "link": "https://thehackernews.com/2026/07/russia-charges-telegram-founder-pavel.html",
-      "summary": "The Federal Security Service of the Russian Federation (FSB) on Wednesday said it charged Telegram founder Pavel Durov for allegedly facilitating terrorist activities and for failing to remove prohibi...",
-      "published": "2026-07-29T16:30:00+05:30",
+      "title": "Three Critical VMware Flaws Allow Auth Bypass, Code Execution, and VM Escape",
+      "link": "https://thehackernews.com/2026/07/three-critical-vmware-flaws-allow-auth.html",
+      "summary": "Broadcom has released security updates to address multiple security flaws impacting VMware ESX, vCenter, Workstation, and Fusion, three of which have been designated as critical in severity.\n\nThe firs...",
+      "published": "2026-07-29T21:01:15+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -67,10 +49,10 @@
       }
     },
     {
-      "title": "Public PoC Released for Exploited Check Point SmartConsole Authentication Bypass",
-      "link": "https://thehackernews.com/2026/07/rapid7-releases-poc-for-exploited-check.html",
-      "summary": "Cybersecurity researchers have shared additional technical details about a recently patched critical security flaw impacting Check Point Security Management Server and Multi-Domain Security Management...",
-      "published": "2026-07-29T14:28:27+05:30",
+      "title": "Coordinated Cyberattack Targets 30+ Minnesota Water Systems as One Plant Goes Offline",
+      "link": "https://thehackernews.com/2026/07/coordinated-cyberattack-targets-30.html",
+      "summary": "A coordinated cyberattack targeted operational technology at more than 30 Minnesota community water systems on July 26 and 27, triggering a statewide cybersecurity response.\n\nBraham, Plymouth, South S...",
+      "published": "2026-07-29T19:18:36+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -83,11 +65,11 @@
       }
     },
     {
-      "title": "Codex's 5-hour usage limit returns tomorrow",
-      "link": "https://twitter.com/thsottiaux/status/2082317452755751098",
-      "summary": "<p>Article URL: <a href=\"https://twitter.com/thsottiaux/status/2082317452755751098\">https://twitter.com/thsottiaux/status/2082317452755751098</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator...",
-      "published": "2026-07-29T14:09:07+00:00",
-      "domain": "twitter.com",
+      "title": "What happens if you eat too many gummy vitamins?",
+      "link": "https://www.popsci.com/science/can-you-overdose-gummy-vitamins/",
+      "summary": "<p>Article URL: <a href=\"https://www.popsci.com/science/can-you-overdose-gummy-vitamins/\">https://www.popsci.com/science/can-you-overdose-gummy-vitamins/</a></p>\n<p>Comments URL: <a href=\"https://news...",
+      "published": "2026-07-29T19:13:43+00:00",
+      "domain": "popsci.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -99,11 +81,11 @@
       }
     },
     {
-      "title": "An Android and iOS app from 7 Claude Code commands, every prompt and timing",
-      "link": "https://proandroiddev.com/seven-claude-code-commands-one-kotlin-multiplatform-app-on-android-and-ios-cb01e920a3e6",
-      "summary": "<p>Article URL: <a href=\"https://proandroiddev.com/seven-claude-code-commands-one-kotlin-multiplatform-app-on-android-and-ios-cb01e920a3e6\">https://proandroiddev.com/seven-claude-code-commands-one-kot...",
-      "published": "2026-07-29T14:08:57+00:00",
-      "domain": "proandroiddev.com",
+      "title": "Nine-Year Fraud Campaign Clones Russian Company Sites to Steal Advance Payments",
+      "link": "https://thehackernews.com/2026/07/nine-year-fraud-campaign.html",
+      "summary": "Cybersecurity researchers have disclosed details of a large-scale fraud campaign that involves creating lookalike websites of major Russian companies with an aim to siphon funds from international fir...",
+      "published": "2026-07-29T19:12:57+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -115,11 +97,11 @@
       }
     },
     {
-      "title": "Sprawl Repair (2011)",
-      "link": "https://www.terrain.org/articles/28/tachieva.htm",
-      "summary": "<p>Article URL: <a href=\"https://www.terrain.org/articles/28/tachieva.htm\">https://www.terrain.org/articles/28/tachieva.htm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49097...",
-      "published": "2026-07-29T14:08:44+00:00",
-      "domain": "terrain.org",
+      "title": "ProsFiles \u2013 local-first media utilities with URL ingest (OSINT smoke test)",
+      "link": "https://www.prosfiles.com/",
+      "summary": "<p>Article URL: <a href=\"https://www.prosfiles.com/\">https://www.prosfiles.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49101710\">https://news.ycombinator.com/item?id=49...",
+      "published": "2026-07-29T19:12:51+00:00",
+      "domain": "prosfiles.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -131,11 +113,11 @@
       }
     },
     {
-      "title": "New: SyncHours Find Overlap Feature",
-      "link": "https://synchours.app/",
-      "summary": "<p>Article URL: <a href=\"https://synchours.app/\">https://synchours.app/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49097747\">https://news.ycombinator.com/item?id=49097747</...",
-      "published": "2026-07-29T14:06:49+00:00",
-      "domain": "synchours.app",
+      "title": "NanoClaw and Echo patch vulnerabilities in agent's runtime, browser, and libs",
+      "link": "https://nanoclaw.dev/blog/nanoclaw-echo-hardened-agent-runtime/",
+      "summary": "<p>Article URL: <a href=\"https://nanoclaw.dev/blog/nanoclaw-echo-hardened-agent-runtime/\">https://nanoclaw.dev/blog/nanoclaw-echo-hardened-agent-runtime/</a></p>\n<p>Comments URL: <a href=\"https://news...",
+      "published": "2026-07-29T19:11:38+00:00",
+      "domain": "nanoclaw.dev",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -147,11 +129,27 @@
       }
     },
     {
-      "title": "Destination Earth",
-      "link": "https://destination-earth.eu/",
-      "summary": "<p>Article URL: <a href=\"https://destination-earth.eu/\">https://destination-earth.eu/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49097744\">https://news.ycombinator.com/item...",
-      "published": "2026-07-29T14:06:39+00:00",
-      "domain": "destination-earth.eu",
+      "title": "Keyboardion",
+      "link": "https://ianthehenry.com/posts/keyboardion/",
+      "summary": "<p>Article URL: <a href=\"https://ianthehenry.com/posts/keyboardion/\">https://ianthehenry.com/posts/keyboardion/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49101695\">https:/...",
+      "published": "2026-07-29T19:10:43+00:00",
+      "domain": "ianthehenry.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "JLC PCB SMD Assembly Component Catalogue",
+      "link": "https://yaqwsx.github.io/jlcparts/",
+      "summary": "<p>Article URL: <a href=\"https://yaqwsx.github.io/jlcparts/\">https://yaqwsx.github.io/jlcparts/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49101674\">https://news.ycombinato...",
+      "published": "2026-07-29T19:08:36+00:00",
+      "domain": "yaqwsx.github.io",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -165,10 +163,10 @@
   ],
   "anarchy_ranked": [
     {
-      "title": "Mythos Asks the Right Question. It Doesn't Answer It.",
-      "link": "https://thehackernews.com/2026/07/mythos-asks-right-question-it-doesnt.html",
-      "summary": "AI is compressing exploit timelines. The real question isn't whether your vulnerability management playbook needs to change, it's which part of it you've been getting wrong all along.\n\nThe conversatio...",
-      "published": "2026-07-29T17:45:00+05:30",
+      "title": "Critical Rails Flaw Could Let Unauthenticated Attackers Read Server Files via Image Uploads",
+      "link": "https://thehackernews.com/2026/07/critical-rails-flaw-could-let.html",
+      "summary": "Ruby on Rails has released fixes for a critical Active Storage vulnerability that could let unauthenticated attackers read arbitrary files from application servers through crafted image uploads.\n\nTrac...",
+      "published": "2026-07-29T23:40:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -181,28 +179,10 @@
       }
     },
     {
-      "title": "Researchers Show a Single Malicious Webpage Visit Can Compromise Tor Browser",
-      "link": "https://thehackernews.com/2026/07/researchers-show-single-malicious.html",
-      "summary": "Nebula Security says a patched Firefox JIT flaw could be triggered by simply visiting a malicious webpage and was also used to compromise Tor Browser.\n\nTracked as CVE-2026-10702, the bug provides arbi...",
-      "published": "2026-07-29T17:27:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 10.8,
-        "anarchy": 3.0,
-        "overall": 6.9
-      },
-      "keywords": {
-        "chaos": [
-          "bug"
-        ],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "73% of Organizations Say They Are Not Fully Ready for a Major Cyberattack",
-      "link": "https://thehackernews.com/2026/07/73-of-organizations-say-they-are-not.html",
-      "summary": "Most organizations have incident response plans, security tools, and technical teams in place. Yet new research suggests that many still lack the coordination, visibility, and executive alignment need...",
-      "published": "2026-07-29T16:43:10+05:30",
+      "title": "Ruflo MCP Flaw Lets Unauthenticated Attackers Run Commands and Poison AI Memory",
+      "link": "https://thehackernews.com/2026/07/ruflo-mcp-flaw-lets-unauthenticated.html",
+      "summary": "Cybersecurity researchers have flagged a maximum-severity security flaw in Ruflo, an open-source agent meta-harness for Anthropic Claude Code and OpenAI Codex, that could result in unauthenticated rem...",
+      "published": "2026-07-29T21:09:30+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -215,10 +195,10 @@
       }
     },
     {
-      "title": "Russia Charges Telegram Founder Pavel Durov With Aiding Terrorist Activity",
-      "link": "https://thehackernews.com/2026/07/russia-charges-telegram-founder-pavel.html",
-      "summary": "The Federal Security Service of the Russian Federation (FSB) on Wednesday said it charged Telegram founder Pavel Durov for allegedly facilitating terrorist activities and for failing to remove prohibi...",
-      "published": "2026-07-29T16:30:00+05:30",
+      "title": "Three Critical VMware Flaws Allow Auth Bypass, Code Execution, and VM Escape",
+      "link": "https://thehackernews.com/2026/07/three-critical-vmware-flaws-allow-auth.html",
+      "summary": "Broadcom has released security updates to address multiple security flaws impacting VMware ESX, vCenter, Workstation, and Fusion, three of which have been designated as critical in severity.\n\nThe firs...",
+      "published": "2026-07-29T21:01:15+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -231,10 +211,10 @@
       }
     },
     {
-      "title": "Public PoC Released for Exploited Check Point SmartConsole Authentication Bypass",
-      "link": "https://thehackernews.com/2026/07/rapid7-releases-poc-for-exploited-check.html",
-      "summary": "Cybersecurity researchers have shared additional technical details about a recently patched critical security flaw impacting Check Point Security Management Server and Multi-Domain Security Management...",
-      "published": "2026-07-29T14:28:27+05:30",
+      "title": "Coordinated Cyberattack Targets 30+ Minnesota Water Systems as One Plant Goes Offline",
+      "link": "https://thehackernews.com/2026/07/coordinated-cyberattack-targets-30.html",
+      "summary": "A coordinated cyberattack targeted operational technology at more than 30 Minnesota community water systems on July 26 and 27, triggering a statewide cybersecurity response.\n\nBraham, Plymouth, South S...",
+      "published": "2026-07-29T19:18:36+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -247,11 +227,11 @@
       }
     },
     {
-      "title": "Codex's 5-hour usage limit returns tomorrow",
-      "link": "https://twitter.com/thsottiaux/status/2082317452755751098",
-      "summary": "<p>Article URL: <a href=\"https://twitter.com/thsottiaux/status/2082317452755751098\">https://twitter.com/thsottiaux/status/2082317452755751098</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator...",
-      "published": "2026-07-29T14:09:07+00:00",
-      "domain": "twitter.com",
+      "title": "What happens if you eat too many gummy vitamins?",
+      "link": "https://www.popsci.com/science/can-you-overdose-gummy-vitamins/",
+      "summary": "<p>Article URL: <a href=\"https://www.popsci.com/science/can-you-overdose-gummy-vitamins/\">https://www.popsci.com/science/can-you-overdose-gummy-vitamins/</a></p>\n<p>Comments URL: <a href=\"https://news...",
+      "published": "2026-07-29T19:13:43+00:00",
+      "domain": "popsci.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -263,11 +243,11 @@
       }
     },
     {
-      "title": "An Android and iOS app from 7 Claude Code commands, every prompt and timing",
-      "link": "https://proandroiddev.com/seven-claude-code-commands-one-kotlin-multiplatform-app-on-android-and-ios-cb01e920a3e6",
-      "summary": "<p>Article URL: <a href=\"https://proandroiddev.com/seven-claude-code-commands-one-kotlin-multiplatform-app-on-android-and-ios-cb01e920a3e6\">https://proandroiddev.com/seven-claude-code-commands-one-kot...",
-      "published": "2026-07-29T14:08:57+00:00",
-      "domain": "proandroiddev.com",
+      "title": "Nine-Year Fraud Campaign Clones Russian Company Sites to Steal Advance Payments",
+      "link": "https://thehackernews.com/2026/07/nine-year-fraud-campaign.html",
+      "summary": "Cybersecurity researchers have disclosed details of a large-scale fraud campaign that involves creating lookalike websites of major Russian companies with an aim to siphon funds from international fir...",
+      "published": "2026-07-29T19:12:57+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -279,11 +259,11 @@
       }
     },
     {
-      "title": "Sprawl Repair (2011)",
-      "link": "https://www.terrain.org/articles/28/tachieva.htm",
-      "summary": "<p>Article URL: <a href=\"https://www.terrain.org/articles/28/tachieva.htm\">https://www.terrain.org/articles/28/tachieva.htm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49097...",
-      "published": "2026-07-29T14:08:44+00:00",
-      "domain": "terrain.org",
+      "title": "ProsFiles \u2013 local-first media utilities with URL ingest (OSINT smoke test)",
+      "link": "https://www.prosfiles.com/",
+      "summary": "<p>Article URL: <a href=\"https://www.prosfiles.com/\">https://www.prosfiles.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49101710\">https://news.ycombinator.com/item?id=49...",
+      "published": "2026-07-29T19:12:51+00:00",
+      "domain": "prosfiles.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -295,11 +275,11 @@
       }
     },
     {
-      "title": "New: SyncHours Find Overlap Feature",
-      "link": "https://synchours.app/",
-      "summary": "<p>Article URL: <a href=\"https://synchours.app/\">https://synchours.app/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49097747\">https://news.ycombinator.com/item?id=49097747</...",
-      "published": "2026-07-29T14:06:49+00:00",
-      "domain": "synchours.app",
+      "title": "NanoClaw and Echo patch vulnerabilities in agent's runtime, browser, and libs",
+      "link": "https://nanoclaw.dev/blog/nanoclaw-echo-hardened-agent-runtime/",
+      "summary": "<p>Article URL: <a href=\"https://nanoclaw.dev/blog/nanoclaw-echo-hardened-agent-runtime/\">https://nanoclaw.dev/blog/nanoclaw-echo-hardened-agent-runtime/</a></p>\n<p>Comments URL: <a href=\"https://news...",
+      "published": "2026-07-29T19:11:38+00:00",
+      "domain": "nanoclaw.dev",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -311,11 +291,27 @@
       }
     },
     {
-      "title": "Destination Earth",
-      "link": "https://destination-earth.eu/",
-      "summary": "<p>Article URL: <a href=\"https://destination-earth.eu/\">https://destination-earth.eu/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49097744\">https://news.ycombinator.com/item...",
-      "published": "2026-07-29T14:06:39+00:00",
-      "domain": "destination-earth.eu",
+      "title": "Keyboardion",
+      "link": "https://ianthehenry.com/posts/keyboardion/",
+      "summary": "<p>Article URL: <a href=\"https://ianthehenry.com/posts/keyboardion/\">https://ianthehenry.com/posts/keyboardion/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49101695\">https:/...",
+      "published": "2026-07-29T19:10:43+00:00",
+      "domain": "ianthehenry.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "JLC PCB SMD Assembly Component Catalogue",
+      "link": "https://yaqwsx.github.io/jlcparts/",
+      "summary": "<p>Article URL: <a href=\"https://yaqwsx.github.io/jlcparts/\">https://yaqwsx.github.io/jlcparts/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49101674\">https://news.ycombinato...",
+      "published": "2026-07-29T19:08:36+00:00",
+      "domain": "yaqwsx.github.io",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -329,28 +325,10 @@
   ],
   "overall_ranked": [
     {
-      "title": "Researchers Show a Single Malicious Webpage Visit Can Compromise Tor Browser",
-      "link": "https://thehackernews.com/2026/07/researchers-show-single-malicious.html",
-      "summary": "Nebula Security says a patched Firefox JIT flaw could be triggered by simply visiting a malicious webpage and was also used to compromise Tor Browser.\n\nTracked as CVE-2026-10702, the bug provides arbi...",
-      "published": "2026-07-29T17:27:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 10.8,
-        "anarchy": 3.0,
-        "overall": 6.9
-      },
-      "keywords": {
-        "chaos": [
-          "bug"
-        ],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Mythos Asks the Right Question. It Doesn't Answer It.",
-      "link": "https://thehackernews.com/2026/07/mythos-asks-right-question-it-doesnt.html",
-      "summary": "AI is compressing exploit timelines. The real question isn't whether your vulnerability management playbook needs to change, it's which part of it you've been getting wrong all along.\n\nThe conversatio...",
-      "published": "2026-07-29T17:45:00+05:30",
+      "title": "Critical Rails Flaw Could Let Unauthenticated Attackers Read Server Files via Image Uploads",
+      "link": "https://thehackernews.com/2026/07/critical-rails-flaw-could-let.html",
+      "summary": "Ruby on Rails has released fixes for a critical Active Storage vulnerability that could let unauthenticated attackers read arbitrary files from application servers through crafted image uploads.\n\nTrac...",
+      "published": "2026-07-29T23:40:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -363,10 +341,10 @@
       }
     },
     {
-      "title": "73% of Organizations Say They Are Not Fully Ready for a Major Cyberattack",
-      "link": "https://thehackernews.com/2026/07/73-of-organizations-say-they-are-not.html",
-      "summary": "Most organizations have incident response plans, security tools, and technical teams in place. Yet new research suggests that many still lack the coordination, visibility, and executive alignment need...",
-      "published": "2026-07-29T16:43:10+05:30",
+      "title": "Ruflo MCP Flaw Lets Unauthenticated Attackers Run Commands and Poison AI Memory",
+      "link": "https://thehackernews.com/2026/07/ruflo-mcp-flaw-lets-unauthenticated.html",
+      "summary": "Cybersecurity researchers have flagged a maximum-severity security flaw in Ruflo, an open-source agent meta-harness for Anthropic Claude Code and OpenAI Codex, that could result in unauthenticated rem...",
+      "published": "2026-07-29T21:09:30+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -379,10 +357,10 @@
       }
     },
     {
-      "title": "Russia Charges Telegram Founder Pavel Durov With Aiding Terrorist Activity",
-      "link": "https://thehackernews.com/2026/07/russia-charges-telegram-founder-pavel.html",
-      "summary": "The Federal Security Service of the Russian Federation (FSB) on Wednesday said it charged Telegram founder Pavel Durov for allegedly facilitating terrorist activities and for failing to remove prohibi...",
-      "published": "2026-07-29T16:30:00+05:30",
+      "title": "Three Critical VMware Flaws Allow Auth Bypass, Code Execution, and VM Escape",
+      "link": "https://thehackernews.com/2026/07/three-critical-vmware-flaws-allow-auth.html",
+      "summary": "Broadcom has released security updates to address multiple security flaws impacting VMware ESX, vCenter, Workstation, and Fusion, three of which have been designated as critical in severity.\n\nThe firs...",
+      "published": "2026-07-29T21:01:15+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -395,10 +373,10 @@
       }
     },
     {
-      "title": "Public PoC Released for Exploited Check Point SmartConsole Authentication Bypass",
-      "link": "https://thehackernews.com/2026/07/rapid7-releases-poc-for-exploited-check.html",
-      "summary": "Cybersecurity researchers have shared additional technical details about a recently patched critical security flaw impacting Check Point Security Management Server and Multi-Domain Security Management...",
-      "published": "2026-07-29T14:28:27+05:30",
+      "title": "Coordinated Cyberattack Targets 30+ Minnesota Water Systems as One Plant Goes Offline",
+      "link": "https://thehackernews.com/2026/07/coordinated-cyberattack-targets-30.html",
+      "summary": "A coordinated cyberattack targeted operational technology at more than 30 Minnesota community water systems on July 26 and 27, triggering a statewide cybersecurity response.\n\nBraham, Plymouth, South S...",
+      "published": "2026-07-29T19:18:36+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -411,11 +389,11 @@
       }
     },
     {
-      "title": "Codex's 5-hour usage limit returns tomorrow",
-      "link": "https://twitter.com/thsottiaux/status/2082317452755751098",
-      "summary": "<p>Article URL: <a href=\"https://twitter.com/thsottiaux/status/2082317452755751098\">https://twitter.com/thsottiaux/status/2082317452755751098</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator...",
-      "published": "2026-07-29T14:09:07+00:00",
-      "domain": "twitter.com",
+      "title": "What happens if you eat too many gummy vitamins?",
+      "link": "https://www.popsci.com/science/can-you-overdose-gummy-vitamins/",
+      "summary": "<p>Article URL: <a href=\"https://www.popsci.com/science/can-you-overdose-gummy-vitamins/\">https://www.popsci.com/science/can-you-overdose-gummy-vitamins/</a></p>\n<p>Comments URL: <a href=\"https://news...",
+      "published": "2026-07-29T19:13:43+00:00",
+      "domain": "popsci.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -427,11 +405,11 @@
       }
     },
     {
-      "title": "An Android and iOS app from 7 Claude Code commands, every prompt and timing",
-      "link": "https://proandroiddev.com/seven-claude-code-commands-one-kotlin-multiplatform-app-on-android-and-ios-cb01e920a3e6",
-      "summary": "<p>Article URL: <a href=\"https://proandroiddev.com/seven-claude-code-commands-one-kotlin-multiplatform-app-on-android-and-ios-cb01e920a3e6\">https://proandroiddev.com/seven-claude-code-commands-one-kot...",
-      "published": "2026-07-29T14:08:57+00:00",
-      "domain": "proandroiddev.com",
+      "title": "Nine-Year Fraud Campaign Clones Russian Company Sites to Steal Advance Payments",
+      "link": "https://thehackernews.com/2026/07/nine-year-fraud-campaign.html",
+      "summary": "Cybersecurity researchers have disclosed details of a large-scale fraud campaign that involves creating lookalike websites of major Russian companies with an aim to siphon funds from international fir...",
+      "published": "2026-07-29T19:12:57+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -443,11 +421,11 @@
       }
     },
     {
-      "title": "Sprawl Repair (2011)",
-      "link": "https://www.terrain.org/articles/28/tachieva.htm",
-      "summary": "<p>Article URL: <a href=\"https://www.terrain.org/articles/28/tachieva.htm\">https://www.terrain.org/articles/28/tachieva.htm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49097...",
-      "published": "2026-07-29T14:08:44+00:00",
-      "domain": "terrain.org",
+      "title": "ProsFiles \u2013 local-first media utilities with URL ingest (OSINT smoke test)",
+      "link": "https://www.prosfiles.com/",
+      "summary": "<p>Article URL: <a href=\"https://www.prosfiles.com/\">https://www.prosfiles.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49101710\">https://news.ycombinator.com/item?id=49...",
+      "published": "2026-07-29T19:12:51+00:00",
+      "domain": "prosfiles.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -459,11 +437,11 @@
       }
     },
     {
-      "title": "New: SyncHours Find Overlap Feature",
-      "link": "https://synchours.app/",
-      "summary": "<p>Article URL: <a href=\"https://synchours.app/\">https://synchours.app/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49097747\">https://news.ycombinator.com/item?id=49097747</...",
-      "published": "2026-07-29T14:06:49+00:00",
-      "domain": "synchours.app",
+      "title": "NanoClaw and Echo patch vulnerabilities in agent's runtime, browser, and libs",
+      "link": "https://nanoclaw.dev/blog/nanoclaw-echo-hardened-agent-runtime/",
+      "summary": "<p>Article URL: <a href=\"https://nanoclaw.dev/blog/nanoclaw-echo-hardened-agent-runtime/\">https://nanoclaw.dev/blog/nanoclaw-echo-hardened-agent-runtime/</a></p>\n<p>Comments URL: <a href=\"https://news...",
+      "published": "2026-07-29T19:11:38+00:00",
+      "domain": "nanoclaw.dev",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -475,11 +453,27 @@
       }
     },
     {
-      "title": "Destination Earth",
-      "link": "https://destination-earth.eu/",
-      "summary": "<p>Article URL: <a href=\"https://destination-earth.eu/\">https://destination-earth.eu/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49097744\">https://news.ycombinator.com/item...",
-      "published": "2026-07-29T14:06:39+00:00",
-      "domain": "destination-earth.eu",
+      "title": "Keyboardion",
+      "link": "https://ianthehenry.com/posts/keyboardion/",
+      "summary": "<p>Article URL: <a href=\"https://ianthehenry.com/posts/keyboardion/\">https://ianthehenry.com/posts/keyboardion/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49101695\">https:/...",
+      "published": "2026-07-29T19:10:43+00:00",
+      "domain": "ianthehenry.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "JLC PCB SMD Assembly Component Catalogue",
+      "link": "https://yaqwsx.github.io/jlcparts/",
+      "summary": "<p>Article URL: <a href=\"https://yaqwsx.github.io/jlcparts/\">https://yaqwsx.github.io/jlcparts/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49101674\">https://news.ycombinato...",
+      "published": "2026-07-29T19:08:36+00:00",
+      "domain": "yaqwsx.github.io",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -493,10 +487,10 @@
   ],
   "all_articles": [
     {
-      "title": "Mythos Asks the Right Question. It Doesn't Answer It.",
-      "link": "https://thehackernews.com/2026/07/mythos-asks-right-question-it-doesnt.html",
-      "summary": "AI is compressing exploit timelines. The real question isn't whether your vulnerability management playbook needs to change, it's which part of it you've been getting wrong all along.\n\nThe conversatio...",
-      "published": "2026-07-29T17:45:00+05:30",
+      "title": "Critical Rails Flaw Could Let Unauthenticated Attackers Read Server Files via Image Uploads",
+      "link": "https://thehackernews.com/2026/07/critical-rails-flaw-could-let.html",
+      "summary": "Ruby on Rails has released fixes for a critical Active Storage vulnerability that could let unauthenticated attackers read arbitrary files from application servers through crafted image uploads.\n\nTrac...",
+      "published": "2026-07-29T23:40:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -509,28 +503,10 @@
       }
     },
     {
-      "title": "Researchers Show a Single Malicious Webpage Visit Can Compromise Tor Browser",
-      "link": "https://thehackernews.com/2026/07/researchers-show-single-malicious.html",
-      "summary": "Nebula Security says a patched Firefox JIT flaw could be triggered by simply visiting a malicious webpage and was also used to compromise Tor Browser.\n\nTracked as CVE-2026-10702, the bug provides arbi...",
-      "published": "2026-07-29T17:27:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 10.8,
-        "anarchy": 3.0,
-        "overall": 6.9
-      },
-      "keywords": {
-        "chaos": [
-          "bug"
-        ],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "73% of Organizations Say They Are Not Fully Ready for a Major Cyberattack",
-      "link": "https://thehackernews.com/2026/07/73-of-organizations-say-they-are-not.html",
-      "summary": "Most organizations have incident response plans, security tools, and technical teams in place. Yet new research suggests that many still lack the coordination, visibility, and executive alignment need...",
-      "published": "2026-07-29T16:43:10+05:30",
+      "title": "Ruflo MCP Flaw Lets Unauthenticated Attackers Run Commands and Poison AI Memory",
+      "link": "https://thehackernews.com/2026/07/ruflo-mcp-flaw-lets-unauthenticated.html",
+      "summary": "Cybersecurity researchers have flagged a maximum-severity security flaw in Ruflo, an open-source agent meta-harness for Anthropic Claude Code and OpenAI Codex, that could result in unauthenticated rem...",
+      "published": "2026-07-29T21:09:30+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -543,10 +519,10 @@
       }
     },
     {
-      "title": "Russia Charges Telegram Founder Pavel Durov With Aiding Terrorist Activity",
-      "link": "https://thehackernews.com/2026/07/russia-charges-telegram-founder-pavel.html",
-      "summary": "The Federal Security Service of the Russian Federation (FSB) on Wednesday said it charged Telegram founder Pavel Durov for allegedly facilitating terrorist activities and for failing to remove prohibi...",
-      "published": "2026-07-29T16:30:00+05:30",
+      "title": "Three Critical VMware Flaws Allow Auth Bypass, Code Execution, and VM Escape",
+      "link": "https://thehackernews.com/2026/07/three-critical-vmware-flaws-allow-auth.html",
+      "summary": "Broadcom has released security updates to address multiple security flaws impacting VMware ESX, vCenter, Workstation, and Fusion, three of which have been designated as critical in severity.\n\nThe firs...",
+      "published": "2026-07-29T21:01:15+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -559,10 +535,10 @@
       }
     },
     {
-      "title": "Public PoC Released for Exploited Check Point SmartConsole Authentication Bypass",
-      "link": "https://thehackernews.com/2026/07/rapid7-releases-poc-for-exploited-check.html",
-      "summary": "Cybersecurity researchers have shared additional technical details about a recently patched critical security flaw impacting Check Point Security Management Server and Multi-Domain Security Management...",
-      "published": "2026-07-29T14:28:27+05:30",
+      "title": "Coordinated Cyberattack Targets 30+ Minnesota Water Systems as One Plant Goes Offline",
+      "link": "https://thehackernews.com/2026/07/coordinated-cyberattack-targets-30.html",
+      "summary": "A coordinated cyberattack targeted operational technology at more than 30 Minnesota community water systems on July 26 and 27, triggering a statewide cybersecurity response.\n\nBraham, Plymouth, South S...",
+      "published": "2026-07-29T19:18:36+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -575,11 +551,11 @@
       }
     },
     {
-      "title": "Codex's 5-hour usage limit returns tomorrow",
-      "link": "https://twitter.com/thsottiaux/status/2082317452755751098",
-      "summary": "<p>Article URL: <a href=\"https://twitter.com/thsottiaux/status/2082317452755751098\">https://twitter.com/thsottiaux/status/2082317452755751098</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator...",
-      "published": "2026-07-29T14:09:07+00:00",
-      "domain": "twitter.com",
+      "title": "What happens if you eat too many gummy vitamins?",
+      "link": "https://www.popsci.com/science/can-you-overdose-gummy-vitamins/",
+      "summary": "<p>Article URL: <a href=\"https://www.popsci.com/science/can-you-overdose-gummy-vitamins/\">https://www.popsci.com/science/can-you-overdose-gummy-vitamins/</a></p>\n<p>Comments URL: <a href=\"https://news...",
+      "published": "2026-07-29T19:13:43+00:00",
+      "domain": "popsci.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -591,11 +567,11 @@
       }
     },
     {
-      "title": "An Android and iOS app from 7 Claude Code commands, every prompt and timing",
-      "link": "https://proandroiddev.com/seven-claude-code-commands-one-kotlin-multiplatform-app-on-android-and-ios-cb01e920a3e6",
-      "summary": "<p>Article URL: <a href=\"https://proandroiddev.com/seven-claude-code-commands-one-kotlin-multiplatform-app-on-android-and-ios-cb01e920a3e6\">https://proandroiddev.com/seven-claude-code-commands-one-kot...",
-      "published": "2026-07-29T14:08:57+00:00",
-      "domain": "proandroiddev.com",
+      "title": "Nine-Year Fraud Campaign Clones Russian Company Sites to Steal Advance Payments",
+      "link": "https://thehackernews.com/2026/07/nine-year-fraud-campaign.html",
+      "summary": "Cybersecurity researchers have disclosed details of a large-scale fraud campaign that involves creating lookalike websites of major Russian companies with an aim to siphon funds from international fir...",
+      "published": "2026-07-29T19:12:57+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -607,11 +583,11 @@
       }
     },
     {
-      "title": "Sprawl Repair (2011)",
-      "link": "https://www.terrain.org/articles/28/tachieva.htm",
-      "summary": "<p>Article URL: <a href=\"https://www.terrain.org/articles/28/tachieva.htm\">https://www.terrain.org/articles/28/tachieva.htm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49097...",
-      "published": "2026-07-29T14:08:44+00:00",
-      "domain": "terrain.org",
+      "title": "ProsFiles \u2013 local-first media utilities with URL ingest (OSINT smoke test)",
+      "link": "https://www.prosfiles.com/",
+      "summary": "<p>Article URL: <a href=\"https://www.prosfiles.com/\">https://www.prosfiles.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49101710\">https://news.ycombinator.com/item?id=49...",
+      "published": "2026-07-29T19:12:51+00:00",
+      "domain": "prosfiles.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -623,11 +599,11 @@
       }
     },
     {
-      "title": "New: SyncHours Find Overlap Feature",
-      "link": "https://synchours.app/",
-      "summary": "<p>Article URL: <a href=\"https://synchours.app/\">https://synchours.app/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49097747\">https://news.ycombinator.com/item?id=49097747</...",
-      "published": "2026-07-29T14:06:49+00:00",
-      "domain": "synchours.app",
+      "title": "NanoClaw and Echo patch vulnerabilities in agent's runtime, browser, and libs",
+      "link": "https://nanoclaw.dev/blog/nanoclaw-echo-hardened-agent-runtime/",
+      "summary": "<p>Article URL: <a href=\"https://nanoclaw.dev/blog/nanoclaw-echo-hardened-agent-runtime/\">https://nanoclaw.dev/blog/nanoclaw-echo-hardened-agent-runtime/</a></p>\n<p>Comments URL: <a href=\"https://news...",
+      "published": "2026-07-29T19:11:38+00:00",
+      "domain": "nanoclaw.dev",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -639,11 +615,27 @@
       }
     },
     {
-      "title": "Destination Earth",
-      "link": "https://destination-earth.eu/",
-      "summary": "<p>Article URL: <a href=\"https://destination-earth.eu/\">https://destination-earth.eu/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49097744\">https://news.ycombinator.com/item...",
-      "published": "2026-07-29T14:06:39+00:00",
-      "domain": "destination-earth.eu",
+      "title": "Keyboardion",
+      "link": "https://ianthehenry.com/posts/keyboardion/",
+      "summary": "<p>Article URL: <a href=\"https://ianthehenry.com/posts/keyboardion/\">https://ianthehenry.com/posts/keyboardion/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49101695\">https:/...",
+      "published": "2026-07-29T19:10:43+00:00",
+      "domain": "ianthehenry.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "JLC PCB SMD Assembly Component Catalogue",
+      "link": "https://yaqwsx.github.io/jlcparts/",
+      "summary": "<p>Article URL: <a href=\"https://yaqwsx.github.io/jlcparts/\">https://yaqwsx.github.io/jlcparts/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49101674\">https://news.ycombinato...",
+      "published": "2026-07-29T19:08:36+00:00",
+      "domain": "yaqwsx.github.io",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
