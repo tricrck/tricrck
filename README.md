@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Steve Jobs emails himself (2010)
+### Post with links will no longer be nerfed on X
 - **Published**: July 29, 2026
-- **Summary**: https://twitter.com/TechEmails/status/1567712985979707393</a></p>
-<p>Comments URL: <a href="https://news.ycombinator......
-- [Read more](https://twitter.com/TechEmails/status/1567712985979707393)
+- **Summary**: <p>so nikita said recently in a reply to zuck's tweet that posting link in thread is no longer needed, the main post's links won't make your reach dow...
+- **Keywords**: down
+- [Read more](https://news.ycombinator.com/item?id=49094763)
 
-### Does every question mark deserve a Betteridge?
+### Flying Eagle Android RAT Traces Found on 170 Servers as Source Code Circulates
 - **Published**: July 29, 2026
-- **Summary**: https://dynomight.net/betteridge/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49092781">https://news.ycombinator.......
-- [Read more](https://dynomight.net/betteridge/)
+- **Summary**: Source code for the Flying Eagle Android remote access trojan (RAT) framework is circulating through criminal Telegram channels. Hunt.io and independe...
+- [Read more](https://thehackernews.com/2026/07/flying-eagle-android-rat-traces-found.html)
 
 ---
 
