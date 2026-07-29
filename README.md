@@ -16,15 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Claude AI Just Cracked a Post-Quantum Test Scheme and Found a Faster 7-Round AES Attack
+### Steve Jobs emails himself (2010)
 - **Published**: July 29, 2026
-- **Summary**: Anthropic says Claude Mythos Preview helped derive an end-to-end key-recovery attack against HAWK-256 and a 200- to 800-fold speedup for an attack on ...
-- [Read more](https://thehackernews.com/2026/07/claude-ai-just-cracked-post-quantum.html)
+- **Summary**: https://twitter.com/TechEmails/status/1567712985979707393</a></p>
+<p>Comments URL: <a href="https://news.ycombinator......
+- [Read more](https://twitter.com/TechEmails/status/1567712985979707393)
 
-### Tengu Botnet Reboots Compromised Linux Devices When Defenders Kill Its Process
-- **Published**: July 28, 2026
-- **Summary**: A new Mirai-derived botnet called Tengu can use a compromised Linux device's hardware watchdog to trigger a reboot when defenders kill its main proces...
-- [Read more](https://thehackernews.com/2026/07/tengu-botnet-reboots-compromised-linux.html)
+### Does every question mark deserve a Betteridge?
+- **Published**: July 29, 2026
+- **Summary**: https://dynomight.net/betteridge/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49092781">https://news.ycombinator.......
+- [Read more](https://dynomight.net/betteridge/)
 
 ---
 
