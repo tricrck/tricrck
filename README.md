@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Post with links will no longer be nerfed on X
+### Researchers Show a Single Malicious Webpage Visit Can Compromise Tor Browser
 - **Published**: July 29, 2026
-- **Summary**: <p>so nikita said recently in a reply to zuck's tweet that posting link in thread is no longer needed, the main post's links won't make your reach dow...
-- **Keywords**: down
-- [Read more](https://news.ycombinator.com/item?id=49094763)
+- **Summary**: Nebula Security says a patched Firefox JIT flaw could be triggered by simply visiting a malicious webpage and was also used to compromise Tor Browser....
+- **Keywords**: bug
+- [Read more](https://thehackernews.com/2026/07/researchers-show-single-malicious.html)
 
-### Flying Eagle Android RAT Traces Found on 170 Servers as Source Code Circulates
+### Mythos Asks the Right Question. It Doesn't Answer It.
 - **Published**: July 29, 2026
-- **Summary**: Source code for the Flying Eagle Android remote access trojan (RAT) framework is circulating through criminal Telegram channels. Hunt.io and independe...
-- [Read more](https://thehackernews.com/2026/07/flying-eagle-android-rat-traces-found.html)
+- **Summary**: AI is compressing exploit timelines. The real question isn't whether your vulnerability management playbook needs to change, it's which part of it you...
+- [Read more](https://thehackernews.com/2026/07/mythos-asks-right-question-it-doesnt.html)
 
 ---
 
