@@ -16,15 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Russian Hackers Exploit Microsoft OWA Flaw to Keep Mailbox Access After Credential Rotation
+### AI Bond Issuance Is Not AI's "Subprime Mortgage Crisis"
 - **Published**: July 30, 2026
-- **Summary**: The Russian threat actors recently linked to the exploitation of a now-patched vulnerability in Zimbra have been observed exploiting another vulnerabi...
-- [Read more](https://thehackernews.com/2026/07/russian-hackers-exploit-microsoft-owa.html)
+- **Summary**: https://www.crisesnotes.com/sigh-no-ed-zitron-ai-bond-issuance-is-not-ais-......
+- **Keywords**: crisis, crisis
+- [Read more](https://www.crisesnotes.com/sigh-no-ed-zitron-ai-bond-issuance-is-not-ais-subprime-mortgage-crisis/)
 
-### FCC Blocks New Foreign-Produced Robots and Power Inverters Over Cyber Risks
+### Microsoft Copilot for Word Can Copy Hidden Prompts Into New Documents
 - **Published**: July 30, 2026
-- **Summary**: The Federal Communications Commission (FCC) added foreign-produced mobile robots and networked power inverters to its Covered List on July 28. The mov...
-- [Read more](https://thehackernews.com/2026/07/fcc-blocks-new-foreign-produced-robots.html)
+- **Summary**: Hidden instructions in a Word document can make Microsoft 365 Copilot rewrite figures in a report, then copy the same instructions into the finished f...
+- [Read more](https://thehackernews.com/2026/07/microsoft-copilot-for-word-can-copy.html)
 
 ---
 
