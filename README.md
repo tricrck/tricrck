@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### We discovered a new variant of Super Mario Bros
+### Russian Hackers Exploit Microsoft OWA Flaw to Keep Mailbox Access After Credential Rotation
 - **Published**: July 30, 2026
-- **Summary**: https://nintendowire.com/news/2026/07/29/we-discovered-a-new-super-mario-bros-variant/<......
-- [Read more](https://nintendowire.com/news/2026/07/29/we-discovered-a-new-super-mario-bros-variant/)
+- **Summary**: The Russian threat actors recently linked to the exploitation of a now-patched vulnerability in Zimbra have been observed exploiting another vulnerabi...
+- [Read more](https://thehackernews.com/2026/07/russian-hackers-exploit-microsoft-owa.html)
 
-### Art as Compression
+### FCC Blocks New Foreign-Produced Robots and Power Inverters Over Cyber Risks
 - **Published**: July 30, 2026
-- **Summary**: https://feed.grantcuster.com/post/2026-07-29-10-20-08-art-as-compression</a></p>
-<p>Comments URL: <a ......
-- [Read more](https://feed.grantcuster.com/post/2026-07-29-10-20-08-art-as-compression)
+- **Summary**: The Federal Communications Commission (FCC) added foreign-produced mobile robots and networked power inverters to its Covered List on July 28. The mov...
+- [Read more](https://thehackernews.com/2026/07/fcc-blocks-new-foreign-produced-robots.html)
 
 ---
 
