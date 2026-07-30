@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### AI Bond Issuance Is Not AI's "Subprime Mortgage Crisis"
+### Mythos attack on 3rd-round PQC algorithm candidate puts it out of commission
 - **Published**: July 30, 2026
-- **Summary**: https://www.crisesnotes.com/sigh-no-ed-zitron-ai-bond-issuance-is-not-ais-......
-- **Keywords**: crisis, crisis
-- [Read more](https://www.crisesnotes.com/sigh-no-ed-zitron-ai-bond-issuance-is-not-ais-subprime-mortgage-crisis/)
+- **Summary**: https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weakne......
+- [Read more](https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/)
 
-### Microsoft Copilot for Word Can Copy Hidden Prompts Into New Documents
+### A Texas Deputy Searched 83,000 Flock Cameras To Track Down a Woman Who Had an Abortion
 - **Published**: July 30, 2026
-- **Summary**: Hidden instructions in a Word document can make Microsoft 365 Copilot rewrite figures in a report, then copy the same instructions into the finished f...
-- [Read more](https://thehackernews.com/2026/07/microsoft-copilot-for-word-can-copy.html)
+- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1vb1s8f/a_texas_deputy_searched_83000_flock_cameras_to/"> <img alt="A Texas Deputy Searched...
+- **Keywords**: down, down
+- [Read more](https://www.reddit.com/r/technology/comments/1vb1s8f/a_texas_deputy_searched_83000_flock_cameras_to/)
 
 ---
 
