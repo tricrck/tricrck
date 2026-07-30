@@ -16,15 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Critical Rails Flaw Could Let Unauthenticated Attackers Read Server Files via Image Uploads
-- **Published**: July 29, 2026
-- **Summary**: Ruby on Rails has released fixes for a critical Active Storage vulnerability that could let unauthenticated attackers read arbitrary files from applic...
-- [Read more](https://thehackernews.com/2026/07/critical-rails-flaw-could-let.html)
+### We discovered a new variant of Super Mario Bros
+- **Published**: July 30, 2026
+- **Summary**: https://nintendowire.com/news/2026/07/29/we-discovered-a-new-super-mario-bros-variant/<......
+- [Read more](https://nintendowire.com/news/2026/07/29/we-discovered-a-new-super-mario-bros-variant/)
 
-### Ruflo MCP Flaw Lets Unauthenticated Attackers Run Commands and Poison AI Memory
-- **Published**: July 29, 2026
-- **Summary**: Cybersecurity researchers have flagged a maximum-severity security flaw in Ruflo, an open-source agent meta-harness for Anthropic Claude Code and Open...
-- [Read more](https://thehackernews.com/2026/07/ruflo-mcp-flaw-lets-unauthenticated.html)
+### Art as Compression
+- **Published**: July 30, 2026
+- **Summary**: https://feed.grantcuster.com/post/2026-07-29-10-20-08-art-as-compression</a></p>
+<p>Comments URL: <a ......
+- [Read more](https://feed.grantcuster.com/post/2026-07-29-10-20-08-art-as-compression)
 
 ---
 
