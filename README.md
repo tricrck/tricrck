@@ -16,19 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Ukraine's Kill Zone
+### Situational Awareness Down 67% in July in AI Stock Rout
 - **Published**: July 31, 2026
-- **Summary**: https://www.reuters.com/graphics/UKRAINE-CRISIS/KILL-ZONE/znpnojmknvl/</a></p>
-<p>Comments URL: <a href......
-- **Keywords**: crisis, crisis
-- [Read more](https://www.reuters.com/graphics/UKRAINE-CRISIS/KILL-ZONE/znpnojmknvl/)
-
-### Codeberg.org Is Down
-- **Published**: July 31, 2026
-- **Summary**: https://status.codeberg.org/status/codeberg?sort_2=uptime_asc</a></p>
-<p>Comments URL: <a href="https://news.yco......
+- **Summary**: ......
 - **Keywords**: down
-- [Read more](https://status.codeberg.org/status/codeberg?sort_2=uptime_asc)
+- [Read more](https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f)
+
+### 6 Reasons Why Device Code Phishing is the Fastest-Growing Threat of 2026
+- **Published**: July 31, 2026
+- **Summary**: Device code phishing - the abuse of the OAuth 2.0 device authorization grant to steal access tokens - has evolved from a niche red-team technique to a...
+- [Read more](https://thehackernews.com/2026/07/6-reasons-why-device-code-phishing-is.html)
 
 ---
 
