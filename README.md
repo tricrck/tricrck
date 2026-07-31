@@ -16,17 +16,19 @@
 
 ## 🚨 Tech Stories
 
-### Through the Lens of an Ancient Yisra'elite Bible Study
+### Ukraine's Kill Zone
 - **Published**: July 31, 2026
-- **Summary**: https://www.amazon.com/Through-Ancient-Yisraelite-Bible-Study/dp/B0FB8VKDNJ</a></p>
-<p>Comments UR......
-- [Read more](https://www.amazon.com/Through-Ancient-Yisraelite-Bible-Study/dp/B0FB8VKDNJ)
+- **Summary**: https://www.reuters.com/graphics/UKRAINE-CRISIS/KILL-ZONE/znpnojmknvl/</a></p>
+<p>Comments URL: <a href......
+- **Keywords**: crisis, crisis
+- [Read more](https://www.reuters.com/graphics/UKRAINE-CRISIS/KILL-ZONE/znpnojmknvl/)
 
-### The cure for AI slop is a 1986 aircraft manual
+### Codeberg.org Is Down
 - **Published**: July 31, 2026
-- **Summary**: https://www.youtube.com/watch?v=uJblcC4lKYw</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49118407">https......
-- [Read more](https://www.youtube.com/watch?v=uJblcC4lKYw)
+- **Summary**: https://status.codeberg.org/status/codeberg?sort_2=uptime_asc</a></p>
+<p>Comments URL: <a href="https://news.yco......
+- **Keywords**: down
+- [Read more](https://status.codeberg.org/status/codeberg?sort_2=uptime_asc)
 
 ---
 
