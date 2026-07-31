@@ -16,16 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Mythos attack on 3rd-round PQC algorithm candidate puts it out of commission
-- **Published**: July 30, 2026
-- **Summary**: https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weakne......
-- [Read more](https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/)
+### Through the Lens of an Ancient Yisra'elite Bible Study
+- **Published**: July 31, 2026
+- **Summary**: https://www.amazon.com/Through-Ancient-Yisraelite-Bible-Study/dp/B0FB8VKDNJ</a></p>
+<p>Comments UR......
+- [Read more](https://www.amazon.com/Through-Ancient-Yisraelite-Bible-Study/dp/B0FB8VKDNJ)
 
-### A Texas Deputy Searched 83,000 Flock Cameras To Track Down a Woman Who Had an Abortion
-- **Published**: July 30, 2026
-- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1vb1s8f/a_texas_deputy_searched_83000_flock_cameras_to/"> <img alt="A Texas Deputy Searched...
-- **Keywords**: down, down
-- [Read more](https://www.reddit.com/r/technology/comments/1vb1s8f/a_texas_deputy_searched_83000_flock_cameras_to/)
+### The cure for AI slop is a 1986 aircraft manual
+- **Published**: July 31, 2026
+- **Summary**: https://www.youtube.com/watch?v=uJblcC4lKYw</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49118407">https......
+- [Read more](https://www.youtube.com/watch?v=uJblcC4lKYw)
 
 ---
 
