@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Situational Awareness Down 67% in July in AI Stock Rout
-- **Published**: July 31, 2026
-- **Summary**: ......
-- **Keywords**: down
-- [Read more](https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f)
+### Suspected Chinese-Speaking Hackers Target Central Asian Governments With OctLurk and SilkLurk
+- **Published**: August 01, 2026
+- **Summary**: A Chinese-speaking threat actor is suspected to be behind a fresh wave of cyber attacks targeting government organizations mainly located in Central A...
+- [Read more](https://thehackernews.com/2026/08/suspected-chinese-speaking-hackers.html)
 
-### 6 Reasons Why Device Code Phishing is the Fastest-Growing Threat of 2026
+### HollowFrame Loader Deploys Matryoshka Backdoor in Spear-Phishing Attack on Law Firm
 - **Published**: July 31, 2026
-- **Summary**: Device code phishing - the abuse of the OAuth 2.0 device authorization grant to steal access tokens - has evolved from a niche red-team technique to a...
-- [Read more](https://thehackernews.com/2026/07/6-reasons-why-device-code-phishing-is.html)
+- **Summary**: Cybersecurity researchers have shed light on a previously undocumented Go-based loader framework called HollowFrame and a Rust-based malware family tr...
+- [Read more](https://thehackernews.com/2026/07/hollowframe-loader-deploys-matryoshka.html)
 
 ---
 
