@@ -16,15 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Suspected Chinese-Speaking Hackers Target Central Asian Governments With OctLurk and SilkLurk
+### Bearded Vulture
 - **Published**: August 01, 2026
-- **Summary**: A Chinese-speaking threat actor is suspected to be behind a fresh wave of cyber attacks targeting government organizations mainly located in Central A...
-- [Read more](https://thehackernews.com/2026/08/suspected-chinese-speaking-hackers.html)
+- **Summary**: https://en.wikipedia.org/wiki/Bearded_vulture</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49130610">h......
+- [Read more](https://en.wikipedia.org/wiki/Bearded_vulture)
 
-### HollowFrame Loader Deploys Matryoshka Backdoor in Spear-Phishing Attack on Law Firm
-- **Published**: July 31, 2026
-- **Summary**: Cybersecurity researchers have shed light on a previously undocumented Go-based loader framework called HollowFrame and a Rust-based malware family tr...
-- [Read more](https://thehackernews.com/2026/07/hollowframe-loader-deploys-matryoshka.html)
+### Open source React Native debugging studio
+- **Published**: August 01, 2026
+- **Summary**: https://www.nativescope.dev</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49130607">https://news.ycombinator.com/item?id=......
+- [Read more](https://www.nativescope.dev)
 
 ---
 
