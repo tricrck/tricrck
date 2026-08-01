@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Leopold Aschenbrenner Built a Hot A.I. Hedge Fund. Then It Melted Down
+### Hackers Poison Adform Script to Swap Crypto Wallet Addresses Across Customer Sites
 - **Published**: August 01, 2026
-- **Summary**: https://www.nytimes.com/2026/07/31/business/situational-awareness-leopold-aschenb......
-- **Keywords**: down
-- [Read more](https://www.nytimes.com/2026/07/31/business/situational-awareness-leopold-aschenbrenner.html)
+- **Summary**: Attackers modified a JavaScript file served by advertising technology company Adform, turning it into a browser-side tool that rewrites cryptocurrency...
+- [Read more](https://thehackernews.com/2026/08/hackers-poison-adform-script-to-swap.html)
 
-### Adobe Campaign Classic CVSS 10.0 Flaw Could Run Code Without User Interaction
+### How to plant a nuclear plant in Iran
 - **Published**: August 01, 2026
-- **Summary**: Adobe has released security updates to address a maximum-severity security flaw in Campaign Classic (ACC), its enterprise-focused marketing automation...
-- [Read more](https://thehackernews.com/2026/08/adobe-campaign-classic-cvss-100-flaw.html)
+- **Summary**: https://www.digitaldigging.org/p/how-to-plant-a-nuclear-plant-in-iran</a></p>
+<p>Comments URL: <a href="......
+- [Read more](https://www.digitaldigging.org/p/how-to-plant-a-nuclear-plant-in-iran)
 
 ---
 
