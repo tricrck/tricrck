@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Hackers Poison Adform Script to Swap Crypto Wallet Addresses Across Customer Sites
+### Postmortem for Kernel Soundness Bug #14576
 - **Published**: August 01, 2026
-- **Summary**: Attackers modified a JavaScript file served by advertising technology company Adform, turning it into a browser-side tool that rewrites cryptocurrency...
-- [Read more](https://thehackernews.com/2026/08/hackers-poison-adform-script-to-swap.html)
+- **Summary**: ......
+- **Keywords**: bug
+- [Read more](https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/)
 
-### How to plant a nuclear plant in Iran
+### Coldcard Hardware Wallet Flaw Linked to $70 Million Bitcoin Theft in 41 Minutes
 - **Published**: August 01, 2026
-- **Summary**: https://www.digitaldigging.org/p/how-to-plant-a-nuclear-plant-in-iran</a></p>
-<p>Comments URL: <a href="......
-- [Read more](https://www.digitaldigging.org/p/how-to-plant-a-nuclear-plant-in-iran)
+- **Summary**: An attacker drained 1,196 Bitcoin addresses in 41 minutes on July 30, taking 1,082.65 BTC worth about $70.2 million at the time. Galaxy Research mappe...
+- [Read more](https://thehackernews.com/2026/08/coldcard-hardware-wallet-flaw-linked-to.html)
 
 ---
 
