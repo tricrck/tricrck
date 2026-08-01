@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Bearded Vulture
+### Leopold Aschenbrenner Built a Hot A.I. Hedge Fund. Then It Melted Down
 - **Published**: August 01, 2026
-- **Summary**: https://en.wikipedia.org/wiki/Bearded_vulture</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49130610">h......
-- [Read more](https://en.wikipedia.org/wiki/Bearded_vulture)
+- **Summary**: https://www.nytimes.com/2026/07/31/business/situational-awareness-leopold-aschenb......
+- **Keywords**: down
+- [Read more](https://www.nytimes.com/2026/07/31/business/situational-awareness-leopold-aschenbrenner.html)
 
-### Open source React Native debugging studio
+### Adobe Campaign Classic CVSS 10.0 Flaw Could Run Code Without User Interaction
 - **Published**: August 01, 2026
-- **Summary**: https://www.nativescope.dev</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49130607">https://news.ycombinator.com/item?id=......
-- [Read more](https://www.nativescope.dev)
+- **Summary**: Adobe has released security updates to address a maximum-severity security flaw in Campaign Classic (ACC), its enterprise-focused marketing automation...
+- [Read more](https://thehackernews.com/2026/08/adobe-campaign-classic-cvss-100-flaw.html)
 
 ---
 
