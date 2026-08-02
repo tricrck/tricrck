@@ -16,17 +16,18 @@
 
 ## 🚨 Tech Stories
 
-### ‘Former trillionaire’ loses $750 billion amid Tesla, SpaceX crash, more than combined net worth of Larry Page, Sergey Brin, and Jeff Bezos — Why the rich laugh at losses
-- **Published**: August 01, 2026
-- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1vd0ey7/former_trillionaire_loses_750_billion_amid_tesla/"> <img alt="‘Former trillionaire’...
-- **Keywords**: crash
-- [Read more](https://www.reddit.com/r/technology/comments/1vd0ey7/former_trillionaire_loses_750_billion_amid_tesla/)
-
-### The world first agentic AI radio
+### Apple struggles to keep pace with AI 'bug' hunters
 - **Published**: August 02, 2026
-- **Summary**: https://www.twitch.tv/newsmyimaginationai</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49140554">https://n......
-- [Read more](https://www.twitch.tv/newsmyimaginationai)
+- **Summary**: https://www.ft.com/content/4532122d-90f2-4433-9df6-ca99d8a141d2</a></p>
+<p>Comments URL: <a href="https://news......
+- **Keywords**: bug
+- [Read more](https://www.ft.com/content/4532122d-90f2-4433-9df6-ca99d8a141d2)
+
+### The Apple Network Server's all-too-secret weapon (featuring PPC Toolbox)
+- **Published**: August 02, 2026
+- **Summary**: http://oldvcr.blogspot.com/2023/11/the-apple-network-servers-all-too.html</a></p>
+<p>Comments URL: <......
+- [Read more](http://oldvcr.blogspot.com/2023/11/the-apple-network-servers-all-too.html)
 
 ---
 
