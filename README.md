@@ -16,16 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Websites Were Built Before Flexbox and Grid
+### A cold-start fallback wrote 17,000 rows while the real handler never ran
 - **Published**: August 02, 2026
-- **Summary**: https://www.jstools.space/blog/css-before-flexbox/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4......
-- [Read more](https://www.jstools.space/blog/css-before-flexbox/)
+- **Summary**: https://silentwiring.com/articles/more-agents-silent-failure/</a></p>
+<p>Comments URL: <a href="https://news.yco......
+- **Keywords**: failure, failure
+- [Read more](https://silentwiring.com/articles/more-agents-silent-failure/)
 
-### Show HN: Passepartout – Create beautiful photo collages
+### What is a data centre and why is everyone freaking out now?
 - **Published**: August 02, 2026
-- **Summary**: https://codeberg.org/joexo/passepartout</a></p......
-- [Read more](https://joexo.codeberg.page/passepartout/)
+- **Summary**: https://www.rnz.co.nz/news/science-and-technolog......
+- [Read more](https://www.rnz.co.nz/news/science-and-technology/868752/explainer-what-is-a-data-centre-and-why-is-everyone-freaking-out-now)
 
 ---
 

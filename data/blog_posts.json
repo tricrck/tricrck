@@ -1,11 +1,30 @@
 {
   "chaos_ranked": [
     {
-      "title": "Websites Were Built Before Flexbox and Grid",
-      "link": "https://www.jstools.space/blog/css-before-flexbox/",
-      "summary": "<p>Article URL: <a href=\"https://www.jstools.space/blog/css-before-flexbox/\">https://www.jstools.space/blog/css-before-flexbox/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4...",
-      "published": "2026-08-02T13:12:27+00:00",
-      "domain": "jstools.space",
+      "title": "A cold-start fallback wrote 17,000 rows while the real handler never ran",
+      "link": "https://silentwiring.com/articles/more-agents-silent-failure/",
+      "summary": "<p>Article URL: <a href=\"https://silentwiring.com/articles/more-agents-silent-failure/\">https://silentwiring.com/articles/more-agents-silent-failure/</a></p>\n<p>Comments URL: <a href=\"https://news.yco...",
+      "published": "2026-08-02T19:03:45+00:00",
+      "domain": "silentwiring.com",
+      "scores": {
+        "chaos": 24.8,
+        "anarchy": 3.0,
+        "overall": 13.9
+      },
+      "keywords": {
+        "chaos": [
+          "failure",
+          "failure"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "What is a data centre and why is everyone freaking out now?",
+      "link": "https://www.rnz.co.nz/news/science-and-technology/868752/explainer-what-is-a-data-centre-and-why-is-everyone-freaking-out-now",
+      "summary": "<p>Article URL: <a href=\"https://www.rnz.co.nz/news/science-and-technology/868752/explainer-what-is-a-data-centre-and-why-is-everyone-freaking-out-now\">https://www.rnz.co.nz/news/science-and-technolog...",
+      "published": "2026-08-02T19:04:35+00:00",
+      "domain": "rnz.co.nz",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -17,11 +36,11 @@
       }
     },
     {
-      "title": "Show HN: Passepartout \u2013 Create beautiful photo collages",
-      "link": "https://joexo.codeberg.page/passepartout/",
-      "summary": "<p>The simple collage feature that you always wanted. Optimized for mobile. Source here: <a href=\"https://codeberg.org/joexo/passepartout\" rel=\"nofollow\">https://codeberg.org/joexo/passepartout</a></p...",
-      "published": "2026-08-02T13:07:59+00:00",
-      "domain": "joexo.codeberg.page",
+      "title": "Scaling a 1.59 quadrillion-row logging system with ClickHouse",
+      "link": "https://clickhouse.com/blog/a-quadrillion-rows-across-the-three-cloud-scaling-loghouse",
+      "summary": "<p>Article URL: <a href=\"https://clickhouse.com/blog/a-quadrillion-rows-across-the-three-cloud-scaling-loghouse\">https://clickhouse.com/blog/a-quadrillion-rows-across-the-three-cloud-scaling-loghouse<...",
+      "published": "2026-08-02T19:04:27+00:00",
+      "domain": "clickhouse.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -33,10 +52,42 @@
       }
     },
     {
-      "title": "A11y.md \u2013 A context system for building accessible software",
-      "link": "https://github.com/fecarrico/A11Y.md",
-      "summary": "<p>Article URL: <a href=\"https://github.com/fecarrico/A11Y.md\">https://github.com/fecarrico/A11Y.md</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49144280\">https://news.ycombi...",
-      "published": "2026-08-02T13:05:30+00:00",
+      "title": "For Mary \u00b7 Streamlit",
+      "link": "https://boxvxsrnquhzc9jxc2e7vr.streamlit.app",
+      "summary": "<p>Article URL: <a href=\"https://boxvxsrnquhzc9jxc2e7vr.streamlit.app\">https://boxvxsrnquhzc9jxc2e7vr.streamlit.app</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49147273\">htt...",
+      "published": "2026-08-02T18:59:42+00:00",
+      "domain": "boxvxsrnquhzc9jxc2e7vr.streamlit.app",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Kota \u2013 Bring AI agent CLIs into the same room",
+      "link": "https://www.kota.place/",
+      "summary": "<p>A couple months ago, I was tired of keep copy-paste across different Agent Chatbot tabs, feeling like a slave for AI sessions, so I created Kota for my own work.<p>Kota was designed around a concep...",
+      "published": "2026-08-02T18:59:32+00:00",
+      "domain": "kota.place",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: NixOS-DGX-Spark \u2013 Nix and NixOS on the DGX Spark",
+      "link": "https://github.com/graham33/nixos-dgx-spark",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49146267\">Comments</a>...",
+      "published": "2026-08-02T17:05:54+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -49,11 +100,11 @@
       }
     },
     {
-      "title": "Has the New Cocaine Arrived?",
-      "link": "https://playboy.substack.com/p/has-the-new-cocaine-finally-arrived",
-      "summary": "<p>Article URL: <a href=\"https://playboy.substack.com/p/has-the-new-cocaine-finally-arrived\">https://playboy.substack.com/p/has-the-new-cocaine-finally-arrived</a></p>\n<p>Comments URL: <a href=\"https:...",
-      "published": "2026-08-02T13:05:06+00:00",
-      "domain": "playboy.substack.com",
+      "title": "Show HN: Kakehashi \u2013 Experimental userspace to run macOS binaries on Linux ARM",
+      "link": "https://github.com/wie-project/kakehashi",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49145937\">Comments</a>...",
+      "published": "2026-08-02T16:26:40+00:00",
+      "domain": "github.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -65,11 +116,11 @@
       }
     },
     {
-      "title": "The Wikimedians of the Year 2026",
-      "link": "https://diff.wikimedia.org/2026/07/22/meet-the-wikimedians-of-the-year-2026/",
-      "summary": "<p>Article URL: <a href=\"https://diff.wikimedia.org/2026/07/22/meet-the-wikimedians-of-the-year-2026/\">https://diff.wikimedia.org/2026/07/22/meet-the-wikimedians-of-the-year-2026/</a></p>\n<p>Comments ...",
-      "published": "2026-08-02T13:03:06+00:00",
-      "domain": "diff.wikimedia.org",
+      "title": "Rooting, firmware analysis and persistent credentials of TP-Link TL-841N",
+      "link": "https://blog.juni-mp4.com/posts/42/rooting-the-tplink-tl841n-pt1/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49145883\">Comments</a>...",
+      "published": "2026-08-02T16:19:17+00:00",
+      "domain": "blog.juni-mp4.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -81,58 +132,10 @@
       }
     },
     {
-      "title": "Twenty Years of RISC OS Open",
-      "link": "https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49143967\">Comments</a>...",
-      "published": "2026-08-02T12:36:07+00:00",
-      "domain": "riscosopen.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Meshdiff \u2013 visually compare two STL versions in the browser, client-side",
-      "link": "https://meshdiff.com/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49143479\">Comments</a>...",
-      "published": "2026-08-02T11:34:41+00:00",
-      "domain": "meshdiff.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
-      "link": "https://publicdomainreview.org/essay/ars-notoria/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49143001\">Comments</a>...",
-      "published": "2026-08-02T10:18:24+00:00",
-      "domain": "publicdomainreview.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Reddit stock tumbles the most on record as lack of new AI deals, US daily users metric disappoints",
-      "link": "https://www.reddit.com/r/technology/comments/1vddxka/reddit_stock_tumbles_the_most_on_record_as_lack/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1vddxka/reddit_stock_tumbles_the_most_on_record_as_lack/\"> <img alt=\"Reddit stock tumbles the most on record as lack of new AI de...",
-      "published": "2026-08-02T09:50:40+00:00",
+      "title": "New York files $36 billion lawsuit against Kalshi, alleging it's running an \"illegal gambling operation\"",
+      "link": "https://www.reddit.com/r/technology/comments/1vdleip/new_york_files_36_billion_lawsuit_against_kalshi/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1vdleip/new_york_files_36_billion_lawsuit_against_kalshi/\"> <img alt=\"New York files $36 billion lawsuit against Kalshi, alleging...",
+      "published": "2026-08-02T15:45:03+00:00",
       "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
@@ -145,11 +148,11 @@
       }
     },
     {
-      "title": "Show HN: Syncular \u2013 offline-first SQL sync with TypeScript and Rust cores",
-      "link": "https://github.com/syncular/syncular",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49142794\">Comments</a>...",
-      "published": "2026-08-02T09:48:08+00:00",
-      "domain": "github.com",
+      "title": "How the words we teach English language learners changed",
+      "link": "https://pudding.cool/2026/07/essential-words/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49145590\">Comments</a>...",
+      "published": "2026-08-02T15:41:08+00:00",
+      "domain": "pudding.cool",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -163,11 +166,11 @@
   ],
   "anarchy_ranked": [
     {
-      "title": "Websites Were Built Before Flexbox and Grid",
-      "link": "https://www.jstools.space/blog/css-before-flexbox/",
-      "summary": "<p>Article URL: <a href=\"https://www.jstools.space/blog/css-before-flexbox/\">https://www.jstools.space/blog/css-before-flexbox/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4...",
-      "published": "2026-08-02T13:12:27+00:00",
-      "domain": "jstools.space",
+      "title": "What is a data centre and why is everyone freaking out now?",
+      "link": "https://www.rnz.co.nz/news/science-and-technology/868752/explainer-what-is-a-data-centre-and-why-is-everyone-freaking-out-now",
+      "summary": "<p>Article URL: <a href=\"https://www.rnz.co.nz/news/science-and-technology/868752/explainer-what-is-a-data-centre-and-why-is-everyone-freaking-out-now\">https://www.rnz.co.nz/news/science-and-technolog...",
+      "published": "2026-08-02T19:04:35+00:00",
+      "domain": "rnz.co.nz",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -179,11 +182,11 @@
       }
     },
     {
-      "title": "Show HN: Passepartout \u2013 Create beautiful photo collages",
-      "link": "https://joexo.codeberg.page/passepartout/",
-      "summary": "<p>The simple collage feature that you always wanted. Optimized for mobile. Source here: <a href=\"https://codeberg.org/joexo/passepartout\" rel=\"nofollow\">https://codeberg.org/joexo/passepartout</a></p...",
-      "published": "2026-08-02T13:07:59+00:00",
-      "domain": "joexo.codeberg.page",
+      "title": "Scaling a 1.59 quadrillion-row logging system with ClickHouse",
+      "link": "https://clickhouse.com/blog/a-quadrillion-rows-across-the-three-cloud-scaling-loghouse",
+      "summary": "<p>Article URL: <a href=\"https://clickhouse.com/blog/a-quadrillion-rows-across-the-three-cloud-scaling-loghouse\">https://clickhouse.com/blog/a-quadrillion-rows-across-the-three-cloud-scaling-loghouse<...",
+      "published": "2026-08-02T19:04:27+00:00",
+      "domain": "clickhouse.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -195,10 +198,61 @@
       }
     },
     {
-      "title": "A11y.md \u2013 A context system for building accessible software",
-      "link": "https://github.com/fecarrico/A11Y.md",
-      "summary": "<p>Article URL: <a href=\"https://github.com/fecarrico/A11Y.md\">https://github.com/fecarrico/A11Y.md</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49144280\">https://news.ycombi...",
-      "published": "2026-08-02T13:05:30+00:00",
+      "title": "A cold-start fallback wrote 17,000 rows while the real handler never ran",
+      "link": "https://silentwiring.com/articles/more-agents-silent-failure/",
+      "summary": "<p>Article URL: <a href=\"https://silentwiring.com/articles/more-agents-silent-failure/\">https://silentwiring.com/articles/more-agents-silent-failure/</a></p>\n<p>Comments URL: <a href=\"https://news.yco...",
+      "published": "2026-08-02T19:03:45+00:00",
+      "domain": "silentwiring.com",
+      "scores": {
+        "chaos": 24.8,
+        "anarchy": 3.0,
+        "overall": 13.9
+      },
+      "keywords": {
+        "chaos": [
+          "failure",
+          "failure"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "For Mary \u00b7 Streamlit",
+      "link": "https://boxvxsrnquhzc9jxc2e7vr.streamlit.app",
+      "summary": "<p>Article URL: <a href=\"https://boxvxsrnquhzc9jxc2e7vr.streamlit.app\">https://boxvxsrnquhzc9jxc2e7vr.streamlit.app</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49147273\">htt...",
+      "published": "2026-08-02T18:59:42+00:00",
+      "domain": "boxvxsrnquhzc9jxc2e7vr.streamlit.app",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Kota \u2013 Bring AI agent CLIs into the same room",
+      "link": "https://www.kota.place/",
+      "summary": "<p>A couple months ago, I was tired of keep copy-paste across different Agent Chatbot tabs, feeling like a slave for AI sessions, so I created Kota for my own work.<p>Kota was designed around a concep...",
+      "published": "2026-08-02T18:59:32+00:00",
+      "domain": "kota.place",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: NixOS-DGX-Spark \u2013 Nix and NixOS on the DGX Spark",
+      "link": "https://github.com/graham33/nixos-dgx-spark",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49146267\">Comments</a>...",
+      "published": "2026-08-02T17:05:54+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -211,11 +265,11 @@
       }
     },
     {
-      "title": "Has the New Cocaine Arrived?",
-      "link": "https://playboy.substack.com/p/has-the-new-cocaine-finally-arrived",
-      "summary": "<p>Article URL: <a href=\"https://playboy.substack.com/p/has-the-new-cocaine-finally-arrived\">https://playboy.substack.com/p/has-the-new-cocaine-finally-arrived</a></p>\n<p>Comments URL: <a href=\"https:...",
-      "published": "2026-08-02T13:05:06+00:00",
-      "domain": "playboy.substack.com",
+      "title": "Show HN: Kakehashi \u2013 Experimental userspace to run macOS binaries on Linux ARM",
+      "link": "https://github.com/wie-project/kakehashi",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49145937\">Comments</a>...",
+      "published": "2026-08-02T16:26:40+00:00",
+      "domain": "github.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -227,11 +281,11 @@
       }
     },
     {
-      "title": "The Wikimedians of the Year 2026",
-      "link": "https://diff.wikimedia.org/2026/07/22/meet-the-wikimedians-of-the-year-2026/",
-      "summary": "<p>Article URL: <a href=\"https://diff.wikimedia.org/2026/07/22/meet-the-wikimedians-of-the-year-2026/\">https://diff.wikimedia.org/2026/07/22/meet-the-wikimedians-of-the-year-2026/</a></p>\n<p>Comments ...",
-      "published": "2026-08-02T13:03:06+00:00",
-      "domain": "diff.wikimedia.org",
+      "title": "Rooting, firmware analysis and persistent credentials of TP-Link TL-841N",
+      "link": "https://blog.juni-mp4.com/posts/42/rooting-the-tplink-tl841n-pt1/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49145883\">Comments</a>...",
+      "published": "2026-08-02T16:19:17+00:00",
+      "domain": "blog.juni-mp4.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -243,58 +297,10 @@
       }
     },
     {
-      "title": "Twenty Years of RISC OS Open",
-      "link": "https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49143967\">Comments</a>...",
-      "published": "2026-08-02T12:36:07+00:00",
-      "domain": "riscosopen.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Meshdiff \u2013 visually compare two STL versions in the browser, client-side",
-      "link": "https://meshdiff.com/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49143479\">Comments</a>...",
-      "published": "2026-08-02T11:34:41+00:00",
-      "domain": "meshdiff.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
-      "link": "https://publicdomainreview.org/essay/ars-notoria/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49143001\">Comments</a>...",
-      "published": "2026-08-02T10:18:24+00:00",
-      "domain": "publicdomainreview.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Reddit stock tumbles the most on record as lack of new AI deals, US daily users metric disappoints",
-      "link": "https://www.reddit.com/r/technology/comments/1vddxka/reddit_stock_tumbles_the_most_on_record_as_lack/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1vddxka/reddit_stock_tumbles_the_most_on_record_as_lack/\"> <img alt=\"Reddit stock tumbles the most on record as lack of new AI de...",
-      "published": "2026-08-02T09:50:40+00:00",
+      "title": "New York files $36 billion lawsuit against Kalshi, alleging it's running an \"illegal gambling operation\"",
+      "link": "https://www.reddit.com/r/technology/comments/1vdleip/new_york_files_36_billion_lawsuit_against_kalshi/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1vdleip/new_york_files_36_billion_lawsuit_against_kalshi/\"> <img alt=\"New York files $36 billion lawsuit against Kalshi, alleging...",
+      "published": "2026-08-02T15:45:03+00:00",
       "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
@@ -307,11 +313,11 @@
       }
     },
     {
-      "title": "Show HN: Syncular \u2013 offline-first SQL sync with TypeScript and Rust cores",
-      "link": "https://github.com/syncular/syncular",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49142794\">Comments</a>...",
-      "published": "2026-08-02T09:48:08+00:00",
-      "domain": "github.com",
+      "title": "How the words we teach English language learners changed",
+      "link": "https://pudding.cool/2026/07/essential-words/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49145590\">Comments</a>...",
+      "published": "2026-08-02T15:41:08+00:00",
+      "domain": "pudding.cool",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -325,11 +331,30 @@
   ],
   "overall_ranked": [
     {
-      "title": "Websites Were Built Before Flexbox and Grid",
-      "link": "https://www.jstools.space/blog/css-before-flexbox/",
-      "summary": "<p>Article URL: <a href=\"https://www.jstools.space/blog/css-before-flexbox/\">https://www.jstools.space/blog/css-before-flexbox/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4...",
-      "published": "2026-08-02T13:12:27+00:00",
-      "domain": "jstools.space",
+      "title": "A cold-start fallback wrote 17,000 rows while the real handler never ran",
+      "link": "https://silentwiring.com/articles/more-agents-silent-failure/",
+      "summary": "<p>Article URL: <a href=\"https://silentwiring.com/articles/more-agents-silent-failure/\">https://silentwiring.com/articles/more-agents-silent-failure/</a></p>\n<p>Comments URL: <a href=\"https://news.yco...",
+      "published": "2026-08-02T19:03:45+00:00",
+      "domain": "silentwiring.com",
+      "scores": {
+        "chaos": 24.8,
+        "anarchy": 3.0,
+        "overall": 13.9
+      },
+      "keywords": {
+        "chaos": [
+          "failure",
+          "failure"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "What is a data centre and why is everyone freaking out now?",
+      "link": "https://www.rnz.co.nz/news/science-and-technology/868752/explainer-what-is-a-data-centre-and-why-is-everyone-freaking-out-now",
+      "summary": "<p>Article URL: <a href=\"https://www.rnz.co.nz/news/science-and-technology/868752/explainer-what-is-a-data-centre-and-why-is-everyone-freaking-out-now\">https://www.rnz.co.nz/news/science-and-technolog...",
+      "published": "2026-08-02T19:04:35+00:00",
+      "domain": "rnz.co.nz",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -341,11 +366,11 @@
       }
     },
     {
-      "title": "Show HN: Passepartout \u2013 Create beautiful photo collages",
-      "link": "https://joexo.codeberg.page/passepartout/",
-      "summary": "<p>The simple collage feature that you always wanted. Optimized for mobile. Source here: <a href=\"https://codeberg.org/joexo/passepartout\" rel=\"nofollow\">https://codeberg.org/joexo/passepartout</a></p...",
-      "published": "2026-08-02T13:07:59+00:00",
-      "domain": "joexo.codeberg.page",
+      "title": "Scaling a 1.59 quadrillion-row logging system with ClickHouse",
+      "link": "https://clickhouse.com/blog/a-quadrillion-rows-across-the-three-cloud-scaling-loghouse",
+      "summary": "<p>Article URL: <a href=\"https://clickhouse.com/blog/a-quadrillion-rows-across-the-three-cloud-scaling-loghouse\">https://clickhouse.com/blog/a-quadrillion-rows-across-the-three-cloud-scaling-loghouse<...",
+      "published": "2026-08-02T19:04:27+00:00",
+      "domain": "clickhouse.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -357,10 +382,42 @@
       }
     },
     {
-      "title": "A11y.md \u2013 A context system for building accessible software",
-      "link": "https://github.com/fecarrico/A11Y.md",
-      "summary": "<p>Article URL: <a href=\"https://github.com/fecarrico/A11Y.md\">https://github.com/fecarrico/A11Y.md</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49144280\">https://news.ycombi...",
-      "published": "2026-08-02T13:05:30+00:00",
+      "title": "For Mary \u00b7 Streamlit",
+      "link": "https://boxvxsrnquhzc9jxc2e7vr.streamlit.app",
+      "summary": "<p>Article URL: <a href=\"https://boxvxsrnquhzc9jxc2e7vr.streamlit.app\">https://boxvxsrnquhzc9jxc2e7vr.streamlit.app</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49147273\">htt...",
+      "published": "2026-08-02T18:59:42+00:00",
+      "domain": "boxvxsrnquhzc9jxc2e7vr.streamlit.app",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Kota \u2013 Bring AI agent CLIs into the same room",
+      "link": "https://www.kota.place/",
+      "summary": "<p>A couple months ago, I was tired of keep copy-paste across different Agent Chatbot tabs, feeling like a slave for AI sessions, so I created Kota for my own work.<p>Kota was designed around a concep...",
+      "published": "2026-08-02T18:59:32+00:00",
+      "domain": "kota.place",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: NixOS-DGX-Spark \u2013 Nix and NixOS on the DGX Spark",
+      "link": "https://github.com/graham33/nixos-dgx-spark",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49146267\">Comments</a>...",
+      "published": "2026-08-02T17:05:54+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -373,11 +430,11 @@
       }
     },
     {
-      "title": "Has the New Cocaine Arrived?",
-      "link": "https://playboy.substack.com/p/has-the-new-cocaine-finally-arrived",
-      "summary": "<p>Article URL: <a href=\"https://playboy.substack.com/p/has-the-new-cocaine-finally-arrived\">https://playboy.substack.com/p/has-the-new-cocaine-finally-arrived</a></p>\n<p>Comments URL: <a href=\"https:...",
-      "published": "2026-08-02T13:05:06+00:00",
-      "domain": "playboy.substack.com",
+      "title": "Show HN: Kakehashi \u2013 Experimental userspace to run macOS binaries on Linux ARM",
+      "link": "https://github.com/wie-project/kakehashi",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49145937\">Comments</a>...",
+      "published": "2026-08-02T16:26:40+00:00",
+      "domain": "github.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -389,11 +446,11 @@
       }
     },
     {
-      "title": "The Wikimedians of the Year 2026",
-      "link": "https://diff.wikimedia.org/2026/07/22/meet-the-wikimedians-of-the-year-2026/",
-      "summary": "<p>Article URL: <a href=\"https://diff.wikimedia.org/2026/07/22/meet-the-wikimedians-of-the-year-2026/\">https://diff.wikimedia.org/2026/07/22/meet-the-wikimedians-of-the-year-2026/</a></p>\n<p>Comments ...",
-      "published": "2026-08-02T13:03:06+00:00",
-      "domain": "diff.wikimedia.org",
+      "title": "Rooting, firmware analysis and persistent credentials of TP-Link TL-841N",
+      "link": "https://blog.juni-mp4.com/posts/42/rooting-the-tplink-tl841n-pt1/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49145883\">Comments</a>...",
+      "published": "2026-08-02T16:19:17+00:00",
+      "domain": "blog.juni-mp4.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -405,58 +462,10 @@
       }
     },
     {
-      "title": "Twenty Years of RISC OS Open",
-      "link": "https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49143967\">Comments</a>...",
-      "published": "2026-08-02T12:36:07+00:00",
-      "domain": "riscosopen.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Meshdiff \u2013 visually compare two STL versions in the browser, client-side",
-      "link": "https://meshdiff.com/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49143479\">Comments</a>...",
-      "published": "2026-08-02T11:34:41+00:00",
-      "domain": "meshdiff.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
-      "link": "https://publicdomainreview.org/essay/ars-notoria/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49143001\">Comments</a>...",
-      "published": "2026-08-02T10:18:24+00:00",
-      "domain": "publicdomainreview.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Reddit stock tumbles the most on record as lack of new AI deals, US daily users metric disappoints",
-      "link": "https://www.reddit.com/r/technology/comments/1vddxka/reddit_stock_tumbles_the_most_on_record_as_lack/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1vddxka/reddit_stock_tumbles_the_most_on_record_as_lack/\"> <img alt=\"Reddit stock tumbles the most on record as lack of new AI de...",
-      "published": "2026-08-02T09:50:40+00:00",
+      "title": "New York files $36 billion lawsuit against Kalshi, alleging it's running an \"illegal gambling operation\"",
+      "link": "https://www.reddit.com/r/technology/comments/1vdleip/new_york_files_36_billion_lawsuit_against_kalshi/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1vdleip/new_york_files_36_billion_lawsuit_against_kalshi/\"> <img alt=\"New York files $36 billion lawsuit against Kalshi, alleging...",
+      "published": "2026-08-02T15:45:03+00:00",
       "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
@@ -469,11 +478,11 @@
       }
     },
     {
-      "title": "Show HN: Syncular \u2013 offline-first SQL sync with TypeScript and Rust cores",
-      "link": "https://github.com/syncular/syncular",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49142794\">Comments</a>...",
-      "published": "2026-08-02T09:48:08+00:00",
-      "domain": "github.com",
+      "title": "How the words we teach English language learners changed",
+      "link": "https://pudding.cool/2026/07/essential-words/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49145590\">Comments</a>...",
+      "published": "2026-08-02T15:41:08+00:00",
+      "domain": "pudding.cool",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -487,11 +496,11 @@
   ],
   "all_articles": [
     {
-      "title": "Websites Were Built Before Flexbox and Grid",
-      "link": "https://www.jstools.space/blog/css-before-flexbox/",
-      "summary": "<p>Article URL: <a href=\"https://www.jstools.space/blog/css-before-flexbox/\">https://www.jstools.space/blog/css-before-flexbox/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4...",
-      "published": "2026-08-02T13:12:27+00:00",
-      "domain": "jstools.space",
+      "title": "What is a data centre and why is everyone freaking out now?",
+      "link": "https://www.rnz.co.nz/news/science-and-technology/868752/explainer-what-is-a-data-centre-and-why-is-everyone-freaking-out-now",
+      "summary": "<p>Article URL: <a href=\"https://www.rnz.co.nz/news/science-and-technology/868752/explainer-what-is-a-data-centre-and-why-is-everyone-freaking-out-now\">https://www.rnz.co.nz/news/science-and-technolog...",
+      "published": "2026-08-02T19:04:35+00:00",
+      "domain": "rnz.co.nz",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -503,11 +512,11 @@
       }
     },
     {
-      "title": "Show HN: Passepartout \u2013 Create beautiful photo collages",
-      "link": "https://joexo.codeberg.page/passepartout/",
-      "summary": "<p>The simple collage feature that you always wanted. Optimized for mobile. Source here: <a href=\"https://codeberg.org/joexo/passepartout\" rel=\"nofollow\">https://codeberg.org/joexo/passepartout</a></p...",
-      "published": "2026-08-02T13:07:59+00:00",
-      "domain": "joexo.codeberg.page",
+      "title": "Scaling a 1.59 quadrillion-row logging system with ClickHouse",
+      "link": "https://clickhouse.com/blog/a-quadrillion-rows-across-the-three-cloud-scaling-loghouse",
+      "summary": "<p>Article URL: <a href=\"https://clickhouse.com/blog/a-quadrillion-rows-across-the-three-cloud-scaling-loghouse\">https://clickhouse.com/blog/a-quadrillion-rows-across-the-three-cloud-scaling-loghouse<...",
+      "published": "2026-08-02T19:04:27+00:00",
+      "domain": "clickhouse.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -519,10 +528,61 @@
       }
     },
     {
-      "title": "A11y.md \u2013 A context system for building accessible software",
-      "link": "https://github.com/fecarrico/A11Y.md",
-      "summary": "<p>Article URL: <a href=\"https://github.com/fecarrico/A11Y.md\">https://github.com/fecarrico/A11Y.md</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49144280\">https://news.ycombi...",
-      "published": "2026-08-02T13:05:30+00:00",
+      "title": "A cold-start fallback wrote 17,000 rows while the real handler never ran",
+      "link": "https://silentwiring.com/articles/more-agents-silent-failure/",
+      "summary": "<p>Article URL: <a href=\"https://silentwiring.com/articles/more-agents-silent-failure/\">https://silentwiring.com/articles/more-agents-silent-failure/</a></p>\n<p>Comments URL: <a href=\"https://news.yco...",
+      "published": "2026-08-02T19:03:45+00:00",
+      "domain": "silentwiring.com",
+      "scores": {
+        "chaos": 24.8,
+        "anarchy": 3.0,
+        "overall": 13.9
+      },
+      "keywords": {
+        "chaos": [
+          "failure",
+          "failure"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "For Mary \u00b7 Streamlit",
+      "link": "https://boxvxsrnquhzc9jxc2e7vr.streamlit.app",
+      "summary": "<p>Article URL: <a href=\"https://boxvxsrnquhzc9jxc2e7vr.streamlit.app\">https://boxvxsrnquhzc9jxc2e7vr.streamlit.app</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49147273\">htt...",
+      "published": "2026-08-02T18:59:42+00:00",
+      "domain": "boxvxsrnquhzc9jxc2e7vr.streamlit.app",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Kota \u2013 Bring AI agent CLIs into the same room",
+      "link": "https://www.kota.place/",
+      "summary": "<p>A couple months ago, I was tired of keep copy-paste across different Agent Chatbot tabs, feeling like a slave for AI sessions, so I created Kota for my own work.<p>Kota was designed around a concep...",
+      "published": "2026-08-02T18:59:32+00:00",
+      "domain": "kota.place",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: NixOS-DGX-Spark \u2013 Nix and NixOS on the DGX Spark",
+      "link": "https://github.com/graham33/nixos-dgx-spark",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49146267\">Comments</a>...",
+      "published": "2026-08-02T17:05:54+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -535,11 +595,11 @@
       }
     },
     {
-      "title": "Has the New Cocaine Arrived?",
-      "link": "https://playboy.substack.com/p/has-the-new-cocaine-finally-arrived",
-      "summary": "<p>Article URL: <a href=\"https://playboy.substack.com/p/has-the-new-cocaine-finally-arrived\">https://playboy.substack.com/p/has-the-new-cocaine-finally-arrived</a></p>\n<p>Comments URL: <a href=\"https:...",
-      "published": "2026-08-02T13:05:06+00:00",
-      "domain": "playboy.substack.com",
+      "title": "Show HN: Kakehashi \u2013 Experimental userspace to run macOS binaries on Linux ARM",
+      "link": "https://github.com/wie-project/kakehashi",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49145937\">Comments</a>...",
+      "published": "2026-08-02T16:26:40+00:00",
+      "domain": "github.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -551,11 +611,11 @@
       }
     },
     {
-      "title": "The Wikimedians of the Year 2026",
-      "link": "https://diff.wikimedia.org/2026/07/22/meet-the-wikimedians-of-the-year-2026/",
-      "summary": "<p>Article URL: <a href=\"https://diff.wikimedia.org/2026/07/22/meet-the-wikimedians-of-the-year-2026/\">https://diff.wikimedia.org/2026/07/22/meet-the-wikimedians-of-the-year-2026/</a></p>\n<p>Comments ...",
-      "published": "2026-08-02T13:03:06+00:00",
-      "domain": "diff.wikimedia.org",
+      "title": "Rooting, firmware analysis and persistent credentials of TP-Link TL-841N",
+      "link": "https://blog.juni-mp4.com/posts/42/rooting-the-tplink-tl841n-pt1/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49145883\">Comments</a>...",
+      "published": "2026-08-02T16:19:17+00:00",
+      "domain": "blog.juni-mp4.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -567,58 +627,10 @@
       }
     },
     {
-      "title": "Twenty Years of RISC OS Open",
-      "link": "https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49143967\">Comments</a>...",
-      "published": "2026-08-02T12:36:07+00:00",
-      "domain": "riscosopen.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Meshdiff \u2013 visually compare two STL versions in the browser, client-side",
-      "link": "https://meshdiff.com/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49143479\">Comments</a>...",
-      "published": "2026-08-02T11:34:41+00:00",
-      "domain": "meshdiff.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
-      "link": "https://publicdomainreview.org/essay/ars-notoria/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49143001\">Comments</a>...",
-      "published": "2026-08-02T10:18:24+00:00",
-      "domain": "publicdomainreview.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Reddit stock tumbles the most on record as lack of new AI deals, US daily users metric disappoints",
-      "link": "https://www.reddit.com/r/technology/comments/1vddxka/reddit_stock_tumbles_the_most_on_record_as_lack/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1vddxka/reddit_stock_tumbles_the_most_on_record_as_lack/\"> <img alt=\"Reddit stock tumbles the most on record as lack of new AI de...",
-      "published": "2026-08-02T09:50:40+00:00",
+      "title": "New York files $36 billion lawsuit against Kalshi, alleging it's running an \"illegal gambling operation\"",
+      "link": "https://www.reddit.com/r/technology/comments/1vdleip/new_york_files_36_billion_lawsuit_against_kalshi/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1vdleip/new_york_files_36_billion_lawsuit_against_kalshi/\"> <img alt=\"New York files $36 billion lawsuit against Kalshi, alleging...",
+      "published": "2026-08-02T15:45:03+00:00",
       "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
@@ -631,11 +643,11 @@
       }
     },
     {
-      "title": "Show HN: Syncular \u2013 offline-first SQL sync with TypeScript and Rust cores",
-      "link": "https://github.com/syncular/syncular",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49142794\">Comments</a>...",
-      "published": "2026-08-02T09:48:08+00:00",
-      "domain": "github.com",
+      "title": "How the words we teach English language learners changed",
+      "link": "https://pudding.cool/2026/07/essential-words/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49145590\">Comments</a>...",
+      "published": "2026-08-02T15:41:08+00:00",
+      "domain": "pudding.cool",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
