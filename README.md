@@ -16,16 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Postmortem for Kernel Soundness Bug #14576
+### ‘Former trillionaire’ loses $750 billion amid Tesla, SpaceX crash, more than combined net worth of Larry Page, Sergey Brin, and Jeff Bezos — Why the rich laugh at losses
 - **Published**: August 01, 2026
-- **Summary**: ......
-- **Keywords**: bug
-- [Read more](https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/)
+- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1vd0ey7/former_trillionaire_loses_750_billion_amid_tesla/"> <img alt="‘Former trillionaire’...
+- **Keywords**: crash
+- [Read more](https://www.reddit.com/r/technology/comments/1vd0ey7/former_trillionaire_loses_750_billion_amid_tesla/)
 
-### Coldcard Hardware Wallet Flaw Linked to $70 Million Bitcoin Theft in 41 Minutes
-- **Published**: August 01, 2026
-- **Summary**: An attacker drained 1,196 Bitcoin addresses in 41 minutes on July 30, taking 1,082.65 BTC worth about $70.2 million at the time. Galaxy Research mappe...
-- [Read more](https://thehackernews.com/2026/08/coldcard-hardware-wallet-flaw-linked-to.html)
+### The world first agentic AI radio
+- **Published**: August 02, 2026
+- **Summary**: https://www.twitch.tv/newsmyimaginationai</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49140554">https://n......
+- [Read more](https://www.twitch.tv/newsmyimaginationai)
 
 ---
 
