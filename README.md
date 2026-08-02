@@ -16,18 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Apple struggles to keep pace with AI 'bug' hunters
+### Websites Were Built Before Flexbox and Grid
 - **Published**: August 02, 2026
-- **Summary**: https://www.ft.com/content/4532122d-90f2-4433-9df6-ca99d8a141d2</a></p>
-<p>Comments URL: <a href="https://news......
-- **Keywords**: bug
-- [Read more](https://www.ft.com/content/4532122d-90f2-4433-9df6-ca99d8a141d2)
+- **Summary**: https://www.jstools.space/blog/css-before-flexbox/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4......
+- [Read more](https://www.jstools.space/blog/css-before-flexbox/)
 
-### The Apple Network Server's all-too-secret weapon (featuring PPC Toolbox)
+### Show HN: Passepartout – Create beautiful photo collages
 - **Published**: August 02, 2026
-- **Summary**: http://oldvcr.blogspot.com/2023/11/the-apple-network-servers-all-too.html</a></p>
-<p>Comments URL: <......
-- [Read more](http://oldvcr.blogspot.com/2023/11/the-apple-network-servers-all-too.html)
+- **Summary**: https://codeberg.org/joexo/passepartout</a></p......
+- [Read more](https://joexo.codeberg.page/passepartout/)
 
 ---
 
