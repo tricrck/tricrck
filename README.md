@@ -16,17 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### ⚡ Weekly Recap: Rogue AI Models, $88M Bitcoin Theft, Water-System Attacks and Dangling DNS Hijacks
-- **Published**: August 03, 2026
-- **Summary**: This week kept coming back to permission. A model crossed a boundary. A wallet trusted bad randomness. Webmail kept an intruder around. Public systems...
-- [Read more](https://thehackernews.com/2026/08/weekly-recap-rogue-ai-models-88m.html)
+### 18 Malicious npm Packages Deliver Cross-Platform RAT to Alibaba Tool Users
+- **Published**: August 04, 2026
+- **Summary**: Cybersecurity researchers have discovered a new set of malicious npm packages that target users of Alibaba developer tools with a cross-platform remot...
+- [Read more](https://thehackernews.com/2026/08/18-malicious-npm-packages-deliver-cross.html)
 
-### FOMO in the SOC: Where AI Platforms like Claude Actually Fit
+### Google Password Manager Attacks Could Let Malware Hijack Passkey-Protected Accounts
 - **Published**: August 03, 2026
-- **Summary**: AI is moving incredibly fast, and every security leader is feeling the pressure to keep up.
-
-AI platforms like Claude, Codex and Cursor are already he...
-- [Read more](https://thehackernews.com/2026/08/fomo-in-soc-where-ai-platforms-like.html)
+- **Summary**: Malware running as an ordinary user on a Windows machine can sign into a victim's passkey-protected accounts without a fingerprint, a PIN, or anything...
+- [Read more](https://thehackernews.com/2026/08/google-password-manager-attacks-could.html)
 
 ---
 
