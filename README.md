@@ -16,15 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Thermo Fisher Patches Flaw That Could Make DNA File Tampering Nearly Undetectable
+### ⚡ Weekly Recap: Rogue AI Models, $88M Bitcoin Theft, Water-System Attacks and Dangling DNS Hijacks
 - **Published**: August 03, 2026
-- **Summary**: Thermo Fisher Scientific has patched a flaw in select Applied Biosystems human identification software that could allow data files to be altered befor...
-- [Read more](https://thehackernews.com/2026/08/thermo-fisher-patches-flaw-that-could.html)
+- **Summary**: This week kept coming back to permission. A model crossed a boundary. A wallet trusted bad randomness. Webmail kept an intruder around. Public systems...
+- [Read more](https://thehackernews.com/2026/08/weekly-recap-rogue-ai-models-88m.html)
 
-### N-able Says Attackers Take Over N-central Servers After Initial Fix Proves Incomplete
+### FOMO in the SOC: Where AI Platforms like Claude Actually Fit
 - **Published**: August 03, 2026
-- **Summary**: N-able said attackers exploited an authentication bypass in N-central to gain remote administrative access and reach the customer systems managed thro...
-- [Read more](https://thehackernews.com/2026/08/n-able-says-attackers-take-over-n.html)
+- **Summary**: AI is moving incredibly fast, and every security leader is feeling the pressure to keep up.
+
+AI platforms like Claude, Codex and Cursor are already he...
+- [Read more](https://thehackernews.com/2026/08/fomo-in-soc-where-ai-platforms-like.html)
 
 ---
 
