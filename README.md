@@ -16,17 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Be the best in the world, for a few real people
+### Thermo Fisher Patches Flaw That Could Make DNA File Tampering Nearly Undetectable
 - **Published**: August 03, 2026
-- **Summary**: https://herbertlui.net/be-the-best-in-the-world-for-a-few-real-people/</a></p>
-<p>Comments URL: <a href......
-- [Read more](https://herbertlui.net/be-the-best-in-the-world-for-a-few-real-people/)
+- **Summary**: Thermo Fisher Scientific has patched a flaw in select Applied Biosystems human identification software that could allow data files to be altered befor...
+- [Read more](https://thehackernews.com/2026/08/thermo-fisher-patches-flaw-that-could.html)
 
-### Don't Pave the Cow Path
+### N-able Says Attackers Take Over N-central Servers After Initial Fix Proves Incomplete
 - **Published**: August 03, 2026
-- **Summary**: https://alearningaday.blog/2026/08/02/dont-pave-the-cow-path/</a></p>
-<p>Comments URL: <a href="https://news.yco......
-- [Read more](https://alearningaday.blog/2026/08/02/dont-pave-the-cow-path/)
+- **Summary**: N-able said attackers exploited an authentication bypass in N-central to gain remote administrative access and reach the customer systems managed thro...
+- [Read more](https://thehackernews.com/2026/08/n-able-says-attackers-take-over-n.html)
 
 ---
 
