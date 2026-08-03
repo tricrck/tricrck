@@ -16,17 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### A cold-start fallback wrote 17,000 rows while the real handler never ran
-- **Published**: August 02, 2026
-- **Summary**: https://silentwiring.com/articles/more-agents-silent-failure/</a></p>
-<p>Comments URL: <a href="https://news.yco......
-- **Keywords**: failure, failure
-- [Read more](https://silentwiring.com/articles/more-agents-silent-failure/)
+### Be the best in the world, for a few real people
+- **Published**: August 03, 2026
+- **Summary**: https://herbertlui.net/be-the-best-in-the-world-for-a-few-real-people/</a></p>
+<p>Comments URL: <a href......
+- [Read more](https://herbertlui.net/be-the-best-in-the-world-for-a-few-real-people/)
 
-### What is a data centre and why is everyone freaking out now?
-- **Published**: August 02, 2026
-- **Summary**: https://www.rnz.co.nz/news/science-and-technolog......
-- [Read more](https://www.rnz.co.nz/news/science-and-technology/868752/explainer-what-is-a-data-centre-and-why-is-everyone-freaking-out-now)
+### Don't Pave the Cow Path
+- **Published**: August 03, 2026
+- **Summary**: https://alearningaday.blog/2026/08/02/dont-pave-the-cow-path/</a></p>
+<p>Comments URL: <a href="https://news.yco......
+- [Read more](https://alearningaday.blog/2026/08/02/dont-pave-the-cow-path/)
 
 ---
 
