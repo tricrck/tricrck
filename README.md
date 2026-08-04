@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### CISA Adds Exploited N-able N-central Flaw to KEV After Customer Compromises
+### Keyv-Linked npm Worm Poisons Hundreds of Packages, Plants Claude Code and VS Code Hooks
 - **Published**: August 04, 2026
-- **Summary**: The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a high-severity security flaw impacting N-able N-central to its Known...
-- [Read more](https://thehackernews.com/2026/08/cisa-adds-exploited-n-able-n-central.html)
+- **Summary**: A credential-stealing npm worm that first appeared in keyv@6.0.0 spread beyond the Keyv and Cacheable namespaces into hundreds of packages across mult...
+- [Read more](https://thehackernews.com/2026/08/keyv-linked-npm-worm-poisons-hundreds.html)
 
-### Show HN: Made Our BI v7 – Free Open Source with All Features (AI, SSO, RLS etc.)
+### Fake Adobe and Zoom Updates Install ScreenConnect for Persistent Remote Access
 - **Published**: August 04, 2026
-- **Summary**: <p>We just made our BI v 7.0 product completely open source and free including all enterprise versions. Hence in github downloaded version, you can al...
-- [Read more](https://news.ycombinator.com/item?id=49165810)
+- **Summary**: Cybersecurity researchers have disclosed details of an active, multi-wave campaign that employs social engineering lures themed around Adobe and Zoom ...
+- [Read more](https://thehackernews.com/2026/08/fake-adobe-and-zoom-updates-install.html)
 
 ---
 
