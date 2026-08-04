@@ -16,17 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### JsxCore – A TSX/JSX View Engine for Asp.net Core
+### CISA Adds Exploited N-able N-central Flaw to KEV After Customer Compromises
 - **Published**: August 04, 2026
-- **Summary**: https://github.com/davidwhitney/JsxCore</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49163754">https://news.......
-- [Read more](https://github.com/davidwhitney/JsxCore)
+- **Summary**: The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a high-severity security flaw impacting N-able N-central to its Known...
+- [Read more](https://thehackernews.com/2026/08/cisa-adds-exploited-n-able-n-central.html)
 
-### Token use for exact prompt across models
+### Show HN: Made Our BI v7 – Free Open Source with All Features (AI, SSO, RLS etc.)
 - **Published**: August 04, 2026
-- **Summary**: https://twitter.com/jpschroeder/status/2081751862768717956</a></p>
-<p>Comments URL: <a href="https://news.ycombinat......
-- [Read more](https://twitter.com/jpschroeder/status/2081751862768717956)
+- **Summary**: <p>We just made our BI v 7.0 product completely open source and free including all enterprise versions. Hence in github downloaded version, you can al...
+- [Read more](https://news.ycombinator.com/item?id=49165810)
 
 ---
 
