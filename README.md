@@ -16,15 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Keyv-Linked npm Worm Poisons Hundreds of Packages, Plants Claude Code and VS Code Hooks
+### Netflix Seems to Be Down
 - **Published**: August 04, 2026
-- **Summary**: A credential-stealing npm worm that first appeared in keyv@6.0.0 spread beyond the Keyv and Cacheable namespaces into hundreds of packages across mult...
-- [Read more](https://thehackernews.com/2026/08/keyv-linked-npm-worm-poisons-hundreds.html)
+- **Summary**: https://twitter.com/shirin_kushwah/status/2084722464106697023</a></p>
+<p>Comments URL: <a href="https://news.yco......
+- **Keywords**: down
+- [Read more](https://twitter.com/shirin_kushwah/status/2084722464106697023)
 
-### Fake Adobe and Zoom Updates Install ScreenConnect for Persistent Remote Access
+### Greatness PhaaS Adds Device Code Phishing to Bypass MFA and Steal Tokens
 - **Published**: August 04, 2026
-- **Summary**: Cybersecurity researchers have disclosed details of an active, multi-wave campaign that employs social engineering lures themed around Adobe and Zoom ...
-- [Read more](https://thehackernews.com/2026/08/fake-adobe-and-zoom-updates-install.html)
+- **Summary**: The commercial phishing-as-a-service (PhaaS) toolkit known as Greatness has become the latest crimeware solution to add support for device code phishi...
+- [Read more](https://thehackernews.com/2026/08/greatness-phaas-adds-device-code.html)
 
 ---
 
