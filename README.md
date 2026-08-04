@@ -16,15 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### 18 Malicious npm Packages Deliver Cross-Platform RAT to Alibaba Tool Users
+### JsxCore – A TSX/JSX View Engine for Asp.net Core
 - **Published**: August 04, 2026
-- **Summary**: Cybersecurity researchers have discovered a new set of malicious npm packages that target users of Alibaba developer tools with a cross-platform remot...
-- [Read more](https://thehackernews.com/2026/08/18-malicious-npm-packages-deliver-cross.html)
+- **Summary**: https://github.com/davidwhitney/JsxCore</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49163754">https://news.......
+- [Read more](https://github.com/davidwhitney/JsxCore)
 
-### Google Password Manager Attacks Could Let Malware Hijack Passkey-Protected Accounts
-- **Published**: August 03, 2026
-- **Summary**: Malware running as an ordinary user on a Windows machine can sign into a victim's passkey-protected accounts without a fingerprint, a PIN, or anything...
-- [Read more](https://thehackernews.com/2026/08/google-password-manager-attacks-could.html)
+### Token use for exact prompt across models
+- **Published**: August 04, 2026
+- **Summary**: https://twitter.com/jpschroeder/status/2081751862768717956</a></p>
+<p>Comments URL: <a href="https://news.ycombinat......
+- [Read more](https://twitter.com/jpschroeder/status/2081751862768717956)
 
 ---
 
