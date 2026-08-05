@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Who coined the term "spin doctor"?
+### QuickFox Supply Chain Attack Delivers FDMTP Backdoor via Trojanized Windows Installer
 - **Published**: August 05, 2026
-- **Summary**: https://www.theguardian.com/notesandqueries/query/0,5753,-1124,00.html</a></p>
-<p>Comments URL: <a href......
-- [Read more](https://www.theguardian.com/notesandqueries/query/0,5753,-1124,00.html)
+- **Summary**: Cybersecurity researchers have disclosed what has been described as a "long-standing supply chain attack" on QuickFox, a virtual private network (VPN)...
+- [Read more](https://thehackernews.com/2026/08/quickfox-supply-chain-attack-delivers.html)
 
-### Cyberattacks target water systems in at least 12 states
+### When Compilers Disagree About UTF‑8
 - **Published**: August 05, 2026
-- **Summary**: https://www.axios.com/2026/08/04/water-cyberattacks-us-iran</a></p>
-<p>Comments URL: <a href="https://news.ycombin......
-- [Read more](https://www.axios.com/2026/08/04/water-cyberattacks-us-iran)
+- **Summary**: https://nemanjatrifunovic.substack.com/p/when-compilers-disagree-about-utf8</a></p>
+<p>Comments UR......
+- [Read more](https://nemanjatrifunovic.substack.com/p/when-compilers-disagree-about-utf8)
 
 ---
 
