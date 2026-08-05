@@ -16,17 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Netflix Seems to Be Down
-- **Published**: August 04, 2026
-- **Summary**: https://twitter.com/shirin_kushwah/status/2084722464106697023</a></p>
-<p>Comments URL: <a href="https://news.yco......
-- **Keywords**: down
-- [Read more](https://twitter.com/shirin_kushwah/status/2084722464106697023)
+### Who coined the term "spin doctor"?
+- **Published**: August 05, 2026
+- **Summary**: https://www.theguardian.com/notesandqueries/query/0,5753,-1124,00.html</a></p>
+<p>Comments URL: <a href......
+- [Read more](https://www.theguardian.com/notesandqueries/query/0,5753,-1124,00.html)
 
-### Greatness PhaaS Adds Device Code Phishing to Bypass MFA and Steal Tokens
-- **Published**: August 04, 2026
-- **Summary**: The commercial phishing-as-a-service (PhaaS) toolkit known as Greatness has become the latest crimeware solution to add support for device code phishi...
-- [Read more](https://thehackernews.com/2026/08/greatness-phaas-adds-device-code.html)
+### Cyberattacks target water systems in at least 12 states
+- **Published**: August 05, 2026
+- **Summary**: https://www.axios.com/2026/08/04/water-cyberattacks-us-iran</a></p>
+<p>Comments URL: <a href="https://news.ycombin......
+- [Read more](https://www.axios.com/2026/08/04/water-cyberattacks-us-iran)
 
 ---
 
