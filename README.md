@@ -16,16 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### QuickFox Supply Chain Attack Delivers FDMTP Backdoor via Trojanized Windows Installer
+### New OVSwrap Linux Kernel Flaw Lets Local Users Gain Root via Open vSwitch
 - **Published**: August 05, 2026
-- **Summary**: Cybersecurity researchers have disclosed what has been described as a "long-standing supply chain attack" on QuickFox, a virtual private network (VPN)...
-- [Read more](https://thehackernews.com/2026/08/quickfox-supply-chain-attack-delivers.html)
+- **Summary**: A memory corruption flaw in the Linux kernel's Open vSwitch datapath gives ordinary local users a path to root on a broad set of default-configured di...
+- [Read more](https://thehackernews.com/2026/08/new-ovswrap-linux-kernel-flaw-lets.html)
 
-### When Compilers Disagree About UTF‑8
+### Kali365 Weaponizes Microsoft Authentication Against US Companies: New Enterprise Risk
 - **Published**: August 05, 2026
-- **Summary**: https://nemanjatrifunovic.substack.com/p/when-compilers-disagree-about-utf8</a></p>
-<p>Comments UR......
-- [Read more](https://nemanjatrifunovic.substack.com/p/when-compilers-disagree-about-utf8)
+- **Summary**: Kali365 is turning a legitimate Microsoft login into a gateway to corporate data.
+
+The phishing kit targets US organizations with attacker-controlled ...
+- [Read more](https://thehackernews.com/2026/08/kali365-weaponizes-microsoft.html)
 
 ---
 
