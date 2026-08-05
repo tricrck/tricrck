@@ -1,10 +1,28 @@
 {
   "chaos_ranked": [
     {
-      "title": "New OVSwrap Linux Kernel Flaw Lets Local Users Gain Root via Open vSwitch",
-      "link": "https://thehackernews.com/2026/08/new-ovswrap-linux-kernel-flaw-lets.html",
-      "summary": "A memory corruption flaw in the Linux kernel's Open vSwitch datapath gives ordinary local users a path to root on a broad set of default-configured distributions, and a public exploit ships with pre-b...",
-      "published": "2026-08-05T17:13:27+05:30",
+      "title": "Veeam, Terraform MCP, Django Patch Critical Flaws, Led by CVSS 10.0 Cross-Tenant Bug",
+      "link": "https://thehackernews.com/2026/08/veeam-terraform-mcp-django-patch.html",
+      "summary": "HashiCorp, Veeam, and the Django Software Foundation have patched 11 vulnerabilities across Terraform MCP Server, Veeam Service Provider Console, and Django.\n\nThe three most serious:\n\n\n  An unauthenti...",
+      "published": "2026-08-05T19:57:30+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 11.3,
+        "anarchy": 3.0,
+        "overall": 7.2
+      },
+      "keywords": {
+        "chaos": [
+          "bug"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Over 250 ClickFix Domains Use Browser Fingerprinting to Hide macOS Malware Lures",
+      "link": "https://thehackernews.com/2026/08/over-250-clickfix-domains-use-browser.html",
+      "summary": "A macOS ClickFix operation spanning more than 250 front-end domains now fingerprints visitors before deciding whether to show them a malware lure, a change Microsoft Threat Intelligence tracked on inf...",
+      "published": "2026-08-06T00:14:31+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -17,10 +35,10 @@
       }
     },
     {
-      "title": "Kali365 Weaponizes Microsoft Authentication Against US Companies: New Enterprise Risk",
-      "link": "https://thehackernews.com/2026/08/kali365-weaponizes-microsoft.html",
-      "summary": "Kali365 is turning a legitimate Microsoft login into a gateway to corporate data.\n\nThe phishing kit targets US organizations with attacker-controlled device codes that victims approve on Microsoft's r...",
-      "published": "2026-08-05T17:13:19+05:30",
+      "title": "OpenAI Disrupts Poipet Scam Network Using ChatGPT Across Multiple Fraud Schemes",
+      "link": "https://thehackernews.com/2026/08/openai-disrupts-poipet-scam-network.html",
+      "summary": "OpenAI said it disrupted a Cambodia-based scam operation that used its generative artificial intelligence (AI) chatbot ChatGPT to facilitate a wide range of investment, romance, gambling, and law enfo...",
+      "published": "2026-08-06T00:03:47+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -33,10 +51,28 @@
       }
     },
     {
-      "title": "Critical Gitea Flaw Let Unauthenticated Attackers Read Server Files via Org-Mode Markup",
-      "link": "https://thehackernews.com/2026/08/critical-gitea-flaw-let-unauthenticated.html",
-      "summary": "An unauthenticated attacker can read any file the service account can access on Gitea, the self-hosted Git platform, in versions 1.22.1 through 1.27.0. No login, no repository write access. A public r...",
-      "published": "2026-08-05T16:34:23+05:30",
+      "title": "Poison Claude Sells Discounted Claude Access While Its Operator Sees Every Customer Prompt",
+      "link": "https://thehackernews.com/2026/08/poison-claude-sells-discounted-claude.html",
+      "summary": "Cybersecurity researchers have discovered more than half-a-dozen services advertisements for illegal access to artificial intelligence (AI) models on underground cybercrime forums and messaging platfo...",
+      "published": "2026-08-05T21:06:03+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 13.8,
+        "overall": 8.4
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": [
+          "underground"
+        ]
+      }
+    },
+    {
+      "title": "Paperclip AI Flaws Let Attackers Run Host Commands via Malicious Agent Imports",
+      "link": "https://thehackernews.com/2026/08/paperclip-ai-flaws-let-attackers-run.html",
+      "summary": "Two security flaws in Paperclip could let attackers execute commands on a network server or a developer's computer. Paperclip is an open-source control plane for teams of artificial intelligence (AI) ...",
+      "published": "2026-08-05T20:44:05+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -49,11 +85,11 @@
       }
     },
     {
-      "title": "Leaked n8n API Tokens Exposed Live Instances to Credential Theft",
-      "link": "https://thehackernews.com/2026/08/leaked-n8n-api-tokens-exposed-live.html",
-      "summary": "GitGuardian researchers found 321 n8n instances accepting API tokens exposed in public GitHub commits and demonstrated four ways attackers could use them to access sensitive data and downstream creden...",
-      "published": "2026-08-05T16:05:29+05:30",
-      "domain": "thehackernews.com",
+      "title": "Meta debuts first AI coding agent to take on Anthropic and OpenAI",
+      "link": "https://www.cnbc.com/2026/08/05/meta-debuts-muse-code-to-take-on-anthropic-and-openai-.html",
+      "summary": "<p>Article URL: <a href=\"https://www.cnbc.com/2026/08/05/meta-debuts-muse-code-to-take-on-anthropic-and-openai-.html\">https://www.cnbc.com/2026/08/05/meta-debuts-muse-code-to-take-on-anthropic-and-ope...",
+      "published": "2026-08-05T19:25:30+00:00",
+      "domain": "cnbc.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -65,11 +101,11 @@
       }
     },
     {
-      "title": "Open VSX Removes 77 Malicious Evil Twin Extensions Exfiltrating Developer Data",
-      "link": "https://thehackernews.com/2026/08/open-vsx-removes-77-malicious-evil-twin.html",
-      "summary": "A cluster of 77 extensions on the Open VSX marketplace has been found to impersonate legitimate developer tools while transmitting information about the systems and development environments on which t...",
-      "published": "2026-08-05T14:53:03+05:30",
-      "domain": "thehackernews.com",
+      "title": "Price changes in consumer goods and services in the United States",
+      "link": "https://ourworldindata.org/grapher/price-changes-consumer-goods-services-united-states",
+      "summary": "<p>Article URL: <a href=\"https://ourworldindata.org/grapher/price-changes-consumer-goods-services-united-states\">https://ourworldindata.org/grapher/price-changes-consumer-goods-services-united-states<...",
+      "published": "2026-08-05T19:24:54+00:00",
+      "domain": "ourworldindata.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -81,11 +117,11 @@
       }
     },
     {
-      "title": "The Winners of Trump's A.I. Safety Plan",
-      "link": "https://www.nytimes.com/2026/08/05/business/dealbook/winners-trump-ai-policy.html",
-      "summary": "<p>Article URL: <a href=\"https://www.nytimes.com/2026/08/05/business/dealbook/winners-trump-ai-policy.html\">https://www.nytimes.com/2026/08/05/business/dealbook/winners-trump-ai-policy.html</a></p>\n<p...",
-      "published": "2026-08-05T14:07:07+00:00",
-      "domain": "nytimes.com",
+      "title": "Meta Muse Spark 1.2",
+      "link": "https://developer.meta.com/ai/models/muse-spark/",
+      "summary": "<p>Article URL: <a href=\"https://developer.meta.com/ai/models/muse-spark/\">https://developer.meta.com/ai/models/muse-spark/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49187...",
+      "published": "2026-08-05T19:24:49+00:00",
+      "domain": "developer.meta.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -97,11 +133,11 @@
       }
     },
     {
-      "title": "Moving Forward from Hot Fable Summer",
-      "link": "https://alexstamos.com/p/moving-forward-from-hot-fable-summer",
-      "summary": "<p>Article URL: <a href=\"https://alexstamos.com/p/moving-forward-from-hot-fable-summer\">https://alexstamos.com/p/moving-forward-from-hot-fable-summer</a></p>\n<p>Comments URL: <a href=\"https://news.yco...",
-      "published": "2026-08-05T14:06:49+00:00",
-      "domain": "alexstamos.com",
+      "title": "Unified Representation for Continuous-Latent Diffusion Language Modeling",
+      "link": "https://arxiv.org/abs/2608.02602",
+      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2608.02602\">https://arxiv.org/abs/2608.02602</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49187690\">https://news.ycombinator.co...",
+      "published": "2026-08-05T19:24:47+00:00",
+      "domain": "arxiv.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -113,43 +149,11 @@
       }
     },
     {
-      "title": "Aristotle quotes on virtue, knowledge, and happiness",
-      "link": "https://www.campion.edu.au/blog/top-25-aristotle-quotes-on-virtue-knowledge-and-happiness/",
-      "summary": "<p>Article URL: <a href=\"https://www.campion.edu.au/blog/top-25-aristotle-quotes-on-virtue-knowledge-and-happiness/\">https://www.campion.edu.au/blog/top-25-aristotle-quotes-on-virtue-knowledge-and-hap...",
-      "published": "2026-08-05T14:06:39+00:00",
-      "domain": "campion.edu.au",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: Vocab Top \u2013 AI-powered vocabulary builder that helps you retain words",
-      "link": "https://www.vocab.top/",
-      "summary": "<p>Article URL: <a href=\"https://www.vocab.top/\">https://www.vocab.top/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49183110\">https://news.ycombinator.com/item?id=49183110</...",
-      "published": "2026-08-05T14:06:20+00:00",
-      "domain": "vocab.top",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "I'm Publishing Every Medical Record I Have [video]",
-      "link": "https://www.youtube.com/watch?v=krP9EGyLCRE",
-      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=krP9EGyLCRE\">https://www.youtube.com/watch?v=krP9EGyLCRE</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49183103\">https...",
-      "published": "2026-08-05T14:05:35+00:00",
-      "domain": "youtube.com",
+      "title": "How to Survive in a Louisiana Swamp",
+      "link": "https://unherd.com/2026/08/how-to-survive-on-a-louisiana-swamp/",
+      "summary": "<p>Article URL: <a href=\"https://unherd.com/2026/08/how-to-survive-on-a-louisiana-swamp/\">https://unherd.com/2026/08/how-to-survive-on-a-louisiana-swamp/</a></p>\n<p>Comments URL: <a href=\"https://news...",
+      "published": "2026-08-05T19:24:18+00:00",
+      "domain": "unherd.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -163,10 +167,28 @@
   ],
   "anarchy_ranked": [
     {
-      "title": "New OVSwrap Linux Kernel Flaw Lets Local Users Gain Root via Open vSwitch",
-      "link": "https://thehackernews.com/2026/08/new-ovswrap-linux-kernel-flaw-lets.html",
-      "summary": "A memory corruption flaw in the Linux kernel's Open vSwitch datapath gives ordinary local users a path to root on a broad set of default-configured distributions, and a public exploit ships with pre-b...",
-      "published": "2026-08-05T17:13:27+05:30",
+      "title": "Poison Claude Sells Discounted Claude Access While Its Operator Sees Every Customer Prompt",
+      "link": "https://thehackernews.com/2026/08/poison-claude-sells-discounted-claude.html",
+      "summary": "Cybersecurity researchers have discovered more than half-a-dozen services advertisements for illegal access to artificial intelligence (AI) models on underground cybercrime forums and messaging platfo...",
+      "published": "2026-08-05T21:06:03+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 13.8,
+        "overall": 8.4
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": [
+          "underground"
+        ]
+      }
+    },
+    {
+      "title": "Over 250 ClickFix Domains Use Browser Fingerprinting to Hide macOS Malware Lures",
+      "link": "https://thehackernews.com/2026/08/over-250-clickfix-domains-use-browser.html",
+      "summary": "A macOS ClickFix operation spanning more than 250 front-end domains now fingerprints visitors before deciding whether to show them a malware lure, a change Microsoft Threat Intelligence tracked on inf...",
+      "published": "2026-08-06T00:14:31+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -179,10 +201,10 @@
       }
     },
     {
-      "title": "Kali365 Weaponizes Microsoft Authentication Against US Companies: New Enterprise Risk",
-      "link": "https://thehackernews.com/2026/08/kali365-weaponizes-microsoft.html",
-      "summary": "Kali365 is turning a legitimate Microsoft login into a gateway to corporate data.\n\nThe phishing kit targets US organizations with attacker-controlled device codes that victims approve on Microsoft's r...",
-      "published": "2026-08-05T17:13:19+05:30",
+      "title": "OpenAI Disrupts Poipet Scam Network Using ChatGPT Across Multiple Fraud Schemes",
+      "link": "https://thehackernews.com/2026/08/openai-disrupts-poipet-scam-network.html",
+      "summary": "OpenAI said it disrupted a Cambodia-based scam operation that used its generative artificial intelligence (AI) chatbot ChatGPT to facilitate a wide range of investment, romance, gambling, and law enfo...",
+      "published": "2026-08-06T00:03:47+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -195,10 +217,10 @@
       }
     },
     {
-      "title": "Critical Gitea Flaw Let Unauthenticated Attackers Read Server Files via Org-Mode Markup",
-      "link": "https://thehackernews.com/2026/08/critical-gitea-flaw-let-unauthenticated.html",
-      "summary": "An unauthenticated attacker can read any file the service account can access on Gitea, the self-hosted Git platform, in versions 1.22.1 through 1.27.0. No login, no repository write access. A public r...",
-      "published": "2026-08-05T16:34:23+05:30",
+      "title": "Paperclip AI Flaws Let Attackers Run Host Commands via Malicious Agent Imports",
+      "link": "https://thehackernews.com/2026/08/paperclip-ai-flaws-let-attackers-run.html",
+      "summary": "Two security flaws in Paperclip could let attackers execute commands on a network server or a developer's computer. Paperclip is an open-source control plane for teams of artificial intelligence (AI) ...",
+      "published": "2026-08-05T20:44:05+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -211,27 +233,29 @@
       }
     },
     {
-      "title": "Leaked n8n API Tokens Exposed Live Instances to Credential Theft",
-      "link": "https://thehackernews.com/2026/08/leaked-n8n-api-tokens-exposed-live.html",
-      "summary": "GitGuardian researchers found 321 n8n instances accepting API tokens exposed in public GitHub commits and demonstrated four ways attackers could use them to access sensitive data and downstream creden...",
-      "published": "2026-08-05T16:05:29+05:30",
+      "title": "Veeam, Terraform MCP, Django Patch Critical Flaws, Led by CVSS 10.0 Cross-Tenant Bug",
+      "link": "https://thehackernews.com/2026/08/veeam-terraform-mcp-django-patch.html",
+      "summary": "HashiCorp, Veeam, and the Django Software Foundation have patched 11 vulnerabilities across Terraform MCP Server, Veeam Service Provider Console, and Django.\n\nThe three most serious:\n\n\n  An unauthenti...",
+      "published": "2026-08-05T19:57:30+05:30",
       "domain": "thehackernews.com",
       "scores": {
-        "chaos": 3.0,
+        "chaos": 11.3,
         "anarchy": 3.0,
-        "overall": 3.0
+        "overall": 7.2
       },
       "keywords": {
-        "chaos": [],
+        "chaos": [
+          "bug"
+        ],
         "anarchy": []
       }
     },
     {
-      "title": "Open VSX Removes 77 Malicious Evil Twin Extensions Exfiltrating Developer Data",
-      "link": "https://thehackernews.com/2026/08/open-vsx-removes-77-malicious-evil-twin.html",
-      "summary": "A cluster of 77 extensions on the Open VSX marketplace has been found to impersonate legitimate developer tools while transmitting information about the systems and development environments on which t...",
-      "published": "2026-08-05T14:53:03+05:30",
-      "domain": "thehackernews.com",
+      "title": "Meta debuts first AI coding agent to take on Anthropic and OpenAI",
+      "link": "https://www.cnbc.com/2026/08/05/meta-debuts-muse-code-to-take-on-anthropic-and-openai-.html",
+      "summary": "<p>Article URL: <a href=\"https://www.cnbc.com/2026/08/05/meta-debuts-muse-code-to-take-on-anthropic-and-openai-.html\">https://www.cnbc.com/2026/08/05/meta-debuts-muse-code-to-take-on-anthropic-and-ope...",
+      "published": "2026-08-05T19:25:30+00:00",
+      "domain": "cnbc.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -243,11 +267,11 @@
       }
     },
     {
-      "title": "The Winners of Trump's A.I. Safety Plan",
-      "link": "https://www.nytimes.com/2026/08/05/business/dealbook/winners-trump-ai-policy.html",
-      "summary": "<p>Article URL: <a href=\"https://www.nytimes.com/2026/08/05/business/dealbook/winners-trump-ai-policy.html\">https://www.nytimes.com/2026/08/05/business/dealbook/winners-trump-ai-policy.html</a></p>\n<p...",
-      "published": "2026-08-05T14:07:07+00:00",
-      "domain": "nytimes.com",
+      "title": "Price changes in consumer goods and services in the United States",
+      "link": "https://ourworldindata.org/grapher/price-changes-consumer-goods-services-united-states",
+      "summary": "<p>Article URL: <a href=\"https://ourworldindata.org/grapher/price-changes-consumer-goods-services-united-states\">https://ourworldindata.org/grapher/price-changes-consumer-goods-services-united-states<...",
+      "published": "2026-08-05T19:24:54+00:00",
+      "domain": "ourworldindata.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -259,11 +283,11 @@
       }
     },
     {
-      "title": "Moving Forward from Hot Fable Summer",
-      "link": "https://alexstamos.com/p/moving-forward-from-hot-fable-summer",
-      "summary": "<p>Article URL: <a href=\"https://alexstamos.com/p/moving-forward-from-hot-fable-summer\">https://alexstamos.com/p/moving-forward-from-hot-fable-summer</a></p>\n<p>Comments URL: <a href=\"https://news.yco...",
-      "published": "2026-08-05T14:06:49+00:00",
-      "domain": "alexstamos.com",
+      "title": "Meta Muse Spark 1.2",
+      "link": "https://developer.meta.com/ai/models/muse-spark/",
+      "summary": "<p>Article URL: <a href=\"https://developer.meta.com/ai/models/muse-spark/\">https://developer.meta.com/ai/models/muse-spark/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49187...",
+      "published": "2026-08-05T19:24:49+00:00",
+      "domain": "developer.meta.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -275,11 +299,11 @@
       }
     },
     {
-      "title": "Aristotle quotes on virtue, knowledge, and happiness",
-      "link": "https://www.campion.edu.au/blog/top-25-aristotle-quotes-on-virtue-knowledge-and-happiness/",
-      "summary": "<p>Article URL: <a href=\"https://www.campion.edu.au/blog/top-25-aristotle-quotes-on-virtue-knowledge-and-happiness/\">https://www.campion.edu.au/blog/top-25-aristotle-quotes-on-virtue-knowledge-and-hap...",
-      "published": "2026-08-05T14:06:39+00:00",
-      "domain": "campion.edu.au",
+      "title": "Unified Representation for Continuous-Latent Diffusion Language Modeling",
+      "link": "https://arxiv.org/abs/2608.02602",
+      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2608.02602\">https://arxiv.org/abs/2608.02602</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49187690\">https://news.ycombinator.co...",
+      "published": "2026-08-05T19:24:47+00:00",
+      "domain": "arxiv.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -291,27 +315,11 @@
       }
     },
     {
-      "title": "Show HN: Vocab Top \u2013 AI-powered vocabulary builder that helps you retain words",
-      "link": "https://www.vocab.top/",
-      "summary": "<p>Article URL: <a href=\"https://www.vocab.top/\">https://www.vocab.top/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49183110\">https://news.ycombinator.com/item?id=49183110</...",
-      "published": "2026-08-05T14:06:20+00:00",
-      "domain": "vocab.top",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "I'm Publishing Every Medical Record I Have [video]",
-      "link": "https://www.youtube.com/watch?v=krP9EGyLCRE",
-      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=krP9EGyLCRE\">https://www.youtube.com/watch?v=krP9EGyLCRE</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49183103\">https...",
-      "published": "2026-08-05T14:05:35+00:00",
-      "domain": "youtube.com",
+      "title": "How to Survive in a Louisiana Swamp",
+      "link": "https://unherd.com/2026/08/how-to-survive-on-a-louisiana-swamp/",
+      "summary": "<p>Article URL: <a href=\"https://unherd.com/2026/08/how-to-survive-on-a-louisiana-swamp/\">https://unherd.com/2026/08/how-to-survive-on-a-louisiana-swamp/</a></p>\n<p>Comments URL: <a href=\"https://news...",
+      "published": "2026-08-05T19:24:18+00:00",
+      "domain": "unherd.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -325,10 +333,46 @@
   ],
   "overall_ranked": [
     {
-      "title": "New OVSwrap Linux Kernel Flaw Lets Local Users Gain Root via Open vSwitch",
-      "link": "https://thehackernews.com/2026/08/new-ovswrap-linux-kernel-flaw-lets.html",
-      "summary": "A memory corruption flaw in the Linux kernel's Open vSwitch datapath gives ordinary local users a path to root on a broad set of default-configured distributions, and a public exploit ships with pre-b...",
-      "published": "2026-08-05T17:13:27+05:30",
+      "title": "Poison Claude Sells Discounted Claude Access While Its Operator Sees Every Customer Prompt",
+      "link": "https://thehackernews.com/2026/08/poison-claude-sells-discounted-claude.html",
+      "summary": "Cybersecurity researchers have discovered more than half-a-dozen services advertisements for illegal access to artificial intelligence (AI) models on underground cybercrime forums and messaging platfo...",
+      "published": "2026-08-05T21:06:03+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 13.8,
+        "overall": 8.4
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": [
+          "underground"
+        ]
+      }
+    },
+    {
+      "title": "Veeam, Terraform MCP, Django Patch Critical Flaws, Led by CVSS 10.0 Cross-Tenant Bug",
+      "link": "https://thehackernews.com/2026/08/veeam-terraform-mcp-django-patch.html",
+      "summary": "HashiCorp, Veeam, and the Django Software Foundation have patched 11 vulnerabilities across Terraform MCP Server, Veeam Service Provider Console, and Django.\n\nThe three most serious:\n\n\n  An unauthenti...",
+      "published": "2026-08-05T19:57:30+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 11.3,
+        "anarchy": 3.0,
+        "overall": 7.2
+      },
+      "keywords": {
+        "chaos": [
+          "bug"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Over 250 ClickFix Domains Use Browser Fingerprinting to Hide macOS Malware Lures",
+      "link": "https://thehackernews.com/2026/08/over-250-clickfix-domains-use-browser.html",
+      "summary": "A macOS ClickFix operation spanning more than 250 front-end domains now fingerprints visitors before deciding whether to show them a malware lure, a change Microsoft Threat Intelligence tracked on inf...",
+      "published": "2026-08-06T00:14:31+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -341,10 +385,10 @@
       }
     },
     {
-      "title": "Kali365 Weaponizes Microsoft Authentication Against US Companies: New Enterprise Risk",
-      "link": "https://thehackernews.com/2026/08/kali365-weaponizes-microsoft.html",
-      "summary": "Kali365 is turning a legitimate Microsoft login into a gateway to corporate data.\n\nThe phishing kit targets US organizations with attacker-controlled device codes that victims approve on Microsoft's r...",
-      "published": "2026-08-05T17:13:19+05:30",
+      "title": "OpenAI Disrupts Poipet Scam Network Using ChatGPT Across Multiple Fraud Schemes",
+      "link": "https://thehackernews.com/2026/08/openai-disrupts-poipet-scam-network.html",
+      "summary": "OpenAI said it disrupted a Cambodia-based scam operation that used its generative artificial intelligence (AI) chatbot ChatGPT to facilitate a wide range of investment, romance, gambling, and law enfo...",
+      "published": "2026-08-06T00:03:47+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -357,10 +401,10 @@
       }
     },
     {
-      "title": "Critical Gitea Flaw Let Unauthenticated Attackers Read Server Files via Org-Mode Markup",
-      "link": "https://thehackernews.com/2026/08/critical-gitea-flaw-let-unauthenticated.html",
-      "summary": "An unauthenticated attacker can read any file the service account can access on Gitea, the self-hosted Git platform, in versions 1.22.1 through 1.27.0. No login, no repository write access. A public r...",
-      "published": "2026-08-05T16:34:23+05:30",
+      "title": "Paperclip AI Flaws Let Attackers Run Host Commands via Malicious Agent Imports",
+      "link": "https://thehackernews.com/2026/08/paperclip-ai-flaws-let-attackers-run.html",
+      "summary": "Two security flaws in Paperclip could let attackers execute commands on a network server or a developer's computer. Paperclip is an open-source control plane for teams of artificial intelligence (AI) ...",
+      "published": "2026-08-05T20:44:05+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -373,11 +417,11 @@
       }
     },
     {
-      "title": "Leaked n8n API Tokens Exposed Live Instances to Credential Theft",
-      "link": "https://thehackernews.com/2026/08/leaked-n8n-api-tokens-exposed-live.html",
-      "summary": "GitGuardian researchers found 321 n8n instances accepting API tokens exposed in public GitHub commits and demonstrated four ways attackers could use them to access sensitive data and downstream creden...",
-      "published": "2026-08-05T16:05:29+05:30",
-      "domain": "thehackernews.com",
+      "title": "Meta debuts first AI coding agent to take on Anthropic and OpenAI",
+      "link": "https://www.cnbc.com/2026/08/05/meta-debuts-muse-code-to-take-on-anthropic-and-openai-.html",
+      "summary": "<p>Article URL: <a href=\"https://www.cnbc.com/2026/08/05/meta-debuts-muse-code-to-take-on-anthropic-and-openai-.html\">https://www.cnbc.com/2026/08/05/meta-debuts-muse-code-to-take-on-anthropic-and-ope...",
+      "published": "2026-08-05T19:25:30+00:00",
+      "domain": "cnbc.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -389,11 +433,11 @@
       }
     },
     {
-      "title": "Open VSX Removes 77 Malicious Evil Twin Extensions Exfiltrating Developer Data",
-      "link": "https://thehackernews.com/2026/08/open-vsx-removes-77-malicious-evil-twin.html",
-      "summary": "A cluster of 77 extensions on the Open VSX marketplace has been found to impersonate legitimate developer tools while transmitting information about the systems and development environments on which t...",
-      "published": "2026-08-05T14:53:03+05:30",
-      "domain": "thehackernews.com",
+      "title": "Price changes in consumer goods and services in the United States",
+      "link": "https://ourworldindata.org/grapher/price-changes-consumer-goods-services-united-states",
+      "summary": "<p>Article URL: <a href=\"https://ourworldindata.org/grapher/price-changes-consumer-goods-services-united-states\">https://ourworldindata.org/grapher/price-changes-consumer-goods-services-united-states<...",
+      "published": "2026-08-05T19:24:54+00:00",
+      "domain": "ourworldindata.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -405,11 +449,11 @@
       }
     },
     {
-      "title": "The Winners of Trump's A.I. Safety Plan",
-      "link": "https://www.nytimes.com/2026/08/05/business/dealbook/winners-trump-ai-policy.html",
-      "summary": "<p>Article URL: <a href=\"https://www.nytimes.com/2026/08/05/business/dealbook/winners-trump-ai-policy.html\">https://www.nytimes.com/2026/08/05/business/dealbook/winners-trump-ai-policy.html</a></p>\n<p...",
-      "published": "2026-08-05T14:07:07+00:00",
-      "domain": "nytimes.com",
+      "title": "Meta Muse Spark 1.2",
+      "link": "https://developer.meta.com/ai/models/muse-spark/",
+      "summary": "<p>Article URL: <a href=\"https://developer.meta.com/ai/models/muse-spark/\">https://developer.meta.com/ai/models/muse-spark/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49187...",
+      "published": "2026-08-05T19:24:49+00:00",
+      "domain": "developer.meta.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -421,11 +465,11 @@
       }
     },
     {
-      "title": "Moving Forward from Hot Fable Summer",
-      "link": "https://alexstamos.com/p/moving-forward-from-hot-fable-summer",
-      "summary": "<p>Article URL: <a href=\"https://alexstamos.com/p/moving-forward-from-hot-fable-summer\">https://alexstamos.com/p/moving-forward-from-hot-fable-summer</a></p>\n<p>Comments URL: <a href=\"https://news.yco...",
-      "published": "2026-08-05T14:06:49+00:00",
-      "domain": "alexstamos.com",
+      "title": "Unified Representation for Continuous-Latent Diffusion Language Modeling",
+      "link": "https://arxiv.org/abs/2608.02602",
+      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2608.02602\">https://arxiv.org/abs/2608.02602</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49187690\">https://news.ycombinator.co...",
+      "published": "2026-08-05T19:24:47+00:00",
+      "domain": "arxiv.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -437,43 +481,11 @@
       }
     },
     {
-      "title": "Aristotle quotes on virtue, knowledge, and happiness",
-      "link": "https://www.campion.edu.au/blog/top-25-aristotle-quotes-on-virtue-knowledge-and-happiness/",
-      "summary": "<p>Article URL: <a href=\"https://www.campion.edu.au/blog/top-25-aristotle-quotes-on-virtue-knowledge-and-happiness/\">https://www.campion.edu.au/blog/top-25-aristotle-quotes-on-virtue-knowledge-and-hap...",
-      "published": "2026-08-05T14:06:39+00:00",
-      "domain": "campion.edu.au",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: Vocab Top \u2013 AI-powered vocabulary builder that helps you retain words",
-      "link": "https://www.vocab.top/",
-      "summary": "<p>Article URL: <a href=\"https://www.vocab.top/\">https://www.vocab.top/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49183110\">https://news.ycombinator.com/item?id=49183110</...",
-      "published": "2026-08-05T14:06:20+00:00",
-      "domain": "vocab.top",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "I'm Publishing Every Medical Record I Have [video]",
-      "link": "https://www.youtube.com/watch?v=krP9EGyLCRE",
-      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=krP9EGyLCRE\">https://www.youtube.com/watch?v=krP9EGyLCRE</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49183103\">https...",
-      "published": "2026-08-05T14:05:35+00:00",
-      "domain": "youtube.com",
+      "title": "How to Survive in a Louisiana Swamp",
+      "link": "https://unherd.com/2026/08/how-to-survive-on-a-louisiana-swamp/",
+      "summary": "<p>Article URL: <a href=\"https://unherd.com/2026/08/how-to-survive-on-a-louisiana-swamp/\">https://unherd.com/2026/08/how-to-survive-on-a-louisiana-swamp/</a></p>\n<p>Comments URL: <a href=\"https://news...",
+      "published": "2026-08-05T19:24:18+00:00",
+      "domain": "unherd.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -487,10 +499,10 @@
   ],
   "all_articles": [
     {
-      "title": "New OVSwrap Linux Kernel Flaw Lets Local Users Gain Root via Open vSwitch",
-      "link": "https://thehackernews.com/2026/08/new-ovswrap-linux-kernel-flaw-lets.html",
-      "summary": "A memory corruption flaw in the Linux kernel's Open vSwitch datapath gives ordinary local users a path to root on a broad set of default-configured distributions, and a public exploit ships with pre-b...",
-      "published": "2026-08-05T17:13:27+05:30",
+      "title": "Over 250 ClickFix Domains Use Browser Fingerprinting to Hide macOS Malware Lures",
+      "link": "https://thehackernews.com/2026/08/over-250-clickfix-domains-use-browser.html",
+      "summary": "A macOS ClickFix operation spanning more than 250 front-end domains now fingerprints visitors before deciding whether to show them a malware lure, a change Microsoft Threat Intelligence tracked on inf...",
+      "published": "2026-08-06T00:14:31+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -503,10 +515,10 @@
       }
     },
     {
-      "title": "Kali365 Weaponizes Microsoft Authentication Against US Companies: New Enterprise Risk",
-      "link": "https://thehackernews.com/2026/08/kali365-weaponizes-microsoft.html",
-      "summary": "Kali365 is turning a legitimate Microsoft login into a gateway to corporate data.\n\nThe phishing kit targets US organizations with attacker-controlled device codes that victims approve on Microsoft's r...",
-      "published": "2026-08-05T17:13:19+05:30",
+      "title": "OpenAI Disrupts Poipet Scam Network Using ChatGPT Across Multiple Fraud Schemes",
+      "link": "https://thehackernews.com/2026/08/openai-disrupts-poipet-scam-network.html",
+      "summary": "OpenAI said it disrupted a Cambodia-based scam operation that used its generative artificial intelligence (AI) chatbot ChatGPT to facilitate a wide range of investment, romance, gambling, and law enfo...",
+      "published": "2026-08-06T00:03:47+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -519,10 +531,28 @@
       }
     },
     {
-      "title": "Critical Gitea Flaw Let Unauthenticated Attackers Read Server Files via Org-Mode Markup",
-      "link": "https://thehackernews.com/2026/08/critical-gitea-flaw-let-unauthenticated.html",
-      "summary": "An unauthenticated attacker can read any file the service account can access on Gitea, the self-hosted Git platform, in versions 1.22.1 through 1.27.0. No login, no repository write access. A public r...",
-      "published": "2026-08-05T16:34:23+05:30",
+      "title": "Poison Claude Sells Discounted Claude Access While Its Operator Sees Every Customer Prompt",
+      "link": "https://thehackernews.com/2026/08/poison-claude-sells-discounted-claude.html",
+      "summary": "Cybersecurity researchers have discovered more than half-a-dozen services advertisements for illegal access to artificial intelligence (AI) models on underground cybercrime forums and messaging platfo...",
+      "published": "2026-08-05T21:06:03+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 13.8,
+        "overall": 8.4
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": [
+          "underground"
+        ]
+      }
+    },
+    {
+      "title": "Paperclip AI Flaws Let Attackers Run Host Commands via Malicious Agent Imports",
+      "link": "https://thehackernews.com/2026/08/paperclip-ai-flaws-let-attackers-run.html",
+      "summary": "Two security flaws in Paperclip could let attackers execute commands on a network server or a developer's computer. Paperclip is an open-source control plane for teams of artificial intelligence (AI) ...",
+      "published": "2026-08-05T20:44:05+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -535,27 +565,29 @@
       }
     },
     {
-      "title": "Leaked n8n API Tokens Exposed Live Instances to Credential Theft",
-      "link": "https://thehackernews.com/2026/08/leaked-n8n-api-tokens-exposed-live.html",
-      "summary": "GitGuardian researchers found 321 n8n instances accepting API tokens exposed in public GitHub commits and demonstrated four ways attackers could use them to access sensitive data and downstream creden...",
-      "published": "2026-08-05T16:05:29+05:30",
+      "title": "Veeam, Terraform MCP, Django Patch Critical Flaws, Led by CVSS 10.0 Cross-Tenant Bug",
+      "link": "https://thehackernews.com/2026/08/veeam-terraform-mcp-django-patch.html",
+      "summary": "HashiCorp, Veeam, and the Django Software Foundation have patched 11 vulnerabilities across Terraform MCP Server, Veeam Service Provider Console, and Django.\n\nThe three most serious:\n\n\n  An unauthenti...",
+      "published": "2026-08-05T19:57:30+05:30",
       "domain": "thehackernews.com",
       "scores": {
-        "chaos": 3.0,
+        "chaos": 11.3,
         "anarchy": 3.0,
-        "overall": 3.0
+        "overall": 7.2
       },
       "keywords": {
-        "chaos": [],
+        "chaos": [
+          "bug"
+        ],
         "anarchy": []
       }
     },
     {
-      "title": "Open VSX Removes 77 Malicious Evil Twin Extensions Exfiltrating Developer Data",
-      "link": "https://thehackernews.com/2026/08/open-vsx-removes-77-malicious-evil-twin.html",
-      "summary": "A cluster of 77 extensions on the Open VSX marketplace has been found to impersonate legitimate developer tools while transmitting information about the systems and development environments on which t...",
-      "published": "2026-08-05T14:53:03+05:30",
-      "domain": "thehackernews.com",
+      "title": "Meta debuts first AI coding agent to take on Anthropic and OpenAI",
+      "link": "https://www.cnbc.com/2026/08/05/meta-debuts-muse-code-to-take-on-anthropic-and-openai-.html",
+      "summary": "<p>Article URL: <a href=\"https://www.cnbc.com/2026/08/05/meta-debuts-muse-code-to-take-on-anthropic-and-openai-.html\">https://www.cnbc.com/2026/08/05/meta-debuts-muse-code-to-take-on-anthropic-and-ope...",
+      "published": "2026-08-05T19:25:30+00:00",
+      "domain": "cnbc.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -567,11 +599,11 @@
       }
     },
     {
-      "title": "The Winners of Trump's A.I. Safety Plan",
-      "link": "https://www.nytimes.com/2026/08/05/business/dealbook/winners-trump-ai-policy.html",
-      "summary": "<p>Article URL: <a href=\"https://www.nytimes.com/2026/08/05/business/dealbook/winners-trump-ai-policy.html\">https://www.nytimes.com/2026/08/05/business/dealbook/winners-trump-ai-policy.html</a></p>\n<p...",
-      "published": "2026-08-05T14:07:07+00:00",
-      "domain": "nytimes.com",
+      "title": "Price changes in consumer goods and services in the United States",
+      "link": "https://ourworldindata.org/grapher/price-changes-consumer-goods-services-united-states",
+      "summary": "<p>Article URL: <a href=\"https://ourworldindata.org/grapher/price-changes-consumer-goods-services-united-states\">https://ourworldindata.org/grapher/price-changes-consumer-goods-services-united-states<...",
+      "published": "2026-08-05T19:24:54+00:00",
+      "domain": "ourworldindata.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -583,11 +615,11 @@
       }
     },
     {
-      "title": "Moving Forward from Hot Fable Summer",
-      "link": "https://alexstamos.com/p/moving-forward-from-hot-fable-summer",
-      "summary": "<p>Article URL: <a href=\"https://alexstamos.com/p/moving-forward-from-hot-fable-summer\">https://alexstamos.com/p/moving-forward-from-hot-fable-summer</a></p>\n<p>Comments URL: <a href=\"https://news.yco...",
-      "published": "2026-08-05T14:06:49+00:00",
-      "domain": "alexstamos.com",
+      "title": "Meta Muse Spark 1.2",
+      "link": "https://developer.meta.com/ai/models/muse-spark/",
+      "summary": "<p>Article URL: <a href=\"https://developer.meta.com/ai/models/muse-spark/\">https://developer.meta.com/ai/models/muse-spark/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49187...",
+      "published": "2026-08-05T19:24:49+00:00",
+      "domain": "developer.meta.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -599,11 +631,11 @@
       }
     },
     {
-      "title": "Aristotle quotes on virtue, knowledge, and happiness",
-      "link": "https://www.campion.edu.au/blog/top-25-aristotle-quotes-on-virtue-knowledge-and-happiness/",
-      "summary": "<p>Article URL: <a href=\"https://www.campion.edu.au/blog/top-25-aristotle-quotes-on-virtue-knowledge-and-happiness/\">https://www.campion.edu.au/blog/top-25-aristotle-quotes-on-virtue-knowledge-and-hap...",
-      "published": "2026-08-05T14:06:39+00:00",
-      "domain": "campion.edu.au",
+      "title": "Unified Representation for Continuous-Latent Diffusion Language Modeling",
+      "link": "https://arxiv.org/abs/2608.02602",
+      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2608.02602\">https://arxiv.org/abs/2608.02602</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49187690\">https://news.ycombinator.co...",
+      "published": "2026-08-05T19:24:47+00:00",
+      "domain": "arxiv.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -615,27 +647,11 @@
       }
     },
     {
-      "title": "Show HN: Vocab Top \u2013 AI-powered vocabulary builder that helps you retain words",
-      "link": "https://www.vocab.top/",
-      "summary": "<p>Article URL: <a href=\"https://www.vocab.top/\">https://www.vocab.top/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49183110\">https://news.ycombinator.com/item?id=49183110</...",
-      "published": "2026-08-05T14:06:20+00:00",
-      "domain": "vocab.top",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "I'm Publishing Every Medical Record I Have [video]",
-      "link": "https://www.youtube.com/watch?v=krP9EGyLCRE",
-      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=krP9EGyLCRE\">https://www.youtube.com/watch?v=krP9EGyLCRE</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49183103\">https...",
-      "published": "2026-08-05T14:05:35+00:00",
-      "domain": "youtube.com",
+      "title": "How to Survive in a Louisiana Swamp",
+      "link": "https://unherd.com/2026/08/how-to-survive-on-a-louisiana-swamp/",
+      "summary": "<p>Article URL: <a href=\"https://unherd.com/2026/08/how-to-survive-on-a-louisiana-swamp/\">https://unherd.com/2026/08/how-to-survive-on-a-louisiana-swamp/</a></p>\n<p>Comments URL: <a href=\"https://news...",
+      "published": "2026-08-05T19:24:18+00:00",
+      "domain": "unherd.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,

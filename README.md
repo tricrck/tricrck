@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### New OVSwrap Linux Kernel Flaw Lets Local Users Gain Root via Open vSwitch
+### Veeam, Terraform MCP, Django Patch Critical Flaws, Led by CVSS 10.0 Cross-Tenant Bug
 - **Published**: August 05, 2026
-- **Summary**: A memory corruption flaw in the Linux kernel's Open vSwitch datapath gives ordinary local users a path to root on a broad set of default-configured di...
-- [Read more](https://thehackernews.com/2026/08/new-ovswrap-linux-kernel-flaw-lets.html)
+- **Summary**: HashiCorp, Veeam, and the Django Software Foundation have patched 11 vulnerabilities across Terraform MCP Server, Veeam Service Provider Console, and ...
+- **Keywords**: bug
+- [Read more](https://thehackernews.com/2026/08/veeam-terraform-mcp-django-patch.html)
 
-### Kali365 Weaponizes Microsoft Authentication Against US Companies: New Enterprise Risk
-- **Published**: August 05, 2026
-- **Summary**: Kali365 is turning a legitimate Microsoft login into a gateway to corporate data.
-
-The phishing kit targets US organizations with attacker-controlled ...
-- [Read more](https://thehackernews.com/2026/08/kali365-weaponizes-microsoft.html)
+### Over 250 ClickFix Domains Use Browser Fingerprinting to Hide macOS Malware Lures
+- **Published**: August 06, 2026
+- **Summary**: A macOS ClickFix operation spanning more than 250 front-end domains now fingerprints visitors before deciding whether to show them a malware lure, a c...
+- [Read more](https://thehackernews.com/2026/08/over-250-clickfix-domains-use-browser.html)
 
 ---
 
