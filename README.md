@@ -16,17 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Chinese-Made Zbtlink Routers Ship With Backdoor That Opens Unauthenticated Root Shells
+### The Crypto Clarity Act on the Brink of Political Collapse
 - **Published**: August 06, 2026
-- **Summary**: Cybersecurity researchers have disclosed details of a "factory-shipped backdoor" implanted in at least 20 Chinese router models from Zbtlink.
+- **Summary**: https://optimustrend.blogspot.com/2026/08/opinion-recap-crypto-clarity-act-on.html</a></p>
+......
+- **Keywords**: collapse
+- [Read more](https://optimustrend.blogspot.com/2026/08/opinion-recap-crypto-clarity-act-on.html)
 
-Accordi...
-- [Read more](https://thehackernews.com/2026/08/chinese-made-zbtlink-routers-ship-with.html)
-
-### Ransom Cartel Creator Gets 16 Years in Prison for Operating Ransomware-as-a-Service
+### Over 4,400 Rockwell PLCs Exposed Online, 22 Found in Water Attack Cities
 - **Published**: August 06, 2026
-- **Summary**: A federal judge in Alexandria, Virginia, sentenced Maksim Silnikau to 16 years in prison on August 5 for creating and running Ransom Cartel, the ranso...
-- [Read more](https://thehackernews.com/2026/08/ransom-cartel-creator-gets-16-years-in.html)
+- **Summary**: Forescout found 22 internet-facing Rockwell Automation programmable logic controllers (PLCs) in cities hit by recent cyberattacks on US water utilitie...
+- [Read more](https://thehackernews.com/2026/08/over-4400-rockwell-plcs-exposed-online.html)
 
 ---
 
