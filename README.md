@@ -16,15 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### The Once-Shameless President Is Deeply Embarrassed
+### Chinese-Made Zbtlink Routers Ship With Backdoor That Opens Unauthenticated Root Shells
 - **Published**: August 06, 2026
-- **Summary**: https://www.theatlantic.com/politics/2026/08/trump-humiliated-iran-reflecting-pool/......
-- [Read more](https://www.theatlantic.com/politics/2026/08/trump-humiliated-iran-reflecting-pool/688184/)
+- **Summary**: Cybersecurity researchers have disclosed details of a "factory-shipped backdoor" implanted in at least 20 Chinese router models from Zbtlink.
 
-### How to Install Python3.14 from source on Ubuntu 26.04
+Accordi...
+- [Read more](https://thehackernews.com/2026/08/chinese-made-zbtlink-routers-ship-with.html)
+
+### Ransom Cartel Creator Gets 16 Years in Prison for Operating Ransomware-as-a-Service
 - **Published**: August 06, 2026
-- **Summary**: https://jamesoclaire.com/2026/08/06/how-to-install-python3-14-from-source-on-ubuntu......
-- [Read more](https://jamesoclaire.com/2026/08/06/how-to-install-python3-14-from-source-on-ubuntu-26-04/)
+- **Summary**: A federal judge in Alexandria, Virginia, sentenced Maksim Silnikau to 16 years in prison on August 5 for creating and running Ransom Cartel, the ranso...
+- [Read more](https://thehackernews.com/2026/08/ransom-cartel-creator-gets-16-years-in.html)
 
 ---
 
