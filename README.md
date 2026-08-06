@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Veeam, Terraform MCP, Django Patch Critical Flaws, Led by CVSS 10.0 Cross-Tenant Bug
-- **Published**: August 05, 2026
-- **Summary**: HashiCorp, Veeam, and the Django Software Foundation have patched 11 vulnerabilities across Terraform MCP Server, Veeam Service Provider Console, and ...
-- **Keywords**: bug
-- [Read more](https://thehackernews.com/2026/08/veeam-terraform-mcp-django-patch.html)
-
-### Over 250 ClickFix Domains Use Browser Fingerprinting to Hide macOS Malware Lures
+### The Once-Shameless President Is Deeply Embarrassed
 - **Published**: August 06, 2026
-- **Summary**: A macOS ClickFix operation spanning more than 250 front-end domains now fingerprints visitors before deciding whether to show them a malware lure, a c...
-- [Read more](https://thehackernews.com/2026/08/over-250-clickfix-domains-use-browser.html)
+- **Summary**: https://www.theatlantic.com/politics/2026/08/trump-humiliated-iran-reflecting-pool/......
+- [Read more](https://www.theatlantic.com/politics/2026/08/trump-humiliated-iran-reflecting-pool/688184/)
+
+### How to Install Python3.14 from source on Ubuntu 26.04
+- **Published**: August 06, 2026
+- **Summary**: https://jamesoclaire.com/2026/08/06/how-to-install-python3-14-from-source-on-ubuntu......
+- [Read more](https://jamesoclaire.com/2026/08/06/how-to-install-python3-14-from-source-on-ubuntu-26-04/)
 
 ---
 
