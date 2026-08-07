@@ -16,17 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### 20,000 People Are Publicly Vouching For a Man Accused of Cutting Down Flock Cameras
-- **Published**: August 06, 2026
-- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1vhhurs/20000_people_are_publicly_vouching_for_a_man/"> <img alt="20,000 People Are Publicl...
-- **Keywords**: down
-- [Read more](https://www.reddit.com/r/technology/comments/1vhhurs/20000_people_are_publicly_vouching_for_a_man/)
+### Emacs 4 Life
+- **Published**: August 07, 2026
+- **Summary**: https://leanpub.com/emacs4life</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49206907">https://news.ycombinator.com/it......
+- [Read more](https://leanpub.com/emacs4life)
 
-### Invisible Problems
-- **Published**: August 06, 2026
-- **Summary**: https://idiallo.com/blog/invisible-problems</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49204131">https......
-- [Read more](https://idiallo.com/blog/invisible-problems)
+### Free Jimmy Lai
+- **Published**: August 07, 2026
+- **Summary**: https://asiaviewnews.com/gigabots/threads?p=120068</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4......
+- [Read more](https://asiaviewnews.com/gigabots/threads?p=120068)
 
 ---
 
