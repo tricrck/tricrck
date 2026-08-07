@@ -16,18 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### 18-Year-Old Linux SCTP Flaw Could Let Local Users Gain Root and Escape Containers
+### Operational Weather Bench
 - **Published**: August 07, 2026
-- **Summary**: A use-after-free bug in Linux's SCTP networking code can be turned into full root on a host, and Tencent researchers say they used it to escape a cont...
-- **Keywords**: bug
-- [Read more](https://thehackernews.com/2026/08/18-year-old-linux-sctp-flaw-could-let.html)
+- **Summary**: https://owb.brightband.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49214815">https://news.ycombinator.com/item?id=......
+- [Read more](https://owb.brightband.com/)
 
-### Growing Up The Hard Way
+### US Sold Euros to Save the Yen, Europe Found Out After
 - **Published**: August 07, 2026
-- **Summary**: Open Source had a great childhood.
-
-For two decades it got to be a kid. It ran around barefoot, gave everything away, trusted strangers, and never onc...
-- [Read more](https://thehackernews.com/2026/08/growing-up-hard-way.html)
+- **Summary**: https://finance.yahoo.com/markets/currencies/articles/us-sold-euros-save-yen-03381......
+- [Read more](https://finance.yahoo.com/markets/currencies/articles/us-sold-euros-save-yen-033819315.html)
 
 ---
 

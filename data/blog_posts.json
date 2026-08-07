@@ -1,20 +1,146 @@
 {
   "chaos_ranked": [
     {
-      "title": "18-Year-Old Linux SCTP Flaw Could Let Local Users Gain Root and Escape Containers",
-      "link": "https://thehackernews.com/2026/08/18-year-old-linux-sctp-flaw-could-let.html",
-      "summary": "A use-after-free bug in Linux's SCTP networking code can be turned into full root on a host, and Tencent researchers say they used it to escape a container and reach the machine underneath.\n\nThe flaw ...",
-      "published": "2026-08-07T16:40:33+05:30",
-      "domain": "thehackernews.com",
+      "title": "Operational Weather Bench",
+      "link": "https://owb.brightband.com/",
+      "summary": "<p>Article URL: <a href=\"https://owb.brightband.com/\">https://owb.brightband.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49214815\">https://news.ycombinator.com/item?id=...",
+      "published": "2026-08-07T18:55:13+00:00",
+      "domain": "owb.brightband.com",
       "scores": {
-        "chaos": 9.6,
+        "chaos": 3.0,
         "anarchy": 3.0,
-        "overall": 6.3
+        "overall": 3.0
       },
       "keywords": {
-        "chaos": [
-          "bug"
-        ],
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "US Sold Euros to Save the Yen, Europe Found Out After",
+      "link": "https://finance.yahoo.com/markets/currencies/articles/us-sold-euros-save-yen-033819315.html",
+      "summary": "<p>Article URL: <a href=\"https://finance.yahoo.com/markets/currencies/articles/us-sold-euros-save-yen-033819315.html\">https://finance.yahoo.com/markets/currencies/articles/us-sold-euros-save-yen-03381...",
+      "published": "2026-08-07T18:54:58+00:00",
+      "domain": "finance.yahoo.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Psychological Warfare in Reverse Engineering",
+      "link": "https://github.com/xoreaxeaxeax/repsych",
+      "summary": "<p>Article URL: <a href=\"https://github.com/xoreaxeaxeax/repsych\">https://github.com/xoreaxeaxeax/repsych</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49214775\">https://news....",
+      "published": "2026-08-07T18:51:45+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Ancient Library \u2013 1,060 Greek/Latin texts, click any word to parse it",
+      "link": "https://ancientlibrary.net/",
+      "summary": "<p>Article URL: <a href=\"https://ancientlibrary.net/\">https://ancientlibrary.net/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49214770\">https://news.ycombinator.com/item?id=...",
+      "published": "2026-08-07T18:51:14+00:00",
+      "domain": "ancientlibrary.net",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: hpc-sandbox-benchmarks \u2013 compare sandbox providers with real workloads",
+      "link": "https://github.com/starslingdev/hpc-sandbox-benchmarks",
+      "summary": "<p>Article URL: <a href=\"https://github.com/starslingdev/hpc-sandbox-benchmarks\">https://github.com/starslingdev/hpc-sandbox-benchmarks</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/i...",
+      "published": "2026-08-07T18:50:10+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "New WordPress Pre-Auth XSS Could Lead to PHP Code Execution - Patch ASAP",
+      "link": "https://thehackernews.com/2026/08/new-wordpress-pre-auth-xss-could-lead.html",
+      "summary": "WordPress has fixed a pre-authentication reflected cross-site scripting (XSS) flaw in its login screen that affects every version of the content management system. pwn.ai demonstrated how the flaw can...",
+      "published": "2026-08-07T18:26:23+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Assembly Hall of Shame",
+      "link": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49214098\">Comments</a>...",
+      "published": "2026-08-07T18:01:30+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "DeepSeek V4 Flash 0731",
+      "link": "https://arcprize.org/results/deepseek-v4-flash-0731",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49214008\">Comments</a>...",
+      "published": "2026-08-07T17:56:20+00:00",
+      "domain": "arcprize.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Oracle bans AI-generated code from OpenJDK",
+      "link": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49213754\">Comments</a>...",
+      "published": "2026-08-07T17:36:30+00:00",
+      "domain": "app.dealroom.co",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
         "anarchy": []
       }
     },
@@ -24,134 +150,6 @@
       "summary": "Open Source had a great childhood.\n\nFor two decades it got to be a kid. It ran around barefoot, gave everything away, trusted strangers, and never once thought about who was watching. It ran the kind ...",
       "published": "2026-08-07T17:25:26+05:30",
       "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "New NatJack Attacks Hijack TCP Sessions and Spoof DNS by Manipulating NAT Tables",
-      "link": "https://thehackernews.com/2026/08/new-natjack-attacks-hijack-tcp-sessions.html",
-      "summary": "Security researcher Malcolm Stagg has disclosed a new attack class called&nbsp;NatJack&nbsp;that manipulates network address translation (NAT) connection state to hijack active TCP sessions, spoof DNS...",
-      "published": "2026-08-07T16:28:38+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Microsoft 365 AitM Phishing Hijacks Accounts to Collect Payroll and Finance Emails",
-      "link": "https://thehackernews.com/2026/08/microsoft-365-aitm-phishing-hijacks.html",
-      "summary": "Cybersecurity researchers have called attention to an active \"widespread email-driven phishing campaign\" that employs adversary-in-the-middle (AitM) techniques to take control of Microsoft 365 account...",
-      "published": "2026-08-07T16:08:27+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "AI-Assisted HTTP Terminator Finds Novel HTTP Desync Techniques and Apache Zero-Day",
-      "link": "https://thehackernews.com/2026/08/ai-assisted-http-terminator-finds-novel.html",
-      "summary": "PortSwigger says HTTP Terminator, an artificial intelligence (AI)-assisted research system built by James Kettle, generated and proved new HTTP desynchronization techniques after exploring 30,000 cand...",
-      "published": "2026-08-07T15:39:54+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "A Pledge for Scientists",
-      "link": "https://bastian.rieck.me/blog/2026/pledge/",
-      "summary": "<p>Article URL: <a href=\"https://bastian.rieck.me/blog/2026/pledge/\">https://bastian.rieck.me/blog/2026/pledge/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49209658\">https:/...",
-      "published": "2026-08-07T12:51:31+00:00",
-      "domain": "bastian.rieck.me",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Flock Pitched a Plan to Turn Uber and Lyft Drivers into Roaming Surveillance",
-      "link": "https://www.404media.co/flock-pitched-a-plan-to-turn-uber-and-lyft-drivers-into-roaming-surveillance-vehicles/",
-      "summary": "<p>Article URL: <a href=\"https://www.404media.co/flock-pitched-a-plan-to-turn-uber-and-lyft-drivers-into-roaming-surveillance-vehicles/\">https://www.404media.co/flock-pitched-a-plan-to-turn-uber-and-l...",
-      "published": "2026-08-07T12:50:56+00:00",
-      "domain": "404media.co",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Stop Donating Your Vacation Days to Your Boss [audio] [video]",
-      "link": "https://www.youtube.com/watch?v=y-0ueVPQfuU",
-      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=y-0ueVPQfuU\">https://www.youtube.com/watch?v=y-0ueVPQfuU</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49209640\">https...",
-      "published": "2026-08-07T12:50:20+00:00",
-      "domain": "youtube.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Sketching the new dysto-utopian world with presence of AI",
-      "link": "https://branko2f7.substack.com/p/sketching-the-new-dysto-utopian-world",
-      "summary": "<p>Article URL: <a href=\"https://branko2f7.substack.com/p/sketching-the-new-dysto-utopian-world\">https://branko2f7.substack.com/p/sketching-the-new-dysto-utopian-world</a></p>\n<p>Comments URL: <a href...",
-      "published": "2026-08-07T12:48:36+00:00",
-      "domain": "branko2f7.substack.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "New York Data Center Ban Won't Solve Its Grid Problems",
-      "link": "https://spectrum.ieee.org/new-york-data-center-ban",
-      "summary": "<p>Article URL: <a href=\"https://spectrum.ieee.org/new-york-data-center-ban\">https://spectrum.ieee.org/new-york-data-center-ban</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4...",
-      "published": "2026-08-07T12:48:28+00:00",
-      "domain": "spectrum.ieee.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -165,157 +163,155 @@
   ],
   "anarchy_ranked": [
     {
+      "title": "Operational Weather Bench",
+      "link": "https://owb.brightband.com/",
+      "summary": "<p>Article URL: <a href=\"https://owb.brightband.com/\">https://owb.brightband.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49214815\">https://news.ycombinator.com/item?id=...",
+      "published": "2026-08-07T18:55:13+00:00",
+      "domain": "owb.brightband.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "US Sold Euros to Save the Yen, Europe Found Out After",
+      "link": "https://finance.yahoo.com/markets/currencies/articles/us-sold-euros-save-yen-033819315.html",
+      "summary": "<p>Article URL: <a href=\"https://finance.yahoo.com/markets/currencies/articles/us-sold-euros-save-yen-033819315.html\">https://finance.yahoo.com/markets/currencies/articles/us-sold-euros-save-yen-03381...",
+      "published": "2026-08-07T18:54:58+00:00",
+      "domain": "finance.yahoo.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Psychological Warfare in Reverse Engineering",
+      "link": "https://github.com/xoreaxeaxeax/repsych",
+      "summary": "<p>Article URL: <a href=\"https://github.com/xoreaxeaxeax/repsych\">https://github.com/xoreaxeaxeax/repsych</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49214775\">https://news....",
+      "published": "2026-08-07T18:51:45+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Ancient Library \u2013 1,060 Greek/Latin texts, click any word to parse it",
+      "link": "https://ancientlibrary.net/",
+      "summary": "<p>Article URL: <a href=\"https://ancientlibrary.net/\">https://ancientlibrary.net/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49214770\">https://news.ycombinator.com/item?id=...",
+      "published": "2026-08-07T18:51:14+00:00",
+      "domain": "ancientlibrary.net",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: hpc-sandbox-benchmarks \u2013 compare sandbox providers with real workloads",
+      "link": "https://github.com/starslingdev/hpc-sandbox-benchmarks",
+      "summary": "<p>Article URL: <a href=\"https://github.com/starslingdev/hpc-sandbox-benchmarks\">https://github.com/starslingdev/hpc-sandbox-benchmarks</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/i...",
+      "published": "2026-08-07T18:50:10+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "New WordPress Pre-Auth XSS Could Lead to PHP Code Execution - Patch ASAP",
+      "link": "https://thehackernews.com/2026/08/new-wordpress-pre-auth-xss-could-lead.html",
+      "summary": "WordPress has fixed a pre-authentication reflected cross-site scripting (XSS) flaw in its login screen that affects every version of the content management system. pwn.ai demonstrated how the flaw can...",
+      "published": "2026-08-07T18:26:23+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Assembly Hall of Shame",
+      "link": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49214098\">Comments</a>...",
+      "published": "2026-08-07T18:01:30+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "DeepSeek V4 Flash 0731",
+      "link": "https://arcprize.org/results/deepseek-v4-flash-0731",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49214008\">Comments</a>...",
+      "published": "2026-08-07T17:56:20+00:00",
+      "domain": "arcprize.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Oracle bans AI-generated code from OpenJDK",
+      "link": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49213754\">Comments</a>...",
+      "published": "2026-08-07T17:36:30+00:00",
+      "domain": "app.dealroom.co",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "Growing Up The Hard Way",
       "link": "https://thehackernews.com/2026/08/growing-up-hard-way.html",
       "summary": "Open Source had a great childhood.\n\nFor two decades it got to be a kid. It ran around barefoot, gave everything away, trusted strangers, and never once thought about who was watching. It ran the kind ...",
       "published": "2026-08-07T17:25:26+05:30",
       "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "18-Year-Old Linux SCTP Flaw Could Let Local Users Gain Root and Escape Containers",
-      "link": "https://thehackernews.com/2026/08/18-year-old-linux-sctp-flaw-could-let.html",
-      "summary": "A use-after-free bug in Linux's SCTP networking code can be turned into full root on a host, and Tencent researchers say they used it to escape a container and reach the machine underneath.\n\nThe flaw ...",
-      "published": "2026-08-07T16:40:33+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 9.6,
-        "anarchy": 3.0,
-        "overall": 6.3
-      },
-      "keywords": {
-        "chaos": [
-          "bug"
-        ],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "New NatJack Attacks Hijack TCP Sessions and Spoof DNS by Manipulating NAT Tables",
-      "link": "https://thehackernews.com/2026/08/new-natjack-attacks-hijack-tcp-sessions.html",
-      "summary": "Security researcher Malcolm Stagg has disclosed a new attack class called&nbsp;NatJack&nbsp;that manipulates network address translation (NAT) connection state to hijack active TCP sessions, spoof DNS...",
-      "published": "2026-08-07T16:28:38+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Microsoft 365 AitM Phishing Hijacks Accounts to Collect Payroll and Finance Emails",
-      "link": "https://thehackernews.com/2026/08/microsoft-365-aitm-phishing-hijacks.html",
-      "summary": "Cybersecurity researchers have called attention to an active \"widespread email-driven phishing campaign\" that employs adversary-in-the-middle (AitM) techniques to take control of Microsoft 365 account...",
-      "published": "2026-08-07T16:08:27+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "AI-Assisted HTTP Terminator Finds Novel HTTP Desync Techniques and Apache Zero-Day",
-      "link": "https://thehackernews.com/2026/08/ai-assisted-http-terminator-finds-novel.html",
-      "summary": "PortSwigger says HTTP Terminator, an artificial intelligence (AI)-assisted research system built by James Kettle, generated and proved new HTTP desynchronization techniques after exploring 30,000 cand...",
-      "published": "2026-08-07T15:39:54+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "A Pledge for Scientists",
-      "link": "https://bastian.rieck.me/blog/2026/pledge/",
-      "summary": "<p>Article URL: <a href=\"https://bastian.rieck.me/blog/2026/pledge/\">https://bastian.rieck.me/blog/2026/pledge/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49209658\">https:/...",
-      "published": "2026-08-07T12:51:31+00:00",
-      "domain": "bastian.rieck.me",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Flock Pitched a Plan to Turn Uber and Lyft Drivers into Roaming Surveillance",
-      "link": "https://www.404media.co/flock-pitched-a-plan-to-turn-uber-and-lyft-drivers-into-roaming-surveillance-vehicles/",
-      "summary": "<p>Article URL: <a href=\"https://www.404media.co/flock-pitched-a-plan-to-turn-uber-and-lyft-drivers-into-roaming-surveillance-vehicles/\">https://www.404media.co/flock-pitched-a-plan-to-turn-uber-and-l...",
-      "published": "2026-08-07T12:50:56+00:00",
-      "domain": "404media.co",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Stop Donating Your Vacation Days to Your Boss [audio] [video]",
-      "link": "https://www.youtube.com/watch?v=y-0ueVPQfuU",
-      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=y-0ueVPQfuU\">https://www.youtube.com/watch?v=y-0ueVPQfuU</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49209640\">https...",
-      "published": "2026-08-07T12:50:20+00:00",
-      "domain": "youtube.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Sketching the new dysto-utopian world with presence of AI",
-      "link": "https://branko2f7.substack.com/p/sketching-the-new-dysto-utopian-world",
-      "summary": "<p>Article URL: <a href=\"https://branko2f7.substack.com/p/sketching-the-new-dysto-utopian-world\">https://branko2f7.substack.com/p/sketching-the-new-dysto-utopian-world</a></p>\n<p>Comments URL: <a href...",
-      "published": "2026-08-07T12:48:36+00:00",
-      "domain": "branko2f7.substack.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "New York Data Center Ban Won't Solve Its Grid Problems",
-      "link": "https://spectrum.ieee.org/new-york-data-center-ban",
-      "summary": "<p>Article URL: <a href=\"https://spectrum.ieee.org/new-york-data-center-ban\">https://spectrum.ieee.org/new-york-data-center-ban</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4...",
-      "published": "2026-08-07T12:48:28+00:00",
-      "domain": "spectrum.ieee.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -329,20 +325,146 @@
   ],
   "overall_ranked": [
     {
-      "title": "18-Year-Old Linux SCTP Flaw Could Let Local Users Gain Root and Escape Containers",
-      "link": "https://thehackernews.com/2026/08/18-year-old-linux-sctp-flaw-could-let.html",
-      "summary": "A use-after-free bug in Linux's SCTP networking code can be turned into full root on a host, and Tencent researchers say they used it to escape a container and reach the machine underneath.\n\nThe flaw ...",
-      "published": "2026-08-07T16:40:33+05:30",
-      "domain": "thehackernews.com",
+      "title": "Operational Weather Bench",
+      "link": "https://owb.brightband.com/",
+      "summary": "<p>Article URL: <a href=\"https://owb.brightband.com/\">https://owb.brightband.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49214815\">https://news.ycombinator.com/item?id=...",
+      "published": "2026-08-07T18:55:13+00:00",
+      "domain": "owb.brightband.com",
       "scores": {
-        "chaos": 9.6,
+        "chaos": 3.0,
         "anarchy": 3.0,
-        "overall": 6.3
+        "overall": 3.0
       },
       "keywords": {
-        "chaos": [
-          "bug"
-        ],
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "US Sold Euros to Save the Yen, Europe Found Out After",
+      "link": "https://finance.yahoo.com/markets/currencies/articles/us-sold-euros-save-yen-033819315.html",
+      "summary": "<p>Article URL: <a href=\"https://finance.yahoo.com/markets/currencies/articles/us-sold-euros-save-yen-033819315.html\">https://finance.yahoo.com/markets/currencies/articles/us-sold-euros-save-yen-03381...",
+      "published": "2026-08-07T18:54:58+00:00",
+      "domain": "finance.yahoo.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Psychological Warfare in Reverse Engineering",
+      "link": "https://github.com/xoreaxeaxeax/repsych",
+      "summary": "<p>Article URL: <a href=\"https://github.com/xoreaxeaxeax/repsych\">https://github.com/xoreaxeaxeax/repsych</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49214775\">https://news....",
+      "published": "2026-08-07T18:51:45+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Ancient Library \u2013 1,060 Greek/Latin texts, click any word to parse it",
+      "link": "https://ancientlibrary.net/",
+      "summary": "<p>Article URL: <a href=\"https://ancientlibrary.net/\">https://ancientlibrary.net/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49214770\">https://news.ycombinator.com/item?id=...",
+      "published": "2026-08-07T18:51:14+00:00",
+      "domain": "ancientlibrary.net",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: hpc-sandbox-benchmarks \u2013 compare sandbox providers with real workloads",
+      "link": "https://github.com/starslingdev/hpc-sandbox-benchmarks",
+      "summary": "<p>Article URL: <a href=\"https://github.com/starslingdev/hpc-sandbox-benchmarks\">https://github.com/starslingdev/hpc-sandbox-benchmarks</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/i...",
+      "published": "2026-08-07T18:50:10+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "New WordPress Pre-Auth XSS Could Lead to PHP Code Execution - Patch ASAP",
+      "link": "https://thehackernews.com/2026/08/new-wordpress-pre-auth-xss-could-lead.html",
+      "summary": "WordPress has fixed a pre-authentication reflected cross-site scripting (XSS) flaw in its login screen that affects every version of the content management system. pwn.ai demonstrated how the flaw can...",
+      "published": "2026-08-07T18:26:23+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Assembly Hall of Shame",
+      "link": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49214098\">Comments</a>...",
+      "published": "2026-08-07T18:01:30+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "DeepSeek V4 Flash 0731",
+      "link": "https://arcprize.org/results/deepseek-v4-flash-0731",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49214008\">Comments</a>...",
+      "published": "2026-08-07T17:56:20+00:00",
+      "domain": "arcprize.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Oracle bans AI-generated code from OpenJDK",
+      "link": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49213754\">Comments</a>...",
+      "published": "2026-08-07T17:36:30+00:00",
+      "domain": "app.dealroom.co",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
         "anarchy": []
       }
     },
@@ -352,134 +474,6 @@
       "summary": "Open Source had a great childhood.\n\nFor two decades it got to be a kid. It ran around barefoot, gave everything away, trusted strangers, and never once thought about who was watching. It ran the kind ...",
       "published": "2026-08-07T17:25:26+05:30",
       "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "New NatJack Attacks Hijack TCP Sessions and Spoof DNS by Manipulating NAT Tables",
-      "link": "https://thehackernews.com/2026/08/new-natjack-attacks-hijack-tcp-sessions.html",
-      "summary": "Security researcher Malcolm Stagg has disclosed a new attack class called&nbsp;NatJack&nbsp;that manipulates network address translation (NAT) connection state to hijack active TCP sessions, spoof DNS...",
-      "published": "2026-08-07T16:28:38+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Microsoft 365 AitM Phishing Hijacks Accounts to Collect Payroll and Finance Emails",
-      "link": "https://thehackernews.com/2026/08/microsoft-365-aitm-phishing-hijacks.html",
-      "summary": "Cybersecurity researchers have called attention to an active \"widespread email-driven phishing campaign\" that employs adversary-in-the-middle (AitM) techniques to take control of Microsoft 365 account...",
-      "published": "2026-08-07T16:08:27+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "AI-Assisted HTTP Terminator Finds Novel HTTP Desync Techniques and Apache Zero-Day",
-      "link": "https://thehackernews.com/2026/08/ai-assisted-http-terminator-finds-novel.html",
-      "summary": "PortSwigger says HTTP Terminator, an artificial intelligence (AI)-assisted research system built by James Kettle, generated and proved new HTTP desynchronization techniques after exploring 30,000 cand...",
-      "published": "2026-08-07T15:39:54+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "A Pledge for Scientists",
-      "link": "https://bastian.rieck.me/blog/2026/pledge/",
-      "summary": "<p>Article URL: <a href=\"https://bastian.rieck.me/blog/2026/pledge/\">https://bastian.rieck.me/blog/2026/pledge/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49209658\">https:/...",
-      "published": "2026-08-07T12:51:31+00:00",
-      "domain": "bastian.rieck.me",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Flock Pitched a Plan to Turn Uber and Lyft Drivers into Roaming Surveillance",
-      "link": "https://www.404media.co/flock-pitched-a-plan-to-turn-uber-and-lyft-drivers-into-roaming-surveillance-vehicles/",
-      "summary": "<p>Article URL: <a href=\"https://www.404media.co/flock-pitched-a-plan-to-turn-uber-and-lyft-drivers-into-roaming-surveillance-vehicles/\">https://www.404media.co/flock-pitched-a-plan-to-turn-uber-and-l...",
-      "published": "2026-08-07T12:50:56+00:00",
-      "domain": "404media.co",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Stop Donating Your Vacation Days to Your Boss [audio] [video]",
-      "link": "https://www.youtube.com/watch?v=y-0ueVPQfuU",
-      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=y-0ueVPQfuU\">https://www.youtube.com/watch?v=y-0ueVPQfuU</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49209640\">https...",
-      "published": "2026-08-07T12:50:20+00:00",
-      "domain": "youtube.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Sketching the new dysto-utopian world with presence of AI",
-      "link": "https://branko2f7.substack.com/p/sketching-the-new-dysto-utopian-world",
-      "summary": "<p>Article URL: <a href=\"https://branko2f7.substack.com/p/sketching-the-new-dysto-utopian-world\">https://branko2f7.substack.com/p/sketching-the-new-dysto-utopian-world</a></p>\n<p>Comments URL: <a href...",
-      "published": "2026-08-07T12:48:36+00:00",
-      "domain": "branko2f7.substack.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "New York Data Center Ban Won't Solve Its Grid Problems",
-      "link": "https://spectrum.ieee.org/new-york-data-center-ban",
-      "summary": "<p>Article URL: <a href=\"https://spectrum.ieee.org/new-york-data-center-ban\">https://spectrum.ieee.org/new-york-data-center-ban</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4...",
-      "published": "2026-08-07T12:48:28+00:00",
-      "domain": "spectrum.ieee.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -493,157 +487,155 @@
   ],
   "all_articles": [
     {
+      "title": "Operational Weather Bench",
+      "link": "https://owb.brightband.com/",
+      "summary": "<p>Article URL: <a href=\"https://owb.brightband.com/\">https://owb.brightband.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49214815\">https://news.ycombinator.com/item?id=...",
+      "published": "2026-08-07T18:55:13+00:00",
+      "domain": "owb.brightband.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "US Sold Euros to Save the Yen, Europe Found Out After",
+      "link": "https://finance.yahoo.com/markets/currencies/articles/us-sold-euros-save-yen-033819315.html",
+      "summary": "<p>Article URL: <a href=\"https://finance.yahoo.com/markets/currencies/articles/us-sold-euros-save-yen-033819315.html\">https://finance.yahoo.com/markets/currencies/articles/us-sold-euros-save-yen-03381...",
+      "published": "2026-08-07T18:54:58+00:00",
+      "domain": "finance.yahoo.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Psychological Warfare in Reverse Engineering",
+      "link": "https://github.com/xoreaxeaxeax/repsych",
+      "summary": "<p>Article URL: <a href=\"https://github.com/xoreaxeaxeax/repsych\">https://github.com/xoreaxeaxeax/repsych</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49214775\">https://news....",
+      "published": "2026-08-07T18:51:45+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Ancient Library \u2013 1,060 Greek/Latin texts, click any word to parse it",
+      "link": "https://ancientlibrary.net/",
+      "summary": "<p>Article URL: <a href=\"https://ancientlibrary.net/\">https://ancientlibrary.net/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49214770\">https://news.ycombinator.com/item?id=...",
+      "published": "2026-08-07T18:51:14+00:00",
+      "domain": "ancientlibrary.net",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: hpc-sandbox-benchmarks \u2013 compare sandbox providers with real workloads",
+      "link": "https://github.com/starslingdev/hpc-sandbox-benchmarks",
+      "summary": "<p>Article URL: <a href=\"https://github.com/starslingdev/hpc-sandbox-benchmarks\">https://github.com/starslingdev/hpc-sandbox-benchmarks</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/i...",
+      "published": "2026-08-07T18:50:10+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "New WordPress Pre-Auth XSS Could Lead to PHP Code Execution - Patch ASAP",
+      "link": "https://thehackernews.com/2026/08/new-wordpress-pre-auth-xss-could-lead.html",
+      "summary": "WordPress has fixed a pre-authentication reflected cross-site scripting (XSS) flaw in its login screen that affects every version of the content management system. pwn.ai demonstrated how the flaw can...",
+      "published": "2026-08-07T18:26:23+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Assembly Hall of Shame",
+      "link": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49214098\">Comments</a>...",
+      "published": "2026-08-07T18:01:30+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "DeepSeek V4 Flash 0731",
+      "link": "https://arcprize.org/results/deepseek-v4-flash-0731",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49214008\">Comments</a>...",
+      "published": "2026-08-07T17:56:20+00:00",
+      "domain": "arcprize.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Oracle bans AI-generated code from OpenJDK",
+      "link": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49213754\">Comments</a>...",
+      "published": "2026-08-07T17:36:30+00:00",
+      "domain": "app.dealroom.co",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "Growing Up The Hard Way",
       "link": "https://thehackernews.com/2026/08/growing-up-hard-way.html",
       "summary": "Open Source had a great childhood.\n\nFor two decades it got to be a kid. It ran around barefoot, gave everything away, trusted strangers, and never once thought about who was watching. It ran the kind ...",
       "published": "2026-08-07T17:25:26+05:30",
       "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "18-Year-Old Linux SCTP Flaw Could Let Local Users Gain Root and Escape Containers",
-      "link": "https://thehackernews.com/2026/08/18-year-old-linux-sctp-flaw-could-let.html",
-      "summary": "A use-after-free bug in Linux's SCTP networking code can be turned into full root on a host, and Tencent researchers say they used it to escape a container and reach the machine underneath.\n\nThe flaw ...",
-      "published": "2026-08-07T16:40:33+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 9.6,
-        "anarchy": 3.0,
-        "overall": 6.3
-      },
-      "keywords": {
-        "chaos": [
-          "bug"
-        ],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "New NatJack Attacks Hijack TCP Sessions and Spoof DNS by Manipulating NAT Tables",
-      "link": "https://thehackernews.com/2026/08/new-natjack-attacks-hijack-tcp-sessions.html",
-      "summary": "Security researcher Malcolm Stagg has disclosed a new attack class called&nbsp;NatJack&nbsp;that manipulates network address translation (NAT) connection state to hijack active TCP sessions, spoof DNS...",
-      "published": "2026-08-07T16:28:38+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Microsoft 365 AitM Phishing Hijacks Accounts to Collect Payroll and Finance Emails",
-      "link": "https://thehackernews.com/2026/08/microsoft-365-aitm-phishing-hijacks.html",
-      "summary": "Cybersecurity researchers have called attention to an active \"widespread email-driven phishing campaign\" that employs adversary-in-the-middle (AitM) techniques to take control of Microsoft 365 account...",
-      "published": "2026-08-07T16:08:27+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "AI-Assisted HTTP Terminator Finds Novel HTTP Desync Techniques and Apache Zero-Day",
-      "link": "https://thehackernews.com/2026/08/ai-assisted-http-terminator-finds-novel.html",
-      "summary": "PortSwigger says HTTP Terminator, an artificial intelligence (AI)-assisted research system built by James Kettle, generated and proved new HTTP desynchronization techniques after exploring 30,000 cand...",
-      "published": "2026-08-07T15:39:54+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "A Pledge for Scientists",
-      "link": "https://bastian.rieck.me/blog/2026/pledge/",
-      "summary": "<p>Article URL: <a href=\"https://bastian.rieck.me/blog/2026/pledge/\">https://bastian.rieck.me/blog/2026/pledge/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49209658\">https:/...",
-      "published": "2026-08-07T12:51:31+00:00",
-      "domain": "bastian.rieck.me",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Flock Pitched a Plan to Turn Uber and Lyft Drivers into Roaming Surveillance",
-      "link": "https://www.404media.co/flock-pitched-a-plan-to-turn-uber-and-lyft-drivers-into-roaming-surveillance-vehicles/",
-      "summary": "<p>Article URL: <a href=\"https://www.404media.co/flock-pitched-a-plan-to-turn-uber-and-lyft-drivers-into-roaming-surveillance-vehicles/\">https://www.404media.co/flock-pitched-a-plan-to-turn-uber-and-l...",
-      "published": "2026-08-07T12:50:56+00:00",
-      "domain": "404media.co",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Stop Donating Your Vacation Days to Your Boss [audio] [video]",
-      "link": "https://www.youtube.com/watch?v=y-0ueVPQfuU",
-      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=y-0ueVPQfuU\">https://www.youtube.com/watch?v=y-0ueVPQfuU</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49209640\">https...",
-      "published": "2026-08-07T12:50:20+00:00",
-      "domain": "youtube.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Sketching the new dysto-utopian world with presence of AI",
-      "link": "https://branko2f7.substack.com/p/sketching-the-new-dysto-utopian-world",
-      "summary": "<p>Article URL: <a href=\"https://branko2f7.substack.com/p/sketching-the-new-dysto-utopian-world\">https://branko2f7.substack.com/p/sketching-the-new-dysto-utopian-world</a></p>\n<p>Comments URL: <a href...",
-      "published": "2026-08-07T12:48:36+00:00",
-      "domain": "branko2f7.substack.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "New York Data Center Ban Won't Solve Its Grid Problems",
-      "link": "https://spectrum.ieee.org/new-york-data-center-ban",
-      "summary": "<p>Article URL: <a href=\"https://spectrum.ieee.org/new-york-data-center-ban\">https://spectrum.ieee.org/new-york-data-center-ban</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4...",
-      "published": "2026-08-07T12:48:28+00:00",
-      "domain": "spectrum.ieee.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
