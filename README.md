@@ -16,17 +16,18 @@
 
 ## 🚨 Tech Stories
 
-### Emacs 4 Life
+### 18-Year-Old Linux SCTP Flaw Could Let Local Users Gain Root and Escape Containers
 - **Published**: August 07, 2026
-- **Summary**: https://leanpub.com/emacs4life</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49206907">https://news.ycombinator.com/it......
-- [Read more](https://leanpub.com/emacs4life)
+- **Summary**: A use-after-free bug in Linux's SCTP networking code can be turned into full root on a host, and Tencent researchers say they used it to escape a cont...
+- **Keywords**: bug
+- [Read more](https://thehackernews.com/2026/08/18-year-old-linux-sctp-flaw-could-let.html)
 
-### Free Jimmy Lai
+### Growing Up The Hard Way
 - **Published**: August 07, 2026
-- **Summary**: https://asiaviewnews.com/gigabots/threads?p=120068</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4......
-- [Read more](https://asiaviewnews.com/gigabots/threads?p=120068)
+- **Summary**: Open Source had a great childhood.
+
+For two decades it got to be a kid. It ran around barefoot, gave everything away, trusted strangers, and never onc...
+- [Read more](https://thehackernews.com/2026/08/growing-up-hard-way.html)
 
 ---
 
