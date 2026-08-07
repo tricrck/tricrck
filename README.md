@@ -16,17 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### The Crypto Clarity Act on the Brink of Political Collapse
+### 20,000 People Are Publicly Vouching For a Man Accused of Cutting Down Flock Cameras
 - **Published**: August 06, 2026
-- **Summary**: https://optimustrend.blogspot.com/2026/08/opinion-recap-crypto-clarity-act-on.html</a></p>
-......
-- **Keywords**: collapse
-- [Read more](https://optimustrend.blogspot.com/2026/08/opinion-recap-crypto-clarity-act-on.html)
+- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1vhhurs/20000_people_are_publicly_vouching_for_a_man/"> <img alt="20,000 People Are Publicl...
+- **Keywords**: down
+- [Read more](https://www.reddit.com/r/technology/comments/1vhhurs/20000_people_are_publicly_vouching_for_a_man/)
 
-### Over 4,400 Rockwell PLCs Exposed Online, 22 Found in Water Attack Cities
+### Invisible Problems
 - **Published**: August 06, 2026
-- **Summary**: Forescout found 22 internet-facing Rockwell Automation programmable logic controllers (PLCs) in cities hit by recent cyberattacks on US water utilitie...
-- [Read more](https://thehackernews.com/2026/08/over-4400-rockwell-plcs-exposed-online.html)
+- **Summary**: https://idiallo.com/blog/invisible-problems</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49204131">https......
+- [Read more](https://idiallo.com/blog/invisible-problems)
 
 ---
 
