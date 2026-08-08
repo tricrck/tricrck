@@ -16,17 +16,18 @@
 
 ## 🚨 Tech Stories
 
-### Atlassian Rovo Can Be Tricked Into Sending Jira and Confluence Data to Attackers
+### Cloudflare R2 Outage (Sigh)
 - **Published**: August 08, 2026
-- **Summary**: Attacker-controlled instructions can make Atlassian's Rovo assistant collect Jira or Confluence data that a signed-in user can access, then send it to...
-- [Read more](https://thehackernews.com/2026/08/atlassian-rovo-can-be-tricked-into.html)
+- **Summary**: https://www.cloudflarestatus.com</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49224478">https://news.ycombinator.co......
+- **Keywords**: outage
+- [Read more](https://www.cloudflarestatus.com)
 
-### New CSS Attacks Can Break Webmail Defenses to Steal Passwords and Tokens
+### Show HN: JustAPI:a Python web framework where the framework itself is Rust
 - **Published**: August 08, 2026
-- **Summary**: New research shows content inside an email can escape its message boundary and interfere with the webmail interface.
-
-Across attack chains spanning Ou...
-- [Read more](https://thehackernews.com/2026/08/new-css-attacks-can-break-webmail.html)
+- **Summary**: https://blog.swadhin.cv/......
+- **Keywords**: failure
+- [Read more](https://blog.swadhin.cv/blog/just-api-a-python-framework/)
 
 ---
 
