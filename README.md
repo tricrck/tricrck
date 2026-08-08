@@ -16,17 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Stack Overflow new questions are down 98.5% since ChatGPT (+ 5 other platforms)
+### Atlassian Rovo Can Be Tricked Into Sending Jira and Confluence Data to Attackers
 - **Published**: August 08, 2026
-- **Summary**: https://www.harperflow.io/dead-internet</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49219418">https://news.......
-- **Keywords**: down
-- [Read more](https://www.harperflow.io/dead-internet)
+- **Summary**: Attacker-controlled instructions can make Atlassian's Rovo assistant collect Jira or Confluence data that a signed-in user can access, then send it to...
+- [Read more](https://thehackernews.com/2026/08/atlassian-rovo-can-be-tricked-into.html)
 
-### Italian Bank Stores 400K Wheels of Cheese as Collateral for Farmer Loans
+### New CSS Attacks Can Break Webmail Defenses to Steal Passwords and Tokens
 - **Published**: August 08, 2026
-- **Summary**: https://travelandtannins.com/an......
-- [Read more](https://travelandtannins.com/an-italian-bank-keeps-400000-wheels-of-cheese-in-a-guarded-vault-and-farmers-borrow-money-against-them-like-gold/)
+- **Summary**: New research shows content inside an email can escape its message boundary and interfere with the webmail interface.
+
+Across attack chains spanning Ou...
+- [Read more](https://thehackernews.com/2026/08/new-css-attacks-can-break-webmail.html)
 
 ---
 
