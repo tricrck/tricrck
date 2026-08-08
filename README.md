@@ -16,16 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Complexity Budget
+### Stack Overflow new questions are down 98.5% since ChatGPT (+ 5 other platforms)
 - **Published**: August 08, 2026
-- **Summary**: https://htmx.org/essays/complexity-budget/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49218104">https:/......
-- [Read more](https://htmx.org/essays/complexity-budget/)
+- **Summary**: https://www.harperflow.io/dead-internet</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49219418">https://news.......
+- **Keywords**: down
+- [Read more](https://www.harperflow.io/dead-internet)
 
-### Show HN: Salestrics – An open MCP server and CRM for AI-native revenue teams
+### Italian Bank Stores 400K Wheels of Cheese as Collateral for Farmer Loans
 - **Published**: August 08, 2026
-- **Summary**: <p>Hey HN, I’m Austin, founder of Salestrics (salestrics.com).<p>The Problem: > Most AI agents today are trapped in chat windows. While models are sma...
-- [Read more](https://www.salestrics.com/)
+- **Summary**: https://travelandtannins.com/an......
+- [Read more](https://travelandtannins.com/an-italian-bank-keeps-400000-wheels-of-cheese-in-a-guarded-vault-and-farmers-borrow-money-against-them-like-gold/)
 
 ---
 
