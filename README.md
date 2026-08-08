@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Operational Weather Bench
-- **Published**: August 07, 2026
-- **Summary**: https://owb.brightband.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49214815">https://news.ycombinator.com/item?id=......
-- [Read more](https://owb.brightband.com/)
+### Complexity Budget
+- **Published**: August 08, 2026
+- **Summary**: https://htmx.org/essays/complexity-budget/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49218104">https:/......
+- [Read more](https://htmx.org/essays/complexity-budget/)
 
-### US Sold Euros to Save the Yen, Europe Found Out After
-- **Published**: August 07, 2026
-- **Summary**: https://finance.yahoo.com/markets/currencies/articles/us-sold-euros-save-yen-03381......
-- [Read more](https://finance.yahoo.com/markets/currencies/articles/us-sold-euros-save-yen-033819315.html)
+### Show HN: Salestrics – An open MCP server and CRM for AI-native revenue teams
+- **Published**: August 08, 2026
+- **Summary**: <p>Hey HN, I’m Austin, founder of Salestrics (salestrics.com).<p>The Problem: > Most AI agents today are trapped in chat windows. While models are sma...
+- [Read more](https://www.salestrics.com/)
 
 ---
 
