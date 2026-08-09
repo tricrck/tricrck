@@ -16,17 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### The Closure of the Internet
+### Transmission has been forked as "ReTransmission"
 - **Published**: August 09, 2026
-- **Summary**: https://arctotherium.substack.com/p/the-closure-of-the-internet</a></p>
-<p>Comments URL: <a href="https://news......
-- [Read more](https://arctotherium.substack.com/p/the-closure-of-the-internet)
+- **Summary**: https://github.com/transmission/transmission/discussions/9031</a></p>
+<p>Comments URL: <a href="https://news.yco......
+- [Read more](https://github.com/transmission/transmission/discussions/9031)
 
-### Show HN: A Project Oberon System version running on RISC-V instead of RISC-5
+### Helicopter Charte and Rentals
 - **Published**: August 09, 2026
-- **Summary**: https://github.com/rochus-keller/OberonSystem/tree/op2-rv32</a></p>
-<p>Comments URL: <a href="https://news.ycombin......
-- [Read more](https://github.com/rochus-keller/OberonSystem/tree/op2-rv32)
+- **Summary**: https://helicopter.rentals/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49234134">https://news.ycombinator.com/item?id=......
+- [Read more](https://helicopter.rentals/)
 
 ---
 
