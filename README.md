@@ -16,16 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### The first self-driving vehicle on Mars has proven to be a smashing success
+### The Closure of the Internet
 - **Published**: August 09, 2026
-- **Summary**: https://arstechnica.com/space/2026/08/the-first-self-driving......
-- [Read more](https://arstechnica.com/space/2026/08/the-first-self-driving-vehicle-on-mars-has-proven-to-be-a-smashing-success/)
+- **Summary**: https://arctotherium.substack.com/p/the-closure-of-the-internet</a></p>
+<p>Comments URL: <a href="https://news......
+- [Read more](https://arctotherium.substack.com/p/the-closure-of-the-internet)
 
-### #1 Undetectable Humanizer – Humanizetoday.com – Free – Unlimited – No Sign Up
+### Show HN: A Project Oberon System version running on RISC-V instead of RISC-5
 - **Published**: August 09, 2026
-- **Summary**: https://humanizetoday.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49229005">https://news.ycombinator.com/item?id=49......
-- [Read more](https://humanizetoday.com/)
+- **Summary**: https://github.com/rochus-keller/OberonSystem/tree/op2-rv32</a></p>
+<p>Comments URL: <a href="https://news.ycombin......
+- [Read more](https://github.com/rochus-keller/OberonSystem/tree/op2-rv32)
 
 ---
 
