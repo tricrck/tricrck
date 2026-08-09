@@ -16,18 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Cloudflare R2 Outage (Sigh)
-- **Published**: August 08, 2026
-- **Summary**: https://www.cloudflarestatus.com</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49224478">https://news.ycombinator.co......
-- **Keywords**: outage
-- [Read more](https://www.cloudflarestatus.com)
+### Flesh-eating screwworms feast on humans in Mexico; human cases top 500
+- **Published**: August 09, 2026
+- **Summary**: https://arstechnica.com/health/2026/08/flesh-eating-screwworms-f......
+- [Read more](https://arstechnica.com/health/2026/08/flesh-eating-screwworms-feast-on-humans-in-mexico-human-cases-top-500/)
 
-### Show HN: JustAPI:a Python web framework where the framework itself is Rust
-- **Published**: August 08, 2026
-- **Summary**: https://blog.swadhin.cv/......
-- **Keywords**: failure
-- [Read more](https://blog.swadhin.cv/blog/just-api-a-python-framework/)
+### Archive of Animal Photography Reveals 18,000 Species and Counting
+- **Published**: August 09, 2026
+- **Summary**: Article URL: <a href="https://www.smithsonianmag.com/science-nature/this-amazing-archive-of-animal-photography-reveals-18000-species-and-counting-here...
+- [Read more](https://www.smithsonianmag.com/science-nature/this-amazing-archive-of-animal-photography-reveals-18000-species-and-counting-heres-how-joel-sartore-built-his-photo-ark-180989282/)
 
 ---
 
