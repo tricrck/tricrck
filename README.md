@@ -16,16 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### OpenAI's Next AI Model Astra Shows Cyber Performance Strong Enough to Trigger Pause
+### New Passkey Attacks Can Recover Synced Private Keys or Bypass Phishing-Resistant MFA
 - **Published**: August 10, 2026
-- **Summary**: OpenAI has announced that it's pausing some "internal activities" involving its upcoming artificial intelligence (AI) model Astra after an internal ev...
-- [Read more](https://thehackernews.com/2026/08/openais-next-ai-model-astra-shows-cyber.html)
+- **Summary**: Three separate research efforts last week demonstrated ways to defeat passkey protections without breaking the cryptography they rest on.
 
-### OpenThatEmail, a private browser workspace for MSG and EML files
+Passkeys ar...
+- [Read more](https://thehackernews.com/2026/08/new-passkey-attacks-can-recover-synced.html)
+
+### Shipping 10–50× More Code? Watch This Webinar on Securing AI-Speed Development
 - **Published**: August 10, 2026
-- **Summary**: https://openthatemail.com</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49240507">https://news.ycombinator.com/item?id=4924.....
-- [Read more](https://openthatemail.com)
+- **Summary**: AI is helping development teams produce far more code, far faster. But security teams still have to review vulnerabilities, manage dependencies, prior...
+- [Read more](https://thehackernews.com/2026/08/shipping-1050-more-code-watch-this.html)
 
 ---
 
