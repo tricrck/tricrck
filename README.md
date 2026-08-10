@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### A Drone 'Hellscape' Might Stop a Chinese Invasion of Taiwan
+### OpenAI's Next AI Model Astra Shows Cyber Performance Strong Enough to Trigger Pause
 - **Published**: August 10, 2026
-- **Summary**: https://www.nytimes.com/2026/08/09/world/asia/taiwan-drone-china-invasion.html</a></p>
-<p>Comme......
-- [Read more](https://www.nytimes.com/2026/08/09/world/asia/taiwan-drone-china-invasion.html)
+- **Summary**: OpenAI has announced that it's pausing some "internal activities" involving its upcoming artificial intelligence (AI) model Astra after an internal ev...
+- [Read more](https://thehackernews.com/2026/08/openais-next-ai-model-astra-shows-cyber.html)
 
-### A Generation on Antidepressants Searches for the Exit
+### OpenThatEmail, a private browser workspace for MSG and EML files
 - **Published**: August 10, 2026
-- **Summary**: https://www.nytimes.com/2026/08/07/opinion/antidepressants-ssris-side-effects-dr......
-- [Read more](https://www.nytimes.com/2026/08/07/opinion/antidepressants-ssris-side-effects-drugs-maha.html)
+- **Summary**: https://openthatemail.com</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49240507">https://news.ycombinator.com/item?id=4924.....
+- [Read more](https://openthatemail.com)
 
 ---
 
