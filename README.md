@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Transmission has been forked as "ReTransmission"
-- **Published**: August 09, 2026
-- **Summary**: https://github.com/transmission/transmission/discussions/9031</a></p>
-<p>Comments URL: <a href="https://news.yco......
-- [Read more](https://github.com/transmission/transmission/discussions/9031)
+### A Drone 'Hellscape' Might Stop a Chinese Invasion of Taiwan
+- **Published**: August 10, 2026
+- **Summary**: https://www.nytimes.com/2026/08/09/world/asia/taiwan-drone-china-invasion.html</a></p>
+<p>Comme......
+- [Read more](https://www.nytimes.com/2026/08/09/world/asia/taiwan-drone-china-invasion.html)
 
-### Helicopter Charte and Rentals
-- **Published**: August 09, 2026
-- **Summary**: https://helicopter.rentals/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49234134">https://news.ycombinator.com/item?id=......
-- [Read more](https://helicopter.rentals/)
+### A Generation on Antidepressants Searches for the Exit
+- **Published**: August 10, 2026
+- **Summary**: https://www.nytimes.com/2026/08/07/opinion/antidepressants-ssris-side-effects-dr......
+- [Read more](https://www.nytimes.com/2026/08/07/opinion/antidepressants-ssris-side-effects-drugs-maha.html)
 
 ---
 
