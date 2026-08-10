@@ -16,17 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### New Passkey Attacks Can Recover Synced Private Keys or Bypass Phishing-Resistant MFA
-- **Published**: August 10, 2026
-- **Summary**: Three separate research efforts last week demonstrated ways to defeat passkey protections without breaking the cryptography they rest on.
-
-Passkeys ar...
-- [Read more](https://thehackernews.com/2026/08/new-passkey-attacks-can-recover-synced.html)
-
 ### Shipping 10–50× More Code? Watch This Webinar on Securing AI-Speed Development
 - **Published**: August 10, 2026
 - **Summary**: AI is helping development teams produce far more code, far faster. But security teams still have to review vulnerabilities, manage dependencies, prior...
 - [Read more](https://thehackernews.com/2026/08/shipping-1050-more-code-watch-this.html)
+
+### China-Linked Hackers Deploy New StormEncryptor Ransomware, Likely via N-central Flaw
+- **Published**: August 10, 2026
+- **Summary**: Microsoft has disclosed that Storm-1175, a financially motivated threat actor linked to China, has deployed a previously undocumented ransomware strai...
+- [Read more](https://thehackernews.com/2026/08/china-linked-hackers-deploy-new.html)
 
 ---
 
