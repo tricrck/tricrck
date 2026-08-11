@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### BdThemes Supply Chain Attack Poisons JSON to Create Rogue WordPress Admins
+### A Malicious SIM Card Can Run Attacker Code Inside the Modems Behind Cellular IoT Devices
 - **Published**: August 11, 2026
-- **Summary**: Cybersecurity researchers have warned of a supply chain compromise impacting WordPress plugin vendor BdThemes, prompting the content management system...
-- [Read more](https://thehackernews.com/2026/08/bdthemes-supply-chain-attack-poisons.html)
+- **Summary**: A malicious SIM card can order the device it sits in to run commands of the attacker's choosing. On the cellular modules built into electric-vehicle c...
+- [Read more](https://thehackernews.com/2026/08/a-malicious-sim-card-can-run-attacker.html)
 
-### Local models will not win
+### Mozilla Revokes Firefox and Thunderbird Linux Signing Key After Key Lands in Private Repo
 - **Published**: August 11, 2026
-- **Summary**: https://www.seangoedecke.com/local-models-will-not-win/?trk=feed_main-fee......
-- [Read more](https://www.seangoedecke.com/local-models-will-not-win/?trk=feed_main-feed-card_feed-article-content)
+- **Summary**: Mozilla has scrapped the cryptographic key behind Firefox and Thunderbird downloads for Linux after an unencrypted copy of it was committed by mistake...
+- [Read more](https://thehackernews.com/2026/08/mozilla-revokes-firefox-and-thunderbird.html)
 
 ---
 
