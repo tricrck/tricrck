@@ -16,15 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Shipping 10–50× More Code? Watch This Webinar on Securing AI-Speed Development
-- **Published**: August 10, 2026
-- **Summary**: AI is helping development teams produce far more code, far faster. But security teams still have to review vulnerabilities, manage dependencies, prior...
-- [Read more](https://thehackernews.com/2026/08/shipping-1050-more-code-watch-this.html)
+### Sprout – easily build an app with AI, share it, and use other apps
+- **Published**: August 11, 2026
+- **Summary**: https://sprout.monkeyai.io/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49252236">https://news.ycombinator.com/item?id=......
+- [Read more](https://sprout.monkeyai.io/)
 
-### China-Linked Hackers Deploy New StormEncryptor Ransomware, Likely via N-central Flaw
-- **Published**: August 10, 2026
-- **Summary**: Microsoft has disclosed that Storm-1175, a financially motivated threat actor linked to China, has deployed a previously undocumented ransomware strai...
-- [Read more](https://thehackernews.com/2026/08/china-linked-hackers-deploy-new.html)
+### Antirez/h3.c: MiniMax H3 inference engine for Mac computers
+- **Published**: August 11, 2026
+- **Summary**: https://github.com/antirez/h3.c</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49252179">https://news.ycombinator.com/......
+- [Read more](https://github.com/antirez/h3.c)
 
 ---
 
