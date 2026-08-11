@@ -16,17 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Sprout – easily build an app with AI, share it, and use other apps
+### BdThemes Supply Chain Attack Poisons JSON to Create Rogue WordPress Admins
 - **Published**: August 11, 2026
-- **Summary**: https://sprout.monkeyai.io/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49252236">https://news.ycombinator.com/item?id=......
-- [Read more](https://sprout.monkeyai.io/)
+- **Summary**: Cybersecurity researchers have warned of a supply chain compromise impacting WordPress plugin vendor BdThemes, prompting the content management system...
+- [Read more](https://thehackernews.com/2026/08/bdthemes-supply-chain-attack-poisons.html)
 
-### Antirez/h3.c: MiniMax H3 inference engine for Mac computers
+### Local models will not win
 - **Published**: August 11, 2026
-- **Summary**: https://github.com/antirez/h3.c</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49252179">https://news.ycombinator.com/......
-- [Read more](https://github.com/antirez/h3.c)
+- **Summary**: https://www.seangoedecke.com/local-models-will-not-win/?trk=feed_main-fee......
+- [Read more](https://www.seangoedecke.com/local-models-will-not-win/?trk=feed_main-feed-card_feed-article-content)
 
 ---
 
