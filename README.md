@@ -16,15 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### A Malicious SIM Card Can Run Attacker Code Inside the Modems Behind Cellular IoT Devices
+### When Crumbling Infrastructure Meets Cyber Exposure
 - **Published**: August 11, 2026
-- **Summary**: A malicious SIM card can order the device it sits in to run commands of the attacker's choosing. On the cellular modules built into electric-vehicle c...
-- [Read more](https://thehackernews.com/2026/08/a-malicious-sim-card-can-run-attacker.html)
+- **Summary**: https://controlsystemssecurity.com/posts/one-county-multiple-points-of-failure-......
+- **Keywords**: failure, failure
+- [Read more](https://controlsystemssecurity.com/posts/one-county-multiple-points-of-failure-2026-08-11.html)
 
-### Mozilla Revokes Firefox and Thunderbird Linux Signing Key After Key Lands in Private Repo
+### DeadLock Ransomware Uses Polygon Smart Contracts to Make Extortion Infra Harder to Disrupt
 - **Published**: August 11, 2026
-- **Summary**: Mozilla has scrapped the cryptographic key behind Firefox and Thunderbird downloads for Linux after an unencrypted copy of it was committed by mistake...
-- [Read more](https://thehackernews.com/2026/08/mozilla-revokes-firefox-and-thunderbird.html)
+- **Summary**: The ransomware group known as DeadLock has been observed using decentralized infrastructure to facilitate victim communications and data leak operatio...
+- **Keywords**: disrupt
+- [Read more](https://thehackernews.com/2026/08/deadlock-ransomware-uses-polygon-smart.html)
 
 ---
 
