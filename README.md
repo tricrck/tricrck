@@ -16,17 +16,18 @@
 
 ## 🚨 Tech Stories
 
-### CFTC declares market emergency, orders Kalshi to continue to operate in New York
+### Microsoft Patches 398 Flaws Including a Windows Driver Zero-Day Under Active Attack
 - **Published**: August 12, 2026
-- **Summary**: ......
-- **Keywords**: emergency
-- [Read more](https://www.cftc.gov/PressRoom/PressReleases/9281-26)
+- **Summary**: Microsoft released its monthly security updates on Tuesday, and one of the flaws it closed is already being used in attacks.
 
-### Sandworm-Linked UAC-0145 Uses Fake Job Interviews to Push VPN That Can Run Commands
+The bug sits in a core W...
+- **Keywords**: bug
+- [Read more](https://thehackernews.com/2026/08/microsoft-patches-398-flaws-including.html)
+
+### European transmission system operators prepare for solar eclipse
 - **Published**: August 12, 2026
-- **Summary**: The Computer Emergency Response Team of Ukraine (CERT-UA) has disclosed details of a new social engineering campaign orchestrated by Russian nation-st...
-- **Keywords**: emergency
-- [Read more](https://thehackernews.com/2026/08/sandworm-linked-uac-0145-uses-fake-job.html)
+- **Summary**: https://www.pv-magazine.com/2026/08/10/european-transmission-system-o......
+- [Read more](https://www.pv-magazine.com/2026/08/10/european-transmission-system-operators-prepare-for-solar-eclipse/)
 
 ---
 
