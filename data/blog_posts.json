@@ -1,38 +1,19 @@
 {
   "chaos_ranked": [
     {
-      "title": "When Crumbling Infrastructure Meets Cyber Exposure",
-      "link": "https://controlsystemssecurity.com/posts/one-county-multiple-points-of-failure-2026-08-11.html",
-      "summary": "<p>Article URL: <a href=\"https://controlsystemssecurity.com/posts/one-county-multiple-points-of-failure-2026-08-11.html\">https://controlsystemssecurity.com/posts/one-county-multiple-points-of-failure-...",
-      "published": "2026-08-11T18:48:44+00:00",
-      "domain": "controlsystemssecurity.com",
+      "title": "CFTC declares market emergency, orders Kalshi to continue to operate in New York",
+      "link": "https://www.cftc.gov/PressRoom/PressReleases/9281-26",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49266277\">Comments</a>...",
+      "published": "2026-08-12T00:17:59+00:00",
+      "domain": "cftc.gov",
       "scores": {
-        "chaos": 31.0,
+        "chaos": 20.5,
         "anarchy": 3.0,
-        "overall": 17.0
+        "overall": 11.8
       },
       "keywords": {
         "chaos": [
-          "failure",
-          "failure"
-        ],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "DeadLock Ransomware Uses Polygon Smart Contracts to Make Extortion Infra Harder to Disrupt",
-      "link": "https://thehackernews.com/2026/08/deadlock-ransomware-uses-polygon-smart.html",
-      "summary": "The ransomware group known as DeadLock has been observed using decentralized infrastructure to facilitate victim communications and data leak operations in a bid to improve operational resilience.\n\n\"I...",
-      "published": "2026-08-11T22:05:27+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 13.2,
-        "anarchy": 3.0,
-        "overall": 8.1
-      },
-      "keywords": {
-        "chaos": [
-          "disrupt"
+          "emergency"
         ],
         "anarchy": []
       }
@@ -56,10 +37,108 @@
       }
     },
     {
-      "title": "Researchers Disclose AI-Assisted SharePoint Exploit Chain Reaching Unauthenticated RCE",
-      "link": "https://thehackernews.com/2026/08/researchers-disclose-ai-assisted.html",
-      "summary": "Security researchers found a way to enter Microsoft SharePoint servers as any user, including an administrator, with no valid account. A significant part of the work that found it was done through an ...",
-      "published": "2026-08-11T22:17:44+05:30",
+      "title": "Microsoft Patches 398 Flaws Including a Windows Driver Zero-Day Under Active Attack",
+      "link": "https://thehackernews.com/2026/08/microsoft-patches-398-flaws-including.html",
+      "summary": "Microsoft released its monthly security updates on Tuesday, and one of the flaws it closed is already being used in attacks.\n\nThe bug sits in a core Windows kernel driver that handles network socket o...",
+      "published": "2026-08-12T01:40:55+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 10.3,
+        "anarchy": 3.0,
+        "overall": 6.6
+      },
+      "keywords": {
+        "chaos": [
+          "bug"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The lifesaving secret hidden inside a horseshoe crab's blue blood",
+      "link": "https://whdh.com/news/the-lifesaving-secret-hidden-inside-a-horseshoe-crabs-blue-blood-and-the-race-to-protect-the-species/",
+      "summary": "<p>Article URL: <a href=\"https://whdh.com/news/the-lifesaving-secret-hidden-inside-a-horseshoe-crabs-blue-blood-and-the-race-to-protect-the-species/\">https://whdh.com/news/the-lifesaving-secret-hidden...",
+      "published": "2026-08-12T01:45:51+00:00",
+      "domain": "whdh.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "New Bedford police officer accused of using Flock cameras to track ex-partner",
+      "link": "https://newbedfordlight.org/new-bedford-police-officer-accused-of-using-flock-cameras-to-track-and-follow-ex-romantic-partner/",
+      "summary": "<p>Article URL: <a href=\"https://newbedfordlight.org/new-bedford-police-officer-accused-of-using-flock-cameras-to-track-and-follow-ex-romantic-partner/\">https://newbedfordlight.org/new-bedford-police-...",
+      "published": "2026-08-12T01:42:46+00:00",
+      "domain": "newbedfordlight.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The traits that make engineers stand out, according to Coinbase's CTO",
+      "link": "https://www.businessinsider.com/coinbase-cto-shares-traits-standout-engineers-have-ai-era-2026-8",
+      "summary": "<p>Article URL: <a href=\"https://www.businessinsider.com/coinbase-cto-shares-traits-standout-engineers-have-ai-era-2026-8\">https://www.businessinsider.com/coinbase-cto-shares-traits-standout-engineers...",
+      "published": "2026-08-12T01:40:56+00:00",
+      "domain": "businessinsider.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Gen Z has rediscovered the joy of going to the movies",
+      "link": "https://www.economist.com/culture/2026/08/11/gen-z-has-rediscovered-the-joy-of-going-to-the-movies",
+      "summary": "<p>Article URL: <a href=\"https://www.economist.com/culture/2026/08/11/gen-z-has-rediscovered-the-joy-of-going-to-the-movies\">https://www.economist.com/culture/2026/08/11/gen-z-has-rediscovered-the-joy...",
+      "published": "2026-08-12T01:39:56+00:00",
+      "domain": "economist.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Nvidia's Great Silicon Showdown",
+      "link": "https://www.economist.com/business/2026/08/11/nvidias-great-silicon-showdown",
+      "summary": "<p>Article URL: <a href=\"https://www.economist.com/business/2026/08/11/nvidias-great-silicon-showdown\">https://www.economist.com/business/2026/08/11/nvidias-great-silicon-showdown</a></p>\n<p>Comments ...",
+      "published": "2026-08-12T01:39:25+00:00",
+      "domain": "economist.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Kimwolf v7 Android Botnet Makes HTTP/2 DDoS Traffic Look Like Legitimate Browsing",
+      "link": "https://thehackernews.com/2026/08/kimwolf-v7-android-botnet-makes-http2.html",
+      "summary": "Cybersecurity researchers have discovered a new version of the Kimwolf/AISURU Android and Internet of Things (IoT) botnet that comes with significant improvements to improve its operational resilience...",
+      "published": "2026-08-12T01:06:37+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -72,91 +151,11 @@
       }
     },
     {
-      "title": "Making Holograms with a Pen Plotter",
-      "link": "https://blog.jordan.matelsky.com/Penplotter-holography/",
-      "summary": "<p>Article URL: <a href=\"https://blog.jordan.matelsky.com/Penplotter-holography/\">https://blog.jordan.matelsky.com/Penplotter-holography/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com...",
-      "published": "2026-08-11T18:51:35+00:00",
-      "domain": "blog.jordan.matelsky.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Personal Mac Security: Run a Practical Local Check",
-      "link": "https://stackandink.com/blog/audit-personal-mac-security-nist-mscp/",
-      "summary": "<p>Article URL: <a href=\"https://stackandink.com/blog/audit-personal-mac-security-nist-mscp/\">https://stackandink.com/blog/audit-personal-mac-security-nist-mscp/</a></p>\n<p>Comments URL: <a href=\"http...",
-      "published": "2026-08-11T18:50:30+00:00",
-      "domain": "stackandink.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The Tradeoffs Facing Japan's Economy",
-      "link": "https://www.emergingtrajectories.com/lh/japan-economy-tradeoffs/",
-      "summary": "<p>Article URL: <a href=\"https://www.emergingtrajectories.com/lh/japan-economy-tradeoffs/\">https://www.emergingtrajectories.com/lh/japan-economy-tradeoffs/</a></p>\n<p>Comments URL: <a href=\"https://ne...",
-      "published": "2026-08-11T18:47:54+00:00",
-      "domain": "emergingtrajectories.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "OpenAI Brings ChatGPT Desktop App to Linux",
-      "link": "https://www.phoronix.com/news/ChatGPT-Desktop-Linux-Preview",
-      "summary": "<p>Article URL: <a href=\"https://www.phoronix.com/news/ChatGPT-Desktop-Linux-Preview\">https://www.phoronix.com/news/ChatGPT-Desktop-Linux-Preview</a></p>\n<p>Comments URL: <a href=\"https://news.ycombin...",
-      "published": "2026-08-11T18:47:31+00:00",
-      "domain": "phoronix.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "OpenAI Launches GPT-5.6-Cyber with Reduced Safeguards for Exploit Development",
-      "link": "https://thehackernews.com/2026/08/openai-launches-gpt-56-cyber-with.html",
-      "summary": "OpenAI on Monday unveiled a new cybersecurity-focused model called GPT\u20115.6\u2011Cyber that it said is focused on vulnerability research, penetration testing, and incident response.\n\n\"Built on GPT\u20115.6 Sol, ...",
-      "published": "2026-08-11T18:41:23+05:30",
+      "title": "Zoom Annotation Flaws Could Let a Meeting Participant Hijack Another Attendee's Client",
+      "link": "https://thehackernews.com/2026/08/zoom-annotation-flaws-could-let-meeting.html",
+      "summary": "Anyone sharing their screen on a Zoom call could have taken over the computers of everyone watching, and anyone watching could have taken over the presenter's.\n\nThe flaw sat in the annotation tool, th...",
+      "published": "2026-08-12T00:38:47+05:30",
       "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "OpenSSH 10.5/10.5p1",
-      "link": "https://www.openssh.org/releasenotes.html#10.5",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49261895\">Comments</a>...",
-      "published": "2026-08-11T17:49:37+00:00",
-      "domain": "openssh.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -170,6 +169,154 @@
   ],
   "anarchy_ranked": [
     {
+      "title": "The lifesaving secret hidden inside a horseshoe crab's blue blood",
+      "link": "https://whdh.com/news/the-lifesaving-secret-hidden-inside-a-horseshoe-crabs-blue-blood-and-the-race-to-protect-the-species/",
+      "summary": "<p>Article URL: <a href=\"https://whdh.com/news/the-lifesaving-secret-hidden-inside-a-horseshoe-crabs-blue-blood-and-the-race-to-protect-the-species/\">https://whdh.com/news/the-lifesaving-secret-hidden...",
+      "published": "2026-08-12T01:45:51+00:00",
+      "domain": "whdh.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "New Bedford police officer accused of using Flock cameras to track ex-partner",
+      "link": "https://newbedfordlight.org/new-bedford-police-officer-accused-of-using-flock-cameras-to-track-and-follow-ex-romantic-partner/",
+      "summary": "<p>Article URL: <a href=\"https://newbedfordlight.org/new-bedford-police-officer-accused-of-using-flock-cameras-to-track-and-follow-ex-romantic-partner/\">https://newbedfordlight.org/new-bedford-police-...",
+      "published": "2026-08-12T01:42:46+00:00",
+      "domain": "newbedfordlight.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The traits that make engineers stand out, according to Coinbase's CTO",
+      "link": "https://www.businessinsider.com/coinbase-cto-shares-traits-standout-engineers-have-ai-era-2026-8",
+      "summary": "<p>Article URL: <a href=\"https://www.businessinsider.com/coinbase-cto-shares-traits-standout-engineers-have-ai-era-2026-8\">https://www.businessinsider.com/coinbase-cto-shares-traits-standout-engineers...",
+      "published": "2026-08-12T01:40:56+00:00",
+      "domain": "businessinsider.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Microsoft Patches 398 Flaws Including a Windows Driver Zero-Day Under Active Attack",
+      "link": "https://thehackernews.com/2026/08/microsoft-patches-398-flaws-including.html",
+      "summary": "Microsoft released its monthly security updates on Tuesday, and one of the flaws it closed is already being used in attacks.\n\nThe bug sits in a core Windows kernel driver that handles network socket o...",
+      "published": "2026-08-12T01:40:55+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 10.3,
+        "anarchy": 3.0,
+        "overall": 6.6
+      },
+      "keywords": {
+        "chaos": [
+          "bug"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Gen Z has rediscovered the joy of going to the movies",
+      "link": "https://www.economist.com/culture/2026/08/11/gen-z-has-rediscovered-the-joy-of-going-to-the-movies",
+      "summary": "<p>Article URL: <a href=\"https://www.economist.com/culture/2026/08/11/gen-z-has-rediscovered-the-joy-of-going-to-the-movies\">https://www.economist.com/culture/2026/08/11/gen-z-has-rediscovered-the-joy...",
+      "published": "2026-08-12T01:39:56+00:00",
+      "domain": "economist.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Nvidia's Great Silicon Showdown",
+      "link": "https://www.economist.com/business/2026/08/11/nvidias-great-silicon-showdown",
+      "summary": "<p>Article URL: <a href=\"https://www.economist.com/business/2026/08/11/nvidias-great-silicon-showdown\">https://www.economist.com/business/2026/08/11/nvidias-great-silicon-showdown</a></p>\n<p>Comments ...",
+      "published": "2026-08-12T01:39:25+00:00",
+      "domain": "economist.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Kimwolf v7 Android Botnet Makes HTTP/2 DDoS Traffic Look Like Legitimate Browsing",
+      "link": "https://thehackernews.com/2026/08/kimwolf-v7-android-botnet-makes-http2.html",
+      "summary": "Cybersecurity researchers have discovered a new version of the Kimwolf/AISURU Android and Internet of Things (IoT) botnet that comes with significant improvements to improve its operational resilience...",
+      "published": "2026-08-12T01:06:37+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Zoom Annotation Flaws Could Let a Meeting Participant Hijack Another Attendee's Client",
+      "link": "https://thehackernews.com/2026/08/zoom-annotation-flaws-could-let-meeting.html",
+      "summary": "Anyone sharing their screen on a Zoom call could have taken over the computers of everyone watching, and anyone watching could have taken over the presenter's.\n\nThe flaw sat in the annotation tool, th...",
+      "published": "2026-08-12T00:38:47+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "CFTC declares market emergency, orders Kalshi to continue to operate in New York",
+      "link": "https://www.cftc.gov/PressRoom/PressReleases/9281-26",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49266277\">Comments</a>...",
+      "published": "2026-08-12T00:17:59+00:00",
+      "domain": "cftc.gov",
+      "scores": {
+        "chaos": 20.5,
+        "anarchy": 3.0,
+        "overall": 11.8
+      },
+      "keywords": {
+        "chaos": [
+          "emergency"
+        ],
+        "anarchy": []
+      }
+    },
+    {
       "title": "Sandworm-Linked UAC-0145 Uses Fake Job Interviews to Push VPN That Can Run Commands",
       "link": "https://thehackernews.com/2026/08/sandworm-linked-uac-0145-uses-fake-job.html",
       "summary": "The Computer Emergency Response Team of Ukraine (CERT-UA) has disclosed details of a new social engineering campaign orchestrated by Russian nation-state threat actors targeting IT workers in the coun...",
@@ -184,193 +331,25 @@
         "chaos": [
           "emergency"
         ],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Researchers Disclose AI-Assisted SharePoint Exploit Chain Reaching Unauthenticated RCE",
-      "link": "https://thehackernews.com/2026/08/researchers-disclose-ai-assisted.html",
-      "summary": "Security researchers found a way to enter Microsoft SharePoint servers as any user, including an administrator, with no valid account. A significant part of the work that found it was done through an ...",
-      "published": "2026-08-11T22:17:44+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "DeadLock Ransomware Uses Polygon Smart Contracts to Make Extortion Infra Harder to Disrupt",
-      "link": "https://thehackernews.com/2026/08/deadlock-ransomware-uses-polygon-smart.html",
-      "summary": "The ransomware group known as DeadLock has been observed using decentralized infrastructure to facilitate victim communications and data leak operations in a bid to improve operational resilience.\n\n\"I...",
-      "published": "2026-08-11T22:05:27+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 13.2,
-        "anarchy": 3.0,
-        "overall": 8.1
-      },
-      "keywords": {
-        "chaos": [
-          "disrupt"
-        ],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Making Holograms with a Pen Plotter",
-      "link": "https://blog.jordan.matelsky.com/Penplotter-holography/",
-      "summary": "<p>Article URL: <a href=\"https://blog.jordan.matelsky.com/Penplotter-holography/\">https://blog.jordan.matelsky.com/Penplotter-holography/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com...",
-      "published": "2026-08-11T18:51:35+00:00",
-      "domain": "blog.jordan.matelsky.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Personal Mac Security: Run a Practical Local Check",
-      "link": "https://stackandink.com/blog/audit-personal-mac-security-nist-mscp/",
-      "summary": "<p>Article URL: <a href=\"https://stackandink.com/blog/audit-personal-mac-security-nist-mscp/\">https://stackandink.com/blog/audit-personal-mac-security-nist-mscp/</a></p>\n<p>Comments URL: <a href=\"http...",
-      "published": "2026-08-11T18:50:30+00:00",
-      "domain": "stackandink.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "When Crumbling Infrastructure Meets Cyber Exposure",
-      "link": "https://controlsystemssecurity.com/posts/one-county-multiple-points-of-failure-2026-08-11.html",
-      "summary": "<p>Article URL: <a href=\"https://controlsystemssecurity.com/posts/one-county-multiple-points-of-failure-2026-08-11.html\">https://controlsystemssecurity.com/posts/one-county-multiple-points-of-failure-...",
-      "published": "2026-08-11T18:48:44+00:00",
-      "domain": "controlsystemssecurity.com",
-      "scores": {
-        "chaos": 31.0,
-        "anarchy": 3.0,
-        "overall": 17.0
-      },
-      "keywords": {
-        "chaos": [
-          "failure",
-          "failure"
-        ],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The Tradeoffs Facing Japan's Economy",
-      "link": "https://www.emergingtrajectories.com/lh/japan-economy-tradeoffs/",
-      "summary": "<p>Article URL: <a href=\"https://www.emergingtrajectories.com/lh/japan-economy-tradeoffs/\">https://www.emergingtrajectories.com/lh/japan-economy-tradeoffs/</a></p>\n<p>Comments URL: <a href=\"https://ne...",
-      "published": "2026-08-11T18:47:54+00:00",
-      "domain": "emergingtrajectories.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "OpenAI Brings ChatGPT Desktop App to Linux",
-      "link": "https://www.phoronix.com/news/ChatGPT-Desktop-Linux-Preview",
-      "summary": "<p>Article URL: <a href=\"https://www.phoronix.com/news/ChatGPT-Desktop-Linux-Preview\">https://www.phoronix.com/news/ChatGPT-Desktop-Linux-Preview</a></p>\n<p>Comments URL: <a href=\"https://news.ycombin...",
-      "published": "2026-08-11T18:47:31+00:00",
-      "domain": "phoronix.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "OpenAI Launches GPT-5.6-Cyber with Reduced Safeguards for Exploit Development",
-      "link": "https://thehackernews.com/2026/08/openai-launches-gpt-56-cyber-with.html",
-      "summary": "OpenAI on Monday unveiled a new cybersecurity-focused model called GPT\u20115.6\u2011Cyber that it said is focused on vulnerability research, penetration testing, and incident response.\n\n\"Built on GPT\u20115.6 Sol, ...",
-      "published": "2026-08-11T18:41:23+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "OpenSSH 10.5/10.5p1",
-      "link": "https://www.openssh.org/releasenotes.html#10.5",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49261895\">Comments</a>...",
-      "published": "2026-08-11T17:49:37+00:00",
-      "domain": "openssh.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
         "anarchy": []
       }
     }
   ],
   "overall_ranked": [
     {
-      "title": "When Crumbling Infrastructure Meets Cyber Exposure",
-      "link": "https://controlsystemssecurity.com/posts/one-county-multiple-points-of-failure-2026-08-11.html",
-      "summary": "<p>Article URL: <a href=\"https://controlsystemssecurity.com/posts/one-county-multiple-points-of-failure-2026-08-11.html\">https://controlsystemssecurity.com/posts/one-county-multiple-points-of-failure-...",
-      "published": "2026-08-11T18:48:44+00:00",
-      "domain": "controlsystemssecurity.com",
+      "title": "CFTC declares market emergency, orders Kalshi to continue to operate in New York",
+      "link": "https://www.cftc.gov/PressRoom/PressReleases/9281-26",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49266277\">Comments</a>...",
+      "published": "2026-08-12T00:17:59+00:00",
+      "domain": "cftc.gov",
       "scores": {
-        "chaos": 31.0,
+        "chaos": 20.5,
         "anarchy": 3.0,
-        "overall": 17.0
+        "overall": 11.8
       },
       "keywords": {
         "chaos": [
-          "failure",
-          "failure"
-        ],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "DeadLock Ransomware Uses Polygon Smart Contracts to Make Extortion Infra Harder to Disrupt",
-      "link": "https://thehackernews.com/2026/08/deadlock-ransomware-uses-polygon-smart.html",
-      "summary": "The ransomware group known as DeadLock has been observed using decentralized infrastructure to facilitate victim communications and data leak operations in a bid to improve operational resilience.\n\n\"I...",
-      "published": "2026-08-11T22:05:27+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 13.2,
-        "anarchy": 3.0,
-        "overall": 8.1
-      },
-      "keywords": {
-        "chaos": [
-          "disrupt"
+          "emergency"
         ],
         "anarchy": []
       }
@@ -394,10 +373,108 @@
       }
     },
     {
-      "title": "Researchers Disclose AI-Assisted SharePoint Exploit Chain Reaching Unauthenticated RCE",
-      "link": "https://thehackernews.com/2026/08/researchers-disclose-ai-assisted.html",
-      "summary": "Security researchers found a way to enter Microsoft SharePoint servers as any user, including an administrator, with no valid account. A significant part of the work that found it was done through an ...",
-      "published": "2026-08-11T22:17:44+05:30",
+      "title": "Microsoft Patches 398 Flaws Including a Windows Driver Zero-Day Under Active Attack",
+      "link": "https://thehackernews.com/2026/08/microsoft-patches-398-flaws-including.html",
+      "summary": "Microsoft released its monthly security updates on Tuesday, and one of the flaws it closed is already being used in attacks.\n\nThe bug sits in a core Windows kernel driver that handles network socket o...",
+      "published": "2026-08-12T01:40:55+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 10.3,
+        "anarchy": 3.0,
+        "overall": 6.6
+      },
+      "keywords": {
+        "chaos": [
+          "bug"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The lifesaving secret hidden inside a horseshoe crab's blue blood",
+      "link": "https://whdh.com/news/the-lifesaving-secret-hidden-inside-a-horseshoe-crabs-blue-blood-and-the-race-to-protect-the-species/",
+      "summary": "<p>Article URL: <a href=\"https://whdh.com/news/the-lifesaving-secret-hidden-inside-a-horseshoe-crabs-blue-blood-and-the-race-to-protect-the-species/\">https://whdh.com/news/the-lifesaving-secret-hidden...",
+      "published": "2026-08-12T01:45:51+00:00",
+      "domain": "whdh.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "New Bedford police officer accused of using Flock cameras to track ex-partner",
+      "link": "https://newbedfordlight.org/new-bedford-police-officer-accused-of-using-flock-cameras-to-track-and-follow-ex-romantic-partner/",
+      "summary": "<p>Article URL: <a href=\"https://newbedfordlight.org/new-bedford-police-officer-accused-of-using-flock-cameras-to-track-and-follow-ex-romantic-partner/\">https://newbedfordlight.org/new-bedford-police-...",
+      "published": "2026-08-12T01:42:46+00:00",
+      "domain": "newbedfordlight.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The traits that make engineers stand out, according to Coinbase's CTO",
+      "link": "https://www.businessinsider.com/coinbase-cto-shares-traits-standout-engineers-have-ai-era-2026-8",
+      "summary": "<p>Article URL: <a href=\"https://www.businessinsider.com/coinbase-cto-shares-traits-standout-engineers-have-ai-era-2026-8\">https://www.businessinsider.com/coinbase-cto-shares-traits-standout-engineers...",
+      "published": "2026-08-12T01:40:56+00:00",
+      "domain": "businessinsider.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Gen Z has rediscovered the joy of going to the movies",
+      "link": "https://www.economist.com/culture/2026/08/11/gen-z-has-rediscovered-the-joy-of-going-to-the-movies",
+      "summary": "<p>Article URL: <a href=\"https://www.economist.com/culture/2026/08/11/gen-z-has-rediscovered-the-joy-of-going-to-the-movies\">https://www.economist.com/culture/2026/08/11/gen-z-has-rediscovered-the-joy...",
+      "published": "2026-08-12T01:39:56+00:00",
+      "domain": "economist.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Nvidia's Great Silicon Showdown",
+      "link": "https://www.economist.com/business/2026/08/11/nvidias-great-silicon-showdown",
+      "summary": "<p>Article URL: <a href=\"https://www.economist.com/business/2026/08/11/nvidias-great-silicon-showdown\">https://www.economist.com/business/2026/08/11/nvidias-great-silicon-showdown</a></p>\n<p>Comments ...",
+      "published": "2026-08-12T01:39:25+00:00",
+      "domain": "economist.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Kimwolf v7 Android Botnet Makes HTTP/2 DDoS Traffic Look Like Legitimate Browsing",
+      "link": "https://thehackernews.com/2026/08/kimwolf-v7-android-botnet-makes-http2.html",
+      "summary": "Cybersecurity researchers have discovered a new version of the Kimwolf/AISURU Android and Internet of Things (IoT) botnet that comes with significant improvements to improve its operational resilience...",
+      "published": "2026-08-12T01:06:37+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -410,91 +487,11 @@
       }
     },
     {
-      "title": "Making Holograms with a Pen Plotter",
-      "link": "https://blog.jordan.matelsky.com/Penplotter-holography/",
-      "summary": "<p>Article URL: <a href=\"https://blog.jordan.matelsky.com/Penplotter-holography/\">https://blog.jordan.matelsky.com/Penplotter-holography/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com...",
-      "published": "2026-08-11T18:51:35+00:00",
-      "domain": "blog.jordan.matelsky.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Personal Mac Security: Run a Practical Local Check",
-      "link": "https://stackandink.com/blog/audit-personal-mac-security-nist-mscp/",
-      "summary": "<p>Article URL: <a href=\"https://stackandink.com/blog/audit-personal-mac-security-nist-mscp/\">https://stackandink.com/blog/audit-personal-mac-security-nist-mscp/</a></p>\n<p>Comments URL: <a href=\"http...",
-      "published": "2026-08-11T18:50:30+00:00",
-      "domain": "stackandink.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The Tradeoffs Facing Japan's Economy",
-      "link": "https://www.emergingtrajectories.com/lh/japan-economy-tradeoffs/",
-      "summary": "<p>Article URL: <a href=\"https://www.emergingtrajectories.com/lh/japan-economy-tradeoffs/\">https://www.emergingtrajectories.com/lh/japan-economy-tradeoffs/</a></p>\n<p>Comments URL: <a href=\"https://ne...",
-      "published": "2026-08-11T18:47:54+00:00",
-      "domain": "emergingtrajectories.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "OpenAI Brings ChatGPT Desktop App to Linux",
-      "link": "https://www.phoronix.com/news/ChatGPT-Desktop-Linux-Preview",
-      "summary": "<p>Article URL: <a href=\"https://www.phoronix.com/news/ChatGPT-Desktop-Linux-Preview\">https://www.phoronix.com/news/ChatGPT-Desktop-Linux-Preview</a></p>\n<p>Comments URL: <a href=\"https://news.ycombin...",
-      "published": "2026-08-11T18:47:31+00:00",
-      "domain": "phoronix.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "OpenAI Launches GPT-5.6-Cyber with Reduced Safeguards for Exploit Development",
-      "link": "https://thehackernews.com/2026/08/openai-launches-gpt-56-cyber-with.html",
-      "summary": "OpenAI on Monday unveiled a new cybersecurity-focused model called GPT\u20115.6\u2011Cyber that it said is focused on vulnerability research, penetration testing, and incident response.\n\n\"Built on GPT\u20115.6 Sol, ...",
-      "published": "2026-08-11T18:41:23+05:30",
+      "title": "Zoom Annotation Flaws Could Let a Meeting Participant Hijack Another Attendee's Client",
+      "link": "https://thehackernews.com/2026/08/zoom-annotation-flaws-could-let-meeting.html",
+      "summary": "Anyone sharing their screen on a Zoom call could have taken over the computers of everyone watching, and anyone watching could have taken over the presenter's.\n\nThe flaw sat in the annotation tool, th...",
+      "published": "2026-08-12T00:38:47+05:30",
       "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "OpenSSH 10.5/10.5p1",
-      "link": "https://www.openssh.org/releasenotes.html#10.5",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49261895\">Comments</a>...",
-      "published": "2026-08-11T17:49:37+00:00",
-      "domain": "openssh.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -508,6 +505,154 @@
   ],
   "all_articles": [
     {
+      "title": "The lifesaving secret hidden inside a horseshoe crab's blue blood",
+      "link": "https://whdh.com/news/the-lifesaving-secret-hidden-inside-a-horseshoe-crabs-blue-blood-and-the-race-to-protect-the-species/",
+      "summary": "<p>Article URL: <a href=\"https://whdh.com/news/the-lifesaving-secret-hidden-inside-a-horseshoe-crabs-blue-blood-and-the-race-to-protect-the-species/\">https://whdh.com/news/the-lifesaving-secret-hidden...",
+      "published": "2026-08-12T01:45:51+00:00",
+      "domain": "whdh.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "New Bedford police officer accused of using Flock cameras to track ex-partner",
+      "link": "https://newbedfordlight.org/new-bedford-police-officer-accused-of-using-flock-cameras-to-track-and-follow-ex-romantic-partner/",
+      "summary": "<p>Article URL: <a href=\"https://newbedfordlight.org/new-bedford-police-officer-accused-of-using-flock-cameras-to-track-and-follow-ex-romantic-partner/\">https://newbedfordlight.org/new-bedford-police-...",
+      "published": "2026-08-12T01:42:46+00:00",
+      "domain": "newbedfordlight.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The traits that make engineers stand out, according to Coinbase's CTO",
+      "link": "https://www.businessinsider.com/coinbase-cto-shares-traits-standout-engineers-have-ai-era-2026-8",
+      "summary": "<p>Article URL: <a href=\"https://www.businessinsider.com/coinbase-cto-shares-traits-standout-engineers-have-ai-era-2026-8\">https://www.businessinsider.com/coinbase-cto-shares-traits-standout-engineers...",
+      "published": "2026-08-12T01:40:56+00:00",
+      "domain": "businessinsider.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Microsoft Patches 398 Flaws Including a Windows Driver Zero-Day Under Active Attack",
+      "link": "https://thehackernews.com/2026/08/microsoft-patches-398-flaws-including.html",
+      "summary": "Microsoft released its monthly security updates on Tuesday, and one of the flaws it closed is already being used in attacks.\n\nThe bug sits in a core Windows kernel driver that handles network socket o...",
+      "published": "2026-08-12T01:40:55+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 10.3,
+        "anarchy": 3.0,
+        "overall": 6.6
+      },
+      "keywords": {
+        "chaos": [
+          "bug"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Gen Z has rediscovered the joy of going to the movies",
+      "link": "https://www.economist.com/culture/2026/08/11/gen-z-has-rediscovered-the-joy-of-going-to-the-movies",
+      "summary": "<p>Article URL: <a href=\"https://www.economist.com/culture/2026/08/11/gen-z-has-rediscovered-the-joy-of-going-to-the-movies\">https://www.economist.com/culture/2026/08/11/gen-z-has-rediscovered-the-joy...",
+      "published": "2026-08-12T01:39:56+00:00",
+      "domain": "economist.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Nvidia's Great Silicon Showdown",
+      "link": "https://www.economist.com/business/2026/08/11/nvidias-great-silicon-showdown",
+      "summary": "<p>Article URL: <a href=\"https://www.economist.com/business/2026/08/11/nvidias-great-silicon-showdown\">https://www.economist.com/business/2026/08/11/nvidias-great-silicon-showdown</a></p>\n<p>Comments ...",
+      "published": "2026-08-12T01:39:25+00:00",
+      "domain": "economist.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Kimwolf v7 Android Botnet Makes HTTP/2 DDoS Traffic Look Like Legitimate Browsing",
+      "link": "https://thehackernews.com/2026/08/kimwolf-v7-android-botnet-makes-http2.html",
+      "summary": "Cybersecurity researchers have discovered a new version of the Kimwolf/AISURU Android and Internet of Things (IoT) botnet that comes with significant improvements to improve its operational resilience...",
+      "published": "2026-08-12T01:06:37+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Zoom Annotation Flaws Could Let a Meeting Participant Hijack Another Attendee's Client",
+      "link": "https://thehackernews.com/2026/08/zoom-annotation-flaws-could-let-meeting.html",
+      "summary": "Anyone sharing their screen on a Zoom call could have taken over the computers of everyone watching, and anyone watching could have taken over the presenter's.\n\nThe flaw sat in the annotation tool, th...",
+      "published": "2026-08-12T00:38:47+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "CFTC declares market emergency, orders Kalshi to continue to operate in New York",
+      "link": "https://www.cftc.gov/PressRoom/PressReleases/9281-26",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49266277\">Comments</a>...",
+      "published": "2026-08-12T00:17:59+00:00",
+      "domain": "cftc.gov",
+      "scores": {
+        "chaos": 20.5,
+        "anarchy": 3.0,
+        "overall": 11.8
+      },
+      "keywords": {
+        "chaos": [
+          "emergency"
+        ],
+        "anarchy": []
+      }
+    },
+    {
       "title": "Sandworm-Linked UAC-0145 Uses Fake Job Interviews to Push VPN That Can Run Commands",
       "link": "https://thehackernews.com/2026/08/sandworm-linked-uac-0145-uses-fake-job.html",
       "summary": "The Computer Emergency Response Team of Ukraine (CERT-UA) has disclosed details of a new social engineering campaign orchestrated by Russian nation-state threat actors targeting IT workers in the coun...",
@@ -522,155 +667,6 @@
         "chaos": [
           "emergency"
         ],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Researchers Disclose AI-Assisted SharePoint Exploit Chain Reaching Unauthenticated RCE",
-      "link": "https://thehackernews.com/2026/08/researchers-disclose-ai-assisted.html",
-      "summary": "Security researchers found a way to enter Microsoft SharePoint servers as any user, including an administrator, with no valid account. A significant part of the work that found it was done through an ...",
-      "published": "2026-08-11T22:17:44+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "DeadLock Ransomware Uses Polygon Smart Contracts to Make Extortion Infra Harder to Disrupt",
-      "link": "https://thehackernews.com/2026/08/deadlock-ransomware-uses-polygon-smart.html",
-      "summary": "The ransomware group known as DeadLock has been observed using decentralized infrastructure to facilitate victim communications and data leak operations in a bid to improve operational resilience.\n\n\"I...",
-      "published": "2026-08-11T22:05:27+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 13.2,
-        "anarchy": 3.0,
-        "overall": 8.1
-      },
-      "keywords": {
-        "chaos": [
-          "disrupt"
-        ],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Making Holograms with a Pen Plotter",
-      "link": "https://blog.jordan.matelsky.com/Penplotter-holography/",
-      "summary": "<p>Article URL: <a href=\"https://blog.jordan.matelsky.com/Penplotter-holography/\">https://blog.jordan.matelsky.com/Penplotter-holography/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com...",
-      "published": "2026-08-11T18:51:35+00:00",
-      "domain": "blog.jordan.matelsky.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Personal Mac Security: Run a Practical Local Check",
-      "link": "https://stackandink.com/blog/audit-personal-mac-security-nist-mscp/",
-      "summary": "<p>Article URL: <a href=\"https://stackandink.com/blog/audit-personal-mac-security-nist-mscp/\">https://stackandink.com/blog/audit-personal-mac-security-nist-mscp/</a></p>\n<p>Comments URL: <a href=\"http...",
-      "published": "2026-08-11T18:50:30+00:00",
-      "domain": "stackandink.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "When Crumbling Infrastructure Meets Cyber Exposure",
-      "link": "https://controlsystemssecurity.com/posts/one-county-multiple-points-of-failure-2026-08-11.html",
-      "summary": "<p>Article URL: <a href=\"https://controlsystemssecurity.com/posts/one-county-multiple-points-of-failure-2026-08-11.html\">https://controlsystemssecurity.com/posts/one-county-multiple-points-of-failure-...",
-      "published": "2026-08-11T18:48:44+00:00",
-      "domain": "controlsystemssecurity.com",
-      "scores": {
-        "chaos": 31.0,
-        "anarchy": 3.0,
-        "overall": 17.0
-      },
-      "keywords": {
-        "chaos": [
-          "failure",
-          "failure"
-        ],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The Tradeoffs Facing Japan's Economy",
-      "link": "https://www.emergingtrajectories.com/lh/japan-economy-tradeoffs/",
-      "summary": "<p>Article URL: <a href=\"https://www.emergingtrajectories.com/lh/japan-economy-tradeoffs/\">https://www.emergingtrajectories.com/lh/japan-economy-tradeoffs/</a></p>\n<p>Comments URL: <a href=\"https://ne...",
-      "published": "2026-08-11T18:47:54+00:00",
-      "domain": "emergingtrajectories.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "OpenAI Brings ChatGPT Desktop App to Linux",
-      "link": "https://www.phoronix.com/news/ChatGPT-Desktop-Linux-Preview",
-      "summary": "<p>Article URL: <a href=\"https://www.phoronix.com/news/ChatGPT-Desktop-Linux-Preview\">https://www.phoronix.com/news/ChatGPT-Desktop-Linux-Preview</a></p>\n<p>Comments URL: <a href=\"https://news.ycombin...",
-      "published": "2026-08-11T18:47:31+00:00",
-      "domain": "phoronix.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "OpenAI Launches GPT-5.6-Cyber with Reduced Safeguards for Exploit Development",
-      "link": "https://thehackernews.com/2026/08/openai-launches-gpt-56-cyber-with.html",
-      "summary": "OpenAI on Monday unveiled a new cybersecurity-focused model called GPT\u20115.6\u2011Cyber that it said is focused on vulnerability research, penetration testing, and incident response.\n\n\"Built on GPT\u20115.6 Sol, ...",
-      "published": "2026-08-11T18:41:23+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "OpenSSH 10.5/10.5p1",
-      "link": "https://www.openssh.org/releasenotes.html#10.5",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49261895\">Comments</a>...",
-      "published": "2026-08-11T17:49:37+00:00",
-      "domain": "openssh.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
         "anarchy": []
       }
     }

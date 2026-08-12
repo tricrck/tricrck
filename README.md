@@ -16,17 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### When Crumbling Infrastructure Meets Cyber Exposure
-- **Published**: August 11, 2026
-- **Summary**: https://controlsystemssecurity.com/posts/one-county-multiple-points-of-failure-......
-- **Keywords**: failure, failure
-- [Read more](https://controlsystemssecurity.com/posts/one-county-multiple-points-of-failure-2026-08-11.html)
+### CFTC declares market emergency, orders Kalshi to continue to operate in New York
+- **Published**: August 12, 2026
+- **Summary**: ......
+- **Keywords**: emergency
+- [Read more](https://www.cftc.gov/PressRoom/PressReleases/9281-26)
 
-### DeadLock Ransomware Uses Polygon Smart Contracts to Make Extortion Infra Harder to Disrupt
-- **Published**: August 11, 2026
-- **Summary**: The ransomware group known as DeadLock has been observed using decentralized infrastructure to facilitate victim communications and data leak operatio...
-- **Keywords**: disrupt
-- [Read more](https://thehackernews.com/2026/08/deadlock-ransomware-uses-polygon-smart.html)
+### Sandworm-Linked UAC-0145 Uses Fake Job Interviews to Push VPN That Can Run Commands
+- **Published**: August 12, 2026
+- **Summary**: The Computer Emergency Response Team of Ukraine (CERT-UA) has disclosed details of a new social engineering campaign orchestrated by Russian nation-st...
+- **Keywords**: emergency
+- [Read more](https://thehackernews.com/2026/08/sandworm-linked-uac-0145-uses-fake-job.html)
 
 ---
 
