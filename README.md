@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Adobe Patches Three CVSS 10.0 ColdFusion and Campaign Classic Flaws
+### Lazarus Exploits Windows Zero-Day to Gain SYSTEM Access and Deploy Backdoor
 - **Published**: August 12, 2026
-- **Summary**: Adobe has shipped updates to address multiple critical security vulnerabilities impacting ColdFusion, Commerce, and Campaign Classic that, if successf...
-- [Read more](https://thehackernews.com/2026/08/adobe-patches-three-cvss-100-coldfusion.html)
+- **Summary**: The North Korean threat actor known as Lazarus Group has been attributed to the zero-day exploitation of a newly patched security flaw impacting Micro...
+- [Read more](https://thehackernews.com/2026/08/lazarus-exploits-windows-zero-day-to.html)
 
-### Attackers Exploit VMware vCenter Vulnerability to Gain Persistent Remote Access
+### 737 Chrome VPN Extensions Caught Routing Traffic Through Proxies. Check If You Have One
 - **Published**: August 12, 2026
-- **Summary**: Threat actors have begun to actively exploit a recently patched critical security flaw in Broadcom VMware vCenter, according to new findings from QUIR...
-- [Read more](https://thehackernews.com/2026/08/attackers-exploit-vmware-vcenter.html)
+- **Summary**: A massive set of 737 free VPN and proxy extensions have been found to mainly target Russian-speaking users seeking access to blocked services with an ...
+- [Read more](https://thehackernews.com/2026/08/737-chrome-vpn-extensions-caught.html)
 
 ---
 
