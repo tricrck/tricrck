@@ -16,18 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Microsoft Patches 398 Flaws Including a Windows Driver Zero-Day Under Active Attack
+### Adobe Patches Three CVSS 10.0 ColdFusion and Campaign Classic Flaws
 - **Published**: August 12, 2026
-- **Summary**: Microsoft released its monthly security updates on Tuesday, and one of the flaws it closed is already being used in attacks.
+- **Summary**: Adobe has shipped updates to address multiple critical security vulnerabilities impacting ColdFusion, Commerce, and Campaign Classic that, if successf...
+- [Read more](https://thehackernews.com/2026/08/adobe-patches-three-cvss-100-coldfusion.html)
 
-The bug sits in a core W...
-- **Keywords**: bug
-- [Read more](https://thehackernews.com/2026/08/microsoft-patches-398-flaws-including.html)
-
-### European transmission system operators prepare for solar eclipse
+### Attackers Exploit VMware vCenter Vulnerability to Gain Persistent Remote Access
 - **Published**: August 12, 2026
-- **Summary**: https://www.pv-magazine.com/2026/08/10/european-transmission-system-o......
-- [Read more](https://www.pv-magazine.com/2026/08/10/european-transmission-system-operators-prepare-for-solar-eclipse/)
+- **Summary**: Threat actors have begun to actively exploit a recently patched critical security flaw in Broadcom VMware vCenter, according to new findings from QUIR...
+- [Read more](https://thehackernews.com/2026/08/attackers-exploit-vmware-vcenter.html)
 
 ---
 
