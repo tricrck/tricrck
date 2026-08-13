@@ -16,17 +16,18 @@
 
 ## 🚨 Tech Stories
 
-### Agentic Code Quality
+### Attackers Exploit SharePoint Authentication Bypass After Public PoC Release
 - **Published**: August 13, 2026
-- **Summary**: https://twitter.com/addyosmani/status/2087427868343373919</a></p>
-<p>Comments URL: <a href="https://news.ycombinator......
-- [Read more](https://twitter.com/addyosmani/status/2087427868343373919)
+- **Summary**: Threat actors have begun to exploit a newly disclosed Microsoft SharePoint vulnerability following the release of a proof-of-concept (PoC) code.
 
-### Steam Game Recommender, with a RAG System That Focuses on Explainability First
+The ...
+- [Read more](https://thehackernews.com/2026/08/attackers-exploit-sharepoint.html)
+
+### Putting Sign Language AI into Users Hands
 - **Published**: August 13, 2026
-- **Summary**: https://nextsteamgame.com</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49280961">https://news.ycombinator.com/item?id=4928.....
-- [Read more](https://nextsteamgame.com)
+- **Summary**: https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/</a></p>
+<p>Comments URL: <a hr......
+- [Read more](https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/)
 
 ---
 
