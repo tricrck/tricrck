@@ -16,18 +16,18 @@
 
 ## 🚨 Tech Stories
 
-### Attackers Exploit SharePoint Authentication Bypass After Public PoC Release
+### If You Weren't Worried About A.I., You Should Be After the Past Few Weeks
 - **Published**: August 13, 2026
-- **Summary**: Threat actors have begun to exploit a newly disclosed Microsoft SharePoint vulnerability following the release of a proof-of-concept (PoC) code.
+- **Summary**: https://www.nytimes.com/2026/08/13/opinion/ai-danger-openai-anthropic-models.html</a></p>
+<p......
+- [Read more](https://www.nytimes.com/2026/08/13/opinion/ai-danger-openai-anthropic-models.html)
 
-The ...
-- [Read more](https://thehackernews.com/2026/08/attackers-exploit-sharepoint.html)
-
-### Putting Sign Language AI into Users Hands
+### Show HN: Pressentable – turn a spreadsheet into a typeset client report
 - **Published**: August 13, 2026
-- **Summary**: https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/</a></p>
-<p>Comments URL: <a hr......
-- [Read more](https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/)
+- **Summary**: <p>[alphal
+I found current state of reporting tool not really good so I am making one. 
+The time to produce the report should not be as long as the ti...
+- [Read more](https://pressentable.com/)
 
 ---
 
