@@ -16,15 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Lazarus Exploits Windows Zero-Day to Gain SYSTEM Access and Deploy Backdoor
-- **Published**: August 12, 2026
-- **Summary**: The North Korean threat actor known as Lazarus Group has been attributed to the zero-day exploitation of a newly patched security flaw impacting Micro...
-- [Read more](https://thehackernews.com/2026/08/lazarus-exploits-windows-zero-day-to.html)
+### Agentic Code Quality
+- **Published**: August 13, 2026
+- **Summary**: https://twitter.com/addyosmani/status/2087427868343373919</a></p>
+<p>Comments URL: <a href="https://news.ycombinator......
+- [Read more](https://twitter.com/addyosmani/status/2087427868343373919)
 
-### 737 Chrome VPN Extensions Caught Routing Traffic Through Proxies. Check If You Have One
-- **Published**: August 12, 2026
-- **Summary**: A massive set of 737 free VPN and proxy extensions have been found to mainly target Russian-speaking users seeking access to blocked services with an ...
-- [Read more](https://thehackernews.com/2026/08/737-chrome-vpn-extensions-caught.html)
+### Steam Game Recommender, with a RAG System That Focuses on Explainability First
+- **Published**: August 13, 2026
+- **Summary**: https://nextsteamgame.com</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49280961">https://news.ycombinator.com/item?id=4928.....
+- [Read more](https://nextsteamgame.com)
 
 ---
 
