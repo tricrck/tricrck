@@ -16,18 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### If You Weren't Worried About A.I., You Should Be After the Past Few Weeks
+### OpenAI hires new CRO as executive shake-up continues
 - **Published**: August 13, 2026
-- **Summary**: https://www.nytimes.com/2026/08/13/opinion/ai-danger-openai-anthropic-models.html</a></p>
-<p......
-- [Read more](https://www.nytimes.com/2026/08/13/opinion/ai-danger-openai-anthropic-models.html)
+- **Summary**: https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues......
+- [Read more](https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/)
 
-### Show HN: Pressentable – turn a spreadsheet into a typeset client report
+### Show HN: MLTraining Free AI/ML training resources for everyone
 - **Published**: August 13, 2026
-- **Summary**: <p>[alphal
-I found current state of reporting tool not really good so I am making one. 
-The time to produce the report should not be as long as the ti...
-- [Read more](https://pressentable.com/)
+- **Summary**: https://mltraining.org/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49290500">https://news.ycombinator.com/item?id=49290500...
+- [Read more](https://mltraining.org/)
 
 ---
 
