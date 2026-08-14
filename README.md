@@ -16,16 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### We Reduced API Requests in the Hetzner Cloud Controller Manager
+### VLC blames Windows 11 bug for slow performance, calls out Microsoft
 - **Published**: August 14, 2026
-- **Summary**: https://www.hetzner.com/blog/How-we-reduced-API-requests-in-the-Hetzner-Clou......
-- [Read more](https://www.hetzner.com/blog/How-we-reduced-API-requests-in-the-Hetzner-Cloud-Controller-Manager/)
+- **Summary**: https://www.windowslatest.com/2026/08/14/......
+- **Keywords**: bug, bug
+- [Read more](https://www.windowslatest.com/2026/08/14/vlc-blames-windows-11-bug-for-slow-performance-defends-open-source-and-calls-out-microsoft/)
 
-### Apple and AI: Siri the Early Years
+### We built a report designer for Blazor and 4 components along with it
 - **Published**: August 14, 2026
-- **Summary**: https://thechipletter.substack.com/p/apple-and-ai-siri-the-early-years</a></p>
-<p>Comments URL: <a href......
-- [Read more](https://thechipletter.substack.com/p/apple-and-ai-siri-the-early-years)
+- **Summary**: https://blazorise.com/blog/release-notes/230</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49298059">htt......
+- [Read more](https://blazorise.com/blog/release-notes/230)
 
 ---
 
