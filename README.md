@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### OpenAI hires new CRO as executive shake-up continues
-- **Published**: August 13, 2026
-- **Summary**: https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues......
-- [Read more](https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/)
+### DeepMind's Hassabis Pitched AI-Oversight Body Before Shake-Up
+- **Published**: August 14, 2026
+- **Summary**: https://www.wsj.com/tech/ai/deepminds-hassabis-pitched-ai-oversight-body-bef......
+- [Read more](https://www.wsj.com/tech/ai/deepminds-hassabis-pitched-ai-oversight-body-before-shake-up-e25b3f71)
 
-### Show HN: MLTraining Free AI/ML training resources for everyone
-- **Published**: August 13, 2026
-- **Summary**: https://mltraining.org/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49290500">https://news.ycombinator.com/item?id=49290500...
-- [Read more](https://mltraining.org/)
+### UploadPrep – make photos and files meet government upload requirements
+- **Published**: August 14, 2026
+- **Summary**: https://www.uploadprep.com</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49293897">https://news.ycombinator.com/item?id=49......
+- [Read more](https://www.uploadprep.com)
 
 ---
 
