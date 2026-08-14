@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### DeepMind's Hassabis Pitched AI-Oversight Body Before Shake-Up
+### We Reduced API Requests in the Hetzner Cloud Controller Manager
 - **Published**: August 14, 2026
-- **Summary**: https://www.wsj.com/tech/ai/deepminds-hassabis-pitched-ai-oversight-body-bef......
-- [Read more](https://www.wsj.com/tech/ai/deepminds-hassabis-pitched-ai-oversight-body-before-shake-up-e25b3f71)
+- **Summary**: https://www.hetzner.com/blog/How-we-reduced-API-requests-in-the-Hetzner-Clou......
+- [Read more](https://www.hetzner.com/blog/How-we-reduced-API-requests-in-the-Hetzner-Cloud-Controller-Manager/)
 
-### UploadPrep – make photos and files meet government upload requirements
+### Apple and AI: Siri the Early Years
 - **Published**: August 14, 2026
-- **Summary**: https://www.uploadprep.com</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49293897">https://news.ycombinator.com/item?id=49......
-- [Read more](https://www.uploadprep.com)
+- **Summary**: https://thechipletter.substack.com/p/apple-and-ai-siri-the-early-years</a></p>
+<p>Comments URL: <a href......
+- [Read more](https://thechipletter.substack.com/p/apple-and-ai-siri-the-early-years)
 
 ---
 
