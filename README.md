@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### VLC blames Windows 11 bug for slow performance, calls out Microsoft
+### The American Sports Plutocracy Is Bullshit
 - **Published**: August 14, 2026
-- **Summary**: https://www.windowslatest.com/2026/08/14/......
-- **Keywords**: bug, bug
-- [Read more](https://www.windowslatest.com/2026/08/14/vlc-blames-windows-11-bug-for-slow-performance-defends-open-source-and-calls-out-microsoft/)
+- **Summary**: https://www.derekthompson.org/p/the-american-sports-plutocracy-is</a></p>
+<p>Comments URL: <a href="https://......
+- [Read more](https://www.derekthompson.org/p/the-american-sports-plutocracy-is)
 
-### We built a report designer for Blazor and 4 components along with it
+### Fmr OpenAI exec Fidji Simo discusses POTS battle and plan to cure it with AI
 - **Published**: August 14, 2026
-- **Summary**: https://blazorise.com/blog/release-notes/230</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49298059">htt......
-- [Read more](https://blazorise.com/blog/release-notes/230)
+- **Summary**: https://finance.yahoo.com/healthcare/articles/exclusive-former-openai-exec-fid......
+- [Read more](https://finance.yahoo.com/healthcare/articles/exclusive-former-openai-exec-fidji-192343263.html)
 
 ---
 
