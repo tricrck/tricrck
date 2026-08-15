@@ -16,16 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Nvidia Downsizes Plans for $250B Guarantee of OpenAI Data Center
+### z486: A 486-Class Pipelined FPGA CPU with Integrated Floating-Point
 - **Published**: August 15, 2026
-- **Summary**: https://www.wsj.com/tech/nvidia-downsizes-plans-for-250-billion-guara......
-- [Read more](https://www.wsj.com/tech/nvidia-downsizes-plans-for-250-billion-guarantee-of-openai-data-center-b56c38d3)
+- **Summary**: https://nand2mario.github.io/posts/2026/z486/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49308269">h......
+- [Read more](https://nand2mario.github.io/posts/2026/z486/)
 
-### Deliverance from 27,000 feet (2017)
+### Preparing GLM-5.3 for Open Release: A Responsible Path to Cyber Defense
 - **Published**: August 15, 2026
-- **Summary**: https://www.nytimes.com/interactive/2017/12/18/sports/everest-deaths.html</a></p>
-<p>Comments URL: <......
-- [Read more](https://www.nytimes.com/interactive/2017/12/18/sports/everest-deaths.html)
+- **Summary**: https://twitter.com/Zai_org/status/2088280509474320693</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/i......
+- [Read more](https://twitter.com/Zai_org/status/2088280509474320693)
 
 ---
 
