@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### The American Sports Plutocracy Is Bullshit
-- **Published**: August 14, 2026
-- **Summary**: https://www.derekthompson.org/p/the-american-sports-plutocracy-is</a></p>
-<p>Comments URL: <a href="https://......
-- [Read more](https://www.derekthompson.org/p/the-american-sports-plutocracy-is)
+### Nvidia Downsizes Plans for $250B Guarantee of OpenAI Data Center
+- **Published**: August 15, 2026
+- **Summary**: https://www.wsj.com/tech/nvidia-downsizes-plans-for-250-billion-guara......
+- [Read more](https://www.wsj.com/tech/nvidia-downsizes-plans-for-250-billion-guarantee-of-openai-data-center-b56c38d3)
 
-### Fmr OpenAI exec Fidji Simo discusses POTS battle and plan to cure it with AI
-- **Published**: August 14, 2026
-- **Summary**: https://finance.yahoo.com/healthcare/articles/exclusive-former-openai-exec-fid......
-- [Read more](https://finance.yahoo.com/healthcare/articles/exclusive-former-openai-exec-fidji-192343263.html)
+### Deliverance from 27,000 feet (2017)
+- **Published**: August 15, 2026
+- **Summary**: https://www.nytimes.com/interactive/2017/12/18/sports/everest-deaths.html</a></p>
+<p>Comments URL: <......
+- [Read more](https://www.nytimes.com/interactive/2017/12/18/sports/everest-deaths.html)
 
 ---
 
