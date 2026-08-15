@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### z486: A 486-Class Pipelined FPGA CPU with Integrated Floating-Point
+### China Is Opening the First Regular Cargo Route Through the Arctic
 - **Published**: August 15, 2026
-- **Summary**: https://nand2mario.github.io/posts/2026/z486/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49308269">h......
-- [Read more](https://nand2mario.github.io/posts/2026/z486/)
+- **Summary**: https://www.wsj.com/world/china-is-opening-the-first-regular-cargo-route-......
+- [Read more](https://www.wsj.com/world/china-is-opening-the-first-regular-cargo-route-through-the-arctic-445245bc)
 
-### Preparing GLM-5.3 for Open Release: A Responsible Path to Cyber Defense
+### BuyTheBy
 - **Published**: August 15, 2026
-- **Summary**: https://twitter.com/Zai_org/status/2088280509474320693</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/i......
-- [Read more](https://twitter.com/Zai_org/status/2088280509474320693)
+- **Summary**: https://zenodo.org/records/19684278</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49310060">https://news.ycombina......
+- [Read more](https://zenodo.org/records/19684278)
 
 ---
 
