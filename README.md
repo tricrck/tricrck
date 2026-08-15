@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### China Is Opening the First Regular Cargo Route Through the Arctic
+### Which monotheistic religions preceded Yahweh's religion?
 - **Published**: August 15, 2026
-- **Summary**: https://www.wsj.com/world/china-is-opening-the-first-regular-cargo-route-......
-- [Read more](https://www.wsj.com/world/china-is-opening-the-first-regular-cargo-route-through-the-arctic-445245bc)
+- **Summary**: https://ciron.medium.com/which-monotheistic-religions-preceded-that-of-yahweh-3218c......
+- [Read more](https://ciron.medium.com/which-monotheistic-religions-preceded-that-of-yahweh-3218c780553f)
 
-### BuyTheBy
+### Tupoi: An attention-free LLM with strictly O(1) memory and 6 KB state
 - **Published**: August 15, 2026
-- **Summary**: https://zenodo.org/records/19684278</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49310060">https://news.ycombina......
-- [Read more](https://zenodo.org/records/19684278)
+- **Summary**: https://github.com/narelabs/TUPOI</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49312921">https://news.ycombinator.......
+- [Read more](https://github.com/narelabs/TUPOI)
 
 ---
 
