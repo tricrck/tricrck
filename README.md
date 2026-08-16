@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Astronomers May Have Discovered a New Kind of Celestial Object: Black Hole Stars
+### Climate tech companies are pivoting to critical minerals
 - **Published**: August 16, 2026
-- **Summary**: https://......
-- [Read more](https://www.smithsonianmag.com/smart-news/astronomers-peered-at-the-early-universe-and-may-have-discovered-a-new-kind-of-celestial-object-black-hole-stars-180989334/)
+- **Summary**: https://www.technologyreview.com/2026/05/21/1137622/climate-tech-pivot-critical-mine......
+- [Read more](https://www.technologyreview.com/2026/05/21/1137622/climate-tech-pivot-critical-minerals/)
 
-### If you had trusted the settled science of the day here is how it would have gone
+### C64 Lemmings Reloaded
 - **Published**: August 16, 2026
-- **Summary**: https://twitter.com/SamaHoole/status/2088832696155820150</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.c......
-- [Read more](https://twitter.com/SamaHoole/status/2088832696155820150)
+- **Summary**: https://lunaticlab.itch.io/lemmings-reloaded</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49322377">htt......
+- [Read more](https://lunaticlab.itch.io/lemmings-reloaded)
 
 ---
 
