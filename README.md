@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Mastercard payments declined due to 'global' outage caused by system update
-- **Published**: August 15, 2026
-- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1vp9jxc/mastercard_payments_declined_due_to_global_outage/"> <img alt="Mastercard payments ...
-- **Keywords**: outage, outage
-- [Read more](https://www.reddit.com/r/technology/comments/1vp9jxc/mastercard_payments_declined_due_to_global_outage/)
-
-### Want things to go well? Plan like a defensive pessimist
+### Astronomers May Have Discovered a New Kind of Celestial Object: Black Hole Stars
 - **Published**: August 16, 2026
-- **Summary**: https://psyche.co/guides/want-things-to-go-well-plan-like-a-defensive-pessimist</a></p>
-<p>Com......
-- [Read more](https://psyche.co/guides/want-things-to-go-well-plan-like-a-defensive-pessimist)
+- **Summary**: https://......
+- [Read more](https://www.smithsonianmag.com/smart-news/astronomers-peered-at-the-early-universe-and-may-have-discovered-a-new-kind-of-celestial-object-black-hole-stars-180989334/)
+
+### If you had trusted the settled science of the day here is how it would have gone
+- **Published**: August 16, 2026
+- **Summary**: https://twitter.com/SamaHoole/status/2088832696155820150</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.c......
+- [Read more](https://twitter.com/SamaHoole/status/2088832696155820150)
 
 ---
 
