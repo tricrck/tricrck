@@ -16,16 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Which monotheistic religions preceded Yahweh's religion?
+### Mastercard payments declined due to 'global' outage caused by system update
 - **Published**: August 15, 2026
-- **Summary**: https://ciron.medium.com/which-monotheistic-religions-preceded-that-of-yahweh-3218c......
-- [Read more](https://ciron.medium.com/which-monotheistic-religions-preceded-that-of-yahweh-3218c780553f)
+- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1vp9jxc/mastercard_payments_declined_due_to_global_outage/"> <img alt="Mastercard payments ...
+- **Keywords**: outage, outage
+- [Read more](https://www.reddit.com/r/technology/comments/1vp9jxc/mastercard_payments_declined_due_to_global_outage/)
 
-### Tupoi: An attention-free LLM with strictly O(1) memory and 6 KB state
+### Futuristic mosquito-zapping laser now available to buy, video shows device in action — tiny device shoots down bugs like a personal air defense system, but costs $1,000
 - **Published**: August 15, 2026
-- **Summary**: https://github.com/narelabs/TUPOI</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49312921">https://news.ycombinator.......
-- [Read more](https://github.com/narelabs/TUPOI)
+- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1vp7lm4/futuristic_mosquitozapping_laser_now_available_to/"> <img alt="Futuristic mosquito-...
+- **Keywords**: down
+- [Read more](https://www.reddit.com/r/technology/comments/1vp7lm4/futuristic_mosquitozapping_laser_now_available_to/)
 
 ---
 
