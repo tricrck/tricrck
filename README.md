@@ -22,11 +22,11 @@
 - **Keywords**: outage, outage
 - [Read more](https://www.reddit.com/r/technology/comments/1vp9jxc/mastercard_payments_declined_due_to_global_outage/)
 
-### Futuristic mosquito-zapping laser now available to buy, video shows device in action — tiny device shoots down bugs like a personal air defense system, but costs $1,000
-- **Published**: August 15, 2026
-- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1vp7lm4/futuristic_mosquitozapping_laser_now_available_to/"> <img alt="Futuristic mosquito-...
-- **Keywords**: down
-- [Read more](https://www.reddit.com/r/technology/comments/1vp7lm4/futuristic_mosquitozapping_laser_now_available_to/)
+### Want things to go well? Plan like a defensive pessimist
+- **Published**: August 16, 2026
+- **Summary**: https://psyche.co/guides/want-things-to-go-well-plan-like-a-defensive-pessimist</a></p>
+<p>Com......
+- [Read more](https://psyche.co/guides/want-things-to-go-well-plan-like-a-defensive-pessimist)
 
 ---
 
