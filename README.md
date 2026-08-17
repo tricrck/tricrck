@@ -16,16 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Climate tech companies are pivoting to critical minerals
-- **Published**: August 16, 2026
-- **Summary**: https://www.technologyreview.com/2026/05/21/1137622/climate-tech-pivot-critical-mine......
-- [Read more](https://www.technologyreview.com/2026/05/21/1137622/climate-tech-pivot-critical-minerals/)
+### Path Protocol – an open-source browser precision game and course editor
+- **Published**: August 17, 2026
+- **Summary**: https://github.com/argentquest/protocol</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49325521">https://news.......
+- [Read more](https://github.com/argentquest/protocol)
 
-### C64 Lemmings Reloaded
-- **Published**: August 16, 2026
-- **Summary**: https://lunaticlab.itch.io/lemmings-reloaded</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49322377">htt......
-- [Read more](https://lunaticlab.itch.io/lemmings-reloaded)
+### Inverse Problem
+- **Published**: August 17, 2026
+- **Summary**: https://en.wikipedia.org/wiki/Inverse_problem</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49325509">h......
+- [Read more](https://en.wikipedia.org/wiki/Inverse_problem)
 
 ---
 
