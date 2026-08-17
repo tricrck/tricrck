@@ -1,30 +1,29 @@
 {
   "chaos_ranked": [
     {
-      "title": "The Internet Archive currently down due to power outage",
-      "link": "https://web.archive.org/",
-      "summary": "<p>Article URL: <a href=\"https://web.archive.org/\">https://web.archive.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49327268\">https://news.ycombinator.com/item?id=493272...",
-      "published": "2026-08-17T06:50:50+00:00",
-      "domain": "web.archive.org",
+      "title": "Found a duplicate-execution bug in an MCP tool via static analysis (no LLM)",
+      "link": "https://www.getnexum.dev/blog/nexum-004-fabian-williams",
+      "summary": "<p>Article URL: <a href=\"https://www.getnexum.dev/blog/nexum-004-fabian-williams\">https://www.getnexum.dev/blog/nexum-004-fabian-williams</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com...",
+      "published": "2026-08-17T12:35:52+00:00",
+      "domain": "getnexum.dev",
       "scores": {
-        "chaos": 20.9,
+        "chaos": 10.3,
         "anarchy": 3.0,
-        "overall": 12.0
+        "overall": 6.6
       },
       "keywords": {
         "chaos": [
-          "down",
-          "outage"
+          "bug"
         ],
         "anarchy": []
       }
     },
     {
-      "title": "Speeding up the Unreal Editor launch (again) by not loading 1585 files",
-      "link": "https://larstofus.com/2026/08/16/speeding-up-the-unreal-editor-launch-again-by-not-loading-1585-files/",
-      "summary": "<p>Article URL: <a href=\"https://larstofus.com/2026/08/16/speeding-up-the-unreal-editor-launch-again-by-not-loading-1585-files/\">https://larstofus.com/2026/08/16/speeding-up-the-unreal-editor-launch-a...",
-      "published": "2026-08-17T06:52:55+00:00",
-      "domain": "larstofus.com",
+      "title": "How MCP Servers Can Expose Enterprise Secrets",
+      "link": "https://thehackernews.com/2026/08/how-mcp-servers-can-expose-enterprise.html",
+      "summary": "MCP servers can expose enterprise secrets through plaintext configuration files, over-permissioned access and prompt injection, often before security teams even know the server is running. As more org...",
+      "published": "2026-08-17T17:28:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -36,11 +35,11 @@
       }
     },
     {
-      "title": "Hacker News Clone: VibeHack a.k.a. HackPhilia",
-      "link": "https://hackphilia.com/about.php",
-      "summary": "<p>Article URL: <a href=\"https://hackphilia.com/about.php\">https://hackphilia.com/about.php</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49327277\">https://news.ycombinator.co...",
-      "published": "2026-08-17T06:51:39+00:00",
-      "domain": "hackphilia.com",
+      "title": "Unisoc VoLTE Video Call Exploit Chain Can Give Attackers Full Android Kernel Access",
+      "link": "https://thehackernews.com/2026/08/unisoc-volte-video-call-exploit-chain.html",
+      "summary": "Security researchers at SSD Secure Disclosure have published a two-stage exploit chain that achieves full Android kernel access on devices running Unisoc modem firmware through a VoLTE video call, wit...",
+      "published": "2026-08-17T16:22:34+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -52,11 +51,11 @@
       }
     },
     {
-      "title": "The null result in OpenAI's enterprise AI paper",
-      "link": "https://theworkingmodel.co/analysis/null-result-openai-enterprise-paper/",
-      "summary": "<p>Article URL: <a href=\"https://theworkingmodel.co/analysis/null-result-openai-enterprise-paper/\">https://theworkingmodel.co/analysis/null-result-openai-enterprise-paper/</a></p>\n<p>Comments URL: <a ...",
-      "published": "2026-08-17T06:51:36+00:00",
-      "domain": "theworkingmodel.co",
+      "title": "Evooo1Bot Linux Botnet Exploits Known Flaws to Turn Edge Devices Into SOCKS5 Proxies",
+      "link": "https://thehackernews.com/2026/08/evooo1bot-linux-botnet-exploits-known.html",
+      "summary": "Cybersecurity researchers have flagged a previously undocumented Linux botnet family dubbed Evooo1Bot that derives its core functionality from the Mirai botnet source code and is equipped to turn inte...",
+      "published": "2026-08-17T14:59:55+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -68,11 +67,11 @@
       }
     },
     {
-      "title": "Conservation efforts help an endangered dipterocarp spread roots in Bangladesh",
-      "link": "https://news.mongabay.com/2026/04/conservation-efforts-help-an-endangered-dipterocarp-spread-roots-in-bangladesh/",
-      "summary": "<p>Article URL: <a href=\"https://news.mongabay.com/2026/04/conservation-efforts-help-an-endangered-dipterocarp-spread-roots-in-bangladesh/\">https://news.mongabay.com/2026/04/conservation-efforts-help-...",
-      "published": "2026-08-17T06:50:51+00:00",
-      "domain": "news.mongabay.com",
+      "title": "Suspected China-Nexus Actor Exploits VMware vCenter Flaw, Deploys Babuk-Derived Ransomware",
+      "link": "https://thehackernews.com/2026/08/suspected-china-nexus-actor-exploits.html",
+      "summary": "Cybersecurity researchers have attributed the exploitation of a newly patched security flaw in Broadcom VMware vCenter to a suspected China-nexus advanced persistent threat (APT).\n\nThe attacks involve...",
+      "published": "2026-08-17T13:06:19+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -84,11 +83,11 @@
       }
     },
     {
-      "title": "Waymo shipped 3,200 Chinese-built EVs to LA for its robotaxi fleet despite 127.5% tariffs Americans can't get around",
-      "link": "https://www.reddit.com/r/technology/comments/1vqffns/waymo_shipped_3200_chinesebuilt_evs_to_la_for_its/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1vqffns/waymo_shipped_3200_chinesebuilt_evs_to_la_for_its/\"> <img alt=\"Waymo shipped 3,200 Chinese-built EVs to LA for its robota...",
-      "published": "2026-08-17T02:10:18+00:00",
-      "domain": "reddit.com",
+      "title": "Harnesses Are \"Situated Agents\"",
+      "link": "https://www.dbreunig.com/2026/08/14/harnesses-are-situated-agents.html",
+      "summary": "<p>Article URL: <a href=\"https://www.dbreunig.com/2026/08/14/harnesses-are-situated-agents.html\">https://www.dbreunig.com/2026/08/14/harnesses-are-situated-agents.html</a></p>\n<p>Comments URL: <a href...",
+      "published": "2026-08-17T12:39:04+00:00",
+      "domain": "dbreunig.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -100,11 +99,11 @@
       }
     },
     {
-      "title": "AGI-64 Brings Sierra Adventures to the Commodore 64",
-      "link": "https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49325714\">Comments</a>...",
-      "published": "2026-08-17T01:45:36+00:00",
-      "domain": "meanhamster.com",
+      "title": "Fairly Ranking the Most Brilliant Birds",
+      "link": "https://moultano.wordpress.com/2026/08/14/fairly-ranking-the-most-brilliant-birds/",
+      "summary": "<p>Article URL: <a href=\"https://moultano.wordpress.com/2026/08/14/fairly-ranking-the-most-brilliant-birds/\">https://moultano.wordpress.com/2026/08/14/fairly-ranking-the-most-brilliant-birds/</a></p>\n...",
+      "published": "2026-08-17T12:37:44+00:00",
+      "domain": "moultano.wordpress.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -116,11 +115,11 @@
       }
     },
     {
-      "title": "The Life and Death of Direct File [pdf]",
-      "link": "https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49325185\">Comments</a>...",
-      "published": "2026-08-17T00:17:57+00:00",
-      "domain": "ischool.berkeley.edu",
+      "title": "Claude Sonnet 5 will remain $2/$10 per M; September increase cancelled",
+      "link": "https://www.aipricing.guru/news/claude-output-training-rules-pricing-impact-august-2026/",
+      "summary": "<p>Article URL: <a href=\"https://www.aipricing.guru/news/claude-output-training-rules-pricing-impact-august-2026/\">https://www.aipricing.guru/news/claude-output-training-rules-pricing-impact-august-20...",
+      "published": "2026-08-17T12:37:39+00:00",
+      "domain": "aipricing.guru",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -132,11 +131,11 @@
       }
     },
     {
-      "title": "Microsoft Is Retiring Excel\u2019s COPILOT() Function After Just One Year",
-      "link": "https://www.reddit.com/r/technology/comments/1vqcqpz/microsoft_is_retiring_excels_copilot_function/",
-      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/lurker_bee\"> /u/lurker_bee </a> <br /> <span><a href=\"https://windowsreport.com/microsoft-is-retiring-excels-copilot-function-after-just-o...",
-      "published": "2026-08-17T00:02:41+00:00",
-      "domain": "reddit.com",
+      "title": "I just tried this privacy-focused version of Android for Pixel phones",
+      "link": "https://www.tomsguide.com/phones/google-pixel-phones/i-just-tried-this-privacy-focused-version-of-android-for-pixel-phones-and-im-very-impressed",
+      "summary": "<p>Article URL: <a href=\"https://www.tomsguide.com/phones/google-pixel-phones/i-just-tried-this-privacy-focused-version-of-android-for-pixel-phones-and-im-very-impressed\">https://www.tomsguide.com/pho...",
+      "published": "2026-08-17T12:37:28+00:00",
+      "domain": "tomsguide.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -148,11 +147,11 @@
       }
     },
     {
-      "title": "Reticulum \u2013 Decentralized Mesh Network",
-      "link": "https://reticulum.network/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49325061\">Comments</a>...",
-      "published": "2026-08-16T23:59:10+00:00",
-      "domain": "reticulum.network",
+      "title": "People are worried about America's solvency",
+      "link": "https://www.ft.com/content/e04f286c-f5ed-46d1-8e3f-0bbe4cce4d3e",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49329347\">Comments</a>...",
+      "published": "2026-08-17T11:45:12+00:00",
+      "domain": "ft.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -166,11 +165,11 @@
   ],
   "anarchy_ranked": [
     {
-      "title": "Speeding up the Unreal Editor launch (again) by not loading 1585 files",
-      "link": "https://larstofus.com/2026/08/16/speeding-up-the-unreal-editor-launch-again-by-not-loading-1585-files/",
-      "summary": "<p>Article URL: <a href=\"https://larstofus.com/2026/08/16/speeding-up-the-unreal-editor-launch-again-by-not-loading-1585-files/\">https://larstofus.com/2026/08/16/speeding-up-the-unreal-editor-launch-a...",
-      "published": "2026-08-17T06:52:55+00:00",
-      "domain": "larstofus.com",
+      "title": "How MCP Servers Can Expose Enterprise Secrets",
+      "link": "https://thehackernews.com/2026/08/how-mcp-servers-can-expose-enterprise.html",
+      "summary": "MCP servers can expose enterprise secrets through plaintext configuration files, over-permissioned access and prompt injection, often before security teams even know the server is running. As more org...",
+      "published": "2026-08-17T17:28:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -182,11 +181,11 @@
       }
     },
     {
-      "title": "Hacker News Clone: VibeHack a.k.a. HackPhilia",
-      "link": "https://hackphilia.com/about.php",
-      "summary": "<p>Article URL: <a href=\"https://hackphilia.com/about.php\">https://hackphilia.com/about.php</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49327277\">https://news.ycombinator.co...",
-      "published": "2026-08-17T06:51:39+00:00",
-      "domain": "hackphilia.com",
+      "title": "Unisoc VoLTE Video Call Exploit Chain Can Give Attackers Full Android Kernel Access",
+      "link": "https://thehackernews.com/2026/08/unisoc-volte-video-call-exploit-chain.html",
+      "summary": "Security researchers at SSD Secure Disclosure have published a two-stage exploit chain that achieves full Android kernel access on devices running Unisoc modem firmware through a VoLTE video call, wit...",
+      "published": "2026-08-17T16:22:34+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -198,11 +197,11 @@
       }
     },
     {
-      "title": "The null result in OpenAI's enterprise AI paper",
-      "link": "https://theworkingmodel.co/analysis/null-result-openai-enterprise-paper/",
-      "summary": "<p>Article URL: <a href=\"https://theworkingmodel.co/analysis/null-result-openai-enterprise-paper/\">https://theworkingmodel.co/analysis/null-result-openai-enterprise-paper/</a></p>\n<p>Comments URL: <a ...",
-      "published": "2026-08-17T06:51:36+00:00",
-      "domain": "theworkingmodel.co",
+      "title": "Evooo1Bot Linux Botnet Exploits Known Flaws to Turn Edge Devices Into SOCKS5 Proxies",
+      "link": "https://thehackernews.com/2026/08/evooo1bot-linux-botnet-exploits-known.html",
+      "summary": "Cybersecurity researchers have flagged a previously undocumented Linux botnet family dubbed Evooo1Bot that derives its core functionality from the Mirai botnet source code and is equipped to turn inte...",
+      "published": "2026-08-17T14:59:55+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -214,11 +213,11 @@
       }
     },
     {
-      "title": "Conservation efforts help an endangered dipterocarp spread roots in Bangladesh",
-      "link": "https://news.mongabay.com/2026/04/conservation-efforts-help-an-endangered-dipterocarp-spread-roots-in-bangladesh/",
-      "summary": "<p>Article URL: <a href=\"https://news.mongabay.com/2026/04/conservation-efforts-help-an-endangered-dipterocarp-spread-roots-in-bangladesh/\">https://news.mongabay.com/2026/04/conservation-efforts-help-...",
-      "published": "2026-08-17T06:50:51+00:00",
-      "domain": "news.mongabay.com",
+      "title": "Suspected China-Nexus Actor Exploits VMware vCenter Flaw, Deploys Babuk-Derived Ransomware",
+      "link": "https://thehackernews.com/2026/08/suspected-china-nexus-actor-exploits.html",
+      "summary": "Cybersecurity researchers have attributed the exploitation of a newly patched security flaw in Broadcom VMware vCenter to a suspected China-nexus advanced persistent threat (APT).\n\nThe attacks involve...",
+      "published": "2026-08-17T13:06:19+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -230,94 +229,93 @@
       }
     },
     {
-      "title": "The Internet Archive currently down due to power outage",
-      "link": "https://web.archive.org/",
-      "summary": "<p>Article URL: <a href=\"https://web.archive.org/\">https://web.archive.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49327268\">https://news.ycombinator.com/item?id=493272...",
-      "published": "2026-08-17T06:50:50+00:00",
-      "domain": "web.archive.org",
+      "title": "Harnesses Are \"Situated Agents\"",
+      "link": "https://www.dbreunig.com/2026/08/14/harnesses-are-situated-agents.html",
+      "summary": "<p>Article URL: <a href=\"https://www.dbreunig.com/2026/08/14/harnesses-are-situated-agents.html\">https://www.dbreunig.com/2026/08/14/harnesses-are-situated-agents.html</a></p>\n<p>Comments URL: <a href...",
+      "published": "2026-08-17T12:39:04+00:00",
+      "domain": "dbreunig.com",
       "scores": {
-        "chaos": 20.9,
+        "chaos": 3.0,
         "anarchy": 3.0,
-        "overall": 12.0
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Fairly Ranking the Most Brilliant Birds",
+      "link": "https://moultano.wordpress.com/2026/08/14/fairly-ranking-the-most-brilliant-birds/",
+      "summary": "<p>Article URL: <a href=\"https://moultano.wordpress.com/2026/08/14/fairly-ranking-the-most-brilliant-birds/\">https://moultano.wordpress.com/2026/08/14/fairly-ranking-the-most-brilliant-birds/</a></p>\n...",
+      "published": "2026-08-17T12:37:44+00:00",
+      "domain": "moultano.wordpress.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Claude Sonnet 5 will remain $2/$10 per M; September increase cancelled",
+      "link": "https://www.aipricing.guru/news/claude-output-training-rules-pricing-impact-august-2026/",
+      "summary": "<p>Article URL: <a href=\"https://www.aipricing.guru/news/claude-output-training-rules-pricing-impact-august-2026/\">https://www.aipricing.guru/news/claude-output-training-rules-pricing-impact-august-20...",
+      "published": "2026-08-17T12:37:39+00:00",
+      "domain": "aipricing.guru",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "I just tried this privacy-focused version of Android for Pixel phones",
+      "link": "https://www.tomsguide.com/phones/google-pixel-phones/i-just-tried-this-privacy-focused-version-of-android-for-pixel-phones-and-im-very-impressed",
+      "summary": "<p>Article URL: <a href=\"https://www.tomsguide.com/phones/google-pixel-phones/i-just-tried-this-privacy-focused-version-of-android-for-pixel-phones-and-im-very-impressed\">https://www.tomsguide.com/pho...",
+      "published": "2026-08-17T12:37:28+00:00",
+      "domain": "tomsguide.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Found a duplicate-execution bug in an MCP tool via static analysis (no LLM)",
+      "link": "https://www.getnexum.dev/blog/nexum-004-fabian-williams",
+      "summary": "<p>Article URL: <a href=\"https://www.getnexum.dev/blog/nexum-004-fabian-williams\">https://www.getnexum.dev/blog/nexum-004-fabian-williams</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com...",
+      "published": "2026-08-17T12:35:52+00:00",
+      "domain": "getnexum.dev",
+      "scores": {
+        "chaos": 10.3,
+        "anarchy": 3.0,
+        "overall": 6.6
       },
       "keywords": {
         "chaos": [
-          "down",
-          "outage"
+          "bug"
         ],
         "anarchy": []
       }
     },
     {
-      "title": "Waymo shipped 3,200 Chinese-built EVs to LA for its robotaxi fleet despite 127.5% tariffs Americans can't get around",
-      "link": "https://www.reddit.com/r/technology/comments/1vqffns/waymo_shipped_3200_chinesebuilt_evs_to_la_for_its/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1vqffns/waymo_shipped_3200_chinesebuilt_evs_to_la_for_its/\"> <img alt=\"Waymo shipped 3,200 Chinese-built EVs to LA for its robota...",
-      "published": "2026-08-17T02:10:18+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "AGI-64 Brings Sierra Adventures to the Commodore 64",
-      "link": "https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49325714\">Comments</a>...",
-      "published": "2026-08-17T01:45:36+00:00",
-      "domain": "meanhamster.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The Life and Death of Direct File [pdf]",
-      "link": "https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49325185\">Comments</a>...",
-      "published": "2026-08-17T00:17:57+00:00",
-      "domain": "ischool.berkeley.edu",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Microsoft Is Retiring Excel\u2019s COPILOT() Function After Just One Year",
-      "link": "https://www.reddit.com/r/technology/comments/1vqcqpz/microsoft_is_retiring_excels_copilot_function/",
-      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/lurker_bee\"> /u/lurker_bee </a> <br /> <span><a href=\"https://windowsreport.com/microsoft-is-retiring-excels-copilot-function-after-just-o...",
-      "published": "2026-08-17T00:02:41+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Reticulum \u2013 Decentralized Mesh Network",
-      "link": "https://reticulum.network/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49325061\">Comments</a>...",
-      "published": "2026-08-16T23:59:10+00:00",
-      "domain": "reticulum.network",
+      "title": "People are worried about America's solvency",
+      "link": "https://www.ft.com/content/e04f286c-f5ed-46d1-8e3f-0bbe4cce4d3e",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49329347\">Comments</a>...",
+      "published": "2026-08-17T11:45:12+00:00",
+      "domain": "ft.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -331,30 +329,29 @@
   ],
   "overall_ranked": [
     {
-      "title": "The Internet Archive currently down due to power outage",
-      "link": "https://web.archive.org/",
-      "summary": "<p>Article URL: <a href=\"https://web.archive.org/\">https://web.archive.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49327268\">https://news.ycombinator.com/item?id=493272...",
-      "published": "2026-08-17T06:50:50+00:00",
-      "domain": "web.archive.org",
+      "title": "Found a duplicate-execution bug in an MCP tool via static analysis (no LLM)",
+      "link": "https://www.getnexum.dev/blog/nexum-004-fabian-williams",
+      "summary": "<p>Article URL: <a href=\"https://www.getnexum.dev/blog/nexum-004-fabian-williams\">https://www.getnexum.dev/blog/nexum-004-fabian-williams</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com...",
+      "published": "2026-08-17T12:35:52+00:00",
+      "domain": "getnexum.dev",
       "scores": {
-        "chaos": 20.9,
+        "chaos": 10.3,
         "anarchy": 3.0,
-        "overall": 12.0
+        "overall": 6.6
       },
       "keywords": {
         "chaos": [
-          "down",
-          "outage"
+          "bug"
         ],
         "anarchy": []
       }
     },
     {
-      "title": "Speeding up the Unreal Editor launch (again) by not loading 1585 files",
-      "link": "https://larstofus.com/2026/08/16/speeding-up-the-unreal-editor-launch-again-by-not-loading-1585-files/",
-      "summary": "<p>Article URL: <a href=\"https://larstofus.com/2026/08/16/speeding-up-the-unreal-editor-launch-again-by-not-loading-1585-files/\">https://larstofus.com/2026/08/16/speeding-up-the-unreal-editor-launch-a...",
-      "published": "2026-08-17T06:52:55+00:00",
-      "domain": "larstofus.com",
+      "title": "How MCP Servers Can Expose Enterprise Secrets",
+      "link": "https://thehackernews.com/2026/08/how-mcp-servers-can-expose-enterprise.html",
+      "summary": "MCP servers can expose enterprise secrets through plaintext configuration files, over-permissioned access and prompt injection, often before security teams even know the server is running. As more org...",
+      "published": "2026-08-17T17:28:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -366,11 +363,11 @@
       }
     },
     {
-      "title": "Hacker News Clone: VibeHack a.k.a. HackPhilia",
-      "link": "https://hackphilia.com/about.php",
-      "summary": "<p>Article URL: <a href=\"https://hackphilia.com/about.php\">https://hackphilia.com/about.php</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49327277\">https://news.ycombinator.co...",
-      "published": "2026-08-17T06:51:39+00:00",
-      "domain": "hackphilia.com",
+      "title": "Unisoc VoLTE Video Call Exploit Chain Can Give Attackers Full Android Kernel Access",
+      "link": "https://thehackernews.com/2026/08/unisoc-volte-video-call-exploit-chain.html",
+      "summary": "Security researchers at SSD Secure Disclosure have published a two-stage exploit chain that achieves full Android kernel access on devices running Unisoc modem firmware through a VoLTE video call, wit...",
+      "published": "2026-08-17T16:22:34+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -382,11 +379,11 @@
       }
     },
     {
-      "title": "The null result in OpenAI's enterprise AI paper",
-      "link": "https://theworkingmodel.co/analysis/null-result-openai-enterprise-paper/",
-      "summary": "<p>Article URL: <a href=\"https://theworkingmodel.co/analysis/null-result-openai-enterprise-paper/\">https://theworkingmodel.co/analysis/null-result-openai-enterprise-paper/</a></p>\n<p>Comments URL: <a ...",
-      "published": "2026-08-17T06:51:36+00:00",
-      "domain": "theworkingmodel.co",
+      "title": "Evooo1Bot Linux Botnet Exploits Known Flaws to Turn Edge Devices Into SOCKS5 Proxies",
+      "link": "https://thehackernews.com/2026/08/evooo1bot-linux-botnet-exploits-known.html",
+      "summary": "Cybersecurity researchers have flagged a previously undocumented Linux botnet family dubbed Evooo1Bot that derives its core functionality from the Mirai botnet source code and is equipped to turn inte...",
+      "published": "2026-08-17T14:59:55+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -398,11 +395,11 @@
       }
     },
     {
-      "title": "Conservation efforts help an endangered dipterocarp spread roots in Bangladesh",
-      "link": "https://news.mongabay.com/2026/04/conservation-efforts-help-an-endangered-dipterocarp-spread-roots-in-bangladesh/",
-      "summary": "<p>Article URL: <a href=\"https://news.mongabay.com/2026/04/conservation-efforts-help-an-endangered-dipterocarp-spread-roots-in-bangladesh/\">https://news.mongabay.com/2026/04/conservation-efforts-help-...",
-      "published": "2026-08-17T06:50:51+00:00",
-      "domain": "news.mongabay.com",
+      "title": "Suspected China-Nexus Actor Exploits VMware vCenter Flaw, Deploys Babuk-Derived Ransomware",
+      "link": "https://thehackernews.com/2026/08/suspected-china-nexus-actor-exploits.html",
+      "summary": "Cybersecurity researchers have attributed the exploitation of a newly patched security flaw in Broadcom VMware vCenter to a suspected China-nexus advanced persistent threat (APT).\n\nThe attacks involve...",
+      "published": "2026-08-17T13:06:19+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -414,11 +411,11 @@
       }
     },
     {
-      "title": "Waymo shipped 3,200 Chinese-built EVs to LA for its robotaxi fleet despite 127.5% tariffs Americans can't get around",
-      "link": "https://www.reddit.com/r/technology/comments/1vqffns/waymo_shipped_3200_chinesebuilt_evs_to_la_for_its/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1vqffns/waymo_shipped_3200_chinesebuilt_evs_to_la_for_its/\"> <img alt=\"Waymo shipped 3,200 Chinese-built EVs to LA for its robota...",
-      "published": "2026-08-17T02:10:18+00:00",
-      "domain": "reddit.com",
+      "title": "Harnesses Are \"Situated Agents\"",
+      "link": "https://www.dbreunig.com/2026/08/14/harnesses-are-situated-agents.html",
+      "summary": "<p>Article URL: <a href=\"https://www.dbreunig.com/2026/08/14/harnesses-are-situated-agents.html\">https://www.dbreunig.com/2026/08/14/harnesses-are-situated-agents.html</a></p>\n<p>Comments URL: <a href...",
+      "published": "2026-08-17T12:39:04+00:00",
+      "domain": "dbreunig.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -430,11 +427,11 @@
       }
     },
     {
-      "title": "AGI-64 Brings Sierra Adventures to the Commodore 64",
-      "link": "https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49325714\">Comments</a>...",
-      "published": "2026-08-17T01:45:36+00:00",
-      "domain": "meanhamster.com",
+      "title": "Fairly Ranking the Most Brilliant Birds",
+      "link": "https://moultano.wordpress.com/2026/08/14/fairly-ranking-the-most-brilliant-birds/",
+      "summary": "<p>Article URL: <a href=\"https://moultano.wordpress.com/2026/08/14/fairly-ranking-the-most-brilliant-birds/\">https://moultano.wordpress.com/2026/08/14/fairly-ranking-the-most-brilliant-birds/</a></p>\n...",
+      "published": "2026-08-17T12:37:44+00:00",
+      "domain": "moultano.wordpress.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -446,11 +443,11 @@
       }
     },
     {
-      "title": "The Life and Death of Direct File [pdf]",
-      "link": "https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49325185\">Comments</a>...",
-      "published": "2026-08-17T00:17:57+00:00",
-      "domain": "ischool.berkeley.edu",
+      "title": "Claude Sonnet 5 will remain $2/$10 per M; September increase cancelled",
+      "link": "https://www.aipricing.guru/news/claude-output-training-rules-pricing-impact-august-2026/",
+      "summary": "<p>Article URL: <a href=\"https://www.aipricing.guru/news/claude-output-training-rules-pricing-impact-august-2026/\">https://www.aipricing.guru/news/claude-output-training-rules-pricing-impact-august-20...",
+      "published": "2026-08-17T12:37:39+00:00",
+      "domain": "aipricing.guru",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -462,11 +459,11 @@
       }
     },
     {
-      "title": "Microsoft Is Retiring Excel\u2019s COPILOT() Function After Just One Year",
-      "link": "https://www.reddit.com/r/technology/comments/1vqcqpz/microsoft_is_retiring_excels_copilot_function/",
-      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/lurker_bee\"> /u/lurker_bee </a> <br /> <span><a href=\"https://windowsreport.com/microsoft-is-retiring-excels-copilot-function-after-just-o...",
-      "published": "2026-08-17T00:02:41+00:00",
-      "domain": "reddit.com",
+      "title": "I just tried this privacy-focused version of Android for Pixel phones",
+      "link": "https://www.tomsguide.com/phones/google-pixel-phones/i-just-tried-this-privacy-focused-version-of-android-for-pixel-phones-and-im-very-impressed",
+      "summary": "<p>Article URL: <a href=\"https://www.tomsguide.com/phones/google-pixel-phones/i-just-tried-this-privacy-focused-version-of-android-for-pixel-phones-and-im-very-impressed\">https://www.tomsguide.com/pho...",
+      "published": "2026-08-17T12:37:28+00:00",
+      "domain": "tomsguide.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -478,11 +475,11 @@
       }
     },
     {
-      "title": "Reticulum \u2013 Decentralized Mesh Network",
-      "link": "https://reticulum.network/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49325061\">Comments</a>...",
-      "published": "2026-08-16T23:59:10+00:00",
-      "domain": "reticulum.network",
+      "title": "People are worried about America's solvency",
+      "link": "https://www.ft.com/content/e04f286c-f5ed-46d1-8e3f-0bbe4cce4d3e",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49329347\">Comments</a>...",
+      "published": "2026-08-17T11:45:12+00:00",
+      "domain": "ft.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -496,11 +493,11 @@
   ],
   "all_articles": [
     {
-      "title": "Speeding up the Unreal Editor launch (again) by not loading 1585 files",
-      "link": "https://larstofus.com/2026/08/16/speeding-up-the-unreal-editor-launch-again-by-not-loading-1585-files/",
-      "summary": "<p>Article URL: <a href=\"https://larstofus.com/2026/08/16/speeding-up-the-unreal-editor-launch-again-by-not-loading-1585-files/\">https://larstofus.com/2026/08/16/speeding-up-the-unreal-editor-launch-a...",
-      "published": "2026-08-17T06:52:55+00:00",
-      "domain": "larstofus.com",
+      "title": "How MCP Servers Can Expose Enterprise Secrets",
+      "link": "https://thehackernews.com/2026/08/how-mcp-servers-can-expose-enterprise.html",
+      "summary": "MCP servers can expose enterprise secrets through plaintext configuration files, over-permissioned access and prompt injection, often before security teams even know the server is running. As more org...",
+      "published": "2026-08-17T17:28:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -512,11 +509,11 @@
       }
     },
     {
-      "title": "Hacker News Clone: VibeHack a.k.a. HackPhilia",
-      "link": "https://hackphilia.com/about.php",
-      "summary": "<p>Article URL: <a href=\"https://hackphilia.com/about.php\">https://hackphilia.com/about.php</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49327277\">https://news.ycombinator.co...",
-      "published": "2026-08-17T06:51:39+00:00",
-      "domain": "hackphilia.com",
+      "title": "Unisoc VoLTE Video Call Exploit Chain Can Give Attackers Full Android Kernel Access",
+      "link": "https://thehackernews.com/2026/08/unisoc-volte-video-call-exploit-chain.html",
+      "summary": "Security researchers at SSD Secure Disclosure have published a two-stage exploit chain that achieves full Android kernel access on devices running Unisoc modem firmware through a VoLTE video call, wit...",
+      "published": "2026-08-17T16:22:34+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -528,11 +525,11 @@
       }
     },
     {
-      "title": "The null result in OpenAI's enterprise AI paper",
-      "link": "https://theworkingmodel.co/analysis/null-result-openai-enterprise-paper/",
-      "summary": "<p>Article URL: <a href=\"https://theworkingmodel.co/analysis/null-result-openai-enterprise-paper/\">https://theworkingmodel.co/analysis/null-result-openai-enterprise-paper/</a></p>\n<p>Comments URL: <a ...",
-      "published": "2026-08-17T06:51:36+00:00",
-      "domain": "theworkingmodel.co",
+      "title": "Evooo1Bot Linux Botnet Exploits Known Flaws to Turn Edge Devices Into SOCKS5 Proxies",
+      "link": "https://thehackernews.com/2026/08/evooo1bot-linux-botnet-exploits-known.html",
+      "summary": "Cybersecurity researchers have flagged a previously undocumented Linux botnet family dubbed Evooo1Bot that derives its core functionality from the Mirai botnet source code and is equipped to turn inte...",
+      "published": "2026-08-17T14:59:55+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -544,11 +541,11 @@
       }
     },
     {
-      "title": "Conservation efforts help an endangered dipterocarp spread roots in Bangladesh",
-      "link": "https://news.mongabay.com/2026/04/conservation-efforts-help-an-endangered-dipterocarp-spread-roots-in-bangladesh/",
-      "summary": "<p>Article URL: <a href=\"https://news.mongabay.com/2026/04/conservation-efforts-help-an-endangered-dipterocarp-spread-roots-in-bangladesh/\">https://news.mongabay.com/2026/04/conservation-efforts-help-...",
-      "published": "2026-08-17T06:50:51+00:00",
-      "domain": "news.mongabay.com",
+      "title": "Suspected China-Nexus Actor Exploits VMware vCenter Flaw, Deploys Babuk-Derived Ransomware",
+      "link": "https://thehackernews.com/2026/08/suspected-china-nexus-actor-exploits.html",
+      "summary": "Cybersecurity researchers have attributed the exploitation of a newly patched security flaw in Broadcom VMware vCenter to a suspected China-nexus advanced persistent threat (APT).\n\nThe attacks involve...",
+      "published": "2026-08-17T13:06:19+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -560,94 +557,93 @@
       }
     },
     {
-      "title": "The Internet Archive currently down due to power outage",
-      "link": "https://web.archive.org/",
-      "summary": "<p>Article URL: <a href=\"https://web.archive.org/\">https://web.archive.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49327268\">https://news.ycombinator.com/item?id=493272...",
-      "published": "2026-08-17T06:50:50+00:00",
-      "domain": "web.archive.org",
+      "title": "Harnesses Are \"Situated Agents\"",
+      "link": "https://www.dbreunig.com/2026/08/14/harnesses-are-situated-agents.html",
+      "summary": "<p>Article URL: <a href=\"https://www.dbreunig.com/2026/08/14/harnesses-are-situated-agents.html\">https://www.dbreunig.com/2026/08/14/harnesses-are-situated-agents.html</a></p>\n<p>Comments URL: <a href...",
+      "published": "2026-08-17T12:39:04+00:00",
+      "domain": "dbreunig.com",
       "scores": {
-        "chaos": 20.9,
+        "chaos": 3.0,
         "anarchy": 3.0,
-        "overall": 12.0
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Fairly Ranking the Most Brilliant Birds",
+      "link": "https://moultano.wordpress.com/2026/08/14/fairly-ranking-the-most-brilliant-birds/",
+      "summary": "<p>Article URL: <a href=\"https://moultano.wordpress.com/2026/08/14/fairly-ranking-the-most-brilliant-birds/\">https://moultano.wordpress.com/2026/08/14/fairly-ranking-the-most-brilliant-birds/</a></p>\n...",
+      "published": "2026-08-17T12:37:44+00:00",
+      "domain": "moultano.wordpress.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Claude Sonnet 5 will remain $2/$10 per M; September increase cancelled",
+      "link": "https://www.aipricing.guru/news/claude-output-training-rules-pricing-impact-august-2026/",
+      "summary": "<p>Article URL: <a href=\"https://www.aipricing.guru/news/claude-output-training-rules-pricing-impact-august-2026/\">https://www.aipricing.guru/news/claude-output-training-rules-pricing-impact-august-20...",
+      "published": "2026-08-17T12:37:39+00:00",
+      "domain": "aipricing.guru",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "I just tried this privacy-focused version of Android for Pixel phones",
+      "link": "https://www.tomsguide.com/phones/google-pixel-phones/i-just-tried-this-privacy-focused-version-of-android-for-pixel-phones-and-im-very-impressed",
+      "summary": "<p>Article URL: <a href=\"https://www.tomsguide.com/phones/google-pixel-phones/i-just-tried-this-privacy-focused-version-of-android-for-pixel-phones-and-im-very-impressed\">https://www.tomsguide.com/pho...",
+      "published": "2026-08-17T12:37:28+00:00",
+      "domain": "tomsguide.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Found a duplicate-execution bug in an MCP tool via static analysis (no LLM)",
+      "link": "https://www.getnexum.dev/blog/nexum-004-fabian-williams",
+      "summary": "<p>Article URL: <a href=\"https://www.getnexum.dev/blog/nexum-004-fabian-williams\">https://www.getnexum.dev/blog/nexum-004-fabian-williams</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com...",
+      "published": "2026-08-17T12:35:52+00:00",
+      "domain": "getnexum.dev",
+      "scores": {
+        "chaos": 10.3,
+        "anarchy": 3.0,
+        "overall": 6.6
       },
       "keywords": {
         "chaos": [
-          "down",
-          "outage"
+          "bug"
         ],
         "anarchy": []
       }
     },
     {
-      "title": "Waymo shipped 3,200 Chinese-built EVs to LA for its robotaxi fleet despite 127.5% tariffs Americans can't get around",
-      "link": "https://www.reddit.com/r/technology/comments/1vqffns/waymo_shipped_3200_chinesebuilt_evs_to_la_for_its/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1vqffns/waymo_shipped_3200_chinesebuilt_evs_to_la_for_its/\"> <img alt=\"Waymo shipped 3,200 Chinese-built EVs to LA for its robota...",
-      "published": "2026-08-17T02:10:18+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "AGI-64 Brings Sierra Adventures to the Commodore 64",
-      "link": "https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49325714\">Comments</a>...",
-      "published": "2026-08-17T01:45:36+00:00",
-      "domain": "meanhamster.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The Life and Death of Direct File [pdf]",
-      "link": "https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49325185\">Comments</a>...",
-      "published": "2026-08-17T00:17:57+00:00",
-      "domain": "ischool.berkeley.edu",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Microsoft Is Retiring Excel\u2019s COPILOT() Function After Just One Year",
-      "link": "https://www.reddit.com/r/technology/comments/1vqcqpz/microsoft_is_retiring_excels_copilot_function/",
-      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/lurker_bee\"> /u/lurker_bee </a> <br /> <span><a href=\"https://windowsreport.com/microsoft-is-retiring-excels-copilot-function-after-just-o...",
-      "published": "2026-08-17T00:02:41+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Reticulum \u2013 Decentralized Mesh Network",
-      "link": "https://reticulum.network/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49325061\">Comments</a>...",
-      "published": "2026-08-16T23:59:10+00:00",
-      "domain": "reticulum.network",
+      "title": "People are worried about America's solvency",
+      "link": "https://www.ft.com/content/e04f286c-f5ed-46d1-8e3f-0bbe4cce4d3e",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49329347\">Comments</a>...",
+      "published": "2026-08-17T11:45:12+00:00",
+      "domain": "ft.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
