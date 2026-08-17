@@ -16,17 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Path Protocol – an open-source browser precision game and course editor
+### The Internet Archive currently down due to power outage
 - **Published**: August 17, 2026
-- **Summary**: https://github.com/argentquest/protocol</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49325521">https://news.......
-- [Read more](https://github.com/argentquest/protocol)
+- **Summary**: https://web.archive.org/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49327268">https://news.ycombinator.com/item?id=493272....
+- **Keywords**: down, outage
+- [Read more](https://web.archive.org/)
 
-### Inverse Problem
+### Speeding up the Unreal Editor launch (again) by not loading 1585 files
 - **Published**: August 17, 2026
-- **Summary**: https://en.wikipedia.org/wiki/Inverse_problem</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49325509">h......
-- [Read more](https://en.wikipedia.org/wiki/Inverse_problem)
+- **Summary**: https://larstofus.com/2026/08/16/speeding-up-the-unreal-editor-launch-a......
+- [Read more](https://larstofus.com/2026/08/16/speeding-up-the-unreal-editor-launch-again-by-not-loading-1585-files/)
 
 ---
 
