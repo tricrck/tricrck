@@ -16,17 +16,18 @@
 
 ## 🚨 Tech Stories
 
-### Found a duplicate-execution bug in an MCP tool via static analysis (no LLM)
+### ⚡ Weekly Recap: VMware Exploits, Windows 0-Day, MCP Attacks, Browser Hijacks and More
 - **Published**: August 17, 2026
-- **Summary**: https://www.getnexum.dev/blog/nexum-004-fabian-williams</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com......
-- **Keywords**: bug
-- [Read more](https://www.getnexum.dev/blog/nexum-004-fabian-williams)
+- **Summary**: The expensive attacks are not always the clever ones.
 
-### How MCP Servers Can Expose Enterprise Secrets
+This week had plenty of proof. Exposed services got hit, old bugs found fresh use, browser sess...
+- [Read more](https://thehackernews.com/2026/08/weekly-recap-vmware-exploits-windows-0.html)
+
+### Artisinal developer aschews LLM assistance
 - **Published**: August 17, 2026
-- **Summary**: MCP servers can expose enterprise secrets through plaintext configuration files, over-permissioned access and prompt injection, often before security ...
-- [Read more](https://thehackernews.com/2026/08/how-mcp-servers-can-expose-enterprise.html)
+- **Summary**: https://www.jumboframeinternet.com/post/27/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49335529">https......
+- [Read more](https://www.jumboframeinternet.com/post/27/)
 
 ---
 
