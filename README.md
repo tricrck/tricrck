@@ -16,17 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### 16 Typosquatted RubyGems Packages Steal Browser Credentials and Crypto Wallets
+### Microsoft Copilot Personal Flaws Could Let One Click Exfiltrate Data From Connected Apps
 - **Published**: August 18, 2026
-- **Summary**: Cybersecurity researchers have flagged a new typosquatting campaign targeting RubyGems users with a Windows-based information stealer.
+- **Summary**: Varonis Threat Labs has disclosed three vulnerabilities in Microsoft Copilot Personal that it said could allow a single click on a crafted link to sil...
+- [Read more](https://thehackernews.com/2026/08/microsoft-copilot-personal-flaws-could.html)
 
-OpenSourceMalw...
-- [Read more](https://thehackernews.com/2026/08/16-typosquatted-rubygems-packages-steal.html)
-
-### One Attacker Has Scraped Both Salesforce and ServiceNow Portals Since 2025
+### Attackers Exploit MLflow SSRF Flaw to Steal Cloud Credentials and Secrets
 - **Published**: August 18, 2026
-- **Summary**: A single piece of infrastructure has been pulling records out of Salesforce and ServiceNow customer portals across multiple industries for more than a...
-- [Read more](https://thehackernews.com/2026/08/one-attacker-has-scraped-both.html)
+- **Summary**: Two critical vulnerabilities impacting MLflow, an open-source artificial intelligence (AI) platform, and FUXA, an open-source, web-based SCADA / HMI s...
+- [Read more](https://thehackernews.com/2026/08/attackers-exploit-mlflow-ssrf-flaw-to.html)
 
 ---
 
