@@ -16,18 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### ⚡ Weekly Recap: VMware Exploits, Windows 0-Day, MCP Attacks, Browser Hijacks and More
-- **Published**: August 17, 2026
-- **Summary**: The expensive attacks are not always the clever ones.
+### Critical GitLab GraphQL Flaw Could Let Unauthenticated Attackers Delete Public Projects
+- **Published**: August 18, 2026
+- **Summary**: GitLab has released security updates to address a critical vulnerability impacting its Community Edition (CE) and Enterprise Edition (EE) software tha...
+- [Read more](https://thehackernews.com/2026/08/critical-gitlab-graphql-flaw-could-let.html)
 
-This week had plenty of proof. Exposed services got hit, old bugs found fresh use, browser sess...
-- [Read more](https://thehackernews.com/2026/08/weekly-recap-vmware-exploits-windows-0.html)
-
-### Artisinal developer aschews LLM assistance
-- **Published**: August 17, 2026
-- **Summary**: https://www.jumboframeinternet.com/post/27/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49335529">https......
-- [Read more](https://www.jumboframeinternet.com/post/27/)
+### Blobatar: Deterministic Geometric Avatars
+- **Published**: August 18, 2026
+- **Summary**: https://www.blobatar.dev/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49339854">https://news.ycombinator.com/item?id=4933.....
+- [Read more](https://www.blobatar.dev/)
 
 ---
 
