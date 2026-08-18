@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Critical GitLab GraphQL Flaw Could Let Unauthenticated Attackers Delete Public Projects
+### DeepSeek Harness
 - **Published**: August 18, 2026
-- **Summary**: GitLab has released security updates to address a critical vulnerability impacting its Community Edition (CE) and Enterprise Edition (EE) software tha...
-- [Read more](https://thehackernews.com/2026/08/critical-gitlab-graphql-flaw-could-let.html)
+- **Summary**: https://deepseek-code.com</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49342132">https://news.ycombinator.com/item?id=4934.....
+- [Read more](https://deepseek-code.com)
 
-### Blobatar: Deterministic Geometric Avatars
+### Show HN: Convex clients in 100 programming languages
 - **Published**: August 18, 2026
-- **Summary**: https://www.blobatar.dev/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49339854">https://news.ycombinator.com/item?id=4933.....
-- [Read more](https://www.blobatar.dev/)
+- **Summary**: <p>I work at Convex and got curious about how far agents could push one deliberately ridiculous experiment.<p>I had them attempt to make Convex, a rea...
+- [Read more](https://github.com/mikecann/the-convex-100-language-challenge)
 
 ---
 

@@ -1,6 +1,86 @@
 {
   "chaos_ranked": [
     {
+      "title": "DeepSeek Harness",
+      "link": "https://deepseek-code.com",
+      "summary": "<p>Article URL: <a href=\"https://deepseek-code.com\">https://deepseek-code.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49342132\">https://news.ycombinator.com/item?id=4934...",
+      "published": "2026-08-18T06:38:21+00:00",
+      "domain": "deepseek-code.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Convex clients in 100 programming languages",
+      "link": "https://github.com/mikecann/the-convex-100-language-challenge",
+      "summary": "<p>I work at Convex and got curious about how far agents could push one deliberately ridiculous experiment.<p>I had them attempt to make Convex, a realtime database and compute platform, work in 100 d...",
+      "published": "2026-08-18T06:34:25+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Writing your own Linux debugger in Rust",
+      "link": "https://ogghostjelly.github.io/slog/debugger.html",
+      "summary": "<p>Article URL: <a href=\"https://ogghostjelly.github.io/slog/debugger.html\">https://ogghostjelly.github.io/slog/debugger.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=493...",
+      "published": "2026-08-18T06:31:37+00:00",
+      "domain": "ogghostjelly.github.io",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Zotero 10.0",
+      "link": "https://www.zotero.org/support/changelog#changes_in_100_august_17_2026",
+      "summary": "<p>Article URL: <a href=\"https://www.zotero.org/support/changelog#changes_in_100_august_17_2026\">https://www.zotero.org/support/changelog#changes_in_100_august_17_2026</a></p>\n<p>Comments URL: <a href...",
+      "published": "2026-08-18T06:31:10+00:00",
+      "domain": "zotero.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "A signal that passed out-of-sample testing and was still garbage",
+      "link": "https://smugcalls.com/data-leakage-backtest.html",
+      "summary": "<p>Article URL: <a href=\"https://smugcalls.com/data-leakage-backtest.html\">https://smugcalls.com/data-leakage-backtest.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49342...",
+      "published": "2026-08-18T06:28:28+00:00",
+      "domain": "smugcalls.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "Critical GitLab GraphQL Flaw Could Let Unauthenticated Attackers Delete Public Projects",
       "link": "https://thehackernews.com/2026/08/critical-gitlab-graphql-flaw-could-let.html",
       "summary": "GitLab has released security updates to address a critical vulnerability impacting its Community Edition (CE) and Enterprise Edition (EE) software that, under certain conditions, could allow an unauth...",
@@ -17,75 +97,11 @@
       }
     },
     {
-      "title": "Blobatar: Deterministic Geometric Avatars",
-      "link": "https://www.blobatar.dev/",
-      "summary": "<p>Article URL: <a href=\"https://www.blobatar.dev/\">https://www.blobatar.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49339854\">https://news.ycombinator.com/item?id=4933...",
-      "published": "2026-08-18T01:04:49+00:00",
-      "domain": "blobatar.dev",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "We Tested Qwen3.8 27B: How Much GPU and VRAM Do You Need",
-      "link": "https://www.hardware-corner.net/qwen3-8-27b-hardware-tests/",
-      "summary": "<p>Article URL: <a href=\"https://www.hardware-corner.net/qwen3-8-27b-hardware-tests/\">https://www.hardware-corner.net/qwen3-8-27b-hardware-tests/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombin...",
-      "published": "2026-08-18T01:03:28+00:00",
-      "domain": "hardware-corner.net",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Anthropic's Claude Will Add Watermarks to AI-Generated Text and Files",
-      "link": "https://www.cnet.com/tech/services-and-software/anthropics-claude-will-add-watermarks-to-ai-generated-text-and-files/",
-      "summary": "<p>Article URL: <a href=\"https://www.cnet.com/tech/services-and-software/anthropics-claude-will-add-watermarks-to-ai-generated-text-and-files/\">https://www.cnet.com/tech/services-and-software/anthropi...",
-      "published": "2026-08-18T01:01:45+00:00",
-      "domain": "cnet.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Sam Altman: How to Be Successful (2019)",
-      "link": "https://blog.samaltman.com/how-to-be-successful",
-      "summary": "<p>Article URL: <a href=\"https://blog.samaltman.com/how-to-be-successful\">https://blog.samaltman.com/how-to-be-successful</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4933978...",
-      "published": "2026-08-18T00:55:33+00:00",
-      "domain": "blog.samaltman.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "I've been doing endurance testing on microSD cards for the last 3 years",
-      "link": "https://www.reddit.com/r/homelab/comments/1vqzawd/ive_been_doing_endurance_testing_on_microsd_cards/",
-      "summary": "<p>Article URL: <a href=\"https://www.reddit.com/r/homelab/comments/1vqzawd/ive_been_doing_endurance_testing_on_microsd_cards/\">https://www.reddit.com/r/homelab/comments/1vqzawd/ive_been_doing_enduranc...",
-      "published": "2026-08-18T00:54:31+00:00",
-      "domain": "reddit.com",
+      "title": "The Benchmarkpocalypse",
+      "link": "https://danluu.com/benchpocalypse/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49340299\">Comments</a>...",
+      "published": "2026-08-18T02:11:02+00:00",
+      "domain": "danluu.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -129,26 +145,10 @@
       }
     },
     {
-      "title": "Cavern C2 Uses DNS and Google Apps Script to Blend Into Legitimate Traffic",
-      "link": "https://thehackernews.com/2026/08/cavern-c2-uses-dns-and-google-apps.html",
-      "summary": "Cybersecurity researchers have traced the continued evolution of the Cavern (aka Cav3rn) command-and-control (C2) framework used by Iranian nation-state hackers in attacks targeting entities in Israel...",
-      "published": "2026-08-17T23:11:06+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Honey loses over 7 million users and 7,000 stores following YouTuber\u2019s viral expose",
-      "link": "https://www.reddit.com/r/technology/comments/1vr6zn9/honey_loses_over_7_million_users_and_7000_stores/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1vr6zn9/honey_loses_over_7_million_users_and_7000_stores/\"> <img alt=\"Honey loses over 7 million users and 7,000 stores following...",
-      "published": "2026-08-17T22:28:23+00:00",
+      "title": "Aaron Rodgers Secretly Funded Security Cameras in His Neighborhood Amid Privacy Concerns: Report",
+      "link": "https://www.reddit.com/r/technology/comments/1vr8l1q/aaron_rodgers_secretly_funded_security_cameras_in/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1vr8l1q/aaron_rodgers_secretly_funded_security_cameras_in/\"> <img alt=\"Aaron Rodgers Secretly Funded Security Cameras in His Neig...",
+      "published": "2026-08-17T23:34:24+00:00",
       "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
@@ -163,6 +163,86 @@
   ],
   "anarchy_ranked": [
     {
+      "title": "DeepSeek Harness",
+      "link": "https://deepseek-code.com",
+      "summary": "<p>Article URL: <a href=\"https://deepseek-code.com\">https://deepseek-code.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49342132\">https://news.ycombinator.com/item?id=4934...",
+      "published": "2026-08-18T06:38:21+00:00",
+      "domain": "deepseek-code.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Convex clients in 100 programming languages",
+      "link": "https://github.com/mikecann/the-convex-100-language-challenge",
+      "summary": "<p>I work at Convex and got curious about how far agents could push one deliberately ridiculous experiment.<p>I had them attempt to make Convex, a realtime database and compute platform, work in 100 d...",
+      "published": "2026-08-18T06:34:25+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Writing your own Linux debugger in Rust",
+      "link": "https://ogghostjelly.github.io/slog/debugger.html",
+      "summary": "<p>Article URL: <a href=\"https://ogghostjelly.github.io/slog/debugger.html\">https://ogghostjelly.github.io/slog/debugger.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=493...",
+      "published": "2026-08-18T06:31:37+00:00",
+      "domain": "ogghostjelly.github.io",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Zotero 10.0",
+      "link": "https://www.zotero.org/support/changelog#changes_in_100_august_17_2026",
+      "summary": "<p>Article URL: <a href=\"https://www.zotero.org/support/changelog#changes_in_100_august_17_2026\">https://www.zotero.org/support/changelog#changes_in_100_august_17_2026</a></p>\n<p>Comments URL: <a href...",
+      "published": "2026-08-18T06:31:10+00:00",
+      "domain": "zotero.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "A signal that passed out-of-sample testing and was still garbage",
+      "link": "https://smugcalls.com/data-leakage-backtest.html",
+      "summary": "<p>Article URL: <a href=\"https://smugcalls.com/data-leakage-backtest.html\">https://smugcalls.com/data-leakage-backtest.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49342...",
+      "published": "2026-08-18T06:28:28+00:00",
+      "domain": "smugcalls.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "Critical GitLab GraphQL Flaw Could Let Unauthenticated Attackers Delete Public Projects",
       "link": "https://thehackernews.com/2026/08/critical-gitlab-graphql-flaw-could-let.html",
       "summary": "GitLab has released security updates to address a critical vulnerability impacting its Community Edition (CE) and Enterprise Edition (EE) software that, under certain conditions, could allow an unauth...",
@@ -179,75 +259,11 @@
       }
     },
     {
-      "title": "Blobatar: Deterministic Geometric Avatars",
-      "link": "https://www.blobatar.dev/",
-      "summary": "<p>Article URL: <a href=\"https://www.blobatar.dev/\">https://www.blobatar.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49339854\">https://news.ycombinator.com/item?id=4933...",
-      "published": "2026-08-18T01:04:49+00:00",
-      "domain": "blobatar.dev",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "We Tested Qwen3.8 27B: How Much GPU and VRAM Do You Need",
-      "link": "https://www.hardware-corner.net/qwen3-8-27b-hardware-tests/",
-      "summary": "<p>Article URL: <a href=\"https://www.hardware-corner.net/qwen3-8-27b-hardware-tests/\">https://www.hardware-corner.net/qwen3-8-27b-hardware-tests/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombin...",
-      "published": "2026-08-18T01:03:28+00:00",
-      "domain": "hardware-corner.net",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Anthropic's Claude Will Add Watermarks to AI-Generated Text and Files",
-      "link": "https://www.cnet.com/tech/services-and-software/anthropics-claude-will-add-watermarks-to-ai-generated-text-and-files/",
-      "summary": "<p>Article URL: <a href=\"https://www.cnet.com/tech/services-and-software/anthropics-claude-will-add-watermarks-to-ai-generated-text-and-files/\">https://www.cnet.com/tech/services-and-software/anthropi...",
-      "published": "2026-08-18T01:01:45+00:00",
-      "domain": "cnet.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Sam Altman: How to Be Successful (2019)",
-      "link": "https://blog.samaltman.com/how-to-be-successful",
-      "summary": "<p>Article URL: <a href=\"https://blog.samaltman.com/how-to-be-successful\">https://blog.samaltman.com/how-to-be-successful</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4933978...",
-      "published": "2026-08-18T00:55:33+00:00",
-      "domain": "blog.samaltman.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "I've been doing endurance testing on microSD cards for the last 3 years",
-      "link": "https://www.reddit.com/r/homelab/comments/1vqzawd/ive_been_doing_endurance_testing_on_microsd_cards/",
-      "summary": "<p>Article URL: <a href=\"https://www.reddit.com/r/homelab/comments/1vqzawd/ive_been_doing_endurance_testing_on_microsd_cards/\">https://www.reddit.com/r/homelab/comments/1vqzawd/ive_been_doing_enduranc...",
-      "published": "2026-08-18T00:54:31+00:00",
-      "domain": "reddit.com",
+      "title": "The Benchmarkpocalypse",
+      "link": "https://danluu.com/benchpocalypse/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49340299\">Comments</a>...",
+      "published": "2026-08-18T02:11:02+00:00",
+      "domain": "danluu.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -291,26 +307,10 @@
       }
     },
     {
-      "title": "Cavern C2 Uses DNS and Google Apps Script to Blend Into Legitimate Traffic",
-      "link": "https://thehackernews.com/2026/08/cavern-c2-uses-dns-and-google-apps.html",
-      "summary": "Cybersecurity researchers have traced the continued evolution of the Cavern (aka Cav3rn) command-and-control (C2) framework used by Iranian nation-state hackers in attacks targeting entities in Israel...",
-      "published": "2026-08-17T23:11:06+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Honey loses over 7 million users and 7,000 stores following YouTuber\u2019s viral expose",
-      "link": "https://www.reddit.com/r/technology/comments/1vr6zn9/honey_loses_over_7_million_users_and_7000_stores/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1vr6zn9/honey_loses_over_7_million_users_and_7000_stores/\"> <img alt=\"Honey loses over 7 million users and 7,000 stores following...",
-      "published": "2026-08-17T22:28:23+00:00",
+      "title": "Aaron Rodgers Secretly Funded Security Cameras in His Neighborhood Amid Privacy Concerns: Report",
+      "link": "https://www.reddit.com/r/technology/comments/1vr8l1q/aaron_rodgers_secretly_funded_security_cameras_in/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1vr8l1q/aaron_rodgers_secretly_funded_security_cameras_in/\"> <img alt=\"Aaron Rodgers Secretly Funded Security Cameras in His Neig...",
+      "published": "2026-08-17T23:34:24+00:00",
       "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
@@ -325,6 +325,86 @@
   ],
   "overall_ranked": [
     {
+      "title": "DeepSeek Harness",
+      "link": "https://deepseek-code.com",
+      "summary": "<p>Article URL: <a href=\"https://deepseek-code.com\">https://deepseek-code.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49342132\">https://news.ycombinator.com/item?id=4934...",
+      "published": "2026-08-18T06:38:21+00:00",
+      "domain": "deepseek-code.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Convex clients in 100 programming languages",
+      "link": "https://github.com/mikecann/the-convex-100-language-challenge",
+      "summary": "<p>I work at Convex and got curious about how far agents could push one deliberately ridiculous experiment.<p>I had them attempt to make Convex, a realtime database and compute platform, work in 100 d...",
+      "published": "2026-08-18T06:34:25+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Writing your own Linux debugger in Rust",
+      "link": "https://ogghostjelly.github.io/slog/debugger.html",
+      "summary": "<p>Article URL: <a href=\"https://ogghostjelly.github.io/slog/debugger.html\">https://ogghostjelly.github.io/slog/debugger.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=493...",
+      "published": "2026-08-18T06:31:37+00:00",
+      "domain": "ogghostjelly.github.io",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Zotero 10.0",
+      "link": "https://www.zotero.org/support/changelog#changes_in_100_august_17_2026",
+      "summary": "<p>Article URL: <a href=\"https://www.zotero.org/support/changelog#changes_in_100_august_17_2026\">https://www.zotero.org/support/changelog#changes_in_100_august_17_2026</a></p>\n<p>Comments URL: <a href...",
+      "published": "2026-08-18T06:31:10+00:00",
+      "domain": "zotero.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "A signal that passed out-of-sample testing and was still garbage",
+      "link": "https://smugcalls.com/data-leakage-backtest.html",
+      "summary": "<p>Article URL: <a href=\"https://smugcalls.com/data-leakage-backtest.html\">https://smugcalls.com/data-leakage-backtest.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49342...",
+      "published": "2026-08-18T06:28:28+00:00",
+      "domain": "smugcalls.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "Critical GitLab GraphQL Flaw Could Let Unauthenticated Attackers Delete Public Projects",
       "link": "https://thehackernews.com/2026/08/critical-gitlab-graphql-flaw-could-let.html",
       "summary": "GitLab has released security updates to address a critical vulnerability impacting its Community Edition (CE) and Enterprise Edition (EE) software that, under certain conditions, could allow an unauth...",
@@ -341,75 +421,11 @@
       }
     },
     {
-      "title": "Blobatar: Deterministic Geometric Avatars",
-      "link": "https://www.blobatar.dev/",
-      "summary": "<p>Article URL: <a href=\"https://www.blobatar.dev/\">https://www.blobatar.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49339854\">https://news.ycombinator.com/item?id=4933...",
-      "published": "2026-08-18T01:04:49+00:00",
-      "domain": "blobatar.dev",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "We Tested Qwen3.8 27B: How Much GPU and VRAM Do You Need",
-      "link": "https://www.hardware-corner.net/qwen3-8-27b-hardware-tests/",
-      "summary": "<p>Article URL: <a href=\"https://www.hardware-corner.net/qwen3-8-27b-hardware-tests/\">https://www.hardware-corner.net/qwen3-8-27b-hardware-tests/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombin...",
-      "published": "2026-08-18T01:03:28+00:00",
-      "domain": "hardware-corner.net",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Anthropic's Claude Will Add Watermarks to AI-Generated Text and Files",
-      "link": "https://www.cnet.com/tech/services-and-software/anthropics-claude-will-add-watermarks-to-ai-generated-text-and-files/",
-      "summary": "<p>Article URL: <a href=\"https://www.cnet.com/tech/services-and-software/anthropics-claude-will-add-watermarks-to-ai-generated-text-and-files/\">https://www.cnet.com/tech/services-and-software/anthropi...",
-      "published": "2026-08-18T01:01:45+00:00",
-      "domain": "cnet.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Sam Altman: How to Be Successful (2019)",
-      "link": "https://blog.samaltman.com/how-to-be-successful",
-      "summary": "<p>Article URL: <a href=\"https://blog.samaltman.com/how-to-be-successful\">https://blog.samaltman.com/how-to-be-successful</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4933978...",
-      "published": "2026-08-18T00:55:33+00:00",
-      "domain": "blog.samaltman.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "I've been doing endurance testing on microSD cards for the last 3 years",
-      "link": "https://www.reddit.com/r/homelab/comments/1vqzawd/ive_been_doing_endurance_testing_on_microsd_cards/",
-      "summary": "<p>Article URL: <a href=\"https://www.reddit.com/r/homelab/comments/1vqzawd/ive_been_doing_endurance_testing_on_microsd_cards/\">https://www.reddit.com/r/homelab/comments/1vqzawd/ive_been_doing_enduranc...",
-      "published": "2026-08-18T00:54:31+00:00",
-      "domain": "reddit.com",
+      "title": "The Benchmarkpocalypse",
+      "link": "https://danluu.com/benchpocalypse/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49340299\">Comments</a>...",
+      "published": "2026-08-18T02:11:02+00:00",
+      "domain": "danluu.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -453,26 +469,10 @@
       }
     },
     {
-      "title": "Cavern C2 Uses DNS and Google Apps Script to Blend Into Legitimate Traffic",
-      "link": "https://thehackernews.com/2026/08/cavern-c2-uses-dns-and-google-apps.html",
-      "summary": "Cybersecurity researchers have traced the continued evolution of the Cavern (aka Cav3rn) command-and-control (C2) framework used by Iranian nation-state hackers in attacks targeting entities in Israel...",
-      "published": "2026-08-17T23:11:06+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Honey loses over 7 million users and 7,000 stores following YouTuber\u2019s viral expose",
-      "link": "https://www.reddit.com/r/technology/comments/1vr6zn9/honey_loses_over_7_million_users_and_7000_stores/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1vr6zn9/honey_loses_over_7_million_users_and_7000_stores/\"> <img alt=\"Honey loses over 7 million users and 7,000 stores following...",
-      "published": "2026-08-17T22:28:23+00:00",
+      "title": "Aaron Rodgers Secretly Funded Security Cameras in His Neighborhood Amid Privacy Concerns: Report",
+      "link": "https://www.reddit.com/r/technology/comments/1vr8l1q/aaron_rodgers_secretly_funded_security_cameras_in/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1vr8l1q/aaron_rodgers_secretly_funded_security_cameras_in/\"> <img alt=\"Aaron Rodgers Secretly Funded Security Cameras in His Neig...",
+      "published": "2026-08-17T23:34:24+00:00",
       "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
@@ -487,6 +487,86 @@
   ],
   "all_articles": [
     {
+      "title": "DeepSeek Harness",
+      "link": "https://deepseek-code.com",
+      "summary": "<p>Article URL: <a href=\"https://deepseek-code.com\">https://deepseek-code.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49342132\">https://news.ycombinator.com/item?id=4934...",
+      "published": "2026-08-18T06:38:21+00:00",
+      "domain": "deepseek-code.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Convex clients in 100 programming languages",
+      "link": "https://github.com/mikecann/the-convex-100-language-challenge",
+      "summary": "<p>I work at Convex and got curious about how far agents could push one deliberately ridiculous experiment.<p>I had them attempt to make Convex, a realtime database and compute platform, work in 100 d...",
+      "published": "2026-08-18T06:34:25+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Writing your own Linux debugger in Rust",
+      "link": "https://ogghostjelly.github.io/slog/debugger.html",
+      "summary": "<p>Article URL: <a href=\"https://ogghostjelly.github.io/slog/debugger.html\">https://ogghostjelly.github.io/slog/debugger.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=493...",
+      "published": "2026-08-18T06:31:37+00:00",
+      "domain": "ogghostjelly.github.io",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Zotero 10.0",
+      "link": "https://www.zotero.org/support/changelog#changes_in_100_august_17_2026",
+      "summary": "<p>Article URL: <a href=\"https://www.zotero.org/support/changelog#changes_in_100_august_17_2026\">https://www.zotero.org/support/changelog#changes_in_100_august_17_2026</a></p>\n<p>Comments URL: <a href...",
+      "published": "2026-08-18T06:31:10+00:00",
+      "domain": "zotero.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "A signal that passed out-of-sample testing and was still garbage",
+      "link": "https://smugcalls.com/data-leakage-backtest.html",
+      "summary": "<p>Article URL: <a href=\"https://smugcalls.com/data-leakage-backtest.html\">https://smugcalls.com/data-leakage-backtest.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49342...",
+      "published": "2026-08-18T06:28:28+00:00",
+      "domain": "smugcalls.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "Critical GitLab GraphQL Flaw Could Let Unauthenticated Attackers Delete Public Projects",
       "link": "https://thehackernews.com/2026/08/critical-gitlab-graphql-flaw-could-let.html",
       "summary": "GitLab has released security updates to address a critical vulnerability impacting its Community Edition (CE) and Enterprise Edition (EE) software that, under certain conditions, could allow an unauth...",
@@ -503,75 +583,11 @@
       }
     },
     {
-      "title": "Blobatar: Deterministic Geometric Avatars",
-      "link": "https://www.blobatar.dev/",
-      "summary": "<p>Article URL: <a href=\"https://www.blobatar.dev/\">https://www.blobatar.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49339854\">https://news.ycombinator.com/item?id=4933...",
-      "published": "2026-08-18T01:04:49+00:00",
-      "domain": "blobatar.dev",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "We Tested Qwen3.8 27B: How Much GPU and VRAM Do You Need",
-      "link": "https://www.hardware-corner.net/qwen3-8-27b-hardware-tests/",
-      "summary": "<p>Article URL: <a href=\"https://www.hardware-corner.net/qwen3-8-27b-hardware-tests/\">https://www.hardware-corner.net/qwen3-8-27b-hardware-tests/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombin...",
-      "published": "2026-08-18T01:03:28+00:00",
-      "domain": "hardware-corner.net",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Anthropic's Claude Will Add Watermarks to AI-Generated Text and Files",
-      "link": "https://www.cnet.com/tech/services-and-software/anthropics-claude-will-add-watermarks-to-ai-generated-text-and-files/",
-      "summary": "<p>Article URL: <a href=\"https://www.cnet.com/tech/services-and-software/anthropics-claude-will-add-watermarks-to-ai-generated-text-and-files/\">https://www.cnet.com/tech/services-and-software/anthropi...",
-      "published": "2026-08-18T01:01:45+00:00",
-      "domain": "cnet.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Sam Altman: How to Be Successful (2019)",
-      "link": "https://blog.samaltman.com/how-to-be-successful",
-      "summary": "<p>Article URL: <a href=\"https://blog.samaltman.com/how-to-be-successful\">https://blog.samaltman.com/how-to-be-successful</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4933978...",
-      "published": "2026-08-18T00:55:33+00:00",
-      "domain": "blog.samaltman.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "I've been doing endurance testing on microSD cards for the last 3 years",
-      "link": "https://www.reddit.com/r/homelab/comments/1vqzawd/ive_been_doing_endurance_testing_on_microsd_cards/",
-      "summary": "<p>Article URL: <a href=\"https://www.reddit.com/r/homelab/comments/1vqzawd/ive_been_doing_endurance_testing_on_microsd_cards/\">https://www.reddit.com/r/homelab/comments/1vqzawd/ive_been_doing_enduranc...",
-      "published": "2026-08-18T00:54:31+00:00",
-      "domain": "reddit.com",
+      "title": "The Benchmarkpocalypse",
+      "link": "https://danluu.com/benchpocalypse/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49340299\">Comments</a>...",
+      "published": "2026-08-18T02:11:02+00:00",
+      "domain": "danluu.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -615,26 +631,10 @@
       }
     },
     {
-      "title": "Cavern C2 Uses DNS and Google Apps Script to Blend Into Legitimate Traffic",
-      "link": "https://thehackernews.com/2026/08/cavern-c2-uses-dns-and-google-apps.html",
-      "summary": "Cybersecurity researchers have traced the continued evolution of the Cavern (aka Cav3rn) command-and-control (C2) framework used by Iranian nation-state hackers in attacks targeting entities in Israel...",
-      "published": "2026-08-17T23:11:06+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Honey loses over 7 million users and 7,000 stores following YouTuber\u2019s viral expose",
-      "link": "https://www.reddit.com/r/technology/comments/1vr6zn9/honey_loses_over_7_million_users_and_7000_stores/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1vr6zn9/honey_loses_over_7_million_users_and_7000_stores/\"> <img alt=\"Honey loses over 7 million users and 7,000 stores following...",
-      "published": "2026-08-17T22:28:23+00:00",
+      "title": "Aaron Rodgers Secretly Funded Security Cameras in His Neighborhood Amid Privacy Concerns: Report",
+      "link": "https://www.reddit.com/r/technology/comments/1vr8l1q/aaron_rodgers_secretly_funded_security_cameras_in/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1vr8l1q/aaron_rodgers_secretly_funded_security_cameras_in/\"> <img alt=\"Aaron Rodgers Secretly Funded Security Cameras in His Neig...",
+      "published": "2026-08-17T23:34:24+00:00",
       "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
