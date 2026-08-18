@@ -16,16 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### DeepSeek Harness
+### 16 Typosquatted RubyGems Packages Steal Browser Credentials and Crypto Wallets
 - **Published**: August 18, 2026
-- **Summary**: https://deepseek-code.com</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49342132">https://news.ycombinator.com/item?id=4934.....
-- [Read more](https://deepseek-code.com)
+- **Summary**: Cybersecurity researchers have flagged a new typosquatting campaign targeting RubyGems users with a Windows-based information stealer.
 
-### Show HN: Convex clients in 100 programming languages
+OpenSourceMalw...
+- [Read more](https://thehackernews.com/2026/08/16-typosquatted-rubygems-packages-steal.html)
+
+### One Attacker Has Scraped Both Salesforce and ServiceNow Portals Since 2025
 - **Published**: August 18, 2026
-- **Summary**: <p>I work at Convex and got curious about how far agents could push one deliberately ridiculous experiment.<p>I had them attempt to make Convex, a rea...
-- [Read more](https://github.com/mikecann/the-convex-100-language-challenge)
+- **Summary**: A single piece of infrastructure has been pulling records out of Salesforce and ServiceNow customer portals across multiple industries for more than a...
+- [Read more](https://thehackernews.com/2026/08/one-attacker-has-scraped-both.html)
 
 ---
 
