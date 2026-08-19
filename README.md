@@ -16,17 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Personetta – One YAML Persona for Cursor, Copilot, Claude, and Cline
+### Show HN: Full-duplex real-time voice assistant in the browser
 - **Published**: August 19, 2026
-- **Summary**: https://github.com/EdwardAF-IT/Personetta</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49355246">https://n......
-- [Read more](https://github.com/EdwardAF-IT/Personetta)
+- **Summary**: https://github.com/sachinkesiraju/jax-realtime</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49357683"......
+- [Read more](https://github.com/sachinkesiraju/jax-realtime)
 
-### Follow-Up Thoughts on Watermarking Schemes for AI-Generated Text
+### Pandemic lockdowns never ended for some people
 - **Published**: August 19, 2026
-- **Summary**: https://daringfireball.net/2026/08/follow-up_thoughts_on_watermarking</a></p>
-<p>Comments URL: <a href="......
-- [Read more](https://daringfireball.net/2026/08/follow-up_thoughts_on_watermarking)
+- **Summary**: https://www.ft.com/content/e1eb3638-cd1a-4a1a-857d-133fe4be468c</a></p>
+<p>Comments URL: <a href="https://news......
+- [Read more](https://www.ft.com/content/e1eb3638-cd1a-4a1a-857d-133fe4be468c)
 
 ---
 
