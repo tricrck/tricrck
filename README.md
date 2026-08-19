@@ -16,17 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Show HN: Full-duplex real-time voice assistant in the browser
+### StopAndProtect Uses Nearly 2,000 Hacked WordPress Sites to Spread Malware and Steal Data
 - **Published**: August 19, 2026
-- **Summary**: https://github.com/sachinkesiraju/jax-realtime</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49357683"......
-- [Read more](https://github.com/sachinkesiraju/jax-realtime)
+- **Summary**: Cybersecurity researchers have flagged a global cybercrime operation that abuses thousands of hacked WordPress websites as infrastructure to dissemina...
+- [Read more](https://thehackernews.com/2026/08/stopandprotect-uses-nearly-2000-hacked.html)
 
-### Pandemic lockdowns never ended for some people
+### Critical macOS, SharePoint, vCenter, and Microsoft IKE Flaws Under Active Exploitation
 - **Published**: August 19, 2026
-- **Summary**: https://www.ft.com/content/e1eb3638-cd1a-4a1a-857d-133fe4be468c</a></p>
-<p>Comments URL: <a href="https://news......
-- [Read more](https://www.ft.com/content/e1eb3638-cd1a-4a1a-857d-133fe4be468c)
+- **Summary**: The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added four critical vulnerabilities to its Known Exploited Vulnerabilities...
+- [Read more](https://thehackernews.com/2026/08/critical-macos-sharepoint-vcenter-and.html)
 
 ---
 
