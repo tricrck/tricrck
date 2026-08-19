@@ -16,15 +16,18 @@
 
 ## 🚨 Tech Stories
 
-### StopAndProtect Uses Nearly 2,000 Hacked WordPress Sites to Spread Malware and Steal Data
+### SilkParasite Espionage Campaign Targets Central Asian Governments with Five New RATs
 - **Published**: August 19, 2026
-- **Summary**: Cybersecurity researchers have flagged a global cybercrime operation that abuses thousands of hacked WordPress websites as infrastructure to dissemina...
-- [Read more](https://thehackernews.com/2026/08/stopandprotect-uses-nearly-2000-hacked.html)
+- **Summary**: A previously unreported cyber espionage operation dubbed SilkParasite has been observed targeting government bodies in Central Asia.
 
-### Critical macOS, SharePoint, vCenter, and Microsoft IKE Flaws Under Active Exploitation
+The intrusion se...
+- [Read more](https://thehackernews.com/2026/08/silkparasite-espionage-campaign-targets.html)
+
+### AI is helping patients to solve their medical mysteries
 - **Published**: August 19, 2026
-- **Summary**: The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added four critical vulnerabilities to its Known Exploited Vulnerabilities...
-- [Read more](https://thehackernews.com/2026/08/critical-macos-sharepoint-vcenter-and.html)
+- **Summary**: https://www.wsj.com/health/ai-is-helping-patients-solve-medical-mysteries-3c2d7c25</a></p>
+......
+- [Read more](https://www.wsj.com/health/ai-is-helping-patients-solve-medical-mysteries-3c2d7c25)
 
 ---
 
