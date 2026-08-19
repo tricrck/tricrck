@@ -16,15 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Microsoft Copilot Personal Flaws Could Let One Click Exfiltrate Data From Connected Apps
-- **Published**: August 18, 2026
-- **Summary**: Varonis Threat Labs has disclosed three vulnerabilities in Microsoft Copilot Personal that it said could allow a single click on a crafted link to sil...
-- [Read more](https://thehackernews.com/2026/08/microsoft-copilot-personal-flaws-could.html)
+### Personetta – One YAML Persona for Cursor, Copilot, Claude, and Cline
+- **Published**: August 19, 2026
+- **Summary**: https://github.com/EdwardAF-IT/Personetta</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49355246">https://n......
+- [Read more](https://github.com/EdwardAF-IT/Personetta)
 
-### Attackers Exploit MLflow SSRF Flaw to Steal Cloud Credentials and Secrets
-- **Published**: August 18, 2026
-- **Summary**: Two critical vulnerabilities impacting MLflow, an open-source artificial intelligence (AI) platform, and FUXA, an open-source, web-based SCADA / HMI s...
-- [Read more](https://thehackernews.com/2026/08/attackers-exploit-mlflow-ssrf-flaw-to.html)
+### Follow-Up Thoughts on Watermarking Schemes for AI-Generated Text
+- **Published**: August 19, 2026
+- **Summary**: https://daringfireball.net/2026/08/follow-up_thoughts_on_watermarking</a></p>
+<p>Comments URL: <a href="......
+- [Read more](https://daringfireball.net/2026/08/follow-up_thoughts_on_watermarking)
 
 ---
 
