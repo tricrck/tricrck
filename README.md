@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Elementor Pro Flaw Could Let Unauthenticated Attackers Upload PHP and Execute Code
+### NASA AIT-GUI Flaws Could Let Unauthenticated Attackers Issue Spacecraft Commands
 - **Published**: August 20, 2026
-- **Summary**: Cybersecurity researchers have disclosed details of a critical flaw in the Elementor Pro WordPress plugin that, if successfully exploited, could lead ...
-- [Read more](https://thehackernews.com/2026/08/elementor-pro-flaw-could-let.html)
+- **Summary**: Security researchers at Cycode have disclosed a chain of flaws in AIT-GUI, the browser-based operator console for NASA/JPL's open-source AMMOS Instrum...
+- [Read more](https://thehackernews.com/2026/08/nasa-ait-gui-flaws-could-let.html)
 
-### Flock Has a Powerful New AI Tool for Police. We Got Its Code
+### ToxicPanda 2.0 and GoldDigger Expand Android Banking Attacks with On-Device Fraud
 - **Published**: August 20, 2026
-- **Summary**: https://www.wired.com/story/flock-safety-os-investigate/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.c......
-- [Read more](https://www.wired.com/story/flock-safety-os-investigate/)
+- **Summary**: Cybersecurity researchers have shed light on an updated version of ToxicPanda (aka TgToxic) that comes with "significant enhancements," including a se...
+- [Read more](https://thehackernews.com/2026/08/toxicpanda-20-and-golddigger-expand.html)
 
 ---
 
