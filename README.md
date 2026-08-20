@@ -16,18 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### SilkParasite Espionage Campaign Targets Central Asian Governments with Five New RATs
-- **Published**: August 19, 2026
-- **Summary**: A previously unreported cyber espionage operation dubbed SilkParasite has been observed targeting government bodies in Central Asia.
+### Use the built-in GELU, don't roll your own
+- **Published**: August 20, 2026
+- **Summary**: https://www.gilesthomas.com/2026/08/built-in-gelu</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=493......
+- [Read more](https://www.gilesthomas.com/2026/08/built-in-gelu)
 
-The intrusion se...
-- [Read more](https://thehackernews.com/2026/08/silkparasite-espionage-campaign-targets.html)
-
-### AI is helping patients to solve their medical mysteries
-- **Published**: August 19, 2026
-- **Summary**: https://www.wsj.com/health/ai-is-helping-patients-solve-medical-mysteries-3c2d7c25</a></p>
-......
-- [Read more](https://www.wsj.com/health/ai-is-helping-patients-solve-medical-mysteries-3c2d7c25)
+### Does the S&P 500 always go up?
+- **Published**: August 20, 2026
+- **Summary**: https://philosophistry.substack.com/p/does-the-s-and-p-500-always-go-up</a></p>
+<p>Comments URL: <a hr......
+- [Read more](https://philosophistry.substack.com/p/does-the-s-and-p-500-always-go-up)
 
 ---
 
