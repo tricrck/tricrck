@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Use the built-in GELU, don't roll your own
+### Elementor Pro Flaw Could Let Unauthenticated Attackers Upload PHP and Execute Code
 - **Published**: August 20, 2026
-- **Summary**: https://www.gilesthomas.com/2026/08/built-in-gelu</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=493......
-- [Read more](https://www.gilesthomas.com/2026/08/built-in-gelu)
+- **Summary**: Cybersecurity researchers have disclosed details of a critical flaw in the Elementor Pro WordPress plugin that, if successfully exploited, could lead ...
+- [Read more](https://thehackernews.com/2026/08/elementor-pro-flaw-could-let.html)
 
-### Does the S&P 500 always go up?
+### Flock Has a Powerful New AI Tool for Police. We Got Its Code
 - **Published**: August 20, 2026
-- **Summary**: https://philosophistry.substack.com/p/does-the-s-and-p-500-always-go-up</a></p>
-<p>Comments URL: <a hr......
-- [Read more](https://philosophistry.substack.com/p/does-the-s-and-p-500-always-go-up)
+- **Summary**: https://www.wired.com/story/flock-safety-os-investigate/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.c......
+- [Read more](https://www.wired.com/story/flock-safety-os-investigate/)
 
 ---
 
