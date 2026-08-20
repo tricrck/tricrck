@@ -16,15 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### NASA AIT-GUI Flaws Could Let Unauthenticated Attackers Issue Spacecraft Commands
+### Attackers Exploit Zimbra SNMP Flaw for Unauthenticated Remote Code Execution
 - **Published**: August 20, 2026
-- **Summary**: Security researchers at Cycode have disclosed a chain of flaws in AIT-GUI, the browser-based operator console for NASA/JPL's open-source AMMOS Instrum...
-- [Read more](https://thehackernews.com/2026/08/nasa-ait-gui-flaws-could-let.html)
+- **Summary**: A now-patched security flaw impacting Zimbra Collaboration (ZCS) has come under active exploitation in the wild, according to the Polish Computer Emer...
+- **Keywords**: emergency
+- [Read more](https://thehackernews.com/2026/08/attackers-exploit-zimbra-snmp-flaw-for.html)
 
-### ToxicPanda 2.0 and GoldDigger Expand Android Banking Attacks with On-Device Fraud
+### AI-Generated Exploit Scripts Target Siemens S7 PLCs in U.S. Critical Infrastructure
 - **Published**: August 20, 2026
-- **Summary**: Cybersecurity researchers have shed light on an updated version of ToxicPanda (aka TgToxic) that comes with "significant enhancements," including a se...
-- [Read more](https://thehackernews.com/2026/08/toxicpanda-20-and-golddigger-expand.html)
+- **Summary**: The U.S. government on Wednesday warned of an "active threat" targeting critical infrastructure organizations in the country using artificial intellig...
+- [Read more](https://thehackernews.com/2026/08/ai-generated-exploit-scripts-target.html)
 
 ---
 

@@ -1,10 +1,28 @@
 {
   "chaos_ranked": [
     {
-      "title": "NASA AIT-GUI Flaws Could Let Unauthenticated Attackers Issue Spacecraft Commands",
-      "link": "https://thehackernews.com/2026/08/nasa-ait-gui-flaws-could-let.html",
-      "summary": "Security researchers at Cycode have disclosed a chain of flaws in AIT-GUI, the browser-based operator console for NASA/JPL's open-source AMMOS Instrument Toolkit, that allow an unauthenticated attacke...",
-      "published": "2026-08-20T16:35:11+05:30",
+      "title": "Attackers Exploit Zimbra SNMP Flaw for Unauthenticated Remote Code Execution",
+      "link": "https://thehackernews.com/2026/08/attackers-exploit-zimbra-snmp-flaw-for.html",
+      "summary": "A now-patched security flaw impacting Zimbra Collaboration (ZCS) has come under active exploitation in the wild, according to the Polish Computer Emergency Response Team (CERT Polska).\n\nThe vulnerabil...",
+      "published": "2026-08-20T18:54:28+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 13.8,
+        "anarchy": 3.0,
+        "overall": 8.4
+      },
+      "keywords": {
+        "chaos": [
+          "emergency"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "AI-Generated Exploit Scripts Target Siemens S7 PLCs in U.S. Critical Infrastructure",
+      "link": "https://thehackernews.com/2026/08/ai-generated-exploit-scripts-target.html",
+      "summary": "The U.S. government on Wednesday warned of an \"active threat\" targeting critical infrastructure organizations in the country using artificial intelligence (AI)-generated exploit scripts.\n\nThe activity...",
+      "published": "2026-08-20T22:29:44+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -17,10 +35,10 @@
       }
     },
     {
-      "title": "ToxicPanda 2.0 and GoldDigger Expand Android Banking Attacks with On-Device Fraud",
-      "link": "https://thehackernews.com/2026/08/toxicpanda-20-and-golddigger-expand.html",
-      "summary": "Cybersecurity researchers have shed light on an updated version of ToxicPanda (aka TgToxic) that comes with \"significant enhancements,\" including a set of 167 remote commands and expands its targeting...",
-      "published": "2026-08-20T16:08:28+05:30",
+      "title": "New Cryptographic Context Injection Attack Could Let Web Pages Steal Grok Chat Data",
+      "link": "https://thehackernews.com/2026/08/new-cryptographic-context-injection.html",
+      "summary": "Adversa AI has disclosed an attack technique that it says can cause xAI's Grok chatbot to send a user's name, approximate location, subscription tier, and the prompts from the ongoing conversation to ...",
+      "published": "2026-08-20T20:06:27+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -33,10 +51,10 @@
       }
     },
     {
-      "title": "40 Malicious Firefox Extensions Pose as Web3 Products to Steal Wallet Secrets",
-      "link": "https://thehackernews.com/2026/08/40-malicious-firefox-extensions-pose-as.html",
-      "summary": "A set of 40 Mozilla Firefox extensions has been found to engage in cryptocurrency wallet theft by masquerading as OKX, Rabby Wallet, TronLink, and other Web3 products.\n\nAccording to the Socket Threat ...",
-      "published": "2026-08-20T14:12:03+05:30",
+      "title": "Isolated-vm Flaw Lets Sandboxed JavaScript Escape to Host for Potential RCE",
+      "link": "https://thehackernews.com/2026/08/isolated-vm-flaw-lets-sandboxed.html",
+      "summary": "Cybersecurity researchers have disclosed a critical security flaw in isolated-vm, a popular open-source sandbox with more than 2,900 stars and 190 forks on GitHub, that could allow attackers to escape...",
+      "published": "2026-08-20T19:18:24+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -49,11 +67,11 @@
       }
     },
     {
-      "title": "We replaced our ledger with two functions",
-      "link": "https://river.com/content/we-replaced-our-ledger-with-two-functions",
-      "summary": "<p>Article URL: <a href=\"https://river.com/content/we-replaced-our-ledger-with-two-functions\">https://river.com/content/we-replaced-our-ledger-with-two-functions</a></p>\n<p>Comments URL: <a href=\"http...",
-      "published": "2026-08-20T12:46:07+00:00",
-      "domain": "river.com",
+      "title": "Critical NetScaler Flaw Can Bypass Authentication on Certain Gateway and AAA Servers",
+      "link": "https://thehackernews.com/2026/08/critical-netscaler-flaw-can-bypass.html",
+      "summary": "Citrix has released updates to address two security flaws impacting NetScaler ADC and NetScaler Gateway deployments, including a critical-severity authentication bypass vulnerability.\n\nAccording to th...",
+      "published": "2026-08-20T19:05:13+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -65,11 +83,11 @@
       }
     },
     {
-      "title": "Zellij 0.45.0: nested sessions, Kitty graphics, a fresh UI",
-      "link": "https://zellij.dev/news/nested-sessions-kitty-graphics-new-ui/",
-      "summary": "<p>Article URL: <a href=\"https://zellij.dev/news/nested-sessions-kitty-graphics-new-ui/\">https://zellij.dev/news/nested-sessions-kitty-graphics-new-ui/</a></p>\n<p>Comments URL: <a href=\"https://news.y...",
-      "published": "2026-08-20T12:45:44+00:00",
-      "domain": "zellij.dev",
+      "title": "AVX Bitwise ternary logic [VPTERNLOGD] instruction busted (2024)",
+      "link": "https://arnaud-carre.github.io/2024-10-06-vpternlogd/",
+      "summary": "<p>Article URL: <a href=\"https://arnaud-carre.github.io/2024-10-06-vpternlogd/\">https://arnaud-carre.github.io/2024-10-06-vpternlogd/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/ite...",
+      "published": "2026-08-20T18:38:33+00:00",
+      "domain": "arnaud-carre.github.io",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -81,11 +99,11 @@
       }
     },
     {
-      "title": "Isochronic tones: what they're good for",
-      "link": "https://medium.com/@6thMind/isochronic-tones-what-theyre-actually-good-for-and-the-advantage-nobody-mentions-16ccd04510e4",
-      "summary": "<p>Article URL: <a href=\"https://medium.com/@6thMind/isochronic-tones-what-theyre-actually-good-for-and-the-advantage-nobody-mentions-16ccd04510e4\">https://medium.com/@6thMind/isochronic-tones-what-th...",
-      "published": "2026-08-20T12:44:55+00:00",
-      "domain": "medium.com",
+      "title": "Emoji Based Janet Packages and Codebases",
+      "link": "https://hachyderm.io/@janet_catcus/117128090262354367",
+      "summary": "<p>Article URL: <a href=\"https://hachyderm.io/@janet_catcus/117128090262354367\">https://hachyderm.io/@janet_catcus/117128090262354367</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/ite...",
+      "published": "2026-08-20T18:37:30+00:00",
+      "domain": "hachyderm.io",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -97,11 +115,11 @@
       }
     },
     {
-      "title": "GOP issues stark warning to AI companies",
-      "link": "https://www.axios.com/2026/08/19/gop-data-center-memo-ai-election",
-      "summary": "<p>Article URL: <a href=\"https://www.axios.com/2026/08/19/gop-data-center-memo-ai-election\">https://www.axios.com/2026/08/19/gop-data-center-memo-ai-election</a></p>\n<p>Comments URL: <a href=\"https://...",
-      "published": "2026-08-20T12:44:49+00:00",
-      "domain": "axios.com",
+      "title": "When Building Gets Cheap, Knowing What to Build Gets Expensive",
+      "link": "https://twitter.com/adalagent/status/2090476725474131986",
+      "summary": "<p>Article URL: <a href=\"https://twitter.com/adalagent/status/2090476725474131986\">https://twitter.com/adalagent/status/2090476725474131986</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.c...",
+      "published": "2026-08-20T18:37:23+00:00",
+      "domain": "twitter.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -113,11 +131,11 @@
       }
     },
     {
-      "title": "Protocol-Aware Deterministic Simulation Testing",
-      "link": "https://tigerbeetle.com/blog/2026-08-20-protocol-aware-dst/",
-      "summary": "<p>Article URL: <a href=\"https://tigerbeetle.com/blog/2026-08-20-protocol-aware-dst/\">https://tigerbeetle.com/blog/2026-08-20-protocol-aware-dst/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombin...",
-      "published": "2026-08-20T12:43:58+00:00",
-      "domain": "tigerbeetle.com",
+      "title": "Poisoned Postgres Connection Pools",
+      "link": "https://planetscale.com/blog/postgres-poisoned-connection-pools",
+      "summary": "<p>Article URL: <a href=\"https://planetscale.com/blog/postgres-poisoned-connection-pools\">https://planetscale.com/blog/postgres-poisoned-connection-pools</a></p>\n<p>Comments URL: <a href=\"https://news...",
+      "published": "2026-08-20T18:36:19+00:00",
+      "domain": "planetscale.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -129,27 +147,11 @@
       }
     },
     {
-      "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
-      "link": "https://simedw.com/2026/08/20/midi-autocomplete/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49373456\">Comments</a>...",
-      "published": "2026-08-20T12:04:38+00:00",
-      "domain": "simedw.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Zuckerberg Knew. A Whistleblower Has the Emails to Prove It. - Gadget Review",
-      "link": "https://www.reddit.com/r/technology/comments/1vthbzd/zuckerberg_knew_a_whistleblower_has_the_emails_to/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1vthbzd/zuckerberg_knew_a_whistleblower_has_the_emails_to/\"> <img alt=\"Zuckerberg Knew. A Whistleblower Has the Emails to Prove I...",
-      "published": "2026-08-20T11:52:43+00:00",
-      "domain": "reddit.com",
+      "title": "Excluded from everywhere: incompatible with every system I entered",
+      "link": "https://msakkal.me/en/",
+      "summary": "<p>Article URL: <a href=\"https://msakkal.me/en/\">https://msakkal.me/en/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49378421\">https://news.ycombinator.com/item?id=49378421</...",
+      "published": "2026-08-20T18:36:10+00:00",
+      "domain": "msakkal.me",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -163,10 +165,10 @@
   ],
   "anarchy_ranked": [
     {
-      "title": "NASA AIT-GUI Flaws Could Let Unauthenticated Attackers Issue Spacecraft Commands",
-      "link": "https://thehackernews.com/2026/08/nasa-ait-gui-flaws-could-let.html",
-      "summary": "Security researchers at Cycode have disclosed a chain of flaws in AIT-GUI, the browser-based operator console for NASA/JPL's open-source AMMOS Instrument Toolkit, that allow an unauthenticated attacke...",
-      "published": "2026-08-20T16:35:11+05:30",
+      "title": "AI-Generated Exploit Scripts Target Siemens S7 PLCs in U.S. Critical Infrastructure",
+      "link": "https://thehackernews.com/2026/08/ai-generated-exploit-scripts-target.html",
+      "summary": "The U.S. government on Wednesday warned of an \"active threat\" targeting critical infrastructure organizations in the country using artificial intelligence (AI)-generated exploit scripts.\n\nThe activity...",
+      "published": "2026-08-20T22:29:44+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -179,10 +181,10 @@
       }
     },
     {
-      "title": "ToxicPanda 2.0 and GoldDigger Expand Android Banking Attacks with On-Device Fraud",
-      "link": "https://thehackernews.com/2026/08/toxicpanda-20-and-golddigger-expand.html",
-      "summary": "Cybersecurity researchers have shed light on an updated version of ToxicPanda (aka TgToxic) that comes with \"significant enhancements,\" including a set of 167 remote commands and expands its targeting...",
-      "published": "2026-08-20T16:08:28+05:30",
+      "title": "New Cryptographic Context Injection Attack Could Let Web Pages Steal Grok Chat Data",
+      "link": "https://thehackernews.com/2026/08/new-cryptographic-context-injection.html",
+      "summary": "Adversa AI has disclosed an attack technique that it says can cause xAI's Grok chatbot to send a user's name, approximate location, subscription tier, and the prompts from the ongoing conversation to ...",
+      "published": "2026-08-20T20:06:27+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -195,10 +197,10 @@
       }
     },
     {
-      "title": "40 Malicious Firefox Extensions Pose as Web3 Products to Steal Wallet Secrets",
-      "link": "https://thehackernews.com/2026/08/40-malicious-firefox-extensions-pose-as.html",
-      "summary": "A set of 40 Mozilla Firefox extensions has been found to engage in cryptocurrency wallet theft by masquerading as OKX, Rabby Wallet, TronLink, and other Web3 products.\n\nAccording to the Socket Threat ...",
-      "published": "2026-08-20T14:12:03+05:30",
+      "title": "Isolated-vm Flaw Lets Sandboxed JavaScript Escape to Host for Potential RCE",
+      "link": "https://thehackernews.com/2026/08/isolated-vm-flaw-lets-sandboxed.html",
+      "summary": "Cybersecurity researchers have disclosed a critical security flaw in isolated-vm, a popular open-source sandbox with more than 2,900 stars and 190 forks on GitHub, that could allow attackers to escape...",
+      "published": "2026-08-20T19:18:24+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -211,11 +213,11 @@
       }
     },
     {
-      "title": "We replaced our ledger with two functions",
-      "link": "https://river.com/content/we-replaced-our-ledger-with-two-functions",
-      "summary": "<p>Article URL: <a href=\"https://river.com/content/we-replaced-our-ledger-with-two-functions\">https://river.com/content/we-replaced-our-ledger-with-two-functions</a></p>\n<p>Comments URL: <a href=\"http...",
-      "published": "2026-08-20T12:46:07+00:00",
-      "domain": "river.com",
+      "title": "Critical NetScaler Flaw Can Bypass Authentication on Certain Gateway and AAA Servers",
+      "link": "https://thehackernews.com/2026/08/critical-netscaler-flaw-can-bypass.html",
+      "summary": "Citrix has released updates to address two security flaws impacting NetScaler ADC and NetScaler Gateway deployments, including a critical-severity authentication bypass vulnerability.\n\nAccording to th...",
+      "published": "2026-08-20T19:05:13+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -227,11 +229,29 @@
       }
     },
     {
-      "title": "Zellij 0.45.0: nested sessions, Kitty graphics, a fresh UI",
-      "link": "https://zellij.dev/news/nested-sessions-kitty-graphics-new-ui/",
-      "summary": "<p>Article URL: <a href=\"https://zellij.dev/news/nested-sessions-kitty-graphics-new-ui/\">https://zellij.dev/news/nested-sessions-kitty-graphics-new-ui/</a></p>\n<p>Comments URL: <a href=\"https://news.y...",
-      "published": "2026-08-20T12:45:44+00:00",
-      "domain": "zellij.dev",
+      "title": "Attackers Exploit Zimbra SNMP Flaw for Unauthenticated Remote Code Execution",
+      "link": "https://thehackernews.com/2026/08/attackers-exploit-zimbra-snmp-flaw-for.html",
+      "summary": "A now-patched security flaw impacting Zimbra Collaboration (ZCS) has come under active exploitation in the wild, according to the Polish Computer Emergency Response Team (CERT Polska).\n\nThe vulnerabil...",
+      "published": "2026-08-20T18:54:28+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 13.8,
+        "anarchy": 3.0,
+        "overall": 8.4
+      },
+      "keywords": {
+        "chaos": [
+          "emergency"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "AVX Bitwise ternary logic [VPTERNLOGD] instruction busted (2024)",
+      "link": "https://arnaud-carre.github.io/2024-10-06-vpternlogd/",
+      "summary": "<p>Article URL: <a href=\"https://arnaud-carre.github.io/2024-10-06-vpternlogd/\">https://arnaud-carre.github.io/2024-10-06-vpternlogd/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/ite...",
+      "published": "2026-08-20T18:38:33+00:00",
+      "domain": "arnaud-carre.github.io",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -243,11 +263,11 @@
       }
     },
     {
-      "title": "Isochronic tones: what they're good for",
-      "link": "https://medium.com/@6thMind/isochronic-tones-what-theyre-actually-good-for-and-the-advantage-nobody-mentions-16ccd04510e4",
-      "summary": "<p>Article URL: <a href=\"https://medium.com/@6thMind/isochronic-tones-what-theyre-actually-good-for-and-the-advantage-nobody-mentions-16ccd04510e4\">https://medium.com/@6thMind/isochronic-tones-what-th...",
-      "published": "2026-08-20T12:44:55+00:00",
-      "domain": "medium.com",
+      "title": "Emoji Based Janet Packages and Codebases",
+      "link": "https://hachyderm.io/@janet_catcus/117128090262354367",
+      "summary": "<p>Article URL: <a href=\"https://hachyderm.io/@janet_catcus/117128090262354367\">https://hachyderm.io/@janet_catcus/117128090262354367</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/ite...",
+      "published": "2026-08-20T18:37:30+00:00",
+      "domain": "hachyderm.io",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -259,11 +279,11 @@
       }
     },
     {
-      "title": "GOP issues stark warning to AI companies",
-      "link": "https://www.axios.com/2026/08/19/gop-data-center-memo-ai-election",
-      "summary": "<p>Article URL: <a href=\"https://www.axios.com/2026/08/19/gop-data-center-memo-ai-election\">https://www.axios.com/2026/08/19/gop-data-center-memo-ai-election</a></p>\n<p>Comments URL: <a href=\"https://...",
-      "published": "2026-08-20T12:44:49+00:00",
-      "domain": "axios.com",
+      "title": "When Building Gets Cheap, Knowing What to Build Gets Expensive",
+      "link": "https://twitter.com/adalagent/status/2090476725474131986",
+      "summary": "<p>Article URL: <a href=\"https://twitter.com/adalagent/status/2090476725474131986\">https://twitter.com/adalagent/status/2090476725474131986</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.c...",
+      "published": "2026-08-20T18:37:23+00:00",
+      "domain": "twitter.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -275,11 +295,11 @@
       }
     },
     {
-      "title": "Protocol-Aware Deterministic Simulation Testing",
-      "link": "https://tigerbeetle.com/blog/2026-08-20-protocol-aware-dst/",
-      "summary": "<p>Article URL: <a href=\"https://tigerbeetle.com/blog/2026-08-20-protocol-aware-dst/\">https://tigerbeetle.com/blog/2026-08-20-protocol-aware-dst/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombin...",
-      "published": "2026-08-20T12:43:58+00:00",
-      "domain": "tigerbeetle.com",
+      "title": "Poisoned Postgres Connection Pools",
+      "link": "https://planetscale.com/blog/postgres-poisoned-connection-pools",
+      "summary": "<p>Article URL: <a href=\"https://planetscale.com/blog/postgres-poisoned-connection-pools\">https://planetscale.com/blog/postgres-poisoned-connection-pools</a></p>\n<p>Comments URL: <a href=\"https://news...",
+      "published": "2026-08-20T18:36:19+00:00",
+      "domain": "planetscale.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -291,27 +311,11 @@
       }
     },
     {
-      "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
-      "link": "https://simedw.com/2026/08/20/midi-autocomplete/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49373456\">Comments</a>...",
-      "published": "2026-08-20T12:04:38+00:00",
-      "domain": "simedw.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Zuckerberg Knew. A Whistleblower Has the Emails to Prove It. - Gadget Review",
-      "link": "https://www.reddit.com/r/technology/comments/1vthbzd/zuckerberg_knew_a_whistleblower_has_the_emails_to/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1vthbzd/zuckerberg_knew_a_whistleblower_has_the_emails_to/\"> <img alt=\"Zuckerberg Knew. A Whistleblower Has the Emails to Prove I...",
-      "published": "2026-08-20T11:52:43+00:00",
-      "domain": "reddit.com",
+      "title": "Excluded from everywhere: incompatible with every system I entered",
+      "link": "https://msakkal.me/en/",
+      "summary": "<p>Article URL: <a href=\"https://msakkal.me/en/\">https://msakkal.me/en/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49378421\">https://news.ycombinator.com/item?id=49378421</...",
+      "published": "2026-08-20T18:36:10+00:00",
+      "domain": "msakkal.me",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -325,10 +329,28 @@
   ],
   "overall_ranked": [
     {
-      "title": "NASA AIT-GUI Flaws Could Let Unauthenticated Attackers Issue Spacecraft Commands",
-      "link": "https://thehackernews.com/2026/08/nasa-ait-gui-flaws-could-let.html",
-      "summary": "Security researchers at Cycode have disclosed a chain of flaws in AIT-GUI, the browser-based operator console for NASA/JPL's open-source AMMOS Instrument Toolkit, that allow an unauthenticated attacke...",
-      "published": "2026-08-20T16:35:11+05:30",
+      "title": "Attackers Exploit Zimbra SNMP Flaw for Unauthenticated Remote Code Execution",
+      "link": "https://thehackernews.com/2026/08/attackers-exploit-zimbra-snmp-flaw-for.html",
+      "summary": "A now-patched security flaw impacting Zimbra Collaboration (ZCS) has come under active exploitation in the wild, according to the Polish Computer Emergency Response Team (CERT Polska).\n\nThe vulnerabil...",
+      "published": "2026-08-20T18:54:28+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 13.8,
+        "anarchy": 3.0,
+        "overall": 8.4
+      },
+      "keywords": {
+        "chaos": [
+          "emergency"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "AI-Generated Exploit Scripts Target Siemens S7 PLCs in U.S. Critical Infrastructure",
+      "link": "https://thehackernews.com/2026/08/ai-generated-exploit-scripts-target.html",
+      "summary": "The U.S. government on Wednesday warned of an \"active threat\" targeting critical infrastructure organizations in the country using artificial intelligence (AI)-generated exploit scripts.\n\nThe activity...",
+      "published": "2026-08-20T22:29:44+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -341,10 +363,10 @@
       }
     },
     {
-      "title": "ToxicPanda 2.0 and GoldDigger Expand Android Banking Attacks with On-Device Fraud",
-      "link": "https://thehackernews.com/2026/08/toxicpanda-20-and-golddigger-expand.html",
-      "summary": "Cybersecurity researchers have shed light on an updated version of ToxicPanda (aka TgToxic) that comes with \"significant enhancements,\" including a set of 167 remote commands and expands its targeting...",
-      "published": "2026-08-20T16:08:28+05:30",
+      "title": "New Cryptographic Context Injection Attack Could Let Web Pages Steal Grok Chat Data",
+      "link": "https://thehackernews.com/2026/08/new-cryptographic-context-injection.html",
+      "summary": "Adversa AI has disclosed an attack technique that it says can cause xAI's Grok chatbot to send a user's name, approximate location, subscription tier, and the prompts from the ongoing conversation to ...",
+      "published": "2026-08-20T20:06:27+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -357,10 +379,10 @@
       }
     },
     {
-      "title": "40 Malicious Firefox Extensions Pose as Web3 Products to Steal Wallet Secrets",
-      "link": "https://thehackernews.com/2026/08/40-malicious-firefox-extensions-pose-as.html",
-      "summary": "A set of 40 Mozilla Firefox extensions has been found to engage in cryptocurrency wallet theft by masquerading as OKX, Rabby Wallet, TronLink, and other Web3 products.\n\nAccording to the Socket Threat ...",
-      "published": "2026-08-20T14:12:03+05:30",
+      "title": "Isolated-vm Flaw Lets Sandboxed JavaScript Escape to Host for Potential RCE",
+      "link": "https://thehackernews.com/2026/08/isolated-vm-flaw-lets-sandboxed.html",
+      "summary": "Cybersecurity researchers have disclosed a critical security flaw in isolated-vm, a popular open-source sandbox with more than 2,900 stars and 190 forks on GitHub, that could allow attackers to escape...",
+      "published": "2026-08-20T19:18:24+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -373,11 +395,11 @@
       }
     },
     {
-      "title": "We replaced our ledger with two functions",
-      "link": "https://river.com/content/we-replaced-our-ledger-with-two-functions",
-      "summary": "<p>Article URL: <a href=\"https://river.com/content/we-replaced-our-ledger-with-two-functions\">https://river.com/content/we-replaced-our-ledger-with-two-functions</a></p>\n<p>Comments URL: <a href=\"http...",
-      "published": "2026-08-20T12:46:07+00:00",
-      "domain": "river.com",
+      "title": "Critical NetScaler Flaw Can Bypass Authentication on Certain Gateway and AAA Servers",
+      "link": "https://thehackernews.com/2026/08/critical-netscaler-flaw-can-bypass.html",
+      "summary": "Citrix has released updates to address two security flaws impacting NetScaler ADC and NetScaler Gateway deployments, including a critical-severity authentication bypass vulnerability.\n\nAccording to th...",
+      "published": "2026-08-20T19:05:13+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -389,11 +411,11 @@
       }
     },
     {
-      "title": "Zellij 0.45.0: nested sessions, Kitty graphics, a fresh UI",
-      "link": "https://zellij.dev/news/nested-sessions-kitty-graphics-new-ui/",
-      "summary": "<p>Article URL: <a href=\"https://zellij.dev/news/nested-sessions-kitty-graphics-new-ui/\">https://zellij.dev/news/nested-sessions-kitty-graphics-new-ui/</a></p>\n<p>Comments URL: <a href=\"https://news.y...",
-      "published": "2026-08-20T12:45:44+00:00",
-      "domain": "zellij.dev",
+      "title": "AVX Bitwise ternary logic [VPTERNLOGD] instruction busted (2024)",
+      "link": "https://arnaud-carre.github.io/2024-10-06-vpternlogd/",
+      "summary": "<p>Article URL: <a href=\"https://arnaud-carre.github.io/2024-10-06-vpternlogd/\">https://arnaud-carre.github.io/2024-10-06-vpternlogd/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/ite...",
+      "published": "2026-08-20T18:38:33+00:00",
+      "domain": "arnaud-carre.github.io",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -405,11 +427,11 @@
       }
     },
     {
-      "title": "Isochronic tones: what they're good for",
-      "link": "https://medium.com/@6thMind/isochronic-tones-what-theyre-actually-good-for-and-the-advantage-nobody-mentions-16ccd04510e4",
-      "summary": "<p>Article URL: <a href=\"https://medium.com/@6thMind/isochronic-tones-what-theyre-actually-good-for-and-the-advantage-nobody-mentions-16ccd04510e4\">https://medium.com/@6thMind/isochronic-tones-what-th...",
-      "published": "2026-08-20T12:44:55+00:00",
-      "domain": "medium.com",
+      "title": "Emoji Based Janet Packages and Codebases",
+      "link": "https://hachyderm.io/@janet_catcus/117128090262354367",
+      "summary": "<p>Article URL: <a href=\"https://hachyderm.io/@janet_catcus/117128090262354367\">https://hachyderm.io/@janet_catcus/117128090262354367</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/ite...",
+      "published": "2026-08-20T18:37:30+00:00",
+      "domain": "hachyderm.io",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -421,11 +443,11 @@
       }
     },
     {
-      "title": "GOP issues stark warning to AI companies",
-      "link": "https://www.axios.com/2026/08/19/gop-data-center-memo-ai-election",
-      "summary": "<p>Article URL: <a href=\"https://www.axios.com/2026/08/19/gop-data-center-memo-ai-election\">https://www.axios.com/2026/08/19/gop-data-center-memo-ai-election</a></p>\n<p>Comments URL: <a href=\"https://...",
-      "published": "2026-08-20T12:44:49+00:00",
-      "domain": "axios.com",
+      "title": "When Building Gets Cheap, Knowing What to Build Gets Expensive",
+      "link": "https://twitter.com/adalagent/status/2090476725474131986",
+      "summary": "<p>Article URL: <a href=\"https://twitter.com/adalagent/status/2090476725474131986\">https://twitter.com/adalagent/status/2090476725474131986</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.c...",
+      "published": "2026-08-20T18:37:23+00:00",
+      "domain": "twitter.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -437,11 +459,11 @@
       }
     },
     {
-      "title": "Protocol-Aware Deterministic Simulation Testing",
-      "link": "https://tigerbeetle.com/blog/2026-08-20-protocol-aware-dst/",
-      "summary": "<p>Article URL: <a href=\"https://tigerbeetle.com/blog/2026-08-20-protocol-aware-dst/\">https://tigerbeetle.com/blog/2026-08-20-protocol-aware-dst/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombin...",
-      "published": "2026-08-20T12:43:58+00:00",
-      "domain": "tigerbeetle.com",
+      "title": "Poisoned Postgres Connection Pools",
+      "link": "https://planetscale.com/blog/postgres-poisoned-connection-pools",
+      "summary": "<p>Article URL: <a href=\"https://planetscale.com/blog/postgres-poisoned-connection-pools\">https://planetscale.com/blog/postgres-poisoned-connection-pools</a></p>\n<p>Comments URL: <a href=\"https://news...",
+      "published": "2026-08-20T18:36:19+00:00",
+      "domain": "planetscale.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -453,27 +475,11 @@
       }
     },
     {
-      "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
-      "link": "https://simedw.com/2026/08/20/midi-autocomplete/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49373456\">Comments</a>...",
-      "published": "2026-08-20T12:04:38+00:00",
-      "domain": "simedw.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Zuckerberg Knew. A Whistleblower Has the Emails to Prove It. - Gadget Review",
-      "link": "https://www.reddit.com/r/technology/comments/1vthbzd/zuckerberg_knew_a_whistleblower_has_the_emails_to/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1vthbzd/zuckerberg_knew_a_whistleblower_has_the_emails_to/\"> <img alt=\"Zuckerberg Knew. A Whistleblower Has the Emails to Prove I...",
-      "published": "2026-08-20T11:52:43+00:00",
-      "domain": "reddit.com",
+      "title": "Excluded from everywhere: incompatible with every system I entered",
+      "link": "https://msakkal.me/en/",
+      "summary": "<p>Article URL: <a href=\"https://msakkal.me/en/\">https://msakkal.me/en/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49378421\">https://news.ycombinator.com/item?id=49378421</...",
+      "published": "2026-08-20T18:36:10+00:00",
+      "domain": "msakkal.me",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -487,10 +493,10 @@
   ],
   "all_articles": [
     {
-      "title": "NASA AIT-GUI Flaws Could Let Unauthenticated Attackers Issue Spacecraft Commands",
-      "link": "https://thehackernews.com/2026/08/nasa-ait-gui-flaws-could-let.html",
-      "summary": "Security researchers at Cycode have disclosed a chain of flaws in AIT-GUI, the browser-based operator console for NASA/JPL's open-source AMMOS Instrument Toolkit, that allow an unauthenticated attacke...",
-      "published": "2026-08-20T16:35:11+05:30",
+      "title": "AI-Generated Exploit Scripts Target Siemens S7 PLCs in U.S. Critical Infrastructure",
+      "link": "https://thehackernews.com/2026/08/ai-generated-exploit-scripts-target.html",
+      "summary": "The U.S. government on Wednesday warned of an \"active threat\" targeting critical infrastructure organizations in the country using artificial intelligence (AI)-generated exploit scripts.\n\nThe activity...",
+      "published": "2026-08-20T22:29:44+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -503,10 +509,10 @@
       }
     },
     {
-      "title": "ToxicPanda 2.0 and GoldDigger Expand Android Banking Attacks with On-Device Fraud",
-      "link": "https://thehackernews.com/2026/08/toxicpanda-20-and-golddigger-expand.html",
-      "summary": "Cybersecurity researchers have shed light on an updated version of ToxicPanda (aka TgToxic) that comes with \"significant enhancements,\" including a set of 167 remote commands and expands its targeting...",
-      "published": "2026-08-20T16:08:28+05:30",
+      "title": "New Cryptographic Context Injection Attack Could Let Web Pages Steal Grok Chat Data",
+      "link": "https://thehackernews.com/2026/08/new-cryptographic-context-injection.html",
+      "summary": "Adversa AI has disclosed an attack technique that it says can cause xAI's Grok chatbot to send a user's name, approximate location, subscription tier, and the prompts from the ongoing conversation to ...",
+      "published": "2026-08-20T20:06:27+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -519,10 +525,10 @@
       }
     },
     {
-      "title": "40 Malicious Firefox Extensions Pose as Web3 Products to Steal Wallet Secrets",
-      "link": "https://thehackernews.com/2026/08/40-malicious-firefox-extensions-pose-as.html",
-      "summary": "A set of 40 Mozilla Firefox extensions has been found to engage in cryptocurrency wallet theft by masquerading as OKX, Rabby Wallet, TronLink, and other Web3 products.\n\nAccording to the Socket Threat ...",
-      "published": "2026-08-20T14:12:03+05:30",
+      "title": "Isolated-vm Flaw Lets Sandboxed JavaScript Escape to Host for Potential RCE",
+      "link": "https://thehackernews.com/2026/08/isolated-vm-flaw-lets-sandboxed.html",
+      "summary": "Cybersecurity researchers have disclosed a critical security flaw in isolated-vm, a popular open-source sandbox with more than 2,900 stars and 190 forks on GitHub, that could allow attackers to escape...",
+      "published": "2026-08-20T19:18:24+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -535,11 +541,11 @@
       }
     },
     {
-      "title": "We replaced our ledger with two functions",
-      "link": "https://river.com/content/we-replaced-our-ledger-with-two-functions",
-      "summary": "<p>Article URL: <a href=\"https://river.com/content/we-replaced-our-ledger-with-two-functions\">https://river.com/content/we-replaced-our-ledger-with-two-functions</a></p>\n<p>Comments URL: <a href=\"http...",
-      "published": "2026-08-20T12:46:07+00:00",
-      "domain": "river.com",
+      "title": "Critical NetScaler Flaw Can Bypass Authentication on Certain Gateway and AAA Servers",
+      "link": "https://thehackernews.com/2026/08/critical-netscaler-flaw-can-bypass.html",
+      "summary": "Citrix has released updates to address two security flaws impacting NetScaler ADC and NetScaler Gateway deployments, including a critical-severity authentication bypass vulnerability.\n\nAccording to th...",
+      "published": "2026-08-20T19:05:13+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -551,11 +557,29 @@
       }
     },
     {
-      "title": "Zellij 0.45.0: nested sessions, Kitty graphics, a fresh UI",
-      "link": "https://zellij.dev/news/nested-sessions-kitty-graphics-new-ui/",
-      "summary": "<p>Article URL: <a href=\"https://zellij.dev/news/nested-sessions-kitty-graphics-new-ui/\">https://zellij.dev/news/nested-sessions-kitty-graphics-new-ui/</a></p>\n<p>Comments URL: <a href=\"https://news.y...",
-      "published": "2026-08-20T12:45:44+00:00",
-      "domain": "zellij.dev",
+      "title": "Attackers Exploit Zimbra SNMP Flaw for Unauthenticated Remote Code Execution",
+      "link": "https://thehackernews.com/2026/08/attackers-exploit-zimbra-snmp-flaw-for.html",
+      "summary": "A now-patched security flaw impacting Zimbra Collaboration (ZCS) has come under active exploitation in the wild, according to the Polish Computer Emergency Response Team (CERT Polska).\n\nThe vulnerabil...",
+      "published": "2026-08-20T18:54:28+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 13.8,
+        "anarchy": 3.0,
+        "overall": 8.4
+      },
+      "keywords": {
+        "chaos": [
+          "emergency"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "AVX Bitwise ternary logic [VPTERNLOGD] instruction busted (2024)",
+      "link": "https://arnaud-carre.github.io/2024-10-06-vpternlogd/",
+      "summary": "<p>Article URL: <a href=\"https://arnaud-carre.github.io/2024-10-06-vpternlogd/\">https://arnaud-carre.github.io/2024-10-06-vpternlogd/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/ite...",
+      "published": "2026-08-20T18:38:33+00:00",
+      "domain": "arnaud-carre.github.io",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -567,11 +591,11 @@
       }
     },
     {
-      "title": "Isochronic tones: what they're good for",
-      "link": "https://medium.com/@6thMind/isochronic-tones-what-theyre-actually-good-for-and-the-advantage-nobody-mentions-16ccd04510e4",
-      "summary": "<p>Article URL: <a href=\"https://medium.com/@6thMind/isochronic-tones-what-theyre-actually-good-for-and-the-advantage-nobody-mentions-16ccd04510e4\">https://medium.com/@6thMind/isochronic-tones-what-th...",
-      "published": "2026-08-20T12:44:55+00:00",
-      "domain": "medium.com",
+      "title": "Emoji Based Janet Packages and Codebases",
+      "link": "https://hachyderm.io/@janet_catcus/117128090262354367",
+      "summary": "<p>Article URL: <a href=\"https://hachyderm.io/@janet_catcus/117128090262354367\">https://hachyderm.io/@janet_catcus/117128090262354367</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/ite...",
+      "published": "2026-08-20T18:37:30+00:00",
+      "domain": "hachyderm.io",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -583,11 +607,11 @@
       }
     },
     {
-      "title": "GOP issues stark warning to AI companies",
-      "link": "https://www.axios.com/2026/08/19/gop-data-center-memo-ai-election",
-      "summary": "<p>Article URL: <a href=\"https://www.axios.com/2026/08/19/gop-data-center-memo-ai-election\">https://www.axios.com/2026/08/19/gop-data-center-memo-ai-election</a></p>\n<p>Comments URL: <a href=\"https://...",
-      "published": "2026-08-20T12:44:49+00:00",
-      "domain": "axios.com",
+      "title": "When Building Gets Cheap, Knowing What to Build Gets Expensive",
+      "link": "https://twitter.com/adalagent/status/2090476725474131986",
+      "summary": "<p>Article URL: <a href=\"https://twitter.com/adalagent/status/2090476725474131986\">https://twitter.com/adalagent/status/2090476725474131986</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.c...",
+      "published": "2026-08-20T18:37:23+00:00",
+      "domain": "twitter.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -599,11 +623,11 @@
       }
     },
     {
-      "title": "Protocol-Aware Deterministic Simulation Testing",
-      "link": "https://tigerbeetle.com/blog/2026-08-20-protocol-aware-dst/",
-      "summary": "<p>Article URL: <a href=\"https://tigerbeetle.com/blog/2026-08-20-protocol-aware-dst/\">https://tigerbeetle.com/blog/2026-08-20-protocol-aware-dst/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombin...",
-      "published": "2026-08-20T12:43:58+00:00",
-      "domain": "tigerbeetle.com",
+      "title": "Poisoned Postgres Connection Pools",
+      "link": "https://planetscale.com/blog/postgres-poisoned-connection-pools",
+      "summary": "<p>Article URL: <a href=\"https://planetscale.com/blog/postgres-poisoned-connection-pools\">https://planetscale.com/blog/postgres-poisoned-connection-pools</a></p>\n<p>Comments URL: <a href=\"https://news...",
+      "published": "2026-08-20T18:36:19+00:00",
+      "domain": "planetscale.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -615,27 +639,11 @@
       }
     },
     {
-      "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
-      "link": "https://simedw.com/2026/08/20/midi-autocomplete/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49373456\">Comments</a>...",
-      "published": "2026-08-20T12:04:38+00:00",
-      "domain": "simedw.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Zuckerberg Knew. A Whistleblower Has the Emails to Prove It. - Gadget Review",
-      "link": "https://www.reddit.com/r/technology/comments/1vthbzd/zuckerberg_knew_a_whistleblower_has_the_emails_to/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1vthbzd/zuckerberg_knew_a_whistleblower_has_the_emails_to/\"> <img alt=\"Zuckerberg Knew. A Whistleblower Has the Emails to Prove I...",
-      "published": "2026-08-20T11:52:43+00:00",
-      "domain": "reddit.com",
+      "title": "Excluded from everywhere: incompatible with every system I entered",
+      "link": "https://msakkal.me/en/",
+      "summary": "<p>Article URL: <a href=\"https://msakkal.me/en/\">https://msakkal.me/en/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49378421\">https://news.ycombinator.com/item?id=49378421</...",
+      "published": "2026-08-20T18:36:10+00:00",
+      "domain": "msakkal.me",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
