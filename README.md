@@ -16,15 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Rust Supply Chain Attack Puts Build-Time Malware in Crates with 245 Million Downloads
+### Codex on AWS bedrock bug causing 10x charges
 - **Published**: August 21, 2026
-- **Summary**: The Rust Project has deleted malicious versions of three widely used Rust crates from crates.io after a compromised maintainer account published relea...
-- [Read more](https://thehackernews.com/2026/08/rust-supply-chain-attack-puts-build.html)
+- **Summary**: ......
+- **Keywords**: bug
+- [Read more](https://github.com/openai/codex/issues/37674)
 
-### Suspected Russian Hackers Abuse Google OAuth and WhatsApp Linking to Hijack Accounts
+### Microsoft Entra ID Flaw (CVSS 10.0) Exploited in Wild, Allows Remote Code Execution
 - **Published**: August 21, 2026
-- **Summary**: Three distinct suspected Russian cyber espionage threat clusters have been observed leveraging legitimate authentication flows to single out individua...
-- [Read more](https://thehackernews.com/2026/08/suspected-russian-hackers-abuse-google.html)
+- **Summary**: Microsoft on Thursday warned of a maximum-severity security flaw in Entra ID that it said has been exploited in the wild, but noted that no customer a...
+- [Read more](https://thehackernews.com/2026/08/microsoft-entra-id-flaw-cvss-100.html)
 
 ---
 
