@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Attackers Exploit Zimbra SNMP Flaw for Unauthenticated Remote Code Execution
-- **Published**: August 20, 2026
-- **Summary**: A now-patched security flaw impacting Zimbra Collaboration (ZCS) has come under active exploitation in the wild, according to the Polish Computer Emer...
-- **Keywords**: emergency
-- [Read more](https://thehackernews.com/2026/08/attackers-exploit-zimbra-snmp-flaw-for.html)
+### Rust Supply Chain Attack Puts Build-Time Malware in Crates with 245 Million Downloads
+- **Published**: August 21, 2026
+- **Summary**: The Rust Project has deleted malicious versions of three widely used Rust crates from crates.io after a compromised maintainer account published relea...
+- [Read more](https://thehackernews.com/2026/08/rust-supply-chain-attack-puts-build.html)
 
-### AI-Generated Exploit Scripts Target Siemens S7 PLCs in U.S. Critical Infrastructure
-- **Published**: August 20, 2026
-- **Summary**: The U.S. government on Wednesday warned of an "active threat" targeting critical infrastructure organizations in the country using artificial intellig...
-- [Read more](https://thehackernews.com/2026/08/ai-generated-exploit-scripts-target.html)
+### Suspected Russian Hackers Abuse Google OAuth and WhatsApp Linking to Hijack Accounts
+- **Published**: August 21, 2026
+- **Summary**: Three distinct suspected Russian cyber espionage threat clusters have been observed leveraging legitimate authentication flows to single out individua...
+- [Read more](https://thehackernews.com/2026/08/suspected-russian-hackers-abuse-google.html)
 
 ---
 
