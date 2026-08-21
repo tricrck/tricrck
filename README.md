@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Wazuh and AI For Enhanced SOC Workflows
+### Microsoft Defender's Own Driver Can Be Weaponized to Delete Security Software at Boot
 - **Published**: August 21, 2026
-- **Summary**: Artificial Intelligence (AI) has become one of this decade's defining technologies. From healthcare and finance to manufacturing and education, organi...
-- [Read more](https://thehackernews.com/2026/08/wazuh-and-ai-for-enhanced-soc-workflows.html)
+- **Summary**: Check Point Research has disclosed a technique that uses Microsoft Defender's own legitimately signed boot-time remediation driver to perform arbitrar...
+- [Read more](https://thehackernews.com/2026/08/microsoft-defenders-own-driver-can-be.html)
 
-### Cisco Patches Nine Crosswork and Secure Workload Flaws, Five Scoring CVSS 10.0
+### Android Car Malware Spreads Through Built-In Updaters for Ad Fraud, Proxy Botnet
 - **Published**: August 21, 2026
-- **Summary**: Cisco has published another round of security updates for Crosswork platforms and Secure Workload Software as part of a continued comprehensive intern...
-- [Read more](https://thehackernews.com/2026/08/cisco-patches-nine-crosswork-and-secure.html)
+- **Summary**: Cybersecurity researchers have flagged a new malware family that's specifically designed to infect Android-based vehicle head unit firmware developed ...
+- [Read more](https://thehackernews.com/2026/08/android-car-malware-spreads-through.html)
 
 ---
 
