@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Codex on AWS bedrock bug causing 10x charges
+### Wazuh and AI For Enhanced SOC Workflows
 - **Published**: August 21, 2026
-- **Summary**: ......
-- **Keywords**: bug
-- [Read more](https://github.com/openai/codex/issues/37674)
+- **Summary**: Artificial Intelligence (AI) has become one of this decade's defining technologies. From healthcare and finance to manufacturing and education, organi...
+- [Read more](https://thehackernews.com/2026/08/wazuh-and-ai-for-enhanced-soc-workflows.html)
 
-### Microsoft Entra ID Flaw (CVSS 10.0) Exploited in Wild, Allows Remote Code Execution
+### Cisco Patches Nine Crosswork and Secure Workload Flaws, Five Scoring CVSS 10.0
 - **Published**: August 21, 2026
-- **Summary**: Microsoft on Thursday warned of a maximum-severity security flaw in Entra ID that it said has been exploited in the wild, but noted that no customer a...
-- [Read more](https://thehackernews.com/2026/08/microsoft-entra-id-flaw-cvss-100.html)
+- **Summary**: Cisco has published another round of security updates for Crosswork platforms and Secure Workload Software as part of a continued comprehensive intern...
+- [Read more](https://thehackernews.com/2026/08/cisco-patches-nine-crosswork-and-secure.html)
 
 ---
 
