@@ -16,15 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### New U.S. tariffs in effect after trade talks fail
+### High-Throughput Lean 4 Autoformalization Model for Local Inference
 - **Published**: August 22, 2026
-- **Summary**: https://www.cbc.ca/news/world/livestory/midnight-deadline-trump-tar......
-- [Read more](https://www.cbc.ca/news/world/livestory/midnight-deadline-trump-tariffs-trade-deal-leblanc-greer-9.7310605)
+- **Summary**: https://meshapplied.com/posts/lean4-autoformalization</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/ite......
+- [Read more](https://meshapplied.com/posts/lean4-autoformalization)
 
-### How Much of the Internet Is Written with AI?
+### How to Fingerprint AI Models When Prompts Lie
 - **Published**: August 22, 2026
-- **Summary**: https://www.pewresearch.org/data-labs/2026/08/20/how-much-of-the-internet-is-wri......
-- [Read more](https://www.pewresearch.org/data-labs/2026/08/20/how-much-of-the-internet-is-written-with-ai/)
+- **Summary**: https://openrating.io/blog/current-state-of-ai-model-fingerprinting</a></p>
+<p>Comments URL: <a href="http......
+- [Read more](https://openrating.io/blog/current-state-of-ai-model-fingerprinting)
 
 ---
 
