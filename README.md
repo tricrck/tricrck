@@ -16,15 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Microsoft Defender's Own Driver Can Be Weaponized to Delete Security Software at Boot
-- **Published**: August 21, 2026
-- **Summary**: Check Point Research has disclosed a technique that uses Microsoft Defender's own legitimately signed boot-time remediation driver to perform arbitrar...
-- [Read more](https://thehackernews.com/2026/08/microsoft-defenders-own-driver-can-be.html)
+### Open-source Zen Engine is out of beta
+- **Published**: August 22, 2026
+- **Summary**: https://docs.gorules.io/changelog</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49395619">https://news.ycombinator.......
+- [Read more](https://docs.gorules.io/changelog)
 
-### Android Car Malware Spreads Through Built-In Updaters for Ad Fraud, Proxy Botnet
-- **Published**: August 21, 2026
-- **Summary**: Cybersecurity researchers have flagged a new malware family that's specifically designed to infect Android-based vehicle head unit firmware developed ...
-- [Read more](https://thehackernews.com/2026/08/android-car-malware-spreads-through.html)
+### Initial focus for our partnership with Motorola is a regular non-folding device
+- **Published**: August 22, 2026
+- **Summary**: https://grapheneos.social/@GrapheneOS/117136278553665985</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.c......
+- [Read more](https://grapheneos.social/@GrapheneOS/117136278553665985)
 
 ---
 
