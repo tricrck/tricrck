@@ -16,17 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Open-source Zen Engine is out of beta
+### New U.S. tariffs in effect after trade talks fail
 - **Published**: August 22, 2026
-- **Summary**: https://docs.gorules.io/changelog</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49395619">https://news.ycombinator.......
-- [Read more](https://docs.gorules.io/changelog)
+- **Summary**: https://www.cbc.ca/news/world/livestory/midnight-deadline-trump-tar......
+- [Read more](https://www.cbc.ca/news/world/livestory/midnight-deadline-trump-tariffs-trade-deal-leblanc-greer-9.7310605)
 
-### Initial focus for our partnership with Motorola is a regular non-folding device
+### How Much of the Internet Is Written with AI?
 - **Published**: August 22, 2026
-- **Summary**: https://grapheneos.social/@GrapheneOS/117136278553665985</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.c......
-- [Read more](https://grapheneos.social/@GrapheneOS/117136278553665985)
+- **Summary**: https://www.pewresearch.org/data-labs/2026/08/20/how-much-of-the-internet-is-wri......
+- [Read more](https://www.pewresearch.org/data-labs/2026/08/20/how-much-of-the-internet-is-written-with-ai/)
 
 ---
 
