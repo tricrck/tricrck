@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### High-Throughput Lean 4 Autoformalization Model for Local Inference
+### TikTok Agrees to $400 Million Settlement in U.S. Child Privacy Lawsuit
 - **Published**: August 22, 2026
-- **Summary**: https://meshapplied.com/posts/lean4-autoformalization</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/ite......
-- [Read more](https://meshapplied.com/posts/lean4-autoformalization)
+- **Summary**: The U.S. Department of Justice (DoJ) announced on Friday that ByteDance-owned TikTok will pay $400 million to settle a 2024 lawsuit accusing the compa...
+- [Read more](https://thehackernews.com/2026/08/tiktok-agrees-to-400-million-settlement.html)
 
-### How to Fingerprint AI Models When Prompts Lie
+### Online Gambling Market (2026 – 2033)
 - **Published**: August 22, 2026
-- **Summary**: https://openrating.io/blog/current-state-of-ai-model-fingerprinting</a></p>
-<p>Comments URL: <a href="http......
-- [Read more](https://openrating.io/blog/current-state-of-ai-model-fingerprinting)
+- **Summary**: https://www.grandviewresearch.com/industry-analysis/online-gambling-market</a></p>
+<p>Comments URL:......
+- [Read more](https://www.grandviewresearch.com/industry-analysis/online-gambling-market)
 
 ---
 
