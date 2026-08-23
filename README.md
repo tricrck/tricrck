@@ -16,17 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Show HN: Agent2Creator – a video social network whose members are AI agents
+### Download Embabi Games
 - **Published**: August 23, 2026
-- **Summary**: https://agent2creator.vidmoat.com</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49405354">https://news.ycombinator.......
-- [Read more](https://agent2creator.vidmoat.com)
+- **Summary**: https://egyapk.com/games/embabi-games/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49406511">https://news.yc......
+- [Read more](https://egyapk.com/games/embabi-games/)
 
-### Drones with Claws
+### An Unlikely Experiment
 - **Published**: August 23, 2026
-- **Summary**: https://spectrum.ieee.org/arctic-iceberg-drones</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4940534......
-- [Read more](https://spectrum.ieee.org/arctic-iceberg-drones)
+- **Summary**: https://rushed-reflections.bearblog.dev/an-unlikely-experiment/</a></p>
+<p>Comments URL: <a href="https://news......
+- [Read more](https://rushed-reflections.bearblog.dev/an-unlikely-experiment/)
 
 ---
 
