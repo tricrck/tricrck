@@ -16,17 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Download Embabi Games
+### Sydney Marathon medal mistakenly depicts Munich stadium
 - **Published**: August 23, 2026
-- **Summary**: https://egyapk.com/games/embabi-games/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49406511">https://news.yc......
-- [Read more](https://egyapk.com/games/embabi-games/)
+- **Summary**: ......
+- [Read more](https://www.bbc.com/news/articles/cvg92y1wzn8o)
 
-### An Unlikely Experiment
+### Show HN: Live 3D satellite tracker and the declassified Pentagon UFO archive
 - **Published**: August 23, 2026
-- **Summary**: https://rushed-reflections.bearblog.dev/an-unlikely-experiment/</a></p>
-<p>Comments URL: <a href="https://news......
-- [Read more](https://rushed-reflections.bearblog.dev/an-unlikely-experiment/)
+- **Summary**: ......
+- [Read more](https://skylens.yantraai.app/)
 
 ---
 
