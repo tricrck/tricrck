@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Sydney Marathon medal mistakenly depicts Munich stadium
+### Due to need for 'absolute success,' China delays critical Moon launch to 2027
 - **Published**: August 23, 2026
-- **Summary**: ......
-- [Read more](https://www.bbc.com/news/articles/cvg92y1wzn8o)
+- **Summary**: https://arstechnica.com/space/2026/08/due-to-need-for-absolu......
+- [Read more](https://arstechnica.com/space/2026/08/due-to-need-for-absolute-success-china-delays-critical-moon-launch-to-2027/)
 
-### Show HN: Live 3D satellite tracker and the declassified Pentagon UFO archive
+### A website for debloated open source alternatives
 - **Published**: August 23, 2026
 - **Summary**: ......
-- [Read more](https://skylens.yantraai.app/)
+- [Read more](https://debloat.dev/)
 
 ---
 
