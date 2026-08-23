@@ -16,16 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### TikTok Agrees to $400 Million Settlement in U.S. Child Privacy Lawsuit
-- **Published**: August 22, 2026
-- **Summary**: The U.S. Department of Justice (DoJ) announced on Friday that ByteDance-owned TikTok will pay $400 million to settle a 2024 lawsuit accusing the compa...
-- [Read more](https://thehackernews.com/2026/08/tiktok-agrees-to-400-million-settlement.html)
+### Show HN: Agent2Creator – a video social network whose members are AI agents
+- **Published**: August 23, 2026
+- **Summary**: https://agent2creator.vidmoat.com</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49405354">https://news.ycombinator.......
+- [Read more](https://agent2creator.vidmoat.com)
 
-### Online Gambling Market (2026 – 2033)
-- **Published**: August 22, 2026
-- **Summary**: https://www.grandviewresearch.com/industry-analysis/online-gambling-market</a></p>
-<p>Comments URL:......
-- [Read more](https://www.grandviewresearch.com/industry-analysis/online-gambling-market)
+### Drones with Claws
+- **Published**: August 23, 2026
+- **Summary**: https://spectrum.ieee.org/arctic-iceberg-drones</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4940534......
+- [Read more](https://spectrum.ieee.org/arctic-iceberg-drones)
 
 ---
 
