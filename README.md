@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Due to need for 'absolute success,' China delays critical Moon launch to 2027
-- **Published**: August 23, 2026
-- **Summary**: https://arstechnica.com/space/2026/08/due-to-need-for-absolu......
-- [Read more](https://arstechnica.com/space/2026/08/due-to-need-for-absolute-success-china-delays-critical-moon-launch-to-2027/)
-
-### A website for debloated open source alternatives
+### Everything I own, owned
 - **Published**: August 23, 2026
 - **Summary**: ......
-- [Read more](https://debloat.dev/)
+- [Read more](https://schlarp.com/posts/everything-i-own-owned/)
+
+### Texas Gov. Greg Abbott says data centers 'dug their own grave'
+- **Published**: August 23, 2026
+- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1vwifxj/texas_gov_greg_abbott_says_data_centers_dug_their/"> <img alt="Texas Gov. Greg Abbo...
+- [Read more](https://www.reddit.com/r/technology/comments/1vwifxj/texas_gov_greg_abbott_says_data_centers_dug_their/)
 
 ---
 
