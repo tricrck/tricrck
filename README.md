@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### FDA clears blood test to aid evaluation for Alzheimer's disease
+### Shipping More AI Code Than You Can Secure? Watch How to Control Remediation Debt
 - **Published**: August 24, 2026
-- **Summary**: ......
-- [Read more](https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/)
+- **Summary**: If your developers are using AI coding tools, you are probably already seeing the upside: faster development, more code, and less time spent on routin...
+- [Read more](https://thehackernews.com/2026/08/shipping-more-ai-code-than-you-can.html)
 
-### AliExpress was silently running audio in your browser to fingerprint and track your device
+### Critical Keycloak Password Reset Flaw Could Let Unauthenticated Attackers Take Over Any Account
 - **Published**: August 24, 2026
-- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1vwqknk/aliexpress_was_silently_running_audio_in_your/"> <img alt="AliExpress was silently ...
-- [Read more](https://www.reddit.com/r/technology/comments/1vwqknk/aliexpress_was_silently_running_audio_in_your/)
+- **Summary**: Red Hat and the Keycloak project have released patches to address a critical security flaw in the open-source identity and access management server th...
+- [Read more](https://thehackernews.com/2026/08/critical-keycloak-password-reset-flaw.html)
 
 ---
 
