@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Everything I own, owned
-- **Published**: August 23, 2026
+### FDA clears blood test to aid evaluation for Alzheimer's disease
+- **Published**: August 24, 2026
 - **Summary**: ......
-- [Read more](https://schlarp.com/posts/everything-i-own-owned/)
+- [Read more](https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/)
 
-### Texas Gov. Greg Abbott says data centers 'dug their own grave'
-- **Published**: August 23, 2026
-- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1vwifxj/texas_gov_greg_abbott_says_data_centers_dug_their/"> <img alt="Texas Gov. Greg Abbo...
-- [Read more](https://www.reddit.com/r/technology/comments/1vwifxj/texas_gov_greg_abbott_says_data_centers_dug_their/)
+### AliExpress was silently running audio in your browser to fingerprint and track your device
+- **Published**: August 24, 2026
+- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1vwqknk/aliexpress_was_silently_running_audio_in_your/"> <img alt="AliExpress was silently ...
+- [Read more](https://www.reddit.com/r/technology/comments/1vwqknk/aliexpress_was_silently_running_audio_in_your/)
 
 ---
 
