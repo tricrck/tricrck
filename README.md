@@ -16,15 +16,18 @@
 
 ## 🚨 Tech Stories
 
-### Shipping More AI Code Than You Can Secure? Watch How to Control Remediation Debt
+### IPFS Maintainers Winding Down
 - **Published**: August 24, 2026
-- **Summary**: If your developers are using AI coding tools, you are probably already seeing the upside: faster development, more code, and less time spent on routin...
-- [Read more](https://thehackernews.com/2026/08/shipping-more-ai-code-than-you-can.html)
+- **Summary**: ......
+- **Keywords**: down
+- [Read more](https://ipshipyard.com/blog/2026-the-end-of-ipfs-at-shipyard/)
 
-### Critical Keycloak Password Reset Flaw Could Let Unauthenticated Attackers Take Over Any Account
+### ⚡ Weekly Recap: AI-Powered PLC Attacks, GitLab Attacks, Stripe Key Leaks and More
 - **Published**: August 24, 2026
-- **Summary**: Red Hat and the Keycloak project have released patches to address a critical security flaw in the open-source identity and access management server th...
-- [Read more](https://thehackernews.com/2026/08/critical-keycloak-password-reset-flaw.html)
+- **Summary**: A package gets installed. A login prompt opens. A box sits exposed to the internet. Nothing looks unusual yet.
+
+That’s roughly the mood this week. Tru...
+- [Read more](https://thehackernews.com/2026/08/weekly-recap-ai-powered-plc-attacks.html)
 
 ---
 
