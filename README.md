@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Actively Exploited Oracle WebLogic Flaw Lets Unauthenticated Attackers Access Critical Data
+### Buyer beware: Those mummified remains might carry toxic spores
 - **Published**: August 25, 2026
-- **Summary**: The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a maximum-severity security flaw impacting Oracle HTTP Server and Ora...
-- [Read more](https://thehackernews.com/2026/08/actively-exploited-oracle-weblogic-flaw.html)
+- **Summary**: https://arstechnica.com/science/2026/08/modern-trade-of-mummified-re......
+- [Read more](https://arstechnica.com/science/2026/08/modern-trade-of-mummified-remains-may-carry-its-own-mummys-curse/)
 
-### Hot Chips 2026: Intel's Diamond Rapids
+### Mirage2FA Surge Hits 4,500 US and EU Companies, Abusing Microsoft 365 Login Flows
 - **Published**: August 25, 2026
-- **Summary**: https://chipsandcheese.com/p/hot-chips-2026-intels-diamond-rapids</a></p>
-<p>Comments URL: <a href="https://......
-- [Read more](https://chipsandcheese.com/p/hot-chips-2026-intels-diamond-rapids)
+- **Summary**: Thousands of companies have been affected by the Mirage2FA campaign from 2024 to 2026. The commercial phishing-as-a-service toolkit targets Microsoft ...
+- [Read more](https://thehackernews.com/2026/08/mirage2fa-surge-hits-4500-us-and-eu.html)
 
 ---
 
