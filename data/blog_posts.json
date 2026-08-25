@@ -1,15 +1,127 @@
 {
   "chaos_ranked": [
     {
-      "title": "Buyer beware: Those mummified remains might carry toxic spores",
-      "link": "https://arstechnica.com/science/2026/08/modern-trade-of-mummified-remains-may-carry-its-own-mummys-curse/",
-      "summary": "<p>Article URL: <a href=\"https://arstechnica.com/science/2026/08/modern-trade-of-mummified-remains-may-carry-its-own-mummys-curse/\">https://arstechnica.com/science/2026/08/modern-trade-of-mummified-re...",
-      "published": "2026-08-25T12:42:59+00:00",
-      "domain": "arstechnica.com",
+      "title": "A Malicious Webpage Could Poison Your Local AI Model Behind NVIDIA NemoClaw",
+      "link": "https://thehackernews.com/2026/08/a-malicious-webpage-could-poison-your.html",
+      "summary": "Oasis Security has disclosed a weakness in NVIDIA NemoClaw that could let an attacker-controlled webpage take unauthenticated control of the local Ollama instance serving an AI agent and plant hidden ...",
+      "published": "2026-08-25T19:37:37+05:30",
+      "domain": "thehackernews.com",
       "scores": {
-        "chaos": 18.0,
-        "anarchy": 12.0,
-        "overall": 15.0
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "WhatsApp Adds Multiple Passkeys for Phishing-Resistant Sign-Ins Across iOS and Android",
+      "link": "https://thehackernews.com/2026/08/whatsapp-adds-multiple-passkeys-for.html",
+      "summary": "Meta on Tuesday announced a set of WhatsApp account security features, including support for multiple passkeys to a single account to help users with both iOS and Android devices sign into their accou...",
+      "published": "2026-08-25T18:49:41+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Pgbot: A 5.9 MB read-only Postgres tool for humans and agents",
+      "link": "https://pgbot.dev/",
+      "summary": "<p>Article URL: <a href=\"https://pgbot.dev/\">https://pgbot.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49438492\">https://news.ycombinator.com/item?id=49438492</a></p>\n<...",
+      "published": "2026-08-25T18:30:57+00:00",
+      "domain": "pgbot.dev",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Rollercoaster Tycoon Wonderworks \u2013 Official Early Access Announcement Trailer [video]",
+      "link": "https://www.youtube.com/watch?v=QWsU277r8OM",
+      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=QWsU277r8OM\">https://www.youtube.com/watch?v=QWsU277r8OM</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49438489\">https...",
+      "published": "2026-08-25T18:30:42+00:00",
+      "domain": "youtube.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Space Invaders in COBOL on an IBM 3270 [video]",
+      "link": "https://www.youtube.com/watch?v=GvLsOkOgPA0",
+      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=GvLsOkOgPA0\">https://www.youtube.com/watch?v=GvLsOkOgPA0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49438474\">https...",
+      "published": "2026-08-25T18:29:42+00:00",
+      "domain": "youtube.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Key Recovery from Residue-Confined Errors in the Pradhan CRT-RLWE Construction",
+      "link": "https://eprint.iacr.org/2026/1734",
+      "summary": "<p>Article URL: <a href=\"https://eprint.iacr.org/2026/1734\">https://eprint.iacr.org/2026/1734</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49438471\">https://news.ycombinator....",
+      "published": "2026-08-25T18:29:32+00:00",
+      "domain": "eprint.iacr.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Report of MIT's Committee on AI Use in Teaching, Learning, and Research Training",
+      "link": "https://aiandeducation.mit.edu/",
+      "summary": "<p>Article URL: <a href=\"https://aiandeducation.mit.edu/\">https://aiandeducation.mit.edu/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49438466\">https://news.ycombinator.com/...",
+      "published": "2026-08-25T18:29:18+00:00",
+      "domain": "aiandeducation.mit.edu",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Marimo Notebook Flaw Could Run MCP Commands Before Cells Execute in Edit Mode",
+      "link": "https://thehackernews.com/2026/08/marimo-notebook-flaw-could-run-mcp.html",
+      "summary": "Marimo has addressed a high-severity security flaw in its notebook software that allowed an attacker to execute an attacker-supplied Model Context Protocol (MCP) command in a specially crafted noteboo...",
+      "published": "2026-08-25T18:13:51+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
       },
       "keywords": {
         "chaos": [],
@@ -38,120 +150,6 @@
       "summary": "Cybersecurity researchers have disclosed details of a new campaign that uses a cluster of 24 npm packages as free phishing infrastructure for redirecting to ClickFix-style fake CAPTCHA pages.\n\n\"While ...",
       "published": "2026-08-25T17:22:43+05:30",
       "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "E4del and PINHOLE RATs Turn FTP Banners Into Dead Drops for Malware Commands",
-      "link": "https://thehackernews.com/2026/08/e4del-and-pinhole-rats-turn-ftp-banners.html",
-      "summary": "Cybersecurity researchers are calling attention to a new campaign that employs FTP banners as dead drop resolvers (DDRs) to deliver two previously unreported remote access trojans (RATs) tracked as E4...",
-      "published": "2026-08-25T17:03:44+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Frontier AI: Vulnerability Management's Systemic Revolution",
-      "link": "https://thehackernews.com/2026/08/frontier-ai-vulnerability-managements.html",
-      "summary": "Vulnerability management has been a staple of security programs since the dawn of the cybersecurity discipline. The symbiotic relationship between vulnerability and patch management teams has also exi...",
-      "published": "2026-08-25T16:44:07+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 21.0,
-        "overall": 12.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": [
-          "revolution"
-        ]
-      }
-    },
-    {
-      "title": "Attackers Target miniOrange SAML Flaws That Can Grant WordPress Admin Access",
-      "link": "https://thehackernews.com/2026/08/attackers-target-miniorange-saml-flaws.html",
-      "summary": "Bad actors are attempting to exploit two severe unauthenticated authentication bypasses in the Xecurify miniOrange SAML 2.0 Single Sign On plugin that make it possible for an attacker to sign in as an...",
-      "published": "2026-08-25T14:04:07+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "France's tax agency got hacked (in French)",
-      "link": "https://www.cybernetica.fr/piratage-des-impots-comment-en-est-on-arrive-la/",
-      "summary": "<p>Article URL: <a href=\"https://www.cybernetica.fr/piratage-des-impots-comment-en-est-on-arrive-la/\">https://www.cybernetica.fr/piratage-des-impots-comment-en-est-on-arrive-la/</a></p>\n<p>Comments UR...",
-      "published": "2026-08-25T12:44:35+00:00",
-      "domain": "cybernetica.fr",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Hot Chips 2026: Micron warns HBM wafer penalty is widening with every generation",
-      "link": "https://www.tomshardware.com/tech-industry/semiconductors/micron-says-the-silicon-gap-between-hbm-and-ddr5-is-widening-with-every-generation",
-      "summary": "<p>Article URL: <a href=\"https://www.tomshardware.com/tech-industry/semiconductors/micron-says-the-silicon-gap-between-hbm-and-ddr5-is-widening-with-every-generation\">https://www.tomshardware.com/tech...",
-      "published": "2026-08-25T12:43:41+00:00",
-      "domain": "tomshardware.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Let the Bond Market Speak",
-      "link": "https://www.wsj.com/opinion/let-the-bond-market-speak-81529d74",
-      "summary": "<p>Article URL: <a href=\"https://www.wsj.com/opinion/let-the-bond-market-speak-81529d74\">https://www.wsj.com/opinion/let-the-bond-market-speak-81529d74</a></p>\n<p>Comments URL: <a href=\"https://news.y...",
-      "published": "2026-08-25T12:43:14+00:00",
-      "domain": "wsj.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "NASA Live Space Walk W Sophie Adenot and Anil Menon",
-      "link": "https://www.youtube.com/watch?v=I0j7as4MLHk",
-      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=I0j7as4MLHk\">https://www.youtube.com/watch?v=I0j7as4MLHk</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49433030\">https...",
-      "published": "2026-08-25T12:42:25+00:00",
-      "domain": "youtube.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -165,33 +163,127 @@
   ],
   "anarchy_ranked": [
     {
-      "title": "Frontier AI: Vulnerability Management's Systemic Revolution",
-      "link": "https://thehackernews.com/2026/08/frontier-ai-vulnerability-managements.html",
-      "summary": "Vulnerability management has been a staple of security programs since the dawn of the cybersecurity discipline. The symbiotic relationship between vulnerability and patch management teams has also exi...",
-      "published": "2026-08-25T16:44:07+05:30",
+      "title": "A Malicious Webpage Could Poison Your Local AI Model Behind NVIDIA NemoClaw",
+      "link": "https://thehackernews.com/2026/08/a-malicious-webpage-could-poison-your.html",
+      "summary": "Oasis Security has disclosed a weakness in NVIDIA NemoClaw that could let an attacker-controlled webpage take unauthenticated control of the local Ollama instance serving an AI agent and plant hidden ...",
+      "published": "2026-08-25T19:37:37+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
-        "anarchy": 21.0,
-        "overall": 12.0
+        "anarchy": 3.0,
+        "overall": 3.0
       },
       "keywords": {
         "chaos": [],
-        "anarchy": [
-          "revolution"
-        ]
+        "anarchy": []
       }
     },
     {
-      "title": "Buyer beware: Those mummified remains might carry toxic spores",
-      "link": "https://arstechnica.com/science/2026/08/modern-trade-of-mummified-remains-may-carry-its-own-mummys-curse/",
-      "summary": "<p>Article URL: <a href=\"https://arstechnica.com/science/2026/08/modern-trade-of-mummified-remains-may-carry-its-own-mummys-curse/\">https://arstechnica.com/science/2026/08/modern-trade-of-mummified-re...",
-      "published": "2026-08-25T12:42:59+00:00",
-      "domain": "arstechnica.com",
+      "title": "WhatsApp Adds Multiple Passkeys for Phishing-Resistant Sign-Ins Across iOS and Android",
+      "link": "https://thehackernews.com/2026/08/whatsapp-adds-multiple-passkeys-for.html",
+      "summary": "Meta on Tuesday announced a set of WhatsApp account security features, including support for multiple passkeys to a single account to help users with both iOS and Android devices sign into their accou...",
+      "published": "2026-08-25T18:49:41+05:30",
+      "domain": "thehackernews.com",
       "scores": {
-        "chaos": 18.0,
-        "anarchy": 12.0,
-        "overall": 15.0
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Pgbot: A 5.9 MB read-only Postgres tool for humans and agents",
+      "link": "https://pgbot.dev/",
+      "summary": "<p>Article URL: <a href=\"https://pgbot.dev/\">https://pgbot.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49438492\">https://news.ycombinator.com/item?id=49438492</a></p>\n<...",
+      "published": "2026-08-25T18:30:57+00:00",
+      "domain": "pgbot.dev",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Rollercoaster Tycoon Wonderworks \u2013 Official Early Access Announcement Trailer [video]",
+      "link": "https://www.youtube.com/watch?v=QWsU277r8OM",
+      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=QWsU277r8OM\">https://www.youtube.com/watch?v=QWsU277r8OM</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49438489\">https...",
+      "published": "2026-08-25T18:30:42+00:00",
+      "domain": "youtube.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Space Invaders in COBOL on an IBM 3270 [video]",
+      "link": "https://www.youtube.com/watch?v=GvLsOkOgPA0",
+      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=GvLsOkOgPA0\">https://www.youtube.com/watch?v=GvLsOkOgPA0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49438474\">https...",
+      "published": "2026-08-25T18:29:42+00:00",
+      "domain": "youtube.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Key Recovery from Residue-Confined Errors in the Pradhan CRT-RLWE Construction",
+      "link": "https://eprint.iacr.org/2026/1734",
+      "summary": "<p>Article URL: <a href=\"https://eprint.iacr.org/2026/1734\">https://eprint.iacr.org/2026/1734</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49438471\">https://news.ycombinator....",
+      "published": "2026-08-25T18:29:32+00:00",
+      "domain": "eprint.iacr.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Report of MIT's Committee on AI Use in Teaching, Learning, and Research Training",
+      "link": "https://aiandeducation.mit.edu/",
+      "summary": "<p>Article URL: <a href=\"https://aiandeducation.mit.edu/\">https://aiandeducation.mit.edu/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49438466\">https://news.ycombinator.com/...",
+      "published": "2026-08-25T18:29:18+00:00",
+      "domain": "aiandeducation.mit.edu",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Marimo Notebook Flaw Could Run MCP Commands Before Cells Execute in Edit Mode",
+      "link": "https://thehackernews.com/2026/08/marimo-notebook-flaw-could-run-mcp.html",
+      "summary": "Marimo has addressed a high-severity security flaw in its notebook software that allowed an attacker to execute an attacker-supplied Model Context Protocol (MCP) command in a specially crafted noteboo...",
+      "published": "2026-08-25T18:13:51+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
       },
       "keywords": {
         "chaos": [],
@@ -220,102 +312,6 @@
       "summary": "Cybersecurity researchers have disclosed details of a new campaign that uses a cluster of 24 npm packages as free phishing infrastructure for redirecting to ClickFix-style fake CAPTCHA pages.\n\n\"While ...",
       "published": "2026-08-25T17:22:43+05:30",
       "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "E4del and PINHOLE RATs Turn FTP Banners Into Dead Drops for Malware Commands",
-      "link": "https://thehackernews.com/2026/08/e4del-and-pinhole-rats-turn-ftp-banners.html",
-      "summary": "Cybersecurity researchers are calling attention to a new campaign that employs FTP banners as dead drop resolvers (DDRs) to deliver two previously unreported remote access trojans (RATs) tracked as E4...",
-      "published": "2026-08-25T17:03:44+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Attackers Target miniOrange SAML Flaws That Can Grant WordPress Admin Access",
-      "link": "https://thehackernews.com/2026/08/attackers-target-miniorange-saml-flaws.html",
-      "summary": "Bad actors are attempting to exploit two severe unauthenticated authentication bypasses in the Xecurify miniOrange SAML 2.0 Single Sign On plugin that make it possible for an attacker to sign in as an...",
-      "published": "2026-08-25T14:04:07+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "France's tax agency got hacked (in French)",
-      "link": "https://www.cybernetica.fr/piratage-des-impots-comment-en-est-on-arrive-la/",
-      "summary": "<p>Article URL: <a href=\"https://www.cybernetica.fr/piratage-des-impots-comment-en-est-on-arrive-la/\">https://www.cybernetica.fr/piratage-des-impots-comment-en-est-on-arrive-la/</a></p>\n<p>Comments UR...",
-      "published": "2026-08-25T12:44:35+00:00",
-      "domain": "cybernetica.fr",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Hot Chips 2026: Micron warns HBM wafer penalty is widening with every generation",
-      "link": "https://www.tomshardware.com/tech-industry/semiconductors/micron-says-the-silicon-gap-between-hbm-and-ddr5-is-widening-with-every-generation",
-      "summary": "<p>Article URL: <a href=\"https://www.tomshardware.com/tech-industry/semiconductors/micron-says-the-silicon-gap-between-hbm-and-ddr5-is-widening-with-every-generation\">https://www.tomshardware.com/tech...",
-      "published": "2026-08-25T12:43:41+00:00",
-      "domain": "tomshardware.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Let the Bond Market Speak",
-      "link": "https://www.wsj.com/opinion/let-the-bond-market-speak-81529d74",
-      "summary": "<p>Article URL: <a href=\"https://www.wsj.com/opinion/let-the-bond-market-speak-81529d74\">https://www.wsj.com/opinion/let-the-bond-market-speak-81529d74</a></p>\n<p>Comments URL: <a href=\"https://news.y...",
-      "published": "2026-08-25T12:43:14+00:00",
-      "domain": "wsj.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "NASA Live Space Walk W Sophie Adenot and Anil Menon",
-      "link": "https://www.youtube.com/watch?v=I0j7as4MLHk",
-      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=I0j7as4MLHk\">https://www.youtube.com/watch?v=I0j7as4MLHk</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49433030\">https...",
-      "published": "2026-08-25T12:42:25+00:00",
-      "domain": "youtube.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -329,15 +325,15 @@
   ],
   "overall_ranked": [
     {
-      "title": "Buyer beware: Those mummified remains might carry toxic spores",
-      "link": "https://arstechnica.com/science/2026/08/modern-trade-of-mummified-remains-may-carry-its-own-mummys-curse/",
-      "summary": "<p>Article URL: <a href=\"https://arstechnica.com/science/2026/08/modern-trade-of-mummified-remains-may-carry-its-own-mummys-curse/\">https://arstechnica.com/science/2026/08/modern-trade-of-mummified-re...",
-      "published": "2026-08-25T12:42:59+00:00",
-      "domain": "arstechnica.com",
+      "title": "A Malicious Webpage Could Poison Your Local AI Model Behind NVIDIA NemoClaw",
+      "link": "https://thehackernews.com/2026/08/a-malicious-webpage-could-poison-your.html",
+      "summary": "Oasis Security has disclosed a weakness in NVIDIA NemoClaw that could let an attacker-controlled webpage take unauthenticated control of the local Ollama instance serving an AI agent and plant hidden ...",
+      "published": "2026-08-25T19:37:37+05:30",
+      "domain": "thehackernews.com",
       "scores": {
-        "chaos": 18.0,
-        "anarchy": 12.0,
-        "overall": 15.0
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
       },
       "keywords": {
         "chaos": [],
@@ -345,21 +341,115 @@
       }
     },
     {
-      "title": "Frontier AI: Vulnerability Management's Systemic Revolution",
-      "link": "https://thehackernews.com/2026/08/frontier-ai-vulnerability-managements.html",
-      "summary": "Vulnerability management has been a staple of security programs since the dawn of the cybersecurity discipline. The symbiotic relationship between vulnerability and patch management teams has also exi...",
-      "published": "2026-08-25T16:44:07+05:30",
+      "title": "WhatsApp Adds Multiple Passkeys for Phishing-Resistant Sign-Ins Across iOS and Android",
+      "link": "https://thehackernews.com/2026/08/whatsapp-adds-multiple-passkeys-for.html",
+      "summary": "Meta on Tuesday announced a set of WhatsApp account security features, including support for multiple passkeys to a single account to help users with both iOS and Android devices sign into their accou...",
+      "published": "2026-08-25T18:49:41+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
-        "anarchy": 21.0,
-        "overall": 12.0
+        "anarchy": 3.0,
+        "overall": 3.0
       },
       "keywords": {
         "chaos": [],
-        "anarchy": [
-          "revolution"
-        ]
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Pgbot: A 5.9 MB read-only Postgres tool for humans and agents",
+      "link": "https://pgbot.dev/",
+      "summary": "<p>Article URL: <a href=\"https://pgbot.dev/\">https://pgbot.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49438492\">https://news.ycombinator.com/item?id=49438492</a></p>\n<...",
+      "published": "2026-08-25T18:30:57+00:00",
+      "domain": "pgbot.dev",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Rollercoaster Tycoon Wonderworks \u2013 Official Early Access Announcement Trailer [video]",
+      "link": "https://www.youtube.com/watch?v=QWsU277r8OM",
+      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=QWsU277r8OM\">https://www.youtube.com/watch?v=QWsU277r8OM</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49438489\">https...",
+      "published": "2026-08-25T18:30:42+00:00",
+      "domain": "youtube.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Space Invaders in COBOL on an IBM 3270 [video]",
+      "link": "https://www.youtube.com/watch?v=GvLsOkOgPA0",
+      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=GvLsOkOgPA0\">https://www.youtube.com/watch?v=GvLsOkOgPA0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49438474\">https...",
+      "published": "2026-08-25T18:29:42+00:00",
+      "domain": "youtube.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Key Recovery from Residue-Confined Errors in the Pradhan CRT-RLWE Construction",
+      "link": "https://eprint.iacr.org/2026/1734",
+      "summary": "<p>Article URL: <a href=\"https://eprint.iacr.org/2026/1734\">https://eprint.iacr.org/2026/1734</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49438471\">https://news.ycombinator....",
+      "published": "2026-08-25T18:29:32+00:00",
+      "domain": "eprint.iacr.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Report of MIT's Committee on AI Use in Teaching, Learning, and Research Training",
+      "link": "https://aiandeducation.mit.edu/",
+      "summary": "<p>Article URL: <a href=\"https://aiandeducation.mit.edu/\">https://aiandeducation.mit.edu/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49438466\">https://news.ycombinator.com/...",
+      "published": "2026-08-25T18:29:18+00:00",
+      "domain": "aiandeducation.mit.edu",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Marimo Notebook Flaw Could Run MCP Commands Before Cells Execute in Edit Mode",
+      "link": "https://thehackernews.com/2026/08/marimo-notebook-flaw-could-run-mcp.html",
+      "summary": "Marimo has addressed a high-severity security flaw in its notebook software that allowed an attacker to execute an attacker-supplied Model Context Protocol (MCP) command in a specially crafted noteboo...",
+      "published": "2026-08-25T18:13:51+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
       }
     },
     {
@@ -384,102 +474,6 @@
       "summary": "Cybersecurity researchers have disclosed details of a new campaign that uses a cluster of 24 npm packages as free phishing infrastructure for redirecting to ClickFix-style fake CAPTCHA pages.\n\n\"While ...",
       "published": "2026-08-25T17:22:43+05:30",
       "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "E4del and PINHOLE RATs Turn FTP Banners Into Dead Drops for Malware Commands",
-      "link": "https://thehackernews.com/2026/08/e4del-and-pinhole-rats-turn-ftp-banners.html",
-      "summary": "Cybersecurity researchers are calling attention to a new campaign that employs FTP banners as dead drop resolvers (DDRs) to deliver two previously unreported remote access trojans (RATs) tracked as E4...",
-      "published": "2026-08-25T17:03:44+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Attackers Target miniOrange SAML Flaws That Can Grant WordPress Admin Access",
-      "link": "https://thehackernews.com/2026/08/attackers-target-miniorange-saml-flaws.html",
-      "summary": "Bad actors are attempting to exploit two severe unauthenticated authentication bypasses in the Xecurify miniOrange SAML 2.0 Single Sign On plugin that make it possible for an attacker to sign in as an...",
-      "published": "2026-08-25T14:04:07+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "France's tax agency got hacked (in French)",
-      "link": "https://www.cybernetica.fr/piratage-des-impots-comment-en-est-on-arrive-la/",
-      "summary": "<p>Article URL: <a href=\"https://www.cybernetica.fr/piratage-des-impots-comment-en-est-on-arrive-la/\">https://www.cybernetica.fr/piratage-des-impots-comment-en-est-on-arrive-la/</a></p>\n<p>Comments UR...",
-      "published": "2026-08-25T12:44:35+00:00",
-      "domain": "cybernetica.fr",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Hot Chips 2026: Micron warns HBM wafer penalty is widening with every generation",
-      "link": "https://www.tomshardware.com/tech-industry/semiconductors/micron-says-the-silicon-gap-between-hbm-and-ddr5-is-widening-with-every-generation",
-      "summary": "<p>Article URL: <a href=\"https://www.tomshardware.com/tech-industry/semiconductors/micron-says-the-silicon-gap-between-hbm-and-ddr5-is-widening-with-every-generation\">https://www.tomshardware.com/tech...",
-      "published": "2026-08-25T12:43:41+00:00",
-      "domain": "tomshardware.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Let the Bond Market Speak",
-      "link": "https://www.wsj.com/opinion/let-the-bond-market-speak-81529d74",
-      "summary": "<p>Article URL: <a href=\"https://www.wsj.com/opinion/let-the-bond-market-speak-81529d74\">https://www.wsj.com/opinion/let-the-bond-market-speak-81529d74</a></p>\n<p>Comments URL: <a href=\"https://news.y...",
-      "published": "2026-08-25T12:43:14+00:00",
-      "domain": "wsj.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "NASA Live Space Walk W Sophie Adenot and Anil Menon",
-      "link": "https://www.youtube.com/watch?v=I0j7as4MLHk",
-      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=I0j7as4MLHk\">https://www.youtube.com/watch?v=I0j7as4MLHk</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49433030\">https...",
-      "published": "2026-08-25T12:42:25+00:00",
-      "domain": "youtube.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -493,6 +487,134 @@
   ],
   "all_articles": [
     {
+      "title": "A Malicious Webpage Could Poison Your Local AI Model Behind NVIDIA NemoClaw",
+      "link": "https://thehackernews.com/2026/08/a-malicious-webpage-could-poison-your.html",
+      "summary": "Oasis Security has disclosed a weakness in NVIDIA NemoClaw that could let an attacker-controlled webpage take unauthenticated control of the local Ollama instance serving an AI agent and plant hidden ...",
+      "published": "2026-08-25T19:37:37+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "WhatsApp Adds Multiple Passkeys for Phishing-Resistant Sign-Ins Across iOS and Android",
+      "link": "https://thehackernews.com/2026/08/whatsapp-adds-multiple-passkeys-for.html",
+      "summary": "Meta on Tuesday announced a set of WhatsApp account security features, including support for multiple passkeys to a single account to help users with both iOS and Android devices sign into their accou...",
+      "published": "2026-08-25T18:49:41+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Pgbot: A 5.9 MB read-only Postgres tool for humans and agents",
+      "link": "https://pgbot.dev/",
+      "summary": "<p>Article URL: <a href=\"https://pgbot.dev/\">https://pgbot.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49438492\">https://news.ycombinator.com/item?id=49438492</a></p>\n<...",
+      "published": "2026-08-25T18:30:57+00:00",
+      "domain": "pgbot.dev",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Rollercoaster Tycoon Wonderworks \u2013 Official Early Access Announcement Trailer [video]",
+      "link": "https://www.youtube.com/watch?v=QWsU277r8OM",
+      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=QWsU277r8OM\">https://www.youtube.com/watch?v=QWsU277r8OM</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49438489\">https...",
+      "published": "2026-08-25T18:30:42+00:00",
+      "domain": "youtube.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Space Invaders in COBOL on an IBM 3270 [video]",
+      "link": "https://www.youtube.com/watch?v=GvLsOkOgPA0",
+      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=GvLsOkOgPA0\">https://www.youtube.com/watch?v=GvLsOkOgPA0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49438474\">https...",
+      "published": "2026-08-25T18:29:42+00:00",
+      "domain": "youtube.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Key Recovery from Residue-Confined Errors in the Pradhan CRT-RLWE Construction",
+      "link": "https://eprint.iacr.org/2026/1734",
+      "summary": "<p>Article URL: <a href=\"https://eprint.iacr.org/2026/1734\">https://eprint.iacr.org/2026/1734</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49438471\">https://news.ycombinator....",
+      "published": "2026-08-25T18:29:32+00:00",
+      "domain": "eprint.iacr.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Report of MIT's Committee on AI Use in Teaching, Learning, and Research Training",
+      "link": "https://aiandeducation.mit.edu/",
+      "summary": "<p>Article URL: <a href=\"https://aiandeducation.mit.edu/\">https://aiandeducation.mit.edu/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49438466\">https://news.ycombinator.com/...",
+      "published": "2026-08-25T18:29:18+00:00",
+      "domain": "aiandeducation.mit.edu",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Marimo Notebook Flaw Could Run MCP Commands Before Cells Execute in Edit Mode",
+      "link": "https://thehackernews.com/2026/08/marimo-notebook-flaw-could-run-mcp.html",
+      "summary": "Marimo has addressed a high-severity security flaw in its notebook software that allowed an attacker to execute an attacker-supplied Model Context Protocol (MCP) command in a specially crafted noteboo...",
+      "published": "2026-08-25T18:13:51+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "Mirage2FA Surge Hits 4,500 US and EU Companies, Abusing Microsoft 365 Login Flows",
       "link": "https://thehackernews.com/2026/08/mirage2fa-surge-hits-4500-us-and-eu.html",
       "summary": "Thousands of companies have been affected by the Mirage2FA campaign from 2024 to 2026. The commercial phishing-as-a-service toolkit targets Microsoft 365 accounts by abusing legitimate login flows and...",
@@ -514,136 +636,6 @@
       "summary": "Cybersecurity researchers have disclosed details of a new campaign that uses a cluster of 24 npm packages as free phishing infrastructure for redirecting to ClickFix-style fake CAPTCHA pages.\n\n\"While ...",
       "published": "2026-08-25T17:22:43+05:30",
       "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "E4del and PINHOLE RATs Turn FTP Banners Into Dead Drops for Malware Commands",
-      "link": "https://thehackernews.com/2026/08/e4del-and-pinhole-rats-turn-ftp-banners.html",
-      "summary": "Cybersecurity researchers are calling attention to a new campaign that employs FTP banners as dead drop resolvers (DDRs) to deliver two previously unreported remote access trojans (RATs) tracked as E4...",
-      "published": "2026-08-25T17:03:44+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Frontier AI: Vulnerability Management's Systemic Revolution",
-      "link": "https://thehackernews.com/2026/08/frontier-ai-vulnerability-managements.html",
-      "summary": "Vulnerability management has been a staple of security programs since the dawn of the cybersecurity discipline. The symbiotic relationship between vulnerability and patch management teams has also exi...",
-      "published": "2026-08-25T16:44:07+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 21.0,
-        "overall": 12.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": [
-          "revolution"
-        ]
-      }
-    },
-    {
-      "title": "Attackers Target miniOrange SAML Flaws That Can Grant WordPress Admin Access",
-      "link": "https://thehackernews.com/2026/08/attackers-target-miniorange-saml-flaws.html",
-      "summary": "Bad actors are attempting to exploit two severe unauthenticated authentication bypasses in the Xecurify miniOrange SAML 2.0 Single Sign On plugin that make it possible for an attacker to sign in as an...",
-      "published": "2026-08-25T14:04:07+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "France's tax agency got hacked (in French)",
-      "link": "https://www.cybernetica.fr/piratage-des-impots-comment-en-est-on-arrive-la/",
-      "summary": "<p>Article URL: <a href=\"https://www.cybernetica.fr/piratage-des-impots-comment-en-est-on-arrive-la/\">https://www.cybernetica.fr/piratage-des-impots-comment-en-est-on-arrive-la/</a></p>\n<p>Comments UR...",
-      "published": "2026-08-25T12:44:35+00:00",
-      "domain": "cybernetica.fr",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Hot Chips 2026: Micron warns HBM wafer penalty is widening with every generation",
-      "link": "https://www.tomshardware.com/tech-industry/semiconductors/micron-says-the-silicon-gap-between-hbm-and-ddr5-is-widening-with-every-generation",
-      "summary": "<p>Article URL: <a href=\"https://www.tomshardware.com/tech-industry/semiconductors/micron-says-the-silicon-gap-between-hbm-and-ddr5-is-widening-with-every-generation\">https://www.tomshardware.com/tech...",
-      "published": "2026-08-25T12:43:41+00:00",
-      "domain": "tomshardware.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Let the Bond Market Speak",
-      "link": "https://www.wsj.com/opinion/let-the-bond-market-speak-81529d74",
-      "summary": "<p>Article URL: <a href=\"https://www.wsj.com/opinion/let-the-bond-market-speak-81529d74\">https://www.wsj.com/opinion/let-the-bond-market-speak-81529d74</a></p>\n<p>Comments URL: <a href=\"https://news.y...",
-      "published": "2026-08-25T12:43:14+00:00",
-      "domain": "wsj.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Buyer beware: Those mummified remains might carry toxic spores",
-      "link": "https://arstechnica.com/science/2026/08/modern-trade-of-mummified-remains-may-carry-its-own-mummys-curse/",
-      "summary": "<p>Article URL: <a href=\"https://arstechnica.com/science/2026/08/modern-trade-of-mummified-remains-may-carry-its-own-mummys-curse/\">https://arstechnica.com/science/2026/08/modern-trade-of-mummified-re...",
-      "published": "2026-08-25T12:42:59+00:00",
-      "domain": "arstechnica.com",
-      "scores": {
-        "chaos": 18.0,
-        "anarchy": 12.0,
-        "overall": 15.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "NASA Live Space Walk W Sophie Adenot and Anil Menon",
-      "link": "https://www.youtube.com/watch?v=I0j7as4MLHk",
-      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=I0j7as4MLHk\">https://www.youtube.com/watch?v=I0j7as4MLHk</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49433030\">https...",
-      "published": "2026-08-25T12:42:25+00:00",
-      "domain": "youtube.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
