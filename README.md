@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Data Centre Slumlord
+### Actively Exploited Oracle WebLogic Flaw Lets Unauthenticated Attackers Access Critical Data
 - **Published**: August 25, 2026
-- **Summary**: https://binary-mirror.itch.io/data-centre-slumlord</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4......
-- [Read more](https://binary-mirror.itch.io/data-centre-slumlord)
+- **Summary**: The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a maximum-severity security flaw impacting Oracle HTTP Server and Ora...
+- [Read more](https://thehackernews.com/2026/08/actively-exploited-oracle-weblogic-flaw.html)
 
-### Nvidia says Groq racks will be online this year following $20B purchase
+### Hot Chips 2026: Intel's Diamond Rapids
 - **Published**: August 25, 2026
-- **Summary**: https://www.cnbc.com/2026/08/24/nvidia-says-groq-racks-will-be-onli......
-- [Read more](https://www.cnbc.com/2026/08/24/nvidia-says-groq-racks-will-be-online-this-year-after-20-billion-deal.html)
+- **Summary**: https://chipsandcheese.com/p/hot-chips-2026-intels-diamond-rapids</a></p>
+<p>Comments URL: <a href="https://......
+- [Read more](https://chipsandcheese.com/p/hot-chips-2026-intels-diamond-rapids)
 
 ---
 
