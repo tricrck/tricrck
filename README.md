@@ -16,15 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### A Malicious Webpage Could Poison Your Local AI Model Behind NVIDIA NemoClaw
-- **Published**: August 25, 2026
-- **Summary**: Oasis Security has disclosed a weakness in NVIDIA NemoClaw that could let an attacker-controlled webpage take unauthenticated control of the local Oll...
-- [Read more](https://thehackernews.com/2026/08/a-malicious-webpage-could-poison-your.html)
+### Nintendo fan loses nearly complete NES collection in 'heartbreaking' theft
+- **Published**: August 26, 2026
+- **Summary**: https://www.polygon.com/nintendo-game-collection-stolen-from-washington-home/</a></p>
+<p>Comment......
+- [Read more](https://www.polygon.com/nintendo-game-collection-stolen-from-washington-home/)
 
-### WhatsApp Adds Multiple Passkeys for Phishing-Resistant Sign-Ins Across iOS and Android
-- **Published**: August 25, 2026
-- **Summary**: Meta on Tuesday announced a set of WhatsApp account security features, including support for multiple passkeys to a single account to help users with ...
-- [Read more](https://thehackernews.com/2026/08/whatsapp-adds-multiple-passkeys-for.html)
+### Cookie started its life as a plastic bottle
+- **Published**: August 26, 2026
+- **Summary**: https://www.acs.org/pressroom/presspacs/2026/august/this-cookie-star......
+- [Read more](https://www.acs.org/pressroom/presspacs/2026/august/this-cookie-started-its-life-as-a-plastic-bottle.html)
 
 ---
 
