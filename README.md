@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Nintendo fan loses nearly complete NES collection in 'heartbreaking' theft
+### Weaponizing Defender's Remediation Driver as a Kernel Operation Primitive
 - **Published**: August 26, 2026
-- **Summary**: https://www.polygon.com/nintendo-game-collection-stolen-from-washington-home/</a></p>
-<p>Comment......
-- [Read more](https://www.polygon.com/nintendo-game-collection-stolen-from-washington-home/)
+- **Summary**: https://research.checkpoint.com/2026/btr-reforged-......
+- [Read more](https://research.checkpoint.com/2026/btr-reforged-weaponizing-defenders-remediation-driver-as-a-kernel-operation-primitive/)
 
-### Cookie started its life as a plastic bottle
+### DumpsterCluster: From Dumpster Diving to Serving Llama-70B on $60 GPUs
 - **Published**: August 26, 2026
-- **Summary**: https://www.acs.org/pressroom/presspacs/2026/august/this-cookie-star......
-- [Read more](https://www.acs.org/pressroom/presspacs/2026/august/this-cookie-started-its-life-as-a-plastic-bottle.html)
+- **Summary**: https://arxiv.org/abs/2608.14614</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49444874">https://news.ycombinator.co......
+- [Read more](https://arxiv.org/abs/2608.14614)
 
 ---
 
