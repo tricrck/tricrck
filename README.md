@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Weaponizing Defender's Remediation Driver as a Kernel Operation Primitive
+### Imagine the SOC Without a Queue: From Alert Backlog to AI Hypothesis Engine
 - **Published**: August 26, 2026
-- **Summary**: https://research.checkpoint.com/2026/btr-reforged-......
-- [Read more](https://research.checkpoint.com/2026/btr-reforged-weaponizing-defenders-remediation-driver-as-a-kernel-operation-primitive/)
+- **Summary**: The SOC we've always known was built around a model that guarantees most of the alert queue will never receive analyst review. There's never time. In ...
+- [Read more](https://thehackernews.com/2026/08/imagine-soc-without-queue-from-alert.html)
 
-### DumpsterCluster: From Dumpster Diving to Serving Llama-70B on $60 GPUs
+### Claude Opus 4.6 Bypasses Gym Booking Limit, Cancels Other Users' Reservations in Tests
 - **Published**: August 26, 2026
-- **Summary**: https://arxiv.org/abs/2608.14614</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49444874">https://news.ycombinator.co......
-- [Read more](https://arxiv.org/abs/2608.14614)
+- **Summary**: Aikido Security has published research that recreates the Australian gym-booking incident in a synthetic environment, finding that Claude Opus 4.6, ru...
+- [Read more](https://thehackernews.com/2026/08/claude-opus-46-bypasses-gym-booking.html)
 
 ---
 

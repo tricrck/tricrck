@@ -1,122 +1,10 @@
 {
   "chaos_ranked": [
     {
-      "title": "Weaponizing Defender's Remediation Driver as a Kernel Operation Primitive",
-      "link": "https://research.checkpoint.com/2026/btr-reforged-weaponizing-defenders-remediation-driver-as-a-kernel-operation-primitive/",
-      "summary": "<p>Article URL: <a href=\"https://research.checkpoint.com/2026/btr-reforged-weaponizing-defenders-remediation-driver-as-a-kernel-operation-primitive/\">https://research.checkpoint.com/2026/btr-reforged-...",
-      "published": "2026-08-26T06:36:58+00:00",
-      "domain": "research.checkpoint.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "DumpsterCluster: From Dumpster Diving to Serving Llama-70B on $60 GPUs",
-      "link": "https://arxiv.org/abs/2608.14614",
-      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2608.14614\">https://arxiv.org/abs/2608.14614</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49444874\">https://news.ycombinator.co...",
-      "published": "2026-08-26T06:36:19+00:00",
-      "domain": "arxiv.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "I miss the old Claude Code",
-      "link": "https://alexkras.com/focus-is-the-main-feature-why-i-miss-the-old-claude-code/",
-      "summary": "<p>Article URL: <a href=\"https://alexkras.com/focus-is-the-main-feature-why-i-miss-the-old-claude-code/\">https://alexkras.com/focus-is-the-main-feature-why-i-miss-the-old-claude-code/</a></p>\n<p>Comme...",
-      "published": "2026-08-26T06:34:35+00:00",
-      "domain": "alexkras.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Gaming with a cast iron drill press, a mouse, and an ESP-32 [video]",
-      "link": "https://www.youtube.com/watch?v=-8ZY74LW4W4",
-      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=-8ZY74LW4W4\">https://www.youtube.com/watch?v=-8ZY74LW4W4</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49444845\">https...",
-      "published": "2026-08-26T06:31:49+00:00",
-      "domain": "youtube.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The wise do not hurry the seasons",
-      "link": "https://news.ycombinator.com/item?id=49444839",
-      "summary": "<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49444839\">https://news.ycombinator.com/item?id=49444839</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>...",
-      "published": "2026-08-26T06:30:53+00:00",
-      "domain": "news.ycombinator.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "More than half of adults in U.S. say they lack basic statistical understanding",
-      "link": "https://www.psu.edu/news/research/story/more-half-adults-us-say-they-lack-basic-statistical-understanding",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49444514\">Comments</a>...",
-      "published": "2026-08-26T05:49:20+00:00",
-      "domain": "psu.edu",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "US data centers tripled water use to 17 billion gallons",
-      "link": "https://www.reddit.com/r/technology/comments/1vym9jd/us_data_centers_tripled_water_use_to_17_billion/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1vym9jd/us_data_centers_tripled_water_use_to_17_billion/\"> <img alt=\"US data centers tripled water use to 17 billion gallons\" src...",
-      "published": "2026-08-26T04:01:43+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "U.S. Sanctions Iran-Linked Hackers Behind Critical Infrastructure Breaches",
-      "link": "https://thehackernews.com/2026/08/us-sanctions-iran-linked-hackers-behind.html",
-      "summary": "The U.S. Department of the Treasury has announced fresh sanctions on Iranian cyber actors as part of what it called an \"unprecedented, whole-of-government, economic campaign\" against the nation and it...",
-      "published": "2026-08-25T23:47:17+05:30",
+      "title": "Imagine the SOC Without a Queue: From Alert Backlog to AI Hypothesis Engine",
+      "link": "https://thehackernews.com/2026/08/imagine-soc-without-queue-from-alert.html",
+      "summary": "The SOC we've always known was built around a model that guarantees most of the alert queue will never receive analyst review. There's never time. In a traditional SOC, the typical progression follows...",
+      "published": "2026-08-26T17:06:49+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -129,11 +17,11 @@
       }
     },
     {
-      "title": "Dozens of engineers laid off at Apple headquarters",
-      "link": "https://www.reddit.com/r/technology/comments/1vydt8k/dozens_of_engineers_laid_off_at_apple_headquarters/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1vydt8k/dozens_of_engineers_laid_off_at_apple_headquarters/\"> <img alt=\"Dozens of engineers laid off at Apple headquarters\" src=\"...",
-      "published": "2026-08-25T21:53:12+00:00",
-      "domain": "reddit.com",
+      "title": "Claude Opus 4.6 Bypasses Gym Booking Limit, Cancels Other Users' Reservations in Tests",
+      "link": "https://thehackernews.com/2026/08/claude-opus-46-bypasses-gym-booking.html",
+      "summary": "Aikido Security has published research that recreates the Australian gym-booking incident in a synthetic environment, finding that Claude Opus 4.6, running on the OpenClaw agent harness, exploited a c...",
+      "published": "2026-08-26T15:57:23+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -145,11 +33,123 @@
       }
     },
     {
-      "title": "Two Decades of Cheaper Memory Vanished in One Brutal Year",
-      "link": "https://www.reddit.com/r/technology/comments/1vyazp6/two_decades_of_cheaper_memory_vanished_in_one/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1vyazp6/two_decades_of_cheaper_memory_vanished_in_one/\"> <img alt=\"Two Decades of Cheaper Memory Vanished in One Brutal Year\" src...",
-      "published": "2026-08-25T20:09:59+00:00",
-      "domain": "reddit.com",
+      "title": "OpenAI Bans Russian ChatGPT Accounts Used to Run Influence Operation",
+      "link": "https://thehackernews.com/2026/08/openai-bans-russian-chatgpt-accounts.html",
+      "summary": "OpenAI on Tuesday said it banned a cluster of Russian ChatGPT accounts that used VPNs to bypass access restrictions and run an influence operation, which relied on its artificial intelligence (AI) too...",
+      "published": "2026-08-26T15:08:45+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "INTERPOL Operation Jackal IV Arrests 58, Identifies 263 in Global Cyber Fraud Crackdown",
+      "link": "https://thehackernews.com/2026/08/interpol-operation-jackal-iv-arrests-58.html",
+      "summary": "An eight-month INTERPOL operation targeting West African organized crime groups has led to arrests of 58 people and the identification of 263 suspects.\n\n\"The operation, which brought together 22 count...",
+      "published": "2026-08-26T13:24:12+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Remap \u2013 bike routing that builds loops from the best roads, on-device",
+      "link": "https://remap.earth",
+      "summary": "<p>Article URL: <a href=\"https://remap.earth\">https://remap.earth</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49448085\">https://news.ycombinator.com/item?id=49448085</a></p>...",
+      "published": "2026-08-26T12:44:28+00:00",
+      "domain": "remap.earth",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "\"Famous Deep Learning Papers\", David Bau",
+      "link": "https://papers.baulab.info/",
+      "summary": "<p>Article URL: <a href=\"https://papers.baulab.info/\">https://papers.baulab.info/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49448082\">https://news.ycombinator.com/item?id=...",
+      "published": "2026-08-26T12:44:26+00:00",
+      "domain": "papers.baulab.info",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Prosody is a modern XMPP communication server",
+      "link": "https://prosody.im/",
+      "summary": "<p>Article URL: <a href=\"https://prosody.im/\">https://prosody.im/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49448073\">https://news.ycombinator.com/item?id=49448073</a></p>...",
+      "published": "2026-08-26T12:44:13+00:00",
+      "domain": "prosody.im",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "News and listing for contemporary rare books",
+      "link": "https://thebook.buzz",
+      "summary": "<p>Article URL: <a href=\"https://thebook.buzz\">https://thebook.buzz</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49448058\">https://news.ycombinator.com/item?id=49448058</a></...",
+      "published": "2026-08-26T12:43:07+00:00",
+      "domain": "thebook.buzz",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Newly SLEEPWALKER Backdoor Waits for One Crafted Packet, Then Runs Its Own Bytecode",
+      "link": "https://thehackernews.com/2026/08/newly-sleepwalker-backdoor-waits-for.html",
+      "summary": "An independent malware researcher has documented a previously unreported Windows backdoor, dubbed SLEEPWALKER, that stays inert in memory until a specifically crafted network packet reaches the machin...",
+      "published": "2026-08-26T12:42:55+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Created my own LLM Agentic Coding App with a desktop client",
+      "link": "https://apps.apple.com/us/app/pocket-grammer/id6762562983",
+      "summary": "<p>Article URL: <a href=\"https://apps.apple.com/us/app/pocket-grammer/id6762562983\">https://apps.apple.com/us/app/pocket-grammer/id6762562983</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator...",
+      "published": "2026-08-26T12:42:55+00:00",
+      "domain": "apps.apple.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -163,122 +163,10 @@
   ],
   "anarchy_ranked": [
     {
-      "title": "Weaponizing Defender's Remediation Driver as a Kernel Operation Primitive",
-      "link": "https://research.checkpoint.com/2026/btr-reforged-weaponizing-defenders-remediation-driver-as-a-kernel-operation-primitive/",
-      "summary": "<p>Article URL: <a href=\"https://research.checkpoint.com/2026/btr-reforged-weaponizing-defenders-remediation-driver-as-a-kernel-operation-primitive/\">https://research.checkpoint.com/2026/btr-reforged-...",
-      "published": "2026-08-26T06:36:58+00:00",
-      "domain": "research.checkpoint.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "DumpsterCluster: From Dumpster Diving to Serving Llama-70B on $60 GPUs",
-      "link": "https://arxiv.org/abs/2608.14614",
-      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2608.14614\">https://arxiv.org/abs/2608.14614</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49444874\">https://news.ycombinator.co...",
-      "published": "2026-08-26T06:36:19+00:00",
-      "domain": "arxiv.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "I miss the old Claude Code",
-      "link": "https://alexkras.com/focus-is-the-main-feature-why-i-miss-the-old-claude-code/",
-      "summary": "<p>Article URL: <a href=\"https://alexkras.com/focus-is-the-main-feature-why-i-miss-the-old-claude-code/\">https://alexkras.com/focus-is-the-main-feature-why-i-miss-the-old-claude-code/</a></p>\n<p>Comme...",
-      "published": "2026-08-26T06:34:35+00:00",
-      "domain": "alexkras.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Gaming with a cast iron drill press, a mouse, and an ESP-32 [video]",
-      "link": "https://www.youtube.com/watch?v=-8ZY74LW4W4",
-      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=-8ZY74LW4W4\">https://www.youtube.com/watch?v=-8ZY74LW4W4</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49444845\">https...",
-      "published": "2026-08-26T06:31:49+00:00",
-      "domain": "youtube.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The wise do not hurry the seasons",
-      "link": "https://news.ycombinator.com/item?id=49444839",
-      "summary": "<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49444839\">https://news.ycombinator.com/item?id=49444839</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>...",
-      "published": "2026-08-26T06:30:53+00:00",
-      "domain": "news.ycombinator.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "More than half of adults in U.S. say they lack basic statistical understanding",
-      "link": "https://www.psu.edu/news/research/story/more-half-adults-us-say-they-lack-basic-statistical-understanding",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49444514\">Comments</a>...",
-      "published": "2026-08-26T05:49:20+00:00",
-      "domain": "psu.edu",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "US data centers tripled water use to 17 billion gallons",
-      "link": "https://www.reddit.com/r/technology/comments/1vym9jd/us_data_centers_tripled_water_use_to_17_billion/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1vym9jd/us_data_centers_tripled_water_use_to_17_billion/\"> <img alt=\"US data centers tripled water use to 17 billion gallons\" src...",
-      "published": "2026-08-26T04:01:43+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "U.S. Sanctions Iran-Linked Hackers Behind Critical Infrastructure Breaches",
-      "link": "https://thehackernews.com/2026/08/us-sanctions-iran-linked-hackers-behind.html",
-      "summary": "The U.S. Department of the Treasury has announced fresh sanctions on Iranian cyber actors as part of what it called an \"unprecedented, whole-of-government, economic campaign\" against the nation and it...",
-      "published": "2026-08-25T23:47:17+05:30",
+      "title": "Imagine the SOC Without a Queue: From Alert Backlog to AI Hypothesis Engine",
+      "link": "https://thehackernews.com/2026/08/imagine-soc-without-queue-from-alert.html",
+      "summary": "The SOC we've always known was built around a model that guarantees most of the alert queue will never receive analyst review. There's never time. In a traditional SOC, the typical progression follows...",
+      "published": "2026-08-26T17:06:49+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -291,11 +179,11 @@
       }
     },
     {
-      "title": "Dozens of engineers laid off at Apple headquarters",
-      "link": "https://www.reddit.com/r/technology/comments/1vydt8k/dozens_of_engineers_laid_off_at_apple_headquarters/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1vydt8k/dozens_of_engineers_laid_off_at_apple_headquarters/\"> <img alt=\"Dozens of engineers laid off at Apple headquarters\" src=\"...",
-      "published": "2026-08-25T21:53:12+00:00",
-      "domain": "reddit.com",
+      "title": "Claude Opus 4.6 Bypasses Gym Booking Limit, Cancels Other Users' Reservations in Tests",
+      "link": "https://thehackernews.com/2026/08/claude-opus-46-bypasses-gym-booking.html",
+      "summary": "Aikido Security has published research that recreates the Australian gym-booking incident in a synthetic environment, finding that Claude Opus 4.6, running on the OpenClaw agent harness, exploited a c...",
+      "published": "2026-08-26T15:57:23+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -307,11 +195,123 @@
       }
     },
     {
-      "title": "Two Decades of Cheaper Memory Vanished in One Brutal Year",
-      "link": "https://www.reddit.com/r/technology/comments/1vyazp6/two_decades_of_cheaper_memory_vanished_in_one/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1vyazp6/two_decades_of_cheaper_memory_vanished_in_one/\"> <img alt=\"Two Decades of Cheaper Memory Vanished in One Brutal Year\" src...",
-      "published": "2026-08-25T20:09:59+00:00",
-      "domain": "reddit.com",
+      "title": "OpenAI Bans Russian ChatGPT Accounts Used to Run Influence Operation",
+      "link": "https://thehackernews.com/2026/08/openai-bans-russian-chatgpt-accounts.html",
+      "summary": "OpenAI on Tuesday said it banned a cluster of Russian ChatGPT accounts that used VPNs to bypass access restrictions and run an influence operation, which relied on its artificial intelligence (AI) too...",
+      "published": "2026-08-26T15:08:45+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "INTERPOL Operation Jackal IV Arrests 58, Identifies 263 in Global Cyber Fraud Crackdown",
+      "link": "https://thehackernews.com/2026/08/interpol-operation-jackal-iv-arrests-58.html",
+      "summary": "An eight-month INTERPOL operation targeting West African organized crime groups has led to arrests of 58 people and the identification of 263 suspects.\n\n\"The operation, which brought together 22 count...",
+      "published": "2026-08-26T13:24:12+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Remap \u2013 bike routing that builds loops from the best roads, on-device",
+      "link": "https://remap.earth",
+      "summary": "<p>Article URL: <a href=\"https://remap.earth\">https://remap.earth</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49448085\">https://news.ycombinator.com/item?id=49448085</a></p>...",
+      "published": "2026-08-26T12:44:28+00:00",
+      "domain": "remap.earth",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "\"Famous Deep Learning Papers\", David Bau",
+      "link": "https://papers.baulab.info/",
+      "summary": "<p>Article URL: <a href=\"https://papers.baulab.info/\">https://papers.baulab.info/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49448082\">https://news.ycombinator.com/item?id=...",
+      "published": "2026-08-26T12:44:26+00:00",
+      "domain": "papers.baulab.info",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Prosody is a modern XMPP communication server",
+      "link": "https://prosody.im/",
+      "summary": "<p>Article URL: <a href=\"https://prosody.im/\">https://prosody.im/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49448073\">https://news.ycombinator.com/item?id=49448073</a></p>...",
+      "published": "2026-08-26T12:44:13+00:00",
+      "domain": "prosody.im",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "News and listing for contemporary rare books",
+      "link": "https://thebook.buzz",
+      "summary": "<p>Article URL: <a href=\"https://thebook.buzz\">https://thebook.buzz</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49448058\">https://news.ycombinator.com/item?id=49448058</a></...",
+      "published": "2026-08-26T12:43:07+00:00",
+      "domain": "thebook.buzz",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Newly SLEEPWALKER Backdoor Waits for One Crafted Packet, Then Runs Its Own Bytecode",
+      "link": "https://thehackernews.com/2026/08/newly-sleepwalker-backdoor-waits-for.html",
+      "summary": "An independent malware researcher has documented a previously unreported Windows backdoor, dubbed SLEEPWALKER, that stays inert in memory until a specifically crafted network packet reaches the machin...",
+      "published": "2026-08-26T12:42:55+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Created my own LLM Agentic Coding App with a desktop client",
+      "link": "https://apps.apple.com/us/app/pocket-grammer/id6762562983",
+      "summary": "<p>Article URL: <a href=\"https://apps.apple.com/us/app/pocket-grammer/id6762562983\">https://apps.apple.com/us/app/pocket-grammer/id6762562983</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator...",
+      "published": "2026-08-26T12:42:55+00:00",
+      "domain": "apps.apple.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -325,122 +325,10 @@
   ],
   "overall_ranked": [
     {
-      "title": "Weaponizing Defender's Remediation Driver as a Kernel Operation Primitive",
-      "link": "https://research.checkpoint.com/2026/btr-reforged-weaponizing-defenders-remediation-driver-as-a-kernel-operation-primitive/",
-      "summary": "<p>Article URL: <a href=\"https://research.checkpoint.com/2026/btr-reforged-weaponizing-defenders-remediation-driver-as-a-kernel-operation-primitive/\">https://research.checkpoint.com/2026/btr-reforged-...",
-      "published": "2026-08-26T06:36:58+00:00",
-      "domain": "research.checkpoint.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "DumpsterCluster: From Dumpster Diving to Serving Llama-70B on $60 GPUs",
-      "link": "https://arxiv.org/abs/2608.14614",
-      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2608.14614\">https://arxiv.org/abs/2608.14614</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49444874\">https://news.ycombinator.co...",
-      "published": "2026-08-26T06:36:19+00:00",
-      "domain": "arxiv.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "I miss the old Claude Code",
-      "link": "https://alexkras.com/focus-is-the-main-feature-why-i-miss-the-old-claude-code/",
-      "summary": "<p>Article URL: <a href=\"https://alexkras.com/focus-is-the-main-feature-why-i-miss-the-old-claude-code/\">https://alexkras.com/focus-is-the-main-feature-why-i-miss-the-old-claude-code/</a></p>\n<p>Comme...",
-      "published": "2026-08-26T06:34:35+00:00",
-      "domain": "alexkras.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Gaming with a cast iron drill press, a mouse, and an ESP-32 [video]",
-      "link": "https://www.youtube.com/watch?v=-8ZY74LW4W4",
-      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=-8ZY74LW4W4\">https://www.youtube.com/watch?v=-8ZY74LW4W4</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49444845\">https...",
-      "published": "2026-08-26T06:31:49+00:00",
-      "domain": "youtube.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The wise do not hurry the seasons",
-      "link": "https://news.ycombinator.com/item?id=49444839",
-      "summary": "<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49444839\">https://news.ycombinator.com/item?id=49444839</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>...",
-      "published": "2026-08-26T06:30:53+00:00",
-      "domain": "news.ycombinator.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "More than half of adults in U.S. say they lack basic statistical understanding",
-      "link": "https://www.psu.edu/news/research/story/more-half-adults-us-say-they-lack-basic-statistical-understanding",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49444514\">Comments</a>...",
-      "published": "2026-08-26T05:49:20+00:00",
-      "domain": "psu.edu",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "US data centers tripled water use to 17 billion gallons",
-      "link": "https://www.reddit.com/r/technology/comments/1vym9jd/us_data_centers_tripled_water_use_to_17_billion/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1vym9jd/us_data_centers_tripled_water_use_to_17_billion/\"> <img alt=\"US data centers tripled water use to 17 billion gallons\" src...",
-      "published": "2026-08-26T04:01:43+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "U.S. Sanctions Iran-Linked Hackers Behind Critical Infrastructure Breaches",
-      "link": "https://thehackernews.com/2026/08/us-sanctions-iran-linked-hackers-behind.html",
-      "summary": "The U.S. Department of the Treasury has announced fresh sanctions on Iranian cyber actors as part of what it called an \"unprecedented, whole-of-government, economic campaign\" against the nation and it...",
-      "published": "2026-08-25T23:47:17+05:30",
+      "title": "Imagine the SOC Without a Queue: From Alert Backlog to AI Hypothesis Engine",
+      "link": "https://thehackernews.com/2026/08/imagine-soc-without-queue-from-alert.html",
+      "summary": "The SOC we've always known was built around a model that guarantees most of the alert queue will never receive analyst review. There's never time. In a traditional SOC, the typical progression follows...",
+      "published": "2026-08-26T17:06:49+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -453,11 +341,11 @@
       }
     },
     {
-      "title": "Dozens of engineers laid off at Apple headquarters",
-      "link": "https://www.reddit.com/r/technology/comments/1vydt8k/dozens_of_engineers_laid_off_at_apple_headquarters/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1vydt8k/dozens_of_engineers_laid_off_at_apple_headquarters/\"> <img alt=\"Dozens of engineers laid off at Apple headquarters\" src=\"...",
-      "published": "2026-08-25T21:53:12+00:00",
-      "domain": "reddit.com",
+      "title": "Claude Opus 4.6 Bypasses Gym Booking Limit, Cancels Other Users' Reservations in Tests",
+      "link": "https://thehackernews.com/2026/08/claude-opus-46-bypasses-gym-booking.html",
+      "summary": "Aikido Security has published research that recreates the Australian gym-booking incident in a synthetic environment, finding that Claude Opus 4.6, running on the OpenClaw agent harness, exploited a c...",
+      "published": "2026-08-26T15:57:23+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -469,11 +357,123 @@
       }
     },
     {
-      "title": "Two Decades of Cheaper Memory Vanished in One Brutal Year",
-      "link": "https://www.reddit.com/r/technology/comments/1vyazp6/two_decades_of_cheaper_memory_vanished_in_one/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1vyazp6/two_decades_of_cheaper_memory_vanished_in_one/\"> <img alt=\"Two Decades of Cheaper Memory Vanished in One Brutal Year\" src...",
-      "published": "2026-08-25T20:09:59+00:00",
-      "domain": "reddit.com",
+      "title": "OpenAI Bans Russian ChatGPT Accounts Used to Run Influence Operation",
+      "link": "https://thehackernews.com/2026/08/openai-bans-russian-chatgpt-accounts.html",
+      "summary": "OpenAI on Tuesday said it banned a cluster of Russian ChatGPT accounts that used VPNs to bypass access restrictions and run an influence operation, which relied on its artificial intelligence (AI) too...",
+      "published": "2026-08-26T15:08:45+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "INTERPOL Operation Jackal IV Arrests 58, Identifies 263 in Global Cyber Fraud Crackdown",
+      "link": "https://thehackernews.com/2026/08/interpol-operation-jackal-iv-arrests-58.html",
+      "summary": "An eight-month INTERPOL operation targeting West African organized crime groups has led to arrests of 58 people and the identification of 263 suspects.\n\n\"The operation, which brought together 22 count...",
+      "published": "2026-08-26T13:24:12+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Remap \u2013 bike routing that builds loops from the best roads, on-device",
+      "link": "https://remap.earth",
+      "summary": "<p>Article URL: <a href=\"https://remap.earth\">https://remap.earth</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49448085\">https://news.ycombinator.com/item?id=49448085</a></p>...",
+      "published": "2026-08-26T12:44:28+00:00",
+      "domain": "remap.earth",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "\"Famous Deep Learning Papers\", David Bau",
+      "link": "https://papers.baulab.info/",
+      "summary": "<p>Article URL: <a href=\"https://papers.baulab.info/\">https://papers.baulab.info/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49448082\">https://news.ycombinator.com/item?id=...",
+      "published": "2026-08-26T12:44:26+00:00",
+      "domain": "papers.baulab.info",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Prosody is a modern XMPP communication server",
+      "link": "https://prosody.im/",
+      "summary": "<p>Article URL: <a href=\"https://prosody.im/\">https://prosody.im/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49448073\">https://news.ycombinator.com/item?id=49448073</a></p>...",
+      "published": "2026-08-26T12:44:13+00:00",
+      "domain": "prosody.im",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "News and listing for contemporary rare books",
+      "link": "https://thebook.buzz",
+      "summary": "<p>Article URL: <a href=\"https://thebook.buzz\">https://thebook.buzz</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49448058\">https://news.ycombinator.com/item?id=49448058</a></...",
+      "published": "2026-08-26T12:43:07+00:00",
+      "domain": "thebook.buzz",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Newly SLEEPWALKER Backdoor Waits for One Crafted Packet, Then Runs Its Own Bytecode",
+      "link": "https://thehackernews.com/2026/08/newly-sleepwalker-backdoor-waits-for.html",
+      "summary": "An independent malware researcher has documented a previously unreported Windows backdoor, dubbed SLEEPWALKER, that stays inert in memory until a specifically crafted network packet reaches the machin...",
+      "published": "2026-08-26T12:42:55+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Created my own LLM Agentic Coding App with a desktop client",
+      "link": "https://apps.apple.com/us/app/pocket-grammer/id6762562983",
+      "summary": "<p>Article URL: <a href=\"https://apps.apple.com/us/app/pocket-grammer/id6762562983\">https://apps.apple.com/us/app/pocket-grammer/id6762562983</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator...",
+      "published": "2026-08-26T12:42:55+00:00",
+      "domain": "apps.apple.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -487,122 +487,10 @@
   ],
   "all_articles": [
     {
-      "title": "Weaponizing Defender's Remediation Driver as a Kernel Operation Primitive",
-      "link": "https://research.checkpoint.com/2026/btr-reforged-weaponizing-defenders-remediation-driver-as-a-kernel-operation-primitive/",
-      "summary": "<p>Article URL: <a href=\"https://research.checkpoint.com/2026/btr-reforged-weaponizing-defenders-remediation-driver-as-a-kernel-operation-primitive/\">https://research.checkpoint.com/2026/btr-reforged-...",
-      "published": "2026-08-26T06:36:58+00:00",
-      "domain": "research.checkpoint.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "DumpsterCluster: From Dumpster Diving to Serving Llama-70B on $60 GPUs",
-      "link": "https://arxiv.org/abs/2608.14614",
-      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2608.14614\">https://arxiv.org/abs/2608.14614</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49444874\">https://news.ycombinator.co...",
-      "published": "2026-08-26T06:36:19+00:00",
-      "domain": "arxiv.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "I miss the old Claude Code",
-      "link": "https://alexkras.com/focus-is-the-main-feature-why-i-miss-the-old-claude-code/",
-      "summary": "<p>Article URL: <a href=\"https://alexkras.com/focus-is-the-main-feature-why-i-miss-the-old-claude-code/\">https://alexkras.com/focus-is-the-main-feature-why-i-miss-the-old-claude-code/</a></p>\n<p>Comme...",
-      "published": "2026-08-26T06:34:35+00:00",
-      "domain": "alexkras.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Gaming with a cast iron drill press, a mouse, and an ESP-32 [video]",
-      "link": "https://www.youtube.com/watch?v=-8ZY74LW4W4",
-      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=-8ZY74LW4W4\">https://www.youtube.com/watch?v=-8ZY74LW4W4</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49444845\">https...",
-      "published": "2026-08-26T06:31:49+00:00",
-      "domain": "youtube.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The wise do not hurry the seasons",
-      "link": "https://news.ycombinator.com/item?id=49444839",
-      "summary": "<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49444839\">https://news.ycombinator.com/item?id=49444839</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>...",
-      "published": "2026-08-26T06:30:53+00:00",
-      "domain": "news.ycombinator.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "More than half of adults in U.S. say they lack basic statistical understanding",
-      "link": "https://www.psu.edu/news/research/story/more-half-adults-us-say-they-lack-basic-statistical-understanding",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49444514\">Comments</a>...",
-      "published": "2026-08-26T05:49:20+00:00",
-      "domain": "psu.edu",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "US data centers tripled water use to 17 billion gallons",
-      "link": "https://www.reddit.com/r/technology/comments/1vym9jd/us_data_centers_tripled_water_use_to_17_billion/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1vym9jd/us_data_centers_tripled_water_use_to_17_billion/\"> <img alt=\"US data centers tripled water use to 17 billion gallons\" src...",
-      "published": "2026-08-26T04:01:43+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "U.S. Sanctions Iran-Linked Hackers Behind Critical Infrastructure Breaches",
-      "link": "https://thehackernews.com/2026/08/us-sanctions-iran-linked-hackers-behind.html",
-      "summary": "The U.S. Department of the Treasury has announced fresh sanctions on Iranian cyber actors as part of what it called an \"unprecedented, whole-of-government, economic campaign\" against the nation and it...",
-      "published": "2026-08-25T23:47:17+05:30",
+      "title": "Imagine the SOC Without a Queue: From Alert Backlog to AI Hypothesis Engine",
+      "link": "https://thehackernews.com/2026/08/imagine-soc-without-queue-from-alert.html",
+      "summary": "The SOC we've always known was built around a model that guarantees most of the alert queue will never receive analyst review. There's never time. In a traditional SOC, the typical progression follows...",
+      "published": "2026-08-26T17:06:49+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -615,11 +503,11 @@
       }
     },
     {
-      "title": "Dozens of engineers laid off at Apple headquarters",
-      "link": "https://www.reddit.com/r/technology/comments/1vydt8k/dozens_of_engineers_laid_off_at_apple_headquarters/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1vydt8k/dozens_of_engineers_laid_off_at_apple_headquarters/\"> <img alt=\"Dozens of engineers laid off at Apple headquarters\" src=\"...",
-      "published": "2026-08-25T21:53:12+00:00",
-      "domain": "reddit.com",
+      "title": "Claude Opus 4.6 Bypasses Gym Booking Limit, Cancels Other Users' Reservations in Tests",
+      "link": "https://thehackernews.com/2026/08/claude-opus-46-bypasses-gym-booking.html",
+      "summary": "Aikido Security has published research that recreates the Australian gym-booking incident in a synthetic environment, finding that Claude Opus 4.6, running on the OpenClaw agent harness, exploited a c...",
+      "published": "2026-08-26T15:57:23+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -631,11 +519,123 @@
       }
     },
     {
-      "title": "Two Decades of Cheaper Memory Vanished in One Brutal Year",
-      "link": "https://www.reddit.com/r/technology/comments/1vyazp6/two_decades_of_cheaper_memory_vanished_in_one/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1vyazp6/two_decades_of_cheaper_memory_vanished_in_one/\"> <img alt=\"Two Decades of Cheaper Memory Vanished in One Brutal Year\" src...",
-      "published": "2026-08-25T20:09:59+00:00",
-      "domain": "reddit.com",
+      "title": "OpenAI Bans Russian ChatGPT Accounts Used to Run Influence Operation",
+      "link": "https://thehackernews.com/2026/08/openai-bans-russian-chatgpt-accounts.html",
+      "summary": "OpenAI on Tuesday said it banned a cluster of Russian ChatGPT accounts that used VPNs to bypass access restrictions and run an influence operation, which relied on its artificial intelligence (AI) too...",
+      "published": "2026-08-26T15:08:45+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "INTERPOL Operation Jackal IV Arrests 58, Identifies 263 in Global Cyber Fraud Crackdown",
+      "link": "https://thehackernews.com/2026/08/interpol-operation-jackal-iv-arrests-58.html",
+      "summary": "An eight-month INTERPOL operation targeting West African organized crime groups has led to arrests of 58 people and the identification of 263 suspects.\n\n\"The operation, which brought together 22 count...",
+      "published": "2026-08-26T13:24:12+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Remap \u2013 bike routing that builds loops from the best roads, on-device",
+      "link": "https://remap.earth",
+      "summary": "<p>Article URL: <a href=\"https://remap.earth\">https://remap.earth</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49448085\">https://news.ycombinator.com/item?id=49448085</a></p>...",
+      "published": "2026-08-26T12:44:28+00:00",
+      "domain": "remap.earth",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "\"Famous Deep Learning Papers\", David Bau",
+      "link": "https://papers.baulab.info/",
+      "summary": "<p>Article URL: <a href=\"https://papers.baulab.info/\">https://papers.baulab.info/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49448082\">https://news.ycombinator.com/item?id=...",
+      "published": "2026-08-26T12:44:26+00:00",
+      "domain": "papers.baulab.info",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Prosody is a modern XMPP communication server",
+      "link": "https://prosody.im/",
+      "summary": "<p>Article URL: <a href=\"https://prosody.im/\">https://prosody.im/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49448073\">https://news.ycombinator.com/item?id=49448073</a></p>...",
+      "published": "2026-08-26T12:44:13+00:00",
+      "domain": "prosody.im",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "News and listing for contemporary rare books",
+      "link": "https://thebook.buzz",
+      "summary": "<p>Article URL: <a href=\"https://thebook.buzz\">https://thebook.buzz</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49448058\">https://news.ycombinator.com/item?id=49448058</a></...",
+      "published": "2026-08-26T12:43:07+00:00",
+      "domain": "thebook.buzz",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Newly SLEEPWALKER Backdoor Waits for One Crafted Packet, Then Runs Its Own Bytecode",
+      "link": "https://thehackernews.com/2026/08/newly-sleepwalker-backdoor-waits-for.html",
+      "summary": "An independent malware researcher has documented a previously unreported Windows backdoor, dubbed SLEEPWALKER, that stays inert in memory until a specifically crafted network packet reaches the machin...",
+      "published": "2026-08-26T12:42:55+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Created my own LLM Agentic Coding App with a desktop client",
+      "link": "https://apps.apple.com/us/app/pocket-grammer/id6762562983",
+      "summary": "<p>Article URL: <a href=\"https://apps.apple.com/us/app/pocket-grammer/id6762562983\">https://apps.apple.com/us/app/pocket-grammer/id6762562983</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator...",
+      "published": "2026-08-26T12:42:55+00:00",
+      "domain": "apps.apple.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
