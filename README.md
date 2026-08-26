@@ -16,15 +16,18 @@
 
 ## 🚨 Tech Stories
 
-### Imagine the SOC Without a Queue: From Alert Backlog to AI Hypothesis Engine
+### Chaos Computer Club Breaks Apple TouchID (2013)
 - **Published**: August 26, 2026
-- **Summary**: The SOC we've always known was built around a model that guarantees most of the alert queue will never receive analyst review. There's never time. In ...
-- [Read more](https://thehackernews.com/2026/08/imagine-soc-without-queue-from-alert.html)
+- **Summary**: https://www.ccc.de/en/updates/2013/ccc-breaks-apple-touchid</a></p>
+<p>Comments URL: <a href="https://news.ycombin......
+- **Keywords**: chaos
+- [Read more](https://www.ccc.de/en/updates/2013/ccc-breaks-apple-touchid)
 
-### Claude Opus 4.6 Bypasses Gym Booking Limit, Cancels Other Users' Reservations in Tests
+### FBI Disrupts China-Linked QTFY Infrastructure Used to Steal Data From U.S. Organizations
 - **Published**: August 26, 2026
-- **Summary**: Aikido Security has published research that recreates the Australian gym-booking incident in a synthetic environment, finding that Claude Opus 4.6, ru...
-- [Read more](https://thehackernews.com/2026/08/claude-opus-46-bypasses-gym-booking.html)
+- **Summary**: The U.S. Department of Justice (DoJ) on Wednesday announced the disruption of two hacking platforms named QScan and QTRouter operated by Chinese threa...
+- **Keywords**: disruption
+- [Read more](https://thehackernews.com/2026/08/fbi-disrupts-china-linked-qtfy.html)
 
 ---
 
