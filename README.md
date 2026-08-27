@@ -16,18 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Chaos Computer Club Breaks Apple TouchID (2013)
+### Mechanical Turk shutting down September 30
 - **Published**: August 26, 2026
-- **Summary**: https://www.ccc.de/en/updates/2013/ccc-breaks-apple-touchid</a></p>
-<p>Comments URL: <a href="https://news.ycombin......
-- **Keywords**: chaos
-- [Read more](https://www.ccc.de/en/updates/2013/ccc-breaks-apple-touchid)
+- **Summary**: ......
+- **Keywords**: down
+- [Read more](https://www.mturk.com/)
 
-### FBI Disrupts China-Linked QTFY Infrastructure Used to Steal Data From U.S. Organizations
-- **Published**: August 26, 2026
-- **Summary**: The U.S. Department of Justice (DoJ) on Wednesday announced the disruption of two hacking platforms named QScan and QTRouter operated by Chinese threa...
-- **Keywords**: disruption
-- [Read more](https://thehackernews.com/2026/08/fbi-disrupts-china-linked-qtfy.html)
+### CISA Adds Six Exploited Flaws to KEV, Including NetScaler, Linux, and SQL Server Bugs
+- **Published**: August 27, 2026
+- **Summary**: The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added six flaws to its Known Exploited Vulnerabilities (KEV) catalog, in...
+- [Read more](https://thehackernews.com/2026/08/cisa-adds-six-exploited-flaws-to-kev.html)
 
 ---
 
