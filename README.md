@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Mechanical Turk shutting down September 30
-- **Published**: August 26, 2026
-- **Summary**: ......
-- **Keywords**: down
-- [Read more](https://www.mturk.com/)
-
-### CISA Adds Six Exploited Flaws to KEV, Including NetScaler, Linux, and SQL Server Bugs
+### AI's memory crunch is coming for Android apps
 - **Published**: August 27, 2026
-- **Summary**: The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added six flaws to its Known Exploited Vulnerabilities (KEV) catalog, in...
-- [Read more](https://thehackernews.com/2026/08/cisa-adds-six-exploited-flaws-to-kev.html)
+- **Summary**: https://techcrunch.com/2026/08/27/ais-memory-crunch-is-coming-for-android-apps/</a></p>
+<p>Com......
+- [Read more](https://techcrunch.com/2026/08/27/ais-memory-crunch-is-coming-for-android-apps/)
+
+### OpenAI Says Reward Hacking Drove AI Agents to Exploit Zero-Days and Breach Hugging Face
+- **Published**: August 28, 2026
+- **Summary**: OpenAI on Wednesday revealed that reward hacking was a key driver behind the artificial intelligence (AI)-powered hack of Hugging Face last month, add...
+- [Read more](https://thehackernews.com/2026/08/openai-says-reward-hacking-drove-ai.html)
 
 ---
 
