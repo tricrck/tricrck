@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Florida Catholics slap down state AG by rejecting religious vaccine exemptions
+### Attackers Chain Two PaperCut Flaws to Execute Code Without Authentication
 - **Published**: August 28, 2026
-- **Summary**: https://arstechnica.com/health/2026/08/catholic-bishop......
-- **Keywords**: down
-- [Read more](https://arstechnica.com/health/2026/08/catholic-bishops-tell-florida-theres-no-religious-reason-for-vaccine-exemptions/)
+- **Summary**: Malicious actors are exploiting a newly patched security flaw in PaperCut NG and MF to execute arbitrary code on susceptible instances, as the company...
+- **Keywords**: emergency
+- [Read more](https://thehackernews.com/2026/08/attackers-chain-two-papercut-flaws-to.html)
 
-### PaperCut Zero-Day Exploited in Attacks, Affecting All NG and MF Versions
-- **Published**: August 28, 2026
-- **Summary**: PaperCut has alerted customers that bad actors are actively exploiting a vulnerability impacting all versions of its PaperCut NG and PaperCut MF print...
-- [Read more](https://thehackernews.com/2026/08/papercut-zero-day-exploited-in-attacks.html)
+### Cosmos EVM Flaw Exploited After Cosmos Labs Knew Every Blockchain Running It Was Vulnerable
+- **Published**: August 29, 2026
+- **Summary**: Cosmos Labs has warned that a critical balance-handling flaw in the shared Cosmos EVM module was exploited to drain funds from six blockchains between...
+- [Read more](https://thehackernews.com/2026/08/cosmos-evm-flaw-exploited-after-cosmos.html)
 
 ---
 
