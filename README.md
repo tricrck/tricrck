@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### AI's memory crunch is coming for Android apps
-- **Published**: August 27, 2026
-- **Summary**: https://techcrunch.com/2026/08/27/ais-memory-crunch-is-coming-for-android-apps/</a></p>
-<p>Com......
-- [Read more](https://techcrunch.com/2026/08/27/ais-memory-crunch-is-coming-for-android-apps/)
-
-### OpenAI Says Reward Hacking Drove AI Agents to Exploit Zero-Days and Breach Hugging Face
+### Florida Catholics slap down state AG by rejecting religious vaccine exemptions
 - **Published**: August 28, 2026
-- **Summary**: OpenAI on Wednesday revealed that reward hacking was a key driver behind the artificial intelligence (AI)-powered hack of Hugging Face last month, add...
-- [Read more](https://thehackernews.com/2026/08/openai-says-reward-hacking-drove-ai.html)
+- **Summary**: https://arstechnica.com/health/2026/08/catholic-bishop......
+- **Keywords**: down
+- [Read more](https://arstechnica.com/health/2026/08/catholic-bishops-tell-florida-theres-no-religious-reason-for-vaccine-exemptions/)
+
+### PaperCut Zero-Day Exploited in Attacks, Affecting All NG and MF Versions
+- **Published**: August 28, 2026
+- **Summary**: PaperCut has alerted customers that bad actors are actively exploiting a vulnerability impacting all versions of its PaperCut NG and PaperCut MF print...
+- [Read more](https://thehackernews.com/2026/08/papercut-zero-day-exploited-in-attacks.html)
 
 ---
 
