@@ -16,18 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### America's data center revolt is getting a boost from China-linked bots
+### Have an Agent Babysit Your Deployments
 - **Published**: August 29, 2026
-- **Summary**: https://www.axios.com/2026/08/28/china-ai-data-center-backlash-bots</a></p>
-<p>Comments URL: <a href="http......
-- **Keywords**: revolt
-- [Read more](https://www.axios.com/2026/08/28/china-ai-data-center-backlash-bots)
+- **Summary**: https://blog.exe.dev/athena-deploys-exe</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49489394">https://news.......
+- [Read more](https://blog.exe.dev/athena-deploys-exe)
 
-### America Strikes Back Against Foreign Censors with the Rulli Granite Act HR 10174
+### Cod Wars
 - **Published**: August 29, 2026
-- **Summary**: https://prestonbyrne.com/2026/08/28/rulligranite/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=494......
-- [Read more](https://prestonbyrne.com/2026/08/28/rulligranite/)
+- **Summary**: https://en.wikipedia.org/wiki/Cod_Wars</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49489380">https://news.yc......
+- [Read more](https://en.wikipedia.org/wiki/Cod_Wars)
 
 ---
 
