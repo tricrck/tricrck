@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Have an Agent Babysit Your Deployments
+### Five Critical WordPress Plugin and Theme Flaws Enable Site Takeover or RCE
 - **Published**: August 29, 2026
-- **Summary**: https://blog.exe.dev/athena-deploys-exe</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49489394">https://news.......
-- [Read more](https://blog.exe.dev/athena-deploys-exe)
+- **Summary**: Multiple critical security flaws have been disclosed in WordPress plugins and themes, including WPMU DEV Dashboard, Avada, TranslatePress, Pods, and G...
+- [Read more](https://thehackernews.com/2026/08/five-critical-wordpress-plugin-and.html)
 
-### Cod Wars
+### Exitus Advisor
 - **Published**: August 29, 2026
-- **Summary**: https://en.wikipedia.org/wiki/Cod_Wars</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49489380">https://news.yc......
-- [Read more](https://en.wikipedia.org/wiki/Cod_Wars)
+- **Summary**: https://exitusadvisor.org/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49493055">https://news.ycombinator.com/item?id=49......
+- [Read more](https://exitusadvisor.org/)
 
 ---
 
