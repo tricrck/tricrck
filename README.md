@@ -16,16 +16,18 @@
 
 ## 🚨 Tech Stories
 
-### Attackers Chain Two PaperCut Flaws to Execute Code Without Authentication
-- **Published**: August 28, 2026
-- **Summary**: Malicious actors are exploiting a newly patched security flaw in PaperCut NG and MF to execute arbitrary code on susceptible instances, as the company...
-- **Keywords**: emergency
-- [Read more](https://thehackernews.com/2026/08/attackers-chain-two-papercut-flaws-to.html)
-
-### Cosmos EVM Flaw Exploited After Cosmos Labs Knew Every Blockchain Running It Was Vulnerable
+### America's data center revolt is getting a boost from China-linked bots
 - **Published**: August 29, 2026
-- **Summary**: Cosmos Labs has warned that a critical balance-handling flaw in the shared Cosmos EVM module was exploited to drain funds from six blockchains between...
-- [Read more](https://thehackernews.com/2026/08/cosmos-evm-flaw-exploited-after-cosmos.html)
+- **Summary**: https://www.axios.com/2026/08/28/china-ai-data-center-backlash-bots</a></p>
+<p>Comments URL: <a href="http......
+- **Keywords**: revolt
+- [Read more](https://www.axios.com/2026/08/28/china-ai-data-center-backlash-bots)
+
+### America Strikes Back Against Foreign Censors with the Rulli Granite Act HR 10174
+- **Published**: August 29, 2026
+- **Summary**: https://prestonbyrne.com/2026/08/28/rulligranite/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=494......
+- [Read more](https://prestonbyrne.com/2026/08/28/rulligranite/)
 
 ---
 
