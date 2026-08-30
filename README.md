@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Airlink's low flypast over Rugby match in Cape Town
+### Change Impact Analyzer – see what your edit breaks (Tree-sitter+LSP)
 - **Published**: August 30, 2026
-- **Summary**: https://www.flightradar24.com/blog/flight-tracking-n......
-- [Read more](https://www.flightradar24.com/blog/flight-tracking-news/special-event/airlinks-low-flypast-over-rugby-match-in-cape-town/)
+- **Summary**: https://marketplace.visualstudio.com/items?itemName=AniqUsman.change-impact-analyzer</a><......
+- [Read more](https://marketplace.visualstudio.com/items?itemName=AniqUsman.change-impact-analyzer)
 
-### Show HN: CardGo – Reusable, end-to-end encrypted context cards for AI chats
+### A Manager Asked How to Tell His Report to "Get a Life" [video]
 - **Published**: August 30, 2026
-- **Summary**: https://cardgo.ai</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49499893">https://news.ycombinator.com/item?id=49499893</a></...
-- [Read more](https://cardgo.ai)
+- **Summary**: https://www.youtube.com/watch?v=JN8CkCGGRzo</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49502522">https......
+- [Read more](https://www.youtube.com/watch?v=JN8CkCGGRzo)
 
 ---
 
