@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### TerminalFix Uses Fake Cloudflare CAPTCHAs to Deploy Reverse-Tunnel Backdoor
+### Airlink's low flypast over Rugby match in Cape Town
 - **Published**: August 30, 2026
-- **Summary**: Microsoft has disclosed details of a new ClickFix variant, dubbed TerminalFix, that aims to trick users into running a malicious command in Windows Te...
-- [Read more](https://thehackernews.com/2026/08/terminalfix-uses-fake-cloudflare.html)
+- **Summary**: https://www.flightradar24.com/blog/flight-tracking-n......
+- [Read more](https://www.flightradar24.com/blog/flight-tracking-news/special-event/airlinks-low-flypast-over-rugby-match-in-cape-town/)
 
-### When it comes to China, America has a plan
+### Show HN: CardGo – Reusable, end-to-end encrypted context cards for AI chats
 - **Published**: August 30, 2026
-- **Summary**: https://mondediplo.com/2026/06/11us</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49497666">https://news.ycombina......
-- [Read more](https://mondediplo.com/2026/06/11us)
+- **Summary**: https://cardgo.ai</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49499893">https://news.ycombinator.com/item?id=49499893</a></...
+- [Read more](https://cardgo.ai)
 
 ---
 
