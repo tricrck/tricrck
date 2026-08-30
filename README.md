@@ -16,16 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Five Critical WordPress Plugin and Theme Flaws Enable Site Takeover or RCE
-- **Published**: August 29, 2026
-- **Summary**: Multiple critical security flaws have been disclosed in WordPress plugins and themes, including WPMU DEV Dashboard, Avada, TranslatePress, Pods, and G...
-- [Read more](https://thehackernews.com/2026/08/five-critical-wordpress-plugin-and.html)
+### Bug Blindness
+- **Published**: August 30, 2026
+- **Summary**: ......
+- **Keywords**: bug
+- [Read more](https://danluu.com/bug-blind/)
 
-### Exitus Advisor
-- **Published**: August 29, 2026
-- **Summary**: https://exitusadvisor.org/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49493055">https://news.ycombinator.com/item?id=49......
-- [Read more](https://exitusadvisor.org/)
+### Fat Tire Brakes Get Wireless Upgrade
+- **Published**: August 30, 2026
+- **Summary**: https://hackaday.com/2026/08/29/fat-tire-brakes-get-wireless-upgrade/</a></p>
+<p>Comments URL: <a href="......
+- [Read more](https://hackaday.com/2026/08/29/fat-tire-brakes-get-wireless-upgrade/)
 
 ---
 
