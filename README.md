@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Bug Blindness
+### TerminalFix Uses Fake Cloudflare CAPTCHAs to Deploy Reverse-Tunnel Backdoor
 - **Published**: August 30, 2026
-- **Summary**: ......
-- **Keywords**: bug
-- [Read more](https://danluu.com/bug-blind/)
+- **Summary**: Microsoft has disclosed details of a new ClickFix variant, dubbed TerminalFix, that aims to trick users into running a malicious command in Windows Te...
+- [Read more](https://thehackernews.com/2026/08/terminalfix-uses-fake-cloudflare.html)
 
-### Fat Tire Brakes Get Wireless Upgrade
+### When it comes to China, America has a plan
 - **Published**: August 30, 2026
-- **Summary**: https://hackaday.com/2026/08/29/fat-tire-brakes-get-wireless-upgrade/</a></p>
-<p>Comments URL: <a href="......
-- [Read more](https://hackaday.com/2026/08/29/fat-tire-brakes-get-wireless-upgrade/)
+- **Summary**: https://mondediplo.com/2026/06/11us</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49497666">https://news.ycombina......
+- [Read more](https://mondediplo.com/2026/06/11us)
 
 ---
 
