@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### UC Berkeley indefinitely suspends international student work authorizations
+### ValleyRAT Backdoor Hides in Signed Adware That Users Add to Antivirus Exclusions
 - **Published**: August 31, 2026
-- **Summary**: ......
-- [Read more](https://www.dailycal.org/news/campus/after-second-ice-threat-uc-berkeley-indefinitely-suspends-international-student-work-authorizations/article_0e9ae0c0-dd4d-4455-a25b-e8be7b47e350.html)
+- **Summary**: The threat actor known as Silver Fox has been observed distributing the ValleyRAT backdoor disguised as a signed Chinese adware application, running t...
+- [Read more](https://thehackernews.com/2026/08/valleyrat-backdoor-hides-in-signed.html)
 
-### The datacenter backlash is bringing the entire political spectrum together – against big tech billionaires
+### Aurora Ransomware Operators Use Cursor AI in Attacks Against 10 Targets
 - **Published**: August 31, 2026
-- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1w3052q/the_datacenter_backlash_is_bringing_the_entire/"> <img alt="The datacenter backlash...
-- [Read more](https://www.reddit.com/r/technology/comments/1w3052q/the_datacenter_backlash_is_bringing_the_entire/)
+- **Summary**: Threat actors associated with Aurora (aka Aur0ra) ransomware have been observed using SpaceX's artificial intelligence (AI)-powered coding assistant C...
+- [Read more](https://thehackernews.com/2026/08/aurora-ransomware-operators-use-cursor.html)
 
 ---
 
