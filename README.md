@@ -16,15 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### ValleyRAT Backdoor Hides in Signed Adware That Users Add to Antivirus Exclusions
+### North Korean Job Fraud Expands Beyond IT Into Healthcare and Sales
 - **Published**: August 31, 2026
-- **Summary**: The threat actor known as Silver Fox has been observed distributing the ValleyRAT backdoor disguised as a signed Chinese adware application, running t...
-- [Read more](https://thehackernews.com/2026/08/valleyrat-backdoor-hides-in-signed.html)
+- **Summary**: Threat actors with ties to the Democratic People's Republic of Korea (aka DPRK or North Korea) have been observed seeking job opportunities beyond the...
+- [Read more](https://thehackernews.com/2026/08/north-korean-job-fraud-expands-beyond.html)
 
-### Aurora Ransomware Operators Use Cursor AI in Attacks Against 10 Targets
+### Congress to vote on denying federal funding to universities that boycott Israel
 - **Published**: August 31, 2026
-- **Summary**: Threat actors associated with Aurora (aka Aur0ra) ransomware have been observed using SpaceX's artificial intelligence (AI)-powered coding assistant C...
-- [Read more](https://thehackernews.com/2026/08/aurora-ransomware-operators-use-cursor.html)
+- **Summary**: https://twitter.com/dylanotes/status/2094229210889965634</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.c......
+- [Read more](https://twitter.com/dylanotes/status/2094229210889965634)
 
 ---
 
