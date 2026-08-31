@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Change Impact Analyzer – see what your edit breaks (Tree-sitter+LSP)
-- **Published**: August 30, 2026
-- **Summary**: https://marketplace.visualstudio.com/items?itemName=AniqUsman.change-impact-analyzer</a><......
-- [Read more](https://marketplace.visualstudio.com/items?itemName=AniqUsman.change-impact-analyzer)
+### UC Berkeley indefinitely suspends international student work authorizations
+- **Published**: August 31, 2026
+- **Summary**: ......
+- [Read more](https://www.dailycal.org/news/campus/after-second-ice-threat-uc-berkeley-indefinitely-suspends-international-student-work-authorizations/article_0e9ae0c0-dd4d-4455-a25b-e8be7b47e350.html)
 
-### A Manager Asked How to Tell His Report to "Get a Life" [video]
-- **Published**: August 30, 2026
-- **Summary**: https://www.youtube.com/watch?v=JN8CkCGGRzo</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49502522">https......
-- [Read more](https://www.youtube.com/watch?v=JN8CkCGGRzo)
+### The datacenter backlash is bringing the entire political spectrum together – against big tech billionaires
+- **Published**: August 31, 2026
+- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1w3052q/the_datacenter_backlash_is_bringing_the_entire/"> <img alt="The datacenter backlash...
+- [Read more](https://www.reddit.com/r/technology/comments/1w3052q/the_datacenter_backlash_is_bringing_the_entire/)
 
 ---
 
