@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### North Korean Job Fraud Expands Beyond IT Into Healthcare and Sales
-- **Published**: August 31, 2026
-- **Summary**: Threat actors with ties to the Democratic People's Republic of Korea (aka DPRK or North Korea) have been observed seeking job opportunities beyond the...
-- [Read more](https://thehackernews.com/2026/08/north-korean-job-fraud-expands-beyond.html)
+### Show HN: Serendipity – rediscover the web one interesting page at a time
+- **Published**: September 01, 2026
+- **Summary**: <p>Random URLs are easy. Useful serendipity is hard.<p>I've built a free (no ads) app for both Android and iOS for users who want to swipe/surf betwee...
+- [Read more](https://serendipity.surf/)
 
-### Congress to vote on denying federal funding to universities that boycott Israel
-- **Published**: August 31, 2026
-- **Summary**: https://twitter.com/dylanotes/status/2094229210889965634</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.c......
-- [Read more](https://twitter.com/dylanotes/status/2094229210889965634)
+### Lionel Messi announces retirement from Argentina's national team
+- **Published**: September 01, 2026
+- **Summary**: https://www.washingtonpost.com/sports/2026/08/31/soc......
+- [Read more](https://www.washingtonpost.com/sports/2026/08/31/soccer-great-lionel-messi-announces-retirement-argentinas-national-team/)
 
 ---
 
