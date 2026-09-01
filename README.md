@@ -16,15 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### 13 Malicious Packagist Packages Target Unpatched iPhones to Steal Crypto Wallet Seeds
+### Show HN: Mcptunnels – ngrok for MCP with basic OAuth
 - **Published**: September 01, 2026
-- **Summary**: Cybersecurity researchers have identified a set of 13 malicious Composer theme packages on Packagist that are designed to inject JavaScript into Vietn...
-- [Read more](https://thehackernews.com/2026/09/13-malicious-packagist-packages-target.html)
+- **Summary**: <p>Basically, OpenAI tunneling sucks and is broken most of the time. This can get you tunneling pretty trivially to share with someone temporarily. Ro...
+- **Keywords**: broken
+- [Read more](https://terragohan.github.io/mcptunnels/)
 
-### Iranian Hackers Pose as Recruiters to Deliver Cross-Platform RATs Through Coding Tests
+### Attackers Exploit Critical JFrog Artifactory Flaw to Mint Admin Tokens Days After Disclosure
 - **Published**: September 01, 2026
-- **Summary**: The Iranian Nimbus Manticore hacking group has been attributed to two previously undocumented malware families that highlight the continued evolution ...
-- [Read more](https://thehackernews.com/2026/09/iranian-hackers-pose-as-recruiters-to.html)
+- **Summary**: Threat actors are exploiting a newly patched critical security flaw impacting JFrog Artifactory merely days after public disclosure, according to watc...
+- [Read more](https://thehackernews.com/2026/09/attackers-exploit-critical-jfrog.html)
 
 ---
 
