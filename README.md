@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Think twice before installing this device promising free movies
+### 13 Malicious Packagist Packages Target Unpatched iPhones to Steal Crypto Wallet Seeds
 - **Published**: September 01, 2026
-- **Summary**: https://arstechnica.com/security/2026/08/how-some-media-strea......
-- [Read more](https://arstechnica.com/security/2026/08/how-some-media-streaming-devices-open-home-networks-to-a-world-of-harm/)
+- **Summary**: Cybersecurity researchers have identified a set of 13 malicious Composer theme packages on Packagist that are designed to inject JavaScript into Vietn...
+- [Read more](https://thehackernews.com/2026/09/13-malicious-packagist-packages-target.html)
 
-### Russia-Aligned UAC-0099 Plants Nuclear Weapon Prompt in Malware to Disrupt AI Analysis
+### Iranian Hackers Pose as Recruiters to Deliver Cross-Platform RATs Through Coding Tests
 - **Published**: September 01, 2026
-- **Summary**: Cybersecurity researchers have disclosed a new technique dubbed GuardBreaker that's been put to use by a Russia-aligned threat actor known as UAC-0099...
-- **Keywords**: disrupt
-- [Read more](https://thehackernews.com/2026/09/russia-aligned-uac-0099-plants-nuclear.html)
+- **Summary**: The Iranian Nimbus Manticore hacking group has been attributed to two previously undocumented malware families that highlight the continued evolution ...
+- [Read more](https://thehackernews.com/2026/09/iranian-hackers-pose-as-recruiters-to.html)
 
 ---
 
