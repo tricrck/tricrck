@@ -16,15 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Show HN: Serendipity – rediscover the web one interesting page at a time
+### Think twice before installing this device promising free movies
 - **Published**: September 01, 2026
-- **Summary**: <p>Random URLs are easy. Useful serendipity is hard.<p>I've built a free (no ads) app for both Android and iOS for users who want to swipe/surf betwee...
-- [Read more](https://serendipity.surf/)
+- **Summary**: https://arstechnica.com/security/2026/08/how-some-media-strea......
+- [Read more](https://arstechnica.com/security/2026/08/how-some-media-streaming-devices-open-home-networks-to-a-world-of-harm/)
 
-### Lionel Messi announces retirement from Argentina's national team
+### Russia-Aligned UAC-0099 Plants Nuclear Weapon Prompt in Malware to Disrupt AI Analysis
 - **Published**: September 01, 2026
-- **Summary**: https://www.washingtonpost.com/sports/2026/08/31/soc......
-- [Read more](https://www.washingtonpost.com/sports/2026/08/31/soccer-great-lionel-messi-announces-retirement-argentinas-national-team/)
+- **Summary**: Cybersecurity researchers have disclosed a new technique dubbed GuardBreaker that's been put to use by a Russia-aligned threat actor known as UAC-0099...
+- **Keywords**: disrupt
+- [Read more](https://thehackernews.com/2026/09/russia-aligned-uac-0099-plants-nuclear.html)
 
 ---
 
