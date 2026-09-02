@@ -16,15 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Another Tesla on Autopilot Stopped on Freeway, Driver Died: Report
+### Ame framinPII redaction and tamper-evident audit logs for LiteLLM, no sidecars
 - **Published**: September 02, 2026
-- **Summary**: https://gizmodo.com/another-telsa-on-autopilot-stopped-on-freeway-driver-died-......
-- [Read more](https://gizmodo.com/another-telsa-on-autopilot-stopped-on-freeway-driver-died-report-2000805742)
+- **Summary**: https://github.com/Rishikesh-glitch/Cloakwall-v0.1</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4......
+- **Keywords**: glitch, glitch
+- [Read more](https://github.com/Rishikesh-glitch/Cloakwall-v0.1)
 
-### AI Made Writing Code Free. It Made Reading Code Expensive
+### GeoNetwork Fixes Unauthenticated RCE Chain Affecting Government Geoportal Backends
 - **Published**: September 02, 2026
-- **Summary**: https://medium.com/c-sharp-programming/ai-made-writing-code-free-......
-- [Read more](https://medium.com/c-sharp-programming/ai-made-writing-code-free-it-made-reading-code-expensive-ea14b3ec5c52)
+- **Summary**: Two vulnerabilities in GeoNetwork can be chained to achieve unauthenticated remote code execution (RCE) on the open-source geospatial metadata catalog...
+- [Read more](https://thehackernews.com/2026/09/geonetwork-fixes-unauthenticated-rce.html)
 
 ---
 
