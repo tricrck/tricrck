@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Show HN: Mcptunnels – ngrok for MCP with basic OAuth
-- **Published**: September 01, 2026
-- **Summary**: <p>Basically, OpenAI tunneling sucks and is broken most of the time. This can get you tunneling pretty trivially to share with someone temporarily. Ro...
-- **Keywords**: broken
-- [Read more](https://terragohan.github.io/mcptunnels/)
+### Another Tesla on Autopilot Stopped on Freeway, Driver Died: Report
+- **Published**: September 02, 2026
+- **Summary**: https://gizmodo.com/another-telsa-on-autopilot-stopped-on-freeway-driver-died-......
+- [Read more](https://gizmodo.com/another-telsa-on-autopilot-stopped-on-freeway-driver-died-report-2000805742)
 
-### Attackers Exploit Critical JFrog Artifactory Flaw to Mint Admin Tokens Days After Disclosure
-- **Published**: September 01, 2026
-- **Summary**: Threat actors are exploiting a newly patched critical security flaw impacting JFrog Artifactory merely days after public disclosure, according to watc...
-- [Read more](https://thehackernews.com/2026/09/attackers-exploit-critical-jfrog.html)
+### AI Made Writing Code Free. It Made Reading Code Expensive
+- **Published**: September 02, 2026
+- **Summary**: https://medium.com/c-sharp-programming/ai-made-writing-code-free-......
+- [Read more](https://medium.com/c-sharp-programming/ai-made-writing-code-free-it-made-reading-code-expensive-ea14b3ec5c52)
 
 ---
 
