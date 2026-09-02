@@ -16,15 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Malicious .git Configs Can Make Claude, Codex, Cursor, and Other AI Agents Run Attacker Code
+### Google, Anthropic, and OpenAI Unveil Cyber AI Models, Safeguards, and Access Programs
 - **Published**: September 02, 2026
-- **Summary**: Manifold Security has disclosed eight security flaws across seven command-line AI coding agents in which a repository's own Git configuration names a ...
-- [Read more](https://thehackernews.com/2026/09/malicious-git-configs-can-make-claude.html)
+- **Summary**: Google on Wednesday announced Gemini 3.8 Flash Cyber, which it described as its most capable cybersecurity model, and has made it available to a set o...
+- [Read more](https://thehackernews.com/2026/09/google-anthropic-and-openai-unveil.html)
 
-### Malicious Apache Modules Hijack Brazilian Government Site Traffic to Push Betting Pages
+### Fake Software Installers Disable Windows Update and Weaken Microsoft Defender
 - **Published**: September 02, 2026
-- **Summary**: A Chinese-speaking cybercrime cluster known as Gambling Goblin has been observed installing malicious Apache modules on compromised web servers run by...
-- [Read more](https://thehackernews.com/2026/09/malicious-apache-modules-hijack.html)
+- **Summary**: An active malware campaign is using bogus software-download websites to impersonate trusted vendors and distribute malicious installers.
+
+"The campaig...
+- [Read more](https://thehackernews.com/2026/09/fake-software-installers-disable.html)
 
 ---
 
