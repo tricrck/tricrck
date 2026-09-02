@@ -1,31 +1,140 @@
 {
   "chaos_ranked": [
     {
-      "title": "Ame framinPII redaction and tamper-evident audit logs for LiteLLM, no sidecars",
-      "link": "https://github.com/Rishikesh-glitch/Cloakwall-v0.1",
-      "summary": "<p>Article URL: <a href=\"https://github.com/Rishikesh-glitch/Cloakwall-v0.1\">https://github.com/Rishikesh-glitch/Cloakwall-v0.1</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4...",
-      "published": "2026-09-02T10:41:21+00:00",
+      "title": "Malicious .git Configs Can Make Claude, Codex, Cursor, and Other AI Agents Run Attacker Code",
+      "link": "https://thehackernews.com/2026/09/malicious-git-configs-can-make-claude.html",
+      "summary": "Manifold Security has disclosed eight security flaws across seven command-line AI coding agents in which a repository's own Git configuration names a command that the agent runs on the developer's mac...",
+      "published": "2026-09-02T19:36:59+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Malicious Apache Modules Hijack Brazilian Government Site Traffic to Push Betting Pages",
+      "link": "https://thehackernews.com/2026/09/malicious-apache-modules-hijack.html",
+      "summary": "A Chinese-speaking cybercrime cluster known as Gambling Goblin has been observed installing malicious Apache modules on compromised web servers run by Brazilian government and educational institutions...",
+      "published": "2026-09-02T19:14:16+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "BGP Hijack Delivers Malicious Virtualizor Update That Establishes Persistent Root Access",
+      "link": "https://thehackernews.com/2026/09/bgp-hijack-delivers-malicious.html",
+      "summary": "Virtualizor said hackers used a Border Gateway Protocol (BGP) hijack to divert Softaculous traffic. The hackers then used the diverted update traffic to deliver a malicious Virtualizor package to some...",
+      "published": "2026-09-02T18:42:45+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Meta Ads Push StreamRat Android Trojan That Can Gain Near-Complete Device Control",
+      "link": "https://thehackernews.com/2026/09/meta-ads-push-streamrat-android-trojan.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new Android banking trojan called StreamRat that was promoted to Spanish-speaking users through a fake television-streaming campaign on Meta and c...",
+      "published": "2026-09-02T17:52:02+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "How to Secure Enterprise AI: From Adoption to Incident Readiness",
+      "link": "https://thehackernews.com/2026/09/how-to-secure-enterprise-ai-from.html",
+      "summary": "The debate about whether AI delivers business value is over. The challenge now is implementing it at scale and securely across every function while meeting board-level pressure to move fast. Organizat...",
+      "published": "2026-09-02T17:00:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Claude Fable 5.1 watermark: It has a blind spot developers can't ignore",
+      "link": "https://thenewstack.io/fable-5-1-watermark/",
+      "summary": "<p>Article URL: <a href=\"https://thenewstack.io/fable-5-1-watermark/\">https://thenewstack.io/fable-5-1-watermark/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49538226\">https...",
+      "published": "2026-09-02T15:57:06+00:00",
+      "domain": "thenewstack.io",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Software Factories in September 2026",
+      "link": "https://igoro.com/archive/software-factories/",
+      "summary": "<p>Article URL: <a href=\"https://igoro.com/archive/software-factories/\">https://igoro.com/archive/software-factories/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49538208\">h...",
+      "published": "2026-09-02T15:56:03+00:00",
+      "domain": "igoro.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Blognami \u2013 a Markdown based blogging platform for node",
+      "link": "https://blognami.com/docs",
+      "summary": "<p>I have been working on this in the cracks of my (very limited) free time for about 4 years.<p>It runs on node, and you can install and run it locally with SQLite. There is also a SaaS version if yo...",
+      "published": "2026-09-02T15:55:20+00:00",
+      "domain": "blognami.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Aura \u2013 a Rust agent that investigates and fixes production incidents",
+      "link": "https://github.com/mezmo/aura",
+      "summary": "<p>We run a SaaS that handles petabytes of data. Our SRE team experimented with using claude, openclaw, langchain, etc. within our incident response workflows. We struggled with overflowing context, l...",
+      "published": "2026-09-02T15:55:14+00:00",
       "domain": "github.com",
       "scores": {
-        "chaos": 17.9,
-        "anarchy": 3.0,
-        "overall": 10.4
-      },
-      "keywords": {
-        "chaos": [
-          "glitch",
-          "glitch"
-        ],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "GeoNetwork Fixes Unauthenticated RCE Chain Affecting Government Geoportal Backends",
-      "link": "https://thehackernews.com/2026/09/geonetwork-fixes-unauthenticated-rce.html",
-      "summary": "Two vulnerabilities in GeoNetwork can be chained to achieve unauthenticated remote code execution (RCE) on the open-source geospatial metadata catalog, which sits behind many government and agency geo...",
-      "published": "2026-09-02T14:48:02+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
         "overall": 3.0
@@ -36,123 +145,11 @@
       }
     },
     {
-      "title": "Extradited Russian Hacker Faces Charges Over Excel Malware Campaign That Infected Thousands",
-      "link": "https://thehackernews.com/2026/09/extradited-russian-hacker-faces-charges.html",
-      "summary": "The U.S. Department of Justice (DoJ) has charged a Russian national, extradited from Cyprus on August 28, with using roughly 255 fake accounts on a freelance platform to send malware-laced Excel attac...",
-      "published": "2026-09-02T14:40:23+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Researchers Use Claude to Port Pre-Auth RCE Exploit From One PLC Model to Another",
-      "link": "https://thehackernews.com/2026/09/researchers-use-claude-to-port-pre-auth.html",
-      "summary": "Forescout Research - Vedere Labs said it used Anthropic's Claude to port a working pre-authentication remote code execution (RCE) exploit from one WAGO programmable logic controller (PLC) to another, ...",
-      "published": "2026-09-02T13:17:13+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Attackers Exploit Critical Switchvox Flaw to Deploy Reverse Shells Without Credentials",
-      "link": "https://thehackernews.com/2026/09/attackers-exploit-critical-switchvox.html",
-      "summary": "Threat actors are exploiting a severe security vulnerability in Sangoma Switchvox, an enterprise VoIP platform, that could allow unauthenticated remote code execution.\n\nThe vulnerability in question i...",
-      "published": "2026-09-02T12:38:50+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Authorities Turn Sality's P2P Network Against Itself, Cutting Off New Malware Payloads",
-      "link": "https://thehackernews.com/2026/09/authorities-turn-salitys-p2p-network.html",
-      "summary": "The U.S. Department of Justice (DoJ) on Tuesday announced the takedown of a long-standing peer-to-peer (P2P) botnet known as Sality as part of a coordinated law enforcement operation.\n\nThe effort was ...",
-      "published": "2026-09-02T12:26:30+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "State of Postgres in 2026",
-      "link": "https://www.datadoghq.com/state-of-postgres/",
-      "summary": "<p>Article URL: <a href=\"https://www.datadoghq.com/state-of-postgres/\">https://www.datadoghq.com/state-of-postgres/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49534409\">htt...",
-      "published": "2026-09-02T10:41:03+00:00",
-      "domain": "datadoghq.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "CBallast \u2013 Quick Procurement Guide",
-      "link": "https://cballast.com/",
-      "summary": "<p>Article URL: <a href=\"https://cballast.com/\">https://cballast.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49534406\">https://news.ycombinator.com/item?id=49534406</a>...",
-      "published": "2026-09-02T10:40:51+00:00",
-      "domain": "cballast.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Running in sari, 47-year-old woman wins race for daughters' education",
-      "link": "https://www.edexlive.com/news/running-barefoot-in-sari-47-year-old-woman-wins-race-for-daughters-education",
-      "summary": "<p>Article URL: <a href=\"https://www.edexlive.com/news/running-barefoot-in-sari-47-year-old-woman-wins-race-for-daughters-education\">https://www.edexlive.com/news/running-barefoot-in-sari-47-year-old-...",
-      "published": "2026-09-02T10:39:32+00:00",
-      "domain": "edexlive.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Why are there no flow batteries with symmetric ferrocyanide electrolytes?",
-      "link": "https://chemisting.com/2026/09/02/why-are-there-no-flow-batteries-with-symmetric-ferrocyanide-electrolytes/",
-      "summary": "<p>Article URL: <a href=\"https://chemisting.com/2026/09/02/why-are-there-no-flow-batteries-with-symmetric-ferrocyanide-electrolytes/\">https://chemisting.com/2026/09/02/why-are-there-no-flow-batteries-...",
-      "published": "2026-09-02T10:39:02+00:00",
-      "domain": "chemisting.com",
+      "title": "You can be wrong, even on your birthday",
+      "link": "https://www.rawsignal.ca/newsletter-archive/you-can-be-wrong-even-on-your-birthday/",
+      "summary": "<p>Article URL: <a href=\"https://www.rawsignal.ca/newsletter-archive/you-can-be-wrong-even-on-your-birthday/\">https://www.rawsignal.ca/newsletter-archive/you-can-be-wrong-even-on-your-birthday/</a></p...",
+      "published": "2026-09-02T15:54:50+00:00",
+      "domain": "rawsignal.ca",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -166,10 +163,10 @@
   ],
   "anarchy_ranked": [
     {
-      "title": "GeoNetwork Fixes Unauthenticated RCE Chain Affecting Government Geoportal Backends",
-      "link": "https://thehackernews.com/2026/09/geonetwork-fixes-unauthenticated-rce.html",
-      "summary": "Two vulnerabilities in GeoNetwork can be chained to achieve unauthenticated remote code execution (RCE) on the open-source geospatial metadata catalog, which sits behind many government and agency geo...",
-      "published": "2026-09-02T14:48:02+05:30",
+      "title": "Malicious .git Configs Can Make Claude, Codex, Cursor, and Other AI Agents Run Attacker Code",
+      "link": "https://thehackernews.com/2026/09/malicious-git-configs-can-make-claude.html",
+      "summary": "Manifold Security has disclosed eight security flaws across seven command-line AI coding agents in which a repository's own Git configuration names a command that the agent runs on the developer's mac...",
+      "published": "2026-09-02T19:36:59+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -182,10 +179,10 @@
       }
     },
     {
-      "title": "Extradited Russian Hacker Faces Charges Over Excel Malware Campaign That Infected Thousands",
-      "link": "https://thehackernews.com/2026/09/extradited-russian-hacker-faces-charges.html",
-      "summary": "The U.S. Department of Justice (DoJ) has charged a Russian national, extradited from Cyprus on August 28, with using roughly 255 fake accounts on a freelance platform to send malware-laced Excel attac...",
-      "published": "2026-09-02T14:40:23+05:30",
+      "title": "Malicious Apache Modules Hijack Brazilian Government Site Traffic to Push Betting Pages",
+      "link": "https://thehackernews.com/2026/09/malicious-apache-modules-hijack.html",
+      "summary": "A Chinese-speaking cybercrime cluster known as Gambling Goblin has been observed installing malicious Apache modules on compromised web servers run by Brazilian government and educational institutions...",
+      "published": "2026-09-02T19:14:16+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -198,10 +195,10 @@
       }
     },
     {
-      "title": "Researchers Use Claude to Port Pre-Auth RCE Exploit From One PLC Model to Another",
-      "link": "https://thehackernews.com/2026/09/researchers-use-claude-to-port-pre-auth.html",
-      "summary": "Forescout Research - Vedere Labs said it used Anthropic's Claude to port a working pre-authentication remote code execution (RCE) exploit from one WAGO programmable logic controller (PLC) to another, ...",
-      "published": "2026-09-02T13:17:13+05:30",
+      "title": "BGP Hijack Delivers Malicious Virtualizor Update That Establishes Persistent Root Access",
+      "link": "https://thehackernews.com/2026/09/bgp-hijack-delivers-malicious.html",
+      "summary": "Virtualizor said hackers used a Border Gateway Protocol (BGP) hijack to divert Softaculous traffic. The hackers then used the diverted update traffic to deliver a malicious Virtualizor package to some...",
+      "published": "2026-09-02T18:42:45+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -214,10 +211,10 @@
       }
     },
     {
-      "title": "Attackers Exploit Critical Switchvox Flaw to Deploy Reverse Shells Without Credentials",
-      "link": "https://thehackernews.com/2026/09/attackers-exploit-critical-switchvox.html",
-      "summary": "Threat actors are exploiting a severe security vulnerability in Sangoma Switchvox, an enterprise VoIP platform, that could allow unauthenticated remote code execution.\n\nThe vulnerability in question i...",
-      "published": "2026-09-02T12:38:50+05:30",
+      "title": "Meta Ads Push StreamRat Android Trojan That Can Gain Near-Complete Device Control",
+      "link": "https://thehackernews.com/2026/09/meta-ads-push-streamrat-android-trojan.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new Android banking trojan called StreamRat that was promoted to Spanish-speaking users through a fake television-streaming campaign on Meta and c...",
+      "published": "2026-09-02T17:52:02+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -230,10 +227,10 @@
       }
     },
     {
-      "title": "Authorities Turn Sality's P2P Network Against Itself, Cutting Off New Malware Payloads",
-      "link": "https://thehackernews.com/2026/09/authorities-turn-salitys-p2p-network.html",
-      "summary": "The U.S. Department of Justice (DoJ) on Tuesday announced the takedown of a long-standing peer-to-peer (P2P) botnet known as Sality as part of a coordinated law enforcement operation.\n\nThe effort was ...",
-      "published": "2026-09-02T12:26:30+05:30",
+      "title": "How to Secure Enterprise AI: From Adoption to Incident Readiness",
+      "link": "https://thehackernews.com/2026/09/how-to-secure-enterprise-ai-from.html",
+      "summary": "The debate about whether AI delivers business value is over. The challenge now is implementing it at scale and securely across every function while meeting board-level pressure to move fast. Organizat...",
+      "published": "2026-09-02T17:00:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -246,31 +243,60 @@
       }
     },
     {
-      "title": "Ame framinPII redaction and tamper-evident audit logs for LiteLLM, no sidecars",
-      "link": "https://github.com/Rishikesh-glitch/Cloakwall-v0.1",
-      "summary": "<p>Article URL: <a href=\"https://github.com/Rishikesh-glitch/Cloakwall-v0.1\">https://github.com/Rishikesh-glitch/Cloakwall-v0.1</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4...",
-      "published": "2026-09-02T10:41:21+00:00",
+      "title": "Claude Fable 5.1 watermark: It has a blind spot developers can't ignore",
+      "link": "https://thenewstack.io/fable-5-1-watermark/",
+      "summary": "<p>Article URL: <a href=\"https://thenewstack.io/fable-5-1-watermark/\">https://thenewstack.io/fable-5-1-watermark/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49538226\">https...",
+      "published": "2026-09-02T15:57:06+00:00",
+      "domain": "thenewstack.io",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Software Factories in September 2026",
+      "link": "https://igoro.com/archive/software-factories/",
+      "summary": "<p>Article URL: <a href=\"https://igoro.com/archive/software-factories/\">https://igoro.com/archive/software-factories/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49538208\">h...",
+      "published": "2026-09-02T15:56:03+00:00",
+      "domain": "igoro.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Blognami \u2013 a Markdown based blogging platform for node",
+      "link": "https://blognami.com/docs",
+      "summary": "<p>I have been working on this in the cracks of my (very limited) free time for about 4 years.<p>It runs on node, and you can install and run it locally with SQLite. There is also a SaaS version if yo...",
+      "published": "2026-09-02T15:55:20+00:00",
+      "domain": "blognami.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Aura \u2013 a Rust agent that investigates and fixes production incidents",
+      "link": "https://github.com/mezmo/aura",
+      "summary": "<p>We run a SaaS that handles petabytes of data. Our SRE team experimented with using claude, openclaw, langchain, etc. within our incident response workflows. We struggled with overflowing context, l...",
+      "published": "2026-09-02T15:55:14+00:00",
       "domain": "github.com",
       "scores": {
-        "chaos": 17.9,
-        "anarchy": 3.0,
-        "overall": 10.4
-      },
-      "keywords": {
-        "chaos": [
-          "glitch",
-          "glitch"
-        ],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "State of Postgres in 2026",
-      "link": "https://www.datadoghq.com/state-of-postgres/",
-      "summary": "<p>Article URL: <a href=\"https://www.datadoghq.com/state-of-postgres/\">https://www.datadoghq.com/state-of-postgres/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49534409\">htt...",
-      "published": "2026-09-02T10:41:03+00:00",
-      "domain": "datadoghq.com",
-      "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
         "overall": 3.0
@@ -281,43 +307,11 @@
       }
     },
     {
-      "title": "CBallast \u2013 Quick Procurement Guide",
-      "link": "https://cballast.com/",
-      "summary": "<p>Article URL: <a href=\"https://cballast.com/\">https://cballast.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49534406\">https://news.ycombinator.com/item?id=49534406</a>...",
-      "published": "2026-09-02T10:40:51+00:00",
-      "domain": "cballast.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Running in sari, 47-year-old woman wins race for daughters' education",
-      "link": "https://www.edexlive.com/news/running-barefoot-in-sari-47-year-old-woman-wins-race-for-daughters-education",
-      "summary": "<p>Article URL: <a href=\"https://www.edexlive.com/news/running-barefoot-in-sari-47-year-old-woman-wins-race-for-daughters-education\">https://www.edexlive.com/news/running-barefoot-in-sari-47-year-old-...",
-      "published": "2026-09-02T10:39:32+00:00",
-      "domain": "edexlive.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Why are there no flow batteries with symmetric ferrocyanide electrolytes?",
-      "link": "https://chemisting.com/2026/09/02/why-are-there-no-flow-batteries-with-symmetric-ferrocyanide-electrolytes/",
-      "summary": "<p>Article URL: <a href=\"https://chemisting.com/2026/09/02/why-are-there-no-flow-batteries-with-symmetric-ferrocyanide-electrolytes/\">https://chemisting.com/2026/09/02/why-are-there-no-flow-batteries-...",
-      "published": "2026-09-02T10:39:02+00:00",
-      "domain": "chemisting.com",
+      "title": "You can be wrong, even on your birthday",
+      "link": "https://www.rawsignal.ca/newsletter-archive/you-can-be-wrong-even-on-your-birthday/",
+      "summary": "<p>Article URL: <a href=\"https://www.rawsignal.ca/newsletter-archive/you-can-be-wrong-even-on-your-birthday/\">https://www.rawsignal.ca/newsletter-archive/you-can-be-wrong-even-on-your-birthday/</a></p...",
+      "published": "2026-09-02T15:54:50+00:00",
+      "domain": "rawsignal.ca",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -331,31 +325,140 @@
   ],
   "overall_ranked": [
     {
-      "title": "Ame framinPII redaction and tamper-evident audit logs for LiteLLM, no sidecars",
-      "link": "https://github.com/Rishikesh-glitch/Cloakwall-v0.1",
-      "summary": "<p>Article URL: <a href=\"https://github.com/Rishikesh-glitch/Cloakwall-v0.1\">https://github.com/Rishikesh-glitch/Cloakwall-v0.1</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4...",
-      "published": "2026-09-02T10:41:21+00:00",
+      "title": "Malicious .git Configs Can Make Claude, Codex, Cursor, and Other AI Agents Run Attacker Code",
+      "link": "https://thehackernews.com/2026/09/malicious-git-configs-can-make-claude.html",
+      "summary": "Manifold Security has disclosed eight security flaws across seven command-line AI coding agents in which a repository's own Git configuration names a command that the agent runs on the developer's mac...",
+      "published": "2026-09-02T19:36:59+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Malicious Apache Modules Hijack Brazilian Government Site Traffic to Push Betting Pages",
+      "link": "https://thehackernews.com/2026/09/malicious-apache-modules-hijack.html",
+      "summary": "A Chinese-speaking cybercrime cluster known as Gambling Goblin has been observed installing malicious Apache modules on compromised web servers run by Brazilian government and educational institutions...",
+      "published": "2026-09-02T19:14:16+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "BGP Hijack Delivers Malicious Virtualizor Update That Establishes Persistent Root Access",
+      "link": "https://thehackernews.com/2026/09/bgp-hijack-delivers-malicious.html",
+      "summary": "Virtualizor said hackers used a Border Gateway Protocol (BGP) hijack to divert Softaculous traffic. The hackers then used the diverted update traffic to deliver a malicious Virtualizor package to some...",
+      "published": "2026-09-02T18:42:45+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Meta Ads Push StreamRat Android Trojan That Can Gain Near-Complete Device Control",
+      "link": "https://thehackernews.com/2026/09/meta-ads-push-streamrat-android-trojan.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new Android banking trojan called StreamRat that was promoted to Spanish-speaking users through a fake television-streaming campaign on Meta and c...",
+      "published": "2026-09-02T17:52:02+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "How to Secure Enterprise AI: From Adoption to Incident Readiness",
+      "link": "https://thehackernews.com/2026/09/how-to-secure-enterprise-ai-from.html",
+      "summary": "The debate about whether AI delivers business value is over. The challenge now is implementing it at scale and securely across every function while meeting board-level pressure to move fast. Organizat...",
+      "published": "2026-09-02T17:00:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Claude Fable 5.1 watermark: It has a blind spot developers can't ignore",
+      "link": "https://thenewstack.io/fable-5-1-watermark/",
+      "summary": "<p>Article URL: <a href=\"https://thenewstack.io/fable-5-1-watermark/\">https://thenewstack.io/fable-5-1-watermark/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49538226\">https...",
+      "published": "2026-09-02T15:57:06+00:00",
+      "domain": "thenewstack.io",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Software Factories in September 2026",
+      "link": "https://igoro.com/archive/software-factories/",
+      "summary": "<p>Article URL: <a href=\"https://igoro.com/archive/software-factories/\">https://igoro.com/archive/software-factories/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49538208\">h...",
+      "published": "2026-09-02T15:56:03+00:00",
+      "domain": "igoro.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Blognami \u2013 a Markdown based blogging platform for node",
+      "link": "https://blognami.com/docs",
+      "summary": "<p>I have been working on this in the cracks of my (very limited) free time for about 4 years.<p>It runs on node, and you can install and run it locally with SQLite. There is also a SaaS version if yo...",
+      "published": "2026-09-02T15:55:20+00:00",
+      "domain": "blognami.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Aura \u2013 a Rust agent that investigates and fixes production incidents",
+      "link": "https://github.com/mezmo/aura",
+      "summary": "<p>We run a SaaS that handles petabytes of data. Our SRE team experimented with using claude, openclaw, langchain, etc. within our incident response workflows. We struggled with overflowing context, l...",
+      "published": "2026-09-02T15:55:14+00:00",
       "domain": "github.com",
       "scores": {
-        "chaos": 17.9,
-        "anarchy": 3.0,
-        "overall": 10.4
-      },
-      "keywords": {
-        "chaos": [
-          "glitch",
-          "glitch"
-        ],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "GeoNetwork Fixes Unauthenticated RCE Chain Affecting Government Geoportal Backends",
-      "link": "https://thehackernews.com/2026/09/geonetwork-fixes-unauthenticated-rce.html",
-      "summary": "Two vulnerabilities in GeoNetwork can be chained to achieve unauthenticated remote code execution (RCE) on the open-source geospatial metadata catalog, which sits behind many government and agency geo...",
-      "published": "2026-09-02T14:48:02+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
         "overall": 3.0
@@ -366,123 +469,11 @@
       }
     },
     {
-      "title": "Extradited Russian Hacker Faces Charges Over Excel Malware Campaign That Infected Thousands",
-      "link": "https://thehackernews.com/2026/09/extradited-russian-hacker-faces-charges.html",
-      "summary": "The U.S. Department of Justice (DoJ) has charged a Russian national, extradited from Cyprus on August 28, with using roughly 255 fake accounts on a freelance platform to send malware-laced Excel attac...",
-      "published": "2026-09-02T14:40:23+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Researchers Use Claude to Port Pre-Auth RCE Exploit From One PLC Model to Another",
-      "link": "https://thehackernews.com/2026/09/researchers-use-claude-to-port-pre-auth.html",
-      "summary": "Forescout Research - Vedere Labs said it used Anthropic's Claude to port a working pre-authentication remote code execution (RCE) exploit from one WAGO programmable logic controller (PLC) to another, ...",
-      "published": "2026-09-02T13:17:13+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Attackers Exploit Critical Switchvox Flaw to Deploy Reverse Shells Without Credentials",
-      "link": "https://thehackernews.com/2026/09/attackers-exploit-critical-switchvox.html",
-      "summary": "Threat actors are exploiting a severe security vulnerability in Sangoma Switchvox, an enterprise VoIP platform, that could allow unauthenticated remote code execution.\n\nThe vulnerability in question i...",
-      "published": "2026-09-02T12:38:50+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Authorities Turn Sality's P2P Network Against Itself, Cutting Off New Malware Payloads",
-      "link": "https://thehackernews.com/2026/09/authorities-turn-salitys-p2p-network.html",
-      "summary": "The U.S. Department of Justice (DoJ) on Tuesday announced the takedown of a long-standing peer-to-peer (P2P) botnet known as Sality as part of a coordinated law enforcement operation.\n\nThe effort was ...",
-      "published": "2026-09-02T12:26:30+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "State of Postgres in 2026",
-      "link": "https://www.datadoghq.com/state-of-postgres/",
-      "summary": "<p>Article URL: <a href=\"https://www.datadoghq.com/state-of-postgres/\">https://www.datadoghq.com/state-of-postgres/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49534409\">htt...",
-      "published": "2026-09-02T10:41:03+00:00",
-      "domain": "datadoghq.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "CBallast \u2013 Quick Procurement Guide",
-      "link": "https://cballast.com/",
-      "summary": "<p>Article URL: <a href=\"https://cballast.com/\">https://cballast.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49534406\">https://news.ycombinator.com/item?id=49534406</a>...",
-      "published": "2026-09-02T10:40:51+00:00",
-      "domain": "cballast.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Running in sari, 47-year-old woman wins race for daughters' education",
-      "link": "https://www.edexlive.com/news/running-barefoot-in-sari-47-year-old-woman-wins-race-for-daughters-education",
-      "summary": "<p>Article URL: <a href=\"https://www.edexlive.com/news/running-barefoot-in-sari-47-year-old-woman-wins-race-for-daughters-education\">https://www.edexlive.com/news/running-barefoot-in-sari-47-year-old-...",
-      "published": "2026-09-02T10:39:32+00:00",
-      "domain": "edexlive.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Why are there no flow batteries with symmetric ferrocyanide electrolytes?",
-      "link": "https://chemisting.com/2026/09/02/why-are-there-no-flow-batteries-with-symmetric-ferrocyanide-electrolytes/",
-      "summary": "<p>Article URL: <a href=\"https://chemisting.com/2026/09/02/why-are-there-no-flow-batteries-with-symmetric-ferrocyanide-electrolytes/\">https://chemisting.com/2026/09/02/why-are-there-no-flow-batteries-...",
-      "published": "2026-09-02T10:39:02+00:00",
-      "domain": "chemisting.com",
+      "title": "You can be wrong, even on your birthday",
+      "link": "https://www.rawsignal.ca/newsletter-archive/you-can-be-wrong-even-on-your-birthday/",
+      "summary": "<p>Article URL: <a href=\"https://www.rawsignal.ca/newsletter-archive/you-can-be-wrong-even-on-your-birthday/\">https://www.rawsignal.ca/newsletter-archive/you-can-be-wrong-even-on-your-birthday/</a></p...",
+      "published": "2026-09-02T15:54:50+00:00",
+      "domain": "rawsignal.ca",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -496,10 +487,10 @@
   ],
   "all_articles": [
     {
-      "title": "GeoNetwork Fixes Unauthenticated RCE Chain Affecting Government Geoportal Backends",
-      "link": "https://thehackernews.com/2026/09/geonetwork-fixes-unauthenticated-rce.html",
-      "summary": "Two vulnerabilities in GeoNetwork can be chained to achieve unauthenticated remote code execution (RCE) on the open-source geospatial metadata catalog, which sits behind many government and agency geo...",
-      "published": "2026-09-02T14:48:02+05:30",
+      "title": "Malicious .git Configs Can Make Claude, Codex, Cursor, and Other AI Agents Run Attacker Code",
+      "link": "https://thehackernews.com/2026/09/malicious-git-configs-can-make-claude.html",
+      "summary": "Manifold Security has disclosed eight security flaws across seven command-line AI coding agents in which a repository's own Git configuration names a command that the agent runs on the developer's mac...",
+      "published": "2026-09-02T19:36:59+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -512,10 +503,10 @@
       }
     },
     {
-      "title": "Extradited Russian Hacker Faces Charges Over Excel Malware Campaign That Infected Thousands",
-      "link": "https://thehackernews.com/2026/09/extradited-russian-hacker-faces-charges.html",
-      "summary": "The U.S. Department of Justice (DoJ) has charged a Russian national, extradited from Cyprus on August 28, with using roughly 255 fake accounts on a freelance platform to send malware-laced Excel attac...",
-      "published": "2026-09-02T14:40:23+05:30",
+      "title": "Malicious Apache Modules Hijack Brazilian Government Site Traffic to Push Betting Pages",
+      "link": "https://thehackernews.com/2026/09/malicious-apache-modules-hijack.html",
+      "summary": "A Chinese-speaking cybercrime cluster known as Gambling Goblin has been observed installing malicious Apache modules on compromised web servers run by Brazilian government and educational institutions...",
+      "published": "2026-09-02T19:14:16+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -528,10 +519,10 @@
       }
     },
     {
-      "title": "Researchers Use Claude to Port Pre-Auth RCE Exploit From One PLC Model to Another",
-      "link": "https://thehackernews.com/2026/09/researchers-use-claude-to-port-pre-auth.html",
-      "summary": "Forescout Research - Vedere Labs said it used Anthropic's Claude to port a working pre-authentication remote code execution (RCE) exploit from one WAGO programmable logic controller (PLC) to another, ...",
-      "published": "2026-09-02T13:17:13+05:30",
+      "title": "BGP Hijack Delivers Malicious Virtualizor Update That Establishes Persistent Root Access",
+      "link": "https://thehackernews.com/2026/09/bgp-hijack-delivers-malicious.html",
+      "summary": "Virtualizor said hackers used a Border Gateway Protocol (BGP) hijack to divert Softaculous traffic. The hackers then used the diverted update traffic to deliver a malicious Virtualizor package to some...",
+      "published": "2026-09-02T18:42:45+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -544,10 +535,10 @@
       }
     },
     {
-      "title": "Attackers Exploit Critical Switchvox Flaw to Deploy Reverse Shells Without Credentials",
-      "link": "https://thehackernews.com/2026/09/attackers-exploit-critical-switchvox.html",
-      "summary": "Threat actors are exploiting a severe security vulnerability in Sangoma Switchvox, an enterprise VoIP platform, that could allow unauthenticated remote code execution.\n\nThe vulnerability in question i...",
-      "published": "2026-09-02T12:38:50+05:30",
+      "title": "Meta Ads Push StreamRat Android Trojan That Can Gain Near-Complete Device Control",
+      "link": "https://thehackernews.com/2026/09/meta-ads-push-streamrat-android-trojan.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new Android banking trojan called StreamRat that was promoted to Spanish-speaking users through a fake television-streaming campaign on Meta and c...",
+      "published": "2026-09-02T17:52:02+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -560,10 +551,10 @@
       }
     },
     {
-      "title": "Authorities Turn Sality's P2P Network Against Itself, Cutting Off New Malware Payloads",
-      "link": "https://thehackernews.com/2026/09/authorities-turn-salitys-p2p-network.html",
-      "summary": "The U.S. Department of Justice (DoJ) on Tuesday announced the takedown of a long-standing peer-to-peer (P2P) botnet known as Sality as part of a coordinated law enforcement operation.\n\nThe effort was ...",
-      "published": "2026-09-02T12:26:30+05:30",
+      "title": "How to Secure Enterprise AI: From Adoption to Incident Readiness",
+      "link": "https://thehackernews.com/2026/09/how-to-secure-enterprise-ai-from.html",
+      "summary": "The debate about whether AI delivers business value is over. The challenge now is implementing it at scale and securely across every function while meeting board-level pressure to move fast. Organizat...",
+      "published": "2026-09-02T17:00:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -576,31 +567,60 @@
       }
     },
     {
-      "title": "Ame framinPII redaction and tamper-evident audit logs for LiteLLM, no sidecars",
-      "link": "https://github.com/Rishikesh-glitch/Cloakwall-v0.1",
-      "summary": "<p>Article URL: <a href=\"https://github.com/Rishikesh-glitch/Cloakwall-v0.1\">https://github.com/Rishikesh-glitch/Cloakwall-v0.1</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4...",
-      "published": "2026-09-02T10:41:21+00:00",
+      "title": "Claude Fable 5.1 watermark: It has a blind spot developers can't ignore",
+      "link": "https://thenewstack.io/fable-5-1-watermark/",
+      "summary": "<p>Article URL: <a href=\"https://thenewstack.io/fable-5-1-watermark/\">https://thenewstack.io/fable-5-1-watermark/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49538226\">https...",
+      "published": "2026-09-02T15:57:06+00:00",
+      "domain": "thenewstack.io",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Software Factories in September 2026",
+      "link": "https://igoro.com/archive/software-factories/",
+      "summary": "<p>Article URL: <a href=\"https://igoro.com/archive/software-factories/\">https://igoro.com/archive/software-factories/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49538208\">h...",
+      "published": "2026-09-02T15:56:03+00:00",
+      "domain": "igoro.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Blognami \u2013 a Markdown based blogging platform for node",
+      "link": "https://blognami.com/docs",
+      "summary": "<p>I have been working on this in the cracks of my (very limited) free time for about 4 years.<p>It runs on node, and you can install and run it locally with SQLite. There is also a SaaS version if yo...",
+      "published": "2026-09-02T15:55:20+00:00",
+      "domain": "blognami.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Aura \u2013 a Rust agent that investigates and fixes production incidents",
+      "link": "https://github.com/mezmo/aura",
+      "summary": "<p>We run a SaaS that handles petabytes of data. Our SRE team experimented with using claude, openclaw, langchain, etc. within our incident response workflows. We struggled with overflowing context, l...",
+      "published": "2026-09-02T15:55:14+00:00",
       "domain": "github.com",
       "scores": {
-        "chaos": 17.9,
-        "anarchy": 3.0,
-        "overall": 10.4
-      },
-      "keywords": {
-        "chaos": [
-          "glitch",
-          "glitch"
-        ],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "State of Postgres in 2026",
-      "link": "https://www.datadoghq.com/state-of-postgres/",
-      "summary": "<p>Article URL: <a href=\"https://www.datadoghq.com/state-of-postgres/\">https://www.datadoghq.com/state-of-postgres/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49534409\">htt...",
-      "published": "2026-09-02T10:41:03+00:00",
-      "domain": "datadoghq.com",
-      "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
         "overall": 3.0
@@ -611,43 +631,11 @@
       }
     },
     {
-      "title": "CBallast \u2013 Quick Procurement Guide",
-      "link": "https://cballast.com/",
-      "summary": "<p>Article URL: <a href=\"https://cballast.com/\">https://cballast.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49534406\">https://news.ycombinator.com/item?id=49534406</a>...",
-      "published": "2026-09-02T10:40:51+00:00",
-      "domain": "cballast.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Running in sari, 47-year-old woman wins race for daughters' education",
-      "link": "https://www.edexlive.com/news/running-barefoot-in-sari-47-year-old-woman-wins-race-for-daughters-education",
-      "summary": "<p>Article URL: <a href=\"https://www.edexlive.com/news/running-barefoot-in-sari-47-year-old-woman-wins-race-for-daughters-education\">https://www.edexlive.com/news/running-barefoot-in-sari-47-year-old-...",
-      "published": "2026-09-02T10:39:32+00:00",
-      "domain": "edexlive.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Why are there no flow batteries with symmetric ferrocyanide electrolytes?",
-      "link": "https://chemisting.com/2026/09/02/why-are-there-no-flow-batteries-with-symmetric-ferrocyanide-electrolytes/",
-      "summary": "<p>Article URL: <a href=\"https://chemisting.com/2026/09/02/why-are-there-no-flow-batteries-with-symmetric-ferrocyanide-electrolytes/\">https://chemisting.com/2026/09/02/why-are-there-no-flow-batteries-...",
-      "published": "2026-09-02T10:39:02+00:00",
-      "domain": "chemisting.com",
+      "title": "You can be wrong, even on your birthday",
+      "link": "https://www.rawsignal.ca/newsletter-archive/you-can-be-wrong-even-on-your-birthday/",
+      "summary": "<p>Article URL: <a href=\"https://www.rawsignal.ca/newsletter-archive/you-can-be-wrong-even-on-your-birthday/\">https://www.rawsignal.ca/newsletter-archive/you-can-be-wrong-even-on-your-birthday/</a></p...",
+      "published": "2026-09-02T15:54:50+00:00",
+      "domain": "rawsignal.ca",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,

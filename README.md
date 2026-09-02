@@ -16,17 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Ame framinPII redaction and tamper-evident audit logs for LiteLLM, no sidecars
+### Malicious .git Configs Can Make Claude, Codex, Cursor, and Other AI Agents Run Attacker Code
 - **Published**: September 02, 2026
-- **Summary**: https://github.com/Rishikesh-glitch/Cloakwall-v0.1</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4......
-- **Keywords**: glitch, glitch
-- [Read more](https://github.com/Rishikesh-glitch/Cloakwall-v0.1)
+- **Summary**: Manifold Security has disclosed eight security flaws across seven command-line AI coding agents in which a repository's own Git configuration names a ...
+- [Read more](https://thehackernews.com/2026/09/malicious-git-configs-can-make-claude.html)
 
-### GeoNetwork Fixes Unauthenticated RCE Chain Affecting Government Geoportal Backends
+### Malicious Apache Modules Hijack Brazilian Government Site Traffic to Push Betting Pages
 - **Published**: September 02, 2026
-- **Summary**: Two vulnerabilities in GeoNetwork can be chained to achieve unauthenticated remote code execution (RCE) on the open-source geospatial metadata catalog...
-- [Read more](https://thehackernews.com/2026/09/geonetwork-fixes-unauthenticated-rce.html)
+- **Summary**: A Chinese-speaking cybercrime cluster known as Gambling Goblin has been observed installing malicious Apache modules on compromised web servers run by...
+- [Read more](https://thehackernews.com/2026/09/malicious-apache-modules-hijack.html)
 
 ---
 
