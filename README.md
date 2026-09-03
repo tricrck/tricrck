@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Wk. 6 of Vibecoding an MMO
+### Pegasus Zero-Click Spyware Exploit Infects Serbian Student Movement Member's iPhone
 - **Published**: September 03, 2026
-- **Summary**: https://eldermyr.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49545547">https://news.ycombinator.com/item?id=49545547</...
-- [Read more](https://eldermyr.com/)
+- **Summary**: The iPhone belonging to a member of Serbia's student protest movement was infected with NSO Group's Pegasus spyware, according to new findings from th...
+- **Keywords**: protest
+- [Read more](https://thehackernews.com/2026/09/pegasus-zero-click-spyware-exploit.html)
 
-### Once you understand how to write a program get someone else to write it
+### Researcher Releases FalconFlank PoC Showing Privilege Escalation in CrowdStrike Falcon
 - **Published**: September 03, 2026
-- **Summary**: https://engineering.yale.edu/academic-study/departments/computer-science/a......
-- [Read more](https://engineering.yale.edu/academic-study/departments/computer-science/about/epigrams-programming)
+- **Summary**: The security researcher known as Chaotic Eclipse (aka INFINITE NIGHTMARE, MSNightmare, and Nightmare-Eclipse) has dropped a new zero-day dubbed Falcon...
+- [Read more](https://thehackernews.com/2026/09/researcher-releases-falconflank-poc.html)
 
 ---
 
