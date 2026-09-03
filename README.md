@@ -16,16 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Pegasus Zero-Click Spyware Exploit Infects Serbian Student Movement Member's iPhone
+### ChatGPT down: OpenAI chatbot not working in major outage
 - **Published**: September 03, 2026
-- **Summary**: The iPhone belonging to a member of Serbia's student protest movement was infected with NSO Group's Pegasus spyware, according to new findings from th...
-- **Keywords**: protest
-- [Read more](https://thehackernews.com/2026/09/pegasus-zero-click-spyware-exploit.html)
+- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1w6a3m7/chatgpt_down_openai_chatbot_not_working_in_major/"> <img alt="ChatGPT down: OpenAI ...
+- **Keywords**: down, outage, down, outage
+- [Read more](https://www.reddit.com/r/technology/comments/1w6a3m7/chatgpt_down_openai_chatbot_not_working_in_major/)
 
-### Researcher Releases FalconFlank PoC Showing Privilege Escalation in CrowdStrike Falcon
+### Grok Outage
 - **Published**: September 03, 2026
-- **Summary**: The security researcher known as Chaotic Eclipse (aka INFINITE NIGHTMARE, MSNightmare, and Nightmare-Eclipse) has dropped a new zero-day dubbed Falcon...
-- [Read more](https://thehackernews.com/2026/09/researcher-releases-falconflank-poc.html)
+- **Summary**: ......
+- **Keywords**: outage
+- [Read more](https://status.x.ai/)
 
 ---
 
