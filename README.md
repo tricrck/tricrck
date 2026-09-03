@@ -16,17 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### ChatGPT down: OpenAI chatbot not working in major outage
+### ThreatsDay: CEO Phishing Kits, 5K Dropbox Account Hacks, OAuth Traps + 17 More Stories
 - **Published**: September 03, 2026
-- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1w6a3m7/chatgpt_down_openai_chatbot_not_working_in_major/"> <img alt="ChatGPT down: OpenAI ...
-- **Keywords**: down, outage, down, outage
-- [Read more](https://www.reddit.com/r/technology/comments/1w6a3m7/chatgpt_down_openai_chatbot_not_working_in_major/)
+- **Summary**: The worst part is how normal these attacks look. A call from IT. A shared file. A trusted app. A simple request to click “Allow.” Why break in when so...
+- [Read more](https://thehackernews.com/2026/09/threatsday-ceo-phishing-kits-5k-dropbox.html)
 
-### Grok Outage
+### Critical Cisco Nexus 9000 Flaw Lets Unauthenticated Remote Attackers Run Code as Root
 - **Published**: September 03, 2026
-- **Summary**: ......
-- **Keywords**: outage
-- [Read more](https://status.x.ai/)
+- **Summary**: Cisco has released patches to address a critical security flaw affecting 10 Silicon One-based Nexus 9000 switches that could allow an unauthenticated,...
+- [Read more](https://thehackernews.com/2026/09/critical-cisco-nexus-9000-flaw-lets.html)
 
 ---
 
