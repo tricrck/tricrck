@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Google, Anthropic, and OpenAI Unveil Cyber AI Models, Safeguards, and Access Programs
-- **Published**: September 02, 2026
-- **Summary**: Google on Wednesday announced Gemini 3.8 Flash Cyber, which it described as its most capable cybersecurity model, and has made it available to a set o...
-- [Read more](https://thehackernews.com/2026/09/google-anthropic-and-openai-unveil.html)
+### Wk. 6 of Vibecoding an MMO
+- **Published**: September 03, 2026
+- **Summary**: https://eldermyr.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49545547">https://news.ycombinator.com/item?id=49545547</...
+- [Read more](https://eldermyr.com/)
 
-### Fake Software Installers Disable Windows Update and Weaken Microsoft Defender
-- **Published**: September 02, 2026
-- **Summary**: An active malware campaign is using bogus software-download websites to impersonate trusted vendors and distribute malicious installers.
-
-"The campaig...
-- [Read more](https://thehackernews.com/2026/09/fake-software-installers-disable.html)
+### Once you understand how to write a program get someone else to write it
+- **Published**: September 03, 2026
+- **Summary**: https://engineering.yale.edu/academic-study/departments/computer-science/a......
+- [Read more](https://engineering.yale.edu/academic-study/departments/computer-science/about/epigrams-programming)
 
 ---
 
