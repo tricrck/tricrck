@@ -16,15 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### ThreatsDay: CEO Phishing Kits, 5K Dropbox Account Hacks, OAuth Traps + 17 More Stories
-- **Published**: September 03, 2026
-- **Summary**: The worst part is how normal these attacks look. A call from IT. A shared file. A trusted app. A simple request to click “Allow.” Why break in when so...
-- [Read more](https://thehackernews.com/2026/09/threatsday-ceo-phishing-kits-5k-dropbox.html)
+### How Much of the Internet Is Written with AI?
+- **Published**: September 04, 2026
+- **Summary**: https://www.pewresearch.org/data-labs/2026/08/20/how-much-of-the-internet-is-wri......
+- [Read more](https://www.pewresearch.org/data-labs/2026/08/20/how-much-of-the-internet-is-written-with-ai/)
 
-### Critical Cisco Nexus 9000 Flaw Lets Unauthenticated Remote Attackers Run Code as Root
-- **Published**: September 03, 2026
-- **Summary**: Cisco has released patches to address a critical security flaw affecting 10 Silicon One-based Nexus 9000 switches that could allow an unauthenticated,...
-- [Read more](https://thehackernews.com/2026/09/critical-cisco-nexus-9000-flaw-lets.html)
+### Post-Training Language Models for Gold-Medal Performance in Coding Competitions
+- **Published**: September 04, 2026
+- **Summary**: https://arxiv.org/abs/2609.02849</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49560073">https://news.ycombinator.co......
+- [Read more](https://arxiv.org/abs/2609.02849)
 
 ---
 
