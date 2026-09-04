@@ -16,16 +16,19 @@
 
 ## 🚨 Tech Stories
 
-### How Much of the Internet Is Written with AI?
+### Over 440,000 Exploit Attempts Target Super Forms and Elementor Pro RCE Flaws
 - **Published**: September 04, 2026
-- **Summary**: https://www.pewresearch.org/data-labs/2026/08/20/how-much-of-the-internet-is-wri......
-- [Read more](https://www.pewresearch.org/data-labs/2026/08/20/how-much-of-the-internet-is-written-with-ai/)
+- **Summary**: Threat actors are exploiting two critical security flaws in WordPress plugins Super Forms and Elementor Pro, according to findings from Wordfence.
 
-### Post-Training Language Models for Gold-Medal Performance in Coding Competitions
+Th...
+- [Read more](https://thehackernews.com/2026/09/over-440000-exploit-attempts-target.html)
+
+### Plex Urges Immediate Updates After Patching Multiple Undisclosed Security Flaws
 - **Published**: September 04, 2026
-- **Summary**: https://arxiv.org/abs/2609.02849</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49560073">https://news.ycombinator.co......
-- [Read more](https://arxiv.org/abs/2609.02849)
+- **Summary**: Plex is urging users to update their instances to the latest version following the release of an update that patches multiple security flaws.
+
+The fix...
+- [Read more](https://thehackernews.com/2026/09/plex-urges-immediate-updates-after.html)
 
 ---
 
