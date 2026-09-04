@@ -16,19 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Over 440,000 Exploit Attempts Target Super Forms and Elementor Pro RCE Flaws
+### New Ted Backdoor Hides Inside Victims' Own HAProxy Builds to Intercept Web Traffic
 - **Published**: September 04, 2026
-- **Summary**: Threat actors are exploiting two critical security flaws in WordPress plugins Super Forms and Elementor Pro, according to findings from Wordfence.
+- **Summary**: A previously undocumented Linux toolkit has been found compiled directly into the trojanized HAProxy load balancers of two South Korean organizations,...
+- [Read more](https://thehackernews.com/2026/09/new-ted-backdoor-hides-inside-victims.html)
 
-Th...
-- [Read more](https://thehackernews.com/2026/09/over-440000-exploit-attempts-target.html)
-
-### Plex Urges Immediate Updates After Patching Multiple Undisclosed Security Flaws
+### The Hugging Face Controversy, Evals for Product Teams-Food 4 Agile Thought 560
 - **Published**: September 04, 2026
-- **Summary**: Plex is urging users to update their instances to the latest version following the release of an update that patches multiple security flaws.
-
-The fix...
-- [Read more](https://thehackernews.com/2026/09/plex-urges-immediate-updates-after.html)
+- **Summary**: https://age-of-product.com/food-agile-thought-560-hugging-face-controversy/</a></p>
+<p>Comments UR......
+- [Read more](https://age-of-product.com/food-agile-thought-560-hugging-face-controversy/)
 
 ---
 
