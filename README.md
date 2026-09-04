@@ -16,16 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### New Ted Backdoor Hides Inside Victims' Own HAProxy Builds to Intercept Web Traffic
+### Phishing Campaign Sends Millions of Emails Using Invisible Unicode to Evade Filters
 - **Published**: September 04, 2026
-- **Summary**: A previously undocumented Linux toolkit has been found compiled directly into the trojanized HAProxy load balancers of two South Korean organizations,...
-- [Read more](https://thehackernews.com/2026/09/new-ted-backdoor-hides-inside-victims.html)
+- **Summary**: Microsoft is alerting of a "high-volume phishing campaign" that's using invisible Unicode tag characters to bypass email filters.
 
-### The Hugging Face Controversy, Evals for Product Teams-Food 4 Agile Thought 560
+"Instead of using t...
+- [Read more](https://thehackernews.com/2026/09/phishing-campaign-sends-millions-of.html)
+
+### PostgreSQL Fixes 12-Year-Old Logical Decoding Flaw Enabling Replication-Role Code Execution
 - **Published**: September 04, 2026
-- **Summary**: https://age-of-product.com/food-agile-thought-560-hugging-face-controversy/</a></p>
-<p>Comments UR......
-- [Read more](https://age-of-product.com/food-agile-thought-560-hugging-face-controversy/)
+- **Summary**: PostgreSQL has released updates to address a security flaw that allows an account with the REPLICATION attribute to run arbitrary code as the operatin...
+- [Read more](https://thehackernews.com/2026/09/postgresql-fixes-12-year-old-logical.html)
 
 ---
 

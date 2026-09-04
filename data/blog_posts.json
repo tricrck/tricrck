@@ -1,6 +1,38 @@
 {
   "chaos_ranked": [
     {
+      "title": "Phishing Campaign Sends Millions of Emails Using Invisible Unicode to Evade Filters",
+      "link": "https://thehackernews.com/2026/09/phishing-campaign-sends-millions-of.html",
+      "summary": "Microsoft is alerting of a \"high-volume phishing campaign\" that's using invisible Unicode tag characters to bypass email filters.\n\n\"Instead of using these characters to hide instructions from people w...",
+      "published": "2026-09-04T21:27:15+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "PostgreSQL Fixes 12-Year-Old Logical Decoding Flaw Enabling Replication-Role Code Execution",
+      "link": "https://thehackernews.com/2026/09/postgresql-fixes-12-year-old-logical.html",
+      "summary": "PostgreSQL has released updates to address a security flaw that allows an account with the REPLICATION attribute to run arbitrary code as the operating-system user running the database server.\n\nThe fl...",
+      "published": "2026-09-04T20:50:19+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "New Ted Backdoor Hides Inside Victims' Own HAProxy Builds to Intercept Web Traffic",
       "link": "https://thehackernews.com/2026/09/new-ted-backdoor-hides-inside-victims.html",
       "summary": "A previously undocumented Linux toolkit has been found compiled directly into the trojanized HAProxy load balancers of two South Korean organizations, where it intercepted web traffic and served alter...",
@@ -17,11 +49,11 @@
       }
     },
     {
-      "title": "The Hugging Face Controversy, Evals for Product Teams-Food 4 Agile Thought 560",
-      "link": "https://age-of-product.com/food-agile-thought-560-hugging-face-controversy/",
-      "summary": "<p>Article URL: <a href=\"https://age-of-product.com/food-agile-thought-560-hugging-face-controversy/\">https://age-of-product.com/food-agile-thought-560-hugging-face-controversy/</a></p>\n<p>Comments UR...",
-      "published": "2026-09-04T15:49:51+00:00",
-      "domain": "age-of-product.com",
+      "title": "First-in-Human Trial of CRISPR Therapy Shown to Safely Lower Cholesterol",
+      "link": "https://newsroom.clevelandclinic.org/2026/08/28/cleveland-clinic-first-in-human-trial-of-crispr-gene-editing-therapy-shown-to-safely-and-continuously-lower-cholesterol-and-triglycerides-after-one-year",
+      "summary": "<p>Article URL: <a href=\"https://newsroom.clevelandclinic.org/2026/08/28/cleveland-clinic-first-in-human-trial-of-crispr-gene-editing-therapy-shown-to-safely-and-continuously-lower-cholesterol-and-tri...",
+      "published": "2026-09-04T20:19:46+00:00",
+      "domain": "newsroom.clevelandclinic.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -33,11 +65,11 @@
       }
     },
     {
-      "title": "Judge declares mistrial in Lindsay Clancy murder trial",
-      "link": "https://www.washingtonpost.com/nation/2026/09/04/judge-lindsay-clancy-trial-declines-remove-juror-deliberations-continue/",
-      "summary": "<p>Article URL: <a href=\"https://www.washingtonpost.com/nation/2026/09/04/judge-lindsay-clancy-trial-declines-remove-juror-deliberations-continue/\">https://www.washingtonpost.com/nation/2026/09/04/jud...",
-      "published": "2026-09-04T15:49:35+00:00",
-      "domain": "washingtonpost.com",
+      "title": "Show HN: Play Motodle (Guess the motorbike in 5 tries)",
+      "link": "https://playmotodle.com/",
+      "summary": "<p>A small project and my first experience building with dynamic workflows of \"lesser models\". Let me know what you think!</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=495...",
+      "published": "2026-09-04T20:19:00+00:00",
+      "domain": "playmotodle.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -49,26 +81,10 @@
       }
     },
     {
-      "title": "Woman who exposed FBI official for working with Russian oligarch found dead",
-      "link": "https://www.newsweek.com/allison-guerriero-michael-mcgonigal-fbi-exposed-working-russian-oligarch-dead-12392795",
-      "summary": "<p>Article URL: <a href=\"https://www.newsweek.com/allison-guerriero-michael-mcgonigal-fbi-exposed-working-russian-oligarch-dead-12392795\">https://www.newsweek.com/allison-guerriero-michael-mcgonigal-f...",
-      "published": "2026-09-04T15:49:05+00:00",
-      "domain": "newsweek.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Crossview 4.6.0 Is Out",
-      "link": "https://github.com/crossplane-contrib/crossview",
-      "summary": "<p>Article URL: <a href=\"https://github.com/crossplane-contrib/crossview\">https://github.com/crossplane-contrib/crossview</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4956632...",
-      "published": "2026-09-04T15:48:46+00:00",
+      "title": "My hands don't work, so I made a free local dictation program for Mac: YapToText",
+      "link": "https://github.com/ryleighnewman/YapToText",
+      "summary": "<p>Article URL: <a href=\"https://github.com/ryleighnewman/YapToText\">https://github.com/ryleighnewman/YapToText</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49569725\">https:/...",
+      "published": "2026-09-04T20:18:33+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -81,11 +97,11 @@
       }
     },
     {
-      "title": "Machine Speed is a lie: stop trying to fight AI with AI",
-      "link": "https://malwaretech.com/2026/09/machine-speed-is-a-lie-stop-trying-to-fight-ai-with-ai.html",
-      "summary": "<p>Article URL: <a href=\"https://malwaretech.com/2026/09/machine-speed-is-a-lie-stop-trying-to-fight-ai-with-ai.html\">https://malwaretech.com/2026/09/machine-speed-is-a-lie-stop-trying-to-fight-ai-wit...",
-      "published": "2026-09-04T15:47:01+00:00",
-      "domain": "malwaretech.com",
+      "title": "Show HN: Ultracapitalism, a Company-Building Autobattler",
+      "link": "https://chromagolem.itch.io/ultracapitalism",
+      "summary": "<p>Article URL: <a href=\"https://chromagolem.itch.io/ultracapitalism\">https://chromagolem.itch.io/ultracapitalism</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49569723\">https...",
+      "published": "2026-09-04T20:18:22+00:00",
+      "domain": "chromagolem.itch.io",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -97,11 +113,11 @@
       }
     },
     {
-      "title": "Over 440,000 Exploit Attempts Target Super Forms and Elementor Pro RCE Flaws",
-      "link": "https://thehackernews.com/2026/09/over-440000-exploit-attempts-target.html",
-      "summary": "Threat actors are exploiting two critical security flaws in WordPress plugins Super Forms and Elementor Pro, according to findings from Wordfence.\n\nThe vulnerabilities in question are -\n\n\n  CVE-2026-1...",
-      "published": "2026-09-04T14:18:45+05:30",
-      "domain": "thehackernews.com",
+      "title": "GPT-6 Astra Generally Available",
+      "link": "https://twitter.com/OpenAI/status/2095968413646737608",
+      "summary": "<p>Article URL: <a href=\"https://twitter.com/OpenAI/status/2095968413646737608\">https://twitter.com/OpenAI/status/2095968413646737608</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/ite...",
+      "published": "2026-09-04T20:16:50+00:00",
+      "domain": "twitter.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -113,11 +129,11 @@
       }
     },
     {
-      "title": "Plex Urges Immediate Updates After Patching Multiple Undisclosed Security Flaws",
-      "link": "https://thehackernews.com/2026/09/plex-urges-immediate-updates-after.html",
-      "summary": "Plex is urging users to update their instances to the latest version following the release of an update that patches multiple security flaws.\n\nThe fixes are available in Plex Media Server 1.43.3 and P...",
-      "published": "2026-09-04T13:05:14+05:30",
-      "domain": "thehackernews.com",
+      "title": "Can AI design circuit boards yet?",
+      "link": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49569366\">Comments</a>...",
+      "published": "2026-09-04T19:48:29+00:00",
+      "domain": "eebench.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -129,26 +145,10 @@
       }
     },
     {
-      "title": "Google Releases Chrome Update to Patch Actively Exploited V8 Zero-Day",
-      "link": "https://thehackernews.com/2026/09/google-releases-chrome-update-to-patch.html",
-      "summary": "Google on Thursday released security updates to patch 12 vulnerabilities, including one that has come under active exploitation in the wild.\n\nThe high-severity vulnerability, tracked as CVE-2026-85046...",
-      "published": "2026-09-04T12:48:47+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Turns out Brits would quite like their private messages to stay private",
-      "link": "https://www.reddit.com/r/technology/comments/1w72tjc/turns_out_brits_would_quite_like_their_private/",
-      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Well_Socialized\"> /u/Well_Socialized </a> <br /> <span><a href=\"https://www.theregister.com/security/2026/08/30/turns-out-brits-would-quit...",
-      "published": "2026-09-04T12:19:59+00:00",
+      "title": "Tetris issues legal warning after White House releases arcade full of parody games",
+      "link": "https://www.reddit.com/r/technology/comments/1w7dpo9/tetris_issues_legal_warning_after_white_house/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1w7dpo9/tetris_issues_legal_warning_after_white_house/\"> <img alt=\"Tetris issues legal warning after White House releases arcade ...",
+      "published": "2026-09-04T19:08:57+00:00",
       "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
@@ -163,6 +163,38 @@
   ],
   "anarchy_ranked": [
     {
+      "title": "Phishing Campaign Sends Millions of Emails Using Invisible Unicode to Evade Filters",
+      "link": "https://thehackernews.com/2026/09/phishing-campaign-sends-millions-of.html",
+      "summary": "Microsoft is alerting of a \"high-volume phishing campaign\" that's using invisible Unicode tag characters to bypass email filters.\n\n\"Instead of using these characters to hide instructions from people w...",
+      "published": "2026-09-04T21:27:15+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "PostgreSQL Fixes 12-Year-Old Logical Decoding Flaw Enabling Replication-Role Code Execution",
+      "link": "https://thehackernews.com/2026/09/postgresql-fixes-12-year-old-logical.html",
+      "summary": "PostgreSQL has released updates to address a security flaw that allows an account with the REPLICATION attribute to run arbitrary code as the operating-system user running the database server.\n\nThe fl...",
+      "published": "2026-09-04T20:50:19+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "New Ted Backdoor Hides Inside Victims' Own HAProxy Builds to Intercept Web Traffic",
       "link": "https://thehackernews.com/2026/09/new-ted-backdoor-hides-inside-victims.html",
       "summary": "A previously undocumented Linux toolkit has been found compiled directly into the trojanized HAProxy load balancers of two South Korean organizations, where it intercepted web traffic and served alter...",
@@ -179,11 +211,11 @@
       }
     },
     {
-      "title": "The Hugging Face Controversy, Evals for Product Teams-Food 4 Agile Thought 560",
-      "link": "https://age-of-product.com/food-agile-thought-560-hugging-face-controversy/",
-      "summary": "<p>Article URL: <a href=\"https://age-of-product.com/food-agile-thought-560-hugging-face-controversy/\">https://age-of-product.com/food-agile-thought-560-hugging-face-controversy/</a></p>\n<p>Comments UR...",
-      "published": "2026-09-04T15:49:51+00:00",
-      "domain": "age-of-product.com",
+      "title": "First-in-Human Trial of CRISPR Therapy Shown to Safely Lower Cholesterol",
+      "link": "https://newsroom.clevelandclinic.org/2026/08/28/cleveland-clinic-first-in-human-trial-of-crispr-gene-editing-therapy-shown-to-safely-and-continuously-lower-cholesterol-and-triglycerides-after-one-year",
+      "summary": "<p>Article URL: <a href=\"https://newsroom.clevelandclinic.org/2026/08/28/cleveland-clinic-first-in-human-trial-of-crispr-gene-editing-therapy-shown-to-safely-and-continuously-lower-cholesterol-and-tri...",
+      "published": "2026-09-04T20:19:46+00:00",
+      "domain": "newsroom.clevelandclinic.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -195,11 +227,11 @@
       }
     },
     {
-      "title": "Judge declares mistrial in Lindsay Clancy murder trial",
-      "link": "https://www.washingtonpost.com/nation/2026/09/04/judge-lindsay-clancy-trial-declines-remove-juror-deliberations-continue/",
-      "summary": "<p>Article URL: <a href=\"https://www.washingtonpost.com/nation/2026/09/04/judge-lindsay-clancy-trial-declines-remove-juror-deliberations-continue/\">https://www.washingtonpost.com/nation/2026/09/04/jud...",
-      "published": "2026-09-04T15:49:35+00:00",
-      "domain": "washingtonpost.com",
+      "title": "Show HN: Play Motodle (Guess the motorbike in 5 tries)",
+      "link": "https://playmotodle.com/",
+      "summary": "<p>A small project and my first experience building with dynamic workflows of \"lesser models\". Let me know what you think!</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=495...",
+      "published": "2026-09-04T20:19:00+00:00",
+      "domain": "playmotodle.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -211,26 +243,10 @@
       }
     },
     {
-      "title": "Woman who exposed FBI official for working with Russian oligarch found dead",
-      "link": "https://www.newsweek.com/allison-guerriero-michael-mcgonigal-fbi-exposed-working-russian-oligarch-dead-12392795",
-      "summary": "<p>Article URL: <a href=\"https://www.newsweek.com/allison-guerriero-michael-mcgonigal-fbi-exposed-working-russian-oligarch-dead-12392795\">https://www.newsweek.com/allison-guerriero-michael-mcgonigal-f...",
-      "published": "2026-09-04T15:49:05+00:00",
-      "domain": "newsweek.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Crossview 4.6.0 Is Out",
-      "link": "https://github.com/crossplane-contrib/crossview",
-      "summary": "<p>Article URL: <a href=\"https://github.com/crossplane-contrib/crossview\">https://github.com/crossplane-contrib/crossview</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4956632...",
-      "published": "2026-09-04T15:48:46+00:00",
+      "title": "My hands don't work, so I made a free local dictation program for Mac: YapToText",
+      "link": "https://github.com/ryleighnewman/YapToText",
+      "summary": "<p>Article URL: <a href=\"https://github.com/ryleighnewman/YapToText\">https://github.com/ryleighnewman/YapToText</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49569725\">https:/...",
+      "published": "2026-09-04T20:18:33+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -243,11 +259,11 @@
       }
     },
     {
-      "title": "Machine Speed is a lie: stop trying to fight AI with AI",
-      "link": "https://malwaretech.com/2026/09/machine-speed-is-a-lie-stop-trying-to-fight-ai-with-ai.html",
-      "summary": "<p>Article URL: <a href=\"https://malwaretech.com/2026/09/machine-speed-is-a-lie-stop-trying-to-fight-ai-with-ai.html\">https://malwaretech.com/2026/09/machine-speed-is-a-lie-stop-trying-to-fight-ai-wit...",
-      "published": "2026-09-04T15:47:01+00:00",
-      "domain": "malwaretech.com",
+      "title": "Show HN: Ultracapitalism, a Company-Building Autobattler",
+      "link": "https://chromagolem.itch.io/ultracapitalism",
+      "summary": "<p>Article URL: <a href=\"https://chromagolem.itch.io/ultracapitalism\">https://chromagolem.itch.io/ultracapitalism</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49569723\">https...",
+      "published": "2026-09-04T20:18:22+00:00",
+      "domain": "chromagolem.itch.io",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -259,11 +275,11 @@
       }
     },
     {
-      "title": "Over 440,000 Exploit Attempts Target Super Forms and Elementor Pro RCE Flaws",
-      "link": "https://thehackernews.com/2026/09/over-440000-exploit-attempts-target.html",
-      "summary": "Threat actors are exploiting two critical security flaws in WordPress plugins Super Forms and Elementor Pro, according to findings from Wordfence.\n\nThe vulnerabilities in question are -\n\n\n  CVE-2026-1...",
-      "published": "2026-09-04T14:18:45+05:30",
-      "domain": "thehackernews.com",
+      "title": "GPT-6 Astra Generally Available",
+      "link": "https://twitter.com/OpenAI/status/2095968413646737608",
+      "summary": "<p>Article URL: <a href=\"https://twitter.com/OpenAI/status/2095968413646737608\">https://twitter.com/OpenAI/status/2095968413646737608</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/ite...",
+      "published": "2026-09-04T20:16:50+00:00",
+      "domain": "twitter.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -275,11 +291,11 @@
       }
     },
     {
-      "title": "Plex Urges Immediate Updates After Patching Multiple Undisclosed Security Flaws",
-      "link": "https://thehackernews.com/2026/09/plex-urges-immediate-updates-after.html",
-      "summary": "Plex is urging users to update their instances to the latest version following the release of an update that patches multiple security flaws.\n\nThe fixes are available in Plex Media Server 1.43.3 and P...",
-      "published": "2026-09-04T13:05:14+05:30",
-      "domain": "thehackernews.com",
+      "title": "Can AI design circuit boards yet?",
+      "link": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49569366\">Comments</a>...",
+      "published": "2026-09-04T19:48:29+00:00",
+      "domain": "eebench.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -291,26 +307,10 @@
       }
     },
     {
-      "title": "Google Releases Chrome Update to Patch Actively Exploited V8 Zero-Day",
-      "link": "https://thehackernews.com/2026/09/google-releases-chrome-update-to-patch.html",
-      "summary": "Google on Thursday released security updates to patch 12 vulnerabilities, including one that has come under active exploitation in the wild.\n\nThe high-severity vulnerability, tracked as CVE-2026-85046...",
-      "published": "2026-09-04T12:48:47+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Turns out Brits would quite like their private messages to stay private",
-      "link": "https://www.reddit.com/r/technology/comments/1w72tjc/turns_out_brits_would_quite_like_their_private/",
-      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Well_Socialized\"> /u/Well_Socialized </a> <br /> <span><a href=\"https://www.theregister.com/security/2026/08/30/turns-out-brits-would-quit...",
-      "published": "2026-09-04T12:19:59+00:00",
+      "title": "Tetris issues legal warning after White House releases arcade full of parody games",
+      "link": "https://www.reddit.com/r/technology/comments/1w7dpo9/tetris_issues_legal_warning_after_white_house/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1w7dpo9/tetris_issues_legal_warning_after_white_house/\"> <img alt=\"Tetris issues legal warning after White House releases arcade ...",
+      "published": "2026-09-04T19:08:57+00:00",
       "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
@@ -325,6 +325,38 @@
   ],
   "overall_ranked": [
     {
+      "title": "Phishing Campaign Sends Millions of Emails Using Invisible Unicode to Evade Filters",
+      "link": "https://thehackernews.com/2026/09/phishing-campaign-sends-millions-of.html",
+      "summary": "Microsoft is alerting of a \"high-volume phishing campaign\" that's using invisible Unicode tag characters to bypass email filters.\n\n\"Instead of using these characters to hide instructions from people w...",
+      "published": "2026-09-04T21:27:15+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "PostgreSQL Fixes 12-Year-Old Logical Decoding Flaw Enabling Replication-Role Code Execution",
+      "link": "https://thehackernews.com/2026/09/postgresql-fixes-12-year-old-logical.html",
+      "summary": "PostgreSQL has released updates to address a security flaw that allows an account with the REPLICATION attribute to run arbitrary code as the operating-system user running the database server.\n\nThe fl...",
+      "published": "2026-09-04T20:50:19+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "New Ted Backdoor Hides Inside Victims' Own HAProxy Builds to Intercept Web Traffic",
       "link": "https://thehackernews.com/2026/09/new-ted-backdoor-hides-inside-victims.html",
       "summary": "A previously undocumented Linux toolkit has been found compiled directly into the trojanized HAProxy load balancers of two South Korean organizations, where it intercepted web traffic and served alter...",
@@ -341,11 +373,11 @@
       }
     },
     {
-      "title": "The Hugging Face Controversy, Evals for Product Teams-Food 4 Agile Thought 560",
-      "link": "https://age-of-product.com/food-agile-thought-560-hugging-face-controversy/",
-      "summary": "<p>Article URL: <a href=\"https://age-of-product.com/food-agile-thought-560-hugging-face-controversy/\">https://age-of-product.com/food-agile-thought-560-hugging-face-controversy/</a></p>\n<p>Comments UR...",
-      "published": "2026-09-04T15:49:51+00:00",
-      "domain": "age-of-product.com",
+      "title": "First-in-Human Trial of CRISPR Therapy Shown to Safely Lower Cholesterol",
+      "link": "https://newsroom.clevelandclinic.org/2026/08/28/cleveland-clinic-first-in-human-trial-of-crispr-gene-editing-therapy-shown-to-safely-and-continuously-lower-cholesterol-and-triglycerides-after-one-year",
+      "summary": "<p>Article URL: <a href=\"https://newsroom.clevelandclinic.org/2026/08/28/cleveland-clinic-first-in-human-trial-of-crispr-gene-editing-therapy-shown-to-safely-and-continuously-lower-cholesterol-and-tri...",
+      "published": "2026-09-04T20:19:46+00:00",
+      "domain": "newsroom.clevelandclinic.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -357,11 +389,11 @@
       }
     },
     {
-      "title": "Judge declares mistrial in Lindsay Clancy murder trial",
-      "link": "https://www.washingtonpost.com/nation/2026/09/04/judge-lindsay-clancy-trial-declines-remove-juror-deliberations-continue/",
-      "summary": "<p>Article URL: <a href=\"https://www.washingtonpost.com/nation/2026/09/04/judge-lindsay-clancy-trial-declines-remove-juror-deliberations-continue/\">https://www.washingtonpost.com/nation/2026/09/04/jud...",
-      "published": "2026-09-04T15:49:35+00:00",
-      "domain": "washingtonpost.com",
+      "title": "Show HN: Play Motodle (Guess the motorbike in 5 tries)",
+      "link": "https://playmotodle.com/",
+      "summary": "<p>A small project and my first experience building with dynamic workflows of \"lesser models\". Let me know what you think!</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=495...",
+      "published": "2026-09-04T20:19:00+00:00",
+      "domain": "playmotodle.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -373,26 +405,10 @@
       }
     },
     {
-      "title": "Woman who exposed FBI official for working with Russian oligarch found dead",
-      "link": "https://www.newsweek.com/allison-guerriero-michael-mcgonigal-fbi-exposed-working-russian-oligarch-dead-12392795",
-      "summary": "<p>Article URL: <a href=\"https://www.newsweek.com/allison-guerriero-michael-mcgonigal-fbi-exposed-working-russian-oligarch-dead-12392795\">https://www.newsweek.com/allison-guerriero-michael-mcgonigal-f...",
-      "published": "2026-09-04T15:49:05+00:00",
-      "domain": "newsweek.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Crossview 4.6.0 Is Out",
-      "link": "https://github.com/crossplane-contrib/crossview",
-      "summary": "<p>Article URL: <a href=\"https://github.com/crossplane-contrib/crossview\">https://github.com/crossplane-contrib/crossview</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4956632...",
-      "published": "2026-09-04T15:48:46+00:00",
+      "title": "My hands don't work, so I made a free local dictation program for Mac: YapToText",
+      "link": "https://github.com/ryleighnewman/YapToText",
+      "summary": "<p>Article URL: <a href=\"https://github.com/ryleighnewman/YapToText\">https://github.com/ryleighnewman/YapToText</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49569725\">https:/...",
+      "published": "2026-09-04T20:18:33+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -405,11 +421,11 @@
       }
     },
     {
-      "title": "Machine Speed is a lie: stop trying to fight AI with AI",
-      "link": "https://malwaretech.com/2026/09/machine-speed-is-a-lie-stop-trying-to-fight-ai-with-ai.html",
-      "summary": "<p>Article URL: <a href=\"https://malwaretech.com/2026/09/machine-speed-is-a-lie-stop-trying-to-fight-ai-with-ai.html\">https://malwaretech.com/2026/09/machine-speed-is-a-lie-stop-trying-to-fight-ai-wit...",
-      "published": "2026-09-04T15:47:01+00:00",
-      "domain": "malwaretech.com",
+      "title": "Show HN: Ultracapitalism, a Company-Building Autobattler",
+      "link": "https://chromagolem.itch.io/ultracapitalism",
+      "summary": "<p>Article URL: <a href=\"https://chromagolem.itch.io/ultracapitalism\">https://chromagolem.itch.io/ultracapitalism</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49569723\">https...",
+      "published": "2026-09-04T20:18:22+00:00",
+      "domain": "chromagolem.itch.io",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -421,11 +437,11 @@
       }
     },
     {
-      "title": "Over 440,000 Exploit Attempts Target Super Forms and Elementor Pro RCE Flaws",
-      "link": "https://thehackernews.com/2026/09/over-440000-exploit-attempts-target.html",
-      "summary": "Threat actors are exploiting two critical security flaws in WordPress plugins Super Forms and Elementor Pro, according to findings from Wordfence.\n\nThe vulnerabilities in question are -\n\n\n  CVE-2026-1...",
-      "published": "2026-09-04T14:18:45+05:30",
-      "domain": "thehackernews.com",
+      "title": "GPT-6 Astra Generally Available",
+      "link": "https://twitter.com/OpenAI/status/2095968413646737608",
+      "summary": "<p>Article URL: <a href=\"https://twitter.com/OpenAI/status/2095968413646737608\">https://twitter.com/OpenAI/status/2095968413646737608</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/ite...",
+      "published": "2026-09-04T20:16:50+00:00",
+      "domain": "twitter.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -437,11 +453,11 @@
       }
     },
     {
-      "title": "Plex Urges Immediate Updates After Patching Multiple Undisclosed Security Flaws",
-      "link": "https://thehackernews.com/2026/09/plex-urges-immediate-updates-after.html",
-      "summary": "Plex is urging users to update their instances to the latest version following the release of an update that patches multiple security flaws.\n\nThe fixes are available in Plex Media Server 1.43.3 and P...",
-      "published": "2026-09-04T13:05:14+05:30",
-      "domain": "thehackernews.com",
+      "title": "Can AI design circuit boards yet?",
+      "link": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49569366\">Comments</a>...",
+      "published": "2026-09-04T19:48:29+00:00",
+      "domain": "eebench.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -453,26 +469,10 @@
       }
     },
     {
-      "title": "Google Releases Chrome Update to Patch Actively Exploited V8 Zero-Day",
-      "link": "https://thehackernews.com/2026/09/google-releases-chrome-update-to-patch.html",
-      "summary": "Google on Thursday released security updates to patch 12 vulnerabilities, including one that has come under active exploitation in the wild.\n\nThe high-severity vulnerability, tracked as CVE-2026-85046...",
-      "published": "2026-09-04T12:48:47+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Turns out Brits would quite like their private messages to stay private",
-      "link": "https://www.reddit.com/r/technology/comments/1w72tjc/turns_out_brits_would_quite_like_their_private/",
-      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Well_Socialized\"> /u/Well_Socialized </a> <br /> <span><a href=\"https://www.theregister.com/security/2026/08/30/turns-out-brits-would-quit...",
-      "published": "2026-09-04T12:19:59+00:00",
+      "title": "Tetris issues legal warning after White House releases arcade full of parody games",
+      "link": "https://www.reddit.com/r/technology/comments/1w7dpo9/tetris_issues_legal_warning_after_white_house/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1w7dpo9/tetris_issues_legal_warning_after_white_house/\"> <img alt=\"Tetris issues legal warning after White House releases arcade ...",
+      "published": "2026-09-04T19:08:57+00:00",
       "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
@@ -487,6 +487,38 @@
   ],
   "all_articles": [
     {
+      "title": "Phishing Campaign Sends Millions of Emails Using Invisible Unicode to Evade Filters",
+      "link": "https://thehackernews.com/2026/09/phishing-campaign-sends-millions-of.html",
+      "summary": "Microsoft is alerting of a \"high-volume phishing campaign\" that's using invisible Unicode tag characters to bypass email filters.\n\n\"Instead of using these characters to hide instructions from people w...",
+      "published": "2026-09-04T21:27:15+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "PostgreSQL Fixes 12-Year-Old Logical Decoding Flaw Enabling Replication-Role Code Execution",
+      "link": "https://thehackernews.com/2026/09/postgresql-fixes-12-year-old-logical.html",
+      "summary": "PostgreSQL has released updates to address a security flaw that allows an account with the REPLICATION attribute to run arbitrary code as the operating-system user running the database server.\n\nThe fl...",
+      "published": "2026-09-04T20:50:19+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "New Ted Backdoor Hides Inside Victims' Own HAProxy Builds to Intercept Web Traffic",
       "link": "https://thehackernews.com/2026/09/new-ted-backdoor-hides-inside-victims.html",
       "summary": "A previously undocumented Linux toolkit has been found compiled directly into the trojanized HAProxy load balancers of two South Korean organizations, where it intercepted web traffic and served alter...",
@@ -503,11 +535,11 @@
       }
     },
     {
-      "title": "The Hugging Face Controversy, Evals for Product Teams-Food 4 Agile Thought 560",
-      "link": "https://age-of-product.com/food-agile-thought-560-hugging-face-controversy/",
-      "summary": "<p>Article URL: <a href=\"https://age-of-product.com/food-agile-thought-560-hugging-face-controversy/\">https://age-of-product.com/food-agile-thought-560-hugging-face-controversy/</a></p>\n<p>Comments UR...",
-      "published": "2026-09-04T15:49:51+00:00",
-      "domain": "age-of-product.com",
+      "title": "First-in-Human Trial of CRISPR Therapy Shown to Safely Lower Cholesterol",
+      "link": "https://newsroom.clevelandclinic.org/2026/08/28/cleveland-clinic-first-in-human-trial-of-crispr-gene-editing-therapy-shown-to-safely-and-continuously-lower-cholesterol-and-triglycerides-after-one-year",
+      "summary": "<p>Article URL: <a href=\"https://newsroom.clevelandclinic.org/2026/08/28/cleveland-clinic-first-in-human-trial-of-crispr-gene-editing-therapy-shown-to-safely-and-continuously-lower-cholesterol-and-tri...",
+      "published": "2026-09-04T20:19:46+00:00",
+      "domain": "newsroom.clevelandclinic.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -519,11 +551,11 @@
       }
     },
     {
-      "title": "Judge declares mistrial in Lindsay Clancy murder trial",
-      "link": "https://www.washingtonpost.com/nation/2026/09/04/judge-lindsay-clancy-trial-declines-remove-juror-deliberations-continue/",
-      "summary": "<p>Article URL: <a href=\"https://www.washingtonpost.com/nation/2026/09/04/judge-lindsay-clancy-trial-declines-remove-juror-deliberations-continue/\">https://www.washingtonpost.com/nation/2026/09/04/jud...",
-      "published": "2026-09-04T15:49:35+00:00",
-      "domain": "washingtonpost.com",
+      "title": "Show HN: Play Motodle (Guess the motorbike in 5 tries)",
+      "link": "https://playmotodle.com/",
+      "summary": "<p>A small project and my first experience building with dynamic workflows of \"lesser models\". Let me know what you think!</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=495...",
+      "published": "2026-09-04T20:19:00+00:00",
+      "domain": "playmotodle.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -535,26 +567,10 @@
       }
     },
     {
-      "title": "Woman who exposed FBI official for working with Russian oligarch found dead",
-      "link": "https://www.newsweek.com/allison-guerriero-michael-mcgonigal-fbi-exposed-working-russian-oligarch-dead-12392795",
-      "summary": "<p>Article URL: <a href=\"https://www.newsweek.com/allison-guerriero-michael-mcgonigal-fbi-exposed-working-russian-oligarch-dead-12392795\">https://www.newsweek.com/allison-guerriero-michael-mcgonigal-f...",
-      "published": "2026-09-04T15:49:05+00:00",
-      "domain": "newsweek.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Crossview 4.6.0 Is Out",
-      "link": "https://github.com/crossplane-contrib/crossview",
-      "summary": "<p>Article URL: <a href=\"https://github.com/crossplane-contrib/crossview\">https://github.com/crossplane-contrib/crossview</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4956632...",
-      "published": "2026-09-04T15:48:46+00:00",
+      "title": "My hands don't work, so I made a free local dictation program for Mac: YapToText",
+      "link": "https://github.com/ryleighnewman/YapToText",
+      "summary": "<p>Article URL: <a href=\"https://github.com/ryleighnewman/YapToText\">https://github.com/ryleighnewman/YapToText</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49569725\">https:/...",
+      "published": "2026-09-04T20:18:33+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -567,11 +583,11 @@
       }
     },
     {
-      "title": "Machine Speed is a lie: stop trying to fight AI with AI",
-      "link": "https://malwaretech.com/2026/09/machine-speed-is-a-lie-stop-trying-to-fight-ai-with-ai.html",
-      "summary": "<p>Article URL: <a href=\"https://malwaretech.com/2026/09/machine-speed-is-a-lie-stop-trying-to-fight-ai-with-ai.html\">https://malwaretech.com/2026/09/machine-speed-is-a-lie-stop-trying-to-fight-ai-wit...",
-      "published": "2026-09-04T15:47:01+00:00",
-      "domain": "malwaretech.com",
+      "title": "Show HN: Ultracapitalism, a Company-Building Autobattler",
+      "link": "https://chromagolem.itch.io/ultracapitalism",
+      "summary": "<p>Article URL: <a href=\"https://chromagolem.itch.io/ultracapitalism\">https://chromagolem.itch.io/ultracapitalism</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49569723\">https...",
+      "published": "2026-09-04T20:18:22+00:00",
+      "domain": "chromagolem.itch.io",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -583,11 +599,11 @@
       }
     },
     {
-      "title": "Over 440,000 Exploit Attempts Target Super Forms and Elementor Pro RCE Flaws",
-      "link": "https://thehackernews.com/2026/09/over-440000-exploit-attempts-target.html",
-      "summary": "Threat actors are exploiting two critical security flaws in WordPress plugins Super Forms and Elementor Pro, according to findings from Wordfence.\n\nThe vulnerabilities in question are -\n\n\n  CVE-2026-1...",
-      "published": "2026-09-04T14:18:45+05:30",
-      "domain": "thehackernews.com",
+      "title": "GPT-6 Astra Generally Available",
+      "link": "https://twitter.com/OpenAI/status/2095968413646737608",
+      "summary": "<p>Article URL: <a href=\"https://twitter.com/OpenAI/status/2095968413646737608\">https://twitter.com/OpenAI/status/2095968413646737608</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/ite...",
+      "published": "2026-09-04T20:16:50+00:00",
+      "domain": "twitter.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -599,11 +615,11 @@
       }
     },
     {
-      "title": "Plex Urges Immediate Updates After Patching Multiple Undisclosed Security Flaws",
-      "link": "https://thehackernews.com/2026/09/plex-urges-immediate-updates-after.html",
-      "summary": "Plex is urging users to update their instances to the latest version following the release of an update that patches multiple security flaws.\n\nThe fixes are available in Plex Media Server 1.43.3 and P...",
-      "published": "2026-09-04T13:05:14+05:30",
-      "domain": "thehackernews.com",
+      "title": "Can AI design circuit boards yet?",
+      "link": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49569366\">Comments</a>...",
+      "published": "2026-09-04T19:48:29+00:00",
+      "domain": "eebench.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -615,26 +631,10 @@
       }
     },
     {
-      "title": "Google Releases Chrome Update to Patch Actively Exploited V8 Zero-Day",
-      "link": "https://thehackernews.com/2026/09/google-releases-chrome-update-to-patch.html",
-      "summary": "Google on Thursday released security updates to patch 12 vulnerabilities, including one that has come under active exploitation in the wild.\n\nThe high-severity vulnerability, tracked as CVE-2026-85046...",
-      "published": "2026-09-04T12:48:47+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Turns out Brits would quite like their private messages to stay private",
-      "link": "https://www.reddit.com/r/technology/comments/1w72tjc/turns_out_brits_would_quite_like_their_private/",
-      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Well_Socialized\"> /u/Well_Socialized </a> <br /> <span><a href=\"https://www.theregister.com/security/2026/08/30/turns-out-brits-would-quit...",
-      "published": "2026-09-04T12:19:59+00:00",
+      "title": "Tetris issues legal warning after White House releases arcade full of parody games",
+      "link": "https://www.reddit.com/r/technology/comments/1w7dpo9/tetris_issues_legal_warning_after_white_house/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1w7dpo9/tetris_issues_legal_warning_after_white_house/\"> <img alt=\"Tetris issues legal warning after White House releases arcade ...",
+      "published": "2026-09-04T19:08:57+00:00",
       "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
