@@ -16,17 +16,18 @@
 
 ## 🚨 Tech Stories
 
-### Phishing Campaign Sends Millions of Emails Using Invisible Unicode to Evade Filters
-- **Published**: September 04, 2026
-- **Summary**: Microsoft is alerting of a "high-volume phishing campaign" that's using invisible Unicode tag characters to bypass email filters.
+### Clean Engineering, Unstable Measurement: A Preregistered Reliability Failure
+- **Published**: September 05, 2026
+- **Summary**: https://arxiv.org/abs/2609.04198</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49572719">https://news.ycombinator.co......
+- **Keywords**: failure
+- [Read more](https://arxiv.org/abs/2609.04198)
 
-"Instead of using t...
-- [Read more](https://thehackernews.com/2026/09/phishing-campaign-sends-millions-of.html)
-
-### PostgreSQL Fixes 12-Year-Old Logical Decoding Flaw Enabling Replication-Role Code Execution
-- **Published**: September 04, 2026
-- **Summary**: PostgreSQL has released updates to address a security flaw that allows an account with the REPLICATION attribute to run arbitrary code as the operatin...
-- [Read more](https://thehackernews.com/2026/09/postgresql-fixes-12-year-old-logical.html)
+### Prisment – Local-first documentation workspace for engineering teams
+- **Published**: September 05, 2026
+- **Summary**: https://prisment.io/workspace/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49572741">https://news.ycombinator.com/it......
+- [Read more](https://prisment.io/workspace/)
 
 ---
 
