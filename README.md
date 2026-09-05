@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### A Wandering Mind Is an Unhappy Mind [pdf]
+### Critical VMware Workstation and Fusion Flaw Lets VM Admins Execute Host Code
 - **Published**: September 05, 2026
-- **Summary**: https://greatergood.berkeley.edu/images/uploads/A_Wandering_Mind_Is_an_Unhappy_Mind.pd......
-- [Read more](https://greatergood.berkeley.edu/images/uploads/A_Wandering_Mind_Is_an_Unhappy_Mind.pdf)
+- **Summary**: Broadcom has released security updates for two security flaws impacting VMware Workstation and Fusion, including one critical bug that could result in...
+- **Keywords**: bug
+- [Read more](https://thehackernews.com/2026/09/critical-vmware-workstation-and-fusion.html)
 
-### Discovery of a new IRC bot message board (2018)
+### Attackers Breached JetBrains Cadence via Unpatched TeamCity, Extracting AWS Credentials
 - **Published**: September 05, 2026
-- **Summary**: https://drewdevault.com/blog/How-to-write-an-IRC-bot/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/ite......
-- [Read more](https://drewdevault.com/blog/How-to-write-an-IRC-bot/)
+- **Summary**: JetBrains is urging Cadence users to revoke and rotate all credentials following a security incident last month in which unidentified threat actors ex...
+- [Read more](https://thehackernews.com/2026/09/attackers-breached-jetbrains-cadence.html)
 
 ---
 
