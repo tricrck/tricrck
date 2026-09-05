@@ -16,18 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Clean Engineering, Unstable Measurement: A Preregistered Reliability Failure
+### Toolcall-doctor – Shrink broken LLM tool-call reproducers
 - **Published**: September 05, 2026
-- **Summary**: https://arxiv.org/abs/2609.04198</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49572719">https://news.ycombinator.co......
-- **Keywords**: failure
-- [Read more](https://arxiv.org/abs/2609.04198)
+- **Summary**: https://github.com/aldi949/toolcall-doctor</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49574887">https:/......
+- **Keywords**: broken
+- [Read more](https://github.com/aldi949/toolcall-doctor)
 
-### Prisment – Local-first documentation workspace for engineering teams
+### Thousands of OpenAI Agents Quietly Turned an Abandoned Wiki Into Their Coordination Channel
 - **Published**: September 05, 2026
-- **Summary**: https://prisment.io/workspace/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49572741">https://news.ycombinator.com/it......
-- [Read more](https://prisment.io/workspace/)
+- **Summary**: A group of AI safety researchers says a fleet of autonomous agents that identified themselves as OpenAI systems left about 18,000 posts on a dormant 2...
+- [Read more](https://thehackernews.com/2026/09/thousands-of-openai-agents-quietly.html)
 
 ---
 
