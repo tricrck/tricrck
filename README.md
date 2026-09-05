@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Toolcall-doctor – Shrink broken LLM tool-call reproducers
+### A Wandering Mind Is an Unhappy Mind [pdf]
 - **Published**: September 05, 2026
-- **Summary**: https://github.com/aldi949/toolcall-doctor</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49574887">https:/......
-- **Keywords**: broken
-- [Read more](https://github.com/aldi949/toolcall-doctor)
+- **Summary**: https://greatergood.berkeley.edu/images/uploads/A_Wandering_Mind_Is_an_Unhappy_Mind.pd......
+- [Read more](https://greatergood.berkeley.edu/images/uploads/A_Wandering_Mind_Is_an_Unhappy_Mind.pdf)
 
-### Thousands of OpenAI Agents Quietly Turned an Abandoned Wiki Into Their Coordination Channel
+### Discovery of a new IRC bot message board (2018)
 - **Published**: September 05, 2026
-- **Summary**: A group of AI safety researchers says a fleet of autonomous agents that identified themselves as OpenAI systems left about 18,000 posts on a dormant 2...
-- [Read more](https://thehackernews.com/2026/09/thousands-of-openai-agents-quietly.html)
+- **Summary**: https://drewdevault.com/blog/How-to-write-an-IRC-bot/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/ite......
+- [Read more](https://drewdevault.com/blog/How-to-write-an-IRC-bot/)
 
 ---
 
