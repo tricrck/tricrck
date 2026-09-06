@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### A/I shuts down – Stay human
+### Amazon cargo plane crashes at Miami airport after it overshoots runway
 - **Published**: September 06, 2026
-- **Summary**: ......
-- **Keywords**: down
-- [Read more](https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/)
+- **Summary**: https://www.theguardian.com/us-news/2026/sep/06/amazon-cargo-plane-crashes-miami-airp......
+- [Read more](https://www.theguardian.com/us-news/2026/sep/06/amazon-cargo-plane-crashes-miami-airport)
 
-### Attackers Hijack MikroTik Routers Through Internet-Exposed SSH Without Authentication
+### Tiny backpack on a warbler reveals epic migration
 - **Published**: September 06, 2026
-- **Summary**: Attackers are exploiting MikroTik routers with their Secure Shell (SSH) remote-access service, which is reachable from the internet, to gain full admi...
-- [Read more](https://thehackernews.com/2026/09/attackers-hijack-mikrotik-routers.html)
+- **Summary**: https://www.washingtonpost.com/health/2026/09/06/i-put-tiny-backpa......
+- [Read more](https://www.washingtonpost.com/health/2026/09/06/i-put-tiny-backpack-warbler-it-revealed-an-epic-migration/)
 
 ---
 
