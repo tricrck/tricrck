@@ -16,15 +16,16 @@
 
 ## 🚨 Tech Stories
 
+### A/I shuts down – Stay human
+- **Published**: September 06, 2026
+- **Summary**: ......
+- **Keywords**: down
+- [Read more](https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/)
+
 ### Attackers Hijack MikroTik Routers Through Internet-Exposed SSH Without Authentication
 - **Published**: September 06, 2026
 - **Summary**: Attackers are exploiting MikroTik routers with their Secure Shell (SSH) remote-access service, which is reachable from the internet, to gain full admi...
 - [Read more](https://thehackernews.com/2026/09/attackers-hijack-mikrotik-routers.html)
-
-### Four REVSTEALER-Linked Modules Disable Windows Update and Defender to Run a Crypto Miner
-- **Published**: September 06, 2026
-- **Summary**: Elastic Security Labs has documented four previously unreported programs associated with REVSTEALER, an emerging Windows information stealer, that rem...
-- [Read more](https://thehackernews.com/2026/09/four-revstealer-linked-modules-disable.html)
 
 ---
 
