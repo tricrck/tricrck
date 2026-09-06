@@ -1,106 +1,10 @@
 {
   "chaos_ranked": [
     {
-      "title": "Show HN: Say Toucan \u2013 my feedback board 3x'd its price, so I built my own",
-      "link": "https://saytoucan.com",
-      "summary": "<p>My user feedback board provider increased its price from $15 to $25 to $50/mo, so I built a ~free alternative that does just the few things I need: make a feature request, vote on feature requests ...",
-      "published": "2026-09-06T03:09:06+00:00",
-      "domain": "saytoucan.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "AI-Assisted Design of a Post-Quantum Cryptographic Accelerator",
-      "link": "https://arxiv.org/abs/2609.04058",
-      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2609.04058\">https://arxiv.org/abs/2609.04058</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49582937\">https://news.ycombinator.co...",
-      "published": "2026-09-06T03:07:07+00:00",
-      "domain": "arxiv.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "AI Stock Research Assistant \u00b7 Streamlit",
-      "link": "https://ai-stock-research-kiaan.streamlit.app",
-      "summary": "<p>Article URL: <a href=\"https://ai-stock-research-kiaan.streamlit.app\">https://ai-stock-research-kiaan.streamlit.app</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49582936\">h...",
-      "published": "2026-09-06T03:07:06+00:00",
-      "domain": "ai-stock-research-kiaan.streamlit.app",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Routed: Local, zero-token hybrid router for AI agent skills (<20ms)",
-      "link": "https://github.com/bshea-1/Routed",
-      "summary": "<p>Article URL: <a href=\"https://github.com/bshea-1/Routed\">https://github.com/bshea-1/Routed</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49582923\">https://news.ycombinator....",
-      "published": "2026-09-06T03:04:52+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Boston, 1960s Video",
-      "link": "https://www.youtube.com/watch?v=v23f7rQ4E6Q",
-      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=v23f7rQ4E6Q\">https://www.youtube.com/watch?v=v23f7rQ4E6Q</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49582918\">https...",
-      "published": "2026-09-06T03:04:14+00:00",
-      "domain": "youtube.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "GPT-6 Astra on robot arms",
-      "link": "https://openai.robocurve.org/gpt-6-astra/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49582582\">Comments</a>...",
-      "published": "2026-09-06T01:52:45+00:00",
-      "domain": "openai.robocurve.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Unpatched Magento and Adobe Commerce Zero-Day Exploited to Backdoor Online Stores",
-      "link": "https://thehackernews.com/2026/09/unpatched-magento-and-adobe-commerce.html",
-      "summary": "Attackers are exploiting a new unpatched vulnerability in Magento Open Source and Adobe Commerce that lets them run malicious code on an online store's server without logging in, Dutch e-commerce secu...",
-      "published": "2026-09-06T01:44:47+05:30",
+      "title": "Attackers Hijack MikroTik Routers Through Internet-Exposed SSH Without Authentication",
+      "link": "https://thehackernews.com/2026/09/attackers-hijack-mikrotik-routers.html",
+      "summary": "Attackers are exploiting MikroTik routers with their Secure Shell (SSH) remote-access service, which is reachable from the internet, to gain full administrative control without authentication, accordi...",
+      "published": "2026-09-06T15:02:38+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -113,26 +17,10 @@
       }
     },
     {
-      "title": "Cloud in a Bottle: making self-hosting accessible to everyone",
-      "link": "https://cloudinabottle.org/blog/launch-post",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49582000\">Comments</a>...",
-      "published": "2026-09-06T00:03:29+00:00",
-      "domain": "cloudinabottle.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Attackers Breached JetBrains Cadence via Unpatched TeamCity, Extracting AWS Credentials",
-      "link": "https://thehackernews.com/2026/09/attackers-breached-jetbrains-cadence.html",
-      "summary": "JetBrains is urging Cadence users to revoke and rotate all credentials following a security incident last month in which unidentified threat actors exploited a recently disclosed critical vulnerabilit...",
-      "published": "2026-09-05T22:22:33+05:30",
+      "title": "Four REVSTEALER-Linked Modules Disable Windows Update and Defender to Run a Crypto Miner",
+      "link": "https://thehackernews.com/2026/09/four-revstealer-linked-modules-disable.html",
+      "summary": "Elastic Security Labs has documented four previously unreported programs associated with REVSTEALER, an emerging Windows information stealer, that remain on an infected machine after the stealer delet...",
+      "published": "2026-09-06T14:04:20+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -145,10 +33,122 @@
       }
     },
     {
-      "title": "AI companies are dumping $265M into the midterms as data center backlash sweeps through communities",
-      "link": "https://www.reddit.com/r/technology/comments/1w8dypj/ai_companies_are_dumping_265m_into_the_midterms/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1w8dypj/ai_companies_are_dumping_265m_into_the_midterms/\"> <img alt=\"AI companies are dumping $265M into the midterms as data cen...",
-      "published": "2026-09-05T22:04:07+00:00",
+      "title": "M2: Episode 1 (Or, Asahi Linux on M3)",
+      "link": "https://asahilinux.org/2026/09/m2-episode-1/",
+      "summary": "<p>Article URL: <a href=\"https://asahilinux.org/2026/09/m2-episode-1/\">https://asahilinux.org/2026/09/m2-episode-1/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49585049\">htt...",
+      "published": "2026-09-06T10:20:39+00:00",
+      "domain": "asahilinux.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Nvidia is the central bank of AI",
+      "link": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+      "summary": "<p>Article URL: <a href=\"https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai\">https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-ban...",
+      "published": "2026-09-06T10:20:13+00:00",
+      "domain": "economist.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The Elephant in the Brownfield",
+      "link": "https://www.subbu.org/essays/2026/the-elephant-in-the-brownfield/",
+      "summary": "<p>Article URL: <a href=\"https://www.subbu.org/essays/2026/the-elephant-in-the-brownfield/\">https://www.subbu.org/essays/2026/the-elephant-in-the-brownfield/</a></p>\n<p>Comments URL: <a href=\"https://...",
+      "published": "2026-09-06T10:19:51+00:00",
+      "domain": "subbu.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Rogue iOS developer creates app that simulates messages sent by carrier pigeon",
+      "link": "https://www.tomshardware.com/software/applications/rogue-ios-developer-creates-app-that-simulates-messages-sent-by-carrier-pigeon-messages-only-travel-at-100mph-la-to-nyc-correspondence-takes-22-hours-to-deliver-virtual-birds-can-get-distracted-or-even-lost",
+      "summary": "<p>Article URL: <a href=\"https://www.tomshardware.com/software/applications/rogue-ios-developer-creates-app-that-simulates-messages-sent-by-carrier-pigeon-messages-only-travel-at-100mph-la-to-nyc-corr...",
+      "published": "2026-09-06T10:17:58+00:00",
+      "domain": "tomshardware.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The Harness, the Horse, or the Hay \u2013 By Brett Queener",
+      "link": "https://queener.substack.com/p/the-harness-the-horse-or-the-hay",
+      "summary": "<p>Article URL: <a href=\"https://queener.substack.com/p/the-harness-the-horse-or-the-hay\">https://queener.substack.com/p/the-harness-the-horse-or-the-hay</a></p>\n<p>Comments URL: <a href=\"https://news...",
+      "published": "2026-09-06T10:17:25+00:00",
+      "domain": "queener.substack.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Play GTA Vice City in the Browser",
+      "link": "https://quenq.com/apps/vice-city-online/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49584123\">Comments</a>...",
+      "published": "2026-09-06T07:33:17+00:00",
+      "domain": "quenq.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Isar Aerospace reaches orbit and deploys payloads on second flight",
+      "link": "https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49584083\">Comments</a>...",
+      "published": "2026-09-06T07:21:06+00:00",
+      "domain": "isaraerospace.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "US to announce sharply lower vehicle fuel economy requirements",
+      "link": "https://www.reddit.com/r/technology/comments/1w8mz2u/us_to_announce_sharply_lower_vehicle_fuel_economy/",
+      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/esporx\"> /u/esporx </a> <br /> <span><a href=\"https://www.reuters.com/world/us-announce-sharply-lower-vehicle-fuel-economy-requirements-20...",
+      "published": "2026-09-06T05:14:08+00:00",
       "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
@@ -163,106 +163,10 @@
   ],
   "anarchy_ranked": [
     {
-      "title": "Show HN: Say Toucan \u2013 my feedback board 3x'd its price, so I built my own",
-      "link": "https://saytoucan.com",
-      "summary": "<p>My user feedback board provider increased its price from $15 to $25 to $50/mo, so I built a ~free alternative that does just the few things I need: make a feature request, vote on feature requests ...",
-      "published": "2026-09-06T03:09:06+00:00",
-      "domain": "saytoucan.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "AI-Assisted Design of a Post-Quantum Cryptographic Accelerator",
-      "link": "https://arxiv.org/abs/2609.04058",
-      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2609.04058\">https://arxiv.org/abs/2609.04058</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49582937\">https://news.ycombinator.co...",
-      "published": "2026-09-06T03:07:07+00:00",
-      "domain": "arxiv.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "AI Stock Research Assistant \u00b7 Streamlit",
-      "link": "https://ai-stock-research-kiaan.streamlit.app",
-      "summary": "<p>Article URL: <a href=\"https://ai-stock-research-kiaan.streamlit.app\">https://ai-stock-research-kiaan.streamlit.app</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49582936\">h...",
-      "published": "2026-09-06T03:07:06+00:00",
-      "domain": "ai-stock-research-kiaan.streamlit.app",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Routed: Local, zero-token hybrid router for AI agent skills (<20ms)",
-      "link": "https://github.com/bshea-1/Routed",
-      "summary": "<p>Article URL: <a href=\"https://github.com/bshea-1/Routed\">https://github.com/bshea-1/Routed</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49582923\">https://news.ycombinator....",
-      "published": "2026-09-06T03:04:52+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Boston, 1960s Video",
-      "link": "https://www.youtube.com/watch?v=v23f7rQ4E6Q",
-      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=v23f7rQ4E6Q\">https://www.youtube.com/watch?v=v23f7rQ4E6Q</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49582918\">https...",
-      "published": "2026-09-06T03:04:14+00:00",
-      "domain": "youtube.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "GPT-6 Astra on robot arms",
-      "link": "https://openai.robocurve.org/gpt-6-astra/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49582582\">Comments</a>...",
-      "published": "2026-09-06T01:52:45+00:00",
-      "domain": "openai.robocurve.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Unpatched Magento and Adobe Commerce Zero-Day Exploited to Backdoor Online Stores",
-      "link": "https://thehackernews.com/2026/09/unpatched-magento-and-adobe-commerce.html",
-      "summary": "Attackers are exploiting a new unpatched vulnerability in Magento Open Source and Adobe Commerce that lets them run malicious code on an online store's server without logging in, Dutch e-commerce secu...",
-      "published": "2026-09-06T01:44:47+05:30",
+      "title": "Attackers Hijack MikroTik Routers Through Internet-Exposed SSH Without Authentication",
+      "link": "https://thehackernews.com/2026/09/attackers-hijack-mikrotik-routers.html",
+      "summary": "Attackers are exploiting MikroTik routers with their Secure Shell (SSH) remote-access service, which is reachable from the internet, to gain full administrative control without authentication, accordi...",
+      "published": "2026-09-06T15:02:38+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -275,26 +179,10 @@
       }
     },
     {
-      "title": "Cloud in a Bottle: making self-hosting accessible to everyone",
-      "link": "https://cloudinabottle.org/blog/launch-post",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49582000\">Comments</a>...",
-      "published": "2026-09-06T00:03:29+00:00",
-      "domain": "cloudinabottle.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Attackers Breached JetBrains Cadence via Unpatched TeamCity, Extracting AWS Credentials",
-      "link": "https://thehackernews.com/2026/09/attackers-breached-jetbrains-cadence.html",
-      "summary": "JetBrains is urging Cadence users to revoke and rotate all credentials following a security incident last month in which unidentified threat actors exploited a recently disclosed critical vulnerabilit...",
-      "published": "2026-09-05T22:22:33+05:30",
+      "title": "Four REVSTEALER-Linked Modules Disable Windows Update and Defender to Run a Crypto Miner",
+      "link": "https://thehackernews.com/2026/09/four-revstealer-linked-modules-disable.html",
+      "summary": "Elastic Security Labs has documented four previously unreported programs associated with REVSTEALER, an emerging Windows information stealer, that remain on an infected machine after the stealer delet...",
+      "published": "2026-09-06T14:04:20+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -307,10 +195,122 @@
       }
     },
     {
-      "title": "AI companies are dumping $265M into the midterms as data center backlash sweeps through communities",
-      "link": "https://www.reddit.com/r/technology/comments/1w8dypj/ai_companies_are_dumping_265m_into_the_midterms/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1w8dypj/ai_companies_are_dumping_265m_into_the_midterms/\"> <img alt=\"AI companies are dumping $265M into the midterms as data cen...",
-      "published": "2026-09-05T22:04:07+00:00",
+      "title": "M2: Episode 1 (Or, Asahi Linux on M3)",
+      "link": "https://asahilinux.org/2026/09/m2-episode-1/",
+      "summary": "<p>Article URL: <a href=\"https://asahilinux.org/2026/09/m2-episode-1/\">https://asahilinux.org/2026/09/m2-episode-1/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49585049\">htt...",
+      "published": "2026-09-06T10:20:39+00:00",
+      "domain": "asahilinux.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Nvidia is the central bank of AI",
+      "link": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+      "summary": "<p>Article URL: <a href=\"https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai\">https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-ban...",
+      "published": "2026-09-06T10:20:13+00:00",
+      "domain": "economist.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The Elephant in the Brownfield",
+      "link": "https://www.subbu.org/essays/2026/the-elephant-in-the-brownfield/",
+      "summary": "<p>Article URL: <a href=\"https://www.subbu.org/essays/2026/the-elephant-in-the-brownfield/\">https://www.subbu.org/essays/2026/the-elephant-in-the-brownfield/</a></p>\n<p>Comments URL: <a href=\"https://...",
+      "published": "2026-09-06T10:19:51+00:00",
+      "domain": "subbu.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Rogue iOS developer creates app that simulates messages sent by carrier pigeon",
+      "link": "https://www.tomshardware.com/software/applications/rogue-ios-developer-creates-app-that-simulates-messages-sent-by-carrier-pigeon-messages-only-travel-at-100mph-la-to-nyc-correspondence-takes-22-hours-to-deliver-virtual-birds-can-get-distracted-or-even-lost",
+      "summary": "<p>Article URL: <a href=\"https://www.tomshardware.com/software/applications/rogue-ios-developer-creates-app-that-simulates-messages-sent-by-carrier-pigeon-messages-only-travel-at-100mph-la-to-nyc-corr...",
+      "published": "2026-09-06T10:17:58+00:00",
+      "domain": "tomshardware.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The Harness, the Horse, or the Hay \u2013 By Brett Queener",
+      "link": "https://queener.substack.com/p/the-harness-the-horse-or-the-hay",
+      "summary": "<p>Article URL: <a href=\"https://queener.substack.com/p/the-harness-the-horse-or-the-hay\">https://queener.substack.com/p/the-harness-the-horse-or-the-hay</a></p>\n<p>Comments URL: <a href=\"https://news...",
+      "published": "2026-09-06T10:17:25+00:00",
+      "domain": "queener.substack.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Play GTA Vice City in the Browser",
+      "link": "https://quenq.com/apps/vice-city-online/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49584123\">Comments</a>...",
+      "published": "2026-09-06T07:33:17+00:00",
+      "domain": "quenq.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Isar Aerospace reaches orbit and deploys payloads on second flight",
+      "link": "https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49584083\">Comments</a>...",
+      "published": "2026-09-06T07:21:06+00:00",
+      "domain": "isaraerospace.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "US to announce sharply lower vehicle fuel economy requirements",
+      "link": "https://www.reddit.com/r/technology/comments/1w8mz2u/us_to_announce_sharply_lower_vehicle_fuel_economy/",
+      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/esporx\"> /u/esporx </a> <br /> <span><a href=\"https://www.reuters.com/world/us-announce-sharply-lower-vehicle-fuel-economy-requirements-20...",
+      "published": "2026-09-06T05:14:08+00:00",
       "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
@@ -325,106 +325,10 @@
   ],
   "overall_ranked": [
     {
-      "title": "Show HN: Say Toucan \u2013 my feedback board 3x'd its price, so I built my own",
-      "link": "https://saytoucan.com",
-      "summary": "<p>My user feedback board provider increased its price from $15 to $25 to $50/mo, so I built a ~free alternative that does just the few things I need: make a feature request, vote on feature requests ...",
-      "published": "2026-09-06T03:09:06+00:00",
-      "domain": "saytoucan.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "AI-Assisted Design of a Post-Quantum Cryptographic Accelerator",
-      "link": "https://arxiv.org/abs/2609.04058",
-      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2609.04058\">https://arxiv.org/abs/2609.04058</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49582937\">https://news.ycombinator.co...",
-      "published": "2026-09-06T03:07:07+00:00",
-      "domain": "arxiv.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "AI Stock Research Assistant \u00b7 Streamlit",
-      "link": "https://ai-stock-research-kiaan.streamlit.app",
-      "summary": "<p>Article URL: <a href=\"https://ai-stock-research-kiaan.streamlit.app\">https://ai-stock-research-kiaan.streamlit.app</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49582936\">h...",
-      "published": "2026-09-06T03:07:06+00:00",
-      "domain": "ai-stock-research-kiaan.streamlit.app",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Routed: Local, zero-token hybrid router for AI agent skills (<20ms)",
-      "link": "https://github.com/bshea-1/Routed",
-      "summary": "<p>Article URL: <a href=\"https://github.com/bshea-1/Routed\">https://github.com/bshea-1/Routed</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49582923\">https://news.ycombinator....",
-      "published": "2026-09-06T03:04:52+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Boston, 1960s Video",
-      "link": "https://www.youtube.com/watch?v=v23f7rQ4E6Q",
-      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=v23f7rQ4E6Q\">https://www.youtube.com/watch?v=v23f7rQ4E6Q</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49582918\">https...",
-      "published": "2026-09-06T03:04:14+00:00",
-      "domain": "youtube.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "GPT-6 Astra on robot arms",
-      "link": "https://openai.robocurve.org/gpt-6-astra/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49582582\">Comments</a>...",
-      "published": "2026-09-06T01:52:45+00:00",
-      "domain": "openai.robocurve.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Unpatched Magento and Adobe Commerce Zero-Day Exploited to Backdoor Online Stores",
-      "link": "https://thehackernews.com/2026/09/unpatched-magento-and-adobe-commerce.html",
-      "summary": "Attackers are exploiting a new unpatched vulnerability in Magento Open Source and Adobe Commerce that lets them run malicious code on an online store's server without logging in, Dutch e-commerce secu...",
-      "published": "2026-09-06T01:44:47+05:30",
+      "title": "Attackers Hijack MikroTik Routers Through Internet-Exposed SSH Without Authentication",
+      "link": "https://thehackernews.com/2026/09/attackers-hijack-mikrotik-routers.html",
+      "summary": "Attackers are exploiting MikroTik routers with their Secure Shell (SSH) remote-access service, which is reachable from the internet, to gain full administrative control without authentication, accordi...",
+      "published": "2026-09-06T15:02:38+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -437,26 +341,10 @@
       }
     },
     {
-      "title": "Cloud in a Bottle: making self-hosting accessible to everyone",
-      "link": "https://cloudinabottle.org/blog/launch-post",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49582000\">Comments</a>...",
-      "published": "2026-09-06T00:03:29+00:00",
-      "domain": "cloudinabottle.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Attackers Breached JetBrains Cadence via Unpatched TeamCity, Extracting AWS Credentials",
-      "link": "https://thehackernews.com/2026/09/attackers-breached-jetbrains-cadence.html",
-      "summary": "JetBrains is urging Cadence users to revoke and rotate all credentials following a security incident last month in which unidentified threat actors exploited a recently disclosed critical vulnerabilit...",
-      "published": "2026-09-05T22:22:33+05:30",
+      "title": "Four REVSTEALER-Linked Modules Disable Windows Update and Defender to Run a Crypto Miner",
+      "link": "https://thehackernews.com/2026/09/four-revstealer-linked-modules-disable.html",
+      "summary": "Elastic Security Labs has documented four previously unreported programs associated with REVSTEALER, an emerging Windows information stealer, that remain on an infected machine after the stealer delet...",
+      "published": "2026-09-06T14:04:20+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -469,10 +357,122 @@
       }
     },
     {
-      "title": "AI companies are dumping $265M into the midterms as data center backlash sweeps through communities",
-      "link": "https://www.reddit.com/r/technology/comments/1w8dypj/ai_companies_are_dumping_265m_into_the_midterms/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1w8dypj/ai_companies_are_dumping_265m_into_the_midterms/\"> <img alt=\"AI companies are dumping $265M into the midterms as data cen...",
-      "published": "2026-09-05T22:04:07+00:00",
+      "title": "M2: Episode 1 (Or, Asahi Linux on M3)",
+      "link": "https://asahilinux.org/2026/09/m2-episode-1/",
+      "summary": "<p>Article URL: <a href=\"https://asahilinux.org/2026/09/m2-episode-1/\">https://asahilinux.org/2026/09/m2-episode-1/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49585049\">htt...",
+      "published": "2026-09-06T10:20:39+00:00",
+      "domain": "asahilinux.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Nvidia is the central bank of AI",
+      "link": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+      "summary": "<p>Article URL: <a href=\"https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai\">https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-ban...",
+      "published": "2026-09-06T10:20:13+00:00",
+      "domain": "economist.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The Elephant in the Brownfield",
+      "link": "https://www.subbu.org/essays/2026/the-elephant-in-the-brownfield/",
+      "summary": "<p>Article URL: <a href=\"https://www.subbu.org/essays/2026/the-elephant-in-the-brownfield/\">https://www.subbu.org/essays/2026/the-elephant-in-the-brownfield/</a></p>\n<p>Comments URL: <a href=\"https://...",
+      "published": "2026-09-06T10:19:51+00:00",
+      "domain": "subbu.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Rogue iOS developer creates app that simulates messages sent by carrier pigeon",
+      "link": "https://www.tomshardware.com/software/applications/rogue-ios-developer-creates-app-that-simulates-messages-sent-by-carrier-pigeon-messages-only-travel-at-100mph-la-to-nyc-correspondence-takes-22-hours-to-deliver-virtual-birds-can-get-distracted-or-even-lost",
+      "summary": "<p>Article URL: <a href=\"https://www.tomshardware.com/software/applications/rogue-ios-developer-creates-app-that-simulates-messages-sent-by-carrier-pigeon-messages-only-travel-at-100mph-la-to-nyc-corr...",
+      "published": "2026-09-06T10:17:58+00:00",
+      "domain": "tomshardware.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The Harness, the Horse, or the Hay \u2013 By Brett Queener",
+      "link": "https://queener.substack.com/p/the-harness-the-horse-or-the-hay",
+      "summary": "<p>Article URL: <a href=\"https://queener.substack.com/p/the-harness-the-horse-or-the-hay\">https://queener.substack.com/p/the-harness-the-horse-or-the-hay</a></p>\n<p>Comments URL: <a href=\"https://news...",
+      "published": "2026-09-06T10:17:25+00:00",
+      "domain": "queener.substack.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Play GTA Vice City in the Browser",
+      "link": "https://quenq.com/apps/vice-city-online/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49584123\">Comments</a>...",
+      "published": "2026-09-06T07:33:17+00:00",
+      "domain": "quenq.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Isar Aerospace reaches orbit and deploys payloads on second flight",
+      "link": "https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49584083\">Comments</a>...",
+      "published": "2026-09-06T07:21:06+00:00",
+      "domain": "isaraerospace.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "US to announce sharply lower vehicle fuel economy requirements",
+      "link": "https://www.reddit.com/r/technology/comments/1w8mz2u/us_to_announce_sharply_lower_vehicle_fuel_economy/",
+      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/esporx\"> /u/esporx </a> <br /> <span><a href=\"https://www.reuters.com/world/us-announce-sharply-lower-vehicle-fuel-economy-requirements-20...",
+      "published": "2026-09-06T05:14:08+00:00",
       "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
@@ -487,106 +487,10 @@
   ],
   "all_articles": [
     {
-      "title": "Show HN: Say Toucan \u2013 my feedback board 3x'd its price, so I built my own",
-      "link": "https://saytoucan.com",
-      "summary": "<p>My user feedback board provider increased its price from $15 to $25 to $50/mo, so I built a ~free alternative that does just the few things I need: make a feature request, vote on feature requests ...",
-      "published": "2026-09-06T03:09:06+00:00",
-      "domain": "saytoucan.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "AI-Assisted Design of a Post-Quantum Cryptographic Accelerator",
-      "link": "https://arxiv.org/abs/2609.04058",
-      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2609.04058\">https://arxiv.org/abs/2609.04058</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49582937\">https://news.ycombinator.co...",
-      "published": "2026-09-06T03:07:07+00:00",
-      "domain": "arxiv.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "AI Stock Research Assistant \u00b7 Streamlit",
-      "link": "https://ai-stock-research-kiaan.streamlit.app",
-      "summary": "<p>Article URL: <a href=\"https://ai-stock-research-kiaan.streamlit.app\">https://ai-stock-research-kiaan.streamlit.app</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49582936\">h...",
-      "published": "2026-09-06T03:07:06+00:00",
-      "domain": "ai-stock-research-kiaan.streamlit.app",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Routed: Local, zero-token hybrid router for AI agent skills (<20ms)",
-      "link": "https://github.com/bshea-1/Routed",
-      "summary": "<p>Article URL: <a href=\"https://github.com/bshea-1/Routed\">https://github.com/bshea-1/Routed</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49582923\">https://news.ycombinator....",
-      "published": "2026-09-06T03:04:52+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Boston, 1960s Video",
-      "link": "https://www.youtube.com/watch?v=v23f7rQ4E6Q",
-      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=v23f7rQ4E6Q\">https://www.youtube.com/watch?v=v23f7rQ4E6Q</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49582918\">https...",
-      "published": "2026-09-06T03:04:14+00:00",
-      "domain": "youtube.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "GPT-6 Astra on robot arms",
-      "link": "https://openai.robocurve.org/gpt-6-astra/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49582582\">Comments</a>...",
-      "published": "2026-09-06T01:52:45+00:00",
-      "domain": "openai.robocurve.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Unpatched Magento and Adobe Commerce Zero-Day Exploited to Backdoor Online Stores",
-      "link": "https://thehackernews.com/2026/09/unpatched-magento-and-adobe-commerce.html",
-      "summary": "Attackers are exploiting a new unpatched vulnerability in Magento Open Source and Adobe Commerce that lets them run malicious code on an online store's server without logging in, Dutch e-commerce secu...",
-      "published": "2026-09-06T01:44:47+05:30",
+      "title": "Attackers Hijack MikroTik Routers Through Internet-Exposed SSH Without Authentication",
+      "link": "https://thehackernews.com/2026/09/attackers-hijack-mikrotik-routers.html",
+      "summary": "Attackers are exploiting MikroTik routers with their Secure Shell (SSH) remote-access service, which is reachable from the internet, to gain full administrative control without authentication, accordi...",
+      "published": "2026-09-06T15:02:38+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -599,26 +503,10 @@
       }
     },
     {
-      "title": "Cloud in a Bottle: making self-hosting accessible to everyone",
-      "link": "https://cloudinabottle.org/blog/launch-post",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49582000\">Comments</a>...",
-      "published": "2026-09-06T00:03:29+00:00",
-      "domain": "cloudinabottle.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Attackers Breached JetBrains Cadence via Unpatched TeamCity, Extracting AWS Credentials",
-      "link": "https://thehackernews.com/2026/09/attackers-breached-jetbrains-cadence.html",
-      "summary": "JetBrains is urging Cadence users to revoke and rotate all credentials following a security incident last month in which unidentified threat actors exploited a recently disclosed critical vulnerabilit...",
-      "published": "2026-09-05T22:22:33+05:30",
+      "title": "Four REVSTEALER-Linked Modules Disable Windows Update and Defender to Run a Crypto Miner",
+      "link": "https://thehackernews.com/2026/09/four-revstealer-linked-modules-disable.html",
+      "summary": "Elastic Security Labs has documented four previously unreported programs associated with REVSTEALER, an emerging Windows information stealer, that remain on an infected machine after the stealer delet...",
+      "published": "2026-09-06T14:04:20+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -631,10 +519,122 @@
       }
     },
     {
-      "title": "AI companies are dumping $265M into the midterms as data center backlash sweeps through communities",
-      "link": "https://www.reddit.com/r/technology/comments/1w8dypj/ai_companies_are_dumping_265m_into_the_midterms/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1w8dypj/ai_companies_are_dumping_265m_into_the_midterms/\"> <img alt=\"AI companies are dumping $265M into the midterms as data cen...",
-      "published": "2026-09-05T22:04:07+00:00",
+      "title": "M2: Episode 1 (Or, Asahi Linux on M3)",
+      "link": "https://asahilinux.org/2026/09/m2-episode-1/",
+      "summary": "<p>Article URL: <a href=\"https://asahilinux.org/2026/09/m2-episode-1/\">https://asahilinux.org/2026/09/m2-episode-1/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49585049\">htt...",
+      "published": "2026-09-06T10:20:39+00:00",
+      "domain": "asahilinux.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Nvidia is the central bank of AI",
+      "link": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+      "summary": "<p>Article URL: <a href=\"https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai\">https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-ban...",
+      "published": "2026-09-06T10:20:13+00:00",
+      "domain": "economist.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The Elephant in the Brownfield",
+      "link": "https://www.subbu.org/essays/2026/the-elephant-in-the-brownfield/",
+      "summary": "<p>Article URL: <a href=\"https://www.subbu.org/essays/2026/the-elephant-in-the-brownfield/\">https://www.subbu.org/essays/2026/the-elephant-in-the-brownfield/</a></p>\n<p>Comments URL: <a href=\"https://...",
+      "published": "2026-09-06T10:19:51+00:00",
+      "domain": "subbu.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Rogue iOS developer creates app that simulates messages sent by carrier pigeon",
+      "link": "https://www.tomshardware.com/software/applications/rogue-ios-developer-creates-app-that-simulates-messages-sent-by-carrier-pigeon-messages-only-travel-at-100mph-la-to-nyc-correspondence-takes-22-hours-to-deliver-virtual-birds-can-get-distracted-or-even-lost",
+      "summary": "<p>Article URL: <a href=\"https://www.tomshardware.com/software/applications/rogue-ios-developer-creates-app-that-simulates-messages-sent-by-carrier-pigeon-messages-only-travel-at-100mph-la-to-nyc-corr...",
+      "published": "2026-09-06T10:17:58+00:00",
+      "domain": "tomshardware.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The Harness, the Horse, or the Hay \u2013 By Brett Queener",
+      "link": "https://queener.substack.com/p/the-harness-the-horse-or-the-hay",
+      "summary": "<p>Article URL: <a href=\"https://queener.substack.com/p/the-harness-the-horse-or-the-hay\">https://queener.substack.com/p/the-harness-the-horse-or-the-hay</a></p>\n<p>Comments URL: <a href=\"https://news...",
+      "published": "2026-09-06T10:17:25+00:00",
+      "domain": "queener.substack.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Play GTA Vice City in the Browser",
+      "link": "https://quenq.com/apps/vice-city-online/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49584123\">Comments</a>...",
+      "published": "2026-09-06T07:33:17+00:00",
+      "domain": "quenq.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Isar Aerospace reaches orbit and deploys payloads on second flight",
+      "link": "https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49584083\">Comments</a>...",
+      "published": "2026-09-06T07:21:06+00:00",
+      "domain": "isaraerospace.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "US to announce sharply lower vehicle fuel economy requirements",
+      "link": "https://www.reddit.com/r/technology/comments/1w8mz2u/us_to_announce_sharply_lower_vehicle_fuel_economy/",
+      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/esporx\"> /u/esporx </a> <br /> <span><a href=\"https://www.reuters.com/world/us-announce-sharply-lower-vehicle-fuel-economy-requirements-20...",
+      "published": "2026-09-06T05:14:08+00:00",
       "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,

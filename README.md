@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Show HN: Say Toucan – my feedback board 3x'd its price, so I built my own
+### Attackers Hijack MikroTik Routers Through Internet-Exposed SSH Without Authentication
 - **Published**: September 06, 2026
-- **Summary**: <p>My user feedback board provider increased its price from $15 to $25 to $50/mo, so I built a ~free alternative that does just the few things I need:...
-- [Read more](https://saytoucan.com)
+- **Summary**: Attackers are exploiting MikroTik routers with their Secure Shell (SSH) remote-access service, which is reachable from the internet, to gain full admi...
+- [Read more](https://thehackernews.com/2026/09/attackers-hijack-mikrotik-routers.html)
 
-### AI-Assisted Design of a Post-Quantum Cryptographic Accelerator
+### Four REVSTEALER-Linked Modules Disable Windows Update and Defender to Run a Crypto Miner
 - **Published**: September 06, 2026
-- **Summary**: https://arxiv.org/abs/2609.04058</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49582937">https://news.ycombinator.co......
-- [Read more](https://arxiv.org/abs/2609.04058)
+- **Summary**: Elastic Security Labs has documented four previously unreported programs associated with REVSTEALER, an emerging Windows information stealer, that rem...
+- [Read more](https://thehackernews.com/2026/09/four-revstealer-linked-modules-disable.html)
 
 ---
 
