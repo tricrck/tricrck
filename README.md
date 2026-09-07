@@ -16,15 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### N-able Issues Fourth N-central Hotfix in Five Weeks for Unauthenticated RCE Flaw
+### Telerik UI Padding-Oracle Bug Chained to Unauthenticated RCE — Public Exploit Released
 - **Published**: September 07, 2026
-- **Summary**: Every on-premises N-central build below 2026.3.1.14 — including servers updated to Hotfix 3 a day earlier — needs Hotfix 4. N-able's incident notice s...
-- [Read more](https://thehackernews.com/2026/09/n-able-issues-fourth-n-central-hotfix.html)
+- **Summary**: A TantoSec proof-of-concept turns an AES-CBC "padding oracle" in Telerik UI for ASP.NET AJAX into unauthenticated remote code execution — but only aga...
+- **Keywords**: bug
+- [Read more](https://thehackernews.com/2026/09/telerik-ui-padding-oracle-bug-chained.html)
 
-### JSCeal Malware Can Bypass Google Authentication Using Stolen Session Cookies
+### Fake IT Calls Target Executives in Microsoft 365 Data Theft and Extortion Attacks
 - **Published**: September 07, 2026
-- **Summary**: Cybersecurity researchers have unpacked JSCeal, a sophisticated compiled V8 JavaScript (JSC) malware with credential harvesting, surveillance, and tra...
-- [Read more](https://thehackernews.com/2026/09/jsceal-malware-can-bypass-google.html)
+- **Summary**: Threat hunters have disclosed details of a widespread data theft and extortion threat cluster that's targeting Microsoft 365 and other software-as-a-s...
+- [Read more](https://thehackernews.com/2026/09/microsoft-365-attackers-use-help-desk.html)
 
 ---
 
