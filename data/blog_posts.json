@@ -1,20 +1,18 @@
 {
   "chaos_ranked": [
     {
-      "title": "Telerik UI Padding-Oracle Bug Chained to Unauthenticated RCE \u2014 Public Exploit Released",
-      "link": "https://thehackernews.com/2026/09/telerik-ui-padding-oracle-bug-chained.html",
-      "summary": "A TantoSec proof-of-concept turns an AES-CBC \"padding oracle\" in Telerik UI for ASP.NET AJAX into unauthenticated remote code execution \u2014 but only against applications in a specific non-default config...",
-      "published": "2026-09-07T16:50:14+05:30",
+      "title": "PEEP Turns Chrome and Edge Into Post-Compromise Backdoors for Host Command Execution",
+      "link": "https://thehackernews.com/2026/09/peep-turns-chrome-and-edge-into-post.html",
+      "summary": "Cybersecurity researchers have disclosed details of a complex Chromium-based post-exploitation toolkit called PEEP that masquerades as a bookmarks extension for the web browser.\n\n\"Requiring prior admi...",
+      "published": "2026-09-07T23:42:09+05:30",
       "domain": "thehackernews.com",
       "scores": {
-        "chaos": 10.8,
+        "chaos": 3.0,
         "anarchy": 3.0,
-        "overall": 6.9
+        "overall": 3.0
       },
       "keywords": {
-        "chaos": [
-          "bug"
-        ],
+        "chaos": [],
         "anarchy": []
       }
     },
@@ -24,6 +22,86 @@
       "summary": "Threat hunters have disclosed details of a widespread data theft and extortion threat cluster that's targeting Microsoft 365 and other software-as-a-service (SaaS) offerings through information techno...",
       "published": "2026-09-07T21:21:56+05:30",
       "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The purpose of DNS is to spread scams",
+      "link": "https://shkspr.mobi/blog/2026/09/the-purpose-of-dns-is-to-spread-scams/",
+      "summary": "<p>Article URL: <a href=\"https://shkspr.mobi/blog/2026/09/the-purpose-of-dns-is-to-spread-scams/\">https://shkspr.mobi/blog/2026/09/the-purpose-of-dns-is-to-spread-scams/</a></p>\n<p>Comments URL: <a hr...",
+      "published": "2026-09-07T21:00:02+00:00",
+      "domain": "shkspr.mobi",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Rejourney \u2013 Finds user \"leaks\" in apps and websites",
+      "link": "https://rejourney.co/demo/leaks",
+      "summary": "<p>Hi there HN,<p>Ever used a user/session replay tool before? Absolutely phenomenal for immediate feedback (and your dopamine). It causes a \u201cHoneymoon Phase\u201d where you are addicted and constantly che...",
+      "published": "2026-09-07T20:56:38+00:00",
+      "domain": "rejourney.co",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Pixel is a unit of length and area",
+      "link": "https://www.nayuki.io/page/pixel-is-a-unit-of-length-and-area",
+      "summary": "<p>Article URL: <a href=\"https://www.nayuki.io/page/pixel-is-a-unit-of-length-and-area\">https://www.nayuki.io/page/pixel-is-a-unit-of-length-and-area</a></p>\n<p>Comments URL: <a href=\"https://news.yco...",
+      "published": "2026-09-07T20:53:41+00:00",
+      "domain": "nayuki.io",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Beta User for Proven Trips",
+      "link": "https://proventrips.com",
+      "summary": "<p>Article URL: <a href=\"https://proventrips.com\">https://proventrips.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49602877\">https://news.ycombinator.com/item?id=49602877...",
+      "published": "2026-09-07T20:52:11+00:00",
+      "domain": "proventrips.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: DNTLS \u2013 Decentralized Trust Layer for the Open Internet",
+      "link": "https://dntls.net/",
+      "summary": "<p>Article URL: <a href=\"https://dntls.net/\">https://dntls.net/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49602867\">https://news.ycombinator.com/item?id=49602867</a></p>\n<...",
+      "published": "2026-09-07T20:51:09+00:00",
+      "domain": "dntls.net",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -51,27 +129,11 @@
       }
     },
     {
-      "title": "San Francisco institution 'heartbroken and furious' after erasure of public art",
-      "link": "https://www.sfgate.com/local/article/clarion-alley-murals-erased-22420365.php",
-      "summary": "<p>Article URL: <a href=\"https://www.sfgate.com/local/article/clarion-alley-murals-erased-22420365.php\">https://www.sfgate.com/local/article/clarion-alley-murals-erased-22420365.php</a></p>\n<p>Comment...",
-      "published": "2026-09-07T17:19:14+00:00",
-      "domain": "sfgate.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The auto-formalization of mathematics versus law",
-      "link": "https://lexifina.com/blog/auto-formalisation-of-law",
-      "summary": "<p>Article URL: <a href=\"https://lexifina.com/blog/auto-formalisation-of-law\">https://lexifina.com/blog/auto-formalisation-of-law</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id...",
-      "published": "2026-09-07T17:17:01+00:00",
-      "domain": "lexifina.com",
+      "title": "Watch Los Angeles get built, one building at a time (1880\u20132026)",
+      "link": "https://lax-skyline.parcelscope.net/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49601655\">Comments</a>...",
+      "published": "2026-09-07T18:52:06+00:00",
+      "domain": "lax-skyline.parcelscope.net",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -87,70 +149,6 @@
       "link": "https://thehackernews.com/2026/09/your-cloud-security-checklist-doesnt.html",
       "summary": "If managing security across multiple cloud providers wasn't hard enough, each one fails in a different way. For the 2026 Cloud Security Index, Intruder analyzed misconfiguration data from 3,000 organi...",
       "published": "2026-09-07T17:15:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "SnapFire FSR: Write TypeScript. Run Rust. Ditch Node.js",
-      "link": "https://snapfirers.com/",
-      "summary": "<p>Article URL: <a href=\"https://snapfirers.com/\">https://snapfirers.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49600585\">https://news.ycombinator.com/item?id=49600585...",
-      "published": "2026-09-07T17:14:19+00:00",
-      "domain": "snapfirers.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "A fast client only protein viewer",
-      "link": "https://github.com/buyukakyuz/protein-foldspace",
-      "summary": "<p>Article URL: <a href=\"https://github.com/buyukakyuz/protein-foldspace\">https://github.com/buyukakyuz/protein-foldspace</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4960058...",
-      "published": "2026-09-07T17:14:15+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The Aviation Herald was sued \u2013 July 31st 2026",
-      "link": "https://avherald.com/h?article=53c8958a",
-      "summary": "<p>Article URL: <a href=\"https://avherald.com/h?article=53c8958a\">https://avherald.com/h?article=53c8958a</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49600578\">https://news....",
-      "published": "2026-09-07T17:13:45+00:00",
-      "domain": "avherald.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Rogue ScreenConnect Clients Spread Four-Stage VBScript Chain to Newly Connected Hosts",
-      "link": "https://thehackernews.com/2026/09/rogue-screenconnect-clients-spread-four.html",
-      "summary": "Cybersecurity researchers have disclosed details of worm-like activity that abuses ConnectWise ScreenConnect to distribute a malicious Visual Basic Script (VBScript) payload to newly connected systems...",
-      "published": "2026-09-07T17:06:39+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -165,11 +163,107 @@
   ],
   "anarchy_ranked": [
     {
+      "title": "PEEP Turns Chrome and Edge Into Post-Compromise Backdoors for Host Command Execution",
+      "link": "https://thehackernews.com/2026/09/peep-turns-chrome-and-edge-into-post.html",
+      "summary": "Cybersecurity researchers have disclosed details of a complex Chromium-based post-exploitation toolkit called PEEP that masquerades as a bookmarks extension for the web browser.\n\n\"Requiring prior admi...",
+      "published": "2026-09-07T23:42:09+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "Fake IT Calls Target Executives in Microsoft 365 Data Theft and Extortion Attacks",
       "link": "https://thehackernews.com/2026/09/microsoft-365-attackers-use-help-desk.html",
       "summary": "Threat hunters have disclosed details of a widespread data theft and extortion threat cluster that's targeting Microsoft 365 and other software-as-a-service (SaaS) offerings through information techno...",
       "published": "2026-09-07T21:21:56+05:30",
       "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The purpose of DNS is to spread scams",
+      "link": "https://shkspr.mobi/blog/2026/09/the-purpose-of-dns-is-to-spread-scams/",
+      "summary": "<p>Article URL: <a href=\"https://shkspr.mobi/blog/2026/09/the-purpose-of-dns-is-to-spread-scams/\">https://shkspr.mobi/blog/2026/09/the-purpose-of-dns-is-to-spread-scams/</a></p>\n<p>Comments URL: <a hr...",
+      "published": "2026-09-07T21:00:02+00:00",
+      "domain": "shkspr.mobi",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Rejourney \u2013 Finds user \"leaks\" in apps and websites",
+      "link": "https://rejourney.co/demo/leaks",
+      "summary": "<p>Hi there HN,<p>Ever used a user/session replay tool before? Absolutely phenomenal for immediate feedback (and your dopamine). It causes a \u201cHoneymoon Phase\u201d where you are addicted and constantly che...",
+      "published": "2026-09-07T20:56:38+00:00",
+      "domain": "rejourney.co",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Pixel is a unit of length and area",
+      "link": "https://www.nayuki.io/page/pixel-is-a-unit-of-length-and-area",
+      "summary": "<p>Article URL: <a href=\"https://www.nayuki.io/page/pixel-is-a-unit-of-length-and-area\">https://www.nayuki.io/page/pixel-is-a-unit-of-length-and-area</a></p>\n<p>Comments URL: <a href=\"https://news.yco...",
+      "published": "2026-09-07T20:53:41+00:00",
+      "domain": "nayuki.io",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Beta User for Proven Trips",
+      "link": "https://proventrips.com",
+      "summary": "<p>Article URL: <a href=\"https://proventrips.com\">https://proventrips.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49602877\">https://news.ycombinator.com/item?id=49602877...",
+      "published": "2026-09-07T20:52:11+00:00",
+      "domain": "proventrips.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: DNTLS \u2013 Decentralized Trust Layer for the Open Internet",
+      "link": "https://dntls.net/",
+      "summary": "<p>Article URL: <a href=\"https://dntls.net/\">https://dntls.net/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49602867\">https://news.ycombinator.com/item?id=49602867</a></p>\n<...",
+      "published": "2026-09-07T20:51:09+00:00",
+      "domain": "dntls.net",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -197,27 +291,11 @@
       }
     },
     {
-      "title": "San Francisco institution 'heartbroken and furious' after erasure of public art",
-      "link": "https://www.sfgate.com/local/article/clarion-alley-murals-erased-22420365.php",
-      "summary": "<p>Article URL: <a href=\"https://www.sfgate.com/local/article/clarion-alley-murals-erased-22420365.php\">https://www.sfgate.com/local/article/clarion-alley-murals-erased-22420365.php</a></p>\n<p>Comment...",
-      "published": "2026-09-07T17:19:14+00:00",
-      "domain": "sfgate.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The auto-formalization of mathematics versus law",
-      "link": "https://lexifina.com/blog/auto-formalisation-of-law",
-      "summary": "<p>Article URL: <a href=\"https://lexifina.com/blog/auto-formalisation-of-law\">https://lexifina.com/blog/auto-formalisation-of-law</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id...",
-      "published": "2026-09-07T17:17:01+00:00",
-      "domain": "lexifina.com",
+      "title": "Watch Los Angeles get built, one building at a time (1880\u20132026)",
+      "link": "https://lax-skyline.parcelscope.net/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49601655\">Comments</a>...",
+      "published": "2026-09-07T18:52:06+00:00",
+      "domain": "lax-skyline.parcelscope.net",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -241,108 +319,24 @@
       },
       "keywords": {
         "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "SnapFire FSR: Write TypeScript. Run Rust. Ditch Node.js",
-      "link": "https://snapfirers.com/",
-      "summary": "<p>Article URL: <a href=\"https://snapfirers.com/\">https://snapfirers.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49600585\">https://news.ycombinator.com/item?id=49600585...",
-      "published": "2026-09-07T17:14:19+00:00",
-      "domain": "snapfirers.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "A fast client only protein viewer",
-      "link": "https://github.com/buyukakyuz/protein-foldspace",
-      "summary": "<p>Article URL: <a href=\"https://github.com/buyukakyuz/protein-foldspace\">https://github.com/buyukakyuz/protein-foldspace</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4960058...",
-      "published": "2026-09-07T17:14:15+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The Aviation Herald was sued \u2013 July 31st 2026",
-      "link": "https://avherald.com/h?article=53c8958a",
-      "summary": "<p>Article URL: <a href=\"https://avherald.com/h?article=53c8958a\">https://avherald.com/h?article=53c8958a</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49600578\">https://news....",
-      "published": "2026-09-07T17:13:45+00:00",
-      "domain": "avherald.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Rogue ScreenConnect Clients Spread Four-Stage VBScript Chain to Newly Connected Hosts",
-      "link": "https://thehackernews.com/2026/09/rogue-screenconnect-clients-spread-four.html",
-      "summary": "Cybersecurity researchers have disclosed details of worm-like activity that abuses ConnectWise ScreenConnect to distribute a malicious Visual Basic Script (VBScript) payload to newly connected systems...",
-      "published": "2026-09-07T17:06:39+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Telerik UI Padding-Oracle Bug Chained to Unauthenticated RCE \u2014 Public Exploit Released",
-      "link": "https://thehackernews.com/2026/09/telerik-ui-padding-oracle-bug-chained.html",
-      "summary": "A TantoSec proof-of-concept turns an AES-CBC \"padding oracle\" in Telerik UI for ASP.NET AJAX into unauthenticated remote code execution \u2014 but only against applications in a specific non-default config...",
-      "published": "2026-09-07T16:50:14+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 10.8,
-        "anarchy": 3.0,
-        "overall": 6.9
-      },
-      "keywords": {
-        "chaos": [
-          "bug"
-        ],
         "anarchy": []
       }
     }
   ],
   "overall_ranked": [
     {
-      "title": "Telerik UI Padding-Oracle Bug Chained to Unauthenticated RCE \u2014 Public Exploit Released",
-      "link": "https://thehackernews.com/2026/09/telerik-ui-padding-oracle-bug-chained.html",
-      "summary": "A TantoSec proof-of-concept turns an AES-CBC \"padding oracle\" in Telerik UI for ASP.NET AJAX into unauthenticated remote code execution \u2014 but only against applications in a specific non-default config...",
-      "published": "2026-09-07T16:50:14+05:30",
+      "title": "PEEP Turns Chrome and Edge Into Post-Compromise Backdoors for Host Command Execution",
+      "link": "https://thehackernews.com/2026/09/peep-turns-chrome-and-edge-into-post.html",
+      "summary": "Cybersecurity researchers have disclosed details of a complex Chromium-based post-exploitation toolkit called PEEP that masquerades as a bookmarks extension for the web browser.\n\n\"Requiring prior admi...",
+      "published": "2026-09-07T23:42:09+05:30",
       "domain": "thehackernews.com",
       "scores": {
-        "chaos": 10.8,
+        "chaos": 3.0,
         "anarchy": 3.0,
-        "overall": 6.9
+        "overall": 3.0
       },
       "keywords": {
-        "chaos": [
-          "bug"
-        ],
+        "chaos": [],
         "anarchy": []
       }
     },
@@ -352,6 +346,86 @@
       "summary": "Threat hunters have disclosed details of a widespread data theft and extortion threat cluster that's targeting Microsoft 365 and other software-as-a-service (SaaS) offerings through information techno...",
       "published": "2026-09-07T21:21:56+05:30",
       "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The purpose of DNS is to spread scams",
+      "link": "https://shkspr.mobi/blog/2026/09/the-purpose-of-dns-is-to-spread-scams/",
+      "summary": "<p>Article URL: <a href=\"https://shkspr.mobi/blog/2026/09/the-purpose-of-dns-is-to-spread-scams/\">https://shkspr.mobi/blog/2026/09/the-purpose-of-dns-is-to-spread-scams/</a></p>\n<p>Comments URL: <a hr...",
+      "published": "2026-09-07T21:00:02+00:00",
+      "domain": "shkspr.mobi",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Rejourney \u2013 Finds user \"leaks\" in apps and websites",
+      "link": "https://rejourney.co/demo/leaks",
+      "summary": "<p>Hi there HN,<p>Ever used a user/session replay tool before? Absolutely phenomenal for immediate feedback (and your dopamine). It causes a \u201cHoneymoon Phase\u201d where you are addicted and constantly che...",
+      "published": "2026-09-07T20:56:38+00:00",
+      "domain": "rejourney.co",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Pixel is a unit of length and area",
+      "link": "https://www.nayuki.io/page/pixel-is-a-unit-of-length-and-area",
+      "summary": "<p>Article URL: <a href=\"https://www.nayuki.io/page/pixel-is-a-unit-of-length-and-area\">https://www.nayuki.io/page/pixel-is-a-unit-of-length-and-area</a></p>\n<p>Comments URL: <a href=\"https://news.yco...",
+      "published": "2026-09-07T20:53:41+00:00",
+      "domain": "nayuki.io",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Beta User for Proven Trips",
+      "link": "https://proventrips.com",
+      "summary": "<p>Article URL: <a href=\"https://proventrips.com\">https://proventrips.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49602877\">https://news.ycombinator.com/item?id=49602877...",
+      "published": "2026-09-07T20:52:11+00:00",
+      "domain": "proventrips.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: DNTLS \u2013 Decentralized Trust Layer for the Open Internet",
+      "link": "https://dntls.net/",
+      "summary": "<p>Article URL: <a href=\"https://dntls.net/\">https://dntls.net/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49602867\">https://news.ycombinator.com/item?id=49602867</a></p>\n<...",
+      "published": "2026-09-07T20:51:09+00:00",
+      "domain": "dntls.net",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -379,27 +453,11 @@
       }
     },
     {
-      "title": "San Francisco institution 'heartbroken and furious' after erasure of public art",
-      "link": "https://www.sfgate.com/local/article/clarion-alley-murals-erased-22420365.php",
-      "summary": "<p>Article URL: <a href=\"https://www.sfgate.com/local/article/clarion-alley-murals-erased-22420365.php\">https://www.sfgate.com/local/article/clarion-alley-murals-erased-22420365.php</a></p>\n<p>Comment...",
-      "published": "2026-09-07T17:19:14+00:00",
-      "domain": "sfgate.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The auto-formalization of mathematics versus law",
-      "link": "https://lexifina.com/blog/auto-formalisation-of-law",
-      "summary": "<p>Article URL: <a href=\"https://lexifina.com/blog/auto-formalisation-of-law\">https://lexifina.com/blog/auto-formalisation-of-law</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id...",
-      "published": "2026-09-07T17:17:01+00:00",
-      "domain": "lexifina.com",
+      "title": "Watch Los Angeles get built, one building at a time (1880\u20132026)",
+      "link": "https://lax-skyline.parcelscope.net/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49601655\">Comments</a>...",
+      "published": "2026-09-07T18:52:06+00:00",
+      "domain": "lax-skyline.parcelscope.net",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -415,70 +473,6 @@
       "link": "https://thehackernews.com/2026/09/your-cloud-security-checklist-doesnt.html",
       "summary": "If managing security across multiple cloud providers wasn't hard enough, each one fails in a different way. For the 2026 Cloud Security Index, Intruder analyzed misconfiguration data from 3,000 organi...",
       "published": "2026-09-07T17:15:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "SnapFire FSR: Write TypeScript. Run Rust. Ditch Node.js",
-      "link": "https://snapfirers.com/",
-      "summary": "<p>Article URL: <a href=\"https://snapfirers.com/\">https://snapfirers.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49600585\">https://news.ycombinator.com/item?id=49600585...",
-      "published": "2026-09-07T17:14:19+00:00",
-      "domain": "snapfirers.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "A fast client only protein viewer",
-      "link": "https://github.com/buyukakyuz/protein-foldspace",
-      "summary": "<p>Article URL: <a href=\"https://github.com/buyukakyuz/protein-foldspace\">https://github.com/buyukakyuz/protein-foldspace</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4960058...",
-      "published": "2026-09-07T17:14:15+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The Aviation Herald was sued \u2013 July 31st 2026",
-      "link": "https://avherald.com/h?article=53c8958a",
-      "summary": "<p>Article URL: <a href=\"https://avherald.com/h?article=53c8958a\">https://avherald.com/h?article=53c8958a</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49600578\">https://news....",
-      "published": "2026-09-07T17:13:45+00:00",
-      "domain": "avherald.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Rogue ScreenConnect Clients Spread Four-Stage VBScript Chain to Newly Connected Hosts",
-      "link": "https://thehackernews.com/2026/09/rogue-screenconnect-clients-spread-four.html",
-      "summary": "Cybersecurity researchers have disclosed details of worm-like activity that abuses ConnectWise ScreenConnect to distribute a malicious Visual Basic Script (VBScript) payload to newly connected systems...",
-      "published": "2026-09-07T17:06:39+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -493,11 +487,107 @@
   ],
   "all_articles": [
     {
+      "title": "PEEP Turns Chrome and Edge Into Post-Compromise Backdoors for Host Command Execution",
+      "link": "https://thehackernews.com/2026/09/peep-turns-chrome-and-edge-into-post.html",
+      "summary": "Cybersecurity researchers have disclosed details of a complex Chromium-based post-exploitation toolkit called PEEP that masquerades as a bookmarks extension for the web browser.\n\n\"Requiring prior admi...",
+      "published": "2026-09-07T23:42:09+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "Fake IT Calls Target Executives in Microsoft 365 Data Theft and Extortion Attacks",
       "link": "https://thehackernews.com/2026/09/microsoft-365-attackers-use-help-desk.html",
       "summary": "Threat hunters have disclosed details of a widespread data theft and extortion threat cluster that's targeting Microsoft 365 and other software-as-a-service (SaaS) offerings through information techno...",
       "published": "2026-09-07T21:21:56+05:30",
       "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The purpose of DNS is to spread scams",
+      "link": "https://shkspr.mobi/blog/2026/09/the-purpose-of-dns-is-to-spread-scams/",
+      "summary": "<p>Article URL: <a href=\"https://shkspr.mobi/blog/2026/09/the-purpose-of-dns-is-to-spread-scams/\">https://shkspr.mobi/blog/2026/09/the-purpose-of-dns-is-to-spread-scams/</a></p>\n<p>Comments URL: <a hr...",
+      "published": "2026-09-07T21:00:02+00:00",
+      "domain": "shkspr.mobi",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Rejourney \u2013 Finds user \"leaks\" in apps and websites",
+      "link": "https://rejourney.co/demo/leaks",
+      "summary": "<p>Hi there HN,<p>Ever used a user/session replay tool before? Absolutely phenomenal for immediate feedback (and your dopamine). It causes a \u201cHoneymoon Phase\u201d where you are addicted and constantly che...",
+      "published": "2026-09-07T20:56:38+00:00",
+      "domain": "rejourney.co",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Pixel is a unit of length and area",
+      "link": "https://www.nayuki.io/page/pixel-is-a-unit-of-length-and-area",
+      "summary": "<p>Article URL: <a href=\"https://www.nayuki.io/page/pixel-is-a-unit-of-length-and-area\">https://www.nayuki.io/page/pixel-is-a-unit-of-length-and-area</a></p>\n<p>Comments URL: <a href=\"https://news.yco...",
+      "published": "2026-09-07T20:53:41+00:00",
+      "domain": "nayuki.io",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Beta User for Proven Trips",
+      "link": "https://proventrips.com",
+      "summary": "<p>Article URL: <a href=\"https://proventrips.com\">https://proventrips.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49602877\">https://news.ycombinator.com/item?id=49602877...",
+      "published": "2026-09-07T20:52:11+00:00",
+      "domain": "proventrips.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: DNTLS \u2013 Decentralized Trust Layer for the Open Internet",
+      "link": "https://dntls.net/",
+      "summary": "<p>Article URL: <a href=\"https://dntls.net/\">https://dntls.net/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49602867\">https://news.ycombinator.com/item?id=49602867</a></p>\n<...",
+      "published": "2026-09-07T20:51:09+00:00",
+      "domain": "dntls.net",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -525,27 +615,11 @@
       }
     },
     {
-      "title": "San Francisco institution 'heartbroken and furious' after erasure of public art",
-      "link": "https://www.sfgate.com/local/article/clarion-alley-murals-erased-22420365.php",
-      "summary": "<p>Article URL: <a href=\"https://www.sfgate.com/local/article/clarion-alley-murals-erased-22420365.php\">https://www.sfgate.com/local/article/clarion-alley-murals-erased-22420365.php</a></p>\n<p>Comment...",
-      "published": "2026-09-07T17:19:14+00:00",
-      "domain": "sfgate.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The auto-formalization of mathematics versus law",
-      "link": "https://lexifina.com/blog/auto-formalisation-of-law",
-      "summary": "<p>Article URL: <a href=\"https://lexifina.com/blog/auto-formalisation-of-law\">https://lexifina.com/blog/auto-formalisation-of-law</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id...",
-      "published": "2026-09-07T17:17:01+00:00",
-      "domain": "lexifina.com",
+      "title": "Watch Los Angeles get built, one building at a time (1880\u20132026)",
+      "link": "https://lax-skyline.parcelscope.net/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49601655\">Comments</a>...",
+      "published": "2026-09-07T18:52:06+00:00",
+      "domain": "lax-skyline.parcelscope.net",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -569,88 +643,6 @@
       },
       "keywords": {
         "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "SnapFire FSR: Write TypeScript. Run Rust. Ditch Node.js",
-      "link": "https://snapfirers.com/",
-      "summary": "<p>Article URL: <a href=\"https://snapfirers.com/\">https://snapfirers.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49600585\">https://news.ycombinator.com/item?id=49600585...",
-      "published": "2026-09-07T17:14:19+00:00",
-      "domain": "snapfirers.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "A fast client only protein viewer",
-      "link": "https://github.com/buyukakyuz/protein-foldspace",
-      "summary": "<p>Article URL: <a href=\"https://github.com/buyukakyuz/protein-foldspace\">https://github.com/buyukakyuz/protein-foldspace</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4960058...",
-      "published": "2026-09-07T17:14:15+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The Aviation Herald was sued \u2013 July 31st 2026",
-      "link": "https://avherald.com/h?article=53c8958a",
-      "summary": "<p>Article URL: <a href=\"https://avherald.com/h?article=53c8958a\">https://avherald.com/h?article=53c8958a</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49600578\">https://news....",
-      "published": "2026-09-07T17:13:45+00:00",
-      "domain": "avherald.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Rogue ScreenConnect Clients Spread Four-Stage VBScript Chain to Newly Connected Hosts",
-      "link": "https://thehackernews.com/2026/09/rogue-screenconnect-clients-spread-four.html",
-      "summary": "Cybersecurity researchers have disclosed details of worm-like activity that abuses ConnectWise ScreenConnect to distribute a malicious Visual Basic Script (VBScript) payload to newly connected systems...",
-      "published": "2026-09-07T17:06:39+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Telerik UI Padding-Oracle Bug Chained to Unauthenticated RCE \u2014 Public Exploit Released",
-      "link": "https://thehackernews.com/2026/09/telerik-ui-padding-oracle-bug-chained.html",
-      "summary": "A TantoSec proof-of-concept turns an AES-CBC \"padding oracle\" in Telerik UI for ASP.NET AJAX into unauthenticated remote code execution \u2014 but only against applications in a specific non-default config...",
-      "published": "2026-09-07T16:50:14+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 10.8,
-        "anarchy": 3.0,
-        "overall": 6.9
-      },
-      "keywords": {
-        "chaos": [
-          "bug"
-        ],
         "anarchy": []
       }
     }

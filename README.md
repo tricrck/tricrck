@@ -16,11 +16,10 @@
 
 ## 🚨 Tech Stories
 
-### Telerik UI Padding-Oracle Bug Chained to Unauthenticated RCE — Public Exploit Released
+### PEEP Turns Chrome and Edge Into Post-Compromise Backdoors for Host Command Execution
 - **Published**: September 07, 2026
-- **Summary**: A TantoSec proof-of-concept turns an AES-CBC "padding oracle" in Telerik UI for ASP.NET AJAX into unauthenticated remote code execution — but only aga...
-- **Keywords**: bug
-- [Read more](https://thehackernews.com/2026/09/telerik-ui-padding-oracle-bug-chained.html)
+- **Summary**: Cybersecurity researchers have disclosed details of a complex Chromium-based post-exploitation toolkit called PEEP that masquerades as a bookmarks ext...
+- [Read more](https://thehackernews.com/2026/09/peep-turns-chrome-and-edge-into-post.html)
 
 ### Fake IT Calls Target Executives in Microsoft 365 Data Theft and Extortion Attacks
 - **Published**: September 07, 2026
