@@ -16,15 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Amazon cargo plane crashes at Miami airport after it overshoots runway
-- **Published**: September 06, 2026
-- **Summary**: https://www.theguardian.com/us-news/2026/sep/06/amazon-cargo-plane-crashes-miami-airp......
-- [Read more](https://www.theguardian.com/us-news/2026/sep/06/amazon-cargo-plane-crashes-miami-airport)
+### Ask HN: Looking for an old submission about sneering culture
+- **Published**: September 07, 2026
+- **Summary**: <p>There was this blog submission from a while back talking about the prevalence of sneering culture within programming communities.<p>The blog post m...
+- [Read more](https://news.ycombinator.com/item?id=49593441)
 
-### Tiny backpack on a warbler reveals epic migration
-- **Published**: September 06, 2026
-- **Summary**: https://www.washingtonpost.com/health/2026/09/06/i-put-tiny-backpa......
-- [Read more](https://www.washingtonpost.com/health/2026/09/06/i-put-tiny-backpack-warbler-it-revealed-an-epic-migration/)
+### Agent Optimized Codebases
+- **Published**: September 07, 2026
+- **Summary**: https://12gramsofcarbon.com/p/agentics-agent-optimized-codebases</a></p>
+<p>Comments URL: <a href="https://ne......
+- [Read more](https://12gramsofcarbon.com/p/agentics-agent-optimized-codebases)
 
 ---
 
