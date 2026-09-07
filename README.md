@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Ask HN: Looking for an old submission about sneering culture
+### N-able Issues Fourth N-central Hotfix in Five Weeks for Unauthenticated RCE Flaw
 - **Published**: September 07, 2026
-- **Summary**: <p>There was this blog submission from a while back talking about the prevalence of sneering culture within programming communities.<p>The blog post m...
-- [Read more](https://news.ycombinator.com/item?id=49593441)
+- **Summary**: Every on-premises N-central build below 2026.3.1.14 — including servers updated to Hotfix 3 a day earlier — needs Hotfix 4. N-able's incident notice s...
+- [Read more](https://thehackernews.com/2026/09/n-able-issues-fourth-n-central-hotfix.html)
 
-### Agent Optimized Codebases
+### JSCeal Malware Can Bypass Google Authentication Using Stolen Session Cookies
 - **Published**: September 07, 2026
-- **Summary**: https://12gramsofcarbon.com/p/agentics-agent-optimized-codebases</a></p>
-<p>Comments URL: <a href="https://ne......
-- [Read more](https://12gramsofcarbon.com/p/agentics-agent-optimized-codebases)
+- **Summary**: Cybersecurity researchers have unpacked JSCeal, a sophisticated compiled V8 JavaScript (JSC) malware with credential harvesting, surveillance, and tra...
+- [Read more](https://thehackernews.com/2026/09/jsceal-malware-can-bypass-google.html)
 
 ---
 
