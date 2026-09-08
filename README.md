@@ -16,15 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Adobe Patches Magento Zero-Day Exploited to Deploy Rust Backdoor and PHP Web Shell
+### Liquid Hackers Return 3,400 Bitcoin Taken via Elements Bug, Still Holding $47M in BTC
 - **Published**: September 08, 2026
-- **Summary**: Adobe on Monday released security patches to address a maximum-severity flaw impacting Adobe Commerce and Magento Open Source that has come under acti...
-- [Read more](https://thehackernews.com/2026/09/adobe-patches-magento-zero-day.html)
+- **Summary**: Whoever took nearly 4,000 bitcoin from the Liquid Network on Sunday, September 6,&nbsp;returned 3,400 of it&nbsp;the next day, Bitcoin's public record...
+- **Keywords**: bug
+- [Read more](https://thehackernews.com/2026/09/liquid-hackers-return-3400-bitcoin.html)
 
-### BengalSEO Poisons Bing Search Results to Deliver MayaBot and Tech Support Scams
+### ChatGPT Flaw Let a Planted Prompt Send a Victim's Gmail Data to Another Account
 - **Published**: September 08, 2026
-- **Summary**: Cybersecurity researchers have disclosed details of a sprawling search engine optimization (SEO) poisoning campaign that paves the way for malware dep...
-- [Read more](https://thehackernews.com/2026/09/bengalseo-poisons-bing-search-results.html)
+- **Summary**: Check Point Research said in a&nbsp;report published today&nbsp;that a single instruction planted in a ChatGPT conversation could cause ChatGPT to qui...
+- [Read more](https://thehackernews.com/2026/09/chatgpt-flaw-let-planted-prompt-send.html)
 
 ---
 

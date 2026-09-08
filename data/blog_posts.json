@@ -1,10 +1,28 @@
 {
   "chaos_ranked": [
     {
-      "title": "Adobe Patches Magento Zero-Day Exploited to Deploy Rust Backdoor and PHP Web Shell",
-      "link": "https://thehackernews.com/2026/09/adobe-patches-magento-zero-day.html",
-      "summary": "Adobe on Monday released security patches to address a maximum-severity flaw impacting Adobe\u202fCommerce and\u202fMagento Open Source that has come under active exploitation in the wild.\n\nThe vulnerability, n...",
-      "published": "2026-09-08T14:43:47+05:30",
+      "title": "Liquid Hackers Return 3,400 Bitcoin Taken via Elements Bug, Still Holding $47M in BTC",
+      "link": "https://thehackernews.com/2026/09/liquid-hackers-return-3400-bitcoin.html",
+      "summary": "Whoever took nearly 4,000 bitcoin from the Liquid Network on Sunday, September 6,&nbsp;returned 3,400 of it&nbsp;the next day, Bitcoin's public record shows. About 598.5 bitcoin has not come back.\n\nLi...",
+      "published": "2026-09-08T20:24:30+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 9.6,
+        "anarchy": 3.0,
+        "overall": 6.3
+      },
+      "keywords": {
+        "chaos": [
+          "bug"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "ChatGPT Flaw Let a Planted Prompt Send a Victim's Gmail Data to Another Account",
+      "link": "https://thehackernews.com/2026/09/chatgpt-flaw-let-planted-prompt-send.html",
+      "summary": "Check Point Research said in a&nbsp;report published today&nbsp;that a single instruction planted in a ChatGPT conversation could cause ChatGPT to quietly work for an attacker while answering the user...",
+      "published": "2026-09-08T19:49:17+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -17,10 +35,29 @@
       }
     },
     {
-      "title": "BengalSEO Poisons Bing Search Results to Deliver MayaBot and Tech Support Scams",
-      "link": "https://thehackernews.com/2026/09/bengalseo-poisons-bing-search-results.html",
-      "summary": "Cybersecurity researchers have disclosed details of a sprawling search engine optimization (SEO) poisoning campaign that paves the way for malware deployment and tech support scams.\n\nThe campaign, dis...",
-      "published": "2026-09-08T14:13:51+05:30",
+      "title": "Autonomous AI Agents Compromise Thousands of Credentials in Under Six Hours",
+      "link": "https://thehackernews.com/2026/09/autonomous-ai-agents-compromise.html",
+      "summary": "Threat actors are continuing to leverage artificial intelligence (AI) to streamline their operations, with one financially motivated hacking group employing an autonomous, multi-agent attack framework...",
+      "published": "2026-09-08T19:18:16+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 25.7,
+        "overall": 14.4
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": [
+          "autonomous",
+          "autonomous"
+        ]
+      }
+    },
+    {
+      "title": "WeChat Zero-Click Worm Took Over Accounts on iPhone and Android via Incoming Calls",
+      "link": "https://thehackernews.com/2026/09/wechat-zero-click-worm-took-over.html",
+      "summary": "Researchers at the security firm Calif have built a worm that takes over a WeChat account via an incoming call and&nbsp;demonstrated it spreading&nbsp;among three test phones.\n\nThe person being called...",
+      "published": "2026-09-08T17:24:29+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -33,10 +70,10 @@
       }
     },
     {
-      "title": "Grindr to Pay \u00a326 Million to Settle U.K. Claims Over HIV Status Data Sharing",
-      "link": "https://thehackernews.com/2026/09/grindr-to-pay-26-million-to-settle-uk.html",
-      "summary": "Online dating app Grindr has opted to pay \u00a326 million ($35.1 million) to settle a lawsuit in the U.K. over allegations that it shared users' personal information, including their HIV status, with thir...",
-      "published": "2026-09-08T12:30:43+05:30",
+      "title": "What It Took to Reach 1 Billion Build Manifests",
+      "link": "https://thehackernews.com/2026/09/what-it-took-to-reach-1-billion-build.html",
+      "summary": "In the last six months, Chainguard doubled its output from 500 million to more than 1 billion container build manifests. We also surpassed 3,000 unique container images and 675,000 image versions in o...",
+      "published": "2026-09-08T17:19:02+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -49,26 +86,10 @@
       }
     },
     {
-      "title": "Classified as terrorists by the US government: Hacker collective A/I gives up",
-      "link": "https://www.heise.de/en/news/Classified-as-terrorists-by-the-US-government-Hacker-collective-A-I-gives-up-11444622.html",
-      "summary": "<p>Article URL: <a href=\"https://www.heise.de/en/news/Classified-as-terrorists-by-the-US-government-Hacker-collective-A-I-gives-up-11444622.html\">https://www.heise.de/en/news/Classified-as-terrorists-...",
-      "published": "2026-09-08T10:36:44+00:00",
-      "domain": "heise.de",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Docker-Boot",
-      "link": "https://github.com/purplesyringa/docker-boot",
-      "summary": "<p>Article URL: <a href=\"https://github.com/purplesyringa/docker-boot\">https://github.com/purplesyringa/docker-boot</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49608362\">htt...",
-      "published": "2026-09-08T10:30:45+00:00",
+      "title": "Show HN: DeepMem\u00b7hybrid-retrieval memory for AI Agents \u2013 Vector+BM25+Time-Decay",
+      "link": "https://github.com/deepmemteam/deepmem",
+      "summary": "<p>Article URL: <a href=\"https://github.com/deepmemteam/deepmem\">https://github.com/deepmemteam/deepmem</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49612293\">https://news.yc...",
+      "published": "2026-09-08T16:04:24+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -81,11 +102,11 @@
       }
     },
     {
-      "title": "Demystifying Complex Configurations",
-      "link": "https://guix.gnu.org/blog/2026/demystifying-complex-configurations//",
-      "summary": "<p>Article URL: <a href=\"https://guix.gnu.org/blog/2026/demystifying-complex-configurations//\">https://guix.gnu.org/blog/2026/demystifying-complex-configurations//</a></p>\n<p>Comments URL: <a href=\"ht...",
-      "published": "2026-09-08T10:29:18+00:00",
-      "domain": "guix.gnu.org",
+      "title": "Show HN: Maple \u2013 CSS utilities with no build step and no config file",
+      "link": "https://maple.f12.io/",
+      "summary": "<p>Article URL: <a href=\"https://maple.f12.io/\">https://maple.f12.io/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49612277\">https://news.ycombinator.com/item?id=49612277</a>...",
+      "published": "2026-09-08T16:02:49+00:00",
+      "domain": "maple.f12.io",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -97,11 +118,11 @@
       }
     },
     {
-      "title": "Thoughts on Omarchy",
-      "link": "https://chrissy.dev/notes/thoughts-on-omarchy/",
-      "summary": "<p>Article URL: <a href=\"https://chrissy.dev/notes/thoughts-on-omarchy/\">https://chrissy.dev/notes/thoughts-on-omarchy/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49608332\"...",
-      "published": "2026-09-08T10:26:40+00:00",
-      "domain": "chrissy.dev",
+      "title": "The Price Tag on Breaches",
+      "link": "https://www.resilientcyber.io/p/the-real-price-tag-on-breaches",
+      "summary": "<p>Article URL: <a href=\"https://www.resilientcyber.io/p/the-real-price-tag-on-breaches\">https://www.resilientcyber.io/p/the-real-price-tag-on-breaches</a></p>\n<p>Comments URL: <a href=\"https://news.y...",
+      "published": "2026-09-08T16:01:07+00:00",
+      "domain": "resilientcyber.io",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -113,11 +134,11 @@
       }
     },
     {
-      "title": "No Graphics API",
-      "link": "https://github.com/sebbbi/NoGraphicsAPI",
-      "summary": "<p>Article URL: <a href=\"https://github.com/sebbbi/NoGraphicsAPI\">https://github.com/sebbbi/NoGraphicsAPI</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49608325\">https://news....",
-      "published": "2026-09-08T10:25:48+00:00",
-      "domain": "github.com",
+      "title": "Open Source Durable Objects for Postgres",
+      "link": "https://solidobjects.dev/blog/introducing-solidobjects",
+      "summary": "<p>Article URL: <a href=\"https://solidobjects.dev/blog/introducing-solidobjects\">https://solidobjects.dev/blog/introducing-solidobjects</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/i...",
+      "published": "2026-09-08T15:59:11+00:00",
+      "domain": "solidobjects.dev",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -129,27 +150,11 @@
       }
     },
     {
-      "title": "Why getting your hands dirty is good for you",
-      "link": "https://www.bbc.com/future/article/20260904-how-getting-your-hands-dirty-boosts-your-health-within-weeks",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49608023\">Comments</a>...",
-      "published": "2026-09-08T09:48:24+00:00",
-      "domain": "bbc.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Antiquated HTML Snippets and Artefacts",
-      "link": "https://vale.rocks/posts/html-relics",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49607991\">Comments</a>...",
-      "published": "2026-09-08T09:43:14+00:00",
-      "domain": "vale.rocks",
+      "title": "Autogenic Training",
+      "link": "https://en.wikipedia.org/wiki/Autogenic_training",
+      "summary": "<p>Article URL: <a href=\"https://en.wikipedia.org/wiki/Autogenic_training\">https://en.wikipedia.org/wiki/Autogenic_training</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49612...",
+      "published": "2026-09-08T15:58:33+00:00",
+      "domain": "en.wikipedia.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -163,10 +168,47 @@
   ],
   "anarchy_ranked": [
     {
-      "title": "Adobe Patches Magento Zero-Day Exploited to Deploy Rust Backdoor and PHP Web Shell",
-      "link": "https://thehackernews.com/2026/09/adobe-patches-magento-zero-day.html",
-      "summary": "Adobe on Monday released security patches to address a maximum-severity flaw impacting Adobe\u202fCommerce and\u202fMagento Open Source that has come under active exploitation in the wild.\n\nThe vulnerability, n...",
-      "published": "2026-09-08T14:43:47+05:30",
+      "title": "Autonomous AI Agents Compromise Thousands of Credentials in Under Six Hours",
+      "link": "https://thehackernews.com/2026/09/autonomous-ai-agents-compromise.html",
+      "summary": "Threat actors are continuing to leverage artificial intelligence (AI) to streamline their operations, with one financially motivated hacking group employing an autonomous, multi-agent attack framework...",
+      "published": "2026-09-08T19:18:16+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 25.7,
+        "overall": 14.4
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": [
+          "autonomous",
+          "autonomous"
+        ]
+      }
+    },
+    {
+      "title": "Liquid Hackers Return 3,400 Bitcoin Taken via Elements Bug, Still Holding $47M in BTC",
+      "link": "https://thehackernews.com/2026/09/liquid-hackers-return-3400-bitcoin.html",
+      "summary": "Whoever took nearly 4,000 bitcoin from the Liquid Network on Sunday, September 6,&nbsp;returned 3,400 of it&nbsp;the next day, Bitcoin's public record shows. About 598.5 bitcoin has not come back.\n\nLi...",
+      "published": "2026-09-08T20:24:30+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 9.6,
+        "anarchy": 3.0,
+        "overall": 6.3
+      },
+      "keywords": {
+        "chaos": [
+          "bug"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "ChatGPT Flaw Let a Planted Prompt Send a Victim's Gmail Data to Another Account",
+      "link": "https://thehackernews.com/2026/09/chatgpt-flaw-let-planted-prompt-send.html",
+      "summary": "Check Point Research said in a&nbsp;report published today&nbsp;that a single instruction planted in a ChatGPT conversation could cause ChatGPT to quietly work for an attacker while answering the user...",
+      "published": "2026-09-08T19:49:17+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -179,10 +221,10 @@
       }
     },
     {
-      "title": "BengalSEO Poisons Bing Search Results to Deliver MayaBot and Tech Support Scams",
-      "link": "https://thehackernews.com/2026/09/bengalseo-poisons-bing-search-results.html",
-      "summary": "Cybersecurity researchers have disclosed details of a sprawling search engine optimization (SEO) poisoning campaign that paves the way for malware deployment and tech support scams.\n\nThe campaign, dis...",
-      "published": "2026-09-08T14:13:51+05:30",
+      "title": "WeChat Zero-Click Worm Took Over Accounts on iPhone and Android via Incoming Calls",
+      "link": "https://thehackernews.com/2026/09/wechat-zero-click-worm-took-over.html",
+      "summary": "Researchers at the security firm Calif have built a worm that takes over a WeChat account via an incoming call and&nbsp;demonstrated it spreading&nbsp;among three test phones.\n\nThe person being called...",
+      "published": "2026-09-08T17:24:29+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -195,10 +237,10 @@
       }
     },
     {
-      "title": "Grindr to Pay \u00a326 Million to Settle U.K. Claims Over HIV Status Data Sharing",
-      "link": "https://thehackernews.com/2026/09/grindr-to-pay-26-million-to-settle-uk.html",
-      "summary": "Online dating app Grindr has opted to pay \u00a326 million ($35.1 million) to settle a lawsuit in the U.K. over allegations that it shared users' personal information, including their HIV status, with thir...",
-      "published": "2026-09-08T12:30:43+05:30",
+      "title": "What It Took to Reach 1 Billion Build Manifests",
+      "link": "https://thehackernews.com/2026/09/what-it-took-to-reach-1-billion-build.html",
+      "summary": "In the last six months, Chainguard doubled its output from 500 million to more than 1 billion container build manifests. We also surpassed 3,000 unique container images and 675,000 image versions in o...",
+      "published": "2026-09-08T17:19:02+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -211,26 +253,10 @@
       }
     },
     {
-      "title": "Classified as terrorists by the US government: Hacker collective A/I gives up",
-      "link": "https://www.heise.de/en/news/Classified-as-terrorists-by-the-US-government-Hacker-collective-A-I-gives-up-11444622.html",
-      "summary": "<p>Article URL: <a href=\"https://www.heise.de/en/news/Classified-as-terrorists-by-the-US-government-Hacker-collective-A-I-gives-up-11444622.html\">https://www.heise.de/en/news/Classified-as-terrorists-...",
-      "published": "2026-09-08T10:36:44+00:00",
-      "domain": "heise.de",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Docker-Boot",
-      "link": "https://github.com/purplesyringa/docker-boot",
-      "summary": "<p>Article URL: <a href=\"https://github.com/purplesyringa/docker-boot\">https://github.com/purplesyringa/docker-boot</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49608362\">htt...",
-      "published": "2026-09-08T10:30:45+00:00",
+      "title": "Show HN: DeepMem\u00b7hybrid-retrieval memory for AI Agents \u2013 Vector+BM25+Time-Decay",
+      "link": "https://github.com/deepmemteam/deepmem",
+      "summary": "<p>Article URL: <a href=\"https://github.com/deepmemteam/deepmem\">https://github.com/deepmemteam/deepmem</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49612293\">https://news.yc...",
+      "published": "2026-09-08T16:04:24+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -243,11 +269,11 @@
       }
     },
     {
-      "title": "Demystifying Complex Configurations",
-      "link": "https://guix.gnu.org/blog/2026/demystifying-complex-configurations//",
-      "summary": "<p>Article URL: <a href=\"https://guix.gnu.org/blog/2026/demystifying-complex-configurations//\">https://guix.gnu.org/blog/2026/demystifying-complex-configurations//</a></p>\n<p>Comments URL: <a href=\"ht...",
-      "published": "2026-09-08T10:29:18+00:00",
-      "domain": "guix.gnu.org",
+      "title": "Show HN: Maple \u2013 CSS utilities with no build step and no config file",
+      "link": "https://maple.f12.io/",
+      "summary": "<p>Article URL: <a href=\"https://maple.f12.io/\">https://maple.f12.io/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49612277\">https://news.ycombinator.com/item?id=49612277</a>...",
+      "published": "2026-09-08T16:02:49+00:00",
+      "domain": "maple.f12.io",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -259,11 +285,11 @@
       }
     },
     {
-      "title": "Thoughts on Omarchy",
-      "link": "https://chrissy.dev/notes/thoughts-on-omarchy/",
-      "summary": "<p>Article URL: <a href=\"https://chrissy.dev/notes/thoughts-on-omarchy/\">https://chrissy.dev/notes/thoughts-on-omarchy/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49608332\"...",
-      "published": "2026-09-08T10:26:40+00:00",
-      "domain": "chrissy.dev",
+      "title": "The Price Tag on Breaches",
+      "link": "https://www.resilientcyber.io/p/the-real-price-tag-on-breaches",
+      "summary": "<p>Article URL: <a href=\"https://www.resilientcyber.io/p/the-real-price-tag-on-breaches\">https://www.resilientcyber.io/p/the-real-price-tag-on-breaches</a></p>\n<p>Comments URL: <a href=\"https://news.y...",
+      "published": "2026-09-08T16:01:07+00:00",
+      "domain": "resilientcyber.io",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -275,11 +301,11 @@
       }
     },
     {
-      "title": "No Graphics API",
-      "link": "https://github.com/sebbbi/NoGraphicsAPI",
-      "summary": "<p>Article URL: <a href=\"https://github.com/sebbbi/NoGraphicsAPI\">https://github.com/sebbbi/NoGraphicsAPI</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49608325\">https://news....",
-      "published": "2026-09-08T10:25:48+00:00",
-      "domain": "github.com",
+      "title": "Open Source Durable Objects for Postgres",
+      "link": "https://solidobjects.dev/blog/introducing-solidobjects",
+      "summary": "<p>Article URL: <a href=\"https://solidobjects.dev/blog/introducing-solidobjects\">https://solidobjects.dev/blog/introducing-solidobjects</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/i...",
+      "published": "2026-09-08T15:59:11+00:00",
+      "domain": "solidobjects.dev",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -291,27 +317,11 @@
       }
     },
     {
-      "title": "Why getting your hands dirty is good for you",
-      "link": "https://www.bbc.com/future/article/20260904-how-getting-your-hands-dirty-boosts-your-health-within-weeks",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49608023\">Comments</a>...",
-      "published": "2026-09-08T09:48:24+00:00",
-      "domain": "bbc.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Antiquated HTML Snippets and Artefacts",
-      "link": "https://vale.rocks/posts/html-relics",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49607991\">Comments</a>...",
-      "published": "2026-09-08T09:43:14+00:00",
-      "domain": "vale.rocks",
+      "title": "Autogenic Training",
+      "link": "https://en.wikipedia.org/wiki/Autogenic_training",
+      "summary": "<p>Article URL: <a href=\"https://en.wikipedia.org/wiki/Autogenic_training\">https://en.wikipedia.org/wiki/Autogenic_training</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49612...",
+      "published": "2026-09-08T15:58:33+00:00",
+      "domain": "en.wikipedia.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -325,10 +335,47 @@
   ],
   "overall_ranked": [
     {
-      "title": "Adobe Patches Magento Zero-Day Exploited to Deploy Rust Backdoor and PHP Web Shell",
-      "link": "https://thehackernews.com/2026/09/adobe-patches-magento-zero-day.html",
-      "summary": "Adobe on Monday released security patches to address a maximum-severity flaw impacting Adobe\u202fCommerce and\u202fMagento Open Source that has come under active exploitation in the wild.\n\nThe vulnerability, n...",
-      "published": "2026-09-08T14:43:47+05:30",
+      "title": "Autonomous AI Agents Compromise Thousands of Credentials in Under Six Hours",
+      "link": "https://thehackernews.com/2026/09/autonomous-ai-agents-compromise.html",
+      "summary": "Threat actors are continuing to leverage artificial intelligence (AI) to streamline their operations, with one financially motivated hacking group employing an autonomous, multi-agent attack framework...",
+      "published": "2026-09-08T19:18:16+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 25.7,
+        "overall": 14.4
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": [
+          "autonomous",
+          "autonomous"
+        ]
+      }
+    },
+    {
+      "title": "Liquid Hackers Return 3,400 Bitcoin Taken via Elements Bug, Still Holding $47M in BTC",
+      "link": "https://thehackernews.com/2026/09/liquid-hackers-return-3400-bitcoin.html",
+      "summary": "Whoever took nearly 4,000 bitcoin from the Liquid Network on Sunday, September 6,&nbsp;returned 3,400 of it&nbsp;the next day, Bitcoin's public record shows. About 598.5 bitcoin has not come back.\n\nLi...",
+      "published": "2026-09-08T20:24:30+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 9.6,
+        "anarchy": 3.0,
+        "overall": 6.3
+      },
+      "keywords": {
+        "chaos": [
+          "bug"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "ChatGPT Flaw Let a Planted Prompt Send a Victim's Gmail Data to Another Account",
+      "link": "https://thehackernews.com/2026/09/chatgpt-flaw-let-planted-prompt-send.html",
+      "summary": "Check Point Research said in a&nbsp;report published today&nbsp;that a single instruction planted in a ChatGPT conversation could cause ChatGPT to quietly work for an attacker while answering the user...",
+      "published": "2026-09-08T19:49:17+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -341,10 +388,10 @@
       }
     },
     {
-      "title": "BengalSEO Poisons Bing Search Results to Deliver MayaBot and Tech Support Scams",
-      "link": "https://thehackernews.com/2026/09/bengalseo-poisons-bing-search-results.html",
-      "summary": "Cybersecurity researchers have disclosed details of a sprawling search engine optimization (SEO) poisoning campaign that paves the way for malware deployment and tech support scams.\n\nThe campaign, dis...",
-      "published": "2026-09-08T14:13:51+05:30",
+      "title": "WeChat Zero-Click Worm Took Over Accounts on iPhone and Android via Incoming Calls",
+      "link": "https://thehackernews.com/2026/09/wechat-zero-click-worm-took-over.html",
+      "summary": "Researchers at the security firm Calif have built a worm that takes over a WeChat account via an incoming call and&nbsp;demonstrated it spreading&nbsp;among three test phones.\n\nThe person being called...",
+      "published": "2026-09-08T17:24:29+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -357,10 +404,10 @@
       }
     },
     {
-      "title": "Grindr to Pay \u00a326 Million to Settle U.K. Claims Over HIV Status Data Sharing",
-      "link": "https://thehackernews.com/2026/09/grindr-to-pay-26-million-to-settle-uk.html",
-      "summary": "Online dating app Grindr has opted to pay \u00a326 million ($35.1 million) to settle a lawsuit in the U.K. over allegations that it shared users' personal information, including their HIV status, with thir...",
-      "published": "2026-09-08T12:30:43+05:30",
+      "title": "What It Took to Reach 1 Billion Build Manifests",
+      "link": "https://thehackernews.com/2026/09/what-it-took-to-reach-1-billion-build.html",
+      "summary": "In the last six months, Chainguard doubled its output from 500 million to more than 1 billion container build manifests. We also surpassed 3,000 unique container images and 675,000 image versions in o...",
+      "published": "2026-09-08T17:19:02+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -373,26 +420,10 @@
       }
     },
     {
-      "title": "Classified as terrorists by the US government: Hacker collective A/I gives up",
-      "link": "https://www.heise.de/en/news/Classified-as-terrorists-by-the-US-government-Hacker-collective-A-I-gives-up-11444622.html",
-      "summary": "<p>Article URL: <a href=\"https://www.heise.de/en/news/Classified-as-terrorists-by-the-US-government-Hacker-collective-A-I-gives-up-11444622.html\">https://www.heise.de/en/news/Classified-as-terrorists-...",
-      "published": "2026-09-08T10:36:44+00:00",
-      "domain": "heise.de",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Docker-Boot",
-      "link": "https://github.com/purplesyringa/docker-boot",
-      "summary": "<p>Article URL: <a href=\"https://github.com/purplesyringa/docker-boot\">https://github.com/purplesyringa/docker-boot</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49608362\">htt...",
-      "published": "2026-09-08T10:30:45+00:00",
+      "title": "Show HN: DeepMem\u00b7hybrid-retrieval memory for AI Agents \u2013 Vector+BM25+Time-Decay",
+      "link": "https://github.com/deepmemteam/deepmem",
+      "summary": "<p>Article URL: <a href=\"https://github.com/deepmemteam/deepmem\">https://github.com/deepmemteam/deepmem</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49612293\">https://news.yc...",
+      "published": "2026-09-08T16:04:24+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -405,11 +436,11 @@
       }
     },
     {
-      "title": "Demystifying Complex Configurations",
-      "link": "https://guix.gnu.org/blog/2026/demystifying-complex-configurations//",
-      "summary": "<p>Article URL: <a href=\"https://guix.gnu.org/blog/2026/demystifying-complex-configurations//\">https://guix.gnu.org/blog/2026/demystifying-complex-configurations//</a></p>\n<p>Comments URL: <a href=\"ht...",
-      "published": "2026-09-08T10:29:18+00:00",
-      "domain": "guix.gnu.org",
+      "title": "Show HN: Maple \u2013 CSS utilities with no build step and no config file",
+      "link": "https://maple.f12.io/",
+      "summary": "<p>Article URL: <a href=\"https://maple.f12.io/\">https://maple.f12.io/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49612277\">https://news.ycombinator.com/item?id=49612277</a>...",
+      "published": "2026-09-08T16:02:49+00:00",
+      "domain": "maple.f12.io",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -421,11 +452,11 @@
       }
     },
     {
-      "title": "Thoughts on Omarchy",
-      "link": "https://chrissy.dev/notes/thoughts-on-omarchy/",
-      "summary": "<p>Article URL: <a href=\"https://chrissy.dev/notes/thoughts-on-omarchy/\">https://chrissy.dev/notes/thoughts-on-omarchy/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49608332\"...",
-      "published": "2026-09-08T10:26:40+00:00",
-      "domain": "chrissy.dev",
+      "title": "The Price Tag on Breaches",
+      "link": "https://www.resilientcyber.io/p/the-real-price-tag-on-breaches",
+      "summary": "<p>Article URL: <a href=\"https://www.resilientcyber.io/p/the-real-price-tag-on-breaches\">https://www.resilientcyber.io/p/the-real-price-tag-on-breaches</a></p>\n<p>Comments URL: <a href=\"https://news.y...",
+      "published": "2026-09-08T16:01:07+00:00",
+      "domain": "resilientcyber.io",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -437,11 +468,11 @@
       }
     },
     {
-      "title": "No Graphics API",
-      "link": "https://github.com/sebbbi/NoGraphicsAPI",
-      "summary": "<p>Article URL: <a href=\"https://github.com/sebbbi/NoGraphicsAPI\">https://github.com/sebbbi/NoGraphicsAPI</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49608325\">https://news....",
-      "published": "2026-09-08T10:25:48+00:00",
-      "domain": "github.com",
+      "title": "Open Source Durable Objects for Postgres",
+      "link": "https://solidobjects.dev/blog/introducing-solidobjects",
+      "summary": "<p>Article URL: <a href=\"https://solidobjects.dev/blog/introducing-solidobjects\">https://solidobjects.dev/blog/introducing-solidobjects</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/i...",
+      "published": "2026-09-08T15:59:11+00:00",
+      "domain": "solidobjects.dev",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -453,27 +484,11 @@
       }
     },
     {
-      "title": "Why getting your hands dirty is good for you",
-      "link": "https://www.bbc.com/future/article/20260904-how-getting-your-hands-dirty-boosts-your-health-within-weeks",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49608023\">Comments</a>...",
-      "published": "2026-09-08T09:48:24+00:00",
-      "domain": "bbc.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Antiquated HTML Snippets and Artefacts",
-      "link": "https://vale.rocks/posts/html-relics",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49607991\">Comments</a>...",
-      "published": "2026-09-08T09:43:14+00:00",
-      "domain": "vale.rocks",
+      "title": "Autogenic Training",
+      "link": "https://en.wikipedia.org/wiki/Autogenic_training",
+      "summary": "<p>Article URL: <a href=\"https://en.wikipedia.org/wiki/Autogenic_training\">https://en.wikipedia.org/wiki/Autogenic_training</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49612...",
+      "published": "2026-09-08T15:58:33+00:00",
+      "domain": "en.wikipedia.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -487,10 +502,28 @@
   ],
   "all_articles": [
     {
-      "title": "Adobe Patches Magento Zero-Day Exploited to Deploy Rust Backdoor and PHP Web Shell",
-      "link": "https://thehackernews.com/2026/09/adobe-patches-magento-zero-day.html",
-      "summary": "Adobe on Monday released security patches to address a maximum-severity flaw impacting Adobe\u202fCommerce and\u202fMagento Open Source that has come under active exploitation in the wild.\n\nThe vulnerability, n...",
-      "published": "2026-09-08T14:43:47+05:30",
+      "title": "Liquid Hackers Return 3,400 Bitcoin Taken via Elements Bug, Still Holding $47M in BTC",
+      "link": "https://thehackernews.com/2026/09/liquid-hackers-return-3400-bitcoin.html",
+      "summary": "Whoever took nearly 4,000 bitcoin from the Liquid Network on Sunday, September 6,&nbsp;returned 3,400 of it&nbsp;the next day, Bitcoin's public record shows. About 598.5 bitcoin has not come back.\n\nLi...",
+      "published": "2026-09-08T20:24:30+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 9.6,
+        "anarchy": 3.0,
+        "overall": 6.3
+      },
+      "keywords": {
+        "chaos": [
+          "bug"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "ChatGPT Flaw Let a Planted Prompt Send a Victim's Gmail Data to Another Account",
+      "link": "https://thehackernews.com/2026/09/chatgpt-flaw-let-planted-prompt-send.html",
+      "summary": "Check Point Research said in a&nbsp;report published today&nbsp;that a single instruction planted in a ChatGPT conversation could cause ChatGPT to quietly work for an attacker while answering the user...",
+      "published": "2026-09-08T19:49:17+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -503,10 +536,29 @@
       }
     },
     {
-      "title": "BengalSEO Poisons Bing Search Results to Deliver MayaBot and Tech Support Scams",
-      "link": "https://thehackernews.com/2026/09/bengalseo-poisons-bing-search-results.html",
-      "summary": "Cybersecurity researchers have disclosed details of a sprawling search engine optimization (SEO) poisoning campaign that paves the way for malware deployment and tech support scams.\n\nThe campaign, dis...",
-      "published": "2026-09-08T14:13:51+05:30",
+      "title": "Autonomous AI Agents Compromise Thousands of Credentials in Under Six Hours",
+      "link": "https://thehackernews.com/2026/09/autonomous-ai-agents-compromise.html",
+      "summary": "Threat actors are continuing to leverage artificial intelligence (AI) to streamline their operations, with one financially motivated hacking group employing an autonomous, multi-agent attack framework...",
+      "published": "2026-09-08T19:18:16+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 25.7,
+        "overall": 14.4
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": [
+          "autonomous",
+          "autonomous"
+        ]
+      }
+    },
+    {
+      "title": "WeChat Zero-Click Worm Took Over Accounts on iPhone and Android via Incoming Calls",
+      "link": "https://thehackernews.com/2026/09/wechat-zero-click-worm-took-over.html",
+      "summary": "Researchers at the security firm Calif have built a worm that takes over a WeChat account via an incoming call and&nbsp;demonstrated it spreading&nbsp;among three test phones.\n\nThe person being called...",
+      "published": "2026-09-08T17:24:29+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -519,10 +571,10 @@
       }
     },
     {
-      "title": "Grindr to Pay \u00a326 Million to Settle U.K. Claims Over HIV Status Data Sharing",
-      "link": "https://thehackernews.com/2026/09/grindr-to-pay-26-million-to-settle-uk.html",
-      "summary": "Online dating app Grindr has opted to pay \u00a326 million ($35.1 million) to settle a lawsuit in the U.K. over allegations that it shared users' personal information, including their HIV status, with thir...",
-      "published": "2026-09-08T12:30:43+05:30",
+      "title": "What It Took to Reach 1 Billion Build Manifests",
+      "link": "https://thehackernews.com/2026/09/what-it-took-to-reach-1-billion-build.html",
+      "summary": "In the last six months, Chainguard doubled its output from 500 million to more than 1 billion container build manifests. We also surpassed 3,000 unique container images and 675,000 image versions in o...",
+      "published": "2026-09-08T17:19:02+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -535,26 +587,10 @@
       }
     },
     {
-      "title": "Classified as terrorists by the US government: Hacker collective A/I gives up",
-      "link": "https://www.heise.de/en/news/Classified-as-terrorists-by-the-US-government-Hacker-collective-A-I-gives-up-11444622.html",
-      "summary": "<p>Article URL: <a href=\"https://www.heise.de/en/news/Classified-as-terrorists-by-the-US-government-Hacker-collective-A-I-gives-up-11444622.html\">https://www.heise.de/en/news/Classified-as-terrorists-...",
-      "published": "2026-09-08T10:36:44+00:00",
-      "domain": "heise.de",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Docker-Boot",
-      "link": "https://github.com/purplesyringa/docker-boot",
-      "summary": "<p>Article URL: <a href=\"https://github.com/purplesyringa/docker-boot\">https://github.com/purplesyringa/docker-boot</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49608362\">htt...",
-      "published": "2026-09-08T10:30:45+00:00",
+      "title": "Show HN: DeepMem\u00b7hybrid-retrieval memory for AI Agents \u2013 Vector+BM25+Time-Decay",
+      "link": "https://github.com/deepmemteam/deepmem",
+      "summary": "<p>Article URL: <a href=\"https://github.com/deepmemteam/deepmem\">https://github.com/deepmemteam/deepmem</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49612293\">https://news.yc...",
+      "published": "2026-09-08T16:04:24+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -567,11 +603,11 @@
       }
     },
     {
-      "title": "Demystifying Complex Configurations",
-      "link": "https://guix.gnu.org/blog/2026/demystifying-complex-configurations//",
-      "summary": "<p>Article URL: <a href=\"https://guix.gnu.org/blog/2026/demystifying-complex-configurations//\">https://guix.gnu.org/blog/2026/demystifying-complex-configurations//</a></p>\n<p>Comments URL: <a href=\"ht...",
-      "published": "2026-09-08T10:29:18+00:00",
-      "domain": "guix.gnu.org",
+      "title": "Show HN: Maple \u2013 CSS utilities with no build step and no config file",
+      "link": "https://maple.f12.io/",
+      "summary": "<p>Article URL: <a href=\"https://maple.f12.io/\">https://maple.f12.io/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49612277\">https://news.ycombinator.com/item?id=49612277</a>...",
+      "published": "2026-09-08T16:02:49+00:00",
+      "domain": "maple.f12.io",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -583,11 +619,11 @@
       }
     },
     {
-      "title": "Thoughts on Omarchy",
-      "link": "https://chrissy.dev/notes/thoughts-on-omarchy/",
-      "summary": "<p>Article URL: <a href=\"https://chrissy.dev/notes/thoughts-on-omarchy/\">https://chrissy.dev/notes/thoughts-on-omarchy/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49608332\"...",
-      "published": "2026-09-08T10:26:40+00:00",
-      "domain": "chrissy.dev",
+      "title": "The Price Tag on Breaches",
+      "link": "https://www.resilientcyber.io/p/the-real-price-tag-on-breaches",
+      "summary": "<p>Article URL: <a href=\"https://www.resilientcyber.io/p/the-real-price-tag-on-breaches\">https://www.resilientcyber.io/p/the-real-price-tag-on-breaches</a></p>\n<p>Comments URL: <a href=\"https://news.y...",
+      "published": "2026-09-08T16:01:07+00:00",
+      "domain": "resilientcyber.io",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -599,11 +635,11 @@
       }
     },
     {
-      "title": "No Graphics API",
-      "link": "https://github.com/sebbbi/NoGraphicsAPI",
-      "summary": "<p>Article URL: <a href=\"https://github.com/sebbbi/NoGraphicsAPI\">https://github.com/sebbbi/NoGraphicsAPI</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49608325\">https://news....",
-      "published": "2026-09-08T10:25:48+00:00",
-      "domain": "github.com",
+      "title": "Open Source Durable Objects for Postgres",
+      "link": "https://solidobjects.dev/blog/introducing-solidobjects",
+      "summary": "<p>Article URL: <a href=\"https://solidobjects.dev/blog/introducing-solidobjects\">https://solidobjects.dev/blog/introducing-solidobjects</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/i...",
+      "published": "2026-09-08T15:59:11+00:00",
+      "domain": "solidobjects.dev",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -615,27 +651,11 @@
       }
     },
     {
-      "title": "Why getting your hands dirty is good for you",
-      "link": "https://www.bbc.com/future/article/20260904-how-getting-your-hands-dirty-boosts-your-health-within-weeks",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49608023\">Comments</a>...",
-      "published": "2026-09-08T09:48:24+00:00",
-      "domain": "bbc.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Antiquated HTML Snippets and Artefacts",
-      "link": "https://vale.rocks/posts/html-relics",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49607991\">Comments</a>...",
-      "published": "2026-09-08T09:43:14+00:00",
-      "domain": "vale.rocks",
+      "title": "Autogenic Training",
+      "link": "https://en.wikipedia.org/wiki/Autogenic_training",
+      "summary": "<p>Article URL: <a href=\"https://en.wikipedia.org/wiki/Autogenic_training\">https://en.wikipedia.org/wiki/Autogenic_training</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49612...",
+      "published": "2026-09-08T15:58:33+00:00",
+      "domain": "en.wikipedia.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
