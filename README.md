@@ -16,17 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Tree Calculus
+### Adobe Patches Magento Zero-Day Exploited to Deploy Rust Backdoor and PHP Web Shell
 - **Published**: September 08, 2026
-- **Summary**: https://olydis.medium.com/a-visual-introduction-to-tree-calculus-2f4a34ceffc2</a></p>
-<p>Comment......
-- [Read more](https://olydis.medium.com/a-visual-introduction-to-tree-calculus-2f4a34ceffc2)
+- **Summary**: Adobe on Monday released security patches to address a maximum-severity flaw impacting Adobe Commerce and Magento Open Source that has come under acti...
+- [Read more](https://thehackernews.com/2026/09/adobe-patches-magento-zero-day.html)
 
-### One Question
+### BengalSEO Poisons Bing Search Results to Deliver MayaBot and Tech Support Scams
 - **Published**: September 08, 2026
-- **Summary**: https://www.tonightweanswer.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49605325">https://news.ycombinator.co......
-- [Read more](https://www.tonightweanswer.com/)
+- **Summary**: Cybersecurity researchers have disclosed details of a sprawling search engine optimization (SEO) poisoning campaign that paves the way for malware dep...
+- [Read more](https://thehackernews.com/2026/09/bengalseo-poisons-bing-search-results.html)
 
 ---
 
