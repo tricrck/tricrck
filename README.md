@@ -16,15 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### PEEP Turns Chrome and Edge Into Post-Compromise Backdoors for Host Command Execution
-- **Published**: September 07, 2026
-- **Summary**: Cybersecurity researchers have disclosed details of a complex Chromium-based post-exploitation toolkit called PEEP that masquerades as a bookmarks ext...
-- [Read more](https://thehackernews.com/2026/09/peep-turns-chrome-and-edge-into-post.html)
+### Tree Calculus
+- **Published**: September 08, 2026
+- **Summary**: https://olydis.medium.com/a-visual-introduction-to-tree-calculus-2f4a34ceffc2</a></p>
+<p>Comment......
+- [Read more](https://olydis.medium.com/a-visual-introduction-to-tree-calculus-2f4a34ceffc2)
 
-### Fake IT Calls Target Executives in Microsoft 365 Data Theft and Extortion Attacks
-- **Published**: September 07, 2026
-- **Summary**: Threat hunters have disclosed details of a widespread data theft and extortion threat cluster that's targeting Microsoft 365 and other software-as-a-s...
-- [Read more](https://thehackernews.com/2026/09/microsoft-365-attackers-use-help-desk.html)
+### One Question
+- **Published**: September 08, 2026
+- **Summary**: https://www.tonightweanswer.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49605325">https://news.ycombinator.co......
+- [Read more](https://www.tonightweanswer.com/)
 
 ---
 
