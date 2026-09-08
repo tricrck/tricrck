@@ -22,10 +22,10 @@
 - **Keywords**: bug
 - [Read more](https://thehackernews.com/2026/09/liquid-hackers-return-3400-bitcoin.html)
 
-### ChatGPT Flaw Let a Planted Prompt Send a Victim's Gmail Data to Another Account
+### Slim Spider Steals Crypto Custody Secrets From Brazilian Financial Institution
 - **Published**: September 08, 2026
-- **Summary**: Check Point Research said in a&nbsp;report published today&nbsp;that a single instruction planted in a ChatGPT conversation could cause ChatGPT to qui...
-- [Read more](https://thehackernews.com/2026/09/chatgpt-flaw-let-planted-prompt-send.html)
+- **Summary**: A previously undocumented financially motivated threat actor has been linked to attacks targeting Brazilian financial institutions since at least Marc...
+- [Read more](https://thehackernews.com/2026/09/slim-spider-steals-crypto-custody.html)
 
 ---
 
