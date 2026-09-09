@@ -16,16 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Liquid Hackers Return 3,400 Bitcoin Taken via Elements Bug, Still Holding $47M in BTC
-- **Published**: September 08, 2026
-- **Summary**: Whoever took nearly 4,000 bitcoin from the Liquid Network on Sunday, September 6,&nbsp;returned 3,400 of it&nbsp;the next day, Bitcoin's public record...
-- **Keywords**: bug
-- [Read more](https://thehackernews.com/2026/09/liquid-hackers-return-3400-bitcoin.html)
+### Dueling Court Rulings Leave Missouri's Congressional Races in Chaos
+- **Published**: September 09, 2026
+- **Summary**: https://www.nytimes.com/2026/09/08/us/politics/supreme-court-missouri-congression......
+- **Keywords**: chaos
+- [Read more](https://www.nytimes.com/2026/09/08/us/politics/supreme-court-missouri-congressional-map.html)
 
-### Slim Spider Steals Crypto Custody Secrets From Brazilian Financial Institution
-- **Published**: September 08, 2026
-- **Summary**: A previously undocumented financially motivated threat actor has been linked to attacks targeting Brazilian financial institutions since at least Marc...
-- [Read more](https://thehackernews.com/2026/09/slim-spider-steals-crypto-custody.html)
+### Mysterious x86 CPU Has APX, X86S Where Intel Left Off for LegacyFree x86
+- **Published**: September 09, 2026
+- **Summary**: https://www.phoronix.com/news/x86-CPU-With-APX-x86S</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id......
+- [Read more](https://www.phoronix.com/news/x86-CPU-With-APX-x86S)
 
 ---
 
