@@ -21,10 +21,10 @@
 - **Summary**: Over the past year, we watched a new class of alert appear in enterprise security operations centers and grow faster than anything else in the stream:...
 - [Read more](https://thehackernews.com/2026/09/when-whole-company-adopts-ai-what-it.html)
 
-### OpenAI Agents Linked to RubyGems Campaign That Gained RCE on RubyDoc Servers
+### Do wind and solar farms tank home values? A 20-year study says no
 - **Published**: September 12, 2026
-- **Summary**: The "major malicious attack" that targeted RubyGems in May 2026 was the work of a swarm of OpenAI agents, according to a new report published by resea...
-- [Read more](https://thehackernews.com/2026/09/openai-agents-linked-to-rubygems.html)
+- **Summary**: https://electrek.co/2026/09/08/do-wind-and-solar-farms-tank-home-values......
+- [Read more](https://electrek.co/2026/09/08/do-wind-and-solar-farms-tank-home-values-a-20-year-study-has-an-answer/)
 
 ---
 
