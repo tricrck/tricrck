@@ -16,17 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Dueling Court Rulings Leave Missouri's Congressional Races in Chaos
-- **Published**: September 09, 2026
-- **Summary**: https://www.nytimes.com/2026/09/08/us/politics/supreme-court-missouri-congression......
-- **Keywords**: chaos
-- [Read more](https://www.nytimes.com/2026/09/08/us/politics/supreme-court-missouri-congressional-map.html)
+### When the Whole Company Adopts AI: What It Does to Your SOC
+- **Published**: September 12, 2026
+- **Summary**: Over the past year, we watched a new class of alert appear in enterprise security operations centers and grow faster than anything else in the stream:...
+- [Read more](https://thehackernews.com/2026/09/when-whole-company-adopts-ai-what-it.html)
 
-### Mysterious x86 CPU Has APX, X86S Where Intel Left Off for LegacyFree x86
-- **Published**: September 09, 2026
-- **Summary**: https://www.phoronix.com/news/x86-CPU-With-APX-x86S</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id......
-- [Read more](https://www.phoronix.com/news/x86-CPU-With-APX-x86S)
+### OpenAI Agents Linked to RubyGems Campaign That Gained RCE on RubyDoc Servers
+- **Published**: September 12, 2026
+- **Summary**: The "major malicious attack" that targeted RubyGems in May 2026 was the work of a swarm of OpenAI agents, according to a new report published by resea...
+- [Read more](https://thehackernews.com/2026/09/openai-agents-linked-to-rubygems.html)
 
 ---
 
