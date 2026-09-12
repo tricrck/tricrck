@@ -16,15 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### When the Whole Company Adopts AI: What It Does to Your SOC
+### CISA Adds 5 Actively Exploited Artifactory, ScreenConnect, and RouterOS Flaws to KEV
 - **Published**: September 12, 2026
-- **Summary**: Over the past year, we watched a new class of alert appear in enterprise security operations centers and grow faster than anything else in the stream:...
-- [Read more](https://thehackernews.com/2026/09/when-whole-company-adopts-ai-what-it.html)
+- **Summary**: The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added five security flaws impacting JFrog Artifactory, ConnectWise ScreenConnect,...
+- [Read more](https://thehackernews.com/2026/09/cisa-adds-5-actively-exploited.html)
 
-### Do wind and solar farms tank home values? A 20-year study says no
+### I need help with this data? Is this all true?
 - **Published**: September 12, 2026
-- **Summary**: https://electrek.co/2026/09/08/do-wind-and-solar-farms-tank-home-values......
-- [Read more](https://electrek.co/2026/09/08/do-wind-and-solar-farms-tank-home-values-a-20-year-study-has-an-answer/)
+- **Summary**: https://nostradamusintellect.com/engine</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49676710">https://news.......
+- [Read more](https://nostradamusintellect.com/engine)
 
 ---
 
