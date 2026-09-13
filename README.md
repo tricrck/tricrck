@@ -16,15 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Anthropic CEO outlines plan to slow AI development
+### Automattic confirms Mullenweg has returned as CEO after attempted board ouster
 - **Published**: September 13, 2026
-- **Summary**: https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/</a></p......
-- [Read more](https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/)
+- **Summary**: https://techcrunch.com/2026/09/12/automattic-confirms-mul......
+- [Read more](https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/)
 
-### Attackers Use Passkey Phishing to Hijack Microsoft Cloud Accounts and Exfiltrate Data
+### Contradiction (1937)
 - **Published**: September 13, 2026
-- **Summary**: Microsoft has disclosed details of two campaigns in which threat actors are abusing third-party email delivery infrastructure to blast financial fraud...
-- [Read more](https://thehackernews.com/2026/09/attackers-use-passkey-phishing-to.html)
+- **Summary**: https://redsails.org/on-contradiction/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49688276">https://news.yc......
+- [Read more](https://redsails.org/on-contradiction/)
 
 ---
 
