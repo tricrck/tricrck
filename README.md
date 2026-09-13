@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### The Succession Crisis That Tore England Apart
+### Attackers Use Passkey Phishing to Hijack Microsoft Cloud Accounts and Exfiltrate Data
 - **Published**: September 13, 2026
-- **Summary**: https://www.historytoday.com/archive/feature/succession-crisis-tore-england-apart</a></p>
-<p......
-- **Keywords**: crisis, crisis, crisis
-- [Read more](https://www.historytoday.com/archive/feature/succession-crisis-tore-england-apart)
+- **Summary**: Microsoft has disclosed details of two campaigns in which threat actors are abusing third-party email delivery infrastructure to blast financial fraud...
+- [Read more](https://thehackernews.com/2026/09/attackers-use-passkey-phishing-to.html)
 
-### Anthropic CEO says AI swarm could 'take over the Internet' in 6-12 months
+### PostgreSQL 19's "scary patch contest"
 - **Published**: September 13, 2026
-- **Summary**: https://venturebeat.com/security/a......
-- [Read more](https://venturebeat.com/security/anthropic-ceo-says-ai-swarm-could-take-over-the-entire-internet-in-6-12-months-commits-to-ai-slowdown-plan)
+- **Summary**: https://lwn.net/Articles/1092003</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49682556">https://news.ycombinator.co......
+- [Read more](https://lwn.net/Articles/1092003)
 
 ---
 
