@@ -16,16 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### CISA Adds 5 Actively Exploited Artifactory, ScreenConnect, and RouterOS Flaws to KEV
-- **Published**: September 12, 2026
-- **Summary**: The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added five security flaws impacting JFrog Artifactory, ConnectWise ScreenConnect,...
-- [Read more](https://thehackernews.com/2026/09/cisa-adds-5-actively-exploited.html)
+### The Succession Crisis That Tore England Apart
+- **Published**: September 13, 2026
+- **Summary**: https://www.historytoday.com/archive/feature/succession-crisis-tore-england-apart</a></p>
+<p......
+- **Keywords**: crisis, crisis, crisis
+- [Read more](https://www.historytoday.com/archive/feature/succession-crisis-tore-england-apart)
 
-### I need help with this data? Is this all true?
-- **Published**: September 12, 2026
-- **Summary**: https://nostradamusintellect.com/engine</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49676710">https://news.......
-- [Read more](https://nostradamusintellect.com/engine)
+### Anthropic CEO says AI swarm could 'take over the Internet' in 6-12 months
+- **Published**: September 13, 2026
+- **Summary**: https://venturebeat.com/security/a......
+- [Read more](https://venturebeat.com/security/anthropic-ceo-says-ai-swarm-could-take-over-the-entire-internet-in-6-12-months-commits-to-ai-slowdown-plan)
 
 ---
 
