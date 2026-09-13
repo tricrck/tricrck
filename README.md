@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
+### Anthropic CEO outlines plan to slow AI development
+- **Published**: September 13, 2026
+- **Summary**: https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/</a></p......
+- [Read more](https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/)
+
 ### Attackers Use Passkey Phishing to Hijack Microsoft Cloud Accounts and Exfiltrate Data
 - **Published**: September 13, 2026
 - **Summary**: Microsoft has disclosed details of two campaigns in which threat actors are abusing third-party email delivery infrastructure to blast financial fraud...
 - [Read more](https://thehackernews.com/2026/09/attackers-use-passkey-phishing-to.html)
-
-### PostgreSQL 19's "scary patch contest"
-- **Published**: September 13, 2026
-- **Summary**: https://lwn.net/Articles/1092003</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49682556">https://news.ycombinator.co......
-- [Read more](https://lwn.net/Articles/1092003)
 
 ---
 
