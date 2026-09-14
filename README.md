@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### The Quiet Collapse After Letting Go
+### Malicious Twitch Browser Extension Leaks OAuth Tokens From Nearly 31,000 Users
 - **Published**: September 14, 2026
-- **Summary**: https://medium.com/freedomofthought/the-quiet-collapse-after-letting-go-d8149f119868</a><......
-- **Keywords**: collapse, collapse, collapse
-- [Read more](https://medium.com/freedomofthought/the-quiet-collapse-after-letting-go-d8149f119868)
+- **Summary**: A malicious cross-store Twitch browser extension has leaked OAuth tokens associated with nearly 31,000 users to proxy servers operated by a Russian co...
+- [Read more](https://thehackernews.com/2026/09/malicious-twitch-browser-extension.html)
 
-### The Two MMLU Scores: What a Benchmark Name Does Not Fix
+### High-performance garbage collection for C++
 - **Published**: September 14, 2026
-- **Summary**: https://zatona.dev/blog/the-two-mmlu-scores</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49691696">https......
-- [Read more](https://zatona.dev/blog/the-two-mmlu-scores)
+- **Summary**: https://v8.dev/blog/high-performance-cpp-gc</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49695331">https......
+- [Read more](https://v8.dev/blog/high-performance-cpp-gc)
 
 ---
 
