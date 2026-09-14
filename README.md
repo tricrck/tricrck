@@ -16,16 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Automattic confirms Mullenweg has returned as CEO after attempted board ouster
-- **Published**: September 13, 2026
-- **Summary**: https://techcrunch.com/2026/09/12/automattic-confirms-mul......
-- [Read more](https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/)
+### The Quiet Collapse After Letting Go
+- **Published**: September 14, 2026
+- **Summary**: https://medium.com/freedomofthought/the-quiet-collapse-after-letting-go-d8149f119868</a><......
+- **Keywords**: collapse, collapse, collapse
+- [Read more](https://medium.com/freedomofthought/the-quiet-collapse-after-letting-go-d8149f119868)
 
-### Contradiction (1937)
-- **Published**: September 13, 2026
-- **Summary**: https://redsails.org/on-contradiction/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49688276">https://news.yc......
-- [Read more](https://redsails.org/on-contradiction/)
+### The Two MMLU Scores: What a Benchmark Name Does Not Fix
+- **Published**: September 14, 2026
+- **Summary**: https://zatona.dev/blog/the-two-mmlu-scores</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49691696">https......
+- [Read more](https://zatona.dev/blog/the-two-mmlu-scores)
 
 ---
 
