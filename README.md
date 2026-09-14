@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Malicious Twitch Browser Extension Leaks OAuth Tokens From Nearly 31,000 Users
+### New DDRop Attack Breaks Intel TDX and AMD SEV-SNP Confidential Computing
 - **Published**: September 14, 2026
-- **Summary**: A malicious cross-store Twitch browser extension has leaked OAuth tokens associated with nearly 31,000 users to proxy servers operated by a Russian co...
-- [Read more](https://thehackernews.com/2026/09/malicious-twitch-browser-extension.html)
+- **Summary**: Researchers have disclosed a new hardware attack, called DDRop, that breaks the memory protection in Intel and AMD confidential computing by silently ...
+- [Read more](https://thehackernews.com/2026/09/new-ddrop-attack-breaks-intel-tdx-and.html)
 
-### High-performance garbage collection for C++
+### 3BB Attacker Used MeshCentral Backdoor for Root Access, Targeted Subscriber Credentials
 - **Published**: September 14, 2026
-- **Summary**: https://v8.dev/blog/high-performance-cpp-gc</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49695331">https......
-- [Read more](https://v8.dev/blog/high-performance-cpp-gc)
+- **Summary**: An attacker was operating inside the network of 3BB, one of Thailand's largest broadband providers, and maintained remote control of internal machines...
+- [Read more](https://thehackernews.com/2026/09/3bb-attacker-used-meshcentral-backdoor.html)
 
 ---
 
