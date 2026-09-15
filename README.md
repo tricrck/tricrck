@@ -16,15 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### New DDRop Attack Breaks Intel TDX and AMD SEV-SNP Confidential Computing
-- **Published**: September 14, 2026
-- **Summary**: Researchers have disclosed a new hardware attack, called DDRop, that breaks the memory protection in Intel and AMD confidential computing by silently ...
-- [Read more](https://thehackernews.com/2026/09/new-ddrop-attack-breaks-intel-tdx-and.html)
+### Crof.ai Was Caught Misrepresenting Models, Shut Down
+- **Published**: September 15, 2026
+- **Summary**: https://reddit.com/r/SillyTavernAI/comments/1wgkagq/crofai_model_provid......
+- **Keywords**: down
+- [Read more](https://reddit.com/r/SillyTavernAI/comments/1wgkagq/crofai_model_provider_just_shut_down_fraudulently/)
 
-### 3BB Attacker Used MeshCentral Backdoor for Root Access, Targeted Subscriber Credentials
-- **Published**: September 14, 2026
-- **Summary**: An attacker was operating inside the network of 3BB, one of Thailand's largest broadband providers, and maintained remote control of internal machines...
-- [Read more](https://thehackernews.com/2026/09/3bb-attacker-used-meshcentral-backdoor.html)
+### Researchers find Apple Pay, Visa contactless hack
+- **Published**: September 15, 2026
+- **Summary**: https://www.bbc.com/news/technology-58719891</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49707461">htt......
+- [Read more](https://www.bbc.com/news/technology-58719891)
 
 ---
 
