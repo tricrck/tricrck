@@ -16,15 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### BambooToken Malware Uses MQTT to Control Windows and Linux Systems
-- **Published**: September 15, 2026
-- **Summary**: Cybersecurity researchers have disclosed details of a multi-platform campaign that uses the Message Queueing Telemetry Transport (MQTT) protocol as a ...
-- [Read more](https://thehackernews.com/2026/09/bambootoken-malware-uses-mqtt-to.html)
+### KREMLIN Banking Malware Hijacks Chrome and Edge to Steal Credentials and Session Tokens
+- **Published**: September 16, 2026
+- **Summary**: Cybersecurity researchers have shed light on a previously undocumented Brazilian banking malware operation that delivers a toolkit called KREMLIN.
 
-### Human Attacker Exploits Marimo RCE, Reaches SSH Bastion in Eight Seconds
+El...
+- [Read more](https://thehackernews.com/2026/09/kremlin-banking-malware-hijacks-chrome.html)
+
+### Iranian Hackers Use Telegram-Controlled Malware to Spy on Dissidents and Journalists
 - **Published**: September 15, 2026
-- **Summary**: With artificial intelligence (AI) shrinking the window between vulnerability discovery and exploitation and lowering the barrier to entry for bad acto...
-- [Read more](https://thehackernews.com/2026/09/human-attacker-exploits-marimo-rce.html)
+- **Summary**: Cybersecurity agencies in the United States, the United Kingdom, and the Netherlands have detailed a Windows malware that they say Iran's intelligence...
+- [Read more](https://thehackernews.com/2026/09/iranian-hackers-use-telegram-controlled.html)
 
 ---
 
