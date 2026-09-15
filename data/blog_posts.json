@@ -1,92 +1,28 @@
 {
   "chaos_ranked": [
     {
-      "title": "Crof.ai Was Caught Misrepresenting Models, Shut Down",
-      "link": "https://reddit.com/r/SillyTavernAI/comments/1wgkagq/crofai_model_provider_just_shut_down_fraudulently/",
-      "summary": "<p>Article URL: <a href=\"https://reddit.com/r/SillyTavernAI/comments/1wgkagq/crofai_model_provider_just_shut_down_fraudulently/\">https://reddit.com/r/SillyTavernAI/comments/1wgkagq/crofai_model_provid...",
-      "published": "2026-09-15T03:42:18+00:00",
-      "domain": "reddit.com",
+      "title": "Suspected sabotage causes major Netherlands rail disruption",
+      "link": "https://www.bbc.com/news/articles/c8ly49w9g1edo",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49710253\">Comments</a>...",
+      "published": "2026-09-15T10:22:46+00:00",
+      "domain": "bbc.com",
       "scores": {
-        "chaos": 12.7,
+        "chaos": 26.3,
         "anarchy": 3.0,
-        "overall": 7.8
+        "overall": 14.7
       },
       "keywords": {
         "chaos": [
-          "down"
+          "disruption"
         ],
         "anarchy": []
       }
     },
     {
-      "title": "Researchers find Apple Pay, Visa contactless hack",
-      "link": "https://www.bbc.com/news/technology-58719891",
-      "summary": "<p>Article URL: <a href=\"https://www.bbc.com/news/technology-58719891\">https://www.bbc.com/news/technology-58719891</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49707461\">htt...",
-      "published": "2026-09-15T03:45:37+00:00",
-      "domain": "bbc.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The Zuiderzee Project",
-      "link": "https://lorentz.leidenuniv.nl/history/zuiderzee/zuiderzee.html",
-      "summary": "<p>Article URL: <a href=\"https://lorentz.leidenuniv.nl/history/zuiderzee/zuiderzee.html\">https://lorentz.leidenuniv.nl/history/zuiderzee/zuiderzee.html</a></p>\n<p>Comments URL: <a href=\"https://news.y...",
-      "published": "2026-09-15T03:42:55+00:00",
-      "domain": "lorentz.leidenuniv.nl",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Crumb Advanced Circuit Simulator",
-      "link": "https://store.steampowered.com/news/app/2198800/view/680761125088789335",
-      "summary": "<p>Article URL: <a href=\"https://store.steampowered.com/news/app/2198800/view/680761125088789335\">https://store.steampowered.com/news/app/2198800/view/680761125088789335</a></p>\n<p>Comments URL: <a hr...",
-      "published": "2026-09-15T03:42:14+00:00",
-      "domain": "store.steampowered.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Why the best AI startups write bad prompts (& how to fix this)",
-      "link": "https://twitter.com/wulfie_bain_/status/2098060386813566990",
-      "summary": "<p>Article URL: <a href=\"https://twitter.com/wulfie_bain_/status/2098060386813566990\">https://twitter.com/wulfie_bain_/status/2098060386813566990</a></p>\n<p>Comments URL: <a href=\"https://news.ycombin...",
-      "published": "2026-09-15T03:41:52+00:00",
-      "domain": "twitter.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "New DDRop Attack Breaks Intel TDX and AMD SEV-SNP Confidential Computing",
-      "link": "https://thehackernews.com/2026/09/new-ddrop-attack-breaks-intel-tdx-and.html",
-      "summary": "Researchers have disclosed a new hardware attack, called DDRop, that breaks the memory protection in Intel and AMD confidential computing by silently dropping writes to a server's memory, so the proce...",
-      "published": "2026-09-14T23:32:13+05:30",
+      "title": "LiteSpeed Enterprise Flaw Could Let One Hosting Account Gain Root Access on a Shared Server",
+      "link": "https://thehackernews.com/2026/09/litespeed-enterprise-flaw-could-let-one.html",
+      "summary": "A critical vulnerability in LiteSpeed Web Server Enterprise could let a low-privilege website user gain root access on a shared-hosting server, cPanel warned in an&nbsp;advisory published on September...",
+      "published": "2026-09-15T12:22:16+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -99,10 +35,10 @@
       }
     },
     {
-      "title": "3BB Attacker Used MeshCentral Backdoor for Root Access, Targeted Subscriber Credentials",
-      "link": "https://thehackernews.com/2026/09/3bb-attacker-used-meshcentral-backdoor.html",
-      "summary": "An attacker was operating inside the network of 3BB, one of Thailand's largest broadband providers, and maintained remote control of internal machines using a legitimate management tool called MeshCen...",
-      "published": "2026-09-14T23:31:49+05:30",
+      "title": "Cisco Secure Email Gateway Flaw Exploited in the Wild, Enables Root Command Execution",
+      "link": "https://thehackernews.com/2026/09/cisco-secure-email-gateway-flaw.html",
+      "summary": "Cisco has warned that a new critical vulnerability impacting AsyncOS Software for Cisco Secure Email Gateway has come under active exploitation in the wild.\n\nThe vulnerability, tracked as CVE-2026-764...",
+      "published": "2026-09-15T11:41:11+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -115,11 +51,11 @@
       }
     },
     {
-      "title": "Telegram Desktop Flaw Lets Hidden JavaScript Exfiltrate Messages From HTML Exports",
-      "link": "https://thehackernews.com/2026/09/telegram-desktop-flaw-lets-hidden.html",
-      "summary": "A flaw in Telegram Desktop let a bot's message plant hidden JavaScript inside chats that users exported to HTML files, security researchers at ExPatch said in a&nbsp;writeup&nbsp;published on Septembe...",
-      "published": "2026-09-14T23:28:16+05:30",
-      "domain": "thehackernews.com",
+      "title": "IndieRoadmaps \u2013 a simple roadmap builder for indie hacker",
+      "link": "https://indieroadmaps.com",
+      "summary": "<p>Article URL: <a href=\"https://indieroadmaps.com\">https://indieroadmaps.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49710751\">https://news.ycombinator.com/item?id=4971...",
+      "published": "2026-09-15T11:15:39+00:00",
+      "domain": "indieroadmaps.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -131,10 +67,58 @@
       }
     },
     {
-      "title": "Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS",
-      "link": "https://github.com/JamesRyanATX/fcbnerd",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49705442\">Comments</a>...",
-      "published": "2026-09-14T23:01:36+00:00",
+      "title": "FloorPoll \u2013 live polls your audience joins in one tap",
+      "link": "https://floorpoll.app/",
+      "summary": "<p>Article URL: <a href=\"https://floorpoll.app/\">https://floorpoll.app/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49710742\">https://news.ycombinator.com/item?id=49710742</...",
+      "published": "2026-09-15T11:15:02+00:00",
+      "domain": "floorpoll.app",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "DotNet Security Cheat Sheet",
+      "link": "https://cheatsheetseries.owasp.org/cheatsheets/DotNet_Security_Cheat_Sheet.html",
+      "summary": "<p>Article URL: <a href=\"https://cheatsheetseries.owasp.org/cheatsheets/DotNet_Security_Cheat_Sheet.html\">https://cheatsheetseries.owasp.org/cheatsheets/DotNet_Security_Cheat_Sheet.html</a></p>\n<p>Com...",
+      "published": "2026-09-15T11:13:53+00:00",
+      "domain": "cheatsheetseries.owasp.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "I Go To The Cloud: A tour in Hetzner's data center [video]",
+      "link": "https://www.youtube.com/watch?v=i5GTwBTCQJI",
+      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=i5GTwBTCQJI\">https://www.youtube.com/watch?v=i5GTwBTCQJI</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49710710\">https...",
+      "published": "2026-09-15T11:12:20+00:00",
+      "domain": "youtube.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "# mdsvex \u2013 Svelte in Markdown",
+      "link": "https://github.com/pngwn/mdsvex",
+      "summary": "<p>Article URL: <a href=\"https://github.com/pngwn/mdsvex\">https://github.com/pngwn/mdsvex</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49710677\">https://news.ycombinator.com/...",
+      "published": "2026-09-15T11:09:13+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -147,11 +131,27 @@
       }
     },
     {
-      "title": "Red Heron Exploits Gitea RCE to Compromise 13 Organizations Across Six Countries",
-      "link": "https://thehackernews.com/2026/09/red-heron-exploits-gitea-rce-to.html",
-      "summary": "A suspected Chinese threat actor tracked as Red Heron has been attributed to the rapid exploitation of a recently disclosed security vulnerability in Gitea to compromise internet-facing instances as p...",
-      "published": "2026-09-14T22:26:30+05:30",
+      "title": "China-Linked Hackers Exploit Chrome-Windows Zero-Day Chain to Deploy GRIMWEDGE",
+      "link": "https://thehackernews.com/2026/09/china-linked-hackers-exploit-chrome.html",
+      "summary": "A Chinese threat actor has been attributed to a spear-phishing campaign that exploits recently patched security flaws in Google Chrome and Microsoft Windows to deliver a malicious JavaScript backdoor ...",
+      "published": "2026-09-15T11:01:05+05:30",
       "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "How much of F-Droid is LLM generated?",
+      "link": "https://tintotint.eu/whacky-corner/f-droid_slop/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49710015\">Comments</a>...",
+      "published": "2026-09-15T09:47:48+00:00",
+      "domain": "tintotint.eu",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -165,92 +165,10 @@
   ],
   "anarchy_ranked": [
     {
-      "title": "Researchers find Apple Pay, Visa contactless hack",
-      "link": "https://www.bbc.com/news/technology-58719891",
-      "summary": "<p>Article URL: <a href=\"https://www.bbc.com/news/technology-58719891\">https://www.bbc.com/news/technology-58719891</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49707461\">htt...",
-      "published": "2026-09-15T03:45:37+00:00",
-      "domain": "bbc.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The Zuiderzee Project",
-      "link": "https://lorentz.leidenuniv.nl/history/zuiderzee/zuiderzee.html",
-      "summary": "<p>Article URL: <a href=\"https://lorentz.leidenuniv.nl/history/zuiderzee/zuiderzee.html\">https://lorentz.leidenuniv.nl/history/zuiderzee/zuiderzee.html</a></p>\n<p>Comments URL: <a href=\"https://news.y...",
-      "published": "2026-09-15T03:42:55+00:00",
-      "domain": "lorentz.leidenuniv.nl",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Crof.ai Was Caught Misrepresenting Models, Shut Down",
-      "link": "https://reddit.com/r/SillyTavernAI/comments/1wgkagq/crofai_model_provider_just_shut_down_fraudulently/",
-      "summary": "<p>Article URL: <a href=\"https://reddit.com/r/SillyTavernAI/comments/1wgkagq/crofai_model_provider_just_shut_down_fraudulently/\">https://reddit.com/r/SillyTavernAI/comments/1wgkagq/crofai_model_provid...",
-      "published": "2026-09-15T03:42:18+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 12.7,
-        "anarchy": 3.0,
-        "overall": 7.8
-      },
-      "keywords": {
-        "chaos": [
-          "down"
-        ],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Crumb Advanced Circuit Simulator",
-      "link": "https://store.steampowered.com/news/app/2198800/view/680761125088789335",
-      "summary": "<p>Article URL: <a href=\"https://store.steampowered.com/news/app/2198800/view/680761125088789335\">https://store.steampowered.com/news/app/2198800/view/680761125088789335</a></p>\n<p>Comments URL: <a hr...",
-      "published": "2026-09-15T03:42:14+00:00",
-      "domain": "store.steampowered.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Why the best AI startups write bad prompts (& how to fix this)",
-      "link": "https://twitter.com/wulfie_bain_/status/2098060386813566990",
-      "summary": "<p>Article URL: <a href=\"https://twitter.com/wulfie_bain_/status/2098060386813566990\">https://twitter.com/wulfie_bain_/status/2098060386813566990</a></p>\n<p>Comments URL: <a href=\"https://news.ycombin...",
-      "published": "2026-09-15T03:41:52+00:00",
-      "domain": "twitter.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "New DDRop Attack Breaks Intel TDX and AMD SEV-SNP Confidential Computing",
-      "link": "https://thehackernews.com/2026/09/new-ddrop-attack-breaks-intel-tdx-and.html",
-      "summary": "Researchers have disclosed a new hardware attack, called DDRop, that breaks the memory protection in Intel and AMD confidential computing by silently dropping writes to a server's memory, so the proce...",
-      "published": "2026-09-14T23:32:13+05:30",
+      "title": "LiteSpeed Enterprise Flaw Could Let One Hosting Account Gain Root Access on a Shared Server",
+      "link": "https://thehackernews.com/2026/09/litespeed-enterprise-flaw-could-let-one.html",
+      "summary": "A critical vulnerability in LiteSpeed Web Server Enterprise could let a low-privilege website user gain root access on a shared-hosting server, cPanel warned in an&nbsp;advisory published on September...",
+      "published": "2026-09-15T12:22:16+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -263,10 +181,10 @@
       }
     },
     {
-      "title": "3BB Attacker Used MeshCentral Backdoor for Root Access, Targeted Subscriber Credentials",
-      "link": "https://thehackernews.com/2026/09/3bb-attacker-used-meshcentral-backdoor.html",
-      "summary": "An attacker was operating inside the network of 3BB, one of Thailand's largest broadband providers, and maintained remote control of internal machines using a legitimate management tool called MeshCen...",
-      "published": "2026-09-14T23:31:49+05:30",
+      "title": "Cisco Secure Email Gateway Flaw Exploited in the Wild, Enables Root Command Execution",
+      "link": "https://thehackernews.com/2026/09/cisco-secure-email-gateway-flaw.html",
+      "summary": "Cisco has warned that a new critical vulnerability impacting AsyncOS Software for Cisco Secure Email Gateway has come under active exploitation in the wild.\n\nThe vulnerability, tracked as CVE-2026-764...",
+      "published": "2026-09-15T11:41:11+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -279,11 +197,11 @@
       }
     },
     {
-      "title": "Telegram Desktop Flaw Lets Hidden JavaScript Exfiltrate Messages From HTML Exports",
-      "link": "https://thehackernews.com/2026/09/telegram-desktop-flaw-lets-hidden.html",
-      "summary": "A flaw in Telegram Desktop let a bot's message plant hidden JavaScript inside chats that users exported to HTML files, security researchers at ExPatch said in a&nbsp;writeup&nbsp;published on Septembe...",
-      "published": "2026-09-14T23:28:16+05:30",
-      "domain": "thehackernews.com",
+      "title": "IndieRoadmaps \u2013 a simple roadmap builder for indie hacker",
+      "link": "https://indieroadmaps.com",
+      "summary": "<p>Article URL: <a href=\"https://indieroadmaps.com\">https://indieroadmaps.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49710751\">https://news.ycombinator.com/item?id=4971...",
+      "published": "2026-09-15T11:15:39+00:00",
+      "domain": "indieroadmaps.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -295,10 +213,58 @@
       }
     },
     {
-      "title": "Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS",
-      "link": "https://github.com/JamesRyanATX/fcbnerd",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49705442\">Comments</a>...",
-      "published": "2026-09-14T23:01:36+00:00",
+      "title": "FloorPoll \u2013 live polls your audience joins in one tap",
+      "link": "https://floorpoll.app/",
+      "summary": "<p>Article URL: <a href=\"https://floorpoll.app/\">https://floorpoll.app/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49710742\">https://news.ycombinator.com/item?id=49710742</...",
+      "published": "2026-09-15T11:15:02+00:00",
+      "domain": "floorpoll.app",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "DotNet Security Cheat Sheet",
+      "link": "https://cheatsheetseries.owasp.org/cheatsheets/DotNet_Security_Cheat_Sheet.html",
+      "summary": "<p>Article URL: <a href=\"https://cheatsheetseries.owasp.org/cheatsheets/DotNet_Security_Cheat_Sheet.html\">https://cheatsheetseries.owasp.org/cheatsheets/DotNet_Security_Cheat_Sheet.html</a></p>\n<p>Com...",
+      "published": "2026-09-15T11:13:53+00:00",
+      "domain": "cheatsheetseries.owasp.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "I Go To The Cloud: A tour in Hetzner's data center [video]",
+      "link": "https://www.youtube.com/watch?v=i5GTwBTCQJI",
+      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=i5GTwBTCQJI\">https://www.youtube.com/watch?v=i5GTwBTCQJI</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49710710\">https...",
+      "published": "2026-09-15T11:12:20+00:00",
+      "domain": "youtube.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "# mdsvex \u2013 Svelte in Markdown",
+      "link": "https://github.com/pngwn/mdsvex",
+      "summary": "<p>Article URL: <a href=\"https://github.com/pngwn/mdsvex\">https://github.com/pngwn/mdsvex</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49710677\">https://news.ycombinator.com/...",
+      "published": "2026-09-15T11:09:13+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -311,11 +277,45 @@
       }
     },
     {
-      "title": "Red Heron Exploits Gitea RCE to Compromise 13 Organizations Across Six Countries",
-      "link": "https://thehackernews.com/2026/09/red-heron-exploits-gitea-rce-to.html",
-      "summary": "A suspected Chinese threat actor tracked as Red Heron has been attributed to the rapid exploitation of a recently disclosed security vulnerability in Gitea to compromise internet-facing instances as p...",
-      "published": "2026-09-14T22:26:30+05:30",
+      "title": "China-Linked Hackers Exploit Chrome-Windows Zero-Day Chain to Deploy GRIMWEDGE",
+      "link": "https://thehackernews.com/2026/09/china-linked-hackers-exploit-chrome.html",
+      "summary": "A Chinese threat actor has been attributed to a spear-phishing campaign that exploits recently patched security flaws in Google Chrome and Microsoft Windows to deliver a malicious JavaScript backdoor ...",
+      "published": "2026-09-15T11:01:05+05:30",
       "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Suspected sabotage causes major Netherlands rail disruption",
+      "link": "https://www.bbc.com/news/articles/c8ly49w9g1edo",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49710253\">Comments</a>...",
+      "published": "2026-09-15T10:22:46+00:00",
+      "domain": "bbc.com",
+      "scores": {
+        "chaos": 26.3,
+        "anarchy": 3.0,
+        "overall": 14.7
+      },
+      "keywords": {
+        "chaos": [
+          "disruption"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "How much of F-Droid is LLM generated?",
+      "link": "https://tintotint.eu/whacky-corner/f-droid_slop/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49710015\">Comments</a>...",
+      "published": "2026-09-15T09:47:48+00:00",
+      "domain": "tintotint.eu",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -329,92 +329,28 @@
   ],
   "overall_ranked": [
     {
-      "title": "Crof.ai Was Caught Misrepresenting Models, Shut Down",
-      "link": "https://reddit.com/r/SillyTavernAI/comments/1wgkagq/crofai_model_provider_just_shut_down_fraudulently/",
-      "summary": "<p>Article URL: <a href=\"https://reddit.com/r/SillyTavernAI/comments/1wgkagq/crofai_model_provider_just_shut_down_fraudulently/\">https://reddit.com/r/SillyTavernAI/comments/1wgkagq/crofai_model_provid...",
-      "published": "2026-09-15T03:42:18+00:00",
-      "domain": "reddit.com",
+      "title": "Suspected sabotage causes major Netherlands rail disruption",
+      "link": "https://www.bbc.com/news/articles/c8ly49w9g1edo",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49710253\">Comments</a>...",
+      "published": "2026-09-15T10:22:46+00:00",
+      "domain": "bbc.com",
       "scores": {
-        "chaos": 12.7,
+        "chaos": 26.3,
         "anarchy": 3.0,
-        "overall": 7.8
+        "overall": 14.7
       },
       "keywords": {
         "chaos": [
-          "down"
+          "disruption"
         ],
         "anarchy": []
       }
     },
     {
-      "title": "Researchers find Apple Pay, Visa contactless hack",
-      "link": "https://www.bbc.com/news/technology-58719891",
-      "summary": "<p>Article URL: <a href=\"https://www.bbc.com/news/technology-58719891\">https://www.bbc.com/news/technology-58719891</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49707461\">htt...",
-      "published": "2026-09-15T03:45:37+00:00",
-      "domain": "bbc.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The Zuiderzee Project",
-      "link": "https://lorentz.leidenuniv.nl/history/zuiderzee/zuiderzee.html",
-      "summary": "<p>Article URL: <a href=\"https://lorentz.leidenuniv.nl/history/zuiderzee/zuiderzee.html\">https://lorentz.leidenuniv.nl/history/zuiderzee/zuiderzee.html</a></p>\n<p>Comments URL: <a href=\"https://news.y...",
-      "published": "2026-09-15T03:42:55+00:00",
-      "domain": "lorentz.leidenuniv.nl",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Crumb Advanced Circuit Simulator",
-      "link": "https://store.steampowered.com/news/app/2198800/view/680761125088789335",
-      "summary": "<p>Article URL: <a href=\"https://store.steampowered.com/news/app/2198800/view/680761125088789335\">https://store.steampowered.com/news/app/2198800/view/680761125088789335</a></p>\n<p>Comments URL: <a hr...",
-      "published": "2026-09-15T03:42:14+00:00",
-      "domain": "store.steampowered.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Why the best AI startups write bad prompts (& how to fix this)",
-      "link": "https://twitter.com/wulfie_bain_/status/2098060386813566990",
-      "summary": "<p>Article URL: <a href=\"https://twitter.com/wulfie_bain_/status/2098060386813566990\">https://twitter.com/wulfie_bain_/status/2098060386813566990</a></p>\n<p>Comments URL: <a href=\"https://news.ycombin...",
-      "published": "2026-09-15T03:41:52+00:00",
-      "domain": "twitter.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "New DDRop Attack Breaks Intel TDX and AMD SEV-SNP Confidential Computing",
-      "link": "https://thehackernews.com/2026/09/new-ddrop-attack-breaks-intel-tdx-and.html",
-      "summary": "Researchers have disclosed a new hardware attack, called DDRop, that breaks the memory protection in Intel and AMD confidential computing by silently dropping writes to a server's memory, so the proce...",
-      "published": "2026-09-14T23:32:13+05:30",
+      "title": "LiteSpeed Enterprise Flaw Could Let One Hosting Account Gain Root Access on a Shared Server",
+      "link": "https://thehackernews.com/2026/09/litespeed-enterprise-flaw-could-let-one.html",
+      "summary": "A critical vulnerability in LiteSpeed Web Server Enterprise could let a low-privilege website user gain root access on a shared-hosting server, cPanel warned in an&nbsp;advisory published on September...",
+      "published": "2026-09-15T12:22:16+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -427,10 +363,10 @@
       }
     },
     {
-      "title": "3BB Attacker Used MeshCentral Backdoor for Root Access, Targeted Subscriber Credentials",
-      "link": "https://thehackernews.com/2026/09/3bb-attacker-used-meshcentral-backdoor.html",
-      "summary": "An attacker was operating inside the network of 3BB, one of Thailand's largest broadband providers, and maintained remote control of internal machines using a legitimate management tool called MeshCen...",
-      "published": "2026-09-14T23:31:49+05:30",
+      "title": "Cisco Secure Email Gateway Flaw Exploited in the Wild, Enables Root Command Execution",
+      "link": "https://thehackernews.com/2026/09/cisco-secure-email-gateway-flaw.html",
+      "summary": "Cisco has warned that a new critical vulnerability impacting AsyncOS Software for Cisco Secure Email Gateway has come under active exploitation in the wild.\n\nThe vulnerability, tracked as CVE-2026-764...",
+      "published": "2026-09-15T11:41:11+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -443,11 +379,11 @@
       }
     },
     {
-      "title": "Telegram Desktop Flaw Lets Hidden JavaScript Exfiltrate Messages From HTML Exports",
-      "link": "https://thehackernews.com/2026/09/telegram-desktop-flaw-lets-hidden.html",
-      "summary": "A flaw in Telegram Desktop let a bot's message plant hidden JavaScript inside chats that users exported to HTML files, security researchers at ExPatch said in a&nbsp;writeup&nbsp;published on Septembe...",
-      "published": "2026-09-14T23:28:16+05:30",
-      "domain": "thehackernews.com",
+      "title": "IndieRoadmaps \u2013 a simple roadmap builder for indie hacker",
+      "link": "https://indieroadmaps.com",
+      "summary": "<p>Article URL: <a href=\"https://indieroadmaps.com\">https://indieroadmaps.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49710751\">https://news.ycombinator.com/item?id=4971...",
+      "published": "2026-09-15T11:15:39+00:00",
+      "domain": "indieroadmaps.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -459,10 +395,58 @@
       }
     },
     {
-      "title": "Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS",
-      "link": "https://github.com/JamesRyanATX/fcbnerd",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49705442\">Comments</a>...",
-      "published": "2026-09-14T23:01:36+00:00",
+      "title": "FloorPoll \u2013 live polls your audience joins in one tap",
+      "link": "https://floorpoll.app/",
+      "summary": "<p>Article URL: <a href=\"https://floorpoll.app/\">https://floorpoll.app/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49710742\">https://news.ycombinator.com/item?id=49710742</...",
+      "published": "2026-09-15T11:15:02+00:00",
+      "domain": "floorpoll.app",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "DotNet Security Cheat Sheet",
+      "link": "https://cheatsheetseries.owasp.org/cheatsheets/DotNet_Security_Cheat_Sheet.html",
+      "summary": "<p>Article URL: <a href=\"https://cheatsheetseries.owasp.org/cheatsheets/DotNet_Security_Cheat_Sheet.html\">https://cheatsheetseries.owasp.org/cheatsheets/DotNet_Security_Cheat_Sheet.html</a></p>\n<p>Com...",
+      "published": "2026-09-15T11:13:53+00:00",
+      "domain": "cheatsheetseries.owasp.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "I Go To The Cloud: A tour in Hetzner's data center [video]",
+      "link": "https://www.youtube.com/watch?v=i5GTwBTCQJI",
+      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=i5GTwBTCQJI\">https://www.youtube.com/watch?v=i5GTwBTCQJI</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49710710\">https...",
+      "published": "2026-09-15T11:12:20+00:00",
+      "domain": "youtube.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "# mdsvex \u2013 Svelte in Markdown",
+      "link": "https://github.com/pngwn/mdsvex",
+      "summary": "<p>Article URL: <a href=\"https://github.com/pngwn/mdsvex\">https://github.com/pngwn/mdsvex</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49710677\">https://news.ycombinator.com/...",
+      "published": "2026-09-15T11:09:13+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -475,11 +459,27 @@
       }
     },
     {
-      "title": "Red Heron Exploits Gitea RCE to Compromise 13 Organizations Across Six Countries",
-      "link": "https://thehackernews.com/2026/09/red-heron-exploits-gitea-rce-to.html",
-      "summary": "A suspected Chinese threat actor tracked as Red Heron has been attributed to the rapid exploitation of a recently disclosed security vulnerability in Gitea to compromise internet-facing instances as p...",
-      "published": "2026-09-14T22:26:30+05:30",
+      "title": "China-Linked Hackers Exploit Chrome-Windows Zero-Day Chain to Deploy GRIMWEDGE",
+      "link": "https://thehackernews.com/2026/09/china-linked-hackers-exploit-chrome.html",
+      "summary": "A Chinese threat actor has been attributed to a spear-phishing campaign that exploits recently patched security flaws in Google Chrome and Microsoft Windows to deliver a malicious JavaScript backdoor ...",
+      "published": "2026-09-15T11:01:05+05:30",
       "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "How much of F-Droid is LLM generated?",
+      "link": "https://tintotint.eu/whacky-corner/f-droid_slop/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49710015\">Comments</a>...",
+      "published": "2026-09-15T09:47:48+00:00",
+      "domain": "tintotint.eu",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -493,92 +493,10 @@
   ],
   "all_articles": [
     {
-      "title": "Researchers find Apple Pay, Visa contactless hack",
-      "link": "https://www.bbc.com/news/technology-58719891",
-      "summary": "<p>Article URL: <a href=\"https://www.bbc.com/news/technology-58719891\">https://www.bbc.com/news/technology-58719891</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49707461\">htt...",
-      "published": "2026-09-15T03:45:37+00:00",
-      "domain": "bbc.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The Zuiderzee Project",
-      "link": "https://lorentz.leidenuniv.nl/history/zuiderzee/zuiderzee.html",
-      "summary": "<p>Article URL: <a href=\"https://lorentz.leidenuniv.nl/history/zuiderzee/zuiderzee.html\">https://lorentz.leidenuniv.nl/history/zuiderzee/zuiderzee.html</a></p>\n<p>Comments URL: <a href=\"https://news.y...",
-      "published": "2026-09-15T03:42:55+00:00",
-      "domain": "lorentz.leidenuniv.nl",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Crof.ai Was Caught Misrepresenting Models, Shut Down",
-      "link": "https://reddit.com/r/SillyTavernAI/comments/1wgkagq/crofai_model_provider_just_shut_down_fraudulently/",
-      "summary": "<p>Article URL: <a href=\"https://reddit.com/r/SillyTavernAI/comments/1wgkagq/crofai_model_provider_just_shut_down_fraudulently/\">https://reddit.com/r/SillyTavernAI/comments/1wgkagq/crofai_model_provid...",
-      "published": "2026-09-15T03:42:18+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 12.7,
-        "anarchy": 3.0,
-        "overall": 7.8
-      },
-      "keywords": {
-        "chaos": [
-          "down"
-        ],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Crumb Advanced Circuit Simulator",
-      "link": "https://store.steampowered.com/news/app/2198800/view/680761125088789335",
-      "summary": "<p>Article URL: <a href=\"https://store.steampowered.com/news/app/2198800/view/680761125088789335\">https://store.steampowered.com/news/app/2198800/view/680761125088789335</a></p>\n<p>Comments URL: <a hr...",
-      "published": "2026-09-15T03:42:14+00:00",
-      "domain": "store.steampowered.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Why the best AI startups write bad prompts (& how to fix this)",
-      "link": "https://twitter.com/wulfie_bain_/status/2098060386813566990",
-      "summary": "<p>Article URL: <a href=\"https://twitter.com/wulfie_bain_/status/2098060386813566990\">https://twitter.com/wulfie_bain_/status/2098060386813566990</a></p>\n<p>Comments URL: <a href=\"https://news.ycombin...",
-      "published": "2026-09-15T03:41:52+00:00",
-      "domain": "twitter.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "New DDRop Attack Breaks Intel TDX and AMD SEV-SNP Confidential Computing",
-      "link": "https://thehackernews.com/2026/09/new-ddrop-attack-breaks-intel-tdx-and.html",
-      "summary": "Researchers have disclosed a new hardware attack, called DDRop, that breaks the memory protection in Intel and AMD confidential computing by silently dropping writes to a server's memory, so the proce...",
-      "published": "2026-09-14T23:32:13+05:30",
+      "title": "LiteSpeed Enterprise Flaw Could Let One Hosting Account Gain Root Access on a Shared Server",
+      "link": "https://thehackernews.com/2026/09/litespeed-enterprise-flaw-could-let-one.html",
+      "summary": "A critical vulnerability in LiteSpeed Web Server Enterprise could let a low-privilege website user gain root access on a shared-hosting server, cPanel warned in an&nbsp;advisory published on September...",
+      "published": "2026-09-15T12:22:16+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -591,10 +509,10 @@
       }
     },
     {
-      "title": "3BB Attacker Used MeshCentral Backdoor for Root Access, Targeted Subscriber Credentials",
-      "link": "https://thehackernews.com/2026/09/3bb-attacker-used-meshcentral-backdoor.html",
-      "summary": "An attacker was operating inside the network of 3BB, one of Thailand's largest broadband providers, and maintained remote control of internal machines using a legitimate management tool called MeshCen...",
-      "published": "2026-09-14T23:31:49+05:30",
+      "title": "Cisco Secure Email Gateway Flaw Exploited in the Wild, Enables Root Command Execution",
+      "link": "https://thehackernews.com/2026/09/cisco-secure-email-gateway-flaw.html",
+      "summary": "Cisco has warned that a new critical vulnerability impacting AsyncOS Software for Cisco Secure Email Gateway has come under active exploitation in the wild.\n\nThe vulnerability, tracked as CVE-2026-764...",
+      "published": "2026-09-15T11:41:11+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -607,11 +525,11 @@
       }
     },
     {
-      "title": "Telegram Desktop Flaw Lets Hidden JavaScript Exfiltrate Messages From HTML Exports",
-      "link": "https://thehackernews.com/2026/09/telegram-desktop-flaw-lets-hidden.html",
-      "summary": "A flaw in Telegram Desktop let a bot's message plant hidden JavaScript inside chats that users exported to HTML files, security researchers at ExPatch said in a&nbsp;writeup&nbsp;published on Septembe...",
-      "published": "2026-09-14T23:28:16+05:30",
-      "domain": "thehackernews.com",
+      "title": "IndieRoadmaps \u2013 a simple roadmap builder for indie hacker",
+      "link": "https://indieroadmaps.com",
+      "summary": "<p>Article URL: <a href=\"https://indieroadmaps.com\">https://indieroadmaps.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49710751\">https://news.ycombinator.com/item?id=4971...",
+      "published": "2026-09-15T11:15:39+00:00",
+      "domain": "indieroadmaps.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -623,10 +541,58 @@
       }
     },
     {
-      "title": "Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS",
-      "link": "https://github.com/JamesRyanATX/fcbnerd",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49705442\">Comments</a>...",
-      "published": "2026-09-14T23:01:36+00:00",
+      "title": "FloorPoll \u2013 live polls your audience joins in one tap",
+      "link": "https://floorpoll.app/",
+      "summary": "<p>Article URL: <a href=\"https://floorpoll.app/\">https://floorpoll.app/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49710742\">https://news.ycombinator.com/item?id=49710742</...",
+      "published": "2026-09-15T11:15:02+00:00",
+      "domain": "floorpoll.app",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "DotNet Security Cheat Sheet",
+      "link": "https://cheatsheetseries.owasp.org/cheatsheets/DotNet_Security_Cheat_Sheet.html",
+      "summary": "<p>Article URL: <a href=\"https://cheatsheetseries.owasp.org/cheatsheets/DotNet_Security_Cheat_Sheet.html\">https://cheatsheetseries.owasp.org/cheatsheets/DotNet_Security_Cheat_Sheet.html</a></p>\n<p>Com...",
+      "published": "2026-09-15T11:13:53+00:00",
+      "domain": "cheatsheetseries.owasp.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "I Go To The Cloud: A tour in Hetzner's data center [video]",
+      "link": "https://www.youtube.com/watch?v=i5GTwBTCQJI",
+      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=i5GTwBTCQJI\">https://www.youtube.com/watch?v=i5GTwBTCQJI</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49710710\">https...",
+      "published": "2026-09-15T11:12:20+00:00",
+      "domain": "youtube.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "# mdsvex \u2013 Svelte in Markdown",
+      "link": "https://github.com/pngwn/mdsvex",
+      "summary": "<p>Article URL: <a href=\"https://github.com/pngwn/mdsvex\">https://github.com/pngwn/mdsvex</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49710677\">https://news.ycombinator.com/...",
+      "published": "2026-09-15T11:09:13+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -639,11 +605,45 @@
       }
     },
     {
-      "title": "Red Heron Exploits Gitea RCE to Compromise 13 Organizations Across Six Countries",
-      "link": "https://thehackernews.com/2026/09/red-heron-exploits-gitea-rce-to.html",
-      "summary": "A suspected Chinese threat actor tracked as Red Heron has been attributed to the rapid exploitation of a recently disclosed security vulnerability in Gitea to compromise internet-facing instances as p...",
-      "published": "2026-09-14T22:26:30+05:30",
+      "title": "China-Linked Hackers Exploit Chrome-Windows Zero-Day Chain to Deploy GRIMWEDGE",
+      "link": "https://thehackernews.com/2026/09/china-linked-hackers-exploit-chrome.html",
+      "summary": "A Chinese threat actor has been attributed to a spear-phishing campaign that exploits recently patched security flaws in Google Chrome and Microsoft Windows to deliver a malicious JavaScript backdoor ...",
+      "published": "2026-09-15T11:01:05+05:30",
       "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Suspected sabotage causes major Netherlands rail disruption",
+      "link": "https://www.bbc.com/news/articles/c8ly49w9g1edo",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49710253\">Comments</a>...",
+      "published": "2026-09-15T10:22:46+00:00",
+      "domain": "bbc.com",
+      "scores": {
+        "chaos": 26.3,
+        "anarchy": 3.0,
+        "overall": 14.7
+      },
+      "keywords": {
+        "chaos": [
+          "disruption"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "How much of F-Droid is LLM generated?",
+      "link": "https://tintotint.eu/whacky-corner/f-droid_slop/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49710015\">Comments</a>...",
+      "published": "2026-09-15T09:47:48+00:00",
+      "domain": "tintotint.eu",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,

@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Crof.ai Was Caught Misrepresenting Models, Shut Down
+### Suspected sabotage causes major Netherlands rail disruption
 - **Published**: September 15, 2026
-- **Summary**: https://reddit.com/r/SillyTavernAI/comments/1wgkagq/crofai_model_provid......
-- **Keywords**: down
-- [Read more](https://reddit.com/r/SillyTavernAI/comments/1wgkagq/crofai_model_provider_just_shut_down_fraudulently/)
+- **Summary**: ......
+- **Keywords**: disruption
+- [Read more](https://www.bbc.com/news/articles/c8ly49w9g1edo)
 
-### Researchers find Apple Pay, Visa contactless hack
+### LiteSpeed Enterprise Flaw Could Let One Hosting Account Gain Root Access on a Shared Server
 - **Published**: September 15, 2026
-- **Summary**: https://www.bbc.com/news/technology-58719891</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49707461">htt......
-- [Read more](https://www.bbc.com/news/technology-58719891)
+- **Summary**: A critical vulnerability in LiteSpeed Web Server Enterprise could let a low-privilege website user gain root access on a shared-hosting server, cPanel...
+- [Read more](https://thehackernews.com/2026/09/litespeed-enterprise-flaw-could-let-one.html)
 
 ---
 
