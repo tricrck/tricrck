@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Suspected sabotage causes major Netherlands rail disruption
+### BambooToken Malware Uses MQTT to Control Windows and Linux Systems
 - **Published**: September 15, 2026
-- **Summary**: ......
-- **Keywords**: disruption
-- [Read more](https://www.bbc.com/news/articles/c8ly49w9g1edo)
+- **Summary**: Cybersecurity researchers have disclosed details of a multi-platform campaign that uses the Message Queueing Telemetry Transport (MQTT) protocol as a ...
+- [Read more](https://thehackernews.com/2026/09/bambootoken-malware-uses-mqtt-to.html)
 
-### LiteSpeed Enterprise Flaw Could Let One Hosting Account Gain Root Access on a Shared Server
+### Human Attacker Exploits Marimo RCE, Reaches SSH Bastion in Eight Seconds
 - **Published**: September 15, 2026
-- **Summary**: A critical vulnerability in LiteSpeed Web Server Enterprise could let a low-privilege website user gain root access on a shared-hosting server, cPanel...
-- [Read more](https://thehackernews.com/2026/09/litespeed-enterprise-flaw-could-let-one.html)
+- **Summary**: With artificial intelligence (AI) shrinking the window between vulnerability discovery and exploitation and lowering the barrier to entry for bad acto...
+- [Read more](https://thehackernews.com/2026/09/human-attacker-exploits-marimo-rce.html)
 
 ---
 
