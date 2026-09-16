@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Attacker Hijacks AI Coding Assistant Session, Spreads Shai-Hulud Across About 100 Repositories
+### Attackers Exploit Issabel Framework Flaw Enabling Unauthenticated OS Command Execution
 - **Published**: September 16, 2026
-- **Summary**: Mandiant says an attacker hijacked an active AI coding-assistant session at an unnamed software-as-a-service provider and later spread&nbsp;Shai-Hulud...
-- [Read more](https://thehackernews.com/2026/09/attacker-hijacks-ai-coding-assistant.html)
+- **Summary**: A critical security flaw in Issabel Framework, a web-based framework for the open-source unified communications PBX software, has come under active ex...
+- [Read more](https://thehackernews.com/2026/09/attackers-exploit-issabel-framework.html)
 
-### Parallels Desktop Flaw Lets Non-Admin Mac Users Gain Root, but Intel Macs Can't Install Fix
+### Three Threat Groups Target Russian Enterprises With Backdoors, Ransomware, and Wipers
 - **Published**: September 16, 2026
-- **Summary**: Parallels Desktop for Mac has a flaw that lets an ordinary local account run code as root, the highest level of access on a Mac, software company JFro...
-- [Read more](https://thehackernews.com/2026/09/parallels-desktop-flaw-lets-non-admin.html)
+- **Summary**: Enterprises in Russia have emerged as the target of three threat activity clusters tracked as NightEagle, Hacking Cat, and Toy Ghouls, according to mu...
+- [Read more](https://thehackernews.com/2026/09/three-threat-groups-target-russian.html)
 
 ---
 
