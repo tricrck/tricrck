@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Attackers Exploit WooCommerce Wholesale Lead Capture Flaw to Plant PHP Web Shells
+### Attacker Hijacks AI Coding Assistant Session, Spreads Shai-Hulud Across About 100 Repositories
 - **Published**: September 16, 2026
-- **Summary**: Threat actors are exploiting a critical security flaw in WooCommerce Wholesale Lead Capture, a premium WordPress plugin that has more than 6,000 activ...
-- [Read more](https://thehackernews.com/2026/09/attackers-exploit-woocommerce-wholesale.html)
+- **Summary**: Mandiant says an attacker hijacked an active AI coding-assistant session at an unnamed software-as-a-service provider and later spread&nbsp;Shai-Hulud...
+- [Read more](https://thehackernews.com/2026/09/attacker-hijacks-ai-coding-assistant.html)
 
-### When Software Becomes Cheap, Trust Becomes Expensive
+### Parallels Desktop Flaw Lets Non-Admin Mac Users Gain Root, but Intel Macs Can't Install Fix
 - **Published**: September 16, 2026
-- **Summary**: https://medium.com/@hbbio/when-software-becomes-cheap-trust-becomes-expensive-621cf......
-- [Read more](https://medium.com/@hbbio/when-software-becomes-cheap-trust-becomes-expensive-621cf347880f)
+- **Summary**: Parallels Desktop for Mac has a flaw that lets an ordinary local account run code as root, the highest level of access on a Mac, software company JFro...
+- [Read more](https://thehackernews.com/2026/09/parallels-desktop-flaw-lets-non-admin.html)
 
 ---
 
