@@ -16,17 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Origin stories: idioms using 'walk'
+### Attackers Exploit WooCommerce Wholesale Lead Capture Flaw to Plant PHP Web Shells
 - **Published**: September 16, 2026
-- **Summary**: https://www.suzannearnold.com/blog/origin-stories-idioms-using-walk</a></p>
-<p>Comments URL: <a href="http......
-- [Read more](https://www.suzannearnold.com/blog/origin-stories-idioms-using-walk)
+- **Summary**: Threat actors are exploiting a critical security flaw in WooCommerce Wholesale Lead Capture, a premium WordPress plugin that has more than 6,000 activ...
+- [Read more](https://thehackernews.com/2026/09/attackers-exploit-woocommerce-wholesale.html)
 
-### Intelligent Interaction Techniques
+### When Software Becomes Cheap, Trust Becomes Expensive
 - **Published**: September 16, 2026
-- **Summary**: https://arxiv.org/abs/2609.16295</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49721823">https://news.ycombinator.co......
-- [Read more](https://arxiv.org/abs/2609.16295)
+- **Summary**: https://medium.com/@hbbio/when-software-becomes-cheap-trust-becomes-expensive-621cf......
+- [Read more](https://medium.com/@hbbio/when-software-becomes-cheap-trust-becomes-expensive-621cf347880f)
 
 ---
 
