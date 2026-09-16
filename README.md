@@ -16,17 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### KREMLIN Banking Malware Hijacks Chrome and Edge to Steal Credentials and Session Tokens
+### Origin stories: idioms using 'walk'
 - **Published**: September 16, 2026
-- **Summary**: Cybersecurity researchers have shed light on a previously undocumented Brazilian banking malware operation that delivers a toolkit called KREMLIN.
+- **Summary**: https://www.suzannearnold.com/blog/origin-stories-idioms-using-walk</a></p>
+<p>Comments URL: <a href="http......
+- [Read more](https://www.suzannearnold.com/blog/origin-stories-idioms-using-walk)
 
-El...
-- [Read more](https://thehackernews.com/2026/09/kremlin-banking-malware-hijacks-chrome.html)
-
-### Iranian Hackers Use Telegram-Controlled Malware to Spy on Dissidents and Journalists
-- **Published**: September 15, 2026
-- **Summary**: Cybersecurity agencies in the United States, the United Kingdom, and the Netherlands have detailed a Windows malware that they say Iran's intelligence...
-- [Read more](https://thehackernews.com/2026/09/iranian-hackers-use-telegram-controlled.html)
+### Intelligent Interaction Techniques
+- **Published**: September 16, 2026
+- **Summary**: https://arxiv.org/abs/2609.16295</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49721823">https://news.ycombinator.co......
+- [Read more](https://arxiv.org/abs/2609.16295)
 
 ---
 
