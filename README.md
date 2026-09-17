@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### What's Next After RLHF? – Diogo Almeida, TypeSafe AI [video]
+### Better Vector Search for Long Documents: Chunking Inside Manticore Search
 - **Published**: September 17, 2026
-- **Summary**: https://www.youtube.com/watch?v=cJ0EOzey--o</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49736134">https......
-- [Read more](https://www.youtube.com/watch?v=cJ0EOzey--o)
+- **Summary**: ......
+- [Read more](https://manticoresearch.com/blog/auto-chunking/)
 
-### China Adds Currencies to Central Clearing in Yuan's Global Push
+### GLM Built Its Own Inference Infrastructure
 - **Published**: September 17, 2026
-- **Summary**: https://www.bloomberg.com/news/articles/2026-09-17/china-ad......
-- [Read more](https://www.bloomberg.com/news/articles/2026-09-17/china-adds-currencies-to-central-clearing-in-yuan-s-global-push)
+- **Summary**: ......
+- [Read more](https://z.ai/blog/glm-built-its-inference-infrastructure)
 
 ---
 
