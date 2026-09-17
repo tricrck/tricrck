@@ -16,15 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Better Vector Search for Long Documents: Chunking Inside Manticore Search
+### Critical Unbound DNSSEC Validator Flaw Could Allow RCE via a Malicious DNS Zone
 - **Published**: September 17, 2026
-- **Summary**: ......
-- [Read more](https://manticoresearch.com/blog/auto-chunking/)
+- **Summary**: Every release of the Unbound DNS resolver before 1.26.1 has a critical heap overflow in its DNSSEC validator, maintainer NLnet Labs said in an&nbsp;ad...
+- [Read more](https://thehackernews.com/2026/09/critical-unbound-dnssec-validator-flaw.html)
 
-### GLM Built Its Own Inference Infrastructure
+### Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar
 - **Published**: September 17, 2026
-- **Summary**: ......
-- [Read more](https://z.ai/blog/glm-built-its-inference-infrastructure)
+- **Summary**: A new CVE drops. Your scanner finds it. The severity score looks ugly.
+
+But that still does not answer the question that matters: Can it actually be e...
+- [Read more](https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html)
 
 ---
 

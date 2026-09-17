@@ -1,122 +1,10 @@
 {
   "chaos_ranked": [
     {
-      "title": "Better Vector Search for Long Documents: Chunking Inside Manticore Search",
-      "link": "https://manticoresearch.com/blog/auto-chunking/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49738766\">Comments</a>...",
-      "published": "2026-09-17T10:30:52+00:00",
-      "domain": "manticoresearch.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "GLM Built Its Own Inference Infrastructure",
-      "link": "https://z.ai/blog/glm-built-its-inference-infrastructure",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49737922\">Comments</a>...",
-      "published": "2026-09-17T08:27:09+00:00",
-      "domain": "z.ai",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "One Year of Sponsored Servo Development",
-      "link": "https://servo.org/blog/2026/09/15/one-year-of-sponsorship/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49737849\">Comments</a>...",
-      "published": "2026-09-17T08:13:54+00:00",
-      "domain": "servo.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Keys Not Included: recovering the signing keys for US driver's license barcodes",
-      "link": "https://ryan.science/blog/keys-not-included",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49735930\">Comments</a>...",
-      "published": "2026-09-17T03:03:23+00:00",
-      "domain": "ryan.science",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Hackers Got Inside a Flock Camera. Its Data Shows How the System Really Works",
-      "link": "https://www.reddit.com/r/technology/comments/1wigsrf/hackers_got_inside_a_flock_camera_its_data_shows/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1wigsrf/hackers_got_inside_a_flock_camera_its_data_shows/\"> <img alt=\"Hackers Got Inside a Flock Camera. Its Data Shows How the S...",
-      "published": "2026-09-17T02:00:16+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Microsoft reportedly showed off an instant-loading File Explorer to Insiders",
-      "link": "https://www.reddit.com/r/technology/comments/1wifb1z/microsoft_reportedly_showed_off_an_instantloading/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1wifb1z/microsoft_reportedly_showed_off_an_instantloading/\"> <img alt=\"Microsoft reportedly showed off an instant-loading File Ex...",
-      "published": "2026-09-17T00:54:22+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Iran strikes on Amazon data centers caused permanent loss of customer data",
-      "link": "https://www.reddit.com/r/technology/comments/1wicbvw/iran_strikes_on_amazon_data_centers_caused/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1wicbvw/iran_strikes_on_amazon_data_centers_caused/\"> <img alt=\"Iran strikes on Amazon data centers caused permanent loss of cust...",
-      "published": "2026-09-16T22:45:26+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Attackers Exploit Issabel Framework Flaw Enabling Unauthenticated OS Command Execution",
-      "link": "https://thehackernews.com/2026/09/attackers-exploit-issabel-framework.html",
-      "summary": "A critical security flaw in Issabel Framework, a web-based framework for the open-source unified communications PBX software, has come under active exploitation.\n\nThe vulnerability in question is CVE-...",
-      "published": "2026-09-16T21:20:59+05:30",
+      "title": "Critical Unbound DNSSEC Validator Flaw Could Allow RCE via a Malicious DNS Zone",
+      "link": "https://thehackernews.com/2026/09/critical-unbound-dnssec-validator-flaw.html",
+      "summary": "Every release of the Unbound DNS resolver before 1.26.1 has a critical heap overflow in its DNSSEC validator, maintainer NLnet Labs said in an&nbsp;advisory&nbsp;on Wednesday.\n\nAn attacker who control...",
+      "published": "2026-09-17T18:00:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -129,10 +17,10 @@
       }
     },
     {
-      "title": "Three Threat Groups Target Russian Enterprises With Backdoors, Ransomware, and Wipers",
-      "link": "https://thehackernews.com/2026/09/three-threat-groups-target-russian.html",
-      "summary": "Enterprises in Russia have emerged as the target of three threat activity clusters tracked as NightEagle, Hacking Cat, and Toy Ghouls, according to multiple reports from Kaspersky.\n\nThe cybersecurity ...",
-      "published": "2026-09-16T20:57:49+05:30",
+      "title": "Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar",
+      "link": "https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html",
+      "summary": "A new CVE drops. Your scanner finds it. The severity score looks ugly.\n\nBut that still does not answer the question that matters: Can it actually be exploited in your environment?\n\nMythos-class AI is ...",
+      "published": "2026-09-17T17:20:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -145,10 +33,122 @@
       }
     },
     {
-      "title": "One Extension Could Hijack AI Assistants Across Chrome, Comet, Edge, Opera Neon and Claude",
-      "link": "https://thehackernews.com/2026/09/one-extension-could-hijack-ai.html",
-      "summary": "Security researchers at&nbsp;Forever Security&nbsp;have shown that one ordinary browser extension could take control of the AI assistants built into five Chromium-based products: Gemini Live in Chrome...",
-      "published": "2026-09-16T20:06:44+05:30",
+      "title": "CISO's Expert Guide to Agentic Pentesting for Websites",
+      "link": "https://thehackernews.com/2026/09/cisos-expert-guide-to-agentic.html",
+      "summary": "Attackers now weaponize new vulnerabilities in about five days (Mandiant, part of Google Cloud). The median organization takes 43 days to patch one (Verizon DBIR 2026). A new free guide explains how a...",
+      "published": "2026-09-17T16:20:53+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "From Specialist Agents to Distributed Skills over MCP",
+      "link": "https://devblogs.microsoft.com/agent-framework/from-specialist-agents-to-distributed-skills-over-mcp/",
+      "summary": "<p>Article URL: <a href=\"https://devblogs.microsoft.com/agent-framework/from-specialist-agents-to-distributed-skills-over-mcp/\">https://devblogs.microsoft.com/agent-framework/from-specialist-agents-to...",
+      "published": "2026-09-17T16:18:06+00:00",
+      "domain": "devblogs.microsoft.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "EU president: AI agents escaping their environment preview what's coming",
+      "link": "https://the-decoder.com/eu-president-warns-ai-agents-escaping-their-environment-are-just-a-preview-of-whats-coming/",
+      "summary": "<p>Article URL: <a href=\"https://the-decoder.com/eu-president-warns-ai-agents-escaping-their-environment-are-just-a-preview-of-whats-coming/\">https://the-decoder.com/eu-president-warns-ai-agents-escap...",
+      "published": "2026-09-17T16:17:51+00:00",
+      "domain": "the-decoder.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Ask HN: How to recover Google auth after phone stolen?",
+      "link": "https://news.ycombinator.com/item?id=49742976",
+      "summary": "<p>As we know, google has been effective at automating a lot of their systems, to the point where it can feel like there isn't any help available from a human. So what is supposed to be the plan when ...",
+      "published": "2026-09-17T16:17:28+00:00",
+      "domain": "news.ycombinator.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "A Taxonomy of Toddler Jokes",
+      "link": "https://lastwordonnothing.com/2026/09/16/a-taxonomy-of-toddler-jokes/",
+      "summary": "<p>Article URL: <a href=\"https://lastwordonnothing.com/2026/09/16/a-taxonomy-of-toddler-jokes/\">https://lastwordonnothing.com/2026/09/16/a-taxonomy-of-toddler-jokes/</a></p>\n<p>Comments URL: <a href=\"...",
+      "published": "2026-09-17T16:15:15+00:00",
+      "domain": "lastwordonnothing.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Jev's Architecture Unmasked",
+      "link": "https://archerhume.com/posts/jevs-architecture-unmasked/",
+      "summary": "<p>Article URL: <a href=\"https://archerhume.com/posts/jevs-architecture-unmasked/\">https://archerhume.com/posts/jevs-architecture-unmasked/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.c...",
+      "published": "2026-09-17T16:14:20+00:00",
+      "domain": "archerhume.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "LLM Classification Is Feature Engineering",
+      "link": "https://minimallysufficient.com/posts/llm-classification-is-feature-extraction/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49742437\">Comments</a>...",
+      "published": "2026-09-17T15:40:17+00:00",
+      "domain": "minimallysufficient.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "China-Aligned FamousSparrow Deploys SparroWocky Backdoor Across Latin America",
+      "link": "https://thehackernews.com/2026/09/china-aligned-famoussparrow-deploys.html",
+      "summary": "The China-aligned state-sponsored threat actor known as FamousSparrow has been observed deploying a previously unreported backdoor called SparroWocky in attacks targeting multiple countries in Latin A...",
+      "published": "2026-09-17T15:35:45+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -163,122 +163,10 @@
   ],
   "anarchy_ranked": [
     {
-      "title": "Better Vector Search for Long Documents: Chunking Inside Manticore Search",
-      "link": "https://manticoresearch.com/blog/auto-chunking/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49738766\">Comments</a>...",
-      "published": "2026-09-17T10:30:52+00:00",
-      "domain": "manticoresearch.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "GLM Built Its Own Inference Infrastructure",
-      "link": "https://z.ai/blog/glm-built-its-inference-infrastructure",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49737922\">Comments</a>...",
-      "published": "2026-09-17T08:27:09+00:00",
-      "domain": "z.ai",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "One Year of Sponsored Servo Development",
-      "link": "https://servo.org/blog/2026/09/15/one-year-of-sponsorship/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49737849\">Comments</a>...",
-      "published": "2026-09-17T08:13:54+00:00",
-      "domain": "servo.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Keys Not Included: recovering the signing keys for US driver's license barcodes",
-      "link": "https://ryan.science/blog/keys-not-included",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49735930\">Comments</a>...",
-      "published": "2026-09-17T03:03:23+00:00",
-      "domain": "ryan.science",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Hackers Got Inside a Flock Camera. Its Data Shows How the System Really Works",
-      "link": "https://www.reddit.com/r/technology/comments/1wigsrf/hackers_got_inside_a_flock_camera_its_data_shows/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1wigsrf/hackers_got_inside_a_flock_camera_its_data_shows/\"> <img alt=\"Hackers Got Inside a Flock Camera. Its Data Shows How the S...",
-      "published": "2026-09-17T02:00:16+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Microsoft reportedly showed off an instant-loading File Explorer to Insiders",
-      "link": "https://www.reddit.com/r/technology/comments/1wifb1z/microsoft_reportedly_showed_off_an_instantloading/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1wifb1z/microsoft_reportedly_showed_off_an_instantloading/\"> <img alt=\"Microsoft reportedly showed off an instant-loading File Ex...",
-      "published": "2026-09-17T00:54:22+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Iran strikes on Amazon data centers caused permanent loss of customer data",
-      "link": "https://www.reddit.com/r/technology/comments/1wicbvw/iran_strikes_on_amazon_data_centers_caused/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1wicbvw/iran_strikes_on_amazon_data_centers_caused/\"> <img alt=\"Iran strikes on Amazon data centers caused permanent loss of cust...",
-      "published": "2026-09-16T22:45:26+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Attackers Exploit Issabel Framework Flaw Enabling Unauthenticated OS Command Execution",
-      "link": "https://thehackernews.com/2026/09/attackers-exploit-issabel-framework.html",
-      "summary": "A critical security flaw in Issabel Framework, a web-based framework for the open-source unified communications PBX software, has come under active exploitation.\n\nThe vulnerability in question is CVE-...",
-      "published": "2026-09-16T21:20:59+05:30",
+      "title": "Critical Unbound DNSSEC Validator Flaw Could Allow RCE via a Malicious DNS Zone",
+      "link": "https://thehackernews.com/2026/09/critical-unbound-dnssec-validator-flaw.html",
+      "summary": "Every release of the Unbound DNS resolver before 1.26.1 has a critical heap overflow in its DNSSEC validator, maintainer NLnet Labs said in an&nbsp;advisory&nbsp;on Wednesday.\n\nAn attacker who control...",
+      "published": "2026-09-17T18:00:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -291,10 +179,10 @@
       }
     },
     {
-      "title": "Three Threat Groups Target Russian Enterprises With Backdoors, Ransomware, and Wipers",
-      "link": "https://thehackernews.com/2026/09/three-threat-groups-target-russian.html",
-      "summary": "Enterprises in Russia have emerged as the target of three threat activity clusters tracked as NightEagle, Hacking Cat, and Toy Ghouls, according to multiple reports from Kaspersky.\n\nThe cybersecurity ...",
-      "published": "2026-09-16T20:57:49+05:30",
+      "title": "Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar",
+      "link": "https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html",
+      "summary": "A new CVE drops. Your scanner finds it. The severity score looks ugly.\n\nBut that still does not answer the question that matters: Can it actually be exploited in your environment?\n\nMythos-class AI is ...",
+      "published": "2026-09-17T17:20:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -307,10 +195,122 @@
       }
     },
     {
-      "title": "One Extension Could Hijack AI Assistants Across Chrome, Comet, Edge, Opera Neon and Claude",
-      "link": "https://thehackernews.com/2026/09/one-extension-could-hijack-ai.html",
-      "summary": "Security researchers at&nbsp;Forever Security&nbsp;have shown that one ordinary browser extension could take control of the AI assistants built into five Chromium-based products: Gemini Live in Chrome...",
-      "published": "2026-09-16T20:06:44+05:30",
+      "title": "CISO's Expert Guide to Agentic Pentesting for Websites",
+      "link": "https://thehackernews.com/2026/09/cisos-expert-guide-to-agentic.html",
+      "summary": "Attackers now weaponize new vulnerabilities in about five days (Mandiant, part of Google Cloud). The median organization takes 43 days to patch one (Verizon DBIR 2026). A new free guide explains how a...",
+      "published": "2026-09-17T16:20:53+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "From Specialist Agents to Distributed Skills over MCP",
+      "link": "https://devblogs.microsoft.com/agent-framework/from-specialist-agents-to-distributed-skills-over-mcp/",
+      "summary": "<p>Article URL: <a href=\"https://devblogs.microsoft.com/agent-framework/from-specialist-agents-to-distributed-skills-over-mcp/\">https://devblogs.microsoft.com/agent-framework/from-specialist-agents-to...",
+      "published": "2026-09-17T16:18:06+00:00",
+      "domain": "devblogs.microsoft.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "EU president: AI agents escaping their environment preview what's coming",
+      "link": "https://the-decoder.com/eu-president-warns-ai-agents-escaping-their-environment-are-just-a-preview-of-whats-coming/",
+      "summary": "<p>Article URL: <a href=\"https://the-decoder.com/eu-president-warns-ai-agents-escaping-their-environment-are-just-a-preview-of-whats-coming/\">https://the-decoder.com/eu-president-warns-ai-agents-escap...",
+      "published": "2026-09-17T16:17:51+00:00",
+      "domain": "the-decoder.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Ask HN: How to recover Google auth after phone stolen?",
+      "link": "https://news.ycombinator.com/item?id=49742976",
+      "summary": "<p>As we know, google has been effective at automating a lot of their systems, to the point where it can feel like there isn't any help available from a human. So what is supposed to be the plan when ...",
+      "published": "2026-09-17T16:17:28+00:00",
+      "domain": "news.ycombinator.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "A Taxonomy of Toddler Jokes",
+      "link": "https://lastwordonnothing.com/2026/09/16/a-taxonomy-of-toddler-jokes/",
+      "summary": "<p>Article URL: <a href=\"https://lastwordonnothing.com/2026/09/16/a-taxonomy-of-toddler-jokes/\">https://lastwordonnothing.com/2026/09/16/a-taxonomy-of-toddler-jokes/</a></p>\n<p>Comments URL: <a href=\"...",
+      "published": "2026-09-17T16:15:15+00:00",
+      "domain": "lastwordonnothing.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Jev's Architecture Unmasked",
+      "link": "https://archerhume.com/posts/jevs-architecture-unmasked/",
+      "summary": "<p>Article URL: <a href=\"https://archerhume.com/posts/jevs-architecture-unmasked/\">https://archerhume.com/posts/jevs-architecture-unmasked/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.c...",
+      "published": "2026-09-17T16:14:20+00:00",
+      "domain": "archerhume.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "LLM Classification Is Feature Engineering",
+      "link": "https://minimallysufficient.com/posts/llm-classification-is-feature-extraction/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49742437\">Comments</a>...",
+      "published": "2026-09-17T15:40:17+00:00",
+      "domain": "minimallysufficient.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "China-Aligned FamousSparrow Deploys SparroWocky Backdoor Across Latin America",
+      "link": "https://thehackernews.com/2026/09/china-aligned-famoussparrow-deploys.html",
+      "summary": "The China-aligned state-sponsored threat actor known as FamousSparrow has been observed deploying a previously unreported backdoor called SparroWocky in attacks targeting multiple countries in Latin A...",
+      "published": "2026-09-17T15:35:45+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -325,122 +325,10 @@
   ],
   "overall_ranked": [
     {
-      "title": "Better Vector Search for Long Documents: Chunking Inside Manticore Search",
-      "link": "https://manticoresearch.com/blog/auto-chunking/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49738766\">Comments</a>...",
-      "published": "2026-09-17T10:30:52+00:00",
-      "domain": "manticoresearch.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "GLM Built Its Own Inference Infrastructure",
-      "link": "https://z.ai/blog/glm-built-its-inference-infrastructure",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49737922\">Comments</a>...",
-      "published": "2026-09-17T08:27:09+00:00",
-      "domain": "z.ai",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "One Year of Sponsored Servo Development",
-      "link": "https://servo.org/blog/2026/09/15/one-year-of-sponsorship/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49737849\">Comments</a>...",
-      "published": "2026-09-17T08:13:54+00:00",
-      "domain": "servo.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Keys Not Included: recovering the signing keys for US driver's license barcodes",
-      "link": "https://ryan.science/blog/keys-not-included",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49735930\">Comments</a>...",
-      "published": "2026-09-17T03:03:23+00:00",
-      "domain": "ryan.science",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Hackers Got Inside a Flock Camera. Its Data Shows How the System Really Works",
-      "link": "https://www.reddit.com/r/technology/comments/1wigsrf/hackers_got_inside_a_flock_camera_its_data_shows/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1wigsrf/hackers_got_inside_a_flock_camera_its_data_shows/\"> <img alt=\"Hackers Got Inside a Flock Camera. Its Data Shows How the S...",
-      "published": "2026-09-17T02:00:16+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Microsoft reportedly showed off an instant-loading File Explorer to Insiders",
-      "link": "https://www.reddit.com/r/technology/comments/1wifb1z/microsoft_reportedly_showed_off_an_instantloading/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1wifb1z/microsoft_reportedly_showed_off_an_instantloading/\"> <img alt=\"Microsoft reportedly showed off an instant-loading File Ex...",
-      "published": "2026-09-17T00:54:22+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Iran strikes on Amazon data centers caused permanent loss of customer data",
-      "link": "https://www.reddit.com/r/technology/comments/1wicbvw/iran_strikes_on_amazon_data_centers_caused/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1wicbvw/iran_strikes_on_amazon_data_centers_caused/\"> <img alt=\"Iran strikes on Amazon data centers caused permanent loss of cust...",
-      "published": "2026-09-16T22:45:26+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Attackers Exploit Issabel Framework Flaw Enabling Unauthenticated OS Command Execution",
-      "link": "https://thehackernews.com/2026/09/attackers-exploit-issabel-framework.html",
-      "summary": "A critical security flaw in Issabel Framework, a web-based framework for the open-source unified communications PBX software, has come under active exploitation.\n\nThe vulnerability in question is CVE-...",
-      "published": "2026-09-16T21:20:59+05:30",
+      "title": "Critical Unbound DNSSEC Validator Flaw Could Allow RCE via a Malicious DNS Zone",
+      "link": "https://thehackernews.com/2026/09/critical-unbound-dnssec-validator-flaw.html",
+      "summary": "Every release of the Unbound DNS resolver before 1.26.1 has a critical heap overflow in its DNSSEC validator, maintainer NLnet Labs said in an&nbsp;advisory&nbsp;on Wednesday.\n\nAn attacker who control...",
+      "published": "2026-09-17T18:00:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -453,10 +341,10 @@
       }
     },
     {
-      "title": "Three Threat Groups Target Russian Enterprises With Backdoors, Ransomware, and Wipers",
-      "link": "https://thehackernews.com/2026/09/three-threat-groups-target-russian.html",
-      "summary": "Enterprises in Russia have emerged as the target of three threat activity clusters tracked as NightEagle, Hacking Cat, and Toy Ghouls, according to multiple reports from Kaspersky.\n\nThe cybersecurity ...",
-      "published": "2026-09-16T20:57:49+05:30",
+      "title": "Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar",
+      "link": "https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html",
+      "summary": "A new CVE drops. Your scanner finds it. The severity score looks ugly.\n\nBut that still does not answer the question that matters: Can it actually be exploited in your environment?\n\nMythos-class AI is ...",
+      "published": "2026-09-17T17:20:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -469,10 +357,122 @@
       }
     },
     {
-      "title": "One Extension Could Hijack AI Assistants Across Chrome, Comet, Edge, Opera Neon and Claude",
-      "link": "https://thehackernews.com/2026/09/one-extension-could-hijack-ai.html",
-      "summary": "Security researchers at&nbsp;Forever Security&nbsp;have shown that one ordinary browser extension could take control of the AI assistants built into five Chromium-based products: Gemini Live in Chrome...",
-      "published": "2026-09-16T20:06:44+05:30",
+      "title": "CISO's Expert Guide to Agentic Pentesting for Websites",
+      "link": "https://thehackernews.com/2026/09/cisos-expert-guide-to-agentic.html",
+      "summary": "Attackers now weaponize new vulnerabilities in about five days (Mandiant, part of Google Cloud). The median organization takes 43 days to patch one (Verizon DBIR 2026). A new free guide explains how a...",
+      "published": "2026-09-17T16:20:53+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "From Specialist Agents to Distributed Skills over MCP",
+      "link": "https://devblogs.microsoft.com/agent-framework/from-specialist-agents-to-distributed-skills-over-mcp/",
+      "summary": "<p>Article URL: <a href=\"https://devblogs.microsoft.com/agent-framework/from-specialist-agents-to-distributed-skills-over-mcp/\">https://devblogs.microsoft.com/agent-framework/from-specialist-agents-to...",
+      "published": "2026-09-17T16:18:06+00:00",
+      "domain": "devblogs.microsoft.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "EU president: AI agents escaping their environment preview what's coming",
+      "link": "https://the-decoder.com/eu-president-warns-ai-agents-escaping-their-environment-are-just-a-preview-of-whats-coming/",
+      "summary": "<p>Article URL: <a href=\"https://the-decoder.com/eu-president-warns-ai-agents-escaping-their-environment-are-just-a-preview-of-whats-coming/\">https://the-decoder.com/eu-president-warns-ai-agents-escap...",
+      "published": "2026-09-17T16:17:51+00:00",
+      "domain": "the-decoder.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Ask HN: How to recover Google auth after phone stolen?",
+      "link": "https://news.ycombinator.com/item?id=49742976",
+      "summary": "<p>As we know, google has been effective at automating a lot of their systems, to the point where it can feel like there isn't any help available from a human. So what is supposed to be the plan when ...",
+      "published": "2026-09-17T16:17:28+00:00",
+      "domain": "news.ycombinator.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "A Taxonomy of Toddler Jokes",
+      "link": "https://lastwordonnothing.com/2026/09/16/a-taxonomy-of-toddler-jokes/",
+      "summary": "<p>Article URL: <a href=\"https://lastwordonnothing.com/2026/09/16/a-taxonomy-of-toddler-jokes/\">https://lastwordonnothing.com/2026/09/16/a-taxonomy-of-toddler-jokes/</a></p>\n<p>Comments URL: <a href=\"...",
+      "published": "2026-09-17T16:15:15+00:00",
+      "domain": "lastwordonnothing.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Jev's Architecture Unmasked",
+      "link": "https://archerhume.com/posts/jevs-architecture-unmasked/",
+      "summary": "<p>Article URL: <a href=\"https://archerhume.com/posts/jevs-architecture-unmasked/\">https://archerhume.com/posts/jevs-architecture-unmasked/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.c...",
+      "published": "2026-09-17T16:14:20+00:00",
+      "domain": "archerhume.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "LLM Classification Is Feature Engineering",
+      "link": "https://minimallysufficient.com/posts/llm-classification-is-feature-extraction/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49742437\">Comments</a>...",
+      "published": "2026-09-17T15:40:17+00:00",
+      "domain": "minimallysufficient.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "China-Aligned FamousSparrow Deploys SparroWocky Backdoor Across Latin America",
+      "link": "https://thehackernews.com/2026/09/china-aligned-famoussparrow-deploys.html",
+      "summary": "The China-aligned state-sponsored threat actor known as FamousSparrow has been observed deploying a previously unreported backdoor called SparroWocky in attacks targeting multiple countries in Latin A...",
+      "published": "2026-09-17T15:35:45+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -487,122 +487,10 @@
   ],
   "all_articles": [
     {
-      "title": "Better Vector Search for Long Documents: Chunking Inside Manticore Search",
-      "link": "https://manticoresearch.com/blog/auto-chunking/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49738766\">Comments</a>...",
-      "published": "2026-09-17T10:30:52+00:00",
-      "domain": "manticoresearch.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "GLM Built Its Own Inference Infrastructure",
-      "link": "https://z.ai/blog/glm-built-its-inference-infrastructure",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49737922\">Comments</a>...",
-      "published": "2026-09-17T08:27:09+00:00",
-      "domain": "z.ai",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "One Year of Sponsored Servo Development",
-      "link": "https://servo.org/blog/2026/09/15/one-year-of-sponsorship/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49737849\">Comments</a>...",
-      "published": "2026-09-17T08:13:54+00:00",
-      "domain": "servo.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Keys Not Included: recovering the signing keys for US driver's license barcodes",
-      "link": "https://ryan.science/blog/keys-not-included",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49735930\">Comments</a>...",
-      "published": "2026-09-17T03:03:23+00:00",
-      "domain": "ryan.science",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Hackers Got Inside a Flock Camera. Its Data Shows How the System Really Works",
-      "link": "https://www.reddit.com/r/technology/comments/1wigsrf/hackers_got_inside_a_flock_camera_its_data_shows/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1wigsrf/hackers_got_inside_a_flock_camera_its_data_shows/\"> <img alt=\"Hackers Got Inside a Flock Camera. Its Data Shows How the S...",
-      "published": "2026-09-17T02:00:16+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Microsoft reportedly showed off an instant-loading File Explorer to Insiders",
-      "link": "https://www.reddit.com/r/technology/comments/1wifb1z/microsoft_reportedly_showed_off_an_instantloading/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1wifb1z/microsoft_reportedly_showed_off_an_instantloading/\"> <img alt=\"Microsoft reportedly showed off an instant-loading File Ex...",
-      "published": "2026-09-17T00:54:22+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Iran strikes on Amazon data centers caused permanent loss of customer data",
-      "link": "https://www.reddit.com/r/technology/comments/1wicbvw/iran_strikes_on_amazon_data_centers_caused/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1wicbvw/iran_strikes_on_amazon_data_centers_caused/\"> <img alt=\"Iran strikes on Amazon data centers caused permanent loss of cust...",
-      "published": "2026-09-16T22:45:26+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Attackers Exploit Issabel Framework Flaw Enabling Unauthenticated OS Command Execution",
-      "link": "https://thehackernews.com/2026/09/attackers-exploit-issabel-framework.html",
-      "summary": "A critical security flaw in Issabel Framework, a web-based framework for the open-source unified communications PBX software, has come under active exploitation.\n\nThe vulnerability in question is CVE-...",
-      "published": "2026-09-16T21:20:59+05:30",
+      "title": "Critical Unbound DNSSEC Validator Flaw Could Allow RCE via a Malicious DNS Zone",
+      "link": "https://thehackernews.com/2026/09/critical-unbound-dnssec-validator-flaw.html",
+      "summary": "Every release of the Unbound DNS resolver before 1.26.1 has a critical heap overflow in its DNSSEC validator, maintainer NLnet Labs said in an&nbsp;advisory&nbsp;on Wednesday.\n\nAn attacker who control...",
+      "published": "2026-09-17T18:00:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -615,10 +503,10 @@
       }
     },
     {
-      "title": "Three Threat Groups Target Russian Enterprises With Backdoors, Ransomware, and Wipers",
-      "link": "https://thehackernews.com/2026/09/three-threat-groups-target-russian.html",
-      "summary": "Enterprises in Russia have emerged as the target of three threat activity clusters tracked as NightEagle, Hacking Cat, and Toy Ghouls, according to multiple reports from Kaspersky.\n\nThe cybersecurity ...",
-      "published": "2026-09-16T20:57:49+05:30",
+      "title": "Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar",
+      "link": "https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html",
+      "summary": "A new CVE drops. Your scanner finds it. The severity score looks ugly.\n\nBut that still does not answer the question that matters: Can it actually be exploited in your environment?\n\nMythos-class AI is ...",
+      "published": "2026-09-17T17:20:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -631,10 +519,122 @@
       }
     },
     {
-      "title": "One Extension Could Hijack AI Assistants Across Chrome, Comet, Edge, Opera Neon and Claude",
-      "link": "https://thehackernews.com/2026/09/one-extension-could-hijack-ai.html",
-      "summary": "Security researchers at&nbsp;Forever Security&nbsp;have shown that one ordinary browser extension could take control of the AI assistants built into five Chromium-based products: Gemini Live in Chrome...",
-      "published": "2026-09-16T20:06:44+05:30",
+      "title": "CISO's Expert Guide to Agentic Pentesting for Websites",
+      "link": "https://thehackernews.com/2026/09/cisos-expert-guide-to-agentic.html",
+      "summary": "Attackers now weaponize new vulnerabilities in about five days (Mandiant, part of Google Cloud). The median organization takes 43 days to patch one (Verizon DBIR 2026). A new free guide explains how a...",
+      "published": "2026-09-17T16:20:53+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "From Specialist Agents to Distributed Skills over MCP",
+      "link": "https://devblogs.microsoft.com/agent-framework/from-specialist-agents-to-distributed-skills-over-mcp/",
+      "summary": "<p>Article URL: <a href=\"https://devblogs.microsoft.com/agent-framework/from-specialist-agents-to-distributed-skills-over-mcp/\">https://devblogs.microsoft.com/agent-framework/from-specialist-agents-to...",
+      "published": "2026-09-17T16:18:06+00:00",
+      "domain": "devblogs.microsoft.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "EU president: AI agents escaping their environment preview what's coming",
+      "link": "https://the-decoder.com/eu-president-warns-ai-agents-escaping-their-environment-are-just-a-preview-of-whats-coming/",
+      "summary": "<p>Article URL: <a href=\"https://the-decoder.com/eu-president-warns-ai-agents-escaping-their-environment-are-just-a-preview-of-whats-coming/\">https://the-decoder.com/eu-president-warns-ai-agents-escap...",
+      "published": "2026-09-17T16:17:51+00:00",
+      "domain": "the-decoder.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Ask HN: How to recover Google auth after phone stolen?",
+      "link": "https://news.ycombinator.com/item?id=49742976",
+      "summary": "<p>As we know, google has been effective at automating a lot of their systems, to the point where it can feel like there isn't any help available from a human. So what is supposed to be the plan when ...",
+      "published": "2026-09-17T16:17:28+00:00",
+      "domain": "news.ycombinator.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "A Taxonomy of Toddler Jokes",
+      "link": "https://lastwordonnothing.com/2026/09/16/a-taxonomy-of-toddler-jokes/",
+      "summary": "<p>Article URL: <a href=\"https://lastwordonnothing.com/2026/09/16/a-taxonomy-of-toddler-jokes/\">https://lastwordonnothing.com/2026/09/16/a-taxonomy-of-toddler-jokes/</a></p>\n<p>Comments URL: <a href=\"...",
+      "published": "2026-09-17T16:15:15+00:00",
+      "domain": "lastwordonnothing.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Jev's Architecture Unmasked",
+      "link": "https://archerhume.com/posts/jevs-architecture-unmasked/",
+      "summary": "<p>Article URL: <a href=\"https://archerhume.com/posts/jevs-architecture-unmasked/\">https://archerhume.com/posts/jevs-architecture-unmasked/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.c...",
+      "published": "2026-09-17T16:14:20+00:00",
+      "domain": "archerhume.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "LLM Classification Is Feature Engineering",
+      "link": "https://minimallysufficient.com/posts/llm-classification-is-feature-extraction/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49742437\">Comments</a>...",
+      "published": "2026-09-17T15:40:17+00:00",
+      "domain": "minimallysufficient.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "China-Aligned FamousSparrow Deploys SparroWocky Backdoor Across Latin America",
+      "link": "https://thehackernews.com/2026/09/china-aligned-famoussparrow-deploys.html",
+      "summary": "The China-aligned state-sponsored threat actor known as FamousSparrow has been observed deploying a previously unreported backdoor called SparroWocky in attacks targeting multiple countries in Latin A...",
+      "published": "2026-09-17T15:35:45+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
