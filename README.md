@@ -16,17 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Critical Unbound DNSSEC Validator Flaw Could Allow RCE via a Malicious DNS Zone
+### Remains of 'lost' medieval castle found at UCD campus
 - **Published**: September 17, 2026
-- **Summary**: Every release of the Unbound DNS resolver before 1.26.1 has a critical heap overflow in its DNSSEC validator, maintainer NLnet Labs said in an&nbsp;ad...
-- [Read more](https://thehackernews.com/2026/09/critical-unbound-dnssec-validator-flaw.html)
+- **Summary**: https://www.rte.ie/news/regional/2026/0917/1591962-ucd-medieval-castle/</a></p>
+<p>Comments URL: <a hr......
+- [Read more](https://www.rte.ie/news/regional/2026/0917/1591962-ucd-medieval-castle/)
 
-### Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar
+### Why the Navier-Stokes Equations Are So Hard [video]
 - **Published**: September 17, 2026
-- **Summary**: A new CVE drops. Your scanner finds it. The severity score looks ugly.
-
-But that still does not answer the question that matters: Can it actually be e...
-- [Read more](https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html)
+- **Summary**: https://www.youtube.com/watch?v=PsWR1rQEWYo</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49746436">https......
+- [Read more](https://www.youtube.com/watch?v=PsWR1rQEWYo)
 
 ---
 
