@@ -16,15 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Attackers Exploit Issabel Framework Flaw Enabling Unauthenticated OS Command Execution
-- **Published**: September 16, 2026
-- **Summary**: A critical security flaw in Issabel Framework, a web-based framework for the open-source unified communications PBX software, has come under active ex...
-- [Read more](https://thehackernews.com/2026/09/attackers-exploit-issabel-framework.html)
+### What's Next After RLHF? – Diogo Almeida, TypeSafe AI [video]
+- **Published**: September 17, 2026
+- **Summary**: https://www.youtube.com/watch?v=cJ0EOzey--o</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49736134">https......
+- [Read more](https://www.youtube.com/watch?v=cJ0EOzey--o)
 
-### Three Threat Groups Target Russian Enterprises With Backdoors, Ransomware, and Wipers
-- **Published**: September 16, 2026
-- **Summary**: Enterprises in Russia have emerged as the target of three threat activity clusters tracked as NightEagle, Hacking Cat, and Toy Ghouls, according to mu...
-- [Read more](https://thehackernews.com/2026/09/three-threat-groups-target-russian.html)
+### China Adds Currencies to Central Clearing in Yuan's Global Push
+- **Published**: September 17, 2026
+- **Summary**: https://www.bloomberg.com/news/articles/2026-09-17/china-ad......
+- [Read more](https://www.bloomberg.com/news/articles/2026-09-17/china-adds-currencies-to-central-clearing-in-yuan-s-global-push)
 
 ---
 
