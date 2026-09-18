@@ -1,28 +1,28 @@
 {
   "chaos_ranked": [
     {
-      "title": "Claimed Bug Bounty Hunter Likely Used LLM to Build PhantomRaven npm Stealer",
-      "link": "https://thehackernews.com/2026/09/claimed-bug-bounty-hunter-likely-used.html",
-      "summary": "A financially motivated threat actor has been linked to the development and distribution of a JavaScript (JS)-based information stealer known as PhantomRaven via the npm package registry.\n\n\"The develo...",
-      "published": "2026-09-18T14:48:03+05:30",
+      "title": "An Abandoned CDN Domain Was Re-Registered. Thousands of Sites Still Call It.",
+      "link": "https://thehackernews.com/2026/09/an-abandoned-cdn-domain-was-re.html",
+      "summary": "In July 2025, someone registered a domain that used to belong to a content delivery network.&nbsp; The CDN had been wound down years earlier, and the domain it served assets from was allowed to expire...",
+      "published": "2026-09-18T16:31:16+05:30",
       "domain": "thehackernews.com",
       "scores": {
-        "chaos": 11.3,
+        "chaos": 8.7,
         "anarchy": 3.0,
-        "overall": 7.2
+        "overall": 5.9
       },
       "keywords": {
         "chaos": [
-          "bug"
+          "down"
         ],
         "anarchy": []
       }
     },
     {
-      "title": "RatHat Android Malware Abuses ADB to Retain Shell Access After Uninstall",
-      "link": "https://thehackernews.com/2026/09/rathat-android-malware-abuses-adb-to.html",
-      "summary": "Cybersecurity researchers have flagged a new Android malware called RatHat that's assessed to be operated by China-based threat actors and features an artificial intelligence (AI)-powered system to na...",
-      "published": "2026-09-18T11:47:25+05:30",
+      "title": "Transparent Tribe Deploys New Rust Backdoor Using Private GitHub Repositories for C2",
+      "link": "https://thehackernews.com/2026/09/transparent-tribe-deploys-new-rust.html",
+      "summary": "The Pakistan-aligned threat group tracked as Transparent Tribe (aka APT36 and Earth Karkaddan) has been attributed to a fresh set of cyber attacks targeting government and defense entities in India an...",
+      "published": "2026-09-18T20:54:16+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -35,11 +35,11 @@
       }
     },
     {
-      "title": "What we learned using OPFS for browser video storage",
-      "link": "https://www.reactvideoeditor.com/blog/why-we-use-opfs-for-browser-video-storage",
-      "summary": "<p>Article URL: <a href=\"https://www.reactvideoeditor.com/blog/why-we-use-opfs-for-browser-video-storage\">https://www.reactvideoeditor.com/blog/why-we-use-opfs-for-browser-video-storage</a></p>\n<p>Com...",
-      "published": "2026-09-18T10:31:02+00:00",
-      "domain": "reactvideoeditor.com",
+      "title": "Microsoft Patches CVSS 10.0 Azure AI Foundry Flaw Enabling Unauthorized Privilege Escalation",
+      "link": "https://thehackernews.com/2026/09/microsoft-patches-cvss-100-azure-ai.html",
+      "summary": "Microsoft has released fixes for a maximum-severity security flaw in Azure AI Foundry that could be exploited to achieve privilege escalation. No customer action is required.\n\nThe vulnerability, track...",
+      "published": "2026-09-18T18:17:04+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -51,11 +51,11 @@
       }
     },
     {
-      "title": "ClickHouse permission system has a trivial bypass",
-      "link": "https://zimzi.substack.com/p/clickhouse-permission-system-has",
-      "summary": "<p>Article URL: <a href=\"https://zimzi.substack.com/p/clickhouse-permission-system-has\">https://zimzi.substack.com/p/clickhouse-permission-system-has</a></p>\n<p>Comments URL: <a href=\"https://news.yco...",
-      "published": "2026-09-18T10:28:50+00:00",
-      "domain": "zimzi.substack.com",
+      "title": "Plugin4Shell Lets Repository Owners Swap Pinned Plugin Code Across Four AI Coding Agents",
+      "link": "https://thehackernews.com/2026/09/plugin4shell-lets-repository-owners.html",
+      "summary": "A flaw in four widely used AI coding agents lets someone who controls a plugin's code repository swap the plugin an agent installs for a malicious one, even when the agent locked that plugin to a spec...",
+      "published": "2026-09-18T16:31:01+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -67,11 +67,11 @@
       }
     },
     {
-      "title": "Top Chinese AI models make 10% of OpenAI",
-      "link": "https://www.scmp.com/tech/big-tech/article/3367991/top-chinese-ai-models-make-10-openai-anthropic-revenue-despite-high-valuations-report",
-      "summary": "<p>Article URL: <a href=\"https://www.scmp.com/tech/big-tech/article/3367991/top-chinese-ai-models-make-10-openai-anthropic-revenue-despite-high-valuations-report\">https://www.scmp.com/tech/big-tech/ar...",
-      "published": "2026-09-18T10:28:14+00:00",
-      "domain": "scmp.com",
+      "title": "WeaselBiscuit Stealer Spreads via 13 npm Packages to Harvest Chrome Extension Storage",
+      "link": "https://thehackernews.com/2026/09/weaselbiscuit-stealer-spreads-via-13.html",
+      "summary": "Cybersecurity researchers have discovered a cluster of 13 npm packages that have been found to deliver a previously undocumented JavaScript stealer codenamed WeaselBiscuit.\n\nThe new malware family, pe...",
+      "published": "2026-09-18T16:10:06+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -83,11 +83,11 @@
       }
     },
     {
-      "title": "Getting Freaky in the Age of AI",
-      "link": "https://www.iankduncan.com/engineering/2026-08-07-getting-freaky-in-the-age-of-ai/",
-      "summary": "<p>Article URL: <a href=\"https://www.iankduncan.com/engineering/2026-08-07-getting-freaky-in-the-age-of-ai/\">https://www.iankduncan.com/engineering/2026-08-07-getting-freaky-in-the-age-of-ai/</a></p>\n...",
-      "published": "2026-09-18T10:27:38+00:00",
-      "domain": "iankduncan.com",
+      "title": "Black Holes or Black Hole Stars? Astronomers Spar over 'Little Red Dots'",
+      "link": "https://www.quantamagazine.org/black-holes-or-black-hole-stars-astronomers-spar-over-webb-telescopes-little-red-dots-20260914/",
+      "summary": "<p>Article URL: <a href=\"https://www.quantamagazine.org/black-holes-or-black-hole-stars-astronomers-spar-over-webb-telescopes-little-red-dots-20260914/\">https://www.quantamagazine.org/black-holes-or-b...",
+      "published": "2026-09-18T15:47:14+00:00",
+      "domain": "quantamagazine.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -99,11 +99,11 @@
       }
     },
     {
-      "title": "Europe's Most Valuable Startup Gave Data to a Scammer",
-      "link": "https://www.wsj.com/tech/cybersecurity/europes-most-valuable-startup-gave-data-to-a-scammer-now-it-faces-a-shakedown-c29740fd",
-      "summary": "<p>Article URL: <a href=\"https://www.wsj.com/tech/cybersecurity/europes-most-valuable-startup-gave-data-to-a-scammer-now-it-faces-a-shakedown-c29740fd\">https://www.wsj.com/tech/cybersecurity/europes-m...",
-      "published": "2026-09-18T10:25:42+00:00",
-      "domain": "wsj.com",
+      "title": "System Design Unboxed: new eBook and extras",
+      "link": "https://books.lextrem.com/system-design-1/",
+      "summary": "<p>Article URL: <a href=\"https://books.lextrem.com/system-design-1/\">https://books.lextrem.com/system-design-1/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49756105\">https:/...",
+      "published": "2026-09-18T15:45:41+00:00",
+      "domain": "books.lextrem.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -115,11 +115,11 @@
       }
     },
     {
-      "title": "OpenJev",
-      "link": "https://openjev.com/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49752041\">Comments</a>...",
-      "published": "2026-09-18T09:42:22+00:00",
-      "domain": "openjev.com",
+      "title": "Terrasat \u2013 Get Answers from Anywhere on Earth",
+      "link": "https://terrasat.net",
+      "summary": "<p>Article URL: <a href=\"https://terrasat.net\">https://terrasat.net</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49756086\">https://news.ycombinator.com/item?id=49756086</a></...",
+      "published": "2026-09-18T15:44:17+00:00",
+      "domain": "terrasat.net",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -131,11 +131,11 @@
       }
     },
     {
-      "title": "Jemalloc 5.4.0",
-      "link": "https://github.com/jemalloc/jemalloc/releases/tag/5.4.0",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49750152\">Comments</a>...",
-      "published": "2026-09-18T04:20:24+00:00",
-      "domain": "github.com",
+      "title": "The Physics of Database Speed: from 300 to 1M transactions per second [video]",
+      "link": "https://www.youtube.com/watch?v=vOEL_pHFYK0",
+      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=vOEL_pHFYK0\">https://www.youtube.com/watch?v=vOEL_pHFYK0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49756057\">https...",
+      "published": "2026-09-18T15:42:59+00:00",
+      "domain": "youtube.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -147,11 +147,11 @@
       }
     },
     {
-      "title": "The scourge of x86 emulation",
-      "link": "https://fex-emu.com/Scourge-of-emulation/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49750094\">Comments</a>...",
-      "published": "2026-09-18T04:09:48+00:00",
-      "domain": "fex-emu.com",
+      "title": "How to Build a Scraping Tool",
+      "link": "https://flaviocopes.com/scraping-tool/",
+      "summary": "<p>Article URL: <a href=\"https://flaviocopes.com/scraping-tool/\">https://flaviocopes.com/scraping-tool/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49756047\">https://news.yc...",
+      "published": "2026-09-18T15:42:28+00:00",
+      "domain": "flaviocopes.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -165,28 +165,60 @@
   ],
   "anarchy_ranked": [
     {
-      "title": "Claimed Bug Bounty Hunter Likely Used LLM to Build PhantomRaven npm Stealer",
-      "link": "https://thehackernews.com/2026/09/claimed-bug-bounty-hunter-likely-used.html",
-      "summary": "A financially motivated threat actor has been linked to the development and distribution of a JavaScript (JS)-based information stealer known as PhantomRaven via the npm package registry.\n\n\"The develo...",
-      "published": "2026-09-18T14:48:03+05:30",
+      "title": "Transparent Tribe Deploys New Rust Backdoor Using Private GitHub Repositories for C2",
+      "link": "https://thehackernews.com/2026/09/transparent-tribe-deploys-new-rust.html",
+      "summary": "The Pakistan-aligned threat group tracked as Transparent Tribe (aka APT36 and Earth Karkaddan) has been attributed to a fresh set of cyber attacks targeting government and defense entities in India an...",
+      "published": "2026-09-18T20:54:16+05:30",
       "domain": "thehackernews.com",
       "scores": {
-        "chaos": 11.3,
+        "chaos": 3.0,
         "anarchy": 3.0,
-        "overall": 7.2
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Microsoft Patches CVSS 10.0 Azure AI Foundry Flaw Enabling Unauthorized Privilege Escalation",
+      "link": "https://thehackernews.com/2026/09/microsoft-patches-cvss-100-azure-ai.html",
+      "summary": "Microsoft has released fixes for a maximum-severity security flaw in Azure AI Foundry that could be exploited to achieve privilege escalation. No customer action is required.\n\nThe vulnerability, track...",
+      "published": "2026-09-18T18:17:04+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "An Abandoned CDN Domain Was Re-Registered. Thousands of Sites Still Call It.",
+      "link": "https://thehackernews.com/2026/09/an-abandoned-cdn-domain-was-re.html",
+      "summary": "In July 2025, someone registered a domain that used to belong to a content delivery network.&nbsp; The CDN had been wound down years earlier, and the domain it served assets from was allowed to expire...",
+      "published": "2026-09-18T16:31:16+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 8.7,
+        "anarchy": 3.0,
+        "overall": 5.9
       },
       "keywords": {
         "chaos": [
-          "bug"
+          "down"
         ],
         "anarchy": []
       }
     },
     {
-      "title": "RatHat Android Malware Abuses ADB to Retain Shell Access After Uninstall",
-      "link": "https://thehackernews.com/2026/09/rathat-android-malware-abuses-adb-to.html",
-      "summary": "Cybersecurity researchers have flagged a new Android malware called RatHat that's assessed to be operated by China-based threat actors and features an artificial intelligence (AI)-powered system to na...",
-      "published": "2026-09-18T11:47:25+05:30",
+      "title": "Plugin4Shell Lets Repository Owners Swap Pinned Plugin Code Across Four AI Coding Agents",
+      "link": "https://thehackernews.com/2026/09/plugin4shell-lets-repository-owners.html",
+      "summary": "A flaw in four widely used AI coding agents lets someone who controls a plugin's code repository swap the plugin an agent installs for a malicious one, even when the agent locked that plugin to a spec...",
+      "published": "2026-09-18T16:31:01+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -199,11 +231,11 @@
       }
     },
     {
-      "title": "What we learned using OPFS for browser video storage",
-      "link": "https://www.reactvideoeditor.com/blog/why-we-use-opfs-for-browser-video-storage",
-      "summary": "<p>Article URL: <a href=\"https://www.reactvideoeditor.com/blog/why-we-use-opfs-for-browser-video-storage\">https://www.reactvideoeditor.com/blog/why-we-use-opfs-for-browser-video-storage</a></p>\n<p>Com...",
-      "published": "2026-09-18T10:31:02+00:00",
-      "domain": "reactvideoeditor.com",
+      "title": "WeaselBiscuit Stealer Spreads via 13 npm Packages to Harvest Chrome Extension Storage",
+      "link": "https://thehackernews.com/2026/09/weaselbiscuit-stealer-spreads-via-13.html",
+      "summary": "Cybersecurity researchers have discovered a cluster of 13 npm packages that have been found to deliver a previously undocumented JavaScript stealer codenamed WeaselBiscuit.\n\nThe new malware family, pe...",
+      "published": "2026-09-18T16:10:06+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -215,11 +247,11 @@
       }
     },
     {
-      "title": "ClickHouse permission system has a trivial bypass",
-      "link": "https://zimzi.substack.com/p/clickhouse-permission-system-has",
-      "summary": "<p>Article URL: <a href=\"https://zimzi.substack.com/p/clickhouse-permission-system-has\">https://zimzi.substack.com/p/clickhouse-permission-system-has</a></p>\n<p>Comments URL: <a href=\"https://news.yco...",
-      "published": "2026-09-18T10:28:50+00:00",
-      "domain": "zimzi.substack.com",
+      "title": "Black Holes or Black Hole Stars? Astronomers Spar over 'Little Red Dots'",
+      "link": "https://www.quantamagazine.org/black-holes-or-black-hole-stars-astronomers-spar-over-webb-telescopes-little-red-dots-20260914/",
+      "summary": "<p>Article URL: <a href=\"https://www.quantamagazine.org/black-holes-or-black-hole-stars-astronomers-spar-over-webb-telescopes-little-red-dots-20260914/\">https://www.quantamagazine.org/black-holes-or-b...",
+      "published": "2026-09-18T15:47:14+00:00",
+      "domain": "quantamagazine.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -231,11 +263,11 @@
       }
     },
     {
-      "title": "Top Chinese AI models make 10% of OpenAI",
-      "link": "https://www.scmp.com/tech/big-tech/article/3367991/top-chinese-ai-models-make-10-openai-anthropic-revenue-despite-high-valuations-report",
-      "summary": "<p>Article URL: <a href=\"https://www.scmp.com/tech/big-tech/article/3367991/top-chinese-ai-models-make-10-openai-anthropic-revenue-despite-high-valuations-report\">https://www.scmp.com/tech/big-tech/ar...",
-      "published": "2026-09-18T10:28:14+00:00",
-      "domain": "scmp.com",
+      "title": "System Design Unboxed: new eBook and extras",
+      "link": "https://books.lextrem.com/system-design-1/",
+      "summary": "<p>Article URL: <a href=\"https://books.lextrem.com/system-design-1/\">https://books.lextrem.com/system-design-1/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49756105\">https:/...",
+      "published": "2026-09-18T15:45:41+00:00",
+      "domain": "books.lextrem.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -247,11 +279,11 @@
       }
     },
     {
-      "title": "Getting Freaky in the Age of AI",
-      "link": "https://www.iankduncan.com/engineering/2026-08-07-getting-freaky-in-the-age-of-ai/",
-      "summary": "<p>Article URL: <a href=\"https://www.iankduncan.com/engineering/2026-08-07-getting-freaky-in-the-age-of-ai/\">https://www.iankduncan.com/engineering/2026-08-07-getting-freaky-in-the-age-of-ai/</a></p>\n...",
-      "published": "2026-09-18T10:27:38+00:00",
-      "domain": "iankduncan.com",
+      "title": "Terrasat \u2013 Get Answers from Anywhere on Earth",
+      "link": "https://terrasat.net",
+      "summary": "<p>Article URL: <a href=\"https://terrasat.net\">https://terrasat.net</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49756086\">https://news.ycombinator.com/item?id=49756086</a></...",
+      "published": "2026-09-18T15:44:17+00:00",
+      "domain": "terrasat.net",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -263,11 +295,11 @@
       }
     },
     {
-      "title": "Europe's Most Valuable Startup Gave Data to a Scammer",
-      "link": "https://www.wsj.com/tech/cybersecurity/europes-most-valuable-startup-gave-data-to-a-scammer-now-it-faces-a-shakedown-c29740fd",
-      "summary": "<p>Article URL: <a href=\"https://www.wsj.com/tech/cybersecurity/europes-most-valuable-startup-gave-data-to-a-scammer-now-it-faces-a-shakedown-c29740fd\">https://www.wsj.com/tech/cybersecurity/europes-m...",
-      "published": "2026-09-18T10:25:42+00:00",
-      "domain": "wsj.com",
+      "title": "The Physics of Database Speed: from 300 to 1M transactions per second [video]",
+      "link": "https://www.youtube.com/watch?v=vOEL_pHFYK0",
+      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=vOEL_pHFYK0\">https://www.youtube.com/watch?v=vOEL_pHFYK0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49756057\">https...",
+      "published": "2026-09-18T15:42:59+00:00",
+      "domain": "youtube.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -279,43 +311,11 @@
       }
     },
     {
-      "title": "OpenJev",
-      "link": "https://openjev.com/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49752041\">Comments</a>...",
-      "published": "2026-09-18T09:42:22+00:00",
-      "domain": "openjev.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Jemalloc 5.4.0",
-      "link": "https://github.com/jemalloc/jemalloc/releases/tag/5.4.0",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49750152\">Comments</a>...",
-      "published": "2026-09-18T04:20:24+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The scourge of x86 emulation",
-      "link": "https://fex-emu.com/Scourge-of-emulation/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49750094\">Comments</a>...",
-      "published": "2026-09-18T04:09:48+00:00",
-      "domain": "fex-emu.com",
+      "title": "How to Build a Scraping Tool",
+      "link": "https://flaviocopes.com/scraping-tool/",
+      "summary": "<p>Article URL: <a href=\"https://flaviocopes.com/scraping-tool/\">https://flaviocopes.com/scraping-tool/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49756047\">https://news.yc...",
+      "published": "2026-09-18T15:42:28+00:00",
+      "domain": "flaviocopes.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -329,28 +329,28 @@
   ],
   "overall_ranked": [
     {
-      "title": "Claimed Bug Bounty Hunter Likely Used LLM to Build PhantomRaven npm Stealer",
-      "link": "https://thehackernews.com/2026/09/claimed-bug-bounty-hunter-likely-used.html",
-      "summary": "A financially motivated threat actor has been linked to the development and distribution of a JavaScript (JS)-based information stealer known as PhantomRaven via the npm package registry.\n\n\"The develo...",
-      "published": "2026-09-18T14:48:03+05:30",
+      "title": "An Abandoned CDN Domain Was Re-Registered. Thousands of Sites Still Call It.",
+      "link": "https://thehackernews.com/2026/09/an-abandoned-cdn-domain-was-re.html",
+      "summary": "In July 2025, someone registered a domain that used to belong to a content delivery network.&nbsp; The CDN had been wound down years earlier, and the domain it served assets from was allowed to expire...",
+      "published": "2026-09-18T16:31:16+05:30",
       "domain": "thehackernews.com",
       "scores": {
-        "chaos": 11.3,
+        "chaos": 8.7,
         "anarchy": 3.0,
-        "overall": 7.2
+        "overall": 5.9
       },
       "keywords": {
         "chaos": [
-          "bug"
+          "down"
         ],
         "anarchy": []
       }
     },
     {
-      "title": "RatHat Android Malware Abuses ADB to Retain Shell Access After Uninstall",
-      "link": "https://thehackernews.com/2026/09/rathat-android-malware-abuses-adb-to.html",
-      "summary": "Cybersecurity researchers have flagged a new Android malware called RatHat that's assessed to be operated by China-based threat actors and features an artificial intelligence (AI)-powered system to na...",
-      "published": "2026-09-18T11:47:25+05:30",
+      "title": "Transparent Tribe Deploys New Rust Backdoor Using Private GitHub Repositories for C2",
+      "link": "https://thehackernews.com/2026/09/transparent-tribe-deploys-new-rust.html",
+      "summary": "The Pakistan-aligned threat group tracked as Transparent Tribe (aka APT36 and Earth Karkaddan) has been attributed to a fresh set of cyber attacks targeting government and defense entities in India an...",
+      "published": "2026-09-18T20:54:16+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -363,11 +363,11 @@
       }
     },
     {
-      "title": "What we learned using OPFS for browser video storage",
-      "link": "https://www.reactvideoeditor.com/blog/why-we-use-opfs-for-browser-video-storage",
-      "summary": "<p>Article URL: <a href=\"https://www.reactvideoeditor.com/blog/why-we-use-opfs-for-browser-video-storage\">https://www.reactvideoeditor.com/blog/why-we-use-opfs-for-browser-video-storage</a></p>\n<p>Com...",
-      "published": "2026-09-18T10:31:02+00:00",
-      "domain": "reactvideoeditor.com",
+      "title": "Microsoft Patches CVSS 10.0 Azure AI Foundry Flaw Enabling Unauthorized Privilege Escalation",
+      "link": "https://thehackernews.com/2026/09/microsoft-patches-cvss-100-azure-ai.html",
+      "summary": "Microsoft has released fixes for a maximum-severity security flaw in Azure AI Foundry that could be exploited to achieve privilege escalation. No customer action is required.\n\nThe vulnerability, track...",
+      "published": "2026-09-18T18:17:04+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -379,11 +379,11 @@
       }
     },
     {
-      "title": "ClickHouse permission system has a trivial bypass",
-      "link": "https://zimzi.substack.com/p/clickhouse-permission-system-has",
-      "summary": "<p>Article URL: <a href=\"https://zimzi.substack.com/p/clickhouse-permission-system-has\">https://zimzi.substack.com/p/clickhouse-permission-system-has</a></p>\n<p>Comments URL: <a href=\"https://news.yco...",
-      "published": "2026-09-18T10:28:50+00:00",
-      "domain": "zimzi.substack.com",
+      "title": "Plugin4Shell Lets Repository Owners Swap Pinned Plugin Code Across Four AI Coding Agents",
+      "link": "https://thehackernews.com/2026/09/plugin4shell-lets-repository-owners.html",
+      "summary": "A flaw in four widely used AI coding agents lets someone who controls a plugin's code repository swap the plugin an agent installs for a malicious one, even when the agent locked that plugin to a spec...",
+      "published": "2026-09-18T16:31:01+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -395,11 +395,11 @@
       }
     },
     {
-      "title": "Top Chinese AI models make 10% of OpenAI",
-      "link": "https://www.scmp.com/tech/big-tech/article/3367991/top-chinese-ai-models-make-10-openai-anthropic-revenue-despite-high-valuations-report",
-      "summary": "<p>Article URL: <a href=\"https://www.scmp.com/tech/big-tech/article/3367991/top-chinese-ai-models-make-10-openai-anthropic-revenue-despite-high-valuations-report\">https://www.scmp.com/tech/big-tech/ar...",
-      "published": "2026-09-18T10:28:14+00:00",
-      "domain": "scmp.com",
+      "title": "WeaselBiscuit Stealer Spreads via 13 npm Packages to Harvest Chrome Extension Storage",
+      "link": "https://thehackernews.com/2026/09/weaselbiscuit-stealer-spreads-via-13.html",
+      "summary": "Cybersecurity researchers have discovered a cluster of 13 npm packages that have been found to deliver a previously undocumented JavaScript stealer codenamed WeaselBiscuit.\n\nThe new malware family, pe...",
+      "published": "2026-09-18T16:10:06+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -411,11 +411,11 @@
       }
     },
     {
-      "title": "Getting Freaky in the Age of AI",
-      "link": "https://www.iankduncan.com/engineering/2026-08-07-getting-freaky-in-the-age-of-ai/",
-      "summary": "<p>Article URL: <a href=\"https://www.iankduncan.com/engineering/2026-08-07-getting-freaky-in-the-age-of-ai/\">https://www.iankduncan.com/engineering/2026-08-07-getting-freaky-in-the-age-of-ai/</a></p>\n...",
-      "published": "2026-09-18T10:27:38+00:00",
-      "domain": "iankduncan.com",
+      "title": "Black Holes or Black Hole Stars? Astronomers Spar over 'Little Red Dots'",
+      "link": "https://www.quantamagazine.org/black-holes-or-black-hole-stars-astronomers-spar-over-webb-telescopes-little-red-dots-20260914/",
+      "summary": "<p>Article URL: <a href=\"https://www.quantamagazine.org/black-holes-or-black-hole-stars-astronomers-spar-over-webb-telescopes-little-red-dots-20260914/\">https://www.quantamagazine.org/black-holes-or-b...",
+      "published": "2026-09-18T15:47:14+00:00",
+      "domain": "quantamagazine.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -427,11 +427,11 @@
       }
     },
     {
-      "title": "Europe's Most Valuable Startup Gave Data to a Scammer",
-      "link": "https://www.wsj.com/tech/cybersecurity/europes-most-valuable-startup-gave-data-to-a-scammer-now-it-faces-a-shakedown-c29740fd",
-      "summary": "<p>Article URL: <a href=\"https://www.wsj.com/tech/cybersecurity/europes-most-valuable-startup-gave-data-to-a-scammer-now-it-faces-a-shakedown-c29740fd\">https://www.wsj.com/tech/cybersecurity/europes-m...",
-      "published": "2026-09-18T10:25:42+00:00",
-      "domain": "wsj.com",
+      "title": "System Design Unboxed: new eBook and extras",
+      "link": "https://books.lextrem.com/system-design-1/",
+      "summary": "<p>Article URL: <a href=\"https://books.lextrem.com/system-design-1/\">https://books.lextrem.com/system-design-1/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49756105\">https:/...",
+      "published": "2026-09-18T15:45:41+00:00",
+      "domain": "books.lextrem.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -443,11 +443,11 @@
       }
     },
     {
-      "title": "OpenJev",
-      "link": "https://openjev.com/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49752041\">Comments</a>...",
-      "published": "2026-09-18T09:42:22+00:00",
-      "domain": "openjev.com",
+      "title": "Terrasat \u2013 Get Answers from Anywhere on Earth",
+      "link": "https://terrasat.net",
+      "summary": "<p>Article URL: <a href=\"https://terrasat.net\">https://terrasat.net</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49756086\">https://news.ycombinator.com/item?id=49756086</a></...",
+      "published": "2026-09-18T15:44:17+00:00",
+      "domain": "terrasat.net",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -459,11 +459,11 @@
       }
     },
     {
-      "title": "Jemalloc 5.4.0",
-      "link": "https://github.com/jemalloc/jemalloc/releases/tag/5.4.0",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49750152\">Comments</a>...",
-      "published": "2026-09-18T04:20:24+00:00",
-      "domain": "github.com",
+      "title": "The Physics of Database Speed: from 300 to 1M transactions per second [video]",
+      "link": "https://www.youtube.com/watch?v=vOEL_pHFYK0",
+      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=vOEL_pHFYK0\">https://www.youtube.com/watch?v=vOEL_pHFYK0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49756057\">https...",
+      "published": "2026-09-18T15:42:59+00:00",
+      "domain": "youtube.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -475,11 +475,11 @@
       }
     },
     {
-      "title": "The scourge of x86 emulation",
-      "link": "https://fex-emu.com/Scourge-of-emulation/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49750094\">Comments</a>...",
-      "published": "2026-09-18T04:09:48+00:00",
-      "domain": "fex-emu.com",
+      "title": "How to Build a Scraping Tool",
+      "link": "https://flaviocopes.com/scraping-tool/",
+      "summary": "<p>Article URL: <a href=\"https://flaviocopes.com/scraping-tool/\">https://flaviocopes.com/scraping-tool/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49756047\">https://news.yc...",
+      "published": "2026-09-18T15:42:28+00:00",
+      "domain": "flaviocopes.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -493,28 +493,60 @@
   ],
   "all_articles": [
     {
-      "title": "Claimed Bug Bounty Hunter Likely Used LLM to Build PhantomRaven npm Stealer",
-      "link": "https://thehackernews.com/2026/09/claimed-bug-bounty-hunter-likely-used.html",
-      "summary": "A financially motivated threat actor has been linked to the development and distribution of a JavaScript (JS)-based information stealer known as PhantomRaven via the npm package registry.\n\n\"The develo...",
-      "published": "2026-09-18T14:48:03+05:30",
+      "title": "Transparent Tribe Deploys New Rust Backdoor Using Private GitHub Repositories for C2",
+      "link": "https://thehackernews.com/2026/09/transparent-tribe-deploys-new-rust.html",
+      "summary": "The Pakistan-aligned threat group tracked as Transparent Tribe (aka APT36 and Earth Karkaddan) has been attributed to a fresh set of cyber attacks targeting government and defense entities in India an...",
+      "published": "2026-09-18T20:54:16+05:30",
       "domain": "thehackernews.com",
       "scores": {
-        "chaos": 11.3,
+        "chaos": 3.0,
         "anarchy": 3.0,
-        "overall": 7.2
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Microsoft Patches CVSS 10.0 Azure AI Foundry Flaw Enabling Unauthorized Privilege Escalation",
+      "link": "https://thehackernews.com/2026/09/microsoft-patches-cvss-100-azure-ai.html",
+      "summary": "Microsoft has released fixes for a maximum-severity security flaw in Azure AI Foundry that could be exploited to achieve privilege escalation. No customer action is required.\n\nThe vulnerability, track...",
+      "published": "2026-09-18T18:17:04+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "An Abandoned CDN Domain Was Re-Registered. Thousands of Sites Still Call It.",
+      "link": "https://thehackernews.com/2026/09/an-abandoned-cdn-domain-was-re.html",
+      "summary": "In July 2025, someone registered a domain that used to belong to a content delivery network.&nbsp; The CDN had been wound down years earlier, and the domain it served assets from was allowed to expire...",
+      "published": "2026-09-18T16:31:16+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 8.7,
+        "anarchy": 3.0,
+        "overall": 5.9
       },
       "keywords": {
         "chaos": [
-          "bug"
+          "down"
         ],
         "anarchy": []
       }
     },
     {
-      "title": "RatHat Android Malware Abuses ADB to Retain Shell Access After Uninstall",
-      "link": "https://thehackernews.com/2026/09/rathat-android-malware-abuses-adb-to.html",
-      "summary": "Cybersecurity researchers have flagged a new Android malware called RatHat that's assessed to be operated by China-based threat actors and features an artificial intelligence (AI)-powered system to na...",
-      "published": "2026-09-18T11:47:25+05:30",
+      "title": "Plugin4Shell Lets Repository Owners Swap Pinned Plugin Code Across Four AI Coding Agents",
+      "link": "https://thehackernews.com/2026/09/plugin4shell-lets-repository-owners.html",
+      "summary": "A flaw in four widely used AI coding agents lets someone who controls a plugin's code repository swap the plugin an agent installs for a malicious one, even when the agent locked that plugin to a spec...",
+      "published": "2026-09-18T16:31:01+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -527,11 +559,11 @@
       }
     },
     {
-      "title": "What we learned using OPFS for browser video storage",
-      "link": "https://www.reactvideoeditor.com/blog/why-we-use-opfs-for-browser-video-storage",
-      "summary": "<p>Article URL: <a href=\"https://www.reactvideoeditor.com/blog/why-we-use-opfs-for-browser-video-storage\">https://www.reactvideoeditor.com/blog/why-we-use-opfs-for-browser-video-storage</a></p>\n<p>Com...",
-      "published": "2026-09-18T10:31:02+00:00",
-      "domain": "reactvideoeditor.com",
+      "title": "WeaselBiscuit Stealer Spreads via 13 npm Packages to Harvest Chrome Extension Storage",
+      "link": "https://thehackernews.com/2026/09/weaselbiscuit-stealer-spreads-via-13.html",
+      "summary": "Cybersecurity researchers have discovered a cluster of 13 npm packages that have been found to deliver a previously undocumented JavaScript stealer codenamed WeaselBiscuit.\n\nThe new malware family, pe...",
+      "published": "2026-09-18T16:10:06+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -543,11 +575,11 @@
       }
     },
     {
-      "title": "ClickHouse permission system has a trivial bypass",
-      "link": "https://zimzi.substack.com/p/clickhouse-permission-system-has",
-      "summary": "<p>Article URL: <a href=\"https://zimzi.substack.com/p/clickhouse-permission-system-has\">https://zimzi.substack.com/p/clickhouse-permission-system-has</a></p>\n<p>Comments URL: <a href=\"https://news.yco...",
-      "published": "2026-09-18T10:28:50+00:00",
-      "domain": "zimzi.substack.com",
+      "title": "Black Holes or Black Hole Stars? Astronomers Spar over 'Little Red Dots'",
+      "link": "https://www.quantamagazine.org/black-holes-or-black-hole-stars-astronomers-spar-over-webb-telescopes-little-red-dots-20260914/",
+      "summary": "<p>Article URL: <a href=\"https://www.quantamagazine.org/black-holes-or-black-hole-stars-astronomers-spar-over-webb-telescopes-little-red-dots-20260914/\">https://www.quantamagazine.org/black-holes-or-b...",
+      "published": "2026-09-18T15:47:14+00:00",
+      "domain": "quantamagazine.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -559,11 +591,11 @@
       }
     },
     {
-      "title": "Top Chinese AI models make 10% of OpenAI",
-      "link": "https://www.scmp.com/tech/big-tech/article/3367991/top-chinese-ai-models-make-10-openai-anthropic-revenue-despite-high-valuations-report",
-      "summary": "<p>Article URL: <a href=\"https://www.scmp.com/tech/big-tech/article/3367991/top-chinese-ai-models-make-10-openai-anthropic-revenue-despite-high-valuations-report\">https://www.scmp.com/tech/big-tech/ar...",
-      "published": "2026-09-18T10:28:14+00:00",
-      "domain": "scmp.com",
+      "title": "System Design Unboxed: new eBook and extras",
+      "link": "https://books.lextrem.com/system-design-1/",
+      "summary": "<p>Article URL: <a href=\"https://books.lextrem.com/system-design-1/\">https://books.lextrem.com/system-design-1/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49756105\">https:/...",
+      "published": "2026-09-18T15:45:41+00:00",
+      "domain": "books.lextrem.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -575,11 +607,11 @@
       }
     },
     {
-      "title": "Getting Freaky in the Age of AI",
-      "link": "https://www.iankduncan.com/engineering/2026-08-07-getting-freaky-in-the-age-of-ai/",
-      "summary": "<p>Article URL: <a href=\"https://www.iankduncan.com/engineering/2026-08-07-getting-freaky-in-the-age-of-ai/\">https://www.iankduncan.com/engineering/2026-08-07-getting-freaky-in-the-age-of-ai/</a></p>\n...",
-      "published": "2026-09-18T10:27:38+00:00",
-      "domain": "iankduncan.com",
+      "title": "Terrasat \u2013 Get Answers from Anywhere on Earth",
+      "link": "https://terrasat.net",
+      "summary": "<p>Article URL: <a href=\"https://terrasat.net\">https://terrasat.net</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49756086\">https://news.ycombinator.com/item?id=49756086</a></...",
+      "published": "2026-09-18T15:44:17+00:00",
+      "domain": "terrasat.net",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -591,11 +623,11 @@
       }
     },
     {
-      "title": "Europe's Most Valuable Startup Gave Data to a Scammer",
-      "link": "https://www.wsj.com/tech/cybersecurity/europes-most-valuable-startup-gave-data-to-a-scammer-now-it-faces-a-shakedown-c29740fd",
-      "summary": "<p>Article URL: <a href=\"https://www.wsj.com/tech/cybersecurity/europes-most-valuable-startup-gave-data-to-a-scammer-now-it-faces-a-shakedown-c29740fd\">https://www.wsj.com/tech/cybersecurity/europes-m...",
-      "published": "2026-09-18T10:25:42+00:00",
-      "domain": "wsj.com",
+      "title": "The Physics of Database Speed: from 300 to 1M transactions per second [video]",
+      "link": "https://www.youtube.com/watch?v=vOEL_pHFYK0",
+      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=vOEL_pHFYK0\">https://www.youtube.com/watch?v=vOEL_pHFYK0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49756057\">https...",
+      "published": "2026-09-18T15:42:59+00:00",
+      "domain": "youtube.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -607,43 +639,11 @@
       }
     },
     {
-      "title": "OpenJev",
-      "link": "https://openjev.com/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49752041\">Comments</a>...",
-      "published": "2026-09-18T09:42:22+00:00",
-      "domain": "openjev.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Jemalloc 5.4.0",
-      "link": "https://github.com/jemalloc/jemalloc/releases/tag/5.4.0",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49750152\">Comments</a>...",
-      "published": "2026-09-18T04:20:24+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The scourge of x86 emulation",
-      "link": "https://fex-emu.com/Scourge-of-emulation/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49750094\">Comments</a>...",
-      "published": "2026-09-18T04:09:48+00:00",
-      "domain": "fex-emu.com",
+      "title": "How to Build a Scraping Tool",
+      "link": "https://flaviocopes.com/scraping-tool/",
+      "summary": "<p>Article URL: <a href=\"https://flaviocopes.com/scraping-tool/\">https://flaviocopes.com/scraping-tool/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49756047\">https://news.yc...",
+      "published": "2026-09-18T15:42:28+00:00",
+      "domain": "flaviocopes.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,

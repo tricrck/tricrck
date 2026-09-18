@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Claimed Bug Bounty Hunter Likely Used LLM to Build PhantomRaven npm Stealer
+### An Abandoned CDN Domain Was Re-Registered. Thousands of Sites Still Call It.
 - **Published**: September 18, 2026
-- **Summary**: A financially motivated threat actor has been linked to the development and distribution of a JavaScript (JS)-based information stealer known as Phant...
-- **Keywords**: bug
-- [Read more](https://thehackernews.com/2026/09/claimed-bug-bounty-hunter-likely-used.html)
+- **Summary**: In July 2025, someone registered a domain that used to belong to a content delivery network.&nbsp; The CDN had been wound down years earlier, and the ...
+- **Keywords**: down
+- [Read more](https://thehackernews.com/2026/09/an-abandoned-cdn-domain-was-re.html)
 
-### RatHat Android Malware Abuses ADB to Retain Shell Access After Uninstall
+### Transparent Tribe Deploys New Rust Backdoor Using Private GitHub Repositories for C2
 - **Published**: September 18, 2026
-- **Summary**: Cybersecurity researchers have flagged a new Android malware called RatHat that's assessed to be operated by China-based threat actors and features an...
-- [Read more](https://thehackernews.com/2026/09/rathat-android-malware-abuses-adb-to.html)
+- **Summary**: The Pakistan-aligned threat group tracked as Transparent Tribe (aka APT36 and Earth Karkaddan) has been attributed to a fresh set of cyber attacks tar...
+- [Read more](https://thehackernews.com/2026/09/transparent-tribe-deploys-new-rust.html)
 
 ---
 
