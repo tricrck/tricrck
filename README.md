@@ -16,17 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Remains of 'lost' medieval castle found at UCD campus
-- **Published**: September 17, 2026
-- **Summary**: https://www.rte.ie/news/regional/2026/0917/1591962-ucd-medieval-castle/</a></p>
-<p>Comments URL: <a hr......
-- [Read more](https://www.rte.ie/news/regional/2026/0917/1591962-ucd-medieval-castle/)
+### Google announces new experimental "CC" AI agent for families
+- **Published**: September 18, 2026
+- **Summary**: https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc......
+- [Read more](https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families/)
 
-### Why the Navier-Stokes Equations Are So Hard [video]
-- **Published**: September 17, 2026
-- **Summary**: https://www.youtube.com/watch?v=PsWR1rQEWYo</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49746436">https......
-- [Read more](https://www.youtube.com/watch?v=PsWR1rQEWYo)
+### Youper is shutting down – What kills mental health AI?
+- **Published**: September 18, 2026
+- **Summary**: https://www.youper.ai/notice</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49749872">https://news.ycombinator.com/item?i......
+- **Keywords**: down
+- [Read more](https://www.youper.ai/notice)
 
 ---
 
