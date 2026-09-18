@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### An Abandoned CDN Domain Was Re-Registered. Thousands of Sites Still Call It.
+### Public Exploits Released for Four Linux Kernel Flaws That Enable Local Root
 - **Published**: September 18, 2026
-- **Summary**: In July 2025, someone registered a domain that used to belong to a content delivery network.&nbsp; The CDN had been wound down years earlier, and the ...
-- **Keywords**: down
-- [Read more](https://thehackernews.com/2026/09/an-abandoned-cdn-domain-was-re.html)
+- **Summary**: A security researcher has released working exploit code for four Linux kernel flaws that each let a local user gain root, the highest level of access ...
+- [Read more](https://thehackernews.com/2026/09/public-exploits-released-for-four-linux.html)
 
-### Transparent Tribe Deploys New Rust Backdoor Using Private GitHub Repositories for C2
+### New WordPress Click2Shell Flaw Forces Theme Installs, Can Chain to Code Execution
 - **Published**: September 18, 2026
-- **Summary**: The Pakistan-aligned threat group tracked as Transparent Tribe (aka APT36 and Earth Karkaddan) has been attributed to a fresh set of cyber attacks tar...
-- [Read more](https://thehackernews.com/2026/09/transparent-tribe-deploys-new-rust.html)
+- **Summary**: WordPress today released patches to fix a new set of vulnerabilities in its core software, one of which could allow a crafted web link, opened by a lo...
+- [Read more](https://thehackernews.com/2026/09/new-wordpress-click2shell-flaw-forces.html)
 
 ---
 

@@ -1,20 +1,34 @@
 {
   "chaos_ranked": [
     {
-      "title": "An Abandoned CDN Domain Was Re-Registered. Thousands of Sites Still Call It.",
-      "link": "https://thehackernews.com/2026/09/an-abandoned-cdn-domain-was-re.html",
-      "summary": "In July 2025, someone registered a domain that used to belong to a content delivery network.&nbsp; The CDN had been wound down years earlier, and the domain it served assets from was allowed to expire...",
-      "published": "2026-09-18T16:31:16+05:30",
+      "title": "Public Exploits Released for Four Linux Kernel Flaws That Enable Local Root",
+      "link": "https://thehackernews.com/2026/09/public-exploits-released-for-four-linux.html",
+      "summary": "A security researcher has released working exploit code for four Linux kernel flaws that each let a local user gain root, the highest level of access on a machine.\n\nKernel maintainers have fixed all f...",
+      "published": "2026-09-18T23:32:24+05:30",
       "domain": "thehackernews.com",
       "scores": {
-        "chaos": 8.7,
+        "chaos": 3.0,
         "anarchy": 3.0,
-        "overall": 5.9
+        "overall": 3.0
       },
       "keywords": {
-        "chaos": [
-          "down"
-        ],
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "New WordPress Click2Shell Flaw Forces Theme Installs, Can Chain to Code Execution",
+      "link": "https://thehackernews.com/2026/09/new-wordpress-click2shell-flaw-forces.html",
+      "summary": "WordPress today released patches to fix a new set of vulnerabilities in its core software, one of which could allow a crafted web link, opened by a logged-in administrator, to install a theme from the...",
+      "published": "2026-09-18T22:26:19+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
         "anarchy": []
       }
     },
@@ -35,11 +49,11 @@
       }
     },
     {
-      "title": "Microsoft Patches CVSS 10.0 Azure AI Foundry Flaw Enabling Unauthorized Privilege Escalation",
-      "link": "https://thehackernews.com/2026/09/microsoft-patches-cvss-100-azure-ai.html",
-      "summary": "Microsoft has released fixes for a maximum-severity security flaw in Azure AI Foundry that could be exploited to achieve privilege escalation. No customer action is required.\n\nThe vulnerability, track...",
-      "published": "2026-09-18T18:17:04+05:30",
-      "domain": "thehackernews.com",
+      "title": "IAM Needs an Architectural Split",
+      "link": "https://gluufederation.medium.com/iam-needs-an-architectural-split-258f0aa13dd4",
+      "summary": "<p>Article URL: <a href=\"https://gluufederation.medium.com/iam-needs-an-architectural-split-258f0aa13dd4\">https://gluufederation.medium.com/iam-needs-an-architectural-split-258f0aa13dd4</a></p>\n<p>Com...",
+      "published": "2026-09-18T20:19:37+00:00",
+      "domain": "gluufederation.medium.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -51,11 +65,11 @@
       }
     },
     {
-      "title": "Plugin4Shell Lets Repository Owners Swap Pinned Plugin Code Across Four AI Coding Agents",
-      "link": "https://thehackernews.com/2026/09/plugin4shell-lets-repository-owners.html",
-      "summary": "A flaw in four widely used AI coding agents lets someone who controls a plugin's code repository swap the plugin an agent installs for a malicious one, even when the agent locked that plugin to a spec...",
-      "published": "2026-09-18T16:31:01+05:30",
-      "domain": "thehackernews.com",
+      "title": "I used Jev to control a swarm of 15 simulated drones in real time",
+      "link": "https://github.com/khordoo/jev-reflex-autonomy-lab/tree/main",
+      "summary": "<p>Article URL: <a href=\"https://github.com/khordoo/jev-reflex-autonomy-lab/tree/main\">https://github.com/khordoo/jev-reflex-autonomy-lab/tree/main</a></p>\n<p>Comments URL: <a href=\"https://news.ycomb...",
+      "published": "2026-09-18T20:19:34+00:00",
+      "domain": "github.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -67,11 +81,11 @@
       }
     },
     {
-      "title": "WeaselBiscuit Stealer Spreads via 13 npm Packages to Harvest Chrome Extension Storage",
-      "link": "https://thehackernews.com/2026/09/weaselbiscuit-stealer-spreads-via-13.html",
-      "summary": "Cybersecurity researchers have discovered a cluster of 13 npm packages that have been found to deliver a previously undocumented JavaScript stealer codenamed WeaselBiscuit.\n\nThe new malware family, pe...",
-      "published": "2026-09-18T16:10:06+05:30",
-      "domain": "thehackernews.com",
+      "title": "Napster Is Now Making AI-Powered 'Digital Twins' of Teachers",
+      "link": "https://gizmodo.com/napster-is-now-making-ai-powered-digital-twins-of-teachers-2000814010",
+      "summary": "<p>Article URL: <a href=\"https://gizmodo.com/napster-is-now-making-ai-powered-digital-twins-of-teachers-2000814010\">https://gizmodo.com/napster-is-now-making-ai-powered-digital-twins-of-teachers-20008...",
+      "published": "2026-09-18T20:19:06+00:00",
+      "domain": "gizmodo.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -83,58 +97,10 @@
       }
     },
     {
-      "title": "Black Holes or Black Hole Stars? Astronomers Spar over 'Little Red Dots'",
-      "link": "https://www.quantamagazine.org/black-holes-or-black-hole-stars-astronomers-spar-over-webb-telescopes-little-red-dots-20260914/",
-      "summary": "<p>Article URL: <a href=\"https://www.quantamagazine.org/black-holes-or-black-hole-stars-astronomers-spar-over-webb-telescopes-little-red-dots-20260914/\">https://www.quantamagazine.org/black-holes-or-b...",
-      "published": "2026-09-18T15:47:14+00:00",
-      "domain": "quantamagazine.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "System Design Unboxed: new eBook and extras",
-      "link": "https://books.lextrem.com/system-design-1/",
-      "summary": "<p>Article URL: <a href=\"https://books.lextrem.com/system-design-1/\">https://books.lextrem.com/system-design-1/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49756105\">https:/...",
-      "published": "2026-09-18T15:45:41+00:00",
-      "domain": "books.lextrem.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Terrasat \u2013 Get Answers from Anywhere on Earth",
-      "link": "https://terrasat.net",
-      "summary": "<p>Article URL: <a href=\"https://terrasat.net\">https://terrasat.net</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49756086\">https://news.ycombinator.com/item?id=49756086</a></...",
-      "published": "2026-09-18T15:44:17+00:00",
-      "domain": "terrasat.net",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The Physics of Database Speed: from 300 to 1M transactions per second [video]",
-      "link": "https://www.youtube.com/watch?v=vOEL_pHFYK0",
-      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=vOEL_pHFYK0\">https://www.youtube.com/watch?v=vOEL_pHFYK0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49756057\">https...",
-      "published": "2026-09-18T15:42:59+00:00",
+      "title": "Data Centers Are Breaking the Power Grid [video]",
+      "link": "https://www.youtube.com/watch?v=X71le3av1So",
+      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=X71le3av1So\">https://www.youtube.com/watch?v=X71le3av1So</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49759655\">https...",
+      "published": "2026-09-18T20:15:36+00:00",
       "domain": "youtube.com",
       "scores": {
         "chaos": 3.0,
@@ -147,11 +113,43 @@
       }
     },
     {
-      "title": "How to Build a Scraping Tool",
-      "link": "https://flaviocopes.com/scraping-tool/",
-      "summary": "<p>Article URL: <a href=\"https://flaviocopes.com/scraping-tool/\">https://flaviocopes.com/scraping-tool/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49756047\">https://news.yc...",
-      "published": "2026-09-18T15:42:28+00:00",
-      "domain": "flaviocopes.com",
+      "title": "Partnering with Accenture on Embedded Evaluation",
+      "link": "https://www.anthropic.com/news/accenture-embedded-evaluation",
+      "summary": "<p>Article URL: <a href=\"https://www.anthropic.com/news/accenture-embedded-evaluation\">https://www.anthropic.com/news/accenture-embedded-evaluation</a></p>\n<p>Comments URL: <a href=\"https://news.ycomb...",
+      "published": "2026-09-18T20:15:12+00:00",
+      "domain": "anthropic.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Korea raises data breach fines to 10% of revenue",
+      "link": "https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49759466\">Comments</a>...",
+      "published": "2026-09-18T20:02:54+00:00",
+      "domain": "koreajoongangdaily.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Microsoft\u2019s Own Executive Called AI Training \u201cthe Largest Theft of Labor in Human History\u201d",
+      "link": "https://www.reddit.com/r/technology/comments/1wjzumd/microsofts_own_executive_called_ai_training_the/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1wjzumd/microsofts_own_executive_called_ai_training_the/\"> <img alt=\"Microsoft\u2019s Own Executive Called AI Training \u201cthe Largest Th...",
+      "published": "2026-09-18T19:27:00+00:00",
+      "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -165,6 +163,38 @@
   ],
   "anarchy_ranked": [
     {
+      "title": "Public Exploits Released for Four Linux Kernel Flaws That Enable Local Root",
+      "link": "https://thehackernews.com/2026/09/public-exploits-released-for-four-linux.html",
+      "summary": "A security researcher has released working exploit code for four Linux kernel flaws that each let a local user gain root, the highest level of access on a machine.\n\nKernel maintainers have fixed all f...",
+      "published": "2026-09-18T23:32:24+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "New WordPress Click2Shell Flaw Forces Theme Installs, Can Chain to Code Execution",
+      "link": "https://thehackernews.com/2026/09/new-wordpress-click2shell-flaw-forces.html",
+      "summary": "WordPress today released patches to fix a new set of vulnerabilities in its core software, one of which could allow a crafted web link, opened by a logged-in administrator, to install a theme from the...",
+      "published": "2026-09-18T22:26:19+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "Transparent Tribe Deploys New Rust Backdoor Using Private GitHub Repositories for C2",
       "link": "https://thehackernews.com/2026/09/transparent-tribe-deploys-new-rust.html",
       "summary": "The Pakistan-aligned threat group tracked as Transparent Tribe (aka APT36 and Earth Karkaddan) has been attributed to a fresh set of cyber attacks targeting government and defense entities in India an...",
@@ -181,11 +211,11 @@
       }
     },
     {
-      "title": "Microsoft Patches CVSS 10.0 Azure AI Foundry Flaw Enabling Unauthorized Privilege Escalation",
-      "link": "https://thehackernews.com/2026/09/microsoft-patches-cvss-100-azure-ai.html",
-      "summary": "Microsoft has released fixes for a maximum-severity security flaw in Azure AI Foundry that could be exploited to achieve privilege escalation. No customer action is required.\n\nThe vulnerability, track...",
-      "published": "2026-09-18T18:17:04+05:30",
-      "domain": "thehackernews.com",
+      "title": "IAM Needs an Architectural Split",
+      "link": "https://gluufederation.medium.com/iam-needs-an-architectural-split-258f0aa13dd4",
+      "summary": "<p>Article URL: <a href=\"https://gluufederation.medium.com/iam-needs-an-architectural-split-258f0aa13dd4\">https://gluufederation.medium.com/iam-needs-an-architectural-split-258f0aa13dd4</a></p>\n<p>Com...",
+      "published": "2026-09-18T20:19:37+00:00",
+      "domain": "gluufederation.medium.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -197,29 +227,11 @@
       }
     },
     {
-      "title": "An Abandoned CDN Domain Was Re-Registered. Thousands of Sites Still Call It.",
-      "link": "https://thehackernews.com/2026/09/an-abandoned-cdn-domain-was-re.html",
-      "summary": "In July 2025, someone registered a domain that used to belong to a content delivery network.&nbsp; The CDN had been wound down years earlier, and the domain it served assets from was allowed to expire...",
-      "published": "2026-09-18T16:31:16+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 8.7,
-        "anarchy": 3.0,
-        "overall": 5.9
-      },
-      "keywords": {
-        "chaos": [
-          "down"
-        ],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Plugin4Shell Lets Repository Owners Swap Pinned Plugin Code Across Four AI Coding Agents",
-      "link": "https://thehackernews.com/2026/09/plugin4shell-lets-repository-owners.html",
-      "summary": "A flaw in four widely used AI coding agents lets someone who controls a plugin's code repository swap the plugin an agent installs for a malicious one, even when the agent locked that plugin to a spec...",
-      "published": "2026-09-18T16:31:01+05:30",
-      "domain": "thehackernews.com",
+      "title": "I used Jev to control a swarm of 15 simulated drones in real time",
+      "link": "https://github.com/khordoo/jev-reflex-autonomy-lab/tree/main",
+      "summary": "<p>Article URL: <a href=\"https://github.com/khordoo/jev-reflex-autonomy-lab/tree/main\">https://github.com/khordoo/jev-reflex-autonomy-lab/tree/main</a></p>\n<p>Comments URL: <a href=\"https://news.ycomb...",
+      "published": "2026-09-18T20:19:34+00:00",
+      "domain": "github.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -231,11 +243,11 @@
       }
     },
     {
-      "title": "WeaselBiscuit Stealer Spreads via 13 npm Packages to Harvest Chrome Extension Storage",
-      "link": "https://thehackernews.com/2026/09/weaselbiscuit-stealer-spreads-via-13.html",
-      "summary": "Cybersecurity researchers have discovered a cluster of 13 npm packages that have been found to deliver a previously undocumented JavaScript stealer codenamed WeaselBiscuit.\n\nThe new malware family, pe...",
-      "published": "2026-09-18T16:10:06+05:30",
-      "domain": "thehackernews.com",
+      "title": "Napster Is Now Making AI-Powered 'Digital Twins' of Teachers",
+      "link": "https://gizmodo.com/napster-is-now-making-ai-powered-digital-twins-of-teachers-2000814010",
+      "summary": "<p>Article URL: <a href=\"https://gizmodo.com/napster-is-now-making-ai-powered-digital-twins-of-teachers-2000814010\">https://gizmodo.com/napster-is-now-making-ai-powered-digital-twins-of-teachers-20008...",
+      "published": "2026-09-18T20:19:06+00:00",
+      "domain": "gizmodo.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -247,58 +259,10 @@
       }
     },
     {
-      "title": "Black Holes or Black Hole Stars? Astronomers Spar over 'Little Red Dots'",
-      "link": "https://www.quantamagazine.org/black-holes-or-black-hole-stars-astronomers-spar-over-webb-telescopes-little-red-dots-20260914/",
-      "summary": "<p>Article URL: <a href=\"https://www.quantamagazine.org/black-holes-or-black-hole-stars-astronomers-spar-over-webb-telescopes-little-red-dots-20260914/\">https://www.quantamagazine.org/black-holes-or-b...",
-      "published": "2026-09-18T15:47:14+00:00",
-      "domain": "quantamagazine.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "System Design Unboxed: new eBook and extras",
-      "link": "https://books.lextrem.com/system-design-1/",
-      "summary": "<p>Article URL: <a href=\"https://books.lextrem.com/system-design-1/\">https://books.lextrem.com/system-design-1/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49756105\">https:/...",
-      "published": "2026-09-18T15:45:41+00:00",
-      "domain": "books.lextrem.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Terrasat \u2013 Get Answers from Anywhere on Earth",
-      "link": "https://terrasat.net",
-      "summary": "<p>Article URL: <a href=\"https://terrasat.net\">https://terrasat.net</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49756086\">https://news.ycombinator.com/item?id=49756086</a></...",
-      "published": "2026-09-18T15:44:17+00:00",
-      "domain": "terrasat.net",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The Physics of Database Speed: from 300 to 1M transactions per second [video]",
-      "link": "https://www.youtube.com/watch?v=vOEL_pHFYK0",
-      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=vOEL_pHFYK0\">https://www.youtube.com/watch?v=vOEL_pHFYK0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49756057\">https...",
-      "published": "2026-09-18T15:42:59+00:00",
+      "title": "Data Centers Are Breaking the Power Grid [video]",
+      "link": "https://www.youtube.com/watch?v=X71le3av1So",
+      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=X71le3av1So\">https://www.youtube.com/watch?v=X71le3av1So</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49759655\">https...",
+      "published": "2026-09-18T20:15:36+00:00",
       "domain": "youtube.com",
       "scores": {
         "chaos": 3.0,
@@ -311,11 +275,43 @@
       }
     },
     {
-      "title": "How to Build a Scraping Tool",
-      "link": "https://flaviocopes.com/scraping-tool/",
-      "summary": "<p>Article URL: <a href=\"https://flaviocopes.com/scraping-tool/\">https://flaviocopes.com/scraping-tool/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49756047\">https://news.yc...",
-      "published": "2026-09-18T15:42:28+00:00",
-      "domain": "flaviocopes.com",
+      "title": "Partnering with Accenture on Embedded Evaluation",
+      "link": "https://www.anthropic.com/news/accenture-embedded-evaluation",
+      "summary": "<p>Article URL: <a href=\"https://www.anthropic.com/news/accenture-embedded-evaluation\">https://www.anthropic.com/news/accenture-embedded-evaluation</a></p>\n<p>Comments URL: <a href=\"https://news.ycomb...",
+      "published": "2026-09-18T20:15:12+00:00",
+      "domain": "anthropic.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Korea raises data breach fines to 10% of revenue",
+      "link": "https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49759466\">Comments</a>...",
+      "published": "2026-09-18T20:02:54+00:00",
+      "domain": "koreajoongangdaily.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Microsoft\u2019s Own Executive Called AI Training \u201cthe Largest Theft of Labor in Human History\u201d",
+      "link": "https://www.reddit.com/r/technology/comments/1wjzumd/microsofts_own_executive_called_ai_training_the/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1wjzumd/microsofts_own_executive_called_ai_training_the/\"> <img alt=\"Microsoft\u2019s Own Executive Called AI Training \u201cthe Largest Th...",
+      "published": "2026-09-18T19:27:00+00:00",
+      "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -329,20 +325,34 @@
   ],
   "overall_ranked": [
     {
-      "title": "An Abandoned CDN Domain Was Re-Registered. Thousands of Sites Still Call It.",
-      "link": "https://thehackernews.com/2026/09/an-abandoned-cdn-domain-was-re.html",
-      "summary": "In July 2025, someone registered a domain that used to belong to a content delivery network.&nbsp; The CDN had been wound down years earlier, and the domain it served assets from was allowed to expire...",
-      "published": "2026-09-18T16:31:16+05:30",
+      "title": "Public Exploits Released for Four Linux Kernel Flaws That Enable Local Root",
+      "link": "https://thehackernews.com/2026/09/public-exploits-released-for-four-linux.html",
+      "summary": "A security researcher has released working exploit code for four Linux kernel flaws that each let a local user gain root, the highest level of access on a machine.\n\nKernel maintainers have fixed all f...",
+      "published": "2026-09-18T23:32:24+05:30",
       "domain": "thehackernews.com",
       "scores": {
-        "chaos": 8.7,
+        "chaos": 3.0,
         "anarchy": 3.0,
-        "overall": 5.9
+        "overall": 3.0
       },
       "keywords": {
-        "chaos": [
-          "down"
-        ],
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "New WordPress Click2Shell Flaw Forces Theme Installs, Can Chain to Code Execution",
+      "link": "https://thehackernews.com/2026/09/new-wordpress-click2shell-flaw-forces.html",
+      "summary": "WordPress today released patches to fix a new set of vulnerabilities in its core software, one of which could allow a crafted web link, opened by a logged-in administrator, to install a theme from the...",
+      "published": "2026-09-18T22:26:19+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
         "anarchy": []
       }
     },
@@ -363,11 +373,11 @@
       }
     },
     {
-      "title": "Microsoft Patches CVSS 10.0 Azure AI Foundry Flaw Enabling Unauthorized Privilege Escalation",
-      "link": "https://thehackernews.com/2026/09/microsoft-patches-cvss-100-azure-ai.html",
-      "summary": "Microsoft has released fixes for a maximum-severity security flaw in Azure AI Foundry that could be exploited to achieve privilege escalation. No customer action is required.\n\nThe vulnerability, track...",
-      "published": "2026-09-18T18:17:04+05:30",
-      "domain": "thehackernews.com",
+      "title": "IAM Needs an Architectural Split",
+      "link": "https://gluufederation.medium.com/iam-needs-an-architectural-split-258f0aa13dd4",
+      "summary": "<p>Article URL: <a href=\"https://gluufederation.medium.com/iam-needs-an-architectural-split-258f0aa13dd4\">https://gluufederation.medium.com/iam-needs-an-architectural-split-258f0aa13dd4</a></p>\n<p>Com...",
+      "published": "2026-09-18T20:19:37+00:00",
+      "domain": "gluufederation.medium.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -379,11 +389,11 @@
       }
     },
     {
-      "title": "Plugin4Shell Lets Repository Owners Swap Pinned Plugin Code Across Four AI Coding Agents",
-      "link": "https://thehackernews.com/2026/09/plugin4shell-lets-repository-owners.html",
-      "summary": "A flaw in four widely used AI coding agents lets someone who controls a plugin's code repository swap the plugin an agent installs for a malicious one, even when the agent locked that plugin to a spec...",
-      "published": "2026-09-18T16:31:01+05:30",
-      "domain": "thehackernews.com",
+      "title": "I used Jev to control a swarm of 15 simulated drones in real time",
+      "link": "https://github.com/khordoo/jev-reflex-autonomy-lab/tree/main",
+      "summary": "<p>Article URL: <a href=\"https://github.com/khordoo/jev-reflex-autonomy-lab/tree/main\">https://github.com/khordoo/jev-reflex-autonomy-lab/tree/main</a></p>\n<p>Comments URL: <a href=\"https://news.ycomb...",
+      "published": "2026-09-18T20:19:34+00:00",
+      "domain": "github.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -395,11 +405,11 @@
       }
     },
     {
-      "title": "WeaselBiscuit Stealer Spreads via 13 npm Packages to Harvest Chrome Extension Storage",
-      "link": "https://thehackernews.com/2026/09/weaselbiscuit-stealer-spreads-via-13.html",
-      "summary": "Cybersecurity researchers have discovered a cluster of 13 npm packages that have been found to deliver a previously undocumented JavaScript stealer codenamed WeaselBiscuit.\n\nThe new malware family, pe...",
-      "published": "2026-09-18T16:10:06+05:30",
-      "domain": "thehackernews.com",
+      "title": "Napster Is Now Making AI-Powered 'Digital Twins' of Teachers",
+      "link": "https://gizmodo.com/napster-is-now-making-ai-powered-digital-twins-of-teachers-2000814010",
+      "summary": "<p>Article URL: <a href=\"https://gizmodo.com/napster-is-now-making-ai-powered-digital-twins-of-teachers-2000814010\">https://gizmodo.com/napster-is-now-making-ai-powered-digital-twins-of-teachers-20008...",
+      "published": "2026-09-18T20:19:06+00:00",
+      "domain": "gizmodo.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -411,58 +421,10 @@
       }
     },
     {
-      "title": "Black Holes or Black Hole Stars? Astronomers Spar over 'Little Red Dots'",
-      "link": "https://www.quantamagazine.org/black-holes-or-black-hole-stars-astronomers-spar-over-webb-telescopes-little-red-dots-20260914/",
-      "summary": "<p>Article URL: <a href=\"https://www.quantamagazine.org/black-holes-or-black-hole-stars-astronomers-spar-over-webb-telescopes-little-red-dots-20260914/\">https://www.quantamagazine.org/black-holes-or-b...",
-      "published": "2026-09-18T15:47:14+00:00",
-      "domain": "quantamagazine.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "System Design Unboxed: new eBook and extras",
-      "link": "https://books.lextrem.com/system-design-1/",
-      "summary": "<p>Article URL: <a href=\"https://books.lextrem.com/system-design-1/\">https://books.lextrem.com/system-design-1/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49756105\">https:/...",
-      "published": "2026-09-18T15:45:41+00:00",
-      "domain": "books.lextrem.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Terrasat \u2013 Get Answers from Anywhere on Earth",
-      "link": "https://terrasat.net",
-      "summary": "<p>Article URL: <a href=\"https://terrasat.net\">https://terrasat.net</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49756086\">https://news.ycombinator.com/item?id=49756086</a></...",
-      "published": "2026-09-18T15:44:17+00:00",
-      "domain": "terrasat.net",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The Physics of Database Speed: from 300 to 1M transactions per second [video]",
-      "link": "https://www.youtube.com/watch?v=vOEL_pHFYK0",
-      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=vOEL_pHFYK0\">https://www.youtube.com/watch?v=vOEL_pHFYK0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49756057\">https...",
-      "published": "2026-09-18T15:42:59+00:00",
+      "title": "Data Centers Are Breaking the Power Grid [video]",
+      "link": "https://www.youtube.com/watch?v=X71le3av1So",
+      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=X71le3av1So\">https://www.youtube.com/watch?v=X71le3av1So</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49759655\">https...",
+      "published": "2026-09-18T20:15:36+00:00",
       "domain": "youtube.com",
       "scores": {
         "chaos": 3.0,
@@ -475,11 +437,43 @@
       }
     },
     {
-      "title": "How to Build a Scraping Tool",
-      "link": "https://flaviocopes.com/scraping-tool/",
-      "summary": "<p>Article URL: <a href=\"https://flaviocopes.com/scraping-tool/\">https://flaviocopes.com/scraping-tool/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49756047\">https://news.yc...",
-      "published": "2026-09-18T15:42:28+00:00",
-      "domain": "flaviocopes.com",
+      "title": "Partnering with Accenture on Embedded Evaluation",
+      "link": "https://www.anthropic.com/news/accenture-embedded-evaluation",
+      "summary": "<p>Article URL: <a href=\"https://www.anthropic.com/news/accenture-embedded-evaluation\">https://www.anthropic.com/news/accenture-embedded-evaluation</a></p>\n<p>Comments URL: <a href=\"https://news.ycomb...",
+      "published": "2026-09-18T20:15:12+00:00",
+      "domain": "anthropic.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Korea raises data breach fines to 10% of revenue",
+      "link": "https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49759466\">Comments</a>...",
+      "published": "2026-09-18T20:02:54+00:00",
+      "domain": "koreajoongangdaily.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Microsoft\u2019s Own Executive Called AI Training \u201cthe Largest Theft of Labor in Human History\u201d",
+      "link": "https://www.reddit.com/r/technology/comments/1wjzumd/microsofts_own_executive_called_ai_training_the/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1wjzumd/microsofts_own_executive_called_ai_training_the/\"> <img alt=\"Microsoft\u2019s Own Executive Called AI Training \u201cthe Largest Th...",
+      "published": "2026-09-18T19:27:00+00:00",
+      "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -493,6 +487,38 @@
   ],
   "all_articles": [
     {
+      "title": "Public Exploits Released for Four Linux Kernel Flaws That Enable Local Root",
+      "link": "https://thehackernews.com/2026/09/public-exploits-released-for-four-linux.html",
+      "summary": "A security researcher has released working exploit code for four Linux kernel flaws that each let a local user gain root, the highest level of access on a machine.\n\nKernel maintainers have fixed all f...",
+      "published": "2026-09-18T23:32:24+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "New WordPress Click2Shell Flaw Forces Theme Installs, Can Chain to Code Execution",
+      "link": "https://thehackernews.com/2026/09/new-wordpress-click2shell-flaw-forces.html",
+      "summary": "WordPress today released patches to fix a new set of vulnerabilities in its core software, one of which could allow a crafted web link, opened by a logged-in administrator, to install a theme from the...",
+      "published": "2026-09-18T22:26:19+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "Transparent Tribe Deploys New Rust Backdoor Using Private GitHub Repositories for C2",
       "link": "https://thehackernews.com/2026/09/transparent-tribe-deploys-new-rust.html",
       "summary": "The Pakistan-aligned threat group tracked as Transparent Tribe (aka APT36 and Earth Karkaddan) has been attributed to a fresh set of cyber attacks targeting government and defense entities in India an...",
@@ -509,11 +535,11 @@
       }
     },
     {
-      "title": "Microsoft Patches CVSS 10.0 Azure AI Foundry Flaw Enabling Unauthorized Privilege Escalation",
-      "link": "https://thehackernews.com/2026/09/microsoft-patches-cvss-100-azure-ai.html",
-      "summary": "Microsoft has released fixes for a maximum-severity security flaw in Azure AI Foundry that could be exploited to achieve privilege escalation. No customer action is required.\n\nThe vulnerability, track...",
-      "published": "2026-09-18T18:17:04+05:30",
-      "domain": "thehackernews.com",
+      "title": "IAM Needs an Architectural Split",
+      "link": "https://gluufederation.medium.com/iam-needs-an-architectural-split-258f0aa13dd4",
+      "summary": "<p>Article URL: <a href=\"https://gluufederation.medium.com/iam-needs-an-architectural-split-258f0aa13dd4\">https://gluufederation.medium.com/iam-needs-an-architectural-split-258f0aa13dd4</a></p>\n<p>Com...",
+      "published": "2026-09-18T20:19:37+00:00",
+      "domain": "gluufederation.medium.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -525,29 +551,11 @@
       }
     },
     {
-      "title": "An Abandoned CDN Domain Was Re-Registered. Thousands of Sites Still Call It.",
-      "link": "https://thehackernews.com/2026/09/an-abandoned-cdn-domain-was-re.html",
-      "summary": "In July 2025, someone registered a domain that used to belong to a content delivery network.&nbsp; The CDN had been wound down years earlier, and the domain it served assets from was allowed to expire...",
-      "published": "2026-09-18T16:31:16+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 8.7,
-        "anarchy": 3.0,
-        "overall": 5.9
-      },
-      "keywords": {
-        "chaos": [
-          "down"
-        ],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Plugin4Shell Lets Repository Owners Swap Pinned Plugin Code Across Four AI Coding Agents",
-      "link": "https://thehackernews.com/2026/09/plugin4shell-lets-repository-owners.html",
-      "summary": "A flaw in four widely used AI coding agents lets someone who controls a plugin's code repository swap the plugin an agent installs for a malicious one, even when the agent locked that plugin to a spec...",
-      "published": "2026-09-18T16:31:01+05:30",
-      "domain": "thehackernews.com",
+      "title": "I used Jev to control a swarm of 15 simulated drones in real time",
+      "link": "https://github.com/khordoo/jev-reflex-autonomy-lab/tree/main",
+      "summary": "<p>Article URL: <a href=\"https://github.com/khordoo/jev-reflex-autonomy-lab/tree/main\">https://github.com/khordoo/jev-reflex-autonomy-lab/tree/main</a></p>\n<p>Comments URL: <a href=\"https://news.ycomb...",
+      "published": "2026-09-18T20:19:34+00:00",
+      "domain": "github.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -559,11 +567,11 @@
       }
     },
     {
-      "title": "WeaselBiscuit Stealer Spreads via 13 npm Packages to Harvest Chrome Extension Storage",
-      "link": "https://thehackernews.com/2026/09/weaselbiscuit-stealer-spreads-via-13.html",
-      "summary": "Cybersecurity researchers have discovered a cluster of 13 npm packages that have been found to deliver a previously undocumented JavaScript stealer codenamed WeaselBiscuit.\n\nThe new malware family, pe...",
-      "published": "2026-09-18T16:10:06+05:30",
-      "domain": "thehackernews.com",
+      "title": "Napster Is Now Making AI-Powered 'Digital Twins' of Teachers",
+      "link": "https://gizmodo.com/napster-is-now-making-ai-powered-digital-twins-of-teachers-2000814010",
+      "summary": "<p>Article URL: <a href=\"https://gizmodo.com/napster-is-now-making-ai-powered-digital-twins-of-teachers-2000814010\">https://gizmodo.com/napster-is-now-making-ai-powered-digital-twins-of-teachers-20008...",
+      "published": "2026-09-18T20:19:06+00:00",
+      "domain": "gizmodo.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -575,58 +583,10 @@
       }
     },
     {
-      "title": "Black Holes or Black Hole Stars? Astronomers Spar over 'Little Red Dots'",
-      "link": "https://www.quantamagazine.org/black-holes-or-black-hole-stars-astronomers-spar-over-webb-telescopes-little-red-dots-20260914/",
-      "summary": "<p>Article URL: <a href=\"https://www.quantamagazine.org/black-holes-or-black-hole-stars-astronomers-spar-over-webb-telescopes-little-red-dots-20260914/\">https://www.quantamagazine.org/black-holes-or-b...",
-      "published": "2026-09-18T15:47:14+00:00",
-      "domain": "quantamagazine.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "System Design Unboxed: new eBook and extras",
-      "link": "https://books.lextrem.com/system-design-1/",
-      "summary": "<p>Article URL: <a href=\"https://books.lextrem.com/system-design-1/\">https://books.lextrem.com/system-design-1/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49756105\">https:/...",
-      "published": "2026-09-18T15:45:41+00:00",
-      "domain": "books.lextrem.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Terrasat \u2013 Get Answers from Anywhere on Earth",
-      "link": "https://terrasat.net",
-      "summary": "<p>Article URL: <a href=\"https://terrasat.net\">https://terrasat.net</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49756086\">https://news.ycombinator.com/item?id=49756086</a></...",
-      "published": "2026-09-18T15:44:17+00:00",
-      "domain": "terrasat.net",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The Physics of Database Speed: from 300 to 1M transactions per second [video]",
-      "link": "https://www.youtube.com/watch?v=vOEL_pHFYK0",
-      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=vOEL_pHFYK0\">https://www.youtube.com/watch?v=vOEL_pHFYK0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49756057\">https...",
-      "published": "2026-09-18T15:42:59+00:00",
+      "title": "Data Centers Are Breaking the Power Grid [video]",
+      "link": "https://www.youtube.com/watch?v=X71le3av1So",
+      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=X71le3av1So\">https://www.youtube.com/watch?v=X71le3av1So</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49759655\">https...",
+      "published": "2026-09-18T20:15:36+00:00",
       "domain": "youtube.com",
       "scores": {
         "chaos": 3.0,
@@ -639,11 +599,43 @@
       }
     },
     {
-      "title": "How to Build a Scraping Tool",
-      "link": "https://flaviocopes.com/scraping-tool/",
-      "summary": "<p>Article URL: <a href=\"https://flaviocopes.com/scraping-tool/\">https://flaviocopes.com/scraping-tool/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49756047\">https://news.yc...",
-      "published": "2026-09-18T15:42:28+00:00",
-      "domain": "flaviocopes.com",
+      "title": "Partnering with Accenture on Embedded Evaluation",
+      "link": "https://www.anthropic.com/news/accenture-embedded-evaluation",
+      "summary": "<p>Article URL: <a href=\"https://www.anthropic.com/news/accenture-embedded-evaluation\">https://www.anthropic.com/news/accenture-embedded-evaluation</a></p>\n<p>Comments URL: <a href=\"https://news.ycomb...",
+      "published": "2026-09-18T20:15:12+00:00",
+      "domain": "anthropic.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Korea raises data breach fines to 10% of revenue",
+      "link": "https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49759466\">Comments</a>...",
+      "published": "2026-09-18T20:02:54+00:00",
+      "domain": "koreajoongangdaily.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Microsoft\u2019s Own Executive Called AI Training \u201cthe Largest Theft of Labor in Human History\u201d",
+      "link": "https://www.reddit.com/r/technology/comments/1wjzumd/microsofts_own_executive_called_ai_training_the/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1wjzumd/microsofts_own_executive_called_ai_training_the/\"> <img alt=\"Microsoft\u2019s Own Executive Called AI Training \u201cthe Largest Th...",
+      "published": "2026-09-18T19:27:00+00:00",
+      "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
