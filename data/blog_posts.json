@@ -1,15 +1,33 @@
 {
   "chaos_ranked": [
     {
-      "title": "Google announces new experimental \"CC\" AI agent for families",
-      "link": "https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families/",
-      "summary": "<p>Article URL: <a href=\"https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families/\">https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc...",
-      "published": "2026-09-18T03:14:57+00:00",
-      "domain": "arstechnica.com",
+      "title": "Claimed Bug Bounty Hunter Likely Used LLM to Build PhantomRaven npm Stealer",
+      "link": "https://thehackernews.com/2026/09/claimed-bug-bounty-hunter-likely-used.html",
+      "summary": "A financially motivated threat actor has been linked to the development and distribution of a JavaScript (JS)-based information stealer known as PhantomRaven via the npm package registry.\n\n\"The develo...",
+      "published": "2026-09-18T14:48:03+05:30",
+      "domain": "thehackernews.com",
       "scores": {
-        "chaos": 18.0,
-        "anarchy": 12.0,
-        "overall": 15.0
+        "chaos": 11.3,
+        "anarchy": 3.0,
+        "overall": 7.2
+      },
+      "keywords": {
+        "chaos": [
+          "bug"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "RatHat Android Malware Abuses ADB to Retain Shell Access After Uninstall",
+      "link": "https://thehackernews.com/2026/09/rathat-android-malware-abuses-adb-to.html",
+      "summary": "Cybersecurity researchers have flagged a new Android malware called RatHat that's assessed to be operated by China-based threat actors and features an artificial intelligence (AI)-powered system to na...",
+      "published": "2026-09-18T11:47:25+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
       },
       "keywords": {
         "chaos": [],
@@ -17,28 +35,106 @@
       }
     },
     {
-      "title": "Youper is shutting down \u2013 What kills mental health AI?",
-      "link": "https://www.youper.ai/notice",
-      "summary": "<p>Article URL: <a href=\"https://www.youper.ai/notice\">https://www.youper.ai/notice</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49749872\">https://news.ycombinator.com/item?i...",
-      "published": "2026-09-18T03:23:24+00:00",
-      "domain": "youper.ai",
+      "title": "What we learned using OPFS for browser video storage",
+      "link": "https://www.reactvideoeditor.com/blog/why-we-use-opfs-for-browser-video-storage",
+      "summary": "<p>Article URL: <a href=\"https://www.reactvideoeditor.com/blog/why-we-use-opfs-for-browser-video-storage\">https://www.reactvideoeditor.com/blog/why-we-use-opfs-for-browser-video-storage</a></p>\n<p>Com...",
+      "published": "2026-09-18T10:31:02+00:00",
+      "domain": "reactvideoeditor.com",
       "scores": {
-        "chaos": 9.4,
+        "chaos": 3.0,
         "anarchy": 3.0,
-        "overall": 6.2
+        "overall": 3.0
       },
       "keywords": {
-        "chaos": [
-          "down"
-        ],
+        "chaos": [],
         "anarchy": []
       }
     },
     {
-      "title": "Show HN: Free GitHub Action that scans PR diffs for malicious code, not quality",
-      "link": "https://github.com/marketplace/actions/vigil-pr-scanner",
-      "summary": "<p>I watched a video recently on malicious code injection into OSS repo PRs and how they can go undetected because of how well they're hidden and decided to do a project for this. This tool is essenti...",
-      "published": "2026-09-18T03:20:54+00:00",
+      "title": "ClickHouse permission system has a trivial bypass",
+      "link": "https://zimzi.substack.com/p/clickhouse-permission-system-has",
+      "summary": "<p>Article URL: <a href=\"https://zimzi.substack.com/p/clickhouse-permission-system-has\">https://zimzi.substack.com/p/clickhouse-permission-system-has</a></p>\n<p>Comments URL: <a href=\"https://news.yco...",
+      "published": "2026-09-18T10:28:50+00:00",
+      "domain": "zimzi.substack.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Top Chinese AI models make 10% of OpenAI",
+      "link": "https://www.scmp.com/tech/big-tech/article/3367991/top-chinese-ai-models-make-10-openai-anthropic-revenue-despite-high-valuations-report",
+      "summary": "<p>Article URL: <a href=\"https://www.scmp.com/tech/big-tech/article/3367991/top-chinese-ai-models-make-10-openai-anthropic-revenue-despite-high-valuations-report\">https://www.scmp.com/tech/big-tech/ar...",
+      "published": "2026-09-18T10:28:14+00:00",
+      "domain": "scmp.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Getting Freaky in the Age of AI",
+      "link": "https://www.iankduncan.com/engineering/2026-08-07-getting-freaky-in-the-age-of-ai/",
+      "summary": "<p>Article URL: <a href=\"https://www.iankduncan.com/engineering/2026-08-07-getting-freaky-in-the-age-of-ai/\">https://www.iankduncan.com/engineering/2026-08-07-getting-freaky-in-the-age-of-ai/</a></p>\n...",
+      "published": "2026-09-18T10:27:38+00:00",
+      "domain": "iankduncan.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Europe's Most Valuable Startup Gave Data to a Scammer",
+      "link": "https://www.wsj.com/tech/cybersecurity/europes-most-valuable-startup-gave-data-to-a-scammer-now-it-faces-a-shakedown-c29740fd",
+      "summary": "<p>Article URL: <a href=\"https://www.wsj.com/tech/cybersecurity/europes-most-valuable-startup-gave-data-to-a-scammer-now-it-faces-a-shakedown-c29740fd\">https://www.wsj.com/tech/cybersecurity/europes-m...",
+      "published": "2026-09-18T10:25:42+00:00",
+      "domain": "wsj.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "OpenJev",
+      "link": "https://openjev.com/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49752041\">Comments</a>...",
+      "published": "2026-09-18T09:42:22+00:00",
+      "domain": "openjev.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Jemalloc 5.4.0",
+      "link": "https://github.com/jemalloc/jemalloc/releases/tag/5.4.0",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49750152\">Comments</a>...",
+      "published": "2026-09-18T04:20:24+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -51,107 +147,11 @@
       }
     },
     {
-      "title": "The Bitterest Lesson",
-      "link": "https://typesafe.ai/blog/bitterest-lesson",
-      "summary": "<p>Article URL: <a href=\"https://typesafe.ai/blog/bitterest-lesson\">https://typesafe.ai/blog/bitterest-lesson</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49749834\">https://n...",
-      "published": "2026-09-18T03:16:03+00:00",
-      "domain": "typesafe.ai",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: Green Screen Remover \u2013 free in-browser chroma key, nothing uploaded",
-      "link": "https://greenscreenremover.net/",
-      "summary": "<p>Article URL: <a href=\"https://greenscreenremover.net/\">https://greenscreenremover.net/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49749795\">https://news.ycombinator.com/...",
-      "published": "2026-09-18T03:09:02+00:00",
-      "domain": "greenscreenremover.net",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Alibaba releases Qwen 3.8 Omni Flash",
-      "link": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49747925\">Comments</a>...",
-      "published": "2026-09-17T23:05:48+00:00",
-      "domain": "qwen.ai",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
-      "link": "https://prismml.com/news/bonsai-2-27b",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49746618\">Comments</a>...",
-      "published": "2026-09-17T21:13:31+00:00",
-      "domain": "prismml.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Bend \u2013 A language that blocks AI mistakes via proof, on CPU and GPU",
-      "link": "https://bend-lang.com/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49746163\">Comments</a>...",
-      "published": "2026-09-17T20:36:13+00:00",
-      "domain": "bend-lang.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Astra for Law",
-      "link": "https://openai.com/index/astra-for-law/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49745940\">Comments</a>...",
-      "published": "2026-09-17T20:17:48+00:00",
-      "domain": "openai.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Making global data easier to explore",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
-      "summary": "UN System Data Commons Data webpage...",
-      "published": "2026-09-17T20:00:00+00:00",
-      "domain": "blog.google",
+      "title": "The scourge of x86 emulation",
+      "link": "https://fex-emu.com/Scourge-of-emulation/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49750094\">Comments</a>...",
+      "published": "2026-09-18T04:09:48+00:00",
+      "domain": "fex-emu.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -165,15 +165,33 @@
   ],
   "anarchy_ranked": [
     {
-      "title": "Google announces new experimental \"CC\" AI agent for families",
-      "link": "https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families/",
-      "summary": "<p>Article URL: <a href=\"https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families/\">https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc...",
-      "published": "2026-09-18T03:14:57+00:00",
-      "domain": "arstechnica.com",
+      "title": "Claimed Bug Bounty Hunter Likely Used LLM to Build PhantomRaven npm Stealer",
+      "link": "https://thehackernews.com/2026/09/claimed-bug-bounty-hunter-likely-used.html",
+      "summary": "A financially motivated threat actor has been linked to the development and distribution of a JavaScript (JS)-based information stealer known as PhantomRaven via the npm package registry.\n\n\"The develo...",
+      "published": "2026-09-18T14:48:03+05:30",
+      "domain": "thehackernews.com",
       "scores": {
-        "chaos": 18.0,
-        "anarchy": 12.0,
-        "overall": 15.0
+        "chaos": 11.3,
+        "anarchy": 3.0,
+        "overall": 7.2
+      },
+      "keywords": {
+        "chaos": [
+          "bug"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "RatHat Android Malware Abuses ADB to Retain Shell Access After Uninstall",
+      "link": "https://thehackernews.com/2026/09/rathat-android-malware-abuses-adb-to.html",
+      "summary": "Cybersecurity researchers have flagged a new Android malware called RatHat that's assessed to be operated by China-based threat actors and features an artificial intelligence (AI)-powered system to na...",
+      "published": "2026-09-18T11:47:25+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
       },
       "keywords": {
         "chaos": [],
@@ -181,28 +199,106 @@
       }
     },
     {
-      "title": "Youper is shutting down \u2013 What kills mental health AI?",
-      "link": "https://www.youper.ai/notice",
-      "summary": "<p>Article URL: <a href=\"https://www.youper.ai/notice\">https://www.youper.ai/notice</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49749872\">https://news.ycombinator.com/item?i...",
-      "published": "2026-09-18T03:23:24+00:00",
-      "domain": "youper.ai",
+      "title": "What we learned using OPFS for browser video storage",
+      "link": "https://www.reactvideoeditor.com/blog/why-we-use-opfs-for-browser-video-storage",
+      "summary": "<p>Article URL: <a href=\"https://www.reactvideoeditor.com/blog/why-we-use-opfs-for-browser-video-storage\">https://www.reactvideoeditor.com/blog/why-we-use-opfs-for-browser-video-storage</a></p>\n<p>Com...",
+      "published": "2026-09-18T10:31:02+00:00",
+      "domain": "reactvideoeditor.com",
       "scores": {
-        "chaos": 9.4,
+        "chaos": 3.0,
         "anarchy": 3.0,
-        "overall": 6.2
+        "overall": 3.0
       },
       "keywords": {
-        "chaos": [
-          "down"
-        ],
+        "chaos": [],
         "anarchy": []
       }
     },
     {
-      "title": "Show HN: Free GitHub Action that scans PR diffs for malicious code, not quality",
-      "link": "https://github.com/marketplace/actions/vigil-pr-scanner",
-      "summary": "<p>I watched a video recently on malicious code injection into OSS repo PRs and how they can go undetected because of how well they're hidden and decided to do a project for this. This tool is essenti...",
-      "published": "2026-09-18T03:20:54+00:00",
+      "title": "ClickHouse permission system has a trivial bypass",
+      "link": "https://zimzi.substack.com/p/clickhouse-permission-system-has",
+      "summary": "<p>Article URL: <a href=\"https://zimzi.substack.com/p/clickhouse-permission-system-has\">https://zimzi.substack.com/p/clickhouse-permission-system-has</a></p>\n<p>Comments URL: <a href=\"https://news.yco...",
+      "published": "2026-09-18T10:28:50+00:00",
+      "domain": "zimzi.substack.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Top Chinese AI models make 10% of OpenAI",
+      "link": "https://www.scmp.com/tech/big-tech/article/3367991/top-chinese-ai-models-make-10-openai-anthropic-revenue-despite-high-valuations-report",
+      "summary": "<p>Article URL: <a href=\"https://www.scmp.com/tech/big-tech/article/3367991/top-chinese-ai-models-make-10-openai-anthropic-revenue-despite-high-valuations-report\">https://www.scmp.com/tech/big-tech/ar...",
+      "published": "2026-09-18T10:28:14+00:00",
+      "domain": "scmp.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Getting Freaky in the Age of AI",
+      "link": "https://www.iankduncan.com/engineering/2026-08-07-getting-freaky-in-the-age-of-ai/",
+      "summary": "<p>Article URL: <a href=\"https://www.iankduncan.com/engineering/2026-08-07-getting-freaky-in-the-age-of-ai/\">https://www.iankduncan.com/engineering/2026-08-07-getting-freaky-in-the-age-of-ai/</a></p>\n...",
+      "published": "2026-09-18T10:27:38+00:00",
+      "domain": "iankduncan.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Europe's Most Valuable Startup Gave Data to a Scammer",
+      "link": "https://www.wsj.com/tech/cybersecurity/europes-most-valuable-startup-gave-data-to-a-scammer-now-it-faces-a-shakedown-c29740fd",
+      "summary": "<p>Article URL: <a href=\"https://www.wsj.com/tech/cybersecurity/europes-most-valuable-startup-gave-data-to-a-scammer-now-it-faces-a-shakedown-c29740fd\">https://www.wsj.com/tech/cybersecurity/europes-m...",
+      "published": "2026-09-18T10:25:42+00:00",
+      "domain": "wsj.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "OpenJev",
+      "link": "https://openjev.com/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49752041\">Comments</a>...",
+      "published": "2026-09-18T09:42:22+00:00",
+      "domain": "openjev.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Jemalloc 5.4.0",
+      "link": "https://github.com/jemalloc/jemalloc/releases/tag/5.4.0",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49750152\">Comments</a>...",
+      "published": "2026-09-18T04:20:24+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -215,107 +311,11 @@
       }
     },
     {
-      "title": "The Bitterest Lesson",
-      "link": "https://typesafe.ai/blog/bitterest-lesson",
-      "summary": "<p>Article URL: <a href=\"https://typesafe.ai/blog/bitterest-lesson\">https://typesafe.ai/blog/bitterest-lesson</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49749834\">https://n...",
-      "published": "2026-09-18T03:16:03+00:00",
-      "domain": "typesafe.ai",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: Green Screen Remover \u2013 free in-browser chroma key, nothing uploaded",
-      "link": "https://greenscreenremover.net/",
-      "summary": "<p>Article URL: <a href=\"https://greenscreenremover.net/\">https://greenscreenremover.net/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49749795\">https://news.ycombinator.com/...",
-      "published": "2026-09-18T03:09:02+00:00",
-      "domain": "greenscreenremover.net",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Alibaba releases Qwen 3.8 Omni Flash",
-      "link": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49747925\">Comments</a>...",
-      "published": "2026-09-17T23:05:48+00:00",
-      "domain": "qwen.ai",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
-      "link": "https://prismml.com/news/bonsai-2-27b",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49746618\">Comments</a>...",
-      "published": "2026-09-17T21:13:31+00:00",
-      "domain": "prismml.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Bend \u2013 A language that blocks AI mistakes via proof, on CPU and GPU",
-      "link": "https://bend-lang.com/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49746163\">Comments</a>...",
-      "published": "2026-09-17T20:36:13+00:00",
-      "domain": "bend-lang.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Astra for Law",
-      "link": "https://openai.com/index/astra-for-law/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49745940\">Comments</a>...",
-      "published": "2026-09-17T20:17:48+00:00",
-      "domain": "openai.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Making global data easier to explore",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
-      "summary": "UN System Data Commons Data webpage...",
-      "published": "2026-09-17T20:00:00+00:00",
-      "domain": "blog.google",
+      "title": "The scourge of x86 emulation",
+      "link": "https://fex-emu.com/Scourge-of-emulation/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49750094\">Comments</a>...",
+      "published": "2026-09-18T04:09:48+00:00",
+      "domain": "fex-emu.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -329,15 +329,33 @@
   ],
   "overall_ranked": [
     {
-      "title": "Google announces new experimental \"CC\" AI agent for families",
-      "link": "https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families/",
-      "summary": "<p>Article URL: <a href=\"https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families/\">https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc...",
-      "published": "2026-09-18T03:14:57+00:00",
-      "domain": "arstechnica.com",
+      "title": "Claimed Bug Bounty Hunter Likely Used LLM to Build PhantomRaven npm Stealer",
+      "link": "https://thehackernews.com/2026/09/claimed-bug-bounty-hunter-likely-used.html",
+      "summary": "A financially motivated threat actor has been linked to the development and distribution of a JavaScript (JS)-based information stealer known as PhantomRaven via the npm package registry.\n\n\"The develo...",
+      "published": "2026-09-18T14:48:03+05:30",
+      "domain": "thehackernews.com",
       "scores": {
-        "chaos": 18.0,
-        "anarchy": 12.0,
-        "overall": 15.0
+        "chaos": 11.3,
+        "anarchy": 3.0,
+        "overall": 7.2
+      },
+      "keywords": {
+        "chaos": [
+          "bug"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "RatHat Android Malware Abuses ADB to Retain Shell Access After Uninstall",
+      "link": "https://thehackernews.com/2026/09/rathat-android-malware-abuses-adb-to.html",
+      "summary": "Cybersecurity researchers have flagged a new Android malware called RatHat that's assessed to be operated by China-based threat actors and features an artificial intelligence (AI)-powered system to na...",
+      "published": "2026-09-18T11:47:25+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
       },
       "keywords": {
         "chaos": [],
@@ -345,28 +363,106 @@
       }
     },
     {
-      "title": "Youper is shutting down \u2013 What kills mental health AI?",
-      "link": "https://www.youper.ai/notice",
-      "summary": "<p>Article URL: <a href=\"https://www.youper.ai/notice\">https://www.youper.ai/notice</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49749872\">https://news.ycombinator.com/item?i...",
-      "published": "2026-09-18T03:23:24+00:00",
-      "domain": "youper.ai",
+      "title": "What we learned using OPFS for browser video storage",
+      "link": "https://www.reactvideoeditor.com/blog/why-we-use-opfs-for-browser-video-storage",
+      "summary": "<p>Article URL: <a href=\"https://www.reactvideoeditor.com/blog/why-we-use-opfs-for-browser-video-storage\">https://www.reactvideoeditor.com/blog/why-we-use-opfs-for-browser-video-storage</a></p>\n<p>Com...",
+      "published": "2026-09-18T10:31:02+00:00",
+      "domain": "reactvideoeditor.com",
       "scores": {
-        "chaos": 9.4,
+        "chaos": 3.0,
         "anarchy": 3.0,
-        "overall": 6.2
+        "overall": 3.0
       },
       "keywords": {
-        "chaos": [
-          "down"
-        ],
+        "chaos": [],
         "anarchy": []
       }
     },
     {
-      "title": "Show HN: Free GitHub Action that scans PR diffs for malicious code, not quality",
-      "link": "https://github.com/marketplace/actions/vigil-pr-scanner",
-      "summary": "<p>I watched a video recently on malicious code injection into OSS repo PRs and how they can go undetected because of how well they're hidden and decided to do a project for this. This tool is essenti...",
-      "published": "2026-09-18T03:20:54+00:00",
+      "title": "ClickHouse permission system has a trivial bypass",
+      "link": "https://zimzi.substack.com/p/clickhouse-permission-system-has",
+      "summary": "<p>Article URL: <a href=\"https://zimzi.substack.com/p/clickhouse-permission-system-has\">https://zimzi.substack.com/p/clickhouse-permission-system-has</a></p>\n<p>Comments URL: <a href=\"https://news.yco...",
+      "published": "2026-09-18T10:28:50+00:00",
+      "domain": "zimzi.substack.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Top Chinese AI models make 10% of OpenAI",
+      "link": "https://www.scmp.com/tech/big-tech/article/3367991/top-chinese-ai-models-make-10-openai-anthropic-revenue-despite-high-valuations-report",
+      "summary": "<p>Article URL: <a href=\"https://www.scmp.com/tech/big-tech/article/3367991/top-chinese-ai-models-make-10-openai-anthropic-revenue-despite-high-valuations-report\">https://www.scmp.com/tech/big-tech/ar...",
+      "published": "2026-09-18T10:28:14+00:00",
+      "domain": "scmp.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Getting Freaky in the Age of AI",
+      "link": "https://www.iankduncan.com/engineering/2026-08-07-getting-freaky-in-the-age-of-ai/",
+      "summary": "<p>Article URL: <a href=\"https://www.iankduncan.com/engineering/2026-08-07-getting-freaky-in-the-age-of-ai/\">https://www.iankduncan.com/engineering/2026-08-07-getting-freaky-in-the-age-of-ai/</a></p>\n...",
+      "published": "2026-09-18T10:27:38+00:00",
+      "domain": "iankduncan.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Europe's Most Valuable Startup Gave Data to a Scammer",
+      "link": "https://www.wsj.com/tech/cybersecurity/europes-most-valuable-startup-gave-data-to-a-scammer-now-it-faces-a-shakedown-c29740fd",
+      "summary": "<p>Article URL: <a href=\"https://www.wsj.com/tech/cybersecurity/europes-most-valuable-startup-gave-data-to-a-scammer-now-it-faces-a-shakedown-c29740fd\">https://www.wsj.com/tech/cybersecurity/europes-m...",
+      "published": "2026-09-18T10:25:42+00:00",
+      "domain": "wsj.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "OpenJev",
+      "link": "https://openjev.com/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49752041\">Comments</a>...",
+      "published": "2026-09-18T09:42:22+00:00",
+      "domain": "openjev.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Jemalloc 5.4.0",
+      "link": "https://github.com/jemalloc/jemalloc/releases/tag/5.4.0",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49750152\">Comments</a>...",
+      "published": "2026-09-18T04:20:24+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -379,107 +475,11 @@
       }
     },
     {
-      "title": "The Bitterest Lesson",
-      "link": "https://typesafe.ai/blog/bitterest-lesson",
-      "summary": "<p>Article URL: <a href=\"https://typesafe.ai/blog/bitterest-lesson\">https://typesafe.ai/blog/bitterest-lesson</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49749834\">https://n...",
-      "published": "2026-09-18T03:16:03+00:00",
-      "domain": "typesafe.ai",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: Green Screen Remover \u2013 free in-browser chroma key, nothing uploaded",
-      "link": "https://greenscreenremover.net/",
-      "summary": "<p>Article URL: <a href=\"https://greenscreenremover.net/\">https://greenscreenremover.net/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49749795\">https://news.ycombinator.com/...",
-      "published": "2026-09-18T03:09:02+00:00",
-      "domain": "greenscreenremover.net",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Alibaba releases Qwen 3.8 Omni Flash",
-      "link": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49747925\">Comments</a>...",
-      "published": "2026-09-17T23:05:48+00:00",
-      "domain": "qwen.ai",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
-      "link": "https://prismml.com/news/bonsai-2-27b",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49746618\">Comments</a>...",
-      "published": "2026-09-17T21:13:31+00:00",
-      "domain": "prismml.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Bend \u2013 A language that blocks AI mistakes via proof, on CPU and GPU",
-      "link": "https://bend-lang.com/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49746163\">Comments</a>...",
-      "published": "2026-09-17T20:36:13+00:00",
-      "domain": "bend-lang.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Astra for Law",
-      "link": "https://openai.com/index/astra-for-law/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49745940\">Comments</a>...",
-      "published": "2026-09-17T20:17:48+00:00",
-      "domain": "openai.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Making global data easier to explore",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
-      "summary": "UN System Data Commons Data webpage...",
-      "published": "2026-09-17T20:00:00+00:00",
-      "domain": "blog.google",
+      "title": "The scourge of x86 emulation",
+      "link": "https://fex-emu.com/Scourge-of-emulation/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49750094\">Comments</a>...",
+      "published": "2026-09-18T04:09:48+00:00",
+      "domain": "fex-emu.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -493,28 +493,140 @@
   ],
   "all_articles": [
     {
-      "title": "Youper is shutting down \u2013 What kills mental health AI?",
-      "link": "https://www.youper.ai/notice",
-      "summary": "<p>Article URL: <a href=\"https://www.youper.ai/notice\">https://www.youper.ai/notice</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49749872\">https://news.ycombinator.com/item?i...",
-      "published": "2026-09-18T03:23:24+00:00",
-      "domain": "youper.ai",
+      "title": "Claimed Bug Bounty Hunter Likely Used LLM to Build PhantomRaven npm Stealer",
+      "link": "https://thehackernews.com/2026/09/claimed-bug-bounty-hunter-likely-used.html",
+      "summary": "A financially motivated threat actor has been linked to the development and distribution of a JavaScript (JS)-based information stealer known as PhantomRaven via the npm package registry.\n\n\"The develo...",
+      "published": "2026-09-18T14:48:03+05:30",
+      "domain": "thehackernews.com",
       "scores": {
-        "chaos": 9.4,
+        "chaos": 11.3,
         "anarchy": 3.0,
-        "overall": 6.2
+        "overall": 7.2
       },
       "keywords": {
         "chaos": [
-          "down"
+          "bug"
         ],
         "anarchy": []
       }
     },
     {
-      "title": "Show HN: Free GitHub Action that scans PR diffs for malicious code, not quality",
-      "link": "https://github.com/marketplace/actions/vigil-pr-scanner",
-      "summary": "<p>I watched a video recently on malicious code injection into OSS repo PRs and how they can go undetected because of how well they're hidden and decided to do a project for this. This tool is essenti...",
-      "published": "2026-09-18T03:20:54+00:00",
+      "title": "RatHat Android Malware Abuses ADB to Retain Shell Access After Uninstall",
+      "link": "https://thehackernews.com/2026/09/rathat-android-malware-abuses-adb-to.html",
+      "summary": "Cybersecurity researchers have flagged a new Android malware called RatHat that's assessed to be operated by China-based threat actors and features an artificial intelligence (AI)-powered system to na...",
+      "published": "2026-09-18T11:47:25+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "What we learned using OPFS for browser video storage",
+      "link": "https://www.reactvideoeditor.com/blog/why-we-use-opfs-for-browser-video-storage",
+      "summary": "<p>Article URL: <a href=\"https://www.reactvideoeditor.com/blog/why-we-use-opfs-for-browser-video-storage\">https://www.reactvideoeditor.com/blog/why-we-use-opfs-for-browser-video-storage</a></p>\n<p>Com...",
+      "published": "2026-09-18T10:31:02+00:00",
+      "domain": "reactvideoeditor.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "ClickHouse permission system has a trivial bypass",
+      "link": "https://zimzi.substack.com/p/clickhouse-permission-system-has",
+      "summary": "<p>Article URL: <a href=\"https://zimzi.substack.com/p/clickhouse-permission-system-has\">https://zimzi.substack.com/p/clickhouse-permission-system-has</a></p>\n<p>Comments URL: <a href=\"https://news.yco...",
+      "published": "2026-09-18T10:28:50+00:00",
+      "domain": "zimzi.substack.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Top Chinese AI models make 10% of OpenAI",
+      "link": "https://www.scmp.com/tech/big-tech/article/3367991/top-chinese-ai-models-make-10-openai-anthropic-revenue-despite-high-valuations-report",
+      "summary": "<p>Article URL: <a href=\"https://www.scmp.com/tech/big-tech/article/3367991/top-chinese-ai-models-make-10-openai-anthropic-revenue-despite-high-valuations-report\">https://www.scmp.com/tech/big-tech/ar...",
+      "published": "2026-09-18T10:28:14+00:00",
+      "domain": "scmp.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Getting Freaky in the Age of AI",
+      "link": "https://www.iankduncan.com/engineering/2026-08-07-getting-freaky-in-the-age-of-ai/",
+      "summary": "<p>Article URL: <a href=\"https://www.iankduncan.com/engineering/2026-08-07-getting-freaky-in-the-age-of-ai/\">https://www.iankduncan.com/engineering/2026-08-07-getting-freaky-in-the-age-of-ai/</a></p>\n...",
+      "published": "2026-09-18T10:27:38+00:00",
+      "domain": "iankduncan.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Europe's Most Valuable Startup Gave Data to a Scammer",
+      "link": "https://www.wsj.com/tech/cybersecurity/europes-most-valuable-startup-gave-data-to-a-scammer-now-it-faces-a-shakedown-c29740fd",
+      "summary": "<p>Article URL: <a href=\"https://www.wsj.com/tech/cybersecurity/europes-most-valuable-startup-gave-data-to-a-scammer-now-it-faces-a-shakedown-c29740fd\">https://www.wsj.com/tech/cybersecurity/europes-m...",
+      "published": "2026-09-18T10:25:42+00:00",
+      "domain": "wsj.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "OpenJev",
+      "link": "https://openjev.com/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49752041\">Comments</a>...",
+      "published": "2026-09-18T09:42:22+00:00",
+      "domain": "openjev.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Jemalloc 5.4.0",
+      "link": "https://github.com/jemalloc/jemalloc/releases/tag/5.4.0",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49750152\">Comments</a>...",
+      "published": "2026-09-18T04:20:24+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -527,123 +639,11 @@
       }
     },
     {
-      "title": "The Bitterest Lesson",
-      "link": "https://typesafe.ai/blog/bitterest-lesson",
-      "summary": "<p>Article URL: <a href=\"https://typesafe.ai/blog/bitterest-lesson\">https://typesafe.ai/blog/bitterest-lesson</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49749834\">https://n...",
-      "published": "2026-09-18T03:16:03+00:00",
-      "domain": "typesafe.ai",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Google announces new experimental \"CC\" AI agent for families",
-      "link": "https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families/",
-      "summary": "<p>Article URL: <a href=\"https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families/\">https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc...",
-      "published": "2026-09-18T03:14:57+00:00",
-      "domain": "arstechnica.com",
-      "scores": {
-        "chaos": 18.0,
-        "anarchy": 12.0,
-        "overall": 15.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: Green Screen Remover \u2013 free in-browser chroma key, nothing uploaded",
-      "link": "https://greenscreenremover.net/",
-      "summary": "<p>Article URL: <a href=\"https://greenscreenremover.net/\">https://greenscreenremover.net/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49749795\">https://news.ycombinator.com/...",
-      "published": "2026-09-18T03:09:02+00:00",
-      "domain": "greenscreenremover.net",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Alibaba releases Qwen 3.8 Omni Flash",
-      "link": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49747925\">Comments</a>...",
-      "published": "2026-09-17T23:05:48+00:00",
-      "domain": "qwen.ai",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
-      "link": "https://prismml.com/news/bonsai-2-27b",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49746618\">Comments</a>...",
-      "published": "2026-09-17T21:13:31+00:00",
-      "domain": "prismml.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Bend \u2013 A language that blocks AI mistakes via proof, on CPU and GPU",
-      "link": "https://bend-lang.com/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49746163\">Comments</a>...",
-      "published": "2026-09-17T20:36:13+00:00",
-      "domain": "bend-lang.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Astra for Law",
-      "link": "https://openai.com/index/astra-for-law/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49745940\">Comments</a>...",
-      "published": "2026-09-17T20:17:48+00:00",
-      "domain": "openai.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Making global data easier to explore",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
-      "summary": "UN System Data Commons Data webpage...",
-      "published": "2026-09-17T20:00:00+00:00",
-      "domain": "blog.google",
+      "title": "The scourge of x86 emulation",
+      "link": "https://fex-emu.com/Scourge-of-emulation/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49750094\">Comments</a>...",
+      "published": "2026-09-18T04:09:48+00:00",
+      "domain": "fex-emu.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,

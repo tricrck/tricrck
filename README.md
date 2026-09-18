@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Google announces new experimental "CC" AI agent for families
+### Claimed Bug Bounty Hunter Likely Used LLM to Build PhantomRaven npm Stealer
 - **Published**: September 18, 2026
-- **Summary**: https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc......
-- [Read more](https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families/)
+- **Summary**: A financially motivated threat actor has been linked to the development and distribution of a JavaScript (JS)-based information stealer known as Phant...
+- **Keywords**: bug
+- [Read more](https://thehackernews.com/2026/09/claimed-bug-bounty-hunter-likely-used.html)
 
-### Youper is shutting down – What kills mental health AI?
+### RatHat Android Malware Abuses ADB to Retain Shell Access After Uninstall
 - **Published**: September 18, 2026
-- **Summary**: https://www.youper.ai/notice</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49749872">https://news.ycombinator.com/item?i......
-- **Keywords**: down
-- [Read more](https://www.youper.ai/notice)
+- **Summary**: Cybersecurity researchers have flagged a new Android malware called RatHat that's assessed to be operated by China-based threat actors and features an...
+- [Read more](https://thehackernews.com/2026/09/rathat-android-malware-abuses-adb-to.html)
 
 ---
 
