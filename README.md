@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar
-- **Published**: September 19, 2026
-- **Summary**: A new CVE drops. Your scanner finds it. The severity score looks ugly.
+### Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws
+- **Published**: September 20, 2026
+- **Summary**: Three researchers at the security firm&nbsp;Hacktron&nbsp;used Anthropic's Claude Opus 5 to chain two flaws and take over the ChatGPT and Codex accoun...
+- [Read more](https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html)
 
-But that still does not answer the question that matters: Can it actually be e...
-- [Read more](https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html)
-
-### Identity Visibility in 2026: The Foundation of Identity Security
+### Confessions of an Unrepentant Slop Snob
 - **Published**: September 19, 2026
-- **Summary**: Identity visibility is a starting point for modern identity security, because stolen and misused credentials are among the most frequently reported in...
-- [Read more](https://thehackernews.com/2026/09/identity-visibility-in-2026-foundation.html)
+- **Summary**: https://charity.wtf/p/confessions-of-an-unrepentant-slop</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.c......
+- [Read more](https://charity.wtf/p/confessions-of-an-unrepentant-slop)
 
 ---
 
