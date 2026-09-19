@@ -16,17 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Critical Pre-Auth RCE in Orkes Conductor Workflow Platform Exploited in the Wild
+### Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar
 - **Published**: September 19, 2026
-- **Summary**: A critical vulnerability impacting Orkes Conductor is being actively exploited in the wild, according to Fortinet.
+- **Summary**: A new CVE drops. Your scanner finds it. The severity score looks ugly.
 
-The vulnerability in question is C...
-- [Read more](https://thehackernews.com/2026/09/critical-pre-auth-rce-in-orkes.html)
+But that still does not answer the question that matters: Can it actually be e...
+- [Read more](https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html)
 
-### Google Gemini Broke Into Real Company Systems After Security Test Domain Mix-Up
+### Identity Visibility in 2026: The Foundation of Identity Security
 - **Published**: September 19, 2026
-- **Summary**: Google's Gemini model has become the latest artificial intelligence (AI) system to access the internet and break into other companies during a cyberse...
-- [Read more](https://thehackernews.com/2026/09/google-gemini-broke-into-real-company.html)
+- **Summary**: Identity visibility is a starting point for modern identity security, because stolen and misused credentials are among the most frequently reported in...
+- [Read more](https://thehackernews.com/2026/09/identity-visibility-in-2026-foundation.html)
 
 ---
 
