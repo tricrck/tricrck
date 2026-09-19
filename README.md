@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Public Exploits Released for Four Linux Kernel Flaws That Enable Local Root
-- **Published**: September 18, 2026
-- **Summary**: A security researcher has released working exploit code for four Linux kernel flaws that each let a local user gain root, the highest level of access ...
-- [Read more](https://thehackernews.com/2026/09/public-exploits-released-for-four-linux.html)
+### NASA's Moon Orbiter Spots New, 'Once-in-Century' Moon Crater
+- **Published**: September 19, 2026
+- **Summary**: https://science.nasa.gov/solar-system/moon/nasas-moon-orbiter-spots-new-o......
+- [Read more](https://science.nasa.gov/solar-system/moon/nasas-moon-orbiter-spots-new-once-in-century-moon-crater/)
 
-### New WordPress Click2Shell Flaw Forces Theme Installs, Can Chain to Code Execution
-- **Published**: September 18, 2026
-- **Summary**: WordPress today released patches to fix a new set of vulnerabilities in its core software, one of which could allow a crafted web link, opened by a lo...
-- [Read more](https://thehackernews.com/2026/09/new-wordpress-click2shell-flaw-forces.html)
+### Executive order on H-1B nonimmigrant visa administration
+- **Published**: September 19, 2026
+- **Summary**: Article URL: <a href="https://www.whitehouse.gov/presidential-actions/2026/09/enhancing-program-integrity-and-integrity-and-interagency-coordination-i...
+- [Read more](https://www.whitehouse.gov/presidential-actions/2026/09/enhancing-program-integrity-and-integrity-and-interagency-coordination-in-the-administration-of-the-h-1b-nonimmigrant-visa-program/)
 
 ---
 
