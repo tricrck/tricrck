@@ -1,122 +1,10 @@
 {
   "chaos_ranked": [
     {
-      "title": "NASA's Moon Orbiter Spots New, 'Once-in-Century' Moon Crater",
-      "link": "https://science.nasa.gov/solar-system/moon/nasas-moon-orbiter-spots-new-once-in-century-moon-crater/",
-      "summary": "<p>Article URL: <a href=\"https://science.nasa.gov/solar-system/moon/nasas-moon-orbiter-spots-new-once-in-century-moon-crater/\">https://science.nasa.gov/solar-system/moon/nasas-moon-orbiter-spots-new-o...",
-      "published": "2026-09-19T03:21:52+00:00",
-      "domain": "science.nasa.gov",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Executive order on H-1B nonimmigrant visa administration",
-      "link": "https://www.whitehouse.gov/presidential-actions/2026/09/enhancing-program-integrity-and-integrity-and-interagency-coordination-in-the-administration-of-the-h-1b-nonimmigrant-visa-program/",
-      "summary": "<p>Article URL: <a href=\"https://www.whitehouse.gov/presidential-actions/2026/09/enhancing-program-integrity-and-integrity-and-interagency-coordination-in-the-administration-of-the-h-1b-nonimmigrant-v...",
-      "published": "2026-09-19T03:16:31+00:00",
-      "domain": "whitehouse.gov",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "A more sober look at the HuggingFace incident",
-      "link": "https://www.wsj.com/opinion/the-hugging-face-hack-wasnt-what-it-was-cracked-up-to-be-e00cf3fa",
-      "summary": "<p>Article URL: <a href=\"https://www.wsj.com/opinion/the-hugging-face-hack-wasnt-what-it-was-cracked-up-to-be-e00cf3fa\">https://www.wsj.com/opinion/the-hugging-face-hack-wasnt-what-it-was-cracked-up-t...",
-      "published": "2026-09-19T03:16:04+00:00",
-      "domain": "wsj.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "AI Regulation and the China Question",
-      "link": "https://casssunstein.substack.com/p/ai-regulation-and-the-china-question",
-      "summary": "<p>Article URL: <a href=\"https://casssunstein.substack.com/p/ai-regulation-and-the-china-question\">https://casssunstein.substack.com/p/ai-regulation-and-the-china-question</a></p>\n<p>Comments URL: <a ...",
-      "published": "2026-09-19T03:15:41+00:00",
-      "domain": "casssunstein.substack.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "ASI risk debate with Nate Soares [video]",
-      "link": "https://www.youtube.com/watch?v=OhOmLqR5nN4",
-      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=OhOmLqR5nN4\">https://www.youtube.com/watch?v=OhOmLqR5nN4</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49762941\">https...",
-      "published": "2026-09-19T03:12:58+00:00",
-      "domain": "youtube.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "SDCC \u2013 Small Device C Compiler",
-      "link": "https://sdcc.sourceforge.net/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49762744\">Comments</a>...",
-      "published": "2026-09-19T02:32:36+00:00",
-      "domain": "sdcc.sourceforge.net",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Science Is Open Software",
-      "link": "https://jepedersen.dk/blog/202505_research/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49762687\">Comments</a>...",
-      "published": "2026-09-19T02:21:35+00:00",
-      "domain": "jepedersen.dk",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Public Exploits Released for Four Linux Kernel Flaws That Enable Local Root",
-      "link": "https://thehackernews.com/2026/09/public-exploits-released-for-four-linux.html",
-      "summary": "A security researcher has released working exploit code for four Linux kernel flaws that each let a local user gain root, the highest level of access on a machine.\n\nKernel maintainers have fixed all f...",
-      "published": "2026-09-18T23:32:24+05:30",
+      "title": "Critical Pre-Auth RCE in Orkes Conductor Workflow Platform Exploited in the Wild",
+      "link": "https://thehackernews.com/2026/09/critical-pre-auth-rce-in-orkes.html",
+      "summary": "A critical vulnerability impacting Orkes Conductor is being actively exploited in the wild, according to Fortinet.\n\nThe vulnerability in question is CVE-2026-58138 (CVSS v3.1 score: 9.8/CVSS v4 score:...",
+      "published": "2026-09-19T13:48:54+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -129,11 +17,11 @@
       }
     },
     {
-      "title": "Gemini hacked three companies in first known breakout by Google's AI, WSJ reports",
-      "link": "https://www.reddit.com/r/technology/comments/1wk5mff/gemini_hacked_three_companies_in_first_known/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1wk5mff/gemini_hacked_three_companies_in_first_known/\"> <img alt=\"Gemini hacked three companies in first known breakout by Google...",
-      "published": "2026-09-18T23:15:47+00:00",
-      "domain": "reddit.com",
+      "title": "Google Gemini Broke Into Real Company Systems After Security Test Domain Mix-Up",
+      "link": "https://thehackernews.com/2026/09/google-gemini-broke-into-real-company.html",
+      "summary": "Google's Gemini model has become the latest artificial intelligence (AI) system to access the internet and break into other companies during a cybersecurity evaluation. The development was first repor...",
+      "published": "2026-09-19T13:21:34+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -145,11 +33,123 @@
       }
     },
     {
-      "title": "FBI warned ICE agents could be targeted by fake \u2018tradwife\u2019 dating profiles \u2014 Internal memo said women wanted to dox and \u2018embarrass\u2019 agents, but provided few details",
-      "link": "https://www.reddit.com/r/technology/comments/1wk5dob/fbi_warned_ice_agents_could_be_targeted_by_fake/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1wk5dob/fbi_warned_ice_agents_could_be_targeted_by_fake/\"> <img alt=\"FBI warned ICE agents could be targeted by fake \u2018tradwife\u2019 d...",
-      "published": "2026-09-18T23:05:22+00:00",
-      "domain": "reddit.com",
+      "title": "CrowdSec Says TanStack npm Attack Led to Copy of 170 Private GitHub Repositories",
+      "link": "https://thehackernews.com/2026/09/crowdsec-says-tanstack-npm-attack-led.html",
+      "summary": "An attacker copied about 170 of CrowdSec's private GitHub repositories on May 22 using the account of an employee who had just left, CrowdSec&nbsp;said on September 18.\n\nThe French security company ha...",
+      "published": "2026-09-19T12:44:54+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "CISA Flags Three Linux Kernel Vulnerabilities Exploited in the Wild",
+      "link": "https://thehackernews.com/2026/09/cisa-flags-three-linux-kernel.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added three security flaws impacting the Linux kernel to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence o...",
+      "published": "2026-09-19T11:54:10+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Building the fastest LLMs: why we're starting with diffusion",
+      "link": "https://celeris.ai/building-the-worlds-fastest-llms",
+      "summary": "<p>Article URL: <a href=\"https://celeris.ai/building-the-worlds-fastest-llms\">https://celeris.ai/building-the-worlds-fastest-llms</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id...",
+      "published": "2026-09-19T10:16:47+00:00",
+      "domain": "celeris.ai",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Snail Walk \u2013 escape Bob the giant snail by walking more IRL",
+      "link": "https://snailwalk.app/",
+      "summary": "<p>Article URL: <a href=\"https://snailwalk.app/\">https://snailwalk.app/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49765091\">https://news.ycombinator.com/item?id=49765091</...",
+      "published": "2026-09-19T10:10:13+00:00",
+      "domain": "snailwalk.app",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The last IMO problem AI could not solve [video]",
+      "link": "https://www.youtube.com/watch?v=Nbwv5wHQoj0",
+      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=Nbwv5wHQoj0\">https://www.youtube.com/watch?v=Nbwv5wHQoj0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49765084\">https...",
+      "published": "2026-09-19T10:08:58+00:00",
+      "domain": "youtube.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Terence Tao: SAIR's Open Math Model Initiative",
+      "link": "https://www.youtube.com/watch?v=PZRb6NIki2w",
+      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=PZRb6NIki2w\">https://www.youtube.com/watch?v=PZRb6NIki2w</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49765057\">https...",
+      "published": "2026-09-19T10:04:47+00:00",
+      "domain": "youtube.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Roman Timekeeping",
+      "link": "https://en.wikipedia.org/wiki/Roman_timekeeping",
+      "summary": "<p>Article URL: <a href=\"https://en.wikipedia.org/wiki/Roman_timekeeping\">https://en.wikipedia.org/wiki/Roman_timekeeping</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4976505...",
+      "published": "2026-09-19T10:04:39+00:00",
+      "domain": "en.wikipedia.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "AI-generated posters don\u2019t have to be horrible",
+      "link": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49764791\">Comments</a>...",
+      "published": "2026-09-19T09:20:58+00:00",
+      "domain": "john.hartnup.uk",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -163,122 +163,10 @@
   ],
   "anarchy_ranked": [
     {
-      "title": "NASA's Moon Orbiter Spots New, 'Once-in-Century' Moon Crater",
-      "link": "https://science.nasa.gov/solar-system/moon/nasas-moon-orbiter-spots-new-once-in-century-moon-crater/",
-      "summary": "<p>Article URL: <a href=\"https://science.nasa.gov/solar-system/moon/nasas-moon-orbiter-spots-new-once-in-century-moon-crater/\">https://science.nasa.gov/solar-system/moon/nasas-moon-orbiter-spots-new-o...",
-      "published": "2026-09-19T03:21:52+00:00",
-      "domain": "science.nasa.gov",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Executive order on H-1B nonimmigrant visa administration",
-      "link": "https://www.whitehouse.gov/presidential-actions/2026/09/enhancing-program-integrity-and-integrity-and-interagency-coordination-in-the-administration-of-the-h-1b-nonimmigrant-visa-program/",
-      "summary": "<p>Article URL: <a href=\"https://www.whitehouse.gov/presidential-actions/2026/09/enhancing-program-integrity-and-integrity-and-interagency-coordination-in-the-administration-of-the-h-1b-nonimmigrant-v...",
-      "published": "2026-09-19T03:16:31+00:00",
-      "domain": "whitehouse.gov",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "A more sober look at the HuggingFace incident",
-      "link": "https://www.wsj.com/opinion/the-hugging-face-hack-wasnt-what-it-was-cracked-up-to-be-e00cf3fa",
-      "summary": "<p>Article URL: <a href=\"https://www.wsj.com/opinion/the-hugging-face-hack-wasnt-what-it-was-cracked-up-to-be-e00cf3fa\">https://www.wsj.com/opinion/the-hugging-face-hack-wasnt-what-it-was-cracked-up-t...",
-      "published": "2026-09-19T03:16:04+00:00",
-      "domain": "wsj.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "AI Regulation and the China Question",
-      "link": "https://casssunstein.substack.com/p/ai-regulation-and-the-china-question",
-      "summary": "<p>Article URL: <a href=\"https://casssunstein.substack.com/p/ai-regulation-and-the-china-question\">https://casssunstein.substack.com/p/ai-regulation-and-the-china-question</a></p>\n<p>Comments URL: <a ...",
-      "published": "2026-09-19T03:15:41+00:00",
-      "domain": "casssunstein.substack.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "ASI risk debate with Nate Soares [video]",
-      "link": "https://www.youtube.com/watch?v=OhOmLqR5nN4",
-      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=OhOmLqR5nN4\">https://www.youtube.com/watch?v=OhOmLqR5nN4</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49762941\">https...",
-      "published": "2026-09-19T03:12:58+00:00",
-      "domain": "youtube.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "SDCC \u2013 Small Device C Compiler",
-      "link": "https://sdcc.sourceforge.net/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49762744\">Comments</a>...",
-      "published": "2026-09-19T02:32:36+00:00",
-      "domain": "sdcc.sourceforge.net",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Science Is Open Software",
-      "link": "https://jepedersen.dk/blog/202505_research/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49762687\">Comments</a>...",
-      "published": "2026-09-19T02:21:35+00:00",
-      "domain": "jepedersen.dk",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Public Exploits Released for Four Linux Kernel Flaws That Enable Local Root",
-      "link": "https://thehackernews.com/2026/09/public-exploits-released-for-four-linux.html",
-      "summary": "A security researcher has released working exploit code for four Linux kernel flaws that each let a local user gain root, the highest level of access on a machine.\n\nKernel maintainers have fixed all f...",
-      "published": "2026-09-18T23:32:24+05:30",
+      "title": "Critical Pre-Auth RCE in Orkes Conductor Workflow Platform Exploited in the Wild",
+      "link": "https://thehackernews.com/2026/09/critical-pre-auth-rce-in-orkes.html",
+      "summary": "A critical vulnerability impacting Orkes Conductor is being actively exploited in the wild, according to Fortinet.\n\nThe vulnerability in question is CVE-2026-58138 (CVSS v3.1 score: 9.8/CVSS v4 score:...",
+      "published": "2026-09-19T13:48:54+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -291,11 +179,11 @@
       }
     },
     {
-      "title": "Gemini hacked three companies in first known breakout by Google's AI, WSJ reports",
-      "link": "https://www.reddit.com/r/technology/comments/1wk5mff/gemini_hacked_three_companies_in_first_known/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1wk5mff/gemini_hacked_three_companies_in_first_known/\"> <img alt=\"Gemini hacked three companies in first known breakout by Google...",
-      "published": "2026-09-18T23:15:47+00:00",
-      "domain": "reddit.com",
+      "title": "Google Gemini Broke Into Real Company Systems After Security Test Domain Mix-Up",
+      "link": "https://thehackernews.com/2026/09/google-gemini-broke-into-real-company.html",
+      "summary": "Google's Gemini model has become the latest artificial intelligence (AI) system to access the internet and break into other companies during a cybersecurity evaluation. The development was first repor...",
+      "published": "2026-09-19T13:21:34+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -307,11 +195,123 @@
       }
     },
     {
-      "title": "FBI warned ICE agents could be targeted by fake \u2018tradwife\u2019 dating profiles \u2014 Internal memo said women wanted to dox and \u2018embarrass\u2019 agents, but provided few details",
-      "link": "https://www.reddit.com/r/technology/comments/1wk5dob/fbi_warned_ice_agents_could_be_targeted_by_fake/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1wk5dob/fbi_warned_ice_agents_could_be_targeted_by_fake/\"> <img alt=\"FBI warned ICE agents could be targeted by fake \u2018tradwife\u2019 d...",
-      "published": "2026-09-18T23:05:22+00:00",
-      "domain": "reddit.com",
+      "title": "CrowdSec Says TanStack npm Attack Led to Copy of 170 Private GitHub Repositories",
+      "link": "https://thehackernews.com/2026/09/crowdsec-says-tanstack-npm-attack-led.html",
+      "summary": "An attacker copied about 170 of CrowdSec's private GitHub repositories on May 22 using the account of an employee who had just left, CrowdSec&nbsp;said on September 18.\n\nThe French security company ha...",
+      "published": "2026-09-19T12:44:54+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "CISA Flags Three Linux Kernel Vulnerabilities Exploited in the Wild",
+      "link": "https://thehackernews.com/2026/09/cisa-flags-three-linux-kernel.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added three security flaws impacting the Linux kernel to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence o...",
+      "published": "2026-09-19T11:54:10+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Building the fastest LLMs: why we're starting with diffusion",
+      "link": "https://celeris.ai/building-the-worlds-fastest-llms",
+      "summary": "<p>Article URL: <a href=\"https://celeris.ai/building-the-worlds-fastest-llms\">https://celeris.ai/building-the-worlds-fastest-llms</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id...",
+      "published": "2026-09-19T10:16:47+00:00",
+      "domain": "celeris.ai",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Snail Walk \u2013 escape Bob the giant snail by walking more IRL",
+      "link": "https://snailwalk.app/",
+      "summary": "<p>Article URL: <a href=\"https://snailwalk.app/\">https://snailwalk.app/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49765091\">https://news.ycombinator.com/item?id=49765091</...",
+      "published": "2026-09-19T10:10:13+00:00",
+      "domain": "snailwalk.app",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The last IMO problem AI could not solve [video]",
+      "link": "https://www.youtube.com/watch?v=Nbwv5wHQoj0",
+      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=Nbwv5wHQoj0\">https://www.youtube.com/watch?v=Nbwv5wHQoj0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49765084\">https...",
+      "published": "2026-09-19T10:08:58+00:00",
+      "domain": "youtube.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Terence Tao: SAIR's Open Math Model Initiative",
+      "link": "https://www.youtube.com/watch?v=PZRb6NIki2w",
+      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=PZRb6NIki2w\">https://www.youtube.com/watch?v=PZRb6NIki2w</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49765057\">https...",
+      "published": "2026-09-19T10:04:47+00:00",
+      "domain": "youtube.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Roman Timekeeping",
+      "link": "https://en.wikipedia.org/wiki/Roman_timekeeping",
+      "summary": "<p>Article URL: <a href=\"https://en.wikipedia.org/wiki/Roman_timekeeping\">https://en.wikipedia.org/wiki/Roman_timekeeping</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4976505...",
+      "published": "2026-09-19T10:04:39+00:00",
+      "domain": "en.wikipedia.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "AI-generated posters don\u2019t have to be horrible",
+      "link": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49764791\">Comments</a>...",
+      "published": "2026-09-19T09:20:58+00:00",
+      "domain": "john.hartnup.uk",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -325,122 +325,10 @@
   ],
   "overall_ranked": [
     {
-      "title": "NASA's Moon Orbiter Spots New, 'Once-in-Century' Moon Crater",
-      "link": "https://science.nasa.gov/solar-system/moon/nasas-moon-orbiter-spots-new-once-in-century-moon-crater/",
-      "summary": "<p>Article URL: <a href=\"https://science.nasa.gov/solar-system/moon/nasas-moon-orbiter-spots-new-once-in-century-moon-crater/\">https://science.nasa.gov/solar-system/moon/nasas-moon-orbiter-spots-new-o...",
-      "published": "2026-09-19T03:21:52+00:00",
-      "domain": "science.nasa.gov",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Executive order on H-1B nonimmigrant visa administration",
-      "link": "https://www.whitehouse.gov/presidential-actions/2026/09/enhancing-program-integrity-and-integrity-and-interagency-coordination-in-the-administration-of-the-h-1b-nonimmigrant-visa-program/",
-      "summary": "<p>Article URL: <a href=\"https://www.whitehouse.gov/presidential-actions/2026/09/enhancing-program-integrity-and-integrity-and-interagency-coordination-in-the-administration-of-the-h-1b-nonimmigrant-v...",
-      "published": "2026-09-19T03:16:31+00:00",
-      "domain": "whitehouse.gov",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "A more sober look at the HuggingFace incident",
-      "link": "https://www.wsj.com/opinion/the-hugging-face-hack-wasnt-what-it-was-cracked-up-to-be-e00cf3fa",
-      "summary": "<p>Article URL: <a href=\"https://www.wsj.com/opinion/the-hugging-face-hack-wasnt-what-it-was-cracked-up-to-be-e00cf3fa\">https://www.wsj.com/opinion/the-hugging-face-hack-wasnt-what-it-was-cracked-up-t...",
-      "published": "2026-09-19T03:16:04+00:00",
-      "domain": "wsj.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "AI Regulation and the China Question",
-      "link": "https://casssunstein.substack.com/p/ai-regulation-and-the-china-question",
-      "summary": "<p>Article URL: <a href=\"https://casssunstein.substack.com/p/ai-regulation-and-the-china-question\">https://casssunstein.substack.com/p/ai-regulation-and-the-china-question</a></p>\n<p>Comments URL: <a ...",
-      "published": "2026-09-19T03:15:41+00:00",
-      "domain": "casssunstein.substack.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "ASI risk debate with Nate Soares [video]",
-      "link": "https://www.youtube.com/watch?v=OhOmLqR5nN4",
-      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=OhOmLqR5nN4\">https://www.youtube.com/watch?v=OhOmLqR5nN4</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49762941\">https...",
-      "published": "2026-09-19T03:12:58+00:00",
-      "domain": "youtube.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "SDCC \u2013 Small Device C Compiler",
-      "link": "https://sdcc.sourceforge.net/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49762744\">Comments</a>...",
-      "published": "2026-09-19T02:32:36+00:00",
-      "domain": "sdcc.sourceforge.net",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Science Is Open Software",
-      "link": "https://jepedersen.dk/blog/202505_research/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49762687\">Comments</a>...",
-      "published": "2026-09-19T02:21:35+00:00",
-      "domain": "jepedersen.dk",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Public Exploits Released for Four Linux Kernel Flaws That Enable Local Root",
-      "link": "https://thehackernews.com/2026/09/public-exploits-released-for-four-linux.html",
-      "summary": "A security researcher has released working exploit code for four Linux kernel flaws that each let a local user gain root, the highest level of access on a machine.\n\nKernel maintainers have fixed all f...",
-      "published": "2026-09-18T23:32:24+05:30",
+      "title": "Critical Pre-Auth RCE in Orkes Conductor Workflow Platform Exploited in the Wild",
+      "link": "https://thehackernews.com/2026/09/critical-pre-auth-rce-in-orkes.html",
+      "summary": "A critical vulnerability impacting Orkes Conductor is being actively exploited in the wild, according to Fortinet.\n\nThe vulnerability in question is CVE-2026-58138 (CVSS v3.1 score: 9.8/CVSS v4 score:...",
+      "published": "2026-09-19T13:48:54+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -453,11 +341,11 @@
       }
     },
     {
-      "title": "Gemini hacked three companies in first known breakout by Google's AI, WSJ reports",
-      "link": "https://www.reddit.com/r/technology/comments/1wk5mff/gemini_hacked_three_companies_in_first_known/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1wk5mff/gemini_hacked_three_companies_in_first_known/\"> <img alt=\"Gemini hacked three companies in first known breakout by Google...",
-      "published": "2026-09-18T23:15:47+00:00",
-      "domain": "reddit.com",
+      "title": "Google Gemini Broke Into Real Company Systems After Security Test Domain Mix-Up",
+      "link": "https://thehackernews.com/2026/09/google-gemini-broke-into-real-company.html",
+      "summary": "Google's Gemini model has become the latest artificial intelligence (AI) system to access the internet and break into other companies during a cybersecurity evaluation. The development was first repor...",
+      "published": "2026-09-19T13:21:34+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -469,11 +357,123 @@
       }
     },
     {
-      "title": "FBI warned ICE agents could be targeted by fake \u2018tradwife\u2019 dating profiles \u2014 Internal memo said women wanted to dox and \u2018embarrass\u2019 agents, but provided few details",
-      "link": "https://www.reddit.com/r/technology/comments/1wk5dob/fbi_warned_ice_agents_could_be_targeted_by_fake/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1wk5dob/fbi_warned_ice_agents_could_be_targeted_by_fake/\"> <img alt=\"FBI warned ICE agents could be targeted by fake \u2018tradwife\u2019 d...",
-      "published": "2026-09-18T23:05:22+00:00",
-      "domain": "reddit.com",
+      "title": "CrowdSec Says TanStack npm Attack Led to Copy of 170 Private GitHub Repositories",
+      "link": "https://thehackernews.com/2026/09/crowdsec-says-tanstack-npm-attack-led.html",
+      "summary": "An attacker copied about 170 of CrowdSec's private GitHub repositories on May 22 using the account of an employee who had just left, CrowdSec&nbsp;said on September 18.\n\nThe French security company ha...",
+      "published": "2026-09-19T12:44:54+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "CISA Flags Three Linux Kernel Vulnerabilities Exploited in the Wild",
+      "link": "https://thehackernews.com/2026/09/cisa-flags-three-linux-kernel.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added three security flaws impacting the Linux kernel to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence o...",
+      "published": "2026-09-19T11:54:10+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Building the fastest LLMs: why we're starting with diffusion",
+      "link": "https://celeris.ai/building-the-worlds-fastest-llms",
+      "summary": "<p>Article URL: <a href=\"https://celeris.ai/building-the-worlds-fastest-llms\">https://celeris.ai/building-the-worlds-fastest-llms</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id...",
+      "published": "2026-09-19T10:16:47+00:00",
+      "domain": "celeris.ai",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Snail Walk \u2013 escape Bob the giant snail by walking more IRL",
+      "link": "https://snailwalk.app/",
+      "summary": "<p>Article URL: <a href=\"https://snailwalk.app/\">https://snailwalk.app/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49765091\">https://news.ycombinator.com/item?id=49765091</...",
+      "published": "2026-09-19T10:10:13+00:00",
+      "domain": "snailwalk.app",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The last IMO problem AI could not solve [video]",
+      "link": "https://www.youtube.com/watch?v=Nbwv5wHQoj0",
+      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=Nbwv5wHQoj0\">https://www.youtube.com/watch?v=Nbwv5wHQoj0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49765084\">https...",
+      "published": "2026-09-19T10:08:58+00:00",
+      "domain": "youtube.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Terence Tao: SAIR's Open Math Model Initiative",
+      "link": "https://www.youtube.com/watch?v=PZRb6NIki2w",
+      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=PZRb6NIki2w\">https://www.youtube.com/watch?v=PZRb6NIki2w</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49765057\">https...",
+      "published": "2026-09-19T10:04:47+00:00",
+      "domain": "youtube.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Roman Timekeeping",
+      "link": "https://en.wikipedia.org/wiki/Roman_timekeeping",
+      "summary": "<p>Article URL: <a href=\"https://en.wikipedia.org/wiki/Roman_timekeeping\">https://en.wikipedia.org/wiki/Roman_timekeeping</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4976505...",
+      "published": "2026-09-19T10:04:39+00:00",
+      "domain": "en.wikipedia.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "AI-generated posters don\u2019t have to be horrible",
+      "link": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49764791\">Comments</a>...",
+      "published": "2026-09-19T09:20:58+00:00",
+      "domain": "john.hartnup.uk",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -487,122 +487,10 @@
   ],
   "all_articles": [
     {
-      "title": "NASA's Moon Orbiter Spots New, 'Once-in-Century' Moon Crater",
-      "link": "https://science.nasa.gov/solar-system/moon/nasas-moon-orbiter-spots-new-once-in-century-moon-crater/",
-      "summary": "<p>Article URL: <a href=\"https://science.nasa.gov/solar-system/moon/nasas-moon-orbiter-spots-new-once-in-century-moon-crater/\">https://science.nasa.gov/solar-system/moon/nasas-moon-orbiter-spots-new-o...",
-      "published": "2026-09-19T03:21:52+00:00",
-      "domain": "science.nasa.gov",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Executive order on H-1B nonimmigrant visa administration",
-      "link": "https://www.whitehouse.gov/presidential-actions/2026/09/enhancing-program-integrity-and-integrity-and-interagency-coordination-in-the-administration-of-the-h-1b-nonimmigrant-visa-program/",
-      "summary": "<p>Article URL: <a href=\"https://www.whitehouse.gov/presidential-actions/2026/09/enhancing-program-integrity-and-integrity-and-interagency-coordination-in-the-administration-of-the-h-1b-nonimmigrant-v...",
-      "published": "2026-09-19T03:16:31+00:00",
-      "domain": "whitehouse.gov",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "A more sober look at the HuggingFace incident",
-      "link": "https://www.wsj.com/opinion/the-hugging-face-hack-wasnt-what-it-was-cracked-up-to-be-e00cf3fa",
-      "summary": "<p>Article URL: <a href=\"https://www.wsj.com/opinion/the-hugging-face-hack-wasnt-what-it-was-cracked-up-to-be-e00cf3fa\">https://www.wsj.com/opinion/the-hugging-face-hack-wasnt-what-it-was-cracked-up-t...",
-      "published": "2026-09-19T03:16:04+00:00",
-      "domain": "wsj.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "AI Regulation and the China Question",
-      "link": "https://casssunstein.substack.com/p/ai-regulation-and-the-china-question",
-      "summary": "<p>Article URL: <a href=\"https://casssunstein.substack.com/p/ai-regulation-and-the-china-question\">https://casssunstein.substack.com/p/ai-regulation-and-the-china-question</a></p>\n<p>Comments URL: <a ...",
-      "published": "2026-09-19T03:15:41+00:00",
-      "domain": "casssunstein.substack.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "ASI risk debate with Nate Soares [video]",
-      "link": "https://www.youtube.com/watch?v=OhOmLqR5nN4",
-      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=OhOmLqR5nN4\">https://www.youtube.com/watch?v=OhOmLqR5nN4</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49762941\">https...",
-      "published": "2026-09-19T03:12:58+00:00",
-      "domain": "youtube.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "SDCC \u2013 Small Device C Compiler",
-      "link": "https://sdcc.sourceforge.net/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49762744\">Comments</a>...",
-      "published": "2026-09-19T02:32:36+00:00",
-      "domain": "sdcc.sourceforge.net",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Science Is Open Software",
-      "link": "https://jepedersen.dk/blog/202505_research/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49762687\">Comments</a>...",
-      "published": "2026-09-19T02:21:35+00:00",
-      "domain": "jepedersen.dk",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Public Exploits Released for Four Linux Kernel Flaws That Enable Local Root",
-      "link": "https://thehackernews.com/2026/09/public-exploits-released-for-four-linux.html",
-      "summary": "A security researcher has released working exploit code for four Linux kernel flaws that each let a local user gain root, the highest level of access on a machine.\n\nKernel maintainers have fixed all f...",
-      "published": "2026-09-18T23:32:24+05:30",
+      "title": "Critical Pre-Auth RCE in Orkes Conductor Workflow Platform Exploited in the Wild",
+      "link": "https://thehackernews.com/2026/09/critical-pre-auth-rce-in-orkes.html",
+      "summary": "A critical vulnerability impacting Orkes Conductor is being actively exploited in the wild, according to Fortinet.\n\nThe vulnerability in question is CVE-2026-58138 (CVSS v3.1 score: 9.8/CVSS v4 score:...",
+      "published": "2026-09-19T13:48:54+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -615,11 +503,11 @@
       }
     },
     {
-      "title": "Gemini hacked three companies in first known breakout by Google's AI, WSJ reports",
-      "link": "https://www.reddit.com/r/technology/comments/1wk5mff/gemini_hacked_three_companies_in_first_known/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1wk5mff/gemini_hacked_three_companies_in_first_known/\"> <img alt=\"Gemini hacked three companies in first known breakout by Google...",
-      "published": "2026-09-18T23:15:47+00:00",
-      "domain": "reddit.com",
+      "title": "Google Gemini Broke Into Real Company Systems After Security Test Domain Mix-Up",
+      "link": "https://thehackernews.com/2026/09/google-gemini-broke-into-real-company.html",
+      "summary": "Google's Gemini model has become the latest artificial intelligence (AI) system to access the internet and break into other companies during a cybersecurity evaluation. The development was first repor...",
+      "published": "2026-09-19T13:21:34+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -631,11 +519,123 @@
       }
     },
     {
-      "title": "FBI warned ICE agents could be targeted by fake \u2018tradwife\u2019 dating profiles \u2014 Internal memo said women wanted to dox and \u2018embarrass\u2019 agents, but provided few details",
-      "link": "https://www.reddit.com/r/technology/comments/1wk5dob/fbi_warned_ice_agents_could_be_targeted_by_fake/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1wk5dob/fbi_warned_ice_agents_could_be_targeted_by_fake/\"> <img alt=\"FBI warned ICE agents could be targeted by fake \u2018tradwife\u2019 d...",
-      "published": "2026-09-18T23:05:22+00:00",
-      "domain": "reddit.com",
+      "title": "CrowdSec Says TanStack npm Attack Led to Copy of 170 Private GitHub Repositories",
+      "link": "https://thehackernews.com/2026/09/crowdsec-says-tanstack-npm-attack-led.html",
+      "summary": "An attacker copied about 170 of CrowdSec's private GitHub repositories on May 22 using the account of an employee who had just left, CrowdSec&nbsp;said on September 18.\n\nThe French security company ha...",
+      "published": "2026-09-19T12:44:54+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "CISA Flags Three Linux Kernel Vulnerabilities Exploited in the Wild",
+      "link": "https://thehackernews.com/2026/09/cisa-flags-three-linux-kernel.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added three security flaws impacting the Linux kernel to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence o...",
+      "published": "2026-09-19T11:54:10+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Building the fastest LLMs: why we're starting with diffusion",
+      "link": "https://celeris.ai/building-the-worlds-fastest-llms",
+      "summary": "<p>Article URL: <a href=\"https://celeris.ai/building-the-worlds-fastest-llms\">https://celeris.ai/building-the-worlds-fastest-llms</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id...",
+      "published": "2026-09-19T10:16:47+00:00",
+      "domain": "celeris.ai",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Snail Walk \u2013 escape Bob the giant snail by walking more IRL",
+      "link": "https://snailwalk.app/",
+      "summary": "<p>Article URL: <a href=\"https://snailwalk.app/\">https://snailwalk.app/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49765091\">https://news.ycombinator.com/item?id=49765091</...",
+      "published": "2026-09-19T10:10:13+00:00",
+      "domain": "snailwalk.app",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The last IMO problem AI could not solve [video]",
+      "link": "https://www.youtube.com/watch?v=Nbwv5wHQoj0",
+      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=Nbwv5wHQoj0\">https://www.youtube.com/watch?v=Nbwv5wHQoj0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49765084\">https...",
+      "published": "2026-09-19T10:08:58+00:00",
+      "domain": "youtube.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Terence Tao: SAIR's Open Math Model Initiative",
+      "link": "https://www.youtube.com/watch?v=PZRb6NIki2w",
+      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=PZRb6NIki2w\">https://www.youtube.com/watch?v=PZRb6NIki2w</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49765057\">https...",
+      "published": "2026-09-19T10:04:47+00:00",
+      "domain": "youtube.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Roman Timekeeping",
+      "link": "https://en.wikipedia.org/wiki/Roman_timekeeping",
+      "summary": "<p>Article URL: <a href=\"https://en.wikipedia.org/wiki/Roman_timekeeping\">https://en.wikipedia.org/wiki/Roman_timekeeping</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4976505...",
+      "published": "2026-09-19T10:04:39+00:00",
+      "domain": "en.wikipedia.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "AI-generated posters don\u2019t have to be horrible",
+      "link": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49764791\">Comments</a>...",
+      "published": "2026-09-19T09:20:58+00:00",
+      "domain": "john.hartnup.uk",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,

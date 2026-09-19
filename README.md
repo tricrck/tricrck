@@ -16,15 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### NASA's Moon Orbiter Spots New, 'Once-in-Century' Moon Crater
+### Critical Pre-Auth RCE in Orkes Conductor Workflow Platform Exploited in the Wild
 - **Published**: September 19, 2026
-- **Summary**: https://science.nasa.gov/solar-system/moon/nasas-moon-orbiter-spots-new-o......
-- [Read more](https://science.nasa.gov/solar-system/moon/nasas-moon-orbiter-spots-new-once-in-century-moon-crater/)
+- **Summary**: A critical vulnerability impacting Orkes Conductor is being actively exploited in the wild, according to Fortinet.
 
-### Executive order on H-1B nonimmigrant visa administration
+The vulnerability in question is C...
+- [Read more](https://thehackernews.com/2026/09/critical-pre-auth-rce-in-orkes.html)
+
+### Google Gemini Broke Into Real Company Systems After Security Test Domain Mix-Up
 - **Published**: September 19, 2026
-- **Summary**: Article URL: <a href="https://www.whitehouse.gov/presidential-actions/2026/09/enhancing-program-integrity-and-integrity-and-interagency-coordination-i...
-- [Read more](https://www.whitehouse.gov/presidential-actions/2026/09/enhancing-program-integrity-and-integrity-and-interagency-coordination-in-the-administration-of-the-h-1b-nonimmigrant-visa-program/)
+- **Summary**: Google's Gemini model has become the latest artificial intelligence (AI) system to access the internet and break into other companies during a cyberse...
+- [Read more](https://thehackernews.com/2026/09/google-gemini-broke-into-real-company.html)
 
 ---
 
