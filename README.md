@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### The X3DH Key Agreement Protocol
+### Kinetica-1 launches 9 satellites as China completes 6 orbital launches in 6 days
 - **Published**: September 20, 2026
-- **Summary**: https://signal.org/docs/specifications/x3dh/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49772319">htt......
-- [Read more](https://signal.org/docs/specifications/x3dh/)
+- **Summary**: https://www.globaltimes.cn/page/202609/1370940.shtml</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?......
+- [Read more](https://www.globaltimes.cn/page/202609/1370940.shtml)
 
-### Market design: affinity networks like shooq, & why a festival should buy afm
+### AI is giving scientists more ideas than they can test
 - **Published**: September 20, 2026
-- **Summary**: http://shooq.danieldeboulay.com</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49772309">https://news.ycombinator.com/......
-- [Read more](http://shooq.danieldeboulay.com)
+- **Summary**: https://www.scientificamerican.com/article/why-ai-is-speeding-up......
+- [Read more](https://www.scientificamerican.com/article/why-ai-is-speeding-up-scientific-research-but-not-lab-experiments/)
 
 ---
 
