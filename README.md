@@ -16,16 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws
+### The X3DH Key Agreement Protocol
 - **Published**: September 20, 2026
-- **Summary**: Three researchers at the security firm&nbsp;Hacktron&nbsp;used Anthropic's Claude Opus 5 to chain two flaws and take over the ChatGPT and Codex accoun...
-- [Read more](https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html)
+- **Summary**: https://signal.org/docs/specifications/x3dh/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49772319">htt......
+- [Read more](https://signal.org/docs/specifications/x3dh/)
 
-### Confessions of an Unrepentant Slop Snob
-- **Published**: September 19, 2026
-- **Summary**: https://charity.wtf/p/confessions-of-an-unrepentant-slop</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.c......
-- [Read more](https://charity.wtf/p/confessions-of-an-unrepentant-slop)
+### Market design: affinity networks like shooq, & why a festival should buy afm
+- **Published**: September 20, 2026
+- **Summary**: http://shooq.danieldeboulay.com</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49772309">https://news.ycombinator.com/......
+- [Read more](http://shooq.danieldeboulay.com)
 
 ---
 
