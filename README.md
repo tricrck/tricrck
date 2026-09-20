@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### As I Remember London (By DHH)
+### >be me >discover effective altruism
 - **Published**: September 20, 2026
-- **Summary**: https://world.hey.com/dhh/as-i-remember-london-e7d38e64</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com......
-- [Read more](https://world.hey.com/dhh/as-i-remember-london-e7d38e64)
+- **Summary**: https://twitter.com/banteg/status/2100619607648121199</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/ite......
+- [Read more](https://twitter.com/banteg/status/2100619607648121199)
 
-### Show HN: A 3D Mac window switcher with browser tab support and search
+### The New Church of Finance (2012)
 - **Published**: September 20, 2026
-- **Summary**: <p>Hey HN. I made this little app, because I missed Compiz but also because I wanted a way to switch between tabs as well as my windows.<p>Around 2008...
-- [Read more](https://betterwindowswitcher.com)
+- **Summary**: https://www.deseret.com/2012/......
+- [Read more](https://www.deseret.com/2012/12/9/20445386/clayton-m-christensen-the-new-church-of-finance-deeply-held-belief-systems-and-complex-codes-must-be/)
 
 ---
 
