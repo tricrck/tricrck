@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Kinetica-1 launches 9 satellites as China completes 6 orbital launches in 6 days
+### As I Remember London (By DHH)
 - **Published**: September 20, 2026
-- **Summary**: https://www.globaltimes.cn/page/202609/1370940.shtml</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?......
-- [Read more](https://www.globaltimes.cn/page/202609/1370940.shtml)
+- **Summary**: https://world.hey.com/dhh/as-i-remember-london-e7d38e64</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com......
+- [Read more](https://world.hey.com/dhh/as-i-remember-london-e7d38e64)
 
-### AI is giving scientists more ideas than they can test
+### Show HN: A 3D Mac window switcher with browser tab support and search
 - **Published**: September 20, 2026
-- **Summary**: https://www.scientificamerican.com/article/why-ai-is-speeding-up......
-- [Read more](https://www.scientificamerican.com/article/why-ai-is-speeding-up-scientific-research-but-not-lab-experiments/)
+- **Summary**: <p>Hey HN. I made this little app, because I missed Compiz but also because I wanted a way to switch between tabs as well as my windows.<p>Around 2008...
+- [Read more](https://betterwindowswitcher.com)
 
 ---
 
