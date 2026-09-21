@@ -16,16 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### >be me >discover effective altruism
-- **Published**: September 20, 2026
-- **Summary**: https://twitter.com/banteg/status/2100619607648121199</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/ite......
-- [Read more](https://twitter.com/banteg/status/2100619607648121199)
+### Lint-HTTP 0.1.0 – Easy to use, complete HTTP traffic linter
+- **Published**: September 21, 2026
+- **Summary**: https://crates.io/crates/lint-http/0.1.0</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49782806">https://new......
+- [Read more](https://crates.io/crates/lint-http/0.1.0)
 
-### The New Church of Finance (2012)
-- **Published**: September 20, 2026
-- **Summary**: https://www.deseret.com/2012/......
-- [Read more](https://www.deseret.com/2012/12/9/20445386/clayton-m-christensen-the-new-church-of-finance-deeply-held-belief-systems-and-complex-codes-must-be/)
+### While the human's away, do the agents slip into foul play?
+- **Published**: September 21, 2026
+- **Summary**: https://dev.yuv.run/writing/while-i-sleep/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49782797">https:/......
+- [Read more](https://dev.yuv.run/writing/while-i-sleep/)
 
 ---
 
