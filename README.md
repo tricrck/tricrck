@@ -16,17 +16,18 @@
 
 ## 🚨 Tech Stories
 
-### Lint-HTTP 0.1.0 – Easy to use, complete HTTP traffic linter
+### ClickFix Lures Deploy ChainScript RAT Using Polygon to Rotate C2 Infrastructure
 - **Published**: September 21, 2026
-- **Summary**: https://crates.io/crates/lint-http/0.1.0</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49782806">https://new......
-- [Read more](https://crates.io/crates/lint-http/0.1.0)
+- **Summary**: Threat actors are leveraging ClickFix-like lures to deliver a previously undocumented remote access trojan (RAT) called ChainScript.
 
-### While the human's away, do the agents slip into foul play?
+"ChainScript has...
+- [Read more](https://thehackernews.com/2026/09/clickfix-lures-deploy-chainscript-rat.html)
+
+### Virtual Worlds
 - **Published**: September 21, 2026
-- **Summary**: https://dev.yuv.run/writing/while-i-sleep/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49782797">https:/......
-- [Read more](https://dev.yuv.run/writing/while-i-sleep/)
+- **Summary**: https://worksinprogress.co/issue/virtual-worlds/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49786......
+- [Read more](https://worksinprogress.co/issue/virtual-worlds/)
 
 ---
 
