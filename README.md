@@ -16,18 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### ClickFix Lures Deploy ChainScript RAT Using Polygon to Rotate C2 Infrastructure
+### Fake LastPass Authenticator Installer Abuses Microsoft-Signed Driver to Kill Antivirus and EDR
 - **Published**: September 21, 2026
-- **Summary**: Threat actors are leveraging ClickFix-like lures to deliver a previously undocumented remote access trojan (RAT) called ChainScript.
+- **Summary**: A fake LastPass Authenticator installer offered on GitHub installs a Windows kernel driver that shuts off antivirus and other security software before...
+- [Read more](https://thehackernews.com/2026/09/fake-lastpass-authenticator-installer.html)
 
-"ChainScript has...
-- [Read more](https://thehackernews.com/2026/09/clickfix-lures-deploy-chainscript-rat.html)
-
-### Virtual Worlds
+### Contagious Interview Campaign Compromises 30,000 Devices, Steals $10.71M in Crypto
 - **Published**: September 21, 2026
-- **Summary**: https://worksinprogress.co/issue/virtual-worlds/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49786......
-- [Read more](https://worksinprogress.co/issue/virtual-worlds/)
+- **Summary**: The North Korean threat actors behind the Contagious Interview campaign have compromised at least 30,000 devices located in more than 100 countries an...
+- [Read more](https://thehackernews.com/2026/09/contagious-interview-campaign.html)
 
 ---
 
