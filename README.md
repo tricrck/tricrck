@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Malicious npm Package indexed-btree Hid Its Loader in Runtime Code Before Removal
+### AI Agents Are Rewriting the Rules of Lateral Movement
 - **Published**: September 22, 2026
-- **Summary**: A malicious npm package named "indexed-btree" has been observed hiding its malicious behavior within application code rather than using lifecycle scri...
-- [Read more](https://thehackernews.com/2026/09/malicious-npm-package-indexed-btree-hid.html)
+- **Summary**: Security teams have spent decades asking whether an identity has too much access. AI agents raise a harder question: how can we determine which paths ...
+- [Read more](https://thehackernews.com/2026/09/ai-agents-are-rewriting-rules-of.html)
 
-### SideCopy Broadens India Targeting to Academia With ReverseRAT Spear-Phishing
+### New CVSS 10.0 VeloCloud Orchestrator Flaw Actively Exploited in Certificate-Based Setups
 - **Published**: September 22, 2026
-- **Summary**: The threat actor known as SideCopy has been observed using spear-phishing lures to target academic institutions in India, expanding their strategic fo...
-- [Read more](https://thehackernews.com/2026/09/sidecopy-broadens-india-targeting-to.html)
+- **Summary**: Attackers are exploiting a new flaw in on-premises VeloCloud Orchestrator (VCO), the server that manages the Edge devices in a VeloCloud SD-WAN, Arist...
+- [Read more](https://thehackernews.com/2026/09/new-cvss-100-velocloud-orchestrator.html)
 
 ---
 
