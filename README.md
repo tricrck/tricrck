@@ -16,17 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Pronouncing Things with Amazon's Polly (2018)
+### Malicious npm Package indexed-btree Hid Its Loader in Runtime Code Before Removal
 - **Published**: September 22, 2026
-- **Summary**: https://cuttlesoft.com/blog/2018/09/13/pronouncing-things-with-amazons-polly/</a></p>
-<p>Comment......
-- [Read more](https://cuttlesoft.com/blog/2018/09/13/pronouncing-things-with-amazons-polly/)
+- **Summary**: A malicious npm package named "indexed-btree" has been observed hiding its malicious behavior within application code rather than using lifecycle scri...
+- [Read more](https://thehackernews.com/2026/09/malicious-npm-package-indexed-btree-hid.html)
 
-### Mac Screen Recorder – 30 bucks. no subscription
+### SideCopy Broadens India Targeting to Academia With ReverseRAT Spear-Phishing
 - **Published**: September 22, 2026
-- **Summary**: https://toads.io</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49796484">https://news.ycombinator.com/item?id=49796484</a></p...
-- [Read more](https://toads.io)
+- **Summary**: The threat actor known as SideCopy has been observed using spear-phishing lures to target academic institutions in India, expanding their strategic fo...
+- [Read more](https://thehackernews.com/2026/09/sidecopy-broadens-india-targeting-to.html)
 
 ---
 
