@@ -16,15 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### AI Agents Are Rewriting the Rules of Lateral Movement
+### Malicious npm Package Poses as Twilio Bug-Bounty Probe, Can Exfiltrate Credentials
 - **Published**: September 22, 2026
-- **Summary**: Security teams have spent decades asking whether an identity has too much access. AI agents raise a harder question: how can we determine which paths ...
-- [Read more](https://thehackernews.com/2026/09/ai-agents-are-rewriting-rules-of.html)
+- **Summary**: Cybersecurity researchers have disclosed details of a malicious npm package named "tw-pkgprobe-7731" that masquerades as a security tool targeting dev...
+- **Keywords**: bug
+- [Read more](https://thehackernews.com/2026/09/malicious-npm-package-poses-as-twilio.html)
 
-### New CVSS 10.0 VeloCloud Orchestrator Flaw Actively Exploited in Certificate-Based Setups
+### Microsoft Takes Down EvilTokens Device-Code Phishing Service Tied to 12,000 Inbox Compromises
 - **Published**: September 22, 2026
-- **Summary**: Attackers are exploiting a new flaw in on-premises VeloCloud Orchestrator (VCO), the server that manages the Edge devices in a VeloCloud SD-WAN, Arist...
-- [Read more](https://thehackernews.com/2026/09/new-cvss-100-velocloud-orchestrator.html)
+- **Summary**: Microsoft on Tuesday announced the takedown of the EvilTokens device code phishing service that it said used artificial intelligence (AI) "at every st...
+- **Keywords**: down
+- [Read more](https://thehackernews.com/2026/09/microsoft-takes-down-eviltokens-device.html)
 
 ---
 
