@@ -16,15 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Fake LastPass Authenticator Installer Abuses Microsoft-Signed Driver to Kill Antivirus and EDR
-- **Published**: September 21, 2026
-- **Summary**: A fake LastPass Authenticator installer offered on GitHub installs a Windows kernel driver that shuts off antivirus and other security software before...
-- [Read more](https://thehackernews.com/2026/09/fake-lastpass-authenticator-installer.html)
+### Pronouncing Things with Amazon's Polly (2018)
+- **Published**: September 22, 2026
+- **Summary**: https://cuttlesoft.com/blog/2018/09/13/pronouncing-things-with-amazons-polly/</a></p>
+<p>Comment......
+- [Read more](https://cuttlesoft.com/blog/2018/09/13/pronouncing-things-with-amazons-polly/)
 
-### Contagious Interview Campaign Compromises 30,000 Devices, Steals $10.71M in Crypto
-- **Published**: September 21, 2026
-- **Summary**: The North Korean threat actors behind the Contagious Interview campaign have compromised at least 30,000 devices located in more than 100 countries an...
-- [Read more](https://thehackernews.com/2026/09/contagious-interview-campaign.html)
+### Mac Screen Recorder – 30 bucks. no subscription
+- **Published**: September 22, 2026
+- **Summary**: https://toads.io</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49796484">https://news.ycombinator.com/item?id=49796484</a></p...
+- [Read more](https://toads.io)
 
 ---
 
