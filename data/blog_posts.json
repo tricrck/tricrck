@@ -37,6 +37,102 @@
       }
     },
     {
+      "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
+      "link": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
+      "summary": "<p>Article URL: <a href=\"https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/\">https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to...",
+      "published": "2026-09-23T03:38:12+00:00",
+      "domain": "techcrunch.com",
+      "scores": {
+        "chaos": 9.0,
+        "anarchy": 6.0,
+        "overall": 7.5
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Porting Bhyve to Rust",
+      "link": "https://github.com/TritonDataCenter/rshyve",
+      "summary": "<p>Article URL: <a href=\"https://github.com/TritonDataCenter/rshyve\">https://github.com/TritonDataCenter/rshyve</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49811367\">https:/...",
+      "published": "2026-09-23T03:39:43+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Anatomy of a (Postgres) Search Engine",
+      "link": "https://planetscale.com/blog/anatomy-of-a-postgres-search-engine",
+      "summary": "<p>Article URL: <a href=\"https://planetscale.com/blog/anatomy-of-a-postgres-search-engine\">https://planetscale.com/blog/anatomy-of-a-postgres-search-engine</a></p>\n<p>Comments URL: <a href=\"https://ne...",
+      "published": "2026-09-23T03:34:00+00:00",
+      "domain": "planetscale.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Specs cut defects in AI-generated code from 148 to 23 across five models",
+      "link": "https://arxiv.org/abs/2609.23270",
+      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2609.23270\">https://arxiv.org/abs/2609.23270</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49811333\">https://news.ycombinator.co...",
+      "published": "2026-09-23T03:33:02+00:00",
+      "domain": "arxiv.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "President Lula Dataset",
+      "link": "https://huggingface.co/datasets/geoffchan/lula-footage/viewer/default/train",
+      "summary": "<p>Article URL: <a href=\"https://huggingface.co/datasets/geoffchan/lula-footage/viewer/default/train\">https://huggingface.co/datasets/geoffchan/lula-footage/viewer/default/train</a></p>\n<p>Comments UR...",
+      "published": "2026-09-23T03:32:22+00:00",
+      "domain": "huggingface.co",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "US criticises Australia's proposed algorithm opt-out laws as 'censorship'",
+      "link": "https://www.bbc.com/news/articles/cqj3dgy8x3vro",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49810829\">Comments</a>...",
+      "published": "2026-09-23T02:13:52+00:00",
+      "domain": "bbc.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "Check Point Warns of Management Server Zero-Day Exploited in Targeted Attacks",
       "link": "https://thehackernews.com/2026/09/check-point-warns-of-management-server.html",
       "summary": "Attackers exploited a previously unknown flaw in Check Point's Security Management Server in a handful of targeted attacks on July 23,&nbsp;the company said.\n\nThe flaw, CVE-2026-93616, allows an attac...",
@@ -58,102 +154,6 @@
       "summary": "WordPress has fixed a critical flaw in its core software that lets an attacker with no account make a site load a PHP file from outside its theme folders.\n\nOn some servers, that can go further, allowi...",
       "published": "2026-09-22T23:33:10+05:30",
       "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Critical Bifrost AI Gateway Flaw Lets Attackers Run Commands Without Credentials",
-      "link": "https://thehackernews.com/2026/09/critical-bifrost-ai-gateway-flaw-lets.html",
-      "summary": "A critical vulnerability in&nbsp;Bifrost, an open-source AI gateway that routes requests to more than 20 LLM providers, allows an unauthenticated attacker to run arbitrary commands on the gateway serv...",
-      "published": "2026-09-22T22:11:12+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: Sandopolis \u2013 A portable multi-system Sega emulator",
-      "link": "https://news.ycombinator.com/item?id=49807854",
-      "summary": "<p>Project homepage: <a href=\"https://github.com/pixel-clover/sandopolis\" rel=\"nofollow\">https://github.com/pixel-clover/sandopolis</a><p>Download link: <a href=\"https://github.com/pixel-clover/sandop...",
-      "published": "2026-09-22T20:47:50+00:00",
-      "domain": "news.ycombinator.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: JevEval, evals using Jev-as-a-judge",
-      "link": "https://deepeval.com/blog/introducing-jev-as-a-judge",
-      "summary": "<p>Article URL: <a href=\"https://deepeval.com/blog/introducing-jev-as-a-judge\">https://deepeval.com/blog/introducing-jev-as-a-judge</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?...",
-      "published": "2026-09-22T20:47:32+00:00",
-      "domain": "deepeval.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Datapages v0.10.0 Beta Release",
-      "link": "https://github.com/romshark/datapages/releases/tag/v0.10.0",
-      "summary": "<p>Article URL: <a href=\"https://github.com/romshark/datapages/releases/tag/v0.10.0\">https://github.com/romshark/datapages/releases/tag/v0.10.0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinat...",
-      "published": "2026-09-22T20:46:13+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Kremlin-backed forgery scheme moved $6.9B through global banks",
-      "link": "https://www.ft.com/content/3848a4ad-1426-4352-ba86-ef1279c4ffd1",
-      "summary": "<p>Article URL: <a href=\"https://www.ft.com/content/3848a4ad-1426-4352-ba86-ef1279c4ffd1\">https://www.ft.com/content/3848a4ad-1426-4352-ba86-ef1279c4ffd1</a></p>\n<p>Comments URL: <a href=\"https://news...",
-      "published": "2026-09-22T20:42:49+00:00",
-      "domain": "ft.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Common denominators of organisms with exceptional longevity",
-      "link": "https://www.aging-us.com/article/206419/text",
-      "summary": "<p>Article URL: <a href=\"https://www.aging-us.com/article/206419/text\">https://www.aging-us.com/article/206419/text</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49807774\">htt...",
-      "published": "2026-09-22T20:41:00+00:00",
-      "domain": "aging-us.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -167,6 +167,102 @@
   ],
   "anarchy_ranked": [
     {
+      "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
+      "link": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
+      "summary": "<p>Article URL: <a href=\"https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/\">https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to...",
+      "published": "2026-09-23T03:38:12+00:00",
+      "domain": "techcrunch.com",
+      "scores": {
+        "chaos": 9.0,
+        "anarchy": 6.0,
+        "overall": 7.5
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Porting Bhyve to Rust",
+      "link": "https://github.com/TritonDataCenter/rshyve",
+      "summary": "<p>Article URL: <a href=\"https://github.com/TritonDataCenter/rshyve\">https://github.com/TritonDataCenter/rshyve</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49811367\">https:/...",
+      "published": "2026-09-23T03:39:43+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Anatomy of a (Postgres) Search Engine",
+      "link": "https://planetscale.com/blog/anatomy-of-a-postgres-search-engine",
+      "summary": "<p>Article URL: <a href=\"https://planetscale.com/blog/anatomy-of-a-postgres-search-engine\">https://planetscale.com/blog/anatomy-of-a-postgres-search-engine</a></p>\n<p>Comments URL: <a href=\"https://ne...",
+      "published": "2026-09-23T03:34:00+00:00",
+      "domain": "planetscale.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Specs cut defects in AI-generated code from 148 to 23 across five models",
+      "link": "https://arxiv.org/abs/2609.23270",
+      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2609.23270\">https://arxiv.org/abs/2609.23270</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49811333\">https://news.ycombinator.co...",
+      "published": "2026-09-23T03:33:02+00:00",
+      "domain": "arxiv.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "President Lula Dataset",
+      "link": "https://huggingface.co/datasets/geoffchan/lula-footage/viewer/default/train",
+      "summary": "<p>Article URL: <a href=\"https://huggingface.co/datasets/geoffchan/lula-footage/viewer/default/train\">https://huggingface.co/datasets/geoffchan/lula-footage/viewer/default/train</a></p>\n<p>Comments UR...",
+      "published": "2026-09-23T03:32:22+00:00",
+      "domain": "huggingface.co",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "US criticises Australia's proposed algorithm opt-out laws as 'censorship'",
+      "link": "https://www.bbc.com/news/articles/cqj3dgy8x3vro",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49810829\">Comments</a>...",
+      "published": "2026-09-23T02:13:52+00:00",
+      "domain": "bbc.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "Check Point Warns of Management Server Zero-Day Exploited in Targeted Attacks",
       "link": "https://thehackernews.com/2026/09/check-point-warns-of-management-server.html",
       "summary": "Attackers exploited a previously unknown flaw in Check Point's Security Management Server in a handful of targeted attacks on July 23,&nbsp;the company said.\n\nThe flaw, CVE-2026-93616, allows an attac...",
@@ -231,108 +327,28 @@
         "chaos": [
           "down"
         ],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Critical Bifrost AI Gateway Flaw Lets Attackers Run Commands Without Credentials",
-      "link": "https://thehackernews.com/2026/09/critical-bifrost-ai-gateway-flaw-lets.html",
-      "summary": "A critical vulnerability in&nbsp;Bifrost, an open-source AI gateway that routes requests to more than 20 LLM providers, allows an unauthenticated attacker to run arbitrary commands on the gateway serv...",
-      "published": "2026-09-22T22:11:12+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: Sandopolis \u2013 A portable multi-system Sega emulator",
-      "link": "https://news.ycombinator.com/item?id=49807854",
-      "summary": "<p>Project homepage: <a href=\"https://github.com/pixel-clover/sandopolis\" rel=\"nofollow\">https://github.com/pixel-clover/sandopolis</a><p>Download link: <a href=\"https://github.com/pixel-clover/sandop...",
-      "published": "2026-09-22T20:47:50+00:00",
-      "domain": "news.ycombinator.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: JevEval, evals using Jev-as-a-judge",
-      "link": "https://deepeval.com/blog/introducing-jev-as-a-judge",
-      "summary": "<p>Article URL: <a href=\"https://deepeval.com/blog/introducing-jev-as-a-judge\">https://deepeval.com/blog/introducing-jev-as-a-judge</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?...",
-      "published": "2026-09-22T20:47:32+00:00",
-      "domain": "deepeval.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Datapages v0.10.0 Beta Release",
-      "link": "https://github.com/romshark/datapages/releases/tag/v0.10.0",
-      "summary": "<p>Article URL: <a href=\"https://github.com/romshark/datapages/releases/tag/v0.10.0\">https://github.com/romshark/datapages/releases/tag/v0.10.0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinat...",
-      "published": "2026-09-22T20:46:13+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Kremlin-backed forgery scheme moved $6.9B through global banks",
-      "link": "https://www.ft.com/content/3848a4ad-1426-4352-ba86-ef1279c4ffd1",
-      "summary": "<p>Article URL: <a href=\"https://www.ft.com/content/3848a4ad-1426-4352-ba86-ef1279c4ffd1\">https://www.ft.com/content/3848a4ad-1426-4352-ba86-ef1279c4ffd1</a></p>\n<p>Comments URL: <a href=\"https://news...",
-      "published": "2026-09-22T20:42:49+00:00",
-      "domain": "ft.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Common denominators of organisms with exceptional longevity",
-      "link": "https://www.aging-us.com/article/206419/text",
-      "summary": "<p>Article URL: <a href=\"https://www.aging-us.com/article/206419/text\">https://www.aging-us.com/article/206419/text</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49807774\">htt...",
-      "published": "2026-09-22T20:41:00+00:00",
-      "domain": "aging-us.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
         "anarchy": []
       }
     }
   ],
   "overall_ranked": [
     {
+      "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
+      "link": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
+      "summary": "<p>Article URL: <a href=\"https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/\">https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to...",
+      "published": "2026-09-23T03:38:12+00:00",
+      "domain": "techcrunch.com",
+      "scores": {
+        "chaos": 9.0,
+        "anarchy": 6.0,
+        "overall": 7.5
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "Malicious npm Package Poses as Twilio Bug-Bounty Probe, Can Exfiltrate Credentials",
       "link": "https://thehackernews.com/2026/09/malicious-npm-package-poses-as-twilio.html",
       "summary": "Cybersecurity researchers have disclosed details of a malicious npm package named \"tw-pkgprobe-7731\" that masquerades as a security tool targeting developers integrating Twilio into their applications...",
@@ -369,6 +385,86 @@
       }
     },
     {
+      "title": "Porting Bhyve to Rust",
+      "link": "https://github.com/TritonDataCenter/rshyve",
+      "summary": "<p>Article URL: <a href=\"https://github.com/TritonDataCenter/rshyve\">https://github.com/TritonDataCenter/rshyve</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49811367\">https:/...",
+      "published": "2026-09-23T03:39:43+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Anatomy of a (Postgres) Search Engine",
+      "link": "https://planetscale.com/blog/anatomy-of-a-postgres-search-engine",
+      "summary": "<p>Article URL: <a href=\"https://planetscale.com/blog/anatomy-of-a-postgres-search-engine\">https://planetscale.com/blog/anatomy-of-a-postgres-search-engine</a></p>\n<p>Comments URL: <a href=\"https://ne...",
+      "published": "2026-09-23T03:34:00+00:00",
+      "domain": "planetscale.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Specs cut defects in AI-generated code from 148 to 23 across five models",
+      "link": "https://arxiv.org/abs/2609.23270",
+      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2609.23270\">https://arxiv.org/abs/2609.23270</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49811333\">https://news.ycombinator.co...",
+      "published": "2026-09-23T03:33:02+00:00",
+      "domain": "arxiv.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "President Lula Dataset",
+      "link": "https://huggingface.co/datasets/geoffchan/lula-footage/viewer/default/train",
+      "summary": "<p>Article URL: <a href=\"https://huggingface.co/datasets/geoffchan/lula-footage/viewer/default/train\">https://huggingface.co/datasets/geoffchan/lula-footage/viewer/default/train</a></p>\n<p>Comments UR...",
+      "published": "2026-09-23T03:32:22+00:00",
+      "domain": "huggingface.co",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "US criticises Australia's proposed algorithm opt-out laws as 'censorship'",
+      "link": "https://www.bbc.com/news/articles/cqj3dgy8x3vro",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49810829\">Comments</a>...",
+      "published": "2026-09-23T02:13:52+00:00",
+      "domain": "bbc.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "Check Point Warns of Management Server Zero-Day Exploited in Targeted Attacks",
       "link": "https://thehackernews.com/2026/09/check-point-warns-of-management-server.html",
       "summary": "Attackers exploited a previously unknown flaw in Check Point's Security Management Server in a handful of targeted attacks on July 23,&nbsp;the company said.\n\nThe flaw, CVE-2026-93616, allows an attac...",
@@ -390,102 +486,6 @@
       "summary": "WordPress has fixed a critical flaw in its core software that lets an attacker with no account make a site load a PHP file from outside its theme folders.\n\nOn some servers, that can go further, allowi...",
       "published": "2026-09-22T23:33:10+05:30",
       "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Critical Bifrost AI Gateway Flaw Lets Attackers Run Commands Without Credentials",
-      "link": "https://thehackernews.com/2026/09/critical-bifrost-ai-gateway-flaw-lets.html",
-      "summary": "A critical vulnerability in&nbsp;Bifrost, an open-source AI gateway that routes requests to more than 20 LLM providers, allows an unauthenticated attacker to run arbitrary commands on the gateway serv...",
-      "published": "2026-09-22T22:11:12+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: Sandopolis \u2013 A portable multi-system Sega emulator",
-      "link": "https://news.ycombinator.com/item?id=49807854",
-      "summary": "<p>Project homepage: <a href=\"https://github.com/pixel-clover/sandopolis\" rel=\"nofollow\">https://github.com/pixel-clover/sandopolis</a><p>Download link: <a href=\"https://github.com/pixel-clover/sandop...",
-      "published": "2026-09-22T20:47:50+00:00",
-      "domain": "news.ycombinator.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: JevEval, evals using Jev-as-a-judge",
-      "link": "https://deepeval.com/blog/introducing-jev-as-a-judge",
-      "summary": "<p>Article URL: <a href=\"https://deepeval.com/blog/introducing-jev-as-a-judge\">https://deepeval.com/blog/introducing-jev-as-a-judge</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?...",
-      "published": "2026-09-22T20:47:32+00:00",
-      "domain": "deepeval.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Datapages v0.10.0 Beta Release",
-      "link": "https://github.com/romshark/datapages/releases/tag/v0.10.0",
-      "summary": "<p>Article URL: <a href=\"https://github.com/romshark/datapages/releases/tag/v0.10.0\">https://github.com/romshark/datapages/releases/tag/v0.10.0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinat...",
-      "published": "2026-09-22T20:46:13+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Kremlin-backed forgery scheme moved $6.9B through global banks",
-      "link": "https://www.ft.com/content/3848a4ad-1426-4352-ba86-ef1279c4ffd1",
-      "summary": "<p>Article URL: <a href=\"https://www.ft.com/content/3848a4ad-1426-4352-ba86-ef1279c4ffd1\">https://www.ft.com/content/3848a4ad-1426-4352-ba86-ef1279c4ffd1</a></p>\n<p>Comments URL: <a href=\"https://news...",
-      "published": "2026-09-22T20:42:49+00:00",
-      "domain": "ft.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Common denominators of organisms with exceptional longevity",
-      "link": "https://www.aging-us.com/article/206419/text",
-      "summary": "<p>Article URL: <a href=\"https://www.aging-us.com/article/206419/text\">https://www.aging-us.com/article/206419/text</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49807774\">htt...",
-      "published": "2026-09-22T20:41:00+00:00",
-      "domain": "aging-us.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -499,6 +499,102 @@
   ],
   "all_articles": [
     {
+      "title": "Porting Bhyve to Rust",
+      "link": "https://github.com/TritonDataCenter/rshyve",
+      "summary": "<p>Article URL: <a href=\"https://github.com/TritonDataCenter/rshyve\">https://github.com/TritonDataCenter/rshyve</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49811367\">https:/...",
+      "published": "2026-09-23T03:39:43+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
+      "link": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
+      "summary": "<p>Article URL: <a href=\"https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/\">https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to...",
+      "published": "2026-09-23T03:38:12+00:00",
+      "domain": "techcrunch.com",
+      "scores": {
+        "chaos": 9.0,
+        "anarchy": 6.0,
+        "overall": 7.5
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Anatomy of a (Postgres) Search Engine",
+      "link": "https://planetscale.com/blog/anatomy-of-a-postgres-search-engine",
+      "summary": "<p>Article URL: <a href=\"https://planetscale.com/blog/anatomy-of-a-postgres-search-engine\">https://planetscale.com/blog/anatomy-of-a-postgres-search-engine</a></p>\n<p>Comments URL: <a href=\"https://ne...",
+      "published": "2026-09-23T03:34:00+00:00",
+      "domain": "planetscale.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Specs cut defects in AI-generated code from 148 to 23 across five models",
+      "link": "https://arxiv.org/abs/2609.23270",
+      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2609.23270\">https://arxiv.org/abs/2609.23270</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49811333\">https://news.ycombinator.co...",
+      "published": "2026-09-23T03:33:02+00:00",
+      "domain": "arxiv.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "President Lula Dataset",
+      "link": "https://huggingface.co/datasets/geoffchan/lula-footage/viewer/default/train",
+      "summary": "<p>Article URL: <a href=\"https://huggingface.co/datasets/geoffchan/lula-footage/viewer/default/train\">https://huggingface.co/datasets/geoffchan/lula-footage/viewer/default/train</a></p>\n<p>Comments UR...",
+      "published": "2026-09-23T03:32:22+00:00",
+      "domain": "huggingface.co",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "US criticises Australia's proposed algorithm opt-out laws as 'censorship'",
+      "link": "https://www.bbc.com/news/articles/cqj3dgy8x3vro",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49810829\">Comments</a>...",
+      "published": "2026-09-23T02:13:52+00:00",
+      "domain": "bbc.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "Check Point Warns of Management Server Zero-Day Exploited in Targeted Attacks",
       "link": "https://thehackernews.com/2026/09/check-point-warns-of-management-server.html",
       "summary": "Attackers exploited a previously unknown flaw in Check Point's Security Management Server in a handful of targeted attacks on July 23,&nbsp;the company said.\n\nThe flaw, CVE-2026-93616, allows an attac...",
@@ -563,102 +659,6 @@
         "chaos": [
           "down"
         ],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Critical Bifrost AI Gateway Flaw Lets Attackers Run Commands Without Credentials",
-      "link": "https://thehackernews.com/2026/09/critical-bifrost-ai-gateway-flaw-lets.html",
-      "summary": "A critical vulnerability in&nbsp;Bifrost, an open-source AI gateway that routes requests to more than 20 LLM providers, allows an unauthenticated attacker to run arbitrary commands on the gateway serv...",
-      "published": "2026-09-22T22:11:12+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: Sandopolis \u2013 A portable multi-system Sega emulator",
-      "link": "https://news.ycombinator.com/item?id=49807854",
-      "summary": "<p>Project homepage: <a href=\"https://github.com/pixel-clover/sandopolis\" rel=\"nofollow\">https://github.com/pixel-clover/sandopolis</a><p>Download link: <a href=\"https://github.com/pixel-clover/sandop...",
-      "published": "2026-09-22T20:47:50+00:00",
-      "domain": "news.ycombinator.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: JevEval, evals using Jev-as-a-judge",
-      "link": "https://deepeval.com/blog/introducing-jev-as-a-judge",
-      "summary": "<p>Article URL: <a href=\"https://deepeval.com/blog/introducing-jev-as-a-judge\">https://deepeval.com/blog/introducing-jev-as-a-judge</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?...",
-      "published": "2026-09-22T20:47:32+00:00",
-      "domain": "deepeval.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Datapages v0.10.0 Beta Release",
-      "link": "https://github.com/romshark/datapages/releases/tag/v0.10.0",
-      "summary": "<p>Article URL: <a href=\"https://github.com/romshark/datapages/releases/tag/v0.10.0\">https://github.com/romshark/datapages/releases/tag/v0.10.0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinat...",
-      "published": "2026-09-22T20:46:13+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Kremlin-backed forgery scheme moved $6.9B through global banks",
-      "link": "https://www.ft.com/content/3848a4ad-1426-4352-ba86-ef1279c4ffd1",
-      "summary": "<p>Article URL: <a href=\"https://www.ft.com/content/3848a4ad-1426-4352-ba86-ef1279c4ffd1\">https://www.ft.com/content/3848a4ad-1426-4352-ba86-ef1279c4ffd1</a></p>\n<p>Comments URL: <a href=\"https://news...",
-      "published": "2026-09-22T20:42:49+00:00",
-      "domain": "ft.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Common denominators of organisms with exceptional longevity",
-      "link": "https://www.aging-us.com/article/206419/text",
-      "summary": "<p>Article URL: <a href=\"https://www.aging-us.com/article/206419/text\">https://www.aging-us.com/article/206419/text</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49807774\">htt...",
-      "published": "2026-09-22T20:41:00+00:00",
-      "domain": "aging-us.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
         "anarchy": []
       }
     }
