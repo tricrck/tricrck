@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### This Windows Malware is Built to Let Up to Four AI Models Vote on Its Next Move
+### Attackers Use Malicious Terraform Providers to Deliver Go Malware via HashiCorp Registry
 - **Published**: September 23, 2026
-- **Summary**: A Windows malware called CLOSEDQUORUM is built to take orders from a vote of up to four AI models instead of an attacker's server,&nbsp;Cisco Talos sa...
-- [Read more](https://thehackernews.com/2026/09/windows-malware-is-built-to-let-up-to.html)
+- **Summary**: Cybersecurity researchers have disclosed Go-based malware distributed via two Go Modules and two Terraform providers, marking the first time threat ac...
+- [Read more](https://thehackernews.com/2026/09/attackers-use-malicious-terraform.html)
 
-### Compromised MemTensor Packages Deliver sckit Credential Stealer via npm and PyPI
+### A Leaked GitLab Issue Email Address Lets Anyone Push Code and Run CI Jobs as You
 - **Published**: September 23, 2026
-- **Summary**: Unknown threat actors have managed to compromise two legitimate MemTensor packages across the npm and Python Package Index (PyPI) repositories to push...
-- [Read more](https://thehackernews.com/2026/09/compromised-memtensor-packages-deliver.html)
+- **Summary**: The private email address GitLab gives you for filing issues by email is a credential. Anyone who gets it can email a patch that GitLab commits in you...
+- [Read more](https://thehackernews.com/2026/09/a-leaked-gitlab-issue-email-address.html)
 
 ---
 

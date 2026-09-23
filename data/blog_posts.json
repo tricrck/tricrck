@@ -1,6 +1,134 @@
 {
   "chaos_ranked": [
     {
+      "title": "Attackers Use Malicious Terraform Providers to Deliver Go Malware via HashiCorp Registry",
+      "link": "https://thehackernews.com/2026/09/attackers-use-malicious-terraform.html",
+      "summary": "Cybersecurity researchers have disclosed Go-based malware distributed via two Go Modules and two Terraform providers, marking the first time threat actors are using the centralized repository hosted b...",
+      "published": "2026-09-23T23:36:30+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "A Leaked GitLab Issue Email Address Lets Anyone Push Code and Run CI Jobs as You",
+      "link": "https://thehackernews.com/2026/09/a-leaked-gitlab-issue-email-address.html",
+      "summary": "The private email address GitLab gives you for filing issues by email is a credential. Anyone who gets it can email a patch that GitLab commits in your name, to any branch you can push to, including m...",
+      "published": "2026-09-23T22:23:10+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "MikroTrick Chain Let Attackers Take Over MikroTik Routers Without a Password or SSH Key",
+      "link": "https://thehackernews.com/2026/09/mikrotrick-chain-let-attackers-take.html",
+      "summary": "Two MikroTik RouterOS SSH vulnerabilities chained together let attackers take full administrative control of Internet-exposed routers without a password, SSH key, or completed authentication.\n\nThe cha...",
+      "published": "2026-09-23T21:36:41+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "OpenAI Medicare Data Breach",
+      "link": "https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html",
+      "summary": "<p>Article URL: <a href=\"https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html\">https://www.smh.com.au/politics/federal/openai-breaches-medicare-albane...",
+      "published": "2026-09-23T21:01:48+00:00",
+      "domain": "smh.com.au",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "VSCode's SSH Agent Is Bananas",
+      "link": "https://fly.io/blog/vscode-ssh-wtf/",
+      "summary": "<p>Article URL: <a href=\"https://fly.io/blog/vscode-ssh-wtf/\">https://fly.io/blog/vscode-ssh-wtf/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49822555\">https://news.ycombina...",
+      "published": "2026-09-23T21:01:48+00:00",
+      "domain": "fly.io",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Letter \u2013 Relationship-based access control (ReBAC) Postgres extension",
+      "link": "https://github.com/paulharter/letter",
+      "summary": "<p>Article URL: <a href=\"https://github.com/paulharter/letter\">https://github.com/paulharter/letter</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49822534\">https://news.ycombi...",
+      "published": "2026-09-23T21:00:49+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "I made Resend feel more like a normal desktop inbox",
+      "link": "https://www.maildeskt.com/",
+      "summary": "<p>Article URL: <a href=\"https://www.maildeskt.com/\">https://www.maildeskt.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49822529\">https://news.ycombinator.com/item?id=49...",
+      "published": "2026-09-23T21:00:43+00:00",
+      "domain": "maildeskt.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The unexpected ingredient hidden on Poland's shoreline (4 min video)",
+      "link": "https://www.bbc.com/reel/video/p0p624cz/watch",
+      "summary": "<p>Article URL: <a href=\"https://www.bbc.com/reel/video/p0p624cz/watch\">https://www.bbc.com/reel/video/p0p624cz/watch</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49822527\">h...",
+      "published": "2026-09-23T21:00:38+00:00",
+      "domain": "bbc.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "This Windows Malware is Built to Let Up to Four AI Models Vote on Its Next Move",
       "link": "https://thehackernews.com/2026/09/windows-malware-is-built-to-let-up-to.html",
       "summary": "A Windows malware called CLOSEDQUORUM is built to take orders from a vote of up to four AI models instead of an attacker's server,&nbsp;Cisco Talos said&nbsp;on September 22.\n\nThe models can choose to...",
@@ -22,136 +150,6 @@
       "summary": "Unknown threat actors have managed to compromise two legitimate MemTensor packages across the npm and Python Package Index (PyPI) repositories to push a platform-specific Go-based implant dubbed sckit...",
       "published": "2026-09-23T19:22:46+05:30",
       "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "New cPanel Flaw Lets a Hosting Account Run Code as Root, Take Full Server Control",
-      "link": "https://thehackernews.com/2026/09/new-cpanel-flaw-lets-hosting-account_0272795595.html",
-      "summary": "A flaw in cPanel's&nbsp;CalDAV and CardDAV service&nbsp;lets anyone with a cPanel hosting account run code as root and take \"full control of the server,\" the company said on September 22.\n\nA&nbsp;seco...",
-      "published": "2026-09-23T17:46:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "545 Hackers Tested It First. Now XRanges for AI Scores Your Security Agent",
-      "link": "https://thehackernews.com/2026/09/545-hackers-tested-it-first-now-xranges.html",
-      "summary": "Autonomous security agents are getting good at finding bugs. Nobody has a good way to measure how good. Point one at a realistic target and what comes back is a report the agent wrote about itself: co...",
-      "published": "2026-09-23T17:17:19+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 11.4,
-        "overall": 7.2
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": [
-          "autonomous"
-        ]
-      }
-    },
-    {
-      "title": "Anthropic and OpenAI Models Still Attempt Restricted Actions in Safety Tests",
-      "link": "https://thehackernews.com/2026/09/anthropic-and-openai-models-still.html",
-      "summary": "Anthropic and OpenAI on Tuesday announced new models, with both artificial intelligence (AI) companies noting that they are continuing to invest in improving alignment to combat risky behavior.\n\nOpus ...",
-      "published": "2026-09-23T17:17:13+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Functionally Zen",
-      "link": "https://testdouble.com/insights/functionally-zen",
-      "summary": "<p>Article URL: <a href=\"https://testdouble.com/insights/functionally-zen\">https://testdouble.com/insights/functionally-zen</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49818...",
-      "published": "2026-09-23T16:07:05+00:00",
-      "domain": "testdouble.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Trump reveals millions of dollars' worth of share deals in big tech and AI",
-      "link": "https://www.bbc.com/news/articles/c6p3kxpp8lezo",
-      "summary": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/c6p3kxpp8lezo\">https://www.bbc.com/news/articles/c6p3kxpp8lezo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4981818...",
-      "published": "2026-09-23T16:06:49+00:00",
-      "domain": "bbc.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "OpenAI nabs key Patreon execs ahead of upcoming announcement",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/999249/openai-creators-patreon-execs-hire-sam-yam",
-      "summary": "<p>Article URL: <a href=\"https://www.theverge.com/ai-artificial-intelligence/999249/openai-creators-patreon-execs-hire-sam-yam\">https://www.theverge.com/ai-artificial-intelligence/999249/openai-creato...",
-      "published": "2026-09-23T16:06:31+00:00",
-      "domain": "theverge.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Open-weight models now carry 56% of production tokens and 14% of the spend",
-      "link": "https://fromtheterminal.substack.com/p/your-production-traffic-already-left-the-frontier",
-      "summary": "<p>Article URL: <a href=\"https://fromtheterminal.substack.com/p/your-production-traffic-already-left-the-frontier\">https://fromtheterminal.substack.com/p/your-production-traffic-already-left-the-front...",
-      "published": "2026-09-23T16:06:01+00:00",
-      "domain": "fromtheterminal.substack.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: Volum \u2013 An open-source visual library for 3D model files",
-      "link": "https://volum.didac.dev/",
-      "summary": "<p>Article URL: <a href=\"https://volum.didac.dev/\">https://volum.didac.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49818171\">https://news.ycombinator.com/item?id=498181...",
-      "published": "2026-09-23T16:05:42+00:00",
-      "domain": "volum.didac.dev",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -165,21 +163,131 @@
   ],
   "anarchy_ranked": [
     {
-      "title": "545 Hackers Tested It First. Now XRanges for AI Scores Your Security Agent",
-      "link": "https://thehackernews.com/2026/09/545-hackers-tested-it-first-now-xranges.html",
-      "summary": "Autonomous security agents are getting good at finding bugs. Nobody has a good way to measure how good. Point one at a realistic target and what comes back is a report the agent wrote about itself: co...",
-      "published": "2026-09-23T17:17:19+05:30",
+      "title": "Attackers Use Malicious Terraform Providers to Deliver Go Malware via HashiCorp Registry",
+      "link": "https://thehackernews.com/2026/09/attackers-use-malicious-terraform.html",
+      "summary": "Cybersecurity researchers have disclosed Go-based malware distributed via two Go Modules and two Terraform providers, marking the first time threat actors are using the centralized repository hosted b...",
+      "published": "2026-09-23T23:36:30+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
-        "anarchy": 11.4,
-        "overall": 7.2
+        "anarchy": 3.0,
+        "overall": 3.0
       },
       "keywords": {
         "chaos": [],
-        "anarchy": [
-          "autonomous"
-        ]
+        "anarchy": []
+      }
+    },
+    {
+      "title": "A Leaked GitLab Issue Email Address Lets Anyone Push Code and Run CI Jobs as You",
+      "link": "https://thehackernews.com/2026/09/a-leaked-gitlab-issue-email-address.html",
+      "summary": "The private email address GitLab gives you for filing issues by email is a credential. Anyone who gets it can email a patch that GitLab commits in your name, to any branch you can push to, including m...",
+      "published": "2026-09-23T22:23:10+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "MikroTrick Chain Let Attackers Take Over MikroTik Routers Without a Password or SSH Key",
+      "link": "https://thehackernews.com/2026/09/mikrotrick-chain-let-attackers-take.html",
+      "summary": "Two MikroTik RouterOS SSH vulnerabilities chained together let attackers take full administrative control of Internet-exposed routers without a password, SSH key, or completed authentication.\n\nThe cha...",
+      "published": "2026-09-23T21:36:41+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "OpenAI Medicare Data Breach",
+      "link": "https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html",
+      "summary": "<p>Article URL: <a href=\"https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html\">https://www.smh.com.au/politics/federal/openai-breaches-medicare-albane...",
+      "published": "2026-09-23T21:01:48+00:00",
+      "domain": "smh.com.au",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "VSCode's SSH Agent Is Bananas",
+      "link": "https://fly.io/blog/vscode-ssh-wtf/",
+      "summary": "<p>Article URL: <a href=\"https://fly.io/blog/vscode-ssh-wtf/\">https://fly.io/blog/vscode-ssh-wtf/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49822555\">https://news.ycombina...",
+      "published": "2026-09-23T21:01:48+00:00",
+      "domain": "fly.io",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Letter \u2013 Relationship-based access control (ReBAC) Postgres extension",
+      "link": "https://github.com/paulharter/letter",
+      "summary": "<p>Article URL: <a href=\"https://github.com/paulharter/letter\">https://github.com/paulharter/letter</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49822534\">https://news.ycombi...",
+      "published": "2026-09-23T21:00:49+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "I made Resend feel more like a normal desktop inbox",
+      "link": "https://www.maildeskt.com/",
+      "summary": "<p>Article URL: <a href=\"https://www.maildeskt.com/\">https://www.maildeskt.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49822529\">https://news.ycombinator.com/item?id=49...",
+      "published": "2026-09-23T21:00:43+00:00",
+      "domain": "maildeskt.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The unexpected ingredient hidden on Poland's shoreline (4 min video)",
+      "link": "https://www.bbc.com/reel/video/p0p624cz/watch",
+      "summary": "<p>Article URL: <a href=\"https://www.bbc.com/reel/video/p0p624cz/watch\">https://www.bbc.com/reel/video/p0p624cz/watch</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49822527\">h...",
+      "published": "2026-09-23T21:00:38+00:00",
+      "domain": "bbc.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
       }
     },
     {
@@ -204,118 +312,6 @@
       "summary": "Unknown threat actors have managed to compromise two legitimate MemTensor packages across the npm and Python Package Index (PyPI) repositories to push a platform-specific Go-based implant dubbed sckit...",
       "published": "2026-09-23T19:22:46+05:30",
       "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "New cPanel Flaw Lets a Hosting Account Run Code as Root, Take Full Server Control",
-      "link": "https://thehackernews.com/2026/09/new-cpanel-flaw-lets-hosting-account_0272795595.html",
-      "summary": "A flaw in cPanel's&nbsp;CalDAV and CardDAV service&nbsp;lets anyone with a cPanel hosting account run code as root and take \"full control of the server,\" the company said on September 22.\n\nA&nbsp;seco...",
-      "published": "2026-09-23T17:46:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Anthropic and OpenAI Models Still Attempt Restricted Actions in Safety Tests",
-      "link": "https://thehackernews.com/2026/09/anthropic-and-openai-models-still.html",
-      "summary": "Anthropic and OpenAI on Tuesday announced new models, with both artificial intelligence (AI) companies noting that they are continuing to invest in improving alignment to combat risky behavior.\n\nOpus ...",
-      "published": "2026-09-23T17:17:13+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Functionally Zen",
-      "link": "https://testdouble.com/insights/functionally-zen",
-      "summary": "<p>Article URL: <a href=\"https://testdouble.com/insights/functionally-zen\">https://testdouble.com/insights/functionally-zen</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49818...",
-      "published": "2026-09-23T16:07:05+00:00",
-      "domain": "testdouble.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Trump reveals millions of dollars' worth of share deals in big tech and AI",
-      "link": "https://www.bbc.com/news/articles/c6p3kxpp8lezo",
-      "summary": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/c6p3kxpp8lezo\">https://www.bbc.com/news/articles/c6p3kxpp8lezo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4981818...",
-      "published": "2026-09-23T16:06:49+00:00",
-      "domain": "bbc.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "OpenAI nabs key Patreon execs ahead of upcoming announcement",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/999249/openai-creators-patreon-execs-hire-sam-yam",
-      "summary": "<p>Article URL: <a href=\"https://www.theverge.com/ai-artificial-intelligence/999249/openai-creators-patreon-execs-hire-sam-yam\">https://www.theverge.com/ai-artificial-intelligence/999249/openai-creato...",
-      "published": "2026-09-23T16:06:31+00:00",
-      "domain": "theverge.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Open-weight models now carry 56% of production tokens and 14% of the spend",
-      "link": "https://fromtheterminal.substack.com/p/your-production-traffic-already-left-the-frontier",
-      "summary": "<p>Article URL: <a href=\"https://fromtheterminal.substack.com/p/your-production-traffic-already-left-the-frontier\">https://fromtheterminal.substack.com/p/your-production-traffic-already-left-the-front...",
-      "published": "2026-09-23T16:06:01+00:00",
-      "domain": "fromtheterminal.substack.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: Volum \u2013 An open-source visual library for 3D model files",
-      "link": "https://volum.didac.dev/",
-      "summary": "<p>Article URL: <a href=\"https://volum.didac.dev/\">https://volum.didac.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49818171\">https://news.ycombinator.com/item?id=498181...",
-      "published": "2026-09-23T16:05:42+00:00",
-      "domain": "volum.didac.dev",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -329,21 +325,131 @@
   ],
   "overall_ranked": [
     {
-      "title": "545 Hackers Tested It First. Now XRanges for AI Scores Your Security Agent",
-      "link": "https://thehackernews.com/2026/09/545-hackers-tested-it-first-now-xranges.html",
-      "summary": "Autonomous security agents are getting good at finding bugs. Nobody has a good way to measure how good. Point one at a realistic target and what comes back is a report the agent wrote about itself: co...",
-      "published": "2026-09-23T17:17:19+05:30",
+      "title": "Attackers Use Malicious Terraform Providers to Deliver Go Malware via HashiCorp Registry",
+      "link": "https://thehackernews.com/2026/09/attackers-use-malicious-terraform.html",
+      "summary": "Cybersecurity researchers have disclosed Go-based malware distributed via two Go Modules and two Terraform providers, marking the first time threat actors are using the centralized repository hosted b...",
+      "published": "2026-09-23T23:36:30+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
-        "anarchy": 11.4,
-        "overall": 7.2
+        "anarchy": 3.0,
+        "overall": 3.0
       },
       "keywords": {
         "chaos": [],
-        "anarchy": [
-          "autonomous"
-        ]
+        "anarchy": []
+      }
+    },
+    {
+      "title": "A Leaked GitLab Issue Email Address Lets Anyone Push Code and Run CI Jobs as You",
+      "link": "https://thehackernews.com/2026/09/a-leaked-gitlab-issue-email-address.html",
+      "summary": "The private email address GitLab gives you for filing issues by email is a credential. Anyone who gets it can email a patch that GitLab commits in your name, to any branch you can push to, including m...",
+      "published": "2026-09-23T22:23:10+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "MikroTrick Chain Let Attackers Take Over MikroTik Routers Without a Password or SSH Key",
+      "link": "https://thehackernews.com/2026/09/mikrotrick-chain-let-attackers-take.html",
+      "summary": "Two MikroTik RouterOS SSH vulnerabilities chained together let attackers take full administrative control of Internet-exposed routers without a password, SSH key, or completed authentication.\n\nThe cha...",
+      "published": "2026-09-23T21:36:41+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "OpenAI Medicare Data Breach",
+      "link": "https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html",
+      "summary": "<p>Article URL: <a href=\"https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html\">https://www.smh.com.au/politics/federal/openai-breaches-medicare-albane...",
+      "published": "2026-09-23T21:01:48+00:00",
+      "domain": "smh.com.au",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "VSCode's SSH Agent Is Bananas",
+      "link": "https://fly.io/blog/vscode-ssh-wtf/",
+      "summary": "<p>Article URL: <a href=\"https://fly.io/blog/vscode-ssh-wtf/\">https://fly.io/blog/vscode-ssh-wtf/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49822555\">https://news.ycombina...",
+      "published": "2026-09-23T21:01:48+00:00",
+      "domain": "fly.io",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Letter \u2013 Relationship-based access control (ReBAC) Postgres extension",
+      "link": "https://github.com/paulharter/letter",
+      "summary": "<p>Article URL: <a href=\"https://github.com/paulharter/letter\">https://github.com/paulharter/letter</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49822534\">https://news.ycombi...",
+      "published": "2026-09-23T21:00:49+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "I made Resend feel more like a normal desktop inbox",
+      "link": "https://www.maildeskt.com/",
+      "summary": "<p>Article URL: <a href=\"https://www.maildeskt.com/\">https://www.maildeskt.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49822529\">https://news.ycombinator.com/item?id=49...",
+      "published": "2026-09-23T21:00:43+00:00",
+      "domain": "maildeskt.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The unexpected ingredient hidden on Poland's shoreline (4 min video)",
+      "link": "https://www.bbc.com/reel/video/p0p624cz/watch",
+      "summary": "<p>Article URL: <a href=\"https://www.bbc.com/reel/video/p0p624cz/watch\">https://www.bbc.com/reel/video/p0p624cz/watch</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49822527\">h...",
+      "published": "2026-09-23T21:00:38+00:00",
+      "domain": "bbc.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
       }
     },
     {
@@ -368,118 +474,6 @@
       "summary": "Unknown threat actors have managed to compromise two legitimate MemTensor packages across the npm and Python Package Index (PyPI) repositories to push a platform-specific Go-based implant dubbed sckit...",
       "published": "2026-09-23T19:22:46+05:30",
       "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "New cPanel Flaw Lets a Hosting Account Run Code as Root, Take Full Server Control",
-      "link": "https://thehackernews.com/2026/09/new-cpanel-flaw-lets-hosting-account_0272795595.html",
-      "summary": "A flaw in cPanel's&nbsp;CalDAV and CardDAV service&nbsp;lets anyone with a cPanel hosting account run code as root and take \"full control of the server,\" the company said on September 22.\n\nA&nbsp;seco...",
-      "published": "2026-09-23T17:46:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Anthropic and OpenAI Models Still Attempt Restricted Actions in Safety Tests",
-      "link": "https://thehackernews.com/2026/09/anthropic-and-openai-models-still.html",
-      "summary": "Anthropic and OpenAI on Tuesday announced new models, with both artificial intelligence (AI) companies noting that they are continuing to invest in improving alignment to combat risky behavior.\n\nOpus ...",
-      "published": "2026-09-23T17:17:13+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Functionally Zen",
-      "link": "https://testdouble.com/insights/functionally-zen",
-      "summary": "<p>Article URL: <a href=\"https://testdouble.com/insights/functionally-zen\">https://testdouble.com/insights/functionally-zen</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49818...",
-      "published": "2026-09-23T16:07:05+00:00",
-      "domain": "testdouble.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Trump reveals millions of dollars' worth of share deals in big tech and AI",
-      "link": "https://www.bbc.com/news/articles/c6p3kxpp8lezo",
-      "summary": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/c6p3kxpp8lezo\">https://www.bbc.com/news/articles/c6p3kxpp8lezo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4981818...",
-      "published": "2026-09-23T16:06:49+00:00",
-      "domain": "bbc.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "OpenAI nabs key Patreon execs ahead of upcoming announcement",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/999249/openai-creators-patreon-execs-hire-sam-yam",
-      "summary": "<p>Article URL: <a href=\"https://www.theverge.com/ai-artificial-intelligence/999249/openai-creators-patreon-execs-hire-sam-yam\">https://www.theverge.com/ai-artificial-intelligence/999249/openai-creato...",
-      "published": "2026-09-23T16:06:31+00:00",
-      "domain": "theverge.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Open-weight models now carry 56% of production tokens and 14% of the spend",
-      "link": "https://fromtheterminal.substack.com/p/your-production-traffic-already-left-the-frontier",
-      "summary": "<p>Article URL: <a href=\"https://fromtheterminal.substack.com/p/your-production-traffic-already-left-the-frontier\">https://fromtheterminal.substack.com/p/your-production-traffic-already-left-the-front...",
-      "published": "2026-09-23T16:06:01+00:00",
-      "domain": "fromtheterminal.substack.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: Volum \u2013 An open-source visual library for 3D model files",
-      "link": "https://volum.didac.dev/",
-      "summary": "<p>Article URL: <a href=\"https://volum.didac.dev/\">https://volum.didac.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49818171\">https://news.ycombinator.com/item?id=498181...",
-      "published": "2026-09-23T16:05:42+00:00",
-      "domain": "volum.didac.dev",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -493,6 +487,134 @@
   ],
   "all_articles": [
     {
+      "title": "Attackers Use Malicious Terraform Providers to Deliver Go Malware via HashiCorp Registry",
+      "link": "https://thehackernews.com/2026/09/attackers-use-malicious-terraform.html",
+      "summary": "Cybersecurity researchers have disclosed Go-based malware distributed via two Go Modules and two Terraform providers, marking the first time threat actors are using the centralized repository hosted b...",
+      "published": "2026-09-23T23:36:30+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "A Leaked GitLab Issue Email Address Lets Anyone Push Code and Run CI Jobs as You",
+      "link": "https://thehackernews.com/2026/09/a-leaked-gitlab-issue-email-address.html",
+      "summary": "The private email address GitLab gives you for filing issues by email is a credential. Anyone who gets it can email a patch that GitLab commits in your name, to any branch you can push to, including m...",
+      "published": "2026-09-23T22:23:10+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "MikroTrick Chain Let Attackers Take Over MikroTik Routers Without a Password or SSH Key",
+      "link": "https://thehackernews.com/2026/09/mikrotrick-chain-let-attackers-take.html",
+      "summary": "Two MikroTik RouterOS SSH vulnerabilities chained together let attackers take full administrative control of Internet-exposed routers without a password, SSH key, or completed authentication.\n\nThe cha...",
+      "published": "2026-09-23T21:36:41+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "OpenAI Medicare Data Breach",
+      "link": "https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html",
+      "summary": "<p>Article URL: <a href=\"https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html\">https://www.smh.com.au/politics/federal/openai-breaches-medicare-albane...",
+      "published": "2026-09-23T21:01:48+00:00",
+      "domain": "smh.com.au",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "VSCode's SSH Agent Is Bananas",
+      "link": "https://fly.io/blog/vscode-ssh-wtf/",
+      "summary": "<p>Article URL: <a href=\"https://fly.io/blog/vscode-ssh-wtf/\">https://fly.io/blog/vscode-ssh-wtf/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49822555\">https://news.ycombina...",
+      "published": "2026-09-23T21:01:48+00:00",
+      "domain": "fly.io",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Letter \u2013 Relationship-based access control (ReBAC) Postgres extension",
+      "link": "https://github.com/paulharter/letter",
+      "summary": "<p>Article URL: <a href=\"https://github.com/paulharter/letter\">https://github.com/paulharter/letter</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49822534\">https://news.ycombi...",
+      "published": "2026-09-23T21:00:49+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "I made Resend feel more like a normal desktop inbox",
+      "link": "https://www.maildeskt.com/",
+      "summary": "<p>Article URL: <a href=\"https://www.maildeskt.com/\">https://www.maildeskt.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49822529\">https://news.ycombinator.com/item?id=49...",
+      "published": "2026-09-23T21:00:43+00:00",
+      "domain": "maildeskt.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The unexpected ingredient hidden on Poland's shoreline (4 min video)",
+      "link": "https://www.bbc.com/reel/video/p0p624cz/watch",
+      "summary": "<p>Article URL: <a href=\"https://www.bbc.com/reel/video/p0p624cz/watch\">https://www.bbc.com/reel/video/p0p624cz/watch</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49822527\">h...",
+      "published": "2026-09-23T21:00:38+00:00",
+      "domain": "bbc.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "This Windows Malware is Built to Let Up to Four AI Models Vote on Its Next Move",
       "link": "https://thehackernews.com/2026/09/windows-malware-is-built-to-let-up-to.html",
       "summary": "A Windows malware called CLOSEDQUORUM is built to take orders from a vote of up to four AI models instead of an attacker's server,&nbsp;Cisco Talos said&nbsp;on September 22.\n\nThe models can choose to...",
@@ -514,136 +636,6 @@
       "summary": "Unknown threat actors have managed to compromise two legitimate MemTensor packages across the npm and Python Package Index (PyPI) repositories to push a platform-specific Go-based implant dubbed sckit...",
       "published": "2026-09-23T19:22:46+05:30",
       "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "New cPanel Flaw Lets a Hosting Account Run Code as Root, Take Full Server Control",
-      "link": "https://thehackernews.com/2026/09/new-cpanel-flaw-lets-hosting-account_0272795595.html",
-      "summary": "A flaw in cPanel's&nbsp;CalDAV and CardDAV service&nbsp;lets anyone with a cPanel hosting account run code as root and take \"full control of the server,\" the company said on September 22.\n\nA&nbsp;seco...",
-      "published": "2026-09-23T17:46:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "545 Hackers Tested It First. Now XRanges for AI Scores Your Security Agent",
-      "link": "https://thehackernews.com/2026/09/545-hackers-tested-it-first-now-xranges.html",
-      "summary": "Autonomous security agents are getting good at finding bugs. Nobody has a good way to measure how good. Point one at a realistic target and what comes back is a report the agent wrote about itself: co...",
-      "published": "2026-09-23T17:17:19+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 11.4,
-        "overall": 7.2
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": [
-          "autonomous"
-        ]
-      }
-    },
-    {
-      "title": "Anthropic and OpenAI Models Still Attempt Restricted Actions in Safety Tests",
-      "link": "https://thehackernews.com/2026/09/anthropic-and-openai-models-still.html",
-      "summary": "Anthropic and OpenAI on Tuesday announced new models, with both artificial intelligence (AI) companies noting that they are continuing to invest in improving alignment to combat risky behavior.\n\nOpus ...",
-      "published": "2026-09-23T17:17:13+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Functionally Zen",
-      "link": "https://testdouble.com/insights/functionally-zen",
-      "summary": "<p>Article URL: <a href=\"https://testdouble.com/insights/functionally-zen\">https://testdouble.com/insights/functionally-zen</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49818...",
-      "published": "2026-09-23T16:07:05+00:00",
-      "domain": "testdouble.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Trump reveals millions of dollars' worth of share deals in big tech and AI",
-      "link": "https://www.bbc.com/news/articles/c6p3kxpp8lezo",
-      "summary": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/c6p3kxpp8lezo\">https://www.bbc.com/news/articles/c6p3kxpp8lezo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4981818...",
-      "published": "2026-09-23T16:06:49+00:00",
-      "domain": "bbc.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "OpenAI nabs key Patreon execs ahead of upcoming announcement",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/999249/openai-creators-patreon-execs-hire-sam-yam",
-      "summary": "<p>Article URL: <a href=\"https://www.theverge.com/ai-artificial-intelligence/999249/openai-creators-patreon-execs-hire-sam-yam\">https://www.theverge.com/ai-artificial-intelligence/999249/openai-creato...",
-      "published": "2026-09-23T16:06:31+00:00",
-      "domain": "theverge.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Open-weight models now carry 56% of production tokens and 14% of the spend",
-      "link": "https://fromtheterminal.substack.com/p/your-production-traffic-already-left-the-frontier",
-      "summary": "<p>Article URL: <a href=\"https://fromtheterminal.substack.com/p/your-production-traffic-already-left-the-frontier\">https://fromtheterminal.substack.com/p/your-production-traffic-already-left-the-front...",
-      "published": "2026-09-23T16:06:01+00:00",
-      "domain": "fromtheterminal.substack.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: Volum \u2013 An open-source visual library for 3D model files",
-      "link": "https://volum.didac.dev/",
-      "summary": "<p>Article URL: <a href=\"https://volum.didac.dev/\">https://volum.didac.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49818171\">https://news.ycombinator.com/item?id=498181...",
-      "published": "2026-09-23T16:05:42+00:00",
-      "domain": "volum.didac.dev",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
