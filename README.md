@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### F5 Patches Critical BIG-IP APM Zero-Day Exploited for Unauthenticated RCE on OAuth Servers
+### This Windows Malware is Built to Let Up to Four AI Models Vote on Its Next Move
 - **Published**: September 23, 2026
-- **Summary**: Attackers are exploiting a critical flaw in F5 BIG-IP Access Policy Manager (APM) that lets them run code on a BIG-IP system without logging in, F5 sa...
-- [Read more](https://thehackernews.com/2026/09/f5-patches-critical-big-ip-apm-zero-day.html)
+- **Summary**: A Windows malware called CLOSEDQUORUM is built to take orders from a vote of up to four AI models instead of an attacker's server,&nbsp;Cisco Talos sa...
+- [Read more](https://thehackernews.com/2026/09/windows-malware-is-built-to-let-up-to.html)
 
-### Chinese Hackers Exploit Chrome-Windows Zero-Day Chain to Deploy CLEANGULP Malware
+### Compromised MemTensor Packages Deliver sckit Credential Stealer via npm and PyPI
 - **Published**: September 23, 2026
-- **Summary**: A Chinese threat actor codenamed UTA0565 has been observed exploiting the recently disclosed Google Chrome-Microsoft Windows exploit chain as zero-day...
-- [Read more](https://thehackernews.com/2026/09/chinese-hackers-exploit-chrome-windows.html)
+- **Summary**: Unknown threat actors have managed to compromise two legitimate MemTensor packages across the npm and Python Package Index (PyPI) repositories to push...
+- [Read more](https://thehackernews.com/2026/09/compromised-memtensor-packages-deliver.html)
 
 ---
 

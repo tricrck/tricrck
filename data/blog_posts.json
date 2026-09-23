@@ -1,10 +1,10 @@
 {
   "chaos_ranked": [
     {
-      "title": "F5 Patches Critical BIG-IP APM Zero-Day Exploited for Unauthenticated RCE on OAuth Servers",
-      "link": "https://thehackernews.com/2026/09/f5-patches-critical-big-ip-apm-zero-day.html",
-      "summary": "Attackers are exploiting a critical flaw in F5 BIG-IP Access Policy Manager (APM) that lets them run code on a BIG-IP system without logging in, F5 says.\n\nThe flaw,&nbsp;CVE-2026-94127, affects only s...",
-      "published": "2026-09-23T13:59:48+05:30",
+      "title": "This Windows Malware is Built to Let Up to Four AI Models Vote on Its Next Move",
+      "link": "https://thehackernews.com/2026/09/windows-malware-is-built-to-let-up-to.html",
+      "summary": "A Windows malware called CLOSEDQUORUM is built to take orders from a vote of up to four AI models instead of an attacker's server,&nbsp;Cisco Talos said&nbsp;on September 22.\n\nThe models can choose to...",
+      "published": "2026-09-23T19:47:58+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -17,10 +17,10 @@
       }
     },
     {
-      "title": "Chinese Hackers Exploit Chrome-Windows Zero-Day Chain to Deploy CLEANGULP Malware",
-      "link": "https://thehackernews.com/2026/09/chinese-hackers-exploit-chrome-windows.html",
-      "summary": "A Chinese threat actor codenamed UTA0565 has been observed exploiting the recently disclosed Google Chrome-Microsoft Windows exploit chain as zero-days through fake websites.\n\nThe attacks, detected on...",
-      "published": "2026-09-23T13:59:24+05:30",
+      "title": "Compromised MemTensor Packages Deliver sckit Credential Stealer via npm and PyPI",
+      "link": "https://thehackernews.com/2026/09/compromised-memtensor-packages-deliver.html",
+      "summary": "Unknown threat actors have managed to compromise two legitimate MemTensor packages across the npm and Python Package Index (PyPI) repositories to push a platform-specific Go-based implant dubbed sckit...",
+      "published": "2026-09-23T19:22:46+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "Critical Next.js ImageResponse Flaw Can Lead to Server Code Execution via Crafted SVG Input",
-      "link": "https://thehackernews.com/2026/09/critical-nextjs-imageresponse-flaw-can.html",
-      "summary": "A new security vulnerability in Next.js could allow attackers to run code on a server via&nbsp;ImageResponse, the feature that generates Open Graph and other social preview images, Vercel said.\n\nThe r...",
-      "published": "2026-09-23T12:34:40+05:30",
+      "title": "New cPanel Flaw Lets a Hosting Account Run Code as Root, Take Full Server Control",
+      "link": "https://thehackernews.com/2026/09/new-cpanel-flaw-lets-hosting-account_0272795595.html",
+      "summary": "A flaw in cPanel's&nbsp;CalDAV and CardDAV service&nbsp;lets anyone with a cPanel hosting account run code as root and take \"full control of the server,\" the company said on September 22.\n\nA&nbsp;seco...",
+      "published": "2026-09-23T17:46:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -49,10 +49,28 @@
       }
     },
     {
-      "title": "ShinyHunters Claims FBI Breach, Says It Stole Data on Agents and Job Applicants",
-      "link": "https://thehackernews.com/2026/09/shinyhunters-claims-fbi-breach-says-it.html",
-      "summary": "The cyber extortion group known as ShinyHunters on Tuesday claimed it had breached the U.S. Federal Bureau of Investigation and stolen data belonging to current and former employees at the agency.\n\n\"W...",
-      "published": "2026-09-23T11:00:09+05:30",
+      "title": "545 Hackers Tested It First. Now XRanges for AI Scores Your Security Agent",
+      "link": "https://thehackernews.com/2026/09/545-hackers-tested-it-first-now-xranges.html",
+      "summary": "Autonomous security agents are getting good at finding bugs. Nobody has a good way to measure how good. Point one at a realistic target and what comes back is a report the agent wrote about itself: co...",
+      "published": "2026-09-23T17:17:19+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 11.4,
+        "overall": 7.2
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": [
+          "autonomous"
+        ]
+      }
+    },
+    {
+      "title": "Anthropic and OpenAI Models Still Attempt Restricted Actions in Safety Tests",
+      "link": "https://thehackernews.com/2026/09/anthropic-and-openai-models-still.html",
+      "summary": "Anthropic and OpenAI on Tuesday announced new models, with both artificial intelligence (AI) companies noting that they are continuing to invest in improving alignment to combat risky behavior.\n\nOpus ...",
+      "published": "2026-09-23T17:17:13+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -65,11 +83,11 @@
       }
     },
     {
-      "title": "The darker side of being a doctor",
-      "link": "https://drericlevi.pages.dev/the-darker-side-of-being-a-doctor/",
-      "summary": "<p>Article URL: <a href=\"https://drericlevi.pages.dev/the-darker-side-of-being-a-doctor/\">https://drericlevi.pages.dev/the-darker-side-of-being-a-doctor/</a></p>\n<p>Comments URL: <a href=\"https://news...",
-      "published": "2026-09-23T10:54:55+00:00",
-      "domain": "drericlevi.pages.dev",
+      "title": "Functionally Zen",
+      "link": "https://testdouble.com/insights/functionally-zen",
+      "summary": "<p>Article URL: <a href=\"https://testdouble.com/insights/functionally-zen\">https://testdouble.com/insights/functionally-zen</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49818...",
+      "published": "2026-09-23T16:07:05+00:00",
+      "domain": "testdouble.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -81,11 +99,11 @@
       }
     },
     {
-      "title": "Show HN: I made my own scripting language for my game engine",
-      "link": "https://github.com/ArcadeMakerSources/ArcadeMaker/tree/master",
-      "summary": "<p>Article URL: <a href=\"https://github.com/ArcadeMakerSources/ArcadeMaker/tree/master\">https://github.com/ArcadeMakerSources/ArcadeMaker/tree/master</a></p>\n<p>Comments URL: <a href=\"https://news.yco...",
-      "published": "2026-09-23T10:52:56+00:00",
-      "domain": "github.com",
+      "title": "Trump reveals millions of dollars' worth of share deals in big tech and AI",
+      "link": "https://www.bbc.com/news/articles/c6p3kxpp8lezo",
+      "summary": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/c6p3kxpp8lezo\">https://www.bbc.com/news/articles/c6p3kxpp8lezo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4981818...",
+      "published": "2026-09-23T16:06:49+00:00",
+      "domain": "bbc.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -97,11 +115,11 @@
       }
     },
     {
-      "title": "Ask HN: Do you think we'll ever have local models of Fable level?",
-      "link": "https://news.ycombinator.com/item?id=49814142",
-      "summary": "<p>I'm not talking only about Fable level models, since we are obviously already close with stuff like Qwen.<p>But I'm also wondering about being able to run them on consumer-end hardware.<p>I remembe...",
-      "published": "2026-09-23T10:52:33+00:00",
-      "domain": "news.ycombinator.com",
+      "title": "OpenAI nabs key Patreon execs ahead of upcoming announcement",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/999249/openai-creators-patreon-execs-hire-sam-yam",
+      "summary": "<p>Article URL: <a href=\"https://www.theverge.com/ai-artificial-intelligence/999249/openai-creators-patreon-execs-hire-sam-yam\">https://www.theverge.com/ai-artificial-intelligence/999249/openai-creato...",
+      "published": "2026-09-23T16:06:31+00:00",
+      "domain": "theverge.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -113,11 +131,11 @@
       }
     },
     {
-      "title": "Anthropic-linked CVEs pile up, attackers mostly shrug",
-      "link": "https://www.theregister.com/security/2026/09/21/anthropic-linked-cves-pile-up-attackers-mostly-shrug/5298018",
-      "summary": "<p>Article URL: <a href=\"https://www.theregister.com/security/2026/09/21/anthropic-linked-cves-pile-up-attackers-mostly-shrug/5298018\">https://www.theregister.com/security/2026/09/21/anthropic-linked-...",
-      "published": "2026-09-23T10:52:11+00:00",
-      "domain": "theregister.com",
+      "title": "Open-weight models now carry 56% of production tokens and 14% of the spend",
+      "link": "https://fromtheterminal.substack.com/p/your-production-traffic-already-left-the-frontier",
+      "summary": "<p>Article URL: <a href=\"https://fromtheterminal.substack.com/p/your-production-traffic-already-left-the-frontier\">https://fromtheterminal.substack.com/p/your-production-traffic-already-left-the-front...",
+      "published": "2026-09-23T16:06:01+00:00",
+      "domain": "fromtheterminal.substack.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -129,27 +147,11 @@
       }
     },
     {
-      "title": "Code Genome Project",
-      "link": "https://codegenomeproject.org/",
-      "summary": "<p>Article URL: <a href=\"https://codegenomeproject.org/\">https://codegenomeproject.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49814138\">https://news.ycombinator.com/it...",
-      "published": "2026-09-23T10:51:49+00:00",
-      "domain": "codegenomeproject.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "What Is an AI Software Factory? Lessons from 3 Client Deployments",
-      "link": "https://camplight.net/ai/ai-software-factory/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49813704\">Comments</a>...",
-      "published": "2026-09-23T09:57:06+00:00",
-      "domain": "camplight.net",
+      "title": "Show HN: Volum \u2013 An open-source visual library for 3D model files",
+      "link": "https://volum.didac.dev/",
+      "summary": "<p>Article URL: <a href=\"https://volum.didac.dev/\">https://volum.didac.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49818171\">https://news.ycombinator.com/item?id=498181...",
+      "published": "2026-09-23T16:05:42+00:00",
+      "domain": "volum.didac.dev",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -163,10 +165,28 @@
   ],
   "anarchy_ranked": [
     {
-      "title": "F5 Patches Critical BIG-IP APM Zero-Day Exploited for Unauthenticated RCE on OAuth Servers",
-      "link": "https://thehackernews.com/2026/09/f5-patches-critical-big-ip-apm-zero-day.html",
-      "summary": "Attackers are exploiting a critical flaw in F5 BIG-IP Access Policy Manager (APM) that lets them run code on a BIG-IP system without logging in, F5 says.\n\nThe flaw,&nbsp;CVE-2026-94127, affects only s...",
-      "published": "2026-09-23T13:59:48+05:30",
+      "title": "545 Hackers Tested It First. Now XRanges for AI Scores Your Security Agent",
+      "link": "https://thehackernews.com/2026/09/545-hackers-tested-it-first-now-xranges.html",
+      "summary": "Autonomous security agents are getting good at finding bugs. Nobody has a good way to measure how good. Point one at a realistic target and what comes back is a report the agent wrote about itself: co...",
+      "published": "2026-09-23T17:17:19+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 11.4,
+        "overall": 7.2
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": [
+          "autonomous"
+        ]
+      }
+    },
+    {
+      "title": "This Windows Malware is Built to Let Up to Four AI Models Vote on Its Next Move",
+      "link": "https://thehackernews.com/2026/09/windows-malware-is-built-to-let-up-to.html",
+      "summary": "A Windows malware called CLOSEDQUORUM is built to take orders from a vote of up to four AI models instead of an attacker's server,&nbsp;Cisco Talos said&nbsp;on September 22.\n\nThe models can choose to...",
+      "published": "2026-09-23T19:47:58+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -179,10 +199,10 @@
       }
     },
     {
-      "title": "Chinese Hackers Exploit Chrome-Windows Zero-Day Chain to Deploy CLEANGULP Malware",
-      "link": "https://thehackernews.com/2026/09/chinese-hackers-exploit-chrome-windows.html",
-      "summary": "A Chinese threat actor codenamed UTA0565 has been observed exploiting the recently disclosed Google Chrome-Microsoft Windows exploit chain as zero-days through fake websites.\n\nThe attacks, detected on...",
-      "published": "2026-09-23T13:59:24+05:30",
+      "title": "Compromised MemTensor Packages Deliver sckit Credential Stealer via npm and PyPI",
+      "link": "https://thehackernews.com/2026/09/compromised-memtensor-packages-deliver.html",
+      "summary": "Unknown threat actors have managed to compromise two legitimate MemTensor packages across the npm and Python Package Index (PyPI) repositories to push a platform-specific Go-based implant dubbed sckit...",
+      "published": "2026-09-23T19:22:46+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -195,10 +215,10 @@
       }
     },
     {
-      "title": "Critical Next.js ImageResponse Flaw Can Lead to Server Code Execution via Crafted SVG Input",
-      "link": "https://thehackernews.com/2026/09/critical-nextjs-imageresponse-flaw-can.html",
-      "summary": "A new security vulnerability in Next.js could allow attackers to run code on a server via&nbsp;ImageResponse, the feature that generates Open Graph and other social preview images, Vercel said.\n\nThe r...",
-      "published": "2026-09-23T12:34:40+05:30",
+      "title": "New cPanel Flaw Lets a Hosting Account Run Code as Root, Take Full Server Control",
+      "link": "https://thehackernews.com/2026/09/new-cpanel-flaw-lets-hosting-account_0272795595.html",
+      "summary": "A flaw in cPanel's&nbsp;CalDAV and CardDAV service&nbsp;lets anyone with a cPanel hosting account run code as root and take \"full control of the server,\" the company said on September 22.\n\nA&nbsp;seco...",
+      "published": "2026-09-23T17:46:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -211,10 +231,10 @@
       }
     },
     {
-      "title": "ShinyHunters Claims FBI Breach, Says It Stole Data on Agents and Job Applicants",
-      "link": "https://thehackernews.com/2026/09/shinyhunters-claims-fbi-breach-says-it.html",
-      "summary": "The cyber extortion group known as ShinyHunters on Tuesday claimed it had breached the U.S. Federal Bureau of Investigation and stolen data belonging to current and former employees at the agency.\n\n\"W...",
-      "published": "2026-09-23T11:00:09+05:30",
+      "title": "Anthropic and OpenAI Models Still Attempt Restricted Actions in Safety Tests",
+      "link": "https://thehackernews.com/2026/09/anthropic-and-openai-models-still.html",
+      "summary": "Anthropic and OpenAI on Tuesday announced new models, with both artificial intelligence (AI) companies noting that they are continuing to invest in improving alignment to combat risky behavior.\n\nOpus ...",
+      "published": "2026-09-23T17:17:13+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -227,11 +247,11 @@
       }
     },
     {
-      "title": "The darker side of being a doctor",
-      "link": "https://drericlevi.pages.dev/the-darker-side-of-being-a-doctor/",
-      "summary": "<p>Article URL: <a href=\"https://drericlevi.pages.dev/the-darker-side-of-being-a-doctor/\">https://drericlevi.pages.dev/the-darker-side-of-being-a-doctor/</a></p>\n<p>Comments URL: <a href=\"https://news...",
-      "published": "2026-09-23T10:54:55+00:00",
-      "domain": "drericlevi.pages.dev",
+      "title": "Functionally Zen",
+      "link": "https://testdouble.com/insights/functionally-zen",
+      "summary": "<p>Article URL: <a href=\"https://testdouble.com/insights/functionally-zen\">https://testdouble.com/insights/functionally-zen</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49818...",
+      "published": "2026-09-23T16:07:05+00:00",
+      "domain": "testdouble.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -243,11 +263,11 @@
       }
     },
     {
-      "title": "Show HN: I made my own scripting language for my game engine",
-      "link": "https://github.com/ArcadeMakerSources/ArcadeMaker/tree/master",
-      "summary": "<p>Article URL: <a href=\"https://github.com/ArcadeMakerSources/ArcadeMaker/tree/master\">https://github.com/ArcadeMakerSources/ArcadeMaker/tree/master</a></p>\n<p>Comments URL: <a href=\"https://news.yco...",
-      "published": "2026-09-23T10:52:56+00:00",
-      "domain": "github.com",
+      "title": "Trump reveals millions of dollars' worth of share deals in big tech and AI",
+      "link": "https://www.bbc.com/news/articles/c6p3kxpp8lezo",
+      "summary": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/c6p3kxpp8lezo\">https://www.bbc.com/news/articles/c6p3kxpp8lezo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4981818...",
+      "published": "2026-09-23T16:06:49+00:00",
+      "domain": "bbc.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -259,11 +279,11 @@
       }
     },
     {
-      "title": "Ask HN: Do you think we'll ever have local models of Fable level?",
-      "link": "https://news.ycombinator.com/item?id=49814142",
-      "summary": "<p>I'm not talking only about Fable level models, since we are obviously already close with stuff like Qwen.<p>But I'm also wondering about being able to run them on consumer-end hardware.<p>I remembe...",
-      "published": "2026-09-23T10:52:33+00:00",
-      "domain": "news.ycombinator.com",
+      "title": "OpenAI nabs key Patreon execs ahead of upcoming announcement",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/999249/openai-creators-patreon-execs-hire-sam-yam",
+      "summary": "<p>Article URL: <a href=\"https://www.theverge.com/ai-artificial-intelligence/999249/openai-creators-patreon-execs-hire-sam-yam\">https://www.theverge.com/ai-artificial-intelligence/999249/openai-creato...",
+      "published": "2026-09-23T16:06:31+00:00",
+      "domain": "theverge.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -275,11 +295,11 @@
       }
     },
     {
-      "title": "Anthropic-linked CVEs pile up, attackers mostly shrug",
-      "link": "https://www.theregister.com/security/2026/09/21/anthropic-linked-cves-pile-up-attackers-mostly-shrug/5298018",
-      "summary": "<p>Article URL: <a href=\"https://www.theregister.com/security/2026/09/21/anthropic-linked-cves-pile-up-attackers-mostly-shrug/5298018\">https://www.theregister.com/security/2026/09/21/anthropic-linked-...",
-      "published": "2026-09-23T10:52:11+00:00",
-      "domain": "theregister.com",
+      "title": "Open-weight models now carry 56% of production tokens and 14% of the spend",
+      "link": "https://fromtheterminal.substack.com/p/your-production-traffic-already-left-the-frontier",
+      "summary": "<p>Article URL: <a href=\"https://fromtheterminal.substack.com/p/your-production-traffic-already-left-the-frontier\">https://fromtheterminal.substack.com/p/your-production-traffic-already-left-the-front...",
+      "published": "2026-09-23T16:06:01+00:00",
+      "domain": "fromtheterminal.substack.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -291,27 +311,11 @@
       }
     },
     {
-      "title": "Code Genome Project",
-      "link": "https://codegenomeproject.org/",
-      "summary": "<p>Article URL: <a href=\"https://codegenomeproject.org/\">https://codegenomeproject.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49814138\">https://news.ycombinator.com/it...",
-      "published": "2026-09-23T10:51:49+00:00",
-      "domain": "codegenomeproject.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "What Is an AI Software Factory? Lessons from 3 Client Deployments",
-      "link": "https://camplight.net/ai/ai-software-factory/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49813704\">Comments</a>...",
-      "published": "2026-09-23T09:57:06+00:00",
-      "domain": "camplight.net",
+      "title": "Show HN: Volum \u2013 An open-source visual library for 3D model files",
+      "link": "https://volum.didac.dev/",
+      "summary": "<p>Article URL: <a href=\"https://volum.didac.dev/\">https://volum.didac.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49818171\">https://news.ycombinator.com/item?id=498181...",
+      "published": "2026-09-23T16:05:42+00:00",
+      "domain": "volum.didac.dev",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -325,10 +329,28 @@
   ],
   "overall_ranked": [
     {
-      "title": "F5 Patches Critical BIG-IP APM Zero-Day Exploited for Unauthenticated RCE on OAuth Servers",
-      "link": "https://thehackernews.com/2026/09/f5-patches-critical-big-ip-apm-zero-day.html",
-      "summary": "Attackers are exploiting a critical flaw in F5 BIG-IP Access Policy Manager (APM) that lets them run code on a BIG-IP system without logging in, F5 says.\n\nThe flaw,&nbsp;CVE-2026-94127, affects only s...",
-      "published": "2026-09-23T13:59:48+05:30",
+      "title": "545 Hackers Tested It First. Now XRanges for AI Scores Your Security Agent",
+      "link": "https://thehackernews.com/2026/09/545-hackers-tested-it-first-now-xranges.html",
+      "summary": "Autonomous security agents are getting good at finding bugs. Nobody has a good way to measure how good. Point one at a realistic target and what comes back is a report the agent wrote about itself: co...",
+      "published": "2026-09-23T17:17:19+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 11.4,
+        "overall": 7.2
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": [
+          "autonomous"
+        ]
+      }
+    },
+    {
+      "title": "This Windows Malware is Built to Let Up to Four AI Models Vote on Its Next Move",
+      "link": "https://thehackernews.com/2026/09/windows-malware-is-built-to-let-up-to.html",
+      "summary": "A Windows malware called CLOSEDQUORUM is built to take orders from a vote of up to four AI models instead of an attacker's server,&nbsp;Cisco Talos said&nbsp;on September 22.\n\nThe models can choose to...",
+      "published": "2026-09-23T19:47:58+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -341,10 +363,10 @@
       }
     },
     {
-      "title": "Chinese Hackers Exploit Chrome-Windows Zero-Day Chain to Deploy CLEANGULP Malware",
-      "link": "https://thehackernews.com/2026/09/chinese-hackers-exploit-chrome-windows.html",
-      "summary": "A Chinese threat actor codenamed UTA0565 has been observed exploiting the recently disclosed Google Chrome-Microsoft Windows exploit chain as zero-days through fake websites.\n\nThe attacks, detected on...",
-      "published": "2026-09-23T13:59:24+05:30",
+      "title": "Compromised MemTensor Packages Deliver sckit Credential Stealer via npm and PyPI",
+      "link": "https://thehackernews.com/2026/09/compromised-memtensor-packages-deliver.html",
+      "summary": "Unknown threat actors have managed to compromise two legitimate MemTensor packages across the npm and Python Package Index (PyPI) repositories to push a platform-specific Go-based implant dubbed sckit...",
+      "published": "2026-09-23T19:22:46+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -357,10 +379,10 @@
       }
     },
     {
-      "title": "Critical Next.js ImageResponse Flaw Can Lead to Server Code Execution via Crafted SVG Input",
-      "link": "https://thehackernews.com/2026/09/critical-nextjs-imageresponse-flaw-can.html",
-      "summary": "A new security vulnerability in Next.js could allow attackers to run code on a server via&nbsp;ImageResponse, the feature that generates Open Graph and other social preview images, Vercel said.\n\nThe r...",
-      "published": "2026-09-23T12:34:40+05:30",
+      "title": "New cPanel Flaw Lets a Hosting Account Run Code as Root, Take Full Server Control",
+      "link": "https://thehackernews.com/2026/09/new-cpanel-flaw-lets-hosting-account_0272795595.html",
+      "summary": "A flaw in cPanel's&nbsp;CalDAV and CardDAV service&nbsp;lets anyone with a cPanel hosting account run code as root and take \"full control of the server,\" the company said on September 22.\n\nA&nbsp;seco...",
+      "published": "2026-09-23T17:46:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -373,10 +395,10 @@
       }
     },
     {
-      "title": "ShinyHunters Claims FBI Breach, Says It Stole Data on Agents and Job Applicants",
-      "link": "https://thehackernews.com/2026/09/shinyhunters-claims-fbi-breach-says-it.html",
-      "summary": "The cyber extortion group known as ShinyHunters on Tuesday claimed it had breached the U.S. Federal Bureau of Investigation and stolen data belonging to current and former employees at the agency.\n\n\"W...",
-      "published": "2026-09-23T11:00:09+05:30",
+      "title": "Anthropic and OpenAI Models Still Attempt Restricted Actions in Safety Tests",
+      "link": "https://thehackernews.com/2026/09/anthropic-and-openai-models-still.html",
+      "summary": "Anthropic and OpenAI on Tuesday announced new models, with both artificial intelligence (AI) companies noting that they are continuing to invest in improving alignment to combat risky behavior.\n\nOpus ...",
+      "published": "2026-09-23T17:17:13+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -389,11 +411,11 @@
       }
     },
     {
-      "title": "The darker side of being a doctor",
-      "link": "https://drericlevi.pages.dev/the-darker-side-of-being-a-doctor/",
-      "summary": "<p>Article URL: <a href=\"https://drericlevi.pages.dev/the-darker-side-of-being-a-doctor/\">https://drericlevi.pages.dev/the-darker-side-of-being-a-doctor/</a></p>\n<p>Comments URL: <a href=\"https://news...",
-      "published": "2026-09-23T10:54:55+00:00",
-      "domain": "drericlevi.pages.dev",
+      "title": "Functionally Zen",
+      "link": "https://testdouble.com/insights/functionally-zen",
+      "summary": "<p>Article URL: <a href=\"https://testdouble.com/insights/functionally-zen\">https://testdouble.com/insights/functionally-zen</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49818...",
+      "published": "2026-09-23T16:07:05+00:00",
+      "domain": "testdouble.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -405,11 +427,11 @@
       }
     },
     {
-      "title": "Show HN: I made my own scripting language for my game engine",
-      "link": "https://github.com/ArcadeMakerSources/ArcadeMaker/tree/master",
-      "summary": "<p>Article URL: <a href=\"https://github.com/ArcadeMakerSources/ArcadeMaker/tree/master\">https://github.com/ArcadeMakerSources/ArcadeMaker/tree/master</a></p>\n<p>Comments URL: <a href=\"https://news.yco...",
-      "published": "2026-09-23T10:52:56+00:00",
-      "domain": "github.com",
+      "title": "Trump reveals millions of dollars' worth of share deals in big tech and AI",
+      "link": "https://www.bbc.com/news/articles/c6p3kxpp8lezo",
+      "summary": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/c6p3kxpp8lezo\">https://www.bbc.com/news/articles/c6p3kxpp8lezo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4981818...",
+      "published": "2026-09-23T16:06:49+00:00",
+      "domain": "bbc.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -421,11 +443,11 @@
       }
     },
     {
-      "title": "Ask HN: Do you think we'll ever have local models of Fable level?",
-      "link": "https://news.ycombinator.com/item?id=49814142",
-      "summary": "<p>I'm not talking only about Fable level models, since we are obviously already close with stuff like Qwen.<p>But I'm also wondering about being able to run them on consumer-end hardware.<p>I remembe...",
-      "published": "2026-09-23T10:52:33+00:00",
-      "domain": "news.ycombinator.com",
+      "title": "OpenAI nabs key Patreon execs ahead of upcoming announcement",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/999249/openai-creators-patreon-execs-hire-sam-yam",
+      "summary": "<p>Article URL: <a href=\"https://www.theverge.com/ai-artificial-intelligence/999249/openai-creators-patreon-execs-hire-sam-yam\">https://www.theverge.com/ai-artificial-intelligence/999249/openai-creato...",
+      "published": "2026-09-23T16:06:31+00:00",
+      "domain": "theverge.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -437,11 +459,11 @@
       }
     },
     {
-      "title": "Anthropic-linked CVEs pile up, attackers mostly shrug",
-      "link": "https://www.theregister.com/security/2026/09/21/anthropic-linked-cves-pile-up-attackers-mostly-shrug/5298018",
-      "summary": "<p>Article URL: <a href=\"https://www.theregister.com/security/2026/09/21/anthropic-linked-cves-pile-up-attackers-mostly-shrug/5298018\">https://www.theregister.com/security/2026/09/21/anthropic-linked-...",
-      "published": "2026-09-23T10:52:11+00:00",
-      "domain": "theregister.com",
+      "title": "Open-weight models now carry 56% of production tokens and 14% of the spend",
+      "link": "https://fromtheterminal.substack.com/p/your-production-traffic-already-left-the-frontier",
+      "summary": "<p>Article URL: <a href=\"https://fromtheterminal.substack.com/p/your-production-traffic-already-left-the-frontier\">https://fromtheterminal.substack.com/p/your-production-traffic-already-left-the-front...",
+      "published": "2026-09-23T16:06:01+00:00",
+      "domain": "fromtheterminal.substack.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -453,27 +475,11 @@
       }
     },
     {
-      "title": "Code Genome Project",
-      "link": "https://codegenomeproject.org/",
-      "summary": "<p>Article URL: <a href=\"https://codegenomeproject.org/\">https://codegenomeproject.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49814138\">https://news.ycombinator.com/it...",
-      "published": "2026-09-23T10:51:49+00:00",
-      "domain": "codegenomeproject.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "What Is an AI Software Factory? Lessons from 3 Client Deployments",
-      "link": "https://camplight.net/ai/ai-software-factory/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49813704\">Comments</a>...",
-      "published": "2026-09-23T09:57:06+00:00",
-      "domain": "camplight.net",
+      "title": "Show HN: Volum \u2013 An open-source visual library for 3D model files",
+      "link": "https://volum.didac.dev/",
+      "summary": "<p>Article URL: <a href=\"https://volum.didac.dev/\">https://volum.didac.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49818171\">https://news.ycombinator.com/item?id=498181...",
+      "published": "2026-09-23T16:05:42+00:00",
+      "domain": "volum.didac.dev",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -487,10 +493,10 @@
   ],
   "all_articles": [
     {
-      "title": "F5 Patches Critical BIG-IP APM Zero-Day Exploited for Unauthenticated RCE on OAuth Servers",
-      "link": "https://thehackernews.com/2026/09/f5-patches-critical-big-ip-apm-zero-day.html",
-      "summary": "Attackers are exploiting a critical flaw in F5 BIG-IP Access Policy Manager (APM) that lets them run code on a BIG-IP system without logging in, F5 says.\n\nThe flaw,&nbsp;CVE-2026-94127, affects only s...",
-      "published": "2026-09-23T13:59:48+05:30",
+      "title": "This Windows Malware is Built to Let Up to Four AI Models Vote on Its Next Move",
+      "link": "https://thehackernews.com/2026/09/windows-malware-is-built-to-let-up-to.html",
+      "summary": "A Windows malware called CLOSEDQUORUM is built to take orders from a vote of up to four AI models instead of an attacker's server,&nbsp;Cisco Talos said&nbsp;on September 22.\n\nThe models can choose to...",
+      "published": "2026-09-23T19:47:58+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -503,10 +509,10 @@
       }
     },
     {
-      "title": "Chinese Hackers Exploit Chrome-Windows Zero-Day Chain to Deploy CLEANGULP Malware",
-      "link": "https://thehackernews.com/2026/09/chinese-hackers-exploit-chrome-windows.html",
-      "summary": "A Chinese threat actor codenamed UTA0565 has been observed exploiting the recently disclosed Google Chrome-Microsoft Windows exploit chain as zero-days through fake websites.\n\nThe attacks, detected on...",
-      "published": "2026-09-23T13:59:24+05:30",
+      "title": "Compromised MemTensor Packages Deliver sckit Credential Stealer via npm and PyPI",
+      "link": "https://thehackernews.com/2026/09/compromised-memtensor-packages-deliver.html",
+      "summary": "Unknown threat actors have managed to compromise two legitimate MemTensor packages across the npm and Python Package Index (PyPI) repositories to push a platform-specific Go-based implant dubbed sckit...",
+      "published": "2026-09-23T19:22:46+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -519,10 +525,10 @@
       }
     },
     {
-      "title": "Critical Next.js ImageResponse Flaw Can Lead to Server Code Execution via Crafted SVG Input",
-      "link": "https://thehackernews.com/2026/09/critical-nextjs-imageresponse-flaw-can.html",
-      "summary": "A new security vulnerability in Next.js could allow attackers to run code on a server via&nbsp;ImageResponse, the feature that generates Open Graph and other social preview images, Vercel said.\n\nThe r...",
-      "published": "2026-09-23T12:34:40+05:30",
+      "title": "New cPanel Flaw Lets a Hosting Account Run Code as Root, Take Full Server Control",
+      "link": "https://thehackernews.com/2026/09/new-cpanel-flaw-lets-hosting-account_0272795595.html",
+      "summary": "A flaw in cPanel's&nbsp;CalDAV and CardDAV service&nbsp;lets anyone with a cPanel hosting account run code as root and take \"full control of the server,\" the company said on September 22.\n\nA&nbsp;seco...",
+      "published": "2026-09-23T17:46:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -535,10 +541,28 @@
       }
     },
     {
-      "title": "ShinyHunters Claims FBI Breach, Says It Stole Data on Agents and Job Applicants",
-      "link": "https://thehackernews.com/2026/09/shinyhunters-claims-fbi-breach-says-it.html",
-      "summary": "The cyber extortion group known as ShinyHunters on Tuesday claimed it had breached the U.S. Federal Bureau of Investigation and stolen data belonging to current and former employees at the agency.\n\n\"W...",
-      "published": "2026-09-23T11:00:09+05:30",
+      "title": "545 Hackers Tested It First. Now XRanges for AI Scores Your Security Agent",
+      "link": "https://thehackernews.com/2026/09/545-hackers-tested-it-first-now-xranges.html",
+      "summary": "Autonomous security agents are getting good at finding bugs. Nobody has a good way to measure how good. Point one at a realistic target and what comes back is a report the agent wrote about itself: co...",
+      "published": "2026-09-23T17:17:19+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 11.4,
+        "overall": 7.2
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": [
+          "autonomous"
+        ]
+      }
+    },
+    {
+      "title": "Anthropic and OpenAI Models Still Attempt Restricted Actions in Safety Tests",
+      "link": "https://thehackernews.com/2026/09/anthropic-and-openai-models-still.html",
+      "summary": "Anthropic and OpenAI on Tuesday announced new models, with both artificial intelligence (AI) companies noting that they are continuing to invest in improving alignment to combat risky behavior.\n\nOpus ...",
+      "published": "2026-09-23T17:17:13+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -551,11 +575,11 @@
       }
     },
     {
-      "title": "The darker side of being a doctor",
-      "link": "https://drericlevi.pages.dev/the-darker-side-of-being-a-doctor/",
-      "summary": "<p>Article URL: <a href=\"https://drericlevi.pages.dev/the-darker-side-of-being-a-doctor/\">https://drericlevi.pages.dev/the-darker-side-of-being-a-doctor/</a></p>\n<p>Comments URL: <a href=\"https://news...",
-      "published": "2026-09-23T10:54:55+00:00",
-      "domain": "drericlevi.pages.dev",
+      "title": "Functionally Zen",
+      "link": "https://testdouble.com/insights/functionally-zen",
+      "summary": "<p>Article URL: <a href=\"https://testdouble.com/insights/functionally-zen\">https://testdouble.com/insights/functionally-zen</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49818...",
+      "published": "2026-09-23T16:07:05+00:00",
+      "domain": "testdouble.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -567,11 +591,11 @@
       }
     },
     {
-      "title": "Show HN: I made my own scripting language for my game engine",
-      "link": "https://github.com/ArcadeMakerSources/ArcadeMaker/tree/master",
-      "summary": "<p>Article URL: <a href=\"https://github.com/ArcadeMakerSources/ArcadeMaker/tree/master\">https://github.com/ArcadeMakerSources/ArcadeMaker/tree/master</a></p>\n<p>Comments URL: <a href=\"https://news.yco...",
-      "published": "2026-09-23T10:52:56+00:00",
-      "domain": "github.com",
+      "title": "Trump reveals millions of dollars' worth of share deals in big tech and AI",
+      "link": "https://www.bbc.com/news/articles/c6p3kxpp8lezo",
+      "summary": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/c6p3kxpp8lezo\">https://www.bbc.com/news/articles/c6p3kxpp8lezo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4981818...",
+      "published": "2026-09-23T16:06:49+00:00",
+      "domain": "bbc.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -583,11 +607,11 @@
       }
     },
     {
-      "title": "Ask HN: Do you think we'll ever have local models of Fable level?",
-      "link": "https://news.ycombinator.com/item?id=49814142",
-      "summary": "<p>I'm not talking only about Fable level models, since we are obviously already close with stuff like Qwen.<p>But I'm also wondering about being able to run them on consumer-end hardware.<p>I remembe...",
-      "published": "2026-09-23T10:52:33+00:00",
-      "domain": "news.ycombinator.com",
+      "title": "OpenAI nabs key Patreon execs ahead of upcoming announcement",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/999249/openai-creators-patreon-execs-hire-sam-yam",
+      "summary": "<p>Article URL: <a href=\"https://www.theverge.com/ai-artificial-intelligence/999249/openai-creators-patreon-execs-hire-sam-yam\">https://www.theverge.com/ai-artificial-intelligence/999249/openai-creato...",
+      "published": "2026-09-23T16:06:31+00:00",
+      "domain": "theverge.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -599,11 +623,11 @@
       }
     },
     {
-      "title": "Anthropic-linked CVEs pile up, attackers mostly shrug",
-      "link": "https://www.theregister.com/security/2026/09/21/anthropic-linked-cves-pile-up-attackers-mostly-shrug/5298018",
-      "summary": "<p>Article URL: <a href=\"https://www.theregister.com/security/2026/09/21/anthropic-linked-cves-pile-up-attackers-mostly-shrug/5298018\">https://www.theregister.com/security/2026/09/21/anthropic-linked-...",
-      "published": "2026-09-23T10:52:11+00:00",
-      "domain": "theregister.com",
+      "title": "Open-weight models now carry 56% of production tokens and 14% of the spend",
+      "link": "https://fromtheterminal.substack.com/p/your-production-traffic-already-left-the-frontier",
+      "summary": "<p>Article URL: <a href=\"https://fromtheterminal.substack.com/p/your-production-traffic-already-left-the-frontier\">https://fromtheterminal.substack.com/p/your-production-traffic-already-left-the-front...",
+      "published": "2026-09-23T16:06:01+00:00",
+      "domain": "fromtheterminal.substack.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -615,27 +639,11 @@
       }
     },
     {
-      "title": "Code Genome Project",
-      "link": "https://codegenomeproject.org/",
-      "summary": "<p>Article URL: <a href=\"https://codegenomeproject.org/\">https://codegenomeproject.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49814138\">https://news.ycombinator.com/it...",
-      "published": "2026-09-23T10:51:49+00:00",
-      "domain": "codegenomeproject.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "What Is an AI Software Factory? Lessons from 3 Client Deployments",
-      "link": "https://camplight.net/ai/ai-software-factory/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49813704\">Comments</a>...",
-      "published": "2026-09-23T09:57:06+00:00",
-      "domain": "camplight.net",
+      "title": "Show HN: Volum \u2013 An open-source visual library for 3D model files",
+      "link": "https://volum.didac.dev/",
+      "summary": "<p>Article URL: <a href=\"https://volum.didac.dev/\">https://volum.didac.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49818171\">https://news.ycombinator.com/item?id=498181...",
+      "published": "2026-09-23T16:05:42+00:00",
+      "domain": "volum.didac.dev",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
