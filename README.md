@@ -16,17 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Malicious npm Package Poses as Twilio Bug-Bounty Probe, Can Exfiltrate Credentials
-- **Published**: September 22, 2026
-- **Summary**: Cybersecurity researchers have disclosed details of a malicious npm package named "tw-pkgprobe-7731" that masquerades as a security tool targeting dev...
-- **Keywords**: bug
-- [Read more](https://thehackernews.com/2026/09/malicious-npm-package-poses-as-twilio.html)
+### F5 Patches Critical BIG-IP APM Zero-Day Exploited for Unauthenticated RCE on OAuth Servers
+- **Published**: September 23, 2026
+- **Summary**: Attackers are exploiting a critical flaw in F5 BIG-IP Access Policy Manager (APM) that lets them run code on a BIG-IP system without logging in, F5 sa...
+- [Read more](https://thehackernews.com/2026/09/f5-patches-critical-big-ip-apm-zero-day.html)
 
-### Microsoft Takes Down EvilTokens Device-Code Phishing Service Tied to 12,000 Inbox Compromises
-- **Published**: September 22, 2026
-- **Summary**: Microsoft on Tuesday announced the takedown of the EvilTokens device code phishing service that it said used artificial intelligence (AI) "at every st...
-- **Keywords**: down
-- [Read more](https://thehackernews.com/2026/09/microsoft-takes-down-eviltokens-device.html)
+### Chinese Hackers Exploit Chrome-Windows Zero-Day Chain to Deploy CLEANGULP Malware
+- **Published**: September 23, 2026
+- **Summary**: A Chinese threat actor codenamed UTA0565 has been observed exploiting the recently disclosed Google Chrome-Microsoft Windows exploit chain as zero-day...
+- [Read more](https://thehackernews.com/2026/09/chinese-hackers-exploit-chrome-windows.html)
 
 ---
 
