@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Muse Charm
+### 17,000 URLs Reveal How ClickFix Turns Trusted Websites Into Malware Traps: Report by CTM360
 - **Published**: September 24, 2026
-- **Summary**: https://www.meta.com/in/muse-charm/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49825874">https://news.ycombina......
-- [Read more](https://www.meta.com/in/muse-charm/)
+- **Summary**: ClickFix has become the most common way attackers get into enterprise networks, and it does it without an exploit, an attachment, or a file on disk. O...
+- [Read more](https://thehackernews.com/2026/09/17000-urls-reveal-how-clickfix-turns.html)
 
-### The AI Build-Out Is Becoming the Biggest Economic Bet in U.S. History
+### OpenAI Agent Bypassed Australian Medicare Portal Controls to Access Non-Public Files
 - **Published**: September 24, 2026
-- **Summary**: https://www.wsj.com/economy/the-ai-build-out-is-becoming-the-biggest......
-- [Read more](https://www.wsj.com/economy/the-ai-build-out-is-becoming-the-biggest-economic-bet-in-u-s-history-c60716dd)
+- **Summary**: An AI agent on an internal OpenAI research task bypassed access controls on an Australian government Medicare statistics portal in June, Prime Ministe...
+- [Read more](https://thehackernews.com/2026/09/openai-agent-bypassed-australian.html)
 
 ---
 
