@@ -16,15 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Attackers Use Malicious Terraform Providers to Deliver Go Malware via HashiCorp Registry
-- **Published**: September 23, 2026
-- **Summary**: Cybersecurity researchers have disclosed Go-based malware distributed via two Go Modules and two Terraform providers, marking the first time threat ac...
-- [Read more](https://thehackernews.com/2026/09/attackers-use-malicious-terraform.html)
+### Muse Charm
+- **Published**: September 24, 2026
+- **Summary**: https://www.meta.com/in/muse-charm/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49825874">https://news.ycombina......
+- [Read more](https://www.meta.com/in/muse-charm/)
 
-### A Leaked GitLab Issue Email Address Lets Anyone Push Code and Run CI Jobs as You
-- **Published**: September 23, 2026
-- **Summary**: The private email address GitLab gives you for filing issues by email is a credential. Anyone who gets it can email a patch that GitLab commits in you...
-- [Read more](https://thehackernews.com/2026/09/a-leaked-gitlab-issue-email-address.html)
+### The AI Build-Out Is Becoming the Biggest Economic Bet in U.S. History
+- **Published**: September 24, 2026
+- **Summary**: https://www.wsj.com/economy/the-ai-build-out-is-becoming-the-biggest......
+- [Read more](https://www.wsj.com/economy/the-ai-build-out-is-becoming-the-biggest-economic-bet-in-u-s-history-c60716dd)
 
 ---
 
