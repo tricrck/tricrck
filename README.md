@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Meta puts its AI assistant on a keychain
+### Unpatched OnePlus Flaws Let Installed Android Apps Gain Root Without Permissions
 - **Published**: September 24, 2026
-- **Summary**: https://arstechnica.com/ai/2026/09/meta-puts-its-ai-assistant-on-a-keychain/</a></p>
-<p>Comments ......
-- [Read more](https://arstechnica.com/ai/2026/09/meta-puts-its-ai-assistant-on-a-keychain/)
+- **Summary**: A OnePlus 15 running the latest OxygenOS can be rooted by a malicious app the owner installs, one that asks for no special permissions. A researcher, ...
+- [Read more](https://thehackernews.com/2026/09/unpatched-oneplus-flaws-let-installed.html)
 
-### Placeholder third-party[.]com Referenced Across 1,700+ Repositories Now Serves Malicious Content
+### ThreatsDay: AI Search Poisoning, AI Coding Tool Leaking Repos, One-Click Code Execution and 13 More Stories
 - **Published**: September 24, 2026
-- **Summary**: The "third-party[.]com" domain, commonly used as a documentation placeholder, has been observed serving a ClickFix lure to Windows browsers while disp...
-- [Read more](https://thehackernews.com/2026/09/placeholder-third-partycom-referenced.html)
+- **Summary**: This week, the dangerous stuff keeps arriving dressed as something boring. An update. A login box. A search answer. A coding tool. A link you have cli...
+- [Read more](https://thehackernews.com/2026/09/threatsday-ai-search-poisoning-ai.html)
 
 ---
 
