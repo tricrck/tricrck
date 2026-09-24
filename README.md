@@ -16,15 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### 17,000 URLs Reveal How ClickFix Turns Trusted Websites Into Malware Traps: Report by CTM360
+### Meta puts its AI assistant on a keychain
 - **Published**: September 24, 2026
-- **Summary**: ClickFix has become the most common way attackers get into enterprise networks, and it does it without an exploit, an attachment, or a file on disk. O...
-- [Read more](https://thehackernews.com/2026/09/17000-urls-reveal-how-clickfix-turns.html)
+- **Summary**: https://arstechnica.com/ai/2026/09/meta-puts-its-ai-assistant-on-a-keychain/</a></p>
+<p>Comments ......
+- [Read more](https://arstechnica.com/ai/2026/09/meta-puts-its-ai-assistant-on-a-keychain/)
 
-### OpenAI Agent Bypassed Australian Medicare Portal Controls to Access Non-Public Files
+### Placeholder third-party[.]com Referenced Across 1,700+ Repositories Now Serves Malicious Content
 - **Published**: September 24, 2026
-- **Summary**: An AI agent on an internal OpenAI research task bypassed access controls on an Australian government Medicare statistics portal in June, Prime Ministe...
-- [Read more](https://thehackernews.com/2026/09/openai-agent-bypassed-australian.html)
+- **Summary**: The "third-party[.]com" domain, commonly used as a documentation placeholder, has been observed serving a ClickFix lure to Windows browsers while disp...
+- [Read more](https://thehackernews.com/2026/09/placeholder-third-partycom-referenced.html)
 
 ---
 
