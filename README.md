@@ -16,16 +16,19 @@
 
 ## 🚨 Tech Stories
 
-### Congestion pricing funds $5M program for overnight truck deliveries in NYC
+### Bitget Says Suspected North Korean Hackers Stole $351.6M After Backend Compromise
 - **Published**: September 25, 2026
-- **Summary**: https://gothamist.com/news/congestion-pricing-funds-5-millio......
-- [Read more](https://gothamist.com/news/congestion-pricing-funds-5-million-program-for-overnight-truck-deliveries-in-manhattan)
+- **Summary**: Cryptocurrency exchange Bitget said suspected North Korean threat actors have stolen $351.6 million from its hot and warm wallets.&nbsp;
 
-### Show HN: I built 11 Sudoku variants – killer cage generation was the hard part
+"At 18:31 UT...
+- [Read more](https://thehackernews.com/2026/09/bitget-says-suspected-north-korean.html)
+
+### Roundcube Pre-Auth SQL Injection Flaw Actively Exploited in the Wild
 - **Published**: September 25, 2026
-- **Summary**: https://iqiqgame.com/tags/sudoku</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49839984">https://news.ycombinator.co......
-- [Read more](https://iqiqgame.com/tags/sudoku)
+- **Summary**: The Canadian Centre for Cyber Security has warned that a now-patched Roundcube Webmail vulnerability is being actively exploited in the wild.
+
+The vul...
+- [Read more](https://thehackernews.com/2026/09/roundcube-pre-auth-sql-injection-flaw.html)
 
 ---
 
