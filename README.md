@@ -16,19 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Bitget Says Suspected North Korean Hackers Stole $351.6M After Backend Compromise
+### Waymo's driverless cars continue to crash less often than people
 - **Published**: September 25, 2026
-- **Summary**: Cryptocurrency exchange Bitget said suspected North Korean threat actors have stolen $351.6 million from its hot and warm wallets.&nbsp;
+- **Summary**: https://www.theverge.com/transportation/999891/waymo-safety-data-injury-crash-human......
+- **Keywords**: crash, crash, crash
+- [Read more](https://www.theverge.com/transportation/999891/waymo-safety-data-injury-crash-human-driver)
 
-"At 18:31 UT...
-- [Read more](https://thehackernews.com/2026/09/bitget-says-suspected-north-korean.html)
-
-### Roundcube Pre-Auth SQL Injection Flaw Actively Exploited in the Wild
+### Compromised GitHub Actions Came Back Online and Resumed Executing Mini Shai-Hulud Malware
 - **Published**: September 25, 2026
-- **Summary**: The Canadian Centre for Cyber Security has warned that a now-patched Roundcube Webmail vulnerability is being actively exploited in the wild.
-
-The vul...
-- [Read more](https://thehackernews.com/2026/09/roundcube-pre-auth-sql-injection-flaw.html)
+- **Summary**: Two actions-cool GitHub Actions have been disabled for a second time after the repositories became accessible last week, months after they were compro...
+- [Read more](https://thehackernews.com/2026/09/compromised-github-actions-came-back.html)
 
 ---
 
