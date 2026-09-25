@@ -16,15 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Unpatched OnePlus Flaws Let Installed Android Apps Gain Root Without Permissions
-- **Published**: September 24, 2026
-- **Summary**: A OnePlus 15 running the latest OxygenOS can be rooted by a malicious app the owner installs, one that asks for no special permissions. A researcher, ...
-- [Read more](https://thehackernews.com/2026/09/unpatched-oneplus-flaws-let-installed.html)
+### Congestion pricing funds $5M program for overnight truck deliveries in NYC
+- **Published**: September 25, 2026
+- **Summary**: https://gothamist.com/news/congestion-pricing-funds-5-millio......
+- [Read more](https://gothamist.com/news/congestion-pricing-funds-5-million-program-for-overnight-truck-deliveries-in-manhattan)
 
-### ThreatsDay: AI Search Poisoning, AI Coding Tool Leaking Repos, One-Click Code Execution and 13 More Stories
-- **Published**: September 24, 2026
-- **Summary**: This week, the dangerous stuff keeps arriving dressed as something boring. An update. A login box. A search answer. A coding tool. A link you have cli...
-- [Read more](https://thehackernews.com/2026/09/threatsday-ai-search-poisoning-ai.html)
+### Show HN: I built 11 Sudoku variants – killer cage generation was the hard part
+- **Published**: September 25, 2026
+- **Summary**: https://iqiqgame.com/tags/sudoku</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49839984">https://news.ycombinator.co......
+- [Read more](https://iqiqgame.com/tags/sudoku)
 
 ---
 
