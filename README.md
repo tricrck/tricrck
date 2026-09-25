@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Waymo's driverless cars continue to crash less often than people
+### Bug: Border radius has infected VSCode editor
 - **Published**: September 25, 2026
-- **Summary**: https://www.theverge.com/transportation/999891/waymo-safety-data-injury-crash-human......
-- **Keywords**: crash, crash, crash
-- [Read more](https://www.theverge.com/transportation/999891/waymo-safety-data-injury-crash-human-driver)
+- **Summary**: ......
+- **Keywords**: bug
+- [Read more](https://github.com/microsoft/vscode/issues/338035)
 
-### Compromised GitHub Actions Came Back Online and Resumed Executing Mini Shai-Hulud Malware
+### Shipping Code Faster Is Not the Bottleneck
 - **Published**: September 25, 2026
-- **Summary**: Two actions-cool GitHub Actions have been disabled for a second time after the repositories became accessible last week, months after they were compro...
-- [Read more](https://thehackernews.com/2026/09/compromised-github-actions-came-back.html)
+- **Summary**: https://valentinprugnaud.dev/posts/2026/07/shipping-code-faster-is-not-the-bottleneck</a......
+- [Read more](https://valentinprugnaud.dev/posts/2026/07/shipping-code-faster-is-not-the-bottleneck)
 
 ---
 
