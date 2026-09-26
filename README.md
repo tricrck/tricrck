@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Kiteworks Urges Customers to Shut Down Systems for 9 Hours Over Possible Cyber Attack
+### Attackers Bypass WAFs to Exploit Oracle PeopleSoft Flaw and Deploy Web Shells
 - **Published**: September 26, 2026
-- **Summary**: Kiteworks (formerly Accellion) is urging customers to shut down their systems as a precautionary measure for nine hours over the weekend after it rece...
-- **Keywords**: down, down
-- [Read more](https://thehackernews.com/2026/09/kiteworks-urges-customers-to-shut-down.html)
+- **Summary**: Google is warning of renewed mass exploitation of a known security vulnerability in Oracle PeopleSoft as part of a campaign targeting multiple sectors...
+- [Read more](https://thehackernews.com/2026/09/attackers-bypass-wafs-to-exploit-oracle.html)
 
-### Elementor CSRF Flaw Lets Attackers Take Over Sites After Admin Clicks Crafted Link
+### Zero Trust for AI Agents Starts With Fixing Zero Visibility
 - **Published**: September 26, 2026
-- **Summary**: Details have emerged about a high-severity security flaw in the Elementor Website Builder WordPress plugin that could be exploited by an unauthenticat...
-- [Read more](https://thehackernews.com/2026/09/elementor-csrf-flaw-lets-attackers-take.html)
+- **Summary**: The way we talk about AI agents is shifting, and the way we implement them requires an even more fundamental shift. While earlier discourse focused on...
+- [Read more](https://thehackernews.com/2026/09/zero-trust-for-ai-agents-starts-with.html)
 
 ---
 
