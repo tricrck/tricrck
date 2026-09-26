@@ -16,15 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Attackers Bypass WAFs to Exploit Oracle PeopleSoft Flaw and Deploy Web Shells
+### Lunex Stealer Abuses AMD Driver to Disable Security Monitoring and Steal Browser Credentials
 - **Published**: September 26, 2026
-- **Summary**: Google is warning of renewed mass exploitation of a known security vulnerability in Oracle PeopleSoft as part of a campaign targeting multiple sectors...
-- [Read more](https://thehackernews.com/2026/09/attackers-bypass-wafs-to-exploit-oracle.html)
+- **Summary**: The Psychedelic Stealer malware distributed via compromised Ukrainian websites using ClickFix-style Cloudflare verification checks is part of a wider ...
+- [Read more](https://thehackernews.com/2026/09/lunex-stealer-abuses-amd-driver-to.html)
 
-### Zero Trust for AI Agents Starts With Fixing Zero Visibility
+### A dashboard scoring HN frontpage stories with Pangram
 - **Published**: September 26, 2026
-- **Summary**: The way we talk about AI agents is shifting, and the way we implement them requires an even more fundamental shift. While earlier discourse focused on...
-- [Read more](https://thehackernews.com/2026/09/zero-trust-for-ai-agents-starts-with.html)
+- **Summary**: https://www.salahadawi.com/hacker-news-ai-detector</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4......
+- [Read more](https://www.salahadawi.com/hacker-news-ai-detector)
 
 ---
 
