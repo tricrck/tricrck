@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### The Arena
+### Kiteworks Urges Customers to Shut Down Systems for 9 Hours Over Possible Cyber Attack
 - **Published**: September 26, 2026
-- **Summary**: https://thearena.rip</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49853056">https://news.ycombinator.com/item?id=49853056</a...
-- [Read more](https://thearena.rip)
+- **Summary**: Kiteworks (formerly Accellion) is urging customers to shut down their systems as a precautionary measure for nine hours over the weekend after it rece...
+- **Keywords**: down, down
+- [Read more](https://thehackernews.com/2026/09/kiteworks-urges-customers-to-shut-down.html)
 
-### Dobium: $0 commission prediction exchange
+### Elementor CSRF Flaw Lets Attackers Take Over Sites After Admin Clicks Crafted Link
 - **Published**: September 26, 2026
-- **Summary**: https://dobium.com/waitlist</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49853033">https://news.ycombinator.com/item?id=......
-- [Read more](https://dobium.com/waitlist)
+- **Summary**: Details have emerged about a high-severity security flaw in the Elementor Website Builder WordPress plugin that could be exploited by an unauthenticat...
+- [Read more](https://thehackernews.com/2026/09/elementor-csrf-flaw-lets-attackers-take.html)
 
 ---
 
