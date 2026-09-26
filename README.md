@@ -16,16 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Bug: Border radius has infected VSCode editor
-- **Published**: September 25, 2026
-- **Summary**: ......
-- **Keywords**: bug
-- [Read more](https://github.com/microsoft/vscode/issues/338035)
+### The Arena
+- **Published**: September 26, 2026
+- **Summary**: https://thearena.rip</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49853056">https://news.ycombinator.com/item?id=49853056</a...
+- [Read more](https://thearena.rip)
 
-### Shipping Code Faster Is Not the Bottleneck
-- **Published**: September 25, 2026
-- **Summary**: https://valentinprugnaud.dev/posts/2026/07/shipping-code-faster-is-not-the-bottleneck</a......
-- [Read more](https://valentinprugnaud.dev/posts/2026/07/shipping-code-faster-is-not-the-bottleneck)
+### Dobium: $0 commission prediction exchange
+- **Published**: September 26, 2026
+- **Summary**: https://dobium.com/waitlist</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49853033">https://news.ycombinator.com/item?id=......
+- [Read more](https://dobium.com/waitlist)
 
 ---
 
