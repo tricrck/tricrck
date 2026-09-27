@@ -16,16 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Warning: Two Unpatched Citrix NetScaler RCE Zero-Days Under Active Exploitation
+### Glyd – Run LLMs in 33% less GPU memory, bit for bit
 - **Published**: September 27, 2026
-- **Summary**: Two new unpatched zero-day vulnerabilities in Citrix NetScaler ADC and NetScaler Gateway appliances that allow remote code execution are being activel...
-- [Read more](https://thehackernews.com/2026/09/warning-two-unpatched-citrix-netscaler.html)
+- **Summary**: https://getglyd.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49868130">https://news.ycombinator.com/item?id=49868130</a...
+- [Read more](https://getglyd.com/)
 
-### The Poisoned Chalice
+### Dead Cognitions: A Census of Misattributed Insights
 - **Published**: September 27, 2026
-- **Summary**: https://imgur.com/a/a6gKgjw</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49865670">https://news.ycombinator.com/item?id=......
-- [Read more](https://imgur.com/a/a6gKgjw)
+- **Summary**: https://arxiv.org/abs/2604.10288</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49868112">https://news.ycombinator.co......
+- [Read more](https://arxiv.org/abs/2604.10288)
 
 ---
 
