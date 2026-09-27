@@ -16,16 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Lunex Stealer Abuses AMD Driver to Disable Security Monitoring and Steal Browser Credentials
-- **Published**: September 26, 2026
-- **Summary**: The Psychedelic Stealer malware distributed via compromised Ukrainian websites using ClickFix-style Cloudflare verification checks is part of a wider ...
-- [Read more](https://thehackernews.com/2026/09/lunex-stealer-abuses-amd-driver-to.html)
+### Show HN: Esh – English to Shell
+- **Published**: September 27, 2026
+- **Summary**: https://archive.org/download/esh_20260927/esh.mov</a></p>
+<hr />
+<p>Comments URL: <a href="ht......
+- [Read more](https://github.com/numericalworks/esh)
 
-### A dashboard scoring HN frontpage stories with Pangram
-- **Published**: September 26, 2026
-- **Summary**: https://www.salahadawi.com/hacker-news-ai-detector</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4......
-- [Read more](https://www.salahadawi.com/hacker-news-ai-detector)
+### Unusual earthquake activity detected at site of former N. Korea nuclear facility
+- **Published**: September 27, 2026
+- **Summary**: https://www.independent.co.uk/news/science/earthquake-north-korea-nucl......
+- [Read more](https://www.independent.co.uk/news/science/earthquake-north-korea-nuclear-mountain-mantap-b3052279.html)
 
 ---
 
