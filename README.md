@@ -16,17 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Glyd – Run LLMs in 33% less GPU memory, bit for bit
+### Anthropic is a supply chain risk for all of us
 - **Published**: September 27, 2026
-- **Summary**: https://getglyd.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49868130">https://news.ycombinator.com/item?id=49868130</a...
-- [Read more](https://getglyd.com/)
+- **Summary**: https://building138.com/anthropic-is-a-supply-chain-risk-for-all-of-us</a></p>
+<p>Comments URL: <a href......
+- [Read more](https://building138.com/anthropic-is-a-supply-chain-risk-for-all-of-us)
 
-### Dead Cognitions: A Census of Misattributed Insights
+### App Store review allowed a Meta Muse copycat
 - **Published**: September 27, 2026
-- **Summary**: https://arxiv.org/abs/2604.10288</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49868112">https://news.ycombinator.co......
-- [Read more](https://arxiv.org/abs/2604.10288)
+- **Summary**: https://lapcatsoftware.com/articles/2026/9/8.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=498......
+- [Read more](https://lapcatsoftware.com/articles/2026/9/8.html)
 
 ---
 
