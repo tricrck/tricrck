@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Show HN: Esh – English to Shell
+### Warning: Two Unpatched Citrix NetScaler RCE Zero-Days Under Active Exploitation
 - **Published**: September 27, 2026
-- **Summary**: https://archive.org/download/esh_20260927/esh.mov</a></p>
-<hr />
-<p>Comments URL: <a href="ht......
-- [Read more](https://github.com/numericalworks/esh)
+- **Summary**: Two new unpatched zero-day vulnerabilities in Citrix NetScaler ADC and NetScaler Gateway appliances that allow remote code execution are being activel...
+- [Read more](https://thehackernews.com/2026/09/warning-two-unpatched-citrix-netscaler.html)
 
-### Unusual earthquake activity detected at site of former N. Korea nuclear facility
+### The Poisoned Chalice
 - **Published**: September 27, 2026
-- **Summary**: https://www.independent.co.uk/news/science/earthquake-north-korea-nucl......
-- [Read more](https://www.independent.co.uk/news/science/earthquake-north-korea-nuclear-mountain-mantap-b3052279.html)
+- **Summary**: https://imgur.com/a/a6gKgjw</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49865670">https://news.ycombinator.com/item?id=......
+- [Read more](https://imgur.com/a/a6gKgjw)
 
 ---
 
