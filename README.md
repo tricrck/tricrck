@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Anthropic is a supply chain risk for all of us
-- **Published**: September 27, 2026
-- **Summary**: https://building138.com/anthropic-is-a-supply-chain-risk-for-all-of-us</a></p>
-<p>Comments URL: <a href......
-- [Read more](https://building138.com/anthropic-is-a-supply-chain-risk-for-all-of-us)
+### Open-source AnyPS5 dumps emulation to run PS5 games natively on PC
+- **Published**: September 28, 2026
+- **Summary**: Article URL: <a href="https://www.tomshardware.com/video-games/playstation/open-source-anyps5-dumps-emulation-to-run-playstation-5-console-games-nativ...
+- [Read more](https://www.tomshardware.com/video-games/playstation/open-source-anyps5-dumps-emulation-to-run-playstation-5-console-games-natively-on-pc-amd-zen-2-architecture-enables-proton-like-binary-translation-for-windows-and-linux)
 
-### App Store review allowed a Meta Muse copycat
-- **Published**: September 27, 2026
-- **Summary**: https://lapcatsoftware.com/articles/2026/9/8.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=498......
-- [Read more](https://lapcatsoftware.com/articles/2026/9/8.html)
+### SevenDB: Reactive yet Scalable
+- **Published**: September 28, 2026
+- **Summary**: https://github.com/sevenDatabase/SevenDB</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49873505">https://new......
+- [Read more](https://github.com/sevenDatabase/SevenDB)
 
 ---
 
