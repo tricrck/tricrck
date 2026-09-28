@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Open-source AnyPS5 dumps emulation to run PS5 games natively on PC
+### Webinar: How to Govern AI Agents, Reduce Excessive Access, and Control Shadow AI
 - **Published**: September 28, 2026
-- **Summary**: Article URL: <a href="https://www.tomshardware.com/video-games/playstation/open-source-anyps5-dumps-emulation-to-run-playstation-5-console-games-nativ...
-- [Read more](https://www.tomshardware.com/video-games/playstation/open-source-anyps5-dumps-emulation-to-run-playstation-5-console-games-natively-on-pc-amd-zen-2-architecture-enables-proton-like-binary-translation-for-windows-and-linux)
+- **Summary**: AI agents are moving into production faster than security teams can govern them. They are connecting to apps, handling data, calling APIs, and acting ...
+- [Read more](https://thehackernews.com/2026/09/webinar-how-to-govern-ai-agents-reduce.html)
 
-### SevenDB: Reactive yet Scalable
+### Carbonato Botnet Compromises Docker Hosts to Deploy Telegram-Controlled Hermes AI Agent
 - **Published**: September 28, 2026
-- **Summary**: https://github.com/sevenDatabase/SevenDB</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49873505">https://new......
-- [Read more](https://github.com/sevenDatabase/SevenDB)
+- **Summary**: Cybersecurity researchers have disclosed details of a new botnet malware called Carbonato that's targeting exposed Docker daemons to deploy an open-so...
+- [Read more](https://thehackernews.com/2026/09/carbonato-botnet-compromises-docker.html)
 
 ---
 
