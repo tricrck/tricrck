@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Webinar: How to Govern AI Agents, Reduce Excessive Access, and Control Shadow AI
-- **Published**: September 28, 2026
-- **Summary**: AI agents are moving into production faster than security teams can govern them. They are connecting to apps, handling data, calling APIs, and acting ...
-- [Read more](https://thehackernews.com/2026/09/webinar-how-to-govern-ai-agents-reduce.html)
+### Apple Patches CoreGraphics Flaw Possibly Exploited in Targeted Attacks
+- **Published**: September 29, 2026
+- **Summary**: Apple has released security updates to address a vulnerability in older versions of iOS, iPadOS, and macOS that it said may have been exploited in tar...
+- [Read more](https://thehackernews.com/2026/09/apple-patches-coregraphics-flaw.html)
 
-### Carbonato Botnet Compromises Docker Hosts to Deploy Telegram-Controlled Hermes AI Agent
-- **Published**: September 28, 2026
-- **Summary**: Cybersecurity researchers have disclosed details of a new botnet malware called Carbonato that's targeting exposed Docker daemons to deploy an open-so...
-- [Read more](https://thehackernews.com/2026/09/carbonato-botnet-compromises-docker.html)
+### Hackers Use NeedyMantis to Maintain Long-Term Access in Breached Networks
+- **Published**: September 29, 2026
+- **Summary**: Hackers have used a malware family called NeedyMantis to maintain long-term access to networks they had already breached, Microsoft said in&nbsp;a tec...
+- [Read more](https://thehackernews.com/2026/09/hackers-use-needymantis-to-maintain.html)
 
 ---
 
