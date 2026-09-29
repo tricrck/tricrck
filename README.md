@@ -16,18 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Dutch Police Arrest 24-Year-Old Amsterdam Man in ShinyHunters Investigation
+### French Tax Data Theft Using Stolen Staff Passwords Went Undetected for Seven Weeks
 - **Published**: September 29, 2026
-- **Summary**: Dutch authorities have confirmed that they arrested a 24-year-old man from Amsterdam in connection with the ShinyHunters group.
+- **Summary**: An attacker used stolen passwords of staff at France's tax administration to take tax data on hundreds of thousands of taxpayers and businesses in Jun...
+- [Read more](https://thehackernews.com/2026/09/french-tax-data-theft-using-stolen.html)
 
-"It is true that this...
-- [Read more](https://thehackernews.com/2026/09/dutch-police-arrest-24-year-old.html)
-
-### "@Claude create a ticket" is an anti-pattern
+### New Spectre-v2 BTR Attack Leaks Linux Memory Despite Existing Defenses
 - **Published**: September 29, 2026
-- **Summary**: https://bend.bearblog.dev/claude-create-ticket-anti-pattern/</a></p>
-<p>Comments URL: <a href="https://news.ycomb......
-- [Read more](https://bend.bearblog.dev/claude-create-ticket-anti-pattern/)
+- **Summary**: A group of academics from VUSec and Scuola Superiore Sant'Anna have disclosed details of a new Spectre CPU vulnerability variant that affects Just-In-...
+- [Read more](https://thehackernews.com/2026/09/new-spectre-v2-btr-attack-leaks-linux.html)
 
 ---
 
