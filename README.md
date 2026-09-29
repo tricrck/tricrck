@@ -16,16 +16,18 @@
 
 ## 🚨 Tech Stories
 
-### Show HN: Error in official Swiss weather forecasts, recorded since September '25
+### Dutch Police Arrest 24-Year-Old Amsterdam Man in ShinyHunters Investigation
 - **Published**: September 29, 2026
-- **Summary**: <p>Hi. In summer 2025, I got a bit disappointed that many days ended up hotter than they were forecast, and decided to quantify this to see how "bad" ...
-- **Keywords**: error
-- [Read more](https://forecasterror.xlit.app/)
+- **Summary**: Dutch authorities have confirmed that they arrested a 24-year-old man from Amsterdam in connection with the ShinyHunters group.
 
-### Egg producers reach federal and state settlement over price-fixing allegations
+"It is true that this...
+- [Read more](https://thehackernews.com/2026/09/dutch-police-arrest-24-year-old.html)
+
+### "@Claude create a ticket" is an anti-pattern
 - **Published**: September 29, 2026
-- **Summary**: https://www.cbsnews.com/news/doj-states-secure-proposed......
-- [Read more](https://www.cbsnews.com/news/doj-states-secure-proposed-settlement-with-egg-producers-over-price-fixing-investigation/)
+- **Summary**: https://bend.bearblog.dev/claude-create-ticket-anti-pattern/</a></p>
+<p>Comments URL: <a href="https://news.ycomb......
+- [Read more](https://bend.bearblog.dev/claude-create-ticket-anti-pattern/)
 
 ---
 
