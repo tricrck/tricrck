@@ -16,15 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Apple Patches CoreGraphics Flaw Possibly Exploited in Targeted Attacks
+### Show HN: Error in official Swiss weather forecasts, recorded since September '25
 - **Published**: September 29, 2026
-- **Summary**: Apple has released security updates to address a vulnerability in older versions of iOS, iPadOS, and macOS that it said may have been exploited in tar...
-- [Read more](https://thehackernews.com/2026/09/apple-patches-coregraphics-flaw.html)
+- **Summary**: <p>Hi. In summer 2025, I got a bit disappointed that many days ended up hotter than they were forecast, and decided to quantify this to see how "bad" ...
+- **Keywords**: error
+- [Read more](https://forecasterror.xlit.app/)
 
-### Hackers Use NeedyMantis to Maintain Long-Term Access in Breached Networks
+### Egg producers reach federal and state settlement over price-fixing allegations
 - **Published**: September 29, 2026
-- **Summary**: Hackers have used a malware family called NeedyMantis to maintain long-term access to networks they had already breached, Microsoft said in&nbsp;a tec...
-- [Read more](https://thehackernews.com/2026/09/hackers-use-needymantis-to-maintain.html)
+- **Summary**: https://www.cbsnews.com/news/doj-states-secure-proposed......
+- [Read more](https://www.cbsnews.com/news/doj-states-secure-proposed-settlement-with-egg-producers-over-price-fixing-investigation/)
 
 ---
 
