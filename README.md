@@ -16,15 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### French Tax Data Theft Using Stolen Staff Passwords Went Undetected for Seven Weeks
-- **Published**: September 29, 2026
-- **Summary**: An attacker used stolen passwords of staff at France's tax administration to take tax data on hundreds of thousands of taxpayers and businesses in Jun...
-- [Read more](https://thehackernews.com/2026/09/french-tax-data-theft-using-stolen.html)
+### LinkedIn Larpmaxxing
+- **Published**: September 30, 2026
+- **Summary**: https://hereticpleb.vercel.app/blog/linkedin-larpmaxxing/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator......
+- [Read more](https://hereticpleb.vercel.app/blog/linkedin-larpmaxxing/)
 
-### New Spectre-v2 BTR Attack Leaks Linux Memory Despite Existing Defenses
-- **Published**: September 29, 2026
-- **Summary**: A group of academics from VUSec and Scuola Superiore Sant'Anna have disclosed details of a new Spectre CPU vulnerability variant that affects Just-In-...
-- [Read more](https://thehackernews.com/2026/09/new-spectre-v2-btr-attack-leaks-linux.html)
+### Show HN: PyTorch's shape in a browser tap on WebGPU
+- **Published**: September 30, 2026
+- **Summary**: <p>I made a way to run torch code in a browser. There are no install, no server, no account. It's just a typescript runtime on WebGPU. It can train mo...
+- [Read more](https://playidea-lab.github.io/borch/)
 
 ---
 
