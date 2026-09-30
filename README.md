@@ -16,18 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### OPSEC in 2026: An Anatomy of Failure
+### Attackers Exploit Zimbra Flaw to Deploy Web Shells and Harvest Authentication Secrets
 - **Published**: September 30, 2026
-- **Summary**: https://ikerantxustegi.com/research/opsec-in-2026-an-anatomy-of-failure/</a></p>
-<p>Comments URL: <a ......
-- **Keywords**: failure, failure, failure
-- [Read more](https://ikerantxustegi.com/research/opsec-in-2026-an-anatomy-of-failure/)
+- **Summary**: Threat actors have weaponized a now-patched security flaw in Zimbra Collaboration Suite (ZCS) to deploy web shells and access mailbox data, according ...
+- [Read more](https://thehackernews.com/2026/09/attackers-exploit-zimbra-flaw-to-deploy.html)
 
-### OpenSSL Fixes High-Severity DTLS Flaw That Can Leak Heap Memory Unencrypted
+### Attackers Abuse MSP360 to Deploy ScreenConnect in Dual-RMM Phishing Attacks
 - **Published**: September 30, 2026
-- **Summary**: A High-severity OpenSSL flaw can leak heap memory to the other side of a DTLS connection or crash the program,&nbsp;OpenSSL said&nbsp;on September 29 ...
-- **Keywords**: crash
-- [Read more](https://thehackernews.com/2026/09/openssl-fixes-high-severity-dtls-flaw.html)
+- **Summary**: Microsoft has warned of phishing campaigns distributing an installer for the MSP360 Remote Monitoring and Management (RMM) software under the guise of...
+- [Read more](https://thehackernews.com/2026/09/attackers-abuse-msp360-to-deploy.html)
 
 ---
 
