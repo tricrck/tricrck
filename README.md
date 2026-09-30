@@ -16,16 +16,18 @@
 
 ## 🚨 Tech Stories
 
-### LinkedIn Larpmaxxing
+### OPSEC in 2026: An Anatomy of Failure
 - **Published**: September 30, 2026
-- **Summary**: https://hereticpleb.vercel.app/blog/linkedin-larpmaxxing/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator......
-- [Read more](https://hereticpleb.vercel.app/blog/linkedin-larpmaxxing/)
+- **Summary**: https://ikerantxustegi.com/research/opsec-in-2026-an-anatomy-of-failure/</a></p>
+<p>Comments URL: <a ......
+- **Keywords**: failure, failure, failure
+- [Read more](https://ikerantxustegi.com/research/opsec-in-2026-an-anatomy-of-failure/)
 
-### Show HN: PyTorch's shape in a browser tap on WebGPU
+### OpenSSL Fixes High-Severity DTLS Flaw That Can Leak Heap Memory Unencrypted
 - **Published**: September 30, 2026
-- **Summary**: <p>I made a way to run torch code in a browser. There are no install, no server, no account. It's just a typescript runtime on WebGPU. It can train mo...
-- [Read more](https://playidea-lab.github.io/borch/)
+- **Summary**: A High-severity OpenSSL flaw can leak heap memory to the other side of a DTLS connection or crash the program,&nbsp;OpenSSL said&nbsp;on September 29 ...
+- **Keywords**: crash
+- [Read more](https://thehackernews.com/2026/09/openssl-fixes-high-severity-dtls-flaw.html)
 
 ---
 
