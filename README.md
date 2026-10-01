@@ -16,15 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### How Financial Services Companies Can Modernize Their Software Supply Chain
+### Police Arrest 16-Year-Old Suspected of Running KillSec, Seize Ransomware Leak Site and Servers
 - **Published**: October 01, 2026
-- **Summary**: Every security leader at a bank, insurer, or asset manager has had a version of this conversation: Security wants to eliminate a class of vulnerabilit...
-- [Read more](https://thehackernews.com/2026/10/how-financial-services-companies-can.html)
+- **Summary**: Police in Spain have arrested a 16-year-old whom investigators suspect of running the KillSec ransomware group. KillSec is accused of stealing data fr...
+- [Read more](https://thehackernews.com/2026/10/police-arrest-16-year-old-suspected-of.html)
 
-### OpenAI Disrupts Reasoning Extraction Campaign Linked to Moonshot AI Associates
+### Your Big Mac might cost more if McDonald's AI thinks people nearby can afford it
 - **Published**: October 01, 2026
-- **Summary**: OpenAI on Wednesday said it identified and disrupted a coordinated distillation campaign that was designed to illicitly extract protected reasoning fr...
-- [Read more](https://thehackernews.com/2026/10/openai-disrupts-reasoning-extraction.html)
+- **Summary**: https://neow.in/NGxhb3d6</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49927693">https://news.ycombinator.com/item?id=499276....
+- [Read more](https://neow.in/NGxhb3d6)
 
 ---
 
