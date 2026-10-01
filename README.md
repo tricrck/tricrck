@@ -16,15 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Attackers Exploit Zimbra Flaw to Deploy Web Shells and Harvest Authentication Secrets
+### Michael Burry says it would be for the 'good of humanity' if a market crash stops OpenAI and Anthropic from going public
 - **Published**: September 30, 2026
-- **Summary**: Threat actors have weaponized a now-patched security flaw in Zimbra Collaboration Suite (ZCS) to deploy web shells and access mailbox data, according ...
-- [Read more](https://thehackernews.com/2026/09/attackers-exploit-zimbra-flaw-to-deploy.html)
+- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1wujpgm/michael_burry_says_it_would_be_for_the_good_of/"> <img alt="Michael Burry says it w...
+- **Keywords**: crash
+- [Read more](https://www.reddit.com/r/technology/comments/1wujpgm/michael_burry_says_it_would_be_for_the_good_of/)
 
-### Attackers Abuse MSP360 to Deploy ScreenConnect in Dual-RMM Phishing Attacks
-- **Published**: September 30, 2026
-- **Summary**: Microsoft has warned of phishing campaigns distributing an installer for the MSP360 Remote Monitoring and Management (RMM) software under the guise of...
-- [Read more](https://thehackernews.com/2026/09/attackers-abuse-msp360-to-deploy.html)
+### Citrix NetScaler Post-Exploitation Payload Creates Superuser, Maps Web Shell to CSS-Like URLs
+- **Published**: October 01, 2026
+- **Summary**: Threat actors have been observed exploiting a critical pre-authentication command injection vulnerability in Citrix NetScaler ADC and NetScaler Gatewa...
+- [Read more](https://thehackernews.com/2026/10/citrix-netscaler-post-exploitation.html)
 
 ---
 

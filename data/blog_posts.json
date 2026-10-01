@@ -1,6 +1,120 @@
 {
   "chaos_ranked": [
     {
+      "title": "Michael Burry says it would be for the 'good of humanity' if a market crash stops OpenAI and Anthropic from going public",
+      "link": "https://www.reddit.com/r/technology/comments/1wujpgm/michael_burry_says_it_would_be_for_the_good_of/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1wujpgm/michael_burry_says_it_would_be_for_the_good_of/\"> <img alt=\"Michael Burry says it would be for the 'good of humanity' if ...",
+      "published": "2026-09-30T23:10:02+00:00",
+      "domain": "reddit.com",
+      "scores": {
+        "chaos": 14.2,
+        "anarchy": 3.0,
+        "overall": 8.6
+      },
+      "keywords": {
+        "chaos": [
+          "crash"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Citrix NetScaler Post-Exploitation Payload Creates Superuser, Maps Web Shell to CSS-Like URLs",
+      "link": "https://thehackernews.com/2026/10/citrix-netscaler-post-exploitation.html",
+      "summary": "Threat actors have been observed exploiting a critical pre-authentication command injection vulnerability in Citrix NetScaler ADC and NetScaler Gateway to drop web shells and attempt theft of configur...",
+      "published": "2026-10-01T10:05:34+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Breathing the Compiler",
+      "link": "https://www.mattkeeter.com/blog/2024-07-12-interpreter/",
+      "summary": "<p>Article URL: <a href=\"https://www.mattkeeter.com/blog/2024-07-12-interpreter/\">https://www.mattkeeter.com/blog/2024-07-12-interpreter/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com...",
+      "published": "2026-10-01T04:36:10+00:00",
+      "domain": "mattkeeter.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "RIP Facebook",
+      "link": "https://senecaeffect.substack.com/p/rip-facebook",
+      "summary": "<p>Article URL: <a href=\"https://senecaeffect.substack.com/p/rip-facebook\">https://senecaeffect.substack.com/p/rip-facebook</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49917...",
+      "published": "2026-10-01T04:35:33+00:00",
+      "domain": "senecaeffect.substack.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Ao: Homoiconic Solid Modeling [pdf]",
+      "link": "https://www.mattkeeter.com/research/ao_poster.pdf",
+      "summary": "<p>Article URL: <a href=\"https://www.mattkeeter.com/research/ao_poster.pdf\">https://www.mattkeeter.com/research/ao_poster.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=499...",
+      "published": "2026-10-01T04:33:42+00:00",
+      "domain": "mattkeeter.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Fuck Android Developer Verification Program",
+      "link": "https://twitter.com/0xcrypto/status/2105515822643114182",
+      "summary": "<p>Article URL: <a href=\"https://twitter.com/0xcrypto/status/2105515822643114182\">https://twitter.com/0xcrypto/status/2105515822643114182</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com...",
+      "published": "2026-10-01T04:32:38+00:00",
+      "domain": "twitter.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Chinese batteries potentially 'booby-trapped' to 'plode",
+      "link": "https://www.youtube.com/watch?v=boI_WUtForo",
+      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=boI_WUtForo\">https://www.youtube.com/watch?v=boI_WUtForo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49917746\">https...",
+      "published": "2026-10-01T04:29:53+00:00",
+      "domain": "youtube.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "Attackers Exploit Zimbra Flaw to Deploy Web Shells and Harvest Authentication Secrets",
       "link": "https://thehackernews.com/2026/09/attackers-exploit-zimbra-flaw-to-deploy.html",
       "summary": "Threat actors have weaponized a now-patched security flaw in Zimbra Collaboration Suite (ZCS) to deploy web shells and access mailbox data, according to findings from the Microsoft Security Research t...",
@@ -17,11 +131,11 @@
       }
     },
     {
-      "title": "Attackers Abuse MSP360 to Deploy ScreenConnect in Dual-RMM Phishing Attacks",
-      "link": "https://thehackernews.com/2026/09/attackers-abuse-msp360-to-deploy.html",
-      "summary": "Microsoft has warned of phishing campaigns distributing an installer for the MSP360 Remote Monitoring and Management (RMM) software under the guise of meeting invitations, PDF-themed lures, software u...",
-      "published": "2026-09-30T22:02:59+05:30",
-      "domain": "thehackernews.com",
+      "title": "56k.rip \u2013 the 1996 dial-up internet experience",
+      "link": "https://56k.rip/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49915126\">Comments</a>...",
+      "published": "2026-09-30T22:08:50+00:00",
+      "domain": "56k.rip",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -33,123 +147,11 @@
       }
     },
     {
-      "title": "AI invite codes and referral codes, live",
-      "link": "https://aiinvitecode.com",
-      "summary": "<p>Article URL: <a href=\"https://aiinvitecode.com\">https://aiinvitecode.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49914971\">https://news.ycombinator.com/item?id=499149...",
-      "published": "2026-09-30T21:52:56+00:00",
-      "domain": "aiinvitecode.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Uber Wait Times Rise 19% as Prices Climb 53%: Study",
-      "link": "https://www.businessinsider.com/uber-wait-times-rise-19-as-prices-climb-53-study-2026-9",
-      "summary": "<p>Article URL: <a href=\"https://www.businessinsider.com/uber-wait-times-rise-19-as-prices-climb-53-study-2026-9\">https://www.businessinsider.com/uber-wait-times-rise-19-as-prices-climb-53-study-2026-...",
-      "published": "2026-09-30T21:52:18+00:00",
-      "domain": "businessinsider.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Warp Factories Overview",
-      "link": "https://docs.warp.dev/factories/",
-      "summary": "<p>Article URL: <a href=\"https://docs.warp.dev/factories/\">https://docs.warp.dev/factories/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49914959\">https://news.ycombinator.co...",
-      "published": "2026-09-30T21:52:11+00:00",
-      "domain": "docs.warp.dev",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The Airbnb Backfire",
-      "link": "https://www.businessinsider.com/selling-vacation-home-airbnb-rental-real-estate-price-cuts-2026-9",
-      "summary": "<p>Article URL: <a href=\"https://www.businessinsider.com/selling-vacation-home-airbnb-rental-real-estate-price-cuts-2026-9\">https://www.businessinsider.com/selling-vacation-home-airbnb-rental-real-est...",
-      "published": "2026-09-30T21:50:16+00:00",
-      "domain": "businessinsider.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Cycode Extends Its ADLC Security Capabilities to Developers' Workstations",
-      "link": "https://radicaldatascience.wpcomstaging.com/2026/09/25/cycode-extends-its-adlc-security-capabilities-to-developers-workstations-stopping-software-supply-chain-attacks-before-they-start/",
-      "summary": "<p>Article URL: <a href=\"https://radicaldatascience.wpcomstaging.com/2026/09/25/cycode-extends-its-adlc-security-capabilities-to-developers-workstations-stopping-software-supply-chain-attacks-before-t...",
-      "published": "2026-09-30T21:46:21+00:00",
-      "domain": "radicaldatascience.wpcomstaging.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "RFK Jr. thinks AI will free us from the \u201ctyranny\u201d of medical facts, expertise",
-      "link": "https://www.reddit.com/r/technology/comments/1wuglns/rfk_jr_thinks_ai_will_free_us_from_the_tyranny_of/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1wuglns/rfk_jr_thinks_ai_will_free_us_from_the_tyranny_of/\"> <img alt=\"RFK Jr. thinks AI will free us from the \u201ctyranny\u201d of medic...",
-      "published": "2026-09-30T20:57:20+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Cisco Warns of Attackers Exploiting Critical Authentication Bypass in SD-WAN Manager",
-      "link": "https://thehackernews.com/2026/09/cisco-warns-of-attackers-exploiting.html",
-      "summary": "Attackers are exploiting a new critical zero-day flaw in Cisco Catalyst SD-WAN Manager, the system companies use to manage their Cisco SD-WAN networks, Cisco said in an&nbsp;advisory&nbsp;on September...",
-      "published": "2026-09-30T20:54:54+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix Lures",
-      "link": "https://thehackernews.com/2026/09/attackers-abuse-chatgpt-custom-gpts-to.html",
-      "summary": "Threat actors are abusing ChatGPT Custom GPTs to disguise them as legitimate product offerings and direct unsuspecting victims to malicious sites that employ ClickFix lures to deliver malware.\n\nHuntre...",
-      "published": "2026-09-30T20:30:15+05:30",
-      "domain": "thehackernews.com",
+      "title": "The top secret URSALA, RAQUEL, and FARRAH satellites (2025)",
+      "link": "https://www.thespacereview.com/article/4951/1",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49915082\">Comments</a>...",
+      "published": "2026-09-30T22:03:04+00:00",
+      "domain": "thespacereview.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -163,6 +165,120 @@
   ],
   "anarchy_ranked": [
     {
+      "title": "Citrix NetScaler Post-Exploitation Payload Creates Superuser, Maps Web Shell to CSS-Like URLs",
+      "link": "https://thehackernews.com/2026/10/citrix-netscaler-post-exploitation.html",
+      "summary": "Threat actors have been observed exploiting a critical pre-authentication command injection vulnerability in Citrix NetScaler ADC and NetScaler Gateway to drop web shells and attempt theft of configur...",
+      "published": "2026-10-01T10:05:34+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Breathing the Compiler",
+      "link": "https://www.mattkeeter.com/blog/2024-07-12-interpreter/",
+      "summary": "<p>Article URL: <a href=\"https://www.mattkeeter.com/blog/2024-07-12-interpreter/\">https://www.mattkeeter.com/blog/2024-07-12-interpreter/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com...",
+      "published": "2026-10-01T04:36:10+00:00",
+      "domain": "mattkeeter.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "RIP Facebook",
+      "link": "https://senecaeffect.substack.com/p/rip-facebook",
+      "summary": "<p>Article URL: <a href=\"https://senecaeffect.substack.com/p/rip-facebook\">https://senecaeffect.substack.com/p/rip-facebook</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49917...",
+      "published": "2026-10-01T04:35:33+00:00",
+      "domain": "senecaeffect.substack.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Ao: Homoiconic Solid Modeling [pdf]",
+      "link": "https://www.mattkeeter.com/research/ao_poster.pdf",
+      "summary": "<p>Article URL: <a href=\"https://www.mattkeeter.com/research/ao_poster.pdf\">https://www.mattkeeter.com/research/ao_poster.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=499...",
+      "published": "2026-10-01T04:33:42+00:00",
+      "domain": "mattkeeter.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Fuck Android Developer Verification Program",
+      "link": "https://twitter.com/0xcrypto/status/2105515822643114182",
+      "summary": "<p>Article URL: <a href=\"https://twitter.com/0xcrypto/status/2105515822643114182\">https://twitter.com/0xcrypto/status/2105515822643114182</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com...",
+      "published": "2026-10-01T04:32:38+00:00",
+      "domain": "twitter.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Chinese batteries potentially 'booby-trapped' to 'plode",
+      "link": "https://www.youtube.com/watch?v=boI_WUtForo",
+      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=boI_WUtForo\">https://www.youtube.com/watch?v=boI_WUtForo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49917746\">https...",
+      "published": "2026-10-01T04:29:53+00:00",
+      "domain": "youtube.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Michael Burry says it would be for the 'good of humanity' if a market crash stops OpenAI and Anthropic from going public",
+      "link": "https://www.reddit.com/r/technology/comments/1wujpgm/michael_burry_says_it_would_be_for_the_good_of/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1wujpgm/michael_burry_says_it_would_be_for_the_good_of/\"> <img alt=\"Michael Burry says it would be for the 'good of humanity' if ...",
+      "published": "2026-09-30T23:10:02+00:00",
+      "domain": "reddit.com",
+      "scores": {
+        "chaos": 14.2,
+        "anarchy": 3.0,
+        "overall": 8.6
+      },
+      "keywords": {
+        "chaos": [
+          "crash"
+        ],
+        "anarchy": []
+      }
+    },
+    {
       "title": "Attackers Exploit Zimbra Flaw to Deploy Web Shells and Harvest Authentication Secrets",
       "link": "https://thehackernews.com/2026/09/attackers-exploit-zimbra-flaw-to-deploy.html",
       "summary": "Threat actors have weaponized a now-patched security flaw in Zimbra Collaboration Suite (ZCS) to deploy web shells and access mailbox data, according to findings from the Microsoft Security Research t...",
@@ -179,11 +295,11 @@
       }
     },
     {
-      "title": "Attackers Abuse MSP360 to Deploy ScreenConnect in Dual-RMM Phishing Attacks",
-      "link": "https://thehackernews.com/2026/09/attackers-abuse-msp360-to-deploy.html",
-      "summary": "Microsoft has warned of phishing campaigns distributing an installer for the MSP360 Remote Monitoring and Management (RMM) software under the guise of meeting invitations, PDF-themed lures, software u...",
-      "published": "2026-09-30T22:02:59+05:30",
-      "domain": "thehackernews.com",
+      "title": "56k.rip \u2013 the 1996 dial-up internet experience",
+      "link": "https://56k.rip/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49915126\">Comments</a>...",
+      "published": "2026-09-30T22:08:50+00:00",
+      "domain": "56k.rip",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -195,123 +311,11 @@
       }
     },
     {
-      "title": "AI invite codes and referral codes, live",
-      "link": "https://aiinvitecode.com",
-      "summary": "<p>Article URL: <a href=\"https://aiinvitecode.com\">https://aiinvitecode.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49914971\">https://news.ycombinator.com/item?id=499149...",
-      "published": "2026-09-30T21:52:56+00:00",
-      "domain": "aiinvitecode.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Uber Wait Times Rise 19% as Prices Climb 53%: Study",
-      "link": "https://www.businessinsider.com/uber-wait-times-rise-19-as-prices-climb-53-study-2026-9",
-      "summary": "<p>Article URL: <a href=\"https://www.businessinsider.com/uber-wait-times-rise-19-as-prices-climb-53-study-2026-9\">https://www.businessinsider.com/uber-wait-times-rise-19-as-prices-climb-53-study-2026-...",
-      "published": "2026-09-30T21:52:18+00:00",
-      "domain": "businessinsider.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Warp Factories Overview",
-      "link": "https://docs.warp.dev/factories/",
-      "summary": "<p>Article URL: <a href=\"https://docs.warp.dev/factories/\">https://docs.warp.dev/factories/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49914959\">https://news.ycombinator.co...",
-      "published": "2026-09-30T21:52:11+00:00",
-      "domain": "docs.warp.dev",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The Airbnb Backfire",
-      "link": "https://www.businessinsider.com/selling-vacation-home-airbnb-rental-real-estate-price-cuts-2026-9",
-      "summary": "<p>Article URL: <a href=\"https://www.businessinsider.com/selling-vacation-home-airbnb-rental-real-estate-price-cuts-2026-9\">https://www.businessinsider.com/selling-vacation-home-airbnb-rental-real-est...",
-      "published": "2026-09-30T21:50:16+00:00",
-      "domain": "businessinsider.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Cycode Extends Its ADLC Security Capabilities to Developers' Workstations",
-      "link": "https://radicaldatascience.wpcomstaging.com/2026/09/25/cycode-extends-its-adlc-security-capabilities-to-developers-workstations-stopping-software-supply-chain-attacks-before-they-start/",
-      "summary": "<p>Article URL: <a href=\"https://radicaldatascience.wpcomstaging.com/2026/09/25/cycode-extends-its-adlc-security-capabilities-to-developers-workstations-stopping-software-supply-chain-attacks-before-t...",
-      "published": "2026-09-30T21:46:21+00:00",
-      "domain": "radicaldatascience.wpcomstaging.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "RFK Jr. thinks AI will free us from the \u201ctyranny\u201d of medical facts, expertise",
-      "link": "https://www.reddit.com/r/technology/comments/1wuglns/rfk_jr_thinks_ai_will_free_us_from_the_tyranny_of/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1wuglns/rfk_jr_thinks_ai_will_free_us_from_the_tyranny_of/\"> <img alt=\"RFK Jr. thinks AI will free us from the \u201ctyranny\u201d of medic...",
-      "published": "2026-09-30T20:57:20+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Cisco Warns of Attackers Exploiting Critical Authentication Bypass in SD-WAN Manager",
-      "link": "https://thehackernews.com/2026/09/cisco-warns-of-attackers-exploiting.html",
-      "summary": "Attackers are exploiting a new critical zero-day flaw in Cisco Catalyst SD-WAN Manager, the system companies use to manage their Cisco SD-WAN networks, Cisco said in an&nbsp;advisory&nbsp;on September...",
-      "published": "2026-09-30T20:54:54+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix Lures",
-      "link": "https://thehackernews.com/2026/09/attackers-abuse-chatgpt-custom-gpts-to.html",
-      "summary": "Threat actors are abusing ChatGPT Custom GPTs to disguise them as legitimate product offerings and direct unsuspecting victims to malicious sites that employ ClickFix lures to deliver malware.\n\nHuntre...",
-      "published": "2026-09-30T20:30:15+05:30",
-      "domain": "thehackernews.com",
+      "title": "The top secret URSALA, RAQUEL, and FARRAH satellites (2025)",
+      "link": "https://www.thespacereview.com/article/4951/1",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49915082\">Comments</a>...",
+      "published": "2026-09-30T22:03:04+00:00",
+      "domain": "thespacereview.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -325,6 +329,120 @@
   ],
   "overall_ranked": [
     {
+      "title": "Michael Burry says it would be for the 'good of humanity' if a market crash stops OpenAI and Anthropic from going public",
+      "link": "https://www.reddit.com/r/technology/comments/1wujpgm/michael_burry_says_it_would_be_for_the_good_of/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1wujpgm/michael_burry_says_it_would_be_for_the_good_of/\"> <img alt=\"Michael Burry says it would be for the 'good of humanity' if ...",
+      "published": "2026-09-30T23:10:02+00:00",
+      "domain": "reddit.com",
+      "scores": {
+        "chaos": 14.2,
+        "anarchy": 3.0,
+        "overall": 8.6
+      },
+      "keywords": {
+        "chaos": [
+          "crash"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Citrix NetScaler Post-Exploitation Payload Creates Superuser, Maps Web Shell to CSS-Like URLs",
+      "link": "https://thehackernews.com/2026/10/citrix-netscaler-post-exploitation.html",
+      "summary": "Threat actors have been observed exploiting a critical pre-authentication command injection vulnerability in Citrix NetScaler ADC and NetScaler Gateway to drop web shells and attempt theft of configur...",
+      "published": "2026-10-01T10:05:34+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Breathing the Compiler",
+      "link": "https://www.mattkeeter.com/blog/2024-07-12-interpreter/",
+      "summary": "<p>Article URL: <a href=\"https://www.mattkeeter.com/blog/2024-07-12-interpreter/\">https://www.mattkeeter.com/blog/2024-07-12-interpreter/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com...",
+      "published": "2026-10-01T04:36:10+00:00",
+      "domain": "mattkeeter.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "RIP Facebook",
+      "link": "https://senecaeffect.substack.com/p/rip-facebook",
+      "summary": "<p>Article URL: <a href=\"https://senecaeffect.substack.com/p/rip-facebook\">https://senecaeffect.substack.com/p/rip-facebook</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49917...",
+      "published": "2026-10-01T04:35:33+00:00",
+      "domain": "senecaeffect.substack.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Ao: Homoiconic Solid Modeling [pdf]",
+      "link": "https://www.mattkeeter.com/research/ao_poster.pdf",
+      "summary": "<p>Article URL: <a href=\"https://www.mattkeeter.com/research/ao_poster.pdf\">https://www.mattkeeter.com/research/ao_poster.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=499...",
+      "published": "2026-10-01T04:33:42+00:00",
+      "domain": "mattkeeter.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Fuck Android Developer Verification Program",
+      "link": "https://twitter.com/0xcrypto/status/2105515822643114182",
+      "summary": "<p>Article URL: <a href=\"https://twitter.com/0xcrypto/status/2105515822643114182\">https://twitter.com/0xcrypto/status/2105515822643114182</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com...",
+      "published": "2026-10-01T04:32:38+00:00",
+      "domain": "twitter.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Chinese batteries potentially 'booby-trapped' to 'plode",
+      "link": "https://www.youtube.com/watch?v=boI_WUtForo",
+      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=boI_WUtForo\">https://www.youtube.com/watch?v=boI_WUtForo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49917746\">https...",
+      "published": "2026-10-01T04:29:53+00:00",
+      "domain": "youtube.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "Attackers Exploit Zimbra Flaw to Deploy Web Shells and Harvest Authentication Secrets",
       "link": "https://thehackernews.com/2026/09/attackers-exploit-zimbra-flaw-to-deploy.html",
       "summary": "Threat actors have weaponized a now-patched security flaw in Zimbra Collaboration Suite (ZCS) to deploy web shells and access mailbox data, according to findings from the Microsoft Security Research t...",
@@ -341,11 +459,11 @@
       }
     },
     {
-      "title": "Attackers Abuse MSP360 to Deploy ScreenConnect in Dual-RMM Phishing Attacks",
-      "link": "https://thehackernews.com/2026/09/attackers-abuse-msp360-to-deploy.html",
-      "summary": "Microsoft has warned of phishing campaigns distributing an installer for the MSP360 Remote Monitoring and Management (RMM) software under the guise of meeting invitations, PDF-themed lures, software u...",
-      "published": "2026-09-30T22:02:59+05:30",
-      "domain": "thehackernews.com",
+      "title": "56k.rip \u2013 the 1996 dial-up internet experience",
+      "link": "https://56k.rip/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49915126\">Comments</a>...",
+      "published": "2026-09-30T22:08:50+00:00",
+      "domain": "56k.rip",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -357,123 +475,11 @@
       }
     },
     {
-      "title": "AI invite codes and referral codes, live",
-      "link": "https://aiinvitecode.com",
-      "summary": "<p>Article URL: <a href=\"https://aiinvitecode.com\">https://aiinvitecode.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49914971\">https://news.ycombinator.com/item?id=499149...",
-      "published": "2026-09-30T21:52:56+00:00",
-      "domain": "aiinvitecode.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Uber Wait Times Rise 19% as Prices Climb 53%: Study",
-      "link": "https://www.businessinsider.com/uber-wait-times-rise-19-as-prices-climb-53-study-2026-9",
-      "summary": "<p>Article URL: <a href=\"https://www.businessinsider.com/uber-wait-times-rise-19-as-prices-climb-53-study-2026-9\">https://www.businessinsider.com/uber-wait-times-rise-19-as-prices-climb-53-study-2026-...",
-      "published": "2026-09-30T21:52:18+00:00",
-      "domain": "businessinsider.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Warp Factories Overview",
-      "link": "https://docs.warp.dev/factories/",
-      "summary": "<p>Article URL: <a href=\"https://docs.warp.dev/factories/\">https://docs.warp.dev/factories/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49914959\">https://news.ycombinator.co...",
-      "published": "2026-09-30T21:52:11+00:00",
-      "domain": "docs.warp.dev",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The Airbnb Backfire",
-      "link": "https://www.businessinsider.com/selling-vacation-home-airbnb-rental-real-estate-price-cuts-2026-9",
-      "summary": "<p>Article URL: <a href=\"https://www.businessinsider.com/selling-vacation-home-airbnb-rental-real-estate-price-cuts-2026-9\">https://www.businessinsider.com/selling-vacation-home-airbnb-rental-real-est...",
-      "published": "2026-09-30T21:50:16+00:00",
-      "domain": "businessinsider.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Cycode Extends Its ADLC Security Capabilities to Developers' Workstations",
-      "link": "https://radicaldatascience.wpcomstaging.com/2026/09/25/cycode-extends-its-adlc-security-capabilities-to-developers-workstations-stopping-software-supply-chain-attacks-before-they-start/",
-      "summary": "<p>Article URL: <a href=\"https://radicaldatascience.wpcomstaging.com/2026/09/25/cycode-extends-its-adlc-security-capabilities-to-developers-workstations-stopping-software-supply-chain-attacks-before-t...",
-      "published": "2026-09-30T21:46:21+00:00",
-      "domain": "radicaldatascience.wpcomstaging.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "RFK Jr. thinks AI will free us from the \u201ctyranny\u201d of medical facts, expertise",
-      "link": "https://www.reddit.com/r/technology/comments/1wuglns/rfk_jr_thinks_ai_will_free_us_from_the_tyranny_of/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1wuglns/rfk_jr_thinks_ai_will_free_us_from_the_tyranny_of/\"> <img alt=\"RFK Jr. thinks AI will free us from the \u201ctyranny\u201d of medic...",
-      "published": "2026-09-30T20:57:20+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Cisco Warns of Attackers Exploiting Critical Authentication Bypass in SD-WAN Manager",
-      "link": "https://thehackernews.com/2026/09/cisco-warns-of-attackers-exploiting.html",
-      "summary": "Attackers are exploiting a new critical zero-day flaw in Cisco Catalyst SD-WAN Manager, the system companies use to manage their Cisco SD-WAN networks, Cisco said in an&nbsp;advisory&nbsp;on September...",
-      "published": "2026-09-30T20:54:54+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix Lures",
-      "link": "https://thehackernews.com/2026/09/attackers-abuse-chatgpt-custom-gpts-to.html",
-      "summary": "Threat actors are abusing ChatGPT Custom GPTs to disguise them as legitimate product offerings and direct unsuspecting victims to malicious sites that employ ClickFix lures to deliver malware.\n\nHuntre...",
-      "published": "2026-09-30T20:30:15+05:30",
-      "domain": "thehackernews.com",
+      "title": "The top secret URSALA, RAQUEL, and FARRAH satellites (2025)",
+      "link": "https://www.thespacereview.com/article/4951/1",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49915082\">Comments</a>...",
+      "published": "2026-09-30T22:03:04+00:00",
+      "domain": "thespacereview.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -487,6 +493,120 @@
   ],
   "all_articles": [
     {
+      "title": "Citrix NetScaler Post-Exploitation Payload Creates Superuser, Maps Web Shell to CSS-Like URLs",
+      "link": "https://thehackernews.com/2026/10/citrix-netscaler-post-exploitation.html",
+      "summary": "Threat actors have been observed exploiting a critical pre-authentication command injection vulnerability in Citrix NetScaler ADC and NetScaler Gateway to drop web shells and attempt theft of configur...",
+      "published": "2026-10-01T10:05:34+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Breathing the Compiler",
+      "link": "https://www.mattkeeter.com/blog/2024-07-12-interpreter/",
+      "summary": "<p>Article URL: <a href=\"https://www.mattkeeter.com/blog/2024-07-12-interpreter/\">https://www.mattkeeter.com/blog/2024-07-12-interpreter/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com...",
+      "published": "2026-10-01T04:36:10+00:00",
+      "domain": "mattkeeter.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "RIP Facebook",
+      "link": "https://senecaeffect.substack.com/p/rip-facebook",
+      "summary": "<p>Article URL: <a href=\"https://senecaeffect.substack.com/p/rip-facebook\">https://senecaeffect.substack.com/p/rip-facebook</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49917...",
+      "published": "2026-10-01T04:35:33+00:00",
+      "domain": "senecaeffect.substack.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Ao: Homoiconic Solid Modeling [pdf]",
+      "link": "https://www.mattkeeter.com/research/ao_poster.pdf",
+      "summary": "<p>Article URL: <a href=\"https://www.mattkeeter.com/research/ao_poster.pdf\">https://www.mattkeeter.com/research/ao_poster.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=499...",
+      "published": "2026-10-01T04:33:42+00:00",
+      "domain": "mattkeeter.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Fuck Android Developer Verification Program",
+      "link": "https://twitter.com/0xcrypto/status/2105515822643114182",
+      "summary": "<p>Article URL: <a href=\"https://twitter.com/0xcrypto/status/2105515822643114182\">https://twitter.com/0xcrypto/status/2105515822643114182</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com...",
+      "published": "2026-10-01T04:32:38+00:00",
+      "domain": "twitter.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Chinese batteries potentially 'booby-trapped' to 'plode",
+      "link": "https://www.youtube.com/watch?v=boI_WUtForo",
+      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=boI_WUtForo\">https://www.youtube.com/watch?v=boI_WUtForo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49917746\">https...",
+      "published": "2026-10-01T04:29:53+00:00",
+      "domain": "youtube.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Michael Burry says it would be for the 'good of humanity' if a market crash stops OpenAI and Anthropic from going public",
+      "link": "https://www.reddit.com/r/technology/comments/1wujpgm/michael_burry_says_it_would_be_for_the_good_of/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1wujpgm/michael_burry_says_it_would_be_for_the_good_of/\"> <img alt=\"Michael Burry says it would be for the 'good of humanity' if ...",
+      "published": "2026-09-30T23:10:02+00:00",
+      "domain": "reddit.com",
+      "scores": {
+        "chaos": 14.2,
+        "anarchy": 3.0,
+        "overall": 8.6
+      },
+      "keywords": {
+        "chaos": [
+          "crash"
+        ],
+        "anarchy": []
+      }
+    },
+    {
       "title": "Attackers Exploit Zimbra Flaw to Deploy Web Shells and Harvest Authentication Secrets",
       "link": "https://thehackernews.com/2026/09/attackers-exploit-zimbra-flaw-to-deploy.html",
       "summary": "Threat actors have weaponized a now-patched security flaw in Zimbra Collaboration Suite (ZCS) to deploy web shells and access mailbox data, according to findings from the Microsoft Security Research t...",
@@ -503,11 +623,11 @@
       }
     },
     {
-      "title": "Attackers Abuse MSP360 to Deploy ScreenConnect in Dual-RMM Phishing Attacks",
-      "link": "https://thehackernews.com/2026/09/attackers-abuse-msp360-to-deploy.html",
-      "summary": "Microsoft has warned of phishing campaigns distributing an installer for the MSP360 Remote Monitoring and Management (RMM) software under the guise of meeting invitations, PDF-themed lures, software u...",
-      "published": "2026-09-30T22:02:59+05:30",
-      "domain": "thehackernews.com",
+      "title": "56k.rip \u2013 the 1996 dial-up internet experience",
+      "link": "https://56k.rip/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49915126\">Comments</a>...",
+      "published": "2026-09-30T22:08:50+00:00",
+      "domain": "56k.rip",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -519,123 +639,11 @@
       }
     },
     {
-      "title": "AI invite codes and referral codes, live",
-      "link": "https://aiinvitecode.com",
-      "summary": "<p>Article URL: <a href=\"https://aiinvitecode.com\">https://aiinvitecode.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49914971\">https://news.ycombinator.com/item?id=499149...",
-      "published": "2026-09-30T21:52:56+00:00",
-      "domain": "aiinvitecode.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Uber Wait Times Rise 19% as Prices Climb 53%: Study",
-      "link": "https://www.businessinsider.com/uber-wait-times-rise-19-as-prices-climb-53-study-2026-9",
-      "summary": "<p>Article URL: <a href=\"https://www.businessinsider.com/uber-wait-times-rise-19-as-prices-climb-53-study-2026-9\">https://www.businessinsider.com/uber-wait-times-rise-19-as-prices-climb-53-study-2026-...",
-      "published": "2026-09-30T21:52:18+00:00",
-      "domain": "businessinsider.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Warp Factories Overview",
-      "link": "https://docs.warp.dev/factories/",
-      "summary": "<p>Article URL: <a href=\"https://docs.warp.dev/factories/\">https://docs.warp.dev/factories/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49914959\">https://news.ycombinator.co...",
-      "published": "2026-09-30T21:52:11+00:00",
-      "domain": "docs.warp.dev",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The Airbnb Backfire",
-      "link": "https://www.businessinsider.com/selling-vacation-home-airbnb-rental-real-estate-price-cuts-2026-9",
-      "summary": "<p>Article URL: <a href=\"https://www.businessinsider.com/selling-vacation-home-airbnb-rental-real-estate-price-cuts-2026-9\">https://www.businessinsider.com/selling-vacation-home-airbnb-rental-real-est...",
-      "published": "2026-09-30T21:50:16+00:00",
-      "domain": "businessinsider.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Cycode Extends Its ADLC Security Capabilities to Developers' Workstations",
-      "link": "https://radicaldatascience.wpcomstaging.com/2026/09/25/cycode-extends-its-adlc-security-capabilities-to-developers-workstations-stopping-software-supply-chain-attacks-before-they-start/",
-      "summary": "<p>Article URL: <a href=\"https://radicaldatascience.wpcomstaging.com/2026/09/25/cycode-extends-its-adlc-security-capabilities-to-developers-workstations-stopping-software-supply-chain-attacks-before-t...",
-      "published": "2026-09-30T21:46:21+00:00",
-      "domain": "radicaldatascience.wpcomstaging.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "RFK Jr. thinks AI will free us from the \u201ctyranny\u201d of medical facts, expertise",
-      "link": "https://www.reddit.com/r/technology/comments/1wuglns/rfk_jr_thinks_ai_will_free_us_from_the_tyranny_of/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1wuglns/rfk_jr_thinks_ai_will_free_us_from_the_tyranny_of/\"> <img alt=\"RFK Jr. thinks AI will free us from the \u201ctyranny\u201d of medic...",
-      "published": "2026-09-30T20:57:20+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Cisco Warns of Attackers Exploiting Critical Authentication Bypass in SD-WAN Manager",
-      "link": "https://thehackernews.com/2026/09/cisco-warns-of-attackers-exploiting.html",
-      "summary": "Attackers are exploiting a new critical zero-day flaw in Cisco Catalyst SD-WAN Manager, the system companies use to manage their Cisco SD-WAN networks, Cisco said in an&nbsp;advisory&nbsp;on September...",
-      "published": "2026-09-30T20:54:54+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix Lures",
-      "link": "https://thehackernews.com/2026/09/attackers-abuse-chatgpt-custom-gpts-to.html",
-      "summary": "Threat actors are abusing ChatGPT Custom GPTs to disguise them as legitimate product offerings and direct unsuspecting victims to malicious sites that employ ClickFix lures to deliver malware.\n\nHuntre...",
-      "published": "2026-09-30T20:30:15+05:30",
-      "domain": "thehackernews.com",
+      "title": "The top secret URSALA, RAQUEL, and FARRAH satellites (2025)",
+      "link": "https://www.thespacereview.com/article/4951/1",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49915082\">Comments</a>...",
+      "published": "2026-09-30T22:03:04+00:00",
+      "domain": "thespacereview.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
