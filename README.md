@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Michael Burry says it would be for the 'good of humanity' if a market crash stops OpenAI and Anthropic from going public
-- **Published**: September 30, 2026
-- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1wujpgm/michael_burry_says_it_would_be_for_the_good_of/"> <img alt="Michael Burry says it w...
-- **Keywords**: crash
-- [Read more](https://www.reddit.com/r/technology/comments/1wujpgm/michael_burry_says_it_would_be_for_the_good_of/)
-
-### Citrix NetScaler Post-Exploitation Payload Creates Superuser, Maps Web Shell to CSS-Like URLs
+### How Financial Services Companies Can Modernize Their Software Supply Chain
 - **Published**: October 01, 2026
-- **Summary**: Threat actors have been observed exploiting a critical pre-authentication command injection vulnerability in Citrix NetScaler ADC and NetScaler Gatewa...
-- [Read more](https://thehackernews.com/2026/10/citrix-netscaler-post-exploitation.html)
+- **Summary**: Every security leader at a bank, insurer, or asset manager has had a version of this conversation: Security wants to eliminate a class of vulnerabilit...
+- [Read more](https://thehackernews.com/2026/10/how-financial-services-companies-can.html)
+
+### OpenAI Disrupts Reasoning Extraction Campaign Linked to Moonshot AI Associates
+- **Published**: October 01, 2026
+- **Summary**: OpenAI on Wednesday said it identified and disrupted a coordinated distillation campaign that was designed to illicitly extract protected reasoning fr...
+- [Read more](https://thehackernews.com/2026/10/openai-disrupts-reasoning-extraction.html)
 
 ---
 
