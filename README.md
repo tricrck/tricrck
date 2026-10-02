@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Police Arrest 16-Year-Old Suspected of Running KillSec, Seize Ransomware Leak Site and Servers
-- **Published**: October 01, 2026
-- **Summary**: Police in Spain have arrested a 16-year-old whom investigators suspect of running the KillSec ransomware group. KillSec is accused of stealing data fr...
-- [Read more](https://thehackernews.com/2026/10/police-arrest-16-year-old-suspected-of.html)
+### GitHub suspended my account nine months ago. Still can't retrieve my works
+- **Published**: October 02, 2026
+- **Summary**: <p>In January, Hytale launched in alpha. The owner said: “We officialy support mod” and “As long as the code isnt obfuscated you can decompile it.”<p>...
+- [Read more](https://news.ycombinator.com/item?id=49929822)
 
-### Your Big Mac might cost more if McDonald's AI thinks people nearby can afford it
-- **Published**: October 01, 2026
-- **Summary**: https://neow.in/NGxhb3d6</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49927693">https://news.ycombinator.com/item?id=499276....
-- [Read more](https://neow.in/NGxhb3d6)
+### Scaling Laws for Looped Mixture of Experts
+- **Published**: October 02, 2026
+- **Summary**: https://arxiv.org/abs/2609.40316</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49929772">https://news.ycombinator.co......
+- [Read more](https://arxiv.org/abs/2609.40316)
 
 ---
 
