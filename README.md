@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### GitHub suspended my account nine months ago. Still can't retrieve my works
+### Memory executives expect RAM shortage to continue through 2028
 - **Published**: October 02, 2026
-- **Summary**: <p>In January, Hytale launched in alpha. The owner said: “We officialy support mod” and “As long as the code isnt obfuscated you can decompile it.”<p>...
-- [Read more](https://news.ycombinator.com/item?id=49929822)
+- **Summary**: https://arstechnica.com/information-technology/2026/10/memory......
+- [Read more](https://arstechnica.com/information-technology/2026/10/memory-supplies-are-only-getting-tighter-micron-ceo-says/)
 
-### Scaling Laws for Looped Mixture of Experts
+### Why CISOs Struggle to Answer the Board's Three Hardest Questions, and How to Fix the Report
 - **Published**: October 02, 2026
-- **Summary**: https://arxiv.org/abs/2609.40316</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49929772">https://news.ycombinator.co......
-- [Read more](https://arxiv.org/abs/2609.40316)
+- **Summary**: The quarterly board meeting is two weeks out. The security team is pulling exports from the identity provider, the cloud posture tool, the vulnerabili...
+- [Read more](https://thehackernews.com/2026/10/why-cisos-struggle-to-answer-boards.html)
 
 ---
 
