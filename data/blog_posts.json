@@ -1,26 +1,28 @@
 {
   "chaos_ranked": [
     {
-      "title": "Memory executives expect RAM shortage to continue through 2028",
-      "link": "https://arstechnica.com/information-technology/2026/10/memory-supplies-are-only-getting-tighter-micron-ceo-says/",
-      "summary": "<p>Article URL: <a href=\"https://arstechnica.com/information-technology/2026/10/memory-supplies-are-only-getting-tighter-micron-ceo-says/\">https://arstechnica.com/information-technology/2026/10/memory...",
-      "published": "2026-10-02T11:58:33+00:00",
-      "domain": "arstechnica.com",
+      "title": "Hiring in this industry is broken",
+      "link": "https://twitter.com/joshmanders/status/2105998630834327982",
+      "summary": "<p>Article URL: <a href=\"https://twitter.com/joshmanders/status/2105998630834327982\">https://twitter.com/joshmanders/status/2105998630834327982</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinat...",
+      "published": "2026-10-02T21:43:03+00:00",
+      "domain": "twitter.com",
       "scores": {
-        "chaos": 18.0,
-        "anarchy": 12.0,
-        "overall": 15.0
+        "chaos": 17.8,
+        "anarchy": 3.0,
+        "overall": 10.4
       },
       "keywords": {
-        "chaos": [],
+        "chaos": [
+          "broken"
+        ],
         "anarchy": []
       }
     },
     {
-      "title": "Why CISOs Struggle to Answer the Board's Three Hardest Questions, and How to Fix the Report",
-      "link": "https://thehackernews.com/2026/10/why-cisos-struggle-to-answer-boards.html",
-      "summary": "The quarterly board meeting is two weeks out. The security team is pulling exports from the identity provider, the cloud posture tool, the vulnerability scanner, the SIEM and the EDR console. Someone ...",
-      "published": "2026-10-02T17:00:00+05:30",
+      "title": "GitLab Patches Critical 9.9 AI Gateway Flaw Allowing Command Execution on Self-Hosted Servers",
+      "link": "https://thehackernews.com/2026/10/gitlab-patches-critical-self-hosted-ai.html",
+      "summary": "A critical flaw in GitLab's AI Gateway could let a logged-in user with Duo Agent Platform access run commands on the gateway under certain conditions, GitLab&nbsp;said in an advisory.\n\nThe gateway is ...",
+      "published": "2026-10-02T23:03:31+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -33,10 +35,10 @@
       }
     },
     {
-      "title": "Android 17 Advanced Protection Locks Accessibility Services to Verified Accessibility Tools",
-      "link": "https://thehackernews.com/2026/10/android-17-advanced-protection-locks.html",
-      "summary": "Google has announced a new security measure that limits access to Android's accessibility services to verified applications classified as Accessibility Tools when Advanced Protection is enabled.\n\nWith...",
-      "published": "2026-10-02T13:31:30+05:30",
+      "title": "Antino Backdoor Uses Outlook and OneDrive for C2 in China-Nexus Espionage Campaign",
+      "link": "https://thehackernews.com/2026/10/antino-backdoor-uses-outlook-and.html",
+      "summary": "Government and policy organizations across Asia have become the target of a new campaign orchestrated by a China-nexus threat actor.\n\nThe activity, which has targeted government and policy organizatio...",
+      "published": "2026-10-02T23:03:16+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -49,74 +51,10 @@
       }
     },
     {
-      "title": "Caring vs. Knowing",
-      "link": "https://blog.exe.dev/caring-vs-knowing",
-      "summary": "<p>Article URL: <a href=\"https://blog.exe.dev/caring-vs-knowing\">https://blog.exe.dev/caring-vs-knowing</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49932479\">https://news.yc...",
-      "published": "2026-10-02T11:55:38+00:00",
-      "domain": "blog.exe.dev",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Updated 'Must-Have' Gnome Extensions List \u2013 Alan Pope's Blog",
-      "link": "https://blog.popey.com/2023/09/updated-must-have-gnome-extensions-list/",
-      "summary": "<p>Article URL: <a href=\"https://blog.popey.com/2023/09/updated-must-have-gnome-extensions-list/\">https://blog.popey.com/2023/09/updated-must-have-gnome-extensions-list/</a></p>\n<p>Comments URL: <a hr...",
-      "published": "2026-10-02T11:52:34+00:00",
-      "domain": "blog.popey.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Sozly AI",
-      "link": "https://sozly.ai/az/",
-      "summary": "<p>Article URL: <a href=\"https://sozly.ai/az/\">https://sozly.ai/az/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49932461\">https://news.ycombinator.com/item?id=49932461</a></...",
-      "published": "2026-10-02T11:52:14+00:00",
-      "domain": "sozly.ai",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "PGlite reaches 20M weekly downloads",
-      "link": "https://www.npmjs.com/package/@electric-sql/pglite",
-      "summary": "<p>Article URL: <a href=\"https://www.npmjs.com/package/@electric-sql/pglite\">https://www.npmjs.com/package/@electric-sql/pglite</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4...",
-      "published": "2026-10-02T11:51:09+00:00",
-      "domain": "npmjs.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Critical FortiMail Zero-Day Flaw Exploited in Attacks Allows Unauthenticated Arbitrary File Writes",
-      "link": "https://thehackernews.com/2026/10/critical-fortimail-zero-day-flaw.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA), on Thursday, added a critical security flaw impacting Fortinet FortiMail to its Known Exploited Vulnerabilities (KEV) catalog, followi...",
-      "published": "2026-10-02T11:19:50+05:30",
+      "title": "Dell CSM Flaws Enable Unauthenticated Admin Access and Root on Kubernetes Nodes",
+      "link": "https://thehackernews.com/2026/10/dell-csm-flaws-enable-unauthenticated.html",
+      "summary": "Dell has released security updates to address multiple critical security flaws in Dell Container Storage Modules (CSM) that could be exploited by bad actors to take over susceptible systems.\n\nThe vuln...",
+      "published": "2026-10-02T22:32:12+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -129,11 +67,11 @@
       }
     },
     {
-      "title": "Why media fans want to escape algorithms with CDs, DVDs and vinyl",
-      "link": "https://www.theguardian.com/media/2026/oct/02/physical-media-fans-streaming-algorithms-cds-dvds-vinyl",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49932048\">Comments</a>...",
-      "published": "2026-10-02T10:50:08+00:00",
-      "domain": "theguardian.com",
+      "title": "What I Learned Publishing an iOS SDK for 10 Years",
+      "link": "https://frankschmitt.org/blog/publishing-an-ios-sdk-for-10-years/",
+      "summary": "<p>Article URL: <a href=\"https://frankschmitt.org/blog/publishing-an-ios-sdk-for-10-years/\">https://frankschmitt.org/blog/publishing-an-ios-sdk-for-10-years/</a></p>\n<p>Comments URL: <a href=\"https://...",
+      "published": "2026-10-02T21:46:26+00:00",
+      "domain": "frankschmitt.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -145,11 +83,75 @@
       }
     },
     {
-      "title": "Show HN: Audionaut \u2013 an open-source cross-platform multitrack audio editor",
-      "link": "https://github.com/kvoltmer/Audionaut",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49931031\">Comments</a>...",
-      "published": "2026-10-02T08:05:48+00:00",
+      "title": "Start Your 90 Day Challenge with This Small Mac Desktop Widget(ADHD Friendly)",
+      "link": "https://github.com/logrelu/swaybles",
+      "summary": "<p>Article URL: <a href=\"https://github.com/logrelu/swaybles\">https://github.com/logrelu/swaybles</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49938997\">https://news.ycombina...",
+      "published": "2026-10-02T21:46:06+00:00",
       "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The Dangers of North Korea's Nuclear Status Quo",
+      "link": "https://www.38north.org/2026/10/the-dangers-of-north-koreas-nuclear-status-quo/",
+      "summary": "<p>Article URL: <a href=\"https://www.38north.org/2026/10/the-dangers-of-north-koreas-nuclear-status-quo/\">https://www.38north.org/2026/10/the-dangers-of-north-koreas-nuclear-status-quo/</a></p>\n<p>Com...",
+      "published": "2026-10-02T21:44:38+00:00",
+      "domain": "38north.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Monarch butterflies \u2013 an interactive 2.5D experience",
+      "link": "https://www.echohive.ai/experiments/monarchs",
+      "summary": "<p>Article URL: <a href=\"https://www.echohive.ai/experiments/monarchs\">https://www.echohive.ai/experiments/monarchs</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49938934\">htt...",
+      "published": "2026-10-02T21:39:41+00:00",
+      "domain": "echohive.ai",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Zig v0.17.0",
+      "link": "https://ziglang.org/download/0.17.0/release-notes.html",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49938521\">Comments</a>...",
+      "published": "2026-10-02T20:56:36+00:00",
+      "domain": "ziglang.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Federal Judge Rules a Flock Search Was \u2018Indiscriminate Mass Surveillance\u2019 and Unconstitutional / Flock\u2019s nationwide network is quickly \u201capproaching dragnet-type law enforcement practice\u201d and the cop should have got a warrant, the judge wrote.",
+      "link": "https://www.reddit.com/r/technology/comments/1ww4uxq/federal_judge_rules_a_flock_search_was/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1ww4uxq/federal_judge_rules_a_flock_search_was/\"> <img alt=\"Federal Judge Rules a Flock Search Was \u2018Indiscriminate Mass Surveilla...",
+      "published": "2026-10-02T20:51:09+00:00",
+      "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -163,26 +165,10 @@
   ],
   "anarchy_ranked": [
     {
-      "title": "Memory executives expect RAM shortage to continue through 2028",
-      "link": "https://arstechnica.com/information-technology/2026/10/memory-supplies-are-only-getting-tighter-micron-ceo-says/",
-      "summary": "<p>Article URL: <a href=\"https://arstechnica.com/information-technology/2026/10/memory-supplies-are-only-getting-tighter-micron-ceo-says/\">https://arstechnica.com/information-technology/2026/10/memory...",
-      "published": "2026-10-02T11:58:33+00:00",
-      "domain": "arstechnica.com",
-      "scores": {
-        "chaos": 18.0,
-        "anarchy": 12.0,
-        "overall": 15.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Why CISOs Struggle to Answer the Board's Three Hardest Questions, and How to Fix the Report",
-      "link": "https://thehackernews.com/2026/10/why-cisos-struggle-to-answer-boards.html",
-      "summary": "The quarterly board meeting is two weeks out. The security team is pulling exports from the identity provider, the cloud posture tool, the vulnerability scanner, the SIEM and the EDR console. Someone ...",
-      "published": "2026-10-02T17:00:00+05:30",
+      "title": "GitLab Patches Critical 9.9 AI Gateway Flaw Allowing Command Execution on Self-Hosted Servers",
+      "link": "https://thehackernews.com/2026/10/gitlab-patches-critical-self-hosted-ai.html",
+      "summary": "A critical flaw in GitLab's AI Gateway could let a logged-in user with Duo Agent Platform access run commands on the gateway under certain conditions, GitLab&nbsp;said in an advisory.\n\nThe gateway is ...",
+      "published": "2026-10-02T23:03:31+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -195,10 +181,10 @@
       }
     },
     {
-      "title": "Android 17 Advanced Protection Locks Accessibility Services to Verified Accessibility Tools",
-      "link": "https://thehackernews.com/2026/10/android-17-advanced-protection-locks.html",
-      "summary": "Google has announced a new security measure that limits access to Android's accessibility services to verified applications classified as Accessibility Tools when Advanced Protection is enabled.\n\nWith...",
-      "published": "2026-10-02T13:31:30+05:30",
+      "title": "Antino Backdoor Uses Outlook and OneDrive for C2 in China-Nexus Espionage Campaign",
+      "link": "https://thehackernews.com/2026/10/antino-backdoor-uses-outlook-and.html",
+      "summary": "Government and policy organizations across Asia have become the target of a new campaign orchestrated by a China-nexus threat actor.\n\nThe activity, which has targeted government and policy organizatio...",
+      "published": "2026-10-02T23:03:16+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -211,74 +197,10 @@
       }
     },
     {
-      "title": "Caring vs. Knowing",
-      "link": "https://blog.exe.dev/caring-vs-knowing",
-      "summary": "<p>Article URL: <a href=\"https://blog.exe.dev/caring-vs-knowing\">https://blog.exe.dev/caring-vs-knowing</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49932479\">https://news.yc...",
-      "published": "2026-10-02T11:55:38+00:00",
-      "domain": "blog.exe.dev",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Updated 'Must-Have' Gnome Extensions List \u2013 Alan Pope's Blog",
-      "link": "https://blog.popey.com/2023/09/updated-must-have-gnome-extensions-list/",
-      "summary": "<p>Article URL: <a href=\"https://blog.popey.com/2023/09/updated-must-have-gnome-extensions-list/\">https://blog.popey.com/2023/09/updated-must-have-gnome-extensions-list/</a></p>\n<p>Comments URL: <a hr...",
-      "published": "2026-10-02T11:52:34+00:00",
-      "domain": "blog.popey.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Sozly AI",
-      "link": "https://sozly.ai/az/",
-      "summary": "<p>Article URL: <a href=\"https://sozly.ai/az/\">https://sozly.ai/az/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49932461\">https://news.ycombinator.com/item?id=49932461</a></...",
-      "published": "2026-10-02T11:52:14+00:00",
-      "domain": "sozly.ai",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "PGlite reaches 20M weekly downloads",
-      "link": "https://www.npmjs.com/package/@electric-sql/pglite",
-      "summary": "<p>Article URL: <a href=\"https://www.npmjs.com/package/@electric-sql/pglite\">https://www.npmjs.com/package/@electric-sql/pglite</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4...",
-      "published": "2026-10-02T11:51:09+00:00",
-      "domain": "npmjs.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Critical FortiMail Zero-Day Flaw Exploited in Attacks Allows Unauthenticated Arbitrary File Writes",
-      "link": "https://thehackernews.com/2026/10/critical-fortimail-zero-day-flaw.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA), on Thursday, added a critical security flaw impacting Fortinet FortiMail to its Known Exploited Vulnerabilities (KEV) catalog, followi...",
-      "published": "2026-10-02T11:19:50+05:30",
+      "title": "Dell CSM Flaws Enable Unauthenticated Admin Access and Root on Kubernetes Nodes",
+      "link": "https://thehackernews.com/2026/10/dell-csm-flaws-enable-unauthenticated.html",
+      "summary": "Dell has released security updates to address multiple critical security flaws in Dell Container Storage Modules (CSM) that could be exploited by bad actors to take over susceptible systems.\n\nThe vuln...",
+      "published": "2026-10-02T22:32:12+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -291,11 +213,11 @@
       }
     },
     {
-      "title": "Why media fans want to escape algorithms with CDs, DVDs and vinyl",
-      "link": "https://www.theguardian.com/media/2026/oct/02/physical-media-fans-streaming-algorithms-cds-dvds-vinyl",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49932048\">Comments</a>...",
-      "published": "2026-10-02T10:50:08+00:00",
-      "domain": "theguardian.com",
+      "title": "What I Learned Publishing an iOS SDK for 10 Years",
+      "link": "https://frankschmitt.org/blog/publishing-an-ios-sdk-for-10-years/",
+      "summary": "<p>Article URL: <a href=\"https://frankschmitt.org/blog/publishing-an-ios-sdk-for-10-years/\">https://frankschmitt.org/blog/publishing-an-ios-sdk-for-10-years/</a></p>\n<p>Comments URL: <a href=\"https://...",
+      "published": "2026-10-02T21:46:26+00:00",
+      "domain": "frankschmitt.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -307,11 +229,93 @@
       }
     },
     {
-      "title": "Show HN: Audionaut \u2013 an open-source cross-platform multitrack audio editor",
-      "link": "https://github.com/kvoltmer/Audionaut",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49931031\">Comments</a>...",
-      "published": "2026-10-02T08:05:48+00:00",
+      "title": "Start Your 90 Day Challenge with This Small Mac Desktop Widget(ADHD Friendly)",
+      "link": "https://github.com/logrelu/swaybles",
+      "summary": "<p>Article URL: <a href=\"https://github.com/logrelu/swaybles\">https://github.com/logrelu/swaybles</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49938997\">https://news.ycombina...",
+      "published": "2026-10-02T21:46:06+00:00",
       "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The Dangers of North Korea's Nuclear Status Quo",
+      "link": "https://www.38north.org/2026/10/the-dangers-of-north-koreas-nuclear-status-quo/",
+      "summary": "<p>Article URL: <a href=\"https://www.38north.org/2026/10/the-dangers-of-north-koreas-nuclear-status-quo/\">https://www.38north.org/2026/10/the-dangers-of-north-koreas-nuclear-status-quo/</a></p>\n<p>Com...",
+      "published": "2026-10-02T21:44:38+00:00",
+      "domain": "38north.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Hiring in this industry is broken",
+      "link": "https://twitter.com/joshmanders/status/2105998630834327982",
+      "summary": "<p>Article URL: <a href=\"https://twitter.com/joshmanders/status/2105998630834327982\">https://twitter.com/joshmanders/status/2105998630834327982</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinat...",
+      "published": "2026-10-02T21:43:03+00:00",
+      "domain": "twitter.com",
+      "scores": {
+        "chaos": 17.8,
+        "anarchy": 3.0,
+        "overall": 10.4
+      },
+      "keywords": {
+        "chaos": [
+          "broken"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Monarch butterflies \u2013 an interactive 2.5D experience",
+      "link": "https://www.echohive.ai/experiments/monarchs",
+      "summary": "<p>Article URL: <a href=\"https://www.echohive.ai/experiments/monarchs\">https://www.echohive.ai/experiments/monarchs</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49938934\">htt...",
+      "published": "2026-10-02T21:39:41+00:00",
+      "domain": "echohive.ai",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Zig v0.17.0",
+      "link": "https://ziglang.org/download/0.17.0/release-notes.html",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49938521\">Comments</a>...",
+      "published": "2026-10-02T20:56:36+00:00",
+      "domain": "ziglang.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Federal Judge Rules a Flock Search Was \u2018Indiscriminate Mass Surveillance\u2019 and Unconstitutional / Flock\u2019s nationwide network is quickly \u201capproaching dragnet-type law enforcement practice\u201d and the cop should have got a warrant, the judge wrote.",
+      "link": "https://www.reddit.com/r/technology/comments/1ww4uxq/federal_judge_rules_a_flock_search_was/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1ww4uxq/federal_judge_rules_a_flock_search_was/\"> <img alt=\"Federal Judge Rules a Flock Search Was \u2018Indiscriminate Mass Surveilla...",
+      "published": "2026-10-02T20:51:09+00:00",
+      "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -325,26 +329,28 @@
   ],
   "overall_ranked": [
     {
-      "title": "Memory executives expect RAM shortage to continue through 2028",
-      "link": "https://arstechnica.com/information-technology/2026/10/memory-supplies-are-only-getting-tighter-micron-ceo-says/",
-      "summary": "<p>Article URL: <a href=\"https://arstechnica.com/information-technology/2026/10/memory-supplies-are-only-getting-tighter-micron-ceo-says/\">https://arstechnica.com/information-technology/2026/10/memory...",
-      "published": "2026-10-02T11:58:33+00:00",
-      "domain": "arstechnica.com",
+      "title": "Hiring in this industry is broken",
+      "link": "https://twitter.com/joshmanders/status/2105998630834327982",
+      "summary": "<p>Article URL: <a href=\"https://twitter.com/joshmanders/status/2105998630834327982\">https://twitter.com/joshmanders/status/2105998630834327982</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinat...",
+      "published": "2026-10-02T21:43:03+00:00",
+      "domain": "twitter.com",
       "scores": {
-        "chaos": 18.0,
-        "anarchy": 12.0,
-        "overall": 15.0
+        "chaos": 17.8,
+        "anarchy": 3.0,
+        "overall": 10.4
       },
       "keywords": {
-        "chaos": [],
+        "chaos": [
+          "broken"
+        ],
         "anarchy": []
       }
     },
     {
-      "title": "Why CISOs Struggle to Answer the Board's Three Hardest Questions, and How to Fix the Report",
-      "link": "https://thehackernews.com/2026/10/why-cisos-struggle-to-answer-boards.html",
-      "summary": "The quarterly board meeting is two weeks out. The security team is pulling exports from the identity provider, the cloud posture tool, the vulnerability scanner, the SIEM and the EDR console. Someone ...",
-      "published": "2026-10-02T17:00:00+05:30",
+      "title": "GitLab Patches Critical 9.9 AI Gateway Flaw Allowing Command Execution on Self-Hosted Servers",
+      "link": "https://thehackernews.com/2026/10/gitlab-patches-critical-self-hosted-ai.html",
+      "summary": "A critical flaw in GitLab's AI Gateway could let a logged-in user with Duo Agent Platform access run commands on the gateway under certain conditions, GitLab&nbsp;said in an advisory.\n\nThe gateway is ...",
+      "published": "2026-10-02T23:03:31+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -357,10 +363,10 @@
       }
     },
     {
-      "title": "Android 17 Advanced Protection Locks Accessibility Services to Verified Accessibility Tools",
-      "link": "https://thehackernews.com/2026/10/android-17-advanced-protection-locks.html",
-      "summary": "Google has announced a new security measure that limits access to Android's accessibility services to verified applications classified as Accessibility Tools when Advanced Protection is enabled.\n\nWith...",
-      "published": "2026-10-02T13:31:30+05:30",
+      "title": "Antino Backdoor Uses Outlook and OneDrive for C2 in China-Nexus Espionage Campaign",
+      "link": "https://thehackernews.com/2026/10/antino-backdoor-uses-outlook-and.html",
+      "summary": "Government and policy organizations across Asia have become the target of a new campaign orchestrated by a China-nexus threat actor.\n\nThe activity, which has targeted government and policy organizatio...",
+      "published": "2026-10-02T23:03:16+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -373,74 +379,10 @@
       }
     },
     {
-      "title": "Caring vs. Knowing",
-      "link": "https://blog.exe.dev/caring-vs-knowing",
-      "summary": "<p>Article URL: <a href=\"https://blog.exe.dev/caring-vs-knowing\">https://blog.exe.dev/caring-vs-knowing</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49932479\">https://news.yc...",
-      "published": "2026-10-02T11:55:38+00:00",
-      "domain": "blog.exe.dev",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Updated 'Must-Have' Gnome Extensions List \u2013 Alan Pope's Blog",
-      "link": "https://blog.popey.com/2023/09/updated-must-have-gnome-extensions-list/",
-      "summary": "<p>Article URL: <a href=\"https://blog.popey.com/2023/09/updated-must-have-gnome-extensions-list/\">https://blog.popey.com/2023/09/updated-must-have-gnome-extensions-list/</a></p>\n<p>Comments URL: <a hr...",
-      "published": "2026-10-02T11:52:34+00:00",
-      "domain": "blog.popey.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Sozly AI",
-      "link": "https://sozly.ai/az/",
-      "summary": "<p>Article URL: <a href=\"https://sozly.ai/az/\">https://sozly.ai/az/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49932461\">https://news.ycombinator.com/item?id=49932461</a></...",
-      "published": "2026-10-02T11:52:14+00:00",
-      "domain": "sozly.ai",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "PGlite reaches 20M weekly downloads",
-      "link": "https://www.npmjs.com/package/@electric-sql/pglite",
-      "summary": "<p>Article URL: <a href=\"https://www.npmjs.com/package/@electric-sql/pglite\">https://www.npmjs.com/package/@electric-sql/pglite</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4...",
-      "published": "2026-10-02T11:51:09+00:00",
-      "domain": "npmjs.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Critical FortiMail Zero-Day Flaw Exploited in Attacks Allows Unauthenticated Arbitrary File Writes",
-      "link": "https://thehackernews.com/2026/10/critical-fortimail-zero-day-flaw.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA), on Thursday, added a critical security flaw impacting Fortinet FortiMail to its Known Exploited Vulnerabilities (KEV) catalog, followi...",
-      "published": "2026-10-02T11:19:50+05:30",
+      "title": "Dell CSM Flaws Enable Unauthenticated Admin Access and Root on Kubernetes Nodes",
+      "link": "https://thehackernews.com/2026/10/dell-csm-flaws-enable-unauthenticated.html",
+      "summary": "Dell has released security updates to address multiple critical security flaws in Dell Container Storage Modules (CSM) that could be exploited by bad actors to take over susceptible systems.\n\nThe vuln...",
+      "published": "2026-10-02T22:32:12+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -453,11 +395,11 @@
       }
     },
     {
-      "title": "Why media fans want to escape algorithms with CDs, DVDs and vinyl",
-      "link": "https://www.theguardian.com/media/2026/oct/02/physical-media-fans-streaming-algorithms-cds-dvds-vinyl",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49932048\">Comments</a>...",
-      "published": "2026-10-02T10:50:08+00:00",
-      "domain": "theguardian.com",
+      "title": "What I Learned Publishing an iOS SDK for 10 Years",
+      "link": "https://frankschmitt.org/blog/publishing-an-ios-sdk-for-10-years/",
+      "summary": "<p>Article URL: <a href=\"https://frankschmitt.org/blog/publishing-an-ios-sdk-for-10-years/\">https://frankschmitt.org/blog/publishing-an-ios-sdk-for-10-years/</a></p>\n<p>Comments URL: <a href=\"https://...",
+      "published": "2026-10-02T21:46:26+00:00",
+      "domain": "frankschmitt.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -469,11 +411,75 @@
       }
     },
     {
-      "title": "Show HN: Audionaut \u2013 an open-source cross-platform multitrack audio editor",
-      "link": "https://github.com/kvoltmer/Audionaut",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49931031\">Comments</a>...",
-      "published": "2026-10-02T08:05:48+00:00",
+      "title": "Start Your 90 Day Challenge with This Small Mac Desktop Widget(ADHD Friendly)",
+      "link": "https://github.com/logrelu/swaybles",
+      "summary": "<p>Article URL: <a href=\"https://github.com/logrelu/swaybles\">https://github.com/logrelu/swaybles</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49938997\">https://news.ycombina...",
+      "published": "2026-10-02T21:46:06+00:00",
       "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The Dangers of North Korea's Nuclear Status Quo",
+      "link": "https://www.38north.org/2026/10/the-dangers-of-north-koreas-nuclear-status-quo/",
+      "summary": "<p>Article URL: <a href=\"https://www.38north.org/2026/10/the-dangers-of-north-koreas-nuclear-status-quo/\">https://www.38north.org/2026/10/the-dangers-of-north-koreas-nuclear-status-quo/</a></p>\n<p>Com...",
+      "published": "2026-10-02T21:44:38+00:00",
+      "domain": "38north.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Monarch butterflies \u2013 an interactive 2.5D experience",
+      "link": "https://www.echohive.ai/experiments/monarchs",
+      "summary": "<p>Article URL: <a href=\"https://www.echohive.ai/experiments/monarchs\">https://www.echohive.ai/experiments/monarchs</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49938934\">htt...",
+      "published": "2026-10-02T21:39:41+00:00",
+      "domain": "echohive.ai",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Zig v0.17.0",
+      "link": "https://ziglang.org/download/0.17.0/release-notes.html",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49938521\">Comments</a>...",
+      "published": "2026-10-02T20:56:36+00:00",
+      "domain": "ziglang.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Federal Judge Rules a Flock Search Was \u2018Indiscriminate Mass Surveillance\u2019 and Unconstitutional / Flock\u2019s nationwide network is quickly \u201capproaching dragnet-type law enforcement practice\u201d and the cop should have got a warrant, the judge wrote.",
+      "link": "https://www.reddit.com/r/technology/comments/1ww4uxq/federal_judge_rules_a_flock_search_was/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1ww4uxq/federal_judge_rules_a_flock_search_was/\"> <img alt=\"Federal Judge Rules a Flock Search Was \u2018Indiscriminate Mass Surveilla...",
+      "published": "2026-10-02T20:51:09+00:00",
+      "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -487,10 +493,10 @@
   ],
   "all_articles": [
     {
-      "title": "Why CISOs Struggle to Answer the Board's Three Hardest Questions, and How to Fix the Report",
-      "link": "https://thehackernews.com/2026/10/why-cisos-struggle-to-answer-boards.html",
-      "summary": "The quarterly board meeting is two weeks out. The security team is pulling exports from the identity provider, the cloud posture tool, the vulnerability scanner, the SIEM and the EDR console. Someone ...",
-      "published": "2026-10-02T17:00:00+05:30",
+      "title": "GitLab Patches Critical 9.9 AI Gateway Flaw Allowing Command Execution on Self-Hosted Servers",
+      "link": "https://thehackernews.com/2026/10/gitlab-patches-critical-self-hosted-ai.html",
+      "summary": "A critical flaw in GitLab's AI Gateway could let a logged-in user with Duo Agent Platform access run commands on the gateway under certain conditions, GitLab&nbsp;said in an advisory.\n\nThe gateway is ...",
+      "published": "2026-10-02T23:03:31+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -503,10 +509,10 @@
       }
     },
     {
-      "title": "Android 17 Advanced Protection Locks Accessibility Services to Verified Accessibility Tools",
-      "link": "https://thehackernews.com/2026/10/android-17-advanced-protection-locks.html",
-      "summary": "Google has announced a new security measure that limits access to Android's accessibility services to verified applications classified as Accessibility Tools when Advanced Protection is enabled.\n\nWith...",
-      "published": "2026-10-02T13:31:30+05:30",
+      "title": "Antino Backdoor Uses Outlook and OneDrive for C2 in China-Nexus Espionage Campaign",
+      "link": "https://thehackernews.com/2026/10/antino-backdoor-uses-outlook-and.html",
+      "summary": "Government and policy organizations across Asia have become the target of a new campaign orchestrated by a China-nexus threat actor.\n\nThe activity, which has targeted government and policy organizatio...",
+      "published": "2026-10-02T23:03:16+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -519,90 +525,10 @@
       }
     },
     {
-      "title": "Memory executives expect RAM shortage to continue through 2028",
-      "link": "https://arstechnica.com/information-technology/2026/10/memory-supplies-are-only-getting-tighter-micron-ceo-says/",
-      "summary": "<p>Article URL: <a href=\"https://arstechnica.com/information-technology/2026/10/memory-supplies-are-only-getting-tighter-micron-ceo-says/\">https://arstechnica.com/information-technology/2026/10/memory...",
-      "published": "2026-10-02T11:58:33+00:00",
-      "domain": "arstechnica.com",
-      "scores": {
-        "chaos": 18.0,
-        "anarchy": 12.0,
-        "overall": 15.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Caring vs. Knowing",
-      "link": "https://blog.exe.dev/caring-vs-knowing",
-      "summary": "<p>Article URL: <a href=\"https://blog.exe.dev/caring-vs-knowing\">https://blog.exe.dev/caring-vs-knowing</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49932479\">https://news.yc...",
-      "published": "2026-10-02T11:55:38+00:00",
-      "domain": "blog.exe.dev",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Updated 'Must-Have' Gnome Extensions List \u2013 Alan Pope's Blog",
-      "link": "https://blog.popey.com/2023/09/updated-must-have-gnome-extensions-list/",
-      "summary": "<p>Article URL: <a href=\"https://blog.popey.com/2023/09/updated-must-have-gnome-extensions-list/\">https://blog.popey.com/2023/09/updated-must-have-gnome-extensions-list/</a></p>\n<p>Comments URL: <a hr...",
-      "published": "2026-10-02T11:52:34+00:00",
-      "domain": "blog.popey.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Sozly AI",
-      "link": "https://sozly.ai/az/",
-      "summary": "<p>Article URL: <a href=\"https://sozly.ai/az/\">https://sozly.ai/az/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49932461\">https://news.ycombinator.com/item?id=49932461</a></...",
-      "published": "2026-10-02T11:52:14+00:00",
-      "domain": "sozly.ai",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "PGlite reaches 20M weekly downloads",
-      "link": "https://www.npmjs.com/package/@electric-sql/pglite",
-      "summary": "<p>Article URL: <a href=\"https://www.npmjs.com/package/@electric-sql/pglite\">https://www.npmjs.com/package/@electric-sql/pglite</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4...",
-      "published": "2026-10-02T11:51:09+00:00",
-      "domain": "npmjs.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Critical FortiMail Zero-Day Flaw Exploited in Attacks Allows Unauthenticated Arbitrary File Writes",
-      "link": "https://thehackernews.com/2026/10/critical-fortimail-zero-day-flaw.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA), on Thursday, added a critical security flaw impacting Fortinet FortiMail to its Known Exploited Vulnerabilities (KEV) catalog, followi...",
-      "published": "2026-10-02T11:19:50+05:30",
+      "title": "Dell CSM Flaws Enable Unauthenticated Admin Access and Root on Kubernetes Nodes",
+      "link": "https://thehackernews.com/2026/10/dell-csm-flaws-enable-unauthenticated.html",
+      "summary": "Dell has released security updates to address multiple critical security flaws in Dell Container Storage Modules (CSM) that could be exploited by bad actors to take over susceptible systems.\n\nThe vuln...",
+      "published": "2026-10-02T22:32:12+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -615,11 +541,11 @@
       }
     },
     {
-      "title": "Why media fans want to escape algorithms with CDs, DVDs and vinyl",
-      "link": "https://www.theguardian.com/media/2026/oct/02/physical-media-fans-streaming-algorithms-cds-dvds-vinyl",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49932048\">Comments</a>...",
-      "published": "2026-10-02T10:50:08+00:00",
-      "domain": "theguardian.com",
+      "title": "What I Learned Publishing an iOS SDK for 10 Years",
+      "link": "https://frankschmitt.org/blog/publishing-an-ios-sdk-for-10-years/",
+      "summary": "<p>Article URL: <a href=\"https://frankschmitt.org/blog/publishing-an-ios-sdk-for-10-years/\">https://frankschmitt.org/blog/publishing-an-ios-sdk-for-10-years/</a></p>\n<p>Comments URL: <a href=\"https://...",
+      "published": "2026-10-02T21:46:26+00:00",
+      "domain": "frankschmitt.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -631,11 +557,93 @@
       }
     },
     {
-      "title": "Show HN: Audionaut \u2013 an open-source cross-platform multitrack audio editor",
-      "link": "https://github.com/kvoltmer/Audionaut",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=49931031\">Comments</a>...",
-      "published": "2026-10-02T08:05:48+00:00",
+      "title": "Start Your 90 Day Challenge with This Small Mac Desktop Widget(ADHD Friendly)",
+      "link": "https://github.com/logrelu/swaybles",
+      "summary": "<p>Article URL: <a href=\"https://github.com/logrelu/swaybles\">https://github.com/logrelu/swaybles</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49938997\">https://news.ycombina...",
+      "published": "2026-10-02T21:46:06+00:00",
       "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The Dangers of North Korea's Nuclear Status Quo",
+      "link": "https://www.38north.org/2026/10/the-dangers-of-north-koreas-nuclear-status-quo/",
+      "summary": "<p>Article URL: <a href=\"https://www.38north.org/2026/10/the-dangers-of-north-koreas-nuclear-status-quo/\">https://www.38north.org/2026/10/the-dangers-of-north-koreas-nuclear-status-quo/</a></p>\n<p>Com...",
+      "published": "2026-10-02T21:44:38+00:00",
+      "domain": "38north.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Hiring in this industry is broken",
+      "link": "https://twitter.com/joshmanders/status/2105998630834327982",
+      "summary": "<p>Article URL: <a href=\"https://twitter.com/joshmanders/status/2105998630834327982\">https://twitter.com/joshmanders/status/2105998630834327982</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinat...",
+      "published": "2026-10-02T21:43:03+00:00",
+      "domain": "twitter.com",
+      "scores": {
+        "chaos": 17.8,
+        "anarchy": 3.0,
+        "overall": 10.4
+      },
+      "keywords": {
+        "chaos": [
+          "broken"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Monarch butterflies \u2013 an interactive 2.5D experience",
+      "link": "https://www.echohive.ai/experiments/monarchs",
+      "summary": "<p>Article URL: <a href=\"https://www.echohive.ai/experiments/monarchs\">https://www.echohive.ai/experiments/monarchs</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49938934\">htt...",
+      "published": "2026-10-02T21:39:41+00:00",
+      "domain": "echohive.ai",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Zig v0.17.0",
+      "link": "https://ziglang.org/download/0.17.0/release-notes.html",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=49938521\">Comments</a>...",
+      "published": "2026-10-02T20:56:36+00:00",
+      "domain": "ziglang.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Federal Judge Rules a Flock Search Was \u2018Indiscriminate Mass Surveillance\u2019 and Unconstitutional / Flock\u2019s nationwide network is quickly \u201capproaching dragnet-type law enforcement practice\u201d and the cop should have got a warrant, the judge wrote.",
+      "link": "https://www.reddit.com/r/technology/comments/1ww4uxq/federal_judge_rules_a_flock_search_was/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1ww4uxq/federal_judge_rules_a_flock_search_was/\"> <img alt=\"Federal Judge Rules a Flock Search Was \u2018Indiscriminate Mass Surveilla...",
+      "published": "2026-10-02T20:51:09+00:00",
+      "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,

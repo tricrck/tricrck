@@ -16,15 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Memory executives expect RAM shortage to continue through 2028
+### Hiring in this industry is broken
 - **Published**: October 02, 2026
-- **Summary**: https://arstechnica.com/information-technology/2026/10/memory......
-- [Read more](https://arstechnica.com/information-technology/2026/10/memory-supplies-are-only-getting-tighter-micron-ceo-says/)
+- **Summary**: https://twitter.com/joshmanders/status/2105998630834327982</a></p>
+<p>Comments URL: <a href="https://news.ycombinat......
+- **Keywords**: broken
+- [Read more](https://twitter.com/joshmanders/status/2105998630834327982)
 
-### Why CISOs Struggle to Answer the Board's Three Hardest Questions, and How to Fix the Report
+### GitLab Patches Critical 9.9 AI Gateway Flaw Allowing Command Execution on Self-Hosted Servers
 - **Published**: October 02, 2026
-- **Summary**: The quarterly board meeting is two weeks out. The security team is pulling exports from the identity provider, the cloud posture tool, the vulnerabili...
-- [Read more](https://thehackernews.com/2026/10/why-cisos-struggle-to-answer-boards.html)
+- **Summary**: A critical flaw in GitLab's AI Gateway could let a logged-in user with Duo Agent Platform access run commands on the gateway under certain conditions,...
+- [Read more](https://thehackernews.com/2026/10/gitlab-patches-critical-self-hosted-ai.html)
 
 ---
 
