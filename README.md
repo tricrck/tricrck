@@ -16,16 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Should you give the scarcest things to the fastest coders?
+### Patient-zero drill put health facilities to the test–40% of them failed
 - **Published**: October 03, 2026
-- **Summary**: https://digitalseams.com/blog/should-you-give-the-scarcest-things-to-the-fastest-coder......
-- [Read more](https://digitalseams.com/blog/should-you-give-the-scarcest-things-to-the-fastest-coders)
+- **Summary**: https://arstechnica.com/health/2026/10/patient-zero-drill-put-h......
+- [Read more](https://arstechnica.com/health/2026/10/patient-zero-drill-put-health-facilities-to-the-test-40-of-them-failed/)
 
-### NVX: An Ultra-Light Micro-VM Sandbox from Microsoft
+### The State of Cybersecurity in 2026: Key Segments, Insights, and Innovations
 - **Published**: October 03, 2026
-- **Summary**: https://github.com/microsoft/nvx</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49941250">https://news.ycombinator.co......
-- [Read more](https://github.com/microsoft/nvx)
+- **Summary**: Featuring:
+
+Cybersecurity is being reshaped by the expansion of cloud infrastructure, AI, distributed systems, and increasingly complex digital enviro...
+- [Read more](https://thehackernews.com/2026/10/the-state-of-cybersecurity-in-2026key.html)
 
 ---
 
