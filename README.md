@@ -16,17 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Patient-zero drill put health facilities to the test–40% of them failed
+### MI5 Says China’s MSS Funded Research Involving 100+ U.K.-Linked Academics
 - **Published**: October 03, 2026
-- **Summary**: https://arstechnica.com/health/2026/10/patient-zero-drill-put-h......
-- [Read more](https://arstechnica.com/health/2026/10/patient-zero-drill-put-health-facilities-to-the-test-40-of-them-failed/)
+- **Summary**: The U.K.'s domestic intelligence and security agency has warned that more than 100 academics have helped China boost its intelligence gathering effort...
+- [Read more](https://thehackernews.com/2026/10/mi5-says-chinas-mss-funded-research.html)
 
-### The State of Cybersecurity in 2026: Key Segments, Insights, and Innovations
+### Warlock Exploits SharePoint Flaws to Disable Security Tools and Deploy Ransomware
 - **Published**: October 03, 2026
-- **Summary**: Featuring:
-
-Cybersecurity is being reshaped by the expansion of cloud infrastructure, AI, distributed systems, and increasingly complex digital enviro...
-- [Read more](https://thehackernews.com/2026/10/the-state-of-cybersecurity-in-2026key.html)
+- **Summary**: The suspected China-linked threat actor known as Warlock is still continuing to weaponize Microsoft SharePoint vulnerabilities, likely both old and ne...
+- [Read more](https://thehackernews.com/2026/10/warlock-exploits-sharepoint-flaws-to.html)
 
 ---
 
