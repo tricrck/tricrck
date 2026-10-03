@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Hiring in this industry is broken
-- **Published**: October 02, 2026
-- **Summary**: https://twitter.com/joshmanders/status/2105998630834327982</a></p>
-<p>Comments URL: <a href="https://news.ycombinat......
-- **Keywords**: broken
-- [Read more](https://twitter.com/joshmanders/status/2105998630834327982)
+### Should you give the scarcest things to the fastest coders?
+- **Published**: October 03, 2026
+- **Summary**: https://digitalseams.com/blog/should-you-give-the-scarcest-things-to-the-fastest-coder......
+- [Read more](https://digitalseams.com/blog/should-you-give-the-scarcest-things-to-the-fastest-coders)
 
-### GitLab Patches Critical 9.9 AI Gateway Flaw Allowing Command Execution on Self-Hosted Servers
-- **Published**: October 02, 2026
-- **Summary**: A critical flaw in GitLab's AI Gateway could let a logged-in user with Duo Agent Platform access run commands on the gateway under certain conditions,...
-- [Read more](https://thehackernews.com/2026/10/gitlab-patches-critical-self-hosted-ai.html)
+### NVX: An Ultra-Light Micro-VM Sandbox from Microsoft
+- **Published**: October 03, 2026
+- **Summary**: https://github.com/microsoft/nvx</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49941250">https://news.ycombinator.co......
+- [Read more](https://github.com/microsoft/nvx)
 
 ---
 
