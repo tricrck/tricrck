@@ -16,15 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### MI5 Says China’s MSS Funded Research Involving 100+ U.K.-Linked Academics
+### Pixagram.com – The Anti-Social Media Network (Never Released Before) [video]
 - **Published**: October 03, 2026
-- **Summary**: The U.K.'s domestic intelligence and security agency has warned that more than 100 academics have helped China boost its intelligence gathering effort...
-- [Read more](https://thehackernews.com/2026/10/mi5-says-chinas-mss-funded-research.html)
+- **Summary**: https://vimeo.com/1231934322</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49947489">https://news.ycombinator.com/item?i......
+- [Read more](https://vimeo.com/1231934322)
 
-### Warlock Exploits SharePoint Flaws to Disable Security Tools and Deploy Ransomware
+### Shipping Is the Foundation
 - **Published**: October 03, 2026
-- **Summary**: The suspected China-linked threat actor known as Warlock is still continuing to weaponize Microsoft SharePoint vulnerabilities, likely both old and ne...
-- [Read more](https://thehackernews.com/2026/10/warlock-exploits-sharepoint-flaws-to.html)
+- **Summary**: https://www.seangoedecke.com/shipping-is-the-foundation/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.c......
+- [Read more](https://www.seangoedecke.com/shipping-is-the-foundation/)
 
 ---
 
