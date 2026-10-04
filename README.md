@@ -16,17 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### A.I. Is Going Rogue. Who Should Be Held Responsible?
+### Repair Café Silicon Valley
 - **Published**: October 04, 2026
-- **Summary**: https://www.nytimes.com/2026/10/01/technology/ai-rogue-agents-liability.html</a></p>
-<p>Comments ......
-- [Read more](https://www.nytimes.com/2026/10/01/technology/ai-rogue-agents-liability.html)
+- **Summary**: https://repaircafesv.org/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49957745">https://news.ycombinator.com/item?id=4995.....
+- [Read more](https://repaircafesv.org/)
 
-### Blindsight (Watts Novel)
+### I made blob Camera
 - **Published**: October 04, 2026
-- **Summary**: https://en.wikipedia.org/wiki/Blindsight_(Watts_novel)</a></p>
+- **Summary**: https://twitter.com/yaosamo/status/2104099908915753331</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/i......
-- [Read more](https://en.wikipedia.org/wiki/Blindsight_(Watts_novel))
+- [Read more](https://twitter.com/yaosamo/status/2104099908915753331)
 
 ---
 
