@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Organic Driven Development
+### ShinyHunters Suspect Rey Reportedly Detained in Jordan, Helping FBI Identify Group Members
 - **Published**: October 04, 2026
-- **Summary**: https://github.com/stir084/organic-driven-development/blob/main/README.md</a></p>
-<p>Comments URL: <......
-- [Read more](https://github.com/stir084/organic-driven-development/blob/main/README.md)
+- **Summary**: A suspected member of the ShinyHunters digital extortion group, who goes by the online alias "Rey," has been allegedly detained by authorities in Jord...
+- [Read more](https://thehackernews.com/2026/10/shinyhunters-suspect-rey-reportedly.html)
 
-### Why don't more developers "use the platform"?
+### China-Aligned TA419 Targets U.S. AI Policy Experts With Microsoft AitM Phishing
 - **Published**: October 04, 2026
-- **Summary**: ......
-- [Read more](https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/)
+- **Summary**: A new China-nexus cyber espionage group known as TA419 has been attributed to multiple credential phishing campaigns targeting artificial intelligence...
+- [Read more](https://thehackernews.com/2026/10/china-aligned-ta419-targets-us-ai.html)
 
 ---
 
