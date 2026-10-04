@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Pixagram.com – The Anti-Social Media Network (Never Released Before) [video]
-- **Published**: October 03, 2026
-- **Summary**: https://vimeo.com/1231934322</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49947489">https://news.ycombinator.com/item?i......
-- [Read more](https://vimeo.com/1231934322)
+### Organic Driven Development
+- **Published**: October 04, 2026
+- **Summary**: https://github.com/stir084/organic-driven-development/blob/main/README.md</a></p>
+<p>Comments URL: <......
+- [Read more](https://github.com/stir084/organic-driven-development/blob/main/README.md)
 
-### Shipping Is the Foundation
-- **Published**: October 03, 2026
-- **Summary**: https://www.seangoedecke.com/shipping-is-the-foundation/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.c......
-- [Read more](https://www.seangoedecke.com/shipping-is-the-foundation/)
+### Why don't more developers "use the platform"?
+- **Published**: October 04, 2026
+- **Summary**: ......
+- [Read more](https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/)
 
 ---
 
