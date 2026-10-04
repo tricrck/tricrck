@@ -16,15 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### ShinyHunters Suspect Rey Reportedly Detained in Jordan, Helping FBI Identify Group Members
+### A.I. Is Going Rogue. Who Should Be Held Responsible?
 - **Published**: October 04, 2026
-- **Summary**: A suspected member of the ShinyHunters digital extortion group, who goes by the online alias "Rey," has been allegedly detained by authorities in Jord...
-- [Read more](https://thehackernews.com/2026/10/shinyhunters-suspect-rey-reportedly.html)
+- **Summary**: https://www.nytimes.com/2026/10/01/technology/ai-rogue-agents-liability.html</a></p>
+<p>Comments ......
+- [Read more](https://www.nytimes.com/2026/10/01/technology/ai-rogue-agents-liability.html)
 
-### China-Aligned TA419 Targets U.S. AI Policy Experts With Microsoft AitM Phishing
+### Blindsight (Watts Novel)
 - **Published**: October 04, 2026
-- **Summary**: A new China-nexus cyber espionage group known as TA419 has been attributed to multiple credential phishing campaigns targeting artificial intelligence...
-- [Read more](https://thehackernews.com/2026/10/china-aligned-ta419-targets-us-ai.html)
+- **Summary**: https://en.wikipedia.org/wiki/Blindsight_(Watts_novel)</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/i......
+- [Read more](https://en.wikipedia.org/wiki/Blindsight_(Watts_novel))
 
 ---
 
