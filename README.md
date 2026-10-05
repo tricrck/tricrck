@@ -16,17 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Repair Café Silicon Valley
-- **Published**: October 04, 2026
-- **Summary**: https://repaircafesv.org/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49957745">https://news.ycombinator.com/item?id=4995.....
-- [Read more](https://repaircafesv.org/)
+### Powerless F1 drivers frustrated by Bahrain F1 software glitch
+- **Published**: October 05, 2026
+- **Summary**: ......
+- **Keywords**: glitch
+- [Read more](https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/)
 
-### I made blob Camera
-- **Published**: October 04, 2026
-- **Summary**: https://twitter.com/yaosamo/status/2104099908915753331</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/i......
-- [Read more](https://twitter.com/yaosamo/status/2104099908915753331)
+### Bioinformaticians have been writing the same abstract for decades
+- **Published**: October 05, 2026
+- **Summary**: https://luispedro.substack.com/p/bioinformaticians-have-been-writing</a></p>
+<p>Comments URL: <a href="ht......
+- [Read more](https://luispedro.substack.com/p/bioinformaticians-have-been-writing)
 
 ---
 
