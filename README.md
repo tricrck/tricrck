@@ -16,17 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### School protests send shivers down French government's spine
+### Strategic Update, October 1, 2026: Center for Human Technology
 - **Published**: October 05, 2026
-- **Summary**: https://www.bbc.com/news/articles/c69wzjjxex8po</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4996477......
-- **Keywords**: down
-- [Read more](https://www.bbc.com/news/articles/c69wzjjxex8po)
+- **Summary**: https://www.humanetech.com/strategic_update_100126</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4......
+- [Read more](https://www.humanetech.com/strategic_update_100126)
 
-### The Credential Layer Is Expanding Faster Than Security Teams Can See It
+### Design Systems for AI Agents (Luke Wroblewski)
 - **Published**: October 05, 2026
-- **Summary**: Every modern enterprise depends on credentials. This is how humans, systems, and now AI, all connect to data, services, and each other securely. GitGu...
-- [Read more](https://thehackernews.com/2026/10/the-credential-layer-is-expanding.html)
+- **Summary**: https://www.lukew.com/ff/2164/design-systems-for-ai-agents</a></p>
+<p>Comments URL: <a href="https://news.ycombinat......
+- [Read more](https://www.lukew.com/ff/2164/design-systems-for-ai-agents)
 
 ---
 
