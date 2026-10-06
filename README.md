@@ -16,17 +16,18 @@
 
 ## 🚨 Tech Stories
 
-### Almost half of China's workforce is now in the gig economy
+### Google Pauses OSS Product Bug Bounty Rewards After Surge in Invalid Automated Reports
 - **Published**: October 06, 2026
-- **Summary**: https://www.abc.net.au/news/2026-10-06/inside-the-life-of-chinese-gig-workers/10720924......
-- [Read more](https://www.abc.net.au/news/2026-10-06/inside-the-life-of-chinese-gig-workers/107209244)
+- **Summary**: Google has stopped accepting product vulnerability reports through its bug bounty program for its open-source software.
 
-### Ask HN: What brings you back to personal AI agents like Instinct and Muse?
+The change, in effect since O...
+- **Keywords**: bug, bug
+- [Read more](https://thehackernews.com/2026/10/google-pauses-oss-product-bug-bounty.html)
+
+### Cable lobby to sue Trump FCC over repeal of national TV ownership cap
 - **Published**: October 06, 2026
-- **Summary**: 
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49974436">https://news.ycombinator.com/item?id=499744......
-- [Read more](https://news.ycombinator.com/item?id=49974436)
+- **Summary**: https://arstechnica.com/tech-policy/2026/10/cable-lobby-to-......
+- [Read more](https://arstechnica.com/tech-policy/2026/10/cable-lobby-to-sue-trump-fcc-over-repeal-of-national-tv-ownership-cap/)
 
 ---
 
