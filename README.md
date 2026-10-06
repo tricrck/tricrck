@@ -16,18 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Google Pauses OSS Product Bug Bounty Rewards After Surge in Invalid Automated Reports
+### Paramount Skydance has completed its $111B merger with Warner Bros. Discovery
 - **Published**: October 06, 2026
-- **Summary**: Google has stopped accepting product vulnerability reports through its bug bounty program for its open-source software.
+- **Summary**: ......
+- [Read more](https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/)
 
-The change, in effect since O...
-- **Keywords**: bug, bug
-- [Read more](https://thehackernews.com/2026/10/google-pauses-oss-product-bug-bounty.html)
-
-### Cable lobby to sue Trump FCC over repeal of national TV ownership cap
-- **Published**: October 06, 2026
-- **Summary**: https://arstechnica.com/tech-policy/2026/10/cable-lobby-to-......
-- [Read more](https://arstechnica.com/tech-policy/2026/10/cable-lobby-to-sue-trump-fcc-over-repeal-of-national-tv-ownership-cap/)
+### Fake ChatGPT, Gemini, and Claude Ad Portals Capture Credentials and MFA Codes
+- **Published**: October 07, 2026
+- **Summary**: Cybersecurity researchers have disclosed details of a "human-operated phishing platform" that impersonates advertising products for artificial intelli...
+- [Read more](https://thehackernews.com/2026/10/fake-chatgpt-gemini-and-claude-ad.html)
 
 ---
 
