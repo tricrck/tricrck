@@ -16,17 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Strategic Update, October 1, 2026: Center for Human Technology
-- **Published**: October 05, 2026
-- **Summary**: https://www.humanetech.com/strategic_update_100126</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=4......
-- [Read more](https://www.humanetech.com/strategic_update_100126)
+### Almost half of China's workforce is now in the gig economy
+- **Published**: October 06, 2026
+- **Summary**: https://www.abc.net.au/news/2026-10-06/inside-the-life-of-chinese-gig-workers/10720924......
+- [Read more](https://www.abc.net.au/news/2026-10-06/inside-the-life-of-chinese-gig-workers/107209244)
 
-### Design Systems for AI Agents (Luke Wroblewski)
-- **Published**: October 05, 2026
-- **Summary**: https://www.lukew.com/ff/2164/design-systems-for-ai-agents</a></p>
-<p>Comments URL: <a href="https://news.ycombinat......
-- [Read more](https://www.lukew.com/ff/2164/design-systems-for-ai-agents)
+### Ask HN: What brings you back to personal AI agents like Instinct and Muse?
+- **Published**: October 06, 2026
+- **Summary**: 
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49974436">https://news.ycombinator.com/item?id=499744......
+- [Read more](https://news.ycombinator.com/item?id=49974436)
 
 ---
 
