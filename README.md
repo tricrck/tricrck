@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### The Sixth Voice of the CISO Data Shows Cyber Risk Has Moved Inside the Workflow
-- **Published**: October 07, 2026
-- **Summary**: The 2026 findings are not just a year-over-year shift. They mark the latest point in a five-year arc where resilience, AI governance, human risk, and ...
-- [Read more](https://thehackernews.com/2026/10/the-sixth-voice-of-ciso-data-shows.html)
+### Attackers Hijack .gh, .sl, and .as Registries to Obtain Certificates for Google Domains
+- **Published**: October 08, 2026
+- **Summary**: Attackers compromised three country-code top-level domains (ccTLDs) and obtained unauthorized HTTPS certificates for several Google domains, Google&nb...
+- [Read more](https://thehackernews.com/2026/10/attackers-hijack-gh-sl-and-as.html)
 
-### FBI Warns FortiBleed Remains Active After Amassing 86,644 Fortinet Device Credentials
+### Eight Malicious npm Packages Downloaded 40,767 Times Deliver Overlord RAT and Stealer
 - **Published**: October 07, 2026
-- **Summary**: The U.S. Federal Bureau of Investigation (FBI) and Secret Service (USSS) on Tuesday warned that the FortiBleed credential harvesting campaign remains ...
-- [Read more](https://thehackernews.com/2026/10/fbi-warns-fortibleed-remains-active.html)
+- **Summary**: Cybersecurity researchers have disclosed details of a long-running npm supply chain malware campaign that pushes information stealers and remote acces...
+- [Read more](https://thehackernews.com/2026/10/eight-malicious-npm-packages-downloaded.html)
 
 ---
 
