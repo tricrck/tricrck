@@ -16,15 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Paramount Skydance has completed its $111B merger with Warner Bros. Discovery
-- **Published**: October 06, 2026
-- **Summary**: ......
-- [Read more](https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/)
-
-### Fake ChatGPT, Gemini, and Claude Ad Portals Capture Credentials and MFA Codes
+### What can go wrong with GenAI? 21 risk categories from 53 studies
 - **Published**: October 07, 2026
-- **Summary**: Cybersecurity researchers have disclosed details of a "human-operated phishing platform" that impersonates advertising products for artificial intelli...
-- [Read more](https://thehackernews.com/2026/10/fake-chatgpt-gemini-and-claude-ad.html)
+- **Summary**: https://onlinelibrary.wiley.com/doi/pdf/10.1155/hbe2/2320511</a></p>
+<p>Comments URL: <a href="https://news.ycomb......
+- [Read more](https://onlinelibrary.wiley.com/doi/pdf/10.1155/hbe2/2320511)
+
+### I tried connecting a 3.5mm jack directly to a speaker: My first audio amplifier
+- **Published**: October 07, 2026
+- **Summary**: https://ajseven.me/blog/first-electronic-project</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49988......
+- [Read more](https://ajseven.me/blog/first-electronic-project)
 
 ---
 
