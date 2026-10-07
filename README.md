@@ -16,17 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### What can go wrong with GenAI? 21 risk categories from 53 studies
+### The Sixth Voice of the CISO Data Shows Cyber Risk Has Moved Inside the Workflow
 - **Published**: October 07, 2026
-- **Summary**: https://onlinelibrary.wiley.com/doi/pdf/10.1155/hbe2/2320511</a></p>
-<p>Comments URL: <a href="https://news.ycomb......
-- [Read more](https://onlinelibrary.wiley.com/doi/pdf/10.1155/hbe2/2320511)
+- **Summary**: The 2026 findings are not just a year-over-year shift. They mark the latest point in a five-year arc where resilience, AI governance, human risk, and ...
+- [Read more](https://thehackernews.com/2026/10/the-sixth-voice-of-ciso-data-shows.html)
 
-### I tried connecting a 3.5mm jack directly to a speaker: My first audio amplifier
+### FBI Warns FortiBleed Remains Active After Amassing 86,644 Fortinet Device Credentials
 - **Published**: October 07, 2026
-- **Summary**: https://ajseven.me/blog/first-electronic-project</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49988......
-- [Read more](https://ajseven.me/blog/first-electronic-project)
+- **Summary**: The U.S. Federal Bureau of Investigation (FBI) and Secret Service (USSS) on Tuesday warned that the FortiBleed credential harvesting campaign remains ...
+- [Read more](https://thehackernews.com/2026/10/fbi-warns-fortibleed-remains-active.html)
 
 ---
 
