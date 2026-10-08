@@ -16,15 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Attackers Hijack .gh, .sl, and .as Registries to Obtain Certificates for Google Domains
+### The Hagedorn Temperature (2003)
 - **Published**: October 08, 2026
-- **Summary**: Attackers compromised three country-code top-level domains (ccTLDs) and obtained unauthorized HTTPS certificates for several Google domains, Google&nb...
-- [Read more](https://thehackernews.com/2026/10/attackers-hijack-gh-sl-and-as.html)
+- **Summary**: https://cerncourier.com/a/the-tale-of-the-hagedorn-temperature/</a></p>
+<p>Comments URL: <a href="https://news......
+- [Read more](https://cerncourier.com/a/the-tale-of-the-hagedorn-temperature/)
 
-### Eight Malicious npm Packages Downloaded 40,767 Times Deliver Overlord RAT and Stealer
-- **Published**: October 07, 2026
-- **Summary**: Cybersecurity researchers have disclosed details of a long-running npm supply chain malware campaign that pushes information stealers and remote acces...
-- [Read more](https://thehackernews.com/2026/10/eight-malicious-npm-packages-downloaded.html)
+### Tools Ecosystem
+- **Published**: October 08, 2026
+- **Summary**: https://100r.ca/site/tools_ecosystem.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50001797">https://n......
+- [Read more](https://100r.ca/site/tools_ecosystem.html)
 
 ---
 
