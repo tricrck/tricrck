@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Wazza Phishkit Targets Banking, Government, and Manufacturing Across the US, EU, and Australia
-- **Published**: October 08, 2026
-- **Summary**: Phishing kits are no longer limited to copying a familiar login page and waiting for a victim to enter credentials. Attackers are increasingly buildin...
-- [Read more](https://thehackernews.com/2026/10/wazza-phishkit-targets-banking.html)
+### FBI Says China-Linked Hackers Ran Portal Giving Third Parties Access to Stolen Emails
+- **Published**: October 09, 2026
+- **Summary**: Hackers tied to a Chinese cybersecurity company stole email from government organizations, law enforcement agencies, healthcare systems, and religious...
+- [Read more](https://thehackernews.com/2026/10/fbi-says-china-linked-hackers-ran.html)
 
-### 16 Malicious Firefox Extensions Pose as Rabby and OKX Wallets to Steal Recovery Phrases
+### ThreatsDay: Ransomware Affiliate Betrayal, WhatsApp RAT, Exposed Hacker Tools and 12 More Stories
 - **Published**: October 08, 2026
-- **Summary**: Cybersecurity researchers have discovered a cluster of 16 malicious Mozilla Firefox extensions that are capable of stealing cryptocurrency wallet reco...
-- [Read more](https://thehackernews.com/2026/10/16-malicious-firefox-extensions-pose-as.html)
+- **Summary**: The crooks have trust problems of their own. One ransomware affiliate decided to keep the profits for himself. Elsewhere, an attacker left a server ex...
+- [Read more](https://thehackernews.com/2026/10/threatsday-ransomware-affiliate.html)
 
 ---
 
