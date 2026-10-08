@@ -16,17 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### The Hagedorn Temperature (2003)
+### Wazza Phishkit Targets Banking, Government, and Manufacturing Across the US, EU, and Australia
 - **Published**: October 08, 2026
-- **Summary**: https://cerncourier.com/a/the-tale-of-the-hagedorn-temperature/</a></p>
-<p>Comments URL: <a href="https://news......
-- [Read more](https://cerncourier.com/a/the-tale-of-the-hagedorn-temperature/)
+- **Summary**: Phishing kits are no longer limited to copying a familiar login page and waiting for a victim to enter credentials. Attackers are increasingly buildin...
+- [Read more](https://thehackernews.com/2026/10/wazza-phishkit-targets-banking.html)
 
-### Tools Ecosystem
+### 16 Malicious Firefox Extensions Pose as Rabby and OKX Wallets to Steal Recovery Phrases
 - **Published**: October 08, 2026
-- **Summary**: https://100r.ca/site/tools_ecosystem.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50001797">https://n......
-- [Read more](https://100r.ca/site/tools_ecosystem.html)
+- **Summary**: Cybersecurity researchers have discovered a cluster of 16 malicious Mozilla Firefox extensions that are capable of stealing cryptocurrency wallet reco...
+- [Read more](https://thehackernews.com/2026/10/16-malicious-firefox-extensions-pose-as.html)
 
 ---
 
