@@ -1,28 +1,10 @@
 {
   "chaos_ranked": [
     {
-      "title": "GoBalance Flaw Lets Attackers Hijack .onion Addresses by Recovering Tor-Format Keys",
-      "link": "https://thehackernews.com/2026/10/gobalance-flaw-lets-attackers-hijack.html",
-      "summary": "A bug in GoBalance, a tool many dark-web sites use to stay reachable during attacks, lets anyone work out the secret key that controls a site's .onion address using only public information, and then t...",
-      "published": "2026-10-09T14:33:24+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 10.1,
-        "anarchy": 3.0,
-        "overall": 6.6
-      },
-      "keywords": {
-        "chaos": [
-          "bug"
-        ],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Flax Typhoon Exploits Five Flaws as CISA Sets October 11 Deadline for Federal Agencies",
-      "link": "https://thehackernews.com/2026/10/flax-typhoon-exploits-five-flaws-as.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added five security flaws to its Known Exploited Vulnerabilities (KEV) catalog, following their abuse by a China-linked thr...",
-      "published": "2026-10-09T17:51:51+05:30",
+      "title": "Credential-Stealing GitHub Actions Workflows Planted in Tens of Thousands of Repositories",
+      "link": "https://thehackernews.com/2026/10/credential-stealing-github-actions.html",
+      "summary": "Cybersecurity researchers have disclosed details of an ongoing credential-theft campaign that has compromised two high-profile open-source maintainer accounts to push a malicious workflow into over 34...",
+      "published": "2026-10-10T00:44:28+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -35,28 +17,10 @@
       }
     },
     {
-      "title": "The AI Velocity Paradox: Why Security Is Decades Behind AI Ambition",
-      "link": "https://thehackernews.com/2026/10/the-ai-velocity-paradox-why-security-is.html",
-      "summary": "As enterprises race to deploy autonomous AI agents to accelerate business, a new report reveals they are tethered to security architectures built for a different era. The \"Horizons of Identity Securit...",
-      "published": "2026-10-09T17:00:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 13.0,
-        "overall": 8.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": [
-          "autonomous"
-        ]
-      }
-    },
-    {
-      "title": "Three Teams Demonstrate Remote Hacks of Fully Patched Google Pixel 10 at Pwn2Own",
-      "link": "https://thehackernews.com/2026/10/three-teams-demonstrate-remote-hacks-of.html",
-      "summary": "Three research teams broke into Google's Pixel 10 on October 8 at Pwn2Own Ireland, a hacking contest in Cork whose rules require every target to be fully patched. The contest pays researchers to show ...",
-      "published": "2026-10-09T13:56:17+05:30",
+      "title": "FBI Arrests Another ShinyHunters Suspect Reportedly Involved in Its Jobs Portal Hack",
+      "link": "https://thehackernews.com/2026/10/fbi-arrests-another-shinyhunters.html",
+      "summary": "The FBI has arrested another suspected co-conspirator of ShinyHunters, FBI Director Kash Patel said on October 9 in a&nbsp;post on X.\n\nShinyHunters is the extortion group that said in September it had...",
+      "published": "2026-10-09T23:15:26+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -69,11 +33,11 @@
       }
     },
     {
-      "title": "Citrix Patches Critical NetScaler Flaw That Could Enable RCE in SAML Deployments",
-      "link": "https://thehackernews.com/2026/10/citrix-patches-critical-netscaler-flaw.html",
-      "summary": "Citrix has released patches for yet another critical security flaw impacting NetScaler ADC and NetScaler Gateway that could result in remote code execution or denial-of-service (DoS) under certain con...",
-      "published": "2026-10-09T13:41:33+05:30",
-      "domain": "thehackernews.com",
+      "title": "In \"Musk,\" Alex Gibney Punctures Elon's Self-Mythology",
+      "link": "https://www.newyorker.com/culture/the-lede/in-musk-alex-gibney-punctures-elons-self-mythology",
+      "summary": "<p>Article URL: <a href=\"https://www.newyorker.com/culture/the-lede/in-musk-alex-gibney-punctures-elons-self-mythology\">https://www.newyorker.com/culture/the-lede/in-musk-alex-gibney-punctures-elons-s...",
+      "published": "2026-10-09T22:14:03+00:00",
+      "domain": "newyorker.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -85,10 +49,10 @@
       }
     },
     {
-      "title": "Boro \u2013 Linux patch review and testing CLI with a multi-stage agentic workflow",
-      "link": "https://github.com/nvidia/boro",
-      "summary": "<p>Article URL: <a href=\"https://github.com/nvidia/boro\">https://github.com/nvidia/boro</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50019561\">https://news.ycombinator.com/it...",
-      "published": "2026-10-09T12:31:20+00:00",
+      "title": "Show HN: PodcastDelay \u2013 an open source RSS feed generator",
+      "link": "https://github.com/samcolson4/PodcastDelay",
+      "summary": "<p>I'm a bit nostalgic. There are some podcasts I started listening to years ago (2017~), but not at the start (2008~). At a certain point, the podcast changes, maybe some stalwarts rotate out of the ...",
+      "published": "2026-10-09T22:13:20+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -101,11 +65,11 @@
       }
     },
     {
-      "title": "'Nothing About This Was Inevitable'",
-      "link": "https://www.theatlantic.com/technology/2026/10/ai-inevitability-trap-kevin-roose-book/688944/",
-      "summary": "<p>Article URL: <a href=\"https://www.theatlantic.com/technology/2026/10/ai-inevitability-trap-kevin-roose-book/688944/\">https://www.theatlantic.com/technology/2026/10/ai-inevitability-trap-kevin-roose...",
-      "published": "2026-10-09T12:31:16+00:00",
-      "domain": "theatlantic.com",
+      "title": "Taxing Entrepreneurial Wealth: Evidence from Norway, 2021\u20132025",
+      "link": "https://www.nber.org/papers/w35854",
+      "summary": "<p>Article URL: <a href=\"https://www.nber.org/papers/w35854\">https://www.nber.org/papers/w35854</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50027234\">https://news.ycombinato...",
+      "published": "2026-10-09T22:12:56+00:00",
+      "domain": "nber.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -117,11 +81,11 @@
       }
     },
     {
-      "title": "Meadows \u2013 a small language for stock-and-flow diagrams that run",
-      "link": "https://lorezzed.github.io/meadows/",
-      "summary": "<p>Article URL: <a href=\"https://lorezzed.github.io/meadows/\">https://lorezzed.github.io/meadows/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50019535\">https://news.ycombina...",
-      "published": "2026-10-09T12:29:40+00:00",
-      "domain": "lorezzed.github.io",
+      "title": "Lawyer Burnout, Measured",
+      "link": "https://lexifina.com/blog/lawyer-burnout",
+      "summary": "<p>Article URL: <a href=\"https://lexifina.com/blog/lawyer-burnout\">https://lexifina.com/blog/lawyer-burnout</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50027230\">https://new...",
+      "published": "2026-10-09T22:12:39+00:00",
+      "domain": "lexifina.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -133,11 +97,11 @@
       }
     },
     {
-      "title": "Ask HN: Any solution for bookmarks on various services?",
-      "link": "https://news.ycombinator.com/item?id=50019532",
-      "summary": "<p>There are 'liked' Youtube videos, subscribed channels, play lists etc. Twitter has bookmarked tweets apart from liked tweets. Hacker news has favourite comments and posts. These are just few exampl...",
-      "published": "2026-10-09T12:29:19+00:00",
-      "domain": "news.ycombinator.com",
+      "title": "VLC 3.0.24 Is Out",
+      "link": "https://jbkempf.com/blog/2026/vlc-3.0.24/",
+      "summary": "<p>Article URL: <a href=\"https://jbkempf.com/blog/2026/vlc-3.0.24/\">https://jbkempf.com/blog/2026/vlc-3.0.24/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50027227\">https://n...",
+      "published": "2026-10-09T22:12:25+00:00",
+      "domain": "jbkempf.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -149,11 +113,43 @@
       }
     },
     {
-      "title": "Parody: ChatGPT for Dishwashing [video]",
-      "link": "https://www.youtube.com/watch?v=ofdMfljL360",
-      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=ofdMfljL360\">https://www.youtube.com/watch?v=ofdMfljL360</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50019518\">https...",
-      "published": "2026-10-09T12:28:05+00:00",
-      "domain": "youtube.com",
+      "title": "P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands",
+      "link": "https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html",
+      "summary": "Cybersecurity researchers have disclosed details of a previously unseen variant of the DarkSword iOS exploit kit called P7 DarkSword.\n\n\"Compared with the variants we usually observe, P7 reduces its on...",
+      "published": "2026-10-09T21:59:55+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops",
+      "link": "https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50026555\">Comments</a>...",
+      "published": "2026-10-09T21:06:59+00:00",
+      "domain": "gizmodo.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Virginia Data Center Ran Diesel Generators for 24 Hours. Residents Fled Their Homes",
+      "link": "https://www.reddit.com/r/technology/comments/1x1vtem/virginia_data_center_ran_diesel_generators_for_24/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1x1vtem/virginia_data_center_ran_diesel_generators_for_24/\"> <img alt=\"Virginia Data Center Ran Diesel Generators for 24 Hours. R...",
+      "published": "2026-10-09T20:17:12+00:00",
+      "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -167,28 +163,10 @@
   ],
   "anarchy_ranked": [
     {
-      "title": "The AI Velocity Paradox: Why Security Is Decades Behind AI Ambition",
-      "link": "https://thehackernews.com/2026/10/the-ai-velocity-paradox-why-security-is.html",
-      "summary": "As enterprises race to deploy autonomous AI agents to accelerate business, a new report reveals they are tethered to security architectures built for a different era. The \"Horizons of Identity Securit...",
-      "published": "2026-10-09T17:00:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 13.0,
-        "overall": 8.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": [
-          "autonomous"
-        ]
-      }
-    },
-    {
-      "title": "Flax Typhoon Exploits Five Flaws as CISA Sets October 11 Deadline for Federal Agencies",
-      "link": "https://thehackernews.com/2026/10/flax-typhoon-exploits-five-flaws-as.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added five security flaws to its Known Exploited Vulnerabilities (KEV) catalog, following their abuse by a China-linked thr...",
-      "published": "2026-10-09T17:51:51+05:30",
+      "title": "Credential-Stealing GitHub Actions Workflows Planted in Tens of Thousands of Repositories",
+      "link": "https://thehackernews.com/2026/10/credential-stealing-github-actions.html",
+      "summary": "Cybersecurity researchers have disclosed details of an ongoing credential-theft campaign that has compromised two high-profile open-source maintainer accounts to push a malicious workflow into over 34...",
+      "published": "2026-10-10T00:44:28+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -201,28 +179,10 @@
       }
     },
     {
-      "title": "GoBalance Flaw Lets Attackers Hijack .onion Addresses by Recovering Tor-Format Keys",
-      "link": "https://thehackernews.com/2026/10/gobalance-flaw-lets-attackers-hijack.html",
-      "summary": "A bug in GoBalance, a tool many dark-web sites use to stay reachable during attacks, lets anyone work out the secret key that controls a site's .onion address using only public information, and then t...",
-      "published": "2026-10-09T14:33:24+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 10.1,
-        "anarchy": 3.0,
-        "overall": 6.6
-      },
-      "keywords": {
-        "chaos": [
-          "bug"
-        ],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Three Teams Demonstrate Remote Hacks of Fully Patched Google Pixel 10 at Pwn2Own",
-      "link": "https://thehackernews.com/2026/10/three-teams-demonstrate-remote-hacks-of.html",
-      "summary": "Three research teams broke into Google's Pixel 10 on October 8 at Pwn2Own Ireland, a hacking contest in Cork whose rules require every target to be fully patched. The contest pays researchers to show ...",
-      "published": "2026-10-09T13:56:17+05:30",
+      "title": "FBI Arrests Another ShinyHunters Suspect Reportedly Involved in Its Jobs Portal Hack",
+      "link": "https://thehackernews.com/2026/10/fbi-arrests-another-shinyhunters.html",
+      "summary": "The FBI has arrested another suspected co-conspirator of ShinyHunters, FBI Director Kash Patel said on October 9 in a&nbsp;post on X.\n\nShinyHunters is the extortion group that said in September it had...",
+      "published": "2026-10-09T23:15:26+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -235,11 +195,11 @@
       }
     },
     {
-      "title": "Citrix Patches Critical NetScaler Flaw That Could Enable RCE in SAML Deployments",
-      "link": "https://thehackernews.com/2026/10/citrix-patches-critical-netscaler-flaw.html",
-      "summary": "Citrix has released patches for yet another critical security flaw impacting NetScaler ADC and NetScaler Gateway that could result in remote code execution or denial-of-service (DoS) under certain con...",
-      "published": "2026-10-09T13:41:33+05:30",
-      "domain": "thehackernews.com",
+      "title": "In \"Musk,\" Alex Gibney Punctures Elon's Self-Mythology",
+      "link": "https://www.newyorker.com/culture/the-lede/in-musk-alex-gibney-punctures-elons-self-mythology",
+      "summary": "<p>Article URL: <a href=\"https://www.newyorker.com/culture/the-lede/in-musk-alex-gibney-punctures-elons-self-mythology\">https://www.newyorker.com/culture/the-lede/in-musk-alex-gibney-punctures-elons-s...",
+      "published": "2026-10-09T22:14:03+00:00",
+      "domain": "newyorker.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -251,10 +211,10 @@
       }
     },
     {
-      "title": "Boro \u2013 Linux patch review and testing CLI with a multi-stage agentic workflow",
-      "link": "https://github.com/nvidia/boro",
-      "summary": "<p>Article URL: <a href=\"https://github.com/nvidia/boro\">https://github.com/nvidia/boro</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50019561\">https://news.ycombinator.com/it...",
-      "published": "2026-10-09T12:31:20+00:00",
+      "title": "Show HN: PodcastDelay \u2013 an open source RSS feed generator",
+      "link": "https://github.com/samcolson4/PodcastDelay",
+      "summary": "<p>I'm a bit nostalgic. There are some podcasts I started listening to years ago (2017~), but not at the start (2008~). At a certain point, the podcast changes, maybe some stalwarts rotate out of the ...",
+      "published": "2026-10-09T22:13:20+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -267,11 +227,11 @@
       }
     },
     {
-      "title": "'Nothing About This Was Inevitable'",
-      "link": "https://www.theatlantic.com/technology/2026/10/ai-inevitability-trap-kevin-roose-book/688944/",
-      "summary": "<p>Article URL: <a href=\"https://www.theatlantic.com/technology/2026/10/ai-inevitability-trap-kevin-roose-book/688944/\">https://www.theatlantic.com/technology/2026/10/ai-inevitability-trap-kevin-roose...",
-      "published": "2026-10-09T12:31:16+00:00",
-      "domain": "theatlantic.com",
+      "title": "Taxing Entrepreneurial Wealth: Evidence from Norway, 2021\u20132025",
+      "link": "https://www.nber.org/papers/w35854",
+      "summary": "<p>Article URL: <a href=\"https://www.nber.org/papers/w35854\">https://www.nber.org/papers/w35854</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50027234\">https://news.ycombinato...",
+      "published": "2026-10-09T22:12:56+00:00",
+      "domain": "nber.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -283,11 +243,11 @@
       }
     },
     {
-      "title": "Meadows \u2013 a small language for stock-and-flow diagrams that run",
-      "link": "https://lorezzed.github.io/meadows/",
-      "summary": "<p>Article URL: <a href=\"https://lorezzed.github.io/meadows/\">https://lorezzed.github.io/meadows/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50019535\">https://news.ycombina...",
-      "published": "2026-10-09T12:29:40+00:00",
-      "domain": "lorezzed.github.io",
+      "title": "Lawyer Burnout, Measured",
+      "link": "https://lexifina.com/blog/lawyer-burnout",
+      "summary": "<p>Article URL: <a href=\"https://lexifina.com/blog/lawyer-burnout\">https://lexifina.com/blog/lawyer-burnout</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50027230\">https://new...",
+      "published": "2026-10-09T22:12:39+00:00",
+      "domain": "lexifina.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -299,11 +259,11 @@
       }
     },
     {
-      "title": "Ask HN: Any solution for bookmarks on various services?",
-      "link": "https://news.ycombinator.com/item?id=50019532",
-      "summary": "<p>There are 'liked' Youtube videos, subscribed channels, play lists etc. Twitter has bookmarked tweets apart from liked tweets. Hacker news has favourite comments and posts. These are just few exampl...",
-      "published": "2026-10-09T12:29:19+00:00",
-      "domain": "news.ycombinator.com",
+      "title": "VLC 3.0.24 Is Out",
+      "link": "https://jbkempf.com/blog/2026/vlc-3.0.24/",
+      "summary": "<p>Article URL: <a href=\"https://jbkempf.com/blog/2026/vlc-3.0.24/\">https://jbkempf.com/blog/2026/vlc-3.0.24/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50027227\">https://n...",
+      "published": "2026-10-09T22:12:25+00:00",
+      "domain": "jbkempf.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -315,11 +275,43 @@
       }
     },
     {
-      "title": "Parody: ChatGPT for Dishwashing [video]",
-      "link": "https://www.youtube.com/watch?v=ofdMfljL360",
-      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=ofdMfljL360\">https://www.youtube.com/watch?v=ofdMfljL360</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50019518\">https...",
-      "published": "2026-10-09T12:28:05+00:00",
-      "domain": "youtube.com",
+      "title": "P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands",
+      "link": "https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html",
+      "summary": "Cybersecurity researchers have disclosed details of a previously unseen variant of the DarkSword iOS exploit kit called P7 DarkSword.\n\n\"Compared with the variants we usually observe, P7 reduces its on...",
+      "published": "2026-10-09T21:59:55+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops",
+      "link": "https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50026555\">Comments</a>...",
+      "published": "2026-10-09T21:06:59+00:00",
+      "domain": "gizmodo.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Virginia Data Center Ran Diesel Generators for 24 Hours. Residents Fled Their Homes",
+      "link": "https://www.reddit.com/r/technology/comments/1x1vtem/virginia_data_center_ran_diesel_generators_for_24/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1x1vtem/virginia_data_center_ran_diesel_generators_for_24/\"> <img alt=\"Virginia Data Center Ran Diesel Generators for 24 Hours. R...",
+      "published": "2026-10-09T20:17:12+00:00",
+      "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -333,46 +325,10 @@
   ],
   "overall_ranked": [
     {
-      "title": "The AI Velocity Paradox: Why Security Is Decades Behind AI Ambition",
-      "link": "https://thehackernews.com/2026/10/the-ai-velocity-paradox-why-security-is.html",
-      "summary": "As enterprises race to deploy autonomous AI agents to accelerate business, a new report reveals they are tethered to security architectures built for a different era. The \"Horizons of Identity Securit...",
-      "published": "2026-10-09T17:00:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 13.0,
-        "overall": 8.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": [
-          "autonomous"
-        ]
-      }
-    },
-    {
-      "title": "GoBalance Flaw Lets Attackers Hijack .onion Addresses by Recovering Tor-Format Keys",
-      "link": "https://thehackernews.com/2026/10/gobalance-flaw-lets-attackers-hijack.html",
-      "summary": "A bug in GoBalance, a tool many dark-web sites use to stay reachable during attacks, lets anyone work out the secret key that controls a site's .onion address using only public information, and then t...",
-      "published": "2026-10-09T14:33:24+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 10.1,
-        "anarchy": 3.0,
-        "overall": 6.6
-      },
-      "keywords": {
-        "chaos": [
-          "bug"
-        ],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Flax Typhoon Exploits Five Flaws as CISA Sets October 11 Deadline for Federal Agencies",
-      "link": "https://thehackernews.com/2026/10/flax-typhoon-exploits-five-flaws-as.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added five security flaws to its Known Exploited Vulnerabilities (KEV) catalog, following their abuse by a China-linked thr...",
-      "published": "2026-10-09T17:51:51+05:30",
+      "title": "Credential-Stealing GitHub Actions Workflows Planted in Tens of Thousands of Repositories",
+      "link": "https://thehackernews.com/2026/10/credential-stealing-github-actions.html",
+      "summary": "Cybersecurity researchers have disclosed details of an ongoing credential-theft campaign that has compromised two high-profile open-source maintainer accounts to push a malicious workflow into over 34...",
+      "published": "2026-10-10T00:44:28+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -385,10 +341,10 @@
       }
     },
     {
-      "title": "Three Teams Demonstrate Remote Hacks of Fully Patched Google Pixel 10 at Pwn2Own",
-      "link": "https://thehackernews.com/2026/10/three-teams-demonstrate-remote-hacks-of.html",
-      "summary": "Three research teams broke into Google's Pixel 10 on October 8 at Pwn2Own Ireland, a hacking contest in Cork whose rules require every target to be fully patched. The contest pays researchers to show ...",
-      "published": "2026-10-09T13:56:17+05:30",
+      "title": "FBI Arrests Another ShinyHunters Suspect Reportedly Involved in Its Jobs Portal Hack",
+      "link": "https://thehackernews.com/2026/10/fbi-arrests-another-shinyhunters.html",
+      "summary": "The FBI has arrested another suspected co-conspirator of ShinyHunters, FBI Director Kash Patel said on October 9 in a&nbsp;post on X.\n\nShinyHunters is the extortion group that said in September it had...",
+      "published": "2026-10-09T23:15:26+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -401,11 +357,11 @@
       }
     },
     {
-      "title": "Citrix Patches Critical NetScaler Flaw That Could Enable RCE in SAML Deployments",
-      "link": "https://thehackernews.com/2026/10/citrix-patches-critical-netscaler-flaw.html",
-      "summary": "Citrix has released patches for yet another critical security flaw impacting NetScaler ADC and NetScaler Gateway that could result in remote code execution or denial-of-service (DoS) under certain con...",
-      "published": "2026-10-09T13:41:33+05:30",
-      "domain": "thehackernews.com",
+      "title": "In \"Musk,\" Alex Gibney Punctures Elon's Self-Mythology",
+      "link": "https://www.newyorker.com/culture/the-lede/in-musk-alex-gibney-punctures-elons-self-mythology",
+      "summary": "<p>Article URL: <a href=\"https://www.newyorker.com/culture/the-lede/in-musk-alex-gibney-punctures-elons-self-mythology\">https://www.newyorker.com/culture/the-lede/in-musk-alex-gibney-punctures-elons-s...",
+      "published": "2026-10-09T22:14:03+00:00",
+      "domain": "newyorker.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -417,10 +373,10 @@
       }
     },
     {
-      "title": "Boro \u2013 Linux patch review and testing CLI with a multi-stage agentic workflow",
-      "link": "https://github.com/nvidia/boro",
-      "summary": "<p>Article URL: <a href=\"https://github.com/nvidia/boro\">https://github.com/nvidia/boro</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50019561\">https://news.ycombinator.com/it...",
-      "published": "2026-10-09T12:31:20+00:00",
+      "title": "Show HN: PodcastDelay \u2013 an open source RSS feed generator",
+      "link": "https://github.com/samcolson4/PodcastDelay",
+      "summary": "<p>I'm a bit nostalgic. There are some podcasts I started listening to years ago (2017~), but not at the start (2008~). At a certain point, the podcast changes, maybe some stalwarts rotate out of the ...",
+      "published": "2026-10-09T22:13:20+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -433,11 +389,11 @@
       }
     },
     {
-      "title": "'Nothing About This Was Inevitable'",
-      "link": "https://www.theatlantic.com/technology/2026/10/ai-inevitability-trap-kevin-roose-book/688944/",
-      "summary": "<p>Article URL: <a href=\"https://www.theatlantic.com/technology/2026/10/ai-inevitability-trap-kevin-roose-book/688944/\">https://www.theatlantic.com/technology/2026/10/ai-inevitability-trap-kevin-roose...",
-      "published": "2026-10-09T12:31:16+00:00",
-      "domain": "theatlantic.com",
+      "title": "Taxing Entrepreneurial Wealth: Evidence from Norway, 2021\u20132025",
+      "link": "https://www.nber.org/papers/w35854",
+      "summary": "<p>Article URL: <a href=\"https://www.nber.org/papers/w35854\">https://www.nber.org/papers/w35854</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50027234\">https://news.ycombinato...",
+      "published": "2026-10-09T22:12:56+00:00",
+      "domain": "nber.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -449,11 +405,11 @@
       }
     },
     {
-      "title": "Meadows \u2013 a small language for stock-and-flow diagrams that run",
-      "link": "https://lorezzed.github.io/meadows/",
-      "summary": "<p>Article URL: <a href=\"https://lorezzed.github.io/meadows/\">https://lorezzed.github.io/meadows/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50019535\">https://news.ycombina...",
-      "published": "2026-10-09T12:29:40+00:00",
-      "domain": "lorezzed.github.io",
+      "title": "Lawyer Burnout, Measured",
+      "link": "https://lexifina.com/blog/lawyer-burnout",
+      "summary": "<p>Article URL: <a href=\"https://lexifina.com/blog/lawyer-burnout\">https://lexifina.com/blog/lawyer-burnout</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50027230\">https://new...",
+      "published": "2026-10-09T22:12:39+00:00",
+      "domain": "lexifina.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -465,11 +421,11 @@
       }
     },
     {
-      "title": "Ask HN: Any solution for bookmarks on various services?",
-      "link": "https://news.ycombinator.com/item?id=50019532",
-      "summary": "<p>There are 'liked' Youtube videos, subscribed channels, play lists etc. Twitter has bookmarked tweets apart from liked tweets. Hacker news has favourite comments and posts. These are just few exampl...",
-      "published": "2026-10-09T12:29:19+00:00",
-      "domain": "news.ycombinator.com",
+      "title": "VLC 3.0.24 Is Out",
+      "link": "https://jbkempf.com/blog/2026/vlc-3.0.24/",
+      "summary": "<p>Article URL: <a href=\"https://jbkempf.com/blog/2026/vlc-3.0.24/\">https://jbkempf.com/blog/2026/vlc-3.0.24/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50027227\">https://n...",
+      "published": "2026-10-09T22:12:25+00:00",
+      "domain": "jbkempf.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -481,11 +437,43 @@
       }
     },
     {
-      "title": "Parody: ChatGPT for Dishwashing [video]",
-      "link": "https://www.youtube.com/watch?v=ofdMfljL360",
-      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=ofdMfljL360\">https://www.youtube.com/watch?v=ofdMfljL360</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50019518\">https...",
-      "published": "2026-10-09T12:28:05+00:00",
-      "domain": "youtube.com",
+      "title": "P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands",
+      "link": "https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html",
+      "summary": "Cybersecurity researchers have disclosed details of a previously unseen variant of the DarkSword iOS exploit kit called P7 DarkSword.\n\n\"Compared with the variants we usually observe, P7 reduces its on...",
+      "published": "2026-10-09T21:59:55+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops",
+      "link": "https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50026555\">Comments</a>...",
+      "published": "2026-10-09T21:06:59+00:00",
+      "domain": "gizmodo.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Virginia Data Center Ran Diesel Generators for 24 Hours. Residents Fled Their Homes",
+      "link": "https://www.reddit.com/r/technology/comments/1x1vtem/virginia_data_center_ran_diesel_generators_for_24/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1x1vtem/virginia_data_center_ran_diesel_generators_for_24/\"> <img alt=\"Virginia Data Center Ran Diesel Generators for 24 Hours. R...",
+      "published": "2026-10-09T20:17:12+00:00",
+      "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -499,10 +487,10 @@
   ],
   "all_articles": [
     {
-      "title": "Flax Typhoon Exploits Five Flaws as CISA Sets October 11 Deadline for Federal Agencies",
-      "link": "https://thehackernews.com/2026/10/flax-typhoon-exploits-five-flaws-as.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added five security flaws to its Known Exploited Vulnerabilities (KEV) catalog, following their abuse by a China-linked thr...",
-      "published": "2026-10-09T17:51:51+05:30",
+      "title": "Credential-Stealing GitHub Actions Workflows Planted in Tens of Thousands of Repositories",
+      "link": "https://thehackernews.com/2026/10/credential-stealing-github-actions.html",
+      "summary": "Cybersecurity researchers have disclosed details of an ongoing credential-theft campaign that has compromised two high-profile open-source maintainer accounts to push a malicious workflow into over 34...",
+      "published": "2026-10-10T00:44:28+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -515,46 +503,10 @@
       }
     },
     {
-      "title": "The AI Velocity Paradox: Why Security Is Decades Behind AI Ambition",
-      "link": "https://thehackernews.com/2026/10/the-ai-velocity-paradox-why-security-is.html",
-      "summary": "As enterprises race to deploy autonomous AI agents to accelerate business, a new report reveals they are tethered to security architectures built for a different era. The \"Horizons of Identity Securit...",
-      "published": "2026-10-09T17:00:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 13.0,
-        "overall": 8.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": [
-          "autonomous"
-        ]
-      }
-    },
-    {
-      "title": "GoBalance Flaw Lets Attackers Hijack .onion Addresses by Recovering Tor-Format Keys",
-      "link": "https://thehackernews.com/2026/10/gobalance-flaw-lets-attackers-hijack.html",
-      "summary": "A bug in GoBalance, a tool many dark-web sites use to stay reachable during attacks, lets anyone work out the secret key that controls a site's .onion address using only public information, and then t...",
-      "published": "2026-10-09T14:33:24+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 10.1,
-        "anarchy": 3.0,
-        "overall": 6.6
-      },
-      "keywords": {
-        "chaos": [
-          "bug"
-        ],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Three Teams Demonstrate Remote Hacks of Fully Patched Google Pixel 10 at Pwn2Own",
-      "link": "https://thehackernews.com/2026/10/three-teams-demonstrate-remote-hacks-of.html",
-      "summary": "Three research teams broke into Google's Pixel 10 on October 8 at Pwn2Own Ireland, a hacking contest in Cork whose rules require every target to be fully patched. The contest pays researchers to show ...",
-      "published": "2026-10-09T13:56:17+05:30",
+      "title": "FBI Arrests Another ShinyHunters Suspect Reportedly Involved in Its Jobs Portal Hack",
+      "link": "https://thehackernews.com/2026/10/fbi-arrests-another-shinyhunters.html",
+      "summary": "The FBI has arrested another suspected co-conspirator of ShinyHunters, FBI Director Kash Patel said on October 9 in a&nbsp;post on X.\n\nShinyHunters is the extortion group that said in September it had...",
+      "published": "2026-10-09T23:15:26+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -567,11 +519,11 @@
       }
     },
     {
-      "title": "Citrix Patches Critical NetScaler Flaw That Could Enable RCE in SAML Deployments",
-      "link": "https://thehackernews.com/2026/10/citrix-patches-critical-netscaler-flaw.html",
-      "summary": "Citrix has released patches for yet another critical security flaw impacting NetScaler ADC and NetScaler Gateway that could result in remote code execution or denial-of-service (DoS) under certain con...",
-      "published": "2026-10-09T13:41:33+05:30",
-      "domain": "thehackernews.com",
+      "title": "In \"Musk,\" Alex Gibney Punctures Elon's Self-Mythology",
+      "link": "https://www.newyorker.com/culture/the-lede/in-musk-alex-gibney-punctures-elons-self-mythology",
+      "summary": "<p>Article URL: <a href=\"https://www.newyorker.com/culture/the-lede/in-musk-alex-gibney-punctures-elons-self-mythology\">https://www.newyorker.com/culture/the-lede/in-musk-alex-gibney-punctures-elons-s...",
+      "published": "2026-10-09T22:14:03+00:00",
+      "domain": "newyorker.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -583,10 +535,10 @@
       }
     },
     {
-      "title": "Boro \u2013 Linux patch review and testing CLI with a multi-stage agentic workflow",
-      "link": "https://github.com/nvidia/boro",
-      "summary": "<p>Article URL: <a href=\"https://github.com/nvidia/boro\">https://github.com/nvidia/boro</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50019561\">https://news.ycombinator.com/it...",
-      "published": "2026-10-09T12:31:20+00:00",
+      "title": "Show HN: PodcastDelay \u2013 an open source RSS feed generator",
+      "link": "https://github.com/samcolson4/PodcastDelay",
+      "summary": "<p>I'm a bit nostalgic. There are some podcasts I started listening to years ago (2017~), but not at the start (2008~). At a certain point, the podcast changes, maybe some stalwarts rotate out of the ...",
+      "published": "2026-10-09T22:13:20+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -599,11 +551,11 @@
       }
     },
     {
-      "title": "'Nothing About This Was Inevitable'",
-      "link": "https://www.theatlantic.com/technology/2026/10/ai-inevitability-trap-kevin-roose-book/688944/",
-      "summary": "<p>Article URL: <a href=\"https://www.theatlantic.com/technology/2026/10/ai-inevitability-trap-kevin-roose-book/688944/\">https://www.theatlantic.com/technology/2026/10/ai-inevitability-trap-kevin-roose...",
-      "published": "2026-10-09T12:31:16+00:00",
-      "domain": "theatlantic.com",
+      "title": "Taxing Entrepreneurial Wealth: Evidence from Norway, 2021\u20132025",
+      "link": "https://www.nber.org/papers/w35854",
+      "summary": "<p>Article URL: <a href=\"https://www.nber.org/papers/w35854\">https://www.nber.org/papers/w35854</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50027234\">https://news.ycombinato...",
+      "published": "2026-10-09T22:12:56+00:00",
+      "domain": "nber.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -615,11 +567,11 @@
       }
     },
     {
-      "title": "Meadows \u2013 a small language for stock-and-flow diagrams that run",
-      "link": "https://lorezzed.github.io/meadows/",
-      "summary": "<p>Article URL: <a href=\"https://lorezzed.github.io/meadows/\">https://lorezzed.github.io/meadows/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50019535\">https://news.ycombina...",
-      "published": "2026-10-09T12:29:40+00:00",
-      "domain": "lorezzed.github.io",
+      "title": "Lawyer Burnout, Measured",
+      "link": "https://lexifina.com/blog/lawyer-burnout",
+      "summary": "<p>Article URL: <a href=\"https://lexifina.com/blog/lawyer-burnout\">https://lexifina.com/blog/lawyer-burnout</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50027230\">https://new...",
+      "published": "2026-10-09T22:12:39+00:00",
+      "domain": "lexifina.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -631,11 +583,11 @@
       }
     },
     {
-      "title": "Ask HN: Any solution for bookmarks on various services?",
-      "link": "https://news.ycombinator.com/item?id=50019532",
-      "summary": "<p>There are 'liked' Youtube videos, subscribed channels, play lists etc. Twitter has bookmarked tweets apart from liked tweets. Hacker news has favourite comments and posts. These are just few exampl...",
-      "published": "2026-10-09T12:29:19+00:00",
-      "domain": "news.ycombinator.com",
+      "title": "VLC 3.0.24 Is Out",
+      "link": "https://jbkempf.com/blog/2026/vlc-3.0.24/",
+      "summary": "<p>Article URL: <a href=\"https://jbkempf.com/blog/2026/vlc-3.0.24/\">https://jbkempf.com/blog/2026/vlc-3.0.24/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50027227\">https://n...",
+      "published": "2026-10-09T22:12:25+00:00",
+      "domain": "jbkempf.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -647,11 +599,43 @@
       }
     },
     {
-      "title": "Parody: ChatGPT for Dishwashing [video]",
-      "link": "https://www.youtube.com/watch?v=ofdMfljL360",
-      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=ofdMfljL360\">https://www.youtube.com/watch?v=ofdMfljL360</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50019518\">https...",
-      "published": "2026-10-09T12:28:05+00:00",
-      "domain": "youtube.com",
+      "title": "P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands",
+      "link": "https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html",
+      "summary": "Cybersecurity researchers have disclosed details of a previously unseen variant of the DarkSword iOS exploit kit called P7 DarkSword.\n\n\"Compared with the variants we usually observe, P7 reduces its on...",
+      "published": "2026-10-09T21:59:55+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops",
+      "link": "https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50026555\">Comments</a>...",
+      "published": "2026-10-09T21:06:59+00:00",
+      "domain": "gizmodo.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Virginia Data Center Ran Diesel Generators for 24 Hours. Residents Fled Their Homes",
+      "link": "https://www.reddit.com/r/technology/comments/1x1vtem/virginia_data_center_ran_diesel_generators_for_24/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1x1vtem/virginia_data_center_ran_diesel_generators_for_24/\"> <img alt=\"Virginia Data Center Ran Diesel Generators for 24 Hours. R...",
+      "published": "2026-10-09T20:17:12+00:00",
+      "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,

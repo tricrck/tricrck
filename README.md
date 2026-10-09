@@ -16,16 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### GoBalance Flaw Lets Attackers Hijack .onion Addresses by Recovering Tor-Format Keys
-- **Published**: October 09, 2026
-- **Summary**: A bug in GoBalance, a tool many dark-web sites use to stay reachable during attacks, lets anyone work out the secret key that controls a site's .onion...
-- **Keywords**: bug
-- [Read more](https://thehackernews.com/2026/10/gobalance-flaw-lets-attackers-hijack.html)
+### Credential-Stealing GitHub Actions Workflows Planted in Tens of Thousands of Repositories
+- **Published**: October 10, 2026
+- **Summary**: Cybersecurity researchers have disclosed details of an ongoing credential-theft campaign that has compromised two high-profile open-source maintainer ...
+- [Read more](https://thehackernews.com/2026/10/credential-stealing-github-actions.html)
 
-### Flax Typhoon Exploits Five Flaws as CISA Sets October 11 Deadline for Federal Agencies
+### FBI Arrests Another ShinyHunters Suspect Reportedly Involved in Its Jobs Portal Hack
 - **Published**: October 09, 2026
-- **Summary**: The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added five security flaws to its Known Exploited Vulnerabilities (KEV) ca...
-- [Read more](https://thehackernews.com/2026/10/flax-typhoon-exploits-five-flaws-as.html)
+- **Summary**: The FBI has arrested another suspected co-conspirator of ShinyHunters, FBI Director Kash Patel said on October 9 in a&nbsp;post on X.
+
+ShinyHunters is...
+- [Read more](https://thehackernews.com/2026/10/fbi-arrests-another-shinyhunters.html)
 
 ---
 
