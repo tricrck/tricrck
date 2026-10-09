@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### 2026 State of PQC on the Web
+### GoBalance Flaw Lets Attackers Hijack .onion Addresses by Recovering Tor-Format Keys
 - **Published**: October 09, 2026
-- **Summary**: https://www.f5.com/labs/articles/2026-state-of-pqc-on-the-web</a></p>
-<p>Comments URL: <a href="https://news.yco......
-- [Read more](https://www.f5.com/labs/articles/2026-state-of-pqc-on-the-web)
+- **Summary**: A bug in GoBalance, a tool many dark-web sites use to stay reachable during attacks, lets anyone work out the secret key that controls a site's .onion...
+- **Keywords**: bug
+- [Read more](https://thehackernews.com/2026/10/gobalance-flaw-lets-attackers-hijack.html)
 
-### AI model can reconstruct images from your brain
+### Flax Typhoon Exploits Five Flaws as CISA Sets October 11 Deadline for Federal Agencies
 - **Published**: October 09, 2026
-- **Summary**: https://petapixel.com/2026/10/07/fastest-ever-mind-reading-ai-mode......
-- [Read more](https://petapixel.com/2026/10/07/fastest-ever-mind-reading-ai-model-can-reconstruct-images-from-your-brain/)
+- **Summary**: The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added five security flaws to its Known Exploited Vulnerabilities (KEV) ca...
+- [Read more](https://thehackernews.com/2026/10/flax-typhoon-exploits-five-flaws-as.html)
 
 ---
 
