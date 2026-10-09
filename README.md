@@ -16,15 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### FBI Says China-Linked Hackers Ran Portal Giving Third Parties Access to Stolen Emails
+### 2026 State of PQC on the Web
 - **Published**: October 09, 2026
-- **Summary**: Hackers tied to a Chinese cybersecurity company stole email from government organizations, law enforcement agencies, healthcare systems, and religious...
-- [Read more](https://thehackernews.com/2026/10/fbi-says-china-linked-hackers-ran.html)
+- **Summary**: https://www.f5.com/labs/articles/2026-state-of-pqc-on-the-web</a></p>
+<p>Comments URL: <a href="https://news.yco......
+- [Read more](https://www.f5.com/labs/articles/2026-state-of-pqc-on-the-web)
 
-### ThreatsDay: Ransomware Affiliate Betrayal, WhatsApp RAT, Exposed Hacker Tools and 12 More Stories
-- **Published**: October 08, 2026
-- **Summary**: The crooks have trust problems of their own. One ransomware affiliate decided to keep the profits for himself. Elsewhere, an attacker left a server ex...
-- [Read more](https://thehackernews.com/2026/10/threatsday-ransomware-affiliate.html)
+### AI model can reconstruct images from your brain
+- **Published**: October 09, 2026
+- **Summary**: https://petapixel.com/2026/10/07/fastest-ever-mind-reading-ai-mode......
+- [Read more](https://petapixel.com/2026/10/07/fastest-ever-mind-reading-ai-model-can-reconstruct-images-from-your-brain/)
 
 ---
 
