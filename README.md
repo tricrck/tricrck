@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Webcmd (by AgentR) is open-source Released on October 8/9, 2026
+### The Third-Party Agent Problem: Why Security Built for AI You Chose Misses the Agents You Didn't
 - **Published**: October 10, 2026
-- **Summary**: https://markets.......
-- [Read more](https://markets.businessinsider.com/news/stocks/agentr-launches-webcmd-open-source-browser-infrastructure-that-lets-ai-agents-learn-a-website-once-1036612154)
+- **Summary**: In environments studied for the 2026 State of Agent Security Report, roughly 1,280 third-party products now embed AI. About 282 of them sit behind sin...
+- [Read more](https://thehackernews.com/2026/10/the-third-party-agent-problem-why.html)
 
-### Most anxious generation ever? WHO data says 470M people have anxiety
+### Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits Injection Flaws
 - **Published**: October 10, 2026
-- **Summary**: Article URL: <a href="https://www.hindustantimes.com/lifestyle/health/most-anxious-generation-ever-who-data-says-470-million-people-have-anxiety-share...
-- [Read more](https://www.hindustantimes.com/lifestyle/health/most-anxious-generation-ever-who-data-says-470-million-people-have-anxiety-shares-signs-and-science-backed-fixes-101791600337714.html)
+- **Summary**: Anthropic on Friday said it's cutting off live internet access for all its internal evaluations following the discovery of new incidents in which its ...
+- [Read more](https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html)
 
 ---
 
