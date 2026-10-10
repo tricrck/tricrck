@@ -16,15 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### The Third-Party Agent Problem: Why Security Built for AI You Chose Misses the Agents You Didn't
+### Why We Still Cannot Read Etruscan
 - **Published**: October 10, 2026
-- **Summary**: In environments studied for the 2026 State of Agent Security Report, roughly 1,280 third-party products now embed AI. About 282 of them sit behind sin...
-- [Read more](https://thehackernews.com/2026/10/the-third-party-agent-problem-why.html)
+- **Summary**: https://veiledantiquity.com/posts/etruscan-language-lost/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator......
+- [Read more](https://veiledantiquity.com/posts/etruscan-language-lost/)
 
-### Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits Injection Flaws
+### The Safety That Isn't
 - **Published**: October 10, 2026
-- **Summary**: Anthropic on Friday said it's cutting off live internet access for all its internal evaluations following the discovery of new incidents in which its ...
-- [Read more](https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html)
+- **Summary**: https://markatwood.substack.com/p/the-safety-that-isnt</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/i......
+- [Read more](https://markatwood.substack.com/p/the-safety-that-isnt)
 
 ---
 
