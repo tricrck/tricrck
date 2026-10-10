@@ -16,17 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Credential-Stealing GitHub Actions Workflows Planted in Tens of Thousands of Repositories
+### Webcmd (by AgentR) is open-source Released on October 8/9, 2026
 - **Published**: October 10, 2026
-- **Summary**: Cybersecurity researchers have disclosed details of an ongoing credential-theft campaign that has compromised two high-profile open-source maintainer ...
-- [Read more](https://thehackernews.com/2026/10/credential-stealing-github-actions.html)
+- **Summary**: https://markets.......
+- [Read more](https://markets.businessinsider.com/news/stocks/agentr-launches-webcmd-open-source-browser-infrastructure-that-lets-ai-agents-learn-a-website-once-1036612154)
 
-### FBI Arrests Another ShinyHunters Suspect Reportedly Involved in Its Jobs Portal Hack
-- **Published**: October 09, 2026
-- **Summary**: The FBI has arrested another suspected co-conspirator of ShinyHunters, FBI Director Kash Patel said on October 9 in a&nbsp;post on X.
-
-ShinyHunters is...
-- [Read more](https://thehackernews.com/2026/10/fbi-arrests-another-shinyhunters.html)
+### Most anxious generation ever? WHO data says 470M people have anxiety
+- **Published**: October 10, 2026
+- **Summary**: Article URL: <a href="https://www.hindustantimes.com/lifestyle/health/most-anxious-generation-ever-who-data-says-470-million-people-have-anxiety-share...
+- [Read more](https://www.hindustantimes.com/lifestyle/health/most-anxious-generation-ever-who-data-says-470-million-people-have-anxiety-shares-signs-and-science-backed-fixes-101791600337714.html)
 
 ---
 
