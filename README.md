@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Understanding why you'd use Effect TS
+### Scandinavia's first farmers slaughtered hunter-gatherer population, DNA suggests
 - **Published**: October 11, 2026
-- **Summary**: https://cm.xyz/blog/understanding-why-youd-use-effect-ts</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.c......
-- [Read more](https://cm.xyz/blog/understanding-why-youd-use-effect-ts)
+- **Summary**: https://phys.org/news/2024-02-scandinavia-farmers-slaughtered-hunter-population.html</a><......
+- [Read more](https://phys.org/news/2024-02-scandinavia-farmers-slaughtered-hunter-population.html)
 
-### The story of utopias by Lewis Mumford
+### Valen's Memory Safety: A New Kind of Borrow Checking
 - **Published**: October 11, 2026
-- **Summary**: https://www.gutenberg.org/ebooks/75654</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50039754">https://news.yc......
-- [Read more](https://www.gutenberg.org/ebooks/75654)
+- **Summary**: https://verdagon.dev/blog/valen-group-borrowing</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=5004236......
+- [Read more](https://verdagon.dev/blog/valen-group-borrowing)
 
 ---
 
