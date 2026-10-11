@@ -16,17 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Why We Still Cannot Read Etruscan
-- **Published**: October 10, 2026
-- **Summary**: https://veiledantiquity.com/posts/etruscan-language-lost/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator......
-- [Read more](https://veiledantiquity.com/posts/etruscan-language-lost/)
+### Understanding why you'd use Effect TS
+- **Published**: October 11, 2026
+- **Summary**: https://cm.xyz/blog/understanding-why-youd-use-effect-ts</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.c......
+- [Read more](https://cm.xyz/blog/understanding-why-youd-use-effect-ts)
 
-### The Safety That Isn't
-- **Published**: October 10, 2026
-- **Summary**: https://markatwood.substack.com/p/the-safety-that-isnt</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/i......
-- [Read more](https://markatwood.substack.com/p/the-safety-that-isnt)
+### The story of utopias by Lewis Mumford
+- **Published**: October 11, 2026
+- **Summary**: https://www.gutenberg.org/ebooks/75654</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50039754">https://news.yc......
+- [Read more](https://www.gutenberg.org/ebooks/75654)
 
 ---
 
