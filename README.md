@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Tony Fadell on why the first wave of AI gadgets failed – and what comes next
+### Bring Your Own Agent: Your Employees' Assistants Are Already Logged In
 - **Published**: October 12, 2026
-- **Summary**: https://techcrunch.com/2026/10/07/tony-fadell-on-why-the-first-w......
-- [Read more](https://techcrunch.com/2026/10/07/tony-fadell-on-why-the-first-wave-of-ai-gadgets-failed-and-what-comes-next/)
+- **Summary**: The personal AI agents rollout is going about as smoothly as expected: Amazon now blocks Meta's Muse because it doesn't identify itself as a bot while...
+- [Read more](https://thehackernews.com/2026/10/bring-your-own-agent-your-employees.html)
 
-### A college in Illinois tried to cancel its Flock contact and it refused / Flock refused to take its cameras down so Elgin Community College covered them. The company snuck back to undue it.
-- **Published**: October 11, 2026
-- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1x3i496/a_college_in_illinois_tried_to_cancel_its_flock/"> <img alt="A college in Illinois ...
-- **Keywords**: down
-- [Read more](https://www.reddit.com/r/technology/comments/1x3i496/a_college_in_illinois_tried_to_cancel_its_flock/)
+### Ledger Finds Unauthorized Hardware Implant in CryptoBilis-Sold Wallet Amid Fund Theft Reports
+- **Published**: October 12, 2026
+- **Summary**: Cryptocurrency hardware maker Ledger has temporarily paused sales of its products via CryptoBilis following reports of stolen funds linked to devices ...
+- [Read more](https://thehackernews.com/2026/10/ledger-finds-unauthorized-hardware.html)
 
 ---
 
