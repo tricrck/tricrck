@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
+### Tony Fadell on why the first wave of AI gadgets failed – and what comes next
+- **Published**: October 12, 2026
+- **Summary**: https://techcrunch.com/2026/10/07/tony-fadell-on-why-the-first-w......
+- [Read more](https://techcrunch.com/2026/10/07/tony-fadell-on-why-the-first-wave-of-ai-gadgets-failed-and-what-comes-next/)
+
 ### A college in Illinois tried to cancel its Flock contact and it refused / Flock refused to take its cameras down so Elgin Community College covered them. The company snuck back to undue it.
 - **Published**: October 11, 2026
 - **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1x3i496/a_college_in_illinois_tried_to_cancel_its_flock/"> <img alt="A college in Illinois ...
 - **Keywords**: down
 - [Read more](https://www.reddit.com/r/technology/comments/1x3i496/a_college_in_illinois_tried_to_cancel_its_flock/)
-
-### China's Delivery Robots Are Learning to Tackle the Night Shift
-- **Published**: October 11, 2026
-- **Summary**: https://www.bloomberg.com/news/features/2026-10-08/china-s-d......
-- [Read more](https://www.bloomberg.com/news/features/2026-10-08/china-s-delivery-robots-are-learning-to-tackle-the-night-shift)
 
 ---
 
