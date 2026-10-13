@@ -1,10 +1,10 @@
 {
   "chaos_ranked": [
     {
-      "title": "[Webinar] How to Stop AI-Driven Privilege Escalation With Runtime Identity Controls",
-      "link": "https://thehackernews.com/2026/10/webinar-how-to-stop-ai-driven-privilege.html",
-      "summary": "The dangerous part of a stolen identity isn't always the initial login. It's what an attacker can do with that access next.\n\nWith AI accelerating reconnaissance, exploitation of vulnerabilities, and p...",
-      "published": "2026-10-13T17:27:06+05:30",
+      "title": "Anthropic Warns Small AI Models Could Soon Form Self-Propagating IoT Botnets",
+      "link": "https://thehackernews.com/2026/10/anthropic-warns-small-ai-models-could.html",
+      "summary": "Small artificial intelligence (AI) models may be months away from developing capabilities to self-replicate on IoT devices like smart ovens and off-brand Android TV boxes, according to a warning from ...",
+      "published": "2026-10-13T23:50:57+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -17,10 +17,10 @@
       }
     },
     {
-      "title": "LG Smart TVs Vulnerable to Pre-Auth Root Takeover From Local Network",
-      "link": "https://thehackernews.com/2026/10/lg-smart-tvs-vulnerable-to-pre-auth.html",
-      "summary": "Three vulnerabilities in LG's webOS can be chained to give an attacker on the same local network root access to certain smart TVs without a PIN or any interaction from the owner.\n\nLG has issued a fix,...",
-      "published": "2026-10-13T16:39:10+05:30",
+      "title": "Docker Fixes Critical Two-Year-Old Hub Flaw That Let One User Push Images as Another",
+      "link": "https://thehackernews.com/2026/10/docker-fixes-critical-two-year-old-hub.html",
+      "summary": "A flaw in Docker Hub, the registry where container images are published and downloaded, let one user push, pull, or delete images as another user. Docker fixed the flaw on September 30 and says it fou...",
+      "published": "2026-10-13T23:33:18+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "Product Walkthrough: Bitdefender AI Visibility and Control",
-      "link": "https://thehackernews.com/2026/10/product-walkthrough-bitdefender-ai.html",
-      "summary": "A user opens a browser tab, pastes data into a chat assistant, and nothing is installed.\n\nA developer adds a coding&nbsp;assistant as an editor extension, and nothing shows up in the installed program...",
-      "published": "2026-10-13T16:00:00+05:30",
+      "title": "Attacker Chains Three Ivanti Connect Secure Zero-Days for Root Access, Only Two Patched So Far",
+      "link": "https://thehackernews.com/2026/10/attacker-chains-three-ivanti-connect.html",
+      "summary": "An attacker chained three zero-day flaws in Ivanti Connect Secure, a VPN appliance, to run commands as root without logging in, security firm&nbsp;Volexity said&nbsp;on October 13. Ivanti has released...",
+      "published": "2026-10-13T23:03:11+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -49,10 +49,10 @@
       }
     },
     {
-      "title": "Attackers Heat French Supermarket Fridges Up to 50\u00b0C by Hijacking Danfoss Controllers",
-      "link": "https://thehackernews.com/2026/10/attackers-heat-french-supermarket.html",
-      "summary": "Attackers took remote control of fridges and freezers at hundreds of French supermarkets on the night of October 11 and warmed them, forcing stores to throw food away, several retail chains said.\n\nThe...",
-      "published": "2026-10-13T14:18:41+05:30",
+      "title": "SAP Discloses Critical CVSS 10 Flaw in Cloud SDK for Python Allowing OAuth2 Credential Theft",
+      "link": "https://thehackernews.com/2026/10/sap-discloses-critical-cvss-10-flaw-in.html",
+      "summary": "A flaw in SAP's&nbsp;Cloud SDK for Python&nbsp;can send an application's OAuth2 client credentials to a server an attacker controls, SAP said in a&nbsp;security advisory&nbsp;on October 13. The flaw a...",
+      "published": "2026-10-13T22:58:50+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -65,91 +65,91 @@
       }
     },
     {
-      "title": "Two Critical MarkLogic Flaws Could Give Delegated Managers Persistent Admin Control",
-      "link": "https://thehackernews.com/2026/10/two-critical-marklogic-flaws-could-give.html",
-      "summary": "Two of 31 newly disclosed flaws in Progress Software's&nbsp;MarkLogic Server&nbsp;database could let an account given only some management privileges take administrator control of the server, the comp...",
-      "published": "2026-10-13T14:14:01+05:30",
+      "title": "HCP Vagrant Deprecation",
+      "link": "https://www.hashicorp.com/en/blog/hcp-vagrant-deprecation-important-dates-and-migration-guidance",
+      "summary": "<p>Article URL: <a href=\"https://www.hashicorp.com/en/blog/hcp-vagrant-deprecation-important-dates-and-migration-guidance\">https://www.hashicorp.com/en/blog/hcp-vagrant-deprecation-important-dates-and...",
+      "published": "2026-10-13T22:16:12+00:00",
+      "domain": "hashicorp.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Nix and Lix local root-privilege-escalation vulnerabilities",
+      "link": "https://lwn.net/Articles/1100247/",
+      "summary": "<p>Article URL: <a href=\"https://lwn.net/Articles/1100247/\">https://lwn.net/Articles/1100247/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50079638\">https://news.ycombinator....",
+      "published": "2026-10-13T22:11:45+00:00",
+      "domain": "lwn.net",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Investing in Short AI Timelines",
+      "link": "https://cambrianmanagement.ai/",
+      "summary": "<p>Article URL: <a href=\"https://cambrianmanagement.ai/\">https://cambrianmanagement.ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50079629\">https://news.ycombinator.com/it...",
+      "published": "2026-10-13T22:11:06+00:00",
+      "domain": "cambrianmanagement.ai",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Climate change driving child marriages and teen pregnancies",
+      "link": "https://www.rfi.fr/en/environment/20261005-climate-change-driving-child-marriages-teen-pregnancies-report",
+      "summary": "<p>Article URL: <a href=\"https://www.rfi.fr/en/environment/20261005-climate-change-driving-child-marriages-teen-pregnancies-report\">https://www.rfi.fr/en/environment/20261005-climate-change-driving-ch...",
+      "published": "2026-10-13T22:10:19+00:00",
+      "domain": "rfi.fr",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The lowest level of programming isn't assembly or machine code, it's microcode",
+      "link": "https://www.reddit.com/user/SufianDira/comments/1wujz80/the_lowest_level_of_programming_isnt_assembly_or/",
+      "summary": "<p>Article URL: <a href=\"https://www.reddit.com/user/SufianDira/comments/1wujz80/the_lowest_level_of_programming_isnt_assembly_or/\">https://www.reddit.com/user/SufianDira/comments/1wujz80/the_lowest_l...",
+      "published": "2026-10-13T22:07:27+00:00",
+      "domain": "reddit.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "GitHub Tightens npm Publishing After Flaw Left 1,500+ Packages Vulnerable to Hijacking",
+      "link": "https://thehackernews.com/2026/10/github-tightens-npm-publishing-after.html",
+      "summary": "GitHub has taken the step of expiring unvalidated npm trusted publishing configurations 48 hours after creation after researchers found that it was possible for an attacker to push new versions of a d...",
+      "published": "2026-10-13T21:48:18+05:30",
       "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: Mana \u2013 family organizer with an AI assistant",
-      "link": "https://ourmana.app/",
-      "summary": "<p>Hi HN, I built Mana, a family organizer: shared calendars, shopping lists, receipt scanners, meal planning, chores, and notes for the whole household, with a built-in AI assistant (\"add milk and eg...",
-      "published": "2026-10-13T13:42:05+00:00",
-      "domain": "ourmana.app",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "When LLMs Fail at Classification",
-      "link": "https://jeffyclassify.com/blog/when-llms-fail-at-classification/",
-      "summary": "<p>Article URL: <a href=\"https://jeffyclassify.com/blog/when-llms-fail-at-classification/\">https://jeffyclassify.com/blog/when-llms-fail-at-classification/</a></p>\n<p>Comments URL: <a href=\"https://ne...",
-      "published": "2026-10-13T13:41:22+00:00",
-      "domain": "jeffyclassify.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Chinese Cars in Norway Stored Military Exercise Footage and Access Codes",
-      "link": "https://militarnyi.com/en/news/chinese-cars-in-norway-stored-military-exercise-footage-and-access-codes/",
-      "summary": "<p>Article URL: <a href=\"https://militarnyi.com/en/news/chinese-cars-in-norway-stored-military-exercise-footage-and-access-codes/\">https://militarnyi.com/en/news/chinese-cars-in-norway-stored-military...",
-      "published": "2026-10-13T13:40:40+00:00",
-      "domain": "militarnyi.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Virtual machines that live in your menu bar [macOS 27]",
-      "link": "https://swiftvm.app/",
-      "summary": "<p>Article URL: <a href=\"https://swiftvm.app/\">https://swiftvm.app/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50071611\">https://news.ycombinator.com/item?id=50071611</a></...",
-      "published": "2026-10-13T13:40:26+00:00",
-      "domain": "swiftvm.app",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Can you sue over targeted ads? 'Blockbuster' Supreme Court case to decide",
-      "link": "https://www.usatoday.com/story/news/politics/2026/10/13/supreme-court-video-privacy-law-targeted-advertising/92172142007/",
-      "summary": "<p>Article URL: <a href=\"https://www.usatoday.com/story/news/politics/2026/10/13/supreme-court-video-privacy-law-targeted-advertising/92172142007/\">https://www.usatoday.com/story/news/politics/2026/10...",
-      "published": "2026-10-13T13:40:12+00:00",
-      "domain": "usatoday.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -163,10 +163,10 @@
   ],
   "anarchy_ranked": [
     {
-      "title": "[Webinar] How to Stop AI-Driven Privilege Escalation With Runtime Identity Controls",
-      "link": "https://thehackernews.com/2026/10/webinar-how-to-stop-ai-driven-privilege.html",
-      "summary": "The dangerous part of a stolen identity isn't always the initial login. It's what an attacker can do with that access next.\n\nWith AI accelerating reconnaissance, exploitation of vulnerabilities, and p...",
-      "published": "2026-10-13T17:27:06+05:30",
+      "title": "Anthropic Warns Small AI Models Could Soon Form Self-Propagating IoT Botnets",
+      "link": "https://thehackernews.com/2026/10/anthropic-warns-small-ai-models-could.html",
+      "summary": "Small artificial intelligence (AI) models may be months away from developing capabilities to self-replicate on IoT devices like smart ovens and off-brand Android TV boxes, according to a warning from ...",
+      "published": "2026-10-13T23:50:57+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -179,10 +179,10 @@
       }
     },
     {
-      "title": "LG Smart TVs Vulnerable to Pre-Auth Root Takeover From Local Network",
-      "link": "https://thehackernews.com/2026/10/lg-smart-tvs-vulnerable-to-pre-auth.html",
-      "summary": "Three vulnerabilities in LG's webOS can be chained to give an attacker on the same local network root access to certain smart TVs without a PIN or any interaction from the owner.\n\nLG has issued a fix,...",
-      "published": "2026-10-13T16:39:10+05:30",
+      "title": "Docker Fixes Critical Two-Year-Old Hub Flaw That Let One User Push Images as Another",
+      "link": "https://thehackernews.com/2026/10/docker-fixes-critical-two-year-old-hub.html",
+      "summary": "A flaw in Docker Hub, the registry where container images are published and downloaded, let one user push, pull, or delete images as another user. Docker fixed the flaw on September 30 and says it fou...",
+      "published": "2026-10-13T23:33:18+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -195,10 +195,10 @@
       }
     },
     {
-      "title": "Product Walkthrough: Bitdefender AI Visibility and Control",
-      "link": "https://thehackernews.com/2026/10/product-walkthrough-bitdefender-ai.html",
-      "summary": "A user opens a browser tab, pastes data into a chat assistant, and nothing is installed.\n\nA developer adds a coding&nbsp;assistant as an editor extension, and nothing shows up in the installed program...",
-      "published": "2026-10-13T16:00:00+05:30",
+      "title": "Attacker Chains Three Ivanti Connect Secure Zero-Days for Root Access, Only Two Patched So Far",
+      "link": "https://thehackernews.com/2026/10/attacker-chains-three-ivanti-connect.html",
+      "summary": "An attacker chained three zero-day flaws in Ivanti Connect Secure, a VPN appliance, to run commands as root without logging in, security firm&nbsp;Volexity said&nbsp;on October 13. Ivanti has released...",
+      "published": "2026-10-13T23:03:11+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -211,10 +211,10 @@
       }
     },
     {
-      "title": "Attackers Heat French Supermarket Fridges Up to 50\u00b0C by Hijacking Danfoss Controllers",
-      "link": "https://thehackernews.com/2026/10/attackers-heat-french-supermarket.html",
-      "summary": "Attackers took remote control of fridges and freezers at hundreds of French supermarkets on the night of October 11 and warmed them, forcing stores to throw food away, several retail chains said.\n\nThe...",
-      "published": "2026-10-13T14:18:41+05:30",
+      "title": "SAP Discloses Critical CVSS 10 Flaw in Cloud SDK for Python Allowing OAuth2 Credential Theft",
+      "link": "https://thehackernews.com/2026/10/sap-discloses-critical-cvss-10-flaw-in.html",
+      "summary": "A flaw in SAP's&nbsp;Cloud SDK for Python&nbsp;can send an application's OAuth2 client credentials to a server an attacker controls, SAP said in a&nbsp;security advisory&nbsp;on October 13. The flaw a...",
+      "published": "2026-10-13T22:58:50+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -227,91 +227,91 @@
       }
     },
     {
-      "title": "Two Critical MarkLogic Flaws Could Give Delegated Managers Persistent Admin Control",
-      "link": "https://thehackernews.com/2026/10/two-critical-marklogic-flaws-could-give.html",
-      "summary": "Two of 31 newly disclosed flaws in Progress Software's&nbsp;MarkLogic Server&nbsp;database could let an account given only some management privileges take administrator control of the server, the comp...",
-      "published": "2026-10-13T14:14:01+05:30",
+      "title": "HCP Vagrant Deprecation",
+      "link": "https://www.hashicorp.com/en/blog/hcp-vagrant-deprecation-important-dates-and-migration-guidance",
+      "summary": "<p>Article URL: <a href=\"https://www.hashicorp.com/en/blog/hcp-vagrant-deprecation-important-dates-and-migration-guidance\">https://www.hashicorp.com/en/blog/hcp-vagrant-deprecation-important-dates-and...",
+      "published": "2026-10-13T22:16:12+00:00",
+      "domain": "hashicorp.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Nix and Lix local root-privilege-escalation vulnerabilities",
+      "link": "https://lwn.net/Articles/1100247/",
+      "summary": "<p>Article URL: <a href=\"https://lwn.net/Articles/1100247/\">https://lwn.net/Articles/1100247/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50079638\">https://news.ycombinator....",
+      "published": "2026-10-13T22:11:45+00:00",
+      "domain": "lwn.net",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Investing in Short AI Timelines",
+      "link": "https://cambrianmanagement.ai/",
+      "summary": "<p>Article URL: <a href=\"https://cambrianmanagement.ai/\">https://cambrianmanagement.ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50079629\">https://news.ycombinator.com/it...",
+      "published": "2026-10-13T22:11:06+00:00",
+      "domain": "cambrianmanagement.ai",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Climate change driving child marriages and teen pregnancies",
+      "link": "https://www.rfi.fr/en/environment/20261005-climate-change-driving-child-marriages-teen-pregnancies-report",
+      "summary": "<p>Article URL: <a href=\"https://www.rfi.fr/en/environment/20261005-climate-change-driving-child-marriages-teen-pregnancies-report\">https://www.rfi.fr/en/environment/20261005-climate-change-driving-ch...",
+      "published": "2026-10-13T22:10:19+00:00",
+      "domain": "rfi.fr",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The lowest level of programming isn't assembly or machine code, it's microcode",
+      "link": "https://www.reddit.com/user/SufianDira/comments/1wujz80/the_lowest_level_of_programming_isnt_assembly_or/",
+      "summary": "<p>Article URL: <a href=\"https://www.reddit.com/user/SufianDira/comments/1wujz80/the_lowest_level_of_programming_isnt_assembly_or/\">https://www.reddit.com/user/SufianDira/comments/1wujz80/the_lowest_l...",
+      "published": "2026-10-13T22:07:27+00:00",
+      "domain": "reddit.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "GitHub Tightens npm Publishing After Flaw Left 1,500+ Packages Vulnerable to Hijacking",
+      "link": "https://thehackernews.com/2026/10/github-tightens-npm-publishing-after.html",
+      "summary": "GitHub has taken the step of expiring unvalidated npm trusted publishing configurations 48 hours after creation after researchers found that it was possible for an attacker to push new versions of a d...",
+      "published": "2026-10-13T21:48:18+05:30",
       "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: Mana \u2013 family organizer with an AI assistant",
-      "link": "https://ourmana.app/",
-      "summary": "<p>Hi HN, I built Mana, a family organizer: shared calendars, shopping lists, receipt scanners, meal planning, chores, and notes for the whole household, with a built-in AI assistant (\"add milk and eg...",
-      "published": "2026-10-13T13:42:05+00:00",
-      "domain": "ourmana.app",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "When LLMs Fail at Classification",
-      "link": "https://jeffyclassify.com/blog/when-llms-fail-at-classification/",
-      "summary": "<p>Article URL: <a href=\"https://jeffyclassify.com/blog/when-llms-fail-at-classification/\">https://jeffyclassify.com/blog/when-llms-fail-at-classification/</a></p>\n<p>Comments URL: <a href=\"https://ne...",
-      "published": "2026-10-13T13:41:22+00:00",
-      "domain": "jeffyclassify.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Chinese Cars in Norway Stored Military Exercise Footage and Access Codes",
-      "link": "https://militarnyi.com/en/news/chinese-cars-in-norway-stored-military-exercise-footage-and-access-codes/",
-      "summary": "<p>Article URL: <a href=\"https://militarnyi.com/en/news/chinese-cars-in-norway-stored-military-exercise-footage-and-access-codes/\">https://militarnyi.com/en/news/chinese-cars-in-norway-stored-military...",
-      "published": "2026-10-13T13:40:40+00:00",
-      "domain": "militarnyi.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Virtual machines that live in your menu bar [macOS 27]",
-      "link": "https://swiftvm.app/",
-      "summary": "<p>Article URL: <a href=\"https://swiftvm.app/\">https://swiftvm.app/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50071611\">https://news.ycombinator.com/item?id=50071611</a></...",
-      "published": "2026-10-13T13:40:26+00:00",
-      "domain": "swiftvm.app",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Can you sue over targeted ads? 'Blockbuster' Supreme Court case to decide",
-      "link": "https://www.usatoday.com/story/news/politics/2026/10/13/supreme-court-video-privacy-law-targeted-advertising/92172142007/",
-      "summary": "<p>Article URL: <a href=\"https://www.usatoday.com/story/news/politics/2026/10/13/supreme-court-video-privacy-law-targeted-advertising/92172142007/\">https://www.usatoday.com/story/news/politics/2026/10...",
-      "published": "2026-10-13T13:40:12+00:00",
-      "domain": "usatoday.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -325,10 +325,10 @@
   ],
   "overall_ranked": [
     {
-      "title": "[Webinar] How to Stop AI-Driven Privilege Escalation With Runtime Identity Controls",
-      "link": "https://thehackernews.com/2026/10/webinar-how-to-stop-ai-driven-privilege.html",
-      "summary": "The dangerous part of a stolen identity isn't always the initial login. It's what an attacker can do with that access next.\n\nWith AI accelerating reconnaissance, exploitation of vulnerabilities, and p...",
-      "published": "2026-10-13T17:27:06+05:30",
+      "title": "Anthropic Warns Small AI Models Could Soon Form Self-Propagating IoT Botnets",
+      "link": "https://thehackernews.com/2026/10/anthropic-warns-small-ai-models-could.html",
+      "summary": "Small artificial intelligence (AI) models may be months away from developing capabilities to self-replicate on IoT devices like smart ovens and off-brand Android TV boxes, according to a warning from ...",
+      "published": "2026-10-13T23:50:57+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -341,10 +341,10 @@
       }
     },
     {
-      "title": "LG Smart TVs Vulnerable to Pre-Auth Root Takeover From Local Network",
-      "link": "https://thehackernews.com/2026/10/lg-smart-tvs-vulnerable-to-pre-auth.html",
-      "summary": "Three vulnerabilities in LG's webOS can be chained to give an attacker on the same local network root access to certain smart TVs without a PIN or any interaction from the owner.\n\nLG has issued a fix,...",
-      "published": "2026-10-13T16:39:10+05:30",
+      "title": "Docker Fixes Critical Two-Year-Old Hub Flaw That Let One User Push Images as Another",
+      "link": "https://thehackernews.com/2026/10/docker-fixes-critical-two-year-old-hub.html",
+      "summary": "A flaw in Docker Hub, the registry where container images are published and downloaded, let one user push, pull, or delete images as another user. Docker fixed the flaw on September 30 and says it fou...",
+      "published": "2026-10-13T23:33:18+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -357,10 +357,10 @@
       }
     },
     {
-      "title": "Product Walkthrough: Bitdefender AI Visibility and Control",
-      "link": "https://thehackernews.com/2026/10/product-walkthrough-bitdefender-ai.html",
-      "summary": "A user opens a browser tab, pastes data into a chat assistant, and nothing is installed.\n\nA developer adds a coding&nbsp;assistant as an editor extension, and nothing shows up in the installed program...",
-      "published": "2026-10-13T16:00:00+05:30",
+      "title": "Attacker Chains Three Ivanti Connect Secure Zero-Days for Root Access, Only Two Patched So Far",
+      "link": "https://thehackernews.com/2026/10/attacker-chains-three-ivanti-connect.html",
+      "summary": "An attacker chained three zero-day flaws in Ivanti Connect Secure, a VPN appliance, to run commands as root without logging in, security firm&nbsp;Volexity said&nbsp;on October 13. Ivanti has released...",
+      "published": "2026-10-13T23:03:11+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -373,10 +373,10 @@
       }
     },
     {
-      "title": "Attackers Heat French Supermarket Fridges Up to 50\u00b0C by Hijacking Danfoss Controllers",
-      "link": "https://thehackernews.com/2026/10/attackers-heat-french-supermarket.html",
-      "summary": "Attackers took remote control of fridges and freezers at hundreds of French supermarkets on the night of October 11 and warmed them, forcing stores to throw food away, several retail chains said.\n\nThe...",
-      "published": "2026-10-13T14:18:41+05:30",
+      "title": "SAP Discloses Critical CVSS 10 Flaw in Cloud SDK for Python Allowing OAuth2 Credential Theft",
+      "link": "https://thehackernews.com/2026/10/sap-discloses-critical-cvss-10-flaw-in.html",
+      "summary": "A flaw in SAP's&nbsp;Cloud SDK for Python&nbsp;can send an application's OAuth2 client credentials to a server an attacker controls, SAP said in a&nbsp;security advisory&nbsp;on October 13. The flaw a...",
+      "published": "2026-10-13T22:58:50+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -389,91 +389,91 @@
       }
     },
     {
-      "title": "Two Critical MarkLogic Flaws Could Give Delegated Managers Persistent Admin Control",
-      "link": "https://thehackernews.com/2026/10/two-critical-marklogic-flaws-could-give.html",
-      "summary": "Two of 31 newly disclosed flaws in Progress Software's&nbsp;MarkLogic Server&nbsp;database could let an account given only some management privileges take administrator control of the server, the comp...",
-      "published": "2026-10-13T14:14:01+05:30",
+      "title": "HCP Vagrant Deprecation",
+      "link": "https://www.hashicorp.com/en/blog/hcp-vagrant-deprecation-important-dates-and-migration-guidance",
+      "summary": "<p>Article URL: <a href=\"https://www.hashicorp.com/en/blog/hcp-vagrant-deprecation-important-dates-and-migration-guidance\">https://www.hashicorp.com/en/blog/hcp-vagrant-deprecation-important-dates-and...",
+      "published": "2026-10-13T22:16:12+00:00",
+      "domain": "hashicorp.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Nix and Lix local root-privilege-escalation vulnerabilities",
+      "link": "https://lwn.net/Articles/1100247/",
+      "summary": "<p>Article URL: <a href=\"https://lwn.net/Articles/1100247/\">https://lwn.net/Articles/1100247/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50079638\">https://news.ycombinator....",
+      "published": "2026-10-13T22:11:45+00:00",
+      "domain": "lwn.net",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Investing in Short AI Timelines",
+      "link": "https://cambrianmanagement.ai/",
+      "summary": "<p>Article URL: <a href=\"https://cambrianmanagement.ai/\">https://cambrianmanagement.ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50079629\">https://news.ycombinator.com/it...",
+      "published": "2026-10-13T22:11:06+00:00",
+      "domain": "cambrianmanagement.ai",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Climate change driving child marriages and teen pregnancies",
+      "link": "https://www.rfi.fr/en/environment/20261005-climate-change-driving-child-marriages-teen-pregnancies-report",
+      "summary": "<p>Article URL: <a href=\"https://www.rfi.fr/en/environment/20261005-climate-change-driving-child-marriages-teen-pregnancies-report\">https://www.rfi.fr/en/environment/20261005-climate-change-driving-ch...",
+      "published": "2026-10-13T22:10:19+00:00",
+      "domain": "rfi.fr",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The lowest level of programming isn't assembly or machine code, it's microcode",
+      "link": "https://www.reddit.com/user/SufianDira/comments/1wujz80/the_lowest_level_of_programming_isnt_assembly_or/",
+      "summary": "<p>Article URL: <a href=\"https://www.reddit.com/user/SufianDira/comments/1wujz80/the_lowest_level_of_programming_isnt_assembly_or/\">https://www.reddit.com/user/SufianDira/comments/1wujz80/the_lowest_l...",
+      "published": "2026-10-13T22:07:27+00:00",
+      "domain": "reddit.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "GitHub Tightens npm Publishing After Flaw Left 1,500+ Packages Vulnerable to Hijacking",
+      "link": "https://thehackernews.com/2026/10/github-tightens-npm-publishing-after.html",
+      "summary": "GitHub has taken the step of expiring unvalidated npm trusted publishing configurations 48 hours after creation after researchers found that it was possible for an attacker to push new versions of a d...",
+      "published": "2026-10-13T21:48:18+05:30",
       "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: Mana \u2013 family organizer with an AI assistant",
-      "link": "https://ourmana.app/",
-      "summary": "<p>Hi HN, I built Mana, a family organizer: shared calendars, shopping lists, receipt scanners, meal planning, chores, and notes for the whole household, with a built-in AI assistant (\"add milk and eg...",
-      "published": "2026-10-13T13:42:05+00:00",
-      "domain": "ourmana.app",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "When LLMs Fail at Classification",
-      "link": "https://jeffyclassify.com/blog/when-llms-fail-at-classification/",
-      "summary": "<p>Article URL: <a href=\"https://jeffyclassify.com/blog/when-llms-fail-at-classification/\">https://jeffyclassify.com/blog/when-llms-fail-at-classification/</a></p>\n<p>Comments URL: <a href=\"https://ne...",
-      "published": "2026-10-13T13:41:22+00:00",
-      "domain": "jeffyclassify.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Chinese Cars in Norway Stored Military Exercise Footage and Access Codes",
-      "link": "https://militarnyi.com/en/news/chinese-cars-in-norway-stored-military-exercise-footage-and-access-codes/",
-      "summary": "<p>Article URL: <a href=\"https://militarnyi.com/en/news/chinese-cars-in-norway-stored-military-exercise-footage-and-access-codes/\">https://militarnyi.com/en/news/chinese-cars-in-norway-stored-military...",
-      "published": "2026-10-13T13:40:40+00:00",
-      "domain": "militarnyi.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Virtual machines that live in your menu bar [macOS 27]",
-      "link": "https://swiftvm.app/",
-      "summary": "<p>Article URL: <a href=\"https://swiftvm.app/\">https://swiftvm.app/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50071611\">https://news.ycombinator.com/item?id=50071611</a></...",
-      "published": "2026-10-13T13:40:26+00:00",
-      "domain": "swiftvm.app",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Can you sue over targeted ads? 'Blockbuster' Supreme Court case to decide",
-      "link": "https://www.usatoday.com/story/news/politics/2026/10/13/supreme-court-video-privacy-law-targeted-advertising/92172142007/",
-      "summary": "<p>Article URL: <a href=\"https://www.usatoday.com/story/news/politics/2026/10/13/supreme-court-video-privacy-law-targeted-advertising/92172142007/\">https://www.usatoday.com/story/news/politics/2026/10...",
-      "published": "2026-10-13T13:40:12+00:00",
-      "domain": "usatoday.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -487,10 +487,10 @@
   ],
   "all_articles": [
     {
-      "title": "[Webinar] How to Stop AI-Driven Privilege Escalation With Runtime Identity Controls",
-      "link": "https://thehackernews.com/2026/10/webinar-how-to-stop-ai-driven-privilege.html",
-      "summary": "The dangerous part of a stolen identity isn't always the initial login. It's what an attacker can do with that access next.\n\nWith AI accelerating reconnaissance, exploitation of vulnerabilities, and p...",
-      "published": "2026-10-13T17:27:06+05:30",
+      "title": "Anthropic Warns Small AI Models Could Soon Form Self-Propagating IoT Botnets",
+      "link": "https://thehackernews.com/2026/10/anthropic-warns-small-ai-models-could.html",
+      "summary": "Small artificial intelligence (AI) models may be months away from developing capabilities to self-replicate on IoT devices like smart ovens and off-brand Android TV boxes, according to a warning from ...",
+      "published": "2026-10-13T23:50:57+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -503,10 +503,10 @@
       }
     },
     {
-      "title": "LG Smart TVs Vulnerable to Pre-Auth Root Takeover From Local Network",
-      "link": "https://thehackernews.com/2026/10/lg-smart-tvs-vulnerable-to-pre-auth.html",
-      "summary": "Three vulnerabilities in LG's webOS can be chained to give an attacker on the same local network root access to certain smart TVs without a PIN or any interaction from the owner.\n\nLG has issued a fix,...",
-      "published": "2026-10-13T16:39:10+05:30",
+      "title": "Docker Fixes Critical Two-Year-Old Hub Flaw That Let One User Push Images as Another",
+      "link": "https://thehackernews.com/2026/10/docker-fixes-critical-two-year-old-hub.html",
+      "summary": "A flaw in Docker Hub, the registry where container images are published and downloaded, let one user push, pull, or delete images as another user. Docker fixed the flaw on September 30 and says it fou...",
+      "published": "2026-10-13T23:33:18+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -519,10 +519,10 @@
       }
     },
     {
-      "title": "Product Walkthrough: Bitdefender AI Visibility and Control",
-      "link": "https://thehackernews.com/2026/10/product-walkthrough-bitdefender-ai.html",
-      "summary": "A user opens a browser tab, pastes data into a chat assistant, and nothing is installed.\n\nA developer adds a coding&nbsp;assistant as an editor extension, and nothing shows up in the installed program...",
-      "published": "2026-10-13T16:00:00+05:30",
+      "title": "Attacker Chains Three Ivanti Connect Secure Zero-Days for Root Access, Only Two Patched So Far",
+      "link": "https://thehackernews.com/2026/10/attacker-chains-three-ivanti-connect.html",
+      "summary": "An attacker chained three zero-day flaws in Ivanti Connect Secure, a VPN appliance, to run commands as root without logging in, security firm&nbsp;Volexity said&nbsp;on October 13. Ivanti has released...",
+      "published": "2026-10-13T23:03:11+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -535,10 +535,10 @@
       }
     },
     {
-      "title": "Attackers Heat French Supermarket Fridges Up to 50\u00b0C by Hijacking Danfoss Controllers",
-      "link": "https://thehackernews.com/2026/10/attackers-heat-french-supermarket.html",
-      "summary": "Attackers took remote control of fridges and freezers at hundreds of French supermarkets on the night of October 11 and warmed them, forcing stores to throw food away, several retail chains said.\n\nThe...",
-      "published": "2026-10-13T14:18:41+05:30",
+      "title": "SAP Discloses Critical CVSS 10 Flaw in Cloud SDK for Python Allowing OAuth2 Credential Theft",
+      "link": "https://thehackernews.com/2026/10/sap-discloses-critical-cvss-10-flaw-in.html",
+      "summary": "A flaw in SAP's&nbsp;Cloud SDK for Python&nbsp;can send an application's OAuth2 client credentials to a server an attacker controls, SAP said in a&nbsp;security advisory&nbsp;on October 13. The flaw a...",
+      "published": "2026-10-13T22:58:50+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -551,91 +551,91 @@
       }
     },
     {
-      "title": "Two Critical MarkLogic Flaws Could Give Delegated Managers Persistent Admin Control",
-      "link": "https://thehackernews.com/2026/10/two-critical-marklogic-flaws-could-give.html",
-      "summary": "Two of 31 newly disclosed flaws in Progress Software's&nbsp;MarkLogic Server&nbsp;database could let an account given only some management privileges take administrator control of the server, the comp...",
-      "published": "2026-10-13T14:14:01+05:30",
+      "title": "HCP Vagrant Deprecation",
+      "link": "https://www.hashicorp.com/en/blog/hcp-vagrant-deprecation-important-dates-and-migration-guidance",
+      "summary": "<p>Article URL: <a href=\"https://www.hashicorp.com/en/blog/hcp-vagrant-deprecation-important-dates-and-migration-guidance\">https://www.hashicorp.com/en/blog/hcp-vagrant-deprecation-important-dates-and...",
+      "published": "2026-10-13T22:16:12+00:00",
+      "domain": "hashicorp.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Nix and Lix local root-privilege-escalation vulnerabilities",
+      "link": "https://lwn.net/Articles/1100247/",
+      "summary": "<p>Article URL: <a href=\"https://lwn.net/Articles/1100247/\">https://lwn.net/Articles/1100247/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50079638\">https://news.ycombinator....",
+      "published": "2026-10-13T22:11:45+00:00",
+      "domain": "lwn.net",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Investing in Short AI Timelines",
+      "link": "https://cambrianmanagement.ai/",
+      "summary": "<p>Article URL: <a href=\"https://cambrianmanagement.ai/\">https://cambrianmanagement.ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50079629\">https://news.ycombinator.com/it...",
+      "published": "2026-10-13T22:11:06+00:00",
+      "domain": "cambrianmanagement.ai",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Climate change driving child marriages and teen pregnancies",
+      "link": "https://www.rfi.fr/en/environment/20261005-climate-change-driving-child-marriages-teen-pregnancies-report",
+      "summary": "<p>Article URL: <a href=\"https://www.rfi.fr/en/environment/20261005-climate-change-driving-child-marriages-teen-pregnancies-report\">https://www.rfi.fr/en/environment/20261005-climate-change-driving-ch...",
+      "published": "2026-10-13T22:10:19+00:00",
+      "domain": "rfi.fr",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The lowest level of programming isn't assembly or machine code, it's microcode",
+      "link": "https://www.reddit.com/user/SufianDira/comments/1wujz80/the_lowest_level_of_programming_isnt_assembly_or/",
+      "summary": "<p>Article URL: <a href=\"https://www.reddit.com/user/SufianDira/comments/1wujz80/the_lowest_level_of_programming_isnt_assembly_or/\">https://www.reddit.com/user/SufianDira/comments/1wujz80/the_lowest_l...",
+      "published": "2026-10-13T22:07:27+00:00",
+      "domain": "reddit.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "GitHub Tightens npm Publishing After Flaw Left 1,500+ Packages Vulnerable to Hijacking",
+      "link": "https://thehackernews.com/2026/10/github-tightens-npm-publishing-after.html",
+      "summary": "GitHub has taken the step of expiring unvalidated npm trusted publishing configurations 48 hours after creation after researchers found that it was possible for an attacker to push new versions of a d...",
+      "published": "2026-10-13T21:48:18+05:30",
       "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: Mana \u2013 family organizer with an AI assistant",
-      "link": "https://ourmana.app/",
-      "summary": "<p>Hi HN, I built Mana, a family organizer: shared calendars, shopping lists, receipt scanners, meal planning, chores, and notes for the whole household, with a built-in AI assistant (\"add milk and eg...",
-      "published": "2026-10-13T13:42:05+00:00",
-      "domain": "ourmana.app",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "When LLMs Fail at Classification",
-      "link": "https://jeffyclassify.com/blog/when-llms-fail-at-classification/",
-      "summary": "<p>Article URL: <a href=\"https://jeffyclassify.com/blog/when-llms-fail-at-classification/\">https://jeffyclassify.com/blog/when-llms-fail-at-classification/</a></p>\n<p>Comments URL: <a href=\"https://ne...",
-      "published": "2026-10-13T13:41:22+00:00",
-      "domain": "jeffyclassify.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Chinese Cars in Norway Stored Military Exercise Footage and Access Codes",
-      "link": "https://militarnyi.com/en/news/chinese-cars-in-norway-stored-military-exercise-footage-and-access-codes/",
-      "summary": "<p>Article URL: <a href=\"https://militarnyi.com/en/news/chinese-cars-in-norway-stored-military-exercise-footage-and-access-codes/\">https://militarnyi.com/en/news/chinese-cars-in-norway-stored-military...",
-      "published": "2026-10-13T13:40:40+00:00",
-      "domain": "militarnyi.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Virtual machines that live in your menu bar [macOS 27]",
-      "link": "https://swiftvm.app/",
-      "summary": "<p>Article URL: <a href=\"https://swiftvm.app/\">https://swiftvm.app/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50071611\">https://news.ycombinator.com/item?id=50071611</a></...",
-      "published": "2026-10-13T13:40:26+00:00",
-      "domain": "swiftvm.app",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Can you sue over targeted ads? 'Blockbuster' Supreme Court case to decide",
-      "link": "https://www.usatoday.com/story/news/politics/2026/10/13/supreme-court-video-privacy-law-targeted-advertising/92172142007/",
-      "summary": "<p>Article URL: <a href=\"https://www.usatoday.com/story/news/politics/2026/10/13/supreme-court-video-privacy-law-targeted-advertising/92172142007/\">https://www.usatoday.com/story/news/politics/2026/10...",
-      "published": "2026-10-13T13:40:12+00:00",
-      "domain": "usatoday.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,

@@ -16,17 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### [Webinar] How to Stop AI-Driven Privilege Escalation With Runtime Identity Controls
+### Anthropic Warns Small AI Models Could Soon Form Self-Propagating IoT Botnets
 - **Published**: October 13, 2026
-- **Summary**: The dangerous part of a stolen identity isn't always the initial login. It's what an attacker can do with that access next.
+- **Summary**: Small artificial intelligence (AI) models may be months away from developing capabilities to self-replicate on IoT devices like smart ovens and off-br...
+- [Read more](https://thehackernews.com/2026/10/anthropic-warns-small-ai-models-could.html)
 
-With AI accelerating reco...
-- [Read more](https://thehackernews.com/2026/10/webinar-how-to-stop-ai-driven-privilege.html)
-
-### LG Smart TVs Vulnerable to Pre-Auth Root Takeover From Local Network
+### Docker Fixes Critical Two-Year-Old Hub Flaw That Let One User Push Images as Another
 - **Published**: October 13, 2026
-- **Summary**: Three vulnerabilities in LG's webOS can be chained to give an attacker on the same local network root access to certain smart TVs without a PIN or any...
-- [Read more](https://thehackernews.com/2026/10/lg-smart-tvs-vulnerable-to-pre-auth.html)
+- **Summary**: A flaw in Docker Hub, the registry where container images are published and downloaded, let one user push, pull, or delete images as another user. Doc...
+- [Read more](https://thehackernews.com/2026/10/docker-fixes-critical-two-year-old-hub.html)
 
 ---
 
