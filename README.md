@@ -16,15 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Highlights from "6 Years Developing a Game in Rust: AMA" (2024)
+### [Webinar] How to Stop AI-Driven Privilege Escalation With Runtime Identity Controls
 - **Published**: October 13, 2026
-- **Summary**: https://gamesbymason.com/blog/2024/6-years-in-rust-ama/#what-made-you-decide-to-use-r......
-- [Read more](https://gamesbymason.com/blog/2024/6-years-in-rust-ama/#what-made-you-decide-to-use-rust)
+- **Summary**: The dangerous part of a stolen identity isn't always the initial login. It's what an attacker can do with that access next.
 
-### Chain Inspiring License, a copyleft for the REA era
+With AI accelerating reco...
+- [Read more](https://thehackernews.com/2026/10/webinar-how-to-stop-ai-driven-privilege.html)
+
+### LG Smart TVs Vulnerable to Pre-Auth Root Takeover From Local Network
 - **Published**: October 13, 2026
-- **Summary**: https://github.com/congrid-project/content-grid-chain/blob/main/CHAIN-INSPIRING-LIC......
-- [Read more](https://github.com/congrid-project/content-grid-chain/blob/main/CHAIN-INSPIRING-LICENSE.md)
+- **Summary**: Three vulnerabilities in LG's webOS can be chained to give an attacker on the same local network root access to certain smart TVs without a PIN or any...
+- [Read more](https://thehackernews.com/2026/10/lg-smart-tvs-vulnerable-to-pre-auth.html)
 
 ---
 
