@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Bring Your Own Agent: Your Employees' Assistants Are Already Logged In
-- **Published**: October 12, 2026
-- **Summary**: The personal AI agents rollout is going about as smoothly as expected: Amazon now blocks Meta's Muse because it doesn't identify itself as a bot while...
-- [Read more](https://thehackernews.com/2026/10/bring-your-own-agent-your-employees.html)
+### Highlights from "6 Years Developing a Game in Rust: AMA" (2024)
+- **Published**: October 13, 2026
+- **Summary**: https://gamesbymason.com/blog/2024/6-years-in-rust-ama/#what-made-you-decide-to-use-r......
+- [Read more](https://gamesbymason.com/blog/2024/6-years-in-rust-ama/#what-made-you-decide-to-use-rust)
 
-### Ledger Finds Unauthorized Hardware Implant in CryptoBilis-Sold Wallet Amid Fund Theft Reports
-- **Published**: October 12, 2026
-- **Summary**: Cryptocurrency hardware maker Ledger has temporarily paused sales of its products via CryptoBilis following reports of stolen funds linked to devices ...
-- [Read more](https://thehackernews.com/2026/10/ledger-finds-unauthorized-hardware.html)
+### Chain Inspiring License, a copyleft for the REA era
+- **Published**: October 13, 2026
+- **Summary**: https://github.com/congrid-project/content-grid-chain/blob/main/CHAIN-INSPIRING-LIC......
+- [Read more](https://github.com/congrid-project/content-grid-chain/blob/main/CHAIN-INSPIRING-LICENSE.md)
 
 ---
 
