@@ -1,28 +1,28 @@
 {
   "chaos_ranked": [
     {
-      "title": "Four-Byte Write and Timing Bug Let Researchers Run Code in Windows SmartScreen Enclave",
-      "link": "https://thehackernews.com/2026/10/four-byte-write-and-timing-bug-let.html",
-      "summary": "Security researchers ran their own code inside a protected part of Windows that is meant to stay sealed off even when the rest of the computer is taken over.\n\nThe protected area is a VBS enclave, an i...",
-      "published": "2026-10-14T11:22:28+05:30",
+      "title": "How to Run a Deepfake Readiness Drill Before a Cloned Voice Calls Your Team",
+      "link": "https://thehackernews.com/2026/10/how-to-run-deepfake-readiness-drill.html",
+      "summary": "Cloned voices and synthetic video calls now show up in payment fraud, help desk resets, and access requests. A structured drill shows security teams exactly where verification breaks down, while nothi...",
+      "published": "2026-10-14T17:20:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
-        "chaos": 9.7,
+        "chaos": 9.2,
         "anarchy": 3.0,
-        "overall": 6.4
+        "overall": 6.1
       },
       "keywords": {
         "chaos": [
-          "bug"
+          "down"
         ],
         "anarchy": []
       }
     },
     {
-      "title": "AI-Found Linux Kernel Flaw Gives Local Users Root, and Can Break a Guest Out to the Host",
-      "link": "https://thehackernews.com/2026/10/ai-found-linux-kernel-flaw-gives-local.html",
-      "summary": "A flaw in Linux's vhost subsystem lets a local user read and write kernel memory at will and become root across nearly a decade of kernel versions. In one virtualization setup, it lets an untrusted vi...",
-      "published": "2026-10-14T13:16:57+05:30",
+      "title": "CISA Urges Immediate Ivanti Connect Secure Updates as Honeypots Log 105 Exploit Attempts",
+      "link": "https://thehackernews.com/2026/10/cisa-urges-immediate-ivanti-connect.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday urged organizations to take steps to immediately update their Ivanti Connect Secure (ICS) appliances and deployments to the ...",
+      "published": "2026-10-14T18:00:42+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -35,11 +35,11 @@
       }
     },
     {
-      "title": "Future for Software Developers",
-      "link": "https://trevorarnold.substack.com/p/future-of-software-development",
-      "summary": "<p>Article URL: <a href=\"https://trevorarnold.substack.com/p/future-of-software-development\">https://trevorarnold.substack.com/p/future-of-software-development</a></p>\n<p>Comments URL: <a href=\"https:...",
-      "published": "2026-10-14T11:13:41+00:00",
-      "domain": "trevorarnold.substack.com",
+      "title": "curl Patches HTTP/2 Upload Flaw After PoC Demonstrates Client-Side Code Execution",
+      "link": "https://thehackernews.com/2026/10/curl-patches-http2-upload-flaw-after.html",
+      "summary": "A flaw in how curl handles HTTP/2 uploads lets a malicious server receiving an upload corrupt the client's memory, and the researcher who reported it turned that into code execution on the uploading m...",
+      "published": "2026-10-14T17:43:36+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -51,11 +51,11 @@
       }
     },
     {
-      "title": "Gambling on Democracy",
-      "link": "https://acdatacollective.org/work/gambling-on-democracy/",
-      "summary": "<p>Article URL: <a href=\"https://acdatacollective.org/work/gambling-on-democracy/\">https://acdatacollective.org/work/gambling-on-democracy/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.c...",
-      "published": "2026-10-14T11:13:21+00:00",
-      "domain": "acdatacollective.org",
+      "title": "Researchers Used a Public OpenAI Model to Build a $250,000 Chrome Full-Chain Exploit in Six Days",
+      "link": "https://thehackernews.com/2026/10/researchers-used-public-openai-model-to.html",
+      "summary": "A team at security firm XBOW chained three then-unknown Google Chrome bugs into a single attack that runs code on a Windows computer when the user only loads a web page, the company said.\n\nIts researc...",
+      "published": "2026-10-14T16:49:02+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -67,11 +67,11 @@
       }
     },
     {
-      "title": "Investigating $100B in Fraud [video]",
-      "link": "https://www.youtube.com/watch?v=9eWJISlh0fw",
-      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=9eWJISlh0fw\">https://www.youtube.com/watch?v=9eWJISlh0fw</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50085781\">https...",
-      "published": "2026-10-14T11:11:09+00:00",
-      "domain": "youtube.com",
+      "title": "IA Presenter",
+      "link": "https://ia.net/presenter",
+      "summary": "<p>Article URL: <a href=\"https://ia.net/presenter\">https://ia.net/presenter</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50090557\">https://news.ycombinator.com/item?id=500905...",
+      "published": "2026-10-14T16:39:01+00:00",
+      "domain": "ia.net",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -83,11 +83,11 @@
       }
     },
     {
-      "title": "Are Harnesses Worth the Cost?",
-      "link": "https://martinfowler.com/articles/are-harnesses-worth-the-cost.html",
-      "summary": "<p>Article URL: <a href=\"https://martinfowler.com/articles/are-harnesses-worth-the-cost.html\">https://martinfowler.com/articles/are-harnesses-worth-the-cost.html</a></p>\n<p>Comments URL: <a href=\"http...",
-      "published": "2026-10-14T11:10:25+00:00",
-      "domain": "martinfowler.com",
+      "title": "Hirudo Android Trojan Uses Patched Banking Apps to Bypass Their Built-In Security Checks",
+      "link": "https://thehackernews.com/2026/10/hirudo-android-trojan-uses-patched.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new Android banking trojan called Hirudo that works by replacing legitimate banking apps with purpose-built patched versions designed to bypass se...",
+      "published": "2026-10-14T16:38:22+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -99,11 +99,11 @@
       }
     },
     {
-      "title": "Language Oriented Low Level Programming with Pille [video]",
-      "link": "https://www.youtube.com/watch?v=aEJE5IimvyM",
-      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=aEJE5IimvyM\">https://www.youtube.com/watch?v=aEJE5IimvyM</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50085771\">https...",
-      "published": "2026-10-14T11:09:36+00:00",
-      "domain": "youtube.com",
+      "title": "\"No way to prevent this\" say users of only language where this regularly happens",
+      "link": "https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-92392/",
+      "summary": "<p>Article URL: <a href=\"https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-92392/\">https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-92392/</a></p>\n<p...",
+      "published": "2026-10-14T16:37:39+00:00",
+      "domain": "xeiaso.net",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -115,11 +115,11 @@
       }
     },
     {
-      "title": "Show HN: Building an LLM from Scratch in TypeScript",
-      "link": "https://book.humanexperiences.io/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=50085332\">Comments</a>...",
-      "published": "2026-10-14T10:29:56+00:00",
-      "domain": "book.humanexperiences.io",
+      "title": "AxiomCode Graph, Reducing coding agent rework with formal methods",
+      "link": "https://github.com/AxiomCodeAI/axiomcodegraph",
+      "summary": "<p>Article URL: <a href=\"https://github.com/AxiomCodeAI/axiomcodegraph\">https://github.com/AxiomCodeAI/axiomcodegraph</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50090514\">h...",
+      "published": "2026-10-14T16:36:36+00:00",
+      "domain": "github.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -131,11 +131,11 @@
       }
     },
     {
-      "title": "I let an AI run my startup for a week",
-      "link": "https://daily.tinyprojects.dev/221",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=50085296\">Comments</a>...",
-      "published": "2026-10-14T10:25:48+00:00",
-      "domain": "daily.tinyprojects.dev",
+      "title": "I Deleted 168,000 Lines of Comments. My AI Agent Didn't Notice",
+      "link": "https://openstation.blog/2026/10/13/i-deleted-168000-lines-of-comments-my-ai-agent-didnt-notice/",
+      "summary": "<p>Article URL: <a href=\"https://openstation.blog/2026/10/13/i-deleted-168000-lines-of-comments-my-ai-agent-didnt-notice/\">https://openstation.blog/2026/10/13/i-deleted-168000-lines-of-comments-my-ai-...",
+      "published": "2026-10-14T16:34:53+00:00",
+      "domain": "openstation.blog",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -147,11 +147,11 @@
       }
     },
     {
-      "title": "Agent erased full season of \"The Challenge Swe\": \"Hundreds of days of work gone\"",
-      "link": "https://www.aviaduct.com/?l=og+en&u=https%3A%2F%2Fwww.aftonbladet.se%2Fnojesbladet%2Fa%2F31oE8A%2Fthe-challenge-sverige-raderad-av-ai-bara-veckor-innan-premiaren",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=50085259\">Comments</a>...",
-      "published": "2026-10-14T10:21:13+00:00",
-      "domain": "aviaduct.com",
+      "title": "Repairing the iPhone Duo's folding screen costs as much as a new iPhone",
+      "link": "https://www.theverge.com/tech/1011245/iphone-duo-repair-costs-applecare",
+      "summary": "<p>Article URL: <a href=\"https://www.theverge.com/tech/1011245/iphone-duo-repair-costs-applecare\">https://www.theverge.com/tech/1011245/iphone-duo-repair-costs-applecare</a></p>\n<p>Comments URL: <a hr...",
+      "published": "2026-10-14T16:34:40+00:00",
+      "domain": "theverge.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -165,10 +165,10 @@
   ],
   "anarchy_ranked": [
     {
-      "title": "AI-Found Linux Kernel Flaw Gives Local Users Root, and Can Break a Guest Out to the Host",
-      "link": "https://thehackernews.com/2026/10/ai-found-linux-kernel-flaw-gives-local.html",
-      "summary": "A flaw in Linux's vhost subsystem lets a local user read and write kernel memory at will and become root across nearly a decade of kernel versions. In one virtualization setup, it lets an untrusted vi...",
-      "published": "2026-10-14T13:16:57+05:30",
+      "title": "CISA Urges Immediate Ivanti Connect Secure Updates as Honeypots Log 105 Exploit Attempts",
+      "link": "https://thehackernews.com/2026/10/cisa-urges-immediate-ivanti-connect.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday urged organizations to take steps to immediately update their Ivanti Connect Secure (ICS) appliances and deployments to the ...",
+      "published": "2026-10-14T18:00:42+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -181,29 +181,45 @@
       }
     },
     {
-      "title": "Four-Byte Write and Timing Bug Let Researchers Run Code in Windows SmartScreen Enclave",
-      "link": "https://thehackernews.com/2026/10/four-byte-write-and-timing-bug-let.html",
-      "summary": "Security researchers ran their own code inside a protected part of Windows that is meant to stay sealed off even when the rest of the computer is taken over.\n\nThe protected area is a VBS enclave, an i...",
-      "published": "2026-10-14T11:22:28+05:30",
+      "title": "curl Patches HTTP/2 Upload Flaw After PoC Demonstrates Client-Side Code Execution",
+      "link": "https://thehackernews.com/2026/10/curl-patches-http2-upload-flaw-after.html",
+      "summary": "A flaw in how curl handles HTTP/2 uploads lets a malicious server receiving an upload corrupt the client's memory, and the researcher who reported it turned that into code execution on the uploading m...",
+      "published": "2026-10-14T17:43:36+05:30",
       "domain": "thehackernews.com",
       "scores": {
-        "chaos": 9.7,
+        "chaos": 3.0,
         "anarchy": 3.0,
-        "overall": 6.4
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "How to Run a Deepfake Readiness Drill Before a Cloned Voice Calls Your Team",
+      "link": "https://thehackernews.com/2026/10/how-to-run-deepfake-readiness-drill.html",
+      "summary": "Cloned voices and synthetic video calls now show up in payment fraud, help desk resets, and access requests. A structured drill shows security teams exactly where verification breaks down, while nothi...",
+      "published": "2026-10-14T17:20:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 9.2,
+        "anarchy": 3.0,
+        "overall": 6.1
       },
       "keywords": {
         "chaos": [
-          "bug"
+          "down"
         ],
         "anarchy": []
       }
     },
     {
-      "title": "Future for Software Developers",
-      "link": "https://trevorarnold.substack.com/p/future-of-software-development",
-      "summary": "<p>Article URL: <a href=\"https://trevorarnold.substack.com/p/future-of-software-development\">https://trevorarnold.substack.com/p/future-of-software-development</a></p>\n<p>Comments URL: <a href=\"https:...",
-      "published": "2026-10-14T11:13:41+00:00",
-      "domain": "trevorarnold.substack.com",
+      "title": "Researchers Used a Public OpenAI Model to Build a $250,000 Chrome Full-Chain Exploit in Six Days",
+      "link": "https://thehackernews.com/2026/10/researchers-used-public-openai-model-to.html",
+      "summary": "A team at security firm XBOW chained three then-unknown Google Chrome bugs into a single attack that runs code on a Windows computer when the user only loads a web page, the company said.\n\nIts researc...",
+      "published": "2026-10-14T16:49:02+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -215,11 +231,11 @@
       }
     },
     {
-      "title": "Gambling on Democracy",
-      "link": "https://acdatacollective.org/work/gambling-on-democracy/",
-      "summary": "<p>Article URL: <a href=\"https://acdatacollective.org/work/gambling-on-democracy/\">https://acdatacollective.org/work/gambling-on-democracy/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.c...",
-      "published": "2026-10-14T11:13:21+00:00",
-      "domain": "acdatacollective.org",
+      "title": "IA Presenter",
+      "link": "https://ia.net/presenter",
+      "summary": "<p>Article URL: <a href=\"https://ia.net/presenter\">https://ia.net/presenter</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50090557\">https://news.ycombinator.com/item?id=500905...",
+      "published": "2026-10-14T16:39:01+00:00",
+      "domain": "ia.net",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -231,11 +247,11 @@
       }
     },
     {
-      "title": "Investigating $100B in Fraud [video]",
-      "link": "https://www.youtube.com/watch?v=9eWJISlh0fw",
-      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=9eWJISlh0fw\">https://www.youtube.com/watch?v=9eWJISlh0fw</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50085781\">https...",
-      "published": "2026-10-14T11:11:09+00:00",
-      "domain": "youtube.com",
+      "title": "Hirudo Android Trojan Uses Patched Banking Apps to Bypass Their Built-In Security Checks",
+      "link": "https://thehackernews.com/2026/10/hirudo-android-trojan-uses-patched.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new Android banking trojan called Hirudo that works by replacing legitimate banking apps with purpose-built patched versions designed to bypass se...",
+      "published": "2026-10-14T16:38:22+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -247,11 +263,11 @@
       }
     },
     {
-      "title": "Are Harnesses Worth the Cost?",
-      "link": "https://martinfowler.com/articles/are-harnesses-worth-the-cost.html",
-      "summary": "<p>Article URL: <a href=\"https://martinfowler.com/articles/are-harnesses-worth-the-cost.html\">https://martinfowler.com/articles/are-harnesses-worth-the-cost.html</a></p>\n<p>Comments URL: <a href=\"http...",
-      "published": "2026-10-14T11:10:25+00:00",
-      "domain": "martinfowler.com",
+      "title": "\"No way to prevent this\" say users of only language where this regularly happens",
+      "link": "https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-92392/",
+      "summary": "<p>Article URL: <a href=\"https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-92392/\">https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-92392/</a></p>\n<p...",
+      "published": "2026-10-14T16:37:39+00:00",
+      "domain": "xeiaso.net",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -263,11 +279,11 @@
       }
     },
     {
-      "title": "Language Oriented Low Level Programming with Pille [video]",
-      "link": "https://www.youtube.com/watch?v=aEJE5IimvyM",
-      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=aEJE5IimvyM\">https://www.youtube.com/watch?v=aEJE5IimvyM</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50085771\">https...",
-      "published": "2026-10-14T11:09:36+00:00",
-      "domain": "youtube.com",
+      "title": "AxiomCode Graph, Reducing coding agent rework with formal methods",
+      "link": "https://github.com/AxiomCodeAI/axiomcodegraph",
+      "summary": "<p>Article URL: <a href=\"https://github.com/AxiomCodeAI/axiomcodegraph\">https://github.com/AxiomCodeAI/axiomcodegraph</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50090514\">h...",
+      "published": "2026-10-14T16:36:36+00:00",
+      "domain": "github.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -279,11 +295,11 @@
       }
     },
     {
-      "title": "Show HN: Building an LLM from Scratch in TypeScript",
-      "link": "https://book.humanexperiences.io/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=50085332\">Comments</a>...",
-      "published": "2026-10-14T10:29:56+00:00",
-      "domain": "book.humanexperiences.io",
+      "title": "I Deleted 168,000 Lines of Comments. My AI Agent Didn't Notice",
+      "link": "https://openstation.blog/2026/10/13/i-deleted-168000-lines-of-comments-my-ai-agent-didnt-notice/",
+      "summary": "<p>Article URL: <a href=\"https://openstation.blog/2026/10/13/i-deleted-168000-lines-of-comments-my-ai-agent-didnt-notice/\">https://openstation.blog/2026/10/13/i-deleted-168000-lines-of-comments-my-ai-...",
+      "published": "2026-10-14T16:34:53+00:00",
+      "domain": "openstation.blog",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -295,27 +311,11 @@
       }
     },
     {
-      "title": "I let an AI run my startup for a week",
-      "link": "https://daily.tinyprojects.dev/221",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=50085296\">Comments</a>...",
-      "published": "2026-10-14T10:25:48+00:00",
-      "domain": "daily.tinyprojects.dev",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Agent erased full season of \"The Challenge Swe\": \"Hundreds of days of work gone\"",
-      "link": "https://www.aviaduct.com/?l=og+en&u=https%3A%2F%2Fwww.aftonbladet.se%2Fnojesbladet%2Fa%2F31oE8A%2Fthe-challenge-sverige-raderad-av-ai-bara-veckor-innan-premiaren",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=50085259\">Comments</a>...",
-      "published": "2026-10-14T10:21:13+00:00",
-      "domain": "aviaduct.com",
+      "title": "Repairing the iPhone Duo's folding screen costs as much as a new iPhone",
+      "link": "https://www.theverge.com/tech/1011245/iphone-duo-repair-costs-applecare",
+      "summary": "<p>Article URL: <a href=\"https://www.theverge.com/tech/1011245/iphone-duo-repair-costs-applecare\">https://www.theverge.com/tech/1011245/iphone-duo-repair-costs-applecare</a></p>\n<p>Comments URL: <a hr...",
+      "published": "2026-10-14T16:34:40+00:00",
+      "domain": "theverge.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -329,28 +329,28 @@
   ],
   "overall_ranked": [
     {
-      "title": "Four-Byte Write and Timing Bug Let Researchers Run Code in Windows SmartScreen Enclave",
-      "link": "https://thehackernews.com/2026/10/four-byte-write-and-timing-bug-let.html",
-      "summary": "Security researchers ran their own code inside a protected part of Windows that is meant to stay sealed off even when the rest of the computer is taken over.\n\nThe protected area is a VBS enclave, an i...",
-      "published": "2026-10-14T11:22:28+05:30",
+      "title": "How to Run a Deepfake Readiness Drill Before a Cloned Voice Calls Your Team",
+      "link": "https://thehackernews.com/2026/10/how-to-run-deepfake-readiness-drill.html",
+      "summary": "Cloned voices and synthetic video calls now show up in payment fraud, help desk resets, and access requests. A structured drill shows security teams exactly where verification breaks down, while nothi...",
+      "published": "2026-10-14T17:20:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
-        "chaos": 9.7,
+        "chaos": 9.2,
         "anarchy": 3.0,
-        "overall": 6.4
+        "overall": 6.1
       },
       "keywords": {
         "chaos": [
-          "bug"
+          "down"
         ],
         "anarchy": []
       }
     },
     {
-      "title": "AI-Found Linux Kernel Flaw Gives Local Users Root, and Can Break a Guest Out to the Host",
-      "link": "https://thehackernews.com/2026/10/ai-found-linux-kernel-flaw-gives-local.html",
-      "summary": "A flaw in Linux's vhost subsystem lets a local user read and write kernel memory at will and become root across nearly a decade of kernel versions. In one virtualization setup, it lets an untrusted vi...",
-      "published": "2026-10-14T13:16:57+05:30",
+      "title": "CISA Urges Immediate Ivanti Connect Secure Updates as Honeypots Log 105 Exploit Attempts",
+      "link": "https://thehackernews.com/2026/10/cisa-urges-immediate-ivanti-connect.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday urged organizations to take steps to immediately update their Ivanti Connect Secure (ICS) appliances and deployments to the ...",
+      "published": "2026-10-14T18:00:42+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -363,11 +363,11 @@
       }
     },
     {
-      "title": "Future for Software Developers",
-      "link": "https://trevorarnold.substack.com/p/future-of-software-development",
-      "summary": "<p>Article URL: <a href=\"https://trevorarnold.substack.com/p/future-of-software-development\">https://trevorarnold.substack.com/p/future-of-software-development</a></p>\n<p>Comments URL: <a href=\"https:...",
-      "published": "2026-10-14T11:13:41+00:00",
-      "domain": "trevorarnold.substack.com",
+      "title": "curl Patches HTTP/2 Upload Flaw After PoC Demonstrates Client-Side Code Execution",
+      "link": "https://thehackernews.com/2026/10/curl-patches-http2-upload-flaw-after.html",
+      "summary": "A flaw in how curl handles HTTP/2 uploads lets a malicious server receiving an upload corrupt the client's memory, and the researcher who reported it turned that into code execution on the uploading m...",
+      "published": "2026-10-14T17:43:36+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -379,11 +379,11 @@
       }
     },
     {
-      "title": "Gambling on Democracy",
-      "link": "https://acdatacollective.org/work/gambling-on-democracy/",
-      "summary": "<p>Article URL: <a href=\"https://acdatacollective.org/work/gambling-on-democracy/\">https://acdatacollective.org/work/gambling-on-democracy/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.c...",
-      "published": "2026-10-14T11:13:21+00:00",
-      "domain": "acdatacollective.org",
+      "title": "Researchers Used a Public OpenAI Model to Build a $250,000 Chrome Full-Chain Exploit in Six Days",
+      "link": "https://thehackernews.com/2026/10/researchers-used-public-openai-model-to.html",
+      "summary": "A team at security firm XBOW chained three then-unknown Google Chrome bugs into a single attack that runs code on a Windows computer when the user only loads a web page, the company said.\n\nIts researc...",
+      "published": "2026-10-14T16:49:02+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -395,11 +395,11 @@
       }
     },
     {
-      "title": "Investigating $100B in Fraud [video]",
-      "link": "https://www.youtube.com/watch?v=9eWJISlh0fw",
-      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=9eWJISlh0fw\">https://www.youtube.com/watch?v=9eWJISlh0fw</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50085781\">https...",
-      "published": "2026-10-14T11:11:09+00:00",
-      "domain": "youtube.com",
+      "title": "IA Presenter",
+      "link": "https://ia.net/presenter",
+      "summary": "<p>Article URL: <a href=\"https://ia.net/presenter\">https://ia.net/presenter</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50090557\">https://news.ycombinator.com/item?id=500905...",
+      "published": "2026-10-14T16:39:01+00:00",
+      "domain": "ia.net",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -411,11 +411,11 @@
       }
     },
     {
-      "title": "Are Harnesses Worth the Cost?",
-      "link": "https://martinfowler.com/articles/are-harnesses-worth-the-cost.html",
-      "summary": "<p>Article URL: <a href=\"https://martinfowler.com/articles/are-harnesses-worth-the-cost.html\">https://martinfowler.com/articles/are-harnesses-worth-the-cost.html</a></p>\n<p>Comments URL: <a href=\"http...",
-      "published": "2026-10-14T11:10:25+00:00",
-      "domain": "martinfowler.com",
+      "title": "Hirudo Android Trojan Uses Patched Banking Apps to Bypass Their Built-In Security Checks",
+      "link": "https://thehackernews.com/2026/10/hirudo-android-trojan-uses-patched.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new Android banking trojan called Hirudo that works by replacing legitimate banking apps with purpose-built patched versions designed to bypass se...",
+      "published": "2026-10-14T16:38:22+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -427,11 +427,11 @@
       }
     },
     {
-      "title": "Language Oriented Low Level Programming with Pille [video]",
-      "link": "https://www.youtube.com/watch?v=aEJE5IimvyM",
-      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=aEJE5IimvyM\">https://www.youtube.com/watch?v=aEJE5IimvyM</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50085771\">https...",
-      "published": "2026-10-14T11:09:36+00:00",
-      "domain": "youtube.com",
+      "title": "\"No way to prevent this\" say users of only language where this regularly happens",
+      "link": "https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-92392/",
+      "summary": "<p>Article URL: <a href=\"https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-92392/\">https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-92392/</a></p>\n<p...",
+      "published": "2026-10-14T16:37:39+00:00",
+      "domain": "xeiaso.net",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -443,11 +443,11 @@
       }
     },
     {
-      "title": "Show HN: Building an LLM from Scratch in TypeScript",
-      "link": "https://book.humanexperiences.io/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=50085332\">Comments</a>...",
-      "published": "2026-10-14T10:29:56+00:00",
-      "domain": "book.humanexperiences.io",
+      "title": "AxiomCode Graph, Reducing coding agent rework with formal methods",
+      "link": "https://github.com/AxiomCodeAI/axiomcodegraph",
+      "summary": "<p>Article URL: <a href=\"https://github.com/AxiomCodeAI/axiomcodegraph\">https://github.com/AxiomCodeAI/axiomcodegraph</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50090514\">h...",
+      "published": "2026-10-14T16:36:36+00:00",
+      "domain": "github.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -459,11 +459,11 @@
       }
     },
     {
-      "title": "I let an AI run my startup for a week",
-      "link": "https://daily.tinyprojects.dev/221",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=50085296\">Comments</a>...",
-      "published": "2026-10-14T10:25:48+00:00",
-      "domain": "daily.tinyprojects.dev",
+      "title": "I Deleted 168,000 Lines of Comments. My AI Agent Didn't Notice",
+      "link": "https://openstation.blog/2026/10/13/i-deleted-168000-lines-of-comments-my-ai-agent-didnt-notice/",
+      "summary": "<p>Article URL: <a href=\"https://openstation.blog/2026/10/13/i-deleted-168000-lines-of-comments-my-ai-agent-didnt-notice/\">https://openstation.blog/2026/10/13/i-deleted-168000-lines-of-comments-my-ai-...",
+      "published": "2026-10-14T16:34:53+00:00",
+      "domain": "openstation.blog",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -475,11 +475,11 @@
       }
     },
     {
-      "title": "Agent erased full season of \"The Challenge Swe\": \"Hundreds of days of work gone\"",
-      "link": "https://www.aviaduct.com/?l=og+en&u=https%3A%2F%2Fwww.aftonbladet.se%2Fnojesbladet%2Fa%2F31oE8A%2Fthe-challenge-sverige-raderad-av-ai-bara-veckor-innan-premiaren",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=50085259\">Comments</a>...",
-      "published": "2026-10-14T10:21:13+00:00",
-      "domain": "aviaduct.com",
+      "title": "Repairing the iPhone Duo's folding screen costs as much as a new iPhone",
+      "link": "https://www.theverge.com/tech/1011245/iphone-duo-repair-costs-applecare",
+      "summary": "<p>Article URL: <a href=\"https://www.theverge.com/tech/1011245/iphone-duo-repair-costs-applecare\">https://www.theverge.com/tech/1011245/iphone-duo-repair-costs-applecare</a></p>\n<p>Comments URL: <a hr...",
+      "published": "2026-10-14T16:34:40+00:00",
+      "domain": "theverge.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -493,10 +493,10 @@
   ],
   "all_articles": [
     {
-      "title": "AI-Found Linux Kernel Flaw Gives Local Users Root, and Can Break a Guest Out to the Host",
-      "link": "https://thehackernews.com/2026/10/ai-found-linux-kernel-flaw-gives-local.html",
-      "summary": "A flaw in Linux's vhost subsystem lets a local user read and write kernel memory at will and become root across nearly a decade of kernel versions. In one virtualization setup, it lets an untrusted vi...",
-      "published": "2026-10-14T13:16:57+05:30",
+      "title": "CISA Urges Immediate Ivanti Connect Secure Updates as Honeypots Log 105 Exploit Attempts",
+      "link": "https://thehackernews.com/2026/10/cisa-urges-immediate-ivanti-connect.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday urged organizations to take steps to immediately update their Ivanti Connect Secure (ICS) appliances and deployments to the ...",
+      "published": "2026-10-14T18:00:42+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -509,29 +509,45 @@
       }
     },
     {
-      "title": "Four-Byte Write and Timing Bug Let Researchers Run Code in Windows SmartScreen Enclave",
-      "link": "https://thehackernews.com/2026/10/four-byte-write-and-timing-bug-let.html",
-      "summary": "Security researchers ran their own code inside a protected part of Windows that is meant to stay sealed off even when the rest of the computer is taken over.\n\nThe protected area is a VBS enclave, an i...",
-      "published": "2026-10-14T11:22:28+05:30",
+      "title": "curl Patches HTTP/2 Upload Flaw After PoC Demonstrates Client-Side Code Execution",
+      "link": "https://thehackernews.com/2026/10/curl-patches-http2-upload-flaw-after.html",
+      "summary": "A flaw in how curl handles HTTP/2 uploads lets a malicious server receiving an upload corrupt the client's memory, and the researcher who reported it turned that into code execution on the uploading m...",
+      "published": "2026-10-14T17:43:36+05:30",
       "domain": "thehackernews.com",
       "scores": {
-        "chaos": 9.7,
+        "chaos": 3.0,
         "anarchy": 3.0,
-        "overall": 6.4
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "How to Run a Deepfake Readiness Drill Before a Cloned Voice Calls Your Team",
+      "link": "https://thehackernews.com/2026/10/how-to-run-deepfake-readiness-drill.html",
+      "summary": "Cloned voices and synthetic video calls now show up in payment fraud, help desk resets, and access requests. A structured drill shows security teams exactly where verification breaks down, while nothi...",
+      "published": "2026-10-14T17:20:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 9.2,
+        "anarchy": 3.0,
+        "overall": 6.1
       },
       "keywords": {
         "chaos": [
-          "bug"
+          "down"
         ],
         "anarchy": []
       }
     },
     {
-      "title": "Future for Software Developers",
-      "link": "https://trevorarnold.substack.com/p/future-of-software-development",
-      "summary": "<p>Article URL: <a href=\"https://trevorarnold.substack.com/p/future-of-software-development\">https://trevorarnold.substack.com/p/future-of-software-development</a></p>\n<p>Comments URL: <a href=\"https:...",
-      "published": "2026-10-14T11:13:41+00:00",
-      "domain": "trevorarnold.substack.com",
+      "title": "Researchers Used a Public OpenAI Model to Build a $250,000 Chrome Full-Chain Exploit in Six Days",
+      "link": "https://thehackernews.com/2026/10/researchers-used-public-openai-model-to.html",
+      "summary": "A team at security firm XBOW chained three then-unknown Google Chrome bugs into a single attack that runs code on a Windows computer when the user only loads a web page, the company said.\n\nIts researc...",
+      "published": "2026-10-14T16:49:02+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -543,11 +559,11 @@
       }
     },
     {
-      "title": "Gambling on Democracy",
-      "link": "https://acdatacollective.org/work/gambling-on-democracy/",
-      "summary": "<p>Article URL: <a href=\"https://acdatacollective.org/work/gambling-on-democracy/\">https://acdatacollective.org/work/gambling-on-democracy/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.c...",
-      "published": "2026-10-14T11:13:21+00:00",
-      "domain": "acdatacollective.org",
+      "title": "IA Presenter",
+      "link": "https://ia.net/presenter",
+      "summary": "<p>Article URL: <a href=\"https://ia.net/presenter\">https://ia.net/presenter</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50090557\">https://news.ycombinator.com/item?id=500905...",
+      "published": "2026-10-14T16:39:01+00:00",
+      "domain": "ia.net",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -559,11 +575,11 @@
       }
     },
     {
-      "title": "Investigating $100B in Fraud [video]",
-      "link": "https://www.youtube.com/watch?v=9eWJISlh0fw",
-      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=9eWJISlh0fw\">https://www.youtube.com/watch?v=9eWJISlh0fw</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50085781\">https...",
-      "published": "2026-10-14T11:11:09+00:00",
-      "domain": "youtube.com",
+      "title": "Hirudo Android Trojan Uses Patched Banking Apps to Bypass Their Built-In Security Checks",
+      "link": "https://thehackernews.com/2026/10/hirudo-android-trojan-uses-patched.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new Android banking trojan called Hirudo that works by replacing legitimate banking apps with purpose-built patched versions designed to bypass se...",
+      "published": "2026-10-14T16:38:22+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -575,11 +591,11 @@
       }
     },
     {
-      "title": "Are Harnesses Worth the Cost?",
-      "link": "https://martinfowler.com/articles/are-harnesses-worth-the-cost.html",
-      "summary": "<p>Article URL: <a href=\"https://martinfowler.com/articles/are-harnesses-worth-the-cost.html\">https://martinfowler.com/articles/are-harnesses-worth-the-cost.html</a></p>\n<p>Comments URL: <a href=\"http...",
-      "published": "2026-10-14T11:10:25+00:00",
-      "domain": "martinfowler.com",
+      "title": "\"No way to prevent this\" say users of only language where this regularly happens",
+      "link": "https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-92392/",
+      "summary": "<p>Article URL: <a href=\"https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-92392/\">https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-92392/</a></p>\n<p...",
+      "published": "2026-10-14T16:37:39+00:00",
+      "domain": "xeiaso.net",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -591,11 +607,11 @@
       }
     },
     {
-      "title": "Language Oriented Low Level Programming with Pille [video]",
-      "link": "https://www.youtube.com/watch?v=aEJE5IimvyM",
-      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=aEJE5IimvyM\">https://www.youtube.com/watch?v=aEJE5IimvyM</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50085771\">https...",
-      "published": "2026-10-14T11:09:36+00:00",
-      "domain": "youtube.com",
+      "title": "AxiomCode Graph, Reducing coding agent rework with formal methods",
+      "link": "https://github.com/AxiomCodeAI/axiomcodegraph",
+      "summary": "<p>Article URL: <a href=\"https://github.com/AxiomCodeAI/axiomcodegraph\">https://github.com/AxiomCodeAI/axiomcodegraph</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50090514\">h...",
+      "published": "2026-10-14T16:36:36+00:00",
+      "domain": "github.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -607,11 +623,11 @@
       }
     },
     {
-      "title": "Show HN: Building an LLM from Scratch in TypeScript",
-      "link": "https://book.humanexperiences.io/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=50085332\">Comments</a>...",
-      "published": "2026-10-14T10:29:56+00:00",
-      "domain": "book.humanexperiences.io",
+      "title": "I Deleted 168,000 Lines of Comments. My AI Agent Didn't Notice",
+      "link": "https://openstation.blog/2026/10/13/i-deleted-168000-lines-of-comments-my-ai-agent-didnt-notice/",
+      "summary": "<p>Article URL: <a href=\"https://openstation.blog/2026/10/13/i-deleted-168000-lines-of-comments-my-ai-agent-didnt-notice/\">https://openstation.blog/2026/10/13/i-deleted-168000-lines-of-comments-my-ai-...",
+      "published": "2026-10-14T16:34:53+00:00",
+      "domain": "openstation.blog",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -623,27 +639,11 @@
       }
     },
     {
-      "title": "I let an AI run my startup for a week",
-      "link": "https://daily.tinyprojects.dev/221",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=50085296\">Comments</a>...",
-      "published": "2026-10-14T10:25:48+00:00",
-      "domain": "daily.tinyprojects.dev",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Agent erased full season of \"The Challenge Swe\": \"Hundreds of days of work gone\"",
-      "link": "https://www.aviaduct.com/?l=og+en&u=https%3A%2F%2Fwww.aftonbladet.se%2Fnojesbladet%2Fa%2F31oE8A%2Fthe-challenge-sverige-raderad-av-ai-bara-veckor-innan-premiaren",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=50085259\">Comments</a>...",
-      "published": "2026-10-14T10:21:13+00:00",
-      "domain": "aviaduct.com",
+      "title": "Repairing the iPhone Duo's folding screen costs as much as a new iPhone",
+      "link": "https://www.theverge.com/tech/1011245/iphone-duo-repair-costs-applecare",
+      "summary": "<p>Article URL: <a href=\"https://www.theverge.com/tech/1011245/iphone-duo-repair-costs-applecare\">https://www.theverge.com/tech/1011245/iphone-duo-repair-costs-applecare</a></p>\n<p>Comments URL: <a hr...",
+      "published": "2026-10-14T16:34:40+00:00",
+      "domain": "theverge.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
