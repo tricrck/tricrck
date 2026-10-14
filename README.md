@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### How to Run a Deepfake Readiness Drill Before a Cloned Voice Calls Your Team
+### U.S. Shuts Down Over 40 Laptop Farms, Charges 14 in North Korean IT Worker Fraud
 - **Published**: October 14, 2026
-- **Summary**: Cloned voices and synthetic video calls now show up in payment fraud, help desk resets, and access requests. A structured drill shows security teams e...
-- **Keywords**: down
-- [Read more](https://thehackernews.com/2026/10/how-to-run-deepfake-readiness-drill.html)
+- **Summary**: The U.S. Department of Justice (DoJ) on Tuesday charged 14 people and seized about 187 computers as part of its ongoing efforts to disrupt North Korea...
+- **Keywords**: down, disrupt
+- [Read more](https://thehackernews.com/2026/10/us-shuts-down-over-40-laptop-farms.html)
 
-### CISA Urges Immediate Ivanti Connect Secure Updates as Honeypots Log 105 Exploit Attempts
-- **Published**: October 14, 2026
-- **Summary**: The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday urged organizations to take steps to immediately update their Ivanti Conne...
-- [Read more](https://thehackernews.com/2026/10/cisa-urges-immediate-ivanti-connect.html)
+### Cisco Warns of Active Attacks Exploiting New Critical Secure Email Gateway Vulnerability
+- **Published**: October 15, 2026
+- **Summary**: Attackers are exploiting a critical flaw in Cisco Secure Email Gateway that lets a sender with no login write files to the appliance's operating syste...
+- [Read more](https://thehackernews.com/2026/10/cisco-warns-of-active-attacks.html)
 
 ---
 
