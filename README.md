@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Anthropic Warns Small AI Models Could Soon Form Self-Propagating IoT Botnets
-- **Published**: October 13, 2026
-- **Summary**: Small artificial intelligence (AI) models may be months away from developing capabilities to self-replicate on IoT devices like smart ovens and off-br...
-- [Read more](https://thehackernews.com/2026/10/anthropic-warns-small-ai-models-could.html)
+### OpenAI Employee Arrested for Allegedly Planting Hidden Recorder in Executive Conference Room
+- **Published**: October 14, 2026
+- **Summary**: A Saudi National and employee of OpenAI has been arrested for allegedly planting a hidden recording device in an executive conference room at the comp...
+- [Read more](https://thehackernews.com/2026/10/openai-employee-arrested-for-allegedly.html)
 
-### Docker Fixes Critical Two-Year-Old Hub Flaw That Let One User Push Images as Another
-- **Published**: October 13, 2026
-- **Summary**: A flaw in Docker Hub, the registry where container images are published and downloaded, let one user push, pull, or delete images as another user. Doc...
-- [Read more](https://thehackernews.com/2026/10/docker-fixes-critical-two-year-old-hub.html)
+### Coinbase Built, Evaluated, and Post-Trained a Fraud Agent
+- **Published**: October 14, 2026
+- **Summary**: https://www.coinbase.com/en-gb/blog/part-one-how-coinbase-built-evalu......
+- [Read more](https://www.coinbase.com/en-gb/blog/part-one-how-coinbase-built-evaluated-and-post-trained-a-fraud-agent)
 
 ---
 
