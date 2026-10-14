@@ -1,10 +1,28 @@
 {
   "chaos_ranked": [
     {
-      "title": "OpenAI Employee Arrested for Allegedly Planting Hidden Recorder in Executive Conference Room",
-      "link": "https://thehackernews.com/2026/10/openai-employee-arrested-for-allegedly.html",
-      "summary": "A Saudi National and employee of OpenAI has been arrested for allegedly planting a hidden recording device in an executive conference room at the company's San Francisco offices to covertly record sen...",
-      "published": "2026-10-14T07:29:25+05:30",
+      "title": "Four-Byte Write and Timing Bug Let Researchers Run Code in Windows SmartScreen Enclave",
+      "link": "https://thehackernews.com/2026/10/four-byte-write-and-timing-bug-let.html",
+      "summary": "Security researchers ran their own code inside a protected part of Windows that is meant to stay sealed off even when the rest of the computer is taken over.\n\nThe protected area is a VBS enclave, an i...",
+      "published": "2026-10-14T11:22:28+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 9.7,
+        "anarchy": 3.0,
+        "overall": 6.4
+      },
+      "keywords": {
+        "chaos": [
+          "bug"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "AI-Found Linux Kernel Flaw Gives Local Users Root, and Can Break a Guest Out to the Host",
+      "link": "https://thehackernews.com/2026/10/ai-found-linux-kernel-flaw-gives-local.html",
+      "summary": "A flaw in Linux's vhost subsystem lets a local user read and write kernel memory at will and become root across nearly a decade of kernel versions. In one virtualization setup, it lets an untrusted vi...",
+      "published": "2026-10-14T13:16:57+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -17,11 +35,11 @@
       }
     },
     {
-      "title": "Coinbase Built, Evaluated, and Post-Trained a Fraud Agent",
-      "link": "https://www.coinbase.com/en-gb/blog/part-one-how-coinbase-built-evaluated-and-post-trained-a-fraud-agent",
-      "summary": "<p>Article URL: <a href=\"https://www.coinbase.com/en-gb/blog/part-one-how-coinbase-built-evaluated-and-post-trained-a-fraud-agent\">https://www.coinbase.com/en-gb/blog/part-one-how-coinbase-built-evalu...",
-      "published": "2026-10-14T03:46:04+00:00",
-      "domain": "coinbase.com",
+      "title": "Future for Software Developers",
+      "link": "https://trevorarnold.substack.com/p/future-of-software-development",
+      "summary": "<p>Article URL: <a href=\"https://trevorarnold.substack.com/p/future-of-software-development\">https://trevorarnold.substack.com/p/future-of-software-development</a></p>\n<p>Comments URL: <a href=\"https:...",
+      "published": "2026-10-14T11:13:41+00:00",
+      "domain": "trevorarnold.substack.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -33,11 +51,11 @@
       }
     },
     {
-      "title": "Ask HN: Is AI-written code less secure if you don't use Daybreak (or similar)",
-      "link": "https://news.ycombinator.com/item?id=50082127",
-      "summary": "<p>Hello, I have this hypothesis that AI written code is less secure by default than it could be; that is, if you don't use Daybreak / Cyber Verification Program / uncensored models and such. Maybe so...",
-      "published": "2026-10-14T03:44:05+00:00",
-      "domain": "news.ycombinator.com",
+      "title": "Gambling on Democracy",
+      "link": "https://acdatacollective.org/work/gambling-on-democracy/",
+      "summary": "<p>Article URL: <a href=\"https://acdatacollective.org/work/gambling-on-democracy/\">https://acdatacollective.org/work/gambling-on-democracy/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.c...",
+      "published": "2026-10-14T11:13:21+00:00",
+      "domain": "acdatacollective.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -49,11 +67,11 @@
       }
     },
     {
-      "title": "New York City's iconic horse-drawn carriages expected to take their last trot",
-      "link": "https://www.cnn.com/2026/10/13/us/nyc-horse-carriage-ban",
-      "summary": "<p>Article URL: <a href=\"https://www.cnn.com/2026/10/13/us/nyc-horse-carriage-ban\">https://www.cnn.com/2026/10/13/us/nyc-horse-carriage-ban</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.c...",
-      "published": "2026-10-14T03:41:42+00:00",
-      "domain": "cnn.com",
+      "title": "Investigating $100B in Fraud [video]",
+      "link": "https://www.youtube.com/watch?v=9eWJISlh0fw",
+      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=9eWJISlh0fw\">https://www.youtube.com/watch?v=9eWJISlh0fw</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50085781\">https...",
+      "published": "2026-10-14T11:11:09+00:00",
+      "domain": "youtube.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -65,11 +83,11 @@
       }
     },
     {
-      "title": "Multipartite entanglement in heterogeneous systems (2016)",
-      "link": "https://arxiv.org/abs/1602.08064",
-      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/1602.08064\">https://arxiv.org/abs/1602.08064</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50082100\">https://news.ycombinator.co...",
-      "published": "2026-10-14T03:39:13+00:00",
-      "domain": "arxiv.org",
+      "title": "Are Harnesses Worth the Cost?",
+      "link": "https://martinfowler.com/articles/are-harnesses-worth-the-cost.html",
+      "summary": "<p>Article URL: <a href=\"https://martinfowler.com/articles/are-harnesses-worth-the-cost.html\">https://martinfowler.com/articles/are-harnesses-worth-the-cost.html</a></p>\n<p>Comments URL: <a href=\"http...",
+      "published": "2026-10-14T11:10:25+00:00",
+      "domain": "martinfowler.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -81,11 +99,11 @@
       }
     },
     {
-      "title": "Wikipedia Philosophy Phenomenon",
-      "link": "https://en.wikipedia.org/wiki/Wikipedia_philosophy_phenomenon",
-      "summary": "<p>Article URL: <a href=\"https://en.wikipedia.org/wiki/Wikipedia_philosophy_phenomenon\">https://en.wikipedia.org/wiki/Wikipedia_philosophy_phenomenon</a></p>\n<p>Comments URL: <a href=\"https://news.yco...",
-      "published": "2026-10-14T03:34:35+00:00",
-      "domain": "en.wikipedia.org",
+      "title": "Language Oriented Low Level Programming with Pille [video]",
+      "link": "https://www.youtube.com/watch?v=aEJE5IimvyM",
+      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=aEJE5IimvyM\">https://www.youtube.com/watch?v=aEJE5IimvyM</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50085771\">https...",
+      "published": "2026-10-14T11:09:36+00:00",
+      "domain": "youtube.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -97,11 +115,11 @@
       }
     },
     {
-      "title": "Anthropic Warns Small AI Models Could Soon Form Self-Propagating IoT Botnets",
-      "link": "https://thehackernews.com/2026/10/anthropic-warns-small-ai-models-could.html",
-      "summary": "Small artificial intelligence (AI) models may be months away from developing capabilities to self-replicate on IoT devices like smart ovens and off-brand Android TV boxes, according to a warning from ...",
-      "published": "2026-10-13T23:50:57+05:30",
-      "domain": "thehackernews.com",
+      "title": "Show HN: Building an LLM from Scratch in TypeScript",
+      "link": "https://book.humanexperiences.io/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50085332\">Comments</a>...",
+      "published": "2026-10-14T10:29:56+00:00",
+      "domain": "book.humanexperiences.io",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -113,11 +131,11 @@
       }
     },
     {
-      "title": "Docker Fixes Critical Two-Year-Old Hub Flaw That Let One User Push Images as Another",
-      "link": "https://thehackernews.com/2026/10/docker-fixes-critical-two-year-old-hub.html",
-      "summary": "A flaw in Docker Hub, the registry where container images are published and downloaded, let one user push, pull, or delete images as another user. Docker fixed the flaw on September 30 and says it fou...",
-      "published": "2026-10-13T23:33:18+05:30",
-      "domain": "thehackernews.com",
+      "title": "I let an AI run my startup for a week",
+      "link": "https://daily.tinyprojects.dev/221",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50085296\">Comments</a>...",
+      "published": "2026-10-14T10:25:48+00:00",
+      "domain": "daily.tinyprojects.dev",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -129,27 +147,11 @@
       }
     },
     {
-      "title": "Attacker Chains Three Ivanti Connect Secure Zero-Days for Root Access, Only Two Patched So Far",
-      "link": "https://thehackernews.com/2026/10/attacker-chains-three-ivanti-connect.html",
-      "summary": "An attacker chained three zero-day flaws in Ivanti Connect Secure, a VPN appliance, to run commands as root without logging in, security firm&nbsp;Volexity said&nbsp;on October 13. Ivanti has released...",
-      "published": "2026-10-13T23:03:11+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "SAP Discloses Critical CVSS 10 Flaw in Cloud SDK for Python Allowing OAuth2 Credential Theft",
-      "link": "https://thehackernews.com/2026/10/sap-discloses-critical-cvss-10-flaw-in.html",
-      "summary": "A flaw in SAP's&nbsp;Cloud SDK for Python&nbsp;can send an application's OAuth2 client credentials to a server an attacker controls, SAP said in a&nbsp;security advisory&nbsp;on October 13. The flaw a...",
-      "published": "2026-10-13T22:58:50+05:30",
-      "domain": "thehackernews.com",
+      "title": "Agent erased full season of \"The Challenge Swe\": \"Hundreds of days of work gone\"",
+      "link": "https://www.aviaduct.com/?l=og+en&u=https%3A%2F%2Fwww.aftonbladet.se%2Fnojesbladet%2Fa%2F31oE8A%2Fthe-challenge-sverige-raderad-av-ai-bara-veckor-innan-premiaren",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50085259\">Comments</a>...",
+      "published": "2026-10-14T10:21:13+00:00",
+      "domain": "aviaduct.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -163,10 +165,10 @@
   ],
   "anarchy_ranked": [
     {
-      "title": "OpenAI Employee Arrested for Allegedly Planting Hidden Recorder in Executive Conference Room",
-      "link": "https://thehackernews.com/2026/10/openai-employee-arrested-for-allegedly.html",
-      "summary": "A Saudi National and employee of OpenAI has been arrested for allegedly planting a hidden recording device in an executive conference room at the company's San Francisco offices to covertly record sen...",
-      "published": "2026-10-14T07:29:25+05:30",
+      "title": "AI-Found Linux Kernel Flaw Gives Local Users Root, and Can Break a Guest Out to the Host",
+      "link": "https://thehackernews.com/2026/10/ai-found-linux-kernel-flaw-gives-local.html",
+      "summary": "A flaw in Linux's vhost subsystem lets a local user read and write kernel memory at will and become root across nearly a decade of kernel versions. In one virtualization setup, it lets an untrusted vi...",
+      "published": "2026-10-14T13:16:57+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -179,107 +181,29 @@
       }
     },
     {
-      "title": "Coinbase Built, Evaluated, and Post-Trained a Fraud Agent",
-      "link": "https://www.coinbase.com/en-gb/blog/part-one-how-coinbase-built-evaluated-and-post-trained-a-fraud-agent",
-      "summary": "<p>Article URL: <a href=\"https://www.coinbase.com/en-gb/blog/part-one-how-coinbase-built-evaluated-and-post-trained-a-fraud-agent\">https://www.coinbase.com/en-gb/blog/part-one-how-coinbase-built-evalu...",
-      "published": "2026-10-14T03:46:04+00:00",
-      "domain": "coinbase.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Ask HN: Is AI-written code less secure if you don't use Daybreak (or similar)",
-      "link": "https://news.ycombinator.com/item?id=50082127",
-      "summary": "<p>Hello, I have this hypothesis that AI written code is less secure by default than it could be; that is, if you don't use Daybreak / Cyber Verification Program / uncensored models and such. Maybe so...",
-      "published": "2026-10-14T03:44:05+00:00",
-      "domain": "news.ycombinator.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "New York City's iconic horse-drawn carriages expected to take their last trot",
-      "link": "https://www.cnn.com/2026/10/13/us/nyc-horse-carriage-ban",
-      "summary": "<p>Article URL: <a href=\"https://www.cnn.com/2026/10/13/us/nyc-horse-carriage-ban\">https://www.cnn.com/2026/10/13/us/nyc-horse-carriage-ban</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.c...",
-      "published": "2026-10-14T03:41:42+00:00",
-      "domain": "cnn.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Multipartite entanglement in heterogeneous systems (2016)",
-      "link": "https://arxiv.org/abs/1602.08064",
-      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/1602.08064\">https://arxiv.org/abs/1602.08064</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50082100\">https://news.ycombinator.co...",
-      "published": "2026-10-14T03:39:13+00:00",
-      "domain": "arxiv.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Wikipedia Philosophy Phenomenon",
-      "link": "https://en.wikipedia.org/wiki/Wikipedia_philosophy_phenomenon",
-      "summary": "<p>Article URL: <a href=\"https://en.wikipedia.org/wiki/Wikipedia_philosophy_phenomenon\">https://en.wikipedia.org/wiki/Wikipedia_philosophy_phenomenon</a></p>\n<p>Comments URL: <a href=\"https://news.yco...",
-      "published": "2026-10-14T03:34:35+00:00",
-      "domain": "en.wikipedia.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Anthropic Warns Small AI Models Could Soon Form Self-Propagating IoT Botnets",
-      "link": "https://thehackernews.com/2026/10/anthropic-warns-small-ai-models-could.html",
-      "summary": "Small artificial intelligence (AI) models may be months away from developing capabilities to self-replicate on IoT devices like smart ovens and off-brand Android TV boxes, according to a warning from ...",
-      "published": "2026-10-13T23:50:57+05:30",
+      "title": "Four-Byte Write and Timing Bug Let Researchers Run Code in Windows SmartScreen Enclave",
+      "link": "https://thehackernews.com/2026/10/four-byte-write-and-timing-bug-let.html",
+      "summary": "Security researchers ran their own code inside a protected part of Windows that is meant to stay sealed off even when the rest of the computer is taken over.\n\nThe protected area is a VBS enclave, an i...",
+      "published": "2026-10-14T11:22:28+05:30",
       "domain": "thehackernews.com",
       "scores": {
-        "chaos": 3.0,
+        "chaos": 9.7,
         "anarchy": 3.0,
-        "overall": 3.0
+        "overall": 6.4
       },
       "keywords": {
-        "chaos": [],
+        "chaos": [
+          "bug"
+        ],
         "anarchy": []
       }
     },
     {
-      "title": "Docker Fixes Critical Two-Year-Old Hub Flaw That Let One User Push Images as Another",
-      "link": "https://thehackernews.com/2026/10/docker-fixes-critical-two-year-old-hub.html",
-      "summary": "A flaw in Docker Hub, the registry where container images are published and downloaded, let one user push, pull, or delete images as another user. Docker fixed the flaw on September 30 and says it fou...",
-      "published": "2026-10-13T23:33:18+05:30",
-      "domain": "thehackernews.com",
+      "title": "Future for Software Developers",
+      "link": "https://trevorarnold.substack.com/p/future-of-software-development",
+      "summary": "<p>Article URL: <a href=\"https://trevorarnold.substack.com/p/future-of-software-development\">https://trevorarnold.substack.com/p/future-of-software-development</a></p>\n<p>Comments URL: <a href=\"https:...",
+      "published": "2026-10-14T11:13:41+00:00",
+      "domain": "trevorarnold.substack.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -291,11 +215,11 @@
       }
     },
     {
-      "title": "Attacker Chains Three Ivanti Connect Secure Zero-Days for Root Access, Only Two Patched So Far",
-      "link": "https://thehackernews.com/2026/10/attacker-chains-three-ivanti-connect.html",
-      "summary": "An attacker chained three zero-day flaws in Ivanti Connect Secure, a VPN appliance, to run commands as root without logging in, security firm&nbsp;Volexity said&nbsp;on October 13. Ivanti has released...",
-      "published": "2026-10-13T23:03:11+05:30",
-      "domain": "thehackernews.com",
+      "title": "Gambling on Democracy",
+      "link": "https://acdatacollective.org/work/gambling-on-democracy/",
+      "summary": "<p>Article URL: <a href=\"https://acdatacollective.org/work/gambling-on-democracy/\">https://acdatacollective.org/work/gambling-on-democracy/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.c...",
+      "published": "2026-10-14T11:13:21+00:00",
+      "domain": "acdatacollective.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -307,11 +231,91 @@
       }
     },
     {
-      "title": "SAP Discloses Critical CVSS 10 Flaw in Cloud SDK for Python Allowing OAuth2 Credential Theft",
-      "link": "https://thehackernews.com/2026/10/sap-discloses-critical-cvss-10-flaw-in.html",
-      "summary": "A flaw in SAP's&nbsp;Cloud SDK for Python&nbsp;can send an application's OAuth2 client credentials to a server an attacker controls, SAP said in a&nbsp;security advisory&nbsp;on October 13. The flaw a...",
-      "published": "2026-10-13T22:58:50+05:30",
-      "domain": "thehackernews.com",
+      "title": "Investigating $100B in Fraud [video]",
+      "link": "https://www.youtube.com/watch?v=9eWJISlh0fw",
+      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=9eWJISlh0fw\">https://www.youtube.com/watch?v=9eWJISlh0fw</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50085781\">https...",
+      "published": "2026-10-14T11:11:09+00:00",
+      "domain": "youtube.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Are Harnesses Worth the Cost?",
+      "link": "https://martinfowler.com/articles/are-harnesses-worth-the-cost.html",
+      "summary": "<p>Article URL: <a href=\"https://martinfowler.com/articles/are-harnesses-worth-the-cost.html\">https://martinfowler.com/articles/are-harnesses-worth-the-cost.html</a></p>\n<p>Comments URL: <a href=\"http...",
+      "published": "2026-10-14T11:10:25+00:00",
+      "domain": "martinfowler.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Language Oriented Low Level Programming with Pille [video]",
+      "link": "https://www.youtube.com/watch?v=aEJE5IimvyM",
+      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=aEJE5IimvyM\">https://www.youtube.com/watch?v=aEJE5IimvyM</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50085771\">https...",
+      "published": "2026-10-14T11:09:36+00:00",
+      "domain": "youtube.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Building an LLM from Scratch in TypeScript",
+      "link": "https://book.humanexperiences.io/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50085332\">Comments</a>...",
+      "published": "2026-10-14T10:29:56+00:00",
+      "domain": "book.humanexperiences.io",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "I let an AI run my startup for a week",
+      "link": "https://daily.tinyprojects.dev/221",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50085296\">Comments</a>...",
+      "published": "2026-10-14T10:25:48+00:00",
+      "domain": "daily.tinyprojects.dev",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Agent erased full season of \"The Challenge Swe\": \"Hundreds of days of work gone\"",
+      "link": "https://www.aviaduct.com/?l=og+en&u=https%3A%2F%2Fwww.aftonbladet.se%2Fnojesbladet%2Fa%2F31oE8A%2Fthe-challenge-sverige-raderad-av-ai-bara-veckor-innan-premiaren",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50085259\">Comments</a>...",
+      "published": "2026-10-14T10:21:13+00:00",
+      "domain": "aviaduct.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -325,10 +329,28 @@
   ],
   "overall_ranked": [
     {
-      "title": "OpenAI Employee Arrested for Allegedly Planting Hidden Recorder in Executive Conference Room",
-      "link": "https://thehackernews.com/2026/10/openai-employee-arrested-for-allegedly.html",
-      "summary": "A Saudi National and employee of OpenAI has been arrested for allegedly planting a hidden recording device in an executive conference room at the company's San Francisco offices to covertly record sen...",
-      "published": "2026-10-14T07:29:25+05:30",
+      "title": "Four-Byte Write and Timing Bug Let Researchers Run Code in Windows SmartScreen Enclave",
+      "link": "https://thehackernews.com/2026/10/four-byte-write-and-timing-bug-let.html",
+      "summary": "Security researchers ran their own code inside a protected part of Windows that is meant to stay sealed off even when the rest of the computer is taken over.\n\nThe protected area is a VBS enclave, an i...",
+      "published": "2026-10-14T11:22:28+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 9.7,
+        "anarchy": 3.0,
+        "overall": 6.4
+      },
+      "keywords": {
+        "chaos": [
+          "bug"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "AI-Found Linux Kernel Flaw Gives Local Users Root, and Can Break a Guest Out to the Host",
+      "link": "https://thehackernews.com/2026/10/ai-found-linux-kernel-flaw-gives-local.html",
+      "summary": "A flaw in Linux's vhost subsystem lets a local user read and write kernel memory at will and become root across nearly a decade of kernel versions. In one virtualization setup, it lets an untrusted vi...",
+      "published": "2026-10-14T13:16:57+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -341,11 +363,11 @@
       }
     },
     {
-      "title": "Coinbase Built, Evaluated, and Post-Trained a Fraud Agent",
-      "link": "https://www.coinbase.com/en-gb/blog/part-one-how-coinbase-built-evaluated-and-post-trained-a-fraud-agent",
-      "summary": "<p>Article URL: <a href=\"https://www.coinbase.com/en-gb/blog/part-one-how-coinbase-built-evaluated-and-post-trained-a-fraud-agent\">https://www.coinbase.com/en-gb/blog/part-one-how-coinbase-built-evalu...",
-      "published": "2026-10-14T03:46:04+00:00",
-      "domain": "coinbase.com",
+      "title": "Future for Software Developers",
+      "link": "https://trevorarnold.substack.com/p/future-of-software-development",
+      "summary": "<p>Article URL: <a href=\"https://trevorarnold.substack.com/p/future-of-software-development\">https://trevorarnold.substack.com/p/future-of-software-development</a></p>\n<p>Comments URL: <a href=\"https:...",
+      "published": "2026-10-14T11:13:41+00:00",
+      "domain": "trevorarnold.substack.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -357,11 +379,11 @@
       }
     },
     {
-      "title": "Ask HN: Is AI-written code less secure if you don't use Daybreak (or similar)",
-      "link": "https://news.ycombinator.com/item?id=50082127",
-      "summary": "<p>Hello, I have this hypothesis that AI written code is less secure by default than it could be; that is, if you don't use Daybreak / Cyber Verification Program / uncensored models and such. Maybe so...",
-      "published": "2026-10-14T03:44:05+00:00",
-      "domain": "news.ycombinator.com",
+      "title": "Gambling on Democracy",
+      "link": "https://acdatacollective.org/work/gambling-on-democracy/",
+      "summary": "<p>Article URL: <a href=\"https://acdatacollective.org/work/gambling-on-democracy/\">https://acdatacollective.org/work/gambling-on-democracy/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.c...",
+      "published": "2026-10-14T11:13:21+00:00",
+      "domain": "acdatacollective.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -373,11 +395,11 @@
       }
     },
     {
-      "title": "New York City's iconic horse-drawn carriages expected to take their last trot",
-      "link": "https://www.cnn.com/2026/10/13/us/nyc-horse-carriage-ban",
-      "summary": "<p>Article URL: <a href=\"https://www.cnn.com/2026/10/13/us/nyc-horse-carriage-ban\">https://www.cnn.com/2026/10/13/us/nyc-horse-carriage-ban</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.c...",
-      "published": "2026-10-14T03:41:42+00:00",
-      "domain": "cnn.com",
+      "title": "Investigating $100B in Fraud [video]",
+      "link": "https://www.youtube.com/watch?v=9eWJISlh0fw",
+      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=9eWJISlh0fw\">https://www.youtube.com/watch?v=9eWJISlh0fw</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50085781\">https...",
+      "published": "2026-10-14T11:11:09+00:00",
+      "domain": "youtube.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -389,11 +411,11 @@
       }
     },
     {
-      "title": "Multipartite entanglement in heterogeneous systems (2016)",
-      "link": "https://arxiv.org/abs/1602.08064",
-      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/1602.08064\">https://arxiv.org/abs/1602.08064</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50082100\">https://news.ycombinator.co...",
-      "published": "2026-10-14T03:39:13+00:00",
-      "domain": "arxiv.org",
+      "title": "Are Harnesses Worth the Cost?",
+      "link": "https://martinfowler.com/articles/are-harnesses-worth-the-cost.html",
+      "summary": "<p>Article URL: <a href=\"https://martinfowler.com/articles/are-harnesses-worth-the-cost.html\">https://martinfowler.com/articles/are-harnesses-worth-the-cost.html</a></p>\n<p>Comments URL: <a href=\"http...",
+      "published": "2026-10-14T11:10:25+00:00",
+      "domain": "martinfowler.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -405,11 +427,11 @@
       }
     },
     {
-      "title": "Wikipedia Philosophy Phenomenon",
-      "link": "https://en.wikipedia.org/wiki/Wikipedia_philosophy_phenomenon",
-      "summary": "<p>Article URL: <a href=\"https://en.wikipedia.org/wiki/Wikipedia_philosophy_phenomenon\">https://en.wikipedia.org/wiki/Wikipedia_philosophy_phenomenon</a></p>\n<p>Comments URL: <a href=\"https://news.yco...",
-      "published": "2026-10-14T03:34:35+00:00",
-      "domain": "en.wikipedia.org",
+      "title": "Language Oriented Low Level Programming with Pille [video]",
+      "link": "https://www.youtube.com/watch?v=aEJE5IimvyM",
+      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=aEJE5IimvyM\">https://www.youtube.com/watch?v=aEJE5IimvyM</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50085771\">https...",
+      "published": "2026-10-14T11:09:36+00:00",
+      "domain": "youtube.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -421,11 +443,11 @@
       }
     },
     {
-      "title": "Anthropic Warns Small AI Models Could Soon Form Self-Propagating IoT Botnets",
-      "link": "https://thehackernews.com/2026/10/anthropic-warns-small-ai-models-could.html",
-      "summary": "Small artificial intelligence (AI) models may be months away from developing capabilities to self-replicate on IoT devices like smart ovens and off-brand Android TV boxes, according to a warning from ...",
-      "published": "2026-10-13T23:50:57+05:30",
-      "domain": "thehackernews.com",
+      "title": "Show HN: Building an LLM from Scratch in TypeScript",
+      "link": "https://book.humanexperiences.io/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50085332\">Comments</a>...",
+      "published": "2026-10-14T10:29:56+00:00",
+      "domain": "book.humanexperiences.io",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -437,11 +459,11 @@
       }
     },
     {
-      "title": "Docker Fixes Critical Two-Year-Old Hub Flaw That Let One User Push Images as Another",
-      "link": "https://thehackernews.com/2026/10/docker-fixes-critical-two-year-old-hub.html",
-      "summary": "A flaw in Docker Hub, the registry where container images are published and downloaded, let one user push, pull, or delete images as another user. Docker fixed the flaw on September 30 and says it fou...",
-      "published": "2026-10-13T23:33:18+05:30",
-      "domain": "thehackernews.com",
+      "title": "I let an AI run my startup for a week",
+      "link": "https://daily.tinyprojects.dev/221",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50085296\">Comments</a>...",
+      "published": "2026-10-14T10:25:48+00:00",
+      "domain": "daily.tinyprojects.dev",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -453,27 +475,11 @@
       }
     },
     {
-      "title": "Attacker Chains Three Ivanti Connect Secure Zero-Days for Root Access, Only Two Patched So Far",
-      "link": "https://thehackernews.com/2026/10/attacker-chains-three-ivanti-connect.html",
-      "summary": "An attacker chained three zero-day flaws in Ivanti Connect Secure, a VPN appliance, to run commands as root without logging in, security firm&nbsp;Volexity said&nbsp;on October 13. Ivanti has released...",
-      "published": "2026-10-13T23:03:11+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "SAP Discloses Critical CVSS 10 Flaw in Cloud SDK for Python Allowing OAuth2 Credential Theft",
-      "link": "https://thehackernews.com/2026/10/sap-discloses-critical-cvss-10-flaw-in.html",
-      "summary": "A flaw in SAP's&nbsp;Cloud SDK for Python&nbsp;can send an application's OAuth2 client credentials to a server an attacker controls, SAP said in a&nbsp;security advisory&nbsp;on October 13. The flaw a...",
-      "published": "2026-10-13T22:58:50+05:30",
-      "domain": "thehackernews.com",
+      "title": "Agent erased full season of \"The Challenge Swe\": \"Hundreds of days of work gone\"",
+      "link": "https://www.aviaduct.com/?l=og+en&u=https%3A%2F%2Fwww.aftonbladet.se%2Fnojesbladet%2Fa%2F31oE8A%2Fthe-challenge-sverige-raderad-av-ai-bara-veckor-innan-premiaren",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50085259\">Comments</a>...",
+      "published": "2026-10-14T10:21:13+00:00",
+      "domain": "aviaduct.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -487,10 +493,10 @@
   ],
   "all_articles": [
     {
-      "title": "OpenAI Employee Arrested for Allegedly Planting Hidden Recorder in Executive Conference Room",
-      "link": "https://thehackernews.com/2026/10/openai-employee-arrested-for-allegedly.html",
-      "summary": "A Saudi National and employee of OpenAI has been arrested for allegedly planting a hidden recording device in an executive conference room at the company's San Francisco offices to covertly record sen...",
-      "published": "2026-10-14T07:29:25+05:30",
+      "title": "AI-Found Linux Kernel Flaw Gives Local Users Root, and Can Break a Guest Out to the Host",
+      "link": "https://thehackernews.com/2026/10/ai-found-linux-kernel-flaw-gives-local.html",
+      "summary": "A flaw in Linux's vhost subsystem lets a local user read and write kernel memory at will and become root across nearly a decade of kernel versions. In one virtualization setup, it lets an untrusted vi...",
+      "published": "2026-10-14T13:16:57+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -503,107 +509,29 @@
       }
     },
     {
-      "title": "Coinbase Built, Evaluated, and Post-Trained a Fraud Agent",
-      "link": "https://www.coinbase.com/en-gb/blog/part-one-how-coinbase-built-evaluated-and-post-trained-a-fraud-agent",
-      "summary": "<p>Article URL: <a href=\"https://www.coinbase.com/en-gb/blog/part-one-how-coinbase-built-evaluated-and-post-trained-a-fraud-agent\">https://www.coinbase.com/en-gb/blog/part-one-how-coinbase-built-evalu...",
-      "published": "2026-10-14T03:46:04+00:00",
-      "domain": "coinbase.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Ask HN: Is AI-written code less secure if you don't use Daybreak (or similar)",
-      "link": "https://news.ycombinator.com/item?id=50082127",
-      "summary": "<p>Hello, I have this hypothesis that AI written code is less secure by default than it could be; that is, if you don't use Daybreak / Cyber Verification Program / uncensored models and such. Maybe so...",
-      "published": "2026-10-14T03:44:05+00:00",
-      "domain": "news.ycombinator.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "New York City's iconic horse-drawn carriages expected to take their last trot",
-      "link": "https://www.cnn.com/2026/10/13/us/nyc-horse-carriage-ban",
-      "summary": "<p>Article URL: <a href=\"https://www.cnn.com/2026/10/13/us/nyc-horse-carriage-ban\">https://www.cnn.com/2026/10/13/us/nyc-horse-carriage-ban</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.c...",
-      "published": "2026-10-14T03:41:42+00:00",
-      "domain": "cnn.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Multipartite entanglement in heterogeneous systems (2016)",
-      "link": "https://arxiv.org/abs/1602.08064",
-      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/1602.08064\">https://arxiv.org/abs/1602.08064</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50082100\">https://news.ycombinator.co...",
-      "published": "2026-10-14T03:39:13+00:00",
-      "domain": "arxiv.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Wikipedia Philosophy Phenomenon",
-      "link": "https://en.wikipedia.org/wiki/Wikipedia_philosophy_phenomenon",
-      "summary": "<p>Article URL: <a href=\"https://en.wikipedia.org/wiki/Wikipedia_philosophy_phenomenon\">https://en.wikipedia.org/wiki/Wikipedia_philosophy_phenomenon</a></p>\n<p>Comments URL: <a href=\"https://news.yco...",
-      "published": "2026-10-14T03:34:35+00:00",
-      "domain": "en.wikipedia.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Anthropic Warns Small AI Models Could Soon Form Self-Propagating IoT Botnets",
-      "link": "https://thehackernews.com/2026/10/anthropic-warns-small-ai-models-could.html",
-      "summary": "Small artificial intelligence (AI) models may be months away from developing capabilities to self-replicate on IoT devices like smart ovens and off-brand Android TV boxes, according to a warning from ...",
-      "published": "2026-10-13T23:50:57+05:30",
+      "title": "Four-Byte Write and Timing Bug Let Researchers Run Code in Windows SmartScreen Enclave",
+      "link": "https://thehackernews.com/2026/10/four-byte-write-and-timing-bug-let.html",
+      "summary": "Security researchers ran their own code inside a protected part of Windows that is meant to stay sealed off even when the rest of the computer is taken over.\n\nThe protected area is a VBS enclave, an i...",
+      "published": "2026-10-14T11:22:28+05:30",
       "domain": "thehackernews.com",
       "scores": {
-        "chaos": 3.0,
+        "chaos": 9.7,
         "anarchy": 3.0,
-        "overall": 3.0
+        "overall": 6.4
       },
       "keywords": {
-        "chaos": [],
+        "chaos": [
+          "bug"
+        ],
         "anarchy": []
       }
     },
     {
-      "title": "Docker Fixes Critical Two-Year-Old Hub Flaw That Let One User Push Images as Another",
-      "link": "https://thehackernews.com/2026/10/docker-fixes-critical-two-year-old-hub.html",
-      "summary": "A flaw in Docker Hub, the registry where container images are published and downloaded, let one user push, pull, or delete images as another user. Docker fixed the flaw on September 30 and says it fou...",
-      "published": "2026-10-13T23:33:18+05:30",
-      "domain": "thehackernews.com",
+      "title": "Future for Software Developers",
+      "link": "https://trevorarnold.substack.com/p/future-of-software-development",
+      "summary": "<p>Article URL: <a href=\"https://trevorarnold.substack.com/p/future-of-software-development\">https://trevorarnold.substack.com/p/future-of-software-development</a></p>\n<p>Comments URL: <a href=\"https:...",
+      "published": "2026-10-14T11:13:41+00:00",
+      "domain": "trevorarnold.substack.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -615,11 +543,11 @@
       }
     },
     {
-      "title": "Attacker Chains Three Ivanti Connect Secure Zero-Days for Root Access, Only Two Patched So Far",
-      "link": "https://thehackernews.com/2026/10/attacker-chains-three-ivanti-connect.html",
-      "summary": "An attacker chained three zero-day flaws in Ivanti Connect Secure, a VPN appliance, to run commands as root without logging in, security firm&nbsp;Volexity said&nbsp;on October 13. Ivanti has released...",
-      "published": "2026-10-13T23:03:11+05:30",
-      "domain": "thehackernews.com",
+      "title": "Gambling on Democracy",
+      "link": "https://acdatacollective.org/work/gambling-on-democracy/",
+      "summary": "<p>Article URL: <a href=\"https://acdatacollective.org/work/gambling-on-democracy/\">https://acdatacollective.org/work/gambling-on-democracy/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.c...",
+      "published": "2026-10-14T11:13:21+00:00",
+      "domain": "acdatacollective.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -631,11 +559,91 @@
       }
     },
     {
-      "title": "SAP Discloses Critical CVSS 10 Flaw in Cloud SDK for Python Allowing OAuth2 Credential Theft",
-      "link": "https://thehackernews.com/2026/10/sap-discloses-critical-cvss-10-flaw-in.html",
-      "summary": "A flaw in SAP's&nbsp;Cloud SDK for Python&nbsp;can send an application's OAuth2 client credentials to a server an attacker controls, SAP said in a&nbsp;security advisory&nbsp;on October 13. The flaw a...",
-      "published": "2026-10-13T22:58:50+05:30",
-      "domain": "thehackernews.com",
+      "title": "Investigating $100B in Fraud [video]",
+      "link": "https://www.youtube.com/watch?v=9eWJISlh0fw",
+      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=9eWJISlh0fw\">https://www.youtube.com/watch?v=9eWJISlh0fw</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50085781\">https...",
+      "published": "2026-10-14T11:11:09+00:00",
+      "domain": "youtube.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Are Harnesses Worth the Cost?",
+      "link": "https://martinfowler.com/articles/are-harnesses-worth-the-cost.html",
+      "summary": "<p>Article URL: <a href=\"https://martinfowler.com/articles/are-harnesses-worth-the-cost.html\">https://martinfowler.com/articles/are-harnesses-worth-the-cost.html</a></p>\n<p>Comments URL: <a href=\"http...",
+      "published": "2026-10-14T11:10:25+00:00",
+      "domain": "martinfowler.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Language Oriented Low Level Programming with Pille [video]",
+      "link": "https://www.youtube.com/watch?v=aEJE5IimvyM",
+      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=aEJE5IimvyM\">https://www.youtube.com/watch?v=aEJE5IimvyM</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50085771\">https...",
+      "published": "2026-10-14T11:09:36+00:00",
+      "domain": "youtube.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Building an LLM from Scratch in TypeScript",
+      "link": "https://book.humanexperiences.io/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50085332\">Comments</a>...",
+      "published": "2026-10-14T10:29:56+00:00",
+      "domain": "book.humanexperiences.io",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "I let an AI run my startup for a week",
+      "link": "https://daily.tinyprojects.dev/221",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50085296\">Comments</a>...",
+      "published": "2026-10-14T10:25:48+00:00",
+      "domain": "daily.tinyprojects.dev",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Agent erased full season of \"The Challenge Swe\": \"Hundreds of days of work gone\"",
+      "link": "https://www.aviaduct.com/?l=og+en&u=https%3A%2F%2Fwww.aftonbladet.se%2Fnojesbladet%2Fa%2F31oE8A%2Fthe-challenge-sverige-raderad-av-ai-bara-veckor-innan-premiaren",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50085259\">Comments</a>...",
+      "published": "2026-10-14T10:21:13+00:00",
+      "domain": "aviaduct.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,

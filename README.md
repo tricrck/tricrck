@@ -16,15 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### OpenAI Employee Arrested for Allegedly Planting Hidden Recorder in Executive Conference Room
+### Four-Byte Write and Timing Bug Let Researchers Run Code in Windows SmartScreen Enclave
 - **Published**: October 14, 2026
-- **Summary**: A Saudi National and employee of OpenAI has been arrested for allegedly planting a hidden recording device in an executive conference room at the comp...
-- [Read more](https://thehackernews.com/2026/10/openai-employee-arrested-for-allegedly.html)
+- **Summary**: Security researchers ran their own code inside a protected part of Windows that is meant to stay sealed off even when the rest of the computer is take...
+- **Keywords**: bug
+- [Read more](https://thehackernews.com/2026/10/four-byte-write-and-timing-bug-let.html)
 
-### Coinbase Built, Evaluated, and Post-Trained a Fraud Agent
+### AI-Found Linux Kernel Flaw Gives Local Users Root, and Can Break a Guest Out to the Host
 - **Published**: October 14, 2026
-- **Summary**: https://www.coinbase.com/en-gb/blog/part-one-how-coinbase-built-evalu......
-- [Read more](https://www.coinbase.com/en-gb/blog/part-one-how-coinbase-built-evaluated-and-post-trained-a-fraud-agent)
+- **Summary**: A flaw in Linux's vhost subsystem lets a local user read and write kernel memory at will and become root across nearly a decade of kernel versions. In...
+- [Read more](https://thehackernews.com/2026/10/ai-found-linux-kernel-flaw-gives-local.html)
 
 ---
 
