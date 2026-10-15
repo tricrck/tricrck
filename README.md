@@ -16,18 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### OpenAI, Google pushing new AI models easily tricked into making nudes
-- **Published**: October 15, 2026
-- **Summary**: https://arstechnica.com/tech-policy/2026/10/......
-- [Read more](https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say/)
+### Critical PwnEscape Linux Kernel Vulnerability Lets Guest VMs Read Host Memory
+- **Published**: October 16, 2026
+- **Summary**: A newly disclosed critical flaw in the Linux kernel allows code inside a virtual machine to read memory on the host computer it runs on. A researcher ...
+- [Read more](https://thehackernews.com/2026/10/critical-pwnescape-linux-kernel.html)
 
-### NGINX Fixes 5 Flaws, Including Possible RCE and a TLS Bug That May Skip Client-Cert Checks
-- **Published**: October 15, 2026
-- **Summary**: NGINX released&nbsp;versions 1.30.6 and 1.31.7&nbsp;on October 14 to fix five vulnerabilities, one of them present in every release since May 2005.
-
-T...
-- **Keywords**: bug
-- [Read more](https://thehackernews.com/2026/10/nginx-fixes-5-flaws-including-possible.html)
+### ThreatsDay: Adobe RCE, DNS Wallet Theft, NVIDIA Container Escape, Self-Healing Backdoor + 23 More
+- **Published**: October 16, 2026
+- **Summary**: Someone built a tool to steal data, then decided it should scare the victim for fun. Yes, that’s an actual feature. And somehow, it fits right in with...
+- [Read more](https://thehackernews.com/2026/10/threatsday-adobe-rce-dns-wallet-theft.html)
 
 ---
 
