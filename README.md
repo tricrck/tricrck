@@ -16,17 +16,18 @@
 
 ## 🚨 Tech Stories
 
-### India Mandates Registered Caller Name Display on 4G and Newer Networks From November 1
+### OpenAI, Google pushing new AI models easily tricked into making nudes
 - **Published**: October 15, 2026
-- **Summary**: The Indian government has directed telecom service providers (TSPs) in the country to mandatorily display callers' registered names along with their n...
-- [Read more](https://thehackernews.com/2026/10/india-mandates-registered-caller-name.html)
+- **Summary**: https://arstechnica.com/tech-policy/2026/10/......
+- [Read more](https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say/)
 
-### GhostAction Compromises About 1,900 GitHub Accounts, Targets Over 30,000 Repositories
+### NGINX Fixes 5 Flaws, Including Possible RCE and a TLS Bug That May Skip Client-Cert Checks
 - **Published**: October 15, 2026
-- **Summary**: The credential-theft campaign known as GhostAction has ramped up, targeting more than 30,000 repositories across 3,000 users and organizations.
+- **Summary**: NGINX released&nbsp;versions 1.30.6 and 1.31.7&nbsp;on October 14 to fix five vulnerabilities, one of them present in every release since May 2005.
 
-The s...
-- [Read more](https://thehackernews.com/2026/10/ghostaction-compromises-about-1900.html)
+T...
+- **Keywords**: bug
+- [Read more](https://thehackernews.com/2026/10/nginx-fixes-5-flaws-including-possible.html)
 
 ---
 
