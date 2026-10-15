@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### U.S. Shuts Down Over 40 Laptop Farms, Charges 14 in North Korean IT Worker Fraud
-- **Published**: October 14, 2026
-- **Summary**: The U.S. Department of Justice (DoJ) on Tuesday charged 14 people and seized about 187 computers as part of its ongoing efforts to disrupt North Korea...
-- **Keywords**: down, disrupt
-- [Read more](https://thehackernews.com/2026/10/us-shuts-down-over-40-laptop-farms.html)
-
-### Cisco Warns of Active Attacks Exploiting New Critical Secure Email Gateway Vulnerability
+### Sony shut down Overdrive, the fake PlayStation Store for pirated PS5 games, but clones appeared within hours
 - **Published**: October 15, 2026
-- **Summary**: Attackers are exploiting a critical flaw in Cisco Secure Email Gateway that lets a sender with no login write files to the appliance's operating syste...
-- [Read more](https://thehackernews.com/2026/10/cisco-warns-of-active-attacks.html)
+- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1x69e9y/sony_shut_down_overdrive_the_fake_playstation/"> <img alt="Sony shut down Overdrive...
+- **Keywords**: down, down
+- [Read more](https://www.reddit.com/r/technology/comments/1x69e9y/sony_shut_down_overdrive_the_fake_playstation/)
+
+### Will big software companies (like Adobe) come together to curb AI?
+- **Published**: October 15, 2026
+- **Summary**: <p>Recently heard about the fact that someone vibe-coded Adobe Cloud apps and having read people's reactions, one thing is clear: people say that this...
+- [Read more](https://news.ycombinator.com/item?id=50098712)
 
 ---
 
