@@ -16,16 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Sony shut down Overdrive, the fake PlayStation Store for pirated PS5 games, but clones appeared within hours
+### India Mandates Registered Caller Name Display on 4G and Newer Networks From November 1
 - **Published**: October 15, 2026
-- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1x69e9y/sony_shut_down_overdrive_the_fake_playstation/"> <img alt="Sony shut down Overdrive...
-- **Keywords**: down, down
-- [Read more](https://www.reddit.com/r/technology/comments/1x69e9y/sony_shut_down_overdrive_the_fake_playstation/)
+- **Summary**: The Indian government has directed telecom service providers (TSPs) in the country to mandatorily display callers' registered names along with their n...
+- [Read more](https://thehackernews.com/2026/10/india-mandates-registered-caller-name.html)
 
-### Will big software companies (like Adobe) come together to curb AI?
+### GhostAction Compromises About 1,900 GitHub Accounts, Targets Over 30,000 Repositories
 - **Published**: October 15, 2026
-- **Summary**: <p>Recently heard about the fact that someone vibe-coded Adobe Cloud apps and having read people's reactions, one thing is clear: people say that this...
-- [Read more](https://news.ycombinator.com/item?id=50098712)
+- **Summary**: The credential-theft campaign known as GhostAction has ramped up, targeting more than 30,000 repositories across 3,000 users and organizations.
+
+The s...
+- [Read more](https://thehackernews.com/2026/10/ghostaction-compromises-about-1900.html)
 
 ---
 
