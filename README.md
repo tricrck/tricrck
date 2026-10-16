@@ -16,15 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Critical PwnEscape Linux Kernel Vulnerability Lets Guest VMs Read Host Memory
+### I Got Addicted to Vibe Coding (I almost lost everything) [video]
 - **Published**: October 16, 2026
-- **Summary**: A newly disclosed critical flaw in the Linux kernel allows code inside a virtual machine to read memory on the host computer it runs on. A researcher ...
-- [Read more](https://thehackernews.com/2026/10/critical-pwnescape-linux-kernel.html)
+- **Summary**: https://www.youtube.com/watch?v=xPjZzMVyrAQ</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50113628">https......
+- [Read more](https://www.youtube.com/watch?v=xPjZzMVyrAQ)
 
-### ThreatsDay: Adobe RCE, DNS Wallet Theft, NVIDIA Container Escape, Self-Healing Backdoor + 23 More
+### Things I've Googled as a Developer
 - **Published**: October 16, 2026
-- **Summary**: Someone built a tool to steal data, then decided it should scare the victim for fun. Yes, that’s an actual feature. And somehow, it fits right in with...
-- [Read more](https://thehackernews.com/2026/10/threatsday-adobe-rce-dns-wallet-theft.html)
+- **Summary**: https://soargram.io/content/141871895</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50113624">https://news.ycom......
+- [Read more](https://soargram.io/content/141871895)
 
 ---
 
