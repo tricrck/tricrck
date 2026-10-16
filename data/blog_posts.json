@@ -1,35 +1,15 @@
 {
   "chaos_ranked": [
     {
-      "title": "Website Design as Existential Crisis",
-      "link": "https://www.debjitbanerjee.com/notes/website-design-as-existential-crisis/",
-      "summary": "<p>Article URL: <a href=\"https://www.debjitbanerjee.com/notes/website-design-as-existential-crisis/\">https://www.debjitbanerjee.com/notes/website-design-as-existential-crisis/</a></p>\n<p>Comments URL:...",
-      "published": "2026-10-16T16:02:25+00:00",
-      "domain": "debjitbanerjee.com",
+      "title": "Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug",
+      "link": "https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html",
+      "summary": "A local privilege escalation exploit published today gains root on OpenBSD 7.9 by chaining a roughly 37-year-old integer overflow with a separate kernel flaw, bypassing OpenBSD's KARL kernel-address r...",
+      "published": "2026-10-16T23:18:45+05:30",
+      "domain": "thehackernews.com",
       "scores": {
-        "chaos": 51.0,
+        "chaos": 10.6,
         "anarchy": 3.0,
-        "overall": 27.0
-      },
-      "keywords": {
-        "chaos": [
-          "crisis",
-          "crisis",
-          "crisis"
-        ],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD",
-      "link": "https://calif.io/research/big-fish",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=50118977\">Comments</a>...",
-      "published": "2026-10-16T14:44:02+00:00",
-      "domain": "calif.io",
-      "scores": {
-        "chaos": 18.9,
-        "anarchy": 3.0,
-        "overall": 11.0
+        "overall": 6.8
       },
       "keywords": {
         "chaos": [
@@ -39,123 +19,139 @@
       }
     },
     {
+      "title": "Attackers Tampered with AOMEI Backupper's Update Servers for Minutes to Deliver a Backdoor",
+      "link": "https://thehackernews.com/2026/10/attackers-tampered-with-aomei.html",
+      "summary": "Attackers repeatedly changed the files that AOMEI Backupper fetches from the vendor's own update servers, in windows of five to ten minutes at a time between May and July 2026, so that any copy of the...",
+      "published": "2026-10-16T22:13:39+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "UAT-11985 Uses Fake Event Invites to Target Taiwan Research Affiliates With Google AitM Phishing",
+      "link": "https://thehackernews.com/2026/10/uat-11985-uses-fake-event-invites-to.html",
+      "summary": "Cybersecurity researchers have disclosed details of an advanced persistent threat (APT) spear-phishing campaign that has targeted individuals affiliated with Taiwan research organizations to direct vi...",
+      "published": "2026-10-16T21:46:44+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Gnome OS Preview",
+      "link": "https://lwn.net/Articles/1101057/",
+      "summary": "<p>Article URL: <a href=\"https://lwn.net/Articles/1101057/\">https://lwn.net/Articles/1101057/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50124215\">https://news.ycombinator....",
+      "published": "2026-10-16T20:30:58+00:00",
+      "domain": "lwn.net",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Meta: Ever Got Stuck?",
+      "link": "https://blog.coredump.cx/p/meta-ever-got-stuck",
+      "summary": "<p>Article URL: <a href=\"https://blog.coredump.cx/p/meta-ever-got-stuck\">https://blog.coredump.cx/p/meta-ever-got-stuck</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50124204\"...",
+      "published": "2026-10-16T20:30:09+00:00",
+      "domain": "blog.coredump.cx",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Nothing Is Boring in America",
+      "link": "https://www.commonreader.co.uk/p/nothing-is-boring-in-america",
+      "summary": "<p>Article URL: <a href=\"https://www.commonreader.co.uk/p/nothing-is-boring-in-america\">https://www.commonreader.co.uk/p/nothing-is-boring-in-america</a></p>\n<p>Comments URL: <a href=\"https://news.yco...",
+      "published": "2026-10-16T20:30:02+00:00",
+      "domain": "commonreader.co.uk",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "How to effectively debug when you no longer understand the code",
+      "link": "https://copyconstruct.medium.com/how-to-effectively-debug-when-you-no-longer-understand-the-code-bd3dcb2c5f7b",
+      "summary": "<p>Article URL: <a href=\"https://copyconstruct.medium.com/how-to-effectively-debug-when-you-no-longer-understand-the-code-bd3dcb2c5f7b\">https://copyconstruct.medium.com/how-to-effectively-debug-when-y...",
+      "published": "2026-10-16T20:29:45+00:00",
+      "domain": "copyconstruct.medium.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Robert Hall, Optimal Money, and the Nobel Prize",
+      "link": "https://www.economicforces.xyz/p/robert-hall-optimal-money-and-the",
+      "summary": "<p>Article URL: <a href=\"https://www.economicforces.xyz/p/robert-hall-optimal-money-and-the\">https://www.economicforces.xyz/p/robert-hall-optimal-money-and-the</a></p>\n<p>Comments URL: <a href=\"https:...",
+      "published": "2026-10-16T20:29:23+00:00",
+      "domain": "economicforces.xyz",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Flux 3 Image Klein: open weights, 5.6B parameters",
+      "link": "https://bfl.ai/blog/flux-3-image-klein",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50123580\">Comments</a>...",
+      "published": "2026-10-16T19:47:13+00:00",
+      "domain": "bfl.ai",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "OpenAI Research Model Spent 3rd-Party Test ETH Without Permission to Deploy Smart Contract",
       "link": "https://thehackernews.com/2026/10/openai-research-model-spent-3rd-party.html",
       "summary": "OpenAI has disclosed seven new incidents in which its artificial intelligence (AI) models exhibited misaligned behavior, including one case where its research model, after not having funds on an Ether...",
       "published": "2026-10-16T19:33:04+05:30",
       "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "AI Decision Models and Their Impact on AI SOC Platforms",
-      "link": "https://thehackernews.com/2026/10/ai-decision-models-and-their-impact-on.html",
-      "summary": "In the space of a month, a new category of AI model went from nonexistent to everywhere. TypeSafe AI released Jev on September 15 and called it a System One model, a nod to Kahneman's fast, intuitive ...",
-      "published": "2026-10-16T17:00:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "US Rep Announces Congressional Legislation to Protect Video Game Ownership",
-      "link": "https://ritchietorres.house.gov/posts/rep-torres-announces-power-to-the-players-act-legislation-to-ensure-gamers-own-their-games",
-      "summary": "<p>Article URL: <a href=\"https://ritchietorres.house.gov/posts/rep-torres-announces-power-to-the-players-act-legislation-to-ensure-gamers-own-their-games\">https://ritchietorres.house.gov/posts/rep-tor...",
-      "published": "2026-10-16T16:03:02+00:00",
-      "domain": "ritchietorres.house.gov",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "A Re-Ranker as a Decision Model",
-      "link": "https://news.ycombinator.com/item?id=50120096",
-      "summary": "<p>How far a small reranker could go as a decision model?</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50120096\">https://news.ycombinator.com/item?id=50120096</a></p>\n<p>P...",
-      "published": "2026-10-16T16:02:40+00:00",
-      "domain": "news.ycombinator.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: Blueprints \u2013 Patterns, Not Prompts (Preview)",
-      "link": "https://pullboard.dev/blueprints/",
-      "summary": "<p>Article URL: <a href=\"https://pullboard.dev/blueprints/\">https://pullboard.dev/blueprints/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50120095\">https://news.ycombinator....",
-      "published": "2026-10-16T16:02:33+00:00",
-      "domain": "pullboard.dev",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The Pink Elephant in Your Prompt",
-      "link": "https://bonsai.io/blog/pink-elephant-in-your-prompt/",
-      "summary": "<p>Article URL: <a href=\"https://bonsai.io/blog/pink-elephant-in-your-prompt/\">https://bonsai.io/blog/pink-elephant-in-your-prompt/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?...",
-      "published": "2026-10-16T16:02:32+00:00",
-      "domain": "bonsai.io",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "What on Earth Is Dekton?",
-      "link": "https://www.worksinprogress.news/p/porcelain",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=50118828\">Comments</a>...",
-      "published": "2026-10-16T14:31:43+00:00",
-      "domain": "worksinprogress.news",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: Gemini 4 Argon plays StarCraft",
-      "link": "https://starskirmish.com/bench/v0-2/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=50118688\">Comments</a>...",
-      "published": "2026-10-16T14:18:44+00:00",
-      "domain": "starskirmish.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -169,131 +165,15 @@
   ],
   "anarchy_ranked": [
     {
-      "title": "OpenAI Research Model Spent 3rd-Party Test ETH Without Permission to Deploy Smart Contract",
-      "link": "https://thehackernews.com/2026/10/openai-research-model-spent-3rd-party.html",
-      "summary": "OpenAI has disclosed seven new incidents in which its artificial intelligence (AI) models exhibited misaligned behavior, including one case where its research model, after not having funds on an Ether...",
-      "published": "2026-10-16T19:33:04+05:30",
+      "title": "Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug",
+      "link": "https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html",
+      "summary": "A local privilege escalation exploit published today gains root on OpenBSD 7.9 by chaining a roughly 37-year-old integer overflow with a separate kernel flaw, bypassing OpenBSD's KARL kernel-address r...",
+      "published": "2026-10-16T23:18:45+05:30",
       "domain": "thehackernews.com",
       "scores": {
-        "chaos": 3.0,
+        "chaos": 10.6,
         "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "AI Decision Models and Their Impact on AI SOC Platforms",
-      "link": "https://thehackernews.com/2026/10/ai-decision-models-and-their-impact-on.html",
-      "summary": "In the space of a month, a new category of AI model went from nonexistent to everywhere. TypeSafe AI released Jev on September 15 and called it a System One model, a nod to Kahneman's fast, intuitive ...",
-      "published": "2026-10-16T17:00:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "US Rep Announces Congressional Legislation to Protect Video Game Ownership",
-      "link": "https://ritchietorres.house.gov/posts/rep-torres-announces-power-to-the-players-act-legislation-to-ensure-gamers-own-their-games",
-      "summary": "<p>Article URL: <a href=\"https://ritchietorres.house.gov/posts/rep-torres-announces-power-to-the-players-act-legislation-to-ensure-gamers-own-their-games\">https://ritchietorres.house.gov/posts/rep-tor...",
-      "published": "2026-10-16T16:03:02+00:00",
-      "domain": "ritchietorres.house.gov",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "A Re-Ranker as a Decision Model",
-      "link": "https://news.ycombinator.com/item?id=50120096",
-      "summary": "<p>How far a small reranker could go as a decision model?</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50120096\">https://news.ycombinator.com/item?id=50120096</a></p>\n<p>P...",
-      "published": "2026-10-16T16:02:40+00:00",
-      "domain": "news.ycombinator.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: Blueprints \u2013 Patterns, Not Prompts (Preview)",
-      "link": "https://pullboard.dev/blueprints/",
-      "summary": "<p>Article URL: <a href=\"https://pullboard.dev/blueprints/\">https://pullboard.dev/blueprints/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50120095\">https://news.ycombinator....",
-      "published": "2026-10-16T16:02:33+00:00",
-      "domain": "pullboard.dev",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The Pink Elephant in Your Prompt",
-      "link": "https://bonsai.io/blog/pink-elephant-in-your-prompt/",
-      "summary": "<p>Article URL: <a href=\"https://bonsai.io/blog/pink-elephant-in-your-prompt/\">https://bonsai.io/blog/pink-elephant-in-your-prompt/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?...",
-      "published": "2026-10-16T16:02:32+00:00",
-      "domain": "bonsai.io",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Website Design as Existential Crisis",
-      "link": "https://www.debjitbanerjee.com/notes/website-design-as-existential-crisis/",
-      "summary": "<p>Article URL: <a href=\"https://www.debjitbanerjee.com/notes/website-design-as-existential-crisis/\">https://www.debjitbanerjee.com/notes/website-design-as-existential-crisis/</a></p>\n<p>Comments URL:...",
-      "published": "2026-10-16T16:02:25+00:00",
-      "domain": "debjitbanerjee.com",
-      "scores": {
-        "chaos": 51.0,
-        "anarchy": 3.0,
-        "overall": 27.0
-      },
-      "keywords": {
-        "chaos": [
-          "crisis",
-          "crisis",
-          "crisis"
-        ],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD",
-      "link": "https://calif.io/research/big-fish",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=50118977\">Comments</a>...",
-      "published": "2026-10-16T14:44:02+00:00",
-      "domain": "calif.io",
-      "scores": {
-        "chaos": 18.9,
-        "anarchy": 3.0,
-        "overall": 11.0
+        "overall": 6.8
       },
       "keywords": {
         "chaos": [
@@ -303,11 +183,11 @@
       }
     },
     {
-      "title": "What on Earth Is Dekton?",
-      "link": "https://www.worksinprogress.news/p/porcelain",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=50118828\">Comments</a>...",
-      "published": "2026-10-16T14:31:43+00:00",
-      "domain": "worksinprogress.news",
+      "title": "Attackers Tampered with AOMEI Backupper's Update Servers for Minutes to Deliver a Backdoor",
+      "link": "https://thehackernews.com/2026/10/attackers-tampered-with-aomei.html",
+      "summary": "Attackers repeatedly changed the files that AOMEI Backupper fetches from the vendor's own update servers, in windows of five to ten minutes at a time between May and July 2026, so that any copy of the...",
+      "published": "2026-10-16T22:13:39+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -319,11 +199,123 @@
       }
     },
     {
-      "title": "Show HN: Gemini 4 Argon plays StarCraft",
-      "link": "https://starskirmish.com/bench/v0-2/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=50118688\">Comments</a>...",
-      "published": "2026-10-16T14:18:44+00:00",
-      "domain": "starskirmish.com",
+      "title": "UAT-11985 Uses Fake Event Invites to Target Taiwan Research Affiliates With Google AitM Phishing",
+      "link": "https://thehackernews.com/2026/10/uat-11985-uses-fake-event-invites-to.html",
+      "summary": "Cybersecurity researchers have disclosed details of an advanced persistent threat (APT) spear-phishing campaign that has targeted individuals affiliated with Taiwan research organizations to direct vi...",
+      "published": "2026-10-16T21:46:44+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Gnome OS Preview",
+      "link": "https://lwn.net/Articles/1101057/",
+      "summary": "<p>Article URL: <a href=\"https://lwn.net/Articles/1101057/\">https://lwn.net/Articles/1101057/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50124215\">https://news.ycombinator....",
+      "published": "2026-10-16T20:30:58+00:00",
+      "domain": "lwn.net",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Meta: Ever Got Stuck?",
+      "link": "https://blog.coredump.cx/p/meta-ever-got-stuck",
+      "summary": "<p>Article URL: <a href=\"https://blog.coredump.cx/p/meta-ever-got-stuck\">https://blog.coredump.cx/p/meta-ever-got-stuck</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50124204\"...",
+      "published": "2026-10-16T20:30:09+00:00",
+      "domain": "blog.coredump.cx",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Nothing Is Boring in America",
+      "link": "https://www.commonreader.co.uk/p/nothing-is-boring-in-america",
+      "summary": "<p>Article URL: <a href=\"https://www.commonreader.co.uk/p/nothing-is-boring-in-america\">https://www.commonreader.co.uk/p/nothing-is-boring-in-america</a></p>\n<p>Comments URL: <a href=\"https://news.yco...",
+      "published": "2026-10-16T20:30:02+00:00",
+      "domain": "commonreader.co.uk",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "How to effectively debug when you no longer understand the code",
+      "link": "https://copyconstruct.medium.com/how-to-effectively-debug-when-you-no-longer-understand-the-code-bd3dcb2c5f7b",
+      "summary": "<p>Article URL: <a href=\"https://copyconstruct.medium.com/how-to-effectively-debug-when-you-no-longer-understand-the-code-bd3dcb2c5f7b\">https://copyconstruct.medium.com/how-to-effectively-debug-when-y...",
+      "published": "2026-10-16T20:29:45+00:00",
+      "domain": "copyconstruct.medium.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Robert Hall, Optimal Money, and the Nobel Prize",
+      "link": "https://www.economicforces.xyz/p/robert-hall-optimal-money-and-the",
+      "summary": "<p>Article URL: <a href=\"https://www.economicforces.xyz/p/robert-hall-optimal-money-and-the\">https://www.economicforces.xyz/p/robert-hall-optimal-money-and-the</a></p>\n<p>Comments URL: <a href=\"https:...",
+      "published": "2026-10-16T20:29:23+00:00",
+      "domain": "economicforces.xyz",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Flux 3 Image Klein: open weights, 5.6B parameters",
+      "link": "https://bfl.ai/blog/flux-3-image-klein",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50123580\">Comments</a>...",
+      "published": "2026-10-16T19:47:13+00:00",
+      "domain": "bfl.ai",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "OpenAI Research Model Spent 3rd-Party Test ETH Without Permission to Deploy Smart Contract",
+      "link": "https://thehackernews.com/2026/10/openai-research-model-spent-3rd-party.html",
+      "summary": "OpenAI has disclosed seven new incidents in which its artificial intelligence (AI) models exhibited misaligned behavior, including one case where its research model, after not having funds on an Ether...",
+      "published": "2026-10-16T19:33:04+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -337,35 +329,15 @@
   ],
   "overall_ranked": [
     {
-      "title": "Website Design as Existential Crisis",
-      "link": "https://www.debjitbanerjee.com/notes/website-design-as-existential-crisis/",
-      "summary": "<p>Article URL: <a href=\"https://www.debjitbanerjee.com/notes/website-design-as-existential-crisis/\">https://www.debjitbanerjee.com/notes/website-design-as-existential-crisis/</a></p>\n<p>Comments URL:...",
-      "published": "2026-10-16T16:02:25+00:00",
-      "domain": "debjitbanerjee.com",
+      "title": "Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug",
+      "link": "https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html",
+      "summary": "A local privilege escalation exploit published today gains root on OpenBSD 7.9 by chaining a roughly 37-year-old integer overflow with a separate kernel flaw, bypassing OpenBSD's KARL kernel-address r...",
+      "published": "2026-10-16T23:18:45+05:30",
+      "domain": "thehackernews.com",
       "scores": {
-        "chaos": 51.0,
+        "chaos": 10.6,
         "anarchy": 3.0,
-        "overall": 27.0
-      },
-      "keywords": {
-        "chaos": [
-          "crisis",
-          "crisis",
-          "crisis"
-        ],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD",
-      "link": "https://calif.io/research/big-fish",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=50118977\">Comments</a>...",
-      "published": "2026-10-16T14:44:02+00:00",
-      "domain": "calif.io",
-      "scores": {
-        "chaos": 18.9,
-        "anarchy": 3.0,
-        "overall": 11.0
+        "overall": 6.8
       },
       "keywords": {
         "chaos": [
@@ -375,123 +347,139 @@
       }
     },
     {
+      "title": "Attackers Tampered with AOMEI Backupper's Update Servers for Minutes to Deliver a Backdoor",
+      "link": "https://thehackernews.com/2026/10/attackers-tampered-with-aomei.html",
+      "summary": "Attackers repeatedly changed the files that AOMEI Backupper fetches from the vendor's own update servers, in windows of five to ten minutes at a time between May and July 2026, so that any copy of the...",
+      "published": "2026-10-16T22:13:39+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "UAT-11985 Uses Fake Event Invites to Target Taiwan Research Affiliates With Google AitM Phishing",
+      "link": "https://thehackernews.com/2026/10/uat-11985-uses-fake-event-invites-to.html",
+      "summary": "Cybersecurity researchers have disclosed details of an advanced persistent threat (APT) spear-phishing campaign that has targeted individuals affiliated with Taiwan research organizations to direct vi...",
+      "published": "2026-10-16T21:46:44+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Gnome OS Preview",
+      "link": "https://lwn.net/Articles/1101057/",
+      "summary": "<p>Article URL: <a href=\"https://lwn.net/Articles/1101057/\">https://lwn.net/Articles/1101057/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50124215\">https://news.ycombinator....",
+      "published": "2026-10-16T20:30:58+00:00",
+      "domain": "lwn.net",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Meta: Ever Got Stuck?",
+      "link": "https://blog.coredump.cx/p/meta-ever-got-stuck",
+      "summary": "<p>Article URL: <a href=\"https://blog.coredump.cx/p/meta-ever-got-stuck\">https://blog.coredump.cx/p/meta-ever-got-stuck</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50124204\"...",
+      "published": "2026-10-16T20:30:09+00:00",
+      "domain": "blog.coredump.cx",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Nothing Is Boring in America",
+      "link": "https://www.commonreader.co.uk/p/nothing-is-boring-in-america",
+      "summary": "<p>Article URL: <a href=\"https://www.commonreader.co.uk/p/nothing-is-boring-in-america\">https://www.commonreader.co.uk/p/nothing-is-boring-in-america</a></p>\n<p>Comments URL: <a href=\"https://news.yco...",
+      "published": "2026-10-16T20:30:02+00:00",
+      "domain": "commonreader.co.uk",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "How to effectively debug when you no longer understand the code",
+      "link": "https://copyconstruct.medium.com/how-to-effectively-debug-when-you-no-longer-understand-the-code-bd3dcb2c5f7b",
+      "summary": "<p>Article URL: <a href=\"https://copyconstruct.medium.com/how-to-effectively-debug-when-you-no-longer-understand-the-code-bd3dcb2c5f7b\">https://copyconstruct.medium.com/how-to-effectively-debug-when-y...",
+      "published": "2026-10-16T20:29:45+00:00",
+      "domain": "copyconstruct.medium.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Robert Hall, Optimal Money, and the Nobel Prize",
+      "link": "https://www.economicforces.xyz/p/robert-hall-optimal-money-and-the",
+      "summary": "<p>Article URL: <a href=\"https://www.economicforces.xyz/p/robert-hall-optimal-money-and-the\">https://www.economicforces.xyz/p/robert-hall-optimal-money-and-the</a></p>\n<p>Comments URL: <a href=\"https:...",
+      "published": "2026-10-16T20:29:23+00:00",
+      "domain": "economicforces.xyz",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Flux 3 Image Klein: open weights, 5.6B parameters",
+      "link": "https://bfl.ai/blog/flux-3-image-klein",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50123580\">Comments</a>...",
+      "published": "2026-10-16T19:47:13+00:00",
+      "domain": "bfl.ai",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "OpenAI Research Model Spent 3rd-Party Test ETH Without Permission to Deploy Smart Contract",
       "link": "https://thehackernews.com/2026/10/openai-research-model-spent-3rd-party.html",
       "summary": "OpenAI has disclosed seven new incidents in which its artificial intelligence (AI) models exhibited misaligned behavior, including one case where its research model, after not having funds on an Ether...",
       "published": "2026-10-16T19:33:04+05:30",
       "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "AI Decision Models and Their Impact on AI SOC Platforms",
-      "link": "https://thehackernews.com/2026/10/ai-decision-models-and-their-impact-on.html",
-      "summary": "In the space of a month, a new category of AI model went from nonexistent to everywhere. TypeSafe AI released Jev on September 15 and called it a System One model, a nod to Kahneman's fast, intuitive ...",
-      "published": "2026-10-16T17:00:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "US Rep Announces Congressional Legislation to Protect Video Game Ownership",
-      "link": "https://ritchietorres.house.gov/posts/rep-torres-announces-power-to-the-players-act-legislation-to-ensure-gamers-own-their-games",
-      "summary": "<p>Article URL: <a href=\"https://ritchietorres.house.gov/posts/rep-torres-announces-power-to-the-players-act-legislation-to-ensure-gamers-own-their-games\">https://ritchietorres.house.gov/posts/rep-tor...",
-      "published": "2026-10-16T16:03:02+00:00",
-      "domain": "ritchietorres.house.gov",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "A Re-Ranker as a Decision Model",
-      "link": "https://news.ycombinator.com/item?id=50120096",
-      "summary": "<p>How far a small reranker could go as a decision model?</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50120096\">https://news.ycombinator.com/item?id=50120096</a></p>\n<p>P...",
-      "published": "2026-10-16T16:02:40+00:00",
-      "domain": "news.ycombinator.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: Blueprints \u2013 Patterns, Not Prompts (Preview)",
-      "link": "https://pullboard.dev/blueprints/",
-      "summary": "<p>Article URL: <a href=\"https://pullboard.dev/blueprints/\">https://pullboard.dev/blueprints/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50120095\">https://news.ycombinator....",
-      "published": "2026-10-16T16:02:33+00:00",
-      "domain": "pullboard.dev",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The Pink Elephant in Your Prompt",
-      "link": "https://bonsai.io/blog/pink-elephant-in-your-prompt/",
-      "summary": "<p>Article URL: <a href=\"https://bonsai.io/blog/pink-elephant-in-your-prompt/\">https://bonsai.io/blog/pink-elephant-in-your-prompt/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?...",
-      "published": "2026-10-16T16:02:32+00:00",
-      "domain": "bonsai.io",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "What on Earth Is Dekton?",
-      "link": "https://www.worksinprogress.news/p/porcelain",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=50118828\">Comments</a>...",
-      "published": "2026-10-16T14:31:43+00:00",
-      "domain": "worksinprogress.news",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: Gemini 4 Argon plays StarCraft",
-      "link": "https://starskirmish.com/bench/v0-2/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=50118688\">Comments</a>...",
-      "published": "2026-10-16T14:18:44+00:00",
-      "domain": "starskirmish.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -505,131 +493,15 @@
   ],
   "all_articles": [
     {
-      "title": "OpenAI Research Model Spent 3rd-Party Test ETH Without Permission to Deploy Smart Contract",
-      "link": "https://thehackernews.com/2026/10/openai-research-model-spent-3rd-party.html",
-      "summary": "OpenAI has disclosed seven new incidents in which its artificial intelligence (AI) models exhibited misaligned behavior, including one case where its research model, after not having funds on an Ether...",
-      "published": "2026-10-16T19:33:04+05:30",
+      "title": "Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug",
+      "link": "https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html",
+      "summary": "A local privilege escalation exploit published today gains root on OpenBSD 7.9 by chaining a roughly 37-year-old integer overflow with a separate kernel flaw, bypassing OpenBSD's KARL kernel-address r...",
+      "published": "2026-10-16T23:18:45+05:30",
       "domain": "thehackernews.com",
       "scores": {
-        "chaos": 3.0,
+        "chaos": 10.6,
         "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "AI Decision Models and Their Impact on AI SOC Platforms",
-      "link": "https://thehackernews.com/2026/10/ai-decision-models-and-their-impact-on.html",
-      "summary": "In the space of a month, a new category of AI model went from nonexistent to everywhere. TypeSafe AI released Jev on September 15 and called it a System One model, a nod to Kahneman's fast, intuitive ...",
-      "published": "2026-10-16T17:00:00+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "US Rep Announces Congressional Legislation to Protect Video Game Ownership",
-      "link": "https://ritchietorres.house.gov/posts/rep-torres-announces-power-to-the-players-act-legislation-to-ensure-gamers-own-their-games",
-      "summary": "<p>Article URL: <a href=\"https://ritchietorres.house.gov/posts/rep-torres-announces-power-to-the-players-act-legislation-to-ensure-gamers-own-their-games\">https://ritchietorres.house.gov/posts/rep-tor...",
-      "published": "2026-10-16T16:03:02+00:00",
-      "domain": "ritchietorres.house.gov",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "A Re-Ranker as a Decision Model",
-      "link": "https://news.ycombinator.com/item?id=50120096",
-      "summary": "<p>How far a small reranker could go as a decision model?</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50120096\">https://news.ycombinator.com/item?id=50120096</a></p>\n<p>P...",
-      "published": "2026-10-16T16:02:40+00:00",
-      "domain": "news.ycombinator.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: Blueprints \u2013 Patterns, Not Prompts (Preview)",
-      "link": "https://pullboard.dev/blueprints/",
-      "summary": "<p>Article URL: <a href=\"https://pullboard.dev/blueprints/\">https://pullboard.dev/blueprints/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50120095\">https://news.ycombinator....",
-      "published": "2026-10-16T16:02:33+00:00",
-      "domain": "pullboard.dev",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The Pink Elephant in Your Prompt",
-      "link": "https://bonsai.io/blog/pink-elephant-in-your-prompt/",
-      "summary": "<p>Article URL: <a href=\"https://bonsai.io/blog/pink-elephant-in-your-prompt/\">https://bonsai.io/blog/pink-elephant-in-your-prompt/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?...",
-      "published": "2026-10-16T16:02:32+00:00",
-      "domain": "bonsai.io",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Website Design as Existential Crisis",
-      "link": "https://www.debjitbanerjee.com/notes/website-design-as-existential-crisis/",
-      "summary": "<p>Article URL: <a href=\"https://www.debjitbanerjee.com/notes/website-design-as-existential-crisis/\">https://www.debjitbanerjee.com/notes/website-design-as-existential-crisis/</a></p>\n<p>Comments URL:...",
-      "published": "2026-10-16T16:02:25+00:00",
-      "domain": "debjitbanerjee.com",
-      "scores": {
-        "chaos": 51.0,
-        "anarchy": 3.0,
-        "overall": 27.0
-      },
-      "keywords": {
-        "chaos": [
-          "crisis",
-          "crisis",
-          "crisis"
-        ],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD",
-      "link": "https://calif.io/research/big-fish",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=50118977\">Comments</a>...",
-      "published": "2026-10-16T14:44:02+00:00",
-      "domain": "calif.io",
-      "scores": {
-        "chaos": 18.9,
-        "anarchy": 3.0,
-        "overall": 11.0
+        "overall": 6.8
       },
       "keywords": {
         "chaos": [
@@ -639,11 +511,11 @@
       }
     },
     {
-      "title": "What on Earth Is Dekton?",
-      "link": "https://www.worksinprogress.news/p/porcelain",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=50118828\">Comments</a>...",
-      "published": "2026-10-16T14:31:43+00:00",
-      "domain": "worksinprogress.news",
+      "title": "Attackers Tampered with AOMEI Backupper's Update Servers for Minutes to Deliver a Backdoor",
+      "link": "https://thehackernews.com/2026/10/attackers-tampered-with-aomei.html",
+      "summary": "Attackers repeatedly changed the files that AOMEI Backupper fetches from the vendor's own update servers, in windows of five to ten minutes at a time between May and July 2026, so that any copy of the...",
+      "published": "2026-10-16T22:13:39+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -655,11 +527,123 @@
       }
     },
     {
-      "title": "Show HN: Gemini 4 Argon plays StarCraft",
-      "link": "https://starskirmish.com/bench/v0-2/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=50118688\">Comments</a>...",
-      "published": "2026-10-16T14:18:44+00:00",
-      "domain": "starskirmish.com",
+      "title": "UAT-11985 Uses Fake Event Invites to Target Taiwan Research Affiliates With Google AitM Phishing",
+      "link": "https://thehackernews.com/2026/10/uat-11985-uses-fake-event-invites-to.html",
+      "summary": "Cybersecurity researchers have disclosed details of an advanced persistent threat (APT) spear-phishing campaign that has targeted individuals affiliated with Taiwan research organizations to direct vi...",
+      "published": "2026-10-16T21:46:44+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Gnome OS Preview",
+      "link": "https://lwn.net/Articles/1101057/",
+      "summary": "<p>Article URL: <a href=\"https://lwn.net/Articles/1101057/\">https://lwn.net/Articles/1101057/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50124215\">https://news.ycombinator....",
+      "published": "2026-10-16T20:30:58+00:00",
+      "domain": "lwn.net",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Meta: Ever Got Stuck?",
+      "link": "https://blog.coredump.cx/p/meta-ever-got-stuck",
+      "summary": "<p>Article URL: <a href=\"https://blog.coredump.cx/p/meta-ever-got-stuck\">https://blog.coredump.cx/p/meta-ever-got-stuck</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50124204\"...",
+      "published": "2026-10-16T20:30:09+00:00",
+      "domain": "blog.coredump.cx",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Nothing Is Boring in America",
+      "link": "https://www.commonreader.co.uk/p/nothing-is-boring-in-america",
+      "summary": "<p>Article URL: <a href=\"https://www.commonreader.co.uk/p/nothing-is-boring-in-america\">https://www.commonreader.co.uk/p/nothing-is-boring-in-america</a></p>\n<p>Comments URL: <a href=\"https://news.yco...",
+      "published": "2026-10-16T20:30:02+00:00",
+      "domain": "commonreader.co.uk",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "How to effectively debug when you no longer understand the code",
+      "link": "https://copyconstruct.medium.com/how-to-effectively-debug-when-you-no-longer-understand-the-code-bd3dcb2c5f7b",
+      "summary": "<p>Article URL: <a href=\"https://copyconstruct.medium.com/how-to-effectively-debug-when-you-no-longer-understand-the-code-bd3dcb2c5f7b\">https://copyconstruct.medium.com/how-to-effectively-debug-when-y...",
+      "published": "2026-10-16T20:29:45+00:00",
+      "domain": "copyconstruct.medium.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Robert Hall, Optimal Money, and the Nobel Prize",
+      "link": "https://www.economicforces.xyz/p/robert-hall-optimal-money-and-the",
+      "summary": "<p>Article URL: <a href=\"https://www.economicforces.xyz/p/robert-hall-optimal-money-and-the\">https://www.economicforces.xyz/p/robert-hall-optimal-money-and-the</a></p>\n<p>Comments URL: <a href=\"https:...",
+      "published": "2026-10-16T20:29:23+00:00",
+      "domain": "economicforces.xyz",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Flux 3 Image Klein: open weights, 5.6B parameters",
+      "link": "https://bfl.ai/blog/flux-3-image-klein",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50123580\">Comments</a>...",
+      "published": "2026-10-16T19:47:13+00:00",
+      "domain": "bfl.ai",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "OpenAI Research Model Spent 3rd-Party Test ETH Without Permission to Deploy Smart Contract",
+      "link": "https://thehackernews.com/2026/10/openai-research-model-spent-3rd-party.html",
+      "summary": "OpenAI has disclosed seven new incidents in which its artificial intelligence (AI) models exhibited misaligned behavior, including one case where its research model, after not having funds on an Ether...",
+      "published": "2026-10-16T19:33:04+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,

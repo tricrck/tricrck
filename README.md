@@ -16,18 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Website Design as Existential Crisis
+### Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug
 - **Published**: October 16, 2026
-- **Summary**: https://www.debjitbanerjee.com/notes/website-design-as-existential-crisis/</a></p>
-<p>Comments URL:......
-- **Keywords**: crisis, crisis, crisis
-- [Read more](https://www.debjitbanerjee.com/notes/website-design-as-existential-crisis/)
-
-### Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD
-- **Published**: October 16, 2026
-- **Summary**: ......
+- **Summary**: A local privilege escalation exploit published today gains root on OpenBSD 7.9 by chaining a roughly 37-year-old integer overflow with a separate kern...
 - **Keywords**: bug
-- [Read more](https://calif.io/research/big-fish)
+- [Read more](https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html)
+
+### Attackers Tampered with AOMEI Backupper's Update Servers for Minutes to Deliver a Backdoor
+- **Published**: October 16, 2026
+- **Summary**: Attackers repeatedly changed the files that AOMEI Backupper fetches from the vendor's own update servers, in windows of five to ten minutes at a time ...
+- [Read more](https://thehackernews.com/2026/10/attackers-tampered-with-aomei.html)
 
 ---
 
