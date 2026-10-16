@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### I Got Addicted to Vibe Coding (I almost lost everything) [video]
+### Texas sued after glitch delays almost 600,000 voter registrations
 - **Published**: October 16, 2026
-- **Summary**: https://www.youtube.com/watch?v=xPjZzMVyrAQ</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50113628">https......
-- [Read more](https://www.youtube.com/watch?v=xPjZzMVyrAQ)
+- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1x75sf0/texas_sued_after_glitch_delays_almost_600000/"> <img alt="Texas sued after glitch d...
+- **Keywords**: glitch, glitch
+- [Read more](https://www.reddit.com/r/technology/comments/1x75sf0/texas_sued_after_glitch_delays_almost_600000/)
 
-### Things I've Googled as a Developer
+### China-Linked Hackers Exploited BeyondTrust Zero-Day to Take Over Remote Support Servers
 - **Published**: October 16, 2026
-- **Summary**: https://soargram.io/content/141871895</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50113624">https://news.ycom......
-- [Read more](https://soargram.io/content/141871895)
+- **Summary**: The China-nexus cyber espionage group tracked as Armory Castle (previously UNC5221 or Warp Panda) exploited a newly disclosed security flaw in BeyondT...
+- [Read more](https://thehackernews.com/2026/10/china-linked-hackers-exploited.html)
 
 ---
 
