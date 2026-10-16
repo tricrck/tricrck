@@ -16,16 +16,18 @@
 
 ## 🚨 Tech Stories
 
-### Texas sued after glitch delays almost 600,000 voter registrations
+### Website Design as Existential Crisis
 - **Published**: October 16, 2026
-- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1x75sf0/texas_sued_after_glitch_delays_almost_600000/"> <img alt="Texas sued after glitch d...
-- **Keywords**: glitch, glitch
-- [Read more](https://www.reddit.com/r/technology/comments/1x75sf0/texas_sued_after_glitch_delays_almost_600000/)
+- **Summary**: https://www.debjitbanerjee.com/notes/website-design-as-existential-crisis/</a></p>
+<p>Comments URL:......
+- **Keywords**: crisis, crisis, crisis
+- [Read more](https://www.debjitbanerjee.com/notes/website-design-as-existential-crisis/)
 
-### China-Linked Hackers Exploited BeyondTrust Zero-Day to Take Over Remote Support Servers
+### Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD
 - **Published**: October 16, 2026
-- **Summary**: The China-nexus cyber espionage group tracked as Armory Castle (previously UNC5221 or Warp Panda) exploited a newly disclosed security flaw in BeyondT...
-- [Read more](https://thehackernews.com/2026/10/china-linked-hackers-exploited.html)
+- **Summary**: ......
+- **Keywords**: bug
+- [Read more](https://calif.io/research/big-fish)
 
 ---
 
