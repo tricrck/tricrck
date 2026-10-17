@@ -22,10 +22,10 @@
 - **Keywords**: bug
 - [Read more](https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html)
 
-### Attackers Tampered with AOMEI Backupper's Update Servers for Minutes to Deliver a Backdoor
-- **Published**: October 16, 2026
-- **Summary**: Attackers repeatedly changed the files that AOMEI Backupper fetches from the vendor's own update servers, in windows of five to ten minutes at a time ...
-- [Read more](https://thehackernews.com/2026/10/attackers-tampered-with-aomei.html)
+### Why Is Tech Billionaire Marc Andreessen So Mad?
+- **Published**: October 17, 2026
+- **Summary**: https://www.bloomberg.com/news/features/2026-10-15/how-ai-crypto-and-de......
+- [Read more](https://www.bloomberg.com/news/features/2026-10-15/how-ai-crypto-and-dei-drove-marc-andreessen-to-maga)
 
 ---
 
