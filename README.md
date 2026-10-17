@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug
-- **Published**: October 16, 2026
-- **Summary**: A local privilege escalation exploit published today gains root on OpenBSD 7.9 by chaining a roughly 37-year-old integer overflow with a separate kern...
-- **Keywords**: bug
-- [Read more](https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html)
-
-### Why Is Tech Billionaire Marc Andreessen So Mad?
+### Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft 365 Tenants
 - **Published**: October 17, 2026
-- **Summary**: https://www.bloomberg.com/news/features/2026-10-15/how-ai-crypto-and-de......
-- [Read more](https://www.bloomberg.com/news/features/2026-10-15/how-ai-crypto-and-dei-drove-marc-andreessen-to-maga)
+- **Summary**: Cybersecurity researchers are sounding the alarm related to an active campaign in which unknown threat actors are abusing a compromised Microsoft 365 ...
+- [Read more](https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html)
+
+### Show HN: A Game of Life sandbox where any pattern is a shareable link
+- **Published**: October 17, 2026
+- **Summary**: https://www.seloby.com/life/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50129649">https://news.ycombinator.com/item?i......
+- [Read more](https://www.seloby.com/life/)
 
 ---
 
