@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft 365 Tenants
+### MALFEX npm Package 'imgdecode' Hides Shellcode Loader in Windows Native Addon
 - **Published**: October 17, 2026
-- **Summary**: Cybersecurity researchers are sounding the alarm related to an active campaign in which unknown threat actors are abusing a compromised Microsoft 365 ...
-- [Read more](https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html)
+- **Summary**: Cybersecurity researchers have discovered a malicious npm package that's part of a recently disclosed software supply chain attack campaign dubbed MAL...
+- [Read more](https://thehackernews.com/2026/10/malfex-npm-package-imgdecode-hides.html)
 
-### Show HN: A Game of Life sandbox where any pattern is a shareable link
+### A death, a plagiarism scandal and a quest for revenge: the tale of Otto Z
 - **Published**: October 17, 2026
-- **Summary**: https://www.seloby.com/life/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50129649">https://news.ycombinator.com/item?i......
-- [Read more](https://www.seloby.com/life/)
+- **Summary**: https://www.theguardian.com/news/n......
+- [Read more](https://www.theguardian.com/news/ng-interactive/2026/oct/08/a-death-a-plagiarism-scandal-and-a-quest-for-revenge-the-bizarre-tale-of-otto-z)
 
 ---
 
