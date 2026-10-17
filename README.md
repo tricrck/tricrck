@@ -16,15 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### MALFEX npm Package 'imgdecode' Hides Shellcode Loader in Windows Native Addon
+### Trycontinuum is launching its new module Forge for automation of after effects
 - **Published**: October 17, 2026
-- **Summary**: Cybersecurity researchers have discovered a malicious npm package that's part of a recently disclosed software supply chain attack campaign dubbed MAL...
-- [Read more](https://thehackernews.com/2026/10/malfex-npm-package-imgdecode-hides.html)
+- **Summary**: https://app.trycontinuum.ai/login</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50134629">https://news.ycombinator.......
+- [Read more](https://app.trycontinuum.ai/login)
 
-### A death, a plagiarism scandal and a quest for revenge: the tale of Otto Z
+### Tamarly Intelligence, a research platform built on public records
 - **Published**: October 17, 2026
-- **Summary**: https://www.theguardian.com/news/n......
-- [Read more](https://www.theguardian.com/news/ng-interactive/2026/oct/08/a-death-a-plagiarism-scandal-and-a-quest-for-revenge-the-bizarre-tale-of-otto-z)
+- **Summary**: https://app.tamarly.ai/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50134625">https://news.ycombinator.com/item?id=50134625...
+- [Read more](https://app.tamarly.ai/)
 
 ---
 
