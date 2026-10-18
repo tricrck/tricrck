@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### ConnectWise Suspends Cloud Backup After Attackers Compromise Microsoft 365 Tenants
+### Trust in Depth: Giving agents more autonomy without losing control
 - **Published**: October 18, 2026
-- **Summary**: ConnectWise on Saturday said it has disabled seven ConnectWise application identities as it continues its investigation into an incident in which unkn...
-- [Read more](https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html)
+- **Summary**: https://aws.amazon.com/blogs/machine-learning/trust-in-depth-......
+- [Read more](https://aws.amazon.com/blogs/machine-learning/trust-in-depth-giving-agents-more-autonomy-without-losing-control/)
 
-### Making Solar Panels with a Microwave [video]
+### Show HN: BricksChat – Generate Lego builds from images, including Technic
 - **Published**: October 18, 2026
-- **Summary**: https://www.youtube.com/watch?v=zcWkApGjyGM</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50139728">https......
-- [Read more](https://www.youtube.com/watch?v=zcWkApGjyGM)
+- **Summary**: <p>I've been working on generative LEGO assembly models recently, but there are similar projects already, so I wanted to try some harder cases: specia...
+- [Read more](https://brickschat.com/)
 
 ---
 
