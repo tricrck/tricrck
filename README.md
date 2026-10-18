@@ -16,15 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Trust in Depth: Giving agents more autonomy without losing control
+### Eight Bytes in One Register
 - **Published**: October 18, 2026
-- **Summary**: https://aws.amazon.com/blogs/machine-learning/trust-in-depth-......
-- [Read more](https://aws.amazon.com/blogs/machine-learning/trust-in-depth-giving-agents-more-autonomy-without-losing-control/)
+- **Summary**: https://www.yagiz.co/eight-bytes-in-one-register</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50144......
+- [Read more](https://www.yagiz.co/eight-bytes-in-one-register)
 
-### Show HN: BricksChat – Generate Lego builds from images, including Technic
+### MCP events: who writes the first prompt now?
 - **Published**: October 18, 2026
-- **Summary**: <p>I've been working on generative LEGO assembly models recently, but there are similar projects already, so I wanted to try some harder cases: specia...
-- [Read more](https://brickschat.com/)
+- **Summary**: https://timeline.differentiated.io/guides/mcp-events</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?......
+- [Read more](https://timeline.differentiated.io/guides/mcp-events)
 
 ---
 
