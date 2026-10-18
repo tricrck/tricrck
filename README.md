@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### ‘No Kings’ Says Meta Cut Off Access to Instagram Account on Key Protest Day
-- **Published**: October 17, 2026
-- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1x8oai3/no_kings_says_meta_cut_off_access_to_instagram/"> <img alt="‘No Kings’ Says Meta Cu...
-- **Keywords**: protest
-- [Read more](https://www.reddit.com/r/technology/comments/1x8oai3/no_kings_says_meta_cut_off_access_to_instagram/)
-
-### Starting a New Journal
+### ConnectWise Suspends Cloud Backup After Attackers Compromise Microsoft 365 Tenants
 - **Published**: October 18, 2026
-- **Summary**: https://terrytao.wordpress.com/2026/10/17/starting-a-new-journal/</a></p>
-<p>Comments URL: <a href="https://......
-- [Read more](https://terrytao.wordpress.com/2026/10/17/starting-a-new-journal/)
+- **Summary**: ConnectWise on Saturday said it has disabled seven ConnectWise application identities as it continues its investigation into an incident in which unkn...
+- [Read more](https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html)
+
+### Making Solar Panels with a Microwave [video]
+- **Published**: October 18, 2026
+- **Summary**: https://www.youtube.com/watch?v=zcWkApGjyGM</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50139728">https......
+- [Read more](https://www.youtube.com/watch?v=zcWkApGjyGM)
 
 ---
 
