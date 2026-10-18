@@ -16,17 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Trycontinuum is launching its new module Forge for automation of after effects
+### ‘No Kings’ Says Meta Cut Off Access to Instagram Account on Key Protest Day
 - **Published**: October 17, 2026
-- **Summary**: https://app.trycontinuum.ai/login</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50134629">https://news.ycombinator.......
-- [Read more](https://app.trycontinuum.ai/login)
+- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1x8oai3/no_kings_says_meta_cut_off_access_to_instagram/"> <img alt="‘No Kings’ Says Meta Cu...
+- **Keywords**: protest
+- [Read more](https://www.reddit.com/r/technology/comments/1x8oai3/no_kings_says_meta_cut_off_access_to_instagram/)
 
-### Tamarly Intelligence, a research platform built on public records
-- **Published**: October 17, 2026
-- **Summary**: https://app.tamarly.ai/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50134625">https://news.ycombinator.com/item?id=50134625...
-- [Read more](https://app.tamarly.ai/)
+### Starting a New Journal
+- **Published**: October 18, 2026
+- **Summary**: https://terrytao.wordpress.com/2026/10/17/starting-a-new-journal/</a></p>
+<p>Comments URL: <a href="https://......
+- [Read more](https://terrytao.wordpress.com/2026/10/17/starting-a-new-journal/)
 
 ---
 
