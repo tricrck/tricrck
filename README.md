@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Can AI Automate Epoch?
+### Fake Web3 Accelerator Uses npm Packages to Spread Malware and Hijack AI Agent Traffic
 - **Published**: October 19, 2026
-- **Summary**: https://epoch.ai/publications/can-ai-automate-epoch</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id......
-- [Read more](https://epoch.ai/publications/can-ai-automate-epoch)
+- **Summary**: A fake Web3 accelerator has been observed pushing information stealers and backdoors to Windows and macOS systems using malicious npm packages under t...
+- [Read more](https://thehackernews.com/2026/10/fake-web3-accelerator-uses-npm-packages.html)
 
-### The most powerful and free local AI note taking app I've ever used
+### Frances E. Dec: Mad Deadly Worldwide Communist Gangster Computer God
 - **Published**: October 19, 2026
-- **Summary**: https://github.com/seacen/meetcap</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50147993">https://news.ycombinator.......
-- [Read more](https://github.com/seacen/meetcap)
+- **Summary**: https://medium.com/@Goosenpai/the-curious-rants-of-francis-e-dec-esq-a164ab2ae8f</a></p>
+<p>C......
+- [Read more](https://medium.com/@Goosenpai/the-curious-rants-of-francis-e-dec-esq-a164ab2ae8f)
 
 ---
 
