@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Fake Web3 Accelerator Uses npm Packages to Spread Malware and Hijack AI Agent Traffic
+### Hackers Exploit Plex2Shell Flaws to Install Crypto Miners and Linux Proxy Backdoor
 - **Published**: October 19, 2026
-- **Summary**: A fake Web3 accelerator has been observed pushing information stealers and backdoors to Windows and macOS systems using malicious npm packages under t...
-- [Read more](https://thehackernews.com/2026/10/fake-web3-accelerator-uses-npm-packages.html)
+- **Summary**: Threat actors have begun to exploit a chain of vulnerabilities in Plex Media Server to deploy cryptocurrency miners and reverse proxy software, a day ...
+- [Read more](https://thehackernews.com/2026/10/hackers-exploit-plex2shell-flaws-to.html)
 
-### Frances E. Dec: Mad Deadly Worldwide Communist Gangster Computer God
+### Popular WordPress SEO Plugin Rank Math PRO Hijacked to Deliver Self-Restoring Backdoor
 - **Published**: October 19, 2026
-- **Summary**: https://medium.com/@Goosenpai/the-curious-rants-of-francis-e-dec-esq-a164ab2ae8f</a></p>
-<p>C......
-- [Read more](https://medium.com/@Goosenpai/the-curious-rants-of-francis-e-dec-esq-a164ab2ae8f)
+- **Summary**: Copies of Rank Math PRO, the paid version of the Rank Math SEO plugin for WordPress, that were downloaded from rankmath.com or delivered as updates be...
+- [Read more](https://thehackernews.com/2026/10/popular-wordpress-seo-plugin-rank-math.html)
 
 ---
 
