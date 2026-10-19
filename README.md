@@ -16,17 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Eight Bytes in One Register
-- **Published**: October 18, 2026
-- **Summary**: https://www.yagiz.co/eight-bytes-in-one-register</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50144......
-- [Read more](https://www.yagiz.co/eight-bytes-in-one-register)
+### Can AI Automate Epoch?
+- **Published**: October 19, 2026
+- **Summary**: https://epoch.ai/publications/can-ai-automate-epoch</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id......
+- [Read more](https://epoch.ai/publications/can-ai-automate-epoch)
 
-### MCP events: who writes the first prompt now?
-- **Published**: October 18, 2026
-- **Summary**: https://timeline.differentiated.io/guides/mcp-events</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?......
-- [Read more](https://timeline.differentiated.io/guides/mcp-events)
+### The most powerful and free local AI note taking app I've ever used
+- **Published**: October 19, 2026
+- **Summary**: https://github.com/seacen/meetcap</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50147993">https://news.ycombinator.......
+- [Read more](https://github.com/seacen/meetcap)
 
 ---
 
