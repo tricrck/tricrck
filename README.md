@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Hackers Hijack Five OVHcloud CLI Releases to Distribute Secret-Stealing Malware
+### Pegasus Spyware Infection Confirmed on Serbian University Rector's iPhone Days Before Election
 - **Published**: October 20, 2026
-- **Summary**: An attacker used a contributor's GitHub account to replace the download archives on five existing releases of OVHcloud's command-line tool on Monday, ...
-- [Read more](https://thehackernews.com/2026/10/hackers-hijack-five-ovhcloud-cli.html)
+- **Summary**: The iPhone of Vladan Đokić, rector of the University of Belgrade and a prominent supporter of Serbia's student protest movement, was infected with NSO...
+- **Keywords**: protest
+- [Read more](https://thehackernews.com/2026/10/pegasus-spyware-infection-confirmed-on.html)
 
-### ClickFix Attackers Exploit Siemens Software Center Flaw to Deploy Remote Access Trojan
+### Critical FortiSIEM Flaw Gets Public Exploit PoC for Unauthenticated Remote Code Execution
 - **Published**: October 20, 2026
-- **Summary**: Siemens has addressed a DLL sideloading vulnerability impacting Siemens Software Center that it said has been exploited in ClickFix attacks.
-
-The high...
-- [Read more](https://thehackernews.com/2026/10/clickfix-attackers-exploit-siemens.html)
+- **Summary**: Cybersecurity researchers have released a proof-of-concept (PoC) exploit for a recently patched critical security flaw impacting Fortinet FortiSIEM th...
+- [Read more](https://thehackernews.com/2026/10/critical-fortisiem-flaw-gets-public.html)
 
 ---
 
