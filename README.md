@@ -16,17 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Lula supporters protest against Meta to denounce its 'electoral interference'
+### Hackers Hijack Five OVHcloud CLI Releases to Distribute Secret-Stealing Malware
 - **Published**: October 20, 2026
-- **Summary**: ......
-- **Keywords**: protest
-- [Read more](https://efe.com/english/latest-news/2026-10-20/lula-supporters-protest-against-meta-to-denounce-its-electoral-interference/)
+- **Summary**: An attacker used a contributor's GitHub account to replace the download archives on five existing releases of OVHcloud's command-line tool on Monday, ...
+- [Read more](https://thehackernews.com/2026/10/hackers-hijack-five-ovhcloud-cli.html)
 
-### Show HN: AML CYCLE 2, a benchmark for long-term agent memory
+### ClickFix Attackers Exploit Siemens Software Center Flaw to Deploy Remote Access Trojan
 - **Published**: October 20, 2026
-- **Summary**: https://x.com/AgentMemoryL</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50161060">https://news.ycombinator.com/item?id=50......
-- [Read more](https://x.com/AgentMemoryL)
+- **Summary**: Siemens has addressed a DLL sideloading vulnerability impacting Siemens Software Center that it said has been exploited in ClickFix attacks.
+
+The high...
+- [Read more](https://thehackernews.com/2026/10/clickfix-attackers-exploit-siemens.html)
 
 ---
 
