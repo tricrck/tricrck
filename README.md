@@ -16,16 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Pegasus Spyware Infection Confirmed on Serbian University Rector's iPhone Days Before Election
+### Eight eMudhra CA Keys Compromised, Triggering Emergency Fixes Across Browsers and Software
 - **Published**: October 20, 2026
-- **Summary**: The iPhone of Vladan Đokić, rector of the University of Belgrade and a prominent supporter of Serbia's student protest movement, was infected with NSO...
-- **Keywords**: protest
-- [Read more](https://thehackernews.com/2026/10/pegasus-spyware-infection-confirmed-on.html)
+- **Summary**: The private keys of eight eMudhra intermediate certificate authority (CA) certificates are compromised,&nbsp;Mozilla&nbsp;and&nbsp;Google's Chrome Roo...
+- **Keywords**: emergency
+- [Read more](https://thehackernews.com/2026/10/eight-emudhra-ca-keys-compromised.html)
 
-### Critical FortiSIEM Flaw Gets Public Exploit PoC for Unauthenticated Remote Code Execution
+### The Altered Scrolls, Part 9: Small Considerations (2015)
 - **Published**: October 20, 2026
-- **Summary**: Cybersecurity researchers have released a proof-of-concept (PoC) exploit for a recently patched critical security flaw impacting Fortinet FortiSIEM th...
-- [Read more](https://thehackernews.com/2026/10/critical-fortisiem-flaw-gets-public.html)
+- **Summary**: https://www.shamusyoung.com/twentysidedtale/?p=28833</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?......
+- [Read more](https://www.shamusyoung.com/twentysidedtale/?p=28833)
 
 ---
 
