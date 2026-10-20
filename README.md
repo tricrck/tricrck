@@ -16,15 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Hackers Exploit Plex2Shell Flaws to Install Crypto Miners and Linux Proxy Backdoor
-- **Published**: October 19, 2026
-- **Summary**: Threat actors have begun to exploit a chain of vulnerabilities in Plex Media Server to deploy cryptocurrency miners and reverse proxy software, a day ...
-- [Read more](https://thehackernews.com/2026/10/hackers-exploit-plex2shell-flaws-to.html)
+### Lula supporters protest against Meta to denounce its 'electoral interference'
+- **Published**: October 20, 2026
+- **Summary**: ......
+- **Keywords**: protest
+- [Read more](https://efe.com/english/latest-news/2026-10-20/lula-supporters-protest-against-meta-to-denounce-its-electoral-interference/)
 
-### Popular WordPress SEO Plugin Rank Math PRO Hijacked to Deliver Self-Restoring Backdoor
-- **Published**: October 19, 2026
-- **Summary**: Copies of Rank Math PRO, the paid version of the Rank Math SEO plugin for WordPress, that were downloaded from rankmath.com or delivered as updates be...
-- [Read more](https://thehackernews.com/2026/10/popular-wordpress-seo-plugin-rank-math.html)
+### Show HN: AML CYCLE 2, a benchmark for long-term agent memory
+- **Published**: October 20, 2026
+- **Summary**: https://x.com/AgentMemoryL</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50161060">https://news.ycombinator.com/item?id=50......
+- [Read more](https://x.com/AgentMemoryL)
 
 ---
 
