@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### SpacebarBench: Benchmarking Agents on Whiteboards
+### PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert
 - **Published**: October 21, 2026
-- **Summary**: https://www.spacebar.ai/benchmark</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50175763">https://news.ycombinator.......
-- [Read more](https://www.spacebar.ai/benchmark)
+- **Summary**: This story is developing and was written before PHP's scheduled 14:00 UTC release on October 21. Once the release is out, the affected and fixed versi...
+- **Keywords**: emergency
+- [Read more](https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html)
 
-### mtt.sh – Mounting Linux Images
+### PHP2Shell: What Actually Protects You Before the 14:00 UTC PHP RCE Patch, and What Doesn't
 - **Published**: October 21, 2026
-- **Summary**: https://righteousit.com/2026/10/20/mtt-sh-mounting-linux-images/</a></p>
-<p>Comments URL: <a href="https://ne......
-- [Read more](https://righteousit.com/2026/10/20/mtt-sh-mounting-linux-images/)
+- **Summary**: You cannot fully block the two critical PHP flaws called PHP2Shell before today's fix, and the one setting being passed around as a workaround is not ...
+- [Read more](https://thehackernews.com/2026/10/php2shell-what-actually-protects-you.html)
 
 ---
 
