@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert
+### PHP Issues Emergency Patches for Two Critical PHP2Shell RCE Flaws as Exploit Attempts Emerge
 - **Published**: October 21, 2026
-- **Summary**: This story is developing and was written before PHP's scheduled 14:00 UTC release on October 21. Once the release is out, the affected and fixed versi...
-- **Keywords**: emergency
-- [Read more](https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html)
+- **Summary**: PHP has released emergency updates that fix two critical flaws in the language itself, letting an attacker without an account run code on a web server...
+- **Keywords**: emergency, emergency
+- [Read more](https://thehackernews.com/2026/10/php-issues-emergency-patches-for-two.html)
 
-### PHP2Shell: What Actually Protects You Before the 14:00 UTC PHP RCE Patch, and What Doesn't
+### Google Chrome Adds ClickFix Warnings to Stop Users From Running Malicious Commands
 - **Published**: October 21, 2026
-- **Summary**: You cannot fully block the two critical PHP flaws called PHP2Shell before today's fix, and the one setting being passed around as a workaround is not ...
-- [Read more](https://thehackernews.com/2026/10/php2shell-what-actually-protects-you.html)
+- **Summary**: Google on Tuesday said it's rolling out improved safeguards in its Chrome browser to secure users against ClickFix attacks when Enhanced Protection is...
+- [Read more](https://thehackernews.com/2026/10/google-chrome-adds-clickfix-warnings-to.html)
 
 ---
 

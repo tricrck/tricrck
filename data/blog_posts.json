@@ -1,20 +1,149 @@
 {
   "chaos_ranked": [
     {
-      "title": "PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert",
-      "link": "https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html",
-      "summary": "This story is developing and was written before PHP's scheduled 14:00 UTC release on October 21. Once the release is out, the affected and fixed versions below are confirmed by the official advisory.\n...",
-      "published": "2026-10-21T14:35:17+05:30",
+      "title": "PHP Issues Emergency Patches for Two Critical PHP2Shell RCE Flaws as Exploit Attempts Emerge",
+      "link": "https://thehackernews.com/2026/10/php-issues-emergency-patches-for-two.html",
+      "summary": "PHP has released emergency updates that fix two critical flaws in the language itself, letting an attacker without an account run code on a web server. The fixes are in PHP 8.5.12, 8.4.27, 8.3.36 and ...",
+      "published": "2026-10-21T19:30:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
-        "chaos": 11.6,
+        "chaos": 18.3,
         "anarchy": 3.0,
-        "overall": 7.3
+        "overall": 10.6
       },
       "keywords": {
         "chaos": [
+          "emergency",
           "emergency"
         ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Google Chrome Adds ClickFix Warnings to Stop Users From Running Malicious Commands",
+      "link": "https://thehackernews.com/2026/10/google-chrome-adds-clickfix-warnings-to.html",
+      "summary": "Google on Tuesday said it's rolling out improved safeguards in its Chrome browser to secure users against ClickFix attacks when Enhanced Protection is enabled.\n\nClickFix is a popular social engineerin...",
+      "published": "2026-10-21T18:45:09+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "China-Aligned Bronze Sandcastle Abuses Sandboxie DLL Sideloading to Deploy Backdoors",
+      "link": "https://thehackernews.com/2026/10/china-aligned-bronze-sandcastle-abuses.html",
+      "summary": "Cybersecurity researchers have disclosed details of a previously undocumented China-aligned threat cluster known as Bronze Sandcastle that has been observed targeting organizations in Asia and Africa ...",
+      "published": "2026-10-21T17:35:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Generative AI Is Erasing Behavioral Tells, Weakening Behavior-Only Detection, Proofpoint Reports",
+      "link": "https://thehackernews.com/2026/10/generative-ai-is-erasing-behavioral.html",
+      "summary": "Generative AI has changed what a malicious email looks like. Messages that once gave themselves away through clumsy wording, generic pretexts, and reused templates now arrive fluent, personalized, and...",
+      "published": "2026-10-21T17:23:34+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Proton says lawful-access bill makes expansion into Canada 'impossible'",
+      "link": "https://www.theglobeandmail.com/politics/article-proton-says-lawful-access-bill-makes-expansion-into-canada-impossible/",
+      "summary": "<p>Article URL: <a href=\"https://www.theglobeandmail.com/politics/article-proton-says-lawful-access-bill-makes-expansion-into-canada-impossible/\">https://www.theglobeandmail.com/politics/article-proto...",
+      "published": "2026-10-21T16:35:32+00:00",
+      "domain": "theglobeandmail.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Rust off Rails: The opinionated web stack for the AI era",
+      "link": "https://rustoffrails.org/",
+      "summary": "<p>Article URL: <a href=\"https://rustoffrails.org/\">https://rustoffrails.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50183727\">https://news.ycombinator.com/item?id=5018...",
+      "published": "2026-10-21T16:34:16+00:00",
+      "domain": "rustoffrails.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Mine Rogue. Vibe-coded balatro-inspired minesweeper roguelike game",
+      "link": "https://minerogue.francanobr.com/",
+      "summary": "<p>Article URL: <a href=\"https://minerogue.francanobr.com/\">https://minerogue.francanobr.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50183694\">https://news.ycombinator....",
+      "published": "2026-10-21T16:32:08+00:00",
+      "domain": "minerogue.francanobr.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Open-source site base plans from any US address",
+      "link": "https://basesheet.site/",
+      "summary": "<p>I built this tool for a landscape architect friend.<p>Enter a US address and you get a site base plan: parcel line, LiDAR contours, flood zones, wetlands, soils and an aerial, as DXF, SketchUp, GIS...",
+      "published": "2026-10-21T16:31:48+00:00",
+      "domain": "basesheet.site",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Recursive Introduces Flint Model",
+      "link": "https://recursive.com/updates/introducing-recursive-flint",
+      "summary": "<p>Article URL: <a href=\"https://recursive.com/updates/introducing-recursive-flint\">https://recursive.com/updates/introducing-recursive-flint</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator...",
+      "published": "2026-10-21T16:31:03+00:00",
+      "domain": "recursive.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
         "anarchy": []
       }
     },
@@ -24,134 +153,6 @@
       "summary": "You cannot fully block the two critical PHP flaws called PHP2Shell before today's fix, and the one setting being passed around as a workaround is not enough on its own, the security firm that suggeste...",
       "published": "2026-10-21T16:06:53+05:30",
       "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The Harness Is the Hard Part of Agentic Pentesting",
-      "link": "https://thehackernews.com/2026/10/the-harness-is-hard-part-of-agentic.html",
-      "summary": "An AppSec team can point an AI agent running on a general-purpose model at its own web apps with little setup. Sure, the model writes the attacks. But everything that makes those attacks safe to run a...",
-      "published": "2026-10-21T16:02:40+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Attackers Hijacked Over 300 Tor Exit Relays to Intercept SSH Connections",
-      "link": "https://thehackernews.com/2026/10/attackers-hijacked-over-300-tor-exit.html",
-      "summary": "Attackers took control of more than 300 Tor exit relays in early October and used them to redirect SSH connections to servers that stole login passwords, a researcher found.\n\nExit relays are the last ...",
-      "published": "2026-10-21T16:00:27+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Attackers Abuse UpdraftCentral Keys to Plant Backdoors on WordPress Sites",
-      "link": "https://thehackernews.com/2026/10/attackers-abuse-updraftcentral-keys-to.html",
-      "summary": "Unknown threat actors breached TeamUpdraft's website and potentially gained unauthorized access to customers' connection keys for UpdraftCentral, UpdraftVault, and UpdraftClone, using them to backdoor...",
-      "published": "2026-10-21T14:31:12+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "68k Macintosh Ports: Classic Macintosh Software, Rebuilt for Modern macOS",
-      "link": "https://roytinker.com/68k-ports/",
-      "summary": "<p>Article URL: <a href=\"https://roytinker.com/68k-ports/\">https://roytinker.com/68k-ports/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50178995\">https://news.ycombinator.co...",
-      "published": "2026-10-21T11:16:40+00:00",
-      "domain": "roytinker.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Imunify360 Rule 8.83 Blocks Public Exploit PHP CVE-2026-109618 CVE-2026-109619",
-      "link": "https://blog.cloudlinux.com/php-cve-2026-109618-and-cve-2026-109619",
-      "summary": "<p>Article URL: <a href=\"https://blog.cloudlinux.com/php-cve-2026-109618-and-cve-2026-109619\">https://blog.cloudlinux.com/php-cve-2026-109618-and-cve-2026-109619</a></p>\n<p>Comments URL: <a href=\"http...",
-      "published": "2026-10-21T11:14:24+00:00",
-      "domain": "blog.cloudlinux.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Mathematics of the Future",
-      "link": "https://proofsandprompts.com/2026/10/21/mathematics-of-the-future/",
-      "summary": "<p>Article URL: <a href=\"https://proofsandprompts.com/2026/10/21/mathematics-of-the-future/\">https://proofsandprompts.com/2026/10/21/mathematics-of-the-future/</a></p>\n<p>Comments URL: <a href=\"https:...",
-      "published": "2026-10-21T11:13:32+00:00",
-      "domain": "proofsandprompts.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Snapsplit",
-      "link": "https://snapsplit.co.ke",
-      "summary": "<p>Article URL: <a href=\"https://snapsplit.co.ke\">https://snapsplit.co.ke</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50178963\">https://news.ycombinator.com/item?id=50178963...",
-      "published": "2026-10-21T11:12:54+00:00",
-      "domain": "snapsplit.co.ke",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Four decades of planetary change, now open for everyone to build on",
-      "link": "https://medium.com/google-earth/four-decades-of-planetary-change-now-open-for-everyone-to-build-on-9b32d6cb8c86",
-      "summary": "<p>Article URL: <a href=\"https://medium.com/google-earth/four-decades-of-planetary-change-now-open-for-everyone-to-build-on-9b32d6cb8c86\">https://medium.com/google-earth/four-decades-of-planetary-chan...",
-      "published": "2026-10-21T11:11:43+00:00",
-      "domain": "medium.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -165,76 +166,29 @@
   ],
   "anarchy_ranked": [
     {
-      "title": "PHP2Shell: What Actually Protects You Before the 14:00 UTC PHP RCE Patch, and What Doesn't",
-      "link": "https://thehackernews.com/2026/10/php2shell-what-actually-protects-you.html",
-      "summary": "You cannot fully block the two critical PHP flaws called PHP2Shell before today's fix, and the one setting being passed around as a workaround is not enough on its own, the security firm that suggeste...",
-      "published": "2026-10-21T16:06:53+05:30",
+      "title": "PHP Issues Emergency Patches for Two Critical PHP2Shell RCE Flaws as Exploit Attempts Emerge",
+      "link": "https://thehackernews.com/2026/10/php-issues-emergency-patches-for-two.html",
+      "summary": "PHP has released emergency updates that fix two critical flaws in the language itself, letting an attacker without an account run code on a web server. The fixes are in PHP 8.5.12, 8.4.27, 8.3.36 and ...",
+      "published": "2026-10-21T19:30:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
-        "chaos": 3.0,
+        "chaos": 18.3,
         "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The Harness Is the Hard Part of Agentic Pentesting",
-      "link": "https://thehackernews.com/2026/10/the-harness-is-hard-part-of-agentic.html",
-      "summary": "An AppSec team can point an AI agent running on a general-purpose model at its own web apps with little setup. Sure, the model writes the attacks. But everything that makes those attacks safe to run a...",
-      "published": "2026-10-21T16:02:40+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Attackers Hijacked Over 300 Tor Exit Relays to Intercept SSH Connections",
-      "link": "https://thehackernews.com/2026/10/attackers-hijacked-over-300-tor-exit.html",
-      "summary": "Attackers took control of more than 300 Tor exit relays in early October and used them to redirect SSH connections to servers that stole login passwords, a researcher found.\n\nExit relays are the last ...",
-      "published": "2026-10-21T16:00:27+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert",
-      "link": "https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html",
-      "summary": "This story is developing and was written before PHP's scheduled 14:00 UTC release on October 21. Once the release is out, the affected and fixed versions below are confirmed by the official advisory.\n...",
-      "published": "2026-10-21T14:35:17+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 11.6,
-        "anarchy": 3.0,
-        "overall": 7.3
+        "overall": 10.6
       },
       "keywords": {
         "chaos": [
+          "emergency",
           "emergency"
         ],
         "anarchy": []
       }
     },
     {
-      "title": "Attackers Abuse UpdraftCentral Keys to Plant Backdoors on WordPress Sites",
-      "link": "https://thehackernews.com/2026/10/attackers-abuse-updraftcentral-keys-to.html",
-      "summary": "Unknown threat actors breached TeamUpdraft's website and potentially gained unauthorized access to customers' connection keys for UpdraftCentral, UpdraftVault, and UpdraftClone, using them to backdoor...",
-      "published": "2026-10-21T14:31:12+05:30",
+      "title": "Google Chrome Adds ClickFix Warnings to Stop Users From Running Malicious Commands",
+      "link": "https://thehackernews.com/2026/10/google-chrome-adds-clickfix-warnings-to.html",
+      "summary": "Google on Tuesday said it's rolling out improved safeguards in its Chrome browser to secure users against ClickFix attacks when Enhanced Protection is enabled.\n\nClickFix is a popular social engineerin...",
+      "published": "2026-10-21T18:45:09+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -247,11 +201,11 @@
       }
     },
     {
-      "title": "68k Macintosh Ports: Classic Macintosh Software, Rebuilt for Modern macOS",
-      "link": "https://roytinker.com/68k-ports/",
-      "summary": "<p>Article URL: <a href=\"https://roytinker.com/68k-ports/\">https://roytinker.com/68k-ports/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50178995\">https://news.ycombinator.co...",
-      "published": "2026-10-21T11:16:40+00:00",
-      "domain": "roytinker.com",
+      "title": "China-Aligned Bronze Sandcastle Abuses Sandboxie DLL Sideloading to Deploy Backdoors",
+      "link": "https://thehackernews.com/2026/10/china-aligned-bronze-sandcastle-abuses.html",
+      "summary": "Cybersecurity researchers have disclosed details of a previously undocumented China-aligned threat cluster known as Bronze Sandcastle that has been observed targeting organizations in Asia and Africa ...",
+      "published": "2026-10-21T17:35:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -263,11 +217,11 @@
       }
     },
     {
-      "title": "Imunify360 Rule 8.83 Blocks Public Exploit PHP CVE-2026-109618 CVE-2026-109619",
-      "link": "https://blog.cloudlinux.com/php-cve-2026-109618-and-cve-2026-109619",
-      "summary": "<p>Article URL: <a href=\"https://blog.cloudlinux.com/php-cve-2026-109618-and-cve-2026-109619\">https://blog.cloudlinux.com/php-cve-2026-109618-and-cve-2026-109619</a></p>\n<p>Comments URL: <a href=\"http...",
-      "published": "2026-10-21T11:14:24+00:00",
-      "domain": "blog.cloudlinux.com",
+      "title": "Generative AI Is Erasing Behavioral Tells, Weakening Behavior-Only Detection, Proofpoint Reports",
+      "link": "https://thehackernews.com/2026/10/generative-ai-is-erasing-behavioral.html",
+      "summary": "Generative AI has changed what a malicious email looks like. Messages that once gave themselves away through clumsy wording, generic pretexts, and reused templates now arrive fluent, personalized, and...",
+      "published": "2026-10-21T17:23:34+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -279,11 +233,11 @@
       }
     },
     {
-      "title": "Mathematics of the Future",
-      "link": "https://proofsandprompts.com/2026/10/21/mathematics-of-the-future/",
-      "summary": "<p>Article URL: <a href=\"https://proofsandprompts.com/2026/10/21/mathematics-of-the-future/\">https://proofsandprompts.com/2026/10/21/mathematics-of-the-future/</a></p>\n<p>Comments URL: <a href=\"https:...",
-      "published": "2026-10-21T11:13:32+00:00",
-      "domain": "proofsandprompts.com",
+      "title": "Proton says lawful-access bill makes expansion into Canada 'impossible'",
+      "link": "https://www.theglobeandmail.com/politics/article-proton-says-lawful-access-bill-makes-expansion-into-canada-impossible/",
+      "summary": "<p>Article URL: <a href=\"https://www.theglobeandmail.com/politics/article-proton-says-lawful-access-bill-makes-expansion-into-canada-impossible/\">https://www.theglobeandmail.com/politics/article-proto...",
+      "published": "2026-10-21T16:35:32+00:00",
+      "domain": "theglobeandmail.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -295,11 +249,11 @@
       }
     },
     {
-      "title": "Snapsplit",
-      "link": "https://snapsplit.co.ke",
-      "summary": "<p>Article URL: <a href=\"https://snapsplit.co.ke\">https://snapsplit.co.ke</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50178963\">https://news.ycombinator.com/item?id=50178963...",
-      "published": "2026-10-21T11:12:54+00:00",
-      "domain": "snapsplit.co.ke",
+      "title": "Rust off Rails: The opinionated web stack for the AI era",
+      "link": "https://rustoffrails.org/",
+      "summary": "<p>Article URL: <a href=\"https://rustoffrails.org/\">https://rustoffrails.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50183727\">https://news.ycombinator.com/item?id=5018...",
+      "published": "2026-10-21T16:34:16+00:00",
+      "domain": "rustoffrails.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -311,11 +265,59 @@
       }
     },
     {
-      "title": "Four decades of planetary change, now open for everyone to build on",
-      "link": "https://medium.com/google-earth/four-decades-of-planetary-change-now-open-for-everyone-to-build-on-9b32d6cb8c86",
-      "summary": "<p>Article URL: <a href=\"https://medium.com/google-earth/four-decades-of-planetary-change-now-open-for-everyone-to-build-on-9b32d6cb8c86\">https://medium.com/google-earth/four-decades-of-planetary-chan...",
-      "published": "2026-10-21T11:11:43+00:00",
-      "domain": "medium.com",
+      "title": "Mine Rogue. Vibe-coded balatro-inspired minesweeper roguelike game",
+      "link": "https://minerogue.francanobr.com/",
+      "summary": "<p>Article URL: <a href=\"https://minerogue.francanobr.com/\">https://minerogue.francanobr.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50183694\">https://news.ycombinator....",
+      "published": "2026-10-21T16:32:08+00:00",
+      "domain": "minerogue.francanobr.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Open-source site base plans from any US address",
+      "link": "https://basesheet.site/",
+      "summary": "<p>I built this tool for a landscape architect friend.<p>Enter a US address and you get a site base plan: parcel line, LiDAR contours, flood zones, wetlands, soils and an aerial, as DXF, SketchUp, GIS...",
+      "published": "2026-10-21T16:31:48+00:00",
+      "domain": "basesheet.site",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Recursive Introduces Flint Model",
+      "link": "https://recursive.com/updates/introducing-recursive-flint",
+      "summary": "<p>Article URL: <a href=\"https://recursive.com/updates/introducing-recursive-flint\">https://recursive.com/updates/introducing-recursive-flint</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator...",
+      "published": "2026-10-21T16:31:03+00:00",
+      "domain": "recursive.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "PHP2Shell: What Actually Protects You Before the 14:00 UTC PHP RCE Patch, and What Doesn't",
+      "link": "https://thehackernews.com/2026/10/php2shell-what-actually-protects-you.html",
+      "summary": "You cannot fully block the two critical PHP flaws called PHP2Shell before today's fix, and the one setting being passed around as a workaround is not enough on its own, the security firm that suggeste...",
+      "published": "2026-10-21T16:06:53+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -329,20 +331,149 @@
   ],
   "overall_ranked": [
     {
-      "title": "PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert",
-      "link": "https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html",
-      "summary": "This story is developing and was written before PHP's scheduled 14:00 UTC release on October 21. Once the release is out, the affected and fixed versions below are confirmed by the official advisory.\n...",
-      "published": "2026-10-21T14:35:17+05:30",
+      "title": "PHP Issues Emergency Patches for Two Critical PHP2Shell RCE Flaws as Exploit Attempts Emerge",
+      "link": "https://thehackernews.com/2026/10/php-issues-emergency-patches-for-two.html",
+      "summary": "PHP has released emergency updates that fix two critical flaws in the language itself, letting an attacker without an account run code on a web server. The fixes are in PHP 8.5.12, 8.4.27, 8.3.36 and ...",
+      "published": "2026-10-21T19:30:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
-        "chaos": 11.6,
+        "chaos": 18.3,
         "anarchy": 3.0,
-        "overall": 7.3
+        "overall": 10.6
       },
       "keywords": {
         "chaos": [
+          "emergency",
           "emergency"
         ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Google Chrome Adds ClickFix Warnings to Stop Users From Running Malicious Commands",
+      "link": "https://thehackernews.com/2026/10/google-chrome-adds-clickfix-warnings-to.html",
+      "summary": "Google on Tuesday said it's rolling out improved safeguards in its Chrome browser to secure users against ClickFix attacks when Enhanced Protection is enabled.\n\nClickFix is a popular social engineerin...",
+      "published": "2026-10-21T18:45:09+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "China-Aligned Bronze Sandcastle Abuses Sandboxie DLL Sideloading to Deploy Backdoors",
+      "link": "https://thehackernews.com/2026/10/china-aligned-bronze-sandcastle-abuses.html",
+      "summary": "Cybersecurity researchers have disclosed details of a previously undocumented China-aligned threat cluster known as Bronze Sandcastle that has been observed targeting organizations in Asia and Africa ...",
+      "published": "2026-10-21T17:35:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Generative AI Is Erasing Behavioral Tells, Weakening Behavior-Only Detection, Proofpoint Reports",
+      "link": "https://thehackernews.com/2026/10/generative-ai-is-erasing-behavioral.html",
+      "summary": "Generative AI has changed what a malicious email looks like. Messages that once gave themselves away through clumsy wording, generic pretexts, and reused templates now arrive fluent, personalized, and...",
+      "published": "2026-10-21T17:23:34+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Proton says lawful-access bill makes expansion into Canada 'impossible'",
+      "link": "https://www.theglobeandmail.com/politics/article-proton-says-lawful-access-bill-makes-expansion-into-canada-impossible/",
+      "summary": "<p>Article URL: <a href=\"https://www.theglobeandmail.com/politics/article-proton-says-lawful-access-bill-makes-expansion-into-canada-impossible/\">https://www.theglobeandmail.com/politics/article-proto...",
+      "published": "2026-10-21T16:35:32+00:00",
+      "domain": "theglobeandmail.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Rust off Rails: The opinionated web stack for the AI era",
+      "link": "https://rustoffrails.org/",
+      "summary": "<p>Article URL: <a href=\"https://rustoffrails.org/\">https://rustoffrails.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50183727\">https://news.ycombinator.com/item?id=5018...",
+      "published": "2026-10-21T16:34:16+00:00",
+      "domain": "rustoffrails.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Mine Rogue. Vibe-coded balatro-inspired minesweeper roguelike game",
+      "link": "https://minerogue.francanobr.com/",
+      "summary": "<p>Article URL: <a href=\"https://minerogue.francanobr.com/\">https://minerogue.francanobr.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50183694\">https://news.ycombinator....",
+      "published": "2026-10-21T16:32:08+00:00",
+      "domain": "minerogue.francanobr.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Open-source site base plans from any US address",
+      "link": "https://basesheet.site/",
+      "summary": "<p>I built this tool for a landscape architect friend.<p>Enter a US address and you get a site base plan: parcel line, LiDAR contours, flood zones, wetlands, soils and an aerial, as DXF, SketchUp, GIS...",
+      "published": "2026-10-21T16:31:48+00:00",
+      "domain": "basesheet.site",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Recursive Introduces Flint Model",
+      "link": "https://recursive.com/updates/introducing-recursive-flint",
+      "summary": "<p>Article URL: <a href=\"https://recursive.com/updates/introducing-recursive-flint\">https://recursive.com/updates/introducing-recursive-flint</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator...",
+      "published": "2026-10-21T16:31:03+00:00",
+      "domain": "recursive.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
         "anarchy": []
       }
     },
@@ -352,134 +483,6 @@
       "summary": "You cannot fully block the two critical PHP flaws called PHP2Shell before today's fix, and the one setting being passed around as a workaround is not enough on its own, the security firm that suggeste...",
       "published": "2026-10-21T16:06:53+05:30",
       "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The Harness Is the Hard Part of Agentic Pentesting",
-      "link": "https://thehackernews.com/2026/10/the-harness-is-hard-part-of-agentic.html",
-      "summary": "An AppSec team can point an AI agent running on a general-purpose model at its own web apps with little setup. Sure, the model writes the attacks. But everything that makes those attacks safe to run a...",
-      "published": "2026-10-21T16:02:40+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Attackers Hijacked Over 300 Tor Exit Relays to Intercept SSH Connections",
-      "link": "https://thehackernews.com/2026/10/attackers-hijacked-over-300-tor-exit.html",
-      "summary": "Attackers took control of more than 300 Tor exit relays in early October and used them to redirect SSH connections to servers that stole login passwords, a researcher found.\n\nExit relays are the last ...",
-      "published": "2026-10-21T16:00:27+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Attackers Abuse UpdraftCentral Keys to Plant Backdoors on WordPress Sites",
-      "link": "https://thehackernews.com/2026/10/attackers-abuse-updraftcentral-keys-to.html",
-      "summary": "Unknown threat actors breached TeamUpdraft's website and potentially gained unauthorized access to customers' connection keys for UpdraftCentral, UpdraftVault, and UpdraftClone, using them to backdoor...",
-      "published": "2026-10-21T14:31:12+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "68k Macintosh Ports: Classic Macintosh Software, Rebuilt for Modern macOS",
-      "link": "https://roytinker.com/68k-ports/",
-      "summary": "<p>Article URL: <a href=\"https://roytinker.com/68k-ports/\">https://roytinker.com/68k-ports/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50178995\">https://news.ycombinator.co...",
-      "published": "2026-10-21T11:16:40+00:00",
-      "domain": "roytinker.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Imunify360 Rule 8.83 Blocks Public Exploit PHP CVE-2026-109618 CVE-2026-109619",
-      "link": "https://blog.cloudlinux.com/php-cve-2026-109618-and-cve-2026-109619",
-      "summary": "<p>Article URL: <a href=\"https://blog.cloudlinux.com/php-cve-2026-109618-and-cve-2026-109619\">https://blog.cloudlinux.com/php-cve-2026-109618-and-cve-2026-109619</a></p>\n<p>Comments URL: <a href=\"http...",
-      "published": "2026-10-21T11:14:24+00:00",
-      "domain": "blog.cloudlinux.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Mathematics of the Future",
-      "link": "https://proofsandprompts.com/2026/10/21/mathematics-of-the-future/",
-      "summary": "<p>Article URL: <a href=\"https://proofsandprompts.com/2026/10/21/mathematics-of-the-future/\">https://proofsandprompts.com/2026/10/21/mathematics-of-the-future/</a></p>\n<p>Comments URL: <a href=\"https:...",
-      "published": "2026-10-21T11:13:32+00:00",
-      "domain": "proofsandprompts.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Snapsplit",
-      "link": "https://snapsplit.co.ke",
-      "summary": "<p>Article URL: <a href=\"https://snapsplit.co.ke\">https://snapsplit.co.ke</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50178963\">https://news.ycombinator.com/item?id=50178963...",
-      "published": "2026-10-21T11:12:54+00:00",
-      "domain": "snapsplit.co.ke",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Four decades of planetary change, now open for everyone to build on",
-      "link": "https://medium.com/google-earth/four-decades-of-planetary-change-now-open-for-everyone-to-build-on-9b32d6cb8c86",
-      "summary": "<p>Article URL: <a href=\"https://medium.com/google-earth/four-decades-of-planetary-change-now-open-for-everyone-to-build-on-9b32d6cb8c86\">https://medium.com/google-earth/four-decades-of-planetary-chan...",
-      "published": "2026-10-21T11:11:43+00:00",
-      "domain": "medium.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -493,76 +496,29 @@
   ],
   "all_articles": [
     {
-      "title": "PHP2Shell: What Actually Protects You Before the 14:00 UTC PHP RCE Patch, and What Doesn't",
-      "link": "https://thehackernews.com/2026/10/php2shell-what-actually-protects-you.html",
-      "summary": "You cannot fully block the two critical PHP flaws called PHP2Shell before today's fix, and the one setting being passed around as a workaround is not enough on its own, the security firm that suggeste...",
-      "published": "2026-10-21T16:06:53+05:30",
+      "title": "PHP Issues Emergency Patches for Two Critical PHP2Shell RCE Flaws as Exploit Attempts Emerge",
+      "link": "https://thehackernews.com/2026/10/php-issues-emergency-patches-for-two.html",
+      "summary": "PHP has released emergency updates that fix two critical flaws in the language itself, letting an attacker without an account run code on a web server. The fixes are in PHP 8.5.12, 8.4.27, 8.3.36 and ...",
+      "published": "2026-10-21T19:30:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
-        "chaos": 3.0,
+        "chaos": 18.3,
         "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The Harness Is the Hard Part of Agentic Pentesting",
-      "link": "https://thehackernews.com/2026/10/the-harness-is-hard-part-of-agentic.html",
-      "summary": "An AppSec team can point an AI agent running on a general-purpose model at its own web apps with little setup. Sure, the model writes the attacks. But everything that makes those attacks safe to run a...",
-      "published": "2026-10-21T16:02:40+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Attackers Hijacked Over 300 Tor Exit Relays to Intercept SSH Connections",
-      "link": "https://thehackernews.com/2026/10/attackers-hijacked-over-300-tor-exit.html",
-      "summary": "Attackers took control of more than 300 Tor exit relays in early October and used them to redirect SSH connections to servers that stole login passwords, a researcher found.\n\nExit relays are the last ...",
-      "published": "2026-10-21T16:00:27+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert",
-      "link": "https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html",
-      "summary": "This story is developing and was written before PHP's scheduled 14:00 UTC release on October 21. Once the release is out, the affected and fixed versions below are confirmed by the official advisory.\n...",
-      "published": "2026-10-21T14:35:17+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 11.6,
-        "anarchy": 3.0,
-        "overall": 7.3
+        "overall": 10.6
       },
       "keywords": {
         "chaos": [
+          "emergency",
           "emergency"
         ],
         "anarchy": []
       }
     },
     {
-      "title": "Attackers Abuse UpdraftCentral Keys to Plant Backdoors on WordPress Sites",
-      "link": "https://thehackernews.com/2026/10/attackers-abuse-updraftcentral-keys-to.html",
-      "summary": "Unknown threat actors breached TeamUpdraft's website and potentially gained unauthorized access to customers' connection keys for UpdraftCentral, UpdraftVault, and UpdraftClone, using them to backdoor...",
-      "published": "2026-10-21T14:31:12+05:30",
+      "title": "Google Chrome Adds ClickFix Warnings to Stop Users From Running Malicious Commands",
+      "link": "https://thehackernews.com/2026/10/google-chrome-adds-clickfix-warnings-to.html",
+      "summary": "Google on Tuesday said it's rolling out improved safeguards in its Chrome browser to secure users against ClickFix attacks when Enhanced Protection is enabled.\n\nClickFix is a popular social engineerin...",
+      "published": "2026-10-21T18:45:09+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -575,11 +531,11 @@
       }
     },
     {
-      "title": "68k Macintosh Ports: Classic Macintosh Software, Rebuilt for Modern macOS",
-      "link": "https://roytinker.com/68k-ports/",
-      "summary": "<p>Article URL: <a href=\"https://roytinker.com/68k-ports/\">https://roytinker.com/68k-ports/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50178995\">https://news.ycombinator.co...",
-      "published": "2026-10-21T11:16:40+00:00",
-      "domain": "roytinker.com",
+      "title": "China-Aligned Bronze Sandcastle Abuses Sandboxie DLL Sideloading to Deploy Backdoors",
+      "link": "https://thehackernews.com/2026/10/china-aligned-bronze-sandcastle-abuses.html",
+      "summary": "Cybersecurity researchers have disclosed details of a previously undocumented China-aligned threat cluster known as Bronze Sandcastle that has been observed targeting organizations in Asia and Africa ...",
+      "published": "2026-10-21T17:35:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -591,11 +547,11 @@
       }
     },
     {
-      "title": "Imunify360 Rule 8.83 Blocks Public Exploit PHP CVE-2026-109618 CVE-2026-109619",
-      "link": "https://blog.cloudlinux.com/php-cve-2026-109618-and-cve-2026-109619",
-      "summary": "<p>Article URL: <a href=\"https://blog.cloudlinux.com/php-cve-2026-109618-and-cve-2026-109619\">https://blog.cloudlinux.com/php-cve-2026-109618-and-cve-2026-109619</a></p>\n<p>Comments URL: <a href=\"http...",
-      "published": "2026-10-21T11:14:24+00:00",
-      "domain": "blog.cloudlinux.com",
+      "title": "Generative AI Is Erasing Behavioral Tells, Weakening Behavior-Only Detection, Proofpoint Reports",
+      "link": "https://thehackernews.com/2026/10/generative-ai-is-erasing-behavioral.html",
+      "summary": "Generative AI has changed what a malicious email looks like. Messages that once gave themselves away through clumsy wording, generic pretexts, and reused templates now arrive fluent, personalized, and...",
+      "published": "2026-10-21T17:23:34+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -607,11 +563,11 @@
       }
     },
     {
-      "title": "Mathematics of the Future",
-      "link": "https://proofsandprompts.com/2026/10/21/mathematics-of-the-future/",
-      "summary": "<p>Article URL: <a href=\"https://proofsandprompts.com/2026/10/21/mathematics-of-the-future/\">https://proofsandprompts.com/2026/10/21/mathematics-of-the-future/</a></p>\n<p>Comments URL: <a href=\"https:...",
-      "published": "2026-10-21T11:13:32+00:00",
-      "domain": "proofsandprompts.com",
+      "title": "Proton says lawful-access bill makes expansion into Canada 'impossible'",
+      "link": "https://www.theglobeandmail.com/politics/article-proton-says-lawful-access-bill-makes-expansion-into-canada-impossible/",
+      "summary": "<p>Article URL: <a href=\"https://www.theglobeandmail.com/politics/article-proton-says-lawful-access-bill-makes-expansion-into-canada-impossible/\">https://www.theglobeandmail.com/politics/article-proto...",
+      "published": "2026-10-21T16:35:32+00:00",
+      "domain": "theglobeandmail.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -623,11 +579,11 @@
       }
     },
     {
-      "title": "Snapsplit",
-      "link": "https://snapsplit.co.ke",
-      "summary": "<p>Article URL: <a href=\"https://snapsplit.co.ke\">https://snapsplit.co.ke</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50178963\">https://news.ycombinator.com/item?id=50178963...",
-      "published": "2026-10-21T11:12:54+00:00",
-      "domain": "snapsplit.co.ke",
+      "title": "Rust off Rails: The opinionated web stack for the AI era",
+      "link": "https://rustoffrails.org/",
+      "summary": "<p>Article URL: <a href=\"https://rustoffrails.org/\">https://rustoffrails.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50183727\">https://news.ycombinator.com/item?id=5018...",
+      "published": "2026-10-21T16:34:16+00:00",
+      "domain": "rustoffrails.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -639,11 +595,59 @@
       }
     },
     {
-      "title": "Four decades of planetary change, now open for everyone to build on",
-      "link": "https://medium.com/google-earth/four-decades-of-planetary-change-now-open-for-everyone-to-build-on-9b32d6cb8c86",
-      "summary": "<p>Article URL: <a href=\"https://medium.com/google-earth/four-decades-of-planetary-change-now-open-for-everyone-to-build-on-9b32d6cb8c86\">https://medium.com/google-earth/four-decades-of-planetary-chan...",
-      "published": "2026-10-21T11:11:43+00:00",
-      "domain": "medium.com",
+      "title": "Mine Rogue. Vibe-coded balatro-inspired minesweeper roguelike game",
+      "link": "https://minerogue.francanobr.com/",
+      "summary": "<p>Article URL: <a href=\"https://minerogue.francanobr.com/\">https://minerogue.francanobr.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50183694\">https://news.ycombinator....",
+      "published": "2026-10-21T16:32:08+00:00",
+      "domain": "minerogue.francanobr.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Open-source site base plans from any US address",
+      "link": "https://basesheet.site/",
+      "summary": "<p>I built this tool for a landscape architect friend.<p>Enter a US address and you get a site base plan: parcel line, LiDAR contours, flood zones, wetlands, soils and an aerial, as DXF, SketchUp, GIS...",
+      "published": "2026-10-21T16:31:48+00:00",
+      "domain": "basesheet.site",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Recursive Introduces Flint Model",
+      "link": "https://recursive.com/updates/introducing-recursive-flint",
+      "summary": "<p>Article URL: <a href=\"https://recursive.com/updates/introducing-recursive-flint\">https://recursive.com/updates/introducing-recursive-flint</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator...",
+      "published": "2026-10-21T16:31:03+00:00",
+      "domain": "recursive.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "PHP2Shell: What Actually Protects You Before the 14:00 UTC PHP RCE Patch, and What Doesn't",
+      "link": "https://thehackernews.com/2026/10/php2shell-what-actually-protects-you.html",
+      "summary": "You cannot fully block the two critical PHP flaws called PHP2Shell before today's fix, and the one setting being passed around as a workaround is not enough on its own, the security firm that suggeste...",
+      "published": "2026-10-21T16:06:53+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
