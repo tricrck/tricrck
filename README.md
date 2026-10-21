@@ -16,17 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Eight eMudhra CA Keys Compromised, Triggering Emergency Fixes Across Browsers and Software
-- **Published**: October 20, 2026
-- **Summary**: The private keys of eight eMudhra intermediate certificate authority (CA) certificates are compromised,&nbsp;Mozilla&nbsp;and&nbsp;Google's Chrome Roo...
-- **Keywords**: emergency
-- [Read more](https://thehackernews.com/2026/10/eight-emudhra-ca-keys-compromised.html)
+### SpacebarBench: Benchmarking Agents on Whiteboards
+- **Published**: October 21, 2026
+- **Summary**: https://www.spacebar.ai/benchmark</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50175763">https://news.ycombinator.......
+- [Read more](https://www.spacebar.ai/benchmark)
 
-### The Altered Scrolls, Part 9: Small Considerations (2015)
-- **Published**: October 20, 2026
-- **Summary**: https://www.shamusyoung.com/twentysidedtale/?p=28833</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?......
-- [Read more](https://www.shamusyoung.com/twentysidedtale/?p=28833)
+### mtt.sh – Mounting Linux Images
+- **Published**: October 21, 2026
+- **Summary**: https://righteousit.com/2026/10/20/mtt-sh-mounting-linux-images/</a></p>
+<p>Comments URL: <a href="https://ne......
+- [Read more](https://righteousit.com/2026/10/20/mtt-sh-mounting-linux-images/)
 
 ---
 
