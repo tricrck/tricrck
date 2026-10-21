@@ -22,10 +22,10 @@
 - **Keywords**: emergency, emergency
 - [Read more](https://thehackernews.com/2026/10/php-issues-emergency-patches-for-two.html)
 
-### Google Chrome Adds ClickFix Warnings to Stop Users From Running Malicious Commands
-- **Published**: October 21, 2026
-- **Summary**: Google on Tuesday said it's rolling out improved safeguards in its Chrome browser to secure users against ClickFix attacks when Enhanced Protection is...
-- [Read more](https://thehackernews.com/2026/10/google-chrome-adds-clickfix-warnings-to.html)
+### Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases
+- **Published**: October 22, 2026
+- **Summary**: GitLab released fixes on October 21 for a flaw that lets an attacker run code on a self-managed server without logging in, and it affects every versio...
+- [Read more](https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html)
 
 ---
 
