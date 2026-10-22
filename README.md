@@ -16,17 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### New QPACK Flaws Can Crash HTTP/3 Servers, Trigger Up to 4,000-Fold Memory Amplification
+### Meta Ordered to Pay $25 Billion After Court Finds 43 Million Privacy Violations
 - **Published**: October 22, 2026
-- **Summary**: A remote attacker who has not logged in can crash many HTTP/3 web servers with a single connection, security firm FoxIO&nbsp;disclosed, releasing work...
-- **Keywords**: crash, crash
-- [Read more](https://thehackernews.com/2026/10/new-qpack-flaws-can-crash-http3-servers.html)
+- **Summary**: Social media giant Meta was ordered to pay 25 billion in penalties by a New Mexico court on Wednesday as part of a data privacy lawsuit that sprang fr...
+- [Read more](https://thehackernews.com/2026/10/meta-ordered-to-pay-25-billion-after.html)
 
-### Node.js Brotli Decoder Bug Could Allow Remote Code Execution in All Supported Versions
+### INTERPOL Arrests 1,462 Suspects, Disrupts 10,909 Cybercrime Networks in Global Crackdown
 - **Published**: October 22, 2026
-- **Summary**: Node.js released&nbsp;security updates&nbsp;on October 21 for its three supported release lines, 22.x, 24.x and 26.x, fixing 10 flaws. The most seriou...
-- **Keywords**: bug, bug
-- [Read more](https://thehackernews.com/2026/10/nodejs-brotli-decoder-bug-could-allow.html)
+- **Summary**: INTERPOL on Thursday announced that a coordinated law enforcement action has disrupted 10,909 malicious networks and recovered more than $105 million ...
+- [Read more](https://thehackernews.com/2026/10/interpol-arrests-1462-suspects-disrupts.html)
 
 ---
 

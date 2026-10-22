@@ -1,58 +1,50 @@
 {
   "chaos_ranked": [
     {
-      "title": "New QPACK Flaws Can Crash HTTP/3 Servers, Trigger Up to 4,000-Fold Memory Amplification",
-      "link": "https://thehackernews.com/2026/10/new-qpack-flaws-can-crash-http3-servers.html",
-      "summary": "A remote attacker who has not logged in can crash many HTTP/3 web servers with a single connection, security firm FoxIO&nbsp;disclosed, releasing working proof-of-concept code.\n\nBy sending a small bat...",
-      "published": "2026-10-22T12:08:31+05:30",
+      "title": "Meta Ordered to Pay $25 Billion After Court Finds 43 Million Privacy Violations",
+      "link": "https://thehackernews.com/2026/10/meta-ordered-to-pay-25-billion-after.html",
+      "summary": "Social media giant Meta was ordered to pay 25 billion in penalties by a New Mexico court on Wednesday as part of a data privacy lawsuit that sprang from the company's Cambridge Analytica data scandal,...",
+      "published": "2026-10-22T21:42:31+05:30",
       "domain": "thehackernews.com",
       "scores": {
-        "chaos": 25.0,
+        "chaos": 3.0,
         "anarchy": 3.0,
-        "overall": 14.0
+        "overall": 3.0
       },
       "keywords": {
-        "chaos": [
-          "crash",
-          "crash"
-        ],
+        "chaos": [],
         "anarchy": []
       }
     },
     {
-      "title": "Node.js Brotli Decoder Bug Could Allow Remote Code Execution in All Supported Versions",
-      "link": "https://thehackernews.com/2026/10/nodejs-brotli-decoder-bug-could-allow.html",
-      "summary": "Node.js released&nbsp;security updates&nbsp;on October 21 for its three supported release lines, 22.x, 24.x and 26.x, fixing 10 flaws. The most serious is a bug in the Brotli decompression code that N...",
-      "published": "2026-10-22T13:17:22+05:30",
+      "title": "INTERPOL Arrests 1,462 Suspects, Disrupts 10,909 Cybercrime Networks in Global Crackdown",
+      "link": "https://thehackernews.com/2026/10/interpol-arrests-1462-suspects-disrupts.html",
+      "summary": "INTERPOL on Thursday announced that a coordinated law enforcement action has disrupted 10,909 malicious networks and recovered more than $105 million in illicit funds.\n\nIn tandem, the effort saw law e...",
+      "published": "2026-10-22T19:08:22+05:30",
       "domain": "thehackernews.com",
       "scores": {
-        "chaos": 16.2,
+        "chaos": 3.0,
         "anarchy": 3.0,
-        "overall": 9.6
+        "overall": 3.0
       },
       "keywords": {
-        "chaos": [
-          "bug",
-          "bug"
-        ],
+        "chaos": [],
         "anarchy": []
       }
     },
     {
-      "title": "Launchpad DockerHub Ubuntu Dockerfile Links Error",
-      "link": "https://hub.docker.com/_/ubuntu",
-      "summary": "<p>Article URL: <a href=\"https://hub.docker.com/_/ubuntu\">https://hub.docker.com/_/ubuntu</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50193821\">https://news.ycombinator.com/...",
-      "published": "2026-10-22T11:14:57+00:00",
-      "domain": "hub.docker.com",
+      "title": "The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat",
+      "link": "https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html",
+      "summary": "Right now, there is probably an AI agent running on a laptop somewhere in your network. It stores API keys and database passwords, can access your internal systems, and works without anyone watching.\n...",
+      "published": "2026-10-22T17:15:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
-        "chaos": 13.2,
+        "chaos": 3.0,
         "anarchy": 3.0,
-        "overall": 8.1
+        "overall": 3.0
       },
       "keywords": {
-        "chaos": [
-          "error"
-        ],
+        "chaos": [],
         "anarchy": []
       }
     },
@@ -73,11 +65,11 @@
       }
     },
     {
-      "title": "OpenCode Flaw Lets Malicious MCP Servers Execute Code During Sign-In on Windows and WSL",
-      "link": "https://thehackernews.com/2026/10/opencode-flaw-lets-malicious-mcp.html",
-      "summary": "A flaw in the OpenCode AI coding agent allowed a malicious or hijacked MCP server to run code on a developer's Windows or WSL machine when the developer signed in. OpenCode connects to MCP (Model Cont...",
-      "published": "2026-10-22T16:14:05+05:30",
-      "domain": "thehackernews.com",
+      "title": "Good Night, and Good Luck: AI, fear and what the job data says",
+      "link": "https://rpallas.xyz/good-night-and-good-luck/",
+      "summary": "<p>Article URL: <a href=\"https://rpallas.xyz/good-night-and-good-luck/\">https://rpallas.xyz/good-night-and-good-luck/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50197708\">h...",
+      "published": "2026-10-22T16:35:29+00:00",
+      "domain": "rpallas.xyz",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -89,11 +81,11 @@
       }
     },
     {
-      "title": "LiteLLM Suspects GitHub Token Leak in AI Gateway Logs Behind Malicious Package Release",
-      "link": "https://thehackernews.com/2026/10/litellm-suspects-github-token-leak-in.html",
-      "summary": "LiteLLM on Wednesday disclosed that threat actors compromised \"multiple independent security controls\" to push a malicious version of the Python package containing a credential stealer and a backdoor....",
-      "published": "2026-10-22T13:58:48+05:30",
-      "domain": "thehackernews.com",
+      "title": "Objects, attributes, maps, oh my",
+      "link": "https://bernsteinbear.com/blog/object-shapes/",
+      "summary": "<p>Article URL: <a href=\"https://bernsteinbear.com/blog/object-shapes/\">https://bernsteinbear.com/blog/object-shapes/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50197692\">h...",
+      "published": "2026-10-22T16:34:39+00:00",
+      "domain": "bernsteinbear.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -105,11 +97,11 @@
       }
     },
     {
-      "title": "Google Humiliates Indian Developers with Google Play BillDesk Verification",
-      "link": "https://www.reddit.com/r/india/comments/1x9xa3h/how_google_humiliates_indian_developers_with/",
-      "summary": "<p>Article URL: <a href=\"https://www.reddit.com/r/india/comments/1x9xa3h/how_google_humiliates_indian_developers_with/\">https://www.reddit.com/r/india/comments/1x9xa3h/how_google_humiliates_indian_dev...",
-      "published": "2026-10-22T11:15:58+00:00",
-      "domain": "reddit.com",
+      "title": "Show HN: Ternlux \u2013 Free, local-first, bring-your-own-key AI pipeline builder",
+      "link": "https://www.ternlux.com/online-demo/",
+      "summary": "<p>For the past 12 years as a data engineer, I've been building pipelines across many different business categories and sizes. Most pipelines that I\u2019ve encountered were relatively simple jobs and requ...",
+      "published": "2026-10-22T16:33:58+00:00",
+      "domain": "ternlux.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -121,11 +113,11 @@
       }
     },
     {
-      "title": "For a brief generation or two, we clicked",
-      "link": "https://svrl.net/posts/for-a-brief-generation-or-two-we-clicked/",
-      "summary": "<p>Article URL: <a href=\"https://svrl.net/posts/for-a-brief-generation-or-two-we-clicked/\">https://svrl.net/posts/for-a-brief-generation-or-two-we-clicked/</a></p>\n<p>Comments URL: <a href=\"https://ne...",
-      "published": "2026-10-22T11:15:51+00:00",
-      "domain": "svrl.net",
+      "title": "Anthropic builds its own source control system",
+      "link": "https://newsletter.pragmaticengineer.com/p/the-pulse-anthropic-builds-its-own",
+      "summary": "<p>Article URL: <a href=\"https://newsletter.pragmaticengineer.com/p/the-pulse-anthropic-builds-its-own\">https://newsletter.pragmaticengineer.com/p/the-pulse-anthropic-builds-its-own</a></p>\n<p>Comment...",
+      "published": "2026-10-22T16:33:39+00:00",
+      "domain": "newsletter.pragmaticengineer.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -137,11 +129,11 @@
       }
     },
     {
-      "title": "I don't trust ON DELETE CASCADE",
-      "link": "https://planetscale.com/blog/i-dont-like-delete-cascade",
-      "summary": "<p>Article URL: <a href=\"https://planetscale.com/blog/i-dont-like-delete-cascade\">https://planetscale.com/blog/i-dont-like-delete-cascade</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com...",
-      "published": "2026-10-22T11:14:10+00:00",
-      "domain": "planetscale.com",
+      "title": "Mercury 3 vs. the Fast Autoregressive Models: A Technical Report",
+      "link": "https://zbruceli.org/blog/mercury-3-vs-the-fast-autoregressive-models/",
+      "summary": "<p>Article URL: <a href=\"https://zbruceli.org/blog/mercury-3-vs-the-fast-autoregressive-models/\">https://zbruceli.org/blog/mercury-3-vs-the-fast-autoregressive-models/</a></p>\n<p>Comments URL: <a href...",
+      "published": "2026-10-22T16:33:32+00:00",
+      "domain": "zbruceli.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -153,11 +145,11 @@
       }
     },
     {
-      "title": "Show HN: Return Ledger free portfolio TWR/XIRR tracker with AI PDF import",
-      "link": "https://returnledger.site",
-      "summary": "<p>Hi HN, I made a simple single-page tool that computes portfolios return / performance (TWR and XIRR), gross and net of fees and tax. It requires logging all transactions. It's client-side, with no ...",
-      "published": "2026-10-22T11:13:54+00:00",
-      "domain": "returnledger.site",
+      "title": "Where Wealth Is Moving in America",
+      "link": "https://thestatedtruth.com/?p=28732",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50197533\">Comments</a>...",
+      "published": "2026-10-22T16:22:31+00:00",
+      "domain": "thestatedtruth.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -171,6 +163,54 @@
   ],
   "anarchy_ranked": [
     {
+      "title": "Meta Ordered to Pay $25 Billion After Court Finds 43 Million Privacy Violations",
+      "link": "https://thehackernews.com/2026/10/meta-ordered-to-pay-25-billion-after.html",
+      "summary": "Social media giant Meta was ordered to pay 25 billion in penalties by a New Mexico court on Wednesday as part of a data privacy lawsuit that sprang from the company's Cambridge Analytica data scandal,...",
+      "published": "2026-10-22T21:42:31+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "INTERPOL Arrests 1,462 Suspects, Disrupts 10,909 Cybercrime Networks in Global Crackdown",
+      "link": "https://thehackernews.com/2026/10/interpol-arrests-1462-suspects-disrupts.html",
+      "summary": "INTERPOL on Thursday announced that a coordinated law enforcement action has disrupted 10,909 malicious networks and recovered more than $105 million in illicit funds.\n\nIn tandem, the effort saw law e...",
+      "published": "2026-10-22T19:08:22+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat",
+      "link": "https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html",
+      "summary": "Right now, there is probably an AI agent running on a laptop somewhere in your network. It stores API keys and database passwords, can access your internal systems, and works without anyone watching.\n...",
+      "published": "2026-10-22T17:15:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "Railway Says Intruder May Have Accessed Customer Secrets, Urges Credential Rotation",
       "link": "https://thehackernews.com/2026/10/railway-says-intruder-may-have-accessed.html",
       "summary": "Platform-as-a-Service (PaaS) provider Railway on Wednesday disclosed \"anomalous activity\" related to systems that store customer environment variables.\n\nUpon further investigation, the company found t...",
@@ -187,11 +227,11 @@
       }
     },
     {
-      "title": "OpenCode Flaw Lets Malicious MCP Servers Execute Code During Sign-In on Windows and WSL",
-      "link": "https://thehackernews.com/2026/10/opencode-flaw-lets-malicious-mcp.html",
-      "summary": "A flaw in the OpenCode AI coding agent allowed a malicious or hijacked MCP server to run code on a developer's Windows or WSL machine when the developer signed in. OpenCode connects to MCP (Model Cont...",
-      "published": "2026-10-22T16:14:05+05:30",
-      "domain": "thehackernews.com",
+      "title": "Good Night, and Good Luck: AI, fear and what the job data says",
+      "link": "https://rpallas.xyz/good-night-and-good-luck/",
+      "summary": "<p>Article URL: <a href=\"https://rpallas.xyz/good-night-and-good-luck/\">https://rpallas.xyz/good-night-and-good-luck/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50197708\">h...",
+      "published": "2026-10-22T16:35:29+00:00",
+      "domain": "rpallas.xyz",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -203,11 +243,11 @@
       }
     },
     {
-      "title": "LiteLLM Suspects GitHub Token Leak in AI Gateway Logs Behind Malicious Package Release",
-      "link": "https://thehackernews.com/2026/10/litellm-suspects-github-token-leak-in.html",
-      "summary": "LiteLLM on Wednesday disclosed that threat actors compromised \"multiple independent security controls\" to push a malicious version of the Python package containing a credential stealer and a backdoor....",
-      "published": "2026-10-22T13:58:48+05:30",
-      "domain": "thehackernews.com",
+      "title": "Objects, attributes, maps, oh my",
+      "link": "https://bernsteinbear.com/blog/object-shapes/",
+      "summary": "<p>Article URL: <a href=\"https://bernsteinbear.com/blog/object-shapes/\">https://bernsteinbear.com/blog/object-shapes/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50197692\">h...",
+      "published": "2026-10-22T16:34:39+00:00",
+      "domain": "bernsteinbear.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -219,49 +259,11 @@
       }
     },
     {
-      "title": "Node.js Brotli Decoder Bug Could Allow Remote Code Execution in All Supported Versions",
-      "link": "https://thehackernews.com/2026/10/nodejs-brotli-decoder-bug-could-allow.html",
-      "summary": "Node.js released&nbsp;security updates&nbsp;on October 21 for its three supported release lines, 22.x, 24.x and 26.x, fixing 10 flaws. The most serious is a bug in the Brotli decompression code that N...",
-      "published": "2026-10-22T13:17:22+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 16.2,
-        "anarchy": 3.0,
-        "overall": 9.6
-      },
-      "keywords": {
-        "chaos": [
-          "bug",
-          "bug"
-        ],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "New QPACK Flaws Can Crash HTTP/3 Servers, Trigger Up to 4,000-Fold Memory Amplification",
-      "link": "https://thehackernews.com/2026/10/new-qpack-flaws-can-crash-http3-servers.html",
-      "summary": "A remote attacker who has not logged in can crash many HTTP/3 web servers with a single connection, security firm FoxIO&nbsp;disclosed, releasing working proof-of-concept code.\n\nBy sending a small bat...",
-      "published": "2026-10-22T12:08:31+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 25.0,
-        "anarchy": 3.0,
-        "overall": 14.0
-      },
-      "keywords": {
-        "chaos": [
-          "crash",
-          "crash"
-        ],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Google Humiliates Indian Developers with Google Play BillDesk Verification",
-      "link": "https://www.reddit.com/r/india/comments/1x9xa3h/how_google_humiliates_indian_developers_with/",
-      "summary": "<p>Article URL: <a href=\"https://www.reddit.com/r/india/comments/1x9xa3h/how_google_humiliates_indian_developers_with/\">https://www.reddit.com/r/india/comments/1x9xa3h/how_google_humiliates_indian_dev...",
-      "published": "2026-10-22T11:15:58+00:00",
-      "domain": "reddit.com",
+      "title": "Show HN: Ternlux \u2013 Free, local-first, bring-your-own-key AI pipeline builder",
+      "link": "https://www.ternlux.com/online-demo/",
+      "summary": "<p>For the past 12 years as a data engineer, I've been building pipelines across many different business categories and sizes. Most pipelines that I\u2019ve encountered were relatively simple jobs and requ...",
+      "published": "2026-10-22T16:33:58+00:00",
+      "domain": "ternlux.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -273,11 +275,11 @@
       }
     },
     {
-      "title": "For a brief generation or two, we clicked",
-      "link": "https://svrl.net/posts/for-a-brief-generation-or-two-we-clicked/",
-      "summary": "<p>Article URL: <a href=\"https://svrl.net/posts/for-a-brief-generation-or-two-we-clicked/\">https://svrl.net/posts/for-a-brief-generation-or-two-we-clicked/</a></p>\n<p>Comments URL: <a href=\"https://ne...",
-      "published": "2026-10-22T11:15:51+00:00",
-      "domain": "svrl.net",
+      "title": "Anthropic builds its own source control system",
+      "link": "https://newsletter.pragmaticengineer.com/p/the-pulse-anthropic-builds-its-own",
+      "summary": "<p>Article URL: <a href=\"https://newsletter.pragmaticengineer.com/p/the-pulse-anthropic-builds-its-own\">https://newsletter.pragmaticengineer.com/p/the-pulse-anthropic-builds-its-own</a></p>\n<p>Comment...",
+      "published": "2026-10-22T16:33:39+00:00",
+      "domain": "newsletter.pragmaticengineer.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -289,29 +291,11 @@
       }
     },
     {
-      "title": "Launchpad DockerHub Ubuntu Dockerfile Links Error",
-      "link": "https://hub.docker.com/_/ubuntu",
-      "summary": "<p>Article URL: <a href=\"https://hub.docker.com/_/ubuntu\">https://hub.docker.com/_/ubuntu</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50193821\">https://news.ycombinator.com/...",
-      "published": "2026-10-22T11:14:57+00:00",
-      "domain": "hub.docker.com",
-      "scores": {
-        "chaos": 13.2,
-        "anarchy": 3.0,
-        "overall": 8.1
-      },
-      "keywords": {
-        "chaos": [
-          "error"
-        ],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "I don't trust ON DELETE CASCADE",
-      "link": "https://planetscale.com/blog/i-dont-like-delete-cascade",
-      "summary": "<p>Article URL: <a href=\"https://planetscale.com/blog/i-dont-like-delete-cascade\">https://planetscale.com/blog/i-dont-like-delete-cascade</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com...",
-      "published": "2026-10-22T11:14:10+00:00",
-      "domain": "planetscale.com",
+      "title": "Mercury 3 vs. the Fast Autoregressive Models: A Technical Report",
+      "link": "https://zbruceli.org/blog/mercury-3-vs-the-fast-autoregressive-models/",
+      "summary": "<p>Article URL: <a href=\"https://zbruceli.org/blog/mercury-3-vs-the-fast-autoregressive-models/\">https://zbruceli.org/blog/mercury-3-vs-the-fast-autoregressive-models/</a></p>\n<p>Comments URL: <a href...",
+      "published": "2026-10-22T16:33:32+00:00",
+      "domain": "zbruceli.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -323,11 +307,11 @@
       }
     },
     {
-      "title": "Show HN: Return Ledger free portfolio TWR/XIRR tracker with AI PDF import",
-      "link": "https://returnledger.site",
-      "summary": "<p>Hi HN, I made a simple single-page tool that computes portfolios return / performance (TWR and XIRR), gross and net of fees and tax. It requires logging all transactions. It's client-side, with no ...",
-      "published": "2026-10-22T11:13:54+00:00",
-      "domain": "returnledger.site",
+      "title": "Where Wealth Is Moving in America",
+      "link": "https://thestatedtruth.com/?p=28732",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50197533\">Comments</a>...",
+      "published": "2026-10-22T16:22:31+00:00",
+      "domain": "thestatedtruth.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -341,58 +325,50 @@
   ],
   "overall_ranked": [
     {
-      "title": "New QPACK Flaws Can Crash HTTP/3 Servers, Trigger Up to 4,000-Fold Memory Amplification",
-      "link": "https://thehackernews.com/2026/10/new-qpack-flaws-can-crash-http3-servers.html",
-      "summary": "A remote attacker who has not logged in can crash many HTTP/3 web servers with a single connection, security firm FoxIO&nbsp;disclosed, releasing working proof-of-concept code.\n\nBy sending a small bat...",
-      "published": "2026-10-22T12:08:31+05:30",
+      "title": "Meta Ordered to Pay $25 Billion After Court Finds 43 Million Privacy Violations",
+      "link": "https://thehackernews.com/2026/10/meta-ordered-to-pay-25-billion-after.html",
+      "summary": "Social media giant Meta was ordered to pay 25 billion in penalties by a New Mexico court on Wednesday as part of a data privacy lawsuit that sprang from the company's Cambridge Analytica data scandal,...",
+      "published": "2026-10-22T21:42:31+05:30",
       "domain": "thehackernews.com",
       "scores": {
-        "chaos": 25.0,
+        "chaos": 3.0,
         "anarchy": 3.0,
-        "overall": 14.0
+        "overall": 3.0
       },
       "keywords": {
-        "chaos": [
-          "crash",
-          "crash"
-        ],
+        "chaos": [],
         "anarchy": []
       }
     },
     {
-      "title": "Node.js Brotli Decoder Bug Could Allow Remote Code Execution in All Supported Versions",
-      "link": "https://thehackernews.com/2026/10/nodejs-brotli-decoder-bug-could-allow.html",
-      "summary": "Node.js released&nbsp;security updates&nbsp;on October 21 for its three supported release lines, 22.x, 24.x and 26.x, fixing 10 flaws. The most serious is a bug in the Brotli decompression code that N...",
-      "published": "2026-10-22T13:17:22+05:30",
+      "title": "INTERPOL Arrests 1,462 Suspects, Disrupts 10,909 Cybercrime Networks in Global Crackdown",
+      "link": "https://thehackernews.com/2026/10/interpol-arrests-1462-suspects-disrupts.html",
+      "summary": "INTERPOL on Thursday announced that a coordinated law enforcement action has disrupted 10,909 malicious networks and recovered more than $105 million in illicit funds.\n\nIn tandem, the effort saw law e...",
+      "published": "2026-10-22T19:08:22+05:30",
       "domain": "thehackernews.com",
       "scores": {
-        "chaos": 16.2,
+        "chaos": 3.0,
         "anarchy": 3.0,
-        "overall": 9.6
+        "overall": 3.0
       },
       "keywords": {
-        "chaos": [
-          "bug",
-          "bug"
-        ],
+        "chaos": [],
         "anarchy": []
       }
     },
     {
-      "title": "Launchpad DockerHub Ubuntu Dockerfile Links Error",
-      "link": "https://hub.docker.com/_/ubuntu",
-      "summary": "<p>Article URL: <a href=\"https://hub.docker.com/_/ubuntu\">https://hub.docker.com/_/ubuntu</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50193821\">https://news.ycombinator.com/...",
-      "published": "2026-10-22T11:14:57+00:00",
-      "domain": "hub.docker.com",
+      "title": "The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat",
+      "link": "https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html",
+      "summary": "Right now, there is probably an AI agent running on a laptop somewhere in your network. It stores API keys and database passwords, can access your internal systems, and works without anyone watching.\n...",
+      "published": "2026-10-22T17:15:00+05:30",
+      "domain": "thehackernews.com",
       "scores": {
-        "chaos": 13.2,
+        "chaos": 3.0,
         "anarchy": 3.0,
-        "overall": 8.1
+        "overall": 3.0
       },
       "keywords": {
-        "chaos": [
-          "error"
-        ],
+        "chaos": [],
         "anarchy": []
       }
     },
@@ -413,11 +389,11 @@
       }
     },
     {
-      "title": "OpenCode Flaw Lets Malicious MCP Servers Execute Code During Sign-In on Windows and WSL",
-      "link": "https://thehackernews.com/2026/10/opencode-flaw-lets-malicious-mcp.html",
-      "summary": "A flaw in the OpenCode AI coding agent allowed a malicious or hijacked MCP server to run code on a developer's Windows or WSL machine when the developer signed in. OpenCode connects to MCP (Model Cont...",
-      "published": "2026-10-22T16:14:05+05:30",
-      "domain": "thehackernews.com",
+      "title": "Good Night, and Good Luck: AI, fear and what the job data says",
+      "link": "https://rpallas.xyz/good-night-and-good-luck/",
+      "summary": "<p>Article URL: <a href=\"https://rpallas.xyz/good-night-and-good-luck/\">https://rpallas.xyz/good-night-and-good-luck/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50197708\">h...",
+      "published": "2026-10-22T16:35:29+00:00",
+      "domain": "rpallas.xyz",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -429,11 +405,11 @@
       }
     },
     {
-      "title": "LiteLLM Suspects GitHub Token Leak in AI Gateway Logs Behind Malicious Package Release",
-      "link": "https://thehackernews.com/2026/10/litellm-suspects-github-token-leak-in.html",
-      "summary": "LiteLLM on Wednesday disclosed that threat actors compromised \"multiple independent security controls\" to push a malicious version of the Python package containing a credential stealer and a backdoor....",
-      "published": "2026-10-22T13:58:48+05:30",
-      "domain": "thehackernews.com",
+      "title": "Objects, attributes, maps, oh my",
+      "link": "https://bernsteinbear.com/blog/object-shapes/",
+      "summary": "<p>Article URL: <a href=\"https://bernsteinbear.com/blog/object-shapes/\">https://bernsteinbear.com/blog/object-shapes/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50197692\">h...",
+      "published": "2026-10-22T16:34:39+00:00",
+      "domain": "bernsteinbear.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -445,11 +421,11 @@
       }
     },
     {
-      "title": "Google Humiliates Indian Developers with Google Play BillDesk Verification",
-      "link": "https://www.reddit.com/r/india/comments/1x9xa3h/how_google_humiliates_indian_developers_with/",
-      "summary": "<p>Article URL: <a href=\"https://www.reddit.com/r/india/comments/1x9xa3h/how_google_humiliates_indian_developers_with/\">https://www.reddit.com/r/india/comments/1x9xa3h/how_google_humiliates_indian_dev...",
-      "published": "2026-10-22T11:15:58+00:00",
-      "domain": "reddit.com",
+      "title": "Show HN: Ternlux \u2013 Free, local-first, bring-your-own-key AI pipeline builder",
+      "link": "https://www.ternlux.com/online-demo/",
+      "summary": "<p>For the past 12 years as a data engineer, I've been building pipelines across many different business categories and sizes. Most pipelines that I\u2019ve encountered were relatively simple jobs and requ...",
+      "published": "2026-10-22T16:33:58+00:00",
+      "domain": "ternlux.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -461,11 +437,11 @@
       }
     },
     {
-      "title": "For a brief generation or two, we clicked",
-      "link": "https://svrl.net/posts/for-a-brief-generation-or-two-we-clicked/",
-      "summary": "<p>Article URL: <a href=\"https://svrl.net/posts/for-a-brief-generation-or-two-we-clicked/\">https://svrl.net/posts/for-a-brief-generation-or-two-we-clicked/</a></p>\n<p>Comments URL: <a href=\"https://ne...",
-      "published": "2026-10-22T11:15:51+00:00",
-      "domain": "svrl.net",
+      "title": "Anthropic builds its own source control system",
+      "link": "https://newsletter.pragmaticengineer.com/p/the-pulse-anthropic-builds-its-own",
+      "summary": "<p>Article URL: <a href=\"https://newsletter.pragmaticengineer.com/p/the-pulse-anthropic-builds-its-own\">https://newsletter.pragmaticengineer.com/p/the-pulse-anthropic-builds-its-own</a></p>\n<p>Comment...",
+      "published": "2026-10-22T16:33:39+00:00",
+      "domain": "newsletter.pragmaticengineer.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -477,11 +453,11 @@
       }
     },
     {
-      "title": "I don't trust ON DELETE CASCADE",
-      "link": "https://planetscale.com/blog/i-dont-like-delete-cascade",
-      "summary": "<p>Article URL: <a href=\"https://planetscale.com/blog/i-dont-like-delete-cascade\">https://planetscale.com/blog/i-dont-like-delete-cascade</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com...",
-      "published": "2026-10-22T11:14:10+00:00",
-      "domain": "planetscale.com",
+      "title": "Mercury 3 vs. the Fast Autoregressive Models: A Technical Report",
+      "link": "https://zbruceli.org/blog/mercury-3-vs-the-fast-autoregressive-models/",
+      "summary": "<p>Article URL: <a href=\"https://zbruceli.org/blog/mercury-3-vs-the-fast-autoregressive-models/\">https://zbruceli.org/blog/mercury-3-vs-the-fast-autoregressive-models/</a></p>\n<p>Comments URL: <a href...",
+      "published": "2026-10-22T16:33:32+00:00",
+      "domain": "zbruceli.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -493,11 +469,11 @@
       }
     },
     {
-      "title": "Show HN: Return Ledger free portfolio TWR/XIRR tracker with AI PDF import",
-      "link": "https://returnledger.site",
-      "summary": "<p>Hi HN, I made a simple single-page tool that computes portfolios return / performance (TWR and XIRR), gross and net of fees and tax. It requires logging all transactions. It's client-side, with no ...",
-      "published": "2026-10-22T11:13:54+00:00",
-      "domain": "returnledger.site",
+      "title": "Where Wealth Is Moving in America",
+      "link": "https://thestatedtruth.com/?p=28732",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50197533\">Comments</a>...",
+      "published": "2026-10-22T16:22:31+00:00",
+      "domain": "thestatedtruth.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -511,6 +487,54 @@
   ],
   "all_articles": [
     {
+      "title": "Meta Ordered to Pay $25 Billion After Court Finds 43 Million Privacy Violations",
+      "link": "https://thehackernews.com/2026/10/meta-ordered-to-pay-25-billion-after.html",
+      "summary": "Social media giant Meta was ordered to pay 25 billion in penalties by a New Mexico court on Wednesday as part of a data privacy lawsuit that sprang from the company's Cambridge Analytica data scandal,...",
+      "published": "2026-10-22T21:42:31+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "INTERPOL Arrests 1,462 Suspects, Disrupts 10,909 Cybercrime Networks in Global Crackdown",
+      "link": "https://thehackernews.com/2026/10/interpol-arrests-1462-suspects-disrupts.html",
+      "summary": "INTERPOL on Thursday announced that a coordinated law enforcement action has disrupted 10,909 malicious networks and recovered more than $105 million in illicit funds.\n\nIn tandem, the effort saw law e...",
+      "published": "2026-10-22T19:08:22+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat",
+      "link": "https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html",
+      "summary": "Right now, there is probably an AI agent running on a laptop somewhere in your network. It stores API keys and database passwords, can access your internal systems, and works without anyone watching.\n...",
+      "published": "2026-10-22T17:15:00+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "Railway Says Intruder May Have Accessed Customer Secrets, Urges Credential Rotation",
       "link": "https://thehackernews.com/2026/10/railway-says-intruder-may-have-accessed.html",
       "summary": "Platform-as-a-Service (PaaS) provider Railway on Wednesday disclosed \"anomalous activity\" related to systems that store customer environment variables.\n\nUpon further investigation, the company found t...",
@@ -527,11 +551,11 @@
       }
     },
     {
-      "title": "OpenCode Flaw Lets Malicious MCP Servers Execute Code During Sign-In on Windows and WSL",
-      "link": "https://thehackernews.com/2026/10/opencode-flaw-lets-malicious-mcp.html",
-      "summary": "A flaw in the OpenCode AI coding agent allowed a malicious or hijacked MCP server to run code on a developer's Windows or WSL machine when the developer signed in. OpenCode connects to MCP (Model Cont...",
-      "published": "2026-10-22T16:14:05+05:30",
-      "domain": "thehackernews.com",
+      "title": "Good Night, and Good Luck: AI, fear and what the job data says",
+      "link": "https://rpallas.xyz/good-night-and-good-luck/",
+      "summary": "<p>Article URL: <a href=\"https://rpallas.xyz/good-night-and-good-luck/\">https://rpallas.xyz/good-night-and-good-luck/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50197708\">h...",
+      "published": "2026-10-22T16:35:29+00:00",
+      "domain": "rpallas.xyz",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -543,11 +567,11 @@
       }
     },
     {
-      "title": "LiteLLM Suspects GitHub Token Leak in AI Gateway Logs Behind Malicious Package Release",
-      "link": "https://thehackernews.com/2026/10/litellm-suspects-github-token-leak-in.html",
-      "summary": "LiteLLM on Wednesday disclosed that threat actors compromised \"multiple independent security controls\" to push a malicious version of the Python package containing a credential stealer and a backdoor....",
-      "published": "2026-10-22T13:58:48+05:30",
-      "domain": "thehackernews.com",
+      "title": "Objects, attributes, maps, oh my",
+      "link": "https://bernsteinbear.com/blog/object-shapes/",
+      "summary": "<p>Article URL: <a href=\"https://bernsteinbear.com/blog/object-shapes/\">https://bernsteinbear.com/blog/object-shapes/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50197692\">h...",
+      "published": "2026-10-22T16:34:39+00:00",
+      "domain": "bernsteinbear.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -559,49 +583,11 @@
       }
     },
     {
-      "title": "Node.js Brotli Decoder Bug Could Allow Remote Code Execution in All Supported Versions",
-      "link": "https://thehackernews.com/2026/10/nodejs-brotli-decoder-bug-could-allow.html",
-      "summary": "Node.js released&nbsp;security updates&nbsp;on October 21 for its three supported release lines, 22.x, 24.x and 26.x, fixing 10 flaws. The most serious is a bug in the Brotli decompression code that N...",
-      "published": "2026-10-22T13:17:22+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 16.2,
-        "anarchy": 3.0,
-        "overall": 9.6
-      },
-      "keywords": {
-        "chaos": [
-          "bug",
-          "bug"
-        ],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "New QPACK Flaws Can Crash HTTP/3 Servers, Trigger Up to 4,000-Fold Memory Amplification",
-      "link": "https://thehackernews.com/2026/10/new-qpack-flaws-can-crash-http3-servers.html",
-      "summary": "A remote attacker who has not logged in can crash many HTTP/3 web servers with a single connection, security firm FoxIO&nbsp;disclosed, releasing working proof-of-concept code.\n\nBy sending a small bat...",
-      "published": "2026-10-22T12:08:31+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 25.0,
-        "anarchy": 3.0,
-        "overall": 14.0
-      },
-      "keywords": {
-        "chaos": [
-          "crash",
-          "crash"
-        ],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Google Humiliates Indian Developers with Google Play BillDesk Verification",
-      "link": "https://www.reddit.com/r/india/comments/1x9xa3h/how_google_humiliates_indian_developers_with/",
-      "summary": "<p>Article URL: <a href=\"https://www.reddit.com/r/india/comments/1x9xa3h/how_google_humiliates_indian_developers_with/\">https://www.reddit.com/r/india/comments/1x9xa3h/how_google_humiliates_indian_dev...",
-      "published": "2026-10-22T11:15:58+00:00",
-      "domain": "reddit.com",
+      "title": "Show HN: Ternlux \u2013 Free, local-first, bring-your-own-key AI pipeline builder",
+      "link": "https://www.ternlux.com/online-demo/",
+      "summary": "<p>For the past 12 years as a data engineer, I've been building pipelines across many different business categories and sizes. Most pipelines that I\u2019ve encountered were relatively simple jobs and requ...",
+      "published": "2026-10-22T16:33:58+00:00",
+      "domain": "ternlux.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -613,11 +599,11 @@
       }
     },
     {
-      "title": "For a brief generation or two, we clicked",
-      "link": "https://svrl.net/posts/for-a-brief-generation-or-two-we-clicked/",
-      "summary": "<p>Article URL: <a href=\"https://svrl.net/posts/for-a-brief-generation-or-two-we-clicked/\">https://svrl.net/posts/for-a-brief-generation-or-two-we-clicked/</a></p>\n<p>Comments URL: <a href=\"https://ne...",
-      "published": "2026-10-22T11:15:51+00:00",
-      "domain": "svrl.net",
+      "title": "Anthropic builds its own source control system",
+      "link": "https://newsletter.pragmaticengineer.com/p/the-pulse-anthropic-builds-its-own",
+      "summary": "<p>Article URL: <a href=\"https://newsletter.pragmaticengineer.com/p/the-pulse-anthropic-builds-its-own\">https://newsletter.pragmaticengineer.com/p/the-pulse-anthropic-builds-its-own</a></p>\n<p>Comment...",
+      "published": "2026-10-22T16:33:39+00:00",
+      "domain": "newsletter.pragmaticengineer.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -629,29 +615,11 @@
       }
     },
     {
-      "title": "Launchpad DockerHub Ubuntu Dockerfile Links Error",
-      "link": "https://hub.docker.com/_/ubuntu",
-      "summary": "<p>Article URL: <a href=\"https://hub.docker.com/_/ubuntu\">https://hub.docker.com/_/ubuntu</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50193821\">https://news.ycombinator.com/...",
-      "published": "2026-10-22T11:14:57+00:00",
-      "domain": "hub.docker.com",
-      "scores": {
-        "chaos": 13.2,
-        "anarchy": 3.0,
-        "overall": 8.1
-      },
-      "keywords": {
-        "chaos": [
-          "error"
-        ],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "I don't trust ON DELETE CASCADE",
-      "link": "https://planetscale.com/blog/i-dont-like-delete-cascade",
-      "summary": "<p>Article URL: <a href=\"https://planetscale.com/blog/i-dont-like-delete-cascade\">https://planetscale.com/blog/i-dont-like-delete-cascade</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com...",
-      "published": "2026-10-22T11:14:10+00:00",
-      "domain": "planetscale.com",
+      "title": "Mercury 3 vs. the Fast Autoregressive Models: A Technical Report",
+      "link": "https://zbruceli.org/blog/mercury-3-vs-the-fast-autoregressive-models/",
+      "summary": "<p>Article URL: <a href=\"https://zbruceli.org/blog/mercury-3-vs-the-fast-autoregressive-models/\">https://zbruceli.org/blog/mercury-3-vs-the-fast-autoregressive-models/</a></p>\n<p>Comments URL: <a href...",
+      "published": "2026-10-22T16:33:32+00:00",
+      "domain": "zbruceli.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -663,11 +631,11 @@
       }
     },
     {
-      "title": "Show HN: Return Ledger free portfolio TWR/XIRR tracker with AI PDF import",
-      "link": "https://returnledger.site",
-      "summary": "<p>Hi HN, I made a simple single-page tool that computes portfolios return / performance (TWR and XIRR), gross and net of fees and tax. It requires logging all transactions. It's client-side, with no ...",
-      "published": "2026-10-22T11:13:54+00:00",
-      "domain": "returnledger.site",
+      "title": "Where Wealth Is Moving in America",
+      "link": "https://thestatedtruth.com/?p=28732",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50197533\">Comments</a>...",
+      "published": "2026-10-22T16:22:31+00:00",
+      "domain": "thestatedtruth.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
