@@ -1,138 +1,66 @@
 {
   "chaos_ranked": [
     {
-      "title": "Defense Against the Super-Worms (2025)",
-      "link": "https://www.lesswrong.com/posts/fo98oTodEiEy9mLAu/defense-against-the-super-worms",
-      "summary": "<p>Article URL: <a href=\"https://www.lesswrong.com/posts/fo98oTodEiEy9mLAu/defense-against-the-super-worms\">https://www.lesswrong.com/posts/fo98oTodEiEy9mLAu/defense-against-the-super-worms</a></p>\n<p...",
-      "published": "2026-10-22T03:33:40+00:00",
-      "domain": "lesswrong.com",
+      "title": "New QPACK Flaws Can Crash HTTP/3 Servers, Trigger Up to 4,000-Fold Memory Amplification",
+      "link": "https://thehackernews.com/2026/10/new-qpack-flaws-can-crash-http3-servers.html",
+      "summary": "A remote attacker who has not logged in can crash many HTTP/3 web servers with a single connection, security firm FoxIO&nbsp;disclosed, releasing working proof-of-concept code.\n\nBy sending a small bat...",
+      "published": "2026-10-22T12:08:31+05:30",
+      "domain": "thehackernews.com",
       "scores": {
-        "chaos": 3.0,
+        "chaos": 25.0,
         "anarchy": 3.0,
-        "overall": 3.0
+        "overall": 14.0
       },
       "keywords": {
-        "chaos": [],
+        "chaos": [
+          "crash",
+          "crash"
+        ],
         "anarchy": []
       }
     },
     {
-      "title": "NSA Advisory",
-      "link": "https://www.nsa.gov/Press-Room/Press-Releases-Statements/Press-Release-View/Article/4630238/nsa-advisory-critical-patches-recommended-for-php-vulnerabilities/",
-      "summary": "<p>Article URL: <a href=\"https://www.nsa.gov/Press-Room/Press-Releases-Statements/Press-Release-View/Article/4630238/nsa-advisory-critical-patches-recommended-for-php-vulnerabilities/\">https://www.nsa...",
-      "published": "2026-10-22T03:29:26+00:00",
-      "domain": "nsa.gov",
+      "title": "Node.js Brotli Decoder Bug Could Allow Remote Code Execution in All Supported Versions",
+      "link": "https://thehackernews.com/2026/10/nodejs-brotli-decoder-bug-could-allow.html",
+      "summary": "Node.js released&nbsp;security updates&nbsp;on October 21 for its three supported release lines, 22.x, 24.x and 26.x, fixing 10 flaws. The most serious is a bug in the Brotli decompression code that N...",
+      "published": "2026-10-22T13:17:22+05:30",
+      "domain": "thehackernews.com",
       "scores": {
-        "chaos": 3.0,
+        "chaos": 16.2,
         "anarchy": 3.0,
-        "overall": 3.0
+        "overall": 9.6
       },
       "keywords": {
-        "chaos": [],
+        "chaos": [
+          "bug",
+          "bug"
+        ],
         "anarchy": []
       }
     },
     {
-      "title": "GL650 updated to cover Red Hat Satellite 6.19 with RHEL 10 managed hosts",
-      "link": "https://gurulabs.com/blogs/gl650-red-hat-satellite-6-19/",
-      "summary": "<p>Article URL: <a href=\"https://gurulabs.com/blogs/gl650-red-hat-satellite-6-19/\">https://gurulabs.com/blogs/gl650-red-hat-satellite-6-19/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.c...",
-      "published": "2026-10-22T03:26:51+00:00",
-      "domain": "gurulabs.com",
+      "title": "Launchpad DockerHub Ubuntu Dockerfile Links Error",
+      "link": "https://hub.docker.com/_/ubuntu",
+      "summary": "<p>Article URL: <a href=\"https://hub.docker.com/_/ubuntu\">https://hub.docker.com/_/ubuntu</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50193821\">https://news.ycombinator.com/...",
+      "published": "2026-10-22T11:14:57+00:00",
+      "domain": "hub.docker.com",
       "scores": {
-        "chaos": 3.0,
+        "chaos": 13.2,
         "anarchy": 3.0,
-        "overall": 3.0
+        "overall": 8.1
       },
       "keywords": {
-        "chaos": [],
+        "chaos": [
+          "error"
+        ],
         "anarchy": []
       }
     },
     {
-      "title": "AI agent on your notch, equipped with his own computer",
-      "link": "https://notcho.si",
-      "summary": "<p>Article URL: <a href=\"https://notcho.si\">https://notcho.si</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50190792\">https://news.ycombinator.com/item?id=50190792</a></p>\n<p>...",
-      "published": "2026-10-22T03:22:27+00:00",
-      "domain": "notcho.si",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Flapping Airplanes",
-      "link": "https://flappingairplanes.com/",
-      "summary": "<p>Article URL: <a href=\"https://flappingairplanes.com/\">https://flappingairplanes.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50190686\">https://news.ycombinator.com/it...",
-      "published": "2026-10-22T03:06:36+00:00",
-      "domain": "flappingairplanes.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
-      "link": "https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=50190455\">Comments</a>...",
-      "published": "2026-10-22T02:30:52+00:00",
-      "domain": "web.maths.unsw.edu.au",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Epic vs. Apple AU:Court Orders Alt App Stores,Sideloading and 3rd Party Payments",
-      "link": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2026/2026fca1552",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=50190168\">Comments</a>...",
-      "published": "2026-10-22T01:52:03+00:00",
-      "domain": "judgments.fedcourt.gov.au",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Xbox wants you to pay 24 to 40 cents per hour to stream games you already bought",
-      "link": "https://www.reddit.com/r/technology/comments/1xc5az4/xbox_wants_you_to_pay_24_to_40_cents_per_hour_to/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1xc5az4/xbox_wants_you_to_pay_24_to_40_cents_per_hour_to/\"> <img alt=\"Xbox wants you to pay 24 to 40 cents per hour to stream gam...",
-      "published": "2026-10-22T01:25:20+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases",
-      "link": "https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html",
-      "summary": "GitLab released fixes on October 21 for a flaw that lets an attacker run code on a self-managed server without logging in, and it affects every version of the software going back to 7.0, released in 2...",
-      "published": "2026-10-22T00:27:34+05:30",
+      "title": "Railway Says Intruder May Have Accessed Customer Secrets, Urges Credential Rotation",
+      "link": "https://thehackernews.com/2026/10/railway-says-intruder-may-have-accessed.html",
+      "summary": "Platform-as-a-Service (PaaS) provider Railway on Wednesday disclosed \"anomalous activity\" related to systems that store customer environment variables.\n\nUpon further investigation, the company found t...",
+      "published": "2026-10-22T16:45:42+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -145,11 +73,91 @@
       }
     },
     {
-      "title": "mitmproxy adds --emudhra option",
-      "link": "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=50189232\">Comments</a>...",
-      "published": "2026-10-21T23:51:37+00:00",
-      "domain": "github.com",
+      "title": "OpenCode Flaw Lets Malicious MCP Servers Execute Code During Sign-In on Windows and WSL",
+      "link": "https://thehackernews.com/2026/10/opencode-flaw-lets-malicious-mcp.html",
+      "summary": "A flaw in the OpenCode AI coding agent allowed a malicious or hijacked MCP server to run code on a developer's Windows or WSL machine when the developer signed in. OpenCode connects to MCP (Model Cont...",
+      "published": "2026-10-22T16:14:05+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "LiteLLM Suspects GitHub Token Leak in AI Gateway Logs Behind Malicious Package Release",
+      "link": "https://thehackernews.com/2026/10/litellm-suspects-github-token-leak-in.html",
+      "summary": "LiteLLM on Wednesday disclosed that threat actors compromised \"multiple independent security controls\" to push a malicious version of the Python package containing a credential stealer and a backdoor....",
+      "published": "2026-10-22T13:58:48+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Google Humiliates Indian Developers with Google Play BillDesk Verification",
+      "link": "https://www.reddit.com/r/india/comments/1x9xa3h/how_google_humiliates_indian_developers_with/",
+      "summary": "<p>Article URL: <a href=\"https://www.reddit.com/r/india/comments/1x9xa3h/how_google_humiliates_indian_developers_with/\">https://www.reddit.com/r/india/comments/1x9xa3h/how_google_humiliates_indian_dev...",
+      "published": "2026-10-22T11:15:58+00:00",
+      "domain": "reddit.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "For a brief generation or two, we clicked",
+      "link": "https://svrl.net/posts/for-a-brief-generation-or-two-we-clicked/",
+      "summary": "<p>Article URL: <a href=\"https://svrl.net/posts/for-a-brief-generation-or-two-we-clicked/\">https://svrl.net/posts/for-a-brief-generation-or-two-we-clicked/</a></p>\n<p>Comments URL: <a href=\"https://ne...",
+      "published": "2026-10-22T11:15:51+00:00",
+      "domain": "svrl.net",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "I don't trust ON DELETE CASCADE",
+      "link": "https://planetscale.com/blog/i-dont-like-delete-cascade",
+      "summary": "<p>Article URL: <a href=\"https://planetscale.com/blog/i-dont-like-delete-cascade\">https://planetscale.com/blog/i-dont-like-delete-cascade</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com...",
+      "published": "2026-10-22T11:14:10+00:00",
+      "domain": "planetscale.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Return Ledger free portfolio TWR/XIRR tracker with AI PDF import",
+      "link": "https://returnledger.site",
+      "summary": "<p>Hi HN, I made a simple single-page tool that computes portfolios return / performance (TWR and XIRR), gross and net of fees and tax. It requires logging all transactions. It's client-side, with no ...",
+      "published": "2026-10-22T11:13:54+00:00",
+      "domain": "returnledger.site",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -163,138 +171,10 @@
   ],
   "anarchy_ranked": [
     {
-      "title": "Defense Against the Super-Worms (2025)",
-      "link": "https://www.lesswrong.com/posts/fo98oTodEiEy9mLAu/defense-against-the-super-worms",
-      "summary": "<p>Article URL: <a href=\"https://www.lesswrong.com/posts/fo98oTodEiEy9mLAu/defense-against-the-super-worms\">https://www.lesswrong.com/posts/fo98oTodEiEy9mLAu/defense-against-the-super-worms</a></p>\n<p...",
-      "published": "2026-10-22T03:33:40+00:00",
-      "domain": "lesswrong.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "NSA Advisory",
-      "link": "https://www.nsa.gov/Press-Room/Press-Releases-Statements/Press-Release-View/Article/4630238/nsa-advisory-critical-patches-recommended-for-php-vulnerabilities/",
-      "summary": "<p>Article URL: <a href=\"https://www.nsa.gov/Press-Room/Press-Releases-Statements/Press-Release-View/Article/4630238/nsa-advisory-critical-patches-recommended-for-php-vulnerabilities/\">https://www.nsa...",
-      "published": "2026-10-22T03:29:26+00:00",
-      "domain": "nsa.gov",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "GL650 updated to cover Red Hat Satellite 6.19 with RHEL 10 managed hosts",
-      "link": "https://gurulabs.com/blogs/gl650-red-hat-satellite-6-19/",
-      "summary": "<p>Article URL: <a href=\"https://gurulabs.com/blogs/gl650-red-hat-satellite-6-19/\">https://gurulabs.com/blogs/gl650-red-hat-satellite-6-19/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.c...",
-      "published": "2026-10-22T03:26:51+00:00",
-      "domain": "gurulabs.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "AI agent on your notch, equipped with his own computer",
-      "link": "https://notcho.si",
-      "summary": "<p>Article URL: <a href=\"https://notcho.si\">https://notcho.si</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50190792\">https://news.ycombinator.com/item?id=50190792</a></p>\n<p>...",
-      "published": "2026-10-22T03:22:27+00:00",
-      "domain": "notcho.si",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Flapping Airplanes",
-      "link": "https://flappingairplanes.com/",
-      "summary": "<p>Article URL: <a href=\"https://flappingairplanes.com/\">https://flappingairplanes.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50190686\">https://news.ycombinator.com/it...",
-      "published": "2026-10-22T03:06:36+00:00",
-      "domain": "flappingairplanes.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
-      "link": "https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=50190455\">Comments</a>...",
-      "published": "2026-10-22T02:30:52+00:00",
-      "domain": "web.maths.unsw.edu.au",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Epic vs. Apple AU:Court Orders Alt App Stores,Sideloading and 3rd Party Payments",
-      "link": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2026/2026fca1552",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=50190168\">Comments</a>...",
-      "published": "2026-10-22T01:52:03+00:00",
-      "domain": "judgments.fedcourt.gov.au",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Xbox wants you to pay 24 to 40 cents per hour to stream games you already bought",
-      "link": "https://www.reddit.com/r/technology/comments/1xc5az4/xbox_wants_you_to_pay_24_to_40_cents_per_hour_to/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1xc5az4/xbox_wants_you_to_pay_24_to_40_cents_per_hour_to/\"> <img alt=\"Xbox wants you to pay 24 to 40 cents per hour to stream gam...",
-      "published": "2026-10-22T01:25:20+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases",
-      "link": "https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html",
-      "summary": "GitLab released fixes on October 21 for a flaw that lets an attacker run code on a self-managed server without logging in, and it affects every version of the software going back to 7.0, released in 2...",
-      "published": "2026-10-22T00:27:34+05:30",
+      "title": "Railway Says Intruder May Have Accessed Customer Secrets, Urges Credential Rotation",
+      "link": "https://thehackernews.com/2026/10/railway-says-intruder-may-have-accessed.html",
+      "summary": "Platform-as-a-Service (PaaS) provider Railway on Wednesday disclosed \"anomalous activity\" related to systems that store customer environment variables.\n\nUpon further investigation, the company found t...",
+      "published": "2026-10-22T16:45:42+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -307,11 +187,147 @@
       }
     },
     {
-      "title": "mitmproxy adds --emudhra option",
-      "link": "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=50189232\">Comments</a>...",
-      "published": "2026-10-21T23:51:37+00:00",
-      "domain": "github.com",
+      "title": "OpenCode Flaw Lets Malicious MCP Servers Execute Code During Sign-In on Windows and WSL",
+      "link": "https://thehackernews.com/2026/10/opencode-flaw-lets-malicious-mcp.html",
+      "summary": "A flaw in the OpenCode AI coding agent allowed a malicious or hijacked MCP server to run code on a developer's Windows or WSL machine when the developer signed in. OpenCode connects to MCP (Model Cont...",
+      "published": "2026-10-22T16:14:05+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "LiteLLM Suspects GitHub Token Leak in AI Gateway Logs Behind Malicious Package Release",
+      "link": "https://thehackernews.com/2026/10/litellm-suspects-github-token-leak-in.html",
+      "summary": "LiteLLM on Wednesday disclosed that threat actors compromised \"multiple independent security controls\" to push a malicious version of the Python package containing a credential stealer and a backdoor....",
+      "published": "2026-10-22T13:58:48+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Node.js Brotli Decoder Bug Could Allow Remote Code Execution in All Supported Versions",
+      "link": "https://thehackernews.com/2026/10/nodejs-brotli-decoder-bug-could-allow.html",
+      "summary": "Node.js released&nbsp;security updates&nbsp;on October 21 for its three supported release lines, 22.x, 24.x and 26.x, fixing 10 flaws. The most serious is a bug in the Brotli decompression code that N...",
+      "published": "2026-10-22T13:17:22+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 16.2,
+        "anarchy": 3.0,
+        "overall": 9.6
+      },
+      "keywords": {
+        "chaos": [
+          "bug",
+          "bug"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "New QPACK Flaws Can Crash HTTP/3 Servers, Trigger Up to 4,000-Fold Memory Amplification",
+      "link": "https://thehackernews.com/2026/10/new-qpack-flaws-can-crash-http3-servers.html",
+      "summary": "A remote attacker who has not logged in can crash many HTTP/3 web servers with a single connection, security firm FoxIO&nbsp;disclosed, releasing working proof-of-concept code.\n\nBy sending a small bat...",
+      "published": "2026-10-22T12:08:31+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 25.0,
+        "anarchy": 3.0,
+        "overall": 14.0
+      },
+      "keywords": {
+        "chaos": [
+          "crash",
+          "crash"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Google Humiliates Indian Developers with Google Play BillDesk Verification",
+      "link": "https://www.reddit.com/r/india/comments/1x9xa3h/how_google_humiliates_indian_developers_with/",
+      "summary": "<p>Article URL: <a href=\"https://www.reddit.com/r/india/comments/1x9xa3h/how_google_humiliates_indian_developers_with/\">https://www.reddit.com/r/india/comments/1x9xa3h/how_google_humiliates_indian_dev...",
+      "published": "2026-10-22T11:15:58+00:00",
+      "domain": "reddit.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "For a brief generation or two, we clicked",
+      "link": "https://svrl.net/posts/for-a-brief-generation-or-two-we-clicked/",
+      "summary": "<p>Article URL: <a href=\"https://svrl.net/posts/for-a-brief-generation-or-two-we-clicked/\">https://svrl.net/posts/for-a-brief-generation-or-two-we-clicked/</a></p>\n<p>Comments URL: <a href=\"https://ne...",
+      "published": "2026-10-22T11:15:51+00:00",
+      "domain": "svrl.net",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Launchpad DockerHub Ubuntu Dockerfile Links Error",
+      "link": "https://hub.docker.com/_/ubuntu",
+      "summary": "<p>Article URL: <a href=\"https://hub.docker.com/_/ubuntu\">https://hub.docker.com/_/ubuntu</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50193821\">https://news.ycombinator.com/...",
+      "published": "2026-10-22T11:14:57+00:00",
+      "domain": "hub.docker.com",
+      "scores": {
+        "chaos": 13.2,
+        "anarchy": 3.0,
+        "overall": 8.1
+      },
+      "keywords": {
+        "chaos": [
+          "error"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "I don't trust ON DELETE CASCADE",
+      "link": "https://planetscale.com/blog/i-dont-like-delete-cascade",
+      "summary": "<p>Article URL: <a href=\"https://planetscale.com/blog/i-dont-like-delete-cascade\">https://planetscale.com/blog/i-dont-like-delete-cascade</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com...",
+      "published": "2026-10-22T11:14:10+00:00",
+      "domain": "planetscale.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Return Ledger free portfolio TWR/XIRR tracker with AI PDF import",
+      "link": "https://returnledger.site",
+      "summary": "<p>Hi HN, I made a simple single-page tool that computes portfolios return / performance (TWR and XIRR), gross and net of fees and tax. It requires logging all transactions. It's client-side, with no ...",
+      "published": "2026-10-22T11:13:54+00:00",
+      "domain": "returnledger.site",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -325,138 +341,66 @@
   ],
   "overall_ranked": [
     {
-      "title": "Defense Against the Super-Worms (2025)",
-      "link": "https://www.lesswrong.com/posts/fo98oTodEiEy9mLAu/defense-against-the-super-worms",
-      "summary": "<p>Article URL: <a href=\"https://www.lesswrong.com/posts/fo98oTodEiEy9mLAu/defense-against-the-super-worms\">https://www.lesswrong.com/posts/fo98oTodEiEy9mLAu/defense-against-the-super-worms</a></p>\n<p...",
-      "published": "2026-10-22T03:33:40+00:00",
-      "domain": "lesswrong.com",
+      "title": "New QPACK Flaws Can Crash HTTP/3 Servers, Trigger Up to 4,000-Fold Memory Amplification",
+      "link": "https://thehackernews.com/2026/10/new-qpack-flaws-can-crash-http3-servers.html",
+      "summary": "A remote attacker who has not logged in can crash many HTTP/3 web servers with a single connection, security firm FoxIO&nbsp;disclosed, releasing working proof-of-concept code.\n\nBy sending a small bat...",
+      "published": "2026-10-22T12:08:31+05:30",
+      "domain": "thehackernews.com",
       "scores": {
-        "chaos": 3.0,
+        "chaos": 25.0,
         "anarchy": 3.0,
-        "overall": 3.0
+        "overall": 14.0
       },
       "keywords": {
-        "chaos": [],
+        "chaos": [
+          "crash",
+          "crash"
+        ],
         "anarchy": []
       }
     },
     {
-      "title": "NSA Advisory",
-      "link": "https://www.nsa.gov/Press-Room/Press-Releases-Statements/Press-Release-View/Article/4630238/nsa-advisory-critical-patches-recommended-for-php-vulnerabilities/",
-      "summary": "<p>Article URL: <a href=\"https://www.nsa.gov/Press-Room/Press-Releases-Statements/Press-Release-View/Article/4630238/nsa-advisory-critical-patches-recommended-for-php-vulnerabilities/\">https://www.nsa...",
-      "published": "2026-10-22T03:29:26+00:00",
-      "domain": "nsa.gov",
+      "title": "Node.js Brotli Decoder Bug Could Allow Remote Code Execution in All Supported Versions",
+      "link": "https://thehackernews.com/2026/10/nodejs-brotli-decoder-bug-could-allow.html",
+      "summary": "Node.js released&nbsp;security updates&nbsp;on October 21 for its three supported release lines, 22.x, 24.x and 26.x, fixing 10 flaws. The most serious is a bug in the Brotli decompression code that N...",
+      "published": "2026-10-22T13:17:22+05:30",
+      "domain": "thehackernews.com",
       "scores": {
-        "chaos": 3.0,
+        "chaos": 16.2,
         "anarchy": 3.0,
-        "overall": 3.0
+        "overall": 9.6
       },
       "keywords": {
-        "chaos": [],
+        "chaos": [
+          "bug",
+          "bug"
+        ],
         "anarchy": []
       }
     },
     {
-      "title": "GL650 updated to cover Red Hat Satellite 6.19 with RHEL 10 managed hosts",
-      "link": "https://gurulabs.com/blogs/gl650-red-hat-satellite-6-19/",
-      "summary": "<p>Article URL: <a href=\"https://gurulabs.com/blogs/gl650-red-hat-satellite-6-19/\">https://gurulabs.com/blogs/gl650-red-hat-satellite-6-19/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.c...",
-      "published": "2026-10-22T03:26:51+00:00",
-      "domain": "gurulabs.com",
+      "title": "Launchpad DockerHub Ubuntu Dockerfile Links Error",
+      "link": "https://hub.docker.com/_/ubuntu",
+      "summary": "<p>Article URL: <a href=\"https://hub.docker.com/_/ubuntu\">https://hub.docker.com/_/ubuntu</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50193821\">https://news.ycombinator.com/...",
+      "published": "2026-10-22T11:14:57+00:00",
+      "domain": "hub.docker.com",
       "scores": {
-        "chaos": 3.0,
+        "chaos": 13.2,
         "anarchy": 3.0,
-        "overall": 3.0
+        "overall": 8.1
       },
       "keywords": {
-        "chaos": [],
+        "chaos": [
+          "error"
+        ],
         "anarchy": []
       }
     },
     {
-      "title": "AI agent on your notch, equipped with his own computer",
-      "link": "https://notcho.si",
-      "summary": "<p>Article URL: <a href=\"https://notcho.si\">https://notcho.si</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50190792\">https://news.ycombinator.com/item?id=50190792</a></p>\n<p>...",
-      "published": "2026-10-22T03:22:27+00:00",
-      "domain": "notcho.si",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Flapping Airplanes",
-      "link": "https://flappingairplanes.com/",
-      "summary": "<p>Article URL: <a href=\"https://flappingairplanes.com/\">https://flappingairplanes.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50190686\">https://news.ycombinator.com/it...",
-      "published": "2026-10-22T03:06:36+00:00",
-      "domain": "flappingairplanes.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
-      "link": "https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=50190455\">Comments</a>...",
-      "published": "2026-10-22T02:30:52+00:00",
-      "domain": "web.maths.unsw.edu.au",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Epic vs. Apple AU:Court Orders Alt App Stores,Sideloading and 3rd Party Payments",
-      "link": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2026/2026fca1552",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=50190168\">Comments</a>...",
-      "published": "2026-10-22T01:52:03+00:00",
-      "domain": "judgments.fedcourt.gov.au",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Xbox wants you to pay 24 to 40 cents per hour to stream games you already bought",
-      "link": "https://www.reddit.com/r/technology/comments/1xc5az4/xbox_wants_you_to_pay_24_to_40_cents_per_hour_to/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1xc5az4/xbox_wants_you_to_pay_24_to_40_cents_per_hour_to/\"> <img alt=\"Xbox wants you to pay 24 to 40 cents per hour to stream gam...",
-      "published": "2026-10-22T01:25:20+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases",
-      "link": "https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html",
-      "summary": "GitLab released fixes on October 21 for a flaw that lets an attacker run code on a self-managed server without logging in, and it affects every version of the software going back to 7.0, released in 2...",
-      "published": "2026-10-22T00:27:34+05:30",
+      "title": "Railway Says Intruder May Have Accessed Customer Secrets, Urges Credential Rotation",
+      "link": "https://thehackernews.com/2026/10/railway-says-intruder-may-have-accessed.html",
+      "summary": "Platform-as-a-Service (PaaS) provider Railway on Wednesday disclosed \"anomalous activity\" related to systems that store customer environment variables.\n\nUpon further investigation, the company found t...",
+      "published": "2026-10-22T16:45:42+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -469,11 +413,91 @@
       }
     },
     {
-      "title": "mitmproxy adds --emudhra option",
-      "link": "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=50189232\">Comments</a>...",
-      "published": "2026-10-21T23:51:37+00:00",
-      "domain": "github.com",
+      "title": "OpenCode Flaw Lets Malicious MCP Servers Execute Code During Sign-In on Windows and WSL",
+      "link": "https://thehackernews.com/2026/10/opencode-flaw-lets-malicious-mcp.html",
+      "summary": "A flaw in the OpenCode AI coding agent allowed a malicious or hijacked MCP server to run code on a developer's Windows or WSL machine when the developer signed in. OpenCode connects to MCP (Model Cont...",
+      "published": "2026-10-22T16:14:05+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "LiteLLM Suspects GitHub Token Leak in AI Gateway Logs Behind Malicious Package Release",
+      "link": "https://thehackernews.com/2026/10/litellm-suspects-github-token-leak-in.html",
+      "summary": "LiteLLM on Wednesday disclosed that threat actors compromised \"multiple independent security controls\" to push a malicious version of the Python package containing a credential stealer and a backdoor....",
+      "published": "2026-10-22T13:58:48+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Google Humiliates Indian Developers with Google Play BillDesk Verification",
+      "link": "https://www.reddit.com/r/india/comments/1x9xa3h/how_google_humiliates_indian_developers_with/",
+      "summary": "<p>Article URL: <a href=\"https://www.reddit.com/r/india/comments/1x9xa3h/how_google_humiliates_indian_developers_with/\">https://www.reddit.com/r/india/comments/1x9xa3h/how_google_humiliates_indian_dev...",
+      "published": "2026-10-22T11:15:58+00:00",
+      "domain": "reddit.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "For a brief generation or two, we clicked",
+      "link": "https://svrl.net/posts/for-a-brief-generation-or-two-we-clicked/",
+      "summary": "<p>Article URL: <a href=\"https://svrl.net/posts/for-a-brief-generation-or-two-we-clicked/\">https://svrl.net/posts/for-a-brief-generation-or-two-we-clicked/</a></p>\n<p>Comments URL: <a href=\"https://ne...",
+      "published": "2026-10-22T11:15:51+00:00",
+      "domain": "svrl.net",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "I don't trust ON DELETE CASCADE",
+      "link": "https://planetscale.com/blog/i-dont-like-delete-cascade",
+      "summary": "<p>Article URL: <a href=\"https://planetscale.com/blog/i-dont-like-delete-cascade\">https://planetscale.com/blog/i-dont-like-delete-cascade</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com...",
+      "published": "2026-10-22T11:14:10+00:00",
+      "domain": "planetscale.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Return Ledger free portfolio TWR/XIRR tracker with AI PDF import",
+      "link": "https://returnledger.site",
+      "summary": "<p>Hi HN, I made a simple single-page tool that computes portfolios return / performance (TWR and XIRR), gross and net of fees and tax. It requires logging all transactions. It's client-side, with no ...",
+      "published": "2026-10-22T11:13:54+00:00",
+      "domain": "returnledger.site",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -487,138 +511,10 @@
   ],
   "all_articles": [
     {
-      "title": "Defense Against the Super-Worms (2025)",
-      "link": "https://www.lesswrong.com/posts/fo98oTodEiEy9mLAu/defense-against-the-super-worms",
-      "summary": "<p>Article URL: <a href=\"https://www.lesswrong.com/posts/fo98oTodEiEy9mLAu/defense-against-the-super-worms\">https://www.lesswrong.com/posts/fo98oTodEiEy9mLAu/defense-against-the-super-worms</a></p>\n<p...",
-      "published": "2026-10-22T03:33:40+00:00",
-      "domain": "lesswrong.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "NSA Advisory",
-      "link": "https://www.nsa.gov/Press-Room/Press-Releases-Statements/Press-Release-View/Article/4630238/nsa-advisory-critical-patches-recommended-for-php-vulnerabilities/",
-      "summary": "<p>Article URL: <a href=\"https://www.nsa.gov/Press-Room/Press-Releases-Statements/Press-Release-View/Article/4630238/nsa-advisory-critical-patches-recommended-for-php-vulnerabilities/\">https://www.nsa...",
-      "published": "2026-10-22T03:29:26+00:00",
-      "domain": "nsa.gov",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "GL650 updated to cover Red Hat Satellite 6.19 with RHEL 10 managed hosts",
-      "link": "https://gurulabs.com/blogs/gl650-red-hat-satellite-6-19/",
-      "summary": "<p>Article URL: <a href=\"https://gurulabs.com/blogs/gl650-red-hat-satellite-6-19/\">https://gurulabs.com/blogs/gl650-red-hat-satellite-6-19/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.c...",
-      "published": "2026-10-22T03:26:51+00:00",
-      "domain": "gurulabs.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "AI agent on your notch, equipped with his own computer",
-      "link": "https://notcho.si",
-      "summary": "<p>Article URL: <a href=\"https://notcho.si\">https://notcho.si</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50190792\">https://news.ycombinator.com/item?id=50190792</a></p>\n<p>...",
-      "published": "2026-10-22T03:22:27+00:00",
-      "domain": "notcho.si",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Flapping Airplanes",
-      "link": "https://flappingairplanes.com/",
-      "summary": "<p>Article URL: <a href=\"https://flappingairplanes.com/\">https://flappingairplanes.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50190686\">https://news.ycombinator.com/it...",
-      "published": "2026-10-22T03:06:36+00:00",
-      "domain": "flappingairplanes.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
-      "link": "https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=50190455\">Comments</a>...",
-      "published": "2026-10-22T02:30:52+00:00",
-      "domain": "web.maths.unsw.edu.au",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Epic vs. Apple AU:Court Orders Alt App Stores,Sideloading and 3rd Party Payments",
-      "link": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2026/2026fca1552",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=50190168\">Comments</a>...",
-      "published": "2026-10-22T01:52:03+00:00",
-      "domain": "judgments.fedcourt.gov.au",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Xbox wants you to pay 24 to 40 cents per hour to stream games you already bought",
-      "link": "https://www.reddit.com/r/technology/comments/1xc5az4/xbox_wants_you_to_pay_24_to_40_cents_per_hour_to/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1xc5az4/xbox_wants_you_to_pay_24_to_40_cents_per_hour_to/\"> <img alt=\"Xbox wants you to pay 24 to 40 cents per hour to stream gam...",
-      "published": "2026-10-22T01:25:20+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases",
-      "link": "https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html",
-      "summary": "GitLab released fixes on October 21 for a flaw that lets an attacker run code on a self-managed server without logging in, and it affects every version of the software going back to 7.0, released in 2...",
-      "published": "2026-10-22T00:27:34+05:30",
+      "title": "Railway Says Intruder May Have Accessed Customer Secrets, Urges Credential Rotation",
+      "link": "https://thehackernews.com/2026/10/railway-says-intruder-may-have-accessed.html",
+      "summary": "Platform-as-a-Service (PaaS) provider Railway on Wednesday disclosed \"anomalous activity\" related to systems that store customer environment variables.\n\nUpon further investigation, the company found t...",
+      "published": "2026-10-22T16:45:42+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -631,11 +527,147 @@
       }
     },
     {
-      "title": "mitmproxy adds --emudhra option",
-      "link": "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=50189232\">Comments</a>...",
-      "published": "2026-10-21T23:51:37+00:00",
-      "domain": "github.com",
+      "title": "OpenCode Flaw Lets Malicious MCP Servers Execute Code During Sign-In on Windows and WSL",
+      "link": "https://thehackernews.com/2026/10/opencode-flaw-lets-malicious-mcp.html",
+      "summary": "A flaw in the OpenCode AI coding agent allowed a malicious or hijacked MCP server to run code on a developer's Windows or WSL machine when the developer signed in. OpenCode connects to MCP (Model Cont...",
+      "published": "2026-10-22T16:14:05+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "LiteLLM Suspects GitHub Token Leak in AI Gateway Logs Behind Malicious Package Release",
+      "link": "https://thehackernews.com/2026/10/litellm-suspects-github-token-leak-in.html",
+      "summary": "LiteLLM on Wednesday disclosed that threat actors compromised \"multiple independent security controls\" to push a malicious version of the Python package containing a credential stealer and a backdoor....",
+      "published": "2026-10-22T13:58:48+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Node.js Brotli Decoder Bug Could Allow Remote Code Execution in All Supported Versions",
+      "link": "https://thehackernews.com/2026/10/nodejs-brotli-decoder-bug-could-allow.html",
+      "summary": "Node.js released&nbsp;security updates&nbsp;on October 21 for its three supported release lines, 22.x, 24.x and 26.x, fixing 10 flaws. The most serious is a bug in the Brotli decompression code that N...",
+      "published": "2026-10-22T13:17:22+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 16.2,
+        "anarchy": 3.0,
+        "overall": 9.6
+      },
+      "keywords": {
+        "chaos": [
+          "bug",
+          "bug"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "New QPACK Flaws Can Crash HTTP/3 Servers, Trigger Up to 4,000-Fold Memory Amplification",
+      "link": "https://thehackernews.com/2026/10/new-qpack-flaws-can-crash-http3-servers.html",
+      "summary": "A remote attacker who has not logged in can crash many HTTP/3 web servers with a single connection, security firm FoxIO&nbsp;disclosed, releasing working proof-of-concept code.\n\nBy sending a small bat...",
+      "published": "2026-10-22T12:08:31+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 25.0,
+        "anarchy": 3.0,
+        "overall": 14.0
+      },
+      "keywords": {
+        "chaos": [
+          "crash",
+          "crash"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Google Humiliates Indian Developers with Google Play BillDesk Verification",
+      "link": "https://www.reddit.com/r/india/comments/1x9xa3h/how_google_humiliates_indian_developers_with/",
+      "summary": "<p>Article URL: <a href=\"https://www.reddit.com/r/india/comments/1x9xa3h/how_google_humiliates_indian_developers_with/\">https://www.reddit.com/r/india/comments/1x9xa3h/how_google_humiliates_indian_dev...",
+      "published": "2026-10-22T11:15:58+00:00",
+      "domain": "reddit.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "For a brief generation or two, we clicked",
+      "link": "https://svrl.net/posts/for-a-brief-generation-or-two-we-clicked/",
+      "summary": "<p>Article URL: <a href=\"https://svrl.net/posts/for-a-brief-generation-or-two-we-clicked/\">https://svrl.net/posts/for-a-brief-generation-or-two-we-clicked/</a></p>\n<p>Comments URL: <a href=\"https://ne...",
+      "published": "2026-10-22T11:15:51+00:00",
+      "domain": "svrl.net",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Launchpad DockerHub Ubuntu Dockerfile Links Error",
+      "link": "https://hub.docker.com/_/ubuntu",
+      "summary": "<p>Article URL: <a href=\"https://hub.docker.com/_/ubuntu\">https://hub.docker.com/_/ubuntu</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50193821\">https://news.ycombinator.com/...",
+      "published": "2026-10-22T11:14:57+00:00",
+      "domain": "hub.docker.com",
+      "scores": {
+        "chaos": 13.2,
+        "anarchy": 3.0,
+        "overall": 8.1
+      },
+      "keywords": {
+        "chaos": [
+          "error"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "I don't trust ON DELETE CASCADE",
+      "link": "https://planetscale.com/blog/i-dont-like-delete-cascade",
+      "summary": "<p>Article URL: <a href=\"https://planetscale.com/blog/i-dont-like-delete-cascade\">https://planetscale.com/blog/i-dont-like-delete-cascade</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com...",
+      "published": "2026-10-22T11:14:10+00:00",
+      "domain": "planetscale.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Return Ledger free portfolio TWR/XIRR tracker with AI PDF import",
+      "link": "https://returnledger.site",
+      "summary": "<p>Hi HN, I made a simple single-page tool that computes portfolios return / performance (TWR and XIRR), gross and net of fees and tax. It requires logging all transactions. It's client-side, with no ...",
+      "published": "2026-10-22T11:13:54+00:00",
+      "domain": "returnledger.site",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
