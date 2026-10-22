@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### PHP Issues Emergency Patches for Two Critical PHP2Shell RCE Flaws as Exploit Attempts Emerge
-- **Published**: October 21, 2026
-- **Summary**: PHP has released emergency updates that fix two critical flaws in the language itself, letting an attacker without an account run code on a web server...
-- **Keywords**: emergency, emergency
-- [Read more](https://thehackernews.com/2026/10/php-issues-emergency-patches-for-two.html)
-
-### Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases
+### Defense Against the Super-Worms (2025)
 - **Published**: October 22, 2026
-- **Summary**: GitLab released fixes on October 21 for a flaw that lets an attacker run code on a self-managed server without logging in, and it affects every versio...
-- [Read more](https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html)
+- **Summary**: https://www.lesswrong.com/posts/fo98oTodEiEy9mLAu/defense-against-the-super-worms</a></p>
+<p......
+- [Read more](https://www.lesswrong.com/posts/fo98oTodEiEy9mLAu/defense-against-the-super-worms)
+
+### NSA Advisory
+- **Published**: October 22, 2026
+- **Summary**: https://www.nsa......
+- [Read more](https://www.nsa.gov/Press-Room/Press-Releases-Statements/Press-Release-View/Article/4630238/nsa-advisory-critical-patches-recommended-for-php-vulnerabilities/)
 
 ---
 
