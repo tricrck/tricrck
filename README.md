@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Meta Ordered to Pay $25 Billion After Court Finds 43 Million Privacy Violations
-- **Published**: October 22, 2026
-- **Summary**: Social media giant Meta was ordered to pay 25 billion in penalties by a New Mexico court on Wednesday as part of a data privacy lawsuit that sprang fr...
-- [Read more](https://thehackernews.com/2026/10/meta-ordered-to-pay-25-billion-after.html)
+### The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat
+- **Published**: October 23, 2026
+- **Summary**: Right now, there is probably an AI agent running on a laptop somewhere in your network. It stores API keys and database passwords, can access your int...
+- [Read more](https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html)
 
-### INTERPOL Arrests 1,462 Suspects, Disrupts 10,909 Cybercrime Networks in Global Crackdown
-- **Published**: October 22, 2026
-- **Summary**: INTERPOL on Thursday announced that a coordinated law enforcement action has disrupted 10,909 malicious networks and recovered more than $105 million ...
-- [Read more](https://thehackernews.com/2026/10/interpol-arrests-1462-suspects-disrupts.html)
+### Arista Warns of Critical VeloCloud SQL Injection Zero-Day Exploited in Attacks
+- **Published**: October 23, 2026
+- **Summary**: Attackers are exploiting a zero-day SQL injection flaw in Arista's VeloCloud Orchestrator (VCO), the&nbsp;central management system&nbsp;for VeloCloud...
+- [Read more](https://thehackernews.com/2026/10/arista-warns-of-critical-velocloud-sql.html)
 
 ---
 
