@@ -1,21 +1,130 @@
 {
   "chaos_ranked": [
     {
-      "title": "PHP Warns of Another Unpatched RCE Risk Two Days After Emergency PHP2Shell Patches",
-      "link": "https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html",
-      "summary": "PHP has warned of another way an attacker could run code on a web server, two days after it shipped emergency fixes for the critical PHP2Shell flaws.\n\nThe new issue, assigned CVE-2026-115560, affects ...",
-      "published": "2026-10-23T16:55:43+05:30",
+      "title": "BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing Revocations",
+      "link": "https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html",
+      "summary": "Diplomatic organizations in Central Asia have been targeted by a sophisticated new Unified Extensible Firmware Interface (UEFI) bootkit called BlackX.\n\nThe activity, which singled out diplomatic entit...",
+      "published": "2026-10-24T00:20:13+05:30",
       "domain": "thehackernews.com",
       "scores": {
-        "chaos": 20.5,
+        "chaos": 3.0,
         "anarchy": 3.0,
-        "overall": 11.8
+        "overall": 3.0
       },
       "keywords": {
-        "chaos": [
-          "emergency",
-          "emergency"
-        ],
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Ruby Fixes Three Regex Engine Bugs Responsible for Four Critical GitLab RCE Flaws",
+      "link": "https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html",
+      "summary": "Ruby has released versions 4.0.9, 3.4.12, and 3.3.13 to fix three bugs in Onigmo, the regular expression engine built into the language. The bugs lie behind four critical security flaws that GitLab pa...",
+      "published": "2026-10-23T23:24:08+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Exposed Infrastructure Reveals How Ransomware Affiliates Used AI Agents to Execute Intrusions",
+      "link": "https://thehackernews.com/2026/10/exposed-infrastructure-reveals-how.html",
+      "summary": "Cybersecurity researchers have discovered an artificial intelligence (AI)-driven intrusion ecosystem run by affiliates of the INC and The Gentlemen ransomware groups.\n\nCentral to the operation is an \"...",
+      "published": "2026-10-23T23:20:47+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Walmart Makes It Possible for Agents to Shop on Behalf of Customers",
+      "link": "https://corporate.walmart.com/news/2026/10/Making-It-Possible-for-Agents-to-Shop-on-Behalf-of-Customers",
+      "summary": "<p>Article URL: <a href=\"https://corporate.walmart.com/news/2026/10/Making-It-Possible-for-Agents-to-Shop-on-Behalf-of-Customers\">https://corporate.walmart.com/news/2026/10/Making-It-Possible-for-Agen...",
+      "published": "2026-10-23T20:57:50+00:00",
+      "domain": "corporate.walmart.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Average People in Paintings",
+      "link": "https://blog.willmeye.rs/average-people-in-paintings/",
+      "summary": "<p>Article URL: <a href=\"https://blog.willmeye.rs/average-people-in-paintings/\">https://blog.willmeye.rs/average-people-in-paintings/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/ite...",
+      "published": "2026-10-23T20:53:53+00:00",
+      "domain": "blog.willmeye.rs",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Nu: The personal agent that runs on your rules",
+      "link": "https://github.com/rebuno/nu",
+      "summary": "<p>Article URL: <a href=\"https://github.com/rebuno/nu\">https://github.com/rebuno/nu</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50215160\">https://news.ycombinator.com/item?i...",
+      "published": "2026-10-23T20:52:16+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "KillSwitch-Bench",
+      "link": "https://bench.killswitch-lang.org/",
+      "summary": "<p>Article URL: <a href=\"https://bench.killswitch-lang.org/\">https://bench.killswitch-lang.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50215119\">https://news.ycombinato...",
+      "published": "2026-10-23T20:48:40+00:00",
+      "domain": "bench.killswitch-lang.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The Search for Better Learning Algorithms \u2013 Yaroslav Bulatov [video]",
+      "link": "https://www.youtube.com/watch?v=qgNeImtcykQ",
+      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=qgNeImtcykQ\">https://www.youtube.com/watch?v=qgNeImtcykQ</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50215116\">https...",
+      "published": "2026-10-23T20:48:24+00:00",
+      "domain": "youtube.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
         "anarchy": []
       }
     },
@@ -36,123 +145,11 @@
       }
     },
     {
-      "title": "Russian-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack",
-      "link": "https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html",
-      "summary": "The Russian state-sponsored hacking group Sandworm teamed up with another threat actor to carry out a destructive wiping attack targeting a Ukrainian logistics company last year.\n\nAccording to ESET, t...",
-      "published": "2026-10-23T16:41:23+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Warhound is genetically engineering dogs for the military",
-      "link": "https://www.engadget.com/2295033/warhound-genetically-engineering-dogs-military/",
-      "summary": "<p>Article URL: <a href=\"https://www.engadget.com/2295033/warhound-genetically-engineering-dogs-military/\">https://www.engadget.com/2295033/warhound-genetically-engineering-dogs-military/</a></p>\n<p>C...",
-      "published": "2026-10-23T16:29:02+00:00",
-      "domain": "engadget.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Pangram Is Not an Oracle",
-      "link": "https://buttondown.com/maiht3k/archive/pangram-is-not-an-oracle/",
-      "summary": "<p>Article URL: <a href=\"https://buttondown.com/maiht3k/archive/pangram-is-not-an-oracle/\">https://buttondown.com/maiht3k/archive/pangram-is-not-an-oracle/</a></p>\n<p>Comments URL: <a href=\"https://ne...",
-      "published": "2026-10-23T16:28:54+00:00",
-      "domain": "buttondown.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Comma Hardware",
-      "link": "https://twitter.com/CommaAgents/status/2113656727199789335",
-      "summary": "<p>Article URL: <a href=\"https://twitter.com/CommaAgents/status/2113656727199789335\">https://twitter.com/CommaAgents/status/2113656727199789335</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinat...",
-      "published": "2026-10-23T16:27:27+00:00",
-      "domain": "twitter.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Denmark to end mink farming by August 2029 under EU ban",
-      "link": "https://cphpost.dk/2026-10-23/news/round-up/denmark-to-end-mink-farming-by-august-2029-under-eu-ban/",
-      "summary": "<p>Article URL: <a href=\"https://cphpost.dk/2026-10-23/news/round-up/denmark-to-end-mink-farming-by-august-2029-under-eu-ban/\">https://cphpost.dk/2026-10-23/news/round-up/denmark-to-end-mink-farming-b...",
-      "published": "2026-10-23T16:26:52+00:00",
-      "domain": "cphpost.dk",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Open Source Mobile-Use MCP and AI Agent",
-      "link": "https://github.com/ghorbelhamdi/buddy-android",
-      "summary": "<p>Article URL: <a href=\"https://github.com/ghorbelhamdi/buddy-android\">https://github.com/ghorbelhamdi/buddy-android</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50211548\">h...",
-      "published": "2026-10-23T16:26:39+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "\"Today, we hacked what we'd set out to hack: the iPhone.\"",
-      "link": "https://blog.calif.io/p/iphone",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=50211474\">Comments</a>...",
-      "published": "2026-10-23T16:21:50+00:00",
-      "domain": "blog.calif.io",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "My City Canceled Flock's Contract. Flock Ignored It, So the Police Chief Unplugged the Cameras",
-      "link": "https://www.reddit.com/r/technology/comments/1xdhhf7/my_city_canceled_flocks_contract_flock_ignored_it/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1xdhhf7/my_city_canceled_flocks_contract_flock_ignored_it/\"> <img alt=\"My City Canceled Flock's Contract. Flock Ignored It, So th...",
-      "published": "2026-10-23T15:39:46+00:00",
-      "domain": "reddit.com",
+      "title": "Dessa: the most authentic full-duplex speech model ever built",
+      "link": "https://block.xyz/dessa",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50213925\">Comments</a>...",
+      "published": "2026-10-23T19:09:54+00:00",
+      "domain": "block.xyz",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -166,6 +163,134 @@
   ],
   "anarchy_ranked": [
     {
+      "title": "BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing Revocations",
+      "link": "https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html",
+      "summary": "Diplomatic organizations in Central Asia have been targeted by a sophisticated new Unified Extensible Firmware Interface (UEFI) bootkit called BlackX.\n\nThe activity, which singled out diplomatic entit...",
+      "published": "2026-10-24T00:20:13+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Ruby Fixes Three Regex Engine Bugs Responsible for Four Critical GitLab RCE Flaws",
+      "link": "https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html",
+      "summary": "Ruby has released versions 4.0.9, 3.4.12, and 3.3.13 to fix three bugs in Onigmo, the regular expression engine built into the language. The bugs lie behind four critical security flaws that GitLab pa...",
+      "published": "2026-10-23T23:24:08+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Exposed Infrastructure Reveals How Ransomware Affiliates Used AI Agents to Execute Intrusions",
+      "link": "https://thehackernews.com/2026/10/exposed-infrastructure-reveals-how.html",
+      "summary": "Cybersecurity researchers have discovered an artificial intelligence (AI)-driven intrusion ecosystem run by affiliates of the INC and The Gentlemen ransomware groups.\n\nCentral to the operation is an \"...",
+      "published": "2026-10-23T23:20:47+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Walmart Makes It Possible for Agents to Shop on Behalf of Customers",
+      "link": "https://corporate.walmart.com/news/2026/10/Making-It-Possible-for-Agents-to-Shop-on-Behalf-of-Customers",
+      "summary": "<p>Article URL: <a href=\"https://corporate.walmart.com/news/2026/10/Making-It-Possible-for-Agents-to-Shop-on-Behalf-of-Customers\">https://corporate.walmart.com/news/2026/10/Making-It-Possible-for-Agen...",
+      "published": "2026-10-23T20:57:50+00:00",
+      "domain": "corporate.walmart.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Average People in Paintings",
+      "link": "https://blog.willmeye.rs/average-people-in-paintings/",
+      "summary": "<p>Article URL: <a href=\"https://blog.willmeye.rs/average-people-in-paintings/\">https://blog.willmeye.rs/average-people-in-paintings/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/ite...",
+      "published": "2026-10-23T20:53:53+00:00",
+      "domain": "blog.willmeye.rs",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Nu: The personal agent that runs on your rules",
+      "link": "https://github.com/rebuno/nu",
+      "summary": "<p>Article URL: <a href=\"https://github.com/rebuno/nu\">https://github.com/rebuno/nu</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50215160\">https://news.ycombinator.com/item?i...",
+      "published": "2026-10-23T20:52:16+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "KillSwitch-Bench",
+      "link": "https://bench.killswitch-lang.org/",
+      "summary": "<p>Article URL: <a href=\"https://bench.killswitch-lang.org/\">https://bench.killswitch-lang.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50215119\">https://news.ycombinato...",
+      "published": "2026-10-23T20:48:40+00:00",
+      "domain": "bench.killswitch-lang.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The Search for Better Learning Algorithms \u2013 Yaroslav Bulatov [video]",
+      "link": "https://www.youtube.com/watch?v=qgNeImtcykQ",
+      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=qgNeImtcykQ\">https://www.youtube.com/watch?v=qgNeImtcykQ</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50215116\">https...",
+      "published": "2026-10-23T20:48:24+00:00",
+      "domain": "youtube.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "Hackers Breach Enterprise Firewalls and VPNs, Exposing Over 70,000 Credentials",
       "link": "https://thehackernews.com/2026/10/hackers-breach-enterprise-firewalls-and.html",
       "summary": "Cybersecurity researchers have disclosed details of a large-scale campaign that has targeted exposed network edge devices such as Fortinet FortiGate and Palo Alto Networks GlobalProtect firewalls.\n\n\"A...",
@@ -182,142 +307,11 @@
       }
     },
     {
-      "title": "PHP Warns of Another Unpatched RCE Risk Two Days After Emergency PHP2Shell Patches",
-      "link": "https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html",
-      "summary": "PHP has warned of another way an attacker could run code on a web server, two days after it shipped emergency fixes for the critical PHP2Shell flaws.\n\nThe new issue, assigned CVE-2026-115560, affects ...",
-      "published": "2026-10-23T16:55:43+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 20.5,
-        "anarchy": 3.0,
-        "overall": 11.8
-      },
-      "keywords": {
-        "chaos": [
-          "emergency",
-          "emergency"
-        ],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Russian-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack",
-      "link": "https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html",
-      "summary": "The Russian state-sponsored hacking group Sandworm teamed up with another threat actor to carry out a destructive wiping attack targeting a Ukrainian logistics company last year.\n\nAccording to ESET, t...",
-      "published": "2026-10-23T16:41:23+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Warhound is genetically engineering dogs for the military",
-      "link": "https://www.engadget.com/2295033/warhound-genetically-engineering-dogs-military/",
-      "summary": "<p>Article URL: <a href=\"https://www.engadget.com/2295033/warhound-genetically-engineering-dogs-military/\">https://www.engadget.com/2295033/warhound-genetically-engineering-dogs-military/</a></p>\n<p>C...",
-      "published": "2026-10-23T16:29:02+00:00",
-      "domain": "engadget.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Pangram Is Not an Oracle",
-      "link": "https://buttondown.com/maiht3k/archive/pangram-is-not-an-oracle/",
-      "summary": "<p>Article URL: <a href=\"https://buttondown.com/maiht3k/archive/pangram-is-not-an-oracle/\">https://buttondown.com/maiht3k/archive/pangram-is-not-an-oracle/</a></p>\n<p>Comments URL: <a href=\"https://ne...",
-      "published": "2026-10-23T16:28:54+00:00",
-      "domain": "buttondown.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Comma Hardware",
-      "link": "https://twitter.com/CommaAgents/status/2113656727199789335",
-      "summary": "<p>Article URL: <a href=\"https://twitter.com/CommaAgents/status/2113656727199789335\">https://twitter.com/CommaAgents/status/2113656727199789335</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinat...",
-      "published": "2026-10-23T16:27:27+00:00",
-      "domain": "twitter.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Denmark to end mink farming by August 2029 under EU ban",
-      "link": "https://cphpost.dk/2026-10-23/news/round-up/denmark-to-end-mink-farming-by-august-2029-under-eu-ban/",
-      "summary": "<p>Article URL: <a href=\"https://cphpost.dk/2026-10-23/news/round-up/denmark-to-end-mink-farming-by-august-2029-under-eu-ban/\">https://cphpost.dk/2026-10-23/news/round-up/denmark-to-end-mink-farming-b...",
-      "published": "2026-10-23T16:26:52+00:00",
-      "domain": "cphpost.dk",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Open Source Mobile-Use MCP and AI Agent",
-      "link": "https://github.com/ghorbelhamdi/buddy-android",
-      "summary": "<p>Article URL: <a href=\"https://github.com/ghorbelhamdi/buddy-android\">https://github.com/ghorbelhamdi/buddy-android</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50211548\">h...",
-      "published": "2026-10-23T16:26:39+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "\"Today, we hacked what we'd set out to hack: the iPhone.\"",
-      "link": "https://blog.calif.io/p/iphone",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=50211474\">Comments</a>...",
-      "published": "2026-10-23T16:21:50+00:00",
-      "domain": "blog.calif.io",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "My City Canceled Flock's Contract. Flock Ignored It, So the Police Chief Unplugged the Cameras",
-      "link": "https://www.reddit.com/r/technology/comments/1xdhhf7/my_city_canceled_flocks_contract_flock_ignored_it/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1xdhhf7/my_city_canceled_flocks_contract_flock_ignored_it/\"> <img alt=\"My City Canceled Flock's Contract. Flock Ignored It, So th...",
-      "published": "2026-10-23T15:39:46+00:00",
-      "domain": "reddit.com",
+      "title": "Dessa: the most authentic full-duplex speech model ever built",
+      "link": "https://block.xyz/dessa",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50213925\">Comments</a>...",
+      "published": "2026-10-23T19:09:54+00:00",
+      "domain": "block.xyz",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -331,21 +325,130 @@
   ],
   "overall_ranked": [
     {
-      "title": "PHP Warns of Another Unpatched RCE Risk Two Days After Emergency PHP2Shell Patches",
-      "link": "https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html",
-      "summary": "PHP has warned of another way an attacker could run code on a web server, two days after it shipped emergency fixes for the critical PHP2Shell flaws.\n\nThe new issue, assigned CVE-2026-115560, affects ...",
-      "published": "2026-10-23T16:55:43+05:30",
+      "title": "BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing Revocations",
+      "link": "https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html",
+      "summary": "Diplomatic organizations in Central Asia have been targeted by a sophisticated new Unified Extensible Firmware Interface (UEFI) bootkit called BlackX.\n\nThe activity, which singled out diplomatic entit...",
+      "published": "2026-10-24T00:20:13+05:30",
       "domain": "thehackernews.com",
       "scores": {
-        "chaos": 20.5,
+        "chaos": 3.0,
         "anarchy": 3.0,
-        "overall": 11.8
+        "overall": 3.0
       },
       "keywords": {
-        "chaos": [
-          "emergency",
-          "emergency"
-        ],
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Ruby Fixes Three Regex Engine Bugs Responsible for Four Critical GitLab RCE Flaws",
+      "link": "https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html",
+      "summary": "Ruby has released versions 4.0.9, 3.4.12, and 3.3.13 to fix three bugs in Onigmo, the regular expression engine built into the language. The bugs lie behind four critical security flaws that GitLab pa...",
+      "published": "2026-10-23T23:24:08+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Exposed Infrastructure Reveals How Ransomware Affiliates Used AI Agents to Execute Intrusions",
+      "link": "https://thehackernews.com/2026/10/exposed-infrastructure-reveals-how.html",
+      "summary": "Cybersecurity researchers have discovered an artificial intelligence (AI)-driven intrusion ecosystem run by affiliates of the INC and The Gentlemen ransomware groups.\n\nCentral to the operation is an \"...",
+      "published": "2026-10-23T23:20:47+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Walmart Makes It Possible for Agents to Shop on Behalf of Customers",
+      "link": "https://corporate.walmart.com/news/2026/10/Making-It-Possible-for-Agents-to-Shop-on-Behalf-of-Customers",
+      "summary": "<p>Article URL: <a href=\"https://corporate.walmart.com/news/2026/10/Making-It-Possible-for-Agents-to-Shop-on-Behalf-of-Customers\">https://corporate.walmart.com/news/2026/10/Making-It-Possible-for-Agen...",
+      "published": "2026-10-23T20:57:50+00:00",
+      "domain": "corporate.walmart.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Average People in Paintings",
+      "link": "https://blog.willmeye.rs/average-people-in-paintings/",
+      "summary": "<p>Article URL: <a href=\"https://blog.willmeye.rs/average-people-in-paintings/\">https://blog.willmeye.rs/average-people-in-paintings/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/ite...",
+      "published": "2026-10-23T20:53:53+00:00",
+      "domain": "blog.willmeye.rs",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Nu: The personal agent that runs on your rules",
+      "link": "https://github.com/rebuno/nu",
+      "summary": "<p>Article URL: <a href=\"https://github.com/rebuno/nu\">https://github.com/rebuno/nu</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50215160\">https://news.ycombinator.com/item?i...",
+      "published": "2026-10-23T20:52:16+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "KillSwitch-Bench",
+      "link": "https://bench.killswitch-lang.org/",
+      "summary": "<p>Article URL: <a href=\"https://bench.killswitch-lang.org/\">https://bench.killswitch-lang.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50215119\">https://news.ycombinato...",
+      "published": "2026-10-23T20:48:40+00:00",
+      "domain": "bench.killswitch-lang.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The Search for Better Learning Algorithms \u2013 Yaroslav Bulatov [video]",
+      "link": "https://www.youtube.com/watch?v=qgNeImtcykQ",
+      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=qgNeImtcykQ\">https://www.youtube.com/watch?v=qgNeImtcykQ</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50215116\">https...",
+      "published": "2026-10-23T20:48:24+00:00",
+      "domain": "youtube.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
         "anarchy": []
       }
     },
@@ -366,123 +469,11 @@
       }
     },
     {
-      "title": "Russian-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack",
-      "link": "https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html",
-      "summary": "The Russian state-sponsored hacking group Sandworm teamed up with another threat actor to carry out a destructive wiping attack targeting a Ukrainian logistics company last year.\n\nAccording to ESET, t...",
-      "published": "2026-10-23T16:41:23+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Warhound is genetically engineering dogs for the military",
-      "link": "https://www.engadget.com/2295033/warhound-genetically-engineering-dogs-military/",
-      "summary": "<p>Article URL: <a href=\"https://www.engadget.com/2295033/warhound-genetically-engineering-dogs-military/\">https://www.engadget.com/2295033/warhound-genetically-engineering-dogs-military/</a></p>\n<p>C...",
-      "published": "2026-10-23T16:29:02+00:00",
-      "domain": "engadget.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Pangram Is Not an Oracle",
-      "link": "https://buttondown.com/maiht3k/archive/pangram-is-not-an-oracle/",
-      "summary": "<p>Article URL: <a href=\"https://buttondown.com/maiht3k/archive/pangram-is-not-an-oracle/\">https://buttondown.com/maiht3k/archive/pangram-is-not-an-oracle/</a></p>\n<p>Comments URL: <a href=\"https://ne...",
-      "published": "2026-10-23T16:28:54+00:00",
-      "domain": "buttondown.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Comma Hardware",
-      "link": "https://twitter.com/CommaAgents/status/2113656727199789335",
-      "summary": "<p>Article URL: <a href=\"https://twitter.com/CommaAgents/status/2113656727199789335\">https://twitter.com/CommaAgents/status/2113656727199789335</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinat...",
-      "published": "2026-10-23T16:27:27+00:00",
-      "domain": "twitter.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Denmark to end mink farming by August 2029 under EU ban",
-      "link": "https://cphpost.dk/2026-10-23/news/round-up/denmark-to-end-mink-farming-by-august-2029-under-eu-ban/",
-      "summary": "<p>Article URL: <a href=\"https://cphpost.dk/2026-10-23/news/round-up/denmark-to-end-mink-farming-by-august-2029-under-eu-ban/\">https://cphpost.dk/2026-10-23/news/round-up/denmark-to-end-mink-farming-b...",
-      "published": "2026-10-23T16:26:52+00:00",
-      "domain": "cphpost.dk",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Open Source Mobile-Use MCP and AI Agent",
-      "link": "https://github.com/ghorbelhamdi/buddy-android",
-      "summary": "<p>Article URL: <a href=\"https://github.com/ghorbelhamdi/buddy-android\">https://github.com/ghorbelhamdi/buddy-android</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50211548\">h...",
-      "published": "2026-10-23T16:26:39+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "\"Today, we hacked what we'd set out to hack: the iPhone.\"",
-      "link": "https://blog.calif.io/p/iphone",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=50211474\">Comments</a>...",
-      "published": "2026-10-23T16:21:50+00:00",
-      "domain": "blog.calif.io",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "My City Canceled Flock's Contract. Flock Ignored It, So the Police Chief Unplugged the Cameras",
-      "link": "https://www.reddit.com/r/technology/comments/1xdhhf7/my_city_canceled_flocks_contract_flock_ignored_it/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1xdhhf7/my_city_canceled_flocks_contract_flock_ignored_it/\"> <img alt=\"My City Canceled Flock's Contract. Flock Ignored It, So th...",
-      "published": "2026-10-23T15:39:46+00:00",
-      "domain": "reddit.com",
+      "title": "Dessa: the most authentic full-duplex speech model ever built",
+      "link": "https://block.xyz/dessa",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50213925\">Comments</a>...",
+      "published": "2026-10-23T19:09:54+00:00",
+      "domain": "block.xyz",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -496,6 +487,134 @@
   ],
   "all_articles": [
     {
+      "title": "BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing Revocations",
+      "link": "https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html",
+      "summary": "Diplomatic organizations in Central Asia have been targeted by a sophisticated new Unified Extensible Firmware Interface (UEFI) bootkit called BlackX.\n\nThe activity, which singled out diplomatic entit...",
+      "published": "2026-10-24T00:20:13+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Ruby Fixes Three Regex Engine Bugs Responsible for Four Critical GitLab RCE Flaws",
+      "link": "https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html",
+      "summary": "Ruby has released versions 4.0.9, 3.4.12, and 3.3.13 to fix three bugs in Onigmo, the regular expression engine built into the language. The bugs lie behind four critical security flaws that GitLab pa...",
+      "published": "2026-10-23T23:24:08+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Exposed Infrastructure Reveals How Ransomware Affiliates Used AI Agents to Execute Intrusions",
+      "link": "https://thehackernews.com/2026/10/exposed-infrastructure-reveals-how.html",
+      "summary": "Cybersecurity researchers have discovered an artificial intelligence (AI)-driven intrusion ecosystem run by affiliates of the INC and The Gentlemen ransomware groups.\n\nCentral to the operation is an \"...",
+      "published": "2026-10-23T23:20:47+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Walmart Makes It Possible for Agents to Shop on Behalf of Customers",
+      "link": "https://corporate.walmart.com/news/2026/10/Making-It-Possible-for-Agents-to-Shop-on-Behalf-of-Customers",
+      "summary": "<p>Article URL: <a href=\"https://corporate.walmart.com/news/2026/10/Making-It-Possible-for-Agents-to-Shop-on-Behalf-of-Customers\">https://corporate.walmart.com/news/2026/10/Making-It-Possible-for-Agen...",
+      "published": "2026-10-23T20:57:50+00:00",
+      "domain": "corporate.walmart.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Average People in Paintings",
+      "link": "https://blog.willmeye.rs/average-people-in-paintings/",
+      "summary": "<p>Article URL: <a href=\"https://blog.willmeye.rs/average-people-in-paintings/\">https://blog.willmeye.rs/average-people-in-paintings/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/ite...",
+      "published": "2026-10-23T20:53:53+00:00",
+      "domain": "blog.willmeye.rs",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Nu: The personal agent that runs on your rules",
+      "link": "https://github.com/rebuno/nu",
+      "summary": "<p>Article URL: <a href=\"https://github.com/rebuno/nu\">https://github.com/rebuno/nu</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50215160\">https://news.ycombinator.com/item?i...",
+      "published": "2026-10-23T20:52:16+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "KillSwitch-Bench",
+      "link": "https://bench.killswitch-lang.org/",
+      "summary": "<p>Article URL: <a href=\"https://bench.killswitch-lang.org/\">https://bench.killswitch-lang.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50215119\">https://news.ycombinato...",
+      "published": "2026-10-23T20:48:40+00:00",
+      "domain": "bench.killswitch-lang.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The Search for Better Learning Algorithms \u2013 Yaroslav Bulatov [video]",
+      "link": "https://www.youtube.com/watch?v=qgNeImtcykQ",
+      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=qgNeImtcykQ\">https://www.youtube.com/watch?v=qgNeImtcykQ</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50215116\">https...",
+      "published": "2026-10-23T20:48:24+00:00",
+      "domain": "youtube.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "Hackers Breach Enterprise Firewalls and VPNs, Exposing Over 70,000 Credentials",
       "link": "https://thehackernews.com/2026/10/hackers-breach-enterprise-firewalls-and.html",
       "summary": "Cybersecurity researchers have disclosed details of a large-scale campaign that has targeted exposed network edge devices such as Fortinet FortiGate and Palo Alto Networks GlobalProtect firewalls.\n\n\"A...",
@@ -512,142 +631,11 @@
       }
     },
     {
-      "title": "PHP Warns of Another Unpatched RCE Risk Two Days After Emergency PHP2Shell Patches",
-      "link": "https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html",
-      "summary": "PHP has warned of another way an attacker could run code on a web server, two days after it shipped emergency fixes for the critical PHP2Shell flaws.\n\nThe new issue, assigned CVE-2026-115560, affects ...",
-      "published": "2026-10-23T16:55:43+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 20.5,
-        "anarchy": 3.0,
-        "overall": 11.8
-      },
-      "keywords": {
-        "chaos": [
-          "emergency",
-          "emergency"
-        ],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Russian-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack",
-      "link": "https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html",
-      "summary": "The Russian state-sponsored hacking group Sandworm teamed up with another threat actor to carry out a destructive wiping attack targeting a Ukrainian logistics company last year.\n\nAccording to ESET, t...",
-      "published": "2026-10-23T16:41:23+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Warhound is genetically engineering dogs for the military",
-      "link": "https://www.engadget.com/2295033/warhound-genetically-engineering-dogs-military/",
-      "summary": "<p>Article URL: <a href=\"https://www.engadget.com/2295033/warhound-genetically-engineering-dogs-military/\">https://www.engadget.com/2295033/warhound-genetically-engineering-dogs-military/</a></p>\n<p>C...",
-      "published": "2026-10-23T16:29:02+00:00",
-      "domain": "engadget.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Pangram Is Not an Oracle",
-      "link": "https://buttondown.com/maiht3k/archive/pangram-is-not-an-oracle/",
-      "summary": "<p>Article URL: <a href=\"https://buttondown.com/maiht3k/archive/pangram-is-not-an-oracle/\">https://buttondown.com/maiht3k/archive/pangram-is-not-an-oracle/</a></p>\n<p>Comments URL: <a href=\"https://ne...",
-      "published": "2026-10-23T16:28:54+00:00",
-      "domain": "buttondown.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Comma Hardware",
-      "link": "https://twitter.com/CommaAgents/status/2113656727199789335",
-      "summary": "<p>Article URL: <a href=\"https://twitter.com/CommaAgents/status/2113656727199789335\">https://twitter.com/CommaAgents/status/2113656727199789335</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinat...",
-      "published": "2026-10-23T16:27:27+00:00",
-      "domain": "twitter.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Denmark to end mink farming by August 2029 under EU ban",
-      "link": "https://cphpost.dk/2026-10-23/news/round-up/denmark-to-end-mink-farming-by-august-2029-under-eu-ban/",
-      "summary": "<p>Article URL: <a href=\"https://cphpost.dk/2026-10-23/news/round-up/denmark-to-end-mink-farming-by-august-2029-under-eu-ban/\">https://cphpost.dk/2026-10-23/news/round-up/denmark-to-end-mink-farming-b...",
-      "published": "2026-10-23T16:26:52+00:00",
-      "domain": "cphpost.dk",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Open Source Mobile-Use MCP and AI Agent",
-      "link": "https://github.com/ghorbelhamdi/buddy-android",
-      "summary": "<p>Article URL: <a href=\"https://github.com/ghorbelhamdi/buddy-android\">https://github.com/ghorbelhamdi/buddy-android</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50211548\">h...",
-      "published": "2026-10-23T16:26:39+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "\"Today, we hacked what we'd set out to hack: the iPhone.\"",
-      "link": "https://blog.calif.io/p/iphone",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=50211474\">Comments</a>...",
-      "published": "2026-10-23T16:21:50+00:00",
-      "domain": "blog.calif.io",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "My City Canceled Flock's Contract. Flock Ignored It, So the Police Chief Unplugged the Cameras",
-      "link": "https://www.reddit.com/r/technology/comments/1xdhhf7/my_city_canceled_flocks_contract_flock_ignored_it/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1xdhhf7/my_city_canceled_flocks_contract_flock_ignored_it/\"> <img alt=\"My City Canceled Flock's Contract. Flock Ignored It, So th...",
-      "published": "2026-10-23T15:39:46+00:00",
-      "domain": "reddit.com",
+      "title": "Dessa: the most authentic full-duplex speech model ever built",
+      "link": "https://block.xyz/dessa",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50213925\">Comments</a>...",
+      "published": "2026-10-23T19:09:54+00:00",
+      "domain": "block.xyz",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,

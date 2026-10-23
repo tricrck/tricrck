@@ -16,17 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### PHP Warns of Another Unpatched RCE Risk Two Days After Emergency PHP2Shell Patches
-- **Published**: October 23, 2026
-- **Summary**: PHP has warned of another way an attacker could run code on a web server, two days after it shipped emergency fixes for the critical PHP2Shell flaws.
-...
-- **Keywords**: emergency, emergency
-- [Read more](https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html)
+### BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing Revocations
+- **Published**: October 24, 2026
+- **Summary**: Diplomatic organizations in Central Asia have been targeted by a sophisticated new Unified Extensible Firmware Interface (UEFI) bootkit called BlackX....
+- [Read more](https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html)
 
-### Hackers Breach Enterprise Firewalls and VPNs, Exposing Over 70,000 Credentials
+### Ruby Fixes Three Regex Engine Bugs Responsible for Four Critical GitLab RCE Flaws
 - **Published**: October 23, 2026
-- **Summary**: Cybersecurity researchers have disclosed details of a large-scale campaign that has targeted exposed network edge devices such as Fortinet FortiGate a...
-- [Read more](https://thehackernews.com/2026/10/hackers-breach-enterprise-firewalls-and.html)
+- **Summary**: Ruby has released versions 4.0.9, 3.4.12, and 3.3.13 to fix three bugs in Onigmo, the regular expression engine built into the language. The bugs lie ...
+- [Read more](https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html)
 
 ---
 
