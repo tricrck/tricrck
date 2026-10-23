@@ -16,15 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat
+### Cherry Processing
 - **Published**: October 23, 2026
-- **Summary**: Right now, there is probably an AI agent running on a laptop somewhere in your network. It stores API keys and database passwords, can access your int...
-- [Read more](https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html)
+- **Summary**: https://sftw.substack.com/p/the-second-most-photographed-fruit</a></p>
+<p>Comments URL: <a href="https://news.y......
+- [Read more](https://sftw.substack.com/p/the-second-most-photographed-fruit)
 
-### Arista Warns of Critical VeloCloud SQL Injection Zero-Day Exploited in Attacks
+### FreeToolkit – 384 client-side dev utilities (regex, SQL, cron, cURL, more)
 - **Published**: October 23, 2026
-- **Summary**: Attackers are exploiting a zero-day SQL injection flaw in Arista's VeloCloud Orchestrator (VCO), the&nbsp;central management system&nbsp;for VeloCloud...
-- [Read more](https://thehackernews.com/2026/10/arista-warns-of-critical-velocloud-sql.html)
+- **Summary**: https://freetoolkit.dev/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50204189">https://news.ycombinator.com/item?id=502041....
+- [Read more](https://freetoolkit.dev/)
 
 ---
 
