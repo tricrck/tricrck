@@ -1,90 +1,10 @@
 {
   "chaos_ranked": [
     {
-      "title": "Cherry Processing",
-      "link": "https://sftw.substack.com/p/the-second-most-photographed-fruit",
-      "summary": "<p>Article URL: <a href=\"https://sftw.substack.com/p/the-second-most-photographed-fruit\">https://sftw.substack.com/p/the-second-most-photographed-fruit</a></p>\n<p>Comments URL: <a href=\"https://news.y...",
-      "published": "2026-10-23T03:32:29+00:00",
-      "domain": "sftw.substack.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "FreeToolkit \u2013 384 client-side dev utilities (regex, SQL, cron, cURL, more)",
-      "link": "https://freetoolkit.dev/",
-      "summary": "<p>Article URL: <a href=\"https://freetoolkit.dev/\">https://freetoolkit.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50204189\">https://news.ycombinator.com/item?id=502041...",
-      "published": "2026-10-23T03:32:24+00:00",
-      "domain": "freetoolkit.dev",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Syntax-Highlighting for Word, PowerPoint, Google Docs, Google Sheet, Keynote",
-      "link": "https://onlineimageoptimizer.com/code-to-image.html?cols=80&size=24&scale=2&font=Courier+Prime&lang=python&tmode=auto&tpx=1600&selmode=none&pad=56&pastept=12&bold=1&shrink=1&theme=paper&c=AT1PTUvDQBC951c810sCNVG8lSZQJFCwWNCDh9LDlJ1o6HY37EyQ_feS9eP0mPfJ3GLX7_eHFXbbp-f-FS_9-9tNYXmAfDFPdHZcXjitIRor3HU4h-DWBQAYYw7eJcyTC2Sl2UTyNly7ZjOMjjuMgjBHgQZYdqxcFzm39Uk_R_-BwZFi9pbjf8cSIli-BpAIK8hbiFKS-m8z40RRBS0unGqZ3KilaUyVpcg6Rw_HvsyuCm2Lx1yU7-P9aWHM76TJyvLVj_34cKq-AQ",
-      "summary": "<p>Article URL: <a href=\"https://onlineimageoptimizer.com/code-to-image.html?cols=80&amp;size=24&amp;scale=2&amp;font=Courier+Prime&amp;lang=python&amp;tmode=auto&amp;tpx=1600&amp;selmode=none&amp;pad...",
-      "published": "2026-10-23T03:29:04+00:00",
-      "domain": "onlineimageoptimizer.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: What LLM fits my GPU? \u2013 VRAM measured on real hardware for 117 models",
-      "link": "https://quantized.uk/",
-      "summary": "<p>Article URL: <a href=\"https://quantized.uk/\">https://quantized.uk/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50204153\">https://news.ycombinator.com/item?id=50204153</a>...",
-      "published": "2026-10-23T03:25:46+00:00",
-      "domain": "quantized.uk",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The Customer Is the Builder: how AI coding agents change software economics",
-      "link": "https://arxiv.org/abs/2610.30307",
-      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2610.30307\">https://arxiv.org/abs/2610.30307</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50204149\">https://news.ycombinator.co...",
-      "published": "2026-10-23T03:24:24+00:00",
-      "domain": "arxiv.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat",
-      "link": "https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html",
-      "summary": "Right now, there is probably an AI agent running on a laptop somewhere in your network. It stores API keys and database passwords, can access your internal systems, and works without anyone watching.\n...",
-      "published": "2026-10-23T00:35:35+05:30",
+      "title": "Critical Flaw in Python\u2019s Popular Pillow Image Library Allows Code Execution via a Crafted Image",
+      "link": "https://thehackernews.com/2026/10/critical-flaw-in-pythons-popular-pillow.html",
+      "summary": "Pillow, the most widely used image library for Python, can be made to run operating system commands on a server by specifying the name of a file it is told to open.\n\nThe flaw,&nbsp;CVE-2026-112900, is...",
+      "published": "2026-10-23T15:06:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -97,10 +17,10 @@
       }
     },
     {
-      "title": "Arista Warns of Critical VeloCloud SQL Injection Zero-Day Exploited in Attacks",
-      "link": "https://thehackernews.com/2026/10/arista-warns-of-critical-velocloud-sql.html",
-      "summary": "Attackers are exploiting a zero-day SQL injection flaw in Arista's VeloCloud Orchestrator (VCO), the&nbsp;central management system&nbsp;for VeloCloud SD-WAN networks, the company said in an&nbsp;advi...",
-      "published": "2026-10-23T00:35:17+05:30",
+      "title": "Researchers Demonstrate Node2Shell RCE Exploit on Node.js Build Using Crafted Brotli Data",
+      "link": "https://thehackernews.com/2026/10/researchers-demonstrate-node2shell-rce.html",
+      "summary": "Malicious Brotli data can make an application on an official build of Node.js run attacker-supplied code, security researchers at Imperva have&nbsp;demonstrated.\n\nTheir \"Node2Shell\" proof of concept r...",
+      "published": "2026-10-23T14:10:43+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -113,26 +33,10 @@
       }
     },
     {
-      "title": "Docker is weird",
-      "link": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=50202681\">Comments</a>...",
-      "published": "2026-10-22T23:45:56+00:00",
-      "domain": "codeandcake.dev",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "eMudhra to Exit Global SSL/TLS Business After 8 Intermediate CA Keys Found Easily Guessable",
-      "link": "https://thehackernews.com/2026/10/emudhra-to-exit-global-ssltls-business.html",
-      "summary": "eMudhra, an Indian certificate authority (CA), will withdraw from its global SSL/TLS certificate business,&nbsp;its board decided on Thursday. The decision came five days after a researcher&nbsp;repor...",
-      "published": "2026-10-22T23:42:43+05:30",
+      "title": "Critical x402 SDK Flaw Could Let Malicious APIs Drain AI Agents\u2019 Token Balances",
+      "link": "https://thehackernews.com/2026/10/critical-x402-sdk-flaw-could-let.html",
+      "summary": "AI agents paying for API calls with the&nbsp;x402 SDKs&nbsp;could sign a payment for their full balance of a supported token if a malicious API asked for it,&nbsp;security firm V12 said&nbsp;on Octobe...",
+      "published": "2026-10-23T14:05:45+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -145,11 +49,107 @@
       }
     },
     {
-      "title": "ThreatsDay: AI Secrets Leak, PingCAP Source Theft, Signal Hang-Up Flaw, Laravel Auth Bypass + 21 More",
-      "link": "https://thehackernews.com/2026/10/threatsday-ai-secrets-leak-pingcap.html",
-      "summary": "This week has already been rough for cybersecurity. Critical PHP and GitLab RCE flaws, serious Linux security bugs, compromised eMudhra certificates, a Node.js RCE flaw, a hacked LiteLLM release, and ...",
-      "published": "2026-10-22T23:15:44+05:30",
+      "title": "PHP2Shell Exploit Attempts Hit Millions as Attackers Try to Deploy Mirai Malware",
+      "link": "https://thehackernews.com/2026/10/php2shell-exploit-attempts-hit-millions.html",
+      "summary": "Threat actors have been observed unsuccessfully attempting to exploit the newly disclosed PHP2Shell vulnerabilities to rope infected systems into a Mirai botnet variant called Potassium, as it emerges...",
+      "published": "2026-10-23T13:10:45+05:30",
       "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "No Need for Retirement When Utopia Is Around the Corner",
+      "link": "https://blog.jim-nielsen.com/2026/skip-retirement-for-utopia/",
+      "summary": "<p>Article URL: <a href=\"https://blog.jim-nielsen.com/2026/skip-retirement-for-utopia/\">https://blog.jim-nielsen.com/2026/skip-retirement-for-utopia/</a></p>\n<p>Comments URL: <a href=\"https://news.yco...",
+      "published": "2026-10-23T10:58:52+00:00",
+      "domain": "blog.jim-nielsen.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Black Mirror: Be Right Back",
+      "link": "https://www.howclosetoblackmirror.com/be-right-back",
+      "summary": "<p>Article URL: <a href=\"https://www.howclosetoblackmirror.com/be-right-back\">https://www.howclosetoblackmirror.com/be-right-back</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id...",
+      "published": "2026-10-23T10:56:42+00:00",
+      "domain": "howclosetoblackmirror.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Steam Next Fest Has Become a Disaster and a Grim Look at the Future",
+      "link": "https://kotaku.com/steam-next-fest-has-become-a-massive-disaster-and-a-grim-look-at-the-future-2000748008",
+      "summary": "<p>Article URL: <a href=\"https://kotaku.com/steam-next-fest-has-become-a-massive-disaster-and-a-grim-look-at-the-future-2000748008\">https://kotaku.com/steam-next-fest-has-become-a-massive-disaster-and...",
+      "published": "2026-10-23T10:54:52+00:00",
+      "domain": "kotaku.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Three Rights of the Image",
+      "link": "https://medium.com/@smoking2man/three-rights-of-the-image-how-the-visual-takes-possession-of-reality-d95a75f9b074",
+      "summary": "<p>Article URL: <a href=\"https://medium.com/@smoking2man/three-rights-of-the-image-how-the-visual-takes-possession-of-reality-d95a75f9b074\">https://medium.com/@smoking2man/three-rights-of-the-image-ho...",
+      "published": "2026-10-23T10:53:35+00:00",
+      "domain": "medium.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Agentic Testing: Where Agents Fit in the E2E Testing Stack",
+      "link": "https://slack.engineering/agentic-testing-where-agents-fit-in-the-e2e-testing-stack/",
+      "summary": "<p>Article URL: <a href=\"https://slack.engineering/agentic-testing-where-agents-fit-in-the-e2e-testing-stack/\">https://slack.engineering/agentic-testing-where-agents-fit-in-the-e2e-testing-stack/</a><...",
+      "published": "2026-10-23T10:53:19+00:00",
+      "domain": "slack.engineering",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The Rise and Fall of Jev",
+      "link": "https://blog.alexewerlof.com/p/rise-and-fall-of-jev-eval-hype-vs-llm",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50206361\">Comments</a>...",
+      "published": "2026-10-23T09:21:00+00:00",
+      "domain": "blog.alexewerlof.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -163,90 +163,10 @@
   ],
   "anarchy_ranked": [
     {
-      "title": "Cherry Processing",
-      "link": "https://sftw.substack.com/p/the-second-most-photographed-fruit",
-      "summary": "<p>Article URL: <a href=\"https://sftw.substack.com/p/the-second-most-photographed-fruit\">https://sftw.substack.com/p/the-second-most-photographed-fruit</a></p>\n<p>Comments URL: <a href=\"https://news.y...",
-      "published": "2026-10-23T03:32:29+00:00",
-      "domain": "sftw.substack.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "FreeToolkit \u2013 384 client-side dev utilities (regex, SQL, cron, cURL, more)",
-      "link": "https://freetoolkit.dev/",
-      "summary": "<p>Article URL: <a href=\"https://freetoolkit.dev/\">https://freetoolkit.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50204189\">https://news.ycombinator.com/item?id=502041...",
-      "published": "2026-10-23T03:32:24+00:00",
-      "domain": "freetoolkit.dev",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Syntax-Highlighting for Word, PowerPoint, Google Docs, Google Sheet, Keynote",
-      "link": "https://onlineimageoptimizer.com/code-to-image.html?cols=80&size=24&scale=2&font=Courier+Prime&lang=python&tmode=auto&tpx=1600&selmode=none&pad=56&pastept=12&bold=1&shrink=1&theme=paper&c=AT1PTUvDQBC951c810sCNVG8lSZQJFCwWNCDh9LDlJ1o6HY37EyQ_feS9eP0mPfJ3GLX7_eHFXbbp-f-FS_9-9tNYXmAfDFPdHZcXjitIRor3HU4h-DWBQAYYw7eJcyTC2Sl2UTyNly7ZjOMjjuMgjBHgQZYdqxcFzm39Uk_R_-BwZFi9pbjf8cSIli-BpAIK8hbiFKS-m8z40RRBS0unGqZ3KilaUyVpcg6Rw_HvsyuCm2Lx1yU7-P9aWHM76TJyvLVj_34cKq-AQ",
-      "summary": "<p>Article URL: <a href=\"https://onlineimageoptimizer.com/code-to-image.html?cols=80&amp;size=24&amp;scale=2&amp;font=Courier+Prime&amp;lang=python&amp;tmode=auto&amp;tpx=1600&amp;selmode=none&amp;pad...",
-      "published": "2026-10-23T03:29:04+00:00",
-      "domain": "onlineimageoptimizer.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: What LLM fits my GPU? \u2013 VRAM measured on real hardware for 117 models",
-      "link": "https://quantized.uk/",
-      "summary": "<p>Article URL: <a href=\"https://quantized.uk/\">https://quantized.uk/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50204153\">https://news.ycombinator.com/item?id=50204153</a>...",
-      "published": "2026-10-23T03:25:46+00:00",
-      "domain": "quantized.uk",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The Customer Is the Builder: how AI coding agents change software economics",
-      "link": "https://arxiv.org/abs/2610.30307",
-      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2610.30307\">https://arxiv.org/abs/2610.30307</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50204149\">https://news.ycombinator.co...",
-      "published": "2026-10-23T03:24:24+00:00",
-      "domain": "arxiv.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat",
-      "link": "https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html",
-      "summary": "Right now, there is probably an AI agent running on a laptop somewhere in your network. It stores API keys and database passwords, can access your internal systems, and works without anyone watching.\n...",
-      "published": "2026-10-23T00:35:35+05:30",
+      "title": "Critical Flaw in Python\u2019s Popular Pillow Image Library Allows Code Execution via a Crafted Image",
+      "link": "https://thehackernews.com/2026/10/critical-flaw-in-pythons-popular-pillow.html",
+      "summary": "Pillow, the most widely used image library for Python, can be made to run operating system commands on a server by specifying the name of a file it is told to open.\n\nThe flaw,&nbsp;CVE-2026-112900, is...",
+      "published": "2026-10-23T15:06:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -259,10 +179,10 @@
       }
     },
     {
-      "title": "Arista Warns of Critical VeloCloud SQL Injection Zero-Day Exploited in Attacks",
-      "link": "https://thehackernews.com/2026/10/arista-warns-of-critical-velocloud-sql.html",
-      "summary": "Attackers are exploiting a zero-day SQL injection flaw in Arista's VeloCloud Orchestrator (VCO), the&nbsp;central management system&nbsp;for VeloCloud SD-WAN networks, the company said in an&nbsp;advi...",
-      "published": "2026-10-23T00:35:17+05:30",
+      "title": "Researchers Demonstrate Node2Shell RCE Exploit on Node.js Build Using Crafted Brotli Data",
+      "link": "https://thehackernews.com/2026/10/researchers-demonstrate-node2shell-rce.html",
+      "summary": "Malicious Brotli data can make an application on an official build of Node.js run attacker-supplied code, security researchers at Imperva have&nbsp;demonstrated.\n\nTheir \"Node2Shell\" proof of concept r...",
+      "published": "2026-10-23T14:10:43+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -275,26 +195,10 @@
       }
     },
     {
-      "title": "Docker is weird",
-      "link": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=50202681\">Comments</a>...",
-      "published": "2026-10-22T23:45:56+00:00",
-      "domain": "codeandcake.dev",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "eMudhra to Exit Global SSL/TLS Business After 8 Intermediate CA Keys Found Easily Guessable",
-      "link": "https://thehackernews.com/2026/10/emudhra-to-exit-global-ssltls-business.html",
-      "summary": "eMudhra, an Indian certificate authority (CA), will withdraw from its global SSL/TLS certificate business,&nbsp;its board decided on Thursday. The decision came five days after a researcher&nbsp;repor...",
-      "published": "2026-10-22T23:42:43+05:30",
+      "title": "Critical x402 SDK Flaw Could Let Malicious APIs Drain AI Agents\u2019 Token Balances",
+      "link": "https://thehackernews.com/2026/10/critical-x402-sdk-flaw-could-let.html",
+      "summary": "AI agents paying for API calls with the&nbsp;x402 SDKs&nbsp;could sign a payment for their full balance of a supported token if a malicious API asked for it,&nbsp;security firm V12 said&nbsp;on Octobe...",
+      "published": "2026-10-23T14:05:45+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -307,11 +211,107 @@
       }
     },
     {
-      "title": "ThreatsDay: AI Secrets Leak, PingCAP Source Theft, Signal Hang-Up Flaw, Laravel Auth Bypass + 21 More",
-      "link": "https://thehackernews.com/2026/10/threatsday-ai-secrets-leak-pingcap.html",
-      "summary": "This week has already been rough for cybersecurity. Critical PHP and GitLab RCE flaws, serious Linux security bugs, compromised eMudhra certificates, a Node.js RCE flaw, a hacked LiteLLM release, and ...",
-      "published": "2026-10-22T23:15:44+05:30",
+      "title": "PHP2Shell Exploit Attempts Hit Millions as Attackers Try to Deploy Mirai Malware",
+      "link": "https://thehackernews.com/2026/10/php2shell-exploit-attempts-hit-millions.html",
+      "summary": "Threat actors have been observed unsuccessfully attempting to exploit the newly disclosed PHP2Shell vulnerabilities to rope infected systems into a Mirai botnet variant called Potassium, as it emerges...",
+      "published": "2026-10-23T13:10:45+05:30",
       "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "No Need for Retirement When Utopia Is Around the Corner",
+      "link": "https://blog.jim-nielsen.com/2026/skip-retirement-for-utopia/",
+      "summary": "<p>Article URL: <a href=\"https://blog.jim-nielsen.com/2026/skip-retirement-for-utopia/\">https://blog.jim-nielsen.com/2026/skip-retirement-for-utopia/</a></p>\n<p>Comments URL: <a href=\"https://news.yco...",
+      "published": "2026-10-23T10:58:52+00:00",
+      "domain": "blog.jim-nielsen.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Black Mirror: Be Right Back",
+      "link": "https://www.howclosetoblackmirror.com/be-right-back",
+      "summary": "<p>Article URL: <a href=\"https://www.howclosetoblackmirror.com/be-right-back\">https://www.howclosetoblackmirror.com/be-right-back</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id...",
+      "published": "2026-10-23T10:56:42+00:00",
+      "domain": "howclosetoblackmirror.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Steam Next Fest Has Become a Disaster and a Grim Look at the Future",
+      "link": "https://kotaku.com/steam-next-fest-has-become-a-massive-disaster-and-a-grim-look-at-the-future-2000748008",
+      "summary": "<p>Article URL: <a href=\"https://kotaku.com/steam-next-fest-has-become-a-massive-disaster-and-a-grim-look-at-the-future-2000748008\">https://kotaku.com/steam-next-fest-has-become-a-massive-disaster-and...",
+      "published": "2026-10-23T10:54:52+00:00",
+      "domain": "kotaku.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Three Rights of the Image",
+      "link": "https://medium.com/@smoking2man/three-rights-of-the-image-how-the-visual-takes-possession-of-reality-d95a75f9b074",
+      "summary": "<p>Article URL: <a href=\"https://medium.com/@smoking2man/three-rights-of-the-image-how-the-visual-takes-possession-of-reality-d95a75f9b074\">https://medium.com/@smoking2man/three-rights-of-the-image-ho...",
+      "published": "2026-10-23T10:53:35+00:00",
+      "domain": "medium.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Agentic Testing: Where Agents Fit in the E2E Testing Stack",
+      "link": "https://slack.engineering/agentic-testing-where-agents-fit-in-the-e2e-testing-stack/",
+      "summary": "<p>Article URL: <a href=\"https://slack.engineering/agentic-testing-where-agents-fit-in-the-e2e-testing-stack/\">https://slack.engineering/agentic-testing-where-agents-fit-in-the-e2e-testing-stack/</a><...",
+      "published": "2026-10-23T10:53:19+00:00",
+      "domain": "slack.engineering",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The Rise and Fall of Jev",
+      "link": "https://blog.alexewerlof.com/p/rise-and-fall-of-jev-eval-hype-vs-llm",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50206361\">Comments</a>...",
+      "published": "2026-10-23T09:21:00+00:00",
+      "domain": "blog.alexewerlof.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -325,90 +325,10 @@
   ],
   "overall_ranked": [
     {
-      "title": "Cherry Processing",
-      "link": "https://sftw.substack.com/p/the-second-most-photographed-fruit",
-      "summary": "<p>Article URL: <a href=\"https://sftw.substack.com/p/the-second-most-photographed-fruit\">https://sftw.substack.com/p/the-second-most-photographed-fruit</a></p>\n<p>Comments URL: <a href=\"https://news.y...",
-      "published": "2026-10-23T03:32:29+00:00",
-      "domain": "sftw.substack.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "FreeToolkit \u2013 384 client-side dev utilities (regex, SQL, cron, cURL, more)",
-      "link": "https://freetoolkit.dev/",
-      "summary": "<p>Article URL: <a href=\"https://freetoolkit.dev/\">https://freetoolkit.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50204189\">https://news.ycombinator.com/item?id=502041...",
-      "published": "2026-10-23T03:32:24+00:00",
-      "domain": "freetoolkit.dev",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Syntax-Highlighting for Word, PowerPoint, Google Docs, Google Sheet, Keynote",
-      "link": "https://onlineimageoptimizer.com/code-to-image.html?cols=80&size=24&scale=2&font=Courier+Prime&lang=python&tmode=auto&tpx=1600&selmode=none&pad=56&pastept=12&bold=1&shrink=1&theme=paper&c=AT1PTUvDQBC951c810sCNVG8lSZQJFCwWNCDh9LDlJ1o6HY37EyQ_feS9eP0mPfJ3GLX7_eHFXbbp-f-FS_9-9tNYXmAfDFPdHZcXjitIRor3HU4h-DWBQAYYw7eJcyTC2Sl2UTyNly7ZjOMjjuMgjBHgQZYdqxcFzm39Uk_R_-BwZFi9pbjf8cSIli-BpAIK8hbiFKS-m8z40RRBS0unGqZ3KilaUyVpcg6Rw_HvsyuCm2Lx1yU7-P9aWHM76TJyvLVj_34cKq-AQ",
-      "summary": "<p>Article URL: <a href=\"https://onlineimageoptimizer.com/code-to-image.html?cols=80&amp;size=24&amp;scale=2&amp;font=Courier+Prime&amp;lang=python&amp;tmode=auto&amp;tpx=1600&amp;selmode=none&amp;pad...",
-      "published": "2026-10-23T03:29:04+00:00",
-      "domain": "onlineimageoptimizer.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: What LLM fits my GPU? \u2013 VRAM measured on real hardware for 117 models",
-      "link": "https://quantized.uk/",
-      "summary": "<p>Article URL: <a href=\"https://quantized.uk/\">https://quantized.uk/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50204153\">https://news.ycombinator.com/item?id=50204153</a>...",
-      "published": "2026-10-23T03:25:46+00:00",
-      "domain": "quantized.uk",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The Customer Is the Builder: how AI coding agents change software economics",
-      "link": "https://arxiv.org/abs/2610.30307",
-      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2610.30307\">https://arxiv.org/abs/2610.30307</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50204149\">https://news.ycombinator.co...",
-      "published": "2026-10-23T03:24:24+00:00",
-      "domain": "arxiv.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat",
-      "link": "https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html",
-      "summary": "Right now, there is probably an AI agent running on a laptop somewhere in your network. It stores API keys and database passwords, can access your internal systems, and works without anyone watching.\n...",
-      "published": "2026-10-23T00:35:35+05:30",
+      "title": "Critical Flaw in Python\u2019s Popular Pillow Image Library Allows Code Execution via a Crafted Image",
+      "link": "https://thehackernews.com/2026/10/critical-flaw-in-pythons-popular-pillow.html",
+      "summary": "Pillow, the most widely used image library for Python, can be made to run operating system commands on a server by specifying the name of a file it is told to open.\n\nThe flaw,&nbsp;CVE-2026-112900, is...",
+      "published": "2026-10-23T15:06:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -421,10 +341,10 @@
       }
     },
     {
-      "title": "Arista Warns of Critical VeloCloud SQL Injection Zero-Day Exploited in Attacks",
-      "link": "https://thehackernews.com/2026/10/arista-warns-of-critical-velocloud-sql.html",
-      "summary": "Attackers are exploiting a zero-day SQL injection flaw in Arista's VeloCloud Orchestrator (VCO), the&nbsp;central management system&nbsp;for VeloCloud SD-WAN networks, the company said in an&nbsp;advi...",
-      "published": "2026-10-23T00:35:17+05:30",
+      "title": "Researchers Demonstrate Node2Shell RCE Exploit on Node.js Build Using Crafted Brotli Data",
+      "link": "https://thehackernews.com/2026/10/researchers-demonstrate-node2shell-rce.html",
+      "summary": "Malicious Brotli data can make an application on an official build of Node.js run attacker-supplied code, security researchers at Imperva have&nbsp;demonstrated.\n\nTheir \"Node2Shell\" proof of concept r...",
+      "published": "2026-10-23T14:10:43+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -437,26 +357,10 @@
       }
     },
     {
-      "title": "Docker is weird",
-      "link": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=50202681\">Comments</a>...",
-      "published": "2026-10-22T23:45:56+00:00",
-      "domain": "codeandcake.dev",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "eMudhra to Exit Global SSL/TLS Business After 8 Intermediate CA Keys Found Easily Guessable",
-      "link": "https://thehackernews.com/2026/10/emudhra-to-exit-global-ssltls-business.html",
-      "summary": "eMudhra, an Indian certificate authority (CA), will withdraw from its global SSL/TLS certificate business,&nbsp;its board decided on Thursday. The decision came five days after a researcher&nbsp;repor...",
-      "published": "2026-10-22T23:42:43+05:30",
+      "title": "Critical x402 SDK Flaw Could Let Malicious APIs Drain AI Agents\u2019 Token Balances",
+      "link": "https://thehackernews.com/2026/10/critical-x402-sdk-flaw-could-let.html",
+      "summary": "AI agents paying for API calls with the&nbsp;x402 SDKs&nbsp;could sign a payment for their full balance of a supported token if a malicious API asked for it,&nbsp;security firm V12 said&nbsp;on Octobe...",
+      "published": "2026-10-23T14:05:45+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -469,11 +373,107 @@
       }
     },
     {
-      "title": "ThreatsDay: AI Secrets Leak, PingCAP Source Theft, Signal Hang-Up Flaw, Laravel Auth Bypass + 21 More",
-      "link": "https://thehackernews.com/2026/10/threatsday-ai-secrets-leak-pingcap.html",
-      "summary": "This week has already been rough for cybersecurity. Critical PHP and GitLab RCE flaws, serious Linux security bugs, compromised eMudhra certificates, a Node.js RCE flaw, a hacked LiteLLM release, and ...",
-      "published": "2026-10-22T23:15:44+05:30",
+      "title": "PHP2Shell Exploit Attempts Hit Millions as Attackers Try to Deploy Mirai Malware",
+      "link": "https://thehackernews.com/2026/10/php2shell-exploit-attempts-hit-millions.html",
+      "summary": "Threat actors have been observed unsuccessfully attempting to exploit the newly disclosed PHP2Shell vulnerabilities to rope infected systems into a Mirai botnet variant called Potassium, as it emerges...",
+      "published": "2026-10-23T13:10:45+05:30",
       "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "No Need for Retirement When Utopia Is Around the Corner",
+      "link": "https://blog.jim-nielsen.com/2026/skip-retirement-for-utopia/",
+      "summary": "<p>Article URL: <a href=\"https://blog.jim-nielsen.com/2026/skip-retirement-for-utopia/\">https://blog.jim-nielsen.com/2026/skip-retirement-for-utopia/</a></p>\n<p>Comments URL: <a href=\"https://news.yco...",
+      "published": "2026-10-23T10:58:52+00:00",
+      "domain": "blog.jim-nielsen.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Black Mirror: Be Right Back",
+      "link": "https://www.howclosetoblackmirror.com/be-right-back",
+      "summary": "<p>Article URL: <a href=\"https://www.howclosetoblackmirror.com/be-right-back\">https://www.howclosetoblackmirror.com/be-right-back</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id...",
+      "published": "2026-10-23T10:56:42+00:00",
+      "domain": "howclosetoblackmirror.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Steam Next Fest Has Become a Disaster and a Grim Look at the Future",
+      "link": "https://kotaku.com/steam-next-fest-has-become-a-massive-disaster-and-a-grim-look-at-the-future-2000748008",
+      "summary": "<p>Article URL: <a href=\"https://kotaku.com/steam-next-fest-has-become-a-massive-disaster-and-a-grim-look-at-the-future-2000748008\">https://kotaku.com/steam-next-fest-has-become-a-massive-disaster-and...",
+      "published": "2026-10-23T10:54:52+00:00",
+      "domain": "kotaku.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Three Rights of the Image",
+      "link": "https://medium.com/@smoking2man/three-rights-of-the-image-how-the-visual-takes-possession-of-reality-d95a75f9b074",
+      "summary": "<p>Article URL: <a href=\"https://medium.com/@smoking2man/three-rights-of-the-image-how-the-visual-takes-possession-of-reality-d95a75f9b074\">https://medium.com/@smoking2man/three-rights-of-the-image-ho...",
+      "published": "2026-10-23T10:53:35+00:00",
+      "domain": "medium.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Agentic Testing: Where Agents Fit in the E2E Testing Stack",
+      "link": "https://slack.engineering/agentic-testing-where-agents-fit-in-the-e2e-testing-stack/",
+      "summary": "<p>Article URL: <a href=\"https://slack.engineering/agentic-testing-where-agents-fit-in-the-e2e-testing-stack/\">https://slack.engineering/agentic-testing-where-agents-fit-in-the-e2e-testing-stack/</a><...",
+      "published": "2026-10-23T10:53:19+00:00",
+      "domain": "slack.engineering",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The Rise and Fall of Jev",
+      "link": "https://blog.alexewerlof.com/p/rise-and-fall-of-jev-eval-hype-vs-llm",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50206361\">Comments</a>...",
+      "published": "2026-10-23T09:21:00+00:00",
+      "domain": "blog.alexewerlof.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -487,90 +487,10 @@
   ],
   "all_articles": [
     {
-      "title": "Cherry Processing",
-      "link": "https://sftw.substack.com/p/the-second-most-photographed-fruit",
-      "summary": "<p>Article URL: <a href=\"https://sftw.substack.com/p/the-second-most-photographed-fruit\">https://sftw.substack.com/p/the-second-most-photographed-fruit</a></p>\n<p>Comments URL: <a href=\"https://news.y...",
-      "published": "2026-10-23T03:32:29+00:00",
-      "domain": "sftw.substack.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "FreeToolkit \u2013 384 client-side dev utilities (regex, SQL, cron, cURL, more)",
-      "link": "https://freetoolkit.dev/",
-      "summary": "<p>Article URL: <a href=\"https://freetoolkit.dev/\">https://freetoolkit.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50204189\">https://news.ycombinator.com/item?id=502041...",
-      "published": "2026-10-23T03:32:24+00:00",
-      "domain": "freetoolkit.dev",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Syntax-Highlighting for Word, PowerPoint, Google Docs, Google Sheet, Keynote",
-      "link": "https://onlineimageoptimizer.com/code-to-image.html?cols=80&size=24&scale=2&font=Courier+Prime&lang=python&tmode=auto&tpx=1600&selmode=none&pad=56&pastept=12&bold=1&shrink=1&theme=paper&c=AT1PTUvDQBC951c810sCNVG8lSZQJFCwWNCDh9LDlJ1o6HY37EyQ_feS9eP0mPfJ3GLX7_eHFXbbp-f-FS_9-9tNYXmAfDFPdHZcXjitIRor3HU4h-DWBQAYYw7eJcyTC2Sl2UTyNly7ZjOMjjuMgjBHgQZYdqxcFzm39Uk_R_-BwZFi9pbjf8cSIli-BpAIK8hbiFKS-m8z40RRBS0unGqZ3KilaUyVpcg6Rw_HvsyuCm2Lx1yU7-P9aWHM76TJyvLVj_34cKq-AQ",
-      "summary": "<p>Article URL: <a href=\"https://onlineimageoptimizer.com/code-to-image.html?cols=80&amp;size=24&amp;scale=2&amp;font=Courier+Prime&amp;lang=python&amp;tmode=auto&amp;tpx=1600&amp;selmode=none&amp;pad...",
-      "published": "2026-10-23T03:29:04+00:00",
-      "domain": "onlineimageoptimizer.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: What LLM fits my GPU? \u2013 VRAM measured on real hardware for 117 models",
-      "link": "https://quantized.uk/",
-      "summary": "<p>Article URL: <a href=\"https://quantized.uk/\">https://quantized.uk/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50204153\">https://news.ycombinator.com/item?id=50204153</a>...",
-      "published": "2026-10-23T03:25:46+00:00",
-      "domain": "quantized.uk",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The Customer Is the Builder: how AI coding agents change software economics",
-      "link": "https://arxiv.org/abs/2610.30307",
-      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2610.30307\">https://arxiv.org/abs/2610.30307</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50204149\">https://news.ycombinator.co...",
-      "published": "2026-10-23T03:24:24+00:00",
-      "domain": "arxiv.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat",
-      "link": "https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html",
-      "summary": "Right now, there is probably an AI agent running on a laptop somewhere in your network. It stores API keys and database passwords, can access your internal systems, and works without anyone watching.\n...",
-      "published": "2026-10-23T00:35:35+05:30",
+      "title": "Critical Flaw in Python\u2019s Popular Pillow Image Library Allows Code Execution via a Crafted Image",
+      "link": "https://thehackernews.com/2026/10/critical-flaw-in-pythons-popular-pillow.html",
+      "summary": "Pillow, the most widely used image library for Python, can be made to run operating system commands on a server by specifying the name of a file it is told to open.\n\nThe flaw,&nbsp;CVE-2026-112900, is...",
+      "published": "2026-10-23T15:06:00+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -583,10 +503,10 @@
       }
     },
     {
-      "title": "Arista Warns of Critical VeloCloud SQL Injection Zero-Day Exploited in Attacks",
-      "link": "https://thehackernews.com/2026/10/arista-warns-of-critical-velocloud-sql.html",
-      "summary": "Attackers are exploiting a zero-day SQL injection flaw in Arista's VeloCloud Orchestrator (VCO), the&nbsp;central management system&nbsp;for VeloCloud SD-WAN networks, the company said in an&nbsp;advi...",
-      "published": "2026-10-23T00:35:17+05:30",
+      "title": "Researchers Demonstrate Node2Shell RCE Exploit on Node.js Build Using Crafted Brotli Data",
+      "link": "https://thehackernews.com/2026/10/researchers-demonstrate-node2shell-rce.html",
+      "summary": "Malicious Brotli data can make an application on an official build of Node.js run attacker-supplied code, security researchers at Imperva have&nbsp;demonstrated.\n\nTheir \"Node2Shell\" proof of concept r...",
+      "published": "2026-10-23T14:10:43+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -599,26 +519,10 @@
       }
     },
     {
-      "title": "Docker is weird",
-      "link": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=50202681\">Comments</a>...",
-      "published": "2026-10-22T23:45:56+00:00",
-      "domain": "codeandcake.dev",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "eMudhra to Exit Global SSL/TLS Business After 8 Intermediate CA Keys Found Easily Guessable",
-      "link": "https://thehackernews.com/2026/10/emudhra-to-exit-global-ssltls-business.html",
-      "summary": "eMudhra, an Indian certificate authority (CA), will withdraw from its global SSL/TLS certificate business,&nbsp;its board decided on Thursday. The decision came five days after a researcher&nbsp;repor...",
-      "published": "2026-10-22T23:42:43+05:30",
+      "title": "Critical x402 SDK Flaw Could Let Malicious APIs Drain AI Agents\u2019 Token Balances",
+      "link": "https://thehackernews.com/2026/10/critical-x402-sdk-flaw-could-let.html",
+      "summary": "AI agents paying for API calls with the&nbsp;x402 SDKs&nbsp;could sign a payment for their full balance of a supported token if a malicious API asked for it,&nbsp;security firm V12 said&nbsp;on Octobe...",
+      "published": "2026-10-23T14:05:45+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -631,11 +535,107 @@
       }
     },
     {
-      "title": "ThreatsDay: AI Secrets Leak, PingCAP Source Theft, Signal Hang-Up Flaw, Laravel Auth Bypass + 21 More",
-      "link": "https://thehackernews.com/2026/10/threatsday-ai-secrets-leak-pingcap.html",
-      "summary": "This week has already been rough for cybersecurity. Critical PHP and GitLab RCE flaws, serious Linux security bugs, compromised eMudhra certificates, a Node.js RCE flaw, a hacked LiteLLM release, and ...",
-      "published": "2026-10-22T23:15:44+05:30",
+      "title": "PHP2Shell Exploit Attempts Hit Millions as Attackers Try to Deploy Mirai Malware",
+      "link": "https://thehackernews.com/2026/10/php2shell-exploit-attempts-hit-millions.html",
+      "summary": "Threat actors have been observed unsuccessfully attempting to exploit the newly disclosed PHP2Shell vulnerabilities to rope infected systems into a Mirai botnet variant called Potassium, as it emerges...",
+      "published": "2026-10-23T13:10:45+05:30",
       "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "No Need for Retirement When Utopia Is Around the Corner",
+      "link": "https://blog.jim-nielsen.com/2026/skip-retirement-for-utopia/",
+      "summary": "<p>Article URL: <a href=\"https://blog.jim-nielsen.com/2026/skip-retirement-for-utopia/\">https://blog.jim-nielsen.com/2026/skip-retirement-for-utopia/</a></p>\n<p>Comments URL: <a href=\"https://news.yco...",
+      "published": "2026-10-23T10:58:52+00:00",
+      "domain": "blog.jim-nielsen.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Black Mirror: Be Right Back",
+      "link": "https://www.howclosetoblackmirror.com/be-right-back",
+      "summary": "<p>Article URL: <a href=\"https://www.howclosetoblackmirror.com/be-right-back\">https://www.howclosetoblackmirror.com/be-right-back</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id...",
+      "published": "2026-10-23T10:56:42+00:00",
+      "domain": "howclosetoblackmirror.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Steam Next Fest Has Become a Disaster and a Grim Look at the Future",
+      "link": "https://kotaku.com/steam-next-fest-has-become-a-massive-disaster-and-a-grim-look-at-the-future-2000748008",
+      "summary": "<p>Article URL: <a href=\"https://kotaku.com/steam-next-fest-has-become-a-massive-disaster-and-a-grim-look-at-the-future-2000748008\">https://kotaku.com/steam-next-fest-has-become-a-massive-disaster-and...",
+      "published": "2026-10-23T10:54:52+00:00",
+      "domain": "kotaku.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Three Rights of the Image",
+      "link": "https://medium.com/@smoking2man/three-rights-of-the-image-how-the-visual-takes-possession-of-reality-d95a75f9b074",
+      "summary": "<p>Article URL: <a href=\"https://medium.com/@smoking2man/three-rights-of-the-image-how-the-visual-takes-possession-of-reality-d95a75f9b074\">https://medium.com/@smoking2man/three-rights-of-the-image-ho...",
+      "published": "2026-10-23T10:53:35+00:00",
+      "domain": "medium.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Agentic Testing: Where Agents Fit in the E2E Testing Stack",
+      "link": "https://slack.engineering/agentic-testing-where-agents-fit-in-the-e2e-testing-stack/",
+      "summary": "<p>Article URL: <a href=\"https://slack.engineering/agentic-testing-where-agents-fit-in-the-e2e-testing-stack/\">https://slack.engineering/agentic-testing-where-agents-fit-in-the-e2e-testing-stack/</a><...",
+      "published": "2026-10-23T10:53:19+00:00",
+      "domain": "slack.engineering",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The Rise and Fall of Jev",
+      "link": "https://blog.alexewerlof.com/p/rise-and-fall-of-jev-eval-hype-vs-llm",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50206361\">Comments</a>...",
+      "published": "2026-10-23T09:21:00+00:00",
+      "domain": "blog.alexewerlof.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,

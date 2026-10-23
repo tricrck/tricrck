@@ -16,17 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Cherry Processing
+### Critical Flaw in Python’s Popular Pillow Image Library Allows Code Execution via a Crafted Image
 - **Published**: October 23, 2026
-- **Summary**: https://sftw.substack.com/p/the-second-most-photographed-fruit</a></p>
-<p>Comments URL: <a href="https://news.y......
-- [Read more](https://sftw.substack.com/p/the-second-most-photographed-fruit)
+- **Summary**: Pillow, the most widely used image library for Python, can be made to run operating system commands on a server by specifying the name of a file it is...
+- [Read more](https://thehackernews.com/2026/10/critical-flaw-in-pythons-popular-pillow.html)
 
-### FreeToolkit – 384 client-side dev utilities (regex, SQL, cron, cURL, more)
+### Researchers Demonstrate Node2Shell RCE Exploit on Node.js Build Using Crafted Brotli Data
 - **Published**: October 23, 2026
-- **Summary**: https://freetoolkit.dev/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50204189">https://news.ycombinator.com/item?id=502041....
-- [Read more](https://freetoolkit.dev/)
+- **Summary**: Malicious Brotli data can make an application on an official build of Node.js run attacker-supplied code, security researchers at Imperva have&nbsp;de...
+- [Read more](https://thehackernews.com/2026/10/researchers-demonstrate-node2shell-rce.html)
 
 ---
 
