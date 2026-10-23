@@ -16,15 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Critical Flaw in Python’s Popular Pillow Image Library Allows Code Execution via a Crafted Image
+### PHP Warns of Another Unpatched RCE Risk Two Days After Emergency PHP2Shell Patches
 - **Published**: October 23, 2026
-- **Summary**: Pillow, the most widely used image library for Python, can be made to run operating system commands on a server by specifying the name of a file it is...
-- [Read more](https://thehackernews.com/2026/10/critical-flaw-in-pythons-popular-pillow.html)
+- **Summary**: PHP has warned of another way an attacker could run code on a web server, two days after it shipped emergency fixes for the critical PHP2Shell flaws.
+...
+- **Keywords**: emergency, emergency
+- [Read more](https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html)
 
-### Researchers Demonstrate Node2Shell RCE Exploit on Node.js Build Using Crafted Brotli Data
+### Hackers Breach Enterprise Firewalls and VPNs, Exposing Over 70,000 Credentials
 - **Published**: October 23, 2026
-- **Summary**: Malicious Brotli data can make an application on an official build of Node.js run attacker-supplied code, security researchers at Imperva have&nbsp;de...
-- [Read more](https://thehackernews.com/2026/10/researchers-demonstrate-node2shell-rce.html)
+- **Summary**: Cybersecurity researchers have disclosed details of a large-scale campaign that has targeted exposed network edge devices such as Fortinet FortiGate a...
+- [Read more](https://thehackernews.com/2026/10/hackers-breach-enterprise-firewalls-and.html)
 
 ---
 
