@@ -16,16 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Google illegally cut down 250K trees in Finland for data center
+### Mercury transmuted into stable gold, using fusion neutrons
 - **Published**: October 24, 2026
-- **Summary**: ......
-- **Keywords**: down
-- [Read more](https://nypost.com/2026/10/24/business/google-illegally-tore-down-250k-trees-for-finland-data-center-infuriating-locals-report/)
+- **Summary**: https://twitter.com/MarathonFusion/status/2113001085912895846</a></p>
+<p>Comments URL: <a href="https://news.yco......
+- [Read more](https://twitter.com/MarathonFusion/status/2113001085912895846)
 
-### Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software
+### Will Humans Become a Luxury?
 - **Published**: October 24, 2026
-- **Summary**: A memory-corruption flaw in Google's Brotli decoder sits in many programs that unpack Brotli-compressed data, among them Bun, the Python&nbsp;Brotli&n...
-- [Read more](https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html)
+- **Summary**: https://www.artfish.ai/p/will-humans-become-a-luxury</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?......
+- [Read more](https://www.artfish.ai/p/will-humans-become-a-luxury)
 
 ---
 
