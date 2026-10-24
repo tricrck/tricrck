@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing Revocations
+### The Anger Machine (Joan Kirner Social Justice Oration 2026)
 - **Published**: October 24, 2026
-- **Summary**: Diplomatic organizations in Central Asia have been targeted by a sophisticated new Unified Extensible Firmware Interface (UEFI) bootkit called BlackX....
-- [Read more](https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html)
+- **Summary**: https://www.andrewleigh.com/speech_the_anger_machine_rebuildin......
+- [Read more](https://www.andrewleigh.com/speech_the_anger_machine_rebuilding_community_in_the_age_of_outrage_21_october_2026)
 
-### Ruby Fixes Three Regex Engine Bugs Responsible for Four Critical GitLab RCE Flaws
-- **Published**: October 23, 2026
-- **Summary**: Ruby has released versions 4.0.9, 3.4.12, and 3.3.13 to fix three bugs in Onigmo, the regular expression engine built into the language. The bugs lie ...
-- [Read more](https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html)
+### Show HN: Web Bot Auth SDK and SSH Utilty
+- **Published**: October 24, 2026
+- **Summary**: https://messh.io</a><p>Inspired by <a href="https://datatracker.ietf.org/wg/web......
+- [Read more](https://messh.io)
 
 ---
 
