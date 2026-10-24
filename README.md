@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### The Anger Machine (Joan Kirner Social Justice Oration 2026)
+### Researchers Push Over 2 Million Updates to Remotely Disable Popcorn Time Updater That Could Fuel a Botnet
 - **Published**: October 24, 2026
-- **Summary**: https://www.andrewleigh.com/speech_the_anger_machine_rebuildin......
-- [Read more](https://www.andrewleigh.com/speech_the_anger_machine_rebuilding_community_in_the_age_of_outrage_21_october_2026)
+- **Summary**: Between November 2025 and March 2026, the Dutch security firm Eye Security pushed more than 2 million updates to computers it did not own to switch of...
+- [Read more](https://thehackernews.com/2026/10/researchers-push-over-2-million-updates.html)
 
-### Show HN: Web Bot Auth SDK and SSH Utilty
+### Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software
 - **Published**: October 24, 2026
-- **Summary**: https://messh.io</a><p>Inspired by <a href="https://datatracker.ietf.org/wg/web......
-- [Read more](https://messh.io)
+- **Summary**: A memory-corruption flaw in Google's Brotli decoder sits in many programs that unpack Brotli-compressed data, among them Bun, the Python&nbsp;Brotli&n...
+- [Read more](https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html)
 
 ---
 
