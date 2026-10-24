@@ -16,10 +16,11 @@
 
 ## 🚨 Tech Stories
 
-### Researchers Push Over 2 Million Updates to Remotely Disable Popcorn Time Updater That Could Fuel a Botnet
+### Google illegally cut down 250K trees in Finland for data center
 - **Published**: October 24, 2026
-- **Summary**: Between November 2025 and March 2026, the Dutch security firm Eye Security pushed more than 2 million updates to computers it did not own to switch of...
-- [Read more](https://thehackernews.com/2026/10/researchers-push-over-2-million-updates.html)
+- **Summary**: ......
+- **Keywords**: down
+- [Read more](https://nypost.com/2026/10/24/business/google-illegally-tore-down-250k-trees-for-finland-data-center-infuriating-locals-report/)
 
 ### Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software
 - **Published**: October 24, 2026
