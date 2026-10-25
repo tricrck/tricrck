@@ -16,18 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Xbox Turns Down Netflix $500M Offer
+### OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication
 - **Published**: October 25, 2026
-- **Summary**: https://www.darkhorizons.com/xbox-turns-down-netflix-500-million-offer/</a></p>
-<p>Comments URL: <a hr......
-- **Keywords**: down, down, down
-- [Read more](https://www.darkhorizons.com/xbox-turns-down-netflix-500-million-offer/)
+- **Summary**: OpenAI has announced plans to conduct frontier model training with no live internet access, as it resumes reinforcement learning (RL) training and int...
+- [Read more](https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html)
 
-### Xbox Turns Down Netflix $500M Offer
+### An open, structured taxonomy of what children learn across the primary years
 - **Published**: October 25, 2026
-- **Summary**: ......
-- **Keywords**: down
-- [Read more](https://www.darkhorizons.com/xbox-turns-down-netflix-500-million-offer/)
+- **Summary**: https://github.com/withmarbleapp/os-taxonomy</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50230261">htt......
+- [Read more](https://github.com/withmarbleapp/os-taxonomy)
 
 ---
 
