@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication
+### JPEG XL with WebGPU makes smaller files than libjxl in 150 KB JavaScript
 - **Published**: October 25, 2026
-- **Summary**: OpenAI has announced plans to conduct frontier model training with no live internet access, as it resumes reinforcement learning (RL) training and int...
-- [Read more](https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html)
+- **Summary**: https://github.com/jackskip22/rapier-jxl</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50232703">https://new......
+- [Read more](https://github.com/jackskip22/rapier-jxl)
 
-### An open, structured taxonomy of what children learn across the primary years
+### CIOs admit that after purchase vendors drive the timing and acceptance of change
 - **Published**: October 25, 2026
-- **Summary**: https://github.com/withmarbleapp/os-taxonomy</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50230261">htt......
-- [Read more](https://github.com/withmarbleapp/os-taxonomy)
+- **Summary**: https://www.computerweekly.com/news/366652380/CIOs-admit-they-are-bein......
+- [Read more](https://www.computerweekly.com/news/366652380/CIOs-admit-they-are-being-forced-to-upgrade-enterprise-IT)
 
 ---
 
