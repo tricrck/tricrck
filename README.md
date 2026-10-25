@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### JPEG XL with WebGPU makes smaller files than libjxl in 150 KB JavaScript
+### Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers
 - **Published**: October 25, 2026
-- **Summary**: https://github.com/jackskip22/rapier-jxl</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50232703">https://new......
-- [Read more](https://github.com/jackskip22/rapier-jxl)
+- **Summary**: A single hacked device on a Tailscale network can be used to gain root access to other servers it can reach, according to a security researcher who pu...
+- [Read more](https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html)
 
-### CIOs admit that after purchase vendors drive the timing and acceptance of change
+### PHP2Shell Exploitation Hits Government Entity Amid Global Scanning and Signs of AI-Assisted Hacking
 - **Published**: October 25, 2026
-- **Summary**: https://www.computerweekly.com/news/366652380/CIOs-admit-they-are-bein......
-- [Read more](https://www.computerweekly.com/news/366652380/CIOs-admit-they-are-being-forced-to-upgrade-enterprise-IT)
+- **Summary**: Threat actors have been observed using agentic artificial intelligence (AI) platforms for post-exploitation activity following the abuse of the PHP2Sh...
+- [Read more](https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html)
 
 ---
 
