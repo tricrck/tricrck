@@ -16,17 +16,18 @@
 
 ## 🚨 Tech Stories
 
-### Mercury transmuted into stable gold, using fusion neutrons
-- **Published**: October 24, 2026
-- **Summary**: https://twitter.com/MarathonFusion/status/2113001085912895846</a></p>
-<p>Comments URL: <a href="https://news.yco......
-- [Read more](https://twitter.com/MarathonFusion/status/2113001085912895846)
+### Xbox Turns Down Netflix $500M Offer
+- **Published**: October 25, 2026
+- **Summary**: https://www.darkhorizons.com/xbox-turns-down-netflix-500-million-offer/</a></p>
+<p>Comments URL: <a hr......
+- **Keywords**: down, down, down
+- [Read more](https://www.darkhorizons.com/xbox-turns-down-netflix-500-million-offer/)
 
-### Will Humans Become a Luxury?
-- **Published**: October 24, 2026
-- **Summary**: https://www.artfish.ai/p/will-humans-become-a-luxury</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?......
-- [Read more](https://www.artfish.ai/p/will-humans-become-a-luxury)
+### Xbox Turns Down Netflix $500M Offer
+- **Published**: October 25, 2026
+- **Summary**: ......
+- **Keywords**: down
+- [Read more](https://www.darkhorizons.com/xbox-turns-down-netflix-500-million-offer/)
 
 ---
 
