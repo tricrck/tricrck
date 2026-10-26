@@ -16,15 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Between alerts: What Attackers Do in the Spaces Ordinary Detection Misses
+### Hackers Infect 953 Online Stores With Scanner-Evading JavaScript, Mostly on Magento
 - **Published**: October 26, 2026
-- **Summary**: Every SOC struggles with a pile of alerts. Very few of those alerts explain how an attack started or how it progressed. Network data, like that from a...
-- [Read more](https://thehackernews.com/2026/10/between-alerts-what-attackers-do-in.html)
+- **Summary**: An unknown threat actor has infected 953 online stores, most of them running Magento, as part of a long-running campaign active since July 2025.
 
-### uCreator Android Spyware Can Steal Telegram 2FA Passwords and Clone WeChat Accounts
+Acco...
+- [Read more](https://thehackernews.com/2026/10/hackers-infect-953-online-stores-with.html)
+
+### PHP Issues Second Windows Security Update in Five Days to Fix Brotli Code Execution Flaw
 - **Published**: October 26, 2026
-- **Summary**: A rentable Android spyware kit called uCreator takes over Telegram and WeChat accounts by hiding its code inside working copies of the two apps, resea...
-- [Read more](https://thehackernews.com/2026/10/ucreator-android-spyware-can-steal.html)
+- **Summary**: PHP has rebuilt its official Windows packages for PHP 8.2 through 8.5 to fix CVE-2026-111497, a flaw in the Brotli compression library that the packag...
+- [Read more](https://thehackernews.com/2026/10/php-issues-second-windows-security.html)
 
 ---
 
