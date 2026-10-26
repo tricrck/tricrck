@@ -1,90 +1,10 @@
 {
   "chaos_ranked": [
     {
-      "title": "Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers",
-      "link": "https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html",
-      "summary": "A single hacked device on a Tailscale network can be used to gain root access to other servers it can reach, according to a security researcher who published the findings this week.\n\nThe attack requir...",
-      "published": "2026-10-25T23:14:09+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "PHP2Shell Exploitation Hits Government Entity Amid Global Scanning and Signs of AI-Assisted Hacking",
-      "link": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html",
-      "summary": "Threat actors have been observed using agentic artificial intelligence (AI) platforms for post-exploitation activity following the abuse of the PHP2Shell vulnerabilities tracked as CVE-2026-109618 and...",
-      "published": "2026-10-25T22:49:46+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "I don't want to be an spectator",
-      "link": "https://paulocuambe.github.io/posts/spectator/",
-      "summary": "<p>Article URL: <a href=\"https://paulocuambe.github.io/posts/spectator/\">https://paulocuambe.github.io/posts/spectator/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50235689\"...",
-      "published": "2026-10-25T20:21:29+00:00",
-      "domain": "paulocuambe.github.io",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Plan and code review for your agents",
-      "link": "https://plannotator.ai/",
-      "summary": "<p>Article URL: <a href=\"https://plannotator.ai/\">https://plannotator.ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50235688\">https://news.ycombinator.com/item?id=50235688...",
-      "published": "2026-10-25T20:21:22+00:00",
-      "domain": "plannotator.ai",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Website to Markdown \u2013 keyless HTML\u2192clean Markdown for RAG, pay-per-use",
-      "link": "https://apify.com/noniner/website-to-markdown",
-      "summary": "<p>Article URL: <a href=\"https://apify.com/noniner/website-to-markdown\">https://apify.com/noniner/website-to-markdown</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50235676\">h...",
-      "published": "2026-10-25T20:20:04+00:00",
-      "domain": "apify.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: MuscleMemory \u2013 procedural memory for coding agents, proven by tests",
-      "link": "https://github.com/TheWariend/MuscleMemory",
-      "summary": "<p>Article URL: <a href=\"https://github.com/TheWariend/MuscleMemory\">https://github.com/TheWariend/MuscleMemory</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50235670\">https:/...",
-      "published": "2026-10-25T20:19:47+00:00",
+      "title": "Show HN: Nodecode, open-source living agent in Lisp that rewrites itself for you",
+      "link": "https://github.com/nodecode-ai/nodecode",
+      "summary": "<p>Hi HN, we're Mike and Thom.<p>Agents of the future should only have one tool (the interpreter, ideally a LISP eval), nothing more or less; to interact with the world. Agents remember by writing mar...",
+      "published": "2026-10-26T03:30:18+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -97,11 +17,11 @@
       }
     },
     {
-      "title": "A Stackless Floodfill Automaton",
-      "link": "https://t3x.org/files/floodfill.pdf",
-      "summary": "<p>Article URL: <a href=\"https://t3x.org/files/floodfill.pdf\">https://t3x.org/files/floodfill.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50235661\">https://news.ycombina...",
-      "published": "2026-10-25T20:18:57+00:00",
-      "domain": "t3x.org",
+      "title": "PaperPilot \u2013 Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP",
+      "link": "https://github.com/KrushnaVardhanReddy/PaperPilot",
+      "summary": "<p>Article URL: <a href=\"https://github.com/KrushnaVardhanReddy/PaperPilot\">https://github.com/KrushnaVardhanReddy/PaperPilot</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=502...",
+      "published": "2026-10-26T03:29:05+00:00",
+      "domain": "github.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -113,11 +33,11 @@
       }
     },
     {
-      "title": "Eunice is almost here (William Gibson, Agency)",
-      "link": "https://armincat.com/articles/eunice-is-almost-here",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=50235316\">Comments</a>...",
-      "published": "2026-10-25T19:40:27+00:00",
-      "domain": "armincat.com",
+      "title": "Show HN: TitleArt \u2013 Make text like it's 1997",
+      "link": "https://titleart.dvy.io/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50238708\">Comments</a>...",
+      "published": "2026-10-26T03:23:57+00:00",
+      "domain": "titleart.dvy.io",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -129,10 +49,74 @@
       }
     },
     {
-      "title": "LG Smart TVs Caught Mapping Your Network, Logging Audio With Screen Off",
-      "link": "https://www.reddit.com/r/technology/comments/1xf9ssl/lg_smart_tvs_caught_mapping_your_network_logging/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1xf9ssl/lg_smart_tvs_caught_mapping_your_network_logging/\"> <img alt=\"LG Smart TVs Caught Mapping Your Network, Logging Audio Wit...",
-      "published": "2026-10-25T18:26:04+00:00",
+      "title": "Show HN: TitleArt \u2013 Make text like it's 1997",
+      "link": "https://titleart.dvy.io/",
+      "summary": "<p>Article URL: <a href=\"https://titleart.dvy.io/\">https://titleart.dvy.io/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50238708\">https://news.ycombinator.com/item?id=502387...",
+      "published": "2026-10-26T03:23:57+00:00",
+      "domain": "titleart.dvy.io",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Universe and the First Cause",
+      "link": "https://news.ycombinator.com/item?id=50238681",
+      "summary": "<p>Even if the universe had a First Cause, that doesn\u2019t mean it has a Controller. A spark causes a bomb to explode, but the spark isn\u2019t steering the shrapnel afterward.</p>\n<hr />\n<p>Comments URL: <a ...",
+      "published": "2026-10-26T03:20:36+00:00",
+      "domain": "news.ycombinator.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Oseberg Tapestry Fragments",
+      "link": "https://en.wikipedia.org/wiki/Oseberg_tapestry_fragments",
+      "summary": "<p>Article URL: <a href=\"https://en.wikipedia.org/wiki/Oseberg_tapestry_fragments\">https://en.wikipedia.org/wiki/Oseberg_tapestry_fragments</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.c...",
+      "published": "2026-10-26T03:14:49+00:00",
+      "domain": "en.wikipedia.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Removing Next.js Got My Blog to 100 on Every Lighthouse Category",
+      "link": "https://korindiehacker.bloffy.blog/en/removing-nextjs-got-my-blog-to-100-on-every-lighthouse-category",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50237712\">Comments</a>...",
+      "published": "2026-10-26T01:03:39+00:00",
+      "domain": "korindiehacker.bloffy.blog",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Launched in October 2026 at $1,999, Apple\u2019s foldable faces inner display cracks and dust ingress reports across multiple markets",
+      "link": "https://www.reddit.com/r/technology/comments/1xfirmh/launched_in_october_2026_at_1999_apples_foldable/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1xfirmh/launched_in_october_2026_at_1999_apples_foldable/\"> <img alt=\"Launched in October 2026 at $1,999, Apple\u2019s foldable faces ...",
+      "published": "2026-10-26T00:43:17+00:00",
       "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
@@ -145,11 +129,27 @@
       }
     },
     {
-      "title": "Dolly Parton's Imagination Library",
-      "link": "https://imaginationlibrary.com/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=50234474\">Comments</a>...",
-      "published": "2026-10-25T18:23:54+00:00",
-      "domain": "imaginationlibrary.com",
+      "title": "Anthropic's Claude accessed Georgia state vote count data behind paywall",
+      "link": "https://www.reddit.com/r/technology/comments/1xfik09/anthropics_claude_accessed_georgia_state_vote/",
+      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/idkbruh653\"> /u/idkbruh653 </a> <br /> <span><a href=\"https://www.reuters.com/world/us/anthropics-claude-accessed-public-us-state-georgia-...",
+      "published": "2026-10-26T00:33:36+00:00",
+      "domain": "reddit.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "F-Zero X on Nintendo 3DS",
+      "link": "https://hypnotize.works/gdx-3ds/postmortem/index.html",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50237078\">Comments</a>...",
+      "published": "2026-10-25T23:27:30+00:00",
+      "domain": "hypnotize.works",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -163,90 +163,10 @@
   ],
   "anarchy_ranked": [
     {
-      "title": "Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers",
-      "link": "https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html",
-      "summary": "A single hacked device on a Tailscale network can be used to gain root access to other servers it can reach, according to a security researcher who published the findings this week.\n\nThe attack requir...",
-      "published": "2026-10-25T23:14:09+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "PHP2Shell Exploitation Hits Government Entity Amid Global Scanning and Signs of AI-Assisted Hacking",
-      "link": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html",
-      "summary": "Threat actors have been observed using agentic artificial intelligence (AI) platforms for post-exploitation activity following the abuse of the PHP2Shell vulnerabilities tracked as CVE-2026-109618 and...",
-      "published": "2026-10-25T22:49:46+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "I don't want to be an spectator",
-      "link": "https://paulocuambe.github.io/posts/spectator/",
-      "summary": "<p>Article URL: <a href=\"https://paulocuambe.github.io/posts/spectator/\">https://paulocuambe.github.io/posts/spectator/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50235689\"...",
-      "published": "2026-10-25T20:21:29+00:00",
-      "domain": "paulocuambe.github.io",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Plan and code review for your agents",
-      "link": "https://plannotator.ai/",
-      "summary": "<p>Article URL: <a href=\"https://plannotator.ai/\">https://plannotator.ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50235688\">https://news.ycombinator.com/item?id=50235688...",
-      "published": "2026-10-25T20:21:22+00:00",
-      "domain": "plannotator.ai",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Website to Markdown \u2013 keyless HTML\u2192clean Markdown for RAG, pay-per-use",
-      "link": "https://apify.com/noniner/website-to-markdown",
-      "summary": "<p>Article URL: <a href=\"https://apify.com/noniner/website-to-markdown\">https://apify.com/noniner/website-to-markdown</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50235676\">h...",
-      "published": "2026-10-25T20:20:04+00:00",
-      "domain": "apify.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: MuscleMemory \u2013 procedural memory for coding agents, proven by tests",
-      "link": "https://github.com/TheWariend/MuscleMemory",
-      "summary": "<p>Article URL: <a href=\"https://github.com/TheWariend/MuscleMemory\">https://github.com/TheWariend/MuscleMemory</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50235670\">https:/...",
-      "published": "2026-10-25T20:19:47+00:00",
+      "title": "Show HN: Nodecode, open-source living agent in Lisp that rewrites itself for you",
+      "link": "https://github.com/nodecode-ai/nodecode",
+      "summary": "<p>Hi HN, we're Mike and Thom.<p>Agents of the future should only have one tool (the interpreter, ideally a LISP eval), nothing more or less; to interact with the world. Agents remember by writing mar...",
+      "published": "2026-10-26T03:30:18+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -259,11 +179,11 @@
       }
     },
     {
-      "title": "A Stackless Floodfill Automaton",
-      "link": "https://t3x.org/files/floodfill.pdf",
-      "summary": "<p>Article URL: <a href=\"https://t3x.org/files/floodfill.pdf\">https://t3x.org/files/floodfill.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50235661\">https://news.ycombina...",
-      "published": "2026-10-25T20:18:57+00:00",
-      "domain": "t3x.org",
+      "title": "PaperPilot \u2013 Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP",
+      "link": "https://github.com/KrushnaVardhanReddy/PaperPilot",
+      "summary": "<p>Article URL: <a href=\"https://github.com/KrushnaVardhanReddy/PaperPilot\">https://github.com/KrushnaVardhanReddy/PaperPilot</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=502...",
+      "published": "2026-10-26T03:29:05+00:00",
+      "domain": "github.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -275,11 +195,11 @@
       }
     },
     {
-      "title": "Eunice is almost here (William Gibson, Agency)",
-      "link": "https://armincat.com/articles/eunice-is-almost-here",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=50235316\">Comments</a>...",
-      "published": "2026-10-25T19:40:27+00:00",
-      "domain": "armincat.com",
+      "title": "Show HN: TitleArt \u2013 Make text like it's 1997",
+      "link": "https://titleart.dvy.io/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50238708\">Comments</a>...",
+      "published": "2026-10-26T03:23:57+00:00",
+      "domain": "titleart.dvy.io",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -291,10 +211,74 @@
       }
     },
     {
-      "title": "LG Smart TVs Caught Mapping Your Network, Logging Audio With Screen Off",
-      "link": "https://www.reddit.com/r/technology/comments/1xf9ssl/lg_smart_tvs_caught_mapping_your_network_logging/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1xf9ssl/lg_smart_tvs_caught_mapping_your_network_logging/\"> <img alt=\"LG Smart TVs Caught Mapping Your Network, Logging Audio Wit...",
-      "published": "2026-10-25T18:26:04+00:00",
+      "title": "Show HN: TitleArt \u2013 Make text like it's 1997",
+      "link": "https://titleart.dvy.io/",
+      "summary": "<p>Article URL: <a href=\"https://titleart.dvy.io/\">https://titleart.dvy.io/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50238708\">https://news.ycombinator.com/item?id=502387...",
+      "published": "2026-10-26T03:23:57+00:00",
+      "domain": "titleart.dvy.io",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Universe and the First Cause",
+      "link": "https://news.ycombinator.com/item?id=50238681",
+      "summary": "<p>Even if the universe had a First Cause, that doesn\u2019t mean it has a Controller. A spark causes a bomb to explode, but the spark isn\u2019t steering the shrapnel afterward.</p>\n<hr />\n<p>Comments URL: <a ...",
+      "published": "2026-10-26T03:20:36+00:00",
+      "domain": "news.ycombinator.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Oseberg Tapestry Fragments",
+      "link": "https://en.wikipedia.org/wiki/Oseberg_tapestry_fragments",
+      "summary": "<p>Article URL: <a href=\"https://en.wikipedia.org/wiki/Oseberg_tapestry_fragments\">https://en.wikipedia.org/wiki/Oseberg_tapestry_fragments</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.c...",
+      "published": "2026-10-26T03:14:49+00:00",
+      "domain": "en.wikipedia.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Removing Next.js Got My Blog to 100 on Every Lighthouse Category",
+      "link": "https://korindiehacker.bloffy.blog/en/removing-nextjs-got-my-blog-to-100-on-every-lighthouse-category",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50237712\">Comments</a>...",
+      "published": "2026-10-26T01:03:39+00:00",
+      "domain": "korindiehacker.bloffy.blog",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Launched in October 2026 at $1,999, Apple\u2019s foldable faces inner display cracks and dust ingress reports across multiple markets",
+      "link": "https://www.reddit.com/r/technology/comments/1xfirmh/launched_in_october_2026_at_1999_apples_foldable/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1xfirmh/launched_in_october_2026_at_1999_apples_foldable/\"> <img alt=\"Launched in October 2026 at $1,999, Apple\u2019s foldable faces ...",
+      "published": "2026-10-26T00:43:17+00:00",
       "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
@@ -307,11 +291,27 @@
       }
     },
     {
-      "title": "Dolly Parton's Imagination Library",
-      "link": "https://imaginationlibrary.com/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=50234474\">Comments</a>...",
-      "published": "2026-10-25T18:23:54+00:00",
-      "domain": "imaginationlibrary.com",
+      "title": "Anthropic's Claude accessed Georgia state vote count data behind paywall",
+      "link": "https://www.reddit.com/r/technology/comments/1xfik09/anthropics_claude_accessed_georgia_state_vote/",
+      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/idkbruh653\"> /u/idkbruh653 </a> <br /> <span><a href=\"https://www.reuters.com/world/us/anthropics-claude-accessed-public-us-state-georgia-...",
+      "published": "2026-10-26T00:33:36+00:00",
+      "domain": "reddit.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "F-Zero X on Nintendo 3DS",
+      "link": "https://hypnotize.works/gdx-3ds/postmortem/index.html",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50237078\">Comments</a>...",
+      "published": "2026-10-25T23:27:30+00:00",
+      "domain": "hypnotize.works",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -325,90 +325,10 @@
   ],
   "overall_ranked": [
     {
-      "title": "Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers",
-      "link": "https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html",
-      "summary": "A single hacked device on a Tailscale network can be used to gain root access to other servers it can reach, according to a security researcher who published the findings this week.\n\nThe attack requir...",
-      "published": "2026-10-25T23:14:09+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "PHP2Shell Exploitation Hits Government Entity Amid Global Scanning and Signs of AI-Assisted Hacking",
-      "link": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html",
-      "summary": "Threat actors have been observed using agentic artificial intelligence (AI) platforms for post-exploitation activity following the abuse of the PHP2Shell vulnerabilities tracked as CVE-2026-109618 and...",
-      "published": "2026-10-25T22:49:46+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "I don't want to be an spectator",
-      "link": "https://paulocuambe.github.io/posts/spectator/",
-      "summary": "<p>Article URL: <a href=\"https://paulocuambe.github.io/posts/spectator/\">https://paulocuambe.github.io/posts/spectator/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50235689\"...",
-      "published": "2026-10-25T20:21:29+00:00",
-      "domain": "paulocuambe.github.io",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Plan and code review for your agents",
-      "link": "https://plannotator.ai/",
-      "summary": "<p>Article URL: <a href=\"https://plannotator.ai/\">https://plannotator.ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50235688\">https://news.ycombinator.com/item?id=50235688...",
-      "published": "2026-10-25T20:21:22+00:00",
-      "domain": "plannotator.ai",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Website to Markdown \u2013 keyless HTML\u2192clean Markdown for RAG, pay-per-use",
-      "link": "https://apify.com/noniner/website-to-markdown",
-      "summary": "<p>Article URL: <a href=\"https://apify.com/noniner/website-to-markdown\">https://apify.com/noniner/website-to-markdown</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50235676\">h...",
-      "published": "2026-10-25T20:20:04+00:00",
-      "domain": "apify.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: MuscleMemory \u2013 procedural memory for coding agents, proven by tests",
-      "link": "https://github.com/TheWariend/MuscleMemory",
-      "summary": "<p>Article URL: <a href=\"https://github.com/TheWariend/MuscleMemory\">https://github.com/TheWariend/MuscleMemory</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50235670\">https:/...",
-      "published": "2026-10-25T20:19:47+00:00",
+      "title": "Show HN: Nodecode, open-source living agent in Lisp that rewrites itself for you",
+      "link": "https://github.com/nodecode-ai/nodecode",
+      "summary": "<p>Hi HN, we're Mike and Thom.<p>Agents of the future should only have one tool (the interpreter, ideally a LISP eval), nothing more or less; to interact with the world. Agents remember by writing mar...",
+      "published": "2026-10-26T03:30:18+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -421,11 +341,11 @@
       }
     },
     {
-      "title": "A Stackless Floodfill Automaton",
-      "link": "https://t3x.org/files/floodfill.pdf",
-      "summary": "<p>Article URL: <a href=\"https://t3x.org/files/floodfill.pdf\">https://t3x.org/files/floodfill.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50235661\">https://news.ycombina...",
-      "published": "2026-10-25T20:18:57+00:00",
-      "domain": "t3x.org",
+      "title": "PaperPilot \u2013 Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP",
+      "link": "https://github.com/KrushnaVardhanReddy/PaperPilot",
+      "summary": "<p>Article URL: <a href=\"https://github.com/KrushnaVardhanReddy/PaperPilot\">https://github.com/KrushnaVardhanReddy/PaperPilot</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=502...",
+      "published": "2026-10-26T03:29:05+00:00",
+      "domain": "github.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -437,11 +357,11 @@
       }
     },
     {
-      "title": "Eunice is almost here (William Gibson, Agency)",
-      "link": "https://armincat.com/articles/eunice-is-almost-here",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=50235316\">Comments</a>...",
-      "published": "2026-10-25T19:40:27+00:00",
-      "domain": "armincat.com",
+      "title": "Show HN: TitleArt \u2013 Make text like it's 1997",
+      "link": "https://titleart.dvy.io/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50238708\">Comments</a>...",
+      "published": "2026-10-26T03:23:57+00:00",
+      "domain": "titleart.dvy.io",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -453,10 +373,74 @@
       }
     },
     {
-      "title": "LG Smart TVs Caught Mapping Your Network, Logging Audio With Screen Off",
-      "link": "https://www.reddit.com/r/technology/comments/1xf9ssl/lg_smart_tvs_caught_mapping_your_network_logging/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1xf9ssl/lg_smart_tvs_caught_mapping_your_network_logging/\"> <img alt=\"LG Smart TVs Caught Mapping Your Network, Logging Audio Wit...",
-      "published": "2026-10-25T18:26:04+00:00",
+      "title": "Show HN: TitleArt \u2013 Make text like it's 1997",
+      "link": "https://titleart.dvy.io/",
+      "summary": "<p>Article URL: <a href=\"https://titleart.dvy.io/\">https://titleart.dvy.io/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50238708\">https://news.ycombinator.com/item?id=502387...",
+      "published": "2026-10-26T03:23:57+00:00",
+      "domain": "titleart.dvy.io",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Universe and the First Cause",
+      "link": "https://news.ycombinator.com/item?id=50238681",
+      "summary": "<p>Even if the universe had a First Cause, that doesn\u2019t mean it has a Controller. A spark causes a bomb to explode, but the spark isn\u2019t steering the shrapnel afterward.</p>\n<hr />\n<p>Comments URL: <a ...",
+      "published": "2026-10-26T03:20:36+00:00",
+      "domain": "news.ycombinator.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Oseberg Tapestry Fragments",
+      "link": "https://en.wikipedia.org/wiki/Oseberg_tapestry_fragments",
+      "summary": "<p>Article URL: <a href=\"https://en.wikipedia.org/wiki/Oseberg_tapestry_fragments\">https://en.wikipedia.org/wiki/Oseberg_tapestry_fragments</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.c...",
+      "published": "2026-10-26T03:14:49+00:00",
+      "domain": "en.wikipedia.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Removing Next.js Got My Blog to 100 on Every Lighthouse Category",
+      "link": "https://korindiehacker.bloffy.blog/en/removing-nextjs-got-my-blog-to-100-on-every-lighthouse-category",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50237712\">Comments</a>...",
+      "published": "2026-10-26T01:03:39+00:00",
+      "domain": "korindiehacker.bloffy.blog",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Launched in October 2026 at $1,999, Apple\u2019s foldable faces inner display cracks and dust ingress reports across multiple markets",
+      "link": "https://www.reddit.com/r/technology/comments/1xfirmh/launched_in_october_2026_at_1999_apples_foldable/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1xfirmh/launched_in_october_2026_at_1999_apples_foldable/\"> <img alt=\"Launched in October 2026 at $1,999, Apple\u2019s foldable faces ...",
+      "published": "2026-10-26T00:43:17+00:00",
       "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
@@ -469,11 +453,27 @@
       }
     },
     {
-      "title": "Dolly Parton's Imagination Library",
-      "link": "https://imaginationlibrary.com/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=50234474\">Comments</a>...",
-      "published": "2026-10-25T18:23:54+00:00",
-      "domain": "imaginationlibrary.com",
+      "title": "Anthropic's Claude accessed Georgia state vote count data behind paywall",
+      "link": "https://www.reddit.com/r/technology/comments/1xfik09/anthropics_claude_accessed_georgia_state_vote/",
+      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/idkbruh653\"> /u/idkbruh653 </a> <br /> <span><a href=\"https://www.reuters.com/world/us/anthropics-claude-accessed-public-us-state-georgia-...",
+      "published": "2026-10-26T00:33:36+00:00",
+      "domain": "reddit.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "F-Zero X on Nintendo 3DS",
+      "link": "https://hypnotize.works/gdx-3ds/postmortem/index.html",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50237078\">Comments</a>...",
+      "published": "2026-10-25T23:27:30+00:00",
+      "domain": "hypnotize.works",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -487,90 +487,10 @@
   ],
   "all_articles": [
     {
-      "title": "Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers",
-      "link": "https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html",
-      "summary": "A single hacked device on a Tailscale network can be used to gain root access to other servers it can reach, according to a security researcher who published the findings this week.\n\nThe attack requir...",
-      "published": "2026-10-25T23:14:09+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "PHP2Shell Exploitation Hits Government Entity Amid Global Scanning and Signs of AI-Assisted Hacking",
-      "link": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html",
-      "summary": "Threat actors have been observed using agentic artificial intelligence (AI) platforms for post-exploitation activity following the abuse of the PHP2Shell vulnerabilities tracked as CVE-2026-109618 and...",
-      "published": "2026-10-25T22:49:46+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "I don't want to be an spectator",
-      "link": "https://paulocuambe.github.io/posts/spectator/",
-      "summary": "<p>Article URL: <a href=\"https://paulocuambe.github.io/posts/spectator/\">https://paulocuambe.github.io/posts/spectator/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50235689\"...",
-      "published": "2026-10-25T20:21:29+00:00",
-      "domain": "paulocuambe.github.io",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Plan and code review for your agents",
-      "link": "https://plannotator.ai/",
-      "summary": "<p>Article URL: <a href=\"https://plannotator.ai/\">https://plannotator.ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50235688\">https://news.ycombinator.com/item?id=50235688...",
-      "published": "2026-10-25T20:21:22+00:00",
-      "domain": "plannotator.ai",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Website to Markdown \u2013 keyless HTML\u2192clean Markdown for RAG, pay-per-use",
-      "link": "https://apify.com/noniner/website-to-markdown",
-      "summary": "<p>Article URL: <a href=\"https://apify.com/noniner/website-to-markdown\">https://apify.com/noniner/website-to-markdown</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50235676\">h...",
-      "published": "2026-10-25T20:20:04+00:00",
-      "domain": "apify.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: MuscleMemory \u2013 procedural memory for coding agents, proven by tests",
-      "link": "https://github.com/TheWariend/MuscleMemory",
-      "summary": "<p>Article URL: <a href=\"https://github.com/TheWariend/MuscleMemory\">https://github.com/TheWariend/MuscleMemory</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50235670\">https:/...",
-      "published": "2026-10-25T20:19:47+00:00",
+      "title": "Show HN: Nodecode, open-source living agent in Lisp that rewrites itself for you",
+      "link": "https://github.com/nodecode-ai/nodecode",
+      "summary": "<p>Hi HN, we're Mike and Thom.<p>Agents of the future should only have one tool (the interpreter, ideally a LISP eval), nothing more or less; to interact with the world. Agents remember by writing mar...",
+      "published": "2026-10-26T03:30:18+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -583,11 +503,11 @@
       }
     },
     {
-      "title": "A Stackless Floodfill Automaton",
-      "link": "https://t3x.org/files/floodfill.pdf",
-      "summary": "<p>Article URL: <a href=\"https://t3x.org/files/floodfill.pdf\">https://t3x.org/files/floodfill.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50235661\">https://news.ycombina...",
-      "published": "2026-10-25T20:18:57+00:00",
-      "domain": "t3x.org",
+      "title": "PaperPilot \u2013 Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP",
+      "link": "https://github.com/KrushnaVardhanReddy/PaperPilot",
+      "summary": "<p>Article URL: <a href=\"https://github.com/KrushnaVardhanReddy/PaperPilot\">https://github.com/KrushnaVardhanReddy/PaperPilot</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=502...",
+      "published": "2026-10-26T03:29:05+00:00",
+      "domain": "github.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -599,11 +519,11 @@
       }
     },
     {
-      "title": "Eunice is almost here (William Gibson, Agency)",
-      "link": "https://armincat.com/articles/eunice-is-almost-here",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=50235316\">Comments</a>...",
-      "published": "2026-10-25T19:40:27+00:00",
-      "domain": "armincat.com",
+      "title": "Show HN: TitleArt \u2013 Make text like it's 1997",
+      "link": "https://titleart.dvy.io/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50238708\">Comments</a>...",
+      "published": "2026-10-26T03:23:57+00:00",
+      "domain": "titleart.dvy.io",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -615,10 +535,74 @@
       }
     },
     {
-      "title": "LG Smart TVs Caught Mapping Your Network, Logging Audio With Screen Off",
-      "link": "https://www.reddit.com/r/technology/comments/1xf9ssl/lg_smart_tvs_caught_mapping_your_network_logging/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1xf9ssl/lg_smart_tvs_caught_mapping_your_network_logging/\"> <img alt=\"LG Smart TVs Caught Mapping Your Network, Logging Audio Wit...",
-      "published": "2026-10-25T18:26:04+00:00",
+      "title": "Show HN: TitleArt \u2013 Make text like it's 1997",
+      "link": "https://titleart.dvy.io/",
+      "summary": "<p>Article URL: <a href=\"https://titleart.dvy.io/\">https://titleart.dvy.io/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50238708\">https://news.ycombinator.com/item?id=502387...",
+      "published": "2026-10-26T03:23:57+00:00",
+      "domain": "titleart.dvy.io",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Universe and the First Cause",
+      "link": "https://news.ycombinator.com/item?id=50238681",
+      "summary": "<p>Even if the universe had a First Cause, that doesn\u2019t mean it has a Controller. A spark causes a bomb to explode, but the spark isn\u2019t steering the shrapnel afterward.</p>\n<hr />\n<p>Comments URL: <a ...",
+      "published": "2026-10-26T03:20:36+00:00",
+      "domain": "news.ycombinator.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Oseberg Tapestry Fragments",
+      "link": "https://en.wikipedia.org/wiki/Oseberg_tapestry_fragments",
+      "summary": "<p>Article URL: <a href=\"https://en.wikipedia.org/wiki/Oseberg_tapestry_fragments\">https://en.wikipedia.org/wiki/Oseberg_tapestry_fragments</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.c...",
+      "published": "2026-10-26T03:14:49+00:00",
+      "domain": "en.wikipedia.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Removing Next.js Got My Blog to 100 on Every Lighthouse Category",
+      "link": "https://korindiehacker.bloffy.blog/en/removing-nextjs-got-my-blog-to-100-on-every-lighthouse-category",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50237712\">Comments</a>...",
+      "published": "2026-10-26T01:03:39+00:00",
+      "domain": "korindiehacker.bloffy.blog",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Launched in October 2026 at $1,999, Apple\u2019s foldable faces inner display cracks and dust ingress reports across multiple markets",
+      "link": "https://www.reddit.com/r/technology/comments/1xfirmh/launched_in_october_2026_at_1999_apples_foldable/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1xfirmh/launched_in_october_2026_at_1999_apples_foldable/\"> <img alt=\"Launched in October 2026 at $1,999, Apple\u2019s foldable faces ...",
+      "published": "2026-10-26T00:43:17+00:00",
       "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
@@ -631,11 +615,27 @@
       }
     },
     {
-      "title": "Dolly Parton's Imagination Library",
-      "link": "https://imaginationlibrary.com/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=50234474\">Comments</a>...",
-      "published": "2026-10-25T18:23:54+00:00",
-      "domain": "imaginationlibrary.com",
+      "title": "Anthropic's Claude accessed Georgia state vote count data behind paywall",
+      "link": "https://www.reddit.com/r/technology/comments/1xfik09/anthropics_claude_accessed_georgia_state_vote/",
+      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/idkbruh653\"> /u/idkbruh653 </a> <br /> <span><a href=\"https://www.reuters.com/world/us/anthropics-claude-accessed-public-us-state-georgia-...",
+      "published": "2026-10-26T00:33:36+00:00",
+      "domain": "reddit.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "F-Zero X on Nintendo 3DS",
+      "link": "https://hypnotize.works/gdx-3ds/postmortem/index.html",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50237078\">Comments</a>...",
+      "published": "2026-10-25T23:27:30+00:00",
+      "domain": "hypnotize.works",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,

@@ -16,15 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers
-- **Published**: October 25, 2026
-- **Summary**: A single hacked device on a Tailscale network can be used to gain root access to other servers it can reach, according to a security researcher who pu...
-- [Read more](https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html)
+### Show HN: Nodecode, open-source living agent in Lisp that rewrites itself for you
+- **Published**: October 26, 2026
+- **Summary**: <p>Hi HN, we're Mike and Thom.<p>Agents of the future should only have one tool (the interpreter, ideally a LISP eval), nothing more or less; to inter...
+- [Read more](https://github.com/nodecode-ai/nodecode)
 
-### PHP2Shell Exploitation Hits Government Entity Amid Global Scanning and Signs of AI-Assisted Hacking
-- **Published**: October 25, 2026
-- **Summary**: Threat actors have been observed using agentic artificial intelligence (AI) platforms for post-exploitation activity following the abuse of the PHP2Sh...
-- [Read more](https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html)
+### PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP
+- **Published**: October 26, 2026
+- **Summary**: https://github.com/KrushnaVardhanReddy/PaperPilot</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=502......
+- [Read more](https://github.com/KrushnaVardhanReddy/PaperPilot)
 
 ---
 
