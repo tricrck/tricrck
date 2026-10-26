@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Show HN: Nodecode, open-source living agent in Lisp that rewrites itself for you
+### Between alerts: What Attackers Do in the Spaces Ordinary Detection Misses
 - **Published**: October 26, 2026
-- **Summary**: <p>Hi HN, we're Mike and Thom.<p>Agents of the future should only have one tool (the interpreter, ideally a LISP eval), nothing more or less; to inter...
-- [Read more](https://github.com/nodecode-ai/nodecode)
+- **Summary**: Every SOC struggles with a pile of alerts. Very few of those alerts explain how an attack started or how it progressed. Network data, like that from a...
+- [Read more](https://thehackernews.com/2026/10/between-alerts-what-attackers-do-in.html)
 
-### PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP
+### uCreator Android Spyware Can Steal Telegram 2FA Passwords and Clone WeChat Accounts
 - **Published**: October 26, 2026
-- **Summary**: https://github.com/KrushnaVardhanReddy/PaperPilot</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=502......
-- [Read more](https://github.com/KrushnaVardhanReddy/PaperPilot)
+- **Summary**: A rentable Android spyware kit called uCreator takes over Telegram and WeChat accounts by hiding its code inside working copies of the two apps, resea...
+- [Read more](https://thehackernews.com/2026/10/ucreator-android-spyware-can-steal.html)
 
 ---
 
