@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Create and edit images with a collection of easy-to-use AI tools
+### Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses
 - **Published**: October 27, 2026
-- **Summary**: https://www.picttool.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50254470">https://news.ycombinator.com/item?id=5025.....
-- [Read more](https://www.picttool.com/)
+- **Summary**: The Computer Emergency Response Team of Ukraine (CERT-UA) has issued an alert warning of unauthorized remote access to video surveillance systems manu...
+- **Keywords**: emergency
+- [Read more](https://thehackernews.com/2026/10/attackers-hijack-dahua-ip-cameras-in.html)
 
-### Inside Real-Time Systems
+### Australia Gets Into Amadey Malware Backend, Cuts Off Access to 180,000 Infected Computers
 - **Published**: October 27, 2026
-- **Summary**: https://kothariji.in/talks/real-time-systems/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50254454">h......
-- [Read more](https://kothariji.in/talks/real-time-systems/)
+- **Summary**: A criminal using the Amadey malware can no longer access or steal data from 180,000 infected computers around the world, including some in Australia, ...
+- [Read more](https://thehackernews.com/2026/10/australia-gets-into-amadey-malware.html)
 
 ---
 
