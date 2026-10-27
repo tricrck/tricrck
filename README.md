@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### GoAhead TLS Flaws Allow Revoked Client Certificates and Enable Session Decryption
+### Survival LLM: AI assistant and emergency library that runs on your own computer
 - **Published**: October 27, 2026
-- **Summary**: The GoAhead embedded web server loaded a certificate revocation list into its default TLS backend but never turned revocation checking on, so a revoke...
-- [Read more](https://thehackernews.com/2026/10/goahead-tls-flaws-allow-revoked-client.html)
+- **Summary**: ......
+- **Keywords**: emergency
+- [Read more](https://www.brangus.io/survival-llm)
 
-### Apple Backports Fix for Exploited CoreGraphics Flaw to Older iPhones and iPads
+### CyberStrikeAI Uses 44 AI Agents to Automate Hacking Operations Against Japan Targets
 - **Published**: October 27, 2026
-- **Summary**: Apple on Monday backported fixes for a high-severity security flaw that was exploited in real-world cyber attacks to older devices.
-
-The vulnerability...
-- [Read more](https://thehackernews.com/2026/10/apple-backports-fix-for-exploited.html)
+- **Summary**: Cybersecurity researchers have disclosed details of three cyber attacks targeting organizations in Japan in which artificial intelligence (AI) was a k...
+- [Read more](https://thehackernews.com/2026/10/cyberstrikeai-uses-44-ai-agents-to.html)
 
 ---
 
