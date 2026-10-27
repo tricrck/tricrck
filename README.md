@@ -16,17 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Hackers Infect 953 Online Stores With Scanner-Evading JavaScript, Mostly on Magento
-- **Published**: October 26, 2026
-- **Summary**: An unknown threat actor has infected 953 online stores, most of them running Magento, as part of a long-running campaign active since July 2025.
+### Create and edit images with a collection of easy-to-use AI tools
+- **Published**: October 27, 2026
+- **Summary**: https://www.picttool.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50254470">https://news.ycombinator.com/item?id=5025.....
+- [Read more](https://www.picttool.com/)
 
-Acco...
-- [Read more](https://thehackernews.com/2026/10/hackers-infect-953-online-stores-with.html)
-
-### PHP Issues Second Windows Security Update in Five Days to Fix Brotli Code Execution Flaw
-- **Published**: October 26, 2026
-- **Summary**: PHP has rebuilt its official Windows packages for PHP 8.2 through 8.5 to fix CVE-2026-111497, a flaw in the Brotli compression library that the packag...
-- [Read more](https://thehackernews.com/2026/10/php-issues-second-windows-security.html)
+### Inside Real-Time Systems
+- **Published**: October 27, 2026
+- **Summary**: https://kothariji.in/talks/real-time-systems/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50254454">h......
+- [Read more](https://kothariji.in/talks/real-time-systems/)
 
 ---
 
