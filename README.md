@@ -16,16 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses
+### GoAhead TLS Flaws Allow Revoked Client Certificates and Enable Session Decryption
 - **Published**: October 27, 2026
-- **Summary**: The Computer Emergency Response Team of Ukraine (CERT-UA) has issued an alert warning of unauthorized remote access to video surveillance systems manu...
-- **Keywords**: emergency
-- [Read more](https://thehackernews.com/2026/10/attackers-hijack-dahua-ip-cameras-in.html)
+- **Summary**: The GoAhead embedded web server loaded a certificate revocation list into its default TLS backend but never turned revocation checking on, so a revoke...
+- [Read more](https://thehackernews.com/2026/10/goahead-tls-flaws-allow-revoked-client.html)
 
-### Australia Gets Into Amadey Malware Backend, Cuts Off Access to 180,000 Infected Computers
+### Apple Backports Fix for Exploited CoreGraphics Flaw to Older iPhones and iPads
 - **Published**: October 27, 2026
-- **Summary**: A criminal using the Amadey malware can no longer access or steal data from 180,000 infected computers around the world, including some in Australia, ...
-- [Read more](https://thehackernews.com/2026/10/australia-gets-into-amadey-malware.html)
+- **Summary**: Apple on Monday backported fixes for a high-severity security flaw that was exploited in real-world cyber attacks to older devices.
+
+The vulnerability...
+- [Read more](https://thehackernews.com/2026/10/apple-backports-fix-for-exploited.html)
 
 ---
 
