@@ -16,16 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Survival LLM: AI assistant and emergency library that runs on your own computer
-- **Published**: October 27, 2026
-- **Summary**: ......
-- **Keywords**: emergency
-- [Read more](https://www.brangus.io/survival-llm)
+### Block's new voice model sounds eerily human
+- **Published**: October 28, 2026
+- **Summary**: https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/</a></p>
+<p>Comment......
+- [Read more](https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/)
 
-### CyberStrikeAI Uses 44 AI Agents to Automate Hacking Operations Against Japan Targets
-- **Published**: October 27, 2026
-- **Summary**: Cybersecurity researchers have disclosed details of three cyber attacks targeting organizations in Japan in which artificial intelligence (AI) was a k...
-- [Read more](https://thehackernews.com/2026/10/cyberstrikeai-uses-44-ai-agents-to.html)
+### Show HN: OpenMontage Drama Studio – self-hosted AI studio for short dramas
+- **Published**: October 28, 2026
+- **Summary**: https://github.com/charliewwdev/OpenMontage</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50269283">https......
+- [Read more](https://github.com/charliewwdev/OpenMontage)
 
 ---
 
