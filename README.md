@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Adobe Fixes 8 Critical Campaign Classic Flaws Allowing Code Execution and Security Bypass
+### Volt Typhoon Used Covert Silent Train Network in Four Zero-Day Exploitation Campaigns
 - **Published**: October 28, 2026
-- **Summary**: Adobe has released patches to address multiple critical security flaws in Campaign Classic that, if successfully exploited, could result in arbitrary ...
-- [Read more](https://thehackernews.com/2026/10/adobe-fixes-8-critical-campaign-classic.html)
+- **Summary**: The China-nexus cyber espionage group known as Volt Typhoon has been attributed to a now-disrupted covert access network dubbed Silent Train that has ...
+- [Read more](https://thehackernews.com/2026/10/volt-typhoon-used-covert-silent-train.html)
 
-### American Organizations Under Attack: Skyw4lker Device Code Phishing Campaign Exposed
+### Google to Allow One-Tap Android App Installs From Approved Third-Party Stores Outside U.S.
 - **Published**: October 28, 2026
-- **Summary**: Modern phishing campaigns can compromise American businesses without relying on traditional credential theft. Attackers can abuse legitimate cloud ser...
-- [Read more](https://thehackernews.com/2026/10/american-organizations-under-attack.html)
+- **Summary**: Third-party Android app stores can now apply to Google for permission to install apps with one tap, without Android's usual confirmation screens, and ...
+- [Read more](https://thehackernews.com/2026/10/google-to-allow-one-tap-android-app.html)
 
 ---
 
