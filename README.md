@@ -16,17 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Block's new voice model sounds eerily human
+### Adobe Fixes 8 Critical Campaign Classic Flaws Allowing Code Execution and Security Bypass
 - **Published**: October 28, 2026
-- **Summary**: https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/</a></p>
-<p>Comment......
-- [Read more](https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/)
+- **Summary**: Adobe has released patches to address multiple critical security flaws in Campaign Classic that, if successfully exploited, could result in arbitrary ...
+- [Read more](https://thehackernews.com/2026/10/adobe-fixes-8-critical-campaign-classic.html)
 
-### Show HN: OpenMontage Drama Studio – self-hosted AI studio for short dramas
+### American Organizations Under Attack: Skyw4lker Device Code Phishing Campaign Exposed
 - **Published**: October 28, 2026
-- **Summary**: https://github.com/charliewwdev/OpenMontage</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50269283">https......
-- [Read more](https://github.com/charliewwdev/OpenMontage)
+- **Summary**: Modern phishing campaigns can compromise American businesses without relying on traditional credential theft. Attackers can abuse legitimate cloud ser...
+- [Read more](https://thehackernews.com/2026/10/american-organizations-under-attack.html)
 
 ---
 
