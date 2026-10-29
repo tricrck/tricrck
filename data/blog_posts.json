@@ -1,138 +1,28 @@
 {
   "chaos_ranked": [
     {
-      "title": "Ultrasound creates a tube that guides matter through the air",
-      "link": "https://www.helsinki.fi/en/news/energy/ultrasound-creates-tube-guides-matter-through-air",
-      "summary": "<p>Article URL: <a href=\"https://www.helsinki.fi/en/news/energy/ultrasound-creates-tube-guides-matter-through-air\">https://www.helsinki.fi/en/news/energy/ultrasound-creates-tube-guides-matter-through-...",
-      "published": "2026-10-29T04:27:34+00:00",
-      "domain": "helsinki.fi",
+      "title": "Cisco Patches Actively Exploited ASA and FTD VPN Flaw That Can Crash Firewalls",
+      "link": "https://thehackernews.com/2026/10/cisco-patches-actively-exploited-asa.html",
+      "summary": "Cisco has released patches to address a high-severity security flaw in Secure Firewall Adaptive Security Appliance (ASA) Software and Secure Firewall Threat Defense (FTD) Software that it said has bee...",
+      "published": "2026-10-29T16:14:46+05:30",
+      "domain": "thehackernews.com",
       "scores": {
-        "chaos": 3.0,
+        "chaos": 15.7,
         "anarchy": 3.0,
-        "overall": 3.0
+        "overall": 9.4
       },
       "keywords": {
-        "chaos": [],
+        "chaos": [
+          "crash"
+        ],
         "anarchy": []
       }
     },
     {
-      "title": "NLnet Publishes More Stringent Generative AI Policy",
-      "link": "https://nlnet.nl/news/2026/20261020-AI-policy.html",
-      "summary": "<p>Article URL: <a href=\"https://nlnet.nl/news/2026/20261020-AI-policy.html\">https://nlnet.nl/news/2026/20261020-AI-policy.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=5...",
-      "published": "2026-10-29T04:23:02+00:00",
-      "domain": "nlnet.nl",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "This image will get blurrier everytime someone sees it & be gone after 10 views",
-      "link": "https://joinfaded.com/post/8eb37c53-e278-41d0-be45-20574429467a",
-      "summary": "<p>Article URL: <a href=\"https://joinfaded.com/post/8eb37c53-e278-41d0-be45-20574429467a\">https://joinfaded.com/post/8eb37c53-e278-41d0-be45-20574429467a</a></p>\n<p>Comments URL: <a href=\"https://news...",
-      "published": "2026-10-29T04:20:14+00:00",
-      "domain": "joinfaded.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "1,053,690 answers show that the current AEO landscape is bullshit [pdf]",
-      "link": "https://manicule.com/research/manicule-prompt-tracking-methodology.pdf",
-      "summary": "<p>Article URL: <a href=\"https://manicule.com/research/manicule-prompt-tracking-methodology.pdf\">https://manicule.com/research/manicule-prompt-tracking-methodology.pdf</a></p>\n<p>Comments URL: <a href...",
-      "published": "2026-10-29T04:19:28+00:00",
-      "domain": "manicule.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Run custom connectors without a Fivetran account",
-      "link": "https://fivetran.com/docs/connector-sdk/testing/write-to-iceberg-catalog",
-      "summary": "<p>Article URL: <a href=\"https://fivetran.com/docs/connector-sdk/testing/write-to-iceberg-catalog\">https://fivetran.com/docs/connector-sdk/testing/write-to-iceberg-catalog</a></p>\n<p>Comments URL: <a ...",
-      "published": "2026-10-29T04:18:04+00:00",
-      "domain": "fivetran.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Claude Code burns ~15\u201320% of your tokens on a 3-word status line",
-      "link": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=50284255\">Comments</a>...",
-      "published": "2026-10-29T03:33:42+00:00",
-      "domain": "gist.github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
-      "link": "https://divagr.com/blog/qwenputer",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=50282838\">Comments</a>...",
-      "published": "2026-10-29T00:25:45+00:00",
-      "domain": "divagr.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
-      "link": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=50282544\">Comments</a>...",
-      "published": "2026-10-28T23:45:46+00:00",
-      "domain": "alpinelinux.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Volt Typhoon Used Covert Silent Train Network in Four Zero-Day Exploitation Campaigns",
-      "link": "https://thehackernews.com/2026/10/volt-typhoon-used-covert-silent-train.html",
-      "summary": "The China-nexus cyber espionage group known as Volt Typhoon has been attributed to a now-disrupted covert access network dubbed Silent Train that has been put to use for zero-day exploitation and stra...",
-      "published": "2026-10-28T23:38:33+05:30",
+      "title": "Webinar: How to Build AI Threat Readiness Into Your Security Operations",
+      "link": "https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html",
+      "summary": "Security teams have spent years trying to detect threats faster. AI is changing the harder part: how much time defenders have left to act.\n\nAdvanced AI models can now help attackers discover vulnerabi...",
+      "published": "2026-10-29T17:09:41+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -145,11 +35,123 @@
       }
     },
     {
-      "title": "$100M Underwater Data Center Proposed Off Maine \u2013 In the Middle of Endangered Whale Habitat",
-      "link": "https://www.reddit.com/r/technology/comments/1xi444v/100m_underwater_data_center_proposed_off_maine_in/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1xi444v/100m_underwater_data_center_proposed_off_maine_in/\"> <img alt=\"$100M Underwater Data Center Proposed Off Maine \u2013 In the M...",
-      "published": "2026-10-28T23:30:32+00:00",
-      "domain": "reddit.com",
+      "title": "Telegram Android Flaw Lets Attackers Run Code When Users Answer Voice Calls",
+      "link": "https://thehackernews.com/2026/10/telegram-android-flaw-lets-attackers.html",
+      "summary": "A flaw in Telegram for Android allowed an attacker to run code on a victim's phone via a voice call once the victim answered, according to security startup NebuSec.\n\nThe attacker needed only an ordina...",
+      "published": "2026-10-29T17:09:18+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The Rise of the Threat Operator: How AI Will Redefine Security Operations and Careers",
+      "link": "https://thehackernews.com/2026/10/the-rise-of-threat-operator-how-ai-will.html",
+      "summary": "AI is beginning to take over much of the work that has traditionally defined the security analyst's job. Investigating alerts, collecting evidence, correlating activity across tools, and executing res...",
+      "published": "2026-10-29T17:03:41+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "26,400 Valid Cloud and AI Credentials Found Exposed in Public Gitee Repositories",
+      "link": "https://thehackernews.com/2026/10/26400-valid-cloud-and-ai-credentials.html",
+      "summary": "26,400 credentials that developers left in public code on Gitee, a Chinese code-hosting service, still worked when a researcher tested them. Anyone who copied one from that code could have used it.\n\nI...",
+      "published": "2026-10-29T17:03:15+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Russian and East European Posters",
+      "link": "https://digital-collections.princeton.edu/collections/soviet_posters",
+      "summary": "<p>Article URL: <a href=\"https://digital-collections.princeton.edu/collections/soviet_posters\">https://digital-collections.princeton.edu/collections/soviet_posters</a></p>\n<p>Comments URL: <a href=\"ht...",
+      "published": "2026-10-29T12:17:43+00:00",
+      "domain": "digital-collections.princeton.edu",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "GSC Magic \u2013 Ask Claude or ChatGPT about Your Search Console Data",
+      "link": "https://gscmagic.com/",
+      "summary": "<p>Article URL: <a href=\"https://gscmagic.com/\">https://gscmagic.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50287753\">https://news.ycombinator.com/item?id=50287753</a>...",
+      "published": "2026-10-29T12:16:03+00:00",
+      "domain": "gscmagic.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Game to Learn Python Programming",
+      "link": "https://algocademy.com/play/booly/",
+      "summary": "<p>A gamified mini course that teaches python and programming thinking.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50287752\">https://news.ycombinator.com/item?id=5028775...",
+      "published": "2026-10-29T12:15:57+00:00",
+      "domain": "algocademy.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Ask HN: Why does meta suck at creating a good LLM?",
+      "link": "https://news.ycombinator.com/item?id=50287747",
+      "summary": "<p>My LLM experience is frontier models in a group chat for the best outcome. I recently added muse wonder and removed it after a few hours of use. I'd even use deepseek flash over muse for literally ...",
+      "published": "2026-10-29T12:15:21+00:00",
+      "domain": "news.ycombinator.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "What Drives AI Citations? FAQ isn't what drives ChatGPT citations",
+      "link": "https://arxiv.org/abs/2610.15033",
+      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2610.15033\">https://arxiv.org/abs/2610.15033</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50287741\">https://news.ycombinator.co...",
+      "published": "2026-10-29T12:14:17+00:00",
+      "domain": "arxiv.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -163,138 +165,10 @@
   ],
   "anarchy_ranked": [
     {
-      "title": "Ultrasound creates a tube that guides matter through the air",
-      "link": "https://www.helsinki.fi/en/news/energy/ultrasound-creates-tube-guides-matter-through-air",
-      "summary": "<p>Article URL: <a href=\"https://www.helsinki.fi/en/news/energy/ultrasound-creates-tube-guides-matter-through-air\">https://www.helsinki.fi/en/news/energy/ultrasound-creates-tube-guides-matter-through-...",
-      "published": "2026-10-29T04:27:34+00:00",
-      "domain": "helsinki.fi",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "NLnet Publishes More Stringent Generative AI Policy",
-      "link": "https://nlnet.nl/news/2026/20261020-AI-policy.html",
-      "summary": "<p>Article URL: <a href=\"https://nlnet.nl/news/2026/20261020-AI-policy.html\">https://nlnet.nl/news/2026/20261020-AI-policy.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=5...",
-      "published": "2026-10-29T04:23:02+00:00",
-      "domain": "nlnet.nl",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "This image will get blurrier everytime someone sees it & be gone after 10 views",
-      "link": "https://joinfaded.com/post/8eb37c53-e278-41d0-be45-20574429467a",
-      "summary": "<p>Article URL: <a href=\"https://joinfaded.com/post/8eb37c53-e278-41d0-be45-20574429467a\">https://joinfaded.com/post/8eb37c53-e278-41d0-be45-20574429467a</a></p>\n<p>Comments URL: <a href=\"https://news...",
-      "published": "2026-10-29T04:20:14+00:00",
-      "domain": "joinfaded.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "1,053,690 answers show that the current AEO landscape is bullshit [pdf]",
-      "link": "https://manicule.com/research/manicule-prompt-tracking-methodology.pdf",
-      "summary": "<p>Article URL: <a href=\"https://manicule.com/research/manicule-prompt-tracking-methodology.pdf\">https://manicule.com/research/manicule-prompt-tracking-methodology.pdf</a></p>\n<p>Comments URL: <a href...",
-      "published": "2026-10-29T04:19:28+00:00",
-      "domain": "manicule.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Run custom connectors without a Fivetran account",
-      "link": "https://fivetran.com/docs/connector-sdk/testing/write-to-iceberg-catalog",
-      "summary": "<p>Article URL: <a href=\"https://fivetran.com/docs/connector-sdk/testing/write-to-iceberg-catalog\">https://fivetran.com/docs/connector-sdk/testing/write-to-iceberg-catalog</a></p>\n<p>Comments URL: <a ...",
-      "published": "2026-10-29T04:18:04+00:00",
-      "domain": "fivetran.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Claude Code burns ~15\u201320% of your tokens on a 3-word status line",
-      "link": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=50284255\">Comments</a>...",
-      "published": "2026-10-29T03:33:42+00:00",
-      "domain": "gist.github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
-      "link": "https://divagr.com/blog/qwenputer",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=50282838\">Comments</a>...",
-      "published": "2026-10-29T00:25:45+00:00",
-      "domain": "divagr.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
-      "link": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=50282544\">Comments</a>...",
-      "published": "2026-10-28T23:45:46+00:00",
-      "domain": "alpinelinux.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Volt Typhoon Used Covert Silent Train Network in Four Zero-Day Exploitation Campaigns",
-      "link": "https://thehackernews.com/2026/10/volt-typhoon-used-covert-silent-train.html",
-      "summary": "The China-nexus cyber espionage group known as Volt Typhoon has been attributed to a now-disrupted covert access network dubbed Silent Train that has been put to use for zero-day exploitation and stra...",
-      "published": "2026-10-28T23:38:33+05:30",
+      "title": "Webinar: How to Build AI Threat Readiness Into Your Security Operations",
+      "link": "https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html",
+      "summary": "Security teams have spent years trying to detect threats faster. AI is changing the harder part: how much time defenders have left to act.\n\nAdvanced AI models can now help attackers discover vulnerabi...",
+      "published": "2026-10-29T17:09:41+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -307,11 +181,141 @@
       }
     },
     {
-      "title": "$100M Underwater Data Center Proposed Off Maine \u2013 In the Middle of Endangered Whale Habitat",
-      "link": "https://www.reddit.com/r/technology/comments/1xi444v/100m_underwater_data_center_proposed_off_maine_in/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1xi444v/100m_underwater_data_center_proposed_off_maine_in/\"> <img alt=\"$100M Underwater Data Center Proposed Off Maine \u2013 In the M...",
-      "published": "2026-10-28T23:30:32+00:00",
-      "domain": "reddit.com",
+      "title": "Telegram Android Flaw Lets Attackers Run Code When Users Answer Voice Calls",
+      "link": "https://thehackernews.com/2026/10/telegram-android-flaw-lets-attackers.html",
+      "summary": "A flaw in Telegram for Android allowed an attacker to run code on a victim's phone via a voice call once the victim answered, according to security startup NebuSec.\n\nThe attacker needed only an ordina...",
+      "published": "2026-10-29T17:09:18+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The Rise of the Threat Operator: How AI Will Redefine Security Operations and Careers",
+      "link": "https://thehackernews.com/2026/10/the-rise-of-threat-operator-how-ai-will.html",
+      "summary": "AI is beginning to take over much of the work that has traditionally defined the security analyst's job. Investigating alerts, collecting evidence, correlating activity across tools, and executing res...",
+      "published": "2026-10-29T17:03:41+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "26,400 Valid Cloud and AI Credentials Found Exposed in Public Gitee Repositories",
+      "link": "https://thehackernews.com/2026/10/26400-valid-cloud-and-ai-credentials.html",
+      "summary": "26,400 credentials that developers left in public code on Gitee, a Chinese code-hosting service, still worked when a researcher tested them. Anyone who copied one from that code could have used it.\n\nI...",
+      "published": "2026-10-29T17:03:15+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Cisco Patches Actively Exploited ASA and FTD VPN Flaw That Can Crash Firewalls",
+      "link": "https://thehackernews.com/2026/10/cisco-patches-actively-exploited-asa.html",
+      "summary": "Cisco has released patches to address a high-severity security flaw in Secure Firewall Adaptive Security Appliance (ASA) Software and Secure Firewall Threat Defense (FTD) Software that it said has bee...",
+      "published": "2026-10-29T16:14:46+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 15.7,
+        "anarchy": 3.0,
+        "overall": 9.4
+      },
+      "keywords": {
+        "chaos": [
+          "crash"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Russian and East European Posters",
+      "link": "https://digital-collections.princeton.edu/collections/soviet_posters",
+      "summary": "<p>Article URL: <a href=\"https://digital-collections.princeton.edu/collections/soviet_posters\">https://digital-collections.princeton.edu/collections/soviet_posters</a></p>\n<p>Comments URL: <a href=\"ht...",
+      "published": "2026-10-29T12:17:43+00:00",
+      "domain": "digital-collections.princeton.edu",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "GSC Magic \u2013 Ask Claude or ChatGPT about Your Search Console Data",
+      "link": "https://gscmagic.com/",
+      "summary": "<p>Article URL: <a href=\"https://gscmagic.com/\">https://gscmagic.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50287753\">https://news.ycombinator.com/item?id=50287753</a>...",
+      "published": "2026-10-29T12:16:03+00:00",
+      "domain": "gscmagic.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Game to Learn Python Programming",
+      "link": "https://algocademy.com/play/booly/",
+      "summary": "<p>A gamified mini course that teaches python and programming thinking.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50287752\">https://news.ycombinator.com/item?id=5028775...",
+      "published": "2026-10-29T12:15:57+00:00",
+      "domain": "algocademy.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Ask HN: Why does meta suck at creating a good LLM?",
+      "link": "https://news.ycombinator.com/item?id=50287747",
+      "summary": "<p>My LLM experience is frontier models in a group chat for the best outcome. I recently added muse wonder and removed it after a few hours of use. I'd even use deepseek flash over muse for literally ...",
+      "published": "2026-10-29T12:15:21+00:00",
+      "domain": "news.ycombinator.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "What Drives AI Citations? FAQ isn't what drives ChatGPT citations",
+      "link": "https://arxiv.org/abs/2610.15033",
+      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2610.15033\">https://arxiv.org/abs/2610.15033</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50287741\">https://news.ycombinator.co...",
+      "published": "2026-10-29T12:14:17+00:00",
+      "domain": "arxiv.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -325,138 +329,28 @@
   ],
   "overall_ranked": [
     {
-      "title": "Ultrasound creates a tube that guides matter through the air",
-      "link": "https://www.helsinki.fi/en/news/energy/ultrasound-creates-tube-guides-matter-through-air",
-      "summary": "<p>Article URL: <a href=\"https://www.helsinki.fi/en/news/energy/ultrasound-creates-tube-guides-matter-through-air\">https://www.helsinki.fi/en/news/energy/ultrasound-creates-tube-guides-matter-through-...",
-      "published": "2026-10-29T04:27:34+00:00",
-      "domain": "helsinki.fi",
+      "title": "Cisco Patches Actively Exploited ASA and FTD VPN Flaw That Can Crash Firewalls",
+      "link": "https://thehackernews.com/2026/10/cisco-patches-actively-exploited-asa.html",
+      "summary": "Cisco has released patches to address a high-severity security flaw in Secure Firewall Adaptive Security Appliance (ASA) Software and Secure Firewall Threat Defense (FTD) Software that it said has bee...",
+      "published": "2026-10-29T16:14:46+05:30",
+      "domain": "thehackernews.com",
       "scores": {
-        "chaos": 3.0,
+        "chaos": 15.7,
         "anarchy": 3.0,
-        "overall": 3.0
+        "overall": 9.4
       },
       "keywords": {
-        "chaos": [],
+        "chaos": [
+          "crash"
+        ],
         "anarchy": []
       }
     },
     {
-      "title": "NLnet Publishes More Stringent Generative AI Policy",
-      "link": "https://nlnet.nl/news/2026/20261020-AI-policy.html",
-      "summary": "<p>Article URL: <a href=\"https://nlnet.nl/news/2026/20261020-AI-policy.html\">https://nlnet.nl/news/2026/20261020-AI-policy.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=5...",
-      "published": "2026-10-29T04:23:02+00:00",
-      "domain": "nlnet.nl",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "This image will get blurrier everytime someone sees it & be gone after 10 views",
-      "link": "https://joinfaded.com/post/8eb37c53-e278-41d0-be45-20574429467a",
-      "summary": "<p>Article URL: <a href=\"https://joinfaded.com/post/8eb37c53-e278-41d0-be45-20574429467a\">https://joinfaded.com/post/8eb37c53-e278-41d0-be45-20574429467a</a></p>\n<p>Comments URL: <a href=\"https://news...",
-      "published": "2026-10-29T04:20:14+00:00",
-      "domain": "joinfaded.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "1,053,690 answers show that the current AEO landscape is bullshit [pdf]",
-      "link": "https://manicule.com/research/manicule-prompt-tracking-methodology.pdf",
-      "summary": "<p>Article URL: <a href=\"https://manicule.com/research/manicule-prompt-tracking-methodology.pdf\">https://manicule.com/research/manicule-prompt-tracking-methodology.pdf</a></p>\n<p>Comments URL: <a href...",
-      "published": "2026-10-29T04:19:28+00:00",
-      "domain": "manicule.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Run custom connectors without a Fivetran account",
-      "link": "https://fivetran.com/docs/connector-sdk/testing/write-to-iceberg-catalog",
-      "summary": "<p>Article URL: <a href=\"https://fivetran.com/docs/connector-sdk/testing/write-to-iceberg-catalog\">https://fivetran.com/docs/connector-sdk/testing/write-to-iceberg-catalog</a></p>\n<p>Comments URL: <a ...",
-      "published": "2026-10-29T04:18:04+00:00",
-      "domain": "fivetran.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Claude Code burns ~15\u201320% of your tokens on a 3-word status line",
-      "link": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=50284255\">Comments</a>...",
-      "published": "2026-10-29T03:33:42+00:00",
-      "domain": "gist.github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
-      "link": "https://divagr.com/blog/qwenputer",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=50282838\">Comments</a>...",
-      "published": "2026-10-29T00:25:45+00:00",
-      "domain": "divagr.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
-      "link": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=50282544\">Comments</a>...",
-      "published": "2026-10-28T23:45:46+00:00",
-      "domain": "alpinelinux.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Volt Typhoon Used Covert Silent Train Network in Four Zero-Day Exploitation Campaigns",
-      "link": "https://thehackernews.com/2026/10/volt-typhoon-used-covert-silent-train.html",
-      "summary": "The China-nexus cyber espionage group known as Volt Typhoon has been attributed to a now-disrupted covert access network dubbed Silent Train that has been put to use for zero-day exploitation and stra...",
-      "published": "2026-10-28T23:38:33+05:30",
+      "title": "Webinar: How to Build AI Threat Readiness Into Your Security Operations",
+      "link": "https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html",
+      "summary": "Security teams have spent years trying to detect threats faster. AI is changing the harder part: how much time defenders have left to act.\n\nAdvanced AI models can now help attackers discover vulnerabi...",
+      "published": "2026-10-29T17:09:41+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -469,11 +363,123 @@
       }
     },
     {
-      "title": "$100M Underwater Data Center Proposed Off Maine \u2013 In the Middle of Endangered Whale Habitat",
-      "link": "https://www.reddit.com/r/technology/comments/1xi444v/100m_underwater_data_center_proposed_off_maine_in/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1xi444v/100m_underwater_data_center_proposed_off_maine_in/\"> <img alt=\"$100M Underwater Data Center Proposed Off Maine \u2013 In the M...",
-      "published": "2026-10-28T23:30:32+00:00",
-      "domain": "reddit.com",
+      "title": "Telegram Android Flaw Lets Attackers Run Code When Users Answer Voice Calls",
+      "link": "https://thehackernews.com/2026/10/telegram-android-flaw-lets-attackers.html",
+      "summary": "A flaw in Telegram for Android allowed an attacker to run code on a victim's phone via a voice call once the victim answered, according to security startup NebuSec.\n\nThe attacker needed only an ordina...",
+      "published": "2026-10-29T17:09:18+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The Rise of the Threat Operator: How AI Will Redefine Security Operations and Careers",
+      "link": "https://thehackernews.com/2026/10/the-rise-of-threat-operator-how-ai-will.html",
+      "summary": "AI is beginning to take over much of the work that has traditionally defined the security analyst's job. Investigating alerts, collecting evidence, correlating activity across tools, and executing res...",
+      "published": "2026-10-29T17:03:41+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "26,400 Valid Cloud and AI Credentials Found Exposed in Public Gitee Repositories",
+      "link": "https://thehackernews.com/2026/10/26400-valid-cloud-and-ai-credentials.html",
+      "summary": "26,400 credentials that developers left in public code on Gitee, a Chinese code-hosting service, still worked when a researcher tested them. Anyone who copied one from that code could have used it.\n\nI...",
+      "published": "2026-10-29T17:03:15+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Russian and East European Posters",
+      "link": "https://digital-collections.princeton.edu/collections/soviet_posters",
+      "summary": "<p>Article URL: <a href=\"https://digital-collections.princeton.edu/collections/soviet_posters\">https://digital-collections.princeton.edu/collections/soviet_posters</a></p>\n<p>Comments URL: <a href=\"ht...",
+      "published": "2026-10-29T12:17:43+00:00",
+      "domain": "digital-collections.princeton.edu",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "GSC Magic \u2013 Ask Claude or ChatGPT about Your Search Console Data",
+      "link": "https://gscmagic.com/",
+      "summary": "<p>Article URL: <a href=\"https://gscmagic.com/\">https://gscmagic.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50287753\">https://news.ycombinator.com/item?id=50287753</a>...",
+      "published": "2026-10-29T12:16:03+00:00",
+      "domain": "gscmagic.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Game to Learn Python Programming",
+      "link": "https://algocademy.com/play/booly/",
+      "summary": "<p>A gamified mini course that teaches python and programming thinking.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50287752\">https://news.ycombinator.com/item?id=5028775...",
+      "published": "2026-10-29T12:15:57+00:00",
+      "domain": "algocademy.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Ask HN: Why does meta suck at creating a good LLM?",
+      "link": "https://news.ycombinator.com/item?id=50287747",
+      "summary": "<p>My LLM experience is frontier models in a group chat for the best outcome. I recently added muse wonder and removed it after a few hours of use. I'd even use deepseek flash over muse for literally ...",
+      "published": "2026-10-29T12:15:21+00:00",
+      "domain": "news.ycombinator.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "What Drives AI Citations? FAQ isn't what drives ChatGPT citations",
+      "link": "https://arxiv.org/abs/2610.15033",
+      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2610.15033\">https://arxiv.org/abs/2610.15033</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50287741\">https://news.ycombinator.co...",
+      "published": "2026-10-29T12:14:17+00:00",
+      "domain": "arxiv.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -487,138 +493,10 @@
   ],
   "all_articles": [
     {
-      "title": "Ultrasound creates a tube that guides matter through the air",
-      "link": "https://www.helsinki.fi/en/news/energy/ultrasound-creates-tube-guides-matter-through-air",
-      "summary": "<p>Article URL: <a href=\"https://www.helsinki.fi/en/news/energy/ultrasound-creates-tube-guides-matter-through-air\">https://www.helsinki.fi/en/news/energy/ultrasound-creates-tube-guides-matter-through-...",
-      "published": "2026-10-29T04:27:34+00:00",
-      "domain": "helsinki.fi",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "NLnet Publishes More Stringent Generative AI Policy",
-      "link": "https://nlnet.nl/news/2026/20261020-AI-policy.html",
-      "summary": "<p>Article URL: <a href=\"https://nlnet.nl/news/2026/20261020-AI-policy.html\">https://nlnet.nl/news/2026/20261020-AI-policy.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=5...",
-      "published": "2026-10-29T04:23:02+00:00",
-      "domain": "nlnet.nl",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "This image will get blurrier everytime someone sees it & be gone after 10 views",
-      "link": "https://joinfaded.com/post/8eb37c53-e278-41d0-be45-20574429467a",
-      "summary": "<p>Article URL: <a href=\"https://joinfaded.com/post/8eb37c53-e278-41d0-be45-20574429467a\">https://joinfaded.com/post/8eb37c53-e278-41d0-be45-20574429467a</a></p>\n<p>Comments URL: <a href=\"https://news...",
-      "published": "2026-10-29T04:20:14+00:00",
-      "domain": "joinfaded.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "1,053,690 answers show that the current AEO landscape is bullshit [pdf]",
-      "link": "https://manicule.com/research/manicule-prompt-tracking-methodology.pdf",
-      "summary": "<p>Article URL: <a href=\"https://manicule.com/research/manicule-prompt-tracking-methodology.pdf\">https://manicule.com/research/manicule-prompt-tracking-methodology.pdf</a></p>\n<p>Comments URL: <a href...",
-      "published": "2026-10-29T04:19:28+00:00",
-      "domain": "manicule.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Run custom connectors without a Fivetran account",
-      "link": "https://fivetran.com/docs/connector-sdk/testing/write-to-iceberg-catalog",
-      "summary": "<p>Article URL: <a href=\"https://fivetran.com/docs/connector-sdk/testing/write-to-iceberg-catalog\">https://fivetran.com/docs/connector-sdk/testing/write-to-iceberg-catalog</a></p>\n<p>Comments URL: <a ...",
-      "published": "2026-10-29T04:18:04+00:00",
-      "domain": "fivetran.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Claude Code burns ~15\u201320% of your tokens on a 3-word status line",
-      "link": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=50284255\">Comments</a>...",
-      "published": "2026-10-29T03:33:42+00:00",
-      "domain": "gist.github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
-      "link": "https://divagr.com/blog/qwenputer",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=50282838\">Comments</a>...",
-      "published": "2026-10-29T00:25:45+00:00",
-      "domain": "divagr.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
-      "link": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=50282544\">Comments</a>...",
-      "published": "2026-10-28T23:45:46+00:00",
-      "domain": "alpinelinux.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Volt Typhoon Used Covert Silent Train Network in Four Zero-Day Exploitation Campaigns",
-      "link": "https://thehackernews.com/2026/10/volt-typhoon-used-covert-silent-train.html",
-      "summary": "The China-nexus cyber espionage group known as Volt Typhoon has been attributed to a now-disrupted covert access network dubbed Silent Train that has been put to use for zero-day exploitation and stra...",
-      "published": "2026-10-28T23:38:33+05:30",
+      "title": "Webinar: How to Build AI Threat Readiness Into Your Security Operations",
+      "link": "https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html",
+      "summary": "Security teams have spent years trying to detect threats faster. AI is changing the harder part: how much time defenders have left to act.\n\nAdvanced AI models can now help attackers discover vulnerabi...",
+      "published": "2026-10-29T17:09:41+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -631,11 +509,141 @@
       }
     },
     {
-      "title": "$100M Underwater Data Center Proposed Off Maine \u2013 In the Middle of Endangered Whale Habitat",
-      "link": "https://www.reddit.com/r/technology/comments/1xi444v/100m_underwater_data_center_proposed_off_maine_in/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1xi444v/100m_underwater_data_center_proposed_off_maine_in/\"> <img alt=\"$100M Underwater Data Center Proposed Off Maine \u2013 In the M...",
-      "published": "2026-10-28T23:30:32+00:00",
-      "domain": "reddit.com",
+      "title": "Telegram Android Flaw Lets Attackers Run Code When Users Answer Voice Calls",
+      "link": "https://thehackernews.com/2026/10/telegram-android-flaw-lets-attackers.html",
+      "summary": "A flaw in Telegram for Android allowed an attacker to run code on a victim's phone via a voice call once the victim answered, according to security startup NebuSec.\n\nThe attacker needed only an ordina...",
+      "published": "2026-10-29T17:09:18+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The Rise of the Threat Operator: How AI Will Redefine Security Operations and Careers",
+      "link": "https://thehackernews.com/2026/10/the-rise-of-threat-operator-how-ai-will.html",
+      "summary": "AI is beginning to take over much of the work that has traditionally defined the security analyst's job. Investigating alerts, collecting evidence, correlating activity across tools, and executing res...",
+      "published": "2026-10-29T17:03:41+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "26,400 Valid Cloud and AI Credentials Found Exposed in Public Gitee Repositories",
+      "link": "https://thehackernews.com/2026/10/26400-valid-cloud-and-ai-credentials.html",
+      "summary": "26,400 credentials that developers left in public code on Gitee, a Chinese code-hosting service, still worked when a researcher tested them. Anyone who copied one from that code could have used it.\n\nI...",
+      "published": "2026-10-29T17:03:15+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Cisco Patches Actively Exploited ASA and FTD VPN Flaw That Can Crash Firewalls",
+      "link": "https://thehackernews.com/2026/10/cisco-patches-actively-exploited-asa.html",
+      "summary": "Cisco has released patches to address a high-severity security flaw in Secure Firewall Adaptive Security Appliance (ASA) Software and Secure Firewall Threat Defense (FTD) Software that it said has bee...",
+      "published": "2026-10-29T16:14:46+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 15.7,
+        "anarchy": 3.0,
+        "overall": 9.4
+      },
+      "keywords": {
+        "chaos": [
+          "crash"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Russian and East European Posters",
+      "link": "https://digital-collections.princeton.edu/collections/soviet_posters",
+      "summary": "<p>Article URL: <a href=\"https://digital-collections.princeton.edu/collections/soviet_posters\">https://digital-collections.princeton.edu/collections/soviet_posters</a></p>\n<p>Comments URL: <a href=\"ht...",
+      "published": "2026-10-29T12:17:43+00:00",
+      "domain": "digital-collections.princeton.edu",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "GSC Magic \u2013 Ask Claude or ChatGPT about Your Search Console Data",
+      "link": "https://gscmagic.com/",
+      "summary": "<p>Article URL: <a href=\"https://gscmagic.com/\">https://gscmagic.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50287753\">https://news.ycombinator.com/item?id=50287753</a>...",
+      "published": "2026-10-29T12:16:03+00:00",
+      "domain": "gscmagic.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Game to Learn Python Programming",
+      "link": "https://algocademy.com/play/booly/",
+      "summary": "<p>A gamified mini course that teaches python and programming thinking.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50287752\">https://news.ycombinator.com/item?id=5028775...",
+      "published": "2026-10-29T12:15:57+00:00",
+      "domain": "algocademy.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Ask HN: Why does meta suck at creating a good LLM?",
+      "link": "https://news.ycombinator.com/item?id=50287747",
+      "summary": "<p>My LLM experience is frontier models in a group chat for the best outcome. I recently added muse wonder and removed it after a few hours of use. I'd even use deepseek flash over muse for literally ...",
+      "published": "2026-10-29T12:15:21+00:00",
+      "domain": "news.ycombinator.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "What Drives AI Citations? FAQ isn't what drives ChatGPT citations",
+      "link": "https://arxiv.org/abs/2610.15033",
+      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2610.15033\">https://arxiv.org/abs/2610.15033</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50287741\">https://news.ycombinator.co...",
+      "published": "2026-10-29T12:14:17+00:00",
+      "domain": "arxiv.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,

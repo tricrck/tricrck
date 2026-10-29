@@ -16,16 +16,18 @@
 
 ## 🚨 Tech Stories
 
-### Ultrasound creates a tube that guides matter through the air
+### Cisco Patches Actively Exploited ASA and FTD VPN Flaw That Can Crash Firewalls
 - **Published**: October 29, 2026
-- **Summary**: https://www.helsinki.fi/en/news/energy/ultrasound-creates-tube-guides-matter-through-......
-- [Read more](https://www.helsinki.fi/en/news/energy/ultrasound-creates-tube-guides-matter-through-air)
+- **Summary**: Cisco has released patches to address a high-severity security flaw in Secure Firewall Adaptive Security Appliance (ASA) Software and Secure Firewall ...
+- **Keywords**: crash
+- [Read more](https://thehackernews.com/2026/10/cisco-patches-actively-exploited-asa.html)
 
-### NLnet Publishes More Stringent Generative AI Policy
+### Webinar: How to Build AI Threat Readiness Into Your Security Operations
 - **Published**: October 29, 2026
-- **Summary**: https://nlnet.nl/news/2026/20261020-AI-policy.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=5......
-- [Read more](https://nlnet.nl/news/2026/20261020-AI-policy.html)
+- **Summary**: Security teams have spent years trying to detect threats faster. AI is changing the harder part: how much time defenders have left to act.
+
+Advanced A...
+- [Read more](https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html)
 
 ---
 
