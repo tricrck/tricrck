@@ -1,28 +1,10 @@
 {
   "chaos_ranked": [
     {
-      "title": "Cisco Patches Actively Exploited ASA and FTD VPN Flaw That Can Crash Firewalls",
-      "link": "https://thehackernews.com/2026/10/cisco-patches-actively-exploited-asa.html",
-      "summary": "Cisco has released patches to address a high-severity security flaw in Secure Firewall Adaptive Security Appliance (ASA) Software and Secure Firewall Threat Defense (FTD) Software that it said has bee...",
-      "published": "2026-10-29T16:14:46+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 15.7,
-        "anarchy": 3.0,
-        "overall": 9.4
-      },
-      "keywords": {
-        "chaos": [
-          "crash"
-        ],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Webinar: How to Build AI Threat Readiness Into Your Security Operations",
-      "link": "https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html",
-      "summary": "Security teams have spent years trying to detect threats faster. AI is changing the harder part: how much time defenders have left to act.\n\nAdvanced AI models can now help attackers discover vulnerabi...",
-      "published": "2026-10-29T17:09:41+05:30",
+      "title": "ThreatsDay: Critical Firewall Flaws, Banking Trojans Rented, Weaponized PDF, Token Theft + 26 More Stories",
+      "link": "https://thehackernews.com/2026/10/threatsday-critical-firewall-flaws.html",
+      "summary": "Some attacks take real skill. Others just need someone to leave a door open. This week has both. Exposed passwords, old bugs still getting exploited, and trusted software doing things it shouldn't.\n\nT...",
+      "published": "2026-10-30T00:41:58+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -35,10 +17,122 @@
       }
     },
     {
-      "title": "Telegram Android Flaw Lets Attackers Run Code When Users Answer Voice Calls",
-      "link": "https://thehackernews.com/2026/10/telegram-android-flaw-lets-attackers.html",
-      "summary": "A flaw in Telegram for Android allowed an attacker to run code on a victim's phone via a voice call once the victim answered, according to security startup NebuSec.\n\nThe attacker needed only an ordina...",
-      "published": "2026-10-29T17:09:18+05:30",
+      "title": "Much Ado About None: Sentinel Values in Python",
+      "link": "https://florianwilhelm.info/2026/10/sentinel_values/",
+      "summary": "<p>Article URL: <a href=\"https://florianwilhelm.info/2026/10/sentinel_values/\">https://florianwilhelm.info/2026/10/sentinel_values/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?...",
+      "published": "2026-10-29T22:24:56+00:00",
+      "domain": "florianwilhelm.info",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Charter, field-level control over agents' calls into customer accounts",
+      "link": "https://github.com/r28ai/charter",
+      "summary": "<p>Article URL: <a href=\"https://github.com/r28ai/charter\">https://github.com/r28ai/charter</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50297053\">https://news.ycombinator.co...",
+      "published": "2026-10-29T22:23:25+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Google value plunges by $500B as AI fears rattle Wall Street",
+      "link": "https://www.bbc.com/news/articles/cm9qzdqpxy48o",
+      "summary": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/cm9qzdqpxy48o\">https://www.bbc.com/news/articles/cm9qzdqpxy48o</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=5029703...",
+      "published": "2026-10-29T22:22:13+00:00",
+      "domain": "bbc.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Intel stock plunges after posting disappointing Q4 outlook",
+      "link": "https://finance.yahoo.com/video/intel-stock-plunges-after-posting-disappointing-q4-outlook-200731652.html",
+      "summary": "<p>Article URL: <a href=\"https://finance.yahoo.com/video/intel-stock-plunges-after-posting-disappointing-q4-outlook-200731652.html\">https://finance.yahoo.com/video/intel-stock-plunges-after-posting-di...",
+      "published": "2026-10-29T22:21:29+00:00",
+      "domain": "finance.yahoo.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Chinese Universities in Jiangsu Begin Paying Staff in Digital Yuan",
+      "link": "https://chinascope.org/archives/41502",
+      "summary": "<p>Article URL: <a href=\"https://chinascope.org/archives/41502\">https://chinascope.org/archives/41502</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50297005\">https://news.ycom...",
+      "published": "2026-10-29T22:19:23+00:00",
+      "domain": "chinascope.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "We ran AI agent swarms in Minecraft and Mindustry",
+      "link": "https://labs.ycombinator.com/projects/games/index.html",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50296486\">Comments</a>...",
+      "published": "2026-10-29T21:40:28+00:00",
+      "domain": "labs.ycombinator.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Binance-hacker-1029 \u2013 $5.6B stolen from Binance",
+      "link": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50296470\">Comments</a>...",
+      "published": "2026-10-29T21:38:59+00:00",
+      "domain": "arkm.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu, Red Hat and Other Distributions",
+      "link": "https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html",
+      "summary": "A flaw in the Linux kernel's TCP code, tracked as&nbsp;CVE-2026-98432, affects Ubuntu, Red Hat Enterprise Linux (RHEL), and other Linux distributions. The kernel's own CVE team rates it 9.8 out of 10 ...",
+      "published": "2026-10-29T21:27:05+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -51,107 +145,11 @@
       }
     },
     {
-      "title": "The Rise of the Threat Operator: How AI Will Redefine Security Operations and Careers",
-      "link": "https://thehackernews.com/2026/10/the-rise-of-threat-operator-how-ai-will.html",
-      "summary": "AI is beginning to take over much of the work that has traditionally defined the security analyst's job. Investigating alerts, collecting evidence, correlating activity across tools, and executing res...",
-      "published": "2026-10-29T17:03:41+05:30",
+      "title": "Fake ChatGPT and Claude Apps Abuse Signed Executables to Deploy Crypto Miners",
+      "link": "https://thehackernews.com/2026/10/fake-chatgpt-and-claude-apps-abuse.html",
+      "summary": "Threat actors are delivering malicious loaders and cryptocurrency miners under the guise of artificial intelligence (AI) desktop applications for Anthropic Claude and OpenAI ChatGPT as part of a campa...",
+      "published": "2026-10-29T20:50:29+05:30",
       "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "26,400 Valid Cloud and AI Credentials Found Exposed in Public Gitee Repositories",
-      "link": "https://thehackernews.com/2026/10/26400-valid-cloud-and-ai-credentials.html",
-      "summary": "26,400 credentials that developers left in public code on Gitee, a Chinese code-hosting service, still worked when a researcher tested them. Anyone who copied one from that code could have used it.\n\nI...",
-      "published": "2026-10-29T17:03:15+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Russian and East European Posters",
-      "link": "https://digital-collections.princeton.edu/collections/soviet_posters",
-      "summary": "<p>Article URL: <a href=\"https://digital-collections.princeton.edu/collections/soviet_posters\">https://digital-collections.princeton.edu/collections/soviet_posters</a></p>\n<p>Comments URL: <a href=\"ht...",
-      "published": "2026-10-29T12:17:43+00:00",
-      "domain": "digital-collections.princeton.edu",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "GSC Magic \u2013 Ask Claude or ChatGPT about Your Search Console Data",
-      "link": "https://gscmagic.com/",
-      "summary": "<p>Article URL: <a href=\"https://gscmagic.com/\">https://gscmagic.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50287753\">https://news.ycombinator.com/item?id=50287753</a>...",
-      "published": "2026-10-29T12:16:03+00:00",
-      "domain": "gscmagic.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: Game to Learn Python Programming",
-      "link": "https://algocademy.com/play/booly/",
-      "summary": "<p>A gamified mini course that teaches python and programming thinking.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50287752\">https://news.ycombinator.com/item?id=5028775...",
-      "published": "2026-10-29T12:15:57+00:00",
-      "domain": "algocademy.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Ask HN: Why does meta suck at creating a good LLM?",
-      "link": "https://news.ycombinator.com/item?id=50287747",
-      "summary": "<p>My LLM experience is frontier models in a group chat for the best outcome. I recently added muse wonder and removed it after a few hours of use. I'd even use deepseek flash over muse for literally ...",
-      "published": "2026-10-29T12:15:21+00:00",
-      "domain": "news.ycombinator.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "What Drives AI Citations? FAQ isn't what drives ChatGPT citations",
-      "link": "https://arxiv.org/abs/2610.15033",
-      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2610.15033\">https://arxiv.org/abs/2610.15033</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50287741\">https://news.ycombinator.co...",
-      "published": "2026-10-29T12:14:17+00:00",
-      "domain": "arxiv.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -165,10 +163,10 @@
   ],
   "anarchy_ranked": [
     {
-      "title": "Webinar: How to Build AI Threat Readiness Into Your Security Operations",
-      "link": "https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html",
-      "summary": "Security teams have spent years trying to detect threats faster. AI is changing the harder part: how much time defenders have left to act.\n\nAdvanced AI models can now help attackers discover vulnerabi...",
-      "published": "2026-10-29T17:09:41+05:30",
+      "title": "ThreatsDay: Critical Firewall Flaws, Banking Trojans Rented, Weaponized PDF, Token Theft + 26 More Stories",
+      "link": "https://thehackernews.com/2026/10/threatsday-critical-firewall-flaws.html",
+      "summary": "Some attacks take real skill. Others just need someone to leave a door open. This week has both. Exposed passwords, old bugs still getting exploited, and trusted software doing things it shouldn't.\n\nT...",
+      "published": "2026-10-30T00:41:58+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -181,10 +179,122 @@
       }
     },
     {
-      "title": "Telegram Android Flaw Lets Attackers Run Code When Users Answer Voice Calls",
-      "link": "https://thehackernews.com/2026/10/telegram-android-flaw-lets-attackers.html",
-      "summary": "A flaw in Telegram for Android allowed an attacker to run code on a victim's phone via a voice call once the victim answered, according to security startup NebuSec.\n\nThe attacker needed only an ordina...",
-      "published": "2026-10-29T17:09:18+05:30",
+      "title": "Much Ado About None: Sentinel Values in Python",
+      "link": "https://florianwilhelm.info/2026/10/sentinel_values/",
+      "summary": "<p>Article URL: <a href=\"https://florianwilhelm.info/2026/10/sentinel_values/\">https://florianwilhelm.info/2026/10/sentinel_values/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?...",
+      "published": "2026-10-29T22:24:56+00:00",
+      "domain": "florianwilhelm.info",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Charter, field-level control over agents' calls into customer accounts",
+      "link": "https://github.com/r28ai/charter",
+      "summary": "<p>Article URL: <a href=\"https://github.com/r28ai/charter\">https://github.com/r28ai/charter</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50297053\">https://news.ycombinator.co...",
+      "published": "2026-10-29T22:23:25+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Google value plunges by $500B as AI fears rattle Wall Street",
+      "link": "https://www.bbc.com/news/articles/cm9qzdqpxy48o",
+      "summary": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/cm9qzdqpxy48o\">https://www.bbc.com/news/articles/cm9qzdqpxy48o</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=5029703...",
+      "published": "2026-10-29T22:22:13+00:00",
+      "domain": "bbc.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Intel stock plunges after posting disappointing Q4 outlook",
+      "link": "https://finance.yahoo.com/video/intel-stock-plunges-after-posting-disappointing-q4-outlook-200731652.html",
+      "summary": "<p>Article URL: <a href=\"https://finance.yahoo.com/video/intel-stock-plunges-after-posting-disappointing-q4-outlook-200731652.html\">https://finance.yahoo.com/video/intel-stock-plunges-after-posting-di...",
+      "published": "2026-10-29T22:21:29+00:00",
+      "domain": "finance.yahoo.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Chinese Universities in Jiangsu Begin Paying Staff in Digital Yuan",
+      "link": "https://chinascope.org/archives/41502",
+      "summary": "<p>Article URL: <a href=\"https://chinascope.org/archives/41502\">https://chinascope.org/archives/41502</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50297005\">https://news.ycom...",
+      "published": "2026-10-29T22:19:23+00:00",
+      "domain": "chinascope.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "We ran AI agent swarms in Minecraft and Mindustry",
+      "link": "https://labs.ycombinator.com/projects/games/index.html",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50296486\">Comments</a>...",
+      "published": "2026-10-29T21:40:28+00:00",
+      "domain": "labs.ycombinator.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Binance-hacker-1029 \u2013 $5.6B stolen from Binance",
+      "link": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50296470\">Comments</a>...",
+      "published": "2026-10-29T21:38:59+00:00",
+      "domain": "arkm.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu, Red Hat and Other Distributions",
+      "link": "https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html",
+      "summary": "A flaw in the Linux kernel's TCP code, tracked as&nbsp;CVE-2026-98432, affects Ubuntu, Red Hat Enterprise Linux (RHEL), and other Linux distributions. The kernel's own CVE team rates it 9.8 out of 10 ...",
+      "published": "2026-10-29T21:27:05+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -197,125 +307,11 @@
       }
     },
     {
-      "title": "The Rise of the Threat Operator: How AI Will Redefine Security Operations and Careers",
-      "link": "https://thehackernews.com/2026/10/the-rise-of-threat-operator-how-ai-will.html",
-      "summary": "AI is beginning to take over much of the work that has traditionally defined the security analyst's job. Investigating alerts, collecting evidence, correlating activity across tools, and executing res...",
-      "published": "2026-10-29T17:03:41+05:30",
+      "title": "Fake ChatGPT and Claude Apps Abuse Signed Executables to Deploy Crypto Miners",
+      "link": "https://thehackernews.com/2026/10/fake-chatgpt-and-claude-apps-abuse.html",
+      "summary": "Threat actors are delivering malicious loaders and cryptocurrency miners under the guise of artificial intelligence (AI) desktop applications for Anthropic Claude and OpenAI ChatGPT as part of a campa...",
+      "published": "2026-10-29T20:50:29+05:30",
       "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "26,400 Valid Cloud and AI Credentials Found Exposed in Public Gitee Repositories",
-      "link": "https://thehackernews.com/2026/10/26400-valid-cloud-and-ai-credentials.html",
-      "summary": "26,400 credentials that developers left in public code on Gitee, a Chinese code-hosting service, still worked when a researcher tested them. Anyone who copied one from that code could have used it.\n\nI...",
-      "published": "2026-10-29T17:03:15+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Cisco Patches Actively Exploited ASA and FTD VPN Flaw That Can Crash Firewalls",
-      "link": "https://thehackernews.com/2026/10/cisco-patches-actively-exploited-asa.html",
-      "summary": "Cisco has released patches to address a high-severity security flaw in Secure Firewall Adaptive Security Appliance (ASA) Software and Secure Firewall Threat Defense (FTD) Software that it said has bee...",
-      "published": "2026-10-29T16:14:46+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 15.7,
-        "anarchy": 3.0,
-        "overall": 9.4
-      },
-      "keywords": {
-        "chaos": [
-          "crash"
-        ],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Russian and East European Posters",
-      "link": "https://digital-collections.princeton.edu/collections/soviet_posters",
-      "summary": "<p>Article URL: <a href=\"https://digital-collections.princeton.edu/collections/soviet_posters\">https://digital-collections.princeton.edu/collections/soviet_posters</a></p>\n<p>Comments URL: <a href=\"ht...",
-      "published": "2026-10-29T12:17:43+00:00",
-      "domain": "digital-collections.princeton.edu",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "GSC Magic \u2013 Ask Claude or ChatGPT about Your Search Console Data",
-      "link": "https://gscmagic.com/",
-      "summary": "<p>Article URL: <a href=\"https://gscmagic.com/\">https://gscmagic.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50287753\">https://news.ycombinator.com/item?id=50287753</a>...",
-      "published": "2026-10-29T12:16:03+00:00",
-      "domain": "gscmagic.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: Game to Learn Python Programming",
-      "link": "https://algocademy.com/play/booly/",
-      "summary": "<p>A gamified mini course that teaches python and programming thinking.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50287752\">https://news.ycombinator.com/item?id=5028775...",
-      "published": "2026-10-29T12:15:57+00:00",
-      "domain": "algocademy.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Ask HN: Why does meta suck at creating a good LLM?",
-      "link": "https://news.ycombinator.com/item?id=50287747",
-      "summary": "<p>My LLM experience is frontier models in a group chat for the best outcome. I recently added muse wonder and removed it after a few hours of use. I'd even use deepseek flash over muse for literally ...",
-      "published": "2026-10-29T12:15:21+00:00",
-      "domain": "news.ycombinator.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "What Drives AI Citations? FAQ isn't what drives ChatGPT citations",
-      "link": "https://arxiv.org/abs/2610.15033",
-      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2610.15033\">https://arxiv.org/abs/2610.15033</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50287741\">https://news.ycombinator.co...",
-      "published": "2026-10-29T12:14:17+00:00",
-      "domain": "arxiv.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -329,28 +325,10 @@
   ],
   "overall_ranked": [
     {
-      "title": "Cisco Patches Actively Exploited ASA and FTD VPN Flaw That Can Crash Firewalls",
-      "link": "https://thehackernews.com/2026/10/cisco-patches-actively-exploited-asa.html",
-      "summary": "Cisco has released patches to address a high-severity security flaw in Secure Firewall Adaptive Security Appliance (ASA) Software and Secure Firewall Threat Defense (FTD) Software that it said has bee...",
-      "published": "2026-10-29T16:14:46+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 15.7,
-        "anarchy": 3.0,
-        "overall": 9.4
-      },
-      "keywords": {
-        "chaos": [
-          "crash"
-        ],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Webinar: How to Build AI Threat Readiness Into Your Security Operations",
-      "link": "https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html",
-      "summary": "Security teams have spent years trying to detect threats faster. AI is changing the harder part: how much time defenders have left to act.\n\nAdvanced AI models can now help attackers discover vulnerabi...",
-      "published": "2026-10-29T17:09:41+05:30",
+      "title": "ThreatsDay: Critical Firewall Flaws, Banking Trojans Rented, Weaponized PDF, Token Theft + 26 More Stories",
+      "link": "https://thehackernews.com/2026/10/threatsday-critical-firewall-flaws.html",
+      "summary": "Some attacks take real skill. Others just need someone to leave a door open. This week has both. Exposed passwords, old bugs still getting exploited, and trusted software doing things it shouldn't.\n\nT...",
+      "published": "2026-10-30T00:41:58+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -363,10 +341,122 @@
       }
     },
     {
-      "title": "Telegram Android Flaw Lets Attackers Run Code When Users Answer Voice Calls",
-      "link": "https://thehackernews.com/2026/10/telegram-android-flaw-lets-attackers.html",
-      "summary": "A flaw in Telegram for Android allowed an attacker to run code on a victim's phone via a voice call once the victim answered, according to security startup NebuSec.\n\nThe attacker needed only an ordina...",
-      "published": "2026-10-29T17:09:18+05:30",
+      "title": "Much Ado About None: Sentinel Values in Python",
+      "link": "https://florianwilhelm.info/2026/10/sentinel_values/",
+      "summary": "<p>Article URL: <a href=\"https://florianwilhelm.info/2026/10/sentinel_values/\">https://florianwilhelm.info/2026/10/sentinel_values/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?...",
+      "published": "2026-10-29T22:24:56+00:00",
+      "domain": "florianwilhelm.info",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Charter, field-level control over agents' calls into customer accounts",
+      "link": "https://github.com/r28ai/charter",
+      "summary": "<p>Article URL: <a href=\"https://github.com/r28ai/charter\">https://github.com/r28ai/charter</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50297053\">https://news.ycombinator.co...",
+      "published": "2026-10-29T22:23:25+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Google value plunges by $500B as AI fears rattle Wall Street",
+      "link": "https://www.bbc.com/news/articles/cm9qzdqpxy48o",
+      "summary": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/cm9qzdqpxy48o\">https://www.bbc.com/news/articles/cm9qzdqpxy48o</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=5029703...",
+      "published": "2026-10-29T22:22:13+00:00",
+      "domain": "bbc.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Intel stock plunges after posting disappointing Q4 outlook",
+      "link": "https://finance.yahoo.com/video/intel-stock-plunges-after-posting-disappointing-q4-outlook-200731652.html",
+      "summary": "<p>Article URL: <a href=\"https://finance.yahoo.com/video/intel-stock-plunges-after-posting-disappointing-q4-outlook-200731652.html\">https://finance.yahoo.com/video/intel-stock-plunges-after-posting-di...",
+      "published": "2026-10-29T22:21:29+00:00",
+      "domain": "finance.yahoo.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Chinese Universities in Jiangsu Begin Paying Staff in Digital Yuan",
+      "link": "https://chinascope.org/archives/41502",
+      "summary": "<p>Article URL: <a href=\"https://chinascope.org/archives/41502\">https://chinascope.org/archives/41502</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50297005\">https://news.ycom...",
+      "published": "2026-10-29T22:19:23+00:00",
+      "domain": "chinascope.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "We ran AI agent swarms in Minecraft and Mindustry",
+      "link": "https://labs.ycombinator.com/projects/games/index.html",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50296486\">Comments</a>...",
+      "published": "2026-10-29T21:40:28+00:00",
+      "domain": "labs.ycombinator.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Binance-hacker-1029 \u2013 $5.6B stolen from Binance",
+      "link": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50296470\">Comments</a>...",
+      "published": "2026-10-29T21:38:59+00:00",
+      "domain": "arkm.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu, Red Hat and Other Distributions",
+      "link": "https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html",
+      "summary": "A flaw in the Linux kernel's TCP code, tracked as&nbsp;CVE-2026-98432, affects Ubuntu, Red Hat Enterprise Linux (RHEL), and other Linux distributions. The kernel's own CVE team rates it 9.8 out of 10 ...",
+      "published": "2026-10-29T21:27:05+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -379,107 +469,11 @@
       }
     },
     {
-      "title": "The Rise of the Threat Operator: How AI Will Redefine Security Operations and Careers",
-      "link": "https://thehackernews.com/2026/10/the-rise-of-threat-operator-how-ai-will.html",
-      "summary": "AI is beginning to take over much of the work that has traditionally defined the security analyst's job. Investigating alerts, collecting evidence, correlating activity across tools, and executing res...",
-      "published": "2026-10-29T17:03:41+05:30",
+      "title": "Fake ChatGPT and Claude Apps Abuse Signed Executables to Deploy Crypto Miners",
+      "link": "https://thehackernews.com/2026/10/fake-chatgpt-and-claude-apps-abuse.html",
+      "summary": "Threat actors are delivering malicious loaders and cryptocurrency miners under the guise of artificial intelligence (AI) desktop applications for Anthropic Claude and OpenAI ChatGPT as part of a campa...",
+      "published": "2026-10-29T20:50:29+05:30",
       "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "26,400 Valid Cloud and AI Credentials Found Exposed in Public Gitee Repositories",
-      "link": "https://thehackernews.com/2026/10/26400-valid-cloud-and-ai-credentials.html",
-      "summary": "26,400 credentials that developers left in public code on Gitee, a Chinese code-hosting service, still worked when a researcher tested them. Anyone who copied one from that code could have used it.\n\nI...",
-      "published": "2026-10-29T17:03:15+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Russian and East European Posters",
-      "link": "https://digital-collections.princeton.edu/collections/soviet_posters",
-      "summary": "<p>Article URL: <a href=\"https://digital-collections.princeton.edu/collections/soviet_posters\">https://digital-collections.princeton.edu/collections/soviet_posters</a></p>\n<p>Comments URL: <a href=\"ht...",
-      "published": "2026-10-29T12:17:43+00:00",
-      "domain": "digital-collections.princeton.edu",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "GSC Magic \u2013 Ask Claude or ChatGPT about Your Search Console Data",
-      "link": "https://gscmagic.com/",
-      "summary": "<p>Article URL: <a href=\"https://gscmagic.com/\">https://gscmagic.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50287753\">https://news.ycombinator.com/item?id=50287753</a>...",
-      "published": "2026-10-29T12:16:03+00:00",
-      "domain": "gscmagic.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: Game to Learn Python Programming",
-      "link": "https://algocademy.com/play/booly/",
-      "summary": "<p>A gamified mini course that teaches python and programming thinking.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50287752\">https://news.ycombinator.com/item?id=5028775...",
-      "published": "2026-10-29T12:15:57+00:00",
-      "domain": "algocademy.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Ask HN: Why does meta suck at creating a good LLM?",
-      "link": "https://news.ycombinator.com/item?id=50287747",
-      "summary": "<p>My LLM experience is frontier models in a group chat for the best outcome. I recently added muse wonder and removed it after a few hours of use. I'd even use deepseek flash over muse for literally ...",
-      "published": "2026-10-29T12:15:21+00:00",
-      "domain": "news.ycombinator.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "What Drives AI Citations? FAQ isn't what drives ChatGPT citations",
-      "link": "https://arxiv.org/abs/2610.15033",
-      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2610.15033\">https://arxiv.org/abs/2610.15033</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50287741\">https://news.ycombinator.co...",
-      "published": "2026-10-29T12:14:17+00:00",
-      "domain": "arxiv.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -493,10 +487,10 @@
   ],
   "all_articles": [
     {
-      "title": "Webinar: How to Build AI Threat Readiness Into Your Security Operations",
-      "link": "https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html",
-      "summary": "Security teams have spent years trying to detect threats faster. AI is changing the harder part: how much time defenders have left to act.\n\nAdvanced AI models can now help attackers discover vulnerabi...",
-      "published": "2026-10-29T17:09:41+05:30",
+      "title": "ThreatsDay: Critical Firewall Flaws, Banking Trojans Rented, Weaponized PDF, Token Theft + 26 More Stories",
+      "link": "https://thehackernews.com/2026/10/threatsday-critical-firewall-flaws.html",
+      "summary": "Some attacks take real skill. Others just need someone to leave a door open. This week has both. Exposed passwords, old bugs still getting exploited, and trusted software doing things it shouldn't.\n\nT...",
+      "published": "2026-10-30T00:41:58+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -509,10 +503,122 @@
       }
     },
     {
-      "title": "Telegram Android Flaw Lets Attackers Run Code When Users Answer Voice Calls",
-      "link": "https://thehackernews.com/2026/10/telegram-android-flaw-lets-attackers.html",
-      "summary": "A flaw in Telegram for Android allowed an attacker to run code on a victim's phone via a voice call once the victim answered, according to security startup NebuSec.\n\nThe attacker needed only an ordina...",
-      "published": "2026-10-29T17:09:18+05:30",
+      "title": "Much Ado About None: Sentinel Values in Python",
+      "link": "https://florianwilhelm.info/2026/10/sentinel_values/",
+      "summary": "<p>Article URL: <a href=\"https://florianwilhelm.info/2026/10/sentinel_values/\">https://florianwilhelm.info/2026/10/sentinel_values/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?...",
+      "published": "2026-10-29T22:24:56+00:00",
+      "domain": "florianwilhelm.info",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Charter, field-level control over agents' calls into customer accounts",
+      "link": "https://github.com/r28ai/charter",
+      "summary": "<p>Article URL: <a href=\"https://github.com/r28ai/charter\">https://github.com/r28ai/charter</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50297053\">https://news.ycombinator.co...",
+      "published": "2026-10-29T22:23:25+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Google value plunges by $500B as AI fears rattle Wall Street",
+      "link": "https://www.bbc.com/news/articles/cm9qzdqpxy48o",
+      "summary": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/cm9qzdqpxy48o\">https://www.bbc.com/news/articles/cm9qzdqpxy48o</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=5029703...",
+      "published": "2026-10-29T22:22:13+00:00",
+      "domain": "bbc.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Intel stock plunges after posting disappointing Q4 outlook",
+      "link": "https://finance.yahoo.com/video/intel-stock-plunges-after-posting-disappointing-q4-outlook-200731652.html",
+      "summary": "<p>Article URL: <a href=\"https://finance.yahoo.com/video/intel-stock-plunges-after-posting-disappointing-q4-outlook-200731652.html\">https://finance.yahoo.com/video/intel-stock-plunges-after-posting-di...",
+      "published": "2026-10-29T22:21:29+00:00",
+      "domain": "finance.yahoo.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Chinese Universities in Jiangsu Begin Paying Staff in Digital Yuan",
+      "link": "https://chinascope.org/archives/41502",
+      "summary": "<p>Article URL: <a href=\"https://chinascope.org/archives/41502\">https://chinascope.org/archives/41502</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50297005\">https://news.ycom...",
+      "published": "2026-10-29T22:19:23+00:00",
+      "domain": "chinascope.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "We ran AI agent swarms in Minecraft and Mindustry",
+      "link": "https://labs.ycombinator.com/projects/games/index.html",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50296486\">Comments</a>...",
+      "published": "2026-10-29T21:40:28+00:00",
+      "domain": "labs.ycombinator.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Binance-hacker-1029 \u2013 $5.6B stolen from Binance",
+      "link": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50296470\">Comments</a>...",
+      "published": "2026-10-29T21:38:59+00:00",
+      "domain": "arkm.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu, Red Hat and Other Distributions",
+      "link": "https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html",
+      "summary": "A flaw in the Linux kernel's TCP code, tracked as&nbsp;CVE-2026-98432, affects Ubuntu, Red Hat Enterprise Linux (RHEL), and other Linux distributions. The kernel's own CVE team rates it 9.8 out of 10 ...",
+      "published": "2026-10-29T21:27:05+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -525,125 +631,11 @@
       }
     },
     {
-      "title": "The Rise of the Threat Operator: How AI Will Redefine Security Operations and Careers",
-      "link": "https://thehackernews.com/2026/10/the-rise-of-threat-operator-how-ai-will.html",
-      "summary": "AI is beginning to take over much of the work that has traditionally defined the security analyst's job. Investigating alerts, collecting evidence, correlating activity across tools, and executing res...",
-      "published": "2026-10-29T17:03:41+05:30",
+      "title": "Fake ChatGPT and Claude Apps Abuse Signed Executables to Deploy Crypto Miners",
+      "link": "https://thehackernews.com/2026/10/fake-chatgpt-and-claude-apps-abuse.html",
+      "summary": "Threat actors are delivering malicious loaders and cryptocurrency miners under the guise of artificial intelligence (AI) desktop applications for Anthropic Claude and OpenAI ChatGPT as part of a campa...",
+      "published": "2026-10-29T20:50:29+05:30",
       "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "26,400 Valid Cloud and AI Credentials Found Exposed in Public Gitee Repositories",
-      "link": "https://thehackernews.com/2026/10/26400-valid-cloud-and-ai-credentials.html",
-      "summary": "26,400 credentials that developers left in public code on Gitee, a Chinese code-hosting service, still worked when a researcher tested them. Anyone who copied one from that code could have used it.\n\nI...",
-      "published": "2026-10-29T17:03:15+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Cisco Patches Actively Exploited ASA and FTD VPN Flaw That Can Crash Firewalls",
-      "link": "https://thehackernews.com/2026/10/cisco-patches-actively-exploited-asa.html",
-      "summary": "Cisco has released patches to address a high-severity security flaw in Secure Firewall Adaptive Security Appliance (ASA) Software and Secure Firewall Threat Defense (FTD) Software that it said has bee...",
-      "published": "2026-10-29T16:14:46+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 15.7,
-        "anarchy": 3.0,
-        "overall": 9.4
-      },
-      "keywords": {
-        "chaos": [
-          "crash"
-        ],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Russian and East European Posters",
-      "link": "https://digital-collections.princeton.edu/collections/soviet_posters",
-      "summary": "<p>Article URL: <a href=\"https://digital-collections.princeton.edu/collections/soviet_posters\">https://digital-collections.princeton.edu/collections/soviet_posters</a></p>\n<p>Comments URL: <a href=\"ht...",
-      "published": "2026-10-29T12:17:43+00:00",
-      "domain": "digital-collections.princeton.edu",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "GSC Magic \u2013 Ask Claude or ChatGPT about Your Search Console Data",
-      "link": "https://gscmagic.com/",
-      "summary": "<p>Article URL: <a href=\"https://gscmagic.com/\">https://gscmagic.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50287753\">https://news.ycombinator.com/item?id=50287753</a>...",
-      "published": "2026-10-29T12:16:03+00:00",
-      "domain": "gscmagic.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: Game to Learn Python Programming",
-      "link": "https://algocademy.com/play/booly/",
-      "summary": "<p>A gamified mini course that teaches python and programming thinking.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50287752\">https://news.ycombinator.com/item?id=5028775...",
-      "published": "2026-10-29T12:15:57+00:00",
-      "domain": "algocademy.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Ask HN: Why does meta suck at creating a good LLM?",
-      "link": "https://news.ycombinator.com/item?id=50287747",
-      "summary": "<p>My LLM experience is frontier models in a group chat for the best outcome. I recently added muse wonder and removed it after a few hours of use. I'd even use deepseek flash over muse for literally ...",
-      "published": "2026-10-29T12:15:21+00:00",
-      "domain": "news.ycombinator.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "What Drives AI Citations? FAQ isn't what drives ChatGPT citations",
-      "link": "https://arxiv.org/abs/2610.15033",
-      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2610.15033\">https://arxiv.org/abs/2610.15033</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50287741\">https://news.ycombinator.co...",
-      "published": "2026-10-29T12:14:17+00:00",
-      "domain": "arxiv.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,

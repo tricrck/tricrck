@@ -16,18 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Cisco Patches Actively Exploited ASA and FTD VPN Flaw That Can Crash Firewalls
-- **Published**: October 29, 2026
-- **Summary**: Cisco has released patches to address a high-severity security flaw in Secure Firewall Adaptive Security Appliance (ASA) Software and Secure Firewall ...
-- **Keywords**: crash
-- [Read more](https://thehackernews.com/2026/10/cisco-patches-actively-exploited-asa.html)
+### ThreatsDay: Critical Firewall Flaws, Banking Trojans Rented, Weaponized PDF, Token Theft + 26 More Stories
+- **Published**: October 30, 2026
+- **Summary**: Some attacks take real skill. Others just need someone to leave a door open. This week has both. Exposed passwords, old bugs still getting exploited, ...
+- [Read more](https://thehackernews.com/2026/10/threatsday-critical-firewall-flaws.html)
 
-### Webinar: How to Build AI Threat Readiness Into Your Security Operations
+### Much Ado About None: Sentinel Values in Python
 - **Published**: October 29, 2026
-- **Summary**: Security teams have spent years trying to detect threats faster. AI is changing the harder part: how much time defenders have left to act.
-
-Advanced A...
-- [Read more](https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html)
+- **Summary**: https://florianwilhelm.info/2026/10/sentinel_values/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?......
+- [Read more](https://florianwilhelm.info/2026/10/sentinel_values/)
 
 ---
 
