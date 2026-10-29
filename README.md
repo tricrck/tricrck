@@ -16,15 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Volt Typhoon Used Covert Silent Train Network in Four Zero-Day Exploitation Campaigns
-- **Published**: October 28, 2026
-- **Summary**: The China-nexus cyber espionage group known as Volt Typhoon has been attributed to a now-disrupted covert access network dubbed Silent Train that has ...
-- [Read more](https://thehackernews.com/2026/10/volt-typhoon-used-covert-silent-train.html)
+### Ultrasound creates a tube that guides matter through the air
+- **Published**: October 29, 2026
+- **Summary**: https://www.helsinki.fi/en/news/energy/ultrasound-creates-tube-guides-matter-through-......
+- [Read more](https://www.helsinki.fi/en/news/energy/ultrasound-creates-tube-guides-matter-through-air)
 
-### Google to Allow One-Tap Android App Installs From Approved Third-Party Stores Outside U.S.
-- **Published**: October 28, 2026
-- **Summary**: Third-party Android app stores can now apply to Google for permission to install apps with one tap, without Android's usual confirmation screens, and ...
-- [Read more](https://thehackernews.com/2026/10/google-to-allow-one-tap-android-app.html)
+### NLnet Publishes More Stringent Generative AI Policy
+- **Published**: October 29, 2026
+- **Summary**: https://nlnet.nl/news/2026/20261020-AI-policy.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=5......
+- [Read more](https://nlnet.nl/news/2026/20261020-AI-policy.html)
 
 ---
 
