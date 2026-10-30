@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Official Claude Code VS Code Extension Compromised to Install Persistent SSH Backdoor
+### Chinese Hackers Use AI-Powered ARTEX to Target Over 200 Organizations Worldwide
 - **Published**: October 30, 2026
-- **Summary**: Cybersecurity researchers have disclosed that the official Anthropic Claude Code extension was compromised on the Open VSX registry to install a persi...
-- [Read more](https://thehackernews.com/2026/10/official-claude-code-vs-code-extension.html)
+- **Summary**: Chinese state-sponsored threat actors have been observed using a Go-based artificial intelligence (AI)-powered penetration testing framework called AR...
+- [Read more](https://thehackernews.com/2026/10/chinese-hackers-use-ai-powered-artex-to.html)
 
-### Hackers Actively Exploit Highly Critical Drupal Commerce Core Authorization Bypass Flaw
+### Colossus gives moguls the coverage they crave
 - **Published**: October 30, 2026
-- **Summary**: Drupal has warned that threat actors are exploiting a "highly critical" security flaw in its Commerce Core component.
-
-The vulnerability, tracked as C...
-- [Read more](https://thehackernews.com/2026/10/hackers-actively-exploit-highly.html)
+- **Summary**: https://sfstandard.com/2026/10/30/colossus-glossy-quarterly-silicon-valley/</a></p>
+<p>Comments UR......
+- [Read more](https://sfstandard.com/2026/10/30/colossus-glossy-quarterly-silicon-valley/)
 
 ---
 
