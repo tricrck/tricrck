@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### ThreatsDay: Critical Firewall Flaws, Banking Trojans Rented, Weaponized PDF, Token Theft + 26 More Stories
+### Show HN: DistractFree-Chrome extension and web app to stop doomscrolling
 - **Published**: October 30, 2026
-- **Summary**: Some attacks take real skill. Others just need someone to leave a door open. This week has both. Exposed passwords, old bugs still getting exploited, ...
-- [Read more](https://thehackernews.com/2026/10/threatsday-critical-firewall-flaws.html)
+- **Summary**: https://distractfree.site/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50299880">https://news.ycombinator.com/item?id=50......
+- [Read more](https://distractfree.site/)
 
-### Much Ado About None: Sentinel Values in Python
-- **Published**: October 29, 2026
-- **Summary**: https://florianwilhelm.info/2026/10/sentinel_values/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?......
-- [Read more](https://florianwilhelm.info/2026/10/sentinel_values/)
+### Any HN folks with undiagnosed diseases?
+- **Published**: October 30, 2026
+- **Summary**: <p>I've been suffering from a condition since around 2014 perhaps longer, that seemingly started after taking antibiotics (ciprofloxacin, Rocephin, Fo...
+- [Read more](https://news.ycombinator.com/item?id=50299858)
 
 ---
 
