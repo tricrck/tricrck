@@ -16,16 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Show HN: DistractFree-Chrome extension and web app to stop doomscrolling
+### Official Claude Code VS Code Extension Compromised to Install Persistent SSH Backdoor
 - **Published**: October 30, 2026
-- **Summary**: https://distractfree.site/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50299880">https://news.ycombinator.com/item?id=50......
-- [Read more](https://distractfree.site/)
+- **Summary**: Cybersecurity researchers have disclosed that the official Anthropic Claude Code extension was compromised on the Open VSX registry to install a persi...
+- [Read more](https://thehackernews.com/2026/10/official-claude-code-vs-code-extension.html)
 
-### Any HN folks with undiagnosed diseases?
+### Hackers Actively Exploit Highly Critical Drupal Commerce Core Authorization Bypass Flaw
 - **Published**: October 30, 2026
-- **Summary**: <p>I've been suffering from a condition since around 2014 perhaps longer, that seemingly started after taking antibiotics (ciprofloxacin, Rocephin, Fo...
-- [Read more](https://news.ycombinator.com/item?id=50299858)
+- **Summary**: Drupal has warned that threat actors are exploiting a "highly critical" security flaw in its Commerce Core component.
+
+The vulnerability, tracked as C...
+- [Read more](https://thehackernews.com/2026/10/hackers-actively-exploit-highly.html)
 
 ---
 
