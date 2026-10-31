@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Lambda.ai Is Down?
+### Attackers Chain Three Ivanti Connect Secure Flaws to Gain Unauthenticated Root Access
 - **Published**: October 31, 2026
-- **Summary**: https://lambda.ai</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50313191">https://news.ycombinator.com/item?id=50313191</a></...
-- **Keywords**: down
-- [Read more](https://lambda.ai)
+- **Summary**: The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting Ivanti Connect Secure (ICS) to its Known...
+- [Read more](https://thehackernews.com/2026/10/attackers-chain-three-ivanti-connect.html)
 
-### Scribd Security Incident
+### Atlas VTT: A virtual tabletop inside Obsidian
 - **Published**: October 31, 2026
-- **Summary**: https://support.scribd.com/hc/en-us/articles/53787421531284-Informa......
-- [Read more](https://support.scribd.com/hc/en-us/articles/53787421531284-Information-about-the-recent-security-incident)
+- **Summary**: https://atlas-vtt.dev</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50315139">https://news.ycombinator.com/item?id=50315139</...
+- [Read more](https://atlas-vtt.dev)
 
 ---
 
