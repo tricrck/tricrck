@@ -16,16 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Chainalysis Confirms Intrusion Into Internal Tools and Exposure of Customer Identity Data
+### Distributed Proofreaders
 - **Published**: October 31, 2026
-- **Summary**: American blockchain analysis firm Chainalysis said it was the target of a cybersecurity incident in which an external actor accessed non-sensitive cus...
-- [Read more](https://thehackernews.com/2026/10/chainalysis-confirms-intrusion-into.html)
+- **Summary**: https://www.pgdp.net/c/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50320137">https://news.ycombinator.com/item?id=50320137...
+- [Read more](https://www.pgdp.net/c/)
 
-### The LLM Engineer's Schedule
+### Point-Contact Transistor
 - **Published**: October 31, 2026
-- **Summary**: https://kwojcicki.github.io/blog/LLM-ENGINEER-SCHEDULE</a></p>
+- **Summary**: https://en.wikipedia.org/wiki/Point-contact_transistor</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/i......
-- [Read more](https://kwojcicki.github.io/blog/LLM-ENGINEER-SCHEDULE)
+- [Read more](https://en.wikipedia.org/wiki/Point-contact_transistor)
 
 ---
 
