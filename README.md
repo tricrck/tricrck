@@ -16,16 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Chinese Hackers Use AI-Powered ARTEX to Target Over 200 Organizations Worldwide
-- **Published**: October 30, 2026
-- **Summary**: Chinese state-sponsored threat actors have been observed using a Go-based artificial intelligence (AI)-powered penetration testing framework called AR...
-- [Read more](https://thehackernews.com/2026/10/chinese-hackers-use-ai-powered-artex-to.html)
+### Lambda.ai Is Down?
+- **Published**: October 31, 2026
+- **Summary**: https://lambda.ai</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50313191">https://news.ycombinator.com/item?id=50313191</a></...
+- **Keywords**: down
+- [Read more](https://lambda.ai)
 
-### Colossus gives moguls the coverage they crave
-- **Published**: October 30, 2026
-- **Summary**: https://sfstandard.com/2026/10/30/colossus-glossy-quarterly-silicon-valley/</a></p>
-<p>Comments UR......
-- [Read more](https://sfstandard.com/2026/10/30/colossus-glossy-quarterly-silicon-valley/)
+### Scribd Security Incident
+- **Published**: October 31, 2026
+- **Summary**: https://support.scribd.com/hc/en-us/articles/53787421531284-Informa......
+- [Read more](https://support.scribd.com/hc/en-us/articles/53787421531284-Information-about-the-recent-security-incident)
 
 ---
 
