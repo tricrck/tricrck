@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Attackers Chain Three Ivanti Connect Secure Flaws to Gain Unauthenticated Root Access
+### Chainalysis Confirms Intrusion Into Internal Tools and Exposure of Customer Identity Data
 - **Published**: October 31, 2026
-- **Summary**: The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting Ivanti Connect Secure (ICS) to its Known...
-- [Read more](https://thehackernews.com/2026/10/attackers-chain-three-ivanti-connect.html)
+- **Summary**: American blockchain analysis firm Chainalysis said it was the target of a cybersecurity incident in which an external actor accessed non-sensitive cus...
+- [Read more](https://thehackernews.com/2026/10/chainalysis-confirms-intrusion-into.html)
 
-### Atlas VTT: A virtual tabletop inside Obsidian
+### The LLM Engineer's Schedule
 - **Published**: October 31, 2026
-- **Summary**: https://atlas-vtt.dev</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50315139">https://news.ycombinator.com/item?id=50315139</...
-- [Read more](https://atlas-vtt.dev)
+- **Summary**: https://kwojcicki.github.io/blog/LLM-ENGINEER-SCHEDULE</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/i......
+- [Read more](https://kwojcicki.github.io/blog/LLM-ENGINEER-SCHEDULE)
 
 ---
 
