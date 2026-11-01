@@ -16,15 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key
+### Show HN: Nonce – Open-source, least-privilege Gmail access for AI agents
 - **Published**: November 01, 2026
-- **Summary**: A critical flaw in Canonical's LXD and MicroCloud let an attacker log in as a trusted client without holding that client's private key. To do it, the ...
-- [Read more](https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html)
+- **Summary**: <p>Hi HN! We built nonce, an open-source tool that sits between personal AI agents (Muse, Grok, ChatGPT, Claude) and your personal data in Gmail, Cale...
+- [Read more](https://www.anonce.io/)
 
-### Hackers Steal About $2.7 Million From Polymarket Traders via Hijacked DebugBear Script
+### 10 Years on Mastodon
 - **Published**: November 01, 2026
-- **Summary**: Malicious code on the website of prediction market Polymarket sold some signed-in traders' positions and moved their funds to the hackers on October 2...
-- [Read more](https://thehackernews.com/2026/11/hackers-steal-about-27-million-from.html)
+- **Summary**: https://shkspr.mobi/blog/2026/11/10-years-on-mastodon/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/i......
+- [Read more](https://shkspr.mobi/blog/2026/11/10-years-on-mastodon/)
 
 ---
 
