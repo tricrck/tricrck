@@ -16,17 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Distributed Proofreaders
-- **Published**: October 31, 2026
-- **Summary**: https://www.pgdp.net/c/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50320137">https://news.ycombinator.com/item?id=50320137...
-- [Read more](https://www.pgdp.net/c/)
-
-### Point-Contact Transistor
-- **Published**: October 31, 2026
-- **Summary**: https://en.wikipedia.org/wiki/Point-contact_transistor</a></p>
+### "Vibe coded my parents' TV this afternoon "
+- **Published**: November 01, 2026
+- **Summary**: https://twitter.com/gathint/status/2111379569030939102</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/i......
-- [Read more](https://en.wikipedia.org/wiki/Point-contact_transistor)
+- [Read more](https://twitter.com/gathint/status/2111379569030939102)
+
+### Why Sam Altman is against a single superintelligence
+- **Published**: November 01, 2026
+- **Summary**: https://cheekypint.substack.com/p/why-sam-altman-is-against-a-single</a></p>
+<p>Comments URL: <a href="ht......
+- [Read more](https://cheekypint.substack.com/p/why-sam-altman-is-against-a-single)
 
 ---
 
