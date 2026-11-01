@@ -16,17 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### "Vibe coded my parents' TV this afternoon "
+### CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key
 - **Published**: November 01, 2026
-- **Summary**: https://twitter.com/gathint/status/2111379569030939102</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/i......
-- [Read more](https://twitter.com/gathint/status/2111379569030939102)
+- **Summary**: A critical flaw in Canonical's LXD and MicroCloud let an attacker log in as a trusted client without holding that client's private key. To do it, the ...
+- [Read more](https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html)
 
-### Why Sam Altman is against a single superintelligence
+### Hackers Steal About $2.7 Million From Polymarket Traders via Hijacked DebugBear Script
 - **Published**: November 01, 2026
-- **Summary**: https://cheekypint.substack.com/p/why-sam-altman-is-against-a-single</a></p>
-<p>Comments URL: <a href="ht......
-- [Read more](https://cheekypint.substack.com/p/why-sam-altman-is-against-a-single)
+- **Summary**: Malicious code on the website of prediction market Polymarket sold some signed-in traders' positions and moved their funds to the hackers on October 2...
+- [Read more](https://thehackernews.com/2026/11/hackers-steal-about-27-million-from.html)
 
 ---
 
