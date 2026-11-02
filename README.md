@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Show HN: Nonce – Open-source, least-privilege Gmail access for AI agents
-- **Published**: November 01, 2026
-- **Summary**: <p>Hi HN! We built nonce, an open-source tool that sits between personal AI agents (Muse, Grok, ChatGPT, Claude) and your personal data in Gmail, Cale...
-- [Read more](https://www.anonce.io/)
+### ASML's CEO is putting his paycheck on the line for employee morale
+- **Published**: November 02, 2026
+- **Summary**: https://fortune.com/2026/10/31/asml-ceo-christophe-fouquet-executive-pay-emplo......
+- [Read more](https://fortune.com/2026/10/31/asml-ceo-christophe-fouquet-executive-pay-employee-satisfaction/)
 
-### 10 Years on Mastodon
-- **Published**: November 01, 2026
-- **Summary**: https://shkspr.mobi/blog/2026/11/10-years-on-mastodon/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/i......
-- [Read more](https://shkspr.mobi/blog/2026/11/10-years-on-mastodon/)
+### HTML Clocks
+- **Published**: November 02, 2026
+- **Summary**: https://tudza.org/HTML_Clocks.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50333224">https://news.ycombinato......
+- [Read more](https://tudza.org/HTML_Clocks.html)
 
 ---
 
