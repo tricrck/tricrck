@@ -16,16 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### ASML's CEO is putting his paycheck on the line for employee morale
+### DarkBlinders Compromises Israeli Target and Iraqi Kurdish Government Cloud Environment
 - **Published**: November 02, 2026
-- **Summary**: https://fortune.com/2026/10/31/asml-ceo-christophe-fouquet-executive-pay-emplo......
-- [Read more](https://fortune.com/2026/10/31/asml-ceo-christophe-fouquet-executive-pay-employee-satisfaction/)
+- **Summary**: Cybersecurity researchers have disclosed details of a cyber espionage campaign targeting Israel and the Kurdistan Region of Iraq by an Iran state-alig...
+- [Read more](https://thehackernews.com/2026/11/darkblinders-compromises-israeli-target.html)
 
-### HTML Clocks
+### Critical Langflow Flaws Could Let Unauthenticated Attackers Run Code on Servers
 - **Published**: November 02, 2026
-- **Summary**: https://tudza.org/HTML_Clocks.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50333224">https://news.ycombinato......
-- [Read more](https://tudza.org/HTML_Clocks.html)
+- **Summary**: Two critical flaws in Langflow could let a remote attacker with no account bypass authentication or run arbitrary code,&nbsp;IBM said last week.
+
+Lang...
+- [Read more](https://thehackernews.com/2026/11/critical-langflow-flaws-could-let.html)
 
 ---
 
