@@ -16,17 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### DarkBlinders Compromises Israeli Target and Iraqi Kurdish Government Cloud Environment
+### The Intel stock collapse is getting worse — and the $3.5 trillion chip rout is spreading
 - **Published**: November 02, 2026
-- **Summary**: Cybersecurity researchers have disclosed details of a cyber espionage campaign targeting Israel and the Kurdistan Region of Iraq by an Iran state-alig...
-- [Read more](https://thehackernews.com/2026/11/darkblinders-compromises-israeli-target.html)
+- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1xm9jey/the_intel_stock_collapse_is_getting_worse_and_the/"> <img alt="The Intel stock coll...
+- **Keywords**: collapse, collapse
+- [Read more](https://www.reddit.com/r/technology/comments/1xm9jey/the_intel_stock_collapse_is_getting_worse_and_the/)
 
-### Critical Langflow Flaws Could Let Unauthenticated Attackers Run Code on Servers
-- **Published**: November 02, 2026
-- **Summary**: Two critical flaws in Langflow could let a remote attacker with no account bypass authentication or run arbitrary code,&nbsp;IBM said last week.
-
-Lang...
-- [Read more](https://thehackernews.com/2026/11/critical-langflow-flaws-could-let.html)
+### Audience Capture
+- **Published**: November 03, 2026
+- **Summary**: https://www.seangoedecke.com/audience-capture/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50346339"......
+- [Read more](https://www.seangoedecke.com/audience-capture/)
 
 ---
 
