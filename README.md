@@ -16,17 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### The Intel stock collapse is getting worse — and the $3.5 trillion chip rout is spreading
-- **Published**: November 02, 2026
-- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1xm9jey/the_intel_stock_collapse_is_getting_worse_and_the/"> <img alt="The Intel stock coll...
-- **Keywords**: collapse, collapse
-- [Read more](https://www.reddit.com/r/technology/comments/1xm9jey/the_intel_stock_collapse_is_getting_worse_and_the/)
-
-### Audience Capture
+### The last, best hope for space tourism just rolled onto a runway in Arizona
 - **Published**: November 03, 2026
-- **Summary**: https://www.seangoedecke.com/audience-capture/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50346339"......
-- [Read more](https://www.seangoedecke.com/audience-capture/)
+- **Summary**: https://arstechnica.com/space/2026/10/the-last-best-hope-for-......
+- [Read more](https://arstechnica.com/space/2026/10/the-last-best-hope-for-space-tourism-just-rolled-onto-a-runway-in-arizona/)
+
+### Red Hat Patches 9.8-Rated Linux TCP RCE Flaw While Ubuntu Releases Fixes for Testing
+- **Published**: November 03, 2026
+- **Summary**: Fixed kernels for a&nbsp;use-after-free vulnerability in the Linux kernel's IPv4 TCP code&nbsp;are now available for Red Hat Enterprise Linux 8, 9, an...
+- [Read more](https://thehackernews.com/2026/11/red-hat-patches-98-rated-linux-tcp-rce.html)
 
 ---
 
