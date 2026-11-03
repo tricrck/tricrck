@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### The last, best hope for space tourism just rolled onto a runway in Arizona
-- **Published**: November 03, 2026
-- **Summary**: https://arstechnica.com/space/2026/10/the-last-best-hope-for-......
-- [Read more](https://arstechnica.com/space/2026/10/the-last-best-hope-for-space-tourism-just-rolled-onto-a-runway-in-arizona/)
+### mSecure Warns Users to Change Passwords, Reset 2FA and Passkeys After Suspicious Activity
+- **Published**: November 04, 2026
+- **Summary**: Customers of the mSecure password manager are being urged to act now to protect the confidential information they store in it, possibly by changing pa...
+- [Read more](https://thehackernews.com/2026/11/msecure-warns-users-to-change-passwords.html)
 
-### Red Hat Patches 9.8-Rated Linux TCP RCE Flaw While Ubuntu Releases Fixes for Testing
+### Chainstack Reports Production Systems Breach Exposing Customer Data and Password Hashes
 - **Published**: November 03, 2026
-- **Summary**: Fixed kernels for a&nbsp;use-after-free vulnerability in the Linux kernel's IPv4 TCP code&nbsp;are now available for Red Hat Enterprise Linux 8, 9, an...
-- [Read more](https://thehackernews.com/2026/11/red-hat-patches-98-rated-linux-tcp-rce.html)
+- **Summary**: Blockchain infrastructure provider Chainstack on Tuesday disclosed that it was targeted in a cyber attack that allowed an unauthorized party to gain a...
+- [Read more](https://thehackernews.com/2026/11/chainstack-reports-production-systems.html)
 
 ---
 
