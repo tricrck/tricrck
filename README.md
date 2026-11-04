@@ -16,17 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Text.js: Build full-stack React apps that render inside console.log
+### Critical Rails Flaw Lets Attackers Write Server Files via Crafted ImageMagick Uploads
 - **Published**: November 04, 2026
-- **Summary**: https://textjs.org/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50361657">https://news.ycombinator.com/item?id=50361657</a>...
-- [Read more](https://textjs.org/)
+- **Summary**: A critical flaw in Ruby on Rails could allow an unauthenticated attacker to write arbitrary files on an app's server by uploading a crafted file if th...
+- [Read more](https://thehackernews.com/2026/11/critical-rails-flaw-lets-attackers.html)
 
-### GPT-Synopsys Combines IC Design EDA with Agentic AI
+### Xen Hypervisor Flaws Let One Malicious VM Read and Write Any Other VM's Memory
 - **Published**: November 04, 2026
-- **Summary**: https://www.eetimes.com/gpt-synopsys-combines-ic-design-eda-with-agentic-ai/</a></p>
-<p>Comments ......
-- [Read more](https://www.eetimes.com/gpt-synopsys-combines-ic-design-eda-with-agentic-ai/)
+- **Summary**: Two flaws in the Xen hypervisor allow a malicious guest virtual machine (VM) to read and write the memory of other VMs on the same host, including dom...
+- [Read more](https://thehackernews.com/2026/11/xen-hypervisor-flaws-let-one-malicious.html)
 
 ---
 
