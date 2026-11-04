@@ -16,15 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### mSecure Warns Users to Change Passwords, Reset 2FA and Passkeys After Suspicious Activity
+### Text.js: Build full-stack React apps that render inside console.log
 - **Published**: November 04, 2026
-- **Summary**: Customers of the mSecure password manager are being urged to act now to protect the confidential information they store in it, possibly by changing pa...
-- [Read more](https://thehackernews.com/2026/11/msecure-warns-users-to-change-passwords.html)
+- **Summary**: https://textjs.org/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50361657">https://news.ycombinator.com/item?id=50361657</a>...
+- [Read more](https://textjs.org/)
 
-### Chainstack Reports Production Systems Breach Exposing Customer Data and Password Hashes
-- **Published**: November 03, 2026
-- **Summary**: Blockchain infrastructure provider Chainstack on Tuesday disclosed that it was targeted in a cyber attack that allowed an unauthorized party to gain a...
-- [Read more](https://thehackernews.com/2026/11/chainstack-reports-production-systems.html)
+### GPT-Synopsys Combines IC Design EDA with Agentic AI
+- **Published**: November 04, 2026
+- **Summary**: https://www.eetimes.com/gpt-synopsys-combines-ic-design-eda-with-agentic-ai/</a></p>
+<p>Comments ......
+- [Read more](https://www.eetimes.com/gpt-synopsys-combines-ic-design-eda-with-agentic-ai/)
 
 ---
 
