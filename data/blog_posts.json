@@ -1,10 +1,90 @@
 {
   "chaos_ranked": [
     {
-      "title": "Critical Rails Flaw Lets Attackers Write Server Files via Crafted ImageMagick Uploads",
-      "link": "https://thehackernews.com/2026/11/critical-rails-flaw-lets-attackers.html",
-      "summary": "A critical flaw in Ruby on Rails could allow an unauthenticated attacker to write arbitrary files on an app's server by uploading a crafted file if the app processes uploads using ImageMagick. The Rai...",
-      "published": "2026-11-04T17:37:04+05:30",
+      "title": "Kashmir's vanishing potato pits: generations of knowledge may be buried forever",
+      "link": "https://www.theguardian.com/environment/2026/nov/04/kashmir-potato-pits-vanishing-indigenous-knowledge-buried-aoe",
+      "summary": "<p>Article URL: <a href=\"https://www.theguardian.com/environment/2026/nov/04/kashmir-potato-pits-vanishing-indigenous-knowledge-buried-aoe\">https://www.theguardian.com/environment/2026/nov/04/kashmir-...",
+      "published": "2026-11-04T23:12:13+00:00",
+      "domain": "theguardian.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Puremail and Pure Writer for Haiku",
+      "link": "https://pureemail.net/haiku.html",
+      "summary": "<p>Article URL: <a href=\"https://pureemail.net/haiku.html\">https://pureemail.net/haiku.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50372750\">https://news.ycombinator.co...",
+      "published": "2026-11-04T23:10:46+00:00",
+      "domain": "pureemail.net",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "GarlicSignage \u2013 open-source Digital Signage Software",
+      "link": "https://github.com/garlic-signage",
+      "summary": "<p>Article URL: <a href=\"https://github.com/garlic-signage\">https://github.com/garlic-signage</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50372698\">https://news.ycombinator....",
+      "published": "2026-11-04T23:05:47+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "AI triggers PCB shortage for PC makers as order books full until 2030, costs 12x",
+      "link": "https://www.tomshardware.com/pc-components/ai-demand-triggers-massive-pcb-shortage-for-pc-makers-as-order-books-full-until-2030-lead-times-stretch-to-30-months-as-material-costs-surge-12x",
+      "summary": "<p>Article URL: <a href=\"https://www.tomshardware.com/pc-components/ai-demand-triggers-massive-pcb-shortage-for-pc-makers-as-order-books-full-until-2030-lead-times-stretch-to-30-months-as-material-cos...",
+      "published": "2026-11-04T23:05:24+00:00",
+      "domain": "tomshardware.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Background subagents in Claude Code now use less of your usage limit",
+      "link": "https://twitter.com/ClaudeDevs/status/2118063143167693011",
+      "summary": "<p>Article URL: <a href=\"https://twitter.com/ClaudeDevs/status/2118063143167693011\">https://twitter.com/ClaudeDevs/status/2118063143167693011</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator...",
+      "published": "2026-11-04T23:02:48+00:00",
+      "domain": "twitter.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Debian and Ubuntu APT Flaw Lets MitM Attackers Swap Verified Packages and Run Code as Root",
+      "link": "https://thehackernews.com/2026/11/debian-and-ubuntu-apt-flaw-lets-mitm.html",
+      "summary": "A flaw in APT, the package manager for Debian and Ubuntu, allows an attacker who can modify package downloads to swap a checked package for their own.\n\nThe attacker's code then runs as root, according...",
+      "published": "2026-11-04T22:30:46+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -17,10 +97,10 @@
       }
     },
     {
-      "title": "Xen Hypervisor Flaws Let One Malicious VM Read and Write Any Other VM's Memory",
-      "link": "https://thehackernews.com/2026/11/xen-hypervisor-flaws-let-one-malicious.html",
-      "summary": "Two flaws in the Xen hypervisor allow a malicious guest virtual machine (VM) to read and write the memory of other VMs on the same host, including dom0.\n\nDom0 is the VM that, by default, has full perm...",
-      "published": "2026-11-04T17:16:27+05:30",
+      "title": "SonicWall Won't Patch EoL GMS Flaws That Could Expose Files, Alter Database Records",
+      "link": "https://thehackernews.com/2026/11/sonicwall-wont-patch-eol-gms-flaws-that.html",
+      "summary": "SonicWall has warned of two vulnerabilities impacting end-of-life Global Management System (GMS) systems that it said will not be patched.\n\nDetails of the security flaws, which affect SonicWall GMS 9....",
+      "published": "2026-11-04T22:30:38+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -33,10 +113,26 @@
       }
     },
     {
-      "title": "Radio With No Radar: Why Agent Runtime Security Fails Without the Layers Beneath It",
-      "link": "https://thehackernews.com/2026/11/radio-with-no-radar-why-agent-runtime.html",
-      "summary": "Nearly every agent security pitch now ends on the same promise: the product stops the bad action in real time. The promise holds for one kind of agent, the kind whose traffic passes through a gateway ...",
-      "published": "2026-11-04T17:04:20+05:30",
+      "title": "Hacking the Xbox 360 Hypervisor Part 3: Bad Update Improvements",
+      "link": "https://icode4.coffee/?p=1746",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50372164\">Comments</a>...",
+      "published": "2026-11-04T22:01:49+00:00",
+      "domain": "icode4.coffee",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Researchers Uncover Prompt Adware Hidden in OpenAI Codex Jailbreak Toolkit",
+      "link": "https://thehackernews.com/2026/11/researchers-uncover-prompt-adware.html",
+      "summary": "Cybersecurity researchers have disclosed details of an OpenAI Codex jailbreak bundle that's designed to modify an artificial intelligence (AI) agent's trusted instructions to insert advertisements for...",
+      "published": "2026-11-04T21:36:43+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -49,107 +145,11 @@
       }
     },
     {
-      "title": "China-Aligned Hackers Hijack Sogou Input Method DNS Requests to Deploy DarkVigil Backdoor",
-      "link": "https://thehackernews.com/2026/11/china-aligned-hackers-hijack-sogou.html",
-      "summary": "A China-aligned threat actor known as SlippyNunchucks has been attributed to a Domain Name System (DNS) hijacking operation abusing insecure HTTP communications in Windows versions of Sogou Input Meth...",
-      "published": "2026-11-04T16:54:31+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Developers Are Getting RAIded",
-      "link": "https://www.nickbevers.dev/blog/developers-are-getting-r-ai-ded",
-      "summary": "<p>Article URL: <a href=\"https://www.nickbevers.dev/blog/developers-are-getting-r-ai-ded\">https://www.nickbevers.dev/blog/developers-are-getting-r-ai-ded</a></p>\n<p>Comments URL: <a href=\"https://news...",
-      "published": "2026-11-04T13:50:57+00:00",
-      "domain": "nickbevers.dev",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Five rules for evaluating agent skills before they bloat your context window",
-      "link": "https://cloud.google.com/blog/topics/developers-practitioners/evaluate-agent-skills-before-they-bloat-your-context-window",
-      "summary": "<p>Article URL: <a href=\"https://cloud.google.com/blog/topics/developers-practitioners/evaluate-agent-skills-before-they-bloat-your-context-window\">https://cloud.google.com/blog/topics/developers-prac...",
-      "published": "2026-11-04T13:50:00+00:00",
-      "domain": "cloud.google.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Nvidia CEO Hints at Annual GPU Subscription Fees, Software Licensing Growth",
-      "link": "https://windowsreport.com/nvidia-ceo-hints-at-annual-gpu-subscription-fees-says-software-licensing-will-be-a-major-part-of-its-business/",
-      "summary": "<p>Article URL: <a href=\"https://windowsreport.com/nvidia-ceo-hints-at-annual-gpu-subscription-fees-says-software-licensing-will-be-a-major-part-of-its-business/\">https://windowsreport.com/nvidia-ceo-...",
-      "published": "2026-11-04T13:48:56+00:00",
-      "domain": "windowsreport.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "AI cannot be separated from the thought that is making it",
-      "link": "https://openwisdom.substack.com/p/an-urgent-message-on-artificial-intelligence",
-      "summary": "<p>Article URL: <a href=\"https://openwisdom.substack.com/p/an-urgent-message-on-artificial-intelligence\">https://openwisdom.substack.com/p/an-urgent-message-on-artificial-intelligence</a></p>\n<p>Comme...",
-      "published": "2026-11-04T13:47:55+00:00",
-      "domain": "openwisdom.substack.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Russian Police Arrest 3 Suspected VasyGrek Hackers, Dismantle Criminal Infrastructure",
-      "link": "https://thehackernews.com/2026/11/russian-police-arrest-3-suspected.html",
-      "summary": "Russian authorities have arrested three suspected members of a threat group known as VasyGrek and dismantled its criminal infrastructure.\n\nAlso known as Fluffy Wolf, the threat actor has a history of ...",
-      "published": "2026-11-04T13:47:11+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Tell HN: Claude Code queries raw GitHub token on startup",
-      "link": "https://news.ycombinator.com/item?id=50365442",
-      "summary": "<p>It's probably known but I was caught off guard yesterday when I noticed that Claude Code (CC) runs `gh auth token --hostname github.com` on every startup which typically returns raw token. e.g.<p><...",
-      "published": "2026-11-04T13:46:40+00:00",
-      "domain": "news.ycombinator.com",
+      "title": "Residential proxies detected on White House network",
+      "link": "https://layer3intel.com/blog/residential-proxies-white-house-network",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50371246\">Comments</a>...",
+      "published": "2026-11-04T20:45:18+00:00",
+      "domain": "layer3intel.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -163,10 +163,90 @@
   ],
   "anarchy_ranked": [
     {
-      "title": "Critical Rails Flaw Lets Attackers Write Server Files via Crafted ImageMagick Uploads",
-      "link": "https://thehackernews.com/2026/11/critical-rails-flaw-lets-attackers.html",
-      "summary": "A critical flaw in Ruby on Rails could allow an unauthenticated attacker to write arbitrary files on an app's server by uploading a crafted file if the app processes uploads using ImageMagick. The Rai...",
-      "published": "2026-11-04T17:37:04+05:30",
+      "title": "Kashmir's vanishing potato pits: generations of knowledge may be buried forever",
+      "link": "https://www.theguardian.com/environment/2026/nov/04/kashmir-potato-pits-vanishing-indigenous-knowledge-buried-aoe",
+      "summary": "<p>Article URL: <a href=\"https://www.theguardian.com/environment/2026/nov/04/kashmir-potato-pits-vanishing-indigenous-knowledge-buried-aoe\">https://www.theguardian.com/environment/2026/nov/04/kashmir-...",
+      "published": "2026-11-04T23:12:13+00:00",
+      "domain": "theguardian.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Puremail and Pure Writer for Haiku",
+      "link": "https://pureemail.net/haiku.html",
+      "summary": "<p>Article URL: <a href=\"https://pureemail.net/haiku.html\">https://pureemail.net/haiku.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50372750\">https://news.ycombinator.co...",
+      "published": "2026-11-04T23:10:46+00:00",
+      "domain": "pureemail.net",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "GarlicSignage \u2013 open-source Digital Signage Software",
+      "link": "https://github.com/garlic-signage",
+      "summary": "<p>Article URL: <a href=\"https://github.com/garlic-signage\">https://github.com/garlic-signage</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50372698\">https://news.ycombinator....",
+      "published": "2026-11-04T23:05:47+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "AI triggers PCB shortage for PC makers as order books full until 2030, costs 12x",
+      "link": "https://www.tomshardware.com/pc-components/ai-demand-triggers-massive-pcb-shortage-for-pc-makers-as-order-books-full-until-2030-lead-times-stretch-to-30-months-as-material-costs-surge-12x",
+      "summary": "<p>Article URL: <a href=\"https://www.tomshardware.com/pc-components/ai-demand-triggers-massive-pcb-shortage-for-pc-makers-as-order-books-full-until-2030-lead-times-stretch-to-30-months-as-material-cos...",
+      "published": "2026-11-04T23:05:24+00:00",
+      "domain": "tomshardware.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Background subagents in Claude Code now use less of your usage limit",
+      "link": "https://twitter.com/ClaudeDevs/status/2118063143167693011",
+      "summary": "<p>Article URL: <a href=\"https://twitter.com/ClaudeDevs/status/2118063143167693011\">https://twitter.com/ClaudeDevs/status/2118063143167693011</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator...",
+      "published": "2026-11-04T23:02:48+00:00",
+      "domain": "twitter.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Debian and Ubuntu APT Flaw Lets MitM Attackers Swap Verified Packages and Run Code as Root",
+      "link": "https://thehackernews.com/2026/11/debian-and-ubuntu-apt-flaw-lets-mitm.html",
+      "summary": "A flaw in APT, the package manager for Debian and Ubuntu, allows an attacker who can modify package downloads to swap a checked package for their own.\n\nThe attacker's code then runs as root, according...",
+      "published": "2026-11-04T22:30:46+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -179,10 +259,10 @@
       }
     },
     {
-      "title": "Xen Hypervisor Flaws Let One Malicious VM Read and Write Any Other VM's Memory",
-      "link": "https://thehackernews.com/2026/11/xen-hypervisor-flaws-let-one-malicious.html",
-      "summary": "Two flaws in the Xen hypervisor allow a malicious guest virtual machine (VM) to read and write the memory of other VMs on the same host, including dom0.\n\nDom0 is the VM that, by default, has full perm...",
-      "published": "2026-11-04T17:16:27+05:30",
+      "title": "SonicWall Won't Patch EoL GMS Flaws That Could Expose Files, Alter Database Records",
+      "link": "https://thehackernews.com/2026/11/sonicwall-wont-patch-eol-gms-flaws-that.html",
+      "summary": "SonicWall has warned of two vulnerabilities impacting end-of-life Global Management System (GMS) systems that it said will not be patched.\n\nDetails of the security flaws, which affect SonicWall GMS 9....",
+      "published": "2026-11-04T22:30:38+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -195,10 +275,26 @@
       }
     },
     {
-      "title": "Radio With No Radar: Why Agent Runtime Security Fails Without the Layers Beneath It",
-      "link": "https://thehackernews.com/2026/11/radio-with-no-radar-why-agent-runtime.html",
-      "summary": "Nearly every agent security pitch now ends on the same promise: the product stops the bad action in real time. The promise holds for one kind of agent, the kind whose traffic passes through a gateway ...",
-      "published": "2026-11-04T17:04:20+05:30",
+      "title": "Hacking the Xbox 360 Hypervisor Part 3: Bad Update Improvements",
+      "link": "https://icode4.coffee/?p=1746",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50372164\">Comments</a>...",
+      "published": "2026-11-04T22:01:49+00:00",
+      "domain": "icode4.coffee",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Researchers Uncover Prompt Adware Hidden in OpenAI Codex Jailbreak Toolkit",
+      "link": "https://thehackernews.com/2026/11/researchers-uncover-prompt-adware.html",
+      "summary": "Cybersecurity researchers have disclosed details of an OpenAI Codex jailbreak bundle that's designed to modify an artificial intelligence (AI) agent's trusted instructions to insert advertisements for...",
+      "published": "2026-11-04T21:36:43+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -211,107 +307,11 @@
       }
     },
     {
-      "title": "China-Aligned Hackers Hijack Sogou Input Method DNS Requests to Deploy DarkVigil Backdoor",
-      "link": "https://thehackernews.com/2026/11/china-aligned-hackers-hijack-sogou.html",
-      "summary": "A China-aligned threat actor known as SlippyNunchucks has been attributed to a Domain Name System (DNS) hijacking operation abusing insecure HTTP communications in Windows versions of Sogou Input Meth...",
-      "published": "2026-11-04T16:54:31+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Developers Are Getting RAIded",
-      "link": "https://www.nickbevers.dev/blog/developers-are-getting-r-ai-ded",
-      "summary": "<p>Article URL: <a href=\"https://www.nickbevers.dev/blog/developers-are-getting-r-ai-ded\">https://www.nickbevers.dev/blog/developers-are-getting-r-ai-ded</a></p>\n<p>Comments URL: <a href=\"https://news...",
-      "published": "2026-11-04T13:50:57+00:00",
-      "domain": "nickbevers.dev",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Five rules for evaluating agent skills before they bloat your context window",
-      "link": "https://cloud.google.com/blog/topics/developers-practitioners/evaluate-agent-skills-before-they-bloat-your-context-window",
-      "summary": "<p>Article URL: <a href=\"https://cloud.google.com/blog/topics/developers-practitioners/evaluate-agent-skills-before-they-bloat-your-context-window\">https://cloud.google.com/blog/topics/developers-prac...",
-      "published": "2026-11-04T13:50:00+00:00",
-      "domain": "cloud.google.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Nvidia CEO Hints at Annual GPU Subscription Fees, Software Licensing Growth",
-      "link": "https://windowsreport.com/nvidia-ceo-hints-at-annual-gpu-subscription-fees-says-software-licensing-will-be-a-major-part-of-its-business/",
-      "summary": "<p>Article URL: <a href=\"https://windowsreport.com/nvidia-ceo-hints-at-annual-gpu-subscription-fees-says-software-licensing-will-be-a-major-part-of-its-business/\">https://windowsreport.com/nvidia-ceo-...",
-      "published": "2026-11-04T13:48:56+00:00",
-      "domain": "windowsreport.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "AI cannot be separated from the thought that is making it",
-      "link": "https://openwisdom.substack.com/p/an-urgent-message-on-artificial-intelligence",
-      "summary": "<p>Article URL: <a href=\"https://openwisdom.substack.com/p/an-urgent-message-on-artificial-intelligence\">https://openwisdom.substack.com/p/an-urgent-message-on-artificial-intelligence</a></p>\n<p>Comme...",
-      "published": "2026-11-04T13:47:55+00:00",
-      "domain": "openwisdom.substack.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Russian Police Arrest 3 Suspected VasyGrek Hackers, Dismantle Criminal Infrastructure",
-      "link": "https://thehackernews.com/2026/11/russian-police-arrest-3-suspected.html",
-      "summary": "Russian authorities have arrested three suspected members of a threat group known as VasyGrek and dismantled its criminal infrastructure.\n\nAlso known as Fluffy Wolf, the threat actor has a history of ...",
-      "published": "2026-11-04T13:47:11+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Tell HN: Claude Code queries raw GitHub token on startup",
-      "link": "https://news.ycombinator.com/item?id=50365442",
-      "summary": "<p>It's probably known but I was caught off guard yesterday when I noticed that Claude Code (CC) runs `gh auth token --hostname github.com` on every startup which typically returns raw token. e.g.<p><...",
-      "published": "2026-11-04T13:46:40+00:00",
-      "domain": "news.ycombinator.com",
+      "title": "Residential proxies detected on White House network",
+      "link": "https://layer3intel.com/blog/residential-proxies-white-house-network",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50371246\">Comments</a>...",
+      "published": "2026-11-04T20:45:18+00:00",
+      "domain": "layer3intel.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -325,10 +325,90 @@
   ],
   "overall_ranked": [
     {
-      "title": "Critical Rails Flaw Lets Attackers Write Server Files via Crafted ImageMagick Uploads",
-      "link": "https://thehackernews.com/2026/11/critical-rails-flaw-lets-attackers.html",
-      "summary": "A critical flaw in Ruby on Rails could allow an unauthenticated attacker to write arbitrary files on an app's server by uploading a crafted file if the app processes uploads using ImageMagick. The Rai...",
-      "published": "2026-11-04T17:37:04+05:30",
+      "title": "Kashmir's vanishing potato pits: generations of knowledge may be buried forever",
+      "link": "https://www.theguardian.com/environment/2026/nov/04/kashmir-potato-pits-vanishing-indigenous-knowledge-buried-aoe",
+      "summary": "<p>Article URL: <a href=\"https://www.theguardian.com/environment/2026/nov/04/kashmir-potato-pits-vanishing-indigenous-knowledge-buried-aoe\">https://www.theguardian.com/environment/2026/nov/04/kashmir-...",
+      "published": "2026-11-04T23:12:13+00:00",
+      "domain": "theguardian.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Puremail and Pure Writer for Haiku",
+      "link": "https://pureemail.net/haiku.html",
+      "summary": "<p>Article URL: <a href=\"https://pureemail.net/haiku.html\">https://pureemail.net/haiku.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50372750\">https://news.ycombinator.co...",
+      "published": "2026-11-04T23:10:46+00:00",
+      "domain": "pureemail.net",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "GarlicSignage \u2013 open-source Digital Signage Software",
+      "link": "https://github.com/garlic-signage",
+      "summary": "<p>Article URL: <a href=\"https://github.com/garlic-signage\">https://github.com/garlic-signage</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50372698\">https://news.ycombinator....",
+      "published": "2026-11-04T23:05:47+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "AI triggers PCB shortage for PC makers as order books full until 2030, costs 12x",
+      "link": "https://www.tomshardware.com/pc-components/ai-demand-triggers-massive-pcb-shortage-for-pc-makers-as-order-books-full-until-2030-lead-times-stretch-to-30-months-as-material-costs-surge-12x",
+      "summary": "<p>Article URL: <a href=\"https://www.tomshardware.com/pc-components/ai-demand-triggers-massive-pcb-shortage-for-pc-makers-as-order-books-full-until-2030-lead-times-stretch-to-30-months-as-material-cos...",
+      "published": "2026-11-04T23:05:24+00:00",
+      "domain": "tomshardware.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Background subagents in Claude Code now use less of your usage limit",
+      "link": "https://twitter.com/ClaudeDevs/status/2118063143167693011",
+      "summary": "<p>Article URL: <a href=\"https://twitter.com/ClaudeDevs/status/2118063143167693011\">https://twitter.com/ClaudeDevs/status/2118063143167693011</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator...",
+      "published": "2026-11-04T23:02:48+00:00",
+      "domain": "twitter.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Debian and Ubuntu APT Flaw Lets MitM Attackers Swap Verified Packages and Run Code as Root",
+      "link": "https://thehackernews.com/2026/11/debian-and-ubuntu-apt-flaw-lets-mitm.html",
+      "summary": "A flaw in APT, the package manager for Debian and Ubuntu, allows an attacker who can modify package downloads to swap a checked package for their own.\n\nThe attacker's code then runs as root, according...",
+      "published": "2026-11-04T22:30:46+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -341,10 +421,10 @@
       }
     },
     {
-      "title": "Xen Hypervisor Flaws Let One Malicious VM Read and Write Any Other VM's Memory",
-      "link": "https://thehackernews.com/2026/11/xen-hypervisor-flaws-let-one-malicious.html",
-      "summary": "Two flaws in the Xen hypervisor allow a malicious guest virtual machine (VM) to read and write the memory of other VMs on the same host, including dom0.\n\nDom0 is the VM that, by default, has full perm...",
-      "published": "2026-11-04T17:16:27+05:30",
+      "title": "SonicWall Won't Patch EoL GMS Flaws That Could Expose Files, Alter Database Records",
+      "link": "https://thehackernews.com/2026/11/sonicwall-wont-patch-eol-gms-flaws-that.html",
+      "summary": "SonicWall has warned of two vulnerabilities impacting end-of-life Global Management System (GMS) systems that it said will not be patched.\n\nDetails of the security flaws, which affect SonicWall GMS 9....",
+      "published": "2026-11-04T22:30:38+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -357,10 +437,26 @@
       }
     },
     {
-      "title": "Radio With No Radar: Why Agent Runtime Security Fails Without the Layers Beneath It",
-      "link": "https://thehackernews.com/2026/11/radio-with-no-radar-why-agent-runtime.html",
-      "summary": "Nearly every agent security pitch now ends on the same promise: the product stops the bad action in real time. The promise holds for one kind of agent, the kind whose traffic passes through a gateway ...",
-      "published": "2026-11-04T17:04:20+05:30",
+      "title": "Hacking the Xbox 360 Hypervisor Part 3: Bad Update Improvements",
+      "link": "https://icode4.coffee/?p=1746",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50372164\">Comments</a>...",
+      "published": "2026-11-04T22:01:49+00:00",
+      "domain": "icode4.coffee",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Researchers Uncover Prompt Adware Hidden in OpenAI Codex Jailbreak Toolkit",
+      "link": "https://thehackernews.com/2026/11/researchers-uncover-prompt-adware.html",
+      "summary": "Cybersecurity researchers have disclosed details of an OpenAI Codex jailbreak bundle that's designed to modify an artificial intelligence (AI) agent's trusted instructions to insert advertisements for...",
+      "published": "2026-11-04T21:36:43+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -373,107 +469,11 @@
       }
     },
     {
-      "title": "China-Aligned Hackers Hijack Sogou Input Method DNS Requests to Deploy DarkVigil Backdoor",
-      "link": "https://thehackernews.com/2026/11/china-aligned-hackers-hijack-sogou.html",
-      "summary": "A China-aligned threat actor known as SlippyNunchucks has been attributed to a Domain Name System (DNS) hijacking operation abusing insecure HTTP communications in Windows versions of Sogou Input Meth...",
-      "published": "2026-11-04T16:54:31+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Developers Are Getting RAIded",
-      "link": "https://www.nickbevers.dev/blog/developers-are-getting-r-ai-ded",
-      "summary": "<p>Article URL: <a href=\"https://www.nickbevers.dev/blog/developers-are-getting-r-ai-ded\">https://www.nickbevers.dev/blog/developers-are-getting-r-ai-ded</a></p>\n<p>Comments URL: <a href=\"https://news...",
-      "published": "2026-11-04T13:50:57+00:00",
-      "domain": "nickbevers.dev",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Five rules for evaluating agent skills before they bloat your context window",
-      "link": "https://cloud.google.com/blog/topics/developers-practitioners/evaluate-agent-skills-before-they-bloat-your-context-window",
-      "summary": "<p>Article URL: <a href=\"https://cloud.google.com/blog/topics/developers-practitioners/evaluate-agent-skills-before-they-bloat-your-context-window\">https://cloud.google.com/blog/topics/developers-prac...",
-      "published": "2026-11-04T13:50:00+00:00",
-      "domain": "cloud.google.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Nvidia CEO Hints at Annual GPU Subscription Fees, Software Licensing Growth",
-      "link": "https://windowsreport.com/nvidia-ceo-hints-at-annual-gpu-subscription-fees-says-software-licensing-will-be-a-major-part-of-its-business/",
-      "summary": "<p>Article URL: <a href=\"https://windowsreport.com/nvidia-ceo-hints-at-annual-gpu-subscription-fees-says-software-licensing-will-be-a-major-part-of-its-business/\">https://windowsreport.com/nvidia-ceo-...",
-      "published": "2026-11-04T13:48:56+00:00",
-      "domain": "windowsreport.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "AI cannot be separated from the thought that is making it",
-      "link": "https://openwisdom.substack.com/p/an-urgent-message-on-artificial-intelligence",
-      "summary": "<p>Article URL: <a href=\"https://openwisdom.substack.com/p/an-urgent-message-on-artificial-intelligence\">https://openwisdom.substack.com/p/an-urgent-message-on-artificial-intelligence</a></p>\n<p>Comme...",
-      "published": "2026-11-04T13:47:55+00:00",
-      "domain": "openwisdom.substack.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Russian Police Arrest 3 Suspected VasyGrek Hackers, Dismantle Criminal Infrastructure",
-      "link": "https://thehackernews.com/2026/11/russian-police-arrest-3-suspected.html",
-      "summary": "Russian authorities have arrested three suspected members of a threat group known as VasyGrek and dismantled its criminal infrastructure.\n\nAlso known as Fluffy Wolf, the threat actor has a history of ...",
-      "published": "2026-11-04T13:47:11+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Tell HN: Claude Code queries raw GitHub token on startup",
-      "link": "https://news.ycombinator.com/item?id=50365442",
-      "summary": "<p>It's probably known but I was caught off guard yesterday when I noticed that Claude Code (CC) runs `gh auth token --hostname github.com` on every startup which typically returns raw token. e.g.<p><...",
-      "published": "2026-11-04T13:46:40+00:00",
-      "domain": "news.ycombinator.com",
+      "title": "Residential proxies detected on White House network",
+      "link": "https://layer3intel.com/blog/residential-proxies-white-house-network",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50371246\">Comments</a>...",
+      "published": "2026-11-04T20:45:18+00:00",
+      "domain": "layer3intel.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -487,10 +487,90 @@
   ],
   "all_articles": [
     {
-      "title": "Critical Rails Flaw Lets Attackers Write Server Files via Crafted ImageMagick Uploads",
-      "link": "https://thehackernews.com/2026/11/critical-rails-flaw-lets-attackers.html",
-      "summary": "A critical flaw in Ruby on Rails could allow an unauthenticated attacker to write arbitrary files on an app's server by uploading a crafted file if the app processes uploads using ImageMagick. The Rai...",
-      "published": "2026-11-04T17:37:04+05:30",
+      "title": "Kashmir's vanishing potato pits: generations of knowledge may be buried forever",
+      "link": "https://www.theguardian.com/environment/2026/nov/04/kashmir-potato-pits-vanishing-indigenous-knowledge-buried-aoe",
+      "summary": "<p>Article URL: <a href=\"https://www.theguardian.com/environment/2026/nov/04/kashmir-potato-pits-vanishing-indigenous-knowledge-buried-aoe\">https://www.theguardian.com/environment/2026/nov/04/kashmir-...",
+      "published": "2026-11-04T23:12:13+00:00",
+      "domain": "theguardian.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Puremail and Pure Writer for Haiku",
+      "link": "https://pureemail.net/haiku.html",
+      "summary": "<p>Article URL: <a href=\"https://pureemail.net/haiku.html\">https://pureemail.net/haiku.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50372750\">https://news.ycombinator.co...",
+      "published": "2026-11-04T23:10:46+00:00",
+      "domain": "pureemail.net",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "GarlicSignage \u2013 open-source Digital Signage Software",
+      "link": "https://github.com/garlic-signage",
+      "summary": "<p>Article URL: <a href=\"https://github.com/garlic-signage\">https://github.com/garlic-signage</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50372698\">https://news.ycombinator....",
+      "published": "2026-11-04T23:05:47+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "AI triggers PCB shortage for PC makers as order books full until 2030, costs 12x",
+      "link": "https://www.tomshardware.com/pc-components/ai-demand-triggers-massive-pcb-shortage-for-pc-makers-as-order-books-full-until-2030-lead-times-stretch-to-30-months-as-material-costs-surge-12x",
+      "summary": "<p>Article URL: <a href=\"https://www.tomshardware.com/pc-components/ai-demand-triggers-massive-pcb-shortage-for-pc-makers-as-order-books-full-until-2030-lead-times-stretch-to-30-months-as-material-cos...",
+      "published": "2026-11-04T23:05:24+00:00",
+      "domain": "tomshardware.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Background subagents in Claude Code now use less of your usage limit",
+      "link": "https://twitter.com/ClaudeDevs/status/2118063143167693011",
+      "summary": "<p>Article URL: <a href=\"https://twitter.com/ClaudeDevs/status/2118063143167693011\">https://twitter.com/ClaudeDevs/status/2118063143167693011</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator...",
+      "published": "2026-11-04T23:02:48+00:00",
+      "domain": "twitter.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Debian and Ubuntu APT Flaw Lets MitM Attackers Swap Verified Packages and Run Code as Root",
+      "link": "https://thehackernews.com/2026/11/debian-and-ubuntu-apt-flaw-lets-mitm.html",
+      "summary": "A flaw in APT, the package manager for Debian and Ubuntu, allows an attacker who can modify package downloads to swap a checked package for their own.\n\nThe attacker's code then runs as root, according...",
+      "published": "2026-11-04T22:30:46+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -503,10 +583,10 @@
       }
     },
     {
-      "title": "Xen Hypervisor Flaws Let One Malicious VM Read and Write Any Other VM's Memory",
-      "link": "https://thehackernews.com/2026/11/xen-hypervisor-flaws-let-one-malicious.html",
-      "summary": "Two flaws in the Xen hypervisor allow a malicious guest virtual machine (VM) to read and write the memory of other VMs on the same host, including dom0.\n\nDom0 is the VM that, by default, has full perm...",
-      "published": "2026-11-04T17:16:27+05:30",
+      "title": "SonicWall Won't Patch EoL GMS Flaws That Could Expose Files, Alter Database Records",
+      "link": "https://thehackernews.com/2026/11/sonicwall-wont-patch-eol-gms-flaws-that.html",
+      "summary": "SonicWall has warned of two vulnerabilities impacting end-of-life Global Management System (GMS) systems that it said will not be patched.\n\nDetails of the security flaws, which affect SonicWall GMS 9....",
+      "published": "2026-11-04T22:30:38+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -519,10 +599,26 @@
       }
     },
     {
-      "title": "Radio With No Radar: Why Agent Runtime Security Fails Without the Layers Beneath It",
-      "link": "https://thehackernews.com/2026/11/radio-with-no-radar-why-agent-runtime.html",
-      "summary": "Nearly every agent security pitch now ends on the same promise: the product stops the bad action in real time. The promise holds for one kind of agent, the kind whose traffic passes through a gateway ...",
-      "published": "2026-11-04T17:04:20+05:30",
+      "title": "Hacking the Xbox 360 Hypervisor Part 3: Bad Update Improvements",
+      "link": "https://icode4.coffee/?p=1746",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50372164\">Comments</a>...",
+      "published": "2026-11-04T22:01:49+00:00",
+      "domain": "icode4.coffee",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Researchers Uncover Prompt Adware Hidden in OpenAI Codex Jailbreak Toolkit",
+      "link": "https://thehackernews.com/2026/11/researchers-uncover-prompt-adware.html",
+      "summary": "Cybersecurity researchers have disclosed details of an OpenAI Codex jailbreak bundle that's designed to modify an artificial intelligence (AI) agent's trusted instructions to insert advertisements for...",
+      "published": "2026-11-04T21:36:43+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -535,107 +631,11 @@
       }
     },
     {
-      "title": "China-Aligned Hackers Hijack Sogou Input Method DNS Requests to Deploy DarkVigil Backdoor",
-      "link": "https://thehackernews.com/2026/11/china-aligned-hackers-hijack-sogou.html",
-      "summary": "A China-aligned threat actor known as SlippyNunchucks has been attributed to a Domain Name System (DNS) hijacking operation abusing insecure HTTP communications in Windows versions of Sogou Input Meth...",
-      "published": "2026-11-04T16:54:31+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Developers Are Getting RAIded",
-      "link": "https://www.nickbevers.dev/blog/developers-are-getting-r-ai-ded",
-      "summary": "<p>Article URL: <a href=\"https://www.nickbevers.dev/blog/developers-are-getting-r-ai-ded\">https://www.nickbevers.dev/blog/developers-are-getting-r-ai-ded</a></p>\n<p>Comments URL: <a href=\"https://news...",
-      "published": "2026-11-04T13:50:57+00:00",
-      "domain": "nickbevers.dev",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Five rules for evaluating agent skills before they bloat your context window",
-      "link": "https://cloud.google.com/blog/topics/developers-practitioners/evaluate-agent-skills-before-they-bloat-your-context-window",
-      "summary": "<p>Article URL: <a href=\"https://cloud.google.com/blog/topics/developers-practitioners/evaluate-agent-skills-before-they-bloat-your-context-window\">https://cloud.google.com/blog/topics/developers-prac...",
-      "published": "2026-11-04T13:50:00+00:00",
-      "domain": "cloud.google.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Nvidia CEO Hints at Annual GPU Subscription Fees, Software Licensing Growth",
-      "link": "https://windowsreport.com/nvidia-ceo-hints-at-annual-gpu-subscription-fees-says-software-licensing-will-be-a-major-part-of-its-business/",
-      "summary": "<p>Article URL: <a href=\"https://windowsreport.com/nvidia-ceo-hints-at-annual-gpu-subscription-fees-says-software-licensing-will-be-a-major-part-of-its-business/\">https://windowsreport.com/nvidia-ceo-...",
-      "published": "2026-11-04T13:48:56+00:00",
-      "domain": "windowsreport.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "AI cannot be separated from the thought that is making it",
-      "link": "https://openwisdom.substack.com/p/an-urgent-message-on-artificial-intelligence",
-      "summary": "<p>Article URL: <a href=\"https://openwisdom.substack.com/p/an-urgent-message-on-artificial-intelligence\">https://openwisdom.substack.com/p/an-urgent-message-on-artificial-intelligence</a></p>\n<p>Comme...",
-      "published": "2026-11-04T13:47:55+00:00",
-      "domain": "openwisdom.substack.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Russian Police Arrest 3 Suspected VasyGrek Hackers, Dismantle Criminal Infrastructure",
-      "link": "https://thehackernews.com/2026/11/russian-police-arrest-3-suspected.html",
-      "summary": "Russian authorities have arrested three suspected members of a threat group known as VasyGrek and dismantled its criminal infrastructure.\n\nAlso known as Fluffy Wolf, the threat actor has a history of ...",
-      "published": "2026-11-04T13:47:11+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Tell HN: Claude Code queries raw GitHub token on startup",
-      "link": "https://news.ycombinator.com/item?id=50365442",
-      "summary": "<p>It's probably known but I was caught off guard yesterday when I noticed that Claude Code (CC) runs `gh auth token --hostname github.com` on every startup which typically returns raw token. e.g.<p><...",
-      "published": "2026-11-04T13:46:40+00:00",
-      "domain": "news.ycombinator.com",
+      "title": "Residential proxies detected on White House network",
+      "link": "https://layer3intel.com/blog/residential-proxies-white-house-network",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50371246\">Comments</a>...",
+      "published": "2026-11-04T20:45:18+00:00",
+      "domain": "layer3intel.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,

@@ -16,15 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Critical Rails Flaw Lets Attackers Write Server Files via Crafted ImageMagick Uploads
+### Kashmir's vanishing potato pits: generations of knowledge may be buried forever
 - **Published**: November 04, 2026
-- **Summary**: A critical flaw in Ruby on Rails could allow an unauthenticated attacker to write arbitrary files on an app's server by uploading a crafted file if th...
-- [Read more](https://thehackernews.com/2026/11/critical-rails-flaw-lets-attackers.html)
+- **Summary**: https://www.theguardian.com/environment/2026/nov/04/kashmir-......
+- [Read more](https://www.theguardian.com/environment/2026/nov/04/kashmir-potato-pits-vanishing-indigenous-knowledge-buried-aoe)
 
-### Xen Hypervisor Flaws Let One Malicious VM Read and Write Any Other VM's Memory
+### Puremail and Pure Writer for Haiku
 - **Published**: November 04, 2026
-- **Summary**: Two flaws in the Xen hypervisor allow a malicious guest virtual machine (VM) to read and write the memory of other VMs on the same host, including dom...
-- [Read more](https://thehackernews.com/2026/11/xen-hypervisor-flaws-let-one-malicious.html)
+- **Summary**: https://pureemail.net/haiku.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50372750">https://news.ycombinator.co......
+- [Read more](https://pureemail.net/haiku.html)
 
 ---
 
