@@ -16,16 +16,18 @@
 
 ## 🚨 Tech Stories
 
-### OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run
+### CERT-In Flags AI-Driven Attacks as Backdoored ARTEX Exposes 62 Consoles to Root Access
 - **Published**: November 05, 2026
-- **Summary**: OpenAI on Wednesday detailed a pipeline that employed an upcoming cyber-focused artificial intelligence (AI) model to validate and patch 948 local pri...
-- [Read more](https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html)
+- **Summary**: The Indian Computer Emergency Response Team (CERT-In) has disclosed that an artificial intelligence (AI)-assisted threat actor it tracks as Crafty Fal...
+- **Keywords**: emergency
+- [Read more](https://thehackernews.com/2026/11/backdoored-docker-image-for-artex-ai.html)
 
-### Critical thinking when agents do the work
+### Is Your Exposure Management Platform Leaving You Exposed? Five Tests to Find Out
 - **Published**: November 05, 2026
-- **Summary**: https://twitter.com/addyosmani/status/2117512471930167377</a></p>
-<p>Comments URL: <a href="https://news.ycombinator......
-- [Read more](https://twitter.com/addyosmani/status/2117512471930167377)
+- **Summary**: A critical finding can move through several security tools and still leave the organization exposed.&nbsp;
+
+The vulnerability has a severity score, an...
+- [Read more](https://thehackernews.com/2026/11/is-your-exposure-management-platform.html)
 
 ---
 
