@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Kashmir's vanishing potato pits: generations of knowledge may be buried forever
-- **Published**: November 04, 2026
-- **Summary**: https://www.theguardian.com/environment/2026/nov/04/kashmir-......
-- [Read more](https://www.theguardian.com/environment/2026/nov/04/kashmir-potato-pits-vanishing-indigenous-knowledge-buried-aoe)
+### OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run
+- **Published**: November 05, 2026
+- **Summary**: OpenAI on Wednesday detailed a pipeline that employed an upcoming cyber-focused artificial intelligence (AI) model to validate and patch 948 local pri...
+- [Read more](https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html)
 
-### Puremail and Pure Writer for Haiku
-- **Published**: November 04, 2026
-- **Summary**: https://pureemail.net/haiku.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50372750">https://news.ycombinator.co......
-- [Read more](https://pureemail.net/haiku.html)
+### Critical thinking when agents do the work
+- **Published**: November 05, 2026
+- **Summary**: https://twitter.com/addyosmani/status/2117512471930167377</a></p>
+<p>Comments URL: <a href="https://news.ycombinator......
+- [Read more](https://twitter.com/addyosmani/status/2117512471930167377)
 
 ---
 
