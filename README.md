@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Ask HN: Is MCP's real moat now adoption?
+### Microsoft Paint RCE Fix Now Available, but Windows Update Won't Deliver It
 - **Published**: November 06, 2026
-- **Summary**: <p>MCP was pitched as a fix for M*N integration problem, expose your data and tools through MCP once, and any compatible agent can use them.<p>Two thi...
-- [Read more](https://news.ycombinator.com/item?id=50388528)
+- **Summary**: A fix for CVE-2026-83844, a remote code execution flaw in Windows Paint, is now in the Microsoft Store. Paint gets this fix only through a Store updat...
+- [Read more](https://thehackernews.com/2026/11/microsoft-paint-rce-fix-now-available.html)
 
-### Show HN: Stitch.ai – New all-in-one workspace with Stitchy the AI assistant
+### Malicious Browser Extensions Could Use Claude Dispatch to Run Code on Users' Computers
 - **Published**: November 06, 2026
-- **Summary**: <p>Our team is excited to launch Stitch.ai this week. We've been working hard to bring knowledge workers, freelancers and founders a workspace that do...
-- [Read more](https://app.stitch.ai/auth/signup)
+- **Summary**: A browser extension that can run scripts on claude.ai could make Claude Desktop run code on a person's computer, researchers at Forever Security, an e...
+- [Read more](https://thehackernews.com/2026/11/malicious-browser-extensions-could-use.html)
 
 ---
 
