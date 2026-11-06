@@ -16,18 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### CERT-In Flags AI-Driven Attacks as Backdoored ARTEX Exposes 62 Consoles to Root Access
-- **Published**: November 05, 2026
-- **Summary**: The Indian Computer Emergency Response Team (CERT-In) has disclosed that an artificial intelligence (AI)-assisted threat actor it tracks as Crafty Fal...
-- **Keywords**: emergency
-- [Read more](https://thehackernews.com/2026/11/backdoored-docker-image-for-artex-ai.html)
+### Ask HN: Is MCP's real moat now adoption?
+- **Published**: November 06, 2026
+- **Summary**: <p>MCP was pitched as a fix for M*N integration problem, expose your data and tools through MCP once, and any compatible agent can use them.<p>Two thi...
+- [Read more](https://news.ycombinator.com/item?id=50388528)
 
-### Is Your Exposure Management Platform Leaving You Exposed? Five Tests to Find Out
-- **Published**: November 05, 2026
-- **Summary**: A critical finding can move through several security tools and still leave the organization exposed.&nbsp;
-
-The vulnerability has a severity score, an...
-- [Read more](https://thehackernews.com/2026/11/is-your-exposure-management-platform.html)
+### Show HN: Stitch.ai – New all-in-one workspace with Stitchy the AI assistant
+- **Published**: November 06, 2026
+- **Summary**: <p>Our team is excited to launch Stitch.ai this week. We've been working hard to bring knowledge workers, freelancers and founders a workspace that do...
+- [Read more](https://app.stitch.ai/auth/signup)
 
 ---
 
