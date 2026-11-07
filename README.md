@@ -16,17 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Screens of Death
-- **Published**: November 06, 2026
-- **Summary**: https://en.wikipedia.org/wiki/System_crash_screen</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=503......
-- [Read more](https://en.wikipedia.org/wiki/System_crash_screen)
+### Quantum Computers Are Poised to Crack Encryption. AI Could Beat Them to It
+- **Published**: November 07, 2026
+- **Summary**: https://www.wsj.com/tech/ai/ai-math-online-encryption-quantum-computers-57926bb2</a></p>
+<p>C......
+- [Read more](https://www.wsj.com/tech/ai/ai-math-online-encryption-quantum-computers-57926bb2)
 
-### Importance of Harness, Context and Model co-design
-- **Published**: November 06, 2026
-- **Summary**: https://www.wisdom.ai/blog/context-harness-co-design</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?......
-- [Read more](https://www.wisdom.ai/blog/context-harness-co-design)
+### Exploring Janet and the HTTPF web framework
+- **Published**: November 07, 2026
+- **Summary**: https://nick.gs/blog/2026-11/exploring-janet-and-the-httpf-web-framework/</a></p>
+<p>Comments URL: <......
+- [Read more](https://nick.gs/blog/2026-11/exploring-janet-and-the-httpf-web-framework/)
 
 ---
 
