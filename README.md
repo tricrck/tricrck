@@ -16,17 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Touch and Glow
+### A new open-source browser engine in V
 - **Published**: November 07, 2026
-- **Summary**: https://daringfireball.net/2026/11/touch_and_glow</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=504......
-- [Read more](https://daringfireball.net/2026/11/touch_and_glow)
+- **Summary**: https://vox-browser.org/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50408162">https://news.ycombinator.com/item?id=504081....
+- [Read more](https://vox-browser.org/)
 
-### Custom NY plate "Blank" results in $40k of fines
+### Segmentation Drives Market Share Wins in AI
 - **Published**: November 07, 2026
-- **Summary**: https://www.nytimes.com/2026/11/07/nyregion/nyc-parking-violations.html</a></p>
-<p>Comments URL: <a hr......
-- [Read more](https://www.nytimes.com/2026/11/07/nyregion/nyc-parking-violations.html)
+- **Summary**: https://tomtunguz.com/anthropic-repriced-the-enterprise/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.c......
+- [Read more](https://tomtunguz.com/anthropic-repriced-the-enterprise/)
 
 ---
 
