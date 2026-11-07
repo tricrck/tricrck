@@ -16,17 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Quantum Computers Are Poised to Crack Encryption. AI Could Beat Them to It
+### Touch and Glow
 - **Published**: November 07, 2026
-- **Summary**: https://www.wsj.com/tech/ai/ai-math-online-encryption-quantum-computers-57926bb2</a></p>
-<p>C......
-- [Read more](https://www.wsj.com/tech/ai/ai-math-online-encryption-quantum-computers-57926bb2)
+- **Summary**: https://daringfireball.net/2026/11/touch_and_glow</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=504......
+- [Read more](https://daringfireball.net/2026/11/touch_and_glow)
 
-### Exploring Janet and the HTTPF web framework
+### Custom NY plate "Blank" results in $40k of fines
 - **Published**: November 07, 2026
-- **Summary**: https://nick.gs/blog/2026-11/exploring-janet-and-the-httpf-web-framework/</a></p>
-<p>Comments URL: <......
-- [Read more](https://nick.gs/blog/2026-11/exploring-janet-and-the-httpf-web-framework/)
+- **Summary**: https://www.nytimes.com/2026/11/07/nyregion/nyc-parking-violations.html</a></p>
+<p>Comments URL: <a hr......
+- [Read more](https://www.nytimes.com/2026/11/07/nyregion/nyc-parking-violations.html)
 
 ---
 
