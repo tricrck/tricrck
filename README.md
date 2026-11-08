@@ -16,17 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### A new open-source browser engine in V
-- **Published**: November 07, 2026
-- **Summary**: https://vox-browser.org/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50408162">https://news.ycombinator.com/item?id=504081....
-- [Read more](https://vox-browser.org/)
+### Next bcachefs release will be 100% Rust
+- **Published**: November 08, 2026
+- **Summary**: https://github.com/lxc/incus/issues/213#issuecomment-6716682748</a></p>
+<p>Comments URL: <a href="https://news......
+- [Read more](https://github.com/lxc/incus/issues/213#issuecomment-6716682748)
 
-### Segmentation Drives Market Share Wins in AI
-- **Published**: November 07, 2026
-- **Summary**: https://tomtunguz.com/anthropic-repriced-the-enterprise/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.c......
-- [Read more](https://tomtunguz.com/anthropic-repriced-the-enterprise/)
+### My Two Front Teeth
+- **Published**: November 08, 2026
+- **Summary**: https://theamericanscholar.org/my-two-front-teeth/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=5......
+- [Read more](https://theamericanscholar.org/my-two-front-teeth/)
 
 ---
 
