@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### High level API for local LLMs in Node
+### U.S. Cleared Nvidia Chips to Chinese Firms with Empty Offices and Troubling Ties
 - **Published**: November 08, 2026
-- **Summary**: https://github.com/CREATORS-INDUSTRIES/llm</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50412775">https:/......
-- [Read more](https://github.com/CREATORS-INDUSTRIES/llm)
+- **Summary**: https://www.nytimes.com/2026/11/07/business/economy/nvidia-chips-chinese-firms.html</a></p......
+- [Read more](https://www.nytimes.com/2026/11/07/business/economy/nvidia-chips-chinese-firms.html)
 
-### RAM-Altman: a bash script that emails Sam Altman about your unused RAM
+### Show HN: SafeScript, a safe version of JavaScript for executing untrusted code
 - **Published**: November 08, 2026
-- **Summary**: https://ram-altman.lol/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50412766">https://news.ycombinator.com/item?id=50412766...
-- [Read more](https://ram-altman.lol/)
+- **Summary**: https://github.com/SafeScript/safescript</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50417478">https://new......
+- [Read more](https://github.com/SafeScript/safescript)
 
 ---
 
