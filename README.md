@@ -16,17 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Next bcachefs release will be 100% Rust
+### High level API for local LLMs in Node
 - **Published**: November 08, 2026
-- **Summary**: https://github.com/lxc/incus/issues/213#issuecomment-6716682748</a></p>
-<p>Comments URL: <a href="https://news......
-- [Read more](https://github.com/lxc/incus/issues/213#issuecomment-6716682748)
+- **Summary**: https://github.com/CREATORS-INDUSTRIES/llm</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50412775">https:/......
+- [Read more](https://github.com/CREATORS-INDUSTRIES/llm)
 
-### My Two Front Teeth
+### RAM-Altman: a bash script that emails Sam Altman about your unused RAM
 - **Published**: November 08, 2026
-- **Summary**: https://theamericanscholar.org/my-two-front-teeth/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=5......
-- [Read more](https://theamericanscholar.org/my-two-front-teeth/)
+- **Summary**: https://ram-altman.lol/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50412766">https://news.ycombinator.com/item?id=50412766...
+- [Read more](https://ram-altman.lol/)
 
 ---
 
