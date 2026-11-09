@@ -16,16 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### U.S. Cleared Nvidia Chips to Chinese Firms with Empty Offices and Troubling Ties
-- **Published**: November 08, 2026
-- **Summary**: https://www.nytimes.com/2026/11/07/business/economy/nvidia-chips-chinese-firms.html</a></p......
-- [Read more](https://www.nytimes.com/2026/11/07/business/economy/nvidia-chips-chinese-firms.html)
+### Humans' Origin Story Is Being Revised [video]
+- **Published**: November 09, 2026
+- **Summary**: https://www.youtube.com/watch?v=wDU27f84hAs</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50421231">https......
+- [Read more](https://www.youtube.com/watch?v=wDU27f84hAs)
 
-### Show HN: SafeScript, a safe version of JavaScript for executing untrusted code
-- **Published**: November 08, 2026
-- **Summary**: https://github.com/SafeScript/safescript</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50417478">https://new......
-- [Read more](https://github.com/SafeScript/safescript)
+### The Collision: What AI Does to Us
+- **Published**: November 09, 2026
+- **Summary**: https://mitsloan.mit.edu/ideas-made-to-matter/collision-what-ai-does-to-us</a></p>
+<p>Comments URL:......
+- [Read more](https://mitsloan.mit.edu/ideas-made-to-matter/collision-what-ai-does-to-us)
 
 ---
 
