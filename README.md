@@ -16,17 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Humans' Origin Story Is Being Revised [video]
+### LNbits Urges All Operators to Shut Down Their Bitcoin Lightning Wallet Servers Amid Attacks
 - **Published**: November 09, 2026
-- **Summary**: https://www.youtube.com/watch?v=wDU27f84hAs</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50421231">https......
-- [Read more](https://www.youtube.com/watch?v=wDU27f84hAs)
+- **Summary**: Everyone running LNbits, a free, open-source Bitcoin Lightning wallet system, should shut down their servers now because of a wave of attacks, the pro...
+- **Keywords**: down, down
+- [Read more](https://thehackernews.com/2026/11/lnbits-urges-all-operators-to-shut-down.html)
 
-### The Collision: What AI Does to Us
+### ⚡ Weekly Recap: SSHole Exploited, APT Root RCE, Robot Takeovers, 15K Hacked Sites, and More
 - **Published**: November 09, 2026
-- **Summary**: https://mitsloan.mit.edu/ideas-made-to-matter/collision-what-ai-does-to-us</a></p>
-<p>Comments URL:......
-- [Read more](https://mitsloan.mit.edu/ideas-made-to-matter/collision-what-ai-does-to-us)
+- **Summary**: A system doesn't always need a complicated bug to let someone in. Sometimes, a blank password is enough. That's one of the bigger stories this week. A...
+- **Keywords**: bug
+- [Read more](https://thehackernews.com/2026/11/weekly-recap-sshole-exploited-apt-root.html)
 
 ---
 
