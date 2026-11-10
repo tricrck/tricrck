@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Binance Warns of iOS Sandbox Escape That Could Expose Crypto Wallet Keys, No Fix Confirmed
-- **Published**: November 10, 2026
-- **Summary**: An iOS sandbox escape published on GitHub lets an app read other apps' files on iPhones running iOS 26 and 27. That puts seed phrases, private keys, a...
-- [Read more](https://thehackernews.com/2026/11/binance-warns-of-ios-sandbox-escape.html)
+### Git Patches Flaw That Lets Malicious Repositories Execute Code During Recursive Clones
+- **Published**: November 11, 2026
+- **Summary**: A flaw in Git can let a malicious repository run an attacker's code on a computer that clones it recursively, together with its submodules. The Git pr...
+- [Read more](https://thehackernews.com/2026/11/git-patches-flaw-that-lets-malicious.html)
 
-### Beyond the Alert: The Case for Rich Network Data
-- **Published**: November 10, 2026
-- **Summary**: At some point your security will fail. This isn’t pessimism. It’s not because your team and tools aren’t sophisticated enough. It’s the reason we have...
-- [Read more](https://thehackernews.com/2026/11/beyond-alert-case-for-rich-network-data.html)
+### SGLang RCE Exploit Breaches NEAR AI, Steals Data From 18 Agents and About 100 Users
+- **Published**: November 11, 2026
+- **Summary**: An attacker exploited a remote code execution flaw in SGLang, an open-source inference engine, and ran code on one of NEAR AI's inference servers last...
+- [Read more](https://thehackernews.com/2026/11/sglang-rce-exploit-breaches-near-ai.html)
 
 ---
 
