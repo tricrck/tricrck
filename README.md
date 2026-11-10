@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### LNbits Urges All Operators to Shut Down Their Bitcoin Lightning Wallet Servers Amid Attacks
-- **Published**: November 09, 2026
-- **Summary**: Everyone running LNbits, a free, open-source Bitcoin Lightning wallet system, should shut down their servers now because of a wave of attacks, the pro...
-- **Keywords**: down, down
-- [Read more](https://thehackernews.com/2026/11/lnbits-urges-all-operators-to-shut-down.html)
+### Google Antigravity for Knowledge Work
+- **Published**: November 10, 2026
+- **Summary**: https://antigravity.google/blog/antigravity-for-knowledge-work/</a></p>
+<p>Comments URL: <a href="https://news......
+- [Read more](https://antigravity.google/blog/antigravity-for-knowledge-work/)
 
-### ⚡ Weekly Recap: SSHole Exploited, APT Root RCE, Robot Takeovers, 15K Hacked Sites, and More
-- **Published**: November 09, 2026
-- **Summary**: A system doesn't always need a complicated bug to let someone in. Sometimes, a blank password is enough. That's one of the bigger stories this week. A...
-- **Keywords**: bug
-- [Read more](https://thehackernews.com/2026/11/weekly-recap-sshole-exploited-apt-root.html)
+### Show HN: I built a tool that babysits your agents
+- **Published**: November 10, 2026
+- **Summary**: <p>Hi Hackernews, This is my go at an important issue which is making sure agents stick to their rules and context. After using agents and learning fr...
+- [Read more](https://www.physicsbase.ai/)
 
 ---
 
