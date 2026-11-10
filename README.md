@@ -16,16 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Google Antigravity for Knowledge Work
+### Binance Warns of iOS Sandbox Escape That Could Expose Crypto Wallet Keys, No Fix Confirmed
 - **Published**: November 10, 2026
-- **Summary**: https://antigravity.google/blog/antigravity-for-knowledge-work/</a></p>
-<p>Comments URL: <a href="https://news......
-- [Read more](https://antigravity.google/blog/antigravity-for-knowledge-work/)
+- **Summary**: An iOS sandbox escape published on GitHub lets an app read other apps' files on iPhones running iOS 26 and 27. That puts seed phrases, private keys, a...
+- [Read more](https://thehackernews.com/2026/11/binance-warns-of-ios-sandbox-escape.html)
 
-### Show HN: I built a tool that babysits your agents
+### Beyond the Alert: The Case for Rich Network Data
 - **Published**: November 10, 2026
-- **Summary**: <p>Hi Hackernews, This is my go at an important issue which is making sure agents stick to their rules and context. After using agents and learning fr...
-- [Read more](https://www.physicsbase.ai/)
+- **Summary**: At some point your security will fail. This isn’t pessimism. It’s not because your team and tools aren’t sophisticated enough. It’s the reason we have...
+- [Read more](https://thehackernews.com/2026/11/beyond-alert-case-for-rich-network-data.html)
 
 ---
 
