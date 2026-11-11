@@ -1,6 +1,118 @@
 {
   "chaos_ranked": [
     {
+      "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+      "link": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
+      "summary": "<p>Article URL: <a href=\"https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/\">https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-c...",
+      "published": "2026-11-11T04:42:26+00:00",
+      "domain": "techcrunch.com",
+      "scores": {
+        "chaos": 9.0,
+        "anarchy": 6.0,
+        "overall": 7.5
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "AI Coding CLI Tools to Try Beyond Claude Code and Codex",
+      "link": "https://medium.com/@ajseven/7-ai-coding-cli-tools-to-try-beyond-claude-code-and-codex-e95155e153bd7AICodingCLIToolstoTryBeyondClaudeCodeandCodex",
+      "summary": "<p>Article URL: <a href=\"https://medium.com/@ajseven/7-ai-coding-cli-tools-to-try-beyond-claude-code-and-codex-e95155e153bd7AICodingCLIToolstoTryBeyondClaudeCodeandCodex\">https://medium.com/@ajseven/7...",
+      "published": "2026-11-11T04:55:23+00:00",
+      "domain": "medium.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "AetherSAST-150-CWE-MCP",
+      "link": "https://github.com/maxxwwim/AetherSAST-150-CWE-MCP",
+      "summary": "<p>Article URL: <a href=\"https://github.com/maxxwwim/AetherSAST-150-CWE-MCP\">https://github.com/maxxwwim/AetherSAST-150-CWE-MCP</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=5...",
+      "published": "2026-11-11T04:54:40+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Tell HN: Are You Real?",
+      "link": "https://news.ycombinator.com/item?id=50449876",
+      "summary": "<p>Yes. You are a real person who thinks, feels emotions, and asks questions.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50449876\">https://news.ycombinator.com/item?id=5...",
+      "published": "2026-11-11T04:54:35+00:00",
+      "domain": "news.ycombinator.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "What Is BaaS? \u2013 Back End-as-a-Service vs. Serverless",
+      "link": "https://www.cloudflare.com/learning/serverless/glossary/backend-as-a-service-baas/",
+      "summary": "<p>Article URL: <a href=\"https://www.cloudflare.com/learning/serverless/glossary/backend-as-a-service-baas/\">https://www.cloudflare.com/learning/serverless/glossary/backend-as-a-service-baas/</a></p>\n...",
+      "published": "2026-11-11T04:42:19+00:00",
+      "domain": "cloudflare.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Protecting SSH Keys with macOS Secure Enclave",
+      "link": "https://gatezh.com/posts/macos-secure-enclave-ssh-keys/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50449748\">Comments</a>...",
+      "published": "2026-11-11T04:28:57+00:00",
+      "domain": "gatezh.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "A great old-timey game-programming hack (2013)",
+      "link": "https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50448921\">Comments</a>...",
+      "published": "2026-11-11T01:56:31+00:00",
+      "domain": "blog.moertel.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "Git Patches Flaw That Lets Malicious Repositories Execute Code During Recursive Clones",
       "link": "https://thehackernews.com/2026/11/git-patches-flaw-that-lets-malicious.html",
       "summary": "A flaw in Git can let a malicious repository run an attacker's code on a computer that clones it recursively, together with its submodules. The Git project fixed it this week in Git 2.56.1, with match...",
@@ -38,118 +150,6 @@
       "summary": "French software company Vates VMS has warned of a critical security vulnerability in Xen Orchestra that it said is being actively exploited in the wild.\n\nThe authentication bypass flaw, which does not...",
       "published": "2026-11-10T23:42:21+05:30",
       "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Three China-Nexus Espionage Campaigns Linked Through Sparrow Malware Ecosystem",
-      "link": "https://thehackernews.com/2026/11/three-china-nexus-espionage-campaigns.html",
-      "summary": "Three distinct threat activity clusters with shared infrastructure and malware code similarities have been observed targeting telecommunications providers, government organizations, military entities,...",
-      "published": "2026-11-10T23:13:23+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "How We Built TLX: A Hardware-Native GPU Compiler for Production ML at Scale",
-      "link": "https://engineering.fb.com/2026/11/10/open-source/tlx-a-hardware-native-gpu-compiler-for-production-ml/",
-      "summary": "<p>Article URL: <a href=\"https://engineering.fb.com/2026/11/10/open-source/tlx-a-hardware-native-gpu-compiler-for-production-ml/\">https://engineering.fb.com/2026/11/10/open-source/tlx-a-hardware-nativ...",
-      "published": "2026-11-10T22:40:42+00:00",
-      "domain": "engineering.fb.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Garmin and Waze team up to alert drivers to nearby cyclists in real time",
-      "link": "https://road.cc/tech-news/a-safer-riding-environment-garmin-and-waze-team-up-to-alert-drivers-to-nearby-cyclists-in-real-time",
-      "summary": "<p>Article URL: <a href=\"https://road.cc/tech-news/a-safer-riding-environment-garmin-and-waze-team-up-to-alert-drivers-to-nearby-cyclists-in-real-time\">https://road.cc/tech-news/a-safer-riding-environ...",
-      "published": "2026-11-10T22:39:10+00:00",
-      "domain": "road.cc",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "America's Measles Problem Has Reached Endemic Level",
-      "link": "https://www.nytimes.com/2026/11/10/health/measles-united-states-elimination-rfk.html",
-      "summary": "<p>Article URL: <a href=\"https://www.nytimes.com/2026/11/10/health/measles-united-states-elimination-rfk.html\">https://www.nytimes.com/2026/11/10/health/measles-united-states-elimination-rfk.html</a><...",
-      "published": "2026-11-10T22:38:18+00:00",
-      "domain": "nytimes.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The answer shouldn't depend on which GPU you rented",
-      "link": "https://regularjoeceo.substack.com/p/the-answer-shouldnt-depend-on-which",
-      "summary": "<p>Article URL: <a href=\"https://regularjoeceo.substack.com/p/the-answer-shouldnt-depend-on-which\">https://regularjoeceo.substack.com/p/the-answer-shouldnt-depend-on-which</a></p>\n<p>Comments URL: <a ...",
-      "published": "2026-11-10T22:37:37+00:00",
-      "domain": "regularjoeceo.substack.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "A simple Python implementation of the ReAct pattern for LLMs",
-      "link": "https://til.simonwillison.net/llms/python-react-pattern",
-      "summary": "<p>Article URL: <a href=\"https://til.simonwillison.net/llms/python-react-pattern\">https://til.simonwillison.net/llms/python-react-pattern</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com...",
-      "published": "2026-11-10T22:33:34+00:00",
-      "domain": "til.simonwillison.net",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Alice Huang reportedly instrumental in securing over $7.5 billion of Nvidia AI GPU imports during three-year relationship with Jensen Huang \u2014 helped move 240,000 banned chips into China, mostly H100 and H200",
-      "link": "https://www.reddit.com/r/technology/comments/1xt0mny/alice_huang_reportedly_instrumental_in_securing/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1xt0mny/alice_huang_reportedly_instrumental_in_securing/\"> <img alt=\"Alice Huang reportedly instrumental in securing over $7.5 bi...",
-      "published": "2026-11-10T22:24:36+00:00",
-      "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -163,6 +163,118 @@
   ],
   "anarchy_ranked": [
     {
+      "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+      "link": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
+      "summary": "<p>Article URL: <a href=\"https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/\">https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-c...",
+      "published": "2026-11-11T04:42:26+00:00",
+      "domain": "techcrunch.com",
+      "scores": {
+        "chaos": 9.0,
+        "anarchy": 6.0,
+        "overall": 7.5
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "AI Coding CLI Tools to Try Beyond Claude Code and Codex",
+      "link": "https://medium.com/@ajseven/7-ai-coding-cli-tools-to-try-beyond-claude-code-and-codex-e95155e153bd7AICodingCLIToolstoTryBeyondClaudeCodeandCodex",
+      "summary": "<p>Article URL: <a href=\"https://medium.com/@ajseven/7-ai-coding-cli-tools-to-try-beyond-claude-code-and-codex-e95155e153bd7AICodingCLIToolstoTryBeyondClaudeCodeandCodex\">https://medium.com/@ajseven/7...",
+      "published": "2026-11-11T04:55:23+00:00",
+      "domain": "medium.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "AetherSAST-150-CWE-MCP",
+      "link": "https://github.com/maxxwwim/AetherSAST-150-CWE-MCP",
+      "summary": "<p>Article URL: <a href=\"https://github.com/maxxwwim/AetherSAST-150-CWE-MCP\">https://github.com/maxxwwim/AetherSAST-150-CWE-MCP</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=5...",
+      "published": "2026-11-11T04:54:40+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Tell HN: Are You Real?",
+      "link": "https://news.ycombinator.com/item?id=50449876",
+      "summary": "<p>Yes. You are a real person who thinks, feels emotions, and asks questions.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50449876\">https://news.ycombinator.com/item?id=5...",
+      "published": "2026-11-11T04:54:35+00:00",
+      "domain": "news.ycombinator.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "What Is BaaS? \u2013 Back End-as-a-Service vs. Serverless",
+      "link": "https://www.cloudflare.com/learning/serverless/glossary/backend-as-a-service-baas/",
+      "summary": "<p>Article URL: <a href=\"https://www.cloudflare.com/learning/serverless/glossary/backend-as-a-service-baas/\">https://www.cloudflare.com/learning/serverless/glossary/backend-as-a-service-baas/</a></p>\n...",
+      "published": "2026-11-11T04:42:19+00:00",
+      "domain": "cloudflare.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Protecting SSH Keys with macOS Secure Enclave",
+      "link": "https://gatezh.com/posts/macos-secure-enclave-ssh-keys/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50449748\">Comments</a>...",
+      "published": "2026-11-11T04:28:57+00:00",
+      "domain": "gatezh.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "A great old-timey game-programming hack (2013)",
+      "link": "https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50448921\">Comments</a>...",
+      "published": "2026-11-11T01:56:31+00:00",
+      "domain": "blog.moertel.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "Git Patches Flaw That Lets Malicious Repositories Execute Code During Recursive Clones",
       "link": "https://thehackernews.com/2026/11/git-patches-flaw-that-lets-malicious.html",
       "summary": "A flaw in Git can let a malicious repository run an attacker's code on a computer that clones it recursively, together with its submodules. The Git project fixed it this week in Git 2.56.1, with match...",
@@ -200,118 +312,6 @@
       "summary": "French software company Vates VMS has warned of a critical security vulnerability in Xen Orchestra that it said is being actively exploited in the wild.\n\nThe authentication bypass flaw, which does not...",
       "published": "2026-11-10T23:42:21+05:30",
       "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Three China-Nexus Espionage Campaigns Linked Through Sparrow Malware Ecosystem",
-      "link": "https://thehackernews.com/2026/11/three-china-nexus-espionage-campaigns.html",
-      "summary": "Three distinct threat activity clusters with shared infrastructure and malware code similarities have been observed targeting telecommunications providers, government organizations, military entities,...",
-      "published": "2026-11-10T23:13:23+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "How We Built TLX: A Hardware-Native GPU Compiler for Production ML at Scale",
-      "link": "https://engineering.fb.com/2026/11/10/open-source/tlx-a-hardware-native-gpu-compiler-for-production-ml/",
-      "summary": "<p>Article URL: <a href=\"https://engineering.fb.com/2026/11/10/open-source/tlx-a-hardware-native-gpu-compiler-for-production-ml/\">https://engineering.fb.com/2026/11/10/open-source/tlx-a-hardware-nativ...",
-      "published": "2026-11-10T22:40:42+00:00",
-      "domain": "engineering.fb.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Garmin and Waze team up to alert drivers to nearby cyclists in real time",
-      "link": "https://road.cc/tech-news/a-safer-riding-environment-garmin-and-waze-team-up-to-alert-drivers-to-nearby-cyclists-in-real-time",
-      "summary": "<p>Article URL: <a href=\"https://road.cc/tech-news/a-safer-riding-environment-garmin-and-waze-team-up-to-alert-drivers-to-nearby-cyclists-in-real-time\">https://road.cc/tech-news/a-safer-riding-environ...",
-      "published": "2026-11-10T22:39:10+00:00",
-      "domain": "road.cc",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "America's Measles Problem Has Reached Endemic Level",
-      "link": "https://www.nytimes.com/2026/11/10/health/measles-united-states-elimination-rfk.html",
-      "summary": "<p>Article URL: <a href=\"https://www.nytimes.com/2026/11/10/health/measles-united-states-elimination-rfk.html\">https://www.nytimes.com/2026/11/10/health/measles-united-states-elimination-rfk.html</a><...",
-      "published": "2026-11-10T22:38:18+00:00",
-      "domain": "nytimes.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The answer shouldn't depend on which GPU you rented",
-      "link": "https://regularjoeceo.substack.com/p/the-answer-shouldnt-depend-on-which",
-      "summary": "<p>Article URL: <a href=\"https://regularjoeceo.substack.com/p/the-answer-shouldnt-depend-on-which\">https://regularjoeceo.substack.com/p/the-answer-shouldnt-depend-on-which</a></p>\n<p>Comments URL: <a ...",
-      "published": "2026-11-10T22:37:37+00:00",
-      "domain": "regularjoeceo.substack.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "A simple Python implementation of the ReAct pattern for LLMs",
-      "link": "https://til.simonwillison.net/llms/python-react-pattern",
-      "summary": "<p>Article URL: <a href=\"https://til.simonwillison.net/llms/python-react-pattern\">https://til.simonwillison.net/llms/python-react-pattern</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com...",
-      "published": "2026-11-10T22:33:34+00:00",
-      "domain": "til.simonwillison.net",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Alice Huang reportedly instrumental in securing over $7.5 billion of Nvidia AI GPU imports during three-year relationship with Jensen Huang \u2014 helped move 240,000 banned chips into China, mostly H100 and H200",
-      "link": "https://www.reddit.com/r/technology/comments/1xt0mny/alice_huang_reportedly_instrumental_in_securing/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1xt0mny/alice_huang_reportedly_instrumental_in_securing/\"> <img alt=\"Alice Huang reportedly instrumental in securing over $7.5 bi...",
-      "published": "2026-11-10T22:24:36+00:00",
-      "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -325,6 +325,118 @@
   ],
   "overall_ranked": [
     {
+      "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+      "link": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
+      "summary": "<p>Article URL: <a href=\"https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/\">https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-c...",
+      "published": "2026-11-11T04:42:26+00:00",
+      "domain": "techcrunch.com",
+      "scores": {
+        "chaos": 9.0,
+        "anarchy": 6.0,
+        "overall": 7.5
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "AI Coding CLI Tools to Try Beyond Claude Code and Codex",
+      "link": "https://medium.com/@ajseven/7-ai-coding-cli-tools-to-try-beyond-claude-code-and-codex-e95155e153bd7AICodingCLIToolstoTryBeyondClaudeCodeandCodex",
+      "summary": "<p>Article URL: <a href=\"https://medium.com/@ajseven/7-ai-coding-cli-tools-to-try-beyond-claude-code-and-codex-e95155e153bd7AICodingCLIToolstoTryBeyondClaudeCodeandCodex\">https://medium.com/@ajseven/7...",
+      "published": "2026-11-11T04:55:23+00:00",
+      "domain": "medium.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "AetherSAST-150-CWE-MCP",
+      "link": "https://github.com/maxxwwim/AetherSAST-150-CWE-MCP",
+      "summary": "<p>Article URL: <a href=\"https://github.com/maxxwwim/AetherSAST-150-CWE-MCP\">https://github.com/maxxwwim/AetherSAST-150-CWE-MCP</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=5...",
+      "published": "2026-11-11T04:54:40+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Tell HN: Are You Real?",
+      "link": "https://news.ycombinator.com/item?id=50449876",
+      "summary": "<p>Yes. You are a real person who thinks, feels emotions, and asks questions.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50449876\">https://news.ycombinator.com/item?id=5...",
+      "published": "2026-11-11T04:54:35+00:00",
+      "domain": "news.ycombinator.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "What Is BaaS? \u2013 Back End-as-a-Service vs. Serverless",
+      "link": "https://www.cloudflare.com/learning/serverless/glossary/backend-as-a-service-baas/",
+      "summary": "<p>Article URL: <a href=\"https://www.cloudflare.com/learning/serverless/glossary/backend-as-a-service-baas/\">https://www.cloudflare.com/learning/serverless/glossary/backend-as-a-service-baas/</a></p>\n...",
+      "published": "2026-11-11T04:42:19+00:00",
+      "domain": "cloudflare.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Protecting SSH Keys with macOS Secure Enclave",
+      "link": "https://gatezh.com/posts/macos-secure-enclave-ssh-keys/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50449748\">Comments</a>...",
+      "published": "2026-11-11T04:28:57+00:00",
+      "domain": "gatezh.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "A great old-timey game-programming hack (2013)",
+      "link": "https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50448921\">Comments</a>...",
+      "published": "2026-11-11T01:56:31+00:00",
+      "domain": "blog.moertel.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "Git Patches Flaw That Lets Malicious Repositories Execute Code During Recursive Clones",
       "link": "https://thehackernews.com/2026/11/git-patches-flaw-that-lets-malicious.html",
       "summary": "A flaw in Git can let a malicious repository run an attacker's code on a computer that clones it recursively, together with its submodules. The Git project fixed it this week in Git 2.56.1, with match...",
@@ -362,118 +474,6 @@
       "summary": "French software company Vates VMS has warned of a critical security vulnerability in Xen Orchestra that it said is being actively exploited in the wild.\n\nThe authentication bypass flaw, which does not...",
       "published": "2026-11-10T23:42:21+05:30",
       "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Three China-Nexus Espionage Campaigns Linked Through Sparrow Malware Ecosystem",
-      "link": "https://thehackernews.com/2026/11/three-china-nexus-espionage-campaigns.html",
-      "summary": "Three distinct threat activity clusters with shared infrastructure and malware code similarities have been observed targeting telecommunications providers, government organizations, military entities,...",
-      "published": "2026-11-10T23:13:23+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "How We Built TLX: A Hardware-Native GPU Compiler for Production ML at Scale",
-      "link": "https://engineering.fb.com/2026/11/10/open-source/tlx-a-hardware-native-gpu-compiler-for-production-ml/",
-      "summary": "<p>Article URL: <a href=\"https://engineering.fb.com/2026/11/10/open-source/tlx-a-hardware-native-gpu-compiler-for-production-ml/\">https://engineering.fb.com/2026/11/10/open-source/tlx-a-hardware-nativ...",
-      "published": "2026-11-10T22:40:42+00:00",
-      "domain": "engineering.fb.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Garmin and Waze team up to alert drivers to nearby cyclists in real time",
-      "link": "https://road.cc/tech-news/a-safer-riding-environment-garmin-and-waze-team-up-to-alert-drivers-to-nearby-cyclists-in-real-time",
-      "summary": "<p>Article URL: <a href=\"https://road.cc/tech-news/a-safer-riding-environment-garmin-and-waze-team-up-to-alert-drivers-to-nearby-cyclists-in-real-time\">https://road.cc/tech-news/a-safer-riding-environ...",
-      "published": "2026-11-10T22:39:10+00:00",
-      "domain": "road.cc",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "America's Measles Problem Has Reached Endemic Level",
-      "link": "https://www.nytimes.com/2026/11/10/health/measles-united-states-elimination-rfk.html",
-      "summary": "<p>Article URL: <a href=\"https://www.nytimes.com/2026/11/10/health/measles-united-states-elimination-rfk.html\">https://www.nytimes.com/2026/11/10/health/measles-united-states-elimination-rfk.html</a><...",
-      "published": "2026-11-10T22:38:18+00:00",
-      "domain": "nytimes.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The answer shouldn't depend on which GPU you rented",
-      "link": "https://regularjoeceo.substack.com/p/the-answer-shouldnt-depend-on-which",
-      "summary": "<p>Article URL: <a href=\"https://regularjoeceo.substack.com/p/the-answer-shouldnt-depend-on-which\">https://regularjoeceo.substack.com/p/the-answer-shouldnt-depend-on-which</a></p>\n<p>Comments URL: <a ...",
-      "published": "2026-11-10T22:37:37+00:00",
-      "domain": "regularjoeceo.substack.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "A simple Python implementation of the ReAct pattern for LLMs",
-      "link": "https://til.simonwillison.net/llms/python-react-pattern",
-      "summary": "<p>Article URL: <a href=\"https://til.simonwillison.net/llms/python-react-pattern\">https://til.simonwillison.net/llms/python-react-pattern</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com...",
-      "published": "2026-11-10T22:33:34+00:00",
-      "domain": "til.simonwillison.net",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Alice Huang reportedly instrumental in securing over $7.5 billion of Nvidia AI GPU imports during three-year relationship with Jensen Huang \u2014 helped move 240,000 banned chips into China, mostly H100 and H200",
-      "link": "https://www.reddit.com/r/technology/comments/1xt0mny/alice_huang_reportedly_instrumental_in_securing/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1xt0mny/alice_huang_reportedly_instrumental_in_securing/\"> <img alt=\"Alice Huang reportedly instrumental in securing over $7.5 bi...",
-      "published": "2026-11-10T22:24:36+00:00",
-      "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -487,6 +487,118 @@
   ],
   "all_articles": [
     {
+      "title": "AI Coding CLI Tools to Try Beyond Claude Code and Codex",
+      "link": "https://medium.com/@ajseven/7-ai-coding-cli-tools-to-try-beyond-claude-code-and-codex-e95155e153bd7AICodingCLIToolstoTryBeyondClaudeCodeandCodex",
+      "summary": "<p>Article URL: <a href=\"https://medium.com/@ajseven/7-ai-coding-cli-tools-to-try-beyond-claude-code-and-codex-e95155e153bd7AICodingCLIToolstoTryBeyondClaudeCodeandCodex\">https://medium.com/@ajseven/7...",
+      "published": "2026-11-11T04:55:23+00:00",
+      "domain": "medium.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "AetherSAST-150-CWE-MCP",
+      "link": "https://github.com/maxxwwim/AetherSAST-150-CWE-MCP",
+      "summary": "<p>Article URL: <a href=\"https://github.com/maxxwwim/AetherSAST-150-CWE-MCP\">https://github.com/maxxwwim/AetherSAST-150-CWE-MCP</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=5...",
+      "published": "2026-11-11T04:54:40+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Tell HN: Are You Real?",
+      "link": "https://news.ycombinator.com/item?id=50449876",
+      "summary": "<p>Yes. You are a real person who thinks, feels emotions, and asks questions.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50449876\">https://news.ycombinator.com/item?id=5...",
+      "published": "2026-11-11T04:54:35+00:00",
+      "domain": "news.ycombinator.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+      "link": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
+      "summary": "<p>Article URL: <a href=\"https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/\">https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-c...",
+      "published": "2026-11-11T04:42:26+00:00",
+      "domain": "techcrunch.com",
+      "scores": {
+        "chaos": 9.0,
+        "anarchy": 6.0,
+        "overall": 7.5
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "What Is BaaS? \u2013 Back End-as-a-Service vs. Serverless",
+      "link": "https://www.cloudflare.com/learning/serverless/glossary/backend-as-a-service-baas/",
+      "summary": "<p>Article URL: <a href=\"https://www.cloudflare.com/learning/serverless/glossary/backend-as-a-service-baas/\">https://www.cloudflare.com/learning/serverless/glossary/backend-as-a-service-baas/</a></p>\n...",
+      "published": "2026-11-11T04:42:19+00:00",
+      "domain": "cloudflare.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Protecting SSH Keys with macOS Secure Enclave",
+      "link": "https://gatezh.com/posts/macos-secure-enclave-ssh-keys/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50449748\">Comments</a>...",
+      "published": "2026-11-11T04:28:57+00:00",
+      "domain": "gatezh.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "A great old-timey game-programming hack (2013)",
+      "link": "https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50448921\">Comments</a>...",
+      "published": "2026-11-11T01:56:31+00:00",
+      "domain": "blog.moertel.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
       "title": "Git Patches Flaw That Lets Malicious Repositories Execute Code During Recursive Clones",
       "link": "https://thehackernews.com/2026/11/git-patches-flaw-that-lets-malicious.html",
       "summary": "A flaw in Git can let a malicious repository run an attacker's code on a computer that clones it recursively, together with its submodules. The Git project fixed it this week in Git 2.56.1, with match...",
@@ -524,118 +636,6 @@
       "summary": "French software company Vates VMS has warned of a critical security vulnerability in Xen Orchestra that it said is being actively exploited in the wild.\n\nThe authentication bypass flaw, which does not...",
       "published": "2026-11-10T23:42:21+05:30",
       "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Three China-Nexus Espionage Campaigns Linked Through Sparrow Malware Ecosystem",
-      "link": "https://thehackernews.com/2026/11/three-china-nexus-espionage-campaigns.html",
-      "summary": "Three distinct threat activity clusters with shared infrastructure and malware code similarities have been observed targeting telecommunications providers, government organizations, military entities,...",
-      "published": "2026-11-10T23:13:23+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "How We Built TLX: A Hardware-Native GPU Compiler for Production ML at Scale",
-      "link": "https://engineering.fb.com/2026/11/10/open-source/tlx-a-hardware-native-gpu-compiler-for-production-ml/",
-      "summary": "<p>Article URL: <a href=\"https://engineering.fb.com/2026/11/10/open-source/tlx-a-hardware-native-gpu-compiler-for-production-ml/\">https://engineering.fb.com/2026/11/10/open-source/tlx-a-hardware-nativ...",
-      "published": "2026-11-10T22:40:42+00:00",
-      "domain": "engineering.fb.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Garmin and Waze team up to alert drivers to nearby cyclists in real time",
-      "link": "https://road.cc/tech-news/a-safer-riding-environment-garmin-and-waze-team-up-to-alert-drivers-to-nearby-cyclists-in-real-time",
-      "summary": "<p>Article URL: <a href=\"https://road.cc/tech-news/a-safer-riding-environment-garmin-and-waze-team-up-to-alert-drivers-to-nearby-cyclists-in-real-time\">https://road.cc/tech-news/a-safer-riding-environ...",
-      "published": "2026-11-10T22:39:10+00:00",
-      "domain": "road.cc",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "America's Measles Problem Has Reached Endemic Level",
-      "link": "https://www.nytimes.com/2026/11/10/health/measles-united-states-elimination-rfk.html",
-      "summary": "<p>Article URL: <a href=\"https://www.nytimes.com/2026/11/10/health/measles-united-states-elimination-rfk.html\">https://www.nytimes.com/2026/11/10/health/measles-united-states-elimination-rfk.html</a><...",
-      "published": "2026-11-10T22:38:18+00:00",
-      "domain": "nytimes.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The answer shouldn't depend on which GPU you rented",
-      "link": "https://regularjoeceo.substack.com/p/the-answer-shouldnt-depend-on-which",
-      "summary": "<p>Article URL: <a href=\"https://regularjoeceo.substack.com/p/the-answer-shouldnt-depend-on-which\">https://regularjoeceo.substack.com/p/the-answer-shouldnt-depend-on-which</a></p>\n<p>Comments URL: <a ...",
-      "published": "2026-11-10T22:37:37+00:00",
-      "domain": "regularjoeceo.substack.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "A simple Python implementation of the ReAct pattern for LLMs",
-      "link": "https://til.simonwillison.net/llms/python-react-pattern",
-      "summary": "<p>Article URL: <a href=\"https://til.simonwillison.net/llms/python-react-pattern\">https://til.simonwillison.net/llms/python-react-pattern</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com...",
-      "published": "2026-11-10T22:33:34+00:00",
-      "domain": "til.simonwillison.net",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Alice Huang reportedly instrumental in securing over $7.5 billion of Nvidia AI GPU imports during three-year relationship with Jensen Huang \u2014 helped move 240,000 banned chips into China, mostly H100 and H200",
-      "link": "https://www.reddit.com/r/technology/comments/1xt0mny/alice_huang_reportedly_instrumental_in_securing/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1xt0mny/alice_huang_reportedly_instrumental_in_securing/\"> <img alt=\"Alice Huang reportedly instrumental in securing over $7.5 bi...",
-      "published": "2026-11-10T22:24:36+00:00",
-      "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,

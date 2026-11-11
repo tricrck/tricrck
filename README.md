@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Git Patches Flaw That Lets Malicious Repositories Execute Code During Recursive Clones
+### OpenAI acquires Odessia, travel startup created by Sonder founder
 - **Published**: November 11, 2026
-- **Summary**: A flaw in Git can let a malicious repository run an attacker's code on a computer that clones it recursively, together with its submodules. The Git pr...
-- [Read more](https://thehackernews.com/2026/11/git-patches-flaw-that-lets-malicious.html)
+- **Summary**: https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-c......
+- [Read more](https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/)
 
-### SGLang RCE Exploit Breaches NEAR AI, Steals Data From 18 Agents and About 100 Users
+### AI Coding CLI Tools to Try Beyond Claude Code and Codex
 - **Published**: November 11, 2026
-- **Summary**: An attacker exploited a remote code execution flaw in SGLang, an open-source inference engine, and ran code on one of NEAR AI's inference servers last...
-- [Read more](https://thehackernews.com/2026/11/sglang-rce-exploit-breaches-near-ai.html)
+- **Summary**: https://medium.com/@ajseven/7......
+- [Read more](https://medium.com/@ajseven/7-ai-coding-cli-tools-to-try-beyond-claude-code-and-codex-e95155e153bd7AICodingCLIToolstoTryBeyondClaudeCodeandCodex)
 
 ---
 
