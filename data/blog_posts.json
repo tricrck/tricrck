@@ -1,27 +1,29 @@
 {
   "chaos_ranked": [
     {
-      "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
-      "link": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
-      "summary": "<p>Article URL: <a href=\"https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/\">https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-c...",
-      "published": "2026-11-11T04:42:26+00:00",
-      "domain": "techcrunch.com",
+      "title": "Microsoft Patches 1,259 Flaws, Including Exploited Outlook Bug That May Expose NTLMv2 Hashes",
+      "link": "https://thehackernews.com/2026/11/microsoft-patches-1259-flaws-including.html",
+      "summary": "Microsoft on Tuesday released patches for a total of 1,259 vulnerabilities spanning its software portfolio, the second consecutive month where the patch volume has exceeded 1,000 flaws.\n\nThese cover 7...",
+      "published": "2026-11-11T13:47:53+05:30",
+      "domain": "thehackernews.com",
       "scores": {
-        "chaos": 9.0,
-        "anarchy": 6.0,
-        "overall": 7.5
+        "chaos": 10.6,
+        "anarchy": 3.0,
+        "overall": 6.8
       },
       "keywords": {
-        "chaos": [],
+        "chaos": [
+          "bug"
+        ],
         "anarchy": []
       }
     },
     {
-      "title": "AI Coding CLI Tools to Try Beyond Claude Code and Codex",
-      "link": "https://medium.com/@ajseven/7-ai-coding-cli-tools-to-try-beyond-claude-code-and-codex-e95155e153bd7AICodingCLIToolstoTryBeyondClaudeCodeandCodex",
-      "summary": "<p>Article URL: <a href=\"https://medium.com/@ajseven/7-ai-coding-cli-tools-to-try-beyond-claude-code-and-codex-e95155e153bd7AICodingCLIToolstoTryBeyondClaudeCodeandCodex\">https://medium.com/@ajseven/7...",
-      "published": "2026-11-11T04:55:23+00:00",
-      "domain": "medium.com",
+      "title": "Over 35,000 Grok-Built Apps Exposed Online, Some Leaking Confidential Data and Passwords",
+      "link": "https://thehackernews.com/2026/11/over-35000-grok-built-apps-exposed.html",
+      "summary": "Of the 37,571 Grok-built apps that security company Claroc found online, 35,578 were open to anyone without a sign-in, the researchers said yesterday.\n\nThey included 24 apps built by staff at the soci...",
+      "published": "2026-11-11T17:49:40+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -33,10 +35,90 @@
       }
     },
     {
-      "title": "AetherSAST-150-CWE-MCP",
-      "link": "https://github.com/maxxwwim/AetherSAST-150-CWE-MCP",
-      "summary": "<p>Article URL: <a href=\"https://github.com/maxxwwim/AetherSAST-150-CWE-MCP\">https://github.com/maxxwwim/AetherSAST-150-CWE-MCP</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=5...",
-      "published": "2026-11-11T04:54:40+00:00",
+      "title": "We Built An Agent That Broke All of Our Security Rules. Here's What We Learned.",
+      "link": "https://thehackernews.com/2026/11/we-built-agent-that-broke-all-of-our.html",
+      "summary": "We tell customers three things about securing AI agents: they need their own identities, access that fits the job they\u2019re given, and traceability that\u2019s separate from any human\u2019s. That was true for us...",
+      "published": "2026-11-11T17:31:59+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "eMudhra Revokes 8 More CAs It Previously Declared Unaffected by Key Compromise",
+      "link": "https://thehackernews.com/2026/11/emudhra-revokes-8-more-cas-it.html",
+      "summary": "The in-house Python script behind eMudhra's October key compromise has now cost the company 8 more of its intermediate certificate authorities (CAs), even though it did not weaken their keys.\n\nEach in...",
+      "published": "2026-11-11T17:30:53+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "What If Maintainer Burnout Isn't Burnout",
+      "link": "https://ryancheley.com/2026/08/17/what-if-maintainer-burnout-isn-t-burnout/",
+      "summary": "<p>Article URL: <a href=\"https://ryancheley.com/2026/08/17/what-if-maintainer-burnout-isn-t-burnout/\">https://ryancheley.com/2026/08/17/what-if-maintainer-burnout-isn-t-burnout/</a></p>\n<p>Comments UR...",
+      "published": "2026-11-11T13:33:30+00:00",
+      "domain": "ryancheley.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Pagless \u2013 Minimal Android Launcher",
+      "link": "https://pageless.space/",
+      "summary": "<p>Article URL: <a href=\"https://pageless.space/\">https://pageless.space/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50453207\">https://news.ycombinator.com/item?id=50453207...",
+      "published": "2026-11-11T13:32:27+00:00",
+      "domain": "pageless.space",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: blqsort \u2013 A C++ Quicksort Faster Than std:sort",
+      "link": "https://tiki.li/blog/about_blqsort",
+      "summary": "<p>Article URL: <a href=\"https://tiki.li/blog/about_blqsort\">https://tiki.li/blog/about_blqsort</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50453189\">https://news.ycombinato...",
+      "published": "2026-11-11T13:31:12+00:00",
+      "domain": "tiki.li",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: I created a library for correctly using SQLite in Go programs",
+      "link": "https://github.com/cattlecloud/litesql",
+      "summary": "<p>Using SQLite in Go is deceptively easy. If you just import the popular github.com/mattn/go-sqlite3 as the database/sql driver implementation and start making queries, things will work great until y...",
+      "published": "2026-11-11T13:30:26+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -49,11 +131,11 @@
       }
     },
     {
-      "title": "Tell HN: Are You Real?",
-      "link": "https://news.ycombinator.com/item?id=50449876",
-      "summary": "<p>Yes. You are a real person who thinks, feels emotions, and asks questions.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50449876\">https://news.ycombinator.com/item?id=5...",
-      "published": "2026-11-11T04:54:35+00:00",
-      "domain": "news.ycombinator.com",
+      "title": "Attention to Mamba: A Recipe for Cross-Architecture Distillation",
+      "link": "https://machinelearning.apple.com/research/attention-mamba-distillation",
+      "summary": "<p>Article URL: <a href=\"https://machinelearning.apple.com/research/attention-mamba-distillation\">https://machinelearning.apple.com/research/attention-mamba-distillation</a></p>\n<p>Comments URL: <a hr...",
+      "published": "2026-11-11T13:29:46+00:00",
+      "domain": "machinelearning.apple.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -65,90 +147,10 @@
       }
     },
     {
-      "title": "What Is BaaS? \u2013 Back End-as-a-Service vs. Serverless",
-      "link": "https://www.cloudflare.com/learning/serverless/glossary/backend-as-a-service-baas/",
-      "summary": "<p>Article URL: <a href=\"https://www.cloudflare.com/learning/serverless/glossary/backend-as-a-service-baas/\">https://www.cloudflare.com/learning/serverless/glossary/backend-as-a-service-baas/</a></p>\n...",
-      "published": "2026-11-11T04:42:19+00:00",
-      "domain": "cloudflare.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Protecting SSH Keys with macOS Secure Enclave",
-      "link": "https://gatezh.com/posts/macos-secure-enclave-ssh-keys/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=50449748\">Comments</a>...",
-      "published": "2026-11-11T04:28:57+00:00",
-      "domain": "gatezh.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "A great old-timey game-programming hack (2013)",
-      "link": "https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=50448921\">Comments</a>...",
-      "published": "2026-11-11T01:56:31+00:00",
-      "domain": "blog.moertel.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Git Patches Flaw That Lets Malicious Repositories Execute Code During Recursive Clones",
-      "link": "https://thehackernews.com/2026/11/git-patches-flaw-that-lets-malicious.html",
-      "summary": "A flaw in Git can let a malicious repository run an attacker's code on a computer that clones it recursively, together with its submodules. The Git project fixed it this week in Git 2.56.1, with match...",
-      "published": "2026-11-11T00:53:10+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "SGLang RCE Exploit Breaches NEAR AI, Steals Data From 18 Agents and About 100 Users",
-      "link": "https://thehackernews.com/2026/11/sglang-rce-exploit-breaches-near-ai.html",
-      "summary": "An attacker exploited a remote code execution flaw in SGLang, an open-source inference engine, and ran code on one of NEAR AI's inference servers last Sunday.\n\nThe attacker could also have seen reques...",
-      "published": "2026-11-11T00:49:39+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Hackers Exploit Critical Xen Orchestra Auth Bypass Flaw to Gain Admin Access",
-      "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-xen-orchestra.html",
-      "summary": "French software company Vates VMS has warned of a critical security vulnerability in Xen Orchestra that it said is being actively exploited in the wild.\n\nThe authentication bypass flaw, which does not...",
-      "published": "2026-11-10T23:42:21+05:30",
+      "title": "Railway Says Stolen Customer AI Keys Led to $740,000 in Estimated Unauthorized Usage Charges",
+      "link": "https://thehackernews.com/2026/11/railway-says-stolen-customer-ai-keys.html",
+      "summary": "AI provider keys that customers stored on Railway were stolen in an October breach and used to commit an estimated $740,000 in unauthorized spending, the platform-as-a-service provider said yesterday....",
+      "published": "2026-11-11T13:19:04+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -163,27 +165,11 @@
   ],
   "anarchy_ranked": [
     {
-      "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
-      "link": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
-      "summary": "<p>Article URL: <a href=\"https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/\">https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-c...",
-      "published": "2026-11-11T04:42:26+00:00",
-      "domain": "techcrunch.com",
-      "scores": {
-        "chaos": 9.0,
-        "anarchy": 6.0,
-        "overall": 7.5
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "AI Coding CLI Tools to Try Beyond Claude Code and Codex",
-      "link": "https://medium.com/@ajseven/7-ai-coding-cli-tools-to-try-beyond-claude-code-and-codex-e95155e153bd7AICodingCLIToolstoTryBeyondClaudeCodeandCodex",
-      "summary": "<p>Article URL: <a href=\"https://medium.com/@ajseven/7-ai-coding-cli-tools-to-try-beyond-claude-code-and-codex-e95155e153bd7AICodingCLIToolstoTryBeyondClaudeCodeandCodex\">https://medium.com/@ajseven/7...",
-      "published": "2026-11-11T04:55:23+00:00",
-      "domain": "medium.com",
+      "title": "Over 35,000 Grok-Built Apps Exposed Online, Some Leaking Confidential Data and Passwords",
+      "link": "https://thehackernews.com/2026/11/over-35000-grok-built-apps-exposed.html",
+      "summary": "Of the 37,571 Grok-built apps that security company Claroc found online, 35,578 were open to anyone without a sign-in, the researchers said yesterday.\n\nThey included 24 apps built by staff at the soci...",
+      "published": "2026-11-11T17:49:40+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -195,10 +181,108 @@
       }
     },
     {
-      "title": "AetherSAST-150-CWE-MCP",
-      "link": "https://github.com/maxxwwim/AetherSAST-150-CWE-MCP",
-      "summary": "<p>Article URL: <a href=\"https://github.com/maxxwwim/AetherSAST-150-CWE-MCP\">https://github.com/maxxwwim/AetherSAST-150-CWE-MCP</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=5...",
-      "published": "2026-11-11T04:54:40+00:00",
+      "title": "We Built An Agent That Broke All of Our Security Rules. Here's What We Learned.",
+      "link": "https://thehackernews.com/2026/11/we-built-agent-that-broke-all-of-our.html",
+      "summary": "We tell customers three things about securing AI agents: they need their own identities, access that fits the job they\u2019re given, and traceability that\u2019s separate from any human\u2019s. That was true for us...",
+      "published": "2026-11-11T17:31:59+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "eMudhra Revokes 8 More CAs It Previously Declared Unaffected by Key Compromise",
+      "link": "https://thehackernews.com/2026/11/emudhra-revokes-8-more-cas-it.html",
+      "summary": "The in-house Python script behind eMudhra's October key compromise has now cost the company 8 more of its intermediate certificate authorities (CAs), even though it did not weaken their keys.\n\nEach in...",
+      "published": "2026-11-11T17:30:53+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Microsoft Patches 1,259 Flaws, Including Exploited Outlook Bug That May Expose NTLMv2 Hashes",
+      "link": "https://thehackernews.com/2026/11/microsoft-patches-1259-flaws-including.html",
+      "summary": "Microsoft on Tuesday released patches for a total of 1,259 vulnerabilities spanning its software portfolio, the second consecutive month where the patch volume has exceeded 1,000 flaws.\n\nThese cover 7...",
+      "published": "2026-11-11T13:47:53+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 10.6,
+        "anarchy": 3.0,
+        "overall": 6.8
+      },
+      "keywords": {
+        "chaos": [
+          "bug"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "What If Maintainer Burnout Isn't Burnout",
+      "link": "https://ryancheley.com/2026/08/17/what-if-maintainer-burnout-isn-t-burnout/",
+      "summary": "<p>Article URL: <a href=\"https://ryancheley.com/2026/08/17/what-if-maintainer-burnout-isn-t-burnout/\">https://ryancheley.com/2026/08/17/what-if-maintainer-burnout-isn-t-burnout/</a></p>\n<p>Comments UR...",
+      "published": "2026-11-11T13:33:30+00:00",
+      "domain": "ryancheley.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Pagless \u2013 Minimal Android Launcher",
+      "link": "https://pageless.space/",
+      "summary": "<p>Article URL: <a href=\"https://pageless.space/\">https://pageless.space/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50453207\">https://news.ycombinator.com/item?id=50453207...",
+      "published": "2026-11-11T13:32:27+00:00",
+      "domain": "pageless.space",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: blqsort \u2013 A C++ Quicksort Faster Than std:sort",
+      "link": "https://tiki.li/blog/about_blqsort",
+      "summary": "<p>Article URL: <a href=\"https://tiki.li/blog/about_blqsort\">https://tiki.li/blog/about_blqsort</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50453189\">https://news.ycombinato...",
+      "published": "2026-11-11T13:31:12+00:00",
+      "domain": "tiki.li",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: I created a library for correctly using SQLite in Go programs",
+      "link": "https://github.com/cattlecloud/litesql",
+      "summary": "<p>Using SQLite in Go is deceptively easy. If you just import the popular github.com/mattn/go-sqlite3 as the database/sql driver implementation and start making queries, things will work great until y...",
+      "published": "2026-11-11T13:30:26+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -211,11 +295,11 @@
       }
     },
     {
-      "title": "Tell HN: Are You Real?",
-      "link": "https://news.ycombinator.com/item?id=50449876",
-      "summary": "<p>Yes. You are a real person who thinks, feels emotions, and asks questions.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50449876\">https://news.ycombinator.com/item?id=5...",
-      "published": "2026-11-11T04:54:35+00:00",
-      "domain": "news.ycombinator.com",
+      "title": "Attention to Mamba: A Recipe for Cross-Architecture Distillation",
+      "link": "https://machinelearning.apple.com/research/attention-mamba-distillation",
+      "summary": "<p>Article URL: <a href=\"https://machinelearning.apple.com/research/attention-mamba-distillation\">https://machinelearning.apple.com/research/attention-mamba-distillation</a></p>\n<p>Comments URL: <a hr...",
+      "published": "2026-11-11T13:29:46+00:00",
+      "domain": "machinelearning.apple.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -227,90 +311,10 @@
       }
     },
     {
-      "title": "What Is BaaS? \u2013 Back End-as-a-Service vs. Serverless",
-      "link": "https://www.cloudflare.com/learning/serverless/glossary/backend-as-a-service-baas/",
-      "summary": "<p>Article URL: <a href=\"https://www.cloudflare.com/learning/serverless/glossary/backend-as-a-service-baas/\">https://www.cloudflare.com/learning/serverless/glossary/backend-as-a-service-baas/</a></p>\n...",
-      "published": "2026-11-11T04:42:19+00:00",
-      "domain": "cloudflare.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Protecting SSH Keys with macOS Secure Enclave",
-      "link": "https://gatezh.com/posts/macos-secure-enclave-ssh-keys/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=50449748\">Comments</a>...",
-      "published": "2026-11-11T04:28:57+00:00",
-      "domain": "gatezh.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "A great old-timey game-programming hack (2013)",
-      "link": "https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=50448921\">Comments</a>...",
-      "published": "2026-11-11T01:56:31+00:00",
-      "domain": "blog.moertel.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Git Patches Flaw That Lets Malicious Repositories Execute Code During Recursive Clones",
-      "link": "https://thehackernews.com/2026/11/git-patches-flaw-that-lets-malicious.html",
-      "summary": "A flaw in Git can let a malicious repository run an attacker's code on a computer that clones it recursively, together with its submodules. The Git project fixed it this week in Git 2.56.1, with match...",
-      "published": "2026-11-11T00:53:10+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "SGLang RCE Exploit Breaches NEAR AI, Steals Data From 18 Agents and About 100 Users",
-      "link": "https://thehackernews.com/2026/11/sglang-rce-exploit-breaches-near-ai.html",
-      "summary": "An attacker exploited a remote code execution flaw in SGLang, an open-source inference engine, and ran code on one of NEAR AI's inference servers last Sunday.\n\nThe attacker could also have seen reques...",
-      "published": "2026-11-11T00:49:39+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Hackers Exploit Critical Xen Orchestra Auth Bypass Flaw to Gain Admin Access",
-      "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-xen-orchestra.html",
-      "summary": "French software company Vates VMS has warned of a critical security vulnerability in Xen Orchestra that it said is being actively exploited in the wild.\n\nThe authentication bypass flaw, which does not...",
-      "published": "2026-11-10T23:42:21+05:30",
+      "title": "Railway Says Stolen Customer AI Keys Led to $740,000 in Estimated Unauthorized Usage Charges",
+      "link": "https://thehackernews.com/2026/11/railway-says-stolen-customer-ai-keys.html",
+      "summary": "AI provider keys that customers stored on Railway were stolen in an October breach and used to commit an estimated $740,000 in unauthorized spending, the platform-as-a-service provider said yesterday....",
+      "published": "2026-11-11T13:19:04+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -325,27 +329,29 @@
   ],
   "overall_ranked": [
     {
-      "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
-      "link": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
-      "summary": "<p>Article URL: <a href=\"https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/\">https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-c...",
-      "published": "2026-11-11T04:42:26+00:00",
-      "domain": "techcrunch.com",
+      "title": "Microsoft Patches 1,259 Flaws, Including Exploited Outlook Bug That May Expose NTLMv2 Hashes",
+      "link": "https://thehackernews.com/2026/11/microsoft-patches-1259-flaws-including.html",
+      "summary": "Microsoft on Tuesday released patches for a total of 1,259 vulnerabilities spanning its software portfolio, the second consecutive month where the patch volume has exceeded 1,000 flaws.\n\nThese cover 7...",
+      "published": "2026-11-11T13:47:53+05:30",
+      "domain": "thehackernews.com",
       "scores": {
-        "chaos": 9.0,
-        "anarchy": 6.0,
-        "overall": 7.5
+        "chaos": 10.6,
+        "anarchy": 3.0,
+        "overall": 6.8
       },
       "keywords": {
-        "chaos": [],
+        "chaos": [
+          "bug"
+        ],
         "anarchy": []
       }
     },
     {
-      "title": "AI Coding CLI Tools to Try Beyond Claude Code and Codex",
-      "link": "https://medium.com/@ajseven/7-ai-coding-cli-tools-to-try-beyond-claude-code-and-codex-e95155e153bd7AICodingCLIToolstoTryBeyondClaudeCodeandCodex",
-      "summary": "<p>Article URL: <a href=\"https://medium.com/@ajseven/7-ai-coding-cli-tools-to-try-beyond-claude-code-and-codex-e95155e153bd7AICodingCLIToolstoTryBeyondClaudeCodeandCodex\">https://medium.com/@ajseven/7...",
-      "published": "2026-11-11T04:55:23+00:00",
-      "domain": "medium.com",
+      "title": "Over 35,000 Grok-Built Apps Exposed Online, Some Leaking Confidential Data and Passwords",
+      "link": "https://thehackernews.com/2026/11/over-35000-grok-built-apps-exposed.html",
+      "summary": "Of the 37,571 Grok-built apps that security company Claroc found online, 35,578 were open to anyone without a sign-in, the researchers said yesterday.\n\nThey included 24 apps built by staff at the soci...",
+      "published": "2026-11-11T17:49:40+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -357,10 +363,90 @@
       }
     },
     {
-      "title": "AetherSAST-150-CWE-MCP",
-      "link": "https://github.com/maxxwwim/AetherSAST-150-CWE-MCP",
-      "summary": "<p>Article URL: <a href=\"https://github.com/maxxwwim/AetherSAST-150-CWE-MCP\">https://github.com/maxxwwim/AetherSAST-150-CWE-MCP</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=5...",
-      "published": "2026-11-11T04:54:40+00:00",
+      "title": "We Built An Agent That Broke All of Our Security Rules. Here's What We Learned.",
+      "link": "https://thehackernews.com/2026/11/we-built-agent-that-broke-all-of-our.html",
+      "summary": "We tell customers three things about securing AI agents: they need their own identities, access that fits the job they\u2019re given, and traceability that\u2019s separate from any human\u2019s. That was true for us...",
+      "published": "2026-11-11T17:31:59+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "eMudhra Revokes 8 More CAs It Previously Declared Unaffected by Key Compromise",
+      "link": "https://thehackernews.com/2026/11/emudhra-revokes-8-more-cas-it.html",
+      "summary": "The in-house Python script behind eMudhra's October key compromise has now cost the company 8 more of its intermediate certificate authorities (CAs), even though it did not weaken their keys.\n\nEach in...",
+      "published": "2026-11-11T17:30:53+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "What If Maintainer Burnout Isn't Burnout",
+      "link": "https://ryancheley.com/2026/08/17/what-if-maintainer-burnout-isn-t-burnout/",
+      "summary": "<p>Article URL: <a href=\"https://ryancheley.com/2026/08/17/what-if-maintainer-burnout-isn-t-burnout/\">https://ryancheley.com/2026/08/17/what-if-maintainer-burnout-isn-t-burnout/</a></p>\n<p>Comments UR...",
+      "published": "2026-11-11T13:33:30+00:00",
+      "domain": "ryancheley.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Pagless \u2013 Minimal Android Launcher",
+      "link": "https://pageless.space/",
+      "summary": "<p>Article URL: <a href=\"https://pageless.space/\">https://pageless.space/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50453207\">https://news.ycombinator.com/item?id=50453207...",
+      "published": "2026-11-11T13:32:27+00:00",
+      "domain": "pageless.space",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: blqsort \u2013 A C++ Quicksort Faster Than std:sort",
+      "link": "https://tiki.li/blog/about_blqsort",
+      "summary": "<p>Article URL: <a href=\"https://tiki.li/blog/about_blqsort\">https://tiki.li/blog/about_blqsort</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50453189\">https://news.ycombinato...",
+      "published": "2026-11-11T13:31:12+00:00",
+      "domain": "tiki.li",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: I created a library for correctly using SQLite in Go programs",
+      "link": "https://github.com/cattlecloud/litesql",
+      "summary": "<p>Using SQLite in Go is deceptively easy. If you just import the popular github.com/mattn/go-sqlite3 as the database/sql driver implementation and start making queries, things will work great until y...",
+      "published": "2026-11-11T13:30:26+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -373,11 +459,11 @@
       }
     },
     {
-      "title": "Tell HN: Are You Real?",
-      "link": "https://news.ycombinator.com/item?id=50449876",
-      "summary": "<p>Yes. You are a real person who thinks, feels emotions, and asks questions.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50449876\">https://news.ycombinator.com/item?id=5...",
-      "published": "2026-11-11T04:54:35+00:00",
-      "domain": "news.ycombinator.com",
+      "title": "Attention to Mamba: A Recipe for Cross-Architecture Distillation",
+      "link": "https://machinelearning.apple.com/research/attention-mamba-distillation",
+      "summary": "<p>Article URL: <a href=\"https://machinelearning.apple.com/research/attention-mamba-distillation\">https://machinelearning.apple.com/research/attention-mamba-distillation</a></p>\n<p>Comments URL: <a hr...",
+      "published": "2026-11-11T13:29:46+00:00",
+      "domain": "machinelearning.apple.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -389,90 +475,10 @@
       }
     },
     {
-      "title": "What Is BaaS? \u2013 Back End-as-a-Service vs. Serverless",
-      "link": "https://www.cloudflare.com/learning/serverless/glossary/backend-as-a-service-baas/",
-      "summary": "<p>Article URL: <a href=\"https://www.cloudflare.com/learning/serverless/glossary/backend-as-a-service-baas/\">https://www.cloudflare.com/learning/serverless/glossary/backend-as-a-service-baas/</a></p>\n...",
-      "published": "2026-11-11T04:42:19+00:00",
-      "domain": "cloudflare.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Protecting SSH Keys with macOS Secure Enclave",
-      "link": "https://gatezh.com/posts/macos-secure-enclave-ssh-keys/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=50449748\">Comments</a>...",
-      "published": "2026-11-11T04:28:57+00:00",
-      "domain": "gatezh.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "A great old-timey game-programming hack (2013)",
-      "link": "https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=50448921\">Comments</a>...",
-      "published": "2026-11-11T01:56:31+00:00",
-      "domain": "blog.moertel.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Git Patches Flaw That Lets Malicious Repositories Execute Code During Recursive Clones",
-      "link": "https://thehackernews.com/2026/11/git-patches-flaw-that-lets-malicious.html",
-      "summary": "A flaw in Git can let a malicious repository run an attacker's code on a computer that clones it recursively, together with its submodules. The Git project fixed it this week in Git 2.56.1, with match...",
-      "published": "2026-11-11T00:53:10+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "SGLang RCE Exploit Breaches NEAR AI, Steals Data From 18 Agents and About 100 Users",
-      "link": "https://thehackernews.com/2026/11/sglang-rce-exploit-breaches-near-ai.html",
-      "summary": "An attacker exploited a remote code execution flaw in SGLang, an open-source inference engine, and ran code on one of NEAR AI's inference servers last Sunday.\n\nThe attacker could also have seen reques...",
-      "published": "2026-11-11T00:49:39+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Hackers Exploit Critical Xen Orchestra Auth Bypass Flaw to Gain Admin Access",
-      "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-xen-orchestra.html",
-      "summary": "French software company Vates VMS has warned of a critical security vulnerability in Xen Orchestra that it said is being actively exploited in the wild.\n\nThe authentication bypass flaw, which does not...",
-      "published": "2026-11-10T23:42:21+05:30",
+      "title": "Railway Says Stolen Customer AI Keys Led to $740,000 in Estimated Unauthorized Usage Charges",
+      "link": "https://thehackernews.com/2026/11/railway-says-stolen-customer-ai-keys.html",
+      "summary": "AI provider keys that customers stored on Railway were stolen in an October breach and used to commit an estimated $740,000 in unauthorized spending, the platform-as-a-service provider said yesterday....",
+      "published": "2026-11-11T13:19:04+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -487,11 +493,11 @@
   ],
   "all_articles": [
     {
-      "title": "AI Coding CLI Tools to Try Beyond Claude Code and Codex",
-      "link": "https://medium.com/@ajseven/7-ai-coding-cli-tools-to-try-beyond-claude-code-and-codex-e95155e153bd7AICodingCLIToolstoTryBeyondClaudeCodeandCodex",
-      "summary": "<p>Article URL: <a href=\"https://medium.com/@ajseven/7-ai-coding-cli-tools-to-try-beyond-claude-code-and-codex-e95155e153bd7AICodingCLIToolstoTryBeyondClaudeCodeandCodex\">https://medium.com/@ajseven/7...",
-      "published": "2026-11-11T04:55:23+00:00",
-      "domain": "medium.com",
+      "title": "Over 35,000 Grok-Built Apps Exposed Online, Some Leaking Confidential Data and Passwords",
+      "link": "https://thehackernews.com/2026/11/over-35000-grok-built-apps-exposed.html",
+      "summary": "Of the 37,571 Grok-built apps that security company Claroc found online, 35,578 were open to anyone without a sign-in, the researchers said yesterday.\n\nThey included 24 apps built by staff at the soci...",
+      "published": "2026-11-11T17:49:40+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -503,10 +509,108 @@
       }
     },
     {
-      "title": "AetherSAST-150-CWE-MCP",
-      "link": "https://github.com/maxxwwim/AetherSAST-150-CWE-MCP",
-      "summary": "<p>Article URL: <a href=\"https://github.com/maxxwwim/AetherSAST-150-CWE-MCP\">https://github.com/maxxwwim/AetherSAST-150-CWE-MCP</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=5...",
-      "published": "2026-11-11T04:54:40+00:00",
+      "title": "We Built An Agent That Broke All of Our Security Rules. Here's What We Learned.",
+      "link": "https://thehackernews.com/2026/11/we-built-agent-that-broke-all-of-our.html",
+      "summary": "We tell customers three things about securing AI agents: they need their own identities, access that fits the job they\u2019re given, and traceability that\u2019s separate from any human\u2019s. That was true for us...",
+      "published": "2026-11-11T17:31:59+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "eMudhra Revokes 8 More CAs It Previously Declared Unaffected by Key Compromise",
+      "link": "https://thehackernews.com/2026/11/emudhra-revokes-8-more-cas-it.html",
+      "summary": "The in-house Python script behind eMudhra's October key compromise has now cost the company 8 more of its intermediate certificate authorities (CAs), even though it did not weaken their keys.\n\nEach in...",
+      "published": "2026-11-11T17:30:53+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Microsoft Patches 1,259 Flaws, Including Exploited Outlook Bug That May Expose NTLMv2 Hashes",
+      "link": "https://thehackernews.com/2026/11/microsoft-patches-1259-flaws-including.html",
+      "summary": "Microsoft on Tuesday released patches for a total of 1,259 vulnerabilities spanning its software portfolio, the second consecutive month where the patch volume has exceeded 1,000 flaws.\n\nThese cover 7...",
+      "published": "2026-11-11T13:47:53+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 10.6,
+        "anarchy": 3.0,
+        "overall": 6.8
+      },
+      "keywords": {
+        "chaos": [
+          "bug"
+        ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "What If Maintainer Burnout Isn't Burnout",
+      "link": "https://ryancheley.com/2026/08/17/what-if-maintainer-burnout-isn-t-burnout/",
+      "summary": "<p>Article URL: <a href=\"https://ryancheley.com/2026/08/17/what-if-maintainer-burnout-isn-t-burnout/\">https://ryancheley.com/2026/08/17/what-if-maintainer-burnout-isn-t-burnout/</a></p>\n<p>Comments UR...",
+      "published": "2026-11-11T13:33:30+00:00",
+      "domain": "ryancheley.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Pagless \u2013 Minimal Android Launcher",
+      "link": "https://pageless.space/",
+      "summary": "<p>Article URL: <a href=\"https://pageless.space/\">https://pageless.space/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50453207\">https://news.ycombinator.com/item?id=50453207...",
+      "published": "2026-11-11T13:32:27+00:00",
+      "domain": "pageless.space",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: blqsort \u2013 A C++ Quicksort Faster Than std:sort",
+      "link": "https://tiki.li/blog/about_blqsort",
+      "summary": "<p>Article URL: <a href=\"https://tiki.li/blog/about_blqsort\">https://tiki.li/blog/about_blqsort</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50453189\">https://news.ycombinato...",
+      "published": "2026-11-11T13:31:12+00:00",
+      "domain": "tiki.li",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: I created a library for correctly using SQLite in Go programs",
+      "link": "https://github.com/cattlecloud/litesql",
+      "summary": "<p>Using SQLite in Go is deceptively easy. If you just import the popular github.com/mattn/go-sqlite3 as the database/sql driver implementation and start making queries, things will work great until y...",
+      "published": "2026-11-11T13:30:26+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -519,11 +623,11 @@
       }
     },
     {
-      "title": "Tell HN: Are You Real?",
-      "link": "https://news.ycombinator.com/item?id=50449876",
-      "summary": "<p>Yes. You are a real person who thinks, feels emotions, and asks questions.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50449876\">https://news.ycombinator.com/item?id=5...",
-      "published": "2026-11-11T04:54:35+00:00",
-      "domain": "news.ycombinator.com",
+      "title": "Attention to Mamba: A Recipe for Cross-Architecture Distillation",
+      "link": "https://machinelearning.apple.com/research/attention-mamba-distillation",
+      "summary": "<p>Article URL: <a href=\"https://machinelearning.apple.com/research/attention-mamba-distillation\">https://machinelearning.apple.com/research/attention-mamba-distillation</a></p>\n<p>Comments URL: <a hr...",
+      "published": "2026-11-11T13:29:46+00:00",
+      "domain": "machinelearning.apple.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -535,106 +639,10 @@
       }
     },
     {
-      "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
-      "link": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
-      "summary": "<p>Article URL: <a href=\"https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/\">https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-c...",
-      "published": "2026-11-11T04:42:26+00:00",
-      "domain": "techcrunch.com",
-      "scores": {
-        "chaos": 9.0,
-        "anarchy": 6.0,
-        "overall": 7.5
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "What Is BaaS? \u2013 Back End-as-a-Service vs. Serverless",
-      "link": "https://www.cloudflare.com/learning/serverless/glossary/backend-as-a-service-baas/",
-      "summary": "<p>Article URL: <a href=\"https://www.cloudflare.com/learning/serverless/glossary/backend-as-a-service-baas/\">https://www.cloudflare.com/learning/serverless/glossary/backend-as-a-service-baas/</a></p>\n...",
-      "published": "2026-11-11T04:42:19+00:00",
-      "domain": "cloudflare.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Protecting SSH Keys with macOS Secure Enclave",
-      "link": "https://gatezh.com/posts/macos-secure-enclave-ssh-keys/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=50449748\">Comments</a>...",
-      "published": "2026-11-11T04:28:57+00:00",
-      "domain": "gatezh.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "A great old-timey game-programming hack (2013)",
-      "link": "https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=50448921\">Comments</a>...",
-      "published": "2026-11-11T01:56:31+00:00",
-      "domain": "blog.moertel.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Git Patches Flaw That Lets Malicious Repositories Execute Code During Recursive Clones",
-      "link": "https://thehackernews.com/2026/11/git-patches-flaw-that-lets-malicious.html",
-      "summary": "A flaw in Git can let a malicious repository run an attacker's code on a computer that clones it recursively, together with its submodules. The Git project fixed it this week in Git 2.56.1, with match...",
-      "published": "2026-11-11T00:53:10+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "SGLang RCE Exploit Breaches NEAR AI, Steals Data From 18 Agents and About 100 Users",
-      "link": "https://thehackernews.com/2026/11/sglang-rce-exploit-breaches-near-ai.html",
-      "summary": "An attacker exploited a remote code execution flaw in SGLang, an open-source inference engine, and ran code on one of NEAR AI's inference servers last Sunday.\n\nThe attacker could also have seen reques...",
-      "published": "2026-11-11T00:49:39+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Hackers Exploit Critical Xen Orchestra Auth Bypass Flaw to Gain Admin Access",
-      "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-xen-orchestra.html",
-      "summary": "French software company Vates VMS has warned of a critical security vulnerability in Xen Orchestra that it said is being actively exploited in the wild.\n\nThe authentication bypass flaw, which does not...",
-      "published": "2026-11-10T23:42:21+05:30",
+      "title": "Railway Says Stolen Customer AI Keys Led to $740,000 in Estimated Unauthorized Usage Charges",
+      "link": "https://thehackernews.com/2026/11/railway-says-stolen-customer-ai-keys.html",
+      "summary": "AI provider keys that customers stored on Railway were stolen in an October breach and used to commit an estimated $740,000 in unauthorized spending, the platform-as-a-service provider said yesterday....",
+      "published": "2026-11-11T13:19:04+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,

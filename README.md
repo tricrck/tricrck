@@ -16,15 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### OpenAI acquires Odessia, travel startup created by Sonder founder
+### Microsoft Patches 1,259 Flaws, Including Exploited Outlook Bug That May Expose NTLMv2 Hashes
 - **Published**: November 11, 2026
-- **Summary**: https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-c......
-- [Read more](https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/)
+- **Summary**: Microsoft on Tuesday released patches for a total of 1,259 vulnerabilities spanning its software portfolio, the second consecutive month where the pat...
+- **Keywords**: bug
+- [Read more](https://thehackernews.com/2026/11/microsoft-patches-1259-flaws-including.html)
 
-### AI Coding CLI Tools to Try Beyond Claude Code and Codex
+### Over 35,000 Grok-Built Apps Exposed Online, Some Leaking Confidential Data and Passwords
 - **Published**: November 11, 2026
-- **Summary**: https://medium.com/@ajseven/7......
-- [Read more](https://medium.com/@ajseven/7-ai-coding-cli-tools-to-try-beyond-claude-code-and-codex-e95155e153bd7AICodingCLIToolstoTryBeyondClaudeCodeandCodex)
+- **Summary**: Of the 37,571 Grok-built apps that security company Claroc found online, 35,578 were open to anyone without a sign-in, the researchers said yesterday....
+- [Read more](https://thehackernews.com/2026/11/over-35000-grok-built-apps-exposed.html)
 
 ---
 
