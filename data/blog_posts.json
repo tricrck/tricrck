@@ -1,29 +1,27 @@
 {
   "chaos_ranked": [
     {
-      "title": "Critical Zoom Workplace Flaw Could Allow Unauthenticated Remote Privilege Escalation",
-      "link": "https://thehackernews.com/2026/11/critical-zoom-workplace-flaw-could.html",
-      "summary": "Zoom has released software updates to address two security flaws impacting Zoom Workplace for Windows, including a critical bug that could result in privilege escalation on affected systems.\n\nThe vuln...",
-      "published": "2026-11-11T21:42:46+05:30",
+      "title": "Google Cloud Warns Three AMD Turin CPU Flaws Could Leak Data Across Processes in VMs",
+      "link": "https://thehackernews.com/2026/11/google-cloud-warns-three-amd-turin-cpu.html",
+      "summary": "Google Cloud VMs on AMD Turin chips need a guest OS patch and a stop-and-start to protect against three CPU side-channel flaws, Google said this week.\n\nThe company has already applied mitigations agai...",
+      "published": "2026-11-12T17:39:14+05:30",
       "domain": "thehackernews.com",
       "scores": {
-        "chaos": 11.8,
+        "chaos": 3.0,
         "anarchy": 3.0,
-        "overall": 7.4
+        "overall": 3.0
       },
       "keywords": {
-        "chaos": [
-          "bug"
-        ],
+        "chaos": [],
         "anarchy": []
       }
     },
     {
-      "title": "Show HN: Tsfm-pg: Run Chronos-2/Timestral forecasts inside Postgres with SQL",
-      "link": "https://github.com/barddoo/tsfm-pg",
-      "summary": "<p>Article URL: <a href=\"https://github.com/barddoo/tsfm-pg\">https://github.com/barddoo/tsfm-pg</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50460864\">https://news.ycombinato...",
-      "published": "2026-11-12T00:00:31+00:00",
-      "domain": "github.com",
+      "title": "Webinar: See How Identity Blind Spots Put Your SOC at Risk and How to Close Them",
+      "link": "https://thehackernews.com/2026/11/your-soc-sees-alert-but-does-it-know.html",
+      "summary": "Security teams have more alerts, logs, and monitoring tools than ever. Yet when an attack happens, one simple question can still take too long to answer: Who or what is behind this activity, and what ...",
+      "published": "2026-11-12T17:32:51+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -35,11 +33,11 @@
       }
     },
     {
-      "title": "Labdoo is a social network providing schools with computers",
-      "link": "https://labdoo.org",
-      "summary": "<p>Article URL: <a href=\"https://labdoo.org\">https://labdoo.org</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50460845\">https://news.ycombinator.com/item?id=50460845</a></p>\n<...",
-      "published": "2026-11-11T23:58:54+00:00",
-      "domain": "labdoo.org",
+      "title": "New N-central Exploits Work Against Patched Servers, Enable Root RCE and Windows SYSTEM Access",
+      "link": "https://thehackernews.com/2026/11/new-n-central-exploits-work-against.html",
+      "summary": "N-able on Thursday said it's investigating a new public disclosure containing claims of additional vulnerabilities in on-premise versions of N-central running version 2026.4.1 HF2.\n\n\"Based on our init...",
+      "published": "2026-11-12T17:21:43+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -51,11 +49,11 @@
       }
     },
     {
-      "title": "Apple MacBook Pro 14 Proled XDR Review",
-      "link": "https://www.notebookcheck.net/Amazing-OLED-panel-Apple-MacBook-Pro-14-PROLED-XDR-Review.1438048.0.html",
-      "summary": "<p>Article URL: <a href=\"https://www.notebookcheck.net/Amazing-OLED-panel-Apple-MacBook-Pro-14-PROLED-XDR-Review.1438048.0.html\">https://www.notebookcheck.net/Amazing-OLED-panel-Apple-MacBook-Pro-14-P...",
-      "published": "2026-11-11T23:53:02+00:00",
-      "domain": "notebookcheck.net",
+      "title": "Calendar Invites and Live Proxies: Inside a Google Session Hijacking Campaign",
+      "link": "https://thehackernews.com/2026/11/calendar-invites-and-live-proxies.html",
+      "summary": "Since mid-August 2026, a phishing operation has been stealing live Google sessions from corporate users. Every check defenders normally lean on to judge a link came back clean, and the operator design...",
+      "published": "2026-11-12T17:21:31+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -67,11 +65,11 @@
       }
     },
     {
-      "title": "Humanoid robot startup backed by Eric Trump in talks with Israel's military",
-      "link": "https://www.ft.com/content/8117b912-ebc7-46b2-90cd-a1ec32e12c5a",
-      "summary": "<p>Article URL: <a href=\"https://www.ft.com/content/8117b912-ebc7-46b2-90cd-a1ec32e12c5a\">https://www.ft.com/content/8117b912-ebc7-46b2-90cd-a1ec32e12c5a</a></p>\n<p>Comments URL: <a href=\"https://news...",
-      "published": "2026-11-11T23:51:33+00:00",
-      "domain": "ft.com",
+      "title": "PTC Patches Critical Windchill and FlexPLM Flaw That Could Enable Remote Code Execution",
+      "link": "https://thehackernews.com/2026/11/ptc-patches-critical-windchill-and.html",
+      "summary": "PTC has released patches for a new critical vulnerability impacting Windchill and FlexPLM software that, if successfully exploited, could result in remote code execution.\n\nThe security flaw, tracked a...",
+      "published": "2026-11-12T17:03:15+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -83,11 +81,11 @@
       }
     },
     {
-      "title": "History of Password Cracking",
-      "link": "https://www.netmux.com/blog/history-of-password-cracking",
-      "summary": "<p>Article URL: <a href=\"https://www.netmux.com/blog/history-of-password-cracking\">https://www.netmux.com/blog/history-of-password-cracking</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.c...",
-      "published": "2026-11-11T23:49:19+00:00",
-      "domain": "netmux.com",
+      "title": "Spy versus Guy",
+      "link": "https://thezvi.substack.com/p/ai-194-spy-versus-guy",
+      "summary": "<p>Article URL: <a href=\"https://thezvi.substack.com/p/ai-194-spy-versus-guy\">https://thezvi.substack.com/p/ai-194-spy-versus-guy</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id...",
+      "published": "2026-11-12T14:36:58+00:00",
+      "domain": "thezvi.substack.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -99,11 +97,11 @@
       }
     },
     {
-      "title": "Exclusive | Nvidia is Preparing to Oust CEO Jensen Huang",
-      "link": "https://www.reddit.com/r/technology/comments/1xtvw5q/exclusive_nvidia_is_preparing_to_oust_ceo_jensen/",
-      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/mcfreeky8\"> /u/mcfreeky8 </a> <br /> <span><a href=\"https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f42...",
-      "published": "2026-11-11T22:36:18+00:00",
-      "domain": "reddit.com",
+      "title": "C3 0.8.6:Library fetching,30% smaller safe-mode binaries,and stricter type rules",
+      "link": "https://c3-lang.org/blog/c3_0_8_6_fetching_libraries/",
+      "summary": "<p>Article URL: <a href=\"https://c3-lang.org/blog/c3_0_8_6_fetching_libraries/\">https://c3-lang.org/blog/c3_0_8_6_fetching_libraries/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/ite...",
+      "published": "2026-11-12T14:36:55+00:00",
+      "domain": "c3-lang.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -115,11 +113,11 @@
       }
     },
     {
-      "title": "93% of Paint Splatters Are Valid Perl Programs (2019)",
-      "link": "https://www.mcmillen.dev/sigbovik/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=50459745\">Comments</a>...",
-      "published": "2026-11-11T22:34:23+00:00",
-      "domain": "mcmillen.dev",
+      "title": "How Do Building Codes Affect the Price of Housing?",
+      "link": "https://www.construction-physics.com/p/how-do-building-codes-affect-the",
+      "summary": "<p>Article URL: <a href=\"https://www.construction-physics.com/p/how-do-building-codes-affect-the\">https://www.construction-physics.com/p/how-do-building-codes-affect-the</a></p>\n<p>Comments URL: <a hr...",
+      "published": "2026-11-12T14:36:29+00:00",
+      "domain": "construction-physics.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -131,11 +129,11 @@
       }
     },
     {
-      "title": "Lock Your GitHub Actions",
-      "link": "https://hugovk.dev/blog/2026/lock-github-actions/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=50459485\">Comments</a>...",
-      "published": "2026-11-11T22:16:41+00:00",
-      "domain": "hugovk.dev",
+      "title": "Smarter AI Product Design Centers the User's Real Needs",
+      "link": "https://spectrum.ieee.org/human-centered-ai-product-design",
+      "summary": "<p>Article URL: <a href=\"https://spectrum.ieee.org/human-centered-ai-product-design\">https://spectrum.ieee.org/human-centered-ai-product-design</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinat...",
+      "published": "2026-11-12T14:36:06+00:00",
+      "domain": "spectrum.ieee.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -147,11 +145,11 @@
       }
     },
     {
-      "title": "Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him",
-      "link": "https://www.reddit.com/r/technology/comments/1xtv8dn/jensen_huang_said_to_have_had_relationship_with/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1xtv8dn/jensen_huang_said_to_have_had_relationship_with/\"> <img alt=\"Jensen Huang Said to Have Had Relationship With Nvidia Execu...",
-      "published": "2026-11-11T22:09:03+00:00",
-      "domain": "reddit.com",
+      "title": "A teacher that made $20M a year making videos for babies",
+      "link": "https://www.readfounded.com/p/baby-einstein",
+      "summary": "<p>Article URL: <a href=\"https://www.readfounded.com/p/baby-einstein\">https://www.readfounded.com/p/baby-einstein</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50467953\">https...",
+      "published": "2026-11-12T14:35:32+00:00",
+      "domain": "readfounded.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -165,193 +163,189 @@
   ],
   "anarchy_ranked": [
     {
-      "title": "Show HN: Tsfm-pg: Run Chronos-2/Timestral forecasts inside Postgres with SQL",
-      "link": "https://github.com/barddoo/tsfm-pg",
-      "summary": "<p>Article URL: <a href=\"https://github.com/barddoo/tsfm-pg\">https://github.com/barddoo/tsfm-pg</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50460864\">https://news.ycombinato...",
-      "published": "2026-11-12T00:00:31+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Labdoo is a social network providing schools with computers",
-      "link": "https://labdoo.org",
-      "summary": "<p>Article URL: <a href=\"https://labdoo.org\">https://labdoo.org</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50460845\">https://news.ycombinator.com/item?id=50460845</a></p>\n<...",
-      "published": "2026-11-11T23:58:54+00:00",
-      "domain": "labdoo.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Apple MacBook Pro 14 Proled XDR Review",
-      "link": "https://www.notebookcheck.net/Amazing-OLED-panel-Apple-MacBook-Pro-14-PROLED-XDR-Review.1438048.0.html",
-      "summary": "<p>Article URL: <a href=\"https://www.notebookcheck.net/Amazing-OLED-panel-Apple-MacBook-Pro-14-PROLED-XDR-Review.1438048.0.html\">https://www.notebookcheck.net/Amazing-OLED-panel-Apple-MacBook-Pro-14-P...",
-      "published": "2026-11-11T23:53:02+00:00",
-      "domain": "notebookcheck.net",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Humanoid robot startup backed by Eric Trump in talks with Israel's military",
-      "link": "https://www.ft.com/content/8117b912-ebc7-46b2-90cd-a1ec32e12c5a",
-      "summary": "<p>Article URL: <a href=\"https://www.ft.com/content/8117b912-ebc7-46b2-90cd-a1ec32e12c5a\">https://www.ft.com/content/8117b912-ebc7-46b2-90cd-a1ec32e12c5a</a></p>\n<p>Comments URL: <a href=\"https://news...",
-      "published": "2026-11-11T23:51:33+00:00",
-      "domain": "ft.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "History of Password Cracking",
-      "link": "https://www.netmux.com/blog/history-of-password-cracking",
-      "summary": "<p>Article URL: <a href=\"https://www.netmux.com/blog/history-of-password-cracking\">https://www.netmux.com/blog/history-of-password-cracking</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.c...",
-      "published": "2026-11-11T23:49:19+00:00",
-      "domain": "netmux.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Exclusive | Nvidia is Preparing to Oust CEO Jensen Huang",
-      "link": "https://www.reddit.com/r/technology/comments/1xtvw5q/exclusive_nvidia_is_preparing_to_oust_ceo_jensen/",
-      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/mcfreeky8\"> /u/mcfreeky8 </a> <br /> <span><a href=\"https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f42...",
-      "published": "2026-11-11T22:36:18+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "93% of Paint Splatters Are Valid Perl Programs (2019)",
-      "link": "https://www.mcmillen.dev/sigbovik/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=50459745\">Comments</a>...",
-      "published": "2026-11-11T22:34:23+00:00",
-      "domain": "mcmillen.dev",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Lock Your GitHub Actions",
-      "link": "https://hugovk.dev/blog/2026/lock-github-actions/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=50459485\">Comments</a>...",
-      "published": "2026-11-11T22:16:41+00:00",
-      "domain": "hugovk.dev",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him",
-      "link": "https://www.reddit.com/r/technology/comments/1xtv8dn/jensen_huang_said_to_have_had_relationship_with/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1xtv8dn/jensen_huang_said_to_have_had_relationship_with/\"> <img alt=\"Jensen Huang Said to Have Had Relationship With Nvidia Execu...",
-      "published": "2026-11-11T22:09:03+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Critical Zoom Workplace Flaw Could Allow Unauthenticated Remote Privilege Escalation",
-      "link": "https://thehackernews.com/2026/11/critical-zoom-workplace-flaw-could.html",
-      "summary": "Zoom has released software updates to address two security flaws impacting Zoom Workplace for Windows, including a critical bug that could result in privilege escalation on affected systems.\n\nThe vuln...",
-      "published": "2026-11-11T21:42:46+05:30",
+      "title": "Google Cloud Warns Three AMD Turin CPU Flaws Could Leak Data Across Processes in VMs",
+      "link": "https://thehackernews.com/2026/11/google-cloud-warns-three-amd-turin-cpu.html",
+      "summary": "Google Cloud VMs on AMD Turin chips need a guest OS patch and a stop-and-start to protect against three CPU side-channel flaws, Google said this week.\n\nThe company has already applied mitigations agai...",
+      "published": "2026-11-12T17:39:14+05:30",
       "domain": "thehackernews.com",
       "scores": {
-        "chaos": 11.8,
+        "chaos": 3.0,
         "anarchy": 3.0,
-        "overall": 7.4
+        "overall": 3.0
       },
       "keywords": {
-        "chaos": [
-          "bug"
-        ],
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Webinar: See How Identity Blind Spots Put Your SOC at Risk and How to Close Them",
+      "link": "https://thehackernews.com/2026/11/your-soc-sees-alert-but-does-it-know.html",
+      "summary": "Security teams have more alerts, logs, and monitoring tools than ever. Yet when an attack happens, one simple question can still take too long to answer: Who or what is behind this activity, and what ...",
+      "published": "2026-11-12T17:32:51+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "New N-central Exploits Work Against Patched Servers, Enable Root RCE and Windows SYSTEM Access",
+      "link": "https://thehackernews.com/2026/11/new-n-central-exploits-work-against.html",
+      "summary": "N-able on Thursday said it's investigating a new public disclosure containing claims of additional vulnerabilities in on-premise versions of N-central running version 2026.4.1 HF2.\n\n\"Based on our init...",
+      "published": "2026-11-12T17:21:43+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Calendar Invites and Live Proxies: Inside a Google Session Hijacking Campaign",
+      "link": "https://thehackernews.com/2026/11/calendar-invites-and-live-proxies.html",
+      "summary": "Since mid-August 2026, a phishing operation has been stealing live Google sessions from corporate users. Every check defenders normally lean on to judge a link came back clean, and the operator design...",
+      "published": "2026-11-12T17:21:31+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "PTC Patches Critical Windchill and FlexPLM Flaw That Could Enable Remote Code Execution",
+      "link": "https://thehackernews.com/2026/11/ptc-patches-critical-windchill-and.html",
+      "summary": "PTC has released patches for a new critical vulnerability impacting Windchill and FlexPLM software that, if successfully exploited, could result in remote code execution.\n\nThe security flaw, tracked a...",
+      "published": "2026-11-12T17:03:15+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Spy versus Guy",
+      "link": "https://thezvi.substack.com/p/ai-194-spy-versus-guy",
+      "summary": "<p>Article URL: <a href=\"https://thezvi.substack.com/p/ai-194-spy-versus-guy\">https://thezvi.substack.com/p/ai-194-spy-versus-guy</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id...",
+      "published": "2026-11-12T14:36:58+00:00",
+      "domain": "thezvi.substack.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "C3 0.8.6:Library fetching,30% smaller safe-mode binaries,and stricter type rules",
+      "link": "https://c3-lang.org/blog/c3_0_8_6_fetching_libraries/",
+      "summary": "<p>Article URL: <a href=\"https://c3-lang.org/blog/c3_0_8_6_fetching_libraries/\">https://c3-lang.org/blog/c3_0_8_6_fetching_libraries/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/ite...",
+      "published": "2026-11-12T14:36:55+00:00",
+      "domain": "c3-lang.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "How Do Building Codes Affect the Price of Housing?",
+      "link": "https://www.construction-physics.com/p/how-do-building-codes-affect-the",
+      "summary": "<p>Article URL: <a href=\"https://www.construction-physics.com/p/how-do-building-codes-affect-the\">https://www.construction-physics.com/p/how-do-building-codes-affect-the</a></p>\n<p>Comments URL: <a hr...",
+      "published": "2026-11-12T14:36:29+00:00",
+      "domain": "construction-physics.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Smarter AI Product Design Centers the User's Real Needs",
+      "link": "https://spectrum.ieee.org/human-centered-ai-product-design",
+      "summary": "<p>Article URL: <a href=\"https://spectrum.ieee.org/human-centered-ai-product-design\">https://spectrum.ieee.org/human-centered-ai-product-design</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinat...",
+      "published": "2026-11-12T14:36:06+00:00",
+      "domain": "spectrum.ieee.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "A teacher that made $20M a year making videos for babies",
+      "link": "https://www.readfounded.com/p/baby-einstein",
+      "summary": "<p>Article URL: <a href=\"https://www.readfounded.com/p/baby-einstein\">https://www.readfounded.com/p/baby-einstein</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50467953\">https...",
+      "published": "2026-11-12T14:35:32+00:00",
+      "domain": "readfounded.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
         "anarchy": []
       }
     }
   ],
   "overall_ranked": [
     {
-      "title": "Critical Zoom Workplace Flaw Could Allow Unauthenticated Remote Privilege Escalation",
-      "link": "https://thehackernews.com/2026/11/critical-zoom-workplace-flaw-could.html",
-      "summary": "Zoom has released software updates to address two security flaws impacting Zoom Workplace for Windows, including a critical bug that could result in privilege escalation on affected systems.\n\nThe vuln...",
-      "published": "2026-11-11T21:42:46+05:30",
+      "title": "Google Cloud Warns Three AMD Turin CPU Flaws Could Leak Data Across Processes in VMs",
+      "link": "https://thehackernews.com/2026/11/google-cloud-warns-three-amd-turin-cpu.html",
+      "summary": "Google Cloud VMs on AMD Turin chips need a guest OS patch and a stop-and-start to protect against three CPU side-channel flaws, Google said this week.\n\nThe company has already applied mitigations agai...",
+      "published": "2026-11-12T17:39:14+05:30",
       "domain": "thehackernews.com",
       "scores": {
-        "chaos": 11.8,
+        "chaos": 3.0,
         "anarchy": 3.0,
-        "overall": 7.4
+        "overall": 3.0
       },
       "keywords": {
-        "chaos": [
-          "bug"
-        ],
+        "chaos": [],
         "anarchy": []
       }
     },
     {
-      "title": "Show HN: Tsfm-pg: Run Chronos-2/Timestral forecasts inside Postgres with SQL",
-      "link": "https://github.com/barddoo/tsfm-pg",
-      "summary": "<p>Article URL: <a href=\"https://github.com/barddoo/tsfm-pg\">https://github.com/barddoo/tsfm-pg</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50460864\">https://news.ycombinato...",
-      "published": "2026-11-12T00:00:31+00:00",
-      "domain": "github.com",
+      "title": "Webinar: See How Identity Blind Spots Put Your SOC at Risk and How to Close Them",
+      "link": "https://thehackernews.com/2026/11/your-soc-sees-alert-but-does-it-know.html",
+      "summary": "Security teams have more alerts, logs, and monitoring tools than ever. Yet when an attack happens, one simple question can still take too long to answer: Who or what is behind this activity, and what ...",
+      "published": "2026-11-12T17:32:51+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -363,11 +357,11 @@
       }
     },
     {
-      "title": "Labdoo is a social network providing schools with computers",
-      "link": "https://labdoo.org",
-      "summary": "<p>Article URL: <a href=\"https://labdoo.org\">https://labdoo.org</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50460845\">https://news.ycombinator.com/item?id=50460845</a></p>\n<...",
-      "published": "2026-11-11T23:58:54+00:00",
-      "domain": "labdoo.org",
+      "title": "New N-central Exploits Work Against Patched Servers, Enable Root RCE and Windows SYSTEM Access",
+      "link": "https://thehackernews.com/2026/11/new-n-central-exploits-work-against.html",
+      "summary": "N-able on Thursday said it's investigating a new public disclosure containing claims of additional vulnerabilities in on-premise versions of N-central running version 2026.4.1 HF2.\n\n\"Based on our init...",
+      "published": "2026-11-12T17:21:43+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -379,11 +373,11 @@
       }
     },
     {
-      "title": "Apple MacBook Pro 14 Proled XDR Review",
-      "link": "https://www.notebookcheck.net/Amazing-OLED-panel-Apple-MacBook-Pro-14-PROLED-XDR-Review.1438048.0.html",
-      "summary": "<p>Article URL: <a href=\"https://www.notebookcheck.net/Amazing-OLED-panel-Apple-MacBook-Pro-14-PROLED-XDR-Review.1438048.0.html\">https://www.notebookcheck.net/Amazing-OLED-panel-Apple-MacBook-Pro-14-P...",
-      "published": "2026-11-11T23:53:02+00:00",
-      "domain": "notebookcheck.net",
+      "title": "Calendar Invites and Live Proxies: Inside a Google Session Hijacking Campaign",
+      "link": "https://thehackernews.com/2026/11/calendar-invites-and-live-proxies.html",
+      "summary": "Since mid-August 2026, a phishing operation has been stealing live Google sessions from corporate users. Every check defenders normally lean on to judge a link came back clean, and the operator design...",
+      "published": "2026-11-12T17:21:31+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -395,11 +389,11 @@
       }
     },
     {
-      "title": "Humanoid robot startup backed by Eric Trump in talks with Israel's military",
-      "link": "https://www.ft.com/content/8117b912-ebc7-46b2-90cd-a1ec32e12c5a",
-      "summary": "<p>Article URL: <a href=\"https://www.ft.com/content/8117b912-ebc7-46b2-90cd-a1ec32e12c5a\">https://www.ft.com/content/8117b912-ebc7-46b2-90cd-a1ec32e12c5a</a></p>\n<p>Comments URL: <a href=\"https://news...",
-      "published": "2026-11-11T23:51:33+00:00",
-      "domain": "ft.com",
+      "title": "PTC Patches Critical Windchill and FlexPLM Flaw That Could Enable Remote Code Execution",
+      "link": "https://thehackernews.com/2026/11/ptc-patches-critical-windchill-and.html",
+      "summary": "PTC has released patches for a new critical vulnerability impacting Windchill and FlexPLM software that, if successfully exploited, could result in remote code execution.\n\nThe security flaw, tracked a...",
+      "published": "2026-11-12T17:03:15+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -411,11 +405,11 @@
       }
     },
     {
-      "title": "History of Password Cracking",
-      "link": "https://www.netmux.com/blog/history-of-password-cracking",
-      "summary": "<p>Article URL: <a href=\"https://www.netmux.com/blog/history-of-password-cracking\">https://www.netmux.com/blog/history-of-password-cracking</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.c...",
-      "published": "2026-11-11T23:49:19+00:00",
-      "domain": "netmux.com",
+      "title": "Spy versus Guy",
+      "link": "https://thezvi.substack.com/p/ai-194-spy-versus-guy",
+      "summary": "<p>Article URL: <a href=\"https://thezvi.substack.com/p/ai-194-spy-versus-guy\">https://thezvi.substack.com/p/ai-194-spy-versus-guy</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id...",
+      "published": "2026-11-12T14:36:58+00:00",
+      "domain": "thezvi.substack.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -427,11 +421,11 @@
       }
     },
     {
-      "title": "Exclusive | Nvidia is Preparing to Oust CEO Jensen Huang",
-      "link": "https://www.reddit.com/r/technology/comments/1xtvw5q/exclusive_nvidia_is_preparing_to_oust_ceo_jensen/",
-      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/mcfreeky8\"> /u/mcfreeky8 </a> <br /> <span><a href=\"https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f42...",
-      "published": "2026-11-11T22:36:18+00:00",
-      "domain": "reddit.com",
+      "title": "C3 0.8.6:Library fetching,30% smaller safe-mode binaries,and stricter type rules",
+      "link": "https://c3-lang.org/blog/c3_0_8_6_fetching_libraries/",
+      "summary": "<p>Article URL: <a href=\"https://c3-lang.org/blog/c3_0_8_6_fetching_libraries/\">https://c3-lang.org/blog/c3_0_8_6_fetching_libraries/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/ite...",
+      "published": "2026-11-12T14:36:55+00:00",
+      "domain": "c3-lang.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -443,11 +437,11 @@
       }
     },
     {
-      "title": "93% of Paint Splatters Are Valid Perl Programs (2019)",
-      "link": "https://www.mcmillen.dev/sigbovik/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=50459745\">Comments</a>...",
-      "published": "2026-11-11T22:34:23+00:00",
-      "domain": "mcmillen.dev",
+      "title": "How Do Building Codes Affect the Price of Housing?",
+      "link": "https://www.construction-physics.com/p/how-do-building-codes-affect-the",
+      "summary": "<p>Article URL: <a href=\"https://www.construction-physics.com/p/how-do-building-codes-affect-the\">https://www.construction-physics.com/p/how-do-building-codes-affect-the</a></p>\n<p>Comments URL: <a hr...",
+      "published": "2026-11-12T14:36:29+00:00",
+      "domain": "construction-physics.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -459,11 +453,11 @@
       }
     },
     {
-      "title": "Lock Your GitHub Actions",
-      "link": "https://hugovk.dev/blog/2026/lock-github-actions/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=50459485\">Comments</a>...",
-      "published": "2026-11-11T22:16:41+00:00",
-      "domain": "hugovk.dev",
+      "title": "Smarter AI Product Design Centers the User's Real Needs",
+      "link": "https://spectrum.ieee.org/human-centered-ai-product-design",
+      "summary": "<p>Article URL: <a href=\"https://spectrum.ieee.org/human-centered-ai-product-design\">https://spectrum.ieee.org/human-centered-ai-product-design</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinat...",
+      "published": "2026-11-12T14:36:06+00:00",
+      "domain": "spectrum.ieee.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -475,11 +469,11 @@
       }
     },
     {
-      "title": "Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him",
-      "link": "https://www.reddit.com/r/technology/comments/1xtv8dn/jensen_huang_said_to_have_had_relationship_with/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1xtv8dn/jensen_huang_said_to_have_had_relationship_with/\"> <img alt=\"Jensen Huang Said to Have Had Relationship With Nvidia Execu...",
-      "published": "2026-11-11T22:09:03+00:00",
-      "domain": "reddit.com",
+      "title": "A teacher that made $20M a year making videos for babies",
+      "link": "https://www.readfounded.com/p/baby-einstein",
+      "summary": "<p>Article URL: <a href=\"https://www.readfounded.com/p/baby-einstein\">https://www.readfounded.com/p/baby-einstein</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50467953\">https...",
+      "published": "2026-11-12T14:35:32+00:00",
+      "domain": "readfounded.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -493,164 +487,162 @@
   ],
   "all_articles": [
     {
-      "title": "Show HN: Tsfm-pg: Run Chronos-2/Timestral forecasts inside Postgres with SQL",
-      "link": "https://github.com/barddoo/tsfm-pg",
-      "summary": "<p>Article URL: <a href=\"https://github.com/barddoo/tsfm-pg\">https://github.com/barddoo/tsfm-pg</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50460864\">https://news.ycombinato...",
-      "published": "2026-11-12T00:00:31+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Labdoo is a social network providing schools with computers",
-      "link": "https://labdoo.org",
-      "summary": "<p>Article URL: <a href=\"https://labdoo.org\">https://labdoo.org</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50460845\">https://news.ycombinator.com/item?id=50460845</a></p>\n<...",
-      "published": "2026-11-11T23:58:54+00:00",
-      "domain": "labdoo.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Apple MacBook Pro 14 Proled XDR Review",
-      "link": "https://www.notebookcheck.net/Amazing-OLED-panel-Apple-MacBook-Pro-14-PROLED-XDR-Review.1438048.0.html",
-      "summary": "<p>Article URL: <a href=\"https://www.notebookcheck.net/Amazing-OLED-panel-Apple-MacBook-Pro-14-PROLED-XDR-Review.1438048.0.html\">https://www.notebookcheck.net/Amazing-OLED-panel-Apple-MacBook-Pro-14-P...",
-      "published": "2026-11-11T23:53:02+00:00",
-      "domain": "notebookcheck.net",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Humanoid robot startup backed by Eric Trump in talks with Israel's military",
-      "link": "https://www.ft.com/content/8117b912-ebc7-46b2-90cd-a1ec32e12c5a",
-      "summary": "<p>Article URL: <a href=\"https://www.ft.com/content/8117b912-ebc7-46b2-90cd-a1ec32e12c5a\">https://www.ft.com/content/8117b912-ebc7-46b2-90cd-a1ec32e12c5a</a></p>\n<p>Comments URL: <a href=\"https://news...",
-      "published": "2026-11-11T23:51:33+00:00",
-      "domain": "ft.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "History of Password Cracking",
-      "link": "https://www.netmux.com/blog/history-of-password-cracking",
-      "summary": "<p>Article URL: <a href=\"https://www.netmux.com/blog/history-of-password-cracking\">https://www.netmux.com/blog/history-of-password-cracking</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.c...",
-      "published": "2026-11-11T23:49:19+00:00",
-      "domain": "netmux.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Exclusive | Nvidia is Preparing to Oust CEO Jensen Huang",
-      "link": "https://www.reddit.com/r/technology/comments/1xtvw5q/exclusive_nvidia_is_preparing_to_oust_ceo_jensen/",
-      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/mcfreeky8\"> /u/mcfreeky8 </a> <br /> <span><a href=\"https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f42...",
-      "published": "2026-11-11T22:36:18+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "93% of Paint Splatters Are Valid Perl Programs (2019)",
-      "link": "https://www.mcmillen.dev/sigbovik/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=50459745\">Comments</a>...",
-      "published": "2026-11-11T22:34:23+00:00",
-      "domain": "mcmillen.dev",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Lock Your GitHub Actions",
-      "link": "https://hugovk.dev/blog/2026/lock-github-actions/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=50459485\">Comments</a>...",
-      "published": "2026-11-11T22:16:41+00:00",
-      "domain": "hugovk.dev",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him",
-      "link": "https://www.reddit.com/r/technology/comments/1xtv8dn/jensen_huang_said_to_have_had_relationship_with/",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1xtv8dn/jensen_huang_said_to_have_had_relationship_with/\"> <img alt=\"Jensen Huang Said to Have Had Relationship With Nvidia Execu...",
-      "published": "2026-11-11T22:09:03+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Critical Zoom Workplace Flaw Could Allow Unauthenticated Remote Privilege Escalation",
-      "link": "https://thehackernews.com/2026/11/critical-zoom-workplace-flaw-could.html",
-      "summary": "Zoom has released software updates to address two security flaws impacting Zoom Workplace for Windows, including a critical bug that could result in privilege escalation on affected systems.\n\nThe vuln...",
-      "published": "2026-11-11T21:42:46+05:30",
+      "title": "Google Cloud Warns Three AMD Turin CPU Flaws Could Leak Data Across Processes in VMs",
+      "link": "https://thehackernews.com/2026/11/google-cloud-warns-three-amd-turin-cpu.html",
+      "summary": "Google Cloud VMs on AMD Turin chips need a guest OS patch and a stop-and-start to protect against three CPU side-channel flaws, Google said this week.\n\nThe company has already applied mitigations agai...",
+      "published": "2026-11-12T17:39:14+05:30",
       "domain": "thehackernews.com",
       "scores": {
-        "chaos": 11.8,
+        "chaos": 3.0,
         "anarchy": 3.0,
-        "overall": 7.4
+        "overall": 3.0
       },
       "keywords": {
-        "chaos": [
-          "bug"
-        ],
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Webinar: See How Identity Blind Spots Put Your SOC at Risk and How to Close Them",
+      "link": "https://thehackernews.com/2026/11/your-soc-sees-alert-but-does-it-know.html",
+      "summary": "Security teams have more alerts, logs, and monitoring tools than ever. Yet when an attack happens, one simple question can still take too long to answer: Who or what is behind this activity, and what ...",
+      "published": "2026-11-12T17:32:51+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "New N-central Exploits Work Against Patched Servers, Enable Root RCE and Windows SYSTEM Access",
+      "link": "https://thehackernews.com/2026/11/new-n-central-exploits-work-against.html",
+      "summary": "N-able on Thursday said it's investigating a new public disclosure containing claims of additional vulnerabilities in on-premise versions of N-central running version 2026.4.1 HF2.\n\n\"Based on our init...",
+      "published": "2026-11-12T17:21:43+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Calendar Invites and Live Proxies: Inside a Google Session Hijacking Campaign",
+      "link": "https://thehackernews.com/2026/11/calendar-invites-and-live-proxies.html",
+      "summary": "Since mid-August 2026, a phishing operation has been stealing live Google sessions from corporate users. Every check defenders normally lean on to judge a link came back clean, and the operator design...",
+      "published": "2026-11-12T17:21:31+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "PTC Patches Critical Windchill and FlexPLM Flaw That Could Enable Remote Code Execution",
+      "link": "https://thehackernews.com/2026/11/ptc-patches-critical-windchill-and.html",
+      "summary": "PTC has released patches for a new critical vulnerability impacting Windchill and FlexPLM software that, if successfully exploited, could result in remote code execution.\n\nThe security flaw, tracked a...",
+      "published": "2026-11-12T17:03:15+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Spy versus Guy",
+      "link": "https://thezvi.substack.com/p/ai-194-spy-versus-guy",
+      "summary": "<p>Article URL: <a href=\"https://thezvi.substack.com/p/ai-194-spy-versus-guy\">https://thezvi.substack.com/p/ai-194-spy-versus-guy</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id...",
+      "published": "2026-11-12T14:36:58+00:00",
+      "domain": "thezvi.substack.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "C3 0.8.6:Library fetching,30% smaller safe-mode binaries,and stricter type rules",
+      "link": "https://c3-lang.org/blog/c3_0_8_6_fetching_libraries/",
+      "summary": "<p>Article URL: <a href=\"https://c3-lang.org/blog/c3_0_8_6_fetching_libraries/\">https://c3-lang.org/blog/c3_0_8_6_fetching_libraries/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/ite...",
+      "published": "2026-11-12T14:36:55+00:00",
+      "domain": "c3-lang.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "How Do Building Codes Affect the Price of Housing?",
+      "link": "https://www.construction-physics.com/p/how-do-building-codes-affect-the",
+      "summary": "<p>Article URL: <a href=\"https://www.construction-physics.com/p/how-do-building-codes-affect-the\">https://www.construction-physics.com/p/how-do-building-codes-affect-the</a></p>\n<p>Comments URL: <a hr...",
+      "published": "2026-11-12T14:36:29+00:00",
+      "domain": "construction-physics.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Smarter AI Product Design Centers the User's Real Needs",
+      "link": "https://spectrum.ieee.org/human-centered-ai-product-design",
+      "summary": "<p>Article URL: <a href=\"https://spectrum.ieee.org/human-centered-ai-product-design\">https://spectrum.ieee.org/human-centered-ai-product-design</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinat...",
+      "published": "2026-11-12T14:36:06+00:00",
+      "domain": "spectrum.ieee.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "A teacher that made $20M a year making videos for babies",
+      "link": "https://www.readfounded.com/p/baby-einstein",
+      "summary": "<p>Article URL: <a href=\"https://www.readfounded.com/p/baby-einstein\">https://www.readfounded.com/p/baby-einstein</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50467953\">https...",
+      "published": "2026-11-12T14:35:32+00:00",
+      "domain": "readfounded.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
         "anarchy": []
       }
     }

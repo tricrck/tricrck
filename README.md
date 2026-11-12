@@ -16,17 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Critical Zoom Workplace Flaw Could Allow Unauthenticated Remote Privilege Escalation
-- **Published**: November 11, 2026
-- **Summary**: Zoom has released software updates to address two security flaws impacting Zoom Workplace for Windows, including a critical bug that could result in p...
-- **Keywords**: bug
-- [Read more](https://thehackernews.com/2026/11/critical-zoom-workplace-flaw-could.html)
-
-### Show HN: Tsfm-pg: Run Chronos-2/Timestral forecasts inside Postgres with SQL
+### Google Cloud Warns Three AMD Turin CPU Flaws Could Leak Data Across Processes in VMs
 - **Published**: November 12, 2026
-- **Summary**: https://github.com/barddoo/tsfm-pg</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50460864">https://news.ycombinato......
-- [Read more](https://github.com/barddoo/tsfm-pg)
+- **Summary**: Google Cloud VMs on AMD Turin chips need a guest OS patch and a stop-and-start to protect against three CPU side-channel flaws, Google said this week....
+- [Read more](https://thehackernews.com/2026/11/google-cloud-warns-three-amd-turin-cpu.html)
+
+### Webinar: See How Identity Blind Spots Put Your SOC at Risk and How to Close Them
+- **Published**: November 12, 2026
+- **Summary**: Security teams have more alerts, logs, and monitoring tools than ever. Yet when an attack happens, one simple question can still take too long to answ...
+- [Read more](https://thehackernews.com/2026/11/your-soc-sees-alert-but-does-it-know.html)
 
 ---
 
