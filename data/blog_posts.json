@@ -1,15 +1,15 @@
 {
   "chaos_ranked": [
     {
-      "title": "Microsoft Patches 1,259 Flaws, Including Exploited Outlook Bug That May Expose NTLMv2 Hashes",
-      "link": "https://thehackernews.com/2026/11/microsoft-patches-1259-flaws-including.html",
-      "summary": "Microsoft on Tuesday released patches for a total of 1,259 vulnerabilities spanning its software portfolio, the second consecutive month where the patch volume has exceeded 1,000 flaws.\n\nThese cover 7...",
-      "published": "2026-11-11T13:47:53+05:30",
+      "title": "Critical Zoom Workplace Flaw Could Allow Unauthenticated Remote Privilege Escalation",
+      "link": "https://thehackernews.com/2026/11/critical-zoom-workplace-flaw-could.html",
+      "summary": "Zoom has released software updates to address two security flaws impacting Zoom Workplace for Windows, including a critical bug that could result in privilege escalation on affected systems.\n\nThe vuln...",
+      "published": "2026-11-11T21:42:46+05:30",
       "domain": "thehackernews.com",
       "scores": {
-        "chaos": 10.6,
+        "chaos": 11.8,
         "anarchy": 3.0,
-        "overall": 6.8
+        "overall": 7.4
       },
       "keywords": {
         "chaos": [
@@ -19,106 +19,10 @@
       }
     },
     {
-      "title": "Over 35,000 Grok-Built Apps Exposed Online, Some Leaking Confidential Data and Passwords",
-      "link": "https://thehackernews.com/2026/11/over-35000-grok-built-apps-exposed.html",
-      "summary": "Of the 37,571 Grok-built apps that security company Claroc found online, 35,578 were open to anyone without a sign-in, the researchers said yesterday.\n\nThey included 24 apps built by staff at the soci...",
-      "published": "2026-11-11T17:49:40+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "We Built An Agent That Broke All of Our Security Rules. Here's What We Learned.",
-      "link": "https://thehackernews.com/2026/11/we-built-agent-that-broke-all-of-our.html",
-      "summary": "We tell customers three things about securing AI agents: they need their own identities, access that fits the job they\u2019re given, and traceability that\u2019s separate from any human\u2019s. That was true for us...",
-      "published": "2026-11-11T17:31:59+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "eMudhra Revokes 8 More CAs It Previously Declared Unaffected by Key Compromise",
-      "link": "https://thehackernews.com/2026/11/emudhra-revokes-8-more-cas-it.html",
-      "summary": "The in-house Python script behind eMudhra's October key compromise has now cost the company 8 more of its intermediate certificate authorities (CAs), even though it did not weaken their keys.\n\nEach in...",
-      "published": "2026-11-11T17:30:53+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "What If Maintainer Burnout Isn't Burnout",
-      "link": "https://ryancheley.com/2026/08/17/what-if-maintainer-burnout-isn-t-burnout/",
-      "summary": "<p>Article URL: <a href=\"https://ryancheley.com/2026/08/17/what-if-maintainer-burnout-isn-t-burnout/\">https://ryancheley.com/2026/08/17/what-if-maintainer-burnout-isn-t-burnout/</a></p>\n<p>Comments UR...",
-      "published": "2026-11-11T13:33:30+00:00",
-      "domain": "ryancheley.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: Pagless \u2013 Minimal Android Launcher",
-      "link": "https://pageless.space/",
-      "summary": "<p>Article URL: <a href=\"https://pageless.space/\">https://pageless.space/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50453207\">https://news.ycombinator.com/item?id=50453207...",
-      "published": "2026-11-11T13:32:27+00:00",
-      "domain": "pageless.space",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: blqsort \u2013 A C++ Quicksort Faster Than std:sort",
-      "link": "https://tiki.li/blog/about_blqsort",
-      "summary": "<p>Article URL: <a href=\"https://tiki.li/blog/about_blqsort\">https://tiki.li/blog/about_blqsort</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50453189\">https://news.ycombinato...",
-      "published": "2026-11-11T13:31:12+00:00",
-      "domain": "tiki.li",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: I created a library for correctly using SQLite in Go programs",
-      "link": "https://github.com/cattlecloud/litesql",
-      "summary": "<p>Using SQLite in Go is deceptively easy. If you just import the popular github.com/mattn/go-sqlite3 as the database/sql driver implementation and start making queries, things will work great until y...",
-      "published": "2026-11-11T13:30:26+00:00",
+      "title": "Show HN: Tsfm-pg: Run Chronos-2/Timestral forecasts inside Postgres with SQL",
+      "link": "https://github.com/barddoo/tsfm-pg",
+      "summary": "<p>Article URL: <a href=\"https://github.com/barddoo/tsfm-pg\">https://github.com/barddoo/tsfm-pg</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50460864\">https://news.ycombinato...",
+      "published": "2026-11-12T00:00:31+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -131,11 +35,11 @@
       }
     },
     {
-      "title": "Attention to Mamba: A Recipe for Cross-Architecture Distillation",
-      "link": "https://machinelearning.apple.com/research/attention-mamba-distillation",
-      "summary": "<p>Article URL: <a href=\"https://machinelearning.apple.com/research/attention-mamba-distillation\">https://machinelearning.apple.com/research/attention-mamba-distillation</a></p>\n<p>Comments URL: <a hr...",
-      "published": "2026-11-11T13:29:46+00:00",
-      "domain": "machinelearning.apple.com",
+      "title": "Labdoo is a social network providing schools with computers",
+      "link": "https://labdoo.org",
+      "summary": "<p>Article URL: <a href=\"https://labdoo.org\">https://labdoo.org</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50460845\">https://news.ycombinator.com/item?id=50460845</a></p>\n<...",
+      "published": "2026-11-11T23:58:54+00:00",
+      "domain": "labdoo.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -147,11 +51,107 @@
       }
     },
     {
-      "title": "Railway Says Stolen Customer AI Keys Led to $740,000 in Estimated Unauthorized Usage Charges",
-      "link": "https://thehackernews.com/2026/11/railway-says-stolen-customer-ai-keys.html",
-      "summary": "AI provider keys that customers stored on Railway were stolen in an October breach and used to commit an estimated $740,000 in unauthorized spending, the platform-as-a-service provider said yesterday....",
-      "published": "2026-11-11T13:19:04+05:30",
-      "domain": "thehackernews.com",
+      "title": "Apple MacBook Pro 14 Proled XDR Review",
+      "link": "https://www.notebookcheck.net/Amazing-OLED-panel-Apple-MacBook-Pro-14-PROLED-XDR-Review.1438048.0.html",
+      "summary": "<p>Article URL: <a href=\"https://www.notebookcheck.net/Amazing-OLED-panel-Apple-MacBook-Pro-14-PROLED-XDR-Review.1438048.0.html\">https://www.notebookcheck.net/Amazing-OLED-panel-Apple-MacBook-Pro-14-P...",
+      "published": "2026-11-11T23:53:02+00:00",
+      "domain": "notebookcheck.net",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Humanoid robot startup backed by Eric Trump in talks with Israel's military",
+      "link": "https://www.ft.com/content/8117b912-ebc7-46b2-90cd-a1ec32e12c5a",
+      "summary": "<p>Article URL: <a href=\"https://www.ft.com/content/8117b912-ebc7-46b2-90cd-a1ec32e12c5a\">https://www.ft.com/content/8117b912-ebc7-46b2-90cd-a1ec32e12c5a</a></p>\n<p>Comments URL: <a href=\"https://news...",
+      "published": "2026-11-11T23:51:33+00:00",
+      "domain": "ft.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "History of Password Cracking",
+      "link": "https://www.netmux.com/blog/history-of-password-cracking",
+      "summary": "<p>Article URL: <a href=\"https://www.netmux.com/blog/history-of-password-cracking\">https://www.netmux.com/blog/history-of-password-cracking</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.c...",
+      "published": "2026-11-11T23:49:19+00:00",
+      "domain": "netmux.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Exclusive | Nvidia is Preparing to Oust CEO Jensen Huang",
+      "link": "https://www.reddit.com/r/technology/comments/1xtvw5q/exclusive_nvidia_is_preparing_to_oust_ceo_jensen/",
+      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/mcfreeky8\"> /u/mcfreeky8 </a> <br /> <span><a href=\"https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f42...",
+      "published": "2026-11-11T22:36:18+00:00",
+      "domain": "reddit.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "93% of Paint Splatters Are Valid Perl Programs (2019)",
+      "link": "https://www.mcmillen.dev/sigbovik/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50459745\">Comments</a>...",
+      "published": "2026-11-11T22:34:23+00:00",
+      "domain": "mcmillen.dev",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Lock Your GitHub Actions",
+      "link": "https://hugovk.dev/blog/2026/lock-github-actions/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50459485\">Comments</a>...",
+      "published": "2026-11-11T22:16:41+00:00",
+      "domain": "hugovk.dev",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him",
+      "link": "https://www.reddit.com/r/technology/comments/1xtv8dn/jensen_huang_said_to_have_had_relationship_with/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1xtv8dn/jensen_huang_said_to_have_had_relationship_with/\"> <img alt=\"Jensen Huang Said to Have Had Relationship With Nvidia Execu...",
+      "published": "2026-11-11T22:09:03+00:00",
+      "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -165,124 +165,10 @@
   ],
   "anarchy_ranked": [
     {
-      "title": "Over 35,000 Grok-Built Apps Exposed Online, Some Leaking Confidential Data and Passwords",
-      "link": "https://thehackernews.com/2026/11/over-35000-grok-built-apps-exposed.html",
-      "summary": "Of the 37,571 Grok-built apps that security company Claroc found online, 35,578 were open to anyone without a sign-in, the researchers said yesterday.\n\nThey included 24 apps built by staff at the soci...",
-      "published": "2026-11-11T17:49:40+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "We Built An Agent That Broke All of Our Security Rules. Here's What We Learned.",
-      "link": "https://thehackernews.com/2026/11/we-built-agent-that-broke-all-of-our.html",
-      "summary": "We tell customers three things about securing AI agents: they need their own identities, access that fits the job they\u2019re given, and traceability that\u2019s separate from any human\u2019s. That was true for us...",
-      "published": "2026-11-11T17:31:59+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "eMudhra Revokes 8 More CAs It Previously Declared Unaffected by Key Compromise",
-      "link": "https://thehackernews.com/2026/11/emudhra-revokes-8-more-cas-it.html",
-      "summary": "The in-house Python script behind eMudhra's October key compromise has now cost the company 8 more of its intermediate certificate authorities (CAs), even though it did not weaken their keys.\n\nEach in...",
-      "published": "2026-11-11T17:30:53+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Microsoft Patches 1,259 Flaws, Including Exploited Outlook Bug That May Expose NTLMv2 Hashes",
-      "link": "https://thehackernews.com/2026/11/microsoft-patches-1259-flaws-including.html",
-      "summary": "Microsoft on Tuesday released patches for a total of 1,259 vulnerabilities spanning its software portfolio, the second consecutive month where the patch volume has exceeded 1,000 flaws.\n\nThese cover 7...",
-      "published": "2026-11-11T13:47:53+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 10.6,
-        "anarchy": 3.0,
-        "overall": 6.8
-      },
-      "keywords": {
-        "chaos": [
-          "bug"
-        ],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "What If Maintainer Burnout Isn't Burnout",
-      "link": "https://ryancheley.com/2026/08/17/what-if-maintainer-burnout-isn-t-burnout/",
-      "summary": "<p>Article URL: <a href=\"https://ryancheley.com/2026/08/17/what-if-maintainer-burnout-isn-t-burnout/\">https://ryancheley.com/2026/08/17/what-if-maintainer-burnout-isn-t-burnout/</a></p>\n<p>Comments UR...",
-      "published": "2026-11-11T13:33:30+00:00",
-      "domain": "ryancheley.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: Pagless \u2013 Minimal Android Launcher",
-      "link": "https://pageless.space/",
-      "summary": "<p>Article URL: <a href=\"https://pageless.space/\">https://pageless.space/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50453207\">https://news.ycombinator.com/item?id=50453207...",
-      "published": "2026-11-11T13:32:27+00:00",
-      "domain": "pageless.space",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: blqsort \u2013 A C++ Quicksort Faster Than std:sort",
-      "link": "https://tiki.li/blog/about_blqsort",
-      "summary": "<p>Article URL: <a href=\"https://tiki.li/blog/about_blqsort\">https://tiki.li/blog/about_blqsort</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50453189\">https://news.ycombinato...",
-      "published": "2026-11-11T13:31:12+00:00",
-      "domain": "tiki.li",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: I created a library for correctly using SQLite in Go programs",
-      "link": "https://github.com/cattlecloud/litesql",
-      "summary": "<p>Using SQLite in Go is deceptively easy. If you just import the popular github.com/mattn/go-sqlite3 as the database/sql driver implementation and start making queries, things will work great until y...",
-      "published": "2026-11-11T13:30:26+00:00",
+      "title": "Show HN: Tsfm-pg: Run Chronos-2/Timestral forecasts inside Postgres with SQL",
+      "link": "https://github.com/barddoo/tsfm-pg",
+      "summary": "<p>Article URL: <a href=\"https://github.com/barddoo/tsfm-pg\">https://github.com/barddoo/tsfm-pg</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50460864\">https://news.ycombinato...",
+      "published": "2026-11-12T00:00:31+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -295,11 +181,11 @@
       }
     },
     {
-      "title": "Attention to Mamba: A Recipe for Cross-Architecture Distillation",
-      "link": "https://machinelearning.apple.com/research/attention-mamba-distillation",
-      "summary": "<p>Article URL: <a href=\"https://machinelearning.apple.com/research/attention-mamba-distillation\">https://machinelearning.apple.com/research/attention-mamba-distillation</a></p>\n<p>Comments URL: <a hr...",
-      "published": "2026-11-11T13:29:46+00:00",
-      "domain": "machinelearning.apple.com",
+      "title": "Labdoo is a social network providing schools with computers",
+      "link": "https://labdoo.org",
+      "summary": "<p>Article URL: <a href=\"https://labdoo.org\">https://labdoo.org</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50460845\">https://news.ycombinator.com/item?id=50460845</a></p>\n<...",
+      "published": "2026-11-11T23:58:54+00:00",
+      "domain": "labdoo.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -311,11 +197,11 @@
       }
     },
     {
-      "title": "Railway Says Stolen Customer AI Keys Led to $740,000 in Estimated Unauthorized Usage Charges",
-      "link": "https://thehackernews.com/2026/11/railway-says-stolen-customer-ai-keys.html",
-      "summary": "AI provider keys that customers stored on Railway were stolen in an October breach and used to commit an estimated $740,000 in unauthorized spending, the platform-as-a-service provider said yesterday....",
-      "published": "2026-11-11T13:19:04+05:30",
-      "domain": "thehackernews.com",
+      "title": "Apple MacBook Pro 14 Proled XDR Review",
+      "link": "https://www.notebookcheck.net/Amazing-OLED-panel-Apple-MacBook-Pro-14-PROLED-XDR-Review.1438048.0.html",
+      "summary": "<p>Article URL: <a href=\"https://www.notebookcheck.net/Amazing-OLED-panel-Apple-MacBook-Pro-14-PROLED-XDR-Review.1438048.0.html\">https://www.notebookcheck.net/Amazing-OLED-panel-Apple-MacBook-Pro-14-P...",
+      "published": "2026-11-11T23:53:02+00:00",
+      "domain": "notebookcheck.net",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -323,21 +209,135 @@
       },
       "keywords": {
         "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Humanoid robot startup backed by Eric Trump in talks with Israel's military",
+      "link": "https://www.ft.com/content/8117b912-ebc7-46b2-90cd-a1ec32e12c5a",
+      "summary": "<p>Article URL: <a href=\"https://www.ft.com/content/8117b912-ebc7-46b2-90cd-a1ec32e12c5a\">https://www.ft.com/content/8117b912-ebc7-46b2-90cd-a1ec32e12c5a</a></p>\n<p>Comments URL: <a href=\"https://news...",
+      "published": "2026-11-11T23:51:33+00:00",
+      "domain": "ft.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "History of Password Cracking",
+      "link": "https://www.netmux.com/blog/history-of-password-cracking",
+      "summary": "<p>Article URL: <a href=\"https://www.netmux.com/blog/history-of-password-cracking\">https://www.netmux.com/blog/history-of-password-cracking</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.c...",
+      "published": "2026-11-11T23:49:19+00:00",
+      "domain": "netmux.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Exclusive | Nvidia is Preparing to Oust CEO Jensen Huang",
+      "link": "https://www.reddit.com/r/technology/comments/1xtvw5q/exclusive_nvidia_is_preparing_to_oust_ceo_jensen/",
+      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/mcfreeky8\"> /u/mcfreeky8 </a> <br /> <span><a href=\"https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f42...",
+      "published": "2026-11-11T22:36:18+00:00",
+      "domain": "reddit.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "93% of Paint Splatters Are Valid Perl Programs (2019)",
+      "link": "https://www.mcmillen.dev/sigbovik/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50459745\">Comments</a>...",
+      "published": "2026-11-11T22:34:23+00:00",
+      "domain": "mcmillen.dev",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Lock Your GitHub Actions",
+      "link": "https://hugovk.dev/blog/2026/lock-github-actions/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50459485\">Comments</a>...",
+      "published": "2026-11-11T22:16:41+00:00",
+      "domain": "hugovk.dev",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him",
+      "link": "https://www.reddit.com/r/technology/comments/1xtv8dn/jensen_huang_said_to_have_had_relationship_with/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1xtv8dn/jensen_huang_said_to_have_had_relationship_with/\"> <img alt=\"Jensen Huang Said to Have Had Relationship With Nvidia Execu...",
+      "published": "2026-11-11T22:09:03+00:00",
+      "domain": "reddit.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Critical Zoom Workplace Flaw Could Allow Unauthenticated Remote Privilege Escalation",
+      "link": "https://thehackernews.com/2026/11/critical-zoom-workplace-flaw-could.html",
+      "summary": "Zoom has released software updates to address two security flaws impacting Zoom Workplace for Windows, including a critical bug that could result in privilege escalation on affected systems.\n\nThe vuln...",
+      "published": "2026-11-11T21:42:46+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 11.8,
+        "anarchy": 3.0,
+        "overall": 7.4
+      },
+      "keywords": {
+        "chaos": [
+          "bug"
+        ],
         "anarchy": []
       }
     }
   ],
   "overall_ranked": [
     {
-      "title": "Microsoft Patches 1,259 Flaws, Including Exploited Outlook Bug That May Expose NTLMv2 Hashes",
-      "link": "https://thehackernews.com/2026/11/microsoft-patches-1259-flaws-including.html",
-      "summary": "Microsoft on Tuesday released patches for a total of 1,259 vulnerabilities spanning its software portfolio, the second consecutive month where the patch volume has exceeded 1,000 flaws.\n\nThese cover 7...",
-      "published": "2026-11-11T13:47:53+05:30",
+      "title": "Critical Zoom Workplace Flaw Could Allow Unauthenticated Remote Privilege Escalation",
+      "link": "https://thehackernews.com/2026/11/critical-zoom-workplace-flaw-could.html",
+      "summary": "Zoom has released software updates to address two security flaws impacting Zoom Workplace for Windows, including a critical bug that could result in privilege escalation on affected systems.\n\nThe vuln...",
+      "published": "2026-11-11T21:42:46+05:30",
       "domain": "thehackernews.com",
       "scores": {
-        "chaos": 10.6,
+        "chaos": 11.8,
         "anarchy": 3.0,
-        "overall": 6.8
+        "overall": 7.4
       },
       "keywords": {
         "chaos": [
@@ -347,106 +347,10 @@
       }
     },
     {
-      "title": "Over 35,000 Grok-Built Apps Exposed Online, Some Leaking Confidential Data and Passwords",
-      "link": "https://thehackernews.com/2026/11/over-35000-grok-built-apps-exposed.html",
-      "summary": "Of the 37,571 Grok-built apps that security company Claroc found online, 35,578 were open to anyone without a sign-in, the researchers said yesterday.\n\nThey included 24 apps built by staff at the soci...",
-      "published": "2026-11-11T17:49:40+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "We Built An Agent That Broke All of Our Security Rules. Here's What We Learned.",
-      "link": "https://thehackernews.com/2026/11/we-built-agent-that-broke-all-of-our.html",
-      "summary": "We tell customers three things about securing AI agents: they need their own identities, access that fits the job they\u2019re given, and traceability that\u2019s separate from any human\u2019s. That was true for us...",
-      "published": "2026-11-11T17:31:59+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "eMudhra Revokes 8 More CAs It Previously Declared Unaffected by Key Compromise",
-      "link": "https://thehackernews.com/2026/11/emudhra-revokes-8-more-cas-it.html",
-      "summary": "The in-house Python script behind eMudhra's October key compromise has now cost the company 8 more of its intermediate certificate authorities (CAs), even though it did not weaken their keys.\n\nEach in...",
-      "published": "2026-11-11T17:30:53+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "What If Maintainer Burnout Isn't Burnout",
-      "link": "https://ryancheley.com/2026/08/17/what-if-maintainer-burnout-isn-t-burnout/",
-      "summary": "<p>Article URL: <a href=\"https://ryancheley.com/2026/08/17/what-if-maintainer-burnout-isn-t-burnout/\">https://ryancheley.com/2026/08/17/what-if-maintainer-burnout-isn-t-burnout/</a></p>\n<p>Comments UR...",
-      "published": "2026-11-11T13:33:30+00:00",
-      "domain": "ryancheley.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: Pagless \u2013 Minimal Android Launcher",
-      "link": "https://pageless.space/",
-      "summary": "<p>Article URL: <a href=\"https://pageless.space/\">https://pageless.space/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50453207\">https://news.ycombinator.com/item?id=50453207...",
-      "published": "2026-11-11T13:32:27+00:00",
-      "domain": "pageless.space",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: blqsort \u2013 A C++ Quicksort Faster Than std:sort",
-      "link": "https://tiki.li/blog/about_blqsort",
-      "summary": "<p>Article URL: <a href=\"https://tiki.li/blog/about_blqsort\">https://tiki.li/blog/about_blqsort</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50453189\">https://news.ycombinato...",
-      "published": "2026-11-11T13:31:12+00:00",
-      "domain": "tiki.li",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: I created a library for correctly using SQLite in Go programs",
-      "link": "https://github.com/cattlecloud/litesql",
-      "summary": "<p>Using SQLite in Go is deceptively easy. If you just import the popular github.com/mattn/go-sqlite3 as the database/sql driver implementation and start making queries, things will work great until y...",
-      "published": "2026-11-11T13:30:26+00:00",
+      "title": "Show HN: Tsfm-pg: Run Chronos-2/Timestral forecasts inside Postgres with SQL",
+      "link": "https://github.com/barddoo/tsfm-pg",
+      "summary": "<p>Article URL: <a href=\"https://github.com/barddoo/tsfm-pg\">https://github.com/barddoo/tsfm-pg</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50460864\">https://news.ycombinato...",
+      "published": "2026-11-12T00:00:31+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -459,11 +363,11 @@
       }
     },
     {
-      "title": "Attention to Mamba: A Recipe for Cross-Architecture Distillation",
-      "link": "https://machinelearning.apple.com/research/attention-mamba-distillation",
-      "summary": "<p>Article URL: <a href=\"https://machinelearning.apple.com/research/attention-mamba-distillation\">https://machinelearning.apple.com/research/attention-mamba-distillation</a></p>\n<p>Comments URL: <a hr...",
-      "published": "2026-11-11T13:29:46+00:00",
-      "domain": "machinelearning.apple.com",
+      "title": "Labdoo is a social network providing schools with computers",
+      "link": "https://labdoo.org",
+      "summary": "<p>Article URL: <a href=\"https://labdoo.org\">https://labdoo.org</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50460845\">https://news.ycombinator.com/item?id=50460845</a></p>\n<...",
+      "published": "2026-11-11T23:58:54+00:00",
+      "domain": "labdoo.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -475,11 +379,107 @@
       }
     },
     {
-      "title": "Railway Says Stolen Customer AI Keys Led to $740,000 in Estimated Unauthorized Usage Charges",
-      "link": "https://thehackernews.com/2026/11/railway-says-stolen-customer-ai-keys.html",
-      "summary": "AI provider keys that customers stored on Railway were stolen in an October breach and used to commit an estimated $740,000 in unauthorized spending, the platform-as-a-service provider said yesterday....",
-      "published": "2026-11-11T13:19:04+05:30",
-      "domain": "thehackernews.com",
+      "title": "Apple MacBook Pro 14 Proled XDR Review",
+      "link": "https://www.notebookcheck.net/Amazing-OLED-panel-Apple-MacBook-Pro-14-PROLED-XDR-Review.1438048.0.html",
+      "summary": "<p>Article URL: <a href=\"https://www.notebookcheck.net/Amazing-OLED-panel-Apple-MacBook-Pro-14-PROLED-XDR-Review.1438048.0.html\">https://www.notebookcheck.net/Amazing-OLED-panel-Apple-MacBook-Pro-14-P...",
+      "published": "2026-11-11T23:53:02+00:00",
+      "domain": "notebookcheck.net",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Humanoid robot startup backed by Eric Trump in talks with Israel's military",
+      "link": "https://www.ft.com/content/8117b912-ebc7-46b2-90cd-a1ec32e12c5a",
+      "summary": "<p>Article URL: <a href=\"https://www.ft.com/content/8117b912-ebc7-46b2-90cd-a1ec32e12c5a\">https://www.ft.com/content/8117b912-ebc7-46b2-90cd-a1ec32e12c5a</a></p>\n<p>Comments URL: <a href=\"https://news...",
+      "published": "2026-11-11T23:51:33+00:00",
+      "domain": "ft.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "History of Password Cracking",
+      "link": "https://www.netmux.com/blog/history-of-password-cracking",
+      "summary": "<p>Article URL: <a href=\"https://www.netmux.com/blog/history-of-password-cracking\">https://www.netmux.com/blog/history-of-password-cracking</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.c...",
+      "published": "2026-11-11T23:49:19+00:00",
+      "domain": "netmux.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Exclusive | Nvidia is Preparing to Oust CEO Jensen Huang",
+      "link": "https://www.reddit.com/r/technology/comments/1xtvw5q/exclusive_nvidia_is_preparing_to_oust_ceo_jensen/",
+      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/mcfreeky8\"> /u/mcfreeky8 </a> <br /> <span><a href=\"https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f42...",
+      "published": "2026-11-11T22:36:18+00:00",
+      "domain": "reddit.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "93% of Paint Splatters Are Valid Perl Programs (2019)",
+      "link": "https://www.mcmillen.dev/sigbovik/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50459745\">Comments</a>...",
+      "published": "2026-11-11T22:34:23+00:00",
+      "domain": "mcmillen.dev",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Lock Your GitHub Actions",
+      "link": "https://hugovk.dev/blog/2026/lock-github-actions/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50459485\">Comments</a>...",
+      "published": "2026-11-11T22:16:41+00:00",
+      "domain": "hugovk.dev",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him",
+      "link": "https://www.reddit.com/r/technology/comments/1xtv8dn/jensen_huang_said_to_have_had_relationship_with/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1xtv8dn/jensen_huang_said_to_have_had_relationship_with/\"> <img alt=\"Jensen Huang Said to Have Had Relationship With Nvidia Execu...",
+      "published": "2026-11-11T22:09:03+00:00",
+      "domain": "reddit.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -493,124 +493,10 @@
   ],
   "all_articles": [
     {
-      "title": "Over 35,000 Grok-Built Apps Exposed Online, Some Leaking Confidential Data and Passwords",
-      "link": "https://thehackernews.com/2026/11/over-35000-grok-built-apps-exposed.html",
-      "summary": "Of the 37,571 Grok-built apps that security company Claroc found online, 35,578 were open to anyone without a sign-in, the researchers said yesterday.\n\nThey included 24 apps built by staff at the soci...",
-      "published": "2026-11-11T17:49:40+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "We Built An Agent That Broke All of Our Security Rules. Here's What We Learned.",
-      "link": "https://thehackernews.com/2026/11/we-built-agent-that-broke-all-of-our.html",
-      "summary": "We tell customers three things about securing AI agents: they need their own identities, access that fits the job they\u2019re given, and traceability that\u2019s separate from any human\u2019s. That was true for us...",
-      "published": "2026-11-11T17:31:59+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "eMudhra Revokes 8 More CAs It Previously Declared Unaffected by Key Compromise",
-      "link": "https://thehackernews.com/2026/11/emudhra-revokes-8-more-cas-it.html",
-      "summary": "The in-house Python script behind eMudhra's October key compromise has now cost the company 8 more of its intermediate certificate authorities (CAs), even though it did not weaken their keys.\n\nEach in...",
-      "published": "2026-11-11T17:30:53+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Microsoft Patches 1,259 Flaws, Including Exploited Outlook Bug That May Expose NTLMv2 Hashes",
-      "link": "https://thehackernews.com/2026/11/microsoft-patches-1259-flaws-including.html",
-      "summary": "Microsoft on Tuesday released patches for a total of 1,259 vulnerabilities spanning its software portfolio, the second consecutive month where the patch volume has exceeded 1,000 flaws.\n\nThese cover 7...",
-      "published": "2026-11-11T13:47:53+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 10.6,
-        "anarchy": 3.0,
-        "overall": 6.8
-      },
-      "keywords": {
-        "chaos": [
-          "bug"
-        ],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "What If Maintainer Burnout Isn't Burnout",
-      "link": "https://ryancheley.com/2026/08/17/what-if-maintainer-burnout-isn-t-burnout/",
-      "summary": "<p>Article URL: <a href=\"https://ryancheley.com/2026/08/17/what-if-maintainer-burnout-isn-t-burnout/\">https://ryancheley.com/2026/08/17/what-if-maintainer-burnout-isn-t-burnout/</a></p>\n<p>Comments UR...",
-      "published": "2026-11-11T13:33:30+00:00",
-      "domain": "ryancheley.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: Pagless \u2013 Minimal Android Launcher",
-      "link": "https://pageless.space/",
-      "summary": "<p>Article URL: <a href=\"https://pageless.space/\">https://pageless.space/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50453207\">https://news.ycombinator.com/item?id=50453207...",
-      "published": "2026-11-11T13:32:27+00:00",
-      "domain": "pageless.space",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: blqsort \u2013 A C++ Quicksort Faster Than std:sort",
-      "link": "https://tiki.li/blog/about_blqsort",
-      "summary": "<p>Article URL: <a href=\"https://tiki.li/blog/about_blqsort\">https://tiki.li/blog/about_blqsort</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50453189\">https://news.ycombinato...",
-      "published": "2026-11-11T13:31:12+00:00",
-      "domain": "tiki.li",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: I created a library for correctly using SQLite in Go programs",
-      "link": "https://github.com/cattlecloud/litesql",
-      "summary": "<p>Using SQLite in Go is deceptively easy. If you just import the popular github.com/mattn/go-sqlite3 as the database/sql driver implementation and start making queries, things will work great until y...",
-      "published": "2026-11-11T13:30:26+00:00",
+      "title": "Show HN: Tsfm-pg: Run Chronos-2/Timestral forecasts inside Postgres with SQL",
+      "link": "https://github.com/barddoo/tsfm-pg",
+      "summary": "<p>Article URL: <a href=\"https://github.com/barddoo/tsfm-pg\">https://github.com/barddoo/tsfm-pg</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50460864\">https://news.ycombinato...",
+      "published": "2026-11-12T00:00:31+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -623,11 +509,11 @@
       }
     },
     {
-      "title": "Attention to Mamba: A Recipe for Cross-Architecture Distillation",
-      "link": "https://machinelearning.apple.com/research/attention-mamba-distillation",
-      "summary": "<p>Article URL: <a href=\"https://machinelearning.apple.com/research/attention-mamba-distillation\">https://machinelearning.apple.com/research/attention-mamba-distillation</a></p>\n<p>Comments URL: <a hr...",
-      "published": "2026-11-11T13:29:46+00:00",
-      "domain": "machinelearning.apple.com",
+      "title": "Labdoo is a social network providing schools with computers",
+      "link": "https://labdoo.org",
+      "summary": "<p>Article URL: <a href=\"https://labdoo.org\">https://labdoo.org</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50460845\">https://news.ycombinator.com/item?id=50460845</a></p>\n<...",
+      "published": "2026-11-11T23:58:54+00:00",
+      "domain": "labdoo.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -639,11 +525,11 @@
       }
     },
     {
-      "title": "Railway Says Stolen Customer AI Keys Led to $740,000 in Estimated Unauthorized Usage Charges",
-      "link": "https://thehackernews.com/2026/11/railway-says-stolen-customer-ai-keys.html",
-      "summary": "AI provider keys that customers stored on Railway were stolen in an October breach and used to commit an estimated $740,000 in unauthorized spending, the platform-as-a-service provider said yesterday....",
-      "published": "2026-11-11T13:19:04+05:30",
-      "domain": "thehackernews.com",
+      "title": "Apple MacBook Pro 14 Proled XDR Review",
+      "link": "https://www.notebookcheck.net/Amazing-OLED-panel-Apple-MacBook-Pro-14-PROLED-XDR-Review.1438048.0.html",
+      "summary": "<p>Article URL: <a href=\"https://www.notebookcheck.net/Amazing-OLED-panel-Apple-MacBook-Pro-14-PROLED-XDR-Review.1438048.0.html\">https://www.notebookcheck.net/Amazing-OLED-panel-Apple-MacBook-Pro-14-P...",
+      "published": "2026-11-11T23:53:02+00:00",
+      "domain": "notebookcheck.net",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -651,6 +537,120 @@
       },
       "keywords": {
         "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Humanoid robot startup backed by Eric Trump in talks with Israel's military",
+      "link": "https://www.ft.com/content/8117b912-ebc7-46b2-90cd-a1ec32e12c5a",
+      "summary": "<p>Article URL: <a href=\"https://www.ft.com/content/8117b912-ebc7-46b2-90cd-a1ec32e12c5a\">https://www.ft.com/content/8117b912-ebc7-46b2-90cd-a1ec32e12c5a</a></p>\n<p>Comments URL: <a href=\"https://news...",
+      "published": "2026-11-11T23:51:33+00:00",
+      "domain": "ft.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "History of Password Cracking",
+      "link": "https://www.netmux.com/blog/history-of-password-cracking",
+      "summary": "<p>Article URL: <a href=\"https://www.netmux.com/blog/history-of-password-cracking\">https://www.netmux.com/blog/history-of-password-cracking</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.c...",
+      "published": "2026-11-11T23:49:19+00:00",
+      "domain": "netmux.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Exclusive | Nvidia is Preparing to Oust CEO Jensen Huang",
+      "link": "https://www.reddit.com/r/technology/comments/1xtvw5q/exclusive_nvidia_is_preparing_to_oust_ceo_jensen/",
+      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/mcfreeky8\"> /u/mcfreeky8 </a> <br /> <span><a href=\"https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f42...",
+      "published": "2026-11-11T22:36:18+00:00",
+      "domain": "reddit.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "93% of Paint Splatters Are Valid Perl Programs (2019)",
+      "link": "https://www.mcmillen.dev/sigbovik/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50459745\">Comments</a>...",
+      "published": "2026-11-11T22:34:23+00:00",
+      "domain": "mcmillen.dev",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Lock Your GitHub Actions",
+      "link": "https://hugovk.dev/blog/2026/lock-github-actions/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50459485\">Comments</a>...",
+      "published": "2026-11-11T22:16:41+00:00",
+      "domain": "hugovk.dev",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him",
+      "link": "https://www.reddit.com/r/technology/comments/1xtv8dn/jensen_huang_said_to_have_had_relationship_with/",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1xtv8dn/jensen_huang_said_to_have_had_relationship_with/\"> <img alt=\"Jensen Huang Said to Have Had Relationship With Nvidia Execu...",
+      "published": "2026-11-11T22:09:03+00:00",
+      "domain": "reddit.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Critical Zoom Workplace Flaw Could Allow Unauthenticated Remote Privilege Escalation",
+      "link": "https://thehackernews.com/2026/11/critical-zoom-workplace-flaw-could.html",
+      "summary": "Zoom has released software updates to address two security flaws impacting Zoom Workplace for Windows, including a critical bug that could result in privilege escalation on affected systems.\n\nThe vuln...",
+      "published": "2026-11-11T21:42:46+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 11.8,
+        "anarchy": 3.0,
+        "overall": 7.4
+      },
+      "keywords": {
+        "chaos": [
+          "bug"
+        ],
         "anarchy": []
       }
     }

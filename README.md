@@ -16,16 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Microsoft Patches 1,259 Flaws, Including Exploited Outlook Bug That May Expose NTLMv2 Hashes
+### Critical Zoom Workplace Flaw Could Allow Unauthenticated Remote Privilege Escalation
 - **Published**: November 11, 2026
-- **Summary**: Microsoft on Tuesday released patches for a total of 1,259 vulnerabilities spanning its software portfolio, the second consecutive month where the pat...
+- **Summary**: Zoom has released software updates to address two security flaws impacting Zoom Workplace for Windows, including a critical bug that could result in p...
 - **Keywords**: bug
-- [Read more](https://thehackernews.com/2026/11/microsoft-patches-1259-flaws-including.html)
+- [Read more](https://thehackernews.com/2026/11/critical-zoom-workplace-flaw-could.html)
 
-### Over 35,000 Grok-Built Apps Exposed Online, Some Leaking Confidential Data and Passwords
-- **Published**: November 11, 2026
-- **Summary**: Of the 37,571 Grok-built apps that security company Claroc found online, 35,578 were open to anyone without a sign-in, the researchers said yesterday....
-- [Read more](https://thehackernews.com/2026/11/over-35000-grok-built-apps-exposed.html)
+### Show HN: Tsfm-pg: Run Chronos-2/Timestral forecasts inside Postgres with SQL
+- **Published**: November 12, 2026
+- **Summary**: https://github.com/barddoo/tsfm-pg</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50460864">https://news.ycombinato......
+- [Read more](https://github.com/barddoo/tsfm-pg)
 
 ---
 
