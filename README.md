@@ -16,10 +16,12 @@
 
 ## 🚨 Tech Stories
 
-### Google Cloud Warns Three AMD Turin CPU Flaws Could Leak Data Across Processes in VMs
+### Expect an AI Crash
 - **Published**: November 12, 2026
-- **Summary**: Google Cloud VMs on AMD Turin chips need a guest OS patch and a stop-and-start to protect against three CPU side-channel flaws, Google said this week....
-- [Read more](https://thehackernews.com/2026/11/google-cloud-warns-three-amd-turin-cpu.html)
+- **Summary**: https://www.economist.com/leaders/2026/11/12/why-you-should-expect-an-ai-crash</a></p>
+<p>Comme......
+- **Keywords**: crash, crash, crash
+- [Read more](https://www.economist.com/leaders/2026/11/12/why-you-should-expect-an-ai-crash)
 
 ### Webinar: See How Identity Blind Spots Put Your SOC at Risk and How to Close Them
 - **Published**: November 12, 2026
