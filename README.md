@@ -16,17 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Expect an AI Crash
+### Massive Microsoft 365 outage disrupts Outlook, Teams, Copilot worldwide
 - **Published**: November 12, 2026
-- **Summary**: https://www.economist.com/leaders/2026/11/12/why-you-should-expect-an-ai-crash</a></p>
-<p>Comme......
-- **Keywords**: crash, crash, crash
-- [Read more](https://www.economist.com/leaders/2026/11/12/why-you-should-expect-an-ai-crash)
+- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1xusd3p/massive_microsoft_365_outage_disrupts_outlook/"> <img alt="Massive Microsoft 365 ou...
+- **Keywords**: outage, outage
+- [Read more](https://www.reddit.com/r/technology/comments/1xusd3p/massive_microsoft_365_outage_disrupts_outlook/)
 
-### Webinar: See How Identity Blind Spots Put Your SOC at Risk and How to Close Them
-- **Published**: November 12, 2026
-- **Summary**: Security teams have more alerts, logs, and monitoring tools than ever. Yet when an attack happens, one simple question can still take too long to answ...
-- [Read more](https://thehackernews.com/2026/11/your-soc-sees-alert-but-does-it-know.html)
+### Microsoft struggling to restore service as global outage affects Outlook and Teams
+- **Published**: November 13, 2026
+- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1xuwsip/microsoft_struggling_to_restore_service_as_global/"> <img alt="Microsoft struggling...
+- **Keywords**: outage, outage
+- [Read more](https://www.reddit.com/r/technology/comments/1xuwsip/microsoft_struggling_to_restore_service_as_global/)
 
 ---
 
