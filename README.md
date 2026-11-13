@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Massive Microsoft 365 outage disrupts Outlook, Teams, Copilot worldwide
-- **Published**: November 12, 2026
-- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1xusd3p/massive_microsoft_365_outage_disrupts_outlook/"> <img alt="Massive Microsoft 365 ou...
-- **Keywords**: outage, outage
-- [Read more](https://www.reddit.com/r/technology/comments/1xusd3p/massive_microsoft_365_outage_disrupts_outlook/)
-
-### Microsoft struggling to restore service as global outage affects Outlook and Teams
+### Operation Endgame Takes Down Gootloader, CastleRAT and StealC Servers, Seizes 6.4M Stolen Logins
 - **Published**: November 13, 2026
-- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1xuwsip/microsoft_struggling_to_restore_service_as_global/"> <img alt="Microsoft struggling...
-- **Keywords**: outage, outage
-- [Read more](https://www.reddit.com/r/technology/comments/1xuwsip/microsoft_struggling_to_restore_service_as_global/)
+- **Summary**: An international police operation took down servers behind Gootloader, CastleRAT and StealC this week. Criminals used the three malware tools to gain ...
+- **Keywords**: down, down
+- [Read more](https://thehackernews.com/2026/11/operation-endgame-takes-down-gootloader.html)
+
+### When an AI Agent Goes Wrong, Can You Stop It?
+- **Published**: November 13, 2026
+- **Summary**: Suppose an AI agent is asked to sort support tickets and look up account details. A ticket contains instructions that lead the agent to export records...
+- [Read more](https://thehackernews.com/2026/11/when-ai-agent-goes-wrong-can-you-stop-it.html)
 
 ---
 
