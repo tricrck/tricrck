@@ -16,16 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Operation Endgame Takes Down Gootloader, CastleRAT and StealC Servers, Seizes 6.4M Stolen Logins
+### Complex Systems Won't Survive the Competence Crisis
 - **Published**: November 13, 2026
-- **Summary**: An international police operation took down servers behind Gootloader, CastleRAT and StealC this week. Criminals used the three malware tools to gain ...
-- **Keywords**: down, down
-- [Read more](https://thehackernews.com/2026/11/operation-endgame-takes-down-gootloader.html)
+- **Summary**: https://twitter.com/palladiummag/status/2015572679064170828</a></p>
+<p>Comments URL: <a href="https://news.ycombin......
+- **Keywords**: crisis
+- [Read more](https://twitter.com/palladiummag/status/2015572679064170828)
 
-### When an AI Agent Goes Wrong, Can You Stop It?
+### FAA tees up $875M AI tool to help manage air traffic congestion
 - **Published**: November 13, 2026
-- **Summary**: Suppose an AI agent is asked to sort support tickets and look up account details. A ticket contains instructions that lead the agent to export records...
-- [Read more](https://thehackernews.com/2026/11/when-ai-agent-goes-wrong-can-you-stop-it.html)
+- **Summary**: https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-......
+- [Read more](https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion/)
 
 ---
 
