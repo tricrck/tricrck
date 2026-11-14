@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection
+### Scaling Laws in Practice: MuP, WSD and Muon Explained – DeepSeek Did Use IT [video]
 - **Published**: November 14, 2026
-- **Summary**: The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a high-severity security flaw impacting UnrealIRCd, an open-source In...
-- [Read more](https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html)
+- **Summary**: https://www.youtube.com/watch?v=BwJZXBR4k6I</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50501335">https......
+- [Read more](https://www.youtube.com/watch?v=BwJZXBR4k6I)
 
-### Show HN: OneMax Agent – Mac dictation that turns voice notes into tasks
+### Atari 400 original Back to the Future time machine
 - **Published**: November 14, 2026
-- **Summary**: https://onemaxagent.com/en</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50496653">https://news.ycombinator.com/item?id=50......
-- [Read more](https://onemaxagent.com/en)
+- **Summary**: https://podcasts.apple.com/us/podcast/the-atari-400-conspiracy-......
+- [Read more](https://podcasts.apple.com/us/podcast/the-atari-400-conspiracy-did-a-child-hacker/id1668145478?i=1000801666190)
 
 ---
 
