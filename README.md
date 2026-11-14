@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### I reverse-engineered Instinct. Here's the whole machine
+### Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection
 - **Published**: November 14, 2026
-- **Summary**: https://twitter.com/nizzyabi/status/2120194267066863738</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com......
-- [Read more](https://twitter.com/nizzyabi/status/2120194267066863738)
+- **Summary**: The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a high-severity security flaw impacting UnrealIRCd, an open-source In...
+- [Read more](https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html)
 
-### Show HN: EDNA – 100% on-device human sensing so AI can perceive the user
+### Show HN: OneMax Agent – Mac dictation that turns voice notes into tasks
 - **Published**: November 14, 2026
-- **Summary**: https://openos.space</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50494144">https://news.ycombinator.com/item?id=50494144</a...
-- [Read more](https://openos.space)
+- **Summary**: https://onemaxagent.com/en</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50496653">https://news.ycombinator.com/item?id=50......
+- [Read more](https://onemaxagent.com/en)
 
 ---
 
