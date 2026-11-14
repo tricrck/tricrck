@@ -16,17 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Complex Systems Won't Survive the Competence Crisis
-- **Published**: November 13, 2026
-- **Summary**: https://twitter.com/palladiummag/status/2015572679064170828</a></p>
-<p>Comments URL: <a href="https://news.ycombin......
-- **Keywords**: crisis
-- [Read more](https://twitter.com/palladiummag/status/2015572679064170828)
+### I reverse-engineered Instinct. Here's the whole machine
+- **Published**: November 14, 2026
+- **Summary**: https://twitter.com/nizzyabi/status/2120194267066863738</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com......
+- [Read more](https://twitter.com/nizzyabi/status/2120194267066863738)
 
-### FAA tees up $875M AI tool to help manage air traffic congestion
-- **Published**: November 13, 2026
-- **Summary**: https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-......
-- [Read more](https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion/)
+### Show HN: EDNA – 100% on-device human sensing so AI can perceive the user
+- **Published**: November 14, 2026
+- **Summary**: https://openos.space</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50494144">https://news.ycombinator.com/item?id=50494144</a...
+- [Read more](https://openos.space)
 
 ---
 
