@@ -16,16 +16,18 @@
 
 ## 🚨 Tech Stories
 
-### Scaling Laws in Practice: MuP, WSD and Muon Explained – DeepSeek Did Use IT [video]
-- **Published**: November 14, 2026
-- **Summary**: https://www.youtube.com/watch?v=BwJZXBR4k6I</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50501335">https......
-- [Read more](https://www.youtube.com/watch?v=BwJZXBR4k6I)
+### Make Money Fast
+- **Published**: November 15, 2026
+- **Summary**: <p>https://auctionr.org/4/0a20b8584871f63ee357f125652d193d
+https://auctionr.org/4/0a20b8584871f63ee357f125652d193d
+https://auctionr.org/4/0a20b8584871...
+- [Read more](https://news.ycombinator.com/item?id=50504195)
 
-### Atari 400 original Back to the Future time machine
-- **Published**: November 14, 2026
-- **Summary**: https://podcasts.apple.com/us/podcast/the-atari-400-conspiracy-......
-- [Read more](https://podcasts.apple.com/us/podcast/the-atari-400-conspiracy-did-a-child-hacker/id1668145478?i=1000801666190)
+### Show HN: Hazel – Declarative schema management for SQLite
+- **Published**: November 15, 2026
+- **Summary**: https://github.com/winebarrel/hazel</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50504187">https://news.ycombina......
+- [Read more](https://github.com/winebarrel/hazel)
 
 ---
 
