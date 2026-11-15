@@ -16,15 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### James Webb Telescope finds ice older than the star it orbits
+### Reddit's traffic is down 13%, partly thanks to AI Overviews
 - **Published**: November 15, 2026
-- **Summary**: https://arstechnica.com/science/2026/11/james-webb-telescope-finds-ice-o......
-- [Read more](https://arstechnica.com/science/2026/11/james-webb-telescope-finds-ice-older-than-the-star-it-orbits/)
+- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1xx4f37/reddits_traffic_is_down_13_partly_thanks_to_ai/"> <img alt="Reddit's traffic is dow...
+- **Keywords**: down, down
+- [Read more](https://www.reddit.com/r/technology/comments/1xx4f37/reddits_traffic_is_down_13_partly_thanks_to_ai/)
 
-### Italy Fines Meta €805 Million Over Facebook's Android Gallery Access Without Explicit Consent
+### Anthropomorphic Software
 - **Published**: November 15, 2026
-- **Summary**: Meta was fined €805 million in Italy yesterday over a Facebook for Android feature that suggests photos and videos from users' phone galleries for the...
-- [Read more](https://thehackernews.com/2026/11/italy-fines-meta-805-million-over.html)
+- **Summary**: https://aspiz.uk/wiki/AnthropomorphicSoftware</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50511485">h......
+- [Read more](https://aspiz.uk/wiki/AnthropomorphicSoftware)
 
 ---
 
