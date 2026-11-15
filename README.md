@@ -16,18 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Make Money Fast
+### James Webb Telescope finds ice older than the star it orbits
 - **Published**: November 15, 2026
-- **Summary**: <p>https://auctionr.org/4/0a20b8584871f63ee357f125652d193d
-https://auctionr.org/4/0a20b8584871f63ee357f125652d193d
-https://auctionr.org/4/0a20b8584871...
-- [Read more](https://news.ycombinator.com/item?id=50504195)
+- **Summary**: https://arstechnica.com/science/2026/11/james-webb-telescope-finds-ice-o......
+- [Read more](https://arstechnica.com/science/2026/11/james-webb-telescope-finds-ice-older-than-the-star-it-orbits/)
 
-### Show HN: Hazel – Declarative schema management for SQLite
+### Italy Fines Meta €805 Million Over Facebook's Android Gallery Access Without Explicit Consent
 - **Published**: November 15, 2026
-- **Summary**: https://github.com/winebarrel/hazel</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50504187">https://news.ycombina......
-- [Read more](https://github.com/winebarrel/hazel)
+- **Summary**: Meta was fined €805 million in Italy yesterday over a Facebook for Android feature that suggests photos and videos from users' phone galleries for the...
+- [Read more](https://thehackernews.com/2026/11/italy-fines-meta-805-million-over.html)
 
 ---
 
