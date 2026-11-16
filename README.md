@@ -16,17 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### Reddit's traffic is down 13%, partly thanks to AI Overviews
-- **Published**: November 15, 2026
-- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1xx4f37/reddits_traffic_is_down_13_partly_thanks_to_ai/"> <img alt="Reddit's traffic is dow...
-- **Keywords**: down, down
-- [Read more](https://www.reddit.com/r/technology/comments/1xx4f37/reddits_traffic_is_down_13_partly_thanks_to_ai/)
+### Debian Becomes Unresponsive after 6.1.0-55 Kernel Update
+- **Published**: November 16, 2026
+- **Summary**: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1154101</a></p>
+<p>Comments URL: <a href="https://news.ycombinator......
+- **Keywords**: bug, bug
+- [Read more](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1154101)
 
-### Anthropomorphic Software
+### What's Next for Nvidia?
 - **Published**: November 15, 2026
-- **Summary**: https://aspiz.uk/wiki/AnthropomorphicSoftware</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50511485">h......
-- [Read more](https://aspiz.uk/wiki/AnthropomorphicSoftware)
+- **Summary**: ......
+- [Read more](https://steveblank.com/2026/11/15/whats-next-for-nvidia/)
 
 ---
 
