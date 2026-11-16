@@ -16,17 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Debian Becomes Unresponsive after 6.1.0-55 Kernel Update
+### The world's fires changed while humanity hit pause
 - **Published**: November 16, 2026
-- **Summary**: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1154101</a></p>
-<p>Comments URL: <a href="https://news.ycombinator......
-- **Keywords**: bug, bug
-- [Read more](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1154101)
+- **Summary**: https://arstechnica.com/science/2026/11/how-the-worlds-fires-changed-while-huma......
+- [Read more](https://arstechnica.com/science/2026/11/how-the-worlds-fires-changed-while-humanity-hit-pause/)
 
-### What's Next for Nvidia?
-- **Published**: November 15, 2026
-- **Summary**: ......
-- [Read more](https://steveblank.com/2026/11/15/whats-next-for-nvidia/)
+### Six Unpatched Danfoss Refrigeration Controller Flaws Could Allow Remote Takeover Without Login
+- **Published**: November 16, 2026
+- **Summary**: Six flaws in Danfoss AK-SM800A refrigeration controllers could let a remote attacker take over a controller without logging in, Dutch security consult...
+- [Read more](https://thehackernews.com/2026/11/six-unpatched-danfoss-refrigeration.html)
 
 ---
 
