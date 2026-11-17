@@ -16,17 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Users, admins report new Microsoft 365 outage with Exchange, Outlook, Excel, hit
-- **Published**: November 16, 2026
-- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1xy3aqe/users_admins_report_new_microsoft_365_outage_with/"> <img alt="Users, admins report...
-- **Keywords**: outage, outage
-- [Read more](https://www.reddit.com/r/technology/comments/1xy3aqe/users_admins_report_new_microsoft_365_outage_with/)
+### Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap
+- **Published**: November 17, 2026
+- **Summary**: Pinning GitHub Actions to an exact version of their code, known as SHA pinning, has become the go-to defense against software supply chain attacks. At...
+- [Read more](https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html)
 
-### United Airlines says it has a widespread system outage just days after nationwide ground stop
-- **Published**: November 16, 2026
-- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1xy34m2/united_airlines_says_it_has_a_widespread_system/"> <img alt="United Airlines says i...
-- **Keywords**: outage, outage
-- [Read more](https://www.reddit.com/r/technology/comments/1xy34m2/united_airlines_says_it_has_a_widespread_system/)
+### Researchers Detail iPhone Flaw That Let Apps Record Audio Despite Denied Microphone Permission
+- **Published**: November 17, 2026
+- **Summary**: A now-patched flaw in Apple's audio service let apps on iPhones and iPads record audio even after the user tapped "Don't Allow" on the microphone prom...
+- [Read more](https://thehackernews.com/2026/11/researchers-detail-iphone-flaw-that-let.html)
 
 ---
 
