@@ -16,15 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### The world's fires changed while humanity hit pause
+### Users, admins report new Microsoft 365 outage with Exchange, Outlook, Excel, hit
 - **Published**: November 16, 2026
-- **Summary**: https://arstechnica.com/science/2026/11/how-the-worlds-fires-changed-while-huma......
-- [Read more](https://arstechnica.com/science/2026/11/how-the-worlds-fires-changed-while-humanity-hit-pause/)
+- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1xy3aqe/users_admins_report_new_microsoft_365_outage_with/"> <img alt="Users, admins report...
+- **Keywords**: outage, outage
+- [Read more](https://www.reddit.com/r/technology/comments/1xy3aqe/users_admins_report_new_microsoft_365_outage_with/)
 
-### Six Unpatched Danfoss Refrigeration Controller Flaws Could Allow Remote Takeover Without Login
+### United Airlines says it has a widespread system outage just days after nationwide ground stop
 - **Published**: November 16, 2026
-- **Summary**: Six flaws in Danfoss AK-SM800A refrigeration controllers could let a remote attacker take over a controller without logging in, Dutch security consult...
-- [Read more](https://thehackernews.com/2026/11/six-unpatched-danfoss-refrigeration.html)
+- **Summary**: <td> <a href="https://www.reddit.com/r/technology/comments/1xy34m2/united_airlines_says_it_has_a_widespread_system/"> <img alt="United Airlines says i...
+- **Keywords**: outage, outage
+- [Read more](https://www.reddit.com/r/technology/comments/1xy34m2/united_airlines_says_it_has_a_widespread_system/)
 
 ---
 
