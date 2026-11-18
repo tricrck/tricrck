@@ -16,15 +16,18 @@
 
 ## 🚨 Tech Stories
 
-### New EggStreme Malware Variant Goes Silent to Evade Security Tools in Government Attacks
+### F5 Warns 6 Critical BIG-IP Flaws Can Crash Traffic in Specific Setups, May Allow RCE
 - **Published**: November 18, 2026
-- **Summary**: The suspected Chinese advanced persistent threat (APT) group behind the sophisticated EggStreme malware has rebuilt its toolkit as it continues to tar...
-- [Read more](https://thehackernews.com/2026/11/eggstreme-hackers-rebuild-malware-with.html)
+- **Summary**: Six critical vulnerabilities in F5 BIG-IP allow an attacker to crash the Traffic Management Microkernel (TMM) without logging in, disrupting traffic u...
+- **Keywords**: crash, crash
+- [Read more](https://thehackernews.com/2026/11/f5-warns-6-critical-big-ip-flaws-can.html)
 
-### New Attack Bypasses TPM Lockout to Crack Windows Hello and BitLocker PINs in Days, Not Years
-- **Published**: November 18, 2026
-- **Summary**: On AMD-based PCs and some Intel PCs, the TPM lockout for Windows Hello and BitLocker PINs can be reset by someone who opens the PC's case, researchers...
-- [Read more](https://thehackernews.com/2026/11/flash-chip-attack-bypasses-tpm-lockout.html)
+### 10-Year-Old NGINX HTTP/2 Flaw Lets Unauthenticated Attackers Execute Code on Servers
+- **Published**: November 19, 2026
+- **Summary**: A flaw in NGINX's HTTP/2 support can allow an attacker to run code on servers with HTTP/2 enabled, without needing to log in.
+
+The decade-old flaw, CV...
+- [Read more](https://thehackernews.com/2026/11/10-year-old-nginx-http2-flaw-lets.html)
 
 ---
 
