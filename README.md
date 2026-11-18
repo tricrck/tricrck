@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Researchers Claim Two RCE Exploits That Bypass Telegram’s New Android Defenses
+### New EggStreme Malware Variant Goes Silent to Evade Security Tools in Government Attacks
 - **Published**: November 18, 2026
-- **Summary**: A malicious widget can bypass the security filter that Telegram added to its Android app last week and run code outside it, according to NebuSec, a se...
-- [Read more](https://thehackernews.com/2026/11/researchers-claim-two-rce-exploits-that.html)
+- **Summary**: The suspected Chinese advanced persistent threat (APT) group behind the sophisticated EggStreme malware has rebuilt its toolkit as it continues to tar...
+- [Read more](https://thehackernews.com/2026/11/eggstreme-hackers-rebuild-malware-with.html)
 
-### Ofqual urges 'life-altering' penalties for students who use tech to cheat
+### New Attack Bypasses TPM Lockout to Crack Windows Hello and BitLocker PINs in Days, Not Years
 - **Published**: November 18, 2026
-- **Summary**: https://www.theguardian.com/education/2026/nov/18/ofqual-u......
-- [Read more](https://www.theguardian.com/education/2026/nov/18/ofqual-urges-life-altering-penalties-for-students-who-use-tech-to)
+- **Summary**: On AMD-based PCs and some Intel PCs, the TPM lockout for Windows Hello and BitLocker PINs can be reset by someone who opens the PC's case, researchers...
+- [Read more](https://thehackernews.com/2026/11/flash-chip-attack-bypasses-tpm-lockout.html)
 
 ---
 
