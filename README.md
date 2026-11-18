@@ -16,15 +16,15 @@
 
 ## 🚨 Tech Stories
 
-### Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap
-- **Published**: November 17, 2026
-- **Summary**: Pinning GitHub Actions to an exact version of their code, known as SHA pinning, has become the go-to defense against software supply chain attacks. At...
-- [Read more](https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html)
+### Researchers Claim Two RCE Exploits That Bypass Telegram’s New Android Defenses
+- **Published**: November 18, 2026
+- **Summary**: A malicious widget can bypass the security filter that Telegram added to its Android app last week and run code outside it, according to NebuSec, a se...
+- [Read more](https://thehackernews.com/2026/11/researchers-claim-two-rce-exploits-that.html)
 
-### Researchers Detail iPhone Flaw That Let Apps Record Audio Despite Denied Microphone Permission
-- **Published**: November 17, 2026
-- **Summary**: A now-patched flaw in Apple's audio service let apps on iPhones and iPads record audio even after the user tapped "Don't Allow" on the microphone prom...
-- [Read more](https://thehackernews.com/2026/11/researchers-detail-iphone-flaw-that-let.html)
+### Ofqual urges 'life-altering' penalties for students who use tech to cheat
+- **Published**: November 18, 2026
+- **Summary**: https://www.theguardian.com/education/2026/nov/18/ofqual-u......
+- [Read more](https://www.theguardian.com/education/2026/nov/18/ofqual-urges-life-altering-penalties-for-students-who-use-tech-to)
 
 ---
 
