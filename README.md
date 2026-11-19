@@ -22,12 +22,10 @@
 - **Keywords**: crash, crash
 - [Read more](https://thehackernews.com/2026/11/f5-warns-6-critical-big-ip-flaws-can.html)
 
-### 10-Year-Old NGINX HTTP/2 Flaw Lets Unauthenticated Attackers Execute Code on Servers
+### PHP Warns of Critical Security Flaws Affecting All Supported Versions, Fixes Coming November 19
 - **Published**: November 19, 2026
-- **Summary**: A flaw in NGINX's HTTP/2 support can allow an attacker to run code on servers with HTTP/2 enabled, without needing to log in.
-
-The decade-old flaw, CV...
-- [Read more](https://thehackernews.com/2026/11/10-year-old-nginx-http2-flaw-lets.html)
+- **Summary**: The maintainers of the PHP programming language on Wednesday issued an advisory announcing an upcoming security release that addresses critical flaws....
+- [Read more](https://thehackernews.com/2026/11/php-warns-of-critical-security-flaws.html)
 
 ---
 
