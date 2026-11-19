@@ -16,16 +16,17 @@
 
 ## 🚨 Tech Stories
 
-### F5 Warns 6 Critical BIG-IP Flaws Can Crash Traffic in Specific Setups, May Allow RCE
-- **Published**: November 18, 2026
-- **Summary**: Six critical vulnerabilities in F5 BIG-IP allow an attacker to crash the Traffic Management Microkernel (TMM) without logging in, disrupting traffic u...
-- **Keywords**: crash, crash
-- [Read more](https://thehackernews.com/2026/11/f5-warns-6-critical-big-ip-flaws-can.html)
-
-### PHP Warns of Critical Security Flaws Affecting All Supported Versions, Fixes Coming November 19
+### Rustrak, a self-hosted error tracker for your existing Sentry SDKs
 - **Published**: November 19, 2026
-- **Summary**: The maintainers of the PHP programming language on Wednesday issued an advisory announcing an upcoming security release that addresses critical flaws....
-- [Read more](https://thehackernews.com/2026/11/php-warns-of-critical-security-flaws.html)
+- **Summary**: https://github.com/rustrak/rustrak</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50565302">https://news.ycombinato......
+- **Keywords**: error
+- [Read more](https://github.com/rustrak/rustrak)
+
+### phpAfterShell Explained: How Hackers Could Turn a PHP Session Flaw Into Code Execution
+- **Published**: November 19, 2026
+- **Summary**: PHP's default file-based session storage can be made to return objects an attacker chose, by cutting off a session write at the right moment. When com...
+- [Read more](https://thehackernews.com/2026/11/phpaftershell-explained-how-hackers.html)
 
 ---
 

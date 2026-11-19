@@ -1,29 +1,28 @@
 {
   "chaos_ranked": [
     {
-      "title": "F5 Warns 6 Critical BIG-IP Flaws Can Crash Traffic in Specific Setups, May Allow RCE",
-      "link": "https://thehackernews.com/2026/11/f5-warns-6-critical-big-ip-flaws-can.html",
-      "summary": "Six critical vulnerabilities in F5 BIG-IP allow an attacker to crash the Traffic Management Microkernel (TMM) without logging in, disrupting traffic until the TMM restarts.\n\nEach flaw needs a specific...",
-      "published": "2026-11-18T23:45:39+05:30",
-      "domain": "thehackernews.com",
+      "title": "Rustrak, a self-hosted error tracker for your existing Sentry SDKs",
+      "link": "https://github.com/rustrak/rustrak",
+      "summary": "<p>Article URL: <a href=\"https://github.com/rustrak/rustrak\">https://github.com/rustrak/rustrak</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50565302\">https://news.ycombinato...",
+      "published": "2026-11-19T19:49:31+00:00",
+      "domain": "github.com",
       "scores": {
-        "chaos": 26.8,
+        "chaos": 12.8,
         "anarchy": 3.0,
-        "overall": 14.9
+        "overall": 7.9
       },
       "keywords": {
         "chaos": [
-          "crash",
-          "crash"
+          "error"
         ],
         "anarchy": []
       }
     },
     {
-      "title": "PHP Warns of Critical Security Flaws Affecting All Supported Versions, Fixes Coming November 19",
-      "link": "https://thehackernews.com/2026/11/php-warns-of-critical-security-flaws.html",
-      "summary": "The maintainers of the PHP programming language on Wednesday issued an advisory announcing an upcoming security release that addresses critical flaws.\n\nThe release is scheduled for November 19, 2026, ...",
-      "published": "2026-11-19T10:03:46+05:30",
+      "title": "phpAfterShell Explained: How Hackers Could Turn a PHP Session Flaw Into Code Execution",
+      "link": "https://thehackernews.com/2026/11/phpaftershell-explained-how-hackers.html",
+      "summary": "PHP's default file-based session storage can be made to return objects an attacker chose, by cutting off a session write at the right moment. When combined with a second weakness, such as a suitable g...",
+      "published": "2026-11-19T22:29:56+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -36,106 +35,10 @@
       }
     },
     {
-      "title": "Texas' New Attorney General Was a DBZ Composer",
-      "link": "https://variety.com/2026/artisans/news/nathan-johnson-dragon-ball-z-music-texas-attorney-general-election-win-1236939417/",
-      "summary": "<p>Article URL: <a href=\"https://variety.com/2026/artisans/news/nathan-johnson-dragon-ball-z-music-texas-attorney-general-election-win-1236939417/\">https://variety.com/2026/artisans/news/nathan-johnso...",
-      "published": "2026-11-19T07:05:17+00:00",
-      "domain": "variety.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Fornax's Guide to Fast Ethernet",
-      "link": "https://docs.pixeldrain.com/posts/2024-03-07_network_optimizations/",
-      "summary": "<p>Article URL: <a href=\"https://docs.pixeldrain.com/posts/2024-03-07_network_optimizations/\">https://docs.pixeldrain.com/posts/2024-03-07_network_optimizations/</a></p>\n<p>Comments URL: <a href=\"http...",
-      "published": "2026-11-19T07:04:01+00:00",
-      "domain": "docs.pixeldrain.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: What is localhost? An interactive guide",
-      "link": "https://whatislocalhost.com/",
-      "summary": "<p>I've build whatislocalhost.com to showcase an app deployed to cloudish.ai -- Why?<p>Well, I can either buy ads and brain wash people or, I can burn time, tokens and effort creating value for the co...",
-      "published": "2026-11-19T06:54:08+00:00",
-      "domain": "whatislocalhost.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Last.fm API keys will require Pro from first December",
-      "link": "https://support.last.fm/t/api-keys-will-require-pro-from-1st-december/121030",
-      "summary": "<p>Article URL: <a href=\"https://support.last.fm/t/api-keys-will-require-pro-from-1st-december/121030\">https://support.last.fm/t/api-keys-will-require-pro-from-1st-december/121030</a></p>\n<p>Comments ...",
-      "published": "2026-11-19T06:53:26+00:00",
-      "domain": "support.last.fm",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: Cyravo SecureBuild AI",
-      "link": "https://cyravo-securebuild-a-9jtc.bolt.host/",
-      "summary": "<p>Article URL: <a href=\"https://cyravo-securebuild-a-9jtc.bolt.host/\">https://cyravo-securebuild-a-9jtc.bolt.host/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50556811\">htt...",
-      "published": "2026-11-19T06:53:11+00:00",
-      "domain": "cyravo-securebuild-a-9jtc.bolt.host",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "15M web servers on one VM \u2013 smoltcp, DPDK, AF_XDP",
-      "link": "https://kapteko.com/15-million-webservers/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=50556533\">Comments</a>...",
-      "published": "2026-11-19T05:56:36+00:00",
-      "domain": "kapteko.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "10-Year-Old NGINX HTTP/2 Flaw Lets Unauthenticated Attackers Execute Code on Servers",
-      "link": "https://thehackernews.com/2026/11/10-year-old-nginx-http2-flaw-lets.html",
-      "summary": "A flaw in NGINX's HTTP/2 support can allow an attacker to run code on servers with HTTP/2 enabled, without needing to log in.\n\nThe decade-old flaw, CVE-2026-123007, dubbed \"nginx2root,\" has been prese...",
-      "published": "2026-11-19T00:01:17+05:30",
+      "title": "PHP Fixes 7 Critical Flaws, Including Bugs That Could Allow Remote Code Execution",
+      "link": "https://thehackernews.com/2026/11/php-fixes-7-critical-flaws-including.html",
+      "summary": "The PHP Foundation has released security updates to address multiple critical security flaws that could be exploited to achieve remote code execution on affected deployments, including CVE-2026-115560...",
+      "published": "2026-11-19T20:48:07+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -148,11 +51,107 @@
       }
     },
     {
-      "title": "Multiple vulnerabilities in Regexp and String case conversion",
-      "link": "https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=50554038\">Comments</a>...",
-      "published": "2026-11-18T23:52:50+00:00",
-      "domain": "ruby-lang.org",
+      "title": "Critical VMware vCenter Flaw (CVSS 9.8) Lets Network Attackers Bypass Authentication",
+      "link": "https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html",
+      "summary": "A critical flaw in VMware vCenter lets an attacker with network access bypass authentication and gain unauthorized access to the system, Broadcom, which owns VMware, said in an advisory published toda...",
+      "published": "2026-11-19T20:41:06+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Drupal Patches Critical Installer Flaw That Could Give Unauthenticated Attackers Control of Sites",
+      "link": "https://thehackernews.com/2026/11/drupal-patches-critical-installer-flaw.html",
+      "summary": "Under specific conditions, a critical vulnerability in Drupal core can allow an attacker without login credentials to use the built-in installer to attempt to reinstall a site.\n\nThat can lead to a sit...",
+      "published": "2026-11-19T20:03:06+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Ask HN: Why no AI-led memory vulns in Python?",
+      "link": "https://news.ycombinator.com/item?id=50565386",
+      "summary": "<p>Python usually means CPython, which means C. Most AI-led vulnerabilities lately have been memory mismanagement - what is keeping Python isolated if it is written in C?</p>\n<hr />\n<p>Comments URL: <...",
+      "published": "2026-11-19T19:54:37+00:00",
+      "domain": "news.ycombinator.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "SakaQL: A new general-purpose relational programming language",
+      "link": "https://www.saka.io/blog/sakaql-general-purpose-relational-programming-language/",
+      "summary": "<p>Article URL: <a href=\"https://www.saka.io/blog/sakaql-general-purpose-relational-programming-language/\">https://www.saka.io/blog/sakaql-general-purpose-relational-programming-language/</a></p>\n<p>C...",
+      "published": "2026-11-19T19:53:40+00:00",
+      "domain": "saka.io",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Musk backs away from MAGA after Republicans' midterm losses",
+      "link": "https://apnews.com/article/elon-musk-maga-donald-trump-midterm-elections-b8bb6796cad315517dec4b31a4715c05",
+      "summary": "<p>Article URL: <a href=\"https://apnews.com/article/elon-musk-maga-donald-trump-midterm-elections-b8bb6796cad315517dec4b31a4715c05\">https://apnews.com/article/elon-musk-maga-donald-trump-midterm-elect...",
+      "published": "2026-11-19T19:53:28+00:00",
+      "domain": "apnews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Has ClickHouse Conquered Metrics?",
+      "link": "https://www.oodle.ai/blog/has-clickhouse-conquered-metrics",
+      "summary": "<p>Article URL: <a href=\"https://www.oodle.ai/blog/has-clickhouse-conquered-metrics\">https://www.oodle.ai/blog/has-clickhouse-conquered-metrics</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinat...",
+      "published": "2026-11-19T19:48:05+00:00",
+      "domain": "oodle.ai",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
+      "link": "https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50564159\">Comments</a>...",
+      "published": "2026-11-19T18:35:17+00:00",
+      "domain": "globalcommercegraph.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -166,10 +165,10 @@
   ],
   "anarchy_ranked": [
     {
-      "title": "PHP Warns of Critical Security Flaws Affecting All Supported Versions, Fixes Coming November 19",
-      "link": "https://thehackernews.com/2026/11/php-warns-of-critical-security-flaws.html",
-      "summary": "The maintainers of the PHP programming language on Wednesday issued an advisory announcing an upcoming security release that addresses critical flaws.\n\nThe release is scheduled for November 19, 2026, ...",
-      "published": "2026-11-19T10:03:46+05:30",
+      "title": "phpAfterShell Explained: How Hackers Could Turn a PHP Session Flaw Into Code Execution",
+      "link": "https://thehackernews.com/2026/11/phpaftershell-explained-how-hackers.html",
+      "summary": "PHP's default file-based session storage can be made to return objects an attacker chose, by cutting off a session write at the right moment. When combined with a second weakness, such as a suitable g...",
+      "published": "2026-11-19T22:29:56+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -182,106 +181,10 @@
       }
     },
     {
-      "title": "Texas' New Attorney General Was a DBZ Composer",
-      "link": "https://variety.com/2026/artisans/news/nathan-johnson-dragon-ball-z-music-texas-attorney-general-election-win-1236939417/",
-      "summary": "<p>Article URL: <a href=\"https://variety.com/2026/artisans/news/nathan-johnson-dragon-ball-z-music-texas-attorney-general-election-win-1236939417/\">https://variety.com/2026/artisans/news/nathan-johnso...",
-      "published": "2026-11-19T07:05:17+00:00",
-      "domain": "variety.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Fornax's Guide to Fast Ethernet",
-      "link": "https://docs.pixeldrain.com/posts/2024-03-07_network_optimizations/",
-      "summary": "<p>Article URL: <a href=\"https://docs.pixeldrain.com/posts/2024-03-07_network_optimizations/\">https://docs.pixeldrain.com/posts/2024-03-07_network_optimizations/</a></p>\n<p>Comments URL: <a href=\"http...",
-      "published": "2026-11-19T07:04:01+00:00",
-      "domain": "docs.pixeldrain.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: What is localhost? An interactive guide",
-      "link": "https://whatislocalhost.com/",
-      "summary": "<p>I've build whatislocalhost.com to showcase an app deployed to cloudish.ai -- Why?<p>Well, I can either buy ads and brain wash people or, I can burn time, tokens and effort creating value for the co...",
-      "published": "2026-11-19T06:54:08+00:00",
-      "domain": "whatislocalhost.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Last.fm API keys will require Pro from first December",
-      "link": "https://support.last.fm/t/api-keys-will-require-pro-from-1st-december/121030",
-      "summary": "<p>Article URL: <a href=\"https://support.last.fm/t/api-keys-will-require-pro-from-1st-december/121030\">https://support.last.fm/t/api-keys-will-require-pro-from-1st-december/121030</a></p>\n<p>Comments ...",
-      "published": "2026-11-19T06:53:26+00:00",
-      "domain": "support.last.fm",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: Cyravo SecureBuild AI",
-      "link": "https://cyravo-securebuild-a-9jtc.bolt.host/",
-      "summary": "<p>Article URL: <a href=\"https://cyravo-securebuild-a-9jtc.bolt.host/\">https://cyravo-securebuild-a-9jtc.bolt.host/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50556811\">htt...",
-      "published": "2026-11-19T06:53:11+00:00",
-      "domain": "cyravo-securebuild-a-9jtc.bolt.host",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "15M web servers on one VM \u2013 smoltcp, DPDK, AF_XDP",
-      "link": "https://kapteko.com/15-million-webservers/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=50556533\">Comments</a>...",
-      "published": "2026-11-19T05:56:36+00:00",
-      "domain": "kapteko.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "10-Year-Old NGINX HTTP/2 Flaw Lets Unauthenticated Attackers Execute Code on Servers",
-      "link": "https://thehackernews.com/2026/11/10-year-old-nginx-http2-flaw-lets.html",
-      "summary": "A flaw in NGINX's HTTP/2 support can allow an attacker to run code on servers with HTTP/2 enabled, without needing to log in.\n\nThe decade-old flaw, CVE-2026-123007, dubbed \"nginx2root,\" has been prese...",
-      "published": "2026-11-19T00:01:17+05:30",
+      "title": "PHP Fixes 7 Critical Flaws, Including Bugs That Could Allow Remote Code Execution",
+      "link": "https://thehackernews.com/2026/11/php-fixes-7-critical-flaws-including.html",
+      "summary": "The PHP Foundation has released security updates to address multiple critical security flaws that could be exploited to achieve remote code execution on affected deployments, including CVE-2026-115560...",
+      "published": "2026-11-19T20:48:07+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -294,11 +197,11 @@
       }
     },
     {
-      "title": "Multiple vulnerabilities in Regexp and String case conversion",
-      "link": "https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=50554038\">Comments</a>...",
-      "published": "2026-11-18T23:52:50+00:00",
-      "domain": "ruby-lang.org",
+      "title": "Critical VMware vCenter Flaw (CVSS 9.8) Lets Network Attackers Bypass Authentication",
+      "link": "https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html",
+      "summary": "A critical flaw in VMware vCenter lets an attacker with network access bypass authentication and gain unauthorized access to the system, Broadcom, which owns VMware, said in an advisory published toda...",
+      "published": "2026-11-19T20:41:06+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -310,50 +213,144 @@
       }
     },
     {
-      "title": "F5 Warns 6 Critical BIG-IP Flaws Can Crash Traffic in Specific Setups, May Allow RCE",
-      "link": "https://thehackernews.com/2026/11/f5-warns-6-critical-big-ip-flaws-can.html",
-      "summary": "Six critical vulnerabilities in F5 BIG-IP allow an attacker to crash the Traffic Management Microkernel (TMM) without logging in, disrupting traffic until the TMM restarts.\n\nEach flaw needs a specific...",
-      "published": "2026-11-18T23:45:39+05:30",
+      "title": "Drupal Patches Critical Installer Flaw That Could Give Unauthenticated Attackers Control of Sites",
+      "link": "https://thehackernews.com/2026/11/drupal-patches-critical-installer-flaw.html",
+      "summary": "Under specific conditions, a critical vulnerability in Drupal core can allow an attacker without login credentials to use the built-in installer to attempt to reinstall a site.\n\nThat can lead to a sit...",
+      "published": "2026-11-19T20:03:06+05:30",
       "domain": "thehackernews.com",
       "scores": {
-        "chaos": 26.8,
+        "chaos": 3.0,
         "anarchy": 3.0,
-        "overall": 14.9
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Ask HN: Why no AI-led memory vulns in Python?",
+      "link": "https://news.ycombinator.com/item?id=50565386",
+      "summary": "<p>Python usually means CPython, which means C. Most AI-led vulnerabilities lately have been memory mismanagement - what is keeping Python isolated if it is written in C?</p>\n<hr />\n<p>Comments URL: <...",
+      "published": "2026-11-19T19:54:37+00:00",
+      "domain": "news.ycombinator.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "SakaQL: A new general-purpose relational programming language",
+      "link": "https://www.saka.io/blog/sakaql-general-purpose-relational-programming-language/",
+      "summary": "<p>Article URL: <a href=\"https://www.saka.io/blog/sakaql-general-purpose-relational-programming-language/\">https://www.saka.io/blog/sakaql-general-purpose-relational-programming-language/</a></p>\n<p>C...",
+      "published": "2026-11-19T19:53:40+00:00",
+      "domain": "saka.io",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Musk backs away from MAGA after Republicans' midterm losses",
+      "link": "https://apnews.com/article/elon-musk-maga-donald-trump-midterm-elections-b8bb6796cad315517dec4b31a4715c05",
+      "summary": "<p>Article URL: <a href=\"https://apnews.com/article/elon-musk-maga-donald-trump-midterm-elections-b8bb6796cad315517dec4b31a4715c05\">https://apnews.com/article/elon-musk-maga-donald-trump-midterm-elect...",
+      "published": "2026-11-19T19:53:28+00:00",
+      "domain": "apnews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Rustrak, a self-hosted error tracker for your existing Sentry SDKs",
+      "link": "https://github.com/rustrak/rustrak",
+      "summary": "<p>Article URL: <a href=\"https://github.com/rustrak/rustrak\">https://github.com/rustrak/rustrak</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50565302\">https://news.ycombinato...",
+      "published": "2026-11-19T19:49:31+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 12.8,
+        "anarchy": 3.0,
+        "overall": 7.9
       },
       "keywords": {
         "chaos": [
-          "crash",
-          "crash"
+          "error"
         ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Has ClickHouse Conquered Metrics?",
+      "link": "https://www.oodle.ai/blog/has-clickhouse-conquered-metrics",
+      "summary": "<p>Article URL: <a href=\"https://www.oodle.ai/blog/has-clickhouse-conquered-metrics\">https://www.oodle.ai/blog/has-clickhouse-conquered-metrics</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinat...",
+      "published": "2026-11-19T19:48:05+00:00",
+      "domain": "oodle.ai",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
+      "link": "https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50564159\">Comments</a>...",
+      "published": "2026-11-19T18:35:17+00:00",
+      "domain": "globalcommercegraph.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
         "anarchy": []
       }
     }
   ],
   "overall_ranked": [
     {
-      "title": "F5 Warns 6 Critical BIG-IP Flaws Can Crash Traffic in Specific Setups, May Allow RCE",
-      "link": "https://thehackernews.com/2026/11/f5-warns-6-critical-big-ip-flaws-can.html",
-      "summary": "Six critical vulnerabilities in F5 BIG-IP allow an attacker to crash the Traffic Management Microkernel (TMM) without logging in, disrupting traffic until the TMM restarts.\n\nEach flaw needs a specific...",
-      "published": "2026-11-18T23:45:39+05:30",
-      "domain": "thehackernews.com",
+      "title": "Rustrak, a self-hosted error tracker for your existing Sentry SDKs",
+      "link": "https://github.com/rustrak/rustrak",
+      "summary": "<p>Article URL: <a href=\"https://github.com/rustrak/rustrak\">https://github.com/rustrak/rustrak</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50565302\">https://news.ycombinato...",
+      "published": "2026-11-19T19:49:31+00:00",
+      "domain": "github.com",
       "scores": {
-        "chaos": 26.8,
+        "chaos": 12.8,
         "anarchy": 3.0,
-        "overall": 14.9
+        "overall": 7.9
       },
       "keywords": {
         "chaos": [
-          "crash",
-          "crash"
+          "error"
         ],
         "anarchy": []
       }
     },
     {
-      "title": "PHP Warns of Critical Security Flaws Affecting All Supported Versions, Fixes Coming November 19",
-      "link": "https://thehackernews.com/2026/11/php-warns-of-critical-security-flaws.html",
-      "summary": "The maintainers of the PHP programming language on Wednesday issued an advisory announcing an upcoming security release that addresses critical flaws.\n\nThe release is scheduled for November 19, 2026, ...",
-      "published": "2026-11-19T10:03:46+05:30",
+      "title": "phpAfterShell Explained: How Hackers Could Turn a PHP Session Flaw Into Code Execution",
+      "link": "https://thehackernews.com/2026/11/phpaftershell-explained-how-hackers.html",
+      "summary": "PHP's default file-based session storage can be made to return objects an attacker chose, by cutting off a session write at the right moment. When combined with a second weakness, such as a suitable g...",
+      "published": "2026-11-19T22:29:56+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -366,106 +363,10 @@
       }
     },
     {
-      "title": "Texas' New Attorney General Was a DBZ Composer",
-      "link": "https://variety.com/2026/artisans/news/nathan-johnson-dragon-ball-z-music-texas-attorney-general-election-win-1236939417/",
-      "summary": "<p>Article URL: <a href=\"https://variety.com/2026/artisans/news/nathan-johnson-dragon-ball-z-music-texas-attorney-general-election-win-1236939417/\">https://variety.com/2026/artisans/news/nathan-johnso...",
-      "published": "2026-11-19T07:05:17+00:00",
-      "domain": "variety.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Fornax's Guide to Fast Ethernet",
-      "link": "https://docs.pixeldrain.com/posts/2024-03-07_network_optimizations/",
-      "summary": "<p>Article URL: <a href=\"https://docs.pixeldrain.com/posts/2024-03-07_network_optimizations/\">https://docs.pixeldrain.com/posts/2024-03-07_network_optimizations/</a></p>\n<p>Comments URL: <a href=\"http...",
-      "published": "2026-11-19T07:04:01+00:00",
-      "domain": "docs.pixeldrain.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: What is localhost? An interactive guide",
-      "link": "https://whatislocalhost.com/",
-      "summary": "<p>I've build whatislocalhost.com to showcase an app deployed to cloudish.ai -- Why?<p>Well, I can either buy ads and brain wash people or, I can burn time, tokens and effort creating value for the co...",
-      "published": "2026-11-19T06:54:08+00:00",
-      "domain": "whatislocalhost.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Last.fm API keys will require Pro from first December",
-      "link": "https://support.last.fm/t/api-keys-will-require-pro-from-1st-december/121030",
-      "summary": "<p>Article URL: <a href=\"https://support.last.fm/t/api-keys-will-require-pro-from-1st-december/121030\">https://support.last.fm/t/api-keys-will-require-pro-from-1st-december/121030</a></p>\n<p>Comments ...",
-      "published": "2026-11-19T06:53:26+00:00",
-      "domain": "support.last.fm",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: Cyravo SecureBuild AI",
-      "link": "https://cyravo-securebuild-a-9jtc.bolt.host/",
-      "summary": "<p>Article URL: <a href=\"https://cyravo-securebuild-a-9jtc.bolt.host/\">https://cyravo-securebuild-a-9jtc.bolt.host/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50556811\">htt...",
-      "published": "2026-11-19T06:53:11+00:00",
-      "domain": "cyravo-securebuild-a-9jtc.bolt.host",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "15M web servers on one VM \u2013 smoltcp, DPDK, AF_XDP",
-      "link": "https://kapteko.com/15-million-webservers/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=50556533\">Comments</a>...",
-      "published": "2026-11-19T05:56:36+00:00",
-      "domain": "kapteko.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "10-Year-Old NGINX HTTP/2 Flaw Lets Unauthenticated Attackers Execute Code on Servers",
-      "link": "https://thehackernews.com/2026/11/10-year-old-nginx-http2-flaw-lets.html",
-      "summary": "A flaw in NGINX's HTTP/2 support can allow an attacker to run code on servers with HTTP/2 enabled, without needing to log in.\n\nThe decade-old flaw, CVE-2026-123007, dubbed \"nginx2root,\" has been prese...",
-      "published": "2026-11-19T00:01:17+05:30",
+      "title": "PHP Fixes 7 Critical Flaws, Including Bugs That Could Allow Remote Code Execution",
+      "link": "https://thehackernews.com/2026/11/php-fixes-7-critical-flaws-including.html",
+      "summary": "The PHP Foundation has released security updates to address multiple critical security flaws that could be exploited to achieve remote code execution on affected deployments, including CVE-2026-115560...",
+      "published": "2026-11-19T20:48:07+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -478,11 +379,107 @@
       }
     },
     {
-      "title": "Multiple vulnerabilities in Regexp and String case conversion",
-      "link": "https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=50554038\">Comments</a>...",
-      "published": "2026-11-18T23:52:50+00:00",
-      "domain": "ruby-lang.org",
+      "title": "Critical VMware vCenter Flaw (CVSS 9.8) Lets Network Attackers Bypass Authentication",
+      "link": "https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html",
+      "summary": "A critical flaw in VMware vCenter lets an attacker with network access bypass authentication and gain unauthorized access to the system, Broadcom, which owns VMware, said in an advisory published toda...",
+      "published": "2026-11-19T20:41:06+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Drupal Patches Critical Installer Flaw That Could Give Unauthenticated Attackers Control of Sites",
+      "link": "https://thehackernews.com/2026/11/drupal-patches-critical-installer-flaw.html",
+      "summary": "Under specific conditions, a critical vulnerability in Drupal core can allow an attacker without login credentials to use the built-in installer to attempt to reinstall a site.\n\nThat can lead to a sit...",
+      "published": "2026-11-19T20:03:06+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Ask HN: Why no AI-led memory vulns in Python?",
+      "link": "https://news.ycombinator.com/item?id=50565386",
+      "summary": "<p>Python usually means CPython, which means C. Most AI-led vulnerabilities lately have been memory mismanagement - what is keeping Python isolated if it is written in C?</p>\n<hr />\n<p>Comments URL: <...",
+      "published": "2026-11-19T19:54:37+00:00",
+      "domain": "news.ycombinator.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "SakaQL: A new general-purpose relational programming language",
+      "link": "https://www.saka.io/blog/sakaql-general-purpose-relational-programming-language/",
+      "summary": "<p>Article URL: <a href=\"https://www.saka.io/blog/sakaql-general-purpose-relational-programming-language/\">https://www.saka.io/blog/sakaql-general-purpose-relational-programming-language/</a></p>\n<p>C...",
+      "published": "2026-11-19T19:53:40+00:00",
+      "domain": "saka.io",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Musk backs away from MAGA after Republicans' midterm losses",
+      "link": "https://apnews.com/article/elon-musk-maga-donald-trump-midterm-elections-b8bb6796cad315517dec4b31a4715c05",
+      "summary": "<p>Article URL: <a href=\"https://apnews.com/article/elon-musk-maga-donald-trump-midterm-elections-b8bb6796cad315517dec4b31a4715c05\">https://apnews.com/article/elon-musk-maga-donald-trump-midterm-elect...",
+      "published": "2026-11-19T19:53:28+00:00",
+      "domain": "apnews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Has ClickHouse Conquered Metrics?",
+      "link": "https://www.oodle.ai/blog/has-clickhouse-conquered-metrics",
+      "summary": "<p>Article URL: <a href=\"https://www.oodle.ai/blog/has-clickhouse-conquered-metrics\">https://www.oodle.ai/blog/has-clickhouse-conquered-metrics</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinat...",
+      "published": "2026-11-19T19:48:05+00:00",
+      "domain": "oodle.ai",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
+      "link": "https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50564159\">Comments</a>...",
+      "published": "2026-11-19T18:35:17+00:00",
+      "domain": "globalcommercegraph.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -496,10 +493,10 @@
   ],
   "all_articles": [
     {
-      "title": "PHP Warns of Critical Security Flaws Affecting All Supported Versions, Fixes Coming November 19",
-      "link": "https://thehackernews.com/2026/11/php-warns-of-critical-security-flaws.html",
-      "summary": "The maintainers of the PHP programming language on Wednesday issued an advisory announcing an upcoming security release that addresses critical flaws.\n\nThe release is scheduled for November 19, 2026, ...",
-      "published": "2026-11-19T10:03:46+05:30",
+      "title": "phpAfterShell Explained: How Hackers Could Turn a PHP Session Flaw Into Code Execution",
+      "link": "https://thehackernews.com/2026/11/phpaftershell-explained-how-hackers.html",
+      "summary": "PHP's default file-based session storage can be made to return objects an attacker chose, by cutting off a session write at the right moment. When combined with a second weakness, such as a suitable g...",
+      "published": "2026-11-19T22:29:56+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -512,106 +509,10 @@
       }
     },
     {
-      "title": "Texas' New Attorney General Was a DBZ Composer",
-      "link": "https://variety.com/2026/artisans/news/nathan-johnson-dragon-ball-z-music-texas-attorney-general-election-win-1236939417/",
-      "summary": "<p>Article URL: <a href=\"https://variety.com/2026/artisans/news/nathan-johnson-dragon-ball-z-music-texas-attorney-general-election-win-1236939417/\">https://variety.com/2026/artisans/news/nathan-johnso...",
-      "published": "2026-11-19T07:05:17+00:00",
-      "domain": "variety.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Fornax's Guide to Fast Ethernet",
-      "link": "https://docs.pixeldrain.com/posts/2024-03-07_network_optimizations/",
-      "summary": "<p>Article URL: <a href=\"https://docs.pixeldrain.com/posts/2024-03-07_network_optimizations/\">https://docs.pixeldrain.com/posts/2024-03-07_network_optimizations/</a></p>\n<p>Comments URL: <a href=\"http...",
-      "published": "2026-11-19T07:04:01+00:00",
-      "domain": "docs.pixeldrain.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: What is localhost? An interactive guide",
-      "link": "https://whatislocalhost.com/",
-      "summary": "<p>I've build whatislocalhost.com to showcase an app deployed to cloudish.ai -- Why?<p>Well, I can either buy ads and brain wash people or, I can burn time, tokens and effort creating value for the co...",
-      "published": "2026-11-19T06:54:08+00:00",
-      "domain": "whatislocalhost.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Last.fm API keys will require Pro from first December",
-      "link": "https://support.last.fm/t/api-keys-will-require-pro-from-1st-december/121030",
-      "summary": "<p>Article URL: <a href=\"https://support.last.fm/t/api-keys-will-require-pro-from-1st-december/121030\">https://support.last.fm/t/api-keys-will-require-pro-from-1st-december/121030</a></p>\n<p>Comments ...",
-      "published": "2026-11-19T06:53:26+00:00",
-      "domain": "support.last.fm",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: Cyravo SecureBuild AI",
-      "link": "https://cyravo-securebuild-a-9jtc.bolt.host/",
-      "summary": "<p>Article URL: <a href=\"https://cyravo-securebuild-a-9jtc.bolt.host/\">https://cyravo-securebuild-a-9jtc.bolt.host/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50556811\">htt...",
-      "published": "2026-11-19T06:53:11+00:00",
-      "domain": "cyravo-securebuild-a-9jtc.bolt.host",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "15M web servers on one VM \u2013 smoltcp, DPDK, AF_XDP",
-      "link": "https://kapteko.com/15-million-webservers/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=50556533\">Comments</a>...",
-      "published": "2026-11-19T05:56:36+00:00",
-      "domain": "kapteko.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "10-Year-Old NGINX HTTP/2 Flaw Lets Unauthenticated Attackers Execute Code on Servers",
-      "link": "https://thehackernews.com/2026/11/10-year-old-nginx-http2-flaw-lets.html",
-      "summary": "A flaw in NGINX's HTTP/2 support can allow an attacker to run code on servers with HTTP/2 enabled, without needing to log in.\n\nThe decade-old flaw, CVE-2026-123007, dubbed \"nginx2root,\" has been prese...",
-      "published": "2026-11-19T00:01:17+05:30",
+      "title": "PHP Fixes 7 Critical Flaws, Including Bugs That Could Allow Remote Code Execution",
+      "link": "https://thehackernews.com/2026/11/php-fixes-7-critical-flaws-including.html",
+      "summary": "The PHP Foundation has released security updates to address multiple critical security flaws that could be exploited to achieve remote code execution on affected deployments, including CVE-2026-115560...",
+      "published": "2026-11-19T20:48:07+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -624,11 +525,11 @@
       }
     },
     {
-      "title": "Multiple vulnerabilities in Regexp and String case conversion",
-      "link": "https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=50554038\">Comments</a>...",
-      "published": "2026-11-18T23:52:50+00:00",
-      "domain": "ruby-lang.org",
+      "title": "Critical VMware vCenter Flaw (CVSS 9.8) Lets Network Attackers Bypass Authentication",
+      "link": "https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html",
+      "summary": "A critical flaw in VMware vCenter lets an attacker with network access bypass authentication and gain unauthorized access to the system, Broadcom, which owns VMware, said in an advisory published toda...",
+      "published": "2026-11-19T20:41:06+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -640,21 +541,116 @@
       }
     },
     {
-      "title": "F5 Warns 6 Critical BIG-IP Flaws Can Crash Traffic in Specific Setups, May Allow RCE",
-      "link": "https://thehackernews.com/2026/11/f5-warns-6-critical-big-ip-flaws-can.html",
-      "summary": "Six critical vulnerabilities in F5 BIG-IP allow an attacker to crash the Traffic Management Microkernel (TMM) without logging in, disrupting traffic until the TMM restarts.\n\nEach flaw needs a specific...",
-      "published": "2026-11-18T23:45:39+05:30",
+      "title": "Drupal Patches Critical Installer Flaw That Could Give Unauthenticated Attackers Control of Sites",
+      "link": "https://thehackernews.com/2026/11/drupal-patches-critical-installer-flaw.html",
+      "summary": "Under specific conditions, a critical vulnerability in Drupal core can allow an attacker without login credentials to use the built-in installer to attempt to reinstall a site.\n\nThat can lead to a sit...",
+      "published": "2026-11-19T20:03:06+05:30",
       "domain": "thehackernews.com",
       "scores": {
-        "chaos": 26.8,
+        "chaos": 3.0,
         "anarchy": 3.0,
-        "overall": 14.9
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Ask HN: Why no AI-led memory vulns in Python?",
+      "link": "https://news.ycombinator.com/item?id=50565386",
+      "summary": "<p>Python usually means CPython, which means C. Most AI-led vulnerabilities lately have been memory mismanagement - what is keeping Python isolated if it is written in C?</p>\n<hr />\n<p>Comments URL: <...",
+      "published": "2026-11-19T19:54:37+00:00",
+      "domain": "news.ycombinator.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "SakaQL: A new general-purpose relational programming language",
+      "link": "https://www.saka.io/blog/sakaql-general-purpose-relational-programming-language/",
+      "summary": "<p>Article URL: <a href=\"https://www.saka.io/blog/sakaql-general-purpose-relational-programming-language/\">https://www.saka.io/blog/sakaql-general-purpose-relational-programming-language/</a></p>\n<p>C...",
+      "published": "2026-11-19T19:53:40+00:00",
+      "domain": "saka.io",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Musk backs away from MAGA after Republicans' midterm losses",
+      "link": "https://apnews.com/article/elon-musk-maga-donald-trump-midterm-elections-b8bb6796cad315517dec4b31a4715c05",
+      "summary": "<p>Article URL: <a href=\"https://apnews.com/article/elon-musk-maga-donald-trump-midterm-elections-b8bb6796cad315517dec4b31a4715c05\">https://apnews.com/article/elon-musk-maga-donald-trump-midterm-elect...",
+      "published": "2026-11-19T19:53:28+00:00",
+      "domain": "apnews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Rustrak, a self-hosted error tracker for your existing Sentry SDKs",
+      "link": "https://github.com/rustrak/rustrak",
+      "summary": "<p>Article URL: <a href=\"https://github.com/rustrak/rustrak\">https://github.com/rustrak/rustrak</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50565302\">https://news.ycombinato...",
+      "published": "2026-11-19T19:49:31+00:00",
+      "domain": "github.com",
+      "scores": {
+        "chaos": 12.8,
+        "anarchy": 3.0,
+        "overall": 7.9
       },
       "keywords": {
         "chaos": [
-          "crash",
-          "crash"
+          "error"
         ],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Has ClickHouse Conquered Metrics?",
+      "link": "https://www.oodle.ai/blog/has-clickhouse-conquered-metrics",
+      "summary": "<p>Article URL: <a href=\"https://www.oodle.ai/blog/has-clickhouse-conquered-metrics\">https://www.oodle.ai/blog/has-clickhouse-conquered-metrics</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinat...",
+      "published": "2026-11-19T19:48:05+00:00",
+      "domain": "oodle.ai",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
+      "link": "https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50564159\">Comments</a>...",
+      "published": "2026-11-19T18:35:17+00:00",
+      "domain": "globalcommercegraph.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
         "anarchy": []
       }
     }
