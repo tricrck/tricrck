@@ -1,29 +1,43 @@
 {
   "chaos_ranked": [
     {
-      "title": "Rustrak, a self-hosted error tracker for your existing Sentry SDKs",
-      "link": "https://github.com/rustrak/rustrak",
-      "summary": "<p>Article URL: <a href=\"https://github.com/rustrak/rustrak\">https://github.com/rustrak/rustrak</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50565302\">https://news.ycombinato...",
-      "published": "2026-11-19T19:49:31+00:00",
+      "title": "New Unpatched Windows 0-Day FastUnlock Lets Someone Holding a Locked PC Run Programs on It",
+      "link": "https://thehackernews.com/2026/11/new-unpatched-windows-0-day-fastunlock.html",
+      "summary": "A newly disclosed unpatched zero-day technique called FastUnlock lets someone with physical access to a locked Windows computer start programs without signing in. Whoever uses it gets only a limited a...",
+      "published": "2026-11-20T11:00:01+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Testing a crystal-lattice model on 1.58M Harvard Solar System orbits",
+      "link": "https://github.com/Dr-Logvinovich/IT3-Solar-System-Quantum-Architecture/",
+      "summary": "<p>Article URL: <a href=\"https://github.com/Dr-Logvinovich/IT3-Solar-System-Quantum-Architecture/\">https://github.com/Dr-Logvinovich/IT3-Solar-System-Quantum-Architecture/</a></p>\n<p>Comments URL: <a ...",
+      "published": "2026-11-20T05:59:37+00:00",
       "domain": "github.com",
       "scores": {
-        "chaos": 12.8,
+        "chaos": 3.0,
         "anarchy": 3.0,
-        "overall": 7.9
+        "overall": 3.0
       },
       "keywords": {
-        "chaos": [
-          "error"
-        ],
+        "chaos": [],
         "anarchy": []
       }
     },
     {
-      "title": "phpAfterShell Explained: How Hackers Could Turn a PHP Session Flaw Into Code Execution",
-      "link": "https://thehackernews.com/2026/11/phpaftershell-explained-how-hackers.html",
-      "summary": "PHP's default file-based session storage can be made to return objects an attacker chose, by cutting off a session write at the right moment. When combined with a second weakness, such as a suitable g...",
-      "published": "2026-11-19T22:29:56+05:30",
-      "domain": "thehackernews.com",
+      "title": "Show HN: AiTz \u2013 A universal gateway for discovering AI tools",
+      "link": "https://aitz.site",
+      "summary": "<p>About AiTz<p>I started AiTz because discovering useful AI tools can be difficult when they are scattered across the internet.<p>I wanted to build one place where people can discover different AI to...",
+      "published": "2026-11-20T05:54:34+00:00",
+      "domain": "aitz.site",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -35,11 +49,11 @@
       }
     },
     {
-      "title": "PHP Fixes 7 Critical Flaws, Including Bugs That Could Allow Remote Code Execution",
-      "link": "https://thehackernews.com/2026/11/php-fixes-7-critical-flaws-including.html",
-      "summary": "The PHP Foundation has released security updates to address multiple critical security flaws that could be exploited to achieve remote code execution on affected deployments, including CVE-2026-115560...",
-      "published": "2026-11-19T20:48:07+05:30",
-      "domain": "thehackernews.com",
+      "title": "HyperThink: Text-to-Parameter Hypernetworks for Efficient Reasoning",
+      "link": "https://hyperthink-llm.github.io/",
+      "summary": "<p>Article URL: <a href=\"https://hyperthink-llm.github.io/\">https://hyperthink-llm.github.io/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50570646\">https://news.ycombinator....",
+      "published": "2026-11-20T05:49:27+00:00",
+      "domain": "hyperthink-llm.github.io",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -51,11 +65,11 @@
       }
     },
     {
-      "title": "Critical VMware vCenter Flaw (CVSS 9.8) Lets Network Attackers Bypass Authentication",
-      "link": "https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html",
-      "summary": "A critical flaw in VMware vCenter lets an attacker with network access bypass authentication and gain unauthorized access to the system, Broadcom, which owns VMware, said in an advisory published toda...",
-      "published": "2026-11-19T20:41:06+05:30",
-      "domain": "thehackernews.com",
+      "title": "Tesla's $30k Cybercab comes with a $299 monthly catch",
+      "link": "https://www.wired.com/story/tesla-cybercab-is-the-subscription-hell-they-told-you-not-to-worry-about/",
+      "summary": "<p>Article URL: <a href=\"https://www.wired.com/story/tesla-cybercab-is-the-subscription-hell-they-told-you-not-to-worry-about/\">https://www.wired.com/story/tesla-cybercab-is-the-subscription-hell-they...",
+      "published": "2026-11-20T05:47:13+00:00",
+      "domain": "wired.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -67,11 +81,11 @@
       }
     },
     {
-      "title": "Drupal Patches Critical Installer Flaw That Could Give Unauthenticated Attackers Control of Sites",
-      "link": "https://thehackernews.com/2026/11/drupal-patches-critical-installer-flaw.html",
-      "summary": "Under specific conditions, a critical vulnerability in Drupal core can allow an attacker without login credentials to use the built-in installer to attempt to reinstall a site.\n\nThat can lead to a sit...",
-      "published": "2026-11-19T20:03:06+05:30",
-      "domain": "thehackernews.com",
+      "title": "Jujutsu Primer",
+      "link": "https://ethanlowman.com/posts/jj-primer/",
+      "summary": "<p>Article URL: <a href=\"https://ethanlowman.com/posts/jj-primer/\">https://ethanlowman.com/posts/jj-primer/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50570628\">https://new...",
+      "published": "2026-11-20T05:46:01+00:00",
+      "domain": "ethanlowman.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -83,11 +97,11 @@
       }
     },
     {
-      "title": "Ask HN: Why no AI-led memory vulns in Python?",
-      "link": "https://news.ycombinator.com/item?id=50565386",
-      "summary": "<p>Python usually means CPython, which means C. Most AI-led vulnerabilities lately have been memory mismanagement - what is keeping Python isolated if it is written in C?</p>\n<hr />\n<p>Comments URL: <...",
-      "published": "2026-11-19T19:54:37+00:00",
-      "domain": "news.ycombinator.com",
+      "title": "Google is pushing OEMs against GrapheneOS and bootloader unlocking",
+      "link": "https://grapheneos.social/@GrapheneOS/117645038299496084",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50570479\">Comments</a>...",
+      "published": "2026-11-20T05:21:02+00:00",
+      "domain": "grapheneos.social",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -99,11 +113,11 @@
       }
     },
     {
-      "title": "SakaQL: A new general-purpose relational programming language",
-      "link": "https://www.saka.io/blog/sakaql-general-purpose-relational-programming-language/",
-      "summary": "<p>Article URL: <a href=\"https://www.saka.io/blog/sakaql-general-purpose-relational-programming-language/\">https://www.saka.io/blog/sakaql-general-purpose-relational-programming-language/</a></p>\n<p>C...",
-      "published": "2026-11-19T19:53:40+00:00",
-      "domain": "saka.io",
+      "title": "GIMP now has UI tests",
+      "link": "https://www.gimp.org/news/2026/11/16/gimp-ui-tests/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50569985\">Comments</a>...",
+      "published": "2026-11-20T04:00:24+00:00",
+      "domain": "gimp.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -115,11 +129,11 @@
       }
     },
     {
-      "title": "Musk backs away from MAGA after Republicans' midterm losses",
-      "link": "https://apnews.com/article/elon-musk-maga-donald-trump-midterm-elections-b8bb6796cad315517dec4b31a4715c05",
-      "summary": "<p>Article URL: <a href=\"https://apnews.com/article/elon-musk-maga-donald-trump-midterm-elections-b8bb6796cad315517dec4b31a4715c05\">https://apnews.com/article/elon-musk-maga-donald-trump-midterm-elect...",
-      "published": "2026-11-19T19:53:28+00:00",
-      "domain": "apnews.com",
+      "title": "Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup",
+      "link": "https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50569516\">Comments</a>...",
+      "published": "2026-11-20T02:43:49+00:00",
+      "domain": "snowflake.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -131,27 +145,11 @@
       }
     },
     {
-      "title": "Has ClickHouse Conquered Metrics?",
-      "link": "https://www.oodle.ai/blog/has-clickhouse-conquered-metrics",
-      "summary": "<p>Article URL: <a href=\"https://www.oodle.ai/blog/has-clickhouse-conquered-metrics\">https://www.oodle.ai/blog/has-clickhouse-conquered-metrics</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinat...",
-      "published": "2026-11-19T19:48:05+00:00",
-      "domain": "oodle.ai",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
-      "link": "https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=50564159\">Comments</a>...",
-      "published": "2026-11-19T18:35:17+00:00",
-      "domain": "globalcommercegraph.com",
+      "title": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
+      "link": "https://github.com/openssl/openssl/pull/33652",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50569226\">Comments</a>...",
+      "published": "2026-11-20T02:01:09+00:00",
+      "domain": "github.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -165,10 +163,10 @@
   ],
   "anarchy_ranked": [
     {
-      "title": "phpAfterShell Explained: How Hackers Could Turn a PHP Session Flaw Into Code Execution",
-      "link": "https://thehackernews.com/2026/11/phpaftershell-explained-how-hackers.html",
-      "summary": "PHP's default file-based session storage can be made to return objects an attacker chose, by cutting off a session write at the right moment. When combined with a second weakness, such as a suitable g...",
-      "published": "2026-11-19T22:29:56+05:30",
+      "title": "New Unpatched Windows 0-Day FastUnlock Lets Someone Holding a Locked PC Run Programs on It",
+      "link": "https://thehackernews.com/2026/11/new-unpatched-windows-0-day-fastunlock.html",
+      "summary": "A newly disclosed unpatched zero-day technique called FastUnlock lets someone with physical access to a locked Windows computer start programs without signing in. Whoever uses it gets only a limited a...",
+      "published": "2026-11-20T11:00:01+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -181,125 +179,27 @@
       }
     },
     {
-      "title": "PHP Fixes 7 Critical Flaws, Including Bugs That Could Allow Remote Code Execution",
-      "link": "https://thehackernews.com/2026/11/php-fixes-7-critical-flaws-including.html",
-      "summary": "The PHP Foundation has released security updates to address multiple critical security flaws that could be exploited to achieve remote code execution on affected deployments, including CVE-2026-115560...",
-      "published": "2026-11-19T20:48:07+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Critical VMware vCenter Flaw (CVSS 9.8) Lets Network Attackers Bypass Authentication",
-      "link": "https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html",
-      "summary": "A critical flaw in VMware vCenter lets an attacker with network access bypass authentication and gain unauthorized access to the system, Broadcom, which owns VMware, said in an advisory published toda...",
-      "published": "2026-11-19T20:41:06+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Drupal Patches Critical Installer Flaw That Could Give Unauthenticated Attackers Control of Sites",
-      "link": "https://thehackernews.com/2026/11/drupal-patches-critical-installer-flaw.html",
-      "summary": "Under specific conditions, a critical vulnerability in Drupal core can allow an attacker without login credentials to use the built-in installer to attempt to reinstall a site.\n\nThat can lead to a sit...",
-      "published": "2026-11-19T20:03:06+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Ask HN: Why no AI-led memory vulns in Python?",
-      "link": "https://news.ycombinator.com/item?id=50565386",
-      "summary": "<p>Python usually means CPython, which means C. Most AI-led vulnerabilities lately have been memory mismanagement - what is keeping Python isolated if it is written in C?</p>\n<hr />\n<p>Comments URL: <...",
-      "published": "2026-11-19T19:54:37+00:00",
-      "domain": "news.ycombinator.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "SakaQL: A new general-purpose relational programming language",
-      "link": "https://www.saka.io/blog/sakaql-general-purpose-relational-programming-language/",
-      "summary": "<p>Article URL: <a href=\"https://www.saka.io/blog/sakaql-general-purpose-relational-programming-language/\">https://www.saka.io/blog/sakaql-general-purpose-relational-programming-language/</a></p>\n<p>C...",
-      "published": "2026-11-19T19:53:40+00:00",
-      "domain": "saka.io",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Musk backs away from MAGA after Republicans' midterm losses",
-      "link": "https://apnews.com/article/elon-musk-maga-donald-trump-midterm-elections-b8bb6796cad315517dec4b31a4715c05",
-      "summary": "<p>Article URL: <a href=\"https://apnews.com/article/elon-musk-maga-donald-trump-midterm-elections-b8bb6796cad315517dec4b31a4715c05\">https://apnews.com/article/elon-musk-maga-donald-trump-midterm-elect...",
-      "published": "2026-11-19T19:53:28+00:00",
-      "domain": "apnews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Rustrak, a self-hosted error tracker for your existing Sentry SDKs",
-      "link": "https://github.com/rustrak/rustrak",
-      "summary": "<p>Article URL: <a href=\"https://github.com/rustrak/rustrak\">https://github.com/rustrak/rustrak</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50565302\">https://news.ycombinato...",
-      "published": "2026-11-19T19:49:31+00:00",
+      "title": "Show HN: Testing a crystal-lattice model on 1.58M Harvard Solar System orbits",
+      "link": "https://github.com/Dr-Logvinovich/IT3-Solar-System-Quantum-Architecture/",
+      "summary": "<p>Article URL: <a href=\"https://github.com/Dr-Logvinovich/IT3-Solar-System-Quantum-Architecture/\">https://github.com/Dr-Logvinovich/IT3-Solar-System-Quantum-Architecture/</a></p>\n<p>Comments URL: <a ...",
+      "published": "2026-11-20T05:59:37+00:00",
       "domain": "github.com",
       "scores": {
-        "chaos": 12.8,
+        "chaos": 3.0,
         "anarchy": 3.0,
-        "overall": 7.9
+        "overall": 3.0
       },
       "keywords": {
-        "chaos": [
-          "error"
-        ],
+        "chaos": [],
         "anarchy": []
       }
     },
     {
-      "title": "Has ClickHouse Conquered Metrics?",
-      "link": "https://www.oodle.ai/blog/has-clickhouse-conquered-metrics",
-      "summary": "<p>Article URL: <a href=\"https://www.oodle.ai/blog/has-clickhouse-conquered-metrics\">https://www.oodle.ai/blog/has-clickhouse-conquered-metrics</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinat...",
-      "published": "2026-11-19T19:48:05+00:00",
-      "domain": "oodle.ai",
+      "title": "Show HN: AiTz \u2013 A universal gateway for discovering AI tools",
+      "link": "https://aitz.site",
+      "summary": "<p>About AiTz<p>I started AiTz because discovering useful AI tools can be difficult when they are scattered across the internet.<p>I wanted to build one place where people can discover different AI to...",
+      "published": "2026-11-20T05:54:34+00:00",
+      "domain": "aitz.site",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -311,11 +211,107 @@
       }
     },
     {
-      "title": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
-      "link": "https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=50564159\">Comments</a>...",
-      "published": "2026-11-19T18:35:17+00:00",
-      "domain": "globalcommercegraph.com",
+      "title": "HyperThink: Text-to-Parameter Hypernetworks for Efficient Reasoning",
+      "link": "https://hyperthink-llm.github.io/",
+      "summary": "<p>Article URL: <a href=\"https://hyperthink-llm.github.io/\">https://hyperthink-llm.github.io/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50570646\">https://news.ycombinator....",
+      "published": "2026-11-20T05:49:27+00:00",
+      "domain": "hyperthink-llm.github.io",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Tesla's $30k Cybercab comes with a $299 monthly catch",
+      "link": "https://www.wired.com/story/tesla-cybercab-is-the-subscription-hell-they-told-you-not-to-worry-about/",
+      "summary": "<p>Article URL: <a href=\"https://www.wired.com/story/tesla-cybercab-is-the-subscription-hell-they-told-you-not-to-worry-about/\">https://www.wired.com/story/tesla-cybercab-is-the-subscription-hell-they...",
+      "published": "2026-11-20T05:47:13+00:00",
+      "domain": "wired.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Jujutsu Primer",
+      "link": "https://ethanlowman.com/posts/jj-primer/",
+      "summary": "<p>Article URL: <a href=\"https://ethanlowman.com/posts/jj-primer/\">https://ethanlowman.com/posts/jj-primer/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50570628\">https://new...",
+      "published": "2026-11-20T05:46:01+00:00",
+      "domain": "ethanlowman.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Google is pushing OEMs against GrapheneOS and bootloader unlocking",
+      "link": "https://grapheneos.social/@GrapheneOS/117645038299496084",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50570479\">Comments</a>...",
+      "published": "2026-11-20T05:21:02+00:00",
+      "domain": "grapheneos.social",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "GIMP now has UI tests",
+      "link": "https://www.gimp.org/news/2026/11/16/gimp-ui-tests/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50569985\">Comments</a>...",
+      "published": "2026-11-20T04:00:24+00:00",
+      "domain": "gimp.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup",
+      "link": "https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50569516\">Comments</a>...",
+      "published": "2026-11-20T02:43:49+00:00",
+      "domain": "snowflake.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
+      "link": "https://github.com/openssl/openssl/pull/33652",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50569226\">Comments</a>...",
+      "published": "2026-11-20T02:01:09+00:00",
+      "domain": "github.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -329,29 +325,43 @@
   ],
   "overall_ranked": [
     {
-      "title": "Rustrak, a self-hosted error tracker for your existing Sentry SDKs",
-      "link": "https://github.com/rustrak/rustrak",
-      "summary": "<p>Article URL: <a href=\"https://github.com/rustrak/rustrak\">https://github.com/rustrak/rustrak</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50565302\">https://news.ycombinato...",
-      "published": "2026-11-19T19:49:31+00:00",
+      "title": "New Unpatched Windows 0-Day FastUnlock Lets Someone Holding a Locked PC Run Programs on It",
+      "link": "https://thehackernews.com/2026/11/new-unpatched-windows-0-day-fastunlock.html",
+      "summary": "A newly disclosed unpatched zero-day technique called FastUnlock lets someone with physical access to a locked Windows computer start programs without signing in. Whoever uses it gets only a limited a...",
+      "published": "2026-11-20T11:00:01+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Testing a crystal-lattice model on 1.58M Harvard Solar System orbits",
+      "link": "https://github.com/Dr-Logvinovich/IT3-Solar-System-Quantum-Architecture/",
+      "summary": "<p>Article URL: <a href=\"https://github.com/Dr-Logvinovich/IT3-Solar-System-Quantum-Architecture/\">https://github.com/Dr-Logvinovich/IT3-Solar-System-Quantum-Architecture/</a></p>\n<p>Comments URL: <a ...",
+      "published": "2026-11-20T05:59:37+00:00",
       "domain": "github.com",
       "scores": {
-        "chaos": 12.8,
+        "chaos": 3.0,
         "anarchy": 3.0,
-        "overall": 7.9
+        "overall": 3.0
       },
       "keywords": {
-        "chaos": [
-          "error"
-        ],
+        "chaos": [],
         "anarchy": []
       }
     },
     {
-      "title": "phpAfterShell Explained: How Hackers Could Turn a PHP Session Flaw Into Code Execution",
-      "link": "https://thehackernews.com/2026/11/phpaftershell-explained-how-hackers.html",
-      "summary": "PHP's default file-based session storage can be made to return objects an attacker chose, by cutting off a session write at the right moment. When combined with a second weakness, such as a suitable g...",
-      "published": "2026-11-19T22:29:56+05:30",
-      "domain": "thehackernews.com",
+      "title": "Show HN: AiTz \u2013 A universal gateway for discovering AI tools",
+      "link": "https://aitz.site",
+      "summary": "<p>About AiTz<p>I started AiTz because discovering useful AI tools can be difficult when they are scattered across the internet.<p>I wanted to build one place where people can discover different AI to...",
+      "published": "2026-11-20T05:54:34+00:00",
+      "domain": "aitz.site",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -363,11 +373,11 @@
       }
     },
     {
-      "title": "PHP Fixes 7 Critical Flaws, Including Bugs That Could Allow Remote Code Execution",
-      "link": "https://thehackernews.com/2026/11/php-fixes-7-critical-flaws-including.html",
-      "summary": "The PHP Foundation has released security updates to address multiple critical security flaws that could be exploited to achieve remote code execution on affected deployments, including CVE-2026-115560...",
-      "published": "2026-11-19T20:48:07+05:30",
-      "domain": "thehackernews.com",
+      "title": "HyperThink: Text-to-Parameter Hypernetworks for Efficient Reasoning",
+      "link": "https://hyperthink-llm.github.io/",
+      "summary": "<p>Article URL: <a href=\"https://hyperthink-llm.github.io/\">https://hyperthink-llm.github.io/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50570646\">https://news.ycombinator....",
+      "published": "2026-11-20T05:49:27+00:00",
+      "domain": "hyperthink-llm.github.io",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -379,11 +389,11 @@
       }
     },
     {
-      "title": "Critical VMware vCenter Flaw (CVSS 9.8) Lets Network Attackers Bypass Authentication",
-      "link": "https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html",
-      "summary": "A critical flaw in VMware vCenter lets an attacker with network access bypass authentication and gain unauthorized access to the system, Broadcom, which owns VMware, said in an advisory published toda...",
-      "published": "2026-11-19T20:41:06+05:30",
-      "domain": "thehackernews.com",
+      "title": "Tesla's $30k Cybercab comes with a $299 monthly catch",
+      "link": "https://www.wired.com/story/tesla-cybercab-is-the-subscription-hell-they-told-you-not-to-worry-about/",
+      "summary": "<p>Article URL: <a href=\"https://www.wired.com/story/tesla-cybercab-is-the-subscription-hell-they-told-you-not-to-worry-about/\">https://www.wired.com/story/tesla-cybercab-is-the-subscription-hell-they...",
+      "published": "2026-11-20T05:47:13+00:00",
+      "domain": "wired.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -395,11 +405,11 @@
       }
     },
     {
-      "title": "Drupal Patches Critical Installer Flaw That Could Give Unauthenticated Attackers Control of Sites",
-      "link": "https://thehackernews.com/2026/11/drupal-patches-critical-installer-flaw.html",
-      "summary": "Under specific conditions, a critical vulnerability in Drupal core can allow an attacker without login credentials to use the built-in installer to attempt to reinstall a site.\n\nThat can lead to a sit...",
-      "published": "2026-11-19T20:03:06+05:30",
-      "domain": "thehackernews.com",
+      "title": "Jujutsu Primer",
+      "link": "https://ethanlowman.com/posts/jj-primer/",
+      "summary": "<p>Article URL: <a href=\"https://ethanlowman.com/posts/jj-primer/\">https://ethanlowman.com/posts/jj-primer/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50570628\">https://new...",
+      "published": "2026-11-20T05:46:01+00:00",
+      "domain": "ethanlowman.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -411,11 +421,11 @@
       }
     },
     {
-      "title": "Ask HN: Why no AI-led memory vulns in Python?",
-      "link": "https://news.ycombinator.com/item?id=50565386",
-      "summary": "<p>Python usually means CPython, which means C. Most AI-led vulnerabilities lately have been memory mismanagement - what is keeping Python isolated if it is written in C?</p>\n<hr />\n<p>Comments URL: <...",
-      "published": "2026-11-19T19:54:37+00:00",
-      "domain": "news.ycombinator.com",
+      "title": "Google is pushing OEMs against GrapheneOS and bootloader unlocking",
+      "link": "https://grapheneos.social/@GrapheneOS/117645038299496084",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50570479\">Comments</a>...",
+      "published": "2026-11-20T05:21:02+00:00",
+      "domain": "grapheneos.social",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -427,11 +437,11 @@
       }
     },
     {
-      "title": "SakaQL: A new general-purpose relational programming language",
-      "link": "https://www.saka.io/blog/sakaql-general-purpose-relational-programming-language/",
-      "summary": "<p>Article URL: <a href=\"https://www.saka.io/blog/sakaql-general-purpose-relational-programming-language/\">https://www.saka.io/blog/sakaql-general-purpose-relational-programming-language/</a></p>\n<p>C...",
-      "published": "2026-11-19T19:53:40+00:00",
-      "domain": "saka.io",
+      "title": "GIMP now has UI tests",
+      "link": "https://www.gimp.org/news/2026/11/16/gimp-ui-tests/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50569985\">Comments</a>...",
+      "published": "2026-11-20T04:00:24+00:00",
+      "domain": "gimp.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -443,11 +453,11 @@
       }
     },
     {
-      "title": "Musk backs away from MAGA after Republicans' midterm losses",
-      "link": "https://apnews.com/article/elon-musk-maga-donald-trump-midterm-elections-b8bb6796cad315517dec4b31a4715c05",
-      "summary": "<p>Article URL: <a href=\"https://apnews.com/article/elon-musk-maga-donald-trump-midterm-elections-b8bb6796cad315517dec4b31a4715c05\">https://apnews.com/article/elon-musk-maga-donald-trump-midterm-elect...",
-      "published": "2026-11-19T19:53:28+00:00",
-      "domain": "apnews.com",
+      "title": "Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup",
+      "link": "https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50569516\">Comments</a>...",
+      "published": "2026-11-20T02:43:49+00:00",
+      "domain": "snowflake.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -459,27 +469,11 @@
       }
     },
     {
-      "title": "Has ClickHouse Conquered Metrics?",
-      "link": "https://www.oodle.ai/blog/has-clickhouse-conquered-metrics",
-      "summary": "<p>Article URL: <a href=\"https://www.oodle.ai/blog/has-clickhouse-conquered-metrics\">https://www.oodle.ai/blog/has-clickhouse-conquered-metrics</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinat...",
-      "published": "2026-11-19T19:48:05+00:00",
-      "domain": "oodle.ai",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
-      "link": "https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=50564159\">Comments</a>...",
-      "published": "2026-11-19T18:35:17+00:00",
-      "domain": "globalcommercegraph.com",
+      "title": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
+      "link": "https://github.com/openssl/openssl/pull/33652",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50569226\">Comments</a>...",
+      "published": "2026-11-20T02:01:09+00:00",
+      "domain": "github.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -493,10 +487,10 @@
   ],
   "all_articles": [
     {
-      "title": "phpAfterShell Explained: How Hackers Could Turn a PHP Session Flaw Into Code Execution",
-      "link": "https://thehackernews.com/2026/11/phpaftershell-explained-how-hackers.html",
-      "summary": "PHP's default file-based session storage can be made to return objects an attacker chose, by cutting off a session write at the right moment. When combined with a second weakness, such as a suitable g...",
-      "published": "2026-11-19T22:29:56+05:30",
+      "title": "New Unpatched Windows 0-Day FastUnlock Lets Someone Holding a Locked PC Run Programs on It",
+      "link": "https://thehackernews.com/2026/11/new-unpatched-windows-0-day-fastunlock.html",
+      "summary": "A newly disclosed unpatched zero-day technique called FastUnlock lets someone with physical access to a locked Windows computer start programs without signing in. Whoever uses it gets only a limited a...",
+      "published": "2026-11-20T11:00:01+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -509,125 +503,27 @@
       }
     },
     {
-      "title": "PHP Fixes 7 Critical Flaws, Including Bugs That Could Allow Remote Code Execution",
-      "link": "https://thehackernews.com/2026/11/php-fixes-7-critical-flaws-including.html",
-      "summary": "The PHP Foundation has released security updates to address multiple critical security flaws that could be exploited to achieve remote code execution on affected deployments, including CVE-2026-115560...",
-      "published": "2026-11-19T20:48:07+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Critical VMware vCenter Flaw (CVSS 9.8) Lets Network Attackers Bypass Authentication",
-      "link": "https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html",
-      "summary": "A critical flaw in VMware vCenter lets an attacker with network access bypass authentication and gain unauthorized access to the system, Broadcom, which owns VMware, said in an advisory published toda...",
-      "published": "2026-11-19T20:41:06+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Drupal Patches Critical Installer Flaw That Could Give Unauthenticated Attackers Control of Sites",
-      "link": "https://thehackernews.com/2026/11/drupal-patches-critical-installer-flaw.html",
-      "summary": "Under specific conditions, a critical vulnerability in Drupal core can allow an attacker without login credentials to use the built-in installer to attempt to reinstall a site.\n\nThat can lead to a sit...",
-      "published": "2026-11-19T20:03:06+05:30",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Ask HN: Why no AI-led memory vulns in Python?",
-      "link": "https://news.ycombinator.com/item?id=50565386",
-      "summary": "<p>Python usually means CPython, which means C. Most AI-led vulnerabilities lately have been memory mismanagement - what is keeping Python isolated if it is written in C?</p>\n<hr />\n<p>Comments URL: <...",
-      "published": "2026-11-19T19:54:37+00:00",
-      "domain": "news.ycombinator.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "SakaQL: A new general-purpose relational programming language",
-      "link": "https://www.saka.io/blog/sakaql-general-purpose-relational-programming-language/",
-      "summary": "<p>Article URL: <a href=\"https://www.saka.io/blog/sakaql-general-purpose-relational-programming-language/\">https://www.saka.io/blog/sakaql-general-purpose-relational-programming-language/</a></p>\n<p>C...",
-      "published": "2026-11-19T19:53:40+00:00",
-      "domain": "saka.io",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Musk backs away from MAGA after Republicans' midterm losses",
-      "link": "https://apnews.com/article/elon-musk-maga-donald-trump-midterm-elections-b8bb6796cad315517dec4b31a4715c05",
-      "summary": "<p>Article URL: <a href=\"https://apnews.com/article/elon-musk-maga-donald-trump-midterm-elections-b8bb6796cad315517dec4b31a4715c05\">https://apnews.com/article/elon-musk-maga-donald-trump-midterm-elect...",
-      "published": "2026-11-19T19:53:28+00:00",
-      "domain": "apnews.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Rustrak, a self-hosted error tracker for your existing Sentry SDKs",
-      "link": "https://github.com/rustrak/rustrak",
-      "summary": "<p>Article URL: <a href=\"https://github.com/rustrak/rustrak\">https://github.com/rustrak/rustrak</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50565302\">https://news.ycombinato...",
-      "published": "2026-11-19T19:49:31+00:00",
+      "title": "Show HN: Testing a crystal-lattice model on 1.58M Harvard Solar System orbits",
+      "link": "https://github.com/Dr-Logvinovich/IT3-Solar-System-Quantum-Architecture/",
+      "summary": "<p>Article URL: <a href=\"https://github.com/Dr-Logvinovich/IT3-Solar-System-Quantum-Architecture/\">https://github.com/Dr-Logvinovich/IT3-Solar-System-Quantum-Architecture/</a></p>\n<p>Comments URL: <a ...",
+      "published": "2026-11-20T05:59:37+00:00",
       "domain": "github.com",
       "scores": {
-        "chaos": 12.8,
+        "chaos": 3.0,
         "anarchy": 3.0,
-        "overall": 7.9
+        "overall": 3.0
       },
       "keywords": {
-        "chaos": [
-          "error"
-        ],
+        "chaos": [],
         "anarchy": []
       }
     },
     {
-      "title": "Has ClickHouse Conquered Metrics?",
-      "link": "https://www.oodle.ai/blog/has-clickhouse-conquered-metrics",
-      "summary": "<p>Article URL: <a href=\"https://www.oodle.ai/blog/has-clickhouse-conquered-metrics\">https://www.oodle.ai/blog/has-clickhouse-conquered-metrics</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinat...",
-      "published": "2026-11-19T19:48:05+00:00",
-      "domain": "oodle.ai",
+      "title": "Show HN: AiTz \u2013 A universal gateway for discovering AI tools",
+      "link": "https://aitz.site",
+      "summary": "<p>About AiTz<p>I started AiTz because discovering useful AI tools can be difficult when they are scattered across the internet.<p>I wanted to build one place where people can discover different AI to...",
+      "published": "2026-11-20T05:54:34+00:00",
+      "domain": "aitz.site",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -639,11 +535,107 @@
       }
     },
     {
-      "title": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
-      "link": "https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=50564159\">Comments</a>...",
-      "published": "2026-11-19T18:35:17+00:00",
-      "domain": "globalcommercegraph.com",
+      "title": "HyperThink: Text-to-Parameter Hypernetworks for Efficient Reasoning",
+      "link": "https://hyperthink-llm.github.io/",
+      "summary": "<p>Article URL: <a href=\"https://hyperthink-llm.github.io/\">https://hyperthink-llm.github.io/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50570646\">https://news.ycombinator....",
+      "published": "2026-11-20T05:49:27+00:00",
+      "domain": "hyperthink-llm.github.io",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Tesla's $30k Cybercab comes with a $299 monthly catch",
+      "link": "https://www.wired.com/story/tesla-cybercab-is-the-subscription-hell-they-told-you-not-to-worry-about/",
+      "summary": "<p>Article URL: <a href=\"https://www.wired.com/story/tesla-cybercab-is-the-subscription-hell-they-told-you-not-to-worry-about/\">https://www.wired.com/story/tesla-cybercab-is-the-subscription-hell-they...",
+      "published": "2026-11-20T05:47:13+00:00",
+      "domain": "wired.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Jujutsu Primer",
+      "link": "https://ethanlowman.com/posts/jj-primer/",
+      "summary": "<p>Article URL: <a href=\"https://ethanlowman.com/posts/jj-primer/\">https://ethanlowman.com/posts/jj-primer/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50570628\">https://new...",
+      "published": "2026-11-20T05:46:01+00:00",
+      "domain": "ethanlowman.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Google is pushing OEMs against GrapheneOS and bootloader unlocking",
+      "link": "https://grapheneos.social/@GrapheneOS/117645038299496084",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50570479\">Comments</a>...",
+      "published": "2026-11-20T05:21:02+00:00",
+      "domain": "grapheneos.social",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "GIMP now has UI tests",
+      "link": "https://www.gimp.org/news/2026/11/16/gimp-ui-tests/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50569985\">Comments</a>...",
+      "published": "2026-11-20T04:00:24+00:00",
+      "domain": "gimp.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup",
+      "link": "https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50569516\">Comments</a>...",
+      "published": "2026-11-20T02:43:49+00:00",
+      "domain": "snowflake.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
+      "link": "https://github.com/openssl/openssl/pull/33652",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=50569226\">Comments</a>...",
+      "published": "2026-11-20T02:01:09+00:00",
+      "domain": "github.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,

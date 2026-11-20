@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### Rustrak, a self-hosted error tracker for your existing Sentry SDKs
-- **Published**: November 19, 2026
-- **Summary**: https://github.com/rustrak/rustrak</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50565302">https://news.ycombinato......
-- **Keywords**: error
-- [Read more](https://github.com/rustrak/rustrak)
+### New Unpatched Windows 0-Day FastUnlock Lets Someone Holding a Locked PC Run Programs on It
+- **Published**: November 20, 2026
+- **Summary**: A newly disclosed unpatched zero-day technique called FastUnlock lets someone with physical access to a locked Windows computer start programs without...
+- [Read more](https://thehackernews.com/2026/11/new-unpatched-windows-0-day-fastunlock.html)
 
-### phpAfterShell Explained: How Hackers Could Turn a PHP Session Flaw Into Code Execution
-- **Published**: November 19, 2026
-- **Summary**: PHP's default file-based session storage can be made to return objects an attacker chose, by cutting off a session write at the right moment. When com...
-- [Read more](https://thehackernews.com/2026/11/phpaftershell-explained-how-hackers.html)
+### Show HN: Testing a crystal-lattice model on 1.58M Harvard Solar System orbits
+- **Published**: November 20, 2026
+- **Summary**: https://github.com/Dr-Logvinovich/IT3-Solar-System-Quantum-Architecture/</a></p>
+<p>Comments URL: <a ......
+- [Read more](https://github.com/Dr-Logvinovich/IT3-Solar-System-Quantum-Architecture/)
 
 ---
 
