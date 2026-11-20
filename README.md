@@ -16,16 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### New Unpatched Windows 0-Day FastUnlock Lets Someone Holding a Locked PC Run Programs on It
+### WhatsApp Patches 3 Security Flaws, Including Android Bug Suspected of Use in Scams
 - **Published**: November 20, 2026
-- **Summary**: A newly disclosed unpatched zero-day technique called FastUnlock lets someone with physical access to a locked Windows computer start programs without...
-- [Read more](https://thehackernews.com/2026/11/new-unpatched-windows-0-day-fastunlock.html)
+- **Summary**: Meta-owned WhatsApp has addressed security vulnerabilities, including one impacting its Android app that it suspects may have been exploited in connec...
+- **Keywords**: bug
+- [Read more](https://thehackernews.com/2026/11/whatsapp-patches-3-security-flaws.html)
 
-### Show HN: Testing a crystal-lattice model on 1.58M Harvard Solar System orbits
+### Bazuka Android Malware Uses Fake Screen Overlays to Hide Credential Theft and Device Control
 - **Published**: November 20, 2026
-- **Summary**: https://github.com/Dr-Logvinovich/IT3-Solar-System-Quantum-Architecture/</a></p>
-<p>Comments URL: <a ......
-- [Read more](https://github.com/Dr-Logvinovich/IT3-Solar-System-Quantum-Architecture/)
+- **Summary**: Cybersecurity researchers have disclosed details of a previously unknown Android malware framework called Bazuka that offers large language model (LLM...
+- [Read more](https://thehackernews.com/2026/11/bazuka-android-malware-uses-fake-screen.html)
 
 ---
 
