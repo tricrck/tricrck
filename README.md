@@ -22,10 +22,11 @@
 - **Keywords**: bug
 - [Read more](https://thehackernews.com/2026/11/whatsapp-patches-3-security-flaws.html)
 
-### Bazuka Android Malware Uses Fake Screen Overlays to Hide Credential Theft and Device Control
-- **Published**: November 20, 2026
-- **Summary**: Cybersecurity researchers have disclosed details of a previously unknown Android malware framework called Bazuka that offers large language model (LLM...
-- [Read more](https://thehackernews.com/2026/11/bazuka-android-malware-uses-fake-screen.html)
+### Ask HN: Has the quality of HN content/discussions gone down?
+- **Published**: November 21, 2026
+- **Summary**: <p>Not sure if its a one off feeling or is there anything more to it. I have been reading HN for a while and loved the discussions more than anything....
+- **Keywords**: down
+- [Read more](https://news.ycombinator.com/item?id=50586343)
 
 ---
 
