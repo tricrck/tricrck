@@ -16,17 +16,16 @@
 
 ## 🚨 Tech Stories
 
-### WhatsApp Patches 3 Security Flaws, Including Android Bug Suspected of Use in Scams
-- **Published**: November 20, 2026
-- **Summary**: Meta-owned WhatsApp has addressed security vulnerabilities, including one impacting its Android app that it suspects may have been exploited in connec...
-- **Keywords**: bug
-- [Read more](https://thehackernews.com/2026/11/whatsapp-patches-3-security-flaws.html)
-
-### Ask HN: Has the quality of HN content/discussions gone down?
+### GnuPG Warns Critical GPGME Flaw Could Expose App Data via Malicious OpenPGP Keys
 - **Published**: November 21, 2026
-- **Summary**: <p>Not sure if its a one off feeling or is there anything more to it. I have been reading HN for a while and loved the discussions more than anything....
-- **Keywords**: down
-- [Read more](https://news.ycombinator.com/item?id=50586343)
+- **Summary**: A malicious OpenPGP key with an unusually long user ID can trigger a critical memory bug in GPGME, the standard library that programs use to work with...
+- **Keywords**: bug
+- [Read more](https://thehackernews.com/2026/11/gnupg-warns-critical-gpgme-flaw-could.html)
+
+### A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats
+- **Published**: November 21, 2026
+- **Summary**: A malicious webpage could extract a Meta Muse user's private conversations and stored memories from the assistant without triggering any approval prom...
+- [Read more](https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html)
 
 ---
 

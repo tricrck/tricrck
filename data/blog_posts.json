@@ -1,15 +1,15 @@
 {
   "chaos_ranked": [
     {
-      "title": "WhatsApp Patches 3 Security Flaws, Including Android Bug Suspected of Use in Scams",
-      "link": "https://thehackernews.com/2026/11/whatsapp-patches-3-security-flaws.html",
-      "summary": "Meta-owned WhatsApp has addressed security vulnerabilities, including one impacting its Android app that it suspects may have been exploited in connection with scam messages.\n\nThe vulnerability, track...",
-      "published": "2026-11-20T23:27:20+05:30",
+      "title": "GnuPG Warns Critical GPGME Flaw Could Expose App Data via Malicious OpenPGP Keys",
+      "link": "https://thehackernews.com/2026/11/gnupg-warns-critical-gpgme-flaw-could.html",
+      "summary": "A malicious OpenPGP key with an unusually long user ID can trigger a critical memory bug in GPGME, the standard library that programs use to work with GnuPG.\n\nThe GnuPG project warned yesterday that t...",
+      "published": "2026-11-21T16:35:53+05:30",
       "domain": "thehackernews.com",
       "scores": {
-        "chaos": 11.5,
+        "chaos": 10.3,
         "anarchy": 3.0,
-        "overall": 7.3
+        "overall": 6.6
       },
       "keywords": {
         "chaos": [
@@ -19,108 +19,10 @@
       }
     },
     {
-      "title": "Ask HN: Has the quality of HN content/discussions gone down?",
-      "link": "https://news.ycombinator.com/item?id=50586343",
-      "summary": "<p>Not sure if its a one off feeling or is there anything more to it. I have been reading HN for a while and loved the discussions more than anything. There was always something interesting and someth...",
-      "published": "2026-11-21T05:46:42+00:00",
-      "domain": "news.ycombinator.com",
-      "scores": {
-        "chaos": 8.7,
-        "anarchy": 3.0,
-        "overall": 5.9
-      },
-      "keywords": {
-        "chaos": [
-          "down"
-        ],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Testing Gemini 4 Hydrogen and Argon vs. Gen 3 over 1,474 Multi-Turn Queries",
-      "link": "https://zenodo.org/records/24412128",
-      "summary": "<p>Article URL: <a href=\"https://zenodo.org/records/24412128\">https://zenodo.org/records/24412128</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50586326\">https://news.ycombina...",
-      "published": "2026-11-21T05:43:19+00:00",
-      "domain": "zenodo.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: Musset, open-source Scrivener alternative with an AI that never writes",
-      "link": "https://github.com/Musset-App/musset",
-      "summary": "<p>I\u2019m writing my first novel and could not find an app that fit my workflow: quiet like iA Writer, organized like Scrivener, and with AI so I can discuss my book while I write it. It allows me to fee...",
-      "published": "2026-11-21T05:42:49+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Manage Kubernetes Clusters for GPU Infrastructure with Nvidia Kubernetes Engine",
-      "link": "https://developer.nvidia.com/blog/manage-kubernetes-clusters-for-gpu-infrastructure-with-nvidia-kubernetes-engine/",
-      "summary": "<p>Article URL: <a href=\"https://developer.nvidia.com/blog/manage-kubernetes-clusters-for-gpu-infrastructure-with-nvidia-kubernetes-engine/\">https://developer.nvidia.com/blog/manage-kubernetes-cluster...",
-      "published": "2026-11-21T05:40:32+00:00",
-      "domain": "developer.nvidia.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Broadcom open-sources its Kubernetes VM manager",
-      "link": "https://siliconangle.com/2026/11/09/broadcom-open-sources-its-kubernetes-vm-manager/",
-      "summary": "<p>Article URL: <a href=\"https://siliconangle.com/2026/11/09/broadcom-open-sources-its-kubernetes-vm-manager/\">https://siliconangle.com/2026/11/09/broadcom-open-sources-its-kubernetes-vm-manager/</a><...",
-      "published": "2026-11-21T05:39:35+00:00",
-      "domain": "siliconangle.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "NINLIVE: The Nine Inch Nails live archive",
-      "link": "https://ninlive.com/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=50583274\">Comments</a>...",
-      "published": "2026-11-20T22:30:47+00:00",
-      "domain": "ninlive.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Bazuka Android Malware Uses Fake Screen Overlays to Hide Credential Theft and Device Control",
-      "link": "https://thehackernews.com/2026/11/bazuka-android-malware-uses-fake-screen.html",
-      "summary": "Cybersecurity researchers have disclosed details of a previously unknown Android malware framework called Bazuka that offers large language model (LLM) integration for victim management and control at...",
-      "published": "2026-11-20T22:28:16+05:30",
+      "title": "A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats",
+      "link": "https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html",
+      "summary": "A malicious webpage could extract a Meta Muse user's private conversations and stored memories from the assistant without triggering any approval prompt, researchers have shown.\n\nThe same attack could...",
+      "published": "2026-11-21T17:23:07+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -133,11 +35,29 @@
       }
     },
     {
-      "title": "Inkling 2 Mini",
-      "link": "https://thinkingmachines.ai/news/inkling-2-mini/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=50581260\">Comments</a>...",
-      "published": "2026-11-20T20:12:19+00:00",
-      "domain": "thinkingmachines.ai",
+      "title": "Attackers' AI Agents Found a Zero-Day in Medical-Imaging Software and Gained Root Access",
+      "link": "https://thehackernews.com/2026/11/attackers-ai-agents-found-zero-day-in.html",
+      "summary": "Suspected China-linked hackers used autonomous AI agents to find a previously unknown flaw in MONAI Label, an open-source medical imaging server, and gain root access to a university server, Amazon Th...",
+      "published": "2026-11-21T16:33:17+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 11.8,
+        "overall": 7.4
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": [
+          "autonomous"
+        ]
+      }
+    },
+    {
+      "title": "MySQL Development as It Happens, Part 2 \u2013 Vector Indexes",
+      "link": "https://blogs.oracle.com/mysql/mysql-development-as-it-happens-part-2-vector-indexes",
+      "summary": "<p>Article URL: <a href=\"https://blogs.oracle.com/mysql/mysql-development-as-it-happens-part-2-vector-indexes\">https://blogs.oracle.com/mysql/mysql-development-as-it-happens-part-2-vector-indexes</a><...",
+      "published": "2026-11-21T14:22:17+00:00",
+      "domain": "blogs.oracle.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -149,11 +69,91 @@
       }
     },
     {
-      "title": "Hurried Announcement: Alessandro Masullo GRH",
-      "link": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=50579568\">Comments</a>...",
-      "published": "2026-11-20T18:33:14+00:00",
-      "domain": "math216.wordpress.com",
+      "title": "Odin November 2026 Newsletter",
+      "link": "https://odin-lang.org/news/newsletter-2026-11/",
+      "summary": "<p>Article URL: <a href=\"https://odin-lang.org/news/newsletter-2026-11/\">https://odin-lang.org/news/newsletter-2026-11/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50589481\"...",
+      "published": "2026-11-21T14:22:04+00:00",
+      "domain": "odin-lang.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Qwen3.8 27B Just Became a Coding Monster (DaisyRose)",
+      "link": "https://www.youtube.com/watch?v=bwsSnLM3YFI",
+      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=bwsSnLM3YFI\">https://www.youtube.com/watch?v=bwsSnLM3YFI</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50589470\">https...",
+      "published": "2026-11-21T14:20:43+00:00",
+      "domain": "youtube.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Signal Blocks AI Agents From Reading Private Chats via Screenshots on Android and iOS",
+      "link": "https://thehackernews.com/2026/11/signal-blocks-ai-agents-from-reading.html",
+      "summary": "Signal has announced that it will restrict screenshots by default to stop artificial intelligence (AI) agents from reading private chats on Android and iOS devices, but conceded that the protection is...",
+      "published": "2026-11-21T14:19:20+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Hackers Exploit Critical VMware, Cisco, and Apache Flaws as Espionage Attacks Emerge",
+      "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-vmware-cisco.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added four flaws impacting Apache Roller, Cisco Expressway, SAP NetWeaver, and Broadcom VMware vCenter to its Known Exploited...",
+      "published": "2026-11-21T14:19:13+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Battery storage in Great Britain: how a grid battery makes money",
+      "link": "https://a115.co.uk/battery-storage-revenues/",
+      "summary": "<p>Article URL: <a href=\"https://a115.co.uk/battery-storage-revenues/\">https://a115.co.uk/battery-storage-revenues/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50589452\">htt...",
+      "published": "2026-11-21T14:18:51+00:00",
+      "domain": "a115.co.uk",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Branchi \u2013 Open-Source Git Client for Windows and Linux (Rust and Flutter)",
+      "link": "https://github.com/mbpcoder/Branchi",
+      "summary": "<p>Article URL: <a href=\"https://github.com/mbpcoder/Branchi\">https://github.com/mbpcoder/Branchi</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50589429\">https://news.ycombina...",
+      "published": "2026-11-21T14:16:45+00:00",
+      "domain": "github.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -167,97 +167,49 @@
   ],
   "anarchy_ranked": [
     {
-      "title": "Ask HN: Has the quality of HN content/discussions gone down?",
-      "link": "https://news.ycombinator.com/item?id=50586343",
-      "summary": "<p>Not sure if its a one off feeling or is there anything more to it. I have been reading HN for a while and loved the discussions more than anything. There was always something interesting and someth...",
-      "published": "2026-11-21T05:46:42+00:00",
-      "domain": "news.ycombinator.com",
-      "scores": {
-        "chaos": 8.7,
-        "anarchy": 3.0,
-        "overall": 5.9
-      },
-      "keywords": {
-        "chaos": [
-          "down"
-        ],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Testing Gemini 4 Hydrogen and Argon vs. Gen 3 over 1,474 Multi-Turn Queries",
-      "link": "https://zenodo.org/records/24412128",
-      "summary": "<p>Article URL: <a href=\"https://zenodo.org/records/24412128\">https://zenodo.org/records/24412128</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50586326\">https://news.ycombina...",
-      "published": "2026-11-21T05:43:19+00:00",
-      "domain": "zenodo.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: Musset, open-source Scrivener alternative with an AI that never writes",
-      "link": "https://github.com/Musset-App/musset",
-      "summary": "<p>I\u2019m writing my first novel and could not find an app that fit my workflow: quiet like iA Writer, organized like Scrivener, and with AI so I can discuss my book while I write it. It allows me to fee...",
-      "published": "2026-11-21T05:42:49+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Manage Kubernetes Clusters for GPU Infrastructure with Nvidia Kubernetes Engine",
-      "link": "https://developer.nvidia.com/blog/manage-kubernetes-clusters-for-gpu-infrastructure-with-nvidia-kubernetes-engine/",
-      "summary": "<p>Article URL: <a href=\"https://developer.nvidia.com/blog/manage-kubernetes-clusters-for-gpu-infrastructure-with-nvidia-kubernetes-engine/\">https://developer.nvidia.com/blog/manage-kubernetes-cluster...",
-      "published": "2026-11-21T05:40:32+00:00",
-      "domain": "developer.nvidia.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Broadcom open-sources its Kubernetes VM manager",
-      "link": "https://siliconangle.com/2026/11/09/broadcom-open-sources-its-kubernetes-vm-manager/",
-      "summary": "<p>Article URL: <a href=\"https://siliconangle.com/2026/11/09/broadcom-open-sources-its-kubernetes-vm-manager/\">https://siliconangle.com/2026/11/09/broadcom-open-sources-its-kubernetes-vm-manager/</a><...",
-      "published": "2026-11-21T05:39:35+00:00",
-      "domain": "siliconangle.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "WhatsApp Patches 3 Security Flaws, Including Android Bug Suspected of Use in Scams",
-      "link": "https://thehackernews.com/2026/11/whatsapp-patches-3-security-flaws.html",
-      "summary": "Meta-owned WhatsApp has addressed security vulnerabilities, including one impacting its Android app that it suspects may have been exploited in connection with scam messages.\n\nThe vulnerability, track...",
-      "published": "2026-11-20T23:27:20+05:30",
+      "title": "Attackers' AI Agents Found a Zero-Day in Medical-Imaging Software and Gained Root Access",
+      "link": "https://thehackernews.com/2026/11/attackers-ai-agents-found-zero-day-in.html",
+      "summary": "Suspected China-linked hackers used autonomous AI agents to find a previously unknown flaw in MONAI Label, an open-source medical imaging server, and gain root access to a university server, Amazon Th...",
+      "published": "2026-11-21T16:33:17+05:30",
       "domain": "thehackernews.com",
       "scores": {
-        "chaos": 11.5,
+        "chaos": 3.0,
+        "anarchy": 11.8,
+        "overall": 7.4
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": [
+          "autonomous"
+        ]
+      }
+    },
+    {
+      "title": "A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats",
+      "link": "https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html",
+      "summary": "A malicious webpage could extract a Meta Muse user's private conversations and stored memories from the assistant without triggering any approval prompt, researchers have shown.\n\nThe same attack could...",
+      "published": "2026-11-21T17:23:07+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
         "anarchy": 3.0,
-        "overall": 7.3
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "GnuPG Warns Critical GPGME Flaw Could Expose App Data via Malicious OpenPGP Keys",
+      "link": "https://thehackernews.com/2026/11/gnupg-warns-critical-gpgme-flaw-could.html",
+      "summary": "A malicious OpenPGP key with an unusually long user ID can trigger a critical memory bug in GPGME, the standard library that programs use to work with GnuPG.\n\nThe GnuPG project warned yesterday that t...",
+      "published": "2026-11-21T16:35:53+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 10.3,
+        "anarchy": 3.0,
+        "overall": 6.6
       },
       "keywords": {
         "chaos": [
@@ -267,11 +219,11 @@
       }
     },
     {
-      "title": "NINLIVE: The Nine Inch Nails live archive",
-      "link": "https://ninlive.com/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=50583274\">Comments</a>...",
-      "published": "2026-11-20T22:30:47+00:00",
-      "domain": "ninlive.com",
+      "title": "MySQL Development as It Happens, Part 2 \u2013 Vector Indexes",
+      "link": "https://blogs.oracle.com/mysql/mysql-development-as-it-happens-part-2-vector-indexes",
+      "summary": "<p>Article URL: <a href=\"https://blogs.oracle.com/mysql/mysql-development-as-it-happens-part-2-vector-indexes\">https://blogs.oracle.com/mysql/mysql-development-as-it-happens-part-2-vector-indexes</a><...",
+      "published": "2026-11-21T14:22:17+00:00",
+      "domain": "blogs.oracle.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -283,10 +235,42 @@
       }
     },
     {
-      "title": "Bazuka Android Malware Uses Fake Screen Overlays to Hide Credential Theft and Device Control",
-      "link": "https://thehackernews.com/2026/11/bazuka-android-malware-uses-fake-screen.html",
-      "summary": "Cybersecurity researchers have disclosed details of a previously unknown Android malware framework called Bazuka that offers large language model (LLM) integration for victim management and control at...",
-      "published": "2026-11-20T22:28:16+05:30",
+      "title": "Odin November 2026 Newsletter",
+      "link": "https://odin-lang.org/news/newsletter-2026-11/",
+      "summary": "<p>Article URL: <a href=\"https://odin-lang.org/news/newsletter-2026-11/\">https://odin-lang.org/news/newsletter-2026-11/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50589481\"...",
+      "published": "2026-11-21T14:22:04+00:00",
+      "domain": "odin-lang.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Qwen3.8 27B Just Became a Coding Monster (DaisyRose)",
+      "link": "https://www.youtube.com/watch?v=bwsSnLM3YFI",
+      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=bwsSnLM3YFI\">https://www.youtube.com/watch?v=bwsSnLM3YFI</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50589470\">https...",
+      "published": "2026-11-21T14:20:43+00:00",
+      "domain": "youtube.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Signal Blocks AI Agents From Reading Private Chats via Screenshots on Android and iOS",
+      "link": "https://thehackernews.com/2026/11/signal-blocks-ai-agents-from-reading.html",
+      "summary": "Signal has announced that it will restrict screenshots by default to stop artificial intelligence (AI) agents from reading private chats on Android and iOS devices, but conceded that the protection is...",
+      "published": "2026-11-21T14:19:20+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -299,11 +283,11 @@
       }
     },
     {
-      "title": "Inkling 2 Mini",
-      "link": "https://thinkingmachines.ai/news/inkling-2-mini/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=50581260\">Comments</a>...",
-      "published": "2026-11-20T20:12:19+00:00",
-      "domain": "thinkingmachines.ai",
+      "title": "Hackers Exploit Critical VMware, Cisco, and Apache Flaws as Espionage Attacks Emerge",
+      "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-vmware-cisco.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added four flaws impacting Apache Roller, Cisco Expressway, SAP NetWeaver, and Broadcom VMware vCenter to its Known Exploited...",
+      "published": "2026-11-21T14:19:13+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -315,11 +299,27 @@
       }
     },
     {
-      "title": "Hurried Announcement: Alessandro Masullo GRH",
-      "link": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=50579568\">Comments</a>...",
-      "published": "2026-11-20T18:33:14+00:00",
-      "domain": "math216.wordpress.com",
+      "title": "Battery storage in Great Britain: how a grid battery makes money",
+      "link": "https://a115.co.uk/battery-storage-revenues/",
+      "summary": "<p>Article URL: <a href=\"https://a115.co.uk/battery-storage-revenues/\">https://a115.co.uk/battery-storage-revenues/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50589452\">htt...",
+      "published": "2026-11-21T14:18:51+00:00",
+      "domain": "a115.co.uk",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Branchi \u2013 Open-Source Git Client for Windows and Linux (Rust and Flutter)",
+      "link": "https://github.com/mbpcoder/Branchi",
+      "summary": "<p>Article URL: <a href=\"https://github.com/mbpcoder/Branchi\">https://github.com/mbpcoder/Branchi</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50589429\">https://news.ycombina...",
+      "published": "2026-11-21T14:16:45+00:00",
+      "domain": "github.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -333,15 +333,33 @@
   ],
   "overall_ranked": [
     {
-      "title": "WhatsApp Patches 3 Security Flaws, Including Android Bug Suspected of Use in Scams",
-      "link": "https://thehackernews.com/2026/11/whatsapp-patches-3-security-flaws.html",
-      "summary": "Meta-owned WhatsApp has addressed security vulnerabilities, including one impacting its Android app that it suspects may have been exploited in connection with scam messages.\n\nThe vulnerability, track...",
-      "published": "2026-11-20T23:27:20+05:30",
+      "title": "Attackers' AI Agents Found a Zero-Day in Medical-Imaging Software and Gained Root Access",
+      "link": "https://thehackernews.com/2026/11/attackers-ai-agents-found-zero-day-in.html",
+      "summary": "Suspected China-linked hackers used autonomous AI agents to find a previously unknown flaw in MONAI Label, an open-source medical imaging server, and gain root access to a university server, Amazon Th...",
+      "published": "2026-11-21T16:33:17+05:30",
       "domain": "thehackernews.com",
       "scores": {
-        "chaos": 11.5,
+        "chaos": 3.0,
+        "anarchy": 11.8,
+        "overall": 7.4
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": [
+          "autonomous"
+        ]
+      }
+    },
+    {
+      "title": "GnuPG Warns Critical GPGME Flaw Could Expose App Data via Malicious OpenPGP Keys",
+      "link": "https://thehackernews.com/2026/11/gnupg-warns-critical-gpgme-flaw-could.html",
+      "summary": "A malicious OpenPGP key with an unusually long user ID can trigger a critical memory bug in GPGME, the standard library that programs use to work with GnuPG.\n\nThe GnuPG project warned yesterday that t...",
+      "published": "2026-11-21T16:35:53+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 10.3,
         "anarchy": 3.0,
-        "overall": 7.3
+        "overall": 6.6
       },
       "keywords": {
         "chaos": [
@@ -351,108 +369,10 @@
       }
     },
     {
-      "title": "Ask HN: Has the quality of HN content/discussions gone down?",
-      "link": "https://news.ycombinator.com/item?id=50586343",
-      "summary": "<p>Not sure if its a one off feeling or is there anything more to it. I have been reading HN for a while and loved the discussions more than anything. There was always something interesting and someth...",
-      "published": "2026-11-21T05:46:42+00:00",
-      "domain": "news.ycombinator.com",
-      "scores": {
-        "chaos": 8.7,
-        "anarchy": 3.0,
-        "overall": 5.9
-      },
-      "keywords": {
-        "chaos": [
-          "down"
-        ],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Testing Gemini 4 Hydrogen and Argon vs. Gen 3 over 1,474 Multi-Turn Queries",
-      "link": "https://zenodo.org/records/24412128",
-      "summary": "<p>Article URL: <a href=\"https://zenodo.org/records/24412128\">https://zenodo.org/records/24412128</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50586326\">https://news.ycombina...",
-      "published": "2026-11-21T05:43:19+00:00",
-      "domain": "zenodo.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: Musset, open-source Scrivener alternative with an AI that never writes",
-      "link": "https://github.com/Musset-App/musset",
-      "summary": "<p>I\u2019m writing my first novel and could not find an app that fit my workflow: quiet like iA Writer, organized like Scrivener, and with AI so I can discuss my book while I write it. It allows me to fee...",
-      "published": "2026-11-21T05:42:49+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Manage Kubernetes Clusters for GPU Infrastructure with Nvidia Kubernetes Engine",
-      "link": "https://developer.nvidia.com/blog/manage-kubernetes-clusters-for-gpu-infrastructure-with-nvidia-kubernetes-engine/",
-      "summary": "<p>Article URL: <a href=\"https://developer.nvidia.com/blog/manage-kubernetes-clusters-for-gpu-infrastructure-with-nvidia-kubernetes-engine/\">https://developer.nvidia.com/blog/manage-kubernetes-cluster...",
-      "published": "2026-11-21T05:40:32+00:00",
-      "domain": "developer.nvidia.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Broadcom open-sources its Kubernetes VM manager",
-      "link": "https://siliconangle.com/2026/11/09/broadcom-open-sources-its-kubernetes-vm-manager/",
-      "summary": "<p>Article URL: <a href=\"https://siliconangle.com/2026/11/09/broadcom-open-sources-its-kubernetes-vm-manager/\">https://siliconangle.com/2026/11/09/broadcom-open-sources-its-kubernetes-vm-manager/</a><...",
-      "published": "2026-11-21T05:39:35+00:00",
-      "domain": "siliconangle.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "NINLIVE: The Nine Inch Nails live archive",
-      "link": "https://ninlive.com/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=50583274\">Comments</a>...",
-      "published": "2026-11-20T22:30:47+00:00",
-      "domain": "ninlive.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Bazuka Android Malware Uses Fake Screen Overlays to Hide Credential Theft and Device Control",
-      "link": "https://thehackernews.com/2026/11/bazuka-android-malware-uses-fake-screen.html",
-      "summary": "Cybersecurity researchers have disclosed details of a previously unknown Android malware framework called Bazuka that offers large language model (LLM) integration for victim management and control at...",
-      "published": "2026-11-20T22:28:16+05:30",
+      "title": "A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats",
+      "link": "https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html",
+      "summary": "A malicious webpage could extract a Meta Muse user's private conversations and stored memories from the assistant without triggering any approval prompt, researchers have shown.\n\nThe same attack could...",
+      "published": "2026-11-21T17:23:07+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -465,11 +385,11 @@
       }
     },
     {
-      "title": "Inkling 2 Mini",
-      "link": "https://thinkingmachines.ai/news/inkling-2-mini/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=50581260\">Comments</a>...",
-      "published": "2026-11-20T20:12:19+00:00",
-      "domain": "thinkingmachines.ai",
+      "title": "MySQL Development as It Happens, Part 2 \u2013 Vector Indexes",
+      "link": "https://blogs.oracle.com/mysql/mysql-development-as-it-happens-part-2-vector-indexes",
+      "summary": "<p>Article URL: <a href=\"https://blogs.oracle.com/mysql/mysql-development-as-it-happens-part-2-vector-indexes\">https://blogs.oracle.com/mysql/mysql-development-as-it-happens-part-2-vector-indexes</a><...",
+      "published": "2026-11-21T14:22:17+00:00",
+      "domain": "blogs.oracle.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -481,11 +401,91 @@
       }
     },
     {
-      "title": "Hurried Announcement: Alessandro Masullo GRH",
-      "link": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=50579568\">Comments</a>...",
-      "published": "2026-11-20T18:33:14+00:00",
-      "domain": "math216.wordpress.com",
+      "title": "Odin November 2026 Newsletter",
+      "link": "https://odin-lang.org/news/newsletter-2026-11/",
+      "summary": "<p>Article URL: <a href=\"https://odin-lang.org/news/newsletter-2026-11/\">https://odin-lang.org/news/newsletter-2026-11/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50589481\"...",
+      "published": "2026-11-21T14:22:04+00:00",
+      "domain": "odin-lang.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Qwen3.8 27B Just Became a Coding Monster (DaisyRose)",
+      "link": "https://www.youtube.com/watch?v=bwsSnLM3YFI",
+      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=bwsSnLM3YFI\">https://www.youtube.com/watch?v=bwsSnLM3YFI</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50589470\">https...",
+      "published": "2026-11-21T14:20:43+00:00",
+      "domain": "youtube.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Signal Blocks AI Agents From Reading Private Chats via Screenshots on Android and iOS",
+      "link": "https://thehackernews.com/2026/11/signal-blocks-ai-agents-from-reading.html",
+      "summary": "Signal has announced that it will restrict screenshots by default to stop artificial intelligence (AI) agents from reading private chats on Android and iOS devices, but conceded that the protection is...",
+      "published": "2026-11-21T14:19:20+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Hackers Exploit Critical VMware, Cisco, and Apache Flaws as Espionage Attacks Emerge",
+      "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-vmware-cisco.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added four flaws impacting Apache Roller, Cisco Expressway, SAP NetWeaver, and Broadcom VMware vCenter to its Known Exploited...",
+      "published": "2026-11-21T14:19:13+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Battery storage in Great Britain: how a grid battery makes money",
+      "link": "https://a115.co.uk/battery-storage-revenues/",
+      "summary": "<p>Article URL: <a href=\"https://a115.co.uk/battery-storage-revenues/\">https://a115.co.uk/battery-storage-revenues/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50589452\">htt...",
+      "published": "2026-11-21T14:18:51+00:00",
+      "domain": "a115.co.uk",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Branchi \u2013 Open-Source Git Client for Windows and Linux (Rust and Flutter)",
+      "link": "https://github.com/mbpcoder/Branchi",
+      "summary": "<p>Article URL: <a href=\"https://github.com/mbpcoder/Branchi\">https://github.com/mbpcoder/Branchi</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50589429\">https://news.ycombina...",
+      "published": "2026-11-21T14:16:45+00:00",
+      "domain": "github.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -499,97 +499,31 @@
   ],
   "all_articles": [
     {
-      "title": "Ask HN: Has the quality of HN content/discussions gone down?",
-      "link": "https://news.ycombinator.com/item?id=50586343",
-      "summary": "<p>Not sure if its a one off feeling or is there anything more to it. I have been reading HN for a while and loved the discussions more than anything. There was always something interesting and someth...",
-      "published": "2026-11-21T05:46:42+00:00",
-      "domain": "news.ycombinator.com",
-      "scores": {
-        "chaos": 8.7,
-        "anarchy": 3.0,
-        "overall": 5.9
-      },
-      "keywords": {
-        "chaos": [
-          "down"
-        ],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Testing Gemini 4 Hydrogen and Argon vs. Gen 3 over 1,474 Multi-Turn Queries",
-      "link": "https://zenodo.org/records/24412128",
-      "summary": "<p>Article URL: <a href=\"https://zenodo.org/records/24412128\">https://zenodo.org/records/24412128</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50586326\">https://news.ycombina...",
-      "published": "2026-11-21T05:43:19+00:00",
-      "domain": "zenodo.org",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Show HN: Musset, open-source Scrivener alternative with an AI that never writes",
-      "link": "https://github.com/Musset-App/musset",
-      "summary": "<p>I\u2019m writing my first novel and could not find an app that fit my workflow: quiet like iA Writer, organized like Scrivener, and with AI so I can discuss my book while I write it. It allows me to fee...",
-      "published": "2026-11-21T05:42:49+00:00",
-      "domain": "github.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Manage Kubernetes Clusters for GPU Infrastructure with Nvidia Kubernetes Engine",
-      "link": "https://developer.nvidia.com/blog/manage-kubernetes-clusters-for-gpu-infrastructure-with-nvidia-kubernetes-engine/",
-      "summary": "<p>Article URL: <a href=\"https://developer.nvidia.com/blog/manage-kubernetes-clusters-for-gpu-infrastructure-with-nvidia-kubernetes-engine/\">https://developer.nvidia.com/blog/manage-kubernetes-cluster...",
-      "published": "2026-11-21T05:40:32+00:00",
-      "domain": "developer.nvidia.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Broadcom open-sources its Kubernetes VM manager",
-      "link": "https://siliconangle.com/2026/11/09/broadcom-open-sources-its-kubernetes-vm-manager/",
-      "summary": "<p>Article URL: <a href=\"https://siliconangle.com/2026/11/09/broadcom-open-sources-its-kubernetes-vm-manager/\">https://siliconangle.com/2026/11/09/broadcom-open-sources-its-kubernetes-vm-manager/</a><...",
-      "published": "2026-11-21T05:39:35+00:00",
-      "domain": "siliconangle.com",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "WhatsApp Patches 3 Security Flaws, Including Android Bug Suspected of Use in Scams",
-      "link": "https://thehackernews.com/2026/11/whatsapp-patches-3-security-flaws.html",
-      "summary": "Meta-owned WhatsApp has addressed security vulnerabilities, including one impacting its Android app that it suspects may have been exploited in connection with scam messages.\n\nThe vulnerability, track...",
-      "published": "2026-11-20T23:27:20+05:30",
+      "title": "A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats",
+      "link": "https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html",
+      "summary": "A malicious webpage could extract a Meta Muse user's private conversations and stored memories from the assistant without triggering any approval prompt, researchers have shown.\n\nThe same attack could...",
+      "published": "2026-11-21T17:23:07+05:30",
       "domain": "thehackernews.com",
       "scores": {
-        "chaos": 11.5,
+        "chaos": 3.0,
         "anarchy": 3.0,
-        "overall": 7.3
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "GnuPG Warns Critical GPGME Flaw Could Expose App Data via Malicious OpenPGP Keys",
+      "link": "https://thehackernews.com/2026/11/gnupg-warns-critical-gpgme-flaw-could.html",
+      "summary": "A malicious OpenPGP key with an unusually long user ID can trigger a critical memory bug in GPGME, the standard library that programs use to work with GnuPG.\n\nThe GnuPG project warned yesterday that t...",
+      "published": "2026-11-21T16:35:53+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 10.3,
+        "anarchy": 3.0,
+        "overall": 6.6
       },
       "keywords": {
         "chaos": [
@@ -599,11 +533,29 @@
       }
     },
     {
-      "title": "NINLIVE: The Nine Inch Nails live archive",
-      "link": "https://ninlive.com/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=50583274\">Comments</a>...",
-      "published": "2026-11-20T22:30:47+00:00",
-      "domain": "ninlive.com",
+      "title": "Attackers' AI Agents Found a Zero-Day in Medical-Imaging Software and Gained Root Access",
+      "link": "https://thehackernews.com/2026/11/attackers-ai-agents-found-zero-day-in.html",
+      "summary": "Suspected China-linked hackers used autonomous AI agents to find a previously unknown flaw in MONAI Label, an open-source medical imaging server, and gain root access to a university server, Amazon Th...",
+      "published": "2026-11-21T16:33:17+05:30",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 11.8,
+        "overall": 7.4
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": [
+          "autonomous"
+        ]
+      }
+    },
+    {
+      "title": "MySQL Development as It Happens, Part 2 \u2013 Vector Indexes",
+      "link": "https://blogs.oracle.com/mysql/mysql-development-as-it-happens-part-2-vector-indexes",
+      "summary": "<p>Article URL: <a href=\"https://blogs.oracle.com/mysql/mysql-development-as-it-happens-part-2-vector-indexes\">https://blogs.oracle.com/mysql/mysql-development-as-it-happens-part-2-vector-indexes</a><...",
+      "published": "2026-11-21T14:22:17+00:00",
+      "domain": "blogs.oracle.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -615,10 +567,42 @@
       }
     },
     {
-      "title": "Bazuka Android Malware Uses Fake Screen Overlays to Hide Credential Theft and Device Control",
-      "link": "https://thehackernews.com/2026/11/bazuka-android-malware-uses-fake-screen.html",
-      "summary": "Cybersecurity researchers have disclosed details of a previously unknown Android malware framework called Bazuka that offers large language model (LLM) integration for victim management and control at...",
-      "published": "2026-11-20T22:28:16+05:30",
+      "title": "Odin November 2026 Newsletter",
+      "link": "https://odin-lang.org/news/newsletter-2026-11/",
+      "summary": "<p>Article URL: <a href=\"https://odin-lang.org/news/newsletter-2026-11/\">https://odin-lang.org/news/newsletter-2026-11/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50589481\"...",
+      "published": "2026-11-21T14:22:04+00:00",
+      "domain": "odin-lang.org",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Qwen3.8 27B Just Became a Coding Monster (DaisyRose)",
+      "link": "https://www.youtube.com/watch?v=bwsSnLM3YFI",
+      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=bwsSnLM3YFI\">https://www.youtube.com/watch?v=bwsSnLM3YFI</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50589470\">https...",
+      "published": "2026-11-21T14:20:43+00:00",
+      "domain": "youtube.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Signal Blocks AI Agents From Reading Private Chats via Screenshots on Android and iOS",
+      "link": "https://thehackernews.com/2026/11/signal-blocks-ai-agents-from-reading.html",
+      "summary": "Signal has announced that it will restrict screenshots by default to stop artificial intelligence (AI) agents from reading private chats on Android and iOS devices, but conceded that the protection is...",
+      "published": "2026-11-21T14:19:20+05:30",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
@@ -631,11 +615,11 @@
       }
     },
     {
-      "title": "Inkling 2 Mini",
-      "link": "https://thinkingmachines.ai/news/inkling-2-mini/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=50581260\">Comments</a>...",
-      "published": "2026-11-20T20:12:19+00:00",
-      "domain": "thinkingmachines.ai",
+      "title": "Hackers Exploit Critical VMware, Cisco, and Apache Flaws as Espionage Attacks Emerge",
+      "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-vmware-cisco.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added four flaws impacting Apache Roller, Cisco Expressway, SAP NetWeaver, and Broadcom VMware vCenter to its Known Exploited...",
+      "published": "2026-11-21T14:19:13+05:30",
+      "domain": "thehackernews.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -647,11 +631,27 @@
       }
     },
     {
-      "title": "Hurried Announcement: Alessandro Masullo GRH",
-      "link": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=50579568\">Comments</a>...",
-      "published": "2026-11-20T18:33:14+00:00",
-      "domain": "math216.wordpress.com",
+      "title": "Battery storage in Great Britain: how a grid battery makes money",
+      "link": "https://a115.co.uk/battery-storage-revenues/",
+      "summary": "<p>Article URL: <a href=\"https://a115.co.uk/battery-storage-revenues/\">https://a115.co.uk/battery-storage-revenues/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50589452\">htt...",
+      "published": "2026-11-21T14:18:51+00:00",
+      "domain": "a115.co.uk",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Branchi \u2013 Open-Source Git Client for Windows and Linux (Rust and Flutter)",
+      "link": "https://github.com/mbpcoder/Branchi",
+      "summary": "<p>Article URL: <a href=\"https://github.com/mbpcoder/Branchi\">https://github.com/mbpcoder/Branchi</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50589429\">https://news.ycombina...",
+      "published": "2026-11-21T14:16:45+00:00",
+      "domain": "github.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
