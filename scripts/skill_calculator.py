@@ -61,27 +61,42 @@ class CultivationGrimoire:
         """Calculate Qi needed for breakthrough to next level"""
         return self.BASE_QI * (self.QI_MULTIPLIER ** current_level)
     
+    def _realm_span(self, idx):
+        """Number of levels covered by realm idx (realms are contiguous up to 99)"""
+        realms = self.CULTIVATION_REALMS
+        next_min = realms[idx + 1]['min_level'] if idx + 1 < len(realms) else 100
+        return next_min - realms[idx]['min_level']
+    
     def get_cultivation_realm(self, level):
-        """Determine cultivation realm and stage based on level"""
-        for realm in reversed(self.CULTIVATION_REALMS):
+        """Determine cultivation realm and stage based on level.
+        
+        Each realm spans from its min_level up to the next realm's min_level - 1,
+        so there are no gaps or wrap-arounds. The final level of a realm is "Peak".
+        """
+        ordinals = ["1st", "2nd", "3rd", "4th", "5th", "6th", "7th", "8th", "9th", "10th"]
+        level = max(1, min(level, 99))
+        
+        for idx in range(len(self.CULTIVATION_REALMS) - 1, -1, -1):
+            realm = self.CULTIVATION_REALMS[idx]
             if level >= realm['min_level']:
-                stage_in_realm = (level - realm['min_level']) % realm['stages'] + 1
-                stage_names = ["Early", "Middle", "Late", "Peak"] if realm['stages'] <= 4 else \
-                             ["1st", "2nd", "3rd", "4th", "5th", "6th", "7th", "8th", "9th", "Peak"]
-                stage_idx = min(int((stage_in_realm - 1) / realm['stages'] * len(stage_names)), len(stage_names) - 1)
+                span = self._realm_span(idx)
+                stage_in_realm = level - realm['min_level'] + 1  # 1..span
+                stage = "Peak" if stage_in_realm == span else ordinals[stage_in_realm - 1]
                 
                 return {
                     "realm": realm['name'],
-                    "stage": stage_names[stage_idx],
+                    "stage": stage,
                     "emoji": realm['emoji'],
-                    "full_title": f"{realm['emoji']} {stage_names[stage_idx]} {realm['name'].split(' ', 1)[1]}"
+                    "is_peak": stage == "Peak",
+                    "full_title": f"{realm['emoji']} {stage} {realm['name'].split(' ', 1)[1]}"
                 }
         
         return {
             "realm": "🌱 Qi Condensation",
-            "stage": "Early",
+            "stage": "1st",
             "emoji": "🌱",
-            "full_title": "🌱 Early Qi Condensation"
+            "is_peak": False,
+            "full_title": "🌱 1st Qi Condensation"
         }
     
     def get_dao_comprehension(self, level, percentage):
@@ -158,7 +173,9 @@ class CultivationGrimoire:
     
     def calculate_immortal_stats(self, dao_paths):
         """Calculate overall immortal cultivator statistics"""
-        total_qi = sum(d['qi'] for d in dao_paths.values())
+        # Sum exact Qi from bytes rather than the per-language rounded values
+        lang_bytes = self.github_data['languages']['by_bytes']
+        total_qi = sum(self.bytes_to_qi(lang_bytes.get(lang, 0)) for lang in dao_paths)
         avg_level = sum(d['level'] for d in dao_paths.values()) / len(dao_paths) if dao_paths else 1
         max_level = max((d['level'] for d in dao_paths.values()), default=1)
         
@@ -219,10 +236,15 @@ class CultivationGrimoire:
         }
         
         # Dao path categorization
-        yang_paths = ['Python', 'JavaScript', 'TypeScript', 'Java', 'C++', 'C#', 'Go', 'Rust']
-        yin_paths = ['Vue', 'React', 'Angular', 'Svelte', 'HTML', 'CSS', 'SCSS']
-        metal_paths = ['Shell', 'Dockerfile', 'HCL', 'Makefile', 'YAML', 'Bash']
-        void_paths = ['SQL', 'R', 'Julia', 'MATLAB']
+        # Names must match GitHub Linguist language names exactly
+        yang_paths = ['Python', 'JavaScript', 'TypeScript', 'Java', 'C', 'C++', 'C#', 'Go',
+                      'Rust', 'Kotlin', 'Swift', 'PHP', 'Ruby', 'Dart', 'Scala', 'Objective-C']
+        yin_paths = ['Vue', 'Svelte', 'HTML', 'CSS', 'SCSS', 'Sass', 'Less', 'Astro',
+                     'Mako', 'EJS', 'Handlebars', 'Pug', 'Twig', 'Blade']
+        metal_paths = ['Shell', 'PowerShell', 'Batchfile', 'Dockerfile', 'HCL', 'Makefile',
+                       'CMake', 'Nix', 'Procfile', 'Starlark', 'Nginx']
+        void_paths = ['SQL', 'PLpgSQL', 'PLSQL', 'TSQL', 'R', 'Julia', 'MATLAB',
+                      'Jupyter Notebook', 'POV-Ray SDL', 'GLSL', 'Stata', 'SAS']
         
         for lang, data in dao_paths.items():
             if lang in yang_paths:
@@ -240,7 +262,7 @@ class CultivationGrimoire:
     
     def calculate_karmic_merit(self, github_data):
         """Calculate karmic merit from contributions and followers"""
-        contributions = github_data['total_contributions']
+        contributions = github_data.get('total_contributions') or 0
         followers = github_data['followers']
         repos = github_data['repositories']['own']
         
@@ -278,14 +300,15 @@ class CultivationGrimoire:
             "heavenly_records": {
                 "cultivation_streak": streak_data['current'],
                 "longest_seclusion": streak_data['longest'],
-                "total_enlightenments": self.github_data['total_contributions'],
+                # Real contributions in the past year; None when unavailable
+                "total_enlightenments": self.github_data.get('total_contributions'),
                 "dao_disciples": self.github_data['followers'],
                 "created_artifacts": self.github_data['repositories']['own'],
                 "darkest_cultivation_hour": self.github_data['patterns']['darkest_hour']
             },
             "sect_information": {
                 "total_dao_paths": len(dao_paths),
-                "realm_breakthrough_ready": immortal_stats['immortal_level'] % 10 == 9,
+                "realm_breakthrough_ready": self.get_cultivation_realm(immortal_stats['immortal_level'])['is_peak'],
                 "next_tribulation": immortal_stats['tribulation']
             }
         }

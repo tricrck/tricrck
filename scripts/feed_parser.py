@@ -5,16 +5,18 @@ Extracts ancient knowledge from RSS feeds
 """
 
 import os
+import re
+import sys
 import json
 import feedparser
-from datetime import datetime
+from datetime import datetime, timezone
 from dateutil import parser as date_parser
 
 # Add the scoring functions and dictionaries here (before the class)
 CHAOS_KEYWORDS = {
     'brick': 10, 'bricks': 10, 'bricked': 10, 'failure': 8, 'crash': 8, 
     'broken': 7, 'disrupt': 6, 'disruption': 6, 'chaos': 9, 'collapse': 8,
-    'meltdown': 9, 'failure': 7, 'error': 6, 'bug': 5, 'glitch': 5,
+    'meltdown': 9, 'error': 6, 'bug': 5, 'glitch': 5,
     'down': 4, 'outage': 7, 'crisis': 8, 'emergency': 6, 'riot': 9,
     'protest': 7, 'revolt': 8, 'breakdown': 7, 'malfunction': 6
 }
@@ -27,15 +29,20 @@ ANARCHY_KEYWORDS = {
     'counterculture': 7, 'autonomous': 6, 'stateless': 8, 'unregulated': 7
 }
 
+# Keyed by the domain of each article's link (after stripping "www.")
 SOURCE_SCORES = {
+    'thehackernews.com': {'chaos': 6, 'anarchy': 4},
     'arstechnica.com': {'chaos': 6, 'anarchy': 4},
     'schneier.com': {'chaos': 5, 'anarchy': 5},
+    'reddit.com': {'chaos': 4, 'anarchy': 4},
+    'news.ycombinator.com': {'chaos': 4, 'anarchy': 3},
     'techcrunch.com': {'chaos': 3, 'anarchy': 2},
+    'blog.google': {'chaos': 2, 'anarchy': 1},
     'steveblank.com': {'chaos': 2, 'anarchy': 3},
-    'chezsoi.org': {'chaos': 1, 'anarchy': 1},
-    'sqliteonline.com': {'chaos': 1, 'anarchy': 1},
-    'ycombinator.com': {'chaos': 4, 'anarchy': 3}
 }
+
+# Reddit and some other hosts reject feedparser's default user agent
+USER_AGENT = "Mozilla/5.0 (compatible; profile-readme-feed-parser/1.0)"
 
 def extract_domain(url):
     """Extract domain from URL"""
@@ -156,18 +163,26 @@ class FeedNecromancer:
         
         # Add your blog/medium RSS feeds here
         self.feeds = [
-            "https://feeds.feedburner.com/TheHackersNews",  # Your dev.to feed
-            "https://news.ycombinator.com/rss",  # Your Medium feed
-            "https://hnrss.org/newest",  # Ars Technica
-            "https://blog.google/technology/ai/rss/",  # Schneier on Security
-            "https://www.reddit.com/r/technology/.rss"  # TechCrunch
+            "https://feeds.feedburner.com/TheHackersNews",  # The Hacker News
+            "https://news.ycombinator.com/rss",  # Hacker News front page
+            "https://hnrss.org/newest",  # Hacker News newest
+            "https://blog.google/technology/ai/rss/",  # Google AI blog
+            "https://www.reddit.com/r/technology/.rss"  # r/technology
         ]
     
+    @staticmethod
+    def clean_summary(text, limit=200):
+        """Strip HTML and truncate, adding an ellipsis only when cut"""
+        import html
+        text = html.unescape(re.sub(r'<[^>]+>', ' ', text or ''))
+        text = re.sub(r'\s+', ' ', text).strip()
+        return text if len(text) <= limit else text[:limit].rstrip() + '...'
+
     def parse_feed(self, feed_url):
         """Parse a single RSS feed"""
         try:
             print(f"📖 Reading scroll: {feed_url}")
-            feed = feedparser.parse(feed_url)
+            feed = feedparser.parse(feed_url, agent=USER_AGENT)
             
             articles = []
             for entry in feed.entries[:5]:  # Get last 5 articles
@@ -178,11 +193,16 @@ class FeedNecromancer:
                         pub_date = date_parser.parse(entry.published)
                     elif hasattr(entry, 'updated'):
                         pub_date = date_parser.parse(entry.updated)
+                    # Normalise to UTC so ISO strings sort correctly across feeds
+                    if pub_date is not None:
+                        if pub_date.tzinfo is None:
+                            pub_date = pub_date.replace(tzinfo=timezone.utc)
+                        pub_date = pub_date.astimezone(timezone.utc)
                     
                     article = {
                         "title": entry.get('title', 'Untitled Scroll'),
                         "link": entry.get('link', '#'),
-                        "summary": entry.get('summary', '')[:200] + '...',
+                        "summary": self.clean_summary(entry.get('summary', '')),
                         "published": pub_date.isoformat() if pub_date else None,
                         "tags": [tag.term for tag in entry.get('tags', [])]
                     }
@@ -252,7 +272,13 @@ def main():
         print("   ANALYZING FOR CHAOS & ANARCHY")
         print("🧨" * 40)
         
+        if not data['articles']:
+            print("\n⚠️ No articles fetched from any feed - keeping existing blog_posts.json")
+            return 0
+        
         analysis = analyze_articles(data['articles'])
+        analysis['last_updated'] = data['last_updated']
+        analysis['stats'] = data['stats']
         print_analysis_results(analysis)
         
         # Print summary statistics
@@ -287,6 +313,4 @@ def main():
         return 1
 
 if __name__ == "__main__":
-    import re  # Make sure re is imported for the regex functions
-    import sys
     sys.exit(main())

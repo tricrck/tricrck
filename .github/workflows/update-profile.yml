@@ -6,6 +6,14 @@ on:
   workflow_dispatch:  # Manual dark invocation
   push:
     branches: [main]
+    paths-ignore:  # don't re-run for the bot's own generated output
+      - 'data/**'
+      - 'assets/**'
+      - 'README.md'
+
+concurrency:  # never let two runs race on the same commit/push
+  group: update-profile
+  cancel-in-progress: false
 
 jobs:
   summon-data:
@@ -31,6 +39,7 @@ jobs:
           pip install -r scripts/requirements.txt
           
       - name: 🔮 Scrape GitHub necromancy
+        continue-on-error: true  # fall back to the last committed github_data.json
         env:
           GITHUB_TOKEN: ${{ secrets.GIT_TOKEN }}
           GITHUB_USERNAME: ${{ github.repository_owner }}
@@ -38,6 +47,7 @@ jobs:
           python scripts/github_scrapper.py
           
       - name: 📜 Parse RSS dark scrolls
+        continue-on-error: true  # a dead feed shouldn't block the README update
         run: |
           python scripts/feed_parser.py
       
@@ -62,7 +72,6 @@ jobs:
             git commit -m "🦇 Dark ritual complete - $(date +'%Y-%m-%d %H:%M:%S')"
           
       - name: ⚰️ Push to eternal darkness
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: main
+        run: |
+          git pull --rebase origin main
+          git push origin HEAD:main

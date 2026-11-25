@@ -557,7 +557,9 @@ class SVGGenerator:
             ("Cultivation", f"L{stats['immortal_level']}", stats['cultivation_realm']),
             ("Dao Paths", f"{stats['total_dao_paths']}", "Languages Mastered"),
             ("Strongest", f"L{stats['strongest_dao_level']}", "Highest Dao Level"),
-            ("Projects", f"{heavenly['total_enlightenments']}", "Total Enlightenments"),
+            ("Contributions",
+             f"{heavenly['total_enlightenments']:,}" if heavenly.get('total_enlightenments') is not None else "—",
+             "Past Year"),
             ("Artifacts", f"{heavenly['created_artifacts']}", "Repositories Created")
         ]
         
