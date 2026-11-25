@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-11T10:50:52.358571",
+  "last_updated": "2026-11-25T15:13:29.595398+00:00",
   "username": "tricrck",
   "profile_url": "https://github.com/tricrck",
   "languages": {
@@ -9,21 +9,22 @@
       "Makefile": 1,
       "CMake": 1,
       "TypeScript": 7,
-      "Shell": 2,
+      "Shell": 3,
       "C#": 2,
-      "HTML": 14,
-      "CSS": 13,
-      "JavaScript": 11,
+      "HTML": 18,
+      "CSS": 14,
+      "JavaScript": 12,
       "C++": 1,
-      "Python": 11,
+      "Python": 15,
       "Vue": 3,
-      "Dockerfile": 1,
+      "Dockerfile": 2,
       "Swift": 1,
       "Java": 1,
       "PLpgSQL": 2,
       "R": 1,
       "SCSS": 1,
       "Procfile": 1,
+      "Jupyter Notebook": 1,
       "Mako": 1
     },
     "by_bytes": {
@@ -32,66 +33,135 @@
       "Makefile": 46241,
       "CMake": 8231,
       "TypeScript": 825103,
-      "Shell": 6746,
+      "Shell": 9235,
       "C#": 466127,
-      "HTML": 111138140,
-      "CSS": 107144,
-      "JavaScript": 2197240,
+      "HTML": 3540597,
+      "CSS": 141515,
+      "JavaScript": 1925622,
       "C++": 4748,
-      "Python": 518822,
+      "Python": 1609493,
       "Vue": 172829,
-      "Dockerfile": 555,
+      "Dockerfile": 1297,
       "Swift": 6348,
       "Java": 19169,
       "PLpgSQL": 18614,
       "R": 101125,
       "SCSS": 32307,
       "Procfile": 51,
+      "Jupyter Notebook": 129381,
       "Mako": 494
-    }
+    },
+    "by_bytes_raw": {
+      "POV-Ray SDL": 85838,
+      "C": 49666,
+      "Makefile": 46241,
+      "CMake": 8231,
+      "TypeScript": 825103,
+      "Shell": 9235,
+      "C#": 466127,
+      "HTML": 119439220,
+      "CSS": 141515,
+      "JavaScript": 2201542,
+      "C++": 4748,
+      "Python": 1609493,
+      "Vue": 172829,
+      "Dockerfile": 1297,
+      "Swift": 6348,
+      "Java": 19169,
+      "PLpgSQL": 18614,
+      "R": 101125,
+      "SCSS": 32307,
+      "Procfile": 51,
+      "Jupyter Notebook": 129381,
+      "Mako": 494
+    },
+    "cap_per_repo": 1000000,
+    "capped": [
+      {
+        "repo": "Malware-Analysis",
+        "language": "HTML",
+        "raw_bytes": 110127084,
+        "counted_bytes": 1000000
+      },
+      {
+        "repo": "Money-manager-frontend",
+        "language": "JavaScript",
+        "raw_bytes": 1275920,
+        "counted_bytes": 1000000
+      },
+      {
+        "repo": "uapts_guide",
+        "language": "HTML",
+        "raw_bytes": 7771539,
+        "counted_bytes": 1000000
+      }
+    ]
   },
   "streaks": {
-    "current": 1,
-    "longest": 3,
-    "total_days": 6
+    "current": 75,
+    "longest": 195,
+    "total_days": 362,
+    "source": "contribution_calendar"
   },
   "patterns": {
+    "timezone": "UTC",
     "hour_distribution": {
-      "9": 11,
-      "12": 12,
-      "16": 3,
-      "11": 8,
-      "10": 6,
+      "15": 4,
+      "7": 3,
+      "10": 13,
+      "22": 3,
+      "18": 9,
+      "11": 11,
+      "12": 14,
       "13": 8,
+      "19": 3,
+      "6": 5,
+      "3": 2,
+      "2": 1,
+      "14": 4,
+      "9": 7,
       "17": 5,
-      "6": 4,
-      "15": 2,
-      "14": 5,
-      "1": 2,
-      "5": 3,
-      "7": 1,
-      "19": 1,
-      "21": 1
+      "16": 4,
+      "21": 3,
+      "8": 6,
+      "0": 2,
+      "5": 2,
+      "20": 1
     },
     "day_distribution": {
-      "Wednesday": 13,
-      "Monday": 15,
-      "Friday": 11,
-      "Sunday": 10,
-      "Saturday": 8,
-      "Thursday": 9,
-      "Tuesday": 6
+      "Wednesday": 10,
+      "Thursday": 20,
+      "Tuesday": 16,
+      "Saturday": 18,
+      "Monday": 18,
+      "Friday": 19,
+      "Sunday": 9
     },
     "darkest_hour": 12
   },
   "repositories": {
-    "total": 37,
-    "own": 33,
+    "total": 42,
+    "own": 38,
     "forked": 4,
-    "total_stars": 0,
+    "total_stars": 2,
     "total_forks": 0,
-    "languages": {},
     "top_repos": [
+      {
+        "name": "tricrck",
+        "stars": 1,
+        "forks": 0,
+        "language": "Python",
+        "url": "https://github.com/tricrck/tricrck",
+        "description": "Cringe AF not gonna lie "
+      },
+      {
+        "name": "working-public-proxies",
+        "stars": 1,
+        "forks": 0,
+        "language": "Python",
+        "url": "https://github.com/tricrck/working-public-proxies",
+        "description": "\ud83c\udf0d Automated proxy checker that tests free proxies and ranks countries by availability. Updated every 6 hours via GitHub Actions. Lists working proxies by country with response times and anonymity levels. Perfect for finding reliable proxy sources by region."
+      },
       {
         "name": "-MOLECULAR-DYNAMICS-SIMULATION",
         "stars": 0,
@@ -115,26 +185,13 @@
         "language": "C++",
         "url": "https://github.com/tricrck/Air-pollution-monitoring",
         "description": "Arduino IoT based Air pollution monitoring"
-      },
-      {
-        "name": "Bitcoin-Dashboard",
-        "stars": 0,
-        "forks": 0,
-        "language": "Python",
-        "url": "https://github.com/tricrck/Bitcoin-Dashboard",
-        "description": "Ancient code without description"
-      },
-      {
-        "name": "Building-Management",
-        "stars": 0,
-        "forks": 0,
-        "language": "Python",
-        "url": "https://github.com/tricrck/Building-Management",
-        "description": "Manage Buildings, Apartments and Tenants"
       }
     ]
   },
-  "total_contributions": 37,
-  "followers": 9,
+  "total_contributions": 1659,
+  "contributions_period": "past_year",
+  "public_repos": 42,
+  "public_gists": 0,
+  "followers": 8,
   "following": 6
 }

@@ -12,24 +12,19 @@
 
 ---
 
----
-
 ## 🚨 Tech Stories
 
-### Meta Expands WhatsApp Security Research with New Proxy Tool and $4M in Bounties This Year
-- **Published**: November 18, 2025
-- **Summary**: Meta on Tuesday said it has made available a tool called WhatsApp Research Proxy to some of its long-time bug bounty researchers to help improve the p...
-- **Keywords**: bug
-- [Read more](https://thehackernews.com/2025/11/meta-expands-whatsapp-security-research.html)
+### Hackers Exploit Two GeoServer Flaws as Researchers Warn of Unauthenticated RCE Chains
+- **Published**: November 25, 2026
+- **Summary**: Threat actors are actively exploiting two newly patched security flaws in GeoServer, according to watchTowr. The vulnerabilities in question are CVE-2...
+- [Read more](https://thehackernews.com/2026/11/hackers-exploit-two-geoserver-flaws-as.html)
 
-### Sneaky 2FA Phishing Kit Adds BitB Pop-ups Designed to Mimic the Browser Address Bar
-- **Published**: November 19, 2025
-- **Summary**: The malware authors associated with a Phishing-as-a-Service (PhaaS) kit known as Sneaky 2FA have incorporated Browser-in-the-Browser (BitB) functional...
-- [Read more](https://thehackernews.com/2025/11/sneaky-2fa-phishing-kit-adds-bitb-pop.html)
+### U.S. Treasury's Financial Crimes Agency Takes Some Systems Offline After Cyber Intrusion
+- **Published**: November 25, 2026
+- **Summary**: The U.S. Treasury Department's Financial Crimes Enforcement Network (FinCEN) has been hit by a cybersecurity incident that resulted in "unauthorized a...
+- [Read more](https://thehackernews.com/2026/11/us-treasurys-fincen-takes-some-systems.html)
 
 ---
-
-
 
 ### 🔮 Elemental Affinities
 
