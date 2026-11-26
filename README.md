@@ -14,15 +14,15 @@
 
 ## 🚨 Tech Stories
 
-### Hackers Exploit Two GeoServer Flaws as Researchers Warn of Unauthenticated RCE Chains
-- **Published**: November 25, 2026
-- **Summary**: Threat actors are actively exploiting two newly patched security flaws in GeoServer, according to watchTowr. The vulnerabilities in question are CVE-2...
-- [Read more](https://thehackernews.com/2026/11/hackers-exploit-two-geoserver-flaws-as.html)
+### 1Password Hacked, Customer Data and Source Code Stolen in GitHub Account Breach
+- **Published**: November 26, 2026
+- **Summary**: Popular password management software 1Password on Wednesday disclosed a security incident involving its backend systems that led to the unauthorized a...
+- [Read more](https://thehackernews.com/2026/11/1password-hacked-customer-data-and.html)
 
-### U.S. Treasury's Financial Crimes Agency Takes Some Systems Offline After Cyber Intrusion
-- **Published**: November 25, 2026
-- **Summary**: The U.S. Treasury Department's Financial Crimes Enforcement Network (FinCEN) has been hit by a cybersecurity incident that resulted in "unauthorized a...
-- [Read more](https://thehackernews.com/2026/11/us-treasurys-fincen-takes-some-systems.html)
+### 13 Malicious NuGet Packages Turn Fake .NET Job Assessments Into Malware Delivery Traps
+- **Published**: November 26, 2026
+- **Summary**: Cybersecurity researchers have discovered 13 malicious NuGet packages that are designed to target Windows .NET developers under the guise of a fake ta...
+- [Read more](https://thehackernews.com/2026/11/13-malicious-nuget-packages-turn-fake.html)
 
 ---
 
