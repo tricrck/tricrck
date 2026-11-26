@@ -1,10 +1,10 @@
 {
   "chaos_ranked": [
     {
-      "title": "1Password Hacked, Customer Data and Source Code Stolen in GitHub Account Breach",
-      "link": "https://thehackernews.com/2026/11/1password-hacked-customer-data-and.html",
-      "summary": "Popular password management software 1Password on Wednesday disclosed a security incident involving its backend systems that led to the unauthorized access of some customer information, but emphasized...",
-      "published": "2026-11-26T04:20:22+00:00",
+      "title": "ThreatsDay: 10M NGINX Services at Risk, 250+ Malicious Extensions, AI Server Hijacking + 17 More Stories",
+      "link": "https://thehackernews.com/2026/11/threatsday-250-rogue-extensions-10m.html",
+      "summary": "A website can look perfectly fine to the person running it. Log out, visit the same page, and things might look different. Something similar is happening with browser extensions, where even the way yo...",
+      "published": "2026-11-26T19:39:57+00:00",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 18.0,
@@ -17,59 +17,11 @@
       }
     },
     {
-      "title": "13 Malicious NuGet Packages Turn Fake .NET Job Assessments Into Malware Delivery Traps",
-      "link": "https://thehackernews.com/2026/11/13-malicious-nuget-packages-turn-fake.html",
-      "summary": "Cybersecurity researchers have discovered 13 malicious NuGet packages that are designed to target Windows .NET developers under the guise of a fake take-home job assessment. \"Most of the packages pose...",
-      "published": "2026-11-26T03:48:52+00:00",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 18.0,
-        "anarchy": 12.0,
-        "overall": 15.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Stanford Physicist working with Astra 6 has algebraically Quantized Gravity",
-      "link": "https://www.reddit.com/r/singularity/comments/1y5u17u/standford_physicist_venkatesa_chandraeskaran/",
-      "summary": "Article URL: https://www.reddit.com/r/singularity/comments/1y5u17u/standford_physicist_venkatesa_chandraeskaran/ Comments URL: https://news.ycombinator.com/item?id=50652368 Points: 1 # Comments: 0",
-      "published": "2026-11-26T07:05:37+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 12.0,
-        "anarchy": 12.0,
-        "overall": 12.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The MacBook Pro's OLED PWM problem: when a 'better' display becomes worse to use",
-      "link": "https://www.reddit.com/r/macbookpro/comments/1xwrfh5/the_macbook_pros_oled_pwm_problem_when_a_better/",
-      "summary": "Article URL: https://www.reddit.com/r/macbookpro/comments/1xwrfh5/the_macbook_pros_oled_pwm_problem_when_a_better/ Comments URL: https://news.ycombinator.com/item?id=50652360 Points: 1 # Comments: 0",
-      "published": "2026-11-26T07:04:34+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 12.0,
-        "anarchy": 12.0,
-        "overall": 12.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Mirror life is dangerous. Regulators must act before it becomes real",
-      "link": "https://www.economist.com/leaders/2026/10/01/mirror-life-is-dangerous-regulators-must-act-before-it-becomes-real",
-      "summary": "Article URL: https://www.economist.com/leaders/2026/10/01/mirror-life-is-dangerous-regulators-must-act-before-it-becomes-real Comments URL: https://news.ycombinator.com/item?id=50652370 Points: 1 # Co...",
-      "published": "2026-11-26T07:05:59+00:00",
-      "domain": "economist.com",
+      "title": "Project Loki: ICMP Tunneling",
+      "link": "https://phrack.org/issues/49/project-loki-icmp-tunneling",
+      "summary": "Article URL: https://phrack.org/issues/49/project-loki-icmp-tunneling Comments URL: https://news.ycombinator.com/item?id=50659706 Points: 1 # Comments: 0",
+      "published": "2026-11-26T20:56:36+00:00",
+      "domain": "phrack.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -81,10 +33,26 @@
       }
     },
     {
-      "title": "EVST \u2013 A higher-level, event-driven API for NgRx Store and Redux Toolkit",
-      "link": "https://github.com/fredyang/evst",
-      "summary": "Article URL: https://github.com/fredyang/evst Comments URL: https://news.ycombinator.com/item?id=50652334 Points: 1 # Comments: 0",
-      "published": "2026-11-26T06:58:41+00:00",
+      "title": "Show HN: AgentDesign \u2013 Make your coding agent draw each screen before it codes",
+      "link": "https://getagentdesign.com/",
+      "summary": "Article URL: https://getagentdesign.com/ Comments URL: https://news.ycombinator.com/item?id=50659697 Points: 1 # Comments: 0",
+      "published": "2026-11-26T20:55:36+00:00",
+      "domain": "getagentdesign.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: OIM \u2013 Multilingual interactive images inside a signed PNG (Apache-2.0)",
+      "link": "https://github.com/oim-media/oim",
+      "summary": "Article URL: https://github.com/oim-media/oim Comments URL: https://news.ycombinator.com/item?id=50659669 Points: 1 # Comments: 0",
+      "published": "2026-11-26T20:52:40+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -97,10 +65,58 @@
       }
     },
     {
-      "title": "KeePassium: KeePass-compatible password manager for iOS and macOS",
-      "link": "https://github.com/keepassium/KeePassium",
-      "summary": "Article URL: https://github.com/keepassium/KeePassium Comments URL: https://news.ycombinator.com/item?id=50652325 Points: 1 # Comments: 0",
-      "published": "2026-11-26T06:56:44+00:00",
+      "title": "Chinese models do not overthink, Gemini 4 Neon does",
+      "link": "https://micjm.com/blog/do-chinese-models-overthink-compared-to-american-ones/",
+      "summary": "Article URL: https://micjm.com/blog/do-chinese-models-overthink-compared-to-american-ones/ Comments URL: https://news.ycombinator.com/item?id=50659643 Points: 1 # Comments: 0",
+      "published": "2026-11-26T20:50:05+00:00",
+      "domain": "micjm.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Company Culture = Slack Emoji \u00f7 \u221aHeadcount",
+      "link": "https://lia.mg/posts/measuring-company-culture-with-slack-emoji/",
+      "summary": "Article URL: https://lia.mg/posts/measuring-company-culture-with-slack-emoji/ Comments URL: https://news.ycombinator.com/item?id=50659640 Points: 1 # Comments: 0",
+      "published": "2026-11-26T20:49:49+00:00",
+      "domain": "lia.mg",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The USA as a Civilizations-esque map",
+      "link": "https://karpathy.ai/usaciv/",
+      "summary": "Comments",
+      "published": "2026-11-26T19:53:58+00:00",
+      "domain": "karpathy.ai",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Fuck_data_brokers.py",
+      "link": "https://github.com/gary23w/f-ck_data_brokers",
+      "summary": "Comments",
+      "published": "2026-11-26T18:37:21+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -113,11 +129,11 @@
       }
     },
     {
-      "title": "Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years",
-      "link": "https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/",
+      "title": "CTO of 'RansomwareHelp' Indicted for Wire Fraud",
+      "link": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
       "summary": "Comments",
-      "published": "2026-11-26T05:12:59+00:00",
-      "domain": "fosscomics.com",
+      "published": "2026-11-26T17:47:45+00:00",
+      "domain": "krebsonsecurity.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -129,26 +145,10 @@
       }
     },
     {
-      "title": "Minipg: PostgreSQL as a Single Executable",
-      "link": "https://progrium.github.io/minipg/",
+      "title": "YouTube Ad Punisher \u2013 Auto-reloads YouTube pages when an ad plays",
+      "link": "https://github.com/antonpictures/youtube-punisher",
       "summary": "Comments",
-      "published": "2026-11-26T03:00:48+00:00",
-      "domain": "progrium.github.io",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Much shorter version of GRH Lean verification from Anthropic",
-      "link": "https://github.com/lsernau/grh-lean",
-      "summary": "Comments",
-      "published": "2026-11-25T21:48:10+00:00",
+      "published": "2026-11-26T17:36:47+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -163,42 +163,10 @@
   ],
   "anarchy_ranked": [
     {
-      "title": "Stanford Physicist working with Astra 6 has algebraically Quantized Gravity",
-      "link": "https://www.reddit.com/r/singularity/comments/1y5u17u/standford_physicist_venkatesa_chandraeskaran/",
-      "summary": "Article URL: https://www.reddit.com/r/singularity/comments/1y5u17u/standford_physicist_venkatesa_chandraeskaran/ Comments URL: https://news.ycombinator.com/item?id=50652368 Points: 1 # Comments: 0",
-      "published": "2026-11-26T07:05:37+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 12.0,
-        "anarchy": 12.0,
-        "overall": 12.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The MacBook Pro's OLED PWM problem: when a 'better' display becomes worse to use",
-      "link": "https://www.reddit.com/r/macbookpro/comments/1xwrfh5/the_macbook_pros_oled_pwm_problem_when_a_better/",
-      "summary": "Article URL: https://www.reddit.com/r/macbookpro/comments/1xwrfh5/the_macbook_pros_oled_pwm_problem_when_a_better/ Comments URL: https://news.ycombinator.com/item?id=50652360 Points: 1 # Comments: 0",
-      "published": "2026-11-26T07:04:34+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 12.0,
-        "anarchy": 12.0,
-        "overall": 12.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "1Password Hacked, Customer Data and Source Code Stolen in GitHub Account Breach",
-      "link": "https://thehackernews.com/2026/11/1password-hacked-customer-data-and.html",
-      "summary": "Popular password management software 1Password on Wednesday disclosed a security incident involving its backend systems that led to the unauthorized access of some customer information, but emphasized...",
-      "published": "2026-11-26T04:20:22+00:00",
+      "title": "ThreatsDay: 10M NGINX Services at Risk, 250+ Malicious Extensions, AI Server Hijacking + 17 More Stories",
+      "link": "https://thehackernews.com/2026/11/threatsday-250-rogue-extensions-10m.html",
+      "summary": "A website can look perfectly fine to the person running it. Log out, visit the same page, and things might look different. Something similar is happening with browser extensions, where even the way yo...",
+      "published": "2026-11-26T19:39:57+00:00",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 18.0,
@@ -211,27 +179,11 @@
       }
     },
     {
-      "title": "13 Malicious NuGet Packages Turn Fake .NET Job Assessments Into Malware Delivery Traps",
-      "link": "https://thehackernews.com/2026/11/13-malicious-nuget-packages-turn-fake.html",
-      "summary": "Cybersecurity researchers have discovered 13 malicious NuGet packages that are designed to target Windows .NET developers under the guise of a fake take-home job assessment. \"Most of the packages pose...",
-      "published": "2026-11-26T03:48:52+00:00",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 18.0,
-        "anarchy": 12.0,
-        "overall": 15.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Mirror life is dangerous. Regulators must act before it becomes real",
-      "link": "https://www.economist.com/leaders/2026/10/01/mirror-life-is-dangerous-regulators-must-act-before-it-becomes-real",
-      "summary": "Article URL: https://www.economist.com/leaders/2026/10/01/mirror-life-is-dangerous-regulators-must-act-before-it-becomes-real Comments URL: https://news.ycombinator.com/item?id=50652370 Points: 1 # Co...",
-      "published": "2026-11-26T07:05:59+00:00",
-      "domain": "economist.com",
+      "title": "Project Loki: ICMP Tunneling",
+      "link": "https://phrack.org/issues/49/project-loki-icmp-tunneling",
+      "summary": "Article URL: https://phrack.org/issues/49/project-loki-icmp-tunneling Comments URL: https://news.ycombinator.com/item?id=50659706 Points: 1 # Comments: 0",
+      "published": "2026-11-26T20:56:36+00:00",
+      "domain": "phrack.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -243,10 +195,26 @@
       }
     },
     {
-      "title": "EVST \u2013 A higher-level, event-driven API for NgRx Store and Redux Toolkit",
-      "link": "https://github.com/fredyang/evst",
-      "summary": "Article URL: https://github.com/fredyang/evst Comments URL: https://news.ycombinator.com/item?id=50652334 Points: 1 # Comments: 0",
-      "published": "2026-11-26T06:58:41+00:00",
+      "title": "Show HN: AgentDesign \u2013 Make your coding agent draw each screen before it codes",
+      "link": "https://getagentdesign.com/",
+      "summary": "Article URL: https://getagentdesign.com/ Comments URL: https://news.ycombinator.com/item?id=50659697 Points: 1 # Comments: 0",
+      "published": "2026-11-26T20:55:36+00:00",
+      "domain": "getagentdesign.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: OIM \u2013 Multilingual interactive images inside a signed PNG (Apache-2.0)",
+      "link": "https://github.com/oim-media/oim",
+      "summary": "Article URL: https://github.com/oim-media/oim Comments URL: https://news.ycombinator.com/item?id=50659669 Points: 1 # Comments: 0",
+      "published": "2026-11-26T20:52:40+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -259,10 +227,58 @@
       }
     },
     {
-      "title": "KeePassium: KeePass-compatible password manager for iOS and macOS",
-      "link": "https://github.com/keepassium/KeePassium",
-      "summary": "Article URL: https://github.com/keepassium/KeePassium Comments URL: https://news.ycombinator.com/item?id=50652325 Points: 1 # Comments: 0",
-      "published": "2026-11-26T06:56:44+00:00",
+      "title": "Chinese models do not overthink, Gemini 4 Neon does",
+      "link": "https://micjm.com/blog/do-chinese-models-overthink-compared-to-american-ones/",
+      "summary": "Article URL: https://micjm.com/blog/do-chinese-models-overthink-compared-to-american-ones/ Comments URL: https://news.ycombinator.com/item?id=50659643 Points: 1 # Comments: 0",
+      "published": "2026-11-26T20:50:05+00:00",
+      "domain": "micjm.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Company Culture = Slack Emoji \u00f7 \u221aHeadcount",
+      "link": "https://lia.mg/posts/measuring-company-culture-with-slack-emoji/",
+      "summary": "Article URL: https://lia.mg/posts/measuring-company-culture-with-slack-emoji/ Comments URL: https://news.ycombinator.com/item?id=50659640 Points: 1 # Comments: 0",
+      "published": "2026-11-26T20:49:49+00:00",
+      "domain": "lia.mg",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The USA as a Civilizations-esque map",
+      "link": "https://karpathy.ai/usaciv/",
+      "summary": "Comments",
+      "published": "2026-11-26T19:53:58+00:00",
+      "domain": "karpathy.ai",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Fuck_data_brokers.py",
+      "link": "https://github.com/gary23w/f-ck_data_brokers",
+      "summary": "Comments",
+      "published": "2026-11-26T18:37:21+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -275,11 +291,11 @@
       }
     },
     {
-      "title": "Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years",
-      "link": "https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/",
+      "title": "CTO of 'RansomwareHelp' Indicted for Wire Fraud",
+      "link": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
       "summary": "Comments",
-      "published": "2026-11-26T05:12:59+00:00",
-      "domain": "fosscomics.com",
+      "published": "2026-11-26T17:47:45+00:00",
+      "domain": "krebsonsecurity.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -291,26 +307,10 @@
       }
     },
     {
-      "title": "Minipg: PostgreSQL as a Single Executable",
-      "link": "https://progrium.github.io/minipg/",
+      "title": "YouTube Ad Punisher \u2013 Auto-reloads YouTube pages when an ad plays",
+      "link": "https://github.com/antonpictures/youtube-punisher",
       "summary": "Comments",
-      "published": "2026-11-26T03:00:48+00:00",
-      "domain": "progrium.github.io",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Much shorter version of GRH Lean verification from Anthropic",
-      "link": "https://github.com/lsernau/grh-lean",
-      "summary": "Comments",
-      "published": "2026-11-25T21:48:10+00:00",
+      "published": "2026-11-26T17:36:47+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -325,10 +325,10 @@
   ],
   "overall_ranked": [
     {
-      "title": "1Password Hacked, Customer Data and Source Code Stolen in GitHub Account Breach",
-      "link": "https://thehackernews.com/2026/11/1password-hacked-customer-data-and.html",
-      "summary": "Popular password management software 1Password on Wednesday disclosed a security incident involving its backend systems that led to the unauthorized access of some customer information, but emphasized...",
-      "published": "2026-11-26T04:20:22+00:00",
+      "title": "ThreatsDay: 10M NGINX Services at Risk, 250+ Malicious Extensions, AI Server Hijacking + 17 More Stories",
+      "link": "https://thehackernews.com/2026/11/threatsday-250-rogue-extensions-10m.html",
+      "summary": "A website can look perfectly fine to the person running it. Log out, visit the same page, and things might look different. Something similar is happening with browser extensions, where even the way yo...",
+      "published": "2026-11-26T19:39:57+00:00",
       "domain": "thehackernews.com",
       "scores": {
         "chaos": 18.0,
@@ -341,59 +341,11 @@
       }
     },
     {
-      "title": "13 Malicious NuGet Packages Turn Fake .NET Job Assessments Into Malware Delivery Traps",
-      "link": "https://thehackernews.com/2026/11/13-malicious-nuget-packages-turn-fake.html",
-      "summary": "Cybersecurity researchers have discovered 13 malicious NuGet packages that are designed to target Windows .NET developers under the guise of a fake take-home job assessment. \"Most of the packages pose...",
-      "published": "2026-11-26T03:48:52+00:00",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 18.0,
-        "anarchy": 12.0,
-        "overall": 15.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Stanford Physicist working with Astra 6 has algebraically Quantized Gravity",
-      "link": "https://www.reddit.com/r/singularity/comments/1y5u17u/standford_physicist_venkatesa_chandraeskaran/",
-      "summary": "Article URL: https://www.reddit.com/r/singularity/comments/1y5u17u/standford_physicist_venkatesa_chandraeskaran/ Comments URL: https://news.ycombinator.com/item?id=50652368 Points: 1 # Comments: 0",
-      "published": "2026-11-26T07:05:37+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 12.0,
-        "anarchy": 12.0,
-        "overall": 12.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "The MacBook Pro's OLED PWM problem: when a 'better' display becomes worse to use",
-      "link": "https://www.reddit.com/r/macbookpro/comments/1xwrfh5/the_macbook_pros_oled_pwm_problem_when_a_better/",
-      "summary": "Article URL: https://www.reddit.com/r/macbookpro/comments/1xwrfh5/the_macbook_pros_oled_pwm_problem_when_a_better/ Comments URL: https://news.ycombinator.com/item?id=50652360 Points: 1 # Comments: 0",
-      "published": "2026-11-26T07:04:34+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 12.0,
-        "anarchy": 12.0,
-        "overall": 12.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Mirror life is dangerous. Regulators must act before it becomes real",
-      "link": "https://www.economist.com/leaders/2026/10/01/mirror-life-is-dangerous-regulators-must-act-before-it-becomes-real",
-      "summary": "Article URL: https://www.economist.com/leaders/2026/10/01/mirror-life-is-dangerous-regulators-must-act-before-it-becomes-real Comments URL: https://news.ycombinator.com/item?id=50652370 Points: 1 # Co...",
-      "published": "2026-11-26T07:05:59+00:00",
-      "domain": "economist.com",
+      "title": "Project Loki: ICMP Tunneling",
+      "link": "https://phrack.org/issues/49/project-loki-icmp-tunneling",
+      "summary": "Article URL: https://phrack.org/issues/49/project-loki-icmp-tunneling Comments URL: https://news.ycombinator.com/item?id=50659706 Points: 1 # Comments: 0",
+      "published": "2026-11-26T20:56:36+00:00",
+      "domain": "phrack.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -405,10 +357,26 @@
       }
     },
     {
-      "title": "EVST \u2013 A higher-level, event-driven API for NgRx Store and Redux Toolkit",
-      "link": "https://github.com/fredyang/evst",
-      "summary": "Article URL: https://github.com/fredyang/evst Comments URL: https://news.ycombinator.com/item?id=50652334 Points: 1 # Comments: 0",
-      "published": "2026-11-26T06:58:41+00:00",
+      "title": "Show HN: AgentDesign \u2013 Make your coding agent draw each screen before it codes",
+      "link": "https://getagentdesign.com/",
+      "summary": "Article URL: https://getagentdesign.com/ Comments URL: https://news.ycombinator.com/item?id=50659697 Points: 1 # Comments: 0",
+      "published": "2026-11-26T20:55:36+00:00",
+      "domain": "getagentdesign.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: OIM \u2013 Multilingual interactive images inside a signed PNG (Apache-2.0)",
+      "link": "https://github.com/oim-media/oim",
+      "summary": "Article URL: https://github.com/oim-media/oim Comments URL: https://news.ycombinator.com/item?id=50659669 Points: 1 # Comments: 0",
+      "published": "2026-11-26T20:52:40+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -421,10 +389,58 @@
       }
     },
     {
-      "title": "KeePassium: KeePass-compatible password manager for iOS and macOS",
-      "link": "https://github.com/keepassium/KeePassium",
-      "summary": "Article URL: https://github.com/keepassium/KeePassium Comments URL: https://news.ycombinator.com/item?id=50652325 Points: 1 # Comments: 0",
-      "published": "2026-11-26T06:56:44+00:00",
+      "title": "Chinese models do not overthink, Gemini 4 Neon does",
+      "link": "https://micjm.com/blog/do-chinese-models-overthink-compared-to-american-ones/",
+      "summary": "Article URL: https://micjm.com/blog/do-chinese-models-overthink-compared-to-american-ones/ Comments URL: https://news.ycombinator.com/item?id=50659643 Points: 1 # Comments: 0",
+      "published": "2026-11-26T20:50:05+00:00",
+      "domain": "micjm.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Company Culture = Slack Emoji \u00f7 \u221aHeadcount",
+      "link": "https://lia.mg/posts/measuring-company-culture-with-slack-emoji/",
+      "summary": "Article URL: https://lia.mg/posts/measuring-company-culture-with-slack-emoji/ Comments URL: https://news.ycombinator.com/item?id=50659640 Points: 1 # Comments: 0",
+      "published": "2026-11-26T20:49:49+00:00",
+      "domain": "lia.mg",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The USA as a Civilizations-esque map",
+      "link": "https://karpathy.ai/usaciv/",
+      "summary": "Comments",
+      "published": "2026-11-26T19:53:58+00:00",
+      "domain": "karpathy.ai",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Fuck_data_brokers.py",
+      "link": "https://github.com/gary23w/f-ck_data_brokers",
+      "summary": "Comments",
+      "published": "2026-11-26T18:37:21+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -437,11 +453,11 @@
       }
     },
     {
-      "title": "Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years",
-      "link": "https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/",
+      "title": "CTO of 'RansomwareHelp' Indicted for Wire Fraud",
+      "link": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
       "summary": "Comments",
-      "published": "2026-11-26T05:12:59+00:00",
-      "domain": "fosscomics.com",
+      "published": "2026-11-26T17:47:45+00:00",
+      "domain": "krebsonsecurity.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -453,26 +469,10 @@
       }
     },
     {
-      "title": "Minipg: PostgreSQL as a Single Executable",
-      "link": "https://progrium.github.io/minipg/",
+      "title": "YouTube Ad Punisher \u2013 Auto-reloads YouTube pages when an ad plays",
+      "link": "https://github.com/antonpictures/youtube-punisher",
       "summary": "Comments",
-      "published": "2026-11-26T03:00:48+00:00",
-      "domain": "progrium.github.io",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Much shorter version of GRH Lean verification from Anthropic",
-      "link": "https://github.com/lsernau/grh-lean",
-      "summary": "Comments",
-      "published": "2026-11-25T21:48:10+00:00",
+      "published": "2026-11-26T17:36:47+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -487,11 +487,11 @@
   ],
   "all_articles": [
     {
-      "title": "Mirror life is dangerous. Regulators must act before it becomes real",
-      "link": "https://www.economist.com/leaders/2026/10/01/mirror-life-is-dangerous-regulators-must-act-before-it-becomes-real",
-      "summary": "Article URL: https://www.economist.com/leaders/2026/10/01/mirror-life-is-dangerous-regulators-must-act-before-it-becomes-real Comments URL: https://news.ycombinator.com/item?id=50652370 Points: 1 # Co...",
-      "published": "2026-11-26T07:05:59+00:00",
-      "domain": "economist.com",
+      "title": "Project Loki: ICMP Tunneling",
+      "link": "https://phrack.org/issues/49/project-loki-icmp-tunneling",
+      "summary": "Article URL: https://phrack.org/issues/49/project-loki-icmp-tunneling Comments URL: https://news.ycombinator.com/item?id=50659706 Points: 1 # Comments: 0",
+      "published": "2026-11-26T20:56:36+00:00",
+      "domain": "phrack.org",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -503,15 +503,15 @@
       }
     },
     {
-      "title": "Stanford Physicist working with Astra 6 has algebraically Quantized Gravity",
-      "link": "https://www.reddit.com/r/singularity/comments/1y5u17u/standford_physicist_venkatesa_chandraeskaran/",
-      "summary": "Article URL: https://www.reddit.com/r/singularity/comments/1y5u17u/standford_physicist_venkatesa_chandraeskaran/ Comments URL: https://news.ycombinator.com/item?id=50652368 Points: 1 # Comments: 0",
-      "published": "2026-11-26T07:05:37+00:00",
-      "domain": "reddit.com",
+      "title": "Show HN: AgentDesign \u2013 Make your coding agent draw each screen before it codes",
+      "link": "https://getagentdesign.com/",
+      "summary": "Article URL: https://getagentdesign.com/ Comments URL: https://news.ycombinator.com/item?id=50659697 Points: 1 # Comments: 0",
+      "published": "2026-11-26T20:55:36+00:00",
+      "domain": "getagentdesign.com",
       "scores": {
-        "chaos": 12.0,
-        "anarchy": 12.0,
-        "overall": 12.0
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
       },
       "keywords": {
         "chaos": [],
@@ -519,26 +519,10 @@
       }
     },
     {
-      "title": "The MacBook Pro's OLED PWM problem: when a 'better' display becomes worse to use",
-      "link": "https://www.reddit.com/r/macbookpro/comments/1xwrfh5/the_macbook_pros_oled_pwm_problem_when_a_better/",
-      "summary": "Article URL: https://www.reddit.com/r/macbookpro/comments/1xwrfh5/the_macbook_pros_oled_pwm_problem_when_a_better/ Comments URL: https://news.ycombinator.com/item?id=50652360 Points: 1 # Comments: 0",
-      "published": "2026-11-26T07:04:34+00:00",
-      "domain": "reddit.com",
-      "scores": {
-        "chaos": 12.0,
-        "anarchy": 12.0,
-        "overall": 12.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "EVST \u2013 A higher-level, event-driven API for NgRx Store and Redux Toolkit",
-      "link": "https://github.com/fredyang/evst",
-      "summary": "Article URL: https://github.com/fredyang/evst Comments URL: https://news.ycombinator.com/item?id=50652334 Points: 1 # Comments: 0",
-      "published": "2026-11-26T06:58:41+00:00",
+      "title": "Show HN: OIM \u2013 Multilingual interactive images inside a signed PNG (Apache-2.0)",
+      "link": "https://github.com/oim-media/oim",
+      "summary": "Article URL: https://github.com/oim-media/oim Comments URL: https://news.ycombinator.com/item?id=50659669 Points: 1 # Comments: 0",
+      "published": "2026-11-26T20:52:40+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -551,10 +535,74 @@
       }
     },
     {
-      "title": "KeePassium: KeePass-compatible password manager for iOS and macOS",
-      "link": "https://github.com/keepassium/KeePassium",
-      "summary": "Article URL: https://github.com/keepassium/KeePassium Comments URL: https://news.ycombinator.com/item?id=50652325 Points: 1 # Comments: 0",
-      "published": "2026-11-26T06:56:44+00:00",
+      "title": "Chinese models do not overthink, Gemini 4 Neon does",
+      "link": "https://micjm.com/blog/do-chinese-models-overthink-compared-to-american-ones/",
+      "summary": "Article URL: https://micjm.com/blog/do-chinese-models-overthink-compared-to-american-ones/ Comments URL: https://news.ycombinator.com/item?id=50659643 Points: 1 # Comments: 0",
+      "published": "2026-11-26T20:50:05+00:00",
+      "domain": "micjm.com",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Company Culture = Slack Emoji \u00f7 \u221aHeadcount",
+      "link": "https://lia.mg/posts/measuring-company-culture-with-slack-emoji/",
+      "summary": "Article URL: https://lia.mg/posts/measuring-company-culture-with-slack-emoji/ Comments URL: https://news.ycombinator.com/item?id=50659640 Points: 1 # Comments: 0",
+      "published": "2026-11-26T20:49:49+00:00",
+      "domain": "lia.mg",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "The USA as a Civilizations-esque map",
+      "link": "https://karpathy.ai/usaciv/",
+      "summary": "Comments",
+      "published": "2026-11-26T19:53:58+00:00",
+      "domain": "karpathy.ai",
+      "scores": {
+        "chaos": 3.0,
+        "anarchy": 3.0,
+        "overall": 3.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "ThreatsDay: 10M NGINX Services at Risk, 250+ Malicious Extensions, AI Server Hijacking + 17 More Stories",
+      "link": "https://thehackernews.com/2026/11/threatsday-250-rogue-extensions-10m.html",
+      "summary": "A website can look perfectly fine to the person running it. Log out, visit the same page, and things might look different. Something similar is happening with browser extensions, where even the way yo...",
+      "published": "2026-11-26T19:39:57+00:00",
+      "domain": "thehackernews.com",
+      "scores": {
+        "chaos": 18.0,
+        "anarchy": 12.0,
+        "overall": 15.0
+      },
+      "keywords": {
+        "chaos": [],
+        "anarchy": []
+      }
+    },
+    {
+      "title": "Show HN: Fuck_data_brokers.py",
+      "link": "https://github.com/gary23w/f-ck_data_brokers",
+      "summary": "Comments",
+      "published": "2026-11-26T18:37:21+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -567,11 +615,11 @@
       }
     },
     {
-      "title": "Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years",
-      "link": "https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/",
+      "title": "CTO of 'RansomwareHelp' Indicted for Wire Fraud",
+      "link": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
       "summary": "Comments",
-      "published": "2026-11-26T05:12:59+00:00",
-      "domain": "fosscomics.com",
+      "published": "2026-11-26T17:47:45+00:00",
+      "domain": "krebsonsecurity.com",
       "scores": {
         "chaos": 3.0,
         "anarchy": 3.0,
@@ -583,58 +631,10 @@
       }
     },
     {
-      "title": "1Password Hacked, Customer Data and Source Code Stolen in GitHub Account Breach",
-      "link": "https://thehackernews.com/2026/11/1password-hacked-customer-data-and.html",
-      "summary": "Popular password management software 1Password on Wednesday disclosed a security incident involving its backend systems that led to the unauthorized access of some customer information, but emphasized...",
-      "published": "2026-11-26T04:20:22+00:00",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 18.0,
-        "anarchy": 12.0,
-        "overall": 15.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "13 Malicious NuGet Packages Turn Fake .NET Job Assessments Into Malware Delivery Traps",
-      "link": "https://thehackernews.com/2026/11/13-malicious-nuget-packages-turn-fake.html",
-      "summary": "Cybersecurity researchers have discovered 13 malicious NuGet packages that are designed to target Windows .NET developers under the guise of a fake take-home job assessment. \"Most of the packages pose...",
-      "published": "2026-11-26T03:48:52+00:00",
-      "domain": "thehackernews.com",
-      "scores": {
-        "chaos": 18.0,
-        "anarchy": 12.0,
-        "overall": 15.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Minipg: PostgreSQL as a Single Executable",
-      "link": "https://progrium.github.io/minipg/",
+      "title": "YouTube Ad Punisher \u2013 Auto-reloads YouTube pages when an ad plays",
+      "link": "https://github.com/antonpictures/youtube-punisher",
       "summary": "Comments",
-      "published": "2026-11-26T03:00:48+00:00",
-      "domain": "progrium.github.io",
-      "scores": {
-        "chaos": 3.0,
-        "anarchy": 3.0,
-        "overall": 3.0
-      },
-      "keywords": {
-        "chaos": [],
-        "anarchy": []
-      }
-    },
-    {
-      "title": "Much shorter version of GRH Lean verification from Anthropic",
-      "link": "https://github.com/lsernau/grh-lean",
-      "summary": "Comments",
-      "published": "2026-11-25T21:48:10+00:00",
+      "published": "2026-11-26T17:36:47+00:00",
       "domain": "github.com",
       "scores": {
         "chaos": 3.0,
@@ -647,7 +647,7 @@
       }
     }
   ],
-  "last_updated": "2026-11-26T07:12:29.754011",
+  "last_updated": "2026-11-26T21:01:36.200881",
   "stats": {
     "total_feeds": 5,
     "successful": 4,

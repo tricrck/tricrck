@@ -14,15 +14,15 @@
 
 ## 🚨 Tech Stories
 
-### 1Password Hacked, Customer Data and Source Code Stolen in GitHub Account Breach
+### ThreatsDay: 10M NGINX Services at Risk, 250+ Malicious Extensions, AI Server Hijacking + 17 More Stories
 - **Published**: November 26, 2026
-- **Summary**: Popular password management software 1Password on Wednesday disclosed a security incident involving its backend systems that led to the unauthorized a...
-- [Read more](https://thehackernews.com/2026/11/1password-hacked-customer-data-and.html)
+- **Summary**: A website can look perfectly fine to the person running it. Log out, visit the same page, and things might look different. Something similar is happen...
+- [Read more](https://thehackernews.com/2026/11/threatsday-250-rogue-extensions-10m.html)
 
-### 13 Malicious NuGet Packages Turn Fake .NET Job Assessments Into Malware Delivery Traps
+### Project Loki: ICMP Tunneling
 - **Published**: November 26, 2026
-- **Summary**: Cybersecurity researchers have discovered 13 malicious NuGet packages that are designed to target Windows .NET developers under the guise of a fake ta...
-- [Read more](https://thehackernews.com/2026/11/13-malicious-nuget-packages-turn-fake.html)
+- **Summary**: Article URL: https://phrack.org/issues/49/project-loki-icmp-tunneling Comments URL: https://news.ycombinator.com/item?id=50659706 Points: 1 # Comments...
+- [Read more](https://phrack.org/issues/49/project-loki-icmp-tunneling)
 
 ---
 
