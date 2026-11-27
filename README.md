@@ -14,16 +14,15 @@
 
 ## 🚨 Tech Stories
 
-### Switzerland Confirms AI-Assisted Cyberattacks Breached Critical Infrastructure Operators
+### Suspected Vietnam-Linked Hackers Target Southeast Asia in South China Sea Espionage Campaign
 - **Published**: November 27, 2026
-- **Summary**: Attackers using AI agents have broken into computer systems at Swiss organizations in four of five confirmed attacks, the first such cases in the coun...
-- **Keywords**: broken
-- [Read more](https://thehackernews.com/2026/11/switzerland-confirms-ai-assisted.html)
+- **Summary**: A Vietnam-sponsored hacking group has been attributed to attacks targeting Southeast Asian military, government, and legislative organizations with an...
+- [Read more](https://thehackernews.com/2026/11/suspected-vietnam-linked-hackers-target.html)
 
-### Ladybird browser's first downloadable alpha is surprisingly capable
+### Microsoft Store App Found Delivering Vinci RAT Capable of Remote System Control
 - **Published**: November 27, 2026
-- **Summary**: Article URL: https://arstechnica.com/gadgets/2026/11/ladybirds-new-alpha-shows-theres-life-beyond-chromium/ Comments URL: https://news.ycombinator.com...
-- [Read more](https://arstechnica.com/gadgets/2026/11/ladybirds-new-alpha-shows-theres-life-beyond-chromium/)
+- **Summary**: Cybersecurity researchers have disclosed details of a cyber attack in which a threat actor leveraged a Microsoft Store application to deliver a remote...
+- [Read more](https://thehackernews.com/2026/11/microsoft-store-app-found-delivering.html)
 
 ---
 
